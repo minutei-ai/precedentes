@@ -1,0 +1,42 @@
+# TRT24 · Súmula
+
+**38 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt24-sum-1.md) — Situação não informada
+- [SUM 2](trt24-sum-2.md) — Situação não informada
+- [SUM 3](trt24-sum-3.md) — Situação não informada
+- [SUM 4](trt24-sum-4.md) — Situação não informada
+- [SUM 5](trt24-sum-5.md) — Cancelada
+- [SUM 6](trt24-sum-6.md) — Situação não informada
+- [SUM 7](trt24-sum-7.md) — Situação não informada
+- [SUM 8](trt24-sum-8.md) — Situação não informada
+- [SUM 9](trt24-sum-9.md) — Situação não informada
+- [SUM 10](trt24-sum-10.md) — Cancelada
+- [SUM 11](trt24-sum-11.md) — Situação não informada
+- [SUM 12](trt24-sum-12.md) — Cancelada
+- [SUM 13](trt24-sum-13.md) — Cancelada
+- [SUM 14](trt24-sum-14.md) — Suspensa
+- [SUM 15](trt24-sum-15.md) — Situação não informada
+- [SUM 16](trt24-sum-16.md) — Situação não informada
+- [SUM 17](trt24-sum-17.md) — Alterada
+- [SUM 18](trt24-sum-18.md) — Situação não informada
+- [SUM 19](trt24-sum-19.md) — Cancelada
+- [SUM 20](trt24-sum-20.md) — Situação não informada
+- [SUM 21](trt24-sum-21.md) — Situação não informada
+- [SUM 22](trt24-sum-22.md) — Situação não informada
+- [SUM 23](trt24-sum-23.md) — Alterada
+- [SUM 24](trt24-sum-24.md) — Situação não informada
+- [SUM 25](trt24-sum-25.md) — Situação não informada
+- [SUM 26](trt24-sum-26.md) — Situação não informada
+- [SUM 27](trt24-sum-27.md) — Cancelada
+- [SUM 28](trt24-sum-28.md) — Situação não informada
+- [SUM 29](trt24-sum-29.md) — Situação não informada
+- [SUM 30](trt24-sum-30.md) — Cancelada
+- [SUM 31](trt24-sum-31.md) — Cancelada
+- [SUM 32](trt24-sum-32.md) — Situação não informada
+- [SUM 33](trt24-sum-33.md) — Situação não informada
+- [SUM 34](trt24-sum-34.md) — Situação não informada
+- [SUM 35](trt24-sum-35.md) — Situação não informada
+- [SUM 36](trt24-sum-36.md) — Situação não informada
+- [SUM 37](trt24-sum-37.md) — Situação não informada
+- [SUM 38](trt24-sum-38.md) — Situação não informada
