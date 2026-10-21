@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.635 registros únicos de 79 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.653 registros únicos de 79 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -116,6 +116,7 @@
 | [TRE-RS — Consulta conhecida de 2023 com acórdão completo](https://www.tre-rs.jus.br/jurisprudencia/consultas-julgadas-pelo-pleno-do-tre-rs/consultas-2023/consultas-conhecidas-elegibilidade-de-parente-ate-2o-de-prefeito-reeleito) | 1 | 1 | 0 |
 | [TRE-AC — Súmulas e PDFs individuais oficiais](https://www.tre-ac.jus.br/jurisprudencia/sumula) | 2 | 2 | 0 |
 | [TSE — Súmulas e páginas individuais oficiais](https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas/sumulas-do-tse?b_size=100) | 73 | 73 | 0 |
+| [STM — Catálogo de súmulas, PDFs e textos oficiais](https://dspace.stm.jus.br/handle/123456789/247) | 18 | 18 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -136,6 +137,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O STM acrescenta as 18 súmulas da coleção oficial do repositório DSpace, verificadas pela API: a coleção informa 18 itens, e a consulta paginada retornou os 18 identificadores distintos. Foram coletados os metadados, os 18 PDFs originais de uma página e os 18 anexos textuais disponibilizados pelo próprio repositório. Tamanhos e checksums dos dois anexos de cada item foram conferidos com os metadados oficiais. A releitura do catálogo confirmou as mesmas identidades e títulos.
+
+Os campos de situação do STM classificam 1, 2, 4, 6, 10 e 15 como “Cancelado” e os demais 12 como “Vigente”. Esses valores foram preservados com atribuição à fonte, sem revisão independente de vigência. Também foram mantidos os textos anteriores e as referências de publicações, republicações, cancelamentos e julgados. As datas de entrada e disponibilização no repositório permanecem identificadas como catalogação. A data (DJ) dos metadados não foi reinterpretada como edição ou cancelamento: na nº 10, por exemplo, o catálogo informa 24/12/1996 e o documento registra o cancelamento em 2018.
+
+O texto extraído pelo DSpace e a extração do PDF original foram preservados separadamente. Em tabelas, as extrações podem ordenar os julgados e as datas de sessão de formas diferentes; não houve fusão ou correção presumida. Os metadados técnicos de vínculo interno ficaram apenas na captura privada. A coleta ocorreu diretamente por HTTP, com TLS validado. Os julgados e atos citados e as demais séries de precedentes do STM permanecem pendentes; os dois IRDRs já obtidos pelo BNP foram mantidos.
 
 O TSE acrescenta as 73 súmulas do catálogo oficial, conciliadas com as 73 páginas individuais. O catálogo foi capturado com 100 entradas por página, apresentou a sequência completa de 1 a 73 sem paginação restante e foi relido após a coleta dos documentos, sem alteração dos registros. As sete etiquetas de cancelamento — 1, 7, 8, 14, 16, 17 e 21 — foram conferidas com as notas individuais. As redações anteriores das súmulas 6, 15, 19 e 20 foram preservadas junto das respectivas redações apresentadas como atuais pela fonte.
 
@@ -333,7 +340,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [STJ](tribunais/STJ/) | 3.044 | 3.016 | 3.016 |
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
-| [STM](tribunais/STM/) | 2 | 2 | 2 |
+| [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 110 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 24 | 24 | 24 |
