@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.284 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.335 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -99,6 +99,10 @@
 | [TJES — Planilha oficial de súmulas, referências e anotações](https://www.tjes.jus.br/wp-content/uploads/Planilha_Sumulas.pdf) | 23 | 0 | 23 |
 | [TJPR — Enunciados das Turmas Recursais e de Uniformização](https://www.tjpr.jus.br/enunciados-turmas-recursais) | 66 | 66 | 0 |
 | [TJSC — Enunciados da Turma de Uniformização dos Juizados Especiais](https://www.tjsc.jus.br/web/jurisprudencia/turma-de-uniformizacao-dos-juizados-especiais) | 89 | 89 | 0 |
+| [TJSC — Enunciados — Câmara de Recursos Delegados](https://www.tjsc.jus.br/web/jurisprudencia/camara-de-recursos-delegados) | 7 | 7 | 0 |
+| [TJSC — Enunciados — Grupo de Câmaras de Direito Civil](https://www.tjsc.jus.br/web/jurisprudencia/grupo-de-camaras-de-direito-civil) | 2 | 2 | 0 |
+| [TJSC — Enunciados — Grupo de Câmaras de Direito Comercial](https://www.tjsc.jus.br/web/jurisprudencia/grupo-de-camaras-de-direito-comercial) | 15 | 15 | 0 |
+| [TJSC — Enunciados — Grupo de Câmaras de Direito Público](https://www.tjsc.jus.br/web/jurisprudencia/grupo-de-camaras-de-direito-publico) | 27 | 27 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -119,6 +123,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+Os quatro catálogos de enunciados dos demais órgãos julgadores do TJSC acrescentam 51 registros em séries independentes, com numeração romana: sete da Câmara de Recursos Delegados (EN-CRD), dois do Grupo de Câmaras de Direito Civil (EN-GCD-CIV), 15 do Grupo de Câmaras de Direito Comercial (EN-GCD-COM) e 27 do Grupo de Câmaras de Direito Público (EN-GCD-PUB). Os textos e todos os parágrafos de publicação, revisão e histórico foram preservados, sem agrupar enunciados de séries diferentes pelo número.
+
+Foram mantidos os cancelamentos do I de Recursos Delegados e do XV de Direito Comercial, as novas redações dos III e V de Direito Comercial e as revogações dos V, XV, XXVI e XXVII de Direito Público. O XXVII conserva tanto o texto anterior riscado quanto a nota de revogação parcial, a redação então substituída e o comunicado posterior de revogação. Datas e números de processo permanecem como publicados, inclusive pontuações incomuns. Cada catálogo foi relido e seu conteúdo jurídico integral comparado entre as capturas. As situações refletem as anotações da fonte; a presença na página não comprova vigência atual. Os atos e processos citados não foram coletados neste lote.
 
 O catálogo da Turma de Uniformização dos Juizados Especiais do TJSC acrescenta 89 enunciados em série própria (EN-TUJ), sem duplicar as súmulas gerais e os incidentes do BNP. A página vai do número 1 ao 90, sem entrada para o nº 55; a lacuna foi preservada e não permite inferir texto ou situação para esse número. Foram mantidos todos os parágrafos e referências, os avisos de revogação dos nºs 2 e 46, o cancelamento do nº 30 e a indicação de nova redação do nº 25. Os textos riscados dos nºs 30 e 46 permanecem como históricos. As últimas entradas incluem referências a sessões de setembro de 2026.
 
@@ -281,7 +289,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRS](tribunais/TJRS/) | 292 | 47 | 47 |
 | [TJRO](tribunais/TJRO/) | 30 | 21 | 21 |
 | [TJRR](tribunais/TJRR/) | 51 | 29 | 29 |
-| [TJSC](tribunais/TJSC/) | 248 | 91 | 91 |
+| [TJSC](tribunais/TJSC/) | 299 | 91 | 91 |
 | [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
 | [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
