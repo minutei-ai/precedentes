@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.335 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.386 registros únicos de 67 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -103,6 +103,7 @@
 | [TJSC — Enunciados — Grupo de Câmaras de Direito Civil](https://www.tjsc.jus.br/web/jurisprudencia/grupo-de-camaras-de-direito-civil) | 2 | 2 | 0 |
 | [TJSC — Enunciados — Grupo de Câmaras de Direito Comercial](https://www.tjsc.jus.br/web/jurisprudencia/grupo-de-camaras-de-direito-comercial) | 15 | 15 | 0 |
 | [TJSC — Enunciados — Grupo de Câmaras de Direito Público](https://www.tjsc.jus.br/web/jurisprudencia/grupo-de-camaras-de-direito-publico) | 27 | 27 | 0 |
+| [TRE-MG — Enunciados de súmulas, catálogo oficial, captura Chromium](https://www.tre-mg.jus.br/jurisprudencia/sumulas/tre-mg-sumulas) | 51 | 51 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -123,6 +124,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O catálogo de súmulas do TRE-MG acrescenta 51 registros, do número 01 ao 51, sob a autoridade TRE_MG. É a primeira fonte regional eleitoral incorporada diretamente; o catálogo consultado do BNP não disponibilizava espécies para esse órgão, o que não foi tratado como inexistência de súmulas. Foram preservados o texto de todas as entradas, a nota jurisprudencial que delimita o alcance temporal da nº 16 e os 51 links oficiais para os documentos indicados como PDF. O link da nº 22 tem sufixo próprio e foi mantido sem reconstrução.
+
+A consulta HTTP direta e o coletor nativo retornaram 403. O catálogo foi então capturado e relido pelo navegador integrado, com comparação integral do conteúdo jurídico. Os PDFs vinculados não foram coletados neste lote; os textos publicados são os exibidos na página, sem inferir vigência atual nem atualização para legislações posteriores. A conciliação dos documentos vinculados, das demais categorias do TRE-MG e dos outros tribunais regionais eleitorais permanece pendente.
 
 Os quatro catálogos de enunciados dos demais órgãos julgadores do TJSC acrescentam 51 registros em séries independentes, com numeração romana: sete da Câmara de Recursos Delegados (EN-CRD), dois do Grupo de Câmaras de Direito Civil (EN-GCD-CIV), 15 do Grupo de Câmaras de Direito Comercial (EN-GCD-COM) e 27 do Grupo de Câmaras de Direito Público (EN-GCD-PUB). Os textos e todos os parágrafos de publicação, revisão e histórico foram preservados, sem agrupar enunciados de séries diferentes pelo número.
 
@@ -329,7 +334,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_MA | 0 | 0 | 0 |
 | TRE_MT | 0 | 0 | 0 |
 | TRE_MS | 0 | 0 | 0 |
-| TRE_MG | 0 | 0 | 0 |
+| [TRE_MG](tribunais/TRE_MG/) | 51 | 0 | 0 |
 | TRE_PA | 0 | 0 | 0 |
 | TRE_PB | 0 | 0 | 0 |
 | TRE_PR | 0 | 0 | 0 |
@@ -363,7 +368,7 @@ CARF é uma fonte administrativa própria. TAMG é o extinto Tribunal de Alçada
 
 Conferimos identificadores únicos, numeração, limites dos catálogos, paginação e contagens por órgão e espécie. A busca nacional do BNP limita o campo total a 10 mil; a soma conferida por órgão é 14.753. As fontes podem mudar durante ou depois da coleta.
 
-Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisamos conciliar cada tribunal com seu portal oficial, ampliar as fontes administrativas e coletar categorias que o BNP não expõe, incluindo súmulas eleitorais.
+Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisamos conciliar cada tribunal com seu portal oficial, ampliar as fontes administrativas e coletar categorias que o BNP não expõe, incluindo as súmulas dos demais tribunais eleitorais.
 
 A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de IAC, agrupados em sete incidentes por número de processo e conferidos com os processos do BNP para evitar duplicatas. Os textos são apresentados como decisões, sem inferir tese firmada ou vigência. O inventário de classes indica também documentos históricos que a consulta ao SAJ não retornou; a conciliação com o e-SAJ e o acervo histórico do SJURIS continua pendente. Uma consulta vazia não foi tratada como inexistência de outros incidentes.
 

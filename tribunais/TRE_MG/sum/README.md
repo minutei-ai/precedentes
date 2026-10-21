@@ -1,0 +1,55 @@
+# TRE_MG · Súmula
+
+**51 registros.** [Voltar ao tribunal](../)
+
+- [SUM 01](tre-mg-sum-1.md) — Situação não informada
+- [SUM 02](tre-mg-sum-2.md) — Situação não informada
+- [SUM 03](tre-mg-sum-3.md) — Situação não informada
+- [SUM 04](tre-mg-sum-4.md) — Situação não informada
+- [SUM 05](tre-mg-sum-5.md) — Situação não informada
+- [SUM 06](tre-mg-sum-6.md) — Situação não informada
+- [SUM 07](tre-mg-sum-7.md) — Situação não informada
+- [SUM 08](tre-mg-sum-8.md) — Situação não informada
+- [SUM 09](tre-mg-sum-9.md) — Situação não informada
+- [SUM 10](tre-mg-sum-10.md) — Situação não informada
+- [SUM 11](tre-mg-sum-11.md) — Situação não informada
+- [SUM 12](tre-mg-sum-12.md) — Situação não informada
+- [SUM 13](tre-mg-sum-13.md) — Situação não informada
+- [SUM 14](tre-mg-sum-14.md) — Situação não informada
+- [SUM 15](tre-mg-sum-15.md) — Situação não informada
+- [SUM 16](tre-mg-sum-16.md) — Situação não informada
+- [SUM 17](tre-mg-sum-17.md) — Situação não informada
+- [SUM 18](tre-mg-sum-18.md) — Situação não informada
+- [SUM 19](tre-mg-sum-19.md) — Situação não informada
+- [SUM 20](tre-mg-sum-20.md) — Situação não informada
+- [SUM 21](tre-mg-sum-21.md) — Situação não informada
+- [SUM 22](tre-mg-sum-22.md) — Situação não informada
+- [SUM 23](tre-mg-sum-23.md) — Situação não informada
+- [SUM 24](tre-mg-sum-24.md) — Situação não informada
+- [SUM 25](tre-mg-sum-25.md) — Situação não informada
+- [SUM 26](tre-mg-sum-26.md) — Situação não informada
+- [SUM 27](tre-mg-sum-27.md) — Situação não informada
+- [SUM 28](tre-mg-sum-28.md) — Situação não informada
+- [SUM 29](tre-mg-sum-29.md) — Situação não informada
+- [SUM 30](tre-mg-sum-30.md) — Situação não informada
+- [SUM 31](tre-mg-sum-31.md) — Situação não informada
+- [SUM 32](tre-mg-sum-32.md) — Situação não informada
+- [SUM 33](tre-mg-sum-33.md) — Situação não informada
+- [SUM 34](tre-mg-sum-34.md) — Situação não informada
+- [SUM 35](tre-mg-sum-35.md) — Situação não informada
+- [SUM 36](tre-mg-sum-36.md) — Situação não informada
+- [SUM 37](tre-mg-sum-37.md) — Situação não informada
+- [SUM 38](tre-mg-sum-38.md) — Situação não informada
+- [SUM 39](tre-mg-sum-39.md) — Situação não informada
+- [SUM 40](tre-mg-sum-40.md) — Situação não informada
+- [SUM 41](tre-mg-sum-41.md) — Situação não informada
+- [SUM 42](tre-mg-sum-42.md) — Situação não informada
+- [SUM 43](tre-mg-sum-43.md) — Situação não informada
+- [SUM 44](tre-mg-sum-44.md) — Situação não informada
+- [SUM 45](tre-mg-sum-45.md) — Situação não informada
+- [SUM 46](tre-mg-sum-46.md) — Situação não informada
+- [SUM 47](tre-mg-sum-47.md) — Situação não informada
+- [SUM 48](tre-mg-sum-48.md) — Situação não informada
+- [SUM 49](tre-mg-sum-49.md) — Situação não informada
+- [SUM 50](tre-mg-sum-50.md) — Situação não informada
+- [SUM 51](tre-mg-sum-51.md) — Situação não informada
