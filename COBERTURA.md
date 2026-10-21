@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.995 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.017 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -76,6 +76,9 @@
 | [TJRS — Enunciados sobre decisões do Órgão Especial, atualização de julho de 2007](https://www.tjrs.jus.br/static/2018/05/enunciados-sobre-decisoes-do-orgao-especial.pdf) | 15 | 15 | 0 |
 | [TJMT — Compilação de súmulas cíveis e da Fazenda Pública, com aprovações de 2023](https://supervisaodosjuizadosespeciais-mc.tjmt.jus.br/portalsupervisaojuizadosespeciais-arquivos-prod/cms/TODAS_AS_SUMULAS_DA_TURMA_RECURSAL_DO_ESTADO_DE_MATO_GROSSO_7726936aae.pdf) | 69 | 69 | 0 |
 | [TJMT — Errata das súmulas e revogações aprovadas em julho de 2025](https://supervisaodosjuizadosespeciais-mc.tjmt.jus.br/portalsupervisaojuizadosespeciais-arquivos-prod/cms/3_1_ERRATA_1_PUBLICACAO_3cb3c6b5a3.pdf) | 11 | 9 | 2 |
+| [TJRR — Catálogo de súmulas das Câmaras Reunidas](https://www.tjrr.jus.br/index.php/sumulas) | 3 | 3 | 0 |
+| [TJRR — Catálogo de enunciados da Turma Recursal](https://www.tjrr.jus.br/index.php/enunciados) | 19 | 19 | 0 |
+| [TJRR — Página dos enunciados da Turma Recursal](https://www.tjrr.jus.br/index.php/enunciados-da-turma-recursal-do-tjrr) | 19 | 0 | 19 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -96,6 +99,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TJRR inclui as três súmulas do catálogo das Câmaras Reunidas, com os enunciados, ramos do Direito, datas de aprovação e links individuais mantidos. As aprovações informadas são de 23/02/2017 para a nº 1 e de 28/05/2020 para as nºs 2 e 3.
+
+Os 19 enunciados da Turma Recursal do TJRR ficam em série própria (EN-TR). O catálogo da CPLJ e a página dos Juizados Especiais foram conciliados nos mesmos 19 identificadores, preservando as pequenas diferenças de redação, publicações e notas de revogação das nºs 1, 5, 6 e 7. Não contamos os 19 enunciados duas vezes por constarem de duas páginas oficiais. As referências preservadas abrangem publicações de 2008 a 2015; sua presença no portal atual não prova inexistência de atos posteriores. São 22 registros novos nas duas séries, sem duplicar os incidentes IAC e IRDR do BNP.
 
 O TJMT inclui a compilação oficial de 46 súmulas cíveis e 23 da Fazenda Pública da Turma Recursal, com aprovações de 2023, em séries independentes (SUM-TR-CIV e SUM-TR-FP). Foram preservados os textos e as notas de aprovação e nova redação; as entradas cíveis 16 e 17 aparecem apenas como revogadas na compilação, sem texto histórico inventado.
 
@@ -205,7 +212,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRN](tribunais/TJRN/) | 63 | 11 | 11 |
 | [TJRS](tribunais/TJRS/) | 292 | 47 | 47 |
 | [TJRO](tribunais/TJRO/) | 21 | 21 | 21 |
-| [TJRR](tribunais/TJRR/) | 29 | 29 | 29 |
+| [TJRR](tribunais/TJRR/) | 51 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 159 | 91 | 91 |
 | [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
 | [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
