@@ -88,7 +88,8 @@ Cada registro tem um arquivo Markdown com o texto disponível, a questão discut
 Leia aqui no GitHub, [baixe o ZIP](https://github.com/minutei-ai/precedentes/archive/refs/heads/main.zip) ou clone:
 
 ```bash
-git clone https://github.com/minutei-ai/precedentes.git```
+git clone https://github.com/minutei-ai/precedentes.git
+```
 
 ## Fontes e cobertura
 
@@ -105,7 +106,8 @@ Os scripts de coleta e conversão estão em [scripts/](scripts/). Com [Bun](http
 ```bash
 bun install --frozen-lockfile
 bun run audit
-bun test```
+bun test
+```
 
 A coleta é sequencial, com espera entre requisições, tentativas limitadas e retomada por órgão. Para uma nova fotografia da fonte, use uma cópia de trabalho sem a pasta `fontes/pangea`; `bun run collect` retoma a fotografia existente e não atualiza órgãos já concluídos. Gere e revise o resultado com `bun run build` e `bun run audit` antes de publicar.
 
