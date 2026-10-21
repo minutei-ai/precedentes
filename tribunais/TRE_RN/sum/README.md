@@ -1,0 +1,46 @@
+# TRE_RN · Súmula
+
+**42 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tre-rn-sum-1.md) — Mantida pela Resolução nº 177/2026
+- [SUM 2](tre-rn-sum-2.md) — Cancelada pela Resolução nº 177/2026
+- [SUM 3](tre-rn-sum-3.md) — Cancelada pela Resolução nº 177/2026
+- [SUM 4](tre-rn-sum-4.md) — Cancelada pela Resolução nº 177/2026
+- [SUM 5](tre-rn-sum-5.md) — Nova redação pela Resolução nº 177/2026
+- [SUM 6](tre-rn-sum-6.md) — Mantida pela Resolução nº 177/2026
+- [SUM 7](tre-rn-sum-7.md) — Mantida pela Resolução nº 177/2026
+- [SUM 8](tre-rn-sum-8.md) — Cancelada pela Resolução nº 177/2026
+- [SUM 9](tre-rn-sum-9.md) — Cancelada pela Resolução nº 177/2026
+- [SUM 10](tre-rn-sum-10.md) — Mantida pela Resolução nº 177/2026
+- [SUM 11](tre-rn-sum-11.md) — Mantida pela Resolução nº 177/2026
+- [SUM 12](tre-rn-sum-12.md) — Cancelada pela Resolução nº 177/2026
+- [SUM 13](tre-rn-sum-13.md) — Mantida pela Resolução nº 177/2026
+- [SUM 14](tre-rn-sum-14.md) — Nova redação pela Resolução nº 177/2026
+- [SUM 15](tre-rn-sum-15.md) — Nova redação pela Resolução nº 177/2026
+- [SUM 16](tre-rn-sum-16.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 17](tre-rn-sum-17.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 18](tre-rn-sum-18.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 19](tre-rn-sum-19.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 20](tre-rn-sum-20.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 21](tre-rn-sum-21.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 22](tre-rn-sum-22.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 23](tre-rn-sum-23.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 24](tre-rn-sum-24.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 25](tre-rn-sum-25.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 26](tre-rn-sum-26.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 27](tre-rn-sum-27.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 28](tre-rn-sum-28.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 29](tre-rn-sum-29.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 30](tre-rn-sum-30.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 31](tre-rn-sum-31.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 32](tre-rn-sum-32.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 33](tre-rn-sum-33.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 34](tre-rn-sum-34.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 35](tre-rn-sum-35.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 36](tre-rn-sum-36.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 37](tre-rn-sum-37.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 38](tre-rn-sum-38.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 39](tre-rn-sum-39.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 40](tre-rn-sum-40.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 41](tre-rn-sum-41.md) — Aprovada pela Resolução nº 177/2026
+- [SUM 42](tre-rn-sum-42.md) — Aprovada pela Resolução nº 177/2026
