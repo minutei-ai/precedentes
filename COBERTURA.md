@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.017 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.052 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -89,6 +89,7 @@
 | [TJPA — Súmulas Anotadas: Direito Penal](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/331256-Direito-Penal.xhtml) | 10 | 0 | 10 |
 | [TJPA — Súmulas Anotadas: Direito Processual Civil](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/331266-Direito-Processual-Civil.xhtml) | 5 | 0 | 5 |
 | [TJPA — Súmulas Anotadas: Direito Processual Penal](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/336244-Direito-Processual-Penal.xhtml) | 9 | 0 | 9 |
+| [TJAP — Revista Diretriz, volume 1, nº 1, capa de outubro de 2021](https://old.tjap.jus.br/portal/images/NUGEPNAC/Revista_Diretriz_n_01_1.pdf) | 35 | 35 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -109,6 +110,8 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+A Revista Diretriz do TJAP, volume 1, nº 1, com capa de outubro de 2021, acrescenta 25 súmulas gerais e dez da Turma Recursal (SUM-TR), em séries independentes. A captura foi obtida no domínio oficial antigo; o portal principal não entregou captura válida e a navegação nativa retornou HTTP 522. A edição histórica não comprova completude ou vigência atual. As súmulas geral nº 8 e recursal nº 5 trazem aviso expresso de cancelamento. Preservamos as referências e publicações, inclusive duas divergências da fonte: a recursal nº 4 tem corpo que descreve o cancelamento da nº 5; a geral nº 25 informa publicações em novembro de 2021 e uma terceira em 05/11/2019, apesar da data da capa. Nenhuma dessas divergências foi corrigida por inferência.
 
 As 32 súmulas do TJPA foram conciliadas com as seis áreas do catálogo de Súmulas Anotadas: Direito Administrativo, Civil, do Consumidor, Penal, Processual Civil e Processual Penal. Todas correspondem aos identificadores já publicados pelo BNP, sem acréscimo à contagem. Foram preservados os textos apresentados no catálogo e coletadas as 26 páginas de anotações vinculadas, com os precedentes, excertos, referências legislativas e links oficiais disponíveis em cada uma. As nºs 1, 2, 3, 4, 10 e 11 têm texto no catálogo, mas não têm página de anotações vinculada.
 
@@ -210,7 +213,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF06](tribunais/TRF06/) | 22 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 7 | 7 | 7 |
 | [TJAL](tribunais/TJAL/) | 4 | 4 | 4 |
-| [TJAP](tribunais/TJAP/) | 45 | 45 | 45 |
+| [TJAP](tribunais/TJAP/) | 80 | 45 | 45 |
 | [TJAM](tribunais/TJAM/) | 72 | 72 | 72 |
 | [TJBA](tribunais/TJBA/) | 118 | 118 | 118 |
 | [TJCE](tribunais/TJCE/) | 96 | 17 | 17 |
