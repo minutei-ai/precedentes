@@ -1,6 +1,6 @@
 # Cobertura
 
-**16.620 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**16.692 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 22 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -12,10 +12,11 @@
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
 | [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
+| [TJCE — Súmulas, edição de 2025](https://portal.tjce.jus.br/uploads/2025/09/SUMULAS-2025.pdf) | 72 | 72 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
-O livro do TST contém sete categorias: súmulas, orientações jurisprudenciais da SBDI-I, da SBDI-I transitória, da SBDI-II, da SDC e do Tribunal Pleno/Órgão Especial, além de precedentes normativos. A numeração foi conferida dentro de cada categoria. No CARF, a consolidação foi conferida do primeiro ao último número publicado. No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os números 199, 256 e 282 têm registros repetidos ou redações históricas, preservados separadamente no mesmo Markdown. A situação de cada versão é a informada pela fonte.
+O livro do TST contém sete categorias: súmulas, orientações jurisprudenciais da SBDI-I, da SBDI-I transitória, da SBDI-II, da SDC e do Tribunal Pleno/Órgão Especial, além de precedentes normativos. A numeração foi conferida dentro de cada categoria. No CARF, a consolidação foi conferida do primeiro ao último número publicado. No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os números 199, 256 e 282 têm registros repetidos ou redações históricas, preservados separadamente no mesmo Markdown. A situação de cada versão é a informada pela fonte. O livro de súmulas do TJCE, edição de 2025, contém 72 verbetes consecutivos; mantemos as referências e observações de cada verbete. A edição não comprova que todas as súmulas posteriores já estejam incluídas.
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
@@ -42,7 +43,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJAP](tribunais/TJAP/) | 45 | 45 | 45 |
 | [TJAM](tribunais/TJAM/) | 72 | 72 | 72 |
 | [TJBA](tribunais/TJBA/) | 118 | 118 | 118 |
-| [TJCE](tribunais/TJCE/) | 17 | 17 | 17 |
+| [TJCE](tribunais/TJCE/) | 89 | 17 | 17 |
 | [TJDF](tribunais/TJDF/) | 41 | 41 | 41 |
 | [TJES](tribunais/TJES/) | 162 | 162 | 162 |
 | [TJGO](tribunais/TJGO/) | 151 | 151 | 151 |
@@ -126,5 +127,7 @@ CARF é uma fonte administrativa própria e não integra o catálogo judicial do
 Conferimos identificadores únicos, numeração, limites dos catálogos, paginação e contagens por órgão e espécie. A busca nacional do BNP limita o campo total a 10 mil; a soma conferida por órgão é 14.753. As fontes podem mudar durante ou depois da coleta.
 
 Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisamos conciliar cada tribunal com seu portal oficial, ampliar as fontes administrativas e coletar categorias que o BNP não expõe, incluindo súmulas eleitorais.
+
+A conciliação dos IRDR e IAC do TJCE com o e-SAJ e o SJURIS ainda está pendente. A consulta ao inventário de classes do SJURIS revelou decisões além das representadas no BNP, mas as páginas de resultados não foram integralmente verificadas; esses dados não foram contados como precedentes adicionais.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.
