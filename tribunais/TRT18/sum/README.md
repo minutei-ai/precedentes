@@ -1,0 +1,71 @@
+# TRT18 · Súmula
+
+**67 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt18-sum-1.md) — Situação não informada
+- [SUM 2](trt18-sum-2.md) — Situação não informada
+- [SUM 3](trt18-sum-3.md) — Situação não informada
+- [SUM 4](trt18-sum-4.md) — Situação não informada
+- [SUM 5](trt18-sum-5.md) — Situação não informada
+- [SUM 6](trt18-sum-6.md) — Situação não informada
+- [SUM 7](trt18-sum-7.md) — Situação não informada
+- [SUM 8](trt18-sum-8.md) — Situação não informada
+- [SUM 9](trt18-sum-9.md) — Cancelada
+- [SUM 10](trt18-sum-10.md) — Situação não informada
+- [SUM 11](trt18-sum-11.md) — Situação não informada
+- [SUM 12](trt18-sum-12.md) — Situação não informada
+- [SUM 13](trt18-sum-13.md) — Situação não informada
+- [SUM 14](trt18-sum-14.md) — Cancelada
+- [SUM 15](trt18-sum-15.md) — Situação não informada
+- [SUM 16](trt18-sum-16.md) — Situação não informada
+- [SUM 17](trt18-sum-17.md) — Situação não informada
+- [SUM 18](trt18-sum-18.md) — Situação não informada
+- [SUM 19](trt18-sum-19.md) — Cancelada
+- [SUM 20](trt18-sum-20.md) — Situação não informada
+- [SUM 22](trt18-sum-22.md) — Situação não informada
+- [SUM 23](trt18-sum-23.md) — Situação não informada
+- [SUM 24](trt18-sum-24.md) — Situação não informada
+- [SUM 25](trt18-sum-25.md) — Situação não informada
+- [SUM 26](trt18-sum-26.md) — Situação não informada
+- [SUM 27](trt18-sum-27.md) — Situação não informada
+- [SUM 28](trt18-sum-28.md) — Situação não informada
+- [SUM 29](trt18-sum-29.md) — Situação não informada
+- [SUM 30](trt18-sum-30.md) — Situação não informada
+- [SUM 31](trt18-sum-31.md) — Situação não informada
+- [SUM 32](trt18-sum-32.md) — Situação não informada
+- [SUM 33](trt18-sum-33.md) — Situação não informada
+- [SUM 34](trt18-sum-34.md) — Situação não informada
+- [SUM 35](trt18-sum-35.md) — Situação não informada
+- [SUM 36](trt18-sum-36.md) — Situação não informada
+- [SUM 37](trt18-sum-37.md) — Situação não informada
+- [SUM 38](trt18-sum-38.md) — Situação não informada
+- [SUM 39](trt18-sum-39.md) — Situação não informada
+- [SUM 40](trt18-sum-40.md) — Situação não informada
+- [SUM 41](trt18-sum-41.md) — Situação não informada
+- [SUM 42](trt18-sum-42.md) — Situação não informada
+- [SUM 43](trt18-sum-43.md) — Situação não informada
+- [SUM 44](trt18-sum-44.md) — Situação não informada
+- [SUM 45](trt18-sum-45.md) — Situação não informada
+- [SUM 46](trt18-sum-46.md) — Situação não informada
+- [SUM 47](trt18-sum-47.md) — Situação não informada
+- [SUM 48](trt18-sum-48.md) — Situação não informada
+- [SUM 49](trt18-sum-49.md) — Situação não informada
+- [SUM 50](trt18-sum-50.md) — Situação não informada
+- [SUM 51](trt18-sum-51.md) — Situação não informada
+- [SUM 52](trt18-sum-52.md) — Situação não informada
+- [SUM 53](trt18-sum-53.md) — Situação não informada
+- [SUM 54](trt18-sum-54.md) — Situação não informada
+- [SUM 55](trt18-sum-55.md) — Situação não informada
+- [SUM 56](trt18-sum-56.md) — Situação não informada
+- [SUM 57](trt18-sum-57.md) — Situação não informada
+- [SUM 58](trt18-sum-58.md) — Situação não informada
+- [SUM 59](trt18-sum-59.md) — Situação não informada
+- [SUM 60](trt18-sum-60.md) — Situação não informada
+- [SUM 61](trt18-sum-61.md) — Situação não informada
+- [SUM 62](trt18-sum-62.md) — Situação não informada
+- [SUM 63](trt18-sum-63.md) — Situação não informada
+- [SUM 64](trt18-sum-64.md) — Situação não informada
+- [SUM 65](trt18-sum-65.md) — Situação não informada
+- [SUM 67](trt18-sum-67.md) — Situação não informada
+- [SUM 68](trt18-sum-68.md) — Situação não informada
+- [SUM 69](trt18-sum-69.md) — Situação não informada

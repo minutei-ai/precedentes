@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.238 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.305 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -49,6 +49,7 @@
 | [TRT da 14ª Região — Catálogo de súmulas (PDFs não validados)](https://portal.trt14.jus.br/portal/index.php/en/sumulas) | 8 | 8 | 0 |
 | [TRT da 14ª Região — Teses fixadas em IRDR e IAC](https://portal.trt14.jus.br/portal/index.php/teses-fixadas-irdr-iac) | 8 | 0 | 8 |
 | [TRT da 16ª Região — Súmulas, com cancelamento de junho de 2024](https://www.trt16.jus.br/sites/portal/files/roles/jurisprudencia/S%C3%BAmulas%20do%20TRT16.pdf) | 4 | 4 | 0 |
+| [TRT da 18ª Região — Súmulas do tribunal](https://www.trt18.jus.br/portal/jurisprudencia/sumula-trt18/) | 69 | 67 | 2 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -93,6 +94,8 @@ Também conferimos a página do TRT14 de teses fixadas: cinco IRDR (temas 1, 5, 
 O livro de súmulas do TRT da 16ª Região, vinculado pelo portal oficial, contém quatro verbetes, com os textos e as referências preservados. A nº 1 mantém o aviso de cancelamento pela Resolução Administrativa nº 128/2024, disponibilizada no DEJT em 13/06/2024, junto da redação histórica. A edição não comprova a cobertura de alterações posteriores.
 
 O TRT da 15ª Região inclui 146 números de súmula. A edição com processos referenciados, de 25/09/2026, é a fonte principal; em 25 números ela informa apenas o cancelamento. A versão completa de 15/06/2026 preserva as redações históricas desses números e aparece como outra fonte oficial no mesmo Markdown. Texto histórico não implica vigência.
+
+O catálogo do TRT da 18ª Região trouxe 69 súmulas consecutivas: 67 novas no acervo e duas já representadas no BNP como súmulas vinculantes (números 21 e 66). A correspondência foi conferida pelo órgão, número e texto integral do BNP contido no catálogo; preservamos os identificadores existentes e atribuímos separadamente a descrição do tribunal. Foram mantidos todos os textos, as referências, os links e as redações riscadas. Os avisos de cancelamento incluem a Súmula 14 pela RA nº 82/2025 e a Súmula 66 pela RA nº 81/2025, ambas com publicação indicada em 01/07/2025. Os limites de cada verbete foram conferidos mesmo nos trechos com marcação HTML aninhada; a página não comprova cobertura de todas as categorias de precedentes do tribunal.
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
@@ -158,7 +161,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT15](tribunais/TRT15/) | 224 | 78 | 78 |
 | [TRT16](tribunais/TRT16/) | 22 | 18 | 18 |
 | [TRT17](tribunais/TRT17/) | 40 | 40 | 40 |
-| [TRT18](tribunais/TRT18/) | 73 | 73 | 73 |
+| [TRT18](tribunais/TRT18/) | 140 | 73 | 73 |
 | [TRT19](tribunais/TRT19/) | 37 | 37 | 37 |
 | [TRT20](tribunais/TRT20/) | 34 | 34 | 34 |
 | [TRT21](tribunais/TRT21/) | 27 | 27 | 27 |
