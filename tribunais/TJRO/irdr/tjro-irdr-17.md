@@ -26,4 +26,52 @@ Uniformizar o entendimento das Câmaras Criminais quanto à ¿forma de cálculo 
 
 - 08128092920258220000
 
+## Outra fonte oficial
+
+[TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/)
+
+**Situação informada:** ACORDAO_PUBLICADO
+
+### Informações do catálogo oficial
+
+**Atualização informada pelo LIAME:** 2026-06-22
+
+**Relator:** Desembargador Osny Claro de Oliveira Junior
+
+**Referências legislativas:** Não informado(a)
+
+**Data de admissão:** 2025-12-03
+
+**Data de julgamento:** 2026-05-15
+
+**Data de publicação:** 2026-06-23
+
+**Trânsito em julgado:** Não informado(a)
+
+**Data da situação:** 2026-06-22
+
+**Decisão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413021300000029805532](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413021300000029805532)
+
+**Ementa de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413035100000029805535](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413035100000029805535)
+
+**Acórdão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413021300000029805532](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413021300000029805532)
+
+**Ementa de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061812474455600000031602924](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061812474455600000031602924)
+
+**Acórdão de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061812474455600000031602924](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061812474455600000031602924)
+
+**Decisão de suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413021300000029805532](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413021300000029805532)
+
+**Limite de suspensão:** SOMENTE\_AMBITO\_TRIBUNAL
+
+**Abrangência da suspensão:** Para fins do requisito objetivo do indulto ou comutação de pena natalinos previstos nos Decretos Presidenciais n.º 11.846/2023 e n.º 12.338/2024, e em aparente conflito com a regra de execução sucessiva do art. 76 do Código Penal, quando o condenado cumpre simultaneamente penas por crimes impeditivos e por crimes não impeditivos, o cálculo da fração de dois terços exigida para os crimes impeditivos deve observar metodologia unificada, com somatório global das penas, conforme disposto nos arts. 9º e 7º, parágrafos únicos, dos referidos decretos, ou se, ao contrário, deve seguir a observância da ordem legal de gravidade prevista no art. 76 do Código Penal, segundo a qual o benefício somente poderá ser reconhecido após o cumprimento específico e isolado de dois terços da pena relativa ao crime impeditivo, respeitando-se a sequência de execução das reprimendas impostas.
+
+**Data da suspensão:** 2025-12-03
+
+**Decisão sobre suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413021300000029805532](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120110413021300000029805532)
+
+**Fim da suspensão:** Não informado(a)
+
+**Assunto 287:** DIREITO PENAL: Extinção da Punibilidade - Indulto
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

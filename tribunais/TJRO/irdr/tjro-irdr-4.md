@@ -22,4 +22,54 @@
 
 - 08033227920188220000
 
+## Outra fonte oficial
+
+[TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/)
+
+**Situação informada:** TRANSITADO_EM_JULGADO
+
+### Informações do catálogo oficial
+
+**Atualização informada pelo LIAME:** 2026-03-20
+
+**Relator:** Des. Miguel Monico Neto
+
+**Referências legislativas:** Constituição Federal, arts. 7º, XXIII e 39, § 3º.; Lei Complementar Estadual n. 68/1992; Lei Estadual nº 2.165/2009, arts. 1º, 2º, 3º, 4º e 5º.; Lei Estadual n. 4.776/2020, art. 2º.
+
+**Data de admissão:** 2019-09-17
+
+**Data de julgamento:** 2020-10-09
+
+**Data de publicação:** 2020-12-04
+
+**Trânsito em julgado:** 2021-03-15
+
+**Data da situação:** 2026-03-20
+
+**Decisão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212911800000006648521](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212911800000006648521)
+
+**Ementa de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212636700000006648520](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212636700000006648520)
+
+**Acórdão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212043100000006967435](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212043100000006967435)
+
+**Ementa de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=20112411041074500000010523143](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=20112411041074500000010523143)
+
+**Acórdão de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=20112411040959300000010612901](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=20112411040959300000010612901)
+
+**Decisão de suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212043100000006967435](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212043100000006967435)
+
+**Limite de suspensão:** ABRANGENCIA\_ESPECIFICA
+
+**Abrangência da suspensão:** "a suspensão dos processos pendentes, individuais e coletivos, que versem sobre o tema deste incidente (inc. I);".
+
+**Data da suspensão:** 2019-07-26
+
+**Decisão sobre suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212043100000006967435](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19091213212043100000006967435)
+
+**Fim da suspensão:** 2021-03-15
+
+**Assunto 9985:** DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO: Adicional de Insalubridade - Adicional de Periculosidade
+
+**Processo do incidente:** 00003744220158220021 — classe 198. Não informado(a)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

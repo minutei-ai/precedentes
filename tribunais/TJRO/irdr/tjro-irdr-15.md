@@ -31,4 +31,54 @@ Tese de transição - Contratos celebrados antes da Instrução Normativa do INS
 
 - 08022050920258220000
 
+## Outra fonte oficial
+
+[TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/)
+
+**Situação informada:** ACORDAO_PUBLICADO
+
+### Informações do catálogo oficial
+
+**Atualização informada pelo LIAME:** 2026-06-09
+
+**Relator:** Des. Alexandre Miguel
+
+**Referências legislativas:** Lei Federal nº 8.078/1990 (Código de Proteção e Defesa do Consumidor), art. 42.
+
+**Data de admissão:** 2025-05-29
+
+**Data de julgamento:** 2025-12-19
+
+**Data de publicação:** 2026-01-13
+
+**Trânsito em julgado:** Não informado(a)
+
+**Data da situação:** 2026-06-09
+
+**Decisão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906)
+
+**Ementa de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906)
+
+**Acórdão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906)
+
+**Ementa de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121914224400000000030291739](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121914224400000000030291739)
+
+**Acórdão de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121914224200000000030291694](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121914224200000000030291694)
+
+**Decisão de suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906)
+
+**Limite de suspensão:** SOMENTE\_AMBITO\_TRIBUNAL
+
+**Abrangência da suspensão:** (...) determino as seguintes providências: a) A suspensão dos processos pendentes, individuais e coletivos, que versem sobre o tema deste incidente, inclusive aqueles em tramitação nos Juizados Especiais (inc. I);"
+
+**Data da suspensão:** 2025-05-29
+
+**Decisão sobre suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052315121500000000027910906)
+
+**Fim da suspensão:** Não informado(a)
+
+**Assunto 899:** DIREITO CIVIL: Cartão de Crédito
+
+**Processo do incidente:** 70338604120248220001 — classe 198. Não informado(a)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

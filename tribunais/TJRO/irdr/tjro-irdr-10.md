@@ -20,4 +20,54 @@ FIXADA A TESE JÁ ESTABELECIDA NO TEMA 1006 DO STJ, OU SEJA, DE: NOS CASOS EM QU
 
 - 08042522420238220000
 
+## Outra fonte oficial
+
+[TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/)
+
+**Situação informada:** TRANSITADO_EM_JULGADO
+
+### Informações do catálogo oficial
+
+**Atualização informada pelo LIAME:** 2026-03-20
+
+**Relator:** Des. José Jorge Ribeiro da Luz
+
+**Referências legislativas:** Não informado(a)
+
+**Data de admissão:** 2023-07-06
+
+**Data de julgamento:** 2024-04-26
+
+**Data de publicação:** 2024-06-03
+
+**Trânsito em julgado:** 2024-09-05
+
+**Data da situação:** 2026-03-20
+
+**Decisão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604)
+
+**Ementa de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604)
+
+**Acórdão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604)
+
+**Ementa de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24052813544200000000023953964](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24052813544200000000023953964)
+
+**Acórdão de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24052813544000000000023953963](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=24052813544000000000023953963)
+
+**Decisão de suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604)
+
+**Limite de suspensão:** ABRANGENCIA\_ESPECIFICA
+
+**Abrangência da suspensão:** Caso admitido o incidente, nos termos do art. 982 do NCPC, determino, desde logo: a) a suspensão dos processos pendentes, individuais e coletivos, que versem sobre o tema deste incidente (art. 982, I, do NCPC);
+
+**Data da suspensão:** 2023-07-06
+
+**Decisão sobre suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=23070307423196800000020249604)
+
+**Fim da suspensão:** 2024-09-05
+
+**Assunto 287:** DIREITO PENAL: Regime inicial
+
+**Processo do incidente:** 08029168220238220000 — classe 413. Não informado(a)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

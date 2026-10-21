@@ -92,6 +92,7 @@
 | [TJAP — Revista Diretriz, volume 1, nº 1, capa de outubro de 2021](https://old.tjap.jus.br/portal/images/NUGEPNAC/Revista_Diretriz_n_01_1.pdf) | 35 | 35 | 0 |
 | [TJAC — Catálogo oficial de súmulas e PDFs vinculados](https://www.tjac.jus.br/atos-normativos/sumulas/) | 4 | 4 | 0 |
 | [TJRO — Catálogo de súmulas e referências oficiais](https://www.tjro.jus.br/servicos-judiciais/jurisprudencia/sumulas) | 9 | 9 | 0 |
+| [TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/) | 21 | 0 | 21 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -115,7 +116,11 @@ Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cívei
 
 O TJRO acrescenta as nove súmulas do catálogo oficial, conferidas do número 1 ao 9 e com releitura do catálogo após as páginas individuais. Foram preservados todos os textos, referências legislativas, processos, datas, relatorias e 148 links disponibilizados nessas páginas. As listas de downloads e as referências foram mantidas como publicadas, sem presumir que sejam equivalentes ou corrigir numerações históricas. A observação “Não consta na ementa” da nº 8 permanece junto da referência correspondente.
 
-As nove súmulas não duplicam os 21 incidentes do TJRO presentes no BNP. Não foi inferida vigência atual: as páginas contêm referências históricas e não informam situação em campo próprio. Os PDFs dos precedentes vinculados não foram coletados neste lote; preservar o link não comprova que o documento esteja disponível atualmente. O LIAME e outras categorias do tribunal ainda não estão conciliados por esta coleta.
+As nove súmulas não duplicam os 21 incidentes do TJRO presentes no BNP. Não foi inferida vigência atual: as páginas contêm referências históricas e não informam situação em campo próprio. Os PDFs dos precedentes vinculados não foram coletados neste lote; preservar o link não comprova que o documento esteja disponível atualmente. Outras categorias do tribunal não estão abrangidas por esse catálogo de súmulas.
+
+A consulta pública do LIAME foi conciliada com os 21 incidentes do TJRO presentes no BNP: 18 IRDR e três IAC, sem aumentar a contagem. A coleta consultou somente o TJRO, percorreu duas páginas (20 registros e um registro), conferiu os filtros e indicadores de paginação e releu a primeira página ao final. A identidade de cada registro foi confirmada pela espécie, número do tema e conjunto de processos paradigma.
+
+Foram preservados, com atribuição ao LIAME, a questão, a tese, a situação, a atualização, a relatoria, as referências legislativas, os assuntos, os processos dos incidentes, as datas informadas e as informações de suspensão e seus links. As quebras de linha do texto foram convertidas em quebras Markdown, mantendo os itens internos. Expressões como “Não informado(a)” e caracteres incomuns da resposta foram mantidos literalmente; as situações “ADMITIDO”, “ACORDAO_PUBLICADO” e “TRANSITADO_EM_JULGADO” são os valores da fonte, sem inferência de tese firmada para todos os registros. Os documentos vinculados não foram coletados neste lote, e as informações de STF e STJ oferecidas pelo LIAME não foram incluídas nessa conciliação.
 
 O catálogo de súmulas do TJAC foi consultado pela API pública indicada no portal, com o filtro próprio de súmulas e sem restringir a situação. Foram obtidas quatro entradas e seus quatro PDFs, com releitura do catálogo após os documentos. Os registros ficam identificados pelo ID imutável da entrada oficial: a numeração inclui ano e origem, e as duas súmulas nº 1 têm conteúdos distintos. Esses quatro registros não duplicam os sete incidentes do TJAC presentes no BNP.
 

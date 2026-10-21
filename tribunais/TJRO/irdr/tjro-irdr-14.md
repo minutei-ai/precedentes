@@ -20,4 +20,52 @@ A progressão de regime pode ser condicionada à realização de exame criminol�
 
 - [08161621420248220000](https://pjesg.tjro.jus.br/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f87bb492090d635dbfcfcabeb38c451757b3f5887864933c0221eb8372c61bdc6a09ecd33a0be72b8890313e6cb75edb7ad65817bce3fcad&idProcessoDoc=27297408)
 
+## Outra fonte oficial
+
+[TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/)
+
+**Situação informada:** TRANSITADO_EM_JULGADO
+
+### Informações do catálogo oficial
+
+**Atualização informada pelo LIAME:** 2026-03-20
+
+**Relator:** Des. JOSÉ JORGE RIBEIRO DA LUZ
+
+**Referências legislativas:** Não informado(a)
+
+**Data de admissão:** 2025-03-26
+
+**Data de julgamento:** 2025-06-27
+
+**Data de publicação:** 2025-07-14
+
+**Trânsito em julgado:** 2025-08-19
+
+**Data da situação:** 2026-03-20
+
+**Decisão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654)
+
+**Ementa de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654)
+
+**Acórdão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654)
+
+**Ementa de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25071008021241300000028355611](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25071008021241300000028355611)
+
+**Acórdão de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25071008021230800000028396765](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25071008021230800000028396765)
+
+**Decisão de suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654)
+
+**Limite de suspensão:** SOMENTE\_AMBITO\_TRIBUNAL
+
+**Abrangência da suspensão:** (...) a) a suspensão dos processos pendentes, individuais e coletivos, que versem sobre o tema deste incidente (art. 982, I, do CPC);
+
+**Data da suspensão:** 2025-03-26
+
+**Decisão sobre suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25032407545135500000027093654)
+
+**Fim da suspensão:** 2025-08-19
+
+**Assunto 1209:** DIREITO PROCESSUAL PENAL: Execução Penal e de Medidas Alternativas - Pena Privativa de Liberdade - Progressão de Regime
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

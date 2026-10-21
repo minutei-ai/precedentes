@@ -25,4 +25,54 @@ Uniformizar o entendimento das Câmaras Cíveis quanto à ¿Legalidade ou não d
 
 - 08046734320258220000
 
+## Outra fonte oficial
+
+[TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/)
+
+**Situação informada:** TRANSITADO_EM_JULGADO
+
+### Informações do catálogo oficial
+
+**Atualização informada pelo LIAME:** 2026-04-23
+
+**Relator:** Des. Alexandre Miguel
+
+**Referências legislativas:** Código de Processo Civil, arts. 976, 979, 981, 982, 983.
+
+**Data de admissão:** 2025-06-13
+
+**Data de julgamento:** 2025-12-18
+
+**Data de publicação:** 2025-12-19
+
+**Trânsito em julgado:** 2026-04-13
+
+**Data da situação:** 2026-04-23
+
+**Decisão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521800000000028107410](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521800000000028107410)
+
+**Ementa de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521900000000028107413](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521900000000028107413)
+
+**Acórdão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521800000000028107410](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521800000000028107410)
+
+**Ementa de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121811332000000000030270523](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121811332000000000030270523)
+
+**Acórdão de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121811331800000000030270520](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121811331800000000030270520)
+
+**Decisão de suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521800000000028107410](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521800000000028107410)
+
+**Limite de suspensão:** SOMENTE\_AMBITO\_TRIBUNAL
+
+**Abrangência da suspensão:** a) A suspensão dos processos pendentes, individuais e coletivos, que versem sobre o tema deste incidente, inclusive aqueles em tramitação nos Juizados Especiais (inc. I);
+
+**Data da suspensão:** 2025-06-13
+
+**Decisão sobre suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521800000000028107410](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25061012521800000000028107410)
+
+**Fim da suspensão:** Não informado(a)
+
+**Assunto 1156:** DIREITO DO CONSUMIDOR: Contratos de Consumo - Bancários - Tarifas
+
+**Processo do incidente:** 70329458920248220001 — classe 198. Não informado(a)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

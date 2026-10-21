@@ -28,4 +28,54 @@ Proposta de revisão da tese firmada pelas Câmaras Especiais Reunidas no IRDR 0
 - 08034463320168220000
 - 08036264420198220000
 
+## Outra fonte oficial
+
+[TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/)
+
+**Situação informada:** TRANSITADO_EM_JULGADO
+
+### Informações do catálogo oficial
+
+**Atualização informada pelo LIAME:** 2026-03-20
+
+**Relator:** Des. Roosevelt Queiroz Costa
+
+**Referências legislativas:** Lei Estadual n. 688/96, artigo 97
+
+**Data de admissão:** 2019-11-26
+
+**Data de julgamento:** 2020-01-13
+
+**Data de publicação:** 2021-02-04
+
+**Trânsito em julgado:** 2022-12-15
+
+**Data da situação:** 2026-03-20
+
+**Decisão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175755200000007467922](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175755200000007467922)
+
+**Ementa de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175911300000007052402](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175911300000007052402)
+
+**Acórdão de admissão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175678700000007508319](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175678700000007508319)
+
+**Ementa de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=22101712163242600000017181885](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=22101712163242600000017181885)
+
+**Acórdão de mérito:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=22101712163389100000017181883](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=22101712163389100000017181883)
+
+**Decisão de suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175755200000007467922](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175755200000007467922)
+
+**Limite de suspensão:** ABRANGENCIA\_ESPECIFICA
+
+**Abrangência da suspensão:** "Nos termos do art. 982, I e § 1º, suspenso todos os processos pendentes, individuais ou coletivos, que tramitam no Estado, pelo que deverá o Departamento expedir o necessário para este fim."
+
+**Data da suspensão:** 2019-11-26
+
+**Decisão sobre suspensão:** [https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175755200000007467922](https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=19112208175755200000007467922)
+
+**Fim da suspensão:** 2022-12-15
+
+**Assunto 8826:** DIREITO PROCESSUAL CIVIL E DO TRABALHO: Benefício de Ordem
+
+**Processo do incidente:** 00679872320078220001 — classe 198. Não informado(a)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
