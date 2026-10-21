@@ -20,4 +20,23 @@ A SUPERVENIÊNCIA DA LEI Nº 13.467/2017, VIGENTE A PARTIR DE 11 DE NOVEMBRO DE 
 
 - [00057601220235140000](https://pje.trt14.jus.br/consultaprocessual/detalhe-processo/0005760-12.2023.5.14.0000/2#c6c3916)
 
+## Outra fonte oficial
+
+[TRT da 14ª Região — Teses fixadas em IRDR e IAC](https://portal.trt14.jus.br/portal/index.php/teses-fixadas-irdr-iac)
+
+**Situação informada:** Recurso pendente de julgamento
+
+### Texto
+
+A superveniência da Lei n. 13.467/2017, vigente a partir de 11 de novembro de 2017, não autoriza, no âmbito do processo do trabalho: 1) a condenação em honorários advocatícios em execução individual de sentença nas ações coletivas ajuizadas anterior ou posteriormente à referida lei; 2) a majoração dos honorários advocatícios na fase recursal; 3) a fixação dos honorários advocatícios na fase de execução para os demais casos.
+
+### Informações do catálogo oficial
+
+**Tema:** 5
+
+0005760-12.2023.5.14.0000  
+[Acórdão](https://files.trt14.jus.br/portal/public/acordao-teses-firmadas/2025-12/IRDR%20n.%200005760-12.2023.5.14.0000%20-%20Tema%205.pdf "Clique para exibir o Acórdão")
+
+**Publicação:** DEJT - 07/05/2024
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

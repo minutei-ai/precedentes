@@ -20,4 +20,19 @@ O critério de arbitramento mais adequado para apuração do valor do pensioname
 
 - [00010264720255140000](https://pje.trt14.jus.br/pjekz/processo/107798/detalhe)
 
+## Outra fonte oficial
+
+[TRT da 14ª Região — Teses fixadas em IRDR e IAC](https://portal.trt14.jus.br/portal/index.php/teses-fixadas-irdr-iac)
+
+**Situação informada:** Trânsito em julgado
+
+### Informações do catálogo oficial
+
+**Tema:** 2
+
+0001026-47.2025.5.14.0000  
+[Acórdão](https://files.trt14.jus.br/portal/public/acordao-teses-firmadas/2025-12/IAC%20n.%200001026-47.2025.5.14.0000%20-%20Tema%202.pdf "Clique para exibir o Acórdão")
+
+**Publicação:** DEJT - 31/07/2025
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

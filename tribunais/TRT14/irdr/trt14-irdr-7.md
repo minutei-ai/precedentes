@@ -20,4 +20,19 @@ Empregado da CAERD é regido pela CLT, na forma do art. 173, § 1º, II da Const
 
 - [00015248020245140000](https://pje.trt14.jus.br/consultaprocessual/detalhe-processo/0001524-80.2024.5.14.0000/2#ed42ffe)
 
+## Outra fonte oficial
+
+[TRT da 14ª Região — Teses fixadas em IRDR e IAC](https://portal.trt14.jus.br/portal/index.php/teses-fixadas-irdr-iac)
+
+**Situação informada:** Trânsito em julgado
+
+### Informações do catálogo oficial
+
+**Tema:** 7
+
+0001524-80.2024.5.14.0000  
+[Acórdão](https://files.trt14.jus.br/portal/public/acordao-teses-firmadas/2025-12/IRDR%20n.%200001524-80.2024.5.14.0000%20-%20Tema%207.pdf "Clique para exibir o Acórdão")
+
+**Publicação:** DEJT - 31/07/2024
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -20,4 +20,19 @@ O tempo de espera do trabalhador para utilizar/embarcar em transporte fornecido 
 
 - [00003293620195140000](https://pje.trt14.jus.br/consultaprocessual/detalhe-processo/0000329-36.2019.5.14.0000/2#7ad2a17)
 
+## Outra fonte oficial
+
+[TRT da 14ª Região — Teses fixadas em IRDR e IAC](https://portal.trt14.jus.br/portal/index.php/teses-fixadas-irdr-iac)
+
+**Situação informada:** Trânsito em julgado
+
+### Informações do catálogo oficial
+
+**Tema:** 1
+
+0000329-36.2019.5.14.0000  
+[Acórdão](https://files.trt14.jus.br/portal/public/acordao-teses-firmadas/2025-12/IRDR%20n.%200000329-36.2019.5.14.0000%20-%20Tema%201.pdf "Clique para exibir o Acórdão")
+
+**Publicação:** DEJT - 30/07/2021
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
