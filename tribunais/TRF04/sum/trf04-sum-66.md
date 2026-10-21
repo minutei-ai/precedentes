@@ -1,0 +1,37 @@
+# TRF04 · SUM 66
+
+- **Órgão:** TRF04
+- **Espécie:** Súmula
+- **Número:** 66
+- **Identificador:** `trf04-sum-66`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TRF da 4ª Região — Súmulas e referências do catálogo oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=sumulas_trf4)
+
+## Informações do catálogo oficial
+
+Bloco integral do catálogo oficial, com enunciado, publicações, anotações e referências. Os endereços relativos dos anexos foram resolvidos contra o endereço da página, preservando os destinos e as referências repetidas.
+
+As marcações de cancelamento e de revisão foram mantidas como apresentadas na própria súmula. A presença no catálogo não comprova vigência atual. Os PDFs e arquivos ZIP citados permanecem como links: seus conteúdos não foram coletados neste lote.
+
+## Texto disponibilizado pela fonte
+
+**SÚMULA 66**  
+A anistia prevista no art. 11 da Lei nº 9.639/98 é aplicável aos agentes políticos, não aproveitando aos administradores de empresas privadas.  
+DJU (Seção 2) de 03-10-2002, p.499  
+Rep. DJ (Seção 2) de 07-10-2002, p. 487  
+  
+Precedentes:  
+[20010401004007-2.pdf](https://www.trf4.jus.br/trf4/jurisprudencia/sumulas/sumula_66/20010401004007-2.pdf)  
+[20007000030481-7.pdf](https://www.trf4.jus.br/trf4/jurisprudencia/sumulas/sumula_66/20007000030481-7.pdf)  
+[20000401057876-6.pdf](https://www.trf4.jus.br/trf4/jurisprudencia/sumulas/sumula_66/20000401057876-6.pdf)  
+[20000401000604-7.pdf](https://www.trf4.jus.br/trf4/jurisprudencia/sumulas/sumula_66/20000401000604-7.pdf)  
+[19990401064224-5.pdf](https://www.trf4.jus.br/trf4/jurisprudencia/sumulas/sumula_66/19990401064224-5.pdf)  
+[19980401084908-0.pdf](https://www.trf4.jus.br/trf4/jurisprudencia/sumulas/sumula_66/19980401084908-0.pdf)  
+[19980401023878-8.pdf](https://www.trf4.jus.br/trf4/jurisprudencia/sumulas/sumula_66/19980401023878-8.pdf)  
+  
+[Clique aqui para fazer download de todos os precedentes.](https://www.trf4.jus.br/trf4/jurisprudencia/sumulas/sumula_66/sumula66_precedentes.zip)  
+
+* * *
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

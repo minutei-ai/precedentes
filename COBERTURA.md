@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.653 registros únicos de 79 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.789 registros únicos de 79 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -118,6 +118,7 @@
 | [TSE — Súmulas e páginas individuais oficiais](https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas/sumulas-do-tse?b_size=100) | 73 | 73 | 0 |
 | [STM — Catálogo de súmulas, PDFs e textos oficiais](https://dspace.stm.jus.br/handle/123456789/247) | 18 | 18 | 0 |
 | [TRF3 — Catálogo de súmulas e documentos XML oficiais](https://www.trf3.jus.br/diretoria-geral/biblioteca/setor-de-apoio-a-jurisprudencia/sumulas-do-trf3) | 42 | 0 | 42 |
+| [TRF da 4ª Região — Súmulas e referências do catálogo oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=sumulas_trf4) | 136 | 136 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -138,6 +139,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRF4 acrescenta as 136 súmulas do catálogo próprio, com os blocos completos de enunciados, publicações, anotações e referências. A sequência de 1 a 136 foi conciliada sem lacunas e sem aproveitar textos de navegação. As marcações de cancelamento das nº 14, 52, 61, 62 e 122 foram preservadas com as datas anteriores e posteriores disponíveis. A nº 17 permanece identificada como “Revisada. Ver SÚMULA 32”. As notas de revisão das nº 32 e 42 e a alteração publicada em 05/11/2025 na nº 29 foram mantidas nos próprios blocos, sem inferir vigência para os demais registros.
+
+Foram mantidos os 1.003 links de referências do TRF4: 868 para PDFs e 135 para ZIPs, incluindo referências repetidas. Os endereços relativos foram resolvidos contra a página oficial, sem reconstruir números de processos ou presumir destinos. A nº 71 apresenta apenas um PDF, sem ZIP no catálogo. Os conteúdos desses anexos não foram coletados neste lote. A marcação em negrito da alteração da nº 29 foi mantida dentro de seu bloco, sem criar outro registro.
+
+O catálogo do TRF4 foi capturado diretamente por HTTP, com TLS validado, e relido sem alteração dos registros. A codificação ISO-8859-1 declarada pela página foi respeitada. Os números são novos em relação ao BNP do órgão, que não apresentava súmulas nessa consulta. As demais séries e os julgados citados permanecem pendentes.
 
 O TRF3 teve as 42 súmulas já presentes pelo BNP conciliadas com o catálogo próprio e os 42 XMLs individuais vinculados. Não foram criados registros duplicados. Os documentos acrescentam os campos jurídicos disponíveis: classe, identificador, relatoria, órgão julgador, data de julgamento, fontes de publicação e republicação, enunciado, notas, referências legislativas, resumo estruturado e precedentes. A folha de apresentação XSL do próprio tribunal foi capturada para conferir os rótulos dos campos. Os XMLs foram decodificados conforme a declaração ISO-8859-1, preservando as grafias e os acentos.
 
@@ -352,7 +359,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF01](tribunais/TRF01/) | 110 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 24 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
-| [TRF04](tribunais/TRF04/) | 66 | 66 | 66 |
+| [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
 | [TRF06](tribunais/TRF06/) | 22 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
@@ -468,7 +475,7 @@ O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou
 
 Os catálogos próprios dos TRT22 e TRT23 ainda não foram conciliados. O TRT22 respondeu HTTP 403 na consulta direta; o coletor nativo encontrou uma funcionalidade de quadros não suportada. O portal do TRT23 exibiu aviso de manutenção programada, sem catálogo de súmulas. Essas respostas não foram tratadas como ausência de precedentes.
 
-Os catálogos próprios de súmulas do TRF2 e TRF4 também continuam pendentes. O TRF2 respondeu HTTP 503 na consulta direta e no coletor nativo. Os endereços do TRF4 indicados por publicações oficiais retornaram HTTP 404 nesta consulta; não foi validado um catálogo atual.
+O catálogo próprio de súmulas do TRF2 permanece pendente. O portal respondeu HTTP 503 na consulta direta e no coletor nativo.
 
 O catálogo próprio do TJBA permanece pendente. Na consulta de 21/10/2026, a página de precedentes dos Juizados Especiais e o endereço do PDF de súmulas atualizado em março de 2026 devolveram o mesmo aviso oficial de interrupção preventiva dos sistemas, datado de 20/10/2026. O endereço do PDF respondeu com HTML de 4.454 bytes, sem documento PDF; o coletor nativo da página encerrou com “cross-origin request blocked”. A resposta não foi tratada como catálogo vazio nem como PDF válido. Os 17 registros de súmula do TJBA já presentes no BNP permanecem publicados, sem alegação de conciliação com os catálogos próprios.
 
