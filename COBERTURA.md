@@ -1,6 +1,6 @@
 # Cobertura
 
-**16.692 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**16.699 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 22 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -13,6 +13,7 @@
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
 | [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
 | [TJCE — Súmulas, edição de 2025](https://portal.tjce.jus.br/uploads/2025/09/SUMULAS-2025.pdf) | 72 | 72 | 0 |
+| [TJCE — SJURIS, decisões de IRDR e IAC (consulta parcial)](https://sjuris.tjce.jus.br/) | 7 | 7 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -43,7 +44,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJAP](tribunais/TJAP/) | 45 | 45 | 45 |
 | [TJAM](tribunais/TJAM/) | 72 | 72 | 72 |
 | [TJBA](tribunais/TJBA/) | 118 | 118 | 118 |
-| [TJCE](tribunais/TJCE/) | 89 | 17 | 17 |
+| [TJCE](tribunais/TJCE/) | 96 | 17 | 17 |
 | [TJDF](tribunais/TJDF/) | 41 | 41 | 41 |
 | [TJES](tribunais/TJES/) | 162 | 162 | 162 |
 | [TJGO](tribunais/TJGO/) | 151 | 151 | 151 |
@@ -128,6 +129,6 @@ Conferimos identificadores únicos, numeração, limites dos catálogos, pagina�
 
 Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisamos conciliar cada tribunal com seu portal oficial, ampliar as fontes administrativas e coletar categorias que o BNP não expõe, incluindo súmulas eleitorais.
 
-A conciliação dos IRDR e IAC do TJCE com o e-SAJ e o SJURIS ainda está pendente. A consulta ao inventário de classes do SJURIS revelou decisões além das representadas no BNP, mas as páginas de resultados não foram integralmente verificadas; esses dados não foram contados como precedentes adicionais.
+A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de IAC, agrupados em sete incidentes por número de processo e conferidos com os processos do BNP para evitar duplicatas. Os textos são apresentados como decisões, sem inferir tese firmada ou vigência. O inventário de classes indica também documentos históricos que a consulta ao SAJ não retornou; a conciliação com o e-SAJ e o acervo histórico do SJURIS continua pendente. Uma consulta vazia não foi tratada como inexistência de outros incidentes.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.
