@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.680 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.716 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -64,6 +64,8 @@
 | [TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome) | 85 | 2 | 83 |
 | [TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx) | 65 | 2 | 63 |
 | [TJDFT — Súmulas da Turma de Uniformização dos Juizados Especiais](https://www.tjdft.jus.br/consultas/jurisprudencia/sumulas/sumulas-do-juizado-especial) | 43 | 43 | 0 |
+| [TJSP — Súmulas da Turma de Uniformização, caderno com publicações até janeiro de 2017](https://www.tjsp.jus.br/Download/JuizadosEspeciais/SumulasTurmaUniformizacao.pdf) | 10 | 10 | 0 |
+| [TJSP — Enunciados das Câmaras Empresariais, atualização de 10/12/2024](https://www.tjsp.jus.br/Download/Rodape/GrupoCamarasEmpresariaisEnunciados.pdf) | 26 | 26 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -75,7 +77,13 @@ No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os n�
 
 O livro de súmulas do TJCE, edição de 2025, contém 72 verbetes consecutivos; mantemos as referências e observações de cada verbete. A edição não comprova que todas as súmulas posteriores já estejam incluídas. 
 
-O TJSP foi conciliado com os 165 verbetes do livro atualizado em 16/09/2025. O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores. 
+O TJSP foi conciliado com os 165 verbetes do livro atualizado em 16/09/2025.
+
+Também foram incorporadas dez súmulas da Turma de Uniformização do Sistema de Juizados Especiais de São Paulo, em série própria (SUM-TUJ), a partir do PDF indicado no catálogo atual do NUGEPNAC. O caderno registra a sessão de 30/11/2016 e publicações até 24/01/2017; sua presença no portal atual não comprova que não existam atos posteriores. Mantemos os enunciados, os processos e as datas de julgamento indicados como precedentes, os avisos de revogação das nºs 5, 8 e 9 e a nova redação da nº 4. O número de processo com pontuação duplicada na referência da nº 4 foi preservado como consta na fonte, sem correção presumida.
+
+Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em série própria (EN-GCE), com numeração romana de I a XXVI. A edição informa atualização até 10/12/2024 e publicações dos últimos enunciados em janeiro de 2025. Foram preservados os textos, os avisos de cancelamento dos enunciados I, II, VII, IX e XIV e as notas de revisão e alteração. O texto do XXII continua na página seguinte e foi mantido integralmente. Não inferimos vigência atual a partir dessa edição. As duas séries acrescentam 36 registros, sem duplicar as súmulas gerais e os incidentes já presentes no BNP.
+
+O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 O catálogo da Turma de Uniformização dos Juizados Especiais do Distrito Federal acrescenta 43 súmulas em série própria (SUM-TUJ), sem confundir sua numeração com as súmulas gerais do tribunal. Foram preservados os textos, as referências de julgamento e publicação, os links oficiais e os avisos de cancelamento da nº 2 e de revisão da nº 28. A nº 43 tem quatro parágrafos e a nota de acórdão ainda não publicado, referente ao julgamento de 21/09/2026. A composição administrativa da Turma foi excluída dos registros.
 
@@ -179,7 +187,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRO](tribunais/TJRO/) | 21 | 21 | 21 |
 | [TJRR](tribunais/TJRR/) | 29 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 159 | 91 | 91 |
-| [TJSP](tribunais/TJSP/) | 237 | 237 | 237 |
+| [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
 | [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
 | [TRT01](tribunais/TRT01/) | 76 | 76 | 76 |
