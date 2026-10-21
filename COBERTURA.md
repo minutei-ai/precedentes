@@ -79,6 +79,10 @@
 | [TJRR — Catálogo de súmulas das Câmaras Reunidas](https://www.tjrr.jus.br/index.php/sumulas) | 3 | 3 | 0 |
 | [TJRR — Catálogo de enunciados da Turma Recursal](https://www.tjrr.jus.br/index.php/enunciados) | 19 | 19 | 0 |
 | [TJRR — Página dos enunciados da Turma Recursal](https://www.tjrr.jus.br/index.php/enunciados-da-turma-recursal-do-tjrr) | 19 | 0 | 19 |
+| [TJAM — Súmulas de Direito Processual Civil](https://www.tjam.jus.br/index.php/consultas-nugep/enunciados-de-sumula/direito-processual-civil?showall=1) | 7 | 0 | 7 |
+| [TJAM — Súmulas de Direito Administrativo](https://www.tjam.jus.br/index.php/consultas-nugep/enunciados-de-sumula/direito-administrativo?showall=1) | 1 | 0 | 1 |
+| [TJAM — Súmulas de Direito Penal](https://www.tjam.jus.br/index.php/consultas-nugep/enunciados-de-sumula/direito-penal?showall=1) | 4 | 0 | 4 |
+| [TJAM — Súmulas de Direito Processual Penal](https://www.tjam.jus.br/index.php/consultas-nugep/enunciados-de-sumula/direito-processual-penal?showall=1) | 16 | 0 | 16 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -99,6 +103,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+As 28 súmulas do TJAM foram conciliadas com quatro páginas oficiais do NUGEPAC, em Direito Processual Civil, Administrativo, Penal e Processual Penal. Os textos e as situações informadas pelo portal foram conferidos e os metadados de relatoria, órgão julgador, processos públicos, distribuição, admissibilidade, julgamento, publicação, trânsito, baixa e observações foram mantidos com atribuição própria. Todos os 28 identificadores já estavam no BNP, sem acréscimo à contagem por causa da segunda fonte.
+
+Nas súmulas 13 e 19 do TJAM, a página oficial identifica processo de referência sigiloso ou mascarado. O enunciado da súmula permanece público, mas os identificadores e links desses processos foram omitidos da versão atual do acervo, inclusive da seção de processos paradigma proveniente do BNP. A omissão não foi usada para ocultar os textos ou as referências públicas de publicação das súmulas. Os links de consulta foram mantidos sem identificadores de conversação.
 
 O TJRR inclui as três súmulas do catálogo das Câmaras Reunidas, com os enunciados, ramos do Direito, datas de aprovação e links individuais mantidos. As aprovações informadas são de 23/02/2017 para a nº 1 e de 28/05/2020 para as nºs 2 e 3.
 
