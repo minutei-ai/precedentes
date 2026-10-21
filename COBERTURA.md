@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.789 registros únicos de 79 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.841 registros únicos de 80 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -119,6 +119,7 @@
 | [STM — Catálogo de súmulas, PDFs e textos oficiais](https://dspace.stm.jus.br/handle/123456789/247) | 18 | 18 | 0 |
 | [TRF3 — Catálogo de súmulas e documentos XML oficiais](https://www.trf3.jus.br/diretoria-geral/biblioteca/setor-de-apoio-a-jurisprudencia/sumulas-do-trf3) | 42 | 0 | 42 |
 | [TRF da 4ª Região — Súmulas e referências do catálogo oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=sumulas_trf4) | 136 | 136 | 0 |
+| [TCESP — Repertório de súmulas, histórico e fundamento](https://www.tce.sp.gov.br/boletim-de-jurisprudencia/sumulas) | 52 | 52 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -139,6 +140,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TCESP acrescenta as 52 súmulas do repertório oficial, com os enunciados da lista e os textos integrais das respectivas janelas de histórico e fundamento, presentes no mesmo documento HTML. A sequência de 1 a 52 foi conferida sem lacunas; as duas linhas de cada tabela foram convertidas em seções, preservando publicações, referências, alterações, renumerações e fundamentos de criação, manutenção ou cancelamento.
+
+As nº 5, 7, 14, 19, 44 e 45 estão assinaladas como canceladas. A nº 44 tem texto riscado e indicação de cancelamento na lista, enquanto seu enunciado na janela de detalhe aparece sem essas marcas; o histórico do detalhe registra o cancelamento pela Resolução nº 09/2021, publicada em 27/11/2021. As duas apresentações foram mantidas, sem corrigir uma pela outra. Também foram preservadas as diferenças de espaçamento nas marcações das nº 7 e 14 e as grafias das referências, sem inferir vigência para os demais verbetes.
+
+O repertório do TCESP foi capturado por HTTP, com TLS validado, e relido sem alteração dos registros. As resoluções, os julgados citados e as demais categorias da Corte de Contas permanecem pendentes; o lote não representa todos os precedentes administrativos do estado.
 
 O TRF4 acrescenta as 136 súmulas do catálogo próprio, com os blocos completos de enunciados, publicações, anotações e referências. A sequência de 1 a 136 foi conciliada sem lacunas e sem aproveitar textos de navegação. As marcações de cancelamento das nº 14, 52, 61, 62 e 122 foram preservadas com as datas anteriores e posteriores disponíveis. A nº 17 permanece identificada como “Revisada. Ver SÚMULA 32”. As notas de revisão das nº 32 e 42 e a alteração publicada em 05/11/2025 na nº 29 foram mantidas nos próprios blocos, sem inferir vigência para os demais registros.
 
@@ -451,9 +458,10 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
+| [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF é uma fonte administrativa própria. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU e TCESP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
