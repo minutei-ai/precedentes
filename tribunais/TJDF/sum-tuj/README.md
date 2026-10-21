@@ -1,0 +1,47 @@
+# TJDF · Súmula da Turma de Uniformização dos Juizados Especiais
+
+**43 registros.** [Voltar ao tribunal](../)
+
+- [SUM-TUJ 1](tjdf-sum-tuj-1.md) — Situação não informada
+- [SUM-TUJ 2](tjdf-sum-tuj-2.md) — Cancelada
+- [SUM-TUJ 3](tjdf-sum-tuj-3.md) — Situação não informada
+- [SUM-TUJ 4](tjdf-sum-tuj-4.md) — Situação não informada
+- [SUM-TUJ 5](tjdf-sum-tuj-5.md) — Situação não informada
+- [SUM-TUJ 6](tjdf-sum-tuj-6.md) — Situação não informada
+- [SUM-TUJ 7](tjdf-sum-tuj-7.md) — Situação não informada
+- [SUM-TUJ 8](tjdf-sum-tuj-8.md) — Situação não informada
+- [SUM-TUJ 9](tjdf-sum-tuj-9.md) — Situação não informada
+- [SUM-TUJ 10](tjdf-sum-tuj-10.md) — Situação não informada
+- [SUM-TUJ 11](tjdf-sum-tuj-11.md) — Situação não informada
+- [SUM-TUJ 12](tjdf-sum-tuj-12.md) — Situação não informada
+- [SUM-TUJ 13](tjdf-sum-tuj-13.md) — Situação não informada
+- [SUM-TUJ 14](tjdf-sum-tuj-14.md) — Situação não informada
+- [SUM-TUJ 15](tjdf-sum-tuj-15.md) — Situação não informada
+- [SUM-TUJ 16](tjdf-sum-tuj-16.md) — Situação não informada
+- [SUM-TUJ 17](tjdf-sum-tuj-17.md) — Situação não informada
+- [SUM-TUJ 18](tjdf-sum-tuj-18.md) — Situação não informada
+- [SUM-TUJ 19](tjdf-sum-tuj-19.md) — Situação não informada
+- [SUM-TUJ 20](tjdf-sum-tuj-20.md) — Situação não informada
+- [SUM-TUJ 21](tjdf-sum-tuj-21.md) — Situação não informada
+- [SUM-TUJ 22](tjdf-sum-tuj-22.md) — Situação não informada
+- [SUM-TUJ 23](tjdf-sum-tuj-23.md) — Situação não informada
+- [SUM-TUJ 24](tjdf-sum-tuj-24.md) — Situação não informada
+- [SUM-TUJ 25](tjdf-sum-tuj-25.md) — Situação não informada
+- [SUM-TUJ 26](tjdf-sum-tuj-26.md) — Situação não informada
+- [SUM-TUJ 27](tjdf-sum-tuj-27.md) — Situação não informada
+- [SUM-TUJ 28](tjdf-sum-tuj-28.md) — Revisada
+- [SUM-TUJ 29](tjdf-sum-tuj-29.md) — Situação não informada
+- [SUM-TUJ 30](tjdf-sum-tuj-30.md) — Situação não informada
+- [SUM-TUJ 31](tjdf-sum-tuj-31.md) — Situação não informada
+- [SUM-TUJ 32](tjdf-sum-tuj-32.md) — Situação não informada
+- [SUM-TUJ 33](tjdf-sum-tuj-33.md) — Situação não informada
+- [SUM-TUJ 34](tjdf-sum-tuj-34.md) — Situação não informada
+- [SUM-TUJ 35](tjdf-sum-tuj-35.md) — Situação não informada
+- [SUM-TUJ 36](tjdf-sum-tuj-36.md) — Situação não informada
+- [SUM-TUJ 37](tjdf-sum-tuj-37.md) — Situação não informada
+- [SUM-TUJ 38](tjdf-sum-tuj-38.md) — Situação não informada
+- [SUM-TUJ 39](tjdf-sum-tuj-39.md) — Situação não informada
+- [SUM-TUJ 40](tjdf-sum-tuj-40.md) — Situação não informada
+- [SUM-TUJ 41](tjdf-sum-tuj-41.md) — Situação não informada
+- [SUM-TUJ 42](tjdf-sum-tuj-42.md) — Situação não informada
+- [SUM-TUJ 43](tjdf-sum-tuj-43.md) — Situação não informada

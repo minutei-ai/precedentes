@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.637 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.680 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -63,6 +63,7 @@
 | [TJPE — Súmulas da Turma Estadual de Uniformização de Jurisprudência](https://portal.tjpe.jus.br/servicos/consulta/sumulas) | 13 | 13 | 0 |
 | [TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome) | 85 | 2 | 83 |
 | [TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx) | 65 | 2 | 63 |
+| [TJDFT — Súmulas da Turma de Uniformização dos Juizados Especiais](https://www.tjdft.jus.br/consultas/jurisprudencia/sumulas/sumulas-do-juizado-especial) | 43 | 43 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -75,6 +76,8 @@ No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os n�
 O livro de súmulas do TJCE, edição de 2025, contém 72 verbetes consecutivos; mantemos as referências e observações de cada verbete. A edição não comprova que todas as súmulas posteriores já estejam incluídas. 
 
 O TJSP foi conciliado com os 165 verbetes do livro atualizado em 16/09/2025. O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores. 
+
+O catálogo da Turma de Uniformização dos Juizados Especiais do Distrito Federal acrescenta 43 súmulas em série própria (SUM-TUJ), sem confundir sua numeração com as súmulas gerais do tribunal. Foram preservados os textos, as referências de julgamento e publicação, os links oficiais e os avisos de cancelamento da nº 2 e de revisão da nº 28. A nº 43 tem quatro parágrafos e a nota de acórdão ainda não publicado, referente ao julgamento de 21/09/2026. A composição administrativa da Turma foi excluída dos registros.
 
 O catálogo de súmulas do TJDFT trouxe 29 verbetes, com avisos de alteração, cancelamento e renumeração mantidos no texto. O TJDFT aparece no índice como TJDF, sigla adotada pelo BNP. Também conferimos os catálogos de 21 IRDR e um IAC admitidos; suas observações e links para acórdãos foram mantidos com atribuição própria, sem substituir as informações do BNP. 
 
@@ -158,7 +161,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJAM](tribunais/TJAM/) | 72 | 72 | 72 |
 | [TJBA](tribunais/TJBA/) | 118 | 118 | 118 |
 | [TJCE](tribunais/TJCE/) | 96 | 17 | 17 |
-| [TJDF](tribunais/TJDF/) | 70 | 41 | 41 |
+| [TJDF](tribunais/TJDF/) | 113 | 41 | 41 |
 | [TJES](tribunais/TJES/) | 162 | 162 | 162 |
 | [TJGO](tribunais/TJGO/) | 153 | 151 | 151 |
 | [TJMA](tribunais/TJMA/) | 23 | 23 | 23 |
