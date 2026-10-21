@@ -16,4 +16,16 @@ Estabelecer o critério para designar a competência das Varas de Fazenda Públi
 
 - [00237208320268190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2026.290.00002)
 
+## Outra fonte oficial
+
+[TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx)
+
+**Situação informada:** Admitido
+
+### Informações do catálogo oficial
+
+**Situação informada pelo TJRJ:** Admitido
+
+**Observações:** Há determinação de suspensão dos feitos em curso, no âmbito da jurisdição territorial deste Tribunal de Justiça, em qualquer juízo e grau de jurisdição, em que se discuta a questão ora afetada, não alcançando o sobrestamento, aqueles processos com trânsito em julgado e em fase de cumprimento de sentença, nem tampouco impedindo a propositura de novas demandas ou a apreciação de tutelas provisórias de urgência.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

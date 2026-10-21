@@ -20,4 +20,22 @@ Na localidade "Canal do Anil" a pretensão de haver a desobstrução da rede de 
 
 - [00612047920198190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2019.291.00052)
 
+## Outra fonte oficial
+
+[TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx)
+
+**Situação informada:** Acórdão de mérito publicado
+
+### Informações do catálogo oficial
+
+**Situação informada pelo TJRJ:** Acórdão de mérito publicado
+
+**Observações:** 1. Interposição de Recurso Especial em 16/02/2023, pela parte autora 2. Interposição de Recursos Especial e Extraordinário em 06/03/2023, pela Defensoria Pública. Aguardando admissibilidade pela e. Terceira Vice-Presidência. 3. RE e Resp inadmitidos pel e. Terceira Vice-Presidência em 22/08/2023. 4. Interposição de Agravo em RE e REsp em 01/09/2023. 5. Interposição de Agravo em Resp em 19/09/2023. Aguardando contrarrazões. 6. Determinada a remessa aos Tribunais Superiores em 08/01/2024. Aguardando julgamento. 7. Agravo em Resp convertido em Resp 2151902/RJ. Aguardando decisão em 22/08/2024. 8. REsp 2.151.902/RJ - conhecido em parte e, nesta extensão, negado provimento, em 23/12/2024. 9. Questão de ordem: Julgado, em 15/10/2026, para ratificar, com esclarecimentos e pequeno ajuste redacional da tese.
+
+**Referências legislativas:** Lei municipal n° 4941/2008
+
+### Ementa
+
+Embargos de declaração em face de acórdão que julgou procedente o IRDR, fixou tese e julgou a causa piloto dando provimento ao recurso da ré para julgar improcedentes os pedidos. Embargos das interessadas, autoras da causa piloto: Alegação de omissão, contradição e obscuridade e impossibilidade de análise de matéria fática em IRDR. O que se vislumbra é que pretendem as embargantes que seja acolhida a tese do voto vencido, o que não prospera. Pretensão de prequestionamento. Inexistência de vícios típicos. Matéria enfrentada. Ausência de contradição. Inexistência de omissão, contradição ou obscuridade no julgado. Embargos do Município do Rio de Janeiro. Ocorrência de erro material. Convolação da obrigação de fazer em perdas e danos. Erro material verificado. Esclarecimento para constar: convolação da obrigação de fazer em perdas e danos. Embargos da Defensoria Púbica. Inexistência de omissão, contradição ou obscuridade no julgado. Questões levantadas consideradas para a conclusão de que se trata de políticas públicas. Responsabilidade da CEDAE e da IGUÁ. Matéria enfrentada. Ausência de vícios no julgado. Embargos do Ministério Público. Homogeneidade entre as demandas quanto a causa de pedir, pedidos e narrativa. Voto vencido que não foi acolhido pela maioria. Entendimento de causa comum entre as demandas que em IRDR foram analisadas sob a ótica de matéria de direito. Tema 698 de repercussão geral. Matérias diversas. Não incidência ao caso ora debatido. Políticas públicas analisadas sob a perspectiva do respeito a saúde e moradia, decorrente da situação orçamentária. Inexistência de omissão, contradição ou obscuridade. EMBARGOS DE BERENICE ROLIM DE SOUZA E OUTRA, DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO E MINISTÉRIO PÚBLICO REJEITADOS. EMBARGOS DO MUNICÍPIO DO RIO DE JANEIRO ACOLHIDOS.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

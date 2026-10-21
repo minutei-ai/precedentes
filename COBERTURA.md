@@ -1,8 +1,8 @@
 # Cobertura
 
-**18.636 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.637 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 ## Fontes diretas
 
@@ -62,6 +62,7 @@
 | [TJPE — Enunciados Administrativos da Seção de Direito Público, junho de 2026](https://portal.tjpe.jus.br/documents/10180/0/-/90bbec0a-acf7-b580-6bac-884a90d8682b) | 41 | 41 | 0 |
 | [TJPE — Súmulas da Turma Estadual de Uniformização de Jurisprudência](https://portal.tjpe.jus.br/servicos/consulta/sumulas) | 13 | 13 | 0 |
 | [TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome) | 85 | 2 | 83 |
+| [TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx) | 65 | 2 | 63 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -129,6 +130,8 @@ O TJGO foi conciliado com a pasta pública de súmulas do Órgão Especial no TJ
 
 São 83 correspondências com o BNP e dois registros novos: a nº 75 e o documento histórico nº 1 sobre penhora eletrônica de verba salarial, cuja situação no catálogo é “Exaurido”. A identificação 1-A no TJDocs corresponde ao texto sobre vinculação do salário mínimo que o BNP apresenta como nº 1; essa correspondência foi conferida pelo texto e pelo documento oficial, preservando o identificador já publicado. O antigo enunciado sobre penhora tem matéria distinta e fica sob o identificador imutável do seu documento oficial. Não agrupamos esses dois documentos apenas porque o campo numérico do catálogo informa 1.
 
+A API de precedentes do TJRJ foi conferida em seis páginas de IRDR e uma de IAC, com releitura da primeira página de cada espécie: 56 IRDR e dez IAC. Um IAC está marcado como sigiloso e foi excluído da versão atual do acervo, inclusive da projeção do BNP. Os 65 registros públicos resultam em 63 correspondências com o BNP, conferidas também por processo quando informado, e duas entradas adicionais de IRDR: nº 34, vazia na API, e nº 57, admitida e com processo indicado nas observações, mas sem preenchimento no campo próprio da API. O nº 34 fica apenas como metadado, sem questão, tese ou situação inventada. Preservamos questões, textos de tese, ementas, fundamentos, observações e referências, com atribuição à API; o inteiro teor dos acórdãos não foi coletado neste lote.
+
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
 ## BNP por órgão
@@ -167,7 +170,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJPR](tribunais/TJPR/) | 166 | 166 | 166 |
 | [TJPE](tribunais/TJPE/) | 338 | 190 | 190 |
 | [TJPI](tribunais/TJPI/) | 94 | 25 | 25 |
-| [TJRJ](tribunais/TJRJ/) | 90 | 90 | 90 |
+| [TJRJ](tribunais/TJRJ/) | 91 | 89 | 90 |
 | [TJRN](tribunais/TJRN/) | 63 | 11 | 11 |
 | [TJRS](tribunais/TJRS/) | 100 | 47 | 47 |
 | [TJRO](tribunais/TJRO/) | 21 | 21 | 21 |
@@ -263,6 +266,6 @@ Os catálogos próprios de súmulas do TRF2 e TRF4 também continuam pendentes. 
 
 O catálogo do TJBA ainda não foi conciliado: o endereço consultado retornou HTTP 404 tanto na consulta direta quanto no coletor nativo. O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
 
-As súmulas do TJRJ ainda não foram incorporadas: seu catálogo direto não foi validado nesta coleta. Isso não significa que o tribunal não tenha súmulas.
+As súmulas do TJRJ ainda não foram incorporadas. O catálogo institucional e o PDF de 2026 falharam na validação da cadeia TLS na consulta direta; o coletor nativo também falhou por certificado não confiável. A validação TLS foi mantida. Isso não significa que o tribunal não tenha súmulas.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.

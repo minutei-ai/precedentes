@@ -16,4 +16,16 @@
 
 - [00649200720258190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2025.290.00002)
 
+## Outra fonte oficial
+
+[TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx)
+
+**Situação informada:** Admitido
+
+### Informações do catálogo oficial
+
+**Situação informada pelo TJRJ:** Admitido
+
+**Observações:** Há determinação de suspensão de todos os processos em curso no Estado do Rio de Janeiro que discutam as mesmas questões de direito, relacionadas à lavratura de auto de infração por não recolhimento de ICMS, enquanto responsável solidária, envolvendo substituição tributária nas operações interestaduais referente à indústria fabricante de AEHC, com espeque no art. 32-F do Regulamento do ICMS.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

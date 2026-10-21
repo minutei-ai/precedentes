@@ -16,4 +16,16 @@ Definir se a concessionária de serviço público de distribuição de energia e
 
 - [00250753120268190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2026.291.00012)
 
+## Outra fonte oficial
+
+[TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx)
+
+**Situação informada:** Admitido
+
+### Informações do catálogo oficial
+
+**Situação informada pelo TJRJ:** Admitido
+
+**Observações:** Há determinação de suspensão do andamento de todos os processos, individuais ou coletivos, em primeiro e segundo graus de jurisdição, que tramitam no Estado do Rio de Janeiro e que versem sobre a questão de direito objeto deste incidente, pelo prazo de 1 (um) ano, na forma do art. 980 do CPC.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

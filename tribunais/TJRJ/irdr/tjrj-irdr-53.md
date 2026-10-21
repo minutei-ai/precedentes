@@ -16,4 +16,16 @@ A presença dos requisitos de admissão do IRDR instaurado, cuja dissonância ju
 
 - [00191647220258190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2025.291.00005)
 
+## Outra fonte oficial
+
+[TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx)
+
+**Situação informada:** Admitido
+
+### Informações do catálogo oficial
+
+**Situação informada pelo TJRJ:** Admitido
+
+**Observações:** Há determinação de suspensão de todos os processos pendentes, que versem sobre a matéria, nos termos do voto do Desembargador Relator.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

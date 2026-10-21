@@ -1,6 +1,6 @@
 # TJRJ · Incidente de Resolução de Demandas Repetitivas
 
-**54 registros.** [Voltar ao tribunal](../)
+**56 registros.** [Voltar ao tribunal](../)
 
 - [IRDR 1](tjrj-irdr-1.md) — Não admitido
 - [IRDR 2](tjrj-irdr-2.md) — Acórdão Publicado
@@ -35,6 +35,7 @@
 - [IRDR 31](tjrj-irdr-31.md) — Acórdão Publicado
 - [IRDR 32](tjrj-irdr-32.md) — Acórdão Publicado
 - [IRDR 33](tjrj-irdr-33.md) — Acórdão Publicado
+- [IRDR 34](tjrj-irdr-34.md) — Situação não informada
 - [IRDR 35](tjrj-irdr-35.md) — Acórdão Publicado
 - [IRDR 37](tjrj-irdr-37.md) — Acórdão Publicado
 - [IRDR 38](tjrj-irdr-38.md) — Acórdão Publicado
@@ -55,4 +56,5 @@
 - [IRDR 54](tjrj-irdr-54.md) — Acórdão Publicado
 - [IRDR 55](tjrj-irdr-55.md) — Acórdão Publicado
 - [IRDR 56](tjrj-irdr-56.md) — Acórdão Publicado
+- [IRDR 57](tjrj-irdr-57.md) — Admitido
 - [IRDR 58](tjrj-irdr-58.md) — Acórdão Publicado

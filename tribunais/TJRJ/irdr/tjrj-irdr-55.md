@@ -16,4 +16,16 @@ Definição sobre a legalidade da previsão em edital de limite máximo de idade
 
 - [00408875020258190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2025.291.00013)
 
+## Outra fonte oficial
+
+[TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx)
+
+**Situação informada:** Admitido
+
+### Informações do catálogo oficial
+
+**Situação informada pelo TJRJ:** Admitido
+
+**Observações:** Há determinação de suspensão das demandas em curso, no âmbito da jurisdição territorial deste Tribunal de Justiça, em qualquer juízo e grau de jurisdição, em que se discuta a questão ora afetada, não se aplicando a suspensão, todavia, à apreciação de tutelas, conforme disposto no art. 982, §2º, do Código de Processo Civil, tampouco ao exame de pedido de gratuidade de justiça.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
