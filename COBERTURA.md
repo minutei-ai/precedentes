@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.530 registros únicos de 73 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.531 registros únicos de 74 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -110,6 +110,7 @@
 | [TRE-PE — Súmulas e compilação completa com precedentes](https://www.tre-pe.jus.br/jurisprudencia/sumulas) | 26 | 26 | 0 |
 | [TRE-BA — Enunciados de súmula e PDF oficial](https://www.tre-ba.jus.br/jurisprudencia/sumulas/sumulas) | 11 | 11 | 0 |
 | [TRE-PA — Súmulas e documentos individuais oficiais](https://www.tre-pa.jus.br/jurisprudencia/sumulas-tre-pa-1/sumulas-tre-pa) | 10 | 10 | 0 |
+| [TRE-MA — Súmula e inteiro teor oficial](https://www.tre-ma.jus.br/jurisprudencia/sumulas/sumulas-do-tre-ma) | 1 | 1 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -130,6 +131,8 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRE-MA acrescenta a única súmula listada no catálogo regional consultado, conciliada com o inteiro teor vinculado. Foram preservados o enunciado, a referência ao julgamento de 18.12.2020, os signatários e as datas de publicação no DJE de 07, 12 e 15.04.2021. O catálogo foi relido após a captura do documento e permaneceu estável. A coleta usou o navegador integrado após HTTP 403 nas consultas direta e nativa. Não foi inferida vigência atual. Os julgados e atos citados e as demais categorias de precedentes do TRE-MA permanecem pendentes.
 
 O TRE-PA acrescenta dez súmulas, conciliadas com os dez documentos individuais vinculados: quatro páginas HTML (1 a 4) e seis PDFs de uma página (5 a 10). Foram preservados o texto do catálogo e o documento completo de cada entrada, com referências legislativas, acórdãos, assinaturas e publicações no DJe. As referências às Resoluções nº 5.703/2021 e nº 5.737/2022 permanecem como apresentadas no catálogo; os atos em si não foram coletados neste lote.
 
@@ -363,7 +366,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_DF | 0 | 0 | 0 |
 | TRE_ES | 0 | 0 | 0 |
 | TRE_GO | 0 | 0 | 0 |
-| TRE_MA | 0 | 0 | 0 |
+| [TRE_MA](tribunais/TRE_MA/) | 1 | 0 | 0 |
 | TRE_MT | 0 | 0 | 0 |
 | TRE_MS | 0 | 0 | 0 |
 | [TRE_MG](tribunais/TRE_MG/) | 51 | 0 | 0 |
