@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.716 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.874 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -66,6 +66,8 @@
 | [TJDFT — Súmulas da Turma de Uniformização dos Juizados Especiais](https://www.tjdft.jus.br/consultas/jurisprudencia/sumulas/sumulas-do-juizado-especial) | 43 | 43 | 0 |
 | [TJSP — Súmulas da Turma de Uniformização, caderno com publicações até janeiro de 2017](https://www.tjsp.jus.br/Download/JuizadosEspeciais/SumulasTurmaUniformizacao.pdf) | 10 | 10 | 0 |
 | [TJSP — Enunciados das Câmaras Empresariais, atualização de 10/12/2024](https://www.tjsp.jus.br/Download/Rodape/GrupoCamarasEmpresariaisEnunciados.pdf) | 26 | 26 | 0 |
+| [TJRS — Súmulas das Turmas Recursais Cíveis](https://www.tjrs.jus.br/novo/jurisprudencia-e-legislacao/jurisprudencia/sumulas/sumulas-das-turmas-recursais/) | 51 | 51 | 0 |
+| [TJRS — Súmulas das Turmas Recursais da Fazenda Pública](https://www.tjrs.jus.br/novo/jurisprudencia-e-legislacao/jurisprudencia/sumulas/turmas-recursais-da-fazenda-publica/) | 107 | 107 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -84,6 +86,8 @@ Também foram incorporadas dez súmulas da Turma de Uniformização do Sistema d
 Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em série própria (EN-GCE), com numeração romana de I a XXVI. A edição informa atualização até 10/12/2024 e publicações dos últimos enunciados em janeiro de 2025. Foram preservados os textos, os avisos de cancelamento dos enunciados I, II, VII, IX e XIV e as notas de revisão e alteração. O texto do XXII continua na página seguinte e foi mantido integralmente. Não inferimos vigência atual a partir dessa edição. As duas séries acrescentam 36 registros, sem duplicar as súmulas gerais e os incidentes já presentes no BNP.
 
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
+
+Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
 
 O catálogo da Turma de Uniformização dos Juizados Especiais do Distrito Federal acrescenta 43 súmulas em série própria (SUM-TUJ), sem confundir sua numeração com as súmulas gerais do tribunal. Foram preservados os textos, as referências de julgamento e publicação, os links oficiais e os avisos de cancelamento da nº 2 e de revisão da nº 28. A nº 43 tem quatro parágrafos e a nota de acórdão ainda não publicado, referente ao julgamento de 21/09/2026. A composição administrativa da Turma foi excluída dos registros.
 
@@ -183,7 +187,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJPI](tribunais/TJPI/) | 94 | 25 | 25 |
 | [TJRJ](tribunais/TJRJ/) | 91 | 89 | 90 |
 | [TJRN](tribunais/TJRN/) | 63 | 11 | 11 |
-| [TJRS](tribunais/TJRS/) | 100 | 47 | 47 |
+| [TJRS](tribunais/TJRS/) | 258 | 47 | 47 |
 | [TJRO](tribunais/TJRO/) | 21 | 21 | 21 |
 | [TJRR](tribunais/TJRR/) | 29 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 159 | 91 | 91 |
