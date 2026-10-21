@@ -1,0 +1,77 @@
+# TSE · Súmula
+
+**73 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tse-sum-1.md) — Cancelada
+- [SUM 2](tse-sum-2.md) — Situação não informada
+- [SUM 3](tse-sum-3.md) — Situação não informada
+- [SUM 4](tse-sum-4.md) — Situação não informada
+- [SUM 5](tse-sum-5.md) — Situação não informada
+- [SUM 6](tse-sum-6.md) — Situação não informada
+- [SUM 7](tse-sum-7.md) — Cancelada
+- [SUM 8](tse-sum-8.md) — Cancelada
+- [SUM 9](tse-sum-9.md) — Situação não informada
+- [SUM 10](tse-sum-10.md) — Situação não informada
+- [SUM 11](tse-sum-11.md) — Situação não informada
+- [SUM 12](tse-sum-12.md) — Situação não informada
+- [SUM 13](tse-sum-13.md) — Situação não informada
+- [SUM 14](tse-sum-14.md) — Cancelada
+- [SUM 15](tse-sum-15.md) — Situação não informada
+- [SUM 16](tse-sum-16.md) — Cancelada
+- [SUM 17](tse-sum-17.md) — Cancelada
+- [SUM 18](tse-sum-18.md) — Situação não informada
+- [SUM 19](tse-sum-19.md) — Situação não informada
+- [SUM 20](tse-sum-20.md) — Situação não informada
+- [SUM 21](tse-sum-21.md) — Cancelada
+- [SUM 22](tse-sum-22.md) — Situação não informada
+- [SUM 23](tse-sum-23.md) — Situação não informada
+- [SUM 24](tse-sum-24.md) — Situação não informada
+- [SUM 25](tse-sum-25.md) — Situação não informada
+- [SUM 26](tse-sum-26.md) — Situação não informada
+- [SUM 27](tse-sum-27.md) — Situação não informada
+- [SUM 28](tse-sum-28.md) — Situação não informada
+- [SUM 29](tse-sum-29.md) — Situação não informada
+- [SUM 30](tse-sum-30.md) — Situação não informada
+- [SUM 31](tse-sum-31.md) — Situação não informada
+- [SUM 32](tse-sum-32.md) — Situação não informada
+- [SUM 33](tse-sum-33.md) — Situação não informada
+- [SUM 34](tse-sum-34.md) — Situação não informada
+- [SUM 35](tse-sum-35.md) — Situação não informada
+- [SUM 36](tse-sum-36.md) — Situação não informada
+- [SUM 37](tse-sum-37.md) — Situação não informada
+- [SUM 38](tse-sum-38.md) — Situação não informada
+- [SUM 39](tse-sum-39.md) — Situação não informada
+- [SUM 40](tse-sum-40.md) — Situação não informada
+- [SUM 41](tse-sum-41.md) — Situação não informada
+- [SUM 42](tse-sum-42.md) — Situação não informada
+- [SUM 43](tse-sum-43.md) — Situação não informada
+- [SUM 44](tse-sum-44.md) — Situação não informada
+- [SUM 45](tse-sum-45.md) — Situação não informada
+- [SUM 46](tse-sum-46.md) — Situação não informada
+- [SUM 47](tse-sum-47.md) — Situação não informada
+- [SUM 48](tse-sum-48.md) — Situação não informada
+- [SUM 49](tse-sum-49.md) — Situação não informada
+- [SUM 50](tse-sum-50.md) — Situação não informada
+- [SUM 51](tse-sum-51.md) — Situação não informada
+- [SUM 52](tse-sum-52.md) — Situação não informada
+- [SUM 53](tse-sum-53.md) — Situação não informada
+- [SUM 54](tse-sum-54.md) — Situação não informada
+- [SUM 55](tse-sum-55.md) — Situação não informada
+- [SUM 56](tse-sum-56.md) — Situação não informada
+- [SUM 57](tse-sum-57.md) — Situação não informada
+- [SUM 58](tse-sum-58.md) — Situação não informada
+- [SUM 59](tse-sum-59.md) — Situação não informada
+- [SUM 60](tse-sum-60.md) — Situação não informada
+- [SUM 61](tse-sum-61.md) — Situação não informada
+- [SUM 62](tse-sum-62.md) — Situação não informada
+- [SUM 63](tse-sum-63.md) — Situação não informada
+- [SUM 64](tse-sum-64.md) — Situação não informada
+- [SUM 65](tse-sum-65.md) — Situação não informada
+- [SUM 66](tse-sum-66.md) — Situação não informada
+- [SUM 67](tse-sum-67.md) — Situação não informada
+- [SUM 68](tse-sum-68.md) — Situação não informada
+- [SUM 69](tse-sum-69.md) — Situação não informada
+- [SUM 70](tse-sum-70.md) — Situação não informada
+- [SUM 71](tse-sum-71.md) — Situação não informada
+- [SUM 72](tse-sum-72.md) — Situação não informada
+- [SUM 73](tse-sum-73.md) — Situação não informada

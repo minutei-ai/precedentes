@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.562 registros únicos de 78 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.635 registros únicos de 79 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -115,6 +115,7 @@
 | [TRE-RJ — Súmulas do catálogo regional](https://www.tre-rj.jus.br/jurisprudencia/sumulas/sumulas-do-tre-rj) | 27 | 27 | 0 |
 | [TRE-RS — Consulta conhecida de 2023 com acórdão completo](https://www.tre-rs.jus.br/jurisprudencia/consultas-julgadas-pelo-pleno-do-tre-rs/consultas-2023/consultas-conhecidas-elegibilidade-de-parente-ate-2o-de-prefeito-reeleito) | 1 | 1 | 0 |
 | [TRE-AC — Súmulas e PDFs individuais oficiais](https://www.tre-ac.jus.br/jurisprudencia/sumula) | 2 | 2 | 0 |
+| [TSE — Súmulas e páginas individuais oficiais](https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas/sumulas-do-tse?b_size=100) | 73 | 73 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -135,6 +136,14 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TSE acrescenta as 73 súmulas do catálogo oficial, conciliadas com as 73 páginas individuais. O catálogo foi capturado com 100 entradas por página, apresentou a sequência completa de 1 a 73 sem paginação restante e foi relido após a coleta dos documentos, sem alteração dos registros. As sete etiquetas de cancelamento — 1, 7, 8, 14, 16, 17 e 21 — foram conferidas com as notas individuais. As redações anteriores das súmulas 6, 15, 19 e 20 foram preservadas junto das respectivas redações apresentadas como atuais pela fonte.
+
+Cada registro do TSE mantém a descrição do catálogo e, separadamente, o conteúdo integral da página individual, com notas, referências, signatários e publicações. As diferenças de grafia, maiúsculas, abreviações e citações complementares não foram corrigidas ou fundidas. A nº 16 conserva tanto a revogação de 2002 quanto o cancelamento de 2016. A nº 70 conserva a anotação sobre julgamento de 29/5/2025 e a revogação do § 10 do art. 11 da Lei nº 9.504/1997 pela LC nº 219/2025, sem que essas notas sejam interpretadas como cancelamento presumido da súmula. A nº 73 inclui o enunciado e as referências e publicações de 2024.
+
+A captura do TSE usou o navegador integrado após HTTP 403 nos acessos direto e nativo. A ausência de etiqueta de cancelamento não foi interpretada como comprovação de vigência atual. Os acórdãos e atos citados e as demais categorias de precedentes do tribunal permanecem pendentes.
+
+O TRE-AM permanece pendente. A [página oficial de jurisprudência](https://www.tre-am.jus.br/jurisprudencia), consultada e capturada em 21/10/2026, apresenta o BNP, a pesquisa de jurisprudência, o diário e a revista eletrônica, sem catálogo regional de súmulas nessa navegação. Isso não comprova inexistência de súmulas ou de outros precedentes. A captura usou o navegador integrado após HTTP 403 nos acessos direto e nativo.
 
 O [TRE-SP informa expressamente que não possui súmulas](https://www.tre-sp.jus.br/jurisprudencia/pesquisa-de-jurisprudencia/sumulas-do-tre-sp). A página foi consultada e capturada em 21/10/2026 pelo navegador integrado após HTTP 403 nos acessos direto e nativo. Essa informação se limita a súmulas: as demais categorias de precedentes do TRE-SP permanecem pendentes.
 
@@ -323,7 +332,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [STF](tribunais/STF/) | 7.490 | 7.490 | 7.490 |
 | [STJ](tribunais/STJ/) | 3.044 | 3.016 | 3.016 |
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
-| TSE | 0 | 0 | 0 |
+| [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 2 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 110 | 110 | 110 |
