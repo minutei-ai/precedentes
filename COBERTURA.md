@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.129 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.195 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -97,6 +97,7 @@
 | [TJAL — Cadastro oficial de súmulas administrativas](https://www.tjal.jus.br/legislacao-e-normas/sumula-administrativa) | 5 | 5 | 0 |
 | [TJPB — Compilação de 54 súmulas e catálogo oficial](https://www.tjpb.jus.br/documents/d/guest/enunciados-1) | 54 | 54 | 0 |
 | [TJES — Planilha oficial de súmulas, referências e anotações](https://www.tjes.jus.br/wp-content/uploads/Planilha_Sumulas.pdf) | 23 | 0 | 23 |
+| [TJPR — Enunciados das Turmas Recursais e de Uniformização](https://www.tjpr.jus.br/enunciados-turmas-recursais) | 66 | 66 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -117,6 +118,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O catálogo de enunciados das Turmas Recursais do TJPR acrescenta 66 registros em cinco séries independentes: 13 da Primeira Turma Recursal (EN-1TR), 23 da Terceira (EN-3TR), 16 da Quarta (EN-4TR), 12 da Turma Recursal Plena (EN-TR-PLENA) e dois da Turma de Uniformização (EN-TUJ). A Terceira Turma mantém sua numeração decimal, distribuída em quatro grupos temáticos. Enunciados de órgãos distintos não foram agrupados apenas por compartilharem número ou texto. Nenhuma dessas séries duplica as súmulas e os incidentes do TJPR já presentes no BNP.
+
+Foram preservados todos os parágrafos, itens internos, referências legislativas, processos, notas de alteração e notas “MANTIDO” apresentadas na página, além dos cabeçalhos e referências de SEI pertinentes. A data “29/12/200” dos enunciados 4.6 e 4.7 da Terceira Turma e as pontuações incomuns de números de processo foram mantidas literalmente, sem correção presumida. O item b) do enunciado 4.5 permanece no mesmo registro do item a).
+
+O catálogo foi relido ao final e o conteúdo jurídico integral foi comparado entre as duas capturas. A indicação “MANTIDO” é atribuída ao catálogo e não foi tratada como comprovação de vigência atual ou força vinculante. Não foi inferida situação atual para os demais enunciados a partir de sua permanência na página. Os acórdãos e atos citados não foram coletados neste lote, e a conciliação dos demais catálogos do TJPR permanece aberta.
 
 As 23 súmulas do TJES foram conciliadas com a planilha oficial vinculada pela Comissão de Jurisprudência, sem acréscimo à contagem do BNP. A planilha de dez páginas informa dez verbetes como “Vigente”, sete como “Revisado” (3, 4, 5, 6, 11, 15 e 19) e seis como “Superado” (7, 8, 12, 13, 17 e 21). As situações são as publicadas na fonte, sem validação independente de atos posteriores.
 
@@ -261,7 +268,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJMG](tribunais/TJMG/) | 400 | 139 | 139 |
 | [TJPA](tribunais/TJPA/) | 69 | 69 | 69 |
 | [TJPB](tribunais/TJPB/) | 64 | 10 | 10 |
-| [TJPR](tribunais/TJPR/) | 166 | 166 | 166 |
+| [TJPR](tribunais/TJPR/) | 232 | 166 | 166 |
 | [TJPE](tribunais/TJPE/) | 338 | 190 | 190 |
 | [TJPI](tribunais/TJPI/) | 94 | 25 | 25 |
 | [TJRJ](tribunais/TJRJ/) | 91 | 89 | 90 |
