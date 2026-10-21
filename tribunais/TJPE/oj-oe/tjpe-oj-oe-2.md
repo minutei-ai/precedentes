@@ -1,0 +1,20 @@
+# TJPE · OJ-OE 2
+
+- **Órgão:** TJPE
+- **Espécie:** Orientação Jurisprudencial do Órgão Especial
+- **Número:** 2
+- **Identificador:** `tjpe-oj-oe-2`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TJPE — Compilação: súmulas 173 a 200 e OJs 1 a 62 do Órgão Especial](https://portal.tjpe.jus.br/documents/10180/0/-/3b00bf2c-3a6a-8e76-0315-da03cb32145f)
+
+## Texto disponibilizado pela fonte
+
+Orientação Jurisprudencial 2. A divulgação no Portal da Transparência, por meio da  
+rede mundial de computadores, do nome, cargo ocupado e a remuneração dos  
+agentes públicos não viola o direito à intimidade ou à vida privada previstos no art.  
+5º, X, da Constituição Federal. (Referência: Mandado de Segurança nº  
+0015751-62.2012.8.17.0000 (0282700-1), Rel. Des. Fausto Campos, julgado em  
+23/01/2014, DJe 31/01/2014)
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

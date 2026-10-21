@@ -1,10 +1,11 @@
 # TJPE · Súmula
 
-**168 registros.** [Voltar ao tribunal](../)
+**200 registros.** [Voltar ao tribunal](../)
 
 - [SUM 1](tjpe-sum-1.md) — Vigente
 - [SUM 2](tjpe-sum-2.md) — Cancelado
 - [SUM 3](tjpe-sum-3.md) — Vigente
+- [SUM 4](tjpe-sum-4.md) — Situação não informada
 - [SUM 5](tjpe-sum-5.md) — Vigente
 - [SUM 6](tjpe-sum-6.md) — Cancelado
 - [SUM 7](tjpe-sum-7.md) — Vigente
@@ -14,41 +15,61 @@
 - [SUM 11](tjpe-sum-11.md) — Vigente
 - [SUM 12](tjpe-sum-12.md) — Vigente
 - [SUM 13](tjpe-sum-13.md) — Vigente
+- [SUM 14](tjpe-sum-14.md) — Situação não informada
 - [SUM 15](tjpe-sum-15.md) — Vigente
+- [SUM 16](tjpe-sum-16.md) — Situação não informada
+- [SUM 17](tjpe-sum-17.md) — Situação não informada
 - [SUM 18](tjpe-sum-18.md) — Vigente
 - [SUM 19](tjpe-sum-19.md) — Vigente
+- [SUM 20](tjpe-sum-20.md) — Situação não informada
 - [SUM 21](tjpe-sum-21.md) — Vigente
 - [SUM 22](tjpe-sum-22.md) — Vigente
 - [SUM 23](tjpe-sum-23.md) — Vigente
 - [SUM 24](tjpe-sum-24.md) — Vigente
+- [SUM 25](tjpe-sum-25.md) — Situação não informada
+- [SUM 26](tjpe-sum-26.md) — Situação não informada
 - [SUM 27](tjpe-sum-27.md) — Vigente
 - [SUM 28](tjpe-sum-28.md) — Vigente
+- [SUM 29](tjpe-sum-29.md) — Situação não informada
+- [SUM 30](tjpe-sum-30.md) — Situação não informada
 - [SUM 31](tjpe-sum-31.md) — Vigente
 - [SUM 32](tjpe-sum-32.md) — Vigente
 - [SUM 33](tjpe-sum-33.md) — Vigente
+- [SUM 34](tjpe-sum-34.md) — Situação não informada
+- [SUM 35](tjpe-sum-35.md) — Situação não informada
+- [SUM 36](tjpe-sum-36.md) — Situação não informada
 - [SUM 37](tjpe-sum-37.md) — Vigente
+- [SUM 38](tjpe-sum-38.md) — Situação não informada
 - [SUM 39](tjpe-sum-39.md) — Vigente
 - [SUM 40](tjpe-sum-40.md) — Vigente
 - [SUM 41](tjpe-sum-41.md) — Vigente
 - [SUM 42](tjpe-sum-42.md) — Vigente
 - [SUM 43](tjpe-sum-43.md) — Vigente
 - [SUM 44](tjpe-sum-44.md) — Vigente
+- [SUM 45](tjpe-sum-45.md) — Situação não informada
 - [SUM 46](tjpe-sum-46.md) — Vigente
 - [SUM 47](tjpe-sum-47.md) — Vigente
+- [SUM 48](tjpe-sum-48.md) — Situação não informada
 - [SUM 49](tjpe-sum-49.md) — Vigente
 - [SUM 50](tjpe-sum-50.md) — Vigente
 - [SUM 51](tjpe-sum-51.md) — Vigente
+- [SUM 52](tjpe-sum-52.md) — Situação não informada
 - [SUM 53](tjpe-sum-53.md) — Vigente
 - [SUM 54](tjpe-sum-54.md) — Vigente
 - [SUM 55](tjpe-sum-55.md) — Vigente
 - [SUM 56](tjpe-sum-56.md) — Vigente
 - [SUM 57](tjpe-sum-57.md) — Vigente
 - [SUM 58](tjpe-sum-58.md) — Vigente
+- [SUM 59](tjpe-sum-59.md) — Situação não informada
+- [SUM 60](tjpe-sum-60.md) — Situação não informada
 - [SUM 61](tjpe-sum-61.md) — Vigente
 - [SUM 62](tjpe-sum-62.md) — Vigente
 - [SUM 63](tjpe-sum-63.md) — Vigente
+- [SUM 64](tjpe-sum-64.md) — Situação não informada
 - [SUM 65](tjpe-sum-65.md) — Vigente
+- [SUM 66](tjpe-sum-66.md) — Situação não informada
 - [SUM 67](tjpe-sum-67.md) — Vigente
+- [SUM 68](tjpe-sum-68.md) — Situação não informada
 - [SUM 69](tjpe-sum-69.md) — Vigente
 - [SUM 70](tjpe-sum-70.md) — Vigente
 - [SUM 71](tjpe-sum-71.md) — Vigente
@@ -62,32 +83,40 @@
 - [SUM 79](tjpe-sum-79.md) — Vigente
 - [SUM 80](tjpe-sum-80.md) — Vigente
 - [SUM 81](tjpe-sum-81.md) — Vigente
+- [SUM 82](tjpe-sum-82.md) — Situação não informada
 - [SUM 83](tjpe-sum-83.md) — Vigente
 - [SUM 84](tjpe-sum-84.md) — Vigente
 - [SUM 85](tjpe-sum-85.md) — Vigente
 - [SUM 86](tjpe-sum-86.md) — Vigente
 - [SUM 87](tjpe-sum-87.md) — Vigente
+- [SUM 88](tjpe-sum-88.md) — Situação não informada
 - [SUM 89](tjpe-sum-89.md) — Vigente
+- [SUM 90](tjpe-sum-90.md) — Situação não informada
 - [SUM 91](tjpe-sum-91.md) — Vigente
 - [SUM 92](tjpe-sum-92.md) — Vigente
 - [SUM 93](tjpe-sum-93.md) — Vigente
 - [SUM 94](tjpe-sum-94.md) — Vigente
 - [SUM 95](tjpe-sum-95.md) — Vigente
 - [SUM 96](tjpe-sum-96.md) — Vigente
+- [SUM 97](tjpe-sum-97.md) — Situação não informada
 - [SUM 98](tjpe-sum-98.md) — Vigente
 - [SUM 99](tjpe-sum-99.md) — Vigente
 - [SUM 100](tjpe-sum-100.md) — Vigente
 - [SUM 101](tjpe-sum-101.md) — Vigente
 - [SUM 102](tjpe-sum-102.md) — Vigente
+- [SUM 103](tjpe-sum-103.md) — Situação não informada
+- [SUM 104](tjpe-sum-104.md) — Situação não informada
 - [SUM 105](tjpe-sum-105.md) — Vigente
 - [SUM 106](tjpe-sum-106.md) — Vigente
 - [SUM 107](tjpe-sum-107.md) — Vigente
+- [SUM 108](tjpe-sum-108.md) — Situação não informada
 - [SUM 109](tjpe-sum-109.md) — Vigente
 - [SUM 110](tjpe-sum-110.md) — Vigente
 - [SUM 111](tjpe-sum-111.md) — Vigente
 - [SUM 112](tjpe-sum-112.md) — Vigente
 - [SUM 113](tjpe-sum-113.md) — Vigente
 - [SUM 114](tjpe-sum-114.md) — Vigente
+- [SUM 115](tjpe-sum-115.md) — Situação não informada
 - [SUM 116](tjpe-sum-116.md) — Vigente
 - [SUM 117](tjpe-sum-117.md) — Vigente
 - [SUM 118](tjpe-sum-118.md) — Vigente
@@ -98,6 +127,7 @@
 - [SUM 123](tjpe-sum-123.md) — Vigente
 - [SUM 124](tjpe-sum-124.md) — Vigente
 - [SUM 125](tjpe-sum-125.md) — Vigente
+- [SUM 126](tjpe-sum-126.md) — Situação não informada
 - [SUM 127](tjpe-sum-127.md) — Vigente
 - [SUM 128](tjpe-sum-128.md) — Vigente
 - [SUM 129](tjpe-sum-129.md) — Vigente
@@ -123,6 +153,7 @@
 - [SUM 149](tjpe-sum-149.md) — Vigente
 - [SUM 150](tjpe-sum-150.md) — Vigente
 - [SUM 151](tjpe-sum-151.md) — Vigente
+- [SUM 152](tjpe-sum-152.md) — Situação não informada
 - [SUM 153](tjpe-sum-153.md) — Vigente
 - [SUM 154](tjpe-sum-154.md) — Vigente
 - [SUM 155](tjpe-sum-155.md) — Vigente
@@ -170,3 +201,4 @@
 - [SUM 197](tjpe-sum-197.md) — Vigente
 - [SUM 198](tjpe-sum-198.md) — Vigente
 - [SUM 199](tjpe-sum-199.md) — Vigente
+- [SUM 200](tjpe-sum-200.md) — Situação não informada

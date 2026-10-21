@@ -19,4 +19,47 @@ A gratificação de Incentivo instituída pela Lei Complementar Estadual 27/1999
 - [00029044320038170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00029044320038170000)
 - [00030006320008170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00030006320008170000)
 
+## Outra fonte oficial
+
+[TJPE — Livro de súmulas 1 a 92, edição de 2009](https://portal.tjpe.jus.br/documents/10180/0/-/08b9a5ff-0232-469a-bd24-d621219abf08)
+
+### Texto
+
+Súmula  
+023  
+Órgão Julgador  
+SEÇÃO CÍVEL  
+Data do Julgamento  
+03/05/2007  
+Data da Publicação/Fonte  
+DPJ 88 15.05.2007 p. 4  
+Enunciado  
+A Gratificação de Incentivo instituída pela Lei  
+Complementar Estadual 27/1999 é extensiva aos  
+policiais militares inativos e a seus pensionistas.  
+Referência Legislativa  
+LEG: FED CFB: 1988  
+\*\*\*\*\*CONSTITUIÇÃO FEDERAL DE 1988  
+ART: 40 PAR: 7 PAR: 8  
+LEG: EST CE-PE: 1989  
+\*\*\*\*\*CONSTITUIÇÃO DO ESTADO DE PERNAMBUCO  
+ART: 100  
+LEG: EST LEI COMP: 27/1999  
+LEG: EST LEI COMP: 59/2004  
+Precedentes  
+MS 76045-4 DECISÃO: 06/04/2005  
+DJ 84 DATA: 07/05/2005  
+  
+DGO e AC 105182-9 DECISÃO: 11/03/2005  
+DJ 227 DATA: 03/12/2005  
+  
+AI 99264-7 DECISÃO: 28/09/2004  
+DJ 207 DATA: 10/11/2004  
+  
+AI 95220-9 DECISÃO: 19/08/2004  
+DJ 175 DATA: 22/09/2004  
+  
+MS 63976-9 DECISÃO: 12/02/2003  
+DJ 30 DATA: 16/02/2005
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

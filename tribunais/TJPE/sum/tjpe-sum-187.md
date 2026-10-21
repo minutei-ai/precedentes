@@ -18,4 +18,15 @@ A obrigação de efetuar o pagamento do laudêmio é, em regra, do vendedor (art
 - [01921642420128170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/01921642420128170001)
 - [00152414420158170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00152414420158170000)
 
+## Outra fonte oficial
+
+[TJPE — Compilação: súmulas 173 a 200 e OJs 1 a 62 do Órgão Especial](https://portal.tjpe.jus.br/documents/10180/0/-/3b00bf2c-3a6a-8e76-0315-da03cb32145f)
+
+### Texto
+
+Súmula 187 : A obrigação de efetuar o pagamento do laudêmio é, em regra, do  
+vendedor (art. 3º do Decreto-Lei nº 2398/87 e art. 2º do Decreto nº 95.760/88),  
+sendo possível a transferência do encargo para o comprador, desde que isso conste  
+expressamente do contrato.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

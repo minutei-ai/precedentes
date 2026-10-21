@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.486 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.580 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -55,6 +55,10 @@
 | [TRT da 24ª Região — Súmulas, atualização de março de 2026](https://www.trt24.jus.br/documents/20182/1472434/S%C3%9AMULAS+DO+TRT+DA+24%C2%AA+REGI%C3%83O+-+atualiza%C3%A7%C3%A3o+Mar%C3%A7o+2026.pdf) | 38 | 38 | 0 |
 | [TNU — Catálogo de súmulas do CJF (Virtus)](https://www.cjf.jus.br/phpdoc/virtus/listaSumulas.php) | 89 | 89 | 0 |
 | [TRF da 5ª Região — Catálogo de súmulas e documentos vinculados](https://www.trf5.jus.br/index.php/legislacao-home?%2Fcategoria=Legislacao+Sumulas&ano=2007&mes=00&nomeServico=getLegislacaoInstitucional) | 22 | 22 | 0 |
+| [TJPE — Livro de súmulas 1 a 92, edição de 2009](https://portal.tjpe.jus.br/documents/10180/0/-/08b9a5ff-0232-469a-bd24-d621219abf08) | 92 | 24 | 68 |
+| [TJPE — Livro de súmulas 93 a 109, edição de 2009](https://portal.tjpe.jus.br/documents/10180/0/-/91f51fef-2c2b-41a2-8152-17fde947c688) | 17 | 4 | 13 |
+| [TJPE — Livro de súmulas 110 a 172, edição de 2017](https://portal.tjpe.jus.br/documents/10180/0/-/98b7c8b3-08f0-de51-aa13-6114487c3961) | 63 | 3 | 60 |
+| [TJPE — Compilação: súmulas 173 a 200 e OJs 1 a 62 do Órgão Especial](https://portal.tjpe.jus.br/documents/10180/0/-/3b00bf2c-3a6a-8e76-0315-da03cb32145f) | 90 | 63 | 27 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -112,6 +116,8 @@ A TNU inclui os 89 enunciados do catálogo Virtus do CJF, conferidos do número 
 
 O TRF da 5ª Região inclui os 22 enunciados do catálogo de súmulas e seus 22 PDFs vinculados. Os números foram conferidos no catálogo, na resposta de cada comando de consulta e no texto do PDF correspondente. Preservamos os textos do catálogo e, separadamente, o texto extraído dos documentos, com suas publicações e referências. A data uniforme de 16/05/2007 aparece como data do catálogo, sem ser atribuída à publicação original: o PDF da nº 1, por exemplo, informa publicação em 14/10/1991. O portal oferece esses registros na aba 2007, mas os textos e documentos incluem referências posteriores. O BNP do órgão não contém súmulas sob SUM ou SV, portanto os 22 enunciados são novos no acervo. Não inferimos vigência pela presença no catálogo nem cobertura de todas as publicações do tribunal.
 
+O TJPE foi conciliado com 262 verbetes: 200 súmulas e 62 orientações jurisprudenciais do Órgão Especial. Para as súmulas 1 a 109 usamos os livros de 2009; para as de 110 a 172, o volume de 2017. Mantemos enunciados, metadados, referências e notas de revogação conforme cada edição. Da compilação vinculada no catálogo extraímos apenas as súmulas 173 a 200 e as OJs 1 a 62: os trechos antigos dessa compilação têm falhas de extração, inclusive nos números 51 a 57, e não substituem os livros correspondentes. As 168 súmulas do BNP mantêm seus identificadores e recebem a fonte adicional, sem apagar diferenças de redação ou situação. São 94 registros novos: 32 súmulas e 62 OJs, estas em série própria. Os volumes históricos não comprovam a vigência atual de todos os enunciados; as súmulas da Turma Estadual de Uniformização e os Enunciados Administrativos da Seção de Direito Público ainda precisam de coleta própria.
+
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
 ## BNP por órgão
@@ -148,7 +154,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJPA](tribunais/TJPA/) | 69 | 69 | 69 |
 | [TJPB](tribunais/TJPB/) | 10 | 10 | 10 |
 | [TJPR](tribunais/TJPR/) | 166 | 166 | 166 |
-| [TJPE](tribunais/TJPE/) | 190 | 190 | 190 |
+| [TJPE](tribunais/TJPE/) | 284 | 190 | 190 |
 | [TJPI](tribunais/TJPI/) | 94 | 25 | 25 |
 | [TJRJ](tribunais/TJRJ/) | 90 | 90 | 90 |
 | [TJRN](tribunais/TJRN/) | 63 | 11 | 11 |

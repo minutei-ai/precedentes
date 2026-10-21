@@ -20,4 +20,59 @@ o art. 1.º-F à Lei n. 9.494, de 1997; (ii) no percentual de 0,5% ao mês, a pa
 - [00061415620108170480](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00061415620108170480)
 - [01394457020098170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/01394457020098170001)
 
+## Outra fonte oficial
+
+[TJPE — Livro de súmulas 110 a 172, edição de 2017](https://portal.tjpe.jus.br/documents/10180/0/-/98b7c8b3-08f0-de51-aa13-6114487c3961)
+
+### Texto
+
+Súmula  
+  
+150  
+Órgão Julgador  
+  
+  
+ÓRGÃO ESPECIAL  
+  
+Data de julgamento  
+  
+24/04/2017  
+  
+Enunciado  
+  
+Na condenação da Fazenda Pública ao pagamento de verbas remuneratórias devidas a  
+servidores e empregados públicos, incidem juros moratórios, a partir da citação, no (i)  
+percentual de 1% ao mês, nos termos do art. 3º, do Decreto n. 2.322, de 1987, no período  
+anterior a 24.08.2001, data de publicação da Medida Provisória n. 2.180-35, que acresceu  
+o art. 1.º-F à Lei n. 9.494, de 1997; (ii) no percentual de 0,5% ao mês, a partir da MP n.  
+2.180-35/2001 até o advento da Lei n. 11.960, de 30.06.2009, que deu nova redação ao art.  
+1.º-F da Lei n. 9.494, de 1997; e (iii) no percentual estabelecido para caderneta de  
+poupança, a partir de 30.6.2009 (art. 1º-F da Lei n 9.494, de 1997, com a redação  
+determinada pela Lei n 11.960, de 2009.)  
+  
+Referências  
+  
+MP n. 2180-35;  
+  
+LF n. 9.494/1997;  
+  
+LF n. 11.960/2009.  
+  
+Precedentes  
+  
+Agv 342706-3 Decisão: 19.02.2016  
+DJe 29.02.2016 Relator: Des. André Oliveira da Silva Guimarães.  
+  
+Agv 418675-0 Decisão: 16.02.2016  
+DJe 25.02.2016 Relator: Des. Erik de Sousa Dantas Simões.  
+  
+Ap 298641-4. Decisão: 01.12.2015  
+DJe 23.12.2015 Relator: Des. Alfredo Sérgio Magalhães Jambo.  
+  
+ED 2807027 Decisão: 10.03.2015  
+DJe 16.03.2015 Relator: Des. Alfredo Sérgio Magalhães Jambo.  
+  
+Agv 3615774 Decisão: 10.02.2015  
+DJe 24.02.2015 Relator: Des. Jorge Américo Pereira de Lira.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
