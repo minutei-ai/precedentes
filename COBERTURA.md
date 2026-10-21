@@ -1,6 +1,6 @@
 # Cobertura
 
-**17.522 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**17.806 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -32,6 +32,12 @@
 | [TRT da 3ª Região — Orientações Jurisprudenciais](https://portal.trt3.jus.br/internet/jurisprudencia/uniformizacao-de-jurisprudencia/orientacoes-jurisprudenciais) | 46 | 46 | 0 |
 | [TRT da 15ª Região — Súmulas com processos referenciados, edição de 25/09/2026](https://trt15.jus.br/sites/portal/files/roles/servicos/atas-julgamento/s%C3%BAmulas/Vers%C3%A3o_com_processos_referenciados_25-09-2026.pdf) | 146 | 146 | 0 |
 | [TRT da 15ª Região — Súmulas, versão completa de 15/06/2026 com redações históricas](https://trt15.jus.br/sites/portal/files/roles/servicos/atas-julgamento/s%C3%BAmulas/versao-completa_SUMULAS_15-06-2026_0.pdf) | 146 | 0 | 146 |
+| [TRT da 2ª Região — Súmulas](https://ww2.trt2.jus.br/jurisprudencia/jurisprudencia/trt2-jurisprudencia-consolidada/sumulas) | 80 | 80 | 0 |
+| [TRT da 2ª Região — Orientações Jurisprudenciais](https://ww2.trt2.jus.br/jurisprudencia/jurisprudencia/trt2-jurisprudencia-consolidada/orientacoes-jurisprudenciais) | 20 | 20 | 0 |
+| [TRT da 2ª Região — Precedentes Normativos](https://ww2.trt2.jus.br/jurisprudencia/jurisprudencia/trt2-jurisprudencia-consolidada/precedentes-normativos) | 41 | 41 | 0 |
+| [TRT da 2ª Região — Teses Jurídicas Prevalecentes](https://ww2.trt2.jus.br/jurisprudencia/jurisprudencia/trt2-jurisprudencia-consolidada/teses-juridicas-prevalecentes) | 25 | 25 | 0 |
+| [TRT da 9ª Região — Livro eletrônico de Súmulas](https://www.trt9.jus.br/bancojurisprudencia/publico/sumulasEAfins.xhtml) | 102 | 102 | 0 |
+| [TRT da 9ª Região — Livro eletrônico de Teses Jurídicas Prevalecentes](https://www.trt9.jus.br/bancojurisprudencia/publico/sumulasEAfins.xhtml) | 16 | 16 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -53,7 +59,11 @@ O TJPI foi coletado no catálogo atual da transparência: 70 registros em cinco 
 
 O catálogo atual do TJRN reúne 52 súmulas, conferidas em seis páginas. A descrição da nº 6 estava truncada; sua redação integral e referências foram obtidas no PDF oficial, com o trecho original do catálogo preservado separadamente.
 
+O portal atual do TRT da 2ª Região trouxe 80 súmulas, 20 orientações jurisprudenciais, 41 precedentes normativos e 25 teses jurídicas prevalecentes. As datas de atualização declaradas nas páginas são 30/12/2021 e 17/03/2022; a coleta atual não comprova que o portal tenha incorporado todas as alterações posteriores. Cancelamentos, redações anteriores e links para os precedentes foram preservados.
+
 O TRT da 3ª Região inclui 73 súmulas, 23 teses jurídicas prevalecentes e 46 orientações jurisprudenciais. As orientações têm numerações independentes: 11 da 1ª SDI, cinco da 2ª SDI e 30 das Turmas. Os avisos de cancelamento, alteração e as referências foram mantidos.
+
+Os livros eletrônicos do TRT da 9ª Região trouxeram 102 súmulas e 16 teses jurídicas prevalecentes, obtidos pelo formulário do próprio portal. O conteúdo inclui alterações de 2026, como o cancelamento da Súmula 3, com a redação cancelada e seu histórico preservados. Esses livros não representam todas as categorias de precedentes do TRT9.
 
 O TRT da 15ª Região inclui 146 números de súmula. A edição com processos referenciados, de 25/09/2026, é a fonte principal; em 25 números ela informa apenas o cancelamento. A versão completa de 15/06/2026 preserva as redações históricas desses números e aparece como outra fonte oficial no mesmo Markdown. Texto histórico não implica vigência.
 
@@ -105,14 +115,14 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
 | [TRT01](tribunais/TRT01/) | 76 | 76 | 76 |
-| [TRT02](tribunais/TRT02/) | 69 | 69 | 69 |
+| [TRT02](tribunais/TRT02/) | 235 | 69 | 69 |
 | [TRT03](tribunais/TRT03/) | 214 | 72 | 72 |
 | [TRT04](tribunais/TRT04/) | 202 | 202 | 202 |
 | [TRT05](tribunais/TRT05/) | 49 | 49 | 49 |
 | [TRT06](tribunais/TRT06/) | 36 | 36 | 36 |
 | [TRT07](tribunais/TRT07/) | 47 | 47 | 47 |
 | [TRT08](tribunais/TRT08/) | 66 | 66 | 66 |
-| [TRT09](tribunais/TRT09/) | 65 | 65 | 65 |
+| [TRT09](tribunais/TRT09/) | 183 | 65 | 65 |
 | [TRT10](tribunais/TRT10/) | 21 | 21 | 21 |
 | [TRT11](tribunais/TRT11/) | 32 | 32 | 32 |
 | [TRT12](tribunais/TRT12/) | 46 | 46 | 46 |

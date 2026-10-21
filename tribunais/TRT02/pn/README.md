@@ -1,0 +1,45 @@
+# TRT02 · Precedente Normativo
+
+**41 registros.** [Voltar ao tribunal](../)
+
+- [PN 1](trt02-pn-1.md) — Situação não informada
+- [PN 2](trt02-pn-2.md) — Situação não informada
+- [PN 3](trt02-pn-3.md) — Situação não informada
+- [PN 4](trt02-pn-4.md) — Situação não informada
+- [PN 5](trt02-pn-5.md) — Situação não informada
+- [PN 6](trt02-pn-6.md) — Situação não informada
+- [PN 7](trt02-pn-7.md) — Situação não informada
+- [PN 8](trt02-pn-8.md) — Situação não informada
+- [PN 9](trt02-pn-9.md) — Situação não informada
+- [PN 10](trt02-pn-10.md) — Situação não informada
+- [PN 11](trt02-pn-11.md) — Situação não informada
+- [PN 12](trt02-pn-12.md) — Situação não informada
+- [PN 13](trt02-pn-13.md) — Situação não informada
+- [PN 14](trt02-pn-14.md) — Situação não informada
+- [PN 15](trt02-pn-15.md) — Situação não informada
+- [PN 16](trt02-pn-16.md) — Situação não informada
+- [PN 17](trt02-pn-17.md) — Situação não informada
+- [PN 18](trt02-pn-18.md) — Situação não informada
+- [PN 19](trt02-pn-19.md) — Situação não informada
+- [PN 20](trt02-pn-20.md) — Situação não informada
+- [PN 21](trt02-pn-21.md) — Situação não informada
+- [PN 22](trt02-pn-22.md) — Situação não informada
+- [PN 23](trt02-pn-23.md) — Situação não informada
+- [PN 24](trt02-pn-24.md) — Situação não informada
+- [PN 25](trt02-pn-25.md) — Situação não informada
+- [PN 26](trt02-pn-26.md) — Situação não informada
+- [PN 27](trt02-pn-27.md) — Situação não informada
+- [PN 28](trt02-pn-28.md) — Situação não informada
+- [PN 29](trt02-pn-29.md) — Situação não informada
+- [PN 30](trt02-pn-30.md) — Situação não informada
+- [PN 31](trt02-pn-31.md) — Situação não informada
+- [PN 32](trt02-pn-32.md) — Situação não informada
+- [PN 33](trt02-pn-33.md) — Situação não informada
+- [PN 34](trt02-pn-34.md) — Situação não informada
+- [PN 35](trt02-pn-35.md) — Situação não informada
+- [PN 36](trt02-pn-36.md) — Situação não informada
+- [PN 37](trt02-pn-37.md) — Situação não informada
+- [PN 38](trt02-pn-38.md) — Situação não informada
+- [PN 39](trt02-pn-39.md) — Situação não informada
+- [PN 40](trt02-pn-40.md) — Situação não informada
+- [PN 41](trt02-pn-41.md) — Situação não informada
