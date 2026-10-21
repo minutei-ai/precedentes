@@ -1,9 +1,9 @@
 # STJ · RR 170
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 170
-- **Identificador na fonte:** `stj-rr-170`
+- **Identificador:** `stj-rr-170`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=170)
@@ -20,4 +20,10 @@ Sob a égide do Convênio ICMS 66/88 (antes, portanto, da entrada em vigor da Le
 
 - [11285665019988080024](https://processo.stj.jus.br/processo/pesquisa/?termo=200701971072&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

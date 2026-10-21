@@ -1,10 +1,10 @@
 # STF · ADI 514
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 514
-- **Identificador na fonte:** `stf-adi-514`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-514`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/07/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=514)
 
@@ -20,4 +20,4 @@ Apresentado o feito em Mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED CF ANO-1988 ART-00037 "CAPUT" INC-00011 INC-00013 ART-00073 PAR-00003 ART-00093 INC-00006 ART-00096 INC-00006 ART-00127 PAR-00002 PAR-00003 ART-00129 PAR-00004 ART-00132 ART-00134 ART-00135 ART-00165 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00099 ART-00282 ART-00286 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-EST CES ANO-1989 ART-00057 ART-00144 INC-00002 ART-00154 INC-00006 CONSTITUIÇAO ESTADUAL, PI LEG-EST LCP-000002 ANO-1990 ART-00002 INC-00005 ART-00005 ART-00062 ART-00158 LEI COMPLEMENTAR, PI LEG-EST LCP-000003 ANO-1990 ART-00004 PAR-00002 ART-00058 LEI COMPLEMENTAR, PI LEG-EST LCP-000004 ANO-1990 ART-00028 LEI COMPLEMENTAR, PI
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

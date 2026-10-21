@@ -1,9 +1,9 @@
 # TJPE · SUM 170
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 170
-- **Identificador na fonte:** `tjpe-sum-170`
+- **Identificador:** `tjpe-sum-170`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=170)
@@ -21,4 +21,4 @@ A falta de citação do réu, pela não indicação de endereço correto após a
 - [00229079620128170810](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00229079620128170810)
 - [00167533020138170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00167533020138170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT15 · IRDR 56
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 56
-- **Identificador na fonte:** `trt15-irdr-56`
+- **Identificador:** `trt15-irdr-56`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=56)
@@ -18,4 +18,4 @@ A inobservância do intervalo mínimo interjornada de 11 (onze) horas consecutiv
 O pagamento das horas suprimidas do intervalo interjornada não se confunde com a remuneração de horas extras decorrentes da sobrejornada, tratando-se de parcelas com fatos geradores e finalidades jurídicas distintas, sendo plenamente cumuláveis, sem que isso configure bis in idem ou enriquecimento sem causa.  
 Refere-se à tese jurídica n.º 56 deste Egrégio Tribunal.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

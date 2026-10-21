@@ -1,9 +1,9 @@
 # STJ · RR 1100
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1100
-- **Identificador na fonte:** `stj-rr-1100`
+- **Identificador:** `stj-rr-1100`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1100)
@@ -21,4 +21,10 @@ O acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal 
 - [00521067620158190205](https://processo.stj.jus.br/processo/pesquisa/?termo=202100328971&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10932579420168130024](https://processo.stj.jus.br/processo/pesquisa/?termo=202003416524&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT14 · NT 9
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `trt14-nt-9`
+- **Identificador:** `trt14-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=9)
@@ -25,4 +25,4 @@ Medidas em prol da padr
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2024-06/Nota%20T%C3%A9cnica%20n.%2003-2024-TRT14-CI-NUGEPNAC%20-%20Ades%C3%A3o%20NT%20n.%205-2023-TRT11.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

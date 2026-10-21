@@ -1,9 +1,9 @@
 # TJRR · IRDR 13
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `tjrr-irdr-13`
+- **Identificador:** `tjrr-irdr-13`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IRDR&nr=13)
@@ -16,4 +16,4 @@ Legalidade da suspensão do cumprimento individual de sentença coletiva contra 
 
 Não informada
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

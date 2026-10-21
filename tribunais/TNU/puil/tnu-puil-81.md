@@ -1,9 +1,9 @@
 # TNU · PUIL 81
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 81
-- **Identificador na fonte:** `tnu-puil-81`
+- **Identificador:** `tnu-puil-81`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=81)
@@ -20,4 +20,4 @@ Contra os menores impúberes não corre o prazo do art. 74, II, da Lei n. 8.213/
 
 - [05085816220074058200](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=05085816220074058200)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

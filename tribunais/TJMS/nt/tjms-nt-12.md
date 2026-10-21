@@ -1,9 +1,9 @@
 # TJMS · NT 12
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `tjms-nt-12`
+- **Identificador:** `tjms-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=12)
@@ -46,4 +46,4 @@ INTRODUÇÃO
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/d1498078abb7f4ce7d2645f08253974b.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

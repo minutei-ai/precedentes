@@ -1,9 +1,9 @@
 # STJ · RR 1239
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1239
-- **Identificador na fonte:** `stj-rr-1239`
+- **Identificador:** `stj-rr-1239`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1239)
@@ -25,4 +25,10 @@ Não incidem a contribuição ao PIS e a COFINS sobre as receitas advindas da pr
 - [10199045520224013200](https://processo.stj.jus.br/processo/pesquisa/?termo=202402297147&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10003801420184013200](https://processo.stj.jus.br/processo/pesquisa/?termo=202302472581&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

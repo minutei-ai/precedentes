@@ -1,9 +1,9 @@
 # STJ · RR 280
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 280
-- **Identificador na fonte:** `stj-rr-280`
+- **Identificador:** `stj-rr-280`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=280)
@@ -21,4 +21,6 @@ Até 26.9.99, data anterior à edição da MP 1901- 30/99, são devidos juros co
 - [00034349419994014000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900064330&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [02308039520183000000](https://processo.stj.jus.br/processo/pesquisa/?termo=201802308035&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

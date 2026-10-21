@@ -1,9 +1,9 @@
 # TJGO · IRDR 23
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 23
-- **Identificador na fonte:** `tjgo-irdr-23`
+- **Identificador:** `tjgo-irdr-23`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 10/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=23)
@@ -20,4 +20,4 @@ EMENTA: INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. PROGRAMAS FOMENTAR E P
 
 - 54278773520208090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

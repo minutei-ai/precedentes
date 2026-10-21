@@ -1,10 +1,10 @@
 # STF · ADI 4977
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4977
-- **Identificador na fonte:** `stf-adi-4977`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4977`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/08/2018
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4977)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00037 INC-00001 INC-00002 PAR-00002 ART-00041 REDAÇÃO 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=750182337)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

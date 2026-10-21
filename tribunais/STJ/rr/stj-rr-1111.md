@@ -1,9 +1,9 @@
 # STJ · RR 1111
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1111
-- **Identificador na fonte:** `stj-rr-1111`
+- **Identificador:** `stj-rr-1111`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1111)
@@ -21,4 +21,10 @@ Definir (i) se o infortúnio causado por veículo automotor e caracterizado como
 - [10001967620188260145](https://processo.stj.jus.br/processo/pesquisa/?termo=202101350570&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10000937620198260390](https://processo.stj.jus.br/processo/pesquisa/?termo=202101403497&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

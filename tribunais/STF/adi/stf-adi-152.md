@@ -1,10 +1,10 @@
 # STF · ADI 152
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 152
-- **Identificador na fonte:** `stf-adi-152`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-152`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/03/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=152)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED CF ANO-1988 ART-00025 ART-00039 ART-00040 INC-00003 LET-B ART-00041 ART-00061 PAR-00001 LET-C CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00011 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LEI-005540 ANO-1968 ART-00032 LEI ORDINÁRIA LEG-EST CES ANO-1989 ART-00286 INCONSTITUCIONALIDADE CONSTITUIÇÃO ESTADUAL, MG LEG-EST LEI-007109 ANO-1977 ART-00013 LEI ORDINÁRIA, MG.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

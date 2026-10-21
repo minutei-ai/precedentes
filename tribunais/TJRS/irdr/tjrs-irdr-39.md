@@ -1,9 +1,9 @@
 # TJRS · IRDR 39
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 39
-- **Identificador na fonte:** `tjrs-irdr-39`
+- **Identificador:** `tjrs-irdr-39`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=39)
@@ -20,4 +20,4 @@ Definir acerca: I. da (i)legalidade da transformação das verbas incorporadas a
 
 - [51065851020258217000](https://eproc2g.tjrs.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=51065851020258217000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

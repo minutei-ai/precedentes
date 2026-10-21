@@ -1,9 +1,9 @@
 # STJ · RR 1225
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1225
-- **Identificador na fonte:** `stj-rr-1225`
+- **Identificador:** `stj-rr-1225`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 19/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1225)
@@ -25,4 +25,12 @@ I. Tema Principal: Possibilidade de redirecionamento da execução a pessoa jur�
 - [00846411820208190000](https://processo.stj.jus.br/processo/pesquisa/?termo=202302440534&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00685548420208190000](https://processo.stj.jus.br/processo/pesquisa/?termo=202201662135&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+### Questão
+
+I. Tema Principal: Possibilidade de redirecionamento da execução a pessoa jurídica de direito público, em razão da insolvência de concessionária de serviço público, ainda que aquela não tenha participado da fase de conhecimento e não conste do título executivo judicial;   II. Tema Subsidiário: Termo inicial do prazo prescricional quinquenal para fins de redirecionamento da execução contra o ente público.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

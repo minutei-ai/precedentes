@@ -1,10 +1,10 @@
 # STF · ADI 4176
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4176
-- **Identificador na fonte:** `stf-adi-4176`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4176`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/06/2012
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4176)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009883 ANO-1999 LEI ORDINÁRIA LEG-FED DEC-004376 ANO-2002 ART-0006A
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=2283782)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

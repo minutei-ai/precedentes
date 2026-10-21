@@ -1,9 +1,9 @@
 # TST · IRR 285
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 285
-- **Identificador na fonte:** `tst-irr-285`
+- **Identificador:** `tst-irr-285`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=285)
@@ -20,4 +20,4 @@ Deve ser considerada a redução ficta da hora noturna para efeito de fixação 
 
 - [00100113520225030026](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0010011-35.2022.5.03.0026)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

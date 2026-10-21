@@ -1,9 +1,9 @@
 # TJGO · IRDR 6
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjgo-irdr-6`
+- **Identificador:** `tjgo-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ Legalidade e/ou ilegalidade da cláusula contratual de vencimento antecipado da 
 
 - 03588552620148090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT09 · NT 17
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 17
-- **Identificador na fonte:** `trt09-nt-17`
+- **Identificador:** `trt09-nt-17`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=17)
@@ -25,4 +25,4 @@ algorítmicos, opacidade, alucinações e disputas de produtividade.
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8916282)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

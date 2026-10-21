@@ -1,10 +1,10 @@
 # STF · ADO 53
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade por Omissão
 - **Número:** 53
-- **Identificador na fonte:** `stf-ado-53`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-ado-53`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/12/2019
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADO&nr=53)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-013105 ANO-2015 ART-00485 INC-00001 INC-00006 CPC-2015 CÓDIGO DE PR
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=752072202)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

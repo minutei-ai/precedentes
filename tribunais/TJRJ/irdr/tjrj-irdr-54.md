@@ -1,9 +1,9 @@
 # TJRJ · IRDR 54
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 54
-- **Identificador na fonte:** `tjrj-irdr-54`
+- **Identificador:** `tjrj-irdr-54`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=54)
@@ -20,4 +20,4 @@ Os servidores públicos do Município de Aperibé fazem jus ao recebimento das d
 
 - [00506048620258190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2025.291.00017)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

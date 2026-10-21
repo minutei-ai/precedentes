@@ -1,9 +1,9 @@
 # TJMS · NT 7
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `tjms-nt-7`
+- **Identificador:** `tjms-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=7)
@@ -44,4 +44,4 @@ O abuso do direito de ação representa um dos maiores desafios enfrentados pelo
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/d9c5843b2d24b896fce4c7a08ca5fc2c.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

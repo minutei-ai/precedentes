@@ -1,9 +1,9 @@
 # TRT01 · IRDR 5
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `trt01-irdr-5`
+- **Identificador:** `trt01-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IRDR&nr=5)
@@ -16,4 +16,4 @@ Gestão Hospitalar. GPS Total Saúde Gerenciamento e Serviços Hospitalares Ltda
 
 - [01006310720175010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0100631-07.2017.5.01.0000/2#4a8bee3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

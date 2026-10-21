@@ -1,9 +1,9 @@
 # STJ · CT 719
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 719
-- **Identificador na fonte:** `stj-ct-719`
+- **Identificador:** `stj-ct-719`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 24/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=719)
@@ -20,4 +20,14 @@ Necessidade de observância dos parâmetros mínimos estabelecidos no art. 85, �
 - [00049141220198172001](https://processo.stj.jus.br/processo/pesquisa/?termo=202500655555&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10007443820238260659](https://processo.stj.jus.br/processo/pesquisa/?termo=202402673157&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Necessidade de observância dos parâmetros mínimos estabelecidos no art. 85, § 8º-A, do CPC, quando da fixação dos honorários advocatícios por apreciação equitativa.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

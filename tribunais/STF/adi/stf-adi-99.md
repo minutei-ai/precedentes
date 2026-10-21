@@ -1,10 +1,10 @@
 # STF · ADI 99
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 99
-- **Identificador na fonte:** `stf-adi-99`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-99`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/10/1989
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=99)
 
@@ -16,4 +16,4 @@ AÇÃO DIRETA DE INCONSTITUCIONALIDADE. 1. ATO DE GOVERNO ESTADUAL QUE AO CONTRA
 
 LEG-FED CF ANO-1988 ART-00037 INC-00001 ART-00037 INC-00002 ART-00037 INC-00005 ART-00037 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00102 INC-00001 LET-A CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00102 INC-00001 LET-A CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-007773 ANO-1989 ART-00007 ART-00015 LEG-EST DEC-001888 ANO-1989 (MT).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

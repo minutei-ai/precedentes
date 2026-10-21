@@ -1,9 +1,9 @@
 # TJMG · IRDR 23
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 23
-- **Identificador na fonte:** `tjmg-irdr-23`
+- **Identificador:** `tjmg-irdr-23`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=23)
@@ -20,4 +20,4 @@ recurso em que se discute análise do prazo prescricional a ser aplicado nos cas
 
 - [03800288320168130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000160380028000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

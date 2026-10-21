@@ -1,10 +1,10 @@
 # STF · ADPF 242
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 242
-- **Identificador na fonte:** `stf-adpf-242`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-242`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 16/06/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=242)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1967 ART-00008 INC-00017 LET-I ART-00018 PAR-00001 CF-1967 CONSTI
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753408950)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

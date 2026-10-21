@@ -1,9 +1,9 @@
 # STJ · CT 2
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 2
-- **Identificador na fonte:** `stj-ct-2`
+- **Identificador:** `stj-ct-2`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=2)
@@ -23,4 +23,14 @@ Definir se a Lei n. 13.000/2014, que assegurou a intervenção da CEF como repre
 - [50080596220144047206](https://processo.stj.jus.br/processo/pesquisa/?termo=201603089308&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50154795420144047001](https://processo.stj.jus.br/processo/pesquisa/?termo=201603095921&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Definir se a Lei n. 13.000/2014, que assegurou a intervenção da CEF como representante judicial do FCVS, é suficiente para atrair a competência da Justiça Federal nos feitos em que se discute cobertura securitária, no âmbito do Sistema Financeiro da habitação - SFH, quando se tratar de apólice pública.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

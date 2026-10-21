@@ -1,10 +1,10 @@
 # STF · ADI 4362
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4362
-- **Identificador na fonte:** `stf-adi-4362`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4362`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/08/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4362)
 
@@ -22,4 +22,4 @@ LEG-DIS LEI ANO-1993 ART-00060 INC-00023 ART-00084 PAR-00001 INC-00001 ART-00103
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=757148301)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

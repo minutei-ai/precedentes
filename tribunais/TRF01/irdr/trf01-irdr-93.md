@@ -1,9 +1,9 @@
 # TRF01 · IRDR 93
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 93
-- **Identificador na fonte:** `trf01-irdr-93`
+- **Identificador:** `trf01-irdr-93`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 12/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=93)
@@ -28,4 +28,4 @@ Discute-se: (1) definir se é necessário, para fins de caracterização da resp
 
 - 00009090320164013400
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

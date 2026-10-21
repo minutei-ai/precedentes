@@ -1,9 +1,9 @@
 # TJSP · SUM 6
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 6
-- **Identificador na fonte:** `tjsp-sum-6`
+- **Identificador:** `tjsp-sum-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/02/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=6)
@@ -12,4 +12,4 @@
 
 Os alimentos são sempre devidos a partir da citação, mesmo que fixados em ação revisional, quer majorados ou reduzidos, respeitado o princípio da irrepetibilidade.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

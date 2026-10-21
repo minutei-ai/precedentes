@@ -1,9 +1,9 @@
 # TRT16 · IRDR 3
 
-- **Tribunal:** TRT16
+- **Órgão:** TRT16
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `trt16-irdr-3`
+- **Identificador:** `trt16-irdr-3`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 07/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt16&tipo=IRDR&nr=3)
@@ -21,4 +21,4 @@ COISA JULGADA PARCIAL. ACORDO JUDICIAL HOMOLOGADO EM AÇÃO ANTERIOR. ART. 337, 
 
 - [00162325220225160000](https://pje.trt16.jus.br/consultaprocessual/captcha/detalhe-processo/0016232-52.2022.5.16.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT16/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

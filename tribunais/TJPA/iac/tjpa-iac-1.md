@@ -1,9 +1,9 @@
 # TJPA · IAC 1
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjpa-iac-1`
+- **Identificador:** `tjpa-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IAC&nr=1)
@@ -23,4 +23,4 @@ Definição da competência envolvendo demanda de menor de idade em face de oper
 
 - [08172236320238140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08172236320238140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 1017
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1017
-- **Identificador na fonte:** `stf-rg-1017`
+- **Identificador:** `stf-rg-1017`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1017)
@@ -20,4 +20,4 @@ Critérios legais de aferição da renda do segurado, para fins de percepção d
 
 - [1163485](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5552724)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

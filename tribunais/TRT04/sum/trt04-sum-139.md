@@ -1,9 +1,9 @@
 # TRT04 · SUM 139
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 139
-- **Identificador na fonte:** `trt04-sum-139`
+- **Identificador:** `trt04-sum-139`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=139)
@@ -18,4 +18,4 @@ DESPEDIDA POR JUSTA CAUSA. FÉRIAS PROPORCIONAIS. Em atenção ao direito fundam
 - [00204146920175040104](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/hFVG5HYT2tf7GNorjmKBYQ)
 - [00216264820155040023](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/f6eZkeuXALYES2idyyo7JQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

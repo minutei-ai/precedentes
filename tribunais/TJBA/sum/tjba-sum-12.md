@@ -1,9 +1,9 @@
 # TJBA · SUM 12
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 12
-- **Identificador na fonte:** `tjba-sum-12`
+- **Identificador:** `tjba-sum-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=12)
@@ -17,4 +17,4 @@ Havendo recomendação pelo médico responsável, considera-se abusiva a recusa 
 - 00118462420088050000
 - 00173350820098050000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 733
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 733
-- **Identificador na fonte:** `stj-ct-733`
+- **Identificador:** `stj-ct-733`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 25/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=733)
@@ -18,4 +18,14 @@ Definir se incumbe ao executado o ônus de demonstrar a natureza da verba constr
 - [21819429120248260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202500850925&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [07228405420248070000](https://processo.stj.jus.br/processo/pesquisa/?termo=202500918512&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Definir se incumbe ao executado o ônus de demonstrar a natureza da verba  constrita, inferior a 40  (quarenta)  salários-mínimos,  a  ensejar  a impenhorabilidade.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

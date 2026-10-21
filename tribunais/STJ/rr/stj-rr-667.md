@@ -1,9 +1,9 @@
 # STJ · RR 667
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 667
-- **Identificador na fonte:** `stj-rr-667`
+- **Identificador:** `stj-rr-667`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=667)
@@ -21,4 +21,10 @@ O cumprimento de sentença condenatória de complementação de ações dispensa
 - 00053068720128240000
 - 00153670720128240000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

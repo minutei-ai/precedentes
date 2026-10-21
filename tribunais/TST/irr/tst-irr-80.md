@@ -1,9 +1,9 @@
 # TST · IRR 80
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 80
-- **Identificador na fonte:** `tst-irr-80`
+- **Identificador:** `tst-irr-80`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=80)
@@ -20,4 +20,4 @@ O trabalho realizado no interior de câmaras frigoríficas ou ambiente artificia
 
 - [00107027720235030167](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0010702-77.2023.5.03.0167/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

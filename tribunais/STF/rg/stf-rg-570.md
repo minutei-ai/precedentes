@@ -1,9 +1,9 @@
 # STF · RG 570
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 570
-- **Identificador na fonte:** `stf-rg-570`
+- **Identificador:** `stf-rg-570`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=570)
@@ -20,4 +20,4 @@ A questão do direito à equiparação dos valores recebidos a título de Adicio
 
 - [650806](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4115269)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

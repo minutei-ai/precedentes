@@ -1,9 +1,9 @@
 # STJ · RR 892
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 892
-- **Identificador na fonte:** `stj-rr-892`
+- **Identificador:** `stj-rr-892`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=892)
@@ -20,4 +20,10 @@ Incide o reajuste de 28,86% sobre a Gratificação de Estímulo à Fiscalizaçã
 
 - [00235720320054047100](https://processo.stj.jus.br/processo/pesquisa/?termo=201401517782&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

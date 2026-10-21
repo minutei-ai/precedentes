@@ -1,9 +1,9 @@
 # STJ · RR 936
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 936
-- **Identificador na fonte:** `stj-rr-936`
+- **Identificador:** `stj-rr-936`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=936)
@@ -22,4 +22,14 @@ II - Não se incluem no âmbito da matéria afetada as causas originadas de even
 
 - 00107148520044020000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+I - A patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma. II - Não se incluem no âmbito da matéria afetada as causas originadas de eventual ato ilícito, contratual ou extracontratual, praticado pelo patrocinador.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

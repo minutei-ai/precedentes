@@ -1,9 +1,9 @@
 # TRT18 · IRDR 24
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 24
-- **Identificador na fonte:** `trt18-irdr-24`
+- **Identificador:** `trt18-irdr-24`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 26/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=24)
@@ -20,4 +20,4 @@ BENEFÍCIO SOCIAL FAMILIAR. INSTITUIÇÃO POR NORMA COLETIVA. VALIDADE. PRINCÍP
 
 - [00108826320215180000](https://sistemas.trt18.jus.br/consultasPortal/pages/Processuais/DetalhaProcesso.seam?p_num_pje=158219&p_grau_pje=2&popup=0&cid=250)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT14 · NT 6
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `trt14-nt-6`
+- **Identificador:** `trt14-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=6)
@@ -23,4 +23,4 @@ em junho de 2022, no qual a Comissão Gestora do NUGEPNAC ressaltou a necessidad
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2023-06/Nota%20T%C3%A9cnica%20n.%2001-2023-TRT14-CI-NUGEPNAC%20-%20Sistema%20de%20Gerenciamento%20de%20Precedentes_0.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT19 · IAC 15
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 15
-- **Identificador na fonte:** `trt19-iac-15`
+- **Identificador:** `trt19-iac-15`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 28/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=15)
@@ -20,4 +20,4 @@ PROMOÇÕES POR ANTIGUIDADE. CRITÉRIO MERAMENTE TEMPORAL. As promoções por an
 
 - [00016875820255190009](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0001687-58.2025.5.19.0009/1#7ba8e8a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

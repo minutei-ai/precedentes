@@ -1,9 +1,9 @@
 # TRT02 · NT 12
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `trt02-nt-12`
+- **Identificador:** `trt02-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 11/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=NT&nr=12)
@@ -33,4 +33,4 @@ Diante do exposto, a Comissão de Inteligência do Tribunal Regional do Trabalho
 
 - [Link Nota Técnica](https://basis.trt2.jus.br/handle/123456789/17438)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

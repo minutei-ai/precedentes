@@ -1,9 +1,9 @@
 # TRT04 · IRDR 31
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 31
-- **Identificador na fonte:** `trt04-irdr-31`
+- **Identificador:** `trt04-irdr-31`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=31)
@@ -17,4 +17,4 @@ a) Questão 1: É lícito condicionar a promoção por antiguidade de empregados
 - [00205213520235040741](https://pje.trt4.jus.br/consultaprocessual/captcha/detalhe-processo/0020521-35.2023.5.04.0741/2)
 - [00203971020235040561](https://pje.trt4.jus.br/consultaprocessual/captcha/detalhe-processo/0020397-10.2023.5.04.0561/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT12 · NT 5
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `trt12-nt-5`
+- **Identificador:** `trt12-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=NT&nr=5)
@@ -20,4 +20,4 @@ Trata-se de Nota Técnica que visa ao estabelecimento de rotina administrativa p
 
 - [Link Nota Técnica](https://dspace.trt12.jus.br/server/api/core/bitstreams/2c071cda-e0fa-458a-bd50-df49520580fb/content)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

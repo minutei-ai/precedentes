@@ -1,9 +1,9 @@
 # TJGO · SUM 65
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 65
-- **Identificador na fonte:** `tjgo-sum-65`
+- **Identificador:** `tjgo-sum-65`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=65)
@@ -16,4 +16,4 @@ Havendo acordo entre as partes, com o pedido de suspensão do processo até seu 
 
 - 00076044720118090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

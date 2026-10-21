@@ -1,9 +1,9 @@
 # TST · IRR 82
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 82
-- **Identificador na fonte:** `tst-irr-82`
+- **Identificador:** `tst-irr-82`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=82)
@@ -20,4 +20,4 @@ Os empregados motoristas e outros que utilizem ou exerçam atividades em veícul
 
 - [00202130320235040772](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0020213-03.2023.5.04.0772/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

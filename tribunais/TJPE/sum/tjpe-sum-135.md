@@ -1,9 +1,9 @@
 # TJPE · SUM 135
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 135
-- **Identificador na fonte:** `tjpe-sum-135`
+- **Identificador:** `tjpe-sum-135`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=135)
@@ -20,4 +20,4 @@ de prova cuja produção não foi permitida.
 - [00235792920008170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00235792920008170001)
 - [00005244220128171290](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00005244220128171290)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

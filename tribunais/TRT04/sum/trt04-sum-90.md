@@ -1,9 +1,9 @@
 # TRT04 · SUM 90
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 90
-- **Identificador na fonte:** `trt04-sum-90`
+- **Identificador:** `trt04-sum-90`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=90)
@@ -19,4 +19,4 @@ BANCO DO BRASIL. ANUÊNIOS. PRESCRIÇÃO. A pretensão relativa à supressão do
 - [00001146020125040331](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/0FjksSduHrjl6lnpzH6kdQ)
 - [00101423920125040541](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/y-cEb7rrAL3-dASL2-LFTQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

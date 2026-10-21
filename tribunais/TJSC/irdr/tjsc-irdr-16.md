@@ -1,9 +1,9 @@
 # TJSC · IRDR 16
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `tjsc-irdr-16`
+- **Identificador:** `tjsc-irdr-16`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=IRDR&nr=16)
@@ -20,4 +20,4 @@ Definição quanto à cumulação de honorários advocatícios em execução fis
 
 - [50731490820178240000](https://eproc2g.tjsc.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50731490820178240000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

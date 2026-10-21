@@ -1,9 +1,9 @@
 # STJ · RR 1458
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1458
-- **Identificador na fonte:** `stj-rr-1458`
+- **Identificador:** `stj-rr-1458`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1458)
@@ -21,4 +21,12 @@
 - [00005847020228260269](https://processo.stj.jus.br/processo/pesquisa/?termo=202504274914&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00100278620258179000](https://processo.stj.jus.br/processo/pesquisa/?termo=202601595582&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+### Questão
+
+1) Definir a natureza jurídica do pronunciamento judicial que julga impugnação ao cumprimento de sentença, homologa os cálculos e determina a expedição de precatório/RPV;2) Definir as hipóteses de aplicação do princípio da fungibilidade aos recursos interpostos contra esses pronunciamentos judiciais.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

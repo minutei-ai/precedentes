@@ -1,9 +1,9 @@
 # STJ · RR 1160
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1160
-- **Identificador na fonte:** `stj-rr-1160`
+- **Identificador:** `stj-rr-1160`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1160)
@@ -24,4 +24,10 @@ O IR e a CSLL incidem sobre a correção monetária das aplicações financeiras
 - [50084760720214047000](https://processo.stj.jus.br/processo/pesquisa/?termo=202201010931&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50084674520214047000](https://processo.stj.jus.br/processo/pesquisa/?termo=202201010943&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJBA · SUM 13
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 13
-- **Identificador na fonte:** `tjba-sum-13`
+- **Identificador:** `tjba-sum-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=13)
@@ -20,4 +20,4 @@ divulgado pelo Banco Central do Brasil ou outro órgão federal que venha substi
 - 00124533720088050000
 - 00291953720088050001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

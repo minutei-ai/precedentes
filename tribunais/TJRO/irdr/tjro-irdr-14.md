@@ -1,9 +1,9 @@
 # TJRO · IRDR 14
 
-- **Tribunal:** TJRO
+- **Órgão:** TJRO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `tjro-irdr-14`
+- **Identificador:** `tjro-irdr-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjro&tipo=IRDR&nr=14)
@@ -20,4 +20,4 @@ A progressão de regime pode ser condicionada à realização de exame criminol�
 
 - [08161621420248220000](https://pjesg.tjro.jus.br/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f87bb492090d635dbfcfcabeb38c451757b3f5887864933c0221eb8372c61bdc6a09ecd33a0be72b8890313e6cb75edb7ad65817bce3fcad&idProcessoDoc=27297408)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF01 · IRDR 84
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 84
-- **Identificador na fonte:** `trf01-irdr-84`
+- **Identificador:** `trf01-irdr-84`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=84)
@@ -16,4 +16,4 @@ Discute-se a revisão da decisão proferida pela 3ª Turma Recursal da Bahia que
 
 - 10005657220204013300
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

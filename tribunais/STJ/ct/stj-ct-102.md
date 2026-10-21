@@ -1,9 +1,9 @@
 # STJ · CT 102
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 102
-- **Identificador na fonte:** `stj-ct-102`
+- **Identificador:** `stj-ct-102`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=102)
@@ -26,4 +26,14 @@ Interrupção ou não do prazo prescricional para pleitear o cumprimento de sent
 - [10084861520178260566](https://processo.stj.jus.br/processo/pesquisa/?termo=201900617655&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [07128270320188070001](https://processo.stj.jus.br/processo/pesquisa/?termo=201900893968&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Interrupção ou não do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude de ajuizamento de ação de protesto por legitimado para propor demandas coletivas.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

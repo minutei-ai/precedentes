@@ -1,9 +1,9 @@
 # TJGO · IRDR 16
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `tjgo-irdr-16`
+- **Identificador:** `tjgo-irdr-16`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=16)
@@ -20,4 +20,4 @@ Possuem direito ao piso salarial profissional nacional instituído pela Lei n. 1
 
 - 53287889120178090049
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

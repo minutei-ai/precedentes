@@ -1,9 +1,9 @@
 # TJPE · SUM 186
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 186
-- **Identificador na fonte:** `tjpe-sum-186`
+- **Identificador:** `tjpe-sum-186`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=186)
@@ -16,4 +16,4 @@ Na ausência de previsão contratual, aplicam-se os índices previstos na tabela
 
 - [00083500220158170810](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00083500220158170810)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

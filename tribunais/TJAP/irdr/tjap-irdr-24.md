@@ -1,9 +1,9 @@
 # TJAP · IRDR 24
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 24
-- **Identificador na fonte:** `tjap-irdr-24`
+- **Identificador:** `tjap-irdr-24`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 06/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IRDR&nr=24)
@@ -22,4 +22,4 @@ em isonomia, conforme disposto no art. 37, X, da Constituição Federal e na Sú
 
 - 00044655720248030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

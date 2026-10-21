@@ -1,10 +1,10 @@
 # STF · ADI 492
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 492
-- **Identificador na fonte:** `stf-adi-492`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-492`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 12/11/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=492)
 
@@ -20,4 +20,4 @@ Após o voto do Relator, julgando procedente a ação, para declarar a inconstit
 
 LEG-FED CF ANO-1988 ART-00003 PAR-00002 ART-00007 INC-00006 INC-00013 INC-00026 ART-00037 INC-00009 INC-00010 INC-00011 INC-00012 ART-00039 PAR-00001 PAR-00002 ART-00040 ART-00041 ART-00042 PAR-00011 ART-00061 PAR-00001 INC-00002 LET-A LET-C ART-00109 INC-00001 ART-00111 PAR-00001 INC-00002 ART-00113 ART-00114 ART-00115 PAR-ÚNICO INC-00003 ART-00116 PAR-ÚNICO ART-00173 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-005452 ANO-1943 ART-00003 ART-00015 PAR-00002 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED LEI-005107 ANO-1966 LEG-FED LEI-007839 ANO-1989 LEG-FED LEI-008036 ANO-1990 LEG-FED LEI-008112 ANO-1990 ART-00013 ART-00240 LET-D LET-E RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

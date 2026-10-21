@@ -1,9 +1,9 @@
 # TRF03 · NT 15
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 15
-- **Identificador na fonte:** `trf03-nt-15`
+- **Identificador:** `trf03-nt-15`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=15)
@@ -24,4 +24,4 @@ Em contrapartida, a experiência na Subseção de Jaú, onde processos individua
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/7613910_-_Nota_Tecnica_NI_CLISP.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPA · NT 5
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `tjpa-nt-5`
+- **Identificador:** `tjpa-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 21/11/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=5)
@@ -20,4 +20,4 @@ O Centro de Inteligência da Justiça Estadual do Pará (Cijepa), instituído pe
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=1201257)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

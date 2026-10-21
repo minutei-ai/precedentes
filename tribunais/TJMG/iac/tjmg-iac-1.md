@@ -1,9 +1,9 @@
 # TJMG · IAC 1
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjmg-iac-1`
+- **Identificador:** `tjmg-iac-1`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 23/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IAC&nr=1)
@@ -16,4 +16,4 @@ recurso em que se discute: possibilidade de concessão de liminar em face do Mun
 
 - [02502055620168130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000160250205002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

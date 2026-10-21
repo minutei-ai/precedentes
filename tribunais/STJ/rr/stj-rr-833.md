@@ -1,9 +1,9 @@
 # STJ · RR 833
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 833
-- **Identificador na fonte:** `stj-rr-833`
+- **Identificador:** `stj-rr-833`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 27/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=833)
@@ -16,4 +16,6 @@ Discussão sobre o prazo de prescrição para que o mutuário de contrato habita
 
 - [00115334620064047000](https://processo.stj.jus.br/processo/pesquisa/?termo=201000888780&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

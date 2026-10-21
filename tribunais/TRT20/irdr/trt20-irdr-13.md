@@ -1,9 +1,9 @@
 # TRT20 · IRDR 13
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `trt20-irdr-13`
+- **Identificador:** `trt20-irdr-13`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=13)
@@ -20,4 +20,4 @@ Incidência do Tema 1046 de Repercussão Geral emitida pelo Supremo Tribunal Fed
 
 - [00003365020255200000](https://pje.trt20.jus.br/consultaprocessual/detalhe-processo/0000336-50.2025.5.20.0000/2#dcb47d1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

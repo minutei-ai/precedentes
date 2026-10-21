@@ -1,9 +1,9 @@
 # TRT05 · IAC 2
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `trt05-iac-2`
+- **Identificador:** `trt05-iac-2`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 31/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IAC&nr=2)
@@ -20,4 +20,4 @@ Não há tese firmada. IAC não admitido.
 
 - [00017045320215050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0001704-53.2021.5.05.0000/2#69e3c1e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

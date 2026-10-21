@@ -1,9 +1,9 @@
 # TRT13 · IAC 10
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 10
-- **Identificador na fonte:** `trt13-iac-10`
+- **Identificador:** `trt13-iac-10`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 08/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=10)
@@ -21,4 +21,4 @@ Rediscussão da matéria prevista na Súmula nº 22 do TRT 13ª Região relativa
 - [00003991220215130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000399-12.2021.5.13.0000/2)
 - [00013606420245130026](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0001360-64.2024.5.13.0026/2#5885345)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

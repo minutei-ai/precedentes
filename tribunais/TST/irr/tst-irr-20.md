@@ -1,9 +1,9 @@
 # TST · IRR 20
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 20
-- **Identificador na fonte:** `tst-irr-20`
+- **Identificador:** `tst-irr-20`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=20)
@@ -41,4 +41,4 @@ VI - Nos casos em que não se aplica a regra do presente Tema n° 20 do TST, o f
 - [00002521220225100007](https://consultaprocessual.tst.jus.br/consultaProcessual/resumoForm.do?consulta=1&numeroInt=114960&anoInt=2023&qtdAcesso=165791937)
 - [00109053420195150106](https://consultaprocessual.tst.jus.br/consultaProcessual/resumoForm.do?consulta=1&numeroInt=264704&anoInt=2020)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

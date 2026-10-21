@@ -1,9 +1,9 @@
 # STJ · RR 870
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 870
-- **Identificador na fonte:** `stj-rr-870`
+- **Identificador:** `stj-rr-870`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=870)
@@ -20,4 +20,14 @@ A citação válida em processo extinto sem julgamento do mérito importa na int
 
 - 00065499220064047105
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+A citação válida em processo extinto sem julgamento do mérito importa na interrupção do prazo prescricional, que volta a correr com o trânsito em julgado da sentença de extinção do processo.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSP · IRDR 40
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 40
-- **Identificador na fonte:** `tjsp-irdr-40`
+- **Identificador:** `tjsp-irdr-40`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=40)
@@ -20,4 +20,4 @@ A base de cálculo do adicional de qualificação deve incidir sobre o venciment
 
 - [00182638520208260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0018263-85.2020&foroNumeroUnificado=0000&dePesquisaNuUnificado=0018263-85.2020.8.26.0000&dePesquisa=&uuidCaptcha=sajcaptcha_138b6639d79b4ffd8cea6e9ff08c08af)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT10 · IRDR 3
 
-- **Tribunal:** TRT10
+- **Órgão:** TRT10
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `trt10-irdr-3`
+- **Identificador:** `trt10-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt10&tipo=IRDR&nr=3)
@@ -28,4 +28,4 @@ Nos casos em que reconhecido o abuso patronal, a indenização correspondente de
 - [00010326320205100801](https://pje.trt10.jus.br/consultaprocessual/detalhe-processo/0001032-63.2020.5.10.0801/2#e444abc)
 - [00000874920235100000](https://pje.trt10.jus.br/consultaprocessual/captcha/detalhe-processo/0000087-49.2023.5.10.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT10/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

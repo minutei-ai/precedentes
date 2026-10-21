@@ -1,9 +1,9 @@
 # TJAC · IRDR 4
 
-- **Tribunal:** TJAC
+- **Órgão:** TJAC
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `tjac-irdr-4`
+- **Identificador:** `tjac-irdr-4`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 14/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjac&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ A data do saque dos valores depositados na conta vinculada ao Pasep, realizada p
 
 - 07040586120248010001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

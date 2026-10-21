@@ -1,9 +1,9 @@
 # TJRN · IAC 2
 
-- **Tribunal:** TJRN
+- **Órgão:** TJRN
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tjrn-iac-2`
+- **Identificador:** `tjrn-iac-2`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrn&tipo=IAC&nr=2)
@@ -20,4 +20,4 @@ Saber se é juridicamente possível (i) a concessão de direitos e vantagens pr�
 
 - 08603571020238205001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRN/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

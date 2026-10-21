@@ -1,9 +1,9 @@
 # STF · RG 396
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 396
-- **Identificador na fonte:** `stf-rg-396`
+- **Identificador:** `stf-rg-396`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=396)
@@ -20,4 +20,4 @@ Os pensionistas de servidor falecido posteriormente à EC 41/2003 têm direito �
 
 - [603580](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3773033)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

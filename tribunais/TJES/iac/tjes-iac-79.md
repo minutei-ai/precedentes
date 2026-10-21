@@ -1,9 +1,9 @@
 # TJES · IAC 79
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 79
-- **Identificador na fonte:** `tjes-iac-79`
+- **Identificador:** `tjes-iac-79`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IAC&nr=79)
@@ -16,4 +16,4 @@ Qual o signficado da expressão "em estabelecimentos de educação infantil ou d
 
 - [00001956120168080022](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0000195-61.2016.8.08.0022)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

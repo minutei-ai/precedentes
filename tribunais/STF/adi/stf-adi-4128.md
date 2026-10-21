@@ -1,10 +1,10 @@
 # STF · ADI 4128
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4128
-- **Identificador na fonte:** `stf-adi-4128`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4128`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/05/2019
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4128)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00008 INC-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED L
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=749916731)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

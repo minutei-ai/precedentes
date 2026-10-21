@@ -1,9 +1,9 @@
 # TRT11 · IRDR 11
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `trt11-irdr-11`
+- **Identificador:** `trt11-irdr-11`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=11)
@@ -21,4 +21,4 @@ Possibilidade de penhora dos valores recebidos a título de aposentadoria.
 - [00007599420185110003](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000759-94.2018.5.11.0003/1#e4f7fa7)
 - [00004048320245110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000404-83.2024.5.11.0000/2#e6de316)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

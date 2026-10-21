@@ -1,9 +1,9 @@
 # STF · RG 65
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 65
-- **Identificador na fonte:** `stf-rg-65`
+- **Identificador:** `stf-rg-65`
 - **Situação na fonte:** Não há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=65)
@@ -20,4 +20,4 @@ A questão da possibilidade, ou não, de policiais e oficiais militares acumular
 
 - [579720](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2599298)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

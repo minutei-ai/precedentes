@@ -1,9 +1,9 @@
 # TJMG · IRDR 17
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `tjmg-irdr-17`
+- **Identificador:** `tjmg-irdr-17`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 27/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=17)
@@ -21,4 +21,4 @@ recurso em que se discute se: 1) A omissão dos municípios em instituir regime 
 - [04261406620238130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000230426140001)
 - [04951980620168130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10672130374586003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

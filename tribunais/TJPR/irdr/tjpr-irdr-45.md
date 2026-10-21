@@ -1,9 +1,9 @@
 # TJPR · IRDR 45
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 45
-- **Identificador na fonte:** `tjpr-irdr-45`
+- **Identificador:** `tjpr-irdr-45`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 08/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=45)
@@ -23,4 +23,4 @@ art. art. 37, inc. XIV, da Constituição da República.
 
 - [00190703720238160014](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0019070-37.2023.8.16.0014 &opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

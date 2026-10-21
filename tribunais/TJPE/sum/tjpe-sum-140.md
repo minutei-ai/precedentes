@@ -1,9 +1,9 @@
 # TJPE · SUM 140
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 140
-- **Identificador na fonte:** `tjpe-sum-140`
+- **Identificador:** `tjpe-sum-140`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=140)
@@ -18,4 +18,4 @@ O encerramento das atividades da sociedade ou sua dissolução, ainda que irregu
 - [00092058320158170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00092058320158170000)
 - [00015702220138170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00015702220138170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

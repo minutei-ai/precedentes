@@ -1,10 +1,10 @@
 # STF · ADI 423
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 423
-- **Identificador na fonte:** `stf-adi-423`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-423`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/08/2007
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=423)
 
@@ -20,4 +20,4 @@ Após o voto do Sr. Ministro Maurício Corrêa (Relator), que julgava prejudicad
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 ART-00096 INC-00001 LET-E ART-00236 "CAPUT" PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ART-00032 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LEI-008935 ANO-1994 ART-00005 ART-00014 ART-00020 LEI ORDINÁRIA LEG-FED RGI ANO-1980 ART-00038 INC-00004 LET-B RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-EST ADCT ART-00032 ART-00033 ART-00034 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS DA CONSTITUIÇÃO ESTADUAL, ES.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

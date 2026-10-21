@@ -1,10 +1,10 @@
 # STF · ADPF 46
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 46
-- **Identificador na fonte:** `stf-adpf-46`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-46`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/08/2009
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=46)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1891 ART-00034 INC-00015 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED C
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=608504)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

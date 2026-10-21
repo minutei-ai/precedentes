@@ -1,9 +1,9 @@
 # TJGO · SUM 80
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 80
-- **Identificador na fonte:** `tjgo-sum-80`
+- **Identificador:** `tjgo-sum-80`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=80)
@@ -16,4 +16,4 @@ Nas ações regressivas ajuizadas por seguradora em desfavor de concessionária 
 
 - 51497931120218090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

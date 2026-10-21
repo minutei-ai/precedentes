@@ -1,9 +1,9 @@
 # TJMT · IRDR 5
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjmt-irdr-5`
+- **Identificador:** `tjmt-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=5)
@@ -20,4 +20,4 @@ Não há tese firmada em razão do julgamento da Repercussão Geral Tema 1169/ST
 
 - 10068131420218110000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

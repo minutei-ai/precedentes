@@ -1,9 +1,9 @@
 # TJGO · SUM 24
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 24
-- **Identificador na fonte:** `tjgo-sum-24`
+- **Identificador:** `tjgo-sum-24`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 07/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=24)
@@ -16,4 +16,4 @@ Somente após o término do prazo de validade do concurso público é que se ini
 
 - 01677960520148090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

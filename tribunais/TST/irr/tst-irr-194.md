@@ -1,9 +1,9 @@
 # TST · IRR 194
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 194
-- **Identificador na fonte:** `tst-irr-194`
+- **Identificador:** `tst-irr-194`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=194)
@@ -20,4 +20,4 @@ Em relação ao período anterior à alteração do art. 461 da CLT pela Lei nº
 
 - [10017200720235020322](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1001720-07.2023.5.02.0322/3#3d57404)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

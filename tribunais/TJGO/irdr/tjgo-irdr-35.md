@@ -1,9 +1,9 @@
 # TJGO · IRDR 35
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 35
-- **Identificador na fonte:** `tjgo-irdr-35`
+- **Identificador:** `tjgo-irdr-35`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=35)
@@ -20,4 +20,4 @@ Possibilidade ou não de cobrança de taxas condominiais por associações admin
 
 - 54492496520198090003
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

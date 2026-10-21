@@ -1,9 +1,9 @@
 # TST · IRR 300
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 300
-- **Identificador na fonte:** `tst-irr-300`
+- **Identificador:** `tst-irr-300`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 19/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=300)
@@ -16,4 +16,4 @@ Diante da tese de repercussão geral (Tema 1046) fixada pelo STF de que “São 
 
 - [00116726520225150042](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00116726520225150042)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

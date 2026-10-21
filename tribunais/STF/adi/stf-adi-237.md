@@ -1,10 +1,10 @@
 # STF · ADI 237
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 237
-- **Identificador na fonte:** `stf-adi-237`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-237`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/02/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=237)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente a ação para declarar a in
 
 LEG-FED CF ANO-1988 ART-00025 ART-00061 PAR-00001 INC-00002 LET-A ART-00165 INC-00002 PAR-00002 ART-00169 INC-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED RGI ANO-1980 ART-00169 PAR-00001 \*\*\*\*\* RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-EST CES ANO-1989 ART-00186 PAR-00003 RJ, INCONSTITUCIONALIDADE. LEG-EST ADCT ANO-1989 ART-00061 ART-00092 CES, RJ, INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSP · SUM 155
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 155
-- **Identificador na fonte:** `tjsp-sum-155`
+- **Identificador:** `tjsp-sum-155`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=155)
@@ -16,4 +16,4 @@ Em questões previdenciárias, apenas a matéria prevista no artigo 109, §3º, 
 
 - [00617692420148260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0061769-24.2014&foroNumeroUnificado=0000&dePesquisaNuUnificado=0061769-24.2014.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

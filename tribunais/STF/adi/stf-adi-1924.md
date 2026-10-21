@@ -1,10 +1,10 @@
 # STF · ADI 1924
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1924
-- **Identificador na fonte:** `stf-adi-1924`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1924`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 16/09/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1924)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00146 INC-00003 LET-A LET-B LET-C ART-00149 ART-00170 AR
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754002516)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

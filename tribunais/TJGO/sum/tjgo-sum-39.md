@@ -1,9 +1,9 @@
 # TJGO · SUM 39
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 39
-- **Identificador na fonte:** `tjgo-sum-39`
+- **Identificador:** `tjgo-sum-39`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=39)
@@ -16,4 +16,4 @@ Tanto o mandado de segurança como a ação ordinária são instrumentos hábeis
 
 - 03722388320148090144
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

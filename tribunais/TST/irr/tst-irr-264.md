@@ -1,9 +1,9 @@
 # TST · IRR 264
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 264
-- **Identificador na fonte:** `tst-irr-264`
+- **Identificador:** `tst-irr-264`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=264)
@@ -20,4 +20,4 @@ ADICIONAL DE PERICULOSIDADE. SISTEMA ELÉTRICO DE POTÊNCIA. CONDIÇÕES DE RISC
 
 - [00209984320215040025](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00209984320215040025)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

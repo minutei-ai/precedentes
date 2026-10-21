@@ -1,9 +1,9 @@
 # TJBA · IRDR 1412
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1412
-- **Identificador na fonte:** `tjba-irdr-1412`
+- **Identificador:** `tjba-irdr-1412`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=1412)
@@ -17,4 +17,4 @@ Versa a controvérsia, em síntese, acerca do direito do Autor ao arbitramento d
 - [80015830520198050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 - [00890742320188050001](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJBA · NT 8
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `tjba-nt-8`
+- **Identificador:** `tjba-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=8)
@@ -45,4 +45,4 @@ em povoados diferentes.
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-pn008-2022/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

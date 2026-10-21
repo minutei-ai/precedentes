@@ -1,9 +1,9 @@
 # STF · RG 604
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 604
-- **Identificador na fonte:** `stf-rg-604`
+- **Identificador:** `stf-rg-604`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=604)
@@ -20,4 +20,4 @@ A questão do direito à restituição de valores gastos por proprietários rura
 
 - [683017](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4232473)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

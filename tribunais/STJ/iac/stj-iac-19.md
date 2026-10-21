@@ -1,9 +1,9 @@
 # STJ · IAC 19
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 19
-- **Identificador na fonte:** `stj-iac-19`
+- **Identificador:** `stj-iac-19`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=IAC&nr=19)
@@ -17,4 +17,6 @@ Definir se a conta de Provisão de Créditos de Liquidação Duvidosa (PCLD), co
 - [50258700920194036100](https://processo.stj.jus.br/processo/pesquisa/?termo=202302680930&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50278772220174047100](https://processo.stj.jus.br/processo/pesquisa/?termo=202101504328&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

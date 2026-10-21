@@ -1,9 +1,9 @@
 # TJGO · SUM 78
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 78
-- **Identificador na fonte:** `tjgo-sum-78`
+- **Identificador:** `tjgo-sum-78`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=78)
@@ -16,4 +16,4 @@ Não há se falar em incidência do princípio da anterioridade anual, no que co
 
 - 50639587720228090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

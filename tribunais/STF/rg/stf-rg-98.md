@@ -1,9 +1,9 @@
 # STF · RG 98
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 98
-- **Identificador na fonte:** `stf-rg-98`
+- **Identificador:** `stf-rg-98`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=98)
@@ -20,4 +20,4 @@ A norma do § 3º do artigo 192 da Constituição, revogada pela Emenda Constitu
 
 - [582650](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2607602)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

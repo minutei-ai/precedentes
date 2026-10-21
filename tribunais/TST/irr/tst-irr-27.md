@@ -1,9 +1,9 @@
 # TST · IRR 27
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 27
-- **Identificador na fonte:** `tst-irr-27`
+- **Identificador:** `tst-irr-27`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 24/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=27)
@@ -16,4 +16,4 @@
 
 - [00020617120195090653](https://consultaprocessual.tst.jus.br/consultaProcessual/resumoForm.do?consulta=1&anoInt=2022&numeroInt=482448)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

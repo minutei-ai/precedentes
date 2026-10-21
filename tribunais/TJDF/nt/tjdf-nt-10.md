@@ -1,9 +1,9 @@
 # TJDF · NT 10
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `tjdf-nt-10`
+- **Identificador:** `tjdf-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/05/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=NT&nr=10)
@@ -34,4 +34,4 @@ Com espeque no art. 68 do Código Penal, a pena privativa obedece ao critério t
 
 - [Link Nota Técnica](https://www.tjdft.jus.br/consultas/notas-tecnicas/nota-tecnica-10-criterios-de-fixacao-da-pena-base-publicada-9-5-23.pdf/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

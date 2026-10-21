@@ -1,9 +1,9 @@
 # STF · RG 609
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 609
-- **Identificador na fonte:** `stf-rg-609`
+- **Identificador:** `stf-rg-609`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=609)
@@ -20,4 +20,4 @@ A questão do pagamento de auxílio-acidente em valor não inferior ao salário 
 
 - [705141](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4283781)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

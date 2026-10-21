@@ -1,9 +1,9 @@
 # TRT04 · SUM 131
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 131
-- **Identificador na fonte:** `trt04-sum-131`
+- **Identificador:** `trt04-sum-131`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=131)
@@ -23,4 +23,4 @@ ADICIONAL DE PERICULOSIDADE. SEGURANÇA PATRIMONIAL E PESSOAL. QUESTÃO DE DIREI
 - [00211860520165040383](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/patkfKWc9ovEyk2IuoZf3g)
 - [00200321020145040451](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/t_dXXq6jB7iNK2ufqp_tGA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

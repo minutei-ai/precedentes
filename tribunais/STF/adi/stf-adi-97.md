@@ -1,10 +1,10 @@
 # STF · ADI 97
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 97
-- **Identificador na fonte:** `stf-adi-97`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-97`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 25/06/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=97)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente a ação, para declarar a i
 
 LEG-FED CF ANO-1988 ART-00007 INC-00005 ART-00025 ART-00037 INC-00002 ART-00039 ART-00051 INC-00004 ART-00052 INC-00013 ART-00061 PAR-00001 INC-00002 LET-A LET-C ART-00073 PAR-00003 ART-00075 ART-00095 PAR-ÚNICO INC-00003 ART-00096 INC-00001 LET-A INC-00002 LET-B ART-00099 ART-00165 PAR-00005 PAR-00008 ART-00169 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00011 ART-00024 ART-00025 LEG-EST CES ANO-1989 (RO) LEG-EST ADCT ANO-1989 ART-00004 ART-00008 ART-00024 ART-00036 (RO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

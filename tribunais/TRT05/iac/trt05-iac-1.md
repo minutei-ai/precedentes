@@ -1,9 +1,9 @@
 # TRT05 · IAC 1
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt05-iac-1`
+- **Identificador:** `trt05-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 31/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ DESPESAS PROCESSUAIS E ÔNUS DE SUCUMBÊNCIA. SINDICATO NA CONDIÇÃO DE SUBSTIT
 
 - [00028471420205050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0002847-14.2020.5.05.0000/2#c8b584d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

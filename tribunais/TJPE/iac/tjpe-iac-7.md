@@ -1,9 +1,9 @@
 # TJPE · IAC 7
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 7
-- **Identificador na fonte:** `tjpe-iac-7`
+- **Identificador:** `tjpe-iac-7`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 14/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IAC&nr=7)
@@ -20,4 +20,4 @@ O programa de agilização de diligências em causas de natureza fiscal de inter
 
 - [00037498420178170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00037498420178170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

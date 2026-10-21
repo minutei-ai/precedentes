@@ -1,9 +1,9 @@
 # STJ · CT 54
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 54
-- **Identificador na fonte:** `stj-ct-54`
+- **Identificador:** `stj-ct-54`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=54)
@@ -19,4 +19,14 @@ Aplicação da teoria do fato consumado para consolidar situação constituída 
 - [06266709520158130702](https://processo.stj.jus.br/processo/pesquisa/?termo=201802260960&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [06172575820158130702](https://processo.stj.jus.br/processo/pesquisa/?termo=201801402580&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Aplicação da teoria do fato consumado para consolidar situação constituída por força de liminar posteriormente cassada nas hipóteses em que estudante menor de 18 anos, por força de decisão judicial, de caráter precário, submete-se a exame para conclusão de ensino médio, ingressando no superior.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

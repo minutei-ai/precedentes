@@ -1,9 +1,9 @@
 # STJ · RR 1049
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1049
-- **Identificador na fonte:** `stj-rr-1049`
+- **Identificador:** `stj-rr-1049`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1049)
@@ -21,4 +21,10 @@ A execução fiscal pode ser redirecionada em desfavor da empresa sucessora para
 - [15221491520158260090](https://processo.stj.jus.br/processo/pesquisa/?termo=201903434053&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [15221690620158260090](https://processo.stj.jus.br/processo/pesquisa/?termo=202000033595&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

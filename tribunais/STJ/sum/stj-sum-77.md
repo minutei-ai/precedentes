@@ -1,9 +1,9 @@
 # STJ · SUM 77
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 77
-- **Identificador na fonte:** `stj-sum-77`
+- **Identificador:** `stj-sum-77`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=77)
@@ -12,4 +12,4 @@
 
 A Caixa Econômica Federal é parte ilegítima para figurar no polo passivo das ações relativas às contribuições para o fundo PIS/PASEP.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

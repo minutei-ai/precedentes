@@ -1,9 +1,9 @@
 # TRT12 · IRDR 16
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `trt12-irdr-16`
+- **Identificador:** `trt12-irdr-16`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=16)
@@ -21,4 +21,4 @@ Tese Jurídica nº 11 em IRDR: "MULTA DO ART. 467 DA CLT. NÃO REALIZAÇÃO DE A
 - [00004617920215120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000461-79.2021.5.12.0000/2)
 - [00001401920205120052](http://https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000140-19.2020.5.12.0052/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

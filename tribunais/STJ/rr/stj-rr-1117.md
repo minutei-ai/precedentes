@@ -1,9 +1,9 @@
 # STJ · RR 1117
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1117
-- **Identificador na fonte:** `stj-rr-1117`
+- **Identificador:** `stj-rr-1117`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1117)
@@ -21,4 +21,10 @@ O marco inicial da fluência do prazo decadencial, previsto no caput do art. 103
 - [50029386220144047106](https://processo.stj.jus.br/processo/pesquisa/?termo=202100576508&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50004458320184047135](https://processo.stj.jus.br/processo/pesquisa/?termo=202100463814&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

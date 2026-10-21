@@ -1,9 +1,9 @@
 # TJPE · SUM 162
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 162
-- **Identificador na fonte:** `tjpe-sum-162`
+- **Identificador:** `tjpe-sum-162`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=162)
@@ -19,4 +19,4 @@ A correção monetária, nas ações que versam sobre benefícios previdenciári
 - [00833949720138170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00833949720138170001)
 - [00542089720118170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00542089720118170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

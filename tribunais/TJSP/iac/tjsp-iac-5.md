@@ -1,9 +1,9 @@
 # TJSP · IAC 5
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `tjsp-iac-5`
+- **Identificador:** `tjsp-iac-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 14/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IAC&nr=5)
@@ -20,4 +20,4 @@ O regime previdenciário instituído pelo art. 40, § 14 e 15 da Constituição 
 
 - [00351014020198260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0035101-40.2019&foroNumeroUnificado=0000&dePesquisaNuUnificado=0035101-40.2019.8.26.0000&dePesquisa=&uuidCaptcha=sajcaptcha_2ac56e306171465cae04f9ce9a5ca101)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 1234
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1234
-- **Identificador na fonte:** `stf-rg-1234`
+- **Identificador:** `stf-rg-1234`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1234)
@@ -20,4 +20,4 @@ I – Competência¿¿ 1) Para fins de fixação de competência, as demandas re
 
 - [1366243](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6335939)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

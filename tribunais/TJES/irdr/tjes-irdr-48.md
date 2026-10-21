@@ -1,9 +1,9 @@
 # TJES · IRDR 48
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 48
-- **Identificador na fonte:** `tjes-irdr-48`
+- **Identificador:** `tjes-irdr-48`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=48)
@@ -16,4 +16,4 @@ Responsabilidade da Fundação Cosipa de Seguridade Social - FEMCO pelo pagament
 
 - [00197862320048080024](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0019786-23.2004.8.08.0024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

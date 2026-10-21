@@ -1,9 +1,9 @@
 # TST · IRR 314
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 314
-- **Identificador na fonte:** `tst-irr-314`
+- **Identificador:** `tst-irr-314`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 22/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=314)
@@ -16,4 +16,4 @@
 
 - [00207430520225040008](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020743-05.2022.5.04.0008/3#4f26ee5)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

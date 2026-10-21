@@ -1,9 +1,9 @@
 # TJPA · NT 11
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `tjpa-nt-11`
+- **Identificador:** `tjpa-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 08/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=11)
@@ -39,4 +39,4 @@ tecnológicas inovadoras.
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=2089644)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

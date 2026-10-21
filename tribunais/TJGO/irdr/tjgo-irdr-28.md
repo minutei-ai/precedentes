@@ -1,9 +1,9 @@
 # TJGO · IRDR 28
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 28
-- **Identificador na fonte:** `tjgo-irdr-28`
+- **Identificador:** `tjgo-irdr-28`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=28)
@@ -20,4 +20,4 @@ A pretensão à percepção de eventuais resíduos salariais relativos à progre
 
 - 54869761120198090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 176
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 176
-- **Identificador na fonte:** `stf-rg-176`
+- **Identificador:** `stf-rg-176`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=176)
@@ -20,4 +20,4 @@ A demanda de potência elétrica não é passível, por si só, de tributação 
 
 - [593824](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2642244)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

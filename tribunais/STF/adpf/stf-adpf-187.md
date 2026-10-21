@@ -1,10 +1,10 @@
 # STF · ADPF 187
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 187
-- **Identificador na fonte:** `stf-adpf-187`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-187`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/06/2011
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=187)
 
@@ -22,4 +22,4 @@ LEG-IMP CIB ANO-1824 ART-00179 NÚMERO-30 CIB-1824 CONSTITUIÇÃO POLITICA DO IM
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=5956195)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

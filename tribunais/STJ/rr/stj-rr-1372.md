@@ -1,9 +1,9 @@
 # STJ · RR 1372
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1372
-- **Identificador na fonte:** `stj-rr-1372`
+- **Identificador:** `stj-rr-1372`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 28/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1372)
@@ -22,4 +22,6 @@ O ICMS-DIFAL (Diferencial de Alíquotas do Imposto sobre a Circulação de Merca
 - [50355443220224025001](https://processo.stj.jus.br/processo/pesquisa/?termo=202500077280&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50055956220214036102](https://processo.stj.jus.br/processo/pesquisa/?termo=202404225771&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT07 · IAC 2
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `trt07-iac-2`
+- **Identificador:** `trt07-iac-2`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 02/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IAC&nr=2)
@@ -16,4 +16,4 @@ IAC 0080155-38.2021.5.07.0000 - Questão submetida a julgamento: Data de início
 
 - [00801553820215070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0080155-38.2021.5.07.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

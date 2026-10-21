@@ -1,10 +1,10 @@
 # STF · ADPF 371
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 371
-- **Identificador na fonte:** `stf-adpf-371`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-371`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/11/2015
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=371)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-005869 ANO-1973 ART-00535 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=10024140)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

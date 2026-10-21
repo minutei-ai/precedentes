@@ -1,9 +1,9 @@
 # TJMG · IRDR 86
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 86
-- **Identificador na fonte:** `tjmg-irdr-86`
+- **Identificador:** `tjmg-irdr-86`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=86)
@@ -20,4 +20,4 @@ Nas ações em que se postula a reinclusão, na base de cálculo dos quinquênio
 
 - [21659952820228130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000222165995001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRJ · IAC 1
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjrj-iac-1`
+- **Identificador:** `tjrj-iac-1`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 21/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ A criação de novas vagas durante o prazo de validade do certame combinada à c
 
 - [00216917520178190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2017.290.00002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

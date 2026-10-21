@@ -1,9 +1,9 @@
 # TNU · PUIL 35
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 35
-- **Identificador na fonte:** `tnu-puil-35`
+- **Identificador:** `tnu-puil-35`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=35)
@@ -16,4 +16,4 @@ Saber se em caso de contagem recíproca de tempo de contribuição, nos casos de
 
 A averbação de tempo de trabalho rural nos regimes próprios de previdência dos servidores públicos exige a indenização das respectivas contribuições previdenciárias, para efeitos de contagem recíproca de tempo de contribuição.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

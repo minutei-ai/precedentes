@@ -1,9 +1,9 @@
 # TRT23 · IRDR 3
 
-- **Tribunal:** TRT23
+- **Órgão:** TRT23
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `trt23-irdr-3`
+- **Identificador:** `trt23-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt23&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ I. Dada a natureza meramente incidental da liquidação que lhe precede, a açã
 
 - [00002271120235230004](https://pje.trt23.jus.br/consultaprocessual/detalhe-processo/0000227-11.2023.5.23.0004/2#5616afb)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT23/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 63
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 63
-- **Identificador na fonte:** `stj-ct-63`
+- **Identificador:** `stj-ct-63`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=63)
@@ -19,4 +19,14 @@ Possibilidade de descontos dos valores referentes ao período trabalhado pelo se
 - [00224754220164039999](https://processo.stj.jus.br/processo/pesquisa/?termo=201801638268&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00136649320164039999](https://processo.stj.jus.br/processo/pesquisa/?termo=201801637978&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Possibilidade de descontos dos valores referentes ao período trabalhado pelo segurado após a data inicial do benefício ou a compensação, em concessão de benefício previdenciário.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

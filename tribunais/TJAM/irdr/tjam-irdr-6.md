@@ -1,9 +1,9 @@
 # TJAM · IRDR 6
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjam-irdr-6`
+- **Identificador:** `tjam-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ Compete às varas do Juizado Especial da Fazenda Pública Estadual e Municipal c
 
 - 40067997120218040000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

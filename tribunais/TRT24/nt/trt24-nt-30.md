@@ -1,9 +1,9 @@
 # TRT24 · NT 30
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 30
-- **Identificador na fonte:** `trt24-nt-30`
+- **Identificador:** `trt24-nt-30`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=30)
@@ -76,4 +76,4 @@ Respeitosamente, este órgão sugere a adoção do Incidente de Resolução de D
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/CI+NOTA+T%C3%89CNICA+N.+30_2025.pdf/28e6bba6-f582-31b2-1092-e39704e80d8d?t=1748375327045)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

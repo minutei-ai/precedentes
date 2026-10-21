@@ -1,9 +1,9 @@
 # TJDF · IRDR 3
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjdf-irdr-3`
+- **Identificador:** `tjdf-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ b) As ações que têm como objeto o fornecimento de serviços de saúde não en
   
 c) Considerando que as ações que têm como objeto o fornecimento de serviços de saúde, inclusive o tratamento mediante internação, encartam pedido cominatório, o valor da causa, fixado de forma estimativa, é irrelevante para fins de definição da competência.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

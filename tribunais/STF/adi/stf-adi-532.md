@@ -1,10 +1,10 @@
 # STF · ADI 532
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 532
-- **Identificador na fonte:** `stf-adi-532`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-532`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/08/1998
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=532)
 
@@ -20,4 +20,4 @@ O Tribunal, por votação unânime, julgou procedente a ação direta e declarou
 
 LEG-FED CF ANO-1988 ART-00022 INC-00011 ART-00228 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 ART-00008 INC-00017 LET-N PAR-ÚNICO CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED DEL-002848 ANO-1940 ART-00027 CP-1940 CÓDIGO PENAL LEG-FED LEI-005108 ANO-1966 ART-00070 LEG-FED LEI-009503 ANO-1997 ART-00140 INC-00001 CTB-1997 CÓDIGO DE TRÂNSITO BRASILEIRO LEG-FED DEL 000237 ANO-1967 LEG-EST LEI-000242 ANO-1991 (MA). INCONSTITUCIONALIDADE. LEG-EST LEI-002201 ANO-1993 RIO DE JANEIRO, RJ LEG-EST LEI-006682 ANO-1990 RIO DE JANEIRO, RJ.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

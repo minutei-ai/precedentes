@@ -1,10 +1,10 @@
 # STF · ADI 3999
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3999
-- **Identificador na fonte:** `stf-adi-3999`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3999`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 12/11/2008
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3999)
 
@@ -20,4 +20,4 @@ O Tribunal, por maioria, superou a preliminar de conhecimento, vencido o Senhor 
 
 LEG-FED CF ANO-1988 ART-00001 PAR-ÚNICO ART-00002 ART-00005 INC-00002 ART-00017 ART-00022 INC-00001 ART-00048 ART-00060 PAR-00004 INC-00003 ART-00084 INC-00004 ART-00096 ART-00102 ART-00114 ART-00121 ART-00128 PAR-00005 ART-00129 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004737 ANO-1965 ART-00021 INC-00009 ART-00023 INC-00009 INC-00012 INC-00018 CEL-1965 CÓDIGO ELEITORAL LEG-FED LEI-009504 ANO-1997 ART-00105 LEI ORDINÁRIA LEG-FED PJLCP-000035 ANO-2007 PROJETO DE LEI COMPLEMENTAR LEG-FED RES-022610 ANO-2007 ART-00001 PAR-00002 ART-00002 ART-00003 "CAPUT" PAR-ÚNICO ART-00004 ART-00005 ART-00006 ART-00007 "CAPUT" PAR-ÚNICO ART-00008 ART-00009 ART-00011 RESOLUÇÃO DO TRIBUNAL SUPERIOR ELEITORAL - TSE LEG-FED RES-022733 ANO-2008 RESOLUÇÃO DO TRIBUNAL SUPERIOR ELEITORAL - TSE
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

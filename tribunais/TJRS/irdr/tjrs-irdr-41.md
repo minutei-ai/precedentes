@@ -1,9 +1,9 @@
 # TJRS · IRDR 41
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 41
-- **Identificador na fonte:** `tjrs-irdr-41`
+- **Identificador:** `tjrs-irdr-41`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 24/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=41)
@@ -20,4 +20,4 @@ AS DECISÕES PROFERIDAS PELO JUÍZO DA CENTRAL DE CONCILIAÇÃO E EXPEDIÇÃO DE
 
 - [52815032720248217000](https://eproc2g.tjrs.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=52815032720248217000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

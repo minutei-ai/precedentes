@@ -1,9 +1,9 @@
 # STJ · RR 456
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 456
-- **Identificador na fonte:** `stj-rr-456`
+- **Identificador:** `stj-rr-456`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=456)
@@ -20,4 +20,10 @@ A Lei 11.941/2008 remite os débitos para com a Fazenda Nacional vencidos há ci
 
 - [00018006720014013200](https://processo.stj.jus.br/processo/pesquisa/?termo=201001157327&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

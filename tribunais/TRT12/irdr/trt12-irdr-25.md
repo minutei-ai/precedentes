@@ -1,9 +1,9 @@
 # TRT12 · IRDR 25
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `trt12-irdr-25`
+- **Identificador:** `trt12-irdr-25`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=25)
@@ -23,4 +23,4 @@ Resolução nº 3/2025 cancela a Tese Jurídica nº 20, conforme decisão tomada
 
 - [00007449720245120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000744-97.2024.5.12.0000/2#f43bb7a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

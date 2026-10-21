@@ -1,9 +1,9 @@
 # TRT24 · NT 12
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `trt24-nt-12`
+- **Identificador:** `trt24-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 06/09/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=12)
@@ -77,4 +77,4 @@ sentido de que são devidas ao exequente
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+12.2022.pdf/792c6889-0724-0d6c-91ad-caa946649762?t=1676378659713)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

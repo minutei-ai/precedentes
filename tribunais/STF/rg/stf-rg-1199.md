@@ -1,9 +1,9 @@
 # STF · RG 1199
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1199
-- **Identificador na fonte:** `stf-rg-1199`
+- **Identificador:** `stf-rg-1199`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1199)
@@ -20,4 +20,4 @@ Definição de eventual (IR)RETROATIVIDADE das disposições da Lei 14.230/2021,
 
 - [843989](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4652910)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

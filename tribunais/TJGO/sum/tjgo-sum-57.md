@@ -1,9 +1,9 @@
 # TJGO · SUM 57
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 57
-- **Identificador na fonte:** `tjgo-sum-57`
+- **Identificador:** `tjgo-sum-57`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=57)
@@ -16,4 +16,4 @@ Até a citação é possível que se ordenem sucessivas emendas à inicial, incl
 
 - 00418786520178090006
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

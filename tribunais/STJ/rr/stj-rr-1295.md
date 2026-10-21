@@ -1,9 +1,9 @@
 # STJ · RR 1295
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1295
-- **Identificador na fonte:** `stj-rr-1295`
+- **Identificador:** `stj-rr-1295`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 18/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1295)
@@ -21,4 +21,6 @@ Possibilidade ou não de o plano de saúde limitar ou recusar a cobertura de ter
 - [10039336520178260099](https://processo.stj.jus.br/processo/pesquisa/?termo=202303931670&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [11238872920228260100](https://processo.stj.jus.br/processo/pesquisa/?termo=202403248613&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

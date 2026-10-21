@@ -1,9 +1,9 @@
 # TST · IRR 304
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 304
-- **Identificador na fonte:** `tst-irr-304`
+- **Identificador:** `tst-irr-304`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=304)
@@ -20,4 +20,4 @@
 
 - [00002433620245060122](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000243-36.2024.5.06.0122)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

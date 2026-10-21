@@ -1,9 +1,9 @@
 # TRT04 · SUM 136
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 136
-- **Identificador na fonte:** `trt04-sum-136`
+- **Identificador:** `trt04-sum-136`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=136)
@@ -31,4 +31,4 @@ TURNOS ININTERRUPTOS DE REVEZAMENTO. NORMA COLETIVA QUE ELASTECE A CARGA HORÁRI
 - [00006457220125040291](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/VgzNW84isZQ57dYYC0zbEQ)
 - [00002552220105040017](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/eTaSFoJkhZOX4p7n6haPNg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

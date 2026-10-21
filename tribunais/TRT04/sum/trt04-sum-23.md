@@ -1,9 +1,9 @@
 # TRT04 · SUM 23
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 23
-- **Identificador na fonte:** `trt04-sum-23`
+- **Identificador:** `trt04-sum-23`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=23)
@@ -27,4 +27,4 @@ HORAS EXTRAS. REGISTRO. CONTAGEM MINUTO A MINUTO. REVISÃO DA SÚMULA Nº 19. (R
 - [00144002220015040010](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/EptO5ySCoJgQofJ0u8eRzQ)
 - [00452008419995040921](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/P8wrbCme8Dnn98Xdwcy3qg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPR · SUM 81
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 81
-- **Identificador na fonte:** `tjpr-sum-81`
+- **Identificador:** `tjpr-sum-81`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=81)
@@ -14,4 +14,4 @@
 públicos que exerceram cargos em comissão cujos contratos tenham sido declarados  
 nulos nos termos do Artigo 37, § 2º da Constituição Federal"
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

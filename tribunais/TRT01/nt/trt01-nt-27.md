@@ -1,9 +1,9 @@
 # TRT01 · NT 27
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 27
-- **Identificador na fonte:** `trt01-nt-27`
+- **Identificador:** `trt01-nt-27`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/12/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=27)
@@ -36,4 +36,4 @@ Rio de Janeiro, 10 de dezembro de 2024.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/4326925/5/Notat%c3%a9cnica2024-0027_Rep-C.htm)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

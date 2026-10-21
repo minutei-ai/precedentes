@@ -1,9 +1,9 @@
 # TRT19 · IAC 9
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 9
-- **Identificador na fonte:** `trt19-iac-9`
+- **Identificador:** `trt19-iac-9`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 28/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=9)
@@ -20,4 +20,4 @@ As cláusulas regulamentares, que revoguem ou alterem vantagens deferidas anteri
 
 - [00015136420255190004](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0001513-64.2025.5.19.0004/1#a53841e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

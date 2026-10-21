@@ -1,10 +1,10 @@
 # STF · ADI 5508
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5508
-- **Identificador na fonte:** `stf-adi-5508`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5508`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/06/2018
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5508)
 
@@ -22,4 +22,4 @@ LEG-IMP CCI ANO-1830 ART-00107 ART-00108 ART-00109 CCI-1830 CODIGO CRIMINAL DO I
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=751303490)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

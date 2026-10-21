@@ -1,9 +1,9 @@
 # TJGO · IRDR 36
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 36
-- **Identificador na fonte:** `tjgo-irdr-36`
+- **Identificador:** `tjgo-irdr-36`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=36)
@@ -20,4 +20,4 @@ O consumidor que detenha a nota fiscal de aquisição do produto em seu nome tem
 
 - 57165075620228090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

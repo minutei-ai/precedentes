@@ -1,9 +1,9 @@
 # TRT18 · IRDR 4
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt18-irdr-4`
+- **Identificador:** `trt18-irdr-4`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 09/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=4)
@@ -21,4 +21,4 @@ IRDR-0010706-26.2017.5.18.0000 - TURNOS ININTERRUPTOS DE REVEZAMENTO. POSSIBILID
 - [00107062620175180000](https://sistemas.trt18.jus.br/consultasPortal/pages/Processuais/DetalhaProcesso.seam?p_num_pje=79530&p_grau_pje=2&popup=0&cid=12356)
 - [00115620320165180201](https://sistemas.trt18.jus.br/consultasPortal/pages/Processuais/DetalhaProcesso.seam?p_num_dist=0&p_num_pje=69708&p_grau_pje=2&dt_autuacao=&conversationPropagation=begin)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

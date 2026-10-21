@@ -1,9 +1,9 @@
 # TRT04 · SUM 9
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 9
-- **Identificador na fonte:** `trt04-sum-9`
+- **Identificador:** `trt04-sum-9`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=9)
@@ -25,4 +25,4 @@ BANRISUL. INTEGRAÇÃO DO ADI NA COMPLEMENTAÇÃO DE APOSENTADORIA. O abono de d
 - [00015006619955040026](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/XutMwb47jX5RRu_-xNtyjQ)
 - [01674002919935040008](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/0Kwrm8U56qXESDpfy90kiQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 23
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 23
-- **Identificador na fonte:** `tst-irr-23`
+- **Identificador:** `tst-irr-23`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=23)
@@ -20,4 +20,4 @@ A Lei nº 13.467/2017 possui aplicação imediata aos contratos de trabalho em c
 
 - [00005288020185140004](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=528&digitoTst=80&anoTst=2018&orgaoTst=5&tribunalTst=14&varaTst=0004&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

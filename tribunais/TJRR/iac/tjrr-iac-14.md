@@ -1,9 +1,9 @@
 # TJRR · IAC 14
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 14
-- **Identificador na fonte:** `tjrr-iac-14`
+- **Identificador:** `tjrr-iac-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IAC&nr=14)
@@ -20,4 +20,4 @@ Definir se a competência da Vara da Justiça Itinerante para revisar e executar
 
 - 90030768620258230000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

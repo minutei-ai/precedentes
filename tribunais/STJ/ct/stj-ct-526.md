@@ -1,9 +1,9 @@
 # STJ · CT 526
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 526
-- **Identificador na fonte:** `stj-ct-526`
+- **Identificador:** `stj-ct-526`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=526)
@@ -21,4 +21,14 @@ Se o trabalhador rural da lavoura da cana-de-açúcar pode ser enquadrado na cat
 - [50610043520224039999](https://processo.stj.jus.br/processo/pesquisa/?termo=202400058255&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00072945220164036102](https://processo.stj.jus.br/processo/pesquisa/?termo=202202751131&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Se o trabalhador rural da lavoura da cana-de-açúcar pode ser enquadrado na categoria profissional de trabalhador da agropecuária, constante do item 2.2.1 do Decreto 53.831/1964, vigente à época da prestação dos serviços.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

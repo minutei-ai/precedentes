@@ -1,9 +1,9 @@
 # TJRJ · IRDR 29
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 29
-- **Identificador na fonte:** `tjrj-irdr-29`
+- **Identificador:** `tjrj-irdr-29`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=29)
@@ -20,4 +20,4 @@ Impossibilidade de acumulação do adicional noturno previsto no artigo 14, VI, 
 
 - [00189144420228190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2022.291.00008)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

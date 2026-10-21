@@ -1,9 +1,9 @@
 # STJ · SUM 538
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 538
-- **Identificador na fonte:** `stj-sum-538`
+- **Identificador:** `stj-sum-538`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=538)
@@ -12,4 +12,4 @@
 
 As administradoras de consórcio têm liberdade para estabelecer a respectiva taxa de administração, ainda que fixada em percentual superior a dez por cento.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 962
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 962
-- **Identificador na fonte:** `stj-rr-962`
+- **Identificador:** `stj-rr-962`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=962)
@@ -22,4 +22,10 @@ O redirecionamento da execução fiscal, quando fundado na dissolução irregula
 - [50381439620154040000](https://processo.stj.jus.br/processo/pesquisa/?termo=201600095723&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00118581120154020000](https://processo.stj.jus.br/processo/pesquisa/?termo=201802839846&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

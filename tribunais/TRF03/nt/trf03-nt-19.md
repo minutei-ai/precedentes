@@ -1,9 +1,9 @@
 # TRF03 · NT 19
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 19
-- **Identificador na fonte:** `trf03-nt-19`
+- **Identificador:** `trf03-nt-19`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=19)
@@ -71,4 +71,4 @@ A implementação da Recomendação 136/2022 do CNJ é crucial para promover uma
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/NTCartilha/SEI_10030424_Nota_Tecnica_NI_CLISP_19_2023.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 1821
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1821
-- **Identificador na fonte:** `stf-adi-1821`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1821`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/07/1998
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1821)
 
@@ -22,4 +22,4 @@ LEG-FED MPR-001632 ANO-1998 ART-00006
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=363424)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

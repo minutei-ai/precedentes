@@ -1,9 +1,9 @@
 # TJGO · IRDR 38
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 38
-- **Identificador na fonte:** `tjgo-irdr-38`
+- **Identificador:** `tjgo-irdr-38`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 24/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=38)
@@ -20,4 +20,4 @@ As Associações civis que cuidam de loteamentos fechados possuem legitimidade a
 
 - 50960935220238090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

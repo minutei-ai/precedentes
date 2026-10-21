@@ -1,9 +1,9 @@
 # TJPR · SUM 55
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 55
-- **Identificador na fonte:** `tjpr-sum-55`
+- **Identificador:** `tjpr-sum-55`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=55)
@@ -15,4 +15,4 @@ em razão da pessoa jurídica de direito público ou respectivas autarquias, fun
 direito público e entidades paraestatais, mantendo-se a competência das Câmaras  
 Especializadas."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

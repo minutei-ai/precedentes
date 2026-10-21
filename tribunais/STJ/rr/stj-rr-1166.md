@@ -1,9 +1,9 @@
 # STJ · RR 1166
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1166
-- **Identificador na fonte:** `stj-rr-1166`
+- **Identificador:** `stj-rr-1166`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1166)
@@ -20,4 +20,10 @@ O crime de apropriação indébita previdenciária, previsto no art. 168-A, § 1
 
 - [50134636420214030000](https://processo.stj.jus.br/processo/pesquisa/?termo=202200194820&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

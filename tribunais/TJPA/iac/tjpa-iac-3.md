@@ -1,9 +1,9 @@
 # TJPA · IAC 3
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `tjpa-iac-3`
+- **Identificador:** `tjpa-iac-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IAC&nr=3)
@@ -24,4 +24,4 @@ Definição da competência para o processamento de feitos, em 2ª instância, q
 
 - [08160717720238140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08160717720238140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

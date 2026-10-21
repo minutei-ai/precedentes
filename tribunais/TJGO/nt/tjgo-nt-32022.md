@@ -1,9 +1,9 @@
 # TJGO · NT 32022
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Nota Técnica
 - **Número:** 32022
-- **Identificador na fonte:** `tjgo-nt-32022`
+- **Identificador:** `tjgo-nt-32022`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=NT&nr=32022)
@@ -52,4 +52,4 @@ preferência, por videoconferência, observando-se os ditames da Resolução-CNJ
 
 - [Link Nota Técnica](https://www.tjgo.jus.br/index.php/comissoes-comites/centro-de-inteligencia)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

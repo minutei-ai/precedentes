@@ -1,9 +1,9 @@
 # TST · IRR 120
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 120
-- **Identificador na fonte:** `tst-irr-120`
+- **Identificador:** `tst-irr-120`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=120)
@@ -20,4 +20,4 @@ Deve ser aplicada a multa do artigo 467 da CLT quando impugnado em contestação
 
 - [00004276220225020195](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000427-62.2022.5.05.0195/3#e4356b6)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

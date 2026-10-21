@@ -1,9 +1,9 @@
 # TJPE · SUM 55
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 55
-- **Identificador na fonte:** `tjpe-sum-55`
+- **Identificador:** `tjpe-sum-55`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=55)
@@ -17,4 +17,4 @@ O percentual de correção monetária dos depósitos em caderneta de poupança c
 - [00076472320088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00076472320088170000)
 - [00497610820078170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00497610820078170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSP · IRDR 2
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjsp-irdr-2`
+- **Identificador:** `tjsp-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ Aos Soldados PM Temporários contratados nos termos da Lei Estadual nº 11.064, 
 
 - [00387589220168260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI003H7X20000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · NT 25
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 25
-- **Identificador na fonte:** `trf03-nt-25`
+- **Identificador:** `trf03-nt-25`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=25)
@@ -26,4 +26,4 @@ Finalmente, o documento propõe uma série de recomendações procedimentais e b
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/NT_Medicamentos/SEI_11862174_Nota_Tecnica_NI_CLISP_25_2025.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

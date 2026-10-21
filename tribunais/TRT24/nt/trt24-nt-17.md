@@ -1,9 +1,9 @@
 # TRT24 · NT 17
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 17
-- **Identificador na fonte:** `trt24-nt-17`
+- **Identificador:** `trt24-nt-17`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/02/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=17)
@@ -33,4 +33,4 @@ Respeitosamente, este órgão sugere a adoção do Incidente de Resolução de D
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+17.2023.pdf/5458c803-bfdd-01d4-fec9-6af9a9fce461?t=1678284609799)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

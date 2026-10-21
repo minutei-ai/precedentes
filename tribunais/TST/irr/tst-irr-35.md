@@ -1,9 +1,9 @@
 # TST · IRR 35
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 35
-- **Identificador na fonte:** `tst-irr-35`
+- **Identificador:** `tst-irr-35`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 29/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=35)
@@ -16,4 +16,4 @@ Atribuição de valores aos pedidos da petição inicial. Procedimento ordinári
 
 - [00011992920215090654](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=0001199&digitoTst=29&anoTst=2021&orgaoTst=5&tribunalTst=09&varaTst=0654&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

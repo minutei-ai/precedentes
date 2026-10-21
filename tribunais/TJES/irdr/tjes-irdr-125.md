@@ -1,9 +1,9 @@
 # TJES · IRDR 125
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 125
-- **Identificador na fonte:** `tjes-irdr-125`
+- **Identificador:** `tjes-irdr-125`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=125)
@@ -21,4 +21,4 @@ Nas ações que discutem os descontos associativos indevidos em benefícios prev
 - [50078909320258080012](https://sistemas.tjes.jus.br/certidaonegativa/pje/ConsultaPublica/listView.seam)
 - [50018803020258080013](https://sistemas.tjes.jus.br/certidaonegativa/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

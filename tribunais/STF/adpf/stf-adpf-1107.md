@@ -1,10 +1,10 @@
 # STF · ADPF 1107
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 1107
-- **Identificador na fonte:** `stf-adpf-1107`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-1107`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=1107)
 
@@ -22,4 +22,4 @@ LEG-IMP CCI ANO-1830 ART-00219 ART-00222 CCI-1830 CODIGO CRIMINAL DO IMPERIO DO 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=779446122)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

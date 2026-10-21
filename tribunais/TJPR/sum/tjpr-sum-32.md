@@ -1,9 +1,9 @@
 # TJPR · SUM 32
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 32
-- **Identificador na fonte:** `tjpr-sum-32`
+- **Identificador:** `tjpr-sum-32`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=32)
@@ -16,4 +16,4 @@ diferentes para gratificações relacionadas ao Curso de Oficiais de Administra�
 (COA) e ao Curso de Aperfeiçoamento de Oficiais (CAO) da Polícia Militar do Estado  
 do Paraná."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 1201
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1201
-- **Identificador na fonte:** `stf-adi-1201`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1201`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/11/2002
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1201)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00002 ART-00034 INC-00007 LET-A ART-00037 INC-00002 ART-
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=385442)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

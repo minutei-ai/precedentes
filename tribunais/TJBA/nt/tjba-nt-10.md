@@ -1,9 +1,9 @@
 # TJBA · NT 10
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `tjba-nt-10`
+- **Identificador:** `tjba-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 19/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=10)
@@ -44,4 +44,4 @@ acordo/transação no curso do processo. Sendo assim, o Banco tem transferido di
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-pn010-2023/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPE · SUM 98
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 98
-- **Identificador na fonte:** `tjpe-sum-98`
+- **Identificador:** `tjpe-sum-98`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=98)
@@ -19,4 +19,4 @@ Por ser o IPTU um tributo de lançamento direto, a notificação se dá com o re
 - [00168033520088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00168033520088170000)
 - [00102630520078170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00102630520078170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPE · SUM 179
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 179
-- **Identificador na fonte:** `tjpe-sum-179`
+- **Identificador:** `tjpe-sum-179`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=179)
@@ -18,4 +18,4 @@ A notificação extrajudicial do devedor realizada por Cartório de Títulos e D
 - [00694560620118170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00694560620118170001)
 - [00005861320138170170](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00005861320138170170)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

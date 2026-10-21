@@ -1,9 +1,9 @@
 # TST · IRR 9
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 9
-- **Identificador na fonte:** `tst-irr-9`
+- **Identificador:** `tst-irr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=9)
@@ -22,4 +22,4 @@ II - O item I será aplicado às horas extras trabalhadas a partir de 20/3/2023.
 
 - [00101695720135050024](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=10169&digitoTst=57&anoTst=2013&orgaoTst=5&tribunalTst=05&varaTst=0024&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

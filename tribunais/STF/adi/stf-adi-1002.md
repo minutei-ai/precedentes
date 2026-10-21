@@ -1,10 +1,10 @@
 # STF · ADI 1002
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1002
-- **Identificador na fonte:** `stf-adi-1002`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1002`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/06/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1002)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em vertude do adiantado da 
 
 LEG-FED CF ANO-1988 ART-00061 ART-00063 ART-00103 PAR-00001 PAR-00003 ART-00149 ART-00194 ART-00195 PAR-00005 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008213 ANO-1991 LEG-EST CES ANO-1989 ART-00039 ART-00040 ART-00042 PAR-00001 ART-00065 INC-00006 ART-00235 PAR-00004 INC-00003 RO. LEG-EST LEI-000135 ANO-1986 ART-00005 INC-00006 REDAÇÃO DA LEI-511/93, RO.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

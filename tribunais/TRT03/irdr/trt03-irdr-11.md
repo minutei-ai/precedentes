@@ -1,9 +1,9 @@
 # TRT03 · IRDR 11
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `trt03-irdr-11`
+- **Identificador:** `trt03-irdr-11`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=11)
@@ -22,4 +22,4 @@ matéria não impugnada (Súmula 100, II e III, do TST)."
 
 - [00101223420215030000](https://pje-consulta.trt3.jus.br/consultaprocessual/detalhe-processo/0010122-34.2021.5.03.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 1436
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1436
-- **Identificador na fonte:** `stf-adi-1436`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1436`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 22/08/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1436)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade de votos, não conheceu da ação direta, ficando, e
 
 LEG-FED CF ANO-1988 ART-00102 INC-00001 LET-A INC-00003 LET-A LET-B LET-C CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004348 ANO-1964 ART-00004 LEG-EST DLG-000014 ANO-1994 ART-00002 (ES). LEG-EST DLG-000001 ANO-1995 (ES).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

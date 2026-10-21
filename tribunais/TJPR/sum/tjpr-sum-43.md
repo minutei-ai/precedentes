@@ -1,9 +1,9 @@
 # TJPR · SUM 43
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 43
-- **Identificador na fonte:** `tjpr-sum-43`
+- **Identificador:** `tjpr-sum-43`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=43)
@@ -15,4 +15,4 @@ do titular para comprovação da relação jurídica com a instituição finance
 autor instruir a inicial com indício de prova documental da existência da relação jurídica  
 entre as partes".
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

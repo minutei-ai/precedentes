@@ -1,10 +1,10 @@
 # STF · ADI 5919
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5919
-- **Identificador na fonte:** `stf-adi-5919`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5919`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/08/2018
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5919)
 
@@ -22,4 +22,4 @@ LEG-FED PRV-000010 ANO-2015 PROVIMENTO CONJUNTO DO PRESIDENTE E DO CORREGEDOR DO
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748003092)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

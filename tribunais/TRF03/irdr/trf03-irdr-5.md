@@ -1,9 +1,9 @@
 # TRF03 · IRDR 5
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `trf03-irdr-5`
+- **Identificador:** `trf03-irdr-5`
 - **Situação na fonte:** Acórdão Publicado (RESP Pendente)
 - **Atualização informada pela fonte:** 27/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=5)
@@ -20,4 +20,4 @@ Validade da exigência de apresentação, no ato da realização da inscrição 
 
 - 50164974720214030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

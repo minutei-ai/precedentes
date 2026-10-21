@@ -1,9 +1,9 @@
 # STJ · RR 1174
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1174
-- **Identificador na fonte:** `stj-rr-1174`
+- **Identificador:** `stj-rr-1174`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 01/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1174)
@@ -26,4 +26,10 @@ As parcelas relativas ao vale-transporte, vale-refeição/alimentação, plano d
 - [50004940320214047206](https://processo.stj.jus.br/processo/pesquisa/?termo=202201597899&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50373642020204047000](https://processo.stj.jus.br/processo/pesquisa/?termo=202201570141&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

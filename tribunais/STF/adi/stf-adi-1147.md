@@ -1,10 +1,10 @@
 # STF · ADI 1147
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1147
-- **Identificador na fonte:** `stf-adi-1147`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1147`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/08/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1147)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o pedido de medida liminar. Votou o
 
 LEG-FED EMC-000001 ANO-1969 ART-00042 INC-00005 CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00048 INC-00010 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED RES-000016 ANO-1989 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO. LEG-FED RES-000095 ANO-1989 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO. LEG-FED RES-000116 ANO-1989 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO. LEG-FED RES-000106 ANO-1991 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO. LEG-FED RES-000190 ANO-1991 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO. LEG-FED RES-000161 ANO-1992 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO. LEG-FED RES-000028 ANO-1993 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO. LEG-FED RES-000044 ANO-1993 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO. LEG-FED RES-000173 ANO-1993 TRIBUNAL REGIONAL DO TRABALHO DA 3. REGIAO.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

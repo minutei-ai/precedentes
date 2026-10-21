@@ -1,10 +1,10 @@
 # STF · ADPF 902
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 902
-- **Identificador na fonte:** `stf-adpf-902`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-902`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/03/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=902)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-013105 ANO-2015 ART-01022 CPC-2015 CÓDIGO DE PROCESSO CIVIL
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766578744)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

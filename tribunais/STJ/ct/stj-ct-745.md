@@ -1,9 +1,9 @@
 # STJ · CT 745
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 745
-- **Identificador na fonte:** `stj-ct-745`
+- **Identificador:** `stj-ct-745`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=745)
@@ -20,4 +20,14 @@ Definir se a demora injustificada da Administração na análise do requerimento
 - [08012266620234058102](https://processo.stj.jus.br/processo/pesquisa/?termo=202600215085&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08009622020214058102](https://processo.stj.jus.br/processo/pesquisa/?termo=202600493673&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Definir se a demora injustificada da Administração na análise do requerimento de aposentadoria gera o dever de indenizar o servidor por danos materiais. Em caso afirmativo, estabelecer qual o prazo de atraso caracterizador da mora administrativa e qual o termo inicial para o pagamento da indenização devida.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

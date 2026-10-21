@@ -1,9 +1,9 @@
 # TJSE · IRDR 119
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 119
-- **Identificador na fonte:** `tjse-irdr-119`
+- **Identificador:** `tjse-irdr-119`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 23/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=119)
@@ -16,4 +16,4 @@ Uniformização da jurisprudência quanto ao reconhecimento da abusividade da ta
 
 - 00139130820258250000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

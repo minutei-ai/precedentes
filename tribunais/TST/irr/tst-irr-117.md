@@ -1,9 +1,9 @@
 # TST · IRR 117
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 117
-- **Identificador na fonte:** `tst-irr-117`
+- **Identificador:** `tst-irr-117`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=117)
@@ -16,4 +16,4 @@
 
 - [00001335220235050008](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000133-52.2023.5.05.0008/3#1e87739)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 864
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 864
-- **Identificador na fonte:** `stf-rg-864`
+- **Identificador:** `stf-rg-864`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=864)
@@ -20,4 +20,4 @@ A revisão geral anual da remuneração dos servidores públicos depende, cumula
 
 - [905357](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4820176)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRR · IRDR 7
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjrr-irdr-7`
+- **Identificador:** `tjrr-irdr-7`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ Tratando-se de processo de repactuação de dívidas, a concessão de tutela de 
 
 - 90017538020248230000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

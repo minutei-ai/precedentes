@@ -1,9 +1,9 @@
 # TJPI · IRDR 10
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjpi-irdr-10`
+- **Identificador:** `tjpi-irdr-10`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 24/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=10)
@@ -19,4 +19,4 @@ Definir se, para fins de promoção por ressarcimento de preterição de militar
 - 08007139820258180062
 - 08001778720258180062
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

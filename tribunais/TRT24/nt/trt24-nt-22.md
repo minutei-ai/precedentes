@@ -1,9 +1,9 @@
 # TRT24 · NT 22
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 22
-- **Identificador na fonte:** `trt24-nt-22`
+- **Identificador:** `trt24-nt-22`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/08/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=22)
@@ -36,4 +36,4 @@ Além disso, temos 3 (três) tipos de incidentes de uniformização previstos no
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+22.2023.pdf/9366d83d-af90-5a4a-1b84-700f281e2f2c?t=1691604420688)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

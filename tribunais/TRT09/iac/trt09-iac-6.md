@@ -1,9 +1,9 @@
 # TRT09 · IAC 6
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `trt09-iac-6`
+- **Identificador:** `trt09-iac-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=6)
@@ -21,4 +21,4 @@ E.A.C. FLORESTAL S.A., A.R.K. PARTICIPAÇÕES LTDA. e SEIVA PARTICIPAÇÕES LTDA
 
 - [00015450720185090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001545-07.2018.5.09.0000/2#a114c11)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

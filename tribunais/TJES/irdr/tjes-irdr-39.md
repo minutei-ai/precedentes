@@ -1,9 +1,9 @@
 # TJES · IRDR 39
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 39
-- **Identificador na fonte:** `tjes-irdr-39`
+- **Identificador:** `tjes-irdr-39`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=39)
@@ -16,4 +16,4 @@ Interpretação das cláusulas 13.2.5.1.1, 13.2.5.2.2 e 13.2.5.3.1 do edital par
 
 - [00398157920138080024](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0039815-79.2013.8.08.0024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

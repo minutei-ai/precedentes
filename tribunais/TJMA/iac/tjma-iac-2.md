@@ -1,9 +1,9 @@
 # TJMA · IAC 2
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tjma-iac-2`
+- **Identificador:** `tjma-iac-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IAC&nr=2)
@@ -20,4 +20,4 @@ A data de início dos efeitos financeiros da Lei Estadual n° 7.072/98 é o marc
 
 - [00491065020158100001](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=222557&ca=a4c69ea5d0b29c13a116acf37cab014696f07ff62b8e3bce7cea43df75ba7c82039cd6eba875b4f14c9372b2657811fd&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

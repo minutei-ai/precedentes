@@ -1,9 +1,9 @@
 # TRT11 · IRDR 15
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `trt11-irdr-15`
+- **Identificador:** `trt11-irdr-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=15)
@@ -21,4 +21,4 @@ O período de suspensão do prazo prescricional a ser aplicado às reclamatória
 - [00007648820245110009](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000764-88.2024.5.11.0009/2#403fac4)
 - [00003473120255110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000347-31.2025.5.11.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

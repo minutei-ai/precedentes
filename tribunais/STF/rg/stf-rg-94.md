@@ -1,9 +1,9 @@
 # STF · RG 94
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 94
-- **Identificador na fonte:** `stf-rg-94`
+- **Identificador:** `stf-rg-94`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=94)
@@ -20,4 +20,4 @@ Exigência de reserva de plenário para as situações em que a Emenda Constituc
 
 - [586693](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2617543)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJDF · NT 11
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `tjdf-nt-11`
+- **Identificador:** `tjdf-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=NT&nr=11)
@@ -33,4 +33,4 @@ Outro índice verificado no relatório Justiça em Números, e que tangencia a q
 
 - [Link Nota Técnica](https://www.tjdft.jus.br/consultas/notas-tecnicas/nota-tecnica-11-gratuidade-de-justica.pdf/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

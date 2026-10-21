@@ -1,9 +1,9 @@
 # TST · IRR 259
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 259
-- **Identificador na fonte:** `tst-irr-259`
+- **Identificador:** `tst-irr-259`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=259)
@@ -20,4 +20,4 @@ O termo inicial do direito ao salário-família coincide com a prova da filiaç�
 
 - [00202337720225040012](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00202337720225040012)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · IRDR 29
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 29
-- **Identificador na fonte:** `trf03-irdr-29`
+- **Identificador:** `trf03-irdr-29`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 02/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=29)
@@ -16,4 +16,4 @@ DIREITO DO SEGURADO OPTAR PELO MELHOR BENEFÍCIO, AQUELE QUE LHE É MAIS VANTAJO
 
 - 50132510420254030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

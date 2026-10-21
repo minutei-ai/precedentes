@@ -1,10 +1,10 @@
 # STF · ADPF 167
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 167
-- **Identificador na fonte:** `stf-adpf-167`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-167`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/10/2009
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=167)
 
@@ -20,4 +20,4 @@ Após o voto do Senhor Ministro Eros Grau (Relator), referendando a cautelar con
 
 LEG-FED CF ANO-1988 ART-00005 INC-00053 INC-00054 INC-00055 ART-00006 ART-00007 ART-00008 ART-00009 ART-00010 ART-00011 ART-00012 ART-00013 ART-00014 PAR-00010 ART-00015 ART-00016 AR-00017 ART-00034 INC-00007 LET-B ART-00060 PAR-00004 ART-00102 ART-00105 ART-00109 ART-00114 ART-00121 PAR-00004 INC-00003 INC-00004 ART-00220 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000041 ANO-2003 EMENDA CONSTITUCIONAL LEG-FED LEI-005869 ANO-1973 ART-00013 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-004737 ANO-1965 ART-00022 INC-00001 LET-G ART-00216 CEL-1965 CÓDIGO ELEITORAL LEG-FED LEI-009868 ANO-1999 LEI ORDINÁRIA LEG-FED LEI-009882 ANO-1999 ART-00001 ART-00003 INC-00005 ART-00004 PAR-00001 LEI ORDINÁRIA LEG-FED RGI ANO-1980 ART-00077 PAR-ÚNICO RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-FED SUMSTF-000634 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

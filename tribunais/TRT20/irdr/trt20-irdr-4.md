@@ -1,9 +1,9 @@
 # TRT20 · IRDR 4
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt20-irdr-4`
+- **Identificador:** `trt20-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ TESE: São extensíveis à EMPRESA MUNICIPAL DE OBRAS E URBANIZAÇÃO - EMURB, e
 
 - [00000891120215200000](https://pje.trt20.jus.br/consultaprocessual/detalhe-processo/0000089-11.2021.5.20.0000/2#71d4c24)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

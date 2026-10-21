@@ -1,9 +1,9 @@
 # TJES · IRDR 4
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `tjes-irdr-4`
+- **Identificador:** `tjes-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ Estando o incapaz regularmente assistido ou representado (CPC, art. 71), não se
 
 - [00154137620148080030](http://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0015413-76.2014.8.08.0030)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

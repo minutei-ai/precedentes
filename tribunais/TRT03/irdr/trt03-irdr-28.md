@@ -1,9 +1,9 @@
 # TRT03 · IRDR 28
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 28
-- **Identificador na fonte:** `trt03-irdr-28`
+- **Identificador:** `trt03-irdr-28`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 27/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=28)
@@ -18,4 +18,4 @@ Execução individual de decisão proferida em ação coletiva; prazo para ajuiz
 - [00156617320245030000](https://pje.trt3.jus.br/consultaprocessual/detalhe-processo/0015661-73.2024.5.03.0000/2)
 - [00152702120245030000](http://https://pje.trt3.jus.br/consultaprocessual/captcha/detalhe-processo/0015270-21.2024.5.03.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

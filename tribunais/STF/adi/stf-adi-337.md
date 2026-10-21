@@ -1,10 +1,10 @@
 # STF · ADI 337
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 337
-- **Identificador na fonte:** `stf-adi-337`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-337`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/03/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=337)
 
@@ -20,4 +20,4 @@ Após o relatório o Tribunal, por unanimidade, de feriu pedido do Se. Procurado
 
 LEG-FED CF ANO-1988 ART-00102 INC-00001 LET-A CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADN-000024 ANO-1989 (Coordenadoria do Sistema de Tributação da Secretaria da Receita Federal) LEG-FED LEI-007256 ANO-1984 ART-00003 INC-00006 ART-00011 INC-00011 LEG-FED LEI-007713 ANO-1988 ART-00051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

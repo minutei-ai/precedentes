@@ -1,6 +1,6 @@
 # STJ · Recurso Especial Repetitivo
 
-**1.477 registros.** [Voltar ao tribunal](../)
+**1.478 registros.** [Voltar ao tribunal](../)
 
 - [RR 1](stj-rr-1.md) — Transitado em julgado
 - [RR 2](stj-rr-2.md) — Transitado em julgado
@@ -1446,6 +1446,7 @@
 - [RR 1442](stj-rr-1442.md) — Afetado
 - [RR 1443](stj-rr-1443.md) — Afetado
 - [RR 1444](stj-rr-1444.md) — Afetado
+- [RR 1445](stj-rr-1445.md) — Afetado
 - [RR 1446](stj-rr-1446.md) — Afetado
 - [RR 1447](stj-rr-1447.md) — Afetado
 - [RR 1448](stj-rr-1448.md) — Afetado

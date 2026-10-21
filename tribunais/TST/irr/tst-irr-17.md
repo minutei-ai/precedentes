@@ -1,9 +1,9 @@
 # TST · IRR 17
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 17
-- **Identificador na fonte:** `tst-irr-17`
+- **Identificador:** `tst-irr-17`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=17)
@@ -20,4 +20,4 @@ O art. 193, § 2º, da CLT foi recepcionado pela Constituição Federal e veda a
 
 - [00002395520115020319](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=239&digitoTst=55&anoTst=2011&orgaoTst=5&tribunalTst=02&varaTst=0319&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

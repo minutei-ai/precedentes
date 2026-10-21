@@ -1,9 +1,9 @@
 # TST · IRR 46
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 46
-- **Identificador na fonte:** `tst-irr-46`
+- **Identificador:** `tst-irr-46`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=46)
@@ -20,4 +20,4 @@ A suspensão dos prazos prescricionais prevista na Lei nº 14.010/2020 é aplic�
 
 - [10023423820225020511](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1002342-38.2022.5.02.0511/3#fbbe048)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

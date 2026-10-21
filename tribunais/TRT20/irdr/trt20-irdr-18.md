@@ -1,9 +1,9 @@
 # TRT20 · IRDR 18
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trt20-irdr-18`
+- **Identificador:** `trt20-irdr-18`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=18)
@@ -16,4 +16,4 @@
 
 - [00006462220265200000](https://pje.trt20.jus.br/consultaprocessual/detalhe-processo/0000646-22.2026.5.20.0000/2#9554543)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

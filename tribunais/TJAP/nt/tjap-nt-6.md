@@ -1,9 +1,9 @@
 # TJAP · NT 6
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `tjap-nt-6`
+- **Identificador:** `tjap-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/08/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=6)
@@ -43,4 +43,4 @@ medidas, num caminho avaliado como potencialmente eficaz para a prevenção e en
 
 - [Link Nota Técnica](https://www.tjap.jus.br/portal/images/documentos/CEIJAP/CEIJAP_NT6_2023_DEMANDAS_PREDATORIAS_PBA_E_VITORIA_DO_JARI.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRJ · IRDR 7
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjrj-irdr-7`
+- **Identificador:** `tjrj-irdr-7`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ Inexistência de direito líquido e certo para fins de concessão, pela via mand
 
 - [00448828620168190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2016.291.00072)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF04 · IRDR 4
 
-- **Tribunal:** TRF04
+- **Órgão:** TRF04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trf04-irdr-4`
+- **Identificador:** `trf04-irdr-4`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 26/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf04&tipo=IRDR&nr=4)
@@ -21,4 +21,4 @@ A 3ª Seção deste Regional, em sessão virtual realizada no período de 19/05/
 - [50240988920134047200](http://www.trf4.jus.br/trf4/processos/acompanhamento/resultado_pesquisa.php?selForma=NU&selOrigem=RS&txtValor=)
 - [50527135320164040000](http://www.trf4.jus.br/trf4/processos/acompanhamento/resultado_pesquisa.php?selForma=NU&selOrigem=RS&txtValor=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

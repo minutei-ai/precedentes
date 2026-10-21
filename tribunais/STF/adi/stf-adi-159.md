@@ -1,10 +1,10 @@
 # STF · ADI 159
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 159
-- **Identificador na fonte:** `stf-adi-159`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-159`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 16/10/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=159)
 
@@ -20,4 +20,4 @@ Após o voto do Ministro Relator, não conhecendo da ação, por ilegitimidade a
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 ART-00103 INC-00009 ART-00127 PAR-00001 PAR-00002 PAR-00003 ART-00128 PAR-00003 PAR-00004 PAR-00005 ART-00131 PAR-00001 ART-00132 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00011 CF-1988. LEG-EST CES ANO-1989 ART-00310 PAR-00002 PAR-00004 PA, INCONSTITUCIONALIDADE. LEG-EST ETT ART-00003 ART-00007 ART-00014 ANAPE, PA.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

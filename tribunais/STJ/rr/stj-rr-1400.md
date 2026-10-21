@@ -1,9 +1,9 @@
 # STJ · RR 1400
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1400
-- **Identificador na fonte:** `stj-rr-1400`
+- **Identificador:** `stj-rr-1400`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1400)
@@ -18,4 +18,6 @@ Definir se é possível, ou não, a admissibilidade de recurso especial que veic
 - [00061118720128160024](https://processo.stj.jus.br/processo/pesquisa/?termo=202502748751&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00058441820128160024](https://processo.stj.jus.br/processo/pesquisa/?termo=202502602227&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

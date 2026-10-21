@@ -1,9 +1,9 @@
 # TRT13 · IAC 2
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `trt13-iac-2`
+- **Identificador:** `trt13-iac-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 31/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=2)
@@ -20,4 +20,4 @@ BANCO SANTANDER. INCORPORAÇÃO DO BANCO REAL. SUCESSÃO TRABALHISTA. POLÍTICA 
 
 - [00005087620195130006](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000508-76.2019.5.13.0006/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT03 · IRDR 9
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `trt03-irdr-9`
+- **Identificador:** `trt03-irdr-9`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 13/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=9)
@@ -20,4 +20,4 @@ Ação Rescisória. Ausência de expressa modulação de efeitos nas decisões p
 
 - [00122072720205030000](https://pje-consulta.trt3.jus.br/consultaprocessual/detalhe-processo/00122072720205030000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

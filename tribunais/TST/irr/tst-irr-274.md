@@ -1,9 +1,9 @@
 # TST · IRR 274
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 274
-- **Identificador na fonte:** `tst-irr-274`
+- **Identificador:** `tst-irr-274`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 11/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=274)
@@ -16,4 +16,4 @@ SUSPENSÃO DO CONTRATO DE TRABALHO. APOSENTADORIA POR INVALIDEZ. RESCISÃO DO CO
 
 - [00003486220225050493](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000348-62.2022.5.05.0493/3#e4b8a10)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

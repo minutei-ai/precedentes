@@ -1,10 +1,10 @@
 # STF · ADI 67
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 67
-- **Identificador na fonte:** `stf-adi-67`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-67`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/04/1990
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=67)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade, não conheceu da ação. Votou o Presidente. Presid
 
 LEG-FED CF ANO-1988 ART-00103 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-007675 ANO-1988 ART-00004 LEG-FED DEL-000199 ANO-1967 ART-00031 INC-00010 ART-00043 LEG-FED ETT- ART-00001 "CAPUT" ART-00003 ART-00015 (Estatuto da Associação Brasileira de Conselhos e Tribunais de Contas dos Municípios - ABRACCOM)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

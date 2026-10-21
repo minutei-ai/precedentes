@@ -1,10 +1,10 @@
 # STF · ADI 1575
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1575
-- **Identificador na fonte:** `stf-adi-1575`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1575`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/04/2010
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1575)
 
@@ -20,4 +20,4 @@ O Tribunal, por maioria e nos termos do voto do Relator, julgou procedente a aç
 
 LEG-FED CF ANO-1988 ART-00021 INC-00023 ART-00022 INC-00026 ART-00177 INC-00005 REDAÇÃO DADA PELA EMC-49/2006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000049 ANO-2006 EMENDA CONSTITUCIONAL LEG-FED DEC-002210 ANO-1997 DECRETO LEG-EST LEI-006263 ANO-1988 LEI ORDINÁRIA, SP
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

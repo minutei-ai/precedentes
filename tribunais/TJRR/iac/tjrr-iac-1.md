@@ -1,9 +1,9 @@
 # TJRR · IAC 1
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjrr-iac-1`
+- **Identificador:** `tjrr-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ A competência para processamento e julgamento de mandado de segurança, por mei
 
 - 90011983420228230000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

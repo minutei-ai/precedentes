@@ -1,9 +1,9 @@
 # TRT12 · NT 9
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `trt12-nt-9`
+- **Identificador:** `trt12-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=NT&nr=9)
@@ -20,4 +20,4 @@ Trata-se de Nota Técnica recomendando a uniformização da jurisprudência nest
 
 - [Link Nota Técnica](https://dspace.trt12.jus.br/server/api/core/bitstreams/5230bd14-b668-4aa3-b4ae-ea8229a64cdf/content)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1454
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1454
-- **Identificador na fonte:** `stj-rr-1454`
+- **Identificador:** `stj-rr-1454`
 - **Situação na fonte:** Em julgamento
 - **Atualização informada pela fonte:** 16/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1454)
@@ -17,4 +17,10 @@ Definir se a dispensa de condenação em honorários do ente público federal, a
 - [08025632620244058500](https://processo.stj.jus.br/processo/pesquisa/?termo=202504030250&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08166635620234058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202504030197&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Afetado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

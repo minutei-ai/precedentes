@@ -1,9 +1,9 @@
 # TJPE · SUM 112
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 112
-- **Identificador na fonte:** `tjpe-sum-112`
+- **Identificador:** `tjpe-sum-112`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=112)
@@ -22,4 +22,4 @@ Estadual e, consequentemente, inexiste razão para determinar a remessa dos auto
 - [00105843820118170990](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00105843820118170990)
 - [00057898220088171090](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00057898220088171090)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

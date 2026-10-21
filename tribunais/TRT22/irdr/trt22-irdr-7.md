@@ -1,9 +1,9 @@
 # TRT22 · IRDR 7
 
-- **Tribunal:** TRT22
+- **Órgão:** TRT22
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt22-irdr-7`
+- **Identificador:** `trt22-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 14/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt22&tipo=IRDR&nr=7)
@@ -21,4 +21,4 @@ RESPONSABILIZAÇÃO SUBSIDIÁRIA DA CODEVASF NAS SITUAÇÕES EM QUE A EMPRESA É
 - [00803548220175220000](https://pje.trt22.jus.br/consultaprocessual/detalhe-processo/0080354-82.2017.5.22.0000/2)
 - [00805521520145220101](https://pje.trt22.jus.br/consultaprocessual/detalhe-processo/0080552-15.2014.5.22.0101/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT22/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 182
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 182
-- **Identificador na fonte:** `stj-ct-182`
+- **Identificador:** `stj-ct-182`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=182)
@@ -21,4 +21,14 @@ Abusividade ou não de cláusula contratual que exclua da cobertura do plano de 
 - [10577819520168260100](https://processo.stj.jus.br/processo/pesquisa/?termo=202000968142&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [02106020520168190001](https://processo.stj.jus.br/processo/pesquisa/?termo=201902817090&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Abusividade ou não de cláusula contratual que exclua da cobertura do plano de saúde algum tipo de procedimento ou medicamento necessário para assegurar o tratamento de enfermidades previstas pelo referido plano.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

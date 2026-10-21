@@ -1,9 +1,9 @@
 # TJBA · NT 13
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `tjba-nt-13`
+- **Identificador:** `tjba-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=13)
@@ -29,4 +29,4 @@ independente de token ou estrutura assemelhada.
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-n-01-2025/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 422
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 422
-- **Identificador na fonte:** `stj-rr-422`
+- **Identificador:** `stj-rr-422`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=422)
@@ -20,4 +20,10 @@ Permanece a possibilidade de conversão do tempo de serviço exercido em ativida
 
 - [00251384020064013800](https://processo.stj.jus.br/processo/pesquisa/?termo=200901456858&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

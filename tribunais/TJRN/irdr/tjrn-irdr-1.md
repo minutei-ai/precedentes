@@ -1,9 +1,9 @@
 # TJRN · IRDR 1
 
-- **Tribunal:** TJRN
+- **Órgão:** TJRN
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjrn-irdr-1`
+- **Identificador:** `tjrn-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 24/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrn&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ Incidente de Resolução de Demandas Repetitivas – IRDR, suscitado pela Centra
 
 - 00098254320178200000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRN/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

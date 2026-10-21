@@ -1,9 +1,9 @@
 # TJDF · NT 9
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `tjdf-nt-9`
+- **Identificador:** `tjdf-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 03/03/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=NT&nr=9)
@@ -46,4 +46,4 @@ Nesse contexto, o Juízo postulante pugnou pela análise e coleta de dados perti
 
 - [Link Nota Técnica](https://www.tjdft.jus.br/consultas/notas-tecnicas/nt_loot_boxes_-aprovada.pdf/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

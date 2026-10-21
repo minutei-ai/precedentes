@@ -1,9 +1,9 @@
 # TJMG · IRDR 85
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 85
-- **Identificador na fonte:** `tjmg-irdr-85`
+- **Identificador:** `tjmg-irdr-85`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 24/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=85)
@@ -20,4 +20,4 @@ Não há falar-se em formação de litisconsórcio passivo necessário entre IPS
 
 - [50096994420198130480](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000200679280003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

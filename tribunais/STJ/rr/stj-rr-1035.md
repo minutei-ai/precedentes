@@ -1,9 +1,9 @@
 # STJ · RR 1035
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1035
-- **Identificador na fonte:** `stj-rr-1035`
+- **Identificador:** `stj-rr-1035`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1035)
@@ -21,4 +21,14 @@ A pretensão de cobrança de valores relativos a despesas de sobre-estadias de c
 - [10003252820178260562](https://processo.stj.jus.br/processo/pesquisa/?termo=201901201332&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00904817020148170001](https://processo.stj.jus.br/processo/pesquisa/?termo=201901384003&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+A pretensão de cobrança de valores relativos a despesas de sobre-estadias de contêineres (demurrage) previamente estabelecidos em contrato de transporte marítimo (unimodal) prescreve em 5 (cinco) anos, a teor do que dispõe o art. 206, § 5º, inciso I, do Código Civil de 2002.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

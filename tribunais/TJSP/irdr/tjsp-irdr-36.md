@@ -1,9 +1,9 @@
 # TJSP · IRDR 36
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 36
-- **Identificador na fonte:** `tjsp-irdr-36`
+- **Identificador:** `tjsp-irdr-36`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=36)
@@ -21,4 +21,4 @@ https://esaj.tjsp.jus.br/cjsg/getArquivo.do?cdAcordao=13932168&cdForo=0 INCIDENT
 
 - [00182647020208260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0018264-70.2020&foroNumeroUnificado=0000&dePesquisaNuUnificado=0018264-70.2020.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_480ae739e66e496994440bf1efe13df5&g-recaptcha-response=03AGdBq25yox2pqTKvnus8R-YT61CrMSaxpoOncIuZ9JtPkFAjRUwzhOesEd6rtOaWc7sgiqSdgoiFDOPR800Es5p8Otlwil-9P1aHRW2Bc9STNa5jg1pQwv9LzCdk8cTjqdJYfwFnQY72d6OoZgFjoy4XmlJ71q6MIYW24R069EDdXQUpyhsbGJsTxuN5ABPtVM9vn-h7DzO6peqQjntwrvjUgCiEzWBnWEXwae4VZ9uYsysNG6auN5-3JJbYrqlwPMmE9HuiqzKK7IJHCBIpAXUfGg-uDMg32dHww_hyxSchVW0Nbg9GctDmOLRc7ZCZBjboNJOspasQhavgf4iYl09KpgKPRu7uOOnDuvB-9BfbgSUashCgMyfobklr_2udi0A2cn27IGX904dsx9fZtA6UxwcmpvFgtBY8smsUJg5gIF5KrXq_A1UgJqMSgnvh2_dbvlIAjOp3YePOAZa7DlcS4Ul9m0xNoQI_54P5EZDDFZbC6rJVToY)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

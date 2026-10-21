@@ -1,9 +1,9 @@
 # STF · RG 343
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 343
-- **Identificador na fonte:** `stf-rg-343`
+- **Identificador:** `stf-rg-343`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=343)
@@ -20,4 +20,4 @@ Devolução de contribuição previdenciária cobrada de servidor inativo ou pen
 
 - [580871](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2602493)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

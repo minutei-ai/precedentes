@@ -1,9 +1,9 @@
 # STJ · CT 293
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 293
-- **Identificador na fonte:** `stj-ct-293`
+- **Identificador:** `stj-ct-293`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=293)
@@ -21,4 +21,14 @@ Possibilidade - ou não - do servidor que já usufruiu o primeiro período de f�
 - [08003201520194058103](https://processo.stj.jus.br/processo/pesquisa/?termo=202003171820&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08002388120194058103](https://processo.stj.jus.br/processo/pesquisa/?termo=202003172992&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Possibilidade - ou não - do servidor que já usufruiu o primeiro período de férias, após cumprida a exigência de 12 (doze) meses de exercício, poder usufruir as férias seguintes no mesmo ano civil, dentro do período aquisitivo ainda em curso, nos termos do art. 77, parágrafo primeiro, da Lei n. 8.112/90.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

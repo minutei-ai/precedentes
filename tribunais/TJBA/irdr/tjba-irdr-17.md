@@ -1,9 +1,9 @@
 # TJBA · IRDR 17
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `tjba-irdr-17`
+- **Identificador:** `tjba-irdr-17`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 26/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=17)
@@ -16,4 +16,4 @@ Possibilidade de indeferir o recolhimento das custas ao final do processo, com f
 
 - [80130819320228050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

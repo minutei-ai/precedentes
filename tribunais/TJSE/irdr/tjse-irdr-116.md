@@ -1,9 +1,9 @@
 # TJSE · IRDR 116
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 116
-- **Identificador na fonte:** `tjse-irdr-116`
+- **Identificador:** `tjse-irdr-116`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 02/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=116)
@@ -16,4 +16,4 @@ Discutir o direito dos servidores da SMTT Aracaju à percepção da Gratificaç�
 
 - 00331006720238250001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

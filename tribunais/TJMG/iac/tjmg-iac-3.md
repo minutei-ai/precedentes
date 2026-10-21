@@ -1,9 +1,9 @@
 # TJMG · IAC 3
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `tjmg-iac-3`
+- **Identificador:** `tjmg-iac-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IAC&nr=3)
@@ -20,4 +20,4 @@ recurso em que se discute questão acerca da legitimidade ativa do Ministério P
 
 - [02562838720148130145](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10145140256283003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSP · IRDR 28
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 28
-- **Identificador na fonte:** `tjsp-irdr-28`
+- **Identificador:** `tjsp-irdr-28`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=28)
@@ -20,4 +20,4 @@ A decisão que defere a progressão de regime tem natureza declaratória, e não
 
 - [21037462020188260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=CFAA3BEB1BDE6CE51BC199DB9E64D8DD.cposg7?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=2103746-20.2018&foroNumeroUnificado=0000&dePesquisaNuUnificado=2103746-20.2018.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

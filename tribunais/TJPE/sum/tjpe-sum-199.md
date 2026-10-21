@@ -1,9 +1,9 @@
 # TJPE · SUM 199
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 199
-- **Identificador na fonte:** `tjpe-sum-199`
+- **Identificador:** `tjpe-sum-199`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=199)
@@ -18,4 +18,4 @@ A condenação em obrigação de fazer com valor econômico aferível deve ser i
 - [00038079620098171090](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00038079620098171090)
 - [00177103620108170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00177103620108170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

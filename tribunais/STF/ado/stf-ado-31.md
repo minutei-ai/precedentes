@@ -1,10 +1,10 @@
 # STF · ADO 31
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade por Omissão
 - **Número:** 31
-- **Identificador na fonte:** `stf-ado-31`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-ado-31`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/04/2018
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADO&nr=31)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00103 INC-00005 ART-00153 INC-00007 ART-00157 ART-00158 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14651608)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

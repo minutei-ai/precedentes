@@ -1,10 +1,10 @@
 # STF · ADI 996
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 996
-- **Identificador na fonte:** `stf-adi-996`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-996`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/03/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=996)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED CF ANO-1988 ART-00005 INC-00002 ART-00024 INC-00005 INC-00008 ART-00037 ART-00084 INC-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008078 ANO-1990 ART-00055 ART-00056 CDC-1990 CÓDIGO DE DEFESA DO CONSUMIDOR LEG-FED LEI-008656 ANO-1993 ART-00002 LEG-FED DEC-000861 ANO-1993
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

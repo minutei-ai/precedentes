@@ -1,9 +1,9 @@
 # TJPE · SUM 61
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 61
-- **Identificador na fonte:** `tjpe-sum-61`
+- **Identificador:** `tjpe-sum-61`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=61)
@@ -16,4 +16,4 @@ O servidor público tem direito adquirido à percepção em pecúnia de licença
 
 - [00077711120058170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00077711120058170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 156
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 156
-- **Identificador na fonte:** `tst-irr-156`
+- **Identificador:** `tst-irr-156`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=156)
@@ -20,4 +20,4 @@
 
 - [00000771720215120033](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000077-17.2021.5.12.0033/3#6206924)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

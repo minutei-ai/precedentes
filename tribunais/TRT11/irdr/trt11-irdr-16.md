@@ -1,9 +1,9 @@
 # TRT11 · IRDR 16
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `trt11-irdr-16`
+- **Identificador:** `trt11-irdr-16`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 20/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=16)
@@ -26,4 +26,4 @@ O direito à 'gratificação de férias complemento', correspondente a 36,67% so
 - [00005681120255110001](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000568-11.2025.5.11.0001/2#8db0953)
 - [00010401520255110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0001040-15.2025.5.11.0000/2#03f5d13)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

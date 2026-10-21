@@ -1,9 +1,9 @@
 # TJRN · IRDR 6
 
-- **Tribunal:** TJRN
+- **Órgão:** TJRN
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjrn-irdr-6`
+- **Identificador:** `tjrn-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 24/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrn&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ Tese fixada para fins do art. 985 do CPC: "A extinção da execução fiscal mot
 
 - 08029748120198200000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRN/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

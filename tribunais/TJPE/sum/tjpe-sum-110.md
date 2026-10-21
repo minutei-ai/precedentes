@@ -1,9 +1,9 @@
 # TJPE · SUM 110
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 110
-- **Identificador na fonte:** `tjpe-sum-110`
+- **Identificador:** `tjpe-sum-110`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=110)
@@ -21,4 +21,4 @@
 - [00530933620148170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00530933620148170001)
 - [00431361120148170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00431361120148170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

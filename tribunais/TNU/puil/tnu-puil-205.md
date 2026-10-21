@@ -1,9 +1,9 @@
 # TNU · PUIL 205
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 205
-- **Identificador na fonte:** `tnu-puil-205`
+- **Identificador:** `tnu-puil-205`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=205)
@@ -20,4 +20,4 @@ a) para reconhecimento da natureza especial de tempo laborado em exposição a a
 
 - [05000127020154058013](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=05000127020154058013)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

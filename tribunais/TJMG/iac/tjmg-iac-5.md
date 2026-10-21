@@ -1,9 +1,9 @@
 # TJMG · IAC 5
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `tjmg-iac-5`
+- **Identificador:** `tjmg-iac-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 26/01/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IAC&nr=5)
@@ -20,4 +20,4 @@ Possibilidade de o servidor municipal de Betim computar o tempo do exercício an
 
 - [05623142420198130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000150852226003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

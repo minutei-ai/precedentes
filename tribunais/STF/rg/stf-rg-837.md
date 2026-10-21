@@ -1,9 +1,9 @@
 # STF · RG 837
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 837
-- **Identificador na fonte:** `stf-rg-837`
+- **Identificador:** `stf-rg-837`
 - **Situação na fonte:** Há repercussão geral. Leading case: acórdão publicado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=837)
@@ -20,4 +20,4 @@ Definição dos limites da liberdade de expressão em contraposição a outros d
 
 - [662055](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4161468)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

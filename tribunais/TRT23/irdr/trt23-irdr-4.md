@@ -1,9 +1,9 @@
 # TRT23 · IRDR 4
 
-- **Tribunal:** TRT23
+- **Órgão:** TRT23
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt23-irdr-4`
+- **Identificador:** `trt23-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt23&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ IRDR 0000197-51.2024.5.23.0000 - Possibilidade de se aplicar os efeitos da ADI 5
 
 - [00006769820225230037](https://pje.trt23.jus.br/consultaprocessual/detalhe-processo/0000676-98.2022.5.23.0037/2#d54b47a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT23/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

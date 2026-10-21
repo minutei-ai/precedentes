@@ -1,9 +1,9 @@
 # TRF02 · IAC 1
 
-- **Tribunal:** TRF02
+- **Órgão:** TRF02
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trf02-iac-1`
+- **Identificador:** `trf02-iac-1`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 21/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf02&tipo=IAC&nr=1)
@@ -16,4 +16,4 @@ Aplicação da técnica de complementação de julgamento de apelação, de que 
 
 "A técnica de complementação de julgamento de apelação de que trata o art. 942 do CPC aplica-se quando o resultado do julgamento não for unânime, independentemente de reforma da sentença, inclusive em mandado de segurança."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 133
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 133
-- **Identificador na fonte:** `tst-irr-133`
+- **Identificador:** `tst-irr-133`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=133)
@@ -20,4 +20,4 @@ A demonstração do inadimplemento do devedor principal, em obrigação subsidi�
 
 - [00002479320215090672](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000247-93.2021.5.09.0672/3#13fbf69)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

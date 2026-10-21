@@ -1,9 +1,9 @@
 # TJMT · NT 22022
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Nota Técnica
 - **Número:** 22022
-- **Identificador na fonte:** `tjmt-nt-22022`
+- **Identificador:** `tjmt-nt-22022`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=NT&nr=22022)
@@ -20,4 +20,4 @@ Nota Técnica define os conceitos de urgência, emergência e eletividade para o
 
 - [Link Nota Técnica](https://centrodeinteligencia-mc.tjmt.jus.br/portalcentrodeinteligencia-arquivos-prod/cms/04_Nota_Tecnica_Urg_Emerg_Elet_Prud_Atend_Demand_Saude_ee5c9bbadd.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

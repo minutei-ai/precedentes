@@ -1,9 +1,9 @@
 # TRT11 · NT 10
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `trt11-nt-10`
+- **Identificador:** `trt11-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=NT&nr=10)
@@ -51,4 +51,4 @@ O Centro de Inteligência supervisionará a adesão dos órgãos jurisdicionais 
 
 - [Link Nota Técnica](https://portal.trt11.jus.br/images/Nota_Tecnica_10.2024._Linguagem_Simples._Com_assinatura.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

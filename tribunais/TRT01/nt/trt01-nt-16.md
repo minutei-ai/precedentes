@@ -1,9 +1,9 @@
 # TRT01 · NT 16
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 16
-- **Identificador na fonte:** `trt01-nt-16`
+- **Identificador:** `trt01-nt-16`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=16)
@@ -34,4 +34,4 @@ Rio de Janeiro, 04 de outubro de 2023.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3727436/1/NT16_CI_TRT1_Acordo%20de%20Coopera%c3%a7%c3%a3o%20T%c3%a9cnica%20entre%20TRT%20da%201%c2%aa%20Regi%c3%a3o%20e%20Grupo%20Casas%20Bahia%20S.A..pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

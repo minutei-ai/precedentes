@@ -1,9 +1,9 @@
 # TJMG · IRDR 63
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 63
-- **Identificador na fonte:** `tjmg-irdr-63`
+- **Identificador:** `tjmg-irdr-63`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=63)
@@ -20,4 +20,4 @@ A proibição de dispensar servidor no período correspondente aos três meses q
 
 - [00313264320208130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000150655520003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

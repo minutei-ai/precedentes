@@ -1,9 +1,9 @@
 # TST · IRR 157
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 157
-- **Identificador na fonte:** `tst-irr-157`
+- **Identificador:** `tst-irr-157`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=157)
@@ -20,4 +20,4 @@ A juntada do comprovante bancário do pagamento das custas processuais, com iden
 
 - [00001508020245090513](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000150-80.2024.5.09.0513/3#309c627)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

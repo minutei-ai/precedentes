@@ -1,9 +1,9 @@
 # TJAM · SUM 9
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Súmula
 - **Número:** 9
-- **Identificador na fonte:** `tjam-sum-9`
+- **Identificador:** `tjam-sum-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=SUM&nr=9)
@@ -16,4 +16,4 @@ Não viola o princípio da isonomia o indeferimento de remarcação de entrega d
 
 - [09193525920228040001](https://consultasaj.tjam.jus.br/cposgcr/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0919352-59.2022&foroNumeroUnificado=0001&dePesquisaNuUnificado=0919352-59.2022.8.04.0001&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT05 · IAC 3
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `trt05-iac-3`
+- **Identificador:** `trt05-iac-3`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 31/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IAC&nr=3)
@@ -20,4 +20,4 @@ Não houve fixação de tese. IAC inadmitido.
 
 - [00005840920205050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0000584-09.2020.5.05.0000/2#c89120e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

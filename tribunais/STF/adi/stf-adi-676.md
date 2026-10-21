@@ -1,10 +1,10 @@
 # STF · ADI 676
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 676
-- **Identificador na fonte:** `stf-adi-676`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-676`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/07/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=676)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente a ação direta para declar
 
 LEG-FED CF ANO-1988 ART-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00099 INC-00020 INC-00031 (RJ), inconstitucionalidade.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

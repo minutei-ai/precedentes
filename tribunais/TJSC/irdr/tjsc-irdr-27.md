@@ -1,9 +1,9 @@
 # TJSC · IRDR 27
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `tjsc-irdr-27`
+- **Identificador:** `tjsc-irdr-27`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=IRDR&nr=27)
@@ -16,4 +16,4 @@ Definir qual o principal meio para concretizar a decisão que determina a suspen
 
 - [50569408520228240000](https://eproc2g.tjsc.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50569408520228240000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

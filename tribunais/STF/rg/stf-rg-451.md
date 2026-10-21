@@ -1,9 +1,9 @@
 # STF · RG 451
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 451
-- **Identificador na fonte:** `stf-rg-451`
+- **Identificador:** `stf-rg-451`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=451)
@@ -20,4 +20,4 @@ Não afronta a exigência constitucional de motivação dos atos decisórios a d
 
 - [635729](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4035218)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

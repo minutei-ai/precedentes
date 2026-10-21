@@ -1,10 +1,10 @@
 # STF · ADI 561
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 561
-- **Identificador na fonte:** `stf-adi-561`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-561`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/08/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=561)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00005 INC-00012 ART-00021 INC-00011 LET-A INC-00012 LET-
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=346465)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

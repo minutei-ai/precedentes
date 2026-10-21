@@ -1,9 +1,9 @@
 # TJES · IRDR 81
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 81
-- **Identificador na fonte:** `tjes-irdr-81`
+- **Identificador:** `tjes-irdr-81`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=81)
@@ -16,4 +16,4 @@ Base de cálculo do "pecúlio" concedido pela Caixa Beneficente dos Militares Es
 
 - [00122921920188080024](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0012292-19.2018.8.08.0024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

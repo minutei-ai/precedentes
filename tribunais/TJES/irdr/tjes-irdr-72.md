@@ -1,9 +1,9 @@
 # TJES · IRDR 72
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 72
-- **Identificador na fonte:** `tjes-irdr-72`
+- **Identificador:** `tjes-irdr-72`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=72)
@@ -16,4 +16,4 @@ Legalidade ou não da Instrução de Serviço n° 019/2016 do DETRAN/ES - Implan
 
 - [00072254020178080014](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0007225-40.2017.8.08.0014)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

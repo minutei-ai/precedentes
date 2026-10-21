@@ -1,9 +1,9 @@
 # TRT03 · IRDR 7
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt03-irdr-7`
+- **Identificador:** `trt03-irdr-7`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 27/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ Advogado - regime de dedicação exclusiva do art. 20 da Lei 8.906/1994: necessi
 
 - [00111896820205030000](https://pje-consulta.trt3.jus.br/consultaprocessual/detalhe-processo/00111896820205030000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

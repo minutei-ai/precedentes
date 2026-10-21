@@ -1,9 +1,9 @@
 # TJRR · IAC 11
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 11
-- **Identificador na fonte:** `tjrr-iac-11`
+- **Identificador:** `tjrr-iac-11`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IAC&nr=11)
@@ -20,4 +20,4 @@ Os Núcleos de Justiça 4.0 possuem competência relativa e o rol de atribuiçõ
 
 - 90004858820248230000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT24 · NT 28
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 28
-- **Identificador na fonte:** `trt24-nt-28`
+- **Identificador:** `trt24-nt-28`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=28)
@@ -65,4 +65,4 @@ decidido. Verificada...
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+28_2025.pdf/59f2fc98-ce77-6f67-2403-5841645a4ec8?t=1742848899870)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

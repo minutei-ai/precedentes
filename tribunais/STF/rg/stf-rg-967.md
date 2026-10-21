@@ -1,9 +1,9 @@
 # STF · RG 967
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 967
-- **Identificador na fonte:** `stf-rg-967`
+- **Identificador:** `stf-rg-967`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=967)
@@ -20,4 +20,4 @@ Proibição do uso de carros particulares para o transporte remunerado individua
 
 - [1054110](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5206938)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

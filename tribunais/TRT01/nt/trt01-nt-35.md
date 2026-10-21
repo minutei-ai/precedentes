@@ -1,9 +1,9 @@
 # TRT01 · NT 35
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 35
-- **Identificador na fonte:** `trt01-nt-35`
+- **Identificador:** `trt01-nt-35`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=35)
@@ -33,4 +33,4 @@ Rio de Janeiro, 17 de outubro de 2025.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/html/1001/4481716/Nota%20T%c3%a9cnica%2035.2025.docx.htm)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

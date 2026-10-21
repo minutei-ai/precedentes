@@ -1,9 +1,9 @@
 # TJSP · IRDR 27
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `tjsp-irdr-27`
+- **Identificador:** `tjsp-irdr-27`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=27)
@@ -20,4 +20,4 @@ Lei 910/1980 do município de Andradina. Isenção fiscal. Companhia Regional de
 
 - [22363200720188260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=A64E5C5D68BF1BC382ADB89C331EF5E3.cposg1?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=2236320-07.2018&foroNumeroUnificado=0000&dePesquisaNuUnificado=2236320-07.2018.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

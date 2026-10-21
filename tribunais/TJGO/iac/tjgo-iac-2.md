@@ -1,9 +1,9 @@
 # TJGO · IAC 2
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tjgo-iac-2`
+- **Identificador:** `tjgo-iac-2`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 21/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IAC&nr=2)
@@ -20,4 +20,4 @@ Tendo por escopo nulificar os atos de intimação efetivados via diário oficial
 
 - 56498466120238090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

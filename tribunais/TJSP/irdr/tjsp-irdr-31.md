@@ -1,9 +1,9 @@
 # TJSP · IRDR 31
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 31
-- **Identificador na fonte:** `tjsp-irdr-31`
+- **Identificador:** `tjsp-irdr-31`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=31)
@@ -20,4 +20,4 @@ A extinção das 5ª e 4ª Classes das carreiras policiais regidas pelas LCE nº
 
 - [00324417320198260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0032441-73.2019&foroNumeroUnificado=0000&dePesquisaNuUnificado=0032441-73.2019.8.26.0000&dePesquisa=&uuidCaptcha=sajcaptcha_dea11592dd56474d970a3cafc996bc92)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

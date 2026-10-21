@@ -1,9 +1,9 @@
 # TJPR · SUM 4
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 4
-- **Identificador na fonte:** `tjpr-sum-4`
+- **Identificador:** `tjpr-sum-4`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=4)
@@ -16,4 +16,4 @@ primeiros, ou seja, ressarcir o prejudicado pelo não uso da propriedade, durant
 foi privado. Demais disso, tais juros compensatórios não padecem da limitação do artigo 1 063, do  
 Código Civil e devem representar, assim, a melhor taxa do mercado (12% ao ano)".
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

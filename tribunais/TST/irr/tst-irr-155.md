@@ -1,9 +1,9 @@
 # TST · IRR 155
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 155
-- **Identificador na fonte:** `tst-irr-155`
+- **Identificador:** `tst-irr-155`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=155)
@@ -23,4 +23,4 @@ II - havendo conversão em parcela única, deverá ser utilizada a Tábua Comple
 - [10012506920225020464](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1001250-69.2022.5.02.0464/3#be62673)
 - [00000192620235090195](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000019-26.2023.5.09.0195/3#085b637)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

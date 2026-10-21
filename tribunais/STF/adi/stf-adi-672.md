@@ -1,10 +1,10 @@
 # STF · ADI 672
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 672
-- **Identificador na fonte:** `stf-adi-672`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-672`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/08/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=672)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal referendou decisão do Ministro Octavio Gallo
 
 LEG-FED LEI-008197 ANO-1991 ART-00004 PAR-ÚNICO LEG-FED RGI ANO-1980 ART-00013 INC-00008 ART-00014 ART-00021 INC-00005 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

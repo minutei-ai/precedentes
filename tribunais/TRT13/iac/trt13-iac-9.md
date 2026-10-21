@@ -1,9 +1,9 @@
 # TRT13 · IAC 9
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 9
-- **Identificador na fonte:** `trt13-iac-9`
+- **Identificador:** `trt13-iac-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 25/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=9)
@@ -22,4 +22,4 @@ Em se tratando de relação jurídica de trato sucessivo, a natureza salarial do
 - [00015068320245130001](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0001506-83.2024.5.13.0001/2#dad0249)
 - [00009530520255130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000953-05.2025.5.13.0000/2#4b00b18)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

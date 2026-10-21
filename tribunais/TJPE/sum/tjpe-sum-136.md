@@ -1,9 +1,9 @@
 # TJPE · SUM 136
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 136
-- **Identificador na fonte:** `tjpe-sum-136`
+- **Identificador:** `tjpe-sum-136`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=136)
@@ -19,4 +19,4 @@
 - [00141042920128170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00141042920128170001)
 - [00014879820168170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00014879820168170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

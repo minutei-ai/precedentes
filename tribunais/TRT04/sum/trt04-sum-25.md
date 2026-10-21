@@ -1,9 +1,9 @@
 # TRT04 · SUM 25
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 25
-- **Identificador na fonte:** `trt04-sum-25`
+- **Identificador:** `trt04-sum-25`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=25)
@@ -26,4 +26,4 @@ DESCONTOS PREVIDENCIÁRIOS E FISCAIS. São cabíveis, independentemente de sua p
 - [00724007119995040402](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/P6KfBkIHKvbiw7RPHiw_ew)
 - [00055662620005040831](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/tfsSyo054mUow1iXGdZdag)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

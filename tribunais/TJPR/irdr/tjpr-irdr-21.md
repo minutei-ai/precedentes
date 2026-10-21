@@ -1,9 +1,9 @@
 # TJPR · IRDR 21
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 21
-- **Identificador na fonte:** `tjpr-irdr-21`
+- **Identificador:** `tjpr-irdr-21`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=21)
@@ -24,4 +24,4 @@ adicional.
 
 - [00354262020178160014](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0035426-20.2017.8.16.0014&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

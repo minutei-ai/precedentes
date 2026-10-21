@@ -1,9 +1,9 @@
 # TRT08 · IRDR 22
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 22
-- **Identificador na fonte:** `trt08-irdr-22`
+- **Identificador:** `trt08-irdr-22`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 26/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IRDR&nr=22)
@@ -20,4 +20,4 @@ TRABALHADOR RURAL. PAUSAS DA NR 31. APLICAÇÃO ANALÓGICA DO ART. 72 DA CLT. PO
 
 - [00009311920245080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000931-19.2024.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

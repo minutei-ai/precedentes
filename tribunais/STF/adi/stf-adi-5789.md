@@ -1,10 +1,10 @@
 # STF · ADI 5789
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5789
-- **Identificador na fonte:** `stf-adi-5789`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5789`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 21/02/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5789)
 
@@ -22,4 +22,4 @@ LEG-FED LCP-000159 ANO-2017 ART-00002 PAR-00001 ART-00003 PAR-00003 ART-00008 PA
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=759723712)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

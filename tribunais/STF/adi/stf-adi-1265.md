@@ -1,10 +1,10 @@
 # STF · ADI 1265
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1265
-- **Identificador na fonte:** `stf-adi-1265`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1265`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/05/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1265)
 
@@ -16,4 +16,4 @@ REMUNERAÇÃO DE SERVIDORES MEDIANTE PARTICIPAÇÃO NOS VALORES RELATIVOS A TRIB
 
 LEG-FED CF ANO-1988 ART-00037 INC-00013 ART-00167 INC-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LCP-000016 ANO-1992 ART-00023 (ES), REDAÇÃO DA LCP-29/92. LEG-EST LCP-000016 ANO-1992 ART-00023 PAR-00001 PAR-00002 PAR-00003 ART-00024 PAR-00001 PAR-00002 (ES). LEG-EST LCP-000029 ANO-1992 ART-00006 (ES).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

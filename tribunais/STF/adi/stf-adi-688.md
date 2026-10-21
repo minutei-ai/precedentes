@@ -1,10 +1,10 @@
 # STF · ADI 688
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 688
-- **Identificador na fonte:** `stf-adi-688`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-688`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/03/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=688)
 
@@ -20,4 +20,4 @@ Após os votos dos Ministros Relator, Marco Aurélio, Carlos Velloso e Sepúlved
 
 LEG-FED CF ANO-1988 ART-00037 ART-00052 INC-00006 INC-00007 INC-00008 INC-00009 ART-00170 INC-00004 ART-00173 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008388 ANO-1991
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 370
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 370
-- **Identificador na fonte:** `stf-rg-370`
+- **Identificador:** `stf-rg-370`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=370)
@@ -20,4 +20,4 @@ A suspensão de direitos políticos prevista no art. 15, inc. III, da Constitui�
 
 - [601182](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2687885)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

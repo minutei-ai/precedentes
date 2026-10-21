@@ -1,9 +1,9 @@
 # TJPR · IRDR 3
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjpr-irdr-3`
+- **Identificador:** `tjpr-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 25/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=3)
@@ -21,4 +21,4 @@ desta.
 
 - [00167114920168160018](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0016711-49.2016.8.16.0018&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

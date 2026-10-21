@@ -1,9 +1,9 @@
 # STJ · RR 1269
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1269
-- **Identificador na fonte:** `stj-rr-1269`
+- **Identificador:** `stj-rr-1269`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 13/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1269)
@@ -21,4 +21,14 @@ No rito especial que visa apurar a prática de ato infracional, além da audiên
 - [50021538720218210077](https://processo.stj.jus.br/processo/pesquisa/?termo=202302687998&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50011348520208210043](https://processo.stj.jus.br/processo/pesquisa/?termo=202303532798&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Questão
+
+Discute-se se o procedimento que apura ato infracional tem regras  próprias  e  deve  observar apenas  a  oportunidade  de  audiência  de apresentação do adolescente quando oferecida a representação (art. 184 do ECA), ou se, diante da lacuna existente na Lei n. 8.069/1990, existe nulidade quando o Juiz deixa de aplicar, subsidiariamente, o art. 400 do CPP, para, em acréscimo, assegurar o interrogatório como último ato da instrução, após o representado ter conhecimento de todas a provas produzidas contra si.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

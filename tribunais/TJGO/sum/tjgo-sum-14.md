@@ -1,9 +1,9 @@
 # TJGO · SUM 14
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 14
-- **Identificador na fonte:** `tjgo-sum-14`
+- **Identificador:** `tjgo-sum-14`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 07/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=14)
@@ -16,4 +16,4 @@ Não se admite a tese de doença preexistente como negativa do pagamento de segu
 
 - 00021873420118090142
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

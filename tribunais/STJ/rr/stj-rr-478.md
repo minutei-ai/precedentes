@@ -1,9 +1,9 @@
 # STJ · RR 478
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 478
-- **Identificador na fonte:** `stj-rr-478`
+- **Identificador:** `stj-rr-478`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 10/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=478)
@@ -20,4 +20,6 @@ Não incide contribuição previdenciária sobre os valores pagos a título de a
 
 - [00023111620094047108](https://processo.stj.jus.br/processo/pesquisa/?termo=201100096836&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

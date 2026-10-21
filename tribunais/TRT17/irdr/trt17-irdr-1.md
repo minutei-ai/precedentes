@@ -1,9 +1,9 @@
 # TRT17 · IRDR 1
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trt17-irdr-1`
+- **Identificador:** `trt17-irdr-1`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 16/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ Não teve tese firmada
 
 - [00002541320195170000](http://0000254-13.2019.5.17.0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADPF 425
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 425
-- **Identificador na fonte:** `stf-adpf-425`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-425`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/10/2018
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=425)
 
@@ -22,4 +22,4 @@ LEG-FED EMC-000001 ANO-1969 ART-00120 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748530245)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

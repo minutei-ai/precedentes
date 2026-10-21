@@ -1,9 +1,9 @@
 # STJ · CT 486
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 486
-- **Identificador na fonte:** `stj-ct-486`
+- **Identificador:** `stj-ct-486`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=486)
@@ -20,4 +20,14 @@ Interpretação do Tema Repetitivo 995, quanto à sucumbência do Instituto Naci
 - [50301653920184049999](https://processo.stj.jus.br/processo/pesquisa/?termo=202202657992&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50443982320144047108](https://processo.stj.jus.br/processo/pesquisa/?termo=202202652400&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Interpretação do Tema Repetitivo 995, quanto à sucumbência do Instituto Nacional do Seguro Social - INSS, quando não tiver havido oposição ao pedido de reafirmação da Data de Entrada do Requerimento - DER, nas situações em que a demanda também abarcar outros pedidos.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

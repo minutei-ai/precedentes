@@ -1,10 +1,10 @@
 # STF · ADI 566
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 566
-- **Identificador na fonte:** `stf-adi-566`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-566`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 12/09/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=566)
 
@@ -20,4 +20,4 @@ O Tribunal, por votação unânime, não conheceu da ação, prejudicado o reque
 
 LEG-FED CF ANO-1988 ART-00005 "CAPUT" ART-00005 INC-00002 INC-00022 ART-00007 INC-00026 ART-00024 INC-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004771 ANO-1965 ART-00026 LET-E ART-00027 "CAPUT" PAR-ÚNICO CFL-1965 CÓDIGO FLORESTAL LEG-FED LEI-005869 ANO-1973 ART-00267 INC-00004 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-EST DEC-028848 ANO-1988 ART-00001 PAR-ÚNICO (SP) (Redação dada pelo DEC-28895/1988) LEG-EST DEC-028895 ANO-1988 ART-00001 PAR-ÚNICO INC-00005 (SP)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

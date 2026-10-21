@@ -1,9 +1,9 @@
 # STJ · RR 555
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 555
-- **Identificador na fonte:** `stj-rr-555`
+- **Identificador:** `stj-rr-555`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=555)
@@ -22,4 +22,10 @@ A acumulação do auxílio-acidente com proventos de aposentadoria pressupõe qu
 - [90559170720078260000](https://processo.stj.jus.br/processo/pesquisa/?termo=200901821736&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [91876904920058260000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900299638&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRJ · NT 52023
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 52023
-- **Identificador na fonte:** `tjrj-nt-52023`
+- **Identificador:** `tjrj-nt-52023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=52023)
@@ -36,4 +36,4 @@ f) ao Centro de Inteligência do Poder Judiciário - CIPJ, para ciência e provi
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/93577919/225363000/Nota-tecnica-n-05-2023.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

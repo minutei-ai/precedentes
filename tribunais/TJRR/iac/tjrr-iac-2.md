@@ -1,9 +1,9 @@
 # TJRR · IAC 2
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tjrr-iac-2`
+- **Identificador:** `tjrr-iac-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IAC&nr=2)
@@ -20,4 +20,4 @@ A competência dos Juizados Especiais da Fazenda Pública, sendo absoluta, é fi
 
 - 90013290920228230000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

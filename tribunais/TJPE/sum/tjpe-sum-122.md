@@ -1,9 +1,9 @@
 # TJPE · SUM 122
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 122
-- **Identificador na fonte:** `tjpe-sum-122`
+- **Identificador:** `tjpe-sum-122`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=122)
@@ -21,4 +21,4 @@ A Gratificação de Risco de Atividade de Defesa Civil, instituída pela Lei Com
 - [00227968020138170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00227968020138170001)
 - [00133802320158170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00133802320158170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

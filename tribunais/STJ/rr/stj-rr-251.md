@@ -1,9 +1,9 @@
 # STJ · RR 251
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 251
-- **Identificador na fonte:** `stj-rr-251`
+- **Identificador:** `stj-rr-251`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=251)
@@ -20,4 +20,14 @@ A natureza jurídica da remuneração dos serviços de **água** e esgoto, prest
 
 - [00458430320088217000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900740539&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+A natureza jurídica da remuneração dos serviços de água e esgoto, prestados por concessionária de serviço público, é de tarifa ou preço público, consubstanciando, assim, contraprestação de caráter não-tributário, razão pela qual não se subsume ao regime jurídico tributário estabelecido para as taxas.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

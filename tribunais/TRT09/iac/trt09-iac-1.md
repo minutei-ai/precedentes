@@ -1,9 +1,9 @@
 # TRT09 · IAC 1
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt09-iac-1`
+- **Identificador:** `trt09-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=1)
@@ -21,4 +21,4 @@ Competência para a execução de créditos resultantes do ajuizamento da Ação
 
 - [00019069220165090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001906-92.2016.5.09.0000/2#cecb6ea)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

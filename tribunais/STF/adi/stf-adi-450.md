@@ -1,10 +1,10 @@
 # STF · ADI 450
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 450
-- **Identificador na fonte:** `stf-adi-450`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-450`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=450)
 
@@ -20,4 +20,4 @@ O Tribunal, por votação unânime, deferiu a medida cautelar, para suspender o 
 
 LEG-FED CF ANO-1988 ART-00169 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00038 CF-1988. LEG-EST CES ANO-1989 ART-00139 PAR-00003 INC-00001 MT. LEG-EST LCP-000002 ANO-1990 MT. LEG-EST LCP-000003 ANO-1990 ART-00001 PAR-00001 PAR-00002 MT. LEG-EST LCP-000007 ANO-1990 ART-00028 MT. LEG-EST LEI-005439 ANO-1986 ART-00002 MT. LEG-EST LEI-005685 ANO-1990 ART-00001 ART-00002 MT.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

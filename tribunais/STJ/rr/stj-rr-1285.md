@@ -1,9 +1,9 @@
 # STJ · RR 1285
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1285
-- **Identificador na fonte:** `stj-rr-1285`
+- **Identificador:** `stj-rr-1285`
 - **Situação na fonte:** Em julgamento
 - **Atualização informada pela fonte:** 26/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1285)
@@ -17,4 +17,10 @@ Definir se é ou não impenhorável a quantia de até quarenta salários mínimo
 - [00504551620218160000](https://processo.stj.jus.br/processo/pesquisa/?termo=202202276046&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00895714920108210073](https://processo.stj.jus.br/processo/pesquisa/?termo=202201712071&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Em Julgamento
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

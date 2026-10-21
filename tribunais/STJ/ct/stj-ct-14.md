@@ -1,9 +1,9 @@
 # STJ · CT 14
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 14
-- **Identificador na fonte:** `stj-ct-14`
+- **Identificador:** `stj-ct-14`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=14)
@@ -22,4 +22,14 @@ Se o início da contagem dos prazos para obtenção de eventuais benefícios na 
 - [00005129620168110015](https://processo.stj.jus.br/processo/pesquisa/?termo=201700862138&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00059633920158110015](https://processo.stj.jus.br/processo/pesquisa/?termo=201700932346&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Se o início da contagem dos prazos para obtenção de eventuais benefícios na execução da pena é contado do trânsito em julgado de nova condenação do apenado.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

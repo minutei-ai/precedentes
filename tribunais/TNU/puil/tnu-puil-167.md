@@ -1,9 +1,9 @@
 # TNU · PUIL 167
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 167
-- **Identificador na fonte:** `tnu-puil-167`
+- **Identificador:** `tnu-puil-167`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=167)
@@ -20,4 +20,4 @@ Saber se o cálculo do salário de benefício do segurado que contribuiu em raz�
 
 - [50034499520164047201](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50034499520164047201)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

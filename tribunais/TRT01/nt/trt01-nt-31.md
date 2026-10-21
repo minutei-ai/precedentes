@@ -1,9 +1,9 @@
 # TRT01 · NT 31
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 31
-- **Identificador na fonte:** `trt01-nt-31`
+- **Identificador:** `trt01-nt-31`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/12/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=31)
@@ -32,4 +32,4 @@ Rio de Janeiro, 10 de dezembro de 2024.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/html/1001/4326949/Notat%c3%a9cnica2024-0031-C.htm)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

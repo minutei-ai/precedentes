@@ -1,10 +1,10 @@
 # STF · ADI 109
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 109
-- **Identificador na fonte:** `stf-adi-109`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-109`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/10/1989
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=109)
 
@@ -20,4 +20,4 @@ Por unanimidade o Tribunal não conheceu da ação por falta de capacidade postu
 
 LEG-FED CF ANO-1988 ART-00103 INC-00008 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00267 INC-00004 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-004215 ANO-1963 ART-00067 EOAB-1963 ESTATUTO DA ADVOCACIA E ORDEM DOS ADVOGADOS DO BRASIL LEG-FED LEI-007773 ANO-1989 ART-00017
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

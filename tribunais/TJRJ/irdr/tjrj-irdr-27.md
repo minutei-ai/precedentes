@@ -1,9 +1,9 @@
 # TJRJ · IRDR 27
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `tjrj-irdr-27`
+- **Identificador:** `tjrj-irdr-27`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 27/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=27)
@@ -20,4 +20,4 @@ Não há direito à percepção de adicional noturno pela categoria de Policial 
 
 - [00735733720218190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2021.291.00068)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

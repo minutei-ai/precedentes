@@ -1,9 +1,9 @@
 # TST · IRR 214
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 214
-- **Identificador na fonte:** `tst-irr-214`
+- **Identificador:** `tst-irr-214`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 31/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=214)
@@ -20,4 +20,4 @@ A regra contida nos §§ 2º e 3º do art. 2º da CLT, segundo a Lei n. 13.467/1
 
 - [10001354420245020431](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1000135-44.2024.5.02.0431/3#0eb948b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

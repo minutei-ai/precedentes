@@ -1,9 +1,9 @@
 # TRT07 · IRDR 21
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 21
-- **Identificador na fonte:** `trt07-irdr-21`
+- **Identificador:** `trt07-irdr-21`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=21)
@@ -16,4 +16,4 @@ IRDR 0003844-30.2026.5.07.0000- Definir se os recursos públicos repassados à e
 
 - [00038443020265070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0003844-30.2026.5.07.0000/2#d1a1f7b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

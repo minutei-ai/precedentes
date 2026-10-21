@@ -1,9 +1,9 @@
 # TJMG · IRDR 14
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `tjmg-irdr-14`
+- **Identificador:** `tjmg-irdr-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=14)
@@ -20,4 +20,4 @@ A remoção de moradores de área de risco, por si só, não caracteriza desapro
 
 - [00578585520138130079](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10079130057858002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

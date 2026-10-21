@@ -1,9 +1,9 @@
 # TRT04 · OJ 34
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 34
-- **Identificador na fonte:** `trt04-oj-34`
+- **Identificador:** `trt04-oj-34`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=34)
@@ -20,4 +20,4 @@ HORAS EXTRAS. SÚMULA 340 DO TST. COISA JULGADA. Ofende a coisa julgada a preten
 - [00288002020055040004](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/z7evvLar7m_ndNBv5NDrnQ)
 - [00707000520095040016](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/NeMsP3r8Ky0e45uLH2-S4Q)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

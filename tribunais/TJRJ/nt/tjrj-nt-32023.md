@@ -1,9 +1,9 @@
 # TJRJ · NT 32023
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 32023
-- **Identificador na fonte:** `tjrj-nt-32023`
+- **Identificador:** `tjrj-nt-32023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 03/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=32023)
@@ -35,4 +35,4 @@ Por todo o exposto, recomenda-se:
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/d/centro-de-inteligencia/nota-tecnica-n-03-2023)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

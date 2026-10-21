@@ -1,9 +1,9 @@
 # TJMG · IRDR 73
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 73
-- **Identificador na fonte:** `tjmg-irdr-73`
+- **Identificador:** `tjmg-irdr-73`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 01/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=73)
@@ -20,4 +20,4 @@ recurso em que se discute: 1. Possibilidade ou não de reversão do contrato de 
 
 - [60226345020208130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000206022634001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSP · IRDR 19
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 19
-- **Identificador na fonte:** `tjsp-irdr-19`
+- **Identificador:** `tjsp-irdr-19`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=19)
@@ -26,4 +26,4 @@ c) o Município não pode arbitrar previamente a base de cálculo do ITBI com re
 
 - [22435166220178260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=2243516-62.2017&foroNumeroUnificado=0000&dePesquisaNuUnificado=2243516-62.2017.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

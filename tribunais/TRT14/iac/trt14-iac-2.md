@@ -1,9 +1,9 @@
 # TRT14 · IAC 2
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `trt14-iac-2`
+- **Identificador:** `trt14-iac-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 30/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=IAC&nr=2)
@@ -20,4 +20,4 @@ O critério de arbitramento mais adequado para apuração do valor do pensioname
 
 - [00010264720255140000](https://pje.trt14.jus.br/pjekz/processo/107798/detalhe)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

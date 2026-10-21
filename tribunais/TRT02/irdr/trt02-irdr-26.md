@@ -1,9 +1,9 @@
 # TRT02 · IRDR 26
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 26
-- **Identificador na fonte:** `trt02-irdr-26`
+- **Identificador:** `trt02-irdr-26`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 09/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=IRDR&nr=26)
@@ -12,4 +12,4 @@
 
 Honorários sucumbenciais em Embargos de Terceiro
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

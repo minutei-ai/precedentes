@@ -1,9 +1,9 @@
 # TJSP · IRDR 47
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 47
-- **Identificador na fonte:** `tjsp-irdr-47`
+- **Identificador:** `tjsp-irdr-47`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=47)
@@ -21,4 +21,4 @@ https://esaj.tjsp.jus.br/cjsg/getArquivo.do?cdAcordao=15214499&cdForo=0 INCIDENT
 
 - [00264773120218260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI006I27D0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

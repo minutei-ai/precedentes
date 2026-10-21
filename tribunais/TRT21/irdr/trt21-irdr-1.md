@@ -1,9 +1,9 @@
 # TRT21 · IRDR 1
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trt21-irdr-1`
+- **Identificador:** `trt21-irdr-1`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=IRDR&nr=1)
@@ -16,4 +16,4 @@ Se, em relação aos empregados públicos da administração indireta estadual, 
 
 - 00003721120205210010
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 6981
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6981
-- **Identificador na fonte:** `stf-adi-6981`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6981`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/12/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6981)
 
@@ -26,4 +26,4 @@ LEG-FED CF ANO-1988 ART-00049 INC-00009 ART-00071 INC-00002 ART-00075 CF-1988 CO
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=765042609)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

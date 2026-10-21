@@ -1,9 +1,9 @@
 # TRF02 · IRDR 1
 
-- **Tribunal:** TRF02
+- **Órgão:** TRF02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trf02-irdr-1`
+- **Identificador:** `trf02-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf02&tipo=IRDR&nr=1)
@@ -16,4 +16,4 @@ Fixação do juízo competente para o processamento e julgamento de execução f
 
 É absoluta a competência da Justiça Federal para processar e julgar as execuções fiscais propostas por entes federais a partir de 13 de novembro de 2014, data da vigência do art. 75 da Lei nº 13.043/2014, podendo ser declinada a competência à Justiça Estadual, a qualquer tempo, nas ações propostas no foro federal antes daquela data.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

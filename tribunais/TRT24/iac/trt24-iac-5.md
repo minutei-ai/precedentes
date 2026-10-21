@@ -1,9 +1,9 @@
 # TRT24 · IAC 5
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `trt24-iac-5`
+- **Identificador:** `trt24-iac-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IAC&nr=5)
@@ -20,4 +20,4 @@ ACORDO EXTRAJUDICIAL COM CLÁUSULA DE QUITAÇÃO GERAL. PEDIDO DE HOMOLOGAÇÃO 
 
 - [00247853220235240000](https://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024785-32.2023.5.24.0000/2#ae9af8f)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

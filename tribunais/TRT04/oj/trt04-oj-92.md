@@ -1,9 +1,9 @@
 # TRT04 · OJ 92
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 92
-- **Identificador na fonte:** `trt04-oj-92`
+- **Identificador:** `trt04-oj-92`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=92)
@@ -27,4 +27,4 @@ PENHORA. BEM DE FAMÍLIA. IMÓVEL DE ALTO VALOR. O fato de o imóvel possuir alt
 - [00002524620105040024](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/x0YRxaBjDh7nck5tBsXq-Q)
 - [00426008520095040001](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/HRXk5IoKX45Q7Ri88YQedQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

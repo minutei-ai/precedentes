@@ -1,9 +1,9 @@
 # STJ · RR 603
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 603
-- **Identificador na fonte:** `stj-rr-603`
+- **Identificador:** `stj-rr-603`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=603)
@@ -21,4 +21,10 @@ O militar anistiado tem direito a todas as promoções a que faria jus se na ati
 - 00083237820074025101
 - 00216672920074025101
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

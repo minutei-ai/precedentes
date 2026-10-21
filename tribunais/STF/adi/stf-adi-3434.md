@@ -1,10 +1,10 @@
 # STF · ADI 3434
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3434
-- **Identificador na fonte:** `stf-adi-3434`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3434`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/08/2006
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3434)
 
@@ -20,4 +20,4 @@ Após os votos dos Senhores Ministros Joaquim Barbosa (Relator), Ricardo Lewando
 
 LEG-FED CF ANO-1988 ART-00037 INC-00001 INC-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ART-00019 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LEI-009784 ANO-1999 ART-00054 LPA-1999 LEI DE PROCESSO ADMINISTRATIVO LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-EST LCP-000038 ANO-2004 ART-00048 "CAPUT" PAR-ÚNICO ART-00048 "CAPUT" PAR-ÚNICO REDAÇÃO DADA PELA LCP-47/2005 LEI COMPLEMENTAR, PI LEG-EST LCP-000047 ANO-2005 ART-00003 LEI COMPLEMENTAR, PI
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 50
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 50
-- **Identificador na fonte:** `tst-irr-50`
+- **Identificador:** `tst-irr-50`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=50)
@@ -20,4 +20,4 @@ Não são devidas horas "in itinere" aos empregados enquadrados no regime do art
 
 - [00011015120155050012](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0001101-51.2015.5.05.0012/3#f106726)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

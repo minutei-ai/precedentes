@@ -1,9 +1,9 @@
 # TRT11 · IRDR 6
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `trt11-irdr-6`
+- **Identificador:** `trt11-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=6)
@@ -21,4 +21,4 @@ Extinto o Incidente de Resolução de Demandas Repetitivas sem resolução do m�
 - 00007792120235110000
 - 00002884820225110000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 730
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 730
-- **Identificador na fonte:** `stf-adi-730`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-730`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 27/09/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=730)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente a ação e declarou a incon
 
 LEG-FED CF ANO-1988 ART-00005 INC-00036 ART-00037 INC-00010 INC-00015 ART-00096 INC-00002 LET-B ART-00097 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-002335 ANO-1987 LEG-FED RES-000006 ANO-1991 (TRT) DA 9. REGIAO, INCONSTITUCIONALIDADE. LEG-FED RES-000012 ANO-1991 (TRT) DA 9. REGIAO, INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

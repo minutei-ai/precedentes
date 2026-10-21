@@ -1,10 +1,10 @@
 # STF · ADI 791
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 791
-- **Identificador na fonte:** `stf-adi-791`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-791`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/08/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=791)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente, em parte, a ação para de
 
 LEG-FED CF ANO-1988 ART-00135 ART-00241 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES- ART-00147 PAR-00003 (RO), inconstitucionalidade parcial.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

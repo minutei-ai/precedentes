@@ -1,9 +1,9 @@
 # TRT04 · OJ 48
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 48
-- **Identificador na fonte:** `trt04-oj-48`
+- **Identificador:** `trt04-oj-48`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=48)
@@ -20,4 +20,4 @@ REDIRECIONAMENTO DA EXECUÇÃO. SÓCIO-RETIRANTE. A responsabilidade do sócio-r
 - [00703007120035040025](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/0yytyCO28AgJ0NOlpmT-sA)
 - [00078009420015040006](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/nZWREnPaDCUFyF04cnVmQA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1317
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1317
-- **Identificador na fonte:** `stj-rr-1317`
+- **Identificador:** `stj-rr-1317`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1317)
@@ -21,4 +21,10 @@ A extinção dos embargos à execução fiscal em face da desistência ou da ren
 - [00038315520178130153](https://processo.stj.jus.br/processo/pesquisa/?termo=202402646011&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50234958320178130024](https://processo.stj.jus.br/processo/pesquisa/?termo=202402665763&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Acórdão Publicado - RE Pendente
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

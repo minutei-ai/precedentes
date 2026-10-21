@@ -1,9 +1,9 @@
 # TJRJ · IRDR 3
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjrj-irdr-3`
+- **Identificador:** `tjrj-irdr-3`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ O adicional de produtividade de trânsito, previsto no art. 62, X, da Lei nº 05
 
 - [00234848320168190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2016.291.00030)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

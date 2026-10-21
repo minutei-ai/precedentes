@@ -1,9 +1,9 @@
 # TRT18 · IRDR 25
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `trt18-irdr-25`
+- **Identificador:** `trt18-irdr-25`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=25)
@@ -20,4 +20,4 @@ EMPREGADOS PÚBLICOS DA EXTINTA CAIXEGO. LEI ESTADUAL Nº17.098/2010. PROMOÇÃO
 
 - [00109423620215180000](https://sistemas.trt18.jus.br/consultasPortal/pages/Processuais/DetalhaProcesso.seam?p_num_pje=159352&p_grau_pje=2&popup=0&cid=14895)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

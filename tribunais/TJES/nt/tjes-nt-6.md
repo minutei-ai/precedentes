@@ -1,9 +1,9 @@
 # TJES · NT 6
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `tjes-nt-6`
+- **Identificador:** `tjes-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=NT&nr=6)
@@ -22,4 +22,4 @@ Essa diversidade de posturas, embora compreensível diante das peculiaridades de
 
 - [Link Nota Técnica](https://www.tjes.jus.br/wp-content/uploads/NOTA-TeCNICA-06.2025-MOMENTO-DO-DESSOBRESTAMENTO-PROCESSUAL.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 6321
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6321
-- **Identificador na fonte:** `stf-adi-6321`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6321`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 21/12/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6321)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00025 ART-00042 ART-00061 PAR-00001 INC-00002 LET-F ART-
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754993565)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

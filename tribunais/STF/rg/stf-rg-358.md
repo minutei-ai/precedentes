@@ -1,9 +1,9 @@
 # STF · RG 358
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 358
-- **Identificador na fonte:** `stf-rg-358`
+- **Identificador:** `stf-rg-358`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=358)
@@ -20,4 +20,4 @@ A competência constitucional do tribunal para decidir sobre a perda do posto e 
 
 - [601146](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2687755)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

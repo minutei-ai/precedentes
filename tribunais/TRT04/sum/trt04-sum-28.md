@@ -1,9 +1,9 @@
 # TRT04 · SUM 28
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 28
-- **Identificador na fonte:** `trt04-sum-28`
+- **Identificador:** `trt04-sum-28`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=28)
@@ -27,4 +27,4 @@ RFFSA. CONTRATO DE CONCESSÃO DE SERVIÇO PÚBLICO. RESPONSABILIDADE TRABALHISTA
 - [00218009319975040021](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/t92lCSSDeg92owoLCTA7Uw)
 - [01062008119975040751](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/fWo3rh0MdeNHLjmPzPvntg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · OJ 44
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 44
-- **Identificador na fonte:** `trt04-oj-44`
+- **Identificador:** `trt04-oj-44`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=44)
@@ -19,4 +19,4 @@ REQUISIÇÃO DE PEQUENO VALOR. LIMITE. O valor máximo que delimita a requisiç�
 - [00839008620085040122](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/upkxKTLDIW_dIE3XovvYlQ)
 - [00453005920095040122](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/3s72xNVTL2LTn7hIeaSi5A)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

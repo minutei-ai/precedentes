@@ -1,10 +1,10 @@
 # STF · ADI 9
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 9
-- **Identificador na fonte:** `stf-adi-9`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-9`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 27/03/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=9)
 
@@ -20,4 +20,4 @@ Por votação unãnime, o Tribunal não conheceu da ação, por impossibilidade 
 
 LEG-FED EMC-000001 ANO-1969 ART-00055 INC-00002 CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00195 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-002445 ANO-1988
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

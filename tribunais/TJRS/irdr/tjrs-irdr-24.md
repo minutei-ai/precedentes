@@ -1,9 +1,9 @@
 # TJRS · IRDR 24
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 24
-- **Identificador na fonte:** `tjrs-irdr-24`
+- **Identificador:** `tjrs-irdr-24`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=24)
@@ -16,4 +16,4 @@ Competência do Juizado Especial da Fazenda Pública e Juizado da Infância e Ju
 
 NÃO FOI FIXADA TESE. IRDR PREJUDICADO, POR MAIORIA.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

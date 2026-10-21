@@ -1,9 +1,9 @@
 # TRT22 · IRDR 25
 
-- **Tribunal:** TRT22
+- **Órgão:** TRT22
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `trt22-irdr-25`
+- **Identificador:** `trt22-irdr-25`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 21/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt22&tipo=IRDR&nr=25)
@@ -22,4 +22,4 @@ b) para a Fazenda Pública: correção monetária e juros de mora conforme decis
   
 c) incide a coisa julgada formada a respeito dos critérios a serem observados na atualização da indenização por dano extrapatrimonial, desde que haja expressa fixação dos critérios e índices de correção monetária e juros."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT22/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

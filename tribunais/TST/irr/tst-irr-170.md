@@ -1,9 +1,9 @@
 # TST · IRR 170
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 170
-- **Identificador na fonte:** `tst-irr-170`
+- **Identificador:** `tst-irr-170`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=170)
@@ -20,4 +20,4 @@ O protesto judicial previsto no art. 202, II, do Código Civil, continua a ser c
 
 - [00102097120235030112](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0010209-71.2023.5.03.0112/3#5934099)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

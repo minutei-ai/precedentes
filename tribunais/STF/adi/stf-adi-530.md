@@ -1,10 +1,10 @@
 # STF · ADI 530
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 530
-- **Identificador na fonte:** `stf-adi-530`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-530`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/09/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=530)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal não conheceu da ação e, em consequência, 
 
 LEG-FED LEI-008112 ANO-1990 ART-00231 PAR-00001 ART-00249 RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS LEG-FED LEI-008162 ANO-1991 ART-00008 ART-00009 ART-00010
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

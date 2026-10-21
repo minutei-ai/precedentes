@@ -1,10 +1,10 @@
 # STF · ADI 2542
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2542
-- **Identificador na fonte:** `stf-adi-2542`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2542`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 16/10/2017
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2542)
 
@@ -22,4 +22,4 @@ LEG-EST LEI-011644 ANO-2000 LEI ORDINÁRIA, SC LEG-EST LEI-015327 ANO-2010 LEI O
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=13947506)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

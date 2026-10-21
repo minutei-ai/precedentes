@@ -1,9 +1,9 @@
 # STJ · RR 300
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 300
-- **Identificador na fonte:** `stj-rr-300`
+- **Identificador:** `stj-rr-300`
 - **Situação na fonte:** Sobrestado (outro motivo)
 - **Atualização informada pela fonte:** 30/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=300)
@@ -21,4 +21,10 @@ Questão referente ao prazo prescricional prescrição aplicável para o ajuizam
 - [00469453220078070001](https://processo.stj.jus.br/processo/pesquisa/?termo=200802831784&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [91723003420088260000](https://processo.stj.jus.br/processo/pesquisa/?termo=200901486533&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Sobrestado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

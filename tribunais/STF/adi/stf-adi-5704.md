@@ -1,10 +1,10 @@
 # STF · ADI 5704
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5704
-- **Identificador na fonte:** `stf-adi-5704`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5704`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/10/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5704)
 
@@ -22,4 +22,4 @@ LEG-EST LCP-000021 ANO-1991 ART-0001I ART-00005 PAR-00001 LEI COMPLEMENTAR, MG L
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=765042606)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

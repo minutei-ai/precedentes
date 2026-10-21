@@ -1,9 +1,9 @@
 # TJGO · IRDR 42
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 42
-- **Identificador na fonte:** `tjgo-irdr-42`
+- **Identificador:** `tjgo-irdr-42`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 20/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=42)
@@ -21,4 +21,4 @@ Dirimir e uniformizar a controvérsia quanto a adequada atribuição do valor à
 - 54810934420238090051
 - 51021987920228090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

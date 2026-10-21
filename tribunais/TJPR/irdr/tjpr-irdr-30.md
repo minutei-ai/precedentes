@@ -1,9 +1,9 @@
 # TJPR · IRDR 30
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 30
-- **Identificador na fonte:** `tjpr-irdr-30`
+- **Identificador:** `tjpr-irdr-30`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=30)
@@ -20,4 +20,4 @@ A pessoa presa é parte legítima para figurar no polo ativo de demanda ajuizada
 
 - [00551987420188160000](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0055198-74.2018.8.16.0000&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

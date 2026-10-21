@@ -1,10 +1,10 @@
 # STF · ADI 2054
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2054
-- **Identificador na fonte:** `stf-adi-2054`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2054`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/04/2003
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2054)
 
@@ -20,4 +20,4 @@ Após o voto do Senhor Ministro Ilmar Galvão, Relator, acolhendo o pedido formu
 
 LEG-FED CF ANO-1946 ART-00141 PAR-00012 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF-000001 ANO-1967 ART-00153 PAR-00028 (Redação dada pela EMC-1/1969) CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00005 INC-00017 INC-00018 INC-00020 INC-00021 INC-00022 INC-00027 INC-00028 LET-A LET-B ART-00173 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 LEG-FED LEI-005988 ANO-1973 ART-00115 (Revogada pela Lei dos Direitos Autorais - 1998) LDA-1973 LEI DO DIREITO AUTORAL LEG-FED LEI-009610 ANO-1998 ART-00023 ART-00028 ART-00097 PAR-00001 PAR-00002 PAR-00003 ART-00098 PAR-ÚNICO ART-00099 PAR-00001 PAR-00002 PAR-00003 PAR-00004 LDA-1998 LEI DO DIREITO AUTORAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

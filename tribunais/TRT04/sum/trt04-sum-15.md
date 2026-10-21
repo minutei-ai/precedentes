@@ -1,9 +1,9 @@
 # TRT04 · SUM 15
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 15
-- **Identificador na fonte:** `trt04-sum-15`
+- **Identificador:** `trt04-sum-15`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=15)
@@ -22,4 +22,4 @@ CEEE . COMPLEMENTAÇÃO DE APOSENTADORIA. GRATIFICAÇÃO DE FÉRIAS. A gratifica
 - [67395003019965040002](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/lB87-K6TDdd8Vfeiw-YA-A)
 - [00033008919955040007](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/JCMUF_j1J5v6iC5XBWd8UA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

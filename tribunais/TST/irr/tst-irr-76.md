@@ -1,9 +1,9 @@
 # TST · IRR 76
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 76
-- **Identificador na fonte:** `tst-irr-76`
+- **Identificador:** `tst-irr-76`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=76)
@@ -20,4 +20,4 @@ O cálculo da pensão mensal incidente sobre a remuneração do trabalhador ser�
 
 - [00003404620235200004](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000340-46.2023.5.20.0004/3#bcaa9cb)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

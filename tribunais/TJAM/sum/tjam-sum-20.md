@@ -1,9 +1,9 @@
 # TJAM · SUM 20
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Súmula
 - **Número:** 20
-- **Identificador na fonte:** `tjam-sum-20`
+- **Identificador:** `tjam-sum-20`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/12/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=SUM&nr=20)
@@ -16,4 +16,4 @@ Inexiste direito subjetivo do sentenciado ou obrigatoriedade do julgador na ado�
 
 - [06615765120238040001](https://consultasaj.tjam.jus.br/cposgcr/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0661576-51.2023&foroNumeroUnificado=0001&dePesquisaNuUnificado=0661576-51.2023.8.04.0001&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

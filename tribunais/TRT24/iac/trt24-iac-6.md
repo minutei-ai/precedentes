@@ -1,9 +1,9 @@
 # TRT24 · IAC 6
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `trt24-iac-6`
+- **Identificador:** `trt24-iac-6`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 13/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IAC&nr=6)
@@ -20,4 +20,4 @@ USO DE MOTOCICLETA PARA DESLOCAMENTO EM SERVIÇO. ADICIONAL DE PERICULOSIDADE. P
 
 - [00240471020245240000](https://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024047-10.2024.5.24.0000/2#8362597)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

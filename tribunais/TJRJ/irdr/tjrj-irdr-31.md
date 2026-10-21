@@ -1,9 +1,9 @@
 # TJRJ · IRDR 31
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 31
-- **Identificador na fonte:** `tjrj-irdr-31`
+- **Identificador:** `tjrj-irdr-31`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=31)
@@ -20,4 +20,4 @@ Definição do cabimento ou não da inclusão da Águas do Rio, bem como sua leg
 
 - [00249437620238190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2023.291.00010)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

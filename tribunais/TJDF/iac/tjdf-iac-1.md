@@ -1,9 +1,9 @@
 # TJDF · IAC 1
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjdf-iac-1`
+- **Identificador:** `tjdf-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 29/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=IAC&nr=1)
@@ -21,4 +21,4 @@ Judiciais, Insolvência Civil e Litígios Empresariais do Distrito Federal.
 
 - 07211589820238070000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

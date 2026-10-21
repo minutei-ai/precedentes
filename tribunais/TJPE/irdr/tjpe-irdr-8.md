@@ -1,9 +1,9 @@
 # TJPE · IRDR 8
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `tjpe-irdr-8`
+- **Identificador:** `tjpe-irdr-8`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 03/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IRDR&nr=8)
@@ -17,4 +17,4 @@
 - [00545009420248179000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00545009420248179000)
 - [00460858620198172990](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00460858620198172990)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

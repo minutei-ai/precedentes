@@ -1,9 +1,9 @@
 # TRT14 · NT 1
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `trt14-nt-1`
+- **Identificador:** `trt14-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=1)
@@ -27,4 +27,4 @@ mesma(s) parte(s) executada(s), a fi
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2022-08/Assinado_Nota%20T%C3%A9cnica%20TRT14-CI%20n.%2001-2022_Otimiza%C3%A7%C3%A3o%20do%20Cumprimento%20de%20Senten%C3%A7a_1.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

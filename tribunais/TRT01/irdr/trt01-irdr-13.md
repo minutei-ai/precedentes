@@ -1,9 +1,9 @@
 # TRT01 · IRDR 13
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `trt01-irdr-13`
+- **Identificador:** `trt01-irdr-13`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IRDR&nr=13)
@@ -16,4 +16,4 @@ CONTRATO DE EXPERIÊNCIA. NOVA EMPRESA DE TRABALHO TEMPORÁRIO. CONTRATAÇÃO DE
 
 - [01002749020185010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0100274-90.2018.5.01.0000/2#fe4227e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

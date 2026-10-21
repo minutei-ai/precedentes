@@ -1,9 +1,9 @@
 # TJMS · NT 2
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `tjms-nt-2`
+- **Identificador:** `tjms-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=2)
@@ -41,4 +41,4 @@ O primeiro item a ser tratado refere-se ao funcionamento do SUS, que, como citad
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/7a45e55b88a500e79750972a1222e745.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

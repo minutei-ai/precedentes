@@ -1,9 +1,9 @@
 # TRT24 · NT 14
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 14
-- **Identificador na fonte:** `trt24-nt-14`
+- **Identificador:** `trt24-nt-14`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/02/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=14)
@@ -51,4 +51,4 @@ uniformização da jurisprudência deste tribunal relativamente à questão deba
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+14.2023.pdf/7dc7fb0d-c88a-28e7-d6e7-f46ead5cbe7d?t=1676378906480)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

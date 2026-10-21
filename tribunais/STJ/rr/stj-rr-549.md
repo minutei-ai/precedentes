@@ -1,9 +1,9 @@
 # STJ · RR 549
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 549
-- **Identificador na fonte:** `stj-rr-549`
+- **Identificador:** `stj-rr-549`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=549)
@@ -20,4 +20,10 @@ Discute-se o direito dos Auditores Fiscais da Receita Federal referente à fixa�
 
 - 00040276420114050000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

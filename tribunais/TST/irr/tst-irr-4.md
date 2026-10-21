@@ -1,9 +1,9 @@
 # TST · IRR 4
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 4
-- **Identificador na fonte:** `tst-irr-4`
+- **Identificador:** `tst-irr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=4)
@@ -20,4 +20,4 @@ A multa coercitiva do art. 523, § 1º, do CPC de 2015 (art. 475-J do CPC de 197
 
 - [00017862420155040000](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=1786&digitoTst=24&anoTst=2015&orgaoTst=5&tribunalTst=04&varaTst=0000&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

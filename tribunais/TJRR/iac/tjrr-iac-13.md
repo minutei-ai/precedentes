@@ -1,9 +1,9 @@
 # TJRR · IAC 13
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 13
-- **Identificador na fonte:** `tjrr-iac-13`
+- **Identificador:** `tjrr-iac-13`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IAC&nr=13)
@@ -23,4 +23,4 @@ prevista no art. 930 do CPC e no art. 73 do RITJRR
 
 - 08291276920218230010
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF04 · IRDR 18
 
-- **Tribunal:** TRF04
+- **Órgão:** TRF04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trf04-irdr-18`
+- **Identificador:** `trf04-irdr-18`
 - **Situação na fonte:** Acórdão Publicado (RESP Pendente)
 - **Atualização informada pela fonte:** 26/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf04&tipo=IRDR&nr=18)
@@ -21,4 +21,4 @@ Nos processos em trâmite nos Juizados Especiais Federais, na Justiça Federal e
 - [50443617220174040000](http://www.trf4.jus.br/trf4/processos/acompanhamento/resultado_pesquisa.php?selForma=NU&selOrigem=RS&txtValor=)
 - [50486972220174040000](http://www.trf4.jus.br/trf4/processos/acompanhamento/resultado_pesquisa.php?selForma=NU&selOrigem=RS&txtValor=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

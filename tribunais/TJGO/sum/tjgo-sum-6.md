@@ -1,9 +1,9 @@
 # TJGO · SUM 6
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 6
-- **Identificador na fonte:** `tjgo-sum-6`
+- **Identificador:** `tjgo-sum-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 08/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=6)
@@ -16,4 +16,4 @@ Para fazer jus ao recebimento da pensão especial de que trata a Lei Estadual n�
 
 - 00723389220138090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

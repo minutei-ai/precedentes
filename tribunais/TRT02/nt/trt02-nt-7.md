@@ -1,9 +1,9 @@
 # TRT02 · NT 7
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `trt02-nt-7`
+- **Identificador:** `trt02-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=NT&nr=7)
@@ -44,4 +44,4 @@ de reuniões ou audiências conciliatórias para atenuar ou coibir a postura pre
 
 - [Link Nota Técnica](https://basis.trt2.jus.br/handle/123456789/16363)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

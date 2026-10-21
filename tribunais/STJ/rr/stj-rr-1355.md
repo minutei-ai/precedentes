@@ -1,9 +1,9 @@
 # STJ · RR 1355
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1355
-- **Identificador na fonte:** `stj-rr-1355`
+- **Identificador:** `stj-rr-1355`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 19/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1355)
@@ -21,4 +21,10 @@ Por força da incidência do princípio da especialidade, aplica-se a fração d
 - [00041148020228260496](https://processo.stj.jus.br/processo/pesquisa/?termo=202301744376&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00205410920228260576](https://processo.stj.jus.br/processo/pesquisa/?termo=202302777265&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

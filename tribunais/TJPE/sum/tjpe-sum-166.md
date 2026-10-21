@@ -1,9 +1,9 @@
 # TJPE · SUM 166
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 166
-- **Identificador na fonte:** `tjpe-sum-166`
+- **Identificador:** `tjpe-sum-166`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=166)
@@ -19,4 +19,4 @@ Na repetição do indébito tributário municipal, deve ser empregado como fator
 - [00019940320098170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00019940320098170001)
 - [00002201120118170730](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00002201120118170730)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

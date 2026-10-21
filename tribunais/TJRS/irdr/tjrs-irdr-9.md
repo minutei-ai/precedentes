@@ -1,9 +1,9 @@
 # TJRS · IRDR 9
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjrs-irdr-9`
+- **Identificador:** `tjrs-irdr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=9)
@@ -16,4 +16,4 @@ Uniformização da cobrança de custas e despesas de precatórias relativas ao E
 
 Nas ações ajuizadas sob a vigência da Lei nº 8.121/85, concernentes ao direito à saúde, em que o ente municipal e o Estado são demandados em litisconsórcio passivo facultativo, restando sucumbentes, o Estado é o único ente responsável pelo pagamento das despesas processuais relativas a emissão de precatórias para sua citação e intimações. Todavia, transitada em julgado a sentença que decide de forma diversa, inviável a rediscussão da questão na fase de cumprimento, diante dos efeitos da coisa julgada.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

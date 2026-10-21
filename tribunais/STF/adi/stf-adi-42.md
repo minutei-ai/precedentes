@@ -1,10 +1,10 @@
 # STF · ADI 42
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 42
-- **Identificador na fonte:** `stf-adi-42`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-42`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/09/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=42)
 
@@ -20,4 +20,4 @@ Decisão: Após o voto do Ministro Relator, que julgava extinto o processo por f
 
 LEG-FED CF ANO-1988 ART-00005 INC-00070 LET-B INC-00071 PAR-00001 ART-00034 INC-00007 ART-00060 PAR-00004 ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-005452 ANO-1943 ART-00511 ART-00533 ART-00535 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED LEI-006385 ANO-1976 ART-00022
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

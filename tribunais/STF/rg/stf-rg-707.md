@@ -1,9 +1,9 @@
 # STF · RG 707
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 707
-- **Identificador na fonte:** `stf-rg-707`
+- **Identificador:** `stf-rg-707`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=707)
@@ -20,4 +20,4 @@ Revela-se constitucional o artigo 3º, § 3º, incisos I e II, da Lei nº 10.637
 
 - [698531](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4268655)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 116
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 116
-- **Identificador na fonte:** `tst-irr-116`
+- **Identificador:** `tst-irr-116`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=116)
@@ -16,4 +16,4 @@ O regime de desoneração previdenciária, previsto na Lei nº 12.546/2011, inci
 
 - [10009184020215020011](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1000918-40.2021.5.02.0011/3#ac71e7f)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

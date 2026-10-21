@@ -1,10 +1,10 @@
 # STF · ADI 1830
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1830
-- **Identificador na fonte:** `stf-adi-1830`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1830`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 12/06/2002
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1830)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00007 INC-00004 ART-00201 PAR-00002 CF-1988 CONSTITUIÇ�
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=975)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

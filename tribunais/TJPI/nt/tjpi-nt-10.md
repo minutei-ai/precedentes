@@ -1,9 +1,9 @@
 # TJPI · NT 10
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `tjpi-nt-10`
+- **Identificador:** `tjpi-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=NT&nr=10)
@@ -66,4 +66,4 @@ Destarte, a criação de um portal centralizando todos os sistemas pode auxiliar
 
 - [Link Nota Técnica](https://www.tjpi.jus.br/portaltjpi/nugep/cijepi/notas-tecnicas/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

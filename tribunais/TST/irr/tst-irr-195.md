@@ -1,9 +1,9 @@
 # TST · IRR 195
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 195
-- **Identificador na fonte:** `tst-irr-195`
+- **Identificador:** `tst-irr-195`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 21/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=195)
@@ -18,4 +18,4 @@ A Empresa Brasileira de Serviços Hospitalares (EBSERH) faz jus às prerrogativa
 - [00009658920235200001](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000965-89.2023.5.20.0001/3)
 - [00207421220215040701](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020742-12.2021.5.04.0701/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

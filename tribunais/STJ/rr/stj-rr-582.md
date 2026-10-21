@@ -1,9 +1,9 @@
 # STJ · RR 582
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 582
-- **Identificador na fonte:** `stj-rr-582`
+- **Identificador:** `stj-rr-582`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=582)
@@ -21,4 +21,10 @@ A Lei n. 11.907/2009, que (...) produziu efeitos financeiros retroativos a 1/7/2
 - [50022615820114047002](https://processo.stj.jus.br/processo/pesquisa/?termo=201201921540&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50019446020114047002](https://processo.stj.jus.br/processo/pesquisa/?termo=201201921474&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

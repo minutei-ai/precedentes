@@ -1,9 +1,9 @@
 # TRT04 · OJ 22
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 22
-- **Identificador na fonte:** `trt04-oj-22`
+- **Identificador:** `trt04-oj-22`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=22)
@@ -18,4 +18,4 @@ EMPRESA PIRELLI PNEUS. ADICIONAL DE PERICULOSIDADE. BASE DE CÁLCULO. A base de 
 - [01641007520075040232](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/QGXl-G4R96al6KGESbvNRw)
 - [00001768020105040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/FNOGNdo9lb4sSMyyjOLLrQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

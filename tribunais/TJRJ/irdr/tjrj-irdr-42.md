@@ -1,9 +1,9 @@
 # TJRJ · IRDR 42
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 42
-- **Identificador na fonte:** `tjrj-irdr-42`
+- **Identificador:** `tjrj-irdr-42`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 30/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=42)
@@ -20,4 +20,4 @@ A progressão nos cargos listados pelo Anexo I da Lei Complementar 196/2011 dá-
 
 - [00914926820238190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2023.291.00065)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

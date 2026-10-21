@@ -1,9 +1,9 @@
 # TJPR · IRDR 50
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 50
-- **Identificador na fonte:** `tjpr-irdr-50`
+- **Identificador:** `tjpr-irdr-50`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 12/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=50)
@@ -16,4 +16,4 @@ Possibilidade de inclusão do Adicional por Tempo de Serviço (ATS) - previsto n
 
 - [00157691920228160014](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0015769-19.2022.8.16.0014 )
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

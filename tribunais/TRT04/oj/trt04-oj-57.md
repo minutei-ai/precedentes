@@ -1,9 +1,9 @@
 # TRT04 · OJ 57
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 57
-- **Identificador na fonte:** `trt04-oj-57`
+- **Identificador:** `trt04-oj-57`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=57)
@@ -17,4 +17,4 @@ AGRAVO DE PETIÇÃO. HONORÁRIOS ADVOCATÍCIOS/ASSISTENCIAIS. PARCELAS VINCENDAS
 - [00003126420115040030](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/Nb_O3Jj0hO-x04dHEuHOKQ)
 - [00005450720105040512](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/Q8ioITCTvlejQFWalayyzQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

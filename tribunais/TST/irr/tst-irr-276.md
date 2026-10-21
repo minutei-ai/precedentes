@@ -1,9 +1,9 @@
 # TST · IRR 276
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 276
-- **Identificador na fonte:** `tst-irr-276`
+- **Identificador:** `tst-irr-276`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=276)
@@ -16,4 +16,4 @@ EMPREGADO DE COOPERATIVA DE CRÉDITO. BANCÁRIO. EQUIPARAÇÃO. IMPOSSIBILIDADE.
 
 - [00200652420225040611](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020065-24.2022.5.04.0611)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

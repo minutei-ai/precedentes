@@ -1,9 +1,9 @@
 # STJ · RR 1084
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1084
-- **Identificador na fonte:** `stj-rr-1084`
+- **Identificador:** `stj-rr-1084`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1084)
@@ -21,4 +21,10 @@ Reconhecimento da retroatividade das alterações promovidas pela Lei n. 13.964/
 - [10165403120208110000](https://processo.stj.jus.br/processo/pesquisa/?termo=202100243082&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [45077014920208130000](https://processo.stj.jus.br/processo/pesquisa/?termo=202003260024&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

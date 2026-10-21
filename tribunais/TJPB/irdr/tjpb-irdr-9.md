@@ -1,9 +1,9 @@
 # TJPB · IRDR 9
 
-- **Tribunal:** TJPB
+- **Órgão:** TJPB
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjpb-irdr-9`
+- **Identificador:** `tjpb-irdr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 31/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=9)
@@ -20,4 +20,4 @@ I - As praças beneficiadas com a promoção à graduação de 3º Sargento PM/B
 
 - [08126133020208150000](https://www.tjpb.jus.br/nugep/irdr)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

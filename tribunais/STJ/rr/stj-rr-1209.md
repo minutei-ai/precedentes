@@ -1,9 +1,9 @@
 # STJ · RR 1209
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1209
-- **Identificador na fonte:** `stj-rr-1209`
+- **Identificador:** `stj-rr-1209`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1209)
@@ -20,4 +20,6 @@ Definição acerca da (in)compatibilidade do Incidente de Desconsideração de P
 - [00220157920164030000](https://processo.stj.jus.br/processo/pesquisa/?termo=202203401762&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50005034020204020000](https://processo.stj.jus.br/processo/pesquisa/?termo=202202165930&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

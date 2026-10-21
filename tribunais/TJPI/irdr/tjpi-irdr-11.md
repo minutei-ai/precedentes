@@ -1,9 +1,9 @@
 # TJPI · IRDR 11
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjpi-irdr-11`
+- **Identificador:** `tjpi-irdr-11`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 06/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=11)
@@ -16,4 +16,4 @@ A matéria objeto do IRDR, destina à análise das seguintes controvérsias: I �
 
 - 08066398320268180140
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

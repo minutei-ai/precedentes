@@ -1,9 +1,9 @@
 # TRT13 · IAC 11
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 11
-- **Identificador na fonte:** `trt13-iac-11`
+- **Identificador:** `trt13-iac-11`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 10/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=11)
@@ -21,4 +21,4 @@ Apreciação acerca de eventual superação da tese jurídica firmada no IAC nº
 - [00011583920225130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0001158-39.2022.5.13.0000/2#656c421)
 - [00001980320255130025](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000198-03.2025.5.13.0025/2#5cccef9)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

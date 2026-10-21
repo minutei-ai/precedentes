@@ -1,9 +1,9 @@
 # TRT17 · IRDR 13
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `trt17-irdr-13`
+- **Identificador:** `trt17-irdr-13`
 - **Situação na fonte:** Sobrestado por tema do TST
 - **Atualização informada pela fonte:** 24/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=IRDR&nr=13)
@@ -17,4 +17,4 @@ IRDR 0001906-26.2023.5.17.0000 - Tema: Equiparação das hipóteses de risco pre
 - 00019062620235170000
 - 00008252720235170005
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

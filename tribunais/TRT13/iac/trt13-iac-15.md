@@ -1,9 +1,9 @@
 # TRT13 · IAC 15
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 15
-- **Identificador na fonte:** `trt13-iac-15`
+- **Identificador:** `trt13-iac-15`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 19/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=15)
@@ -23,4 +23,4 @@ A validade das escalas de trabalho 24x72 ou 24x96 está condicionada, ou não, �
 - [00011318220255130022](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0001131-82.2025.5.13.0022/2#bd62068)
 - [00002252720265130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000225-27.2026.5.13.0000/2#409e086)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

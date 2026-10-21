@@ -1,9 +1,9 @@
 # TJSP · SUM 112
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 112
-- **Identificador na fonte:** `tjsp-sum-112`
+- **Identificador:** `tjsp-sum-112`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=112)
@@ -16,4 +16,4 @@ Nos conflitos de competência, julgados pela Câmara Especial, a remoção do Ju
 
 - [00085806820138260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0008580-68.2013&foroNumeroUnificado=0000&dePesquisaNuUnificado=0008580-68.2013.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

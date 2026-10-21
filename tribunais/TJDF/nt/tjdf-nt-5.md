@@ -1,9 +1,9 @@
 # TJDF · NT 5
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `tjdf-nt-5`
+- **Identificador:** `tjdf-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 06/07/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=NT&nr=5)
@@ -31,4 +31,4 @@ No plantão judicial, em 15 de janeiro de 2020, o Ministro Dias Toffoli concedeu
 
 - [Link Nota Técnica](https://www.tjdft.jus.br/consultas/notas-tecnicas/nota-tecnica-5-2021.pdf/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

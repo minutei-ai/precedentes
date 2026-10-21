@@ -1,9 +1,9 @@
 # TJES · IRDR 44
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 44
-- **Identificador na fonte:** `tjes-irdr-44`
+- **Identificador:** `tjes-irdr-44`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=44)
@@ -20,4 +20,4 @@ A aposentadoria voluntária do servidor público pelo RGPS, quando decorrente da
 
 - [00385524620128080024](http://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0038552-46.2012.8.08.0024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

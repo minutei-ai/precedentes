@@ -1,9 +1,9 @@
 # STJ · IAC 8
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `stj-iac-8`
+- **Identificador:** `stj-iac-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=IAC&nr=8)
@@ -20,4 +20,10 @@ Reconhecimento da legalidade de cobrança promovida por concessionária de rodov
 
 - [30033065320138260071](https://processo.stj.jus.br/processo/pesquisa/?termo=201702383897&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 1239
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1239
-- **Identificador na fonte:** `stf-rg-1239`
+- **Identificador:** `stf-rg-1239`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1239)
@@ -20,4 +20,4 @@ Não tem direito à indenização de férias prêmio o servidor estadual cujo v�
 
 - [1400775](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6475695)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMG · IRDR 97
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 97
-- **Identificador na fonte:** `tjmg-irdr-97`
+- **Identificador:** `tjmg-irdr-97`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 03/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=97)
@@ -20,4 +20,4 @@ recurso em que se discute se é possível concessão de liminar de reintegraçã
 
 - [07604988120238130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000222975765002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

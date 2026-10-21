@@ -1,9 +1,9 @@
 # TJRS · IRDR 29
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 29
-- **Identificador na fonte:** `tjrs-irdr-29`
+- **Identificador:** `tjrs-irdr-29`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=29)
@@ -16,4 +16,4 @@ Controvérsia acerca do recurso que seria processualmente cabível a desafiar as
 
 Cabe recurso de apelação em face de sentença proferida nos processos de ação de embargos à execução de título extrajudicial mesmo nas hipóteses de parcial procedência e de improcedência dos pedidos.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

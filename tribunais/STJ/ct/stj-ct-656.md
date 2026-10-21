@@ -1,9 +1,9 @@
 # STJ · CT 656
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 656
-- **Identificador na fonte:** `stj-ct-656`
+- **Identificador:** `stj-ct-656`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=656)
@@ -22,4 +22,14 @@
 - [11238872920228260100](https://processo.stj.jus.br/processo/pesquisa/?termo=202403248613&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08094027220238205001](https://processo.stj.jus.br/processo/pesquisa/?termo=202403235408&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+(Im)possibilidade de plano de saúde limitar ou recusar a cobertura de terapia multidisciplinar, prescrita ao paciente portador do transtorno do espectro autista, não prevista no rol da Agência Nacional de Saúde Suplementar (ANS).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

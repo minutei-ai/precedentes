@@ -1,9 +1,9 @@
 # TJRJ · NT 32024
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 32024
-- **Identificador na fonte:** `tjrj-nt-32024`
+- **Identificador:** `tjrj-nt-32024`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=32024)
@@ -26,4 +26,4 @@ c) Em caso positivo, que as ações sejam reunidas, de modo a facilitar o julgam
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/d/centro-de-inteligencia/nota-tecnica-n-03-2024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

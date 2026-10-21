@@ -1,9 +1,9 @@
 # TRT24 · IRDR 2
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `trt24-irdr-2`
+- **Identificador:** `trt24-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IRDR&nr=2)
@@ -16,4 +16,4 @@ Aplicação da Súmula 331, IV, V, e VI do Colendo TST, e da Lei 8.666/93, no qu
 
 - [00240263920215240000](https://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024026-39.2021.5.24.0000/2#b3ec830)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

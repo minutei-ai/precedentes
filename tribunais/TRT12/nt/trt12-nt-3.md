@@ -1,9 +1,9 @@
 # TRT12 · NT 3
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `trt12-nt-3`
+- **Identificador:** `trt12-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=NT&nr=3)
@@ -20,4 +20,4 @@ Com o objetivo de conferir maior fluidez e celeridade aos processos que retomar�
 
 - [Link Nota Técnica](https://dspace.trt12.jus.br/server/api/core/bitstreams/91a81193-a2db-4e04-bae9-ecfe058e9f0c/content)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

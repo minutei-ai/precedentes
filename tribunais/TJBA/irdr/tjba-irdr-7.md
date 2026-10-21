@@ -1,9 +1,9 @@
 # TJBA · IRDR 7
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjba-irdr-7`
+- **Identificador:** `tjba-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=7)
@@ -21,4 +21,4 @@ Julgado IRDR pelos Desembargadores integrantes da Seção Cível de Direito Púb
 
 - [00010688420128050216](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

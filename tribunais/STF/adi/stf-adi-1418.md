@@ -1,10 +1,10 @@
 # STF · ADI 1418
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1418
-- **Identificador na fonte:** `stf-adi-1418`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1418`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/04/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1418)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu, em parte, o pedido de medida liminar
 
 LEG-FED CF ANO-1988 ART-00037 INC-00014 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LCP-000100 ANO-1993 ART-00003 PAR-00003 (SC). LEG-EST LCP-000116 ANO-1994 ART-00011 INC-00015 (SC) LEG-EST LEI-009751 ANO-1994 ART-00004 PAR-ÚNICO (SC) LEG-EST LEI-009847 ANO-1995 ART-00005 (SC)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

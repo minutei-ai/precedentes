@@ -1,9 +1,9 @@
 # TJPE · SUM 167
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 167
-- **Identificador na fonte:** `tjpe-sum-167`
+- **Identificador:** `tjpe-sum-167`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=167)
@@ -20,4 +20,4 @@ Calcula-se a correção monetária, nas ações que versam sobre benefícios pre
 - [00162383920068170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00162383920068170001)
 - [00285960220078170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00285960220078170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPE · IRDR 5
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjpe-irdr-5`
+- **Identificador:** `tjpe-irdr-5`
 - **Situação na fonte:** Acórdão Publicado (ARE Pendente)
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IRDR&nr=5)
@@ -23,4 +23,4 @@ TESE 4. Em lide na qual o fundamento da pretensão resistida tenha sido a negati
 
 - [00006213620178173240](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00006213620178173240)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

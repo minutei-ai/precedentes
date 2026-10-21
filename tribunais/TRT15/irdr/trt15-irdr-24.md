@@ -1,9 +1,9 @@
 # TRT15 · IRDR 24
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 24
-- **Identificador na fonte:** `trt15-irdr-24`
+- **Identificador:** `trt15-irdr-24`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=24)
@@ -21,4 +21,4 @@ Aplicação da multa do artigo 477, § 8º, da CLT, considerada a redação dada
 - [00106645320205150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0010664-53.2020.5.15.0000/2#083837d)
 - [00107621720195150083](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0010762-17.2019.5.15.0083/2#1b1ce46)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

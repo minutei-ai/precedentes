@@ -1,9 +1,9 @@
 # STJ · CT 564
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 564
-- **Identificador na fonte:** `stj-ct-564`
+- **Identificador:** `stj-ct-564`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=564)
@@ -19,4 +19,14 @@ I) Natureza jurídica das medidas protetivas de urgência previstas na Lei Maria
 - [23903488520218130000](https://processo.stj.jus.br/processo/pesquisa/?termo=202301572040&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50097141820228130024](https://processo.stj.jus.br/processo/pesquisa/?termo=202301583212&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+I) Natureza jurídica das medidas protetivas de urgência previstas na Lei Maria da Penha;II) (im)possibilidade de fixação, pelo magistrado, de prazo predeterminado de vigência da medida.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

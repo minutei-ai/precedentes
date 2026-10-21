@@ -1,9 +1,9 @@
 # TJGO · NT 12022
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Nota Técnica
 - **Número:** 12022
-- **Identificador na fonte:** `tjgo-nt-12022`
+- **Identificador:** `tjgo-nt-12022`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 20/07/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=NT&nr=12022)
@@ -59,4 +59,4 @@ Centro de Inteligência do Tribunal de Justiça do Estado de Goiás
 
 - [Link Nota Técnica](https://www.tjgo.jus.br/index.php/comissoes-comites/centro-de-inteligencia)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

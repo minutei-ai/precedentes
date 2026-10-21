@@ -1,9 +1,9 @@
 # TJRO · IAC 2
 
-- **Tribunal:** TJRO
+- **Órgão:** TJRO
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tjro-iac-2`
+- **Identificador:** `tjro-iac-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjro&tipo=IAC&nr=2)
@@ -21,4 +21,4 @@ Discussão referente à aplicação da Súmula nº 01 do TATE, pelo Judiciário,
 - 08050716320208220000
 - 08009401120218220000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

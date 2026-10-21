@@ -1,9 +1,9 @@
 # TRT09 · IAC 7
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 7
-- **Identificador na fonte:** `trt09-iac-7`
+- **Identificador:** `trt09-iac-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=7)
@@ -21,4 +21,4 @@ Direito dos agentes comunitários de saúde do Município de Francisco Beltrão 
 
 - [00016594320185090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001659-43.2018.5.09.0000/2#f1d7626)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

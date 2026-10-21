@@ -1,9 +1,9 @@
 # TRT04 · SUM 128
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 128
-- **Identificador na fonte:** `trt04-sum-128`
+- **Identificador:** `trt04-sum-128`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=128)
@@ -18,4 +18,4 @@ MUNICÍPIO DE PELOTAS. MAGISTÉRIO. PISO SALARIAL. LEI Nº 11.738/08. A parcela 
 - [00000634920155040103](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/nzb9-hFegVEK4B1cp9ATkA)
 - [00000360320145040103](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/yCMZTiu3zBRmsgv_g5QiwA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

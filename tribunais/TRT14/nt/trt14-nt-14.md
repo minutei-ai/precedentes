@@ -1,9 +1,9 @@
 # TRT14 · NT 14
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 14
-- **Identificador na fonte:** `trt14-nt-14`
+- **Identificador:** `trt14-nt-14`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=14)
@@ -89,4 +89,4 @@ condenações;
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2025-07/Ass.%20Nota%20T%C3%A9cnica%20n.%2004-2025-TRT14-CI-NUGEPNAC%20-%20Percentual%20Redutor%20Pens%C3%A3o.%20Parcela%20%C3%9Anica.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 99
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 99
-- **Identificador na fonte:** `stj-ct-99`
+- **Identificador:** `stj-ct-99`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=99)
@@ -16,4 +16,14 @@ Teses jurídicas firmadas no Incidente de Resolução de Demandas Repetitivas n.
 
 - [50066315320178090000](https://processo.stj.jus.br/processo/pesquisa/?termo=201901142357&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Teses jurídicas firmadas no Incidente de Resolução de Demandas Repetitivas n. 5006631.53.2017.8.09.0000 do Tribunal de Justiça do Estado de Goiás:I - Decadência: Em sendo o ato atacado comissivo, a ação mandamental deve ser proposta no prazo decadencial de 120 (cento e vinte) dias, contados da data em que a parte lesada tiver ciência da pretensa ofensa, nos termos do artigo 23, Lei n. 12.016/2009. Lado outro, na hipótese de ato omissivo, o prazo decadencial da impetração deve ser contado a partir do dia 28 de julho do respectivo ano, data fixada pela Lei Estadual n. 8.000/1975 para as promoções na Polícia Militar do Estado de Goiás, anualmente, por antiguidade ou merecimento, não havendo falar em perda superveniente do objeto do mandamus impetrado dentro do prazo de 120 dias contados dessa data.II - Legitimidade das autoridades coatoras: Tratando-se de promoção para as patentes de 2° Tenente PM, 1° Tenente PM, Capitão PM, Major, Tenente-Coronel e Coronel, tanto o Governador do Estado quanto o Comandante-Geral da Polícia Militar são autoridades coatoras aptas a figurarem na polaridade passiva do mandado de segurança, devendo, inclusive, ambas figurarem conjuntamente, sendo a Corte Especial o órgão competente para o processamento e julgamento do mandamus. Em se tratando de passagem do Policial Militar para a reserva nos postos de 2° Tenente, 1° Tenente e Capitão, a autoridade a ser indicada na polaridade passiva do mandado de segurança é, exclusivamente, o Comandante-Geral da Polícia Militar, competindo às Câmaras Cíveis o processamento e julgamento da ação mandamental.III - Litispendência em relação à ação coletiva ajuizada por entidade classista: A impetração de mandado de segurança coletivo pela Associação dos Oficiais da Polícia e do Corpo de Bombeiros Militar do Estado de Goiás (ASSOF) não impede o exercício do direito subjetivo do oficial da Polícia Militar postular, mediante a impetração de mandado de segurança individual, o reconhecimento de direito líquido e certo, por não restar caracterizada a litispendência.IV - Direito líquido e certo dos impetrantes, ao fundamento de que a promoção dos oficiais militares é direito a que fazem jus, por se tratar de ato administrativo vinculado: O fato de o impetrante figurar no quadro de acesso não lhe confere o direito líquido e certo de ser promovido, não estando a autoridade administrativa (Comandante-Geral da Polícia Militar) obrigada a disponibilizar todas as vagas existentes, sob pena de gerar sérias distorções e desproporções dentro da corporação, aí residindo a finalidade da lei ao prever o planejamento prévio para a escala de promoções, posto que a disponibilização do número de vagas para promoção constitui ato discricionário da autoridade competente, sujeita a seu juízo de conveniência e oportunidade. Satisfeitos os critérios legalmente estabelecidos e estando o impetrante dentro das vagas disponibilizadas para a promoção por antiguidade, a movimentação para o grau hierárquico superior é direito subjetivo, portanto, trata-se de ato administrativo vinculado. Tratando-se de promoção pelo critério de merecimento, o ato administrativo é discricionário do Governador do Estado, não possuindo o impetrante direito líquido e certo à movimentação para grau hierarquicamente superior pelo simples fato de figurar no quadro de acesso, que gera-lhe mera expectativa de direito.V - Ausência de afronta ao princípio da separação dos poderes: É lícito ao Poder Judiciário adotar as medidas assecuratórias ao direito à promoção dos Oficiais da Polícia Militar, não havendo falar em violação ao princípio da separação de Poderes.VI - Teses referentes à retroação dos efeitos patrimoniais do mandado de segurança à data do ato impugnado e ao cálculo das vagas disponibilizadas. Incidente inadmitido. Para que não se entenda terem restado as matérias ora elencadas omissas, ressalte-se que o presente Incidente de Resolução de Demandas Repetitivas não foi admitido em relação aos itens "e.6" e "e.7" elencados na exordial, consubstanciados na retroação dos efeitos patrimoniais do mandado de segurança à data do ato impugnado e ao cálculo das vagas disponibilizadas, não havendo, ademais, insurgência recursal nesses pontos.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

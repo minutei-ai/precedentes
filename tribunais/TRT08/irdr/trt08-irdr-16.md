@@ -1,9 +1,9 @@
 # TRT08 · IRDR 16
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `trt08-irdr-16`
+- **Identificador:** `trt08-irdr-16`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 07/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IRDR&nr=16)
@@ -20,4 +20,4 @@ ADICIONAL DE PERICULOSIDADE. ATIVIDADES EM MOTOCICLETA. ARTIGO 193, §4º DA CLT
 
 - [00002943920225080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000294-39.2022.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1415
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1415
-- **Identificador na fonte:** `stj-rr-1415`
+- **Identificador:** `stj-rr-1415`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1415)
@@ -17,4 +17,6 @@ Definir se, na apuração do IRPJ e da CSLL pelas concessionárias do serviço d
 - [50015889620224036100](https://processo.stj.jus.br/processo/pesquisa/?termo=202503616574&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10295166720204013400](https://processo.stj.jus.br/processo/pesquisa/?termo=202503567244&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

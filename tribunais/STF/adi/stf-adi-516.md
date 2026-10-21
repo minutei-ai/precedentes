@@ -1,10 +1,10 @@
 # STF · ADI 516
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 516
-- **Identificador na fonte:** `stf-adi-516`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-516`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=516)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado por indicação do Ministro
 
 LEG-FED LEI-004870 ANO-1965 LEG-FED LEI-008012 ANO-1990 ART-00001 INC-00004 LEG-FED LEI-008022 ANO-1990 ART-00003 PAR-ÚNICO LEG-FED DEL-000308 ANO-1967 LEG-FED DEL-001712 ANO-1979 LEG-FED DEL-001952 ANO-1982
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

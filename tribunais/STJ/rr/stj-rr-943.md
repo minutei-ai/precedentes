@@ -1,9 +1,9 @@
 # STJ · RR 943
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 943
-- **Identificador na fonte:** `stj-rr-943`
+- **Identificador:** `stj-rr-943`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=943)
@@ -22,4 +22,14 @@ Definir: I) se, em havendo transação para migração de plano de benefícios d
 
 - [00006372620098120001](https://processo.stj.jus.br/processo/pesquisa/?termo=201502077230&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+1.1. Em caso de migração de plano de benefícios de previdência complementar, não é cabível o pleito de revisão da reserva de poupança ou de benefício, com aplicação do índice de correção monetária. 1.2. Em havendo transação para migração de plano de benefícios, em observância à regra da indivisibilidade da pactuação e proteção ao equilíbrio contratual, a anulação de cláusula que preveja concessão de vantagem contamina todo o negócio jurídico, conduzindo ao retorno ao status quo ante.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

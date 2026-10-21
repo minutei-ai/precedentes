@@ -1,9 +1,9 @@
 # TRT01 · NT 21
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 21
-- **Identificador na fonte:** `trt01-nt-21`
+- **Identificador:** `trt01-nt-21`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/12/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=21)
@@ -38,4 +38,4 @@ Rio de Janeiro, 07 de dezembro de 2023.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3794537/4/NotaTecnica2023-0021-C.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT01 · NT 34
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 34
-- **Identificador na fonte:** `trt01-nt-34`
+- **Identificador:** `trt01-nt-34`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=34)
@@ -34,4 +34,4 @@ Rio de Janeiro, 21 de fevereiro de 2025.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/html/1001/4348249/Notat%c3%a9cnica2025-0034-C.htm)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

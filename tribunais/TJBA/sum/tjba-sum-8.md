@@ -1,9 +1,9 @@
 # TJBA · SUM 8
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 8
-- **Identificador na fonte:** `tjba-sum-8`
+- **Identificador:** `tjba-sum-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=8)
@@ -24,4 +24,4 @@ em benefício da proteção da segurança coletiva
 - 00791601320108050001
 - 01063724320098050001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

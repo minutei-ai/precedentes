@@ -1,9 +1,9 @@
 # TRT07 · IAC 7
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 7
-- **Identificador na fonte:** `trt07-iac-7`
+- **Identificador:** `trt07-iac-7`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 16/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IAC&nr=7)
@@ -20,4 +20,4 @@ IAC 0004180-68.2025.5.07.0000- O Termo de Ajustamento de Conduta (TAC) no 47/200
 
 - [00041806820255070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0004180-68.2025.5.07.0000/2#bff0858)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

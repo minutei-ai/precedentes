@@ -1,9 +1,9 @@
 # TJPI · IRDR 8
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `tjpi-irdr-8`
+- **Identificador:** `tjpi-irdr-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=8)
@@ -20,4 +20,4 @@ A alteração do registro de nascimento dos filhos incapazes, em decorrência de
 
 - 08004185620248180172
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT24 · IRDR 6
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `trt24-irdr-6`
+- **Identificador:** `trt24-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ a.1) A ausência ou irregularidade nos depósitos para o FGTS constitui falta gr
 
 - [00242129120235240000](https://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024212-91.2023.5.24.0000/2#e19e16d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 290
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 290
-- **Identificador na fonte:** `stj-ct-290`
+- **Identificador:** `stj-ct-290`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 06/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=290)
@@ -18,4 +18,14 @@ Retroatividade ou não da Lei n. 13.964/2019 (Pacote Anticrime), relativamente �
 - [00181447620178260050](https://processo.stj.jus.br/processo/pesquisa/?termo=202100930061&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00276328920168260050](https://processo.stj.jus.br/processo/pesquisa/?termo=202100536647&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Retroatividade ou não da Lei n. 13.964/2019 (Pacote Anticrime), relativamente à natureza jurídica da ação penal no delito de estelionato (art. 171 do Código Penal), a qual outrora era pública incondicionada e, atualmente, passou a exigir a representação da vítima, como condição de procedibilidade, tornando-se, assim, ação pública condicionada à representação.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

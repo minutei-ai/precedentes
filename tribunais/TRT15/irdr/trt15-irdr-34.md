@@ -1,9 +1,9 @@
 # TRT15 · IRDR 34
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `trt15-irdr-34`
+- **Identificador:** `trt15-irdr-34`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 08/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=34)
@@ -20,4 +20,4 @@ Não admitido o IRDR em razão do não atendimento do requisito do art. 976, inc
 
 - [00104211920245150017](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0010421-19.2024.5.15.0017/2#1919609)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

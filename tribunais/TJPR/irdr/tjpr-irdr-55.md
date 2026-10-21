@@ -1,9 +1,9 @@
 # TJPR · IRDR 55
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 55
-- **Identificador na fonte:** `tjpr-irdr-55`
+- **Identificador:** `tjpr-irdr-55`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=55)
@@ -25,4 +25,4 @@ Varas Especializadas em Violência Doméstica e Familiar.
 
 - [00012456720248160007](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0001245-67.2024.8.16.0007)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

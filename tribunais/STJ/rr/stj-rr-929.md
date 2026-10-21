@@ -1,9 +1,9 @@
 # STJ · RR 929
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 929
-- **Identificador na fonte:** `stj-rr-929`
+- **Identificador:** `stj-rr-929`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 21/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=929)
@@ -23,4 +23,14 @@ _\*Aguardando a publicação do acórdão do julgamento de mérito._
 - [07024252720158010002](https://processo.stj.jus.br/processo/pesquisa/?termo=201901870976&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [02462398320148217000](https://processo.stj.jus.br/processo/pesquisa/?termo=201500304054&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Mérito Julgado
+
+### Texto
+
+\*Aguardando a publicação do acórdão do julgamento de mérito.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

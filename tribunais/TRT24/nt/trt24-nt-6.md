@@ -1,9 +1,9 @@
 # TRT24 · NT 6
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `trt24-nt-6`
+- **Identificador:** `trt24-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/06/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=6)
@@ -27,4 +27,4 @@ Inteligência do TRT24 reputa razoável recomendar a uniformização da jurispru
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+6-2022+CIPJ+-+TRT24a+REGI%C3%83O.pdf/372cd2d2-e8ae-45a4-ad6a-0e675334afb5?t=1656354357986)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

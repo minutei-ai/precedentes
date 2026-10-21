@@ -1,9 +1,9 @@
 # TJRJ · IRDR 28
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 28
-- **Identificador na fonte:** `tjrj-irdr-28`
+- **Identificador:** `tjrj-irdr-28`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 10/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=28)
@@ -20,4 +20,4 @@ O termo inicial da prescrição deve ser contado da publicação do ato no Bol. 
 
 - [00130277920228190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2022.291.00002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

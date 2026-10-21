@@ -1,9 +1,9 @@
 # TRT17 · IRDR 12
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `trt17-irdr-12`
+- **Identificador:** `trt17-irdr-12`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 06/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=IRDR&nr=12)
@@ -16,4 +16,4 @@ IRDR 0001418-71.2023.5.17.0000 - Necessidade de apresentação de memória de c�
 
 - [00014187120235170000](https://pje.trt17.jus.br/consultaprocessual/detalhe-processo/0001418-71.2023.5.17.0000/2#28575b9)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

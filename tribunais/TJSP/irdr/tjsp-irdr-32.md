@@ -1,9 +1,9 @@
 # TJSP · IRDR 32
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 32
-- **Identificador na fonte:** `tjsp-irdr-32`
+- **Identificador:** `tjsp-irdr-32`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=32)
@@ -20,4 +20,4 @@ A prescrição e a manipulação das substâncias anorexígenas previstas na Lei
 
 - [20592064720198260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=B0B958A953D22B402634FDB2C06CAFB0.cposg4?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=2059206-47.2019&foroNumeroUnificado=0000&dePesquisaNuUnificado=2059206-47.2019.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

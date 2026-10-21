@@ -1,9 +1,9 @@
 # TJMA · IAC 11
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 11
-- **Identificador na fonte:** `tjma-iac-11`
+- **Identificador:** `tjma-iac-11`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 14/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IAC&nr=11)
@@ -20,4 +20,4 @@ Tese jurídica modificada: ¿Tratando-se de fato em contexto de violência domé
 
 - 08322425220258100000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

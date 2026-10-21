@@ -1,9 +1,9 @@
 # TJBA · IRDR 23
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 23
-- **Identificador na fonte:** `tjba-irdr-23`
+- **Identificador:** `tjba-irdr-23`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 31/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=23)
@@ -20,4 +20,4 @@ i) A persecução penal no crime de embriaguez ao volante (art. 306 do CTB), em 
 
 - [80009741420238050022](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

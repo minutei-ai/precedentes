@@ -1,9 +1,9 @@
 # TRT15 · NT 9
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `trt15-nt-9`
+- **Identificador:** `trt15-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=NT&nr=9)
@@ -21,4 +21,4 @@ https://trt15.jus.br/sites/portal/files/roles/jurisprudencia/CIPJ/NotasT%C3%A9cn
 
 - [Link Nota Técnica](https://trt15.jus.br/sites/portal/files/roles/jurisprudencia/CIPJ/NotasT%C3%A9cnicas/NT001-2024.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

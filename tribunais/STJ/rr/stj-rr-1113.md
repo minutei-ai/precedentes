@@ -1,9 +1,9 @@
 # STJ · RR 1113
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1113
-- **Identificador na fonte:** `stj-rr-1113`
+- **Identificador:** `stj-rr-1113`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 07/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1113)
@@ -20,4 +20,10 @@ a) a base de cálculo do ITBI é o valor do imóvel transmitido em condições n
 
 - [22435166220178260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202000120791&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Acórdão Publicado - RE Pendente
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

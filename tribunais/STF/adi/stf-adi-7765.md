@@ -1,10 +1,10 @@
 # STF · ADI 7765
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 7765
-- **Identificador na fonte:** `stf-adi-7765`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-7765`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7765)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00145 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED E
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=791874773)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

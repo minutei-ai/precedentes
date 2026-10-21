@@ -1,10 +1,10 @@
 # STF · ADPF 504
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 504
-- **Identificador na fonte:** `stf-adpf-504`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-504`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/10/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=504)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00070 ART-00134 PAR-00002 ART-00168 CF-1988 CONSTITUIÇ�
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754482390)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 4424
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4424
-- **Identificador na fonte:** `stf-adi-4424`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4424`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/02/2012
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4424)
 
@@ -22,4 +22,4 @@ LEG-IMP CCI ANO-1830 CCI-1830 CODIGO CRIMINAL DO IMPERIO DO BRAZIL (LEI DE 16 DE
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=6393143)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

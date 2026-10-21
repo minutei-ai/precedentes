@@ -1,9 +1,9 @@
 # STJ · CT 499
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 499
-- **Identificador na fonte:** `stj-ct-499`
+- **Identificador:** `stj-ct-499`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=499)
@@ -20,4 +20,14 @@ Definir o critério a ser utilizado para a fixação dos honorários advocatíci
 - [00117376020158190069](https://processo.stj.jus.br/processo/pesquisa/?termo=202203434304&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00333643120198190021](https://processo.stj.jus.br/processo/pesquisa/?termo=202203434442&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Definir o critério a ser utilizado para a fixação dos honorários advocatícios nas ações que visem aofornecimento de medicamentos e/ou tratamento médico, considerando-se as disposições do art. 85 do Código de Processo Civil.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

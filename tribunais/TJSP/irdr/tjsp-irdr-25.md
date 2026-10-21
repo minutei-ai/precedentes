@@ -1,9 +1,9 @@
 # TJSP · IRDR 25
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `tjsp-irdr-25`
+- **Identificador:** `tjsp-irdr-25`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=25)
@@ -20,4 +20,4 @@ As disposições da Lei Complementar Estadual nº 813/96 aplicam-se aos integran
 
 - [21785549320188260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI004PKRK0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

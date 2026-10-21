@@ -1,9 +1,9 @@
 # TRT04 · IRDR 7
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt04-irdr-7`
+- **Identificador:** `trt04-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=7)
@@ -21,4 +21,4 @@ Natureza salarial do bônus-alimentação instituído pela CEEE em 1987 em rela�
 - [00216994720185040271](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021699-47.2018.5.04.0271/2)
 - [00220441620195040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0022044-16.2019.5.04.0000/2#4661b6d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

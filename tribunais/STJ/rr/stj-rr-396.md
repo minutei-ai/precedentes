@@ -1,9 +1,9 @@
 # STJ · RR 396
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 396
-- **Identificador na fonte:** `stj-rr-396`
+- **Identificador:** `stj-rr-396`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=396)
@@ -22,4 +22,14 @@ Ainda que a execução fiscal tenha sido ajuizada na Justiça Federal (o que afa
 - [02990309420084040000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900757407&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [01734996120094040000](https://processo.stj.jus.br/processo/pesquisa/?termo=201000064555&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+Ainda que a execução fiscal tenha sido ajuizada na Justiça Federal (o que afasta a incidência da norma inserta no artigo 1º, § 1º, da Lei 9.289/96), cabe à Fazenda Pública Federal adiantar as despesas com o transporte/condução/deslocamento dos oficiais de justiça necessárias ao cumprimento da carta precatória de penhora e avaliação de bens (processada na Justiça Estadual), por força do princípio hermenêutico ubi eadem ratio ibi eadem legis dispositio.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

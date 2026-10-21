@@ -1,9 +1,9 @@
 # TRT14 · IRDR 6
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `trt14-irdr-6`
+- **Identificador:** `trt14-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 25/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ CAIXA ECONÔMICA FEDERAL - CEF. QUEBRA DE CAIXA. EXECUÇÃO INDIVIDUAL DE SENTEN
 
 - [00014979720245140000](https://pje.trt14.jus.br/consultaprocessual/detalhe-processo/0001497-97.2024.5.14.0000/2#af78229)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

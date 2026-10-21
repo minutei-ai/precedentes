@@ -1,9 +1,9 @@
 # TRT09 · IRDR 11
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `trt09-irdr-11`
+- **Identificador:** `trt09-irdr-11`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 22/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=11)
@@ -21,4 +21,4 @@ Banco Bradesco. Antigos empregados do Banco Bamerindus que aderiram ao PDV insti
 
 - [00001345520205090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/00001345520205090000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

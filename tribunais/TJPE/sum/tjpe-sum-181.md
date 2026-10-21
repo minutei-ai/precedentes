@@ -1,9 +1,9 @@
 # TJPE · SUM 181
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 181
-- **Identificador na fonte:** `tjpe-sum-181`
+- **Identificador:** `tjpe-sum-181`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=181)
@@ -19,4 +19,4 @@
 - [00688345320138170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00688345320138170001)
 - [00414617620158170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00414617620158170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

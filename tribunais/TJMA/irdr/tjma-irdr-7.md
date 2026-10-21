@@ -1,9 +1,9 @@
 # TJMA · IRDR 7
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjma-irdr-7`
+- **Identificador:** `tjma-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=7)
@@ -27,4 +27,4 @@ a) Quanto à possibilidade de instauração de execução individual da verba ho
 - [08178640620168100001](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=33751&ca=079b313c18db47b9345a5d54c365a6dac48d7d242dab0ea63830fb99fe60dae659dc0f017743c6e575a331326f664b49&aba=,https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=39140&ca=cde9c9da827fd7135c065519f4ad01f12991a4b0e8d61c9ce0e6ead9ec60244f43e2c446b95aecad9e24a768c311ba6a&aba=)
 - [08371376820168100001](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=33751&ca=079b313c18db47b9345a5d54c365a6dac48d7d242dab0ea63830fb99fe60dae659dc0f017743c6e575a331326f664b49&aba=,https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=39140&ca=cde9c9da827fd7135c065519f4ad01f12991a4b0e8d61c9ce0e6ead9ec60244f43e2c446b95aecad9e24a768c311ba6a&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

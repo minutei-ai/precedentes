@@ -1,9 +1,9 @@
 # STF · RG 499
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 499
-- **Identificador na fonte:** `stf-rg-499`
+- **Identificador:** `stf-rg-499`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=499)
@@ -20,4 +20,4 @@ A eficácia subjetiva da coisa julgada formada a partir de ação coletiva, de r
 
 - [612043](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3864686)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

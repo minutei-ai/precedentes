@@ -1,9 +1,9 @@
 # TRT07 · IRDR 16
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `trt07-irdr-16`
+- **Identificador:** `trt07-irdr-16`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 05/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=16)
@@ -16,4 +16,4 @@ IRDR 0006842-05.2025.5.07.0000- Que o Pleno deste Tribunal defina qual das segui
 
 - [00068420520255070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0006842-05.2025.5.07.0000/2#32d2250)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPE · SUM 139
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 139
-- **Identificador na fonte:** `tjpe-sum-139`
+- **Identificador:** `tjpe-sum-139`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=139)
@@ -19,4 +19,4 @@ Desde que respeitada a proporcionalidade com o piso salarial nacional do magist�
 - [00024707920158170470](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00024707920158170470)
 - [00035195820158170470](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00035195820158170470)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

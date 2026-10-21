@@ -1,9 +1,9 @@
 # TJES · IAC 26
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 26
-- **Identificador na fonte:** `tjes-iac-26`
+- **Identificador:** `tjes-iac-26`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IAC&nr=26)
@@ -16,4 +16,4 @@ Possibilidade de aplicação, no processo penal, da "Teoria da Causa Madura", pa
 
 - [00018386320088080045](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0001838-63.2008.8.08.0045)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

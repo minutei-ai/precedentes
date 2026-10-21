@@ -1,9 +1,9 @@
 # TRT07 · NT 8
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `trt07-nt-8`
+- **Identificador:** `trt07-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=NT&nr=8)
@@ -27,4 +27,4 @@ Por tal razão, o Centro Regional de Inteligência do Tribunal Regional do Traba
 
 - [Link Nota Técnica](https://www.trt7.jus.br/files/jurisprudencia/notas_tecnicas_cij/2024/NT8-2024.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

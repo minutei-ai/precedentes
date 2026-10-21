@@ -1,9 +1,9 @@
 # TRF03 · IAC 8
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `trf03-iac-8`
+- **Identificador:** `trf03-iac-8`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 11/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IAC&nr=8)
@@ -16,4 +16,4 @@ Realização de novo julgamento pela Turma Julgadora de origem, reconhecendo com
 
 - 50233224120204030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

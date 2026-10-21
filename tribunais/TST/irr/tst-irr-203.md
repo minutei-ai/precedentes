@@ -1,9 +1,9 @@
 # TST · IRR 203
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 203
-- **Identificador na fonte:** `tst-irr-203`
+- **Identificador:** `tst-irr-203`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=203)
@@ -16,4 +16,4 @@ O acordo celebrado pelo sindicato na ação coletiva faz coisa julgada em relaç
 
 - [00100662020235030068](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0010066-20.2023.5.03.0068/3#c7a51bc)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

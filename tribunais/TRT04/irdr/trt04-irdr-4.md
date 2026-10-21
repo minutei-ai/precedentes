@@ -1,9 +1,9 @@
 # TRT04 · IRDR 4
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt04-irdr-4`
+- **Identificador:** `trt04-irdr-4`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=4)
@@ -21,4 +21,4 @@ TRENSURB. ADICIONAL DE PERICULOSIDADE. RISCO DE CHOQUE ELÉTRICO. BASE DE CÁLCU
 - [00214012920175040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021401-29.2017.5.04.0000/2#e51d361)
 - [00214302220175040019](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021430-22.2017.5.04.0019/2#287e8f0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

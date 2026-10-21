@@ -1,9 +1,9 @@
 # TJES · NT 2
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `tjes-nt-2`
+- **Identificador:** `tjes-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 20/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=NT&nr=2)
@@ -26,4 +26,4 @@ As demandas predatórias são marcadas pela carga de litigiosidade em massa, por
 
 - [Link Nota Técnica](https://www.tjes.jus.br/wp-content/uploads/NOTA-TECNICA-02.2024-PROTOCOLO-DE-ENFRENTAMENTO-AS-DEMANDAS-PREDATORIAS.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

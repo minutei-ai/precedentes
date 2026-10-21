@@ -1,10 +1,10 @@
 # STF · ADI 4375
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4375
-- **Identificador na fonte:** `stf-adi-4375`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4375`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/03/2011
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4375)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade, conheceu da ação e, por maioria, julgou-a parcial
 
 LEG-FED CF ANO-1988 ART-00005 "CAPUT" ART-00007 "CAPUT" INC-00004 INC-00005 INC-00026 ART-00008 INC-00001 INC-00003 INC-00006 ART-00022 INC-00001 PAR-ÚNICO ART-00114 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-005452 ANO-1943 ART-00577 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED LCP-000103 ANO-2000 ART-00001 PAR-00001 INC-00001 INC-00002 PAR-00002 ART-00002 LEI COMPLEMENTAR LEG-EST LEI-003496 ANO-2000 ART-00001 LEI ORDINÁRIA, RJ LEG-EST LEI-003512 ANO-2000 ART-00001 INC-00002 INC-00003 LEI ORDINÁRIA, RJ LEG-EST LEI-003726 ANO-2001 LEI ORDINÁRIA, RJ LEG-EST LEI-004101 ANO-2003 LEI ORDINÁRIA, RJ LEG-EST LEI-004274 ANO-2004 LEI ORDINÁRIA, RJ LEG-FED LEI-004498 ANO-2005 LEI ORDINÁRIA, RJ LEG-EST LEI-004686 ANO-2005 LEI ORDINÁRIA, RJ LEG-EST LEI-004987 ANO-2007 LEI ORDINÁRIA, RJ LEG-EST LEI-005168 ANO-2007 LEI ORDINÁRIA, RJ LEG-EST LEI-005357 ANO-2008 ART-00001 LEI ORDINÁRIA, RJ LEG-EST LEI-005627 ANO-2009 ART-00001 "CAPUT" INC-00002 INC-00003 LEI ORDINÁRIA, RJ
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

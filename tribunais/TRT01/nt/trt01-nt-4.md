@@ -1,9 +1,9 @@
 # TRT01 · NT 4
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `trt01-nt-4`
+- **Identificador:** `trt01-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=4)
@@ -30,4 +30,4 @@ Rio de Janeiro, 19 de junho de 2023.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3695557/1/NT04_CI_TRT1_Recomenda%c3%a7%c3%a3o%20de%20instaura%c3%a7%c3%a3o%20de%20Incidente%20de%20Resolu%c3%a7%c3%a3o%20de%20Demandas%20Repetitivas.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

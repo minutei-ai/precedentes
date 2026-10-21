@@ -1,9 +1,9 @@
 # TJSE · IRDR 125
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 125
-- **Identificador na fonte:** `tjse-irdr-125`
+- **Identificador:** `tjse-irdr-125`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 14/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=125)
@@ -18,4 +18,4 @@ Discutir se quando a realização do ato processual depender de providência ou 
 - 00158355020268250000
 - 00158415720268250000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

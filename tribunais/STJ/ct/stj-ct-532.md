@@ -1,9 +1,9 @@
 # STJ · CT 532
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 532
-- **Identificador na fonte:** `stj-ct-532`
+- **Identificador:** `stj-ct-532`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=532)
@@ -22,4 +22,14 @@ Possibilidade de condenação da Fazenda Pública ao pagamento de honorários ad
 - [32387629220108130024](https://processo.stj.jus.br/processo/pesquisa/?termo=202301157611&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00160918520028130317](https://processo.stj.jus.br/processo/pesquisa/?termo=202300534460&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Possibilidade de condenação da Fazenda Pública ao pagamento de honorários advocatícios, em razão da extinção da execução fiscal pela prescrição intercorrente, ainda que tenha havido o reconhecimento do pedido ou que o ente público não tenha oferecido resistência, considerando-se a incidência do princípio da causalidade.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

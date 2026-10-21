@@ -1,9 +1,9 @@
 # TRT05 · IRDR 3
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `trt05-irdr-3`
+- **Identificador:** `trt05-irdr-3`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 24/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ Não houve tese firmada. IRDR não admitido pelo Colegiado
 
 - [00007480320225050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0000748-03.2022.5.05.0000/2#8fdbf92)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

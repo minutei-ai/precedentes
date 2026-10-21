@@ -1,9 +1,9 @@
 # TRF03 · IRDR 4
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trf03-irdr-4`
+- **Identificador:** `trf03-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ Não cabe condenação de honorários advocatícios contra a União Federal nos 
 
 - 00004534320184030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

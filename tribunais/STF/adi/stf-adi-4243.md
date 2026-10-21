@@ -1,10 +1,10 @@
 # STF · ADI 4243
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4243
-- **Identificador na fonte:** `stf-adi-4243`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4243`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/12/2018
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4243)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00093 "CAPUT" CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=749288160)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

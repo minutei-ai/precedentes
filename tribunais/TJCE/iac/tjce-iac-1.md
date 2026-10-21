@@ -1,9 +1,9 @@
 # TJCE · IAC 1
 
-- **Tribunal:** TJCE
+- **Órgão:** TJCE
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjce-iac-1`
+- **Identificador:** `tjce-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjce&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ Obs: IAC inadmitido - negado seguimento
 
 - 01820075620168060001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJCE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

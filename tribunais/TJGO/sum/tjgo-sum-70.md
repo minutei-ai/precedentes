@@ -1,9 +1,9 @@
 # TJGO · SUM 70
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 70
-- **Identificador na fonte:** `tjgo-sum-70`
+- **Identificador:** `tjgo-sum-70`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=70)
@@ -16,4 +16,4 @@ Aos agentes de saúde é devido o pagamento do piso salarial estabelecido pela L
 
 - 02976518220158090103
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

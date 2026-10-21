@@ -1,9 +1,9 @@
 # TRT23 · IRDR 2
 
-- **Tribunal:** TRT23
+- **Órgão:** TRT23
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `trt23-irdr-2`
+- **Identificador:** `trt23-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt23&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ Tese 01 - "Aos contratos de gestão celebrados pela administração pública, co
 
 - [00001905520185230037](https://pje.trt23.jus.br/consultaprocessual/detalhe-processo/0000190-55.2018.5.23.0037/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT23/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

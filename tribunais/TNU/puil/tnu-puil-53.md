@@ -1,9 +1,9 @@
 # TNU · PUIL 53
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 53
-- **Identificador na fonte:** `tnu-puil-53`
+- **Identificador:** `tnu-puil-53`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=53)
@@ -18,4 +18,4 @@ A manipulação de óleos e graxas, desde que devidamente comprovado, configura 
   
 VIDE TEMA 298/TNU.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

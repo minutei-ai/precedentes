@@ -1,9 +1,9 @@
 # TJGO · SUM 41
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 41
-- **Identificador na fonte:** `tjgo-sum-41`
+- **Identificador:** `tjgo-sum-41`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=41)
@@ -16,4 +16,4 @@ A validade de exame psicotécnico em concurso público está ligada à previsão
 
 - 04056744320158090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

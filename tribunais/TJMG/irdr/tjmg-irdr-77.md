@@ -1,9 +1,9 @@
 # TJMG · IRDR 77
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 77
-- **Identificador na fonte:** `tjmg-irdr-77`
+- **Identificador:** `tjmg-irdr-77`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=77)
@@ -20,4 +20,4 @@ Os juizados especiais não são competentes para processar e julgar ação monit
 
 - [50004847820208130522](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000205892169002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

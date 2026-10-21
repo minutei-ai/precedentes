@@ -1,9 +1,9 @@
 # TJES · NT 32024
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Nota Técnica
 - **Número:** 32024
-- **Identificador na fonte:** `tjes-nt-32024`
+- **Identificador:** `tjes-nt-32024`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 20/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=NT&nr=32024)
@@ -24,4 +24,4 @@ Com efeito, as diretrizes contidas na Lei nº 11.419/2006, dispondo acerca da in
 
 - [Link Nota Técnica](https://www.tjes.jus.br/wp-content/uploads/NOTA-TECNICA-03.2024-SANEAMENTO-DOS-DADOS-RELATIVOS-AO-CADASTRO-PROCESSUAL.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

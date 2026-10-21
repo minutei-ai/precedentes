@@ -1,9 +1,9 @@
 # TJMS · IRDR 8
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `tjms-irdr-8`
+- **Identificador:** `tjms-irdr-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=IRDR&nr=8)
@@ -16,4 +16,4 @@
 
 "Afastamento da hediondez ao crime de tráfico privilegiado, conforme precedentes do STJ e STF."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

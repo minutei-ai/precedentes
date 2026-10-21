@@ -1,9 +1,9 @@
 # TJBA · NT 5
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `tjba-nt-5`
+- **Identificador:** `tjba-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/09/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=5)
@@ -31,4 +31,4 @@ obrigação de fazer imposta, respeitando, dessa forma, o fim social do processo
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/proposta-de-nota-tecnica-pn005-2021/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

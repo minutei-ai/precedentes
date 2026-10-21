@@ -1,9 +1,9 @@
 # STF · RG 1107
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1107
-- **Identificador na fonte:** `stf-rg-1107`
+- **Identificador:** `stf-rg-1107`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1107)
@@ -20,4 +20,4 @@ Possibilidade de o segurado que exerce atividades em condições especiais, quan
 
 - [1279819](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5960258)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

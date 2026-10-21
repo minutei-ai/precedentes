@@ -1,9 +1,9 @@
 # TJES · IRDR 77
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 77
-- **Identificador na fonte:** `tjes-irdr-77`
+- **Identificador:** `tjes-irdr-77`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=77)
@@ -20,4 +20,4 @@ a) as ações penais que tratam de crimes praticados com violência contra a cri
 
 - [00114351820198080030](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0011435-18.2019.8.08.0030)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

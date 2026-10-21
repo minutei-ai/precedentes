@@ -1,9 +1,9 @@
 # TRT18 · IRDR 40
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 40
-- **Identificador na fonte:** `trt18-irdr-40`
+- **Identificador:** `trt18-irdr-40`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=40)
@@ -21,4 +21,4 @@ o Pleno deste e. Regional fixou a seguinte tese jurídica:
 
 - [00124764420235180000](https://pje.trt18.jus.br/consultaprocessual/detalhe-processo/0012476-44.2023.5.18.0000/2#1a6c3a1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

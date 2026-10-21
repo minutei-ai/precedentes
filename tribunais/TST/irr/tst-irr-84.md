@@ -1,9 +1,9 @@
 # TST · IRR 84
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 84
-- **Identificador na fonte:** `tst-irr-84`
+- **Identificador:** `tst-irr-84`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=84)
@@ -20,4 +20,4 @@ Em caso de roubo sofrido por carteiro (agente postal) durante o trabalho, é obj
 
 - [10004033920235020462](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1000403-39.2023.5.02.0462/3#a0c35af)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

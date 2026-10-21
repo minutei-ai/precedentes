@@ -1,9 +1,9 @@
 # STF · RG 219
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 219
-- **Identificador na fonte:** `stf-rg-219`
+- **Identificador:** `stf-rg-219`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=219)
@@ -20,4 +20,4 @@ A questão da extensão de vantagem pecuniária paga aos empregados em atividade
 
 - [590005](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2627669)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

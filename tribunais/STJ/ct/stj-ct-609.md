@@ -1,9 +1,9 @@
 # STJ · CT 609
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 609
-- **Identificador na fonte:** `stj-ct-609`
+- **Identificador:** `stj-ct-609`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=609)
@@ -21,4 +21,14 @@ Possibilidade de se reconhecer como especial, para fins de aposentadoria, o temp
 - [50028522820224047101](https://processo.stj.jus.br/processo/pesquisa/?termo=202302798990&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50040984120134047112](https://processo.stj.jus.br/processo/pesquisa/?termo=202302856282&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Possibilidade de se reconhecer como especial, para fins de aposentadoria, o tempo de atividade de motorista de ônibus, quando considerada penosa, após o advento da Lei 9.032, de 28 de abril de 1995.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

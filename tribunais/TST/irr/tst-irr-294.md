@@ -1,9 +1,9 @@
 # TST · IRR 294
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 294
-- **Identificador na fonte:** `tst-irr-294`
+- **Identificador:** `tst-irr-294`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 10/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=294)
@@ -16,4 +16,4 @@ SEGURO-DESEMPREGO. INDENIZAÇÃO SUBSTITUTIVA. O não-fornecimento pelo empregad
 
 - [10014379320235020706](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/10014379320235020706)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

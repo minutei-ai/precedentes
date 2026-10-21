@@ -1,9 +1,9 @@
 # STJ · RR 323
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 323
-- **Identificador na fonte:** `stj-rr-323`
+- **Identificador:** `stj-rr-323`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=323)
@@ -21,4 +21,10 @@ O Fundo de Compensação de Variações Salariais - FCVS é responsável pela qu
 - 00088331220044058400
 - 00252228520054047100
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

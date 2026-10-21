@@ -1,9 +1,9 @@
 # STJ · CT 630
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 630
-- **Identificador na fonte:** `stj-ct-630`
+- **Identificador:** `stj-ct-630`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=630)
@@ -24,4 +24,14 @@ Conceito de insumo à luz dos critérios de essencialidade ou de relevância, pa
 - [50110555320214025101](https://processo.stj.jus.br/processo/pesquisa/?termo=202400330153&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50161057420184025001](https://processo.stj.jus.br/processo/pesquisa/?termo=202400272317&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Conceito de insumo à luz dos critérios  de  essencialidade  ou  de  relevância,  para  fins  de  creditamento  no regime não cumulativo das contribuições ao PIS e à COFINS.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

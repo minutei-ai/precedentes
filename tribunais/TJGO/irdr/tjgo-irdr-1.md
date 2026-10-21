@@ -1,9 +1,9 @@
 # TJGO · IRDR 1
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjgo-irdr-1`
+- **Identificador:** `tjgo-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ Configuração de dano moral, ante o fornecimento de água imprópria para o con
 
 - 52022939220218090006
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 871
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 871
-- **Identificador na fonte:** `stf-rg-871`
+- **Identificador:** `stf-rg-871`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=871)
@@ -20,4 +20,4 @@ A questão da composição da base de cálculo da vantagem pecuniária denominad
 
 - [921694](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4863615)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

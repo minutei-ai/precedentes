@@ -1,9 +1,9 @@
 # STJ · RR 849
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 849
-- **Identificador na fonte:** `stj-rr-849`
+- **Identificador:** `stj-rr-849`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=849)
@@ -16,4 +16,6 @@ Critério de reajuste da renda mensal da pensão de ex-combatente, nos termos da
 
 - 00092446420044058300
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

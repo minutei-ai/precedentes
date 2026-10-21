@@ -1,9 +1,9 @@
 # STJ · RR 1200
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1200
-- **Identificador na fonte:** `stj-rr-1200`
+- **Identificador:** `stj-rr-1200`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1200)
@@ -21,4 +21,10 @@ O prazo prescricional para propor ação de petição de herança conta-se da ab
 - [00016179320008130054](https://processo.stj.jus.br/processo/pesquisa/?termo=202203082686&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [22335559220208260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202203347905&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Acórdão Publicado - RE Pendente
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

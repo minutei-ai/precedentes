@@ -1,10 +1,10 @@
 # STF · ADI 1262
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1262
-- **Identificador na fonte:** `stf-adi-1262`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1262`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/04/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1262)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em vertude do adiantato da 
 
 LEG-FED CF ANO-1988 ART-00018 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST ADCT ANO-1989 ART-00018 INC-00012 (CES-89), (TO). LEG-EST LEI-000251 ANO-1991 ART-00004 INC-00009 (TO). LEG-EST LEI-000498 ANO-1992 ART-00002 (TO).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

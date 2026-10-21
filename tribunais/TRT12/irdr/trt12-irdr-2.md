@@ -1,9 +1,9 @@
 # TRT12 · IRDR 2
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `trt12-irdr-2`
+- **Identificador:** `trt12-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ TESE JURÍDICA N.º 01 - "CONCESSÃO DE SERVIÇOS DE TRANSPORTE COLETIVO DE PASS
 
 - [00002809520165120051](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000280-95.2016.5.12.0051/2#c72429e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 4433
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4433
-- **Identificador na fonte:** `stf-adi-4433`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4433`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/10/2010
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4433)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade e nos termos do voto da Relatora, deferiu a medida c
 
 LEG-FED CF ANO-1988 ART-00061 PAR-00001 INC-00002 LET-A ART-00063 INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-015215 ANO-2010 ART-00003 LEI ORDINÁRIA, SC
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

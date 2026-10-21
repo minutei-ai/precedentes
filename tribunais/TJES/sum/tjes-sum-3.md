@@ -1,9 +1,9 @@
 # TJES · SUM 3
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Súmula
 - **Número:** 3
-- **Identificador na fonte:** `tjes-sum-3`
+- **Identificador:** `tjes-sum-3`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 10/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=SUM&nr=3)
@@ -16,4 +16,4 @@ Não cabe Agravo Interno (artigo 1.021, do Código de Processo Civil) e/ou Agrav
 
 - [00040254520058080014](http://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=00040254520058080014)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

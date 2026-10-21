@@ -1,9 +1,9 @@
 # TJPR · NT 5
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `tjpr-nt-5`
+- **Identificador:** `tjpr-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=NT&nr=5)
@@ -37,4 +37,4 @@ Curitiba, 26 de junho de 2023
 
 - [Link Nota Técnica](https://www.tjpr.jus.br/documents/57363984/58857401/Nota+005.pdf/ebef5dff-7d07-782e-f061-e97657a063de)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPE · IRDR 4
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `tjpe-irdr-4`
+- **Identificador:** `tjpe-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ Não há que se falar em prescrição do fundo de direito nas demandas em que se
 
 - [00128550720168170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00128550720168170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

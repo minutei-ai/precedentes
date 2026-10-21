@@ -1,9 +1,9 @@
 # STJ · RR 19
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 19
-- **Identificador na fonte:** `stj-rr-19`
+- **Identificador:** `stj-rr-19`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=19)
@@ -20,4 +20,10 @@ Os débitos previdenciários remanescentes pagos mediante precatório, devem ser
 
 - 00852854919994039999
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

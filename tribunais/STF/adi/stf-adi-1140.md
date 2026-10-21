@@ -1,10 +1,10 @@
 # STF · ADI 1140
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1140
-- **Identificador na fonte:** `stf-adi-1140`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1140`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/12/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1140)
 
@@ -20,4 +20,4 @@ Por maioria de voto, o Tribunal deferiu o pedido de medida liminar para suspende
 
 LEG-FED CF ANO-1988 ART-00049 INC-00009 ART-00071 INC-00001 INC-00002 ART-00073 ART-00075 ART-00096 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1991 ART-00033 INC-00003 INC-00004 ART-00049 PAR-ÚNICO INC-00001 REDAÇÃO DA EMC-2/94, (RR). LEG-EST EMC-000002 ANO-1994 (CES-91), (RR). LEG-EST LCP-000006 ANO-1994 ART-00001 INC-00002 LET-A ART-00038 (RR).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

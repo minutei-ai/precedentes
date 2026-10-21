@@ -1,9 +1,9 @@
 # TJGO · IRDR 3
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjgo-irdr-3`
+- **Identificador:** `tjgo-irdr-3`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 09/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ I. Decadência: Em sendo o ato atacado comissivo, a ação mandamental deve ser 
 
 - 50066315320178090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

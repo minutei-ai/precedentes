@@ -1,9 +1,9 @@
 # TRT14 · NT 4
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `trt14-nt-4`
+- **Identificador:** `trt14-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=4)
@@ -24,4 +24,4 @@ graus desta Corte, o NUGEPNAC ainda tem constatado a ocorrência de equívocos n
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2022-11/Nota%20T%C3%A9cnica%20TRT14-CI-NUGEPNAC%20n.%2004-2022-Corretos%20Lan%C3%A7amentos%20de%20Suspens%C3%A3o%20ou%20Sobrestamento.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

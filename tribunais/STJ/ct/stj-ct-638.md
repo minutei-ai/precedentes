@@ -1,9 +1,9 @@
 # STJ · CT 638
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 638
-- **Identificador na fonte:** `stj-ct-638`
+- **Identificador:** `stj-ct-638`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=638)
@@ -21,4 +21,14 @@ Determinar se a fundamentação por referência ou por remissão per relationem,
 - [08075009020228100024](https://processo.stj.jus.br/processo/pesquisa/?termo=202402128072&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08011298320228100033](https://processo.stj.jus.br/processo/pesquisa/?termo=202401861226&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Determinar se a fundamentação por referência ou por remissão per relationem, na qual são utilizadas motivações contidas em decisão judicial anterior como razões de decidir, resulta na nulidade do ato decisório.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

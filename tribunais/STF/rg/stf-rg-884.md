@@ -1,9 +1,9 @@
 # STF · RG 884
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 884
-- **Identificador na fonte:** `stf-rg-884`
+- **Identificador:** `stf-rg-884`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=884)
@@ -20,4 +20,4 @@ Os bens e direitos que integram o patrimônio do fundo vinculado ao Programa de 
 
 - [928902](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4882888)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

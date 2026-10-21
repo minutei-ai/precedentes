@@ -1,9 +1,9 @@
 # TRT04 · SUM 18
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 18
-- **Identificador na fonte:** `trt04-sum-18`
+- **Identificador:** `trt04-sum-18`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=18)
@@ -29,4 +29,4 @@ BANRISUL . COMPLEMENTAÇÃO DE APOSENTADORIA. A parcela denominada 'cheque-ranch
 - [00432009719965040701](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/aw8-zq1ZWidGzzkMpYMxpA)
 - [01255006919945040028](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/UtT6_IpQKkXhYCc-eMWC4Q)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

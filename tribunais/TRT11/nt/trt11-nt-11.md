@@ -1,9 +1,9 @@
 # TRT11 · NT 11
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `trt11-nt-11`
+- **Identificador:** `trt11-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=NT&nr=11)
@@ -22,4 +22,4 @@ https://portal.trt11.jus.br/images/Nota\_Tecnica\_11-2024\_TRT11.\_Litig%C3%A2nc
 
 - [Link Nota Técnica](https://portal.trt11.jus.br/images/Nota_Tecnica_11-2024_TRT11._Litig%C3%A2ncia_Predat%C3%B3ria_Assinada.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

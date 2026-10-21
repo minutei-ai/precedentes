@@ -1,9 +1,9 @@
 # STJ · SUM 237
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 237
-- **Identificador na fonte:** `stj-sum-237`
+- **Identificador:** `stj-sum-237`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=237)
@@ -12,4 +12,4 @@
 
 Nas operações com cartão de crédito, os encargos relativos ao financiamento não são considerados no cálculo do ICMS.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

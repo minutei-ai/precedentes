@@ -1,9 +1,9 @@
 # STF · RG 156
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 156
-- **Identificador na fonte:** `stf-rg-156`
+- **Identificador:** `stf-rg-156`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=156)
@@ -20,4 +20,4 @@ I - As vantagens remuneratórias legítimas e de caráter geral conferidas a det
 
 - [596962](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2660876)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

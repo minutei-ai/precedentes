@@ -1,9 +1,9 @@
 # TJSE · IRDR 15
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjse-irdr-15`
+- **Identificador:** `tjse-irdr-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=15)
@@ -39,4 +39,4 @@ Ante o exposto, julgo prejudicado o IRDR nº 201700603967 em razão da perda sup
 - 00007913920178259010
 - 00014140620178259010
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

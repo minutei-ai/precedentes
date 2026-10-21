@@ -1,9 +1,9 @@
 # TRT10 · NT 8
 
-- **Tribunal:** TRT10
+- **Órgão:** TRT10
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `trt10-nt-8`
+- **Identificador:** `trt10-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt10&tipo=NT&nr=8)
@@ -20,4 +20,4 @@ Direito do Trabalho Comissão Regional de Inteligência do Tribunal Regional do 
 
 - Link Nota Técnica
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT10/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

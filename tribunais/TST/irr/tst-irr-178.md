@@ -1,9 +1,9 @@
 # TST · IRR 178
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 178
-- **Identificador na fonte:** `tst-irr-178`
+- **Identificador:** `tst-irr-178`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=178)
@@ -20,4 +20,4 @@ A parcela “compensação orgânica” paga aos aeronautas não configura salá
 
 - [00200016520225040012](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020001-65.2022.5.04.0012/3#70444fa)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

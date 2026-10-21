@@ -1,9 +1,9 @@
 # TJMA · IAC 9
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 9
-- **Identificador na fonte:** `tjma-iac-9`
+- **Identificador:** `tjma-iac-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IAC&nr=9)
@@ -20,4 +20,4 @@ A decisão que julga a impugnação ao cumprimento de sentença, para que seja a
 
 - 08009719120228100109
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

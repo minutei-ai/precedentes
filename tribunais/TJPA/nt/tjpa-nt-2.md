@@ -1,9 +1,9 @@
 # TJPA · NT 2
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `tjpa-nt-2`
+- **Identificador:** `tjpa-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/11/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=2)
@@ -20,4 +20,4 @@ A presente nota técnica é fruto da 1ª Oficina de Inteligência realizada em 0
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=1091261)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

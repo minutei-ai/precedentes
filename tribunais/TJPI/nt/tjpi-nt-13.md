@@ -1,9 +1,9 @@
 # TJPI · NT 13
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `tjpi-nt-13`
+- **Identificador:** `tjpi-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 21/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=NT&nr=13)
@@ -57,4 +57,4 @@ Que
 
 - [Link Nota Técnica](https://www.tjpi.jus.br/portaltjpi/nugep/cijepi/notas-tecnicas/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJES · IRDR 80
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 80
-- **Identificador na fonte:** `tjes-irdr-80`
+- **Identificador:** `tjes-irdr-80`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=80)
@@ -16,4 +16,4 @@ Impossibilidade de alteração de Edital no curso de concurso público para modi
 
 - [50001459320218080047](https://sistemas.tjes.jus.br/consultas-siep-back/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSP · IRDR 37
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 37
-- **Identificador na fonte:** `tjsp-irdr-37`
+- **Identificador:** `tjsp-irdr-37`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=37)
@@ -20,4 +20,4 @@ Em ações cujo objeto seja a outorga de escritura referente a quitado compromis
 
 - [20018566720208260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=699B36E6D760E729468B183CD3DF3288.cposg5?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=2001856-67.2020&foroNumeroUnificado=0000&dePesquisaNuUnificado=2001856-67.2020.8.26.0000&dePesquisa=&uuidCaptcha=sajcaptcha_e92378d00ee1407396303be42f0ffbfa&g-recaptcha-response=03AOLTBLQ-6IrjqPr1FgaSB1WfDxhPLXtTV_azCkTxy3sMSiNpJq0iHbiogcJ95Nhb1irND7ZZjoQLr3_bQQ2TrCZ0Q-K4yX8bKhtSIq9oLrispg8Ft_suDZdIQH3ZejvVuwTYkRmo58k4ghRwteiWL1qA6nsOjHksiUFT4QiquiuKU50HbZZv-YOIYHn-Ni_YFoPlmzh0EL4hkGs0BNS7YEQtd05To5x6z5dRsNKfwEfhr7dFfn9QTm9052ZsbQBVmI0KezHdqoHhktsElv7uRF5P81Q4htdYWGwBiY49M3Lhk_Uh9E4ORGG2BrF_uQKmeMZdmyp7aMPaRZuXIwTioC0flA5SPiqoqM5Rcch4tdSMylFRMEopiCQ5Vdh5MSGDBXxGsaWWv8GTikreVzSkicRCUPYC-fkuDiSXz0NB63xbrugVDEOwEyNaBM_Tt4X9JRD052xgsmcSQQ7BoA18z-2fhGLRTkjqg1Ft8OEVJfdzife-sMnHizK1K_8UJA0d-0PLvED1BFLp6ZrzckfAJc9vptlbKE5c-A)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

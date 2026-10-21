@@ -1,9 +1,9 @@
 # TJPR · NT 4
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `tjpr-nt-4`
+- **Identificador:** `tjpr-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=NT&nr=4)
@@ -41,4 +41,4 @@ O alerta é necessário porque, tratando-se de qualificação por vezes genéric
 
 - [Link Nota Técnica](https://www.tjpr.jus.br/documents/57363984/58857401/Nota+003.pdf/e21048b4-07b3-0aee-ba57-83ec466516a4)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

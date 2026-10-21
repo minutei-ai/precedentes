@@ -1,9 +1,9 @@
 # TRT24 · IRDR 7
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt24-irdr-7`
+- **Identificador:** `trt24-irdr-7`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 15/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ A Justiça do Trabalho possui competência para processar e julgar o pedido de d
 
 - [00244622720235240000](https://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024462-27.2023.5.24.0000/2#0247e47)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

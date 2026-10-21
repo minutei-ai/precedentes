@@ -1,9 +1,9 @@
 # TRT12 · IRDR 27
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `trt12-irdr-27`
+- **Identificador:** `trt12-irdr-27`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=27)
@@ -21,4 +21,4 @@ Tese Jurídica nº 22 em IRDR:
 
 - [01026008320015120009](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0102600-83.2001.5.12.0009/2#d747dbc)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 279
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 279
-- **Identificador na fonte:** `stf-adi-279`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-279`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/05/1990
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=279)
 
@@ -20,4 +20,4 @@ Por unanimidade o Tribunal deferiu a medida liminar e suspendeu, até o julgamen
 
 LEG-FED CF ANO-1988 ART-00075 PAR-ÚNICO ART-00079 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00079 PAR-00002 INC-00001 ART-00002 INC-00002 (CE). LEG-EST ADCT ART-00017 PAR-ÚNICO (CES-89), (CE).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJBA · SUM 16
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 16
-- **Identificador na fonte:** `tjba-sum-16`
+- **Identificador:** `tjba-sum-16`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=16)
@@ -18,4 +18,4 @@ próprio fundo de direito.
 
 - 00064118820168050000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

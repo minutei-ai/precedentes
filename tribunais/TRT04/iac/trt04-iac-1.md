@@ -1,9 +1,9 @@
 # TRT04 · IAC 1
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt04-iac-1`
+- **Identificador:** `trt04-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ A decisão do Supremo Tribunal Federal na ADI 5766, que reconheceu a constitucio
 
 - [00204845320235040241](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0020484-53.2023.5.04.0241/2#073d19e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

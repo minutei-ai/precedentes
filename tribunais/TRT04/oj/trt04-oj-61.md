@@ -1,9 +1,9 @@
 # TRT04 · OJ 61
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 61
-- **Identificador na fonte:** `trt04-oj-61`
+- **Identificador:** `trt04-oj-61`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=61)
@@ -18,4 +18,4 @@ REINTEGRAÇÃO NO EMPREGO. CÁLCULO DAS PARCELAS DEVIDAS NO PERÍODO DE AFASTAME
 - [00858002620075040030](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/Iuf_C0SseTbBtabpVyZKFg)
 - [00422009319955040411](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/M41ZTuWWAMxd7jmSsg1HVw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

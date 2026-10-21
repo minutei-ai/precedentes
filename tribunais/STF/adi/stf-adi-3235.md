@@ -1,10 +1,10 @@
 # STF · ADI 3235
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3235
-- **Identificador na fonte:** `stf-adi-3235`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3235`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 04/02/2010
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3235)
 
@@ -20,4 +20,4 @@ Após o voto do Senhor Ministro Carlos Velloso (Relator), julgando improcedente 
 
 LEG-FED CF ANO-1946 ART-00188 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00100 REDAÇÃO DADA PELA EMC-1/1969 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00001 ART-00005 INC-00035 INC-00054 ART-00037 INC-00007 ART-00041 PAR-00004 REDAÇÃO DADA PELA EMC-19/1998 ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000019 ANO-1998 ART-00006 EMENDA CONSTITUCIONAL LEG-FED LEI-007783 ANO-1989 LEI ORDINÁRIA LEG-EST DEC-001807 ANO-2004 ART-00001 PAR-ÚNICO DECRETO, AL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

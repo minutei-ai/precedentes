@@ -1,9 +1,9 @@
 # TJAP · NT 7
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `tjap-nt-7`
+- **Identificador:** `tjap-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/08/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=7)
@@ -39,4 +39,4 @@ a ser seguido quando houver acionamento para apreciação de matéria relacionad
 
 - [Link Nota Técnica](https://www.tjap.jus.br/portal/images/documentos/CEIJAP/CEIJAP_NT7_VIOLENCIA_DOMESTICA.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

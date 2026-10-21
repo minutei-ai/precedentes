@@ -1,9 +1,9 @@
 # TJRO · IRDR 18
 
-- **Tribunal:** TJRO
+- **Órgão:** TJRO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `tjro-irdr-18`
+- **Identificador:** `tjro-irdr-18`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 13/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjro&tipo=IRDR&nr=18)
@@ -20,4 +20,4 @@ ainda não definida.
 
 - 08029144420258220000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPA · NT 8
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `tjpa-nt-8`
+- **Identificador:** `tjpa-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=8)
@@ -20,4 +20,4 @@ O Centro de Inteligência de Justiça do Estado do Pará – CIJEPA aprova a ref
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=1682628)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

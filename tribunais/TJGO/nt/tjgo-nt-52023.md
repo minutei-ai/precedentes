@@ -1,9 +1,9 @@
 # TJGO · NT 52023
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Nota Técnica
 - **Número:** 52023
-- **Identificador na fonte:** `tjgo-nt-52023`
+- **Identificador:** `tjgo-nt-52023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=NT&nr=52023)
@@ -77,4 +77,4 @@ demanda judicial em exame
 
 - [Link Nota Técnica](https://www.tjgo.jus.br/index.php/comissoes-comites/centro-de-inteligencia)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

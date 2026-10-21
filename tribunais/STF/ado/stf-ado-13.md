@@ -1,10 +1,10 @@
 # STF · ADO 13
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade por Omissão
 - **Número:** 13
-- **Identificador na fonte:** `stf-ado-13`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-ado-13`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADO&nr=13)
 
@@ -18,4 +18,4 @@ Após a leitura do relatório feita pelo Ministro Edson Fachin (Presidente); do 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=801696640)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

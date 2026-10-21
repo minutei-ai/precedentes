@@ -1,9 +1,9 @@
 # TJAM · SUM 27
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Súmula
 - **Número:** 27
-- **Identificador na fonte:** `tjam-sum-27`
+- **Identificador:** `tjam-sum-27`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=SUM&nr=27)
@@ -16,4 +16,4 @@ Compete ao Juizado da Infância e da Juventude Cível julgar as causas em que a 
 
 - [06475444120238040001](https://consultasaj.tjam.jus.br/cposgcr/show.do?processo.codigo=P0000BTHJ0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

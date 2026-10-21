@@ -1,9 +1,9 @@
 # TJMS · NT 1
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjms-nt-1`
+- **Identificador:** `tjms-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/04/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=1)
@@ -49,4 +49,4 @@ Para ter acesso a todas as atividades do CIJEMS acesse o QRcode.
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/ebf0c4b5d6072dc093c38ba2f39db588.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

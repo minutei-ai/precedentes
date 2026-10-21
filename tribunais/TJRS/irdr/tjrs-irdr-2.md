@@ -1,9 +1,9 @@
 # TJRS · IRDR 2
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjrs-irdr-2`
+- **Identificador:** `tjrs-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=2)
@@ -16,4 +16,4 @@ Divergência de entendimento acerca da aplicabilidade dos artigos 26 e 39 da LEF
 
 São aplicáveis os arts. 26 e 39 da Lei 6.830/80 às execuções fiscais que tramitam na Justiça Estadual do Rio Grande do Sul distribuídas antes da vigência da Lei Estadual nº 14.634/2014, excetuadas as hipóteses de tramitação em serventias privatizadas.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

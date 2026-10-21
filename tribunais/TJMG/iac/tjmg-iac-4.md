@@ -1,9 +1,9 @@
 # TJMG · IAC 4
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjmg-iac-4`
+- **Identificador:** `tjmg-iac-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IAC&nr=4)
@@ -16,4 +16,4 @@ recurso em que se discute direito dos servidores municipais de Capelinha/MG em c
 
 Os servidores do Município de Capelinha tem direito de converter, de forma retroativa, o período de férias prêmio em pecúnia, conforme preconizado pelo artigo 18 da Lei Complementar nº 2.033/2016, que convalidou os termos da LOM.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT12 · IRDR 9
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `trt12-irdr-9`
+- **Identificador:** `trt12-irdr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=9)
@@ -20,4 +20,4 @@ TESE JURÍDICA N° 9 EM IRDR: "MUNICÍPIO DE IMBITUBA. LEI MUNICIPAL N° 4.492/1
 
 - [00001242720205120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/00001242720205120000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

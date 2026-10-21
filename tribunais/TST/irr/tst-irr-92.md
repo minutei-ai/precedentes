@@ -1,9 +1,9 @@
 # TST · IRR 92
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 92
-- **Identificador na fonte:** `tst-irr-92`
+- **Identificador:** `tst-irr-92`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=92)
@@ -16,4 +16,4 @@ A jornada de trabalho iniciada no período noturno (art. 73, § 2º, da CLT) e p
 
 - [00102712520225030055](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0010271-25.2022.5.03.0055/3#db55b6d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

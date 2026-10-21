@@ -1,9 +1,9 @@
 # STJ · RR 219
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 219
-- **Identificador na fonte:** `stj-rr-219`
+- **Identificador:** `stj-rr-219`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=219)
@@ -20,4 +20,14 @@ Questão referente à necessidade da comprovação do esgotamento das diligênci
 
 - [00273773420074010000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900571170&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+Após o advento da Lei n. 11.382/2006, o Juiz, ao decidir acerca da realização da penhora on line, não pode mais exigir a prova, por parte do credor, de exaurimento de vias extrajudiciais na busca de bens a serem penhorados.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

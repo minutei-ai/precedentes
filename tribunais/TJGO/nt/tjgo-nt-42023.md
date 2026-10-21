@@ -1,9 +1,9 @@
 # TJGO · NT 42023
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Nota Técnica
 - **Número:** 42023
-- **Identificador na fonte:** `tjgo-nt-42023`
+- **Identificador:** `tjgo-nt-42023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=NT&nr=42023)
@@ -59,4 +59,4 @@ Corregedoria-Geral da Justiça.
 
 - [Link Nota Técnica](https://www.tjgo.jus.br/index.php/comissoes-comites/centro-de-inteligencia)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

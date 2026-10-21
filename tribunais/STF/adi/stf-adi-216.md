@@ -1,10 +1,10 @@
 # STF · ADI 216
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 216
-- **Identificador na fonte:** `stf-adi-216`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-216`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/05/1990
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=216)
 
@@ -20,4 +20,4 @@ Após o relatório, foi indicado adiamento pelo Sr. Ministro-Relator. Plenário,
 
 LEG-EST CES ANO-1989 ART-00033 INC-00018 ART-00034 PAR-00002, PB.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

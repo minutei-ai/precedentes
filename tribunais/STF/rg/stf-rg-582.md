@@ -1,9 +1,9 @@
 # STF · RG 582
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 582
-- **Identificador na fonte:** `stf-rg-582`
+- **Identificador:** `stf-rg-582`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=582)
@@ -20,4 +20,4 @@ O habeas data é a garantia constitucional adequada para a obtenção, pelo pró
 
 - [673707](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4204594)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

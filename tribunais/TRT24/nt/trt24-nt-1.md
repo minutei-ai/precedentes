@@ -1,9 +1,9 @@
 # TRT24 · NT 1
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `trt24-nt-1`
+- **Identificador:** `trt24-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/01/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=1)
@@ -80,4 +80,4 @@ recomenda o seu cancelamento.
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+1-2022+CIPJ+-+TRT24a+REGI%C3%83O.pdf/89012571-e5fb-4426-960b-cc12790abfcc?t=1656354356011)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

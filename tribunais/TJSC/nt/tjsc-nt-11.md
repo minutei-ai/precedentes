@@ -1,9 +1,9 @@
 # TJSC · NT 11
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `tjsc-nt-11`
+- **Identificador:** `tjsc-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=11)
@@ -40,4 +40,4 @@ respeito a direitos individuais homogêneos disponíveis.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/CIJESC-NotaTe%CC%81cnica11-2025.pdf/49ee54fb-d628-0e80-189a-2305d678ce23?t=1749245378008)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

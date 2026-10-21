@@ -1,9 +1,9 @@
 # TJPA · NT 7
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `tjpa-nt-7`
+- **Identificador:** `tjpa-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/01/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=7)
@@ -20,4 +20,4 @@ O Centro de Inteligência da Justiça Estadual do Pará (Cijepa), criado pela Re
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=1325584)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

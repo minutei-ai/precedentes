@@ -1,9 +1,9 @@
 # TNU · PUIL 19
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 19
-- **Identificador na fonte:** `tnu-puil-19`
+- **Identificador:** `tnu-puil-19`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=19)
@@ -16,4 +16,4 @@ Saber se a mera ausência de vínculo na CTPS é prova suficiente do desemprego 
 
 É possível comprovar a condição de desemprego involuntário por outros meios de prova diversos do registro no Ministério do Trabalho, não sendo a ausência de vínculo na CTPS suficiente para tanto. Vide Súmula 27 da TNU.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

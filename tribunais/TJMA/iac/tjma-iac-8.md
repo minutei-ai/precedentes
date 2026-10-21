@@ -1,9 +1,9 @@
 # TJMA · IAC 8
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `tjma-iac-8`
+- **Identificador:** `tjma-iac-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IAC&nr=8)
@@ -22,4 +22,4 @@ Tese n. 3: Em respeito ao art. 921, §5º, do CPC, o juiz somente poderá decret
 
 - 00005407920108100087
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

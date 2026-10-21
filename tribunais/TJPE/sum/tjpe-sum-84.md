@@ -1,9 +1,9 @@
 # TJPE · SUM 84
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 84
-- **Identificador na fonte:** `tjpe-sum-84`
+- **Identificador:** `tjpe-sum-84`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=84)
@@ -20,4 +20,4 @@ Os prazos processuais na instrução criminal não são peremptórios, podendo s
 - [00033169520088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00033169520088170000)
 - [00008191120088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00008191120088170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

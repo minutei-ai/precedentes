@@ -1,9 +1,9 @@
 # TJSE · IRDR 110
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 110
-- **Identificador na fonte:** `tjse-irdr-110`
+- **Identificador:** `tjse-irdr-110`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 03/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=110)
@@ -17,4 +17,4 @@ Fixar se os descontos sindicais realizados de forma irregular ? sem autoriza?o e
 - 00016122620258250001
 - 00504832420248250001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

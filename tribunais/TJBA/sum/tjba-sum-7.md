@@ -1,9 +1,9 @@
 # TJBA · SUM 7
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 7
-- **Identificador na fonte:** `tjba-sum-7`
+- **Identificador:** `tjba-sum-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=7)
@@ -20,4 +20,4 @@ Penal.
 - 00112486720088050001
 - 00015576620048050228
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

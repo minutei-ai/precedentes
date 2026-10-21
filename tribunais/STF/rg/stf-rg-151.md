@@ -1,9 +1,9 @@
 # STF · RG 151
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 151
-- **Identificador na fonte:** `stf-rg-151`
+- **Identificador:** `stf-rg-151`
 - **Situação na fonte:** Não há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=151)
@@ -20,4 +20,4 @@ Decretação de ofício da prescrição de crédito tributário sem a manifesta�
 
 - [583747](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2610189)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

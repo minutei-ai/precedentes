@@ -1,9 +1,9 @@
 # TRT06 · IRDR 1
 
-- **Tribunal:** TRT06
+- **Órgão:** TRT06
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trt06-irdr-1`
+- **Identificador:** `trt06-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt06&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ O caixa executivo da Caixa Econômica Federal tem direito a uma pausa de 10 minu
 
 - [00000633720205060000](https://pje.trt6.jus.br/consultaprocessual/detalhe-processo/0000063-37.2020.5.06.0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

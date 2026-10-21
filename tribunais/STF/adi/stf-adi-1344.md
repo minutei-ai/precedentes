@@ -1,10 +1,10 @@
 # STF · ADI 1344
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1344
-- **Identificador na fonte:** `stf-adi-1344`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1344`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/12/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1344)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu em parte, o pedido de medida liminar 
 
 LEG-FED CF ANO-1988 ART-00037 INC-00011 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LCP-000046 ANO-1994 ART-00071 PAR-00001 (ES). LEG-EST LCP-000048 ANO-1994 ART-00002 (ES). LEG-EST LCP-000050 ANO-1994 ART-00001 (ES).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRO · IRDR 15
 
-- **Tribunal:** TJRO
+- **Órgão:** TJRO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjro-irdr-15`
+- **Identificador:** `tjro-irdr-15`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 09/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjro&tipo=IRDR&nr=15)
@@ -31,4 +31,4 @@ Tese de transição - Contratos celebrados antes da Instrução Normativa do INS
 
 - 08022050920258220000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

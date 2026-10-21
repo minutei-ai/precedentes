@@ -1,10 +1,10 @@
 # STF · ADI 299
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 299
-- **Identificador na fonte:** `stf-adi-299`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-299`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/06/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=299)
 
@@ -20,4 +20,4 @@ O Tribunal, por maioria de votos, não conheceu da ação e julgou prejudicada a
 
 LEG-FED CF ANO-1988 ART-00007 INC-00006 ART-00008 INC-00001 ART-00029 PAR-00002 ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-005452 ANO-1943 ART-00537 PAR-00002 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED INT-000009 ANO-1990 (Ministério do Trabalho e Previdência Social) LEG-EST LEI-001432 ANO-1989 ART-00006 (ANEXOS I e II) (RJ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

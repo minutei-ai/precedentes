@@ -1,9 +1,9 @@
 # TJBA · IRDR 4512
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4512
-- **Identificador na fonte:** `tjba-irdr-4512`
+- **Identificador:** `tjba-irdr-4512`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=4512)
@@ -17,4 +17,4 @@ Versa a controvérsia acerca definição da competência das Varas da Infância 
 - [05047945320178050080](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 - [00186993420178050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

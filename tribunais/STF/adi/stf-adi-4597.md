@@ -1,10 +1,10 @@
 # STF · ADI 4597
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4597
-- **Identificador na fonte:** `stf-adi-4597`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4597`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/06/2011
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4597)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade e nos termos do voto do Relator, concedeu a liminar 
 
 LEG-FED CF ANO-1988 ART-00001 ART-00018 ART-00030 ART-00153 ART-00154 ART-00155 ART-00156 ART-00157 ART-00158 INC-00003 INC-00004 ART-00159 ART-00160 PAR-ÚNICO INC-00001 INC-00002 ART-00198 PAR-00002 INC-00002 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00011 ART-00077 INC-00003 PAR-00003 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-EST CES ANO-1989 ART-0249A PAR-00001 INC-00001 REDAÇÃO DADA PELA EMC-71/2011 CONSTITUIÇÃO ESTADUAL, CE LEG-EST EMC-000071 ANO-2011 EMENDA CONSTITUCIONAL, CE LEG-EST DEC-030483 ANO-2011 ART-00001 DECRETO, CE
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

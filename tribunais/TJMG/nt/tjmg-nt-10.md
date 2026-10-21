@@ -1,9 +1,9 @@
 # TJMG · NT 10
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `tjmg-nt-10`
+- **Identificador:** `tjmg-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=10)
@@ -23,4 +23,4 @@ O CIJMG sugere ainda o compartilhamento das informações com outros Centros de 
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC808B98C8CC340198C8FCBE253F46)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

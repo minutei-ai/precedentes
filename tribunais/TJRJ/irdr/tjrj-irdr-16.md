@@ -1,9 +1,9 @@
 # TJRJ · IRDR 16
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `tjrj-irdr-16`
+- **Identificador:** `tjrj-irdr-16`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 11/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=16)
@@ -20,4 +20,4 @@ I. O equacionamento do déficit atuarial da Petros é lícito e necessário à g
 
 - [00265812320188190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2018.291.00013)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

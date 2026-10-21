@@ -1,9 +1,9 @@
 # TJMT · IRDR 7
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjmt-irdr-7`
+- **Identificador:** `tjmt-irdr-7`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 09/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ A pretensão econômica, nas ações propostas contra a Fazenda Pública, que di
 
 - 10237324420228110000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

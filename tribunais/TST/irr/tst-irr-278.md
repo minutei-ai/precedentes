@@ -1,9 +1,9 @@
 # TST · IRR 278
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 278
-- **Identificador na fonte:** `tst-irr-278`
+- **Identificador:** `tst-irr-278`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=278)
@@ -20,4 +20,4 @@ O ônus de provar o término do contrato de trabalho, quando negados a prestaç�
 
 - [00000626720235090322](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00000626720235090322)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

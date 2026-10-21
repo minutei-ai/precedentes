@@ -1,9 +1,9 @@
 # TJPE · IAC 9
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 9
-- **Identificador na fonte:** `tjpe-iac-9`
+- **Identificador:** `tjpe-iac-9`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 07/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IAC&nr=9)
@@ -16,4 +16,4 @@ TESTE IAC 3
 
 - [00016016620188170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00016016620188170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

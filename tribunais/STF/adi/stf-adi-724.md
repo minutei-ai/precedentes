@@ -1,10 +1,10 @@
 # STF · ADI 724
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 724
-- **Identificador na fonte:** `stf-adi-724`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-724`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/05/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=724)
 
@@ -22,4 +22,4 @@ LEG-FED EMC-000001 ANO-1969 ART-00057 INC-00001 CF-1969 CONSTITUIÇÃO FEDERAL L
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=346561)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

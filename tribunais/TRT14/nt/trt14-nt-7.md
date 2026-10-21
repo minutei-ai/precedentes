@@ -1,9 +1,9 @@
 # TRT14 · NT 7
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `trt14-nt-7`
+- **Identificador:** `trt14-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=7)
@@ -23,4 +23,4 @@ afetação, a situação atualizada do processo paradigma, a descrição da mat�
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2024-04/Nota%20T%C3%A9cnica%20n.%2001-2024-TRT14-CI-NUGEPNAC.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

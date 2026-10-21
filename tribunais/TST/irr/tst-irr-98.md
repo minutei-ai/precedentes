@@ -1,9 +1,9 @@
 # TST · IRR 98
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 98
-- **Identificador na fonte:** `tst-irr-98`
+- **Identificador:** `tst-irr-98`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 25/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=98)
@@ -16,4 +16,4 @@
 
 - [00203106720235040201](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020310-67.2023.5.04.0201/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

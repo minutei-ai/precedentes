@@ -1,10 +1,10 @@
 # STF · ADI 8
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 8
-- **Identificador na fonte:** `stf-adi-8`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-8`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/02/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=8)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em vertude do adiantado da 
 
 LEG-FED RES-000293 ANO-1988 CONSELHO INTERMINISTERIAL DE PREÇOS LEG-FED PRT-000037 ANO-1992 SECRETARIA EXECUTIVA DO MEFP.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

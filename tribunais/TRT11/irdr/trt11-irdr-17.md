@@ -1,9 +1,9 @@
 # TRT11 · IRDR 17
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `trt11-irdr-17`
+- **Identificador:** `trt11-irdr-17`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 28/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=17)
@@ -22,4 +22,4 @@ A caracterização da incapacidade laborativa constitui requisito indispensável
 - [00005003420255110010](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000500-34.2025.5.11.0010/2)
 - [00010774220255110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0001077-42.2025.5.11.0000/2#7721ed5)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

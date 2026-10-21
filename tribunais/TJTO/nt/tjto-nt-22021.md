@@ -1,9 +1,9 @@
 # TJTO · NT 22021
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Nota Técnica
 - **Número:** 22021
-- **Identificador na fonte:** `tjto-nt-22021`
+- **Identificador:** `tjto-nt-22021`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=NT&nr=22021)
@@ -31,4 +31,4 @@ Sugestão de boas práticas:
 
 - Link Nota Técnica
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

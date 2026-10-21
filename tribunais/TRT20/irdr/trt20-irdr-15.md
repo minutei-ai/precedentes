@@ -1,9 +1,9 @@
 # TRT20 · IRDR 15
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `trt20-irdr-15`
+- **Identificador:** `trt20-irdr-15`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 04/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ A ausência ou concessão irregular do intervalo de recuperação térmica ao em
 
 - [00007634720255200000](https://pje.trt20.jus.br/consultaprocessual/detalhe-processo/0000763-47.2025.5.20.0000/2#067720f)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

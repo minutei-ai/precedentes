@@ -1,9 +1,9 @@
 # TRT12 · IRDR 18
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trt12-irdr-18`
+- **Identificador:** `trt12-irdr-18`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=18)
@@ -23,4 +23,4 @@ Resolução nº 3/2025 cancela a Tese Jurídica nº 13, conforme decisão tomada
 - [00004354720225120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000435-47.2022.5.12.0000/2#b1f9996)
 - [00007436120205120030](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000743-61.2020.5.12.0030/2#b5cad81)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

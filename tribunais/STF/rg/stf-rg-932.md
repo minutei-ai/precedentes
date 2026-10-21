@@ -1,9 +1,9 @@
 # STF · RG 932
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 932
-- **Identificador na fonte:** `stf-rg-932`
+- **Identificador:** `stf-rg-932`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=932)
@@ -20,4 +20,4 @@ O artigo 927, parágrafo único, do Código Civil é compatível com o artigo 7�
 
 - [828040](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4608798)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

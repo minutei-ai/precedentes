@@ -1,9 +1,9 @@
 # TJDF · IRDR 6
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjdf-irdr-6`
+- **Identificador:** `tjdf-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 13/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=IRDR&nr=6)
@@ -16,4 +16,4 @@ Definição da responsabilidade pelo pagamento das taxas condominiais geradas po
 
 Expedida a carta de habite-se, a responsabilidade pelo pagamento das obrigações condominiais geradas por imóvel objeto de promessa de compra e venda é da promitente vendedora até a entrega e imissão do adquirente na posse direta da unidade imobiliária, mesmo que haja demora na transmissão da posse provocada por atraso na obtenção de financiamento imobiliário pelo comprador.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

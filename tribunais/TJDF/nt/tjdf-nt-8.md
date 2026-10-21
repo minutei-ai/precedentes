@@ -1,9 +1,9 @@
 # TJDF · NT 8
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `tjdf-nt-8`
+- **Identificador:** `tjdf-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 31/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=NT&nr=8)
@@ -33,4 +33,4 @@ Destarte, ao longo do presente estudo, busca-se demonstrar que os litigantes pos
 
 - [Link Nota Técnica](https://www.tjdft.jus.br/consultas/notas-tecnicas/nota-tecnica-8-versao-final.pdf/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

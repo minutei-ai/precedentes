@@ -1,9 +1,9 @@
 # TRT16 · IRDR 4
 
-- **Tribunal:** TRT16
+- **Órgão:** TRT16
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt16-irdr-4`
+- **Identificador:** `trt16-irdr-4`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt16&tipo=IRDR&nr=4)
@@ -23,4 +23,4 @@ III - A serventia extrajudicial não possui personalidade jurídica e, portanto,
 
 - [00162218620235160000](https://pje.trt16.jus.br/consultaprocessual/detalhe-processo/0016221-86.2023.5.16.0000/2#d5dae72)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT16/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

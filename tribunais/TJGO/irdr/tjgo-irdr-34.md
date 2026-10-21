@@ -1,9 +1,9 @@
 # TJGO · IRDR 34
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `tjgo-irdr-34`
+- **Identificador:** `tjgo-irdr-34`
 - **Situação na fonte:** Acórdão Publicado (RESP Pendente)
 - **Atualização informada pela fonte:** 17/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=34)
@@ -20,4 +20,4 @@ A inclusão ou não no cálculo do cumprimento individual de sentença coletiva 
 
 - 51904237520228090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

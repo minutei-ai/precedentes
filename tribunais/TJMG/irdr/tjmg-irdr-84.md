@@ -1,9 +1,9 @@
 # TJMG · IRDR 84
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 84
-- **Identificador na fonte:** `tjmg-irdr-84`
+- **Identificador:** `tjmg-irdr-84`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 25/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=84)
@@ -20,4 +20,4 @@ recurso em que se discute se: 1) Nas ações de ressarcimento propostas por oper
 
 - [24975234120218130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000210453833002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

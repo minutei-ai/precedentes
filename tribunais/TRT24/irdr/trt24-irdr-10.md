@@ -1,9 +1,9 @@
 # TRT24 · IRDR 10
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `trt24-irdr-10`
+- **Identificador:** `trt24-irdr-10`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IRDR&nr=10)
@@ -26,4 +26,4 @@ ACORDAM os integrantes do Egrégio Pleno do Tribunal Regional do Trabalho da Vig
 
 - [00243338520245240000](https://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024333-85.2024.5.24.0000/2#4e2d468)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · SUM 102
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 102
-- **Identificador na fonte:** `trt04-sum-102`
+- **Identificador:** `trt04-sum-102`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=102)
@@ -18,4 +18,4 @@ RECURSO ORDINÁRIO. CONDENAÇÃO SOLIDÁRIA OU SUBSIDIÁRIA. CUSTAS PROCESSUAIS.
 - [00013960320105040203](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/DbUCD83bK8nl464B1jMHyQ)
 - [00677008120095040861](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/djxUrOLZIJoJB4Q4srCnFPGka4yg2-9FengsynUIFMg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

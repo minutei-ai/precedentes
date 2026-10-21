@@ -1,10 +1,10 @@
 # STF · ADI 1005
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1005
-- **Identificador na fonte:** `stf-adi-1005`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1005`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/11/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1005)
 
@@ -20,4 +20,4 @@ Adiado o julgamento pelo pedido de vista do Ministro Marco Aurélio, depois dos 
 
 LEG-FED CF ANO-1967 ART-00055 INC-00001 INC-00002 INC-00003 ART-00153 PAR-00003 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00001 ART-00005 INC-00002 INC-00032 INC-00036 ART-00052 INC-00002 ART-00060 PAR-00004 INC-00004 ART-00062 PAR-ÚNICO ART-00145 PAR-00001 ART-00150 INC-00003 INC-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-007713 ANO-1988 ART-00007 ART-00008 ART-00012 LEG-FED LEI-008848 ANO-1994 LEG-FED MPR-000400 ANO-1993 LEG-FED SUMSTF-000584 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

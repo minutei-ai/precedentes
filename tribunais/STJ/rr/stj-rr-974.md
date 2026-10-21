@@ -1,9 +1,9 @@
 # STJ · RR 974
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 974
-- **Identificador na fonte:** `stj-rr-974`
+- **Identificador:** `stj-rr-974`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=974)
@@ -21,4 +21,10 @@ A Lei 12.855/2013, que instituiu a Indenização por Trabalho em Localidade Estr
 - [50047789420154047002](https://processo.stj.jus.br/processo/pesquisa/?termo=201601986614&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50938468620144047100](https://processo.stj.jus.br/processo/pesquisa/?termo=201601807263&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

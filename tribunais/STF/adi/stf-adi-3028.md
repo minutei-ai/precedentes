@@ -1,10 +1,10 @@
 # STF · ADI 3028
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3028
-- **Identificador na fonte:** `stf-adi-3028`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3028`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/05/2010
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3028)
 
@@ -20,4 +20,4 @@ Após o voto do Senhor Ministro Marco Aurélio (Relator), que julgava procedente
 
 LEG-FED CF ANO-1988 ART-00005 INC-00035 ART-00021 INC-00011 INC-00012 ART-00022 INC-00025 ART-00025 ART-00030 ART-00098 PAR-00002 REDAÇÃO DADA PELA EMC-45/2004 ART-00127 "CAPUT" ART-00129 INC-00002 ART-00145 INC-00002 ART-00150 ART-00155 ART-00160 INC-00004 ART-00167 INC-00004 ART-00175 PAR-ÚNICO INC-00001 INC-00002 INC-00003 INC-00004 ART-00236 "CAPUT" PAR-00001 PAR-00002 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00032 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED EMC-000045 ANO-2004 EMENDA CONSTITUCIONAL LEG-FED LEI-005172 ANO-1966 ART-00078 CTN-1966 CÓDIGO TRIBUTÁRIO NACIONAL LEG-EST LCP-000166 ANO-1999 ART-00028 INC-00005 REDAÇÃO DADA PELA LCP-181/2000 LEI COMPLEMENTAR, RN LEG-EST LCP-000181 ANO-2000 ART-00004 LEI COMPLEMENTAR, RN
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

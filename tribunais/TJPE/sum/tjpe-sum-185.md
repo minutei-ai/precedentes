@@ -1,9 +1,9 @@
 # TJPE · SUM 185
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 185
-- **Identificador na fonte:** `tjpe-sum-185`
+- **Identificador:** `tjpe-sum-185`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=185)
@@ -17,4 +17,4 @@ O termo inicial de incidência de juros de mora, nas hipóteses em que a resolu�
 - [00366424220178172001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00366424220178172001)
 - [00111097020148170810](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00111097020148170810)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT08 · IAC 13
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 13
-- **Identificador na fonte:** `trt08-iac-13`
+- **Identificador:** `trt08-iac-13`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 29/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IAC&nr=13)
@@ -16,4 +16,4 @@
 
 - [00001018220265080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000101-82.2026.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 564
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 564
-- **Identificador na fonte:** `stf-rg-564`
+- **Identificador:** `stf-rg-564`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=564)
@@ -20,4 +20,4 @@ I - O art. 14, § 5º, da Constituição deve ser interpretado no sentido de que
 
 - [637485](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4050271)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

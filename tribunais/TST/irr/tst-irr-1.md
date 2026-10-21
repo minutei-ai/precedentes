@@ -1,9 +1,9 @@
 # TST · IRR 1
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 1
-- **Identificador na fonte:** `tst-irr-1`
+- **Identificador:** `tst-irr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=1)
@@ -23,4 +23,4 @@ A exigência de apresentação de certidão de antecedentes criminais pelos cand
 - [02430005820135130023](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=243000&digitoTst=58&anoTst=2013&orgaoTst=5&tribunalTst=13&varaTst=0023&submit=Consultar)
 - [01844008920135130008](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0184400&digitoTst=89&anoTst=2013&orgaoTst=5&tribunalTst=13&varaTst=0008&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT07 · IRDR 8
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `trt07-irdr-8`
+- **Identificador:** `trt07-irdr-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=8)
@@ -26,4 +26,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. LEI COMPLEMENTAR Nº 66
 
 - [00036000920235070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0003600-09.2023.5.07.0000/2#306ce8b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

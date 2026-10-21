@@ -1,9 +1,9 @@
 # TRT04 · SUM 42
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 42
-- **Identificador na fonte:** `trt04-sum-42`
+- **Identificador:** `trt04-sum-42`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=42)
@@ -28,4 +28,4 @@ ADICIONAL DE PERICULOSIDADE. RADIAÇÕES IONIZANTES. Devido.
 - [00076002920035040811](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/sAJD4yYQxwzwkuUjgcNqsw)
 - [00025005920035040014](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/EnDpD7pFZfHQyLE5oLjHEQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

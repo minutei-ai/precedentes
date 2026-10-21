@@ -1,9 +1,9 @@
 # TRT15 · IRDR 42
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 42
-- **Identificador na fonte:** `trt15-irdr-42`
+- **Identificador:** `trt15-irdr-42`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 15/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=42)
@@ -20,4 +20,4 @@ Compete à Justiça do Trabalho processar e julgar o pedido de pagamento de Part
 
 - [00185191020255150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018519-10.2025.5.15.0000/2#64d565e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

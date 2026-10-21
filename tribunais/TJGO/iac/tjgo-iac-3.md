@@ -1,9 +1,9 @@
 # TJGO · IAC 3
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `tjgo-iac-3`
+- **Identificador:** `tjgo-iac-3`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 03/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IAC&nr=3)
@@ -16,4 +16,4 @@
 
 - 54963322020258090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

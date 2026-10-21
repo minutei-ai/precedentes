@@ -1,9 +1,9 @@
 # TRT04 · OJ 7
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 7
-- **Identificador na fonte:** `trt04-oj-7`
+- **Identificador:** `trt04-oj-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=7)
@@ -18,4 +18,4 @@ REDIRECIONAMENTO DA EXECUÇÃO CONTRA DEVEDOR SUBSIDIÁRIO. FALÊNCIA DO DEVEDOR
 - [00620005420095040561](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/dWB0-_WPrPtIoGnlIihcKg)
 - [00896006120085040601](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/dvzifEch6icrWWTodmE6OQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

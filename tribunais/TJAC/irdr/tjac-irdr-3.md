@@ -1,9 +1,9 @@
 # TJAC · IRDR 3
 
-- **Tribunal:** TJAC
+- **Órgão:** TJAC
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjac-irdr-3`
+- **Identificador:** `tjac-irdr-3`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 31/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjac&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ O art. 35 da LCE n.º 67/99 – dispositivo que determinava o valor dos vencimen
 
 - 07011118420228010007
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

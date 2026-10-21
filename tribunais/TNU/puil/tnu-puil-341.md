@@ -1,9 +1,9 @@
 # TNU · PUIL 341
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 341
-- **Identificador na fonte:** `tnu-puil-341`
+- **Identificador:** `tnu-puil-341`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 15/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=341)
@@ -16,4 +16,4 @@ Saber se a contagem do prazo mínimo de doze meses de exercício da docência, u
 
 - 50093582420214047111
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

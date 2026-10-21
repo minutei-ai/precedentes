@@ -1,9 +1,9 @@
 # STJ · RR 994
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 994
-- **Identificador na fonte:** `stj-rr-994`
+- **Identificador:** `stj-rr-994`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=994)
@@ -23,4 +23,14 @@ de cálculo da Contribuição Previdenciária sobre a Receita Bruta - CPRB.
 - [50182488320154047200](https://processo.stj.jus.br/processo/pesquisa/?termo=201602557003&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50066892620154047202](https://processo.stj.jus.br/processo/pesquisa/?termo=201602339734&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+É constitucional a inclusão do Imposto Sobre Circulação de Mercadorias e Serviços - ICMS na basede cálculo da Contribuição Previdenciária sobre a Receita Bruta - CPRB.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJCE · IRDR 14
 
-- **Tribunal:** TJCE
+- **Órgão:** TJCE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `tjce-irdr-14`
+- **Identificador:** `tjce-irdr-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjce&tipo=IRDR&nr=14)
@@ -23,4 +23,4 @@ MESMA QUESTÃO UNICAMENTE DE DIREITO. INADMISSIBILIDADE.
 
 - 06302907720188060000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJCE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

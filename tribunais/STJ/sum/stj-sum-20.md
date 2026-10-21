@@ -1,9 +1,9 @@
 # STJ · SUM 20
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 20
-- **Identificador na fonte:** `stj-sum-20`
+- **Identificador:** `stj-sum-20`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=20)
@@ -12,4 +12,4 @@
 
 A mercadoria importada de país signatário do GATT é isenta do ICM, quando contemplado com esse favor o similar nacional.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

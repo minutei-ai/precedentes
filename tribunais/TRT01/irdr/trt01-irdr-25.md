@@ -1,9 +1,9 @@
 # TRT01 · IRDR 25
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `trt01-irdr-25`
+- **Identificador:** `trt01-irdr-25`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IRDR&nr=25)
@@ -20,4 +20,4 @@ fato de a empresa encontrar-se em recuperação judicial não a dispensa da obri
 
 - [01078600820235010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0107860-08.2023.5.01.0000/2#876f50b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

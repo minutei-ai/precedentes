@@ -1,9 +1,9 @@
 # STF · RG 1317
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1317
-- **Identificador na fonte:** `stf-rg-1317`
+- **Identificador:** `stf-rg-1317`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1317)
@@ -20,4 +20,4 @@ A execução de créditos individuais e divisíveis decorrentes de título judic
 
 - [1491569](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6911552)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

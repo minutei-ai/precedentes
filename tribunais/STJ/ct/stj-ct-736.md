@@ -1,9 +1,9 @@
 # STJ · CT 736
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 736
-- **Identificador na fonte:** `stj-ct-736`
+- **Identificador:** `stj-ct-736`
 - **Situação na fonte:** Controvérsia pendente
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=736)
@@ -22,4 +22,14 @@ Definir se a atividade de manutenção e troca de óleos lubrificantes dos veíc
 - [08174130620244058300](https://processo.stj.jus.br/processo/pesquisa/?termo=202504743775&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08005110620234058205](https://processo.stj.jus.br/processo/pesquisa/?termo=202504951035&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Pendente
+
+### Questão
+
+Definir se a atividade de manutenção e troca de óleos lubrificantes dos veículos automotores, com o consequente depósito rotativo para fins de coleta de óleo lubrificante usado ou contaminado (OLUC), realizada pelas concessionárias de veículos, se enquadra no Anexo VIII (categoria 18), da Lei nº 6.938/1981, para fim de incidência da Taxa de Controle e Fiscalização Ambiental (TCFA).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

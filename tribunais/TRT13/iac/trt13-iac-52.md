@@ -1,9 +1,9 @@
 # TRT13 · IAC 52
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 52
-- **Identificador na fonte:** `trt13-iac-52`
+- **Identificador:** `trt13-iac-52`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 29/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=52)
@@ -20,4 +20,4 @@ DOENÇA OCUPACIONAL. ÔNUS DA PROVA DA CULPA. ATRIBUIÇÃO AO EMPREGADOR. Imposs
 
 - [01306878320155130024](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0130687-83.2015.5.13.0024/2#eaed722)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 542
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 542
-- **Identificador na fonte:** `stf-rg-542`
+- **Identificador:** `stf-rg-542`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=542)
@@ -20,4 +20,4 @@ A trabalhadora gestante tem direito ao gozo de licença-maternidade e à estabil
 
 - [842844](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4650144)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

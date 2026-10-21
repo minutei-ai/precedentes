@@ -1,9 +1,9 @@
 # TJPE · SUM 156
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 156
-- **Identificador na fonte:** `tjpe-sum-156`
+- **Identificador:** `tjpe-sum-156`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=156)
@@ -19,4 +19,4 @@ Na responsabilidade civil contratual, se líquida a obrigação, os juros morat�
 - [00017322120138170710](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00017322120138170710)
 - [00001171519978171370](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00001171519978171370)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

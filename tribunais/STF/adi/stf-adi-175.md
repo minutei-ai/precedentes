@@ -1,10 +1,10 @@
 # STF · ADI 175
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 175
-- **Identificador na fonte:** `stf-adi-175`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-175`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/06/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=175)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou improcedente a ação, para declarar a
 
 LEG-FED CF ANO-1988 ART-00025 ART-00037 INC-00002 ART-00039 PAR-00002 ART-00061 PAR-00001 LET-C LET-D ART-00132 ART-00134 PAR-ÚNICO ART-00135 ART-00173 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ART-00022 ART-00069 CF-1988. LEG-FED LCP-000073 ANO-1993 LEG-FED LEI-008112 ANO-1990 ART-00087 RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS LEG-FED DEC-093408 ANO-1986 LEG-EST CES ANO-1989 ART-00034 INC-00018 LET-A LET-B INC-00021 PR, INCONSTITUCIONALIDADE. LEG-EST CES ANO-1989 ART-00027 PAR-00007 ART-00125 PAR-00002 INC-00003 PAR-00003 INC-00001 PR. LEG-EST ADCT ANO-1989 ART-00046 ART-00055 CES-89, PR, INCONSTITUCIONALIDADE. LEG-EST ADCT ANO-1989 ART-00056 PAR-00001 PAR-00002 PAR-00003 CES-89, PR. LEG-EST LEI-008672 ANO-1987 PR. LEG-EST LEI-009422 ANO-1990 PR. LEG-EST RES-008714 ANO-1986 SECRETARIA DA ADMISTRAÇÃO, PR. LEG-EST REG ART-00075 TRIBUNAL DE JUSTIÇA, PR.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

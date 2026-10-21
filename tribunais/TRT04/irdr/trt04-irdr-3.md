@@ -1,9 +1,9 @@
 # TRT04 · IRDR 3
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `trt04-irdr-3`
+- **Identificador:** `trt04-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=3)
@@ -22,4 +22,4 @@ O Tribunal Pleno cancelou a tese jurídica fixada no IRDR 03 deste Tribunal (002
 - [00214021420175040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021402-14.2017.5.04.0000/2#e8f5061)
 - [00202517820175040334](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0020251-78.2017.5.04.0334/2#f50930b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

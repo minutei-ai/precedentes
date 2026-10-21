@@ -1,9 +1,9 @@
 # TST · IRR 146
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 146
-- **Identificador na fonte:** `tst-irr-146`
+- **Identificador:** `tst-irr-146`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=146)
@@ -20,4 +20,4 @@ O depósito recursal efetuado pelo devedor principal, desde que não tenha reque
 
 - [10015278720215020022](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1001527-87.2021.5.02.0022/3#e593375)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

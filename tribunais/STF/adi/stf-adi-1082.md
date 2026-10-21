@@ -1,10 +1,10 @@
 # STF · ADI 1082
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1082
-- **Identificador na fonte:** `stf-adi-1082`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1082`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/07/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1082)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o pedido de medida liminar. Votou o
 
 LEG-FED LEI-005869 ANO-1973 ART-00130 ART-00131 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LCP-000064 ANO-1990 ART-00007 PAR-ÚNICO ART-00023
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRR · IAC 8
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `tjrr-iac-8`
+- **Identificador:** `tjrr-iac-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IAC&nr=8)
@@ -20,4 +20,4 @@ Definir se é possível reconhecer conexão ou continência em ação relacionad
 
 - 90000978820248230000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

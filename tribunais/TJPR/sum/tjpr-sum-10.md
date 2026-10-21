@@ -1,9 +1,9 @@
 # TJPR · SUM 10
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 10
-- **Identificador na fonte:** `tjpr-sum-10`
+- **Identificador:** `tjpr-sum-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=10)
@@ -19,4 +19,4 @@ fazendária, já que ela foi revogada por lei (Lei Estadual nº 5.978/69, do art
 definitivamente desfeita por preceito constitucional (Constituição Federal de 1967, do  
 art. 196), contra o qual não se pode argüir direito adquirido".
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

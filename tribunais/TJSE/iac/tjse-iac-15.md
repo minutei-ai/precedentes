@@ -1,9 +1,9 @@
 # TJSE · IAC 15
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 15
-- **Identificador na fonte:** `tjse-iac-15`
+- **Identificador:** `tjse-iac-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 31/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IAC&nr=15)
@@ -20,4 +20,4 @@ DESNECESSIDADE DE PRÉVIO REQUERIMENTO E/OU ESGOTAMENTO DA VIA ADMINISTRATIVA PA
 
 - 00033779520228250014
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

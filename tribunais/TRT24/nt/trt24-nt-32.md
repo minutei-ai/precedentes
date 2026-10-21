@@ -1,9 +1,9 @@
 # TRT24 · NT 32
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 32
-- **Identificador na fonte:** `trt24-nt-32`
+- **Identificador:** `trt24-nt-32`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=32)
@@ -49,4 +49,4 @@ Ante o exposto, o centro de inteligência sugere a normatização de um rito mai
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/CI+NOTA+T%C3%89CNICA+N.+32_2025.pdf/542cf136-e9e1-4c22-f6bb-f6cc790216fd?t=1749065404272)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

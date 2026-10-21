@@ -1,9 +1,9 @@
 # TJSP · SUM 148
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 148
-- **Identificador na fonte:** `tjsp-sum-148`
+- **Identificador:** `tjsp-sum-148`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=148)
@@ -16,4 +16,4 @@
 
 - [00215186720128260053](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI001IT810000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

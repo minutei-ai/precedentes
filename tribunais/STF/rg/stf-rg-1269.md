@@ -1,9 +1,9 @@
 # STF · RG 1269
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1269
-- **Identificador na fonte:** `stf-rg-1269`
+- **Identificador:** `stf-rg-1269`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1269)
@@ -20,4 +20,4 @@ Auxílio-moradia e auxílio-alimentação por ocasião de participação em Prog
 
 - [1450969](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6708521)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

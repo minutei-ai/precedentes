@@ -1,9 +1,9 @@
 # STJ · RR 1228
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1228
-- **Identificador na fonte:** `stj-rr-1228`
+- **Identificador:** `stj-rr-1228`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 09/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1228)
@@ -22,4 +22,14 @@ A contribuição social do salário-educação, prevista no § 5º do art. 212 d
 - [50047859220204047105](https://processo.stj.jus.br/processo/pesquisa/?termo=202301160951&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50800023420214047000](https://processo.stj.jus.br/processo/pesquisa/?termo=202301181699&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Mérito Julgado
+
+### Texto
+
+\*Aguardando a publicação do acórdão do julgamento de mérito.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

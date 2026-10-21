@@ -1,10 +1,10 @@
 # STF · ADI 2582
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2582
-- **Identificador na fonte:** `stf-adi-2582`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2582`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/03/2003
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2582)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009503 ANO-1997 ART-00061 CTB-1997 CÓDIGO DE TRÂNSITO BRASILEIRO L
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266851)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

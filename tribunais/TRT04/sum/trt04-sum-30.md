@@ -1,9 +1,9 @@
 # TRT04 · SUM 30
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 30
-- **Identificador na fonte:** `trt04-sum-30`
+- **Identificador:** `trt04-sum-30`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=30)
@@ -23,4 +23,4 @@ CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA. VALE-ALIMENTAÇÃO. Não incide con
 - [00874005820015040009](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/8fuxMmOroiX3sL74QLEeZQ)
 - [01309004720015040019](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/CAsaJGbS1vuuY-bO1pzw6A)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPR · IRDR 53
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 53
-- **Identificador na fonte:** `tjpr-irdr-53`
+- **Identificador:** `tjpr-irdr-53`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 22/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=53)
@@ -16,4 +16,4 @@
 
 - [00850296020248160000](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0085029-60.2024.8.16.0000&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

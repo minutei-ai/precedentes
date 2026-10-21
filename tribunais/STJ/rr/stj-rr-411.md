@@ -1,9 +1,9 @@
 # STJ · RR 411
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 411
-- **Identificador na fonte:** `stj-rr-411`
+- **Identificador:** `stj-rr-411`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=411)
@@ -20,4 +20,10 @@ Questiona a obrigação ou não de a instituição financeira exibir documentos 
 
 - 00618260720074050000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

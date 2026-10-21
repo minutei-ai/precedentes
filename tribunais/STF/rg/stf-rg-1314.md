@@ -1,9 +1,9 @@
 # STF · RG 1314
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1314
-- **Identificador na fonte:** `stf-rg-1314`
+- **Identificador:** `stf-rg-1314`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1314)
@@ -20,4 +20,4 @@ Incidência do PIS e da COFINS sobre a taxa Selic recebida pelo contribuinte na 
 
 - [1438704](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6648767)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 602
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 602
-- **Identificador na fonte:** `stj-ct-602`
+- **Identificador:** `stj-ct-602`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=602)
@@ -23,4 +23,14 @@ Tese fixada pelo TJMT no julgamento do IRDR: A pretensão econômica, nas açõe
 - [50293010920208240018](https://processo.stj.jus.br/processo/pesquisa/?termo=202303454047&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50190511720218240038](https://processo.stj.jus.br/processo/pesquisa/?termo=202303453199&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Tese fixada pelo TJMT no julgamento do IRDR:A pretensão econômica, nas ações propostas contra a Fazenda Pública, que discutem o direito constitucional à saúde, é aferível, autorizando o arbitramento conforme o valor da condenação ou valor atualizado atribuído à causa, quando condenação ilíquida, nos termos dos § 2º e § 3º, art. 85, do . Código de Processo Civil.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

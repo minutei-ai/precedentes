@@ -1,9 +1,9 @@
 # TRT07 · IRDR 17
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `trt07-irdr-17`
+- **Identificador:** `trt07-irdr-17`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=17)
@@ -20,4 +20,4 @@ SEM TESE FIRMADA - INCIDENTE INADMITIDO. Embargos de declaração julgados: por 
 
 - [00016514220265070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0001651-42.2026.5.07.0000/2#c312139)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

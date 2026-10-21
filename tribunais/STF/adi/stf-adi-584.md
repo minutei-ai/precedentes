@@ -1,10 +1,10 @@
 # STF · ADI 584
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 584
-- **Identificador na fonte:** `stf-adi-584`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-584`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/03/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=584)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantamento 
 
 LEG-FED CF ANO-1988 ART-00100 PAR-00001 PAR-00002 ART-00060 PAR-00004 INC-00003 ART-00125 ART-00165 PAR-00005 PAR-00006 PAR-00009 ART-00167 ART-00169 CF-1988 CONSTITUIÇÃO FEDERAL CF-1988. LEG-FED ADCT ANO-1988 ART-00011 CF-1988. LEG-EST CES ANO-1989 ART-00245 PR.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

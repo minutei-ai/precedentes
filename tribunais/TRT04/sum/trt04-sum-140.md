@@ -1,9 +1,9 @@
 # TRT04 · SUM 140
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 140
-- **Identificador na fonte:** `trt04-sum-140`
+- **Identificador:** `trt04-sum-140`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=140)
@@ -18,4 +18,4 @@ MUNICÍPIO DE URUGUAIANA. ALTERAÇÃO DO VALOR DA GRATIFICAÇÃO ESPECIAL. É il
 - [00214156920165040801](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/CFcThp3Glp3jHDmAQRKwhQ)
 - [00210025320165040802](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/SWd3gya857q9Vdb_JrCRww)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT07 · IAC 15
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 15
-- **Identificador na fonte:** `trt07-iac-15`
+- **Identificador:** `trt07-iac-15`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IAC&nr=15)
@@ -16,4 +16,4 @@ IAC 0003562-89.2026.5.07.0000 I - Primeira questão — Competência Material- C
 
 - [00035628920265070000](http://)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

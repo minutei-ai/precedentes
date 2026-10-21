@@ -1,9 +1,9 @@
 # TJMG · IRDR 99
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 99
-- **Identificador na fonte:** `tjmg-irdr-99`
+- **Identificador:** `tjmg-irdr-99`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=99)
@@ -20,4 +20,4 @@ Os policiais civis têm direito ao pagamento retroativo do auxílio-alimentaçã
 
 - [12278100920238130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000231227810001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

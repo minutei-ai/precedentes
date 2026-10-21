@@ -1,9 +1,9 @@
 # TNU · PUIL 337
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 337
-- **Identificador na fonte:** `tnu-puil-337`
+- **Identificador:** `tnu-puil-337`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=337)
@@ -21,4 +21,4 @@ Para períodos posteriores ao advento da Lei n. 9.032/1995, não se admite a esp
 - [50190358720214047205](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50190358720214047205)
 - [50187124320204047100](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50187124320204047100)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

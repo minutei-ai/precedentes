@@ -1,9 +1,9 @@
 # TRF03 · IAC 7
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 7
-- **Identificador na fonte:** `trf03-iac-7`
+- **Identificador:** `trf03-iac-7`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 11/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IAC&nr=7)
@@ -16,4 +16,4 @@ Revisão do acórdão proferido pela E. Sétima Turma nos autos nº 0004177-43.2
 
 - 50183961720204030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

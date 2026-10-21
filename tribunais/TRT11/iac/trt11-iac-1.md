@@ -1,9 +1,9 @@
 # TRT11 · IAC 1
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt11-iac-1`
+- **Identificador:** `trt11-iac-1`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 24/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IAC&nr=1)
@@ -21,4 +21,4 @@ A coisa julgada no processo coletivo não é absoluta. Restringe-se às questõe
 - [00011646320235110001](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0001164-63.2023.5.11.0001/2#4397fa1)
 - [00006911220255110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000691-12.2025.5.11.0000/2#473bd0d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

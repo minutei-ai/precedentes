@@ -1,9 +1,9 @@
 # TJSP · IRDR 9
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjsp-irdr-9`
+- **Identificador:** `tjsp-irdr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=9)
@@ -16,4 +16,4 @@ Incidente de resolução de demandas repetitivas - Fase de Admissibilidade. Incl
 
 - [22469482620168260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=2246948-26.2016&foroNumeroUnificado=0000&dePesquisaNuUnificado=2246948-26.2016.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

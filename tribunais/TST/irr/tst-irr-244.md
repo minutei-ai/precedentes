@@ -1,9 +1,9 @@
 # TST · IRR 244
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 244
-- **Identificador na fonte:** `tst-irr-244`
+- **Identificador:** `tst-irr-244`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=244)
@@ -20,4 +20,4 @@ O jornalista que exerce funções típicas de sua profissão, independentemente 
 
 - [00103767520235030181](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00103767520235030181)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

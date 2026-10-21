@@ -1,9 +1,9 @@
 # TRT18 · NT 11
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `trt18-nt-11`
+- **Identificador:** `trt18-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=NT&nr=11)
@@ -24,4 +24,4 @@ Diante da limitação de caracteres para este campo, informo o link de acesso à
 
 - [Link Nota Técnica](https://www.trt18.jus.br/portal/arquivos/2025/06/Nota-tecnica-n.-11.2025-PangeaGab.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

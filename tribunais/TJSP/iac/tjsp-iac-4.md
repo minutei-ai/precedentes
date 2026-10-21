@@ -1,9 +1,9 @@
 # TJSP · IAC 4
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjsp-iac-4`
+- **Identificador:** `tjsp-iac-4`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 08/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ O valor cobrado pela CETESB para o licenciamento ambiental possui natureza jurí
 
 - [10000687020208260053](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=1000068-70.2020&foroNumeroUnificado=0053&dePesquisaNuUnificado=1000068-70.2020.8.26.0053&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

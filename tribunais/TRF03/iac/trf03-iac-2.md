@@ -1,9 +1,9 @@
 # TRF03 · IAC 2
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `trf03-iac-2`
+- **Identificador:** `trf03-iac-2`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 11/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IAC&nr=2)
@@ -16,4 +16,4 @@ IAC objetivando que a remessa necessária em face de sentença de improcedência
 
 - 50008378620164030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

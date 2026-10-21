@@ -1,9 +1,9 @@
 # TRT01 · NT 3
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `trt01-nt-3`
+- **Identificador:** `trt01-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 31/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=3)
@@ -30,4 +30,4 @@ Rio de Janeiro, 29 de agosto de 2022.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3695556/1/NOTA%20T%c3%89CNICA_3_TRT1.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPR · NT 3
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `tjpr-nt-3`
+- **Identificador:** `tjpr-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=NT&nr=3)
@@ -38,4 +38,4 @@ Nesse ponto, é interessante ressaltar, porém, que a fundamentação do Tema n�
 
 - [Link Nota Técnica](https://www.tjpr.jus.br/documents/57363984/58857401/Nota+004+Invertida+com+a+003.pdf/01ec5bdd-7da6-bbc4-7b18-3860ebb6d4f0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

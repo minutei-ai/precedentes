@@ -1,9 +1,9 @@
 # TST · IRR 220
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 220
-- **Identificador na fonte:** `tst-irr-220`
+- **Identificador:** `tst-irr-220`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=220)
@@ -20,4 +20,4 @@ Assegura-se o direito à manutenção de plano de saúde ou de assistência méd
 
 - [00001030520245050421](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000103-05.2024.5.05.0421/3#dd3677f)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

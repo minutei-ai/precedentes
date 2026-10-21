@@ -1,10 +1,10 @@
 # STF · ADI 6927
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6927
-- **Identificador na fonte:** `stf-adi-6927`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6927`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/12/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6927)
 
@@ -22,4 +22,4 @@ LEG-EST LEI-003878 ANO-2002 LEI ORDINÁRIA, RJ LEG-EST LEI-009018 ANO-2020 LEI O
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=765147238)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

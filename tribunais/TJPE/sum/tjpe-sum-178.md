@@ -1,9 +1,9 @@
 # TJPE · SUM 178
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 178
-- **Identificador na fonte:** `tjpe-sum-178`
+- **Identificador:** `tjpe-sum-178`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=178)
@@ -18,4 +18,4 @@ A mora do devedor de dívida garantida por alienação fiduciária pode ser comp
 - [00040584220168170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00040584220168170000)
 - [00159342820158170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00159342820158170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

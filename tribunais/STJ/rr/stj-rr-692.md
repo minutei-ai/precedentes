@@ -1,9 +1,9 @@
 # STJ · RR 692
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 692
-- **Identificador na fonte:** `stj-rr-692`
+- **Identificador:** `stj-rr-692`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=692)
@@ -21,4 +21,10 @@ A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da 
 - [00274192920104019199](https://processo.stj.jus.br/processo/pesquisa/?termo=201200985301&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [03262813320183000000](https://processo.stj.jus.br/processo/pesquisa/?termo=201803262812&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

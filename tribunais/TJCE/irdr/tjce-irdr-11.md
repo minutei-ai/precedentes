@@ -1,9 +1,9 @@
 # TJCE · IRDR 11
 
-- **Tribunal:** TJCE
+- **Órgão:** TJCE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjce-irdr-11`
+- **Identificador:** `tjce-irdr-11`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjce&tipo=IRDR&nr=11)
@@ -21,4 +21,4 @@ EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. INCIDENTE DE RESOLUÇÃO DE DEM
 
 - 06283212720188060000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJCE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

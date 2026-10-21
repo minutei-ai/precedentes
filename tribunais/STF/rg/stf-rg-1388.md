@@ -1,9 +1,9 @@
 # STF · RG 1388
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1388
-- **Identificador na fonte:** `stf-rg-1388`
+- **Identificador:** `stf-rg-1388`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1388)
@@ -20,4 +20,4 @@ Compatibilidade do artigo 144-A, da Lei n. 6.880/1980 (Estatuto dos Militares) c
 
 - [1530083](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7120334)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

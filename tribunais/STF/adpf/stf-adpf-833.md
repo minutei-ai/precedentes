@@ -1,10 +1,10 @@
 # STF · ADPF 833
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 833
-- **Identificador na fonte:** `stf-adpf-833`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-833`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 16/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=833)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00001 ART-00005 ART-00037 "CAPUT" INC-00010 INC-00011 AR
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=762538340)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

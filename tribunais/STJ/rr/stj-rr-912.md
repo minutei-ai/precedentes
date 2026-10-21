@@ -1,9 +1,9 @@
 # STJ · RR 912
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 912
-- **Identificador na fonte:** `stj-rr-912`
+- **Identificador:** `stj-rr-912`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=912)
@@ -20,4 +20,10 @@ Os produtos importados estão sujeitos a uma nova incidência do IPI quando de s
 
 - [50069526620124047201](https://processo.stj.jus.br/processo/pesquisa/?termo=201400347460&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADPF 172
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 172
-- **Identificador na fonte:** `stf-adpf-172`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-172`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/06/2009
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=172)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade, não conheceu da argüição de descumprimento de p
 
 LEG-FED CF ANO-1988 ART-00005 INC-00035 ART-00109 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00522 ART-00527 INC-00003 ART-00558 PAR-ÚNICO CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-FED LEI-009882 ANO-1999 ART-00001 "CAPUT" PAR-00001 ART-00004 PAR-00001 LEI ORDINÁRIA LEG-INT CVC ANO-1980 CONVENÇÃO DE HAIA SOBRE OS ASPECTOS CIVIS DO SEQUESTRO INTERNACIONAL DE CRIANÇAS LEG-FED DEC-003413 ANO-2000 DECRETO
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

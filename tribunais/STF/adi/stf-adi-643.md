@@ -1,10 +1,10 @@
 # STF · ADI 643
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 643
-- **Identificador na fonte:** `stf-adi-643`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-643`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/12/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=643)
 
@@ -20,4 +20,4 @@ O Tribunal, por votação unânime, não conheceu da ação, julgando, em conseq
 
 LEG-FED CF ANO-1988 ART-00102 INC-00001 LET-A CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-003737 ANO-1983 (SP) LEG-FED LEI-007210 ANO-1984 LEP-1984 LEI DE EXECUÇÃO PENAL LEG-EST DEL-000204 ANO-1970 (SP)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

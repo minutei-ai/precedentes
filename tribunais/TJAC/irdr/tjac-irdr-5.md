@@ -1,9 +1,9 @@
 # TJAC · IRDR 5
 
-- **Tribunal:** TJAC
+- **Órgão:** TJAC
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjac-irdr-5`
+- **Identificador:** `tjac-irdr-5`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 14/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjac&tipo=IRDR&nr=5)
@@ -24,4 +24,4 @@ TJAC, nos termos do inciso XVII do art. 46 do RITJAC.
 
 - 10012934720248010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

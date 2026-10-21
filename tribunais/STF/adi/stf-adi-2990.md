@@ -1,10 +1,10 @@
 # STF · ADI 2990
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2990
-- **Identificador na fonte:** `stf-adi-2990`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2990`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/04/2007
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2990)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade, conheceu da ação direta e, por maioria, julgou-a 
 
 LEG-FED CF ANO-1988 ART-00022 ART-00037 INC-00021 ART-00182 ART-00183 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-004657 ANO-1942 ART-00005 LICC-1942 LEI DE INTRODUÇÃO AO CÓDIGO CIVIL LEG-FED LEI-008666 ANO-1993 ART-00017 INC-00001 LET-F ART-00024 ART-00025 LLC-1993 LEI DE LICITAÇÕES LEG-FED LEI-006766 ANO-1979 LEI LEHMAN - LEI DO PARCELAMENTO DO SOLO URBANO LEI ORDINÁRIA LEG-FED LEI-009262 ANO-1996 ART-00003 PAR-00001 PAR-00002 PAR-00003 PAR-00012 LEI ORDINÁRIA LEG-FED LEI-010257 ANO-2001 ESTATUTO DAS CIDADES LEI ORDINÁRIA
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

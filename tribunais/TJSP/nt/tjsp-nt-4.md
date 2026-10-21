@@ -1,9 +1,9 @@
 # TJSP · NT 4
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `tjsp-nt-4`
+- **Identificador:** `tjsp-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=NT&nr=4)
@@ -27,4 +27,4 @@ A conversão da referida Cartilha em Nota Técnica do Centro de Inteligência al
 
 - [Link Nota Técnica](https://www.tjsp.jus.br/Download/CentroInteligencia/NotasTecnicas4.pdf?d=1761750710480)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

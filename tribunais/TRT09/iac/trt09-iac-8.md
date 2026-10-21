@@ -1,9 +1,9 @@
 # TRT09 · IAC 8
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `trt09-iac-8`
+- **Identificador:** `trt09-iac-8`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 21/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=8)
@@ -21,4 +21,4 @@ Responsabilidade dos reclamados Convenção Batista Paranaense, Comunidade Evang
 
 - [00017425920185090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/00017425920185090000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT24 · NT 19
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 19
-- **Identificador na fonte:** `trt24-nt-19`
+- **Identificador:** `trt24-nt-19`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=19)
@@ -38,4 +38,4 @@ Ante o exposto, considerando que acordos de cooperação com plano de trabalho e
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+19.2023.pdf/b65f4181-6a43-452f-0228-c178dd25d711?t=1687361967448)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

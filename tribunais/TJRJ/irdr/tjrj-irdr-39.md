@@ -1,9 +1,9 @@
 # TJRJ · IRDR 39
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 39
-- **Identificador na fonte:** `tjrj-irdr-39`
+- **Identificador:** `tjrj-irdr-39`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 19/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=39)
@@ -20,4 +20,4 @@ Impossibilidade de inserção na base de cálculo do adicional de tempo de servi
 
 - [00937643520238190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2023.291.00067)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

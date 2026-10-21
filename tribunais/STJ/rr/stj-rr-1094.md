@@ -1,9 +1,9 @@
 # STJ · RR 1094
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1094
-- **Identificador na fonte:** `stj-rr-1094`
+- **Identificador:** `stj-rr-1094`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1094)
@@ -22,4 +22,10 @@ O candidato aprovado em concurso público pode assumir cargo que, segundo o edit
 - [08163800920184058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202001980451&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08097812020194058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202002562101&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

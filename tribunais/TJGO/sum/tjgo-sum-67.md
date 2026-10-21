@@ -1,9 +1,9 @@
 # TJGO · SUM 67
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 67
-- **Identificador na fonte:** `tjgo-sum-67`
+- **Identificador:** `tjgo-sum-67`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=67)
@@ -16,4 +16,4 @@ Para o conhecimento da reclamação proposta com base nos artigos 988 e seguinte
 
 - 53433231920178090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

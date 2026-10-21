@@ -1,9 +1,9 @@
 # TJGO · IRDR 46
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 46
-- **Identificador na fonte:** `tjgo-irdr-46`
+- **Identificador:** `tjgo-irdr-46`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 27/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=46)
@@ -20,4 +20,4 @@ Incabível a condenação da Fazenda Pública em honorários advocatícios sucum
 
 - [56967944920258090000](https://projudi.tjgo.jus.br/LogOn)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

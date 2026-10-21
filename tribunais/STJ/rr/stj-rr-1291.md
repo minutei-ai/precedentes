@@ -1,9 +1,9 @@
 # STJ · RR 1291
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1291
-- **Identificador na fonte:** `stj-rr-1291`
+- **Identificador:** `stj-rr-1291`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 17/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1291)
@@ -21,4 +21,10 @@ a) O contribuinte individual não cooperado tem direito ao reconhecimento de tem
 - [50038668920234047108](https://processo.stj.jus.br/processo/pesquisa/?termo=202403002701&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50849735320214047100](https://processo.stj.jus.br/processo/pesquisa/?termo=202403013352&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Acórdão Publicado - RE Pendente
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

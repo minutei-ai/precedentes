@@ -1,9 +1,9 @@
 # TRT13 · IAC 68
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 68
-- **Identificador na fonte:** `trt13-iac-68`
+- **Identificador:** `trt13-iac-68`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 16/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=68)
@@ -20,4 +20,4 @@ BANCO SANTANDER. INCORPORAÇÃO DO BANCO REAL. SUCESSÃO TRABALHISTA. POLÍTICA 
 
 - [00005087620195130006](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000508-76.2019.5.13.0006/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

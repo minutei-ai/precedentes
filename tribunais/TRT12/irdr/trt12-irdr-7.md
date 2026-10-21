@@ -1,9 +1,9 @@
 # TRT12 · IRDR 7
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt12-irdr-7`
+- **Identificador:** `trt12-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ TESE JURÍDICA Nº 4 EM IRDR : "CONTRIBUIÇÃO SINDICAL RURAL. CONSTITUIÇÃO DO
 
 - [00008013820185120029](http://0000801-38.2018.5.12.0029)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · IRDR 25
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `trf03-irdr-25`
+- **Identificador:** `trf03-irdr-25`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 07/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=25)
@@ -16,4 +16,4 @@ Utilização do critério qualitativo ou do critério quantitativo para o reconh
 
 - 50201488220244030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

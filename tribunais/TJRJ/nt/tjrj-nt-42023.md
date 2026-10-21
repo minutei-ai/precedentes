@@ -1,9 +1,9 @@
 # TJRJ · NT 42023
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 42023
-- **Identificador na fonte:** `tjrj-nt-42023`
+- **Identificador:** `tjrj-nt-42023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 03/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=42023)
@@ -34,4 +34,4 @@ Por todo o exposto, recomenda-se:
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/93577919/225363000/4._Nota_Tecnica_CI-TJRJ_04-2023.pdf/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

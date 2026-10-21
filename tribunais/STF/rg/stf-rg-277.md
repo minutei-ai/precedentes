@@ -1,9 +1,9 @@
 # STF · RG 277
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 277
-- **Identificador na fonte:** `stf-rg-277`
+- **Identificador:** `stf-rg-277`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=277)
@@ -20,4 +20,4 @@ I - A eventual inconstitucionalidade de desvinculação de receita de contribui�
 
 - [566007](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2563761)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

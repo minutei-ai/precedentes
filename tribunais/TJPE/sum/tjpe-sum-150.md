@@ -1,9 +1,9 @@
 # TJPE · SUM 150
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 150
-- **Identificador na fonte:** `tjpe-sum-150`
+- **Identificador:** `tjpe-sum-150`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=150)
@@ -20,4 +20,4 @@ o art. 1.º-F à Lei n. 9.494, de 1997; (ii) no percentual de 0,5% ao mês, a pa
 - [00061415620108170480](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00061415620108170480)
 - [01394457020098170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/01394457020098170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

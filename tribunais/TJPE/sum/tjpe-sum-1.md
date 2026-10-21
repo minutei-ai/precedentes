@@ -1,9 +1,9 @@
 # TJPE · SUM 1
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 1
-- **Identificador na fonte:** `tjpe-sum-1`
+- **Identificador:** `tjpe-sum-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 19/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=1)
@@ -19,4 +19,4 @@ Compete ao Juízo que fixou os alimentos processar e julgar as respectivas açõ
 - [00008218320058170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00008218320058170000)
 - [00061310720048170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00061310720048170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

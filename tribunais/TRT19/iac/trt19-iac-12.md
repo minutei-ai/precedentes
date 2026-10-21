@@ -1,9 +1,9 @@
 # TRT19 · IAC 12
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 12
-- **Identificador na fonte:** `trt19-iac-12`
+- **Identificador:** `trt19-iac-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=12)
@@ -20,4 +20,4 @@ A Companhia Alagoana de Recursos Humanos e Patrimoniais (CARHP), sociedade de ec
 
 - [00001546720255190008](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000154-67.2025.5.19.0008/2#bff0d93)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

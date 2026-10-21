@@ -1,9 +1,9 @@
 # TJGO · SUM 73
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 73
-- **Identificador na fonte:** `tjgo-sum-73`
+- **Identificador:** `tjgo-sum-73`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=73)
@@ -16,4 +16,4 @@ Nos moldes da Resolução nº 07/2013 do Órgão Especial deste Tribunal de Just
 
 - 54672966720178090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

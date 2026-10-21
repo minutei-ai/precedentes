@@ -1,9 +1,9 @@
 # TRT17 · IRDR 3
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `trt17-irdr-3`
+- **Identificador:** `trt17-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ Ao sindicato, quando atua como substituto processual em defesa de interesses e d
 
 - [00007622220205170000](https://pje.trt17.jus.br/consultaprocessual/detalhe-processo/0000762-22.2020.5.17.0000/2#5723325)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

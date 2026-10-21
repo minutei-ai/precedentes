@@ -1,9 +1,9 @@
 # STJ · RR 1390
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1390
-- **Identificador na fonte:** `stj-rr-1390`
+- **Identificador:** `stj-rr-1390`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 25/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1390)
@@ -23,4 +23,10 @@ A base de cálculo das contribuições ao INCRA, salário-educação, DPC, FAER,
 - [50038297920204047201](https://processo.stj.jus.br/processo/pesquisa/?termo=202404732890&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08000121720214058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202404664590&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Acórdão Publicado - RE Pendente
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

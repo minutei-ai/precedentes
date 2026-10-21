@@ -1,9 +1,9 @@
 # TRT09 · NT 4
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `trt09-nt-4`
+- **Identificador:** `trt09-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=4)
@@ -22,4 +22,4 @@ de Gerenciamento de Precedentes do TRT9, com o objetivo de estabelecer diretrize
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8796816)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

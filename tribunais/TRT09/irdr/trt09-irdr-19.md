@@ -1,9 +1,9 @@
 # TRT09 · IRDR 19
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 19
-- **Identificador na fonte:** `trt09-irdr-19`
+- **Identificador:** `trt09-irdr-19`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 17/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=19)
@@ -21,4 +21,4 @@ O benefício assegurado nos Termos Aditivos aos Acordos Coletivos de Trabalho da
 
 - [00033074820245090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0003307-48.2024.5.09.0000/2#9c469a7)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSE · IRDR 105
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 105
-- **Identificador na fonte:** `tjse-irdr-105`
+- **Identificador:** `tjse-irdr-105`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=105)
@@ -26,4 +26,4 @@ Definir se o plantão voluntário do Servidor Policial Civil, na forma da Lei Es
 - 00002787120248250039
 - 00175324520228250001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

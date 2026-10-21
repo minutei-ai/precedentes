@@ -1,9 +1,9 @@
 # STF · RG 684
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 684
-- **Identificador na fonte:** `stf-rg-684`
+- **Identificador:** `stf-rg-684`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=684)
@@ -20,4 +20,4 @@ Incidência do PIS e da COFINS sobre a receita advinda da locação de bens móv
 
 - [659412](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4149385)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

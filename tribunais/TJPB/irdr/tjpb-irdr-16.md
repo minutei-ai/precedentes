@@ -1,9 +1,9 @@
 # TJPB · IRDR 16
 
-- **Tribunal:** TJPB
+- **Órgão:** TJPB
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `tjpb-irdr-16`
+- **Identificador:** `tjpb-irdr-16`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 30/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=16)
@@ -16,4 +16,4 @@ Discussão sobre ocorrência de coisa julgada à luz do art. 508 do CPC, nas aç
 
 - [08169557920238150000](https://www.tjpb.jus.br/nugep/irdr)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

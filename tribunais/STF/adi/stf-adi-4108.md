@@ -1,10 +1,10 @@
 # STF · ADI 4108
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4108
-- **Identificador na fonte:** `stf-adi-4108`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4108`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/02/2009
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4108)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade e nos termos do voto da Relatora, referendou a decis
 
 LEG-FED CF ANO-1988 ART-00093 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000045 ANO-2004 EMENDA CONSTITUCIONAL LEG-FED LCP-000035 ANO-1979 ART-00102 LOMAN-1979 LEI ORGÂNICA DA MAGISTRATURA NACIONAL LEG-FED LEI-009868 ANO-1999 ART-00010 LEI ORDINÁRIA LEG-FED RGI ANO-1980 ART-00013 INC-00008 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-EST RGI ANO-2003 ART-00099 ART-00100 "CAPUT" INC-00001 PAR-00001 PAR-00002 PAR-00003 REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA, MG
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

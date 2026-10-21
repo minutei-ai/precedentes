@@ -1,9 +1,9 @@
 # TJPR · IRDR 5
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjpr-irdr-5`
+- **Identificador:** `tjpr-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 24/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=5)
@@ -32,4 +32,4 @@ g) a existência de impurezas na água, por si só, não enseja a responsabilida
 
 - [00054623320148160128](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0005462-33.2014.8.16.0128&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

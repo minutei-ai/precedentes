@@ -1,9 +1,9 @@
 # TJPR · SUM 79
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 79
-- **Identificador na fonte:** `tjpr-sum-79`
+- **Identificador:** `tjpr-sum-79`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=79)
@@ -15,4 +15,4 @@ resposta) do Concurso Público para Agente Penitenciário do Estado do Paraná,
 regido pelo Edital nº 16/2013, são legais e estão de acordo com os parâmetros  
 estabelecidos em edital".
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

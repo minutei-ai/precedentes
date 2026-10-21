@@ -1,10 +1,10 @@
 # STF · ADPF 723
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 723
-- **Identificador na fonte:** `stf-adpf-723`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-723`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/04/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=723)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00001 INC-00004 ART-00022 INC-00001 ART-00170 "CAPUT" CF
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755600527)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

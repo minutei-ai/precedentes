@@ -1,9 +1,9 @@
 # TRF03 · NT 2
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `trf03-nt-2`
+- **Identificador:** `trf03-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 31/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=2)
@@ -20,4 +20,4 @@ TRF03 - CENTRO LOCAL DE INTELIGÊNCIA DA JUSTIÇA FEDERAL DE SÃO PAULO (CLISP) 
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/SEI_TRF3_-_4340008_-_Nota_Tecnica_NI_02_CLISP.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

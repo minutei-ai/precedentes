@@ -1,10 +1,10 @@
 # STF · ADI 3772
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3772
-- **Identificador na fonte:** `stf-adi-3772`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3772`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 29/10/2008
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3772)
 
@@ -20,4 +20,4 @@ Decisão: Após os votos do Senhor Ministro Carlos Britto (relator) e da Senhora
 
 LEG-FED CF ANO-1988 ART-00037 INC-00016 ART-00040 PAR-00001 INC-00003 LET-A PAR-00004 INC-00001 INC-00002 INC-00003 ART-00040 PAR-00005 REDAÇÃO DADA PELA EMC-20/1998 ART-00201 PAR-00001 PAR-00008 ART-00205 "CAPUT" ART-00206 INC-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000020 ANO-1998 EMENDA CONSTITUCIONAL LEG-FED LEI-009394 ANO-1996 ART-00067 PAR-00002 REDAÇÃO DADA PELA LEI-11301/2006 LDBEN-1996 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED LEI-011301 ANO-2006 ART-00001 LEI ORDINÁRIA LEG-FED SUMSTF-000726 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF LEG-EST LCP-000958 ANO-2004 LEI COMPLEMENTAR, SP
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1134
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1134
-- **Identificador na fonte:** `stj-rr-1134`
+- **Identificador:** `stj-rr-1134`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1134)
@@ -22,4 +22,10 @@ Diante do disposto no art. 130, parágrafo único, do Código Tributário Nacion
 - [10007823020208260053](https://processo.stj.jus.br/processo/pesquisa/?termo=202103052869&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10447776920158260053](https://processo.stj.jus.br/processo/pesquisa/?termo=202101883214&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

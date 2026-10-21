@@ -1,9 +1,9 @@
 # TJSP · IRDR 49
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 49
-- **Identificador na fonte:** `tjsp-irdr-49`
+- **Identificador:** `tjsp-irdr-49`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=49)
@@ -20,4 +20,4 @@ Legalidade do Decreto nº 41.446/96, quanto à política tarifária de cobrança
 
 - [22632159720218260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI006NQGS0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

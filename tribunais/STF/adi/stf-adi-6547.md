@@ -1,10 +1,10 @@
 # STF · ADI 6547
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6547
-- **Identificador na fonte:** `stf-adi-6547`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6547`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6547)
 
@@ -22,4 +22,4 @@ LEG-FED LCP-000035 ANO-1979 LOMAN-1979 LEI ORGÂNICA DA MAGISTRATURA NACIONAL LE
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=769412878)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

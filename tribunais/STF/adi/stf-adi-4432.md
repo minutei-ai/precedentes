@@ -1,10 +1,10 @@
 # STF · ADI 4432
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4432
-- **Identificador na fonte:** `stf-adi-4432`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4432`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/04/2011
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4432)
 
@@ -20,4 +20,4 @@ O Tribunal, por maioria e nos termos do voto do Relator, julgou improcedente a a
 
 LEG-FED CF ANO-1988 ART-00005 "CAPUT" ART-00007 INC-00005 INC-00026 ART-00008 INC-00001 INC-00003 INC-00006 ART-00022 INC-00001 PAR-ÚNICO ART-00114 PAR-00002 ART-00170 INC-00008 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-005452 ANO-1943 ART-00577 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED LCP-000103 ANO-2000 ART-00001 PAR-00001 INC-00001 INC-00002 PAR-00002 ART-00002 LEI COMPLEMENTAR LEG-FED LEI-009868 ANO-1999 ART-00011 PAR-00002 ART-00012 LEI ORDINÁRIA LEG-EST LEI-015118 ANO-2006 LEI ORDINÁRIA, PR LEG-EST LEI-015486 ANO-2007 LEI ORDINÁRIA, PR LEG-EST LEI-015826 ANO-2008 REVOGADA PELA LEI-16099/2009 LEI ORDINÁRIA, PR LEG-FED LEI-016099 ANO-2009 REVOGADA PELA LEI-16470/2010 LEI ORDINÁRIA, PR LEG-EST LEI-016470 ANO-2010 ART-00002 LEI ORDINÁRIA, PR
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

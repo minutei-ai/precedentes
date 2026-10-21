@@ -1,9 +1,9 @@
 # TJSC · IAC 15
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 15
-- **Identificador na fonte:** `tjsc-iac-15`
+- **Identificador:** `tjsc-iac-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=IAC&nr=15)
@@ -20,4 +20,4 @@ I. Os contratos administrativos firmados em decorrência de processos licitatór
 
 - [03003161220178240256](https://eproc2g.tjsc.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=03003161220178240256)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · IRDR 28
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 28
-- **Identificador na fonte:** `trf03-irdr-28`
+- **Identificador:** `trf03-irdr-28`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 26/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=28)
@@ -16,4 +16,4 @@ Possibilidade de limitação temporal para a compensação de créditos tributá
 
 - 50305586820254030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

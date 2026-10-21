@@ -1,9 +1,9 @@
 # STF · RG 656
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 656
-- **Identificador na fonte:** `stf-rg-656`
+- **Identificador:** `stf-rg-656`
 - **Situação na fonte:** Há repercussão geral. Leading case: acórdão publicado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=656)
@@ -20,4 +20,4 @@ Limites da atuação legislativa local para disciplinar as atribuições das gua
 
 - [608588](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3832832)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

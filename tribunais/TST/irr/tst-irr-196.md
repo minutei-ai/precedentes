@@ -1,9 +1,9 @@
 # TST · IRR 196
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 196
-- **Identificador na fonte:** `tst-irr-196`
+- **Identificador:** `tst-irr-196`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 24/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=196)
@@ -16,4 +16,4 @@
 
 - [00002279520245110008](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000227-95.2024.5.11.0008/3#4c0eac1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

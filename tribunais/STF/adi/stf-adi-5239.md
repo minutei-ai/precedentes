@@ -1,10 +1,10 @@
 # STF · ADI 5239
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5239
-- **Identificador na fonte:** `stf-adi-5239`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5239`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/11/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5239)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-013097 ANO-2015 ART-00142 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=758230886)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

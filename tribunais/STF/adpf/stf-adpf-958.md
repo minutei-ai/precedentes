@@ -1,10 +1,10 @@
 # STF · ADPF 958
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 958
-- **Identificador na fonte:** `stf-adpf-958`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-958`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/08/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=958)
 
@@ -22,4 +22,4 @@ LEG-MUN LOM ANO-1992 ART-00033 PAR-00003 LEI ORGÂNICA DO MUNICÍPIO DE PACAJUS,
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=770069659)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

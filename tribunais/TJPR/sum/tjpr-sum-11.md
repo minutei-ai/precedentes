@@ -1,9 +1,9 @@
 # TJPR · SUM 11
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 11
-- **Identificador na fonte:** `tjpr-sum-11`
+- **Identificador:** `tjpr-sum-11`
 - **Situação na fonte:** Em revisão
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=11)
@@ -18,4 +18,4 @@ funcional, absoluta e, portanto, inderrogável, circunstância que transfere a
 competência de julgamento de todo e qualquer recurso com valor da ação até 60  
 salários mínimos para o Tribunal de Alçada".
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

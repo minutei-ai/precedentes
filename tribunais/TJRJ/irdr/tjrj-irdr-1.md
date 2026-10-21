@@ -1,9 +1,9 @@
 # TJRJ · IRDR 1
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjrj-irdr-1`
+- **Identificador:** `tjrj-irdr-1`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 29/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=1)
@@ -16,4 +16,4 @@ Constitucionalidade e legalidade, a uma, dos atos governamentais editados a part
 
 - [00232059720168190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2016.291.00022)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

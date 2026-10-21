@@ -1,9 +1,9 @@
 # TJRJ · NT 32026
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 32026
-- **Identificador na fonte:** `tjrj-nt-32026`
+- **Identificador:** `tjrj-nt-32026`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=32026)
@@ -20,4 +20,4 @@ Cuida-se de procedimento administrativo deflagrado a partir do Ofício (id. 1040
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/d/centro-de-inteligencia/nota_tecnica_n_03-2026)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

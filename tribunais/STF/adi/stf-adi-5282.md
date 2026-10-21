@@ -1,10 +1,10 @@
 # STF · ADI 5282
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5282
-- **Identificador na fonte:** `stf-adi-5282`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5282`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/10/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5282)
 
@@ -26,4 +26,4 @@ LEG-FED CF ANO-1988 ART-00150 INC-00002 INC-00003 LET-A LET-C LET-B ART-00219 CF
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=764161803)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

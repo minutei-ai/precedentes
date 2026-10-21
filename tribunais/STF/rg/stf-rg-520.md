@@ -1,9 +1,9 @@
 # STF · RG 520
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 520
-- **Identificador na fonte:** `stf-rg-520`
+- **Identificador:** `stf-rg-520`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=520)
@@ -20,4 +20,4 @@ O sujeito ativo da obrigação tributária de ICMS incidente sobre mercadoria im
 
 - [665134](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4174979)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

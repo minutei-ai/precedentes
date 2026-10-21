@@ -1,10 +1,10 @@
 # STF · ADPF 673
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 673
-- **Identificador na fonte:** `stf-adpf-673`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-673`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 29/06/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=673)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00102 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED L
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753445569)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

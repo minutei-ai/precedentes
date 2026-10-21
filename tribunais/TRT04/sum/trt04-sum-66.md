@@ -1,9 +1,9 @@
 # TRT04 · SUM 66
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 66
-- **Identificador na fonte:** `trt04-sum-66`
+- **Identificador:** `trt04-sum-66`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=66)
@@ -16,4 +16,4 @@ ADICIONAL DE INSALUBRIDADE. UTILIZAÇÃO DE FONES DE OUVIDO. A atividade com uti
 
 - [00003967820135040003](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/xbZ1Q_xGGdSQ_bQIGnVENw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

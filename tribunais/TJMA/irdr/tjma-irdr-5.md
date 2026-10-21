@@ -1,9 +1,9 @@
 # TJMA · IRDR 5
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjma-irdr-5`
+- **Identificador:** `tjma-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=5)
@@ -33,4 +33,4 @@
 - [00049407320168100040](https://jurisconsult.tjma.jus.br/#/sg-public-search-process-list-number,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw)
 - [00342577320158100001](https://jurisconsult.tjma.jus.br/#/sg-public-search-process-list-number,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw,https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

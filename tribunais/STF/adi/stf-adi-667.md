@@ -1,10 +1,10 @@
 # STF · ADI 667
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 667
-- **Identificador na fonte:** `stf-adi-667`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-667`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/08/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=667)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal referendou decisão do Ministro Octavio Gallott
 
 LEG-FED CF ANO-1988 ART-00090 INC-00002 LET-B ART-00169 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED RGI ANO-1980 ART-00013 INC-00008 ART-00014 ART-00021 INC-00005 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-EST RES-000003 ANO-1991 TRIBUNAL DE JUSTIÇA, AL.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

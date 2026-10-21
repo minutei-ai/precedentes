@@ -1,9 +1,9 @@
 # TRT04 · IRDR 5
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `trt04-irdr-5`
+- **Identificador:** `trt04-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=5)
@@ -21,4 +21,4 @@ GUERRA S/A. RESPONSABILIDADE SOLIDÁRIA DO DEG DEUTSCHE INVESTITIONS- UND ENTWIC
 - [00222982320185040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0022298-23.2018.5.04.0000/2#ed258af)
 - [00214952320175040405](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021495-23.2017.5.04.0405/2#2450515)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

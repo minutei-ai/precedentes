@@ -1,10 +1,10 @@
 # STF · ADI 970
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 970
-- **Identificador na fonte:** `stf-adi-970`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-970`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 17/12/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=970)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu, em parte, a medida cautelar, para su
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 ART-00048 INC-00010 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-003780 ANO-1960 PCC-1960 PLANO DE CLASSIFICAÇÃO DE CARGOS DE FUNCIONÁRIOS CIVIS DA UNIÃO LEG-FED LCP-000010 ANO-1970 LEG-FED LEI-005645 ANO-1970 ART-00009 LEG-FED EMR-000001 ANO-1993 ART-00016 INC-00022 TRIBUNAL REGIONAL DO TRABALHO DA 1. REGIAO.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

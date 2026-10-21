@@ -1,9 +1,9 @@
 # TST · IRR 91
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 91
-- **Identificador na fonte:** `tst-irr-91`
+- **Identificador:** `tst-irr-91`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 29/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=91)
@@ -29,4 +29,4 @@ IV - Excetua-se a prescrição intercorrente, cuja declaração de ofício é ex
 
 - [00100833220225030152](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0010083-32.2022.5.03.0152/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

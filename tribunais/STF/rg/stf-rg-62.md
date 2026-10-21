@@ -1,9 +1,9 @@
 # STF · RG 62
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 62
-- **Identificador na fonte:** `stf-rg-62`
+- **Identificador:** `stf-rg-62`
 - **Situação na fonte:** Não há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=62)
@@ -20,4 +20,4 @@ A questão da aplicabilidade da prescrição quinquenal do art. 7º, XXIX, da Co
 
 - [570532](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2574738)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

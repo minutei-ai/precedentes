@@ -1,10 +1,10 @@
 # STF · ADI 1441
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1441
-- **Identificador na fonte:** `stf-adi-1441`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1441`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/06/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1441)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal indeferiu o pedido de medida liminar, vencido o
 
 LEG-FED CF ANO-1988 ART-00037 INC-00011 INC-00013 INC-00014 INC-00015 ART-00040 PAR-00004 ART-00040 PAR-00006 REDAÇÃO DADA PELA EMC-3/1993 ART-00057 ART-00062 ART-00067 ART-00194 INC-00004 ART-00195 INC-00002 PAR-00005 PAR-00006 ART-00201 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000003 ANO-1993 EMENDA CONSTITUCIONAL LEG-FED MPR-001415 ANO-1996 ART-00005 ART-00007
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

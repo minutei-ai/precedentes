@@ -1,9 +1,9 @@
 # TJSP · IRDR 34
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `tjsp-irdr-34`
+- **Identificador:** `tjsp-irdr-34`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=34)
@@ -20,4 +20,4 @@ Não são devidos os juros de mora no período da moratória constitucional do a
 
 - [00446178420198260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=5AC2D78A3947F78DE423EEAA6BFDE840.cposg4?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0044617-84.2019&foroNumeroUnificado=0000&dePesquisaNuUnificado=0044617-84.2019.8.26.0000&dePesquisa=&uuidCaptcha=sajcaptcha_465d628084334274860ae4d3eac1fd21&g-recaptcha-response=03AOLTBLR_iKdpVs8U05YVtydGqb32myQP4YSuJhJBGOfGLdOXo-tvr6cPyRJ6bPkkhLd3LCyRzOfsYBHv-Imu7xLPpIJaCRrL6skFwZcMetdSKzrg7Z3rxSP5EX7sSElJwLFuHTnyu8tBALOgCXFIC6YUI6rpmUW_fPCWIx6DJecbdgjEW28UM8NM73AuJnmXcOHcYc_rZAkmijLof5r7pVMAdHFkEEQlgyo4XpkzoJngXVEoUv0XntHq-WdOws_bIOK08Vamk72C2u2kdN3u0ik14U14tIzxZc8OByi_CiouPJg69C1KByTeIo-Xo75VyawuLntus-__ew9ABx_T0f8T86S4s-XOzZlp69QWEDNrxB95M2E9BK23OqWv1pEs8gTyje3zDtBtSALVNVQBUwuExVF9y455C0fwXzFxc2hoyFDVAQD0wWbk6opU03UOHYopnejUFvCIo8J6HFM49uRZ_7fmTvh8TAO3O_7Xj4U_lk3QNbTDrhk)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

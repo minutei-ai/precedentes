@@ -1,9 +1,9 @@
 # STF · RG 52
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 52
-- **Identificador na fonte:** `stf-rg-52`
+- **Identificador:** `stf-rg-52`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=52)
@@ -20,4 +20,4 @@ A imunidade tributária prevista no art. 149, § 2º, I, da Constituição Feder
 
 - [566259](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2564662)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMA · IRDR 11
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjma-irdr-11`
+- **Identificador:** `tjma-irdr-11`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=11)
@@ -24,4 +24,4 @@ Tese n. 03. A data de adesão ao PGCE, de forma expressa ou tácita, apurada pel
 
 - [08239940520228100000](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=484406&ca=ce949a1a94ad5dcaaad1a19816b04998190c527506c04b014912b55d3d3c6a8abb4c86f6ec34154483485e15f60ae219&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

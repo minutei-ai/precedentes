@@ -1,9 +1,9 @@
 # TJSP · IRDR 57
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 57
-- **Identificador na fonte:** `tjsp-irdr-57`
+- **Identificador:** `tjsp-irdr-57`
 - **Situação na fonte:** Acórdão Publicado (ARE Pendente)
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=57)
@@ -24,4 +24,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - Juízo de admissibilidade - Q
 
 - [23868718620248260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=2386871-86.2024&foroNumeroUnificado=0000&dePesquisaNuUnificado=2386871-86.2024.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · SUM 117
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 117
-- **Identificador na fonte:** `trt04-sum-117`
+- **Identificador:** `trt04-sum-117`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=117)
@@ -19,4 +19,4 @@ REGIME DE TRABALHO 12 X 36. VALIDADE. É válida a escala de 12 (doze) horas de 
 - [00202825820155040661](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/rf8jXwghM1VAei7EsohgKg)
 - [00213437720145040017](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/s8Hey4OpD8iubqJ88unoGQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

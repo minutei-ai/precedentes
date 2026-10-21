@@ -1,9 +1,9 @@
 # TJGO · IRDR 19
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 19
-- **Identificador na fonte:** `tjgo-irdr-19`
+- **Identificador:** `tjgo-irdr-19`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=19)
@@ -20,4 +20,4 @@ A multa prevista no artigo 71, XII, alínea a, do Código Tributário Estadu
 
 - 53893161020188090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

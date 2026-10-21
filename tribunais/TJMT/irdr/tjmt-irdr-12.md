@@ -1,9 +1,9 @@
 # TJMT · IRDR 12
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjmt-irdr-12`
+- **Identificador:** `tjmt-irdr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=12)
@@ -21,4 +21,4 @@ II) O alcance do Tema 1097 do STF implica na aplicação integral do art. 98, §
 
 - [10102805920258110000](https://consultaprocessual.tjmt.jus.br/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · OJ 85
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 85
-- **Identificador na fonte:** `trt04-oj-85`
+- **Identificador:** `trt04-oj-85`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=85)
@@ -25,4 +25,4 @@ FALÊNCIA. RECUPERAÇÃO JUDICIAL. REDIRECIONAMENTO DA EXECUÇÃO. Possível o r
 - [00209124620155040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/lbfQ7_Einj9wNmoPb5vtSw)
 - [00209733120155040028](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/N3NTGbUd4dF0fxDg81UeKw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

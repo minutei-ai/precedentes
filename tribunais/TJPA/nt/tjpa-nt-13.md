@@ -1,9 +1,9 @@
 # TJPA · NT 13
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `tjpa-nt-13`
+- **Identificador:** `tjpa-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=13)
@@ -22,4 +22,4 @@ Com base na análise de dados processuais, que iremos avaliar nesta nota, é evi
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=2149647)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJBA · IRDR 19
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 19
-- **Identificador na fonte:** `tjba-irdr-19`
+- **Identificador:** `tjba-irdr-19`
 - **Situação na fonte:** Acórdão Publicado (AREsp Pendente)
 - **Atualização informada pela fonte:** 27/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=19)
@@ -20,4 +20,4 @@ Cinge-se a questão acerca da legalidade ou não da exoneração de servidores m
 
 - [80006001920218050264](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

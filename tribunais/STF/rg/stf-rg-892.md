@@ -1,9 +1,9 @@
 # STF · RG 892
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 892
-- **Identificador na fonte:** `stf-rg-892`
+- **Identificador:** `stf-rg-892`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=892)
@@ -20,4 +20,4 @@ A questão da definição do marco prescricional para a cobrança de valores dev
 
 - [913264](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4842252)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

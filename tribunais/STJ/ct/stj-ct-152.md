@@ -1,9 +1,9 @@
 # STJ · CT 152
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 152
-- **Identificador na fonte:** `stj-ct-152`
+- **Identificador:** `stj-ct-152`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=152)
@@ -22,4 +22,14 @@ Responsabilidade solidária de ex-proprietário de veículo automotor pelo pagam
 - [10034928420178260002](https://processo.stj.jus.br/processo/pesquisa/?termo=202001587162&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [07126798320128040001](https://processo.stj.jus.br/processo/pesquisa/?termo=201903340103&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Responsabilidade solidária de ex-proprietário de veículo automotor pelo pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, em razão da omissão na comunicação da alienação ao órgão de trânsito local.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

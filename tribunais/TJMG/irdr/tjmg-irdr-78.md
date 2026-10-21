@@ -1,9 +1,9 @@
 # TJMG · IRDR 78
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 78
-- **Identificador na fonte:** `tjmg-irdr-78`
+- **Identificador:** `tjmg-irdr-78`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 19/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=78)
@@ -20,4 +20,4 @@ O julgamento, por este Tribunal, de qualquer causa, recurso ou incidente suscita
 
 - [07401484320218130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10137190000588002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

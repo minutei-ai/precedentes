@@ -1,9 +1,9 @@
 # TRT01 · IRDR 35
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 35
-- **Identificador na fonte:** `trt01-irdr-35`
+- **Identificador:** `trt01-irdr-35`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 18/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IRDR&nr=35)
@@ -16,4 +16,4 @@ Para a progressão vertical dos empregados da RIOLUZ para o cargo de Controlador
 
 - [01072157520265010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0107215-75.2026.5.01.0000/2#54c39e9)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

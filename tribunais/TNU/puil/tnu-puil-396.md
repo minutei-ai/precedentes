@@ -1,9 +1,9 @@
 # TNU · PUIL 396
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 396
-- **Identificador na fonte:** `tnu-puil-396`
+- **Identificador:** `tnu-puil-396`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=396)
@@ -16,4 +16,4 @@ Definir se a tese firmada no Tema nº 189 dos representativos de controvérsia p
 
 - [10127464620224013200](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=10127464620224013200)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

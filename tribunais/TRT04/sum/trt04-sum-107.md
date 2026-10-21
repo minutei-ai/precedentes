@@ -1,9 +1,9 @@
 # TRT04 · SUM 107
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 107
-- **Identificador na fonte:** `trt04-sum-107`
+- **Identificador:** `trt04-sum-107`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=107)
@@ -19,4 +19,4 @@ ACORDO JUDICIAL COM QUITAÇÃO DO CONTRATO DE TRABALHO. PRETENSÕES INDENIZATÓR
 - [00206197020145040406](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/eD6GzM7ATiyDSjUB0__oZA)
 - [00006400920115040801](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/wX25BRUkk_IptzN4YNBK_Q)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

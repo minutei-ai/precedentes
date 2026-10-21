@@ -1,10 +1,10 @@
 # STF · ADI 1074
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1074
-- **Identificador na fonte:** `stf-adi-1074`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1074`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/06/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1074)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu o pedido de liminar para suspender, a
 
 LEG-FED CF ANO-1988 ART-00005 INC-00035 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008870 ANO-1994 ART-00019
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

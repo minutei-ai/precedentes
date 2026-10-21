@@ -1,9 +1,9 @@
 # TRT01 · NT 7
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `trt01-nt-7`
+- **Identificador:** `trt01-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=7)
@@ -33,4 +33,4 @@ Rio de Janeiro, 19 de junho de 2023
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3698415/1/NT07_CI_TRT1_Recursos%20Representativos%20da%20Controv%c3%a9rsia.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

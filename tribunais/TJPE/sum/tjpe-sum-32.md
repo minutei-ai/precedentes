@@ -1,9 +1,9 @@
 # TJPE · SUM 32
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 32
-- **Identificador na fonte:** `tjpe-sum-32`
+- **Identificador:** `tjpe-sum-32`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=32)
@@ -19,4 +19,4 @@ O valor da causa na ação declaratória deve corresponder ao benefício econôm
 - [00056464120038170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00056464120038170000)
 - [00061960720018170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00061960720018170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

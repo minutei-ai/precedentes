@@ -1,9 +1,9 @@
 # TJSC · IAC 34
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 34
-- **Identificador na fonte:** `tjsc-iac-34`
+- **Identificador:** `tjsc-iac-34`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 13/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=IAC&nr=34)
@@ -20,4 +20,4 @@ A declaração de inconstitucionalidade da lei municipal que transferia a respon
 
 - [50811327720258240000](https://eproc2g.tjsc.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50811327720258240000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

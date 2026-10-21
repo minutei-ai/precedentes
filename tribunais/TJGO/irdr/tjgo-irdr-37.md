@@ -1,9 +1,9 @@
 # TJGO · IRDR 37
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 37
-- **Identificador na fonte:** `tjgo-irdr-37`
+- **Identificador:** `tjgo-irdr-37`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=37)
@@ -20,4 +20,4 @@ Pedido de revisão de tese firmada o incidente de resolução de demandas repeti
 
 - 54913490520238090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

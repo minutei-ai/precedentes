@@ -1,9 +1,9 @@
 # TRT12 · IRDR 20
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `trt12-irdr-20`
+- **Identificador:** `trt12-irdr-20`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 02/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=20)
@@ -21,4 +21,4 @@ TESE JURÍDICA N.º 15 - "A MENSURAÇÃO DO INTERVALO INTRAJORNADA A SER USUFRU�
 - [00014903320225120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0001490-33.2022.5.12.0000/2#af63e31)
 - [00007304320215120025](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000730-43.2021.5.12.0025/2#39758c2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSE · IRDR 124
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 124
-- **Identificador na fonte:** `tjse-irdr-124`
+- **Identificador:** `tjse-irdr-124`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 24/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=124)
@@ -17,4 +17,4 @@ Discutir sobre a higidez ou invalidade da cobrança da CIP instituída pela Lei 
 - 00005601220258250060
 - 00003613920158250060
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

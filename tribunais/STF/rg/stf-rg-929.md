@@ -1,9 +1,9 @@
 # STF · RG 929
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 929
-- **Identificador na fonte:** `stf-rg-929`
+- **Identificador:** `stf-rg-929`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=929)
@@ -20,4 +20,4 @@ Não tem repercussão geral a controvérsia relativa à possibilidade ou não de
 
 - [983765](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5017944)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

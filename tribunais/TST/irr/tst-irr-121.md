@@ -1,9 +1,9 @@
 # TST · IRR 121
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 121
-- **Identificador na fonte:** `tst-irr-121`
+- **Identificador:** `tst-irr-121`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=121)
@@ -20,4 +20,4 @@ O auxílio-alimentação não tem natureza salarial quando o empregado contribui
 
 - [00004733720245050371](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000473-37.2024.5.05.0371/3#108f1b4)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

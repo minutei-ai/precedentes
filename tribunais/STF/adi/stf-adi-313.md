@@ -1,10 +1,10 @@
 # STF · ADI 313
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 313
-- **Identificador na fonte:** `stf-adi-313`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-313`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 21/08/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=313)
 
@@ -20,4 +20,4 @@ Apresentado o feito em Mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED CF ANO-1937 ART-00157 CF-1937 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 ART-00189 PAR-ÚNICO ART-00193 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00099 PAR-00001 PAR-00002 ART-00101 PAR-00002 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 ART-00100 PAR-ÚNICO ART-00102 PAR-00001 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00007 INC-00006 ART-00037 INC-00012 INC-00013 INC-00015 ART-00039 PAR-00002 ART-00040 ART-00041 PAR-00003 ART-00047 PAR-00003 ART-00084 INC-00004 ART-00103 INC-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00017 CF-1988. LEG-FED AIT-000005 ANO-1968 LEG-FED ACP-000040 ANO-1968 RATIFICADO PELO AIT-6/69. LEG-FED LEI-001711 ANO-1952 LEG-FED LEI-006943 ANO-1981 ART-00001 LEG-FED LEI-008092 ANO-1990 LEG-FED DEL-000489 ANO-1969 LEG-FED MPR-000150 ANO-1990 CONVERTIDA EM LEI-8028/90. LEG-FED DEC-099300 ANO-1990 ART-00001 ART-00002 INCONSTITUCIONALIDADE. LEG-FED SUMSTF-000011 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF LEG-FED SUMSTF-000358 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

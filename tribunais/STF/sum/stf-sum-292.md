@@ -1,9 +1,9 @@
 # STF · SUM 292
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Súmula
 - **Número:** 292
-- **Identificador na fonte:** `stf-sum-292`
+- **Identificador:** `stf-sum-292`
 - **Situação na fonte:** APROVADO
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SUM&nr=292)
@@ -12,4 +12,4 @@
 
 Interposto o recurso extraordinário por mais de um dos fundamentos indicados no art. 101, n. III, da Constituição, a admissão apenas por um dêles não prejudica o seu conhecimento por qualquer dos outros.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

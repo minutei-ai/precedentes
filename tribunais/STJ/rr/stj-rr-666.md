@@ -1,9 +1,9 @@
 # STJ · RR 666
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 666
-- **Identificador na fonte:** `stj-rr-666`
+- **Identificador:** `stj-rr-666`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/07/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=666)
@@ -22,4 +22,10 @@ Discussão acerca da validade da cláusula de contrato de planta comunitária de
 - 01355164720118210001
 - 24717810920098210001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

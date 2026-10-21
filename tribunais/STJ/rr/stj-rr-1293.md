@@ -1,9 +1,9 @@
 # STJ · RR 1293
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1293
-- **Identificador na fonte:** `stj-rr-1293`
+- **Identificador:** `stj-rr-1293`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1293)
@@ -21,4 +21,10 @@ Definir se incide a prescrição intercorrente prevista no art. 1º, § 1º, da 
 - [50046117220214036104](https://processo.stj.jus.br/processo/pesquisa/?termo=202400058975&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50056293120214036104](https://processo.stj.jus.br/processo/pesquisa/?termo=202400109811&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

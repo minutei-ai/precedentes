@@ -1,9 +1,9 @@
 # TJBA · IRDR 27
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `tjba-irdr-27`
+- **Identificador:** `tjba-irdr-27`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 07/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=27)
@@ -16,4 +16,4 @@ Definir se há direito automático à promoção ao posto de 1º Tenente (Quadro
 
 - [80391976820248050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

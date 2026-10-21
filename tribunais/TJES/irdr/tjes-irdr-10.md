@@ -1,9 +1,9 @@
 # TJES · IRDR 10
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjes-irdr-10`
+- **Identificador:** `tjes-irdr-10`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=10)
@@ -16,4 +16,4 @@ Interpretação a ser dada aos artigos 1º, parágrafo único, da Lei Federal n�
 
 - [00302071920168080035](http://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0030207-19.2016.8.08.0035)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

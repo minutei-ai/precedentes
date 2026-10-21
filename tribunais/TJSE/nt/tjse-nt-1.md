@@ -1,9 +1,9 @@
 # TJSE · NT 1
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjse-nt-1`
+- **Identificador:** `tjse-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 06/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=NT&nr=1)
@@ -20,4 +20,4 @@ Os Centros de inteligência do Poder Judiciário foram criados precipuamente com
 
 - Link Nota Técnica
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

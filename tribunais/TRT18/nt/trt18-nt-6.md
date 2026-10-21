@@ -1,9 +1,9 @@
 # TRT18 · NT 6
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `trt18-nt-6`
+- **Identificador:** `trt18-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=NT&nr=6)
@@ -33,4 +33,4 @@ Diante da limitação de caracteres para este campo, informo o link de acesso à
 
 - [Link Nota Técnica](https://www.trt18.jus.br/portal/arquivos/2023/07/PA-13656-2020-Nota-Tecnica-CRI-TRT18-n.-06-2023.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

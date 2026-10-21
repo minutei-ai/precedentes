@@ -1,9 +1,9 @@
 # TRT07 · IAC 9
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 9
-- **Identificador na fonte:** `trt07-iac-9`
+- **Identificador:** `trt07-iac-9`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 05/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IAC&nr=9)
@@ -16,4 +16,4 @@ IAC 0004211-88.2025.5.07.0000- 1.Para o caso em que não houver manifestação e
 
 - [00042118820255070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0004211-88.2025.5.07.0000/2#a6e01b1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

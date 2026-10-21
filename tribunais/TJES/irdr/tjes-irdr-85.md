@@ -1,9 +1,9 @@
 # TJES · IRDR 85
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 85
-- **Identificador na fonte:** `tjes-irdr-85`
+- **Identificador:** `tjes-irdr-85`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=85)
@@ -20,4 +20,4 @@ O Tribunal de Justiça do Estado Espírito Santo é competente para processar e 
 
 - [50012894920228080021](https://sistemas.tjes.jus.br/consultas-siep-back/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

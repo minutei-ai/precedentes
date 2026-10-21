@@ -1,9 +1,9 @@
 # TJAP · NT 4
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `tjap-nt-4`
+- **Identificador:** `tjap-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/05/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=4)
@@ -43,4 +43,4 @@ prevenção e enfrentamento do abuso de direito de ação (demandas predatórias
 
 - [Link Nota Técnica](https://www.tjap.jus.br/portal/images/documentos/CEIJAP/CEIJAP_NT4_2023_Assinada.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

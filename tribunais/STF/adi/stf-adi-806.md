@@ -1,10 +1,10 @@
 # STF · ADI 806
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 806
-- **Identificador na fonte:** `stf-adi-806`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-806`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/11/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=806)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal deferiu a medida cautelar, para suspender, até
 
 LEG-FED CF ANO-1988 ART-00039 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED RES-000030 ANO-1990 ART-00037 INC-00002 INC-00003 PAR-ÚNICO ART-00039 PAR-00001 PAR-00002 ART-00041 ART-00042 PAR-00001 PAR-00002 ART-00056 INC-00001 LET-A INC-00003 LET-A LET-B LET-C LET-D ART-00060 ART-00063 CÂMARA DOS DEPUTADOS. LEG-FED RES-000030 ANO-1990 ART-00056 INC-00002 1, NIVEL III, 1, NIVEL IV, 1, CÂMARA DOS DEPUTADOS. LEG-FED RES-000021 ANO-1992 ART-00001 PAR-ÚNICO ART-00002 PAR-ÚNICO ART-00003 ART-00004 ART-00005 ART-00006 ART-00007 ART-00008 ART-00009 ART-00010 ART-00011 PAR-ÚNICO ART-00024 PAR-ÚNICO ART-00027 ART-00029 INC-00002 INC-00003 ART-00033 PAR-ÚNICO ART-00037 ART-00039 ART-00044 PAR-ÚNICO ART-00049 PAR-00001 PAR-00002 ART-00051 PAR-ÚNICO ART-00052 CÂMARA DOS DEPUTADOS.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

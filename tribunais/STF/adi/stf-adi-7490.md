@@ -1,10 +1,10 @@
 # STF · ADI 7490
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 7490
-- **Identificador na fonte:** `stf-adi-7490`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-7490`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 21/02/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7490)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00003 INC-00004 ART-00005 "CAPUT" ART-00007 INC-00001 IN
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=775821992)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

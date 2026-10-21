@@ -1,9 +1,9 @@
 # TJRJ · IRDR 55
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 55
-- **Identificador na fonte:** `tjrj-irdr-55`
+- **Identificador:** `tjrj-irdr-55`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 04/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=55)
@@ -16,4 +16,4 @@ Definição sobre a legalidade da previsão em edital de limite máximo de idade
 
 - [00408875020258190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2025.291.00013)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

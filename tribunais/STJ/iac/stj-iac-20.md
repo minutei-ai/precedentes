@@ -1,9 +1,9 @@
 # STJ · IAC 20
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 20
-- **Identificador na fonte:** `stj-iac-20`
+- **Identificador:** `stj-iac-20`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=IAC&nr=20)
@@ -20,4 +20,14 @@ No âmbito das Forças Armadas: (a) é devido o uso do nome social e a atualiza�
 
 - [00027819320184025101](https://processo.stj.jus.br/processo/pesquisa/?termo=202401126575&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+No âmbito das Forças Armadas: (a) é devido o uso do nome social e a atualização dos assentamentos funcionais e de todas as comunicações e atos administrativos para refletir a identidade de gênero do militar; (b) é vedada a reforma ou qualquer forma de desligamento fundada exclusivamente no fato de o militar transgênero ter ingressado por vaga originalmente destinada ao sexo/gênero oposto; (c) A condição de transgênero ou a transição de gênero não configura, por si só, incapacidade ou doença para fins de serviço militar, sendo vedada a instauração de processo de reforma compulsória ou o licenciamento ex officio fundamentados exclusivamente na identidade de gênero do militar.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT09 · IRDR 9
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `trt09-irdr-9`
+- **Identificador:** `trt09-irdr-9`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 25/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=9)
@@ -21,4 +21,4 @@ Aplicação das prerrogativas da Fazenda Pública à Empresa Brasileira de Servi
 
 - [00008124120185090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/00008124120185090000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

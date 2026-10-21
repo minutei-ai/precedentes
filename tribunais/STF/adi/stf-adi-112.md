@@ -1,10 +1,10 @@
 # STF · ADI 112
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 112
-- **Identificador na fonte:** `stf-adi-112`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-112`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/08/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=112)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal conheceu da ação. Votou o Presidente. Em se
 
 LEG-FED CF ANO-1988 ART-00007 INC-00026 ART-00022 INC-00001 ART-00037 INC-00002 INC-00010 INC-00013 ART-00039 PAR-00001 PAR-00002 ART-00041 ART-00061 PAR-00001 PAR-00002 LET-A LET-C ART-00093 ART-00128 PAR-00003 PAR-00004 ART-00132 ART-00134 PAR-ÚNICO ART-00135 ART-00169 INC-00001 INC-00002 ART-00173 PAR-00001 ART-00236 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00019 ART-00022 CF-1988. LEG-EST CES ANO-1989 ART-00041 INC-00016 (BA), INCONSTITUCIONALIDADE. LEG-EST ADCT ANO-1989 ART-00001 ART-00012 ART-00014 ART-00019 ART-00022 (CES), (BA), INCONSTITUCIONALIDADE. LEG-EST ADCT ANO-1989 ART-00003 ART-00008 (CES), (BA), INCONSTITUCIONALIDADE PARCIAL.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJBA · SUM 17
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 17
-- **Identificador na fonte:** `tjba-sum-17`
+- **Identificador:** `tjba-sum-17`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=17)
@@ -18,4 +18,4 @@ sem exame do mérito por suposta ausência de interesse processual.
 
 - 00267989020178050000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT08 · IRDR 26
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 26
-- **Identificador na fonte:** `trt08-irdr-26`
+- **Identificador:** `trt08-irdr-26`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IRDR&nr=26)
@@ -16,4 +16,4 @@
 
 - [00013122720245080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0001312-27.2024.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

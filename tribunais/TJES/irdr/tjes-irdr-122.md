@@ -1,9 +1,9 @@
 # TJES · IRDR 122
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 122
-- **Identificador na fonte:** `tjes-irdr-122`
+- **Identificador:** `tjes-irdr-122`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=122)
@@ -20,4 +20,4 @@ Exigibilidade e prosseguimento da execução individual do título executivo jud
 - [50267870720238080024](https://sistemas.tjes.jus.br/consultas-siep-back/pje/ConsultaPublica/listView.seam)
 - [50282810420238080024](https://sistemas.tjes.jus.br/consultas-siep-back/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

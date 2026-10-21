@@ -1,9 +1,9 @@
 # TJMG · IRDR 10
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjmg-irdr-10`
+- **Identificador:** `tjmg-irdr-10`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=10)
@@ -20,4 +20,4 @@ Os policiais civis do Estado de Minas Gerais possuem o direito às horas extras,
 
 - [07760246520138130024](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10024130776024002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

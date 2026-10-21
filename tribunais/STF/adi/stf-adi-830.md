@@ -1,10 +1,10 @@
 # STF · ADI 830
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 830
-- **Identificador na fonte:** `stf-adi-830`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-830`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/04/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=830)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal conheceu da ação e, por maioria de votos, j
 
 LEG-FED CF ANO-1824 ART-00174 PAR-00001 PAR-00002 ART-00178 PAR-00006 CF-1824 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1891 ART-00090 PAR-00004 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 ART-00217 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00001 PAR-ÚNICO ART-00014 INC-00001 ART-00060 PAR-00001 PAR-00002 PAR-00003 PAR-00004 INC-00001 INC-00002 INC-00003 INC-00004 ART-00081 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1946 ART-00036 (CF-1946). LEG-FED ADCT ANO-1988 ART-00002 PAR-00001 PAR-00002 PAR-00003 ART-00003 (CF-1988). LEG-FED EMC-000002 ANO-1992 ART-00001 "CAPUT" PAR-00001 PAR-00002 PAR-00003 (CF-1988). LEG-FED LEI-008624 ANO-1993
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

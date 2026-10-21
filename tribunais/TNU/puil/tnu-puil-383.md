@@ -1,9 +1,9 @@
 # TNU · PUIL 383
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 383
-- **Identificador na fonte:** `tnu-puil-383`
+- **Identificador:** `tnu-puil-383`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=383)
@@ -21,4 +21,4 @@ II - Quanto aos profissionais de saúde em ambiente hospitalar, com exposição 
 
 - [10043563220194013802](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=10043563220194013802)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

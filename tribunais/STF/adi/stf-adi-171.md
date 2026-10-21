@@ -1,10 +1,10 @@
 # STF · ADI 171
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 171
-- **Identificador na fonte:** `stf-adi-171`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-171`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/05/1990
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=171)
 
@@ -16,4 +16,4 @@
 
 Por unanimidade o Tribunal rejeitou os embargos de declaração.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

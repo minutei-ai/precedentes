@@ -1,10 +1,10 @@
 # STF · ADI 6716
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6716
-- **Identificador na fonte:** `stf-adi-6716`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6716`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6716)
 
@@ -22,4 +22,4 @@ LEG-EST CES ANO-1989 ART-00048 PAR-00005 CONSTITUIÇÃO ESTADUAL
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=768798978)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT21 · IRDR 9
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `trt21-irdr-9`
+- **Identificador:** `trt21-irdr-9`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 06/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=IRDR&nr=9)
@@ -20,4 +20,4 @@ TESE JURÍDICA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RETENÇÃO DE PERCENTUAL.
 
 - [00009497120245210002](https://pje.trt21.jus.br/consultaprocessual/detalhe-processo/0000949-71.2024.5.21.0002/2#32bb2ba)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 1157
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1157
-- **Identificador na fonte:** `stf-rg-1157`
+- **Identificador:** `stf-rg-1157`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1157)
@@ -20,4 +20,4 @@ Reenquadramento, em novo Plano de Cargos, Carreiras e Remuneração, de servidor
 
 - [1306505](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6083656)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

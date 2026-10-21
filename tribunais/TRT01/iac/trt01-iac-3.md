@@ -1,9 +1,9 @@
 # TRT01 · IAC 3
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `trt01-iac-3`
+- **Identificador:** `trt01-iac-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IAC&nr=3)
@@ -16,4 +16,4 @@ IAC 3 \_TRT1FUNASA. AGENTES DE COMBATE À ENDEMIAS. REAJUSTE DE INDENIZAÇÃO DE
 
 - [01015044820175010051](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0101504-48.2017.5.01.0051/2#ee915d3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 1148
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1148
-- **Identificador na fonte:** `stf-adi-1148`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1148`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/02/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1148)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o pedido de medida liminar relativa
 
 LEG-FED CF ANO-1988 ART-00005 INC-00006 LET-A INC-00076 ART-00022 INC-00025 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-006015 ANO-1973 ART-00030 PAR-00001 PAR-00002 ART-00046 PAR-00002 (Redação dada pela Lei-7844/1989) LRP-1973 LEI DE REGISTROS PÚBLICOS LEG-FED LEI-006848 ANO-1980 LEG-FED LEI-007844 ANO-1989 LEG-EST LEI-000174 ANO-1994 ART-00001 ART-00002 (AP)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

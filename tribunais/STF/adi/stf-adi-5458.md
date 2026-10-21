@@ -1,10 +1,10 @@
 # STF · ADI 5458
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5458
-- **Identificador na fonte:** `stf-adi-5458`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5458`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/10/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5458)
 
@@ -22,4 +22,4 @@ LEG-FED LCP-000151 ANO-2015 ART-00002 ART-00003 PAR-00001 PAR-00002 PAR-00003 PA
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=757924906)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

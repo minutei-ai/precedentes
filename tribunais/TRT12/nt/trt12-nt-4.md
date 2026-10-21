@@ -1,9 +1,9 @@
 # TRT12 · NT 4
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `trt12-nt-4`
+- **Identificador:** `trt12-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=NT&nr=4)
@@ -20,4 +20,4 @@ As Associações de Pais e Professores-APPs são sociedades civis com personalid
 
 - [Link Nota Técnica](https://dspace.trt12.jus.br/server/api/core/bitstreams/ff947796-fa75-446a-89f0-4ef05a5605c7/content)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

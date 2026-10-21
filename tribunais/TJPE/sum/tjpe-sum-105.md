@@ -1,9 +1,9 @@
 # TJPE · SUM 105
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 105
-- **Identificador na fonte:** `tjpe-sum-105`
+- **Identificador:** `tjpe-sum-105`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=105)
@@ -19,4 +19,4 @@ Não incide ICMS nas operações de importação de alpiste “in natura” de p
 - [00044523020088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00044523020088170000)
 - [00024352120088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00024352120088170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

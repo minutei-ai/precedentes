@@ -1,9 +1,9 @@
 # TJMG · IRDR 71
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 71
-- **Identificador na fonte:** `tjmg-irdr-71`
+- **Identificador:** `tjmg-irdr-71`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 15/03/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=71)
@@ -16,4 +16,4 @@ recurso em que se discute se é constitucional/legal o licenciamento dos empreen
 
 - [59085105420208130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10034160040217002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

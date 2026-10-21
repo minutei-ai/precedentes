@@ -1,9 +1,9 @@
 # TRT09 · NT 20
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 20
-- **Identificador na fonte:** `trt09-nt-20`
+- **Identificador:** `trt09-nt-20`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=20)
@@ -32,4 +32,4 @@ monitoramento de casos relativos a comunidades indígenas.
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8980982)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

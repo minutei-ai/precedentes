@@ -1,9 +1,9 @@
 # TJPR · IRDR 39
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 39
-- **Identificador na fonte:** `tjpr-irdr-39`
+- **Identificador:** `tjpr-irdr-39`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 24/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=39)
@@ -24,4 +24,4 @@ instituída como Vantagem Pessoal Nominalmente Identificada  VPNI.
 
 - [00555242920218160000](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0055524-29.2021.8.16.0000&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 4421
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4421
-- **Identificador na fonte:** `stf-adi-4421`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4421`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/10/2010
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4421)
 
@@ -20,4 +20,4 @@ Decisão: O Tribunal, por unanimidade e nos termos do voto do Relator, deferiu a
 
 LEG-FED CF ANO-1988 ART-00071 ART-00073 ART-00075 ART-00096 INC-00002 LET-D CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-009868 ANO-1999 LEI ORDINÁRIA LEG-EST LEI-001284 ANO-2001 ART-00001 PAR-00006 REVOGADO PELA LEI-2351/2010 ART-00005 "CAPUT" REDAÇÃO ANTERIOR À LEI-2351/2010 ART-00005 "CAPUT" REDAÇÃO DADA PELA LEI-2351/2010 ART-00008 ART-00037 ART-00039 INC-00005 PAR-00001 ART-00099 ART-00104 REVOGADO PELA LEI-2351/2010 ART-00168 INC-00003 REVOGADO PELA LEI-2351/2010 LEI ORDINÁRIA, TO LEG-EST LEI-002351 ANO-2010 ART-00011 LEI ORDINÁRIA, TO LEG-EST PJL-000255 ANO-2010 CONVERTIDO NA LEI-2351/2010 PROJETO DE LEI, TO LEG-EST RGI ANO-1989 ART-00159 REGIMENTO INTERNO DO TRIBUNAL DE CONTAS DE TOCANTINS - TCE
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

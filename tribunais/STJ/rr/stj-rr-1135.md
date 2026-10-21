@@ -1,9 +1,9 @@
 # STJ · RR 1135
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1135
-- **Identificador na fonte:** `stj-rr-1135`
+- **Identificador:** `stj-rr-1135`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1135)
@@ -23,4 +23,10 @@ Possibilidade de o servidor que já usufruiu o primeiro período de férias, ap�
 - [08003201520194058103](https://processo.stj.jus.br/processo/pesquisa/?termo=202003171820&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08002388120194058103](https://processo.stj.jus.br/processo/pesquisa/?termo=202003172992&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

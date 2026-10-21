@@ -1,9 +1,9 @@
 # TST · IRR 45
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 45
-- **Identificador na fonte:** `tst-irr-45`
+- **Identificador:** `tst-irr-45`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=45)
@@ -16,4 +16,4 @@ a) é devido adicional de periculosidade aos motoristas, diante da existência d
 
 - [00209698920225040014](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020969-89.2022.5.04.0014/3#cc1a86b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

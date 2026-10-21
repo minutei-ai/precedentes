@@ -1,9 +1,9 @@
 # TRT04 · OJ 33
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 33
-- **Identificador na fonte:** `trt04-oj-33`
+- **Identificador:** `trt04-oj-33`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=33)
@@ -20,4 +20,4 @@ PRESCRIÇÃO. ARGUIÇÃO NA FASE DE EXECUÇÃO. Não se conhece, na fase de exec
 - [00939004520085040802](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/oyZyJ3tO3N7FTwB0Tbr_AQ)
 - [00193001920095040802](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/nyLna3uOuJf5a186IFBw_g)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

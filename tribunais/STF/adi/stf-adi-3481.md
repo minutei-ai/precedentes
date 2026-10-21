@@ -1,10 +1,10 @@
 # STF · ADI 3481
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3481
-- **Identificador na fonte:** `stf-adi-3481`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3481`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/03/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3481)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00005 INC-00004 INC-00009 INC-00014 ART-00215 PAR-00001 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755503044)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

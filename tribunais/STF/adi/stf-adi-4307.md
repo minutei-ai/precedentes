@@ -1,10 +1,10 @@
 # STF · ADI 4307
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4307
-- **Identificador na fonte:** `stf-adi-4307`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4307`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/11/2009
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4307)
 
@@ -20,4 +20,4 @@ O Tribunal, por maioria, referendou a medida cautelar concedida, com eficácia e
 
 LEG-FED CF ANO-1891 ART-00016 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00001 INC-00001 PAR-ÚNICO ART-00002 ART-00005 INC-00026 INC-00054 ART-00014 "CAPUT" INC-00001 INC-00002 INC-00003 ART-00016 ART-00029 INC-00001 INC-00004 ART-00056 PAR-00001 ART-00060 PAR-00004 INC-00002 INC-00004 ART-00102 INC-00001 LET-A ART-00103 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000047 ANO-2005 EMENDA CONSTITUCIONAL LEG-FED EMC-000052 ANO-2006 EMENDA CONSTITUCIONAL LEG-FED EMC-000055 ANO-2007 EMENDA CONSTITUCIONAL LEG-FED EMC-000058 ANO-2009 ART-00001 ART-00002 ART-00003 INC-00001 INC-00002 EMENDA CONSTITUCIONAL LEG-FED LEI-004737 ANO-1965 ART-00106 ART-00107 ART-00109 ART-00215 CEL-1965 CÓDIGO ELEITORAL LEG-FED LEI-009504 ANO-1997 ART-00010 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00011 PAR-00001 LEI ORDINÁRIA LEG-FED RES-022556 ANO-2007 RESOLUÇÃO DO TRIBUNAL SUPERIOR ELEITORAL - TSE LEG-FED RES-022579 ANO-2007 RESOLUÇÃO DO TRIBUNAL SUPERIOR ELEITORAL - TSE
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

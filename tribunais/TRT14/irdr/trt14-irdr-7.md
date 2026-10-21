@@ -1,9 +1,9 @@
 # TRT14 · IRDR 7
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt14-irdr-7`
+- **Identificador:** `trt14-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ Empregado da CAERD é regido pela CLT, na forma do art. 173, § 1º, II da Const
 
 - [00015248020245140000](https://pje.trt14.jus.br/consultaprocessual/detalhe-processo/0001524-80.2024.5.14.0000/2#ed42ffe)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

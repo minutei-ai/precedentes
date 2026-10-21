@@ -1,9 +1,9 @@
 # STJ · CT 353
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 353
-- **Identificador na fonte:** `stj-ct-353`
+- **Identificador:** `stj-ct-353`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=353)
@@ -20,4 +20,14 @@ A responsabilidade de agentes ímprobos é solidária e permite a constrição p
 - [00661304520164010000](https://processo.stj.jus.br/processo/pesquisa/?termo=202102560866&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00343358420174010000](https://processo.stj.jus.br/processo/pesquisa/?termo=202102633246&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+A responsabilidade de agentes ímprobos é solidária e permite a constrição patrimonial em sua totalidade, sem necessidade de divisão pro rata, ao menos até a instrução final da ação de improbidade quando ocorrerá a delimitação da quota de cada agente pelo ressarcimento.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

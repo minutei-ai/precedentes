@@ -1,9 +1,9 @@
 # STJ · RR 1195
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1195
-- **Identificador na fonte:** `stj-rr-1195`
+- **Identificador:** `stj-rr-1195`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1195)
@@ -21,4 +21,12 @@ procedimento apuratório.
 
 - [14374139320218130000](https://processo.stj.jus.br/processo/pesquisa/?termo=202202031799&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+### Texto
+
+O período de 12 meses a que se refere o art. 4º, I, do Decreto n. 9.246/2017 caracteriza-se pela não ocorrência de falta grave nesse interstício, ainda que a apuração da infração disciplinar tenha sido concluída em momento posterior, desde que não configurada inércia ou mora estatal para instauração deprocedimento apuratório.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

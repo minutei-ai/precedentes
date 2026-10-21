@@ -1,9 +1,9 @@
 # TJDF · NT 17
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Nota Técnica
 - **Número:** 17
-- **Identificador na fonte:** `tjdf-nt-17`
+- **Identificador:** `tjdf-nt-17`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 03/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=NT&nr=17)
@@ -46,4 +46,4 @@ do Trabalho, como debatedor o Doutor Raimundo Rodrigues Santana, Juiz de Direito
 
 - [Link Nota Técnica](https://www.tjdft.jus.br/consultas/notas-tecnicas/nota-tecnica-cijdf-17-2025-adesao-demandas-estruturais-publicada-em-3-07-2025.pdf/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

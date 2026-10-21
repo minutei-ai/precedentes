@@ -1,9 +1,9 @@
 # TRT04 · SUM 45
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 45
-- **Identificador na fonte:** `trt04-sum-45`
+- **Identificador:** `trt04-sum-45`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=45)
@@ -19,4 +19,4 @@ ECT. DEPÓSITO RECURSAL E CUSTAS. ISENÇÃO. PRAZO EM DOBRO PARA RECORRER. A Emp
 - [00737009220095040022](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/vy-2azVB7EGj3Ze9noREufGka4yg2-9FengsynUIFMg)
 - [00766009620095040006](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/2BnPMP8UdoFsv8aOsv8_NvGka4yg2-9FengsynUIFMg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

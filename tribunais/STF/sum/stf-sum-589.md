@@ -1,9 +1,9 @@
 # STF · SUM 589
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Súmula
 - **Número:** 589
-- **Identificador na fonte:** `stf-sum-589`
+- **Identificador:** `stf-sum-589`
 - **Situação na fonte:** APROVADO
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SUM&nr=589)
@@ -12,4 +12,4 @@
 
 É inconstitucional a fixação de adicional progressivo do imposto predial e territorial urbano em função do número de imóveis do contribuinte.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

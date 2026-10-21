@@ -1,9 +1,9 @@
 # TST · IRR 145
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 145
-- **Identificador na fonte:** `tst-irr-145`
+- **Identificador:** `tst-irr-145`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=145)
@@ -20,4 +20,4 @@
 
 - [10000667820225020464](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1000066-78.2022.5.02.0464/3#bcbd691)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

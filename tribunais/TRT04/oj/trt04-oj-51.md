@@ -1,9 +1,9 @@
 # TRT04 · OJ 51
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 51
-- **Identificador na fonte:** `trt04-oj-51`
+- **Identificador:** `trt04-oj-51`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=51)
@@ -19,4 +19,4 @@ REDIRECIONAMENTO DA EXECUÇÃO. RESPONSABILIDADE DO SÓCIO. PRAZO DO ARTIGO 1032
 - [02063009220075040751](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/iUMr4JushvVe9OOiwWwWJQ)
 - [00201002219985040741](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/ZAOST6QUNOVLRql_WML6Eg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

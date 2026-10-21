@@ -1,9 +1,9 @@
 # TRT12 · NT 2
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `trt12-nt-2`
+- **Identificador:** `trt12-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=NT&nr=2)
@@ -22,4 +22,4 @@ Incidente de Resolução de Demandas Repetitivas (IRDR) e de Incidente de Assun�
 
 - [Link Nota Técnica](https://dspace.trt12.jus.br/server/api/core/bitstreams/bf35ad6e-c317-45bc-922d-d04134a57b58/content)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

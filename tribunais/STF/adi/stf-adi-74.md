@@ -1,10 +1,10 @@
 # STF · ADI 74
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 74
-- **Identificador na fonte:** `stf-adi-74`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-74`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=74)
 
@@ -20,4 +20,4 @@ Após o voto do Sr. Ministro Relator, não conhecendo da ação, o julgamento fo
 
 LEG-FED CF ANO-1934 CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1937 CF-1937 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 EMENDA CONSTITUCIONAL LEG-FED EMC-000026 ANO-1985 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00097 ART-00231 PAR-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST PRV-000007 ANO-1988 INC-00002 INC-00004 PROVIMENTO DO TRIBUNAL REGIONAL DO TRABALHO DA 13ª REGIÃO - TRT, RN
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

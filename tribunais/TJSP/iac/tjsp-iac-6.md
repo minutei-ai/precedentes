@@ -1,9 +1,9 @@
 # TJSP · IAC 6
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `tjsp-iac-6`
+- **Identificador:** `tjsp-iac-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IAC&nr=6)
@@ -20,4 +20,4 @@ As provas de laço, vaquejadas e outras modalidades análogas que impliquem em l
 
 - [10028389220188260445](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI005RQ420000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

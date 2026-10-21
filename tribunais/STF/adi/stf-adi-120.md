@@ -1,10 +1,10 @@
 # STF · ADI 120
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 120
-- **Identificador na fonte:** `stf-adi-120`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-120`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/03/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=120)
 
@@ -20,4 +20,4 @@ O Tribunal rejeitou a preliminar de falta de capacidade postulatória do Governa
 
 LEG-FED CF ANO-1988 ART-00037 INC-00012 INC-00013 ART-00039 PAR-00001 ART-00061 PAR-00001 INC-00002 LET-C ART-00169 ART-00173 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00038 INC-00001 INC-00002 CF-1988. LEG-EST CES ANO-1989 ART-00100 ART-00109 INC-00009 (AM). LEG-EST CES ANO-1989 ART-00113 PAR-00016 ART-00199 INC-00002 LET-E (AM), INCONSTITUCIONALIDADE PARCIAL. LEG-EST ADCT ANO-1989 ART-00040 PAR-ÚNICO (CES), (AM), INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

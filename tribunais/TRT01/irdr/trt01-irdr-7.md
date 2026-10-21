@@ -1,9 +1,9 @@
 # TRT01 · IRDR 7
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt01-irdr-7`
+- **Identificador:** `trt01-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ A gratificação de férias concedida pela CEDAE, prevista em regulamento intern
 
 - [01009498720175010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0100949-87.2017.5.01.0000/2#4344c1e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1280
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1280
-- **Identificador na fonte:** `stj-rr-1280`
+- **Identificador:** `stj-rr-1280`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 28/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1280)
@@ -22,4 +22,6 @@ Aplicabilidade do instituto jurídico do consumidor, por equiparação, às aç�
 - [50098215820228130090](https://processo.stj.jus.br/processo/pesquisa/?termo=202400509652&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [28433697120228130000](https://processo.stj.jus.br/processo/pesquisa/?termo=202400509514&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

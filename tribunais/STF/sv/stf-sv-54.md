@@ -1,9 +1,9 @@
 # STF · SV 54
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Súmula Vinculante
 - **Número:** 54
-- **Identificador na fonte:** `stf-sv-54`
+- **Identificador:** `stf-sv-54`
 - **Situação na fonte:** APROVADO
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SV&nr=54)
@@ -12,4 +12,4 @@
 
 A medida provisória não apreciada pelo congresso nacional podia, até a Emenda Constitucional 32/2001, ser reeditada dentro do seu prazo de eficácia de trinta dias, mantidos os efeitos de lei desde a primeira edição.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

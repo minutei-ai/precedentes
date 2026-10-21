@@ -1,9 +1,9 @@
 # TJBA · IRDR 13
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `tjba-irdr-13`
+- **Identificador:** `tjba-irdr-13`
 - **Situação na fonte:** Acórdão Publicado (RESP Pendente)
 - **Atualização informada pela fonte:** 05/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=13)
@@ -20,4 +20,4 @@ As ações indenizatórias propostas por moradores da cidade de Madre de Deus co
 
 - [80012652220198050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

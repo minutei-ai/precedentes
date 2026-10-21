@@ -1,9 +1,9 @@
 # TJGO · IRDR 13
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `tjgo-irdr-13`
+- **Identificador:** `tjgo-irdr-13`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=13)
@@ -20,4 +20,4 @@ Sempre que demonstrado que a atuação do militar na guarda do material radioati
 
 - 51369695920178090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 664
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 664
-- **Identificador na fonte:** `stf-adi-664`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-664`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/03/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=664)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED CF ANO-1988 ART-00005 INC-00036 ART-00037 INC-00010 INC-00015 ART-00095 INC-00003 ART-00096 INC-00002 LET-B ART-00102 INC-00001 LET-A CF-1988 CONSTITUIÇÃO FEDERAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

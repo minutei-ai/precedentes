@@ -1,9 +1,9 @@
 # TRT22 · NT 1
 
-- **Tribunal:** TRT22
+- **Órgão:** TRT22
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `trt22-nt-1`
+- **Identificador:** `trt22-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt22&tipo=NT&nr=1)
@@ -24,4 +24,4 @@ Assim, nos termos do inciso II do art. 11 da Resolução CSJT nº 312/2021, o Gr
 
 - [Link Nota Técnica](https://drive.google.com/file/d/1U-NxX0pG9257jXcHBah06p2SsZ93d3nc/view?usp=sharing)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT22/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

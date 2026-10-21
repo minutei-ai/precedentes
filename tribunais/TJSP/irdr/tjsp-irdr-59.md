@@ -1,9 +1,9 @@
 # TJSP · IRDR 59
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 59
-- **Identificador na fonte:** `tjsp-irdr-59`
+- **Identificador:** `tjsp-irdr-59`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=59)
@@ -20,4 +20,4 @@ Nas ações que versam acerca de desconto indevido de valores de benefícios pre
 
 - [21168027620258260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=2116802-76.2025&foroNumeroUnificado=0000&dePesquisaNuUnificado=2116802-76.2025.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1131
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1131
-- **Identificador na fonte:** `stj-rr-1131`
+- **Identificador:** `stj-rr-1131`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1131)
@@ -21,4 +21,10 @@ Nas ações relacionadas ao Tema Repetitivo 928/STJ, a citação válida do Esta
 - [50166016820154047001](https://processo.stj.jus.br/processo/pesquisa/?termo=202101657350&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50408609120194047000](https://processo.stj.jus.br/processo/pesquisa/?termo=202101933756&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

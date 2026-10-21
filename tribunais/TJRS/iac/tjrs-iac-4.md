@@ -1,9 +1,9 @@
 # TJRS · IAC 4
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjrs-iac-4`
+- **Identificador:** `tjrs-iac-4`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 18/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IAC&nr=4)
@@ -16,4 +16,4 @@ Definir a partir de qual BASE temporal deva ser calculado o prazo prescricional 
 
 Na apuração da prescrição da pretensão executória de Medida Socioeducativa deve ser levado em consideração o prazo mínimo eventualmente explicitado na sentença e não o prazo máximo abstratamente possível, segundo as regras do Estatuto da Criança e do Adolescente.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

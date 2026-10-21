@@ -1,9 +1,9 @@
 # TJPI · NT 3
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `tjpi-nt-3`
+- **Identificador:** `tjpi-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=NT&nr=3)
@@ -76,4 +76,4 @@ ou de repercuss
 
 - [Link Nota Técnica](https://www.tjpi.jus.br/portaltjpi/nugep/cijepi/notas-tecnicas/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

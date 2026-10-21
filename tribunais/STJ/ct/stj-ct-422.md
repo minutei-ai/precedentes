@@ -1,9 +1,9 @@
 # STJ · CT 422
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 422
-- **Identificador na fonte:** `stj-ct-422`
+- **Identificador:** `stj-ct-422`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=422)
@@ -23,4 +23,14 @@ Definir se é possível ou não a inclusão do valor de abono de permanência na
 - [50001885620204047113](https://processo.stj.jus.br/processo/pesquisa/?termo=202103891228&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08064335720204058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202200349830&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Definir se é possível ou não a inclusão do valor de abono de permanência na base de cálculo do adicional de férias e da gratificação natalina dos(as) servidores(as).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

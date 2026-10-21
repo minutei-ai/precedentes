@@ -1,9 +1,9 @@
 # TJRJ · IAC 9
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 9
-- **Identificador na fonte:** `tjrj-iac-9`
+- **Identificador:** `tjrj-iac-9`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 09/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IAC&nr=9)
@@ -16,4 +16,4 @@
 
 - [00649200720258190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2025.290.00002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

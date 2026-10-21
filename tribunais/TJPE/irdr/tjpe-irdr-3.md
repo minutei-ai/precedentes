@@ -1,9 +1,9 @@
 # TJPE · IRDR 3
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjpe-irdr-3`
+- **Identificador:** `tjpe-irdr-3`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ Agentes e Escrivães da Polícia Civil, que adentraram na corporação antes da 
 
 - [00253759820138170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00253759820138170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

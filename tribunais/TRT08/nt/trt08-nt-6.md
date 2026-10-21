@@ -1,9 +1,9 @@
 # TRT08 · NT 6
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `trt08-nt-6`
+- **Identificador:** `trt08-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/05/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=NT&nr=6)
@@ -30,4 +30,4 @@ Na forma prevista no Código de Processo Ci
 
 - [Link Nota Técnica](https://www.trt8.jus.br/sites/portal/files/pdfs/anexo_de_comissao/comissao_id11788/nota_tecnica-2023-05-02_comissao_regional_de_inteligencia_id31114.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

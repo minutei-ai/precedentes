@@ -1,9 +1,9 @@
 # TJMG · NT 15
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 15
-- **Identificador na fonte:** `tjmg-nt-15`
+- **Identificador:** `tjmg-nt-15`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=15)
@@ -21,4 +21,4 @@ A nota inclui resultados de levantamento empírico realizado pela Direção do F
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC80C29005405201905B212A5D1636)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

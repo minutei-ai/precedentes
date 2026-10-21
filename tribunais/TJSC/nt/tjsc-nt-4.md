@@ -1,9 +1,9 @@
 # TJSC · NT 4
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `tjsc-nt-4`
+- **Identificador:** `tjsc-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 23/05/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=4)
@@ -41,4 +41,4 @@ via jurisdicional.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/CIJESC+-+Nota+T%C3%A9cnica+04-2023.+Abuso+do+direito+de+demandar+no+JEC.pdf/a0b3c9a2-6de5-7f50-aa02-bb79f044deb3?t=1686692928483)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

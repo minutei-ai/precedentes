@@ -1,9 +1,9 @@
 # TJPE · SUM 197
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 197
-- **Identificador na fonte:** `tjpe-sum-197`
+- **Identificador:** `tjpe-sum-197`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=197)
@@ -18,4 +18,4 @@ Nas ações de cobrança de seguro DPVAT, os herdeiros do segurado, respeitada a
 - [00593239420148170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00593239420148170001)
 - [00000724020138170500](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00000724020138170500)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

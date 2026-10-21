@@ -1,9 +1,9 @@
 # STJ · CT 569
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 569
-- **Identificador na fonte:** `stj-ct-569`
+- **Identificador:** `stj-ct-569`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=569)
@@ -24,4 +24,14 @@ Definição do critério adequado para aferir o valor de alçada de execução f
 - [00195650420138190029](https://processo.stj.jus.br/processo/pesquisa/?termo=202301966951&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00033684820038190053](https://processo.stj.jus.br/processo/pesquisa/?termo=202301966724&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Definição do critério adequado para aferir o valor de alçada de execução fiscal envolvendo débitos de mesma natureza e tributo, para fins de cabimento do recurso de apelação.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

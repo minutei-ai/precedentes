@@ -1,10 +1,10 @@
 # STF · ADI 4190
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4190
-- **Identificador na fonte:** `stf-adi-4190`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4190`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/03/2010
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4190)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED CF ANO-1988 ART-00025 ART-00073 PAR-00003 ART-00075 ART-00092 ART-00103 INC-00009 ART-00105 INC-00001 LET-A CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI ANO-1827 LEI ORDINÁRIA DE 15 DE OUTUBRO DE 1827 LEG-FED LEI-009868 ANO-1999 ART-00010 "CAPUT" LEI ORDINÁRIA LEG-FED ETT ART-00002 INC-00001 ESTATUTO SOCIAL DA ASSOCIAÇÃO DOS MEMBROS DOS TRIBUNAIS DE CONTAS DO BRASIL - ATRICON LEG-FED RGI ANO-1980 ART-00021 INC-00005 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-FED SUMSTF-000722 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF LEG-EST CES ANO-1989 ART-00128 PAR-00005 PAR-00006 REDAÇÃO DADA PELA EMC-40/2009 CONSTITUIÇÃO ESTADUAL, RJ LEG-EST EMC-000040 ANO-2009 EMENDA CONSTITUCIONAL, RJ
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

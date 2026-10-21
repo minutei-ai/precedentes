@@ -1,9 +1,9 @@
 # STJ · CT 329
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 329
-- **Identificador na fonte:** `stj-ct-329`
+- **Identificador:** `stj-ct-329`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=329)
@@ -20,4 +20,14 @@ Possibilidade ou não de inclusão de rubricas que não integram a remuneração
 - [50029133320204047205](https://processo.stj.jus.br/processo/pesquisa/?termo=202102018648&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50409041320194047000](https://processo.stj.jus.br/processo/pesquisa/?termo=202100542690&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Possibilidade ou não de inclusão de rubricas que não integram a remuneração do servidor na base de cálculo da licença prêmio convertida em pecúnia.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

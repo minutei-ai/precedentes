@@ -1,9 +1,9 @@
 # TJPE · SUM 157
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 157
-- **Identificador na fonte:** `tjpe-sum-157`
+- **Identificador:** `tjpe-sum-157`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=157)
@@ -19,4 +19,4 @@ Os juros de mora, nas condenações impostas à Fazenda Pública ao pagamento de
 - [00004253720148170600](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00004253720148170600)
 - [00019688820098171590](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00019688820098171590)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJCE · IRDR 1
 
-- **Tribunal:** TJCE
+- **Órgão:** TJCE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjce-irdr-1`
+- **Identificador:** `tjce-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjce&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ Obs: Inadmitido por ausência de pressupostos
 
 - 06231506020168060000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJCE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

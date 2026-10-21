@@ -1,9 +1,9 @@
 # TRT05 · IRDR 1
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trt05-irdr-1`
+- **Identificador:** `trt05-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ Necessidade de uniformização do entendimento das turmas do Tribunal Regional d
 
 - [00006242520195050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0000624-25.2019.5.05.0000/2#8084826)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

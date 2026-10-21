@@ -1,9 +1,9 @@
 # TJPR · NT 1
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjpr-nt-1`
+- **Identificador:** `tjpr-nt-1`
 - **Situação na fonte:** Superado
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=NT&nr=1)
@@ -37,4 +37,4 @@ do acordo nas instâncias de origem. Em 31.10.2018, a pedido do Banco do Brasil 
 
 - [Link Nota Técnica](https://www.tjpr.jus.br/documents/57363984/58857401/Nota+001.pdf/4ac777d2-a9d0-6189-1838-24a073c47bf4)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

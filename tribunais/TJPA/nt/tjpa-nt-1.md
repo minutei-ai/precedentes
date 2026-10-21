@@ -1,9 +1,9 @@
 # TJPA · NT 1
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjpa-nt-1`
+- **Identificador:** `tjpa-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 31/08/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=1)
@@ -20,4 +20,4 @@ Trata-se de Nota Técnica elaborada pelo Centro de Inteligência da Justiça Est
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=1052390)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

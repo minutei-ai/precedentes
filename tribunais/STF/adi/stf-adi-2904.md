@@ -1,10 +1,10 @@
 # STF · ADI 2904
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2904
-- **Identificador na fonte:** `stf-adi-2904`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2904`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/04/2009
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2904)
 
@@ -20,4 +20,4 @@ O Tribunal, por maioria, julgou procedente a ação, com efeitos "ex nunc", cont
 
 LEG-FED CF ANO-1988 ART-00061 PAR-00001 INC-00002 LET-C REDAÇÃO DADA PELA EMC-18/1998 ART-00061 PAR-00001 INC-00002 LET-F CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000018 ANO-1998 EMENDA CONSTITUCIONAL LEG-FED EMC-000020 ANO-1998 EMENDA CONSTITUCIONAL LEG-FED EMC-000041 ANO-2003 EMENDA CONSTITUCIONAL LEG-FED EMC-000047 ANO-2005 EMENDA CONSTITUCIONAL LEG-FED LEI-009868 ANO-1999 ART-00027 LEI ORDINÁRIA LEG-EST LCP-000014 ANO-1982 ART-00176 INC-00001 INC-00002 INC-00003 REDAÇÃO DADA PELA LCP-93/2002 LEI COMPLEMENTAR, PR LEG-EST LCP-000093 ANO-2002 ART-00001 LEI COMPLEMENTAR, PR
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

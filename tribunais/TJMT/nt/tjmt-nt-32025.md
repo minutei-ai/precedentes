@@ -1,9 +1,9 @@
 # TJMT · NT 32025
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Nota Técnica
 - **Número:** 32025
-- **Identificador na fonte:** `tjmt-nt-32025`
+- **Identificador:** `tjmt-nt-32025`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 08/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=NT&nr=32025)
@@ -20,4 +20,4 @@ Nota Técnica orienta a concessão de horário especial a servidores com defici�
 
 - [Link Nota Técnica](https://centrodeinteligencia-mc.tjmt.jus.br/portalcentrodeinteligencia-arquivos-prod/cms/02_Nota_Tecnica_Orientacao_da_aplicacao_da_Repercusao_Geral_Tema_1097_3b834fb68c.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

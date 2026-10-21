@@ -1,9 +1,9 @@
 # TRT13 · IAC 13
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 13
-- **Identificador na fonte:** `trt13-iac-13`
+- **Identificador:** `trt13-iac-13`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=13)
@@ -22,4 +22,4 @@ Discussão acerca da aplicação ou não da prescrição total sobre as pretens�
 - [00005197920235130034](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000519-79.2023.5.13.0034/2#a48cc59)
 - [00013185020255130003](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0001318-50.2025.5.13.0003/2#177627d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 722
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 722
-- **Identificador na fonte:** `stf-adi-722`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-722`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/04/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=722)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu medida cautelar para suspender a efic
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 ART-00103 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008216 ANO-1991 ART-00027 PAR-ÚNICO LEG-FED LEI-008270 ANO-1991 ART-00010 PAR-00001 INC-00002 INC-00003 INC-00004 LET-A LET-B LET-C LET-D LET-E PAR-00002 INC-00002 INC-00003 LET-A LET-B LET-C LET-D LET-E LEG-FED LEI-005645 ANO-1970 LEG-FED DEL-002347 ANO-1987
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

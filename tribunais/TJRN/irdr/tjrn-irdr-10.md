@@ -1,9 +1,9 @@
 # TJRN · IRDR 10
 
-- **Tribunal:** TJRN
+- **Órgão:** TJRN
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjrn-irdr-10`
+- **Identificador:** `tjrn-irdr-10`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 24/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrn&tipo=IRDR&nr=10)
@@ -17,4 +17,4 @@
 - 08110612120228200000
 - 08635945720208205001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRN/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

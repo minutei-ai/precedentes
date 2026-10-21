@@ -1,9 +1,9 @@
 # STJ · CT 570
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 570
-- **Identificador na fonte:** `stj-ct-570`
+- **Identificador:** `stj-ct-570`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=570)
@@ -22,4 +22,14 @@ Saber se a tese fixada pelo STJ no julgamento do Tema 692, de que a reforma da d
 - [50715258520174049999](https://processo.stj.jus.br/processo/pesquisa/?termo=202302149690&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50302825420184040000](https://processo.stj.jus.br/processo/pesquisa/?termo=202302177255&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Saber se a tese fixada pelo STJ no julgamento do Tema 692, de que a reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, se aplica a casos em que o valor do benefício ficar abaixo do salário mínimo.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

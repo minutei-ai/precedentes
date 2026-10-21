@@ -1,9 +1,9 @@
 # TJSC · NT 3
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `tjsc-nt-3`
+- **Identificador:** `tjsc-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=3)
@@ -30,4 +30,4 @@ do Brasil e o Poder Legislativo.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/NCI+-+215+-+NOTAS+TE%CC%81CNICAS+-+03-2022.pdf/bdc9064a-5ae8-93cc-32dc-5375f4e4ee94?t=1661808178336)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

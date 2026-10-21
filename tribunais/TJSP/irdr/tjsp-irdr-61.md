@@ -1,9 +1,9 @@
 # TJSP · IRDR 61
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 61
-- **Identificador na fonte:** `tjsp-irdr-61`
+- **Identificador:** `tjsp-irdr-61`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 30/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=61)
@@ -16,4 +16,4 @@ Possibilidade do reconhecimento do direito ao recebimento do adicional de insalu
 
 - [00254004520258260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0025400-45.2025&foroNumeroUnificado=0000&dePesquisaNuUnificado=0025400-45.2025.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADPF 848
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 848
-- **Identificador na fonte:** `stf-adpf-848`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-848`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 04/07/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=848)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00002 ART-00018 "CAPUT" ART-00034 ART-00058 PAR-00003 AR
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=761893142)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

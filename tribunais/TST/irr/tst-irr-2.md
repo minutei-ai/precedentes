@@ -1,9 +1,9 @@
 # TST · IRR 2
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 2
-- **Identificador na fonte:** `tst-irr-2`
+- **Identificador:** `tst-irr-2`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=2)
@@ -22,4 +22,4 @@ A definição do sábado como dia de repouso semanal remunerado, por norma colet
 - [01447002420135130003](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0144700&digitoTst=24&anoTst=2013&orgaoTst=5&tribunalTst=13&varaTst=0003&submit=Consultar)
 - [01447002420135120003](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=144700&digitoTst=24&anoTst=2013&orgaoTst=5&tribunalTst=13&varaTst=0003&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

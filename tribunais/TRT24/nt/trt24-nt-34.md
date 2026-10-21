@@ -1,9 +1,9 @@
 # TRT24 · NT 34
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 34
-- **Identificador na fonte:** `trt24-nt-34`
+- **Identificador:** `trt24-nt-34`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=34)
@@ -86,4 +86,4 @@ ITINERE. VALIDADE.
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/CI+NOTA+T%C3%89CNICA+N.+34_2025.pdf/018a5ba5-d750-ff42-afcf-4b2bd550e394?t=1755611185378)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

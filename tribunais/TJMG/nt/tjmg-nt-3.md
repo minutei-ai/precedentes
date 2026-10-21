@@ -1,9 +1,9 @@
 # TJMG · NT 3
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `tjmg-nt-3`
+- **Identificador:** `tjmg-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=3)
@@ -22,4 +22,4 @@ Conclui-se pela necessidade de imposição de multa nos casos em que a parte dem
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC812584D74EB60184E26A6EA34FB8)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

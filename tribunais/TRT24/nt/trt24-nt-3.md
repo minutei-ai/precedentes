@@ -1,9 +1,9 @@
 # TRT24 · NT 3
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `trt24-nt-3`
+- **Identificador:** `trt24-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/02/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=3)
@@ -67,4 +67,4 @@ possibilidade de o Reclamante realizar suas atividade
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+3-2022+CIPJ+-+TRT24a+REGI%C3%83O.pdf/b2d46e78-12ed-4d25-b779-34b13fcf2351?t=1656354356732)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

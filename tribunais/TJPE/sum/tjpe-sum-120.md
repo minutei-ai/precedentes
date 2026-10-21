@@ -1,9 +1,9 @@
 # TJPE · SUM 120
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 120
-- **Identificador na fonte:** `tjpe-sum-120`
+- **Identificador:** `tjpe-sum-120`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=120)
@@ -18,4 +18,4 @@
 - [00093657920138170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00093657920138170000)
 - [00006502520158170470](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00006502520158170470)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

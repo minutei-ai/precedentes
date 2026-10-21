@@ -1,10 +1,10 @@
 # STF · ADI 85
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 85
-- **Identificador na fonte:** `stf-adi-85`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-85`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=85)
 
@@ -20,4 +20,4 @@ Após os votos dos Srs. Ministros Relator e Celso de Mello que não conheciam da
 
 LEG-FED CF ANO-1988 ART-00008 PAR-ÚNICO ART-00102 INC-00001 LET-A ART-00103 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00267 INC-00006 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED PRT-000478 ANO-1950 (MINISTÉRIO DA AGRICULTURA). LEG-FED PRT-000471 ANO-1973 (MINISTÉRIO DA AGRICULTURA). LEG-FED PRT-000323 ANO-1975 (MINISTÉRIO DA AGRICULTURA).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

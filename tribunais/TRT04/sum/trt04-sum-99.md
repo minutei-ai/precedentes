@@ -1,9 +1,9 @@
 # TRT04 · SUM 99
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 99
-- **Identificador na fonte:** `trt04-sum-99`
+- **Identificador:** `trt04-sum-99`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=99)
@@ -17,4 +17,4 @@ GESTANTE. GARANTIA PROVISÓRIA NO EMPREGO. RECUSA À REINTEGRAÇÃO. A recusa in
 - [00202666220145040751](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/nf-7DAwZmhJ_TKqtfgrTCQ)
 - [00003508120125040211](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/U1VwZF8VJfflG_HwK7eUxg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

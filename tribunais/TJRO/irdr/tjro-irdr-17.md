@@ -1,9 +1,9 @@
 # TJRO · IRDR 17
 
-- **Tribunal:** TJRO
+- **Órgão:** TJRO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `tjro-irdr-17`
+- **Identificador:** `tjro-irdr-17`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjro&tipo=IRDR&nr=17)
@@ -26,4 +26,4 @@ Uniformizar o entendimento das Câmaras Criminais quanto à ¿forma de cálculo 
 
 - 08128092920258220000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

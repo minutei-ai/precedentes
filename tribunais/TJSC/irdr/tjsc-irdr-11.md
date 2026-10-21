@@ -1,9 +1,9 @@
 # TJSC · IRDR 11
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjsc-irdr-11`
+- **Identificador:** `tjsc-irdr-11`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=IRDR&nr=11)
@@ -20,4 +20,4 @@ A revisão dos cálculos de Vantagem Nominalmente Identificável (VNI) devida a 
 
 - [50731699620178240000](https://eproc2g.tjsc.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50731699620178240000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

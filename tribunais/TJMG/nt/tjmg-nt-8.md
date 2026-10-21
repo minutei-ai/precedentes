@@ -1,9 +1,9 @@
 # TJMG · NT 8
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `tjmg-nt-8`
+- **Identificador:** `tjmg-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=8)
@@ -28,4 +28,4 @@ Como medida excepcional, recomenda-se o bloqueio ou sequestro de valores nas con
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC82D2890F391201892B73F9054F7B)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 680
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 680
-- **Identificador na fonte:** `stf-adi-680`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-680`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/03/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=680)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente, em parte, a ação direta,
 
 LEG-FED CF ANO-1988 ART-00202 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00097 PAR-00003 INCONSTITUCIONALIDADE PARCIAL.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

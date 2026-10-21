@@ -1,9 +1,9 @@
 # TJMA · IRDR 8
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `tjma-irdr-8`
+- **Identificador:** `tjma-irdr-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=8)
@@ -24,4 +24,4 @@ Terceira tese: o termo inicial da prescrição ou da decadência é a data da pu
 
 - [08024267120158100001](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=44323&ca=ec9b426bc7c4b12b3915e9f2e1b10d607aaee53a193ce700f98f87505bef14b707a63dc6096cbe3a0aa34d8803b6a20f&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

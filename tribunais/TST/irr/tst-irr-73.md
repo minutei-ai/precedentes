@@ -1,9 +1,9 @@
 # TST · IRR 73
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 73
-- **Identificador na fonte:** `tst-irr-73`
+- **Identificador:** `tst-irr-73`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=73)
@@ -20,4 +20,4 @@
 
 - [00001137720235050035](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000113-77.2023.5.05.0035/3#a8bf457)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

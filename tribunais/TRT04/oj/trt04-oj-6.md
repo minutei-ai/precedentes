@@ -1,9 +1,9 @@
 # TRT04 · OJ 6
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 6
-- **Identificador na fonte:** `trt04-oj-6`
+- **Identificador:** `trt04-oj-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=6)
@@ -20,4 +20,4 @@ REDIRECIONAMENTO DA EXECUÇÃO CONTRA DEVEDOR SUBSIDIÁRIO. É cabível o redire
 - [00042006320095040304](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/yo8fLagRDiSstA_oo293hQ)
 - [00167006020075040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/k09-eoK9SFKuK13vMZ1FOQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

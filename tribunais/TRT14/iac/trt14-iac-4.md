@@ -1,9 +1,9 @@
 # TRT14 · IAC 4
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `trt14-iac-4`
+- **Identificador:** `trt14-iac-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ Posto isso, ACORDAM os integrantes do Egrégio Tribunal Pleno do Tribunal Region
 
 - [00019497320255140000](https://pje.trt14.jus.br/consultaprocessual/detalhe-processo/0001949-73.2025.5.14.0000/2#8fba2a0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

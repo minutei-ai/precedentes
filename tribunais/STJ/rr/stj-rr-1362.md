@@ -1,9 +1,9 @@
 # STJ · RR 1362
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1362
-- **Identificador na fonte:** `stj-rr-1362`
+- **Identificador:** `stj-rr-1362`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1362)
@@ -19,4 +19,6 @@ Definir o momento no qual é verificada a disponibilidade jurídica de renda em 
 - [50004486820204036109](https://processo.stj.jus.br/processo/pesquisa/?termo=202402349410&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50022324120214036143](https://processo.stj.jus.br/processo/pesquisa/?termo=202402331075&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

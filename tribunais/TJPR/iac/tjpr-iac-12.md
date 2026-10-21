@@ -1,9 +1,9 @@
 # TJPR · IAC 12
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 12
-- **Identificador na fonte:** `tjpr-iac-12`
+- **Identificador:** `tjpr-iac-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IAC&nr=12)
@@ -21,4 +21,4 @@ b) à luz do princípio da porta aberta, podem ingressar na cooperativa todo
 
 - [00011948920158160001](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0001194-89.2015.8.16.0001&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

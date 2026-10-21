@@ -1,9 +1,9 @@
 # TJRS · IRDR 36
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 36
-- **Identificador na fonte:** `tjrs-irdr-36`
+- **Identificador:** `tjrs-irdr-36`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=36)
@@ -16,4 +16,4 @@ Alcance do limite etário e da exceção prevista parágrafo único do artigo 2�
 
 A exceção prevista no parágrafo único do artigo 2º da Lei Estadual nº 12.307/2005 não beneficia os servidores militares temporários.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

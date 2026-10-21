@@ -1,10 +1,10 @@
 # STF · ADI 690
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 690
-- **Identificador na fonte:** `stf-adi-690`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-690`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/06/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=690)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED EMC-000001 ANO-1969 ART-00206 REDAÇÃO DA EMC. 7/77. CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00025 ART-00037 INC-00002 ART-00236 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00011 LEG-EST ADCT ANO-1989 ART-00022 CES-89, (GO), INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

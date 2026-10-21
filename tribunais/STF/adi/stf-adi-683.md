@@ -1,10 +1,10 @@
 # STF · ADI 683
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 683
-- **Identificador na fonte:** `stf-adi-683`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-683`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/06/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=683)
 
@@ -16,4 +16,4 @@ AÇÃO DIRETA DE INCONSTITUCIONALIDADE - OBJETO - RESOLUÇÃO DE ÓRGÃO DO PODE
 
 Por maioria de votos, o Tribunal julgou procedente a ação, para declarar a inconstitucionalidade da Decisão Administrativa nº TRR/EC/PA-MAD-0006/91 (Acórdão-TP-nº 3374/91, do Tribunal Regional do Trabalho de 12ª Região, vencidos os Ministros Carlos Velloso e Sepúlveda Pertence, que a julgavam improcedente e constitucional o ato impugnado. Votou o Presidente. Plenário, 24.06.1993.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

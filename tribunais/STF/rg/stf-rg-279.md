@@ -1,9 +1,9 @@
 # STF · RG 279
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 279
-- **Identificador na fonte:** `stf-rg-279`
+- **Identificador:** `stf-rg-279`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=279)
@@ -20,4 +20,4 @@ Os procuradores federais têm o direito às férias de 30 dias, por força do qu
 
 - [602381](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2696028)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

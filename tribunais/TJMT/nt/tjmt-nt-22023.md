@@ -1,9 +1,9 @@
 # TJMT · NT 22023
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Nota Técnica
 - **Número:** 22023
-- **Identificador na fonte:** `tjmt-nt-22023`
+- **Identificador:** `tjmt-nt-22023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=NT&nr=22023)
@@ -20,4 +20,4 @@ Nota Técnica padroniza os fluxos de trabalho para o sobrestamento e dessobresta
 
 - [Link Nota Técnica](https://centrodeinteligencia-mc.tjmt.jus.br/portalcentrodeinteligencia-arquivos-prod/cms/03_Nota_Tecnica_Padronizacao_Sobrestamento_e_Dessobrestamento_de_Processos_76d8edf8d0.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

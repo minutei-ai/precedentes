@@ -1,9 +1,9 @@
 # TJGO · IRDR 24
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 24
-- **Identificador na fonte:** `tjgo-irdr-24`
+- **Identificador:** `tjgo-irdr-24`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 27/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=24)
@@ -20,4 +20,4 @@ O Juizado Especial é competente para apreciar e julgar as ações relativas à 
 
 - 52759012120178090150
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

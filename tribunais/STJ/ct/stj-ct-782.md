@@ -1,9 +1,9 @@
 # STJ · CT 782
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 782
-- **Identificador na fonte:** `stj-ct-782`
+- **Identificador:** `stj-ct-782`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=782)
@@ -20,4 +20,14 @@ Verificar se os efeitos da tese jurídica firmada no Tema 1.080 do STJ também s
 - [08032163520224058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202504460687&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08014201620214058400](https://processo.stj.jus.br/processo/pesquisa/?termo=202503670429&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Verificar se os efeitos da tese jurídica firmada no Tema 1.080 do STJ também se aplicam ao Fundo de Saúde do Exército (FUSEX) e ao Fundo de Saúde da Marinha (FUSMA), para fins de manutenção do direito à assistência médico-hospitalar da filha solteira sem remuneração, pensionista e ex-esposa de militar falecido.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

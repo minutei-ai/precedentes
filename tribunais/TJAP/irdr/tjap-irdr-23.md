@@ -1,9 +1,9 @@
 # TJAP · IRDR 23
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 23
-- **Identificador na fonte:** `tjap-irdr-23`
+- **Identificador:** `tjap-irdr-23`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IRDR&nr=23)
@@ -20,4 +20,4 @@ Demonstrado o cumprimento dos demais requisitos necessários para a implementaç
 
 - 00412845820228030001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

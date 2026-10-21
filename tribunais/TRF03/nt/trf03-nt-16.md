@@ -1,9 +1,9 @@
 # TRF03 · NT 16
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 16
-- **Identificador na fonte:** `trf03-nt-16`
+- **Identificador:** `trf03-nt-16`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=16)
@@ -24,4 +24,4 @@ No âmbito do Tribunal Regional Federal da 3ª Região (TRF3), a Nota Técnica d
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/SEI_9019836_Nota_Tecnica_NI_CLISP_16_2022.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

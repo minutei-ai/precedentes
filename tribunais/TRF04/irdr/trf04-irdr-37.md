@@ -1,9 +1,9 @@
 # TRF04 · IRDR 37
 
-- **Tribunal:** TRF04
+- **Órgão:** TRF04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 37
-- **Identificador na fonte:** `trf04-irdr-37`
+- **Identificador:** `trf04-irdr-37`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 08/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf04&tipo=IRDR&nr=37)
@@ -20,4 +20,4 @@ O segurado que sofre redução permanente da capacidade laborativa em acidente o
 
 - [50272287020244040000](http://www.trf4.jus.br/trf4/processos/acompanhamento/resultado_pesquisa.php?selForma=NU&selOrigem=RS&txtValor=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

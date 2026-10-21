@@ -1,9 +1,9 @@
 # STJ · RR 1125
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1125
-- **Identificador na fonte:** `stj-rr-1125`
+- **Identificador:** `stj-rr-1125`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1125)
@@ -21,4 +21,10 @@ O ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS d
 - [50034748220194047111](https://processo.stj.jus.br/processo/pesquisa/?termo=202002461435&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50010395820194036111](https://processo.stj.jus.br/processo/pesquisa/?termo=202102821953&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

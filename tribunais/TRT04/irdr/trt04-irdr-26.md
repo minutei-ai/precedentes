@@ -1,9 +1,9 @@
 # TRT04 · IRDR 26
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 26
-- **Identificador na fonte:** `trt04-irdr-26`
+- **Identificador:** `trt04-irdr-26`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=26)
@@ -16,4 +16,4 @@ O vício decorrente da ausência de citação válida se trata de nulidade absol
 
 - [00224059120235040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0022405-91.2023.5.04.0000/2#1886641)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

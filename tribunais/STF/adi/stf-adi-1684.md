@@ -1,10 +1,10 @@
 # STF · ADI 1684
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1684
-- **Identificador na fonte:** `stf-adi-1684`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1684`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/04/1998
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1684)
 
@@ -22,4 +22,4 @@ LEG-EST RES-000003 ANO-1997 (TJ) (BA). LEG-EST RES-000001 ANO-1998 (TJ) (BA).
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=971)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

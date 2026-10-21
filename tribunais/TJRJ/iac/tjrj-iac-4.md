@@ -1,9 +1,9 @@
 # TJRJ · IAC 4
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjrj-iac-4`
+- **Identificador:** `tjrj-iac-4`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 21/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ Cada Município, na aplicação do percentual de horas extraclasse estabelecido 
 
 - [00593334820188190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2018.290.00018)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

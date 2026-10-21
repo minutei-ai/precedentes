@@ -1,9 +1,9 @@
 # TJRS · IAC 1
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjrs-iac-1`
+- **Identificador:** `tjrs-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IAC&nr=1)
@@ -17,4 +17,4 @@ Questão referente à controvérsia jurídica que envolve o tema da comunicabili
 Na interpretação da Súmula 377 do STF, presume-se a contribuição em relação aos bens adquiridos no curso do casamento, com eficácia vinculante em relação aos órgãos  
 fracionários e juízes vinculados a esta Corte, por força do §3º do artigo 947 do CPC.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

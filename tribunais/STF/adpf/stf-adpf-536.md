@@ -1,10 +1,10 @@
 # STF · ADPF 536
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 536
-- **Identificador na fonte:** `stf-adpf-536`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-536`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/09/2018
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=536)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009882 ANO-1999 ART-00004 PAR-00001 LEI ORDINÁRIA
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748246853)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

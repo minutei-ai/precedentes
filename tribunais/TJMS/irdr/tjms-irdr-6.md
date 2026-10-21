@@ -1,9 +1,9 @@
 # TJMS · IRDR 6
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjms-irdr-6`
+- **Identificador:** `tjms-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=IRDR&nr=6)
@@ -16,4 +16,4 @@
 
 "O termo inicial para contagem do prazo prescricional nas ações que versem sobre empréstimo consignado conta-se a partir do último desconto realizado."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

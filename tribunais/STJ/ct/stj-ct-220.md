@@ -1,9 +1,9 @@
 # STJ · CT 220
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 220
-- **Identificador na fonte:** `stj-ct-220`
+- **Identificador:** `stj-ct-220`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=220)
@@ -20,4 +20,14 @@
 - [21964926720198260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202001109104&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [21126846720198260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202000588407&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+(Im)possibilidade de penhora da própria unidade condominial geradora do débito em ação de cobrança na qual a(a) proprietário(a) não figurou como parte.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

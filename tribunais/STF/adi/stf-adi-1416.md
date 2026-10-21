@@ -1,10 +1,10 @@
 # STF · ADI 1416
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1416
-- **Identificador na fonte:** `stf-adi-1416`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1416`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/10/2002
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1416)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00005 INC-00020 INC-00021 ART-00008 INC-00003 INC-00004 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=385493)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

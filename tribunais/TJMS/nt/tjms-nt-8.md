@@ -1,9 +1,9 @@
 # TJMS · NT 8
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `tjms-nt-8`
+- **Identificador:** `tjms-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=8)
@@ -75,4 +75,4 @@ As demandas associadas ao Tema 1.033 são retratos dos múltiplos déficits do S
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/c788fa7094eea31b3971abe1147e4f1c.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

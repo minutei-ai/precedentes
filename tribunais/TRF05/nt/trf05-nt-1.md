@@ -1,9 +1,9 @@
 # TRF05 · NT 1
 
-- **Tribunal:** TRF05
+- **Órgão:** TRF05
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `trf05-nt-1`
+- **Identificador:** `trf05-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf05&tipo=NT&nr=1)
@@ -27,4 +27,4 @@ A implementação destas recomendações contribuirá para a otimização da pre
 
 - [Link Nota Técnica](https://centrodeinteligencia.jfrn.jus.br/jfpb/#/temas/p/554)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

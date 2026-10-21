@@ -1,9 +1,9 @@
 # TJPE · SUM 87
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 87
-- **Identificador na fonte:** `tjpe-sum-87`
+- **Identificador:** `tjpe-sum-87`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=87)
@@ -18,4 +18,4 @@ Não configura excesso de linguagem o fato de o juiz, na sentença de pronúncia
 - [00087166120068170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00087166120068170000)
 - [00040747920058170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00040747920058170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJCE · IRDR 5
 
-- **Tribunal:** TJCE
+- **Órgão:** TJCE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjce-irdr-5`
+- **Identificador:** `tjce-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjce&tipo=IRDR&nr=5)
@@ -21,4 +21,4 @@ EMENTA: INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. TEORIA DO ADIMPLEMENTO
 
 - 06222764120178060000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJCE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

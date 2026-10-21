@@ -1,9 +1,9 @@
 # TRT01 · IAC 1
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt01-iac-1`
+- **Identificador:** `trt01-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IAC&nr=1)
@@ -16,4 +16,4 @@ IAC 1\_TRT1 Dano moral coletivo. ACP.PETROBRAS.Terceirização ilícita. Obriga�
 
 - [01661007020065010069](http://)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

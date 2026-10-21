@@ -1,9 +1,9 @@
 # TRT08 · IRDR 17
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `trt08-irdr-17`
+- **Identificador:** `trt08-irdr-17`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 07/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IRDR&nr=17)
@@ -20,4 +20,4 @@ Não pode haver a quebra da geolocalização do celular do empregado sem a sua a
 
 - [00006130720225080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000613-07.2022.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

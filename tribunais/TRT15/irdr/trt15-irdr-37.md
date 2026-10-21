@@ -1,9 +1,9 @@
 # TRT15 · IRDR 37
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 37
-- **Identificador na fonte:** `trt15-irdr-37`
+- **Identificador:** `trt15-irdr-37`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=37)
@@ -16,4 +16,4 @@ Reconhecimento ou não do direito ao pagamento do descanso semanal remunerado ao
 
 - [00108488420235150038](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0010848-84.2023.5.15.0038/2#0b9891a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

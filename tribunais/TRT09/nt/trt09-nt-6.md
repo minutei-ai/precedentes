@@ -1,9 +1,9 @@
 # TRT09 · NT 6
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `trt09-nt-6`
+- **Identificador:** `trt09-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 28/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=6)
@@ -22,4 +22,4 @@ qualificados, devido aos reflexos no e-Gestão (Sistema de Gerenciamento de Info
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8708582)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

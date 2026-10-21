@@ -1,9 +1,9 @@
 # TJPI · IRDR 1
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjpi-irdr-1`
+- **Identificador:** `tjpi-irdr-1`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 30/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=1)
@@ -16,4 +16,4 @@ Análise de quatro temas afetos aos processos em que se discutem indenização p
 
 - 08329956220198180140
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

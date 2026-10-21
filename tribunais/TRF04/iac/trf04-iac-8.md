@@ -1,9 +1,9 @@
 # TRF04 · IAC 8
 
-- **Tribunal:** TRF04
+- **Órgão:** TRF04
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `trf04-iac-8`
+- **Identificador:** `trf04-iac-8`
 - **Situação na fonte:** Sobrestado por tema do STJ
 - **Atualização informada pela fonte:** 13/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf04&tipo=IAC&nr=8)
@@ -20,4 +20,4 @@ Arquivamento das execuções fiscais promovidas pelos Conselhos, previsto no §2
 
 - [50469206020214040000](http://www.trf4.jus.br/trf4/processos/acompanhamento/resultado_pesquisa.php?selForma=NU&selOrigem=RS&txtValor=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

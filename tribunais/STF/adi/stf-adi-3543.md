@@ -1,10 +1,10 @@
 # STF · ADI 3543
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3543
-- **Identificador na fonte:** `stf-adi-3543`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3543`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/04/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3543)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-013105 ANO-2015 A
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755600523)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

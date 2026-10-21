@@ -1,9 +1,9 @@
 # TRT24 · NT 25
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 25
-- **Identificador na fonte:** `trt24-nt-25`
+- **Identificador:** `trt24-nt-25`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/02/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=25)
@@ -46,4 +46,4 @@ uniformização da jurisprudência relativamente à questão debatida.
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+25.2024.pdf/b4e1f66f-969a-862c-e440-29fcc50b5f4c?t=1707159370289)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

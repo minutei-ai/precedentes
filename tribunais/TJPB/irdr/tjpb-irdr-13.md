@@ -1,9 +1,9 @@
 # TJPB · IRDR 13
 
-- **Tribunal:** TJPB
+- **Órgão:** TJPB
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `tjpb-irdr-13`
+- **Identificador:** `tjpb-irdr-13`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 30/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=13)
@@ -20,4 +20,4 @@ O congelamento do valor nominal do adicional por tempo de serviço percebido pel
 
 - [08028783620218150000](https://www.tjpb.jus.br/nugep/irdr)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

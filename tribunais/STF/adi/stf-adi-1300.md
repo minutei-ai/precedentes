@@ -1,10 +1,10 @@
 # STF · ADI 1300
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1300
-- **Identificador na fonte:** `stf-adi-1300`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1300`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/09/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1300)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o pedido de medida liminar. Votou o
 
 LEG-FED CF ANO-1988 ART-00037 INC-00021 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008666 ANO-1993 LLC-1993 LEI DE LICITAÇÕES LEG-FED LEI-008025 ANO-1990 LEI ORDINÁRIA LEG-EST LEI-000159 ANO-1994 ART-00005 INC-00001 INC-00002 INC-00003 LEI ORDINÁRIA, AP LEG-EST DEC-004467 ANO-1994 ART-00004 ART-00009 DECRETO, AP
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

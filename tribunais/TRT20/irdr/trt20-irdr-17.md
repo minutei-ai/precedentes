@@ -1,9 +1,9 @@
 # TRT20 · IRDR 17
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `trt20-irdr-17`
+- **Identificador:** `trt20-irdr-17`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 03/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=17)
@@ -20,4 +20,4 @@ Incidência dos efeitos da prescrição total do direito de ação a empregado r
 
 - [00002625920265200000](https://pje.trt20.jus.br/consultaprocessual/detalhe-processo/0000262-59.2026.5.20.0000/2#21209d9)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

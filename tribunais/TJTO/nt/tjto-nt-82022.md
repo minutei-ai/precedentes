@@ -1,9 +1,9 @@
 # TJTO · NT 82022
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Nota Técnica
 - **Número:** 82022
-- **Identificador na fonte:** `tjto-nt-82022`
+- **Identificador:** `tjto-nt-82022`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=NT&nr=82022)
@@ -21,4 +21,4 @@ integridade no tratamento judicial do tema.
 
 - [Link Nota Técnica](https://www.tjto.jus.br/plugins/content/pdfviewer/assets/pdfjs/web/viewer.html?file=https://www.tjto.jus.br/cinugep/notas-tecnicas/20784-nota-tecnica-08/viewdocument/20784)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

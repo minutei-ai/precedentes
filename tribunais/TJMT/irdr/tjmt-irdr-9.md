@@ -1,9 +1,9 @@
 # TJMT · IRDR 9
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjmt-irdr-9`
+- **Identificador:** `tjmt-irdr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=9)
@@ -25,4 +25,4 @@ III.1 Aplica-se o Decreto Estadual 1986/2013 aos processos administrativos ambie
 
 - 10126683720228110000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

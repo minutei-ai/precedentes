@@ -1,9 +1,9 @@
 # STJ · SUM 561
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 561
-- **Identificador na fonte:** `stj-sum-561`
+- **Identificador:** `stj-sum-561`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=561)
@@ -12,4 +12,4 @@
 
 Os Conselhos Regionais de Farmácia possuem atribuição para fiscalizar e autuar as farmácias e drogarias quanto ao cumprimento da exigência de manter profissional legalmente habilitado (farmacêutico) durante todo o período de funcionamento dos respectivos estabelecimentos.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

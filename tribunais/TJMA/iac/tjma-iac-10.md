@@ -1,9 +1,9 @@
 # TJMA · IAC 10
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 10
-- **Identificador na fonte:** `tjma-iac-10`
+- **Identificador:** `tjma-iac-10`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IAC&nr=10)
@@ -20,4 +20,4 @@ Constatados indícios de litigância abusiva nas demandas envolvendo empréstimo
 
 - [08006942320228100094](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=716516&ca=6c300251114e56661ad970b3f53a25204d72101798706b59ecb0af1fe325fe3454a9d39a921fdc313d77ba2d1a1cfb43&aba=#)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

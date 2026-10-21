@@ -1,9 +1,9 @@
 # TJSP · SUM 11
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 11
-- **Identificador na fonte:** `tjsp-sum-11`
+- **Identificador:** `tjsp-sum-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=11)
@@ -16,4 +16,4 @@ A falta do bilhete do seguro obrigatório ou da comprovação do pagamento do pr
 
 - [90797733420068260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=9079773-34.2006&foroNumeroUnificado=0000&dePesquisaNuUnificado=9079773-34.2006.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMG · IRDR 110
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 110
-- **Identificador na fonte:** `tjmg-irdr-110`
+- **Identificador:** `tjmg-irdr-110`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 15/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=110)
@@ -16,4 +16,4 @@ recurso em que discute se as operações mercantis realizadas por empresas optan
 
 - [37357081120258130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000253735708001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

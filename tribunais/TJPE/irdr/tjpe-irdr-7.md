@@ -1,9 +1,9 @@
 # TJPE · IRDR 7
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjpe-irdr-7`
+- **Identificador:** `tjpe-irdr-7`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 16/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IRDR&nr=7)
@@ -18,4 +18,4 @@ A legalidade da operação de cartão de crédito consignado com reserva de marg
 - [00600606720218172001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00600606720218172001)
 - [00051244320218172470](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00051244320218172470)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

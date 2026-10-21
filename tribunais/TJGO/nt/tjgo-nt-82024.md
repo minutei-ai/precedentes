@@ -1,9 +1,9 @@
 # TJGO · NT 82024
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Nota Técnica
 - **Número:** 82024
-- **Identificador na fonte:** `tjgo-nt-82024`
+- **Identificador:** `tjgo-nt-82024`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=NT&nr=82024)
@@ -79,4 +79,4 @@ direito de manifestação prévia e produção
 
 - [Link Nota Técnica](https://www.tjgo.jus.br/index.php/comissoes-comites/centro-de-inteligencia)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

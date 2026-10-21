@@ -1,9 +1,9 @@
 # TJPR · SUM 22
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 22
-- **Identificador na fonte:** `tjpr-sum-22`
+- **Identificador:** `tjpr-sum-22`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=22)
@@ -15,4 +15,4 @@ escritura, não apresenta questão dominial a ser dirimida e não foi disciplina
 regimento interno, situando-se no âmbito dos recursos alheios à área de  
 especialização."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJES · IRDR 126
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 126
-- **Identificador na fonte:** `tjes-irdr-126`
+- **Identificador:** `tjes-irdr-126`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 19/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=126)
@@ -16,4 +16,4 @@ Definir a forma de contagem dos prazos recursais em processos de recuperação j
 
 - [50472405220258080024](https://pje.tjes.jus.br/pje2g/ConsultaPublica/listView.seam?numProcesso-inputNumeroProcesso=50472405220258080024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

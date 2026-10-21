@@ -1,10 +1,10 @@
 # STF · ADI 521
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 521
-- **Identificador na fonte:** `stf-adi-521`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-521`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=521)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado por indicação do Ministro
 
 LEG-FED CF ANO-1988 ART-00103 INC-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00295 INC-00003 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-005250 ANO-1967 ART-00001 PAR-00001 PAR-00002 ART-00002 ART-00008 ART-00009 PAR-ÚNICO ART-00010 PAR-00001 PAR-00002 PAR-00003 ART-00014 ART-00015 LET-A LET-B ART-00020 PAR-00003 LI-1967 LEI DE IMPRENSA
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

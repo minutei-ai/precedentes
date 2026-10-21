@@ -1,9 +1,9 @@
 # TJMG · IRDR 91
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 91
-- **Identificador na fonte:** `tjmg-irdr-91`
+- **Identificador:** `tjmg-irdr-91`
 - **Situação na fonte:** Acórdão Publicado (RESP Pendente)
 - **Atualização informada pela fonte:** 28/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=91)
@@ -20,4 +20,4 @@ recurso em que se discute a configuração do interesse de agir do consumidor e 
 
 - [29221978120228130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000221570997002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

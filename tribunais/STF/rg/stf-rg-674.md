@@ -1,9 +1,9 @@
 # STF · RG 674
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 674
-- **Identificador na fonte:** `stf-rg-674`
+- **Identificador:** `stf-rg-674`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=674)
@@ -20,4 +20,4 @@ A norma imunizante contida no inciso I do § 2º do art. 149 da Constituição d
 
 - [759244](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4430322)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

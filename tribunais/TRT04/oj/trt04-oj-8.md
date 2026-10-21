@@ -1,9 +1,9 @@
 # TRT04 · OJ 8
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 8
-- **Identificador na fonte:** `trt04-oj-8`
+- **Identificador:** `trt04-oj-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=8)
@@ -20,4 +20,4 @@ JUROS DE MORA APLICÁVEIS À FAZENDA PÚBLICA. RESPONSABILIDADE SUBSIDIÁRIA. A 
 - [00332004620095040551](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/UoQjSPgHGV-TgOpWLeHGrQ)
 - [00672006220095040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/n6r0woD4DhCSxnxzgjNLzA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

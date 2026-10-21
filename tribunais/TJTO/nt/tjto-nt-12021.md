@@ -1,9 +1,9 @@
 # TJTO · NT 12021
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Nota Técnica
 - **Número:** 12021
-- **Identificador na fonte:** `tjto-nt-12021`
+- **Identificador:** `tjto-nt-12021`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=NT&nr=12021)
@@ -26,4 +26,4 @@ Por fim, esclarece-se que esta iniciativa não possui caráter vinculante, desti
 
 - [Link Nota Técnica](https://www.tjto.jus.br/plugins/content/pdfviewer/assets/pdfjs/web/viewer.html?file=https://www.tjto.jus.br/cinugep/notas-tecnicas/20777-nota-tecnica-01/viewdocument/20777)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

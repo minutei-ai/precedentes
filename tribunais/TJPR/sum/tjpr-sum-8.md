@@ -1,9 +1,9 @@
 # TJPR · SUM 8
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 8
-- **Identificador na fonte:** `tjpr-sum-8`
+- **Identificador:** `tjpr-sum-8`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=8)
@@ -23,4 +23,4 @@ cruzados, nos termos dos decretos-leis nºs 2.283/86 e 2.284/86, com equivalênc
 OTNs. Expedido o competente precatório, extingue-se a obrigação, com o real  
 pagamento, conforme dispõe o artigo 794, inciso I, do Código de Processo Civil".
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

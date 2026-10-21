@@ -1,9 +1,9 @@
 # STJ · RR 573
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 573
-- **Identificador na fonte:** `stj-rr-573`
+- **Identificador:** `stj-rr-573`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=573)
@@ -16,4 +16,6 @@ Discute-se o alcance da hipoteca constituída pela construtora em benefício do 
 
 - [33613167120068130702](https://processo.stj.jus.br/processo/pesquisa/?termo=201000034023&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

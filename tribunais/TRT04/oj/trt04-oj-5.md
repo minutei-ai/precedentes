@@ -1,9 +1,9 @@
 # TRT04 · OJ 5
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 5
-- **Identificador na fonte:** `trt04-oj-5`
+- **Identificador:** `trt04-oj-5`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=5)
@@ -18,4 +18,4 @@ CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. FUNDAÇÃO DE ATENDIMENTO SÓCIO-EDUCAT
 - [00883002420095040021](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/iJnaO3YC5-3D8g7Qh_QabA)
 - [00079009620085040008](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/W7Ce5xqYSvyPpyNvQoXmmA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

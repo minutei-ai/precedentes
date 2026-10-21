@@ -1,9 +1,9 @@
 # STJ · RR 1068
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1068
-- **Identificador na fonte:** `stj-rr-1068`
+- **Identificador:** `stj-rr-1068`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1068)
@@ -21,4 +21,10 @@ Não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invali
 - [10019478320158260572](https://processo.stj.jus.br/processo/pesquisa/?termo=201903243198&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10017530820158260597](https://processo.stj.jus.br/processo/pesquisa/?termo=202000640584&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

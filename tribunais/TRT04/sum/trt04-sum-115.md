@@ -1,9 +1,9 @@
 # TRT04 · SUM 115
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 115
-- **Identificador na fonte:** `trt04-sum-115`
+- **Identificador:** `trt04-sum-115`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=115)
@@ -19,4 +19,4 @@ MUNICÍPIO DE ESTEIO. TRIÊNIOS. REDUÇÃO DO PERCENTUAL POR LEI MUNICIPAL. O pe
 - [00819008720095040281](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/SMEl5axHACbe9ePrDPvFDQ)
 - [00423005920095040281](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/76rHcztLWdFc0XmCiJX7wg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

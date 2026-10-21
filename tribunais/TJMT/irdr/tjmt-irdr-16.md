@@ -1,9 +1,9 @@
 # TJMT · IRDR 16
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `tjmt-irdr-16`
+- **Identificador:** `tjmt-irdr-16`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 08/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=16)
@@ -20,4 +20,4 @@ A Ação Popular é instrumento processual adequado para impugnar lei municipal 
 
 - [10179132420258110000](https://consultaprocessual.tjmt.jus.br/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

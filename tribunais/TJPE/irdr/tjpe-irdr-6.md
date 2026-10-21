@@ -1,9 +1,9 @@
 # TJPE · IRDR 6
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjpe-irdr-6`
+- **Identificador:** `tjpe-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IRDR&nr=6)
@@ -24,4 +24,4 @@ TESE 5. Na hipótese de superveniente condenação por crime posterior no curso 
 
 - [00087706520218179000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00087706520218179000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

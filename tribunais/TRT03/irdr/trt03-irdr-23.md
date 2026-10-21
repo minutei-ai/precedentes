@@ -1,9 +1,9 @@
 # TRT03 · IRDR 23
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 23
-- **Identificador na fonte:** `trt03-irdr-23`
+- **Identificador:** `trt03-irdr-23`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=23)
@@ -34,4 +34,4 @@ Código Civil, afastando-se a incidência da "teoria maior".
 
 - [00100998320245030000](http://https://pje.trt3.jus.br/consultaprocessual/captcha/detalhe-processo/0010099-83.2024.5.03.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

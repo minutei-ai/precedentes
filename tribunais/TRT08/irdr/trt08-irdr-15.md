@@ -1,9 +1,9 @@
 # TRT08 · IRDR 15
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `trt08-irdr-15`
+- **Identificador:** `trt08-irdr-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ COMPLEMENTO DE GRATIFICAÇÃO. INCORPORAÇÃO. EMPREGADOS DO BANCO DO ESTADO DO 
 
 - [00005066020225080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000506-60.2022.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

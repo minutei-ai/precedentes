@@ -1,9 +1,9 @@
 # TRT19 · IAC 10
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 10
-- **Identificador na fonte:** `trt19-iac-10`
+- **Identificador:** `trt19-iac-10`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 02/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=10)
@@ -20,4 +20,4 @@ O crédito trabalhista cujo fato gerador é posterior ao pedido de recuperação
 
 - [00002377420255190011](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000237-74.2025.5.19.0011/1#9c3aa43)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

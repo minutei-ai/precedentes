@@ -1,10 +1,10 @@
 # STF · ADI 755
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 755
-- **Identificador na fonte:** `stf-adi-755`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-755`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 12/08/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=755)
 
@@ -20,4 +20,4 @@ Por votação unânime. O Tribunal deferiu medida liminar para suspender a efic�
 
 LEG-FED CF ANO-1988 ART-00040 INC-00003 LET-A LET-C PAR-00001 ART-00061 PAR-00001 INC-00002 LET-C CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00126 PAR-00006 (SP).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1360
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1360
-- **Identificador na fonte:** `stj-rr-1360`
+- **Identificador:** `stj-rr-1360`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1360)
@@ -21,4 +21,10 @@ Para fins de prorrogação do período de graça (art. 15, § 2º, da Lei 8.213/
 - [50001970820244029999](https://processo.stj.jus.br/processo/pesquisa/?termo=202403443449&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10124339220214019999](https://processo.stj.jus.br/processo/pesquisa/?termo=202403363270&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

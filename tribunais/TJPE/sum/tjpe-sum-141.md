@@ -1,9 +1,9 @@
 # TJPE · SUM 141
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 141
-- **Identificador na fonte:** `tjpe-sum-141`
+- **Identificador:** `tjpe-sum-141`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=141)
@@ -19,4 +19,4 @@ Em razão do pacto federativo, é de se respeitar e exigir o legítimo exercíci
 - [00071675520148170640](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00071675520148170640)
 - [00000108320158170870](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00000108320158170870)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

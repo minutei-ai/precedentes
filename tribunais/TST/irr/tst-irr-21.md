@@ -1,9 +1,9 @@
 # TST · IRR 21
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 21
-- **Identificador na fonte:** `tst-irr-21`
+- **Identificador:** `tst-irr-21`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=21)
@@ -26,4 +26,4 @@ III - Havendo impugnação à pretensão pela parte contrária, acompanhada de p
 
 - [00002778320205090084](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=277&digitoTst=83&anoTst=2020&orgaoTst=5&tribunalTst=09&varaTst=0084&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

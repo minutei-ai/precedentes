@@ -1,9 +1,9 @@
 # TRT03 · IRDR 4
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt03-irdr-4`
+- **Identificador:** `trt03-irdr-4`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 08/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ Auxílio refeição. Banco do Brasil. Empregados admitidos antes de set/1987. Na
 
 - [00111460520185030000](https://pje-consulta.trt3.jus.br/consultaprocessual/detalhe-processo/00111460520185030000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

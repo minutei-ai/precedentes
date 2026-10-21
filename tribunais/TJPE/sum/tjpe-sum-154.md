@@ -1,9 +1,9 @@
 # TJPE · SUM 154
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 154
-- **Identificador na fonte:** `tjpe-sum-154`
+- **Identificador:** `tjpe-sum-154`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=154)
@@ -19,4 +19,4 @@ O termo inicial da correção monetária, nas condenações impostas à Fazenda 
 - [00000108320158170870](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00000108320158170870)
 - [00004399320128171310](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00004399320128171310)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

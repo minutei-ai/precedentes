@@ -1,9 +1,9 @@
 # TJPE · SUM 151
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 151
-- **Identificador na fonte:** `tjpe-sum-151`
+- **Identificador:** `tjpe-sum-151`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=151)
@@ -18,4 +18,4 @@ Nas condenações impostas à Fazenda Pública ao pagamento de indenização por
 - [00277357420118170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00277357420118170001)
 - [00057683820108171090](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00057683820108171090)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

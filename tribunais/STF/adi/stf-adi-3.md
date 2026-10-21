@@ -1,10 +1,10 @@
 # STF · ADI 3
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3
-- **Identificador na fonte:** `stf-adi-3`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3)
 
@@ -20,4 +20,4 @@ Após o voto do Sr. Ministro Relator não conhecendo da ação, o julgamento foi
 
 LEG-FED CF ANO-1988 ART-00103 INC-00007 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEC-094042 ANO-1987 LEG-FED DEC-094233 ANO-1987 LEG-FED DEC-094684 ANO-1987
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

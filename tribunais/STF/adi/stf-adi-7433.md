@@ -1,10 +1,10 @@
 # STF · ADI 7433
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 7433
-- **Identificador na fonte:** `stf-adi-7433`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-7433`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/11/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7433)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009713 ANO-1998 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015 ART-00003
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=772634663)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

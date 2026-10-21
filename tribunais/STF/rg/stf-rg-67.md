@@ -1,9 +1,9 @@
 # STF · RG 67
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 67
-- **Identificador na fonte:** `stf-rg-67`
+- **Identificador:** `stf-rg-67`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=67)
@@ -20,4 +20,4 @@ A Gratificação de Desempenho de Atividade de Seguridade Social e do Trabalho -
 
 - [572052](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2578712)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 38
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 38
-- **Identificador na fonte:** `tst-irr-38`
+- **Identificador:** `tst-irr-38`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=38)
@@ -16,4 +16,4 @@ No arbitramento de indenização, em parcela única, referente à pensão vital�
 
 - [00200405020235040231](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020040-50.2023.5.04.0231/3#2eb3e53)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

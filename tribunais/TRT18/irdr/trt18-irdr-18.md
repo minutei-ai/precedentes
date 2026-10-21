@@ -1,9 +1,9 @@
 # TRT18 · IRDR 18
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trt18-irdr-18`
+- **Identificador:** `trt18-irdr-18`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 26/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=18)
@@ -20,4 +20,4 @@ A alteração da matriz salarial da Celg-D decorreu de aumento salarial fixo con
 
 - [00104980320215180000](https://pje.trt18.jus.br/consultaprocessual/detalhe-processo/0010742-27.2020.5.18.0012/2#d6af309)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

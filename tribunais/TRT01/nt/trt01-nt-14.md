@@ -1,9 +1,9 @@
 # TRT01 · NT 14
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 14
-- **Identificador na fonte:** `trt01-nt-14`
+- **Identificador:** `trt01-nt-14`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 03/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=14)
@@ -34,4 +34,4 @@ Rio de Janeiro, 29 de setembro de 2023.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3727434/3/NT14_CI_TRT1_Recomenda%c3%a7%c3%a3o%20ACT_PGM-RJ%20republi%c3%a7%c3%a3o.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

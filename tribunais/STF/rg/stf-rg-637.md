@@ -1,9 +1,9 @@
 # STF · RG 637
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 637
-- **Identificador na fonte:** `stf-rg-637`
+- **Identificador:** `stf-rg-637`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=637)
@@ -20,4 +20,4 @@ A questão do prazo prescricional aplicável às ações de reparação de danos
 
 - [650932](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4115625)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

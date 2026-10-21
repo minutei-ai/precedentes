@@ -1,9 +1,9 @@
 # TRT10 · IRDR 4
 
-- **Tribunal:** TRT10
+- **Órgão:** TRT10
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt10-irdr-4`
+- **Identificador:** `trt10-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt10&tipo=IRDR&nr=4)
@@ -21,4 +21,4 @@ IRDR - Tema n.º 4 - É possível decretar a prescrição intercorrente nas exec
 - [00007082420125100811](https://pje.trt10.jus.br/consultaprocessual/captcha/detalhe-processo/0000708-24.2012.5.10.0811/2)
 - [00027408720245100000](https://pje.trt10.jus.br/consultaprocessual/captcha/detalhe-processo/0002740-87.2024.5.10.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT10/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

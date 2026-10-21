@@ -1,10 +1,10 @@
 # STF · ADI 245
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 245
-- **Identificador na fonte:** `stf-adi-245`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-245`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/08/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=245)
 
@@ -20,4 +20,4 @@ Após os voto do Relator, que julgava procedente a ação e declarava a inconsti
 
 LEG-FED EMC-000001 ANO-1969 ART-00013 ART-00097 PAR-00001 PAR-00002 CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00025 ART-00034 INC-00007 LET-A ART-00037 INC-00001 INC-00002 ART-00039 PAR-00001 ART-00041 PAR-00003 ART-00061 PAR-00001 INC-00002 LET-A ART-00135 ART-00144 PAR-00004 ART-00241 .CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-008700 ANO-1946 LEG-FED LEI-001711 ANO-1952 ART-00255 LEG-FED LEI-003780 ANO-1960 LEG-FED LEI-005645 ANO-1970 ART-00006 ART-00013 LEG-FED LEI-008112 ANO-1990 ART-00001 ART-00008 RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS LEG-EST CES ANO-1989 ART-00185 PAR-00001 RJ, INCONSTITUCIONALIDADE. LEG-EST CES ANO-1989 ART-00185 PAR-00002 RJ. LEG-EST ADCT ANO-1989 ART-00077 ART-00080 CES-89, RJ.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

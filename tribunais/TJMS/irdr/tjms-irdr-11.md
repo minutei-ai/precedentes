@@ -1,9 +1,9 @@
 # TJMS · IRDR 11
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjms-irdr-11`
+- **Identificador:** `tjms-irdr-11`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 12/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=IRDR&nr=11)
@@ -16,4 +16,4 @@
 
 “A aposentadoria de servidor público municipal pelo Regime Gerald e Previdência Social gera vacância do cargo até então ocupado e impossibilita sua manutenção ou reintegração para este mesmo cargo, com a consequente impossibilidade de cumulação da remuneração e proventos.”
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

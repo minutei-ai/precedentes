@@ -1,9 +1,9 @@
 # TRT15 · IRDR 4
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt15-irdr-4`
+- **Identificador:** `trt15-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ DANOS MATERIAIS, MODALIDADE PENSIONAMENTO. DIREITO DO TRABALHADOR AO RECEBIMENTO
 
 - [00082794020175150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0008279-40.2017.5.15.0000/2#83c40d6)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

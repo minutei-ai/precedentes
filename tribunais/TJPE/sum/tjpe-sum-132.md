@@ -1,9 +1,9 @@
 # TJPE · SUM 132
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 132
-- **Identificador na fonte:** `tjpe-sum-132`
+- **Identificador:** `tjpe-sum-132`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=132)
@@ -19,4 +19,4 @@
 - [00034512020148170640](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00034512020148170640)
 - [00099622920148170480](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00099622920148170480)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

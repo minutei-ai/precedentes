@@ -1,9 +1,9 @@
 # TJMA · IAC 12
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 12
-- **Identificador na fonte:** `tjma-iac-12`
+- **Identificador:** `tjma-iac-12`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 14/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IAC&nr=12)
@@ -20,4 +20,4 @@ conflito de jurisdição entre a Vara Especial Colegiada dos Crimes Organizados 
 
 - 08109767220268100000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

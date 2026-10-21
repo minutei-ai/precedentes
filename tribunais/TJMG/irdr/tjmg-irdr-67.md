@@ -1,9 +1,9 @@
 # TJMG · IRDR 67
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 67
-- **Identificador na fonte:** `tjmg-irdr-67`
+- **Identificador:** `tjmg-irdr-67`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 15/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=67)
@@ -16,4 +16,4 @@ recurso em que se discute: para a concessão do seguro contratado na modalidade 
 
 - [01948927120208130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10701140427215002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

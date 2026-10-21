@@ -1,10 +1,10 @@
 # STF · ADI 324
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 324
-- **Identificador na fonte:** `stf-adi-324`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-324`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/04/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=324)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal não conheceu da ação, por ilegitimidade da
 
 LEG-FED CF ANO-1988 ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008029 ANO-1990 LEG-FED DEC-099240 ANO-1990 ART-00001 INC-00001 LET-E LEG-FED DEC-099300 ANO-1990 LEG-FED DEC-099302 ANO-1990 ART-00001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

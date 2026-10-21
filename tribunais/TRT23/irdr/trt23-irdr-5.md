@@ -1,9 +1,9 @@
 # TRT23 · IRDR 5
 
-- **Tribunal:** TRT23
+- **Órgão:** TRT23
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `trt23-irdr-5`
+- **Identificador:** `trt23-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt23&tipo=IRDR&nr=5)
@@ -22,4 +22,4 @@ IRDR 0000327-41.2024.5.23.0000 - Interpretação das cláusulas coletivas que pr
 
 - [00002261120235230009](https://pje.trt23.jus.br/consultaprocessual/detalhe-processo/0000226-11.2023.5.23.0009/2#abf7f19)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT23/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

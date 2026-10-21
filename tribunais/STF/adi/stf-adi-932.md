@@ -1,10 +1,10 @@
 # STF · ADI 932
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 932
-- **Identificador na fonte:** `stf-adi-932`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-932`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/10/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=932)
 
@@ -20,4 +20,4 @@ Depois dos votos dos Ministros Relator, Ilmar Galvão, Celso de Mello e Néri da
 
 LEG-FED CF ANO-1988 ART-00005 ART-00022 INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00009 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-EST LCP-000304 ANO-1982 ART-00041 INC-00002 SP. LEG-EST LCP-000667 ANO-1991 ART-00006 INC-00001 ART-00016 ART-00017 PAR-ÚNICO ART-00018 SP.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

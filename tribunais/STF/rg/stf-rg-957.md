@@ -1,9 +1,9 @@
 # STF · RG 957
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 957
-- **Identificador na fonte:** `stf-rg-957`
+- **Identificador:** `stf-rg-957`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=957)
@@ -20,4 +20,4 @@ A controvérsia relativa à inclusão de créditos presumidos de ICMS na base de
 
 - [1052277](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5200820)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

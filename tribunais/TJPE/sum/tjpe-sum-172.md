@@ -1,9 +1,9 @@
 # TJPE · SUM 172
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 172
-- **Identificador na fonte:** `tjpe-sum-172`
+- **Identificador:** `tjpe-sum-172`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=172)
@@ -19,4 +19,4 @@ A operadora de plano de saúde responde solidariamente por falhas nos serviços 
 - [00106374020158170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00106374020158170000)
 - [00175305220128170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00175305220128170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

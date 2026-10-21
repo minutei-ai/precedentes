@@ -1,10 +1,10 @@
 # STF · ADI 136
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 136
-- **Identificador na fonte:** `stf-adi-136`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-136`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/02/1990
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=136)
 
@@ -20,4 +20,4 @@ Por unanimidade o Tribunal conheceu da Questão de Ordem que lhe submeteu o Sr. 
 
 LEG-FED LCP-000035 ANO-1979 ART-00066 PAR-00001 LOMAN-1979 LEI ORGÂNICA DA MAGISTRATURA NACIONAL LEG-FED LEI-005010 ANO-1966 ART-00062 INC-00001 LEG-FED RGI ANO-1980 ART-00078 PAR-00001 ART-00105 "CAPUT" ART-00105 PAR-00001 ART-00170 PAR-00002 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-EST CES- ART-00094 INC-00003 ART-00106 (CE) LEG-EST ADCT- ART-00015 PAR-ÚNICO (CE)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

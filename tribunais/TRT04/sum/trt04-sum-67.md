@@ -1,9 +1,9 @@
 # TRT04 · SUM 67
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 67
-- **Identificador na fonte:** `trt04-sum-67`
+- **Identificador:** `trt04-sum-67`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=67)
@@ -18,4 +18,4 @@ REGIME DE COMPENSAÇÃO HORÁRIA. ATIVIDADE INSALUBRE. (Alterada pela Resoluçã
 - [00015581420145040411](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/-IQQo5SOwwK39KQkV7XL7w)
 - [00006380520145040261](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/Rm2ZyV283k-vnwHYmlGJwg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

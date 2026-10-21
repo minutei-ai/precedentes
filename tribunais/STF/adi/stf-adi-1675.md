@@ -1,10 +1,10 @@
 # STF · ADI 1675
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1675
-- **Identificador na fonte:** `stf-adi-1675`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1675`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/09/1997
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1675)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1934 ART-00121 LET-E CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF AN
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347205)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

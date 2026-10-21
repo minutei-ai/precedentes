@@ -1,10 +1,10 @@
 # STF · ADI 363
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 363
-- **Identificador na fonte:** `stf-adi-363`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-363`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/08/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=363)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal rejeitou os embargos de declaração, vencidos,
 
 LEG-FED CF ANO-1988 ART-00102 INC-00001 LET-A ART-00103 INC-00008 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST ADCT ANO-1989 ART-00014 (CES), (SC), inconstitucionalidade.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

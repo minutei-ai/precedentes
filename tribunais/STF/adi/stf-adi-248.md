@@ -1,10 +1,10 @@
 # STF · ADI 248
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 248
-- **Identificador na fonte:** `stf-adi-248`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-248`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/11/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=248)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente a ação, para declara a in
 
 LEG-FED CF ANO-1988 ART-00025 ART-00037 INC-00002 ART-00040 PAR-00004 ART-00048 INC-00010 ART-00061 PAR-00001 INC-00002 .. LET-A ART-00084 INC-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST ADCT ANO-1969 ART-00069 ART-00074 CES, RJ, INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

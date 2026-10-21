@@ -1,9 +1,9 @@
 # TJES · IAC 89
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 89
-- **Identificador na fonte:** `tjes-iac-89`
+- **Identificador:** `tjes-iac-89`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IAC&nr=89)
@@ -16,4 +16,4 @@ Fixação de tese jurídica de observância obrigatória no que tange a processo
 
 - [00281281320108080024](http://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0028128-13.2010.8.08.0024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

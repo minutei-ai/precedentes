@@ -1,10 +1,10 @@
 # STF · ADI 4389
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4389
-- **Identificador na fonte:** `stf-adi-4389`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4389`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/04/2011
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4389)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade, admitiu o Estado de São Paulo como amicus curiae. 
 
 LEG-FED CF ANO-1988 ART-00146 INC-00002 ART-00155 INC-00002 PAR-00002 INC-00009 LET-B INC-00012 ART-00156 INC-00003 ART-00158 INC-00004 PAR-ÚNICO INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005172 ANO-1966 ART-00071 PAR-00002 CTN-1966 CÓDIGO TRIBUTÁRIO NACIONAL LEG-FED LCP-000087 ANO-1996 ART-00002 INC-00004 LEI COMPLEMENTAR LEG-FED LCP-000116 ANO-2003 ART-00001 "CAPUT" PAR-00002 SUBITEM-13.5 DA LISTA DE SERVIÇOS ANEXA LEI COMPLEMENTAR LEG-FED SUV-000031 SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL - STF
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

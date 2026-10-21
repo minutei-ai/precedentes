@@ -1,10 +1,10 @@
 # STF · ADI 4889
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4889
-- **Identificador na fonte:** `stf-adi-4889`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4889`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/11/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4889)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00001 PAR-ÚNICO ART-00055 INC-00002 PAR-00001 ART-00060
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754470244)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

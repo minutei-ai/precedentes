@@ -1,9 +1,9 @@
 # TJGO · SUM 52
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 52
-- **Identificador na fonte:** `tjgo-sum-52`
+- **Identificador:** `tjgo-sum-52`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=52)
@@ -16,4 +16,4 @@ Será competente para processar e julgar a pretensão previdenciária não acide
 
 - 01349491320158090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

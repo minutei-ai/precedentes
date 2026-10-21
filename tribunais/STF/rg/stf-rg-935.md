@@ -1,9 +1,9 @@
 # STF · RG 935
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 935
-- **Identificador na fonte:** `stf-rg-935`
+- **Identificador:** `stf-rg-935`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=935)
@@ -20,4 +20,4 @@ Inconstitucionalidade da contribuição assistencial imposta aos empregados não
 
 - [1018459](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5112803)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

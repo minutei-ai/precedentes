@@ -1,9 +1,9 @@
 # TRT07 · IAC 12
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 12
-- **Identificador na fonte:** `trt07-iac-12`
+- **Identificador:** `trt07-iac-12`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IAC&nr=12)
@@ -17,4 +17,4 @@
 - 00011160620245070026
 - [00015691120265070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0001569-11.2026.5.07.0000/2#2409876)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

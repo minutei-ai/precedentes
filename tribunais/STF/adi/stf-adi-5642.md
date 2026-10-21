@@ -1,10 +1,10 @@
 # STF · ADI 5642
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5642
-- **Identificador na fonte:** `stf-adi-5642`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5642`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5642)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00003 INC-00001 ART-00005 INC-00002 INC-00010 INC-00011 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=779375903)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

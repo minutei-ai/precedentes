@@ -1,9 +1,9 @@
 # TJRN · IAC 4
 
-- **Tribunal:** TJRN
+- **Órgão:** TJRN
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjrn-iac-4`
+- **Identificador:** `tjrn-iac-4`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrn&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ A substituição é pressuposto inerente ao cargo de Juiz Substituto, de maneira
 
 - 08005262520218205155
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRN/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

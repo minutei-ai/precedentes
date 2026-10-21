@@ -1,10 +1,10 @@
 # STF · ADI 75
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 75
-- **Identificador na fonte:** `stf-adi-75`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-75`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/04/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=75)
 
@@ -20,4 +20,4 @@ Decisão: Após o voto do Sr. Ministro-Relator deferindo a medida liminar, em fa
 
 LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 ART-00008 INC-00018 LET-B ART-00116 CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00022 INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00666 ART-01116 ART-01219 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-000556 ANO-1850 CCM-1850 CÓDIGO COMERCIAL LEG-FED DEL-007661 ANO-1945 ART-00209 LF-1945 LEI DE FALÊNCIAS LEG-FED LEI-006830 ANO-1980 ART-00032 LEF-1980 LEI DE EXECUÇÃO FISCAL LEG-FED DEL-001730 ANO-1979 ART-00001 LEG-FED LEI-008801 ANO-1988 (PR)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

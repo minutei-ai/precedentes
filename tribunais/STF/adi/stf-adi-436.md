@@ -1,10 +1,10 @@
 # STF · ADI 436
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 436
-- **Identificador na fonte:** `stf-adi-436`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-436`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=436)
 
@@ -20,4 +20,4 @@ Preliminarmente, por maioria, o Tribunal conheceu do pedido, vencido o Sr. Minis
 
 LEG-FED CF ANO-1988 ART-00005 INC-00002 INC-00022 INC-00024 ART-00170 INC-00002 ART-00175 PAR-ÚNICO INC-00002 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-008209 ANO-1991 SC.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

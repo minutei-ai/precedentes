@@ -1,9 +1,9 @@
 # TJSP · NT 1
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjsp-nt-1`
+- **Identificador:** `tjsp-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/04/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=NT&nr=1)
@@ -23,4 +23,4 @@ cumprimentos de sentença (individuais, ou não), visando o aperfeiçoamento dos
 
 - [Link Nota Técnica](https://www.tjsp.jus.br/Download/CentroInteligencia/NotasTecnicas1.pdf?d=1761252000501)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPE · SUM 11
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 11
-- **Identificador na fonte:** `tjpe-sum-11`
+- **Identificador:** `tjpe-sum-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=11)
@@ -20,4 +20,4 @@
 - [00057113620038170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00057113620038170000)
 - [00007002620038170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00007002620038170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

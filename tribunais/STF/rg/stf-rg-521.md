@@ -1,9 +1,9 @@
 # STF · RG 521
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 521
-- **Identificador na fonte:** `stf-rg-521`
+- **Identificador:** `stf-rg-521`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=521)
@@ -20,4 +20,4 @@ O pagamento parcelado dos créditos não alimentares, na forma do art. 78 do ADC
 
 - [612707](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3870714)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

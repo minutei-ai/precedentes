@@ -1,9 +1,9 @@
 # TJPB · IRDR 14
 
-- **Tribunal:** TJPB
+- **Órgão:** TJPB
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `tjpb-irdr-14`
+- **Identificador:** `tjpb-irdr-14`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 31/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=14)
@@ -16,4 +16,4 @@ Definir a respeito da existência de norma regulamentadora dos art. 84, V, e 94,
 
 - [08111317620228150000](https://www.tjpb.jus.br/nugep/irdr)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

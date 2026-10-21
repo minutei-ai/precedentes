@@ -1,9 +1,9 @@
 # TJPR · IRDR 27
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `tjpr-irdr-27`
+- **Identificador:** `tjpr-irdr-27`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=27)
@@ -20,4 +20,4 @@ A intervenção do Município em processos de usucapião para defender interesse
 
 - [00384677320138160001](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0038467-73.2013.8.16.0001&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

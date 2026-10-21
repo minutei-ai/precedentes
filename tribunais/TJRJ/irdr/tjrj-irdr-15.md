@@ -1,9 +1,9 @@
 # TJRJ · IRDR 15
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjrj-irdr-15`
+- **Identificador:** `tjrj-irdr-15`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ Aos beneficiários de pensão por morte de ex-policiais militares ou ex-bombeiro
 
 - [00257498720188190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2018.291.00009)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSP · IRDR 26
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 26
-- **Identificador na fonte:** `tjsp-irdr-26`
+- **Identificador:** `tjsp-irdr-26`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=26)
@@ -22,4 +22,4 @@ a) antes da entrada em vigor da Lei n. 13.465/2017, nas situações em que já c
 
 - [21664238620188260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=3B61D74AB209187B75CD478781804BEC.cposg10?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=2166423-86.2018&foroNumeroUnificado=0000&dePesquisaNuUnificado=2166423-86.2018.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

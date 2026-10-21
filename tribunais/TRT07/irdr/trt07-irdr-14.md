@@ -1,9 +1,9 @@
 # TRT07 · IRDR 14
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `trt07-irdr-14`
+- **Identificador:** `trt07-irdr-14`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 05/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=14)
@@ -16,4 +16,4 @@ IRDR 0002770-72.2025.5.07.0000- Aplica-se o art. 87, do Código de Defesa do Con
 
 - 00027707220255070000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

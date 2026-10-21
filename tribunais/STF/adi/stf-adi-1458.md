@@ -1,10 +1,10 @@
 # STF · ADI 1458
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1458
-- **Identificador na fonte:** `stf-adi-1458`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1458`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/05/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1458)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal conheceu da ação e indeferiu o pedido de me
 
 LEG-FED CF ANO-1934 ART-00121 PAR-00001 LET-B CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1937 ART-00137 LET-H CF-1937 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 ART-00157 INC-00001 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00158 INC-00001 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 ART-00165 INC-00001 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00007 INC-00004 ART-00102 INC-00001 LET-A ART-00103 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEC-089686 ANO-1984 DECRETO LEG-FED MPR-001415 ANO-1996 ART-00001 PAR-ÚNICO MEDIDA PROVISÓRIA
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

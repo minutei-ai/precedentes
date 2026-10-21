@@ -1,9 +1,9 @@
 # TJPE · SUM 133
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 133
-- **Identificador na fonte:** `tjpe-sum-133`
+- **Identificador:** `tjpe-sum-133`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=133)
@@ -18,4 +18,4 @@ A presença de corpo estranho em produto adquirido pelo consumidor, em que pese 
 - [00093543620118170480](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00093543620118170480)
 - [00002187920148171330](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00002187920148171330)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

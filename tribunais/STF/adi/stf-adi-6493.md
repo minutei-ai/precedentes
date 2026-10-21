@@ -1,10 +1,10 @@
 # STF · ADI 6493
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6493
-- **Identificador na fonte:** `stf-adi-6493`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6493`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 04/10/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6493)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-013105 ANO-2015 ART-01022 CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-EST
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=757662707)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

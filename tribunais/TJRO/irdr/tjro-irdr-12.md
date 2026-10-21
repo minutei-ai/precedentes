@@ -1,9 +1,9 @@
 # TJRO · IRDR 12
 
-- **Tribunal:** TJRO
+- **Órgão:** TJRO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjro-irdr-12`
+- **Identificador:** `tjro-irdr-12`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 12/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjro&tipo=IRDR&nr=12)
@@ -20,4 +20,4 @@ Não há condenação ao pagamento de honorários sucumbenciais quando o cancela
 
 - 08114008620238220000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

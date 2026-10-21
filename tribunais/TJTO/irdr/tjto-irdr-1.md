@@ -1,9 +1,9 @@
 # TJTO · IRDR 1
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjto-irdr-1`
+- **Identificador:** `tjto-irdr-1`
 - **Situação na fonte:** Sobrestado (outro motivo)
 - **Atualização informada pela fonte:** 05/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=IRDR&nr=1)
@@ -23,4 +23,4 @@ Tese 6: É devido o desconto do valor referente ao IPTU incidente sobre o imóve
 Tese 7: A restituição dos valores pagos ao comprador deverá ocorrer nos moldes no §1º e seguintes do Artigo 32-A, da Lei 6.766/18 (redação dada pela Lei 13.786/18) no prazo de até 12 meses, respeitadas as carências legais  
 Tese 8: A indenização por fruição deverá obedecer a regra estabelecida junto ao inciso I, do Artigo 32-A, da Lei 6.766/18 (redação dada pela Lei nº 13.786/18),.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

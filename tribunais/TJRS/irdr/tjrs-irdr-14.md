@@ -1,9 +1,9 @@
 # TJRS · IRDR 14
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `tjrs-irdr-14`
+- **Identificador:** `tjrs-irdr-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=14)
@@ -16,4 +16,4 @@ Controvérsia estabelecida entre as Câmaras Cíveis deste Tribunal de Justiça 
 
 NOS CASOS DE CONDENAÇÃO SOLIDÁRIA DOS ENTES ESTADUAL E MUNICIPAL, NAS AÇÕES ENVOLVENDO O DIREITO À SAÚDE, OS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DEVEM SER FIXADOS PRO RATA.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

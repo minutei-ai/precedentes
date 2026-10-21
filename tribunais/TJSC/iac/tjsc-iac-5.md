@@ -1,9 +1,9 @@
 # TJSC · IAC 5
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `tjsc-iac-5`
+- **Identificador:** `tjsc-iac-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=IAC&nr=5)
@@ -21,4 +21,4 @@ b) para a concessão de progressão funcional é mister a demonstração de temp
 
 - [50556460820168240000](https://eproc2g.tjsc.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50556460820168240000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

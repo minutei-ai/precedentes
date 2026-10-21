@@ -1,9 +1,9 @@
 # TJSC · NT 5
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `tjsc-nt-5`
+- **Identificador:** `tjsc-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 23/05/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=5)
@@ -42,4 +42,4 @@ administrativo SEI n. 0029954-91.2019.8.24.0710.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/CIJESC-Nota+T%C3%A9cnica+05-2023.+Gest%C3%A3o+de+precedentes.pdf/e05b46bc-57ed-bf02-fe4b-faa13e1f8567?t=1686692952570)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

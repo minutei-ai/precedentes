@@ -1,9 +1,9 @@
 # STJ · CT 441
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 441
-- **Identificador na fonte:** `stj-ct-441`
+- **Identificador:** `stj-ct-441`
 - **Situação na fonte:** Controvérsia pendente
 - **Atualização informada pela fonte:** 04/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=441)
@@ -16,4 +16,14 @@ Definir se é insignificante ou não a conduta de pescar em época proibida com 
 
 - 00011475620144025116
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Sem processo vinculado
+
+### Questão
+
+Definir se é insignificante ou não a conduta de pescar em época proibida com petrechos proibidos para pesca (tarrafa, vara de pescar) ainda que pequena a quantidade de peixes apreendidos.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

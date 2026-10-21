@@ -1,9 +1,9 @@
 # TRT24 · IRDR 12
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `trt24-irdr-12`
+- **Identificador:** `trt24-irdr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 30/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IRDR&nr=12)
@@ -20,4 +20,4 @@ EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH. SALÁRIO BÁSICO. BASE DE
 
 - [00240015020265240000](https://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024001-50.2026.5.24.0000/2#8a446fc)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

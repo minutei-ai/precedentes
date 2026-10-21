@@ -1,9 +1,9 @@
 # STJ · RR 846
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 846
-- **Identificador na fonte:** `stj-rr-846`
+- **Identificador:** `stj-rr-846`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=846)
@@ -16,4 +16,6 @@ Possibilidade de cumulação de auxílio-suplementar com aposentadoria.
 
 - 90855430820068260000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

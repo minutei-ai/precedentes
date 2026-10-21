@@ -1,9 +1,9 @@
 # TJSP · IRDR 50
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 50
-- **Identificador na fonte:** `tjsp-irdr-50`
+- **Identificador:** `tjsp-irdr-50`
 - **Situação na fonte:** Acórdão Publicado (AREsp Pendente)
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=50)
@@ -21,4 +21,4 @@ Processo civil - Prazos Processuais - Greve dos Caminhoneiros 2018 - Fixação d
 - [22172639520218260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI006L0O00000)
 - [22187743120218260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=2218774-31.2021&foroNumeroUnificado=0000&dePesquisaNuUnificado=2218774-31.2021.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

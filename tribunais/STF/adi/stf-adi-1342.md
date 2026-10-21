@@ -1,10 +1,10 @@
 # STF · ADI 1342
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1342
-- **Identificador na fonte:** `stf-adi-1342`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1342`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/02/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1342)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu o pedido de medida liminar para suspe
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 ART-00061 PAR-00001 INC-00002 LET-C ART-00063 INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LCP-000439 ANO-1985 ART-00005 ART-00006 (SP). LEG-EST LCP-000763 ANO-1994 ART-00018 PAR-00001 PAR-00002 (SP).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

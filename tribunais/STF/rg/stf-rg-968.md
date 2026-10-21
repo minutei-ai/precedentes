@@ -1,9 +1,9 @@
 # STF · RG 968
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 968
-- **Identificador na fonte:** `stf-rg-968`
+- **Identificador:** `stf-rg-968`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=968)
@@ -20,4 +20,4 @@ Competência legislativa da União para dispor sobre normas gerais em matéria p
 
 - [1007271](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5082568)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

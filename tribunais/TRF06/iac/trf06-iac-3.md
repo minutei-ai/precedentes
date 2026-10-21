@@ -1,9 +1,9 @@
 # TRF06 · IAC 3
 
-- **Tribunal:** TRF06
+- **Órgão:** TRF06
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `trf06-iac-3`
+- **Identificador:** `trf06-iac-3`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 06/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf06&tipo=IAC&nr=3)
@@ -16,4 +16,4 @@ Definir se os benefícios fiscais de ICMS estruturados sob a forma de regime esp
 
 - [60063845720264060000](https://eproc2g.trf6.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=60063845720264060000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPI · NT 11
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `tjpi-nt-11`
+- **Identificador:** `tjpi-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 29/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=NT&nr=11)
@@ -78,4 +78,4 @@ Além da correção monetária, incidem também os juros de mora sobre o valor d
 
 - [Link Nota Técnica](https://www.tjpi.jus.br/portaltjpi/nugep/cijepi/notas-tecnicas/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

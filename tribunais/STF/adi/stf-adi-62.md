@@ -1,10 +1,10 @@
 # STF · ADI 62
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 62
-- **Identificador na fonte:** `stf-adi-62`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-62`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/06/2002
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=62)
 
@@ -20,4 +20,4 @@ Por maioria, contra o voto do Sr. Ministro Sepúlveda Pertence, o Tribunal indef
 
 LEG-FED CF ANO-1988 ART-00063 PAR-ÚNICO CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00058 (CF-1988). LEG-FED MPR-000063 ANO-1989 ART-00014 ART-00015
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 32
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 32
-- **Identificador na fonte:** `stf-rg-32`
+- **Identificador:** `stf-rg-32`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=32)
@@ -20,4 +20,4 @@ A lei complementar é forma exigível para a definição do modo beneficente de 
 
 - [566622](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2565291)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 851
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 851
-- **Identificador na fonte:** `stj-rr-851`
+- **Identificador:** `stj-rr-851`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=851)
@@ -17,4 +17,6 @@ Necessidade de perícia na arma para a incidência da majorante no crime de roub
 - [00008253020048070002](https://processo.stj.jus.br/processo/pesquisa/?termo=200900497784&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00808161920088070001](https://processo.stj.jus.br/processo/pesquisa/?termo=200900511330&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

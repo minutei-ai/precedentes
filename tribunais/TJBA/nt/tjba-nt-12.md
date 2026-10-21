@@ -1,9 +1,9 @@
 # TJBA · NT 12
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `tjba-nt-12`
+- **Identificador:** `tjba-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=12)
@@ -21,4 +21,4 @@ Estado de Santa Catarina (CIJESC), considerando que os problemas apontados nas d
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-n-01-2024/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

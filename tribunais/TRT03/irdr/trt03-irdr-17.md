@@ -1,9 +1,9 @@
 # TRT03 · IRDR 17
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `trt03-irdr-17`
+- **Identificador:** `trt03-irdr-17`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 08/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=17)
@@ -22,4 +22,4 @@ ao percentual máximo permitido. (item V da Súmula n. 368 do TST)"
 
 - [00117139420225030000](https://pje-consulta.trt3.jus.br/consultaprocessual/detalhe-processo/0011713-94.2022.5.03.0000/2#a616aad)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

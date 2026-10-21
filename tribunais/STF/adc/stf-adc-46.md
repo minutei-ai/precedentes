@@ -1,10 +1,10 @@
 # STF · ADC 46
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Declaratória de Constitucionalidade
 - **Número:** 46
-- **Identificador na fonte:** `stf-adc-46`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adc-46`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 31/08/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADC&nr=46)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-005172 ANO-1966 ART-0195A CTN-1966 CÓDIGO TRIBUTÁRIO NACIONAL LEG-
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753886761)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

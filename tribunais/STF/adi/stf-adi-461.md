@@ -1,10 +1,10 @@
 # STF · ADI 461
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 461
-- **Identificador na fonte:** `stf-adi-461`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-461`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 21/06/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=461)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal deferiu a medida cautelar , para suspender a ef
 
 LEG-FED CF ANO-1988 ART-00070 ART-00071 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00091 INC-00010 ART-00095 INC-00001 LET-B BA.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

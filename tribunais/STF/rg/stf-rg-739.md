@@ -1,9 +1,9 @@
 # STF · RG 739
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 739
-- **Identificador na fonte:** `stf-rg-739`
+- **Identificador:** `stf-rg-739`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=739)
@@ -20,4 +20,4 @@ Possibilidade de recusa de aplicação do art. 94, II, da Lei 9.472/1997 em raz�
 
 - [791932](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4517937)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

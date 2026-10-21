@@ -1,9 +1,9 @@
 # TJMA · IAC 4
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjma-iac-4`
+- **Identificador:** `tjma-iac-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ Legalidade do contrato de prestação de serviços firmado entre escritório de 
 
 - [00007654320178100091](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=288716&ca=930afa306a08e2f6a116acf37cab014696f07ff62b8e3bce7cea43df75ba7c82039cd6eba875b4f14c9372b2657811fd&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

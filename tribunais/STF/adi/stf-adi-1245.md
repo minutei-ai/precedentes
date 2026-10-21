@@ -1,10 +1,10 @@
 # STF · ADI 1245
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1245
-- **Identificador na fonte:** `stf-adi-1245`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1245`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/04/2005
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1245)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00008 INC-00005 ART-00024 INC-00006 PAR-00001 PAR-00002 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=385456)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

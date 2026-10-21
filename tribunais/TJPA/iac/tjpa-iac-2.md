@@ -1,9 +1,9 @@
 # TJPA · IAC 2
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tjpa-iac-2`
+- **Identificador:** `tjpa-iac-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IAC&nr=2)
@@ -21,4 +21,4 @@ Definição da competência para processamento de ações que envolvam interesse
 
 - [08172288520238140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08172288520238140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

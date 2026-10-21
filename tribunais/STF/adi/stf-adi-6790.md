@@ -1,10 +1,10 @@
 # STF · ADI 6790
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6790
-- **Identificador na fonte:** `stf-adi-6790`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6790`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6790)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00040 PAR--B ART-00144 ART-00227 PAR-00003 INC-00004 INC
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=785025013)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

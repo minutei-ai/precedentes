@@ -1,9 +1,9 @@
 # TRT18 · IRDR 42
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 42
-- **Identificador na fonte:** `trt18-irdr-42`
+- **Identificador:** `trt18-irdr-42`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=42)
@@ -20,4 +20,4 @@ TESE JURÍDICA: BANCO DE HORAS. INVALIDADE.EFEITOS. REFORMA TRABALHISTA. O do ar
 
 - [00126566020235180000](https://sistemas.trt18.jus.br/consultasPortal/pages/Processuais/DetalhaProcesso.seam?p_num_pje=198923&p_grau_pje=2&popup=0&tipo_proc=IRDR&cid=1483)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

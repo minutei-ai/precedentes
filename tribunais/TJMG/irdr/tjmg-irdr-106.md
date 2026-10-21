@@ -1,9 +1,9 @@
 # TJMG · IRDR 106
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 106
-- **Identificador na fonte:** `tjmg-irdr-106`
+- **Identificador:** `tjmg-irdr-106`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 15/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=106)
@@ -20,4 +20,4 @@ Nas execuções de título extrajudicial lastreadas em cheque, o prazo da prescr
 
 - [38580168320248130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000205929391003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

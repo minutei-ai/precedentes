@@ -1,9 +1,9 @@
 # STJ · RR 838
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 838
-- **Identificador na fonte:** `stj-rr-838`
+- **Identificador:** `stj-rr-838`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 31/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=838)
@@ -19,4 +19,6 @@ Prescrição do fundo de direito da pretensão de servidor público estadual int
 - 00084411320078230000
 - 00098707820088230000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

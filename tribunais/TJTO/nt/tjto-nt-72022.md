@@ -1,9 +1,9 @@
 # TJTO · NT 72022
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Nota Técnica
 - **Número:** 72022
-- **Identificador na fonte:** `tjto-nt-72022`
+- **Identificador:** `tjto-nt-72022`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=NT&nr=72022)
@@ -26,4 +26,4 @@ Enunciado nº 6 – Fazenda Pública. Ações Coletivas. Processos Executivos Li
 
 - [Link Nota Técnica](https://www.tjto.jus.br/plugins/content/pdfviewer/assets/pdfjs/web/viewer.html?file=https://www.tjto.jus.br/cinugep/notas-tecnicas/20783-nota-tecnica-07/viewdocument/20783)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

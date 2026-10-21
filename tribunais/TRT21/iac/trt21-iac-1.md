@@ -1,9 +1,9 @@
 # TRT21 · IAC 1
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt21-iac-1`
+- **Identificador:** `trt21-iac-1`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 04/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=IAC&nr=1)
@@ -16,4 +16,4 @@ Aplicabilidade do art. 916 do CPC ao cumprimento de sentença trabalhista, consi
 
 - [00007335620255210041](https://pje.trt21.jus.br/consultaprocessual/detalhe-processo/0000733-56.2025.5.21.0041/2#485bf6d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

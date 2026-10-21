@@ -1,9 +1,9 @@
 # TRT04 · SUM 46
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 46
-- **Identificador na fonte:** `trt04-sum-46`
+- **Identificador:** `trt04-sum-46`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=46)
@@ -26,4 +26,4 @@ EMBARGOS DE TERCEIRO. PRAZO. (Alterada pela Resolução Administrativa nº 19/20
 - [01349008920035040029](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/MSMsbAWd89I6C56TDdl9Aw)
 - [01014005620035040021](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/01Z4-whqHbLGEuzxIe-xAQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJTO · IAC 9
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 9
-- **Identificador na fonte:** `tjto-iac-9`
+- **Identificador:** `tjto-iac-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=IAC&nr=9)
@@ -18,4 +18,4 @@
   
 2\. O IAC nº 2 está superado e cancelado, enquanto o IAC nº 4 deve ser interpretado restritivamente, com exclusão das ações relativas a crianças e adolescentes."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

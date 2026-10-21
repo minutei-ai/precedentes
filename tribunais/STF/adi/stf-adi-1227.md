@@ -1,10 +1,10 @@
 # STF · ADI 1227
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1227
-- **Identificador na fonte:** `stf-adi-1227`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1227`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/06/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1227)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal convertei o julgamento em diligências, para 
 
 LEG-FED CF ANO-1988 ART-00002 ART-00037 INC-00013 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-001206 ANO-1987 ART-00010 PAR-ÚNICO (RJ). LEG-EST LEI-001272 ANO-1987 ART-00002 PAR-00001 ART-00002 PAR-00002 (RJ). LEG-EST LEI-001649 ANO-1990 ART-00006 PAR-ÚNICO (RJ). LEG-EST LEI-001696 ANO-1990 ART-00004 PAR-00001 (RJ).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMG · IRDR 95
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 95
-- **Identificador na fonte:** `tjmg-irdr-95`
+- **Identificador:** `tjmg-irdr-95`
 - **Situação na fonte:** Sobrestado por tema do STJ
 - **Atualização informada pela fonte:** 06/12/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=95)
@@ -16,4 +16,4 @@ recurso em que se discute se diante da omissão na legislação estadual e da in
 
 - [35159985720238130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000231329285003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

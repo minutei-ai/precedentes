@@ -1,9 +1,9 @@
 # TRT13 · IAC 50
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 50
-- **Identificador na fonte:** `trt13-iac-50`
+- **Identificador:** `trt13-iac-50`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 14/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=50)
@@ -20,4 +20,4 @@ MUNICÍPIO. REGIME JURÍDICO CELETISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. Em
 
 - [01304283320155130010](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0130428-33.2015.5.13.0010/2#10d9bd0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

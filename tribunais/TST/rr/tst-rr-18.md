@@ -1,9 +1,9 @@
 # TST · RR 18
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 18
-- **Identificador na fonte:** `tst-rr-18`
+- **Identificador:** `tst-rr-18`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 29/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=RR&nr=18)
@@ -31,4 +31,4 @@ II  não modular os efeitos desta decisão;
 - [00006648220125030137](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0000664&digitoTst=82&anoTst=2012&orgaoTst=5&tribunalTst=03&varaTst=0137&submit=Consultar)
 - [00005517120175200011](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0000551&digitoTst=71&anoTst=2017&orgaoTst=5&tribunalTst=20&varaTst=0011&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

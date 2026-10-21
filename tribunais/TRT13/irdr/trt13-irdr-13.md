@@ -1,9 +1,9 @@
 # TRT13 · IRDR 13
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `trt13-irdr-13`
+- **Identificador:** `trt13-irdr-13`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 20/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IRDR&nr=13)
@@ -21,4 +21,4 @@ Discussão acerca dos critérios objetivos para pagamento da parcela denominada 
 - [00000562620255130016](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000056-26.2025.5.13.0016/2#4af6605)
 - [00012440520255130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0001244-05.2025.5.13.0000/2#93cf6ce)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

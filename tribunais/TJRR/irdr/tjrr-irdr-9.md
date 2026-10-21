@@ -1,9 +1,9 @@
 # TJRR · IRDR 9
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjrr-irdr-9`
+- **Identificador:** `tjrr-irdr-9`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 19/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IRDR&nr=9)
@@ -20,4 +20,4 @@ O julgamento pretérito de Incidente de Assunção de Competência com idêntica
 
 - 08003008220208230010
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

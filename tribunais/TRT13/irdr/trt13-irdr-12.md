@@ -1,9 +1,9 @@
 # TRT13 · IRDR 12
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `trt13-irdr-12`
+- **Identificador:** `trt13-irdr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IRDR&nr=12)
@@ -21,4 +21,4 @@ Na reclamação que tenha como objeto diferenças remuneratórias, decorrentes d
 - [00013220920245130008](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0001322-09.2024.5.13.0008/2#3de5438)
 - [00008725620255130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000872-56.2025.5.13.0000/2#e7f0372)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

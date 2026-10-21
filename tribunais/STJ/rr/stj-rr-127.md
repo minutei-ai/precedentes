@@ -1,9 +1,9 @@
 # STJ · RR 127
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 127
-- **Identificador na fonte:** `stj-rr-127`
+- **Identificador:** `stj-rr-127`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=127)
@@ -22,4 +22,10 @@ A responsabilidade pela apresentação dos extratos analíticos das contas vincu
 - 00001853120044058501
 - 00620357320074050000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

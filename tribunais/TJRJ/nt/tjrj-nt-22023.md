@@ -1,9 +1,9 @@
 # TJRJ · NT 22023
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 22023
-- **Identificador na fonte:** `tjrj-nt-22023`
+- **Identificador:** `tjrj-nt-22023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 03/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=22023)
@@ -21,4 +21,4 @@ Trata-se de edição de nota técnica de aderência à Nota Técnica nº. 06/202
 
 - [Link Nota Técnica](https://www.tjrj.jus.br/documents/93577919/225363000/2._Nota_Tecnica_CI-TJRJ_02-2023.pdf/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMG · IRDR 83
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 83
-- **Identificador na fonte:** `tjmg-irdr-83`
+- **Identificador:** `tjmg-irdr-83`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 17/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=83)
@@ -16,4 +16,4 @@ recurso em que se discute o cabimento de condenação em honorários advocatíci
 
 - [23067166420218130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000212306716001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

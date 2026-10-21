@@ -1,10 +1,10 @@
 # STF · ADI 3289
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3289
-- **Identificador na fonte:** `stf-adi-3289`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3289`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/05/2005
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3289)
 
@@ -20,4 +20,4 @@ Decisão: O Tribunal, por maioria, julgou integralmente improcedente a ação, v
 
 LEG-FED CF ANO-1988 ART-00037 ART-00048 INC-00011 ART-00050 PAR-00001 ART-00052 INC-00001 INC-00003 LET-D ART-00062 PAR-00001 INC-00001 LET-B INC-00003 ART-00062 PAR-00009 ART-00069 ART-00084 INC-00001 INC-00014 ART-00087 PAR-ÚNICO ART-00090 PAR-00001 ART-00102 INC-00001 LET-B LET-C ART-00164 ART-00192 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000032 ANO-2001 LEG-FED EMC-000040 ANO-2003 LEG-FED LEI-004595 ANO-1964 LEG-FED LEI-009650 ANO-1998 ART-00013 LEG-FED LEI-010683 ANO-2003 ART-00008 PAR-00001 INC-00003 (Redação dada pela LEI-11036/2004) LEG-FED LEI-010683 ANO-2003 ART-00025 PAR-ÚNICO (Redação dada pela LEI-11036/2004) LEG-FED LEI-011036 ANO-2004 (Lei de conversão da MPR-207/2004) LEG-FED LEI-011036 ANO-2004 ART-00002 PAR-ÚNICO (Lei de Conversão da MPR-207/2004) LEG-FED MPR-000207 ANO-2004 ART-00001 (Altera dispositivos da LEI-9650/98 e da LEI-10683/2003) LEG-FED MPR-000207 ANO-2004 ART-00002 (Altera dispositivos da LEI-9650/98 e da LEI-10683/2003) LEG-FED MPR- 002049 ANO-2000 REEDIÇÃO Nº 20 LEG-FED DLG-000015 ANO-1997 (Convênio Constitutivo do Banco de Compensações Internacionais) LEG-FED DEC-003941 ANO-2001 (Convênio Constitutivo do Banco de Compensações Internacionais)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

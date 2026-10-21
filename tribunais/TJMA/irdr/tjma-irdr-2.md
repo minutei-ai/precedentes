@@ -1,9 +1,9 @@
 # TJMA · IRDR 2
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjma-irdr-2`
+- **Identificador:** `tjma-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ As Leis nº 8.970/09 e 8.971/09 não possuem caráter de revisão geral e anual,
 
 - [00002251020158100044](https://sistemas3.tjma.jus.br/themissg/MovimentacaoProcessoAction.consultaProcesso.mtw?strProtocolo=0042242016)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

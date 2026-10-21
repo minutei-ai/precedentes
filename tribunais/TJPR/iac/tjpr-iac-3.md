@@ -1,9 +1,9 @@
 # TJPR · IAC 3
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `tjpr-iac-3`
+- **Identificador:** `tjpr-iac-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IAC&nr=3)
@@ -20,4 +20,4 @@ As vantagens financeiras reconhecidas com fundamento no direito à paridade aos 
 
 - [00036344320148160179](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0003634-43.2014.8.16.0179&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1020
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1020
-- **Identificador na fonte:** `stj-rr-1020`
+- **Identificador:** `stj-rr-1020`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1020)
@@ -21,4 +21,10 @@ Os servidores efetivados pelo Estado de Minas Gerais submetidos ao regime estatu
 - [60189805620158130024](https://processo.stj.jus.br/processo/pesquisa/?termo=201900976268&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [60523286520158130024](https://processo.stj.jus.br/processo/pesquisa/?termo=201900976256&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

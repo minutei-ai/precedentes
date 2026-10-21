@@ -1,9 +1,9 @@
 # TJPR · IRDR 38
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 38
-- **Identificador na fonte:** `tjpr-irdr-38`
+- **Identificador:** `tjpr-irdr-38`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 29/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=38)
@@ -23,4 +23,4 @@ respeito
 
 - [00057345420198160030](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0005734-54.2019.8.16.0030&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 837
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 837
-- **Identificador na fonte:** `stf-adi-837`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-837`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/02/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=837)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu medida cautelar, para suspender a efi
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-007707 ANO-1988 ART-00004 PAR-ÚNICO LEG-FED LEI-007719 ANO-1989 ART-00004 PAR-ÚNICO LEG-FED LEI-007727 ANO-1989 ART-00010 PAR-ÚNICO LEG-FED LEI-007746 ANO-1989 ART-00017 PAR-ÚNICO LEG-FED LEI-008112 ANO-1990 ART-00008 INC-00003 ART-00010 PAR-ÚNICO ART-00013 PAR-00004 ART-00017 ART-00033 INC-00004 RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS LEG-FED ARG-000001 ANO-1992 ART-00003 ART-00015 ART-00016 ART-00017 PAR-ÚNICO ART-00018 ART-00019 ART-00020 TRF LEG-FED RES-000014 ANO-1992 ART-00002 INC-00002 LET-A
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

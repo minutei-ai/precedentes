@@ -1,9 +1,9 @@
 # TRT22 · NT 6
 
-- **Tribunal:** TRT22
+- **Órgão:** TRT22
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `trt22-nt-6`
+- **Identificador:** `trt22-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 19/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt22&tipo=NT&nr=6)
@@ -24,4 +24,4 @@ Uma das atribuições dos Centros de Inteligência é prevenir demandas, por mei
 
 - [Link Nota Técnica](https://drive.google.com/file/d/1ATnbWbLTeWbJnxVFMMysA4O32f_eT2Na/view?usp=drive_link)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT22/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

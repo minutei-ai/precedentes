@@ -1,9 +1,9 @@
 # TRT04 · OJ 21
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 21
-- **Identificador na fonte:** `trt04-oj-21`
+- **Identificador:** `trt04-oj-21`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=21)
@@ -18,4 +18,4 @@ PARCELA INTEGRANTE DA CONDENAÇÃO. BASE DE CÁLCULO MODIFICADA POR DECISÃO JUD
 - [01632001919985040811](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/Gy3c6xAFaC1DZbpf_WHwfg)
 - [00612000419995040811](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/9lzdmeDAvqbA1pnkpe_oaQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

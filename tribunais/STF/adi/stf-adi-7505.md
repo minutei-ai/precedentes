@@ -1,10 +1,10 @@
 # STF · ADI 7505
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 7505
-- **Identificador na fonte:** `stf-adi-7505`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-7505`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7505)
 
@@ -22,4 +22,4 @@ LEG-FED EMC-000104 ANO-2019 ART-00004 EMENDA CONSTITUCIONAL LEG-FED LEI-009868 A
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=798469291)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

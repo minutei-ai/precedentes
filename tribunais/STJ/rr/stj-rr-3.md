@@ -1,9 +1,9 @@
 # STJ · RR 3
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 3
-- **Identificador na fonte:** `stj-rr-3`
+- **Identificador:** `stj-rr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=3)
@@ -21,4 +21,10 @@ A imposição ao Estado do Rio Grande do Sul da conversão das retribuições ao
 - [00051752420078217000](https://processo.stj.jus.br/processo/pesquisa/?termo=200701661622&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [15087313920068210001](https://processo.stj.jus.br/processo/pesquisa/?termo=200800798283&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

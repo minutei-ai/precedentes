@@ -1,9 +1,9 @@
 # TRF03 · IRDR 16
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `trf03-irdr-16`
+- **Identificador:** `trf03-irdr-16`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 07/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=16)
@@ -16,4 +16,4 @@ Incabível a rediscussão do que foi decidido pelo Juízo de Direito, competente
 
 - 50018804720234039301
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

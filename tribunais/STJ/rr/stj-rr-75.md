@@ -1,9 +1,9 @@
 # STJ · RR 75
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 75
-- **Identificador na fonte:** `stj-rr-75`
+- **Identificador:** `stj-rr-75`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=75)
@@ -22,4 +22,10 @@ Considerando que a taxa SELIC, em sua essência, já compreende juros de mora e 
 - [00144950420044047100](https://processo.stj.jus.br/processo/pesquisa/?termo=200800305592&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50046283720254047108](https://processo.stj.jus.br/processo/pesquisa/?termo=200702632725&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

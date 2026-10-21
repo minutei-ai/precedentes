@@ -1,9 +1,9 @@
 # TRT21 · NT 7
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `trt21-nt-7`
+- **Identificador:** `trt21-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 29/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=NT&nr=7)
@@ -20,4 +20,4 @@ Nota Técnica recomendando a celebração de novos Acordos de Cooperação pelo 
 
 - [Link Nota Técnica](https://www.trt21.jus.br/sites/default/files/jurisprudencia/centro_inteligencia/NOTA_TECNICA_7.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT24 · NT 9
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `trt24-nt-9`
+- **Identificador:** `trt24-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/06/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=9)
@@ -49,4 +49,4 @@ CEJUSC/NUPEMEC pelos meios alternativos de solução de conflitos.
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N%C2%BA+09.2022.pdf/37cca02a-b0ec-4ed3-a548-5fd5b3fa124e?t=1660839153896)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

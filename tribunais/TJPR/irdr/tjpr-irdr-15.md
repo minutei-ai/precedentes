@@ -1,9 +1,9 @@
 # TJPR · IRDR 15
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjpr-irdr-15`
+- **Identificador:** `tjpr-irdr-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 25/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=15)
@@ -16,4 +16,4 @@ a) o prazo de validade a ser considerado para constatar a eficácia dos coletes 
 
 - [00019202620188160044](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0001920-26.2018.8.16.0044&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

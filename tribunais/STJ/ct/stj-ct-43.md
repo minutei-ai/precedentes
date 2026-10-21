@@ -1,9 +1,9 @@
 # STJ · CT 43
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 43
-- **Identificador na fonte:** `stj-ct-43`
+- **Identificador:** `stj-ct-43`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=43)
@@ -18,4 +18,14 @@ Alcance da aplicação da tese firmada no TEMA n. 118/STJ
 - [00270327620094036100](https://processo.stj.jus.br/processo/pesquisa/?termo=201703263575&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00183916119934036100](https://processo.stj.jus.br/processo/pesquisa/?termo=201703263514&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Alcance da aplicação da tese firmada no TEMA n. 118/STJ
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPI · NT 9
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `tjpi-nt-9`
+- **Identificador:** `tjpi-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 11/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=NT&nr=9)
@@ -64,4 +64,4 @@ Assim, a jurisdição é o poder de julgar e executar, que todo órgão judicial
 
 - [Link Nota Técnica](https://www.tjpi.jus.br/portaltjpi/nugep/cijepi/notas-tecnicas/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

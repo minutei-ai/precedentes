@@ -1,9 +1,9 @@
 # TST · IRR 160
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 160
-- **Identificador na fonte:** `tst-irr-160`
+- **Identificador:** `tst-irr-160`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=160)
@@ -20,4 +20,4 @@ Aplica-se o percentual de 16,67% (dezesseis vírgula sessenta e sete por cento) 
 
 - [00002792220235050161](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000279-22.2023.5.05.0161/3#40a3284)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

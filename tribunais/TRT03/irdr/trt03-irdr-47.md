@@ -1,9 +1,9 @@
 # TRT03 · IRDR 47
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 47
-- **Identificador na fonte:** `trt03-irdr-47`
+- **Identificador:** `trt03-irdr-47`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 20/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=47)
@@ -16,4 +16,4 @@ BANCO SANTANDER. POLÍTICA DE GRADES. INEXISTÊNCIA DE PLANO DE CARGOS E SALÁRI
 
 - [00116988620265030000](http://https://pje.trt3.jus.br/consultaprocessual/captcha/detalhe-processo/0011698-86.2026.5.03.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

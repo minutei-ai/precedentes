@@ -1,9 +1,9 @@
 # TRT24 · NT 18
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 18
-- **Identificador na fonte:** `trt24-nt-18`
+- **Identificador:** `trt24-nt-18`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 03/05/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=18)
@@ -51,4 +51,4 @@ propósito da
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+18.2023.pdf/c8e0fb92-0be8-ce9b-da2e-9aa2088c9c7b?t=1683545612870)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

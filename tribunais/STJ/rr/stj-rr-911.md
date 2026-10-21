@@ -1,9 +1,9 @@
 # STJ · RR 911
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 911
-- **Identificador na fonte:** `stj-rr-911`
+- **Identificador:** `stj-rr-911`
 - **Situação na fonte:** Sobrestado (outro motivo)
 - **Atualização informada pela fonte:** 23/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=911)
@@ -20,4 +20,10 @@ A Lei n. 11.738/2008, em seu art. 2º, § 1º, ordena que o vencimento inicial d
 
 - [04400677820138217000](https://processo.stj.jus.br/processo/pesquisa/?termo=201304167976&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Sobrestado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

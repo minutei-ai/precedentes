@@ -1,9 +1,9 @@
 # TRT10 · NT 1
 
-- **Tribunal:** TRT10
+- **Órgão:** TRT10
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `trt10-nt-1`
+- **Identificador:** `trt10-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt10&tipo=NT&nr=1)
@@ -63,4 +63,4 @@ ALEXANDRE NERY
 
 - [Link Nota Técnica](https://www.trt10.jus.br/docsweb/institucional/composicao/atas_reunioes/Nota_Tecnica_CI_n_001.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT10/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

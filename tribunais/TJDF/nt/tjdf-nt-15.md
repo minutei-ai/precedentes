@@ -1,9 +1,9 @@
 # TJDF · NT 15
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Nota Técnica
 - **Número:** 15
-- **Identificador na fonte:** `tjdf-nt-15`
+- **Identificador:** `tjdf-nt-15`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=NT&nr=15)
@@ -53,4 +53,4 @@ A análise do fracionamento abusivo não pode limitar-se a soluções pontuais, 
 
 - [Link Nota Técnica](https://www.tjdft.jus.br/consultas/notas-tecnicas/nota-tecnica-cijdf-15-2025-fracionamento-abusivo-de-demandas-publicada-em-26-2-2025.pdf/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

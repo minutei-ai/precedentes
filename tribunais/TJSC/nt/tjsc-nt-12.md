@@ -1,9 +1,9 @@
 # TJSC · NT 12
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `tjsc-nt-12`
+- **Identificador:** `tjsc-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=12)
@@ -39,4 +39,4 @@ indícios de litigância abusiva, nos moldes da Recomendação CNJ n. 159/2024.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/CIJESC-NotaT%C3%A9cnica12-2025.pdf/a34892c8-13fa-12d0-add6-7b5d3cd4dc3a?t=1753473015569)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 24
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 24
-- **Identificador na fonte:** `tst-irr-24`
+- **Identificador:** `tst-irr-24`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=24)
@@ -20,4 +20,4 @@ Não compete à Justiça do Trabalho processar e julgar pedido de indenização 
 
 - [10006480620205020252](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=1000648&digitoTst=06&anoTst=2020&orgaoTst=5&tribunalTst=02&varaTst=0252&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

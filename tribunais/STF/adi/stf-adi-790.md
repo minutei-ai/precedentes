@@ -1,10 +1,10 @@
 # STF · ADI 790
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 790
-- **Identificador na fonte:** `stf-adi-790`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-790`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/02/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=790)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente, em parte, a ação, para d
 
 LEG-FED CF ANO-1988 ART-00037 INC-00011 INC-00012 INC-00015 ART-00146 INC-00003 LET-A ART-00148 ART-00149 ART-00150 INC-00002 INC-00003 LET-B ART-00153 PAR-00002 LET-I ART-00154 INC-00001 ART-00156 ART-00003 ART-00159 INC-00001 LET-C ART-00194 ART-00195 PAR-00005 PAR-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00034 CF-1988. LEG-FED LEI-008112 ANO-1990 ART-00231 PAR-00001 PAR-00002 RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS LEG-FED LEI-008162 ANO-1991 ART-00009 INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

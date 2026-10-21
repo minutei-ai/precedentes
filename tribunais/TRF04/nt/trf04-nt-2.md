@@ -1,9 +1,9 @@
 # TRF04 · NT 2
 
-- **Tribunal:** TRF04
+- **Órgão:** TRF04
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `trf04-nt-2`
+- **Identificador:** `trf04-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 23/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf04&tipo=NT&nr=2)
@@ -28,4 +28,4 @@ Diante desse histórico e especialmente com o julgamento do Tema 1.184 do STF, q
 
 - [Link Nota Técnica](https://www.trf4.jus.br/trf4/upload/editor/2025/jbc12_sei_7748006_nota_tecnica.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

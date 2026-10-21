@@ -1,10 +1,10 @@
 # STF · ADC 16
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Declaratória de Constitucionalidade
 - **Número:** 16
-- **Identificador na fonte:** `stf-adc-16`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adc-16`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/11/2010
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADC&nr=16)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00037 "CAPUT" INC-00021 PAR-00006 ART-0103A PAR-00003 PA
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=627165)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

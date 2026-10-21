@@ -1,9 +1,9 @@
 # TRT04 · SUM 83
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 83
-- **Identificador na fonte:** `trt04-sum-83`
+- **Identificador:** `trt04-sum-83`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=83)
@@ -22,4 +22,4 @@ EMPRESA WALMART BRASIL. REUNIÕES MOTIVACIONAIS. DANO MORAL. O empregado da empr
 - [00005968320145040251](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/yzUdhrfw6H94pjsN0omQ9g)
 - [00012261420135040304](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/SYfXjjNH_FmjT2fhbgf7Sw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

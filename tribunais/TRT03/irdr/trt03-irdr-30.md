@@ -1,9 +1,9 @@
 # TRT03 · IRDR 30
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 30
-- **Identificador na fonte:** `trt03-irdr-30`
+- **Identificador:** `trt03-irdr-30`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 21/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=30)
@@ -20,4 +20,4 @@
 
 - [00159129120245030000](https://pje.trt3.jus.br/consultaprocessual/detalhe-processo/0015912-91.2024.5.03.0000/2#4137eeb)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

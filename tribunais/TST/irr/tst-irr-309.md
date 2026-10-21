@@ -1,9 +1,9 @@
 # TST · IRR 309
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 309
-- **Identificador na fonte:** `tst-irr-309`
+- **Identificador:** `tst-irr-309`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=309)
@@ -20,4 +20,4 @@ As progressões por antiguidade de empregado da ECT originadas de PCCS são comp
 
 - [00202869120235040022](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00202869120235040022)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

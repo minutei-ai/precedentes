@@ -1,9 +1,9 @@
 # TRT09 · NT 13
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `trt09-nt-13`
+- **Identificador:** `trt09-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=13)
@@ -22,4 +22,4 @@ descumpridos a fim de estabelecer a coerência da jurisprudência dominante no �
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8822812)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

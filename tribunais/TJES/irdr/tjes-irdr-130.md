@@ -1,9 +1,9 @@
 # TJES · IRDR 130
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 130
-- **Identificador na fonte:** `tjes-irdr-130`
+- **Identificador:** `tjes-irdr-130`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 04/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=130)
@@ -18,4 +18,4 @@ O ajuizamento de execução coletiva, o fracionamento do feito ou a pendência d
 - [50137129020268080024](https://pje.tjes.jus.br/pje2g/ConsultaPublica/listView.seam?numProcesso-inputNumeroProcesso=50137129020268080024)
 - [50405856420258080024](https://pje.tjes.jus.br/pje2g/ConsultaPublica/listView.seam?numProcesso-inputNumeroProcesso=50405856420258080024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

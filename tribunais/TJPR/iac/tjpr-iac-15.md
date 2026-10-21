@@ -1,9 +1,9 @@
 # TJPR · IAC 15
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 15
-- **Identificador na fonte:** `tjpr-iac-15`
+- **Identificador:** `tjpr-iac-15`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 27/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IAC&nr=15)
@@ -16,4 +16,4 @@ i) constitucionalidade da atual sistemática de cálculo do chamado coeficiente 
 
 - [00111863820198160000](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0011186-38.2019.8.16.0000&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

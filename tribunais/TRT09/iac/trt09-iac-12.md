@@ -1,9 +1,9 @@
 # TRT09 · IAC 12
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 12
-- **Identificador na fonte:** `trt09-iac-12`
+- **Identificador:** `trt09-iac-12`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 21/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=12)
@@ -21,4 +21,4 @@ Convertido em IRDR - DIFERENÇAS SALARIAIS. PCCS. PISO SALARIAL REGIONAL. URBS U
 
 - [00013548820205090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001354-88.2020.5.09.0000/2#586d69b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

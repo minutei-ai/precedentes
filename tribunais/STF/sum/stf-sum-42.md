@@ -1,9 +1,9 @@
 # STF · SUM 42
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Súmula
 - **Número:** 42
-- **Identificador na fonte:** `stf-sum-42`
+- **Identificador:** `stf-sum-42`
 - **Situação na fonte:** APROVADO
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SUM&nr=42)
@@ -12,4 +12,4 @@
 
 É legítima a equiparação de juízes do Tribunal de Contas, em direitos e garantias, aos membros do Poder Judiciário.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

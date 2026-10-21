@@ -1,10 +1,10 @@
 # STF · ADC 1
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Declaratória de Constitucionalidade
 - **Número:** 1
-- **Identificador na fonte:** `stf-adc-1`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adc-1`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/12/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADC&nr=1)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal conheceu em parte da ação e, nessa parte, j
 
 LEG-FED CF ANO-1988 ART-00102 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL REDAÇÃO DA EMC-3/93. LEG-FED CF ANO-1988 ART-00145 ART-00146 INC-00003 ART-00148 ART-00149 ART-00150 INC-00001 INC-00003 LET-B ART-00154 INC-00001 ART-00194 INC-00001 ART-00195 INC-00001 PAR-00004 PAR-00006 ART-00239 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00056 LEG-FED LEI-005172 ANO-1966 ART-00004 INC-00002 CTN-1966 CÓDIGO TRIBUTÁRIO NACIONAL LEG-FED LCP-000070 ANO-1991 ART-00001 ART-00002 ART-00010 CONSTITUCIONALIDADE. LEG-FED LCP-000070 ANO-1991 ART-00009 ART-00013 CONSTITUCIONALIDADE PARCIAL. LEG-FED LCP-000070 ANO-1991 ART-00011 ART-00012 ART-00014
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

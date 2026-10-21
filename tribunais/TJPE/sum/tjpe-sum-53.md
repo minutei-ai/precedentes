@@ -1,9 +1,9 @@
 # TJPE · SUM 53
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 53
-- **Identificador na fonte:** `tjpe-sum-53`
+- **Identificador:** `tjpe-sum-53`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=53)
@@ -19,4 +19,4 @@
 - [00057416620068170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00057416620068170000)
 - [00066423420068170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00066423420068170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

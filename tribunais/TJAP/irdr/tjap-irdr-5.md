@@ -1,9 +1,9 @@
 # TJAP · IRDR 5
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjap-irdr-5`
+- **Identificador:** `tjap-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 19/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IRDR&nr=5)
@@ -16,4 +16,4 @@ Se o surgimento de novas vagas ou abertura de novo concurso para o mesmo cargo, 
 
 - 00012748220168030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

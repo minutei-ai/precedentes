@@ -1,9 +1,9 @@
 # TJSC · NT 10
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `tjsc-nt-10`
+- **Identificador:** `tjsc-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=10)
@@ -42,4 +42,4 @@ em sendo o caso, observando-se o princípio da não surpresa (CPC, art. 10).
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/CIJESC-NotaTe%CC%81cnica10-2025.pdf/8db21644-480a-5d10-1722-d1d421b244f0?t=1749245292689)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

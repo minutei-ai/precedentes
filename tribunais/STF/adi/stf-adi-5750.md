@@ -1,10 +1,10 @@
 # STF · ADI 5750
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5750
-- **Identificador na fonte:** `stf-adi-5750`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5750`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/09/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5750)
 
@@ -22,4 +22,4 @@ LEG-FED LCP-000234 ANO-2002 ART-00127 ART-00128 ART-00125 LEI COMPLEMENTAR
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754018747)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

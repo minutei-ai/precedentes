@@ -1,9 +1,9 @@
 # TJRJ · IRDR 58
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 58
-- **Identificador na fonte:** `tjrj-irdr-58`
+- **Identificador:** `tjrj-irdr-58`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=58)
@@ -16,4 +16,4 @@ Definir se a concessionária de serviço público de distribuição de energia e
 
 - [00250753120268190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2026.291.00012)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

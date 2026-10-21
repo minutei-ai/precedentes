@@ -1,9 +1,9 @@
 # TJPE · IAC 1
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjpe-iac-1`
+- **Identificador:** `tjpe-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 14/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IAC&nr=1)
@@ -21,4 +21,4 @@ Verificado que o julgamento do primeiro recurso transitou em julgado antes da vi
 - [00002932920178170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00002932920178170000)
 - [00067761220168170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00067761220168170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

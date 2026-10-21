@@ -1,9 +1,9 @@
 # TRT03 · IRDR 46
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 46
-- **Identificador na fonte:** `trt03-irdr-46`
+- **Identificador:** `trt03-irdr-46`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=46)
@@ -20,4 +20,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR). TEMA N. 46. HONORÁRIOS
 
 - [00117152520265030000](http://https://pje.trt3.jus.br/consultaprocessual/captcha/detalhe-processo/0011715-25.2026.5.03.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

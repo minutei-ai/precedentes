@@ -1,9 +1,9 @@
 # TRF03 · IAC 3
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `trf03-iac-3`
+- **Identificador:** `trf03-iac-3`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 11/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IAC&nr=3)
@@ -16,4 +16,4 @@ Divergência de entendimento entre turmas integrantes da Terceira Seção do TRF
 
 - 50310004420194030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

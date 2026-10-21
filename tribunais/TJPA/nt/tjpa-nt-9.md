@@ -1,9 +1,9 @@
 # TJPA · NT 9
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `tjpa-nt-9`
+- **Identificador:** `tjpa-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 19/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=9)
@@ -20,4 +20,4 @@ A referida nota técnica aborda difundir critérios técnicos e objetivos à lei
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=1661639)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

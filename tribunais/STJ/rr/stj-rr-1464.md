@@ -1,9 +1,9 @@
 # STJ · RR 1464
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1464
-- **Identificador na fonte:** `stj-rr-1464`
+- **Identificador:** `stj-rr-1464`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 04/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1464)
@@ -17,4 +17,6 @@ Definir o percentual e a respectiva base de cálculo dos valores que o vendedor 
 - [08116275720218100040](https://processo.stj.jus.br/processo/pesquisa/?termo=202600274500&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08133597320218100040](https://processo.stj.jus.br/processo/pesquisa/?termo=202600274043&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

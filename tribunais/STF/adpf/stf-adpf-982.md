@@ -1,10 +1,10 @@
 # STF · ADPF 982
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 982
-- **Identificador na fonte:** `stf-adpf-982`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-982`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=982)
 
@@ -26,4 +26,4 @@ LEG-FED CF ANO-1988 ART-00031 PAR-00001 PAR-00002 ART-00037 "CAPUT" ART-00071 IN
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=785006350)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

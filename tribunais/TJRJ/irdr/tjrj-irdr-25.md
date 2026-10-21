@@ -1,9 +1,9 @@
 # TJRJ · IRDR 25
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `tjrj-irdr-25`
+- **Identificador:** `tjrj-irdr-25`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=25)
@@ -20,4 +20,4 @@ Tem o Estado legitimidade para a execução dos honorários advocatícios de suc
 
 - [00649591420198190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2019.291.00078)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · OJ 35
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 35
-- **Identificador na fonte:** `trt04-oj-35`
+- **Identificador:** `trt04-oj-35`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=35)
@@ -19,4 +19,4 @@ PENHORA DE VALORES EM CONTA BANCÁRIA DE MOVIMENTAÇÃO CONJUNTA. POSSIBILIDADE.
 - [00007705920115040005](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/38RgJnkondST4F8YgLCtHw)
 - [00006440320115040104](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/lydAdf3zuORY9dBIno2r_Q)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

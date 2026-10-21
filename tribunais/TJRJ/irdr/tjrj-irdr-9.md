@@ -1,9 +1,9 @@
 # TJRJ · IRDR 9
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjrj-irdr-9`
+- **Identificador:** `tjrj-irdr-9`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=9)
@@ -21,4 +21,4 @@ II) o reajuste será feito pelos índices gerais aplicados aos vencimentos dos p
 
 - [00266312020168190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2016.291.00036)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRS · IRDR 10
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjrs-irdr-10`
+- **Identificador:** `tjrs-irdr-10`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=10)
@@ -16,4 +16,4 @@ Discussão acerca da competência para a execução individual de sentenças pro
 
 NÃO FOI FIXADA TESE. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS JULGADO EXTINTO, SEM RESOLUÇÃO DO MÉRITO, POR PERDA SUPERVENIENTE DO OBJETO.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

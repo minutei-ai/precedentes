@@ -1,9 +1,9 @@
 # STF · RG 1022
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1022
-- **Identificador na fonte:** `stf-rg-1022`
+- **Identificador:** `stf-rg-1022`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1022)
@@ -20,4 +20,4 @@ As empresas públicas e as sociedades de economia mista, sejam elas prestadoras 
 
 - [688267](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4245763)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

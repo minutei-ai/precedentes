@@ -1,9 +1,9 @@
 # TRT22 · NT 12
 
-- **Tribunal:** TRT22
+- **Órgão:** TRT22
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `trt22-nt-12`
+- **Identificador:** `trt22-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt22&tipo=NT&nr=12)
@@ -28,4 +28,4 @@ A sugestão será encaminhada à Comissão de Regimento Interno para análise e 
 
 - [Link Nota Técnica](https://drive.google.com/file/d/1Z7YIpmWdPsf2rEZJwNuuphdHMG6brLgi/view?usp=drive_link)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT22/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1329
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1329
-- **Identificador na fonte:** `stj-rr-1329`
+- **Identificador:** `stj-rr-1329`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 30/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1329)
@@ -21,4 +21,6 @@ No âmbito do procedimento administrativo para apuração das infrações ao mei
 - [50008645620194047204](https://processo.stj.jus.br/processo/pesquisa/?termo=202402374928&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50060904220194047204](https://processo.stj.jus.br/processo/pesquisa/?termo=202402352636&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT24 · NT 10
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `trt24-nt-10`
+- **Identificador:** `trt24-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 06/07/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=10)
@@ -74,4 +74,4 @@ uniformização de entendimentos divergentes da
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N%C2%BA+10.2022.pdf/12746741-9676-4c13-b784-6a3f9ce2dbb5?t=1660838248974)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

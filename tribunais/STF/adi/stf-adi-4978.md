@@ -1,10 +1,10 @@
 # STF · ADI 4978
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4978
-- **Identificador na fonte:** `stf-adi-4978`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4978`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/12/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4978)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00033 INC-00003 ART-00049 INC-00009 ART-00057 ART-00071 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755270656)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

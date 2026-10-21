@@ -1,9 +1,9 @@
 # TJPE · SUM 153
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 153
-- **Identificador na fonte:** `tjpe-sum-153`
+- **Identificador:** `tjpe-sum-153`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=153)
@@ -16,4 +16,4 @@ Em caso de demanda previdenciária, incidem juros moratórios, (i) até o dia 10
 
 - [00026510320138170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00026510320138170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

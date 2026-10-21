@@ -1,9 +1,9 @@
 # TRT12 · IRDR 32
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 32
-- **Identificador na fonte:** `trt12-irdr-32`
+- **Identificador:** `trt12-irdr-32`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 17/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=32)
@@ -20,4 +20,4 @@ TESE JURÍDICA N.º 27: "PAUSAS PSICOFISIOLÓGICAS PREVISTAS NA NORMA REGULAMENT
 
 - [00000367620265120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000904-57.2024.5.12.0054/2#d2519cd)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

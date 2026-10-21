@@ -1,10 +1,10 @@
 # STF · ADI 5464
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5464
-- **Identificador na fonte:** `stf-adi-5464`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5464`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 27/10/2017
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5464)
 
@@ -22,4 +22,4 @@ LEG-FED CNV-000093 ANO-2015 CLÁUSULA-9 CONVÊNIO ICMS DO CONSELHO NACIONAL DE P
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14069464)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRR · IAC 7
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 7
-- **Identificador na fonte:** `tjrr-iac-7`
+- **Identificador:** `tjrr-iac-7`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IAC&nr=7)
@@ -20,4 +20,4 @@ Cancelado
 
 - 90000695720238230000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

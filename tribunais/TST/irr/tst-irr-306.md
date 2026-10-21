@@ -1,9 +1,9 @@
 # TST · IRR 306
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 306
-- **Identificador na fonte:** `tst-irr-306`
+- **Identificador:** `tst-irr-306`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=306)
@@ -20,4 +20,4 @@ A partir da vigência da Lei nº 13.342/2016, o adicional de insalubridade do ag
 
 - [00102406120245150035](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0010240-61.2024.5.15.0035)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · IRDR 32
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 32
-- **Identificador na fonte:** `trf03-irdr-32`
+- **Identificador:** `trf03-irdr-32`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 05/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=32)
@@ -16,4 +16,4 @@ A atividade de intermediação lotérica, pela qual uma mandatária faz uma apos
 
 - 50273902420264030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

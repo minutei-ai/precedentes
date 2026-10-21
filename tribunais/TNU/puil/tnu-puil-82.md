@@ -1,9 +1,9 @@
 # TNU · PUIL 82
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 82
-- **Identificador na fonte:** `tnu-puil-82`
+- **Identificador:** `tnu-puil-82`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=82)
@@ -16,4 +16,4 @@ Saber se a impugnação referente a ato de progressão/promoção de servidor p�
 
 A progressão/promoção de servidor público constitui ato único de efeito concreto, sendo o prazo decadencial para sua impugnação de 05 (cinco) anos (Decreto n. 20.910/32, art. 1º), contados a partir de sua publicação.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

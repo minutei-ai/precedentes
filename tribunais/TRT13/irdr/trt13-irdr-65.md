@@ -1,9 +1,9 @@
 # TRT13 · IRDR 65
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 65
-- **Identificador na fonte:** `trt13-irdr-65`
+- **Identificador:** `trt13-irdr-65`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 03/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IRDR&nr=65)
@@ -20,4 +20,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. AUXÍLIO-ALIMENTAÇÃO FORNECI
 
 - [00000903020175130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000090-30.2017.5.13.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · SUM 52
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 52
-- **Identificador na fonte:** `trt04-sum-52`
+- **Identificador:** `trt04-sum-52`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=52)
@@ -22,4 +22,4 @@ JUROS DE MORA. BASE DE CÁLCULO. Os juros de mora incidem sobre o valor da conde
 - [00068004020025040001](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/ueia0ejIOy-nunoBFVuaiw)
 - [01114007720015040024](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/u3qFgKyV025mWyhQQM2BiA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

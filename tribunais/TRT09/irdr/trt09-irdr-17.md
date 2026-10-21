@@ -1,9 +1,9 @@
 # TRT09 · IRDR 17
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `trt09-irdr-17`
+- **Identificador:** `trt09-irdr-17`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=17)
@@ -21,4 +21,4 @@ Base de cálculo dos honorários de sucumbência devidos pela parte autora traba
 
 - [00045708620225090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0004570-86.2022.5.09.0000/2#d02013e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

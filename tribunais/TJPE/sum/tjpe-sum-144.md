@@ -1,9 +1,9 @@
 # TJPE · SUM 144
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 144
-- **Identificador na fonte:** `tjpe-sum-144`
+- **Identificador:** `tjpe-sum-144`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=144)
@@ -18,4 +18,4 @@ liberalidade, é dizer, a data da doação, e não o patrimônio estimado no mom
 - [00001944520128170320](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00001944520128170320)
 - [00003429020088171130](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00003429020088171130)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

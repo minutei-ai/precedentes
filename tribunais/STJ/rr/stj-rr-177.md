@@ -1,9 +1,9 @@
 # STJ · RR 177
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 177
-- **Identificador na fonte:** `stj-rr-177`
+- **Identificador:** `stj-rr-177`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 09/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=177)
@@ -21,4 +21,6 @@ A ação penal nos crimes de lesão corporal leve cometidos em detrimento da mul
 - [00091229420078070010](https://processo.stj.jus.br/processo/pesquisa/?termo=200802279706&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [02969377520163000000](https://processo.stj.jus.br/processo/pesquisa/?termo=201602969378&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

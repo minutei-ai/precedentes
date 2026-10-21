@@ -1,9 +1,9 @@
 # TRT05 · IRDR 21
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 21
-- **Identificador na fonte:** `trt05-irdr-21`
+- **Identificador:** `trt05-irdr-21`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 11/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IRDR&nr=21)
@@ -20,4 +20,4 @@ Execução. Medidas Coercitivas. Retenção da Carteira Nacional de Habilitaçã
 
 - [00004986220255050000](https://pje.trt5.jus.br/pjekz/validacao/25013013195858000000052430551?instancia=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

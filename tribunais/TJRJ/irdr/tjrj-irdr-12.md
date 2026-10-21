@@ -1,9 +1,9 @@
 # TJRJ · IRDR 12
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjrj-irdr-12`
+- **Identificador:** `tjrj-irdr-12`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=12)
@@ -20,4 +20,4 @@ DEVEM SER REUNIDOS, PARA JULGAMENTO CONJUNTO, NA FORMA DO ART. 55, § 3º, DO CP
 
 - [00626898520178190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2017.291.00052)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

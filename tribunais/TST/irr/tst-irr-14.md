@@ -1,9 +1,9 @@
 # TST · IRR 14
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 14
-- **Identificador na fonte:** `tst-irr-14`
+- **Identificador:** `tst-irr-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=14)
@@ -21,4 +21,4 @@ A redução eventual e ínfima do intervalo intrajornada, assim considerada aque
 - [00013846120125040512](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0001384&digitoTst=61&anoTst=2012&orgaoTst=5&tribunalTst=04&varaTst=0512&submit=Consultar)
 - [00013846120125504051](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=1384&digitoTst=61&anoTst=2012&orgaoTst=5&tribunalTst=04&varaTst=0512&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

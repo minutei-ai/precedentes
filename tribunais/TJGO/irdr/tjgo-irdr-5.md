@@ -1,9 +1,9 @@
 # TJGO · IRDR 5
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjgo-irdr-5`
+- **Identificador:** `tjgo-irdr-5`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 10/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=5)
@@ -21,4 +21,4 @@ IRDR Cancelado
 - 03930652820158090000
 - 52049041220168090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

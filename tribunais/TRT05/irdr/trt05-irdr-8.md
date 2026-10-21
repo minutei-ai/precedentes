@@ -1,9 +1,9 @@
 # TRT05 · IRDR 8
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `trt05-irdr-8`
+- **Identificador:** `trt05-irdr-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 31/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IRDR&nr=8)
@@ -20,4 +20,4 @@ RECUPERAÇÃO JUDICIAL. EXECUÇÃO. GARANTIA DO JUÍZO. I - A empresa em recuper
 
 - [00014345820235050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0001434-58.2023.5.05.0000/2#4203699)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

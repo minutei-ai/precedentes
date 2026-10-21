@@ -1,9 +1,9 @@
 # STF · RG 745
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 745
-- **Identificador na fonte:** `stf-rg-745`
+- **Identificador:** `stf-rg-745`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=745)
@@ -20,4 +20,4 @@ Adotada pelo legislador estadual a técnica da seletividade em relação ao Impo
 
 - [714139](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4307031)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

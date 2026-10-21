@@ -1,9 +1,9 @@
 # TJBA · NT 9
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `tjba-nt-9`
+- **Identificador:** `tjba-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 21/03/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=9)
@@ -41,4 +41,4 @@ causídicos, para que possam identificá-las e coibi-las.
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-pn009-2023/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

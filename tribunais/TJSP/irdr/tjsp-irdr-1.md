@@ -1,9 +1,9 @@
 # TJSP · IRDR 1
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjsp-irdr-1`
+- **Identificador:** `tjsp-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=1)
@@ -26,4 +26,4 @@ calculada com base no limite estatutário aprovado pela Resolução Bacen (CMN) 
 
 - [20596837520168260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=C6EB12FAE08BB3126ADB64D87776EAA2.cposg9?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=2059683-75.2016&foroNumeroUnificado=0000&dePesquisaNuUnificado=2059683-75.2016.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJGO · SUM 71
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 71
-- **Identificador na fonte:** `tjgo-sum-71`
+- **Identificador:** `tjgo-sum-71`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=71)
@@ -16,4 +16,4 @@ O piso salarial nacional dos professores deverá corresponder à remuneração g
 
 - 02788375220138090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

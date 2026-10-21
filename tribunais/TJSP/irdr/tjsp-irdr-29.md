@@ -1,9 +1,9 @@
 # TJSP · IRDR 29
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 29
-- **Identificador na fonte:** `tjsp-irdr-29`
+- **Identificador:** `tjsp-irdr-29`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=29)
@@ -25,4 +25,4 @@ O valor correspondente aos proventos ou à remuneração do instituidor da pens�
 
 - [00135726220198260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0013572-62.2019&foroNumeroUnificado=0000&dePesquisaNuUnificado=0013572-62.2019.8.26.0000&dePesquisa=&uuidCaptcha=&pbEnviar=Pesquisar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

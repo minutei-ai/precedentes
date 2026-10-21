@@ -1,9 +1,9 @@
 # STF · RG 911
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 911
-- **Identificador na fonte:** `stf-rg-911`
+- **Identificador:** `stf-rg-911`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=911)
@@ -20,4 +20,4 @@ A questão da exigibilidade de Imposto de Renda Pessoa Jurídica (IRPJ) e de Con
 
 - [957842](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4951608)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

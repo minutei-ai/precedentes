@@ -1,10 +1,10 @@
 # STF · ADI 3294
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3294
-- **Identificador na fonte:** `stf-adi-3294`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3294`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 22/03/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3294)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00005 "CAPUT" INC-00036 INC-00053 INC-00054 PAR-00001 PA
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755968437)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

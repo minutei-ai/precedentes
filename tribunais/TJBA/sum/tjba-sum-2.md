@@ -1,9 +1,9 @@
 # TJBA · SUM 2
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 2
-- **Identificador na fonte:** `tjba-sum-2`
+- **Identificador:** `tjba-sum-2`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=2)
@@ -18,4 +18,4 @@ sobre a sua prisão preventiva, submetendo a decisão à apreciação do Órgão
 - 00179469420013000000
 - 00109864019923000000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

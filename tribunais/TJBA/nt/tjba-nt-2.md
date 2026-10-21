@@ -1,9 +1,9 @@
 # TJBA · NT 2
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `tjba-nt-2`
+- **Identificador:** `tjba-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=2)
@@ -27,4 +27,4 @@ Assim, em reunião realizada no dia 10 de junho do presente ano, os integrantes 
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-n-02-2024/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT01 · IRDR 33
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 33
-- **Identificador na fonte:** `trt01-irdr-33`
+- **Identificador:** `trt01-irdr-33`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 23/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IRDR&nr=33)
@@ -17,4 +17,4 @@ A decretação da prescrição intercorrente na execução trabalhista, prevista
 - [01000161620175010065](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0100016-16.2017.5.01.0065/2#fb6bba4)
 - [01029572220265010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0102957-22.2026.5.01.0000/2#dd57f3f)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

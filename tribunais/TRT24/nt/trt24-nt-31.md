@@ -1,9 +1,9 @@
 # TRT24 · NT 31
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 31
-- **Identificador na fonte:** `trt24-nt-31`
+- **Identificador:** `trt24-nt-31`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=31)
@@ -49,4 +49,4 @@ A apropriação indevida do aparato judiciário por meio do ajuizamento massivo 
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/CI+NOTA+T%C3%89CNICA+N.+31_2025.pdf/251a5b50-5d87-7f19-6f38-72f1583c932a?t=1748375367095)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

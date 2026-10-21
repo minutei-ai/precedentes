@@ -1,9 +1,9 @@
 # TRT04 · SUM 108
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 108
-- **Identificador na fonte:** `trt04-sum-108`
+- **Identificador:** `trt04-sum-108`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=108)
@@ -18,4 +18,4 @@ CAIXA ECONÔMICA FEDERAL. CARGOS COMISSIONADOS COM PREVISÃO DE OPÇÃO POR JORN
 - [00000945120115040025](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/v-xnr20cHK_BeJsPFuPhHw)
 - [00007586520105040721](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/yheDopLQ5cwUIV3IkApbdg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

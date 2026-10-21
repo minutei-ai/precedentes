@@ -1,9 +1,9 @@
 # TRT04 · OJ 86
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 86
-- **Identificador na fonte:** `trt04-oj-86`
+- **Identificador:** `trt04-oj-86`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=86)
@@ -25,4 +25,4 @@ PENSIONAMENTO. REMUNERAÇÃO. REAJUSTES. Definida a base de cálculo do pensiona
 - [00004154020115040202](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/ulYotrXEGJZY6x7OUJFkOw)
 - [00552002320095040201](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/P4zeivgKBB8bEZf2N7w0yg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

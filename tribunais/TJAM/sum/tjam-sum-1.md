@@ -1,9 +1,9 @@
 # TJAM · SUM 1
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Súmula
 - **Número:** 1
-- **Identificador na fonte:** `tjam-sum-1`
+- **Identificador:** `tjam-sum-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 21/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=SUM&nr=1)
@@ -16,4 +16,4 @@ Incide a prescrição quinquenal preconizada no artigo 1º do Decreto n. 20.910/
 
 - [10089691920118040000](https://consultasaj.tjam.jus.br/cposgcr/show.do?processo.codigo=P0000546M0000&uuidCaptcha=&processo.foro=900)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 1296
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1296
-- **Identificador na fonte:** `stf-adi-1296`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1296`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/06/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1296)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu o pedido de medida liminar para suspe
 
 LEG-FED CF ANO-1988 ART-00002 ART-00049 INC-00005 ART-00068 PAR-00001 ART-00084 INC-00004 ART-00146 INC-00003 LET-A LET-B LET-C ART-00155 PAR-00002 INC-00012 LET-G CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00150 PAR-00006 CF-1988 CONSTITUIÇÃO FEDERAL REDAÇÃO DA EMC-3/93. LEG-FED ADCT ANO-1988 ART-00025 INC-00001 CF-1988. LEG-FED EMC-000003 ANO-1993 ART-00097 CF-1988. LEG-FED LEI-005172 ANO-1966 ART-00176 ART-00180 ART-00181 ART-00182 CTN-1966 CÓDIGO TRIBUTÁRIO NACIONAL LEG-EST LEI-011205 ANO-1995 ART-00001 PAR-ÚNICO (PE).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 3307
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3307
-- **Identificador na fonte:** `stf-adi-3307`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3307`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/02/2009
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3307)
 
@@ -20,4 +20,4 @@ Decisão: O Tribunal, por unanimidade e nos termos do voto da Relatora, julgou a
 
 LEG-FED CF ANO-1988 ART-00075 ART-00130 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00106 INC-00008 CONSTITUIÇÃO ESTADUAL LEG-EST LCP-000011 ANO-1991 ART-00068 ART-00080 ART-00081 ART-00082 REVOGADA PELA LCP-269/2007 LEI COMPLEMENTAR, MT LEG-EST LCP-000027 ANO-1993 ART-00016 PAR-00001 INC-00003 LEI COMPLEMENTAR, MT LEG-EST LCP-000269 ANO-2007 ART-00092 ART-00093 LEI ORGÂNICA DO TRIBUNAL DE CONTAS LEI COMPLEMENTAR, MT
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

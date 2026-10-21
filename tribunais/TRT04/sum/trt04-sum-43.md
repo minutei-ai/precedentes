@@ -1,9 +1,9 @@
 # TRT04 · SUM 43
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 43
-- **Identificador na fonte:** `trt04-sum-43`
+- **Identificador:** `trt04-sum-43`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=43)
@@ -25,4 +25,4 @@ CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO. Não incide a contribu
 - [00278001520055040382](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/QnLr991ZRJBqVY5vMd96hg)
 - [00405007620055040332](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/_RAsHyt81hKF_f8MZcL3eQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

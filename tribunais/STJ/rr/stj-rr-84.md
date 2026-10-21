@@ -1,9 +1,9 @@
 # STJ · RR 84
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 84
-- **Identificador na fonte:** `stj-rr-84`
+- **Identificador:** `stj-rr-84`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=84)
@@ -20,4 +20,10 @@ Tratando-se de fornecimento de medicamentos, cabe ao Juiz adotar medidas eficaze
 
 - [00469680620088217000](https://processo.stj.jus.br/processo/pesquisa/?termo=200801389284&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT15 · IRDR 28
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 28
-- **Identificador na fonte:** `trt15-irdr-28`
+- **Identificador:** `trt15-irdr-28`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 13/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=28)
@@ -20,4 +20,4 @@ JUSTIÇA GRATUITA. PROVA DE INSUFICIÊNCIA FINANCEIRA. DECLARAÇÃO FIRMADA POR 
 
 - [00076372820215150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0007637-28.2021.5.15.0000/2#2920055)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

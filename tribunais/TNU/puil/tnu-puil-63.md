@@ -1,9 +1,9 @@
 # TNU · PUIL 63
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 63
-- **Identificador na fonte:** `tnu-puil-63`
+- **Identificador:** `tnu-puil-63`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=63)
@@ -16,4 +16,4 @@ Saber se é necessário recolhimento de contribuições previdenciárias para o 
 
 O tempo de serviço rural posterior à Lei n. 8.213/91, para efeitos de carência, demanda o recolhimento de contribuições previdenciárias.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSP · IRDR 56
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 56
-- **Identificador na fonte:** `tjsp-irdr-56`
+- **Identificador:** `tjsp-irdr-56`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=56)
@@ -16,4 +16,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. CABIMENTO DE RECURSO .Incident
 
 - [00393522820248260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0039352-28.2024&foroNumeroUnificado=0000&dePesquisaNuUnificado=0039352-28.2024.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

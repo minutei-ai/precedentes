@@ -1,10 +1,10 @@
 # STF · ADI 861
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 861
-- **Identificador na fonte:** `stf-adi-861`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-861`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/07/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=861)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu, em parte, a medida cautelar, para su
 
 LEG-FED CF ANO-1988 ART-00024 INC-00006 PAR-00001 PAR-00002 ART-00178 INC-00004 ART-00225 PAR-00001 INC-00005 INC-00007 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-000064 ANO-1993 ART-00001 INC-00003 PAR-00001 PAR-00002 ART-00002 PAR-00001 PAR-00002 ART-00003 ART-00004 AP.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

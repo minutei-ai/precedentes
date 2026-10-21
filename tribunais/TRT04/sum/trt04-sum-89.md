@@ -1,9 +1,9 @@
 # TRT04 · SUM 89
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 89
-- **Identificador na fonte:** `trt04-sum-89`
+- **Identificador:** `trt04-sum-89`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=89)
@@ -19,4 +19,4 @@ CAIXA ECONÔMICA FEDERAL. VANTAGENS PESSOAIS. ALTERAÇÃO DA BASE DE CÁLCULO PR
 - [00002070220115040511](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/iJKfaG765LsRT3Hgh_ImJw)
 - [00008972820115040027](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/A45fjLQ4Fs7Wf90E1I6WNA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

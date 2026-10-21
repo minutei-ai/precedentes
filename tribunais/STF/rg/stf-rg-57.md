@@ -1,9 +1,9 @@
 # STF · RG 57
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 57
-- **Identificador na fonte:** `stf-rg-57`
+- **Identificador:** `stf-rg-57`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=57)
@@ -20,4 +20,4 @@ Possibilidade de servidor público militar transferido ingressar em universidade
 
 - [601580](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2691334)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

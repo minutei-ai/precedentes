@@ -1,9 +1,9 @@
 # TJGO · IRDR 47
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 47
-- **Identificador na fonte:** `tjgo-irdr-47`
+- **Identificador:** `tjgo-irdr-47`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 03/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=47)
@@ -16,4 +16,4 @@ Definir a metodologia de cálculo da Gratificação de Regência de Classe do ma
 
 - 50081066320258090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

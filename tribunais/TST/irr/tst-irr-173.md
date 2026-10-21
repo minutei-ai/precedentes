@@ -1,9 +1,9 @@
 # TST · IRR 173
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 173
-- **Identificador na fonte:** `tst-irr-173`
+- **Identificador:** `tst-irr-173`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=173)
@@ -20,4 +20,4 @@ A substituição do depósito recursal por seguro-garantia, nos termos do art. 8
 
 - [00106579420235030063](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0010657-94.2023.5.03.0063/3#3a4492e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

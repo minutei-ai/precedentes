@@ -1,9 +1,9 @@
 # TRT11 · IRDR 1
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trt11-irdr-1`
+- **Identificador:** `trt11-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=1)
@@ -21,4 +21,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS.AÇÃO DE EXECUÇÃO. PRESCRIÇ
 - [00006373320155110053](http://)
 - [00003194420175110000](https://pje.trt11.jus.br/consultaprocessual/pages/consultas/DetalhaProcesso.seam?p_num_pje=41323&p_grau_pje=2&popup=0&dt_autuacao=&cid=1422)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

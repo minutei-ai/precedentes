@@ -1,9 +1,9 @@
 # TJPR · IRDR 28
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 28
-- **Identificador na fonte:** `tjpr-irdr-28`
+- **Identificador:** `tjpr-irdr-28`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=28)
@@ -16,4 +16,4 @@ Se a divulgação dos prazos processuais pelo Sistema Projudi tem presuncão de 
 
 - [00030926920178160195](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0003092-69.2017.8.16.0195&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

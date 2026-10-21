@@ -1,9 +1,9 @@
 # TJRJ · IRDR 45
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 45
-- **Identificador na fonte:** `tjrj-irdr-45`
+- **Identificador:** `tjrj-irdr-45`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 19/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=45)
@@ -21,4 +21,4 @@ descontos a título de plano de saúde para o idoso e seus dependente"s; e TESE 
 
 - [00183482720248190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2024.291.00010)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

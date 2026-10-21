@@ -1,9 +1,9 @@
 # TJAP · NT 10
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `tjap-nt-10`
+- **Identificador:** `tjap-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=10)
@@ -31,4 +31,4 @@ caminho considerado mais eficaz e juridicamente seguro para solução das demand
 
 - [Link Nota Técnica](https://www.tjap.jus.br/portal/images/documentos/CEIJAP/NT_10_2025.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADPF 1066
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 1066
-- **Identificador na fonte:** `stf-adpf-1066`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-1066`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=1066)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00022 INC-00001 ART-00102 "CAPUT" INC-00001 LET-A ART-00
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=787072452)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT21 · IRDR 11
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `trt21-irdr-11`
+- **Identificador:** `trt21-irdr-11`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 26/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=IRDR&nr=11)
@@ -16,4 +16,4 @@ O juízo competente para a execução das ações individuais da sentença profe
 
 - [00010842120265210000](https://pje.trt21.jus.br/consultaprocessual/detalhe-processo/0001084-21.2026.5.21.0000/2#e4d4a81)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

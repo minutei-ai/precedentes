@@ -1,9 +1,9 @@
 # STJ · RR 449
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 449
-- **Identificador na fonte:** `stj-rr-449`
+- **Identificador:** `stj-rr-449`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/06/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=449)
@@ -20,4 +20,10 @@ A decadência do art. 26 do CDC não é aplicável à prestação de contas para
 
 - 00054593020068160170
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

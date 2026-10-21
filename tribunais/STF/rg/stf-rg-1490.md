@@ -1,9 +1,9 @@
 # STF · RG 1490
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1490
-- **Identificador na fonte:** `stf-rg-1490`
+- **Identificador:** `stf-rg-1490`
 - **Situação na fonte:** Repercussão geral em análise. Leading case: afetado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1490)
@@ -16,4 +16,4 @@ Concessão da Gratificação de Movimentação (GMOV) a servidores públicos res
 
 - [1620936](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7678663)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

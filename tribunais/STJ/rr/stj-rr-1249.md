@@ -1,9 +1,9 @@
 # STJ · RR 1249
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1249
-- **Identificador na fonte:** `stj-rr-1249`
+- **Identificador:** `stj-rr-1249`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1249)
@@ -29,4 +29,14 @@ IV - Não se submetem a prazo obrigatório de revisão periódica, mas devem ser
 - [50159265520228130024](https://processo.stj.jus.br/processo/pesquisa/?termo=202301583362&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50097141820228130024](https://processo.stj.jus.br/processo/pesquisa/?termo=202301583212&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+I - As medidas protetivas de urgência (MPUs) têm natureza jurídica de tutela inibitória e sua vigência não se subordina à existência (atual ou vindoura) de boletim de ocorrência, inquérito policial, processo cível ou criminal.II - A duração das MPUs vincula-se à persiste^ncia da situação de risco à mulher, razão pela qual devem ser fixadas por prazo temporalmente indeterminado;III - Eventual reconhecimento de causa de extinção de punibilidade, arquivamento do inquérito policial ou absolvição do acusado não origina, necessariamente, a extinção da medida protetiva de urgência, máxime pela possibilidade de persistência da situação de risco ensejadora da concessão da medida.IV - Não se submetem a prazo obrigatório de revisão periódica, mas devem ser reavaliadas pelo magistrado, de ofício ou a pedido do interessado, quando constatado concretamente o esvaziamento da situação de risco. A revogação deve sempre ser precedida de contraditório, com as oitivas da vítima e do suposto agressor. Em caso de extinção da medida, a ofendida deve ser comunicada, nos termos do art. 21 da Lei n. 11.340/2006.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

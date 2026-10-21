@@ -1,9 +1,9 @@
 # TJMG · IRDR 15
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjmg-irdr-15`
+- **Identificador:** `tjmg-irdr-15`
 - **Situação na fonte:** ADMITIDO_POSSIVEL_REVISAO_TESE
 - **Atualização informada pela fonte:** 27/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ Tese a ser revisada: É absoluta a competência das Varas da Infância e da Juve
 
 - [03594798620158130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000150359479001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

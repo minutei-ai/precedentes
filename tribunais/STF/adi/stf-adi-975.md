@@ -1,10 +1,10 @@
 # STF · ADI 975
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 975
-- **Identificador na fonte:** `stf-adi-975`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-975`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/12/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=975)
 
@@ -20,4 +20,4 @@ Por unanimidade de votos, o Tribunal deferiu, em parte, a medida cautelar, para 
 
 LEG-FED CF ANO-1988 ART-00005 INC-00035 ART-00060 PAR-00004 INC-00003 INC-00004 ART-00062 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-003071 ANO-1916 LICC-1916 LEI DE INTRODUÇÃO AO CÓDIGO CIVIL LEG-FED LEI-005869 ANO-1973 ART-00798 ART-00804 ART-00811 ART-00816 INC-00002 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-001533 ANO-1951 ART-00007 INC-00002 LMS-1951 LEI DO MANDADO DE SEGURANÇA LEG-FED LEI-002770 ANO-1956 LEI ORDINÁRIA LEG-FED LEI-004348 ANO-1964 ART-00004 LEI ORDINÁRIA LEG-FED LEI-005021 ANO-1966 LEI ORDINÁRIA LEG-FED LEI-007347 ANO-1985 ART-00012 LEI DA AÇÃO CIVIL PÚBLICA LEI ORDINÁRIA LEG-FED LEI-008076 ANO-1990 LEI ORDINÁRIA LEG-FED LEI-008437 ANO-1992 LEI ORDINÁRIA LEG-FED MPR-000173 ANO-1990 MEDIDA PROVISÓRIA LEG-FED MPR-000198 ANO-1990 CONVERTIDA NA LEI-8076/1990 MEDIDA PROVISÓRIA LEG-FED MPR-000375 ANO-1993 ART-00001 ART-00002 ART-00003 ART-00004 ART-00005 INC-00001 INC-00002 INC-00003 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 PAR-00006 ART-00006 MEDIDA PROVISÓRIA
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

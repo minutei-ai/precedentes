@@ -1,9 +1,9 @@
 # TJMS · NT 3
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `tjms-nt-3`
+- **Identificador:** `tjms-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=3)
@@ -52,4 +52,4 @@ O artigo 163 do Código Tributário do Estado de Mato Grosso do Sul (Lei 1.810/1
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/16b33823d4aba6773d1a67115a55db3c.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

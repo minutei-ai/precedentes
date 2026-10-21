@@ -1,9 +1,9 @@
 # TJPR · SUM 61
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 61
-- **Identificador na fonte:** `tjpr-sum-61`
+- **Identificador:** `tjpr-sum-61`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=61)
@@ -16,4 +16,4 @@ residuais. Entretanto, se houver discussão a respeito de título executivo extr
 dado em garantia daquela operação, a competência será das câmaras de título  
 executivo extrajudicial, ainda que cumulado com pedido de indenização͟.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

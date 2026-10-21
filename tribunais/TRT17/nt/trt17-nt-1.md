@@ -1,9 +1,9 @@
 # TRT17 · NT 1
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `trt17-nt-1`
+- **Identificador:** `trt17-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=NT&nr=1)
@@ -32,4 +32,4 @@ mesmo, aquelas que jamais se dispõem a tal;
 
 - [Link Nota Técnica](https://www.trt17.jus.br/documents/20117/830226/NOTA-TECNICA-001-2022-CRI---Remessa-de-processos-ao-CEJUSC.-Organizacao-Previa-das-Pautas_985418664.pdf/6ebb463a-6407-37f0-afaf-7a3f729e5e44?version=1.0&t=1734472181750)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

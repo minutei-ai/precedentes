@@ -1,9 +1,9 @@
 # STJ · CT 5
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 5
-- **Identificador na fonte:** `stj-ct-5`
+- **Identificador:** `stj-ct-5`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 24/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=5)
@@ -26,4 +26,14 @@ Aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7,
 - [50273185920164040000](https://processo.stj.jus.br/processo/pesquisa/?termo=201700185941&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50327549620164040000](https://processo.stj.jus.br/processo/pesquisa/?termo=201700107862&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7, do Novo CPC.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

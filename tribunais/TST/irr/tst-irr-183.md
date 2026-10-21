@@ -1,9 +1,9 @@
 # TST · IRR 183
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 183
-- **Identificador na fonte:** `tst-irr-183`
+- **Identificador:** `tst-irr-183`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=183)
@@ -20,4 +20,4 @@ O termo inicial do prazo prescricional à pretensão de reparação, por danos m
 
 - [00209437920225040406](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020943-79.2022.5.04.0406/3#59899b2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

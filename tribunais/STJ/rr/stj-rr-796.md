@@ -1,9 +1,9 @@
 # STJ · RR 796
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 796
-- **Identificador na fonte:** `stj-rr-796`
+- **Identificador:** `stj-rr-796`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=796)
@@ -17,4 +17,6 @@ Limitação à compensação tributária prevista no artigo 89, § 3º, da Lei 8
 - [00273618920084030000](https://processo.stj.jus.br/processo/pesquisa/?termo=200901304443&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00251981920074050000](https://processo.stj.jus.br/processo/pesquisa/?termo=201100182910&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

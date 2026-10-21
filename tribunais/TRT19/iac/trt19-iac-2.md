@@ -1,9 +1,9 @@
 # TRT19 · IAC 2
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `trt19-iac-2`
+- **Identificador:** `trt19-iac-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=2)
@@ -21,4 +21,4 @@ REQUISITOS MÍNIMOS PARA O DEFERIMENTO DE SUSPENSÃO DE CNH E DE OUTRAS MEDIDAS 
 - [00006277720255190000](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000627-77.2025.5.19.0000/2#f851d1e)
 - [00000361820255190000](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000036-18.2025.5.19.0000/2#83cb2cc)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 503
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 503
-- **Identificador na fonte:** `stf-adi-503`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-503`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=503)
 
@@ -20,4 +20,4 @@ Após o voto do Relator, não conhecendo da ação, pediu vista dos autos o Sr. 
 
 LEG-EST LEI-006720 ANO-1967 (ANEXO-1, ANEXO-3), (GO). LEG-EST LEI-009964 ANO-1986 ART-00009 (GO).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · IRDR 2
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `trt04-irdr-2`
+- **Identificador:** `trt04-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=2)
@@ -21,4 +21,4 @@ PROCERGS. PROMOÇÕES POR ANTIGUIDADE. EMPREGADOS ADMITIDOS A PARTIR DE 10.03.20
 - [00221005420165040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0022100-54.2016.5.04.0000/2#b210d54)
 - [00207941820155040022](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0020794-18.2015.5.04.0022/2#244f83e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 372
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 372
-- **Identificador na fonte:** `stj-rr-372`
+- **Identificador:** `stj-rr-372`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=372)
@@ -20,4 +20,10 @@ Os hospitais podem optar pelo SIMPLES, tendo em vista que eles não são prestad
 
 - [02622488820084040000](https://processo.stj.jus.br/processo/pesquisa/?termo=200901364168&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMG · NT 18
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 18
-- **Identificador na fonte:** `tjmg-nt-18`
+- **Identificador:** `tjmg-nt-18`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 28/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=18)
@@ -26,4 +26,4 @@ Recomenda-se, ainda, que as decisões judiciais observem os parâmetros fixados 
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC81FA9858714E01985C990DA30DFB)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

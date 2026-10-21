@@ -1,9 +1,9 @@
 # TRF01 · IRDR 24
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 24
-- **Identificador na fonte:** `trf01-irdr-24`
+- **Identificador:** `trf01-irdr-24`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 01/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=24)
@@ -16,4 +16,4 @@ Discute-se a competência para liquidação e cumprimento da sentença prolatada
 
 - 10118795520194010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

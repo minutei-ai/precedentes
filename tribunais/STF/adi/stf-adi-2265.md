@@ -1,10 +1,10 @@
 # STF · ADI 2265
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2265
-- **Identificador na fonte:** `stf-adi-2265`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2265`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/09/2000
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2265)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009504 ANO-1997 LEI ORDINÁRIA LEG-FED RES-020343 ANO-1998 RESOLUÇ�
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347506)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

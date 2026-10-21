@@ -1,9 +1,9 @@
 # TST · IRR 7
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 7
-- **Identificador na fonte:** `tst-irr-7`
+- **Identificador:** `tst-irr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=7)
@@ -20,4 +20,4 @@ Nos termos dos artigos 60, parágrafo único, e 141, II, da Lei nº 11.101/2005,
 
 - [00697002820085040008](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=69700&digitoTst=28&anoTst=2008&orgaoTst=5&tribunalTst=04&varaTst=0008&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

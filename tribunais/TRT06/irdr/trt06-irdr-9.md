@@ -1,9 +1,9 @@
 # TRT06 · IRDR 9
 
-- **Tribunal:** TRT06
+- **Órgão:** TRT06
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `trt06-irdr-9`
+- **Identificador:** `trt06-irdr-9`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 27/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt06&tipo=IRDR&nr=9)
@@ -20,4 +20,4 @@ a) Nas execuções trabalhistas movidas em desfavor de sociedade anônima deve s
 
 - [00010469420245060000](https://pje.trt6.jus.br/consultaprocessual/detalhe-processo/0001046-94.2024.5.06.0000/2#de3a91d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

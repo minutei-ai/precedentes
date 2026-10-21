@@ -1,9 +1,9 @@
 # STJ · CT 68
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 68
-- **Identificador na fonte:** `stj-ct-68`
+- **Identificador:** `stj-ct-68`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=68)
@@ -18,4 +18,14 @@ Termo inicial de incidência da correção monetária sobre créditos escriturai
 - [50012749420174047201](https://processo.stj.jus.br/processo/pesquisa/?termo=201802460469&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50017167820174047001](https://processo.stj.jus.br/processo/pesquisa/?termo=201802434650&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Termo inicial de incidência da correção monetária sobre créditos escriturais, se o marco é a data do protocolo administrativo ou é o fim do prazo de 360 dias previsto no art. 24 da Lei n. 11.457/2007.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

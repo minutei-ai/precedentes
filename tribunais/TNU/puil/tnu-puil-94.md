@@ -1,9 +1,9 @@
 # TNU · PUIL 94
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 94
-- **Identificador na fonte:** `tnu-puil-94`
+- **Identificador:** `tnu-puil-94`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=94)
@@ -16,4 +16,4 @@ Saber se o rito da Lei n. 10.259/2001 pode ser aplicado no âmbito dos juizados 
 
 É absoluta a incompetência do Juizado Especial Cível Estadual para o processamento e julgamento das causas previdenciárias, por expressa vedação legal à aplicação da Lei n. 10.259/2001 no âmbito do juízo estadual.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

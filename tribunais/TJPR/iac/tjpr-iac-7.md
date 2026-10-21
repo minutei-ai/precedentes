@@ -1,9 +1,9 @@
 # TJPR · IAC 7
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 7
-- **Identificador na fonte:** `tjpr-iac-7`
+- **Identificador:** `tjpr-iac-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IAC&nr=7)
@@ -20,4 +20,4 @@ Compete aos Juizados Especiais da Fazenda Pública processar e julgar as causas 
 
 - [00240455720178160000](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0024045-57.2017.8.16.0000&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

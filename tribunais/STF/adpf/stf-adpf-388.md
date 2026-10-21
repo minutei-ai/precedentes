@@ -1,10 +1,10 @@
 # STF · ADPF 388
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 388
-- **Identificador na fonte:** `stf-adpf-388`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-388`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/03/2016
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=388)
 
@@ -22,4 +22,4 @@ LEG-IMP DEC ANO-1822 DECRETO DO PRÍNCIPE REGENTE DE PEDRO DE BAGANÇA LEG-FED C
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=11338511)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

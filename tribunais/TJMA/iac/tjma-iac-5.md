@@ -1,9 +1,9 @@
 # TJMA · IAC 5
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `tjma-iac-5`
+- **Identificador:** `tjma-iac-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IAC&nr=5)
@@ -20,4 +20,4 @@ O juízo de retratação previsto no Art. 1.030, II do CPC deve ser necessariame
 
 - [08084418320208100000](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=174454&ca=95b93c98767414832575463971d39ded6b489d6c15255414083302d49e5e2847476c66145205b4c61f0894a78f5726c2&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

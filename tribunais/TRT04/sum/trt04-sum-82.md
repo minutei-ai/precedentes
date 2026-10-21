@@ -1,9 +1,9 @@
 # TRT04 · SUM 82
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 82
-- **Identificador na fonte:** `trt04-sum-82`
+- **Identificador:** `trt04-sum-82`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=82)
@@ -19,4 +19,4 @@ CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. RETENÇÃO INJUSTIFICADA PELO EMPREG
 - [00008130720135040205](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/fiFjdodQJ-H6kd0bWlMiUw)
 - [00012224420135040411](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/C2_DT_X_EKuaIWJv0fNOLQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

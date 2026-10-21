@@ -1,9 +1,9 @@
 # TJES · IRDR 105
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 105
-- **Identificador na fonte:** `tjes-irdr-105`
+- **Identificador:** `tjes-irdr-105`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=105)
@@ -23,4 +23,4 @@ Prescritibilidade ou não da pretensão que discuta o enquadramento de servidor 
 - [50123632420238080035](https://sistemas.tjes.jus.br/consultas-siep-back/pje/ConsultaPublica/listView.seam)
 - [00105461520208080035](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0010546-15.2020.8.08.0035)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

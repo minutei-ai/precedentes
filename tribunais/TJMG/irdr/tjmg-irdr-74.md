@@ -1,9 +1,9 @@
 # TJMG · IRDR 74
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 74
-- **Identificador na fonte:** `tjmg-irdr-74`
+- **Identificador:** `tjmg-irdr-74`
 - **Situação na fonte:** Sobrestado (outro motivo)
 - **Atualização informada pela fonte:** 04/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=74)
@@ -16,4 +16,4 @@ recurso em que se discute: analisar "se os servidores do Grupo de Atividades de 
 
 - [48786728320208130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000204878672001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

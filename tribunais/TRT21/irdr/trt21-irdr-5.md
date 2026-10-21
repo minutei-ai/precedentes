@@ -1,9 +1,9 @@
 # TRT21 · IRDR 5
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `trt21-irdr-5`
+- **Identificador:** `trt21-irdr-5`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=IRDR&nr=5)
@@ -16,4 +16,4 @@ O IRDR tem por objeto a unificação do entendimento jurisprudencial desta Corte
 
 - [00000186520245210003](https://pje.trt21.jus.br/consultaprocessual/detalhe-processo/0000018-65.2024.5.21.0003/1#88f1447)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

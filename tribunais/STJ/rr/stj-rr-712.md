@@ -1,9 +1,9 @@
 # STJ · RR 712
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 712
-- **Identificador na fonte:** `stj-rr-712`
+- **Identificador:** `stj-rr-712`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=712)
@@ -18,4 +18,6 @@ Discussão: índice aplicável à correção monetária das demonstrações fina
 - [00151734319984020000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900762084&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [03098104119944036102](https://processo.stj.jus.br/processo/pesquisa/?termo=201202311639&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

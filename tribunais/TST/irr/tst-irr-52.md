@@ -1,9 +1,9 @@
 # TST · IRR 52
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 52
-- **Identificador na fonte:** `tst-irr-52`
+- **Identificador:** `tst-irr-52`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=52)
@@ -20,4 +20,4 @@ Reconhecida em juízo a rescisão indireta do contrato de trabalho é devida a m
 
 - [00003679820235170008](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000367-98.2023.5.17.0008/3#f8bec10)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

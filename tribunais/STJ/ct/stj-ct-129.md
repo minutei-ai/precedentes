@@ -1,9 +1,9 @@
 # STJ · CT 129
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 129
-- **Identificador na fonte:** `stj-ct-129`
+- **Identificador:** `stj-ct-129`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 29/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=129)
@@ -19,4 +19,14 @@ Se o creditamento de ICMS incidente sobre a aquisição de produtos intermediár
 - 00454177820118240023
 - 00036253720128240015
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Se o creditamento de ICMS incidente sobre a aquisição de produtos intermediários empregados no processo produtivo, na vigência da Lei Complementar n. 87/96, depende ou não da comprovação de seu consumo imediato e integral, além da integração física ao produto.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

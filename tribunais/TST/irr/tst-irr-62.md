@@ -1,9 +1,9 @@
 # TST · IRR 62
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 62
-- **Identificador na fonte:** `tst-irr-62`
+- **Identificador:** `tst-irr-62`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=62)
@@ -20,4 +20,4 @@ A reversão da dispensa por justa causa baseada em alegação de ato de improbid
 
 - [00007617520235050611](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000761-75.2023.5.05.0611/3#2b751ee)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

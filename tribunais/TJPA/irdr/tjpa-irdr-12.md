@@ -1,9 +1,9 @@
 # TJPA · IRDR 12
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjpa-irdr-12`
+- **Identificador:** `tjpa-irdr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IRDR&nr=12)
@@ -20,4 +20,4 @@ A prisão cautelar decretada ou mantida, na sentença penal condenatória, pode 
 
 - [08160619620248140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08160619620248140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

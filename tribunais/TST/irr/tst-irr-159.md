@@ -1,9 +1,9 @@
 # TST · IRR 159
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 159
-- **Identificador na fonte:** `tst-irr-159`
+- **Identificador:** `tst-irr-159`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=159)
@@ -20,4 +20,4 @@ A exigência de garantia integral da dívida na fase de execução (art. 884 da 
 
 - [00002394920235100016](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000239-49.2023.5.10.0016/3#f08dc6a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

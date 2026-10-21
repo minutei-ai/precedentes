@@ -1,9 +1,9 @@
 # STF · RG 129
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 129
-- **Identificador na fonte:** `stf-rg-129`
+- **Identificador:** `stf-rg-129`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=129)
@@ -20,4 +20,4 @@ A existência de inquéritos policiais ou de ações penais sem trânsito em jul
 
 - [591054](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2631969)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

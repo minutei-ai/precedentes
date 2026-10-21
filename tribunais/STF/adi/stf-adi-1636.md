@@ -1,10 +1,10 @@
 # STF · ADI 1636
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1636
-- **Identificador na fonte:** `stf-adi-1636`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1636`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/08/1997
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1636)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-008213 ANO-1991 ART-00124 INC-00007 LEG-FED MPR-001473 ANO-1997 ART-
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347179)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

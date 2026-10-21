@@ -1,9 +1,9 @@
 # STF · RG 989
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 989
-- **Identificador na fonte:** `stf-rg-989`
+- **Identificador:** `stf-rg-989`
 - **Situação na fonte:** Há repercussão geral. Leading case: afetado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=989)
@@ -16,4 +16,4 @@ Discussão sobre a constitucionalidade do art. 233 do Código Penal (Praticar at
 
 - [1093553](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5311709)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPI · IRDR 7
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjpi-irdr-7`
+- **Identificador:** `tjpi-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=7)
@@ -20,4 +20,4 @@ Definir se o magistrado pode (ou não) declinar de ofício da competência nas a
 
 - 07503928520248180000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

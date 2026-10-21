@@ -1,9 +1,9 @@
 # TJSP · IAC 2
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tjsp-iac-2`
+- **Identificador:** `tjsp-iac-2`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 08/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IAC&nr=2)
@@ -16,4 +16,4 @@ ASSUNÇÃO DE COMPETÊNCIA. Presidente Epitácio. Ação ambiental. Fazenda Fab�
 
 - [00089356120118260481](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=E4034A7386E86E67AF1E1BB8EFBCEB02.cposg7?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0008935-61.2011&foroNumeroUnificado=0481&dePesquisaNuUnificado=0008935-61.2011.8.26.0481&dePesquisa=&uuidCaptcha=#?cdDocumento=72)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

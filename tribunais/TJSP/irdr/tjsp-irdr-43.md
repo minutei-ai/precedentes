@@ -1,9 +1,9 @@
 # TJSP · IRDR 43
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 43
-- **Identificador na fonte:** `tjsp-irdr-43`
+- **Identificador:** `tjsp-irdr-43`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=43)
@@ -20,4 +20,4 @@ Base de cálculo do ACET (Adicional de Condições Especiais de Trabalho). A bas
 
 - [20631075220218260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=2063107-52.2021&foroNumeroUnificado=0000&dePesquisaNuUnificado=2063107-52.2021.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_d42aca2d321544cdb6e23d0e22a4d859&g-recaptcha-response=03AGdBq26Klb1kmOZm9w6mCC6kkOUeu9OdKccOpMMo-aQESNcHfDdFUCNv6ogexq3MnclXLPqI-CvLqIxp7qch_rtO7wahxdrKlOGMfZ82DNK2KosD--2qexocSoz2N8iHHhAh_fSGFa9AOwSxYGa4QREoIy9zPbJp-EKfkcTuPjmmRZ2TaMVFVROI0bVIaGYe8jud9tfLM_R-5Tmtp0TlcYO6zwE4R2qqYF73BfKD_NSGFVVjor1NM8hojql6BPYK09Jga_vF_oA4bxl5FqV_askYTEuQiBtiqVykbVTcJRA60b_6b6UYVQe60ohVj-h1fHggyVvaeHLOqPQRHMmx-llnf68C86jj0nGdZ43xdM8DBgIvH3xHVRJpMjjfE6uZiTyvsCWEdyZGOcyLcTdrO2x4kL6JUMAAuV8m0jYIA__hLWQB9GERARZ2Ia-jlL8zZyTscqvhB7jK63xRBkY35k5uq5cpwGBJNQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

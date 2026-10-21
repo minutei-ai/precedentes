@@ -1,9 +1,9 @@
 # TRF03 · NT 12
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `trf03-nt-12`
+- **Identificador:** `trf03-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=12)
@@ -25,4 +25,4 @@ Por fim, a Nota Técnica estende as considerações favoráveis à perícia virt
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/012_-_5650088_-_Nota_Tecnica_NI_12_CLISP.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

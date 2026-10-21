@@ -1,9 +1,9 @@
 # TRF01 · IRDR 107
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 107
-- **Identificador na fonte:** `trf01-irdr-107`
+- **Identificador:** `trf01-irdr-107`
 - **Situação na fonte:** Em julgamento
 - **Atualização informada pela fonte:** 31/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=107)
@@ -16,4 +16,4 @@ Discute-se: (i) saber se a improcedência por insuficiência de provas em demand
 
 - 10375273720244013500
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

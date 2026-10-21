@@ -1,9 +1,9 @@
 # TJTO · IAC 5
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `tjto-iac-5`
+- **Identificador:** `tjto-iac-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=IAC&nr=5)
@@ -16,4 +16,4 @@ Possibilidade ou não de determinar à Instituição de Ensino a adotar o proces
 
 a) As universidades gozam de liberdade (autonomia) para dispor acerca da revalidação de diplomas expedidos por universidaddes estrangeiras, não podendo lhes serem impostas a adoção do procedimento simplificado, quando estas, gozando de sua autonomia didático-científica e administrativa, garantida pela Constituição Federal, preveem a impossibilidade de fazê-lo; b) Aplica-se a teoria do fato consumado aos processos cujas decisões liminares foram exaradas antes de 30/06/2022, preservando, assim, o tão caro princípio da segurança jurídica.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

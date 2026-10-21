@@ -1,9 +1,9 @@
 # TJSP · IRDR 54
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 54
-- **Identificador na fonte:** `tjsp-irdr-54`
+- **Identificador:** `tjsp-irdr-54`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=54)
@@ -20,4 +20,4 @@ O pensionista de ex-empregado de sociedade de economia mista submetido a regime 
 
 - [00224769520248260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0022476-95.2024&foroNumeroUnificado=0000&dePesquisaNuUnificado=0022476-95.2024.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

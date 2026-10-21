@@ -1,10 +1,10 @@
 # STF · ADI 386
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 386
-- **Identificador na fonte:** `stf-adi-386`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-386`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 04/04/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=386)
 
@@ -20,4 +20,4 @@ Após os votos dos Srs. Ministros Relator, Paulo Brossard, Octavio Gallotti, Ald
 
 LEG-FED CF ANO-1988 ART-00102 INC-00001 LET-A ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADPF 384
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 384
-- **Identificador na fonte:** `stf-adpf-384`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-384`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/08/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=384)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00005 INC-00021 INC-00035 INC-00074 ART-00070 ART-00102 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754055436)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

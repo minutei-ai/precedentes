@@ -1,9 +1,9 @@
 # TJRJ · IRDR 26
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 26
-- **Identificador na fonte:** `tjrj-irdr-26`
+- **Identificador:** `tjrj-irdr-26`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=26)
@@ -20,4 +20,4 @@ A nulidade da contratação temporária de servidores (artigo 37,IX da Constitui
 
 - [00396100420228190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2022.291.00022)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

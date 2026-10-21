@@ -1,9 +1,9 @@
 # STJ · CT 147
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 147
-- **Identificador na fonte:** `stj-ct-147`
+- **Identificador:** `stj-ct-147`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=147)
@@ -22,4 +22,14 @@ Incidência ou não de correção monetária nas indenizações de seguro DPVAT 
 - [03143332820178240038](https://processo.stj.jus.br/processo/pesquisa/?termo=201902603959&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [03051800220168240039](https://processo.stj.jus.br/processo/pesquisa/?termo=201902961842&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Incidência ou não de correção monetária nas indenizações de seguro DPVAT pagas pela seguradora no prazo de 30 (trinta) dias previsto no § 1º do art. 5º da Lei n. 6.194/1974.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPE · SUM 189
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 189
-- **Identificador na fonte:** `tjpe-sum-189`
+- **Identificador:** `tjpe-sum-189`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=189)
@@ -17,4 +17,4 @@ A simples suspensão do fornecimento de energia elétrica por poucas horas , por
 - [00012415920198172470](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00012415920198172470)
 - [00005270220198172470](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00005270220198172470)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · NT 13
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `trf03-nt-13`
+- **Identificador:** `trf03-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=13)
@@ -24,4 +24,4 @@ Em conclusão, a Nota Técnica afirma que a limitação imposta dificulta a gest
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/NT13CLISP_Limitacao_pericias_publicada.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

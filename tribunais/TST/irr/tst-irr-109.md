@@ -1,9 +1,9 @@
 # TST · IRR 109
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 109
-- **Identificador na fonte:** `tst-irr-109`
+- **Identificador:** `tst-irr-109`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=109)
@@ -16,4 +16,4 @@ A ausência da parte à audiência em que deveria depor resulta em confissão fi
 
 - [00007042220235110019](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000704-22.2023.5.11.0019/3#d3ca87e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

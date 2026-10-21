@@ -1,9 +1,9 @@
 # STJ · CT 740
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 740
-- **Identificador na fonte:** `stj-ct-740`
+- **Identificador:** `stj-ct-740`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 30/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=740)
@@ -16,4 +16,14 @@ Não obstante o Tema 959/STJ, definir à luz dos artigos 370, §4º; 493, 564 do
 
 - [00112851220188140028](https://processo.stj.jus.br/processo/pesquisa/?termo=202502913698&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Não obstante o Tema 959/STJ, definir à luz dos artigos 370, §4º; 493, 564 do Código de Processo Penal; e 272, §§2º e 5º, do Código de Processo Civil, se a ciência inequívoca da sentença condenatória proferida em plenário do Tribunal do Júri poderia ser considerada  como termo inicial da contagem do prazo para o Ministério Público apelar, sendo desnecessária, por conseguinte, a remessa/entrega dos autos à sua repartição administrativa.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

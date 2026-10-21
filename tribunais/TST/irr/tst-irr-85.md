@@ -1,9 +1,9 @@
 # TST · IRR 85
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 85
-- **Identificador na fonte:** `tst-irr-85`
+- **Identificador:** `tst-irr-85`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=85)
@@ -20,4 +20,4 @@ O descumprimento contratual contumaz relativo à ausência do pagamento de horas
 
 - [10006420720235020086](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1000642-07.2023.5.02.0086/3#868d589)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPA · IAC 4
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjpa-iac-4`
+- **Identificador:** `tjpa-iac-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ Compete às Turmas de Direito Privado o processamento e julgamento do recurso de
 
 - [08129102520248140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08129102520248140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

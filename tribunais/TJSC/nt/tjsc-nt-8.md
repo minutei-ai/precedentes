@@ -1,9 +1,9 @@
 # TJSC · NT 8
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `tjsc-nt-8`
+- **Identificador:** `tjsc-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=8)
@@ -33,4 +33,4 @@ via jurisdicional.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/0362-Notat%C3%A9cnica08-CIJESC.pdf/e75a57fc-22ce-582f-a648-71f1eabaac09?t=1721921843461)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

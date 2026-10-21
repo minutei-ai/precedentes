@@ -1,9 +1,9 @@
 # TJAM · IRDR 7
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjam-irdr-7`
+- **Identificador:** `tjam-irdr-7`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=7)
@@ -23,4 +23,4 @@ Desconto em conta corrente posterior à celebração de mútuo bancário pelo pr
 
 - [06372912820228040001](https://consultasaj.tjam.jus.br/cpopg/show.do?processo.codigo=010052GF10000&processo.foro=1&processo.numero=0637291-28.2022.8.04.0001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

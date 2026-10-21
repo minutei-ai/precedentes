@@ -1,9 +1,9 @@
 # STJ · RR 1244
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1244
-- **Identificador na fonte:** `stj-rr-1244`
+- **Identificador:** `stj-rr-1244`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1244)
@@ -18,4 +18,6 @@ A possibilidade de exigência das contribuições ao PIS - Importação e COFINS
 - [10194400220204013200](https://processo.stj.jus.br/processo/pesquisa/?termo=202300520256&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10025156220194013200](https://processo.stj.jus.br/processo/pesquisa/?termo=202300507664&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

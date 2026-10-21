@@ -1,9 +1,9 @@
 # TJRS · IRDR 25
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `tjrs-irdr-25`
+- **Identificador:** `tjrs-irdr-25`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=25)
@@ -18,4 +18,4 @@ I. O art. 5º, parágrafo único, da Lei nº 11.738/08 se destina ao cálculo do
   
 II. A Lei Municipal nº 7.513/12, que implementou o piso nacional do magistério, não violou o princípio da irredutibilidade dos vencimentos, pois, embora tenha reduzido os coeficientes dos níveis de habilitação, promoveu aumento no vencimento inicial da carreira do magistério.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 773
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 773
-- **Identificador na fonte:** `stf-adi-773`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-773`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/09/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=773)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal deferiu a medida cautelar para suspender, no te
 
 LEG-FED CF ANO-1988 ART-00155 PAR-00002 INC-00012 LET-G ART-00158 INC-00004 PAR-ÚNICO CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00193 INC-00006 LET-D RJ. LEG-EST LEI-001423 ANO-1989 ART-00040 INC-00014 RJ.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

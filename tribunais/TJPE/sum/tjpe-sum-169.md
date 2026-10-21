@@ -1,9 +1,9 @@
 # TJPE · SUM 169
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 169
-- **Identificador na fonte:** `tjpe-sum-169`
+- **Identificador:** `tjpe-sum-169`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=169)
@@ -21,4 +21,4 @@ Não configura dano moral a mera cobrança indevida ao consumidor, sem a efetiva
 - [00093644620128170480](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00093644620128170480)
 - [00507890620108170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00507890620108170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

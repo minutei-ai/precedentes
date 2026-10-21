@@ -1,9 +1,9 @@
 # TJMS · NT 10
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `tjms-nt-10`
+- **Identificador:** `tjms-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=10)
@@ -115,4 +115,4 @@ RESUMO DO PRECEDENTE QUALIFICADO
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/68679baae3d85da6dad76ea880a5d9d0.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

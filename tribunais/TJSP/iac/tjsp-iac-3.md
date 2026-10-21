@@ -1,9 +1,9 @@
 # TJSP · IAC 3
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `tjsp-iac-3`
+- **Identificador:** `tjsp-iac-3`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 08/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IAC&nr=3)
@@ -20,4 +20,4 @@ Aplica-se ao Loteamento "Jardim Aviação", localizado o Município de Bauru/SP,
 
 - [00192929820138260071](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI0048M6A0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

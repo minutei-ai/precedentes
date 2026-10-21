@@ -1,9 +1,9 @@
 # TRT09 · IRDR 24
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 24
-- **Identificador na fonte:** `trt09-irdr-24`
+- **Identificador:** `trt09-irdr-24`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 28/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=24)
@@ -16,4 +16,4 @@ Os trabalhadores da extinta CODAPAR fazem jus ao reconhecimento do direito ao re
 
 - [00063920820255090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0006392-08.2025.5.09.0000/2#7c6ac8d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

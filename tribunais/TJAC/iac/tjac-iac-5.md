@@ -1,9 +1,9 @@
 # TJAC · IAC 5
 
-- **Tribunal:** TJAC
+- **Órgão:** TJAC
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `tjac-iac-5`
+- **Identificador:** `tjac-iac-5`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 14/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjac&tipo=IAC&nr=5)
@@ -23,4 +23,4 @@ excepcionalmente, quando a diligência comprovadamente se mostrar de impossível
 
 - 10017637820248010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

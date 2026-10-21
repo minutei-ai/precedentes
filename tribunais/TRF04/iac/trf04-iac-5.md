@@ -1,9 +1,9 @@
 # TRF04 · IAC 5
 
-- **Tribunal:** TRF04
+- **Órgão:** TRF04
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `trf04-iac-5`
+- **Identificador:** `trf04-iac-5`
 - **Situação na fonte:** Sobrestado por tema do STJ
 - **Atualização informada pela fonte:** 19/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf04&tipo=IAC&nr=5)
@@ -20,4 +20,4 @@ Deve ser admitida a possibilidade de reconhecimento do caráter especial das ati
 
 - [50338889020184040000](http://www.trf4.jus.br/trf4/processos/acompanhamento/resultado_pesquisa.php?selForma=NU&selOrigem=RS&txtValor=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

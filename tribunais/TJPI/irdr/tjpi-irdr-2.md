@@ -1,9 +1,9 @@
 # TJPI · IRDR 2
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjpi-irdr-2`
+- **Identificador:** `tjpi-irdr-2`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 31/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=2)
@@ -16,4 +16,4 @@ Reanálise da competência jurisdicional do TJPI para julgar autoridades públic
 
 - 00049927020168180000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

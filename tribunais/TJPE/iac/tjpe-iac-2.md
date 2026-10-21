@@ -1,9 +1,9 @@
 # TJPE · IAC 2
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tjpe-iac-2`
+- **Identificador:** `tjpe-iac-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IAC&nr=2)
@@ -20,4 +20,4 @@ Compete ao juízo da vara de família que decretar o divórcio o julgamento das 
 
 - [00016961320158172810](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00016961320158172810)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 585
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 585
-- **Identificador na fonte:** `stf-adi-585`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-585`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/10/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=585)
 
@@ -20,4 +20,4 @@ Após os votos dos Ministros Relator e Francisco Rezek, julgando improcedente a 
 
 LEG-FED CF ANO-1988 ART-00068 PAR-00001 INC-00001 ART-00073 PAR-00002 INC-00001 ART-00074 ART-00075 ART-00096 ART-00099 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008443 ANO-1992 ART-00105 LEG-EST LEI-001586 ANO-1982 AM. LEG-EST LEI-002050 ANO-1991 ART-00001 AM.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

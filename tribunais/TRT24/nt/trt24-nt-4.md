@@ -1,9 +1,9 @@
 # TRT24 · NT 4
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `trt24-nt-4`
+- **Identificador:** `trt24-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/03/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=4)
@@ -81,4 +81,4 @@ adequada para rediscutir ou impugnar os
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N%C2%BA+04.2022.pdf/0f6a65dc-b9b6-4f31-a496-2b3b166fc021?t=1660838795144)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 2885
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2885
-- **Identificador na fonte:** `stf-adi-2885`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2885`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/10/2006
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2885)
 
@@ -20,4 +20,4 @@ Preliminarmente, o Tribunal, por unanimidade, reconheceu a legitimidade da reque
 
 LEG-FED CF ANO-1988 ART-00005 INC-00002 INC-00035 INC-00053 INC-00055 ART-00037 "CAPUT" ART-00093 "CAPUT" ART-00096 INC-00001 LET-A ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00014 INC-0000V PAR-ÚNICO ART-00267 PAR-00003 ART-00463 ART-00471 ART-00512 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LCP-000035 ANO-1979 ART-00035 INC-00001 ART-00041 ART-00042 INC-00001 INC-00002 ART-00043 ART-00044 LOMAN-1979 LEI ORGÂNICA DA MAGISTRATURA NACIONAL LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-FED LEI-010358 ANO-2001 LEI ORDINÁRIA LEG-FED RGI ART-00029 INC-00001 REGIMENTO INTERNO DO TRIBUNAL REGIONAL DO TRABALHO DA 20ª REGIÃO - TRT DA 20ª REGIÃO LEG-FED PRV-000008 ANO-2001 PROVIMENTO DO TRT DA 20ª REGIÃO.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

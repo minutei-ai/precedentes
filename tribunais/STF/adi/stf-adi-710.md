@@ -1,10 +1,10 @@
 # STF · ADI 710
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 710
-- **Identificador na fonte:** `stf-adi-710`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-710`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/05/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=710)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal não conheceu da ação por impossibilidade j
 
 LEG-FED CF ANO-1988 ART-00231 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00067 (CF-1988). LEG-FED LEI-006001 ANO-1973 ART-00017 LEG-FED DEC-000022 ANO-1991 LEG-FED PRT-000580 ANO-1991
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

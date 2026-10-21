@@ -1,9 +1,9 @@
 # STF · RG 1483
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1483
-- **Identificador na fonte:** `stf-rg-1483`
+- **Identificador:** `stf-rg-1483`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: mérito julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1483)
@@ -20,4 +20,4 @@ Redução dos prazos de validade do Certificado de Registro (CR) e do Certificad
 
 - [1616922](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7655938)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

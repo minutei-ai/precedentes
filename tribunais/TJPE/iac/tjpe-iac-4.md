@@ -1,9 +1,9 @@
 # TJPE · IAC 4
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjpe-iac-4`
+- **Identificador:** `tjpe-iac-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 14/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IAC&nr=4)
@@ -24,4 +24,4 @@ Trata-se do cabimento de custas no Agravo de Instrumento.
 - [00001812620188170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00001812620188170000)
 - [00041992720178170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00041992720178170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

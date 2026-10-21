@@ -1,9 +1,9 @@
 # TRT01 · NT 8
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `trt01-nt-8`
+- **Identificador:** `trt01-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 23/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=8)
@@ -31,4 +31,4 @@ Rio de Janeiro, 19 de junho de 2023.
 
 - Link Nota Técnica
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

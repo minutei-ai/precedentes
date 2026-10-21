@@ -1,10 +1,10 @@
 # STF · ADI 1314
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1314
-- **Identificador na fonte:** `stf-adi-1314`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1314`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/08/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1314)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal referendou a decisão do Presidente (Ministro
 
 LEG-FED CF ANO-1988 ART-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004024 ANO-1961 REVOGADA PELA LEI-9394/1996 COM EXCEÇÃO AOS ARTS. 6 a 9 LDBEN-1961 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED LEI-009394 ANO-1996 LDBEN-1996 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED MPR-001018 ANO-1995 MEDIDA PROVISÓRIA LEG-FED MPR-001041 ANO-1995 MEDIDA PROVISÓRIA LEG-FED RGI ANO-1980 ART-00013 INC-00008 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

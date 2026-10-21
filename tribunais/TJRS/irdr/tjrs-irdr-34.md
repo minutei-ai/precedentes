@@ -1,9 +1,9 @@
 # TJRS · IRDR 34
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `tjrs-irdr-34`
+- **Identificador:** `tjrs-irdr-34`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=34)
@@ -16,4 +16,4 @@ Competência para processamento e julgamento das ações que envolvem o arbitram
 
 Compete ao juízo cível comum o processamento e o julgamento de ações autônomas relativas ao arbitramento e à cobrança de aluguéis pelo uso exclusivo de imóvel pertencente ao espólio, resguardadas as situações em que possa haver a solução da questão nos autos do processo judicial de inventário ou de arrolamento, a critério do respectivo juízo.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

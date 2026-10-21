@@ -1,9 +1,9 @@
 # STF · RG 796
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 796
-- **Identificador na fonte:** `stf-rg-796`
+- **Identificador:** `stf-rg-796`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=796)
@@ -20,4 +20,4 @@ A imunidade em relação ITBI, prevista no inciso I do § 2º do art. 156 da Con
 
 - [796376](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4529914)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

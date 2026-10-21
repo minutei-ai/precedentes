@@ -1,9 +1,9 @@
 # TST · IRR 277
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 277
-- **Identificador na fonte:** `tst-irr-277`
+- **Identificador:** `tst-irr-277`
 - **Situação na fonte:** Afetado - possível revisão de tese
 - **Atualização informada pela fonte:** 11/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=277)
@@ -16,4 +16,4 @@ TETO REMUNERATÓRIO. EMPRESA PÚBLICA E SOCIEDADE DE ECONOMIA MISTA. ART. 37, XI
 
 - [00208986220235040011](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00208986220235040011)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

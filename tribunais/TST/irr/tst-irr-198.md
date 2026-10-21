@@ -1,9 +1,9 @@
 # TST · IRR 198
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 198
-- **Identificador na fonte:** `tst-irr-198`
+- **Identificador:** `tst-irr-198`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=198)
@@ -16,4 +16,4 @@ Constitui requisito para o deferimento do adicional de insalubridade em grau má
 
 - [00003694820245120016](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000369-48.2024.5.12.0016/3#dd366bb)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

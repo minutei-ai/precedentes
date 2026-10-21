@@ -1,10 +1,10 @@
 # STF · ADI 3352
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3352
-- **Identificador na fonte:** `stf-adi-3352`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3352`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/12/2004
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3352)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00048 ART-00049 INC-00016 ART-00062 "CAPUT" ART-00062 PA
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=387242)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

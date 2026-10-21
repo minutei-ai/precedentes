@@ -1,9 +1,9 @@
 # TST · IRR 265
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 265
-- **Identificador na fonte:** `tst-irr-265`
+- **Identificador:** `tst-irr-265`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=265)
@@ -20,4 +20,4 @@ Viola o art. 7º, XV, da Constituição da República de 1988 a concessão de re
 
 - [00210287120225040404](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0021028-71.2022.5.04.0404)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

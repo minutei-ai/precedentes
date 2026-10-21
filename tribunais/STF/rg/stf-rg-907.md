@@ -1,9 +1,9 @@
 # STF · RG 907
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 907
-- **Identificador na fonte:** `stf-rg-907`
+- **Identificador:** `stf-rg-907`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=907)
@@ -20,4 +20,4 @@ Constitucionalidade do art. 305 do Código de Trânsito Brasileiro.
 
 - [971959](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4985877)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

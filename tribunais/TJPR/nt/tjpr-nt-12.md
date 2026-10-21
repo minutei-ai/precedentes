@@ -1,9 +1,9 @@
 # TJPR · NT 12
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `tjpr-nt-12`
+- **Identificador:** `tjpr-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=NT&nr=12)
@@ -39,4 +39,4 @@ Diante disso, ressalta-se o papel da magistratura na promoção da legalidade e 
 
 - [Link Nota Técnica](https://www.tjpr.jus.br/documents/d/centro-de-inteligencia/nota-12)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

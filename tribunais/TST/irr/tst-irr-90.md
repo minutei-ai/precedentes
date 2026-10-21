@@ -1,9 +1,9 @@
 # TST · IRR 90
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 90
-- **Identificador na fonte:** `tst-irr-90`
+- **Identificador:** `tst-irr-90`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 06/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=90)
@@ -16,4 +16,4 @@ O atraso ínfimo no pagamento de parcela da obrigação estabelecida em acordo j
 
 - [00005153920245080004](http://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0000515-39.2024.5.08.0004/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

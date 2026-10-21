@@ -1,9 +1,9 @@
 # TST · IRR 260
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 260
-- **Identificador na fonte:** `tst-irr-260`
+- **Identificador:** `tst-irr-260`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=260)
@@ -20,4 +20,4 @@ Para os empregados a que alude o art. 58, caput, da CLT, quando sujeitos a 40 ho
 
 - 00202439420225040021
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

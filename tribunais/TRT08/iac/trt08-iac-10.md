@@ -1,9 +1,9 @@
 # TRT08 · IAC 10
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 10
-- **Identificador na fonte:** `trt08-iac-10`
+- **Identificador:** `trt08-iac-10`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IAC&nr=10)
@@ -21,4 +21,4 @@ RITO SUMARÍSSIMO. INSUCESSO NAS TENTATIVAS DE CITAÇÃO. NECESSIDADE DA CITAÇ�
 - [00008255120245080002](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000825-51.2024.5.08.0002/2)
 - [00003402320255080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000340-23.2025.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

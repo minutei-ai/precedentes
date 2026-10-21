@@ -1,9 +1,9 @@
 # STF · RG 304
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 304
-- **Identificador na fonte:** `stf-rg-304`
+- **Identificador:** `stf-rg-304`
 - **Situação na fonte:** Há repercussão geral. Leading case: acórdão publicado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=304)
@@ -20,4 +20,4 @@ São inconstitucionais os arts. 47 e 48 da Lei 11.196/2005, que vedam a apuraç�
 
 - [607109](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3810658)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1157
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1157
-- **Identificador na fonte:** `stj-rr-1157`
+- **Identificador:** `stj-rr-1157`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1157)
@@ -21,4 +21,6 @@ Definir a possibilidade - ou não - de cancelamento na via administrativa, após
 - [22394093820188260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202103047065&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10041070820178260218](https://processo.stj.jus.br/processo/pesquisa/?termo=202103189031&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

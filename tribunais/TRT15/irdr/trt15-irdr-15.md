@@ -1,9 +1,9 @@
 # TRT15 · IRDR 15
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `trt15-irdr-15`
+- **Identificador:** `trt15-irdr-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 13/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=15)
@@ -21,4 +21,4 @@ Refere- se à Tese Jurídica nº 03, deste Eg. Tribunal.
 
 - [00082987520195150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0008298-75.2019.5.15.0000/2#64e3260)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

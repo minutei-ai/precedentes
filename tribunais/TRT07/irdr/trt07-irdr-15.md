@@ -1,9 +1,9 @@
 # TRT07 · IRDR 15
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `trt07-irdr-15`
+- **Identificador:** `trt07-irdr-15`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 05/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ NÃO ADMITIDO
 
 - [00056287620255070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

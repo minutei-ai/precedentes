@@ -1,9 +1,9 @@
 # STJ · RR 1126
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1126
-- **Identificador na fonte:** `stj-rr-1126`
+- **Identificador:** `stj-rr-1126`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1126)
@@ -18,4 +18,6 @@ Se o prazo da prescrição da pretensão de se apurar falta disciplinar cometida
 - [00119130320208260996](https://processo.stj.jus.br/processo/pesquisa/?termo=202103096950&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00028570920218260996](https://processo.stj.jus.br/processo/pesquisa/?termo=202103096103&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

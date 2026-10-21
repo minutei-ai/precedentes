@@ -1,9 +1,9 @@
 # TJPE · SUM 129
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 129
-- **Identificador na fonte:** `tjpe-sum-129`
+- **Identificador:** `tjpe-sum-129`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=129)
@@ -22,4 +22,4 @@ A Gratificação de Risco de Policiamento Ostensivo, instituída pela Lei Comple
 - [00032757020138170480](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00032757020138170480)
 - [00045618720138170220](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00045618720138170220)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

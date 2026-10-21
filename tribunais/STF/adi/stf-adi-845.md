@@ -1,10 +1,10 @@
 # STF · ADI 845
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 845
-- **Identificador na fonte:** `stf-adi-845`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-845`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/02/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=845)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu a medida cautelar de suspensão da 
 
 LEG-EST CES ANO-1991 ART-00224 AP.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 72
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 72
-- **Identificador na fonte:** `tst-irr-72`
+- **Identificador:** `tst-irr-72`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=72)
@@ -20,4 +20,4 @@ A existência de ação contra o mesmo empregador, ainda que possua idêntica pr
 
 - [00000500220245120042](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000050-02.2024.5.12.0042/3#ec39dcd)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

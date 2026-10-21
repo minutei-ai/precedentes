@@ -1,9 +1,9 @@
 # TJGO · SUM 20
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 20
-- **Identificador na fonte:** `tjgo-sum-20`
+- **Identificador:** `tjgo-sum-20`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 07/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=20)
@@ -16,4 +16,4 @@ Para a caracterização de dano moral à pessoa jurídica, passível de compensa
 
 - 00494087220078090006
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

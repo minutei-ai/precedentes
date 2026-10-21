@@ -1,10 +1,10 @@
 # STF · ADI 222
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 222
-- **Identificador na fonte:** `stf-adi-222`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-222`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/05/1990
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=222)
 
@@ -20,4 +20,4 @@ O Tribunal, por maioria, julgou procedente em parte, a Ação Direta de Inconsti
 
 LEG-FED CF ANO-1988 ART-00018 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000001 ANO-1967 LEG-FED AIT-000002 ANO-1965 ART-00022 LEG-EST ADCT ANO-1989 ART-00091 CES, RJ, INCONSTITUCIONALIDADE. LEG-EST ADT ANO-1990 ART-00001 LCP-59/90, RJ.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT07 · IRDR 20
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `trt07-irdr-20`
+- **Identificador:** `trt07-irdr-20`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=20)
@@ -16,4 +16,4 @@
 
 - [00015691120265070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0001569-11.2026.5.07.0000/2#2409876)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

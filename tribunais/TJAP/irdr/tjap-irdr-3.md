@@ -1,9 +1,9 @@
 # TJAP · IRDR 3
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjap-irdr-3`
+- **Identificador:** `tjap-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 19/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ A expectativa de direito do candidato aprovado fora das vagas a serem preenchida
 
 - 00009015120168030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

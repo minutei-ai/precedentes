@@ -1,9 +1,9 @@
 # TRT02 · IRDR 36
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 36
-- **Identificador na fonte:** `trt02-irdr-36`
+- **Identificador:** `trt02-irdr-36`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 19/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=IRDR&nr=36)
@@ -17,4 +17,4 @@ Juros de mora. Diferença entre os juros bancários e os juros trabalhistas. Dif
 - [10013241020245020382](https://pje.trt2.jus.br/consultaprocessual/detalhe-processo/1001324-10.2024.5.02.0382/2#2f9972a)
 - [10010866020225020511](https://pje.trt2.jus.br/consultaprocessual/detalhe-processo/1001086-60.2022.5.02.0511/2#71e15ce)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

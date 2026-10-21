@@ -1,9 +1,9 @@
 # TST · RR 8
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 8
-- **Identificador na fonte:** `tst-rr-8`
+- **Identificador:** `tst-rr-8`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 08/02/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=RR&nr=8)
@@ -21,4 +21,4 @@ O Agente de Apoio Socioeducativo da Fundação Casa não tem direito ao adiciona
 - [00010865120125150031](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0001086&digitoTst=51&anoTst=2012&orgaoTst=5&tribunalTst=15&varaTst=0031&submit=Consultar)
 - [00010865120125515003](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=1086&digitoTst=51&anoTst=2012&orgaoTst=5&tribunalTst=15&varaTst=0031&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

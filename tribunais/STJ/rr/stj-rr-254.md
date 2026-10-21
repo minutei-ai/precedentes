@@ -1,9 +1,9 @@
 # STJ · RR 254
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 254
-- **Identificador na fonte:** `stj-rr-254`
+- **Identificador:** `stj-rr-254`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=254)
@@ -20,4 +20,14 @@ Questão referente à definição da natureza jurídica da remuneração cobrada
 
 - [00458430320088217000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900740539&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+É vintenário o prazo prescricional da pretensão executiva atinente à tarifa por prestação de serviços de água e esgoto, cujo vencimento, na data da entrada em vigor do Código Civil de 2002, era superior a dez anos. Ao revés, cuidar-se-á de prazo prescricional decenal.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

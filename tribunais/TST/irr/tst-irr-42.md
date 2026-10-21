@@ -1,9 +1,9 @@
 # TST · IRR 42
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 42
-- **Identificador na fonte:** `tst-irr-42`
+- **Identificador:** `tst-irr-42`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=42)
@@ -17,4 +17,4 @@ Definir i) se é possível conhecer de recursos de revista em fase de cumpriment
 - [00000516220135080113](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000051-62.2013.5.08.0113/3#09a1b00)
 - [00211543120165040211](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0021154-31.2016.5.04.0211/3#4909ec5)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

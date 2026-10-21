@@ -1,10 +1,10 @@
 # STF · ADI 1277
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1277
-- **Identificador na fonte:** `stf-adi-1277`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1277`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 27/09/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1277)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o pedido de medida liminar. Votou o
 
 LEG-FED CF ANO-1988 ART-00022 INC-00006 INC-00007 ART-00192 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004595 ANO-1964 LEG-FED RES-001914 ANO-1992 BANCO CENTRAL. LEG-EST LEI-009084 ANO-1995 (SP).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 6
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 6
-- **Identificador na fonte:** `stj-ct-6`
+- **Identificador:** `stj-ct-6`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=6)
@@ -17,4 +17,14 @@ Obrigatoriedade de fornecimento, pelo Estado, de medicamentos não contemplados 
 - [50022011920104047003](https://processo.stj.jus.br/processo/pesquisa/?termo=201401195765&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50100426320134047002](https://processo.stj.jus.br/processo/pesquisa/?termo=201700698629&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Obrigatoriedade de fornecimento, pelo Estado, de medicamentos não contemplados na Portaria n. 2.577/2006 do Ministério da Saúde (Programa de Medicamentos Excepcionais).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

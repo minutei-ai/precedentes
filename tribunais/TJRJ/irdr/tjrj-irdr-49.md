@@ -1,9 +1,9 @@
 # TJRJ · IRDR 49
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 49
-- **Identificador na fonte:** `tjrj-irdr-49`
+- **Identificador:** `tjrj-irdr-49`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=49)
@@ -20,4 +20,4 @@ Discutir acerca da (1) validade ou (2) invalidade da notificação dos lançamen
 
 - [00633502020248190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2024.291.00029)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

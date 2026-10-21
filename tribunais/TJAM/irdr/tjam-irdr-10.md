@@ -1,9 +1,9 @@
 # TJAM · IRDR 10
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjam-irdr-10`
+- **Identificador:** `tjam-irdr-10`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 10/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=10)
@@ -16,4 +16,4 @@ A venda de aparelho smartphone ou similar sem carregador completo configura prá
 
 - [06544201220238040001](https://projudi-consulta.tjam.jus.br/publica/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

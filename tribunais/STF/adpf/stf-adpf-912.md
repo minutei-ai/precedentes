@@ -1,10 +1,10 @@
 # STF · ADPF 912
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 912
-- **Identificador na fonte:** `stf-adpf-912`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-912`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/03/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=912)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00038 INC-00005 ART-00040 PAR-00013 CF-1988 CONSTITUIÇ�
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=760001503)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

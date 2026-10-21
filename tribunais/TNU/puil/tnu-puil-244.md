@@ -1,9 +1,9 @@
 # TNU · PUIL 244
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 244
-- **Identificador na fonte:** `tnu-puil-244`
+- **Identificador:** `tnu-puil-244`
 - **Situação na fonte:** Sobrestado por tema do STF
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=244)
@@ -20,4 +20,4 @@ I) Anteriormente à vigência da Lei n. 13.416/2017, o auxílio-alimentação, p
 
 - [50028809120164047105](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50028809120164047105)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

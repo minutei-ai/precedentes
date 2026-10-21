@@ -1,9 +1,9 @@
 # TJAM · IRDR 3
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjam-irdr-3`
+- **Identificador:** `tjam-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ A questão suscitada limita-se à aferição da competência dos Juizados Especi
 
 - [06049526620168040020](https://consultasaj.tjam.jus.br/cpopg/show.do?processo.codigo=0K0003CDK0000&processo.foro=1&processo.numero=0604952-66.2016.8.04.0020)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

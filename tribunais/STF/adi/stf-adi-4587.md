@@ -1,10 +1,10 @@
 # STF · ADI 4587
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4587
-- **Identificador na fonte:** `stf-adi-4587`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4587`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 25/08/2011
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4587)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade e nos termos do voto do Relator, deferiu a cautelar 
 
 LEG-FED CF ANO-1988 ART-00027 PAR-00002 ART-00039 PAR-00004 ART-00057 PAR-00007 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST RES-001218 ANO-2007 ART-00147 PAR-00005 REGIMENTO INTERNO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS LEG-EST EMC-000047 ANO-2010 EMENDA CONSTITUCIONAL, PA
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

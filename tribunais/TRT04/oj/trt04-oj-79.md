@@ -1,9 +1,9 @@
 # TRT04 · OJ 79
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 79
-- **Identificador na fonte:** `trt04-oj-79`
+- **Identificador:** `trt04-oj-79`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=79)
@@ -18,4 +18,4 @@ EXECUÇÃO PROVISÓRIA. LIBERAÇÃO DE VALORES CONTROVERSOS. INVIABILIDADE. Perm
 - [00000025520155040018](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/NDBrpU6arTpjxW5By5kYcg)
 - [00012531020145040741](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/1Tg-P7rw59JoILxKZPjxuA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

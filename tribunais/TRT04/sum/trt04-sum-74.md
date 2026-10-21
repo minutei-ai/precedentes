@@ -1,9 +1,9 @@
 # TRT04 · SUM 74
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 74
-- **Identificador na fonte:** `trt04-sum-74`
+- **Identificador:** `trt04-sum-74`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=74)
@@ -22,4 +22,4 @@ GENERAL MOTORS. REPOUSO SEMANAL REMUNERADO. INTEGRAÇÃO DO PERCENTUAL DE 16,66%
 - [00010100920125040233](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/gLW_5Oh1tc1AX_idtEFM7Q)
 - [00008891820115040232](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/KFbsmRvULpHKl_Y8NqOM-w)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

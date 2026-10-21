@@ -1,10 +1,10 @@
 # STF · ADI 695
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 695
-- **Identificador na fonte:** `stf-adi-695`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-695`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/03/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=695)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu medida cautelar para suspender a efic
 
 LEG-FED DEL-002335 ANO-1987 LEG-FED DEL-002425 ANO-1988 REVOGADO PELA LEI-7730-89. LEG-FED RAD-000050 ANO-1991 TST.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

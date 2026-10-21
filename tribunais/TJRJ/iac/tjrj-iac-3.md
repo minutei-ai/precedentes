@@ -1,9 +1,9 @@
 # TJRJ · IAC 3
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `tjrj-iac-3`
+- **Identificador:** `tjrj-iac-3`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 21/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IAC&nr=3)
@@ -20,4 +20,4 @@ Discussão jurídica acerca de qual órgão de primeiro grau - se o Juizado faze
 
 - [00515971320178190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2017.290.00012)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJAP · IRDR 17
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `tjap-irdr-17`
+- **Identificador:** `tjap-irdr-17`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 19/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IRDR&nr=17)
@@ -20,4 +20,4 @@ O cabimento ou não de reclamação proposta em face de julgado proferido pela T
 
 - 00013991120208030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

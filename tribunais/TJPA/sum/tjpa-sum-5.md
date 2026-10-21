@@ -1,9 +1,9 @@
 # TJPA · SUM 5
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Súmula
 - **Número:** 5
-- **Identificador na fonte:** `tjpa-sum-5`
+- **Identificador:** `tjpa-sum-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/12/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=SUM&nr=5)
@@ -12,4 +12,4 @@
 
 Crimes contra a mulher - Lei Maria da Penha - Competências das Varas Especializadas. São de competências das varas especializadas todas as ações que versem sobre violência doméstica e familiar contra a mulher praticadas na vigência da Lei nº 11.340/2006.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

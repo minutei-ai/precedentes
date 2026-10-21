@@ -1,9 +1,9 @@
 # TJBA · IRDR 4012
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4012
-- **Identificador na fonte:** `tjba-irdr-4012`
+- **Identificador:** `tjba-irdr-4012`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=4012)
@@ -16,4 +16,4 @@ Versa a controvérsia acerca da definição dos critérios para fins de concess�
 
 - [80308256920208050001](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

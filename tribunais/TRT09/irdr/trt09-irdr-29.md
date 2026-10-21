@@ -1,9 +1,9 @@
 # TRT09 · IRDR 29
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 29
-- **Identificador na fonte:** `trt09-irdr-29`
+- **Identificador:** `trt09-irdr-29`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 09/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=29)
@@ -16,4 +16,4 @@ I-A controvérsia acerca da exigibilidade e do alcance de cláusula de norma col
 
 - [00040343620265090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0004034-36.2026.5.09.0000/2#60c201d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMT · NT 12023
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Nota Técnica
 - **Número:** 12023
-- **Identificador na fonte:** `tjmt-nt-12023`
+- **Identificador:** `tjmt-nt-12023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=NT&nr=12023)
@@ -20,4 +20,4 @@ Nota técnica trata especificamente do procedimento para o bloqueio e a liberaç
 
 - [Link Nota Técnica](https://centrodeinteligencia-mc.tjmt.jus.br/portalcentrodeinteligencia-arquivos-prod/cms/03_Nota_Tecnica_01_2023_Liberacao_de_Valores_Proc_de_Saude_Publica_d8a92d0976.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

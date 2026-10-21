@@ -1,9 +1,9 @@
 # TJGO · SUM 12
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 12
-- **Identificador na fonte:** `tjgo-sum-12`
+- **Identificador:** `tjgo-sum-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 07/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=12)
@@ -16,4 +16,4 @@ Não é possível o pagamento das diferenças vencimentais resultantes da aplica
 
 - 02545614220158090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

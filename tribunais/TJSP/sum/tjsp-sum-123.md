@@ -1,9 +1,9 @@
 # TJSP · SUM 123
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 123
-- **Identificador na fonte:** `tjsp-sum-123`
+- **Identificador:** `tjsp-sum-123`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=123)
@@ -16,4 +16,4 @@ A gratificação por atividade administrativa educacional (GAAE) da Lei Compleme
 
 - [01732535420088260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RMZ0137WK0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

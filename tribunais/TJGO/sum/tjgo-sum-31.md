@@ -1,9 +1,9 @@
 # TJGO · SUM 31
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 31
-- **Identificador na fonte:** `tjgo-sum-31`
+- **Identificador:** `tjgo-sum-31`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=31)
@@ -16,4 +16,4 @@ Na ação de cobrança de indenização securitária (seguro obrigatório ou fac
 
 - 01276944520158090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

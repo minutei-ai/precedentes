@@ -1,9 +1,9 @@
 # TJGO · NT 72024
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Nota Técnica
 - **Número:** 72024
-- **Identificador na fonte:** `tjgo-nt-72024`
+- **Identificador:** `tjgo-nt-72024`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=NT&nr=72024)
@@ -82,4 +82,4 @@ fiscalizar o uso devido da prerrogativa tecnológica em questão.
 
 - [Link Nota Técnica](https://www.tjgo.jus.br/index.php/comissoes-comites/centro-de-inteligencia)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

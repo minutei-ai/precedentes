@@ -1,9 +1,9 @@
 # STJ · RR 1324
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1324
-- **Identificador na fonte:** `stj-rr-1324`
+- **Identificador:** `stj-rr-1324`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1324)
@@ -22,4 +22,10 @@ O proprietário alienante de veículo automotor que deixa de comunicar a venda a
 - [50022046620214036113](https://processo.stj.jus.br/processo/pesquisa/?termo=202402248315&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50035986920204036105](https://processo.stj.jus.br/processo/pesquisa/?termo=202402346680&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Afetado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPA · NT 14
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 14
-- **Identificador na fonte:** `tjpa-nt-14`
+- **Identificador:** `tjpa-nt-14`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 08/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=14)
@@ -26,4 +26,4 @@ Ainda que a nota técnica tenha como foco inicial o Poder Judiciário do Estado 
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=2183813)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

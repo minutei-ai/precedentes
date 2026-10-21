@@ -1,9 +1,9 @@
 # TJPE · SUM 174
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 174
-- **Identificador na fonte:** `tjpe-sum-174`
+- **Identificador:** `tjpe-sum-174`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=174)
@@ -20,4 +20,4 @@ Na ação de busca e apreensão de veículo alienado fiduciariamente, ajuizada c
 - [00087511120158171130](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00087511120158171130)
 - [00058698120128171130](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00058698120128171130)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

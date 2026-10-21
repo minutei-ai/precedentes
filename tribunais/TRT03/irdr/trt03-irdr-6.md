@@ -1,9 +1,9 @@
 # TRT03 · IRDR 6
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `trt03-irdr-6`
+- **Identificador:** `trt03-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ Tese firmada: "Incidente de Resolução de Demandas Repetitivas (IRDR). Tema n. 
 
 - [00110562620205030000](https://pje-consulta.trt3.jus.br/consultaprocessual/detalhe-processo/0011056-26.2020.5.03.0000/2#f6d16e7)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

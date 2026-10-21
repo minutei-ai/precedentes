@@ -1,9 +1,9 @@
 # TJAL · IRDR 3
 
-- **Tribunal:** TJAL
+- **Órgão:** TJAL
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjal-irdr-3`
+- **Identificador:** `tjal-irdr-3`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 28/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjal&tipo=IRDR&nr=3)
@@ -24,4 +24,4 @@ Configuração da preterição
 4\. É vedada a concessão de promoção por ressarcimento de preterição per saltum, quando amparada em erro administrativo (art. 23, V, da Lei Estadual n. 6.514/2004), cabendo, exclusivamente, a ascensão ao posto imediatamente superior àquele em que se encontre o demandante..  
 5\. A promoção por ressarcimento de preterição não possui efeitos financeiros, de modo que o militar apenas perceberá a remuneração da nova patente no momento de sua assunção ao posto, sendo a retroatividade referida no parágrafo único do art. 16 da Lei Estadual n. 6.514/2004 exclusivamente administrativa, para fins de influir tão somente na antiguidade do militar.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAL/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJBA · IRDR 2
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjba-irdr-2`
+- **Identificador:** `tjba-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 24/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=2)
@@ -23,4 +23,4 @@ II ¿ A revogação expressa do art. 7º, §1º da Lei nº 7.145/1997 pela Lei n
 - [05091564920148050001](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 - [00789606920118050001](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

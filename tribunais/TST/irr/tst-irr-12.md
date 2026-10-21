@@ -1,9 +1,9 @@
 # TST · IRR 12
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 12
-- **Identificador na fonte:** `tst-irr-12`
+- **Identificador:** `tst-irr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=12)
@@ -21,4 +21,4 @@ Decisão\]: INCIDENTE DE RECURSO REPETITIVO. TEMA RECURSOS REPETITIVOS Nº 12 - 
 
 - [00217033020145040011](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=21703&digitoTst=30&anoTst=2014&orgaoTst=5&tribunalTst=04&varaTst=0011&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

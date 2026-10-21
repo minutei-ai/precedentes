@@ -1,9 +1,9 @@
 # TRT12 · IRDR 33
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 33
-- **Identificador na fonte:** `trt12-irdr-33`
+- **Identificador:** `trt12-irdr-33`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=33)
@@ -16,4 +16,4 @@ Definir se o Tema 555 do Supremo Tribunal Federal é aplicável na seara trabalh
 
 - [00008399120265120054](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000839-91.2026.5.12.0054/2#df410dc)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

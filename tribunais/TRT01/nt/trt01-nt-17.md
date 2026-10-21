@@ -1,9 +1,9 @@
 # TRT01 · NT 17
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 17
-- **Identificador na fonte:** `trt01-nt-17`
+- **Identificador:** `trt01-nt-17`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=17)
@@ -31,4 +31,4 @@ Rio de Janeiro, 16 de outubro de 2023.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3687874/1/NT17_CI_TRT1_Instaura%c3%a7%c3%a3o%20de%20Incidente%20de%20Resolu%c3%a7%c3%a3o%20de%20Demandas%20Repetitivas%20-%20Pagamento.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

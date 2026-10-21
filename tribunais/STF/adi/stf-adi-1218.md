@@ -1,10 +1,10 @@
 # STF · ADI 1218
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1218
-- **Identificador na fonte:** `stf-adi-1218`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1218`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/02/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1218)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o pedido de medida liminar. Votou o
 
 LEG-FED CF ANO-1988 ART-00022 INC-00001 ART-00125 PAR-00003 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-003689 ANO-1941 ART-00074 CPP-1941 CÓDIGO DE PROCESSO PENAL LEG-FED LEI-005869 ANO-1973 ART-00091 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-EST LCP-000094 ANO-1993 ART-00094 INC-00009 ART-00106 (RO).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

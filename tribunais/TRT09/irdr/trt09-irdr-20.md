@@ -1,9 +1,9 @@
 # TRT09 · IRDR 20
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `trt09-irdr-20`
+- **Identificador:** `trt09-irdr-20`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=20)
@@ -21,4 +21,4 @@ Revisão da Tese Jurídica Prevalecente nº 6 (Regime 12x36. Elastecimento habit
 
 - [00036642820245090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0003664-28.2024.5.09.0000/2#b52ff98)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

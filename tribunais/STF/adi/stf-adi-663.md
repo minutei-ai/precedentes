@@ -1,10 +1,10 @@
 # STF · ADI 663
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 663
-- **Identificador na fonte:** `stf-adi-663`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-663`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/10/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=663)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente a ação e declarou a incon
 
 LEG-FED CF ANO-1988 ART-00005 INC-00036 ART-00096 INC-00002 LET-B ART-00102 INC-00001 LET-A CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-007730 ANO-1989 LEG-FED DEL-002335 ANO-1987 LEG-FED MPR-000032 ANO-1989 LEG-FED RES-000787 ANO-1991 (TRT) DA 1. REGIAO INCONSTITUCIONALIDADE. LEG-FED RES-000830 ANO-1991 (TRT) DA 1. REGIAO, INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

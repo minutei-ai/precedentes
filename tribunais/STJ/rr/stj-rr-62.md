@@ -1,9 +1,9 @@
 # STJ · RR 62
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 62
-- **Identificador na fonte:** `stj-rr-62`
+- **Identificador:** `stj-rr-62`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=62)
@@ -21,4 +21,10 @@ Por força da isenção concedida pelo art. 6º, VII, b, da Lei 7.713/88, na red
 - [00291375320034025101](https://processo.stj.jus.br/processo/pesquisa/?termo=200702954219&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00669104120024047000](https://processo.stj.jus.br/processo/pesquisa/?termo=200501007848&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · SUM 110
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 110
-- **Identificador na fonte:** `trt04-sum-110`
+- **Identificador:** `trt04-sum-110`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=110)
@@ -18,4 +18,4 @@ MULTA DO ART. 477, § 8º, DA CLT. JUSTA CAUSA. É devida a multa do art. 477, �
 - [00205410620145040203](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/RSwHpXDpuquMGuYjMoChjQ)
 - [00001134220145040384](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/avXajk-ruf5nMIMerTOmDw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

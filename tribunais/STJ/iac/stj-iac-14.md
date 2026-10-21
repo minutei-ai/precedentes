@@ -1,9 +1,9 @@
 # STJ · IAC 14
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 14
-- **Identificador na fonte:** `stj-iac-14`
+- **Identificador:** `stj-iac-14`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 06/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=IAC&nr=14)
@@ -18,4 +18,6 @@ Tratando-se de medicamento não incluído nas políticas públicas, mas devidame
 - [50087337720224047200](https://processo.stj.jus.br/processo/pesquisa/?termo=202201288372&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50097444420224047200](https://processo.stj.jus.br/processo/pesquisa/?termo=202201056597&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

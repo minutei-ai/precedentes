@@ -1,9 +1,9 @@
 # TST · IRR 26
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 26
-- **Identificador na fonte:** `tst-irr-26`
+- **Identificador:** `tst-irr-26`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=26)
@@ -24,4 +24,4 @@
 - [00000350920235512002](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000035-09.2023.5.12.0029/3#d92071b)
 - [00006207820215060003](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=0000620&digitoTst=78&anoTst=2021&orgaoTst=5&tribunalTst=06&varaTst=0003&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

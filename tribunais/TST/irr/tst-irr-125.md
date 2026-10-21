@@ -1,9 +1,9 @@
 # TST · IRR 125
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 125
-- **Identificador na fonte:** `tst-irr-125`
+- **Identificador:** `tst-irr-125`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=125)
@@ -20,4 +20,4 @@ Para fins de garantia provisória de emprego prevista no artigo 118 da Lei nº 8
 
 - [00204651720225040521](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0020465-17.2022.5.04.0521/3#747ff70)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

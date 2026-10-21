@@ -1,9 +1,9 @@
 # TRT14 · IAC 3
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `trt14-iac-3`
+- **Identificador:** `trt14-iac-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=IAC&nr=3)
@@ -20,4 +20,4 @@ A Resolução Administrativa n 31/2025 do TRT14, ao estabelecer Polos Regionais 
 
 - [00015028520255140000](https://pje.trt14.jus.br/pjekz/processo/109729/detalhe)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

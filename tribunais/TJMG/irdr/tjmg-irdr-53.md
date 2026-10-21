@@ -1,9 +1,9 @@
 # TJMG · IRDR 53
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 53
-- **Identificador na fonte:** `tjmg-irdr-53`
+- **Identificador:** `tjmg-irdr-53`
 - **Situação na fonte:** Acórdão Publicado (AREsp Pendente)
 - **Atualização informada pela fonte:** 15/03/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=53)
@@ -20,4 +20,4 @@ Compete ao devedor fiduciante o pagamento dos encargos derivados de apreensão d
 
 - [01656474920198130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10024140146895003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 345
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 345
-- **Identificador na fonte:** `stf-adi-345`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-345`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 29/08/1990
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=345)
 
@@ -20,4 +20,4 @@ Por unanimidade o Tribunal indeferiu o pedido de liminar. Votou o Presidente. Au
 
 LEG-EST ADCT ANO-1989 ART-00006 PAR-ÚNICO ART-00053 (CES), (PB).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

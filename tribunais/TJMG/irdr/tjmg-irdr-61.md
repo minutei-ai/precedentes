@@ -1,9 +1,9 @@
 # TJMG · IRDR 61
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 61
-- **Identificador na fonte:** `tjmg-irdr-61`
+- **Identificador:** `tjmg-irdr-61`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 15/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=61)
@@ -16,4 +16,4 @@ recurso em que se discute: saber se "há possibilidade, ou não, da limitação 
 
 - [12064817720198130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000190402453002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

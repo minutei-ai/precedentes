@@ -1,10 +1,10 @@
 # STF · ADI 5348
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5348
-- **Identificador na fonte:** `stf-adi-5348`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5348`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/11/2019
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5348)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00005 INC-00012 INC-00022 INC-00054 ART-00037 "CAPUT" PA
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=751490343)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

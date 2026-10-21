@@ -1,9 +1,9 @@
 # TJSP · IRDR 45
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 45
-- **Identificador na fonte:** `tjsp-irdr-45`
+- **Identificador:** `tjsp-irdr-45`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=45)
@@ -27,4 +27,4 @@ relacionados à propriedade intelectual e industrial - Artigo 53, III, "a" do C�
 
 - [00115020420218260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0011502-04.2021&foroNumeroUnificado=0000&dePesquisaNuUnificado=0011502-04.2021.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_9747bc1e1e204bcfac2b6b0a33afa389&g-recaptcha-response=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

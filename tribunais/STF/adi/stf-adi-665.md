@@ -1,10 +1,10 @@
 # STF · ADI 665
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 665
-- **Identificador na fonte:** `stf-adi-665`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-665`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/09/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=665)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED CF ANO-1988 ART-00025 ART-00032 PAR-00001 ART-00039 ART-00040 INC-00003 LET-B ART-00061 PAR-00001 INC-00002 LET-A LET-C ART-00103 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00038 CF-1988. LEG-EST LEI-000066 ANO-1989 ART-00012 PAR-00002 (DF). LEG-EST LEI-000165 ANO-1991 (DF), INCONSTITUCIONALIDADE. LEG-FED RES-002872 ANO-1990 (FEDF).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

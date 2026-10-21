@@ -1,10 +1,10 @@
 # STF · ADI 768
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 768
-- **Identificador na fonte:** `stf-adi-768`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-768`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/10/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=768)
 
@@ -20,4 +20,4 @@ Após os votos dos Ministros Relator e Francisco Rezek, deferindo a medida caute
 
 LEG-FED CF ANO-1988 ART-00005 INC-00036 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008177 ANO-1991 ART-00026
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

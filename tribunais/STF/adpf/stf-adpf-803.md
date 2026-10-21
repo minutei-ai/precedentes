@@ -1,10 +1,10 @@
 # STF · ADPF 803
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 803
-- **Identificador na fonte:** `stf-adpf-803`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-803`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 12/05/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=803)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009882 ANO-1999 ART-00004 PAR-00001 LEI ORDINÁRIA LEG-FED SUMSTF-00
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755906406)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

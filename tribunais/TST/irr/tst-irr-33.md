@@ -1,9 +1,9 @@
 # TST · IRR 33
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 33
-- **Identificador na fonte:** `tst-irr-33`
+- **Identificador:** `tst-irr-33`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=33)
@@ -21,4 +21,4 @@ Quais critérios quantitativos e/ou qualitativos devem ser considerados para ide
 - [00106761320245030016](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0010676-13.2024.5.03.0016/3)
 - [00002176420245120027](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0000217-64.2024.5.12.0027/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

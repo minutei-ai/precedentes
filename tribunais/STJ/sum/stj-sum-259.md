@@ -1,9 +1,9 @@
 # STJ · SUM 259
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 259
-- **Identificador na fonte:** `stj-sum-259`
+- **Identificador:** `stj-sum-259`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=259)
@@ -12,4 +12,4 @@
 
 A ação de prestação de contas pode ser proposta pelo titular de conta-corrente bancária.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

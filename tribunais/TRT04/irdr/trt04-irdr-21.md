@@ -1,9 +1,9 @@
 # TRT04 · IRDR 21
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 21
-- **Identificador na fonte:** `trt04-irdr-21`
+- **Identificador:** `trt04-irdr-21`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=21)
@@ -20,4 +20,4 @@ Inadimplemento de verbas trabalhistas durante a contratualidade, posteriormente 
 - 00206721720205040026
 - [00217205520215040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021720-55.2021.5.04.0000/2#d7adbc4)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPI · IRDR 5
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjpi-irdr-5`
+- **Identificador:** `tjpi-irdr-5`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 10/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=5)
@@ -20,4 +20,4 @@ Fixar entendimento quanto à legitimidade e competência para julgamento dos pro
 
 - 07572082020238180000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

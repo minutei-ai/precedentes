@@ -1,9 +1,9 @@
 # TJRO · IRDR 16
 
-- **Tribunal:** TJRO
+- **Órgão:** TJRO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `tjro-irdr-16`
+- **Identificador:** `tjro-irdr-16`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjro&tipo=IRDR&nr=16)
@@ -25,4 +25,4 @@ Uniformizar o entendimento das Câmaras Cíveis quanto à ¿Legalidade ou não d
 
 - 08046734320258220000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

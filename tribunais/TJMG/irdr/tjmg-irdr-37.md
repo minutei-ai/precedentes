@@ -1,9 +1,9 @@
 # TJMG · IRDR 37
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 37
-- **Identificador na fonte:** `tjmg-irdr-37`
+- **Identificador:** `tjmg-irdr-37`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/03/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=37)
@@ -20,4 +20,4 @@ O Poder Judiciário não pode anular o ato administrativo de reprovação do can
 
 - [04674766020178130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10024121052559002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

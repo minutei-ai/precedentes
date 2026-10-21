@@ -1,10 +1,10 @@
 # STF · ADI 1367
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1367
-- **Identificador na fonte:** `stf-adi-1367`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1367`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 29/02/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1367)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou prejudicada a ação direta e, em cons
 
 LEG-EST LEI-009250 ANO-1995 ART-00004 (SP). LEG-EST DEC-040604 ANO-1995 (SP). LEG-EST ANT-091177 ANO-1990 CORREGEDOR-GERAL DA JUSTIÇA, (SP).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

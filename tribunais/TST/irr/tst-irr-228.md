@@ -1,9 +1,9 @@
 # TST · IRR 228
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 228
-- **Identificador na fonte:** `tst-irr-228`
+- **Identificador:** `tst-irr-228`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=228)
@@ -20,4 +20,4 @@ O tempo do aviso prévio, mesmo indenizado, conta-se para efeito da indenizaçã
 
 - [00003126020245120006](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00003126020245120006)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

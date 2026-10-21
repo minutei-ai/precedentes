@@ -1,10 +1,10 @@
 # STF · ADI 2645
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2645
-- **Identificador na fonte:** `stf-adi-2645`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2645`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/11/2004
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2645)
 
@@ -20,4 +20,4 @@ Após o voto do Senhor Ministro Sepúlveda Pertence, Relator, não conhecendo da
 
 LEG-FED CF ANO-1988 ART-00041 PAR-00003 REDAÇÃO DADA PELA EMC-19/1998 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000019 ANO-1998 EMENDA CONSTITUCIONAL LEG-EST LEI-000152 ANO-1990 ANEXO I, SUBANEXOS 22, 23, 24, 25 LEI ORDINÁRIA, TO LEG-EST LEI-000230 ANO-1990 ART-00O78 PAR-00002 ART-00080 ART-00084 ART-00085 ART-00087 LEI ORGÂNICA DO TRIBUNAL DE CONTAS, TO LEG-EST LEI-000816 ANO-1996 ART-00096 LEI ORGÂNICA DO TRIBUNAL DE CONTAS, TO LEG-EST LEI-000842 ANO-1996 ART-00091 LEI ORGÂNICA DO TRIBUNAL DE CONTAS, TO LEG-EST LEI-001284 ANO-2001 ART-00140 PAR-00001 ART-00144 ART-00170 LEI ORGÂNICA DO TRIBUNAL DE CONTAS, TO LEG-EST PRT-000011 ANO-2002 PORTARIA,TO LEG-EST RES-000008 ANO-1993 ART-00008 INC-00007 ART-00106 RESOLUÇÃO, REGIMENTO INTERNO DO TRIBUNAL DE CONTAS, TO
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

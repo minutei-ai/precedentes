@@ -1,9 +1,9 @@
 # STJ · RR 978
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 978
-- **Identificador na fonte:** `stj-rr-978`
+- **Identificador:** `stj-rr-978`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 29/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=978)
@@ -17,4 +17,6 @@ Definir o termo inicial do prazo prescricional para o ajuizamento de ação inde
 - [00021028620138110024](https://processo.stj.jus.br/processo/pesquisa/?termo=201700861141&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00035231420138110024](https://processo.stj.jus.br/processo/pesquisa/?termo=201700861189&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPA · NT 4
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `tjpa-nt-4`
+- **Identificador:** `tjpa-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=4)
@@ -25,4 +25,4 @@ COMPETÊNCIA HÍBRIDA DOS JUIZADOS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A 
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=1130265)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IAC 2
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 2
-- **Identificador na fonte:** `tst-iac-2`
+- **Identificador:** `tst-iac-2`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IAC&nr=2)
@@ -21,4 +21,4 @@ Gestante. Trabalho Temporário. Lei 6.019/1974. Garantia Provisória de Emprego.
 - [00056393120135512005](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=5639&digitoTst=31&anoTst=2013&orgaoTst=5&tribunalTst=&varaTst=&submit=Consultar)
 - [10000591220205020382](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=1000059&digitoTst=12&anoTst=2020&orgaoTst=5&tribunalTst=02&varaTst=0382&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJDF · IRDR 1
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjdf-irdr-1`
+- **Identificador:** `tjdf-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 29/01/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ II) O encargo do art. 42 da CTDF, executado em conjunto com o crédito tributár
   
 III)A Vara de Execuções Fiscais do DF é competente para execução da totalidade do encargo de 10% previsto no art. 42, § 2º, do CTDF.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

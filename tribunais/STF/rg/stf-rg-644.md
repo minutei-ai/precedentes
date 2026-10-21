@@ -1,9 +1,9 @@
 # STF · RG 644
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 644
-- **Identificador na fonte:** `stf-rg-644`
+- **Identificador:** `stf-rg-644`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=644)
@@ -20,4 +20,4 @@ A imunidade tributária recíproca reconhecida à Empresa Brasileira de Correios
 
 - [773992](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4469716)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

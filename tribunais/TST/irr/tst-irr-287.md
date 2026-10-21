@@ -1,9 +1,9 @@
 # TST · IRR 287
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 287
-- **Identificador na fonte:** `tst-irr-287`
+- **Identificador:** `tst-irr-287`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=287)
@@ -20,4 +20,4 @@ Da extinção do último contrato começa a fluir o prazo prescricional da prete
 
 - [00100462920175150028](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0010046-29.2017.5.15.0028)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

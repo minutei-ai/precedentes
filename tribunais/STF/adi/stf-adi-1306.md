@@ -1,10 +1,10 @@
 # STF · ADI 1306
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1306
-- **Identificador na fonte:** `stf-adi-1306`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1306`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/06/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1306)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o pedido de medida liminar. Votou o
 
 LEG-FED CF ANO-1988 ART-00037 INC-00007 ART-00061 INC-00003 LET-C ART-00063 INC-00001 ART-00084 INC-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST DEL-004264 ANO-1995 ART-00001 INC-00001 INC-00002 INC-00003 INC-00004 ART-00002 ART-00003 ART-00004 (BA).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

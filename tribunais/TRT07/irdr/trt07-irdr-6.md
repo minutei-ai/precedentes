@@ -1,9 +1,9 @@
 # TRT07 · IRDR 6
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `trt07-irdr-6`
+- **Identificador:** `trt07-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ Nos termos do Tema 222 do STF e Lei nº 4.860/1965, a verba "adicional de riscos
 
 - [00001872220225070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0000187-22.2022.5.07.0000/2#2766e32)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 16
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 16
-- **Identificador na fonte:** `tst-irr-16`
+- **Identificador:** `tst-irr-16`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=16)
@@ -20,4 +20,4 @@ I. O Agente de Apoio Socioeducativo (nomenclatura que, a partir do Decreto nº 5
 
 - [10017966020145020382](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=1001796&digitoTst=60&anoTst=2014&orgaoTst=5&tribunalTst=02&varaTst=0382&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

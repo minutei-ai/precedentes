@@ -1,9 +1,9 @@
 # TRF01 · IRDR 81
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 81
-- **Identificador na fonte:** `trf01-irdr-81`
+- **Identificador:** `trf01-irdr-81`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 16/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=81)
@@ -22,4 +22,4 @@ Discute-se sobre a incidência de efeitos prescricionais aplicados ao seguro-def
 - 10194025520234019999
 - 10079995520244019999
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

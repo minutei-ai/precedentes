@@ -1,9 +1,9 @@
 # TJSC · NT 1
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjsc-nt-1`
+- **Identificador:** `tjsc-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=1)
@@ -47,4 +47,4 @@ municípios, facilitando a disseminação das práticas aqui elencadas.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/NCI+-+215+-+NOTAS+TE%CC%81CNICAS+-+01-2022.pdf/80f1ca4a-b9cc-5c05-a65f-8178fb1dbe2a?t=1661808149309)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

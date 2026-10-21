@@ -1,10 +1,10 @@
 # STF · ADI 3150
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3150
-- **Identificador na fonte:** `stf-adi-3150`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3150`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/12/2018
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3150)
 
@@ -26,4 +26,4 @@ LEG-FED CF ANO-1988 ART-00005 INC-00037 INC-00039 INC-00040 INC-00045 INC-00046 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=750449016)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADPF 1139
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 1139
-- **Identificador na fonte:** `stf-adpf-1139`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-1139`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=1139)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-013105 ANO-2015 ART-01021 PAR-00001 ART-01024 PAR-00003 CPC-2015 CÓ
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=776927225)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

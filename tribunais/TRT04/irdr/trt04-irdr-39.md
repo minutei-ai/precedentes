@@ -1,9 +1,9 @@
 # TRT04 · IRDR 39
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 39
-- **Identificador na fonte:** `trt04-irdr-39`
+- **Identificador:** `trt04-irdr-39`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 16/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=39)
@@ -16,4 +16,4 @@ Deve prevalecer o prazo específico do art. 847, parágrafo único, da CLT, que 
 
 - [00207494120255040029](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0020749-41.2025.5.04.0029/2#3499d43)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

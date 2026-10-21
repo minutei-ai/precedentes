@@ -1,9 +1,9 @@
 # TST · IRR 261
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 261
-- **Identificador na fonte:** `tst-irr-261`
+- **Identificador:** `tst-irr-261`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=261)
@@ -20,4 +20,4 @@ As empresas de crédito, financiamento ou investimento, também denominadas fina
 
 - [00202455020235040661](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00202455020235040661)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

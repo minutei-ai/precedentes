@@ -1,9 +1,9 @@
 # STJ · RR 335
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 335
-- **Identificador na fonte:** `stj-rr-335`
+- **Identificador:** `stj-rr-335`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=335)
@@ -20,4 +20,10 @@ A partir da vigência do art. 31 da Lei 8.212/91, com a redação dada pela Lei 
 
 - [00025133120004013700](https://processo.stj.jus.br/processo/pesquisa/?termo=200900581380&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

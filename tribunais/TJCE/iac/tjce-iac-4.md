@@ -1,9 +1,9 @@
 # TJCE · IAC 4
 
-- **Tribunal:** TJCE
+- **Órgão:** TJCE
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjce-iac-4`
+- **Identificador:** `tjce-iac-4`
 - **Situação na fonte:** Sobrestado por tema do STJ
 - **Atualização informada pela fonte:** 12/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjce&tipo=IAC&nr=4)
@@ -16,4 +16,4 @@ Discute-se a exequibilidade do valor ofertado por licitante a título de taxa de
 
 - 06286714920178060000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJCE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

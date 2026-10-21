@@ -1,9 +1,9 @@
 # TRT11 · NT 14
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Nota Técnica
 - **Número:** 14
-- **Identificador na fonte:** `trt11-nt-14`
+- **Identificador:** `trt11-nt-14`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 19/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=NT&nr=14)
@@ -22,4 +22,4 @@ https://drive.google.com/file/d/1GXJcLxFFWK2nCT2BzFSNa3xX61OLSbX4/view
 
 - [Link Nota Técnica](https://drive.google.com/file/d/1GXJcLxFFWK2nCT2BzFSNa3xX61OLSbX4/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

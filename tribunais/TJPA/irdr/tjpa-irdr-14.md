@@ -1,9 +1,9 @@
 # TJPA · IRDR 14
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `tjpa-irdr-14`
+- **Identificador:** `tjpa-irdr-14`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 10/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IRDR&nr=14)
@@ -16,4 +16,4 @@ A necessidade, ou não, de apresentação concomitante, pela parte recorrente, d
 
 - [08132884420258140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08132884420258140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

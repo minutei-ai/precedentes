@@ -1,9 +1,9 @@
 # TRT07 · IAC 6
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `trt07-iac-6`
+- **Identificador:** `trt07-iac-6`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 18/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IAC&nr=6)
@@ -20,4 +20,4 @@ ED COM EFEITO MODIFICATIVO PARA REFORMULAR A TESE JURÍDICA VINCULANTE DO ACÓRD
 
 - [00004106720255070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0000410-67.2025.5.07.0000/2#c02d0d0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

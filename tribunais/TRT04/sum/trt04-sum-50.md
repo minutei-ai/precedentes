@@ -1,9 +1,9 @@
 # TRT04 · SUM 50
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 50
-- **Identificador na fonte:** `trt04-sum-50`
+- **Identificador:** `trt04-sum-50`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=50)
@@ -21,4 +21,4 @@ RESPONSABILIDADE CIVIL. DANO MORAL. CORREÇÃO MONETÁRIA. TERMO INICIAL. Fixada
 - [00758009620065040451](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/J7GPw2KzPeXaVnacH8zIJA)
 - [00349001720065040372](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/Rf3EkPvib2QVPXLf-CB0_A)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

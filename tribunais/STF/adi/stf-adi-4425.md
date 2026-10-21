@@ -1,10 +1,10 @@
 # STF · ADI 4425
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4425
-- **Identificador na fonte:** `stf-adi-4425`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4425`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/03/2013
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4425)
 
@@ -22,4 +22,4 @@ LEG-IMP CIB ANO-1824 ART-00174 ART-00175 ART-00176 ART-00177 ART-00179 INC-00003
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=5067184)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

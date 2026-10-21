@@ -1,10 +1,10 @@
 # STF · ADI 399
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 399
-- **Identificador na fonte:** `stf-adi-399`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-399`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 12/09/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=399)
 
@@ -20,4 +20,4 @@ O Tribunal, por votação unânime, julgou prejudicada a ação e, conseqüentem
 
 LEG-FED ADCT ANO-1988 ART-00058 (CF-1988). LEG-FED MPR-000249 ANO-1990 ART-00006 LEG-FED LEI-008114 ANO-1990
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

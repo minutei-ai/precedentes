@@ -1,9 +1,9 @@
 # STJ · CT 303
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 303
-- **Identificador na fonte:** `stj-ct-303`
+- **Identificador:** `stj-ct-303`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=303)
@@ -23,4 +23,14 @@ Saber se é imprescritível - ou não - a pretensão de expedição de novo prec
 - [08105980320204050000](https://processo.stj.jus.br/processo/pesquisa/?termo=202101145318&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08046707120204050000](https://processo.stj.jus.br/processo/pesquisa/?termo=202100849547&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Saber se é imprescritível - ou não - a pretensão de expedição de novo precatório ou RPV após o cancelamento estabelecido pelo art. 2ª da Lei n. 13.463/2017.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

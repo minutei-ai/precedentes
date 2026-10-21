@@ -1,9 +1,9 @@
 # TST · IRR 213
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 213
-- **Identificador na fonte:** `tst-irr-213`
+- **Identificador:** `tst-irr-213`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 19/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=213)
@@ -16,4 +16,4 @@ Diante da tese de repercussão geral (Tema 1046) fixada pelo STF de que “São 
 
 - [00111531620235030034](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0011153-16.2023.5.03.0034/3#cbd31aa)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 270
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 270
-- **Identificador na fonte:** `tst-irr-270`
+- **Identificador:** `tst-irr-270`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=270)
@@ -20,4 +20,4 @@ Preenchidos os requisitos do art. 3º da CLT, é legítimo o reconhecimento de r
 
 - [10010780220235020462](http://pje.tst.jus.br/consultaprocessual/detalhe-processo/10010780220235020462)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

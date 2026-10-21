@@ -1,9 +1,9 @@
 # TST · IRR 161
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 161
-- **Identificador na fonte:** `tst-irr-161`
+- **Identificador:** `tst-irr-161`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=161)
@@ -20,4 +20,4 @@ A não concessão do intervalo para recuperação térmica ao empregado exposto 
 
 - [00003182620235230126](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000318-26.2023.5.23.0126/3#9dd2f3b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

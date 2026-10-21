@@ -1,9 +1,9 @@
 # TJTO · NT 92022
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Nota Técnica
 - **Número:** 92022
-- **Identificador na fonte:** `tjto-nt-92022`
+- **Identificador:** `tjto-nt-92022`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=NT&nr=92022)
@@ -24,4 +24,4 @@ Cível. Desª. Relª. Maysa Vendramini. Julgado em: 20/11/2019).
 
 - [Link Nota Técnica](https://www.tjto.jus.br/cinugep/notas-tecnicas?layout=columns)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

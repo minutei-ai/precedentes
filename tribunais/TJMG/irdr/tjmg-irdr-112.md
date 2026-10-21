@@ -1,9 +1,9 @@
 # TJMG · IRDR 112
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 112
-- **Identificador na fonte:** `tjmg-irdr-112`
+- **Identificador:** `tjmg-irdr-112`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 19/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=112)
@@ -16,4 +16,4 @@ Recurso em que se discute a existência ou não de preterição de candidatos ex
 
 - [30931198720248130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000242654135002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

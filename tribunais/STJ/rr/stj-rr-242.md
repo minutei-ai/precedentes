@@ -1,9 +1,9 @@
 # STJ · RR 242
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 242
-- **Identificador na fonte:** `stj-rr-242`
+- **Identificador:** `stj-rr-242`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=242)
@@ -20,4 +20,10 @@ As atividades de panificação e de congelamento de produtos perecíveis", 'roti
 
 - [01052890720068190001](https://processo.stj.jus.br/processo/pesquisa/?termo=200900995515&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

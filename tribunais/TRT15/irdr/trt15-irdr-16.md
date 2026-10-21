@@ -1,9 +1,9 @@
 # TRT15 · IRDR 16
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `trt15-irdr-16`
+- **Identificador:** `trt15-irdr-16`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 13/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=16)
@@ -16,4 +16,4 @@ Pagamento da evolução funcional pela via não acadêmica aos funcionários mem
 
 - [00088833020195150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0008883-30.2019.5.15.0000/2#5da9006)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

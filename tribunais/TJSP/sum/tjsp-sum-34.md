@@ -1,9 +1,9 @@
 # TJSP · SUM 34
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 34
-- **Identificador na fonte:** `tjsp-sum-34`
+- **Identificador:** `tjsp-sum-34`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=34)
@@ -16,4 +16,4 @@ O empregado do metrô não tem direito à complementação de aposentadoria "ex 
 
 - [90904450420068260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RMZ00RVOT0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

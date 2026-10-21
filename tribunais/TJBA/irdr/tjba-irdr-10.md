@@ -1,9 +1,9 @@
 # TJBA · IRDR 10
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjba-irdr-10`
+- **Identificador:** `tjba-irdr-10`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=10)
@@ -21,4 +21,4 @@ Nos termos do art. 506, do Novo CPC, que estabelece o limite subjetivo da coisa 
 
 - [00145664620178050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

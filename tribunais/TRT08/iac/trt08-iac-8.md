@@ -1,9 +1,9 @@
 # TRT08 · IAC 8
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `trt08-iac-8`
+- **Identificador:** `trt08-iac-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IAC&nr=8)
@@ -20,4 +20,4 @@ Incumbe à Justiça do Trabalho a competência para conhecer e julgar a pretens�
 
 - [00020886120235080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0002088-61.2023.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

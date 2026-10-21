@@ -1,9 +1,9 @@
 # TRT22 · IRDR 2
 
-- **Tribunal:** TRT22
+- **Órgão:** TRT22
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `trt22-irdr-2`
+- **Identificador:** `trt22-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 14/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt22&tipo=IRDR&nr=2)
@@ -21,4 +21,4 @@ EXIGÊNCIA DE AVALIAÇÃO DE DESEMPENHO E DISPONIBILIDADE ORÇAMENTÁRIA PARA FI
 - [00023994020155220001](https://pje.trt22.jus.br/consultaprocessual/detalhe-processo/0002399-40.2015.5.22.0001/2)
 - [00804079720165220000](https://pje.trt22.jus.br/consultaprocessual/detalhe-processo/0080407-97.2016.5.22.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT22/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

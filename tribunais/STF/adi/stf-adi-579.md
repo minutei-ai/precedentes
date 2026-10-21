@@ -1,10 +1,10 @@
 # STF · ADI 579
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 579
-- **Identificador na fonte:** `stf-adi-579`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-579`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=579)
 
@@ -20,4 +20,4 @@ Após o voto do Ministro Relator, não conhecendo da ação e julgando prejudica
 
 LEG-FED EMC-000001 ANO-1969 ART-00008 INC-00017 LET-H CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00024 INC-00004 PAR-00002 ART-00102 INC-00001 LET-A ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00295 INC-00003 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-EST LEI-007989 ANO-1985 (alterada pela Lei-8203/86), (RS) LEG-FED LEI-004771 ANO-1965 (alterada pela Lei-7803/89). CFL-1965 CÓDIGO FLORESTAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

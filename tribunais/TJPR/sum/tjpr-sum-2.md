@@ -1,9 +1,9 @@
 # TJPR · SUM 2
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 2
-- **Identificador na fonte:** `tjpr-sum-2`
+- **Identificador:** `tjpr-sum-2`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=2)
@@ -18,4 +18,4 @@ As custas serão pagas:
 3º) em proporção, quando o preço oferecido for recusado, apresentando o réu outro,  
 igualmente, não fixado pela decisão".
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

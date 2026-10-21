@@ -1,9 +1,9 @@
 # TRF03 · NT 23
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 23
-- **Identificador na fonte:** `trf03-nt-23`
+- **Identificador:** `trf03-nt-23`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=23)
@@ -26,4 +26,4 @@ Diante desse cenário, a Nota Técnica conclui que não há mais qualquer justif
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/SEI_11194934_Nota_Tecnica_NI_CLISP_23_2024.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 7042
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 7042
-- **Identificador na fonte:** `stf-adi-7042`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-7042`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 31/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7042)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1946 ART-00141 PAR-00003 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED C
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=765828894)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

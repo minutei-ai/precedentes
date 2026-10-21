@@ -1,9 +1,9 @@
 # TJRJ · IRDR 11
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjrj-irdr-11`
+- **Identificador:** `tjrj-irdr-11`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=11)
@@ -20,4 +20,4 @@ Tese 1 - A Gratificação de Titularidade criada pela Lei nº 3.893/2002 e parci
 
 - [00656941820178190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2017.291.00056)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

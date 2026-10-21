@@ -1,10 +1,10 @@
 # STF · ADI 5874
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5874
-- **Identificador na fonte:** `stf-adi-5874`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5874`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/05/2019
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5874)
 
@@ -22,4 +22,4 @@ LEG-IMP CF ANO-1824 ART-00098 ART-00101 INC-00008 INC-00009 CONSTITUIÇÃO FEDER
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754291421)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

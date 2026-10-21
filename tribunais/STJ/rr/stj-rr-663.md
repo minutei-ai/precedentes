@@ -1,9 +1,9 @@
 # STJ · RR 663
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 663
-- **Identificador na fonte:** `stj-rr-663`
+- **Identificador:** `stj-rr-663`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=663)
@@ -18,4 +18,6 @@ Discussão: aplicabilidade da Súmula 389/STJ à exibição incidental de docume
 - [03317849220128217000](https://processo.stj.jus.br/processo/pesquisa/?termo=201300017061&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00135995420118070000](https://processo.stj.jus.br/processo/pesquisa/?termo=201300156575&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

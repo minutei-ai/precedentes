@@ -1,9 +1,9 @@
 # TST · IRR 15
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 15
-- **Identificador na fonte:** `tst-irr-15`
+- **Identificador:** `tst-irr-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=15)
@@ -20,4 +20,4 @@ Diante das naturezas jurídicas diversas do Adicional de Atividade de Distribui�
 
 - [00017576820155060371](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=1757&digitoTst=68&anoTst=2015&orgaoTst=5&tribunalTst=06&varaTst=0371&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

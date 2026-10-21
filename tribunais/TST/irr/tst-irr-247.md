@@ -1,9 +1,9 @@
 # TST · IRR 247
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 247
-- **Identificador na fonte:** `tst-irr-247`
+- **Identificador:** `tst-irr-247`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=247)
@@ -20,4 +20,4 @@ A redução da carga horária do professor, em virtude da diminuição do númer
 
 - [00104702320215180004](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00104702320215180004)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

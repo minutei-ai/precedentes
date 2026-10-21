@@ -1,9 +1,9 @@
 # TJGO · SUM 25
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 25
-- **Identificador na fonte:** `tjgo-sum-25`
+- **Identificador:** `tjgo-sum-25`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 07/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=25)
@@ -16,4 +16,4 @@ Faz jus à gratuidade da justiça a pessoa, natural ou jurídica, que comprovar 
 
 - 00039867720168090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

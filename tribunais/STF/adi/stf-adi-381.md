@@ -1,10 +1,10 @@
 # STF · ADI 381
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 381
-- **Identificador na fonte:** `stf-adi-381`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-381`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=381)
 
@@ -20,4 +20,4 @@ Após o voto do Sr. Ministro Relator que não conhecia da ação, o julgamento f
 
 LEG-FED CF ANO-1988 ART-00028 ART-00045 ART-00077 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004737 ANO-1965 ART-00106 PAR-ÚNICO CEL-1965 CÓDIGO ELEITORAL LEG-FED RES-016640 ANO-1990 ART-00047 (TSE).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

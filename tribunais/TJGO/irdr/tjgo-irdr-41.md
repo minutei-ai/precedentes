@@ -1,9 +1,9 @@
 # TJGO · IRDR 41
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 41
-- **Identificador na fonte:** `tjgo-irdr-41`
+- **Identificador:** `tjgo-irdr-41`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 30/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=41)
@@ -20,4 +20,4 @@
 
 - 51793434620248090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJBA · IRDR 20
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `tjba-irdr-20`
+- **Identificador:** `tjba-irdr-20`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 13/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=20)
@@ -23,4 +23,4 @@ i. Possibilidade de declaração de violação à boa-fé objetiva quando da con
 - [80052179820228050001](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 - [80111565020218050080](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

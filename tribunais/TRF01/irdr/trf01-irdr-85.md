@@ -1,9 +1,9 @@
 # TRF01 · IRDR 85
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 85
-- **Identificador na fonte:** `trf01-irdr-85`
+- **Identificador:** `trf01-irdr-85`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 03/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=85)
@@ -16,4 +16,4 @@ Discute-se a legalidade e constitucionalidade da bonificação regional para ing
 
 - 10153019620234010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

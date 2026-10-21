@@ -1,9 +1,9 @@
 # TRT15 · IRDR 21
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 21
-- **Identificador na fonte:** `trt15-irdr-21`
+- **Identificador:** `trt15-irdr-21`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=21)
@@ -23,4 +23,4 @@ Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização
 - [00094632620205150000](http://https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0009463-26.2020.5.15.0000/2#71788f8)
 - [00059857320215150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0005985-73.2021.5.15.0000/2#6e9175e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

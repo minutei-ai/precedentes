@@ -1,10 +1,10 @@
 # STF · ADI 2402
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2402
-- **Identificador na fonte:** `stf-adi-2402`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2402`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2402)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00002 ART-00005 "CAPUT" INC-00022 INC-00023 ART-00006 AR
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=769855553)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

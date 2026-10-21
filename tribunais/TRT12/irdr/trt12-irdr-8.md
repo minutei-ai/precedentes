@@ -1,9 +1,9 @@
 # TRT12 · IRDR 8
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `trt12-irdr-8`
+- **Identificador:** `trt12-irdr-8`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=8)
@@ -20,4 +20,4 @@ TESE JURÍDICA Nº 5 EM IRDR: "HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA DEVIDOS
 
 - [00007597320185120001](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/00007597320185120001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

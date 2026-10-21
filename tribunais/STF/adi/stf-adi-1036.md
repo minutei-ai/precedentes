@@ -1,10 +1,10 @@
 # STF · ADI 1036
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1036
-- **Identificador na fonte:** `stf-adi-1036`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1036`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/03/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1036)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal indeferiu o pedido de medida cautelar, vencidos
 
 LEG-FED DEL-003689 ANO-1941 ART-00370 PAR-00002 CPP-1941 CÓDIGO DE PROCESSO PENAL REDAÇÃO DA LEI-8701/93. LEG-FED LEI-008701 ANO-1993
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

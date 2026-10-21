@@ -1,9 +1,9 @@
 # TST · IRR 171
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 171
-- **Identificador na fonte:** `tst-irr-171`
+- **Identificador:** `tst-irr-171`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=171)
@@ -20,4 +20,4 @@ A atividade de varrição de ruas, por envolver o contato com o lixo urbano, dá
 
 - [00102877220225150013](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0010287-72.2022.5.15.0013/3#55852ef)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

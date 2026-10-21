@@ -1,9 +1,9 @@
 # TJPE · SUM 184
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 184
-- **Identificador na fonte:** `tjpe-sum-184`
+- **Identificador:** `tjpe-sum-184`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=184)
@@ -16,4 +16,4 @@ O fato de o promitente comprador adquirir o imóvel em incorporação imobiliár
 
 - [01364967220188172001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/01364967220188172001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

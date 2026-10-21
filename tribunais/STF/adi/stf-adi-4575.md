@@ -1,10 +1,10 @@
 # STF · ADI 4575
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4575
-- **Identificador na fonte:** `stf-adi-4575`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4575`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 10/02/2017
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4575)
 
@@ -22,4 +22,4 @@ LEG-EST CES ANO-1989 ART-00064 REVOGADO PELA EMC-106/2015 CONSTITUIÇÃO ESTADUA
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=12474451)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

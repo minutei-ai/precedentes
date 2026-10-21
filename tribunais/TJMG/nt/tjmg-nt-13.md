@@ -1,9 +1,9 @@
 # TJMG · NT 13
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `tjmg-nt-13`
+- **Identificador:** `tjmg-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=13)
@@ -23,4 +23,4 @@ Recomenda, ainda, a celebração de cooperação entre o TJMG e o TCE-MG, visand
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC80C28F31C681018F963A333E3C54)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

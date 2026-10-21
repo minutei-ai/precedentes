@@ -1,9 +1,9 @@
 # TJGO · IRDR 39
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 39
-- **Identificador na fonte:** `tjgo-irdr-39`
+- **Identificador:** `tjgo-irdr-39`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 20/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=39)
@@ -16,4 +16,4 @@ Definir se a progressão vertical prevista em lei do Município de Alto Horizont
 
 - 52428472820228090170
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

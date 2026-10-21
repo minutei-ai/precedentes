@@ -1,9 +1,9 @@
 # TRT15 · IRDR 47
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 47
-- **Identificador na fonte:** `trt15-irdr-47`
+- **Identificador:** `trt15-irdr-47`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=47)
@@ -21,4 +21,4 @@ Refere-se à tese jurídica n.º 47 deste Egrégio Tribunal.
 
 - [00185286920255150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018528-69.2025.5.15.0000/2#44a5ad0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

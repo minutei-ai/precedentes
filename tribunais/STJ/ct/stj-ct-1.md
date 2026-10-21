@@ -1,9 +1,9 @@
 # STJ · CT 1
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 1
-- **Identificador na fonte:** `stj-ct-1`
+- **Identificador:** `stj-ct-1`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=1)
@@ -22,4 +22,14 @@ Validade da cláusula contratual de plano de saúde que prevê o aumento da mens
 - [00472302720138240038](https://processo.stj.jus.br/processo/pesquisa/?termo=201602794910&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00056566320138240025](https://processo.stj.jus.br/processo/pesquisa/?termo=201602784986&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Validade da cláusula contratual de plano de saúde que prevê o aumento da mensalidade conforme a mudança de faixa etária do usuário na modalidade dos planos de saúde coletivos.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

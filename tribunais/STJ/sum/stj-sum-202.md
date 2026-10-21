@@ -1,9 +1,9 @@
 # STJ · SUM 202
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 202
-- **Identificador na fonte:** `stj-sum-202`
+- **Identificador:** `stj-sum-202`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=202)
@@ -12,4 +12,4 @@
 
 A impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

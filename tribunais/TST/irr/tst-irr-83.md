@@ -1,9 +1,9 @@
 # TST · IRR 83
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 83
-- **Identificador na fonte:** `tst-irr-83`
+- **Identificador:** `tst-irr-83`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=83)
@@ -20,4 +20,4 @@ A cobrança de mensalidades ou de coparticipação dos empregados ativos e apose
 
 - [01007978920215010035](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0100797-89.2021.5.01.0035/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

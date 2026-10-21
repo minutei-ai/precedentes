@@ -1,9 +1,9 @@
 # STJ · CT 333
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 333
-- **Identificador na fonte:** `stj-ct-333`
+- **Identificador:** `stj-ct-333`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=333)
@@ -28,4 +28,14 @@ A operadora do plano de saúde é - ou não - obrigada a cobrir tratamento médi
 - [10309189720198110041](https://processo.stj.jus.br/processo/pesquisa/?termo=202102262017&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00008994520198110003](https://processo.stj.jus.br/processo/pesquisa/?termo=202102261081&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+A operadora do plano de saúde é - ou não - obrigada a cobrir tratamento médico e/ou medicamentos que não estejam listados no rol da Agência Nacional de Saúde - ANS.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

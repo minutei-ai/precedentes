@@ -1,9 +1,9 @@
 # STF · RG 1366
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1366
-- **Identificador na fonte:** `stf-rg-1366`
+- **Identificador:** `stf-rg-1366`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1366)
@@ -20,4 +20,4 @@ Responsabilidade por danos materiais em transporte aéreo internacional de carga
 
 - [1520841](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7067180)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

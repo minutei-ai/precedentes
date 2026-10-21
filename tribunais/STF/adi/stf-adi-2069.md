@@ -1,10 +1,10 @@
 # STF · ADI 2069
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2069
-- **Identificador na fonte:** `stf-adi-2069`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2069`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/02/2000
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2069)
 
@@ -20,4 +20,4 @@ O Tribunal, por maioria, vencidos os Senhores Ministros Marco Aurélio e Sepúlv
 
 LEG-FED CF ANO-1967 ART-00207 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00022 INC-00025 ART-00025 PAR-00001 ART-00037 INC-00001 INC-00002 ART-00236 PAR-00001 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008935 ANO-1994 ART-00003 ART-00014 ART-00015 ART-00016 ART-00017 ART-00018 LEI DOS CARTÓRIOS LEI ORDINÁRIA LEG-EST LEI-010340 ANO-1999 ART-00002 PAR-00001 PAR-00002 ART-00007 PAR-ÚNICO LET-A LET-B LEI ORDINÁRIA, SP LEG-EST PRV-000612 ANO-1998 PROVIMENTO DO TRIBUNAL DE JUSTIÇA, SP
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

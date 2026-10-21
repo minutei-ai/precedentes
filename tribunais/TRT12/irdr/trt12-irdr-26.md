@@ -1,9 +1,9 @@
 # TRT12 · IRDR 26
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 26
-- **Identificador na fonte:** `trt12-irdr-26`
+- **Identificador:** `trt12-irdr-26`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=26)
@@ -21,4 +21,4 @@ MANDADO DE SEGURANÇA. PROCESSO JUDICIAL ELETRÔNICO - PJE. AUTENTICAÇÃO OU DE
 
 - [00020717720245120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0002071-77.2024.5.12.0000/2#429704b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

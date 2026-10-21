@@ -1,9 +1,9 @@
 # TJPA · IRDR 11
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjpa-irdr-11`
+- **Identificador:** `tjpa-irdr-11`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 22/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IRDR&nr=11)
@@ -16,4 +16,4 @@ a) Se os tratamentos fisioterapêuticos pelos métodos Therasuit, Pediasuit, Pen
 
 - [08139910920248140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08139910920248140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

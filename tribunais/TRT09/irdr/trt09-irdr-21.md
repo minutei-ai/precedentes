@@ -1,9 +1,9 @@
 # TRT09 · IRDR 21
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 21
-- **Identificador na fonte:** `trt09-irdr-21`
+- **Identificador:** `trt09-irdr-21`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 28/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=21)
@@ -21,4 +21,4 @@ Telefônica Brasil S.A. Diferenças de PIV e de Extra Bônus e reflexos.
 
 - [00034258720255090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0003425-87.2025.5.09.0000/2#b52df3e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

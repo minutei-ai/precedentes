@@ -1,10 +1,10 @@
 # STF · ADI 721
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 721
-- **Identificador na fonte:** `stf-adi-721`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-721`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/03/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=721)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente a ação e declarou a incon
 
 LEG-FED LEI-007730 ANO-1989 LEG-FED DEL-002425 ANO-1988 ART-00001 LEG-FED RES-000472 ANO-1991 (TRE), (MG), INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

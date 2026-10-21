@@ -1,9 +1,9 @@
 # STJ · CT 361
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 361
-- **Identificador na fonte:** `stj-ct-361`
+- **Identificador:** `stj-ct-361`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=361)
@@ -19,4 +19,14 @@ Possibilidade de utilização, pela Administração, de valores do transporte de
 - [08010852820204058401](https://processo.stj.jus.br/processo/pesquisa/?termo=202102685213&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08014412320204058401](https://processo.stj.jus.br/processo/pesquisa/?termo=202102685237&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Possibilidade de utilização, pela Administração, de valores do transporte de aplicativo de mobilidade urbana (UBER, 99POP, etc.), para fins de servir como parâmetro para o cálculo do auxílio-transporte.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRR · IRDR 12
 
-- **Tribunal:** TJRR
+- **Órgão:** TJRR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjrr-irdr-12`
+- **Identificador:** `tjrr-irdr-12`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrr&tipo=IRDR&nr=12)
@@ -16,4 +16,4 @@ Definir o alcance da restrição recursal prevista no art. 382, §4º, do Códig
 
 - 08455601220258230010
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

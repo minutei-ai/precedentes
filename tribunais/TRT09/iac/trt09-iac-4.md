@@ -1,9 +1,9 @@
 # TRT09 · IAC 4
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `trt09-iac-4`
+- **Identificador:** `trt09-iac-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=4)
@@ -21,4 +21,4 @@ Possibilidade, ou não, de conhecimento do recurso por ausência de procuração
 
 - [00013996320185090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001399-63.2018.5.09.0000/2#6a10604)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

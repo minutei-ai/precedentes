@@ -1,9 +1,9 @@
 # TJRJ · IRDR 38
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 38
-- **Identificador na fonte:** `tjrj-irdr-38`
+- **Identificador:** `tjrj-irdr-38`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 19/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=38)
@@ -20,4 +20,4 @@ Ressalvados os recursos já distribuídos e aprevenção deles decorrente, os no
 
 - [00324863320238190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2023.291.00020)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

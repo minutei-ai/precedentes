@@ -1,10 +1,10 @@
 # STF · ADI 997
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 997
-- **Identificador na fonte:** `stf-adi-997`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-997`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/03/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=997)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou improcedente a ação, nos termos do v
 
 LEG-FED CF ANO-1824 ART-00178 CF-1824 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00045 PAR-00001 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000078 ANO-1993 ART-00002 PAR-ÚNICO ART-00003
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

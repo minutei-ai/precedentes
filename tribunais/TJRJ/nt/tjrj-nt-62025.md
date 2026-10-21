@@ -1,9 +1,9 @@
 # TJRJ · NT 62025
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 62025
-- **Identificador na fonte:** `tjrj-nt-62025`
+- **Identificador:** `tjrj-nt-62025`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=62025)
@@ -41,4 +41,4 @@ Diante do exposto, determina-se o encaminhamento desta nota técnica com as segu
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/d/centro-de-inteligencia/nota-tecnica-n-06-2025)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

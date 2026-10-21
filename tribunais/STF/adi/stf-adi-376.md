@@ -1,10 +1,10 @@
 # STF · ADI 376
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 376
-- **Identificador na fonte:** `stf-adi-376`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-376`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/10/1990
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=376)
 
@@ -20,4 +20,4 @@ Apresentado o feito em Mesa o julgamento foi adiado em virtude do adiantado da h
 
 LEG-FED CF ANO-1988 ART-00039 ART-00061 PAR-00001 INC-00001 INC-00002 LET-A ART-00063 INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LCP-000038 ANO-1990 ART-00002 INC-00001 LET-B LET-C ART-00003 PAR-00003 ART-00008 PAR-ÚNICO ART-00009 ART-00013 RO.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

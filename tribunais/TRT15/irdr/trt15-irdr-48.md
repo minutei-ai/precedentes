@@ -1,9 +1,9 @@
 # TRT15 · IRDR 48
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 48
-- **Identificador na fonte:** `trt15-irdr-48`
+- **Identificador:** `trt15-irdr-48`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=48)
@@ -21,4 +21,4 @@ Refere-se à tese jurídica n.º 48 deste Egrégio Tribunal.
 
 - [00185295420255150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018529-54.2025.5.15.0000/2#c6a859c)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

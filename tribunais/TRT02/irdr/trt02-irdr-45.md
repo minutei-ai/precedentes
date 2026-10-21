@@ -1,9 +1,9 @@
 # TRT02 · IRDR 45
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 45
-- **Identificador na fonte:** `trt02-irdr-45`
+- **Identificador:** `trt02-irdr-45`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 19/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=IRDR&nr=45)
@@ -16,4 +16,4 @@ Limites subjetivos, objetivos e temporais da coisa julgada coletiva formada no D
 
 - [10015912520245020012](https://pje.trt2.jus.br/consultaprocessual/detalhe-processo/1001591-25.2024.5.02.0012/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

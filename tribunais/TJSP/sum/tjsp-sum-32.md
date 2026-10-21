@@ -1,9 +1,9 @@
 # TJSP · SUM 32
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 32
-- **Identificador na fonte:** `tjsp-sum-32`
+- **Identificador:** `tjsp-sum-32`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/02/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=32)
@@ -12,4 +12,4 @@
 
 Inaplicável o disposto no recurso de revista nº 9.859/74 após a lei nº 8.213/91.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

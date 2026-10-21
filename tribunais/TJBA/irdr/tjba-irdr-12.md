@@ -1,9 +1,9 @@
 # TJBA · IRDR 12
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjba-irdr-12`
+- **Identificador:** `tjba-irdr-12`
 - **Situação na fonte:** Acórdão Publicado (AREsp Pendente)
 - **Atualização informada pela fonte:** 07/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=12)
@@ -20,4 +20,4 @@ NÃO CONSTITUI PROVA INEQUÍVOCA DE PRETERIÇÃO A CANDIDATOS EM CONCURSO PÚBLI
 
 - [05006964820138050150](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

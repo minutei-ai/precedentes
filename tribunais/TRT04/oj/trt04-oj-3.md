@@ -1,9 +1,9 @@
 # TRT04 · OJ 3
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 3
-- **Identificador na fonte:** `trt04-oj-3`
+- **Identificador:** `trt04-oj-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=3)
@@ -18,4 +18,4 @@ APLICAÇÃO DO ART. 354 DO CÓDIGO CIVIL. (Alterada pela Resolução Administrat
 - [00167003420055040812](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/ZBBNT5-Z9BpBQXOt96uwRA)
 - [01948006819925040811](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/UBPCdTjqLHLxqK0RTHyoqg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

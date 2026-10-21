@@ -1,9 +1,9 @@
 # TST · IRR 313
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 313
-- **Identificador na fonte:** `tst-irr-313`
+- **Identificador:** `tst-irr-313`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 16/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=313)
@@ -16,4 +16,4 @@ APOSENTADORIA ESPONTÂNEA. UNICIDADE DO CONTRATO DE TRABALHO. MULTA DE 40% DO FG
 
 - [00007661220235050122](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00007661220235050122)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

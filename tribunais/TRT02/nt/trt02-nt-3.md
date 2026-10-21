@@ -1,9 +1,9 @@
 # TRT02 · NT 3
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `trt02-nt-3`
+- **Identificador:** `trt02-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=NT&nr=3)
@@ -28,4 +28,4 @@ II. o encaminhamento da nota técnica aprovada ao Gabinete da Presidência para 
 
 - [Link Nota Técnica](https://basis.trt2.jus.br/handle/123456789/14950)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

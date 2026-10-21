@@ -1,9 +1,9 @@
 # TST · IRR 248
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 248
-- **Identificador na fonte:** `tst-irr-248`
+- **Identificador:** `tst-irr-248`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=248)
@@ -20,4 +20,4 @@ A exposição do empregado à radiação ionizante ou à substância radioativa 
 
 - [00105027320225030048](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00105027320225030048)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

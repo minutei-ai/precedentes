@@ -1,9 +1,9 @@
 # TJBA · IRDR 812
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 812
-- **Identificador na fonte:** `tjba-irdr-812`
+- **Identificador:** `tjba-irdr-812`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=812)
@@ -16,4 +16,4 @@ Cinge-se a controvérsia acerca da possibilidade ou não de admissão de telas s
 
 - [00730813720188050001](https://projudi.tjba.jus.br/projudi/interno.jsp?endereco=/projudi/buscas/ProcessosParte)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

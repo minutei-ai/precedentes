@@ -1,9 +1,9 @@
 # STJ · CT 629
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 629
-- **Identificador na fonte:** `stj-ct-629`
+- **Identificador:** `stj-ct-629`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=629)
@@ -16,4 +16,14 @@ Relativização da presunção de violência em casos de prática da conjunção
 
 - [00186715120158130570](https://processo.stj.jus.br/processo/pesquisa/?termo=202400698809&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Relativização  da  presunção  de  violência  em  casos  de prática  da  conjunção  carnal  ou  ato  libidinoso  diverso  com  pessoa  menor  de 14 (quatorze) anos, quando surge um núcleo familiar do relacionamento afetivo entre a vítima e o acusado, bem como nos casos em que a diferença de idade entre eles seja ínfima.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

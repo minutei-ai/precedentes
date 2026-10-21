@@ -1,9 +1,9 @@
 # TJES · NT 72025
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Nota Técnica
 - **Número:** 72025
-- **Identificador na fonte:** `tjes-nt-72025`
+- **Identificador:** `tjes-nt-72025`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=NT&nr=72025)
@@ -22,4 +22,4 @@ O referido Sistema constitui-se em um mecanismo de auxílio à atividade jurisdi
 
 - [Link Nota Técnica](https://www.tjes.jus.br/wp-content/uploads/NOTA-TECNICA-07.2025-GERENCIAMENTO-DAS-ACOES-COLETIVAS-ESTADUAIS.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

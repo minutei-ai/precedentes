@@ -1,9 +1,9 @@
 # TRT20 · IRDR 3
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `trt20-irdr-3`
+- **Identificador:** `trt20-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ A ampliação do contrato social da empresa para fazer constar, em seu objeto so
 
 - [00003414820205200000](https://pje.trt20.jus.br/consultaprocessual/detalhe-processo/0000341-48.2020.5.20.0000/2#4913ac5)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

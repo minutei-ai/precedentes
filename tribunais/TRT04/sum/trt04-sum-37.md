@@ -1,9 +1,9 @@
 # TRT04 · SUM 37
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 37
-- **Identificador na fonte:** `trt04-sum-37`
+- **Identificador:** `trt04-sum-37`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=37)
@@ -32,4 +32,4 @@ HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA E DE ASSISTÊNCIA JUDICIÁRIA. BASE DE
 - [00566018319975040005](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/_wuCbYxKee5E-d5tWHh4eA)
 - [00028005619965040017](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/XUnGttQhRGDAJVoPMFr8LA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 854
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 854
-- **Identificador na fonte:** `stf-rg-854`
+- **Identificador:** `stf-rg-854`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=854)
@@ -20,4 +20,4 @@ Salvo em situações excepcionais devidamente comprovadas, serviço público de 
 
 - [1001104](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5062517)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

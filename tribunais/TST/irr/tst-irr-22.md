@@ -1,9 +1,9 @@
 # TST · IRR 22
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 22
-- **Identificador na fonte:** `tst-irr-22`
+- **Identificador:** `tst-irr-22`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=22)
@@ -16,4 +16,4 @@ FUNDAÇÃO CASA - PLANO DE SAÚDE; POSSIBILIDADE DE REDUÇÃO DA FONTE DE CUSTEI
 
 - [10017404920195020318](https://consultaprocessual.tst.jus.br/consultaProcessual/resumoForm.do?consulta=1&numeroInt=104496&anoInt=2021)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

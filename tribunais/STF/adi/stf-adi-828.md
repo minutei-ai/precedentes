@@ -1,10 +1,10 @@
 # STF · ADI 828
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 828
-- **Identificador na fonte:** `stf-adi-828`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-828`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 27/05/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=828)
 
@@ -20,4 +20,4 @@ O Tribunal deferiu pedido, formulado pelo Procurador-Geral da República, de adi
 
 LEG-FED EMC-000001 ANO-1992 LEG-EST LCP-000063 ANO-1990 ART-00003 INC-00007 RJ. LEG-EST RES-108370 ANO-1992 RES-108370-3, TRIBUNAL DE CONTAS, RJ. LEG-EST DLB-000045 ANO-1982 ART-00010 INC-00002 LET-B TRIBUNAL DE CONTAS, RJ. LEG-EST DLB-000167 ANO-1992 ART-00068 PAR-00003 TRIBUNAL DE CONTAS, RJ.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

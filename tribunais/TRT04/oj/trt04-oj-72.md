@@ -1,9 +1,9 @@
 # TRT04 · OJ 72
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 72
-- **Identificador na fonte:** `trt04-oj-72`
+- **Identificador:** `trt04-oj-72`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=72)
@@ -18,4 +18,4 @@ VAGA DE GARAGEM OU ESTACIONAMENTO EM CONDOMÍNIOS. PENHORA. É possível a penho
 - [00000676120125040404](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/HDW3CdbMxH4WpyVqY6yBjA)
 - [00933006420075040024](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/xsqz9vtOQx4uZjtFnDCghA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJES · IRDR 119
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 119
-- **Identificador na fonte:** `tjes-irdr-119`
+- **Identificador:** `tjes-irdr-119`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=119)
@@ -17,4 +17,4 @@ Possibilidade de reconhecimento da presunção iuris tantum da declaração de h
 - [00233943820188080024](https://pje.tjes.jus.br/pje/ConsultaPublica/listView.seam?numProcesso-inputNumeroProcesso=00233943820188080024)
 - [50065750820218080000](https://pje.tjes.jus.br/pje2g/ConsultaPublica/listView.seam?numProcesso-inputNumeroProcesso=50065750820218080000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

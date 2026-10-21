@@ -1,9 +1,9 @@
 # STF · RG 958
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 958
-- **Identificador na fonte:** `stf-rg-958`
+- **Identificador:** `stf-rg-958`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=958)
@@ -20,4 +20,4 @@ Aplicação do art. 2º, § 4º, da Lei federal n. 11.738/2008, que dispõe sobr
 
 - [936790](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4899570)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

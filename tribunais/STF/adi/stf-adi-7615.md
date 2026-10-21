@@ -1,10 +1,10 @@
 # STF · ADI 7615
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 7615
-- **Identificador na fonte:** `stf-adi-7615`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-7615`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7615)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00021 INC-00001 ART-00022 INC-00001 ART-00024 PAR-00001 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=777861546)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

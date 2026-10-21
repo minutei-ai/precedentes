@@ -1,10 +1,10 @@
 # STF · ADI 2763
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2763
-- **Identificador na fonte:** `stf-adi-2763`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2763`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/10/2004
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2763)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00093 "CAPUT" ART-00120 PAR-00001 INC-00001 ART-00121 CF
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266922)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

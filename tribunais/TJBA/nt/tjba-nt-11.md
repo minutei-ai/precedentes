@@ -1,9 +1,9 @@
 # TJBA · NT 11
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `tjba-nt-11`
+- **Identificador:** `tjba-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 11/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=11)
@@ -32,4 +32,4 @@ Sob essa perspectiva, o objetivo da presente Nota Técnica é chamar a atenção
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-pn011-2023/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

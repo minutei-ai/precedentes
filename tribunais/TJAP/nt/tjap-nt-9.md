@@ -1,9 +1,9 @@
 # TJAP · NT 9
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `tjap-nt-9`
+- **Identificador:** `tjap-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=9)
@@ -37,4 +37,4 @@ Esta nota técnica é fruto de uma ação dialogal e cooperativa entre o CEIJAP 
 
 - [Link Nota Técnica](https://www.tjap.jus.br/portal/images/documentos/CEIJAP/NT_09_2024-TJAP-PROUNIJUD-PUBLICADA.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

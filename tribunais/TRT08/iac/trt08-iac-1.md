@@ -1,9 +1,9 @@
 # TRT08 · IAC 1
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt08-iac-1`
+- **Identificador:** `trt08-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ Admite-se notificação inicial por edital em processo submetido ao rito sumarí
 
 - [00006743820175080000](http://https://pje.trt8.jus.br/consultaprocessual/pages/consultas/DetalhaProcesso.seam?p_num_pje=37950&p_grau_pje=2&popup=0&dt_autuacao=&cid=28634)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJAP · IAC 4
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `tjap-iac-4`
+- **Identificador:** `tjap-iac-4`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 06/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IAC&nr=4)
@@ -16,4 +16,4 @@ Observância dos critérios estabelecidos com relação ao procedimento de carac
 
 - 00014213120238030011
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

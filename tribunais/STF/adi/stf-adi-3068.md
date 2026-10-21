@@ -1,10 +1,10 @@
 # STF · ADI 3068
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3068
-- **Identificador na fonte:** `stf-adi-3068`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3068`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 25/08/2004
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3068)
 
@@ -20,4 +20,4 @@ O Tribunal, por unanimidade, rejeitou as preliminares de prejuízo da ação e d
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 INC-00009 INC-00021 ART-00247 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008745 ANO-1993 ART-00002 LEG-FED LEI-008884 ANO-1994 ART-0081A LEG-FED LEI-010843 ANO-2004 ART-0081A (Redação dada pela MPR-136/2003) LEG-FED MPR-000136 ANO-2003
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

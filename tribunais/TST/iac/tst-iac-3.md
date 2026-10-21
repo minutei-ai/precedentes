@@ -1,9 +1,9 @@
 # TST · IAC 3
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `tst-iac-3`
+- **Identificador:** `tst-iac-3`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IAC&nr=3)
@@ -16,4 +16,4 @@
 
 - [00007199720215080001](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000719-97.2021.5.08.0001/3#ffee4af)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

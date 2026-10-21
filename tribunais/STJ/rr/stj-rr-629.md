@@ -1,9 +1,9 @@
 # STJ · RR 629
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 629
-- **Identificador na fonte:** `stj-rr-629`
+- **Identificador:** `stj-rr-629`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=629)
@@ -21,4 +21,10 @@ A ausência de conteúdo probatório eficaz a instruir a inicial, conforme deter
 - [00221629120104039999](https://processo.stj.jus.br/processo/pesquisa/?termo=201202342171&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00211310220114039999](https://processo.stj.jus.br/processo/pesquisa/?termo=201202341213&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

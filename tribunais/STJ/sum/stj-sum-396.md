@@ -1,9 +1,9 @@
 # STJ · SUM 396
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 396
-- **Identificador na fonte:** `stj-sum-396`
+- **Identificador:** `stj-sum-396`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=396)
@@ -12,4 +12,4 @@
 
 A Confederação Nacional da Agricultura tem legitimidade ativa para a cobrança da contribuição sindical rural.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

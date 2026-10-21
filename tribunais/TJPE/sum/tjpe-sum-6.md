@@ -1,9 +1,9 @@
 # TJPE · SUM 6
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 6
-- **Identificador na fonte:** `tjpe-sum-6`
+- **Identificador:** `tjpe-sum-6`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 20/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=6)
@@ -20,4 +20,4 @@ Compete às Varas da Fazenda Pública processar e julgar não só os inventário
 - [00059143719998170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00059143719998170000)
 - [00060711019998170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00060711019998170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

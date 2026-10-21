@@ -1,9 +1,9 @@
 # TST · IRR 89
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 89
-- **Identificador na fonte:** `tst-irr-89`
+- **Identificador:** `tst-irr-89`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 06/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=89)
@@ -16,4 +16,4 @@
 
 - [00002978420235090661](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000297-84.2023.5.09.0661/3#98933bb)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

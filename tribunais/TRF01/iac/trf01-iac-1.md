@@ -1,9 +1,9 @@
 # TRF01 · IAC 1
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trf01-iac-1`
+- **Identificador:** `trf01-iac-1`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ Não houve fixação de tese propriamente dita, mas decisão da Terceira Seção
 
 - 00464085820124013300
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

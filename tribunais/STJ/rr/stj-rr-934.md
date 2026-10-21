@@ -1,9 +1,9 @@
 # STJ · RR 934
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 934
-- **Identificador na fonte:** `stj-rr-934`
+- **Identificador:** `stj-rr-934`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=934)
@@ -20,4 +20,10 @@ Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por br
 
 - 03599512420128190001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

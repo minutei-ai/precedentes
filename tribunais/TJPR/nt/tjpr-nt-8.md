@@ -1,9 +1,9 @@
 # TJPR · NT 8
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `tjpr-nt-8`
+- **Identificador:** `tjpr-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=NT&nr=8)
@@ -36,4 +36,4 @@ Pelo contrário, o importante, neste momento é a coleta de dados socioeconômic
 
 - [Link Nota Técnica](https://www.tjpr.jus.br/documents/d/centro-de-inteligencia/nota-008-superendividamento)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

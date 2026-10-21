@@ -1,9 +1,9 @@
 # TST · IRR 25
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 25
-- **Identificador na fonte:** `tst-irr-25`
+- **Identificador:** `tst-irr-25`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=25)
@@ -20,4 +20,4 @@ Em quais hipóteses é válida a transmudação do regime jurídico, de celetist
 - [00006716720225090651](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0000671-67.2022.5.09.0651/3)
 - [00006702620225090023](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0000670-26.2022.5.09.0023/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

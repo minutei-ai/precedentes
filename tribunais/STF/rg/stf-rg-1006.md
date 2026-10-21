@@ -1,9 +1,9 @@
 # STF · RG 1006
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1006
-- **Identificador na fonte:** `stf-rg-1006`
+- **Identificador:** `stf-rg-1006`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1006)
@@ -20,4 +20,4 @@ Aplicação de juros de mora e de multa moratória sobre créditos de contribui�
 
 - [1070334](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5250390)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

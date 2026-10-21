@@ -1,9 +1,9 @@
 # TRT21 · IRDR 12
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `trt21-irdr-12`
+- **Identificador:** `trt21-irdr-12`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 25/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=IRDR&nr=12)
@@ -16,4 +16,4 @@ A verba denominada "Premiação Vendas" (rubrica 11037), paga pela Caixa Econôm
 
 - 00013277220255210008
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

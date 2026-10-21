@@ -1,9 +1,9 @@
 # TJPR · SUM 30
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 30
-- **Identificador na fonte:** `tjpr-sum-30`
+- **Identificador:** `tjpr-sum-30`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=30)
@@ -15,4 +15,4 @@ indenização do seguro DPVAT deverá ser proporcional ao grau do dano sofrido, 
 mensuração carecerá de exame realizado perante o Instituto Médico Legal, ou, em  
 sua ausência, através de perito indicado pelo juízo.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

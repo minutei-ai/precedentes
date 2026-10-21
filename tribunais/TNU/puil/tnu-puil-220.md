@@ -1,9 +1,9 @@
 # TNU · PUIL 220
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 220
-- **Identificador na fonte:** `tnu-puil-220`
+- **Identificador:** `tnu-puil-220`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=220)
@@ -20,4 +20,4 @@ Saber se o rol do inciso II do art. 26 c/c art. 151 da Lei nº 8.213/91 é taxat
 
 - [50043769720174047113](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50043769720174047113)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMT · NT 22024
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Nota Técnica
 - **Número:** 22024
-- **Identificador na fonte:** `tjmt-nt-22024`
+- **Identificador:** `tjmt-nt-22024`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=NT&nr=22024)
@@ -25,4 +25,4 @@ Ao incentivar que as partes identifiquem a necessidade de sigilo desde o protoco
 
 - [Link Nota Técnica](https://centrodeinteligencia-mc.tjmt.jus.br/portalcentrodeinteligencia-arquivos-prod/cms/02_Nota_Tecnica_Insercao_de_dados_pessoais_sensiveis_no_inteiro_teor_de_pronunciamento_judicial_d728941028.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

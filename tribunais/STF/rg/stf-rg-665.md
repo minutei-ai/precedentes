@@ -1,9 +1,9 @@
 # STF · RG 665
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 665
-- **Identificador na fonte:** `stf-rg-665`
+- **Identificador:** `stf-rg-665`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=665)
@@ -20,4 +20,4 @@ São constitucionais a alíquota e a base de cálculo da contribuição ao PIS, 
 
 - [578846](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2597075)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 230
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 230
-- **Identificador na fonte:** `stf-adi-230`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-230`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 01/02/2010
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=230)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00041 REDAÇÃO ORIGINÁRIA ART-00041 REDAÇÃO DADA PEL
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=630104)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRJ · IRDR 33
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 33
-- **Identificador na fonte:** `tjrj-irdr-33`
+- **Identificador:** `tjrj-irdr-33`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 02/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=33)
@@ -16,4 +16,4 @@ Definição de tese, para uniformizar o entendimento em provimentos liminares, e
 
 - [00209580220238190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2023.291.00006)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

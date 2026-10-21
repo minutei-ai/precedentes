@@ -1,9 +1,9 @@
 # TJPE · SUM 180
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 180
-- **Identificador na fonte:** `tjpe-sum-180`
+- **Identificador:** `tjpe-sum-180`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=180)
@@ -17,4 +17,4 @@ O mero atraso na baixa do gravame após a quitação do financiamento garantido 
 - [00027386220178173090](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00027386220178173090)
 - [00162848420168171130](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00162848420168171130)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

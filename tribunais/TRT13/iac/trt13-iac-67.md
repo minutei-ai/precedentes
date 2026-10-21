@@ -1,9 +1,9 @@
 # TRT13 · IAC 67
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 67
-- **Identificador na fonte:** `trt13-iac-67`
+- **Identificador:** `trt13-iac-67`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=67)
@@ -20,4 +20,4 @@ REGIME JURÍDICO ÚNICO. TRANSMUDAÇÃO DE REGIME POR MEIO DE LEI. COMPETÊNCIA 
 
 - [00001272320185130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000127-23.2018.5.13.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

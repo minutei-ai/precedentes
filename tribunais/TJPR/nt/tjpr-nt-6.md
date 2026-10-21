@@ -1,9 +1,9 @@
 # TJPR · NT 6
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `tjpr-nt-6`
+- **Identificador:** `tjpr-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=NT&nr=6)
@@ -31,4 +31,4 @@ Na mesma linha, o Conselho Nacional de Justiça, na Recomendação ...
 
 - [Link Nota Técnica](https://www.tjpr.jus.br/documents/57363984/58857401/Nota+006.pdf/6a4d3ce8-ab89-d52d-3707-75f7a0f908b2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

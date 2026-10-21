@@ -1,9 +1,9 @@
 # TRF03 · IRDR 1
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trf03-irdr-1`
+- **Identificador:** `trf03-irdr-1`
 - **Situação na fonte:** Acórdão Publicado (AREsp Pendente)
 - **Atualização informada pela fonte:** 13/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ O redirecionamento de execução de crédito tributário da pessoa jurídica par
 
 - 00176109720164030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 192
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 192
-- **Identificador na fonte:** `tst-irr-192`
+- **Identificador:** `tst-irr-192`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=192)
@@ -20,4 +20,4 @@ A retenção injustificada da CTPS por tempo superior ao fixado na lei configura
 
 - [10014431520235020605](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1001443-15.2023.5.02.0605/3#bbef9de)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 6696
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6696
-- **Identificador na fonte:** `stf-adi-6696`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6696`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/08/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6696)
 
@@ -22,4 +22,4 @@ LEG-IMP CIB ANO-1824 CIB-1824 CONSTITUIÇÃO POLITICA DO IMPERIO DO BRAZIL LEG-F
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=758666361)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

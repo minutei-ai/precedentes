@@ -1,10 +1,10 @@
 # STF · ADI 129
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 129
-- **Identificador na fonte:** `stf-adi-129`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-129`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=129)
 
@@ -20,4 +20,4 @@ Após o voto do Sr. Ministro Relator indeferindo a medida liminar e do voto do S
 
 LEG-FED CF ANO-1988 ART-00236 PAR-00001 PAR-00002 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LCP-000539 ANO-1988 (SP). LEG-EST RES-000027 ANO-1989 (TJ, SP).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

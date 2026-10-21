@@ -1,9 +1,9 @@
 # TJES · IRDR 124
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 124
-- **Identificador na fonte:** `tjes-irdr-124`
+- **Identificador:** `tjes-irdr-124`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=124)
@@ -16,4 +16,4 @@ Possibilidade de recebimento de Recurso em Sentido Estrito (RESE) como Agravo de
 
 - [50043585720258080030](https://sistemas.tjes.jus.br/certidaonegativa/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

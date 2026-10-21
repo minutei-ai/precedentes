@@ -1,9 +1,9 @@
 # TRT13 · IAC 12
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 12
-- **Identificador na fonte:** `trt13-iac-12`
+- **Identificador:** `trt13-iac-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 19/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IAC&nr=12)
@@ -22,4 +22,4 @@ Constitui alteração unilateral, em afronta ao art. 468 da CLT, a suspensão da
 - [00007331120255130031](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000733-11.2025.5.13.0031/2#b0adc7b)
 - [00015377220255130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0001537-72.2025.5.13.0000/2#4c94dbc)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

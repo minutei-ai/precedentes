@@ -1,9 +1,9 @@
 # STJ · RR 779
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 779
-- **Identificador na fonte:** `stj-rr-779`
+- **Identificador:** `stj-rr-779`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=779)
@@ -20,4 +20,14 @@ Discute-se o conceito de insumo tal como empregado nas Leis 10.637/02 e 10.833/0
 
 - 00014574020094047005
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Questão
+
+Discute-se o conceito de insumo tal como empregado nas Leis 10.637/02 e 10.833/03 para o fim de definir o direito (ou não) ao crédito de PIS e COFINS dos valores incorridos na aquisição.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

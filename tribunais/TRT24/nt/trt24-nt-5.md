@@ -1,9 +1,9 @@
 # TRT24 · NT 5
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `trt24-nt-5`
+- **Identificador:** `trt24-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/05/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=5)
@@ -64,4 +64,4 @@ A responsabilidade, portanto, decorre unicamente do princípio da sucumbência o
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+5-2022+CIPJ+-+TRT24a+REGI%C3%83O.pdf/866099ab-4aab-474a-b929-5259d8a8791c?t=1656354357779)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

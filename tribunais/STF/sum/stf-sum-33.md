@@ -1,9 +1,9 @@
 # STF · SUM 33
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Súmula
 - **Número:** 33
-- **Identificador na fonte:** `stf-sum-33`
+- **Identificador:** `stf-sum-33`
 - **Situação na fonte:** APROVADO
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SUM&nr=33)
@@ -12,4 +12,4 @@
 
 A L. 1.741, de 22.11.52, é aplicável às autarquias federais.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1363
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1363
-- **Identificador na fonte:** `stj-rr-1363`
+- **Identificador:** `stj-rr-1363`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1363)
@@ -21,4 +21,12 @@ Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Infor
 - [15098976720228260014](https://processo.stj.jus.br/processo/pesquisa/?termo=202500928850&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [15031592920238260014](https://processo.stj.jus.br/processo/pesquisa/?termo=202402396461&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+### Questão
+
+Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

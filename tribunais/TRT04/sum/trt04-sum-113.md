@@ -1,9 +1,9 @@
 # TRT04 · SUM 113
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 113
-- **Identificador na fonte:** `trt04-sum-113`
+- **Identificador:** `trt04-sum-113`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=113)
@@ -19,4 +19,4 @@ MUNICÍPIO DE URUGUAIANA. MAGISTÉRIO. PERÍODO DE FÉRIAS. REDUÇÃO. A reduç�
 - [00013866620145040801](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/5lR0C_qPKpf7nAK2yQfAkQ)
 - [00006556720145040802](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/KTNQG_pIIyTnwU3ujfz5Ug)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

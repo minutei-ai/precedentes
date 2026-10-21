@@ -1,9 +1,9 @@
 # TST · IRR 94
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 94
-- **Identificador na fonte:** `tst-irr-94`
+- **Identificador:** `tst-irr-94`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=94)
@@ -17,4 +17,4 @@ A concessão do benefício da justiça gratuita a sindicato, na condição de su
 - [00105022320225030097](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0010502-23.2022.5.03.0097/3)
 - [01009723220225010073](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0100972-32.2022.5.01.0073/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

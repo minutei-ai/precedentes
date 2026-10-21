@@ -1,10 +1,10 @@
 # STF · ADI 122
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 122
-- **Identificador na fonte:** `stf-adi-122`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-122`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/03/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=122)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal julgou procedente a ação, para declarar a inc
 
 LEG-FED CF ANO-1988 ART-00037 ART-00039 ART-00040 INC-00003 LET-B ART-00041 ART-00202 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 ART-00165 INC-00020 CF-1969 CONSTITUIÇÃO FEDERAL REDAÇÃO DA EMC-18/81. LEG-EST CES ANO-1989 ART-00030 PAR-00004 SC, INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

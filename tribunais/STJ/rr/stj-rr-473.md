@@ -1,9 +1,9 @@
 # STJ · RR 473
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 473
-- **Identificador na fonte:** `stj-rr-473`
+- **Identificador:** `stj-rr-473`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=473)
@@ -20,4 +20,10 @@ O art. 5º da Lei 8.186/91 assegura o direito à complementação à pensão, na
 
 - [00071694320044058400](https://processo.stj.jus.br/processo/pesquisa/?termo=201001586743&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

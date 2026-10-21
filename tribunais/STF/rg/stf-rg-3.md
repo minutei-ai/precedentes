@@ -1,9 +1,9 @@
 # STF · RG 3
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 3
-- **Identificador na fonte:** `stf-rg-3`
+- **Identificador:** `stf-rg-3`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=3)
@@ -20,4 +20,4 @@ São inconstitucionais o parágrafo único do artigo 5º do Decreto-Lei 1.569/19
 
 - [559943](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2549236)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

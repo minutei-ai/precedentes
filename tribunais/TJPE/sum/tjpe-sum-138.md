@@ -1,9 +1,9 @@
 # TJPE · SUM 138
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 138
-- **Identificador na fonte:** `tjpe-sum-138`
+- **Identificador:** `tjpe-sum-138`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=138)
@@ -17,4 +17,4 @@ Sem a efetiva caracterização da ofensa ao direito de personalidade e a comprov
 - [00605190720118170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00605190720118170001)
 - [00002205920148170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00002205920148170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

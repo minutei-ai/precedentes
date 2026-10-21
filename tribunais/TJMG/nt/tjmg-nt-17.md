@@ -1,9 +1,9 @@
 # TJMG · NT 17
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 17
-- **Identificador na fonte:** `tjmg-nt-17`
+- **Identificador:** `tjmg-nt-17`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=17)
@@ -22,4 +22,4 @@ O documento também propõe diretrizes para o aperfeiçoamento da tramitação d
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC80D0993B1EB201995E68B39E3717)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

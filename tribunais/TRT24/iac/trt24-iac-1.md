@@ -1,9 +1,9 @@
 # TRT24 · IAC 1
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt24-iac-1`
+- **Identificador:** `trt24-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ CONTRIBUIÇÃO SINDICAL RURAL. CONSTITUIÇÃO DO CRÉDITO FISCAL. NOTIFICAÇÃO 
 
 - [00241874920215240000](http://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024187-49.2021.5.24.0000/2#b6fda7a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

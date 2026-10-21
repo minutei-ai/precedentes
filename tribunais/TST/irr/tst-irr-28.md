@@ -1,9 +1,9 @@
 # TST · IRR 28
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 28
-- **Identificador na fonte:** `tst-irr-28`
+- **Identificador:** `tst-irr-28`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 19/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=28)
@@ -21,4 +21,4 @@
 - [00002554420235170004](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0000255-44.2023.5.17.0004/3)
 - [00004733420235220101](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0000473-34.2023.5.22.0101/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

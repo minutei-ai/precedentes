@@ -1,10 +1,10 @@
 # STF · ADI 4643
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4643
-- **Identificador na fonte:** `stf-adi-4643`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4643`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/11/2014
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4643)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00073 ART-00075 ART-00096 INC-00002 LET-C LET-D ART-0010
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=7342646)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

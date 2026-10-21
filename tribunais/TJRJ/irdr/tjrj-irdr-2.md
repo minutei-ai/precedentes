@@ -1,9 +1,9 @@
 # TJRJ · IRDR 2
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjrj-irdr-2`
+- **Identificador:** `tjrj-irdr-2`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ I. Nas acões envolvendo a absorcão da GEAT diante do reajuste geral de 67,5% (
 
 - [00186088520168190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2016.291.00015)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

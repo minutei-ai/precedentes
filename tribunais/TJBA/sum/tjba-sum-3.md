@@ -1,9 +1,9 @@
 # TJBA · SUM 3
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 3
-- **Identificador na fonte:** `tjba-sum-3`
+- **Identificador:** `tjba-sum-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=3)
@@ -28,4 +28,4 @@ Os critérios para a fixação do regime de cumprimento de pena, bem como para s
 - 01174495420068050001
 - 01344155820078050001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

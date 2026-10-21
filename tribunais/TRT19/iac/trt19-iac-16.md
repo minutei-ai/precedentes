@@ -1,9 +1,9 @@
 # TRT19 · IAC 16
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 16
-- **Identificador na fonte:** `trt19-iac-16`
+- **Identificador:** `trt19-iac-16`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 28/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=16)
@@ -22,4 +22,4 @@ III. A disposição estatutária do SINTCOMARHP que abrange atividades e profiss
 
 - [00000707220255190006](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000070-72.2025.5.19.0006/2#6566b94)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

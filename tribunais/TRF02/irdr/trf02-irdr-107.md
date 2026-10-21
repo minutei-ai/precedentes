@@ -1,9 +1,9 @@
 # TRF02 · IRDR 107
 
-- **Tribunal:** TRF02
+- **Órgão:** TRF02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 107
-- **Identificador na fonte:** `trf02-irdr-107`
+- **Identificador:** `trf02-irdr-107`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 21/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf02&tipo=IRDR&nr=107)
@@ -20,4 +20,4 @@ Trata-se de Incidente de Resolução de Demandas Repetitivas (IRDR) suscitado co
   
 3\. É incabível a utilização do IRDR como sucedâneo recursal, após o esgotamento da jurisdição recursal ordinária.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

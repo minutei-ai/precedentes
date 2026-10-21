@@ -1,9 +1,9 @@
 # TJSE · IRDR 109
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 109
-- **Identificador na fonte:** `tjse-irdr-109`
+- **Identificador:** `tjse-irdr-109`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=109)
@@ -28,4 +28,4 @@ Definir se o plant? volunt?io do Servidor Policial Militar, na forma da Lei Comp
 - 00515659020248250001
 - 00035011520258250001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

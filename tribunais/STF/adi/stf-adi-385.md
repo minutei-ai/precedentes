@@ -1,10 +1,10 @@
 # STF · ADI 385
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 385
-- **Identificador na fonte:** `stf-adi-385`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-385`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/02/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=385)
 
@@ -20,4 +20,4 @@ Após o voto do Sr. Ministro Relator que não conhecia da ação, o julgamento f
 
 LEG-FED LEI-004737 ANO-1965 ART-00106 CEL-1965 CÓDIGO ELEITORAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

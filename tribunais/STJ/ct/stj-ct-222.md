@@ -1,9 +1,9 @@
 # STJ · CT 222
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 222
-- **Identificador na fonte:** `stj-ct-222`
+- **Identificador:** `stj-ct-222`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=222)
@@ -27,4 +27,14 @@ Responsabilidade da seguradora pelos vícios de construção nos contratos de se
 - [10013011020158260302](https://processo.stj.jus.br/processo/pesquisa/?termo=202001927115&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10012032320168260356](https://processo.stj.jus.br/processo/pesquisa/?termo=202001890893&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Responsabilidade da seguradora pelos vícios de construção nos contratos de seguro habitacional obrigatório vinculados a imóveis adquiridos pelo Sistema Financeiro de Habitação - SFH, ainda que tenham sido revelados após a extinção do contrato.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJPR · IRDR 2
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjpr-irdr-2`
+- **Identificador:** `tjpr-irdr-2`
 - **Situação na fonte:** Sobrestado por tema do STJ
 - **Atualização informada pela fonte:** 16/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=2)
@@ -16,4 +16,4 @@ a) A indevida cobrança de valores referentes à telefonia sem a solicitação d
 
 - [00165011320198160173](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0016501-13.2019.8.16.0173)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

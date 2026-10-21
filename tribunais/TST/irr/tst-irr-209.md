@@ -1,9 +1,9 @@
 # TST · IRR 209
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 209
-- **Identificador na fonte:** `tst-irr-209`
+- **Identificador:** `tst-irr-209`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 22/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=209)
@@ -16,4 +16,4 @@ O empregado que desempenha, em ambiente hospitalar, funções não relacionadas 
 
 - [00103223620245030097](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0010322-36.2024.5.03.0097/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

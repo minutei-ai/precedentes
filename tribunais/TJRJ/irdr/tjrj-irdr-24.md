@@ -1,9 +1,9 @@
 # TJRJ · IRDR 24
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 24
-- **Identificador na fonte:** `tjrj-irdr-24`
+- **Identificador:** `tjrj-irdr-24`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=24)
@@ -16,4 +16,4 @@ A licitude de plano de equacionamento de déficit atuarial referente ao plano de
 
 - [00402513120188190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2018.291.00018)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

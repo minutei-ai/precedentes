@@ -1,9 +1,9 @@
 # STJ · RR 921
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 921
-- **Identificador na fonte:** `stj-rr-921`
+- **Identificador:** `stj-rr-921`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=921)
@@ -22,4 +22,14 @@ Discute-se a validade do protesto do título por tabelionado localizado em comar
 
 - 00521519320118130106
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+1\. O tabelião, antes de intimar o devedor por edital, deve esgotar os meios de localização, notadamente por meio do envio de intimação por via postal, no endereço fornecido por aquele que procedeu ao apontamento do protesto; 2. É possível, à escolha do credor, o protesto de cédula de crédito bancário garantida por alienação fiduciária, no tabelionato em que se situa a praça de pagamento indicada no título ou no domicílio do devedor.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

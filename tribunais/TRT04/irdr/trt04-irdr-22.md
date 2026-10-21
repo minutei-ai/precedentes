@@ -1,9 +1,9 @@
 # TRT04 · IRDR 22
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 22
-- **Identificador na fonte:** `trt04-irdr-22`
+- **Identificador:** `trt04-irdr-22`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=22)
@@ -21,4 +21,4 @@ Os valores pagos pelo Banrisul a título de auxílio-moradia em decorrência do 
 - [00230773620225040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0023077-36.2022.5.04.0000/2#c29fb65)
 - [00211266020215040511](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021126-60.2021.5.04.0511/2#68d8088)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

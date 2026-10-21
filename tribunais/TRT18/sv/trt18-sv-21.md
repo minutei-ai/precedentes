@@ -1,9 +1,9 @@
 # TRT18 · SV 21
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Súmula Vinculante
 - **Número:** 21
-- **Identificador na fonte:** `trt18-sv-21`
+- **Identificador:** `trt18-sv-21`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=SV&nr=21)
@@ -17,4 +17,4 @@ Para o correto enquadramento sindical dos empregados das usinas de açúcar e á
 
 - [13792012422012](http://www1.trt18.jus.br/normasInternas/PA%201379-2012_%20MA%20042-2012.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

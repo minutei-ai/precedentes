@@ -1,9 +1,9 @@
 # TJSP · IRDR 12
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjsp-irdr-12`
+- **Identificador:** `tjsp-irdr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=12)
@@ -20,4 +20,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. FASE DE ADMISSIBILIDADE. Tema 
 
 - [00256904120178260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=F70F721D824C5A32F9907A46A1C02708.cposg5?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0025690-41.2017&foroNumeroUnificado=0000&dePesquisaNuUnificado=0025690-41.2017.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

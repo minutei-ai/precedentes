@@ -1,9 +1,9 @@
 # TRT09 · NT 11
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `trt09-nt-11`
+- **Identificador:** `trt09-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 16/04/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=11)
@@ -23,4 +23,4 @@ do E-RR-252-19.2017.5.13.0002, em sentido contrário, quanto ao seguinte tema: �
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8796823)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

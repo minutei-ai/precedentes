@@ -1,9 +1,9 @@
 # TJBA · IRDR 1912
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1912
-- **Identificador na fonte:** `tjba-irdr-1912`
+- **Identificador:** `tjba-irdr-1912`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=1912)
@@ -16,4 +16,4 @@ Cinge-se a controvérsia sobre a descontinuidade de abastecimento de água e ine
 
 - [00039778120178050230](https://projudi.tjba.jus.br/projudi/interno.jsp?endereco=/projudi/buscas/ProcessosParte)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

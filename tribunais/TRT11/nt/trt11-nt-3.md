@@ -1,9 +1,9 @@
 # TRT11 · NT 3
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `trt11-nt-3`
+- **Identificador:** `trt11-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/09/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=NT&nr=3)
@@ -22,4 +22,4 @@ https://portal.trt11.jus.br/images/arquivos/centro-de-inteligencia/notas-tecnica
 
 - [Link Nota Técnica](https://portal.trt11.jus.br/images/arquivos/centro-de-inteligencia/notas-tecnicas/NT3.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

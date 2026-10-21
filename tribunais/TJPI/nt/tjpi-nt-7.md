@@ -1,9 +1,9 @@
 # TJPI · NT 7
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `tjpi-nt-7`
+- **Identificador:** `tjpi-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 31/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=NT&nr=7)
@@ -52,4 +52,4 @@ Ademais, com base nas circunstâncias do caso concreto, o Magistrado pode propor
 
 - [Link Nota Técnica](https://www.tjpi.jus.br/portaltjpi/nugep/cijepi/notas-tecnicas/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · SUM 76
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 76
-- **Identificador na fonte:** `trt04-sum-76`
+- **Identificador:** `trt04-sum-76`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=76)
@@ -25,4 +25,4 @@ ADICIONAIS DE INSALUBRIDADE E PERICULOSIDADE. ACUMULAÇÃO. IMPOSSIBILIDADE. O p
 - [00009071920135040701](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/6AmdbvSngzQygybR_zqMcQ)
 - [00016438420125040341](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/h879gDprul29BrpzoQ3ONQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

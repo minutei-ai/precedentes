@@ -1,9 +1,9 @@
 # TST · IRR 254
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 254
-- **Identificador na fonte:** `tst-irr-254`
+- **Identificador:** `tst-irr-254`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=254)
@@ -20,4 +20,4 @@ Presume-se discriminatória a despedida de empregado portador do vírus HIV ou d
 
 - [00113491120225150026](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00113491120225150026)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 888
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 888
-- **Identificador na fonte:** `stf-adi-888`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-888`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 12/11/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=888)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o requerimento de medida cautelar. 
 
 LEG-FED CF ANO-1988 ART-00049 INC-00008 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-001206 ANO-1987 ART-00010 RJ. LEG-EST DEC-018702 ANO-1993 ART-00005 INC-00001 ART-00008 RJ.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

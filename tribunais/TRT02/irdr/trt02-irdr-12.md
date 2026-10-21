@@ -1,9 +1,9 @@
 # TRT02 · IRDR 12
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `trt02-irdr-12`
+- **Identificador:** `trt02-irdr-12`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 11/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=IRDR&nr=12)
@@ -24,4 +24,4 @@ Não admitido.
 - [10015419520225020714](https://pje.trt2.jus.br/consultaprocessual/detalhe-processo/10015419520225020714)
 - [10001861520245020703](https://pje.trt2.jus.br/consultaprocessual/detalhe-processo/1000186-15.2024.5.02.0703/1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

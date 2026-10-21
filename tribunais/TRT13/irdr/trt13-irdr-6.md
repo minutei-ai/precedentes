@@ -1,9 +1,9 @@
 # TRT13 · IRDR 6
 
-- **Tribunal:** TRT13
+- **Órgão:** TRT13
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `trt13-irdr-6`
+- **Identificador:** `trt13-irdr-6`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 29/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt13&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ Não houve fixação de tese, tendo em vista que o IRDR não foi admitido.
 
 - [00003624820225130000](https://pje.trt13.jus.br/consultaprocessual/detalhe-processo/0000362-48.2022.5.13.0000/2#4321ad7)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT13/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

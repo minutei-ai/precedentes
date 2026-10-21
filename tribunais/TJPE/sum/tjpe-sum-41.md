@@ -1,9 +1,9 @@
 # TJPE · SUM 41
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 41
-- **Identificador na fonte:** `tjpe-sum-41`
+- **Identificador:** `tjpe-sum-41`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=41)
@@ -17,4 +17,4 @@ Cabe agravo regimental de decisão que nega ou concede efeito suspensivo ou ativ
 - [00047719520088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00047719520088170000)
 - [00056333720068170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00056333720068170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

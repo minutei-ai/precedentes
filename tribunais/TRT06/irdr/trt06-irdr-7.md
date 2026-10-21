@@ -1,9 +1,9 @@
 # TRT06 · IRDR 7
 
-- **Tribunal:** TRT06
+- **Órgão:** TRT06
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt06-irdr-7`
+- **Identificador:** `trt06-irdr-7`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 26/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt06&tipo=IRDR&nr=7)
@@ -16,4 +16,4 @@ Aplica-se a teoria da responsabilidade civil objetiva nos casos de assalto e aci
 
 - [00019262320235060000](https://pje.trt6.jus.br/consultaprocessual/detalhe-processo/0001926-23.2023.5.06.0000/2#b6d84e6)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

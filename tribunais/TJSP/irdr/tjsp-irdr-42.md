@@ -1,9 +1,9 @@
 # TJSP · IRDR 42
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 42
-- **Identificador na fonte:** `tjsp-irdr-42`
+- **Identificador:** `tjsp-irdr-42`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=42)
@@ -16,4 +16,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. REVISÃO DE TESE JURÍDICA. TE
 
 - [00453224820208260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0045322-48.2020&foroNumeroUnificado=0000&dePesquisaNuUnificado=0045322-48.2020.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_b61db7044e5c4791b9407452c9dfeb50&g-recaptcha-response=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

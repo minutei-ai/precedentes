@@ -1,9 +1,9 @@
 # TJBA · SUM 14
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 14
-- **Identificador na fonte:** `tjba-sum-14`
+- **Identificador:** `tjba-sum-14`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=14)
@@ -21,4 +21,4 @@ para fins de constituição em mora do devedor fiduciário, ou daquele que figur
 - 00081828220088050000
 - 07339341820088130024
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

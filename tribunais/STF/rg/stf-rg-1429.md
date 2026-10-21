@@ -1,9 +1,9 @@
 # STF · RG 1429
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1429
-- **Identificador na fonte:** `stf-rg-1429`
+- **Identificador:** `stf-rg-1429`
 - **Situação na fonte:** Há repercussão geral. Leading case: afetado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1429)
@@ -16,4 +16,4 @@ Preservação da coisa julgada formada antes do julgamento da ADI 2.332 quanto a
 
 - [1474883](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6826144)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

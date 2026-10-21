@@ -1,10 +1,10 @@
 # STF · ADI 6357
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6357
-- **Identificador na fonte:** `stf-adi-6357`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6357`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/05/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6357)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00001 INC-00003 INC-00004 ART-00006 "CAPUT" ART-00037 "C
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754438956)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

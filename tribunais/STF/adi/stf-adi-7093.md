@@ -1,10 +1,10 @@
 # STF · ADI 7093
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 7093
-- **Identificador na fonte:** `stf-adi-7093`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-7093`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 17/12/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7093)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00062 "CAPUT" ART-00142 PAR-00003 INC-00010 CF-1988 CONS
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=765318558)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

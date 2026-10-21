@@ -1,9 +1,9 @@
 # TJRJ · IRDR 8
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `tjrj-irdr-8`
+- **Identificador:** `tjrj-irdr-8`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 21/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=8)
@@ -20,4 +20,4 @@ O "Adicional de Risco de Vida", pago aos Guardas Municipais do Município de Sã
 
 - [00234856820168190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2016.291.00029)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

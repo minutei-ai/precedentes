@@ -1,9 +1,9 @@
 # TST · IRR 282
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 282
-- **Identificador na fonte:** `tst-irr-282`
+- **Identificador:** `tst-irr-282`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=282)
@@ -20,4 +20,4 @@ MULTA CONVENCIONAL. DESCUMPRIMENTO DE OBRIGAÇÃO TAMBÉM PREVISTA EM LEI.
 
 - [00003418720245120046](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000341-87.2024.5.12.0046)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

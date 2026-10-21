@@ -1,10 +1,10 @@
 # STF · ADI 5311
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5311
-- **Identificador na fonte:** `stf-adi-5311`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5311`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/09/2015
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5311)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00152
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=10200931)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

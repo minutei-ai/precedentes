@@ -1,9 +1,9 @@
 # STF · RG 1277
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1277
-- **Identificador na fonte:** `stf-rg-1277`
+- **Identificador:** `stf-rg-1277`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1277)
@@ -20,4 +20,4 @@ O art. 3º, § 3º, da Lei 10.259/2001 é compatível com a Constituição Feder
 
 - [1426083](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6589768)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

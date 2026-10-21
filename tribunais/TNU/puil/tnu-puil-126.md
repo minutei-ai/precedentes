@@ -1,9 +1,9 @@
 # TNU · PUIL 126
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 126
-- **Identificador na fonte:** `tnu-puil-126`
+- **Identificador:** `tnu-puil-126`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=126)
@@ -20,4 +20,4 @@ Tese firmada no Tema 975/STJ: Aplica-se o prazo decadencial de dez anos estabele
 
 - [50172069820124047201](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50172069820124047201)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

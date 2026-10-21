@@ -1,9 +1,9 @@
 # TJBA · NT 1
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjba-nt-1`
+- **Identificador:** `tjba-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 06/08/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=1)
@@ -39,4 +39,4 @@ análise caberá ao magistrado/órgão julgador, em que tramita o processo sobre
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/proposta-de-nota-tecnica-pn001-2021-em-andamento/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

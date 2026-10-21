@@ -1,9 +1,9 @@
 # TJRJ · IRDR 37
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 37
-- **Identificador na fonte:** `tjrj-irdr-37`
+- **Identificador:** `tjrj-irdr-37`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 19/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=37)
@@ -20,4 +20,4 @@ Não cabem honorários advocatícios em prol da Fazenda Pública quando a execu�
 
 - [00640312420238190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2023.291.00043)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

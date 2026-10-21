@@ -1,9 +1,9 @@
 # TJPE · SUM 146
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 146
-- **Identificador na fonte:** `tjpe-sum-146`
+- **Identificador:** `tjpe-sum-146`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=146)
@@ -19,4 +19,4 @@ A pretensão à revisão do ato de aposentadoria do servidor público prescreve 
 - [00257553420078170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00257553420078170001)
 - [00153637720128170480](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00153637720128170480)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

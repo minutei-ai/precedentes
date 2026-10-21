@@ -1,9 +1,9 @@
 # TJSP · SUM 12
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Súmula
 - **Número:** 12
-- **Identificador na fonte:** `tjsp-sum-12`
+- **Identificador:** `tjsp-sum-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=12)
@@ -16,4 +16,4 @@ A ação de cobrança pode ser direcionada contra todos ou qualquer dos condômi
 
 - [03434752120098260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI000BNJZ0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

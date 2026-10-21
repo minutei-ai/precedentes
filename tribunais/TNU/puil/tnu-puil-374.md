@@ -1,9 +1,9 @@
 # TNU · PUIL 374
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 374
-- **Identificador na fonte:** `tnu-puil-374`
+- **Identificador:** `tnu-puil-374`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 29/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=374)
@@ -20,4 +20,4 @@ Para fatos geradores anteriores à EC 103/2019, o divisor aplicável ao cálculo
 
 - [10057614520204013810](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=10057614520204013810)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

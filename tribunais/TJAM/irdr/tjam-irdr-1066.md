@@ -1,9 +1,9 @@
 # TJAM · IRDR 1066
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1066
-- **Identificador na fonte:** `tjam-irdr-1066`
+- **Identificador:** `tjam-irdr-1066`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 10/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=1066)
@@ -16,4 +16,4 @@
 
 - [06421953820158040001](https://consultasaj.tjam.jus.br/cposgcr/show.do?processo.foro=900&processo.codigo=P00002X5H0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

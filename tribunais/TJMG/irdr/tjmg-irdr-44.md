@@ -1,9 +1,9 @@
 # TJMG · IRDR 44
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 44
-- **Identificador na fonte:** `tjmg-irdr-44`
+- **Identificador:** `tjmg-irdr-44`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=44)
@@ -20,4 +20,4 @@ A Lei Orgânica Municipal de Pouso Alegre, por ser hierarquicamente superior e, 
 
 - [01586854420188130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000180158685001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT09 · IRDR 2
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `trt09-irdr-2`
+- **Identificador:** `trt09-irdr-2`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=2)
@@ -23,4 +23,4 @@ OBS: Processo relacionado ao Conflito de Competência posteriormente afetado com
 
 - [00014001920165090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001400-19.2016.5.09.0000/2#fc1c950)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

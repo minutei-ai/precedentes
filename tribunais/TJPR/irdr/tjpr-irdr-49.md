@@ -1,9 +1,9 @@
 # TJPR · IRDR 49
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 49
-- **Identificador na fonte:** `tjpr-irdr-49`
+- **Identificador:** `tjpr-irdr-49`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 08/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=49)
@@ -21,4 +21,4 @@ Competência para julgamento dos feitos em trâmite envolvendo a COPEL S/A após
 
 - [00105543620248160194](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0010554-36.2024.8.16.0194&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

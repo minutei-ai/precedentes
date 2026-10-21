@@ -1,9 +1,9 @@
 # TRT08 · IRDR 1
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trt08-irdr-1`
+- **Identificador:** `trt08-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@
 
 - [00000127420175080000](https://pje.trt8.jus.br/consultaprocessual/pages/consultas/DetalhaProcesso.seam?p_num_pje=30739&p_grau_pje=2&popup=0&dt_autuacao=&cid=28221)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

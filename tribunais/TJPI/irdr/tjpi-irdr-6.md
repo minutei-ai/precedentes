@@ -1,9 +1,9 @@
 # TJPI · IRDR 6
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjpi-irdr-6`
+- **Identificador:** `tjpi-irdr-6`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 08/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ Cessada a comunhão matrimonial ou convivencial pela sentença que decreta o div
 
 - 08029515720238180031
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

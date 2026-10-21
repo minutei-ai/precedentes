@@ -1,10 +1,10 @@
 # STF · ADI 4417
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4417
-- **Identificador na fonte:** `stf-adi-4417`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4417`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4417)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1946 ART-00123 PAR-00002 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED C
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=796371649)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

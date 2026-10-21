@@ -1,9 +1,9 @@
 # TJGO · IRDR 25
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `tjgo-irdr-25`
+- **Identificador:** `tjgo-irdr-25`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=25)
@@ -16,4 +16,4 @@ Firmar tese jurídica no tocante a possibilidade de citação via aplicativo Wha
 
 Durante o período de crise decorrente da pandemia da Covid-19 é possível a citação por aplicativos virtuais, a exemplo do WhatsApp, assim como a utilização de ligação de áudio ou de vídeo - por telefone ou aplicativo -, de e-mail ou outro meio célere, sendo estas possibilidades extensíveis aos demais atos processuais, não se limitando a aplicação restrita disciplinada pelo artigo 2º, § 2º, do Provimento CGJGO n.º 12/2020 - cuja redação foi mantida pelo Provimento CGJGO n.º 26/2020 -, dirigida às situações de cumprimento de medidas liminares e de antecipações de tutela de qualquer natureza, tampouco à existência de advogado constituído, em se tratando de citação, como exige o § 2º, artigo 2º, do Provimento CGJ n.º 18/2020.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

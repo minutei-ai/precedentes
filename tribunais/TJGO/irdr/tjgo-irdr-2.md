@@ -1,9 +1,9 @@
 # TJGO · IRDR 2
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjgo-irdr-2`
+- **Identificador:** `tjgo-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ POSSIBILIDADE OU NãO DE FIXAçãO DE HONORáRIOS DATIVOS AOS PROCURADORES, QUE 
 
 - 02650423020168090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT12 · IRDR 6
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `trt12-irdr-6`
+- **Identificador:** `trt12-irdr-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 26/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=6)
@@ -20,4 +20,4 @@ TESE JURÍDICA N.° 3 EM IRDR: "CAIXA ECONÔMICA FEDERAL. ALTERAÇÃO DA NORMA I
 
 - [00010590420175120055](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0001059-04.2017.5.12.0055/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

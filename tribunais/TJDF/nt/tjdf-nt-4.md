@@ -1,9 +1,9 @@
 # TJDF · NT 4
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `tjdf-nt-4`
+- **Identificador:** `tjdf-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/05/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=NT&nr=4)
@@ -32,4 +32,4 @@ O Tribunal de Justiça do Distrito Federal e dos Territórios caminha neste sent
 
 - [Link Nota Técnica](https://www.tjdft.jus.br/consultas/notas-tecnicas/nota-tecnica-4-2021.pdf/view)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 39
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 39
-- **Identificador na fonte:** `tst-irr-39`
+- **Identificador:** `tst-irr-39`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 29/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=39)
@@ -29,4 +29,4 @@ IV - É nula a decisão que reconhece a prescrição intercorrente sem que antes
 
 - [00452002020035020042](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0045200-20.2003.5.02.0042/3#9467e4e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

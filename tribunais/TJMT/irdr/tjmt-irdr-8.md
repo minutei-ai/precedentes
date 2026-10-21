@@ -1,9 +1,9 @@
 # TJMT · IRDR 8
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `tjmt-irdr-8`
+- **Identificador:** `tjmt-irdr-8`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 23/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=8)
@@ -20,4 +20,4 @@ Imprescindível lei específica autorizativa da carreira do servidor público pa
 
 - 10012891620238119005
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJGO · IRDR 33
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 33
-- **Identificador na fonte:** `tjgo-irdr-33`
+- **Identificador:** `tjgo-irdr-33`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 13/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=33)
@@ -20,4 +20,4 @@ Ocorrência, ou não, de reestruturação da carreira dos servidores de São Mig
 
 - 53021260420218090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

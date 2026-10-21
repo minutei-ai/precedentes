@@ -1,9 +1,9 @@
 # TRT20 · IRDR 9
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `trt20-irdr-9`
+- **Identificador:** `trt20-irdr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=9)
@@ -20,4 +20,4 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR). COMPETÊNCIA TERRITORIA
 
 - [00007984120245200000](https://pje.trt20.jus.br/consultaprocessual/detalhe-processo/0000798-41.2024.5.20.0000/2#06065aa)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

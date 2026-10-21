@@ -1,9 +1,9 @@
 # STF · RG 681
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 681
-- **Identificador na fonte:** `stf-rg-681`
+- **Identificador:** `stf-rg-681`
 - **Situação na fonte:** Não há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=681)
@@ -20,4 +20,4 @@ A questão relativa à utilização do salário mínimo como parâmetro para a c
 
 - [632084](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3976092)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

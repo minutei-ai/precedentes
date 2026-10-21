@@ -1,9 +1,9 @@
 # STJ · RR 429
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 429
-- **Identificador na fonte:** `stj-rr-429`
+- **Identificador:** `stj-rr-429`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 27/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=429)
@@ -16,4 +16,6 @@ Discute-se a necessidade de o executado atender ao disposto no artigo 166, do CT
 
 - [92254434520028260000](https://processo.stj.jus.br/processo/pesquisa/?termo=200802205092&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

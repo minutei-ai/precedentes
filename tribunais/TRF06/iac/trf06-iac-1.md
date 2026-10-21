@@ -1,9 +1,9 @@
 # TRF06 · IAC 1
 
-- **Tribunal:** TRF06
+- **Órgão:** TRF06
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trf06-iac-1`
+- **Identificador:** `trf06-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf06&tipo=IAC&nr=1)
@@ -32,4 +32,4 @@ g) Por força do que dispõe o artigo 44 da Lei nº 9.474/97, à exceção dos d
 
 - [10100826420234060000](https://eproc2g.trf6.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=10100826420234060000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

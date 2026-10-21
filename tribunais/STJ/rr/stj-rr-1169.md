@@ -1,9 +1,9 @@
 # STJ · RR 1169
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1169
-- **Identificador na fonte:** `stj-rr-1169`
+- **Identificador:** `stj-rr-1169`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 01/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1169)
@@ -24,4 +24,14 @@ Definir se a liquidação prévia do julgado é requisito indispensável para o 
 - [50057344820204020000](https://processo.stj.jus.br/processo/pesquisa/?termo=202200411714&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00051350520174020000](https://processo.stj.jus.br/processo/pesquisa/?termo=202200352450&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+(i) na execução individual do título formado em processo coletivo em favor de servidores públicos, sempre que demonstrado documentalmente que o exequente legitimado se encontre na situação estabelecida de forma genérica na sentença, a execução pode ocorrer sem a necessidade de prévia liquidação do julgado, quando for possível a apuração do crédito por simples cálculos aritméticos;(ii) cabe ao Juízo da execução, assegurado o contraditório ao executado, em sede de impugnação ao cumprimento de sentença, analisar, de forma concreta, se é necessária a prévia liquidação do julgado.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

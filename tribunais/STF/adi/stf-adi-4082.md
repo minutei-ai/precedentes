@@ -1,10 +1,10 @@
 # STF · ADI 4082
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4082
-- **Identificador na fonte:** `stf-adi-4082`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4082`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4082)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00001 ART-00003 ART-00006 ART-00022 INC-00001 INC-00027 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=780031188)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

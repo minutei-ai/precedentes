@@ -1,9 +1,9 @@
 # STF · RG 397
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 397
-- **Identificador na fonte:** `stf-rg-397`
+- **Identificador:** `stf-rg-397`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=397)
@@ -20,4 +20,4 @@ A questão constitucional da exigibilidade de contribuição previdenciária, in
 
 - [633843](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4005757)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJGO · SUM 5
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 5
-- **Identificador na fonte:** `tjgo-sum-5`
+- **Identificador:** `tjgo-sum-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 08/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=5)
@@ -16,4 +16,4 @@ A Goiás Previdência  GOIASPREV, e seus diretores não possuem legitimidade p
 
 - 04361605020118090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

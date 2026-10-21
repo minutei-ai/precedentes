@@ -1,9 +1,9 @@
 # TJPA · SUM 32
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Súmula
 - **Número:** 32
-- **Identificador na fonte:** `tjpa-sum-32`
+- **Identificador:** `tjpa-sum-32`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/12/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=SUM&nr=32)
@@ -12,4 +12,4 @@
 
 A ausência de Laudo Toxicológico Definitivo não conduz, necessariamente, à inexistência de prova de materialidade do crime, a qual poderá ser comprovada por outros elementos probatórios.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

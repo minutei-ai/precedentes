@@ -1,9 +1,9 @@
 # TJPB · IRDR 17
 
-- **Tribunal:** TJPB
+- **Órgão:** TJPB
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `tjpb-irdr-17`
+- **Identificador:** `tjpb-irdr-17`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 16/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=17)
@@ -20,4 +20,4 @@ A competência para processar e julgar as demandas em que a Companhia de Água e
 
 - [08056234720258150000](https://www.tjpb.jus.br/nugep/irdr)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJES · IAC 46
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 46
-- **Identificador na fonte:** `tjes-iac-46`
+- **Identificador:** `tjes-iac-46`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IAC&nr=46)
@@ -16,4 +16,4 @@ A (i)legalidade do tratamento tributário diferenciado quanto à tributação do
 
 - [00289314920178080024](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0028931-49.2017.8.08.0024)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRJ · NT 72026
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 72026
-- **Identificador na fonte:** `tjrj-nt-72026`
+- **Identificador:** `tjrj-nt-72026`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=72026)
@@ -20,4 +20,4 @@ Conforme estabelecido na Recomendação CNJ nº 159/2024, a litigância abusiva,
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/d/centro-de-inteligencia/nota_tecnica_n_07-2026)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

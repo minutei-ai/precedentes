@@ -1,9 +1,9 @@
 # TRT24 · NT 27
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 27
-- **Identificador na fonte:** `trt24-nt-27`
+- **Identificador:** `trt24-nt-27`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 21/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=27)
@@ -81,4 +81,4 @@ Mallmann...
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+27_2025+-+intervalo+intersemanal.pdf/ef594282-1be4-a920-2f83-f0cd45a5dd8f?t=1740512968316)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

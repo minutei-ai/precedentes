@@ -1,10 +1,10 @@
 # STF · ADI 455
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 455
-- **Identificador na fonte:** `stf-adi-455`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-455`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/10/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=455)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal não conheceu da ação, vencidos, em parte, os
 
 LEG-EST LEI-000951 ANO-1976 (SP). LEG-EST LEI-007017 ANO-1991 ART-00002 ART-00003 PAR-ÚNICO ART-00004 ART-00005 ART-00006 (SP). LEG-EST ADT ANO-1991 ART-00001 PAR-00001 PAR-00002 PAR-00003 PAR-00004 (LEI-7017/91), (SP).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

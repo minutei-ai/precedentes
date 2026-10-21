@@ -1,9 +1,9 @@
 # TJMT · NT 12022
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Nota Técnica
 - **Número:** 12022
-- **Identificador na fonte:** `tjmt-nt-12022`
+- **Identificador:** `tjmt-nt-12022`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=NT&nr=12022)
@@ -20,4 +20,4 @@ Nota técnica tem como objetivo central a adoção de providências e a uniformi
 
 - [Link Nota Técnica](https://centrodeinteligencia-mc.tjmt.jus.br/portalcentrodeinteligencia-arquivos-prod/cms/03_Nota_Tecnica_01_2022_CIPJMT_Home_Care_MT_1dee896dfa.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

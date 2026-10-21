@@ -1,9 +1,9 @@
 # TST · IRR 167
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 167
-- **Identificador na fonte:** `tst-irr-167`
+- **Identificador:** `tst-irr-167`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=167)
@@ -20,4 +20,4 @@ A gratificação semestral integra a base de cálculo da participação nos lucr
 
 - [00006606620225050031](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000660-66.2022.5.05.0031/3#2aabb7f)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

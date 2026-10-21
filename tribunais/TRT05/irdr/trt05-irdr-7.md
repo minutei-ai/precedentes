@@ -1,9 +1,9 @@
 # TRT05 · IRDR 7
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt05-irdr-7`
+- **Identificador:** `trt05-irdr-7`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 31/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IRDR&nr=7)
@@ -24,4 +24,4 @@ Considerando o limite de caracteres do campo, o inteiro teor da decisão pode se
 
 - [00011530520235050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0001153-05.2023.5.05.0000/2#9b82203)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

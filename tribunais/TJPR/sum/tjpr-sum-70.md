@@ -1,9 +1,9 @@
 # TJPR · SUM 70
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 70
-- **Identificador na fonte:** `tjpr-sum-70`
+- **Identificador:** `tjpr-sum-70`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=70)
@@ -17,4 +17,4 @@ não possuam condições financeiras de custeá-los, desde que atendido o limite
 quarenta salários mínimos fixado pela Resolução nº 10/2010 do Órgão Especial, cuja  
 verificação deve se dar nos termos do art. 2º, § 2º, da Lei nº 12.153/2009"
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

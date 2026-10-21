@@ -1,9 +1,9 @@
 # TNU · PUIL 115
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 115
-- **Identificador na fonte:** `tnu-puil-115`
+- **Identificador:** `tnu-puil-115`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=115)
@@ -16,4 +16,4 @@ Saber como se define a natureza da atividade desenvolvida pelo trabalhador - se 
 
 Não é ramo de exploração de atividade econômica do empregador que define a natureza do trabalho desempenhado pelo empregado, se rural ou urbano, para fins de concessão do benefício previdenciário de aposentadoria.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

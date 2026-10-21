@@ -1,9 +1,9 @@
 # STJ · RR 201
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 201
-- **Identificador na fonte:** `stj-rr-201`
+- **Identificador:** `stj-rr-201`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=201)
@@ -20,4 +20,10 @@ Conforme o disposto no artigo 605 da Consolidação da Leis do Trabalho, em resp
 
 - [00004119620048160126](https://processo.stj.jus.br/processo/pesquisa/?termo=200901045631&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

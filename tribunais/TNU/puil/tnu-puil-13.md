@@ -1,9 +1,9 @@
 # TNU · PUIL 13
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 13
-- **Identificador na fonte:** `tnu-puil-13`
+- **Identificador:** `tnu-puil-13`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=13)
@@ -16,4 +16,4 @@ Saber se o pedido de revisão de benefício de aposentadoria por tempo de contri
 
 É dispensável prévio requerimento administrativo de revisão de aposentadoria por tempo de contribuição quando houver omissão da autarquia na análise do tempo especial anterior à Lei n. 9.032/95.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

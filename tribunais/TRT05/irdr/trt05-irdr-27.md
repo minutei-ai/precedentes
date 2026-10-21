@@ -1,9 +1,9 @@
 # TRT05 · IRDR 27
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `trt05-irdr-27`
+- **Identificador:** `trt05-irdr-27`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 13/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IRDR&nr=27)
@@ -16,4 +16,4 @@ a) quais empregados fazem jus ao pagamento da verba de representação; b) se a 
 
 - [00063962220265050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0006396-22.2026.5.05.0000/2#583ee28)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

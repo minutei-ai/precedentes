@@ -1,10 +1,10 @@
 # STF · ADI 820
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 820
-- **Identificador na fonte:** `stf-adi-820`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-820`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/11/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=820)
 
@@ -20,4 +20,4 @@ Após o voto do Relator, indeferindo o pedido de medida cautelar, e do voto Mini
 
 LEG-FED CF ANO-1988 ART-00025 ART-00061 PAR-00001 ART-00084 INC-00002 INC-00003 ART-00167 ART-00212 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES- ART-00202 PAR-00002 ART-00213 (RS). LEG-EST LEI-009232 ANO-1991 ART-00001 ART-00002 ART-00003 ART-00004 ART-00005 (RS). LEG-EST LEI-009723 ANO-1993 ART-00002 PAR-00001 (RS).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

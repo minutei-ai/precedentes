@@ -1,9 +1,9 @@
 # STJ · IAC 6
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `stj-iac-6`
+- **Identificador:** `stj-iac-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=IAC&nr=6)
@@ -20,4 +20,10 @@ Os efeitos da Lei nº 13.876/2019 na modificação de competência para o proces
 
 - [50901368220194047100](https://processo.stj.jus.br/processo/pesquisa/?termo=201903767173&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

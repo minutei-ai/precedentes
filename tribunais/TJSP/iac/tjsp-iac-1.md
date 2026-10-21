@@ -1,9 +1,9 @@
 # TJSP · IAC 1
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `tjsp-iac-1`
+- **Identificador:** `tjsp-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 08/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ Nas ações indenizatórias promovidas pelas vítimas de supostos abusos pratica
 
 - [22111691020168260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI003N2640000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

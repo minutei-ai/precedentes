@@ -1,9 +1,9 @@
 # TST · IRDR 1
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tst-irdr-1`
+- **Identificador:** `tst-irdr-1`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ A recusa arbitrária da entidade sindical patronal ou de qualquer integrante da 
 
 - [10009073020235000000](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1000907-30.2023.5.00.0000/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

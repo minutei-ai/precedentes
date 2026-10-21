@@ -1,9 +1,9 @@
 # TJBA · IAC 6812
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6812
-- **Identificador na fonte:** `tjba-iac-6812`
+- **Identificador:** `tjba-iac-6812`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 30/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IAC&nr=6812)
@@ -16,4 +16,4 @@ Necessidade de uniformização do entendimento que contra a decisão interlocut�
 
 - [80000022020158050153](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

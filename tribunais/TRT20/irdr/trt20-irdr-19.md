@@ -1,9 +1,9 @@
 # TRT20 · IRDR 19
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 19
-- **Identificador na fonte:** `trt20-irdr-19`
+- **Identificador:** `trt20-irdr-19`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 03/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=19)
@@ -20,4 +20,4 @@ RMNR na fase de execução: inexigibilidade do título em razão da Decisão do 
 
 - [00008982520265200000](http://RMNR na fase de execução: inexigibilidade do título em razão da Decisão do STF no âmbito do RE 1.251.927 ou necessidade de ajuizamento de Ação Rescisória (ausência de produção de reforma automática às decisões transitadas em julgado)?)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

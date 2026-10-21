@@ -1,9 +1,9 @@
 # TJPR · SUM 14
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 14
-- **Identificador na fonte:** `tjpr-sum-14`
+- **Identificador:** `tjpr-sum-14`
 - **Situação na fonte:** Em revisão
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=14)
@@ -16,4 +16,4 @@ período compreendido entre a vigência da Emenda Constitucional n. 20/1998 e da
 n. 41/2003, devem tramitar normalmente até o julgamento de mérito, sem aguardar  
 o julgamento da referida ADIN pelo Supremo Tribunal Federal"
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

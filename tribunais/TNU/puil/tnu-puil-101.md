@@ -1,9 +1,9 @@
 # TNU · PUIL 101
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 101
-- **Identificador na fonte:** `tnu-puil-101`
+- **Identificador:** `tnu-puil-101`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=101)
@@ -16,4 +16,4 @@ Saber qual o termo inicial da prescrição do fundo de direito nos casos de revi
 
 A prescrição do fundo de direito nos casos em que houver pretensão de revisão do ato de aposentadoria de servidor público, com inclusão de tempo de serviço insalubre, decorre em cinco anos contados a partir do ato da concessão. Vide Tema 99.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

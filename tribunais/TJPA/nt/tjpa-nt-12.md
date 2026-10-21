@@ -1,9 +1,9 @@
 # TJPA · NT 12
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `tjpa-nt-12`
+- **Identificador:** `tjpa-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=12)
@@ -20,4 +20,4 @@ O Centro de Inteligência da Justiça Estadual do Pará (Cijepa), por meio da Co
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=2118616)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

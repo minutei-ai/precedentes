@@ -1,9 +1,9 @@
 # TJGO · IRDR 32
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 32
-- **Identificador na fonte:** `tjgo-irdr-32`
+- **Identificador:** `tjgo-irdr-32`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 20/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=32)
@@ -20,4 +20,4 @@ Questiona o direito de servidores estaduais, em receber as diferenças decorrent
 
 - 52859368020168090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

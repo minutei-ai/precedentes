@@ -1,9 +1,9 @@
 # TJSC · NT 2
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `tjsc-nt-2`
+- **Identificador:** `tjsc-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=2)
@@ -38,4 +38,4 @@ n. 01/2022
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/NCI+-+215+-+NOTAS+TE%CC%81CNICAS+-+02-2022.pdf/b18c2ed8-90f9-b096-c2d0-46404465517d?t=1661808164767)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

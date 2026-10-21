@@ -1,10 +1,10 @@
 # STF · ADI 27
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 27
-- **Identificador na fonte:** `stf-adi-27`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-27`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/03/1989
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=27)
 
@@ -16,4 +16,4 @@ AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA CAUTELAR. ASSENTO N. 04/1988, ART
 
 LEG-FED CF ANO-1988 ART-00093 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST ASR-000004 ANO-1988 ART-00003 PAR-ÚNICO TRIBUNAL DE JUSTIÇA, (PR).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

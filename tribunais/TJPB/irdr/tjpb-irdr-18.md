@@ -1,9 +1,9 @@
 # TJPB · IRDR 18
 
-- **Tribunal:** TJPB
+- **Órgão:** TJPB
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `tjpb-irdr-18`
+- **Identificador:** `tjpb-irdr-18`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 16/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=18)
@@ -20,4 +20,4 @@ string
 
 - [08153104820258150000](https://www.tjpb.jus.br/nugep/irdr)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

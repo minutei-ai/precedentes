@@ -1,9 +1,9 @@
 # TST · IRR 41
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 41
-- **Identificador na fonte:** `tst-irr-41`
+- **Identificador:** `tst-irr-41`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=41)
@@ -21,4 +21,4 @@ O pagamento das custas processuais (art. 789, § 1º, da CLT) e o recolhimento d
 - [00000264320235110201](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000026-43.2023.5.11.0201/3#15fbad7)
 - [01001323620225010521](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0100132-36.2022.5.01.0521/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

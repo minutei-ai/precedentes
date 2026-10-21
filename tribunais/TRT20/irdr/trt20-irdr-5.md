@@ -1,9 +1,9 @@
 # TRT20 · IRDR 5
 
-- **Tribunal:** TRT20
+- **Órgão:** TRT20
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `trt20-irdr-5`
+- **Identificador:** `trt20-irdr-5`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 16/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt20&tipo=IRDR&nr=5)
@@ -20,4 +20,4 @@ Aplicação da Lei 5.811/72, em seu art. 3º, V, ao intervalo interjornadas, que
 
 - [00004168720205200000](https://pje.trt20.jus.br/consultaprocessual/detalhe-processo/0000416-87.2020.5.20.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT20/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

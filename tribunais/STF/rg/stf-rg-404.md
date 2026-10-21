@@ -1,9 +1,9 @@
 # STF · RG 404
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 404
-- **Identificador na fonte:** `stf-rg-404`
+- **Identificador:** `stf-rg-404`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=404)
@@ -20,4 +20,4 @@ A questão do direito ao recebimento da vantagem pecuniária “vale-refeição�
 
 - [841445](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4046685)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

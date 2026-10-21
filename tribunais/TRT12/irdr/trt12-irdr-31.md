@@ -1,9 +1,9 @@
 # TRT12 · IRDR 31
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 31
-- **Identificador na fonte:** `trt12-irdr-31`
+- **Identificador:** `trt12-irdr-31`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 21/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=31)
@@ -20,4 +20,4 @@ TESE JURÍDICA N.º 26: "AVISO-PRÉVIO PROPORCIONAL. LEI Nº 12.506/2011. DIREIT
 
 - [00019302420255120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000239-64.2025.5.12.0035/2#c3175fe)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

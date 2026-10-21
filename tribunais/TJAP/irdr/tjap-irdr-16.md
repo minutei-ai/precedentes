@@ -1,9 +1,9 @@
 # TJAP · IRDR 16
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `tjap-irdr-16`
+- **Identificador:** `tjap-irdr-16`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 16/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IRDR&nr=16)
@@ -20,4 +20,4 @@ A nulidade ou não do relatório emitido pelo Conselho de Disciplina da Polícia
 
 - 00001770820208030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

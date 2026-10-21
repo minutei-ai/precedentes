@@ -1,9 +1,9 @@
 # STJ · RR 1057
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1057
-- **Identificador na fonte:** `stj-rr-1057`
+- **Identificador:** `stj-rr-1057`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1057)
@@ -25,4 +25,14 @@ IV. À falta de dependentes legais habilitados à pensão por morte, os sucessor
 - [01193744520174025101](https://processo.stj.jus.br/processo/pesquisa/?termo=202000057086&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00355954120164025001](https://processo.stj.jus.br/processo/pesquisa/?termo=202000056306&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+I. O disposto no art. 112 da Lei n. 8.213/1991 é aplicável aos âmbitos judicial e administrativo;II. Os pensionistas detêm legitimidade ativa para pleitear, por direito próprio, a revisão do benefício derivado (pensão por morte) - caso não alcançada pela decadência -, fazendo jus a diferenças pecuniárias pretéritas não prescritas, decorrentes da pensão recalculada;III. Caso não decaído o direito de revisar a renda mensal inicial do benefício originário do segurado instituidor, os pensionistas poderão postular a revisão da aposentadoria, a fim de auferirem eventuais parcelas não prescritas resultantes da readequação do benefício original, bem como os reflexos na graduação econômica da pensão por morte; eIV. À falta de dependentes legais habilitados à pensão por morte, os sucessores (herdeiros) do segurado instituidor, definidos na lei civil, são partes legítimas para pleitear, por ação e em nome próprios, a revisão do benefício original - salvo se decaído o direito ao instituidor - e, por conseguinte, de haverem eventuais diferenças pecuniárias não prescritas, oriundas do recálculo da aposentadoria do de cujus.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

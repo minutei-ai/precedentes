@@ -1,9 +1,9 @@
 # TJSP · IRDR 51
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 51
-- **Identificador na fonte:** `tjsp-irdr-51`
+- **Identificador:** `tjsp-irdr-51`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=51)
@@ -16,4 +16,4 @@ Incidente de Resolução de Demandas Repetitivas. Questão de direito suscitada 
 
 - [20265751120238260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI007BEVU0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

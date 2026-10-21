@@ -1,9 +1,9 @@
 # TRT15 · IRDR 49
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 49
-- **Identificador na fonte:** `trt15-irdr-49`
+- **Identificador:** `trt15-irdr-49`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=49)
@@ -21,4 +21,4 @@ Refere-se à tese jurídica n.º 49 deste Egrégio Tribunal.
 
 - [00185303920255150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018530-39.2025.5.15.0000/2#4b95bec)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 864
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 864
-- **Identificador na fonte:** `stj-rr-864`
+- **Identificador:** `stj-rr-864`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 31/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=864)
@@ -16,4 +16,6 @@ Discute-se o restabelecimento da Gratificação Especial por Mérito instituída
 
 - 01338755420068190001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

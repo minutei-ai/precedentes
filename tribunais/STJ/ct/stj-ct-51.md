@@ -1,9 +1,9 @@
 # STJ · CT 51
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 51
-- **Identificador na fonte:** `stj-ct-51`
+- **Identificador:** `stj-ct-51`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=51)
@@ -28,4 +28,14 @@ Questiona se deve o litigante beneficiário do Regime Geral da Previdência Soci
 - [00018978020104036115](https://processo.stj.jus.br/processo/pesquisa/?termo=201800821247&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00350976120134039999](https://processo.stj.jus.br/processo/pesquisa/?termo=201800821259&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Questiona se deve o litigante beneficiário do Regime Geral da Previdência Social - RGPS devolver os valores percebidos do INSS em virtude de decisão judicial precária, que venha a ser posteriormente revogada.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

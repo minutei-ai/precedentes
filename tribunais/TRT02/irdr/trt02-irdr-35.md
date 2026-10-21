@@ -1,9 +1,9 @@
 # TRT02 · IRDR 35
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 35
-- **Identificador na fonte:** `trt02-irdr-35`
+- **Identificador:** `trt02-irdr-35`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 19/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=IRDR&nr=35)
@@ -16,4 +16,4 @@ Intervalo intrajornada não previsto em lei. Limite máximo de duas horas diári
 
 - [10012068820255020385](https://pje.trt2.jus.br/consultaprocessual/detalhe-processo/1001206-88.2025.5.02.0385/2#0c6f789)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

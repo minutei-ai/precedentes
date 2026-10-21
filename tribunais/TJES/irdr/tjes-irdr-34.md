@@ -1,9 +1,9 @@
 # TJES · IRDR 34
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `tjes-irdr-34`
+- **Identificador:** `tjes-irdr-34`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=34)
@@ -16,4 +16,4 @@ Aplicabilidade do §1º, do artigo 18, do Código de Defesa do Consumidor que pr
 
 - [00198603020158080012](https://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=0019860-30.2015.8.08.0012)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

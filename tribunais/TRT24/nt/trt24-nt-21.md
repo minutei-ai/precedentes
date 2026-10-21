@@ -1,9 +1,9 @@
 # TRT24 · NT 21
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 21
-- **Identificador na fonte:** `trt24-nt-21`
+- **Identificador:** `trt24-nt-21`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 19/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=21)
@@ -32,4 +32,4 @@ De todo modo, a tese deve ser enfrentada na decisão, ainda que seja para “dem
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+21.2023.pdf/c3856986-3d12-877e-e50b-cd23d4dbacc8?t=1689863317045)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

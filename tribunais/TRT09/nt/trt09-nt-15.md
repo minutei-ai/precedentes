@@ -1,9 +1,9 @@
 # TRT09 · NT 15
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 15
-- **Identificador na fonte:** `trt09-nt-15`
+- **Identificador:** `trt09-nt-15`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 29/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=15)
@@ -21,4 +21,4 @@ Inteligência em conjunto com Comissão Gestora do Nugepnac do TRT9, com o prop�
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8876873)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

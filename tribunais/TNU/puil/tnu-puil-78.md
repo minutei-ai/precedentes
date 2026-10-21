@@ -1,9 +1,9 @@
 # TNU · PUIL 78
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 78
-- **Identificador na fonte:** `tnu-puil-78`
+- **Identificador:** `tnu-puil-78`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=78)
@@ -16,4 +16,4 @@ Saber se subsiste fundamento hábil a justificar a cobrança de anuidades pelos 
 
 A Lei n. 6.994/82 foi expressamente revogada pela Lei n. 8.906/94, de modo que não persiste fundamento para cobrança de anuidade por conselhos de classe com fulcro em tal diploma.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

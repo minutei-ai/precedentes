@@ -1,9 +1,9 @@
 # TJBA · IRDR 14
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `tjba-irdr-14`
+- **Identificador:** `tjba-irdr-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 26/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=14)
@@ -23,4 +23,4 @@ A legalidade das questões n.º 4, 6, 7, 16, 19, 21, 33, 34, 51, 53, 62, 63, 65,
 - [80277979620208050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 - [80154962020208050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

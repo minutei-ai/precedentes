@@ -1,9 +1,9 @@
 # TRT04 · OJ 95
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 95
-- **Identificador na fonte:** `trt04-oj-95`
+- **Identificador:** `trt04-oj-95`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=95)
@@ -28,4 +28,4 @@ EXECUÇÃO. DESARQUIVAMENTO. PROSSEGUIMENTO. DILIGÊNCIAS. Havendo transcurso de
 - [01261009219955040016](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/LU3MQmcrcuhDFUvtSj0FwQ)
 - [00011787020145040611](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/wsG-KZnSMUYJVhMJwXEnwQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

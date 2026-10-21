@@ -1,9 +1,9 @@
 # TST · IRR 10
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 10
-- **Identificador na fonte:** `tst-irr-10`
+- **Identificador:** `tst-irr-10`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=10)
@@ -25,4 +25,4 @@ III - Os efeitos da Portaria nº 595/2015 do Ministério do Trabalho alcançam a
 - [00013251820125040013](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0001325&digitoTst=18&anoTst=2012&orgaoTst=5&tribunalTst=04&varaTst=0013&submit=Consultar)
 - [00013251820125504001](http://aplicacao4.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=1325&digitoTst=18&anoTst=2012&orgaoTst=5&tribunalTst=04&varaTst=0013&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT24 · NT 16
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 16
-- **Identificador na fonte:** `trt24-nt-16`
+- **Identificador:** `trt24-nt-16`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/02/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=16)
@@ -39,4 +39,4 @@ Repetitivas – IRDR ou do Incidente de Assunção de Competência – IAC, como
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+16.2023.pdf/52261ff1-d413-45be-85fe-5e1288abca1b?t=1678284546683)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

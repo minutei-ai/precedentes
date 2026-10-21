@@ -1,9 +1,9 @@
 # TRF06 · IRDR 13
 
-- **Tribunal:** TRF06
+- **Órgão:** TRF06
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `trf06-irdr-13`
+- **Identificador:** `trf06-irdr-13`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 06/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf06&tipo=IRDR&nr=13)
@@ -16,4 +16,4 @@ Definir se nos cumprimentos individuais de sentença proferida em ação coletiv
 
 - [60009871820264063815](https://eproc2g.trf6.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=60009871820264063815)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

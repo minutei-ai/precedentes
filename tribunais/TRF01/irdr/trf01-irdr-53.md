@@ -1,9 +1,9 @@
 # TRF01 · IRDR 53
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 53
-- **Identificador na fonte:** `trf01-irdr-53`
+- **Identificador:** `trf01-irdr-53`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=53)
@@ -16,4 +16,4 @@ Incidência da Lei Federal nº 14.040/2020, a qual prevê a possibilidade de ant
 
 - 10155918220214010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

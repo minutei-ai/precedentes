@@ -1,9 +1,9 @@
 # STJ · SUM 365
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Súmula
 - **Número:** 365
-- **Identificador na fonte:** `stj-sum-365`
+- **Identificador:** `stj-sum-365`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=SUM&nr=365)
@@ -12,4 +12,4 @@
 
 A intervenção da União como sucessora da Rede Ferroviária Federal S/A (RFFSA) desloca a competência para a Justiça Federal ainda que a sentença tenha sido proferida por Juízo estadual.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

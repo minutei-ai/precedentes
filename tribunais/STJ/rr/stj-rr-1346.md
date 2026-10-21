@@ -1,9 +1,9 @@
 # STJ · RR 1346
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1346
-- **Identificador na fonte:** `stj-rr-1346`
+- **Identificador:** `stj-rr-1346`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 13/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1346)
@@ -21,4 +21,10 @@ Não é admissível o recurso especial que discute a transferência, com base em
 - [00026338820164036115](https://processo.stj.jus.br/processo/pesquisa/?termo=202401039646&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00012380520144036124](https://processo.stj.jus.br/processo/pesquisa/?termo=202401998282&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

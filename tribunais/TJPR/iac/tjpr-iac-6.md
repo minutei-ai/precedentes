@@ -1,9 +1,9 @@
 # TJPR · IAC 6
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `tjpr-iac-6`
+- **Identificador:** `tjpr-iac-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IAC&nr=6)
@@ -20,4 +20,4 @@ Em contrato de seguro de automóvel, a embriaguez de terceiro condutor configura
 
 - [00149615220068160021](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0014961-52.2006.8.16.0021&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJAC · IRDR 7
 
-- **Tribunal:** TJAC
+- **Órgão:** TJAC
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `tjac-irdr-7`
+- **Identificador:** `tjac-irdr-7`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 13/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjac&tipo=IRDR&nr=7)
@@ -21,4 +21,4 @@ Nas ações de busca e apreensão fundadas no Decreto-Lei nº 911/1969, a inérc
 - 07165773420258010001
 - 01009301720268010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

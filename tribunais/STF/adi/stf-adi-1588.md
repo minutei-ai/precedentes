@@ -1,10 +1,10 @@
 # STF · ADI 1588
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1588
-- **Identificador na fonte:** `stf-adi-1588`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1588`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/05/2002
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1588)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009527 ANO-1997 LEI ORDINÁRIA LEG-FED MPR-001522 ANO-1996 ART-00003
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=4727219)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

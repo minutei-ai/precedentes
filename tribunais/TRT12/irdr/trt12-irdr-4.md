@@ -1,9 +1,9 @@
 # TRT12 · IRDR 4
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt12-irdr-4`
+- **Identificador:** `trt12-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ TESE JURÍDICA Nº 2 EM IRDR: CAIXA ECONÔMICA FEDERAL. PAGAMENTO CUMULATIVO DA 
 
 - [00005819320195120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000581-93.2019.5.12.0000/2#a54bf61)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

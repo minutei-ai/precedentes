@@ -1,9 +1,9 @@
 # TRT04 · SUM 54
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 54
-- **Identificador na fonte:** `trt04-sum-54`
+- **Identificador:** `trt04-sum-54`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=54)
@@ -22,4 +22,4 @@ JUROS DE MORA. INDENIZAÇÃO POR DANO MORAL. Os juros de mora sobre a indenizaç
 - [00677003620055040404](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/BP3-fECqyy4_Hu3G07HRAw)
 - [00969004420075040008](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/ntk4D1pKMbTWH0tBgTvnVQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 505
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 505
-- **Identificador na fonte:** `stf-adi-505`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-505`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 20/06/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=505)
 
@@ -20,4 +20,4 @@ O Tribunal não conheceu da ação, concluindo o Ministro Marco Aurélio pela ca
 
 LEG-FED CF ANO-1988 ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008030 ANO-1990 LEG-FED LEI-007730 ANO-1990 ART-00009 LEG-FED MPR-000154 ANO-1990
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

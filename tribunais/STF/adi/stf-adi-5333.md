@@ -1,10 +1,10 @@
 # STF · ADI 5333
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5333
-- **Identificador na fonte:** `stf-adi-5333`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5333`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/02/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5333)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00022 INC-00027 ART-00023 ART-00024 ART-00037 INC-00021 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=752156436)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADPF 756
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 756
-- **Identificador na fonte:** `stf-adpf-756`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-756`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 21/02/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=756)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00006 ART-00196 ART-00198 ART-00205 ART-00206 ART-00207 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=759845166)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

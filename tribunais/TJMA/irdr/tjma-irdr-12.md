@@ -1,9 +1,9 @@
 # TJMA · IRDR 12
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjma-irdr-12`
+- **Identificador:** `tjma-irdr-12`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=12)
@@ -64,4 +64,4 @@ moral não é in re ipsa.
 
 - [08531041220238100001](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=766857&ca=4967d4cc4906ba0053dbf0eb4090dfc9bf840775277db756d7246616b97553b7f55bb0eaf25fcc928679684d76821556&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

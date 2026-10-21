@@ -1,9 +1,9 @@
 # TRT17 · IRDR 14
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `trt17-irdr-14`
+- **Identificador:** `trt17-irdr-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=IRDR&nr=14)
@@ -20,4 +20,4 @@ No julgamento do presente IRDR, o Tribunal Pleno, por maioria, entendeu por fixa
 
 - [00012434320245170000](https://pje.trt17.jus.br/consultaprocessual/detalhe-processo/0001243-43.2024.5.17.0000/2#958915e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

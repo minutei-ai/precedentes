@@ -1,9 +1,9 @@
 # TJPB · IRDR 10
 
-- **Tribunal:** TJPB
+- **Órgão:** TJPB
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjpb-irdr-10`
+- **Identificador:** `tjpb-irdr-10`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 30/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=10)
@@ -20,4 +20,4 @@ Definir, nas Comarcas em que haja a instalacao de Juizados Especiais Civeis ou M
 
 - [08129842820198150000](https://www.tjpb.jus.br/nugep/irdr)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

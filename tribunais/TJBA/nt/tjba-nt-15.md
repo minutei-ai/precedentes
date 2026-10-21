@@ -1,9 +1,9 @@
 # TJBA · NT 15
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 15
-- **Identificador na fonte:** `tjba-nt-15`
+- **Identificador:** `tjba-nt-15`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=15)
@@ -33,4 +33,4 @@ Ademais, foram identificadas ações judiciais em que o advogado de determinada 
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-n-03-2025/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

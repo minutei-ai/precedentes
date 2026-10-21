@@ -1,10 +1,10 @@
 # STF · ADI 670
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 670
-- **Identificador na fonte:** `stf-adi-670`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-670`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/06/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=670)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal, resolvendo questão de ordem, julgou prejudi
 
 LEG-FED LEI-008197 ANO-1991 ART-00004 LEG-FED DEC-000430 ANO-1992 ART-00001 PAR-00001 ART-00003 PAR-ÚNICO (Revogado pelo DLG-3/1992) LEG-FED DLG-000003 ANO-1992
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

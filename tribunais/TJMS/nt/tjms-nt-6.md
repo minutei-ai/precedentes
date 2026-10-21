@@ -1,9 +1,9 @@
 # TJMS · NT 6
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `tjms-nt-6`
+- **Identificador:** `tjms-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=6)
@@ -46,4 +46,4 @@ Dentre elas, vale mencionar:
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/610068879e95723f4c430f2c5ce1e747.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 152
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 152
-- **Identificador na fonte:** `tst-irr-152`
+- **Identificador:** `tst-irr-152`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 25/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=152)
@@ -16,4 +16,4 @@
 
 - [00115699320175030001](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=11569&digitoTst=93&anoTst=2017&orgaoTst=5&tribunalTst=03&varaTst=0001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

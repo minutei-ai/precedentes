@@ -1,9 +1,9 @@
 # TRT24 · NT 11
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `trt24-nt-11`
+- **Identificador:** `trt24-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=11)
@@ -66,4 +66,4 @@ Assim, considerando a relevância da matéria e a necessidade de estrita observ�
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N%C2%BA+11.2022.pdf/e9d217d7-3dbe-4c14-bfdd-b4ee38e837d5?t=1660839177893)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

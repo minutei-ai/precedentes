@@ -1,9 +1,9 @@
 # TST · IRR 51
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 51
-- **Identificador na fonte:** `tst-irr-51`
+- **Identificador:** `tst-irr-51`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=51)
@@ -20,4 +20,4 @@ O caixa bancário que exerce a atividade de digitação, independentemente se pr
 
 - [00166078920235160009](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0016607-89.2023.5.16.0009/3#6eabf01)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 620
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 620
-- **Identificador na fonte:** `stf-rg-620`
+- **Identificador:** `stf-rg-620`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=620)
@@ -20,4 +20,4 @@ A questão do direito ao processamento do requerimento de revalidação de diplo
 
 - [638602](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4058188)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

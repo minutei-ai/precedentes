@@ -1,9 +1,9 @@
 # TJAP · NT 1
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjap-nt-1`
+- **Identificador:** `tjap-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/04/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=1)
@@ -38,4 +38,4 @@ classificação realizada pelos tribunais superiores e o respectivo regional fed
 
 - [Link Nota Técnica](https://old.tjap.jus.br/portal/images/CEIJAP/Nota_tecnica_nugepnac-tjap_compressed.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT17 · NT 3
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `trt17-nt-3`
+- **Identificador:** `trt17-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=NT&nr=3)
@@ -24,4 +24,4 @@ O Centro de Inteligência do Tribunal Regional do Trabalho da 17ª Região, em r
 
 - [Link Nota Técnica](https://www.trt17.jus.br/documents/20117/830226/NOTA-TECNICA-003-2022-CRI---Registro-dos-movimentos-de-suspensao-e-de-sobrestamento-no-PJe_378172266.pdf/dc6c4182-4462-b7f5-9b57-8109d8d1177e?version=1.0&t=1734472200776)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

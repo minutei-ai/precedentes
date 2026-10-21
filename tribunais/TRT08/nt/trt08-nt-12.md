@@ -1,9 +1,9 @@
 # TRT08 · NT 12
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Nota Técnica
 - **Número:** 12
-- **Identificador na fonte:** `trt08-nt-12`
+- **Identificador:** `trt08-nt-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 29/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=NT&nr=12)
@@ -29,4 +29,4 @@ Expeça-se ofício aos demais Tribunais Regionais do Trabalho, em atenção ao d
 
 - [Link Nota Técnica](https://www.trt8.jus.br/sites/portal/files/pdfs/anexo_de_comissao/comissao_id11788/nota_tecnica-2025-05-29_comissao_regional_de_inteligencia_id47115.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

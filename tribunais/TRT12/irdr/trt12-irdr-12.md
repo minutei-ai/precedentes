@@ -1,9 +1,9 @@
 # TRT12 · IRDR 12
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `trt12-irdr-12`
+- **Identificador:** `trt12-irdr-12`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=12)
@@ -20,4 +20,4 @@ TESE JURÍDICA Nº 14 EM IRDR: "Os acordos realizados e homologados na ação co
 
 - [00026445720205120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000235-42.2021.5.12.0043/2#68c3419)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

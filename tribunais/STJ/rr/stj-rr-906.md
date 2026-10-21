@@ -1,9 +1,9 @@
 # STJ · RR 906
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 906
-- **Identificador na fonte:** `stj-rr-906`
+- **Identificador:** `stj-rr-906`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 26/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=906)
@@ -16,4 +16,6 @@ Cinge-se a controvérsia à possibilidade do decreto da indisponibilidade de ben
 
 - 00192614320114030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

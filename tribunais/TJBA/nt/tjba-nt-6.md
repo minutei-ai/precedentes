@@ -1,9 +1,9 @@
 # TJBA · NT 6
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `tjba-nt-6`
+- **Identificador:** `tjba-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=NT&nr=6)
@@ -27,4 +27,4 @@ gratuita; inversão do ônus da prova; dispensa da audiência conciliatória; re
 
 - [Link Nota Técnica](https://www.tjba.jus.br/cijeba/notas/nota-tecnica-pn006-2022/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

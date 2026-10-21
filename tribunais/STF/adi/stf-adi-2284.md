@@ -1,10 +1,10 @@
 # STF · ADI 2284
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2284
-- **Identificador na fonte:** `stf-adi-2284`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2284`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 13/09/2000
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2284)
 
@@ -22,4 +22,4 @@ LEG-FED RES-020343 ANO-1998 (TSE). LEG-FED RES-020370 ANO-1998 (TSE). LEG-EST RE
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347522)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

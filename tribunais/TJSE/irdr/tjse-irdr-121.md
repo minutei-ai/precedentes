@@ -1,9 +1,9 @@
 # TJSE · IRDR 121
 
-- **Tribunal:** TJSE
+- **Órgão:** TJSE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 121
-- **Identificador na fonte:** `tjse-irdr-121`
+- **Identificador:** `tjse-irdr-121`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 19/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjse&tipo=IRDR&nr=121)
@@ -16,4 +16,4 @@ Reconhecimento do litisconsórcio necessário, quando a presença de todos os le
 
 - 00043975820258250001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

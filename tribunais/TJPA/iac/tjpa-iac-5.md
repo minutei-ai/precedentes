@@ -1,9 +1,9 @@
 # TJPA · IAC 5
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `tjpa-iac-5`
+- **Identificador:** `tjpa-iac-5`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 07/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IAC&nr=5)
@@ -16,4 +16,4 @@ Se configura direito adquirido, inclusive para fins de inatividade, a incorpora�
 
 - [08051586520258140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08051586520258140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

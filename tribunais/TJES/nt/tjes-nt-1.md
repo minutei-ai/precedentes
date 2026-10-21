@@ -1,9 +1,9 @@
 # TJES · NT 1
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Nota Técnica
 - **Número:** 1
-- **Identificador na fonte:** `tjes-nt-1`
+- **Identificador:** `tjes-nt-1`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 20/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=NT&nr=1)
@@ -21,4 +21,4 @@ Foi realizado um levantamento do quantitativo de processos sobrestados e dessobr
 
 - [Link Nota Técnica](https://www.tjes.jus.br/wp-content/uploads/NOTA-TECNICA-01.2024-PROCEDIMENTOS-PARA-GESTAO-DO-ACERVO-DE-PROCESSOS-SOBRESTADOS.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

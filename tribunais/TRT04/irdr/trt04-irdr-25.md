@@ -1,9 +1,9 @@
 # TRT04 · IRDR 25
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `trt04-irdr-25`
+- **Identificador:** `trt04-irdr-25`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=25)
@@ -16,4 +16,4 @@ Para a admissão de apólice de seguro garantia judicial em substituição ao de
 
 - [00215816920225040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021581-69.2022.5.04.0000/2#c49b533)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

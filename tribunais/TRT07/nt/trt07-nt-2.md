@@ -1,9 +1,9 @@
 # TRT07 · NT 2
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `trt07-nt-2`
+- **Identificador:** `trt07-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=NT&nr=2)
@@ -24,4 +24,4 @@ Conclusão: O Centro de Inteligência do Tribunal Regional de Trabalho da 7ª Re
 
 - [Link Nota Técnica](https://www.trt7.jus.br/files/jurisprudencia/notas_tecnicas_cij/2023/Nota_Tecnica_No_2-CI-2023.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

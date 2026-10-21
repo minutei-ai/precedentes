@@ -1,9 +1,9 @@
 # TJPI · IRDR 9
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjpi-irdr-9`
+- **Identificador:** `tjpi-irdr-9`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 21/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=9)
@@ -16,4 +16,4 @@ Definir o tratamento jurídico das pretensões decorrentes do período sem plano
 
 - 08243163420238180140
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

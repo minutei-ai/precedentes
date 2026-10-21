@@ -1,9 +1,9 @@
 # TJMG · IRDR 72
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 72
-- **Identificador na fonte:** `tjmg-irdr-72`
+- **Identificador:** `tjmg-irdr-72`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 15/03/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=72)
@@ -20,4 +20,4 @@ A Lei Complementar n° 105/2011 aplica-se à situação funcional dos Guardas Ci
 
 - [50320713520208130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000205032071001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

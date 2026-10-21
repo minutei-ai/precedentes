@@ -1,9 +1,9 @@
 # TJPE · SUM 92
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 92
-- **Identificador na fonte:** `tjpe-sum-92`
+- **Identificador:** `tjpe-sum-92`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=92)
@@ -19,4 +19,4 @@ A superveniência de sentença condenatória torna prejudicada a alegação d
 - [00043781020078170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00043781020078170000)
 - [00023636820078170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00023636820078170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

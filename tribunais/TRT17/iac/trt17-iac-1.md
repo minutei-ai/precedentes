@@ -1,9 +1,9 @@
 # TRT17 · IAC 1
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt17-iac-1`
+- **Identificador:** `trt17-iac-1`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 06/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ IAC 0000404-33.2015.5.17.0000 - Honorários advocatícios cobrados individualmen
 
 - [00004043320155170000](https://pje.trt17.jus.br/consultaprocessual/detalhe-processo/0000404-33.2015.5.17.0000/2#18a689f)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

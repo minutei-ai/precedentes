@@ -1,9 +1,9 @@
 # TRT01 · NT 25
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 25
-- **Identificador na fonte:** `trt01-nt-25`
+- **Identificador:** `trt01-nt-25`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/12/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=25)
@@ -34,4 +34,4 @@ Rio de Janeiro, 10 de dezembro de 2024.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/4326923/3/Notat%c3%a9cnica2024-0025-C.htm)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

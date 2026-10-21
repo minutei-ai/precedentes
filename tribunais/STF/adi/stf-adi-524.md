@@ -1,10 +1,10 @@
 # STF · ADI 524
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 524
-- **Identificador na fonte:** `stf-adi-524`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-524`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/08/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=524)
 
@@ -20,4 +20,4 @@ Por unanimidade de votos, o Tribunal indeferiu o pedido de medida cautelar. Voto
 
 LEG-FED CF ANO-1988 ART-00037 INC-00001 INC-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00032 INC-00006 ES. LEG-FED LEI-008112 ANO-1990 ART-00117 INC-00008 RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS LEG-FED LEI-008190 ANO-1991 ART-00006 LEG-FED LEI-008215 ANO-1991 ART-00017 LEG-FED RGI ANO-1980 ART-00357 PAR-ÚNICO RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

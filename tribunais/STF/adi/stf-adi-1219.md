@@ -1,10 +1,10 @@
 # STF · ADI 1219
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1219
-- **Identificador na fonte:** `stf-adi-1219`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1219`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 16/02/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1219)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu o pedido de medida liminar para suspe
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 INC-00009 ART-00173 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-005883 ANO-1994 (PB).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

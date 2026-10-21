@@ -1,9 +1,9 @@
 # TST · IRR 138
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 138
-- **Identificador na fonte:** `tst-irr-138`
+- **Identificador:** `tst-irr-138`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=138)
@@ -20,4 +20,4 @@ O empregado público que possui filho com Transtorno do Espectro Autista (TEA) t
 
 - [00005941320235200006](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000594-13.2023.5.20.0006/3#76d11e0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

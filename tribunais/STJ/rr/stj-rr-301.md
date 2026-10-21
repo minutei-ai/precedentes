@@ -1,9 +1,9 @@
 # STJ · RR 301
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 301
-- **Identificador na fonte:** `stj-rr-301`
+- **Identificador:** `stj-rr-301`
 - **Situação na fonte:** Sobrestado (outro motivo)
 - **Atualização informada pela fonte:** 30/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=301)
@@ -21,4 +21,10 @@ Quanto ao Plano Bresser (junho/1987), é de 26,06%, percentual estabelecido com 
 - [00469453220078070001](https://processo.stj.jus.br/processo/pesquisa/?termo=200802831784&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00643747620078190001](https://processo.stj.jus.br/processo/pesquisa/?termo=200801183977&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Sobrestado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

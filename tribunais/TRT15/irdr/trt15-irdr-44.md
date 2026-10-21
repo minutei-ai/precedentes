@@ -1,9 +1,9 @@
 # TRT15 · IRDR 44
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 44
-- **Identificador na fonte:** `trt15-irdr-44`
+- **Identificador:** `trt15-irdr-44`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 06/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=44)
@@ -20,4 +20,4 @@ A norma extraída do art. 9º, inciso II, da Lei nº 11.101/2005 possui natureza
 
 - [00185217720255150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018521-77.2025.5.15.0000/2#ecb858e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

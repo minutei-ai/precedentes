@@ -1,10 +1,10 @@
 # STF · ADI 236
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 236
-- **Identificador na fonte:** `stf-adi-236`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-236`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/05/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=236)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00002 ART-00025 ART-00144 INC-00001 INC-00002 INC-00003 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266262)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

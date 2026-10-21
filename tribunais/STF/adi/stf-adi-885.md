@@ -1,10 +1,10 @@
 # STF · ADI 885
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 885
-- **Identificador na fonte:** `stf-adi-885`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-885`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 17/06/1999
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=885)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00003 INC-00003 ART-00165 PAR-00002 ART-00166 PAR-00003 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266578)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

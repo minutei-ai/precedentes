@@ -1,9 +1,9 @@
 # TST · IRR 66
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 66
-- **Identificador na fonte:** `tst-irr-66`
+- **Identificador:** `tst-irr-66`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=66)
@@ -20,4 +20,4 @@ O número de trabalhadores que exercem as atividades de motorista e de cobrador 
 
 - [10016342720195020435](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1001634-27.2019.5.02.0435/3#8cfc0c1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

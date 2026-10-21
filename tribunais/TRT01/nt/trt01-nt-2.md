@@ -1,9 +1,9 @@
 # TRT01 · NT 2
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `trt01-nt-2`
+- **Identificador:** `trt01-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 31/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=2)
@@ -20,4 +20,4 @@ O Grupo Decisório do Centro Inteligência do Tribunal Regional do Trabalho da 1
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3695555/1/NOTA%20T%c3%89CNICA_2_TRT1.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

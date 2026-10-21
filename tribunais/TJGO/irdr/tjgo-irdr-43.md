@@ -1,9 +1,9 @@
 # TJGO · IRDR 43
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 43
-- **Identificador na fonte:** `tjgo-irdr-43`
+- **Identificador:** `tjgo-irdr-43`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 17/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=43)
@@ -16,4 +16,4 @@ Definir a possibilidade ou impossibilidade jurídica da cumulação do Adicional
 
 - [52680837720248090051](https://webmail.tjgo.jus.br/service/home/~/?auth=co&loc=pt_BR&id=42981&part=4)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

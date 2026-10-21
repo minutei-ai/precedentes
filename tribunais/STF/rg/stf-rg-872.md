@@ -1,9 +1,9 @@
 # STF · RG 872
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 872
-- **Identificador na fonte:** `stf-rg-872`
+- **Identificador:** `stf-rg-872`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=872)
@@ -20,4 +20,4 @@ Revela-se constitucional a sanção prevista no artigo 7º, inciso II, da Lei n�
 
 - [606010](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3797543)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

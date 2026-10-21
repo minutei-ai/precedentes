@@ -1,10 +1,10 @@
 # STF · ADPF 1016
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 1016
-- **Identificador na fonte:** `stf-adpf-1016`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-1016`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 17/12/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=1016)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00014 PAR-00005 ART-00027 ART-00057 PAR-00004 ART-00074 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=767277020)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

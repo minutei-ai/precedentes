@@ -1,9 +1,9 @@
 # TJPA · NT 6
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `tjpa-nt-6`
+- **Identificador:** `tjpa-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/12/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=NT&nr=6)
@@ -22,4 +22,4 @@ Considerando a relevância do tema e a sua inegável importância prática, se p
 
 - [Link Nota Técnica](https://www.tjpa.jus.br//CMSPortal/VisualizarArquivo?idArquivo=1220370)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

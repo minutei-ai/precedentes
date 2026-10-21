@@ -1,9 +1,9 @@
 # TRT24 · NT 29
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 29
-- **Identificador na fonte:** `trt24-nt-29`
+- **Identificador:** `trt24-nt-29`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=29)
@@ -74,4 +74,4 @@ julgador, de má-fé da parte ao recorrer, de intuito...
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/CI+NOTA+T%C3%89CNICA+N.+29_2025.pdf/f0c3161b-be4f-0d05-6139-9335c6f9ccf4?t=1748375248326)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

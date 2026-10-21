@@ -1,9 +1,9 @@
 # TRT11 · IRDR 10
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `trt11-irdr-10`
+- **Identificador:** `trt11-irdr-10`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=10)
@@ -27,4 +27,4 @@ Teses jurídicas fixadas (reformulação pelo acórdão de Embargos de Declaraç
 - [00014746920235110001](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0001474-69.2023.5.11.0001/1#e02fa71)
 - [00013867720235110018](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0001386-77.2023.5.11.0018/2#fb40bcc)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

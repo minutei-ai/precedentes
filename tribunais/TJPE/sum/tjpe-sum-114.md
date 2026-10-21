@@ -1,9 +1,9 @@
 # TJPE · SUM 114
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 114
-- **Identificador na fonte:** `tjpe-sum-114`
+- **Identificador:** `tjpe-sum-114`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=114)
@@ -20,4 +20,4 @@ A concessão da aposentadoria por invalidez deve considerar, além dos elementos
 - [00576691920078170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00576691920078170001)
 - [00000206720008171060](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00000206720008171060)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

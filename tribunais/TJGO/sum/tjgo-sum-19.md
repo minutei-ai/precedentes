@@ -1,9 +1,9 @@
 # TJGO · SUM 19
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 19
-- **Identificador na fonte:** `tjgo-sum-19`
+- **Identificador:** `tjgo-sum-19`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 07/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=19)
@@ -16,4 +16,4 @@ A pessoa jurídica de direito privado que explora o serviço de transporte colet
 
 - 03666797020138090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

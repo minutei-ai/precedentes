@@ -1,9 +1,9 @@
 # TJPE · SUM 164
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 164
-- **Identificador na fonte:** `tjpe-sum-164`
+- **Identificador:** `tjpe-sum-164`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=164)
@@ -16,4 +16,4 @@ Na condenação da Fazenda Pública ao pagamento de indenização por danos mora
 
 - [00012356720118170260](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00012356720118170260)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

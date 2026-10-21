@@ -1,10 +1,10 @@
 # STF · ADI 612
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 612
-- **Identificador na fonte:** `stf-adi-612`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-612`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/06/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=612)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado pelo adiantado da hora. Ple
 
 LEG-FED CF ANO-1891 ART-00034 INC-00001 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1934 ART-00050 PAR-00005 CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 ART-00074 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00066 (Redação dada pela EMC-1/1969). ART-00068 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 LEG-FED CF ANO-1988 ART-00165 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-001848 ANO-1991 ART-00034 PAR-00001 (RJ) LEG-EST LEI-001955 ANO-1992 (RJ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

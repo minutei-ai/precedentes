@@ -1,9 +1,9 @@
 # TRT04 · OJ 11
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 11
-- **Identificador na fonte:** `trt04-oj-11`
+- **Identificador:** `trt04-oj-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=11)
@@ -18,4 +18,4 @@ PRESCRIÇÃO INTERCORRENTE. INAPLICABILIDADE. No processo trabalhista, a execuç
 - [02740008319935040102](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/dIqTETH8q35kTCLywneW2A)
 - [00623004219945040302](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/jgT2_ZUznqTuk8jZsy6OyQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

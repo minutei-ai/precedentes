@@ -1,9 +1,9 @@
 # TRT17 · IAC 4
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `trt17-iac-4`
+- **Identificador:** `trt17-iac-4`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 06/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ SÚMULA 58: "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT). ADICIONAL DE AT
 
 - [00005686120165170000](https://pje.trt17.jus.br/consultaprocessual/detalhe-processo/0000568-61.2016.5.17.0000/2#1ab4ff8)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

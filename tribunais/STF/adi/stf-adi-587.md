@@ -1,10 +1,10 @@
 # STF · ADI 587
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 587
-- **Identificador na fonte:** `stf-adi-587`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-587`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/11/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=587)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal não conheceu da ação, vencido o Ministro Mar
 
 LEG-FED CF ANO-1988 ART-00093 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

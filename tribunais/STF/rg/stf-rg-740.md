@@ -1,9 +1,9 @@
 # STF · RG 740
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 740
-- **Identificador na fonte:** `stf-rg-740`
+- **Identificador:** `stf-rg-740`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=740)
@@ -20,4 +20,4 @@ A questão da definição da Justiça competente para processar e julgar ações
 
 - [808726](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4563066)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRJ · IRDR 56
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 56
-- **Identificador na fonte:** `tjrj-irdr-56`
+- **Identificador:** `tjrj-irdr-56`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=56)
@@ -16,4 +16,4 @@ Definição de tese jurídica sobre a legitimidade passiva do Município de Camp
 
 - [00759365520258190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2025.291.00030)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

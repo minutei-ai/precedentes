@@ -1,9 +1,9 @@
 # TJMG · IRDR 89
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 89
-- **Identificador na fonte:** `tjmg-irdr-89`
+- **Identificador:** `tjmg-irdr-89`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 21/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=89)
@@ -21,4 +21,4 @@ Modulam-se os efeitos do acórdão para manter a consequência das decisões jud
 
 - [00266010620238130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000220361497002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

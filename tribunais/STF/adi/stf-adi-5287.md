@@ -1,10 +1,10 @@
 # STF · ADI 5287
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5287
-- **Identificador na fonte:** `stf-adi-5287`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5287`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/05/2016
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5287)
 
@@ -26,4 +26,4 @@ LEG-FED CF ANO-1988 ART-00002 ART-00005 INC-00035 INC-00074 ART-00099 PAR-00001 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=11638659)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

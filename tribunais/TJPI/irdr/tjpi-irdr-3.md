@@ -1,9 +1,9 @@
 # TJPI · IRDR 3
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjpi-irdr-3`
+- **Identificador:** `tjpi-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 11/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ Análise de quatro temas afetos aos processos que discutem empréstimos consigna
 
 - [08005979220198180033](https://pje.tjpi.jus.br/2g/ ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=1105be08801293dfcb340e14f90d43fb465e7c969e17184d)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

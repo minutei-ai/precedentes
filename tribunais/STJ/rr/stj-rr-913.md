@@ -1,9 +1,9 @@
 # STJ · RR 913
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 913
-- **Identificador na fonte:** `stj-rr-913`
+- **Identificador:** `stj-rr-913`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=913)
@@ -24,4 +24,14 @@ II - A recusa da nomeação à penhora de cotas de fundo de investimento, reputa
 - [01147717420128260000](https://processo.stj.jus.br/processo/pesquisa/?termo=201302028295&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00845293520128260000](https://processo.stj.jus.br/processo/pesquisa/?termo=201302028980&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+I - A cota de fundo de investimento não se subsume à ordem de preferência legal disposta no inciso I do art. 655 do CPC/73 (ou no inciso I do art. 835 do NCPC). II - A recusa da nomeação à penhora de cotas de fundo de investimento, reputada legítima a partir das particularidades de cada caso concreto, não encerra, em si, excessiva onerosidade ao devedor, violação do recolhimento dos depósitos compulsórios e voluntários do Banco Central do Brasil ou afronta à impenhorabilidade das reservas obrigatórias.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

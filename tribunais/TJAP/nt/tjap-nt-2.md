@@ -1,9 +1,9 @@
 # TJAP · NT 2
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `tjap-nt-2`
+- **Identificador:** `tjap-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=2)
@@ -42,4 +42,4 @@ não está obrigado a segui-lo, de forma que, se o seguir, é porque está conve
 
 - [Link Nota Técnica](https://old.tjap.jus.br/portal/images/Centro_de_Inteligencia_-_Noticias/NOTAS_TECNICAS/NOTA_TECNICA_02-2022_tema_politica_de_precedentes.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

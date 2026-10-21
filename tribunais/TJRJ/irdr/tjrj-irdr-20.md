@@ -1,9 +1,9 @@
 # TJRJ · IRDR 20
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `tjrj-irdr-20`
+- **Identificador:** `tjrj-irdr-20`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=20)
@@ -20,4 +20,4 @@ A DECRETAÇÃO DE OFÍCIO DA PRESCRIÇÃO INTERCORRENTE EM SEDE DE EXECUÇÃO FI
 
 - [00342973320208190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2020.291.00023)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

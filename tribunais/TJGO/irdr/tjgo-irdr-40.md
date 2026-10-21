@@ -1,9 +1,9 @@
 # TJGO · IRDR 40
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 40
-- **Identificador na fonte:** `tjgo-irdr-40`
+- **Identificador:** `tjgo-irdr-40`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=40)
@@ -16,4 +16,4 @@ Obrigatoriedade de depósito judicial para suspender a exigência de crédito tr
 
 A suspensão da exigibilidade do crédito tributário não ocorre apenas por meio do depósito integral do valor questionado (inciso II do art. 151 do CTN), porquanto também pode ser concedida a suspensão nas demais hipóteses independentes contempladas nos outros incisos do artigo 151 do Código Tributário Nacional, máxime com suporte na cláusula geral de antecipação provisória dos efeitos materiais da tutela definitiva pretendida.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

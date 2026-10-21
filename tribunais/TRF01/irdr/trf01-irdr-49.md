@@ -1,9 +1,9 @@
 # TRF01 · IRDR 49
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 49
-- **Identificador na fonte:** `trf01-irdr-49`
+- **Identificador:** `trf01-irdr-49`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=49)
@@ -16,4 +16,4 @@ Discute-se a respeito da pretensão de empossados em cargos públicos serem remo
 
 - 10374335520204010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJAM · IRDR 5
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjam-irdr-5`
+- **Identificador:** `tjam-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=5)
@@ -20,4 +20,4 @@ As questões jurídicas a serem apreciadas são as seguintes: 1) Se o contrato d
 
 - [06332964620188040001](https://consultasaj.tjam.jus.br/cpopg/show.do?processo.codigo=01002HGE10000&processo.foro=1&processo.numero=0633296-46.2018.8.04.0001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

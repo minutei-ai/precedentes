@@ -1,9 +1,9 @@
 # TJES · NT 92025
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Nota Técnica
 - **Número:** 92025
-- **Identificador na fonte:** `tjes-nt-92025`
+- **Identificador:** `tjes-nt-92025`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=NT&nr=92025)
@@ -20,4 +20,4 @@ A Nota Técnica nº 02/2024, do Centro de Inteligência do Poder Judiciário do 
 
 - [Link Nota Técnica](https://www.tjes.jus.br/wp-content/uploads/NOTA-TECNICA-09.2025-PROTOCOLO-DE-ENFRENTAMENTO-A-LITIGANCIA-ABUSIVA-ATUALIZACAO-A-LUZ-DA-RECOMENDACAO-CNJ-No-159.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

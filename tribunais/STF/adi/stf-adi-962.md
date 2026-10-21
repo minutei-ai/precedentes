@@ -1,10 +1,10 @@
 # STF · ADI 962
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 962
-- **Identificador na fonte:** `stf-adi-962`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-962`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/11/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=962)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu, em parte, a medida liminar, para sus
 
 LEG-FED CF ANO-1988 ART-00008 INC-00004 ART-00037 INC-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008112 ANO-1990 ART-00240 RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS LEG-EST PRT-000120 ANO-1993 PRESIDENTE DO TRIBUNAL DE JUSTIÇA, PI.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 666
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 666
-- **Identificador na fonte:** `stf-adi-666`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-666`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/06/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=666)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal conheceu da ação e julgou-a procedente, para 
 
 LEG-FED CF ANO-1988 ART-00005 INC-00036 ART-00096 INC-00002 LET-B CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-007830 ANO-1989 LEG-FED LEI-008030 ANO-1990 LEG-FED MPR-000154 ANO-1990 CONVERTIDA NA LEI-8030/90. LEG-EST RAD-000686 ANO-1991 CLASSE 17, TRE, PE, INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

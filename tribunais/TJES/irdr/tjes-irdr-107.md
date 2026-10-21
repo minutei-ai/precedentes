@@ -1,9 +1,9 @@
 # TJES · IRDR 107
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 107
-- **Identificador na fonte:** `tjes-irdr-107`
+- **Identificador:** `tjes-irdr-107`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 20/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=107)
@@ -16,4 +16,4 @@ Definir o termo inicial do prazo prescricional da pretensão executória individ
 
 - [50003452820238080016](https://sistemas.tjes.jus.br/consultas-siep-back/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

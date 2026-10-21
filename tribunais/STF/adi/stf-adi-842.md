@@ -1,10 +1,10 @@
 # STF · ADI 842
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 842
-- **Identificador na fonte:** `stf-adi-842`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-842`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/02/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=842)
 
@@ -20,4 +20,4 @@ Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantado da 
 
 LEG-FED CF ANO-1988 ART-00005 INC-00073 ART-00037 INC-00002 INC-00003 ART-00102 INC-00001 LET-A CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000016 ANO-1965 EMENDA CONSTITUCIONAL LEG-FED LEI-008112 ANO-1990 ART-00012 PAR-00001 RJU-1990 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS FEDERAIS LEG-FED LEI-008541 ANO-1992 ART-00056 PAR-00001 PAR-00002 LEI ORDINÁRIA LEG-FED DEL-002225 ANO-1985 DECRETO-LEI LEG-FED DEC-092360 ANO-1986 DECRETO LEG-FED EDT-000018 ANO-1991 EDITAL DE CONCURSO PARA CARGO DE AUDITOR FISCAL DO TESOURO NACIONAL DA ESCOLA DE ADMINISTRAÇÃO FAZENDÁRIA - ESAF.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

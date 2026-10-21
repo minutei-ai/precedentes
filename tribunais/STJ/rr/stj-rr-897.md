@@ -1,9 +1,9 @@
 # STJ · RR 897
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 897
-- **Identificador na fonte:** `stj-rr-897`
+- **Identificador:** `stj-rr-897`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=897)
@@ -16,4 +16,6 @@ Discussão: "(...) as ações em que figura como parte servidor autárquico, obj
 
 - 00627015120084010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT08 · IRDR 13
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `trt08-irdr-13`
+- **Identificador:** `trt08-irdr-13`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IRDR&nr=13)
@@ -20,4 +20,4 @@ INTERPRETAÇÃO DE NORMA COLETIVA. TRABALHADORES MARÍTIMOS. As norma coletivas 
 
 - [00006255520215080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000625-55.2021.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

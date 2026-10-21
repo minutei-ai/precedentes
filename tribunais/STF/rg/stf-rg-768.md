@@ -1,9 +1,9 @@
 # STF · RG 768
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 768
-- **Identificador na fonte:** `stf-rg-768`
+- **Identificador:** `stf-rg-768`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=768)
@@ -20,4 +20,4 @@ Somente o ente público beneficiário possui legitimidade ativa para a propositu
 
 - [823347](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4598814)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

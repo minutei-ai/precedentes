@@ -1,9 +1,9 @@
 # TST · IRR 165
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 165
-- **Identificador na fonte:** `tst-irr-165`
+- **Identificador:** `tst-irr-165`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=165)
@@ -20,4 +20,4 @@ A incidência da prescrição parcial, em relação à pretensão a diferenças 
 
 - [00005654620235120018](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000565-46.2023.5.12.0018/3#8a155af)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

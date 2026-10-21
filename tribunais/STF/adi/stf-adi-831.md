@@ -1,10 +1,10 @@
 # STF · ADI 831
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 831
-- **Identificador na fonte:** `stf-adi-831`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-831`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 27/05/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=831)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal, por proposta do Ministro Ilmar Galvão, conv
 
 LEG-FED CF ANO-1988 ART-00008 ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-005452 ANO-1943 ART-00558 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

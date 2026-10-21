@@ -1,10 +1,10 @@
 # STF · ADI 2666
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2666
-- **Identificador na fonte:** `stf-adi-2666`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2666`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/10/2002
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2666)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00060 PAR-00002 PAR-00004 INC-00004 ART-00150 INC-00003 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266881)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

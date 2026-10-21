@@ -1,9 +1,9 @@
 # STF · RG 259
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 259
-- **Identificador na fonte:** `stf-rg-259`
+- **Identificador:** `stf-rg-259`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=259)
@@ -20,4 +20,4 @@ A imunidade da alínea d do inciso VI do artigo 150 da Constituição Federal al
 
 - [595676](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2651056)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

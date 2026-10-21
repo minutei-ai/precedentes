@@ -1,9 +1,9 @@
 # TJMG · NT 4
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `tjmg-nt-4`
+- **Identificador:** `tjmg-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/10/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=4)
@@ -23,4 +23,4 @@ A medida visa assegurar a coerência do sistema de precedentes qualificados, a s
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC812584D74EB60184E26BF12B15F2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 1455
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1455
-- **Identificador na fonte:** `stf-rg-1455`
+- **Identificador:** `stf-rg-1455`
 - **Situação na fonte:** Há repercussão geral. Leading case: acórdão publicado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1455)
@@ -20,4 +20,4 @@ Fixação por lei municipal, posterior à EC nº 29/2000, de alíquotas de IPTU 
 
 - [1593784](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7524215)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

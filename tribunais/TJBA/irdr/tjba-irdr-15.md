@@ -1,9 +1,9 @@
 # TJBA · IRDR 15
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjba-irdr-15`
+- **Identificador:** `tjba-irdr-15`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 27/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ Legalidade e constitucionalidade da incidência da contribuição previdenciári
 
 - [80113997420208050000](https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

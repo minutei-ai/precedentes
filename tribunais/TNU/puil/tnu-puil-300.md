@@ -1,9 +1,9 @@
 # TNU · PUIL 300
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 300
-- **Identificador na fonte:** `tnu-puil-300`
+- **Identificador:** `tnu-puil-300`
 - **Situação na fonte:** ADMITIDO_POSSIVEL_REVISAO_TESE
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=300)
@@ -20,4 +20,4 @@ Quando o empregador não autorizar o retorno do segurado, por considerá-lo inca
 
 - [05130308820204058400](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=05130308820204058400)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

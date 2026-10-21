@@ -1,9 +1,9 @@
 # TJAP · NT 3
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 3
-- **Identificador na fonte:** `tjap-nt-3`
+- **Identificador:** `tjap-nt-3`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=3)
@@ -37,4 +37,4 @@ Repetitivas e Precedentes Obrigatórios.
 
 - [Link Nota Técnica](https://www.tjap.jus.br/portal/images/documentos/CEIJAP/NT_03_2022.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

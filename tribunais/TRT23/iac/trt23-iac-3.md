@@ -1,9 +1,9 @@
 # TRT23 · IAC 3
 
-- **Tribunal:** TRT23
+- **Órgão:** TRT23
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `trt23-iac-3`
+- **Identificador:** `trt23-iac-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt23&tipo=IAC&nr=3)
@@ -22,4 +22,4 @@ IAC 0000187-70.2025.5.23.0000 Amplitude da legitimidade passiva nas ações dupl
 
 - [00006804820195230003](https://pje.trt23.jus.br/consultaprocessual/detalhe-processo/0000680-48.2019.5.23.0003/2#7d5f4f2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT23/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

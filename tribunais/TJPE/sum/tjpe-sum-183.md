@@ -1,9 +1,9 @@
 # TJPE · SUM 183
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 183
-- **Identificador na fonte:** `tjpe-sum-183`
+- **Identificador:** `tjpe-sum-183`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=183)
@@ -18,4 +18,4 @@ O promitente comprador de imóvel em incorporação imobiliária somente possui 
 - [00535524320118170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00535524320118170001)
 - [00009955420158172001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00009955420158172001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

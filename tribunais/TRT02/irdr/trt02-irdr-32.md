@@ -1,9 +1,9 @@
 # TRT02 · IRDR 32
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 32
-- **Identificador na fonte:** `trt02-irdr-32`
+- **Identificador:** `trt02-irdr-32`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 22/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=IRDR&nr=32)
@@ -16,4 +16,4 @@ Bancário. Acordo de prorrogação de jornada firmado após a contratação. Vá
 
 - [10019964420245020050](https://pje.trt2.jus.br/consultaprocessual/detalhe-processo/1001996-44.2024.5.02.0050/2#bcbe18f)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

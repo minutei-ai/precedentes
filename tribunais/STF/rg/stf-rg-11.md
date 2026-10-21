@@ -1,9 +1,9 @@
 # STF · RG 11
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 11
-- **Identificador na fonte:** `stf-rg-11`
+- **Identificador:** `stf-rg-11`
 - **Situação na fonte:** Não há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=11)
@@ -20,4 +20,4 @@ A questão da adoção do regime de pagamento parcelado de precatórios do art. 
 
 - [565653](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2563388)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

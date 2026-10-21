@@ -1,9 +1,9 @@
 # TJRJ · IAC 8
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `tjrj-iac-8`
+- **Identificador:** `tjrj-iac-8`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 28/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IAC&nr=8)
@@ -20,4 +20,4 @@ ACORDAM os Desembargadores que participam da sessão da Seção de Direito Públ
 
 - [00791829320248190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2024.290.00008)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

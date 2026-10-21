@@ -1,10 +1,10 @@
 # STF · ADI 5571
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5571
-- **Identificador na fonte:** `stf-adi-5571`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5571`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/06/2017
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5571)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009504 ANO-1997 ART-00028 ART-00029 ART-00030 ART-00031 ART-00032 LE
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=13141137)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

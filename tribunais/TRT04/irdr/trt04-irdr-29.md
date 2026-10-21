@@ -1,9 +1,9 @@
 # TRT04 · IRDR 29
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 29
-- **Identificador na fonte:** `trt04-irdr-29`
+- **Identificador:** `trt04-irdr-29`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=29)
@@ -16,4 +16,4 @@ A apólice do seguro garantia judicial que está em conformidade com os requisit
 
 - [00207070620215040102](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0020707-06.2021.5.04.0102/2#2a33039)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 279
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 279
-- **Identificador na fonte:** `tst-irr-279`
+- **Identificador:** `tst-irr-279`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=279)
@@ -20,4 +20,4 @@ O ajuizamento de ação trabalhista após decorrido o período de garantia de em
 
 - [00001446320245090096](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000144-63.2024.5.09.0096)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

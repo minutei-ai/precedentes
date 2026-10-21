@@ -1,9 +1,9 @@
 # STJ · CT 123
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 123
-- **Identificador na fonte:** `stj-ct-123`
+- **Identificador:** `stj-ct-123`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=123)
@@ -27,4 +27,14 @@ Cabimento da fixação de honorários advocatícios na execução contra a Fazen
 - [20455228420218260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202101934919&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [20482093420218260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202102306910&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Cabimento da fixação de honorários advocatícios na execução contra a Fazenda Pública de valores requisitados por RPV à luz das disposições do Código de Processo Civil de 2015.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

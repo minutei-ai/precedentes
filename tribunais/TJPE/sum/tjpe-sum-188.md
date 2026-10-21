@@ -1,9 +1,9 @@
 # TJPE · SUM 188
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 188
-- **Identificador na fonte:** `tjpe-sum-188`
+- **Identificador:** `tjpe-sum-188`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=188)
@@ -17,4 +17,4 @@ No contrato de promessa de compra e venda de imóvel em incorporação imobiliá
 - [00087226420158172001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00087226420158172001)
 - [00034914420138171090](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00034914420138171090)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

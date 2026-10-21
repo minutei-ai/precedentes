@@ -1,9 +1,9 @@
 # TRT04 · OJ 49
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 49
-- **Identificador na fonte:** `trt04-oj-49`
+- **Identificador:** `trt04-oj-49`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=49)
@@ -20,4 +20,4 @@ ATUALIZAÇÃO MONETÁRIA DOS DÉBITOS TRABALHISTAS. A partir de 14 de março de 
 - [00008077720125040029](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/UAdsejIkE-4i5xnd28F8BQ)
 - [00004796020115040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/uZ8N5KzK02o8duCuKTruMA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

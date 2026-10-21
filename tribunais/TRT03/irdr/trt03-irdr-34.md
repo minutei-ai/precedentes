@@ -1,9 +1,9 @@
 # TRT03 · IRDR 34
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `trt03-irdr-34`
+- **Identificador:** `trt03-irdr-34`
 - **Situação na fonte:** Sobrestado por tema do TST
 - **Atualização informada pela fonte:** 26/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=34)
@@ -16,4 +16,4 @@
 
 - [00179212620245030000](https://pje.trt3.jus.br/consultaprocessual/detalhe-processo/0017921-26.2024.5.03.0000/2#90915e1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · IRDR 18
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trf03-irdr-18`
+- **Identificador:** `trf03-irdr-18`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 07/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=18)
@@ -16,4 +16,4 @@ A aplicação da modulação estabelecida nos Embargos de Declaração do RE n.�
 
 - 50250882720234030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

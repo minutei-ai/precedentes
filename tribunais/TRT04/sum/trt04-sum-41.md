@@ -1,9 +1,9 @@
 # TRT04 · SUM 41
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 41
-- **Identificador na fonte:** `trt04-sum-41`
+- **Identificador:** `trt04-sum-41`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=41)
@@ -30,4 +30,4 @@ CONTRIBUIÇÕES PREVIDENCIÁRIAS. ACORDO SEM VÍNCULO DE EMPREGO. Incide contrib
 - [00006004120035040402](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/X1gzNSGQ2o4Qlm8II-JTQg)
 - [01316003320035040381](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/LrBMHreIZnwsFBiqcUmJUw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

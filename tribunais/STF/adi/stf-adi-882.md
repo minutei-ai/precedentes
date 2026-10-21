@@ -1,10 +1,10 @@
 # STF · ADI 882
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 882
-- **Identificador na fonte:** `stf-adi-882`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-882`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/06/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=882)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu medida cautelar, para suspender, até
 
 LEG-FED CF ANO-1988 ART-00103 PAR-00003 ART-00144 PAR-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LCP-000020 ANO-1992 ART-00003 ART-00004 ART-00104 PAR-00003 INC-00002 INC-00003 ART-00114 ART-00127 INC-00002 INC-00003 MT. LEG-EST LCP-000020 ANO-1992 ART-00010 PAR-00002 NÚMERO-12 MT.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

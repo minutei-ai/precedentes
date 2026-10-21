@@ -1,9 +1,9 @@
 # TJAM · SUM 2
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Súmula
 - **Número:** 2
-- **Identificador na fonte:** `tjam-sum-2`
+- **Identificador:** `tjam-sum-2`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=SUM&nr=2)
@@ -16,4 +16,4 @@ Na forma preconizada pelo art. 282 do CPC e art. 6º da Lei de Execução Fiscal
 
 - [00011663120138040000](https://consultasaj.tjam.jus.br/cposgcr/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=&foroNumeroUnificado=&dePesquisaNuUnificado=&dePesquisaNuUnificado=UNIFICADO&dePesquisa=0001166-31.2013.8.04.0000&tipoNuProcesso=SAJ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

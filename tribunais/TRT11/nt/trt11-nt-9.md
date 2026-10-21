@@ -1,9 +1,9 @@
 # TRT11 · NT 9
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `trt11-nt-9`
+- **Identificador:** `trt11-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 06/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=NT&nr=9)
@@ -22,4 +22,4 @@ https://portal.trt11.jus.br/images/Nota\_Tecnica\_09.2023\_TRT11.\_Padroniza%C3%
 
 - [Link Nota Técnica](https://portal.trt11.jus.br/images/Nota_Tecnica_09.2023_TRT11._Padroniza%C3%A7%C3%A3o_da_contagem_dos_prazos_dos_processos_administrativos_e_disciplinares._Com_assinatura.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJAM · IRDR 9
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjam-irdr-9`
+- **Identificador:** `tjam-irdr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=9)
@@ -20,4 +20,4 @@ A ausência de recolhimento das custas necessárias à citação caracterizaria 
 
 - [05246809820238040001](https://consultasaj.tjam.jus.br/cpopg/show.do?processo.codigo=01005J6I80000&processo.foro=1&processo.numero=0524680-98.2023.8.04.0001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

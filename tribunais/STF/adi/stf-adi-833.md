@@ -1,10 +1,10 @@
 # STF · ADI 833
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 833
-- **Identificador na fonte:** `stf-adi-833`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-833`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 04/03/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=833)
 
@@ -20,4 +20,4 @@ Após o voto do Ministro Relator, indeferindo a medida cautelar e dispensando o 
 
 LEG-FED ADCT ANO-1988 ART-00002 ART-00033 CF-1988. LEG-FED EMC-000002 ANO-1992 CF-1988.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

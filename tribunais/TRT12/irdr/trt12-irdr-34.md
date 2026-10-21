@@ -1,9 +1,9 @@
 # TRT12 · IRDR 34
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `trt12-irdr-34`
+- **Identificador:** `trt12-irdr-34`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 14/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=34)
@@ -16,4 +16,4 @@ Definir, para fins de estabelecer qual o termo inicial do prazo de dez dias para
 
 - [00008844620255120017](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/0000884-46.2025.5.12.0017/2#9f7ded6)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

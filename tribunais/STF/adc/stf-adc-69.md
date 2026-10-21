@@ -1,10 +1,10 @@
 # STF · ADC 69
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Declaratória de Constitucionalidade
 - **Número:** 69
-- **Identificador na fonte:** `stf-adc-69`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adc-69`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 03/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADC&nr=69)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1891 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1934 CF-1934 C
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=769282286)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

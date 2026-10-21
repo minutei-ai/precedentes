@@ -1,9 +1,9 @@
 # TJMG · IRDR 42
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 42
-- **Identificador na fonte:** `tjmg-irdr-42`
+- **Identificador:** `tjmg-irdr-42`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=42)
@@ -20,4 +20,4 @@ a) É inadmissível a representação processual por advogado ou preposto, no â
 
 - [04144135720168130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000160414413000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

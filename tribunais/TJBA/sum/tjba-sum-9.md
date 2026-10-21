@@ -1,9 +1,9 @@
 # TJBA · SUM 9
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 9
-- **Identificador na fonte:** `tjba-sum-9`
+- **Identificador:** `tjba-sum-9`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=9)
@@ -16,4 +16,4 @@ Aplicam-se as disposições do Código de Defesa do Consumidor às relações ju
 
 - 01307365020078050001
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

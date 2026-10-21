@@ -1,9 +1,9 @@
 # TRT07 · IAC 11
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 11
-- **Identificador na fonte:** `trt07-iac-11`
+- **Identificador:** `trt07-iac-11`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 18/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IAC&nr=11)
@@ -16,4 +16,4 @@ IAC 0000671-95.2026.5.07.0000 - É obrigatório o encaminhamento dos processos p
 
 - [00006719520265070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0000671-95.2026.5.07.0000/2#82cca99)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

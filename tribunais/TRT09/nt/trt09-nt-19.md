@@ -1,9 +1,9 @@
 # TRT09 · NT 19
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 19
-- **Identificador na fonte:** `trt09-nt-19`
+- **Identificador:** `trt09-nt-19`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=19)
@@ -25,4 +25,4 @@ O pedido tem caráter colaborativo e se insere na missão institucional da advoc
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8980948)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

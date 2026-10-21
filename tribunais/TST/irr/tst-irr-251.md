@@ -1,9 +1,9 @@
 # TST · IRR 251
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 251
-- **Identificador na fonte:** `tst-irr-251`
+- **Identificador:** `tst-irr-251`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=251)
@@ -20,4 +20,4 @@ A prescrição da pretensão relativa às parcelas remuneratórias alcança o re
 
 - [00108267620245030021](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00108267620245030021)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

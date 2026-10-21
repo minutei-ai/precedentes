@@ -1,9 +1,9 @@
 # TJPE · SUM 163
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 163
-- **Identificador na fonte:** `tjpe-sum-163`
+- **Identificador:** `tjpe-sum-163`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=163)
@@ -18,4 +18,4 @@ A correção monetária, nas condenações impostas à Fazenda Pública ao pagam
 - [00017451020148171090](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00017451020148171090)
 - [00007740420088170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00007740420088170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

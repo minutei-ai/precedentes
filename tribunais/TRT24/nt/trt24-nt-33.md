@@ -1,9 +1,9 @@
 # TRT24 · NT 33
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 33
-- **Identificador na fonte:** `trt24-nt-33`
+- **Identificador:** `trt24-nt-33`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=33)
@@ -60,4 +60,4 @@ Assim, verificada a dissonância entre a tese vinculante fixada pelo C. TST e aq
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/CI+NOTA+T%C3%89CNICA+N.+33_2025.pdf/f4e91348-6487-901a-cfb1-16802b2cb3a7?t=1751490540735)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

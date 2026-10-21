@@ -1,9 +1,9 @@
 # TJMA · IRDR 10
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `tjma-irdr-10`
+- **Identificador:** `tjma-irdr-10`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=10)
@@ -20,4 +20,4 @@ Pendente de julgamento.
 
 - [08177572320208100000](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=206829&ca=888b013e98f89aee997012a7da670c924069168321e277d9e0c9b5a196f4635cc70c9fe33202b3ec457f5a4052330bab&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

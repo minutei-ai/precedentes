@@ -1,10 +1,10 @@
 # STF · ADI 546
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 546
-- **Identificador na fonte:** `stf-adi-546`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-546`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/03/1999
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=546)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00002 ART-00061 INC-00002 LET-a ART-00063 INC-00001 CF-1
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266408)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

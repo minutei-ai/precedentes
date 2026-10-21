@@ -1,9 +1,9 @@
 # TRT01 · NT 18
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 18
-- **Identificador na fonte:** `trt01-nt-18`
+- **Identificador:** `trt01-nt-18`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 17/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=18)
@@ -38,4 +38,4 @@ Rio de Janeiro, 16 de outubro de 2023.
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/3687875)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

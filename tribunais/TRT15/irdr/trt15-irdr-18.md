@@ -1,9 +1,9 @@
 # TRT15 · IRDR 18
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trt15-irdr-18`
+- **Identificador:** `trt15-irdr-18`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 13/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=18)
@@ -16,4 +16,4 @@ Teses a serem definidas acerca das seguintes questões: 1) definição se o proc
 
 - [00060881720205150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0006088-17.2020.5.15.0000/2#9151a66)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

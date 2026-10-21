@@ -1,9 +1,9 @@
 # TRF03 · NT 10
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `trf03-nt-10`
+- **Identificador:** `trf03-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 18/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=10)
@@ -28,4 +28,4 @@ Como sugestão para mitigar o problema, a Nota Técnica reconhece que a crise ec
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/SEI_TRF3_-_5559026_-_Nota_Tecnica_NI_10_CLISP.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT19 · IAC 17
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 17
-- **Identificador na fonte:** `trt19-iac-17`
+- **Identificador:** `trt19-iac-17`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 10/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=17)
@@ -21,4 +21,4 @@ CPC) e sanções por litigância de má-fé (arts. 793-A a 793-C da CLT), especi
 
 - [00004132220265190010](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000413-22.2026.5.19.0010/1#59f27ba)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

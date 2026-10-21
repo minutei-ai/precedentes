@@ -1,9 +1,9 @@
 # TJMT · IRDR 11
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjmt-irdr-11`
+- **Identificador:** `tjmt-irdr-11`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 23/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=11)
@@ -20,4 +20,4 @@ A questão em discussão consiste em definir se os vigias de prédios públicos 
 
 - 10269536420248110000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

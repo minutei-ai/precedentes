@@ -1,9 +1,9 @@
 # TRT15 · IRDR 23
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 23
-- **Identificador na fonte:** `trt15-irdr-23`
+- **Identificador:** `trt15-irdr-23`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 13/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=23)
@@ -17,4 +17,4 @@ Uniformização dos critérios de execução do julgamento proferido nos autos d
 - [00058445420215150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0005844-54.2021.5.15.0000/2)
 - [00284001720085150126](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0028400-17.2008.5.15.0126/1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

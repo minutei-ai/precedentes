@@ -1,10 +1,10 @@
 # STF · ADI 1401
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1401
-- **Identificador na fonte:** `stf-adi-1401`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1401`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/05/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1401)
 
@@ -22,4 +22,4 @@ LEG-EST ADCT ANO-1989 ART-00020 INC-00001 CES-GO. LEG-EST LEI-011369 ANO-1990 AR
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347033)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

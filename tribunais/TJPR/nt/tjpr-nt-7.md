@@ -1,9 +1,9 @@
 # TJPR · NT 7
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `tjpr-nt-7`
+- **Identificador:** `tjpr-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=NT&nr=7)
@@ -39,4 +39,4 @@ Dentre os materiais elaborados pela Frente de Treinamento ...
 
 - [Link Nota Técnica](https://www.tjpr.jus.br/documents/d/centro-de-inteligencia/nota-007-gesprijud)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMT · IRDR 15
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjmt-irdr-15`
+- **Identificador:** `tjmt-irdr-15`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 09/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ Definir qual o recurso cabível (apelação ou agravo de instrumento) contra dec
 
 - [10293600920258110000](https://consultaprocessual.tjmt.jus.br/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT11 · IRDR 9
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `trt11-irdr-9`
+- **Identificador:** `trt11-irdr-9`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=9)
@@ -17,4 +17,4 @@ Tema provisório: "Competência da Justiça do Trabalho no julgamento de demanda
 - 00006999820235110051
 - 00001718620245110000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

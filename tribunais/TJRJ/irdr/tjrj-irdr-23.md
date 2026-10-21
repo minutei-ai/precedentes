@@ -1,9 +1,9 @@
 # TJRJ · IRDR 23
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 23
-- **Identificador na fonte:** `tjrj-irdr-23`
+- **Identificador:** `tjrj-irdr-23`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 05/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IRDR&nr=23)
@@ -20,4 +20,4 @@ Impossibilidade de inserção na base de cálculo do Adicional de Tempo de Servi
 
 - [00902123320218190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2021.291.00084)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

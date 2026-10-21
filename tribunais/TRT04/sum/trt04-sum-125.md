@@ -1,9 +1,9 @@
 # TRT04 · SUM 125
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 125
-- **Identificador na fonte:** `trt04-sum-125`
+- **Identificador:** `trt04-sum-125`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=125)
@@ -18,4 +18,4 @@ APOSENTADORIA COMPULSÓRIA. EMPREGADO PÚBLICO. A aposentadoria compulsória, pr
 - [00202226320155040733](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/dVTqeAzkKVM0LuAyaJmKDw)
 - [00009209520145040761](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/IgQ6kEZYi9I_Ok36qaq7qw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

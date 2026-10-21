@@ -1,9 +1,9 @@
 # STF · RG 310
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 310
-- **Identificador na fonte:** `stf-rg-310`
+- **Identificador:** `stf-rg-310`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=310)
@@ -20,4 +20,4 @@ A questão da limitação da taxa dos juros remuneratórios a 12% a.a. (doze por
 
 - [804209](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3900963)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 1419
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1419
-- **Identificador na fonte:** `stf-rg-1419`
+- **Identificador:** `stf-rg-1419`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1419)
@@ -20,4 +20,4 @@ A taxa SELIC, prevista no art. 3º da EC 113/2021, é aplicável para a atualiza
 
 - [1557312](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7292835)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

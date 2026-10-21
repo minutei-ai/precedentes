@@ -1,10 +1,10 @@
 # STF · ADI 1280
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1280
-- **Identificador na fonte:** `stf-adi-1280`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1280`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/04/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1280)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu o pedido de medida liminar para suspe
 
 LEG-FED CF ANO-1988 ART-00002 ART-00037 INC-00002 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LEI-000157 ANO-1990 ART-00025 PAR-ÚNICO (TO). LEG-EST LEI-000751 ANO-1995 ART-00002 INC-00002 ART-00003 PAR-00001 PAR-00002 ART-00004 ART-00005 (TO). LEG-EST DEC-009191 ANO-1993 (TO).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJGO · SUM 63
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 63
-- **Identificador na fonte:** `tjgo-sum-63`
+- **Identificador:** `tjgo-sum-63`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 01/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=63)
@@ -16,4 +16,4 @@ Os empréstimos concedidos na modalidade Cartão de Crédito Consignado são
 
 - 02044387020158090087
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

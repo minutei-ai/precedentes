@@ -1,9 +1,9 @@
 # TRT09 · IAC 10
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 10
-- **Identificador na fonte:** `trt09-iac-10`
+- **Identificador:** `trt09-iac-10`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 21/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=10)
@@ -21,4 +21,4 @@ Convertido em IRDR - Direito ao prêmio-desligamento aos antigos empregados do s
 
 - [00001345520205090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0000134-55.2020.5.09.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

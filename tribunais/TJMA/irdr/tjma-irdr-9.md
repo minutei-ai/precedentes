@@ -1,9 +1,9 @@
 # TJMA · IRDR 9
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 9
-- **Identificador na fonte:** `tjma-irdr-9`
+- **Identificador:** `tjma-irdr-9`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=9)
@@ -23,4 +23,4 @@ PROCEDIMENTO DE REVISÃO DE TESE. INCIDENTE DE RESOLUÇÃO DE TESE REPETITIVA N�
 
 - [00048842920178100000](https://pje2.tjma.jus.br/pje2g/Processo/ConsultaProcesso/Detalhe/listAutosDigitais.seam?idProcesso=537829&ca=7606c9c5df231820e4882a3336316af2ec6dae4f62e5322f1f19302221db490d1e0db181e47b77e5d9b24ebf8d7a3132&aba=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

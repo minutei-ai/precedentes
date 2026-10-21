@@ -1,9 +1,9 @@
 # STF · RG 1149
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1149
-- **Identificador na fonte:** `stf-rg-1149`
+- **Identificador:** `stf-rg-1149`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1149)
@@ -20,4 +20,4 @@ Possibilidade de os servidores do Plano Geral de Cargos do Poder Executivo em at
 
 - [1278617](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5953384)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

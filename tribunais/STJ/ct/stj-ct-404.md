@@ -1,9 +1,9 @@
 # STJ · CT 404
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 404
-- **Identificador na fonte:** `stj-ct-404`
+- **Identificador:** `stj-ct-404`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=404)
@@ -20,4 +20,14 @@ Definir se é cabível a incidência de contribuição previdenciária sobre os 
 - [00575207620124013800](https://processo.stj.jus.br/processo/pesquisa/?termo=202201693374&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00444918320124013500](https://processo.stj.jus.br/processo/pesquisa/?termo=202103404092&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Definir se é cabível a incidência de contribuição previdenciária sobre os valores pagos ao empregado a título de décimo terceiro salário proporcional referente ao aviso prévio indenizado.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

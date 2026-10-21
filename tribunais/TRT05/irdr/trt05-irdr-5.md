@@ -1,9 +1,9 @@
 # TRT05 · IRDR 5
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `trt05-irdr-5`
+- **Identificador:** `trt05-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 24/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IRDR&nr=5)
@@ -20,4 +20,4 @@ DANO MORAL. TRANSPORTE DE VALORES. IRRELEVÂNCIA DO VALOR TRANSPORTADO. É fato 
 
 - [00017977920225050000](https://pje.trt5.jus.br/consultaprocessual/detalhe-processo/0001797-79.2022.5.05.0000/2#b0f1606)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 162
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 162
-- **Identificador na fonte:** `tst-irr-162`
+- **Identificador:** `tst-irr-162`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 14/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=162)
@@ -20,4 +20,4 @@ A divergência entre os códigos de barras do comprovante de pagamento das custa
 
 - [00003593420245060351](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000359-34.2024.5.06.0351/3#2aee513)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

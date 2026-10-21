@@ -1,9 +1,9 @@
 # TJAM · IRDR 2
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjam-irdr-2`
+- **Identificador:** `tjam-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ Possibilidade ou não de destinação de percentual de vagas de concurso públic
 
 - [02293091420118040001](https://consultasaj.tjam.jus.br/cpopg/show.do?processo.codigo=01001E4720000&processo.foro=1&processo.numero=0229309-14.2011.8.04.0001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

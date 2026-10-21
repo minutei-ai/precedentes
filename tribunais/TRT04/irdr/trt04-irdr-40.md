@@ -1,9 +1,9 @@
 # TRT04 · IRDR 40
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 40
-- **Identificador na fonte:** `trt04-irdr-40`
+- **Identificador:** `trt04-irdr-40`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 15/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=40)
@@ -16,4 +16,4 @@ Os trabalhadores portuários avulsos da atividade de estiva que tiveram o cadast
 
 - [00206912120235040122](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0020691-21.2023.5.04.0122/2#214976a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

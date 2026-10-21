@@ -1,9 +1,9 @@
 # TRT24 · NT 15
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 15
-- **Identificador na fonte:** `trt24-nt-15`
+- **Identificador:** `trt24-nt-15`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/02/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=15)
@@ -40,4 +40,4 @@ uniformização da jurisprudência relativamente à questão debatida. Respeitos
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+15.2023.pdf/bb2bea08-d2a8-b831-1ba2-213e00682fe2?t=1676378926566)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

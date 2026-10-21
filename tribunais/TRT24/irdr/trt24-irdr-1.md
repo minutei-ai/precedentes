@@ -1,9 +1,9 @@
 # TRT24 · IRDR 1
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `trt24-irdr-1`
+- **Identificador:** `trt24-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 02/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IRDR&nr=1)
@@ -20,4 +20,4 @@ a) qual a interpretação que deve prevalecer para o caput do art. 1040 do CPC (
 
 - [00240203220215240000](https://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024020-32.2021.5.24.0000/2#3417e36)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

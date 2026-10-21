@@ -1,9 +1,9 @@
 # TJGO · SUM 68
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 68
-- **Identificador na fonte:** `tjgo-sum-68`
+- **Identificador:** `tjgo-sum-68`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=68)
@@ -16,4 +16,4 @@ A penhora on line, via Bacenjud, é meio idôneo e legal para se garantir o juí
 
 - 52755980620168090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

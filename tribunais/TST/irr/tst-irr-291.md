@@ -1,9 +1,9 @@
 # TST · IRR 291
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 291
-- **Identificador na fonte:** `tst-irr-291`
+- **Identificador:** `tst-irr-291`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 11/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=291)
@@ -16,4 +16,4 @@ O dirigente de cooperativa de consumo possui direito à estabilidade provisória
 
 - [00007341220245170001](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000734-12.2024.5.17.0001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

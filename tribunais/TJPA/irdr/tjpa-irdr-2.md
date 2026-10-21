@@ -1,9 +1,9 @@
 # TJPA · IRDR 2
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjpa-irdr-2`
+- **Identificador:** `tjpa-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ A concessão da CNH definitiva ao condutor que cometeu as infrações relacionad
 
 - [00099325520178140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=00099325520178140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

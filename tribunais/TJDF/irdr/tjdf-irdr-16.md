@@ -1,9 +1,9 @@
 # TJDF · IRDR 16
 
-- **Tribunal:** TJDF
+- **Órgão:** TJDF
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `tjdf-irdr-16`
+- **Identificador:** `tjdf-irdr-16`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 19/01/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjdf&tipo=IRDR&nr=16)
@@ -22,4 +22,4 @@ II) Não será configurada a pertinência subjetiva do Banco do Brasil S/A apena
 
 - 07135124920198070009
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJDF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

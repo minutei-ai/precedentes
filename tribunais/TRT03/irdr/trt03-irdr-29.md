@@ -1,9 +1,9 @@
 # TRT03 · IRDR 29
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 29
-- **Identificador na fonte:** `trt03-irdr-29`
+- **Identificador:** `trt03-irdr-29`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 15/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=29)
@@ -21,4 +21,4 @@ A Circular Normativa Permanente RP-52, editada pelo Itaú Unibanco S.A., não eq
 
 - [00159033220245030000](https://pje.trt3.jus.br/consultaprocessual/detalhe-processo/0015903-32.2024.5.03.0000/2#e6d83da)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

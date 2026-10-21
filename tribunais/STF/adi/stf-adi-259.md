@@ -1,10 +1,10 @@
 # STF · ADI 259
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 259
-- **Identificador na fonte:** `stf-adi-259`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-259`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/03/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=259)
 
@@ -20,4 +20,4 @@ Após os votos dos Srs. Ministros Relator, Celso de Mello e Sepúlveda Pertence 
 
 LEG-FED CF ANO-1988 ART-00062 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00282 ART-00283 ART-00284 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED MPR-000148 (CONVERSAO NA LEI-8011). LEG-FED MPR-000149 (CONVERSAO NA LEI-8025). LEG-FED MPR-000150 (CONVERSAO NA LEI-8028). LEG-FED MPR-000151 (CONVERSAO NA LEI-8029). LEG-FED MPR-000152 (CONVERSAO NA LEI-8020). LEG-FED MPR-000153 LEG-FED MPR-000154 (CONVERSAO NA LEI-8030). LEG-FED MPR-000156 LEG-FED MPR-000157 LEG-FED MPR-000158 (CONVERSAO NA LEI-8032). LEG-FED MPR-000159 (CONVERSAO NA LEI-8027). LEG-FED MPR-000160 (CONVERSAO NA LEI-8033). LEG-FED MPR-000161 (CONVERSAO NA LEI-8034). LEG-FED MPR-000162 LEG-FED MPR-000163 (CONVERSAO NA LEI-8026). LEG-FED MPR-000167 (CONVERSAO NA LEI-8023). LEG-FED MPR-000168 (CONVERSAO NA LEI-8024). LEG-FED MPR-000169 LEG-FED MPR-000173 LEG-FED MPR-000178 LEG-FED MPR-000181 LEG-FED MPR-000182
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

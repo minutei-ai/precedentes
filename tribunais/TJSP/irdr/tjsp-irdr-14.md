@@ -1,9 +1,9 @@
 # TJSP · IRDR 14
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `tjsp-irdr-14`
+- **Identificador:** `tjsp-irdr-14`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=14)
@@ -16,4 +16,4 @@ Incidente de Resolução de Demandas Repetitivas (IRDR) - Questão de direito re
 
 - [00541746620178260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0054174-66.2017&foroNumeroUnificado=0000&dePesquisaNuUnificado=0054174-66.2017.8.26.0000&dePesquisa=&uuidCaptcha=#?cdDocumento=7)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

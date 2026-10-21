@@ -1,9 +1,9 @@
 # TRT08 · IRDR 25
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 25
-- **Identificador na fonte:** `trt08-irdr-25`
+- **Identificador:** `trt08-irdr-25`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IRDR&nr=25)
@@ -20,4 +20,4 @@ A partir da vigência do § 3.º do art. 9ª-A da lei n.º 11.350/2006, o adicio
 
 - [00007830820245080000](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000783-08.2024.5.08.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

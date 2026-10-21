@@ -1,9 +1,9 @@
 # TRT09 · IRDR 18
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trt09-irdr-18`
+- **Identificador:** `trt09-irdr-18`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 19/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=18)
@@ -21,4 +21,4 @@ Revisão, pelo Tribunal Pleno, da decisão proferida no IRDR 0000812-41.2018.5.0
 
 - [00015164420245090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001516-44.2024.5.09.0000/2#f9f58cb)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

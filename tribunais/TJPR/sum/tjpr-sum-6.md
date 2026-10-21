@@ -1,9 +1,9 @@
 # TJPR · SUM 6
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 6
-- **Identificador na fonte:** `tjpr-sum-6`
+- **Identificador:** `tjpr-sum-6`
 - **Situação na fonte:** Em revisão
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=6)
@@ -15,4 +15,4 @@ Exclusiva, incorpora-se, para todos os efeitos, aos vencimentos, e tem como base
 incidência, não só o vencimento básico, como também, os acréscimos constitucionais  
 e demais vantagens pecuniárias percebidas ou percipiendas".
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

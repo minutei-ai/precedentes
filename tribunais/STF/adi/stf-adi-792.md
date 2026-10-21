@@ -1,10 +1,10 @@
 # STF · ADI 792
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 792
-- **Identificador na fonte:** `stf-adi-792`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-792`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/11/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=792)
 
@@ -22,4 +22,4 @@ LEG-FED EMC-000001 ANO-1969 ART-00030 PAR-ÚNICO LET-F ART-00200 CF-1969 CONSTIT
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=346609)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

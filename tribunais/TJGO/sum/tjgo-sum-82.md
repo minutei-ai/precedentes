@@ -1,9 +1,9 @@
 # TJGO · SUM 82
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 82
-- **Identificador na fonte:** `tjgo-sum-82`
+- **Identificador:** `tjgo-sum-82`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/08/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=82)
@@ -16,4 +16,4 @@ Os recursos e ações ajuizadas contra as decisões proferidas na fase de cumpri
 
 - 50913972920238090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

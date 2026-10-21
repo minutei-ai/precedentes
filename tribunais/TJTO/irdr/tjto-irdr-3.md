@@ -1,9 +1,9 @@
 # TJTO · IRDR 3
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjto-irdr-3`
+- **Identificador:** `tjto-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=IRDR&nr=3)
@@ -26,4 +26,4 @@ Para efeitos de identificação dos processos abrangidos pelo incidente, o prese
   
 5\. Diante da previsão legal, não são indevidos os descontos revertidos em favor do próprio titular da conta sob a rubrica PGTO RENDIMENTO FOPAG, repassados ao empregador do titular da conta para crédito em folha de pagamento.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

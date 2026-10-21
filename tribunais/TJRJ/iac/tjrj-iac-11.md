@@ -1,9 +1,9 @@
 # TJRJ · IAC 11
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 11
-- **Identificador na fonte:** `tjrj-iac-11`
+- **Identificador:** `tjrj-iac-11`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=IAC&nr=11)
@@ -16,4 +16,4 @@ Estabelecer o critério para designar a competência das Varas de Fazenda Públi
 
 - [00237208320268190000](https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2026.290.00002)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 2551
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2551
-- **Identificador na fonte:** `stf-adi-2551`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2551`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 02/04/2003
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2551)
 
@@ -20,4 +20,4 @@ Apresentado o processo em mesa, o julgamento foi adiado em virtude do adiantado 
 
 LEG-FED CF ANO-1988 ART-00005 INC-00054 INC-00055 ART-00103 INC-00009 ART-00150 INC-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00003 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED RGI ANO-1980 ART-00021 INC-00005 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-FED DEL-000073 ANO-1966 ART-00073 LEG-FED LEI-006194 ANO-1974 ART-00012 PAR-00002 Institui o Seguro Obrigatório de danos pessoais causados por veículos automotores de vias terrestres - DPVAT. LEG-FED LEI-009868 ANO-1999 ART-00010 "CAPUT" PAR-00001 LEG-FED REG-000737 ANO-1850 ART-00019 PAR-00004 LEG-EST LEI-012425 ANO-1996 ART-00015 INC-00001 INC-00002 PAR-00001 PAR-00002 PAR-00003 Redação dada pela LEI-13430/1999 MG LEG-EST LEI-013430 ANO-1999 ART-00016 MG
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

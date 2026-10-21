@@ -1,9 +1,9 @@
 # TRT16 · IRDR 8
 
-- **Tribunal:** TRT16
+- **Órgão:** TRT16
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `trt16-irdr-8`
+- **Identificador:** `trt16-irdr-8`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 07/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt16&tipo=IRDR&nr=8)
@@ -20,4 +20,4 @@ A aposentadoria compulsória não é aplicável aos empregados públicos aos 70 
 
 - [00195922420245160000](https://pje.trt16.jus.br/pjekz/processo/115670/detalhe)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT16/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

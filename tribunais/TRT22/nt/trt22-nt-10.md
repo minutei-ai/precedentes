@@ -1,9 +1,9 @@
 # TRT22 · NT 10
 
-- **Tribunal:** TRT22
+- **Órgão:** TRT22
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `trt22-nt-10`
+- **Identificador:** `trt22-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt22&tipo=NT&nr=10)
@@ -28,4 +28,4 @@ O Grupo Operacional recomenda a implementação da medida por considerar que ela
 
 - [Link Nota Técnica](https://drive.google.com/file/d/1AOpo3k2HWrYaq3f_C6FsJH2c1VNhXyMt/view?usp=drive_link)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT22/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

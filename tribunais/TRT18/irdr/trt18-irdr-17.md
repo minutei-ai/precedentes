@@ -1,9 +1,9 @@
 # TRT18 · IRDR 17
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `trt18-irdr-17`
+- **Identificador:** `trt18-irdr-17`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 09/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=17)
@@ -16,4 +16,4 @@ IRDR-0010122-17.2021.5.18.0000- Aplicabilidade da Súmula 25 do TRT da 18ª Regi
 
 - [00101221720215180000](https://pje.trt18.jus.br/consultaprocessual/detalhe-processo/0010122-17.2021.5.18.0000/2#7af0c10)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

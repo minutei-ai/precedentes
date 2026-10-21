@@ -1,9 +1,9 @@
 # TJAP · IRDR 20
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `tjap-irdr-20`
+- **Identificador:** `tjap-irdr-20`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 30/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IRDR&nr=20)
@@ -20,4 +20,4 @@ Se o índice de 11,98% (onze vírgula noventa e oito por cento), resultante de c
 
 - 00046287620208030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

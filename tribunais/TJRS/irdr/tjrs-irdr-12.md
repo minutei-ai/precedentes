@@ -1,9 +1,9 @@
 # TJRS · IRDR 12
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjrs-irdr-12`
+- **Identificador:** `tjrs-irdr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=12)
@@ -16,4 +16,4 @@
 
 ATRASAR OU PARCELAR VENCIMENTOS, SOLDOS, PROVENTOS OU PENSÕES DE SERVIDORES PÚBLICOS ATIVOS, INATIVOS E PENSIONISTAS, POR SI SÓ NÃO CARACTERIZA DANO MORAL AFERÍVEL IN RE IPSA.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

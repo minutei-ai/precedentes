@@ -1,9 +1,9 @@
 # TST · IRR 93
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 93
-- **Identificador na fonte:** `tst-irr-93`
+- **Identificador:** `tst-irr-93`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 12/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=93)
@@ -16,4 +16,4 @@ Quais critérios devem ser levados em consideração para a aferição do carát
 
 - [00103102720225030021](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0010310-27.2022.5.03.0021/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJAP · NT 5
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `tjap-nt-5`
+- **Identificador:** `tjap-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=NT&nr=5)
@@ -34,4 +34,4 @@ mais eficaz a ser seguido quando houver acionamento para apreciação de matéri
 
 - [Link Nota Técnica](https://www.tjap.jus.br/portal/images/documentos/CEIJAP/CEIJAP_NT5_2023_APAGAO_ASSINADA.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

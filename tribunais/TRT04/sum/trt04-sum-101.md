@@ -1,9 +1,9 @@
 # TRT04 · SUM 101
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 101
-- **Identificador na fonte:** `trt04-sum-101`
+- **Identificador:** `trt04-sum-101`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=101)
@@ -18,4 +18,4 @@ ADICIONAL NOTURNO. MAJORAÇÃO DO PERCENTUAL POR NORMA COLETIVA PARA EQUIPARAR A
 - [00009142620145040232](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/4k8E0eNA_LSPQTnlexOYmg)
 - [00006799620135040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/_GLVupQ6iPqc_Q7JHvSeZw)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

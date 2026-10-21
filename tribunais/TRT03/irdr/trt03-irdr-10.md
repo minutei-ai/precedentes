@@ -1,9 +1,9 @@
 # TRT03 · IRDR 10
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `trt03-irdr-10`
+- **Identificador:** `trt03-irdr-10`
 - **Situação na fonte:** Revisado
 - **Atualização informada pela fonte:** 08/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=10)
@@ -33,4 +33,4 @@ ITEM 2 CANCELADO PELA RESOLUÇÃO ADMINISTRATIVA TRT3/SETPOE 42/2024 DE 4/3/2024
 
 - [00103544620215030000](https://pje-consulta.trt3.jus.br/consultaprocessual/detalhe-processo/0010354-46.2021.5.03.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

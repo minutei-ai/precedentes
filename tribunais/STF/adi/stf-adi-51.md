@@ -1,10 +1,10 @@
 # STF · ADI 51
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 51
-- **Identificador na fonte:** `stf-adi-51`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-51`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 25/10/1989
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=51)
 
@@ -20,4 +20,4 @@ Preliminarmente, por maioria o Tribunal conheceu da Ação Direta de Inconstituc
 
 LEG-FED CF ANO-1988 ART-00022 INC-00024 ART-00048 INC-00010 ART-00084 INC-00002 INC-00025 ART-00102 PAR-00003 ART-00128 PAR-00001 ART-00205 ART-00206 INC-00002 INC-00003 INC-00004 INC-00007 ART-00207 ART-00214 INC-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004024 ANO-1961 ART-00080 REVOGADO PELA LEI-9394/1996 LDBEN-1961 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED LEI-009394 ANO-1996 LDBEN-1996 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED LEI-005540 ANO-1968 ART-00002 ART-00003 ART-00048 LEI ORDINÁRIA LEG-FED LEI-006420 ANO-1977 ART-00016 PAR-00002 LEI ORDINÁRIA LEG-FED DEC-019851 ANO-1931 ART-00009 DECRETO LEG-FED RES-000002 ANO-1988 ART-00001 ART-00005 ART-00008 RESOLUÇÃO DO CONSELHO UNIVERSITÁRIO DA UNIVERSIDADE FEDERAL DO RIO DE JANEIRO, UFRJ
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

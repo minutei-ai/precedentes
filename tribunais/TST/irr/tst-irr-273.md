@@ -1,9 +1,9 @@
 # TST · IRR 273
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 273
-- **Identificador na fonte:** `tst-irr-273`
+- **Identificador:** `tst-irr-273`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=273)
@@ -20,4 +20,4 @@ FGTS. DIFERENÇAS. RECOLHIMENTO.
 
 - [10019922220235020606](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/10019922220235020606)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

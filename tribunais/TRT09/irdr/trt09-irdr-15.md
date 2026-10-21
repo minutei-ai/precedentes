@@ -1,9 +1,9 @@
 # TRT09 · IRDR 15
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `trt09-irdr-15`
+- **Identificador:** `trt09-irdr-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 14/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=15)
@@ -21,4 +21,4 @@ Natureza da relação contratual durante o curso de formação para guarda civil
 
 - [00015829220225090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001582-92.2022.5.09.0000/2#e8c7bc6)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

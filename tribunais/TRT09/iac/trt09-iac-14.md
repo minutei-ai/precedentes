@@ -1,9 +1,9 @@
 # TRT09 · IAC 14
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 14
-- **Identificador na fonte:** `trt09-iac-14`
+- **Identificador:** `trt09-iac-14`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=14)
@@ -21,4 +21,4 @@ Revisão, pelo Tribunal Pleno, da Súmula 87 desta Corte em razão do seu aparen
 
 - [00003261720225090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0000326-17.2022.5.09.0000/2#aa288a0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

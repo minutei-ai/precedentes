@@ -1,10 +1,10 @@
 # STF · ADI 1040
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1040
-- **Identificador na fonte:** `stf-adi-1040`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1040`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/03/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1040)
 
@@ -20,4 +20,4 @@ Por maioria de votos, o Tribunal indeferiu o requerimento de medida cautelar, ve
 
 LEG-FED CF ANO-1988 ART-00005 INC-00001 INC-00013 INC-00054 ART-00037 INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000075 ANO-1993 ART-00187 LEI ORGÂNICA DO MINISTÉRIO PÚBLICO DA UNIÃO. LEG-FED LEI-005010 ANO-1966 ART-00021 INC-00005
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

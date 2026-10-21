@@ -1,9 +1,9 @@
 # STF · RG 808
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 808
-- **Identificador na fonte:** `stf-rg-808`
+- **Identificador:** `stf-rg-808`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=808)
@@ -20,4 +20,4 @@ Não incide imposto de renda sobre os juros de mora devidos pelo atraso no pagam
 
 - [855091](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4677992)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 198
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 198
-- **Identificador na fonte:** `stj-ct-198`
+- **Identificador:** `stj-ct-198`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=198)
@@ -20,4 +20,14 @@
 - [50312748820184049999](https://processo.stj.jus.br/processo/pesquisa/?termo=202000911489&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50167399020194047002](https://processo.stj.jus.br/processo/pesquisa/?termo=202000878523&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+(Im)possibilidade de soma das contribuições previdenciárias para integrar o salário-de-contribuição, nos casos de atividades concomitantes (artigo 32 da lei n. 8.213/91), após o advento da Lei 9.876/99, que extinguiu as escalas de salário base.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

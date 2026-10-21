@@ -1,9 +1,9 @@
 # TRT09 · NT 18
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 18
-- **Identificador na fonte:** `trt09-nt-18`
+- **Identificador:** `trt09-nt-18`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 29/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=18)
@@ -23,4 +23,4 @@ medidas para o enfrentamento da litigância predatória.
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8933559)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

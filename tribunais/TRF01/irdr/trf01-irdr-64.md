@@ -1,9 +1,9 @@
 # TRF01 · IRDR 64
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 64
-- **Identificador na fonte:** `trf01-irdr-64`
+- **Identificador:** `trf01-irdr-64`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 10/12/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=64)
@@ -20,4 +20,4 @@ São competentes os Juizados Especiais Federais para conciliar e julgar as deman
 
 - 10371442520204010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

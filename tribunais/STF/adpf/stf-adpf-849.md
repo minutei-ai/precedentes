@@ -1,10 +1,10 @@
 # STF · ADPF 849
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 849
-- **Identificador na fonte:** `stf-adpf-849`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-849`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/06/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=849)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000016 ANO-1965 E
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=757523574)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

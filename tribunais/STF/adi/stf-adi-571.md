@@ -1,10 +1,10 @@
 # STF · ADI 571
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 571
-- **Identificador na fonte:** `stf-adi-571`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-571`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/11/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=571)
 
@@ -20,4 +20,4 @@ Após o voto do Relator, deferindo a medida cautelar para suspender a eficácia 
 
 LEG-FED EMC-000001 ANO-1969 ART-00117 PAR-00002 CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00100 PAR-00001 PAR-00002 ART-00165 PAR-00008 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005869 ANO-1973 ART-00730 ART-00731 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-008197 ANO-1991 ART-00004 PAR-ÚNICO LEG-FED LEI-008213 ANO-1991 ART-00128 LEG-FED LEI-004320 ANO-1964 ART-00067
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

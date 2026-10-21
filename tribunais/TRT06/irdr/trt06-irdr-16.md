@@ -1,9 +1,9 @@
 # TRT06 · IRDR 16
 
-- **Tribunal:** TRT06
+- **Órgão:** TRT06
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 16
-- **Identificador na fonte:** `trt06-irdr-16`
+- **Identificador:** `trt06-irdr-16`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 07/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt06&tipo=IRDR&nr=16)
@@ -20,4 +20,4 @@ Pagamento de verba de representação aos empregados do Banco Bradesco S.A., sob
 
 - [00031303420255060000](https://pje.trt6.jus.br/consultaprocessual/detalhe-processo/0003130-34.2025.5.06.0000/2#e49eef1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

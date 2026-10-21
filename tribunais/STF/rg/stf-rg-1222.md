@@ -1,9 +1,9 @@
 # STF · RG 1222
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1222
-- **Identificador na fonte:** `stf-rg-1222`
+- **Identificador:** `stf-rg-1222`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1222)
@@ -20,4 +20,4 @@ Nulidade da constituição e inscrição em dívida ativa de créditos referente
 
 - [1371095](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6356583)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

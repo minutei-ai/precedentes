@@ -1,9 +1,9 @@
 # TRT21 · NT 4
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `trt21-nt-4`
+- **Identificador:** `trt21-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 06/03/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=NT&nr=4)
@@ -20,4 +20,4 @@ Ante o exposto, a Comissão de Inteligência do Tribunal Regional do Trabalho da
 
 - [Link Nota Técnica](https://www.trt21.jus.br/sites/default/files/jurisprudencia/centro_inteligencia/NOTA_TECNICA_4.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

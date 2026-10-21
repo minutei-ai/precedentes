@@ -1,9 +1,9 @@
 # TRT22 · IRDR 18
 
-- **Tribunal:** TRT22
+- **Órgão:** TRT22
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trt22-irdr-18`
+- **Identificador:** `trt22-irdr-18`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 14/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt22&tipo=IRDR&nr=18)
@@ -20,4 +20,4 @@ ADICIONAL DE PERICULOSIDADE. USO DE MOTOCICLETA. § 4º DO ART. 193 DA CLT. REGR
 
 - [00003228720225220106](https://pje.trt22.jus.br/consultaprocessual/detalhe-processo/0000322-87.2022.5.22.0106/2#f339563)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT22/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

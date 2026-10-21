@@ -1,9 +1,9 @@
 # STF · RG 649
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 649
-- **Identificador na fonte:** `stf-rg-649`
+- **Identificador:** `stf-rg-649`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=649)
@@ -16,4 +16,4 @@ Competência da Justiça Federal para processar e julgar crime de violação de 
 
 - [606881](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3808502)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

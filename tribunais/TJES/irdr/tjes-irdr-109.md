@@ -1,9 +1,9 @@
 # TJES · IRDR 109
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 109
-- **Identificador na fonte:** `tjes-irdr-109`
+- **Identificador:** `tjes-irdr-109`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=IRDR&nr=109)
@@ -22,4 +22,4 @@ Definir, com eficácia vinculante, se o valor da causa em ações de restituiç�
 
 - [50037632020228080012](https://sistemas.tjes.jus.br/certidaonegativa/pje/ConsultaPublica/listView.seam)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

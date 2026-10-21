@@ -1,9 +1,9 @@
 # TRT14 · NT 11
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 11
-- **Identificador na fonte:** `trt14-nt-11`
+- **Identificador:** `trt14-nt-11`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=11)
@@ -78,4 +78,4 @@ participou da produção da prova no processo
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2025-06/Nota%20T%C3%A9cnica%20n.%2001-2025-TRT14-CI-NUGEPNAC%20-%20IAC.%20Prova%20Emprestada.%20Ex%20Officio.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

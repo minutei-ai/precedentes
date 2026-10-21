@@ -1,9 +1,9 @@
 # TRT01 · NT 19
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Nota Técnica
 - **Número:** 19
-- **Identificador na fonte:** `trt01-nt-19`
+- **Identificador:** `trt01-nt-19`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/12/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=NT&nr=19)
@@ -30,4 +30,4 @@ A Comissão Decisória do Centro Inteligência do Tribunal Regional do Trabalho 
 
 - [Link Nota Técnica](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/3794538/4/NotaTecnica2023-0019-C.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · IAC 6
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `trf03-iac-6`
+- **Identificador:** `trf03-iac-6`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 11/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IAC&nr=6)
@@ -16,4 +16,4 @@ Reconhecimento do período em atividade especial por enquadramento na atividade 
 
 - 50306640620204030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

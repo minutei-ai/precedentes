@@ -1,9 +1,9 @@
 # TRT24 · NT 13
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `trt24-nt-13`
+- **Identificador:** `trt24-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/02/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=13)
@@ -74,4 +74,4 @@ indevida do empregado à
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+13.2023.pdf/fd9ec27e-62ad-6c74-c839-14c447ba27ed?t=1676378881737)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

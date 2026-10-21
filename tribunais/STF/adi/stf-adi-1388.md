@@ -1,10 +1,10 @@
 # STF · ADI 1388
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1388
-- **Identificador na fonte:** `stf-adi-1388`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1388`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/12/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1388)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal não conheceu da ação, ficando, em consequ�
 
 LEG-FED LEI-004024 ANO-1961 REVOGADA PELA LEI-9394/1996 COM EXCEÇÃO AOS ARTS. 6 a 9 LDBEN-1961 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED LEI-009394 ANO-1996 LDBEN-1996 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED LEI-009131 ANO-1995 LEI ORDINÁRIA LEG-FED DEC-001716 ANO-1995 DECRETO LEG-FED PRT-001455 ANO-1995 PORTARIA DO MINISTÉRIO DA EDUCAÇÃO - MEC
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

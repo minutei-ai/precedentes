@@ -1,10 +1,10 @@
 # STF · ADPF 305
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 305
-- **Identificador na fonte:** `stf-adpf-305`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-305`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/06/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=305)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00007 INC-00002 ART-00008 PAR-00001 INC-00002 ART-00022 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=756598361)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

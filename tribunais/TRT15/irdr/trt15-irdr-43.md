@@ -1,9 +1,9 @@
 # TRT15 · IRDR 43
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 43
-- **Identificador na fonte:** `trt15-irdr-43`
+- **Identificador:** `trt15-irdr-43`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 03/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=43)
@@ -16,4 +16,4 @@ Em face da supressão do pagamento da parcela denominada "quebra de caixa" pela 
 
 - [00185209220255150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018520-92.2025.5.15.0000/2#4c73ef6)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

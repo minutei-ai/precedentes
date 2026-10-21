@@ -1,9 +1,9 @@
 # TJRS · IRDR 1
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 1
-- **Identificador na fonte:** `tjrs-irdr-1`
+- **Identificador:** `tjrs-irdr-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=1)
@@ -16,4 +16,4 @@ Discussão sobre o direito à concessão de gratificação noturna (adicional no
 
 TESE REVISADA EM EMBARGOS DE DECLARAÇÃO. Os militares do Estado do Rio Grande do Sul, porque submetidos pela Constituição Federal ao regramento próprio dos militares das Forças Armadas, não têm direito à remuneração do trabalho noturno superior à do diurno, não se lhes aplicando o regime jurídico dos servidores ocupantes de cargo público subsidiariamente para essa finalidade.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

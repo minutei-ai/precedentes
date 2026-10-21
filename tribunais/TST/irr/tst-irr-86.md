@@ -1,9 +1,9 @@
 # TST · IRR 86
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 86
-- **Identificador na fonte:** `tst-irr-86`
+- **Identificador:** `tst-irr-86`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=86)
@@ -20,4 +20,4 @@ Os empregados da Caixa Econômica Federal que exercem função de tesoureiro de 
 
 - [00008037720225020433](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1000803-77.2022.5.02.0433/3#bb5fb27)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

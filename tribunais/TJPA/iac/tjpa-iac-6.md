@@ -1,9 +1,9 @@
 # TJPA · IAC 6
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `tjpa-iac-6`
+- **Identificador:** `tjpa-iac-6`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IAC&nr=6)
@@ -16,4 +16,4 @@ Possibilidade de modificação superveniente da competência de Juízo que, ao a
 
 - [08120626720268140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08120626720268140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

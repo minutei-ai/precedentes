@@ -1,10 +1,10 @@
 # STF · ADI 84
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 84
-- **Identificador na fonte:** `stf-adi-84`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-84`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/02/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=84)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou procedente a ação, nos termos do vot
 
 LEG-FED CF ANO-1988 ART-00061 PAR-00001 INC-00002 LET-A LET-B ART-00155 PAR-00002 INC-00003 INC-00004 INC-00005 LET-A LET-B INC-00006 INC-00012 LET-G ART-00179 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00146 INC-00009 LET-D LET-E ART-00148 PAR-ÚNICO INCONSTITUCIONALIDADE, (MG).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSC · IAC 22
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 22
-- **Identificador na fonte:** `tjsc-iac-22`
+- **Identificador:** `tjsc-iac-22`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=IAC&nr=22)
@@ -20,4 +20,4 @@ As sociedades de profissionais liberais constituídas sob a forma de sociedade l
 
 - [50428244520208240000](https://eproc2g.tjsc.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50428244520208240000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 982
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 982
-- **Identificador na fonte:** `stf-adi-982`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-982`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/03/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=982)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal referendou o despacho do Relator, que deferir
 
 LEG-FED CF ANO-1988 ART-00037 INC-00002 ART-00039 ART-00041 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00019 CF-1988. LEG-EST LEI-004546 ANO-1992 ART-00005 INC-00001 INC-00002 INC-00003 INC-00004 PI.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

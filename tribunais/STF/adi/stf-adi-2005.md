@@ -1,10 +1,10 @@
 # STF · ADI 2005
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2005
-- **Identificador na fonte:** `stf-adi-2005`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2005`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 26/05/1999
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2005)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00170 INC-00009 ART-00176 PAR-00001 ART-00246 CF-1988 CO
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347379)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

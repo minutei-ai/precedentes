@@ -1,9 +1,9 @@
 # TRT21 · NT 13
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `trt21-nt-13`
+- **Identificador:** `trt21-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=NT&nr=13)
@@ -20,4 +20,4 @@ Nota Técnica recomendando a celebração de Acordo de Cooperação Técnica ent
 
 - [Link Nota Técnica](https://www.trt21.jus.br/sites/default/files/jurisprudencia/centro_inteligencia/NOTA_TECNICA_13.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

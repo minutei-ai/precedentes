@@ -1,9 +1,9 @@
 # TST · IRR 59
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 59
-- **Identificador na fonte:** `tst-irr-59`
+- **Identificador:** `tst-irr-59`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=59)
@@ -20,4 +20,4 @@ A contratação dos serviços de transporte de mercadorias, por ostentar naturez
 
 - [00253317220235240005](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0025331-72.2023.5.24.0005/3#878f2d3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

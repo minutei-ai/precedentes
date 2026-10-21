@@ -1,9 +1,9 @@
 # TNU · PUIL 256
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 256
-- **Identificador na fonte:** `tnu-puil-256`
+- **Identificador:** `tnu-puil-256`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 20/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=256)
@@ -22,4 +22,4 @@ III - O prazo decenal para a impugnação do ato de indeferimento definitivo da 
 
 - [50035561520114047008](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50035561520114047008)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

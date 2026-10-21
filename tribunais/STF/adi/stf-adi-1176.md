@@ -1,10 +1,10 @@
 # STF · ADI 1176
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1176
-- **Identificador na fonte:** `stf-adi-1176`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1176`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/02/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1176)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal referendou o despacho da Presidência, em tod
 
 LEG-FED MPR-000751 ANO-1994 ART-00001 PAR-00001 PAR-00002 ART-00002 PAR-00001 PAR-00002 ART-00003 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 ART-00004 ART-00006 ART-00007 ART-00013 LEG-FED MPR-000817 ANO-1995 LEG-FED MPR-000887 ANO-1995
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

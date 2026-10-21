@@ -1,9 +1,9 @@
 # TJPE · SUM 134
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 134
-- **Identificador na fonte:** `tjpe-sum-134`
+- **Identificador:** `tjpe-sum-134`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 27/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=134)
@@ -18,4 +18,4 @@ Antes de efetivada a citação, afiguram-se inaplicáveis os ditames da Súmula 
 - [00106261620098170810](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00106261620098170810)
 - [00471397520128170810](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00471397520128170810)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJSC · NT 9
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `tjsc-nt-9`
+- **Identificador:** `tjsc-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=9)
@@ -30,4 +30,4 @@ das teses estabelecidas na via jurisdicional.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/0363-Notat%C3%A9cnica09-CIJESC.pdf/23d66771-6bce-22ea-269f-62fb859c2f04?t=1721921857646)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

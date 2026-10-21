@@ -1,9 +1,9 @@
 # STJ · CT 388
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 388
-- **Identificador na fonte:** `stj-ct-388`
+- **Identificador:** `stj-ct-388`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=388)
@@ -19,4 +19,14 @@ A legitimação extraordinária (dos sindicatos) com a dispensa de assinatura de
 - [07238484220198070000](https://processo.stj.jus.br/processo/pesquisa/?termo=202102433065&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [07262206120198070000](https://processo.stj.jus.br/processo/pesquisa/?termo=202102456230&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+A legitimação extraordinária (dos sindicatos) com a dispensa de assinatura de todos os substituídos alcança a liquidação e a execução de créditos. Contudo, a retenção sobre o montante da condenação do que lhe cabe por força de honorários contratuais só é permitida com a apresentação do contrato celebrado com cada um dos filiados.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

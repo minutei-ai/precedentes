@@ -1,9 +1,9 @@
 # TJMS · NT 4
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 4
-- **Identificador na fonte:** `tjms-nt-4`
+- **Identificador:** `tjms-nt-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/10/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=4)
@@ -34,4 +34,4 @@ APRESENTAÇÃO E JUSTIFICATIVA O Centro de Inteligência do Tribunal de Justiça
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/4d11796bb3402b6eccbe2db47bd36fcb.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

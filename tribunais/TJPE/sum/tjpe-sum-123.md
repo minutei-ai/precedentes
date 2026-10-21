@@ -1,9 +1,9 @@
 # TJPE · SUM 123
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 123
-- **Identificador na fonte:** `tjpe-sum-123`
+- **Identificador:** `tjpe-sum-123`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=123)
@@ -22,4 +22,4 @@ A idade máxima para ingresso na Polícia Militar de Pernambuco é mensurada at�
 - [00006152020158170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00006152020158170000)
 - [00007035820158170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00007035820158170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

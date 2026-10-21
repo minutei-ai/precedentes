@@ -1,9 +1,9 @@
 # STF · RG 776
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 776
-- **Identificador na fonte:** `stf-rg-776`
+- **Identificador:** `stf-rg-776`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=776)
@@ -20,4 +20,4 @@ A questão da configuração do direito e a regulamentação do pagamento da van
 
 - [837041](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4633610)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

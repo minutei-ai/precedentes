@@ -1,9 +1,9 @@
 # STJ · RR 676
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 676
-- **Identificador na fonte:** `stj-rr-676`
+- **Identificador:** `stj-rr-676`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=676)
@@ -22,4 +22,10 @@ Não se determina o cancelamento da distribuição se o recolhimento das custas,
 - [00217769520138217000](https://processo.stj.jus.br/processo/pesquisa/?termo=201301256718&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [03084295320128217000](https://processo.stj.jus.br/processo/pesquisa/?termo=201300016795&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

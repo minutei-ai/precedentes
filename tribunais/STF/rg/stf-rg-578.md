@@ -1,9 +1,9 @@
 # STF · RG 578
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 578
-- **Identificador na fonte:** `stf-rg-578`
+- **Identificador:** `stf-rg-578`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=578)
@@ -20,4 +20,4 @@ Aplicação do lapso temporal da Emenda Constitucional 20/98 a integrante de car
 
 - [662423](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4163220)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT19 · IAC 8
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 8
-- **Identificador na fonte:** `trt19-iac-8`
+- **Identificador:** `trt19-iac-8`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 16/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=8)
@@ -20,4 +20,4 @@
 - [00012332720245190005](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0001233-27.2024.5.19.0005/2#89688f2)
 - [00013241420245190007](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0001324-14.2024.5.19.0007/2#84200f7)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

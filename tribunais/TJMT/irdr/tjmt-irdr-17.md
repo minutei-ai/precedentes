@@ -1,9 +1,9 @@
 # TJMT · IRDR 17
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 17
-- **Identificador na fonte:** `tjmt-irdr-17`
+- **Identificador:** `tjmt-irdr-17`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 10/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=17)
@@ -16,4 +16,4 @@ Definição do termo inicial do prazo decadencial de 120 (cento e vinte) dias pr
 
 - 10230383620268110000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

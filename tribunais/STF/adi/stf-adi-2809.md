@@ -1,10 +1,10 @@
 # STF · ADI 2809
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 2809
-- **Identificador na fonte:** `stf-adi-2809`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-2809`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 25/09/2003
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2809)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00025 PAR-00003 ART-00061 INC-00001 CF-1988 CONSTITUIÇ�
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=266929)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

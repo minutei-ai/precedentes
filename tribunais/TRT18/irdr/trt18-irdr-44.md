@@ -1,9 +1,9 @@
 # TRT18 · IRDR 44
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 44
-- **Identificador na fonte:** `trt18-irdr-44`
+- **Identificador:** `trt18-irdr-44`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 25/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=44)
@@ -20,4 +20,4 @@ Tese fixada: CITAÇÃO/NOTIFICAÇÃO POSTAL. JUNTADA DO COMPROVANTE DE RECEBIMEN
 
 - [00102840720245180000](https://sistemas.trt18.jus.br/consultasPortal/pages/Processuais/DetalhaProcesso.seam?p_num_pje=208353&p_grau_pje=2&popup=0&cid=29629)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

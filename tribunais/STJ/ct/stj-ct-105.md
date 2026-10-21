@@ -1,9 +1,9 @@
 # STJ · CT 105
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 105
-- **Identificador na fonte:** `stj-ct-105`
+- **Identificador:** `stj-ct-105`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=105)
@@ -20,4 +20,14 @@ a) aferir se é condição para a apreensão do instrumento utilizado na prátic
 - [00003385220134058403](https://processo.stj.jus.br/processo/pesquisa/?termo=201901417165&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00107866920144014100](https://processo.stj.jus.br/processo/pesquisa/?termo=201900853553&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+a) aferir se é condição para a apreensão do instrumento utilizado na prática da infração ambiental a comprovação de que o bem é de uso específico e exclusivo para a atividade ilícita (Lei n. 9.605/1998, art. 25, § 4º - atual § 5º).b) aferir se é ato vinculado ou discricionário da Administração confiar em depósito o bem apreendido pela suposta prática de crime ambiental até ulterior decisão administrativa definitiva (Decreto n. 6.514/2008, art. 106, II).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

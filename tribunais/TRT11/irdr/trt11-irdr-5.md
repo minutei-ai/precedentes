@@ -1,9 +1,9 @@
 # TRT11 · IRDR 5
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `trt11-irdr-5`
+- **Identificador:** `trt11-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=5)
@@ -21,4 +21,4 @@ VALIDADE DA COBRANÇA DE MENSALIDADE E COPARTICIPAÇÃO DA ASSISTÊNCIA MÉDICO-
 - [00003488420235110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000348-84.2023.5.11.0000/2#34e0841)
 - 00009210820225110017
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

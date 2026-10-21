@@ -1,9 +1,9 @@
 # TRT04 · IRDR 35
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 35
-- **Identificador na fonte:** `trt04-irdr-35`
+- **Identificador:** `trt04-irdr-35`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 10/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=35)
@@ -16,4 +16,4 @@ A realização das atividades pactuadas no contrato firmado entre a empregadora 
 
 - [00201838620245040301](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0020183-86.2024.5.04.0301/2#2c10dfc)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

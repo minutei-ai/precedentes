@@ -1,9 +1,9 @@
 # STJ · RR 1414
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1414
-- **Identificador na fonte:** `stj-rr-1414`
+- **Identificador:** `stj-rr-1414`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 02/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1414)
@@ -21,4 +21,12 @@ I - Definir se os alegados vícios que atingem os contratos de cartão de crédi
 - [50016631120228130479](https://processo.stj.jus.br/processo/pesquisa/?termo=202504559893&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50403702420228240000](https://processo.stj.jus.br/processo/pesquisa/?termo=202401807989&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+### Questão
+
+I - Definir se os alegados vícios que atingem os contratos de cartão de crédito com reserva de margem consignável (RMC) sujeitam a pretensão do autor:a) ao prazo decadencial do art. 178 do Código Civil, com fixação do termo inicial de contagem desse prazo; oub) não se sujeitam a prazos extintivos em razão de nulidade, conforme o art. 169 do CC.II - Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando:a) o dever de prestar informações suficientes, claras e adequadas ao consumidor, em especial quando este alega que pretendia contratar simples empréstimo consignado; eb) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo.III - Em caso de vício no contrato, aferir se a consequência a ser adotada deverá ser:a) a restituição das partes ao estado anterior;b) a conversão do contrato em empréstimo consignado; ouc) a revisão de cláusulas contratuais; ed) se haverá configuração de dano moral in re ipsa.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

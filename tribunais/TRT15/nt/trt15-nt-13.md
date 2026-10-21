@@ -1,9 +1,9 @@
 # TRT15 · NT 13
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `trt15-nt-13`
+- **Identificador:** `trt15-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=NT&nr=13)
@@ -20,4 +20,4 @@ Trata-se de nota técnica de natureza especial expedida pelo Centro de Inteligê
 
 - [Link Nota Técnica](https://trt15.jus.br/jurisprudencia/centro-de-inteligencia/notas-tecnicas)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

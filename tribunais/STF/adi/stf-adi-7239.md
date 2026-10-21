@@ -1,10 +1,10 @@
 # STF · ADI 7239
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 7239
-- **Identificador na fonte:** `stf-adi-7239`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-7239`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/03/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7239)
 
@@ -26,4 +26,4 @@ LEG-FED EMC-000018 ANO-1965 ART-00016 INC-00001 PAR-ÚNICO EMENDA CONSTITUCIONAL
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=776537827)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

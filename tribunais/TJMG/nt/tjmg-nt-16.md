@@ -1,9 +1,9 @@
 # TJMG · NT 16
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 16
-- **Identificador na fonte:** `tjmg-nt-16`
+- **Identificador:** `tjmg-nt-16`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=16)
@@ -20,4 +20,4 @@ Nota Técnica nº 16/2025 – “Gestão Processual: adoção de estratégias de
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC81FA97F2495E0198090C4F266B26)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

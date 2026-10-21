@@ -1,10 +1,10 @@
 # STF · ADI 5582
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 5582
-- **Identificador na fonte:** `stf-adi-5582`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-5582`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 24/08/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5582)
 
@@ -22,4 +22,4 @@ LEG-FED LCP-000024 ANO-1975 LEI COMPLEMENTAR LEG-FED LEI-005172 ANO-1966 ART-001
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753837223)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

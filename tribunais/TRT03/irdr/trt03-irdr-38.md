@@ -1,9 +1,9 @@
 # TRT03 · IRDR 38
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 38
-- **Identificador na fonte:** `trt03-irdr-38`
+- **Identificador:** `trt03-irdr-38`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 18/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=38)
@@ -16,4 +16,4 @@ O alcance do título executivo formado em ação coletiva ajuizada por sindicato
 
 - [00133637420255030000](https://pje.trt3.jus.br/consultaprocessual/captcha/detalhe-processo/0013363-74.2025.5.03.0000/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

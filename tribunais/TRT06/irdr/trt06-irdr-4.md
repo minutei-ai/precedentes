@@ -1,9 +1,9 @@
 # TRT06 · IRDR 4
 
-- **Tribunal:** TRT06
+- **Órgão:** TRT06
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt06-irdr-4`
+- **Identificador:** `trt06-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt06&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ A impenhorabilidade das parcelas de natureza salarial descritas no art. 833, IV,
 
 - [00005174620225060000](https://pje.trt6.jus.br/consultaprocessual/detalhe-processo/0000517-46.2022.5.06.0000/2#db1eed1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

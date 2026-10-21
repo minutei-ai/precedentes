@@ -1,10 +1,10 @@
 # STF · ADPF 793
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 793
-- **Identificador na fonte:** `stf-adpf-793`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-793`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 04/11/2021
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=793)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00001 "CAPUT" ART-00005 "CAPUT" ART-00035 INC-00004 ART-
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=758207436)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

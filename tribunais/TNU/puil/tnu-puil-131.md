@@ -1,9 +1,9 @@
 # TNU · PUIL 131
 
-- **Tribunal:** TNU
+- **Órgão:** TNU
 - **Espécie:** Pedido de Uniformização de Interpretação de Lei
 - **Número:** 131
-- **Identificador na fonte:** `tnu-puil-131`
+- **Identificador:** `tnu-puil-131`
 - **Situação na fonte:** Sobrestado por tema do STF
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=131)
@@ -21,4 +21,4 @@ Tese TNU: Para a concessão da aposentadoria por idade híbrida ou mista, na for
 
 - [50094163220134047200](https://eproctnu.cjf.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=50094163220134047200)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

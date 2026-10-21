@@ -1,9 +1,9 @@
 # STJ · CT 402
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 402
-- **Identificador na fonte:** `stj-ct-402`
+- **Identificador:** `stj-ct-402`
 - **Situação na fonte:** Controvérsia pendente
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=402)
@@ -25,4 +25,14 @@ Definir se, para a percepção do benefício de pensão por morte, a habilitaç�
 - [00118423020184019199](https://processo.stj.jus.br/processo/pesquisa/?termo=202504839951&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50015408220234036107](https://processo.stj.jus.br/processo/pesquisa/?termo=202505082730&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Pendente
+
+### Questão
+
+Definir se, para a percepção do benefício de pensão por morte, a habilitação posterior de dependente incapaz, quando já houver outro dependente habilitado, deverá produzir efeitos a contar do requerimento de habilitação ou da data do óbito do segurado instituido.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

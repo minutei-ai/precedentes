@@ -1,9 +1,9 @@
 # TJPE · SUM 158
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 158
-- **Identificador na fonte:** `tjpe-sum-158`
+- **Identificador:** `tjpe-sum-158`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=158)
@@ -19,4 +19,4 @@ Nas ações de repetição de indébito tributário, os juros de mora fluem a pa
 - [00042844020108171590](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00042844020108171590)
 - [00049446320128171590](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00049446320128171590)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

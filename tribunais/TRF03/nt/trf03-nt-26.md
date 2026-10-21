@@ -1,9 +1,9 @@
 # TRF03 · NT 26
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Nota Técnica
 - **Número:** 26
-- **Identificador na fonte:** `trf03-nt-26`
+- **Identificador:** `trf03-nt-26`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 02/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=NT&nr=26)
@@ -26,4 +26,4 @@ Finalmente, a Nota Técnica ressalta a importância da prestação de contas e d
 
 - [Link Nota Técnica](https://www.jfsp.jus.br/documentos/administrativo/DUBI/clisp/NT_Medicamentos/SEI_11848496_Nota_Tecnica_NI_CLISP_26_2025.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

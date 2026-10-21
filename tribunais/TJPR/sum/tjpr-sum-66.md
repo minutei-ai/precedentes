@@ -1,9 +1,9 @@
 # TJPR · SUM 66
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Súmula
 - **Número:** 66
-- **Identificador na fonte:** `tjpr-sum-66`
+- **Identificador:** `tjpr-sum-66`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=SUM&nr=66)
@@ -15,4 +15,4 @@ integrantes do Poder Executivo do Estado do Paraná, é devida em percentual sob
 do Quadro Geral do Estado até o advento da Lei 13.666/2002, momento em que passa a ter  
 valor fixo, correspondente ao percebido pelo servidor na data de sua publicação."
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

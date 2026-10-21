@@ -1,9 +1,9 @@
 # TRT06 · IRDR 10
 
-- **Tribunal:** TRT06
+- **Órgão:** TRT06
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 10
-- **Identificador na fonte:** `trt06-irdr-10`
+- **Identificador:** `trt06-irdr-10`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 22/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt06&tipo=IRDR&nr=10)
@@ -24,4 +24,4 @@
 
 - [00012625520245060000](https://pje.trt6.jus.br/consultaprocessual/detalhe-processo/0001262-55.2024.5.06.0000/2#8a01949)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

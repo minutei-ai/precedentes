@@ -1,9 +1,9 @@
 # TJAM · IRDR 11
 
-- **Tribunal:** TJAM
+- **Órgão:** TJAM
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 11
-- **Identificador na fonte:** `tjam-irdr-11`
+- **Identificador:** `tjam-irdr-11`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 20/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjam&tipo=IRDR&nr=11)
@@ -17,4 +17,4 @@ A promoção de servidores militares pelo critério de antiguidade, uma vez impl
 - 00002855520138044300
 - [00035475220258049001](https://projudi.tjam.jus.br/projudi/processo/recursal/navegarRecurso.do?actionType=carregar&codRecurso=10000017189501)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAM/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

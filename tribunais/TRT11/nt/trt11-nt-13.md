@@ -1,9 +1,9 @@
 # TRT11 · NT 13
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `trt11-nt-13`
+- **Identificador:** `trt11-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 11/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=NT&nr=13)
@@ -22,4 +22,4 @@ https://portal.trt11.jus.br/images/Nota\_T%C3%A9cnica\_13.2024.\_Crit%C3%A9rios\
 
 - [Link Nota Técnica](https://portal.trt11.jus.br/images/Nota_T%C3%A9cnica_13.2024._Crit%C3%A9rios_para_envio_ao_CEJUSC_ASS.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

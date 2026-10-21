@@ -1,9 +1,9 @@
 # TJPE · SUM 8
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 8
-- **Identificador na fonte:** `tjpe-sum-8`
+- **Identificador:** `tjpe-sum-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 20/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=8)
@@ -18,4 +18,4 @@
 - [00058262320048170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00058262320048170000)
 - [00066479520028170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00066479520028170000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

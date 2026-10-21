@@ -1,9 +1,9 @@
 # TRT01 · IRDR 34
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `trt01-irdr-34`
+- **Identificador:** `trt01-irdr-34`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 23/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IRDR&nr=34)
@@ -16,4 +16,4 @@ A mera superveniência de doença no curso do aviso prévio, comprovada por ates
 
 - [01070710420265010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0107071-04.2026.5.01.0000/2#14d82c8)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

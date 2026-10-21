@@ -1,10 +1,10 @@
 # STF · ADPF 495
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 495
-- **Identificador na fonte:** `stf-adpf-495`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-495`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/05/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=495)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00002 "CAPUT" ART-00005 INC-00036 ART-00037 INC-00010 IN
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=767753133)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 1104
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1104
-- **Identificador na fonte:** `stf-adi-1104`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1104`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 21/02/1994
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1104)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal indeferiu o pedido de medida liminar. Votou o
 
 LEG-FED CF ANO-1988 ART-00021 INC-00012 LET-B ART-00022 INC-00004 ART-00145 INC-00002 ART-00151 INC-00003 ART-00175 PAR-ÚNICO INC-00001 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-DIS LEI-000464 ANO-1993 ART-00001 (DF).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

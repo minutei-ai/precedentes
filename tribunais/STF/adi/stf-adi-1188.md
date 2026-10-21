@@ -1,10 +1,10 @@
 # STF · ADI 1188
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1188
-- **Identificador na fonte:** `stf-adi-1188`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1188`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 23/02/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1188)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal conheceu, em parte, da ação e, nessa parte,
 
 LEG-FED DEL-005452 ANO-1943 ART-00654 PAR-00003 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED RAD-000073 ANO-1991 ART-00009 PAR-00001 LET-H PAR-00005 ART-00015 PAR-00004 PAR-00005 (TST). LEG-FED RAD-000100 ANO-1994 (TST).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

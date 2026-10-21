@@ -1,10 +1,10 @@
 # STF · ADI 4412
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4412
-- **Identificador na fonte:** `stf-adi-4412`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4412`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/11/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4412)
 
@@ -26,4 +26,4 @@ LEG-FED CF ANO-1988 ART-00005 INC-00055 ART-00037 ART-00092 INC-00001 LET-A ART-
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755322724)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 1777
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1777
-- **Identificador na fonte:** `stf-adi-1777`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1777`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 30/08/2019
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1777)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1946 ART-00036 ART-00065 INC-00004 CF-1946 CONSTITUIÇÃO FEDERAL
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=750833016)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

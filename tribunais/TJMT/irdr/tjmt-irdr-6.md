@@ -1,9 +1,9 @@
 # TJMT · IRDR 6
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjmt-irdr-6`
+- **Identificador:** `tjmt-irdr-6`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 23/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=IRDR&nr=6)
@@ -24,4 +24,4 @@ c) é indevida a reprodução do indébito dos valores, referente aos últimos 5
 
 - 10190556820228110000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

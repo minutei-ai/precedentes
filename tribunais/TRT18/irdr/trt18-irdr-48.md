@@ -1,9 +1,9 @@
 # TRT18 · IRDR 48
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 48
-- **Identificador na fonte:** `trt18-irdr-48`
+- **Identificador:** `trt18-irdr-48`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 23/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=48)
@@ -24,4 +24,4 @@ TESE JURÍDICA: TEMA Nº 48. EMPREGADO PÚBLICO. FILHO COM DEFICIÊNCIA. APLICA�
 
 - [00110323920245180000](https://pje.trt18.jus.br/consultaprocessual/detalhe-processo/0011032-39.2024.5.18.0000/2#b373aaa)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

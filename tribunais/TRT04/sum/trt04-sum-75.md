@@ -1,9 +1,9 @@
 # TRT04 · SUM 75
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 75
-- **Identificador na fonte:** `trt04-sum-75`
+- **Identificador:** `trt04-sum-75`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=75)
@@ -18,4 +18,4 @@ MULTA DO ARTIGO 523, § 1º, DO CPC. A multa de que trata o artigo 523, § 1º, 
 - [00010969420135040701](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/x9K7jjCFC0LAhVBL9716mg)
 - [00014019720115040006](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/y1nVGxWd5pcl-eFuauEyxg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

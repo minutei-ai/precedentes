@@ -1,10 +1,10 @@
 # STF · ADPF 923
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 923
-- **Identificador na fonte:** `stf-adpf-923`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-923`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 29/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=923)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009868 ANO-1999 ART-00003 LEI ORDINÁRIA LEG-FED LEI-009882 ANO-1999
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=763857696)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

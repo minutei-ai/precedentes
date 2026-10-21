@@ -1,9 +1,9 @@
 # TRT24 · NT 26
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 26
-- **Identificador na fonte:** `trt24-nt-26`
+- **Identificador:** `trt24-nt-26`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 08/03/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=26)
@@ -46,4 +46,4 @@ Documentos históricos de diferentes matizes puseram a mulher sob o jugo do home
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+26_2024.pdf/5ea3fc64-cb0a-8f9a-9401-9243cf1973d6?t=1709909501835)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJGO · SUM 83
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 83
-- **Identificador na fonte:** `tjgo-sum-83`
+- **Identificador:** `tjgo-sum-83`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=83)
@@ -17,4 +17,4 @@ Nos cumprimentos individuais de sentença coletiva decorrente do direito ao piso
 - 51363096820248090100
 - 58959798420248090006
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

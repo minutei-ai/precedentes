@@ -1,9 +1,9 @@
 # TJMG · IRDR 82
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 82
-- **Identificador na fonte:** `tjmg-irdr-82`
+- **Identificador:** `tjmg-irdr-82`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 23/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=82)
@@ -20,4 +20,4 @@ A citação e intimação eletrônicas possuem natureza de despesas processuais 
 
 - [13549153720218130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000211354915001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

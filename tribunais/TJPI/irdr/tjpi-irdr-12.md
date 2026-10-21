@@ -1,9 +1,9 @@
 # TJPI · IRDR 12
 
-- **Tribunal:** TJPI
+- **Órgão:** TJPI
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `tjpi-irdr-12`
+- **Identificador:** `tjpi-irdr-12`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 06/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpi&tipo=IRDR&nr=12)
@@ -16,4 +16,4 @@ Nas ações de enquadramento funcional cumuladas com cobrança, quando a legisla
 
 - 08005469020248180135
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPI/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

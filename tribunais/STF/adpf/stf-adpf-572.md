@@ -1,10 +1,10 @@
 # STF · ADPF 572
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 572
-- **Identificador na fonte:** `stf-adpf-572`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-572`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/06/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=572)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1967 ART-00115 PAR-ÚNICO LET-C ART-00119 PAR-00003 LET-C ART-001
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755791517)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

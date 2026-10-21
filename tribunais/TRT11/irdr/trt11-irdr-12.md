@@ -1,9 +1,9 @@
 # TRT11 · IRDR 12
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `trt11-irdr-12`
+- **Identificador:** `trt11-irdr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=12)
@@ -21,4 +21,4 @@ Extinto o IRDR por ausência de pressupostos processuais (ausência de questão 
 - [00008802420245110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000880-24.2024.5.11.0000/2#0bc31ea)
 - 00003527520245110101
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

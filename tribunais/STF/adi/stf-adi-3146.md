@@ -1,10 +1,10 @@
 # STF · ADI 3146
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3146
-- **Identificador na fonte:** `stf-adi-3146`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3146`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 11/05/2006
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3146)
 
@@ -16,4 +16,4 @@ EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ALEGAÇÃO DE INCONSTITUCIONALID
 
 LEG-FED CF ANO-1988 ART-00005 INC-00054 ART-00062 PAR-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000032 ANO-2001 EMENDA CONSTITUCIONAL LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-FED LEI-010451 ANO-2002 ART-00001 LEI ORDINÁRIA LEG-FED LEI-010828 ANO-2003 ART-00001 ART-00003 LEI ORDINÁRIA LEG-FED MPR-000132 ANO-2003 MEDIDA PROVISÓRIA LEG-FED MPR-000133 ANO-2003 MEDIDA PROVISÓRIA LEG-FED MPR-000134 ANO-2003 MEDIDA PROVISÓRIA LEG-FED RES-000001 ANO-2002 ART-00009 RESOLUÇÃO DO CONGRESSO NACIONAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

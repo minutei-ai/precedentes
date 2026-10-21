@@ -1,9 +1,9 @@
 # TRT07 · IRDR 12
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 12
-- **Identificador na fonte:** `trt07-irdr-12`
+- **Identificador:** `trt07-irdr-12`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 30/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=12)
@@ -20,4 +20,4 @@ IRDR 0001653-46.2025.5.07.0000- Há ou não a obrigação do Sindicato, que atua
 
 - [00016534620255070000](http:///https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0001653-46.2025.5.07.0000/2#5ac0d00)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

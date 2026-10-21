@@ -1,9 +1,9 @@
 # STF · RG 863
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 863
-- **Identificador na fonte:** `stf-rg-863`
+- **Identificador:** `stf-rg-863`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=863)
@@ -20,4 +20,4 @@ Até que seja editada lei complementar federal sobre a matéria, a multa tribut�
 
 - [736090](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4370056)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 1197
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1197
-- **Identificador na fonte:** `stf-adi-1197`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1197`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 08/02/1995
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1197)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal referendou o despacho da Presidência que sus
 
 LEG-FED CF ANO-1988 ART-00061 PAR-00001 INC-00002 LET-A LET-C ART-00169 PAR-ÚNICO INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST LCP-000068 ANO-1992 ART-00123 (RO), REDAÇÃO DADA PELA LEI-122/94. LEG-EST LCP-000122 ANO-1994 (RO).
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

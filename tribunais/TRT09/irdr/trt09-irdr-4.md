@@ -1,9 +1,9 @@
 # TRT09 · IRDR 4
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt09-irdr-4`
+- **Identificador:** `trt09-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=4)
@@ -21,4 +21,4 @@ Sindicato dos Trabalhadores nas Indústrias Petroquímicas do Estado do Paraná 
 
 - [00025356620165090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0002535-66.2016.5.09.0000/2#4d6ddf1)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

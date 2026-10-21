@@ -1,9 +1,9 @@
 # TJAP · IRDR 6
 
-- **Tribunal:** TJAP
+- **Órgão:** TJAP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjap-irdr-6`
+- **Identificador:** `tjap-irdr-6`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 03/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjap&tipo=IRDR&nr=6)
@@ -21,4 +21,4 @@ b) A ordem classificatória do concurso não pode ser alterada por Termo de Ajus
 
 - 00015606020168030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

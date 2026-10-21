@@ -1,9 +1,9 @@
 # TRT15 · IRDR 8
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `trt15-irdr-8`
+- **Identificador:** `trt15-irdr-8`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 13/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=8)
@@ -16,4 +16,4 @@ Aplicação da tese referente à ausência de direito à licença prêmio de ser
 
 - [00050561120195150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0005056-11.2019.5.15.0000/2#677c67b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

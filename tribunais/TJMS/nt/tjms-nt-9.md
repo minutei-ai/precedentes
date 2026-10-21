@@ -1,9 +1,9 @@
 # TJMS · NT 9
 
-- **Tribunal:** TJMS
+- **Órgão:** TJMS
 - **Espécie:** Nota Técnica
 - **Número:** 9
-- **Identificador na fonte:** `tjms-nt-9`
+- **Identificador:** `tjms-nt-9`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjms&tipo=NT&nr=9)
@@ -51,4 +51,4 @@ Enunciado nº 172 do FONAJE: Para equilibrar o desalinhamento e evitar o uso abu
 
 - [Link Nota Técnica](https://www.tjms.jus.br/storage/cms-arquivos/212e0807592d8cd37a97c1bb74f66cba.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

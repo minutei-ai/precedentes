@@ -1,9 +1,9 @@
 # TJSP · IRDR 15
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjsp-irdr-15`
+- **Identificador:** `tjsp-irdr-15`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ No âmbito da administração estadual, o pedido administrativo de compensação
 
 - [00261502820178260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=27FD875E07ACD1F6750D3EB1F29E4646.cposg7?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0026150-28.2017&foroNumeroUnificado=0000&dePesquisaNuUnificado=0026150-28.2017.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

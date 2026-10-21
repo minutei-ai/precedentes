@@ -1,9 +1,9 @@
 # TRT03 · IRDR 19
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 19
-- **Identificador na fonte:** `trt03-irdr-19`
+- **Identificador:** `trt03-irdr-19`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IRDR&nr=19)
@@ -20,4 +20,4 @@ Revisão da tese jurídica firmada no IRDR n. 0010849-32.2017.5.03.0000
 
 - [00100151920235030000](https://pje.trt3.jus.br/consultaprocessual/detalhe-processo/0010015-19.2023.5.03.0000/2#24ae0b5)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF01 · IAC 6
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `trf01-iac-6`
+- **Identificador:** `trf01-iac-6`
 - **Situação na fonte:** Em julgamento
 - **Atualização informada pela fonte:** 04/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IAC&nr=6)
@@ -16,4 +16,4 @@
 
 - 10351857720244010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

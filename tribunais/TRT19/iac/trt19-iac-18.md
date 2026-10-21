@@ -1,9 +1,9 @@
 # TRT19 · IAC 18
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 18
-- **Identificador na fonte:** `trt19-iac-18`
+- **Identificador:** `trt19-iac-18`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 10/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=18)
@@ -20,4 +20,4 @@ Não configura acúmulo de função apto a ensejar plus salarial o desempenho, n
 
 - [00000913320255190011](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000091-33.2025.5.19.0011/1#1af48d0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

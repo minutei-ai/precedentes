@@ -1,9 +1,9 @@
 # TJRJ · NT 42025
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 42025
-- **Identificador na fonte:** `tjrj-nt-42025`
+- **Identificador:** `tjrj-nt-42025`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 29/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=42025)
@@ -32,4 +32,4 @@ Diante do exposto, determina-se o encaminhamento desta Nota Técnica com as segu
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/d/centro-de-inteligencia/nota_tecnica_n-_04-2025)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

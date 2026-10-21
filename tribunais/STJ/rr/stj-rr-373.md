@@ -1,9 +1,9 @@
 # STJ · RR 373
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 373
-- **Identificador na fonte:** `stj-rr-373`
+- **Identificador:** `stj-rr-373`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=373)
@@ -21,4 +21,10 @@ A execução fiscal proposta pela União e suas autarquias deve ser ajuizada per
 - [04219341920084040000](https://processo.stj.jus.br/processo/pesquisa/?termo=200901213899&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00208997320084010000](https://processo.stj.jus.br/processo/pesquisa/?termo=201000542418&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

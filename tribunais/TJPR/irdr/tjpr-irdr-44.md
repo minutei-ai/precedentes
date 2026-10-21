@@ -1,9 +1,9 @@
 # TJPR · IRDR 44
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 44
-- **Identificador na fonte:** `tjpr-irdr-44`
+- **Identificador:** `tjpr-irdr-44`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 12/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=44)
@@ -20,4 +20,4 @@
 
 - [00002097720228160033](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso=0000209-77.2022.8.16.0033)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

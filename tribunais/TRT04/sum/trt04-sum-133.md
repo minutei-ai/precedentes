@@ -1,9 +1,9 @@
 # TRT04 · SUM 133
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 133
-- **Identificador na fonte:** `trt04-sum-133`
+- **Identificador:** `trt04-sum-133`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=133)
@@ -26,4 +26,4 @@ ADICIONAL DE PERICULOSIDADE. ELETRICIDADE. SISTEMA ELÉTRICO DE CONSUMO. RISCO D
 - [00207701020155040662](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/c4eypboH64nLs3eohL5KiA)
 - [00200275720175040103](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/Sx440f1JnM68NL2h_MyEVg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1477
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1477
-- **Identificador na fonte:** `stj-rr-1477`
+- **Identificador:** `stj-rr-1477`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 16/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1477)
@@ -17,4 +17,4 @@
 - [50032639720208240037](https://processo.stj.jus.br/processo/pesquisa/?termo=202503658520&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50047457520238240037](https://processo.stj.jus.br/processo/pesquisa/?termo=202503658532&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

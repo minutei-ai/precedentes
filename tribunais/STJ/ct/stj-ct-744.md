@@ -1,9 +1,9 @@
 # STJ · CT 744
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 744
-- **Identificador na fonte:** `stj-ct-744`
+- **Identificador:** `stj-ct-744`
 - **Situação na fonte:** Controvérsia pendente
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=744)
@@ -24,4 +24,14 @@ Definir sobre: a) inaplicabilidade do Tema n. 880/STJ, uma vez que a execução 
 - [08075788920224058000](https://processo.stj.jus.br/processo/pesquisa/?termo=202601692080&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08096571420244050000](https://processo.stj.jus.br/processo/pesquisa/?termo=202601539610&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Pendente
+
+### Questão
+
+Definir sobre: a) inaplicabilidade do Tema n. 880/STJ, uma vez que a execução do grupo de exequentes remanescentes não estaria na dependência do fornecimento de fichas financeiras pela União (a União, como dito, assevera que tais exequentes, em verdade, estariam na dependência de localização das fichas cadastrais);b) inexistência de "execução desmembrada" quanto aos atuais exequentes, uma vez que a execução coletiva originalmente ajuizada não os teria abrangido; e c) alegada existência de coisa julgada quanto aos associados não admitidos no processamento da execução coletiva.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

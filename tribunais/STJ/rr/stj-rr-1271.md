@@ -1,9 +1,9 @@
 # STJ · RR 1271
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1271
-- **Identificador na fonte:** `stj-rr-1271`
+- **Identificador:** `stj-rr-1271`
 - **Situação na fonte:** Em julgamento
 - **Atualização informada pela fonte:** 02/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1271)
@@ -16,4 +16,10 @@ Definir se a inobservância da audiência de conciliação ou mediação previst
 
 - [51804455720168130024](https://processo.stj.jus.br/processo/pesquisa/?termo=202301469019&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Em Julgamento
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

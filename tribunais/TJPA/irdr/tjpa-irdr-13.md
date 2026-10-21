@@ -1,9 +1,9 @@
 # TJPA · IRDR 13
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 13
-- **Identificador na fonte:** `tjpa-irdr-13`
+- **Identificador:** `tjpa-irdr-13`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 03/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=IRDR&nr=13)
@@ -16,4 +16,4 @@ A possibilidade, ou não, de serem apresentados documentos durante a fase recurs
 
 - [08086697120258140000](https://consultas.tjpa.jus.br/consultaunificada/consulta/principal?parametro=08086697120258140000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

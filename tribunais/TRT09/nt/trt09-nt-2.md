@@ -1,9 +1,9 @@
 # TRT09 · NT 2
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `trt09-nt-2`
+- **Identificador:** `trt09-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 29/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=2)
@@ -24,4 +24,4 @@ princípios da previsibilidade, segurança jurídica e duração razoável do pr
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/7561656)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

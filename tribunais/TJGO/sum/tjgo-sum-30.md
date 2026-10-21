@@ -1,9 +1,9 @@
 # TJGO · SUM 30
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 30
-- **Identificador na fonte:** `tjgo-sum-30`
+- **Identificador:** `tjgo-sum-30`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=30)
@@ -16,4 +16,4 @@ Para a extinção do processo por abandono (art. 267, II e III do CPC/73 e 485, 
 
 - 04573195620128090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

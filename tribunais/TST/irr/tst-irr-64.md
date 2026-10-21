@@ -1,9 +1,9 @@
 # TST · IRR 64
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 64
-- **Identificador na fonte:** `tst-irr-64`
+- **Identificador:** `tst-irr-64`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=64)
@@ -20,4 +20,4 @@ Não configura cerceio de defesa o ato de indeferir o adiamento da audiência un
 
 - [00004440720235170009](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000444-07.2023.5.17.0009/3#5943cbe)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

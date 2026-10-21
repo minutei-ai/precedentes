@@ -1,9 +1,9 @@
 # TJAL · IRDR 5
 
-- **Tribunal:** TJAL
+- **Órgão:** TJAL
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjal-irdr-5`
+- **Identificador:** `tjal-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 22/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjal&tipo=IRDR&nr=5)
@@ -40,4 +40,4 @@ do ADCT, sem efetividade no cargo público, pois, nessa hipótese, à luz da jur
 1.4.1 Para esse fim, recomenda-se que a parte Autora demonstre a forma de ngresso no serviço público, mediante a apresentação de elementos que evidenciem sua aprovação em concurso público e sua regular investidura como servidor efetivo, podendo, para tanto, indicar o certame do qual participou, com referência ao respectivo edital, bem como instruir a demanda com documentos como o ato de nomeação publicado em diário  
 oficial, o termo de posse e registros funcionais que indiquem, de forma expressa, a condição de servidor efetivo.(...)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJAL/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

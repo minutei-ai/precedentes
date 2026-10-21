@@ -1,9 +1,9 @@
 # TRT11 · IRDR 3
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `trt11-irdr-3`
+- **Identificador:** `trt11-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=3)
@@ -22,4 +22,4 @@ AMAZONAS ENERGIA S.A. NORMA INTERNA. DG-GP-01/N-013. PROCEDIMENTOS PARA DISPENSA
 - [00002333420215110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000233-34.2021.5.11.0000/2#95542a3)
 - [00001417820205110004](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000141-78.2020.5.11.0004/2#5255df9)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

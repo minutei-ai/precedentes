@@ -1,9 +1,9 @@
 # TRT04 · SUM 81
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 81
-- **Identificador na fonte:** `trt04-sum-81`
+- **Identificador:** `trt04-sum-81`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=81)
@@ -22,4 +22,4 @@ CONTRATO POR PRAZO DETERMINADO. ACIDENTE DO TRABALHO. GARANTIA NO EMPREGO DO ART
 - [00004695620125040271](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/WlLTJQPHM4kBwA-xFRejPQ)
 - [00007734820115040511](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/voG4YZTU_ifEAylPGkq1-A)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

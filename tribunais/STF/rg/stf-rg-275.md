@@ -1,9 +1,9 @@
 # STF · RG 275
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 275
-- **Identificador na fonte:** `stf-rg-275`
+- **Identificador:** `stf-rg-275`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=275)
@@ -20,4 +20,4 @@ Direito de servidores públicos do Poder Judiciário do Estado do Rio Grande do 
 
 - [746996](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2669281)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

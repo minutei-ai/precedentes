@@ -1,9 +1,9 @@
 # TJPR · IRDR 34
 
-- **Tribunal:** TJPR
+- **Órgão:** TJPR
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 34
-- **Identificador na fonte:** `tjpr-irdr-34`
+- **Identificador:** `tjpr-irdr-34`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 25/03/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpr&tipo=IRDR&nr=34)
@@ -20,4 +20,4 @@ Vigência dos §§ 1º, II, e 2º art. 157 da Lei/PR n. 1943/54, com redação d
 
 - [00143566020198160083](https://consulta.tjpr.jus.br/projudi_consulta/processo/consultaPublica.do?actionType=iniciar&numeroProcesso= 0014356-60.2019.8.16.0083&opcaoConsultaPublica=2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPR/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

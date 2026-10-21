@@ -1,9 +1,9 @@
 # TRT17 · IRDR 4
 
-- **Tribunal:** TRT17
+- **Órgão:** TRT17
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt17-irdr-4`
+- **Identificador:** `trt17-irdr-4`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 06/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt17&tipo=IRDR&nr=4)
@@ -20,4 +20,4 @@ A Justiça do Trabalho é incompetente para processar e julgar ações que tenha
 
 - [00005950220205170001](https://pje.trt17.jus.br/consultaprocessual/detalhe-processo/0000595-02.2020.5.17.0001/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT17/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

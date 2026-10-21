@@ -1,9 +1,9 @@
 # TRT11 · NT 7
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `trt11-nt-7`
+- **Identificador:** `trt11-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 23/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=NT&nr=7)
@@ -22,4 +22,4 @@ https://portal.trt11.jus.br/images/nota\_tecnica\_7\_assinada.pdf
 
 - [Link Nota Técnica](https://portal.trt11.jus.br/images/nota_tecnica_7_assinada.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

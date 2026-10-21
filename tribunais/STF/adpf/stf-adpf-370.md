@@ -1,10 +1,10 @@
 # STF · ADPF 370
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 370
-- **Identificador na fonte:** `stf-adpf-370`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-370`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 28/09/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=370)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00100 PAR-00003 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754018720)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

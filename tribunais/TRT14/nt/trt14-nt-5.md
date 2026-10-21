@@ -1,9 +1,9 @@
 # TRT14 · NT 5
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `trt14-nt-5`
+- **Identificador:** `trt14-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=5)
@@ -36,4 +36,4 @@ Gerenciamento de Precedentes do TRT14
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2022-11/Nota%20T%C3%A9cnica%20TRT14-CI-NUGEPNAC%20n.%2005-2022-Retomada%20Andamento%20Feitos.%20Tese%20RE%20Reperc%20Geral%20e%20IRR.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 801
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 801
-- **Identificador na fonte:** `stf-adi-801`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-801`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 04/02/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=801)
 
@@ -20,4 +20,4 @@ Decisão: Àpós o voto do Relator, deferindo em parte a medida cautelar para su
 
 LEG-FED CF ANO-1934 ART-00170 INC-00007 CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1937 ART-00156 LET-G CF-1937 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00101 PAR-00003 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 ART-00102 PAR-00002 CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00040 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST DEC-016508 ANO-1991 ART-00001 INC-00001 INC-00003 RJ.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

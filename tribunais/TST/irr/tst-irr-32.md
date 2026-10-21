@@ -1,9 +1,9 @@
 # TST · IRR 32
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 32
-- **Identificador na fonte:** `tst-irr-32`
+- **Identificador:** `tst-irr-32`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 14/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=32)
@@ -25,4 +25,4 @@ Serão mantidas na competência da Justiça do Trabalho, até o trânsito em jul
 
 - [101343120215180000](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=10134&digitoTst=31&anoTst=2021&orgaoTst=5&tribunalTst=&varaTst=&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

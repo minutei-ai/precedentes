@@ -1,10 +1,10 @@
 # STF · ADPF 215
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 215
-- **Identificador na fonte:** `stf-adpf-215`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-215`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/12/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=215)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00021 INC-00011 ART-00022 INC-00004 ART-00037 INC-00019 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754778297)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

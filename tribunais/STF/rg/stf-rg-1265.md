@@ -1,9 +1,9 @@
 # STF · RG 1265
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 1265
-- **Identificador na fonte:** `stf-rg-1265`
+- **Identificador:** `stf-rg-1265`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1265)
@@ -20,4 +20,4 @@ Pagamento do adicional de insalubridade, previsto na Lei Complementar nº 432/19
 
 - [1421841](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6573255)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

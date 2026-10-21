@@ -1,9 +1,9 @@
 # STJ · CT 181
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 181
-- **Identificador na fonte:** `stj-ct-181`
+- **Identificador:** `stj-ct-181`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=181)
@@ -20,4 +20,14 @@ Cabimento de suspensão de cumprimento de sentença ou de processo de execução
 - [22895401220218260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202202987236&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [21426394620198260000](https://processo.stj.jus.br/processo/pesquisa/?termo=202000653056&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Cabimento de suspensão de cumprimento de sentença ou de processo de execução referentes a verbas de caráter alimentar, em razão da decretação de intervenção federal da entidade fechada de previdência complementar, com fundamento no art. 6º da Lei 6.024/1974 c/c o art. 62 da Lei Complementar 109/2001.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

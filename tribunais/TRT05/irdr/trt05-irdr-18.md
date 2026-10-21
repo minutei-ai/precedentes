@@ -1,9 +1,9 @@
 # TRT05 · IRDR 18
 
-- **Tribunal:** TRT05
+- **Órgão:** TRT05
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `trt05-irdr-18`
+- **Identificador:** `trt05-irdr-18`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 16/01/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt05&tipo=IRDR&nr=18)
@@ -20,4 +20,4 @@ I - É válida a cláusula de quitação total de todas as verbas decorrentes da
 
 - [00128066720245050000](https://www.trt5.jus.br/consulta-processo-redirect?seq_cnj=0012806&dig_cnj=67&ano_cnj=2024&justica_cnj=5&regiao_cnj=5&vara_cnj=0000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT05/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

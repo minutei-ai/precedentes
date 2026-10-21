@@ -1,9 +1,9 @@
 # TST · IRR 147
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 147
-- **Identificador na fonte:** `tst-irr-147`
+- **Identificador:** `tst-irr-147`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 01/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=147)
@@ -16,4 +16,4 @@
 
 - [00001185320245200001](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000118-53.2024.5.20.0001/3#3cd7b30)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

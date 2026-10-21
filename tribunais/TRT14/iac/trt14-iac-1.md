@@ -1,9 +1,9 @@
 # TRT14 · IAC 1
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt14-iac-1`
+- **Identificador:** `trt14-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 30/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ A nomeação excepcional de perito judicial externo, determinada de ofício pelo
 
 - [00010178520255140000](https://pje.trt14.jus.br/pjekz/processo/107690/detalhe)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

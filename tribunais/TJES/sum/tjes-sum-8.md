@@ -1,9 +1,9 @@
 # TJES · SUM 8
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Súmula
 - **Número:** 8
-- **Identificador na fonte:** `tjes-sum-8`
+- **Identificador:** `tjes-sum-8`
 - **Situação na fonte:** Superado
 - **Atualização informada pela fonte:** 16/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=SUM&nr=8)
@@ -18,4 +18,4 @@
 - [00009685620088080000](http://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=00009685620088080000)
 - [00009633420088080000](http://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=00009633420088080000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 1417
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1417
-- **Identificador na fonte:** `stj-rr-1417`
+- **Identificador:** `stj-rr-1417`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 28/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1417)
@@ -24,4 +24,6 @@ Definir se é possível a prorrogação da carência do contrato do FIES durante
 - [08138866920214058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202501812840&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10155731220224013400](https://processo.stj.jus.br/processo/pesquisa/?termo=202503957658&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

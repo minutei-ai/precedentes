@@ -1,9 +1,9 @@
 # STF · RG 946
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 946
-- **Identificador na fonte:** `stf-rg-946`
+- **Identificador:** `stf-rg-946`
 - **Situação na fonte:** Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=946)
@@ -20,4 +20,4 @@ Os Ministérios Públicos dos Estados e do Distrito Federal têm legitimidade pa
 
 - [985392](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5022094)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

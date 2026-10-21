@@ -1,9 +1,9 @@
 # TJGO · IRDR 20
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `tjgo-irdr-20`
+- **Identificador:** `tjgo-irdr-20`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=20)
@@ -20,4 +20,4 @@ O arbitramento de honorários advocatícios provisórios, quando da prolação d
 
 - 53593044220208090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJRJ · NT 12023
 
-- **Tribunal:** TJRJ
+- **Órgão:** TJRJ
 - **Espécie:** Nota Técnica
 - **Número:** 12023
-- **Identificador na fonte:** `tjrj-nt-12023`
+- **Identificador:** `tjrj-nt-12023`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 20/06/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrj&tipo=NT&nr=12023)
@@ -27,4 +27,4 @@ Diante do exposto, determina-se o encaminhamento desta nota técnica com as segu
 
 - [Link Nota Técnica](https://portaltj.tjrj.jus.br/documents/93577919/225363000/1._Nota_Tecnica_CI-TJRJ_01-2023.pdf/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRJ/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

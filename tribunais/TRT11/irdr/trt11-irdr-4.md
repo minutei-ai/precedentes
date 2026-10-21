@@ -1,9 +1,9 @@
 # TRT11 · IRDR 4
 
-- **Tribunal:** TRT11
+- **Órgão:** TRT11
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 4
-- **Identificador na fonte:** `trt11-irdr-4`
+- **Identificador:** `trt11-irdr-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 23/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt11&tipo=IRDR&nr=4)
@@ -21,4 +21,4 @@ CLÁUSULA PREVISTA EM NORMA COLETIVA. INSTITUIÇÃO DE CONTRIBUIÇÃO MENSAL. EM
 - [00003586520225110000](https://pje.trt11.jus.br/consultaprocessual/detalhe-processo/0000358-65.2022.5.11.0000/2#04d8113)
 - 00007229220225110014
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT11/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

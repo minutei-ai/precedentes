@@ -1,9 +1,9 @@
 # TRT18 · IRDR 27
 
-- **Tribunal:** TRT18
+- **Órgão:** TRT18
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `trt18-irdr-27`
+- **Identificador:** `trt18-irdr-27`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 21/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt18&tipo=IRDR&nr=27)
@@ -20,4 +20,4 @@ SALÁRIOS E OUTRAS ESPÉCIES SEMELHANTES. POSSIBILIDADE DE PENHORA. ART. 833, IV
 
 - [00100664720225180000](https://sistemas.trt18.jus.br/consultasPortal/pages/Processuais/DetalhaProcesso.seam?p_num_pje=161332&p_grau_pje=2&popup=0&cid=8899)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT18/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

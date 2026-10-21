@@ -1,9 +1,9 @@
 # TRT04 · SUM 112
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 112
-- **Identificador na fonte:** `trt04-sum-112`
+- **Identificador:** `trt04-sum-112`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=112)
@@ -18,4 +18,4 @@ COMPANHIA ESTADUAL DE SILOS E ARMAZÉNS - CESA. DIFERENÇAS DE COMPLEMENTAÇÃO 
 - [00006862120135040027](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/ZSEUeA_CGApkAGqQxMsaCg)
 - [00005806820135040024](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/fpjncxoJX6YJxJ5sWiM32Q)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

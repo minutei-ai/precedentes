@@ -1,9 +1,9 @@
 # TJCE · NT 10
 
-- **Tribunal:** TJCE
+- **Órgão:** TJCE
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `tjce-nt-10`
+- **Identificador:** `tjce-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 10/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjce&tipo=NT&nr=10)
@@ -89,4 +89,4 @@ Fortaleza, 10 de Março de 2025.
 
 - [Link Nota Técnica](https://portal.tjce.jus.br/uploads/2022/08/Nota-Tecnica.10.2025.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJCE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

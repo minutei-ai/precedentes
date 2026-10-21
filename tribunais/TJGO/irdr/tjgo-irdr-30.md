@@ -1,9 +1,9 @@
 # TJGO · IRDR 30
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 30
-- **Identificador na fonte:** `tjgo-irdr-30`
+- **Identificador:** `tjgo-irdr-30`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=30)
@@ -16,4 +16,4 @@ Tratando-se de promoção para as patentes de 2º Tenente PM, 1º Tenente PM, Ca
 
 II  Legitimidade das autoridades coatoras: Tratando-se de promoção para Oficiais da Polícia Militar, o Governador do Estado e o Comandante-Geral da Polícia Militar são as autoridades coatoras aptas a figurarem conjuntamente na polaridade passiva do mandado de segurança nos casos de: a) promoção por antiguidade e merecimento, após a formação da lista do Quadro de Acesso; b) promoção por ato de bravura, após o parecer sindicante favorável da Comissão de Promoção de Oficiais.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

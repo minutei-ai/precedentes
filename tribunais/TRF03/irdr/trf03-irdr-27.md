@@ -1,9 +1,9 @@
 # TRF03 · IRDR 27
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 27
-- **Identificador na fonte:** `trf03-irdr-27`
+- **Identificador:** `trf03-irdr-27`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 26/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=27)
@@ -16,4 +16,4 @@ Inconstitucionalidade da restrição temporal de cinco anos imposta pelo artigo 
 
 - 50176221120254030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT19 · IAC 7
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 7
-- **Identificador na fonte:** `trt19-iac-7`
+- **Identificador:** `trt19-iac-7`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 26/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=7)
@@ -21,4 +21,4 @@ Integram a remuneração as vantagens - a exemplo da "premiação vendas" pratic
 - [00004524920265190000](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000452-49.2026.5.19.0000/2#840349f)
 - [00003300220255190055](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000330-02.2025.5.19.0055/2#8a624e4)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

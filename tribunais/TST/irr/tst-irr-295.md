@@ -1,9 +1,9 @@
 # TST · IRR 295
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 295
-- **Identificador na fonte:** `tst-irr-295`
+- **Identificador:** `tst-irr-295`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 10/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=295)
@@ -16,4 +16,4 @@ No caso de labor em minas no subsolo em que a duração de trabalho efetivo exce
 
 - [00002802820235050251](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/00002802820235050251)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · RR 923
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 923
-- **Identificador na fonte:** `stj-rr-923`
+- **Identificador:** `stj-rr-923`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 13/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=923)
@@ -20,4 +20,10 @@ Até o trânsito em julgado das ações civis públicas n. 5004891-93.2011.4004.
 
 - [00298988620138160000](https://processo.stj.jus.br/processo/pesquisa/?termo=201500375558&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

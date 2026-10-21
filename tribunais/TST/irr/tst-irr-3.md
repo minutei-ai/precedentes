@@ -1,9 +1,9 @@
 # TST · IRR 3
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 3
-- **Identificador na fonte:** `tst-irr-3`
+- **Identificador:** `tst-irr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=3)
@@ -20,4 +20,4 @@ Considerando o limite de caracteres do campo, o inteiro teor da tese firmada pod
 
 - [00003410620135040011](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=341&digitoTst=06&anoTst=2013&orgaoTst=5&tribunalTst=04&varaTst=0011&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT04 · SUM 116
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 116
-- **Identificador na fonte:** `trt04-sum-116`
+- **Identificador:** `trt04-sum-116`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=116)
@@ -19,4 +19,4 @@ MUNICÍPIO DE SAPUCAIA DO SUL. CESTA BÁSICA PREVISTA EM LEI MUNICIPAL. A cesta 
 - [00010645520135040292](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/R6oVJn2HNHikG9JUzLS2Jg)
 - [00005630720135040291](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/WfDg95xWbsIOi4HWKszUvA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

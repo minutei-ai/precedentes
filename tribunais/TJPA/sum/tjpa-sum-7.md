@@ -1,9 +1,9 @@
 # TJPA · SUM 7
 
-- **Tribunal:** TJPA
+- **Órgão:** TJPA
 - **Espécie:** Súmula
 - **Número:** 7
-- **Identificador na fonte:** `tjpa-sum-7`
+- **Identificador:** `tjpa-sum-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 15/12/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpa&tipo=SUM&nr=7)
@@ -12,4 +12,4 @@
 
 Não padece do vício de inconstitucionalidade o disposto no art. 310, inciso II, do CPP, com redação dada pela Lei nº 12.403/2011.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

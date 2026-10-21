@@ -1,9 +1,9 @@
 # STF · RG 663
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 663
-- **Identificador na fonte:** `stf-rg-663`
+- **Identificador:** `stf-rg-663`
 - **Situação na fonte:** Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=663)
@@ -20,4 +20,4 @@ A questão da incidência do fator previdenciário sobre período exercido em at
 
 - [748444](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4402543)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

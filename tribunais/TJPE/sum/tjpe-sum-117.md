@@ -1,9 +1,9 @@
 # TJPE · SUM 117
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 117
-- **Identificador na fonte:** `tjpe-sum-117`
+- **Identificador:** `tjpe-sum-117`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=117)
@@ -21,4 +21,4 @@ Configura acidente do trabalho a causa que originou diretamente a redução ou p
 - [00295317620068170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00295317620068170001)
 - [00636269820078170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00636269820078170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

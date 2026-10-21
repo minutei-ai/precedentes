@@ -1,9 +1,9 @@
 # TRT07 · IRDR 7
 
-- **Tribunal:** TRT07
+- **Órgão:** TRT07
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 7
-- **Identificador na fonte:** `trt07-irdr-7`
+- **Identificador:** `trt07-irdr-7`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 06/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=7)
@@ -26,4 +26,4 @@ Tese Antiga superada:
 
 - [00047116220225070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0004711-62.2022.5.07.0000/2#516a00a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

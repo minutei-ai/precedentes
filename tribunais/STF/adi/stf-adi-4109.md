@@ -1,10 +1,10 @@
 # STF · ADI 4109
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4109
-- **Identificador na fonte:** `stf-adi-4109`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4109`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 14/02/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4109)
 
@@ -22,4 +22,4 @@ LEG-IMP CIB ANO-1824 ART-00179 INC-00010 CIB-1824 CONSTITUIÇÃO POLITICA DO IMP
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=760302537)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

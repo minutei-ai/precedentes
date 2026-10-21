@@ -1,9 +1,9 @@
 # STF · RG 12
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 12
-- **Identificador na fonte:** `stf-rg-12`
+- **Identificador:** `stf-rg-12`
 - **Situação na fonte:** Não há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=12)
@@ -20,4 +20,4 @@ I - A questão da legitimidade do Estado para editar decreto expropriatório por
 
 - [566198](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2564652)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJGO · IRDR 21
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 21
-- **Identificador na fonte:** `tjgo-irdr-21`
+- **Identificador:** `tjgo-irdr-21`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=21)
@@ -20,4 +20,4 @@ I  O prazo prescricional da pretensão de declaração de inexistência de emp
 
 - 55051105720198090093
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

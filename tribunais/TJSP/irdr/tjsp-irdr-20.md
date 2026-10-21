@@ -1,9 +1,9 @@
 # TJSP · IRDR 20
 
-- **Tribunal:** TJSP
+- **Órgão:** TJSP
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `tjsp-irdr-20`
+- **Identificador:** `tjsp-irdr-20`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 09/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=IRDR&nr=20)
@@ -20,4 +20,4 @@ Para efeito de cálculo da fatura/conta considerar-se-á volume de esgotos colet
 
 - [00439177920178260000](https://esaj.tjsp.jus.br/cposg/search.do;jsessionid=D1133866D56E6783AEFC023EBB6DD6AC.cposg3?conversationId=&paginaConsulta=1&localPesquisa.cdLocal=-1&cbPesquisa=NUMPROC&tipoNuProcesso=UNIFICADO&numeroDigitoAnoUnificado=0043917-79.2017&foroNumeroUnificado=0000&dePesquisaNuUnificado=0043917-79.2017.8.26.0000&dePesquisa=&uuidCaptcha=)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

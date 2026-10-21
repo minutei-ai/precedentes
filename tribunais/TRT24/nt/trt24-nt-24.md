@@ -1,9 +1,9 @@
 # TRT24 · NT 24
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 24
-- **Identificador na fonte:** `trt24-nt-24`
+- **Identificador:** `trt24-nt-24`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/01/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=24)
@@ -81,4 +81,4 @@ por meio de súmulas e teses oriundas das arguições de divergência.
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+24.2024.pdf/bf65b648-2f9b-87c6-8c16-da82844a7185?t=1706123252469)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

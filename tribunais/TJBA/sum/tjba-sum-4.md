@@ -1,9 +1,9 @@
 # TJBA · SUM 4
 
-- **Tribunal:** TJBA
+- **Órgão:** TJBA
 - **Espécie:** Súmula
 - **Número:** 4
-- **Identificador na fonte:** `tjba-sum-4`
+- **Identificador:** `tjba-sum-4`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 26/08/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=4)
@@ -19,4 +19,4 @@ O reconhecimento da continuidade delitiva exige a presença tanto dos requisitos
 - 00009659020128050244
 - 03014516520138050244
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRF03 · IRDR 19
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 19
-- **Identificador na fonte:** `trf03-irdr-19`
+- **Identificador:** `trf03-irdr-19`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 07/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=19)
@@ -16,4 +16,4 @@ Declaração do direito ao creditamento de PIS e da COFINS sobre o custo de aqui
 
 - 50260747820234030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

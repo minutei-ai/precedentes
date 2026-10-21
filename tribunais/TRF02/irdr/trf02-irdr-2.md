@@ -1,9 +1,9 @@
 # TRF02 · IRDR 2
 
-- **Tribunal:** TRF02
+- **Órgão:** TRF02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `trf02-irdr-2`
+- **Identificador:** `trf02-irdr-2`
 - **Situação na fonte:** Acórdão Publicado (RESP Pendente)
 - **Atualização informada pela fonte:** 21/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf02&tipo=IRDR&nr=2)
@@ -16,4 +16,4 @@ A interpretação da questão de direito relativa aos prazos das patentes denomi
 
 O parágrafo único do artigo 40 da Lei nº 9.279/96 (Lei de Propriedade Industrial - LPI) não se aplica às patentes "mailbox", diante da limitação estabelecida pelo artigo 229, parágrafo único, da mesma lei, devendo ser aplicado o prazo de vigência máximo de 20 anos da data do depósito, nos termos do artigo 40, caput, da mesma lei.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

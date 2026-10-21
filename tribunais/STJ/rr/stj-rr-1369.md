@@ -1,9 +1,9 @@
 # STJ · RR 1369
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1369
-- **Identificador na fonte:** `stj-rr-1369`
+- **Identificador:** `stj-rr-1369`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 06/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1369)
@@ -21,4 +21,6 @@ A Lei Complementar n. 87/1996 (Lei Kandir) disciplina de forma suficiente a cobr
 - [07081628220218070018](https://processo.stj.jus.br/processo/pesquisa/?termo=202401143008&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [07007388620218070018](https://processo.stj.jus.br/processo/pesquisa/?termo=202202870538&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMG · IRDR 18
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `tjmg-irdr-18`
+- **Identificador:** `tjmg-irdr-18`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=18)
@@ -20,4 +20,4 @@ a) a declaração de nulidade de termo aditivo contratual de concessão de água
 
 - [00320891220148130693](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10693140032089003)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

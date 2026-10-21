@@ -1,9 +1,9 @@
 # TRT08 · NT 10
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Nota Técnica
 - **Número:** 10
-- **Identificador na fonte:** `trt08-nt-10`
+- **Identificador:** `trt08-nt-10`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 21/05/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=NT&nr=10)
@@ -29,4 +29,4 @@ AGENTE COMUNITÁRIO DE SAÚDE. LEI MUNICIPAL Nº 9.218/2016. REGIME CELETISTA. C
 
 - [Link Nota Técnica](https://www.trt8.jus.br/sites/portal/files/pdfs/anexo_de_comissao/comissao_id11788/nota_tecnica-2024-05-21_comissao_regional_de_inteligencia_id40817.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

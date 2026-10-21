@@ -1,9 +1,9 @@
 # TRT21 · IRDR 8
 
-- **Tribunal:** TRT21
+- **Órgão:** TRT21
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 8
-- **Identificador na fonte:** `trt21-irdr-8`
+- **Identificador:** `trt21-irdr-8`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 01/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt21&tipo=IRDR&nr=8)
@@ -16,4 +16,4 @@ Prevalência ou não regime de compensação prevista em Convenção ou Acordo C
 
 - [00007878920185210001](https://pje.trt21.jus.br/consultaprocessual/detalhe-processo/0000787-89.2018.5.21.0001/1#2c6f7e0)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT21/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

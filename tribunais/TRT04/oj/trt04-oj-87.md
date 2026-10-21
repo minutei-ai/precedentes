@@ -1,9 +1,9 @@
 # TRT04 · OJ 87
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Orientação Jurisprudencial
 - **Número:** 87
-- **Identificador na fonte:** `trt04-oj-87`
+- **Identificador:** `trt04-oj-87`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=OJ&nr=87)
@@ -30,4 +30,4 @@ PENHORA EM CONTA POUPANÇA. CRÉDITOS TRABALHISTAS. CPC/2015. Na vigência do ar
 - [00202238420185040202](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/cPPdNbHgsknwnixC611nGg)
 - [00541001120055040383](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/ynLIjWh8zKFqteeFzNhx4g)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

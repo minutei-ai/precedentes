@@ -1,10 +1,10 @@
 # STF · ADI 582
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 582
-- **Identificador na fonte:** `stf-adi-582`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-582`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 19/09/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=582)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal deferiu medida cautelar parar suspender a efi
 
 LEG-EST CES ANO-1989 ART-00126 PAR-00008 SP. LEG-EST EMC-000001 ANO-1990 CES-89, SP. LEG-EST LEI-010261 ANO-1968 ART-00227 SP.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

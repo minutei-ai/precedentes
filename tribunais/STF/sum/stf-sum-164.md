@@ -1,9 +1,9 @@
 # STF · SUM 164
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Súmula
 - **Número:** 164
-- **Identificador na fonte:** `stf-sum-164`
+- **Identificador:** `stf-sum-164`
 - **Situação na fonte:** APROVADO
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SUM&nr=164)
@@ -12,4 +12,4 @@
 
 No processo de desapropriação, são devidos juros compensatórios desde a antecipada imissão de posse, ordenada pelo juiz, por motivo de urgência.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

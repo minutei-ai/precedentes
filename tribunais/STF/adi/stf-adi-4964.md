@@ -1,10 +1,10 @@
 # STF · ADI 4964
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4964
-- **Identificador na fonte:** `stf-adi-4964`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4964`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 16/12/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4964)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00025 "CAPUT" PAR-00001 ART-00052 INC-00003 LET-A LET-B 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=783641866)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

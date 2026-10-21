@@ -1,9 +1,9 @@
 # STJ · CT 396
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 396
-- **Identificador na fonte:** `stj-ct-396`
+- **Identificador:** `stj-ct-396`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=396)
@@ -30,4 +30,14 @@ Pagamento do adicional noturno nos períodos de férias, licenças para capacita
 - [08013529720204058401](https://processo.stj.jus.br/processo/pesquisa/?termo=202103659650&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08016854920204058401](https://processo.stj.jus.br/processo/pesquisa/?termo=202103659031&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Pagamento do adicional noturno nos períodos de férias, licenças para capacitação, tratamento de saúde e demais afastamentos tidos como de efetivo exercício pelo art. 102 da Lei n. 8.112/90.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

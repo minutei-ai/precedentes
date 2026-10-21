@@ -1,9 +1,9 @@
 # TST · IRR 69
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 69
-- **Identificador na fonte:** `tst-irr-69`
+- **Identificador:** `tst-irr-69`
 - **Situação na fonte:** Acórdão Publicado (RE Pendente)
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=69)
@@ -20,4 +20,4 @@ A função comissionada técnica (FCT/FCA/GFE), paga a empregados do Serviço Fe
 
 - [00007566320235100013](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000756-63.2023.5.10.0013/3#09998fd)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

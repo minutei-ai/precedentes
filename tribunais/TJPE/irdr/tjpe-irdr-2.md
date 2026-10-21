@@ -1,9 +1,9 @@
 # TJPE · IRDR 2
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 2
-- **Identificador na fonte:** `tjpe-irdr-2`
+- **Identificador:** `tjpe-irdr-2`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 26/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=IRDR&nr=2)
@@ -20,4 +20,4 @@ O cerne da controvérsia cinge-se em definir se o Estado pode permitir o uso dos
 
 - [00152983920168172001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00152983920168172001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

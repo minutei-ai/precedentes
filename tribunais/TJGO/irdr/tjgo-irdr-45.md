@@ -1,9 +1,9 @@
 # TJGO · IRDR 45
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 45
-- **Identificador na fonte:** `tjgo-irdr-45`
+- **Identificador:** `tjgo-irdr-45`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 14/10/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=45)
@@ -16,4 +16,4 @@ A controvérsia submetida a julgamento consiste em definir:(I) qual a natureza j
 
 - 57108906920258090000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

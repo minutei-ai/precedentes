@@ -1,9 +1,9 @@
 # TRT08 · IAC 6
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 6
-- **Identificador na fonte:** `trt08-iac-6`
+- **Identificador:** `trt08-iac-6`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 07/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=IAC&nr=6)
@@ -20,4 +20,4 @@ Admite-se a aplicação da Lei nº 14.010/20 ao Direito do Trabalho, dada a sua 
 
 - [00007283920205080019](https://pje.trt8.jus.br/consultaprocessual/detalhe-processo/0000728-39.2020.5.08.0019/2)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

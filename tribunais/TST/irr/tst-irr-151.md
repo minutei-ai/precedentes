@@ -1,9 +1,9 @@
 # TST · IRR 151
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 151
-- **Identificador na fonte:** `tst-irr-151`
+- **Identificador:** `tst-irr-151`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 30/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=151)
@@ -16,4 +16,4 @@
 
 - [00115050920155150102](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0011505-09.2015.5.15.0102/3#8082a18)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

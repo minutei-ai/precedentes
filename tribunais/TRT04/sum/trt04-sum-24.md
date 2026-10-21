@@ -1,9 +1,9 @@
 # TRT04 · SUM 24
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 24
-- **Identificador na fonte:** `trt04-sum-24`
+- **Identificador:** `trt04-sum-24`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=24)
@@ -29,4 +29,4 @@ FGTS. ATUALIZAÇÃO. Os valores objeto de condenação em FGTS são atualizados 
 - [01456007619985040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/BaTJT7VG2qq0bzp3ZJ_fBQ)
 - [01024009019995040002](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/n7XKyqOvm8dV5sdFHkmRBQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

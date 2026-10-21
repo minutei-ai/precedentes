@@ -1,9 +1,9 @@
 # TRT04 · SUM 58
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 58
-- **Identificador na fonte:** `trt04-sum-58`
+- **Identificador:** `trt04-sum-58`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=58)
@@ -23,4 +23,4 @@ MULTA DO ART. 477, § 8º, DA CLT. A circunstância de a relação de emprego te
 - [00003606520115040016](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/bDeLzCk2dvJLH6Z5XmzlVA)
 - [00006149320105040009](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/knH0-bqbD_xbM8ZkaOuL_g)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

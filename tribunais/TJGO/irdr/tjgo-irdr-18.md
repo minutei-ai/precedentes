@@ -1,9 +1,9 @@
 # TJGO · IRDR 18
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 18
-- **Identificador na fonte:** `tjgo-irdr-18`
+- **Identificador:** `tjgo-irdr-18`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=18)
@@ -20,4 +20,4 @@ O adicional por tempo de serviço e a licença-prêmio somente passaram a ser de
 
 - 51155069520168090051
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

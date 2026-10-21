@@ -1,9 +1,9 @@
 # TRF06 · IAC 4
 
-- **Tribunal:** TRF06
+- **Órgão:** TRF06
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `trf06-iac-4`
+- **Identificador:** `trf06-iac-4`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf06&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ Verificar se o Comandante-Geral da Polícia Militar do Estado de Minas Gerais po
 
 - [60044601120264060000](https://eproc2g.trf6.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_publica&acao_retorno=processo_consulta_publica&num_processo=60044601120264060000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF06/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

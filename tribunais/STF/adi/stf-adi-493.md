@@ -1,10 +1,10 @@
 # STF · ADI 493
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 493
-- **Identificador na fonte:** `stf-adi-493`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-493`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 25/06/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=493)
 
@@ -20,4 +20,4 @@ Decisão: Por maioria de votos, o Tribunal conheceu da ação, integralmente, ve
 
 LEG-FED EMC-000001 ANO-1969 ART-00153 PAR-00003 CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00005 INC-00036 ART-00022 INC-00006 ART-00062 PAR-ÚNICO CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-004657 ANO-1942 ART-00006 LICC-1942 LEI DE INTRODUÇÃO AO CÓDIGO CIVIL LEG-FED LEI-004380 ANO-1964 ART-00005 LEG-FED LEI-008024 ANO-1990 ART-00001 ART-00005 ART-00006 ART-00007 ART-00009 LEG-FED LEI-008177 ANO-1991 ART-00001 ART-00002 ART-00003 ART-00004 ART-00006 ART-00007 ART-00008 ART-00010 ART-00012 ART-00015 ART-00017 ART-00019 ART-00022 ART-00039 LEG-FED LEI-008177 ANO-1991 ART-00018 PAR-00001 PAR-00004 ART-00020 ART-00021 PAR-ÚNICO ART-00023 ART-00024 INCONSTITUCIONALIDADE. LEG-FED DEL-002164 ANO-1984 ART-00009 LEG-FED MPR-000294 ANO-1991
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

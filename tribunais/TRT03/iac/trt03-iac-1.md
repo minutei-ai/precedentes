@@ -1,9 +1,9 @@
 # TRT03 · IAC 1
 
-- **Tribunal:** TRT03
+- **Órgão:** TRT03
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 1
-- **Identificador na fonte:** `trt03-iac-1`
+- **Identificador:** `trt03-iac-1`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt03&tipo=IAC&nr=1)
@@ -20,4 +20,4 @@ Tema n. 1. Autarquia municipal. Serviços de fornecimento de água e esgoto. Exe
 
 - [00101007820185030000](https://pje-consulta.trt3.jus.br/consultaprocessual/detalhe-processo/00101007820185030000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

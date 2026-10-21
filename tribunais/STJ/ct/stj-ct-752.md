@@ -1,9 +1,9 @@
 # STJ · CT 752
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 752
-- **Identificador na fonte:** `stj-ct-752`
+- **Identificador:** `stj-ct-752`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=752)
@@ -24,4 +24,14 @@ Possibilidade de prorrogação da carência do contrato do FIES durante o perío
 - [10113475020204013200](https://processo.stj.jus.br/processo/pesquisa/?termo=202503956572&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10155731220224013400](https://processo.stj.jus.br/processo/pesquisa/?termo=202503957658&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Possibilidade de prorrogação da carência do contrato do FIES durante o período de residência médica, requerida após o início da fase de amortização contratual.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

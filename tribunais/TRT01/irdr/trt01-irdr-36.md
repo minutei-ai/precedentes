@@ -1,9 +1,9 @@
 # TRT01 · IRDR 36
 
-- **Tribunal:** TRT01
+- **Órgão:** TRT01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 36
-- **Identificador na fonte:** `trt01-irdr-36`
+- **Identificador:** `trt01-irdr-36`
 - **Situação na fonte:** Suscitado
 - **Atualização informada pela fonte:** 25/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt01&tipo=IRDR&nr=36)
@@ -16,4 +16,4 @@
 
 - [01073387320265010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0107338-73.2026.5.01.0000/2#4eabd84)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

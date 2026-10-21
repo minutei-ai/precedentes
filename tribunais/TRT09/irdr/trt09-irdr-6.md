@@ -1,9 +1,9 @@
 # TRT09 · IRDR 6
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `trt09-irdr-6`
+- **Identificador:** `trt09-irdr-6`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IRDR&nr=6)
@@ -21,4 +21,4 @@ Responsabilidade solidária de Indústria de Móveis Finger, com as empresas Sto
 
 - [00016155820175090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0001615-58.2017.5.09.0000/2#db1038a)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

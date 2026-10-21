@@ -1,9 +1,9 @@
 # TRT15 · IRDR 40
 
-- **Tribunal:** TRT15
+- **Órgão:** TRT15
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 40
-- **Identificador na fonte:** `trt15-irdr-40`
+- **Identificador:** `trt15-irdr-40`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 06/05/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt15&tipo=IRDR&nr=40)
@@ -20,4 +20,4 @@ Trabalho Rural- Pausas previstas na NR-31 do MTE.
 
 - [00172798320255150000](https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0017279-83.2025.5.15.0000/2#a5c01d6)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT15/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

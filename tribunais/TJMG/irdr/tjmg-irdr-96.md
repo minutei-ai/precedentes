@@ -1,9 +1,9 @@
 # TJMG · IRDR 96
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 96
-- **Identificador na fonte:** `tjmg-irdr-96`
+- **Identificador:** `tjmg-irdr-96`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 25/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=96)
@@ -21,4 +21,4 @@ recurso em que se discute se a prova do empenho da despesa supre a necessidade d
 
 - [01817665120208130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000200181766001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

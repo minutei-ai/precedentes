@@ -1,10 +1,10 @@
 # STF · ADPF 405
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Arguição de Descumprimento de Preceito Fundamental
 - **Número:** 405
-- **Identificador na fonte:** `stf-adpf-405`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adpf-405`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 15/12/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=405)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-009868 ANO-1999 ART-00026 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754822108)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

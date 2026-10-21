@@ -1,9 +1,9 @@
 # STJ · RR 229
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 229
-- **Identificador na fonte:** `stj-rr-229`
+- **Identificador:** `stj-rr-229`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 27/04/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=229)
@@ -21,4 +21,14 @@ A ação de repetição de indébito (...) visa à restituição de crédito tri
 - [00736931520008190001](https://processo.stj.jus.br/processo/pesquisa/?termo=200700991022&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00757841520024047000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900909371&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+### Texto
+
+A ação de repetição de indébito (...) visa à restituição de crédito tributário pago indevidamente ou a maior, por isso que o termo a quo é a data da extinção do crédito tributário, momento em que exsurge o direito de ação contra a Fazenda Pública, sendo certo que, por tratar-se de tributo sujeito ao lançamento de ofício, o prazo prescricional é quinquenal, nos termos do art. 168, I, do CTN.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

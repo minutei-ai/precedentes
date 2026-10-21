@@ -1,9 +1,9 @@
 # TJRO · IRDR 5
 
-- **Tribunal:** TJRO
+- **Órgão:** TJRO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjro-irdr-5`
+- **Identificador:** `tjro-irdr-5`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 10/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjro&tipo=IRDR&nr=5)
@@ -20,4 +20,4 @@ Ainda não Definida. Aguardando o desfecho do Incidente de Arguição de Inconst
 
 - 08044950720198220000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

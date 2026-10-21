@@ -1,9 +1,9 @@
 # TJGO · IRDR 31
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 31
-- **Identificador na fonte:** `tjgo-irdr-31`
+- **Identificador:** `tjgo-irdr-31`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 18/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=IRDR&nr=31)
@@ -20,4 +20,4 @@ Existência ou não de responsabilidade solidária do ente municipal para instal
 
 - 55815682220218090069
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

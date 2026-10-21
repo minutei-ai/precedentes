@@ -1,10 +1,10 @@
 # STF · ADI 1439
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 1439
-- **Identificador na fonte:** `stf-adi-1439`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-1439`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 22/05/1996
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1439)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1934 ART-00121 PAR-00001 LET-B CF-1934 CONSTITUIÇÃO FEDERAL LEG
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347058)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 6363
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 6363
-- **Identificador na fonte:** `stf-adi-6363`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-6363`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 17/04/2020
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6363)
 
@@ -22,4 +22,4 @@ LEG-FED EMC ANO-1926 EMENDA CONSTITUCIONAL DE 3 DE SETEMBRO DE 1926 LEG-FED CF A
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754462782)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

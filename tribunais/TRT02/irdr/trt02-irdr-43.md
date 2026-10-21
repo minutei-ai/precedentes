@@ -1,9 +1,9 @@
 # TRT02 · IRDR 43
 
-- **Tribunal:** TRT02
+- **Órgão:** TRT02
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 43
-- **Identificador na fonte:** `trt02-irdr-43`
+- **Identificador:** `trt02-irdr-43`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 23/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt02&tipo=IRDR&nr=43)
@@ -20,4 +20,4 @@ Indeferido liminarmente em 21/09/2026
 
 - [10001590620245020065](https://pje.trt2.jus.br/consultaprocessual/detalhe-processo/1000159-06.2024.5.02.0065/2#0a7926b)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT02/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

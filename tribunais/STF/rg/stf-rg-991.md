@@ -1,9 +1,9 @@
 # STF · RG 991
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 991
-- **Identificador na fonte:** `stf-rg-991`
+- **Identificador:** `stf-rg-991`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=991)
@@ -20,4 +20,4 @@ Afronta o princípio da separação dos poderes a anulação judicial de cláusu
 
 - [1059819](https://portal.stf.jus.br/processos/detalhe.asp?incidente=5223306)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

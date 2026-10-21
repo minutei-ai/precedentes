@@ -1,9 +1,9 @@
 # TRT04 · SUM 12
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 12
-- **Identificador na fonte:** `trt04-sum-12`
+- **Identificador:** `trt04-sum-12`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=12)
@@ -31,4 +31,4 @@ FGTS. PRESCRIÇÃO A prescrição para reclamar depósitos de FGTS incidentes so
 - [01212004619965040561](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/bh176X7WEMhyu8TGCcZ93A)
 - [83281005519965040841](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/yJT-c3elk4xMTjZ0pcQVAQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

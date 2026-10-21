@@ -1,10 +1,10 @@
 # STF · ADI 933
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 933
-- **Identificador na fonte:** `stf-adi-933`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-933`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 04/11/1993
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=933)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal julgou prejudicado o pedido de medida liminar
 
 LEG-FED CF ANO-1988 ART-00022 INC-00027 ART-00037 INC-00021 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008666 ANO-1993 ART-00001 PAR-ÚNICO ART-00017 INC-00001 LET-B LET-C INC-00002 LET-A LET-B PAR-00001 ART-00024 INC-00010 ART-00118 LLC-1993 LEI DE LICITAÇÕES LEG-EST ADCT ANO-1989 ART-00027 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS, RS LEG-EST LCP-009752 ANO-1992 ART-00001 LEI COMPLEMENTAR, RS LEG-EST DEC-034668 ANO-1993 DECRETO, RS
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

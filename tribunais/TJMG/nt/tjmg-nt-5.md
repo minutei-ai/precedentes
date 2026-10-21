@@ -1,9 +1,9 @@
 # TJMG · NT 5
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 5
-- **Identificador na fonte:** `tjmg-nt-5`
+- **Identificador:** `tjmg-nt-5`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 12/01/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=5)
@@ -27,4 +27,4 @@ A Nota conclui pela pertinência da afetação do grupo de recursos ao regime da
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC817285CB76860185CB80483A6682)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

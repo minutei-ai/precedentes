@@ -1,9 +1,9 @@
 # TRF03 · IRDR 30
 
-- **Tribunal:** TRF03
+- **Órgão:** TRF03
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 30
-- **Identificador na fonte:** `trf03-irdr-30`
+- **Identificador:** `trf03-irdr-30`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 02/12/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf03&tipo=IRDR&nr=30)
@@ -16,4 +16,4 @@ Cálculo do Benefício com Base na Regra Definitiva Prevista no Art. 29 da Lei 8
 
 - 50094611220254030000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF03/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT12 · IRDR 14
 
-- **Tribunal:** TRT12
+- **Órgão:** TRT12
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 14
-- **Identificador na fonte:** `trt12-irdr-14`
+- **Identificador:** `trt12-irdr-14`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/02/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt12&tipo=IRDR&nr=14)
@@ -21,4 +21,4 @@ TESE JURÍDICA Nº 8 EM IRDR: "EFEITOS JURÍDICOS DA INVALIDAÇÃO DA COMPENSAÇ
 - [00009761620195120023](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/00009761620195120023)
 - [00026523420205120000](https://pje.trt12.jus.br/consultaprocessual/detalhe-processo/00026523420205120000)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT12/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

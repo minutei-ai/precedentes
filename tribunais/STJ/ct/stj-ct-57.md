@@ -1,9 +1,9 @@
 # STJ · CT 57
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 57
-- **Identificador na fonte:** `stj-ct-57`
+- **Identificador:** `stj-ct-57`
 - **Situação na fonte:** Controvérsia cancelada
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=57)
@@ -22,4 +22,14 @@ Indenização prevista em contrato de seguro de vida em caso de sinistro causado
 - [10072453620178260071](https://processo.stj.jus.br/processo/pesquisa/?termo=201801607572&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10158358920168260506](https://processo.stj.jus.br/processo/pesquisa/?termo=201801607964&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Cancelada
+
+### Questão
+
+Indenização prevista em contrato de seguro de vida em caso de sinistro causado pelo segurado em estado de embriaguez.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

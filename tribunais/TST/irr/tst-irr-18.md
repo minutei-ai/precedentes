@@ -1,9 +1,9 @@
 # TST · IRR 18
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 18
-- **Identificador na fonte:** `tst-irr-18`
+- **Identificador:** `tst-irr-18`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=18)
@@ -25,4 +25,4 @@ Definição da espécie e dos efeitos do litisconsórcio passivo nos casos de li
 - [00006648220125030137](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0000664&digitoTst=82&anoTst=2012&orgaoTst=5&tribunalTst=03&varaTst=0137&submit=Consultar)
 - [00005517120175200011](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?consulta=Consultar&conscsjt=&numeroTst=0000551&digitoTst=71&anoTst=2017&orgaoTst=5&tribunalTst=20&varaTst=0011&submit=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

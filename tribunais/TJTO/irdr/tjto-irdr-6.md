@@ -1,9 +1,9 @@
 # TJTO · IRDR 6
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 6
-- **Identificador na fonte:** `tjto-irdr-6`
+- **Identificador:** `tjto-irdr-6`
 - **Situação na fonte:** Admitido
 - **Atualização informada pela fonte:** 05/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=IRDR&nr=6)
@@ -17,4 +17,4 @@
 - [00010110820218272716](https://eproc1.tjto.jus.br/consulta_publica/1G/processo/)
 - [00003007120198272716](https://eproc1.tjto.jus.br/consulta_publica/1G/processo/)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

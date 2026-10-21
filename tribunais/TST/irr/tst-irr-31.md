@@ -1,9 +1,9 @@
 # TST · IRR 31
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 31
-- **Identificador na fonte:** `tst-irr-31`
+- **Identificador:** `tst-irr-31`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=31)
@@ -18,4 +18,4 @@
 - [10010174420205020011](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=1001017&digitoTst=44&anoTst=2020&orgaoTst=5&tribunalTst=&varaTst=&consulta=Consultar)
 - [00004474720235060015](https://pje.tst.jus.br/consultaprocessual/captcha/detalhe-processo/0000447-47.2023.5.06.0015/3)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

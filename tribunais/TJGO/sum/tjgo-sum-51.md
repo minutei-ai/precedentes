@@ -1,9 +1,9 @@
 # TJGO · SUM 51
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 51
-- **Identificador na fonte:** `tjgo-sum-51`
+- **Identificador:** `tjgo-sum-51`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 03/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=51)
@@ -16,4 +16,4 @@ Em ação de cobrança de seguro DPVAT, mesmo que o valor da condenação seja i
 
 - 00623403120118090175
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

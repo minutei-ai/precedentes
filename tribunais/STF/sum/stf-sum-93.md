@@ -1,9 +1,9 @@
 # STF · SUM 93
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Súmula
 - **Número:** 93
-- **Identificador na fonte:** `stf-sum-93`
+- **Identificador:** `stf-sum-93`
 - **Situação na fonte:** APROVADO
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SUM&nr=93)
@@ -12,4 +12,4 @@
 
 Não está isenta do impôsto de renda a atividade profissional do arquiteto.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

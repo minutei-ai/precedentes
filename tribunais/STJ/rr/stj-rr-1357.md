@@ -1,9 +1,9 @@
 # STJ · RR 1357
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1357
-- **Identificador na fonte:** `stj-rr-1357`
+- **Identificador:** `stj-rr-1357`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 21/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1357)
@@ -28,4 +28,12 @@ TESE 3: Não é cabível nova remição de pena quando o fato gerador educaciona
 - [05411202620238130000](https://processo.stj.jus.br/processo/pesquisa/?termo=202400083042&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [21218160920228130000](https://processo.stj.jus.br/processo/pesquisa/?termo=202302255302&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+### Texto
+
+TESE 1: É cabível a remição da pena por aprovação no Exame Nacional do Ensino Médio (ENEM), ainda que o sentenciado tenha concluído o ensino médio anteriormente ao início do cumprimento da pena, pois a aprovação no exame demanda estudo por conta própria e representa fato gerador distinto da mera certificação de conclusão do ensino médio;TESE 2: É cabível a remição da pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), ainda que o sentenciado já possuísse, ao ingressar no sistema prisional, certificação de conclusão do mesmo nível de ensino avaliado, pois a aprovação no exame durante o cumprimento da pena configura esforço educacional autônomo apto a justificar a remição;TESE 3: Não é cabível nova remição de pena quando o fato gerador educacional - aprovação em exame ou conclusão de nível de ensino - já tiver sido integralmente utilizado para remição anteriormente concedida na mesma execução penal, configurando-se, na hipótese, indevido bis in idem.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

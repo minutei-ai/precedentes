@@ -1,10 +1,10 @@
 # STF · ADI 231
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 231
-- **Identificador na fonte:** `stf-adi-231`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-231`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 05/08/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=231)
 
@@ -20,4 +20,4 @@ Após o voto do Relator, que julgava procedente a ação e declarava a inconstit
 
 INCONSTITUCIONALIDADE. LEG-FED CF ANO-1934 ART-00170 PAR-00002 CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1937 ART-00156 LET-B CF-1937 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 ART-00186 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 ART-00013 INC-00003 ART-00057 INC-00002 INC-00005 ART-00097 PAR-00002 ART-00100 PAR-ÚNICO CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00025 ART-00034 INC-00007 LET-A ART-00037 INC-00002 ART-00041 PAR-00003 ART-00061 PAR-00001 LEG-FED LEI-001711 ANO-1952 ART-00255 LEG-FED LEI-003780 ANO-1960 LEG-FED LEI-005645 ANO-1970 ART-00006 ART-00013 LEG-FED DEL-008700 ANO-1946 LEG-EST CES ANO-1989 ART-00185 PAR-00001 RJ. LEG-EST ADCT ANO-1989 ART-00077 ART-00080 CES-89, RJ, INCONSTITUCIONALIDADE.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

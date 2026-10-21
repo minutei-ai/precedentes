@@ -1,9 +1,9 @@
 # TST · IRR 190
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 190
-- **Identificador na fonte:** `tst-irr-190`
+- **Identificador:** `tst-irr-190`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=190)
@@ -20,4 +20,4 @@ O contato ou a manipulação do cimento, no exercício da função desempenhada 
 
 - [10012779520225020482](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/1001277-95.2022.5.02.0482/3#77e468c)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

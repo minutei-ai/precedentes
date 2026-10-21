@@ -1,9 +1,9 @@
 # STJ · CT 386
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 386
-- **Identificador na fonte:** `stj-ct-386`
+- **Identificador:** `stj-ct-386`
 - **Situação na fonte:** Controvérsia pendente
 - **Atualização informada pela fonte:** 25/11/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=386)
@@ -20,4 +20,14 @@ O auxílio-transporte pago em pecúnia deve ser incluído na base de cálculo do
 - [00002425720124036130](https://processo.stj.jus.br/processo/pesquisa/?termo=00002425720124036130&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [00138406620154036100](https://processo.stj.jus.br/processo/pesquisa/?termo=00138406620154036100&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+O auxílio-transporte pago em pecúnia deve ser incluído na base de cálculo do salário de contribuição para efeito de incidência do FGTS.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

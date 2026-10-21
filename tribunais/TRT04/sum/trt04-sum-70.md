@@ -1,9 +1,9 @@
 # TRT04 · SUM 70
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 70
-- **Identificador na fonte:** `trt04-sum-70`
+- **Identificador:** `trt04-sum-70`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=70)
@@ -22,4 +22,4 @@ CAIXA ECONÔMICA FEDERAL. PROMOÇÕES POR MÉRITO. INVIABILIDADE DO RECONHECIMEN
 - [00008459120115040751](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/6Cn7RTsbiNxVAy_n4GmS-Q)
 - [00010493020115040010](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/_9CS_Ck5zKjnYqyharHUSQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

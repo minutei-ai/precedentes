@@ -1,9 +1,9 @@
 # TRT24 · NT 2
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `trt24-nt-2`
+- **Identificador:** `trt24-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 07/02/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=2)
@@ -69,4 +69,4 @@ responsabilidade objetiva do empregador
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/NOTA+T%C3%89CNICA+N.+2-2022+CIPJ+-+TRT24a+REGI%C3%83O.pdf/f139965d-26af-456f-9ce8-ffb95af7729c?t=1656354356461)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TST · IRR 281
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 281
-- **Identificador na fonte:** `tst-irr-281`
+- **Identificador:** `tst-irr-281`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=281)
@@ -20,4 +20,4 @@ A estabilidade provisória do cipeiro não constitui vantagem pessoal, mas garan
 
 - [00002902920245210013](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000290-29.2024.5.21.0013)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

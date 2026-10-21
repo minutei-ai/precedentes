@@ -1,9 +1,9 @@
 # TRT04 · SUM 119
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 119
-- **Identificador na fonte:** `trt04-sum-119`
+- **Identificador:** `trt04-sum-119`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=119)
@@ -18,4 +18,4 @@ MUNICÍPIO DE PASSO FUNDO. BASE DE CÁLCULO DO ADICIONAL DE INSALUBRIDADE. A bas
 - [00201292520155040661](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/v9eHjepyZAb5NQHY3Lbvsw)
 - [00201950220155040662](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/DYZCWIReFt35W_de7iNWzQ)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

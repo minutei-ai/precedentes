@@ -1,9 +1,9 @@
 # TJMG · NT 7
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Nota Técnica
 - **Número:** 7
-- **Identificador na fonte:** `tjmg-nt-7`
+- **Identificador:** `tjmg-nt-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/05/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=NT&nr=7)
@@ -21,4 +21,4 @@ O CIJMG recomenda a vinculação e aplicação administrativa dos precedentes qu
 
 - [Link Nota Técnica](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC82D28831A97A01887229BC2A3033)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

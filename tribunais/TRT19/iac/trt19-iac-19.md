@@ -1,9 +1,9 @@
 # TRT19 · IAC 19
 
-- **Tribunal:** TRT19
+- **Órgão:** TRT19
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 19
-- **Identificador na fonte:** `trt19-iac-19`
+- **Identificador:** `trt19-iac-19`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 10/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt19&tipo=IAC&nr=19)
@@ -20,4 +20,4 @@ A decisão proferida no curso da execução trabalhista que, sem extinguir a exe
 
 - [00004404420225190010](https://pje.trt19.jus.br/consultaprocessual/detalhe-processo/0000440-44.2022.5.19.0010/2#62e548e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT19/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

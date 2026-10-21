@@ -1,9 +1,9 @@
 # TST · IRR 234
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 234
-- **Identificador na fonte:** `tst-irr-234`
+- **Identificador:** `tst-irr-234`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 17/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=234)
@@ -20,4 +20,4 @@ As gorjetas, cobradas pelo empregador na nota de serviço ou oferecidas espontan
 
 - [00008600720245130023](https://pje.tst.jus.br/consultaprocessual/detalhe-processo/0000860-07.2024.5.13.0023)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

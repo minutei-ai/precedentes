@@ -1,9 +1,9 @@
 # STF · SV 16
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Súmula Vinculante
 - **Número:** 16
-- **Identificador na fonte:** `stf-sv-16`
+- **Identificador:** `stf-sv-16`
 - **Situação na fonte:** APROVADO
 - **Atualização informada pela fonte:** 22/05/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SV&nr=16)
@@ -12,4 +12,4 @@
 
 Os artigos 7º, IV, e 39, § 3º (redação da EC 19/98), da Constituição, referem-se ao total da remuneração percebida pelo servidor público.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 558
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 558
-- **Identificador na fonte:** `stf-rg-558`
+- **Identificador:** `stf-rg-558`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=558)
@@ -20,4 +20,4 @@ A compensação dos débitos da Fazenda Pública inscritos em precatórios, prev
 
 - [678360](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4219076)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

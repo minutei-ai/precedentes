@@ -1,9 +1,9 @@
 # TRT08 · NT 2
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Nota Técnica
 - **Número:** 2
-- **Identificador na fonte:** `trt08-nt-2`
+- **Identificador:** `trt08-nt-2`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 22/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=NT&nr=2)
@@ -28,4 +28,4 @@ CONCLUSÃO: O Centro de Inteligência do Tribunal Regional do Trabalho da 8ª Re
 
 - [Link Nota Técnica](https://www.trt8.jus.br/sites/portal/files/pdfs/anexo_de_comissao/comissao_id11788/nota_tecnica-2022-08-24_centro_regional_de_inteligencia_id28346.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

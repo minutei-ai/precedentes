@@ -1,10 +1,10 @@
 # STF · ADI 4
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 4
-- **Identificador na fonte:** `stf-adi-4`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-4`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 07/03/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4)
 
@@ -20,4 +20,4 @@ Preliminarmente o Tribunal, examinando questão de ordem apresentada pelo Sr. Mi
 
 LEG-FED CF ANO-1988 ART-00102 INC-00001 LET-A ART-00103 INC-00008 ART-00164 PAR-00002 ART-00192 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-003071 ANO-1916 ART-00002 PAR-00003 ART-01062 ART-01262 CC-1916 CÓDIGO CIVIL LEG-FED LEI-000556 ANO-1850 ART-00248 ART-00253 CCM-1850 CÓDIGO COMERCIAL LEG-FED LEI-001521 ANO-1951 LEG-FED LEI-004595 ANO-1964 (LEI DA REFORMA BANCÁRIA). LEG-FED LEI-004728 ANO-1965 LEG-FED LEI-006385 ANO-1976 LEG-FED LEI-007492 ANO-1986 Crimes Contra o Sistema Financeiro LEG-FED DEC-022626 ANO-1933 LU-1933 LEI DE USURA LEG-FED DEC-092889 ANO-1986 ART-00022 PAR-00002 ART-00023 LEG-FED DEL-000869 ANO-1938 LEG-FED PRC-000070 ANO-1988 (SR - CONSULTORIA GERAL DA REPÚBLICA). LEG-FED CIR-001365 ANO-1988 (BANCO CENTRAL DO BRASIL). LEG-FED SUMSTF-000596 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 250
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 250
-- **Identificador na fonte:** `stj-ct-250`
+- **Identificador:** `stj-ct-250`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 04/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=250)
@@ -19,4 +19,14 @@ Termo inicial dos juros de mora, consequentes de ação de cobrança dos valores
 - [10300492320158260053](https://processo.stj.jus.br/processo/pesquisa/?termo=202101866287&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [10388655720168260053](https://processo.stj.jus.br/processo/pesquisa/?termo=202002229945&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Termo inicial dos juros de mora, consequentes de ação de cobrança dos valores pretéritos ao mandado de segurança.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

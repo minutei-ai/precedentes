@@ -1,9 +1,9 @@
 # TST · IRR 149
 
-- **Tribunal:** TST
+- **Órgão:** TST
 - **Espécie:** Incidente de Recurso Repetitivo
 - **Número:** 149
-- **Identificador na fonte:** `tst-irr-149`
+- **Identificador:** `tst-irr-149`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 05/06/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tst&tipo=IRR&nr=149)
@@ -18,4 +18,4 @@ a) em observância à tese vinculante firmada pelo Supremo Tribunal Federal no j
 - [00116690720205150002](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=11669&digitoTst=07&anoTst=2020&orgaoTst=5&tribunalTst=15&varaTst=0002&consulta=Consultar)
 - [00103581520195150099](https://consultaprocessual.tst.jus.br/consultaProcessual/consultaTstNumUnica.do?conscsjt=&numeroTst=0010358&digitoTst=15&anoTst=2019&orgaoTst=5&tribunalTst=15&varaTst=0099&consulta=Consultar)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TST/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

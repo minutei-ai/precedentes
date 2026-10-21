@@ -1,9 +1,9 @@
 # TRT04 · IRDR 20
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 20
-- **Identificador na fonte:** `trt04-irdr-20`
+- **Identificador:** `trt04-irdr-20`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 28/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IRDR&nr=20)
@@ -22,4 +22,4 @@ Caracteriza ato ilícito do empregador o inadimplemento de verbas trabalhistas d
 - [00212537620215040000](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021253-76.2021.5.04.0000/2#5f68c30)
 - [00211686820195040030](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0021168-68.2019.5.04.0030/2#7744985)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

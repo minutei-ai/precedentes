@@ -1,9 +1,9 @@
 # TRF01 · IRDR 60
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 60
-- **Identificador na fonte:** `trf01-irdr-60`
+- **Identificador:** `trf01-irdr-60`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 30/09/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=60)
@@ -16,4 +16,4 @@ Cuida-se de controvérsia quanto ao recebimento de pensão por morte estatutári
 
 - 10072789820224010000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STF · RG 335
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 335
-- **Identificador na fonte:** `stf-rg-335`
+- **Identificador:** `stf-rg-335`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=335)
@@ -20,4 +20,4 @@ Inexiste direito dos candidatos em concurso público à prova de segunda chamada
 
 - [630733](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3957697)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

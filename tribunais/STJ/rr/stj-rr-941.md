@@ -1,9 +1,9 @@
 # STJ · RR 941
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 941
-- **Identificador na fonte:** `stj-rr-941`
+- **Identificador:** `stj-rr-941`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 05/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=941)
@@ -20,4 +20,10 @@ Nos planos de benefícios de previdência complementar administrados por entidad
 
 - 00506026020128130317
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Trânsito em Julgado
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

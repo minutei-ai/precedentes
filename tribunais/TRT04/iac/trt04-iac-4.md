@@ -1,9 +1,9 @@
 # TRT04 · IAC 4
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 4
-- **Identificador na fonte:** `trt04-iac-4`
+- **Identificador:** `trt04-iac-4`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 02/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=IAC&nr=4)
@@ -20,4 +20,4 @@ Não integra a competência material desta Justiça do Trabalho processar e julg
 
 - [00208923920245040102](https://pje.trt4.jus.br/consultaprocessual/detalhe-processo/0020892-39.2024.5.04.0102/2#4fc33b7)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

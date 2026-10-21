@@ -1,9 +1,9 @@
 # STF · RG 350
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 350
-- **Identificador na fonte:** `stf-rg-350`
+- **Identificador:** `stf-rg-350`
 - **Situação na fonte:** Há repercussão geral. Leading case: transitado em julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=350)
@@ -20,4 +20,4 @@ I - A concessão de benefícios previdenciários depende de requerimento do inte
 
 - [631240](https://portal.stf.jus.br/processos/detalhe.asp?incidente=3966199)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

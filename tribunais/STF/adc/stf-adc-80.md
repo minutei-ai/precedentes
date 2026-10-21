@@ -1,10 +1,10 @@
 # STF · ADC 80
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Declaratória de Constitucionalidade
 - **Número:** 80
-- **Identificador na fonte:** `stf-adc-80`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adc-80`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 18/10/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADC&nr=80)
 
@@ -22,4 +22,4 @@ LEG-FED LEI-007689 ANO-1988 ART-00009 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=772561278)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

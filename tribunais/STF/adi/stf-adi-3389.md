@@ -1,10 +1,10 @@
 # STF · ADI 3389
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 3389
-- **Identificador na fonte:** `stf-adi-3389`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-3389`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 29/03/2006
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3389)
 
@@ -22,4 +22,4 @@ LEG-FED CF ANO-1988 ART-00003 INC-00003 ART-00103 ART-00152 ART-00155 PAR-00002 
 
 [Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=387250)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # STJ · CT 576
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 576
-- **Identificador na fonte:** `stj-ct-576`
+- **Identificador:** `stj-ct-576`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 07/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=576)
@@ -30,4 +30,14 @@ Definir a possibilidade de inclusão de crédito presumido do Imposto sobre Circ
 - [08015881620244058302](https://processo.stj.jus.br/processo/pesquisa/?termo=202502423466&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [08067380220244058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202502942427&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Definir a possibilidade de inclusão de crédito presumido do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) nas bases de cálculo do Imposto de Renda de Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

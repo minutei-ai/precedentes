@@ -1,9 +1,9 @@
 # TRT04 · SUM 36
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 36
-- **Identificador na fonte:** `trt04-sum-36`
+- **Identificador:** `trt04-sum-36`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=36)
@@ -51,4 +51,4 @@ FUNDO DE GARANTIA DO TEMPO DE SERVIÇO. PLANOS ECONÔMICOS. EXPURGOS INFLACIONÁ
 - [00878008920035040013](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/e8Li7w7mHDDDTOOfgESf5w)
 - [00751001120035040101](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/IYxJpe0I_KO8ETBy-jYaYA)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

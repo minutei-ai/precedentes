@@ -1,10 +1,10 @@
 # STF · ADI 611
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 611
-- **Identificador na fonte:** `stf-adi-611`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-611`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 06/11/1992
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=611)
 
@@ -20,4 +20,4 @@ Por votação unânime, o Tribunal não conheceu da ação, por impossibilidade 
 
 LEG-FED CF ANO-1988 ART-00030 INC-00008 ART-00032 ART-00034 INC-00007 ART-00182 CF-1988 CONSTITUIÇÃO FEDERAL
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

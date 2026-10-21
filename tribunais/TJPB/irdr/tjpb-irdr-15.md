@@ -1,9 +1,9 @@
 # TJPB · IRDR 15
 
-- **Tribunal:** TJPB
+- **Órgão:** TJPB
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 15
-- **Identificador na fonte:** `tjpb-irdr-15`
+- **Identificador:** `tjpb-irdr-15`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 30/07/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=15)
@@ -20,4 +20,4 @@ As alterações regulamentares nas regras de concessão de isenção de IPVA par
 
 - [08301559020228150000](https://www.tjpb.jus.br/nugep/irdr)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

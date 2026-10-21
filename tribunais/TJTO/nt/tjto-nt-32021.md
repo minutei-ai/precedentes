@@ -1,9 +1,9 @@
 # TJTO · NT 32021
 
-- **Tribunal:** TJTO
+- **Órgão:** TJTO
 - **Espécie:** Nota Técnica
 - **Número:** 32021
-- **Identificador na fonte:** `tjto-nt-32021`
+- **Identificador:** `tjto-nt-32021`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 09/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjto&tipo=NT&nr=32021)
@@ -32,4 +32,4 @@ Sugestões de boas práticas:
 
 - [Link Nota Técnica](https://www.tjto.jus.br/plugins/content/pdfviewer/assets/pdfjs/web/viewer.html?file=https://www.tjto.jus.br/cinugep/notas-tecnicas/20779-nota-tecnica-03/viewdocument/20779)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJTO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

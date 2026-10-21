@@ -1,9 +1,9 @@
 # TRT04 · SUM 78
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 78
-- **Identificador na fonte:** `trt04-sum-78`
+- **Identificador:** `trt04-sum-78`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=78)
@@ -19,4 +19,4 @@ TRABALHADOR BANCÁRIO. TRANSPORTE DE VALORES. INDENIZAÇÃO POR DANO MORAL. O tr
 - [00002634020135040131](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/asTJ3b2csns_7jPiZkTOBg)
 - [00013091420125040741](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/d2KyAVf5oqKpNn7BTuZxxg)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

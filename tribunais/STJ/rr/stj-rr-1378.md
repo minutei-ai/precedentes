@@ -1,9 +1,9 @@
 # STJ · RR 1378
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1378
-- **Identificador na fonte:** `stj-rr-1378`
+- **Identificador:** `stj-rr-1378`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 04/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1378)
@@ -19,4 +19,6 @@ I) suficiência ou não da adoção das taxas médias de mercado divulgadas pelo
 - [00083444620238160194](https://processo.stj.jus.br/processo/pesquisa/?termo=202501190836&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50026394720248210019](https://processo.stj.jus.br/processo/pesquisa/?termo=202501629070&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TJMG · IRDR 81
 
-- **Tribunal:** TJMG
+- **Órgão:** TJMG
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 81
-- **Identificador na fonte:** `tjmg-irdr-81`
+- **Identificador:** `tjmg-irdr-81`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 28/01/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmg&tipo=IRDR&nr=81)
@@ -20,4 +20,4 @@ A origem comum existente na ação de alimentos, na revisional, na exoneração 
 
 - [13752905920218130000](https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?listaProcessos=10000211375290001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMG/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

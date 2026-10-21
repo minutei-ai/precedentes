@@ -1,9 +1,9 @@
 # TRT24 · NT 36
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Nota Técnica
 - **Número:** 36
-- **Identificador na fonte:** `trt24-nt-36`
+- **Identificador:** `trt24-nt-36`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=NT&nr=36)
@@ -80,4 +80,4 @@ termos previstos no art. 85 do Código (...)
 
 - [Link Nota Técnica](https://www.trt24.jus.br/documents/20182/7949900/CI+NOTA+T%C3%89CNICA+N.+36_2025.pdf/4bbe7761-a17f-8129-0ca8-1827c74d046d?t=1763150086925)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

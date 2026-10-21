@@ -1,9 +1,9 @@
 # TRT08 · NT 14
 
-- **Tribunal:** TRT08
+- **Órgão:** TRT08
 - **Espécie:** Nota Técnica
 - **Número:** 14
-- **Identificador na fonte:** `trt08-nt-14`
+- **Identificador:** `trt08-nt-14`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt08&tipo=NT&nr=14)
@@ -50,4 +50,4 @@ A Comissão de Inteligência do Tribunal Regional do Trabalho da 8ª Região, em
 
 - [Link Nota Técnica](https://www.trt8.jus.br/sites/portal/files/pdfs/anexo_de_comissao/comissao_id11788/nota_tecnica-2025-07-04_comissao_regional_de_inteligencia_id47320.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT08/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

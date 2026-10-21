@@ -1,9 +1,9 @@
 # TJPE · SUM 171
 
-- **Tribunal:** TJPE
+- **Órgão:** TJPE
 - **Espécie:** Súmula
 - **Número:** 171
-- **Identificador na fonte:** `tjpe-sum-171`
+- **Identificador:** `tjpe-sum-171`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 04/07/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=171)
@@ -20,4 +20,4 @@ A matéria relativa aos juros de mora e à correção monetária é de ordem pú
 - [00625826820128170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00625826820128170001)
 - [00257366220068170001](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00257366220068170001)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

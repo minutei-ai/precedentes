@@ -1,9 +1,9 @@
 # STJ · RR 1079
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1079
-- **Identificador na fonte:** `stj-rr-1079`
+- **Identificador:** `stj-rr-1079`
 - **Situação na fonte:** Acórdão Publicado
 - **Atualização informada pela fonte:** 25/09/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1079)
@@ -27,4 +27,12 @@ iv) portanto, a partir da entrada em vigor do art. 1°, 1, do Decreto-Lei 2.318/
 - [08041757420204058100](https://processo.stj.jus.br/processo/pesquisa/?termo=202002539916&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50193432120194047003](https://processo.stj.jus.br/processo/pesquisa/?termo=202003035300&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+### Texto
+
+i) o art. 1° do Decreto-Lei 1.861/1981 (com a redação dada pelo DL 1.867/1981) definiu que as contribuições devidas ao Sesi, ao Senai, ao Sesc e ao Senac incidem até o limite máximo das contribuições previdenciárias;ii) especificando o limite máximo das contribuições previdenciárias, o art. 4°, parágrafo único, da superveniente Lei 6.950/1981, também especificou o teto das contribuições parafiscais em geral, devidas em favor de terceiros, estabelecendo-o em 20 vezes o maior salário mínimo vigente; eiii) o art. 1°, inciso I, do Decreto-Lei 2.318/1986, expressamente revogou a norma específica que estabelecia teto limite para as contribuições parafiscais devidas ao Sesi, ao Senai, ao Sesc e ao Senac, assim como o seu art. 3° expressamente revogou o teto limite para as contribuições previdenciárias;iv) portanto, a partir da entrada em vigor do art. 1°, 1, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

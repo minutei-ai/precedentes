@@ -1,9 +1,9 @@
 # STJ · CT 765
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Controvérsia
 - **Número:** 765
-- **Identificador na fonte:** `stj-ct-765`
+- **Identificador:** `stj-ct-765`
 - **Situação na fonte:** Controvérsia vinculada ao tema do STJ
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=CT&nr=765)
@@ -24,4 +24,14 @@ Contratação de cartão de crédito consignado ao invés de empréstimo consign
 - [50102446520258130105](https://processo.stj.jus.br/processo/pesquisa/?termo=202504600904&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50016631120228130479](https://processo.stj.jus.br/processo/pesquisa/?termo=202504559893&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+## Outra fonte oficial
+
+[STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados)
+
+**Situação informada:** Vinculada a Tema
+
+### Questão
+
+Contratação de cartão de crédito consignado ao invés de empréstimo consignado, e as implicações dessa contratação, especialmente no que diz respeito à cobrança de juros.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

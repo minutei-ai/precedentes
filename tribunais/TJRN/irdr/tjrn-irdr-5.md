@@ -1,9 +1,9 @@
 # TJRN · IRDR 5
 
-- **Tribunal:** TJRN
+- **Órgão:** TJRN
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjrn-irdr-5`
+- **Identificador:** `tjrn-irdr-5`
 - **Situação na fonte:** Cancelado
 - **Atualização informada pela fonte:** 24/03/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrn&tipo=IRDR&nr=5)
@@ -16,4 +16,4 @@ Averiguar a exigibilidade da obrigação contida no título executivo judicial, 
 
 - 08069535120198200000
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRN/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

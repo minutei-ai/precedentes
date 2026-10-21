@@ -1,9 +1,9 @@
 # TRT24 · IAC 3
 
-- **Tribunal:** TRT24
+- **Órgão:** TRT24
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 3
-- **Identificador na fonte:** `trt24-iac-3`
+- **Identificador:** `trt24-iac-3`
 - **Situação na fonte:** Acórdão Publicado (Recurso de Revista Pendente)
 - **Atualização informada pela fonte:** 13/02/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt24&tipo=IAC&nr=3)
@@ -20,4 +20,4 @@ NATUREZA JURÍDICA DAS PARCELAS PPE (PROGRAMA PRÓPRIO ESPECÍFICO) E PPRS (PROG
 
 - [00243757120235240000](http://pje.trt24.jus.br/consultaprocessual/detalhe-processo/0024375-71.2023.5.24.0000/2#4d5404e)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT24/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,9 +1,9 @@
 # TRT09 · IAC 16
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 16
-- **Identificador na fonte:** `trt09-iac-16`
+- **Identificador:** `trt09-iac-16`
 - **Situação na fonte:** Acórdão Publicado (Mérito)
 - **Atualização informada pela fonte:** 03/08/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=IAC&nr=16)
@@ -21,4 +21,4 @@ Regime de 24x48 horas. Nulidade. Tema nº 1.046 do STF. Ofensa a direitos indisp
 
 - [00053095420255090000](https://pje.trt9.jus.br/consultaprocessual/detalhe-processo/0005309-54.2025.5.09.0000/2#e895065)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

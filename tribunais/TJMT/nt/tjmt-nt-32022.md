@@ -1,9 +1,9 @@
 # TJMT · NT 32022
 
-- **Tribunal:** TJMT
+- **Órgão:** TJMT
 - **Espécie:** Nota Técnica
 - **Número:** 32022
-- **Identificador na fonte:** `tjmt-nt-32022`
+- **Identificador:** `tjmt-nt-32022`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 25/08/2022
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjmt&tipo=NT&nr=32022)
@@ -20,4 +20,4 @@ Nota Técnica estabelece diretrizes para o tratamento de conflitos fundiários c
 
 - [Link Nota Técnica](https://centrodeinteligencia-mc.tjmt.jus.br/portalcentrodeinteligencia-arquivos-prod/cms/03_Nota_Tecnica_01_2022_CIPJPR_5a1311cdb0.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMT/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

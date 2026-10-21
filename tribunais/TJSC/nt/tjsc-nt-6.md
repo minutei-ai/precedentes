@@ -1,9 +1,9 @@
 # TJSC · NT 6
 
-- **Tribunal:** TJSC
+- **Órgão:** TJSC
 - **Espécie:** Nota Técnica
 - **Número:** 6
-- **Identificador na fonte:** `tjsc-nt-6`
+- **Identificador:** `tjsc-nt-6`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 24/07/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsc&tipo=NT&nr=6)
@@ -23,4 +23,4 @@ da federação.
 
 - [Link Nota Técnica](https://www.tjsc.jus.br/documents/10181/14016435/CIJESC-NotaT%C3%A9cnican.06-2023.pdf/4381cf93-3da0-bf1f-9d01-45acf742b6d4?t=1690221513730)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSC/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

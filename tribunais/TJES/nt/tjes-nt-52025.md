@@ -1,9 +1,9 @@
 # TJES · NT 52025
 
-- **Tribunal:** TJES
+- **Órgão:** TJES
 - **Espécie:** Nota Técnica
 - **Número:** 52025
-- **Identificador na fonte:** `tjes-nt-52025`
+- **Identificador:** `tjes-nt-52025`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 30/04/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjes&tipo=NT&nr=52025)
@@ -20,4 +20,4 @@ Orientar as unidades judiciárias de Primeiro e Segundo Graus de Jurisdição pa
 
 - [Link Nota Técnica](https://www.tjes.jus.br/wp-content/uploads/NOTA-TECNICA-05.2025-MOVIMENTOS-PARA-MEDIDAS-PROTETIVAS-DE-URGENCIA.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJES/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

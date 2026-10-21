@@ -1,9 +1,9 @@
 # TJGO · SUM 7
 
-- **Tribunal:** TJGO
+- **Órgão:** TJGO
 - **Espécie:** Súmula
 - **Número:** 7
-- **Identificador na fonte:** `tjgo-sum-7`
+- **Identificador:** `tjgo-sum-7`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 08/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=7)
@@ -16,4 +16,4 @@ Não constitui óbice à concessão de gratificação de risco de vida aos servi
 
 - 02289810420108090091
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJGO/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

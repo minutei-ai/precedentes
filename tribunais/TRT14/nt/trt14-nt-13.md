@@ -1,9 +1,9 @@
 # TRT14 · NT 13
 
-- **Tribunal:** TRT14
+- **Órgão:** TRT14
 - **Espécie:** Nota Técnica
 - **Número:** 13
-- **Identificador na fonte:** `trt14-nt-13`
+- **Identificador:** `trt14-nt-13`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 05/11/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt14&tipo=NT&nr=13)
@@ -85,4 +85,4 @@ pagamento dos honor.
 
 - [Link Nota Técnica](https://portal.trt14.jus.br/portal/sites/default/files/notas-tecnicas-leg-2025-07/Ass.%20Nota%20T%C3%A9cnica%20n.%2003-2025-TRT14-CI-NUGEPNAC%20-%20IAC.%20%C3%94nus%20da%20Per%C3%ADcia%20de%20C%C3%A1lculos%20Judiciais.pdf)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT14/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

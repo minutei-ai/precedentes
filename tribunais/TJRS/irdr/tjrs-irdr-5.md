@@ -1,9 +1,9 @@
 # TJRS · IRDR 5
 
-- **Tribunal:** TJRS
+- **Órgão:** TJRS
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 5
-- **Identificador na fonte:** `tjrs-irdr-5`
+- **Identificador:** `tjrs-irdr-5`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 12/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjrs&tipo=IRDR&nr=5)
@@ -16,4 +16,4 @@ Discussão a respeito da possibilidade de as pessoas físicas e jurídicas não 
 
 A presença de pessoa natural ou pessoa jurídica de direito privado, em litisconsórcio passivo facultativo ou necessário com um dos entes arrolados no inciso II do art. 5º, da Lei 12.153/09, não afasta a competência do Juizado Especial da Fazenda Pública para o processamento e julgamento da demanda.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJRS/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

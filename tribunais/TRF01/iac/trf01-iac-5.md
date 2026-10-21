@@ -1,9 +1,9 @@
 # TRF01 · IAC 5
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Assunção de Competência
 - **Número:** 5
-- **Identificador na fonte:** `trf01-iac-5`
+- **Identificador:** `trf01-iac-5`
 - **Situação na fonte:** Não admitido
 - **Atualização informada pela fonte:** 04/09/2025
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IAC&nr=5)
@@ -16,4 +16,4 @@ Discute-se a decisão de que os valores recebidos de boa-fé não precisam ser d
 
 - 00268461520154019199
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

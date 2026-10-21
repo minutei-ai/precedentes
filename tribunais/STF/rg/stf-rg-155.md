@@ -1,9 +1,9 @@
 # STF · RG 155
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Tema de Repercussão Geral
 - **Número:** 155
-- **Identificador na fonte:** `stf-rg-155`
+- **Identificador:** `stf-rg-155`
 - **Situação na fonte:** Há repercussão geral. Leading case: mérito julgado
 - **Atualização informada pela fonte:** 15/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=155)
@@ -20,4 +20,4 @@ Progressividade do IPTU antes da Emenda Constitucional nº 29/2000.
 
 - [712743](https://portal.stf.jus.br/processos/detalhe.asp?incidente=2613544)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

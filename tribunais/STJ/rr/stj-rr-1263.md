@@ -1,9 +1,9 @@
 # STJ · RR 1263
 
-- **Tribunal:** STJ
+- **Órgão:** STJ
 - **Espécie:** Recurso Especial Repetitivo
 - **Número:** 1263
-- **Identificador na fonte:** `stj-rr-1263`
+- **Identificador:** `stj-rr-1263`
 - **Situação na fonte:** Afetado
 - **Atualização informada pela fonte:** 01/06/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=1263)
@@ -22,4 +22,6 @@ Definir se a oferta de seguro garantia tem o efeito de obstar o encaminhamento d
 - [50339128320258240000](https://processo.stj.jus.br/processo/pesquisa/?termo=202504977949&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 - [50071577420244030000](https://processo.stj.jus.br/processo/pesquisa/?termo=202504270025&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).
+Fonte adicional: [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados).
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,10 +1,10 @@
 # STF · ADI 189
 
-- **Tribunal:** STF
+- **Órgão:** STF
 - **Espécie:** Ação Direta de Inconstitucionalidade
 - **Número:** 189
-- **Identificador na fonte:** `stf-adi-189`
-- **Situação na fonte:** Não informada
+- **Identificador:** `stf-adi-189`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** 09/10/1991
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=189)
 
@@ -20,4 +20,4 @@ Após os votos dos Ministros Relator, Ilmar Galvão e Carlos Velloso, julgando i
 
 LEG-FED CF ANO-1988 ART-00005 INC-00036 ART-00093 INC-00002 LET-A LET-B LET-C LET-D INC-00003 INC-00011 ART-00096 INC-00001 LET-C ART-00099 ART-00101 PAR-ÚNICO ART-00102 INC-00001 LET-N ART-00104 ART-00107 ART-00111 PAR-00001 ART-00115 ART-00119 INC-00001 LET-A LET-B INC-00002 ART-00120 PAR-00001 INC-00001 LET-A LET-B INC-00002 INC-00003 ART-00123 ART-00125 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000035 ANO-1979 ART-00099 PAR-00002 ART-00100 PAR-00003 ART-00142 LOMAN-1979 LEI ORGÂNICA DA MAGISTRATURA NACIONAL LEG-EST RES-000003 ANO-1989 ART-00001 ART-00002 ART-00003 PAR-00001 PAR-00002 ART-00004 PAR-00001 PAR-00002 PAR-00003 ART-00005 ART-00006 ART-00007 ART-00008 TRIBUNAL DE JUSTIÇA, RJ. LEG-EST RES-000003 ANO-1989 ART-00004 PAR-00004 TRIBUNAL DE JUSTIÇA, RJ, INCONSTITUCIONALIDADE PARCIAL.
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

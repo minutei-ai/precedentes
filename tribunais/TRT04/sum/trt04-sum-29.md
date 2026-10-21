@@ -1,9 +1,9 @@
 # TRT04 · SUM 29
 
-- **Tribunal:** TRT04
+- **Órgão:** TRT04
 - **Espécie:** Súmula
 - **Número:** 29
-- **Identificador na fonte:** `trt04-sum-29`
+- **Identificador:** `trt04-sum-29`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 13/09/2023
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt04&tipo=SUM&nr=29)
@@ -26,4 +26,4 @@ MUNICÍPIO DE GRAVATAÍ. QÜINQÜÊNIOS. LEI 260/86. Os servidores celetistas do
 - [00217001720025040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/W2o9A5x2aqwDgKFwkUOegw)
 - [00975008520015040231](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/wlH1xOuZhDIZCi8jL2Bf4Q)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT04/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

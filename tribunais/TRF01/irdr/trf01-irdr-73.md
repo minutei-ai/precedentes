@@ -1,9 +1,9 @@
 # TRF01 · IRDR 73
 
-- **Tribunal:** TRF01
+- **Órgão:** TRF01
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 73
-- **Identificador na fonte:** `trf01-irdr-73`
+- **Identificador:** `trf01-irdr-73`
 - **Situação na fonte:** Mérito julgado
 - **Atualização informada pela fonte:** 27/07/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trf01&tipo=IRDR&nr=73)
@@ -24,4 +24,4 @@ Não há direito à transposição de servidores admitidos pelo Estado de Rondô
 - 00014778720154014100
 - 00056797320164014100
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRF01/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

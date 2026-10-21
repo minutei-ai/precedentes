@@ -1,9 +1,9 @@
 # TJMA · IRDR 3
 
-- **Tribunal:** TJMA
+- **Órgão:** TJMA
 - **Espécie:** Incidente de Resolução de Demandas Repetitivas
 - **Número:** 3
-- **Identificador na fonte:** `tjma-irdr-3`
+- **Identificador:** `tjma-irdr-3`
 - **Situação na fonte:** Transitado em julgado
 - **Atualização informada pela fonte:** 20/10/2026
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjma&tipo=IRDR&nr=3)
@@ -20,4 +20,4 @@ Os candidatos excedentes, em concurso público para professor do Estado, não t�
 
 - [00283023220138100001](https://jurisconsult.tjma.jus.br/#/sg-public-search-process-sheet)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJMA/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

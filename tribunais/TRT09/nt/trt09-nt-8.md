@@ -1,9 +1,9 @@
 # TRT09 · NT 8
 
-- **Tribunal:** TRT09
+- **Órgão:** TRT09
 - **Espécie:** Nota Técnica
 - **Número:** 8
-- **Identificador na fonte:** `trt09-nt-8`
+- **Identificador:** `trt09-nt-8`
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** 14/06/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt09&tipo=NT&nr=8)
@@ -21,4 +21,4 @@ Inteligência do TRT9 com o propósito de sugerir a pacificação do entendiment
 
 - [Link Nota Técnica](https://www.trt9.jus.br/portal/arquivos/8822808)
 
-Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT09/).
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
