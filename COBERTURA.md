@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.559 registros únicos de 76 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.560 registros únicos de 77 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -113,6 +113,7 @@
 | [TRE-MA — Súmula e inteiro teor oficial](https://www.tre-ma.jus.br/jurisprudencia/sumulas/sumulas-do-tre-ma) | 1 | 1 | 0 |
 | [TRE-MT — Enunciado de súmula e referências oficiais](https://www.tre-mt.jus.br/jurisprudencia/sumulas) | 1 | 1 | 0 |
 | [TRE-RJ — Súmulas do catálogo regional](https://www.tre-rj.jus.br/jurisprudencia/sumulas/sumulas-do-tre-rj) | 27 | 27 | 0 |
+| [TRE-RS — Consulta conhecida de 2023 com acórdão completo](https://www.tre-rs.jus.br/jurisprudencia/consultas-julgadas-pelo-pleno-do-tre-rs/consultas-2023/consultas-conhecidas-elegibilidade-de-parente-ate-2o-de-prefeito-reeleito) | 1 | 1 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -133,6 +134,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRE-PR permanece pendente. A [página oficial de jurisprudência](https://www.tre-pr.jus.br/jurisprudencia), consultada em 21/10/2026, apresenta pesquisa, acórdãos, decisões monocráticas, informativos e temas selecionados, sem catálogo de súmulas regionais na página. A ausência nessa navegação não comprova inexistência de súmulas ou de outros precedentes. A página foi capturada pelo navegador integrado após HTTP 403 nos acessos direto e nativo.
+
+O TRE-RS acrescenta a Consulta nº 0600332-21.2023.6.21.0000, sobre elegibilidade de parentes de prefeito reeleito, localizada na série de consultas conhecidas de 2023. A página a identifica de forma abreviada como nº 060033221. Foram coletados a ementa integral da página e o texto completo do PDF vinculado, com dez páginas: capa do PJe, ementa, acórdão, relatório, voto, referências e rodapés. O PDF declara que não há segredo de justiça. O registro mantém a publicação no DJE de 09/11/2023 e a sessão de 07/11/2023, sem substituir uma data pela outra. As diferenças de aspas e quebras de linha entre página e PDF permanecem nas respectivas fontes.
+
+A categoria CTA identifica consulta; o resultado “Consulta conhecida e respondida” reproduz a ementa, sem atribuição de eficácia vinculante ou vigência atual. A página foi relida após a captura do PDF e permaneceu estável. A captura usou o navegador integrado após HTTP 403 nos acessos direto e nativo ao portal. A [página de jurisprudência do TRE-RS](https://www.tre-rs.jus.br/jurisprudencia) também foi capturada: apresenta pesquisa, EmTema, LEJU, consultas julgadas e outras publicações, sem catálogo regional de súmulas nessa navegação. Isso não comprova inexistência de súmulas. As demais consultas dos anos de 2016 a 2024, os julgados citados e as outras séries permanecem pendentes.
 
 O TRE-RJ acrescenta as 27 súmulas listadas na tabela oficial, com número, data e enunciado. A numeração original, inclusive os zeros iniciais de 01 a 09, foi preservada no campo Número; os identificadores dos arquivos usam o valor numérico correspondente. As datas da coluna “DATA” foram mantidas como apresentadas, sem reclassificação como publicação, revisão ou atualização. As entradas 21 a 27 apresentam 13/03/2025. A redação da fonte foi preservada, inclusive “quando à possibilidade” na nº 05 e a aspa final na nº 20.
 
@@ -389,7 +396,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_PI | 0 | 0 | 0 |
 | [TRE_RJ](tribunais/TRE_RJ/) | 27 | 0 | 0 |
 | [TRE_RN](tribunais/TRE_RN/) | 42 | 0 | 0 |
-| TRE_RS | 0 | 0 | 0 |
+| [TRE_RS](tribunais/TRE_RS/) | 1 | 0 | 0 |
 | TRE_RO | 0 | 0 | 0 |
 | TRE_RR | 0 | 0 | 0 |
 | [TRE_SC](tribunais/TRE_SC/) | 50 | 0 | 0 |
