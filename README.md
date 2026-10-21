@@ -2,7 +2,7 @@
 
 Súmulas, temas, orientações jurisprudenciais e precedentes em arquivos fáceis de ler, pesquisar e usar com IA.
 
-Um acervo público do [Minutei](https://minutei.legal), a partir de fontes oficiais. **16.699 registros de 64 órgãos**, organizados por órgão e espécie.
+Um acervo público do [Minutei](https://minutei.legal), a partir de fontes oficiais. **16.752 registros de 64 órgãos**, organizados por órgão e espécie.
 
 O objetivo é reunir os precedentes de todo o Brasil. A cobertura ainda é parcial e está [documentada por órgão](COBERTURA.md).
 
@@ -46,7 +46,7 @@ O objetivo é reunir os precedentes de todo o Brasil. A cobertura ainda é parci
 | [TJRN](tribunais/TJRN/) | 11 |
 | [TJRO](tribunais/TJRO/) | 21 |
 | [TJRR](tribunais/TJRR/) | 29 |
-| [TJRS](tribunais/TJRS/) | 47 |
+| [TJRS](tribunais/TJRS/) | 100 |
 | [TJSC](tribunais/TJSC/) | 91 |
 | [TJSE](tribunais/TJSE/) | 22 |
 | [TJSP](tribunais/TJSP/) | 237 |
@@ -90,7 +90,7 @@ Cada registro tem seu próprio arquivo Markdown, com o texto disponível, a ques
 
 ## Fontes e cobertura
 
-As fontes incluem o [Pangea/BNP do CNJ](https://bnp.pdpj.jus.br/), o livro oficial de jurisprudência do TST, a consolidação de súmulas do CARF os dados abertos de precedentes qualificados do STJ o catálogo de súmulas do TCU e o livro oficial de súmulas do TJCE e decisões de incidentes no SJURIS. Cada Markdown identifica sua origem.
+As fontes incluem o [Pangea/BNP do CNJ](https://bnp.pdpj.jus.br/), o livro oficial de jurisprudência do TST, a consolidação de súmulas do CARF os dados abertos de precedentes qualificados do STJ o catálogo de súmulas do TCU e os livros oficiais de súmulas do TJCE, TJSP e TJRS e decisões de incidentes no SJURIS. Cada Markdown identifica sua origem.
 
 O acervo inclui registros cancelados, controvérsias e procedimentos pendentes. Nem todo registro tem tese firmada ou texto disponível. Confira a [cobertura](COBERTURA.md) e a situação atual na fonte oficial.
 

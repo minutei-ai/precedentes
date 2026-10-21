@@ -16,4 +16,6 @@ Em questões previdenciárias, apenas a matéria prevista no artigo 109, §3º, 
 
 - [00617692420148260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0061769-24.2014&foroNumeroUnificado=0000&dePesquisaNuUnificado=0061769-24.2014.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

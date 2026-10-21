@@ -16,4 +16,6 @@ A gratificação por trabalho noturno (LC 506/1987) tem caráter específico.
 
 - [91804369320038260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=9180436-93.2003&foroNumeroUnificado=0000&dePesquisaNuUnificado=9180436-93.2003.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

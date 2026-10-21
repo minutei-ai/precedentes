@@ -16,4 +16,6 @@ Os prazos previstos na lei n° 11.101/2005 são sempre simples, não se aplicand
 
 - [90387588020098260000](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=9038758-80.2009&foroNumeroUnificado=0000&dePesquisaNuUnificado=9038758-80.2009.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

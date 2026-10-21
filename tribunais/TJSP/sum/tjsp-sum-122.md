@@ -16,4 +16,6 @@ A legitimidade ativa para cobrança da contribuição do IAA é da união.
 
 - [90242953620098260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RMZ005ULM0000)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

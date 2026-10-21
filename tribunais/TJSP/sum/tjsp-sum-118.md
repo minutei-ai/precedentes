@@ -16,4 +16,6 @@ A ajuda de custo alimentar do servidor militar da Lei Complementar nº 546/1988 
 
 - [02700072420098260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RMZ01C1LT0000)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

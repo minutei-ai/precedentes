@@ -12,4 +12,6 @@
 
 As infrações administrativas estabelecidas na Lei nº 8.069/90 consumam-se com a mera realização da conduta prevista no tipo legal, independentemente da demonstração concreta de risco ou prejuízo à criança ou ao adolescente.
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

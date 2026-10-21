@@ -16,4 +16,6 @@ Ainda que a avença tenha sido firmada antes da sua vigência, é descabido, nos
 
 - [00002290420098260629](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0000229-04.2009&foroNumeroUnificado=0629&dePesquisaNuUnificado=0000229-04.2009.8.26.0629&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -16,4 +16,6 @@ A gratificação de suporte às atividades escolares (GSAE - LC 872/2000, art. 1
 
 - [00081396120108260269](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI000UHD20000)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

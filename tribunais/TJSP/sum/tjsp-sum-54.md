@@ -16,4 +16,6 @@ O registro do ajuizamento de falência ou de recuperação de empresa no cartór
 
 - [90232076020098260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RMZ00WGO00000)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

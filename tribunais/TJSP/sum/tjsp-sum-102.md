@@ -16,4 +16,12 @@ Havendo expressa indicação médica, é abusiva a negativa de cobertura de cust
 
 - [90901133220098260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RMZ019JKO0000)
 
+## Outra fonte oficial
+
+[TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf)
+
+### Texto
+
+REVOGADA (Sessão administrativa do Órgão Especial de 10/09/2025 - DEJESP de 11/09/2025, p. 21).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

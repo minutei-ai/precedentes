@@ -12,4 +12,6 @@
 
 Na ação de imissão de posse de imóvel arrematado pelo credor hipotecário e novamente alienado, não cabe, por ser matéria estranha ao autor, a discussão sobre a execução extrajudicial e a relação contratual antes existente entre o primitivo adquirente e o credor hipotecário.
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

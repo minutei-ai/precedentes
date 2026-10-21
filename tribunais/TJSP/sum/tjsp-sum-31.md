@@ -12,4 +12,6 @@
 
 As gratificações de caráter genérico, tais como GAP, GTE, GASS, GAM, incorporam-se aos vencimentos, provento e pensões.
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

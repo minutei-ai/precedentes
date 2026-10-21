@@ -16,4 +16,6 @@ No pedido de falência fundado em execução frustrada é irrelevante o valor da
 
 - [00975294920058260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RMZ00LX9L0000)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

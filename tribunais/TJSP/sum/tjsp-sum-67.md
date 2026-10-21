@@ -12,4 +12,12 @@
 
 REVOGADA. (Sessão administrativa do Órgão Especial de 06/11/2013 - DJE de 07/11/2013, p. 23) aparentemente o texto era: "Não se admite denunciação da lide em relação à União tratando-se e ações relacionadas ao fornecimento de medicamentos e insumos de competência da Justiça da Infância e da Juventude".
 
+## Outra fonte oficial
+
+[TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf)
+
+### Texto
+
+REVOGADA. (Sessão administrativa do Órgão Especial de 06/11/2013 - DJE de 07/11/2013, p. 23)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

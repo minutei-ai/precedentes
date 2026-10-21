@@ -16,4 +16,12 @@ Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de c
 
 - [10038263420148260161](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=1003826-34.2014&foroNumeroUnificado=0161&dePesquisaNuUnificado=1003826-34.2014.8.26.0161&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
+## Outra fonte oficial
+
+[TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf)
+
+### Texto
+
+Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento ou, ainda, entraves administrativos. Essas justificativas encerram “res inter alios acta” em relação ao compromissário adquirente.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

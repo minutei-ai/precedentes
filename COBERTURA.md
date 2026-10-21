@@ -1,6 +1,6 @@
 # Cobertura
 
-**16.699 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**16.752 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 22 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,10 +14,12 @@
 | [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
 | [TJCE — Súmulas, edição de 2025](https://portal.tjce.jus.br/uploads/2025/09/SUMULAS-2025.pdf) | 72 | 72 | 0 |
 | [TJCE — SJURIS, decisões de IRDR e IAC (consulta parcial)](https://sjuris.tjce.jus.br/) | 7 | 7 | 0 |
+| [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf) | 165 | 0 | 165 |
+| [TJRS — Súmulas, livro atualizado em 12/08/2020](https://www.tjrs.jus.br/static/2020/08/Sumulas_TJ_atual_12_08_2020.pdf) | 53 | 53 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
-O livro do TST contém sete categorias: súmulas, orientações jurisprudenciais da SBDI-I, da SBDI-I transitória, da SBDI-II, da SDC e do Tribunal Pleno/Órgão Especial, além de precedentes normativos. A numeração foi conferida dentro de cada categoria. No CARF, a consolidação foi conferida do primeiro ao último número publicado. No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os números 199, 256 e 282 têm registros repetidos ou redações históricas, preservados separadamente no mesmo Markdown. A situação de cada versão é a informada pela fonte. O livro de súmulas do TJCE, edição de 2025, contém 72 verbetes consecutivos; mantemos as referências e observações de cada verbete. A edição não comprova que todas as súmulas posteriores já estejam incluídas.
+O livro do TST contém sete categorias: súmulas, orientações jurisprudenciais da SBDI-I, da SBDI-I transitória, da SBDI-II, da SDC e do Tribunal Pleno/Órgão Especial, além de precedentes normativos. A numeração foi conferida dentro de cada categoria. No CARF, a consolidação foi conferida do primeiro ao último número publicado. No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os números 199, 256 e 282 têm registros repetidos ou redações históricas, preservados separadamente no mesmo Markdown. A situação de cada versão é a informada pela fonte. O livro de súmulas do TJCE, edição de 2025, contém 72 verbetes consecutivos; mantemos as referências e observações de cada verbete. A edição não comprova que todas as súmulas posteriores já estejam incluídas. O TJSP foi conciliado com os 165 verbetes do livro atualizado em 16/09/2025. O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
@@ -59,7 +61,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJPI](tribunais/TJPI/) | 25 | 25 | 25 |
 | [TJRJ](tribunais/TJRJ/) | 90 | 90 | 90 |
 | [TJRN](tribunais/TJRN/) | 11 | 11 | 11 |
-| [TJRS](tribunais/TJRS/) | 47 | 47 | 47 |
+| [TJRS](tribunais/TJRS/) | 100 | 47 | 47 |
 | [TJRO](tribunais/TJRO/) | 21 | 21 | 21 |
 | [TJRR](tribunais/TJRR/) | 29 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 91 | 91 | 91 |
@@ -130,5 +132,7 @@ Conferimos identificadores únicos, numeração, limites dos catálogos, pagina�
 Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisamos conciliar cada tribunal com seu portal oficial, ampliar as fontes administrativas e coletar categorias que o BNP não expõe, incluindo súmulas eleitorais.
 
 A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de IAC, agrupados em sete incidentes por número de processo e conferidos com os processos do BNP para evitar duplicatas. Os textos são apresentados como decisões, sem inferir tese firmada ou vigência. O inventário de classes indica também documentos históricos que a consulta ao SAJ não retornou; a conciliação com o e-SAJ e o acervo histórico do SJURIS continua pendente. Uma consulta vazia não foi tratada como inexistência de outros incidentes.
+
+As súmulas do TJRJ e do TJSC ainda não foram incorporadas: seus catálogos diretos não foram validados nesta coleta. Isso não significa que esses tribunais não tenham súmulas.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.

@@ -12,4 +12,6 @@
 
 Inadmissível denunciação da lide ou chamamento ao processo na ação que visa ao fornecimento de medicamentos ou insumos.
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

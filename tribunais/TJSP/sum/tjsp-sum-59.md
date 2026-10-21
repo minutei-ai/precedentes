@@ -16,4 +16,6 @@ Classificados como bens móveis, para os efeitos legais, os direitos de crédito
 
 - [02759459720098260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RMZ01AEQM0000)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

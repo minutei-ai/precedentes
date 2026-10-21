@@ -12,4 +12,6 @@
 
 Reconhecido que o compromissário comprador tem direito à devolução das parcelas pagas por conta do preço, as partes deverão ser repostas ao estado anterior, independentemente de reconvenção.
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

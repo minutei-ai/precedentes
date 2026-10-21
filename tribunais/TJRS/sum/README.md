@@ -1,0 +1,57 @@
+# TJRS · Súmula
+
+**53 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tjrs-sum-1.md) — Situação não informada
+- [SUM 2](tjrs-sum-2.md) — Situação não informada
+- [SUM 3](tjrs-sum-3.md) — Situação não informada
+- [SUM 4](tjrs-sum-4.md) — Situação não informada
+- [SUM 5](tjrs-sum-5.md) — Situação não informada
+- [SUM 6](tjrs-sum-6.md) — Situação não informada
+- [SUM 7](tjrs-sum-7.md) — Situação não informada
+- [SUM 8](tjrs-sum-8.md) — Situação não informada
+- [SUM 9](tjrs-sum-9.md) — Situação não informada
+- [SUM 10](tjrs-sum-10.md) — Situação não informada
+- [SUM 11](tjrs-sum-11.md) — Situação não informada
+- [SUM 12](tjrs-sum-12.md) — Situação não informada
+- [SUM 13](tjrs-sum-13.md) — Situação não informada
+- [SUM 14](tjrs-sum-14.md) — Situação não informada
+- [SUM 15](tjrs-sum-15.md) — Situação não informada
+- [SUM 16](tjrs-sum-16.md) — Situação não informada
+- [SUM 17](tjrs-sum-17.md) — Situação não informada
+- [SUM 18](tjrs-sum-18.md) — Situação não informada
+- [SUM 19](tjrs-sum-19.md) — Situação não informada
+- [SUM 20](tjrs-sum-20.md) — Situação não informada
+- [SUM 21](tjrs-sum-21.md) — Situação não informada
+- [SUM 22](tjrs-sum-22.md) — Situação não informada
+- [SUM 23](tjrs-sum-23.md) — Situação não informada
+- [SUM 24](tjrs-sum-24.md) — Situação não informada
+- [SUM 25](tjrs-sum-25.md) — Situação não informada
+- [SUM 26](tjrs-sum-26.md) — Situação não informada
+- [SUM 27](tjrs-sum-27.md) — Situação não informada
+- [SUM 28](tjrs-sum-28.md) — Situação não informada
+- [SUM 29](tjrs-sum-29.md) — Situação não informada
+- [SUM 30](tjrs-sum-30.md) — Situação não informada
+- [SUM 31](tjrs-sum-31.md) — Situação não informada
+- [SUM 32](tjrs-sum-32.md) — Situação não informada
+- [SUM 33](tjrs-sum-33.md) — Situação não informada
+- [SUM 34](tjrs-sum-34.md) — Situação não informada
+- [SUM 35](tjrs-sum-35.md) — Situação não informada
+- [SUM 36](tjrs-sum-36.md) — Situação não informada
+- [SUM 37](tjrs-sum-37.md) — Situação não informada
+- [SUM 38](tjrs-sum-38.md) — Situação não informada
+- [SUM 39](tjrs-sum-39.md) — Situação não informada
+- [SUM 40](tjrs-sum-40.md) — Situação não informada
+- [SUM 41](tjrs-sum-41.md) — Situação não informada
+- [SUM 42](tjrs-sum-42.md) — Situação não informada
+- [SUM 43](tjrs-sum-43.md) — Situação não informada
+- [SUM 44](tjrs-sum-44.md) — Situação não informada
+- [SUM 45](tjrs-sum-45.md) — Situação não informada
+- [SUM 46](tjrs-sum-46.md) — Situação não informada
+- [SUM 47](tjrs-sum-47.md) — Situação não informada
+- [SUM 48](tjrs-sum-48.md) — Situação não informada
+- [SUM 49](tjrs-sum-49.md) — Situação não informada
+- [SUM 50](tjrs-sum-50.md) — Situação não informada
+- [SUM 51](tjrs-sum-51.md) — Situação não informada
+- [SUM 52](tjrs-sum-52.md) — Situação não informada
+- [SUM 53](tjrs-sum-53.md) — Situação não informada

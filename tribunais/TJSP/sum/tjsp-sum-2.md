@@ -12,4 +12,6 @@
 
 A devolução das quantias pagas em contrato de compromisso de compra e venda de imóvel deve ser feita de uma só vez, não se sujeitando à forma de parcelamento prevista para a aquisição.
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -16,4 +16,12 @@
 
 - [40047532720138260114](https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=4004753-27.2013&foroNumeroUnificado=0114&dePesquisaNuUnificado=4004753-27.2013.8.26.0114&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO)
 
+## Outra fonte oficial
+
+[TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf)
+
+### Texto
+
+É incabível a condenação da vendedora ao pagamento de multa ajustada apenas para a hipótese de mora do comprador, afastando-se a aplicação da penalidade por equidade, ainda que descumprido o prazo para a entrega do imóvel objeto do compromisso de venda e compra. Incidência do disposto no artigo 411, do Código Civil.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -16,4 +16,6 @@ A gratificação por trabalho no curso noturno (LC 444/1985) tem caráter espec�
 
 - [00022869120098260306](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI000IP8C0000)
 
+Fonte adicional: [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf).
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
