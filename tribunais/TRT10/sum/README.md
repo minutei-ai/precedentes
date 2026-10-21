@@ -1,0 +1,86 @@
+# TRT10 · Verbete do Tribunal Pleno (Súmula Regional)
+
+**82 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt10-sum-1.md) — Cancelado
+- [SUM 2](trt10-sum-2.md) — Ativo
+- [SUM 3](trt10-sum-3.md) — Cancelado
+- [SUM 4](trt10-sum-4.md) — Ativo
+- [SUM 5](trt10-sum-5.md) — Cancelado
+- [SUM 6](trt10-sum-6.md) — Ativo
+- [SUM 7](trt10-sum-7.md) — Ativo
+- [SUM 8](trt10-sum-8.md) — Ativo
+- [SUM 9](trt10-sum-9.md) — Cancelado
+- [SUM 10](trt10-sum-10.md) — Ativo
+- [SUM 11](trt10-sum-11.md) — Ativo
+- [SUM 12](trt10-sum-12.md) — Ativo
+- [SUM 13](trt10-sum-13.md) — Nova Redação
+- [SUM 14](trt10-sum-14.md) — Ativo
+- [SUM 15](trt10-sum-15.md) — Ativo
+- [SUM 16](trt10-sum-16.md) — Ativo
+- [SUM 17](trt10-sum-17.md) — Cancelado
+- [SUM 18](trt10-sum-18.md) — Ativo
+- [SUM 19](trt10-sum-19.md) — Ativo
+- [SUM 20](trt10-sum-20.md) — Nova Redação
+- [SUM 21](trt10-sum-21.md) — Ativo
+- [SUM 22](trt10-sum-22.md) — Ativo
+- [SUM 23](trt10-sum-23.md) — Ativo
+- [SUM 24](trt10-sum-24.md) — Ativo
+- [SUM 25](trt10-sum-25.md) — Ativo
+- [SUM 26](trt10-sum-26.md) — Ativo
+- [SUM 27](trt10-sum-27.md) — Ativo
+- [SUM 28](trt10-sum-28.md) — Ativo
+- [SUM 29](trt10-sum-29.md) — Ativo
+- [SUM 30](trt10-sum-30.md) — Cancelado
+- [SUM 31](trt10-sum-31.md) — Ativo
+- [SUM 32](trt10-sum-32.md) — Ativo
+- [SUM 33](trt10-sum-33.md) — Ativo
+- [SUM 34](trt10-sum-34.md) — Cancelado
+- [SUM 35](trt10-sum-35.md) — Ativo
+- [SUM 36](trt10-sum-36.md) — Nova Redação
+- [SUM 37](trt10-sum-37.md) — Nova Redação
+- [SUM 38](trt10-sum-38.md) — Ativo
+- [SUM 39](trt10-sum-39.md) — Ativo
+- [SUM 40](trt10-sum-40.md) — Ativo
+- [SUM 41](trt10-sum-41.md) — Ativo
+- [SUM 42](trt10-sum-42.md) — Ativo
+- [SUM 43](trt10-sum-43.md) — Ativo
+- [SUM 44](trt10-sum-44.md) — Cancelado
+- [SUM 45](trt10-sum-45.md) — Cancelado
+- [SUM 46](trt10-sum-46.md) — Ativo
+- [SUM 47](trt10-sum-47.md) — Cancelado
+- [SUM 48](trt10-sum-48.md) — Ativo
+- [SUM 49](trt10-sum-49.md) — Ativo
+- [SUM 50](trt10-sum-50.md) — Ativo
+- [SUM 51](trt10-sum-51.md) — Ativo
+- [SUM 52](trt10-sum-52.md) — Ativo
+- [SUM 53](trt10-sum-53.md) — Ativo
+- [SUM 54](trt10-sum-54.md) — Ativo
+- [SUM 55](trt10-sum-55.md) — Ativo
+- [SUM 56](trt10-sum-56.md) — Ativo
+- [SUM 57](trt10-sum-57.md) — Ativo
+- [SUM 58](trt10-sum-58.md) — Ativo
+- [SUM 59](trt10-sum-59.md) — Ativo
+- [SUM 60](trt10-sum-60.md) — Ativo
+- [SUM 61](trt10-sum-61.md) — Nova Redação
+- [SUM 62](trt10-sum-62.md) — Ativo
+- [SUM 63](trt10-sum-63.md) — Ativo
+- [SUM 64](trt10-sum-64.md) — Ativo
+- [SUM 65](trt10-sum-65.md) — Ativo
+- [SUM 66](trt10-sum-66.md) — Cancelado
+- [SUM 67](trt10-sum-67.md) — Ativo
+- [SUM 68](trt10-sum-68.md) — Ativo
+- [SUM 69](trt10-sum-69.md) — Ativo
+- [SUM 70](trt10-sum-70.md) — Ativo
+- [SUM 71](trt10-sum-71.md) — Ativo
+- [SUM 72](trt10-sum-72.md) — Ativo
+- [SUM 73](trt10-sum-73.md) — Ativo
+- [SUM 74](trt10-sum-74.md) — Ativo
+- [SUM 75](trt10-sum-75.md) — Ativo
+- [SUM 76](trt10-sum-76.md) — Ativo
+- [SUM 77](trt10-sum-77.md) — Ativo
+- [SUM 78](trt10-sum-78.md) — Ativo
+- [SUM 79](trt10-sum-79.md) — Ativo
+- [SUM 80](trt10-sum-80.md) — Ativo
+- [SUM 81](trt10-sum-81.md) — Ativo
+- [SUM 82](trt10-sum-82.md) — Ativo

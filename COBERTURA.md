@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.064 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.223 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -42,6 +42,9 @@
 | [TRT da 6ª Região — Súmulas do tribunal](https://www.trt6.jus.br/portal/jurisprudencia/sumulas-trt6) | 44 | 44 | 0 |
 | [TRT da 11ª Região — Súmulas e súmula transitória, página histórica](https://portal.trt11.jus.br/index.php/home/composicao/varas-do-trabalho/vtinterior/11-servicos/15-sumulas) | 29 | 29 | 0 |
 | [TRT da 12ª Região — Súmulas do TRT-SC](https://portal.trt12.jus.br/uniformiza%C3%A7%C3%A3odejurisprud%C3%AAncias%C3%BAmulastrtsc) | 136 | 136 | 0 |
+| [TRT da 8ª Região — Súmulas judiciais](https://www.trt8.jus.br/jurisprudencia/sumulas) | 67 | 67 | 0 |
+| [TRT da 8ª Região — Súmulas Administrativas](https://www.trt8.jus.br/juridico/sumulas-administrativas) | 10 | 10 | 0 |
+| [TRT da 10ª Região — Verbetes do Tribunal Pleno (Súmulas Regionais)](https://pje.trt10.jus.br/suj/jsf/publico/verbetes.jsf) | 82 | 82 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -69,7 +72,11 @@ O TRT da 3ª Região inclui 73 súmulas, 23 teses jurídicas prevalecentes e 46 
 
 O catálogo de súmulas do TRT da 6ª Região contém 44 números e informa atualização em 25/03/2026. Os números 10 e 15 aparecem com duas redações no próprio catálogo; ambas ficam no mesmo Markdown, com os avisos de alteração. Foram preservados também cancelamentos, revogações e links para normas e processos.
 
+O TRT da 8ª Região inclui 67 súmulas judiciais e dez administrativas, em séries próprias. A lista expandida das súmulas judiciais foi comparada com o catálogo; ambas apresentaram o mesmo texto. A administrativa nº 4 foi publicada apenas com aviso de exclusão: o aviso fica nas informações do catálogo, sem tese atribuída ao registro. Fontes, pareceres, referências e dados de publicação foram preservados conforme a página oficial.
+
 Os livros eletrônicos do TRT da 9ª Região trouxeram 102 súmulas, 16 teses jurídicas prevalecentes e 49 orientações jurisprudenciais da Seção Especializada, obtidos pelo formulário do próprio portal. O conteúdo inclui alterações de 2026, como o cancelamento da Súmula 3, com a redação cancelada e seu histórico preservados. As orientações têm duas numerações independentes: 48 de execução (OJ-EX-SE) e uma de dissídios coletivos (OJ-DC-SE). Cada arquivo mantém os itens internos, suas redações e referências; a orientação nº 1 de cada série tem identidade própria. Esses livros não representam todas as categorias de precedentes do TRT9.
+
+O TRT da 10ª Região inclui os 82 verbetes do Tribunal Pleno (súmulas regionais), conferidos nas cinco páginas do catálogo atual. A situação é a informada pelo tribunal: 66 ativos, 11 cancelados e cinco com nova redação. O acervo mantém os títulos, as teses apresentadas e as informações de publicação. As orientações das Seções Especializadas e das Turmas e os documentos de P.A. disponíveis por comandos do portal ainda precisam de conciliação própria.
 
 O TRT da 11ª Região inclui 28 súmulas e uma súmula transitória, em série própria, da página histórica ainda acessível no portal, com referências de edição até 2018 e links para os precedentes. A Biblioteca Digital indicada pelo menu atual retornou bloqueio na consulta direta e não produziu captura validada pelo coletor nativo. Essa biblioteca ainda precisa ser conciliada; esses 29 verbetes não comprovam atualização ou cobertura integral do TRT11.
 
@@ -131,9 +138,9 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT05](tribunais/TRT05/) | 49 | 49 | 49 |
 | [TRT06](tribunais/TRT06/) | 80 | 36 | 36 |
 | [TRT07](tribunais/TRT07/) | 47 | 47 | 47 |
-| [TRT08](tribunais/TRT08/) | 66 | 66 | 66 |
+| [TRT08](tribunais/TRT08/) | 143 | 66 | 66 |
 | [TRT09](tribunais/TRT09/) | 232 | 65 | 65 |
-| [TRT10](tribunais/TRT10/) | 21 | 21 | 21 |
+| [TRT10](tribunais/TRT10/) | 103 | 21 | 21 |
 | [TRT11](tribunais/TRT11/) | 61 | 32 | 32 |
 | [TRT12](tribunais/TRT12/) | 182 | 46 | 46 |
 | [TRT13](tribunais/TRT13/) | 63 | 63 | 63 |
@@ -196,6 +203,8 @@ Conferimos identificadores únicos, numeração, limites dos catálogos, pagina�
 Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisamos conciliar cada tribunal com seu portal oficial, ampliar as fontes administrativas e coletar categorias que o BNP não expõe, incluindo súmulas eleitorais.
 
 A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de IAC, agrupados em sete incidentes por número de processo e conferidos com os processos do BNP para evitar duplicatas. Os textos são apresentados como decisões, sem inferir tese firmada ou vigência. O inventário de classes indica também documentos históricos que a consulta ao SAJ não retornou; a conciliação com o e-SAJ e o acervo histórico do SJURIS continua pendente. Uma consulta vazia não foi tratada como inexistência de outros incidentes.
+
+Os catálogos do TRT5 e TRT7 ainda não foram conciliados. As consultas diretas retornaram bloqueio; no coletor nativo, o TRT7 respondeu HTTP 403 e a página do TRT5 encontrou uma funcionalidade de imagens não suportada. Essas falhas não foram tratadas como catálogos vazios.
 
 A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta direta retornou bloqueio e a página de pesquisa excedeu o limite de estilos do coletor nativo. As fontes regionais incorporadas estão discriminadas acima; o bloqueio não foi tratado como catálogo vazio.
 
