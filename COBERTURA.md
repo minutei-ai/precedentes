@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.305 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.337 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -50,6 +50,8 @@
 | [TRT da 14ª Região — Teses fixadas em IRDR e IAC](https://portal.trt14.jus.br/portal/index.php/teses-fixadas-irdr-iac) | 8 | 0 | 8 |
 | [TRT da 16ª Região — Súmulas, com cancelamento de junho de 2024](https://www.trt16.jus.br/sites/portal/files/roles/jurisprudencia/S%C3%BAmulas%20do%20TRT16.pdf) | 4 | 4 | 0 |
 | [TRT da 18ª Região — Súmulas do tribunal](https://www.trt18.jus.br/portal/jurisprudencia/sumula-trt18/) | 69 | 67 | 2 |
+| [TRT da 19ª Região — Súmulas 1 a 7, redação original da RA 51/2015](https://asp1.trt19.jus.br/docspdf/rhdocs/051-RA.S%C3%9AMULAS.pdf) | 7 | 7 | 0 |
+| [TRT da 20ª Região — Catálogo de súmulas (inteiro teor não validado)](https://www.trt20.jus.br/jurisprudencia/sumulas-do-trt-20-regiao.html) | 25 | 25 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -96,6 +98,10 @@ O livro de súmulas do TRT da 16ª Região, vinculado pelo portal oficial, cont�
 O TRT da 15ª Região inclui 146 números de súmula. A edição com processos referenciados, de 25/09/2026, é a fonte principal; em 25 números ela informa apenas o cancelamento. A versão completa de 15/06/2026 preserva as redações históricas desses números e aparece como outra fonte oficial no mesmo Markdown. Texto histórico não implica vigência.
 
 O catálogo do TRT da 18ª Região trouxe 69 súmulas consecutivas: 67 novas no acervo e duas já representadas no BNP como súmulas vinculantes (números 21 e 66). A correspondência foi conferida pelo órgão, número e texto integral do BNP contido no catálogo; preservamos os identificadores existentes e atribuímos separadamente a descrição do tribunal. Foram mantidos todos os textos, as referências, os links e as redações riscadas. Os avisos de cancelamento incluem a Súmula 14 pela RA nº 82/2025 e a Súmula 66 pela RA nº 81/2025, ambas com publicação indicada em 01/07/2025. Os limites de cada verbete foram conferidos mesmo nos trechos com marcação HTML aninhada; a página não comprova cobertura de todas as categorias de precedentes do tribunal.
+
+O TRT da 19ª Região inclui as redações originais das súmulas 1 a 7 instituídas pela Resolução nº 51, de 29/07/2015, com os precedentes e dados de publicação preservados. O catálogo atual de súmulas respondeu HTTP 503 nas tentativas diretas e no coletor nativo; sua conciliação continua pendente. A resolução histórica não comprova a vigência atual nem a cobertura das súmulas posteriores.
+
+O TRT da 20ª Região inclui 25 entradas do catálogo oficial, com descrições e links preservados, incluindo o aviso de cancelamento da nº 10 pela RA nº 25/2017. Os links do catálogo para o inteiro teor retornaram HTTP 404; a consulta pela rota com extensão devolveu apenas o catálogo. Não atribuímos tese integral a essas entradas: a coleta do texto completo permanece pendente. Os inventários do BNP desses dois tribunais não contêm registros de súmula ou súmula vinculante; os 32 identificadores não duplicam essas espécies no BNP.
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
@@ -162,8 +168,8 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT16](tribunais/TRT16/) | 22 | 18 | 18 |
 | [TRT17](tribunais/TRT17/) | 40 | 40 | 40 |
 | [TRT18](tribunais/TRT18/) | 140 | 73 | 73 |
-| [TRT19](tribunais/TRT19/) | 37 | 37 | 37 |
-| [TRT20](tribunais/TRT20/) | 34 | 34 | 34 |
+| [TRT19](tribunais/TRT19/) | 44 | 37 | 37 |
+| [TRT20](tribunais/TRT20/) | 59 | 34 | 34 |
 | [TRT21](tribunais/TRT21/) | 27 | 27 | 27 |
 | [TRT22](tribunais/TRT22/) | 39 | 39 | 39 |
 | [TRT23](tribunais/TRT23/) | 21 | 21 | 21 |
