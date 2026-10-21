@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.560 registros únicos de 77 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.562 registros únicos de 78 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -114,6 +114,7 @@
 | [TRE-MT — Enunciado de súmula e referências oficiais](https://www.tre-mt.jus.br/jurisprudencia/sumulas) | 1 | 1 | 0 |
 | [TRE-RJ — Súmulas do catálogo regional](https://www.tre-rj.jus.br/jurisprudencia/sumulas/sumulas-do-tre-rj) | 27 | 27 | 0 |
 | [TRE-RS — Consulta conhecida de 2023 com acórdão completo](https://www.tre-rs.jus.br/jurisprudencia/consultas-julgadas-pelo-pleno-do-tre-rs/consultas-2023/consultas-conhecidas-elegibilidade-de-parente-ate-2o-de-prefeito-reeleito) | 1 | 1 | 0 |
+| [TRE-AC — Súmulas e PDFs individuais oficiais](https://www.tre-ac.jus.br/jurisprudencia/sumula) | 2 | 2 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -134,6 +135,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O [TRE-SP informa expressamente que não possui súmulas](https://www.tre-sp.jus.br/jurisprudencia/pesquisa-de-jurisprudencia/sumulas-do-tre-sp). A página foi consultada e capturada em 21/10/2026 pelo navegador integrado após HTTP 403 nos acessos direto e nativo. Essa informação se limita a súmulas: as demais categorias de precedentes do TRE-SP permanecem pendentes.
+
+O TRE-AC acrescenta as duas súmulas do catálogo regional, conciliadas com os dois PDFs individuais vinculados, de uma página cada. Os enunciados coincidem entre página e documentos, desconsideradas apenas diferenças de espaços e quebras de linha. Foram preservados a numeração 01 e 02, os textos completos dos PDFs, as referências ao Acórdão nº 6.764, de 9.8.2023, e à Instrução nº 0600125-14.2022.6.01.0000, os signatários e a publicação no DJE nº 143, de 14.9.2023. A construção “quando atendidas pela agremiação os pressupostos previstos” da nº 01 foi mantida sem correção presumida.
+
+O catálogo do TRE-AC foi relido após a coleta dos PDFs e permaneceu estável. A captura usou o navegador integrado após HTTP 403 nas consultas direta e nativa ao portal. Não foi inferida vigência atual. O acórdão e os demais atos citados, assim como as outras categorias de precedentes do TRE-AC, permanecem pendentes.
 
 O TRE-PR permanece pendente. A [página oficial de jurisprudência](https://www.tre-pr.jus.br/jurisprudencia), consultada em 21/10/2026, apresenta pesquisa, acórdãos, decisões monocráticas, informativos e temas selecionados, sem catálogo de súmulas regionais na página. A ausência nessa navegação não comprova inexistência de súmulas ou de outros precedentes. A página foi capturada pelo navegador integrado após HTTP 403 nos acessos direto e nativo.
 
@@ -376,7 +383,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT22](tribunais/TRT22/) | 39 | 39 | 39 |
 | [TRT23](tribunais/TRT23/) | 21 | 21 | 21 |
 | [TRT24](tribunais/TRT24/) | 99 | 61 | 61 |
-| TRE_AC | 0 | 0 | 0 |
+| [TRE_AC](tribunais/TRE_AC/) | 2 | 0 | 0 |
 | TRE_AL | 0 | 0 | 0 |
 | TRE_AP | 0 | 0 | 0 |
 | TRE_AM | 0 | 0 | 0 |
