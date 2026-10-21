@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.195 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.284 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -98,6 +98,7 @@
 | [TJPB — Compilação de 54 súmulas e catálogo oficial](https://www.tjpb.jus.br/documents/d/guest/enunciados-1) | 54 | 54 | 0 |
 | [TJES — Planilha oficial de súmulas, referências e anotações](https://www.tjes.jus.br/wp-content/uploads/Planilha_Sumulas.pdf) | 23 | 0 | 23 |
 | [TJPR — Enunciados das Turmas Recursais e de Uniformização](https://www.tjpr.jus.br/enunciados-turmas-recursais) | 66 | 66 | 0 |
+| [TJSC — Enunciados da Turma de Uniformização dos Juizados Especiais](https://www.tjsc.jus.br/web/jurisprudencia/turma-de-uniformizacao-dos-juizados-especiais) | 89 | 89 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -118,6 +119,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O catálogo da Turma de Uniformização dos Juizados Especiais do TJSC acrescenta 89 enunciados em série própria (EN-TUJ), sem duplicar as súmulas gerais e os incidentes do BNP. A página vai do número 1 ao 90, sem entrada para o nº 55; a lacuna foi preservada e não permite inferir texto ou situação para esse número. Foram mantidos todos os parágrafos e referências, os avisos de revogação dos nºs 2 e 46, o cancelamento do nº 30 e a indicação de nova redação do nº 25. Os textos riscados dos nºs 30 e 46 permanecem como históricos. As últimas entradas incluem referências a sessões de setembro de 2026.
+
+O conteúdo jurídico integral foi comparado entre a captura inicial e a releitura do catálogo. Não inferimos vigência atual para os demais textos a partir de sua presença na página. Os processos e atos citados não foram coletados neste lote; a cobertura dos demais catálogos catarinenses permanece aberta.
 
 O catálogo de enunciados das Turmas Recursais do TJPR acrescenta 66 registros em cinco séries independentes: 13 da Primeira Turma Recursal (EN-1TR), 23 da Terceira (EN-3TR), 16 da Quarta (EN-4TR), 12 da Turma Recursal Plena (EN-TR-PLENA) e dois da Turma de Uniformização (EN-TUJ). A Terceira Turma mantém sua numeração decimal, distribuída em quatro grupos temáticos. Enunciados de órgãos distintos não foram agrupados apenas por compartilharem número ou texto. Nenhuma dessas séries duplica as súmulas e os incidentes do TJPR já presentes no BNP.
 
@@ -276,7 +281,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRS](tribunais/TJRS/) | 292 | 47 | 47 |
 | [TJRO](tribunais/TJRO/) | 30 | 21 | 21 |
 | [TJRR](tribunais/TJRR/) | 51 | 29 | 29 |
-| [TJSC](tribunais/TJSC/) | 159 | 91 | 91 |
+| [TJSC](tribunais/TJSC/) | 248 | 91 | 91 |
 | [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
 | [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |

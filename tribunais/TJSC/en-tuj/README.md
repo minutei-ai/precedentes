@@ -1,0 +1,93 @@
+# TJSC · Enunciado da Turma de Uniformização dos Juizados Especiais
+
+**89 registros.** [Voltar ao tribunal](../)
+
+- [EN-TUJ 1](tjsc-en-tuj-1.md) — Situação não informada
+- [EN-TUJ 2](tjsc-en-tuj-2.md) — Revogado
+- [EN-TUJ 3](tjsc-en-tuj-3.md) — Situação não informada
+- [EN-TUJ 4](tjsc-en-tuj-4.md) — Situação não informada
+- [EN-TUJ 5](tjsc-en-tuj-5.md) — Situação não informada
+- [EN-TUJ 6](tjsc-en-tuj-6.md) — Situação não informada
+- [EN-TUJ 7](tjsc-en-tuj-7.md) — Situação não informada
+- [EN-TUJ 8](tjsc-en-tuj-8.md) — Situação não informada
+- [EN-TUJ 9](tjsc-en-tuj-9.md) — Situação não informada
+- [EN-TUJ 10](tjsc-en-tuj-10.md) — Situação não informada
+- [EN-TUJ 11](tjsc-en-tuj-11.md) — Situação não informada
+- [EN-TUJ 12](tjsc-en-tuj-12.md) — Situação não informada
+- [EN-TUJ 13](tjsc-en-tuj-13.md) — Situação não informada
+- [EN-TUJ 14](tjsc-en-tuj-14.md) — Situação não informada
+- [EN-TUJ 15](tjsc-en-tuj-15.md) — Situação não informada
+- [EN-TUJ 16](tjsc-en-tuj-16.md) — Situação não informada
+- [EN-TUJ 17](tjsc-en-tuj-17.md) — Situação não informada
+- [EN-TUJ 18](tjsc-en-tuj-18.md) — Situação não informada
+- [EN-TUJ 19](tjsc-en-tuj-19.md) — Situação não informada
+- [EN-TUJ 20](tjsc-en-tuj-20.md) — Situação não informada
+- [EN-TUJ 21](tjsc-en-tuj-21.md) — Situação não informada
+- [EN-TUJ 22](tjsc-en-tuj-22.md) — Situação não informada
+- [EN-TUJ 23](tjsc-en-tuj-23.md) — Situação não informada
+- [EN-TUJ 24](tjsc-en-tuj-24.md) — Situação não informada
+- [EN-TUJ 25](tjsc-en-tuj-25.md) — Nova redação
+- [EN-TUJ 26](tjsc-en-tuj-26.md) — Situação não informada
+- [EN-TUJ 27](tjsc-en-tuj-27.md) — Situação não informada
+- [EN-TUJ 28](tjsc-en-tuj-28.md) — Situação não informada
+- [EN-TUJ 29](tjsc-en-tuj-29.md) — Situação não informada
+- [EN-TUJ 30](tjsc-en-tuj-30.md) — Cancelado
+- [EN-TUJ 31](tjsc-en-tuj-31.md) — Situação não informada
+- [EN-TUJ 32](tjsc-en-tuj-32.md) — Situação não informada
+- [EN-TUJ 33](tjsc-en-tuj-33.md) — Situação não informada
+- [EN-TUJ 34](tjsc-en-tuj-34.md) — Situação não informada
+- [EN-TUJ 35](tjsc-en-tuj-35.md) — Situação não informada
+- [EN-TUJ 36](tjsc-en-tuj-36.md) — Situação não informada
+- [EN-TUJ 37](tjsc-en-tuj-37.md) — Situação não informada
+- [EN-TUJ 38](tjsc-en-tuj-38.md) — Situação não informada
+- [EN-TUJ 39](tjsc-en-tuj-39.md) — Situação não informada
+- [EN-TUJ 40](tjsc-en-tuj-40.md) — Situação não informada
+- [EN-TUJ 41](tjsc-en-tuj-41.md) — Situação não informada
+- [EN-TUJ 42](tjsc-en-tuj-42.md) — Situação não informada
+- [EN-TUJ 43](tjsc-en-tuj-43.md) — Situação não informada
+- [EN-TUJ 44](tjsc-en-tuj-44.md) — Situação não informada
+- [EN-TUJ 45](tjsc-en-tuj-45.md) — Situação não informada
+- [EN-TUJ 46](tjsc-en-tuj-46.md) — Revogado
+- [EN-TUJ 47](tjsc-en-tuj-47.md) — Situação não informada
+- [EN-TUJ 48](tjsc-en-tuj-48.md) — Situação não informada
+- [EN-TUJ 49](tjsc-en-tuj-49.md) — Situação não informada
+- [EN-TUJ 50](tjsc-en-tuj-50.md) — Situação não informada
+- [EN-TUJ 51](tjsc-en-tuj-51.md) — Situação não informada
+- [EN-TUJ 52](tjsc-en-tuj-52.md) — Situação não informada
+- [EN-TUJ 53](tjsc-en-tuj-53.md) — Situação não informada
+- [EN-TUJ 54](tjsc-en-tuj-54.md) — Situação não informada
+- [EN-TUJ 56](tjsc-en-tuj-56.md) — Situação não informada
+- [EN-TUJ 57](tjsc-en-tuj-57.md) — Situação não informada
+- [EN-TUJ 58](tjsc-en-tuj-58.md) — Situação não informada
+- [EN-TUJ 59](tjsc-en-tuj-59.md) — Situação não informada
+- [EN-TUJ 60](tjsc-en-tuj-60.md) — Situação não informada
+- [EN-TUJ 61](tjsc-en-tuj-61.md) — Situação não informada
+- [EN-TUJ 62](tjsc-en-tuj-62.md) — Situação não informada
+- [EN-TUJ 63](tjsc-en-tuj-63.md) — Situação não informada
+- [EN-TUJ 64](tjsc-en-tuj-64.md) — Situação não informada
+- [EN-TUJ 65](tjsc-en-tuj-65.md) — Situação não informada
+- [EN-TUJ 66](tjsc-en-tuj-66.md) — Situação não informada
+- [EN-TUJ 67](tjsc-en-tuj-67.md) — Situação não informada
+- [EN-TUJ 68](tjsc-en-tuj-68.md) — Situação não informada
+- [EN-TUJ 69](tjsc-en-tuj-69.md) — Situação não informada
+- [EN-TUJ 70](tjsc-en-tuj-70.md) — Situação não informada
+- [EN-TUJ 71](tjsc-en-tuj-71.md) — Situação não informada
+- [EN-TUJ 72](tjsc-en-tuj-72.md) — Situação não informada
+- [EN-TUJ 73](tjsc-en-tuj-73.md) — Situação não informada
+- [EN-TUJ 74](tjsc-en-tuj-74.md) — Situação não informada
+- [EN-TUJ 75](tjsc-en-tuj-75.md) — Situação não informada
+- [EN-TUJ 76](tjsc-en-tuj-76.md) — Situação não informada
+- [EN-TUJ 77](tjsc-en-tuj-77.md) — Situação não informada
+- [EN-TUJ 78](tjsc-en-tuj-78.md) — Situação não informada
+- [EN-TUJ 79](tjsc-en-tuj-79.md) — Situação não informada
+- [EN-TUJ 80](tjsc-en-tuj-80.md) — Situação não informada
+- [EN-TUJ 81](tjsc-en-tuj-81.md) — Situação não informada
+- [EN-TUJ 82](tjsc-en-tuj-82.md) — Situação não informada
+- [EN-TUJ 83](tjsc-en-tuj-83.md) — Situação não informada
+- [EN-TUJ 84](tjsc-en-tuj-84.md) — Situação não informada
+- [EN-TUJ 85](tjsc-en-tuj-85.md) — Situação não informada
+- [EN-TUJ 86](tjsc-en-tuj-86.md) — Situação não informada
+- [EN-TUJ 87](tjsc-en-tuj-87.md) — Situação não informada
+- [EN-TUJ 88](tjsc-en-tuj-88.md) — Situação não informada
+- [EN-TUJ 89](tjsc-en-tuj-89.md) — Situação não informada
+- [EN-TUJ 90](tjsc-en-tuj-90.md) — Situação não informada
