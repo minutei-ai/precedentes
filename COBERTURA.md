@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.917 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.995 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -74,6 +74,8 @@
 | [TJRS — Enunciados de Competência 14 e 15/2020, publicação de agosto de 2020](https://www.tjrs.jus.br/static/2020/08/Enunciados_Agosto_OE.pdf) | 2 | 2 | 0 |
 | [TJRS — Enunciados de Competência 01 a 13/2020, publicação de maio de 2020](https://www.tjrs.jus.br/static/2020/05/Enunciados_OE_11-05-2020.pdf) | 13 | 13 | 0 |
 | [TJRS — Enunciados sobre decisões do Órgão Especial, atualização de julho de 2007](https://www.tjrs.jus.br/static/2018/05/enunciados-sobre-decisoes-do-orgao-especial.pdf) | 15 | 15 | 0 |
+| [TJMT — Compilação de súmulas cíveis e da Fazenda Pública, com aprovações de 2023](https://supervisaodosjuizadosespeciais-mc.tjmt.jus.br/portalsupervisaojuizadosespeciais-arquivos-prod/cms/TODAS_AS_SUMULAS_DA_TURMA_RECURSAL_DO_ESTADO_DE_MATO_GROSSO_7726936aae.pdf) | 69 | 69 | 0 |
+| [TJMT — Errata das súmulas e revogações aprovadas em julho de 2025](https://supervisaodosjuizadosespeciais-mc.tjmt.jus.br/portalsupervisaojuizadosespeciais-arquivos-prod/cms/3_1_ERRATA_1_PUBLICACAO_3cb3c6b5a3.pdf) | 11 | 9 | 2 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -94,6 +96,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TJMT inclui a compilação oficial de 46 súmulas cíveis e 23 da Fazenda Pública da Turma Recursal, com aprovações de 2023, em séries independentes (SUM-TR-CIV e SUM-TR-FP). Foram preservados os textos e as notas de aprovação e nova redação; as entradas cíveis 16 e 17 aparecem apenas como revogadas na compilação, sem texto histórico inventado.
+
+Também foi incorporada a errata das súmulas aprovadas em 16/07/2025, que manda desconsiderar os textos equivocados publicados nos DJEs de 21 e 22/07/2025. A errata acrescenta as cíveis 47 a 52 e as da Fazenda 24 a 26 e registra a revogação das cíveis 21 e 32. Os dois textos anteriores foram preservados com atribuição à compilação e acompanhados da nota da errata, sem contar novas súmulas por causa da revogação. O PDF de uma página foi conferido visualmente; sua extração separa as duas colunas e retira apenas os fragmentos identificados da marca de assinatura digital. A notícia de aprovação não foi usada para substituir o texto corrigido. São 78 súmulas únicas nessas duas séries, sem duplicar as espécies IRDR e NT presentes no BNP; a conciliação de outros atos posteriores permanece aberta.
 
 O catálogo oficial do TJRS também preserva nove súmulas do extinto Tribunal de Alçada do Estado do Rio Grande do Sul. Elas ficam sob a autoridade histórica TARGS, com o texto, as referências de julgados e a nota de incorporação pelo TJRS mantidos. A referência de rejeição da súmula nº 5 foi preservada, sem inferir vigência a partir de um catálogo histórico.
 
@@ -187,7 +193,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJES](tribunais/TJES/) | 162 | 162 | 162 |
 | [TJGO](tribunais/TJGO/) | 153 | 151 | 151 |
 | [TJMA](tribunais/TJMA/) | 23 | 23 | 23 |
-| [TJMT](tribunais/TJMT/) | 29 | 29 | 29 |
+| [TJMT](tribunais/TJMT/) | 107 | 29 | 29 |
 | [TJMS](tribunais/TJMS/) | 33 | 33 | 33 |
 | [TJMG](tribunais/TJMG/) | 400 | 139 | 139 |
 | [TJPA](tribunais/TJPA/) | 69 | 69 | 69 |

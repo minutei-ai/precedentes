@@ -1,0 +1,56 @@
+# TJMT · Súmula Cível da Turma Recursal
+
+**52 registros.** [Voltar ao tribunal](../)
+
+- [SUM-TR-CIV 1](tjmt-sum-tr-civ-1.md) — Situação não informada
+- [SUM-TR-CIV 2](tjmt-sum-tr-civ-2.md) — Situação não informada
+- [SUM-TR-CIV 3](tjmt-sum-tr-civ-3.md) — Situação não informada
+- [SUM-TR-CIV 4](tjmt-sum-tr-civ-4.md) — Situação não informada
+- [SUM-TR-CIV 5](tjmt-sum-tr-civ-5.md) — Situação não informada
+- [SUM-TR-CIV 6](tjmt-sum-tr-civ-6.md) — Situação não informada
+- [SUM-TR-CIV 7](tjmt-sum-tr-civ-7.md) — Situação não informada
+- [SUM-TR-CIV 8](tjmt-sum-tr-civ-8.md) — Situação não informada
+- [SUM-TR-CIV 9](tjmt-sum-tr-civ-9.md) — Situação não informada
+- [SUM-TR-CIV 10](tjmt-sum-tr-civ-10.md) — Situação não informada
+- [SUM-TR-CIV 11](tjmt-sum-tr-civ-11.md) — Situação não informada
+- [SUM-TR-CIV 12](tjmt-sum-tr-civ-12.md) — Situação não informada
+- [SUM-TR-CIV 13](tjmt-sum-tr-civ-13.md) — Situação não informada
+- [SUM-TR-CIV 14](tjmt-sum-tr-civ-14.md) — Situação não informada
+- [SUM-TR-CIV 15](tjmt-sum-tr-civ-15.md) — Situação não informada
+- [SUM-TR-CIV 16](tjmt-sum-tr-civ-16.md) — Revogada
+- [SUM-TR-CIV 17](tjmt-sum-tr-civ-17.md) — Revogada
+- [SUM-TR-CIV 18](tjmt-sum-tr-civ-18.md) — Situação não informada
+- [SUM-TR-CIV 19](tjmt-sum-tr-civ-19.md) — Situação não informada
+- [SUM-TR-CIV 20](tjmt-sum-tr-civ-20.md) — Situação não informada
+- [SUM-TR-CIV 21](tjmt-sum-tr-civ-21.md) — Situação não informada
+- [SUM-TR-CIV 22](tjmt-sum-tr-civ-22.md) — Situação não informada
+- [SUM-TR-CIV 23](tjmt-sum-tr-civ-23.md) — Situação não informada
+- [SUM-TR-CIV 24](tjmt-sum-tr-civ-24.md) — Situação não informada
+- [SUM-TR-CIV 25](tjmt-sum-tr-civ-25.md) — Situação não informada
+- [SUM-TR-CIV 26](tjmt-sum-tr-civ-26.md) — Situação não informada
+- [SUM-TR-CIV 27](tjmt-sum-tr-civ-27.md) — Situação não informada
+- [SUM-TR-CIV 28](tjmt-sum-tr-civ-28.md) — Situação não informada
+- [SUM-TR-CIV 29](tjmt-sum-tr-civ-29.md) — Situação não informada
+- [SUM-TR-CIV 30](tjmt-sum-tr-civ-30.md) — Situação não informada
+- [SUM-TR-CIV 31](tjmt-sum-tr-civ-31.md) — Situação não informada
+- [SUM-TR-CIV 32](tjmt-sum-tr-civ-32.md) — Situação não informada
+- [SUM-TR-CIV 33](tjmt-sum-tr-civ-33.md) — Situação não informada
+- [SUM-TR-CIV 34](tjmt-sum-tr-civ-34.md) — Situação não informada
+- [SUM-TR-CIV 35](tjmt-sum-tr-civ-35.md) — Situação não informada
+- [SUM-TR-CIV 36](tjmt-sum-tr-civ-36.md) — Situação não informada
+- [SUM-TR-CIV 37](tjmt-sum-tr-civ-37.md) — Situação não informada
+- [SUM-TR-CIV 38](tjmt-sum-tr-civ-38.md) — Situação não informada
+- [SUM-TR-CIV 39](tjmt-sum-tr-civ-39.md) — Situação não informada
+- [SUM-TR-CIV 40](tjmt-sum-tr-civ-40.md) — Situação não informada
+- [SUM-TR-CIV 41](tjmt-sum-tr-civ-41.md) — Situação não informada
+- [SUM-TR-CIV 42](tjmt-sum-tr-civ-42.md) — Situação não informada
+- [SUM-TR-CIV 43](tjmt-sum-tr-civ-43.md) — Situação não informada
+- [SUM-TR-CIV 44](tjmt-sum-tr-civ-44.md) — Situação não informada
+- [SUM-TR-CIV 45](tjmt-sum-tr-civ-45.md) — Situação não informada
+- [SUM-TR-CIV 46](tjmt-sum-tr-civ-46.md) — Situação não informada
+- [SUM-TR-CIV 47](tjmt-sum-tr-civ-47.md) — Situação não informada
+- [SUM-TR-CIV 48](tjmt-sum-tr-civ-48.md) — Situação não informada
+- [SUM-TR-CIV 49](tjmt-sum-tr-civ-49.md) — Situação não informada
+- [SUM-TR-CIV 50](tjmt-sum-tr-civ-50.md) — Situação não informada
+- [SUM-TR-CIV 51](tjmt-sum-tr-civ-51.md) — Situação não informada
+- [SUM-TR-CIV 52](tjmt-sum-tr-civ-52.md) — Situação não informada
