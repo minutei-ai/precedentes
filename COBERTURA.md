@@ -1,6 +1,6 @@
 # Cobertura
 
-**17.113 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**17.182 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 22 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -25,6 +25,7 @@
 | [TJMG — 4ª Câmara Cível, série anterior ao regimento de 2012](https://www5.tjmg.jus.br/jurisprudencia/arquivos/sumulas/Enunciados_Sumula_Camara_Civel.pdf) | 29 | 29 | 0 |
 | [Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG](https://www5.tjmg.jus.br/jurisprudencia/arquivos/sumulas/Enunciados_Sumula_Tribunal_Alcada.pdf) | 3 | 3 | 0 |
 | [TJSC — Súmulas do tribunal](https://www.tjsc.jus.br/web/jurisprudencia/sumulas-do-tjsc) | 68 | 68 | 0 |
+| [TJPI — Catálogo de súmulas da transparência](https://www.tjpi.jus.br/transparencia/legislacoes/sumulas) | 69 | 69 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -41,6 +42,8 @@ O TJSP foi conciliado com os 165 verbetes do livro atualizado em 16/09/2025. O T
 O catálogo de súmulas do TJDFT trouxe 29 verbetes, com avisos de alteração, cancelamento e renumeração mantidos no texto. O TJDFT aparece no índice como TJDF, sigla adotada pelo BNP. Também conferimos os catálogos de 21 IRDR e um IAC admitidos; suas observações e links para acórdãos foram mantidos com atribuição própria, sem substituir as informações do BNP. 
 
 O TJMG inclui 91 enunciados do compêndio disponibilizado no catálogo atual e três séries anteriores ao regimento de 2012: 69 do Grupo de Câmaras Criminais, 72 da 1ª Câmara Criminal e 29 da 4ª Câmara Cível. As numerações são independentes; as séries ficam em categorias próprias, preservando notas de cancelamento, alteração e substituição. Os três enunciados do extinto Tribunal de Alçada de Minas Gerais, preservados pelo TJMG, aparecem sob a autoridade histórica TAMG, com as notas de cancelamento mantidas. O catálogo do TJSC contém 68 súmulas consecutivas, com referências e avisos de revogação preservados.
+
+O TJPI foi coletado no catálogo atual da transparência: 70 registros em cinco páginas, correspondentes aos números de súmula 1 a 69. O número 64 aparece em dois registros oficiais, ambos preservados no mesmo Markdown. A ordenação por título e a conferência dos identificadores evitam repetir documentos entre páginas. Os avisos de cancelamento e as publicações de 2026 são mantidos conforme a fonte.
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
@@ -79,7 +82,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJPB](tribunais/TJPB/) | 10 | 10 | 10 |
 | [TJPR](tribunais/TJPR/) | 166 | 166 | 166 |
 | [TJPE](tribunais/TJPE/) | 190 | 190 | 190 |
-| [TJPI](tribunais/TJPI/) | 25 | 25 | 25 |
+| [TJPI](tribunais/TJPI/) | 94 | 25 | 25 |
 | [TJRJ](tribunais/TJRJ/) | 90 | 90 | 90 |
 | [TJRN](tribunais/TJRN/) | 11 | 11 | 11 |
 | [TJRS](tribunais/TJRS/) | 100 | 47 | 47 |
