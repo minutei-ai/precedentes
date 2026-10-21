@@ -12,4 +12,16 @@
 
 A notificação extrajudicial realizada e entregue no domicílio do devedor, enviada por via postal e com aviso de recebimento, é válida quando realizada por Cartório de Títulos e Documentos de outra Comarca, mesmo que não seja aquele o domicílio do devedor.
 
+## Outra fonte oficial
+
+[TJES — Planilha oficial de súmulas, referências e anotações](https://www.tjes.jus.br/wp-content/uploads/Planilha_Sumulas.pdf)
+
+### Informações do catálogo oficial
+
+Data de criação informada: 25/08/2015.
+
+**Referências legislativas:**  
+Código de  
+Processo Civil
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

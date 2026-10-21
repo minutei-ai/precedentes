@@ -12,4 +12,16 @@
 
 Revela-se descabida a interpretação extensiva do art. 113 do CP, sobretudo com a finalidade de utilização da pena detraída para a contagem do prazo prescricional da pretensão executória estatal.
 
+## Outra fonte oficial
+
+[TJES — Planilha oficial de súmulas, referências e anotações](https://www.tjes.jus.br/wp-content/uploads/Planilha_Sumulas.pdf)
+
+### Informações do catálogo oficial
+
+Data de criação informada: 27/03/2015.
+
+**Referências legislativas:**  
+Artigo 113 do  
+Código Penal
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

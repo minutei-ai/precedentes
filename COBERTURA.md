@@ -96,6 +96,7 @@
 | [TJAL — Súmulas do portal, captura Chromium](https://www.tjal.jus.br/sumulas) | 5 | 5 | 0 |
 | [TJAL — Cadastro oficial de súmulas administrativas](https://www.tjal.jus.br/legislacao-e-normas/sumula-administrativa) | 5 | 5 | 0 |
 | [TJPB — Compilação de 54 súmulas e catálogo oficial](https://www.tjpb.jus.br/documents/d/guest/enunciados-1) | 54 | 54 | 0 |
+| [TJES — Planilha oficial de súmulas, referências e anotações](https://www.tjes.jus.br/wp-content/uploads/Planilha_Sumulas.pdf) | 23 | 0 | 23 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -116,6 +117,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+As 23 súmulas do TJES foram conciliadas com a planilha oficial vinculada pela Comissão de Jurisprudência, sem acréscimo à contagem do BNP. A planilha de dez páginas informa dez verbetes como “Vigente”, sete como “Revisado” (3, 4, 5, 6, 11, 15 e 19) e seis como “Superado” (7, 8, 12, 13, 17 e 21). As situações são as publicadas na fonte, sem validação independente de atos posteriores.
+
+Foram mantidos o texto, a data de criação, as referências legislativas e as anotações de 14 verbetes, incluindo os fundamentos, excertos de julgados e referências usados pela Comissão. A extração separa as colunas da tabela e conserva as continuações entre páginas: as anotações da nº 3 e da nº 19 e o texto da nº 22 atravessam páginas. A identidade foi conferida nos 23 registros do BNP e o catálogo foi relido após o PDF. Os documentos citados nas anotações não foram coletados neste lote; a planilha não comprova cobertura de todas as categorias ou publicações posteriores do TJES.
 
 O TJPB acrescenta 54 súmulas, conferidas do número 1 ao 54 na compilação oficial de oito páginas e no catálogo de Súmulas e Precedentes. Os 54 identificadores são distintos dos dez IRDR do tribunal presentes no BNP. O catálogo foi capturado e relido pelo coletor nativo, e o PDF foi obtido por consulta no mesmo domínio durante a sessão nativa, após o acesso HTTP direto retornar 403.
 

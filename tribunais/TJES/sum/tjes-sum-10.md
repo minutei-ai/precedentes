@@ -16,4 +16,21 @@
 
 - [00018273820098080000](http://aplicativos.tjes.jus.br/consultaunificada/faces/pages/pesquisaSimplificada.xhtml?txtPesquisaSimplificada=00018273820098080000)
 
+## Outra fonte oficial
+
+[TJES — Planilha oficial de súmulas, referências e anotações](https://www.tjes.jus.br/wp-content/uploads/Planilha_Sumulas.pdf)
+
+### Informações do catálogo oficial
+
+Data de criação informada: 09/12/2011.
+
+**Referências legislativas:**  
+Artigos 1º e 20  
+da Constituição  
+Estadual
+
+**Anotações da planilha oficial:**
+
+Súmula Vinculante nº 42 do Supremo Tribunal Federal
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
