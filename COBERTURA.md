@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.509 registros únicos de 71 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.520 registros únicos de 72 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -108,6 +108,7 @@
 | [TRE-SC — Enunciados orientativos, Eleições 2024, captura Chromium](https://www.tre-sc.jus.br/jurisprudencia/enunciados-do-tresc/enunciados-do-tresc-eleicoes-2024) | 50 | 50 | 0 |
 | [TRE-CE — Súmulas, serviço oficial e PDFs](https://apps.tre-ce.jus.br/tre/get-docs/sumulas/) | 5 | 5 | 0 |
 | [TRE-PE — Súmulas e compilação completa com precedentes](https://www.tre-pe.jus.br/jurisprudencia/sumulas) | 26 | 26 | 0 |
+| [TRE-BA — Enunciados de súmula e PDF oficial](https://www.tre-ba.jus.br/jurisprudencia/sumulas/sumulas) | 11 | 11 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -128,6 +129,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRE-BA acrescenta os 11 enunciados de súmula apresentados na página regional e no PDF oficial de uma página, com títulos por extenso do Primeiro ao Décimo Primeiro Enunciado. Os ordinais foram preservados no campo Número, e os identificadores dos arquivos usam as posições correspondentes. Os textos das duas fontes coincidem, desconsideradas apenas as diferenças de espaços e quebras de linha. Foram mantidas as grafias e construções da fonte, inclusive a expressão “meras críticas políticas e sabidamente inverídicas” do Quinto Enunciado, sem correção presumida.
+
+A página informa atualização em 19.01.2026; a data foi atribuída à página, sem inferir ato de edição, revisão ou vigência de cada verbete. A aba que aponta para súmulas do TSE não foi incorporada como produção do TRE-BA. Catálogo e PDF foram capturados pelo navegador integrado após 403 nas consultas direta e nativa. A releitura do catálogo e a segunda obtenção do PDF confirmaram conteúdo estável, com documento idêntico byte a byte. A conciliação das demais categorias e dos atos citados do TRE-BA permanece pendente.
 
 O TRE-PE acrescenta 26 súmulas regionais, conferidas no catálogo e na compilação completa de 13 páginas. As outras abas da mesma página reproduzem súmulas do TSE, STF e STJ e não foram atribuídas ao tribunal regional. A página informa aprovação dos números 1 a 21 pela Resolução nº 378/2021 e dos números 22 a 26 pela Resolução nº 398/2021; essas referências foram preservadas sem inferir vigência atual.
 
@@ -348,7 +353,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_AL | 0 | 0 | 0 |
 | TRE_AP | 0 | 0 | 0 |
 | TRE_AM | 0 | 0 | 0 |
-| TRE_BA | 0 | 0 | 0 |
+| [TRE_BA](tribunais/TRE_BA/) | 11 | 0 | 0 |
 | [TRE_CE](tribunais/TRE_CE/) | 5 | 0 | 0 |
 | TRE_DF | 0 | 0 | 0 |
 | TRE_ES | 0 | 0 | 0 |
@@ -391,6 +396,8 @@ CARF é uma fonte administrativa própria. TAMG é o extinto Tribunal de Alçada
 Conferimos identificadores únicos, numeração, limites dos catálogos, paginação e contagens por órgão e espécie. A busca nacional do BNP limita o campo total a 10 mil; a soma conferida por órgão é 14.753. As fontes podem mudar durante ou depois da coleta.
 
 Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisamos conciliar cada tribunal com seu portal oficial, ampliar as fontes administrativas e coletar categorias que o BNP não expõe, incluindo as súmulas dos demais tribunais eleitorais.
+
+Na consulta de 21/10/2026, a [página oficial de súmulas do TRE-GO](https://www.tre-go.jus.br/jurisprudencia/sumulas) informa “Não há edição de súmulas no TRE/GO até o momento.” e oferece links para súmulas do STF, STJ e TSE. A declaração e a página foram preservadas na coleta privada. Esses verbetes não foram atribuídos ao tribunal regional. A informação se limita à edição de súmulas e não comprova ausência de outras categorias de precedentes; a conciliação das demais fontes do TRE-GO permanece pendente.
 
 A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de IAC, agrupados em sete incidentes por número de processo e conferidos com os processos do BNP para evitar duplicatas. Os textos são apresentados como decisões, sem inferir tese firmada ou vigência. O inventário de classes indica também documentos históricos que a consulta ao SAJ não retornou; a conciliação com o e-SAJ e o acervo histórico do SJURIS continua pendente. Uma consulta vazia não foi tratada como inexistência de outros incidentes.
 
