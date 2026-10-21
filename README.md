@@ -2,7 +2,7 @@
 
 Súmulas, temas, orientações jurisprudenciais e precedentes em arquivos fáceis de ler, pesquisar e usar com IA.
 
-Um acervo público do [Minutei](https://minutei.legal), a partir de fontes oficiais. **16.781 registros de 64 órgãos**, organizados por órgão e espécie.
+Um acervo público do [Minutei](https://minutei.legal), a partir de fontes oficiais. **17.042 registros de 64 órgãos**, organizados por órgão e espécie.
 
 O objetivo é reunir os precedentes de todo o Brasil. A cobertura ainda é parcial e está [documentada por órgão](COBERTURA.md).
 
@@ -34,7 +34,7 @@ O objetivo é reunir os precedentes de todo o Brasil. A cobertura ainda é parci
 | [TJES](tribunais/TJES/) | 162 |
 | [TJGO](tribunais/TJGO/) | 151 |
 | [TJMA](tribunais/TJMA/) | 23 |
-| [TJMG](tribunais/TJMG/) | 139 |
+| [TJMG](tribunais/TJMG/) | 400 |
 | [TJMS](tribunais/TJMS/) | 33 |
 | [TJMT](tribunais/TJMT/) | 29 |
 | [TJPA](tribunais/TJPA/) | 69 |
@@ -90,7 +90,7 @@ Cada registro tem seu próprio arquivo Markdown, com o texto disponível, a ques
 
 ## Fontes e cobertura
 
-As fontes incluem o [Pangea/BNP do CNJ](https://bnp.pdpj.jus.br/), o livro oficial de jurisprudência do TST, a consolidação de súmulas do CARF os dados abertos de precedentes qualificados do STJ o catálogo de súmulas do TCU e os livros oficiais de súmulas do TJCE, TJSP e TJRS, o catálogo de súmulas do TJDFT e decisões de incidentes no SJURIS. Cada Markdown identifica sua origem.
+As fontes incluem o [Pangea/BNP do CNJ](https://bnp.pdpj.jus.br/), o livro oficial de jurisprudência do TST, a consolidação de súmulas do CARF os dados abertos de precedentes qualificados do STJ o catálogo de súmulas do TCU e os livros oficiais de súmulas do TJCE, TJSP e TJRS, o catálogo de súmulas do TJDFT, os compêndios de enunciados de súmula do TJMG e decisões de incidentes no SJURIS. Cada Markdown identifica sua origem.
 
 O acervo inclui registros cancelados, controvérsias e procedimentos pendentes. Nem todo registro tem tese firmada ou texto disponível. Confira a [cobertura](COBERTURA.md) e a situação atual na fonte oficial.
 
