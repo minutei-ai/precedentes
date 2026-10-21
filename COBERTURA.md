@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.532 registros únicos de 75 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.559 registros únicos de 76 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -112,6 +112,7 @@
 | [TRE-PA — Súmulas e documentos individuais oficiais](https://www.tre-pa.jus.br/jurisprudencia/sumulas-tre-pa-1/sumulas-tre-pa) | 10 | 10 | 0 |
 | [TRE-MA — Súmula e inteiro teor oficial](https://www.tre-ma.jus.br/jurisprudencia/sumulas/sumulas-do-tre-ma) | 1 | 1 | 0 |
 | [TRE-MT — Enunciado de súmula e referências oficiais](https://www.tre-mt.jus.br/jurisprudencia/sumulas) | 1 | 1 | 0 |
+| [TRE-RJ — Súmulas do catálogo regional](https://www.tre-rj.jus.br/jurisprudencia/sumulas/sumulas-do-tre-rj) | 27 | 27 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -132,6 +133,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRE-RJ acrescenta as 27 súmulas listadas na tabela oficial, com número, data e enunciado. A numeração original, inclusive os zeros iniciais de 01 a 09, foi preservada no campo Número; os identificadores dos arquivos usam o valor numérico correspondente. As datas da coluna “DATA” foram mantidas como apresentadas, sem reclassificação como publicação, revisão ou atualização. As entradas 21 a 27 apresentam 13/03/2025. A redação da fonte foi preservada, inclusive “quando à possibilidade” na nº 05 e a aspa final na nº 20.
+
+O catálogo do TRE-RJ não contém vínculos para documentos individuais nem coluna de situação. A tabela foi capturada e relida pelo navegador integrado após HTTP 403 nos acessos direto e nativo, sem alteração no conteúdo dos registros. Não foi inferida vigência atual. Os julgados e atos mencionados e as demais categorias de precedentes do TRE-RJ permanecem pendentes.
 
 O TRE-MS permanece pendente: a página oficial de jurisprudência consultada em 21/10/2026 apresenta pesquisa unificada, coletâneas por assunto e publicações, sem listar súmulas regionais. Isso não comprova inexistência de súmulas ou de outras categorias de precedentes. A página foi capturada pelo navegador integrado após HTTP 403 nas consultas direta e nativa.
 
@@ -382,7 +387,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_PR | 0 | 0 | 0 |
 | [TRE_PE](tribunais/TRE_PE/) | 26 | 0 | 0 |
 | TRE_PI | 0 | 0 | 0 |
-| TRE_RJ | 0 | 0 | 0 |
+| [TRE_RJ](tribunais/TRE_RJ/) | 27 | 0 | 0 |
 | [TRE_RN](tribunais/TRE_RN/) | 42 | 0 | 0 |
 | TRE_RS | 0 | 0 | 0 |
 | TRE_RO | 0 | 0 | 0 |
