@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.065 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.075 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -93,6 +93,8 @@
 | [TJAC — Catálogo oficial de súmulas e PDFs vinculados](https://www.tjac.jus.br/atos-normativos/sumulas/) | 4 | 4 | 0 |
 | [TJRO — Catálogo de súmulas e referências oficiais](https://www.tjro.jus.br/servicos-judiciais/jurisprudencia/sumulas) | 9 | 9 | 0 |
 | [TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/) | 21 | 0 | 21 |
+| [TJAL — Súmulas do portal, captura Chromium](https://www.tjal.jus.br/sumulas) | 5 | 5 | 0 |
+| [TJAL — Cadastro oficial de súmulas administrativas](https://www.tjal.jus.br/legislacao-e-normas/sumula-administrativa) | 5 | 5 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -113,6 +115,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TJAL acrescenta cinco entradas da página atual de súmulas e cinco súmulas administrativas, em série própria (SUM-ADM). As entradas judiciais mantêm os títulos “Nº 01”, “Nº 02”, “Nº 03”, “Nº 001/2013” e “02 de junho de 2006”. A última é identificada por data, sem número inferido. As três primeiras informam decisão em 18/10/2016 e DJE de 26/10/2016. A numeração da nº 001/2013 permanece independente da nº 01 de 2016. Foram preservadas as grafias da página, inclusive “Inexiste bice jurídico”, “manisfestação”, “nescessidade” e “controvêrsia”, sem correção presumida.
+
+O portal atual do TJAL é uma aplicação JavaScript: o HTML inicial não contém os enunciados. O coletor nativo falhou em uma funcionalidade de integridade de estilos; o conteúdo jurídico foi capturado no navegador Chromium integrado ao T3 e conferido com o módulo oficial da página, ambos preservados privadamente com hashes. Essa captura não representa sucesso do coletor nativo. A página não informa situação em campo próprio, e sua presença não comprova vigência atual ou cobertura de atos posteriores.
+
+As súmulas administrativas foram obtidas pela API pública do cadastro oficial, filtrada pelo tipo “Súmula Administrativa”, sem restringir situação. Foram conferidas cinco entradas, os cinco detalhes e a releitura do catálogo. Os identificadores usam os IDs oficiais do cadastro. Mantivemos o texto, a ementa, a publicação, a atualização cadastral, a situação informada e os links de anexos e alterações, inclusive as referências da nº 05 a atos de 2019 a 2023. Os documentos vinculados não foram coletados neste lote e o texto do cadastro não foi consolidado independentemente com as alterações. Esses dez registros não duplicam os quatro incidentes do TJAL presentes no BNP.
 
 O TJRO acrescenta as nove súmulas do catálogo oficial, conferidas do número 1 ao 9 e com releitura do catálogo após as páginas individuais. Foram preservados todos os textos, referências legislativas, processos, datas, relatorias e 148 links disponibilizados nessas páginas. As listas de downloads e as referências foram mantidas como publicadas, sem presumir que sejam equivalentes ou corrigir numerações históricas. A observação “Não consta na ementa” da nº 8 permanece junto da referência correspondente.
 
@@ -227,7 +235,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
 | [TRF06](tribunais/TRF06/) | 22 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
-| [TJAL](tribunais/TJAL/) | 4 | 4 | 4 |
+| [TJAL](tribunais/TJAL/) | 14 | 4 | 4 |
 | [TJAP](tribunais/TJAP/) | 80 | 45 | 45 |
 | [TJAM](tribunais/TJAM/) | 72 | 72 | 72 |
 | [TJBA](tribunais/TJBA/) | 118 | 118 | 118 |
@@ -342,5 +350,7 @@ Os catálogos próprios de súmulas do TRF2 e TRF4 também continuam pendentes. 
 O catálogo do TJBA ainda não foi conciliado: o endereço consultado retornou HTTP 404 tanto na consulta direta quanto no coletor nativo. O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
 
 As súmulas do TJRJ ainda não foram incorporadas. O catálogo institucional e o PDF de 2026 falharam na validação da cadeia TLS na consulta direta; o coletor nativo também falhou por certificado não confiável. A validação TLS foi mantida. Isso não significa que o tribunal não tenha súmulas.
+
+O catálogo próprio de súmulas do TJSE permanece pendente. As consultas diretas ao portal principal e ao endereço institucional ejusepos excederam 45 segundos; o coletor nativo encerrou com “scrape deadline or invalid input”. A tentativa pelo navegador integrado também excedeu o prazo de navegação, sem captura válida do catálogo. Essas falhas não foram tratadas como ausência de súmulas e não afetam os registros do TJSE já obtidos no BNP.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.
