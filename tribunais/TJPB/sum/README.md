@@ -1,0 +1,58 @@
+# TJPB · Súmula
+
+**54 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tjpb-sum-1.md) — Situação não informada
+- [SUM 2](tjpb-sum-2.md) — Cancelada
+- [SUM 3](tjpb-sum-3.md) — Situação não informada
+- [SUM 4](tjpb-sum-4.md) — Situação não informada
+- [SUM 5](tjpb-sum-5.md) — Situação não informada
+- [SUM 6](tjpb-sum-6.md) — Situação não informada
+- [SUM 7](tjpb-sum-7.md) — Situação não informada
+- [SUM 8](tjpb-sum-8.md) — Situação não informada
+- [SUM 9](tjpb-sum-9.md) — Cancelada
+- [SUM 10](tjpb-sum-10.md) — Situação não informada
+- [SUM 11](tjpb-sum-11.md) — Situação não informada
+- [SUM 12](tjpb-sum-12.md) — Cancelada
+- [SUM 13](tjpb-sum-13.md) — Situação não informada
+- [SUM 14](tjpb-sum-14.md) — Situação não informada
+- [SUM 15](tjpb-sum-15.md) — Situação não informada
+- [SUM 16](tjpb-sum-16.md) — Situação não informada
+- [SUM 17](tjpb-sum-17.md) — Situação não informada
+- [SUM 18](tjpb-sum-18.md) — Situação não informada
+- [SUM 19](tjpb-sum-19.md) — Situação não informada
+- [SUM 20](tjpb-sum-20.md) — Situação não informada
+- [SUM 21](tjpb-sum-21.md) — Situação não informada
+- [SUM 22](tjpb-sum-22.md) — Situação não informada
+- [SUM 23](tjpb-sum-23.md) — Situação não informada
+- [SUM 24](tjpb-sum-24.md) — Situação não informada
+- [SUM 25](tjpb-sum-25.md) — Situação não informada
+- [SUM 26](tjpb-sum-26.md) — Situação não informada
+- [SUM 27](tjpb-sum-27.md) — Cancelada
+- [SUM 28](tjpb-sum-28.md) — Situação não informada
+- [SUM 29](tjpb-sum-29.md) — Situação não informada
+- [SUM 30](tjpb-sum-30.md) — Situação não informada
+- [SUM 31](tjpb-sum-31.md) — Situação não informada
+- [SUM 32](tjpb-sum-32.md) — Situação não informada
+- [SUM 33](tjpb-sum-33.md) — Situação não informada
+- [SUM 34](tjpb-sum-34.md) — Cancelada
+- [SUM 35](tjpb-sum-35.md) — Situação não informada
+- [SUM 36](tjpb-sum-36.md) — Situação não informada
+- [SUM 37](tjpb-sum-37.md) — Situação não informada
+- [SUM 38](tjpb-sum-38.md) — Situação não informada
+- [SUM 39](tjpb-sum-39.md) — Situação não informada
+- [SUM 40](tjpb-sum-40.md) — Situação não informada
+- [SUM 41](tjpb-sum-41.md) — Situação não informada
+- [SUM 42](tjpb-sum-42.md) — Situação não informada
+- [SUM 43](tjpb-sum-43.md) — Cancelada
+- [SUM 44](tjpb-sum-44.md) — Situação não informada
+- [SUM 45](tjpb-sum-45.md) — Situação não informada
+- [SUM 46](tjpb-sum-46.md) — Situação não informada
+- [SUM 47](tjpb-sum-47.md) — Situação não informada
+- [SUM 48](tjpb-sum-48.md) — Situação não informada
+- [SUM 49](tjpb-sum-49.md) — Situação não informada
+- [SUM 50](tjpb-sum-50.md) — Situação não informada
+- [SUM 51](tjpb-sum-51.md) — Situação não informada
+- [SUM 52](tjpb-sum-52.md) — Situação não informada
+- [SUM 53](tjpb-sum-53.md) — Alterada
+- [SUM 54](tjpb-sum-54.md) — Cancelada

@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.075 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.129 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -95,6 +95,7 @@
 | [TJRO — LIAME, consulta pública de IRDR e IAC](https://liame.tjro.jus.br/) | 21 | 0 | 21 |
 | [TJAL — Súmulas do portal, captura Chromium](https://www.tjal.jus.br/sumulas) | 5 | 5 | 0 |
 | [TJAL — Cadastro oficial de súmulas administrativas](https://www.tjal.jus.br/legislacao-e-normas/sumula-administrativa) | 5 | 5 | 0 |
+| [TJPB — Compilação de 54 súmulas e catálogo oficial](https://www.tjpb.jus.br/documents/d/guest/enunciados-1) | 54 | 54 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -115,6 +116,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TJPB acrescenta 54 súmulas, conferidas do número 1 ao 54 na compilação oficial de oito páginas e no catálogo de Súmulas e Precedentes. Os 54 identificadores são distintos dos dez IRDR do tribunal presentes no BNP. O catálogo foi capturado e relido pelo coletor nativo, e o PDF foi obtido por consulta no mesmo domínio durante a sessão nativa, após o acesso HTTP direto retornar 403.
+
+Foram mantidos os sete avisos de cancelamento das nºs 2, 9, 12, 27, 34, 43 e 54 e o aviso de alteração da nº 53. Nas nºs 36 e 53, a compilação traz duas redações, com a primeira riscada: ambas foram preservadas, incluindo a referência processual da nº 36. As duas páginas foram conferidas visualmente. Não foi inferida situação atual para os demais registros a partir de temas, datas ou legislação citada.
+
+Cada súmula mantém também o link de referência publicado no catálogo. Para as nºs 1 a 50, o catálogo aponta para páginas do livro de 2016 no domínio institucional site-homolog.tjpb.jus.br; os endereços foram preservados sem substituição silenciosa. Os PDFs desses precedentes e as páginas individuais das nºs 51 a 54 não foram coletados neste lote. A compilação não comprova cobertura de alterações posteriores ou vigência atual de todos os textos.
 
 O TJAL acrescenta cinco entradas da página atual de súmulas e cinco súmulas administrativas, em série própria (SUM-ADM). As entradas judiciais mantêm os títulos “Nº 01”, “Nº 02”, “Nº 03”, “Nº 001/2013” e “02 de junho de 2006”. A última é identificada por data, sem número inferido. As três primeiras informam decisão em 18/10/2016 e DJE de 26/10/2016. A numeração da nº 001/2013 permanece independente da nº 01 de 2016. Foram preservadas as grafias da página, inclusive “Inexiste bice jurídico”, “manisfestação”, “nescessidade” e “controvêrsia”, sem correção presumida.
 
@@ -248,7 +255,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJMS](tribunais/TJMS/) | 33 | 33 | 33 |
 | [TJMG](tribunais/TJMG/) | 400 | 139 | 139 |
 | [TJPA](tribunais/TJPA/) | 69 | 69 | 69 |
-| [TJPB](tribunais/TJPB/) | 10 | 10 | 10 |
+| [TJPB](tribunais/TJPB/) | 64 | 10 | 10 |
 | [TJPR](tribunais/TJPR/) | 166 | 166 | 166 |
 | [TJPE](tribunais/TJPE/) | 338 | 190 | 190 |
 | [TJPI](tribunais/TJPI/) | 94 | 25 | 25 |
@@ -347,7 +354,11 @@ Os catálogos próprios dos TRT22 e TRT23 ainda não foram conciliados. O TRT22 
 
 Os catálogos próprios de súmulas do TRF2 e TRF4 também continuam pendentes. O TRF2 respondeu HTTP 503 na consulta direta e no coletor nativo. Os endereços do TRF4 indicados por publicações oficiais retornaram HTTP 404 nesta consulta; não foi validado um catálogo atual.
 
-O catálogo do TJBA ainda não foi conciliado: o endereço consultado retornou HTTP 404 tanto na consulta direta quanto no coletor nativo. O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
+O catálogo próprio do TJBA permanece pendente. Na consulta de 21/10/2026, a página de precedentes dos Juizados Especiais e o endereço do PDF de súmulas atualizado em março de 2026 devolveram o mesmo aviso oficial de interrupção preventiva dos sistemas, datado de 20/10/2026. O endereço do PDF respondeu com HTML de 4.454 bytes, sem documento PDF; o coletor nativo da página encerrou com “cross-origin request blocked”. A resposta não foi tratada como catálogo vazio nem como PDF válido. Os 17 registros de súmula do TJBA já presentes no BNP permanecem publicados, sem alegação de conciliação com os catálogos próprios.
+
+A página da Turma de Uniformização do TJTO devolveu o aviso oficial “Site em manutenção”, sem os enunciados. A resposta foi preservada privadamente e não foi usada para inferir ausência de precedentes ou cancelar registros já publicados. A conciliação desse catálogo permanece pendente.
+
+O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
 
 As súmulas do TJRJ ainda não foram incorporadas. O catálogo institucional e o PDF de 2026 falharam na validação da cadeia TLS na consulta direta; o coletor nativo também falhou por certificado não confiável. A validação TLS foi mantida. Isso não significa que o tribunal não tenha súmulas.
 
