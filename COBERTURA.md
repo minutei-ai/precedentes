@@ -1,6 +1,6 @@
 # Cobertura
 
-**17.899 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.064 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -40,6 +40,8 @@
 | [TRT da 9ª Região — Livro eletrônico de Teses Jurídicas Prevalecentes](https://www.trt9.jus.br/bancojurisprudencia/publico/sumulasEAfins.xhtml) | 16 | 16 | 0 |
 | [TRT da 9ª Região — Orientações Jurisprudenciais da Seção Especializada](https://www.trt9.jus.br/bancojurisprudencia/publico/sumulasEAfins.xhtml) | 49 | 49 | 0 |
 | [TRT da 6ª Região — Súmulas do tribunal](https://www.trt6.jus.br/portal/jurisprudencia/sumulas-trt6) | 44 | 44 | 0 |
+| [TRT da 11ª Região — Súmulas e súmula transitória, página histórica](https://portal.trt11.jus.br/index.php/home/composicao/varas-do-trabalho/vtinterior/11-servicos/15-sumulas) | 29 | 29 | 0 |
+| [TRT da 12ª Região — Súmulas do TRT-SC](https://portal.trt12.jus.br/uniformiza%C3%A7%C3%A3odejurisprud%C3%AAncias%C3%BAmulastrtsc) | 136 | 136 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -68,6 +70,10 @@ O TRT da 3ª Região inclui 73 súmulas, 23 teses jurídicas prevalecentes e 46 
 O catálogo de súmulas do TRT da 6ª Região contém 44 números e informa atualização em 25/03/2026. Os números 10 e 15 aparecem com duas redações no próprio catálogo; ambas ficam no mesmo Markdown, com os avisos de alteração. Foram preservados também cancelamentos, revogações e links para normas e processos.
 
 Os livros eletrônicos do TRT da 9ª Região trouxeram 102 súmulas, 16 teses jurídicas prevalecentes e 49 orientações jurisprudenciais da Seção Especializada, obtidos pelo formulário do próprio portal. O conteúdo inclui alterações de 2026, como o cancelamento da Súmula 3, com a redação cancelada e seu histórico preservados. As orientações têm duas numerações independentes: 48 de execução (OJ-EX-SE) e uma de dissídios coletivos (OJ-DC-SE). Cada arquivo mantém os itens internos, suas redações e referências; a orientação nº 1 de cada série tem identidade própria. Esses livros não representam todas as categorias de precedentes do TRT9.
+
+O TRT da 11ª Região inclui 28 súmulas e uma súmula transitória, em série própria, da página histórica ainda acessível no portal, com referências de edição até 2018 e links para os precedentes. A Biblioteca Digital indicada pelo menu atual retornou bloqueio na consulta direta e não produziu captura validada pelo coletor nativo. Essa biblioteca ainda precisa ser conciliada; esses 29 verbetes não comprovam atualização ou cobertura integral do TRT11.
+
+O catálogo atual do TRT da 12ª Região trouxe 136 súmulas. O sumário e as âncoras repetidas não contam como registros adicionais. Foram preservados textos, referências, redações riscadas, cancelamentos e ressalvas, incluindo a nota da Resolução n.º 2/2026 sobre o cancelamento apenas do item I da Súmula 108. As tabelas usadas pelo portal para montar a página foram convertidas em texto Markdown, com conferência do conteúdo integral.
 
 O TRT da 15ª Região inclui 146 números de súmula. A edição com processos referenciados, de 25/09/2026, é a fonte principal; em 25 números ela informa apenas o cancelamento. A versão completa de 15/06/2026 preserva as redações históricas desses números e aparece como outra fonte oficial no mesmo Markdown. Texto histórico não implica vigência.
 
@@ -128,8 +134,8 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT08](tribunais/TRT08/) | 66 | 66 | 66 |
 | [TRT09](tribunais/TRT09/) | 232 | 65 | 65 |
 | [TRT10](tribunais/TRT10/) | 21 | 21 | 21 |
-| [TRT11](tribunais/TRT11/) | 32 | 32 | 32 |
-| [TRT12](tribunais/TRT12/) | 46 | 46 | 46 |
+| [TRT11](tribunais/TRT11/) | 61 | 32 | 32 |
+| [TRT12](tribunais/TRT12/) | 182 | 46 | 46 |
 | [TRT13](tribunais/TRT13/) | 63 | 63 | 63 |
 | [TRT14](tribunais/TRT14/) | 36 | 36 | 36 |
 | [TRT15](tribunais/TRT15/) | 224 | 78 | 78 |

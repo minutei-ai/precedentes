@@ -2,7 +2,7 @@
 
 Súmulas, temas, orientações jurisprudenciais e precedentes em arquivos fáceis de ler, pesquisar e usar com IA.
 
-Um acervo público do [Minutei](https://minutei.legal), a partir de fontes oficiais. **17.899 registros de 65 órgãos**, organizados por órgão e espécie.
+Um acervo público do [Minutei](https://minutei.legal), a partir de fontes oficiais. **18.064 registros de 65 órgãos**, organizados por órgão e espécie.
 
 O objetivo é reunir os precedentes de todo o Brasil. A cobertura ainda é parcial e está [documentada por órgão](COBERTURA.md).
 
@@ -69,8 +69,8 @@ O objetivo é reunir os precedentes de todo o Brasil. A cobertura ainda é parci
 | [TRT08](tribunais/TRT08/) | 66 |
 | [TRT09](tribunais/TRT09/) | 232 |
 | [TRT10](tribunais/TRT10/) | 21 |
-| [TRT11](tribunais/TRT11/) | 32 |
-| [TRT12](tribunais/TRT12/) | 46 |
+| [TRT11](tribunais/TRT11/) | 61 |
+| [TRT12](tribunais/TRT12/) | 182 |
 | [TRT13](tribunais/TRT13/) | 63 |
 | [TRT14](tribunais/TRT14/) | 36 |
 | [TRT15](tribunais/TRT15/) | 224 |
