@@ -1,0 +1,45 @@
+# TJPE · Enunciado Administrativo da Seção de Direito Público
+
+**41 registros.** [Voltar ao tribunal](../)
+
+- [EA-SDP 1](tjpe-ea-sdp-1.md) — Situação não informada
+- [EA-SDP 2](tjpe-ea-sdp-2.md) — Situação não informada
+- [EA-SDP 3](tjpe-ea-sdp-3.md) — Situação não informada
+- [EA-SDP 4](tjpe-ea-sdp-4.md) — Situação não informada
+- [EA-SDP 5](tjpe-ea-sdp-5.md) — Situação não informada
+- [EA-SDP 6](tjpe-ea-sdp-6.md) — Situação não informada
+- [EA-SDP 7](tjpe-ea-sdp-7.md) — Situação não informada
+- [EA-SDP 8](tjpe-ea-sdp-8.md) — Situação não informada
+- [EA-SDP 9](tjpe-ea-sdp-9.md) — Situação não informada
+- [EA-SDP 10](tjpe-ea-sdp-10.md) — Situação não informada
+- [EA-SDP 11](tjpe-ea-sdp-11.md) — Situação não informada
+- [EA-SDP 12](tjpe-ea-sdp-12.md) — Situação não informada
+- [EA-SDP 13](tjpe-ea-sdp-13.md) — Situação não informada
+- [EA-SDP 14](tjpe-ea-sdp-14.md) — Situação não informada
+- [EA-SDP 15](tjpe-ea-sdp-15.md) — Situação não informada
+- [EA-SDP 16](tjpe-ea-sdp-16.md) — Situação não informada
+- [EA-SDP 17](tjpe-ea-sdp-17.md) — Situação não informada
+- [EA-SDP 18](tjpe-ea-sdp-18.md) — Situação não informada
+- [EA-SDP 19](tjpe-ea-sdp-19.md) — Situação não informada
+- [EA-SDP 20](tjpe-ea-sdp-20.md) — Situação não informada
+- [EA-SDP 21](tjpe-ea-sdp-21.md) — Situação não informada
+- [EA-SDP 22](tjpe-ea-sdp-22.md) — Situação não informada
+- [EA-SDP 23](tjpe-ea-sdp-23.md) — Situação não informada
+- [EA-SDP 24](tjpe-ea-sdp-24.md) — Situação não informada
+- [EA-SDP 25](tjpe-ea-sdp-25.md) — Situação não informada
+- [EA-SDP 26](tjpe-ea-sdp-26.md) — Situação não informada
+- [EA-SDP 27](tjpe-ea-sdp-27.md) — Situação não informada
+- [EA-SDP 28](tjpe-ea-sdp-28.md) — Situação não informada
+- [EA-SDP 29](tjpe-ea-sdp-29.md) — Situação não informada
+- [EA-SDP 30](tjpe-ea-sdp-30.md) — Situação não informada
+- [EA-SDP 31](tjpe-ea-sdp-31.md) — Situação não informada
+- [EA-SDP 32](tjpe-ea-sdp-32.md) — Situação não informada
+- [EA-SDP 33](tjpe-ea-sdp-33.md) — Situação não informada
+- [EA-SDP 34](tjpe-ea-sdp-34.md) — Situação não informada
+- [EA-SDP 35](tjpe-ea-sdp-35.md) — Situação não informada
+- [EA-SDP 36](tjpe-ea-sdp-36.md) — Situação não informada
+- [EA-SDP 37](tjpe-ea-sdp-37.md) — Situação não informada
+- [EA-SDP 38](tjpe-ea-sdp-38.md) — Situação não informada
+- [EA-SDP 39](tjpe-ea-sdp-39.md) — Situação não informada
+- [EA-SDP 40](tjpe-ea-sdp-40.md) — Situação não informada
+- [EA-SDP 41](tjpe-ea-sdp-41.md) — Situação não informada
