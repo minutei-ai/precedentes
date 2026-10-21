@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.056 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.065 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -91,6 +91,7 @@
 | [TJPA — Súmulas Anotadas: Direito Processual Penal](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/336244-Direito-Processual-Penal.xhtml) | 9 | 0 | 9 |
 | [TJAP — Revista Diretriz, volume 1, nº 1, capa de outubro de 2021](https://old.tjap.jus.br/portal/images/NUGEPNAC/Revista_Diretriz_n_01_1.pdf) | 35 | 35 | 0 |
 | [TJAC — Catálogo oficial de súmulas e PDFs vinculados](https://www.tjac.jus.br/atos-normativos/sumulas/) | 4 | 4 | 0 |
+| [TJRO — Catálogo de súmulas e referências oficiais](https://www.tjro.jus.br/servicos-judiciais/jurisprudencia/sumulas) | 9 | 9 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -111,6 +112,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TJRO acrescenta as nove súmulas do catálogo oficial, conferidas do número 1 ao 9 e com releitura do catálogo após as páginas individuais. Foram preservados todos os textos, referências legislativas, processos, datas, relatorias e 148 links disponibilizados nessas páginas. As listas de downloads e as referências foram mantidas como publicadas, sem presumir que sejam equivalentes ou corrigir numerações históricas. A observação “Não consta na ementa” da nº 8 permanece junto da referência correspondente.
+
+As nove súmulas não duplicam os 21 incidentes do TJRO presentes no BNP. Não foi inferida vigência atual: as páginas contêm referências históricas e não informam situação em campo próprio. Os PDFs dos precedentes vinculados não foram coletados neste lote; preservar o link não comprova que o documento esteja disponível atualmente. O LIAME e outras categorias do tribunal ainda não estão conciliados por esta coleta.
 
 O catálogo de súmulas do TJAC foi consultado pela API pública indicada no portal, com o filtro próprio de súmulas e sem restringir a situação. Foram obtidas quatro entradas e seus quatro PDFs, com releitura do catálogo após os documentos. Os registros ficam identificados pelo ID imutável da entrada oficial: a numeração inclui ano e origem, e as duas súmulas nº 1 têm conteúdos distintos. Esses quatro registros não duplicam os sete incidentes do TJAC presentes no BNP.
 
@@ -237,7 +242,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRJ](tribunais/TJRJ/) | 91 | 89 | 90 |
 | [TJRN](tribunais/TJRN/) | 63 | 11 | 11 |
 | [TJRS](tribunais/TJRS/) | 292 | 47 | 47 |
-| [TJRO](tribunais/TJRO/) | 21 | 21 | 21 |
+| [TJRO](tribunais/TJRO/) | 30 | 21 | 21 |
 | [TJRR](tribunais/TJRR/) | 51 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 159 | 91 | 91 |
 | [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
