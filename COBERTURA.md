@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.375 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.464 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -53,6 +53,7 @@
 | [TRT da 19ª Região — Súmulas 1 a 7, redação original da RA 51/2015](https://asp1.trt19.jus.br/docspdf/rhdocs/051-RA.S%C3%9AMULAS.pdf) | 7 | 7 | 0 |
 | [TRT da 20ª Região — Catálogo de súmulas (inteiro teor não validado)](https://www.trt20.jus.br/jurisprudencia/sumulas-do-trt-20-regiao.html) | 25 | 25 | 0 |
 | [TRT da 24ª Região — Súmulas, atualização de março de 2026](https://www.trt24.jus.br/documents/20182/1472434/S%C3%9AMULAS+DO+TRT+DA+24%C2%AA+REGI%C3%83O+-+atualiza%C3%A7%C3%A3o+Mar%C3%A7o+2026.pdf) | 38 | 38 | 0 |
+| [TNU — Catálogo de súmulas do CJF (Virtus)](https://www.cjf.jus.br/phpdoc/virtus/listaSumulas.php) | 89 | 89 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -106,6 +107,8 @@ O TRT da 20ª Região inclui 25 entradas do catálogo oficial, com descrições 
 
 O TRT da 24ª Região inclui os 38 verbetes do livro atualizado em março de 2026, disponibilizado no portal em 17/03/2026. A numeração do texto foi conferida contra o sumário; as entradas do índice não contam novamente. Mantemos as redações e os processos de origem, os oito avisos de cancelamento, a suspensão da nº 14 e as alterações das nºs 17 e 23. A edição registra cancelamentos de 2025, incluindo os de 25/11/2025 e o da nº 30 em 26/06/2025. O BNP desse órgão não contém súmulas sob as espécies SUM ou SV; os 38 verbetes são novos no acervo. O livro não comprova a cobertura de todas as categorias do tribunal ou das publicações posteriores à edição.
 
+A TNU inclui os 89 enunciados do catálogo Virtus do CJF, conferidos do número 1 ao 89, com textos, metadados de publicação, dez avisos de cancelamento e quatro de alteração. A nº 63 traz alteração de 18/09/2025 e publicação indicada em 24/09/2025. A resposta original usa Latin-1; os acentos foram preservados, e os links publicados mantêm a identificação da súmula sem parâmetros de sessão. Os 89 enunciados não duplicam os 394 temas PUIL do inventário do BNP. A conferência desse catálogo não comprova cobertura de todos os acervos ou publicações posteriores da TNU.
+
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
 ## BNP por órgão
@@ -119,7 +122,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
 | TSE | 0 | 0 | 0 |
 | [STM](tribunais/STM/) | 2 | 2 | 2 |
-| [TNU](tribunais/TNU/) | 394 | 394 | 394 |
+| [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 110 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 24 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
@@ -233,6 +236,10 @@ Os catálogos do TRT5 e TRT7 ainda não foram conciliados. As consultas diretas 
 A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta direta retornou bloqueio e a página de pesquisa excedeu o limite de estilos do coletor nativo. As fontes regionais incorporadas estão discriminadas acima; o bloqueio não foi tratado como catálogo vazio.
 
 O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou o conteúdo nesta coleta: a resposta direta e a página renderizada pelo coletor nativo permaneceram no desafio de acesso, sem texto do documento. O caderno ainda não foi incorporado.
+
+Os catálogos próprios dos TRT22 e TRT23 ainda não foram conciliados. O TRT22 respondeu HTTP 403 na consulta direta; o coletor nativo encontrou uma funcionalidade de quadros não suportada. O portal do TRT23 exibiu aviso de manutenção programada, sem catálogo de súmulas. Essas respostas não foram tratadas como ausência de precedentes.
+
+Os catálogos próprios de súmulas do TRF2 e TRF4 também continuam pendentes. O TRF2 respondeu HTTP 503 na consulta direta e no coletor nativo. Os endereços do TRF4 indicados por publicações oficiais retornaram HTTP 404 nesta consulta; não foi validado um catálogo atual.
 
 As súmulas do TJRJ ainda não foram incorporadas: seu catálogo direto não foi validado nesta coleta. Isso não significa que o tribunal não tenha súmulas.
 

@@ -1,0 +1,93 @@
+# TNU · Súmula
+
+**89 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tnu-sum-1.md) — Situação não informada
+- [SUM 2](tnu-sum-2.md) — Situação não informada
+- [SUM 3](tnu-sum-3.md) — Cancelada
+- [SUM 4](tnu-sum-4.md) — Situação não informada
+- [SUM 5](tnu-sum-5.md) — Situação não informada
+- [SUM 6](tnu-sum-6.md) — Situação não informada
+- [SUM 7](tnu-sum-7.md) — Situação não informada
+- [SUM 8](tnu-sum-8.md) — Situação não informada
+- [SUM 9](tnu-sum-9.md) — Situação não informada
+- [SUM 10](tnu-sum-10.md) — Situação não informada
+- [SUM 11](tnu-sum-11.md) — Cancelada
+- [SUM 12](tnu-sum-12.md) — Situação não informada
+- [SUM 13](tnu-sum-13.md) — Situação não informada
+- [SUM 14](tnu-sum-14.md) — Situação não informada
+- [SUM 15](tnu-sum-15.md) — Cancelada
+- [SUM 16](tnu-sum-16.md) — Cancelada
+- [SUM 17](tnu-sum-17.md) — Situação não informada
+- [SUM 18](tnu-sum-18.md) — Alterada
+- [SUM 19](tnu-sum-19.md) — Situação não informada
+- [SUM 20](tnu-sum-20.md) — Situação não informada
+- [SUM 21](tnu-sum-21.md) — Situação não informada
+- [SUM 22](tnu-sum-22.md) — Situação não informada
+- [SUM 23](tnu-sum-23.md) — Situação não informada
+- [SUM 24](tnu-sum-24.md) — Situação não informada
+- [SUM 25](tnu-sum-25.md) — Situação não informada
+- [SUM 26](tnu-sum-26.md) — Situação não informada
+- [SUM 27](tnu-sum-27.md) — Situação não informada
+- [SUM 28](tnu-sum-28.md) — Situação não informada
+- [SUM 29](tnu-sum-29.md) — Situação não informada
+- [SUM 30](tnu-sum-30.md) — Situação não informada
+- [SUM 31](tnu-sum-31.md) — Situação não informada
+- [SUM 32](tnu-sum-32.md) — Cancelada
+- [SUM 33](tnu-sum-33.md) — Situação não informada
+- [SUM 34](tnu-sum-34.md) — Situação não informada
+- [SUM 35](tnu-sum-35.md) — Situação não informada
+- [SUM 36](tnu-sum-36.md) — Situação não informada
+- [SUM 37](tnu-sum-37.md) — Situação não informada
+- [SUM 38](tnu-sum-38.md) — Situação não informada
+- [SUM 39](tnu-sum-39.md) — Situação não informada
+- [SUM 40](tnu-sum-40.md) — Situação não informada
+- [SUM 41](tnu-sum-41.md) — Situação não informada
+- [SUM 42](tnu-sum-42.md) — Situação não informada
+- [SUM 43](tnu-sum-43.md) — Situação não informada
+- [SUM 44](tnu-sum-44.md) — Situação não informada
+- [SUM 45](tnu-sum-45.md) — Situação não informada
+- [SUM 46](tnu-sum-46.md) — Situação não informada
+- [SUM 47](tnu-sum-47.md) — Situação não informada
+- [SUM 48](tnu-sum-48.md) — Alterada
+- [SUM 49](tnu-sum-49.md) — Situação não informada
+- [SUM 50](tnu-sum-50.md) — Situação não informada
+- [SUM 51](tnu-sum-51.md) — Cancelada
+- [SUM 52](tnu-sum-52.md) — Situação não informada
+- [SUM 53](tnu-sum-53.md) — Situação não informada
+- [SUM 54](tnu-sum-54.md) — Situação não informada
+- [SUM 55](tnu-sum-55.md) — Situação não informada
+- [SUM 56](tnu-sum-56.md) — Situação não informada
+- [SUM 57](tnu-sum-57.md) — Situação não informada
+- [SUM 58](tnu-sum-58.md) — Situação não informada
+- [SUM 59](tnu-sum-59.md) — Situação não informada
+- [SUM 60](tnu-sum-60.md) — Cancelada
+- [SUM 61](tnu-sum-61.md) — Cancelada
+- [SUM 62](tnu-sum-62.md) — Situação não informada
+- [SUM 63](tnu-sum-63.md) — Alterada
+- [SUM 64](tnu-sum-64.md) — Cancelada
+- [SUM 65](tnu-sum-65.md) — Situação não informada
+- [SUM 66](tnu-sum-66.md) — Situação não informada
+- [SUM 67](tnu-sum-67.md) — Situação não informada
+- [SUM 68](tnu-sum-68.md) — Situação não informada
+- [SUM 69](tnu-sum-69.md) — Situação não informada
+- [SUM 70](tnu-sum-70.md) — Situação não informada
+- [SUM 71](tnu-sum-71.md) — Situação não informada
+- [SUM 72](tnu-sum-72.md) — Situação não informada
+- [SUM 73](tnu-sum-73.md) — Situação não informada
+- [SUM 74](tnu-sum-74.md) — Situação não informada
+- [SUM 75](tnu-sum-75.md) — Situação não informada
+- [SUM 76](tnu-sum-76.md) — Situação não informada
+- [SUM 77](tnu-sum-77.md) — Situação não informada
+- [SUM 78](tnu-sum-78.md) — Situação não informada
+- [SUM 79](tnu-sum-79.md) — Situação não informada
+- [SUM 80](tnu-sum-80.md) — Situação não informada
+- [SUM 81](tnu-sum-81.md) — Alterada
+- [SUM 82](tnu-sum-82.md) — Situação não informada
+- [SUM 83](tnu-sum-83.md) — Situação não informada
+- [SUM 84](tnu-sum-84.md) — Situação não informada
+- [SUM 85](tnu-sum-85.md) — Situação não informada
+- [SUM 86](tnu-sum-86.md) — Cancelada
+- [SUM 87](tnu-sum-87.md) — Situação não informada
+- [SUM 88](tnu-sum-88.md) — Situação não informada
+- [SUM 89](tnu-sum-89.md) — Situação não informada
