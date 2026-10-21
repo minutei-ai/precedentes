@@ -16,4 +16,20 @@ O piso salarial nacional dos professores deverá corresponder à remuneração g
 
 - 02788375220138090051
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 71 - Piso salarial de professores
+
+**Identificação no catálogo:** 71
+
+**Atualização no TJDocs:** 06/04/2026 18:10:02
+
+Piso salarial nacional dos professores - correspondência Lei Federal n.º 11.738/2008, em 1º de janeiro de 2009, até a data de julgamento da ADI 4.167- 3/DF , pelo STF (27/04/2011). Publicada no Diário de Justiça Eletrônico, edição nº 2596, de 26/09/2018.
+
+[Consultar documento 496604 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/496604)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

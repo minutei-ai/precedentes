@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.634 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.636 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -61,6 +61,7 @@
 | [TJPE — Compilação: súmulas 173 a 200 e OJs 1 a 62 do Órgão Especial](https://portal.tjpe.jus.br/documents/10180/0/-/3b00bf2c-3a6a-8e76-0315-da03cb32145f) | 90 | 63 | 27 |
 | [TJPE — Enunciados Administrativos da Seção de Direito Público, junho de 2026](https://portal.tjpe.jus.br/documents/10180/0/-/90bbec0a-acf7-b580-6bac-884a90d8682b) | 41 | 41 | 0 |
 | [TJPE — Súmulas da Turma Estadual de Uniformização de Jurisprudência](https://portal.tjpe.jus.br/servicos/consulta/sumulas) | 13 | 13 | 0 |
+| [TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome) | 85 | 2 | 83 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -124,6 +125,10 @@ O TJPE também inclui 41 Enunciados Administrativos da Seção de Direito Públi
 
 As 13 súmulas da Turma Estadual de Uniformização do TJPE ficam na série SUM-TEUJ, distinta das súmulas gerais do tribunal. Os PDFs mantêm enunciados, referências e publicações; a nº 13 registra publicações de janeiro de 2026. O aviso de cancelamento da nº 5 vem do catálogo, enquanto seu PDF preserva a redação histórica. A página da nº 7 tem trechos em imagem: a transcrição foi conferida visualmente no PDF oficial, é identificada no Markdown e tem vínculo de integridade com o documento capturado. São 54 novos registros nessas duas séries, sem duplicar as espécies existentes no BNP.
 
+O TJGO foi conciliado com a pasta pública de súmulas do Órgão Especial no TJDocs: 85 documentos, conferidos em cinco páginas, com 85 identificadores únicos e releitura da primeira página. Mantemos títulos, descrições, situações e datas de alteração do catálogo, com links estáveis para cada documento. Essas descrições não foram atribuídas como tese integral; a coleta e conferência dos PDFs continuam pendentes. O arquivo consultado da nº 1-A contém texto em imagem, sem extração textual suficiente.
+
+São 83 correspondências com o BNP e dois registros novos: a nº 75 e o documento histórico nº 1 sobre penhora eletrônica de verba salarial, cuja situação no catálogo é “Exaurido”. A identificação 1-A no TJDocs corresponde ao texto sobre vinculação do salário mínimo que o BNP apresenta como nº 1; essa correspondência foi conferida pelo texto e pelo documento oficial, preservando o identificador já publicado. O antigo enunciado sobre penhora tem matéria distinta e fica sob o identificador imutável do seu documento oficial. Não agrupamos esses dois documentos apenas porque o campo numérico do catálogo informa 1.
+
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
 ## BNP por órgão
@@ -152,7 +157,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJCE](tribunais/TJCE/) | 96 | 17 | 17 |
 | [TJDF](tribunais/TJDF/) | 70 | 41 | 41 |
 | [TJES](tribunais/TJES/) | 162 | 162 | 162 |
-| [TJGO](tribunais/TJGO/) | 151 | 151 | 151 |
+| [TJGO](tribunais/TJGO/) | 153 | 151 | 151 |
 | [TJMA](tribunais/TJMA/) | 23 | 23 | 23 |
 | [TJMT](tribunais/TJMT/) | 29 | 29 | 29 |
 | [TJMS](tribunais/TJMS/) | 33 | 33 | 33 |
@@ -255,6 +260,8 @@ O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou
 Os catálogos próprios dos TRT22 e TRT23 ainda não foram conciliados. O TRT22 respondeu HTTP 403 na consulta direta; o coletor nativo encontrou uma funcionalidade de quadros não suportada. O portal do TRT23 exibiu aviso de manutenção programada, sem catálogo de súmulas. Essas respostas não foram tratadas como ausência de precedentes.
 
 Os catálogos próprios de súmulas do TRF2 e TRF4 também continuam pendentes. O TRF2 respondeu HTTP 503 na consulta direta e no coletor nativo. Os endereços do TRF4 indicados por publicações oficiais retornaram HTTP 404 nesta consulta; não foi validado um catálogo atual.
+
+O catálogo do TJBA ainda não foi conciliado: o endereço consultado retornou HTTP 404 tanto na consulta direta quanto no coletor nativo. O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
 
 As súmulas do TJRJ ainda não foram incorporadas: seu catálogo direto não foi validado nesta coleta. Isso não significa que o tribunal não tenha súmulas.
 

@@ -16,4 +16,20 @@ Não há se falar em incidência do princípio da anterioridade anual, no que co
 
 - 50639587720228090000
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 78 - Não há que se falar em incidência do princípio da anterioridade anual, no que concerne à nova sistemática imposta pela LC 190/22, referente ao DIFAL, porquanto não cria ou aumenta tributo - CANCELADA
+
+**Identificação no catálogo:** 78
+
+**Atualização no TJDocs:** 15/07/2025 16:22:04
+
+CANCELADA POR DECISÃO DO ÓRGÃO ESPECIAL, NA SESSÃO ORDINÁRIA DO DIA 26/03/2025
+
+[Consultar documento 650224 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/650224)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

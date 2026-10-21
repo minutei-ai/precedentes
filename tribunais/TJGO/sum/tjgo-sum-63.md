@@ -16,4 +16,20 @@ Os empréstimos concedidos na modalidade Cartão de Crédito Consignado são
 
 - 02044387020158090087
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 63 - Empréstimos concedidos na modalidade Cartão de Crédito consignado - Abusividade
+
+**Identificação no catálogo:** 63
+
+**Atualização no TJDocs:** 06/04/2026 18:15:47
+
+Empréstimos concedidos na modalidade “Cartão de Crédito Consignado” - Abusividade - Publicada no Diário de Justiça Eletrônico, edição nº 2596, de 26/09/2018.
+
+[Consultar documento 496596 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/496596)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

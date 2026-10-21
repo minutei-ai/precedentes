@@ -16,4 +16,20 @@ A validade de exame psicotécnico em concurso público está ligada à previsão
 
 - 04056744320158090000
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 41 - Validade de exame psicotécnico em concurso público
+
+**Identificação no catálogo:** 41
+
+**Atualização no TJDocs:** 06/04/2026 17:49:32
+
+Validade de exame psicotécnico em concurso público. Publicada no Diário de Justiça Eletrônico, edição nº 2120, de 28/09/2016.
+
+[Consultar documento 435175 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/435175)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -16,4 +16,20 @@ Nas ações revisionais, não caracteriza pedido genérico a conduta do autor qu
 
 - 52943324620168090051
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 54 - Ações revisionais - Pedido genérico
+
+**Identificação no catálogo:** 54
+
+**Atualização no TJDocs:** 06/04/2026 16:52:36
+
+Nas Ações Revisionais não caracteriza pedido genérico a conduta do autor que, na exordial, discrimina o importe financeiro e a forma de pagamento contratada. Publicada no Diário de Justiça Eletrônico, edição nº 2596, de 26/09/2018.
+
+[Consultar documento 496587 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/496587)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

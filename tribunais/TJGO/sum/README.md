@@ -1,8 +1,9 @@
 # TJGO · Súmula
 
-**83 registros.** [Voltar ao tribunal](../)
+**85 registros.** [Voltar ao tribunal](../)
 
 - [SUM 1](tjgo-sum-1.md) — Vigente
+- [SUM 1](tjgo-tjdocs-915155.md) — Exaurido
 - [SUM 2](tjgo-sum-2.md) — Vigente
 - [SUM 3](tjgo-sum-3.md) — Vigente
 - [SUM 4](tjgo-sum-4.md) — Vigente
@@ -76,6 +77,7 @@
 - [SUM 72](tjgo-sum-72.md) — Vigente
 - [SUM 73](tjgo-sum-73.md) — Vigente
 - [SUM 74](tjgo-sum-74.md) — Vigente
+- [SUM 75](tjgo-tjdocs-629779.md) — Vigente
 - [SUM 76](tjgo-sum-76.md) — Revisado
 - [SUM 77](tjgo-sum-77.md) — Vigente
 - [SUM 78](tjgo-sum-78.md) — Vigente

@@ -16,4 +16,20 @@ Não é possível o pagamento das diferenças vencimentais resultantes da aplica
 
 - 02545614220158090000
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 12 - Não é possível o pagamento das diferenças vencimentais resultantes da aplicação do texto original do art. 7º, §2º, da Lei nº 7
+
+**Identificação no catálogo:** 12
+
+**Atualização no TJDocs:** 06/04/2026 15:14:26
+
+Não é possível o pagamento das diferenças vencimentais resultantes da aplicação do texto original do art. 7º, §2º, da Lei nº 7.997/2000. Publicada no Diário de Justiça Eletrônico, Edição nº 1.979, de 1º/03/2016
+
+[Consultar documento 367330 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/367330)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

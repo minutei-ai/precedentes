@@ -16,4 +16,20 @@ Desnecessária a intimação do consumidor para juntar o contrato de consumo dia
 
 - 03721258320158090051
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 60 - Desnecessária intimação do consumidor para juntar o contrato de consumo diante da possibilidade de inversão do ônus da prova
+
+**Identificação no catálogo:** 60
+
+**Atualização no TJDocs:** 06/04/2026 18:17:14
+
+Desnecessária intimação do consumidor para juntar o contrato de consumo diante da possibilidade de inversão do ônus da prova. Publicada no Diário de Justiça Eletrônico, edição nº 2596, de 26/09/2018.
+
+[Consultar documento 496593 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/496593)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

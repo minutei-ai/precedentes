@@ -16,4 +16,20 @@ Não se admite a tese de doença preexistente como negativa do pagamento de segu
 
 - 00021873420118090142
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 14 - Não se admite tese de doença preexistente como negativa de pagamento de seguro de vida
+
+**Identificação no catálogo:** 14
+
+**Atualização no TJDocs:** 06/04/2026 15:19:48
+
+Não se admite a tese de doença preexistente como negativa do pagamento de seguro de vida individual ou em grupo se a seguradora não exigiu a realização de exame prévio p segurado. Publicada no Diário de Justiça Eletrônico,edição nº 2120,de 28/09/16
+
+[Consultar documento 435148 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/435148)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

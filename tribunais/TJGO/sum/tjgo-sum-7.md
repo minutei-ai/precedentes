@@ -16,4 +16,20 @@ Não constitui óbice à concessão de gratificação de risco de vida aos servi
 
 - 02289810420108090091
 
+## Outra fonte oficial
+
+[TJGO — TJDocs, catálogo de súmulas do Órgão Especial (descrições)](https://tjdocs.tjgo.jus.br/pastas/1474?order=asc&sort=nome)
+
+### Informações do catálogo oficial
+
+**Título no TJDocs:** Súmula nº 07 - Gratificação de risco vida - Vigilante sanitario
+
+**Identificação no catálogo:** 7
+
+**Atualização no TJDocs:** 06/04/2026 15:10:00
+
+Gratificação de risco vida - Vigilante sanitário. Publicada no Diário de Justiça Eletrônico, Edição nº 1.637, de 25/09/2014.
+
+[Consultar documento 435182 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/435182)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
