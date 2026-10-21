@@ -12,4 +12,12 @@
 
 Não se conhece de habeas corpus quando a impetração não identifica o paciente por qualquer meio e o impetrante permanece inerte, mesmo após intimado a suprir a deficiência.
 
+## Outra fonte oficial
+
+[TJPA — Súmulas Anotadas: Direito Processual Penal](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/336244-Direito-Processual-Penal.xhtml)
+
+### Texto
+
+**Súmula nº 11** **(Res.006/2013** **– DJ. Nº 5328/2013, 19/8/2013)****:** Não se conhece de habeas corpus quando a impetração não identifica o paciente por qualquer meio e o impetrante permanece inerte, mesmo após intimado a suprir a deficiência. (Súmula n. 11, Sessão do Tribunal Pleno, aprovado em 14/8/2013.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

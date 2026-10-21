@@ -83,6 +83,12 @@
 | [TJAM — Súmulas de Direito Administrativo](https://www.tjam.jus.br/index.php/consultas-nugep/enunciados-de-sumula/direito-administrativo?showall=1) | 1 | 0 | 1 |
 | [TJAM — Súmulas de Direito Penal](https://www.tjam.jus.br/index.php/consultas-nugep/enunciados-de-sumula/direito-penal?showall=1) | 4 | 0 | 4 |
 | [TJAM — Súmulas de Direito Processual Penal](https://www.tjam.jus.br/index.php/consultas-nugep/enunciados-de-sumula/direito-processual-penal?showall=1) | 16 | 0 | 16 |
+| [TJPA — Súmulas Anotadas: Direito Administrativo](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/331244-Direito-Administrativo.xhtml) | 3 | 0 | 3 |
+| [TJPA — Súmulas Anotadas: Direito Civil](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/331248-Direito-Civil.xhtml) | 1 | 0 | 1 |
+| [TJPA — Súmulas Anotadas: Direito do Consumidor](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/331249-Direito-do-Consumidor.xhtml) | 4 | 0 | 4 |
+| [TJPA — Súmulas Anotadas: Direito Penal](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/331256-Direito-Penal.xhtml) | 10 | 0 | 10 |
+| [TJPA — Súmulas Anotadas: Direito Processual Civil](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/331266-Direito-Processual-Civil.xhtml) | 5 | 0 | 5 |
+| [TJPA — Súmulas Anotadas: Direito Processual Penal](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/336244-Direito-Processual-Penal.xhtml) | 9 | 0 | 9 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -103,6 +109,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+As 32 súmulas do TJPA foram conciliadas com as seis áreas do catálogo de Súmulas Anotadas: Direito Administrativo, Civil, do Consumidor, Penal, Processual Civil e Processual Penal. Todas correspondem aos identificadores já publicados pelo BNP, sem acréscimo à contagem. Foram preservados os textos apresentados no catálogo e coletadas as 26 páginas de anotações vinculadas, com os precedentes, excertos, referências legislativas e links oficiais disponíveis em cada uma. As nºs 1, 2, 3, 4, 10 e 11 têm texto no catálogo, mas não têm página de anotações vinculada.
+
+A coleta do TJPA verifica o conteúdo e os endereços do catálogo novamente ao fim de cada área, confere a identidade das anotações e pode retomar documentos capturados com verificação de integridade. Os PDFs de inteiro teor dos acórdãos citados não foram coletados neste lote; a presença de um link não comprova sua disponibilidade atual. A plataforma PUJ e eventuais publicações posteriores não estão abrangidas por esta conciliação.
 
 As 28 súmulas do TJAM foram conciliadas com quatro páginas oficiais do NUGEPAC, em Direito Processual Civil, Administrativo, Penal e Processual Penal. Os textos e as situações informadas pelo portal foram conferidos e os metadados de relatoria, órgão julgador, processos públicos, distribuição, admissibilidade, julgamento, publicação, trânsito, baixa e observações foram mantidos com atribuição própria. Todos os 28 identificadores já estavam no BNP, sem acréscimo à contagem por causa da segunda fonte.
 

@@ -12,4 +12,12 @@
 
 Não há constrangimento ilegal, por excesso de prazo, se a decisão de pronúncia foi prolatada.
 
+## Outra fonte oficial
+
+[TJPA — Súmulas Anotadas: Direito Processual Penal](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/336244-Direito-Processual-Penal.xhtml)
+
+### Texto
+
+**Súmula nº 2**: Não há constrangimento ilegal, por excesso de prazo, se a decisão de pronúncia foi prolatada.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

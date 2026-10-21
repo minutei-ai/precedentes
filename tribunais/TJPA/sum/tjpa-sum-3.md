@@ -12,4 +12,12 @@
 
 Não se concede Habeas Corpus, sob pálio de constrangimento ilegal por excesso de prazo, se o retardo da instrução decorreu de ações ou omissões da defesa.
 
+## Outra fonte oficial
+
+[TJPA — Súmulas Anotadas: Direito Processual Penal](https://www.tjpa.jus.br/PortalExterno/institucional/Sumulas-Anotadas/336244-Direito-Processual-Penal.xhtml)
+
+### Texto
+
+**Súmula nº 3:** Não se concede Habeas Corpus, sob pálio de constrangimento ilegal por excesso de prazo, se o retardo da instrução decorreu de ações ou omissões da defesa.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
