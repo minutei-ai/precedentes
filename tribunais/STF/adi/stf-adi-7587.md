@@ -1,0 +1,21 @@
+# STF · ADI 7587
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 7587
+- **Identificador na fonte:** `stf-adi-7587`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 15/09/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7587)
+
+## Ementa
+
+Ementa: Direito tributário. Ação direta de inconstitucionalidade. Perda parcial de objeto. Compensação tributária. Limitação relativa a créditos decorrentes de decisões judiciais transitadas em julgado. Ausência de violação à coisa julgada e ao direito de propriedade. Princípio da legalidade. Parâmetros da atuação administrativa suficientemente definidos na lei. Ação conhecida em parte e julgada improcedente. I. Caso em exame 1. Ações Diretas de Inconstitucionalidade nº 7.587 e 7.609, ajuizadas contra dispositivos da Medida Provisória nº 1.202/2023, que tratavam da desoneração parcial da contribuição previdenciária sobre a folha de pagamento, revogação da alíquota reduzida da contribuição previdenciária para municípios, limitação da compensação de créditos decorrentes de decisões judiciais transitadas em julgado e extinção do benefício fiscal instituído pelo PERSE. O objeto foi aditado para incluir a Lei nº 14.873/2024. 2. Perda parcial do objeto das ações em virtude da revogação de diversos dispositivos da Medida Provisória nº 1.202/2023 pela Medida Provisória nº 1.208/2024, pela decisão do Presidente do Congresso Nacional que encerrou a vigência de outros dispositivos, e pela Lei nº 14.859/2024, que revogou o art. 6º, I, da MP 1.202/2023. O objeto remanescente se refere aos artigos 4º e 5º da MP 1.202/2023, convertidos nos artigos 1º e 2º da Lei nº 14.873/2024. II. Questão em discussão 3. A questão em discussão consiste em saber se a limitação da compensação de créditos decorrentes de decisões judiciais transitadas em julgado, estabelecida pelos artigos 4º e 5º da MP 1.202/2023, convertidos nos artigos 1º e 2º da Lei nº 14.873/2024, viola o direito de propriedade, a coisa julgada e o princípio da legalidade. III. Razões de decidir 4. A jurisprudência do Supremo Tribunal Federal reconhece a possibilidade de a lei ordinária estabelecer limites quantitativos e temporais para a compensação tributária prevista no art. 170 do CTN, sem que se configure violação ao direito de propriedade. 5. A decisão judicial que reconhece um crédito contra a Fazenda Pública estabelece o direito material, mas a forma de sua utilização para compensação de débitos tributários deve seguir o regime legalmente previsto. 6. A Lei nº 14.873/2024 estabeleceu os parâmetros fundamentais da limitação à compensação, entre eles o valor mínimo sobre o qual podem incidir as restrições autorizadas. Observados os balizamentos legais, não viola o princípio da legalidade a atribuição de competência ao Ministro de Estado da Fazenda para fixar o limite mensal permitido às compensações. IV. Dispositivo 7. Ações Diretas de Inconstitucionalidade parcialmente conhecidas e, nessa extensão, julgadas improcedentes. \_\_\_\_\_\_\_\_\_ Dispositivos relevantes citados: CF/1988, art. 5º, XXII, XXXVI; CTN, arts. 156, II, 170; Lei nº 9.430/1996, art. 74-A; Lei nº 14.873/2024, arts. 1º, 2º. Jurisprudência relevante citada: STF, RE 917285, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 6/10/2020; STF, AI 525712 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 16/9/2014; STF, ARE 715214 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 10/2/2014; STF, RE 601967, Rel. p/ Acórdão Min. Alexandre de Moraes, Tribunal Pleno, DJe 4/9/2020; STF, ADI 4923, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 5/4/2018, STF, RE 343446, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 4/4/2003.
+
+## Decisão
+
+O Tribunal, por unanimidade, conheceu em parte das ações diretas de inconstitucionalidade (ADIs 7.587 e 7.609) e, nessa extensão, as julgou improcedentes, nos termos do voto do Relator, Ministro Cristiano Zanin. Falou, pelo amicus curiae Confederação Nacional da Indústria – CNI, o Dr. Gustavo do Amaral Martins. Plenário, Sessão Virtual de 4.9.2026 a 14.9.2026.
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=801249581)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

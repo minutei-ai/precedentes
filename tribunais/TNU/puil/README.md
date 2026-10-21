@@ -1,0 +1,398 @@
+# TNU · Pedido de Uniformização de Interpretação de Lei
+
+**394 registros.** [Voltar ao tribunal](../)
+
+- [PUIL 1](tnu-puil-1.md) — Transitado em julgado
+- [PUIL 2](tnu-puil-2.md) — Transitado em julgado
+- [PUIL 3](tnu-puil-3.md) — Transitado em julgado
+- [PUIL 4](tnu-puil-4.md) — Transitado em julgado
+- [PUIL 5](tnu-puil-5.md) — Transitado em julgado
+- [PUIL 6](tnu-puil-6.md) — Transitado em julgado
+- [PUIL 7](tnu-puil-7.md) — Transitado em julgado
+- [PUIL 8](tnu-puil-8.md) — Transitado em julgado
+- [PUIL 9](tnu-puil-9.md) — Transitado em julgado
+- [PUIL 10](tnu-puil-10.md) — Transitado em julgado
+- [PUIL 11](tnu-puil-11.md) — Transitado em julgado
+- [PUIL 12](tnu-puil-12.md) — Transitado em julgado
+- [PUIL 13](tnu-puil-13.md) — Transitado em julgado
+- [PUIL 14](tnu-puil-14.md) — Transitado em julgado
+- [PUIL 15](tnu-puil-15.md) — Transitado em julgado
+- [PUIL 16](tnu-puil-16.md) — Transitado em julgado
+- [PUIL 17](tnu-puil-17.md) — Transitado em julgado
+- [PUIL 18](tnu-puil-18.md) — Transitado em julgado
+- [PUIL 19](tnu-puil-19.md) — Transitado em julgado
+- [PUIL 20](tnu-puil-20.md) — Transitado em julgado
+- [PUIL 21](tnu-puil-21.md) — Transitado em julgado
+- [PUIL 22](tnu-puil-22.md) — Transitado em julgado
+- [PUIL 23](tnu-puil-23.md) — Transitado em julgado
+- [PUIL 24](tnu-puil-24.md) — Transitado em julgado
+- [PUIL 25](tnu-puil-25.md) — Transitado em julgado
+- [PUIL 26](tnu-puil-26.md) — Transitado em julgado
+- [PUIL 27](tnu-puil-27.md) — Transitado em julgado
+- [PUIL 28](tnu-puil-28.md) — Transitado em julgado
+- [PUIL 29](tnu-puil-29.md) — Transitado em julgado
+- [PUIL 30](tnu-puil-30.md) — Admitido
+- [PUIL 31](tnu-puil-31.md) — Revisado
+- [PUIL 32](tnu-puil-32.md) — Transitado em julgado
+- [PUIL 33](tnu-puil-33.md) — Transitado em julgado
+- [PUIL 34](tnu-puil-34.md) — Transitado em julgado
+- [PUIL 35](tnu-puil-35.md) — Transitado em julgado
+- [PUIL 36](tnu-puil-36.md) — Transitado em julgado
+- [PUIL 37](tnu-puil-37.md) — Transitado em julgado
+- [PUIL 38](tnu-puil-38.md) — Transitado em julgado
+- [PUIL 39](tnu-puil-39.md) — Transitado em julgado
+- [PUIL 40](tnu-puil-40.md) — Transitado em julgado
+- [PUIL 41](tnu-puil-41.md) — Transitado em julgado
+- [PUIL 42](tnu-puil-42.md) — Transitado em julgado
+- [PUIL 43](tnu-puil-43.md) — Transitado em julgado
+- [PUIL 44](tnu-puil-44.md) — Transitado em julgado
+- [PUIL 45](tnu-puil-45.md) — Transitado em julgado
+- [PUIL 46](tnu-puil-46.md) — Transitado em julgado
+- [PUIL 47](tnu-puil-47.md) — Transitado em julgado
+- [PUIL 48](tnu-puil-48.md) — Transitado em julgado
+- [PUIL 49](tnu-puil-49.md) — Transitado em julgado
+- [PUIL 50](tnu-puil-50.md) — Transitado em julgado
+- [PUIL 51](tnu-puil-51.md) — Transitado em julgado
+- [PUIL 52](tnu-puil-52.md) — Transitado em julgado
+- [PUIL 53](tnu-puil-53.md) — Transitado em julgado
+- [PUIL 54](tnu-puil-54.md) — Transitado em julgado
+- [PUIL 55](tnu-puil-55.md) — Transitado em julgado
+- [PUIL 56](tnu-puil-56.md) — Transitado em julgado
+- [PUIL 57](tnu-puil-57.md) — Transitado em julgado
+- [PUIL 58](tnu-puil-58.md) — Transitado em julgado
+- [PUIL 59](tnu-puil-59.md) — Transitado em julgado
+- [PUIL 60](tnu-puil-60.md) — Transitado em julgado
+- [PUIL 61](tnu-puil-61.md) — Transitado em julgado
+- [PUIL 62](tnu-puil-62.md) — Mérito julgado
+- [PUIL 63](tnu-puil-63.md) — Transitado em julgado
+- [PUIL 64](tnu-puil-64.md) — Transitado em julgado
+- [PUIL 65](tnu-puil-65.md) — Transitado em julgado
+- [PUIL 66](tnu-puil-66.md) — Cancelado
+- [PUIL 67](tnu-puil-67.md) — Revisado
+- [PUIL 68](tnu-puil-68.md) — Transitado em julgado
+- [PUIL 69](tnu-puil-69.md) — Transitado em julgado
+- [PUIL 70](tnu-puil-70.md) — Transitado em julgado
+- [PUIL 71](tnu-puil-71.md) — Transitado em julgado
+- [PUIL 72](tnu-puil-72.md) — Transitado em julgado
+- [PUIL 73](tnu-puil-73.md) — Transitado em julgado
+- [PUIL 74](tnu-puil-74.md) — Transitado em julgado
+- [PUIL 75](tnu-puil-75.md) — Transitado em julgado
+- [PUIL 76](tnu-puil-76.md) — Transitado em julgado
+- [PUIL 77](tnu-puil-77.md) — Transitado em julgado
+- [PUIL 78](tnu-puil-78.md) — Transitado em julgado
+- [PUIL 79](tnu-puil-79.md) — Transitado em julgado
+- [PUIL 80](tnu-puil-80.md) — Transitado em julgado
+- [PUIL 81](tnu-puil-81.md) — Transitado em julgado
+- [PUIL 82](tnu-puil-82.md) — Transitado em julgado
+- [PUIL 83](tnu-puil-83.md) — Transitado em julgado
+- [PUIL 84](tnu-puil-84.md) — Transitado em julgado
+- [PUIL 85](tnu-puil-85.md) — Transitado em julgado
+- [PUIL 86](tnu-puil-86.md) — Transitado em julgado
+- [PUIL 87](tnu-puil-87.md) — Admitido
+- [PUIL 88](tnu-puil-88.md) — Cancelado
+- [PUIL 89](tnu-puil-89.md) — Transitado em julgado
+- [PUIL 90](tnu-puil-90.md) — Transitado em julgado
+- [PUIL 91](tnu-puil-91.md) — Transitado em julgado
+- [PUIL 92](tnu-puil-92.md) — Transitado em julgado
+- [PUIL 93](tnu-puil-93.md) — Transitado em julgado
+- [PUIL 94](tnu-puil-94.md) — Transitado em julgado
+- [PUIL 95](tnu-puil-95.md) — Transitado em julgado
+- [PUIL 96](tnu-puil-96.md) — Transitado em julgado
+- [PUIL 97](tnu-puil-97.md) — Transitado em julgado
+- [PUIL 98](tnu-puil-98.md) — Transitado em julgado
+- [PUIL 99](tnu-puil-99.md) — Transitado em julgado
+- [PUIL 100](tnu-puil-100.md) — Admitido
+- [PUIL 101](tnu-puil-101.md) — Transitado em julgado
+- [PUIL 102](tnu-puil-102.md) — Transitado em julgado
+- [PUIL 103](tnu-puil-103.md) — Transitado em julgado
+- [PUIL 104](tnu-puil-104.md) — Transitado em julgado
+- [PUIL 105](tnu-puil-105.md) — Transitado em julgado
+- [PUIL 106](tnu-puil-106.md) — Transitado em julgado
+- [PUIL 107](tnu-puil-107.md) — Transitado em julgado
+- [PUIL 108](tnu-puil-108.md) — Transitado em julgado
+- [PUIL 109](tnu-puil-109.md) — Revisado
+- [PUIL 110](tnu-puil-110.md) — Transitado em julgado
+- [PUIL 111](tnu-puil-111.md) — Admitido
+- [PUIL 112](tnu-puil-112.md) — Transitado em julgado
+- [PUIL 113](tnu-puil-113.md) — Transitado em julgado
+- [PUIL 114](tnu-puil-114.md) — Transitado em julgado
+- [PUIL 115](tnu-puil-115.md) — Transitado em julgado
+- [PUIL 116](tnu-puil-116.md) — Cancelado
+- [PUIL 117](tnu-puil-117.md) — Transitado em julgado
+- [PUIL 118](tnu-puil-118.md) — Transitado em julgado
+- [PUIL 119](tnu-puil-119.md) — Transitado em julgado
+- [PUIL 120](tnu-puil-120.md) — Transitado em julgado
+- [PUIL 121](tnu-puil-121.md) — Transitado em julgado
+- [PUIL 122](tnu-puil-122.md) — Transitado em julgado
+- [PUIL 123](tnu-puil-123.md) — Admitido
+- [PUIL 124](tnu-puil-124.md) — Revisado
+- [PUIL 125](tnu-puil-125.md) — Cancelado
+- [PUIL 126](tnu-puil-126.md) — Revisado
+- [PUIL 127](tnu-puil-127.md) — Transitado em julgado
+- [PUIL 128](tnu-puil-128.md) — Revisado
+- [PUIL 129](tnu-puil-129.md) — Cancelado
+- [PUIL 130](tnu-puil-130.md) — Transitado em julgado
+- [PUIL 131](tnu-puil-131.md) — Sobrestado por tema do STF
+- [PUIL 132](tnu-puil-132.md) — Transitado em julgado
+- [PUIL 133](tnu-puil-133.md) — Cancelado
+- [PUIL 134](tnu-puil-134.md) — Transitado em julgado
+- [PUIL 135](tnu-puil-135.md) — Transitado em julgado
+- [PUIL 136](tnu-puil-136.md) — Transitado em julgado
+- [PUIL 137](tnu-puil-137.md) — Transitado em julgado
+- [PUIL 138](tnu-puil-138.md) — Transitado em julgado
+- [PUIL 139](tnu-puil-139.md) — Transitado em julgado
+- [PUIL 140](tnu-puil-140.md) — Transitado em julgado
+- [PUIL 141](tnu-puil-141.md) — Transitado em julgado
+- [PUIL 142](tnu-puil-142.md) — Transitado em julgado
+- [PUIL 143](tnu-puil-143.md) — Sobrestado por tema do STF
+- [PUIL 144](tnu-puil-144.md) — Transitado em julgado
+- [PUIL 145](tnu-puil-145.md) — Transitado em julgado
+- [PUIL 146](tnu-puil-146.md) — Cancelado
+- [PUIL 147](tnu-puil-147.md) — Transitado em julgado
+- [PUIL 148](tnu-puil-148.md) — Transitado em julgado
+- [PUIL 149](tnu-puil-149.md) — Transitado em julgado
+- [PUIL 150](tnu-puil-150.md) — Transitado em julgado
+- [PUIL 151](tnu-puil-151.md) — Transitado em julgado
+- [PUIL 152](tnu-puil-152.md) — Cancelado
+- [PUIL 153](tnu-puil-153.md) — Transitado em julgado
+- [PUIL 154](tnu-puil-154.md) — Transitado em julgado
+- [PUIL 155](tnu-puil-155.md) — Transitado em julgado
+- [PUIL 156](tnu-puil-156.md) — Cancelado
+- [PUIL 157](tnu-puil-157.md) — Transitado em julgado
+- [PUIL 158](tnu-puil-158.md) — Transitado em julgado
+- [PUIL 159](tnu-puil-159.md) — Transitado em julgado
+- [PUIL 160](tnu-puil-160.md) — Revisado
+- [PUIL 161](tnu-puil-161.md) — Cancelado
+- [PUIL 162](tnu-puil-162.md) — Transitado em julgado
+- [PUIL 163](tnu-puil-163.md) — Sobrestado (outro motivo)
+- [PUIL 164](tnu-puil-164.md) — Transitado em julgado
+- [PUIL 165](tnu-puil-165.md) — Transitado em julgado
+- [PUIL 166](tnu-puil-166.md) — Transitado em julgado
+- [PUIL 167](tnu-puil-167.md) — Transitado em julgado
+- [PUIL 168](tnu-puil-168.md) — Transitado em julgado
+- [PUIL 169](tnu-puil-169.md) — Transitado em julgado
+- [PUIL 170](tnu-puil-170.md) — Transitado em julgado
+- [PUIL 171](tnu-puil-171.md) — Transitado em julgado
+- [PUIL 172](tnu-puil-172.md) — Sobrestado por tema do STF
+- [PUIL 173](tnu-puil-173.md) — Transitado em julgado
+- [PUIL 174](tnu-puil-174.md) — Admitido
+- [PUIL 175](tnu-puil-175.md) — Transitado em julgado
+- [PUIL 176](tnu-puil-176.md) — Transitado em julgado
+- [PUIL 177](tnu-puil-177.md) — Transitado em julgado
+- [PUIL 178](tnu-puil-178.md) — Transitado em julgado
+- [PUIL 179](tnu-puil-179.md) — Transitado em julgado
+- [PUIL 180](tnu-puil-180.md) — Transitado em julgado
+- [PUIL 181](tnu-puil-181.md) — Transitado em julgado
+- [PUIL 182](tnu-puil-182.md) — Transitado em julgado
+- [PUIL 183](tnu-puil-183.md) — Transitado em julgado
+- [PUIL 184](tnu-puil-184.md) — Transitado em julgado
+- [PUIL 185](tnu-puil-185.md) — Transitado em julgado
+- [PUIL 186](tnu-puil-186.md) — Transitado em julgado
+- [PUIL 187](tnu-puil-187.md) — Transitado em julgado
+- [PUIL 188](tnu-puil-188.md) — Transitado em julgado
+- [PUIL 189](tnu-puil-189.md) — ADMITIDO_POSSIVEL_REVISAO_TESE
+- [PUIL 190](tnu-puil-190.md) — Transitado em julgado
+- [PUIL 191](tnu-puil-191.md) — Cancelado
+- [PUIL 192](tnu-puil-192.md) — Transitado em julgado
+- [PUIL 193](tnu-puil-193.md) — Transitado em julgado
+- [PUIL 194](tnu-puil-194.md) — Transitado em julgado
+- [PUIL 195](tnu-puil-195.md) — Transitado em julgado
+- [PUIL 196](tnu-puil-196.md) — Transitado em julgado
+- [PUIL 197](tnu-puil-197.md) — Cancelado
+- [PUIL 198](tnu-puil-198.md) — Transitado em julgado
+- [PUIL 199](tnu-puil-199.md) — Transitado em julgado
+- [PUIL 200](tnu-puil-200.md) — Transitado em julgado
+- [PUIL 201](tnu-puil-201.md) — Transitado em julgado
+- [PUIL 202](tnu-puil-202.md) — Transitado em julgado
+- [PUIL 203](tnu-puil-203.md) — Transitado em julgado
+- [PUIL 204](tnu-puil-204.md) — Transitado em julgado
+- [PUIL 205](tnu-puil-205.md) — Transitado em julgado
+- [PUIL 206](tnu-puil-206.md) — ADMITIDO_POSSIVEL_REVISAO_TESE
+- [PUIL 207](tnu-puil-207.md) — Transitado em julgado
+- [PUIL 208](tnu-puil-208.md) — Transitado em julgado
+- [PUIL 209](tnu-puil-209.md) — Transitado em julgado
+- [PUIL 210](tnu-puil-210.md) — Transitado em julgado
+- [PUIL 211](tnu-puil-211.md) — Transitado em julgado
+- [PUIL 212](tnu-puil-212.md) — Acórdão Publicado
+- [PUIL 213](tnu-puil-213.md) — Transitado em julgado
+- [PUIL 214](tnu-puil-214.md) — Transitado em julgado
+- [PUIL 215](tnu-puil-215.md) — Transitado em julgado
+- [PUIL 216](tnu-puil-216.md) — Transitado em julgado
+- [PUIL 217](tnu-puil-217.md) — Mérito julgado
+- [PUIL 218](tnu-puil-218.md) — Transitado em julgado
+- [PUIL 219](tnu-puil-219.md) — Transitado em julgado
+- [PUIL 220](tnu-puil-220.md) — Mérito julgado
+- [PUIL 221](tnu-puil-221.md) — Transitado em julgado
+- [PUIL 222](tnu-puil-222.md) — Transitado em julgado
+- [PUIL 223](tnu-puil-223.md) — Transitado em julgado
+- [PUIL 224](tnu-puil-224.md) — Transitado em julgado
+- [PUIL 225](tnu-puil-225.md) — Transitado em julgado
+- [PUIL 226](tnu-puil-226.md) — Transitado em julgado
+- [PUIL 227](tnu-puil-227.md) — Transitado em julgado
+- [PUIL 228](tnu-puil-228.md) — Transitado em julgado
+- [PUIL 229](tnu-puil-229.md) — Transitado em julgado
+- [PUIL 230](tnu-puil-230.md) — Transitado em julgado
+- [PUIL 231](tnu-puil-231.md) — Transitado em julgado
+- [PUIL 232](tnu-puil-232.md) — Transitado em julgado
+- [PUIL 233](tnu-puil-233.md) — Transitado em julgado
+- [PUIL 234](tnu-puil-234.md) — Transitado em julgado
+- [PUIL 235](tnu-puil-235.md) — Transitado em julgado
+- [PUIL 236](tnu-puil-236.md) — Transitado em julgado
+- [PUIL 237](tnu-puil-237.md) — Transitado em julgado
+- [PUIL 238](tnu-puil-238.md) — Transitado em julgado
+- [PUIL 239](tnu-puil-239.md) — Transitado em julgado
+- [PUIL 240](tnu-puil-240.md) — Transitado em julgado
+- [PUIL 241](tnu-puil-241.md) — Acórdão Publicado
+- [PUIL 242](tnu-puil-242.md) — Transitado em julgado
+- [PUIL 243](tnu-puil-243.md) — Transitado em julgado
+- [PUIL 244](tnu-puil-244.md) — Sobrestado por tema do STF
+- [PUIL 245](tnu-puil-245.md) — Transitado em julgado
+- [PUIL 246](tnu-puil-246.md) — Transitado em julgado
+- [PUIL 247](tnu-puil-247.md) — Transitado em julgado
+- [PUIL 248](tnu-puil-248.md) — Transitado em julgado
+- [PUIL 249](tnu-puil-249.md) — Transitado em julgado
+- [PUIL 250](tnu-puil-250.md) — Revisado
+- [PUIL 251](tnu-puil-251.md) — Transitado em julgado
+- [PUIL 252](tnu-puil-252.md) — Transitado em julgado
+- [PUIL 253](tnu-puil-253.md) — Acórdão Publicado
+- [PUIL 254](tnu-puil-254.md) — Transitado em julgado
+- [PUIL 255](tnu-puil-255.md) — Transitado em julgado
+- [PUIL 256](tnu-puil-256.md) — Acórdão Publicado
+- [PUIL 257](tnu-puil-257.md) — Transitado em julgado
+- [PUIL 258](tnu-puil-258.md) — Transitado em julgado
+- [PUIL 259](tnu-puil-259.md) — Transitado em julgado
+- [PUIL 260](tnu-puil-260.md) — Acórdão Publicado
+- [PUIL 261](tnu-puil-261.md) — Cancelado
+- [PUIL 262](tnu-puil-262.md) — Transitado em julgado
+- [PUIL 263](tnu-puil-263.md) — Transitado em julgado
+- [PUIL 264](tnu-puil-264.md) — Transitado em julgado
+- [PUIL 265](tnu-puil-265.md) — Transitado em julgado
+- [PUIL 266](tnu-puil-266.md) — Transitado em julgado
+- [PUIL 267](tnu-puil-267.md) — Transitado em julgado
+- [PUIL 268](tnu-puil-268.md) — Transitado em julgado
+- [PUIL 269](tnu-puil-269.md) — Transitado em julgado
+- [PUIL 270](tnu-puil-270.md) — Transitado em julgado
+- [PUIL 271](tnu-puil-271.md) — Admitido
+- [PUIL 272](tnu-puil-272.md) — Transitado em julgado
+- [PUIL 273](tnu-puil-273.md) — Acórdão Publicado
+- [PUIL 274](tnu-puil-274.md) — Transitado em julgado
+- [PUIL 275](tnu-puil-275.md) — Transitado em julgado
+- [PUIL 276](tnu-puil-276.md) — Transitado em julgado
+- [PUIL 277](tnu-puil-277.md) — Transitado em julgado
+- [PUIL 278](tnu-puil-278.md) — Mérito julgado
+- [PUIL 279](tnu-puil-279.md) — Transitado em julgado
+- [PUIL 280](tnu-puil-280.md) — Transitado em julgado
+- [PUIL 281](tnu-puil-281.md) — Transitado em julgado
+- [PUIL 282](tnu-puil-282.md) — Sobrestado por tema do STF
+- [PUIL 283](tnu-puil-283.md) — Transitado em julgado
+- [PUIL 284](tnu-puil-284.md) — Transitado em julgado
+- [PUIL 285](tnu-puil-285.md) — Transitado em julgado
+- [PUIL 286](tnu-puil-286.md) — Transitado em julgado
+- [PUIL 287](tnu-puil-287.md) — Mérito julgado
+- [PUIL 288](tnu-puil-288.md) — Transitado em julgado
+- [PUIL 289](tnu-puil-289.md) — Cancelado
+- [PUIL 290](tnu-puil-290.md) — Transitado em julgado
+- [PUIL 291](tnu-puil-291.md) — Mérito julgado
+- [PUIL 292](tnu-puil-292.md) — Cancelado
+- [PUIL 293](tnu-puil-293.md) — Mérito julgado
+- [PUIL 294](tnu-puil-294.md) — Cancelado
+- [PUIL 295](tnu-puil-295.md) — Transitado em julgado
+- [PUIL 296](tnu-puil-296.md) — Transitado em julgado
+- [PUIL 297](tnu-puil-297.md) — Transitado em julgado
+- [PUIL 298](tnu-puil-298.md) — Transitado em julgado
+- [PUIL 299](tnu-puil-299.md) — Transitado em julgado
+- [PUIL 300](tnu-puil-300.md) — ADMITIDO_POSSIVEL_REVISAO_TESE
+- [PUIL 301](tnu-puil-301.md) — Transitado em julgado
+- [PUIL 302](tnu-puil-302.md) — Mérito julgado
+- [PUIL 303](tnu-puil-303.md) — Transitado em julgado
+- [PUIL 304](tnu-puil-304.md) — Transitado em julgado
+- [PUIL 305](tnu-puil-305.md) — Transitado em julgado
+- [PUIL 306](tnu-puil-306.md) — Transitado em julgado
+- [PUIL 307](tnu-puil-307.md) — Transitado em julgado
+- [PUIL 308](tnu-puil-308.md) — Transitado em julgado
+- [PUIL 309](tnu-puil-309.md) — Transitado em julgado
+- [PUIL 310](tnu-puil-310.md) — Mérito julgado
+- [PUIL 311](tnu-puil-311.md) — Mérito julgado
+- [PUIL 312](tnu-puil-312.md) — Transitado em julgado
+- [PUIL 313](tnu-puil-313.md) — Cancelado
+- [PUIL 314](tnu-puil-314.md) — Transitado em julgado
+- [PUIL 315](tnu-puil-315.md) — Transitado em julgado
+- [PUIL 316](tnu-puil-316.md) — Transitado em julgado
+- [PUIL 317](tnu-puil-317.md) — Mérito julgado
+- [PUIL 318](tnu-puil-318.md) — Sobrestado (outro motivo)
+- [PUIL 319](tnu-puil-319.md) — Transitado em julgado
+- [PUIL 320](tnu-puil-320.md) — Mérito julgado
+- [PUIL 321](tnu-puil-321.md) — Transitado em julgado
+- [PUIL 322](tnu-puil-322.md) — Transitado em julgado
+- [PUIL 323](tnu-puil-323.md) — Transitado em julgado
+- [PUIL 324](tnu-puil-324.md) — Transitado em julgado
+- [PUIL 325](tnu-puil-325.md) — Admitido
+- [PUIL 326](tnu-puil-326.md) — Cancelado
+- [PUIL 327](tnu-puil-327.md) — Transitado em julgado
+- [PUIL 328](tnu-puil-328.md) — Sobrestado (outro motivo)
+- [PUIL 329](tnu-puil-329.md) — Transitado em julgado
+- [PUIL 330](tnu-puil-330.md) — Transitado em julgado
+- [PUIL 331](tnu-puil-331.md) — Transitado em julgado
+- [PUIL 332](tnu-puil-332.md) — Transitado em julgado
+- [PUIL 333](tnu-puil-333.md) — Transitado em julgado
+- [PUIL 334](tnu-puil-334.md) — Transitado em julgado
+- [PUIL 335](tnu-puil-335.md) — Cancelado
+- [PUIL 336](tnu-puil-336.md) — Transitado em julgado
+- [PUIL 337](tnu-puil-337.md) — Mérito julgado
+- [PUIL 338](tnu-puil-338.md) — Admitido
+- [PUIL 339](tnu-puil-339.md) — Transitado em julgado
+- [PUIL 340](tnu-puil-340.md) — Cancelado
+- [PUIL 341](tnu-puil-341.md) — Admitido
+- [PUIL 342](tnu-puil-342.md) — Cancelado
+- [PUIL 343](tnu-puil-343.md) — Transitado em julgado
+- [PUIL 344](tnu-puil-344.md) — Transitado em julgado
+- [PUIL 346](tnu-puil-346.md) — Transitado em julgado
+- [PUIL 347](tnu-puil-347.md) — Mérito julgado
+- [PUIL 348](tnu-puil-348.md) — Transitado em julgado
+- [PUIL 350](tnu-puil-350.md) — Transitado em julgado
+- [PUIL 352](tnu-puil-352.md) — Mérito julgado
+- [PUIL 353](tnu-puil-353.md) — Mérito julgado
+- [PUIL 354](tnu-puil-354.md) — Mérito julgado
+- [PUIL 355](tnu-puil-355.md) — Acórdão Publicado (RE Pendente)
+- [PUIL 356](tnu-puil-356.md) — Mérito julgado
+- [PUIL 357](tnu-puil-357.md) — Mérito julgado
+- [PUIL 358](tnu-puil-358.md) — Mérito julgado
+- [PUIL 359](tnu-puil-359.md) — Transitado em julgado
+- [PUIL 360](tnu-puil-360.md) — Transitado em julgado
+- [PUIL 361](tnu-puil-361.md) — Transitado em julgado
+- [PUIL 362](tnu-puil-362.md) — Transitado em julgado
+- [PUIL 363](tnu-puil-363.md) — Transitado em julgado
+- [PUIL 364](tnu-puil-364.md) — Transitado em julgado
+- [PUIL 365](tnu-puil-365.md) — Mérito julgado
+- [PUIL 366](tnu-puil-366.md) — Mérito julgado
+- [PUIL 367](tnu-puil-367.md) — Transitado em julgado
+- [PUIL 369](tnu-puil-369.md) — Transitado em julgado
+- [PUIL 370](tnu-puil-370.md) — Transitado em julgado
+- [PUIL 371](tnu-puil-371.md) — Transitado em julgado
+- [PUIL 372](tnu-puil-372.md) — Transitado em julgado
+- [PUIL 373](tnu-puil-373.md) — Transitado em julgado
+- [PUIL 374](tnu-puil-374.md) — Mérito julgado
+- [PUIL 375](tnu-puil-375.md) — Transitado em julgado
+- [PUIL 376](tnu-puil-376.md) — Transitado em julgado
+- [PUIL 377](tnu-puil-377.md) — Transitado em julgado
+- [PUIL 378](tnu-puil-378.md) — Transitado em julgado
+- [PUIL 379](tnu-puil-379.md) — Mérito julgado
+- [PUIL 380](tnu-puil-380.md) — Transitado em julgado
+- [PUIL 381](tnu-puil-381.md) — Mérito julgado
+- [PUIL 382](tnu-puil-382.md) — Transitado em julgado
+- [PUIL 383](tnu-puil-383.md) — Admitido
+- [PUIL 384](tnu-puil-384.md) — Transitado em julgado
+- [PUIL 387](tnu-puil-387.md) — Sobrestado por tema do STF
+- [PUIL 388](tnu-puil-388.md) — Transitado em julgado
+- [PUIL 389](tnu-puil-389.md) — Admitido
+- [PUIL 390](tnu-puil-390.md) — Admitido
+- [PUIL 391](tnu-puil-391.md) — Admitido
+- [PUIL 392](tnu-puil-392.md) — Admitido
+- [PUIL 394](tnu-puil-394.md) — Admitido
+- [PUIL 395](tnu-puil-395.md) — Admitido
+- [PUIL 396](tnu-puil-396.md) — Admitido
+- [PUIL 397](tnu-puil-397.md) — Admitido
+- [PUIL 398](tnu-puil-398.md) — Admitido
+- [PUIL 399](tnu-puil-399.md) — Admitido
+- [PUIL 400](tnu-puil-400.md) — Admitido
+- [PUIL 401](tnu-puil-401.md) — Admitido

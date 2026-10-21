@@ -1,0 +1,25 @@
+# STF · ADPF 1011
+
+- **Tribunal:** STF
+- **Espécie:** Arguição de Descumprimento de Preceito Fundamental
+- **Número:** 1011
+- **Identificador na fonte:** `stf-adpf-1011`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 01/07/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=1011)
+
+## Ementa
+
+Arguição de descumprimento de preceito fundamental. 2. Ato lesivo consubstanciado em decisões judiciais oriundas do Tribunal de Justiça do Estado de Pernambuco. Cabimento. Preenchimento da subsidiariedade. Natureza constitucional da controvérsia. 3. No julgamento do RE 1.003.433/RJ, tema 642 da repercussão geral, a Corte restringiu-se a examinar a questão da multa aplicada pelo Tribunal de Contas em razão de prática lesiva à Fazenda Pública municipal. Distinção entre aquela hipótese e a presente. Exame, no caso, da legitimidade para execução de multa simples imposta por Corte de Contas. 4. Diferenciação entre duas modalidades de responsabilidade financeira: a reintegratória e a sancionatória. A primeira está relacionada à reposição de recursos públicos, objeto de desvio, pagamento indevido ou falta de cobrança ou liquidação nos termos da lei. A sancionatória consiste na aplicação de sanção pecuniária aos responsáveis em razão de determinadas condutas previstas em lei. 5. Possibilidade de agrupamento das sanções patrimoniais de acordo com as seguintes modalidades de responsabilidade financeira: (a) imposição do dever de recomposição do erário (imputação de débito); (b) multa proporcional ao dano causado ao erário, que decorre diretamente e em razão do prejuízo infligido ao patrimônio público; e (c) multa simples, aplicada em razão da inobservância de normas financeiras, contábeis e orçamentárias, ou como consequência direta da violação de deveres de colaboração (obrigações acessórias) que os agentes fiscalizados devem guardar em relação ao órgão de controle. 6. Entendimento firmado no RE 1.003.433/RJ, tema 642 da repercussão geral. Atribuição aos Municípios prejudicados de legitimidade para execução do acórdão do Tribunal de Contas estadual que, identificando prejuízo aos cofres públicos municipais, condena o gestor público a recompor o dano suportado pelo erário, bem como em relação à decisão que, no mesmo contexto e em decorrência do prejuízo causado ao erário, aplica multa proporcional ao servidor público municipal. 7. Legitimidade do Estado para executar crédito decorrente de multas simples aplicadas a gestores municipais, por Tribunais de Contas estadual, sobretudo quando o fundamento da punição residir na inobservância das normas de Direito Financeiro ou, ainda, no descumprimento dos deveres de colaboração impostos pela legislação aos agentes públicos fiscalizados. Precedentes. 8. Pedido julgado procedente.
+
+## Decisão
+
+O Tribunal, por unanimidade, conheceu da arguição de descumprimento de preceito fundamental e julgou procedente o pedido, para assentar que compete ao Estado-membro a execução de crédito decorrente de multas simples, aplicadas por Tribunais de Contas estaduais a agentes públicos municipais, em razão da inobservância das normas de Direito Financeiro ou, ainda, do descumprimento dos deveres de colaboração impostos, pela legislação, aos agentes públicos fiscalizados. Entendeu, ainda, que a presente decisão não afeta automaticamente a coisa julgada formada em momento anterior à publicação da ata deste julgamento e que deve ser acrescida à tese firmada no RE 1.003.433/RJ, tema 642 de repercussão geral, uma nova proposição, de modo que passe a constar: “1. O Município prejudicado é o legitimado para a execução de crédito decorrente de multa aplicada por Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal. 2. Compete ao Estado-membro a execução de crédito decorrente de multas simples, aplicadas por Tribunais de Contas estaduais a agentes públicos municipais, em razão da inobservância das normas de Direito Financeiro ou, ainda, do descumprimento dos deveres de colaboração impostos, pela legislação, aos agentes públicos fiscalizados”. Tudo nos termos do voto do Relator. Plenário, Sessão Virtual de 21.6.2024 a 28.6.2024.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00070 ART-00071 ART-00072 ART-00073 ART-00074 ART-00075 PAR-ÚNICO ART-00103 INC-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008443 ANO-1992 ART-00019 ART-00057 ART-00058 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 ART-00065 ART-00066 LEI ORDINÁRIA LEG-FED LEI-009882 ANO-1999 ART-00002 INC-00001 LEI ORDINÁRIA LEG-FED LEI-010028 ANO-2000 ART-00005 ART-00001 ART-00002 ART-00003 ART-00004 PAR-00001 PAR-00002 LEI ORDINÁRIA LEG-EST CES ANO-1989 ART-00030 INC-00009 CONSTITUIÇÃO ESTADUAL, PE LEG-EST LEI-012600 ANO-2004 ART-00070 ART-00073 LEI ORDINÁRIA, PE
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=778377397)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

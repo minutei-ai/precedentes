@@ -1,0 +1,23 @@
+# STF · ADI 1020
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 1020
+- **Identificador na fonte:** `stf-adi-1020`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 19/10/1995
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1020)
+
+## Ementa
+
+E M E N T A: AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEI ORGÂNICA DO DISTRITO FEDERAL - OUTORGA DE PRERROGATIVAS DE CARÁTER PROCESSUAL PENAL AO GOVERNADOR DO DISTRITO FEDERAL - IMUNIDADE A PRISÃO CAUTELAR E A QUALQUER PROCESSO PENAL POR DELITOS ESTRANHOS A FUNÇÃO GOVERNAMENTAL - INADMISSIBILIDADE - OFENSA AO PRINCÍPIO REPUBLICANO - USURPAÇÃO DE COMPETÊNCIA LEGISLATIVA DA UNIÃO - PRERROGATIVAS INERENTES AO PRESIDENTE DA REPUBLICA ENQUANTO CHEFE DE ESTADO (CF/88, ART. 86, PAR. 3. E 4.) - AÇÃO DIRETA PROCEDENTE. PRINCÍPIO REPUBLICANO E RESPONSABILIDADE DOS GOVERNANTES. - A responsabilidade dos governantes tipifica-se como uma das pedras angulares essenciais a configuração mesma da ideia republicana. A consagração do princípio da responsabilidade do Chefe do Poder Executivo, além de refletir uma conquista basica do regime democratico, constitui consequencia necessaria da forma republicana de governo adotada pela Constituição Federal. O princípio republicano exprime, a partir da ideia central que lhe e subjacente, o dogma de que todos os agentes publicos - os Governadores de Estado e do Distrito Federal, em particular - são igualmente responsaveis perante a lei. RESPONSABILIDADE PENAL DO GOVERNADOR DO DISTRITO FEDERAL. - O Governador do Distrito Federal - que dispõe de prerrogativa de foro ratione muneris perante o Superior Tribunal de Justiça (CF, art. 105, I, a) - esta permanentemente sujeito, uma vez obtida a necessaria licenca da respectiva Câmara Legislativa (RE 153.968-BA, Rel. Min. ILMAR GALVAO; RE 159.230-PB, Rel. Min. SEPÚLVEDA PERTENCE), a processo penal condenatório, ainda que as infrações penais a ele imputadas sejam estranhas ao exercício das funções governamentais. - A imunidade do Chefe de Estado a persecução penal deriva de cláusula constitucional exorbitante do direito comum e, por traduzir consequencia derrogatória do postulado republicano, só pode ser outorgada pela propria Constituição Federal. Precedentes: RTJ 144/136, Rel. Min. SEPÚLVEDA PERTENCE; RTJ 146/467, Rel. Min. CELSO DE MELLO. Analise do direito comparado e da Carta Politica brasileira de 1937. IMUNIDADE A PRISÃO CAUTELAR - PRERROGATIVA DO PRESIDENTE DA REPUBLICA - IMPOSSIBILIDADE DE SUA EXTENSAO, MEDIANTE NORMA DA LEI ORGÂNICA, AO GOVERNADOR DO DISTRITO FEDERAL. - O Distrito Federal, ainda que em norma constante de sua propria Lei Orgânica, não dispõe de competência para outorgar ao Governador a prerrogativa extraordinária da imunidade a prisão em flagrante, a prisão preventiva e a prisão temporaria, pois a disciplinação dessas modalidades de prisão cautelar submete-se, com exclusividade, ao poder normativo da União Federal, por efeito de expressa reserva constitucional de competência definida pela Carta da Republica. - A norma constante da Lei Orgânica do Distrito Federal - que impede a prisão do Governador do DF antes de sua condenação penal definitiva - não se reveste de validade jurídica e, consequentemente, não pode subsistir em face de sua evidente incompatibilidade com o texto da Constituição Federal. PRERROGATIVAS INERENTES AO PRESIDENTE DA REPUBLICA ENQUANTO CHEFE DE ESTADO. - O Distrito Federal não pode reproduzir em sua propria Lei Orgânica - não obstante a qualificação desse diploma normativo como estatuto de natureza constitucional (ADIn 980-DF, Rel. Min. CELSO DE MELLO) - o conteudo material dos preceitos inscritos no art. 86, 3o e 4o, da Carta Federal, pois as prerrogativas contempladas nesses preceitos da Lei Fundamental, por serem unicamente compativeis com a condição institucional de Chefe de Estado, são apenas extensiveis ao Presidente da Republica. Precedente: ADIn 978-PB, Rel. p/ o acórdão Min. CELSO DE MELLO.
+
+## Decisão
+
+Por maioria de votos, o Tribunal julgou procedente a ação e declarou a inconstitucionalidade do § § 3º e 4º do art. 103 da Lei Orgânica do Distrito Federal, vencido o Ministro Ilmar Galvão (Relator), que a Julgava improcedente. Votou o Presidente. Relator para o acórdão o Ministro Celso de Mello. Plenário, 19.10.95.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00027 PAR-00001 ART-00086 PAR-00003 PAR-00004 ART-00105 INC-00001 LET-A CF-1988 CONSTITUIÇÃO FEDERAL LEG-DIS LEI ANO-1993 ART-00103 PAR-00003 PAR-00004 LODF-1993 LEI ORGÂNICA DO DISTRITO FEDERAL
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,25 @@
+# STF · ADI 2323
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 2323
+- **Identificador na fonte:** `stf-adi-2323`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 25/10/2000
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2323)
+
+## Ementa
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. OBJETO: DECISÃO DO CONSELHO DE ADMINISTRAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA, DE 04.10.2000, QUE APROVOU A INCORPORAÇÃO, AOS VENCIMENTOS BÁSICOS DOS SERVIDORES DA REFERIDA CORTE, DA DIFERENÇA DE 11,98%. FUNDAMENTO: ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE E AOS ARTIGOS 96, II, B; E 169, AMBOS DA CONSTITUIÇÃO FEDERAL. Ausência de relevância do fundamento da inicial. Plausibilidade do entendimento de que a diferença em destaque resultou de erro -- que o ato impugnado visou corrigir -- no critério de conversão dos respectivos valores, de Cruzeiros Reais em URVs (Unidades Reais de Valor), verificado em abril de 1994. Medida cautelar indeferida.
+
+## Decisão
+
+O Tribunal, por maioria, vencido o Senhor Ministro Marco Aurélio, recusou a preliminar de inépcia da inicial. Ainda por maioria, vencido o Senhor Ministro Marco Aurélio, conheceu da ação direta. Prosseguindo no julgamento, o Tribunal indeferiu a medida cautelar, vencidos os Senhores Ministros Ilmar Galvão (Relator), Marco Aurélio, Octavio Gallotti, Sydney Sanches e Moreira Alves. Votou o Presidente. Plenário, 25.10.00.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 INC-00002 ART-00037 INC-00010 INC-00012 ART-00039 PAR-00004 ART-00062 PAR-ÚNICO ART-00096 INC-00002 LET-B ART-00168 ART-00169 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000019 ANO-1998 (CF-1988). LEG-FED DEL-003689 ANO-1941 ART-00041 CPP-1941 CÓDIGO DE PROCESSO PENAL LEG-FED LEI-005869 ANO-1973 ART-00284 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-007753 ANO-1989 ART-00013 LEG-FED LEI-007756 ANO-1989 LEG-FED LEI-007757 ANO-1989 LEG-FED LEI-007758 ANO-1989 LEG-FED LEI-007759 ANO-1989 LEG-FED LEI-007760 ANO-1989 LEG-FED LEI-007923 ANO-1989 ART-00002 ART-00006 ART-00008 LEG-FED LEI-008448 ANO-1992 LEG-FED LEI-008622 ANO-1993 LEG-FED LEI-008627 ANO-1993 LEG-FED LEI-008880 ANO-1994 ART-00022 INC-00001 (LEI DE CONVERSÃO DAS MEDIDAS PROVISÓRIAS). LEG-FED LEI-008880 ANO-1994 ART-00022 INC-00002 PAR-00007 LET-A LET-B LEG-FED LEI-009421 ANO-1996 ART-00003 (PLANO DE CARGOS E CARREIRAS DO PODER JUDICIÁRIO), (O ART. 3º REMETE AO ANEXO II DA LEI). LEG-FED LEI-009421 ANO-1996 ART-00004 PAR-00002 ART-00008 ART-00012 ART-00020 (PLANO DE CARGOS E CARREIRAS DO PODER JUDICIÁRIO). LEG-FED LEI-009421 ANO-1996 ART-00014 INC-00001 (PLANO DE CARGOS E CARREIRAS DO PODER JUDICIÁRIO), (O ART. 14 REMETE AO ANEXO VI DA LEI). LEG-FED LEI-009868 ANO-1999 ART-00003 INC-00002 ART-00004 LEG-FED MPR-000106 ANO-1989 ART-00001 ART-00007 ART-00015 LEG-FED MPR-000434 ANO-1994 ART-00001 ART-00018 ART-00019 ART-00021 INC-00001 ART-00021 INC-00002 PAR-00008 LEG-FED MPR-000457 ANO-1994 ART-00021 INC-00001 ART-00040 LEG-FED MPR-000482 ANO-1994 ART-00021 LEG-FED DLG-000017 ANO-1994 ART-00001 PAR-ÚNICO LEG-FED DLG-000006 ANO-1995 LEG-FED DLG-000007 ANO-1995 LEG-FED RES-000113 ANO-1994 (STF). LEG-FED RES-000115 ANO-1994 (STF).
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347545)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

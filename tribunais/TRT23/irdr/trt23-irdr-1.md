@@ -1,0 +1,19 @@
+# TRT23 · IRDR 1
+
+- **Tribunal:** TRT23
+- **Espécie:** Incidente de Resolução de Demandas Repetitivas
+- **Número:** 1
+- **Identificador na fonte:** `trt23-irdr-1`
+- **Situação na fonte:** Transitado em julgado
+- **Atualização informada pela fonte:** 06/05/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt23&tipo=IRDR&nr=1)
+
+## Questão submetida a julgamento
+
+IRDR 0000198.12.2019.5.23.0000 "Troca de uniforme e/ou tempo à disposição do empregador".
+
+## Processos paradigma
+
+- [00000087420195230121](https://pje.trt23.jus.br/consultaprocessual/detalhe-processo/0000008-74.2019.5.23.0121/1)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT23/).

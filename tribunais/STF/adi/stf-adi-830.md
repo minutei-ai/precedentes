@@ -1,0 +1,23 @@
+# STF · ADI 830
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 830
+- **Identificador na fonte:** `stf-adi-830`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 14/04/1993
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=830)
+
+## Ementa
+
+EMENTA: - AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ANTECIPAÇÃO DO PLEBISCITO A QUE ALUDE O ART. 2º DO ADCT DA CONSTITUIÇÃO DE 1988. - NÃO HÁ DÚVIDA DE QUE, EM FACE DO NOVO SISTEMA CONSTITUCIONAL , É O S.T.F. COMPETENTE PARA, EM CONTROLE DIFUSO OU CONCENTRADO, EXAMINAR A CONSTITUCIONALIDADE, OU NÃO, DE EMENDA CONSTITUCIONAL. - NO CASO A Nº 2, DE 25 DE AGOSTO DE 1992 - IMPUGNADA POR VIOLADORA DE CLÁUSULAS PÉTREAS EXPLÍCITAS OU IMPLÍCITAS. - CONTENDO AS NORMAS CONSTITUCIONAIS TRANSITÓRIAS EXCEÇÕES À PARTE PERMANENTE DA CONSTITUIÇÃO, NÃO TEM SENTIDO PRETENDER-SE QUE O ATO QUE AS CONTÉM SEJA INDEPENDENTE DESTA, ATÉ PORQUE É DA NATUREZA MESMA DAS COISAS QUE, PARA HAVER EXCEÇÃO, É NECESSÁRIO QUE HAJA REGRA, DE CUJA EXISTÊNCIA AQUELA, COMO EXCEÇÃO, DEPENDE. A ENUMERAÇÃO AUTÔNOMA, OBVIAMENTE, NÃO TEM O CONDÃO DE DAR INDEPENDÊNCIA ÀQUILO QUE, POR SUA NATUREZA MESMA, É DEPENDENTE. AÇÃO DIRETA DE INCONSTITUCIONALIDADE QUE SE JULGA IMPROCEDENTE.
+
+## Decisão
+
+Por votação unânime, o Tribunal conheceu da ação e, por maioria de votos, julgou-a improcedente, declarando a constitucionalidade da EC n. 02, de 25.8.1992, vencidos, in totum, os Ministros Marco Aurélio e Carlos Velloso, que a julgaram procedente, declarando a inconstitucionalidade da emenda e, vencido, em parte, o Ministro Sepúlveda Pertence, que a julgou procedente, declarando a inconstitucionalidade, apenas do caput do artigo único e de seu § 1º. Votou o Presidente. Plenário, 14.4.93.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1824 ART-00174 PAR-00001 PAR-00002 ART-00178 PAR-00006 CF-1824 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1891 ART-00090 PAR-00004 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 ART-00217 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00001 PAR-ÚNICO ART-00014 INC-00001 ART-00060 PAR-00001 PAR-00002 PAR-00003 PAR-00004 INC-00001 INC-00002 INC-00003 INC-00004 ART-00081 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1946 ART-00036 (CF-1946). LEG-FED ADCT ANO-1988 ART-00002 PAR-00001 PAR-00002 PAR-00003 ART-00003 (CF-1988). LEG-FED EMC-000002 ANO-1992 ART-00001 "CAPUT" PAR-00001 PAR-00002 PAR-00003 (CF-1988). LEG-FED LEI-008624 ANO-1993
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

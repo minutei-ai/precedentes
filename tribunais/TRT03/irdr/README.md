@@ -1,0 +1,56 @@
+# TRT03 · Incidente de Resolução de Demandas Repetitivas
+
+**52 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](trt03-irdr-1.md) — Cancelado
+- [IRDR 2](trt03-irdr-2.md) — Transitado em julgado
+- [IRDR 3](trt03-irdr-3.md) — Transitado em julgado
+- [IRDR 4](trt03-irdr-4.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 5](trt03-irdr-5.md) — Transitado em julgado
+- [IRDR 6](trt03-irdr-6.md) — Transitado em julgado
+- [IRDR 7](trt03-irdr-7.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 8](trt03-irdr-8.md) — Transitado em julgado
+- [IRDR 9](trt03-irdr-9.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 10](trt03-irdr-10.md) — Revisado
+- [IRDR 11](trt03-irdr-11.md) — Transitado em julgado
+- [IRDR 12](trt03-irdr-12.md) — Não admitido
+- [IRDR 13](trt03-irdr-13.md) — Não admitido
+- [IRDR 14](trt03-irdr-14.md) — Não admitido
+- [IRDR 15](trt03-irdr-15.md) — Não admitido
+- [IRDR 16](trt03-irdr-16.md) — Não admitido
+- [IRDR 17](trt03-irdr-17.md) — Acórdão Publicado
+- [IRDR 18](trt03-irdr-18.md) — Transitado em julgado
+- [IRDR 19](trt03-irdr-19.md) — Transitado em julgado
+- [IRDR 20](trt03-irdr-20.md) — Não admitido
+- [IRDR 21](trt03-irdr-21.md) — Não admitido
+- [IRDR 22](trt03-irdr-22.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 23](trt03-irdr-23.md) — Transitado em julgado
+- [IRDR 24](trt03-irdr-24.md) — Não admitido
+- [IRDR 25](trt03-irdr-25.md) — Acórdão Publicado
+- [IRDR 26](trt03-irdr-26.md) — Transitado em julgado
+- [IRDR 27](trt03-irdr-27.md) — Não admitido
+- [IRDR 28](trt03-irdr-28.md) — Não admitido
+- [IRDR 29](trt03-irdr-29.md) — Acórdão Publicado
+- [IRDR 30](trt03-irdr-30.md) — Acórdão Publicado
+- [IRDR 31](trt03-irdr-31.md) — Não admitido
+- [IRDR 32](trt03-irdr-32.md) — Não admitido
+- [IRDR 33](trt03-irdr-33.md) — Não admitido
+- [IRDR 34](trt03-irdr-34.md) — Sobrestado por tema do TST
+- [IRDR 35](trt03-irdr-35.md) — Não admitido
+- [IRDR 36](trt03-irdr-36.md) — Sobrestado por tema do TST
+- [IRDR 37](trt03-irdr-37.md) — Não admitido
+- [IRDR 38](trt03-irdr-38.md) — Não admitido
+- [IRDR 39](trt03-irdr-39.md) — Acórdão Publicado
+- [IRDR 40](trt03-irdr-40.md) — Não admitido
+- [IRDR 41](trt03-irdr-41.md) — Não admitido
+- [IRDR 42](trt03-irdr-42.md) — Acórdão Publicado
+- [IRDR 43](trt03-irdr-43.md) — Não admitido
+- [IRDR 44](trt03-irdr-44.md) — Admitido
+- [IRDR 45](trt03-irdr-45.md) — Admitido
+- [IRDR 46](trt03-irdr-46.md) — Acórdão Publicado
+- [IRDR 47](trt03-irdr-47.md) — Suscitado
+- [IRDR 48](trt03-irdr-48.md) — Suscitado
+- [IRDR 49](trt03-irdr-49.md) — Suscitado
+- [IRDR 50](trt03-irdr-50.md) — Suscitado
+- [IRDR 51](trt03-irdr-51.md) — Suscitado
+- [IRDR 52](trt03-irdr-52.md) — Suscitado

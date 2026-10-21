@@ -1,0 +1,57 @@
+# TRT18 · Incidente de Resolução de Demandas Repetitivas
+
+**53 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](trt18-irdr-1.md) — Transitado em julgado
+- [IRDR 2](trt18-irdr-2.md) — Transitado em julgado
+- [IRDR 3](trt18-irdr-3.md) — Não admitido
+- [IRDR 4](trt18-irdr-4.md) — Acórdão Publicado
+- [IRDR 5](trt18-irdr-5.md) — Transitado em julgado
+- [IRDR 6](trt18-irdr-6.md) — Não admitido
+- [IRDR 7](trt18-irdr-7.md) — Não admitido
+- [IRDR 8](trt18-irdr-8.md) — Transitado em julgado
+- [IRDR 9](trt18-irdr-9.md) — Não admitido
+- [IRDR 10](trt18-irdr-10.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 11](trt18-irdr-11.md) — Transitado em julgado
+- [IRDR 12](trt18-irdr-12.md) — Não admitido
+- [IRDR 13](trt18-irdr-13.md) — Não admitido
+- [IRDR 14](trt18-irdr-14.md) — Não admitido
+- [IRDR 15](trt18-irdr-15.md) — Não admitido
+- [IRDR 16](trt18-irdr-16.md) — Não admitido
+- [IRDR 17](trt18-irdr-17.md) — Não admitido
+- [IRDR 18](trt18-irdr-18.md) — Acórdão Publicado
+- [IRDR 19](trt18-irdr-19.md) — Não admitido
+- [IRDR 20](trt18-irdr-20.md) — Não admitido
+- [IRDR 21](trt18-irdr-21.md) — Acórdão Publicado
+- [IRDR 22](trt18-irdr-22.md) — Não admitido
+- [IRDR 23](trt18-irdr-23.md) — Não admitido
+- [IRDR 24](trt18-irdr-24.md) — Transitado em julgado
+- [IRDR 25](trt18-irdr-25.md) — Transitado em julgado
+- [IRDR 26](trt18-irdr-26.md) — Transitado em julgado
+- [IRDR 27](trt18-irdr-27.md) — Cancelado
+- [IRDR 28](trt18-irdr-28.md) — Não admitido
+- [IRDR 29](trt18-irdr-29.md) — Não admitido
+- [IRDR 30](trt18-irdr-30.md) — Não admitido
+- [IRDR 31](trt18-irdr-31.md) — Não admitido
+- [IRDR 32](trt18-irdr-32.md) — Não admitido
+- [IRDR 33](trt18-irdr-33.md) — Não admitido
+- [IRDR 34](trt18-irdr-34.md) — Não admitido
+- [IRDR 35](trt18-irdr-35.md) — Transitado em julgado
+- [IRDR 36](trt18-irdr-36.md) — Transitado em julgado
+- [IRDR 37](trt18-irdr-37.md) — Transitado em julgado
+- [IRDR 38](trt18-irdr-38.md) — Transitado em julgado
+- [IRDR 39](trt18-irdr-39.md) — Transitado em julgado
+- [IRDR 40](trt18-irdr-40.md) — Transitado em julgado
+- [IRDR 41](trt18-irdr-41.md) — Não admitido
+- [IRDR 42](trt18-irdr-42.md) — Transitado em julgado
+- [IRDR 43](trt18-irdr-43.md) — Transitado em julgado
+- [IRDR 44](trt18-irdr-44.md) — Acórdão Publicado
+- [IRDR 45](trt18-irdr-45.md) — Sobrestado por tema do TST
+- [IRDR 46](trt18-irdr-46.md) — Sobrestado por tema do TST
+- [IRDR 47](trt18-irdr-47.md) — Não admitido
+- [IRDR 48](trt18-irdr-48.md) — Acórdão Publicado
+- [IRDR 49](trt18-irdr-49.md) — Admitido
+- [IRDR 50](trt18-irdr-50.md) — Sobrestado por tema do TST
+- [IRDR 51](trt18-irdr-51.md) — Transitado em julgado
+- [IRDR 52](trt18-irdr-52.md) — Admitido
+- [IRDR 53](trt18-irdr-53.md) — Suscitado

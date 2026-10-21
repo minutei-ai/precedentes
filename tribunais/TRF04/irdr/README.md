@@ -1,0 +1,42 @@
+# TRF04 · Incidente de Resolução de Demandas Repetitivas
+
+**38 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](trf04-irdr-1.md) — Transitado em julgado
+- [IRDR 2](trf04-irdr-2.md) — Transitado em julgado
+- [IRDR 3](trf04-irdr-3.md) — Transitado em julgado
+- [IRDR 4](trf04-irdr-4.md) — Cancelado
+- [IRDR 5](trf04-irdr-5.md) — Cancelado
+- [IRDR 6](trf04-irdr-6.md) — Cancelado
+- [IRDR 7](trf04-irdr-7.md) — Cancelado
+- [IRDR 8](trf04-irdr-8.md) — Transitado em julgado
+- [IRDR 9](trf04-irdr-9.md) — Transitado em julgado
+- [IRDR 10](trf04-irdr-10.md) — Cancelado
+- [IRDR 11](trf04-irdr-11.md) — Cancelado
+- [IRDR 12](trf04-irdr-12.md) — Transitado em julgado
+- [IRDR 13](trf04-irdr-13.md) — Cancelado
+- [IRDR 14](trf04-irdr-14.md) — Transitado em julgado
+- [IRDR 15](trf04-irdr-15.md) — Transitado em julgado
+- [IRDR 16](trf04-irdr-16.md) — Cancelado
+- [IRDR 17](trf04-irdr-17.md) — Transitado em julgado
+- [IRDR 18](trf04-irdr-18.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 19](trf04-irdr-19.md) — Transitado em julgado
+- [IRDR 20](trf04-irdr-20.md) — Transitado em julgado
+- [IRDR 21](trf04-irdr-21.md) — Transitado em julgado
+- [IRDR 22](trf04-irdr-22.md) — Transitado em julgado
+- [IRDR 23](trf04-irdr-23.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 24](trf04-irdr-24.md) — Cancelado
+- [IRDR 25](trf04-irdr-25.md) — Sobrestado por tema do STJ
+- [IRDR 26](trf04-irdr-26.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 27](trf04-irdr-27.md) — Transitado em julgado
+- [IRDR 28](trf04-irdr-28.md) — Cancelado
+- [IRDR 29](trf04-irdr-29.md) — Cancelado
+- [IRDR 30](trf04-irdr-30.md) — Cancelado
+- [IRDR 31](trf04-irdr-31.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 32](trf04-irdr-32.md) — Cancelado
+- [IRDR 33](trf04-irdr-33.md) — Acórdão Publicado
+- [IRDR 34](trf04-irdr-34.md) — Sobrestado por tema do STJ
+- [IRDR 35](trf04-irdr-35.md) — Admitido
+- [IRDR 36](trf04-irdr-36.md) — Acórdão Publicado
+- [IRDR 37](trf04-irdr-37.md) — Acórdão Publicado
+- [IRDR 38](trf04-irdr-38.md) — Admitido

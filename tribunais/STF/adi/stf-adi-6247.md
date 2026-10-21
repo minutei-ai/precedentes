@@ -1,0 +1,25 @@
+# STF · ADI 6247
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6247
+- **Identificador na fonte:** `stf-adi-6247`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 19/11/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6247)
+
+## Ementa
+
+EMENTA Ação direta de inconstitucionalidade. Artigo 156, caput, da Lei Complementar nº 75, de 1993. Nomeação do chefe do MPDFT. Prerrogativa do presidente da República. Preliminares rejeitadas. Juízo de exclusão. Possibilidade de declaração de inconstitucionalidade por arrastamento. Natureza sui generis do Distrito Federal. Competência da União para organizar e manter o MPDFT. Parquet Distrital como parte da estrutura institucional do MPU. Improcedência do pedido. 1. Na espécie, a impugnação se volta contra norma editada pelo Congresso Nacional com o objetivo de excluí-la do ordenamento jurídico, tendo em vista sua suposta incompatibilidade com a Constituição Federal. No presente caso, o Supremo Tribunal Federal está autorizado a atuar e, no exercício de sua jurisdição constitucional, realiza tão somente juízo de exclusão, no exercício da competência de rejeição outorgada expressamente pelo art. 102, inciso I, alínea a, do texto constitucional. 2. A ausência de impugnação do § 2º do art. 156 da LC nº 75/93 não impede que se conheça da ação e, eventualmente, que se estendam os efeitos da declaração de inconstitucionalidade da norma impugnada ao preceito não contestado pelo requerente, em razão da inegável interdependência entre ambos. A jurisprudência do Supremo Tribunal Federal tem flexibilizado o princípio do pedido em hipóteses em que se verifica que normas impugnadas e não impugnadas possuem teor semelhante ou estão intimamente conectadas, de modo a admitir a declaração de inconstitucionalidade das últimas por arrastamento (v.g. ADI nº 5.175, Rel. Min. Gilmar Mendes, Tribunal Pleno, julgado em 22/6/20, DJe de 6/8/20). 3. O Distrito Federal não é unidade federada que possa ser equiparada a qualquer outra, uma vez que possui características peculiares que o distinguem dos demais entes da federação. Nesse sentido, o Distrito Federal não pode instituir e manter Poder Judiciário ou Ministério Público, nem conta, em sua estrutura orgânico-administrativa, com instituições de polícia civil, polícia penal, polícia militar e corpo de bombeiros militar. No Distrito Federal, tais órgãos e funções são organizados e mantidos pela União e, no caso das forças de segurança pública, sua utilização pelo Governo do Distrito Federal deve, inclusive, observar o disposto em lei federal (CF, art. 32, § 4º). 4. O Ministério Público do Distrito Federal e Territórios foi concebido pelo constituinte de 1988 como um dos quatro ramos do Ministério Público da União (art. 128) e sua natureza federal também encontra amparo no art. 21, inciso XIII, da Constituição – que prevê como competência da União organizar e manter o Ministério Público do Distrito Federal e dos Territórios – e em seu art. 22, inciso XVIII – que atribui à União competência privativa para legislar sobre a organização do Ministério Público do Distrito Federal e dos Territórios. 5. Não há dúvidas de que o constituinte originário quis o MPDFT como instituição federal e assegurou seu desiderato tanto ao estabelecer a estrutura orgânica do Ministério Público da União quanto ao repartir as competências entre os entes federativos. Assim, não há como se cogitar haver paralelismo entre a sistemática de nomeação dos procuradores-gerais de justiça dos ministérios públicos estaduais e a do procurador-geral de justiça do MPDFT, sob pena de se admitir uma distorção disfuncional do desenho organizacional do Ministério Público do Distrito Federal, que é órgão federal pertencente à estrutura orgânica do Ministério Público da União e, como pretendido pelo constituinte originário, completamente estranho à esfera político-administrativa do ente distrital. 6. Pedido julgado improcedente.
+
+## Decisão
+
+O Tribunal, por unanimidade, julgou improcedente o pedido formulado na inicial, nos termos do voto do Relator. O Ministro Gilmar Mendes acompanhou o Relator com ressalvas. Plenário, Sessão Virtual de 8.11.2024 a 18.11.2024.
+
+## Ato impugnado
+
+LEG-IMP CIB ANO-1824 CIB-1824 CONSTITUIÇÃO POLITICA DO IMPERIO DO BRAZIL LEG-FED CF ANO-1891 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00001 ART-00005 "CAPUT" INC-00078 ART-00018 PAR-00001 ART-00021 INC-00013 INC-00014 ART-00022 INC-00017 INC-00018 ART-00032 "CAPUT" PAR-00001 PAR-00002 PAR-00003 PAR-00004 ART-00034 INC-00007 LET-A ART-00046 ART-00084 INC-00014 ART-00102 INC-00001 LET-A ART-00103 INC-00005 ART-00127 ART-00128 INC-00001 LET-A LET-B LET-C LET-D INC-00002 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000075 ANO-1993 ART-00156 "CAPUT" PAR-00002 LEI COMPLEMENTAR
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=782505629)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

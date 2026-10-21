@@ -1,0 +1,25 @@
+# STF · ADI 2391
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 2391
+- **Identificador na fonte:** `stf-adi-2391`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 16/08/2006
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2391)
+
+## Ementa
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 51 E PARÁGRAFOS DA CONSTITUIÇÃO DO ESTADO DE SANTA CATARINA. ADOÇÃO DE MEDIDA PROVISÓRIA POR ESTADO-MEMBRO. POSSIBILIDADE. ARTIGOS 62 E 84, XXVI DA CONSTITUIÇÃO FEDERAL. EMENDA CONSTITUCIONAL 32, DE 11.09.01, QUE ALTEROU SUBSTANCIALMENTE A REDAÇÃO DO ART. 62. REVOGAÇÃO PARCIAL DO PRECEITO IMPUGNADO POR INCOMPATIBILIDADE COM O NOVO TEXTO CONSTITUCIONAL. SUBSISTÊNCIA DO NÚCLEO ESSENCIAL DO COMANDO EXAMINADO, PRESENTE EM SEU CAPUT. APLICABILIDADE, NOS ESTADOS-MEMBROS, DO PROCESSO LEGISLATIVO PREVISTO NA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA DE VEDAÇÃO EXPRESSA QUANTO ÀS MEDIDAS PROVISÓRIAS. NECESSIDADE DE PREVISÃO NO TEXTO DA CARTA ESTADUAL E DA ESTRITA OBSERVÂNCIA DOS PRINCÍPIOS E LIMITAÇÕES IMPOSTAS PELO MODELO FEDERAL. 1. Não obstante a permanência, após o superveniente advento da Emenda Constitucional 32/01, do comando que confere ao Chefe do Executivo Federal o poder de adotar medidas provisórias com força de lei, tornou-se impossível o cotejo de todo o referido dispositivo da Carta catarinense com o teor da nova redação do art. 62, parâmetro inafastável de aferição da inconstitucionalidade argüida. Ação direta prejudicada em parte. 2. No julgamento da ADI 425, rel. Min. Maurício Corrêa, DJ 19.12.03, o Plenário desta Corte já havia reconhecido, por ampla maioria, a constitucionalidade da instituição de medida provisória estadual, desde que, primeiro, esse instrumento esteja expressamente previsto na Constituição do Estado e, segundo, sejam observados os princípios e as limitações impostas pelo modelo adotado pela Constituição Federal, tendo em vista a necessidade da observância simétrica do processo legislativo federal. Outros precedentes: ADI 691, rel. Min. Sepúlveda Pertence, DJ 19.06.92 e ADI 812-MC, rel. Min. Moreira Alves, DJ 14.05.93. 3. Entendimento reforçado pela significativa indicação na Constituição Federal, quanto a essa possibilidade, no capítulo referente à organização e à regência dos Estados, da competência desses entes da Federação para "explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado, na forma da lei, vedada a edição de medida provisória para a sua regulamentação" (art. 25, § 2º). 4. Ação direta cujo pedido formulado se julga improcedente.
+
+## Decisão
+
+Após o voto da Senhora Ministra Ellen Gracie, Relatora, julgando prejudicada, em parte, a ação, no que foi acompanhada pelos Senhores Ministros Joaquim Barbosa, Carlos Britto, Cezar Peluso, Carlos Velloso, Sepúlveda Pertence e Presidente, Ministro Maurício Corrêa, vencido o Senhor Ministro Marco Aurélio, que a julgava prejudicada, ficou reservada a continuidade do julgamento quanto ao mérito para outra oportunidade. Ausentes, justificadamente, os Senhores Ministros Celso de Mello e Gilmar Mendes, e, neste julgamento, o Senhor Ministro Nelson Jobim. Plenário, 13.08.2003. Decisão: Após o voto da Relatora, Ministra Ellen Gracie (Presidente), julgando improcedente a ação direta, no que foi acompanhada pelo Senhor Ministro Sepúlveda Pertence, e do voto do Senhor Ministro Carlos Britto, julgando-a procedente, pediu vista dos autos a Senhora Ministra Cármen Lúcia. Ausentes, justificadamente, o Senhor Ministro Celso de Mello e, neste julgamento, o Senhor Ministro Gilmar Mendes. Plenário, 28.06.2006. Decisão: O Tribunal, por maioria, vencido o Senhor Ministro Carlos Britto, julgou improcedente a ação direta, nos termos do voto da Relatora, Ministra Ellen Gracie (Presidente). Plenário, 16.08.2006.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00013 (REDAÇÃO DADA PELA EMC-1/1969) ART-00200 PAR-ÚNICO REDAÇÃO DADA PELA EMC-1/1969 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00025 PAR-00001 PAR-00002 REDAÇÃO DADA PELA EMC-5/1995. ART-00037 INC-00002 ART-00044 ART-00049 ART-00051 ART-00052 ART-00059 INC-00005 ART-00060 PAR-00004 INC-00003 ART-00062 REDAÇÃO DADA PELA EMC-32/2001. ART-00076 ART-00082 ART-00084 INC-00004 INC-00026 ART-00092 ART-00102 INC-00001 LET-A ART-00246 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000005 ANO-1995 EMENDA CONSTITUCIONAL LEG-FED EMC-000006 ANO-1995 EMENDA CONSTITUCIONAL LEG-FED EMC-000007 ANO-1995 ART-00002 EMENDA CONSTITUCIONAL LEG-FED EMC-000008 ANO-1995 EMENDA CONSTITUCIONAL LEG-FED EMC-000032 ANO-2001 PAR-00001 PAR-00002 PAR-00003 EMENDA CONSTITUCIONAL LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-EST CES ANO-1989 ART-00051 "CAPUT" PAR-00001 PAR-00002 PAR-00003 CONSTITUIÇÃO ESTADUAL, SC
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=409746)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

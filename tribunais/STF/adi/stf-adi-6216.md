@@ -1,0 +1,25 @@
+# STF · ADI 6216
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6216
+- **Identificador na fonte:** `stf-adi-6216`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 09/12/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6216)
+
+## Ementa
+
+EMENTA Ação direta de inconstitucionalidade. Lei nº 11.013/19, art. 35 da Lei nº 10.213/15 e Decreto Estadual nº 34.519/18 do Estado do Maranhão. Complexo Industrial e Portuário do Maranhão. Empresa Maranhense de Administração Portuária (EMAP). Região de desenvolvimento econômico do Estado. 1. A verificação acerca da possibilidade de administração de receitas portuárias pelo Estado do Maranhão depende de análise das cláusulas do Convênio de Delegação nº 16/00. Ausência de ofensa direta à Constituição Federal. Não conhecimento da ação em relação ao art. 35 da Lei nº 10.213/15 e ao Decreto nº 34.519/18. 2. A instituição do Complexo Industrial e Portuário do Estado do Maranhão (arts. 1º e 2º, inciso II, da Lei nº 11.013/19) não pretendeu afetar diretamente bens públicos federais à administração da EMAP, à revelia da União ou de suas entidades da administração indireta. A mera autorização para se alterar o objeto social da empresa estatal não implica a administração imediata de imóveis públicos federais. Não se verifica violação da Carta de 1988, uma vez que as referidas normas se inserem na competência legislativa do Estado. 3. Os arts. 2º, inciso II, 3º, 4º e 5º da Lei nº 11.013/19, que dispõem sobre a ampla disposição de bens, móveis e imóveis, no âmbito do Complexo Industrial e Portuário do Estado do Maranhão, inserem-se no contexto normativo vigente, de modo que estão sob os influxos das normas constitucionais e legais que versam sobre procedimento licitatório e alienação de bens públicos (arts. 22, inciso XXVII; art. 37, inciso XXI; e art. 173, § 1º, da CF e Leis Federais nº 8.666/93 (vigente à época da edição das leis impugnadas), nº 14.133/21 e nº 13.303/16. 4. Ação direta de inconstitucionalidade da qual não se conhece em relação ao art. 35 da Lei nº 10.213/15 e ao Decreto nº 34.519/18 e, no mérito, julgada improcedente, declarando-se a constitucionalidade dos arts. 1º, 2º, inciso II, 3º, 4º e 5º da Lei nº 11.013/19 do Estado do Maranhão.
+
+## Decisão
+
+Após os votos dos Ministros Dias Toffoli (Relator), Edson Fachin e Flávio Dino, que não conheciam da ação em relação ao art. 35 da Lei nº 10.213/15 e ao Decreto nº 34.519/18 e, no mérito, julgavam improcedentes os pedidos deduzidos e declaravam constitucionais os arts. 1º, 2º, inciso II, 3º, 4º e 5º da Lei nº 11.013/19 do Estado do Maranhão, pediu vista dos autos o Ministro André Mendonça. Plenário, Sessão Virtual de 28.6.2024 a 6.8.2024. Decisão: O Tribunal, por maioria, não conheceu da ação em relação ao art. 35 da Lei nº 10.213/15 e ao Decreto nº 34.519/18 e, no mérito, julgou improcedentes os pedidos deduzidos e declarou constitucionais os arts. 1º, 2º, inciso II, 3º, 4º e 5º da Lei nº 11.013/19 do Estado do Maranhão, nos termos do voto do Relator, vencido o Ministro André Mendonça. Nesta assentada, o Ministro Flávio Dino declarou seu impedimento. Plenário, Sessão Virtual de 29.11.2024 a 6.12.2024.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00020 INC-00004 ART-00021 INC-00012 LET-F ART-00022 INC-00010 INC-00027 ART-00026 INC-00002 ART-00037 "CAPUT" INC-00021 ART-00173 PAR-00001 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008666 ANO-1993 ART-00017 INC-00001 LET-B LET-E LLC-1993 LEI DE LICITAÇÕES LEG-FED LEI-009277 ANO-1996 ART-00002 ART-00003 PAR-00001 PAR-00002 PAR-00003 ART-00004 ART-00006 LEI ORDINÁRIA LEG-FED LEI-010233 ANO-2001 ART-00027 INC-00015 INC-00023 LEI ORDINÁRIA LEG-FED LEI-012815 ANO-2013 ART-00004 ART-0005B PAR-ÚNICO INC-00001 INC-00002 ART-0005D PAR-00004 ART-00006 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 ART-00016 INC-00002 ART-00019 PAR-ÚNICO ART-00066 LEI ORDINÁRIA LEG-FED LEI-013303 ANO-2016 ART-00028 "CAPUT" ART-00030 ART-00049 INC-00001 INC-00002 ART-00050 LEI ORDINÁRIA LEG-FED LEI-014133 ANO-2021 ART-00076 INC-00001 LET-E LET-B LEI ORDINÁRIA LEG-FED DEC-002184 ANO-1997 ART-00004 DECRETO LEG-FED DEC-008033 ANO-2013 DECRETO LEG-FED CNV-000016 ANO-2000 CONVÊNIO DE DELEGAÇÃO ENTRE A UNIÃO E O ESTADO DO MARANHÃO LEG-EST LEI-007225 ANO-1998 ART-00001 LEI ORDINÁRIA, MA LEG-EST LEI-010213 ANO-2015 ART-00035 LEI ORDINÁRIA, MA LEG-EST LEI-010461 ANO-2016 LEI ORDINÁRIA, MA LEG-EST LEI-011013 ANO-2019 ART-00001 ART-00002 INC-00001 INC-00002 ART-00003 ART-00004 ART-00005 LEI ORDINÁRIA, MA LEG-EST DEC-034519 ANO-2018 DECRETO, MA LEG-EST DEC-038851 ANO-2024 ART-00023 DECRETO, MA LEG-EST PJL-000257 ANO-2018 PROJETO DE LEI, ASSEMBLEIA LEGISLATIVA DO ESTADO DO MARANHÃO
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=783198041)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

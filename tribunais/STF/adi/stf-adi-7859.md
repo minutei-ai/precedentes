@@ -1,0 +1,25 @@
+# STF · ADI 7859
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 7859
+- **Identificador na fonte:** `stf-adi-7859`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 30/03/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7859)
+
+## Ementa
+
+Ementa: Direito administrativo e outras matérias de direito público. Ação direta de inconstitucionalidade. Competência legislativa. Rotulagem de produtos para animais. Legislação estadual. Competência privativa da União. Inconstitucionalidade. Pedido procedente. I. Caso em exame 1. Ação direta de inconstitucionalidade ajuizada por uma associação da indústria de produtos para animais de estimação contra o art. 2º-B da Lei estadual n. 25.414/2025, de Minas Gerais. O dispositivo impugnado exige que as embalagens de produtos fabricados no estado, voltados para animais, contenham informações sobre canais públicos de comunicação aptos a receber e encaminhar denúncias relacionadas a maus-tratos contra animais. II. Questão em discussão 2. A questão em discussão consiste em saber se lei estadual pode exigir informações específicas em rótulos de produtos fabricados em seu território, em face da repartição de competências legislativas entre União e Estados, especialmente no que tange à rotulagem de produtos e à livre circulação de mercadorias. III. Razões de decidir 3. Compete privativamente à União legislar sobre comércio exterior e interestadual, conforme o art. 22, VIII, da Constituição Federal. 4. A Constituição Federal, em seu art. 24, V, estabelece a competência concorrente da União, dos Estados e do Distrito Federal para legislar sobre produção e consumo, cabendo à União estabelecer normas gerais e aos Estados exercer competência suplementar. 5. A União tem o papel de estabelecer regras uniformes sobre rotulagem de produtos para evitar que legislações estaduais distintas criem obstáculos à circulação de mercadorias no território nacional, garantindo a unidade econômica do país e a livre circulação de bens. 6. O Supremo Tribunal Federal já se manifestou pela impossibilidade de lei estadual impor a presença de informações obrigatórias em embalagens de produtos, quando a obrigação se refere a produtos comercializados no estado. A mesma razão de decidir se aplica a produtos fabricados no estado, em prol da uniformidade das exigências de rótulos e embalagens em todo o território nacional. 7. Existe legislação federal exaustiva que disciplina a rotulagem de produtos destinados a animais, como a Lei n. 6.198/1974 e o Decreto n. 12.031/2024, para alimentação animal, e o Decreto-Lei n. 467/1969 e o Decreto n. 5.053/2004, para produtos veterinários, que estabelecem de forma taxativa os elementos obrigatórios a constar nas embalagens. 8. A existência de legislação federal abrangente e minuciosa restringe a competência suplementar dos Estados, impedindo-os de instituir requisitos adicionais para informações de embalagens e rotulagens que conflitem com o regime jurídico federal vigente. IV. Dispositivo e tese 9. Pedido procedente. Tese de julgamento: Lei estadual que impõe a presença de informações obrigatárias em rotulagem ou embalagem de produtos para animais fabricados em seu território é inconstitucional por invadir a competência da União para legislar sobre comércio interestadual, pois compromete a livre circulação de mercadorias. \_\_\_\_\_\_\_\_\_ Dispositivos relevantes citados: CF/1988, arts. 22, VIII, e 24, V, § 1º, § 2º, § 3º, § 4º; Lei n. 6.198/1974; Decreto n. 12.031/2024; Decreto-Lei n. 467/1969; Decreto n. 5.053/2004. Jurisprudência relevante citada: STF, ADI 910/RJ, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 21/11/2003; STF, ADI 750/RJ, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 9/3/2018.
+
+## Decisão
+
+O Tribunal, por maioria, julgou procedente a ação direta para declarar a inconstitucionalidade do art. 2º-B da Lei estadual n. 22.231/2016, acrescentado pelo art. 2º da Lei estadual n. 25.414/2025, de Minas Gerais, nos termos do voto do Relator, Ministro Cristiano Zanin, vencidos os Ministros Cármen Lúcia, Edson Fachin (Presidente), Alexandre de Moraes e Flávio Dino. Falou, pela interessada Assembleia Legislativa do Estado de Minas Gerais, o Dr. Matheus Siqueira Andrade, Procurador da Assembleia Legislativa do Estado. Plenário, Sessão Virtual de 20.3.2026 a 27.3.2026.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00021 ART-00022 INC-00008 ART-00023 ART-00024 INC-00005 INC-00006 PAR-00001 PAR-00002 PAR-00003 PAR-00004 ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-006198 ANO-1974 LEI ORDINÁRIA LEG-FED DEL-000467 ANO-1969 DECRETO-LEI LEG-FED DEC-005053 ANO-2004 DECRETO LEG-FED DEC-012031 ANO-2024 DECRETO LEG-EST LEI-022231 ANO-2016 ART-0002B LEI ORDINÁRIA, MG LEG-EST LEI-025414 ANO-2025 ART-00002 LEI ORDINÁRIA, MG
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=798158804)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

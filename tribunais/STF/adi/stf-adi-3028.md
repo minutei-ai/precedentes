@@ -1,0 +1,23 @@
+# STF · ADI 3028
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 3028
+- **Identificador na fonte:** `stf-adi-3028`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 26/05/2010
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3028)
+
+## Ementa
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. INCISO V DO ART. 28 DA LEI COMPLEMENTAR 166/99 DO ESTADO DO RIO GRANDE DO NORTE. TAXA INSTITUÍDA SOBRE AS ATIVIDADES NOTARIAIS E DE REGISTRO. PRODUTO DA ARRECADAÇÃO DESTINADO AO FUNDO DE REAPARELHAMENTO DO MINISTÉRIO PÚBLICO. 1. O Supremo Tribunal Federal vem admitindo a incidência de taxa sobre as atividades notariais e de registro, tendo por base de cálculo os emolumentos que são cobrados pelos titulares das serventias como pagamento do trabalho que eles prestam aos tomadores dos serviços cartorários. Tributo gerado em razão do exercício do poder de polícia que assiste aos Estados-membros, notadamente no plano da vigilância, orientação e correição da atividade em causa, nos termos do § 1º do art. 236 da Constituição Federal. 2. O inciso V do art. 28 da Lei Complementar 166/99 do Estado do Rio Grande do Norte criou taxa em razão do poder de polícia. Pelo que não incide a vedação do inciso IV do art. 167 da Carta Magna, que recai apenas sobre os impostos. 3. O produto da arrecadação de taxa de polícia sobre as atividades notariais e de registro não está restrito ao reaparelhamento do Poder Judiciário, mas ao aperfeiçoamento da jurisdição. E o Ministério Público é aparelho genuinamente estatal ou de existência necessária, unidade de serviço que se inscreve no rol daquelas que desempenham função essencial à jurisdição (art. 127, caput, da CF/88). Logo, bem aparelhar o Ministério Público é servir ao desígnio constitucional de aperfeiçoar a própria jurisdição como atividade básica do Estado e função específica do Poder Judiciário. 4. Ação direta que se julga improcedente.
+
+## Decisão
+
+Após o voto do Senhor Ministro Marco Aurélio (Relator), que julgava procedente a ação, pediu vista dos autos o Senhor Ministro Carlos Britto. Ausente, justificadamente, nesta assentada, o Senhor Ministro Eros Grau. Presidência da Senhora Ministra Ellen Gracie. Plenário, 01.03.2007. Decisão: Após o voto do Senhor Ministro Marco Aurélio (Relator), julgando procedente a ação direta, no que foi acompanhado pelos Senhores Ministros Menezes Direito, Cezar Peluso, Celso de Mello e Gilmar Mendes, e dos votos dos Senhores Ministros Carlos Britto, Ricardo Lewandowski, Eros Grau e Joaquim Barbosa, julgando-a improcedente, o julgamento foi adiado para colher os votos das Senhoras Ministras Cármen Lúcia e Ellen Gracie (Presidente), ausentes, justificadamente, neste julgamento. Presidência do Senhor Ministro Gilmar Mendes (Vice-Presidente). Plenário, 24.10.2007. Decisão: Chamado o feito para continuação do julgamento, pediu vista dos autos a Senhora Ministra Cármen Lúcia. Ausentes, licenciado, o Senhor Ministro Joaquim Barbosa e, neste pregão, o Senhor Ministro Carlos Britto. Presidência da Senhora Ministra Ellen Gracie. Plenário, 13.03.2008. Decisão: Prosseguindo no julgamento, o Tribunal, por maioria, julgou improcedente a ação direta, vencidos os Senhores Ministros Marco Aurélio (Relator), Menezes Direito, Cezar Peluso (Presidente), Celso de Mello e Gilmar Mendes. Redigirá o acórdão o Senhor Ministro Ayres Britto. Não votou o Senhor Ministro Dias Toffoli por suceder ao Senhor Ministro Menezes Direito, com voto proferido em assentada anterior. Ausente, licenciado, o Senhor Ministro Joaquim Barbosa, também com voto proferido em assentada anterior. Plenário, 26.05.2010.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 INC-00035 ART-00021 INC-00011 INC-00012 ART-00022 INC-00025 ART-00025 ART-00030 ART-00098 PAR-00002 REDAÇÃO DADA PELA EMC-45/2004 ART-00127 "CAPUT" ART-00129 INC-00002 ART-00145 INC-00002 ART-00150 ART-00155 ART-00160 INC-00004 ART-00167 INC-00004 ART-00175 PAR-ÚNICO INC-00001 INC-00002 INC-00003 INC-00004 ART-00236 "CAPUT" PAR-00001 PAR-00002 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00032 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED EMC-000045 ANO-2004 EMENDA CONSTITUCIONAL LEG-FED LEI-005172 ANO-1966 ART-00078 CTN-1966 CÓDIGO TRIBUTÁRIO NACIONAL LEG-EST LCP-000166 ANO-1999 ART-00028 INC-00005 REDAÇÃO DADA PELA LCP-181/2000 LEI COMPLEMENTAR, RN LEG-EST LCP-000181 ANO-2000 ART-00004 LEI COMPLEMENTAR, RN
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

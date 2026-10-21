@@ -1,0 +1,25 @@
+# STF · ADI 5598
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 5598
+- **Identificador na fonte:** `stf-adi-5598`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 27/03/2023
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5598)
+
+## Ementa
+
+EMENTA MEDIDA CAUTELAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONVERSÃO EM JULGAMENTO DE MÉRITO. ART. 51, §§ 1º e 2º, DA LEI Nº 5.695/2016 DO DISTRITO FEDERAL. LEI DE DIRETRIZES ORÇAMENTÁRIAS PARA O EXERCÍCIO FINANCEIRO DE 2017. REVOGAÇÃO DE PARTE DOS DISPOSITIVOS IMPUGNADOS APÓS A PROPOSITURA DA AÇÃO DIRETA. PERDA SUPERVENIENTE DO OBJETO. PREJUDICIALIDADE PARCIAL. ADITAMENTO. ART. 53 DA LEI Nº 5.950/2017. LEI DE DIRETRIZES ORÇAMENTÁRIAS PARA O EXERCÍCIO FINANCEIRO DE 2018. DISPOSITIVOS IDÊNTICOS. CÁLCULO DO LIMITE DA DESPESA TOTAL COM PESSOAL. CONTRATOS DE TERCEIRIZAÇÃO DE MÃO-DE-OBRA. SUBSTITUIÇÃO DE SERVIDORES E EMPREGADOS PÚBLICOS. CONTABILIZAÇÃO. BURLA AO LIMITE PREVISTO NO ART. 169 DA CONSTITUIÇÃO DA REPÚBLICA. ART. 18, § 1º, DA LEI DE RESPONSABILIDADE FISCAL. USURPAÇÃO DA COMPETÊNCIA DA UNIÃO PARA ESTABELECER NORMAS GERAIS SOBRE DIREITO FINANCEIRO E ORÇAMENTÁRIO. ARTS. 24, I E II E §§ 1º A 4º, DA CONSTITUIÇÃ DA REPÚBLICA. PRECEDENTE. PROCEDÊNCIA. 1. Firme o entendimento deste Supremo Tribunal Federal no sentido de que a revogação da norma impugnada, após o ajuizamento da ação direta de inconstitucionalidade e antes da inclusão no processo em pauta, acarreta, via de regra, a perda superveniente do seu objeto. Precedentes. Pedido de declaração de inconstitucionalidade do art. 51, § 2º, da Lei nº 5.695/2016 do Distrito Federal prejudicado. 2. Tratando-se de legislação de caráter temporário, a exemplo das leis diretrizes orçamentárias anuais, a jurisprudência desta Suprema Corte tem reconhecido que a sobrevinda do término do ano fiscal não conduz à prejudicialidade da ação quando (i) impugnada a norma a tempo e modo adequado; (ii) incluído o feito em pauta antes do exaurimento da eficácia da lei de caráter temporário e (iii) presente a possibilidade de reflexos do ato normativo em curso. Precedentes: ADI 4356/CE, Relator Ministro Dias Toffoli, Tribunal Pleno, DJe 12.5.2011; ADI 4426/CE, Relator Ministro Dias Toffoli, Tribunal Pleno, DJe 18.5.2011; ADI 3146/DF, Relator Ministro Joaquim Barbosa, Tribunal Pleno, DJ 19.12.2006. 3. Mostra-se inconstitucional, por inobservância do disposto nos arts. 24, I, II e §§ 1º a 4º, e 169 da Constituição da República, o dispositivo de lei distrital que, versando sobre o cálculo do limite da despesa total com pessoal, prevê regime contrário ao estabelecido na Lei de Responsabilidade Fiscal, invadindo a competência da União para estabelecer normas gerais sobre direito financeiro e orçamentário e consagrando a realização de despesa com pessoal em excesso aos limites estabelecidos na lei complementar de que trata o art. 169 da Lei Maior. Inconstitucionalidade do art. 51, § 1º, da Lei nº 5.695/2016 do Distrito Federal e do art. 53, § 1º, da Lei nº 5.950/2017 do Distrito Federal. 4. Ação direta de inconstitucionalidade parcialmente procedente.
+
+## Decisão
+
+Após o voto da Ministra Rosa Weber (Relatora), que convertia o julgamento da medida cautelar em julgamento definitivo de mérito, julgava prejudicado o pedido de declaração de inconstitucionalidade do art. 51, § 2º, da Lei nº 5.695/2016 do Distrito Federal, e procedentes os demais pedidos para declarar a inconstitucionalidade formal e material do art. 51, § 1º, da mesma lei, e do art. 53, § 1º, da Lei nº 5.950/2017 do Distrito Federal, pediu vista dos autos o Ministro Gilmar Mendes. Plenário, Sessão Virtual de 30.8.2019 a 5.9.2019. Decisão: O Tribunal, por unanimidade, converteu a apreciação do pedido de medida cautelar em julgamento de mérito, (i) julgou prejudicado o pedido de declaração de inconstitucionalidade do art. 51, § 2º, da Lei nº 5.695/2016 do Distrito Federal, e (ii) julgou procedentes os demais pedidos para declarar a inconstitucionalidade formal e material do art. 51, § 1º, da Lei nº 5.695/2016 do Distrito Federal e do art. 53, § 1º, da Lei nº 5.950/2017 do Distrito Federal, nos termos do voto da Relatora, Ministra Rosa Weber (Presidente). Plenário, Sessão Virtual de 17.3.2023 a 24.3.2023.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00024 INC-00001 INC-00002 PAR-00001 PAR-00002 PAR-00003 PAR-00004 ART-00169 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000101 ANO-2000 ART-00018 INC-00001 INC-00002 LET-A LET-B LET-C PAR-00001 LRF-2000 LEI DE RESPONSABILIDADE FISCAL LEG-DIS LEI-005695 ANO-2016 ART-00051 PAR-00001 INC-00002 LET-C PAR-00002 LEI ORDINÁRIA, DF LEG-DIS LEI-005718 ANO-2016 ART-00007 LEI ORDINÁRIA, DF LEG-DIS LEI-005950 ANO-2017 ART-00053 PAR-00001 LEI ORDINÁRIA, DF
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766973679)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,25 @@
+# STF · ADI 4717
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 4717
+- **Identificador na fonte:** `stf-adi-4717`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 05/04/2018
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4717)
+
+## Ementa
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA N. 558/2012. CONVERSÃO NA LEI N. 12.678/2012. INÉPCIA DA INICIAL E PREJUÍZO DA AÇÃO QUANTO AOS ARTS. 6º E 11 DA MEDIDA PROVISÓRIA N. 558/2012 E AO ART. 20 DA LEI N. 12.678/2012. POSSIBILIDADE DE EXAME DOS REQUISITOS CONSTITUCIONAIS PARA O EXERCÍCIO DA COMPETÊNCIA EXTRAORDINÁRIA NORMATIVA DO CHEFE DO EXECUTIVO. AUSÊNCIA DOS PRESSUPOSTOS DE RELEVÂNCIA E URGÊNCIA. ALTERAÇÃO DA ÁREA DE UNIDADES DE CONSERVAÇÃO POR MEDIDA PROVISÓRIA. IMPOSSIBILIDADE. CONFIGURADA OFENSA AO PRINCÍPIO DA PROIBIÇÃO DE RETROCESSO SOCIOAMBIENTAL. AÇÃO PARCIALMENTE CONHECIDA E, NESSA PARTE, JULGADA PROCEDENTE, SEM PRONÚNCIA DE NULIDADE. 1. Este Supremo Tribunal manifestou-se pela possibilidade e análise dos requisitos constitucionais para a edição de medida provisória após a sua conversão em lei. 2. A jurisprudência deste Supremo Tribunal admite, em caráter excepcional, a declaração de inconstitucionalidade de medida provisória quando se comprove abuso da competência normativa do Chefe do Executivo, pela ausência dos requisitos constitucionais de relevância e urgência. Na espécie, na exposição de motivos da medida provisória não se demonstrou, de forma suficiente, os requisitos constitucionais de urgência do caso. 3. As medidas provisórias não podem veicular norma que altere espaços territoriais especialmente protegidos, sob pena de ofensa ao art. 225, inc. III, da Constituição da República. 4. As alterações promovidas pela Lei n. 12.678/2012 importaram diminuição da proteção dos ecossistemas abrangidos pelas unidades de conservação por ela atingidas, acarretando ofensa ao princípio da proibição de retrocesso socioambiental, pois atingiram o núcleo essencial do direito fundamental ao meio ambiente ecologicamente equilibrado previsto no art. 225 da Constituição da República. 5. Ação direta de inconstitucionalidade parcialmente conhecida e, nessa parte, julgada procedente, sem pronúncia de nulidade.
+
+## Decisão
+
+Após o voto da Relatora, Ministra Cármen Lúcia (Presidente), conhecendo em parte da ação, e, na parte conhecida, julgando procedente o pedido, sem pronúncia de nulidade, pediu vista dos autos o Ministro Alexandre de Moraes. Ausente, justificadamente, o Ministro Dias Toffoli. Falaram: pelo Ministério Público Federal, o Dr. Rodrigo Janot Monteiro de Barros, Procurador-Geral da República; pela Advocacia-Geral da União, a Dra. Grace Maria Fernandes Mendonça, Advogada-Geral da União; e, pelo amicus curiae, Terra de Direitos, o Dr. Pedro Sergio Vieira Martins. Plenário, 16.8.2017. Decisão: O Tribunal, por unanimidade e nos termos do voto da Relatora, Ministra Cármen Lúcia (Presidente), conheceu em parte da ação, e, na parte conhecida, julgou procedente o pedido para, sem pronunciamento de nulidade, declarar a inconstitucionalidade da Medida Provisória n. 558/2012, convertida na Lei n. 12.678/2012. Ausentes, justificadamente, os Ministros Gilmar Mendes e Celso de Mello, e, neste julgamento, o Ministro Luiz Fux. Plenário, 5.4.2018.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1967 ART-00058 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00005 INC-00002 INC-00078 ART-00062 "CAPUT" REDAÇÃO DADA PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INC-00001 INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INC-00001 LET-A INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INC-00001 LET-B INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INC-00001 LET-C INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INC-00001 LET-D INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INC-00002 INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INC-00003 INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00001 INC-00004 INCLUÍDO PELA EMC-32/2001 ART-00062 "CAPUT" PAR-00002 INCLUÍDO PELA EMC-32/2001 ART-00062 REDAÇÃO ORIGINÁRIA ART-00093 INC-00009 ART-00167 INC-00009 ART-00225 "CAPUT" PAR-00001 INC-00003 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000032 ANO-2001 EMENDA CONSTITUCIONAL LEG-FED LEI-004771 ANO-1965 ART-00044 CFL-1965 CÓDIGO FLORESTAL LEG-FED LEI-009985 ANO-2000 ART-00042 "CAPUT" LEI ORDINÁRIA LEG-FED LEI-012249 ANO-2010 ART-0069A INCLUÍDO PELA LEI-12678/2012 LEI ORDINÁRIA LEG-FED LEI-012678 ANO-2012 ART-00020 LEI ORDINÁRIA LEG-FED MPR-000558 ANO-2012 ART-00006 ART-00011 MEDIDA PROVISÓRIA - CONVERTIDA NA LEI-12678/2012 LEG-FED RES-000003 ANO-2011 RESOLUÇÃO CONSELHO NACIONAL DE POLÍTICA ENERGÉTICA - CNPE
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=749158743)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

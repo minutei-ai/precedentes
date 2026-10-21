@@ -1,0 +1,25 @@
+# STF · ADI 2381
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 2381
+- **Identificador na fonte:** `stf-adi-2381`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 20/06/2001
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2381)
+
+## Ementa
+
+EMENTA: I. Ação direta de inconstitucionalidade: objeto idôneo: lei de criação de município. Ainda que não seja em si mesma uma norma jurídica, mas ato com forma de lei, que outorga status municipal a uma comunidade territorial, a criação de Município, pela generalidade dos efeitos que irradia, é um dado inovador, com força prospectiva, do complexo normativo em que se insere a nova entidade política: por isso, a validade da lei criadora, em face da Lei Fundamental, pode ser questionada por ação direta de inconstitucionalidade: precedentes. II. Norma constitucional de eficácia limitada, porque dependente de complementação infraconstitucional, tem, não obstante, em linha de princípio e sempre que possível, a imediata eficácia negativa de revogar as regras preexistentes que sejam contrárias. III. Município: criação: EC 15/96: plausibilidade da argüição de inconstitucionalidade da criação de municípios desde a sua promulgação e até que lei complementar venha a implementar sua eficácia plena, sem prejuízo, no entanto, da imediata revogação do sistema anterior. É certo que o novo processo de desmembramento de municípios, conforme a EC 15/96, ficou com a sua implementação sujeita à disciplina por lei complementar, pelo menos no que diz com o Estudo de Viabilidade Municipal, que passou a reclamar, e com a forma de sua divulgação anterior ao plebiscito. É imediata, contudo, a eficácia negativa da nova regra constitucional, de modo a impedir - de logo e até que advenha a lei complementar - a instauração e a conclusão de processos de emancipação em curso. Dessa eficácia imediata só se subtraem os processos já concluídos, com a lei de criação de novo município. No modelo federativo brasileiro - no ponto acentuado na Constituição de 1988 - os temas alusivos ao Município, a partir das normas atinentes à sua criação, há muito não constituem - ao contrário do que, na Primeira República, pudera sustentar Castro Nunes (Do Estado Federado e sua Organização Municipal, 2ª ed., Câmara dos Deputados, 1982, passim) - uma questão de interesse privativo do Estado-membro. Ente da Federação (CF, art. 18), que recebe diretamente da Constituição Federal numerosas competências comuns (art. 23) ou exclusivas (art. 30) - entre elas a de instituir e arrecadar tributos de sua área demarcada na Lei Fundamental (art. 156) - além de direito próprio de participação no produto de impostos federais e estaduais (art. 157-162) - o Município, seu regime jurídico e as normas regentes de sua criação interessam não apenas ao Estado- membro, mas à estrutura do Estado Federal total. IV. Poder de emenda constitucional: limitação material: forma federativa do Estado (CF, art. 60, § 4º, I): implausibilidade da alegação de que seja tendente a abolir a Federação a EC 15/96, no que volta a reclamar a interferência normativa da União na disciplina do processo de criação de municípios. Nesse contexto, o recuo da EC 15/96 - ao restabelecer, em tópicos específicos, a interferência refreadora da legislação complementar federal - não parece ter atingido, em seu núcleo essencial, a autonomia dos Estados-membros, aos quais - satisfeitas as exigências mínimas de consulta a toda a população do Município ou municípios envolvidos, precedida de estudo prévio de viabilidade da entidade local que se pretende erigir em município - permaneceu reservada a decisão política concreta. V. Razões de conveniência do deferimento da medida cautelar. Afigurando-se extremamente provável o julgamento final pela procedência da ação direta contra a lei de criação de Município impugnada, o mais conveniente é o deferimento da liminar - restabelecendo a situação anterior à sua instalação -, pois o curso do tempo fará ainda mais traumática a decisão prenunciada.
+
+## Decisão
+
+\- O Tribunal deferiu a medida cautelar para suspender a eficácia da Lei nº 11.375, de 28 de setembro de 1999, do Estado do Rio Grande do Sul. Votou o Presidente. Decisão unânime. Ausentes, justificadamente, a Senhora Ministra Ellen Gracie, e, neste julgamento, o Senhor Ministro Marco Aurélio (Presidente). Presidiu o julgamento o Senhor Ministro Ilmar Galvão (Vice-Presidente). Plenário, 20.6.2001.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1967 ART-00014 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00018 PAR-00004 ART-00023 ART-00030 ART-00060 PAR-00004 INC-00001 ART-00156 ART-00157 ART-00158 ART-00159 ART-00160 ART-00161 ART-00162 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000015 ANO-1996 LEG-EST LEI-011375 ANO-1999 (RS).
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347574)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,45 @@
+# TRT04 · Incidente de Resolução de Demandas Repetitivas
+
+**41 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](trt04-irdr-1.md) — Transitado em julgado
+- [IRDR 2](trt04-irdr-2.md) — Transitado em julgado
+- [IRDR 3](trt04-irdr-3.md) — Transitado em julgado
+- [IRDR 4](trt04-irdr-4.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 5](trt04-irdr-5.md) — Transitado em julgado
+- [IRDR 6](trt04-irdr-6.md) — Transitado em julgado
+- [IRDR 7](trt04-irdr-7.md) — Transitado em julgado
+- [IRDR 8](trt04-irdr-8.md) — Transitado em julgado
+- [IRDR 9](trt04-irdr-9.md) — Cancelado
+- [IRDR 10](trt04-irdr-10.md) — Cancelado
+- [IRDR 11](trt04-irdr-11.md) — Não admitido
+- [IRDR 12](trt04-irdr-12.md) — Transitado em julgado
+- [IRDR 13](trt04-irdr-13.md) — Não admitido
+- [IRDR 14](trt04-irdr-14.md) — Não admitido
+- [IRDR 15](trt04-irdr-15.md) — Transitado em julgado
+- [IRDR 16](trt04-irdr-16.md) — Cancelado
+- [IRDR 17](trt04-irdr-17.md) — Transitado em julgado
+- [IRDR 18](trt04-irdr-18.md) — Transitado em julgado
+- [IRDR 19](trt04-irdr-19.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 20](trt04-irdr-20.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 21](trt04-irdr-21.md) — Transitado em julgado
+- [IRDR 22](trt04-irdr-22.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 23](trt04-irdr-23.md) — Transitado em julgado
+- [IRDR 24](trt04-irdr-24.md) — Transitado em julgado
+- [IRDR 25](trt04-irdr-25.md) — Transitado em julgado
+- [IRDR 26](trt04-irdr-26.md) — Transitado em julgado
+- [IRDR 27](trt04-irdr-27.md) — Mérito julgado
+- [IRDR 28](trt04-irdr-28.md) — Transitado em julgado
+- [IRDR 29](trt04-irdr-29.md) — Transitado em julgado
+- [IRDR 30](trt04-irdr-30.md) — Transitado em julgado
+- [IRDR 31](trt04-irdr-31.md) — Transitado em julgado
+- [IRDR 32](trt04-irdr-32.md) — Suscitado
+- [IRDR 33](trt04-irdr-33.md) — Transitado em julgado
+- [IRDR 34](trt04-irdr-34.md) — Não admitido
+- [IRDR 35](trt04-irdr-35.md) — Suscitado
+- [IRDR 36](trt04-irdr-36.md) — Admitido
+- [IRDR 37](trt04-irdr-37.md) — Suscitado
+- [IRDR 38](trt04-irdr-38.md) — Suscitado
+- [IRDR 39](trt04-irdr-39.md) — Suscitado
+- [IRDR 40](trt04-irdr-40.md) — Suscitado
+- [IRDR 41](trt04-irdr-41.md) — Suscitado

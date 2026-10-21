@@ -1,0 +1,19 @@
+# STF · RG 1391
+
+- **Tribunal:** STF
+- **Espécie:** Tema de Repercussão Geral
+- **Número:** 1391
+- **Identificador na fonte:** `stf-rg-1391`
+- **Situação na fonte:** Há repercussão geral. Leading case: afetado
+- **Atualização informada pela fonte:** 15/10/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=RG&nr=1391)
+
+## Questão submetida a julgamento
+
+Constitucionalidade da incidência de Imposto de Renda de Pessoa Física (IRPF) sobre o ganho de capital na doação a título de adiantamento de legítima.
+
+## Processos paradigma
+
+- [1522312](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7074589)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

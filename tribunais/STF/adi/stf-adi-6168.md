@@ -1,0 +1,25 @@
+# STF · ADI 6168
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6168
+- **Identificador na fonte:** `stf-adi-6168`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 21/06/2021
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6168)
+
+## Ementa
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 7 DA LEI DISTRITAL 5.369/2014 E RESOLUÇÕES 4/2014 E 7/2015, DO CONSELHO DE ADMINISTRAÇÃO DO FUNDO DA PGDF, QUE CONCEDEM E DISCIPLINAM O RATEIO DOS HONORÁRIOS SUCUMBENCIAIS AOS PROCURADORES DO DF. CONSTITUCIONALIDADE. COMPATIBILIDADE COM O REGIME DE REMUNERAÇÃO POR SUBSÍDIO. IMPERIOSA OBSERVÂNCIA DO TETO CONSTITUCIONAL. ART. 37, XI, DA CF. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. TRANSFERÊNCIA DOS VALORES À CONTA DE ENTIDADE ASSOCIATIVA. INCONSTITUCIONALIDADE. AÇÃO JULGADA PARCIALMENTE PROCEDENTE. I – O Supremo Tribunal Federal sedimentou o entendimento no sentido da constitucionalidade da percepção dos honorários sucumbenciais pelos membros da Advocacia Pública, os quais ostentam nítida natureza remuneratória pelos exitosos serviços prestados. Precedentes. II - A remuneração por meio de subsídio não obsta o recebimento de honorários sucumbências por advogados públicos. Precedentes. III - A soma dos honorários sucumbências e das demais verbas remuneratórias deve ser limitada ao teto constitucional previsto no art. 37, XI, da Constituição Federal, especialmente porque a percepção dos honorários se dá em razão do exercício do relevante cargo público exercido. Precedentes. IV – Inconstitucionalidade da transferência dos honorários sucumbenciais de titularidade dos advogados públicos distritais para a conta da Associação dos Procuradores do Distrito Federal. Precedente. V - Ação direta de inconstitucionalidade julgada parcialmente procedente para declarar a inconstitucionalidade da expressão “à Associação dos Procuradores do Distrito Federal ou” do parágrafo único do art. 2° da Resolução 7/2015, assim como para conferir interpretação conforme à Constituição ao art. 7° da Lei distrital 5.369/2014 e, por arrastamento, às Resoluções 4/2014 e 7/2015 do Conselho de Administração do Fundo da Procuradoria-Geral do Distrito Federal, afirmando que a soma total das remunerações, incluindo os honorários de sucumbência percebidos mensalmente pelos membros da PGDF, deverá obedecer o teto remuneratório constitucional dos Ministros do Supremo Tribunal Federal, estabelecido pelo art. 37, XI, da CF.
+
+## Decisão
+
+O Tribunal, por unanimidade, declarou a constitucionalidade da percepção de honorários de sucumbência pelos Procuradores do Distrito Federal e julgou parcialmente procedente o pedido formulado na ação direta para declarar a inconstitucionalidade da expressão “à Associação dos Procuradores do Distrito Federal ou” do parágrafo único do art. 2° da Resolução 7/2015, assim como para conferir interpretação conforme à Constituição ao art. 7° da Lei Distrital 5.369/2014 e, por arrastamento, às Resoluções 4/2014 e 7/2015 do Conselho de Administração do Fundo da Procuradoria-Geral do Distrito Federal. Afirmou, ainda, que a soma total das remunerações, incluindo os honorários de sucumbência percebidos mensalmente pelos membros da PGDF, deverá obedecer o teto remuneratório constitucional dos Ministros do Supremo Tribunal Federal, estabelecido pelo art. 37, XI, da CF. Tudo nos termos do voto do Relator. Os Ministros Roberto Barroso e Nunes Marques acompanharam o Relator com ressalvas. Falou, pelo amicus curiae Associação Nacional dos Procuradores dos Estados e do Distrito Federal - ANAPE, o Dr. Carlos Frederico Braga Martins. Afirmou suspeição o Ministro Marco Aurélio. Plenário, Sessão Virtual de 11.6.2021 a 18.6.2021.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00037 INC-00011 ART-00039 PAR-00004 PAR-00008 ART-00131 PAR-00001 PAR-00002 PAR-00003 ART-00132 PAR-ÚNICO CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000019 ANO-1998 EMENDA CONSTITUCIONAL LEG-FED EMC-000041 ANO-2003 EMENDA CONSTITUCIONAL LEG-FED LEI-008906 ANO-1994 ART-00023 EOAB-1994 ESTATUTO DA ADVOCACIA E ORDEM DOS ADVOGADOS DO BRASIL LEG-FED LEI-005369 ANO-2014 ART-00007 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015 ART-00085 PAR-00019 ART-00145 PAR-00001 CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-013327 ANO-2016 ART-00027 ART-00029 ART-00030 ART-00031 ART-00032 ART-00033 ART-00034 ART-00035 ART-00036 LEI ORDINÁRIA LEG-FED RES-000004 ANO-2014 RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO DO FUNDO DA PROCURADORIA-GERAL DO DISTRITO FEDERAL LEG-FED RES-000007 ANO-2015 ART-00002 RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO DO FUNDO DA PROCURADORIA-GERAL DO DISTRITO FEDERAL LEG-EST LCP-000134 ANO-2014 LEI COMPLEMENTAR, CE LEG-DIS LEI-005369 ANO-2014 ART-00007 LEI ORDINÁRIA, DF
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=757622007)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

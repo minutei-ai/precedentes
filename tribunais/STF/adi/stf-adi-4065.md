@@ -1,0 +1,25 @@
+# STF · ADI 4065
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 4065
+- **Identificador na fonte:** `stf-adi-4065`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 03/06/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4065)
+
+## Ementa
+
+Ementa: DIREITO CONSTITUCIONAL E TRIBUTÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 131, II, DA LEI ORGÂNICA DO DISTRITO FEDERAL. REDAÇÃO ORIGINAL E DADA PELA EMENDA N. 38/2002. CONCESSÃO DE BENEFÍCIOS FISCAIS. LIMITAÇÃO TEMPORAL. SEPARAÇÃO DE PODERES. AUTONOMIA POLÍTICA DO DISTRITO FEDERAL. AFRONTA. DIREITO TRIBUTÁRIO E FINANCEIRO. COMPETÊNCIA LEGISLATIVA CONCORRENTE. INOBSERVÂNCIA. INCONSTITUCIONALIDADE. ART. 58 DO ATO DAS DISPOSIÇÕES TRANSITÓRIAS. OBJETO. INSUBSISTÊNCIA. CONHECIMENTO PARCIAL DA AÇÃO. PROCEDÊNCIA DO PEDIDO. I. CASO EM EXAME 1. Ação direta de inconstitucionalidade, com pedido de medida cautelar, ajuizada contra o art. 131, II, da LODF, tanto na redação original quanto naquela dada pela Emenda de n. 38/2002, bem assim contra o art. 58 do Ato das Disposições Transitórias (ADT), inserido pela Emenda n. 45/2006. 2. O art. 131, II, da LODF veda a concessão de isenções, anistias, remissões, benefícios e incentivos fiscais no último ano de cada legislatura, ressalvados os casos de calamidade pública e, na nova redação, os benefícios relativos ao ICMS. 3. O art. 58 do ADT teve por objetivo convalidar leis distritais aprovadas em 2005 e publicadas em 2006. II. QUESTÃO EM DISCUSSÃO 4. A questão em discussão consiste em saber se a LODF pode impor restrições adicionais ao exercício das competências legislativas e tributárias dos Poderes Executivo e Legislativo do Distrito Federal, comprometendo a autonomia política do ente político. III. RAZÕES DE DECIDIR 5. O art. 131, II, da LODF limita, de forma absoluta, a concessão de incentivos fiscais nos últimos anos das legislaturas, o que implica restrição indevida à autonomia legislativa e à competência tributária do Distrito Federal. 6. As normas de responsabilidade fiscal, inclusive as relativas à renúncia de receitas, estão previstas em legislação complementar nacional (LC n. 101/2000, LC n. 24/1975), de observância obrigatória por todos os entes federativos. 7. A imposição de restrições para além das previstas na legislação nacional, sem fundamento em peculiaridades locais, afronta o pacto federativo e invade a competência legislativa da União (CF, art. 24, I). 8. A norma impugnada presume, de forma absoluta, a má-fé dos agentes públicos, em contrariedade aos princípios da legalidade, da moralidade e da boa-fé objetiva que regem a Administração Pública. 9. A edição do art. 58 do ADT da Lei Orgânica do Distrito Federal no intuito de convalidar leis que afrontariam o art. 131, II, da LODF torna-se inócua diante da declaração de inconstitucionalidade deste dispositivo, de modo que se configura a perda de objeto da ação quanto ao ponto. IV. DISPOSITIVO 10. Conhecida, em parte, a ação direta e, nessa extensão, julgado procedente o pedido para declarar a inconstitucionalidade do art. 131, II, da LODF, tanto na redação original quanto naquela dada pela Emenda à Lei Orgânica n. 38/2002.
+
+## Decisão
+
+O Tribunal, por unanimidade, conheceu parcialmente da ação para, nessa extensão, julgar procedente o pedido e declarar a inconstitucionalidade do art. 131, II, da LODF, tanto na redação original como naquela dada pela Emenda à Lei Orgânica n. 38, de 10 de abril de 2002, nos termos do voto do Relator, Ministro Nunes Marques. Plenário, Sessão Virtual de 23.5.2025 a 30.5.2025.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00018 ART-00024 INC-00001 PAR-00001 PAR-00002 PAR-00003 ART-00030 ART-00061 PAR-00001 INC-00002 LET-A LET-C ART-00103 INC-00005 ART-00146 INC-00002 ART-00155 PAR-00002 INC-00012 LET-G ART-00163 INC-00001 INC-00009 ART-0164A CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000109 ANO-2021 EMENDA CONSTITUCIONAL LEG-FED EMC-000135 ANO-2024 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1988 ART-00113 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LCP-000024 ANO-1975 LEI COMPLEMENTAR LEG-FED LCP-000101 ANO-2000 ART-00001 ART-00014 INC-00001 INC-00002 PAR-00001 PAR-00002 PAR-00003 INC-00001 INC-00002 LRF-2000 LEI DE RESPONSABILIDADE FISCAL LEG-FED SUMSTF-000544 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF LEG-DIS EMC-000038 ANO-2002 EMENDA CONSTITUCIONAL LEG-DIS EMC-000045 ANO-2006 EMENDA CONSTITUCIONAL LEG-DIS LEI-003736 LEI ORDINÁRIA LEG-DIS LEI-003757 LEI ORDINÁRIA LEG-DIS LEI-003830 LEI ORDINÁRIA LEG-DIS LEI ANO-1993 ART-00131 INC-00002 ART-00132 INC-00002 ART-00135 PAR-00005 INC-00007 LODF-1993 LEI ORGÂNICA DO DISTRITO FEDERAL LEG-DIS ADT ART-00058 ATO DAS DISPOSIÇÕES TRANSITÓRIAS
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=787827078)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,25 @@
+# STF · ADI 5622
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 5622
+- **Identificador na fonte:** `stf-adi-5622`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 16/12/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5622)
+
+## Ementa
+
+Ementa: DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO. EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 54, X, DA CONSTITUIÇÃO DO ESTADO DO PIAUÍ. EMENDA DE N. 59/2021. SUPERVENIÊNCIA. ALTERAÇÃO NÃO SUBSTANCIAL. PREJUÍZO. AUSÊNCIA. INFORMAÇÕES E MANIFESTAÇÕES ADICIONAIS. DISPENSA. SUBTETO REMUNERATÓRIO DO PODER JUDICIÁRIO. EXTENSÃO. PERITOS OFICIAIS DE NATUREZA CRIMINAL. OFICIAIS MILITARES. ANALISTAS DO TESOURO ESTADUAL. AUTORIDADES VINCULADAS AO PODER EXECUTIVO. INCOMPATIBILIDADE COM O ART. 37, XI, DA CF/1988. INCONSTITUCIONALIDADE. PRECEDENTES. JULGAMENTO DE MÉRITO. RAZÕES DE DECIDIR. PERTINÊNCIA. RECURSO PARCIALMENTE PROVIDO. I. CASO EM EXAME 1. Embargos de declaração opostos pela Assembleia Legislativa do Estado do Piauí contra acórdão que conheceu, em parte, da ação e, nessa extensão, julgou parcialmente procedente o pedido, para declarar: (i) a inconstitucionalidade do termo “jurídicas” constante do art. 12, parágrafo único, da LC n. 37/2004 do Estado do Piauí; (ii) a inconstitucionalidade formal do inciso X do art. 54 da Constituição do Piauí, na redação dada pela Emenda de n. 44/2015; e (iii) a inconstitucionalidade material da expressão “aos Auditores Fiscais da Fazenda Estadual, aos Delegados de Polícia, e aos Auditores Governamentais” contida no citado dispositivo. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: saber se (i) há omissão quanto à superveniência da Emenda de n. 59/2021, que modifica a redação do art. 54, X, da Constituição do Estado do Piauí, e à delimitação dos servidores alcançados pela decisão; e (ii) verificar se a alteração prejudica o objeto da ação, no todo ou em parte. III. RAZÕES DE DECIDIR 3. O advento da EC n. 59/2021, não noticiada nos autos e não apreciada no julgamento recorrido, altera o art. 54, X, da Constituição do Estado do Piauí, apenas para acrescer, no rol de autoridades sujeitas ao subteto remuneratório do Poder Judiciário, os Peritos Oficiais de Natureza Criminal, os Oficiais Militares e os Analistas do Tesouro Estadual. 4. Trata-se de alteração não substancial do dispositivo questionado, a revelar continuidade normativa e manutenção do arguido quadro de inconstitucionalidade, subsistindo o interesse de agir e o dever do STF de guarda da CF/1988. Precedentes. 5. Ausente mudança na intenção do constituinte estadual ou no sentido da norma, os fundamentos deduzidos na petição inicial para formular o pedido quanto ao citado art. 54, X, mostram-se suficientes para impugnar também o conteúdo jurídico vigente, conferido pela EC n. 59/2021, dispensada a prestação de informações ou juntada de manifestações adicionais. Precedentes. 6. Tendo em vista o estágio processual, cumpre, desde logo, integrar o acórdão de mérito, para adotar as razões de decidir também em relação à redação do art. 54, X, da Constituição do Estado do Piauí, atribuída pela EC n. 59/2021. 7. O STF possui orientação jurisprudencial reiterada pela impossibilidade da ampliação, mediante emenda constitucional estadual, do elenco de autoridades submetidas ao subteto remuneratório estadual do Judiciário, considerado o rol taxativo encerrado no art. 37, XI, da CF/1988. IV. DISPOSITIVO E TESE 8. Embargos de declaração providos, em parte, para declarar a inconstitucionalidade da expressão “aos Auditores Fiscais da Fazenda Estadual, aos Delegados de Polícia, Peritos Oficiais de Natureza Criminal, Oficiais Militares, Analistas do Tesouro Estadual e aos Auditores Governamentais” contida no art. 54, X, da Constituição do Estado do Piauí, na redação dada pela EC n. 59/2021.
+
+## Decisão
+
+(ED) O Tribunal, por unanimidade, deu provimento aos embargos de declaração, em parte, para declarar a inconstitucionalidade da expressão “aos Auditores Fiscais da Fazenda Estadual, aos Delegados de Polícia, Peritos Oficiais de Natureza Criminal, Oficiais Militares, Analistas do Tesouro Estadual e aos Auditores Governamentais” contida no art. 54, X, da Constituição do Estado do Piauí, na redação dada pela Emenda de n. 59/2021, nos termos do voto do Relator, Ministro Nunes Marques. Plenário, Sessão Virtual de 5.12.2025 a 15.12.2025.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00037 INC-00011 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ART-00054 INC-00010 CONSTITUIÇÃO ESTADUAL, PI LEG-EST EMC-000027 ANO-2008 EMENDA CONSTITUCIONAL, PI LEG-EST EMC-000044 ANO-2015 EMENDA CONSTITUCIONAL, PI LEG-EST EMC-000059 ANO-2021 ART-00054 INC-00010 EMENDA CONSTITUCIONAL, PI LEG-EST LCP-000037 ANO-2004 ART-00012 PAR-ÚNICO LEI COMPLEMENTAR, PI
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=793998487)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

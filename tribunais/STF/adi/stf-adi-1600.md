@@ -1,0 +1,25 @@
+# STF · ADI 1600
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 1600
+- **Identificador na fonte:** `stf-adi-1600`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 27/08/1997
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1600)
+
+## Ementa
+
+EMENTA: - DIREITO CONSTITUCIONAL E TRIBUTÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO. MEDIDA CAUTELAR. I.C.M.S. - NAVEGAÇÃO AÉREA. TRANSPORTE AÉREO. TRANSPORTES INTERESTADUAL E INTERMUNICIPAL POR QUALQUER VIA. LEI COMPLEMENTAR N 87, DE 16 DE SETEMBRO DE 1996. 1. A um primeiro exame, a petição inicial parece conter a cumulação de pedidos de declaração de inconstitucionalidade por omissão e por ação. A omissão consistiria no descumprimento do art. 146, incisos I e III, e 155, § 2 , inciso XII, da Constituição Federal. E a violação por ação estaria representada pela afronta direta aos artigos 150, inciso II, 155, inciso I, alínea "b". Não é, porém, o que ocorre. 2. Na verdade, o que pretende a Procuradoria Geral da República, com a propositura da presente Ação Direta, não é a declaração de inconstitucionalidade por omissão do Poder Executivo, que teve a iniciativa do Projeto de Lei Complementar, e do Poder Legislativo, que o aprovou, para que estes, suprindo-a (a omissão), façam desaparecer o vício que invalidaria os dispositivos impugnados, quanto às operações de transporte aéreo. E é isso que se pode pedir em Ação Direta de Inconstitucionalidade por Omissão, ou seja, que o Poder ou os Poderes competentes sejam cientificados da decisão do Tribunal, "para a adoção das providências necessárias", como determina o § 2 do art. 103 da Constituição Federal, vale dizer, para o suprimento da omissão. 3. O Tribunal, então, por unanimidade de votos, conhece da Ação Direta de Inconstitucionalidade por violação positiva da Constituição. 4. Por maioria de votos, indefere a medida cautelar de suspensão da eficácia "do artigo 1 , inciso II do artigo 2 ", "para o fim de excluir a navegação aérea, sem redução do texto, do âmbito de compreensão das expressões "transportes interestadual e intermunicipal, por qualquer via"; dos "artigos 2 , "1 , inciso II; 4 , parágrafo único, inciso II; 11, inciso IV; 12, inciso X e 13, inciso VI, todos da Lei Complementar n 87, de 16 de setembro de 1996". 5. Considera a maioria, a um primeiro exame, para o efeito de concessão, ou não, de medida cautelar, que tais dispositivos não violam o disposto no art. 146, incisos I e III, 155, § 2 , inc. XII, 150, inc. II, e 155, inc. I, "b", da Constituição Federal. Afasta, pois, a plausibilidade jurídica da ação ("fumus boni iuris"), um dos requisitos para a concessão da medida. 6. A minoria considera relevantes os fundamentos jurídicos da Ação e também presente o requisito do "periculum in mora", já que "a não suspensão pode causar prejuízos irreparáveis às empresas aéreas brasileiras e aos usuários de seus serviços, seja em face de possíveis conflitos fiscais entre os Estados e Municípios, seja em face da competição que aquelas terão de travar, possivelmente em desigualdade de condições, com as empresas brasileiras". 7. Ação conhecida como Direta de Inconstitucionalidade por Ação (e não por Omissão). 8. Medida cautelar indeferida por maioria de votos (6). A minoria (5 votos) defere, em parte, a medida cautelar, para, mediante interpretação conforme à Constituição e sem redução de texto, afastar, até o julgamento final da Ação, qualquer exegese que inclua, no âmbito de compreensão da Lei Complementar n 87, de 13.09.1996, a prestação de serviços de navegação ou transporte aéreo.
+
+## Decisão
+
+O Tribunal, por votação unânime, conheceu, como ação direta de inconstitucionalidade por violação positiva da Constituição, da presente ação direta ajuizada pelo Procurador-Geral da República. Prosseguindo no julgamento, o Tribunal, por votação majoritária, indeferiu o pedido de medida cautelar, vencidos os Ministros Sydney Sanches (Relator), Nelson Jobim, Maurício Corrêa, Ilmar Galvão e Moreira Alves, que o deferiam, em parte, para, em interpretação conforme a constituição e sem redução de texto, afastarem qualquer exegese que inclua, no âmbito de compreensão da Lei Complementar n0 87, de 13/9/96, a prestação de serviços de navegação ou de transporte aéreo. Votou o Presidente. Plenário, 27/8/97.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00146 INC-00001 INC-00003 LET-A ART-00150 INC-00002 ART-00155 INC-00001 LET-B INC-00002 PAR-00002 INC-00012 ART-00178 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000087 ANO-1996 ART-00001 ART-00002 PAR-00001 INC-00002 ART-00004 PAR-ÚNICO INC-00002 ART-00011 INC-00004 ART-00012 INC-00010 ART-00013 INC-00006
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=347153)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

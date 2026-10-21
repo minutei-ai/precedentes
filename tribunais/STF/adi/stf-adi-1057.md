@@ -1,0 +1,25 @@
+# STF · ADI 1057
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 1057
+- **Identificador na fonte:** `stf-adi-1057`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 20/04/1994
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1057)
+
+## Ementa
+
+E M E N T A: AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEI Nº 6.571/94, DO ESTADO DA BAHIA - DUPLA VACÂNCIA DOS CARGOS DE GOVERNADOR E DE VICE-GOVERNADOR DO ESTADO - ELEIÇÃO PELA ASSEMBLÉIA LEGISLATIVA PARA O EXERCÍCIO DO MANDATO RESIDUAL - MATÉRIA CUJA DISCIPLINA NORMATIVA INSERE-SE NA COMPETÊNCIA POLÍTICO- -ADMINISTRATIVA DOS ESTADOS-MEMBROS - SIGILO DO VOTO NO ÂMBITO DO PODER LEGISLATIVO - EXCEPCIONALIDADE - PREVALÊNCIA DA VOTAÇÃO ABERTA - CONDIÇÕES DE ELEGIBILIDADE (CF, ART. 14, § 3º) E HIPÓTESES DE INELEGIBILIDADE (CF, ART. 14, §§ 4º A 9º) - APLICABILIDADE NECESSÁRIA AO PROCESSO DE ESCOLHA PARLAMENTAR DO GOVERNADOR E VICE-GOVERNADOR - MEDIDA CAUTELAR INDEFERIDA. - O Estado-membro dispõe de competência para disciplinar o processo de escolha, por sua Assembléia Legislativa, do Governador e do Vice-Governador do Estado, nas hipóteses em que se verificar a dupla vacância desses cargos nos últimos dois anos do período governamental. Essa competência legislativa do Estado-membro decorre da capacidade de autogoverno que lhe outorgou a própria Constituição da República. - As condições de elegibilidade (CF, art. 14, § 3º) e as hipóteses de inelegibilidade (CF, art. 14, § 4º a 8º), inclusive aquelas decorrentes de legislação complementar (CF, art. 14, § 9º), aplicam-se de pleno direito, independentemente de sua expressa previsão na lei local, à eleição indireta para Governador e Vice-Governador do Estado, realizada pela Assembléia Legislativa em caso de dupla vacância desses cargos executivos no último biênio do período de governo. - A cláusula tutelar inscrita no art. 14, caput, da Constituição tem por destinatário específico e exclusivo o eleitor comum, no exercício das prerrogativas inerentes ao status activae civitatis. Essa norma de garantia não se aplica, contudo, ao membro do Poder Legislativo nos procedimentos de votação parlamentar, em cujo âmbito prevalece, como regra, o postulado da deliberação ostensiva ou aberta. - As deliberações parlamentares regem-se, ordinariamente, pelo princípio da publicidade, que traduz dogma do regime constitucional democrático. A votação pública e ostensiva nas Casas Legislativas constitui um dos instrumentos mais significativos de controle do poder estatal pela Sociedade civil.
+
+## Decisão
+
+Adiado o julgamento, em face do pedido de vista do Ministro Marco Aurélio, depois dos votos dos Ministros Relator e Ilmar Galvão, indeferindo o requerimento de medida liminar. Ausente, justificadamente, o Ministro Francisco Rezek. Vice-Procurador-Geral da República, Dr. Moacir Antonio Machado da Silva. Plenário, 14.4.94. Decisão: Por maioria de votos, o Tribunal indeferiu o pedido de medida liminar, vencidos, em parte, os Ministros Marco Aurélio, Sepúlveda Pertence, Paulo Brossard e Néri da Silveira, que o deferiam para suspender, até a decisão final da ação, a eficácia da expressão e aberta, contida no art. 1° da Lei n° 6.571, de 25.3.94, do Estado da Bahia. Ainda, por unanimidade, ficou assentada a interpretação, segundo a qual o disposto no art. 2° da mesma Lei não exclui a aplicação das condições de elegibilidade e das cláusulas de inelegibilidade, diretamente prevista na Constituição Federal e na Lei Complementar federal. Votou o Presidente. Plenário, 20.4.94.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1934 ART-00052 PAR-00003 CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 ART-00043 ART-00079 PAR-00002 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00008 INC-00017 LET-B CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00012 PAR-00003 ART-00014 CAPUT PAR-00003 INC-00001 INC-00002 INC-00003 INC-00004 LET-B INC-00005 INC-00006 PAR-00004 PAR-00005 PAR-00006 PAR-00007 PAR-00008 PAR-00009 ART-00016 ART-00022 INC-00001 PAR-ÚNICO ART-00024 CAPUT PAR-00003 ART-00025 ART-00028 ART-00047 ART-00052 INC-00003 LET-C INC-00004 ART-00055 PAR-00002 ART-00060 PAR-00004 INC-00002 ART-00066 PAR-00004 ART-00077 ART-00081 PAR-00001 PAR-00002 ART-00103 INC-00008 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000009 ANO-1969 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1934 ART-00001 PAR-00001 ART-00003 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LCP-000064 ANO-1990 LEI COMPLEMENTAR LEG-FED LEI-001395 ANO-1951 LEI ORDINÁRIA LEG-FED LEI-006534 ANO-1978 LEI ORDINÁRIA LEG-EST CES ANO-1989 ART-00102 PAR-00002 CONSTITUIÇÃO ESTADUAL, BA LEG-EST LEI-006571 ANO-1994 ART-00001 ART-00002 ART-00003 ART-00004 LEI ORDINÁRIA, BA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=346795)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

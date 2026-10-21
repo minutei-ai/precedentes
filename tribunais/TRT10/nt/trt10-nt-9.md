@@ -1,0 +1,23 @@
+# TRT10 · NT 9
+
+- **Tribunal:** TRT10
+- **Espécie:** Nota Técnica
+- **Número:** 9
+- **Identificador na fonte:** `trt10-nt-9`
+- **Situação na fonte:** Vigente
+- **Atualização informada pela fonte:** 12/05/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt10&tipo=NT&nr=9)
+
+## Questão submetida a julgamento
+
+Direito do Trabalho Comissão Regional de Inteligência do Tribunal Regional do Trabalho da 10ª Região
+
+## Texto disponibilizado pela fonte
+
+4.1 É cabível a instauração do incidente de resolução de demandas repetitivas quando houver, simultaneamente: I - efetiva repetição de processos que contenham controvérsia sobre a mesma questão unicamente de direito; II - risco de ofensa à isonomia e à segurança jurídica. 4.2 É incabível o incidente de resolução de demandas repetitivas na hipótese de um dos tribunais superiores, no âmbito de sua respectiva competência, já tiver afetado recurso para definição de tese sobre questão de direito material ou processual repetitiva. 4.3 A inadmissão do incidente de resolução de demandas repetitivas por ausência de qualquer de seus pressupostos de admissibilidade não impede que, uma vez satisfeito o requisito, seja o incidente novamente suscitado. 4.4 O pedido de instauração do incidente será dirigido ao Presidente do Tribunal, por malote digital, processo administrativo SEI ou em meio físico acompanhado de cópia eletrônica enviada por e-mail: I – pelo juiz ou relator, por ofício; II – pelas partes ou Ministério Público do Trabalho, por petição nos próprios autos judiciais eletrônicos. 4.5 O incidente também poderá ser provocado por deliberação do Órgão fracionário originariamente competente para apreciar o feito, por proposta de qualquer de seus membros, desde que aprovada por maioria dos membros efetivos do respectivo Órgão. 4.6 Será comunicada à Presidência do Tribunal quando o incidente for suscitado pela parte ou pelo Ministério Público do Trabalho diretamente no PJe. 4.7 Se não for o requerente, o Ministério Público do Trabalho intervirá obrigatoriamente no incidente e deverá assumir sua titularidade em caso de desistência ou de abandono. 4.8 O incidente somente poderá ser suscitado antes do início do julgamento do recurso utilizado como paradigma, e deverá ser instruído com os documentos necessários à demonstração do preenchimento dos pressupostos para a sua instauração. 4.9 Não serão exigidas custas processuais no incidente de resolução de demandas repetitivas. 4.10 Do ofício ou da petição constarão obrigatoriamente: I – a indicação do processo de origem; II – a indicação das partes e advogados cadastrados no processo; III – a delimitação precisa da moldura fática e do tema e, se for o caso, também as questões preliminares, prejudiciais ou de mérito que devam ser alcançadas pelo incidente; IV – a demonstração dos pressupostos de admissibilidade; V – o requerimento de uniformização; VI – a data, o local e a assinatura do respectivo subscritor. 4.11 O Presidente do Tribunal determinará a autuação na classe respectiva, registro e distribuição pela Secretaria do Tribunal Pleno, ficando o relator originário prevento para o incidente. 4.12 Se o incidente for suscitado por Juiz de primeiro grau e ainda não houver Desembargador do Trabalho prevento, na forma do parágrafo único do art. 930 do CPC, a distribuição se dará entre os membros do Tribunal, por sorteio. 4.13 Havendo mais de um incidente sobre a mesma matéria, ou em temas correlatos, conforme avaliação efetuada pela Presidência do Tribunal, a distribuição será feita por prevenção ao relator ao qual tiver sido distribuído o primeiro. 4.14 Caso o relator entenda conveniente, poderá indicar outros processos que auxiliem na exemplificação da controvérsia, em substituição ou em adição ao processo originário do incidente. 4.15 Caso o relator do incidente indique para afetação processos que não estejam sob sua relatoria originariamente ou redistribuídos –, determinará a imediata suspensão, quanto ao pedido que contenha a controvérsia objeto do incidente em tais processos, nesta hipótese cabendo ao Pleno, além de confirmar a admissibilidade do incidente e a delimitação da tese, referendar a afetação e a suspensão de tais processos representativos da controvérsia. 4.16 Na hipótese do item anterior, o relator do incidente poderá solicitar ao(s) relator(es) de tal(is) exemplificativo(s) que lhe seja(m) redistribuído(s), mediante compensação.
+
+## Processos paradigma
+
+- Link Nota Técnica
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT10/).

@@ -1,0 +1,41 @@
+# TJSC · Incidente de Assunção de Competência
+
+**37 registros.** [Voltar ao tribunal](../)
+
+- [IAC 1](tjsc-iac-1.md) — Transitado em julgado
+- [IAC 2](tjsc-iac-2.md) — Transitado em julgado
+- [IAC 3](tjsc-iac-3.md) — Transitado em julgado
+- [IAC 4](tjsc-iac-4.md) — Transitado em julgado
+- [IAC 5](tjsc-iac-5.md) — Transitado em julgado
+- [IAC 6](tjsc-iac-6.md) — Transitado em julgado
+- [IAC 7](tjsc-iac-7.md) — Transitado em julgado
+- [IAC 8](tjsc-iac-8.md) — Cancelado
+- [IAC 9](tjsc-iac-9.md) — Cancelado
+- [IAC 10](tjsc-iac-10.md) — Transitado em julgado
+- [IAC 11](tjsc-iac-11.md) — Transitado em julgado
+- [IAC 12](tjsc-iac-12.md) — Transitado em julgado
+- [IAC 13](tjsc-iac-13.md) — Transitado em julgado
+- [IAC 14](tjsc-iac-14.md) — Transitado em julgado
+- [IAC 15](tjsc-iac-15.md) — Transitado em julgado
+- [IAC 16](tjsc-iac-16.md) — Transitado em julgado
+- [IAC 17](tjsc-iac-17.md) — Transitado em julgado
+- [IAC 18](tjsc-iac-18.md) — Transitado em julgado
+- [IAC 19](tjsc-iac-19.md) — Transitado em julgado
+- [IAC 20](tjsc-iac-20.md) — Transitado em julgado
+- [IAC 21](tjsc-iac-21.md) — Transitado em julgado
+- [IAC 22](tjsc-iac-22.md) — Transitado em julgado
+- [IAC 23](tjsc-iac-23.md) — Transitado em julgado
+- [IAC 24](tjsc-iac-24.md) — Transitado em julgado
+- [IAC 25](tjsc-iac-25.md) — Acórdão Publicado (Mérito)
+- [IAC 26](tjsc-iac-26.md) — Transitado em julgado
+- [IAC 27](tjsc-iac-27.md) — Transitado em julgado
+- [IAC 28](tjsc-iac-28.md) — Transitado em julgado
+- [IAC 29](tjsc-iac-29.md) — Transitado em julgado
+- [IAC 30](tjsc-iac-30.md) — Transitado em julgado
+- [IAC 31](tjsc-iac-31.md) — Transitado em julgado
+- [IAC 32](tjsc-iac-32.md) — Transitado em julgado
+- [IAC 33](tjsc-iac-33.md) — Acórdão Publicado (Mérito)
+- [IAC 34](tjsc-iac-34.md) — Acórdão Publicado (RE Pendente)
+- [IAC 35](tjsc-iac-35.md) — Acórdão Publicado (Mérito)
+- [IAC 36](tjsc-iac-36.md) — Acórdão Publicado (Mérito)
+- [IAC 37](tjsc-iac-37.md) — Acórdão Publicado (Mérito)

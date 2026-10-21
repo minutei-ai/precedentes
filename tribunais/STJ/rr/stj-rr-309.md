@@ -1,0 +1,23 @@
+# STJ · RR 309
+
+- **Tribunal:** STJ
+- **Espécie:** Recurso Especial Repetitivo
+- **Número:** 309
+- **Identificador na fonte:** `stj-rr-309`
+- **Situação na fonte:** Transitado em julgado
+- **Atualização informada pela fonte:** 30/03/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=309)
+
+## Questão submetida a julgamento
+
+Discussão acerca da legitimidade passiva da Brasil Telecom S/A para responder pelas ações não subscritas da Companhia Riograndense de Telecomunicações, bem como do prazo prescricional para se pleitear o pagamento dos dividendos relativos às ações a serem indenizadas.
+
+## Texto disponibilizado pela fonte
+
+A pretensão de cobrança de indenização decorrente de dividendos relativos à subscrição complementar das ações da CRT/Celular CRT prescreve em três anos, nos termos do art. 206, § 3º, inciso III, do Código Civil de 2002, **somente começando a correr tal prazo após o reconhecimento do direito à complementação acionária**.
+
+## Processos paradigma
+
+- [00458413320088217000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900418367&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).

@@ -1,0 +1,110 @@
+# TJES · Incidente de Resolução de Demandas Repetitivas
+
+**106 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](tjes-irdr-1.md) — Transitado em julgado
+- [IRDR 2](tjes-irdr-2.md) — Transitado em julgado
+- [IRDR 3](tjes-irdr-3.md) — Transitado em julgado
+- [IRDR 4](tjes-irdr-4.md) — Transitado em julgado
+- [IRDR 5](tjes-irdr-5.md) — Transitado em julgado
+- [IRDR 6](tjes-irdr-6.md) — Não admitido
+- [IRDR 7](tjes-irdr-7.md) — Não admitido
+- [IRDR 8](tjes-irdr-8.md) — Transitado em julgado
+- [IRDR 9](tjes-irdr-9.md) — Transitado em julgado
+- [IRDR 10](tjes-irdr-10.md) — Não admitido
+- [IRDR 11](tjes-irdr-11.md) — Transitado em julgado
+- [IRDR 12](tjes-irdr-12.md) — Não admitido
+- [IRDR 13](tjes-irdr-13.md) — Transitado em julgado
+- [IRDR 14](tjes-irdr-14.md) — Não admitido
+- [IRDR 16](tjes-irdr-16.md) — Não admitido
+- [IRDR 17](tjes-irdr-17.md) — Não admitido
+- [IRDR 18](tjes-irdr-18.md) — Não admitido
+- [IRDR 19](tjes-irdr-19.md) — Não admitido
+- [IRDR 20](tjes-irdr-20.md) — Não admitido
+- [IRDR 21](tjes-irdr-21.md) — Não admitido
+- [IRDR 22](tjes-irdr-22.md) — Não admitido
+- [IRDR 23](tjes-irdr-23.md) — Não admitido
+- [IRDR 24](tjes-irdr-24.md) — Não admitido
+- [IRDR 29](tjes-irdr-29.md) — Transitado em julgado
+- [IRDR 30](tjes-irdr-30.md) — Não admitido
+- [IRDR 31](tjes-irdr-31.md) — Não admitido
+- [IRDR 33](tjes-irdr-33.md) — Não admitido
+- [IRDR 34](tjes-irdr-34.md) — Não admitido
+- [IRDR 36](tjes-irdr-36.md) — Transitado em julgado
+- [IRDR 37](tjes-irdr-37.md) — Transitado em julgado
+- [IRDR 38](tjes-irdr-38.md) — Não admitido
+- [IRDR 39](tjes-irdr-39.md) — Não admitido
+- [IRDR 40](tjes-irdr-40.md) — Não admitido
+- [IRDR 41](tjes-irdr-41.md) — Não admitido
+- [IRDR 43](tjes-irdr-43.md) — Não admitido
+- [IRDR 44](tjes-irdr-44.md) — Transitado em julgado
+- [IRDR 45](tjes-irdr-45.md) — Não admitido
+- [IRDR 48](tjes-irdr-48.md) — Não admitido
+- [IRDR 49](tjes-irdr-49.md) — Não admitido
+- [IRDR 50](tjes-irdr-50.md) — Não admitido
+- [IRDR 51](tjes-irdr-51.md) — Não admitido
+- [IRDR 52](tjes-irdr-52.md) — Não admitido
+- [IRDR 53](tjes-irdr-53.md) — Não admitido
+- [IRDR 64](tjes-irdr-64.md) — Não admitido
+- [IRDR 65](tjes-irdr-65.md) — Transitado em julgado
+- [IRDR 66](tjes-irdr-66.md) — Não admitido
+- [IRDR 67](tjes-irdr-67.md) — Não admitido
+- [IRDR 68](tjes-irdr-68.md) — Não admitido
+- [IRDR 69](tjes-irdr-69.md) — Não admitido
+- [IRDR 70](tjes-irdr-70.md) — Não admitido
+- [IRDR 71](tjes-irdr-71.md) — Não admitido
+- [IRDR 72](tjes-irdr-72.md) — Não admitido
+- [IRDR 75](tjes-irdr-75.md) — Não admitido
+- [IRDR 76](tjes-irdr-76.md) — Não admitido
+- [IRDR 77](tjes-irdr-77.md) — Transitado em julgado
+- [IRDR 78](tjes-irdr-78.md) — Não admitido
+- [IRDR 80](tjes-irdr-80.md) — Não admitido
+- [IRDR 81](tjes-irdr-81.md) — Não admitido
+- [IRDR 82](tjes-irdr-82.md) — Não admitido
+- [IRDR 83](tjes-irdr-83.md) — Não admitido
+- [IRDR 84](tjes-irdr-84.md) — Cancelado
+- [IRDR 85](tjes-irdr-85.md) — Transitado em julgado
+- [IRDR 86](tjes-irdr-86.md) — Não admitido
+- [IRDR 87](tjes-irdr-87.md) — Não admitido
+- [IRDR 88](tjes-irdr-88.md) — Não admitido
+- [IRDR 90](tjes-irdr-90.md) — Não admitido
+- [IRDR 91](tjes-irdr-91.md) — Não admitido
+- [IRDR 92](tjes-irdr-92.md) — Não admitido
+- [IRDR 93](tjes-irdr-93.md) — Não admitido
+- [IRDR 94](tjes-irdr-94.md) — Não admitido
+- [IRDR 95](tjes-irdr-95.md) — Não admitido
+- [IRDR 96](tjes-irdr-96.md) — Não admitido
+- [IRDR 97](tjes-irdr-97.md) — Não admitido
+- [IRDR 98](tjes-irdr-98.md) — Não admitido
+- [IRDR 99](tjes-irdr-99.md) — Não admitido
+- [IRDR 100](tjes-irdr-100.md) — Acórdão Publicado (ARE Pendente)
+- [IRDR 101](tjes-irdr-101.md) — Não admitido
+- [IRDR 102](tjes-irdr-102.md) — Não admitido
+- [IRDR 103](tjes-irdr-103.md) — Não admitido
+- [IRDR 104](tjes-irdr-104.md) — Não admitido
+- [IRDR 105](tjes-irdr-105.md) — Não admitido
+- [IRDR 106](tjes-irdr-106.md) — Transitado em julgado
+- [IRDR 107](tjes-irdr-107.md) — Não admitido
+- [IRDR 108](tjes-irdr-108.md) — Transitado em julgado
+- [IRDR 109](tjes-irdr-109.md) — Transitado em julgado
+- [IRDR 110](tjes-irdr-110.md) — Não admitido
+- [IRDR 111](tjes-irdr-111.md) — Não admitido
+- [IRDR 112](tjes-irdr-112.md) — Não admitido
+- [IRDR 113](tjes-irdr-113.md) — Não admitido
+- [IRDR 114](tjes-irdr-114.md) — Não admitido
+- [IRDR 115](tjes-irdr-115.md) — Não admitido
+- [IRDR 116](tjes-irdr-116.md) — Não admitido
+- [IRDR 117](tjes-irdr-117.md) — Não admitido
+- [IRDR 118](tjes-irdr-118.md) — Não admitido
+- [IRDR 119](tjes-irdr-119.md) — Não admitido
+- [IRDR 120](tjes-irdr-120.md) — Suscitado
+- [IRDR 122](tjes-irdr-122.md) — Admitido
+- [IRDR 123](tjes-irdr-123.md) — Não admitido
+- [IRDR 124](tjes-irdr-124.md) — Não admitido
+- [IRDR 125](tjes-irdr-125.md) — Acórdão Publicado
+- [IRDR 126](tjes-irdr-126.md) — Não admitido
+- [IRDR 127](tjes-irdr-127.md) — Suscitado
+- [IRDR 128](tjes-irdr-128.md) — Suscitado
+- [IRDR 129](tjes-irdr-129.md) — Suscitado
+- [IRDR 130](tjes-irdr-130.md) — Suscitado
+- [IRDR 131](tjes-irdr-131.md) — Suscitado

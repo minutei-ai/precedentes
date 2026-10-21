@@ -1,0 +1,25 @@
+# STF · ADI 6287
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6287
+- **Identificador na fonte:** `stf-adi-6287`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 19/09/2022
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6287)
+
+## Ementa
+
+EMENTA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 3º, § 1º, DA LEI Nº 13.649/2018. SERVIÇO DE RETRANSMISSÃO DE RÁDIO (RTR) NA AMAZÔNIA LEGAL. POLÍTICA REGULATÓRIA DE ACESSO A BENS CULTURAIS. MECANISMO DE INTEGRAÇÃO DE LOCALIDADES ISOLADAS, DISTANTES E DE DIFÍCIL ACESSO. ALEGADA OFENSA AO ART. 5º, CAPUT, DA CONSTITUIÇÃO DA REPÚBLICA. PRINCÍPIO DA ISONOMIA. INOCORRÊNCIA. PRECEDENTES. IMPROCEDÊNCIA. 1. A Amazônia Legal traduz unidade geoeconômica e social definida por lei, tendo em vista a promoção do desenvolvimento regional, não se sobrepondo com exatidão ao bioma amazônico nem à correspondente bacia hidrográfica. Compreendendo os Estados do Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima e Tocantins, bem como a área do Estado do Maranhão situada a oeste do meridiano 44°, corresponde a 58,9% do território brasileiro e abriga mais de 20 milhões de moradores (12,3% da população brasileira), segundo o IBGE. 2. Instituído pela Lei nº 13.649/2018, o Serviço de Retransmissão de Rádio na Amazônia Legal viabiliza mecanismo de integração de localidades isoladas, distantes e de difícil acesso, permitindo às suas populações acesso aos mesmos bens culturais e simbólicos disponíveis nas capitais dos respectivos Estados. Medida de política regulatória voltada à superação de identificadas falhas de mercado – ausência de interesse comercial, isolamento, dificuldade de acesso –, de modo a promover inclusão sociocultural e informacional. Modalidade extraordinária de outorga de serviço de radiodifusão sonora, circunscrita à Amazônia Legal, de caráter precário e não oneroso, sujeita a condições e obrigações peculiares e que visa ao atendimento de objetivo de desenvolvimento específico para essa região (art. 3º, II e III, da CF). 3. O espectro eletromagnético é um bem público escasso, a demandar organização racional do seu uso, o que torna a radiodifusão essencialmente diferente de outros veículos de comunicação e justifica maior controle do Estado, bem como a sua sujeição a regime político-normativo específico, nos moldes dos arts. 220 a 224 da CF. 4. Não ofende o postulado da isonomia assegurado no art. 5º, caput, da Constituição da República, o fator de discrímen adotado no art. 3º, § 1º, da Lei nº 13.649/2018, no que restringe o regime especial de outorga do Serviço de Retransmissão de Rádio na Amazônia Legal, sem prejuízo do regime geral da Lei nº 4117/1962, a sinais de emissora de radiodifusão sonora da capital para Município do mesmo Estado, observada a sua adequação à finalidade legítima de fortalecer o vínculo entre a capital de um Estado e as áreas isoladas, rurais ou ribeirinhas, nele situadas. Racionalidade, legitimidade e razoabilidade da escolha política do legislador. Distinção lícita voltada à redução de desigualdades. Precedentes. 5. Ação direta de inconstitucionalidade julgada improcedente.
+
+## Decisão
+
+O Tribunal, por unanimidade, julgou improcedentes os pedidos deduzidos na ação direta de inconstitucionalidade, nos termos do voto da Relatora. Não participou do julgamento o Ministro André Mendonça, sucessor do Ministro Marco Aurélio, que votara em assentada anterior. Plenário, Sessão Virtual de 9.9.2022 a 16.9.2022 (Sessão iniciada na Presidência do Ministro Luiz Fux e finalizada na Presidência da Ministra Rosa Weber).
+
+## Ato impugnado
+
+LEG-FED CF ANO-1946 ART-00005 INC-00012 ART-00160 ART-00209 PAR-ÚNICO INC-00001 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00008 INC-00015 LET-A INC-00017 LET-I ART-00022 INC-00007 ART-00091 INC-00002 LET-A ART-00152 PAR-00002 LET-E ART-00166 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00003 INC-00002 INC-00003 ART-00005 "CAPUT" ART-00021 INC-00012 LET-A ART-00022 INC-00004 ART-00103 INC-00008 ART-00215 ART-00220 ART-00221 INC-00002 INC-00003 ART-00222 ART-00223 ART-00224 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000124 ANO-2007 ART-00002 LEI COMPLEMENTAR LEG-FED LEI-001806 ANO-1953 LEI ORDINÁRIA LEG-FED LEI-004117 ANO-1962 LEI ORDINÁRIA LEG-FED LEI-005173 ANO-1966 ART-00002 LEI ORDINÁRIA LEG-FED LEI-009472 ANO-1997 ART-00215 INC-00001 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00002 INC-00008 LEI ORDINÁRIA LEG-FED LEI-013649 ANO-2018 ART-00002 ART-00003 PAR-00001 PAR-2. PAR-00003 LEI ORDINÁRIA LEG-FED DEC-020047 ANO-1931 DECRETO LEG-FED DEC-052795 ANO-1963 DECRETO LEG-FED DEC-081600 ANO-1978 ART-00004 LET-J DECRETO LEG-FED DEC-005371 ANO-2005 ART-00019 DECRETO
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=763427630)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,46 @@
+# TJSC · Incidente de Resolução de Demandas Repetitivas
+
+**42 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](tjsc-irdr-1.md) — Transitado em julgado
+- [IRDR 2](tjsc-irdr-2.md) — Transitado em julgado
+- [IRDR 3](tjsc-irdr-3.md) — Transitado em julgado
+- [IRDR 4](tjsc-irdr-4.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 5](tjsc-irdr-5.md) — Cancelado
+- [IRDR 6](tjsc-irdr-6.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 7](tjsc-irdr-7.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 8](tjsc-irdr-8.md) — Transitado em julgado
+- [IRDR 9](tjsc-irdr-9.md) — Transitado em julgado
+- [IRDR 10](tjsc-irdr-10.md) — Acórdão Publicado (RE Pendente)
+- [IRDR 11](tjsc-irdr-11.md) — Transitado em julgado
+- [IRDR 12](tjsc-irdr-12.md) — Cancelado
+- [IRDR 13](tjsc-irdr-13.md) — Transitado em julgado
+- [IRDR 14](tjsc-irdr-14.md) — Transitado em julgado
+- [IRDR 15](tjsc-irdr-15.md) — Transitado em julgado
+- [IRDR 16](tjsc-irdr-16.md) — Transitado em julgado
+- [IRDR 17](tjsc-irdr-17.md) — Transitado em julgado
+- [IRDR 18](tjsc-irdr-18.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 19](tjsc-irdr-19.md) — Transitado em julgado
+- [IRDR 20](tjsc-irdr-20.md) — Acórdão Publicado (RE Pendente)
+- [IRDR 21](tjsc-irdr-21.md) — Transitado em julgado
+- [IRDR 22](tjsc-irdr-22.md) — Transitado em julgado
+- [IRDR 23](tjsc-irdr-23.md) — Cancelado
+- [IRDR 24](tjsc-irdr-24.md) — Transitado em julgado
+- [IRDR 25](tjsc-irdr-25.md) — Transitado em julgado
+- [IRDR 26](tjsc-irdr-26.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 27](tjsc-irdr-27.md) — Cancelado
+- [IRDR 28](tjsc-irdr-28.md) — Transitado em julgado
+- [IRDR 29](tjsc-irdr-29.md) — Transitado em julgado
+- [IRDR 30](tjsc-irdr-30.md) — Transitado em julgado
+- [IRDR 31](tjsc-irdr-31.md) — Transitado em julgado
+- [IRDR 32](tjsc-irdr-32.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 33](tjsc-irdr-33.md) — Transitado em julgado
+- [IRDR 34](tjsc-irdr-34.md) — Sobrestado (outro motivo)
+- [IRDR 35](tjsc-irdr-35.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 36](tjsc-irdr-36.md) — Acórdão Publicado (AREsp Pendente)
+- [IRDR 37](tjsc-irdr-37.md) — Admitido
+- [IRDR 38](tjsc-irdr-38.md) — Acórdão Publicado
+- [IRDR 39](tjsc-irdr-39.md) — Admitido
+- [IRDR 40](tjsc-irdr-40.md) — Admitido
+- [IRDR 41](tjsc-irdr-41.md) — Admitido
+- [IRDR 42](tjsc-irdr-42.md) — Admitido

@@ -1,0 +1,22 @@
+# TJPE · SUM 96
+
+- **Tribunal:** TJPE
+- **Espécie:** Súmula
+- **Número:** 96
+- **Identificador na fonte:** `tjpe-sum-96`
+- **Situação na fonte:** Vigente
+- **Atualização informada pela fonte:** 25/09/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpe&tipo=SUM&nr=96)
+
+## Texto disponibilizado pela fonte
+
+Compete à Justiça Estadual processar ações referentes à incidência de Imposto de Renda nos vencimentos de servidores estaduais e municipais.
+
+## Processos paradigma
+
+- [00031953320098170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00031953320098170000)
+- [00141566720088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00141566720088170000)
+- [00055366620088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00055366620088170000)
+- [00044531520088170000](https://srv01.tjpe.jus.br/consultaprocessualunificada/processo/00044531520088170000)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPE/).

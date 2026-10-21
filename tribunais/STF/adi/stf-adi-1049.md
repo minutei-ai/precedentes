@@ -1,0 +1,25 @@
+# STF · ADI 1049
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 1049
+- **Identificador na fonte:** `stf-adi-1049`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 06/03/2023
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1049)
+
+## Ementa
+
+EMENTA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DISPOSIÇÕES NORMATIVAS DAS LEIS N. 8.212/1991 E 8.213/1991, NA REDAÇÃO DADA PELA DE N. 8.870/1994. PERDA PARCIAL DE OBJETO. DÉCIMO TERCEIRO SALÁRIO. SALÁRIO DE CONTRIBUIÇÃO E SALÁRIO DE BENEFÍCIO. ABONO DE PERMANÊNCIA EM SERVIÇO. EXTINÇÃO. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. 1. O art. 93 da Lei n. 8.212/1991, no texto conferido pela de n. 8.870/1994, foi revogado de forma expressa pela Lei n. 9.639/1998, e o art. 82 da Lei n. 8.213/1991 tornou-se insubsistente ante o disposto no art. 8º da Lei n. 9.032/1995. A jurisprudência do Supremo é firme no sentido de que a revogação ou a alteração substancial do dispositivo impugnado implica a perda superveniente do objeto da ação de controle abstrato de constitucionalidade, ainda que remanesçam efeitos concretos da legislação nela impugnada. 2. O décimo terceiro salário nem sempre integrou a base de cálculo das contribuições previdenciárias. Na Consolidação das Leis da Previdência Social de 1984 (Decreto n. 89.312/1984, art. 136, I), veio a ser expressamente excluído do salário de contribuição, orientação que foi mantida, sob a égide da Constituição de 1988, no Decreto n. 357/1991 (art. 30, § 6º). 3. Por ser verba de natureza salarial, o décimo terceiro pode sofrer a incidência de contribuição previdenciária (enunciado n. 688 da Súmula do Supremo). No entanto, uma vez que os benefícios previdenciários são calculados tendo por base os valores das contribuições e o tempo de trabalho, ele pode induzir distorções no aspecto temporal do cálculo do benefício ao implicar o acréscimo de uma parcela de contribuição às doze anuais. 4. A alteração do art. 25, II, da Lei n. 8.213/1991 pela de n. 8.870/1994 eliminou o abono de permanência em serviço do rol dos benefícios previdenciários sujeitos à carência de 180 contribuições mensais. Não tendo ocorrido modificação no período de carência para nenhum benefício, visto que apenas foi repetido o prazo de 180 meses, mostra-se sem fundamento a alegação de afronta a direito adquirido ou mesmo de revogação do art. 142 da Lei n. 8.213/1991. 5. Ação parcialmente conhecida, e, nessa extensão, pedido julgado improcedente.
+
+## Decisão
+
+Por votação unânime o Tribunal indeferiu o pedido de medida liminar de suspensão do 7º. do art. 28 da Lei n. 8.212 de 24.7.91 com a redação dada pela Lei n. 8.870 de 15.4.94 bem como do inciso II do art. 25 e do art. 82 da Lei n. 8.213 de 24.7.91 com a redação dada pela Lei n. 8.870/94. E por maioria de votos o Tribunal também indeferiu o pedido de medida liminar de suspensão do art. 93 da Lei n. 8.212/91 com a redação dada pela Lei n. 8.870/94 vencido o Relator que deferia a medida liminar para suspender até a decisão final da ação a eficácia deste dispositivo. Votou o Presidente. Ausente ocasionalmente o Ministro Maurício Corrêa. Plenário 18.05.95. Decisão: O Tribunal, por unanimidade, não conheceu da ação direta de inconstitucionalidade quanto à impugnação do art. 93 da Lei n. 8.212/1991, na redação dada pela de n. 8.870/1994, e do art. 82 da Lei n. 8.213/1991, no texto conferido pela de n. 8.870/1994; conheceu da ação relativamente ao art. 28, § 7º, da Lei n. 8.212/1991 e ao art. 25, II, da Lei n. 8.213/1991, todos na redação da Lei n. 8.870/1994, e julgou improcedente o pedido formulado, nos termos do voto do Relator. Não votou a Ministra Cármen Lúcia. Plenário, Sessão Virtual de 24.2.2023 a 3.3.2023.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00194 INC-00004 ART-00201 PAR-00002 PAR-00004 PAR-00006 PAR-00011 ART-00202 "CAPUT" PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 PAR-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000019 ANO-1998 EMENDA CONSTITUCIONAL LEG-FED EMC-000020 ANO-1998 ART-00202 "CAPUT" INC-00001 INC-00002 INC-00003 PAR-00001 PAR-00002 EMENDA CONSTITUCIONAL LEG-FED EMC-000103 ANO-2019 EMENDA CONSTITUCIONAL LEG-FED LEI-008212 ANO-1991 ART-00028 PAR-00007 ART-00093 LEI ORDINÁRIA LEG-FED LEI-008213 ANO-1991 ART-00025 INC-00002 ART-00082 ART-00142 LEI ORDINÁRIA LEG-FED LEI-008870 ANO-1994 LEI ORDINÁRIA LEG-FED LEI-009032 ANO-1995 ART-00008 LEI ORDINÁRIA LEG-FED LEI-009639 ANO-1998 ART-00013 LEI ORDINÁRIA LEG-FED DEC-089312 ANO-1984 ART-00136 INC-00001 CLPS-1984 CONSOLIDAÇÃO DAS LEIS DA PREVIDENCIA SOCIAL LEG-FED DEC-000357 ANO-1991 ART-00030 PAR-00006 DECRETO LEG-FED DEC-000612 ANO-1992 ART-00037 PAR-00006 DECRETO LEG-FED DEC-003048 ANO-1999 ART-00032 PAR-00006 DECRETO LEG-FED SUMSTF-000688 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766303252)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

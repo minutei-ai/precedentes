@@ -1,0 +1,41 @@
+# STF · Ação Direta de Inconstitucionalidade por Omissão
+
+**37 registros.** [Voltar ao tribunal](../)
+
+- [ADO 2](stf-ado-2.md) — Situação não informada
+- [ADO 5](stf-ado-5.md) — Situação não informada
+- [ADO 6](stf-ado-6.md) — Situação não informada
+- [ADO 9](stf-ado-9.md) — Situação não informada
+- [ADO 10](stf-ado-10.md) — Situação não informada
+- [ADO 13](stf-ado-13.md) — Situação não informada
+- [ADO 20](stf-ado-20.md) — Situação não informada
+- [ADO 21](stf-ado-21.md) — Situação não informada
+- [ADO 22](stf-ado-22.md) — Situação não informada
+- [ADO 25](stf-ado-25.md) — Situação não informada
+- [ADO 26](stf-ado-26.md) — Situação não informada
+- [ADO 27](stf-ado-27.md) — Situação não informada
+- [ADO 30](stf-ado-30.md) — Situação não informada
+- [ADO 31](stf-ado-31.md) — Situação não informada
+- [ADO 38](stf-ado-38.md) — Situação não informada
+- [ADO 40](stf-ado-40.md) — Situação não informada
+- [ADO 42](stf-ado-42.md) — Situação não informada
+- [ADO 43](stf-ado-43.md) — Situação não informada
+- [ADO 44](stf-ado-44.md) — Situação não informada
+- [ADO 46](stf-ado-46.md) — Situação não informada
+- [ADO 48](stf-ado-48.md) — Situação não informada
+- [ADO 49](stf-ado-49.md) — Situação não informada
+- [ADO 53](stf-ado-53.md) — Situação não informada
+- [ADO 55](stf-ado-55.md) — Situação não informada
+- [ADO 56](stf-ado-56.md) — Situação não informada
+- [ADO 59](stf-ado-59.md) — Situação não informada
+- [ADO 62](stf-ado-62.md) — Situação não informada
+- [ADO 63](stf-ado-63.md) — Situação não informada
+- [ADO 65](stf-ado-65.md) — Situação não informada
+- [ADO 67](stf-ado-67.md) — Situação não informada
+- [ADO 70](stf-ado-70.md) — Situação não informada
+- [ADO 72](stf-ado-72.md) — Situação não informada
+- [ADO 74](stf-ado-74.md) — Situação não informada
+- [ADO 82](stf-ado-82.md) — Situação não informada
+- [ADO 85](stf-ado-85.md) — Situação não informada
+- [ADO 87](stf-ado-87.md) — Situação não informada
+- [ADO 90](stf-ado-90.md) — Situação não informada

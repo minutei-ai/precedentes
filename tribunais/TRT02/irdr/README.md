@@ -1,0 +1,49 @@
+# TRT02 · Incidente de Resolução de Demandas Repetitivas
+
+**45 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](trt02-irdr-1.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 2](trt02-irdr-2.md) — Não admitido
+- [IRDR 3](trt02-irdr-3.md) — Não admitido
+- [IRDR 4](trt02-irdr-4.md) — Não admitido
+- [IRDR 5](trt02-irdr-5.md) — Não admitido
+- [IRDR 6](trt02-irdr-6.md) — Sobrestado por tema do TST
+- [IRDR 7](trt02-irdr-7.md) — Acórdão Publicado
+- [IRDR 8](trt02-irdr-8.md) — Não admitido
+- [IRDR 9](trt02-irdr-9.md) — Não admitido
+- [IRDR 10](trt02-irdr-10.md) — Não admitido
+- [IRDR 11](trt02-irdr-11.md) — Não admitido
+- [IRDR 12](trt02-irdr-12.md) — Não admitido
+- [IRDR 13](trt02-irdr-13.md) — Não admitido
+- [IRDR 14](trt02-irdr-14.md) — Admitido
+- [IRDR 15](trt02-irdr-15.md) — Não admitido
+- [IRDR 16](trt02-irdr-16.md) — Cancelado
+- [IRDR 17](trt02-irdr-17.md) — Admitido
+- [IRDR 18](trt02-irdr-18.md) — Suscitado
+- [IRDR 19](trt02-irdr-19.md) — Admitido
+- [IRDR 20](trt02-irdr-20.md) — Não admitido
+- [IRDR 21](trt02-irdr-21.md) — Mérito julgado
+- [IRDR 22](trt02-irdr-22.md) — Não admitido
+- [IRDR 23](trt02-irdr-23.md) — Admitido
+- [IRDR 24](trt02-irdr-24.md) — Não admitido
+- [IRDR 25](trt02-irdr-25.md) — Não admitido
+- [IRDR 26](trt02-irdr-26.md) — Suscitado
+- [IRDR 27](trt02-irdr-27.md) — Não admitido
+- [IRDR 28](trt02-irdr-28.md) — Suscitado
+- [IRDR 29](trt02-irdr-29.md) — Não admitido
+- [IRDR 30](trt02-irdr-30.md) — Suscitado
+- [IRDR 31](trt02-irdr-31.md) — Suscitado
+- [IRDR 32](trt02-irdr-32.md) — Suscitado
+- [IRDR 33](trt02-irdr-33.md) — Suscitado
+- [IRDR 34](trt02-irdr-34.md) — Suscitado
+- [IRDR 35](trt02-irdr-35.md) — Suscitado
+- [IRDR 36](trt02-irdr-36.md) — Suscitado
+- [IRDR 37](trt02-irdr-37.md) — Não admitido
+- [IRDR 38](trt02-irdr-38.md) — Não admitido
+- [IRDR 39](trt02-irdr-39.md) — Suscitado
+- [IRDR 40](trt02-irdr-40.md) — Admitido
+- [IRDR 41](trt02-irdr-41.md) — Suscitado
+- [IRDR 42](trt02-irdr-42.md) — Suscitado
+- [IRDR 43](trt02-irdr-43.md) — Não admitido
+- [IRDR 44](trt02-irdr-44.md) — Suscitado
+- [IRDR 45](trt02-irdr-45.md) — Suscitado

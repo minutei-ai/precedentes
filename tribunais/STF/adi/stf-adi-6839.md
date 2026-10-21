@@ -1,0 +1,25 @@
+# STF · ADI 6839
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6839
+- **Identificador na fonte:** `stf-adi-6839`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 21/02/2022
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6839)
+
+## Ementa
+
+EMENTA: MEDIDA CAUTELAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONVERSÃO EM JULGAMENTO DEFINITIVO. INC. IV DO § 2º DO ART. 1º DA LEI N. 14.941/2003 E AL. D DO INC. II DO ART. 2º DO DECRETO N. 43.981/2005 DE MINAS GERAIS. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO - ITCMD. HIPÓTESES DE O FALECIDO TER POSSUÍDO BENS, RESIDIDO OU PROCESADO INVENTÁRIO NO EXTERIOR (INC. III DO § 1º DO ART. 155, DA CONSTITUIÇÃO DA REPÚBLICA). NECESSIDADE DE PRÉVIA REGULAMENTAÇÃO POR LEI COMPLEMENTAR. AÇÃO DIRETA JULGADA PROCEDENTE. MODULAÇÃO DE EFEITOS. 1. É vedado aos Estados e ao Distrito Federal instituir o ITCMD nas hipóteses mencionadas no inc. III do § 1º do art. 155 da Constituição da República sem a edição da lei complementar exigida pelo dispositivo constitucional. Precedentes. 2. Os Estados e o Distrito Federal não dispõem de competência legislativa em matéria tributária para suprir a ausência dessa lei complementar, pois trata-se de diploma necessário à fixação nacional da exata competência dos Estados. Precedentes. 3. Atribuição de eficácia ex nunc a este julgamento, a contar da publicação do acórdão do Recurso Extraordinário n. 851.108 (20.4.2021), ressalvando as ações judiciais pendentes de conclusão até esse marco temporal, nas quais se discuta: a) a qual Estado o contribuinte deve efetuar o pagamento do ITCMD, considerando a ocorrência de bitributação; b) a validade da cobrança desse imposto, não tendo sido pago anteriormente. 4. Ação direta de inconstitucionalidade julgada procedente para declarar inconstitucionais o inc. IV do § 2º do art. 1º da Lei n. 14.941/2003 e a al. d do inc. II do art. 2º do Decreto n. 43.981/2005, de Minas Gerais.
+
+## Decisão
+
+Após o voto da Ministra Cármen Lúcia (Relatora), que julgava procedente o pedido formulado na ação direta, para declarar, com eficácia ex nunc a contar da data da publicação da ata de julgamento, inconstitucionais o inc. IV do § 2º do art. 1º da Lei n. 14.941/2003 e a al. d do inc. II do art. 2º do Decreto n. 43.981/2005 de Minas Gerais; e do voto do Ministro Roberto Barroso, que divergia da Relatora apenas quanto à modulação dos efeitos da decisão, propondo que seja realizada nos seguintes termos: “Modulação dos efeitos do acórdão de mérito proferido nesta ação, para que tenha eficácia a partir da publicação do acórdão prolatado no RE 851.108 (20.04.2021), estando ressalvadas as ações judiciais pendentes de conclusão até o mesmo marco temporal em que se discuta (1) a qual Estado o contribuinte deveria efetuar o pagamento do ITCMD, considerando a ocorrência de bitributação; ou (2) a validade da cobrança desse imposto, não tendo sido pago anteriormente.”, pediu vista dos autos o Ministro Dias Toffoli. Plenário, Sessão Virtual de 3.9.2021 a 14.9.2021. Decisão: Após o voto-vista do Ministro Dias Toffoli e do voto do Ministro Gilmar Mendes, que divergiam da Ministra Cármen Lúcia (Relatora) apenas quanto à modulação dos efeitos da decisão e, nesse ponto, acompanhavam o Ministro Roberto Barroso, pediu vista dos autos o Ministro Alexandre de Moraes. Plenário, Sessão Virtual de 1.10.2021 a 8.10.2021. Decisão: O Tribunal, por unanimidade, julgou procedente o pedido formulado na ação direta, para declarar inconstitucionais o inc. IV do § 2º do art. 1º da Lei n. 14.941/2003 e a al. d do inc. II do art. 2º do Decreto n. 43.981/2005 de Minas Gerais, e atribuiu a este julgamento eficácia ex nunc a contar da publicação do acórdão do Recurso Extraordinário n. 851.108 (20.4.2021), ressalvando as ações judiciais pendentes de conclusão até esse marco temporal, nas quais se discuta: a) a qual Estado o contribuinte deve efetuar o pagamento do ITCMD, considerando a ocorrência de bitributação; b) a validade da cobrança desse imposto, não tendo sido pago anteriormente, nos termos do voto ora reajustado da Relatora. Plenário, Sessão Virtual de 11.2.2022 a 18.2.2022.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00024 INC-00001 PAR-00002 PAR-00003 PAR-00004 ART-00146 INC-00001 INC-00003 LET-A ART-00155 INC-00001 PAR-00001 INC-00001 INC-00002 INC-00003 LET-A LET-B ART-00162 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED ADCT ANO-1988 ART-00034 PAR-00003 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LCP-000101 ANO-2000 ART-00011 LRF-2000 LEI DE RESPONSABILIDADE FISCAL LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015 CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-EST LEI-014941 ANO-2003 ART-00001 PAR-00002 INC-00004 LEI ORDINÁRIA, MG LEG-EST DEC-043981 ANO-2005 ART-00002 INC-00002 LET-D DECRETO, MG
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=759581534)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

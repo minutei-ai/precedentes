@@ -1,0 +1,25 @@
+# STF · ADI 6040
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6040
+- **Identificador na fonte:** `stf-adi-6040`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 02/10/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6040)
+
+## Ementa
+
+DIREITO TRIBUTÁRIO. LEI 13.043/2014, DECRETO 8.415/2015 E ALTERAÇÕES POSTERIORES. REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA EMPRESAS EXPORTADORAS – REINTEGRA. BENEFÍCIO FISCAL. NATUREZA JURÍDICA DE SUBVENÇÃO ECONÔMICA. REDUÇÃO DOS PERCENTUAIS DE DEVOLUÇÃO DE RESÍDUOS TRIBUTÁRIOS POR DECRETO DO PODER EXECUTIVO: CONSTITUCIONALIDADE.
+
+## Decisão
+
+Após o voto do Ministro Gilmar Mendes (Relator), que conhecia das ações diretas de inconstitucionalidade n. 6.040 e n. 6.055 e julgava-as improcedentes, no que foi acompanhado pelos Ministros Alexandre de Moraes e Dias Toffoli; e do voto do Ministro Edson Fachin, que julgava procedentes as ADIs ajuizadas para: i) declarar parcialmente inconstitucional o caput do art. 22 da Lei 13.043/14, a fim de suprimir a expressão “estabelecido pelo Poder Executivo”; (ii) adotar interpretação conforme dos §§ 1º e 2º do art. 22 da Lei 13.043/14, com a declaração de inconstitucionalidade sem redução de texto, assegurando-se, assim, o direito subjetivo de recuperação do resíduo tributário remanescente na cadeia produtiva exportadora, mediante a comprovação por levantamento em cada produto a partir do crivo da autoridade legal; (iii) declarar parcialmente inconstitucional, por arrastamento, a expressão “de 3% (três por cento)” do caput do art. 2º do Decreto 8.415/15, declarando-se inconstitucionais os §§ 7º e 8º do artigo, com interpretação conforme a Constituição aplicada ao art. 22 da Lei 13.043/14, garantindo-se, assim, a utilização integral do REINTEGRA mediante a aplicação de percentual que assegure, em cada cadeia produtiva, a devolução integral dos resíduos tributários presentes, desde que atendidos os demais requisitos legais e regulamentares; e (iv) reconhecer a inconstitucionalidade dos Decretos n. 8.415/15 e 9.393/18, na medida em que inobservam aplicação no exercício financeiro seguinte, no que foi acompanhado pelo Ministro Luiz Fux, o julgamento foi suspenso. Falaram: pelo requerente, a Dra. Daniella Zagari Gonçalves; e, pela Advocacia-Geral da União, a Dra. Patrícia Grassi Osório, Procuradora da Fazenda Nacional. Ausente, justificadamente, o Ministro Luís Roberto Barroso (Presidente). Presidiu o julgamento o Ministro Edson Fachin (Vice-Presidente). Plenário, 5.9.2024. Decisão: O Tribunal, por maioria, conheceu das ações diretas de inconstitucionalidade n. 6.040 e n. 6.055 e julgou-as improcedentes, nos termos do voto do Relator, vencidos os Ministros Edson Fachin e Luiz Fux. Não votaram os Ministros Cármen Lúcia e Nunes Marques, ausentes ocasionalmente. Presidência do Ministro Luís Roberto Barroso. Plenário, 2.10.2024.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00001 INC-00002 ART-00003 INC-00001 INC-00002 ART-00005 "CAPUT" INC-00036 ART-00103 INC-00009 ART-0146A ART-00149 INC-00001 PAR-00002 INC-00001 INC-00002 ART-00150 INC-00002 ART-00153 INC-00004 PAR-00003 INC-00002 INC-00003 ART-00155 INC-00002 PAR-00002 INC-00010 LET-A ART-00156 PAR-00003 INC-00002 ART-00170 INC-00004 ART-00195 PAR-00012 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000003 ANO-1993 EMENDA CONSTITUCIONAL LEG-FED EMC-000033 ANO-2001 EMENDA CONSTITUCIONAL LEG-FED EMC-000037 ANO-2002 EMENDA CONSTITUCIONAL LEG-FED EMC-000042 ANO-2003 EMENDA CONSTITUCIONAL LEG-FED LEI-004320 ANO-1964 ART-00012 PAR-00003 INC-00001 INC-00002 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00002 INC-00009 ART-00012 LEI ORDINÁRIA LEG-FED LEI-012546 ANO-2011 LEI ORDINÁRIA LEG-FED LEI-013043 ANO-2014 ART-00021 ART-00022 "CAPUT" PAR-00001 PAR-00002 PAR-00003 PAR-00004 INC-00001 INC-00002 PAR-00005 INC-00001 INC-00002 PAR-00006 PAR-00007 ART-00023 INC-00001 INC-00002 INC-00003 PAR-00001 INC-00001 INC-00002 INC-00003 INC-00004 PAR-00002 INC-00001 INC-00002 INC-00003 INC-00004 ART-00024 INC-00001 INC-00002 ART-00025 INC-00001 INC-00002 INC-00003 LET-A LET-B ART-00028 ART-00029 LEI ORDINÁRIA LEG-FED MPR-000540 MEDIDA PROVISÓRIA - CONVERTIDA NA LEI-12546/2011 LEG-FED MPR-000651 ANO-2014 MEDIDA PROVISÓRIA - CONVERTIDA NA LEI-13043/2014 LEG-FED DEC-001751 ANO-1995 ART-00004 INC-00002 LET-B DECRETO LEG-FED DEC-008415 ANO-2015 ART-00002 "CAPUT" PAR-00007 INC-00001 INC-00002 INC-00003 INC-00004 PAR-00008 ART-00005 INC-00001 INC-00002 INC-00003 PAR-00001 INC-00001 INC-00002 INC-00003 INC-00004 DECRETO LEG-FED DEC-008543 ANO-2015 ART-00001 DECRETO LEG-FED DEC-009148 ANO-2017 ART-00001 DECRETO LEG-FED DEC-009393 ANO-2018 ART-00001 DECRETO LEG-FED ETT ART-00003 ESTATUTO DA CONFEDERAÇÃO NACIONAL DA INDÚSTRIA - CNI
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=782651744)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,25 @@
+# STF · ADI 7793
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 7793
+- **Identificador na fonte:** `stf-adi-7793`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 09/04/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7793)
+
+## Ementa
+
+Ementa: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 10.823/2024 DO ESTADO DO PARÁ. SERVIÇOS ESSENCIAIS. ENERGIA ELÉTRICA. FORNECIMENTO. TAXA DE RELIGAÇÃO. COBRANÇA. PROIBIÇÃO. INFORMAÇÃO AO USUÁRIO. OBRIGAÇÃO. DESCUMPRIMENTO. MULTA. COMPETÊNCIA RESERVADA DA UNIÃO PARA EXPLORAR OS SERVIÇOS DE ENERGIA ELÉTRICA E LEGISLAR SOBRE ENERGIA (CF/1988, ARTS. 21, XII, “B”, E 22, IV). USURPAÇÃO. REGULAÇÃO FEDERAL ESPECÍFICA. RELAÇÃO JURÍDICO-CONTRATUAL ENTRE PODER CONCEDENTE E CONCESSIONÁRIA. OBRIGAÇÕES NÃO PREVISTAS. INTERFERÊNCIA. VÍCIO FORMAL. PRECEDENTES. DESPROPORCIONALIDADE. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. POLÍTICA TARIFÁRIA. REPERCUSSÃO. SISTEMA NACIONAL DE FORNECIMENTO. SUSTENTABILIDADE. AFETAÇÃO. DECLARAÇÃO DE INCONSTITUCIONALIDADE PARCIAL SEM REDUÇÃO DE TEXTO. EXCLUSÃO DOS SERVIÇOS DE ENERGIA ELÉTRICA DO ALCANCE DO DIPLOMA. PROCEDÊNCIA DO PEDIDO. I. CASO EM EXAME 1. Ação direta de inconstitucionalidade ajuizada pela Associação Brasileira de Distribuidores de Energia Elétrica (Abradee) contra a Lei n. 10.823/2024 do Estado do Pará, que proíbe a cobrança de taxa de religação de serviços de energia elétrica – incluídos na expressão normativa “serviços essenciais” –, impõe o dever de informação ao usuário sobre a gratuidade e prevê aplicação de multa na hipótese de descumprimento. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) saber, sob o ângulo formal, se há afronta à competência privativa da União para explorar os serviços de energia elétrica e legislar sobre energia (CF/1988, arts. 21, XII, “b”, e 22, IV); e (ii) verificar, na perspectiva material, se foram inobservados os postulados da proporcionalidade e do equilíbrio econômico-financeiro dos contratos de outorga. III. RAZÕES DE DECIDIR 3. Os arts. 21, XII, “b”, e 22, IV, da CF/1988 conferem à União competência exclusiva para explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços e instalações de energia elétrica, bem como legislar sobre energia. 4. A outorga da responsabilidade pela exploração de serviço público compreende tanto a competência para normatizar quanto a capacidade de delegar a execução a terceiro, de modo que o ente competente detém a prerrogativa de definir, mediante lei própria, as condições da prestação do serviço, o regime jurídico de concessão ou permissão e os termos da relação jurídica entre usuários e concessionárias distintos daqueles decorrentes da relação de consumo. Precedentes. 5. A jurisprudência do STF consolidou-se pela impossibilidade de o legislador estadual, a pretexto de potencializar os direitos do consumidor, imiscuir-se na relação contratual estabelecida entre o poder federal concedente e as concessionárias, impondo obrigações ou alterando condições. 6. Tendo em conta o quadro normativo federal de regência sobre o tema, é inconstitucional proibição estadual a que concessionárias de energia elétrica cobrem taxa de religação do serviço, com dever de informação gratuita, sob pena de multa na hipótese de descumprimento. 7. A vedação imposta às concessionárias mostra-se desproporcional e repercute nas receitas por elas auferidas em razão do serviço prestado e no equilíbrio econômico-financeiro do contrato, necessário à sustentabilidade do sistema nacional de fornecimento de energia elétrica. IV. DISPOSITIVO 8. Pedido julgado procedente, para declarar a inconstitucionalidade parcial, sem redução de texto, da Lei n. 10.823/2024 do Estado do Pará, de modo a excluir de seu alcance o setor de energia elétrica.
+
+## Decisão
+
+O Tribunal, por unanimidade, julgou procedente o pedido, para declarar a inconstitucionalidade parcial, sem redução de texto, da Lei n. 10.823/2024 do Estado do Pará, de modo a excluir de seu alcance o setor de energia elétrica. Tudo nos termos do voto do Relator, Ministro Nunes Marques. O Ministro Edson Fachin (Presidente) acompanhou o Relator com ressalvas. Plenário, Sessão Virtual de 27.3.2026 a 8.4.2026.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00001 ART-00018 ART-00021 INC-00012 LET-B ART-00022 INC-00004 ART-00024 INC-00005 INC-00008 ART-00025 ART-00030 INC-00001 ART-00037 INC-00021 ART-00060 PAR-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-009427 ANO-1996 ART-00003 LEI ORDINÁRIA LEG-FED RES-000414 ANO-2010 RESOLUÇÃO NORMATIVA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL LEG-FED RES-001000 ANO-2021 ART-00622 ART-00623 INC-00004 INC-00005 INC-00010 RESOLUÇÃO NORMATIVA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL LEG-EST LEI-010823 ANO-2024 LEI ORDINÁRIA, PA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=797487051)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

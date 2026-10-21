@@ -1,0 +1,63 @@
+# TRT15 · Incidente de Resolução de Demandas Repetitivas
+
+**59 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](trt15-irdr-1.md) — Não admitido
+- [IRDR 2](trt15-irdr-2.md) — Não admitido
+- [IRDR 3](trt15-irdr-3.md) — Transitado em julgado
+- [IRDR 4](trt15-irdr-4.md) — Transitado em julgado
+- [IRDR 5](trt15-irdr-5.md) — Não admitido
+- [IRDR 6](trt15-irdr-6.md) — Não admitido
+- [IRDR 7](trt15-irdr-7.md) — Não admitido
+- [IRDR 8](trt15-irdr-8.md) — Não admitido
+- [IRDR 9](trt15-irdr-9.md) — Não admitido
+- [IRDR 10](trt15-irdr-10.md) — Não admitido
+- [IRDR 11](trt15-irdr-11.md) — Não admitido
+- [IRDR 12](trt15-irdr-12.md) — Não admitido
+- [IRDR 13](trt15-irdr-13.md) — Transitado em julgado
+- [IRDR 14](trt15-irdr-14.md) — Não admitido
+- [IRDR 15](trt15-irdr-15.md) — Transitado em julgado
+- [IRDR 16](trt15-irdr-16.md) — Não admitido
+- [IRDR 17](trt15-irdr-17.md) — Não admitido
+- [IRDR 18](trt15-irdr-18.md) — Não admitido
+- [IRDR 19](trt15-irdr-19.md) — Não admitido
+- [IRDR 20](trt15-irdr-20.md) — Cancelado
+- [IRDR 21](trt15-irdr-21.md) — Transitado em julgado
+- [IRDR 22](trt15-irdr-22.md) — Transitado em julgado
+- [IRDR 23](trt15-irdr-23.md) — Não admitido
+- [IRDR 24](trt15-irdr-24.md) — Transitado em julgado
+- [IRDR 25](trt15-irdr-25.md) — Não admitido
+- [IRDR 26](trt15-irdr-26.md) — Não admitido
+- [IRDR 27](trt15-irdr-27.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 28](trt15-irdr-28.md) — Transitado em julgado
+- [IRDR 29](trt15-irdr-29.md) — Não admitido
+- [IRDR 30](trt15-irdr-30.md) — Não admitido
+- [IRDR 31](trt15-irdr-31.md) — Não admitido
+- [IRDR 32](trt15-irdr-32.md) — Não admitido
+- [IRDR 33](trt15-irdr-33.md) — Não admitido
+- [IRDR 34](trt15-irdr-34.md) — Não admitido
+- [IRDR 35](trt15-irdr-35.md) — Não admitido
+- [IRDR 36](trt15-irdr-36.md) — Não admitido
+- [IRDR 37](trt15-irdr-37.md) — Transitado em julgado
+- [IRDR 38](trt15-irdr-38.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 39](trt15-irdr-39.md) — Transitado em julgado
+- [IRDR 40](trt15-irdr-40.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 41](trt15-irdr-41.md) — Transitado em julgado
+- [IRDR 42](trt15-irdr-42.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 43](trt15-irdr-43.md) — Não admitido
+- [IRDR 44](trt15-irdr-44.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 45](trt15-irdr-45.md) — Transitado em julgado
+- [IRDR 46](trt15-irdr-46.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 47](trt15-irdr-47.md) — Transitado em julgado
+- [IRDR 48](trt15-irdr-48.md) — Transitado em julgado
+- [IRDR 49](trt15-irdr-49.md) — Transitado em julgado
+- [IRDR 50](trt15-irdr-50.md) — Transitado em julgado
+- [IRDR 51](trt15-irdr-51.md) — Transitado em julgado
+- [IRDR 52](trt15-irdr-52.md) — Acórdão Publicado
+- [IRDR 53](trt15-irdr-53.md) — Transitado em julgado
+- [IRDR 54](trt15-irdr-54.md) — Transitado em julgado
+- [IRDR 55](trt15-irdr-55.md) — Transitado em julgado
+- [IRDR 56](trt15-irdr-56.md) — Transitado em julgado
+- [IRDR 57](trt15-irdr-57.md) — Acórdão Publicado
+- [IRDR 58](trt15-irdr-58.md) — Acórdão Publicado (Recurso de Revista Pendente)
+- [IRDR 59](trt15-irdr-59.md) — Transitado em julgado

@@ -1,0 +1,1481 @@
+# STJ · Recurso Especial Repetitivo
+
+**1.477 registros.** [Voltar ao tribunal](../)
+
+- [RR 1](stj-rr-1.md) — Transitado em julgado
+- [RR 2](stj-rr-2.md) — Transitado em julgado
+- [RR 3](stj-rr-3.md) — Transitado em julgado
+- [RR 4](stj-rr-4.md) — Transitado em julgado
+- [RR 5](stj-rr-5.md) — Transitado em julgado
+- [RR 6](stj-rr-6.md) — Transitado em julgado
+- [RR 7](stj-rr-7.md) — Transitado em julgado
+- [RR 8](stj-rr-8.md) — Transitado em julgado
+- [RR 9](stj-rr-9.md) — Transitado em julgado
+- [RR 10](stj-rr-10.md) — Transitado em julgado
+- [RR 11](stj-rr-11.md) — Transitado em julgado
+- [RR 12](stj-rr-12.md) — Transitado em julgado
+- [RR 13](stj-rr-13.md) — Transitado em julgado
+- [RR 14](stj-rr-14.md) — Transitado em julgado
+- [RR 15](stj-rr-15.md) — Transitado em julgado
+- [RR 16](stj-rr-16.md) — Transitado em julgado
+- [RR 17](stj-rr-17.md) — Transitado em julgado
+- [RR 18](stj-rr-18.md) — Transitado em julgado
+- [RR 19](stj-rr-19.md) — Transitado em julgado
+- [RR 20](stj-rr-20.md) — Transitado em julgado
+- [RR 21](stj-rr-21.md) — Transitado em julgado
+- [RR 22](stj-rr-22.md) — Transitado em julgado
+- [RR 23](stj-rr-23.md) — Transitado em julgado
+- [RR 24](stj-rr-24.md) — Transitado em julgado
+- [RR 25](stj-rr-25.md) — Transitado em julgado
+- [RR 26](stj-rr-26.md) — Transitado em julgado
+- [RR 27](stj-rr-27.md) — Transitado em julgado
+- [RR 28](stj-rr-28.md) — Transitado em julgado
+- [RR 29](stj-rr-29.md) — Transitado em julgado
+- [RR 30](stj-rr-30.md) — Transitado em julgado
+- [RR 31](stj-rr-31.md) — Transitado em julgado
+- [RR 32](stj-rr-32.md) — Transitado em julgado
+- [RR 33](stj-rr-33.md) — Transitado em julgado
+- [RR 34](stj-rr-34.md) — Transitado em julgado
+- [RR 35](stj-rr-35.md) — Transitado em julgado
+- [RR 36](stj-rr-36.md) — Transitado em julgado
+- [RR 37](stj-rr-37.md) — Transitado em julgado
+- [RR 38](stj-rr-38.md) — Transitado em julgado
+- [RR 39](stj-rr-39.md) — Transitado em julgado
+- [RR 40](stj-rr-40.md) — Transitado em julgado
+- [RR 41](stj-rr-41.md) — Transitado em julgado
+- [RR 42](stj-rr-42.md) — Transitado em julgado
+- [RR 43](stj-rr-43.md) — Transitado em julgado
+- [RR 44](stj-rr-44.md) — Transitado em julgado
+- [RR 45](stj-rr-45.md) — Transitado em julgado
+- [RR 46](stj-rr-46.md) — Transitado em julgado
+- [RR 47](stj-rr-47.md) — Transitado em julgado
+- [RR 48](stj-rr-48.md) — Transitado em julgado
+- [RR 49](stj-rr-49.md) — Transitado em julgado
+- [RR 50](stj-rr-50.md) — Mérito julgado
+- [RR 51](stj-rr-51.md) — Mérito julgado
+- [RR 52](stj-rr-52.md) — Transitado em julgado
+- [RR 53](stj-rr-53.md) — Transitado em julgado
+- [RR 54](stj-rr-54.md) — Transitado em julgado
+- [RR 55](stj-rr-55.md) — Transitado em julgado
+- [RR 56](stj-rr-56.md) — Cancelado
+- [RR 57](stj-rr-57.md) — Transitado em julgado
+- [RR 58](stj-rr-58.md) — Transitado em julgado
+- [RR 59](stj-rr-59.md) — Transitado em julgado
+- [RR 60](stj-rr-60.md) — Transitado em julgado
+- [RR 61](stj-rr-61.md) — Transitado em julgado
+- [RR 62](stj-rr-62.md) — Transitado em julgado
+- [RR 63](stj-rr-63.md) — Transitado em julgado
+- [RR 64](stj-rr-64.md) — Transitado em julgado
+- [RR 65](stj-rr-65.md) — Acórdão Publicado (RE Pendente)
+- [RR 66](stj-rr-66.md) — Acórdão Publicado
+- [RR 67](stj-rr-67.md) — Acórdão Publicado
+- [RR 68](stj-rr-68.md) — Transitado em julgado
+- [RR 69](stj-rr-69.md) — Transitado em julgado
+- [RR 70](stj-rr-70.md) — Transitado em julgado
+- [RR 71](stj-rr-71.md) — Transitado em julgado
+- [RR 72](stj-rr-72.md) — Transitado em julgado
+- [RR 73](stj-rr-73.md) — Transitado em julgado
+- [RR 74](stj-rr-74.md) — Transitado em julgado
+- [RR 75](stj-rr-75.md) — Transitado em julgado
+- [RR 76](stj-rr-76.md) — Transitado em julgado
+- [RR 77](stj-rr-77.md) — Transitado em julgado
+- [RR 78](stj-rr-78.md) — Transitado em julgado
+- [RR 79](stj-rr-79.md) — Transitado em julgado
+- [RR 80](stj-rr-80.md) — Transitado em julgado
+- [RR 81](stj-rr-81.md) — Transitado em julgado
+- [RR 82](stj-rr-82.md) — Transitado em julgado
+- [RR 83](stj-rr-83.md) — Transitado em julgado
+- [RR 84](stj-rr-84.md) — Transitado em julgado
+- [RR 85](stj-rr-85.md) — Transitado em julgado
+- [RR 86](stj-rr-86.md) — Transitado em julgado
+- [RR 87](stj-rr-87.md) — Transitado em julgado
+- [RR 88](stj-rr-88.md) — Transitado em julgado
+- [RR 89](stj-rr-89.md) — Transitado em julgado
+- [RR 90](stj-rr-90.md) — Transitado em julgado
+- [RR 91](stj-rr-91.md) — Transitado em julgado
+- [RR 92](stj-rr-92.md) — Transitado em julgado
+- [RR 93](stj-rr-93.md) — Transitado em julgado
+- [RR 94](stj-rr-94.md) — Transitado em julgado
+- [RR 95](stj-rr-95.md) — Transitado em julgado
+- [RR 96](stj-rr-96.md) — Transitado em julgado
+- [RR 97](stj-rr-97.md) — Transitado em julgado
+- [RR 98](stj-rr-98.md) — Transitado em julgado
+- [RR 99](stj-rr-99.md) — Transitado em julgado
+- [RR 100](stj-rr-100.md) — Transitado em julgado
+- [RR 101](stj-rr-101.md) — Transitado em julgado
+- [RR 102](stj-rr-102.md) — Transitado em julgado
+- [RR 103](stj-rr-103.md) — Transitado em julgado
+- [RR 104](stj-rr-104.md) — Transitado em julgado
+- [RR 105](stj-rr-105.md) — Transitado em julgado
+- [RR 106](stj-rr-106.md) — Transitado em julgado
+- [RR 107](stj-rr-107.md) — Transitado em julgado
+- [RR 108](stj-rr-108.md) — Transitado em julgado
+- [RR 109](stj-rr-109.md) — Transitado em julgado
+- [RR 110](stj-rr-110.md) — Transitado em julgado
+- [RR 111](stj-rr-111.md) — Transitado em julgado
+- [RR 112](stj-rr-112.md) — Transitado em julgado
+- [RR 113](stj-rr-113.md) — Transitado em julgado
+- [RR 114](stj-rr-114.md) — Transitado em julgado
+- [RR 115](stj-rr-115.md) — Transitado em julgado
+- [RR 116](stj-rr-116.md) — Transitado em julgado
+- [RR 117](stj-rr-117.md) — Transitado em julgado
+- [RR 118](stj-rr-118.md) — Transitado em julgado
+- [RR 119](stj-rr-119.md) — Transitado em julgado
+- [RR 120](stj-rr-120.md) — Transitado em julgado
+- [RR 121](stj-rr-121.md) — Transitado em julgado
+- [RR 122](stj-rr-122.md) — Transitado em julgado
+- [RR 123](stj-rr-123.md) — Transitado em julgado
+- [RR 124](stj-rr-124.md) — Transitado em julgado
+- [RR 125](stj-rr-125.md) — Transitado em julgado
+- [RR 126](stj-rr-126.md) — Revisado
+- [RR 127](stj-rr-127.md) — Transitado em julgado
+- [RR 128](stj-rr-128.md) — Transitado em julgado
+- [RR 129](stj-rr-129.md) — Transitado em julgado
+- [RR 130](stj-rr-130.md) — Transitado em julgado
+- [RR 131](stj-rr-131.md) — Transitado em julgado
+- [RR 132](stj-rr-132.md) — Transitado em julgado
+- [RR 133](stj-rr-133.md) — Transitado em julgado
+- [RR 134](stj-rr-134.md) — Transitado em julgado
+- [RR 135](stj-rr-135.md) — Transitado em julgado
+- [RR 136](stj-rr-136.md) — Transitado em julgado
+- [RR 137](stj-rr-137.md) — Revisado
+- [RR 138](stj-rr-138.md) — Revisado
+- [RR 139](stj-rr-139.md) — Transitado em julgado
+- [RR 140](stj-rr-140.md) — Transitado em julgado
+- [RR 141](stj-rr-141.md) — Transitado em julgado
+- [RR 142](stj-rr-142.md) — Transitado em julgado
+- [RR 143](stj-rr-143.md) — Transitado em julgado
+- [RR 144](stj-rr-144.md) — Transitado em julgado
+- [RR 145](stj-rr-145.md) — Transitado em julgado
+- [RR 146](stj-rr-146.md) — Transitado em julgado
+- [RR 147](stj-rr-147.md) — Transitado em julgado
+- [RR 148](stj-rr-148.md) — Transitado em julgado
+- [RR 149](stj-rr-149.md) — Transitado em julgado
+- [RR 150](stj-rr-150.md) — Transitado em julgado
+- [RR 151](stj-rr-151.md) — Transitado em julgado
+- [RR 152](stj-rr-152.md) — Transitado em julgado
+- [RR 153](stj-rr-153.md) — Transitado em julgado
+- [RR 154](stj-rr-154.md) — Transitado em julgado
+- [RR 155](stj-rr-155.md) — Transitado em julgado
+- [RR 156](stj-rr-156.md) — Transitado em julgado
+- [RR 157](stj-rr-157.md) — Revisado
+- [RR 158](stj-rr-158.md) — Transitado em julgado
+- [RR 159](stj-rr-159.md) — Transitado em julgado
+- [RR 160](stj-rr-160.md) — Transitado em julgado
+- [RR 161](stj-rr-161.md) — Transitado em julgado
+- [RR 162](stj-rr-162.md) — Transitado em julgado
+- [RR 163](stj-rr-163.md) — Transitado em julgado
+- [RR 164](stj-rr-164.md) — Transitado em julgado
+- [RR 165](stj-rr-165.md) — Transitado em julgado
+- [RR 166](stj-rr-166.md) — Transitado em julgado
+- [RR 167](stj-rr-167.md) — Transitado em julgado
+- [RR 168](stj-rr-168.md) — Transitado em julgado
+- [RR 169](stj-rr-169.md) — Transitado em julgado
+- [RR 170](stj-rr-170.md) — Transitado em julgado
+- [RR 171](stj-rr-171.md) — Transitado em julgado
+- [RR 172](stj-rr-172.md) — Transitado em julgado
+- [RR 173](stj-rr-173.md) — Transitado em julgado
+- [RR 174](stj-rr-174.md) — Transitado em julgado
+- [RR 175](stj-rr-175.md) — Transitado em julgado
+- [RR 176](stj-rr-176.md) — Transitado em julgado
+- [RR 177](stj-rr-177.md) — Revisado
+- [RR 178](stj-rr-178.md) — Transitado em julgado
+- [RR 179](stj-rr-179.md) — Transitado em julgado
+- [RR 180](stj-rr-180.md) — Transitado em julgado
+- [RR 181](stj-rr-181.md) — Transitado em julgado
+- [RR 182](stj-rr-182.md) — Transitado em julgado
+- [RR 183](stj-rr-183.md) — Transitado em julgado
+- [RR 184](stj-rr-184.md) — Revisado
+- [RR 185](stj-rr-185.md) — Transitado em julgado
+- [RR 186](stj-rr-186.md) — Transitado em julgado
+- [RR 187](stj-rr-187.md) — Transitado em julgado
+- [RR 188](stj-rr-188.md) — Transitado em julgado
+- [RR 189](stj-rr-189.md) — Transitado em julgado
+- [RR 190](stj-rr-190.md) — Transitado em julgado
+- [RR 191](stj-rr-191.md) — Transitado em julgado
+- [RR 192](stj-rr-192.md) — Transitado em julgado
+- [RR 193](stj-rr-193.md) — Transitado em julgado
+- [RR 194](stj-rr-194.md) — Transitado em julgado
+- [RR 195](stj-rr-195.md) — Transitado em julgado
+- [RR 196](stj-rr-196.md) — Transitado em julgado
+- [RR 197](stj-rr-197.md) — Transitado em julgado
+- [RR 198](stj-rr-198.md) — Transitado em julgado
+- [RR 199](stj-rr-199.md) — Transitado em julgado
+- [RR 200](stj-rr-200.md) — Transitado em julgado
+- [RR 201](stj-rr-201.md) — Transitado em julgado
+- [RR 202](stj-rr-202.md) — Transitado em julgado
+- [RR 203](stj-rr-203.md) — Transitado em julgado
+- [RR 204](stj-rr-204.md) — Transitado em julgado
+- [RR 205](stj-rr-205.md) — Transitado em julgado
+- [RR 206](stj-rr-206.md) — Transitado em julgado
+- [RR 207](stj-rr-207.md) — Transitado em julgado
+- [RR 208](stj-rr-208.md) — Transitado em julgado
+- [RR 209](stj-rr-209.md) — Transitado em julgado
+- [RR 210](stj-rr-210.md) — Transitado em julgado
+- [RR 211](stj-rr-211.md) — Transitado em julgado
+- [RR 212](stj-rr-212.md) — Transitado em julgado
+- [RR 213](stj-rr-213.md) — Transitado em julgado
+- [RR 214](stj-rr-214.md) — Transitado em julgado
+- [RR 215](stj-rr-215.md) — Transitado em julgado
+- [RR 216](stj-rr-216.md) — Transitado em julgado
+- [RR 217](stj-rr-217.md) — Transitado em julgado
+- [RR 218](stj-rr-218.md) — Transitado em julgado
+- [RR 219](stj-rr-219.md) — Transitado em julgado
+- [RR 220](stj-rr-220.md) — Transitado em julgado
+- [RR 221](stj-rr-221.md) — Transitado em julgado
+- [RR 222](stj-rr-222.md) — Transitado em julgado
+- [RR 223](stj-rr-223.md) — Transitado em julgado
+- [RR 224](stj-rr-224.md) — Transitado em julgado
+- [RR 225](stj-rr-225.md) — Transitado em julgado
+- [RR 226](stj-rr-226.md) — Transitado em julgado
+- [RR 227](stj-rr-227.md) — Transitado em julgado
+- [RR 228](stj-rr-228.md) — Transitado em julgado
+- [RR 229](stj-rr-229.md) — Transitado em julgado
+- [RR 230](stj-rr-230.md) — Transitado em julgado
+- [RR 231](stj-rr-231.md) — Transitado em julgado
+- [RR 232](stj-rr-232.md) — Transitado em julgado
+- [RR 233](stj-rr-233.md) — Transitado em julgado
+- [RR 234](stj-rr-234.md) — Transitado em julgado
+- [RR 235](stj-rr-235.md) — Transitado em julgado
+- [RR 236](stj-rr-236.md) — Transitado em julgado
+- [RR 237](stj-rr-237.md) — Transitado em julgado
+- [RR 238](stj-rr-238.md) — Transitado em julgado
+- [RR 239](stj-rr-239.md) — Transitado em julgado
+- [RR 240](stj-rr-240.md) — Transitado em julgado
+- [RR 241](stj-rr-241.md) — Transitado em julgado
+- [RR 242](stj-rr-242.md) — Transitado em julgado
+- [RR 243](stj-rr-243.md) — Transitado em julgado
+- [RR 244](stj-rr-244.md) — Transitado em julgado
+- [RR 245](stj-rr-245.md) — Transitado em julgado
+- [RR 246](stj-rr-246.md) — Transitado em julgado
+- [RR 247](stj-rr-247.md) — Transitado em julgado
+- [RR 248](stj-rr-248.md) — Transitado em julgado
+- [RR 249](stj-rr-249.md) — Transitado em julgado
+- [RR 250](stj-rr-250.md) — Transitado em julgado
+- [RR 251](stj-rr-251.md) — Transitado em julgado
+- [RR 252](stj-rr-252.md) — Transitado em julgado
+- [RR 253](stj-rr-253.md) — Transitado em julgado
+- [RR 254](stj-rr-254.md) — Transitado em julgado
+- [RR 255](stj-rr-255.md) — Transitado em julgado
+- [RR 256](stj-rr-256.md) — Transitado em julgado
+- [RR 257](stj-rr-257.md) — Transitado em julgado
+- [RR 258](stj-rr-258.md) — Transitado em julgado
+- [RR 259](stj-rr-259.md) — Transitado em julgado
+- [RR 260](stj-rr-260.md) — Transitado em julgado
+- [RR 261](stj-rr-261.md) — Transitado em julgado
+- [RR 262](stj-rr-262.md) — Transitado em julgado
+- [RR 263](stj-rr-263.md) — Transitado em julgado
+- [RR 264](stj-rr-264.md) — Transitado em julgado
+- [RR 265](stj-rr-265.md) — Transitado em julgado
+- [RR 266](stj-rr-266.md) — Transitado em julgado
+- [RR 267](stj-rr-267.md) — Transitado em julgado
+- [RR 268](stj-rr-268.md) — Transitado em julgado
+- [RR 269](stj-rr-269.md) — Transitado em julgado
+- [RR 270](stj-rr-270.md) — Transitado em julgado
+- [RR 271](stj-rr-271.md) — Transitado em julgado
+- [RR 272](stj-rr-272.md) — Transitado em julgado
+- [RR 273](stj-rr-273.md) — Transitado em julgado
+- [RR 274](stj-rr-274.md) — Transitado em julgado
+- [RR 275](stj-rr-275.md) — Transitado em julgado
+- [RR 276](stj-rr-276.md) — Transitado em julgado
+- [RR 277](stj-rr-277.md) — Transitado em julgado
+- [RR 278](stj-rr-278.md) — Transitado em julgado
+- [RR 279](stj-rr-279.md) — Transitado em julgado
+- [RR 280](stj-rr-280.md) — Revisado
+- [RR 281](stj-rr-281.md) — Revisado
+- [RR 282](stj-rr-282.md) — Revisado
+- [RR 283](stj-rr-283.md) — Cancelado
+- [RR 284](stj-rr-284.md) — Transitado em julgado
+- [RR 285](stj-rr-285.md) — Transitado em julgado
+- [RR 286](stj-rr-286.md) — Transitado em julgado
+- [RR 287](stj-rr-287.md) — Transitado em julgado
+- [RR 288](stj-rr-288.md) — Transitado em julgado
+- [RR 289](stj-rr-289.md) — Transitado em julgado
+- [RR 290](stj-rr-290.md) — Transitado em julgado
+- [RR 291](stj-rr-291.md) — Revisado
+- [RR 292](stj-rr-292.md) — Transitado em julgado
+- [RR 293](stj-rr-293.md) — Transitado em julgado
+- [RR 294](stj-rr-294.md) — Transitado em julgado
+- [RR 295](stj-rr-295.md) — Transitado em julgado
+- [RR 296](stj-rr-296.md) — Cancelado
+- [RR 297](stj-rr-297.md) — Transitado em julgado
+- [RR 298](stj-rr-298.md) — Sobrestado (outro motivo)
+- [RR 299](stj-rr-299.md) — Sobrestado (outro motivo)
+- [RR 300](stj-rr-300.md) — Sobrestado (outro motivo)
+- [RR 301](stj-rr-301.md) — Sobrestado (outro motivo)
+- [RR 302](stj-rr-302.md) — Sobrestado (outro motivo)
+- [RR 303](stj-rr-303.md) — Transitado em julgado
+- [RR 304](stj-rr-304.md) — Transitado em julgado
+- [RR 305](stj-rr-305.md) — Transitado em julgado
+- [RR 306](stj-rr-306.md) — Transitado em julgado
+- [RR 307](stj-rr-307.md) — Transitado em julgado
+- [RR 308](stj-rr-308.md) — Transitado em julgado
+- [RR 309](stj-rr-309.md) — Transitado em julgado
+- [RR 310](stj-rr-310.md) — Transitado em julgado
+- [RR 311](stj-rr-311.md) — Transitado em julgado
+- [RR 312](stj-rr-312.md) — Transitado em julgado
+- [RR 313](stj-rr-313.md) — Transitado em julgado
+- [RR 314](stj-rr-314.md) — Transitado em julgado
+- [RR 315](stj-rr-315.md) — Transitado em julgado
+- [RR 316](stj-rr-316.md) — Transitado em julgado
+- [RR 317](stj-rr-317.md) — Transitado em julgado
+- [RR 318](stj-rr-318.md) — Transitado em julgado
+- [RR 319](stj-rr-319.md) — Transitado em julgado
+- [RR 320](stj-rr-320.md) — Transitado em julgado
+- [RR 321](stj-rr-321.md) — Transitado em julgado
+- [RR 322](stj-rr-322.md) — Transitado em julgado
+- [RR 323](stj-rr-323.md) — Transitado em julgado
+- [RR 324](stj-rr-324.md) — Transitado em julgado
+- [RR 325](stj-rr-325.md) — Transitado em julgado
+- [RR 326](stj-rr-326.md) — Transitado em julgado
+- [RR 327](stj-rr-327.md) — Transitado em julgado
+- [RR 328](stj-rr-328.md) — Transitado em julgado
+- [RR 329](stj-rr-329.md) — Transitado em julgado
+- [RR 330](stj-rr-330.md) — Transitado em julgado
+- [RR 331](stj-rr-331.md) — Transitado em julgado
+- [RR 332](stj-rr-332.md) — Transitado em julgado
+- [RR 333](stj-rr-333.md) — Transitado em julgado
+- [RR 334](stj-rr-334.md) — Transitado em julgado
+- [RR 335](stj-rr-335.md) — Transitado em julgado
+- [RR 336](stj-rr-336.md) — Transitado em julgado
+- [RR 337](stj-rr-337.md) — Transitado em julgado
+- [RR 338](stj-rr-338.md) — Transitado em julgado
+- [RR 339](stj-rr-339.md) — Transitado em julgado
+- [RR 340](stj-rr-340.md) — Transitado em julgado
+- [RR 341](stj-rr-341.md) — Transitado em julgado
+- [RR 342](stj-rr-342.md) — Transitado em julgado
+- [RR 343](stj-rr-343.md) — Transitado em julgado
+- [RR 344](stj-rr-344.md) — Transitado em julgado
+- [RR 345](stj-rr-345.md) — Transitado em julgado
+- [RR 346](stj-rr-346.md) — Transitado em julgado
+- [RR 347](stj-rr-347.md) — Transitado em julgado
+- [RR 348](stj-rr-348.md) — Transitado em julgado
+- [RR 349](stj-rr-349.md) — Transitado em julgado
+- [RR 350](stj-rr-350.md) — Transitado em julgado
+- [RR 351](stj-rr-351.md) — Transitado em julgado
+- [RR 352](stj-rr-352.md) — Transitado em julgado
+- [RR 353](stj-rr-353.md) — Transitado em julgado
+- [RR 354](stj-rr-354.md) — Transitado em julgado
+- [RR 355](stj-rr-355.md) — Transitado em julgado
+- [RR 356](stj-rr-356.md) — Transitado em julgado
+- [RR 357](stj-rr-357.md) — Cancelado
+- [RR 358](stj-rr-358.md) — Transitado em julgado
+- [RR 359](stj-rr-359.md) — Transitado em julgado
+- [RR 360](stj-rr-360.md) — Transitado em julgado
+- [RR 361](stj-rr-361.md) — Transitado em julgado
+- [RR 362](stj-rr-362.md) — Transitado em julgado
+- [RR 363](stj-rr-363.md) — Sobrestado (outro motivo)
+- [RR 364](stj-rr-364.md) — Transitado em julgado
+- [RR 365](stj-rr-365.md) — Transitado em julgado
+- [RR 366](stj-rr-366.md) — Transitado em julgado
+- [RR 367](stj-rr-367.md) — Transitado em julgado
+- [RR 368](stj-rr-368.md) — Transitado em julgado
+- [RR 369](stj-rr-369.md) — Acórdão Publicado (RE Pendente)
+- [RR 370](stj-rr-370.md) — Transitado em julgado
+- [RR 371](stj-rr-371.md) — Transitado em julgado
+- [RR 372](stj-rr-372.md) — Transitado em julgado
+- [RR 373](stj-rr-373.md) — Transitado em julgado
+- [RR 374](stj-rr-374.md) — Transitado em julgado
+- [RR 375](stj-rr-375.md) — Transitado em julgado
+- [RR 376](stj-rr-376.md) — Transitado em julgado
+- [RR 377](stj-rr-377.md) — Transitado em julgado
+- [RR 378](stj-rr-378.md) — Transitado em julgado
+- [RR 379](stj-rr-379.md) — Transitado em julgado
+- [RR 380](stj-rr-380.md) — Transitado em julgado
+- [RR 381](stj-rr-381.md) — Transitado em julgado
+- [RR 382](stj-rr-382.md) — Transitado em julgado
+- [RR 383](stj-rr-383.md) — Transitado em julgado
+- [RR 384](stj-rr-384.md) — Transitado em julgado
+- [RR 385](stj-rr-385.md) — Transitado em julgado
+- [RR 386](stj-rr-386.md) — Cancelado
+- [RR 387](stj-rr-387.md) — Transitado em julgado
+- [RR 388](stj-rr-388.md) — Transitado em julgado
+- [RR 389](stj-rr-389.md) — Transitado em julgado
+- [RR 390](stj-rr-390.md) — Cancelado
+- [RR 391](stj-rr-391.md) — Transitado em julgado
+- [RR 392](stj-rr-392.md) — Transitado em julgado
+- [RR 393](stj-rr-393.md) — Transitado em julgado
+- [RR 394](stj-rr-394.md) — Transitado em julgado
+- [RR 395](stj-rr-395.md) — Transitado em julgado
+- [RR 396](stj-rr-396.md) — Transitado em julgado
+- [RR 397](stj-rr-397.md) — Transitado em julgado
+- [RR 398](stj-rr-398.md) — Transitado em julgado
+- [RR 399](stj-rr-399.md) — Transitado em julgado
+- [RR 400](stj-rr-400.md) — Transitado em julgado
+- [RR 401](stj-rr-401.md) — Transitado em julgado
+- [RR 402](stj-rr-402.md) — Transitado em julgado
+- [RR 403](stj-rr-403.md) — Transitado em julgado
+- [RR 404](stj-rr-404.md) — Transitado em julgado
+- [RR 405](stj-rr-405.md) — Transitado em julgado
+- [RR 406](stj-rr-406.md) — Transitado em julgado
+- [RR 407](stj-rr-407.md) — Transitado em julgado
+- [RR 408](stj-rr-408.md) — Transitado em julgado
+- [RR 409](stj-rr-409.md) — Transitado em julgado
+- [RR 410](stj-rr-410.md) — Transitado em julgado
+- [RR 411](stj-rr-411.md) — Transitado em julgado
+- [RR 412](stj-rr-412.md) — Transitado em julgado
+- [RR 413](stj-rr-413.md) — Transitado em julgado
+- [RR 414](stj-rr-414.md) — Transitado em julgado
+- [RR 415](stj-rr-415.md) — Transitado em julgado
+- [RR 416](stj-rr-416.md) — Transitado em julgado
+- [RR 417](stj-rr-417.md) — Transitado em julgado
+- [RR 418](stj-rr-418.md) — Transitado em julgado
+- [RR 419](stj-rr-419.md) — Transitado em julgado
+- [RR 420](stj-rr-420.md) — Transitado em julgado
+- [RR 421](stj-rr-421.md) — Transitado em julgado
+- [RR 422](stj-rr-422.md) — Transitado em julgado
+- [RR 423](stj-rr-423.md) — Transitado em julgado
+- [RR 424](stj-rr-424.md) — Transitado em julgado
+- [RR 425](stj-rr-425.md) — Transitado em julgado
+- [RR 426](stj-rr-426.md) — Transitado em julgado
+- [RR 427](stj-rr-427.md) — Transitado em julgado
+- [RR 428](stj-rr-428.md) — Transitado em julgado
+- [RR 429](stj-rr-429.md) — Cancelado
+- [RR 430](stj-rr-430.md) — Transitado em julgado
+- [RR 431](stj-rr-431.md) — Transitado em julgado
+- [RR 432](stj-rr-432.md) — Transitado em julgado
+- [RR 433](stj-rr-433.md) — Transitado em julgado
+- [RR 434](stj-rr-434.md) — Transitado em julgado
+- [RR 435](stj-rr-435.md) — Transitado em julgado
+- [RR 436](stj-rr-436.md) — Transitado em julgado
+- [RR 437](stj-rr-437.md) — Transitado em julgado
+- [RR 438](stj-rr-438.md) — Transitado em julgado
+- [RR 439](stj-rr-439.md) — Transitado em julgado
+- [RR 440](stj-rr-440.md) — Transitado em julgado
+- [RR 441](stj-rr-441.md) — Transitado em julgado
+- [RR 442](stj-rr-442.md) — Transitado em julgado
+- [RR 443](stj-rr-443.md) — Transitado em julgado
+- [RR 444](stj-rr-444.md) — Transitado em julgado
+- [RR 445](stj-rr-445.md) — Revisado
+- [RR 446](stj-rr-446.md) — Transitado em julgado
+- [RR 447](stj-rr-447.md) — Transitado em julgado
+- [RR 448](stj-rr-448.md) — Cancelado
+- [RR 449](stj-rr-449.md) — Transitado em julgado
+- [RR 450](stj-rr-450.md) — Transitado em julgado
+- [RR 451](stj-rr-451.md) — Transitado em julgado
+- [RR 452](stj-rr-452.md) — Transitado em julgado
+- [RR 453](stj-rr-453.md) — Transitado em julgado
+- [RR 454](stj-rr-454.md) — Transitado em julgado
+- [RR 455](stj-rr-455.md) — Transitado em julgado
+- [RR 456](stj-rr-456.md) — Transitado em julgado
+- [RR 457](stj-rr-457.md) — Transitado em julgado
+- [RR 458](stj-rr-458.md) — Cancelado
+- [RR 459](stj-rr-459.md) — Transitado em julgado
+- [RR 460](stj-rr-460.md) — Cancelado
+- [RR 461](stj-rr-461.md) — Cancelado
+- [RR 462](stj-rr-462.md) — Transitado em julgado
+- [RR 463](stj-rr-463.md) — Transitado em julgado
+- [RR 464](stj-rr-464.md) — Transitado em julgado
+- [RR 465](stj-rr-465.md) — Transitado em julgado
+- [RR 466](stj-rr-466.md) — Transitado em julgado
+- [RR 467](stj-rr-467.md) — Transitado em julgado
+- [RR 468](stj-rr-468.md) — Transitado em julgado
+- [RR 469](stj-rr-469.md) — Transitado em julgado
+- [RR 470](stj-rr-470.md) — Transitado em julgado
+- [RR 471](stj-rr-471.md) — Transitado em julgado
+- [RR 472](stj-rr-472.md) — Transitado em julgado
+- [RR 473](stj-rr-473.md) — Transitado em julgado
+- [RR 474](stj-rr-474.md) — Transitado em julgado
+- [RR 475](stj-rr-475.md) — Transitado em julgado
+- [RR 476](stj-rr-476.md) — Transitado em julgado
+- [RR 477](stj-rr-477.md) — Transitado em julgado
+- [RR 478](stj-rr-478.md) — Acórdão Publicado
+- [RR 479](stj-rr-479.md) — Cancelado
+- [RR 480](stj-rr-480.md) — Transitado em julgado
+- [RR 481](stj-rr-481.md) — Transitado em julgado
+- [RR 482](stj-rr-482.md) — Transitado em julgado
+- [RR 483](stj-rr-483.md) — Transitado em julgado
+- [RR 484](stj-rr-484.md) — Transitado em julgado
+- [RR 485](stj-rr-485.md) — Transitado em julgado
+- [RR 486](stj-rr-486.md) — Transitado em julgado
+- [RR 487](stj-rr-487.md) — Transitado em julgado
+- [RR 488](stj-rr-488.md) — Transitado em julgado
+- [RR 489](stj-rr-489.md) — Transitado em julgado
+- [RR 490](stj-rr-490.md) — Transitado em julgado
+- [RR 491](stj-rr-491.md) — Transitado em julgado
+- [RR 492](stj-rr-492.md) — Transitado em julgado
+- [RR 493](stj-rr-493.md) — Transitado em julgado
+- [RR 494](stj-rr-494.md) — Transitado em julgado
+- [RR 495](stj-rr-495.md) — Transitado em julgado
+- [RR 496](stj-rr-496.md) — Transitado em julgado
+- [RR 497](stj-rr-497.md) — Cancelado
+- [RR 498](stj-rr-498.md) — Cancelado
+- [RR 499](stj-rr-499.md) — Transitado em julgado
+- [RR 500](stj-rr-500.md) — Transitado em julgado
+- [RR 501](stj-rr-501.md) — Transitado em julgado
+- [RR 502](stj-rr-502.md) — Transitado em julgado
+- [RR 503](stj-rr-503.md) — Acórdão Publicado
+- [RR 504](stj-rr-504.md) — Transitado em julgado
+- [RR 505](stj-rr-505.md) — Transitado em julgado
+- [RR 506](stj-rr-506.md) — Transitado em julgado
+- [RR 507](stj-rr-507.md) — Transitado em julgado
+- [RR 508](stj-rr-508.md) — Transitado em julgado
+- [RR 509](stj-rr-509.md) — Transitado em julgado
+- [RR 510](stj-rr-510.md) — Transitado em julgado
+- [RR 511](stj-rr-511.md) — Transitado em julgado
+- [RR 512](stj-rr-512.md) — Transitado em julgado
+- [RR 513](stj-rr-513.md) — Transitado em julgado
+- [RR 514](stj-rr-514.md) — Transitado em julgado
+- [RR 515](stj-rr-515.md) — Transitado em julgado
+- [RR 516](stj-rr-516.md) — Transitado em julgado
+- [RR 517](stj-rr-517.md) — Transitado em julgado
+- [RR 518](stj-rr-518.md) — Transitado em julgado
+- [RR 519](stj-rr-519.md) — Transitado em julgado
+- [RR 520](stj-rr-520.md) — Transitado em julgado
+- [RR 521](stj-rr-521.md) — Transitado em julgado
+- [RR 522](stj-rr-522.md) — Transitado em julgado
+- [RR 523](stj-rr-523.md) — Transitado em julgado
+- [RR 524](stj-rr-524.md) — Transitado em julgado
+- [RR 525](stj-rr-525.md) — Transitado em julgado
+- [RR 526](stj-rr-526.md) — Transitado em julgado
+- [RR 527](stj-rr-527.md) — Transitado em julgado
+- [RR 528](stj-rr-528.md) — Transitado em julgado
+- [RR 529](stj-rr-529.md) — Transitado em julgado
+- [RR 530](stj-rr-530.md) — Transitado em julgado
+- [RR 531](stj-rr-531.md) — Transitado em julgado
+- [RR 532](stj-rr-532.md) — Transitado em julgado
+- [RR 533](stj-rr-533.md) — Transitado em julgado
+- [RR 534](stj-rr-534.md) — Transitado em julgado
+- [RR 535](stj-rr-535.md) — Transitado em julgado
+- [RR 536](stj-rr-536.md) — Transitado em julgado
+- [RR 537](stj-rr-537.md) — Transitado em julgado
+- [RR 538](stj-rr-538.md) — Transitado em julgado
+- [RR 539](stj-rr-539.md) — Transitado em julgado
+- [RR 540](stj-rr-540.md) — Transitado em julgado
+- [RR 541](stj-rr-541.md) — Transitado em julgado
+- [RR 542](stj-rr-542.md) — Transitado em julgado
+- [RR 543](stj-rr-543.md) — Cancelado
+- [RR 544](stj-rr-544.md) — Transitado em julgado
+- [RR 545](stj-rr-545.md) — Transitado em julgado
+- [RR 546](stj-rr-546.md) — Transitado em julgado
+- [RR 547](stj-rr-547.md) — Transitado em julgado
+- [RR 548](stj-rr-548.md) — Transitado em julgado
+- [RR 549](stj-rr-549.md) — Transitado em julgado
+- [RR 550](stj-rr-550.md) — Transitado em julgado
+- [RR 551](stj-rr-551.md) — Transitado em julgado
+- [RR 552](stj-rr-552.md) — Transitado em julgado
+- [RR 553](stj-rr-553.md) — Transitado em julgado
+- [RR 554](stj-rr-554.md) — Transitado em julgado
+- [RR 555](stj-rr-555.md) — Transitado em julgado
+- [RR 556](stj-rr-556.md) — Transitado em julgado
+- [RR 557](stj-rr-557.md) — Cancelado
+- [RR 558](stj-rr-558.md) — Transitado em julgado
+- [RR 559](stj-rr-559.md) — Cancelado
+- [RR 560](stj-rr-560.md) — Transitado em julgado
+- [RR 561](stj-rr-561.md) — Transitado em julgado
+- [RR 562](stj-rr-562.md) — Transitado em julgado
+- [RR 563](stj-rr-563.md) — Revisado
+- [RR 564](stj-rr-564.md) — Transitado em julgado
+- [RR 565](stj-rr-565.md) — Transitado em julgado
+- [RR 566](stj-rr-566.md) — Transitado em julgado
+- [RR 567](stj-rr-567.md) — Transitado em julgado
+- [RR 568](stj-rr-568.md) — Transitado em julgado
+- [RR 569](stj-rr-569.md) — Transitado em julgado
+- [RR 570](stj-rr-570.md) — Transitado em julgado
+- [RR 571](stj-rr-571.md) — Transitado em julgado
+- [RR 572](stj-rr-572.md) — Transitado em julgado
+- [RR 573](stj-rr-573.md) — Cancelado
+- [RR 574](stj-rr-574.md) — Transitado em julgado
+- [RR 575](stj-rr-575.md) — Transitado em julgado
+- [RR 576](stj-rr-576.md) — Transitado em julgado
+- [RR 577](stj-rr-577.md) — Transitado em julgado
+- [RR 578](stj-rr-578.md) — Transitado em julgado
+- [RR 579](stj-rr-579.md) — Cancelado
+- [RR 580](stj-rr-580.md) — Transitado em julgado
+- [RR 581](stj-rr-581.md) — Transitado em julgado
+- [RR 582](stj-rr-582.md) — Transitado em julgado
+- [RR 583](stj-rr-583.md) — Cancelado
+- [RR 584](stj-rr-584.md) — Transitado em julgado
+- [RR 585](stj-rr-585.md) — Transitado em julgado
+- [RR 586](stj-rr-586.md) — Transitado em julgado
+- [RR 587](stj-rr-587.md) — Transitado em julgado
+- [RR 588](stj-rr-588.md) — Transitado em julgado
+- [RR 589](stj-rr-589.md) — Transitado em julgado
+- [RR 590](stj-rr-590.md) — Transitado em julgado
+- [RR 591](stj-rr-591.md) — Transitado em julgado
+- [RR 592](stj-rr-592.md) — Transitado em julgado
+- [RR 593](stj-rr-593.md) — Transitado em julgado
+- [RR 594](stj-rr-594.md) — Transitado em julgado
+- [RR 595](stj-rr-595.md) — Transitado em julgado
+- [RR 596](stj-rr-596.md) — Transitado em julgado
+- [RR 597](stj-rr-597.md) — Cancelado
+- [RR 598](stj-rr-598.md) — Transitado em julgado
+- [RR 599](stj-rr-599.md) — Transitado em julgado
+- [RR 600](stj-rr-600.md) — Revisado
+- [RR 601](stj-rr-601.md) — Transitado em julgado
+- [RR 602](stj-rr-602.md) — Transitado em julgado
+- [RR 603](stj-rr-603.md) — Transitado em julgado
+- [RR 604](stj-rr-604.md) — Transitado em julgado
+- [RR 605](stj-rr-605.md) — Cancelado
+- [RR 606](stj-rr-606.md) — Transitado em julgado
+- [RR 607](stj-rr-607.md) — Cancelado
+- [RR 608](stj-rr-608.md) — Transitado em julgado
+- [RR 609](stj-rr-609.md) — Transitado em julgado
+- [RR 610](stj-rr-610.md) — Transitado em julgado
+- [RR 611](stj-rr-611.md) — Transitado em julgado
+- [RR 612](stj-rr-612.md) — Transitado em julgado
+- [RR 613](stj-rr-613.md) — Transitado em julgado
+- [RR 614](stj-rr-614.md) — Transitado em julgado
+- [RR 615](stj-rr-615.md) — Transitado em julgado
+- [RR 616](stj-rr-616.md) — Transitado em julgado
+- [RR 617](stj-rr-617.md) — Transitado em julgado
+- [RR 618](stj-rr-618.md) — Transitado em julgado
+- [RR 619](stj-rr-619.md) — Transitado em julgado
+- [RR 620](stj-rr-620.md) — Transitado em julgado
+- [RR 621](stj-rr-621.md) — Transitado em julgado
+- [RR 622](stj-rr-622.md) — Transitado em julgado
+- [RR 623](stj-rr-623.md) — Transitado em julgado
+- [RR 624](stj-rr-624.md) — Transitado em julgado
+- [RR 625](stj-rr-625.md) — Transitado em julgado
+- [RR 626](stj-rr-626.md) — Transitado em julgado
+- [RR 627](stj-rr-627.md) — Transitado em julgado
+- [RR 628](stj-rr-628.md) — Transitado em julgado
+- [RR 629](stj-rr-629.md) — Transitado em julgado
+- [RR 630](stj-rr-630.md) — Transitado em julgado
+- [RR 631](stj-rr-631.md) — Transitado em julgado
+- [RR 632](stj-rr-632.md) — Cancelado
+- [RR 633](stj-rr-633.md) — Transitado em julgado
+- [RR 634](stj-rr-634.md) — Transitado em julgado
+- [RR 635](stj-rr-635.md) — Cancelado
+- [RR 636](stj-rr-636.md) — Transitado em julgado
+- [RR 637](stj-rr-637.md) — Transitado em julgado
+- [RR 638](stj-rr-638.md) — Transitado em julgado
+- [RR 639](stj-rr-639.md) — Transitado em julgado
+- [RR 640](stj-rr-640.md) — Transitado em julgado
+- [RR 641](stj-rr-641.md) — Transitado em julgado
+- [RR 642](stj-rr-642.md) — Transitado em julgado
+- [RR 643](stj-rr-643.md) — Transitado em julgado
+- [RR 644](stj-rr-644.md) — Transitado em julgado
+- [RR 645](stj-rr-645.md) — Transitado em julgado
+- [RR 646](stj-rr-646.md) — Transitado em julgado
+- [RR 647](stj-rr-647.md) — Transitado em julgado
+- [RR 648](stj-rr-648.md) — Transitado em julgado
+- [RR 649](stj-rr-649.md) — Transitado em julgado
+- [RR 650](stj-rr-650.md) — Transitado em julgado
+- [RR 651](stj-rr-651.md) — Transitado em julgado
+- [RR 652](stj-rr-652.md) — Transitado em julgado
+- [RR 653](stj-rr-653.md) — Cancelado
+- [RR 654](stj-rr-654.md) — Transitado em julgado
+- [RR 655](stj-rr-655.md) — Transitado em julgado
+- [RR 656](stj-rr-656.md) — Cancelado
+- [RR 657](stj-rr-657.md) — Transitado em julgado
+- [RR 658](stj-rr-658.md) — Transitado em julgado
+- [RR 659](stj-rr-659.md) — Transitado em julgado
+- [RR 660](stj-rr-660.md) — Transitado em julgado
+- [RR 661](stj-rr-661.md) — Cancelado
+- [RR 662](stj-rr-662.md) — Transitado em julgado
+- [RR 663](stj-rr-663.md) — Cancelado
+- [RR 664](stj-rr-664.md) — Cancelado
+- [RR 665](stj-rr-665.md) — Cancelado
+- [RR 666](stj-rr-666.md) — Transitado em julgado
+- [RR 667](stj-rr-667.md) — Transitado em julgado
+- [RR 668](stj-rr-668.md) — Transitado em julgado
+- [RR 669](stj-rr-669.md) — Transitado em julgado
+- [RR 670](stj-rr-670.md) — Transitado em julgado
+- [RR 671](stj-rr-671.md) — Transitado em julgado
+- [RR 672](stj-rr-672.md) — Transitado em julgado
+- [RR 673](stj-rr-673.md) — Transitado em julgado
+- [RR 674](stj-rr-674.md) — Transitado em julgado
+- [RR 675](stj-rr-675.md) — Transitado em julgado
+- [RR 676](stj-rr-676.md) — Transitado em julgado
+- [RR 677](stj-rr-677.md) — Transitado em julgado
+- [RR 678](stj-rr-678.md) — Transitado em julgado
+- [RR 679](stj-rr-679.md) — Cancelado
+- [RR 680](stj-rr-680.md) — Transitado em julgado
+- [RR 681](stj-rr-681.md) — Transitado em julgado
+- [RR 682](stj-rr-682.md) — Cancelado
+- [RR 683](stj-rr-683.md) — Transitado em julgado
+- [RR 684](stj-rr-684.md) — Cancelado
+- [RR 685](stj-rr-685.md) — Acórdão Publicado
+- [RR 686](stj-rr-686.md) — Transitado em julgado
+- [RR 687](stj-rr-687.md) — Transitado em julgado
+- [RR 688](stj-rr-688.md) — Transitado em julgado
+- [RR 689](stj-rr-689.md) — Transitado em julgado
+- [RR 690](stj-rr-690.md) — Transitado em julgado
+- [RR 691](stj-rr-691.md) — Cancelado
+- [RR 692](stj-rr-692.md) — Transitado em julgado
+- [RR 693](stj-rr-693.md) — Transitado em julgado
+- [RR 694](stj-rr-694.md) — Transitado em julgado
+- [RR 695](stj-rr-695.md) — Revisado
+- [RR 696](stj-rr-696.md) — Transitado em julgado
+- [RR 697](stj-rr-697.md) — Transitado em julgado
+- [RR 698](stj-rr-698.md) — Transitado em julgado
+- [RR 699](stj-rr-699.md) — Transitado em julgado
+- [RR 700](stj-rr-700.md) — Cancelado
+- [RR 701](stj-rr-701.md) — Cancelado
+- [RR 702](stj-rr-702.md) — Transitado em julgado
+- [RR 703](stj-rr-703.md) — Transitado em julgado
+- [RR 704](stj-rr-704.md) — Transitado em julgado
+- [RR 705](stj-rr-705.md) — Transitado em julgado
+- [RR 706](stj-rr-706.md) — Transitado em julgado
+- [RR 707](stj-rr-707.md) — Transitado em julgado
+- [RR 708](stj-rr-708.md) — Transitado em julgado
+- [RR 709](stj-rr-709.md) — Transitado em julgado
+- [RR 710](stj-rr-710.md) — Transitado em julgado
+- [RR 711](stj-rr-711.md) — Transitado em julgado
+- [RR 712](stj-rr-712.md) — Cancelado
+- [RR 713](stj-rr-713.md) — Cancelado
+- [RR 714](stj-rr-714.md) — Transitado em julgado
+- [RR 715](stj-rr-715.md) — Transitado em julgado
+- [RR 716](stj-rr-716.md) — Cancelado
+- [RR 717](stj-rr-717.md) — Transitado em julgado
+- [RR 718](stj-rr-718.md) — Cancelado
+- [RR 719](stj-rr-719.md) — Cancelado
+- [RR 720](stj-rr-720.md) — Transitado em julgado
+- [RR 721](stj-rr-721.md) — Transitado em julgado
+- [RR 722](stj-rr-722.md) — Transitado em julgado
+- [RR 723](stj-rr-723.md) — Transitado em julgado
+- [RR 724](stj-rr-724.md) — Transitado em julgado
+- [RR 725](stj-rr-725.md) — Transitado em julgado
+- [RR 726](stj-rr-726.md) — Cancelado
+- [RR 727](stj-rr-727.md) — Transitado em julgado
+- [RR 728](stj-rr-728.md) — Transitado em julgado
+- [RR 729](stj-rr-729.md) — Transitado em julgado
+- [RR 730](stj-rr-730.md) — Cancelado
+- [RR 731](stj-rr-731.md) — Acórdão Publicado
+- [RR 732](stj-rr-732.md) — Transitado em julgado
+- [RR 733](stj-rr-733.md) — Transitado em julgado
+- [RR 734](stj-rr-734.md) — Cancelado
+- [RR 735](stj-rr-735.md) — Transitado em julgado
+- [RR 736](stj-rr-736.md) — Transitado em julgado
+- [RR 737](stj-rr-737.md) — Acórdão Publicado (RE Pendente)
+- [RR 738](stj-rr-738.md) — Acórdão Publicado
+- [RR 739](stj-rr-739.md) — Cancelado
+- [RR 740](stj-rr-740.md) — Acórdão Publicado
+- [RR 741](stj-rr-741.md) — Transitado em julgado
+- [RR 742](stj-rr-742.md) — Transitado em julgado
+- [RR 743](stj-rr-743.md) — Transitado em julgado
+- [RR 744](stj-rr-744.md) — Cancelado
+- [RR 745](stj-rr-745.md) — Cancelado
+- [RR 746](stj-rr-746.md) — Cancelado
+- [RR 747](stj-rr-747.md) — Cancelado
+- [RR 748](stj-rr-748.md) — Cancelado
+- [RR 749](stj-rr-749.md) — Cancelado
+- [RR 750](stj-rr-750.md) — Cancelado
+- [RR 751](stj-rr-751.md) — Cancelado
+- [RR 752](stj-rr-752.md) — Cancelado
+- [RR 753](stj-rr-753.md) — Cancelado
+- [RR 754](stj-rr-754.md) — Cancelado
+- [RR 755](stj-rr-755.md) — Cancelado
+- [RR 756](stj-rr-756.md) — Cancelado
+- [RR 757](stj-rr-757.md) — Cancelado
+- [RR 758](stj-rr-758.md) — Cancelado
+- [RR 759](stj-rr-759.md) — Cancelado
+- [RR 760](stj-rr-760.md) — Cancelado
+- [RR 761](stj-rr-761.md) — Transitado em julgado
+- [RR 762](stj-rr-762.md) — Cancelado
+- [RR 763](stj-rr-763.md) — Cancelado
+- [RR 764](stj-rr-764.md) — Cancelado
+- [RR 765](stj-rr-765.md) — Cancelado
+- [RR 766](stj-rr-766.md) — Transitado em julgado
+- [RR 767](stj-rr-767.md) — Cancelado
+- [RR 768](stj-rr-768.md) — Cancelado
+- [RR 769](stj-rr-769.md) — Transitado em julgado
+- [RR 770](stj-rr-770.md) — Cancelado
+- [RR 771](stj-rr-771.md) — Cancelado
+- [RR 772](stj-rr-772.md) — Cancelado
+- [RR 773](stj-rr-773.md) — Cancelado
+- [RR 774](stj-rr-774.md) — Cancelado
+- [RR 775](stj-rr-775.md) — Cancelado
+- [RR 776](stj-rr-776.md) — Cancelado
+- [RR 777](stj-rr-777.md) — Transitado em julgado
+- [RR 778](stj-rr-778.md) — Cancelado
+- [RR 779](stj-rr-779.md) — Transitado em julgado
+- [RR 780](stj-rr-780.md) — Transitado em julgado
+- [RR 781](stj-rr-781.md) — Cancelado
+- [RR 782](stj-rr-782.md) — Cancelado
+- [RR 783](stj-rr-783.md) — Cancelado
+- [RR 784](stj-rr-784.md) — Cancelado
+- [RR 785](stj-rr-785.md) — Cancelado
+- [RR 786](stj-rr-786.md) — Cancelado
+- [RR 787](stj-rr-787.md) — Cancelado
+- [RR 788](stj-rr-788.md) — Cancelado
+- [RR 789](stj-rr-789.md) — Cancelado
+- [RR 790](stj-rr-790.md) — Cancelado
+- [RR 791](stj-rr-791.md) — Cancelado
+- [RR 792](stj-rr-792.md) — Cancelado
+- [RR 793](stj-rr-793.md) — Transitado em julgado
+- [RR 794](stj-rr-794.md) — Transitado em julgado
+- [RR 795](stj-rr-795.md) — Cancelado
+- [RR 796](stj-rr-796.md) — Cancelado
+- [RR 797](stj-rr-797.md) — Cancelado
+- [RR 798](stj-rr-798.md) — Cancelado
+- [RR 799](stj-rr-799.md) — Cancelado
+- [RR 800](stj-rr-800.md) — Cancelado
+- [RR 801](stj-rr-801.md) — Cancelado
+- [RR 802](stj-rr-802.md) — Cancelado
+- [RR 803](stj-rr-803.md) — Cancelado
+- [RR 804](stj-rr-804.md) — Transitado em julgado
+- [RR 805](stj-rr-805.md) — Cancelado
+- [RR 806](stj-rr-806.md) — Transitado em julgado
+- [RR 807](stj-rr-807.md) — Cancelado
+- [RR 808](stj-rr-808.md) — Cancelado
+- [RR 809](stj-rr-809.md) — Cancelado
+- [RR 810](stj-rr-810.md) — Cancelado
+- [RR 811](stj-rr-811.md) — Cancelado
+- [RR 812](stj-rr-812.md) — Cancelado
+- [RR 813](stj-rr-813.md) — Cancelado
+- [RR 814](stj-rr-814.md) — Cancelado
+- [RR 815](stj-rr-815.md) — Cancelado
+- [RR 816](stj-rr-816.md) — Cancelado
+- [RR 817](stj-rr-817.md) — Cancelado
+- [RR 818](stj-rr-818.md) — Cancelado
+- [RR 819](stj-rr-819.md) — Cancelado
+- [RR 820](stj-rr-820.md) — Cancelado
+- [RR 821](stj-rr-821.md) — Cancelado
+- [RR 822](stj-rr-822.md) — Cancelado
+- [RR 823](stj-rr-823.md) — Cancelado
+- [RR 824](stj-rr-824.md) — Cancelado
+- [RR 825](stj-rr-825.md) — Cancelado
+- [RR 826](stj-rr-826.md) — Cancelado
+- [RR 827](stj-rr-827.md) — Cancelado
+- [RR 828](stj-rr-828.md) — Cancelado
+- [RR 829](stj-rr-829.md) — Cancelado
+- [RR 830](stj-rr-830.md) — Cancelado
+- [RR 831](stj-rr-831.md) — Cancelado
+- [RR 832](stj-rr-832.md) — Cancelado
+- [RR 833](stj-rr-833.md) — Cancelado
+- [RR 834](stj-rr-834.md) — Transitado em julgado
+- [RR 835](stj-rr-835.md) — Transitado em julgado
+- [RR 836](stj-rr-836.md) — Cancelado
+- [RR 837](stj-rr-837.md) — Cancelado
+- [RR 838](stj-rr-838.md) — Cancelado
+- [RR 839](stj-rr-839.md) — Cancelado
+- [RR 840](stj-rr-840.md) — Cancelado
+- [RR 841](stj-rr-841.md) — Cancelado
+- [RR 842](stj-rr-842.md) — Cancelado
+- [RR 843](stj-rr-843.md) — Cancelado
+- [RR 844](stj-rr-844.md) — Cancelado
+- [RR 845](stj-rr-845.md) — Cancelado
+- [RR 846](stj-rr-846.md) — Cancelado
+- [RR 847](stj-rr-847.md) — Cancelado
+- [RR 848](stj-rr-848.md) — Cancelado
+- [RR 849](stj-rr-849.md) — Cancelado
+- [RR 850](stj-rr-850.md) — Cancelado
+- [RR 851](stj-rr-851.md) — Cancelado
+- [RR 852](stj-rr-852.md) — Cancelado
+- [RR 853](stj-rr-853.md) — Cancelado
+- [RR 854](stj-rr-854.md) — Cancelado
+- [RR 855](stj-rr-855.md) — Cancelado
+- [RR 856](stj-rr-856.md) — Cancelado
+- [RR 857](stj-rr-857.md) — Cancelado
+- [RR 858](stj-rr-858.md) — Cancelado
+- [RR 859](stj-rr-859.md) — Cancelado
+- [RR 860](stj-rr-860.md) — Cancelado
+- [RR 861](stj-rr-861.md) — Cancelado
+- [RR 862](stj-rr-862.md) — Transitado em julgado
+- [RR 863](stj-rr-863.md) — Cancelado
+- [RR 864](stj-rr-864.md) — Cancelado
+- [RR 865](stj-rr-865.md) — Cancelado
+- [RR 866](stj-rr-866.md) — Cancelado
+- [RR 867](stj-rr-867.md) — Cancelado
+- [RR 868](stj-rr-868.md) — Cancelado
+- [RR 869](stj-rr-869.md) — Transitado em julgado
+- [RR 870](stj-rr-870.md) — Transitado em julgado
+- [RR 871](stj-rr-871.md) — Transitado em julgado
+- [RR 872](stj-rr-872.md) — Transitado em julgado
+- [RR 873](stj-rr-873.md) — Transitado em julgado
+- [RR 874](stj-rr-874.md) — Transitado em julgado
+- [RR 875](stj-rr-875.md) — Transitado em julgado
+- [RR 876](stj-rr-876.md) — Transitado em julgado
+- [RR 877](stj-rr-877.md) — Transitado em julgado
+- [RR 878](stj-rr-878.md) — Transitado em julgado
+- [RR 879](stj-rr-879.md) — Transitado em julgado
+- [RR 880](stj-rr-880.md) — Transitado em julgado
+- [RR 881](stj-rr-881.md) — Transitado em julgado
+- [RR 882](stj-rr-882.md) — Transitado em julgado
+- [RR 883](stj-rr-883.md) — Transitado em julgado
+- [RR 884](stj-rr-884.md) — Cancelado
+- [RR 885](stj-rr-885.md) — Transitado em julgado
+- [RR 886](stj-rr-886.md) — Transitado em julgado
+- [RR 887](stj-rr-887.md) — Transitado em julgado
+- [RR 888](stj-rr-888.md) — Cancelado
+- [RR 889](stj-rr-889.md) — Transitado em julgado
+- [RR 890](stj-rr-890.md) — Transitado em julgado
+- [RR 891](stj-rr-891.md) — Transitado em julgado
+- [RR 892](stj-rr-892.md) — Transitado em julgado
+- [RR 893](stj-rr-893.md) — Transitado em julgado
+- [RR 894](stj-rr-894.md) — Transitado em julgado
+- [RR 895](stj-rr-895.md) — Cancelado
+- [RR 896](stj-rr-896.md) — Revisado
+- [RR 897](stj-rr-897.md) — Cancelado
+- [RR 898](stj-rr-898.md) — Transitado em julgado
+- [RR 899](stj-rr-899.md) — Cancelado
+- [RR 900](stj-rr-900.md) — Cancelado
+- [RR 901](stj-rr-901.md) — Transitado em julgado
+- [RR 902](stj-rr-902.md) — Transitado em julgado
+- [RR 903](stj-rr-903.md) — Transitado em julgado
+- [RR 904](stj-rr-904.md) — Transitado em julgado
+- [RR 905](stj-rr-905.md) — Transitado em julgado
+- [RR 906](stj-rr-906.md) — Cancelado
+- [RR 907](stj-rr-907.md) — Transitado em julgado
+- [RR 908](stj-rr-908.md) — Transitado em julgado
+- [RR 909](stj-rr-909.md) — Cancelado
+- [RR 910](stj-rr-910.md) — Transitado em julgado
+- [RR 911](stj-rr-911.md) — Sobrestado (outro motivo)
+- [RR 912](stj-rr-912.md) — Transitado em julgado
+- [RR 913](stj-rr-913.md) — Transitado em julgado
+- [RR 914](stj-rr-914.md) — Cancelado
+- [RR 915](stj-rr-915.md) — Transitado em julgado
+- [RR 916](stj-rr-916.md) — Transitado em julgado
+- [RR 917](stj-rr-917.md) — Transitado em julgado
+- [RR 918](stj-rr-918.md) — Transitado em julgado
+- [RR 919](stj-rr-919.md) — Transitado em julgado
+- [RR 920](stj-rr-920.md) — Transitado em julgado
+- [RR 921](stj-rr-921.md) — Transitado em julgado
+- [RR 922](stj-rr-922.md) — Transitado em julgado
+- [RR 923](stj-rr-923.md) — Transitado em julgado
+- [RR 924](stj-rr-924.md) — Transitado em julgado
+- [RR 925](stj-rr-925.md) — Cancelado
+- [RR 926](stj-rr-926.md) — Transitado em julgado
+- [RR 927](stj-rr-927.md) — Cancelado
+- [RR 928](stj-rr-928.md) — Transitado em julgado
+- [RR 929](stj-rr-929.md) — Mérito julgado
+- [RR 930](stj-rr-930.md) — Transitado em julgado
+- [RR 931](stj-rr-931.md) — Transitado em julgado
+- [RR 932](stj-rr-932.md) — Transitado em julgado
+- [RR 933](stj-rr-933.md) — Transitado em julgado
+- [RR 934](stj-rr-934.md) — Transitado em julgado
+- [RR 935](stj-rr-935.md) — Cancelado
+- [RR 936](stj-rr-936.md) — Transitado em julgado
+- [RR 937](stj-rr-937.md) — Cancelado
+- [RR 938](stj-rr-938.md) — Transitado em julgado
+- [RR 939](stj-rr-939.md) — Transitado em julgado
+- [RR 940](stj-rr-940.md) — Cancelado
+- [RR 941](stj-rr-941.md) — Transitado em julgado
+- [RR 942](stj-rr-942.md) — Transitado em julgado
+- [RR 943](stj-rr-943.md) — Transitado em julgado
+- [RR 944](stj-rr-944.md) — Transitado em julgado
+- [RR 945](stj-rr-945.md) — Transitado em julgado
+- [RR 946](stj-rr-946.md) — Cancelado
+- [RR 947](stj-rr-947.md) — Cancelado
+- [RR 948](stj-rr-948.md) — Acórdão Publicado (RE Pendente)
+- [RR 949](stj-rr-949.md) — Transitado em julgado
+- [RR 950](stj-rr-950.md) — Transitado em julgado
+- [RR 951](stj-rr-951.md) — Cancelado
+- [RR 952](stj-rr-952.md) — Transitado em julgado
+- [RR 953](stj-rr-953.md) — Transitado em julgado
+- [RR 954](stj-rr-954.md) — Sobrestado (outro motivo)
+- [RR 955](stj-rr-955.md) — Transitado em julgado
+- [RR 956](stj-rr-956.md) — Cancelado
+- [RR 957](stj-rr-957.md) — Transitado em julgado
+- [RR 958](stj-rr-958.md) — Transitado em julgado
+- [RR 959](stj-rr-959.md) — Transitado em julgado
+- [RR 960](stj-rr-960.md) — Transitado em julgado
+- [RR 961](stj-rr-961.md) — Transitado em julgado
+- [RR 962](stj-rr-962.md) — Transitado em julgado
+- [RR 963](stj-rr-963.md) — Transitado em julgado
+- [RR 964](stj-rr-964.md) — Cancelado
+- [RR 965](stj-rr-965.md) — Transitado em julgado
+- [RR 966](stj-rr-966.md) — Transitado em julgado
+- [RR 967](stj-rr-967.md) — Transitado em julgado
+- [RR 968](stj-rr-968.md) — Transitado em julgado
+- [RR 969](stj-rr-969.md) — Transitado em julgado
+- [RR 970](stj-rr-970.md) — Transitado em julgado
+- [RR 971](stj-rr-971.md) — Transitado em julgado
+- [RR 972](stj-rr-972.md) — Transitado em julgado
+- [RR 973](stj-rr-973.md) — Transitado em julgado
+- [RR 974](stj-rr-974.md) — Transitado em julgado
+- [RR 975](stj-rr-975.md) — Transitado em julgado
+- [RR 976](stj-rr-976.md) — Transitado em julgado
+- [RR 977](stj-rr-977.md) — Transitado em julgado
+- [RR 978](stj-rr-978.md) — Afetado
+- [RR 979](stj-rr-979.md) — Transitado em julgado
+- [RR 980](stj-rr-980.md) — Transitado em julgado
+- [RR 981](stj-rr-981.md) — Transitado em julgado
+- [RR 982](stj-rr-982.md) — Transitado em julgado
+- [RR 983](stj-rr-983.md) — Transitado em julgado
+- [RR 984](stj-rr-984.md) — Transitado em julgado
+- [RR 985](stj-rr-985.md) — Transitado em julgado
+- [RR 986](stj-rr-986.md) — Transitado em julgado
+- [RR 987](stj-rr-987.md) — Cancelado
+- [RR 988](stj-rr-988.md) — Transitado em julgado
+- [RR 989](stj-rr-989.md) — Transitado em julgado
+- [RR 990](stj-rr-990.md) — Transitado em julgado
+- [RR 991](stj-rr-991.md) — Cancelado
+- [RR 992](stj-rr-992.md) — Transitado em julgado
+- [RR 993](stj-rr-993.md) — Transitado em julgado
+- [RR 994](stj-rr-994.md) — Transitado em julgado
+- [RR 995](stj-rr-995.md) — Transitado em julgado
+- [RR 996](stj-rr-996.md) — Transitado em julgado
+- [RR 997](stj-rr-997.md) — Transitado em julgado
+- [RR 998](stj-rr-998.md) — Transitado em julgado
+- [RR 999](stj-rr-999.md) — Acórdão Publicado (RE Pendente)
+- [RR 1000](stj-rr-1000.md) — Transitado em julgado
+- [RR 1001](stj-rr-1001.md) — Transitado em julgado
+- [RR 1002](stj-rr-1002.md) — Transitado em julgado
+- [RR 1003](stj-rr-1003.md) — Transitado em julgado
+- [RR 1004](stj-rr-1004.md) — Transitado em julgado
+- [RR 1005](stj-rr-1005.md) — Transitado em julgado
+- [RR 1006](stj-rr-1006.md) — Transitado em julgado
+- [RR 1007](stj-rr-1007.md) — Transitado em julgado
+- [RR 1008](stj-rr-1008.md) — Transitado em julgado
+- [RR 1009](stj-rr-1009.md) — Transitado em julgado
+- [RR 1010](stj-rr-1010.md) — Transitado em julgado
+- [RR 1011](stj-rr-1011.md) — Transitado em julgado
+- [RR 1012](stj-rr-1012.md) — Transitado em julgado
+- [RR 1013](stj-rr-1013.md) — Transitado em julgado
+- [RR 1014](stj-rr-1014.md) — Acórdão Publicado
+- [RR 1015](stj-rr-1015.md) — Acórdão Publicado
+- [RR 1016](stj-rr-1016.md) — Acórdão Publicado (RE Pendente)
+- [RR 1017](stj-rr-1017.md) — Transitado em julgado
+- [RR 1018](stj-rr-1018.md) — Transitado em julgado
+- [RR 1019](stj-rr-1019.md) — Transitado em julgado
+- [RR 1020](stj-rr-1020.md) — Transitado em julgado
+- [RR 1021](stj-rr-1021.md) — Transitado em julgado
+- [RR 1022](stj-rr-1022.md) — Transitado em julgado
+- [RR 1023](stj-rr-1023.md) — Transitado em julgado
+- [RR 1024](stj-rr-1024.md) — Transitado em julgado
+- [RR 1025](stj-rr-1025.md) — Transitado em julgado
+- [RR 1026](stj-rr-1026.md) — Transitado em julgado
+- [RR 1027](stj-rr-1027.md) — Cancelado
+- [RR 1028](stj-rr-1028.md) — Transitado em julgado
+- [RR 1029](stj-rr-1029.md) — Transitado em julgado
+- [RR 1030](stj-rr-1030.md) — Transitado em julgado
+- [RR 1031](stj-rr-1031.md) — Sobrestado (outro motivo)
+- [RR 1032](stj-rr-1032.md) — Transitado em julgado
+- [RR 1033](stj-rr-1033.md) — Sobrestado (outro motivo)
+- [RR 1034](stj-rr-1034.md) — Transitado em julgado
+- [RR 1035](stj-rr-1035.md) — Transitado em julgado
+- [RR 1036](stj-rr-1036.md) — Transitado em julgado
+- [RR 1037](stj-rr-1037.md) — Transitado em julgado
+- [RR 1038](stj-rr-1038.md) — Transitado em julgado
+- [RR 1039](stj-rr-1039.md) — Em julgamento
+- [RR 1040](stj-rr-1040.md) — Transitado em julgado
+- [RR 1041](stj-rr-1041.md) — Cancelado
+- [RR 1042](stj-rr-1042.md) — Cancelado
+- [RR 1043](stj-rr-1043.md) — Transitado em julgado
+- [RR 1044](stj-rr-1044.md) — Transitado em julgado
+- [RR 1045](stj-rr-1045.md) — Cancelado
+- [RR 1046](stj-rr-1046.md) — Cancelado
+- [RR 1047](stj-rr-1047.md) — Transitado em julgado
+- [RR 1048](stj-rr-1048.md) — Transitado em julgado
+- [RR 1049](stj-rr-1049.md) — Transitado em julgado
+- [RR 1050](stj-rr-1050.md) — Transitado em julgado
+- [RR 1051](stj-rr-1051.md) — Transitado em julgado
+- [RR 1052](stj-rr-1052.md) — Transitado em julgado
+- [RR 1053](stj-rr-1053.md) — Transitado em julgado
+- [RR 1054](stj-rr-1054.md) — Transitado em julgado
+- [RR 1055](stj-rr-1055.md) — Cancelado
+- [RR 1056](stj-rr-1056.md) — Transitado em julgado
+- [RR 1057](stj-rr-1057.md) — Transitado em julgado
+- [RR 1058](stj-rr-1058.md) — Transitado em julgado
+- [RR 1059](stj-rr-1059.md) — Transitado em julgado
+- [RR 1060](stj-rr-1060.md) — Acórdão Publicado (RE Pendente)
+- [RR 1061](stj-rr-1061.md) — Transitado em julgado
+- [RR 1062](stj-rr-1062.md) — Cancelado
+- [RR 1063](stj-rr-1063.md) — Cancelado
+- [RR 1064](stj-rr-1064.md) — Transitado em julgado
+- [RR 1065](stj-rr-1065.md) — Acórdão Publicado (RE Pendente)
+- [RR 1066](stj-rr-1066.md) — Transitado em julgado
+- [RR 1067](stj-rr-1067.md) — Transitado em julgado
+- [RR 1068](stj-rr-1068.md) — Transitado em julgado
+- [RR 1069](stj-rr-1069.md) — Transitado em julgado
+- [RR 1070](stj-rr-1070.md) — Transitado em julgado
+- [RR 1071](stj-rr-1071.md) — Transitado em julgado
+- [RR 1072](stj-rr-1072.md) — Transitado em julgado
+- [RR 1073](stj-rr-1073.md) — Transitado em julgado
+- [RR 1074](stj-rr-1074.md) — Transitado em julgado
+- [RR 1075](stj-rr-1075.md) — Transitado em julgado
+- [RR 1076](stj-rr-1076.md) — Acórdão Publicado (RE Pendente)
+- [RR 1077](stj-rr-1077.md) — Transitado em julgado
+- [RR 1078](stj-rr-1078.md) — Transitado em julgado
+- [RR 1079](stj-rr-1079.md) — Acórdão Publicado
+- [RR 1080](stj-rr-1080.md) — Afetado - possível revisão de tese
+- [RR 1081](stj-rr-1081.md) — Transitado em julgado
+- [RR 1082](stj-rr-1082.md) — Transitado em julgado
+- [RR 1083](stj-rr-1083.md) — Transitado em julgado
+- [RR 1084](stj-rr-1084.md) — Transitado em julgado
+- [RR 1085](stj-rr-1085.md) — Transitado em julgado
+- [RR 1086](stj-rr-1086.md) — Transitado em julgado
+- [RR 1087](stj-rr-1087.md) — Acórdão Publicado (RE Pendente)
+- [RR 1088](stj-rr-1088.md) — Sobrestado (outro motivo)
+- [RR 1089](stj-rr-1089.md) — Transitado em julgado
+- [RR 1090](stj-rr-1090.md) — Transitado em julgado
+- [RR 1091](stj-rr-1091.md) — Transitado em julgado
+- [RR 1092](stj-rr-1092.md) — Transitado em julgado
+- [RR 1093](stj-rr-1093.md) — Transitado em julgado
+- [RR 1094](stj-rr-1094.md) — Transitado em julgado
+- [RR 1095](stj-rr-1095.md) — Transitado em julgado
+- [RR 1096](stj-rr-1096.md) — Cancelado
+- [RR 1097](stj-rr-1097.md) — Transitado em julgado
+- [RR 1098](stj-rr-1098.md) — Transitado em julgado
+- [RR 1099](stj-rr-1099.md) — Acórdão Publicado
+- [RR 1100](stj-rr-1100.md) — Transitado em julgado
+- [RR 1101](stj-rr-1101.md) — Transitado em julgado
+- [RR 1102](stj-rr-1102.md) — Acórdão Publicado (RE Pendente)
+- [RR 1103](stj-rr-1103.md) — Transitado em julgado
+- [RR 1104](stj-rr-1104.md) — Transitado em julgado
+- [RR 1105](stj-rr-1105.md) — Transitado em julgado
+- [RR 1106](stj-rr-1106.md) — Transitado em julgado
+- [RR 1107](stj-rr-1107.md) — Em julgamento
+- [RR 1108](stj-rr-1108.md) — Transitado em julgado
+- [RR 1109](stj-rr-1109.md) — Transitado em julgado
+- [RR 1110](stj-rr-1110.md) — Transitado em julgado
+- [RR 1111](stj-rr-1111.md) — Transitado em julgado
+- [RR 1112](stj-rr-1112.md) — Transitado em julgado
+- [RR 1113](stj-rr-1113.md) — Acórdão Publicado (RE Pendente)
+- [RR 1114](stj-rr-1114.md) — Transitado em julgado
+- [RR 1115](stj-rr-1115.md) — Transitado em julgado
+- [RR 1116](stj-rr-1116.md) — Afetado
+- [RR 1117](stj-rr-1117.md) — Transitado em julgado
+- [RR 1118](stj-rr-1118.md) — Transitado em julgado
+- [RR 1119](stj-rr-1119.md) — Acórdão Publicado
+- [RR 1120](stj-rr-1120.md) — Transitado em julgado
+- [RR 1121](stj-rr-1121.md) — Transitado em julgado
+- [RR 1122](stj-rr-1122.md) — Transitado em julgado
+- [RR 1123](stj-rr-1123.md) — Transitado em julgado
+- [RR 1124](stj-rr-1124.md) — Acórdão Publicado
+- [RR 1125](stj-rr-1125.md) — Transitado em julgado
+- [RR 1126](stj-rr-1126.md) — Afetado
+- [RR 1127](stj-rr-1127.md) — Transitado em julgado
+- [RR 1128](stj-rr-1128.md) — Acórdão Publicado (RE Pendente)
+- [RR 1129](stj-rr-1129.md) — Acórdão Publicado (RE Pendente)
+- [RR 1130](stj-rr-1130.md) — Transitado em julgado
+- [RR 1131](stj-rr-1131.md) — Transitado em julgado
+- [RR 1132](stj-rr-1132.md) — Transitado em julgado
+- [RR 1133](stj-rr-1133.md) — Transitado em julgado
+- [RR 1134](stj-rr-1134.md) — Transitado em julgado
+- [RR 1135](stj-rr-1135.md) — Transitado em julgado
+- [RR 1136](stj-rr-1136.md) — Transitado em julgado
+- [RR 1137](stj-rr-1137.md) — Transitado em julgado
+- [RR 1138](stj-rr-1138.md) — Sem processo vinculado
+- [RR 1139](stj-rr-1139.md) — Transitado em julgado
+- [RR 1140](stj-rr-1140.md) — Acórdão Publicado (RE Pendente)
+- [RR 1141](stj-rr-1141.md) — Transitado em julgado
+- [RR 1142](stj-rr-1142.md) — Transitado em julgado
+- [RR 1143](stj-rr-1143.md) — Transitado em julgado
+- [RR 1144](stj-rr-1144.md) — Transitado em julgado
+- [RR 1145](stj-rr-1145.md) — Transitado em julgado
+- [RR 1146](stj-rr-1146.md) — Afetado
+- [RR 1147](stj-rr-1147.md) — Transitado em julgado
+- [RR 1148](stj-rr-1148.md) — Acórdão Publicado (RE Pendente)
+- [RR 1149](stj-rr-1149.md) — Transitado em julgado
+- [RR 1150](stj-rr-1150.md) — Transitado em julgado
+- [RR 1151](stj-rr-1151.md) — Cancelado
+- [RR 1152](stj-rr-1152.md) — Afetado
+- [RR 1153](stj-rr-1153.md) — Acórdão Publicado (RE Pendente)
+- [RR 1154](stj-rr-1154.md) — Mérito julgado
+- [RR 1155](stj-rr-1155.md) — Transitado em julgado
+- [RR 1156](stj-rr-1156.md) — Transitado em julgado
+- [RR 1157](stj-rr-1157.md) — Acórdão Publicado
+- [RR 1158](stj-rr-1158.md) — Acórdão Publicado
+- [RR 1159](stj-rr-1159.md) — Transitado em julgado
+- [RR 1160](stj-rr-1160.md) — Transitado em julgado
+- [RR 1161](stj-rr-1161.md) — Transitado em julgado
+- [RR 1162](stj-rr-1162.md) — Acórdão Publicado (RE Pendente)
+- [RR 1163](stj-rr-1163.md) — Afetado
+- [RR 1164](stj-rr-1164.md) — Transitado em julgado
+- [RR 1165](stj-rr-1165.md) — Acórdão Publicado
+- [RR 1166](stj-rr-1166.md) — Transitado em julgado
+- [RR 1167](stj-rr-1167.md) — Transitado em julgado
+- [RR 1168](stj-rr-1168.md) — Transitado em julgado
+- [RR 1169](stj-rr-1169.md) — Transitado em julgado
+- [RR 1170](stj-rr-1170.md) — Acórdão Publicado (RE Pendente)
+- [RR 1171](stj-rr-1171.md) — Transitado em julgado
+- [RR 1172](stj-rr-1172.md) — Transitado em julgado
+- [RR 1173](stj-rr-1173.md) — Transitado em julgado
+- [RR 1174](stj-rr-1174.md) — Transitado em julgado
+- [RR 1175](stj-rr-1175.md) — Transitado em julgado
+- [RR 1176](stj-rr-1176.md) — Transitado em julgado
+- [RR 1177](stj-rr-1177.md) — Acórdão Publicado
+- [RR 1178](stj-rr-1178.md) — Transitado em julgado
+- [RR 1179](stj-rr-1179.md) — Transitado em julgado
+- [RR 1180](stj-rr-1180.md) — Em julgamento
+- [RR 1181](stj-rr-1181.md) — Afetado
+- [RR 1182](stj-rr-1182.md) — Transitado em julgado
+- [RR 1183](stj-rr-1183.md) — Em julgamento
+- [RR 1184](stj-rr-1184.md) — Transitado em julgado
+- [RR 1185](stj-rr-1185.md) — Afetado
+- [RR 1186](stj-rr-1186.md) — Transitado em julgado
+- [RR 1187](stj-rr-1187.md) — Transitado em julgado
+- [RR 1188](stj-rr-1188.md) — Transitado em julgado
+- [RR 1189](stj-rr-1189.md) — Transitado em julgado
+- [RR 1190](stj-rr-1190.md) — Transitado em julgado
+- [RR 1191](stj-rr-1191.md) — Transitado em julgado
+- [RR 1192](stj-rr-1192.md) — Transitado em julgado
+- [RR 1193](stj-rr-1193.md) — Transitado em julgado
+- [RR 1194](stj-rr-1194.md) — Transitado em julgado
+- [RR 1195](stj-rr-1195.md) — Acórdão Publicado
+- [RR 1196](stj-rr-1196.md) — Sobrestado (outro motivo)
+- [RR 1197](stj-rr-1197.md) — Transitado em julgado
+- [RR 1198](stj-rr-1198.md) — Transitado em julgado
+- [RR 1199](stj-rr-1199.md) — Transitado em julgado
+- [RR 1200](stj-rr-1200.md) — Acórdão Publicado (RE Pendente)
+- [RR 1201](stj-rr-1201.md) — Acórdão Publicado
+- [RR 1202](stj-rr-1202.md) — Transitado em julgado
+- [RR 1203](stj-rr-1203.md) — Transitado em julgado
+- [RR 1204](stj-rr-1204.md) — Transitado em julgado
+- [RR 1205](stj-rr-1205.md) — Transitado em julgado
+- [RR 1206](stj-rr-1206.md) — Transitado em julgado
+- [RR 1207](stj-rr-1207.md) — Transitado em julgado
+- [RR 1208](stj-rr-1208.md) — Transitado em julgado
+- [RR 1209](stj-rr-1209.md) — Afetado
+- [RR 1210](stj-rr-1210.md) — Transitado em julgado
+- [RR 1211](stj-rr-1211.md) — Mérito julgado
+- [RR 1212](stj-rr-1212.md) — Acórdão Publicado
+- [RR 1213](stj-rr-1213.md) — Transitado em julgado
+- [RR 1214](stj-rr-1214.md) — Transitado em julgado
+- [RR 1215](stj-rr-1215.md) — Transitado em julgado
+- [RR 1216](stj-rr-1216.md) — Cancelado
+- [RR 1217](stj-rr-1217.md) — Transitado em julgado
+- [RR 1218](stj-rr-1218.md) — Transitado em julgado
+- [RR 1219](stj-rr-1219.md) — Transitado em julgado
+- [RR 1220](stj-rr-1220.md) — Afetado
+- [RR 1221](stj-rr-1221.md) — Transitado em julgado
+- [RR 1222](stj-rr-1222.md) — Cancelado
+- [RR 1223](stj-rr-1223.md) — Transitado em julgado
+- [RR 1224](stj-rr-1224.md) — Transitado em julgado
+- [RR 1225](stj-rr-1225.md) — Acórdão Publicado
+- [RR 1226](stj-rr-1226.md) — Transitado em julgado
+- [RR 1227](stj-rr-1227.md) — Cancelado
+- [RR 1228](stj-rr-1228.md) — Acórdão Publicado
+- [RR 1229](stj-rr-1229.md) — Transitado em julgado
+- [RR 1230](stj-rr-1230.md) — Acórdão Publicado
+- [RR 1231](stj-rr-1231.md) — Acórdão Publicado
+- [RR 1232](stj-rr-1232.md) — Transitado em julgado
+- [RR 1233](stj-rr-1233.md) — Transitado em julgado
+- [RR 1234](stj-rr-1234.md) — Transitado em julgado
+- [RR 1235](stj-rr-1235.md) — Transitado em julgado
+- [RR 1236](stj-rr-1236.md) — Acórdão Publicado
+- [RR 1237](stj-rr-1237.md) — Acórdão Publicado
+- [RR 1238](stj-rr-1238.md) — Transitado em julgado
+- [RR 1239](stj-rr-1239.md) — Transitado em julgado
+- [RR 1240](stj-rr-1240.md) — Transitado em julgado
+- [RR 1241](stj-rr-1241.md) — Mérito julgado
+- [RR 1242](stj-rr-1242.md) — Afetado
+- [RR 1243](stj-rr-1243.md) — Afetado
+- [RR 1244](stj-rr-1244.md) — Afetado
+- [RR 1245](stj-rr-1245.md) — Acórdão Publicado (RE Pendente)
+- [RR 1246](stj-rr-1246.md) — Transitado em julgado
+- [RR 1247](stj-rr-1247.md) — Transitado em julgado
+- [RR 1248](stj-rr-1248.md) — Transitado em julgado
+- [RR 1249](stj-rr-1249.md) — Transitado em julgado
+- [RR 1250](stj-rr-1250.md) — Acórdão Publicado
+- [RR 1251](stj-rr-1251.md) — Acórdão Publicado
+- [RR 1252](stj-rr-1252.md) — Transitado em julgado
+- [RR 1253](stj-rr-1253.md) — Transitado em julgado
+- [RR 1254](stj-rr-1254.md) — Afetado
+- [RR 1255](stj-rr-1255.md) — Transitado em julgado
+- [RR 1256](stj-rr-1256.md) — Afetado
+- [RR 1257](stj-rr-1257.md) — Acórdão Publicado (RE Pendente)
+- [RR 1258](stj-rr-1258.md) — Transitado em julgado
+- [RR 1259](stj-rr-1259.md) — Transitado em julgado
+- [RR 1260](stj-rr-1260.md) — Acórdão Publicado
+- [RR 1261](stj-rr-1261.md) — Acórdão Publicado
+- [RR 1262](stj-rr-1262.md) — Acórdão Publicado (RE Pendente)
+- [RR 1263](stj-rr-1263.md) — Afetado
+- [RR 1264](stj-rr-1264.md) — Em julgamento
+- [RR 1265](stj-rr-1265.md) — Transitado em julgado
+- [RR 1266](stj-rr-1266.md) — Afetado
+- [RR 1267](stj-rr-1267.md) — Transitado em julgado
+- [RR 1268](stj-rr-1268.md) — Transitado em julgado
+- [RR 1269](stj-rr-1269.md) — Transitado em julgado
+- [RR 1270](stj-rr-1270.md) — Afetado
+- [RR 1271](stj-rr-1271.md) — Em julgamento
+- [RR 1272](stj-rr-1272.md) — Transitado em julgado
+- [RR 1273](stj-rr-1273.md) — Acórdão Publicado (RE Pendente)
+- [RR 1274](stj-rr-1274.md) — Transitado em julgado
+- [RR 1275](stj-rr-1275.md) — Afetado
+- [RR 1276](stj-rr-1276.md) — Acórdão Publicado
+- [RR 1277](stj-rr-1277.md) — Transitado em julgado
+- [RR 1278](stj-rr-1278.md) — Transitado em julgado
+- [RR 1279](stj-rr-1279.md) — Acórdão Publicado
+- [RR 1280](stj-rr-1280.md) — Acórdão Publicado
+- [RR 1281](stj-rr-1281.md) — Acórdão Publicado
+- [RR 1282](stj-rr-1282.md) — Transitado em julgado
+- [RR 1283](stj-rr-1283.md) — Transitado em julgado
+- [RR 1284](stj-rr-1284.md) — Transitado em julgado
+- [RR 1285](stj-rr-1285.md) — Em julgamento
+- [RR 1286](stj-rr-1286.md) — Transitado em julgado
+- [RR 1287](stj-rr-1287.md) — Afetado
+- [RR 1288](stj-rr-1288.md) — Transitado em julgado
+- [RR 1289](stj-rr-1289.md) — Afetado
+- [RR 1290](stj-rr-1290.md) — Transitado em julgado
+- [RR 1291](stj-rr-1291.md) — Acórdão Publicado (RE Pendente)
+- [RR 1292](stj-rr-1292.md) — Transitado em julgado
+- [RR 1293](stj-rr-1293.md) — Transitado em julgado
+- [RR 1294](stj-rr-1294.md) — Acórdão Publicado (RE Pendente)
+- [RR 1295](stj-rr-1295.md) — Acórdão Publicado
+- [RR 1296](stj-rr-1296.md) — Transitado em julgado
+- [RR 1297](stj-rr-1297.md) — Acórdão Publicado
+- [RR 1298](stj-rr-1298.md) — Transitado em julgado
+- [RR 1299](stj-rr-1299.md) — Acórdão Publicado
+- [RR 1300](stj-rr-1300.md) — Transitado em julgado
+- [RR 1301](stj-rr-1301.md) — Afetado
+- [RR 1302](stj-rr-1302.md) — Em julgamento
+- [RR 1303](stj-rr-1303.md) — Transitado em julgado
+- [RR 1304](stj-rr-1304.md) — Acórdão Publicado (RE Pendente)
+- [RR 1305](stj-rr-1305.md) — Afetado
+- [RR 1306](stj-rr-1306.md) — Transitado em julgado
+- [RR 1307](stj-rr-1307.md) — Acórdão Publicado
+- [RR 1308](stj-rr-1308.md) — Acórdão Publicado (RE Pendente)
+- [RR 1309](stj-rr-1309.md) — Acórdão Publicado (RE Pendente)
+- [RR 1310](stj-rr-1310.md) — Afetado
+- [RR 1311](stj-rr-1311.md) — Transitado em julgado
+- [RR 1312](stj-rr-1312.md) — Acórdão Publicado (RE Pendente)
+- [RR 1313](stj-rr-1313.md) — Acórdão Publicado (RE Pendente)
+- [RR 1314](stj-rr-1314.md) — Afetado
+- [RR 1315](stj-rr-1315.md) — Transitado em julgado
+- [RR 1316](stj-rr-1316.md) — Acórdão Publicado
+- [RR 1317](stj-rr-1317.md) — Acórdão Publicado (RE Pendente)
+- [RR 1318](stj-rr-1318.md) — Transitado em julgado
+- [RR 1319](stj-rr-1319.md) — Transitado em julgado
+- [RR 1320](stj-rr-1320.md) — Sem processo vinculado
+- [RR 1321](stj-rr-1321.md) — Afetado
+- [RR 1322](stj-rr-1322.md) — Afetado
+- [RR 1323](stj-rr-1323.md) — Transitado em julgado
+- [RR 1324](stj-rr-1324.md) — Acórdão Publicado
+- [RR 1325](stj-rr-1325.md) — Transitado em julgado
+- [RR 1326](stj-rr-1326.md) — Transitado em julgado
+- [RR 1327](stj-rr-1327.md) — Acórdão Publicado
+- [RR 1328](stj-rr-1328.md) — Cancelado
+- [RR 1329](stj-rr-1329.md) — Acórdão Publicado
+- [RR 1330](stj-rr-1330.md) — Afetado
+- [RR 1331](stj-rr-1331.md) — Afetado
+- [RR 1332](stj-rr-1332.md) — Afetado
+- [RR 1333](stj-rr-1333.md) — Transitado em julgado
+- [RR 1334](stj-rr-1334.md) — Afetado
+- [RR 1335](stj-rr-1335.md) — Afetado
+- [RR 1336](stj-rr-1336.md) — Transitado em julgado
+- [RR 1337](stj-rr-1337.md) — Em julgamento
+- [RR 1338](stj-rr-1338.md) — Transitado em julgado
+- [RR 1339](stj-rr-1339.md) — Acórdão Publicado
+- [RR 1340](stj-rr-1340.md) — Afetado
+- [RR 1341](stj-rr-1341.md) — Em julgamento
+- [RR 1342](stj-rr-1342.md) — Transitado em julgado
+- [RR 1343](stj-rr-1343.md) — Afetado
+- [RR 1344](stj-rr-1344.md) — Afetado
+- [RR 1345](stj-rr-1345.md) — Afetado
+- [RR 1346](stj-rr-1346.md) — Transitado em julgado
+- [RR 1347](stj-rr-1347.md) — Transitado em julgado
+- [RR 1348](stj-rr-1348.md) — Afetado
+- [RR 1349](stj-rr-1349.md) — Afetado
+- [RR 1350](stj-rr-1350.md) — Transitado em julgado
+- [RR 1351](stj-rr-1351.md) — Afetado
+- [RR 1352](stj-rr-1352.md) — Afetado
+- [RR 1353](stj-rr-1353.md) — Acórdão Publicado (RE Pendente)
+- [RR 1354](stj-rr-1354.md) — Transitado em julgado
+- [RR 1355](stj-rr-1355.md) — Transitado em julgado
+- [RR 1356](stj-rr-1356.md) — Cancelado
+- [RR 1357](stj-rr-1357.md) — Acórdão Publicado
+- [RR 1358](stj-rr-1358.md) — Afetado
+- [RR 1359](stj-rr-1359.md) — Afetado
+- [RR 1360](stj-rr-1360.md) — Transitado em julgado
+- [RR 1361](stj-rr-1361.md) — Sem processo vinculado
+- [RR 1362](stj-rr-1362.md) — Afetado
+- [RR 1363](stj-rr-1363.md) — Afetado
+- [RR 1364](stj-rr-1364.md) — Acórdão Publicado
+- [RR 1365](stj-rr-1365.md) — Transitado em julgado
+- [RR 1366](stj-rr-1366.md) — Afetado
+- [RR 1367](stj-rr-1367.md) — Transitado em julgado
+- [RR 1368](stj-rr-1368.md) — Transitado em julgado
+- [RR 1369](stj-rr-1369.md) — Acórdão Publicado
+- [RR 1370](stj-rr-1370.md) — Em julgamento
+- [RR 1371](stj-rr-1371.md) — Transitado em julgado
+- [RR 1372](stj-rr-1372.md) — Acórdão Publicado
+- [RR 1373](stj-rr-1373.md) — Acórdão Publicado
+- [RR 1374](stj-rr-1374.md) — Acórdão Publicado
+- [RR 1375](stj-rr-1375.md) — Afetado
+- [RR 1376](stj-rr-1376.md) — Cancelado
+- [RR 1377](stj-rr-1377.md) — Transitado em julgado
+- [RR 1378](stj-rr-1378.md) — Afetado
+- [RR 1379](stj-rr-1379.md) — Mérito julgado
+- [RR 1380](stj-rr-1380.md) — Acórdão Publicado (RE Pendente)
+- [RR 1381](stj-rr-1381.md) — Afetado
+- [RR 1382](stj-rr-1382.md) — Afetado
+- [RR 1383](stj-rr-1383.md) — Transitado em julgado
+- [RR 1384](stj-rr-1384.md) — Acórdão Publicado
+- [RR 1385](stj-rr-1385.md) — Transitado em julgado
+- [RR 1386](stj-rr-1386.md) — Mérito julgado
+- [RR 1387](stj-rr-1387.md) — Transitado em julgado
+- [RR 1388](stj-rr-1388.md) — Afetado
+- [RR 1389](stj-rr-1389.md) — Em julgamento
+- [RR 1390](stj-rr-1390.md) — Acórdão Publicado (RE Pendente)
+- [RR 1391](stj-rr-1391.md) — Acórdão Publicado
+- [RR 1392](stj-rr-1392.md) — Afetado
+- [RR 1393](stj-rr-1393.md) — Acórdão Publicado
+- [RR 1394](stj-rr-1394.md) — Transitado em julgado
+- [RR 1395](stj-rr-1395.md) — Afetado
+- [RR 1396](stj-rr-1396.md) — Afetado
+- [RR 1397](stj-rr-1397.md) — Em julgamento
+- [RR 1398](stj-rr-1398.md) — Afetado
+- [RR 1399](stj-rr-1399.md) — Acórdão Publicado
+- [RR 1400](stj-rr-1400.md) — Afetado
+- [RR 1401](stj-rr-1401.md) — Acórdão Publicado (RE Pendente)
+- [RR 1402](stj-rr-1402.md) — Acórdão Publicado (RE Pendente)
+- [RR 1403](stj-rr-1403.md) — Em julgamento
+- [RR 1404](stj-rr-1404.md) — Afetado
+- [RR 1405](stj-rr-1405.md) — Transitado em julgado
+- [RR 1406](stj-rr-1406.md) — Acórdão Publicado
+- [RR 1407](stj-rr-1407.md) — Afetado
+- [RR 1408](stj-rr-1408.md) — Acórdão Publicado (RE Pendente)
+- [RR 1409](stj-rr-1409.md) — Afetado
+- [RR 1410](stj-rr-1410.md) — Transitado em julgado
+- [RR 1411](stj-rr-1411.md) — Afetado
+- [RR 1412](stj-rr-1412.md) — Afetado
+- [RR 1413](stj-rr-1413.md) — Transitado em julgado
+- [RR 1414](stj-rr-1414.md) — Afetado
+- [RR 1415](stj-rr-1415.md) — Afetado
+- [RR 1416](stj-rr-1416.md) — Afetado
+- [RR 1417](stj-rr-1417.md) — Afetado
+- [RR 1418](stj-rr-1418.md) — Afetado
+- [RR 1419](stj-rr-1419.md) — Acórdão Publicado
+- [RR 1420](stj-rr-1420.md) — Afetado
+- [RR 1421](stj-rr-1421.md) — Transitado em julgado
+- [RR 1422](stj-rr-1422.md) — Em julgamento
+- [RR 1423](stj-rr-1423.md) — Afetado
+- [RR 1424](stj-rr-1424.md) — Transitado em julgado
+- [RR 1425](stj-rr-1425.md) — Afetado
+- [RR 1426](stj-rr-1426.md) — Afetado
+- [RR 1427](stj-rr-1427.md) — Afetado
+- [RR 1428](stj-rr-1428.md) — Afetado
+- [RR 1429](stj-rr-1429.md) — Acórdão Publicado
+- [RR 1430](stj-rr-1430.md) — Afetado
+- [RR 1431](stj-rr-1431.md) — Afetado
+- [RR 1432](stj-rr-1432.md) — Mérito julgado
+- [RR 1433](stj-rr-1433.md) — Em julgamento
+- [RR 1434](stj-rr-1434.md) — Afetado
+- [RR 1435](stj-rr-1435.md) — Afetado
+- [RR 1436](stj-rr-1436.md) — Afetado
+- [RR 1437](stj-rr-1437.md) — Afetado
+- [RR 1438](stj-rr-1438.md) — Afetado
+- [RR 1439](stj-rr-1439.md) — Afetado
+- [RR 1440](stj-rr-1440.md) — Afetado
+- [RR 1441](stj-rr-1441.md) — Afetado
+- [RR 1442](stj-rr-1442.md) — Afetado
+- [RR 1443](stj-rr-1443.md) — Afetado
+- [RR 1444](stj-rr-1444.md) — Afetado
+- [RR 1446](stj-rr-1446.md) — Afetado
+- [RR 1447](stj-rr-1447.md) — Afetado
+- [RR 1448](stj-rr-1448.md) — Afetado
+- [RR 1449](stj-rr-1449.md) — Afetado
+- [RR 1450](stj-rr-1450.md) — Afetado
+- [RR 1451](stj-rr-1451.md) — Afetado
+- [RR 1452](stj-rr-1452.md) — Afetado
+- [RR 1453](stj-rr-1453.md) — Afetado
+- [RR 1454](stj-rr-1454.md) — Em julgamento
+- [RR 1455](stj-rr-1455.md) — Acórdão Publicado (RE Pendente)
+- [RR 1456](stj-rr-1456.md) — Afetado
+- [RR 1457](stj-rr-1457.md) — Afetado
+- [RR 1458](stj-rr-1458.md) — Afetado
+- [RR 1459](stj-rr-1459.md) — Afetado
+- [RR 1460](stj-rr-1460.md) — Afetado
+- [RR 1461](stj-rr-1461.md) — Afetado
+- [RR 1462](stj-rr-1462.md) — Afetado
+- [RR 1463](stj-rr-1463.md) — Afetado
+- [RR 1464](stj-rr-1464.md) — Afetado
+- [RR 1465](stj-rr-1465.md) — Afetado
+- [RR 1466](stj-rr-1466.md) — Afetado
+- [RR 1467](stj-rr-1467.md) — Afetado
+- [RR 1468](stj-rr-1468.md) — Afetado
+- [RR 1469](stj-rr-1469.md) — Afetado
+- [RR 1470](stj-rr-1470.md) — Afetado
+- [RR 1471](stj-rr-1471.md) — Afetado
+- [RR 1472](stj-rr-1472.md) — Afetado
+- [RR 1473](stj-rr-1473.md) — Afetado
+- [RR 1474](stj-rr-1474.md) — Afetado
+- [RR 1475](stj-rr-1475.md) — Afetado
+- [RR 1476](stj-rr-1476.md) — Afetado
+- [RR 1477](stj-rr-1477.md) — Afetado
+- [RR 1478](stj-rr-1478.md) — Afetado

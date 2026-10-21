@@ -1,0 +1,25 @@
+# STF · ADI 3608
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 3608
+- **Identificador na fonte:** `stf-adi-3608`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 12/08/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3608)
+
+## Ementa
+
+EMENTA CONSTITUCIONAL E ADMINISTRATIVO. LEIS ESTADUAIS. EXAURIMENTO DA EFICÁCIA. PREJUÍZO PARCIAL. SERVIÇO AUXILIAR VOLUNTÁRIO NO ÂMBITO DA POLÍCIA MILITAR E DO CORPO DE BOMBEIROS MILITAR. COMPETÊNCIA RESERVADA DA UNIÃO PARA ESTABELECER NORMAS GERAIS. ATRIBUIÇÃO DOS ESTADOS E DO DISTRITO FEDERAL PARA ORGANIZAR AS CORPORAÇÕES. REGIME JURÍDICO DIVERSO DAQUELE ESTABELECIDO PELA UNIÃO NA LEI N. 10.029/2000. GUARDA DE PRÓPRIOS ESTADUAIS E POLICIAMENTO. INCONSTITUCIONALIDADE. FIXAÇÃO DE IDADE MÁXIMA DE 27 ANOS PARA INGRESSO NO SERVIÇO VOLUNTÁRIO. AUSÊNCIA DE RAZOABILIDADE. PRORROGAÇÃO DO PERÍODO DE SERVIÇO POR DUAS VEZES. EXTRAPOLAÇÃO DA COMPETÊNCIA SUPLEMENTAR. 1. De acordo com a jurisprudência do Supremo, o esgotamento da eficácia da norma implica prejuízo do pedido. 2. Compete privativamente à União legislar sobre normas gerais de organização, efetivos e convocação das polícias militares e dos corpos de bombeiros militares (CF, art. 22, XXI). Essa previsão não exclui aquela do art. 144, § 6º, segundo a qual as polícias militares e os corpos de bombeiros militares são forças auxiliares e reserva do Exército, subordinando-se aos Governadores dos Estados, do Distrito Federal e dos Territórios. 3. Cabe aos Estados e ao Distrito Federal organizar as polícias militares e os corpos de bombeiros militares em consonância com as diretrizes e os princípios estabelecidos pela União na Lei federal n. 10.029/2000, bem como editar normas suplementares, atendendo às peculiaridades regionais. Precedentes. 4. A existência de modelos distintos de organização em cada Estado, em contrariedade ou extrapolação às diretrizes e princípios instituídos pela União, ensejam insegurança jurídica em tema sensível – segurança pública –, prejudicando a efetividade da prestação do serviço público. 5. As atividades desempenhadas pelo serviço voluntário no âmbito da polícia militar e do corpo de bombeiros militar, embora de interesse público, têm caráter auxiliar e administrativo, revelando-se inconstitucionais as atribuições de guarda de próprios estaduais e de policiamento ostensivo e preventivo a pé e de eventos, inseridas nas competências constitucionais dos órgãos integrantes do sistema de segurança pública (CF, art. 144). 6. À luz dos arts. 7º, XXX, e 39, § 3º, da Constituição Federal, a idade não pode ser utilizada como critério seletivo para admissão ou diferenciação funcional entre servidores, exceto se em virtude das exigências da natureza do cargo. 7. Ausência de razoabilidade na fixação de 27 anos como idade máxima para o serviço auxiliar voluntário da Polícia Militar e no Corpo de Bombeiros Militar. Precedentes. 8. O prazo de duração consiste em elemento essencial do serviço voluntário, a ser disciplinado pelos Estados-membros nos termos estabelecidos pela norma geral da União. É inconstitucional a ampliação do número máximo de prorrogações do tempo de exercício do serviço voluntário em relação ao fixado na Lei federal n. 10.029/2000. 9. Pedido parcialmente prejudicado, quanto à Lei n. 15.261/2005 do Estado de Goiás, e, no mais, julgado procedente.
+
+## Decisão
+
+O Tribunal, por unanimidade, declarou o prejuízo do pedido no que concerne à higidez da Lei n. 15.261/2005 do Estado de Goiás e, no mais, julgou-o procedente quanto à inconstitucionalidade das expressões “bem como de guarda de próprios estaduais e policiamento ostensivo e preventivo a pé e de eventos”, “ter idade máxima de 27 anos até a data da inscrição para a seleção” e “no máximo 2 (duas) vezes” contidas, respectivamente, nos arts. 2º; 4º, IV; e 5º da Lei n. 14.012/2001 do Estado de Goiás, nos termos do voto do Relator. Plenário, Sessão Virtual de 2.8.2024 a 9.8.2024.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00007 INC-00030 ART-00022 INC-00021 ART-00024 ART-00025 PAR-00001 ART-00030 INC-00001 ART-00037 INC-00002 ART-00039 PAR-00003 ART-00144 "CAPUT" INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 PAR-00005 PAR-00006 PAR-00007 PAR-00008 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-009784 ANO-1999 ART-00054 LPA-1999 LEI DE PROCESSO ADMINISTRATIVO LEG-FED LEI-010029 ANO-2000 ART-00001 ART-00002 INC-00001 INC-00002 INC-00003 PAR-ÚNICO ART-00003 INC-00001 INC-00002 ART-00004 INC-00001 INC-00002 INC-00003 ART-00005 ART-00006 PAR-00001 PAR-00002 ART-00007 LEI ORDINÁRIA LEG-EST LEI-014012 ANO-2001 ART-00002 ART-00004 INC-00004 ART-00005 LEI ORDINÁRIA, GO LEG-EST LEI-015261 ANO-2005 ART-00001 ART-00002 LEI ORDINÁRIA, GO
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=779449302)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

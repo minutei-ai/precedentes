@@ -1,0 +1,25 @@
+# STF · ADI 5077
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 5077
+- **Identificador na fonte:** `stf-adi-5077`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 25/10/2018
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5077)
+
+## Ementa
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONSTITUCIONAL E AMBIENTAL. FEDERALISMO E RESPEITO ÀS REGRAS DE DISTRIBUIÇÃO DE COMPETÊNCIA LEGISLATIVA. LEI 3.213/2013 DO ESTADO DE RONDÔNIA. MINERAÇÃO E GARIMPAGEM. COMPETÊNCIA LEGISLATIVA PRIVATIVA DA UNIÃO (ART. 22, XII, DA CF). LICENCIAMENTO AMBIENTAL. COMPETÊNCIA CONCORRENTE. PRIMAZIA DA UNIÃO PARA FIXAR NORMAS GERAIS (ART. 24, VI, VII E VII, § 1º, 30, I E II, E 225, § 1º, IV, DA CF). EXERCÍCIO DO PODER DE POLÍCIA AMBIENTAL. SEPARAÇÃO DOS PODERES (ART. 2º DA CF). RESERVA DE ADMINISTRAÇÃO (ART. 2º, 61, § 1º, II, “E”, 84, II E VI, “A”, DA CF). COBRANÇA DE TAXA PELO EXERCÍCIO DO PODER DE POLÍCIA (ART. 145, II, DA CF), POR MEIO DE LEI DE INICIATIVA DO LEGISLATIVO. POSSIBILIDADE. INEXISTÊNCIA DE INICIATIVA RESERVADA EM MATÉRIA TRIBUTÁRIA. PARCIAL PROCEDÊNCIA. 1. Compete privativamente à União legislar sobre jazidas, minas, outros recursos minerais e metalurgia (CF/1988, art. 22, XII), em razão do que incorre em inconstitucionalidade a norma estadual que, a pretexto de regulamentar o licenciamento ambiental, impede o exercício de atividade garimpeira por pessoas físicas. 2. A diretriz fixada pelo constituinte, de favorecimento da organização da atividade garimpeira em cooperativas (art. 174, § 3º, da CF), não permite o extremo de limitar a prática de garimpagem apenas aos associados a essas entidades, sob pena de violação à garantia constitucional da liberdade de iniciativa e de livre associação (art. 1º, IV, art. 5º, XX, e art. 170, parágrafo único, da CF). 3. A competência legislativa concorrente cria o denominado “condomínio legislativo” entre a União e os Estados-Membros, cabendo à primeira a edição de normas gerais sobre as matérias elencadas no art. 24 da Constituição Federal; e aos segundos o exercício da competência complementar — quando já existente norma geral a disciplinar determinada matéria (CF, art. 24, § 2º) — e da competência legislativa plena (supletiva) — quando inexistente norma federal a estabelecer normatização de caráter geral (CF, art. 24, § 3º). 4. O licenciamento para exploração de atividade potencialmente danosa, como é o caso da lavra de recursos minerais, insere-se no Poder de Polícia Ambiental, cujo exercício é atividade administrativa de competência do Poder Executivo e, portanto, submetida à reserva de administração (art. 61, § 1º, II, e, c/c art. 84, II e VI, “a”, da CF). 5. A definição do valor cobrado a título de taxa pelo exercício do poder de polícia (art. 145, II, da CF) pode ser estabelecida em sede legislativa, por iniciativa concorrente dos Poderes Executivo e Legislativo, pois não há falar em iniciativa reservada em matéria tributária (ARE 743480, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado sob o rito da repercussão geral, DJe de 19/11/2013). 6. Medida Cautelar confirmada e Ação Direta julgada parcialmente procedente.
+
+## Decisão
+
+O Tribunal, por unanimidade, confirmou a medida cautelar e julgou parcialmente procedente o pedido formulado na ação direta para declarar a inconstitucionalidade dos artigos 1º, 2º, 3º e 5º da Lei 3.213/2013 do Estado de Rondônia, nos termos do voto do Relator. Ausente, justificadamente, o Ministro Roberto Barroso. Presidência do Ministro Dias Toffoli. Plenário, 25.10.2018.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1891 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1934 CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1937 CF-1937 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00001 INC-00004 ART-00002 ART-00005 INC-00020 ART-00020 INC-00009 ART-00021 INC-00025 ART-00022 INC-00012 ART-00024 INC-00006 INC-00007 PAR-00001 PAR-00002 PAR-00003 ART-00030 INC-00001 INC-00002 ART-00060 PAR-00004 INC-00001 ART-00061 PAR-00001 INC-00002 ART-00084 INC-00002 INC-00006 LET-A ART-00145 INC-00002 ART-00170 PAR-ÚNICO ART-00174 PAR-00003 ART-00176 "CAPUT" PAR-00001 ART-00225 PAR-00001 INC-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-006938 ANO-1981 LEI ORDINÁRIA LEG-FED LEI-011685 ANO-2008 LEI ORDINÁRIA - ESTATUTO DO GARIMPEIRO LEG-FED DEC-000227 ANO-1967 DECRETO - CÓDIGO DE MINERAÇÃO LEG-FED RES-000237 ANO-1997 RESOLUÇÃO DO CONSELHO NACIONAL DO MEIO AMBIENTE - CONAMA LEG-EST LEI-003213 ANO-2013 ART-00001 PAR-ÚNICO ART-00002 ART-00003 ART-00004 PAR-ÚNICO ART-00005 LEI ORDINÁRIA, RO LEG-EST DEC-005124 ANO-1991 DECRETO, RO
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748710834)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

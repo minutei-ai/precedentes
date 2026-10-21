@@ -1,0 +1,25 @@
+# STF · ADI 5388
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 5388
+- **Identificador na fonte:** `stf-adi-5388`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 20/05/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5388)
+
+## Ementa
+
+EMENTA CONSTITUCIONAL. RESOLUÇÕES DO CONSELHO NACIONAL DE JUSTIÇA E DO CONSELHO DA JUSTIÇA FEDERAL. DESTINAÇÃO DE RECURSOS ORIUNDOS DA PENA DE PRESTAÇÃO PECUNIÁRIA. ADMINISTRAÇÃO DAS MEDIDAS ALTERNATIVAS. COMPETÊNCIA DO PODER JUDICIÁRIO. AUSÊNCIA DE INTERESSE DO MINISTÉRIO PÚBLICO OU DO ACUSADO NA DEFINIÇÃO DA ENTIDADE BENEFICIÁRIA. REGULAMENTAÇÃO ADMINISTRATIVA. 1. A prestação pecuniária, espécie de pena restritiva de direitos, tem caráter penal e indenizatório à vítima ou a seus dependentes. O efeito pedagógico reside na perda do quantum arbitrado. 2. A destinação da prestação pecuniária, por si só, não pode ser interpretada como elemento essencial da negociação celebrada entre o Ministério Público e o acusado em potencial, de modo que não importa ou interessa a qualquer das partes. 3. A definição da entidade a beneficiar-se da prestação pecuniária encontra-se no âmbito da administração das medidas alternativas, a cargo do Poder Judiciário, tal como a da pena privativa de liberdade. 4. As Resoluções n. 154/2021 do Conselho Nacional de Justiça e 295/2014 do Conselho da Justiça Federal se limitam a regulamentar o exercício de uma competência própria do Poder Judiciário, objetivando sua uniformização nos tribunais pátrios. 5. Pedido julgado improcedente.
+
+## Decisão
+
+Após o voto do Ministro Marco Aurélio (Relator), que julgava procedente o pedido formulado na ação direta, para declarar incompatível, com a Constituição Federal, a Resolução nº 295/2014 do Conselho da Justiça Federal e, relativamente à de nº 154/2012 do Conselho Nacional de Justiça, dava-lhe interpretação conforme, para excluir enfoque a alcançar a utilização de verbas de prestação pecuniária fixada como condição à suspensão condicional de processo ou transação penal; e do voto do Ministro Nunes Marques, que julgava improcedente o pedido, pediu vista dos autos o Ministro Alexandre de Moraes. Falaram: pelo requerente, o Dr. Antônio Augusto Brandão de Aras, Procurador-Geral da República; e, pelo amicus curiae, o Dr. Aristides Junqueira Alvarenga. Presidência do Ministro Luiz Fux. Plenário, 10.06.2021 (Sessão realizada por videoconferência - Resolução 672/2020/STF). Decisão: O Tribunal, por maioria, julgou improcedente o pedido formulado na ação direta e declarou a constitucionalidade da Resolução nº 154/2012, do Conselho Nacional de Justiça, e, consequentemente, do art. 1º da Resolução nº 295/2014, do Conselho da Justiça Federal, nos termos do voto do Ministro Nunes Marques (Redator para o acórdão), vencido o Ministro Marco Aurélio (Relator). Não votou o Ministro André Mendonça, sucessor do Relator. Plenário, Sessão Virtual de 10.5.2024 a 17.5.2024.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 INC-00002 ART-00022 INC-00001 ART-00024 INC-00001 ART-00037 ART-00059 ART-00062 PAR-00001 INC-00001 LET-B ART-00084 INC-00023 ART-00099 PAR-00001 ART-0103B PAR-00004 INC-00001 INC-00002 ART-00127 PAR-00001 PAR-00002 PAR-00003 ART-00129 INC-00001 ART-00134 PAR-00002 PAR-00003 ART-00165 INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000045 ANO-2004 EMENDA CONSTITUCIONAL LEG-FED LEI-009099 ANO-1995 ART-00076 PAR-00004 ART-00089 PAR-00001 INC-00001 INC-00002 INC-00003 INC-00004 PAR-00002 LJE-1995 LEI DOS JUIZADOS ESPECIAIS CÍVEIS E CRIMINAIS LEG-FED LEI-009714 ANO-1998 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-FED DEL-002848 ANO-1940 ART-00043 INC-00001 INC-00002 INC-00003 ART-00045 PAR-00001 PAR-00002 PAR-00003 ART-00048 ART-00049 CP-1940 CÓDIGO PENAL LEG-FED DEL-003689 ANO-1941 ART-0028A INC-00004 CPP-1941 CÓDIGO DE PROCESSO PENAL LEG-FED RES-000059 RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ LEG-FED RES-000007 ANO-2005 RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ LEG-FED RES-000047 ANO-2007 RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ LEG-FED RES-000154 ANO-2012 ART-00001 ART-00002 PAR-00001 INC-00001 ART-00003 ART-00004 RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ LEG-FED RES-000295 ANO-2014 ART-00001 RESOLUÇÃO CONSELHO DA JUSTIÇA FEDERAL - CJF LEG-FED RES-000252 ANO-2018 RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ LEG-FED RES-000288 ANO-2019 RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ LEG-FED RES-000113 ANO-2020 RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ LEG-FED RES-000737 ANO-2021 RESOLUÇÃO CONSELHO DA JUSTIÇA FEDERAL - CJF LEG-FED ENU-000077 ENUNCIADO DO FÓRUM NACIONAL DOS JUIZADOS ESPECIAIS - FONAJE LEG-FED ENU-000092 ENUNCIADO DO FÓRUM NACIONAL DOS JUIZADOS ESPECIAIS - FONAJE
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=777809838)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

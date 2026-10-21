@@ -1,0 +1,86 @@
+# TJPR · Súmula
+
+**82 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tjpr-sum-1.md) — Vigente
+- [SUM 2](tjpr-sum-2.md) — Cancelado
+- [SUM 3](tjpr-sum-3.md) — Cancelado
+- [SUM 4](tjpr-sum-4.md) — Cancelado
+- [SUM 5](tjpr-sum-5.md) — Em revisão
+- [SUM 6](tjpr-sum-6.md) — Em revisão
+- [SUM 7](tjpr-sum-7.md) — Superado
+- [SUM 8](tjpr-sum-8.md) — Cancelado
+- [SUM 9](tjpr-sum-9.md) — Em revisão
+- [SUM 10](tjpr-sum-10.md) — Vigente
+- [SUM 11](tjpr-sum-11.md) — Em revisão
+- [SUM 12](tjpr-sum-12.md) — Em revisão
+- [SUM 13](tjpr-sum-13.md) — Em revisão
+- [SUM 14](tjpr-sum-14.md) — Em revisão
+- [SUM 15](tjpr-sum-15.md) — Em revisão
+- [SUM 16](tjpr-sum-16.md) — Vigente
+- [SUM 17](tjpr-sum-17.md) — Vigente
+- [SUM 18](tjpr-sum-18.md) — Vigente
+- [SUM 19](tjpr-sum-19.md) — Vigente
+- [SUM 20](tjpr-sum-20.md) — Vigente
+- [SUM 21](tjpr-sum-21.md) — Vigente
+- [SUM 22](tjpr-sum-22.md) — Vigente
+- [SUM 23](tjpr-sum-23.md) — Em revisão
+- [SUM 24](tjpr-sum-24.md) — Vigente
+- [SUM 25](tjpr-sum-25.md) — Cancelado
+- [SUM 26](tjpr-sum-26.md) — Vigente
+- [SUM 27](tjpr-sum-27.md) — Vigente
+- [SUM 28](tjpr-sum-28.md) — Vigente
+- [SUM 29](tjpr-sum-29.md) — Vigente
+- [SUM 30](tjpr-sum-30.md) — Cancelado
+- [SUM 31](tjpr-sum-31.md) — Vigente
+- [SUM 32](tjpr-sum-32.md) — Vigente
+- [SUM 33](tjpr-sum-33.md) — Em revisão
+- [SUM 34](tjpr-sum-34.md) — Vigente
+- [SUM 35](tjpr-sum-35.md) — Vigente
+- [SUM 36](tjpr-sum-36.md) — Superado
+- [SUM 37](tjpr-sum-37.md) — Vigente
+- [SUM 38](tjpr-sum-38.md) — Vigente
+- [SUM 39](tjpr-sum-39.md) — Em revisão
+- [SUM 40](tjpr-sum-40.md) — Vigente
+- [SUM 41](tjpr-sum-41.md) — Vigente
+- [SUM 42](tjpr-sum-42.md) — Em revisão
+- [SUM 43](tjpr-sum-43.md) — Vigente
+- [SUM 44](tjpr-sum-44.md) — Vigente
+- [SUM 45](tjpr-sum-45.md) — Vigente
+- [SUM 46](tjpr-sum-46.md) — Vigente
+- [SUM 47](tjpr-sum-47.md) — Vigente
+- [SUM 48](tjpr-sum-48.md) — Vigente
+- [SUM 49](tjpr-sum-49.md) — Vigente
+- [SUM 50](tjpr-sum-50.md) — Vigente
+- [SUM 51](tjpr-sum-51.md) — Vigente
+- [SUM 53](tjpr-sum-53.md) — Vigente
+- [SUM 54](tjpr-sum-54.md) — Em revisão
+- [SUM 55](tjpr-sum-55.md) — Vigente
+- [SUM 56](tjpr-sum-56.md) — Vigente
+- [SUM 57](tjpr-sum-57.md) — Vigente
+- [SUM 58](tjpr-sum-58.md) — Vigente
+- [SUM 59](tjpr-sum-59.md) — Vigente
+- [SUM 60](tjpr-sum-60.md) — Vigente
+- [SUM 61](tjpr-sum-61.md) — Vigente
+- [SUM 62](tjpr-sum-62.md) — Em revisão
+- [SUM 63](tjpr-sum-63.md) — Cancelado
+- [SUM 65](tjpr-sum-65.md) — Vigente
+- [SUM 66](tjpr-sum-66.md) — Vigente
+- [SUM 67](tjpr-sum-67.md) — Vigente
+- [SUM 68](tjpr-sum-68.md) — Vigente
+- [SUM 69](tjpr-sum-69.md) — Vigente
+- [SUM 70](tjpr-sum-70.md) — Vigente
+- [SUM 71](tjpr-sum-71.md) — Cancelado
+- [SUM 72](tjpr-sum-72.md) — Vigente
+- [SUM 73](tjpr-sum-73.md) — Vigente
+- [SUM 74](tjpr-sum-74.md) — Vigente
+- [SUM 75](tjpr-sum-75.md) — Vigente
+- [SUM 76](tjpr-sum-76.md) — Vigente
+- [SUM 77](tjpr-sum-77.md) — Vigente
+- [SUM 78](tjpr-sum-78.md) — Vigente
+- [SUM 79](tjpr-sum-79.md) — Cancelado
+- [SUM 80](tjpr-sum-80.md) — Vigente
+- [SUM 81](tjpr-sum-81.md) — Vigente
+- [SUM 82](tjpr-sum-82.md) — Vigente
+- [SUM 83](tjpr-sum-83.md) — Vigente
+- [SUM 84](tjpr-sum-84.md) — Vigente

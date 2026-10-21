@@ -1,0 +1,19 @@
+# TNU · PUIL 290
+
+- **Tribunal:** TNU
+- **Espécie:** Pedido de Uniformização de Interpretação de Lei
+- **Número:** 290
+- **Identificador na fonte:** `tnu-puil-290`
+- **Situação na fonte:** Transitado em julgado
+- **Atualização informada pela fonte:** 20/10/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tnu&tipo=PUIL&nr=290)
+
+## Questão submetida a julgamento
+
+Saber se é devido o pagamento da indenização de localidade estratégica, instituída pela lei nº 12.855/2013, durante as férias do servidor.
+
+## Texto disponibilizado pela fonte
+
+Não é devido o pagamento da indenização de localidade estratégica, instituída pela lei nº 12.855/2013, durante as férias do servidor.
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TNU/).

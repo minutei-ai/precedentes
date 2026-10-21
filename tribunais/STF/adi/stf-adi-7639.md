@@ -1,0 +1,21 @@
+# STF · ADI 7639
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 7639
+- **Identificador na fonte:** `stf-adi-7639`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 29/06/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7639)
+
+## Ementa
+
+EMENTA: DIREITO CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. FEDERALISMO COOPERATIVO. SAÚDE PÚBLICA. PANDEMIA DA COVID-19. LEI ESTADUAL. COMBATE À DESINFORMAÇÃO. AUSÊNCIA DE USURPAÇÃO DA COMPETÊNCIA PRIVATIVA DA UNIÃO. SANÇÕES ADMINISTRATIVAS. COMPETÊNCIA LEGISLATIVA CONCORRENTE. LIBERDADE DE EXPRESSÃO. IMPROCEDÊNCIA. I. CASO EM EXAME 1. Ação Direta de Inconstitucionalidade ajuizada pelo Partido Liberal (PL) em face da Lei 14.268/2020 do Estado da Bahia, que instituiu sanções administrativas para a divulgação de informações falsas sobre epidemias, endemias e pandemias. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se a Lei 14.268/2020 do Estado da Bahia usurpa a competência privativa da União para legislar sobre telecomunicações e radiodifusão; e (ii) estabelecer se a imposição de sanções administrativas pela divulgação de notícias falsas sobre pandemias viola a liberdade de expressão. III. RAZÕES DE DECIDIR 3. A norma estadual visa o cuidado e proteção da saúde, matéria sujeita à competência administrativa comum e à competência legislativa concorrente dos entes federativos, nos termos dos arts. 23, II, e 24, XII, da Constituição Federal. 4. A competência privativa da União para legislar sobre telecomunicações e radiodifusão não impede a atuação normativa dos estados quando a disciplina legal possui finalidade predominante relacionada à proteção da saúde e apenas repercussão indireta sobre tais serviços. 5. A liberdade de expressão não possui caráter absoluto e não protege práticas de desinformação aptas a comprometer direitos fundamentais da coletividade, especialmente a saúde. IV. DISPOSITIVO E TESE 6. Pedido julgado improcedente. Dispositivos relevantes citados: CF/1988, arts. 5º, IV e IX, 22, IV, 23, II, 24, XII, 196 e 220, §§ 1º e 2º; Lei nº 14.268/2020 do Estado da Bahia, arts. 1º a 6º; Lei nº 9.472/1997, art. 74; Decreto nº 52.795/1963, art. 122, X. Jurisprudência relevante citada: STF, ADI 2730, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 28/5/2010; STF, ADI 2875, Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe de 20/6/2008; STF, ADI 5140, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, DJe de 29/10/2018; STF, ADI 6137, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 14/6/2023; STF, ADI 6088, Rel. Min. EDSON FACHIN, Tribunal Pleno, DJe de 26/9/2022; STF, ADI 4306, Rel. Min. EDSON FACHIN, Tribunal Pleno, DJe de 19/2/2020; STF, ADPF 672-MC-REF, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, DJe de 29/10/2020; STF, ADI 6341-MC-REF, Red. p/ acórdão Min. EDSON FACHIN, Tribunal Pleno, DJe de 13/11/2020; STF, ADI 6343-MC-REF, Red. p/ acórdão Min. ALEXANDRE DE MORAES, Tribunal Pleno, DJe de 17/11/2020; STF, ADI 6362, Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe de 9/12/2020.
+
+## Decisão
+
+Após o voto do Ministro Nunes Marques (Relator), que julgava procedente o pedido e declarava inconstitucional a Lei n. 14.268, de 28 de maio de 2020, do Estado da Bahia, pediu vista dos autos o Ministro Alexandre de Moraes. Falou, pelo interessado Governador do Estado da Bahia, o Dr. Luiz Paulo Romano, Procurador do Estado. Plenário, Sessão Virtual de 17.4.2026 a 28.4.2026. Decisão: O Tribunal, por maioria, julgou improcedente o pedido veiculado na inicial, nos termos do voto do Ministro Alexandre de Moraes (Redator para o acórdão), vencidos os Ministros Nunes Marques (Relator), Dias Toffoli e André Mendonça. O Ministro Cristiano Zanin também acompanhou a divergência inaugurada pelo Ministro Alexandre de Moraes, para julgar improcedente a presente ação direta de inconstitucionalidade, mas por fundamentos diversos. Plenário, Sessão Virtual de 19.6.2026 a 26.6.2026.
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=801695152)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

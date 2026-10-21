@@ -1,0 +1,25 @@
+# STF · ADI 7228
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 7228
+- **Identificador na fonte:** `stf-adi-7228`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 25/06/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7228)
+
+## Ementa
+
+Ementa: Segundos embargos de declaração. ADIs 7.228, 7.263 e 7.325 (distribuição das sobras eleitorais). Ações diretas conexas (identidade de objeto). Unidade de processo e julgamento (simultaneus processus). Trânsito em julgado de uma delas (ADI 7.325) antes da apreciação dos embargos de declaração nas demais (ADIs 7.228-ED e 7.263-ED). Primeiros embargos acolhidos para corrigir a proclamação do resultado, conferindo eficácia “ex tunc” à decisão proferida no julgamento conjunto. Alegação de violação da coisa julgada. Inocorrência. Integração do julgado restrita a aspectos circunstanciais do julgamento (eficácia temporal da decisão). Considerações em torno da coisa julgada nos processos objetivos de controle de constitucionalidade. Questões processuais já dirimidas. Mera reiteração. Embargos rejeitados. I. Caso em exame 1. Os embargantes sustentam a ocorrência de violação à coisa julgada (CF, art. 5ª, XXXVI), considerado o fato de que os acórdãos embargados, proferidos nos autos das ADIs 7228-ED e 7263-ED, teriam importado em modificação do resultado do julgamento de mérito, transitado em julgado, nos autos da ADI 7.325. II. Questão em discussão 2. A controvérsia cinge-se a saber se a decisão em embargos de declaração (ADIs 7.228-ED e 7.263-ED) teria violado a autoridade da coisa julgada formada em ação conexa (ADI 7.325), transitada em julgado em momento anterior. III. Razões de decidir Questões preliminares 3. Ilegitimidade ativa dos Advogados da Câmara dos Deputados. A legitimação das Mesas das Casas Legislativas para o controle concentrado de constitucionalidade possui natureza intuitu personae, devendo o Presidente do órgão parlamentar subscrever as peças processuais, como manifestação de sua decisão política de ajuizar a ação direta ou de recorrer das decisões nela proferidas. Precedentes. 4. Ilegitimidade recursal dos partidos políticos embargantes. embora investidos de legitimidade ativa universal para a instauração do controle concentrado de constitucionalidade (CF, art. 103, III), os partidos políticos somente dispõem de legitimidade recursal quando figurarem como partes na relação processual, vedada a interposição de recursos na condição de amicus curiae ou de terceiro interessado (Lei nº 9.868/99, art. 7º, caput). Precedentes. 5. Questões já dirimidas. A objeção de coisa julgada foi suscitada no julgamento dos primeiros embargos de declaração, mediante petição protocolada pela Advocacia da Câmara dos Deputados, vindo a ser apreciada pelo Plenário em questão de ordem e rejeitada, como registrado na ata da sessão de julgamento. Mérito 6. Devido à identidade de objetos, todas as 03 (três) ações diretas (ADIs 7.228, 7.263 e 7.325) foram distribuídas por prevenção e julgadas em conjunto. Foi adotada a unidade de processo e julgamento (simultaneus processus) e considerada a impossibilidade jurídica de coexistência de decisões contraditórias em sede de controle concentrado de constitucionalidade. 7. Os demais argumentos suscitados pelos embargantes caracterizam mera reiteração das questões jurídicas exaustivamente apreciadas no julgamento de mérito e nos primeiros embargos de declaração. IV. Dispositivo e tese 8. Embargos de declaração rejeitados, com determinação da certificação do trânsito em julgado, independentemente de publicação do acórdão.
+
+## Decisão
+
+O Tribunal, por unanimidade, rejeitou os embargos de declaração, por manifestamente incabíveis, com determinação de imediata certificação do trânsito em julgado e arquivamento destes autos, independentemente da publicação do acórdão. Tudo nos termos do voto do Relator, Ministro Flávio Dino. O Ministro Gilmar Mendes acompanhou o Relator com ressalvas. Plenário, Sessão Virtual de 13.6.2025 a 24.6.2025.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 INC-00036 ART-00102 PAR-00002 ART-00103 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 PAR-00003 ART-00125 PAR-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004737 ANO-1965 ART-00109 PAR-00002 ART-00111 CEL-1965 CÓDIGO ELEITORAL LEG-FED LEI-009868 ANO-1999 ART-00007 "CAPUT" ART-00012 ART-00027 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015 ART-00505 INC-00001 ART-00506 ART-01023 "CAPUT" CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-014211 ANO-2021 LEI ORDINÁRIA LEG-FED RES-023677 ANO-2021 ART-00011 "CAPUT" PAR-00002 ART-00013 RESOLUÇÃO LEG-FED RGI ANO-1980 ART-0077B RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=788780907)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

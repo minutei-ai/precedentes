@@ -1,0 +1,108 @@
+# TRF01 · Incidente de Resolução de Demandas Repetitivas
+
+**104 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](trf01-irdr-1.md) — Transitado em julgado
+- [IRDR 2](trf01-irdr-2.md) — Transitado em julgado
+- [IRDR 3](trf01-irdr-3.md) — Não admitido
+- [IRDR 4](trf01-irdr-4.md) — Não admitido
+- [IRDR 5](trf01-irdr-5.md) — Em julgamento
+- [IRDR 6](trf01-irdr-6.md) — Em julgamento
+- [IRDR 7](trf01-irdr-7.md) — Não admitido
+- [IRDR 8](trf01-irdr-8.md) — Cancelado
+- [IRDR 9](trf01-irdr-9.md) — Cancelado
+- [IRDR 10](trf01-irdr-10.md) — Não admitido
+- [IRDR 11](trf01-irdr-11.md) — Não admitido
+- [IRDR 12](trf01-irdr-12.md) — Em julgamento
+- [IRDR 13](trf01-irdr-13.md) — Não admitido
+- [IRDR 14](trf01-irdr-14.md) — Cancelado
+- [IRDR 15](trf01-irdr-15.md) — Não admitido
+- [IRDR 18](trf01-irdr-18.md) — Não admitido
+- [IRDR 19](trf01-irdr-19.md) — Não admitido
+- [IRDR 20](trf01-irdr-20.md) — Em julgamento
+- [IRDR 21](trf01-irdr-21.md) — Não admitido
+- [IRDR 22](trf01-irdr-22.md) — Não admitido
+- [IRDR 23](trf01-irdr-23.md) — Não admitido
+- [IRDR 24](trf01-irdr-24.md) — Não admitido
+- [IRDR 25](trf01-irdr-25.md) — Não admitido
+- [IRDR 26](trf01-irdr-26.md) — Não admitido
+- [IRDR 27](trf01-irdr-27.md) — Não admitido
+- [IRDR 28](trf01-irdr-28.md) — Em julgamento
+- [IRDR 29](trf01-irdr-29.md) — Cancelado
+- [IRDR 30](trf01-irdr-30.md) — Cancelado
+- [IRDR 31](trf01-irdr-31.md) — Não admitido
+- [IRDR 32](trf01-irdr-32.md) — Não admitido
+- [IRDR 33](trf01-irdr-33.md) — Não admitido
+- [IRDR 34](trf01-irdr-34.md) — Não admitido
+- [IRDR 35](trf01-irdr-35.md) — Cancelado
+- [IRDR 36](trf01-irdr-36.md) — Não admitido
+- [IRDR 37](trf01-irdr-37.md) — Não admitido
+- [IRDR 38](trf01-irdr-38.md) — Não admitido
+- [IRDR 39](trf01-irdr-39.md) — Cancelado
+- [IRDR 40](trf01-irdr-40.md) — Não admitido
+- [IRDR 41](trf01-irdr-41.md) — Em julgamento
+- [IRDR 42](trf01-irdr-42.md) — Cancelado
+- [IRDR 43](trf01-irdr-43.md) — Não admitido
+- [IRDR 44](trf01-irdr-44.md) — Não admitido
+- [IRDR 45](trf01-irdr-45.md) — Não admitido
+- [IRDR 46](trf01-irdr-46.md) — Em julgamento
+- [IRDR 47](trf01-irdr-47.md) — Não admitido
+- [IRDR 48](trf01-irdr-48.md) — Não admitido
+- [IRDR 49](trf01-irdr-49.md) — Não admitido
+- [IRDR 50](trf01-irdr-50.md) — Não admitido
+- [IRDR 52](trf01-irdr-52.md) — Não admitido
+- [IRDR 53](trf01-irdr-53.md) — Cancelado
+- [IRDR 54](trf01-irdr-54.md) — Em julgamento
+- [IRDR 55](trf01-irdr-55.md) — Em julgamento
+- [IRDR 56](trf01-irdr-56.md) — Não admitido
+- [IRDR 57](trf01-irdr-57.md) — Não admitido
+- [IRDR 58](trf01-irdr-58.md) — Cancelado
+- [IRDR 59](trf01-irdr-59.md) — Não admitido
+- [IRDR 60](trf01-irdr-60.md) — Cancelado
+- [IRDR 61](trf01-irdr-61.md) — Não admitido
+- [IRDR 62](trf01-irdr-62.md) — Em julgamento
+- [IRDR 63](trf01-irdr-63.md) — Não admitido
+- [IRDR 64](trf01-irdr-64.md) — Transitado em julgado
+- [IRDR 65](trf01-irdr-65.md) — Sobrestado por tema do STJ
+- [IRDR 66](trf01-irdr-66.md) — Não admitido
+- [IRDR 67](trf01-irdr-67.md) — Não admitido
+- [IRDR 68](trf01-irdr-68.md) — Em julgamento
+- [IRDR 69](trf01-irdr-69.md) — Não admitido
+- [IRDR 70](trf01-irdr-70.md) — Não admitido
+- [IRDR 71](trf01-irdr-71.md) — Em julgamento
+- [IRDR 72](trf01-irdr-72.md) — Mérito julgado
+- [IRDR 73](trf01-irdr-73.md) — Mérito julgado
+- [IRDR 74](trf01-irdr-74.md) — Admitido
+- [IRDR 75](trf01-irdr-75.md) — Cancelado
+- [IRDR 76](trf01-irdr-76.md) — Em julgamento
+- [IRDR 77](trf01-irdr-77.md) — Admitido
+- [IRDR 78](trf01-irdr-78.md) — Em julgamento
+- [IRDR 79](trf01-irdr-79.md) — Não admitido
+- [IRDR 80](trf01-irdr-80.md) — Em julgamento
+- [IRDR 81](trf01-irdr-81.md) — Acórdão Publicado
+- [IRDR 82](trf01-irdr-82.md) — Não admitido
+- [IRDR 83](trf01-irdr-83.md) — Cancelado
+- [IRDR 84](trf01-irdr-84.md) — Não admitido
+- [IRDR 85](trf01-irdr-85.md) — Não admitido
+- [IRDR 86](trf01-irdr-86.md) — Em julgamento
+- [IRDR 87](trf01-irdr-87.md) — Não admitido
+- [IRDR 88](trf01-irdr-88.md) — Admitido
+- [IRDR 89](trf01-irdr-89.md) — Não admitido
+- [IRDR 90](trf01-irdr-90.md) — Acórdão Publicado
+- [IRDR 91](trf01-irdr-91.md) — Em julgamento
+- [IRDR 92](trf01-irdr-92.md) — Em julgamento
+- [IRDR 93](trf01-irdr-93.md) — Mérito julgado
+- [IRDR 94](trf01-irdr-94.md) — Mérito julgado
+- [IRDR 95](trf01-irdr-95.md) — Não admitido
+- [IRDR 96](trf01-irdr-96.md) — Não admitido
+- [IRDR 98](trf01-irdr-98.md) — Admitido
+- [IRDR 99](trf01-irdr-99.md) — Em julgamento
+- [IRDR 100](trf01-irdr-100.md) — Não admitido
+- [IRDR 103](trf01-irdr-103.md) — Admitido
+- [IRDR 104](trf01-irdr-104.md) — Em julgamento
+- [IRDR 105](trf01-irdr-105.md) — Em julgamento
+- [IRDR 106](trf01-irdr-106.md) — Em julgamento
+- [IRDR 107](trf01-irdr-107.md) — Em julgamento
+- [IRDR 108](trf01-irdr-108.md) — Em julgamento
+- [IRDR 109](trf01-irdr-109.md) — Em julgamento
+- [IRDR 110](trf01-irdr-110.md) — Admitido

@@ -1,0 +1,25 @@
+# STF · ADI 2418
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 2418
+- **Identificador na fonte:** `stf-adi-2418`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 04/05/2016
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2418)
+
+## Ementa
+
+Ementa: CONSTITUCIONAL. LEGITIMIDADE DAS NORMAS ESTABELECENDO PRAZO DE TRINTA DIAS PARA EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA (ART. 1º-B DA LEI 9.494/97) E PRAZO PRESCRICIONAL DE CINCO ANOS PARA AÇÕES DE INDENIZAÇÃO CONTRA PESSOAS DE DIREITO PÚBLICO E PRESTADORAS DE SERVIÇOS PÚBLICOS (ART. 1º-C DA LEI 9.494/97). LEGITIMIDADE DA NORMA PROCESSUAL QUE INSTITUI HIPÓTESE DE INEXIGIBILIDADE DE TÍTULO EXECUTIVO JUDICIAL EIVADO DE INCONSTITUCIONALIDADE QUALIFICADA (ART. 741, PARÁGRAFO ÚNICO E ART. 475-L, § 1º DO CPC/73; ART. 525, § 1º, III E §§ 12 E 14 E ART. 535, III, § 5º DO CPC/15). 1. É constitucional a norma decorrente do art. 1º-B da Lei 9.494/97, que fixa em trinta dias o prazo para a propositura de embargos à execução de título judicial contra a Fazenda Pública. 2. É constitucional a norma decorrente do art. 1º-C da Lei 9.494/97, que fixa em cinco anos o prazo prescricional para as ações de indenização por danos causados por agentes de pessoas jurídicas de direito público e de pessoas jurídicas de direito privado prestadoras de serviços públicos, reproduzindo a regra já estabelecida, para a União, os Estados e os Municípios, no art. 1º do Decreto 20.910/32. 3. São constitucionais as disposições normativas do parágrafo único do art. 741 do CPC, do § 1º do art. 475-L, ambos do CPC/73, bem como os correspondentes dispositivos do CPC/15, o art. 525, § 1º, III e §§ 12 e 14, o art. 535, § 5º. São dispositivos que, buscando harmonizar a garantia da coisa julgada com o primado da Constituição, vieram agregar ao sistema processual brasileiro um mecanismo com eficácia rescisória de sentenças revestidas de vício de inconstitucionalidade qualificado, assim caracterizado nas hipóteses em que (a) a sentença exequenda esteja fundada em norma reconhecidamente inconstitucional – seja por aplicar norma inconstitucional, seja por aplicar norma em situação ou com um sentido inconstitucionais; ou (b) a sentença exequenda tenha deixado de aplicar norma reconhecidamente constitucional; e (c) desde que, em qualquer dos casos, o reconhecimento dessa constitucionalidade ou a inconstitucionalidade tenha decorrido de julgamento do STF realizado em data anterior ao trânsito em julgado da sentença exequenda. 4. Ação julgada improcedente.
+
+## Decisão
+
+Retirado de pauta ante a aposentadoria do Ministro Cezar Peluso (Relator). Ausentes, nesta assentada, os Senhores Ministros Celso de Mello e Joaquim Barbosa. Presidência do Senhor Ministro Ayres Britto. Plenário, 12.09.2012. Decisão: O Tribunal, por maioria e nos termos do voto do Relator, julgou improcedente o pedido formulado na ação direta, vencido o Ministro Marco Aurélio, que o julgava procedente em parte. Falaram, pelo requerente Conselho Federal da Ordem dos Advogados do Brasil, o Dr. Oswaldo Pinheiro Ribeiro Junior, OAB/DF 16.275, e, pela Advocacia-Geral da União, a Dra. Grace Maria Fernandes Mendonça, Secretária-Geral do Contencioso. Ausente, neste julgamento, o Ministro Gilmar Mendes. Presidiu o julgamento o Ministro Ricardo Lewandowski. Plenário, 04.05.2016.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 ART-00037 PAR-00006 ART-00052 INC-00010 ART-00062 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000032 ANO-2001 EMENDA CONSTITUCIONAL LEG-FED LEI-005869 ANO-1973 ART-00188 ART-00461 ART-0461A ART-0475L PAR-00001 ART-00481 ART-00485 INC-00005 ART-00741 INC-00003 ART-00741 PAR-ÚNICO INCLUÍDO PELA MP-2180/01 ART-00741 PAR-ÚNICO REDAÇÃO DADA PELA LEI-11232/2005 CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-006830 ANO-1980 ART-00016 LEF-1980 LEI DE EXECUÇÃO FISCAL LEG-FED LEI-009494 ANO-1997 ART-0001B INCLUÍDO PELA MP-2102/01 ART-0001C INCLUÍDO PELA MP-2102/01 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00023 LEI ORDINÁRIA LEG-FED LEI-010406 ANO-2002 ART-00206 PAR-00003 INC-00005 CC-2002 CÓDIGO CIVIL LEG-FED LEI-011232 ANO-2005 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015 ART-00180 ART-00183 ART-00525 PAR-00001 INC-00003 PAR-00012 PAR-00013 PAR-00014 PAR-00015 ART-00535 INC-00003 PAR-00005 PAR-00006 PAR-00007 PAR-00008 ART-00949 ART-00966 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00008 INC-00009 CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-FED DEL-005452 ANO-1943 ART-00884 PAR-00005 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED MPR-002102 ANO-2001 ART-00004 ART-00010 MEDIDA PROVISÓRIA LEG-FED MPR-002180 ANO-2001 MEDIDA PROVISÓRIA LEG-FED DEC-020910 ANO-1932 ART-00001 DECRETO LEG-FED SUV-000010 SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL - STF
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=12036655)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

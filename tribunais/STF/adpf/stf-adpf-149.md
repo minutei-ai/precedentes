@@ -1,0 +1,25 @@
+# STF · ADPF 149
+
+- **Tribunal:** STF
+- **Espécie:** Arguição de Descumprimento de Preceito Fundamental
+- **Número:** 149
+- **Identificador na fonte:** `stf-adpf-149`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 21/02/2022
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=149)
+
+## Ementa
+
+Ementa Arguição de descumprimento de preceito fundamental. Piso salarial dos profissionais diplomados em curso superior de engenharia, química, arquitetura, agronomia e veterinária (lei nº 9.450-a, de 22 de abril de 1966). Salário profissional fixado em múltiplos do salário-mínimo nacional. Alegada transgressão à norma que veda a vinculação do salário-mínimo “para qualquer finalidade” (cf, art. 7º, iv, fine). Inocorrência de tal violação. Cláusula constitucional que tem o sentido de proibir o uso indevido do salário-mínimo como indexador econômico. Precedentes. 1. Distinções entre o tratamento normativo conferido pelo texto constitucional às figuras jurídicas do salário-mínimo (CF, art. 7, IV) e do piso salarial (CF, art. 7, IV). 2. A cláusula constitucional que veda a vinculação do salário mínimo “para qualquer finalidade” (CF, art. 7, IV, fine) tem o sentido proibir a sua indevida utilização como indexador econômico, de modo a preservar o poder aquisitivo inerente ao salário mínimo contra os riscos decorrentes de sua exposição às repercussões inflacionárias negativas na economia nacional resultantes da indexação de salários e preços. 3. Além disso, a norma protetiva inserida no quadro do sistema constitucional de garantias salariais (CF, art. 7, IV, fine) protege os trabalhadores em geral contra o surgimento de conjunturas político- -econômicas que constituam obstáculo ou tornem difícil a implementação efetiva de planos governamentais de progressiva valorização do salário- -mínimo, motivadas pela aversão aos impactos econômicos indesejados que, por efeito da indexação salarial, atingiriam as contas públicas, especialmente as despesas com o pagamento de servidores e empregados públicos. 4. O texto constitucional (CF, art. 7º, IV, fine) não proíbe a utilização de múltiplos do salário-mínimo como mera referência paradigmática para definição do valor justo e proporcional do piso salarial destinado à remuneração de categorias profissionais especializadas (CF, art. 7º, V), impedindo, no entanto, reajustamentos automáticos futuros, destinados à adequação do salário inicialmente contratado aos novos valores vigentes para o salário-mínimo nacional. 5. Fixada interpretação conforme à Constituição, com adoção da técnica do congelamento da base de cálculo dos pisos salariais, a fim de que sejam calculados de acordo com o valor do salário-mínimo vigente na data da publicação da ata da sessão de julgamento. Vencida, no ponto, e apenas quanto ao marco referencial do congelamento, a Ministra Relatora, que o fixava na data do trânsito em julgado da decisão. 6. Arguição de descumprimento conhecida, em parte. Pedido parcialmente procedente.
+
+## Decisão
+
+O Tribunal, por maioria, conheceu parcialmente da arguição de descumprimento de preceito fundamental e, nessa extensão, julgou parcialmente procedente o pedido formulado, para atribuir interpretação conforme a Constituição ao art. 5º da Lei nº 4.950-A/1966, de modo a congelar a base de cálculo dos pisos profissionais nele fixados na data da publicação da ata do presente julgamento, nos termos do voto do Ministro Roberto Barroso, vencidos, em parte, os Ministros Rosa Weber (Relatora), Cármen Lúcia, Alexandre de Moraes e Ricardo Lewandowski, que entendiam que o quantum deveria ser calculado com base no valor do salário-mínimo vigente na data do trânsito em julgado desta decisão. Redigirá o acórdão a Ministra Relatora. Falaram: pelo requerente, o Dr. José Henrique Mouta Araujo, Procurador do Estado do Pará; e, pelo amicus curiae Confederação Nacional da Industria, a Dra. Fernanda de Menezes Barbosa. Plenário, Sessão Virtual de 11.2.2022 a 18.2.2022.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1946 ART-00005 INC-00015 LET-A ART-00006 ART-00157 INC-00001 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1969 ART-00042 INC-00007 CF-1969 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00001 ART-00007 INC-00004 INC-00005 ART-00018 ART-00037 INC-00011 ART-00103 INC-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-09450A ANO-1966 ART-00005 LEI ORDINÁRIA LEG-FED LEI-009869 ANO-1999 ART-00002 INC-00005 LEI ORDINÁRIA LEG-FED LEI-009882 ANO-1999 ART-00001 PAR-ÚNICO INC-00001 ART-00004 PAR-00001 LEI ORDINÁRIA LEG-FED DEL-005452 ANO-1943 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED RES-000012 ANO-1971 ART-00001 ART-00002 RESOLUÇÃO LEG-FED RGI ANO-1980 ART-00038 INC-00004 LET-A RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-FED SUV-000004 SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL - STF
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=759723702)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

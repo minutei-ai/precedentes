@@ -1,0 +1,29 @@
+# STF · ADPF 893
+
+- **Tribunal:** STF
+- **Espécie:** Arguição de Descumprimento de Preceito Fundamental
+- **Número:** 893
+- **Identificador na fonte:** `stf-adpf-893`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 21/06/2022
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=893)
+
+## Texto disponibilizado pela fonte
+
+O poder de veto previsto no art. 66, § 1º, da Constituição não pode ser exercido após o decurso do prazo constitucional de 15 (quinze) dias.
+
+## Ementa
+
+Ementa: Direito Constitucional. Processo legislativo. Arguição de descumprimento de preceito fundamental. Veto presidencial extemporâneo. 1. Arguição de descumprimento de preceito fundamental contra o veto presidencial ao art. 8º do Projeto de Lei de Conversão nº 12/2021 (que deu origem à Lei nº 14.183/2021), veiculado na Edição Extra do Diário Oficial da União (DOU), de 15.07.2021. O veto em questão foi acrescentado depois da publicação, na edição ordinária do DOU desse mesmo dia, de texto da Lei nº 14.183/2021 do qual art. 8º constava como sancionado. 2. A controvérsia posta nos autos não é sequer a discussão de saber se o veto opera preclusão, e sim se é possível exercer tal poder após a expiração do prazo. A resposta parece ser claramente negativa. Precedentes: ADPFs 714, 715 e 718, Rel. Min. Gilmar Mendes. 3. No caso presente, o prazo para exercício da prerrogativa de vetar o projeto de lei de conversão se entendeu até 14.07.2021. Nessa data, o Presidente da República editou mensagem de veto e encaminhou o texto legal para publicação, sem manifestar a intenção de vetar o art. 8º do projeto de lei. Foi somente no dia seguinte, quando o prazo já havia expirado, que se providenciou a publicação de edição extra do diário oficial para a divulgação de novo texto legal com a aposição adicional de veto a dispositivo que havia sido sancionado anteriormente. 4. Ultrapassado o prazo de 15 (quinze) dias do art. 66, § 1º, da Constituição, o texto do projeto de lei é, necessariamente, sancionado (art. 66, § 3º), e o poder de veto não pode mais ser exercido. O fato de o veto extemporâneo ter sido mantido na forma do art. 66, § 4º, da Constituição não altera a conclusão pela sua inconstitucionalidade. O ato apreciado pelo Congresso Nacional nem sequer poderia ter sido praticado. 5. Pedido julgado procedente, para declarar a inconstitucionalidade do veto impugnado e, assim, restabelecer a vigência do art. 8º da Lei nº 14.183/2021. Tese de julgamento: “O poder de veto previsto no art. 66, § 1º, da Constituição não pode ser exercido após o decurso do prazo constitucional de 15 (quinze) dias”.
+
+## Decisão
+
+Após os votos dos Ministros Cármen Lúcia (Relatora), Dias Toffoli, André Mendonça e Nunes Marques, que não conheciam da arguição de descumprimento de preceito fundamental e, se superado o não conhecimento, julgavam improcedente o pedido; e do voto do Ministro Roberto Barroso, que conhecia da arguição para julgar procedente o pedido, de modo a declarar a inconstitucionalidade do veto adicional publicado na Edição Extra do Diário Oficial da União de 15.07.2021 e, assim, restabelecer a vigência do art. 8º da Lei nº 14.183/2021, propondo a seguinte tese de julgamento: “O poder de veto previsto no art. 66, § 1º, da Constituição não pode ser exercido após o decurso do prazo constitucional de 15 (quinze) dias”, no que foi acompanhado pelos Ministros Gilmar Mendes, Edson Fachin, Ricardo Lewandowski e Rosa Weber, pediu vista dos autos o Ministro Alexandre de Moraes. Falaram: pelo amicus curiae Sindicato Nacional das Empresas Distribuidoras de Combustíveis e Lubrificantes (SINDICOM), o Dr. Erico Bomfim de Carvalho; e, pelo amicus curiae Estado do Amazonas, o Dr. Eugênio Nunes Silva, Procurador do Estado. Plenário, Sessão Virtual de 25.3.2022 a 1.4.2022. Decisão: O Tribunal, por maioria, conheceu da arguição de descumprimento de preceito fundamental para julgar procedente o pedido, de modo a declarar a inconstitucionalidade do veto adicional publicado na Edição Extra do Diário Oficial da União de 15.07.2021 e, assim, restabelecer a vigência do art. 8º da Lei nº 14.183/2021, e fixou a seguinte tese de julgamento: "O poder de veto previsto no art. 66, § 1º, da Constituição não pode ser exercido após o decurso do prazo constitucional de 15 (quinze) dias", nos termos do voto do Ministro Roberto Barroso, Redator para o acórdão, vencidos os Ministros Cármen Lúcia (Relatora), Dias Toffoli, André Mendonça e Nunes Marques, que, inicialmente, não conheciam da arguição, e, vencidos na preliminar, julgavam improcedente o pedido. Plenário, Sessão Virtual de 10.6.2022 a 20.6.2022.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00057 PAR-00003 INC-00004 ART-00066 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 PAR-00006 PAR-00007 ART-00102 PAR-00001 ART-00103 INC-00008 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000076 ANO-2013 EMENDA CONSTITUCIONAL LEG-FED LEI-007689 ANO-1988 LEI ORDINÁRIA LEG-FED LEI-008898 ANO-1995 ART-00001 "CAPUT" INC-00004 LEI ORDINÁRIA LEG-FED LEI-008989 ANO-1995 LEI ORDINÁRIA LEG-FED LEI-009882 ANO-1999 ART-00001 "CAPUT" ART-00002 INC-00001 LEI ORDINÁRIA LEG-FED LEI-013756 ANO-2018 ART-00030 PAR-00005 LEI ORDINÁRIA LEG-FED LEI-014183 ANO-2021 ART-00008 LEI ORDINÁRIA LEG-FED DEL-000288 ANO-1967 ART-00003 ART-00004 ART-00037 DECRETO-LEI LEG-FED MPR-001034 ANO-2021 MEDIDA PROVISÓRIA LEG-FED PJL-000012 ANO-2021 ART-00008 PROJETO DE LEI LEG-FED PJL-000012 ANO-2021 ART-00002 ART-00005 ART-00006 PROJETO DE LEI DE CONVERSÃO LEG-FED MSG-000028 ANO-2021 MENSAGEM LEG-FED MSG-000339 ANO-2021 MENSAGEM
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=762811182)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

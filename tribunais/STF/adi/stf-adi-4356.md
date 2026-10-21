@@ -1,0 +1,25 @@
+# STF · ADI 4356
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 4356
+- **Identificador na fonte:** `stf-adi-4356`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 09/02/2011
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4356)
+
+## Ementa
+
+EMENTA Ação Direta de Inconstitucionalidade. CONAMP. Artigo 6º da Lei nº 14.506, de 16 de novembro de 2009, do Estado do Ceará. Fixação de limites de despesa com a folha de pagamento dos servidores estaduais do Poder Executivo, do Poder Legislativo, do Poder Judiciário e do Ministério Público estadual. Conhecimento parcial. Inconstitucionalidade. 1. Singularidades do caso afastam, excepcionalmente, a aplicação da jurisprudência do Supremo Tribunal Federal sobre a prejudicialidade da ação, visto que houve impugnação em tempo adequado e a sua inclusão em pauta antes do exaurimento da eficácia da lei temporária impugnada, existindo a possibilidade de haver efeitos em curso (art. 7º da Lei 14.506/2009). 2. Conquanto a CONAMP tenha impugnado todo o artigo 6º da Lei estadual nº 14.506/09, o referido dispositivo limita a execução orçamentária não apenas em relação aos órgãos do Ministério Público, mas também em relação aos Poderes estatais (Executivo, Legislativo e Judiciário), os quais são alheios à sua atividade de representação. Todos os fundamentos apresentados pela requerente para demonstrar a suposta inconstitucionalidade restringem-se ao Ministério Público, não alcançando os demais destinatários. Conhecimento parcial da ação. 3. O diploma normativo versa sobre execução orçamentária, impondo limites especialmente às despesas não previstas na folha normal de pessoal. Tais limites, conquanto não estejam disciplinados na lei de diretrizes orçamentárias e na lei orçamentária anual, buscam controlar a forma de gestão dos recursos orçamentários já aprovados. 4. Se ao Ministério Público é garantida a elaboração de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias, como preceitua o § 3º do artigo 127 da Constituição Federal, conclui-se que esse é o meio normativo próprio (idôneo) para a imposição de eventual contensão de gastos. A autonomia financeira não se exaure na simples elaboração da proposta orçamentária, sendo consagrada, inclusive, na execução concreta do orçamento e na utilização das dotações postas em favor do Ministério Público. Nesse ponto, o artigo 6º da Lei estadual nº 14.506/09 faz ingerência indevida na atuação do Ministério Público, uma vez que o limitador ali presente incide invariavelmente sobre despesas com pessoal devidamente amparadas por previsões na lei de diretrizes orçamentárias e na lei orçamentária anual, que não estampam qualquer ressalva a respeito. 5. Quanto à alegação da CONAMP de ofensa à garantia do direito adquirido (artigos 5º, XXXVI, CF/88), entende-se que o exame pressupõe a realização de análise casuística, incompatível com a natureza do processo objetivo de fiscalização concentrada de constitucionalidade. Fundamento que não merece ser apreciado em sede de controle concentrado, o qual não se presta a discutir fatos e casos concretos, reservados que são ao controle incidental. 6. Ação direta de inconstitucionalidade julgada parcialmente procedente para declarar, com efeitos ex tunc, a inconstitucionalidade da expressão “e do Ministério Público Estadual” contida no art. 6º da Lei nº 14.506, de 16 de novembro de 2009, do Estado do Ceará.
+
+## Decisão
+
+O Tribunal, por maioria, rejeitou as preliminares, contra o voto do Senhor Ministro Marco Aurélio, que acolhia a primeira delas. No mérito, o Tribunal, por unanimidade e nos termos do voto do Relator, conheceu em parte da ação e, na parte conhecida, julgou-a parcialmente procedente. Votou o Presidente, Ministro Cezar Peluso. Falou pela requerente o Dr. Aristides Junqueira Alvarenga. Plenário, 09.02.2011.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00002 ART-00005 INC 00036 ART-00099 PAR-00001 ART-00103 INC-00009 ART-00127 PAR-00002 PAR-00003 ART-00167 INC-00002 ART-00168 ART-00169 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000101 ANO-2000 ART-00009 "CAPUT" PAR-00003 ART-00018 ART-00019 ART-00020 ART-00021 ART-00022 ART-00023 ART-00024 LRF-2000 LEI DE RESPONSABILIDADE FISCAL LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-EST LEI-014416 ANO-2009 ART-00001 INC-00003 ART-00002 ART-00064 "CAPUT" PAR-00002 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00008 INC-00011 LEI DE DIRETRIZES ORÇAMENTÁRIAS LEI ORDINÁRIA, CE LEG-EST LEI-014506 ANO-2009 ART-00001 ART-00002 ART-00003 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 PAR-00001 PAR-00002 ART-00004 ART-00005 "CAPUT" PAR-ÚNICO ART-00006 ART-00007 ART-00008 ART-00009 LEI ORDINÁRIA, CE LEG-EST LEI-014608 ANO-2010 LEI ORÇAMENTÁRIA ANUAL LEI ORDINÁRIA, CE
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=622816)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

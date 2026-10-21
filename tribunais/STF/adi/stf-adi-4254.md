@@ -1,0 +1,25 @@
+# STF · ADI 4254
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 4254
+- **Identificador na fonte:** `stf-adi-4254`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 24/08/2020
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4254)
+
+## Ementa
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PIS/COFINS. INCIDÊNCIA SOBRE A REVENDA DE VEÍCULOS NOVOS E DE AUTOPEÇAS POR CONCESSIONÁRIAS LOCALIZADAS NA ZONA FRANCA DE MANAUS. LEI N. 11.196/2005 (INCS. III E V DO § 1º, § 2º, INC. III DO § 4º E §§ 5º E 7º DO ART. 65). AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PARCIALMENTE PROCEDENTE. 1. A eficácia do art. 40 do Ato das Disposições Constitucionais Transitórias depende da manutenção dos favores fiscais previstos no Decreto-Lei n. 288/1967, sob pena de descaracterizar-se a Zona Franca de Manaus. Inocorrência de controle de inconstitucionalidade indireto, por contrariedade a normas interpostas. Precedentes. 2. Pela Lei n. 10.485/2002, anterior à legislação impugnada (Lei n. 11.196/2005), não se instituiu regime monofásico de recolhimento de PIS/Cofins nas operações com veículos e autopeças: previsão de típica situação de substituição tributária para a frente: ausência de retrocesso à situação tributária das concessionárias, sob o aspecto de seu enquadramento como contribuintes. 3. As alíquotas de 2% de PIS/Pasep e 9,6% de Cofins fixadas no art. 1º da Lei n. 10.485/2002 resultam da composição de todas as alíquotas incidentes sobre o ciclo econômico tributado, incluída a que recai sobre a operação das revendedoras-concessionárias, reduzida a zero pelo deslocamento do recolhimento para o ponto de partida da cadeia. 4. A operação desonerada pela Constituição da República (inc. I do § 2º art. 149) é a realizada pela empresa situada fora da Zona Franca de Manaus, equiparada a empresa exportadora (art. 4º do Decreto-Lei n. 288/1987): não há fundamento jurídico para se considerarem as vendas internas realizadas pelas empresas importadoras como exportação (para o exterior). 5. A não-incidência de alíquota referente ao PIS/Pasep e à Cofins sobre venda do veículo novo ou autopeça à Zona Franca de Manaus impõe alíquota menor que as fixadas na Lei n. 10.485/2002, sob pena de afronta ao princípio da isonomia tributária, previsto no inc. II do art. 150 da Constituição da República: com a sistemática instituída pelo art. 65 da Lei n. 11.196/2005 a utilização das mesmas alíquotas agrava a situação tributária nas transações com as concessionárias-revendedoras situadas na Zona Franca de Manaus. 6. Ação direta de inconstitucionalidade julgada parcialmente procedente para declarar a inconstitucionalidade dos incs. III e V do § 1º do art. 65 da Lei n. 11.196/2005.
+
+## Decisão
+
+Após os votos dos Ministros Cármen Lúcia (Relatora), Marco Aurélio, Edson Fachin, Alexandre de Moraes, Ricardo Lewandowski, Gilmar Mendes e Rosa Weber, que julgavam parcialmente procedente o pedido, para declarar a inconstitucionalidade dos incs. III e V do § 1º do art. 65 da Lei nº 11.196, de 21.11.2005, pediu vista dos autos o Ministro Luiz Fux. Falou, pelos interessados, a Dra. Flávia Palmeira de Moura Coelho, Procuradora da Fazenda Nacional. Plenário, Sessão Virtual de 5.6.2020 a 15.6.2020. Decisão: O Tribunal, por unanimidade, julgou parcialmente procedente o pedido formulado na ação direta de inconstitucionalidade para declarar a inconstitucionalidade dos incs. III e V do § 1º do art. 65 da Lei n. 11.196, de 21.11.2005, nos termos do voto da Relatora. O Ministro Luiz Fux acompanhou a Relatora com ressalvas. Não participou deste julgamento, por motivo de licença médica, o Ministro Celso de Mello. Plenário, Sessão Virtual de 14.8.2020 a 21.8.2020.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00003 INC-00003 ART-00149 PAR-00002 INC-00001 ART-00150 INC-00002 ART-00151 INC-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000042 ANO-2003 EMENDA CONSTITUCIONAL LEG-FED EMC-000083 ANO-2014 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1988 ART-00040 ART-00092 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LEI-005025 ANO-1966 ART-00054 LEI ORDINÁRIA LEG-FED LEI-010485 ANO-2002 ART-00001 ART-00002 PAR-00002 INC-00002 LEI ORDINÁRIA LEG-FED LEI-010637 ANO-2002 ART-00002 LEI ORDINÁRIA LEG-FED LEI-010833 ANO-2003 ART-00002 LEI ORDINÁRIA LEG-FED LEI-010865 ANO-2004 LEI ORDINÁRIA LEG-FED LEI-011196 ANO-2005 ART-00065 "CAPUT" PAR-00001 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00008 PAR-00002 PAR-00004 INC-00001 INC-00002 INC-00003 PAR-00005 PAR-00007 LEI ORDINÁRIA LEG-FED DEL-005452 ANO-1943 ART-00577 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-FED DEL-000288 ANO-1967 ART-00004 DECRETO-LEI LEG-FED MPR-002037 ANO-2000 ART-00014 PAR-00002 INC-00001 MEDIDA PROVISÓRIA - REEDIÇÃO Nº 24
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753837170)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

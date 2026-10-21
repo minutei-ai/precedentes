@@ -1,0 +1,25 @@
+# STF · ADI 4055
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 4055
+- **Identificador na fonte:** `stf-adi-4055`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 17/03/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4055)
+
+## Ementa
+
+Ementa: Direito Administrativo. Lei Orgânica do Distrito Federal. Cargos em comissão de gabinetes parlamentares e das lideranças partidárias. Tema de Repercussão Geral nº 1010. Parâmetro: cargos efetivos no ente da federação. Servidores de carreira. Percentual mínimo. Proporcionalidade. Procedência parcial. I. Caso em exame 1. Ação direta de inconstitucionalidade em face do § 6º do art. 19 da Lei Orgânica do Distrito Federal (LODF) e dos arts. 1º, § 2º, 5º e 9º, § 1º, da Resolução nº 232/2007 da Câmara Legislativa do Distrito Federal. 2. Exclusão dos cargos em comissão de gabinetes parlamentares e lideranças partidárias do percentual reservado a servidores de carreira. II. Questão em discussão 3. A questão em discussão consiste em saber se o percentual de cargos em comissão reservado para o preenchimento por servidores de carreira observa o texto constitucional (art. 37, V). III. Razões de decidir 4. O parâmetro a ser observado na criação de cargos comissionados diz com a proporcionalidade entre o seu quantitativo e o total de cargos efetivos no ente da federação, não em cada órgão isoladamente. (Tema de Repercussão Geral nº 1010) 5. O legislador constituinte entendeu por não estabelecer, no texto constitucional, qualquer percentual de observância obrigatória para o preenchimento dos cargos em comissão por servidores de carreira, tendo se limitado, na exata redação do inciso V do art. 37, a dispor sobre a necessidade de que os “percentuais mínimos” sejam “previstos em lei”. 6. A liberdade de conformação assegurada aos entes federados atende à imperiosa necessidade de que a estrutura do serviço público corresponda às particularidades e exigências de cada esfera da administração pública - federal, estadual e municipal -, e, de forma muito especial, às realidades experimentadas nos seus respectivos espaços de atuação. IV. Dispositivo 7. Procedência parcial do pedido, para declarar a inconstitucionalidade do § 6º do art. 19 da Lei Orgânica do Distrito Federal. \_\_\_\_\_\_\_\_\_ Dispositivos relevantes citados: CF/1988, art. 37, V. Jurisprudência relevante citada: ADI 6.585/DF; RE 1.069.936 e RE 1.057.068.
+
+## Decisão
+
+Após o voto do Ministro Nunes Marques (Relator), que julgava procedente, em parte, o pedido, para: (i) declarar a inconstitucionalidade do § 6º do art. 19 da Lei Orgânica do Distrito Federal, incluído pela Emenda n. 50/2007; e (ii) atribuir interpretação conforme à Constituição Federal ao art. 5º da Resolução n. 232/2007 da Câmara Legislativa do Distrito Federal, consignando que o preenchimento dos cargos em comissão dos gabinetes e lideranças parlamentares deve observar os requisitos fixados no Tema n. 1.010 da repercussão geral, o processo foi destacado pelo Ministro Flávio Dino. Plenário, Sessão Virtual de 18.10.2024 a 25.10.2024. Decisão: O Tribunal, por maioria, julgou i) parcialmente procedente o pedido, para declarar a inconstitucionalidade do § 6º do art. 19 da Lei Orgânica do Distrito Federal; e, à compreensão de que os preceitos impugnados da Resolução nº 232/2007 da Câmara Legislativa do Distrito Federal não destoam do texto constitucional, ii) improcedente o pedido quanto ao § 2º do art. 1º e aos arts. 5º e 9º, § 1º, todos da Resolução nº 232/2007 da Câmara Legislativa do Distrito Federal, nos termos do voto do Ministro Flávio Dino (Redator para o acórdão), vencidos parcialmente os Ministros Nunes Marques (Relator) e Luís Roberto Barroso (Presidente), apenas no ponto em que atribuíam interpretação conforme à Constituição Federal ao art. 5º da citada Resolução. Plenário, Sessão Virtual de 7.3.2025 a 14.3.2025.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00037 INC-00002 INC-00005 INC-00009 ART-00039 ART-00059 INC-00007 ART-00061 PAR-00001 INC-00002 LET-C CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000019 ANO-1998 EMENDA CONSTITUCIONAL LEG-FED EMC-000050 ANO-2007 EMENDA CONSTITUCIONAL LEG-FED LEI-011415 ANO-2006 LEI ORDINÁRIA LEG-FED LEI-011416 ANO-2006 LEI ORDINÁRIA LEG-FED LEI-013316 ANO-2016 LEI ORDINÁRIA LEG-FED DEC-010829 ANO-2021 DECRETO LEG-FED RES-000232 ANO-2007 ART-00001 PAR-00002 ART-00005 ART-00009 PAR-00001 RESOLUÇÃO DA CÂMARA LEGISLATIVA DO DISTRITO FEDERAL, CLDF LEG-EST LEI-008077 ANO-2004 ART-00009 PAR-ÚNICO LEI ORDINÁRIA, MA LEG-DIS LCP-000840 ANO-2011 ART-00005 LEI COMPLEMENTAR LEG-DIS LEI ANO-1993 ART-00019 INC-00005 PAR-00006 LODF-1993 LEI ORGÂNICA DO DISTRITO FEDERAL LEG-DIS LEI-004858 ANO-2012 ART-00002 PAR-00002 LEI ORDINÁRIA LEG-DIS LEI-005192 ANO-2013 ART-00008 LEI ORDINÁRIA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=785686881)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,25 @@
+# STF · ADI 2416
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 2416
+- **Identificador na fonte:** `stf-adi-2416`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 12/12/2012
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2416)
+
+## Ementa
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. EXPRESSÕES DA LEI DISTRITAL 2.689/2001: "VENDA DIRETA OU MEDIANTE", CAPUT DO ART. 2º; "DISPENSADA A LICITAÇÃO", § 1º DO ART. 2º; "VENDA DIRETA OU", INC. I DO ART. 10; "DISPENSADA A LICITAÇÃO", § 2º DO ART. 11. VENDA DIRETA DE TERRAS PÚBLICAS RURAIS. CONSTITUCIONALIDADE. ART. 14 DA MESMA LEI. CRIAÇÃO DO CONSELHO DE ADMINISTRAÇÃO E FISCALIZAÇÃO DE ÁREAS PÚBLICAS RURAIS REGULARIZADAS, COMPOSTO MAJORITARIAMENTE POR PESSOAS NÃO INTEGRANTES DOS QUADROS DO PODER PÚBLICO. INCONSTITUCIONALIDADE. ADI JULGADA PARCIALMENTE PROCEDENTE. I – Não caracteriza ofensa aos arts. 22, XXVII, e 37, XXI, da Constituição a existência das seguintes expressões da Lei Distrital 2.689/2001: “venda direta ou mediante”, caput do art. 2º; “dispensada a licitação”, § 1º do art. 2º; “venda direta ou”, inc. I do art. 10; e “dispensada a licitação”, § 2º do art. 11. II – O art. 14 da Lei 2.689/2001, que cria o Conselho de Administração e Fiscalização de Áreas Públicas Rurais Regularizadas – composto majoritariamente por pessoas não integrantes dos quadros do Poder Público – é inconstitucional, uma vez que transfere aos particulares com maior interesse no assunto o juízo de conveniência e oportunidade da alienação dos bens públicos, que é competência própria da Administração Pública. III – Ação direta de constitucionalidade julgada parcialmente procedente.
+
+## Decisão
+
+O Tribunal, por unanimidade, rejeitou as preliminares. No mérito, após o voto do Senhor Ministro Eros Grau (Relator), julgando improcedente a ação direta, no que foi acompanhado pela Senhora Ministra Cármen Lúcia e pelo Senhor Ministro Sepúlveda Pertence, e abrindo divergência o Senhor Ministro Ricardo Lewandowski, julgando-a procedente, pediu vista dos autos o Senhor Ministro Carlos Britto. Ausente, justificadamente, neste julgamento, o Senhor Ministro Marco Aurélio. Falou pelo requerido, Governador do Distrito Federal, a Dra. Maria Dolores Serra de Mello Martins. Presidência da Senhora Ministra Ellen Gracie. Plenário, 20.06.2007. Decisão: Após os votos dos Senhores Ministros Eros Grau (Relator), Cármen Lúcia, Sepúlveda Pertence, Gilmar Mendes e Presidente, julgando improcedente a ação direta; os votos dos Senhores Ministros Ricardo Lewandowski, Marco Aurélio e Celso de Mello, julgando totalmente procedente a ação direta, e os votos dos Senhores Ministros Ayres Britto e Ellen Gracie, julgando-a procedente em parte, o julgamento foi suspenso para aguardar o voto do Senhor Ministro Joaquim Barbosa, licenciado. Não vota o Senhor Ministro Dias Toffoli por ter votado o Ministro Sepúlveda Pertence. Presidência do Senhor Ministro Cezar Peluso. Plenário, 16.06.2010. Decisão: Colhido o voto do Ministro Joaquim Barbosa (Presidente), o Tribunal julgou parcialmente procedente a ação direta para declarar a inconstitucionalidade do art. 14 da Lei distrital nº 2.689/2001, vencidos os Ministros Eros Grau (Relator), Cármen Lúcia, Sepúlveda Pertence, Gilmar Mendes e Cezar Peluso, que a julgaram improcedente. Redigirá o acórdão o Ministro Ricardo Lewandowski. Ausente, justificadamente, o Ministro Celso de Mello, com voto proferido em assentada anterior. Não participam da votação os Ministros Luiz Fux e Dias Toffoli. Plenário, 12.12.2012.
+
+## Ato impugnado
+
+LEG-FED EMC-000001 ANO-1969 ART-00171 "CAPUT" EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00022 INC-00027 ART-00030 INC-00008 ART-00037 INC-00021 PAR-00003 ART-00191 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-004504 ANO-1964 ART-00011 PAR-00001 ET-1964 ESTATUTO DA TERRA LEG-FED LEI-006383 ANO-1976 ART-00029 INC-00001 INC-00002 PAR-00001 PAR-00002 PAR-00003 LEI ORDINÁRIA LEG-FED LEI-008666 ANO-1993 ART-00017 INC-00001 LET-F INCLUÍDO PELA LEI-8883/1994 ART-00017 INC-00001 LET-F REDAÇÃO DADA PELA LEI-11481/2007 ART-00017 INC-00001 LET-G INCLUÍDO PELA LEI-11196/2005 ART-00025 LLC-1993 LEI DE LICITAÇÕES LEG-FED LEI-008883 ANO-1994 LEI ORDINÁRIA LEG-FED LEI-009262 ANO-1996 LEI ORDINÁRIA LEG-FED LEI-011196 ANO-2005 LEI ORDINÁRIA LEG-FED LEI-011481 ANO-2007 LEI ORDINÁRIA LEG-DIS LEI-002689 ANO-2001 ART-00002 "CAPUT" PAR-00001 ART-00006 ART-00008 INC-00002 PAR-00005 ART-00010 INC-00001 ART-00011 "CAPUT" INC-00001 INC-00002 PAR-00002 "CAPUT" ART-00014 PAR-00003 INC-00001 INC-00002 INC-00003 INC-00004 PAR-00004 INC-00001 INC-00002 ART-00015 PAR-00001 ART-00019 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 LEI ORDINÁRIA, DF
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=630031)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

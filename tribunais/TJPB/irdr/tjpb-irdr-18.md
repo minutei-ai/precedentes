@@ -1,0 +1,23 @@
+# TJPB · IRDR 18
+
+- **Tribunal:** TJPB
+- **Espécie:** Incidente de Resolução de Demandas Repetitivas
+- **Número:** 18
+- **Identificador na fonte:** `tjpb-irdr-18`
+- **Situação na fonte:** Admitido
+- **Atualização informada pela fonte:** 16/06/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjpb&tipo=IRDR&nr=18)
+
+## Questão submetida a julgamento
+
+Fixação de tese a respeito da legalidade da suspensão e/ou descredenciamento unilateral de motoristas, sem prévia notificação, por empresa criadora e administradora da plataforma digital intermediadora de transporte, bem como a caracterização do dever de indenizar por lucros cessantes e danos morais em tal conjuntura.
+
+## Texto disponibilizado pela fonte
+
+string
+
+## Processos paradigma
+
+- [08153104820258150000](https://www.tjpb.jus.br/nugep/irdr)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJPB/).

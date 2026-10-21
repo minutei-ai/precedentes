@@ -1,0 +1,23 @@
+# STJ · RR 409
+
+- **Tribunal:** STJ
+- **Espécie:** Recurso Especial Repetitivo
+- **Número:** 409
+- **Identificador na fonte:** `stj-rr-409`
+- **Situação na fonte:** Transitado em julgado
+- **Atualização informada pela fonte:** 07/10/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stj&tipo=RR&nr=409)
+
+## Questão submetida a julgamento
+
+Discussão acerca do cabimento de honorários advocatícios em fase de cumprimento de sentença, bem como na sua impugnação, de acordo com a sistemática processual introduzida pela Lei nº 11.232/05.
+
+## Texto disponibilizado pela fonte
+
+Em caso de sucesso da impugnação, com extinção do feito mediante sentença (art. 475-M, § 3º), revela-se que quem deu causa ao procedimento de cumprimento de sentença foi o exequente, devendo ele arcar com as verbas advocatícias.
+
+## Processos paradigma
+
+- [00458421820088217000](https://processo.stj.jus.br/processo/pesquisa/?termo=200900662419&aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&chkordem=DESC&chkMorto=MORTO)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STJ/).

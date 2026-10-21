@@ -1,0 +1,25 @@
+# STF · ADI 6165
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6165
+- **Identificador na fonte:** `stf-adi-6165`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 22/06/2020
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6165)
+
+## Ementa
+
+Ementa: CONSTITUCIONAL E ADMINISTRATIVO. INTERDEPENDÊNCIA E COMPLEMENTARIDADE DAS NORMAS CONSTITUCIONAIS PREVISTAS NOS ARTIGOS 37, CAPUT, XI, E 39, §§ 4º E 8º, E DAS PREVISÕES ESTABELECIDAS NO TÍTULO IV, CAPÍTULO IV, SEÇÕES II E IV, DO TEXTO CONSTITUCIONAL. POSSIBILIDADE DO RECEBIMENTO DE VERBA DE HONORÁRIOS DE SUCUMBÊNCIA POR ADVOGADOS PÚBLICOS CUMULADA COM SUBSÍDIO. NECESSIDADE DE ABSOLUTO RESPEITO AO TETO CONSTITUCIONAL DO FUNCIONALISMO PÚBLICO. 1. A natureza constitucional dos serviços prestados pelos advogados públicos possibilita o recebimento da verba de honorários sucumbenciais, nos termos da lei. A CORTE, recentemente, assentou que “o artigo 39, § 4º, da Constituição Federal, não constitui vedação absoluta de pagamento de outras verbas além do subsídio” (ADI 4.941, Rel. Min. TEORI ZAVASCKI, Relator p/ acórdão, Min. LUIZ FUX, DJe de 7/2/2020). 2. Nada obstante compatível com o regime de subsídio, sobretudo quando estruturado como um modelo de remuneração por performance, com vistas à eficiência do serviço público, a possibilidade de advogados públicos perceberem verbas honorárias sucumbenciais não afasta a incidência do teto remuneratório estabelecido pelo art. 37, XI, da Constituição Federal. 3. AÇÃO PARCIALMENTE PROCEDENTE.
+
+## Decisão
+
+O Tribunal, por maioria, declarou a constitucionalidade da percepção de honorários de sucumbência pelos Procuradores do Estado do Tocantins e julgou parcialmente procedente o pedido formulado na ação direta para, conferindo interpretação conforme à Constituição ao art. 39 da Lei Complementar estadual 20/1999, com alterações da Lei Complementar 92/2014, e à Resolução 1/2014 do Conselho dos Procuradores da Procuradoria-Geral do Estado, ambas do Estado do Tocantins, estabelecer que a somatória dos subsídios e honorários de sucumbência percebidos mensalmente pelos Procuradores do Estado do Tocantins não poderá exceder ao teto dos Ministros do Supremo Tribunal Federal, conforme o que dispõe o art. 37, XI, da Constituição Federal, nos termos do voto do Relator, vencido o Ministro Marco Aurélio. O Ministro Roberto Barroso acompanhou o Relator com ressalvas. Falou, pelo interessado Governador do Estado de Tocantins, o Dr. Frederico Cézar Abinader Dutra, Procurador do Estado. Plenário, Sessão Virtual de 12.6.2020 a 19.6.2020.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 "CAPUT" ART-00022 INC-00001 ART-00037 "CAPUT" INC-00011 ART-00037 ART-00039 PAR-00003 PAR-00004 PAR-00008 ART-00039 PAR-00004 PAR-00008 ART-00095 PAR-ÚNICO INC-00002 ART-00128 PAR-00005 INC-00002 LET-A ART-00131 PAR-00001 PAR-00002 PAR-00003 ART-00132 PAR-ÚNICO ART-00135 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000019 ANO-1998 EMENDA CONSTITUCIONAL LEG-FED LEI-005869 ANO-1973 ART-00020 "CAPUT" CPC-1973 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-008906 ANO-1994 ART-00001 PAR-00002 ART-00003 PAR-00001 ART-00021 "CAPUT" PAR-ÚNICO ART-00022 "CAPUT" ART-00023 ART-00024 PAR-00003 ART-00078 EOAB-1994 ESTATUTO DA ADVOCACIA E ORDEM DOS ADVOGADOS DO BRASIL LEG-FED LEI-013105 ANO-2015 ART-00085 "CAPUT" PAR-00002 INC-00001 INC-00002 INC-00003 INC-00004 PAR-00014 CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-013327 ANO-2016 ART-00034 PAR-00007 LEI ORDINÁRIA LEG-FED LEI-013898 ANO-2019 ART-0102A LEI ORDINÁRIA LEG-FED LEI-013957 ANO-2019 LEI ORDINÁRIA LEG-FED DEL-001608 ANO-1939 CPC-1939 CÓDIGO DE PROCESSO CIVIL LEG-FED SUV-000047 SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL - STF LEG-EST LCP-000007 ANO-1991 ART-00081 INC-00010 LEI COMPLEMENTAR, AL LEG-EST LCP-000020 ANO-1999 ART-00039 "CAPUT" PAR-ÚNICO LEI COMPLEMENTAR, TO LEG-EST LCP-000071 ANO-2003 ART-00014 PAR-00003 INC-00005 ART-00074 LEI COMPLEMENTAR, RR LEG-EST LCP-000092 ANO-2014 LEI COMPLEMENTAR, TO LEG-EST LCP-000528 ANO-2014 ART-00005 LEI COMPLEMENTAR, RN LEG-EST LEI-000484 ANO-2005 ART-00002 PAR-ÚNICO LEI ORDINÁRIA, RR LEG-EST LEI-006975 ANO-2008 LEI ORDINÁRIA, AL LEG-EST LEI-007406 ANO-2012 LEI ORDINÁRIA, AL LEG-EST DEC-004804 ANO-2010 ART-00007 INC-00005 DECRETO, AL LEG-EST RES-000001 ANO-2014 ART-00001 PAR-00001 PAR-00002 ART-00002 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 ART-00003 ART-00004 ART-00005 ART-00006 ART-00007 RESOLUÇÃO DO CONSELHO DOS PROCURADORES DA PROCURADORIA-GERAL DO ESTADO DE TOCANTINS - CPPGE/TO LEG-EST RES-000002 ANO-2016 RESOLUÇÃO CONSELHO SUPERIOR DA PROCURADORIA GERAL DO ESTADO DO RIO GRANDE DO NORTE - CSPGE/RN LEG-MUN LEI-001929 ANO-2008 ART-00004 LEI ORDINÁRIA DO MUNICÍPIO DE ALECRIM, RS
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753408952)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

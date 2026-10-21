@@ -1,0 +1,85 @@
+# TJBA · Incidente de Resolução de Demandas Repetitivas
+
+**81 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](tjba-irdr-1.md) — Transitado em julgado
+- [IRDR 2](tjba-irdr-2.md) — Transitado em julgado
+- [IRDR 3](tjba-irdr-3.md) — Transitado em julgado
+- [IRDR 4](tjba-irdr-4.md) — Cancelado
+- [IRDR 5](tjba-irdr-5.md) — Acórdão Publicado (RE Pendente)
+- [IRDR 6](tjba-irdr-6.md) — Transitado em julgado
+- [IRDR 7](tjba-irdr-7.md) — Transitado em julgado
+- [IRDR 8](tjba-irdr-8.md) — Transitado em julgado
+- [IRDR 9](tjba-irdr-9.md) — Transitado em julgado
+- [IRDR 10](tjba-irdr-10.md) — Transitado em julgado
+- [IRDR 11](tjba-irdr-11.md) — Transitado em julgado
+- [IRDR 12](tjba-irdr-12.md) — Acórdão Publicado (AREsp Pendente)
+- [IRDR 13](tjba-irdr-13.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 14](tjba-irdr-14.md) — Transitado em julgado
+- [IRDR 15](tjba-irdr-15.md) — Acórdão Publicado
+- [IRDR 16](tjba-irdr-16.md) — Transitado em julgado
+- [IRDR 17](tjba-irdr-17.md) — Admitido
+- [IRDR 18](tjba-irdr-18.md) — Admitido
+- [IRDR 19](tjba-irdr-19.md) — Acórdão Publicado (AREsp Pendente)
+- [IRDR 20](tjba-irdr-20.md) — Admitido
+- [IRDR 21](tjba-irdr-21.md) — Cancelado
+- [IRDR 22](tjba-irdr-22.md) — Admitido
+- [IRDR 23](tjba-irdr-23.md) — Transitado em julgado
+- [IRDR 24](tjba-irdr-24.md) — Cancelado
+- [IRDR 25](tjba-irdr-25.md) — Admitido
+- [IRDR 26](tjba-irdr-26.md) — Admitido
+- [IRDR 27](tjba-irdr-27.md) — Admitido
+- [IRDR 712](tjba-irdr-712.md) — Não admitido
+- [IRDR 812](tjba-irdr-812.md) — Não admitido
+- [IRDR 912](tjba-irdr-912.md) — Não admitido
+- [IRDR 1012](tjba-irdr-1012.md) — Não admitido
+- [IRDR 1112](tjba-irdr-1112.md) — Não admitido
+- [IRDR 1212](tjba-irdr-1212.md) — Não admitido
+- [IRDR 1312](tjba-irdr-1312.md) — Não admitido
+- [IRDR 1412](tjba-irdr-1412.md) — Não admitido
+- [IRDR 1512](tjba-irdr-1512.md) — Não admitido
+- [IRDR 1612](tjba-irdr-1612.md) — Não admitido
+- [IRDR 1712](tjba-irdr-1712.md) — Não admitido
+- [IRDR 1812](tjba-irdr-1812.md) — Não admitido
+- [IRDR 1912](tjba-irdr-1912.md) — Não admitido
+- [IRDR 2012](tjba-irdr-2012.md) — Não admitido
+- [IRDR 2112](tjba-irdr-2112.md) — Não admitido
+- [IRDR 2212](tjba-irdr-2212.md) — Não admitido
+- [IRDR 2312](tjba-irdr-2312.md) — Não admitido
+- [IRDR 2412](tjba-irdr-2412.md) — Não admitido
+- [IRDR 2512](tjba-irdr-2512.md) — Não admitido
+- [IRDR 2612](tjba-irdr-2612.md) — Não admitido
+- [IRDR 2712](tjba-irdr-2712.md) — Não admitido
+- [IRDR 2812](tjba-irdr-2812.md) — Não admitido
+- [IRDR 2912](tjba-irdr-2912.md) — Não admitido
+- [IRDR 3012](tjba-irdr-3012.md) — Não admitido
+- [IRDR 3112](tjba-irdr-3112.md) — Não admitido
+- [IRDR 3212](tjba-irdr-3212.md) — Não admitido
+- [IRDR 3312](tjba-irdr-3312.md) — Não admitido
+- [IRDR 3412](tjba-irdr-3412.md) — Não admitido
+- [IRDR 3512](tjba-irdr-3512.md) — Não admitido
+- [IRDR 3612](tjba-irdr-3612.md) — Não admitido
+- [IRDR 3712](tjba-irdr-3712.md) — Não admitido
+- [IRDR 3812](tjba-irdr-3812.md) — Não admitido
+- [IRDR 3912](tjba-irdr-3912.md) — Não admitido
+- [IRDR 4012](tjba-irdr-4012.md) — Não admitido
+- [IRDR 4112](tjba-irdr-4112.md) — Não admitido
+- [IRDR 4212](tjba-irdr-4212.md) — Não admitido
+- [IRDR 4312](tjba-irdr-4312.md) — Não admitido
+- [IRDR 4412](tjba-irdr-4412.md) — Não admitido
+- [IRDR 4512](tjba-irdr-4512.md) — Não admitido
+- [IRDR 4612](tjba-irdr-4612.md) — Não admitido
+- [IRDR 4712](tjba-irdr-4712.md) — Não admitido
+- [IRDR 4812](tjba-irdr-4812.md) — Não admitido
+- [IRDR 4912](tjba-irdr-4912.md) — Não admitido
+- [IRDR 5012](tjba-irdr-5012.md) — Não admitido
+- [IRDR 5112](tjba-irdr-5112.md) — Não admitido
+- [IRDR 5212](tjba-irdr-5212.md) — Não admitido
+- [IRDR 5312](tjba-irdr-5312.md) — Não admitido
+- [IRDR 5412](tjba-irdr-5412.md) — Não admitido
+- [IRDR 5512](tjba-irdr-5512.md) — Não admitido
+- [IRDR 5612](tjba-irdr-5612.md) — Não admitido
+- [IRDR 5712](tjba-irdr-5712.md) — Não admitido
+- [IRDR 5812](tjba-irdr-5812.md) — Não admitido
+- [IRDR 5912](tjba-irdr-5912.md) — Não admitido
+- [IRDR 6712](tjba-irdr-6712.md) — Não admitido

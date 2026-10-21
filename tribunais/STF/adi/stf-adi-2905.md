@@ -1,0 +1,25 @@
+# STF · ADI 2905
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 2905
+- **Identificador na fonte:** `stf-adi-2905`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 16/11/2016
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2905)
+
+## Ementa
+
+COMPETÊNCIA NORMATIVA – COMERCIALIZAÇÃO DE TÍTULOS DE CAPITALIZAÇÃO – DISCIPLINA. A teor do disposto no artigo 22 da Constituição Federal, compete exclusivamente à União legislar sobre Direito Civil, Direito Comercial, política de crédito, câmbio, seguros e transferências de valores, sistema de poupança, captação e garantia da poupança popular.
+
+## Decisão
+
+Após os votos dos Senhores Ministros Eros Grau (Relator), Marco Aurélio e Cezar Peluso, julgando procedente a ação direta, pediu vista dos autos a Senhora Ministra Cármen Lúcia. Falou pela requerente o Dr. Gustavo Miguez de Mello. Ausentes, licenciado, o Senhor Ministro Celso de Mello e, neste julgamento, a Senhora Ministra Ellen Gracie. Presidência do Senhor Ministro Gilmar Mendes. Plenário, 25.02.2010. Decisão: Após o voto-vista da Ministra Cármen Lúcia, julgando parcialmente procedente o pedido formulado para declarar a inconstitucionalidade apenas do inciso III do art. 3º da Lei nº 14.507/2002, do Estado de Minas Gerais, e da expressão “ou publicidade”, constante do art. 2º da referida lei estadual, no que foi acompanhada pelos Ministros Roberto Barroso, Rosa Weber e Celso de Mello, e após o voto do Ministro Ricardo Lewandowski (Presidente), acompanhando o Ministro Eros Grau (Relator) pela procedência do pedido, o julgamento foi suspenso para aguardar os votos dos ministros ausentes. Não votaram os Ministros Teori Zavascki e Luiz Fux por sucederem, respectivamente, aos Ministros Cezar Peluso e Eros Grau (Relator). Ausentes, justificadamente, o Ministro Dias Toffoli, participando do Congresso Internacional “Diálogos Judiciales en el Sistema Interamericano de Garantía de los Derechos Humanos”, realizado em Barcelona, Espanha, e, neste julgamento, o Ministro Gilmar Mendes. Plenário, 26.02.2015. Decisão: Após o voto do Ministro Edson Fachin, que julgava parcialmente procedente o pedido formulado, acompanhando o voto divergente da Ministra Cármen Lúcia, proferido em assentada anterior, e após o voto do Ministro Dias Toffoli, que julgava procedente o pedido, acompanhando o Relator, o julgamento foi suspenso para aguardar o voto de desempate do Ministro Gilmar Mendes. Não votaram os Ministros Teori Zavascki e Luiz Fux por sucederem, respectivamente, aos Ministros Cezar Peluso e Eros Grau (Relator). Ausentes, justificadamente, os Ministros Celso de Mello, Gilmar Mendes e, para participar do XXII Encontro de Presidentes e Magistrados de Tribunais e Salas Constitucionais da América Latina, na Cidade do México, a Ministra Cármen Lúcia. Presidência do Ministro Ricardo Lewandowski. Plenário, 15.06.2016. Decisão: Colhido o voto do Ministro Gilmar Mendes, o Tribunal, por maioria e nos termos do voto do Relator, julgou procedente o pedido formulado para declarar a inconstitucionalidade da Lei nº 14.507/2002, do Estado de Minas Gerais, vencidos, em parte, os Ministros Cármen Lúcia, Roberto Barroso, Rosa Weber, Celso de Mello e Edson Fachin. Redigirá o acórdão o Ministro Marco Aurélio (art. 38, IV, b, RISTF). Ausente, justificadamente, o Ministro Celso de Mello, que proferiu voto em assentada anterior. Presidiu o julgamento a Ministra Cármen Lúcia. Plenário, 16.11.2016.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1967 ART-00008 PAR-ÚNICO CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00005 INC-00032 ART-00021 ART-00022 INC-00001 INC-00006 INC-00007 INC-00011 INC-00019 INC-00020 INC-00029 PAR-ÚNICO ART-00023 ART-00024 "CAPUT" INC-00005 INC-00008 PAR-00001 PAR-00002 PAR-00003 PAR-00004 ART-00048 INC-00013 ART-00192 ART-00227 PAR-00002 ART-00244 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005768 ANO-1971 LEI ORDINÁRIA LEG-FED LEI-008078 ANO-1990 ART-00003 PAR-00002 ART-00006 INC-00003 ART-00039 INC-00001 ART-00056 INC-00001 INC-00006 INC-00007 INC-00012 CDC-1990 CÓDIGO DE DEFESA DO CONSUMIDOR LEG-FED LEI-009868 ANO-1999 ART-00012 LEI ORDINÁRIA LEG-FED DEL-000073 ANO-1966 ART-00007 DECRETO-LEI LEG-FED DEL-000261 ANO-1967 ART-00003 PAR-00001 PAR-00002 DECRETO-LEI LEG-FED DEC-006388 ANO-2008 DECRETO LEG-FED RES-000015 ANO-1991 ART-00002 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 RESOLUÇÃO DO CONSELHO NACIONAL DE SEGUROS PRIVADOS - CNSP LEG-FED CIR-000376 ANO-2008 CIRCULAR DA SUPERINTENDÊNCIA DE SEGUROS PRIVADOS - SUSEP LEG-EST LEI-010820 ANO-1992 LEI ORDINÁRIA, MG LEG-EST LEI-014507 ANO-2002 ART-00001 ART-00002 ART-00003 INC-00001 INC-00002 INC-00003 INC-00004 PAR-ÚNICO ART-00004 ART-00005 LEI ORDINÁRIA, MG LEG-EST PJL-001269 ANO-2000 PROJETO DE LEI, MG
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=14276103)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,25 @@
+# STF · ADI 3147
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 3147
+- **Identificador na fonte:** `stf-adi-3147`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 10/08/2006
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3147)
+
+## Ementa
+
+EMENTA: CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DECRETOS NºS 11.106/03 E 11.435/04, DO ESTADO DO PIAUÍ. USURPAÇÃO DA COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE SISTEMA DE CONSÓRCIOS E SORTEIOS (INCISO XX DO ART. 22). Ação procedente.
+
+## Decisão
+
+O Tribunal, por maioria, julgou procedente a ação direta, nos termos do voto do Relator, vencido o Senhor Ministro Marco Aurélio. Votou o Presidente, Ministro Gilmar Mendes (Vice-Presidente no exercício da Presidência). Ausente, justificadamente, a Senhora Ministra Ellen Gracie (Presidente). Plenário, 10.08.2006.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1967 ART-00008 ART-00013 PAR-00001 REDAÇÃO DADA PELA EMC-1/1969 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00005 INC-00002 INC-00042 INC-00044 ART-00019 INC-00003 ART-00022 INC-00001 INC-00020 PAR-ÚNICO ART-00025 PAR-00001 ART-00037 "CAPUT" ART-00170 PAR-ÚNICO ART-00173 "CAPUT" ART-00195 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005768 ANO-1971 LEI ORDINÁRIA LEG-FED LEI-005864 ANO-1972 LEI ORDINÁRIA LEG-FED LEI-006717 ANO-1979 LEI ORDINÁRIA LEG-FED LEI-008672 ANO-1993 LEI ZICO LEI ORDINÁRIA LEG-FED LEI-009615 ANO-1998 ART-00059 REDAÇÃO DADA PELA MPR-2216-37/2001 LEI PELÉ LEI ORDINÁRIA LEG-FED MPR-002216 ANO-2001 ART-00017 REEDIÇÃO N° 31 MEDIDA PROVISÓRIA LEG-FED MPR-000168 ANO-2004 MEDIDA PROVISÓRIA LEG-FED DEL-021143 ANO-1932 DECRETO-LEI LEG-FED DEL-002980 ANO-1941 DECRETO-LEI LEG-FED DEL-006259 ANO-1944 DECRETO-LEI LEG-FED DEL-000204 ANO-1967 ART-00001 ART-00050 "CAPUT" PAR-00001 PAR-00002 PAR-00003 LET-A LET-B LET-C PAR-00004 LET-A LET-B LET-C LET-D ART-00051 "CAPUT" PAR-00001 PAR-00002 PAR-00003 DECRETO-LEI LEG-EST DEC-011106 ANO-2003 DECRETO, PI LEG-EST DEC-011435 ANO-2004 DECRETO, PI
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=363321)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

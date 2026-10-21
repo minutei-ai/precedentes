@@ -1,0 +1,318 @@
+# TST · Incidente de Recurso Repetitivo
+
+**314 registros.** [Voltar ao tribunal](../)
+
+- [IRR 1](tst-irr-1.md) — Transitado em julgado
+- [IRR 2](tst-irr-2.md) — Acórdão Publicado (RE Pendente)
+- [IRR 3](tst-irr-3.md) — Transitado em julgado
+- [IRR 4](tst-irr-4.md) — Transitado em julgado
+- [IRR 5](tst-irr-5.md) — Transitado em julgado
+- [IRR 6](tst-irr-6.md) — Transitado em julgado
+- [IRR 7](tst-irr-7.md) — Transitado em julgado
+- [IRR 8](tst-irr-8.md) — Transitado em julgado
+- [IRR 9](tst-irr-9.md) — Transitado em julgado
+- [IRR 10](tst-irr-10.md) — Transitado em julgado
+- [IRR 11](tst-irr-11.md) — Acórdão Publicado (RE Pendente)
+- [IRR 12](tst-irr-12.md) — Transitado em julgado
+- [IRR 13](tst-irr-13.md) — Acórdão Publicado (RE Pendente)
+- [IRR 14](tst-irr-14.md) — Transitado em julgado
+- [IRR 15](tst-irr-15.md) — Transitado em julgado
+- [IRR 16](tst-irr-16.md) — Transitado em julgado
+- [IRR 17](tst-irr-17.md) — Transitado em julgado
+- [IRR 18](tst-irr-18.md) — Transitado em julgado
+- [IRR 19](tst-irr-19.md) — Transitado em julgado
+- [IRR 20](tst-irr-20.md) — Acórdão Publicado
+- [IRR 21](tst-irr-21.md) — Mérito julgado
+- [IRR 22](tst-irr-22.md) — Afetado
+- [IRR 23](tst-irr-23.md) — Transitado em julgado
+- [IRR 24](tst-irr-24.md) — Acórdão Publicado
+- [IRR 25](tst-irr-25.md) — Afetado
+- [IRR 26](tst-irr-26.md) — Mérito julgado
+- [IRR 27](tst-irr-27.md) — Afetado
+- [IRR 28](tst-irr-28.md) — Afetado
+- [IRR 29](tst-irr-29.md) — Afetado
+- [IRR 30](tst-irr-30.md) — Afetado
+- [IRR 31](tst-irr-31.md) — Afetado
+- [IRR 32](tst-irr-32.md) — Mérito julgado
+- [IRR 33](tst-irr-33.md) — Afetado
+- [IRR 34](tst-irr-34.md) — Afetado
+- [IRR 35](tst-irr-35.md) — Afetado
+- [IRR 36](tst-irr-36.md) — Afetado - possível revisão de tese
+- [IRR 37](tst-irr-37.md) — Afetado
+- [IRR 38](tst-irr-38.md) — Afetado
+- [IRR 39](tst-irr-39.md) — Mérito julgado
+- [IRR 40](tst-irr-40.md) — Afetado
+- [IRR 41](tst-irr-41.md) — Transitado em julgado
+- [IRR 42](tst-irr-42.md) — Afetado
+- [IRR 43](tst-irr-43.md) — Afetado
+- [IRR 44](tst-irr-44.md) — Afetado
+- [IRR 45](tst-irr-45.md) — Afetado
+- [IRR 46](tst-irr-46.md) — Transitado em julgado
+- [IRR 47](tst-irr-47.md) — Afetado
+- [IRR 48](tst-irr-48.md) — Afetado
+- [IRR 49](tst-irr-49.md) — Afetado
+- [IRR 50](tst-irr-50.md) — Transitado em julgado
+- [IRR 51](tst-irr-51.md) — Transitado em julgado
+- [IRR 52](tst-irr-52.md) — Transitado em julgado
+- [IRR 53](tst-irr-53.md) — Transitado em julgado
+- [IRR 54](tst-irr-54.md) — Acórdão Publicado (RE Pendente)
+- [IRR 55](tst-irr-55.md) — Transitado em julgado
+- [IRR 56](tst-irr-56.md) — Transitado em julgado
+- [IRR 57](tst-irr-57.md) — Transitado em julgado
+- [IRR 58](tst-irr-58.md) — Transitado em julgado
+- [IRR 59](tst-irr-59.md) — Acórdão Publicado (RE Pendente)
+- [IRR 60](tst-irr-60.md) — Transitado em julgado
+- [IRR 61](tst-irr-61.md) — Transitado em julgado
+- [IRR 62](tst-irr-62.md) — Transitado em julgado
+- [IRR 63](tst-irr-63.md) — Transitado em julgado
+- [IRR 64](tst-irr-64.md) — Transitado em julgado
+- [IRR 65](tst-irr-65.md) — Transitado em julgado
+- [IRR 66](tst-irr-66.md) — Transitado em julgado
+- [IRR 67](tst-irr-67.md) — Transitado em julgado
+- [IRR 68](tst-irr-68.md) — Transitado em julgado
+- [IRR 69](tst-irr-69.md) — Acórdão Publicado (RE Pendente)
+- [IRR 70](tst-irr-70.md) — Transitado em julgado
+- [IRR 71](tst-irr-71.md) — Transitado em julgado
+- [IRR 72](tst-irr-72.md) — Transitado em julgado
+- [IRR 73](tst-irr-73.md) — Acórdão Publicado (RE Pendente)
+- [IRR 74](tst-irr-74.md) — Transitado em julgado
+- [IRR 75](tst-irr-75.md) — Transitado em julgado
+- [IRR 76](tst-irr-76.md) — Transitado em julgado
+- [IRR 77](tst-irr-77.md) — Transitado em julgado
+- [IRR 78](tst-irr-78.md) — Transitado em julgado
+- [IRR 79](tst-irr-79.md) — Transitado em julgado
+- [IRR 80](tst-irr-80.md) — Transitado em julgado
+- [IRR 81](tst-irr-81.md) — Transitado em julgado
+- [IRR 82](tst-irr-82.md) — Transitado em julgado
+- [IRR 83](tst-irr-83.md) — Transitado em julgado
+- [IRR 84](tst-irr-84.md) — Acórdão Publicado (RE Pendente)
+- [IRR 85](tst-irr-85.md) — Transitado em julgado
+- [IRR 86](tst-irr-86.md) — Transitado em julgado
+- [IRR 87](tst-irr-87.md) — Transitado em julgado
+- [IRR 88](tst-irr-88.md) — Acórdão Publicado
+- [IRR 89](tst-irr-89.md) — Afetado
+- [IRR 90](tst-irr-90.md) — Afetado
+- [IRR 91](tst-irr-91.md) — Mérito julgado
+- [IRR 92](tst-irr-92.md) — Afetado
+- [IRR 93](tst-irr-93.md) — Afetado
+- [IRR 94](tst-irr-94.md) — Afetado
+- [IRR 95](tst-irr-95.md) — Afetado
+- [IRR 96](tst-irr-96.md) — Afetado
+- [IRR 97](tst-irr-97.md) — Afetado
+- [IRR 98](tst-irr-98.md) — Afetado
+- [IRR 99](tst-irr-99.md) — Afetado
+- [IRR 100](tst-irr-100.md) — Afetado
+- [IRR 101](tst-irr-101.md) — Acórdão Publicado
+- [IRR 102](tst-irr-102.md) — Afetado
+- [IRR 103](tst-irr-103.md) — Afetado
+- [IRR 104](tst-irr-104.md) — Afetado
+- [IRR 105](tst-irr-105.md) — Afetado
+- [IRR 106](tst-irr-106.md) — Sobrestado por tema do STF
+- [IRR 107](tst-irr-107.md) — Afetado
+- [IRR 108](tst-irr-108.md) — Afetado
+- [IRR 109](tst-irr-109.md) — Afetado
+- [IRR 110](tst-irr-110.md) — Afetado
+- [IRR 111](tst-irr-111.md) — Afetado
+- [IRR 112](tst-irr-112.md) — Afetado
+- [IRR 113](tst-irr-113.md) — Afetado
+- [IRR 114](tst-irr-114.md) — Afetado
+- [IRR 115](tst-irr-115.md) — Afetado
+- [IRR 116](tst-irr-116.md) — Afetado
+- [IRR 117](tst-irr-117.md) — Afetado
+- [IRR 118](tst-irr-118.md) — Transitado em julgado
+- [IRR 119](tst-irr-119.md) — Transitado em julgado
+- [IRR 120](tst-irr-120.md) — Transitado em julgado
+- [IRR 121](tst-irr-121.md) — Transitado em julgado
+- [IRR 122](tst-irr-122.md) — Acórdão Publicado (RE Pendente)
+- [IRR 123](tst-irr-123.md) — Transitado em julgado
+- [IRR 124](tst-irr-124.md) — Transitado em julgado
+- [IRR 125](tst-irr-125.md) — Transitado em julgado
+- [IRR 126](tst-irr-126.md) — Acórdão Publicado (RE Pendente)
+- [IRR 127](tst-irr-127.md) — Transitado em julgado
+- [IRR 128](tst-irr-128.md) — Transitado em julgado
+- [IRR 129](tst-irr-129.md) — Acórdão Publicado (RE Pendente)
+- [IRR 130](tst-irr-130.md) — Transitado em julgado
+- [IRR 131](tst-irr-131.md) — Transitado em julgado
+- [IRR 132](tst-irr-132.md) — Transitado em julgado
+- [IRR 133](tst-irr-133.md) — Transitado em julgado
+- [IRR 134](tst-irr-134.md) — Acórdão Publicado (RE Pendente)
+- [IRR 135](tst-irr-135.md) — Transitado em julgado
+- [IRR 136](tst-irr-136.md) — Transitado em julgado
+- [IRR 137](tst-irr-137.md) — Transitado em julgado
+- [IRR 138](tst-irr-138.md) — Acórdão Publicado
+- [IRR 139](tst-irr-139.md) — Transitado em julgado
+- [IRR 140](tst-irr-140.md) — Transitado em julgado
+- [IRR 141](tst-irr-141.md) — Transitado em julgado
+- [IRR 142](tst-irr-142.md) — Transitado em julgado
+- [IRR 143](tst-irr-143.md) — Transitado em julgado
+- [IRR 144](tst-irr-144.md) — Transitado em julgado
+- [IRR 145](tst-irr-145.md) — Acórdão Publicado (RE Pendente)
+- [IRR 146](tst-irr-146.md) — Transitado em julgado
+- [IRR 147](tst-irr-147.md) — Afetado
+- [IRR 148](tst-irr-148.md) — Afetado
+- [IRR 149](tst-irr-149.md) — Afetado
+- [IRR 150](tst-irr-150.md) — Afetado
+- [IRR 151](tst-irr-151.md) — Afetado
+- [IRR 152](tst-irr-152.md) — Afetado
+- [IRR 153](tst-irr-153.md) — Afetado
+- [IRR 154](tst-irr-154.md) — Afetado
+- [IRR 155](tst-irr-155.md) — Transitado em julgado
+- [IRR 156](tst-irr-156.md) — Transitado em julgado
+- [IRR 157](tst-irr-157.md) — Transitado em julgado
+- [IRR 158](tst-irr-158.md) — Transitado em julgado
+- [IRR 159](tst-irr-159.md) — Acórdão Publicado
+- [IRR 160](tst-irr-160.md) — Transitado em julgado
+- [IRR 161](tst-irr-161.md) — Transitado em julgado
+- [IRR 162](tst-irr-162.md) — Transitado em julgado
+- [IRR 163](tst-irr-163.md) — Transitado em julgado
+- [IRR 164](tst-irr-164.md) — Transitado em julgado
+- [IRR 165](tst-irr-165.md) — Transitado em julgado
+- [IRR 166](tst-irr-166.md) — Transitado em julgado
+- [IRR 167](tst-irr-167.md) — Transitado em julgado
+- [IRR 168](tst-irr-168.md) — Transitado em julgado
+- [IRR 169](tst-irr-169.md) — Transitado em julgado
+- [IRR 170](tst-irr-170.md) — Transitado em julgado
+- [IRR 171](tst-irr-171.md) — Transitado em julgado
+- [IRR 172](tst-irr-172.md) — Transitado em julgado
+- [IRR 173](tst-irr-173.md) — Transitado em julgado
+- [IRR 174](tst-irr-174.md) — Transitado em julgado
+- [IRR 175](tst-irr-175.md) — Transitado em julgado
+- [IRR 176](tst-irr-176.md) — Transitado em julgado
+- [IRR 177](tst-irr-177.md) — Acórdão Publicado (RE Pendente)
+- [IRR 178](tst-irr-178.md) — Transitado em julgado
+- [IRR 179](tst-irr-179.md) — Transitado em julgado
+- [IRR 180](tst-irr-180.md) — Transitado em julgado
+- [IRR 181](tst-irr-181.md) — Acórdão Publicado
+- [IRR 182](tst-irr-182.md) — Transitado em julgado
+- [IRR 183](tst-irr-183.md) — Transitado em julgado
+- [IRR 184](tst-irr-184.md) — Transitado em julgado
+- [IRR 185](tst-irr-185.md) — Transitado em julgado
+- [IRR 186](tst-irr-186.md) — Transitado em julgado
+- [IRR 187](tst-irr-187.md) — Acórdão Publicado
+- [IRR 188](tst-irr-188.md) — Transitado em julgado
+- [IRR 189](tst-irr-189.md) — Transitado em julgado
+- [IRR 190](tst-irr-190.md) — Transitado em julgado
+- [IRR 191](tst-irr-191.md) — Transitado em julgado
+- [IRR 192](tst-irr-192.md) — Transitado em julgado
+- [IRR 193](tst-irr-193.md) — Acórdão Publicado (RE Pendente)
+- [IRR 194](tst-irr-194.md) — Acórdão Publicado (RE Pendente)
+- [IRR 195](tst-irr-195.md) — Afetado
+- [IRR 196](tst-irr-196.md) — Cancelado
+- [IRR 197](tst-irr-197.md) — Afetado
+- [IRR 198](tst-irr-198.md) — Afetado
+- [IRR 199](tst-irr-199.md) — Afetado
+- [IRR 200](tst-irr-200.md) — Afetado
+- [IRR 201](tst-irr-201.md) — Afetado
+- [IRR 202](tst-irr-202.md) — Afetado
+- [IRR 203](tst-irr-203.md) — Afetado
+- [IRR 204](tst-irr-204.md) — Afetado - possível revisão de tese
+- [IRR 205](tst-irr-205.md) — Afetado
+- [IRR 206](tst-irr-206.md) — Afetado
+- [IRR 207](tst-irr-207.md) — Afetado
+- [IRR 208](tst-irr-208.md) — Afetado
+- [IRR 209](tst-irr-209.md) — Afetado
+- [IRR 210](tst-irr-210.md) — Afetado
+- [IRR 211](tst-irr-211.md) — Afetado
+- [IRR 212](tst-irr-212.md) — Afetado
+- [IRR 213](tst-irr-213.md) — Afetado
+- [IRR 214](tst-irr-214.md) — Acórdão Publicado
+- [IRR 215](tst-irr-215.md) — Transitado em julgado
+- [IRR 216](tst-irr-216.md) — Transitado em julgado
+- [IRR 217](tst-irr-217.md) — Transitado em julgado
+- [IRR 218](tst-irr-218.md) — Transitado em julgado
+- [IRR 219](tst-irr-219.md) — Transitado em julgado
+- [IRR 220](tst-irr-220.md) — Transitado em julgado
+- [IRR 221](tst-irr-221.md) — Transitado em julgado
+- [IRR 222](tst-irr-222.md) — Acórdão Publicado (RE Pendente)
+- [IRR 223](tst-irr-223.md) — Transitado em julgado
+- [IRR 224](tst-irr-224.md) — Transitado em julgado
+- [IRR 225](tst-irr-225.md) — Transitado em julgado
+- [IRR 226](tst-irr-226.md) — Transitado em julgado
+- [IRR 227](tst-irr-227.md) — Transitado em julgado
+- [IRR 228](tst-irr-228.md) — Transitado em julgado
+- [IRR 229](tst-irr-229.md) — Transitado em julgado
+- [IRR 230](tst-irr-230.md) — Acórdão Publicado (RE Pendente)
+- [IRR 231](tst-irr-231.md) — Transitado em julgado
+- [IRR 232](tst-irr-232.md) — Transitado em julgado
+- [IRR 233](tst-irr-233.md) — Transitado em julgado
+- [IRR 234](tst-irr-234.md) — Transitado em julgado
+- [IRR 235](tst-irr-235.md) — Transitado em julgado
+- [IRR 236](tst-irr-236.md) — Transitado em julgado
+- [IRR 237](tst-irr-237.md) — Transitado em julgado
+- [IRR 238](tst-irr-238.md) — Transitado em julgado
+- [IRR 239](tst-irr-239.md) — Transitado em julgado
+- [IRR 240](tst-irr-240.md) — Transitado em julgado
+- [IRR 241](tst-irr-241.md) — Transitado em julgado
+- [IRR 242](tst-irr-242.md) — Transitado em julgado
+- [IRR 243](tst-irr-243.md) — Transitado em julgado
+- [IRR 244](tst-irr-244.md) — Transitado em julgado
+- [IRR 245](tst-irr-245.md) — Acórdão Publicado (RE Pendente)
+- [IRR 246](tst-irr-246.md) — Transitado em julgado
+- [IRR 247](tst-irr-247.md) — Acórdão Publicado (RE Pendente)
+- [IRR 248](tst-irr-248.md) — Acórdão Publicado (RE Pendente)
+- [IRR 249](tst-irr-249.md) — Transitado em julgado
+- [IRR 250](tst-irr-250.md) — Transitado em julgado
+- [IRR 251](tst-irr-251.md) — Transitado em julgado
+- [IRR 252](tst-irr-252.md) — Transitado em julgado
+- [IRR 253](tst-irr-253.md) — Acórdão Publicado
+- [IRR 254](tst-irr-254.md) — Transitado em julgado
+- [IRR 255](tst-irr-255.md) — Transitado em julgado
+- [IRR 256](tst-irr-256.md) — Transitado em julgado
+- [IRR 257](tst-irr-257.md) — Transitado em julgado
+- [IRR 258](tst-irr-258.md) — Transitado em julgado
+- [IRR 259](tst-irr-259.md) — Transitado em julgado
+- [IRR 260](tst-irr-260.md) — Acórdão Publicado (RE Pendente)
+- [IRR 261](tst-irr-261.md) — Acórdão Publicado
+- [IRR 262](tst-irr-262.md) — Transitado em julgado
+- [IRR 263](tst-irr-263.md) — Transitado em julgado
+- [IRR 264](tst-irr-264.md) — Transitado em julgado
+- [IRR 265](tst-irr-265.md) — Transitado em julgado
+- [IRR 266](tst-irr-266.md) — Transitado em julgado
+- [IRR 267](tst-irr-267.md) — Transitado em julgado
+- [IRR 268](tst-irr-268.md) — Transitado em julgado
+- [IRR 269](tst-irr-269.md) — Transitado em julgado
+- [IRR 270](tst-irr-270.md) — Acórdão Publicado (RE Pendente)
+- [IRR 271](tst-irr-271.md) — Transitado em julgado
+- [IRR 272](tst-irr-272.md) — Transitado em julgado
+- [IRR 273](tst-irr-273.md) — Transitado em julgado
+- [IRR 274](tst-irr-274.md) — Afetado
+- [IRR 275](tst-irr-275.md) — Afetado
+- [IRR 276](tst-irr-276.md) — Afetado
+- [IRR 277](tst-irr-277.md) — Afetado - possível revisão de tese
+- [IRR 278](tst-irr-278.md) — Transitado em julgado
+- [IRR 279](tst-irr-279.md) — Transitado em julgado
+- [IRR 280](tst-irr-280.md) — Transitado em julgado
+- [IRR 281](tst-irr-281.md) — Transitado em julgado
+- [IRR 282](tst-irr-282.md) — Transitado em julgado
+- [IRR 283](tst-irr-283.md) — Transitado em julgado
+- [IRR 284](tst-irr-284.md) — Transitado em julgado
+- [IRR 285](tst-irr-285.md) — Transitado em julgado
+- [IRR 286](tst-irr-286.md) — Transitado em julgado
+- [IRR 287](tst-irr-287.md) — Transitado em julgado
+- [IRR 288](tst-irr-288.md) — Transitado em julgado
+- [IRR 289](tst-irr-289.md) — Afetado
+- [IRR 290](tst-irr-290.md) — Afetado - possível revisão de tese
+- [IRR 291](tst-irr-291.md) — Afetado
+- [IRR 292](tst-irr-292.md) — Afetado
+- [IRR 293](tst-irr-293.md) — Afetado
+- [IRR 294](tst-irr-294.md) — Afetado
+- [IRR 295](tst-irr-295.md) — Afetado
+- [IRR 296](tst-irr-296.md) — Afetado
+- [IRR 297](tst-irr-297.md) — Afetado
+- [IRR 298](tst-irr-298.md) — Afetado
+- [IRR 299](tst-irr-299.md) — Afetado
+- [IRR 300](tst-irr-300.md) — Afetado
+- [IRR 301](tst-irr-301.md) — Afetado
+- [IRR 302](tst-irr-302.md) — Afetado
+- [IRR 303](tst-irr-303.md) — Acórdão Publicado (RE Pendente)
+- [IRR 304](tst-irr-304.md) — Transitado em julgado
+- [IRR 305](tst-irr-305.md) — Transitado em julgado
+- [IRR 306](tst-irr-306.md) — Transitado em julgado
+- [IRR 307](tst-irr-307.md) — Transitado em julgado
+- [IRR 308](tst-irr-308.md) — Transitado em julgado
+- [IRR 309](tst-irr-309.md) — Transitado em julgado
+- [IRR 310](tst-irr-310.md) — Transitado em julgado
+- [IRR 311](tst-irr-311.md) — Afetado
+- [IRR 312](tst-irr-312.md) — Afetado
+- [IRR 313](tst-irr-313.md) — Afetado
+- [IRR 314](tst-irr-314.md) — Afetado

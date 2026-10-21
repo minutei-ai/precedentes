@@ -1,0 +1,25 @@
+# STF · ADPF 640
+
+- **Tribunal:** STF
+- **Espécie:** Arguição de Descumprimento de Preceito Fundamental
+- **Número:** 640
+- **Identificador na fonte:** `stf-adpf-640`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 20/09/2021
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=640)
+
+## Ementa
+
+Direito constitucional. Arguição de descumprimento de preceito fundamental. Decisões de órgãos judiciais e administrativos que autorizam o abate de animais apreendidos em situações de maus-tratos. Questão de relevante interesse público envolvendo a interpretação do art. 225, §1º, VII, da CF/88. Conhecimento da ação. Instrução do feito. Possibilidade de julgamento imediato do mérito. Art. 12 da lei 9.868/99. Declaração da ilegitimidade da interpretação dos arts. 25, §§1º e 2º da Lei 9.605/1998, bem como dos artigos 101, 102 e 103 do Decreto 6.514/2008, que violem as normas constitucionais relativas à proteção da fauna e à proibição da submissão dos animais à crueldade. Procedência da ação, nos termos da inicial. 1. No caso, demonstrou-se a existência de decisões judiciais autorizando o abate de animais apreendidos em situação de maus-tratos, em interpretação da legislação federal que viola a norma fundamental de proteção à fauna, prevista no art. 225, §1º, VII, da CF/88. A resistência dos órgãos administrativos à pretensão contida à inicial também demonstra a relevância constitucional da questão, o que justifica o conhecimento da ação. 2. A completa instrução do feito possibilita a conversão da ratificação de liminar em julgamento de mérito, nos termos do art. 12 da Lei 9.868/99. 3. A rigidez da Constituição de 1988 e o princípio da interpretação conforme a Constituição impedem o acolhimento de interpretações contrárias ao sentido hermenêutico do texto constitucional. 4. O art. 225, §1º, VII, da CF/88, impõe a proteção à fauna e proíbe qualquer espécie de maus-tratos aos animais, de modo a reconhecer o valor inerente a outras formas de vida não humanas, protegendo-as contra abusos. Doutrina e precedentes desta Corte . 5. As normas infraconstitucionais sobre a matéria seguem a mesma linha de raciocínio, conforme se observa do art. 25 da Lei 9.605/98, do art. art. 107 do Decreto 6.514/2008 e art. 25 da Instrução Normativa nº 19/2014 do IBAMA. 6. Ação julgada procedente para declarar a ilegitimidade da interpretação dos arts. 25, §§1º e 2º da Lei 9.605/1998, bem como dos artigos 101, 102 e 103 do Decreto 6.514/2008 e demais normas infraconstitucionais, em sentido contrário à norma do art. 225, §1º, VII, da CF/88, com a proibição de abate de animais apreendidos em situação de maus-tratos.
+
+## Decisão
+
+O Tribunal, por unanimidade, converteu a ratificação da medida cautelar em julgamento de mérito e julgou procedente o pedido formulado na arguição de descumprimento de preceito fundamental, para declarar a ilegitimidade da interpretação dos arts. 25, §§ 1º e 2º, da Lei 9.605/1998, bem como dos artigos 101, 102 e 103 do Decreto 6.514/2008 e demais normas infraconstitucionais, que autorizem o abate de animais apreendidos em situação de maus-tratos, nos termos do voto do Relator. Falaram: pelos interessados, a Dra. Edwiges Coelho Girão, Advogada da União; pelo amicus curiae Conselho Federal da Ordem dos Advogados do Brasil, o Dr. Reynaldo Soares Velloso; pelo amicus curiae Rede de Mobilização pela Causa Animal - REMCA, o Dr. Yuri Fernandes Lima; e, pelo amicus curiae Princípio Animal, a Dra. Cícera de Fátima Silva. Plenário, Sessão Virtual de 10.9.2021 a 17.9.2021.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 INC-00002 ART-00037 "CAPUT" ART-00103 INC-00008 PAR-00001 ART-00225 PAR-00001 INC-00007 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-006938 ANO-1981 ART-00001 LEI ORDINÁRIA LEG-FED LEI-009605 ANO-1998 ART-00025 PAR-00001 PAR-00002 ART-00032 PAR-00001 PAR-00002 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00006 ART-00012 LEI ORDINÁRIA LEG-FED LEI-009882 ANO-1999 ART-00001 PAR-ÚNICO INC-00001 ART-00002 INC-00001 ART-00004 PAR-00001 LEI ORDINÁRIA LEG-FED LEI-013052 ANO-2014 LEI ORDINÁRIA LEG-FED LEI-014064 ANO-2020 LEI ORDINÁRIA LEG-FED DEL-003688 ANO-1941 ART-00064 LCP-41-1941 LEI DAS CONTRAVENÇÕES PENAIS LEG-FED DEC-024645 ANO-1934 ART-00001 ART-00002 ART-00016 DECRETO LEG-FED DEC-006514 ANO-2008 ART-00101 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 PAR-00001 PAR-00002 PAR-00003 PAR-00004 ART-00102 PAR-ÚNICO ART-00103 INC-00001 INC-00002 PAR-00001 PAR-00002 PAR-00003 ART-00107 INC-00001 INC-00002 PAR-00001 PAR-00002 DECRETO LEG-FED INT-000019 ANO-2014 ART-00025 INC-00001 LET-A LET-B INC-00002 LET-A LET-B INSTRUÇÃO NORMATIVA DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=758761538)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

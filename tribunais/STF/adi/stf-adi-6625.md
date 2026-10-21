@@ -1,0 +1,25 @@
+# STF · ADI 6625
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6625
+- **Identificador na fonte:** `stf-adi-6625`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 08/03/2021
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6625)
+
+## Ementa
+
+Ementa: TUTELA DE URGÊNCIA EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONCESSÃO MONOCRÁTICA. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO PARA CONFERIR SOBREVIDA A MEDIDAS TERAPÊUTICAS E PROFILÁTICAS EXCEPCIONAIS PARA O ENFRENTAMENTO DA COVID-19. PROVIDÊNCIAS PREVISTAS NA LEI 13.979/2020 CUJA VIGÊNCIA FINDOU EM 31 DE DEZEMBRO DE 2020. RECRUDESCIMENTO DA PANDEMIA COM O DESENVOLVIMENTO DE NOVAS CEPAS VIRAIS. EMERGÊNCIA DE SAÚDE PÚBLICA QUE SE MANTÉM INALTERADA. INCIDÊNCIA DOS PRINCÍPIOS DA PREVENÇÃO E PRECAUÇÃO. CAUTELAR REFERENDADA PELO PLENÁRIO. I - A Lei 13.979/2020, com o propósito de enfrentar de maneira racional e tecnicamente adequada o surto pandêmico, permitiu que as autoridades adotassem, no âmbito das respectivas competências, determinadas medidas profiláticas e terapêuticas. II – Embora a vigência da Lei 13.979/2020, de forma tecnicamente imperfeita, esteja vinculada àquela do Decreto Legislativo 6/2020, que decretou a calamidade pública para fins exclusivamente fiscais, vencendo em 31 de dezembro de 2020, não se pode excluir, neste juízo precário e efêmero, a conjectura segundo a qual a verdadeira intenção dos legisladores tenha sido a de manter as medidas profiláticas e terapêuticas extraordinárias, preconizadas naquele diploma normativo, pelo tempo necessário à superação da fase mais crítica da pandemia, mesmo porque à época de sua edição não lhes era dado antever a surpreendente persistência e letalidade da doença. III - A prudência - amparada nos princípios da prevenção e da precaução, que devem reger as decisões em matéria de saúde pública - aconselha que as medidas excepcionais abrigadas na Lei 13.979/2020 continuem, por enquanto, a integrar o arsenal das autoridades sanitárias para combater a pandemia. IV - Medida cautelar referendada pelo Plenário do Supremo Tribunal Federal para conferir interpretação conforme à Constituição ao art. 8° da Lei 13.979/2020, com a redação dada pela Lei 14.035/2020, a fim de excluir de seu âmbito de aplicação as medidas extraordinárias previstas nos arts. 3°, 3°-A, 3°-B, 3°-C, 3°-D, 3°-E, 3°-F, 3°-G, 3°-H e 3°-J, inclusive dos respectivos parágrafos, incisos e alíneas.
+
+## Decisão
+
+O Tribunal, por maioria, referendou a concessão parcial da medida cautelar pleiteada para conferir interpretação conforme à Constituição ao art. 8° da Lei n° 13.979/2020, com a redação dada pela Lei 14.035/2020, a fim de excluir de seu âmbito de aplicação as medidas extraordinárias previstas nos arts. 3°, 3°-A, 3°-B, 3°-C, 3°-D, 3°-E, 3°-F, 3°-G, 3°-H e 3°-J, inclusive dos respectivos parágrafos, incisos e alíneas, nos termos do voto do Relator, vencido o Ministro Marco Aurélio. Falou, pela requerente, a Dra. Kamila Rodrigues Rosenda. Plenário, Sessão Virtual de 26.2.2021 a 5.3.2021.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00001 ART-00002 ART-00005 ART-00006 ART-00170 ART-00196 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-009868 ANO-1999 ART-00010 PAR-00003 ART-00012 LEI ORDINÁRIA LEG-FED LEI-013979 ANO-2020 ART-00003 INC-00001 INC-00002 INC-00003 LET-A LET-B LET-C LET-D LET-E INC-0003A INC-00004 INC-00005 INC-00006 LET-A LET-B INC-00007 INC-00008 ART-A ITEM-00001 ITEM-00002 ITEM-00003 ITEM-00004 PAR-00001 PAR-00002 INC-00001 INC-00002 INC-00003 PAR-00003 PAR-00004 PAR-00005 INC-00001 INC-00002 PAR-00006 PAR-0006B INC-00001 INC-00002 PAR-00007 INC-00001 INC-00002 INC-00003 INC-00004 PAR-0007A PAR-0007B PAR-0007C PAR-00008 INC-00001 INC-00002 PAR-00009 PAR-00010 PAR-00011 ART-0003A INC-00001 INC-00002 INC-00003 PAR-00001 INC-00001 INC-00002 PAR-00002 PAR-00007 PAR-00008 ART-0003B PAR-00001 INC-00001 INC-00002 INC-00003 PAR-00002 PAR-00005 ART-0003C ART-0003D PAR-ÚNICO ART-0003E ART-0003F ART-0003G PAR-ÚNICO ART-0003H PAR-ÚNICO ART-0003I ART-0003J PAR-00001 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00008 INC-00009 INC-00010 INC-00011 INC-00012 INC-00013 INC-00014 INC-00015 INC-00016 INC-00017 INC-00018 INC-00019 INC-00020 INC-00021 INC-00022 INC-00023 INC-00024 INC-00025 INC-00026 INC-00027 INC-00028 INC-00029 INC-00030 PAR-00002 PAR-00003 ART-00008 LEI ORDINÁRIA LEG-FED LEI-014035 ANO-2020 LEI ORDINÁRIA LEG-FED MPR-000966 ANO-2020 MEDIDA PROVISÓRIA LEG-FED MPR-001003 ANO-2020 MEDIDA PROVISÓRIA LEG-FED DLG-013979 ANO-2020 DECRETO LEGISLATIVO LEG-FED RGI ANO-1980 ART-00021 INC-00005 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-FED MSG-000093 ANO-2020 ART-00001 MENSAGEM DO PRESIDENTE DA REPÚBLICA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=755551305)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

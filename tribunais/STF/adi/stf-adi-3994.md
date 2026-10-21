@@ -1,0 +1,25 @@
+# STF · ADI 3994
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 3994
+- **Identificador na fonte:** `stf-adi-3994`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 23/08/2019
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3994)
+
+## Ementa
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA 398/2007, CONVERTIDA NA LEI 11.652/2008. AUTORIZAÇÃO PARA A CRIAÇÃO DA EMPRESA BRASIL DE COMUNICAÇÃO. POSTERIOR REVOGAÇÃO E EXAURIMENTO DA EFICÁCIA DE PARTE DAS NORMAS IMPUGNADAS. PERDA PARCIAL DE OBJETO. ALEGAÇÃO DE INOBSERVÂNCIA DOS REQUISITOS CONSTITUCIONAIS DE RELEVÂNCIA E URGÊNCIA. INEXISTÊNCIA. CONTROLE JUDICIAL QUE PRESSUPÕE FLAGRANTE ABUSO NA EDIÇÃO DE MEDIDA PROVISÓRIA. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 246 DA CONSTITUIÇÃO FEDERAL. DISPOSITIVOS QUE NÃO VISAM A REGULAMENTAR TEXTO CONSTITUCIONAL ALTERADO POR EMENDA. VEICULAÇÃO DE MATÉRIA ORÇAMENTÁRIA POR MEDIDA PROVISÓRIA. INEXISTÊNCIA. AÇÃO DIRETA DE INCONSTITUCIONALIDADE PARCIALMENTE CONHECIDA E, NESTA PARTE, JULGADOS IMPROCEDENTES OS PEDIDOS. 1. O controle jurisdicional da interpretação conferida pelo Poder Executivo aos conceitos jurídicos indeterminados de urgência e relevância deve ser restrito às hipóteses de zona de certeza negativa da sua incidência, o que não se verifica no caso concreto. 2. O artigo 246 da Constituição Federal veda a adoção de medida provisória na regulamentação de artigo da Constituição cuja redação tenha sido alterada por meio de emenda promulgada entre 1º de janeiro de 1995 e a data da promulgação da EC 32/2001. 3. In casu, a medida provisória em exame não visou a densificar o conteúdo do texto constitucional abrangido pela vedação contida no artigo 246 da CRFB, mas sim a dar cumprimento às determinações constitucionais constantes dos artigos 21, XII, a, e 175, caput, da Carta Maior, mediante expedição de autorização normativa para a criação de empresa estatal voltada à exploração de serviços de radiodifusão pública. 4. O artigo 62, § 1º, I, d, da Constituição veda a edição de medida provisória sobre matéria relativa a planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no artigo 167, § 3º, da CRFB. 5. In casu, a medida provisória não inova em matéria orçamentária, porquanto determinou (i) a incorporação, pela EBC, do patrimônio anteriormente pertencente à RADIOBRÁS, tendo em vista que a primeira passou a exercer as funções desempenhadas pela segunda, sucedendo-a nos seus direitos e obrigações; e (ii) a readequação de contrato de gestão antes celebrado pela União, procedendo, pois, a mero remanejamento de verbas destinadas, inicialmente, a entidades que tiveram suas funções absorvidas pela EBC. 6. A jurisprudência desta Corte é pacífica quanto à prejudicialidade da ação direta de inconstitucionalidade quando da revogação superveniente do ato normativo impugnado ou do exaurimento de sua eficácia. Precedentes: ADI 4.058, rel. min. Alexandre de Moraes, Plenário, DJe de 14/2/2019; ADI 1.454/DF, rel. min. Ellen Gracie, Plenário, DJ de 3/8/2007; ADI 1.445-QO/DF, rel. min. Celso de Mello, Plenário, DJ de 29/4/2005. 7. A ausência de impugnação específica dos artigos 1º a 3º da Lei 11.652/2008 impossibilita o conhecimento da ação quanto ao ponto. Precedentes: ADI 4.169, rel. min. Luiz Fux, Plenário, DJe de 7/11/2018; ADI 4.647, rel. min. Dias Toffoli, Plenário, DJe de 21/6/2018. 8. Ação direta parcialmente conhecida e, nesta parte, julgados improcedentes os pedidos.
+
+## Decisão
+
+O Tribunal, por unanimidade, conheceu parcialmente da ação e, nessa parte, julgou improcedentes os pedidos, nos termos do voto do Relator. Não participou deste julgamento, por motivo de licença médica, o Ministro Celso de Mello. Plenário, Sessão Virtual de 16.8.2019 a 22.8.2019.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00021 INC-00012 LET-A ART-00037 INC-00019 REDAÇÃO DADA PELA EMC-19/1998 ART-00062 "CAPUT" PAR-00001 INC-00001 LET-D ART-00103 INC-00008 ART-00167 PAR-00003 ART-00173 PAR-00001 ART-00175 "CAPUT" ART-00246 REDAÇÃO DADA PELA EMC-32/2001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000019 ANO-1998 EMENDA CONSTITUCIONAL LEG-FED EMC-000032 ANO-2001 EMENDA CONSTITUCIONAL LEG-FED LEI-008987 ANO-1995 ART-00042 PAR-00003 PAR-00004 PAR-00005 PAR-00006 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00003 LEI ORDINÁRIA LEG-FED LEI-011439 ANO-2006 ART-00074 PAR-ÚNICO LEI ORDINÁRIA LEG-FED LEI-011652 ANO-2008 ART-00001 ART-00002 ART-00003 ART-00009 PAR-00001 ART-00022 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 PAR-00006 ART-00025 ART-00026 PAR-00001 PAR-00002 PAR-00003 PAR-00004 LEI ORDINÁRIA LEG-FED LEI-013303 ANO-2016 LEI ORDINÁRIA LEG-FED MPR-000398 ANO-2007 ART-00012 ART-00013 ART-00014 ART-00026 PAR-00002 MEDIDA PROVISÓRIA - CONVERTIDA NA LEI-11652/2008
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=750738453)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

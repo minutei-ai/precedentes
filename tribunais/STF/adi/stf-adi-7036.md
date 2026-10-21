@@ -1,0 +1,25 @@
+# STF · ADI 7036
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 7036
+- **Identificador na fonte:** `stf-adi-7036`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 01/03/2023
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7036)
+
+## Ementa
+
+EMENTA Ação direta de inconstitucionalidade. Tributário. Convênio ICMS nº 110/07. Cláusula vigésima primeira, §§ 2º e 3º. Operação interestadual de saída do EAC ou do B100 de um estado ou do Distrito Federal para distribuidora de combustíveis localizada na ZFM. Equivalência à exportação para o exterior. Imunidade do art. 155, § 2º, inciso X, alínea a, da CF/88. Aplicação por força do art. 40 do ADCT. Outras áreas de livre comércio. Não aplicação. Substituição tributária. Conformidade com a LC nº 87/96. 1. O art. 40 do ADCT estipula que fica a ZFM mantida com suas características de área livre de comércio, de exportação e importação e de incentivos fiscais pelo prazo de vinte e cinco anos, a partir da promulgação da Constituição Federal, com sucessivas prorrogações. 2. O Decreto-lei nº 288/67, expressamente estabeleceu (art. 4º) que equivale à exportação para o exterior, para todos os efeitos fiscais, “a exportação de mercadorias de origem nacional para consumo ou industrialização na Zona Franca de Manaus, ou reexportação para o estrangeiro”. 3. A expressão “para todos os efeitos fiscais” alcança o ICMS, e a equivalência em destaque (equivalência à exportação para o exterior) é, propriamente, um favor fiscal instituído pelo decreto-lei em referência, que deve, à luz da orientação prevalecente na Corte, ser mantido ante o art. 40 do ADCT. 4. No que diz respeito ao ICMS, são imunes as operações que destinem mercadorias para o exterior (art. 155, § 2º, inciso X, alínea a, da Constituição Federal), de modo que inexiste competência dos estados ou do Distrito Federal que ampare a instituição ou a cobrança do ICMS na operação interestadual de saída do EAC ou do B100 de um estado ou do Distrito Federal para distribuidora de combustíveis localizada na Zona Franca de Manaus. 5. Contrariam esse entendimento os §§ 2º e 3º da cláusula vigésima primeira do Convênio ICMS nº 110/07, uma vez que ensejam o dever de se pagar o ICMS relativamente a tal operação. Eles incidiram, portanto, em inconstitucionalidade. 6. É inaplicável a imunidade do art. 155, § 2º, inciso X, alínea a, da Constituição Federal no que diz respeito ao ICMS incidente na operação interestadual de saída do EAC ou do B100 de um estado ou do Distrito Federal para distribuidora de combustíveis localizada em outras áreas de livre comércio ou em outras regiões que não a ZFM. Precedentes. 7. O regime de substituição tributária previsto no Convênio ICMS nº 110/07 foi estabelecido em consonância com a Lei Kandir (LC nº 87/96), a qual traz normas sobre a substituição tributária no contexto do ICMS. 8. Declaração de inconstitucionalidade apenas da expressão “para a Zona Franca de Manaus”, constante do § 2º da cláusula vigésima primeira do Convênio ICMS nº 110/07.
+
+## Decisão
+
+Após o voto do Ministro Nunes Marques (Relator), que julgava procedente o pedido formulado na ação direta, para declarar a inconstitucionalidade dos §§ 2º e 3º da cláusula vigésima primeira do Convênio ICMS n. 110, de 28 de setembro de 2007, pediu vista dos autos o Ministro Dias Toffoli. Falou, pelo amicus curiae, o Dr. Carlos Linek Vidigal. Plenário, Sessão Virtual de 18.11.2022 a 25.11.2022. Decisão: O Tribunal, por maioria, julgou parcialmente procedente o pedido para declarar a inconstitucionalidade apenas da expressão "para a Zona Franca de Manaus", constante do § 2º da cláusula vigésima primeira do Convênio ICMS nº 110/07, nos termos do voto do Ministro Dias Toffoli, Redator para o acórdão, vencido o Ministro Nunes Marques (Relator). Plenário, Sessão Virtual de 17.2.2023 a 28.2.2023.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1946 ART-00199 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00005 INC-00036 ART-00150 INC-00002 ART-00152 ART-00155 PAR-00002 INC-00010 LET-A INC-00012 LET-B ART-00225 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000042 ANO-2003 EMENDA CONSTITUCIONAL LEG-FED EMC-000083 ANO-2014 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1988 ART-00040 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LCP-000087 ANO-1996 ART-00009 "CAPUT" LEI COMPLEMENTAR LEG-FED LEI-003173 ANO-1957 LEI ORDINÁRIA LEG-FED LEI-008387 ANO-1991 LEI ORDINÁRIA LEG-FED LEI-010485 ANO-2002 ART-00001 LEI ORDINÁRIA LEG-FED DEL-000288 ANO-1967 ART-00001 ART-00003 ART-00004 ART-00005 ART-00006 ART-00007 ART-00008 DECRETO-LEI LEG-FED MPR-203724 ANO-2000 ART-00014 PAR-00002 INC-00001 MEDIDA PROVISÓRIA LEG-FED CNV-000065 ANO-1988 CONVÊNIO LEG-FED CNV-000110 ANO-2007 CLÁUSULA-00021 PAR-00001 PAR-00002 PAR-00003 CONVÊNIO LEG-EST DEC-020686 ANO-1999 DECRETO, AM
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=766432395)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

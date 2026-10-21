@@ -1,0 +1,25 @@
+# STF · ADI 6556
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6556
+- **Identificador na fonte:** `stf-adi-6556`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 21/02/2022
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6556)
+
+## Ementa
+
+EMENTA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PEDIDO DE MEDIDA CAUTELAR. RISCO DE PERECIMENTO. APRECIAÇÃO SOMENTE EM RELAÇÃO AO FUNDAMENTO DA ALEGADA INCONSTITUCIONALIDADE DOS ARTS. 59, §§ 2º, 3º E 4º, III, E 64 DA RESOLUÇÃO Nº 303/2019 DO CONSELHO NACIONAL DE JUSTIÇA. DISCIPLINA DO CUMPRIMENTO DE OBRIGAÇÕES PECUNIÁRIAS DEVIDAS PELAS FAZENDAS PÚBLICAS EM VIRTUDE DE CONDENAÇÃO JUDICIAL. AFRONTA AOS ARTS. 2º, 5º, CAPUT E XXXVI, 37, 100, CAPUT E §§ 2º, 3º, 5º, 6º, 8º e 15, 165, III E § 5º, I, e 167, II, DA CONSTITUIÇÃO DA REPÚBLICA E 78, § 4º, 97, §§ 2º E 10, 101, 102, §§ 1º E 2º, I E II, 103 E 104 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. FUMUS BONI JURIS E PERICULUM IN MORA NÃO DEMONSTRADOS. INDEFERIMENTO DO PEDIDO. REFERENDO. 1. Consubstancia, a Resolução, ato normativo editado pelo Conselho Nacional de Justiça no exercício da sua função de órgão de controle interno do Poder Judiciário, observados, ainda, os limites do art. 103-B da Carta Magna. Como já reconhecido por este Supremo Tribunal Federal, o Conselho Nacional de Justiça é “órgão interno de controle administrativo, financeiro e disciplinar da magistratura” (ADI 3.367, Relator: Min. Cezar Peluso, DJ 22.09.2006). 2. A fixação de parâmetros concretos e específicos para a forma de cálculo do depósito de 1/12 tem amparo na literalidade do art. 101 ADCT, defluindo, da interpretação das normas impugnadas o prestígio das opções a serem feitas pelo ente devedor, na forma estabelecida pela Carta Política. A Resolução disciplina as hipóteses de lacunas ou omissões e prevê prazos e homologações, estabelecidos com o escopo de operacionalizar o procedimento de pagamentos de precatórios. 3. A apresentação anual do plano de pagamento envolve a revisão do valor a ser depositado em conta administrada pelo Tribunal de Justiça local. No caso, ao menos em juízo perfunctório, o quadro delineado pelas balizas cognitivas que emergem dos autos não parece autorizar a aferição do “percentual suficiente para a quitação de seus débitos”, objeto de cálculo pelo Tribunal de Justiça. 4. Embora não se subestime a gravidade dos impactos financeiros acarretados em razão da crise econômico-sanitária decorrente da pandemia da COVID-19 (Coronavirus Disease 2019), a cognição sumária e a natureza objetiva da presente ação direta não sugerem a suspensão da eficácia da Resolução impugnada com base em tal argumento 5. Não evidenciado, pelo menos a um primeiro olhar, a presença do fumus boni iuris que, aliado ao periculum in mora, autorizaria a concessão da medida de natureza cautelar pleiteada, não há como deferi-la, no ponto examinado. 6. Pedido indeferido ad referendum do Plenário. 7. Decisão referendada.
+
+## Decisão
+
+Após o voto da Ministra Rosa Weber (Relatora), que propunha o referendo da decisão que indeferiu o pedido de concessão de medida cautelar, no que foi acompanhada pela Ministra Cármen Lúcia, pediu vista dos autos o Ministro Alexandre de Moraes. Falaram: pelo requerente Governador do Estado de São Paulo, o Dr. Leonardo Cocchieri Leite Chaves, Procurador do Estado; e, pelo amicus curiae Município de São Paulo, o Dr. Felipe Granado Gonzales, Procurador do Município. Plenário, Sessão Virtual de 12.3.2021 a 19.3.2021. Decisão: (MC-Ref) O Tribunal, por unanimidade, referendou a decisão que indeferiu o pedido de concessão de medida cautelar, nos termos do voto da Relatora. Plenário, Sessão Virtual de 11.2.2022 a 18.2.2022.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00002 ART-00005 "CAPUT" INC-00036 ART-00037 ART-00100 "CAPUT" PAR-00002 PAR-00003 PAR-00005 PAR-00006 PAR-00008 PAR-00015 ART-0103B ART-00165 INC-00003 PAR-00005 INC-00001 ART-00167 INC-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000062 ANO-2009 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1988 ART-00078 PAR-00004 ART-00097 PAR-00002 PAR-00010 ART-00101 ART-00102 PAR-00001 PAR-00002 INC-00001 INC-00002 ART-00103 ART-00104 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED RES-000303 ANO-2019 ART-00003 INC-00004 ART-00007 PAR-00002 INC-00001 INC-00002 ART-00009 "CAPUT" PAR-00001 PAR-00003 PAR-00004 PAR-00005 PAR-00007 PAR-00008 ART-00012 PAR-00003 ART-00016 ART-00031 PAR-00001 ART-00053 PAR-00003 ART-00055 ART-00056 "CAPUT" ART-00059 PAR-00002 PAR-00003 PAR-00004 INC-00003 ART-00064 INC-00001 INC-00002 PAR-00001 PAR-00002 PAR-00003 PAR-ÚNICO ART-00065 PAR-00002 ART-00072 ART-00075 PAR-ÚNICO ART-00086 PAR-ÚNICO RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ LEG-FED RES-000356 ANO-2020 ART-00003 RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=759975793)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

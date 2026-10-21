@@ -1,0 +1,25 @@
+# STF · ADI 7627
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 7627
+- **Identificador na fonte:** `stf-adi-7627`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 07/11/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7627)
+
+## Ementa
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 12.786/2007, DO RIO GRANDE DO SUL. PORTE DE ARMA DE FOGO PELOS SERVIDORES DO INSTITUTO-GERAL DE PERÍCIAS, ÓRGÃO DA SECRETARIA DA SEGURANÇA PÚBLICA DO ESTADO. COMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE MATERIAIS BÉLICOS: MATÉRIA AFETA A PORTE DE ARMAS. SEGURANÇA PÚBLICA. INTERESSE GERAL. INCONSTITUCIONALIDADE FORMAL. PRECEDENTES. AÇÃO DIRETA JULGADA PROCEDENTE. 1. O processo está instruído nos termos do art. 10 da Lei n. 9.868/1999. Proposta de conversão da apreciação da medida cautelar em julgamento de mérito, sem necessidade de novas providências. Precedentes. 2. Afastada a preliminar de descumprimento indireto da Constituição da República. Precedentes. 3. Ao decidir e legislar sobre risco da atividade e a efetiva necessidade do porte de armas de fogo ao servidor público integrante do Instituto-Geral de Perícias do Rio Grande do Sul, a legislação questionada cuidou de requisito da competência da Polícia Federal para a concessão de autorização do porte de arma de fogo, nos termos do inc. I do § 1º do art. 10 da Lei n. 10.826/2003. 4. É reiterada a jurisprudência deste Supremo Tribunal Federal no sentido de que a definição dos requisitos para a concessão do porte de arma de fogo e dos possíveis titulares desse direito é de competência da União, conforme o inc. XXI do art. 22 da Constituição da República, para garantir a uniformidade da regulamentação do tema no território nacional. Precedentes. 5. Ação direta de inconstitucionalidade na qual convertida a apreciação da medida cautelar em julgamento de mérito e pedido julgado procedente para declarar inconstitucional a Lei n. 12.786/2007, do Rio Grande do Sul, observando que aos peritos criminais se aplica a possibilidade do porte funcional de arma, nos termos da legislação nacional, como, por exemplo, o Estatuto do Desarmamento, a Lei n. 13.675/2018 (Lei do Susp - Sistema Único de Segurança Pública) e o Decreto n. 11.615/2023 (al. f do inc. III do § 1º do art. 7º).
+
+## Decisão
+
+Após o voto da Ministra Cármen Lúcia (Relatora), que convertia o exame da medida cautelar em julgamento de mérito e julgava procedente o pedido formulado na presente ação direta para declarar a inconstitucionalidade da Lei n. 12.786/2007, do Rio Grande do Sul, pediu vista dos autos o Ministro Alexandre de Moraes. Plenário, Sessão Virtual de 24.5.2024 a 4.6.2024. Decisão: O Tribunal, por unanimidade, converteu o exame da medida cautelar em julgamento de mérito e julgou procedente o pedido formulado na presente ação direta para declarar a inconstitucionalidade da Lei n. 12.786/2007 do Rio Grande do Sul, observando que aos peritos criminais se aplica a possibilidade do porte funcional de arma, nos termos da legislação nacional, como, por exemplo, o Estatuto do Desarmamento, a Lei nº 13.675/2018 (Lei do Susp - Sistema Único de Segurança Pública) e o Decreto nº 11.615/2023 (art. 7º, § 1º, inciso III, alínea “f”). Tudo nos termos do voto da Relatora. Presidência do Ministro Luís Roberto Barroso. Plenário, 7.11.2024.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1891 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-00021 INC-00006 ART-00022 INC-00001 INC-00021 PAR-ÚNICO ART-00023 ART-00024 ART-00030 INC-00001 ART-00061 PAR-00001 INC-00002 LET-A LET-C ART-00144 PAR-00001 PAR-00004 PAR-00007 ART-00168 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000035 ANO-1979 ART-00033 INC-00005 LOMAN-1979 LEI ORGÂNICA DA MAGISTRATURA NACIONAL LEG-FED LEI-008625 ANO-1993 ART-00042 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00010 LEI ORDINÁRIA LEG-FED LEI-010826 ANO-2003 ART-00004 ART-00006 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00010 INC-00011 ART-00010 PAR-00001 INC-00001 ED-2003 ESTATUTO DO DESARMAMENTO LEG-FED LEI-012030 ANO-2009 ART-00001 ART-00002 ART-00003 LEI ORDINÁRIA LEG-FED LEI-013675 ANO-2018 ART-00009 PAR-00002 INC-00001 INC-00004 INC-00010 LEI ORDINÁRIA LEG-FED LEI-014735 ANO-2023 ART-00006 INC-00004 ART-00015 ART-00028 LEI ORDINÁRIA LEG-FED DEL-003689 ANO-1941 CPP-1941 CÓDIGO DE PROCESSO PENAL LEG-FED DEL-000200 ANO-1967 ART-00172 DECRETO-LEI LEG-FED DEC-011615 ANO-2023 ART-00002 INC-00033 ART-00007 INC-00004 LET-C PAR-00001 INC-00003 LET-F ART-00053 PAR-00001 DECRETO LEG-FED RES-000015 ANO-2024 RESOLUÇÃO DO CONSELHO NACIONAL DOS DIREITOS HUMANOS LEG-FED RGI ANO-1980 ART-00095 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-EST LEI-012786 ANO-2007 LEI ORDINÁRIA, RS LEG-EST LEI-011236 ANO-2020 ART-00001 LEI ORDINÁRIA, MA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=784974633)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

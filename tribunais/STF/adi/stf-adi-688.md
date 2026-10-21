@@ -1,0 +1,23 @@
+# STF · ADI 688
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 688
+- **Identificador na fonte:** `stf-adi-688`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 26/03/1992
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=688)
+
+## Ementa
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 8388, DE 30 DE DEZEMBRO DE 1991, QUE DISCIPLINA A CONSOLIDAÇÃO E REESCALONAMENTO DE DÍVIDAS DOS ESTADOS, DO DISTRITO FEDERAL E DOS MUNICÍPIOS. ALEGADA AFRONTA AOS ARTS. 52, INCS. VI A IX; 173, PARS. 1. A 5.; 37; E 170, IV, DA CONSTITUIÇÃO FEDERAL. CAUTELAR. AUSÊNCIA DE PLAUSIBILIDADE PARA A TESE DE USURPAÇÃO DA COMPETÊNCIA DO SENADO FEDERAL, NO QUE CONCERNE AO CONTROLE, QUE LHE CABE, COM EXCLUSIVIDADE, DO ENDIVIDAMENTO DAS ENTIDADES PUBLICAS INTERESSADAS. POR OUTRO LADO, NÃO OBSTANTE OS ENTES DA ADMINISTRAÇÃO INDIRETA, CONTEMPLADOS PELO DIPLOMA LEGAL IMPUGNADO, SEJAM PESSOAS JURIDICAS DE DIREITO PRIVADO, DETEM ELES APRECIAVEIS PARCELAS DO PATRIMÔNIO PÚBLICO, QUE CUMPRE PROTEGER, JUSTIFICANDO-SE POR ESSE MODO, O TRATAMENTO ESPECIAL QUE LHES DISPENSOU A LEI. MENOS AINDA DE VER-SE INFRINGENCIA AOS PRINCÍPIOS DA IMPESSOALIDADE, CONTEMPLA, NO CASO, NENHUMA ENTIDADE OU PESSOA EM PARTICULAR; NÃO SE PREVE NENHUM BENEFÍCIO QUE NÃO ESTEJA PREVISTO EM LEI; NÃO SE ESTA DIANTE DE FAVORES DESCABIDOS; NEM SE POSSIBILITA A DOMINAÇÃO DE MERCADOS, A ELIMINAÇÃO DE CONCORRENTES OU O AUMENTO ARBITRARIO DE LUCROS. DE REGISTRAR-SE, POR FIM, QUE SE TRATA DE LEI PENDENTE DE REGULAMENTAÇÃO, O QUE AFASTA O REQUISITO DO PERICULUM IN MORA. CAUTELAR INDEFERIDA.
+
+## Decisão
+
+Após os votos dos Ministros Relator, Marco Aurélio, Carlos Velloso e Sepúlveda Pertence, indeferindo a medida cautelar e do Ministro Celso de Mello, deferindo-a, pediu vista dos autos o Ministro Paulo Brossard. Procurador-Geral da República, Dr. Moacir Antônio Machado da Silva, substituto. Plenário, 11.3.92. Decisão: Por maioria de votos, o Tribunal indeferiu medida cautelar de suspensão da Lei n° 8.388, de 30.12.91, vencidos os Ministros Celso de Mello, Paulo Brossard, Octavio Gallotti e Néri da Silveira, que a deferiam. Votou o Presidente. Plenário, 26.03.92.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00037 ART-00052 INC-00006 INC-00007 INC-00008 INC-00009 ART-00170 INC-00004 ART-00173 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008388 ANO-1991
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

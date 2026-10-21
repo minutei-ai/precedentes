@@ -1,0 +1,25 @@
+# STF · ADI 5010
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 5010
+- **Identificador na fonte:** `stf-adi-5010`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 01/08/2018
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5010)
+
+## Ementa
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 18, PARÁGRAFO ÚNICO, DA LEI MATO GROSSENSE N. 8.321/2005. AUTORIZAÇÃO DE PORTE DE ARMA PARA SERVIDORES PÚBLICOS ESTADUAIS (PROFISSIONAIS DA PERÍCIA OFICIAL E IDENTIFICAÇÃO TÉCNICA – POLITEC-MT). INCONSTITUCIONALIDADE. COMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE MATERIAIS BÉLICOS, QUE ALCANÇA MATÉRIA AFETA AO PORTE DE ARMAS. SEGURANÇA PÚBLICA. INTERESSE GERAL. PRECEDENTES: ADIS 2.729, 3.058 E 3112. AUSÊNCIA DE CONTRARIEDADE AO PRINCÍPIO FEDERATIVO. O CAPUT E A PARTE REMANESCENTE DO PARÁGRAFO ÚNICO DO ART. 18 DA LEI MATO-GROSSENSE N. 8.321/2005, QUE ASSEGURAM DIREITO À CARTEIRA FUNCIONAL DE IDENTIFICAÇÃO DOS SERVIDORES ESTADUAIS, ESTÃO EM HARMONIA COM A CONSTITUIÇÃO. AÇÃO JULGADA PARCIALMENTE PROCEDENTE PARA DECLARAR A INCONSTITUCIONALIDADE DAS EXPRESSÕES “LIVRE PORTE DE ARMA” E “LIVRE PORTE DE ARMA E” CONTIDAS NO PARÁGRAFO ÚNICO DO ART. 18 DA LEI MATO-GROSSENSE N. 8.321/2005.
+
+## Decisão
+
+O Tribunal, por unanimidade e nos termos do voto da Relatora, Ministra Cármen Lúcia (Presidente), julgou parcialmente procedente o pedido formulado na ação direta, para declarar a inconstitucionalidade das expressões “livre porte de arma” e “livre porte de arma e”, contidas no Parágrafo único do art. 18 da Lei n. 8.321/2005 do Estado do Mato Grosso. Ausente, neste julgamento, o Ministro Luiz Fux. Plenário, 1º.8.2018.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00021 INC-00006 ART-00022 INC-00001 INC-00006 INC-00021 PAR-ÚNICO CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-010286 ANO-2003 ART-00001 ART-00002 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00008 INC-00009 INC-00010 INC-00011 PAR-ÚNICO ART-00005 PAR-00001 PAR-00003 ART-00006 "CAPUT" ART-00010 PAR-00001 INC-00001 INC-00002 INC-00003 PAR-00002 ART-00012 ART-00014 ART-00029 PAR-ÚNICO LEI ORDINÁRIA LEG-EST LCP-000240 ANO-2002 ART-00088 LEI COMPLEMENTAR, RN LEG-EST LEI-008321 ANO-2005 ART-00018 "CAPUT" PAR-ÚNICO LEI ORDINÁRIA, MT
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=749847083)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

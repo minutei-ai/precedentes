@@ -1,0 +1,25 @@
+# STF · ADI 7842
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 7842
+- **Identificador na fonte:** `stf-adi-7842`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 30/03/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=7842)
+
+## Ementa
+
+Ementa: DIREITO CONSTITUCIONAL E AMBIENTAL. REFERENDO DE MEDIDA CAUTELAR. CONSTITUIÇÃO DO ESTADO DE MATO GROSSO. EMENDA CONSTITUCIONAL 119/2024. CRIAÇÃO DE UNIDADES DE CONSERVAÇÃO. REGULARIZAÇÃO DE ÁREAS E DISPONIBILIDADE ORÇAMENTÁRIA. INVASÃO DA COMPETÊNCIA LEGISLATIVA DA UNIÃO. ARTS. 24, VI, 37 E 225 DA CONSTITUIÇÃO. MEDIDA CAUTELAR REFERENDADA. I. CASO EM EXAME 1. Ação Direta proposta pelo Procurador-Geral da República em face dos §§ 3º e 4º do art. 263 da Constituição do Estado de Mato Grosso (redação da EC 119/2024), que condicionam a criação de novas unidades de conservação estaduais de domínio público à regularização de 80% das já existentes e à disponibilidade orçamentária suficiente para a indenização de proprietários afetados. II. QUESTÃO EM DISCUSSÃO 2. Saber se Constituição estadual pode impor requisitos adicionais para a criação de unidades de conservação, além dos previstos pela legislação federal (Lei 9.985/2000 – SNUC). III. RAZÕES DE DECIDIR 3. A concessão de medida cautelar em controle concentrado de constitucionalidade exige a presença dos requisitos do fumus boni iuris e do periculum in mora, cabendo ao STF avaliar a conveniência da suspensão da eficácia da norma impugnada. 4. A Constituição Federal, em seu art. 24, VI, confere competência concorrente à União, aos Estados e ao Distrito Federal para legislar sobre meio ambiente, cabendo à União a edição de normas gerais e aos Estados a competência suplementar. 5. A Lei 9.985/2000 (SNUC), como norma geral edita pela União, fixou apenas dois requisitos para a criação de unidades de conservação: estudos técnicos prévios e consulta pública (art. 22, §2º), não prevendo condicionantes como regularização fundiária de áreas já existentes ou disponibilidade orçamentária. 6. O STF possui jurisprudência consolidada de que Estados não podem flexibilizar ou restringir normas gerais editadas pela União em matéria ambiental, admitindo apenas regulamentações mais protetivas ao meio ambiente (ADI 5675, ADI 6672, ADI 4529, ADI 5312, ADI 3356, ADI 2656), o que reforça a probabilidade do direito. 7. A imposição de condicionantes adicionais prejudica a ampliação de áreas protegidas, configurando retrocesso ambiental e afrontando o dever constitucional de proteção ao meio ambiente (art. 225 da CF), além de violar o princípio da eficiência administrativa (art. 37 da CF) na atuação ambiental. IV. DISPOSITIVO 10. Medida cautelar referendada. Dispositivos relevantes citados: CF/1988, arts. 24, VI e §1º; 37, caput; 225, caput e §1º, III. Lei 9.985/2000, art. 22, §2º. Jurisprudência relevante citada: STF, ADI 5675, Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe 25/1/2022; STF, ADI 6672, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, DJe 22/9/2021; STF, ADI 4529, Rel. Min. ROSA WEBER, Tribunal Pleno, DJe 1/12/2022; STF, ADI 5312, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, DJe 11/2/2019; STF, ADI 3356, Red. p/ acórdão Min. DIAS TOFFOLI, Tribunal Pleno, DJe 1/2/2019; STF, ADI 2656, Rel. Min. MAURÍCIO CORRÊA, Tribunal Pleno, DJ 1/8/2003; STF, RE 1513518 AgR, Rel. Min. EDSON FACHIN, Tribunal Pleno, DJe 21/3/2025; STF, RE 194.704, Rel. p/ acórdão Min. EDSON FACHIN, Tribunal Pleno, DJe 17/11/2017.
+
+## Decisão
+
+Após o voto do Ministro Alexandre de Moraes (Relator), que propunha o referendo da medida cautelar, para manter a suspensão da eficácia dos §§ 3º e 4º do art. 263 da Constituição do Estado de Mato Grosso, acrescidos pela EC n. 119/2024, até o julgamento de mérito da presente ação direta, pediu vista dos autos o Ministro Gilmar Mendes. Plenário, Sessão Virtual de 10.10.2025 a 17.10.2025. Decisão: O Tribunal, por maioria, referendou a medida cautelar, para manter a suspensão da eficácia dos §§ 3º e 4º do art. 263 da Constituição do Estado de Mato Grosso, acrescidos pela EC n. 119/2024, até o julgamento de mérito da presente ação direta, nos termos do voto do Relator, Ministro Alexandre de Moraes, vencido o Ministro Gilmar Mendes. Plenário, Sessão Virtual de 20.3.2026 a 27.3.2026.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00024 INC-00006 PAR-00001 ART-00037 ART-00103 INC-00006 ART-00225 "CAPUT" PAR-00001 INC-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-009985 ANO-2000 ART-00022 PAR-00002 LEI ORDINÁRIA LEG-EST CES ANO-1989 ART-00263 PAR-00003 PAR-00004 CONSTITUIÇÃO ESTADUAL, MT LEG-EST EMC-000119 ANO-2024 EMENDA CONSTITUCIONAL LEG-EST MSG-000172 ANO-2022 MENSAGEM DO GOVERNADOR DO ESTADO DE MATO GROSSO
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=796911223)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

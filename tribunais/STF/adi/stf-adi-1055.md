@@ -1,0 +1,25 @@
+# STF · ADI 1055
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 1055
+- **Identificador na fonte:** `stf-adi-1055`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 16/06/1994
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=1055)
+
+## Ementa
+
+EMENTA: - Ação Direta de Inconstitucionalidade. Depositário infiel de valor pertencente à Fazenda Pública. Medida Provisória nº 427, de 11.02.1994, reeditada pela Medida Provisória nº 449, de 17.03.1994, convertida na Lei nº 8.866, de 11.04.1994, que dispôs sobre o depositário infiel de valor pertencente à Fazenda Pública. A um primeiro exame, para os efeitos de medida cautelar, parecem, ao Tribunal, violados pelos §§ 2 e 3 do art. 4 da Lei nº 8.866, de 11.04.1994, os seguintes princípios e/ou garantias constitucionais: a) do inciso LIV do art. 5 da Constituição Federal de1988, segundo o qual "ninguém será privado da liberdade sem o devido processo legal"; b) do inciso LV do art. 5 da C.F., que assegura "aos litigantes, em processo judicial ou administrativo, e aos acusados em geral" "o contraditório e a ampla defesa, com os meios e recursos a ela inerentes"; c) do inciso XXXV do art. 5 da C.F., que não permite se exclua da apreciação do Poder Judiciário a alegação de lesão ou ameaça de direito; d) o da independência do Poder Judiciário, como instituição (art. 2 da C.F.) e do Juiz, como órgão de sua expressão, obrigado a fundamentar suas decisões, inclusive os decretos de prisão (inciso IX do art. 93 da C.F.), não apenas com base no que a lei permite, mas no seu livre convencimento jurídico, inclusive de ordem constitucional. 2. Caracterizados os requisitos da plausibilidade jurídica da ação ("fumus boni iuris") e do risco de grave dano, pela demora no curso do processo da ADIn ("periculum in mora"), é de se deferir, a partir desta data, até o julgamento final da ação, a suspensão da eficácia dos referidos §§ 2 e 3 do art. 4 da Lei nº 8.866, de 11.04.1994. 3. Em conseqüência, devem ser suspensas, também, as expressões "referida no § 2 do art. 4 ", contidas no art. 7 da mesma lei. 4. Assim, também, as expressões "ou empregados" e "e empregados", constantes do "caput" desse mesmo art. 7 e de seu parágrafo único, respectivamente. 5. Não se mostra necessária a suspensão do art. 8 , segundo o qual "cessará a prisão com o recolhimento do valor exigido", porque o resultado pretendido é alcançado com a suspensão, já referida, do § 2 do art. 4 ; 6. Ficam excluídos da convalidação, expressa no art. 10, os decretos de prisão fundados, exclusivamente, no § 2 do art. 4 e os decretos de revelia fundados em seu § 3 . 7. Medida cautelar deferida, em parte, para tais fins (por maioria), nos termos do voto do Relator.
+
+## Decisão
+
+Apresentado o feito em mesa, o julgamento foi adiado em virtude do adiantado da hora. Plenário, 08.06.94. Decisão: Por maioria de votos, o Tribunal deferiu, em parte, o pedido de medida liminar para suspender, até a decisão final da ação, os efeitos dos § § 2º e 3º do art. 4º; da expressão "referida no § 2º do art. 4º", contida no caput do art. 7º; e das expressões "ou empregados" e "empregados", inseridas no caput do art. 7º e no seu parágrafo único, todos da Lei n. 8.866, de 08.04.94. Vencidos o Ministro Francisco Rezek, que também deferia o pedido de medida liminar, em menor extensão, apenas para suspender, até a decisão final da ação, a eficácia das expressões "ou empregados" e "empregados", contidas no caput do art. 7º e no seu parágrafo único da mesma Lei (nº 8.866/94), os Ministros limar Galvão, Paulo Brossard e o Presidente (Min. Octavio Gallotti), que também deferiam o pedido de medida liminar, em maior extensão, para suspender, igualmente, até a decisão final da ação, a eficácia das palavras "reter" (no caput do art. 1º), "retenção" (no § 1º do art. 1º), "descontado ou" (no inciso I do art. 2º), "descontado ou" (no inciso I do art. 2º), e "descontado" (no art.3º) todos da mesma Lei ( nº 8.866/94). . Vencido, ainda, o Ministro Marco Aurélio, que deferia o pedido de medida liminar para suspender, até a decisão final da ação, a eficácia de toda a lei impugnada (Lei nº 8.866/94. Assentou, ainda, o Tribunal, que, da convalidação prevista no art. 10, ficam suspensos, a partir desta data, até o julgamento final da ação, os decretos de prisão fundados, exclusívanente, no § 2º do art. 4º, e os decretos de revelia fundados em seu § 3º. Votou o Presidente. Ausente, justificadamente, o Ministro Carlos Velloso. Plenário, 16.06.94.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00002 ART-00005 INC-00035 INC-00054 INC-00055 ART-00093 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008866 ANO-1994 ART-00004 PAR-00002 PAR-00003 ART-00007 PAR-ÚNICO ART-00008 ART-00010 LEG-FED MPR-000427 ANO-1994 LEG-FED MPR-000449 ANO-1994
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=346793)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

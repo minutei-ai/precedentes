@@ -1,0 +1,28 @@
+# TRT07 · NT 7
+
+- **Tribunal:** TRT07
+- **Espécie:** Nota Técnica
+- **Número:** 7
+- **Identificador na fonte:** `trt07-nt-7`
+- **Situação na fonte:** Vigente
+- **Atualização informada pela fonte:** 01/11/2024
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=NT&nr=7)
+
+## Questão submetida a julgamento
+
+Direito Processual Civil e do Trabalho Centro de Inteligência do Tribunal Regional do Trabalho da 7ª Região
+
+## Texto disponibilizado pela fonte
+
+CENTRO REGIONAL DE INTELIGÊNCIA DO TRT7  
+NOTA TÉCNICA Nº 7/CI/2024  
+Assunto: Superação da Súmula nº 5 do TRT da 7ª Região. Recomendação de encaminhamento de estudo à Comissão de Jurisprudência para os fins do artigo 47 do Regimento Interno.  
+(...)  
+3\. CONCLUSÃO  
+O Centro de Inteligência do Tribunal Regional de Trabalho da 7ª Região, em razão da presente análise e, considerando as disposições constantes nos artigos 46 e 47, do Regimento Interno deste Regional, encaminha a presente Nota Técnica à Comissão de Jurisprudência para análise acerca da possibilidade de elaboração de projeto para cancelamento da Súmula nº 5 deste Regional.
+
+## Processos paradigma
+
+- [Link Nota Técnica](https://www.trt7.jus.br/files/jurisprudencia/notas_tecnicas_cij/2024/NT%207-2024.pdf)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).

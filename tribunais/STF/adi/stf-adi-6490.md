@@ -1,0 +1,25 @@
+# STF · ADI 6490
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6490
+- **Identificador na fonte:** `stf-adi-6490`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 21/02/2022
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6490)
+
+## Ementa
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO – FUNDEB. RECURSOS COMPLEMENTARES REFERENTES À CORREÇÃO DO CÁLCULO DE REPASSES FEDERAIS. RECEBIMENTO DE PRECATÓRIO. PLEITO DE INTERPRETAÇÃO NO SENTIDO DE AUTORIZAR A UTILIZAÇÃO DOS VALORES RECEBIDOS EM AÇÕES DE COMBATE À PANDEMIA DO CORONAVÍRUS: IMPOSSIBILIDADE. VINCULAÇÃO CONSTITUCIONAL DAS RECEITAS REFERENTES AO FUNDEB COM GASTOS VOLTADOS À MANUTENÇÃO E AO DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA. PRECEDENTES. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE.
+
+## Decisão
+
+Após o voto da Ministra Cármen Lúcia (Relatora), que julgava improcedente o pedido formulado na ação direta de inconstitucionalidade, no que foi acompanhada pelos Ministros Alexandre de Moraes, Marco Aurélio, Nunes Marques, Rosa Weber e Dias Toffoli, pediu vista dos autos o Ministro Gilmar Mendes. Plenário, Sessão Virtual de 25.6.2021 a 2.8.2021. Decisão: O Tribunal, por unanimidade, julgou improcedente o pedido formulado na ação direta de inconstitucionalidade, nos termos do voto da Relatora. Plenário, Sessão Virtual de 11.2.2022 a 18.2.2022.
+
+## Ato impugnado
+
+LEG-FED EMC-000024 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1934 CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00176 PAR-00004 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1988 ART-0212A INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000014 ANO-1996 EMENDA CONSTITUCIONAL LEG-FED EMC-000108 ANO-2020 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1988 ART-00060 INC-00004 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LEI-009394 ANO-1996 ART-00070 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00008 ART-00071 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 LDBEN-1996 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED LEI-009424 ANO-1996 LEI ORDINÁRIA LEG-FED LEI-011494 ANO-2007 ART-00001 ART-00002 ART-00021 "CAPUT" ART-00023 INC-00001 ART-00048 LEI ORDINÁRIA LEG-FED LEI-014113 ANO-2020 ART-00025 ART-00029 LEI ORDINÁRIA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=759346663)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

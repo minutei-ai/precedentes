@@ -1,0 +1,19 @@
+# TRT07 · IRDR 5
+
+- **Tribunal:** TRT07
+- **Espécie:** Incidente de Resolução de Demandas Repetitivas
+- **Número:** 5
+- **Identificador na fonte:** `trt07-irdr-5`
+- **Situação na fonte:** Não admitido
+- **Atualização informada pela fonte:** 02/04/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=5)
+
+## Questão submetida a julgamento
+
+IRDR 0080170-41.2020.5.07.0000 - Questão submetida a julgamento: "Aplicação ou não do teto limitador previsto no art. 10, § 2º do Estatuto Previ de 1967 em relação ao cálculo do benefício de aposentadoria complementar."
+
+## Processos paradigma
+
+- [00801704120205070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0080170-41.2020.5.07.0000/2)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TRT07/).

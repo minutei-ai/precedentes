@@ -1,0 +1,25 @@
+# STF · ADI 4950
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 4950
+- **Identificador na fonte:** `stf-adi-4950`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 15/10/2014
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4950)
+
+## Ementa
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI RONDONIENSE N. 2.248/2010. COMERCIALIZAÇÃO DE ARTIGOS DE CONVENIÊNCIA E PRESTAÇÃO DE SERVIÇOS DE UTILIDADE PÚBLICA EM FARMÁCIAS E DROGARIAS DE RONDÔNIA. INEXISTÊNCIA DE INCONSTITUCIONALIDADE FORMAL: COMPETÊNCIA SUPLEMENTAR DOS ESTADOS PARA LEGISLAR SOBRE A MATÉRIA. LEI N. 5.991/1973 (LEI GERAL). ART. 24, § 2º, C/C O ART. 25, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE INCONSTITUCIONALIDADE MATERIAL: OBSERVÂNCIA DO PRINCÍPIO DA PROPORCIONALIDADE. PRECEDENTE: ADI 4.954/AC. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE.
+
+## Decisão
+
+O Tribunal, por unanimidade e nos termos do voto da Relatora, julgou improcedente a ação direta. Ausente, justificadamente, o Ministro Gilmar Mendes. Presidiu o julgamento o Ministro Ricardo Lewandowski. Plenário, 15.10.2014.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00024 INC-00012 PAR-00001 PAR-00002 ART-00025 PAR-00001 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-005991 ANO-1973 ART-00024 PAR-00002 ART-00025 PAR-00001 LEI ORDINÁRIA LEG-FED LEI-009782 ANO-1999 LEI ORDINÁRIA LEG-FED DEC-074710 ANO-1974 DECRETO LEG-FED RES-000328 ANO-1999 RESOLUÇÃO DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA ? ANVISA LEG-EST LEI-002248 ANO-2010 ART-00001 PAR-00001 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00008 INC-00009 INC-00010 INC-00011 INC-00012 INC-00013 INC-00014 INC-00015 INC-00016 INC-00017 PAR-00002 PAR-00003 ART-00002 ART-00003 ART-00004 LEI ORDINÁRIA, RO
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=7182138)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

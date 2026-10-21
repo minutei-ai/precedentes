@@ -1,0 +1,25 @@
+# TJBA · SUM 5
+
+- **Tribunal:** TJBA
+- **Espécie:** Súmula
+- **Número:** 5
+- **Identificador na fonte:** `tjba-sum-5`
+- **Situação na fonte:** Vigente
+- **Atualização informada pela fonte:** 26/08/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjba&tipo=SUM&nr=5)
+
+## Texto disponibilizado pela fonte
+
+A citação pessoal nos processos criminais de que trata o parágrafo único do art. 66 da Lei nº 9.099/95, exige, para que cesse a competência dos Juizados Especiais, o esgotamento de todos os meios necessários para a prática do ato, com expedição de certidão, exarada pelo Oficial de Justiça, atestando a impossibilidade de localização do réu.
+
+## Processos paradigma
+
+- 03124246920128050000
+- 03203544120128050000
+- 03203552620128050000
+- 03203864620128050000
+- 03204262820128050000
+- 03204289520128050000
+- 03204306520128050000
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJBA/).

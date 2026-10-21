@@ -1,0 +1,25 @@
+# STF · ADO 10
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade por Omissão
+- **Número:** 10
+- **Identificador na fonte:** `stf-ado-10`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 29/05/2023
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADO&nr=10)
+
+## Ementa
+
+Ementa Ação direta de inconstitucionalidade por omissão. Julgamento conjunto das ADOS 10 e 11. Direito de resposta (CF, art. 5º, V); regras de produção e de programação das emissoras de rádio e televisão (CF, art. 220, § 3º, II, e art. 221, I a IV); e proibição do monopólio e do oligopólio nos meios de comunicação social (CF, art. 220, § 5º). Inépcia da inicial. Contrariedade à jurisprudência dominante. Perda superveniente do objeto. Prejudicialidade. 1. Inexistência de omissão legislativa quanto ao direito de resposta (CF, art. 5º, V). Norma constitucional de eficacia plena e a aplicabilidade imediata, cuja tutela judicial não requer disciplina específica, podendo ser prestada com fundamento direto na ordem constitucional, assim como por meio da aplicação da legislação ordinária. Precedentes (ADPF 130, Rel. Min. Ayres Britto). 2. Defesa da família contra as programações de rádio e televisão (CF, art. 220, § 3º, II). Proteção constitucional instrumentalizada por meio do Sistema de Classificação Indicativa (ADI 2.404, Rel. Min. Dias Toffoli). 3. Preceitos constitucionais informativos do conteúdo das programações de rádio e televisão (CF, art. 221, I a IV). Normas de princípio cuja densificação normativa não exige“lei específica”. Inépcia da inicial por não indicar a suposta norma instituidora do dever de legislar “especificamente” e por ausência de definição quanto ao conteúdo do provimento judicial requerido (Lei nº 9.868/99, art. 12-B). Prejuízo do pedido em razão da modificação substancial do quadro normativo existente à época do ajuizamento da ação. 4. Proibição do monopólio e do oligopólio nos meios de comunicação social (CF, art. 220, § 5º). Substancial modificação do quandro normativo existente, com superveniente edição da Lei de Defesa da Concorrência (Lei nº 12.529/2011), entre outros diplomas destinados à proteção da ordem econômica. Prejudicialidade. 5. ADOs prejudicadas. Extinção dos processos sem resolução de mérito.
+
+## Decisão
+
+O Tribunal, por unanimidade, assentou o prejuízo das ações diretas de inconstitucionalidade por omissão em apreço (ADO 10 e ADO 11), nos termos do voto da Relatora. Falou, pelo amicus curiae Intervozes Coletivo Brasil de Comunicação Social, a Dra. Eloísa Machado de Almeida. Plenário, Sessão Virtual de 19.5.2023 a 26.5.2023.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 INC-00005 ART-00021 INC-00012 LET-A ART-00037 INC-00007 ART-00103 INC-00008 ART-00220 PAR-00003 INC-00001 INC-00002 PAR-00005 ART-00221 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 ART-00222 PAR-00003 INC-00002 ART-00223 ART-00224 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000036 ANO-2002 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1988 ART-00048 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LEI-005250 ANO-1967 LI-1967 LEI DE IMPRENSA LEG-FED LEI-004117 ANO-1972 LEI ORDINÁRIA LEG-FED LEI-008069 ANO-1990 ECA-1990 ESTATUTO DA CRIANÇA E DO ADOLESCENTE LEG-FED LEI-008313 ANO-1991 LEI ORDINÁRIA LEG-FED LEI-008389 ANO-1991 LEI ORDINÁRIA LEG-FED LEI-008884 ANO-1994 LEI ORDINÁRIA LEG-FED LEI-008977 ANO-1995 LEI ORDINÁRIA LEG-FED LEI-009096 ANO-1995 LEI ORDINÁRIA LEG-FED LEI-009294 ANO-1996 LEI ORDINÁRIA LEG-FED LEI-009472 ANO-1997 ART-00019 INC-00019 LEI ORDINÁRIA LEG-FED LEI-009504 ANO-1997 LEI ORDINÁRIA LEG-FED LEI-009610 ANO-1998 LDA-1998 LEI DO DIREITO AUTORAL LEG-FED LEI-009612 ANO-1998 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00002 INC-00008 ART-0012B ART-0012C LEI ORDINÁRIA LEG-FED LEI-010098 ANO-2000 LEI ORDINÁRIA LEG-FED LEI-010359 ANO-2001 LEI ORDINÁRIA LEG-FED LEI-011652 ANO-2008 LEI ORDINÁRIA LEG-FED LEI-012485 ANO-2011 ART-00005 PAR-00001 PAR-00002 PAR-00003 ART-00006 ART-00002 INC-00001 LEI ORDINÁRIA LEG-FED LEI-012529 ANO-2011 LEI ORDINÁRIA LEG-FED LEI-012965 ANO-2014 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015 ART-00322 "CAPUT" ART-00324 "CAPUT" PAR-00001 CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-FED LEI-013116 ANO-2015 LEI ORDINÁRIA LEG-FED LEI-013188 ANO-2015 LEI ORDINÁRIA LEG-FED LEI-013709 ANO-2018 LEI ORDINÁRIA LEG-FED LEI-013848 ANO-2019 LEI ORDINÁRIA LEG-FED LEI-013879 ANO-2019 LEI ORDINÁRIA LEG-FED LEI-014108 ANO-2020 LEI ORDINÁRIA LEG-FED LEI-014197 ANO-2021 LEI ORDINÁRIA LEG-FED MPR-022281 ANO-2001 ART-00007 INC-00018 MEDIDA PROVISÓRIA LEG-FED DEC-052795 ANO-1963 DECRETO LEG-FED DEC-054398 ANO-1964 DECRETO LEG-FED DEC-004901 ANO-2003 DECRETO LEG-FED PRT-000502 ANO-2021 PORTARIA - DO MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA LEG-EST LEI-014408 ANO-2022 LEI ORDINÁRIA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=768413173)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

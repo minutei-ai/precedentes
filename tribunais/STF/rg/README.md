@@ -1,0 +1,1498 @@
+# STF · Tema de Repercussão Geral
+
+**1.494 registros.** [Voltar ao tribunal](../)
+
+- [RG 1](stf-rg-1.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 2](stf-rg-2.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 3](stf-rg-3.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 4](stf-rg-4.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 5](stf-rg-5.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 6](stf-rg-6.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 7](stf-rg-7.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 8](stf-rg-8.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 9](stf-rg-9.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 10](stf-rg-10.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 11](stf-rg-11.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 12](stf-rg-12.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 13](stf-rg-13.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 14](stf-rg-14.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 15](stf-rg-15.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 16](stf-rg-16.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 17](stf-rg-17.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 18](stf-rg-18.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 19](stf-rg-19.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 20](stf-rg-20.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 21](stf-rg-21.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 22](stf-rg-22.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 23](stf-rg-23.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 24](stf-rg-24.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 25](stf-rg-25.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 26](stf-rg-26.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 27](stf-rg-27.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 28](stf-rg-28.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 29](stf-rg-29.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 30](stf-rg-30.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 31](stf-rg-31.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 32](stf-rg-32.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 33](stf-rg-33.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 34](stf-rg-34.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 35](stf-rg-35.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 36](stf-rg-36.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 37](stf-rg-37.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 38](stf-rg-38.md) — Cancelado
+- [RG 39](stf-rg-39.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 40](stf-rg-40.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 41](stf-rg-41.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 42](stf-rg-42.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 43](stf-rg-43.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 44](stf-rg-44.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 45](stf-rg-45.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 46](stf-rg-46.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 47](stf-rg-47.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 48](stf-rg-48.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 49](stf-rg-49.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 50](stf-rg-50.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 51](stf-rg-51.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 52](stf-rg-52.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 53](stf-rg-53.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 54](stf-rg-54.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 55](stf-rg-55.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 56](stf-rg-56.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 57](stf-rg-57.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 58](stf-rg-58.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 59](stf-rg-59.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 60](stf-rg-60.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 61](stf-rg-61.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 62](stf-rg-62.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 63](stf-rg-63.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 64](stf-rg-64.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 65](stf-rg-65.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 66](stf-rg-66.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 67](stf-rg-67.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 68](stf-rg-68.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 69](stf-rg-69.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 70](stf-rg-70.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 71](stf-rg-71.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 72](stf-rg-72.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 73](stf-rg-73.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 74](stf-rg-74.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 75](stf-rg-75.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 76](stf-rg-76.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 77](stf-rg-77.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 78](stf-rg-78.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 79](stf-rg-79.md) — Há repercussão geral. Leading case: afetado
+- [RG 80](stf-rg-80.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 81](stf-rg-81.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 82](stf-rg-82.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 83](stf-rg-83.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 84](stf-rg-84.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 85](stf-rg-85.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 86](stf-rg-86.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 87](stf-rg-87.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 88](stf-rg-88.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 89](stf-rg-89.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 90](stf-rg-90.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 91](stf-rg-91.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 92](stf-rg-92.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 93](stf-rg-93.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 94](stf-rg-94.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 95](stf-rg-95.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 96](stf-rg-96.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 97](stf-rg-97.md) — Cancelado
+- [RG 98](stf-rg-98.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 99](stf-rg-99.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 100](stf-rg-100.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 101](stf-rg-101.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 102](stf-rg-102.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 103](stf-rg-103.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 104](stf-rg-104.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 105](stf-rg-105.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 106](stf-rg-106.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 107](stf-rg-107.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 108](stf-rg-108.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 109](stf-rg-109.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 110](stf-rg-110.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 111](stf-rg-111.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 112](stf-rg-112.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 113](stf-rg-113.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 114](stf-rg-114.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 115](stf-rg-115.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 116](stf-rg-116.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 117](stf-rg-117.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 118](stf-rg-118.md) — Há repercussão geral. Leading case: afetado
+- [RG 119](stf-rg-119.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 120](stf-rg-120.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 121](stf-rg-121.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 122](stf-rg-122.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 123](stf-rg-123.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 124](stf-rg-124.md) — Cancelado
+- [RG 125](stf-rg-125.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 126](stf-rg-126.md) — Cancelado
+- [RG 127](stf-rg-127.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 128](stf-rg-128.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 129](stf-rg-129.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 130](stf-rg-130.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 131](stf-rg-131.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 132](stf-rg-132.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 133](stf-rg-133.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 134](stf-rg-134.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 135](stf-rg-135.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 136](stf-rg-136.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 137](stf-rg-137.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 138](stf-rg-138.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 139](stf-rg-139.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 140](stf-rg-140.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 141](stf-rg-141.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 142](stf-rg-142.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 143](stf-rg-143.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 144](stf-rg-144.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 145](stf-rg-145.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 146](stf-rg-146.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 147](stf-rg-147.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 148](stf-rg-148.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 149](stf-rg-149.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 150](stf-rg-150.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 151](stf-rg-151.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 152](stf-rg-152.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 153](stf-rg-153.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 154](stf-rg-154.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 155](stf-rg-155.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 156](stf-rg-156.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 157](stf-rg-157.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 158](stf-rg-158.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 159](stf-rg-159.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 160](stf-rg-160.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 161](stf-rg-161.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 162](stf-rg-162.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 163](stf-rg-163.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 164](stf-rg-164.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 165](stf-rg-165.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 166](stf-rg-166.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 167](stf-rg-167.md) — Há repercussão geral. Leading case: afetado
+- [RG 168](stf-rg-168.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 169](stf-rg-169.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 170](stf-rg-170.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 171](stf-rg-171.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 172](stf-rg-172.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 173](stf-rg-173.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 174](stf-rg-174.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 175](stf-rg-175.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 176](stf-rg-176.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 177](stf-rg-177.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 178](stf-rg-178.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 179](stf-rg-179.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 180](stf-rg-180.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 181](stf-rg-181.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 182](stf-rg-182.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 183](stf-rg-183.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 184](stf-rg-184.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 185](stf-rg-185.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 186](stf-rg-186.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 187](stf-rg-187.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 188](stf-rg-188.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 189](stf-rg-189.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 190](stf-rg-190.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 191](stf-rg-191.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 192](stf-rg-192.md) — Cancelado
+- [RG 193](stf-rg-193.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 194](stf-rg-194.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 195](stf-rg-195.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 196](stf-rg-196.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 197](stf-rg-197.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 198](stf-rg-198.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 199](stf-rg-199.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 200](stf-rg-200.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 201](stf-rg-201.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 202](stf-rg-202.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 203](stf-rg-203.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 204](stf-rg-204.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 205](stf-rg-205.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 206](stf-rg-206.md) — Cancelado
+- [RG 207](stf-rg-207.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 208](stf-rg-208.md) — Há repercussão geral. Leading case: afetado
+- [RG 209](stf-rg-209.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 210](stf-rg-210.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 211](stf-rg-211.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 212](stf-rg-212.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 213](stf-rg-213.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 214](stf-rg-214.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 215](stf-rg-215.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 216](stf-rg-216.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 217](stf-rg-217.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 218](stf-rg-218.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 219](stf-rg-219.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 220](stf-rg-220.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 221](stf-rg-221.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 222](stf-rg-222.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 223](stf-rg-223.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 224](stf-rg-224.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 225](stf-rg-225.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 226](stf-rg-226.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 227](stf-rg-227.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 228](stf-rg-228.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 229](stf-rg-229.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 230](stf-rg-230.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 231](stf-rg-231.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 232](stf-rg-232.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 233](stf-rg-233.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 234](stf-rg-234.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 235](stf-rg-235.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 236](stf-rg-236.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 237](stf-rg-237.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 238](stf-rg-238.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 239](stf-rg-239.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 240](stf-rg-240.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 241](stf-rg-241.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 242](stf-rg-242.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 243](stf-rg-243.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 244](stf-rg-244.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 245](stf-rg-245.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 246](stf-rg-246.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 247](stf-rg-247.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 248](stf-rg-248.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 249](stf-rg-249.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 250](stf-rg-250.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 251](stf-rg-251.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 252](stf-rg-252.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 253](stf-rg-253.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 254](stf-rg-254.md) — Há repercussão geral. Leading case: afetado
+- [RG 255](stf-rg-255.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 256](stf-rg-256.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 257](stf-rg-257.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 258](stf-rg-258.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 259](stf-rg-259.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 260](stf-rg-260.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 261](stf-rg-261.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 262](stf-rg-262.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 263](stf-rg-263.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 264](stf-rg-264.md) — Há repercussão geral. Leading case: afetado
+- [RG 265](stf-rg-265.md) — Há repercussão geral. Leading case: afetado
+- [RG 266](stf-rg-266.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 267](stf-rg-267.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 268](stf-rg-268.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 269](stf-rg-269.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 270](stf-rg-270.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 271](stf-rg-271.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 272](stf-rg-272.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 273](stf-rg-273.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 274](stf-rg-274.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 275](stf-rg-275.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 276](stf-rg-276.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 277](stf-rg-277.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 278](stf-rg-278.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 279](stf-rg-279.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 280](stf-rg-280.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 281](stf-rg-281.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 282](stf-rg-282.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 283](stf-rg-283.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 284](stf-rg-284.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 285](stf-rg-285.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 286](stf-rg-286.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 287](stf-rg-287.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 288](stf-rg-288.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 289](stf-rg-289.md) — Há repercussão geral. Leading case: afetado
+- [RG 290](stf-rg-290.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 291](stf-rg-291.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 292](stf-rg-292.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 293](stf-rg-293.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 294](stf-rg-294.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 295](stf-rg-295.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 296](stf-rg-296.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 297](stf-rg-297.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 298](stf-rg-298.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 299](stf-rg-299.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 300](stf-rg-300.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 301](stf-rg-301.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 302](stf-rg-302.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 303](stf-rg-303.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 304](stf-rg-304.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 305](stf-rg-305.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 306](stf-rg-306.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 307](stf-rg-307.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 308](stf-rg-308.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 309](stf-rg-309.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 310](stf-rg-310.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 311](stf-rg-311.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 312](stf-rg-312.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 313](stf-rg-313.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 314](stf-rg-314.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 315](stf-rg-315.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 316](stf-rg-316.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 317](stf-rg-317.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 318](stf-rg-318.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 319](stf-rg-319.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 320](stf-rg-320.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 321](stf-rg-321.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 322](stf-rg-322.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 323](stf-rg-323.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 324](stf-rg-324.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 325](stf-rg-325.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 326](stf-rg-326.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 327](stf-rg-327.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 328](stf-rg-328.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 329](stf-rg-329.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 330](stf-rg-330.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 331](stf-rg-331.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 332](stf-rg-332.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 333](stf-rg-333.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 334](stf-rg-334.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 335](stf-rg-335.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 336](stf-rg-336.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 337](stf-rg-337.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 338](stf-rg-338.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 339](stf-rg-339.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 340](stf-rg-340.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 341](stf-rg-341.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 342](stf-rg-342.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 343](stf-rg-343.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 344](stf-rg-344.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 345](stf-rg-345.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 346](stf-rg-346.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 347](stf-rg-347.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 348](stf-rg-348.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 349](stf-rg-349.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 350](stf-rg-350.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 351](stf-rg-351.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 352](stf-rg-352.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 353](stf-rg-353.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 354](stf-rg-354.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 355](stf-rg-355.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 356](stf-rg-356.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 357](stf-rg-357.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 358](stf-rg-358.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 359](stf-rg-359.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 360](stf-rg-360.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 361](stf-rg-361.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 362](stf-rg-362.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 363](stf-rg-363.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 364](stf-rg-364.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 365](stf-rg-365.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 366](stf-rg-366.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 367](stf-rg-367.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 368](stf-rg-368.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 369](stf-rg-369.md) — Cancelado
+- [RG 370](stf-rg-370.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 371](stf-rg-371.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 372](stf-rg-372.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 373](stf-rg-373.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 374](stf-rg-374.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 375](stf-rg-375.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 376](stf-rg-376.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 377](stf-rg-377.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 378](stf-rg-378.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 379](stf-rg-379.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 380](stf-rg-380.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 381](stf-rg-381.md) — Há repercussão geral. Leading case: afetado
+- [RG 382](stf-rg-382.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 383](stf-rg-383.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 384](stf-rg-384.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 385](stf-rg-385.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 386](stf-rg-386.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 387](stf-rg-387.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 388](stf-rg-388.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 389](stf-rg-389.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 390](stf-rg-390.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 391](stf-rg-391.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 392](stf-rg-392.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 393](stf-rg-393.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 394](stf-rg-394.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 395](stf-rg-395.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 396](stf-rg-396.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 397](stf-rg-397.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 398](stf-rg-398.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 399](stf-rg-399.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 400](stf-rg-400.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 401](stf-rg-401.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 402](stf-rg-402.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 403](stf-rg-403.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 404](stf-rg-404.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 405](stf-rg-405.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 406](stf-rg-406.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 407](stf-rg-407.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 408](stf-rg-408.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 409](stf-rg-409.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 410](stf-rg-410.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 411](stf-rg-411.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 412](stf-rg-412.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 413](stf-rg-413.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 414](stf-rg-414.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 415](stf-rg-415.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 416](stf-rg-416.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 417](stf-rg-417.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 418](stf-rg-418.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 419](stf-rg-419.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 420](stf-rg-420.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 421](stf-rg-421.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 422](stf-rg-422.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 423](stf-rg-423.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 424](stf-rg-424.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 425](stf-rg-425.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 426](stf-rg-426.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 427](stf-rg-427.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 428](stf-rg-428.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 429](stf-rg-429.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 430](stf-rg-430.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 431](stf-rg-431.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 432](stf-rg-432.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 433](stf-rg-433.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 434](stf-rg-434.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 435](stf-rg-435.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 436](stf-rg-436.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 437](stf-rg-437.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 438](stf-rg-438.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 439](stf-rg-439.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 440](stf-rg-440.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 441](stf-rg-441.md) — Há repercussão geral. Leading case: afetado
+- [RG 442](stf-rg-442.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 443](stf-rg-443.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 444](stf-rg-444.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 445](stf-rg-445.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 446](stf-rg-446.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 447](stf-rg-447.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 448](stf-rg-448.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 449](stf-rg-449.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 450](stf-rg-450.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 451](stf-rg-451.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 452](stf-rg-452.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 453](stf-rg-453.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 454](stf-rg-454.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 455](stf-rg-455.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 456](stf-rg-456.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 457](stf-rg-457.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 458](stf-rg-458.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 459](stf-rg-459.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 460](stf-rg-460.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 461](stf-rg-461.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 462](stf-rg-462.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 463](stf-rg-463.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 464](stf-rg-464.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 465](stf-rg-465.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 466](stf-rg-466.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 467](stf-rg-467.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 468](stf-rg-468.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 469](stf-rg-469.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 470](stf-rg-470.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 471](stf-rg-471.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 472](stf-rg-472.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 473](stf-rg-473.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 474](stf-rg-474.md) — Cancelado
+- [RG 475](stf-rg-475.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 476](stf-rg-476.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 477](stf-rg-477.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 478](stf-rg-478.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 479](stf-rg-479.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 480](stf-rg-480.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 481](stf-rg-481.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 482](stf-rg-482.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 483](stf-rg-483.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 484](stf-rg-484.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 485](stf-rg-485.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 486](stf-rg-486.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 487](stf-rg-487.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 488](stf-rg-488.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 489](stf-rg-489.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 490](stf-rg-490.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 491](stf-rg-491.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 492](stf-rg-492.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 493](stf-rg-493.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 494](stf-rg-494.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 495](stf-rg-495.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 496](stf-rg-496.md) — Há repercussão geral. Leading case: afetado
+- [RG 497](stf-rg-497.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 498](stf-rg-498.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 499](stf-rg-499.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 500](stf-rg-500.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 501](stf-rg-501.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 502](stf-rg-502.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 503](stf-rg-503.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 504](stf-rg-504.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 505](stf-rg-505.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 506](stf-rg-506.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 507](stf-rg-507.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 508](stf-rg-508.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 509](stf-rg-509.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 510](stf-rg-510.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 511](stf-rg-511.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 512](stf-rg-512.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 513](stf-rg-513.md) — Cancelado
+- [RG 514](stf-rg-514.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 515](stf-rg-515.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 516](stf-rg-516.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 517](stf-rg-517.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 518](stf-rg-518.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 519](stf-rg-519.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 520](stf-rg-520.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 521](stf-rg-521.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 522](stf-rg-522.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 523](stf-rg-523.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 524](stf-rg-524.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 525](stf-rg-525.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 526](stf-rg-526.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 527](stf-rg-527.md) — Há repercussão geral. Leading case: afetado
+- [RG 528](stf-rg-528.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 529](stf-rg-529.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 530](stf-rg-530.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 531](stf-rg-531.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 532](stf-rg-532.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 533](stf-rg-533.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 534](stf-rg-534.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 535](stf-rg-535.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 536](stf-rg-536.md) — Há repercussão geral. Leading case: afetado
+- [RG 537](stf-rg-537.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 538](stf-rg-538.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 539](stf-rg-539.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 540](stf-rg-540.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 541](stf-rg-541.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 542](stf-rg-542.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 543](stf-rg-543.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 544](stf-rg-544.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 545](stf-rg-545.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 546](stf-rg-546.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 547](stf-rg-547.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 548](stf-rg-548.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 549](stf-rg-549.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 550](stf-rg-550.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 551](stf-rg-551.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 552](stf-rg-552.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 553](stf-rg-553.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 554](stf-rg-554.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 555](stf-rg-555.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 556](stf-rg-556.md) — Há repercussão geral. Leading case: afetado
+- [RG 557](stf-rg-557.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 558](stf-rg-558.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 559](stf-rg-559.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 560](stf-rg-560.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 561](stf-rg-561.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 562](stf-rg-562.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 563](stf-rg-563.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 564](stf-rg-564.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 565](stf-rg-565.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 566](stf-rg-566.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 567](stf-rg-567.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 568](stf-rg-568.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 569](stf-rg-569.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 570](stf-rg-570.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 571](stf-rg-571.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 572](stf-rg-572.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 573](stf-rg-573.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 574](stf-rg-574.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 575](stf-rg-575.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 576](stf-rg-576.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 577](stf-rg-577.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 578](stf-rg-578.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 579](stf-rg-579.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 580](stf-rg-580.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 581](stf-rg-581.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 582](stf-rg-582.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 583](stf-rg-583.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 584](stf-rg-584.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 585](stf-rg-585.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 586](stf-rg-586.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 587](stf-rg-587.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 588](stf-rg-588.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 589](stf-rg-589.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 590](stf-rg-590.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 591](stf-rg-591.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 592](stf-rg-592.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 593](stf-rg-593.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 594](stf-rg-594.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 595](stf-rg-595.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 596](stf-rg-596.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 597](stf-rg-597.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 598](stf-rg-598.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 599](stf-rg-599.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 600](stf-rg-600.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 601](stf-rg-601.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 602](stf-rg-602.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 603](stf-rg-603.md) — Cancelado
+- [RG 604](stf-rg-604.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 605](stf-rg-605.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 606](stf-rg-606.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 607](stf-rg-607.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 608](stf-rg-608.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 609](stf-rg-609.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 610](stf-rg-610.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 611](stf-rg-611.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 612](stf-rg-612.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 613](stf-rg-613.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 614](stf-rg-614.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 615](stf-rg-615.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 616](stf-rg-616.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 617](stf-rg-617.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 618](stf-rg-618.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 619](stf-rg-619.md) — Cancelado
+- [RG 620](stf-rg-620.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 621](stf-rg-621.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 622](stf-rg-622.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 623](stf-rg-623.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 624](stf-rg-624.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 625](stf-rg-625.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 626](stf-rg-626.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 627](stf-rg-627.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 628](stf-rg-628.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 629](stf-rg-629.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 630](stf-rg-630.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 631](stf-rg-631.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 632](stf-rg-632.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 633](stf-rg-633.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 634](stf-rg-634.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 635](stf-rg-635.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 636](stf-rg-636.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 637](stf-rg-637.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 638](stf-rg-638.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 639](stf-rg-639.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 640](stf-rg-640.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 641](stf-rg-641.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 642](stf-rg-642.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 643](stf-rg-643.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 644](stf-rg-644.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 645](stf-rg-645.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 646](stf-rg-646.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 647](stf-rg-647.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 648](stf-rg-648.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 649](stf-rg-649.md) — Cancelado
+- [RG 650](stf-rg-650.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 651](stf-rg-651.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 652](stf-rg-652.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 653](stf-rg-653.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 654](stf-rg-654.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 655](stf-rg-655.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 656](stf-rg-656.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 657](stf-rg-657.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 658](stf-rg-658.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 659](stf-rg-659.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 660](stf-rg-660.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 661](stf-rg-661.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 662](stf-rg-662.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 663](stf-rg-663.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 664](stf-rg-664.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 665](stf-rg-665.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 666](stf-rg-666.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 667](stf-rg-667.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 668](stf-rg-668.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 669](stf-rg-669.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 670](stf-rg-670.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 671](stf-rg-671.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 672](stf-rg-672.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 673](stf-rg-673.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 674](stf-rg-674.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 675](stf-rg-675.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 676](stf-rg-676.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 677](stf-rg-677.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 678](stf-rg-678.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 679](stf-rg-679.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 680](stf-rg-680.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 681](stf-rg-681.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 682](stf-rg-682.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 683](stf-rg-683.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 684](stf-rg-684.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 685](stf-rg-685.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 686](stf-rg-686.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 687](stf-rg-687.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 688](stf-rg-688.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 689](stf-rg-689.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 690](stf-rg-690.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 691](stf-rg-691.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 692](stf-rg-692.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 693](stf-rg-693.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 694](stf-rg-694.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 695](stf-rg-695.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 696](stf-rg-696.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 697](stf-rg-697.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 698](stf-rg-698.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 699](stf-rg-699.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 700](stf-rg-700.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 701](stf-rg-701.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 702](stf-rg-702.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 703](stf-rg-703.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 704](stf-rg-704.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 705](stf-rg-705.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 706](stf-rg-706.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 707](stf-rg-707.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 708](stf-rg-708.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 709](stf-rg-709.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 710](stf-rg-710.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 711](stf-rg-711.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 712](stf-rg-712.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 713](stf-rg-713.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 714](stf-rg-714.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 715](stf-rg-715.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 716](stf-rg-716.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 717](stf-rg-717.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 718](stf-rg-718.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 719](stf-rg-719.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 720](stf-rg-720.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 721](stf-rg-721.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 722](stf-rg-722.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 723](stf-rg-723.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 724](stf-rg-724.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 725](stf-rg-725.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 726](stf-rg-726.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 727](stf-rg-727.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 728](stf-rg-728.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 729](stf-rg-729.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 730](stf-rg-730.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 731](stf-rg-731.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 732](stf-rg-732.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 733](stf-rg-733.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 734](stf-rg-734.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 735](stf-rg-735.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 736](stf-rg-736.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 737](stf-rg-737.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 738](stf-rg-738.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 739](stf-rg-739.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 740](stf-rg-740.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 741](stf-rg-741.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 742](stf-rg-742.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 743](stf-rg-743.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 744](stf-rg-744.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 745](stf-rg-745.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 746](stf-rg-746.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 747](stf-rg-747.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 748](stf-rg-748.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 749](stf-rg-749.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 750](stf-rg-750.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 751](stf-rg-751.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 752](stf-rg-752.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 753](stf-rg-753.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 754](stf-rg-754.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 755](stf-rg-755.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 756](stf-rg-756.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 757](stf-rg-757.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 758](stf-rg-758.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 759](stf-rg-759.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 760](stf-rg-760.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 761](stf-rg-761.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 762](stf-rg-762.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 763](stf-rg-763.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 764](stf-rg-764.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 765](stf-rg-765.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 766](stf-rg-766.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 767](stf-rg-767.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 768](stf-rg-768.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 769](stf-rg-769.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 770](stf-rg-770.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 771](stf-rg-771.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 772](stf-rg-772.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 773](stf-rg-773.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 774](stf-rg-774.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 775](stf-rg-775.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 776](stf-rg-776.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 777](stf-rg-777.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 778](stf-rg-778.md) — Cancelado
+- [RG 779](stf-rg-779.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 780](stf-rg-780.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 781](stf-rg-781.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 782](stf-rg-782.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 783](stf-rg-783.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 784](stf-rg-784.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 785](stf-rg-785.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 786](stf-rg-786.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 787](stf-rg-787.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 788](stf-rg-788.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 789](stf-rg-789.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 790](stf-rg-790.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 791](stf-rg-791.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 792](stf-rg-792.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 793](stf-rg-793.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 794](stf-rg-794.md) — Cancelado
+- [RG 795](stf-rg-795.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 796](stf-rg-796.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 797](stf-rg-797.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 798](stf-rg-798.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 799](stf-rg-799.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 800](stf-rg-800.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 801](stf-rg-801.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 802](stf-rg-802.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 803](stf-rg-803.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 804](stf-rg-804.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 805](stf-rg-805.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 806](stf-rg-806.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 807](stf-rg-807.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 808](stf-rg-808.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 809](stf-rg-809.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 810](stf-rg-810.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 811](stf-rg-811.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 812](stf-rg-812.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 813](stf-rg-813.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 814](stf-rg-814.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 815](stf-rg-815.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 816](stf-rg-816.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 817](stf-rg-817.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 818](stf-rg-818.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 819](stf-rg-819.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 820](stf-rg-820.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 821](stf-rg-821.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 822](stf-rg-822.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 823](stf-rg-823.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 824](stf-rg-824.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 825](stf-rg-825.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 826](stf-rg-826.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 827](stf-rg-827.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 828](stf-rg-828.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 829](stf-rg-829.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 830](stf-rg-830.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 831](stf-rg-831.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 832](stf-rg-832.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 833](stf-rg-833.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 834](stf-rg-834.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 835](stf-rg-835.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 836](stf-rg-836.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 837](stf-rg-837.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 838](stf-rg-838.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 839](stf-rg-839.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 840](stf-rg-840.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 841](stf-rg-841.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 842](stf-rg-842.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 843](stf-rg-843.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 844](stf-rg-844.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 845](stf-rg-845.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 846](stf-rg-846.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 847](stf-rg-847.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 848](stf-rg-848.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 849](stf-rg-849.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 850](stf-rg-850.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 851](stf-rg-851.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 852](stf-rg-852.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 853](stf-rg-853.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 854](stf-rg-854.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 855](stf-rg-855.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 856](stf-rg-856.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 857](stf-rg-857.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 858](stf-rg-858.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 859](stf-rg-859.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 860](stf-rg-860.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 861](stf-rg-861.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 862](stf-rg-862.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 863](stf-rg-863.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 864](stf-rg-864.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 865](stf-rg-865.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 866](stf-rg-866.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 867](stf-rg-867.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 868](stf-rg-868.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 869](stf-rg-869.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 870](stf-rg-870.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 871](stf-rg-871.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 872](stf-rg-872.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 873](stf-rg-873.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 874](stf-rg-874.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 875](stf-rg-875.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 876](stf-rg-876.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 877](stf-rg-877.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 878](stf-rg-878.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 879](stf-rg-879.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 880](stf-rg-880.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 881](stf-rg-881.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 882](stf-rg-882.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 883](stf-rg-883.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 884](stf-rg-884.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 885](stf-rg-885.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 886](stf-rg-886.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 887](stf-rg-887.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 888](stf-rg-888.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 889](stf-rg-889.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 890](stf-rg-890.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 891](stf-rg-891.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 892](stf-rg-892.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 893](stf-rg-893.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 894](stf-rg-894.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 895](stf-rg-895.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 896](stf-rg-896.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 897](stf-rg-897.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 898](stf-rg-898.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 899](stf-rg-899.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 900](stf-rg-900.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 901](stf-rg-901.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 902](stf-rg-902.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 903](stf-rg-903.md) — Há repercussão geral. Leading case: afetado
+- [RG 904](stf-rg-904.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 905](stf-rg-905.md) — Há repercussão geral. Leading case: afetado
+- [RG 906](stf-rg-906.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 907](stf-rg-907.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 908](stf-rg-908.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 909](stf-rg-909.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 910](stf-rg-910.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 911](stf-rg-911.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 912](stf-rg-912.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 913](stf-rg-913.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 914](stf-rg-914.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 915](stf-rg-915.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 916](stf-rg-916.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 917](stf-rg-917.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 918](stf-rg-918.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 919](stf-rg-919.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 920](stf-rg-920.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 921](stf-rg-921.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 922](stf-rg-922.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 923](stf-rg-923.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 924](stf-rg-924.md) — Há repercussão geral. Leading case: afetado
+- [RG 925](stf-rg-925.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 926](stf-rg-926.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 927](stf-rg-927.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 928](stf-rg-928.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 929](stf-rg-929.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 930](stf-rg-930.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 931](stf-rg-931.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 932](stf-rg-932.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 933](stf-rg-933.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 934](stf-rg-934.md) — Há repercussão geral. Leading case: afetado
+- [RG 935](stf-rg-935.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 936](stf-rg-936.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 937](stf-rg-937.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 938](stf-rg-938.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 939](stf-rg-939.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 940](stf-rg-940.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 941](stf-rg-941.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 942](stf-rg-942.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 943](stf-rg-943.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 944](stf-rg-944.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 945](stf-rg-945.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 946](stf-rg-946.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 947](stf-rg-947.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 948](stf-rg-948.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 949](stf-rg-949.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 950](stf-rg-950.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 951](stf-rg-951.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 952](stf-rg-952.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 953](stf-rg-953.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 954](stf-rg-954.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 955](stf-rg-955.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 956](stf-rg-956.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 957](stf-rg-957.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 958](stf-rg-958.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 959](stf-rg-959.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 960](stf-rg-960.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 961](stf-rg-961.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 962](stf-rg-962.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 963](stf-rg-963.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 964](stf-rg-964.md) — Cancelado
+- [RG 965](stf-rg-965.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 966](stf-rg-966.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 967](stf-rg-967.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 968](stf-rg-968.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 969](stf-rg-969.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 970](stf-rg-970.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 971](stf-rg-971.md) — Há repercussão geral. Leading case: afetado
+- [RG 972](stf-rg-972.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 973](stf-rg-973.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 974](stf-rg-974.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 975](stf-rg-975.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 976](stf-rg-976.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 977](stf-rg-977.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 978](stf-rg-978.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 979](stf-rg-979.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 980](stf-rg-980.md) — Cancelado
+- [RG 981](stf-rg-981.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 982](stf-rg-982.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 983](stf-rg-983.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 984](stf-rg-984.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 985](stf-rg-985.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 986](stf-rg-986.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 987](stf-rg-987.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 988](stf-rg-988.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 989](stf-rg-989.md) — Há repercussão geral. Leading case: afetado
+- [RG 990](stf-rg-990.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 991](stf-rg-991.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 992](stf-rg-992.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 993](stf-rg-993.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 994](stf-rg-994.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 995](stf-rg-995.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 996](stf-rg-996.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 997](stf-rg-997.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 998](stf-rg-998.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 999](stf-rg-999.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1000](stf-rg-1000.md) — Há repercussão geral. Leading case: afetado
+- [RG 1001](stf-rg-1001.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1002](stf-rg-1002.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1003](stf-rg-1003.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1004](stf-rg-1004.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1005](stf-rg-1005.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1006](stf-rg-1006.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1007](stf-rg-1007.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1008](stf-rg-1008.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1009](stf-rg-1009.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1010](stf-rg-1010.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1011](stf-rg-1011.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1012](stf-rg-1012.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1013](stf-rg-1013.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1014](stf-rg-1014.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1015](stf-rg-1015.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1016](stf-rg-1016.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 1017](stf-rg-1017.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1018](stf-rg-1018.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1019](stf-rg-1019.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1020](stf-rg-1020.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1021](stf-rg-1021.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1022](stf-rg-1022.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1023](stf-rg-1023.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1024](stf-rg-1024.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1025](stf-rg-1025.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1026](stf-rg-1026.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1027](stf-rg-1027.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1028](stf-rg-1028.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1029](stf-rg-1029.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1030](stf-rg-1030.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1031](stf-rg-1031.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1032](stf-rg-1032.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1033](stf-rg-1033.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1034](stf-rg-1034.md) — Cancelado
+- [RG 1035](stf-rg-1035.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1036](stf-rg-1036.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1037](stf-rg-1037.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1038](stf-rg-1038.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1039](stf-rg-1039.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1040](stf-rg-1040.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1041](stf-rg-1041.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1042](stf-rg-1042.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1043](stf-rg-1043.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1044](stf-rg-1044.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1045](stf-rg-1045.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1046](stf-rg-1046.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1047](stf-rg-1047.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1048](stf-rg-1048.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1049](stf-rg-1049.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1050](stf-rg-1050.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1051](stf-rg-1051.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1052](stf-rg-1052.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1053](stf-rg-1053.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1054](stf-rg-1054.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1055](stf-rg-1055.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1056](stf-rg-1056.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1057](stf-rg-1057.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1058](stf-rg-1058.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1059](stf-rg-1059.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1060](stf-rg-1060.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1061](stf-rg-1061.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1062](stf-rg-1062.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1063](stf-rg-1063.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1064](stf-rg-1064.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1065](stf-rg-1065.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1066](stf-rg-1066.md) — Cancelado
+- [RG 1067](stf-rg-1067.md) — Há repercussão geral. Leading case: afetado
+- [RG 1068](stf-rg-1068.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1069](stf-rg-1069.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1070](stf-rg-1070.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1071](stf-rg-1071.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 1072](stf-rg-1072.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1073](stf-rg-1073.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 1074](stf-rg-1074.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1075](stf-rg-1075.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1076](stf-rg-1076.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1077](stf-rg-1077.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1078](stf-rg-1078.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1079](stf-rg-1079.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1080](stf-rg-1080.md) — Cancelado
+- [RG 1081](stf-rg-1081.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1082](stf-rg-1082.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1083](stf-rg-1083.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1084](stf-rg-1084.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1085](stf-rg-1085.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1086](stf-rg-1086.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1087](stf-rg-1087.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1088](stf-rg-1088.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1089](stf-rg-1089.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1090](stf-rg-1090.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1091](stf-rg-1091.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1092](stf-rg-1092.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1093](stf-rg-1093.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1094](stf-rg-1094.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1095](stf-rg-1095.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1096](stf-rg-1096.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1097](stf-rg-1097.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1098](stf-rg-1098.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1099](stf-rg-1099.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1100](stf-rg-1100.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1101](stf-rg-1101.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1102](stf-rg-1102.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1103](stf-rg-1103.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1104](stf-rg-1104.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1105](stf-rg-1105.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1106](stf-rg-1106.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1107](stf-rg-1107.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1108](stf-rg-1108.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1109](stf-rg-1109.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1110](stf-rg-1110.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1111](stf-rg-1111.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1112](stf-rg-1112.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1113](stf-rg-1113.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 1114](stf-rg-1114.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1115](stf-rg-1115.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1116](stf-rg-1116.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1117](stf-rg-1117.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1118](stf-rg-1118.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1119](stf-rg-1119.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1120](stf-rg-1120.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1121](stf-rg-1121.md) — Há repercussão geral. Leading case: afetado
+- [RG 1122](stf-rg-1122.md) — Há repercussão geral. Leading case: afetado
+- [RG 1123](stf-rg-1123.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1124](stf-rg-1124.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 1125](stf-rg-1125.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1126](stf-rg-1126.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1127](stf-rg-1127.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1128](stf-rg-1128.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1129](stf-rg-1129.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1130](stf-rg-1130.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1131](stf-rg-1131.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1132](stf-rg-1132.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1133](stf-rg-1133.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1134](stf-rg-1134.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1135](stf-rg-1135.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1136](stf-rg-1136.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1137](stf-rg-1137.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1138](stf-rg-1138.md) — Há repercussão geral. Leading case: afetado
+- [RG 1139](stf-rg-1139.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1140](stf-rg-1140.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1141](stf-rg-1141.md) — Há repercussão geral. Leading case: afetado
+- [RG 1142](stf-rg-1142.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1143](stf-rg-1143.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1144](stf-rg-1144.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1145](stf-rg-1145.md) — Há repercussão geral. Leading case: afetado
+- [RG 1146](stf-rg-1146.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1147](stf-rg-1147.md) — Há repercussão geral. Leading case: afetado
+- [RG 1148](stf-rg-1148.md) — Há repercussão geral. Leading case: afetado
+- [RG 1149](stf-rg-1149.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1150](stf-rg-1150.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1151](stf-rg-1151.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1152](stf-rg-1152.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 1153](stf-rg-1153.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1154](stf-rg-1154.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1155](stf-rg-1155.md) — Cancelado
+- [RG 1156](stf-rg-1156.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1157](stf-rg-1157.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1158](stf-rg-1158.md) — Há repercussão geral. Leading case: afetado
+- [RG 1159](stf-rg-1159.md) — Não há repercussão geral. Leading case: transitado em julgado
+- [RG 1160](stf-rg-1160.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1161](stf-rg-1161.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1162](stf-rg-1162.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1163](stf-rg-1163.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1164](stf-rg-1164.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1165](stf-rg-1165.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1166](stf-rg-1166.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1167](stf-rg-1167.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1168](stf-rg-1168.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1169](stf-rg-1169.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1170](stf-rg-1170.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1171](stf-rg-1171.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1172](stf-rg-1172.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1173](stf-rg-1173.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1174](stf-rg-1174.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1175](stf-rg-1175.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1176](stf-rg-1176.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1177](stf-rg-1177.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1178](stf-rg-1178.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1179](stf-rg-1179.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1180](stf-rg-1180.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1181](stf-rg-1181.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1182](stf-rg-1182.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1183](stf-rg-1183.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1184](stf-rg-1184.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1185](stf-rg-1185.md) — Há repercussão geral. Leading case: afetado
+- [RG 1186](stf-rg-1186.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1187](stf-rg-1187.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1188](stf-rg-1188.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1189](stf-rg-1189.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1190](stf-rg-1190.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1191](stf-rg-1191.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1192](stf-rg-1192.md) — Há repercussão geral. Leading case: afetado
+- [RG 1193](stf-rg-1193.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1194](stf-rg-1194.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1195](stf-rg-1195.md) — Há repercussão geral. Leading case: afetado
+- [RG 1196](stf-rg-1196.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1197](stf-rg-1197.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1198](stf-rg-1198.md) — Há repercussão geral. Leading case: afetado
+- [RG 1199](stf-rg-1199.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1200](stf-rg-1200.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1201](stf-rg-1201.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1202](stf-rg-1202.md) — Há repercussão geral. Leading case: afetado
+- [RG 1203](stf-rg-1203.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1204](stf-rg-1204.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1205](stf-rg-1205.md) — Há repercussão geral. Leading case: afetado
+- [RG 1206](stf-rg-1206.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1207](stf-rg-1207.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1208](stf-rg-1208.md) — Há repercussão geral. Leading case: afetado
+- [RG 1209](stf-rg-1209.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1210](stf-rg-1210.md) — Há repercussão geral. Leading case: afetado
+- [RG 1211](stf-rg-1211.md) — Há repercussão geral. Leading case: afetado
+- [RG 1212](stf-rg-1212.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1213](stf-rg-1213.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1214](stf-rg-1214.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1215](stf-rg-1215.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1216](stf-rg-1216.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1217](stf-rg-1217.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1218](stf-rg-1218.md) — Há repercussão geral. Leading case: afetado
+- [RG 1219](stf-rg-1219.md) — Há repercussão geral. Leading case: afetado
+- [RG 1220](stf-rg-1220.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1221](stf-rg-1221.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1222](stf-rg-1222.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1223](stf-rg-1223.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1224](stf-rg-1224.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1225](stf-rg-1225.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1226](stf-rg-1226.md) — Há repercussão geral. Leading case: afetado
+- [RG 1227](stf-rg-1227.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1228](stf-rg-1228.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1229](stf-rg-1229.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1230](stf-rg-1230.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1231](stf-rg-1231.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1232](stf-rg-1232.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1233](stf-rg-1233.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1234](stf-rg-1234.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1235](stf-rg-1235.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1236](stf-rg-1236.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1237](stf-rg-1237.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1238](stf-rg-1238.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1239](stf-rg-1239.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1240](stf-rg-1240.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1241](stf-rg-1241.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1242](stf-rg-1242.md) — Há repercussão geral. Leading case: afetado
+- [RG 1243](stf-rg-1243.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1244](stf-rg-1244.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1245](stf-rg-1245.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1246](stf-rg-1246.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1247](stf-rg-1247.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1248](stf-rg-1248.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1249](stf-rg-1249.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1250](stf-rg-1250.md) — Há repercussão geral. Leading case: afetado
+- [RG 1251](stf-rg-1251.md) — Cancelado
+- [RG 1252](stf-rg-1252.md) — Há repercussão geral. Leading case: afetado
+- [RG 1253](stf-rg-1253.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1254](stf-rg-1254.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1255](stf-rg-1255.md) — Há repercussão geral. Leading case: afetado
+- [RG 1256](stf-rg-1256.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1257](stf-rg-1257.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1258](stf-rg-1258.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 1259](stf-rg-1259.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1260](stf-rg-1260.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1261](stf-rg-1261.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1262](stf-rg-1262.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1263](stf-rg-1263.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1264](stf-rg-1264.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1265](stf-rg-1265.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1266](stf-rg-1266.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1267](stf-rg-1267.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1268](stf-rg-1268.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1269](stf-rg-1269.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1270](stf-rg-1270.md) — Há repercussão geral. Leading case: afetado
+- [RG 1271](stf-rg-1271.md) — Há repercussão geral. Leading case: afetado
+- [RG 1272](stf-rg-1272.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1273](stf-rg-1273.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1274](stf-rg-1274.md) — Há repercussão geral. Leading case: afetado
+- [RG 1275](stf-rg-1275.md) — Há repercussão geral. Leading case: afetado
+- [RG 1276](stf-rg-1276.md) — Há repercussão geral. Leading case: afetado
+- [RG 1277](stf-rg-1277.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1278](stf-rg-1278.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1279](stf-rg-1279.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1280](stf-rg-1280.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1281](stf-rg-1281.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1282](stf-rg-1282.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1283](stf-rg-1283.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1284](stf-rg-1284.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1285](stf-rg-1285.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1286](stf-rg-1286.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1287](stf-rg-1287.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1288](stf-rg-1288.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1289](stf-rg-1289.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1290](stf-rg-1290.md) — Há repercussão geral. Leading case: afetado
+- [RG 1291](stf-rg-1291.md) — Há repercussão geral. Leading case: afetado
+- [RG 1292](stf-rg-1292.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1293](stf-rg-1293.md) — Há repercussão geral. Leading case: afetado
+- [RG 1294](stf-rg-1294.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1295](stf-rg-1295.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1296](stf-rg-1296.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1297](stf-rg-1297.md) — Há repercussão geral. Leading case: afetado
+- [RG 1298](stf-rg-1298.md) — Há repercussão geral. Leading case: afetado
+- [RG 1299](stf-rg-1299.md) — Há repercussão geral. Leading case: afetado
+- [RG 1300](stf-rg-1300.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1301](stf-rg-1301.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1302](stf-rg-1302.md) — Há repercussão geral. Leading case: afetado
+- [RG 1303](stf-rg-1303.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1304](stf-rg-1304.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1305](stf-rg-1305.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1306](stf-rg-1306.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1307](stf-rg-1307.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1308](stf-rg-1308.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1309](stf-rg-1309.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 1310](stf-rg-1310.md) — Há repercussão geral. Leading case: afetado
+- [RG 1311](stf-rg-1311.md) — Há repercussão geral. Leading case: afetado
+- [RG 1312](stf-rg-1312.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1313](stf-rg-1313.md) — Há repercussão geral. Leading case: afetado
+- [RG 1314](stf-rg-1314.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1315](stf-rg-1315.md) — Há repercussão geral. Leading case: afetado
+- [RG 1316](stf-rg-1316.md) — Há repercussão geral. Leading case: afetado
+- [RG 1317](stf-rg-1317.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1318](stf-rg-1318.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1319](stf-rg-1319.md) — Há repercussão geral. Leading case: afetado
+- [RG 1320](stf-rg-1320.md) — Há repercussão geral. Leading case: afetado
+- [RG 1321](stf-rg-1321.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1322](stf-rg-1322.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1323](stf-rg-1323.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1324](stf-rg-1324.md) — Há repercussão geral. Leading case: afetado
+- [RG 1325](stf-rg-1325.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1326](stf-rg-1326.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1327](stf-rg-1327.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1328](stf-rg-1328.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1329](stf-rg-1329.md) — Há repercussão geral. Leading case: afetado
+- [RG 1330](stf-rg-1330.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1331](stf-rg-1331.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1332](stf-rg-1332.md) — Há repercussão geral. Leading case: afetado
+- [RG 1333](stf-rg-1333.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1334](stf-rg-1334.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1335](stf-rg-1335.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1336](stf-rg-1336.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1337](stf-rg-1337.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1338](stf-rg-1338.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1339](stf-rg-1339.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1340](stf-rg-1340.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1341](stf-rg-1341.md) — Há repercussão geral. Leading case: afetado
+- [RG 1342](stf-rg-1342.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1343](stf-rg-1343.md) — Há repercussão geral. Leading case: afetado
+- [RG 1344](stf-rg-1344.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1345](stf-rg-1345.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1346](stf-rg-1346.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1347](stf-rg-1347.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1348](stf-rg-1348.md) — Há repercussão geral. Leading case: afetado
+- [RG 1349](stf-rg-1349.md) — Há repercussão geral. Leading case: afetado
+- [RG 1350](stf-rg-1350.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1351](stf-rg-1351.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1352](stf-rg-1352.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1353](stf-rg-1353.md) — Há repercussão geral. Leading case: afetado
+- [RG 1354](stf-rg-1354.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1355](stf-rg-1355.md) — Há repercussão geral. Leading case: afetado
+- [RG 1356](stf-rg-1356.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1357](stf-rg-1357.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1358](stf-rg-1358.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1359](stf-rg-1359.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1360](stf-rg-1360.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1361](stf-rg-1361.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1362](stf-rg-1362.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1363](stf-rg-1363.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1364](stf-rg-1364.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1365](stf-rg-1365.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1366](stf-rg-1366.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1367](stf-rg-1367.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1368](stf-rg-1368.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1369](stf-rg-1369.md) — Há repercussão geral. Leading case: afetado
+- [RG 1370](stf-rg-1370.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1371](stf-rg-1371.md) — Há repercussão geral. Leading case: afetado
+- [RG 1372](stf-rg-1372.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1373](stf-rg-1373.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1374](stf-rg-1374.md) — Há repercussão geral. Leading case: afetado
+- [RG 1375](stf-rg-1375.md) — Há repercussão geral. Leading case: afetado
+- [RG 1376](stf-rg-1376.md) — Há repercussão geral. Leading case: afetado
+- [RG 1377](stf-rg-1377.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1378](stf-rg-1378.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1379](stf-rg-1379.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1380](stf-rg-1380.md) — Há repercussão geral. Leading case: afetado
+- [RG 1381](stf-rg-1381.md) — Há repercussão geral. Leading case: afetado
+- [RG 1382](stf-rg-1382.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1383](stf-rg-1383.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1384](stf-rg-1384.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1385](stf-rg-1385.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1386](stf-rg-1386.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1387](stf-rg-1387.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1388](stf-rg-1388.md) — Há repercussão geral. Leading case: transitado em julgado
+- [RG 1389](stf-rg-1389.md) — Há repercussão geral. Leading case: afetado
+- [RG 1390](stf-rg-1390.md) — Há repercussão geral. Leading case: afetado
+- [RG 1391](stf-rg-1391.md) — Há repercussão geral. Leading case: afetado
+- [RG 1392](stf-rg-1392.md) — Há repercussão geral. Leading case: afetado
+- [RG 1393](stf-rg-1393.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1394](stf-rg-1394.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1395](stf-rg-1395.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1396](stf-rg-1396.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1397](stf-rg-1397.md) — Há repercussão geral. Leading case: afetado
+- [RG 1398](stf-rg-1398.md) — Há repercussão geral. Leading case: afetado
+- [RG 1399](stf-rg-1399.md) — Há repercussão geral. Leading case: afetado
+- [RG 1400](stf-rg-1400.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1401](stf-rg-1401.md) — Há repercussão geral. Leading case: afetado
+- [RG 1402](stf-rg-1402.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1403](stf-rg-1403.md) — Há repercussão geral. Leading case: afetado
+- [RG 1404](stf-rg-1404.md) — Há repercussão geral. Leading case: afetado
+- [RG 1405](stf-rg-1405.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1406](stf-rg-1406.md) — Há repercussão geral. Leading case: afetado
+- [RG 1407](stf-rg-1407.md) — Há repercussão geral. Leading case: afetado
+- [RG 1408](stf-rg-1408.md) — Há repercussão geral. Leading case: afetado
+- [RG 1409](stf-rg-1409.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1410](stf-rg-1410.md) — Há repercussão geral. Leading case: afetado
+- [RG 1411](stf-rg-1411.md) — Há repercussão geral. Leading case: afetado
+- [RG 1412](stf-rg-1412.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 1413](stf-rg-1413.md) — Há repercussão geral. Leading case: afetado
+- [RG 1414](stf-rg-1414.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1415](stf-rg-1415.md) — Há repercussão geral. Leading case: afetado
+- [RG 1416](stf-rg-1416.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1417](stf-rg-1417.md) — Há repercussão geral. Leading case: afetado
+- [RG 1418](stf-rg-1418.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1419](stf-rg-1419.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1420](stf-rg-1420.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1421](stf-rg-1421.md) — Há repercussão geral. Leading case: afetado
+- [RG 1422](stf-rg-1422.md) — Há repercussão geral. Leading case: afetado
+- [RG 1423](stf-rg-1423.md) — Há repercussão geral. Leading case: afetado
+- [RG 1424](stf-rg-1424.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1425](stf-rg-1425.md) — Há repercussão geral. Leading case: afetado
+- [RG 1426](stf-rg-1426.md) — Há repercussão geral. Leading case: afetado
+- [RG 1427](stf-rg-1427.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1428](stf-rg-1428.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1429](stf-rg-1429.md) — Há repercussão geral. Leading case: afetado
+- [RG 1430](stf-rg-1430.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1431](stf-rg-1431.md) — Há repercussão geral. Leading case: afetado
+- [RG 1432](stf-rg-1432.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1433](stf-rg-1433.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1434](stf-rg-1434.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1435](stf-rg-1435.md) — Há repercussão geral. Leading case: afetado
+- [RG 1436](stf-rg-1436.md) — Há repercussão geral. Leading case: afetado
+- [RG 1437](stf-rg-1437.md) — Há repercussão geral. Leading case: afetado
+- [RG 1438](stf-rg-1438.md) — Há repercussão geral. Leading case: afetado
+- [RG 1439](stf-rg-1439.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1440](stf-rg-1440.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1441](stf-rg-1441.md) — Há repercussão geral. Leading case: afetado
+- [RG 1442](stf-rg-1442.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1443](stf-rg-1443.md) — Há repercussão geral. Leading case: afetado
+- [RG 1444](stf-rg-1444.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: transitado em julgado
+- [RG 1445](stf-rg-1445.md) — Há repercussão geral. Leading case: afetado
+- [RG 1446](stf-rg-1446.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1447](stf-rg-1447.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1448](stf-rg-1448.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1449](stf-rg-1449.md) — Há repercussão geral. Leading case: afetado
+- [RG 1450](stf-rg-1450.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1451](stf-rg-1451.md) — Há repercussão geral. Leading case: mérito julgado
+- [RG 1452](stf-rg-1452.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1453](stf-rg-1453.md) — Repercussão geral em análise. Leading case: afetado
+- [RG 1454](stf-rg-1454.md) — Há repercussão geral. Leading case: afetado
+- [RG 1455](stf-rg-1455.md) — Há repercussão geral. Leading case: acórdão publicado
+- [RG 1456](stf-rg-1456.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1457](stf-rg-1457.md) — Há repercussão geral. Leading case: afetado
+- [RG 1458](stf-rg-1458.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1459](stf-rg-1459.md) — Há repercussão geral. Leading case: afetado
+- [RG 1460](stf-rg-1460.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1461](stf-rg-1461.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1462](stf-rg-1462.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1463](stf-rg-1463.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1464](stf-rg-1464.md) — Há repercussão geral. Leading case: afetado
+- [RG 1465](stf-rg-1465.md) — Há repercussão geral. Leading case: afetado
+- [RG 1466](stf-rg-1466.md) — Há repercussão geral. Leading case: afetado
+- [RG 1467](stf-rg-1467.md) — Há repercussão geral. Leading case: afetado
+- [RG 1468](stf-rg-1468.md) — Há repercussão geral. Leading case: afetado
+- [RG 1469](stf-rg-1469.md) — Há repercussão geral. Leading case: afetado
+- [RG 1470](stf-rg-1470.md) — Há repercussão geral. Leading case: afetado
+- [RG 1471](stf-rg-1471.md) — Há repercussão geral. Leading case: afetado
+- [RG 1472](stf-rg-1472.md) — Há repercussão geral. Leading case: afetado
+- [RG 1473](stf-rg-1473.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1474](stf-rg-1474.md) — Há repercussão geral. Leading case: afetado
+- [RG 1475](stf-rg-1475.md) — Há repercussão geral. Leading case: afetado
+- [RG 1476](stf-rg-1476.md) — Há repercussão geral. Leading case: afetado
+- [RG 1477](stf-rg-1477.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1478](stf-rg-1478.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1479](stf-rg-1479.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1480](stf-rg-1480.md) — Não há repercussão geral (questão infraconstitucional). Leading case: transitado em julgado
+- [RG 1481](stf-rg-1481.md) — Há repercussão geral. Leading case: afetado
+- [RG 1482](stf-rg-1482.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1483](stf-rg-1483.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: mérito julgado
+- [RG 1484](stf-rg-1484.md) — Há repercussão geral. Leading case: afetado
+- [RG 1485](stf-rg-1485.md) — Há repercussão geral. Leading case: afetado
+- [RG 1486](stf-rg-1486.md) — Há repercussão geral com reafirmação de Jurisprudência. Leading case: acórdão publicado
+- [RG 1487](stf-rg-1487.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1488](stf-rg-1488.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1489](stf-rg-1489.md) — Não há repercussão geral (questão infraconstitucional). Leading case: afetado
+- [RG 1490](stf-rg-1490.md) — Repercussão geral em análise. Leading case: afetado
+- [RG 1491](stf-rg-1491.md) — Repercussão geral em análise. Leading case: afetado
+- [RG 1492](stf-rg-1492.md) — Repercussão geral em análise. Leading case: afetado
+- [RG 1493](stf-rg-1493.md) — Repercussão geral em análise. Leading case: afetado
+- [RG 1494](stf-rg-1494.md) — Repercussão geral em análise. Leading case: afetado

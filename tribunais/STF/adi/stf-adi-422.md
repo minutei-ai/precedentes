@@ -1,0 +1,25 @@
+# STF · ADI 422
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 422
+- **Identificador na fonte:** `stf-adi-422`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 23/08/2019
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=422)
+
+## Ementa
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 197, § 2º, DA CONSTITUIÇÃO DO ESTADO DO ESPÍRITO SANTO E ARTIGO 41 DO RESPECTIVO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. VINCULAÇÃO DE RECEITAS AO FOMENTO DE PROJETOS CIENTÍFICOS E TECNOLÓGICOS E A PROGRAMAS DE DESENVOLVIMENTO REGIONAL. FACULTA-SE AOS ESTADOS-MEMBROS E AO DISTRITO FEDERAL A VINCULAÇÃO DE PARCELA DE SUAS RECEITAS ORÇAMENTÁRIAS AO FOMENTO DO ENSINO E DA PESQUISA CIENTÍFICA E TECNOLÓGICA (ARTIGO 218, § 5º, DA CONSTITUIÇÃO FEDERAL). É VEDADA A VINCULAÇÃO DA RECEITA DE IMPOSTOS A FINALIDADES NÃO EXPRESSAMENTE PREVISTAS NA CONSTITUIÇÃO FEDERAL (ARTIGO 167, IV, DA CONSTITUIÇÃO FEDERAL). AÇÃO DIRETA DE INCONSTITUCIONALIDADE CONHECIDA E JULGADO PARCIALMENTE PROCEDENTE O PEDIDO. 1. A Constituição Federal reserva ao Poder Executivo a iniciativa das leis que estabelecem o plano plurianual, as diretrizes orçamentárias e os orçamentos anuais, o que, em respeito à separação dos Poderes, consubstancia norma de observância obrigatória pelos demais entes federados, por simetria. A inserção nos textos constitucionais estaduais dessas matérias, cuja veiculação por lei se submeteria à iniciativa privativa do chefe do Poder Executivo, subtrai a este último a possibilidade de manifestação. Precedentes: ADI 584, rel. min. Dias Toffoli, Plenário, DJe de 9/4/2014; e ADI 1.689, rel. min. Sydney Sanches, Plenário, DJ de 2/5/2003. 2. O artigo 167, IV, da Constituição Federal veda a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvados os casos previstos nesse dispositivo e em outras normas constitucionais. Isso porque o estabelecimento de vinculações de receitas orçamentárias, quando não previstas ou autorizadas na Constituição Federal, cerceia o poder de gestão financeira do chefe do Poder Executivo. Precedentes: ADI 1.759, rel. min. Gilmar Mendes, Plenário, DJe de 20/8/2010; ADI 1.750, rel. min. Eros Grau, Plenário, DJ de 13/10/2006. 3. O artigo 218, § 5º, da Constituição Federal faculta aos Estados-membros e ao Distrito Federal a vinculação de parcela de suas receitas orçamentárias a entidades públicas de fomento ao ensino e à pesquisa científica e tecnológica. Precedentes: ADI 550, rel. min. Ilmar Galvão, Plenário, DJ de 18/10/2002; e ADI 336, rel. min. Eros Grau, Plenário, DJ de 17/9/2010; e ADI 3.576, rel. min. Ellen Gracie, Plenário, DJ de 2/2/2007. 4. O artigo 197, § 2º, da Constituição do Estado do Espírito Santo determina a destinação anual de percentual da receita orçamentária estadual ao fomento de projetos de desenvolvimento científico e tecnológico, hipótese que encontra fundamento no artigo 218, § 5º, da Constituição Federal. 5. O artigo 41 do Ato das Disposições Constitucionais Transitórias do Estado do Espírito Santo determina a destinação anual de percentual da arrecadação do ICMS a programas de financiamento do setor produtivo e de infraestrutura dos Municípios ao norte do Rio Doce e daqueles por ele banhados, consubstanciando afronta ao disposto no artigo 167, IV, da Constituição Federal, que não permite a vinculação da receita de impostos estaduais a programas de desenvolvimento regional. 6. Ação direta de inconstitucionalidade conhecida e julgada parcialmente procedente para declarar a inconstitucionalidade do artigo 41 do Ato das Disposições Constitucionais Transitórias do Estado do Espírito Santo.
+
+## Decisão
+
+Retirado de pauta por indicação do Relator. Presidência, em exercício, do Senhor Ministro Nelson Jobim, Vice-Presidente. Plenário, 26.05.2004. Decisão: Retirado de pauta ante a aposentadoria do Senhor Ministro Eros Grau (Relator). Ausente, licenciado, o Senhor Ministro Joaquim Barbosa. Presidência do Senhor Ministro Cezar Peluso. Plenário, 04.08.2010. Decisão: O Tribunal, por unanimidade, conheceu da ação e julgou parcialmente procedente o pedido para declarar a inconstitucionalidade do artigo 41 do Ato das Disposições Constitucionais Transitórias do Estado do Espírito Santo, nos termos do voto do Relator. Não participou deste julgamento, por motivo de licença médica, o Ministro Celso de Mello. Plenário, Sessão Virtual de 16.8.2019 a 22.8.2019.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00102 INC-00001 LET-A ART-00165 ART-00167 INC-00004 ART-00174 "CAPUT" PAR-00001 ART-00218 PAR-00005 CF-1988 CONSTITUIÇÃO FEDERAL LEG-EST CES ANO-1989 ART-00197 PAR-00002 CONSTITUIÇÃO ESTADUAL, ES LEG-EST ADCT ANO-1988 ART-00041 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS, ES
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=750738448)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

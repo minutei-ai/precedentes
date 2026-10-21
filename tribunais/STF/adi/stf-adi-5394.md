@@ -1,0 +1,25 @@
+# STF · ADI 5394
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 5394
+- **Identificador na fonte:** `stf-adi-5394`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 22/03/2018
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5394)
+
+## Ementa
+
+Ementa: CONSTITUCIONAL E ELEITORAL. IMPRESCINDIBILIDADE DO ABSOLUTO RESPEITO AOS PRINCÍPIOS DE SUSTENTAÇÃO DO SISTEMA DEMOCRÁTICO DE REPRESENTAÇÃO POPULAR. ART. 28, § 12, DA LEI FEDERAL 9.504/1997 (LEI DAS ELEIÇÕES). PRESTAÇÃO DE CONTAS DAS DOAÇÕES DE PARTIDOS PARA CANDIDATOS. NECESSIDADE DE IDENTIFICAÇÃO DOS PARTICULARES RESPONSÁVEIS PELA DOAÇÃO AO PARTIDO. EXIGÊNCIA REPUBLICANA DE TRANSPARÊNCIA. 1. O grande desafio da Democracia representativa é fortalecer os mecanismos de controle em relação aos diversos grupos de pressão, não autorizando o fortalecimento dos “atores invisíveis de poder”, que tenham condições econômicas de desequilibrar o resultado das eleições e da gestão governamental. 2. Os princípios democrático e republicano repelem a manutenção de expedientes ocultos no que concerne ao funcionamento da máquina estatal em suas mais diversas facetas. É essencial ao fortalecimento da Democracia que o seu financiamento seja feito em bases essencialmente republicanas e absolutamente transparentes. Prejudica-se o aprimoramento da Democracia brasileira quando um dos aspectos do princípio democrático — a democracia representativa — se desenvolve em bases materiais encobertas por métodos obscuros de doação eleitoral. 3. Sem as informações necessárias, entre elas a identificação dos particulares que contribuíram originariamente para legendas e para candidatos, com a explicitação também destes, o processo de prestação de contas perde em efetividade, obstruindo o cumprimento, pela Justiça Eleitoral, da relevantíssima competência estabelecida no art. 17, III, da CF. 3. Ação Direta julgada procedente.
+
+## Decisão
+
+Após o voto do Ministro Alexandre de Moraes (Relator), julgando procedente o pedido, para declarar a inconstitucionalidade da expressão “sem individualização dos doadores”, constante da parte final do § 12 do art. 28 da Lei 9.504/97, acrescentada pela Lei 13.165/2015, no que foi acompanhado pelos Ministros Edson Fachin, Roberto Barroso, Rosa Weber, Luiz Fux, Dias Toffoli, Ricardo Lewandowski, Gilmar Mendes e Marco Aurélio, o julgamento foi suspenso. Falaram: pelo requerente, Conselho Federal da Ordem dos Advogados do Brasil - CFOAB, o Dr. Marcus Vinícius Furtado Coelho; e, pela Procuradoria-Geral da República - PGR, a Drª. Raquel Elias Ferreira Dodge, Procuradora-Geral da República. Presidência da Ministra Cármen Lúcia. Plenário, 21.3.2018. Decisão: O Tribunal, por maioria e nos termos do voto do Relator, julgou procedente o pedido, para declarar a inconstitucionalidade da expressão "sem individualização dos doadores", constante da parte final do § 12 do art. 28 da Lei 9.504/97, acrescentada pela Lei 13.165/2015. Em votos ora reajustados, restaram vencidos o Ministro Marco Aurélio, em parte, no que entendeu que a expressão “sem individualização dos doadores” não se refere ao repasse feito pelo partido ao candidato, mas exclusivamente à prestação de contas do partido, e, em maior extensão, o Ministro Edson Fachin, no que julga procedente a ação para declarar inconstitucional todo o § 12 do art. 28 da Lei 9.504/97. Presidiu o julgamento a Ministra Cármen Lúcia. Plenário, 22.3.2018.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000014 ANO-1965 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00001 "CAPUT" ART-00005 INC-00014 INC-00033 ART-00014 PAR-00009 ART-00017 "CAPUT" INC-00003 ART-00030 INC-00003 ART-00033 PAR-00002 ART-00034 INC-00007 LET-D ART-00035 INC-00002 ART-00037 "CAPUT" ART-00049 INC-00009 ART-00051 INC-00002 ART-00070 ART-00071 ART-00072 ART-00073 ART-00074 ART-00075 ART-00084 INC-00024 ART-00103 PAR-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMCR-000004 ANO-1994 EMENDA CONSTITUCIONAL DE REVISÃO LEG-FED LCP-000135 ANO-2010 LEI COMPLEMENTAR LEG-FED LEI-009096 ANO-1995 ART-00030 LEI ORDINÁRIA LEG-FED LEI-009504 ANO-1997 ART-00028 PAR-00004 PAR-00007 ART-00028 PAR-00012 INCLUÍDO PELA LEI-13165/2015 LEI ORDINÁRIA LEG-FED LEI-012527 ANO-2011 LEI ORDINÁRIA LEG-FED LEI-013165 ANO-2015 ART-00002 LEI ORDINÁRIA LEG-FED DEL-003689 ANO-1941 ART-00664 CPP-1941 CÓDIGO DE PROCESSO PENAL LEG-FED RES-023406 ANO-2014 ART-00026 "CAPUT" PAR-00002 PAR-00003 RESOLUÇÃO DO TRIBUNAL SUPERIOR ELEITORAL - TSE LEG-FED RES-023463 ANO-2015 RESOLUÇÃO DO TRIBUNAL SUPERIOR ELEITORAL - TSE LEG-FED RES-023553 ANO-2018 RESOLUÇÃO DO TRIBUNAL SUPERIOR ELEITORAL - TSE LEG-FED RGI ANO-1980 ART-00013 ART-00083 PAR-00001 INC-00003 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=749168081)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

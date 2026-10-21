@@ -1,0 +1,57 @@
+# TJPR · Incidente de Resolução de Demandas Repetitivas
+
+**53 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](tjpr-irdr-1.md) — Cancelado
+- [IRDR 2](tjpr-irdr-2.md) — Sobrestado por tema do STJ
+- [IRDR 3](tjpr-irdr-3.md) — Transitado em julgado
+- [IRDR 4](tjpr-irdr-4.md) — Transitado em julgado
+- [IRDR 5](tjpr-irdr-5.md) — Transitado em julgado
+- [IRDR 6](tjpr-irdr-6.md) — Transitado em julgado
+- [IRDR 7](tjpr-irdr-7.md) — Transitado em julgado
+- [IRDR 8](tjpr-irdr-8.md) — Transitado em julgado
+- [IRDR 9](tjpr-irdr-9.md) — Transitado em julgado
+- [IRDR 10](tjpr-irdr-10.md) — Acórdão Publicado
+- [IRDR 11](tjpr-irdr-11.md) — Transitado em julgado
+- [IRDR 12](tjpr-irdr-12.md) — Transitado em julgado
+- [IRDR 13](tjpr-irdr-13.md) — Transitado em julgado
+- [IRDR 14](tjpr-irdr-14.md) — Transitado em julgado
+- [IRDR 15](tjpr-irdr-15.md) — Transitado em julgado
+- [IRDR 16](tjpr-irdr-16.md) — Transitado em julgado
+- [IRDR 17](tjpr-irdr-17.md) — Transitado em julgado
+- [IRDR 18](tjpr-irdr-18.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 19](tjpr-irdr-19.md) — Transitado em julgado
+- [IRDR 20](tjpr-irdr-20.md) — Transitado em julgado
+- [IRDR 21](tjpr-irdr-21.md) — Transitado em julgado
+- [IRDR 22](tjpr-irdr-22.md) — Transitado em julgado
+- [IRDR 23](tjpr-irdr-23.md) — Transitado em julgado
+- [IRDR 24](tjpr-irdr-24.md) — Transitado em julgado
+- [IRDR 25](tjpr-irdr-25.md) — Transitado em julgado
+- [IRDR 26](tjpr-irdr-26.md) — Transitado em julgado
+- [IRDR 27](tjpr-irdr-27.md) — Transitado em julgado
+- [IRDR 28](tjpr-irdr-28.md) — Transitado em julgado
+- [IRDR 29](tjpr-irdr-29.md) — Acórdão Publicado (RE Pendente)
+- [IRDR 30](tjpr-irdr-30.md) — Transitado em julgado
+- [IRDR 31](tjpr-irdr-31.md) — Transitado em julgado
+- [IRDR 32](tjpr-irdr-32.md) — Cancelado
+- [IRDR 33](tjpr-irdr-33.md) — Admitido
+- [IRDR 34](tjpr-irdr-34.md) — Transitado em julgado
+- [IRDR 35](tjpr-irdr-35.md) — Transitado em julgado
+- [IRDR 36](tjpr-irdr-36.md) — Transitado em julgado
+- [IRDR 37](tjpr-irdr-37.md) — Transitado em julgado
+- [IRDR 38](tjpr-irdr-38.md) — Transitado em julgado
+- [IRDR 39](tjpr-irdr-39.md) — Transitado em julgado
+- [IRDR 40](tjpr-irdr-40.md) — Transitado em julgado
+- [IRDR 41](tjpr-irdr-41.md) — Transitado em julgado
+- [IRDR 42](tjpr-irdr-42.md) — Transitado em julgado
+- [IRDR 43](tjpr-irdr-43.md) — Admitido
+- [IRDR 44](tjpr-irdr-44.md) — Mérito julgado
+- [IRDR 45](tjpr-irdr-45.md) — Mérito julgado
+- [IRDR 47](tjpr-irdr-47.md) — Admitido
+- [IRDR 48](tjpr-irdr-48.md) — Admitido
+- [IRDR 49](tjpr-irdr-49.md) — Mérito julgado
+- [IRDR 50](tjpr-irdr-50.md) — Admitido
+- [IRDR 51](tjpr-irdr-51.md) — Mérito julgado
+- [IRDR 53](tjpr-irdr-53.md) — Admitido
+- [IRDR 54](tjpr-irdr-54.md) — Mérito julgado
+- [IRDR 55](tjpr-irdr-55.md) — Acórdão Publicado

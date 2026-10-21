@@ -1,0 +1,19 @@
+# TJSP · SUM 12
+
+- **Tribunal:** TJSP
+- **Espécie:** Súmula
+- **Número:** 12
+- **Identificador na fonte:** `tjsp-sum-12`
+- **Situação na fonte:** Vigente
+- **Atualização informada pela fonte:** 09/07/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjsp&tipo=SUM&nr=12)
+
+## Texto disponibilizado pela fonte
+
+A ação de cobrança pode ser direcionada contra todos ou qualquer dos condôminos individualmente, no caso de unidade autônoma pertencente a mais de uma pessoa.
+
+## Processos paradigma
+
+- [03434752120098260000](https://esaj.tjsp.jus.br/cposg/show.do?processo.codigo=RI000BNJZ0000)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/TJSP/).

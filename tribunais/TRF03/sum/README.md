@@ -1,0 +1,46 @@
+# TRF03 · Súmula
+
+**42 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trf03-sum-1.md) — Vigente
+- [SUM 2](trf03-sum-2.md) — Vigente
+- [SUM 3](trf03-sum-3.md) — Vigente
+- [SUM 4](trf03-sum-4.md) — Revisado
+- [SUM 5](trf03-sum-5.md) — Vigente
+- [SUM 6](trf03-sum-6.md) — Vigente
+- [SUM 7](trf03-sum-7.md) — Vigente
+- [SUM 8](trf03-sum-8.md) — Vigente
+- [SUM 9](trf03-sum-9.md) — Vigente
+- [SUM 10](trf03-sum-10.md) — Vigente
+- [SUM 11](trf03-sum-11.md) — Vigente
+- [SUM 12](trf03-sum-12.md) — Vigente
+- [SUM 13](trf03-sum-13.md) — Vigente
+- [SUM 14](trf03-sum-14.md) — Vigente
+- [SUM 15](trf03-sum-15.md) — Vigente
+- [SUM 16](trf03-sum-16.md) — Vigente
+- [SUM 17](trf03-sum-17.md) — Vigente
+- [SUM 18](trf03-sum-18.md) — Vigente
+- [SUM 19](trf03-sum-19.md) — Vigente
+- [SUM 20](trf03-sum-20.md) — Vigente
+- [SUM 21](trf03-sum-21.md) — Vigente
+- [SUM 22](trf03-sum-22.md) — Em revisão
+- [SUM 23](trf03-sum-23.md) — Em revisão
+- [SUM 24](trf03-sum-24.md) — Em revisão
+- [SUM 25](trf03-sum-25.md) — Em revisão
+- [SUM 26](trf03-sum-26.md) — Em revisão
+- [SUM 27](trf03-sum-27.md) — Em revisão
+- [SUM 28](trf03-sum-28.md) — Em revisão
+- [SUM 29](trf03-sum-29.md) — Em revisão
+- [SUM 30](trf03-sum-30.md) — Em revisão
+- [SUM 31](trf03-sum-31.md) — Em revisão
+- [SUM 32](trf03-sum-32.md) — Em revisão
+- [SUM 33](trf03-sum-33.md) — Em revisão
+- [SUM 34](trf03-sum-34.md) — Em revisão
+- [SUM 35](trf03-sum-35.md) — Em revisão
+- [SUM 36](trf03-sum-36.md) — Em revisão
+- [SUM 37](trf03-sum-37.md) — Em revisão
+- [SUM 38](trf03-sum-38.md) — Em revisão
+- [SUM 39](trf03-sum-39.md) — Vigente
+- [SUM 40](trf03-sum-40.md) — Vigente
+- [SUM 41](trf03-sum-41.md) — Vigente
+- [SUM 42](trf03-sum-42.md) — Vigente

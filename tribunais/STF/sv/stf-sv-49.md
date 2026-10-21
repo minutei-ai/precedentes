@@ -1,0 +1,15 @@
+# STF · SV 49
+
+- **Tribunal:** STF
+- **Espécie:** Súmula Vinculante
+- **Número:** 49
+- **Identificador na fonte:** `stf-sv-49`
+- **Situação na fonte:** APROVADO
+- **Atualização informada pela fonte:** 22/05/2025
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=SV&nr=49)
+
+## Questão submetida a julgamento
+
+Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área.
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

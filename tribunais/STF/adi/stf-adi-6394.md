@@ -1,0 +1,25 @@
+# STF · ADI 6394
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6394
+- **Identificador na fonte:** `stf-adi-6394`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 23/11/2020
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6394)
+
+## Ementa
+
+Ementa: CONSTITUCIONAL E FINANCEIRO. LEI DE RESPONSABILIDADE FISCAL (LC 101/2000). ARTS. 19, 20, 21, 22 E 23. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ALTERAÇÃO SUBSTANCIAL DE DISPOSITIVO IMPUGNADO. AUSÊNCIA DE INTERESSE DE AGIR. CONHECIMENTO PARCIAL DA AÇÃO. PEDIDO DE INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. PANDEMIA CAUSADA PELA COVID-19. AFASTAMENTO DE LIMITAÇÕES DE DESPESA COM PESSOAL, CONTRATAÇÃO, AUMENTO REMUNERATÓRIO E CONCESSÃO DE VANTAGENS A SERVIDORES PÚBLICOS DA ÁREA DA SAÚDE. DESPESAS DE CARÁTER CONTINUADO. EMENDA CONSTITUCIONAL 106/2020. IMPOSSIBILIDADE. CONHECIMENTO PARCIAL. IMPROCEDÊNCIA. 1. À falta de apresentação de razões específicas, não pode a ação ser conhecida quanto ao pedido de interpretação conforme à Constituição dos arts. 19 e 20 da LRF, pois, segundo a jurisprudência desta SUPREMA CORTE, o déficit de impugnação específica inviabiliza os pedidos veiculados em Ação Direta de Inconstitucionalidade. Precedentes. 2. Ausente pedido de aditamento, a alteração substancial do art. 21 da LRF pela Lei Complementar 173/2020, que estabeleceu o “Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19)”, prejudica a análise do pedido em relação ao dispositivo. 3. Suspensos os efeitos do art. 23 da LRF em razão do reconhecimento de calamidade pública (Decreto Legislativo 6/2020), o requerente carece de interesse para obter, mediante interpretação conforme à Constituição, flexibilização já alcançada em razão do acionamento do art. 65 da LRF. 4. Aplicável a todos os entes federativos, o art. 3º da EC 106/2020 possibilita a flexibilização de limitações legais relacionadas à expansão de ações governamentais de enfrentamento à calamidade e suas consequências sociais e econômicas que, não implicando despesas permanentes, acarretem aumento de despesa. Precedente: ADI 6357 MC-Ref, Rel. Min. ALEXANDRE DE MORAES, j. em 13/5/2020 (acórdão pendente de publicação). 5. O pretendido afastamento de limitações de despesa com pessoal, contratação, aumento remuneratório e concessão de vantagens possui caráter permanente e continuado, razão pela qual não encontra fundamento no regime extraordinário fiscal instituído pela Emenda Constitucional 106, de 7 de maio de 2020. 6. Ação Direta de Inconstitucionalidade parcialmente conhecida e julgada improcedente.
+
+## Decisão
+
+O Tribunal, por unanimidade, conheceu parcialmente da ação direta e, na parte conhecida, julgou improcedente o pedido formulado, nos termos do voto do Relator. Falaram: pelo requerente, Dr. Francisco Armando de Figueiredo Melo, Procurador do Estado; e, pelos interessados, a Dra. Andrea de Quadros Dantas Echeverria, Advogada da União. Plenário, Sessão Virtual de 13.11.2020 a 20.11.2020.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00037 INC-00002 INC-00010 INC-00012 INC-00016 ART-00163 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 ART-00167 INC-00010 ART-00169 "CAPUT" ART-00196 ART-00197 TÍTULO-3 TÍTULO-6 CAPÍTULO-1 CAPÍTULO-2 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000106 ANO-2020 ART-00003 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1988 ART-00038 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LCP-000082 ANO-1995 LEI COMPLEMENTAR LEG-FED LCP-000096 ANO-1999 LEI COMPLEMENTAR LEG-FED LCP-000096 ANO-1999 LEI COMPLEMENTAR LEG-FED LCP-000101 ANO-2000 ART-00019 INC-00001 INC-00002 INC-00003 PAR-00001 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 LET-A LET-B LET-C PAR-00002 ART-00020 INC-00001 LET-A LET-B LET-C LET-D INC-00002 LET-A LET-B LET-C LET-D INC-00003 LET-A LET-B PAR-00001 PAR-00002 INC-00001 INC-00002 LET-A LET-B LET-C LET-D INC-00003 LET-A LET-B PAR-00003 PAR-00004 ART-00021 INC-00001 LET-A LET-B INC-00002 INC-00003 INC-00004 LET-A LET-B PAR-ÚNICO PAR-00001 INC-00001 INC-00002 PAR-00002 ART-00022 PAR-ÚNICO INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 ART-00023 PAR-00001 PAR-00002 PAR-00003 INC-00001 INC-00002 INC-00003 PAR-00004 PAR-00005 INC-00001 INC-00002 PAR-00006 ART-00065 INC-00001 INC-00002 PAR-00001 INC-00001 LET-A LET-B LET-C LET-D INC-00002 INC-00003 PAR-00002 INC-00001 LET-A LET-B INC-00002 PAR-00003 LRF-2000 LEI DE RESPONSABILIDADE FISCAL LEG-FED LCP-000173 ANO-2020 LEI COMPLEMENTAR LEG-FED DLG-000006 ANO-2020 ART-00001 ART-00002 PAR-00001 PAR-00002 PAR-00003 ART-00003 DECRETO LEGISLATIVO LEG-FED MSG-000886 ANO-1995 MENSAGEM PRESIDENCIAL CONVERTIDA EM PEC-173/95 E, POSTERIORMENTE, APROVADA COMO EMC-19/1998
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=754566822)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

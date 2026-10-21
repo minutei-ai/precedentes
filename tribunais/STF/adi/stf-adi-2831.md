@@ -1,0 +1,25 @@
+# STF · ADI 2831
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 2831
+- **Identificador na fonte:** `stf-adi-2831`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 03/05/2021
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=2831)
+
+## Ementa
+
+EMENTA: CONSTITUCIONAL. LEI COMPLEMENTAR ESTADUAL 106/2003, LEI ORGÂNICA DO MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO. PRELIMINARES. ASSOCIAÇÃO BRASILEIRA DOS MAGISTRADOS (AMB). LEGITIMIDADE ATIVA. ARTS. 82, V, “D”, 86, CAPUT E PARÁGRAFO ÚNICO, E 163, CAPUT E PARÁGRAFO ÚNICO. PERDA SUPERVENIENTE DO OBJETO. PREJUDICIALIDADE PARCIAL. MÉRITO. ART. 2º. AUTONOMIA FINANCEIRA DO MINISTÉRIO PÚBLICO. CONSTITUCIONALIDADE. ART. 91, V. GRATIFICAÇÃO PELA PRESTAÇÃO DE SERVIÇO À JUSTIÇA ELEITORAL, PAGÁVEL COM DOTAÇÕES PRÓPRIAS DO TRIBUNAL REGIONAL ELEITORAL DO ESTADO. INCONSTITUCIONALIDADE. CONHECIMENTO PARCIAL. PROCEDÊNCIA PARCIAL. 1. Reconhecida a legitimidade ativa da Associação dos Magistrados Brasileiros – AMB para o ajuizamento da presente demanda, tendo em conta o seu caráter nacional e a existência de pertinência temática entre suas finalidades institucionais e o objeto de impugnação, ainda que não se limite a interesse corporativo. Precedentes. 2. Revogados ou modificados substancialmente os dispositivos impugnados, a análise da presente Ação Direta de Inconstitucionalidade encontra-se parcialmente prejudicada em relação aos arts. 82, V, d, 86, caput e parágrafo único, e 163, caput e parágrafo único, da norma atacada, por perda superveniente do objeto. Precedentes. 3. Para que possa exercer suas funções de Estado de maneira plena e independente, a Constituição de 1988 estabeleceu garantias institucionais invioláveis e impostergáveis ao Ministério Público, entre as quais a autonomia financeira, decorrente do art. 127, § 3º, da Constituição Federal, e especificada no art. 3º da Lei Orgânica Nacional do Ministério Público. Precedentes. 4. De iniciativa do Procurador-Geral de Justiça, o art. 91, V, da Lei Complementar Estadual 106/2003 impõe obrigação e cria despesa ao Poder Judiciário, em afronta à sua autonomia financeira e administrativa e, portanto, à separação dos Poderes. Precedentes. 5. Ação Direta de Inconstitucionalidade parcialmente conhecida e, nessa parte, julgada parcialmente procedente.
+
+## Decisão
+
+Após o voto do Ministro Marco Aurélio (Relator), que julgava prejudicado o exame dos artigos 82, inciso V, alínea “d”, 86, cabeça e parágrafo único, e 163, cabeça e parágrafo único, da Lei Complementar nº 106/2003, do Estado do Rio de Janeiro; assentava, sob o ângulo da pertinência temática, a ilegitimidade ativa da requerente no tocante aos artigos 2º, e 91, inciso V, do ato atacado; e, se vencido nas preliminares, julgava parcialmente procedente o pedido, para declarar a inconstitucionalidade do artigo 91, inciso V, da Lei Complementar nº 106/2003, do Estado do Rio de Janeiro; e dos votos dos Ministros Alexandre de Moraes e Edson Fachin, que rejeitavam a preliminar de ilegitimidade ativa da Associação dos Magistrados Brasileiros (AMB) mas, no mérito, acompanhavam o Relator, pediu vista dos autos o Ministro Dias Toffoli (Presidente). Plenário, Sessão Virtual de 21.8.2020 a 28.8.2020. Decisão: O Tribunal, por maioria, julgou prejudicado o exame dos artigos 82, inciso V, alínea “d”, 86, caput e parágrafo único, e 163, caput e parágrafo único, todos da Lei Complementar nº 106/2003, do Estado do Rio de Janeiro; reconheceu a legitimidade ativa da Associação dos Magistrados Brasileiros (AMB), e julgou parcialmente procedente o pedido, para declarar a constitucionalidade do art. 2º, e a inconstitucionalidade do art. 91, V, ambos da Lei Complementar nº 106/2003, do Estado do Rio de Janeiro, vencido o Ministro Marco Aurélio (Relator) apenas no tocante à legitimidade da requerente. Redigirá o acórdão o Ministro Alexandre de Moraes. Plenário, Sessão Virtual de 23.4.2021 a 30.4.2021.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00002 ART-00005 "CAPUT" ART-00037 INC-00013 ART-00099 PAR-00001 ART-00103 INC-00009 ART-00127 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 PAR-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LCP-000075 ANO-1993 ART-00003 ART-00022 ART-00050 INC-00006 LEI COMPLEMENTAR LEG-FED LCP-000108 ANO-2004 ART-00086 "CAPUT" PAR-NICO LEI COMPLEMENTAR LEG-FED LCP-000113 ANO-2006 LEI COMPLEMENTAR LEG-FED LCP-000177 ANO-2017 LEI COMPLEMENTAR LEG-FED LEI-009868 ANO-1999 ART-00002 INC-00009 LEI ORDINÁRIA LEG-EST LCP-000106 ANO-2003 ART-00002 ART-00003 ART-00050 INC-00005 ART-00082 INC-00001 INC-00005 LET-D INC-00010 ART-00086 "CAPUT" PAR-ÚNICO ART-00091 INC-00005 ART-00163 "CAPUT" PAR-ÚNICO LEI COMPLEMENTAR, RJ LEG-EST LCP-000116 ANO-2007 LEI COMPLEMENTAR
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=756467602)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

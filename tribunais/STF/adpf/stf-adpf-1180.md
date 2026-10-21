@@ -1,0 +1,21 @@
+# STF · ADPF 1180
+
+- **Tribunal:** STF
+- **Espécie:** Arguição de Descumprimento de Preceito Fundamental
+- **Número:** 1180
+- **Identificador na fonte:** `stf-adpf-1180`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 25/05/2026
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADPF&nr=1180)
+
+## Ementa
+
+Ementa: Direito constitucional e administrativo. embargos de declaração em arguição de descumprimento de preceito fundamental. ausência de omissão, obscuridade, contradição ou erro material. Ausência de impugnação específica da lei n. 18.107/2024 do município de são paulo. exame realizado no acórdão embargado. requisito da subsidiariedade. meio processual eficaz concretamente utilizado pelos próprios embargantes perante o tribunal de justiça estadual. alegações de ofensa reflexa à constituição. enfrentamento adequado no julgamento anterior. rediscussão do mérito. inadmissibilidade. rediscussão do mérito. inadmissibilidade. rejeição. I. Caso em exame 1.Embargos de declaração opostos pelo PSOL, PT, PV e PCdoB contra acórdão do Plenário que, por unanimidade, não conheceu da ADPF 1180, sob os fundamentos de ausência de impugnação específica da Lei municipal n. 18.107/2024, não preenchimento do requisito da subsidiariedade previsto no art. 4º, §1º, da Lei n. 9.882/1999, e inadequação da via eleita para análise de controvérsia de natureza eminentemente fática e técnica. II. Questão em discussão 2. Há três questões em discussão: (i) saber se o acórdão embargado incorreu em omissão ao reconhecer a ausência de impugnação específica da Lei n. 18.107/2024; (ii) saber se o acórdão incorreu em omissão ao examinar o requisito da subsidiariedade sem verificar concretamente a eficácia dos meios alternativos disponíveis; e (iii) saber se o acórdão foi omisso ao classificar as alegações dos embargantes como hipóteses de ofensa reflexa à Constituição, sem examinar especificamente a arguição fundada no art. 175, caput, da Constituição Federal. III. Razões de decidir 3. O acórdão embargado examinou expressamente o conteúdo da petição inicial e concluiu, de forma fundamentada, que os requerentes deixaram de apresentar argumentação congruente e específica para a maior parte dos dispositivos impugnados, limitando-se, em parcela relevante, à alegação genérica de omissões normativas ou à imputação de vícios de inconstitucionalidade sem delimitação precisa de seu alcance. A simples enumeração de dispositivos constitucionais supostamente violados não supre o ônus de fundamentação específica exigido pelo controle concentrado de constitucionalidade. 4. O acórdão examinou o requisito da subsidiariedade com profundidade e identificou, de forma precisa e concreta, a existência de meio processual eficaz: os próprios embargantes ajuizaram a ADI n. 2146345-61.2024.8.26.0000 perante o Tribunal de Justiça de São Paulo, que apreciou o mérito com cognição exauriente e julgou improcedente o pedido, com trânsito em julgado certificado em 10/12/2024. O objeto daquela ação era material e fundamentalmente análogo ao da presente ADPF. A tentativa de rediscutir o tema por esta via configura uso inadmissível da ação constitucional como sucedâneo recursal. 5. Quanto à alegação de violação ao art. 175 da Constituição, o acórdão a enfrentou adequadamente ao reconhecer que a argumentação dos requerentes não se dirige à inconstitucionalidade abstrata da lei, mas aos efeitos concretos do contrato de concessão subsequente, cuja apuração exigiria dilação probatória incompatível com o controle concentrado de constitucionalidade. 6. Os argumentos veiculados nos embargos buscam exclusivamente a rediscussão da matéria já decidida, exprimindo inconformismo com o resultado do julgamento, o que é inadmissível nesta via processual. IV. Dispositivo 7. Embargos de declaração conhecidos e rejeitados.
+
+## Decisão
+
+O Tribunal, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do Relator, Ministro Cristiano Zanin. Plenário, Sessão Virtual de 15.5.2026 a 22.5.2026.
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=798168875)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

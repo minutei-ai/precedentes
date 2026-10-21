@@ -1,0 +1,25 @@
+# STF · ADI 6330
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6330
+- **Identificador na fonte:** `stf-adi-6330`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 16/06/2020
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6330)
+
+## Ementa
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONSTITUCIONAL E TRIBUTÁRIO. LEI ESTADUAL 7.603/2001, COM REDAÇÃO DADA PELA LEI 11.077/2020 DO ESTADO DE MATO GROSSO. CUSTAS JUDICIAIS ATRELADAS AO VALOR DA CAUSA OU DA CONDENAÇÃO. POSSIBILIDADE. DESPROPORCIONALIDADE NA MAJORAÇÃO DOS VALORES. VIOLAÇÃO AOS ARTS. 5º, XXXV E LV, 145, II E § 1º, E 150, IV, DA CONSTITUIÇÃO FEDERAL. NÃO OCORRÊNCIA. INTERPRETAÇÃO CONFORME. NECESSIDADE DE OBSERVÂNCIA DO PRINCÍPIO DA ANTERIORIDADE DE EXERCÍCIO TRIBUTÁRIO (ART. 150, III, B, DA CF). PARCIAL PROCEDÊNCIA. 1. A jurisprudência firmada no âmbito deste SUPREMO TRIBUNAL FEDERAL valida o uso do valor da causa como critério para definição do valor das taxas judiciárias, desde que estabelecidos valores mínimos e máximos. (Súmula 667 do SUPREMO; ADI 2.078, Rel. Min. GILMAR MENDES, DJe de 12/4/2011; ADI 2.040-MC, Rel. Min. MAURÍCIO CORRÊA, DJ de 25/2/2000; ADI 2.696, Rel. Min. DIAS TOFFOLI, DJe de 13/3/2017). 2. Ao definir como parâmetro percentuais que, limitados a um teto correspondente a R$ 87.895,00, variam entre 1% e 3%, a incidir sobre o valor da causa ou do acordo homologado, além de estabelecer valores fixos não representativos de qualquer exorbitância para determinados processos e atos processuais (R$ 330,70 e R$ 413,40), a Lei 1.077/2020 do Estado de Mato Grosso manteve-se em sintonia com as balizas jurisprudenciais traçadas por este SUPREMO TRIBUNAL FEDERAL. 3. A norma impugnada fixa limites mínimos e máximos às custas processuais, que espelham valores e percentuais razoáveis para a adequada remuneração do serviço público prestado, de modo a não configurar qualquer ofensa ao acesso à justiça, à ampla defesa, ao princípio da capacidade contributiva, à vedação da utilização de taxas para fins meramente fiscais e ao princípio do não confisco. Constata-se parâmetro percentuais que, limitados a um teto correspondente a R$ 87.895,00, variam entre 1% (um por cento) e 3% (três por cento), a incidir sobre o valor da causa ou do acordo homologado, além de estabelecer valores fixos não representativos de qualquer exorbitância para determinados feitos e atos processuais (R$ 330,70 e R$ 413,40), em sintonia com as balizas jurisprudenciais traçadas por este SUPREMO TRIBUNAL FEDERAL (ADI 3.826, Rel. Min. EROS GRAU, DJe de 19/8/2010 e ADI 2.655, Rel. Min. ELLEN GRACIE, DJ de 26/3/2004, Rel. Min. EDSON FACHIN, Sessão Virtual de 22/5/2020 a 28/8/2020, acórdão pendente de publicação). 4. Impossibilidade de os dispositivos impugnados serem aplicados no exercício financeiro de 2020, haja vista a Lei que os alberga ter sido publicada no Diário Oficial de 13 de janeiro de 2020. Interpretação conforme à Constituição ao art. 16 da Lei 11.077/2020 do Estado de Mato Grosso, de modo a estabelecer que a eficácia do art. 6º e dos Itens 1, 2 e 4 da Tabela A, Item 1 da Tabela B e Item 1 da Tabela C, constantes do art. 13, do mesmo diploma legislativo, iniciar-se-á apenas em 1º de janeiro de 2021. 5. Ação Direta de Inconstitucionalidade julgada parcialmente procedente.
+
+## Decisão
+
+O Tribunal, por maioria, julgou parcialmente procedente o pedido para, conferindo interpretação conforme à Constituição ao art. 16 da Lei nº 11.077/2020 do Estado de Mato Grosso, estabelecer que, em respeito ao princípio da anterioridade de exercício (art. 150, III, b, da Constituição Federal), a eficácia do art. 6º e dos Itens 1, 2 e 4 da Tabela A, Item 1 da Tabela B e Item 1 da Tabela C, constantes do art. 13, também da Lei nº 11.077/2020 do Estado de Mato Grosso, iniciar-se-á apenas em 1º de janeiro de 2021, nos termos do voto do Relator, vencido o Ministro Marco Aurélio, que divergia parcialmente do Relator, no que projeta a eficácia do pronunciamento do conflito da Lei com a Constituição Federal. Plenário, Sessão Virtual de 5.6.2020 a 15.6.2020.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00005 INC-00035 INC-00055 INC-00074 ART-00060 PAR-00004 INC-00004 ART-00145 INC-00002 PAR-00001 ART-00150 INC-00003 LET-B LET-C PAR-00001 INC-00004 ART-00195 PAR-00006 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000042 ANO-2003 EMENDA CONSTITUCIONAL LEG-FED LEI-004230 ANO-1964 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015 ART-00098 CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-FED SUMSTF-000667 SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF LEG-EST LEI-007603 ANO-2001 TABELA-A ITEM-1 ITEM-2 ITEM-4 TABELA-B ITEM-1 TABELA-C ITEM-1 LEI ORDINÁRIA, MT LEG-EST LEI-011077 ANO-2020 ART-00006 ART-00013 ART-00016 LEI ORDINÁRIA, MT
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753175110)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

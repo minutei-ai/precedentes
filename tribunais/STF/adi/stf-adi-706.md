@@ -1,0 +1,23 @@
+# STF · ADI 706
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 706
+- **Identificador na fonte:** `stf-adi-706`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 24/06/1992
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=706)
+
+## Ementa
+
+CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEGITIMIDADE ATIVA. ENTIDADE HIBRIDA. CONFEDERAÇÃO SINDICAL. C.F., ART. 103, IX. I. - ENTIDADE DE CLASSE HIBRIDA, PORQUE COMPOSTA DE ASSOCIAÇÕES DE CLASSE E POR ENTIDADES SINDICAIS, NÃO TEM LEGITIMIDADE ATIVA PARA A AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ADIN N. 530-8-DF, DJ 22.XI.91; ADIN N. 433-DF. TAMBÉM NÃO ESTAO LEGITIMADAS ATIVAMENTE PARA A AÇÃO DIRETA DE INCONSTITUCIONALIDADE AS DENOMINADAS CONFEDERAÇÕES QUE NÃO ESTAO ORGANIZADAS NOS MOLDES DA C.L.T., ARTS. 533 E SEGUINTES. SOMENTE A CONFEDERAÇÃO QUE SE COMPOE, NO MINIMO, DE TRES FEDERAÇÕES SINDICAIS, E QUE AGRUPA APENAS FEDERAÇÕES SINDICAIS, E QUE TEM LEGITIMAÇÃO ATIVA PARA A AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ADIN N. 433-6-DF. II. - AGRAVO REGIMENTAL IMPROVIDO,
+
+## Decisão
+
+Decisão: Por votação unânime, o tribunal negou provimento ao agravo regimental. Votou o presidente. Plenário, 24.06.92
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00103 INC-00009 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED DEL-005452 ANO-1943 ART-00533 ART-00534 ART-00535 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

@@ -1,0 +1,25 @@
+# STF · ADI 5725
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 5725
+- **Identificador na fonte:** `stf-adi-5725`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 06/12/2018
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=5725)
+
+## Ementa
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DIREITO CONSTITUCIONAL. LEI 18.909/2016 DO ESTADO DO PARANÁ. INSTITUIÇÃO DE OBRIGAÇÃO PARA AS EMPRESAS CONCESSIONÁRIAS DE SERVIÇOS DE TELECOMUNICAÇÕES DE MANTEREM ESCRITÓRIOS REGIONAIS E REPRESENTANTES LEGAIS PARA ATENDIMENTO PRESENCIAL DE CONSUMIDORES EM CIDADES COM POPULAÇÃO SUPERIOR A 100 (CEM) MIL HABITANTES, BEM COMO DE DIVULGAÇÃO DOS CORRESPONDENTES ENDEREÇOS FÍSICOS NO SÍTIO ELETRÔNICO DAS OPERADORAS, NO CONTRATO DE PRESTAÇÃO DE SERVIÇOS E NAS FATURAS ENVIADAS AOS USUÁRIOS. INCONSTITUCIONALIDADE FORMAL. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE TELECOMUNICAÇÕES. (ARTIGO 22, IV, DA CONSTITUIÇÃO FEDERAL). AFASTAMENTO DA COMPETÊNCIA CONCORRENTE DO ESTADO-MEMBRO PARA LEGISLAR SOBRE CONSUMO (ARTIGO 24, V E VIII, DA CONSTITUIÇÃO FEDERAL). USUÁRIO DE SERVIÇOS PÚBLICOS CUJO REGIME GUARDA DISTINÇÃO COM A FIGURA DO CONSUMIDOR (ARTIGO 175, PARÁGRAFO ÚNICO, II, DA CONSTITUIÇÃO FEDERAL). AÇÃO DIRETA DE INCONSTITUCIONALIDADE CONHECIDA E JULGADO PROCEDENTE O PEDIDO. 1. Serviços públicos de telecomunicações (artigos 21, XI, e 22, IV) são regulados privativamente pela União, que ostenta competência legislativa e administrativa para a sua disciplina e prestação, à luz do sistema federativo instituído pela Constituição Federal. 2. A Lei 18.909/2016 do Estado do Paraná instituiu obrigação para as empresas concessionárias de serviços de telecomunicações de manterem escritórios regionais e representantes legais para atendimento presencial de consumidores em cidades com população superior a 100 (cem) mil habitantes, bem como de divulgação dos correspondentes endereços físicos no sítio eletrônico das operadoras, no contrato de prestação de serviços e nas faturas enviadas aos usuários. 3. A proteção do consumidor não legitima a eventual competência dos estados-membros para legislar sobre normas aplicáveis aos prestadores de serviços de telecomunicações, ainda que a pretexto de proteção consumerista ou da saúde dos usuários. Precedentes: ADI 5.253, Rel. Min. Dias Toffoli, Plenário, DJe de 01/08/2017; ADI 4.861, Rel. Min. Gilmar Mendes, Plenário, DJe de 01/08/2017; ADI 4.477, Rel. Min. Rosa Weber, Plenário, DJe de 31/05/2017; ADI 2.615, Rel. Min. Eros Grau, Rel. p/ acórdão Min. Gilmar Mendes, DJe de 18/05/2015; ADI 4.478, Rel. Min. Ayres Britto, Rel. p/ acórdão Min. Luiz Fux, DJe de 29.11.2011. 4. In casu, inexiste o suposto respaldo para o diploma impugnado na competência concorrente dos estados-membros para dispor sobre direito do consumidor (artigo 24, V e VIII, da Constituição Federal), cuja interpretação não pode conduzir à frustração da teleologia das normas que estabelecem as competências privativas da União. O consumidor e o usuário de serviços públicos ostentam regimes jurídicos diversos, pois o regime jurídico deste último, além de informado pela lógica da solidariedade social (artigo 3º, I, da Constituição Federal), encontra sede específica na cláusula “direitos dos usuários”, prevista no artigo 175, parágrafo único, II, da Constituição Federal, enquanto o primeiro subsume-se à disciplina do Código de Defesa do Consumidor. 5. Ação direta conhecida e julgado procedente o pedido, para declarar a inconstitucionalidade da Lei 18.909/2016 do Estado do Paraná.
+
+## Decisão
+
+O Tribunal, por unanimidade, conheceu da ação direta e julgou procedente o pedido formulado para declarar a inconstitucionalidade da Lei 18.909/2016, do Estado do Paraná, nos termos do voto do Relator. Não participou, justificadamente, deste julgamento, o Ministro Gilmar Mendes. Ausentes, justificadamente, os Ministros Celso de Mello e Cármen Lúcia. Presidência do Ministro Dias Toffoli. Plenário, 6.12.2018.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00001 INC-00005 ART-00003 INC-00001 ART-00021 INC-00011 ART-00022 INC-00004 ART-00023 ART-00024 INC-00005 INC-00008 ART-00103 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 INC-00007 INC-00008 INC-00009 ART-00175 PAR-ÚNICO INC-00002 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008078 ANO-1990 CDC-1990 CÓDIGO DE DEFESA DO CONSUMIDOR LEG-EST LEI-017663 ANO-2013 ART-00001 REDAÇÃO DADA PELA LEI-18909/2016 ART-00001 PAR-00001 REDAÇÃO DADA PELA LEI-18909/2016 ART-00001 PAR-00002 REDAÇÃO DADA PELA LEI-18909/2016 ART-00001 PAR-00003 REDAÇÃO DADA PELA LEI-18909/2016 ART-00002 REDAÇÃO ORIGINÁRIA ART-00002 REDAÇÃO DADA PELA LEI-18909/2016 ART-00003 REDAÇÃO ORIGINÁRIA ART-00003 REDAÇÃO DADA PELA LEI-18909/2016 LEI ORDINÁRIA, PR LEG-EST LEI-018909 ANO-2016 LEI ORDINÁRIA, PR
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=748888120)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

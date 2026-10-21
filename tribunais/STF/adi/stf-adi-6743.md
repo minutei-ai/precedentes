@@ -1,0 +1,29 @@
+# STF · ADI 6743
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 6743
+- **Identificador na fonte:** `stf-adi-6743`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 22/02/2023
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=6743)
+
+## Texto disponibilizado pela fonte
+
+Usurpa a competência privativa da União (art. 22, XVI, CF) norma estadual que, a pretexto de regulamentar questões administrativas, impõe condições ao exercício de determinada profissão.
+
+## Ementa
+
+Ementa: Direito constitucional e administrativo. Ação direta de inconstitucionalidade. Normas do Estado de Santa Catarina. Profissão de despachante documentalista. Usurpação da competência privativa da União. 1. Ação direta de inconstitucionalidade contra a Lei nº 10.609/1997, os arts. 1º, § 1º, II; 3º e 5º da Lei nº 16.578/2015, os arts. 4º, §§ 5º e 6º; 6º e 8º, caput e § 4º, II, da Lei nº 17.879/2020 e, por arrastamento, os Decretos nos 1.635/2004 e 3.219/1998, todos do Estado de Santa Catarina, que disciplinam o exercício da profissão de despachante. 2. A ausência de impugnação de ato jurídico revogado pela norma tida como inconstitucional, quando presente o mesmo vício de inconstitucionalidade, não inviabiliza o conhecimento da ação. Precedentes. Preliminar afastada. 3. Não conhecimento do pedido quanto ao Decreto estadual nº 3.219/1998, tendo em vista que já revogado, quando da propositura da ação, pelo Decreto nº 1.635/2004, também impugnado. 4. Compete privativamente à União legislar sobre condições para o exercício de profissões (art. 22, XVI, CF), ainda que a atividade envolva a prestação de serviços perante órgãos da administração pública local. Precedentes. Em diversos julgados, o Supremo Tribunal Federal afirmou a inconstitucionalidade formal de norma estadual que estabelece condições, delimita atribuições ou comina penalidades aos integrantes de determinada categorial profissional. 5. No caso, a pretexto de definir regras administrativas sobre atuação dos despachantes junto a órgãos estaduais, as normas estaduais acabam por legislar sobre atribuições profissionais e condições para seu exercício, de modo a incidir em inconstitucionalidade formal. 6. Ao disciplinar o uso dos termos cartório e cartório extrajudicial, de modo a evitar a sua utilização indevida por particulares não autorizados ao exercício dessa função, o Estado de Santa Catarina atuou dentro da área de sua competência concorrente para legislar sobre direito do consumidor (art. 24, V, CF). 7. Ação direta de inconstitucionalidade parcialmente conhecida e, na parte conhecida, julgada parcialmente procedente, com a fixação da seguinte tese: “Usurpa a competência privativa da União (art. 22, XVI, CF) norma estadual que, a pretexto de regulamentar questões administrativas, impõe condições ao exercício de determinada profissão”.
+
+## Decisão
+
+O Tribunal, por unanimidade, i) deixou de conhecer do pedido quanto ao Decreto Estadual nº 3.219/1998; ii) julgou improcedente o pedido em relação aos arts. 1º, § 1º, II, 3º e 5º da Lei Estadual nº 16.578/2015; iii) julgou procedente o pedido, para declarar a inconstitucionalidade formal da Lei nº 10.609/1997, dos arts. 4º, §§ 5º e 6º, 6º e 8º, caput e § 4º, II, da Lei nº 17.879/2020 e, por arrastamento, do Decreto nº 1.635/2004, todos do Estado de Santa Catarina, declarando também a inconstitucionalidade formal das Leis Estaduais nºs 8.075/1990 e 9.816/1994, e iv) fixou a seguinte tese de julgamento: “Usurpa a competência privativa da União (art. 22, XVI, CF) norma estadual que, a pretexto de regulamentar questões administrativas, impõe condições ao exercício de determinada profissão”. Tudo nos termos do voto do Relator. Plenário, Sessão Virtual de 10.2.2023 a 17.2.2023.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00022 INC-00016 PAR-ÚNICO ART-00024 INC-00005 ART-00236 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-008078 ANO-1990 CDC-1990 CÓDIGO DE DEFESA DO CONSUMIDOR LEG-FED LEI-008935 ANO-1994 LEI ORDINÁRIA LEG-FED LEI-010609 ANO-1997 ART-00001 PAR-00001 INC-00002 ART-00004 PAR-00005 PAR-00006 ART-00008 "CAPUT" PAR-00004 INC-00002 LEI ORDINÁRIA LEG-FED LEI-011336 ANO-2000 ART-00015 LEI ORDINÁRIA LEG-FED LEI-011922 ANO-2001 ART-00001 PAR-00001 PAR-00004 ART-00004 "CAPUT" INC-I INC-II INC-III INC-IV INC-V INC-VI ART-00007 ART-00008 ART-00009 ART-00012 ART-00013 PAR-00001 PAR-00002 PAR-00003 ART-00015 ART-00016 ART-00017 ART-00019 ART-00020 ART-00024 LEI ORDINÁRIA LEG-FED LEI-010602 ANO-2002 ART-00005 ART-00006 PAR-ÚNICO LEI ORDINÁRIA LEG-FED LEI-016578 ANO-2015 ART-00001 PAR-00001 INC-00002 ART-00003 ART-00005 LEI ORDINÁRIA LEG-FED LEI-017879 ANO-2020 ART-00004 PAR-00005 PAR-00006 ART-00008 "CAPUT" PAR-00004 INC-00002 LEI ORDINÁRIA LEG-FED INT-000034 ANO-2021 INSTRUÇÃO NORMATIVA DO DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN LEG-EST LEI-008075 ANO-1990 LEI ORDINÁRIA, SC LEG-EST LEI-009816 ANO-1994 LEI ORDINÁRIA, SC LEG-EST LEI-010609 ANO-1997 ART-00004 PAR-00005 PAR-00006 ART-00006 ART-00008 "CAPUT" LEI ORDINÁRIA, SC LEG-EST LEI-002410 ANO-2002 LEI ORDINÁRIA, MT LEG-EST LEI-015043 ANO-2004 LEI ORDINÁRIA, GO LEG-EST LEI-015694 ANO-2011 LEI ORDINÁRIA, SC LEG-EST LEI-013206 ANO-2014 LEI ORDINÁRIA, BA LEG-EST LEI-014475 ANO-2014 LEI ORDINÁRIA, RS LEG-EST LEI-010161 ANO-2017 LEI ORDINÁRIA, RN LEG-EST DEC-003219 ANO-1998 DECRETO, SC LEG-EST DEC-001635 ANO-2004 DECRETO, SC LEG-EST PRT-000831 ANO-2001 PORTARIA DO DEPARTAMENTO ESTADUAL DE TRÂNSITO, TO LEG-EST PRT-000596 ANO-2017 PORTARIA DO DEPARTAMENTO ESTADUAL DE TRÂNSITO, BA
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=765893355)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

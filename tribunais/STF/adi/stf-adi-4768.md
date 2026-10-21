@@ -1,0 +1,25 @@
+# STF · ADI 4768
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 4768
+- **Identificador na fonte:** `stf-adi-4768`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 23/11/2022
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=4768)
+
+## Ementa
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ADMINISTRATIVO. LEI COMPLEMENTAR N. 75/1993 E LEI N. 8.625/1993. PRERROGATIVA DOS MEMBROS DO MINISTÉRIO PÚBLICO DE SE APRESENTAR NO MESMO PLANO E À DIREITA DOS MAGISTRADOS NAS AUDIÊNCIAS E SESSÕES DE JULGAMENTO. INEXISTÊNCIA DE AFRONTA AOS PRINCÍPIOS DA ISONOMIA, DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO OU COMPROMETIMENTO DA PARIDADE DE ARMAS ENTRE DEFESA E ACUSAÇÃO. PERFIL INSTITUCIONAL DO MINISTÉRIO PÚBLICO NA DEFESA DA ORDEM JURÍDICA, DO REGIME DEMOCRÁTICO E DOS INTERESSES SOCIAIS E INDIVIDUAIS INDISPONÍVEIS (ART. 127 DA CONSTITUIÇÃO DA REPÚBLICA). PROTEÇÃO DO INTERESSE PÚBLICO. INCINDIBILIDADE DAS FUNÇÕES DE FISCAL DA LEI E PARTE PROCESSUAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE.
+
+## Decisão
+
+Após o voto da Ministra Cármen Lúcia (Relatora), que julgava improcedente a ação direta de inconstitucionalidade; e do voto do Ministro Edson Fachin, que também julgava improcedente a ação, mas por fundamentos divergentes, o julgamento foi suspenso. Falaram: pelo requerente, a Dra. Bruna Santos Costa; pelo amicus curiae Associação Nacional dos Membros do Ministério Público - CONAMP, o Dr. Aristides Junqueira Alvarenga; pelo amicus curiae Associação Nacional dos Defensores Públicos - ANADEP, o Dr. Luis Gustavo Grandinetti Castanho de Carvalho; pelo amicus curiae Associação Nacional dos Defensores Públicos Federais - ANADEF, o Dr. Cláudio Pereira de Souza Neto; pelo amicus curiae Instituto Brasileiro de Ciências Criminais - IBCCRIM, a Dra. Marina Pinhão Coelho Araújo; e, pela Procuradoria-Geral da República, o Dr. Antônio Augusto Brandão de Aras, Procurador-Geral da República. Não participou, justificadamente, deste julgamento o Ministro Luiz Fux. Ausentes, justificadamente, os Ministros Gilmar Mendes e Dias Toffoli. Presidência da Ministra Rosa Weber. Plenário, 17.11.2022. Decisão: O Tribunal, por maioria, conheceu da ação direta e julgou improcedente o pedido formulado, nos termos do voto da Relatora, vencidos, em parte, os Ministros Ricardo Lewandowski e Gilmar Mendes, que julgavam parcialmente procedente a ação para dar interpretação conforme aos dispositivos impugnados, nos termos de seus votos, e, em menor extensão, a Ministra Rosa Weber (Presidente), que conferia interpretação conforme a Constituição aos mesmos dispositivos exclusivamente quanto aos julgamentos pelo Tribunal do Júri. Plenário, 23.11.2022.
+
+## Ato impugnado
+
+LEG-IMP CIB ANO-1824 ART-00048 CIB-1824 CONSTITUIÇÃO POLITICA DO IMPERIO DO BRAZIL LEG-IMP IMP ANO-1832 LEI DO IMPÉRIO CÓDIGO DE PROCESSO CRIMINAL LEG-FED CF ANO-1891 ART-00058 PAR-00002 CF-1891 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1934 CF-1934 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1937 CF-1937 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1946 CF-1946 CONSTITUIÇÃO FEDERAL LEG-FED CF ANO-1967 ART-00094 CF-1967 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000001 ANO-1969 EMENDA CONSTITUCIONAL LEG-FED CF ANO-1988 ART-00002 ART-00005 "CAPUT" INC-00001 INC-00035 INC-00038 INC-00054 INC-00055 ART-00022 INC-00001 ART-00024 INC-00011 ART-00050 PAR-00002 ART-00053 PAR-00004 ART-00055 PAR-00003 ART-00057 PAR-00005 ART-00058 PAR-00001 ART-00060 PAR-00003 ART-00092 ART-00093 INC-00009 INC-00010 ART-00098 INC-00001 ART-00103 INC-00006 PAR-00001 ART-0103B PAR-00006 ART-00106 PAR-00002 ART-00115 PAR-00001 ART-00125 PAR-00007 ART-00127 "CAPUT" PAR-00001 PAR-00002 PAR-00003 ART-00128 PAR-00005 INC-00001 LET-A LET-B LET-C ART-00129 INC-00001 INC-00002 INC-00003 INC-00004 INC-00007 PAR-00004 ART-00133 TÍTULO-00004 CAPÍTULO-00004 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED EMC-000045 ANO-2004 EMENDA CONSTITUCIONAL LEG-FED EMC-000080 ANO-2014 EMENDA CONSTITUCIONAL LEG-FED ADCT ANO-1988 ART-00021 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS LEG-FED LCP-000075 ANO-1993 ART-00018 INC-00001 LET-A LEI COMPLEMENTAR LEG-FED LEI-003071 ANO-1916 CC-1916 CÓDIGO CIVIL LEG-FED LEI-004717 ANO-1965 ART-00009 LEI ORDINÁRIA LEG-FED LEI-008625 ANO-1993 ART-00041 INC-00011 LEI ORDINÁRIA LEG-FED LEI-009868 ANO-1999 ART-00008 ART-00012 LEI ORDINÁRIA LEG-FED LEI-013105 ANO-2015 ART-00006 CPC-2015 CÓDIGO DE PROCESSO CIVIL LEG-FED DEL-003689 ANO-1941 ART-00028 CPP-1941 CÓDIGO DE PROCESSO PENAL LEG-FED DEL-001002 ANO-1969 ART-00400 ART-00401 CPPM-1969 CÓDIGO DE PROCESSO PENAL MILITAR LEG-FED DEC-000848 ANO-1890 DECRETO LEG-FED RGI ANO-1980 ART-00048 "CAPUT" ART-00144 ART-00148 RISTF-1980 REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL LEG-FED SUV-000011 SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL - STF
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=767272587)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).

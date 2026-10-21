@@ -1,0 +1,117 @@
+# TJMG · Incidente de Resolução de Demandas Repetitivas
+
+**113 registros.** [Voltar ao tribunal](../)
+
+- [IRDR 1](tjmg-irdr-1.md) — Transitado em julgado
+- [IRDR 2](tjmg-irdr-2.md) — Cancelado
+- [IRDR 3](tjmg-irdr-3.md) — Transitado em julgado
+- [IRDR 4](tjmg-irdr-4.md) — Transitado em julgado
+- [IRDR 5](tjmg-irdr-5.md) — Transitado em julgado
+- [IRDR 6](tjmg-irdr-6.md) — Transitado em julgado
+- [IRDR 7](tjmg-irdr-7.md) — Transitado em julgado
+- [IRDR 8](tjmg-irdr-8.md) — Transitado em julgado
+- [IRDR 9](tjmg-irdr-9.md) — Transitado em julgado
+- [IRDR 10](tjmg-irdr-10.md) — Transitado em julgado
+- [IRDR 11](tjmg-irdr-11.md) — Transitado em julgado
+- [IRDR 12](tjmg-irdr-12.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 13](tjmg-irdr-13.md) — Transitado em julgado
+- [IRDR 14](tjmg-irdr-14.md) — Transitado em julgado
+- [IRDR 15](tjmg-irdr-15.md) — ADMITIDO_POSSIVEL_REVISAO_TESE
+- [IRDR 16](tjmg-irdr-16.md) — Transitado em julgado
+- [IRDR 17](tjmg-irdr-17.md) — Revisado
+- [IRDR 18](tjmg-irdr-18.md) — Transitado em julgado
+- [IRDR 19](tjmg-irdr-19.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 20](tjmg-irdr-20.md) — Transitado em julgado
+- [IRDR 21](tjmg-irdr-21.md) — Transitado em julgado
+- [IRDR 22](tjmg-irdr-22.md) — Transitado em julgado
+- [IRDR 23](tjmg-irdr-23.md) — Transitado em julgado
+- [IRDR 24](tjmg-irdr-24.md) — Transitado em julgado
+- [IRDR 25](tjmg-irdr-25.md) — Transitado em julgado
+- [IRDR 26](tjmg-irdr-26.md) — Transitado em julgado
+- [IRDR 27](tjmg-irdr-27.md) — Revisado
+- [IRDR 28](tjmg-irdr-28.md) — Transitado em julgado
+- [IRDR 29](tjmg-irdr-29.md) — Transitado em julgado
+- [IRDR 30](tjmg-irdr-30.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 31](tjmg-irdr-31.md) — Transitado em julgado
+- [IRDR 32](tjmg-irdr-32.md) — Transitado em julgado
+- [IRDR 33](tjmg-irdr-33.md) — Cancelado
+- [IRDR 34](tjmg-irdr-34.md) — Transitado em julgado
+- [IRDR 35](tjmg-irdr-35.md) — Transitado em julgado
+- [IRDR 36](tjmg-irdr-36.md) — Transitado em julgado
+- [IRDR 37](tjmg-irdr-37.md) — Transitado em julgado
+- [IRDR 38](tjmg-irdr-38.md) — Transitado em julgado
+- [IRDR 39](tjmg-irdr-39.md) — Transitado em julgado
+- [IRDR 40](tjmg-irdr-40.md) — Transitado em julgado
+- [IRDR 41](tjmg-irdr-41.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 42](tjmg-irdr-42.md) — Transitado em julgado
+- [IRDR 43](tjmg-irdr-43.md) — Transitado em julgado
+- [IRDR 44](tjmg-irdr-44.md) — Transitado em julgado
+- [IRDR 45](tjmg-irdr-45.md) — Transitado em julgado
+- [IRDR 46](tjmg-irdr-46.md) — Transitado em julgado
+- [IRDR 47](tjmg-irdr-47.md) — Transitado em julgado
+- [IRDR 48](tjmg-irdr-48.md) — Transitado em julgado
+- [IRDR 49](tjmg-irdr-49.md) — Transitado em julgado
+- [IRDR 50](tjmg-irdr-50.md) — Transitado em julgado
+- [IRDR 51](tjmg-irdr-51.md) — Acórdão Publicado (ARE Pendente)
+- [IRDR 52](tjmg-irdr-52.md) — Transitado em julgado
+- [IRDR 53](tjmg-irdr-53.md) — Acórdão Publicado (AREsp Pendente)
+- [IRDR 54](tjmg-irdr-54.md) — Transitado em julgado
+- [IRDR 55](tjmg-irdr-55.md) — Transitado em julgado
+- [IRDR 56](tjmg-irdr-56.md) — Transitado em julgado
+- [IRDR 57](tjmg-irdr-57.md) — Transitado em julgado
+- [IRDR 58](tjmg-irdr-58.md) — Transitado em julgado
+- [IRDR 59](tjmg-irdr-59.md) — Transitado em julgado
+- [IRDR 60](tjmg-irdr-60.md) — Cancelado
+- [IRDR 61](tjmg-irdr-61.md) — Cancelado
+- [IRDR 62](tjmg-irdr-62.md) — Transitado em julgado
+- [IRDR 63](tjmg-irdr-63.md) — Transitado em julgado
+- [IRDR 64](tjmg-irdr-64.md) — Transitado em julgado
+- [IRDR 65](tjmg-irdr-65.md) — Transitado em julgado
+- [IRDR 66](tjmg-irdr-66.md) — Acórdão Publicado
+- [IRDR 67](tjmg-irdr-67.md) — Cancelado
+- [IRDR 68](tjmg-irdr-68.md) — Revisado
+- [IRDR 69](tjmg-irdr-69.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 70](tjmg-irdr-70.md) — Cancelado
+- [IRDR 71](tjmg-irdr-71.md) — Admitido
+- [IRDR 72](tjmg-irdr-72.md) — Acórdão Publicado
+- [IRDR 73](tjmg-irdr-73.md) — Transitado em julgado
+- [IRDR 74](tjmg-irdr-74.md) — Sobrestado (outro motivo)
+- [IRDR 75](tjmg-irdr-75.md) — Transitado em julgado
+- [IRDR 76](tjmg-irdr-76.md) — Cancelado
+- [IRDR 77](tjmg-irdr-77.md) — Transitado em julgado
+- [IRDR 78](tjmg-irdr-78.md) — Transitado em julgado
+- [IRDR 79](tjmg-irdr-79.md) — Transitado em julgado
+- [IRDR 80](tjmg-irdr-80.md) — Em julgamento
+- [IRDR 81](tjmg-irdr-81.md) — Transitado em julgado
+- [IRDR 82](tjmg-irdr-82.md) — Acórdão Publicado
+- [IRDR 83](tjmg-irdr-83.md) — Cancelado
+- [IRDR 84](tjmg-irdr-84.md) — Cancelado
+- [IRDR 85](tjmg-irdr-85.md) — Transitado em julgado
+- [IRDR 86](tjmg-irdr-86.md) — Transitado em julgado
+- [IRDR 87](tjmg-irdr-87.md) — Transitado em julgado
+- [IRDR 88](tjmg-irdr-88.md) — Sobrestado por tema do STJ
+- [IRDR 89](tjmg-irdr-89.md) — Acórdão Publicado
+- [IRDR 90](tjmg-irdr-90.md) — Transitado em julgado
+- [IRDR 91](tjmg-irdr-91.md) — Acórdão Publicado (RESP Pendente)
+- [IRDR 92](tjmg-irdr-92.md) — Transitado em julgado
+- [IRDR 93](tjmg-irdr-93.md) — Acórdão Publicado
+- [IRDR 94](tjmg-irdr-94.md) — Acórdão Publicado
+- [IRDR 95](tjmg-irdr-95.md) — Sobrestado por tema do STJ
+- [IRDR 96](tjmg-irdr-96.md) — Transitado em julgado
+- [IRDR 97](tjmg-irdr-97.md) — Transitado em julgado
+- [IRDR 98](tjmg-irdr-98.md) — Admitido
+- [IRDR 99](tjmg-irdr-99.md) — Acórdão Publicado
+- [IRDR 100](tjmg-irdr-100.md) — Admitido
+- [IRDR 101](tjmg-irdr-101.md) — Admitido
+- [IRDR 102](tjmg-irdr-102.md) — Admitido
+- [IRDR 103](tjmg-irdr-103.md) — Admitido
+- [IRDR 104](tjmg-irdr-104.md) — Admitido
+- [IRDR 105](tjmg-irdr-105.md) — Admitido
+- [IRDR 106](tjmg-irdr-106.md) — Acórdão Publicado
+- [IRDR 107](tjmg-irdr-107.md) — Admitido
+- [IRDR 108](tjmg-irdr-108.md) — Admitido
+- [IRDR 109](tjmg-irdr-109.md) — Admitido
+- [IRDR 110](tjmg-irdr-110.md) — Admitido
+- [IRDR 111](tjmg-irdr-111.md) — Admitido
+- [IRDR 112](tjmg-irdr-112.md) — Admitido
+- [IRDR 114](tjmg-irdr-114.md) — Admitido

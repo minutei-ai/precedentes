@@ -1,0 +1,22 @@
+{
+  "name": "precedentes-brasil",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "bun scripts/corpus.ts collect",
+    "build": "bun scripts/corpus.ts build",
+    "audit": "bun scripts/corpus.ts audit",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "@effect/platform-bun": "4.0.5",
+    "effect": "4.0.5",
+    "turndown": "7.2.1",
+    "turndown-plugin-gfm": "1.0.2"
+  },
+  "devDependencies": {
+    "@types/bun": "1.4.3",
+    "@types/turndown": "5.0.6",
+    "typescript": "5.9.3"
+  }
+}

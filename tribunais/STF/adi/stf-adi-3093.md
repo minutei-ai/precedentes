@@ -1,0 +1,25 @@
+# STF · ADI 3093
+
+- **Tribunal:** STF
+- **Espécie:** Ação Direta de Inconstitucionalidade
+- **Número:** 3093
+- **Identificador na fonte:** `stf-adi-3093`
+- **Situação na fonte:** Não informada
+- **Atualização informada pela fonte:** 28/08/2023
+- **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=stf&tipo=ADI&nr=3093)
+
+## Ementa
+
+EMENTA ATO NORMATIVO ESTADUAL. INSTITUIÇÃO DE ESTÁGIO SUPERVISIONADO, EDUCATIVO E PROFISSIONALIZANTE SOB A FORMA DE BOLSA DE INICIAÇÃO AO TRABALHO. FORMAÇÃO DA RELAÇÃO JURÍDICA ENTRE EMPREGADOR E ADOLESCENTE SEM A PARTICIPAÇÃO DA INSTITUIÇÃO DE ENSINO. AUSENTE EXIGÊNCIA DE TERMO DE COMPROMISSO. REQUISITOS DO ESTÁGIO ESTABELECIDOS NA LEI FEDERAL N. 11.788/2008. ESTÁGIO NÃO CONFIGURADO. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE DIREITO DO TRABALHO. VÍCIO FORMAL. MODULAÇÃO DOS EFEITOS. 1. Nas ações de controle concentrado de constitucionalidade, a causa de pedir é aberta, de modo que a norma impugnada é cotejada com todo o ordenamento constitucional. 2. O estágio tem caráter educativo relacionado ao projeto pedagógico do próprio curso que o educando frequenta, tanto que a instituição de ensino tem a responsabilidade de participar da formação do vínculo. Precedentes. 3. Nos termos da Lei n. 11.788/2008, são condições para a configuração da relação de estágio a celebração de termo de compromisso entre o educando, a parte concedente do estágio e a instituição de ensino, bem como a compatibilidade entre as atividades efetivamente desenvolvidas e aquelas previstas no termo de compromisso. O descumprimento de qualquer um dos requisitos faz caracterizar-se vínculo empregatício para todos os efeitos da legislação trabalhista e previdenciária. 4. A Lei n. 1.888/1991 do Estado do Rio de Janeiro, ao criar o “estágio supervisionado, educativo e profissionalizante” sob a forma de bolsa de iniciação ao trabalho, previu a constituição da relação jurídica diretamente entre a empresa ou entidade de direito público e o menor de 14 a 18 anos incompletos, deixando de prever a participação da instituição de ensino. 5. Surge configurada a usurpação da competência privativa da União para legislar sobre direito do trabalho (CF, art. 22, I). 6. Razões de segurança jurídica, confiança legítima e excepcional interesse social (Lei n. 9.868/1999, art. 27) impõem a modulação dos efeitos da decisão, para preservar a vontade do legislador e as relações estabelecidas de boa-fé entre instituições e educandos. Prazo de 24 meses para o legislador estadual reapreciar a disciplina do estágio supervisionado, educativo e profissionalizante à luz da disciplina estabelecida na Lei federal n. 11.788/2008. 7. Pedido julgado procedente, para declarar a inconstitucionalidade, sem pronúncia de nulidade, da Lei n. 1.888, de 10 de novembro de 1991, do Estado do Rio de Janeiro.
+
+## Decisão
+
+O Tribunal, por maioria, julgou procedente o pedido formulado nesta ação direta, para declarar a inconstitucionalidade, sem pronúncia de nulidade, da Lei n. 1.888, de 10 de novembro de 1991, do Estado do Rio de Janeiro, pelo prazo de 24 meses, prazo em que o legislador estadual deverá reapreciar a disciplina do estágio supervisionado, educativo e profissionalizante à luz da disciplina estabelecida na Lei federal n. 11.788/2008, e modulou os efeitos da decisão, a fim de que esse julgado passe a surtir efeitos após o prazo de 24 meses a contar da publicação da ata de julgamento, nos termos do voto do Relator, vencido o Ministro Edson Fachin. Plenário, Sessão Virtual de 18.8.2023 a 25.8.2023.
+
+## Ato impugnado
+
+LEG-FED CF ANO-1988 ART-00001 ART-00003 ART-00022 INC-00001 PAR-ÚNICO ART-00023 INC-00005 INC-00009 ART-00024 INC-00009 INC-00015 PAR-00002 ART-00030 INC-00001 ART-00211 PAR-00004 CAPÍTULO-00003 CF-1988 CONSTITUIÇÃO FEDERAL LEG-FED LEI-009394 ANO-1996 ART-00082 "CAPUT" PAR-ÚNICO LDBEN-1996 LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL LEG-FED LEI-009868 ANO-1999 ART-00027 LEI ORDINÁRIA LEG-FED LEI-011180 ANO-2005 LEI ORDINÁRIA LEG-FED LEI-011788 ANO-2008 ART-00001 PAR-00001 PAR-00002 ART-00002 ART-00003 INC-00001 INC-00002 INC-00003 PAR-00001 PAR-00002 ART-00004 ART-00005 INC-00001 INC-00002 INC-00003 ART-00006 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 ART-00007 INC-00001 INC-00002 INC-00003 INC-00004 INC-00005 INC-00006 PAR-00001 PAR-00002 ART-00008 INC-00001 INC-00002 INC-00003 ART-00009 ART-00010 PAR-00001 PAR-00002 ART-00011 INC-00001 INC-00002 INC-00003 INC-00004 ART-00012 ART-00013 LEI ORDINÁRIA LEG-FED DEL-005452 ANO-1943 ART-00428 PAR-00001 PAR-00002 PAR-00003 PAR-00004 PAR-00005 PAR-00006 PAR-00007 PAR-00008 CLT-1943 CONSOLIDAÇÃO DAS LEIS DO TRABALHO LEG-EST LCP-000462 ANO-2012 ART-00003 PAR-ÚNICO LEI COMPLEMENTAR, RN LEG-EST LCP-000573 ANO-2012 ART-00070 LEI COMPLEMENTAR, SC LEG-EST LEI-001888 ANO-1991 ART-00001 LEI ORDINÁRIA, RJ
+
+[Consultar a decisão no tribunal](https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=771291661)
+
+Registro reproduzido da fonte oficial. Situação e conteúdo devem ser conferidos na origem. [Dados e histórico preservados](../../../fontes/pangea/STF/).
