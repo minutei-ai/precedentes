@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.531 registros únicos de 74 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.532 registros únicos de 75 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -111,6 +111,7 @@
 | [TRE-BA — Enunciados de súmula e PDF oficial](https://www.tre-ba.jus.br/jurisprudencia/sumulas/sumulas) | 11 | 11 | 0 |
 | [TRE-PA — Súmulas e documentos individuais oficiais](https://www.tre-pa.jus.br/jurisprudencia/sumulas-tre-pa-1/sumulas-tre-pa) | 10 | 10 | 0 |
 | [TRE-MA — Súmula e inteiro teor oficial](https://www.tre-ma.jus.br/jurisprudencia/sumulas/sumulas-do-tre-ma) | 1 | 1 | 0 |
+| [TRE-MT — Enunciado de súmula e referências oficiais](https://www.tre-mt.jus.br/jurisprudencia/sumulas) | 1 | 1 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -131,6 +132,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRE-MS permanece pendente: a página oficial de jurisprudência consultada em 21/10/2026 apresenta pesquisa unificada, coletâneas por assunto e publicações, sem listar súmulas regionais. Isso não comprova inexistência de súmulas ou de outras categorias de precedentes. A página foi capturada pelo navegador integrado após HTTP 403 nas consultas direta e nativa.
+
+O TRE-MT acrescenta a única súmula listada em seu catálogo regional, com o enunciado e as referências ao ato de aprovação e à regulamentação da edição de súmulas. A página foi relida e permaneceu estável. As ligações para súmulas do TSE, STJ e STF não foram incorporadas como produção regional. A captura do catálogo usou o navegador integrado após HTTP 403 nas consultas direta e nativa.
+
+O PDF da Resolução nº 2.240/2018, indicado no catálogo do TRE-MT, respondeu HTTP 503 nos acessos direto, nativo e pelo navegador integrado; o serviço SJUR apresentou aviso de indisponibilidade. O documento permanece pendente. A vírgula após o título do ato contém vínculo para outro endereço, identificado como Resolução nº 2.231/2018: foi preservado no registro, sem atribuição presumida desse ato à súmula. As referências ao regimento e à Resolução nº 2.089/2017 foram mantidas sem coleta dos atos. Não foi inferida vigência atual. As demais categorias de precedentes do TRE-MT permanecem pendentes.
 
 O TRE-MA acrescenta a única súmula listada no catálogo regional consultado, conciliada com o inteiro teor vinculado. Foram preservados o enunciado, a referência ao julgamento de 18.12.2020, os signatários e as datas de publicação no DJE de 07, 12 e 15.04.2021. O catálogo foi relido após a captura do documento e permaneceu estável. A coleta usou o navegador integrado após HTTP 403 nas consultas direta e nativa. Não foi inferida vigência atual. Os julgados e atos citados e as demais categorias de precedentes do TRE-MA permanecem pendentes.
 
@@ -367,7 +374,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_ES | 0 | 0 | 0 |
 | TRE_GO | 0 | 0 | 0 |
 | [TRE_MA](tribunais/TRE_MA/) | 1 | 0 | 0 |
-| TRE_MT | 0 | 0 | 0 |
+| [TRE_MT](tribunais/TRE_MT/) | 1 | 0 | 0 |
 | TRE_MS | 0 | 0 | 0 |
 | [TRE_MG](tribunais/TRE_MG/) | 51 | 0 | 0 |
 | [TRE_PA](tribunais/TRE_PA/) | 10 | 0 | 0 |
