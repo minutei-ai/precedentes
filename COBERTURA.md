@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.483 registros únicos de 70 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.509 registros únicos de 71 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -107,6 +107,7 @@
 | [TRE-RN — Súmulas e Resolução nº 177/2026, captura Chromium](https://www.tre-rn.jus.br/jurisprudencia/sumulas-do-tre-rn) | 42 | 42 | 0 |
 | [TRE-SC — Enunciados orientativos, Eleições 2024, captura Chromium](https://www.tre-sc.jus.br/jurisprudencia/enunciados-do-tresc/enunciados-do-tresc-eleicoes-2024) | 50 | 50 | 0 |
 | [TRE-CE — Súmulas, serviço oficial e PDFs](https://apps.tre-ce.jus.br/tre/get-docs/sumulas/) | 5 | 5 | 0 |
+| [TRE-PE — Súmulas e compilação completa com precedentes](https://www.tre-pe.jus.br/jurisprudencia/sumulas) | 26 | 26 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -127,6 +128,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRE-PE acrescenta 26 súmulas regionais, conferidas no catálogo e na compilação completa de 13 páginas. As outras abas da mesma página reproduzem súmulas do TSE, STF e STJ e não foram atribuídas ao tribunal regional. A página informa aprovação dos números 1 a 21 pela Resolução nº 378/2021 e dos números 22 a 26 pela Resolução nº 398/2021; essas referências foram preservadas sem inferir vigência atual.
+
+O texto do catálogo e o texto da compilação aparecem separadamente, com fundamentos, precedentes, justificativa da nº 21 e continuações entre páginas preservados. Também foram mantidos os 97 endereços distintos incorporados ao PDF, apresentados nos respectivos registros por seus 147 trechos com texto visível. As anotações de espaços em branco não criam links vazios no Markdown. A nº 19 tem precedentes escritos, sem hiperlink incorporado, e a nº 21 traz justificativa em vez de lista de precedentes; essas diferenças foram mantidas. A grafia “púbico” da nº 13 e a pontuação “1021” no catálogo e “1.021” no PDF da nº 20 permanecem como publicadas, sem correção presumida.
+
+Catálogo e PDF foram capturados pelo navegador integrado, depois de 403 nas consultas direta e nativa. O catálogo foi relido e o PDF baixado novamente; o conteúdo do documento permaneceu idêntico byte a byte. Os caminhos próprios das páginas 2, 23 e 24 foram preservados sem reconstrução. As páginas individuais, os atos de aprovação e as decisões vinculadas não foram coletados neste lote; a conciliação das demais categorias do TRE-PE permanece pendente.
 
 O TRE-CE acrescenta as cinco súmulas do serviço oficial de documentos, com os cinco PDFs vinculados, totalizando nove páginas. As descrições do catálogo coincidem com os enunciados dos documentos, desconsideradas apenas as diferenças de espaços e quebras de linha. O texto integral dos PDFs foi preservado, com fundamentos legais, listas de julgados, assinaturas, referências de publicação e identificação das páginas. A nº 3 permanece marcada como cancelada e contém tanto o ato de edição de 2021 quanto o ato de cancelamento de outubro de 2022, incluindo a continuação dos precedentes entre páginas.
 
@@ -353,7 +360,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_PA | 0 | 0 | 0 |
 | TRE_PB | 0 | 0 | 0 |
 | TRE_PR | 0 | 0 | 0 |
-| TRE_PE | 0 | 0 | 0 |
+| [TRE_PE](tribunais/TRE_PE/) | 26 | 0 | 0 |
 | TRE_PI | 0 | 0 | 0 |
 | TRE_RJ | 0 | 0 | 0 |
 | [TRE_RN](tribunais/TRE_RN/) | 42 | 0 | 0 |
