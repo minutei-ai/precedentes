@@ -2,7 +2,7 @@
 
 Súmulas, temas, orientações jurisprudenciais e precedentes em arquivos fáceis de ler, pesquisar e usar com IA.
 
-Um acervo público do [Minutei](https://minutei.legal), a partir de fontes oficiais. **16.327 registros de 63 órgãos**, organizados por órgão e espécie.
+Um acervo público do [Minutei](https://minutei.legal), a partir de fontes oficiais. **16.620 registros de 64 órgãos**, organizados por órgão e espécie.
 
 O objetivo é reunir os precedentes de todo o Brasil. A cobertura ainda é parcial e está [documentada por órgão](COBERTURA.md).
 
@@ -23,6 +23,7 @@ O objetivo é reunir os precedentes de todo o Brasil. A cobertura ainda é parci
 | [STF](tribunais/STF/) | 7.490 |
 | [STJ](tribunais/STJ/) | 3.044 |
 | [STM](tribunais/STM/) | 2 |
+| [TCU](tribunais/TCU/) | 293 |
 | [TJAC](tribunais/TJAC/) | 7 |
 | [TJAL](tribunais/TJAL/) | 4 |
 | [TJAM](tribunais/TJAM/) | 72 |
@@ -89,7 +90,7 @@ Cada registro tem seu próprio arquivo Markdown, com o texto disponível, a ques
 
 ## Fontes e cobertura
 
-As fontes incluem o [Pangea/BNP do CNJ](https://bnp.pdpj.jus.br/), o livro oficial de jurisprudência do TST, a consolidação de súmulas do CARF e os dados abertos de precedentes qualificados do STJ. Cada Markdown identifica sua origem.
+As fontes incluem o [Pangea/BNP do CNJ](https://bnp.pdpj.jus.br/), o livro oficial de jurisprudência do TST, a consolidação de súmulas do CARF os dados abertos de precedentes qualificados do STJ e o catálogo de súmulas do TCU. Cada Markdown identifica sua origem.
 
 O acervo inclui registros cancelados, controvérsias e procedimentos pendentes. Nem todo registro tem tese firmada ou texto disponível. Confira a [cobertura](COBERTURA.md) e a situação atual na fonte oficial.
 

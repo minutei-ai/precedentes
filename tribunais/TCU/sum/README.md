@@ -1,0 +1,297 @@
+# TCU · Súmula
+
+**293 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tcu-sum-1.md) — Vigente
+- [SUM 2](tcu-sum-2.md) — Vigente
+- [SUM 3](tcu-sum-3.md) — Vigente
+- [SUM 4](tcu-sum-4.md) — Vigente
+- [SUM 5](tcu-sum-5.md) — Não vigente
+- [SUM 6](tcu-sum-6.md) — Vigente
+- [SUM 7](tcu-sum-7.md) — Vigente
+- [SUM 8](tcu-sum-8.md) — Vigente
+- [SUM 9](tcu-sum-9.md) — Vigente
+- [SUM 10](tcu-sum-10.md) — Vigente
+- [SUM 11](tcu-sum-11.md) — Vigente
+- [SUM 12](tcu-sum-12.md) — Vigente
+- [SUM 13](tcu-sum-13.md) — Vigente
+- [SUM 14](tcu-sum-14.md) — Vigente
+- [SUM 15](tcu-sum-15.md) — Vigente
+- [SUM 16](tcu-sum-16.md) — Vigente
+- [SUM 17](tcu-sum-17.md) — Vigente
+- [SUM 18](tcu-sum-18.md) — Vigente
+- [SUM 19](tcu-sum-19.md) — Não vigente
+- [SUM 20](tcu-sum-20.md) — Não vigente
+- [SUM 21](tcu-sum-21.md) — Não vigente
+- [SUM 22](tcu-sum-22.md) — Vigente
+- [SUM 23](tcu-sum-23.md) — Vigente
+- [SUM 24](tcu-sum-24.md) — Não vigente
+- [SUM 25](tcu-sum-25.md) — Vigente
+- [SUM 26](tcu-sum-26.md) — Vigente
+- [SUM 27](tcu-sum-27.md) — Vigente
+- [SUM 28](tcu-sum-28.md) — Vigente
+- [SUM 29](tcu-sum-29.md) — Vigente
+- [SUM 30](tcu-sum-30.md) — Vigente
+- [SUM 31](tcu-sum-31.md) — Vigente
+- [SUM 32](tcu-sum-32.md) — Vigente
+- [SUM 33](tcu-sum-33.md) — Vigente
+- [SUM 34](tcu-sum-34.md) — Vigente
+- [SUM 35](tcu-sum-35.md) — Vigente
+- [SUM 36](tcu-sum-36.md) — Vigente
+- [SUM 37](tcu-sum-37.md) — Vigente
+- [SUM 38](tcu-sum-38.md) — Vigente
+- [SUM 39](tcu-sum-39.md) — Vigente
+- [SUM 40](tcu-sum-40.md) — Vigente
+- [SUM 41](tcu-sum-41.md) — Vigente
+- [SUM 42](tcu-sum-42.md) — Não vigente
+- [SUM 43](tcu-sum-43.md) — Não vigente
+- [SUM 44](tcu-sum-44.md) — Não vigente
+- [SUM 45](tcu-sum-45.md) — Não vigente
+- [SUM 46](tcu-sum-46.md) — Vigente
+- [SUM 47](tcu-sum-47.md) — Vigente
+- [SUM 48](tcu-sum-48.md) — Vigente
+- [SUM 49](tcu-sum-49.md) — Não vigente
+- [SUM 50](tcu-sum-50.md) — Não vigente
+- [SUM 51](tcu-sum-51.md) — Vigente
+- [SUM 52](tcu-sum-52.md) — Vigente
+- [SUM 53](tcu-sum-53.md) — Não vigente
+- [SUM 54](tcu-sum-54.md) — Vigente
+- [SUM 55](tcu-sum-55.md) — Não vigente
+- [SUM 56](tcu-sum-56.md) — Não vigente
+- [SUM 57](tcu-sum-57.md) — Vigente
+- [SUM 58](tcu-sum-58.md) — Vigente
+- [SUM 59](tcu-sum-59.md) — Vigente
+- [SUM 60](tcu-sum-60.md) — Vigente
+- [SUM 61](tcu-sum-61.md) — Vigente
+- [SUM 62](tcu-sum-62.md) — Não vigente
+- [SUM 63](tcu-sum-63.md) — Não vigente
+- [SUM 64](tcu-sum-64.md) — Vigente
+- [SUM 65](tcu-sum-65.md) — Vigente
+- [SUM 66](tcu-sum-66.md) — Não vigente
+- [SUM 67](tcu-sum-67.md) — Vigente
+- [SUM 68](tcu-sum-68.md) — Vigente
+- [SUM 69](tcu-sum-69.md) — Não vigente
+- [SUM 70](tcu-sum-70.md) — Vigente
+- [SUM 71](tcu-sum-71.md) — Vigente
+- [SUM 72](tcu-sum-72.md) — Vigente
+- [SUM 73](tcu-sum-73.md) — Vigente
+- [SUM 74](tcu-sum-74.md) — Vigente
+- [SUM 75](tcu-sum-75.md) — Vigente
+- [SUM 76](tcu-sum-76.md) — Vigente
+- [SUM 77](tcu-sum-77.md) — Vigente
+- [SUM 78](tcu-sum-78.md) — Vigente
+- [SUM 79](tcu-sum-79.md) — Vigente
+- [SUM 80](tcu-sum-80.md) — Vigente
+- [SUM 81](tcu-sum-81.md) — Vigente
+- [SUM 82](tcu-sum-82.md) — Vigente
+- [SUM 83](tcu-sum-83.md) — Vigente
+- [SUM 84](tcu-sum-84.md) — Não vigente
+- [SUM 85](tcu-sum-85.md) — Vigente
+- [SUM 86](tcu-sum-86.md) — Vigente
+- [SUM 87](tcu-sum-87.md) — Vigente
+- [SUM 88](tcu-sum-88.md) — Não vigente
+- [SUM 89](tcu-sum-89.md) — Não vigente
+- [SUM 90](tcu-sum-90.md) — Vigente
+- [SUM 91](tcu-sum-91.md) — Vigente
+- [SUM 92](tcu-sum-92.md) — Vigente
+- [SUM 93](tcu-sum-93.md) — Vigente
+- [SUM 94](tcu-sum-94.md) — Vigente
+- [SUM 95](tcu-sum-95.md) — Vigente
+- [SUM 96](tcu-sum-96.md) — Vigente
+- [SUM 97](tcu-sum-97.md) — Vigente
+- [SUM 98](tcu-sum-98.md) — Vigente
+- [SUM 99](tcu-sum-99.md) — Não vigente
+- [SUM 100](tcu-sum-100.md) — Vigente
+- [SUM 101](tcu-sum-101.md) — Vigente
+- [SUM 102](tcu-sum-102.md) — Vigente
+- [SUM 103](tcu-sum-103.md) — Vigente
+- [SUM 104](tcu-sum-104.md) — Não vigente
+- [SUM 105](tcu-sum-105.md) — Não vigente
+- [SUM 106](tcu-sum-106.md) — Vigente
+- [SUM 107](tcu-sum-107.md) — Vigente
+- [SUM 108](tcu-sum-108.md) — Vigente
+- [SUM 109](tcu-sum-109.md) — Vigente
+- [SUM 110](tcu-sum-110.md) — Vigente
+- [SUM 111](tcu-sum-111.md) — Vigente
+- [SUM 112](tcu-sum-112.md) — Vigente
+- [SUM 113](tcu-sum-113.md) — Vigente
+- [SUM 114](tcu-sum-114.md) — Vigente
+- [SUM 115](tcu-sum-115.md) — Não vigente
+- [SUM 116](tcu-sum-116.md) — Não vigente
+- [SUM 117](tcu-sum-117.md) — Vigente
+- [SUM 118](tcu-sum-118.md) — Vigente
+- [SUM 119](tcu-sum-119.md) — Não vigente
+- [SUM 120](tcu-sum-120.md) — Não vigente
+- [SUM 121](tcu-sum-121.md) — Não vigente
+- [SUM 122](tcu-sum-122.md) — Vigente
+- [SUM 123](tcu-sum-123.md) — Vigente
+- [SUM 124](tcu-sum-124.md) — Vigente
+- [SUM 125](tcu-sum-125.md) — Vigente
+- [SUM 126](tcu-sum-126.md) — Vigente
+- [SUM 127](tcu-sum-127.md) — Vigente
+- [SUM 128](tcu-sum-128.md) — Vigente
+- [SUM 129](tcu-sum-129.md) — Vigente
+- [SUM 130](tcu-sum-130.md) — Vigente
+- [SUM 131](tcu-sum-131.md) — Vigente
+- [SUM 132](tcu-sum-132.md) — Vigente
+- [SUM 133](tcu-sum-133.md) — Vigente
+- [SUM 134](tcu-sum-134.md) — Vigente
+- [SUM 135](tcu-sum-135.md) — Vigente
+- [SUM 136](tcu-sum-136.md) — Vigente
+- [SUM 137](tcu-sum-137.md) — Vigente
+- [SUM 138](tcu-sum-138.md) — Vigente
+- [SUM 139](tcu-sum-139.md) — Vigente
+- [SUM 140](tcu-sum-140.md) — Vigente
+- [SUM 141](tcu-sum-141.md) — Vigente
+- [SUM 142](tcu-sum-142.md) — Vigente
+- [SUM 143](tcu-sum-143.md) — Vigente
+- [SUM 144](tcu-sum-144.md) — Vigente
+- [SUM 145](tcu-sum-145.md) — Vigente
+- [SUM 146](tcu-sum-146.md) — Vigente
+- [SUM 147](tcu-sum-147.md) — Vigente
+- [SUM 148](tcu-sum-148.md) — Vigente
+- [SUM 149](tcu-sum-149.md) — Vigente
+- [SUM 150](tcu-sum-150.md) — Vigente
+- [SUM 151](tcu-sum-151.md) — Vigente
+- [SUM 152](tcu-sum-152.md) — Vigente
+- [SUM 153](tcu-sum-153.md) — Vigente
+- [SUM 154](tcu-sum-154.md) — Vigente
+- [SUM 155](tcu-sum-155.md) — Não vigente
+- [SUM 156](tcu-sum-156.md) — Vigente
+- [SUM 157](tcu-sum-157.md) — Não vigente
+- [SUM 158](tcu-sum-158.md) — Não vigente
+- [SUM 159](tcu-sum-159.md) — Vigente
+- [SUM 160](tcu-sum-160.md) — Vigente
+- [SUM 161](tcu-sum-161.md) — Não vigente
+- [SUM 162](tcu-sum-162.md) — Vigente
+- [SUM 163](tcu-sum-163.md) — Vigente
+- [SUM 164](tcu-sum-164.md) — Vigente
+- [SUM 165](tcu-sum-165.md) — Não vigente
+- [SUM 166](tcu-sum-166.md) — Vigente
+- [SUM 167](tcu-sum-167.md) — Vigente
+- [SUM 168](tcu-sum-168.md) — Não vigente
+- [SUM 169](tcu-sum-169.md) — Vigente
+- [SUM 170](tcu-sum-170.md) — Vigente
+- [SUM 171](tcu-sum-171.md) — Vigente
+- [SUM 172](tcu-sum-172.md) — Não vigente
+- [SUM 173](tcu-sum-173.md) — Vigente
+- [SUM 174](tcu-sum-174.md) — Vigente
+- [SUM 175](tcu-sum-175.md) — Vigente
+- [SUM 176](tcu-sum-176.md) — Vigente
+- [SUM 177](tcu-sum-177.md) — Vigente
+- [SUM 178](tcu-sum-178.md) — Vigente
+- [SUM 179](tcu-sum-179.md) — Vigente
+- [SUM 180](tcu-sum-180.md) — Vigente
+- [SUM 181](tcu-sum-181.md) — Não vigente
+- [SUM 182](tcu-sum-182.md) — Vigente
+- [SUM 183](tcu-sum-183.md) — Vigente
+- [SUM 184](tcu-sum-184.md) — Vigente
+- [SUM 185](tcu-sum-185.md) — Vigente
+- [SUM 186](tcu-sum-186.md) — Vigente
+- [SUM 187](tcu-sum-187.md) — Vigente
+- [SUM 188](tcu-sum-188.md) — Vigente
+- [SUM 189](tcu-sum-189.md) — Vigente
+- [SUM 190](tcu-sum-190.md) — Não vigente
+- [SUM 191](tcu-sum-191.md) — Vigente
+- [SUM 192](tcu-sum-192.md) — Vigente
+- [SUM 193](tcu-sum-193.md) — Vigente
+- [SUM 194](tcu-sum-194.md) — Vigente
+- [SUM 195](tcu-sum-195.md) — Vigente
+- [SUM 196](tcu-sum-196.md) — Vigente
+- [SUM 197](tcu-sum-197.md) — Vigente
+- [SUM 198](tcu-sum-198.md) — Vigente
+- [SUM 199](tcu-sum-199.md) — Múltiplos registros na fonte; confira as versões abaixo
+- [SUM 200](tcu-sum-200.md) — Vigente
+- [SUM 201](tcu-sum-201.md) — Vigente
+- [SUM 202](tcu-sum-202.md) — Vigente
+- [SUM 203](tcu-sum-203.md) — Vigente
+- [SUM 204](tcu-sum-204.md) — Vigente
+- [SUM 205](tcu-sum-205.md) — Vigente
+- [SUM 206](tcu-sum-206.md) — Vigente
+- [SUM 207](tcu-sum-207.md) — Vigente
+- [SUM 208](tcu-sum-208.md) — Vigente
+- [SUM 209](tcu-sum-209.md) — Vigente
+- [SUM 210](tcu-sum-210.md) — Vigente
+- [SUM 211](tcu-sum-211.md) — Vigente
+- [SUM 212](tcu-sum-212.md) — Vigente
+- [SUM 213](tcu-sum-213.md) — Vigente
+- [SUM 214](tcu-sum-214.md) — Vigente
+- [SUM 215](tcu-sum-215.md) — Vigente
+- [SUM 216](tcu-sum-216.md) — Vigente
+- [SUM 217](tcu-sum-217.md) — Vigente
+- [SUM 218](tcu-sum-218.md) — Vigente
+- [SUM 219](tcu-sum-219.md) — Vigente
+- [SUM 220](tcu-sum-220.md) — Vigente
+- [SUM 221](tcu-sum-221.md) — Vigente
+- [SUM 222](tcu-sum-222.md) — Vigente
+- [SUM 223](tcu-sum-223.md) — Vigente
+- [SUM 224](tcu-sum-224.md) — Vigente
+- [SUM 225](tcu-sum-225.md) — Vigente
+- [SUM 226](tcu-sum-226.md) — Vigente
+- [SUM 227](tcu-sum-227.md) — Vigente
+- [SUM 228](tcu-sum-228.md) — Vigente
+- [SUM 229](tcu-sum-229.md) — Vigente
+- [SUM 230](tcu-sum-230.md) — Vigente
+- [SUM 231](tcu-sum-231.md) — Vigente
+- [SUM 232](tcu-sum-232.md) — Vigente
+- [SUM 233](tcu-sum-233.md) — Vigente
+- [SUM 234](tcu-sum-234.md) — Vigente
+- [SUM 235](tcu-sum-235.md) — Não vigente
+- [SUM 236](tcu-sum-236.md) — Vigente
+- [SUM 237](tcu-sum-237.md) — Vigente
+- [SUM 238](tcu-sum-238.md) — Vigente
+- [SUM 239](tcu-sum-239.md) — Vigente
+- [SUM 240](tcu-sum-240.md) — Vigente
+- [SUM 241](tcu-sum-241.md) — Vigente
+- [SUM 242](tcu-sum-242.md) — Vigente
+- [SUM 243](tcu-sum-243.md) — Não vigente
+- [SUM 244](tcu-sum-244.md) — Vigente
+- [SUM 245](tcu-sum-245.md) — Vigente
+- [SUM 246](tcu-sum-246.md) — Vigente
+- [SUM 247](tcu-sum-247.md) — Vigente
+- [SUM 248](tcu-sum-248.md) — Vigente
+- [SUM 249](tcu-sum-249.md) — Vigente
+- [SUM 250](tcu-sum-250.md) — Vigente
+- [SUM 251](tcu-sum-251.md) — Vigente
+- [SUM 252](tcu-sum-252.md) — Vigente
+- [SUM 253](tcu-sum-253.md) — Vigente
+- [SUM 254](tcu-sum-254.md) — Vigente
+- [SUM 255](tcu-sum-255.md) — Vigente
+- [SUM 256](tcu-sum-256.md) — Múltiplos registros na fonte; confira as versões abaixo
+- [SUM 257](tcu-sum-257.md) — Vigente
+- [SUM 258](tcu-sum-258.md) — Vigente
+- [SUM 259](tcu-sum-259.md) — Vigente
+- [SUM 260](tcu-sum-260.md) — Vigente
+- [SUM 261](tcu-sum-261.md) — Vigente
+- [SUM 262](tcu-sum-262.md) — Vigente
+- [SUM 263](tcu-sum-263.md) — Vigente
+- [SUM 264](tcu-sum-264.md) — Vigente
+- [SUM 265](tcu-sum-265.md) — Vigente
+- [SUM 266](tcu-sum-266.md) — Vigente
+- [SUM 267](tcu-sum-267.md) — Vigente
+- [SUM 268](tcu-sum-268.md) — Vigente
+- [SUM 269](tcu-sum-269.md) — Vigente
+- [SUM 270](tcu-sum-270.md) — Vigente
+- [SUM 271](tcu-sum-271.md) — Vigente
+- [SUM 272](tcu-sum-272.md) — Vigente
+- [SUM 273](tcu-sum-273.md) — Vigente
+- [SUM 274](tcu-sum-274.md) — Vigente
+- [SUM 275](tcu-sum-275.md) — Vigente
+- [SUM 276](tcu-sum-276.md) — Vigente
+- [SUM 277](tcu-sum-277.md) — Vigente
+- [SUM 278](tcu-sum-278.md) — Vigente
+- [SUM 279](tcu-sum-279.md) — Vigente
+- [SUM 280](tcu-sum-280.md) — Vigente
+- [SUM 281](tcu-sum-281.md) — Vigente
+- [SUM 282](tcu-sum-282.md) — Múltiplos registros na fonte; confira as versões abaixo
+- [SUM 283](tcu-sum-283.md) — Vigente
+- [SUM 284](tcu-sum-284.md) — Vigente
+- [SUM 285](tcu-sum-285.md) — Vigente
+- [SUM 286](tcu-sum-286.md) — Vigente
+- [SUM 287](tcu-sum-287.md) — Vigente
+- [SUM 288](tcu-sum-288.md) — Vigente
+- [SUM 289](tcu-sum-289.md) — Vigente
+- [SUM 290](tcu-sum-290.md) — Vigente
+- [SUM 291](tcu-sum-291.md) — Vigente
+- [SUM 292](tcu-sum-292.md) — Vigente
+- [SUM 293](tcu-sum-293.md) — Vigente

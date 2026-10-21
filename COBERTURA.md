@@ -1,6 +1,6 @@
 # Cobertura
 
-**16.327 registros únicos de 63 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**16.620 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 22 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -11,10 +11,11 @@
 | [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf) | 1.292 | 1.292 | 0 |
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
+| [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
-O livro do TST contém sete categorias: súmulas, orientações jurisprudenciais da SBDI-I, da SBDI-I transitória, da SBDI-II, da SDC e do Tribunal Pleno/Órgão Especial, além de precedentes normativos. A numeração foi conferida dentro de cada categoria. No CARF, a consolidação foi conferida do primeiro ao último número publicado.
+O livro do TST contém sete categorias: súmulas, orientações jurisprudenciais da SBDI-I, da SBDI-I transitória, da SBDI-II, da SDC e do Tribunal Pleno/Órgão Especial, além de precedentes normativos. A numeração foi conferida dentro de cada categoria. No CARF, a consolidação foi conferida do primeiro ao último número publicado. No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os números 199, 256 e 282 têm registros repetidos ou redações históricas, preservados separadamente no mesmo Markdown. A situação de cada versão é a informada pela fonte.
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
