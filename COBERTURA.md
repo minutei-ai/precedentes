@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.874 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.917 registros únicos de 66 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -68,6 +68,12 @@
 | [TJSP — Enunciados das Câmaras Empresariais, atualização de 10/12/2024](https://www.tjsp.jus.br/Download/Rodape/GrupoCamarasEmpresariaisEnunciados.pdf) | 26 | 26 | 0 |
 | [TJRS — Súmulas das Turmas Recursais Cíveis](https://www.tjrs.jus.br/novo/jurisprudencia-e-legislacao/jurisprudencia/sumulas/sumulas-das-turmas-recursais/) | 51 | 51 | 0 |
 | [TJRS — Súmulas das Turmas Recursais da Fazenda Pública](https://www.tjrs.jus.br/novo/jurisprudencia-e-legislacao/jurisprudencia/sumulas/turmas-recursais-da-fazenda-publica/) | 107 | 107 | 0 |
+| [TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS](https://www.tjrs.jus.br/novo/jurisprudencia-e-legislacao/jurisprudencia/sumulas/sumulas-do-extinto-tribunal-de-alcada/) | 9 | 9 | 0 |
+| [TJRS — Enunciados de Competência 17 a 19/2023, publicação de março de 2024](https://www.tjrs.jus.br/static/2024/03/Enunciados-Orgao-Especial-marco-2024-.pdf) | 3 | 3 | 0 |
+| [TJRS — Enunciado de Competência 16/2023, publicação de abril de 2023](https://www.tjrs.jus.br/static/2023/04/Enunciado_16_Abril_2023.pdf) | 1 | 1 | 0 |
+| [TJRS — Enunciados de Competência 14 e 15/2020, publicação de agosto de 2020](https://www.tjrs.jus.br/static/2020/08/Enunciados_Agosto_OE.pdf) | 2 | 2 | 0 |
+| [TJRS — Enunciados de Competência 01 a 13/2020, publicação de maio de 2020](https://www.tjrs.jus.br/static/2020/05/Enunciados_OE_11-05-2020.pdf) | 13 | 13 | 0 |
+| [TJRS — Enunciados sobre decisões do Órgão Especial, atualização de julho de 2007](https://www.tjrs.jus.br/static/2018/05/enunciados-sobre-decisoes-do-orgao-especial.pdf) | 15 | 15 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -88,6 +94,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O catálogo oficial do TJRS também preserva nove súmulas do extinto Tribunal de Alçada do Estado do Rio Grande do Sul. Elas ficam sob a autoridade histórica TARGS, com o texto, as referências de julgados e a nota de incorporação pelo TJRS mantidos. A referência de rejeição da súmula nº 5 foi preservada, sem inferir vigência a partir de um catálogo histórico.
+
+Foram incorporados os cinco documentos de enunciados de competência indicados no catálogo do TJRS: 15 seções em numeração romana na edição histórica atualizada em 01/07/2007 (EN-COMP-2007) e 19 enunciados com número e ano próprios (EN-COMP), de 01/2020 a 15/2020 e de 16/2023 a 19/2023. Os itens internos e processos de referência foram preservados integralmente. O número oficial 19/2023 foi mantido mesmo tendo aprovação em janeiro de 2024 e publicação em março de 2024; as datas de aprovação e publicação constam das informações da fonte, sem serem confundidas com ano da numeração. A série histórica não foi tratada como redação atual dos enunciados posteriores.
 
 O catálogo da Turma de Uniformização dos Juizados Especiais do Distrito Federal acrescenta 43 súmulas em série própria (SUM-TUJ), sem confundir sua numeração com as súmulas gerais do tribunal. Foram preservados os textos, as referências de julgamento e publicação, os links oficiais e os avisos de cancelamento da nº 2 e de revisão da nº 28. A nº 43 tem quatro parágrafos e a nota de acórdão ainda não publicado, referente ao julgamento de 21/09/2026. A composição administrativa da Turma foi excluída dos registros.
 
@@ -187,7 +197,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJPI](tribunais/TJPI/) | 94 | 25 | 25 |
 | [TJRJ](tribunais/TJRJ/) | 91 | 89 | 90 |
 | [TJRN](tribunais/TJRN/) | 63 | 11 | 11 |
-| [TJRS](tribunais/TJRS/) | 258 | 47 | 47 |
+| [TJRS](tribunais/TJRS/) | 292 | 47 | 47 |
 | [TJRO](tribunais/TJRO/) | 21 | 21 | 21 |
 | [TJRR](tribunais/TJRR/) | 29 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 159 | 91 | 91 |
@@ -255,6 +265,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | --- | ---: | --- |
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
+| [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
 CARF é uma fonte administrativa própria. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
