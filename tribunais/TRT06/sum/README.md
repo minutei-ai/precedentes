@@ -1,0 +1,48 @@
+# TRT06 · Súmula
+
+**44 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt06-sum-1.md) — Situação não informada
+- [SUM 2](trt06-sum-2.md) — Situação não informada
+- [SUM 3](trt06-sum-3.md) — Situação não informada
+- [SUM 4](trt06-sum-4.md) — Situação não informada
+- [SUM 5](trt06-sum-5.md) — Situação não informada
+- [SUM 6](trt06-sum-6.md) — Situação não informada
+- [SUM 7](trt06-sum-7.md) — Situação não informada
+- [SUM 8](trt06-sum-8.md) — Situação não informada
+- [SUM 9](trt06-sum-9.md) — Situação não informada
+- [SUM 10](trt06-sum-10.md) — Situação não informada
+- [SUM 11](trt06-sum-11.md) — Situação não informada
+- [SUM 12](trt06-sum-12.md) — Situação não informada
+- [SUM 13](trt06-sum-13.md) — Situação não informada
+- [SUM 14](trt06-sum-14.md) — Situação não informada
+- [SUM 15](trt06-sum-15.md) — Situação não informada
+- [SUM 16](trt06-sum-16.md) — Situação não informada
+- [SUM 17](trt06-sum-17.md) — Situação não informada
+- [SUM 18](trt06-sum-18.md) — Situação não informada
+- [SUM 19](trt06-sum-19.md) — Situação não informada
+- [SUM 20](trt06-sum-20.md) — Situação não informada
+- [SUM 21](trt06-sum-21.md) — Situação não informada
+- [SUM 22](trt06-sum-22.md) — Situação não informada
+- [SUM 23](trt06-sum-23.md) — Situação não informada
+- [SUM 24](trt06-sum-24.md) — Situação não informada
+- [SUM 25](trt06-sum-25.md) — Situação não informada
+- [SUM 26](trt06-sum-26.md) — Situação não informada
+- [SUM 27](trt06-sum-27.md) — Situação não informada
+- [SUM 28](trt06-sum-28.md) — Situação não informada
+- [SUM 29](trt06-sum-29.md) — Situação não informada
+- [SUM 30](trt06-sum-30.md) — Situação não informada
+- [SUM 31](trt06-sum-31.md) — Situação não informada
+- [SUM 32](trt06-sum-32.md) — Situação não informada
+- [SUM 33](trt06-sum-33.md) — Situação não informada
+- [SUM 34](trt06-sum-34.md) — Situação não informada
+- [SUM 35](trt06-sum-35.md) — Situação não informada
+- [SUM 36](trt06-sum-36.md) — Situação não informada
+- [SUM 37](trt06-sum-37.md) — Situação não informada
+- [SUM 38](trt06-sum-38.md) — Situação não informada
+- [SUM 39](trt06-sum-39.md) — Situação não informada
+- [SUM 40](trt06-sum-40.md) — Situação não informada
+- [SUM 41](trt06-sum-41.md) — Situação não informada
+- [SUM 42](trt06-sum-42.md) — Situação não informada
+- [SUM 43](trt06-sum-43.md) — Situação não informada
+- [SUM 44](trt06-sum-44.md) — Situação não informada
