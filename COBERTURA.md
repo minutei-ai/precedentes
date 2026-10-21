@@ -1,8 +1,8 @@
 # Cobertura
 
-**17.234 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**17.522 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-22 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 ## Fontes diretas
 
@@ -27,6 +27,11 @@
 | [TJSC — Súmulas do tribunal](https://www.tjsc.jus.br/web/jurisprudencia/sumulas-do-tjsc) | 68 | 68 | 0 |
 | [TJPI — Catálogo de súmulas da transparência](https://www.tjpi.jus.br/transparencia/legislacoes/sumulas) | 69 | 69 | 0 |
 | [TJRN — Catálogo de súmulas e PDF oficial da Súmula 6](https://www.tjrn.jus.br/documentos/sumulas/) | 52 | 52 | 0 |
+| [TRT da 3ª Região — Súmulas](https://portal.trt3.jus.br/internet/jurisprudencia/uniformizacao-de-jurisprudencia/sumulas) | 73 | 73 | 0 |
+| [TRT da 3ª Região — Teses Jurídicas Prevalecentes](https://portal.trt3.jus.br/internet/jurisprudencia/uniformizacao-de-jurisprudencia/tese-juridica-prevalecente) | 23 | 23 | 0 |
+| [TRT da 3ª Região — Orientações Jurisprudenciais](https://portal.trt3.jus.br/internet/jurisprudencia/uniformizacao-de-jurisprudencia/orientacoes-jurisprudenciais) | 46 | 46 | 0 |
+| [TRT da 15ª Região — Súmulas com processos referenciados, edição de 25/09/2026](https://trt15.jus.br/sites/portal/files/roles/servicos/atas-julgamento/s%C3%BAmulas/Vers%C3%A3o_com_processos_referenciados_25-09-2026.pdf) | 146 | 146 | 0 |
+| [TRT da 15ª Região — Súmulas, versão completa de 15/06/2026 com redações históricas](https://trt15.jus.br/sites/portal/files/roles/servicos/atas-julgamento/s%C3%BAmulas/versao-completa_SUMULAS_15-06-2026_0.pdf) | 146 | 0 | 146 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -47,6 +52,10 @@ O TJMG inclui 91 enunciados do compêndio disponibilizado no catálogo atual e t
 O TJPI foi coletado no catálogo atual da transparência: 70 registros em cinco páginas, correspondentes aos números de súmula 1 a 69. O número 64 aparece em dois registros oficiais, ambos preservados no mesmo Markdown. A ordenação por título e a conferência dos identificadores evitam repetir documentos entre páginas. Os avisos de cancelamento e as publicações de 2026 são mantidos conforme a fonte.
 
 O catálogo atual do TJRN reúne 52 súmulas, conferidas em seis páginas. A descrição da nº 6 estava truncada; sua redação integral e referências foram obtidas no PDF oficial, com o trecho original do catálogo preservado separadamente.
+
+O TRT da 3ª Região inclui 73 súmulas, 23 teses jurídicas prevalecentes e 46 orientações jurisprudenciais. As orientações têm numerações independentes: 11 da 1ª SDI, cinco da 2ª SDI e 30 das Turmas. Os avisos de cancelamento, alteração e as referências foram mantidos.
+
+O TRT da 15ª Região inclui 146 números de súmula. A edição com processos referenciados, de 25/09/2026, é a fonte principal; em 25 números ela informa apenas o cancelamento. A versão completa de 15/06/2026 preserva as redações históricas desses números e aparece como outra fonte oficial no mesmo Markdown. Texto histórico não implica vigência.
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
@@ -97,7 +106,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
 | [TRT01](tribunais/TRT01/) | 76 | 76 | 76 |
 | [TRT02](tribunais/TRT02/) | 69 | 69 | 69 |
-| [TRT03](tribunais/TRT03/) | 72 | 72 | 72 |
+| [TRT03](tribunais/TRT03/) | 214 | 72 | 72 |
 | [TRT04](tribunais/TRT04/) | 202 | 202 | 202 |
 | [TRT05](tribunais/TRT05/) | 49 | 49 | 49 |
 | [TRT06](tribunais/TRT06/) | 36 | 36 | 36 |
@@ -109,7 +118,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT12](tribunais/TRT12/) | 46 | 46 | 46 |
 | [TRT13](tribunais/TRT13/) | 63 | 63 | 63 |
 | [TRT14](tribunais/TRT14/) | 36 | 36 | 36 |
-| [TRT15](tribunais/TRT15/) | 78 | 78 | 78 |
+| [TRT15](tribunais/TRT15/) | 224 | 78 | 78 |
 | [TRT16](tribunais/TRT16/) | 18 | 18 | 18 |
 | [TRT17](tribunais/TRT17/) | 40 | 40 | 40 |
 | [TRT18](tribunais/TRT18/) | 73 | 73 | 73 |
@@ -167,6 +176,8 @@ Conferimos identificadores únicos, numeração, limites dos catálogos, pagina�
 Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisamos conciliar cada tribunal com seu portal oficial, ampliar as fontes administrativas e coletar categorias que o BNP não expõe, incluindo súmulas eleitorais.
 
 A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de IAC, agrupados em sete incidentes por número de processo e conferidos com os processos do BNP para evitar duplicatas. Os textos são apresentados como decisões, sem inferir tese firmada ou vigência. O inventário de classes indica também documentos históricos que a consulta ao SAJ não retornou; a conciliação com o e-SAJ e o acervo histórico do SJURIS continua pendente. Uma consulta vazia não foi tratada como inexistência de outros incidentes.
+
+A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta direta retornou bloqueio e a página de pesquisa excedeu o limite de estilos do coletor nativo. As fontes regionais incorporadas estão discriminadas acima; o bloqueio não foi tratado como catálogo vazio.
 
 As súmulas do TJRJ ainda não foram incorporadas: seu catálogo direto não foi validado nesta coleta. Isso não significa que o tribunal não tenha súmulas.
 

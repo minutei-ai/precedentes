@@ -1,0 +1,150 @@
+# TRT15 · Súmula
+
+**146 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt15-sum-1.md) — CANCELADA
+- [SUM 2](trt15-sum-2.md) — CANCELADA
+- [SUM 3](trt15-sum-3.md) — CANCELADA
+- [SUM 4](trt15-sum-4.md) — CANCELADA
+- [SUM 5](trt15-sum-5.md) — CANCELADA
+- [SUM 6](trt15-sum-6.md) — CANCELADA
+- [SUM 7](trt15-sum-7.md) — CANCELADA
+- [SUM 8](trt15-sum-8.md) — CANCELADA
+- [SUM 9](trt15-sum-9.md) — CANCELADA
+- [SUM 10](trt15-sum-10.md) — CANCELADA
+- [SUM 11](trt15-sum-11.md) — CANCELADA
+- [SUM 12](trt15-sum-12.md) — CANCELADA
+- [SUM 13](trt15-sum-13.md) — Situação não informada
+- [SUM 14](trt15-sum-14.md) — CANCELADA
+- [SUM 15](trt15-sum-15.md) — CANCELADA
+- [SUM 16](trt15-sum-16.md) — CANCELADA
+- [SUM 17](trt15-sum-17.md) — CANCELADA
+- [SUM 18](trt15-sum-18.md) — CANCELADA
+- [SUM 19](trt15-sum-19.md) — CANCELADA
+- [SUM 20](trt15-sum-20.md) — CANCELADA
+- [SUM 21](trt15-sum-21.md) — Situação não informada
+- [SUM 22](trt15-sum-22.md) — CANCELADA
+- [SUM 23](trt15-sum-23.md) — Situação não informada
+- [SUM 24](trt15-sum-24.md) — Situação não informada
+- [SUM 25](trt15-sum-25.md) — Situação não informada
+- [SUM 26](trt15-sum-26.md) — Situação não informada
+- [SUM 27](trt15-sum-27.md) — Situação não informada
+- [SUM 28](trt15-sum-28.md) — CANCELADA
+- [SUM 29](trt15-sum-29.md) — CANCELADA
+- [SUM 30](trt15-sum-30.md) — Situação não informada
+- [SUM 31](trt15-sum-31.md) — Situação não informada
+- [SUM 32](trt15-sum-32.md) — Situação não informada
+- [SUM 33](trt15-sum-33.md) — Situação não informada
+- [SUM 34](trt15-sum-34.md) — Situação não informada
+- [SUM 35](trt15-sum-35.md) — Situação não informada
+- [SUM 36](trt15-sum-36.md) — Situação não informada
+- [SUM 37](trt15-sum-37.md) — Situação não informada
+- [SUM 38](trt15-sum-38.md) — Situação não informada
+- [SUM 39](trt15-sum-39.md) — Situação não informada
+- [SUM 40](trt15-sum-40.md) — Situação não informada
+- [SUM 41](trt15-sum-41.md) — Situação não informada
+- [SUM 42](trt15-sum-42.md) — Situação não informada
+- [SUM 43](trt15-sum-43.md) — Situação não informada
+- [SUM 44](trt15-sum-44.md) — Situação não informada
+- [SUM 45](trt15-sum-45.md) — Situação não informada
+- [SUM 46](trt15-sum-46.md) — Situação não informada
+- [SUM 47](trt15-sum-47.md) — Situação não informada
+- [SUM 48](trt15-sum-48.md) — Situação não informada
+- [SUM 49](trt15-sum-49.md) — Situação não informada
+- [SUM 50](trt15-sum-50.md) — Situação não informada
+- [SUM 51](trt15-sum-51.md) — Situação não informada
+- [SUM 52](trt15-sum-52.md) — Situação não informada
+- [SUM 53](trt15-sum-53.md) — Situação não informada
+- [SUM 54](trt15-sum-54.md) — Situação não informada
+- [SUM 55](trt15-sum-55.md) — Situação não informada
+- [SUM 56](trt15-sum-56.md) — Situação não informada
+- [SUM 57](trt15-sum-57.md) — Situação não informada
+- [SUM 58](trt15-sum-58.md) — Situação não informada
+- [SUM 59](trt15-sum-59.md) — Situação não informada
+- [SUM 60](trt15-sum-60.md) — Situação não informada
+- [SUM 61](trt15-sum-61.md) — Situação não informada
+- [SUM 62](trt15-sum-62.md) — Situação não informada
+- [SUM 63](trt15-sum-63.md) — Situação não informada
+- [SUM 64](trt15-sum-64.md) — Situação não informada
+- [SUM 65](trt15-sum-65.md) — Situação não informada
+- [SUM 66](trt15-sum-66.md) — Situação não informada
+- [SUM 67](trt15-sum-67.md) — Situação não informada
+- [SUM 68](trt15-sum-68.md) — CANCELADA
+- [SUM 69](trt15-sum-69.md) — Situação não informada
+- [SUM 70](trt15-sum-70.md) — Situação não informada
+- [SUM 71](trt15-sum-71.md) — Situação não informada
+- [SUM 72](trt15-sum-72.md) — Situação não informada
+- [SUM 73](trt15-sum-73.md) — Situação não informada
+- [SUM 74](trt15-sum-74.md) — Situação não informada
+- [SUM 75](trt15-sum-75.md) — Situação não informada
+- [SUM 76](trt15-sum-76.md) — Situação não informada
+- [SUM 77](trt15-sum-77.md) — Situação não informada
+- [SUM 78](trt15-sum-78.md) — Situação não informada
+- [SUM 79](trt15-sum-79.md) — Situação não informada
+- [SUM 80](trt15-sum-80.md) — Situação não informada
+- [SUM 81](trt15-sum-81.md) — CANCELADA
+- [SUM 82](trt15-sum-82.md) — Situação não informada
+- [SUM 83](trt15-sum-83.md) — Situação não informada
+- [SUM 84](trt15-sum-84.md) — Situação não informada
+- [SUM 85](trt15-sum-85.md) — Situação não informada
+- [SUM 86](trt15-sum-86.md) — Situação não informada
+- [SUM 87](trt15-sum-87.md) — Situação não informada
+- [SUM 88](trt15-sum-88.md) — Situação não informada
+- [SUM 89](trt15-sum-89.md) — Situação não informada
+- [SUM 90](trt15-sum-90.md) — Situação não informada
+- [SUM 91](trt15-sum-91.md) — Situação não informada
+- [SUM 92](trt15-sum-92.md) — Situação não informada
+- [SUM 93](trt15-sum-93.md) — Situação não informada
+- [SUM 94](trt15-sum-94.md) — Situação não informada
+- [SUM 95](trt15-sum-95.md) — Situação não informada
+- [SUM 96](trt15-sum-96.md) — Situação não informada
+- [SUM 97](trt15-sum-97.md) — CANCELADA
+- [SUM 98](trt15-sum-98.md) — Situação não informada
+- [SUM 99](trt15-sum-99.md) — Situação não informada
+- [SUM 100](trt15-sum-100.md) — Situação não informada
+- [SUM 101](trt15-sum-101.md) — Situação não informada
+- [SUM 102](trt15-sum-102.md) — Situação não informada
+- [SUM 103](trt15-sum-103.md) — Situação não informada
+- [SUM 104](trt15-sum-104.md) — Situação não informada
+- [SUM 105](trt15-sum-105.md) — Situação não informada
+- [SUM 106](trt15-sum-106.md) — Situação não informada
+- [SUM 107](trt15-sum-107.md) — Situação não informada
+- [SUM 108](trt15-sum-108.md) — Situação não informada
+- [SUM 109](trt15-sum-109.md) — Situação não informada
+- [SUM 110](trt15-sum-110.md) — Situação não informada
+- [SUM 111](trt15-sum-111.md) — Situação não informada
+- [SUM 112](trt15-sum-112.md) — Situação não informada
+- [SUM 113](trt15-sum-113.md) — Situação não informada
+- [SUM 114](trt15-sum-114.md) — Situação não informada
+- [SUM 115](trt15-sum-115.md) — Situação não informada
+- [SUM 116](trt15-sum-116.md) — Situação não informada
+- [SUM 117](trt15-sum-117.md) — Situação não informada
+- [SUM 118](trt15-sum-118.md) — Situação não informada
+- [SUM 119](trt15-sum-119.md) — Situação não informada
+- [SUM 120](trt15-sum-120.md) — Situação não informada
+- [SUM 121](trt15-sum-121.md) — Situação não informada
+- [SUM 122](trt15-sum-122.md) — Situação não informada
+- [SUM 123](trt15-sum-123.md) — Situação não informada
+- [SUM 124](trt15-sum-124.md) — Situação não informada
+- [SUM 125](trt15-sum-125.md) — Situação não informada
+- [SUM 126](trt15-sum-126.md) — Situação não informada
+- [SUM 127](trt15-sum-127.md) — Situação não informada
+- [SUM 128](trt15-sum-128.md) — Situação não informada
+- [SUM 129](trt15-sum-129.md) — Situação não informada
+- [SUM 130](trt15-sum-130.md) — Situação não informada
+- [SUM 131](trt15-sum-131.md) — Situação não informada
+- [SUM 132](trt15-sum-132.md) — Situação não informada
+- [SUM 133](trt15-sum-133.md) — Situação não informada
+- [SUM 134](trt15-sum-134.md) — Situação não informada
+- [SUM 135](trt15-sum-135.md) — Situação não informada
+- [SUM 136](trt15-sum-136.md) — Situação não informada
+- [SUM 137](trt15-sum-137.md) — Situação não informada
+- [SUM 138](trt15-sum-138.md) — Situação não informada
+- [SUM 139](trt15-sum-139.md) — Situação não informada
+- [SUM 140](trt15-sum-140.md) — Situação não informada
+- [SUM 141](trt15-sum-141.md) — Situação não informada
+- [SUM 142](trt15-sum-142.md) — Situação não informada
+- [SUM 143](trt15-sum-143.md) — Situação não informada
+- [SUM 144](trt15-sum-144.md) — Situação não informada
+- [SUM 145](trt15-sum-145.md) — Situação não informada
+- [SUM 146](trt15-sum-146.md) — Situação não informada
