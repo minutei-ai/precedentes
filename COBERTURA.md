@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.223 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.226 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -45,6 +45,7 @@
 | [TRT da 8ª Região — Súmulas judiciais](https://www.trt8.jus.br/jurisprudencia/sumulas) | 67 | 67 | 0 |
 | [TRT da 8ª Região — Súmulas Administrativas](https://www.trt8.jus.br/juridico/sumulas-administrativas) | 10 | 10 | 0 |
 | [TRT da 10ª Região — Verbetes do Tribunal Pleno (Súmulas Regionais)](https://pje.trt10.jus.br/suj/jsf/publico/verbetes.jsf) | 82 | 82 | 0 |
+| [TRT da 10ª Região — Orientações das Seções Especializadas e Turmas](https://pje.trt10.jus.br/suj/jsf/publico/verbetes.jsf) | 3 | 3 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -76,7 +77,7 @@ O TRT da 8ª Região inclui 67 súmulas judiciais e dez administrativas, em sér
 
 Os livros eletrônicos do TRT da 9ª Região trouxeram 102 súmulas, 16 teses jurídicas prevalecentes e 49 orientações jurisprudenciais da Seção Especializada, obtidos pelo formulário do próprio portal. O conteúdo inclui alterações de 2026, como o cancelamento da Súmula 3, com a redação cancelada e seu histórico preservados. As orientações têm duas numerações independentes: 48 de execução (OJ-EX-SE) e uma de dissídios coletivos (OJ-DC-SE). Cada arquivo mantém os itens internos, suas redações e referências; a orientação nº 1 de cada série tem identidade própria. Esses livros não representam todas as categorias de precedentes do TRT9.
 
-O TRT da 10ª Região inclui os 82 verbetes do Tribunal Pleno (súmulas regionais), conferidos nas cinco páginas do catálogo atual. A situação é a informada pelo tribunal: 66 ativos, 11 cancelados e cinco com nova redação. O acervo mantém os títulos, as teses apresentadas e as informações de publicação. As orientações das Seções Especializadas e das Turmas e os documentos de P.A. disponíveis por comandos do portal ainda precisam de conciliação própria.
+O TRT da 10ª Região inclui os 82 verbetes do Tribunal Pleno (súmulas regionais), conferidos nas cinco páginas do catálogo atual. A situação é a informada pelo tribunal: 66 ativos, 11 cancelados e cinco com nova redação. O acervo mantém os títulos, as teses apresentadas e as informações de publicação. Também foram consultadas as orientações das duas Seções Especializadas e das três Turmas, com conferência do órgão selecionado e do total após a atualização da tabela. O catálogo retornou três orientações da 2ª Turma, mantidas em série própria (OJ-2T), e zero registros nas outras quatro consultas. Esse resultado se refere ao catálogo consultado e não comprova inexistência de outros acervos ou documentos históricos. Os documentos de P.A. disponíveis por comandos do portal ainda precisam de conciliação própria.
 
 O TRT da 11ª Região inclui 28 súmulas e uma súmula transitória, em série própria, da página histórica ainda acessível no portal, com referências de edição até 2018 e links para os precedentes. A Biblioteca Digital indicada pelo menu atual retornou bloqueio na consulta direta e não produziu captura validada pelo coletor nativo. Essa biblioteca ainda precisa ser conciliada; esses 29 verbetes não comprovam atualização ou cobertura integral do TRT11.
 
@@ -140,7 +141,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT07](tribunais/TRT07/) | 47 | 47 | 47 |
 | [TRT08](tribunais/TRT08/) | 143 | 66 | 66 |
 | [TRT09](tribunais/TRT09/) | 232 | 65 | 65 |
-| [TRT10](tribunais/TRT10/) | 103 | 21 | 21 |
+| [TRT10](tribunais/TRT10/) | 106 | 21 | 21 |
 | [TRT11](tribunais/TRT11/) | 61 | 32 | 32 |
 | [TRT12](tribunais/TRT12/) | 182 | 46 | 46 |
 | [TRT13](tribunais/TRT13/) | 63 | 63 | 63 |
