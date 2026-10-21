@@ -1,6 +1,6 @@
 # Cobertura
 
-**16.752 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**16.781 registros únicos de 64 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 22 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -16,10 +16,13 @@
 | [TJCE — SJURIS, decisões de IRDR e IAC (consulta parcial)](https://sjuris.tjce.jus.br/) | 7 | 7 | 0 |
 | [TJSP — Súmulas, livro atualizado em 16/09/2025](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf) | 165 | 0 | 165 |
 | [TJRS — Súmulas, livro atualizado em 12/08/2020](https://www.tjrs.jus.br/static/2020/08/Sumulas_TJ_atual_12_08_2020.pdf) | 53 | 53 | 0 |
+| [TJDFT — Súmulas do tribunal](https://www.tjdft.jus.br/consultas/jurisprudencia/sumulas/sumulas-do-tjdft) | 29 | 29 | 0 |
+| [TJDFT — Catálogo de IRDR admitidos](https://www.tjdft.jus.br/consultas/gerenciamento-de-precedentes/irdr/irdrs-admitidos) | 21 | 0 | 21 |
+| [TJDFT — Catálogo de IAC admitidos](https://www.tjdft.jus.br/consultas/gerenciamento-de-precedentes/irdr/iacs-admitidos) | 1 | 0 | 1 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
-O livro do TST contém sete categorias: súmulas, orientações jurisprudenciais da SBDI-I, da SBDI-I transitória, da SBDI-II, da SDC e do Tribunal Pleno/Órgão Especial, além de precedentes normativos. A numeração foi conferida dentro de cada categoria. No CARF, a consolidação foi conferida do primeiro ao último número publicado. No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os números 199, 256 e 282 têm registros repetidos ou redações históricas, preservados separadamente no mesmo Markdown. A situação de cada versão é a informada pela fonte. O livro de súmulas do TJCE, edição de 2025, contém 72 verbetes consecutivos; mantemos as referências e observações de cada verbete. A edição não comprova que todas as súmulas posteriores já estejam incluídas. O TJSP foi conciliado com os 165 verbetes do livro atualizado em 16/09/2025. O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
+O livro do TST contém sete categorias: súmulas, orientações jurisprudenciais da SBDI-I, da SBDI-I transitória, da SBDI-II, da SDC e do Tribunal Pleno/Órgão Especial, além de precedentes normativos. A numeração foi conferida dentro de cada categoria. No CARF, a consolidação foi conferida do primeiro ao último número publicado. No TCU, 296 registros de catálogo correspondem a 293 números de súmula; os números 199, 256 e 282 têm registros repetidos ou redações históricas, preservados separadamente no mesmo Markdown. A situação de cada versão é a informada pela fonte. O livro de súmulas do TJCE, edição de 2025, contém 72 verbetes consecutivos; mantemos as referências e observações de cada verbete. A edição não comprova que todas as súmulas posteriores já estejam incluídas. O TJSP foi conciliado com os 165 verbetes do livro atualizado em 16/09/2025. O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores. O catálogo de súmulas do TJDFT trouxe 29 verbetes, com avisos de alteração, cancelamento e renumeração mantidos no texto. O TJDFT aparece no índice como TJDF, sigla adotada pelo BNP. Também conferimos os catálogos de 21 IRDR e um IAC admitidos; suas observações e links para acórdãos foram mantidos com atribuição própria, sem substituir as informações do BNP.
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
@@ -47,7 +50,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJAM](tribunais/TJAM/) | 72 | 72 | 72 |
 | [TJBA](tribunais/TJBA/) | 118 | 118 | 118 |
 | [TJCE](tribunais/TJCE/) | 96 | 17 | 17 |
-| [TJDF](tribunais/TJDF/) | 41 | 41 | 41 |
+| [TJDF](tribunais/TJDF/) | 70 | 41 | 41 |
 | [TJES](tribunais/TJES/) | 162 | 162 | 162 |
 | [TJGO](tribunais/TJGO/) | 151 | 151 | 151 |
 | [TJMA](tribunais/TJMA/) | 23 | 23 | 23 |
