@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.478 registros únicos de 69 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.483 registros únicos de 70 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -106,6 +106,7 @@
 | [TRE-MG — Enunciados de súmulas, catálogo oficial, captura Chromium](https://www.tre-mg.jus.br/jurisprudencia/sumulas/tre-mg-sumulas) | 51 | 51 | 0 |
 | [TRE-RN — Súmulas e Resolução nº 177/2026, captura Chromium](https://www.tre-rn.jus.br/jurisprudencia/sumulas-do-tre-rn) | 42 | 42 | 0 |
 | [TRE-SC — Enunciados orientativos, Eleições 2024, captura Chromium](https://www.tre-sc.jus.br/jurisprudencia/enunciados-do-tresc/enunciados-do-tresc-eleicoes-2024) | 50 | 50 | 0 |
+| [TRE-CE — Súmulas, serviço oficial e PDFs](https://apps.tre-ce.jus.br/tre/get-docs/sumulas/) | 5 | 5 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -126,6 +127,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRE-CE acrescenta as cinco súmulas do serviço oficial de documentos, com os cinco PDFs vinculados, totalizando nove páginas. As descrições do catálogo coincidem com os enunciados dos documentos, desconsideradas apenas as diferenças de espaços e quebras de linha. O texto integral dos PDFs foi preservado, com fundamentos legais, listas de julgados, assinaturas, referências de publicação e identificação das páginas. A nº 3 permanece marcada como cancelada e contém tanto o ato de edição de 2021 quanto o ato de cancelamento de outubro de 2022, incluindo a continuação dos precedentes entre páginas.
+
+O portal institucional retornou HTTP 403 nas consultas direta e nativa; o navegador integrado permitiu identificar o serviço oficial que o portal carrega. A API e os PDFs desse serviço foram então obtidos diretamente, sem autenticação. Os tamanhos dos cinco documentos coincidem com os informados no catálogo, que foi relido ao final. Grafias, datas e números de processo foram mantidos como publicados, sem correção presumida. Não foi inferida vigência para os demais verbetes. Os julgados e normas citados não foram coletados neste lote, e a conciliação das demais categorias do TRE-CE permanece pendente.
 
 O TRE-SC acrescenta os 50 enunciados orientativos das Eleições 2024 em série própria (EN-2024): 15 sobre registro de candidaturas, 20 sobre propaganda e pesquisas eleitorais e 15 sobre contas de campanha. A edição e o caráter orientativo estão expressos no catálogo; não foram tratados como súmulas nem como textos automaticamente aplicáveis aos pleitos seguintes. Foram preservados todos os parágrafos dos enunciados e de suas referências, com os 261 links legislativos e jurisprudenciais. Os números 28, 29 e 45 não apresentam seção de referências legislativas na fonte; nada foi completado por inferência.
 
@@ -337,7 +342,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_AP | 0 | 0 | 0 |
 | TRE_AM | 0 | 0 | 0 |
 | TRE_BA | 0 | 0 | 0 |
-| TRE_CE | 0 | 0 | 0 |
+| [TRE_CE](tribunais/TRE_CE/) | 5 | 0 | 0 |
 | TRE_DF | 0 | 0 | 0 |
 | TRE_ES | 0 | 0 | 0 |
 | TRE_GO | 0 | 0 | 0 |
