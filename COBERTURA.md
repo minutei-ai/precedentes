@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.428 registros únicos de 68 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.478 registros únicos de 69 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -105,6 +105,7 @@
 | [TJSC — Enunciados — Grupo de Câmaras de Direito Público](https://www.tjsc.jus.br/web/jurisprudencia/grupo-de-camaras-de-direito-publico) | 27 | 27 | 0 |
 | [TRE-MG — Enunciados de súmulas, catálogo oficial, captura Chromium](https://www.tre-mg.jus.br/jurisprudencia/sumulas/tre-mg-sumulas) | 51 | 51 | 0 |
 | [TRE-RN — Súmulas e Resolução nº 177/2026, captura Chromium](https://www.tre-rn.jus.br/jurisprudencia/sumulas-do-tre-rn) | 42 | 42 | 0 |
+| [TRE-SC — Enunciados orientativos, Eleições 2024, captura Chromium](https://www.tre-sc.jus.br/jurisprudencia/enunciados-do-tresc/enunciados-do-tresc-eleicoes-2024) | 50 | 50 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -125,6 +126,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRE-SC acrescenta os 50 enunciados orientativos das Eleições 2024 em série própria (EN-2024): 15 sobre registro de candidaturas, 20 sobre propaganda e pesquisas eleitorais e 15 sobre contas de campanha. A edição e o caráter orientativo estão expressos no catálogo; não foram tratados como súmulas nem como textos automaticamente aplicáveis aos pleitos seguintes. Foram preservados todos os parágrafos dos enunciados e de suas referências, com os 261 links legislativos e jurisprudenciais. Os números 28, 29 e 45 não apresentam seção de referências legislativas na fonte; nada foi completado por inferência.
+
+O catálogo e a página integral da edição foram capturados e relidos pelo navegador integrado após HTTP 403 nas consultas direta e nativa. O conteúdo jurídico completo foi comparado entre as duas leituras. Os enunciados ficam identificados pelo órgão, edição e número; não foi inferida situação atual a partir de sua permanência na página. As decisões e normas vinculadas não foram coletadas neste lote, e a conciliação de outras edições ou categorias do TRE-SC permanece pendente.
 
 O TRE-RN acrescenta 42 súmulas, conciliadas com a versão HTML compilada da Resolução nº 177/2026: 27 aprovadas (16 a 42), seis mantidas (1, 6, 7, 10, 11 e 13), três com nova redação (5, 14 e 15) e seis canceladas (2, 3, 4, 8, 9 e 12). Essas situações são atribuídas ao ato, sem afirmar ausência de alterações posteriores. Foram preservados os 42 textos do catálogo, inclusive os cancelados, e os excertos correspondentes da resolução, com todas as listas de precedentes dos 27 novos enunciados. Os 30 textos novos ou revisados coincidem entre as duas fontes, desconsideradas apenas as diferenças de espaços e os rótulos editoriais.
 
@@ -350,7 +355,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_RS | 0 | 0 | 0 |
 | TRE_RO | 0 | 0 | 0 |
 | TRE_RR | 0 | 0 | 0 |
-| TRE_SC | 0 | 0 | 0 |
+| [TRE_SC](tribunais/TRE_SC/) | 50 | 0 | 0 |
 | TRE_SP | 0 | 0 | 0 |
 | TRE_SE | 0 | 0 | 0 |
 | TRE_TO | 0 | 0 | 0 |

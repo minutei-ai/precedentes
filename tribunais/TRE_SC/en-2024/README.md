@@ -1,0 +1,54 @@
+# TRE_SC · Enunciado orientativo — Eleições 2024
+
+**50 registros.** [Voltar ao tribunal](../)
+
+- [EN-2024 1](tre-sc-en-2024-1.md) — Situação não informada
+- [EN-2024 2](tre-sc-en-2024-2.md) — Situação não informada
+- [EN-2024 3](tre-sc-en-2024-3.md) — Situação não informada
+- [EN-2024 4](tre-sc-en-2024-4.md) — Situação não informada
+- [EN-2024 5](tre-sc-en-2024-5.md) — Situação não informada
+- [EN-2024 6](tre-sc-en-2024-6.md) — Situação não informada
+- [EN-2024 7](tre-sc-en-2024-7.md) — Situação não informada
+- [EN-2024 8](tre-sc-en-2024-8.md) — Situação não informada
+- [EN-2024 9](tre-sc-en-2024-9.md) — Situação não informada
+- [EN-2024 10](tre-sc-en-2024-10.md) — Situação não informada
+- [EN-2024 11](tre-sc-en-2024-11.md) — Situação não informada
+- [EN-2024 12](tre-sc-en-2024-12.md) — Situação não informada
+- [EN-2024 13](tre-sc-en-2024-13.md) — Situação não informada
+- [EN-2024 14](tre-sc-en-2024-14.md) — Situação não informada
+- [EN-2024 15](tre-sc-en-2024-15.md) — Situação não informada
+- [EN-2024 16](tre-sc-en-2024-16.md) — Situação não informada
+- [EN-2024 17](tre-sc-en-2024-17.md) — Situação não informada
+- [EN-2024 18](tre-sc-en-2024-18.md) — Situação não informada
+- [EN-2024 19](tre-sc-en-2024-19.md) — Situação não informada
+- [EN-2024 20](tre-sc-en-2024-20.md) — Situação não informada
+- [EN-2024 21](tre-sc-en-2024-21.md) — Situação não informada
+- [EN-2024 22](tre-sc-en-2024-22.md) — Situação não informada
+- [EN-2024 23](tre-sc-en-2024-23.md) — Situação não informada
+- [EN-2024 24](tre-sc-en-2024-24.md) — Situação não informada
+- [EN-2024 25](tre-sc-en-2024-25.md) — Situação não informada
+- [EN-2024 26](tre-sc-en-2024-26.md) — Situação não informada
+- [EN-2024 27](tre-sc-en-2024-27.md) — Situação não informada
+- [EN-2024 28](tre-sc-en-2024-28.md) — Situação não informada
+- [EN-2024 29](tre-sc-en-2024-29.md) — Situação não informada
+- [EN-2024 30](tre-sc-en-2024-30.md) — Situação não informada
+- [EN-2024 31](tre-sc-en-2024-31.md) — Situação não informada
+- [EN-2024 32](tre-sc-en-2024-32.md) — Situação não informada
+- [EN-2024 33](tre-sc-en-2024-33.md) — Situação não informada
+- [EN-2024 34](tre-sc-en-2024-34.md) — Situação não informada
+- [EN-2024 35](tre-sc-en-2024-35.md) — Situação não informada
+- [EN-2024 36](tre-sc-en-2024-36.md) — Situação não informada
+- [EN-2024 37](tre-sc-en-2024-37.md) — Situação não informada
+- [EN-2024 38](tre-sc-en-2024-38.md) — Situação não informada
+- [EN-2024 39](tre-sc-en-2024-39.md) — Situação não informada
+- [EN-2024 40](tre-sc-en-2024-40.md) — Situação não informada
+- [EN-2024 41](tre-sc-en-2024-41.md) — Situação não informada
+- [EN-2024 42](tre-sc-en-2024-42.md) — Situação não informada
+- [EN-2024 43](tre-sc-en-2024-43.md) — Situação não informada
+- [EN-2024 44](tre-sc-en-2024-44.md) — Situação não informada
+- [EN-2024 45](tre-sc-en-2024-45.md) — Situação não informada
+- [EN-2024 46](tre-sc-en-2024-46.md) — Situação não informada
+- [EN-2024 47](tre-sc-en-2024-47.md) — Situação não informada
+- [EN-2024 48](tre-sc-en-2024-48.md) — Situação não informada
+- [EN-2024 49](tre-sc-en-2024-49.md) — Situação não informada
+- [EN-2024 50](tre-sc-en-2024-50.md) — Situação não informada
