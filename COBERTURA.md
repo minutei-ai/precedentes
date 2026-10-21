@@ -1,6 +1,6 @@
 # Cobertura
 
-**18.234 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**18.238 registros únicos de 65 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 11 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -48,6 +48,7 @@
 | [TRT da 10ª Região — Orientações das Seções Especializadas e Turmas](https://pje.trt10.jus.br/suj/jsf/publico/verbetes.jsf) | 3 | 3 | 0 |
 | [TRT da 14ª Região — Catálogo de súmulas (PDFs não validados)](https://portal.trt14.jus.br/portal/index.php/en/sumulas) | 8 | 8 | 0 |
 | [TRT da 14ª Região — Teses fixadas em IRDR e IAC](https://portal.trt14.jus.br/portal/index.php/teses-fixadas-irdr-iac) | 8 | 0 | 8 |
+| [TRT da 16ª Região — Súmulas, com cancelamento de junho de 2024](https://www.trt16.jus.br/sites/portal/files/roles/jurisprudencia/S%C3%BAmulas%20do%20TRT16.pdf) | 4 | 4 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -88,6 +89,8 @@ O catálogo atual do TRT da 12ª Região trouxe 136 súmulas. O sumário e as â
 O catálogo do TRT da 14ª Região inclui oito entradas de súmula. Mantemos os títulos, as descrições e os links oficiais nas informações do catálogo, incluindo o aviso de cancelamento da nº 1 e a referência ao acórdão publicado em 04/05/2023. Os PDFs vinculados não foram validados nesta coleta; não atribuímos a essas entradas um enunciado integral não obtido da fonte.
 
 Também conferimos a página do TRT14 de teses fixadas: cinco IRDR (temas 1, 5, 6, 7 e 8) e três IAC (temas 1 a 3). Os oito processos correspondem aos registros já presentes no BNP, sem contagem adicional. As teses, os andamentos, as publicações e os links para acórdãos foram preservados com atribuição própria. A página de teses fixadas não representa todos os incidentes pendentes ou históricos.
+
+O livro de súmulas do TRT da 16ª Região, vinculado pelo portal oficial, contém quatro verbetes, com os textos e as referências preservados. A nº 1 mantém o aviso de cancelamento pela Resolução Administrativa nº 128/2024, disponibilizada no DEJT em 13/06/2024, junto da redação histórica. A edição não comprova a cobertura de alterações posteriores.
 
 O TRT da 15ª Região inclui 146 números de súmula. A edição com processos referenciados, de 25/09/2026, é a fonte principal; em 25 números ela informa apenas o cancelamento. A versão completa de 15/06/2026 preserva as redações históricas desses números e aparece como outra fonte oficial no mesmo Markdown. Texto histórico não implica vigência.
 
@@ -153,7 +156,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT13](tribunais/TRT13/) | 63 | 63 | 63 |
 | [TRT14](tribunais/TRT14/) | 44 | 36 | 36 |
 | [TRT15](tribunais/TRT15/) | 224 | 78 | 78 |
-| [TRT16](tribunais/TRT16/) | 18 | 18 | 18 |
+| [TRT16](tribunais/TRT16/) | 22 | 18 | 18 |
 | [TRT17](tribunais/TRT17/) | 40 | 40 | 40 |
 | [TRT18](tribunais/TRT18/) | 73 | 73 | 73 |
 | [TRT19](tribunais/TRT19/) | 37 | 37 | 37 |
@@ -216,6 +219,8 @@ O catálogo do TRT13 ainda não foi conciliado: o acesso ao portal não produziu
 Os catálogos do TRT5 e TRT7 ainda não foram conciliados. As consultas diretas retornaram bloqueio; no coletor nativo, o TRT7 respondeu HTTP 403 e a página do TRT5 encontrou uma funcionalidade de imagens não suportada. Essas falhas não foram tratadas como catálogos vazios.
 
 A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta direta retornou bloqueio e a página de pesquisa excedeu o limite de estilos do coletor nativo. As fontes regionais incorporadas estão discriminadas acima; o bloqueio não foi tratado como catálogo vazio.
+
+O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou o conteúdo nesta coleta: a resposta direta e a página renderizada pelo coletor nativo permaneceram no desafio de acesso, sem texto do documento. O caderno ainda não foi incorporado.
 
 As súmulas do TJRJ ainda não foram incorporadas: seu catálogo direto não foi validado nesta coleta. Isso não significa que o tribunal não tenha súmulas.
 
