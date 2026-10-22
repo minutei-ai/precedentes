@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.838 registros únicos de 83 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**24.771 registros únicos de 83 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -140,6 +140,7 @@
 | [TCEPR — Prejulgados e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/prejulgados/) | 40 | 40 | 0 |
 | [TCEPR — Uniformizações de jurisprudência e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/decisoes-do-tribunal-uniformizacao-de-jurisprudencia/) | 23 | 23 | 0 |
 | [TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/incidente-de-inconstitucionalidade/) | 19 | 19 | 0 |
+| [TCEPR — Consultas com força normativa e anexos oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/consultas-com-forca-normativa/) | 933 | 933 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -262,6 +263,12 @@ O catálogo de incidentes de inconstitucionalidade do TCEPR acrescenta 19 regist
 As duas páginas da consulta e os 19 PDFs foram capturados duas vezes, em 42 respostas, com conteúdo conciliado, igualdade dos bytes de cada par de PDFs e tamanhos correspondentes aos metadados oficiais. O catálogo vai do Acórdão nº 1812/10 ao nº 1545/26 e marca como retificados os Acórdãos nº 3325/14 e 3555/18. Essas marcações e os históricos que acompanham os documentos foram mantidos, sem inferir situação atual para os demais registros ou atualização individual a partir dos carimbos do índice.
 
 Os incidentes permanecem em série independente dos prejulgados, das uniformizações e das súmulas. A coleta utilizou a consulta pública e os anexos oficiais diretamente por HTTP, com TLS validado. Os originais e recibos permanecem privados. As demais categorias, atos posteriores e documentos apenas citados continuam pendentes de coleta e conciliação.
+
+O catálogo de Consultas com Força Normativa do TCEPR acrescenta 933 registros, conciliando 938 entradas e mantendo as cinco apresentações duplicadas nas respectivas referências. As dez páginas do catálogo e os 931 anexos foram lidos duas vezes. Os anexos compreendem 603 PDFs (7.276 páginas), 324 DOCs e quatro DOCX. Os documentos Word foram convertidos por LibreOffice, com texto, notas e destinos de hiperlinks conferidos no Markdown; nos quatro DOCX, os parágrafos e as notas foram também comparados ao XML dos originais. Os arquivos e recibos permanecem privados.
+
+A identificação do documento principal foi conferida em 920 registros. Outros 13 preservam a referência do catálogo com inteiro teor principal pendente: oito sem anexo disponível, três com anexo de outra decisão, um com apenas certidão de publicação e um com embargos de declaração relacionados. O texto das entradas sem anexo foi mantido, inclusive trechos mais completos que o campo de resumo e um marcador de multimídia sem endereço, sem inventar o vínculo ausente. O Acórdão nº 1857/19 é um registro próprio de embargos em consulta e mantém essa espécie.
+
+Seis anexos vinculados a outras decisões não foram atribuídos como inteiro teor das consultas; em três dessas referências há outro documento correto, preservado. Os dois anexos da referência 1145/16 contêm o mesmo texto dos embargos 1785/16, apresentado uma vez com ambos os vínculos. Na referência 3921/20, a certidão não foi tratada como acórdão. As numerações 3250/24, 219/10 e 2862/07 do catálogo divergem dos documentos 3520/24, 1219/10 e 1862/07, respectivamente: processo e data da sessão foram conferidos, a identificação do documento foi usada e as referências originais permaneceram visíveis. Divergências de processo, campos numéricos inválidos, retificações e anotações de entendimento superado também foram mantidos com atribuição à fonte, sem inferir vigência ou eficácia atual. A conciliação de documentos ausentes e atos apenas citados continua aberta.
 
 O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
 
@@ -589,7 +596,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
-| [TCEPR](tribunais/TCEPR/) | 95 | TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
+| [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |

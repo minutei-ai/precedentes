@@ -1,0 +1,956 @@
+# TCEPR · CON 964/2023
+
+- **Órgão:** TCEPR
+- **Espécie:** Consulta com Força Normativa
+- **Número:** 964/2023
+- **Identificador:** `tcepr-con-964-2023`
+- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TCEPR — Consultas com força normativa e anexos oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/consultas-com-forca-normativa/)
+
+## Informações do catálogo oficial
+
+### Sessão 24/04/23 - Processo 432929/21 - Acórdão nº 964/23 - Tribunal Pleno
+
+EMENTA: Consulta. Município de Formosa do Oeste. Pelo conhecimento e resposta no seguinte sentido: é possível que o município conceda progressões horizontais e verticais aos profissionais do magistério, ainda que tenha utilizado o percentual de 100% (cem por cento) dos recursos do FUNDEB para adimplir a folha de pagamento dos profissionais da educação, pois na hipótese do município estabelecer critérios mais rigorosos...
+
+[Entrada oficial 8A91494299061B7E019906285579617C](https://www.tce.pr.gov.br/contenthyperlink.jsp?lumItemId=8A91494299061B7E019906285579617C)
+
+Campos numéricos do índice: numberAct=964; yearAct=2023. Referência do catálogo: 964/2023, processo 432929/21.
+
+[00373860.pdf](https://www.tce.pr.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A9149429880D09901988155F341194E): ACÓRDÃO Nº 964/23, processo 432929/21. Identificação do acórdão conferida no documento vinculado.
+
+Títulos e resumos são os campos do catálogo oficial. O texto indexado pelo portal não substitui a conferência dos anexos. PDFs foram extraídos por página; documentos Word foram convertidos com LibreOffice, preservando os originais e as notas. Anexos com o mesmo texto são apresentados uma vez, mantendo os vínculos de origem. Duas leituras das dez páginas e dos 931 anexos foram conciliadas. Presença no catálogo, datas de publicação e indexação não comprovam vigência atual. Atos e documentos apenas citados permanecem pendentes.
+
+## Texto disponibilizado pela fonte
+
+### ACÓRDÃO Nº 964/23
+
+### Página 1 do documento oficial
+
+                    TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+        ACÓRDÃO Nº 964/23 - TRIBUNAL PLENO - COMPLEMENTAÇÃO AO ACÓRDÃO Nº
+                                         1571/22 - TRIBUNAL PLENO
+    PROCESSO Nº:            432929/21
+    ASSUNTO:                CONSULTA
+    ENTIDADE:               MUNICÍPIO DE FORMOSA DO OESTE
+    INTERESSADO:            LUIZ ANTONIO DOMINGOS DE AGUIAR
+    RELATOR:                CONSELHEIRO MAURÍCIO REQUIÃO DE MELLO E SILVA
+    
+    
+                                   ACÓRDÃO Nº 964/23 - Tribunal Pleno
+                                                     Consulta. Município de Formosa do Oeste.
+                                                     Pelo conhecimento e resposta no seguinte
+                                                     sentido: é possível que o município conceda
+                                                     progressões horizontais e verticais aos
+                                                     profissionais do magistério, ainda que tenha
+                                                     utilizado o percentual de 100% (cem por cento)
+                                                     dos recursos do FUNDEB para adimplir a folha
+                                                     de pagamento dos profissionais da educação,
+                                                     pois na hipótese do município estabelecer
+                                                     critérios mais rigorosos de gasto com pessoal
+                                                     do que o estabelecido pela Lei Complementar
+                                                     nº 101/2000 – Lei de Responsabilidade Fiscal,
+                                                     estes não podem ser utilizados para obstar o
+                                                     direito subjetivo do servidor público que
+                                                     preencha todos os requisitos legais para a
+                                                     progressão funcional, mas apenas para
+                                                     nortear a gestão municipal no planejamento e
+                                                     execução orçamentária.
+    
+    I - RELATÓRIO E VOTO DO CONSELHEIRO IVENS ZSCHOERPER LINHARES
+    (Relator originário)
+                      1. Trata-se de consulta formulada pelo Sr. Luiz Antônio Domingos de
+    Aguiar, Prefeito do Município de Formosa do Oeste, acerca da possibilidade de
+    conceder progressão vertical e horizontal aos profissionais do magistério do
+    Município, mesmo com a folha de pagamento dos referidos servidores alcançando
+    100% dos recursos do FUNDEB, diante da vedação contida no artigo 95 da Lei
+    Complementar Municipal n° 09/2011 (Estatuto do Magistério)1.
+    
+    
+    1 Art. 95. Os aumentos na remuneração dos profissionais do magistério em decorrência das
+    progressões vertical por habilitação ou horizontal por avaliação de desempenho serão suspensas
+    quando o percentual da folha de pagamento dos profissionais do magistério ultrapassar o percentual
+    
+
+### Página 2 do documento oficial
+
+                     TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                      Informou o consulente, em atenção ao previsto no referido dispositivo
+    legal, que, à época, a folha de pagamento do Município estava em 47,85% da receita
+    corrente líquida, e que esta não iria alcançar 51% mesmo se houvesse o aumento da
+    remuneração dos professores em decorrência das progressões.
+                      À peça n° 4, foi anexado parecer da Procuradoria Jurídica tratando do
+    tema.
+                      A consulta foi recebida pelo Despacho n° 629/21- GCNB (peça n° 6),
+    que determinou o encaminhamento dos autos à Escola de Gestão Pública, nos termos
+    do § 2° do art. 313 do Regimento Interno2, a fim de verificar se existiam decisões com
+    efeito normativo acerca do tema.
+                      Por meio da Informação n° 78/21 (peça n° 8), a Supervisão de
+    Jurisprudência e Biblioteca apontou a existência das seguintes decisões que
+    tangenciam o tema:
+                      - Processo 304137/19 - Acórdão nº 3864/19 - Tribunal Pleno;
+                      - Processo nº 223512/17 - Acórdão nº 3666/17 - Tribunal Pleno;
+                      - Processo nº 798116/17 - Acórdão nº 1049/18 - Tribunal Pleno;
+                      - Processo nº 59117/15 - Acórdão nº 3075/17 - Tribunal Pleno;
+                      - Processo nº 213938/13 - Acórdão nº 5350/13 - Tribunal Pleno;
+                      - Processo nº 412130/15- Acórdão nº 2474/2016- Tribunal Pleno;
+                      - Protocolo nº 301700/06 - Acórdão nº 1599/06;
+                      - Processo n° 251848/13 - Acórdão n° 7345/14 - Tribunal Pleno;
+                      - Processo n° 208552/05 - Acórdão n° 292/07 - Tribunal Pleno;
+                      - Processo nº 676797379580/17 - Acórdão nº 2270/18 - Tribunal
+    Pleno.
+    
+    
+    
+    
+    de 85% (oitenta e cinco por cento) do FUNDEB ou a folha geral de pagamento alcançar o percentual
+    de cinquenta e um por cento da receita corrente líquida do Município.
+    2 Art. 313. Uma vez protocolada, autuada e distribuída, será a consulta encaminhada ao Relator para
+    
+    proceder ao juízo de admissibilidade.
+    (...)
+    §2° Admitida a consulta, serão os autos remetidos à Escola de Gestão Pública, para juntada de
+    informação sobre a existência de prejulgado ou decisões reiteradas sobre o tema, no prazo de 2 (dois)
+    dias, com a subsequente devolução dos autos ao Relator. (Redação dada pela Resolução n° 58/2016).
+    
+
+### Página 3 do documento oficial
+
+                     TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                       Remetidos os autos à Coordenadoria-Geral de Fiscalização, em
+    atenção ao disposto no art. 252-C do Regimento Interno3, a unidade informou, no
+    Despacho n° 842/21 (peça n° 12), que não foram identificados impactos imediatos em
+    sistemas ou em fiscalizações realizadas pelas Coordenadorias a ela vinculadas.
+                       Seguindo o trâmite regimental, a Coordenadoria de Gestão Municipal
+    emitiu a Instrução n° 3346/21 (peça n° 13), na qual aduziu que, ocorrida qualquer das
+    situações proibitórias previstas na legislação local, as progressões deveriam ser
+    suspensas. Assim, sugeriu resposta no sentido de estar vedada a concessão de
+    progressões funcionais à carreira do magistério, nos termos do art. 95 da Lei
+    Complementar n° 009/2011 do Município de Formosa do Oeste e do parecer jurídico
+    da entidade. Alertou, ainda, que a Consulta n° 639007/20, julgada com força
+    normativa, aponta para a impossibilidade de aumentos remuneratórios nos termos da
+    Lei Complementar n° 173/2020.
+                       Por outro lado, em sentido diverso, por meio do Parecer n° 218/21
+    (peça n° 14), de lavra da Ilustre Procuradora-Geral, o Ministério Público de Contas
+    propôs a seguinte resposta à consulta:
+                                                (...) que o artigo 95 da Lei Complementar
+                             Municipal nº 09/2011 do município de Formosa do Oeste deve
+                             ser aplicado concomitantemente com os dispositivos da LRF
+                             acerca dos limites de despesa de pessoal por ocasião do
+                             planejamento e execução orçamentária, adotando-se as
+                             mesmas metodologias e periodicidade.
+                                                Em relação a concessão de progressões
+                             funcionais aos profissionais do magistério, quando estes tenham
+                             preenchido todos os requisitos previstos em lei, o artigo 95 não
+                             pode ser invocado para obstar a concessão da progressão, sob
+                             pena de violação ao direito adquirido constitucionalmente
+                             assegurado.
+    
+    
+    
+    3 Art. 252-C. Os processos de consulta, prejulgado, incidente de inconstitucionalidade e uniformização
+    
+    de jurisprudência deverão ser encaminhados à Coordenadoria-Geral de Fiscalização pelas unidades
+    técnicas, previamente à elaboração da instrução, para informar eventuais impactos decorrentes da
+    decisão na área de fiscalização. (Incluído pela Resolução n° 64/2018)
+    
+
+### Página 4 do documento oficial
+
+                  TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                                          Ressalte-se,    entretanto,    que    dada     a
+                         excepcionalidade do momento vivenciado com a pandemia do
+                         covid-19, deve-se observar os preceitos contidos na Lei
+                         Complementar nº 173/2020 no tocante a proibição de aumento
+                         de despesas até 31/12/2021, bem como as decisões desta Corte
+                         de Contas em sede de consulta, especialmente a contida no
+                         processo 639007/2020.
+    
+    
+                    Em seguida, em atenção ao Despacho n° 99/22 – GCNB (peça n° 15),
+    o Município de Formosa do Oeste apresentou cópia da Lei Complementar n° 09/2011
+    e de leis posteriores que a alteraram (peças n° 19-27).
+                    Na sequência, por meio do Acórdão n° 1571/22 – Tribunal Pleno (peça
+    n° 33), nos termos do voto divergente, a consulta restou conhecida, por maioria
+    absoluta de votos, vencido o voto do relator originário, pelo não conhecimento em
+    razão do suposto não atendimento do pressuposto do inciso V do artigo 311 do
+    Regimento Interno, conforme a seguinte ementa:
+                                          Consulta. Dúvida na aplicação de dispositivo da
+                         legislação municipal, formulada em tese. Suspensão das
+                         progressões vertical por habilitação ou horizontal por avaliação
+                         de desempenho dos profissionais do magistério do Município, na
+                         hipótese de o percentual da folha de pagamento com recursos
+                         do FUNDEB ter atingido 100%. Satisfeitas as condições do art.
+                         311, incisos III e V, do Regimento Interno, aliada ao interesse
+                         público e ao caráter controvertido da matéria. Divergência para
+                         propor seu conhecimento.
+    
+    
+                    Como expressamente consignado no acórdão, considerando que o
+    processo se encontrava na pauta de julgamento da sessão virtual, em que não é
+    possível a votação em questões distintas, na forma do art. 450 do Regimento Interno,
+    tal decisão ficou restrita à apreciação da matéria preliminar, tendo os autos retornado
+    para análise do mérito.
+    
+
+### Página 5 do documento oficial
+
+                  TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                    É o relatório.
+    
+    
+                    2. De início, reitero que a questão relativa ao conhecimento da
+    consulta se encontra superada, nos termos do Acórdão n° 1571/22 – STP (peça n°
+    30).
+                    Quanto ao mérito, apesar dos brilhantes argumentos contidos no
+    Parecer n° 218/21 (peça n° 14), da douta Procuradora-Geral do Ministério Público de
+    Contas, Dra. Valéria Borba, entendo que, em sede de processo de consulta, a
+    resposta mais apropriada a ser oferecida ao consulente é aquela que se aproxima da
+    instrução da Coordenadoria de Gestão Municipal.
+                    A Lei Complementar Municipal n° 09/2011, que trata do Plano de
+    Carreira do Magistério, estabelece, em seu artigo 95, inserido no título que trata das
+    responsabilidades financeiras, que:
+                                          Art. 95. Os aumentos na remuneração dos
+                         profissionais do magistério em decorrência das progressões
+                         vertical por habilitação ou horizontal por avaliação de
+                         desempenho serão suspensas quando o percentual da folha de
+                         pagamento dos profissionais do magistério ultrapassar o
+                         percentual de 85% (oitenta e cinco por cento) do FUNDEB ou a
+                         folha geral de pagamento alcançar o percentual de cinquenta e
+                         um por cento da receita corrente líquida do Município.
+                                          Parágrafo único. Caberá à Comissão de Gestão
+                         e Acompanhamento do Plano de Carreira, definida no art. 104,
+                         propor alternativas para que o aumento na folha de pagamento
+                         dos profissionais do magistério não ultrapasse os percentuais
+                         previstos neste artigo.
+    
+    
+                    Observe-se, na linha do que sustenta a Coordenadoria de Gestão
+    Municipal, que a legislação é absolutamente clara no sentido de que, ocorridas
+    quaisquer das situações ali previstas – folha de pagamento dos profissionais do
+    magistério ultrapassar 85% dos recursos do FUNDEB ou folha geral de pagamento
+    
+
+### Página 6 do documento oficial
+
+                     TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+    alcançar 51% da receita corrente líquida -, devem ser suspensos os aumentos
+    remuneratórios dos professores em decorrência das progressões.
+                       Embora os diversos apontamentos feitos pelo Ministério Público de
+    Contas sejam bastante pertinentes e tragam reflexões de extrema importância acerca
+    do tema, não vislumbro possibilidade de ofertar resposta ao consulente no sentido de
+    afastar a aplicabilidade do dispositivo legal municipal (ainda que por meio da utilização
+    da técnica de interpretação conforme à Constituição, como poderia se depreender da
+    manifestação ministerial) em processo de consulta, que, em princípio, não é a sede
+    adequada para a realização de controle de constitucionalidade por este Tribunal de
+    Contas.
+                       Ainda que a Súmula n° 347 do Supremo Tribunal Federal 4 e o art. 78
+    da Lei Orgânica desta Corte de Contas5 assegurem a competência deste Tribunal
+    para apreciar a constitucionalidade de leis ou atos normativos do Poder Público, tal
+    atribuição se aplica somente à solução de casos concretos submetidos à análise do
+    Tribunal, de maneira incidental, como questão prejudicial de mérito, não podendo
+    abranger a modalidade de controle por meio de consulta.
+                       Conforme previsto nos arts. 311 e seguintes do Regimento Interno, no
+    processo de consulta, busca-se obter um posicionamento em tese desta Corte de
+    Contas acerca de dúvida, formulada por autoridade legítima, quanto à aplicação de
+    dispositivos legais e regulamentares concernentes à matéria de competência deste
+    Tribunal. Quando tomada por quórum qualificado, inclusive, a decisão da consulta tem
+    
+    
+    
+    4 O Tribunal de Contas, no exercício de suas atribuições, pode apreciar a constitucionalidade das leis
+    
+    e dos atos do Poder Público.
+    5 Art. 78. Se, por ocasião do julgamento de qualquer feito pela Câmara, esta verificar a
+    
+    inconstitucionalidade de alguma lei ou ato normativo do Poder Público, os autos serão remetidos à
+    discussão em sessão do Tribunal Pleno para pronunciamento preliminar sobre a matéria, conforme
+    procedimento a ser estabelecido em Regimento Interno.
+    § 1º Em sessão plenária, o Relator do feito exporá o caso, procedendo-se, em seguida, à deliberação
+    sobre a matéria.
+    § 2º Proferido o julgamento pelo Tribunal Pleno e publicada a respectiva deliberação, serão os autos
+    devolvidos à Câmara, para apreciar o caso de acordo com a decisão prejudicial.
+    § 3º Idêntico incidente poderá ser suscitado por qualquer Conselheiro, Auditor quando em substituição,
+    ou membro do Ministério Público junto ao Tribunal de Contas, em feitos de competência originária do
+    Tribunal Pleno.
+    § 4º A decisão contida no Acórdão que deliberar sobre o incidente de reconhecimento de
+    inconstitucionalidade de lei ou ato normativo, solucionará a questão prejudicial, constituindo prejulgado
+    a ser aplicado a todos os casos a serem submetidos ao Tribunal de Contas.
+    
+
+### Página 7 do documento oficial
+
+                  TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+    força normativa, constitui prejulgamento de tese e vincula o exame de feitos sobre o
+    mesmo tema, nos termos do art. 316.
+                    Note-se, portanto, que o processo de consulta trata de temas em
+    abstrato, de forma desvinculada de casos concretos, de maneira que a análise da
+    constitucionalidade de dispositivos legais, no âmbito desta espécie processual,
+    extrapolaria o escopo específico desse processo.
+                    A obrigatoriedade de que a resposta à consulta constitua apreciação
+    de tese, mesmo quando a dúvida envolver caso concreto, consta, inclusive, da Súmula
+    n° 3 deste Tribunal de Contas, in verbis:
+                                          As consultas que versarem sobre caso concreto
+                         não serão admitidas por este Tribunal, salvo se tratarem de
+                         assunto de relevante interesse público, devidamente motivado,
+                         situação em que delas se poderá conhecer, desde que
+                         satisfeitos todos os requisitos para a sua admissibilidade,
+                         constituindo-se a resposta em apreciação de tese, mas não de
+                         caso concreto.
+    
+    
+                    Diante desse cenário, parece-me que a presente consulta deve ser
+    respondida no sentido de que, existindo vedação na legislação municipal à concessão
+    de aumentos remuneratórios aos profissionais do magistério em decorrência de
+    progressões funcionais, em determinadas hipóteses, caso a situação descrita na
+    norma reste configurada, deverá ser respeitada a proibição legal.
+                    Ressalva-se, contudo, em atenção aos argumentos trazidos aos autos
+    pelo Ministério Público de Contas, a possibilidade de que, em ação própria, seja
+    questionada a constitucionalidade do dispositivo legal discutido nos presentes autos,
+    devendo ser remetida cópia desta decisão ao Procurador-Geral de Justiça do
+    Município consulente.
+    
+    
+                    3. Diante do exposto, VOTO pelo conhecimento da presente Consulta
+    para, no mérito, respondê-la nos seguintes termos:
+    
+
+### Página 8 do documento oficial
+
+                     TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                       Existindo vedação na legislação municipal à concessão de aumentos
+    remuneratórios aos profissionais do magistério em decorrência de progressões
+    funcionais, em determinadas hipóteses, caso a situação descrita na norma reste
+    configurada, deverá ser respeitada a proibição legal.
+                       Ressalva-se, contudo, a possibilidade de que, em ação própria, seja
+    questionada a constitucionalidade do dispositivo legal discutido nos presentes autos,
+    devendo ser remetida cópia desta decisão ao Procurador-Geral de Justiça do
+    Município consulente.
+                       Após o trânsito em julgado da decisão, remetam-se os autos à
+    Supervisão de Jurisprudência e Biblioteca para os registros pertinentes e, na
+    sequência, à Diretoria de Protocolo, para o encerramento do processo, nos termos do
+    art. 398, § 1º e art. 168, VII, do Regimento Interno.
+    
+    
+    
+    II - VOTO DIVERGENTE DO CONSELHEIRO MAURÍCIO REQUIÃO DE
+    MELLO E SILVA (Relator designado)
+    
+                       Trata-se de consulta formulada pelo prefeito do município de
+    Formosa do Oeste, Luiz Antônio Domingos de Aguiar, a fim de verificar: “se há
+    a possibilidade de conceder as progressões vertical e horizontal aos
+    profissionais do magistério do município, mesmo estando o percentual da folha
+    de pagamento com recursos do FUNDEB em 100%, ou deve -se manter
+    suspenso conforme o art. 95 da Lei Complementar nº 09/2011” . 6
+                       A Lei Complementar nº 09/2011, do município de Formosa do
+    Oeste, que dispõe sobre o plano de cargos, carreiras e remuneração dos
+    profissionais do magistério, dispõe em seu art. 95, que:
+                                                 Art. 95. Os aumentos na remuneração dos
+                              profissionais      do   magistério   em   decorrência   das
+                              progressões vertical por habilitação ou horizontal por
+                              avaliação de desempenho serão suspensas quando o
+                              percentual da folha de pagamento dos profissionais do
+    
+    
+    
+    6 Petição da Consulta, peça nº 03, fl. 02.
+    
+
+### Página 9 do documento oficial
+
+                 TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                       magistério ultrapassar o percentual de 85% (oitenta e cinco
+                       por cento) do FUNDEB ou a folha geral de pagamento
+                       alcançar o percentual de cinquenta e um por cento da
+                       receita corrente líquida do Município.
+    
+    
+    
+                  A Coordenadoria de Gestão Municipal apresentou manifestação
+    na Instrução nº 3346/21, acostada na peça nº 13, no sentido de que a Lei
+    Complementar Municipal é clara ao dispor que serão               suspensas as
+    progressões, nas hipóteses em que a folha de pagamento dos profissionais do
+    magistério ultrapassar o percentual de 85% (oitenta e cinco por cento) dos
+    recursos provenientes do FUNDEB ou 51% (cinquenta e um por cento) da
+    receita corrente líquida, de modo que ocorrendo uma destas situações as
+    progressões devem ser suspensas.
+                  Assim, ante a informação de que o município atingiu o
+    percentual de 100% (cem por cento) de utilização dos recursos do FUNDEB,
+    com a folha de pagamento dos profissionais do magistério, opina que o
+    consulente seja orientado a interromper a concessão de progressões
+    funcionais aos profissionais da carreira do magistério, nos termos do disposto
+    no art. 95 da Lei Complementar nº 09/2011, do município de Formosa do Oeste.
+                  Por sua vez, o Ministério Público de Contas do Estado do
+    Paraná apresentou o parecer nº 218/21, juntado à peça nº 14, aduzindo, em
+    síntese, que para a análise da consulta formulada pelo município de Formosa
+    do Oeste, faz-se necessário considerar o art. 95 da Lei Complementar
+    Municipal nº 09/2011 como medida de enrijecimento do controle de despesas
+    de pessoal, bem como limitação de direitos de uma classe específica de
+    servidores públicos, quais sejam: os professores.
+                  Nesse    sentido,   dispõe   que   consoante   o    entendimento
+    consolidado pela jurisprudência do Supremo Tribunal Federal, não há óbice
+    para que a lei municipal imponha limites mais restritivos de controle das
+    despesas públicas do que os preceituados pela Lei Complementar nº 101/2000
+    – Lei de Responsabilidade Fiscal.
+    
+
+### Página 10 do documento oficial
+
+                   TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                     No entanto, argumenta que não há notícia de que o município
+    de Formosa do Oeste tenha editado normas restritivas semelhantes para os
+    demais servidores, o que caracterizaria violação ao princípio da igualdade.
+    Além disso, afirma que a norma municipal configura evidente retrocesso ao
+    preceituado pelo art. 206, IV, da Constituição Federal, que preconiza a
+    valorização dos profissionais da educação, bem como que não seria possível
+    restringir o direito adquirido do servidor público que preenche todos os
+    requisitos para a progressão funcional, com base em aspectos orçamentário -
+    financeiro.
+                     Contudo, o Conselheiro Ivens Zschoerper Linhares, em seu voto
+    condutor,     dispõe,    em      síntese,    que   nos   termos   do   consignado   pela
+    Coordenadoria de Gestão Municipal a legislação é absolutamente clara ao
+    vedar progressões da carreira do magistério quando a folha de pagamento
+    alcançar 51% (cinquenta e um por cento) da receita corrente líquida do
+    município ou na hipótese do município atingir o percentual de 85% (oitenta e
+    cinco por cento) dos recursos provenientes do FUNDEB com o pagamento de
+    professores.
+                     Aduz que, em que pese os pertinentes apontamentos feitos pelo
+    Ministério Público de Contas, não é possível ofertar ao consulente resposta no
+    sentido de afastar a aplicação da norma constitucional, no âmbito do processo
+    de consulta, uma vez que este deve tratar de temas em abstrato, de forma
+    desvinculada de casos concretos, sem a possibilidade de análise da
+    constitucionalidade de dispositivos legais.
+                     Sendo assim, o Conselheiro votou pelo conhecimento da
+    consulta e, no mérito, para que esta fosse respondida nos seguintes termos:
+                                                Existindo vedação na legislação municipal à
+                            concessão de aumentos remuneratórios aos profissionais
+                            do magistério em decorrência de progressões funcionais,
+                            em determinadas hipóteses, caso a situação descrita na
+                            norma reste configurada, deverá ser respeitada a proibição
+                            legal.
+    
+
+### Página 11 do documento oficial
+
+                 TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                                       Ressalva-se, contudo, a possibilidade de
+                        que,      em   ação        própria,   seja    questionada    a
+                        constitucionalidade do dispositivo legal discutido nos
+                        presentes autos, devendo ser remetida cópia desta decisão
+                        ao ProcuradorGeral de Justiça do Município consulente.
+    
+    
+    
+                   Em que pese o voto apresentado pelo relator, divirjo do
+    posicionamento em relação a orientação no sentido de que, ocorrendo as
+    hipóteses previstas no art. 95 da Lei Complementar nº 09/2011, do município
+    de Formosa do Oeste, deverá ser respeitada a norma legal.
+                   Pois, no presente caso, vislumbra-se que a interpretação
+    proposta pelo relator acarreta inequívoca antinomia entre o disposto nos art s.
+    43 a 48 da Lei Complementar nº 09/2011 e o disposto no art. 95 do mesmo
+    diploma legal, bem como em relação ao preceituado pelo art. 22, inciso I, da
+    Lei nº 101/2000 e o disposto no art. 95 da Lei Complementar nº 09/2011.
+                   Visto que nos termos do acertadamente consignado pelo
+    Ministério Público de Contas no parecer nº 218/21, consoante o entendimento
+    consolidado pelo Supremo Tribunal Federal na ADI nº 4426/CE, não há óbice
+    para que o município estabeleça critérios mais rigorosos de gasto com pessoal
+    do que o estabelecido na Lei Complementar nº 101/2000 – Lei de
+    Responsabilidade    Fiscal.   Todavia,    os    parâmetros   de   indisponibilidade
+    orçamentária-financeira estabelecidos pela Lei Complementar não podem ser
+    utilizados para tolher o direito subjetivo do servidor p úblico, mas tão somente
+    para nortear o ente público na gestão das despesas públicas.
+                   Assim, uma vez que os arts. 43 a 48 da Lei Complementar nº
+    09/2011 dispõem que o professor fará jus à progressão horizontal ou vertical,
+    na hipótese de cumprir os requisitos preceituados pela norma, não seria
+    possível afastar o direito subjetivo do servidor que preenche os requisitos para
+    progressão, em razão do percentual da folha de pagamento dos profissionais
+    do magistério ultrapassar 85% (oitenta e cinco por cento) do FUNDEB ou na
+    
+
+### Página 12 do documento oficial
+
+                 TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+    hipótese da folha geral de pagamento alcançar o percentual de cinquenta e um
+    por cento da receita corrente líquida do Município.
+                  Veja-se que, neste sentido, o art. 22, inciso I, da Lei
+    Complementar nº 101/2000 – Lei de Responsabilidade Fiscal, preceitua
+    expressamente a impossibilidade de vedar a concessão de vantagem,
+    aumento, reajuste ou adequação, quando estes decorrerem de determinação
+    legal, como é o caso da progressão vertical e horizontal dos profissionais do
+    magistério do município de Formosa do Oeste. In verbis:
+                                      Art. 22. A verificação do cumprimento dos
+                       limites estabelecidos nos arts. 19 e 20 será realizada ao
+                       final de cada quadrimestre.
+    
+    
+                                       Parágrafo único. Se a despesa total com
+                       pessoal exceder a 95% (noventa e cinco por cento) do
+                       limite, são vedados ao Poder ou órgão referido no art. 20
+                       que houver incorrido no excesso:
+                                      I - concessão de vantagem, aumento,
+                       reajuste ou adequação de remuneração a qualquer título,
+                       salvo   os   derivados    de   sentença   judicial   ou   de
+                       determinação legal ou contratual, ressalvada a revisão
+                       prevista no inciso X do art. 37 da Constituição;
+    
+    
+                  Aliás, sobre o assunto, o Superior Tribunal de Justiça fixou a
+    seguinte tese no Tema Repetitivo nº 1075:
+                                      É ilegal o ato de não concessão de
+                       progressão    funcional   de   servidor   público,   quando
+                       atendidos todos os requisitos legais, a despeito de
+                       superados os limites orçamentários previstos na Lei de
+                       Responsabilidade Fiscal, referentes a gastos com pessoal
+                       de ente público, tendo em vista que a progressão é direito
+                       subjetivo do servidor público, decorrente de determinação
+    
+
+### Página 13 do documento oficial
+
+                    TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                        legal, estando compreendida na exceção prevista no inciso
+                        I do parágrafo único do art. 22 da Lei Complementar
+                        101/2000.
+    
+    
+    
+                    Por esse motivo, divirjo do posicionamento apresentado pelo
+    relator, para responder a consulta no sentido de que o art. 95 da Lei
+    Complementar nº 09/2011, deve ser utilizado exclusivamente para nortear a
+    gestão municipal no processo de elaboração e execução orçamentária, mas
+    não para obstar o direito subjetivo dos profissionais do magistério do município
+    de Formosa do Oeste as progressões estabelecidas pela norma.
+    
+    
+    III – CONCLUSÃO DO CONSELHEIRO MAURÍCIO REQUIÃO DE MELLO E
+    SILVA
+                    Face ao exposto, divirjo do Relator, para propor CONHECER a
+    presente Consulta e, no mérito, pela RESPOSTA do questionamento no
+    seguinte sentido: é possível que o município conceda progressões horizontais
+    e verticais aos profissionais do magistério, ainda que tenha utilizado o
+    percentual de 100% (cem por cento) dos recursos do FUNDEB para adimplir a
+    folha de pagamento dos profissionais da educação, pois na hipótese do
+    município estabelecer critérios mais rigorosos de gasto com pessoal do que o
+    estabelecido pela Lei Complementar nº 101/2000 – Lei de Responsabilidade
+    Fiscal, estes não podem ser utilizados para obstar o direito subjetivo do
+    servidor público que preencha todos os requisitos legais para a progressão
+    funcional, mas apenas para nortear a gestão municipal no planejamento e execução
+    orçamentária.
+    
+    
+                    VISTOS, relatados e discutidos,
+    
+    
+                                      ACORDAM
+    
+
+### Página 14 do documento oficial
+
+                  TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                OS MEMBROS DO TRIBUNAL PLENO do TRIBUNAL DE CONTAS
+    DO ESTADO DO PARANÁ, nos termos do voto do Relator, Conselheiro MAURÍCIO
+    REQUIÃO DE MELLO E SILVA, por voto de desempate do presidente, em:
+    
+                   CONHECER a presente Consulta para, no mérito, RESPONDER
+    o questionamento no seguinte sentido: é possível que o município conceda
+    progressões horizontais e verticais aos profissionais do magistério, ainda que
+    tenha utilizado o percentual de 100% (cem por cento) dos recursos do FUNDEB
+    para adimplir a folha de pagamento dos profissionais da educação, poi s na
+    hipótese do município estabelecer critérios mais rigorosos de gasto com
+    pessoal do que o estabelecido pela Lei Complementar nº 101/2000 – Lei de
+    Responsabilidade Fiscal, estes não podem ser utilizados para obstar o direito
+    subjetivo do servidor público que preencha todos os requisitos legais para a
+    progressão funcional, mas apenas para nortear a gestão municipal no
+    planejamento e execução orçamentária.
+    
+    
+                  Votaram, acompanhando o Relator, Conselheiro IVENS
+    ZSCHOERPER LINHARES, os Conselheiros IVAN LELIS BONILHA e JOSE DURVAL
+    MATTOS DO AMARAL.
+                  Acompanharam a divergência do Conselheiro MAURÍCIO REQUIÃO
+    DE MELLO E SILVA, os Conselheiros FABIO DE SOUZA CAMARGO e
+    AUGUSTINHO ZUCCHI.
+                  O Presidente, Conselheiro FERNANDO AUGUSTO MELLO
+    GUIMARÃES desempatou o julgamento acompanhando o voto da divergência do
+    Conselheiro MAURÍCIO REQUIÃO DE MELLO E SILVA.
+                  Presente a Procuradora Geral do Ministério Público junto ao Tribunal
+    de Contas, VALERIA BORBA.
+                  Plenário Virtual, 27 de abril de 2023 – Sessão Ordinária Virtual nº 7.
+    
+    
+                        MAURÍCIO REQUIÃO DE MELLO E SILVA
+                                 Conselheiro Relator
+    
+    
+                      FERNANDO AUGUSTO MELLO GUIMARÃES
+                                  Presidente
+    
+
+### Página 15 do documento oficial
+
+                        TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+        ACÓRDÃO Nº 1571/22 - TRIBUNAL PLENO – COMPLEMENTADO PELO ACÓRDÃO Nº
+                                                  964/23 - TRIBUNAL PLENO
+    
+    
+        PROCESSO Nº:              432929/21
+        ASSUNTO:                  CONSULTA
+        ENTIDADE:                 MUNICÍPIO DE FORMOSA DO OESTE
+        INTERESSADO:              LUIZ ANTONIO DOMINGOS DE AGUIAR
+        RELATOR:                  CONSELHEIRO IVENS ZSCHOERPER LINHARES
+    
+    
+                                         ACÓRDÃO Nº 1571/22 - Tribunal Pleno
+                                                                Consulta. Dúvida na aplicação de dispositivo
+                                                                da legislação municipal, formulada em tese.
+                                                                Suspensão das progressões vertical por
+                                                                habilitação ou horizontal por avaliação de
+                                                                desempenho dos profissionais do magistério
+                                                                do Município, na hipótese de o percentual da
+                                                                folha de pagamento com recursos do FUNDEB
+                                                                ter atingido 100%. Satisfeitas as condições do
+                                                                art. 311, incisos III e V, do Regimento Interno,
+                                                                aliada ao interesse público e ao caráter
+                                                                controvertido da matéria. Divergência para
+                                                                propor seu conhecimento.
+    
+    
+    
+    
+    I – RELATÓRIO DO CONSELHEIRO NESTOR BAPTISTA (Relator originário)
+                          Trata-se de processo de consulta formulada pelo Prefeito do
+    Município de Formosa do Oeste, Sr. Luiz Antônio Domingos de Aguiar, acerca da
+    aplicação do artigo 95 da Lei Complementar Municipal nº 09/20117.
+                          A dúvida suscitada foi formulada nos seguintes termos:
+                                                                "Ante o exposto, apresenta-se a presente
+                                         consulta a fim de verificar se há possibilidade de conceder
+                                         as progressões vertical e horizontal aos profissionais do
+                                         magistério do município, mesmo estando o percentual da
+    
+    7
+       Os aumentos na remuneração dos profissionais do magistério em decorrência das progressões vertical por habilitação ou
+    horizontal por avaliação de desempenho serão suspensas quando o percentual da folha de pagamento dos profissionais do
+    magistério ultrapassar o percentual de 85% (oitenta e cinco por cento) do FUNDEB ou a folha geral de pagamento alcançar o
+    percentual de cinquenta e um por cento da receita corrente líquida do Município”
+    
+
+### Página 16 do documento oficial
+
+                  TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                              folha de pagamento com recursos do FUNDEB em 100%,
+                              ou deve-se manter suspenso conforme art. 95 da Lei
+                              Complementar nº 9/2011.”
+    
+    
+                   Parecer Jurídico da Assessoria do Município de Formosa do Oeste foi
+    acostado na peça nº 4.
+                   Consulta recebida conforme Despacho 629/21-GCNB (peça nº 06).
+    Após, o feito foi enviado, consoante o § 2º art. 313 do Regimento Interno, para a
+    Supervisão de Jurisprudência e Biblioteca (SJB), a qual, por intermédio da Informação
+    nº 78/21 (peça nº 08), noticiou a existência de algumas decisões que a tangenciavam.
+                   Na sequência, os autos foram remetidos à Coordenadoria Geral de
+    Fiscalização (CGF) e à Coordenadoria de Gestão Municipal (CGM).
+                   A CGF, no Despacho nº 842/21-CGF (peça nº 12), relata que não
+    foram identificados impactos imediatos em sistemas ou em fiscalizações realizadas
+    pelas Coordenadorias vinculadas a ela.
+                   A CGM, por meio da Instrução nº 3346/21-CGM (peça nº 13),
+    manifestou-se nos seguintes termos:
+                                              Ante o exposto, apresenta-se a presente
+                              consulta a fim de verificar se há possibilidade de conceder
+                              as progressões vertical e horizontal aos profissionais do
+                              magistério do município, mesmo estando o percentual da
+                              folha de pagamento com recursos do FUNDEB em 100%,
+                              ou deve-se manter suspenso conforme art. 95 da Lei
+                              Complementar nº 9/2011.
+    
+    
+                   Por sua vez, o Ministério Público de Contas (MPC), por meio do
+    Parecer n° 218/21 (peça nº 14), pugnou pelo conhecimento da presente Consulta
+    para, no mérito, ofertar a seguinte proposta de resposta: “Ante o exposto, este
+    Ministério Público de Contas propõe como resposta ao consulente que o artigo 95 da
+    Lei Complementar Municipal nº 09/2011 do município de Formosa do Oeste deve ser
+    aplicado concomitantemente com os dispositivos da LRF acerca dos limites de
+    
+
+### Página 17 do documento oficial
+
+                         TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+    despesa de pessoal por ocasião do planejamento e execução orçamentária,
+    adotando-se as mesmas metodologias e periodicidade.”
+                            É o relatório.
+    
+    
+    II - FUNDAMENTAÇÃO DO CONSELHEIRO NESTOR BAPTISTA
+                            Preliminarmente, ao reexaminar os pressupostos dos artigos 3118 e
+    3129 do Regimento Interno, constatei que a consulta foi formulada por autoridade
+    legítima, amparada em parecer jurídico, com apresentação objetiva da dúvida que,
+    contudo, versou sobre a aplicação ou não de lei municipal em caso concreto.
+                            Nesse sentido, meio da exposição de motivos do Jurisdicionado para
+    a instauração dos autos foi a seguintes:
+                                                                    A lei complementar nº 09/2011, que dispõe
+                                            sobre o plano de cargos, carreiras e remuneração dos
+                                            profissionais do magistério do município, em seu art. 95,
+                                            estabelece que: “ Os aumentos na remuneração dos
+                                            profissionais do magistério em decorrência das
+                                            progressões vertical por habilitação ou horizontal por
+                                            avaliação de desempenho serão suspensas quando o
+                                            percentual da folha de pagamento dos profissionais do
+                                            magistério ultrapassar o percentual de 85% (oitenta e
+                                            cinco por cento) do FUNDEB ou a folha geral de
+                                            pagamento alcançar o percentual de cinquenta e um
+                                            por cento da receita corrente líquida do Município”.
+                                                                    O percentual da folha de pagamento dos
+                                            profissionais do magistério com recursos dos FUNDEB
+    
+    8
+       Art. 311. A consulta formulada ao Tribunal de Contas, conforme o disposto no Título II, Capítulo II, Seção VII, da Lei
+    Complementar nº 113/2005, deverá atender aos seguintes requisitos:
+    I - ser formulada por autoridade legítima;
+    II - conter apresentação objetiva dos quesitos, com indicação precisa de dúvida;
+    III - versar sobre dúvida na aplicação de dispositivos legais e regulamentares concernentes à matéria de competência do Tribunal;
+    IV - ser instruída por parecer jurídico ou técnico emitido pela assessoria técnica ou jurídica do órgão ou entidade consulente,
+    opinando acerca da matéria objeto da consulta;
+    V - ser formulada em tese.
+    9
+      Art. 312. Estão legitimados para formular consulta:
+    (...)
+    II - no âmbito municipal, Prefeito, Presidente de Câmara Municipal, Procurador Geral do Município, dirigentes de autarquias,
+    sociedades de economia mista, empresas públicas, fundações instituídas e mantidas pelo município, consórcios intermunicipais
+    e conselhos constitucionais e legais;
+    
+
+### Página 18 do documento oficial
+
+                           TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                                             atualmente está 100% (cem por cento).
+                                                                    Atualmente a folha de pagamento do
+                                             município alcança 47,85% (quarenta e sete virgula oitenta
+                                             e cinco por cento) de sua receita liquida.
+                                                                    Diante         da       informação          acima,   a
+                                             Procuradora            Geral      do       Município        emitiu    parecer
+                                             indeferindo           os      requerimentos             realizados      pelos
+                                             profissionais do magistério (anexo).
+                                                                    Em síntese, a Procuradora justifica que
+                                             os pedidos não poderão ser concedidos porque o
+                                             limite de gastos com o FUNDEB ultrapassou o limite
+                                             legal previsto no art. 95, do Estatuto dos Servidores do
+                                             Magistério, Lei Complementar nº 9/2011.
+                                                                    […]
+                                                                    Ante o exposto, apresenta-se a presente
+                                             consulta a fim de verificar se há possibilidade de conceder
+                                             as progressões vertical e horizontal aos profissionais do
+                                             magistério do município, mesmo estando o percentual da
+                                             folha de pagamento com recursos do FUNDEB em 100%,
+                                             ou deve-se manter suspenso conforme art. 95 da Lei
+                                             Complementar nº 9/2011.
+    
+    
+                              Como se observa, o intuito da desta consulta é a de referendar o
+    posicionamento já exarado em caso concreto por Procurador Municipal acerca da
+    aplicação da referida lei municipal, ou seja, não há nenhuma questão a ser apreciada
+    em tese por este Colegiado.
+                              A Súmula nº 3 deste Tribunal10 reza que “as consultas que versarem
+    sobre caso concreto não serão admitidas por este Tribunal, salvo se tratarem de
+    assunto de relevante interesse público, devidamente motivado, situação em que delas
+    se poderá conhecer, desde que satisfeitos todos os requisitos para a sua
+    
+    10
+         Processo nº 513162/06. Acórdão nº 287/07-Tribunal Pleno. Relatoria: Auditor Thiago Barbosa Cordeiro.
+    
+
+### Página 19 do documento oficial
+
+                  TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+    admissibilidade, constituindo-se a resposta em apreciação de tese, mas não de caso
+    concreto”.
+                    Assim, dado o contexto retratado pelo jurisdicionado na exordial (peça
+    nº 2), inexiste assunto de relevante interesse público a ser debatido nesse processo,
+    restando evidente, também, que a forma como a dúvida foi suscitada pelo
+    jurisdicionado impossibilita este Tribunal de respondê-la em tese.
+                    Desse modo, constatado o não atendimento do pressuposto do inciso
+    V do artigo 311 do Regimento Interno, reforma-se o posicionamento exarado no
+    Despacho 629/21-GCNB (peça nº 06) e propõe-se o não conhecimento da presente
+    consulta.
+    
+    
+    III - VOTO DO CONSELHEIRO NESTOR BAPTISTA (vencido)
+                    Diante do exposto e em respeitosa divergência com a Unidade de
+    Instrução Técnica e com o Ministério Público de Contas, VOTO pelo NÃO
+    CONHECIMENTO da consulta formulada pelo Prefeito do Município de Formosa do
+    Oeste, Sr. Luiz Antônio Domingos de Aguiar, devido ao não atendimento do
+    pressuposto do inciso V do artigo 311 do Regimento Interno.
+                    Nestes termos, após o trânsito em julgado da presente decisão, com
+    fulcro no §1º do artigo 398 do Regimento Interno, encerre-se e arquive-se o feito junto
+    à Diretoria de Protocolo (DP).
+    
+    
+    IV - VOTO DIVERGENTE DO CONSELHEIRO IVENS ZSCHOERPER LINHARES
+    (Relator designado)
+                    1. Divirjo do voto do Ilustre Relator, por entender que a presente
+    consulta deve ser conhecida, na medida em que, nos termos do art. 311, incisos III e
+    V, do Regimento Interno, ela versa “sobre dúvida na aplicação de dispositivos legais”
+    e foi “formulada em tese”.
+                    Mais especificamente, a questão formulada pelo Prefeito do Município
+    de Formosa do Oeste, Sr. Luiz Antônio Domingos de Aguiar, diz respeito à aplicação
+    do artigo 95 da Lei Complementar Municipal nº 09/2011, que prevê a suspensão das
+    progressões vertical por habilitação ou horizontal por avaliação de desempenho dos
+    
+
+### Página 20 do documento oficial
+
+                   TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+    profissionais do magistério do Município, na hipótese de o percentual da folha de
+    pagamento com recursos do FUNDEB ter atingido 100%.
+                     Dispõe o referido dispositivo legal:
+                                      Os aumentos na remuneração dos profissionais do
+                          magistério em decorrência das progressões vertical por
+                          habilitação ou horizontal por avaliação de desempenho serão
+                          suspensas quando o percentual da folha de pagamento dos
+                          profissionais do magistério ultrapassar o percentual de 85%
+                          (oitenta e cinco por cento) do FUNDEB ou a folha geral de
+                          pagamento alcançar o percentual de cinquenta e um por cento
+                          da receita corrente líquida do Município.
+    
+    
+                     Entendo, respeitosamente, que não se trata de decisão acerca de um
+    caso concreto, na medida em que a dúvida quanto à aplicação da regra de suspensão
+    das progressões foi apresentada de forma genérica e abstrata, dirigida,
+    indistintamente, à classe dos profissionais do magistério do Município, sem
+    particularizar em relação a determinados indivíduos ou a um grupo dentro desse
+    segmento de servidores.
+                     Nesse sentido, o fato de tratar-se de lei local não descaracteriza a
+    hipótese da dúvida indicada no inciso III do art. 311 e, por outro lado, o fato de ter sido
+    oferecido um dado concreto do Município, referente ao percentual da folha de
+    pagamento com recursos do FUNDEB (de 100%), não impede esta Corte de oferecer
+    uma resposta em tese.
+                     Ademais, ainda que de forma residual, entendo presente o interesse
+    público de que trata o §1° do mesmo art. 311, para motivar o conhecimento da
+    consulta, mesmo que se tratasse de caso concreto, na medida em que a decisão
+    acerca do pagamento envolve, de uma lado, a pretensão da categoria dos professores
+    municipais, de obter as progressões, e, de outro, a preocupação do Município tanto
+    em não descumprir a legislação local, como de evitar a geração de um passivo na
+    folha de pagamento, que poderá implicar, inclusive, em encargos adicionais.
+    
+
+### Página 21 do documento oficial
+
+                  TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+                    Nesse sentido, bem pontou o Ministério Público de Contas, ao indicar
+    o choque de valores envolvidos:
+                                      No mérito, a resposta à dúvida do consulente
+                         pressupõe a análise de dois cenários.
+                                      O       primeiro   infere-se    do   ponto     de    vista   de
+                         planejamento e execução orçamentária, inserindo o artigo 95 da
+                         Lei Complementar Municipal nº 09/2011 como medida de
+                         enrijecimento do controle das despesas de pessoal, ao passo
+                         que o segundo cenário se compõe pela limitação de direitos de
+                         uma classe especial de servidores públicos, que no caso os
+                         professores (fl. 1 da peça 14).
+                                      (...)
+                                      Adverte-se ainda que o indeferimento de progressões
+                         funcionais       com       base    exclusivamente         nos     aspectos
+                         orçamentário-financeiro,          conforme    o    artigo    95    da     Lei
+                         Complementar Municipal nº 09/2011, pode gerar passivos
+                         contingentes e comprometer ainda mais as finanças do
+                         município (fl. 7).
+    
+    
+                    Vale salientar, por último, a diversidade dos opinativos da CGM
+    (Instrução 3346/21, peça 13), pela resposta negativa, e do Douto Ministério Público
+    de Contas (Parecer n° 218/21, peça 14), no sentido de que, quando os profissionais
+    do magistério tenham preenchido todos os requisitos previstos em lei para as
+    progressões funcionais “o artigo 95 não pode ser invocado para obstar a concessão
+    da progressão, sob pena de violação ao direito adquirido constitucionalmente
+    assegurado” (fl. 7), o que confirma o caráter controvertido da matéria.
+                    Outrossim, levando-se em conta que o processo se encontra na pauta
+    de julgamento da sessão virtual, em que não é possível a votação em questões
+    distintas, na forma do art. 450 do Regimento Interno, limito este voto à apreciação da
+    matéria preliminar, reservando para outro julgamento, caso vencedora a proposta, a
+    análise de mérito do pedido.
+    
+
+### Página 22 do documento oficial
+
+                 TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ
+    
+    
+    
+                   2. Face o exposto, VOTO pelo conhecimento da consulta.
+    
+    
+                   VISTOS, relatados e discutidos,
+    
+    
+                                       ACORDAM
+    
+    
+               OS MEMBROS DO TRIBUNAL PLENO do TRIBUNAL DE CONTAS
+    DO ESTADO DO PARANÁ, nos termos do voto divergente do Conselheiro IVENS
+    ZSCHOERPER LINHARES, por maioria absoluta, em:
+    
+                   Conhecer a presente consulta.
+    
+                   Votaram, nos termos acima, os Conselheiros FERNANDO AUGUSTO
+    MELLO GUIMARÃES, IVAN LELIS BONILHA, JOSE DURVAL MATTOS DO AMARAL
+    e IVENS ZSCHOERPER LINHARES (voto vencedor).
+                   Os Conselheiros NESTOR BAPTISTA (voto vencido) e ARTAGÃO DE
+    MATTOS LEÃO, votaram pelo não conhecimento da consulta formulada pelo Prefeito
+    do Município de Formosa do Oeste, Sr. Luiz Antônio Domingos de Aguiar, devido ao
+    não atendimento do pressuposto do inciso V do artigo 311 do Regimento Interno.
+    
+                  Presente a Procuradora Geral do Ministério Público junto ao Tribunal
+    de Contas, VALERIA BORBA.
+                  Plenário Virtual, 18 de agosto de 2022 – Sessão Ordinária Virtual nº
+    10.
+    
+    
+                            IVENS ZSCHOERPER LINHARES
+                                  Conselheiro Relator
+    
+    
+                             FABIO DE SOUZA CAMARGO
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
