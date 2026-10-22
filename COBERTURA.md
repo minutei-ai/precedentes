@@ -1,6 +1,6 @@
 # Cobertura
 
-**26.678 registros únicos de 90 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**26.769 registros únicos de 91 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCEMS — Súmulas e PDFs oficiais](https://jurisprudencia.tce.ms.gov.br/sumulas) | 91 | 91 | 0 |
 | [TCERN — Súmulas e PDFs oficiais](https://jurisprudencia.tce.rn.gov.br/sumula) | 34 | 34 | 0 |
 | [TCE-RJ — Consultas, ementas e documentos vinculados](https://www.tcerj.tc.br/cadastro-publicacoes/public/consultas) | 586 | 586 | 0 |
 | [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf) | 1.292 | 1.292 | 0 |
@@ -327,6 +328,14 @@ Os 33 PDFs disponíveis foram lidos duas vezes: cada par tem bytes idênticos e 
 A nº 24 aparece no ementário como cancelada pela Decisão nº 2092/2014-TC, apesar de o campo inativa permanecer false. O serviço de PDF respondeu HTTP 400 nas duas leituras; a redação anterior continua pendente. O endereço histórico de súmulas retornou a mesma aplicação atual, sem outro arquivo. A indicação de cancelamento e a divergência do cadastro foram preservadas. Não reconstruímos o texto a partir de notícias ou decisões que apenas o mencionam.
 
 São 70 capturas deste catálogo: duas do rol, 66 de PDFs e duas das respostas de erro, mantidas privadamente com seus recibos. Os Markdown reproduzem todas as páginas disponíveis. A validação é específica deste lote e não representa nova coleta dos demais órgãos; outras séries do TCERN e a cobertura nacional continuam parciais.
+
+O TCEMS acrescenta as 91 súmulas do catálogo público, numeradas de 1 a 91. Duas leituras independentes retornaram o rol completo, sem outra página, com os mesmos identificadores e metadados. Os 91 PDFs também foram lidos duas vezes: todos os pares têm bytes idênticos e somam 95 páginas por leitura. O número foi conferido no cabeçalho de cada documento. Há uma divergência: o arquivo da nº 1 contém cabeçalho e texto da nº 2 nas duas leituras. A redação integral da nº 1 permanece pendente; seu Markdown mantém a descrição do catálogo e identifica explicitamente o PDF divergente. Os Markdown preservam todas as páginas obtidas e os destinos dos links anotados no PDF.
+
+Os nomes oficiais dos arquivos marcam 83 súmulas como canceladas e sete como alteradas (27, 35, 47, 58, 79, 83 e 85). A nº 89 não tem essas marcas; essa ausência não foi tratada como prova de vigência. Redações anteriores e notas de alteração permanecem no texto. As descrições vêm do cadastro, sem converter datas técnicas do repositório em datas jurídicas. Processos e atos apenas citados não foram contados como registros adicionais.
+
+O livro Súmulas Anotadas, referido nos PDFs, continua pendente: o serviço atual retornou HTTP 500 e o endereço legado retornou HTML. Os links originais foram preservados. A Deliberação nº 91/2024, também vinculada nos PDFs, foi obtida como documento de apoio, sem substituir nem reescrever as notas dos arquivos individuais.
+
+São 184 capturas deste catálogo (dois róis e 182 PDFs), mantidas privadamente com seus recibos. A validação cobre este lote; outras séries do TCEMS e a cobertura nacional continuam parciais.
 
 O TCEPE acrescenta as 20 súmulas do rol oficial, em sequência de 1 a 20, com os textos históricos das nº 1, 2, 5 e 15 marcados como cancelados. O enunciado, os fundamentos jurídicos incorporados à descrição e as referências de publicação ou cancelamento foram preservados integralmente. A identidade dos arquivos segue o número da súmula, mantendo separadamente o identificador interno da API: por exemplo, a nº 19 tem identificador 1 e a nº 1 tem identificador 19.
 
@@ -676,6 +685,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEGO](tribunais/TCEGO/) | 2 | TCEGO — Súmulas, fichas e documentos para impressão |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
+| [TCEMS](tribunais/TCEMS/) | 91 | TCEMS — Súmulas e PDFs oficiais |
 | [TCEPE](tribunais/TCEPE/) | 100 | TCEPE — Enunciados de Prejulgados; TCEPE — Rol oficial de súmulas e nota do catálogo; TCEPE — Teses de Uniformização de Jurisprudência |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCERJ](tribunais/TCERJ/) | 614 | TCE-RJ — Consultas, ementas e documentos vinculados; TCE-RJ — Súmulas, fichas e acórdãos das propostas |
@@ -684,7 +694,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ e TCERN são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN e TCEMS são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
