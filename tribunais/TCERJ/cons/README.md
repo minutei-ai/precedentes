@@ -1,0 +1,590 @@
+# TCERJ · Consulta
+
+**586 registros.** [Voltar ao tribunal](../)
+
+- [CONS 58/2019](tcerj-consulta-1.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 49/2019](tcerj-consulta-10.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2018](tcerj-consulta-100.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2018](tcerj-consulta-101.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2018](tcerj-consulta-102.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 14/2018](tcerj-consulta-103.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2018](tcerj-consulta-104.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2018](tcerj-consulta-105.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2018](tcerj-consulta-106.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2018](tcerj-consulta-107.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2018](tcerj-consulta-108.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2018](tcerj-consulta-109.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 48/2019](tcerj-consulta-11.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2018](tcerj-consulta-110.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2018](tcerj-consulta-111.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2018](tcerj-consulta-112.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2018](tcerj-consulta-113.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2018](tcerj-consulta-114.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 2/2018](tcerj-consulta-115.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 1/2018](tcerj-consulta-116.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 59/2019](tcerj-consulta-118.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 47/2019](tcerj-consulta-12.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 60/2019](tcerj-consulta-121.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 61/2019](tcerj-consulta-122.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 62/2019](tcerj-consulta-123.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 63/2019](tcerj-consulta-124.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 64/2019](tcerj-consulta-125.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 65/2019](tcerj-consulta-126.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 66/2019](tcerj-consulta-127.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 67/2019](tcerj-consulta-128.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 68/2019](tcerj-consulta-129.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 46/2019](tcerj-consulta-13.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 69/2019](tcerj-consulta-130.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 70/2019](tcerj-consulta-131.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 71/2019](tcerj-consulta-132.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 72/2019](tcerj-consulta-134.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 73/2019](tcerj-consulta-135.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 74/2019](tcerj-consulta-136.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 45/2019](tcerj-consulta-14.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 1/2020](tcerj-consulta-147.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 2/2020](tcerj-consulta-148.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2020](tcerj-consulta-149.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 44/2019](tcerj-consulta-15.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2020](tcerj-consulta-150.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2020](tcerj-consulta-151.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2020](tcerj-consulta-152.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2020](tcerj-consulta-153.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2020](tcerj-consulta-154.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2020](tcerj-consulta-155.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2020](tcerj-consulta-156.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2020](tcerj-consulta-157.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2020](tcerj-consulta-158.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2020](tcerj-consulta-159.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 43/2019](tcerj-consulta-16.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 14/2020](tcerj-consulta-162.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2020](tcerj-consulta-163.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2020](tcerj-consulta-164.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2020](tcerj-consulta-167.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2020](tcerj-consulta-168.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2020](tcerj-consulta-169.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 42/2019](tcerj-consulta-17.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2020](tcerj-consulta-170.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2020](tcerj-consulta-171.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 22/2020](tcerj-consulta-172.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2020](tcerj-consulta-173.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2020](tcerj-consulta-174.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2020](tcerj-consulta-175.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 26/2020](tcerj-consulta-176.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2020](tcerj-consulta-177.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2020](tcerj-consulta-178.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 29/2020](tcerj-consulta-179.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2019](tcerj-consulta-18.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2020](tcerj-consulta-180.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2020](tcerj-consulta-182.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 32/2020](tcerj-consulta-183.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 33/2020](tcerj-consulta-184.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 34/2020](tcerj-consulta-185.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 35/2020](tcerj-consulta-186.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2020](tcerj-consulta-187.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2020](tcerj-consulta-188.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2020](tcerj-consulta-189.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 40/2019](tcerj-consulta-19.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 39/2020](tcerj-consulta-190.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 40/2020](tcerj-consulta-191.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2020](tcerj-consulta-194.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 42/2020](tcerj-consulta-195.md) — Conhecida; Marcada como revogada no cadastro
+- [CONS 43/2020](tcerj-consulta-196.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 44/2020](tcerj-consulta-197.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 45/2020](tcerj-consulta-198.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 46/2020](tcerj-consulta-199.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 57/2019](tcerj-consulta-2.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 39/2019](tcerj-consulta-20.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 47/2020](tcerj-consulta-200.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 48/2020](tcerj-consulta-201.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 49/2020](tcerj-consulta-202.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 50/2020](tcerj-consulta-203.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 51/2020](tcerj-consulta-204.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 52/2020](tcerj-consulta-205.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 53/2020](tcerj-consulta-206.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 54/2020](tcerj-consulta-207.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 55/2020](tcerj-consulta-208.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 56/2020](tcerj-consulta-209.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2019](tcerj-consulta-21.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 57/2020](tcerj-consulta-210.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 58/2020](tcerj-consulta-211.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 59/2020](tcerj-consulta-212.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 60/2020](tcerj-consulta-213.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 61/2020](tcerj-consulta-214.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 62/2020](tcerj-consulta-215.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 63/2020](tcerj-consulta-216.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 64/2020](tcerj-consulta-217.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 65/2020](tcerj-consulta-218.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 66/2020](tcerj-consulta-219.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2019](tcerj-consulta-22.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 67/2020](tcerj-consulta-220.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 68/2020](tcerj-consulta-224.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 69/2020](tcerj-consulta-225.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 70/2020](tcerj-consulta-226.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 71/2020](tcerj-consulta-227.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 72/2020](tcerj-consulta-228.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2019](tcerj-consulta-23.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 73/2020](tcerj-consulta-230.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 74/2020](tcerj-consulta-231.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 75/2020](tcerj-consulta-232.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 76/2020](tcerj-consulta-233.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 1/2021](tcerj-consulta-235.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 2/2021](tcerj-consulta-236.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2021](tcerj-consulta-237.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 35/2019](tcerj-consulta-24.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2021](tcerj-consulta-242.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2021](tcerj-consulta-243.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2021](tcerj-consulta-244.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2021](tcerj-consulta-245.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2021](tcerj-consulta-246.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2021](tcerj-consulta-247.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2021](tcerj-consulta-248.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 34/2019](tcerj-consulta-25.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2021](tcerj-consulta-250.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2021](tcerj-consulta-251.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 14/2021](tcerj-consulta-253.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2021](tcerj-consulta-255.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 33/2019](tcerj-consulta-26.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2021](tcerj-consulta-269.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 32/2019](tcerj-consulta-27.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2021](tcerj-consulta-270.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2021](tcerj-consulta-271.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2021](tcerj-consulta-272.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2021](tcerj-consulta-274.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2021](tcerj-consulta-275.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2021](tcerj-consulta-276.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 22/2021](tcerj-consulta-277.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2021](tcerj-consulta-278.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2021](tcerj-consulta-279.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2019](tcerj-consulta-28.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2021](tcerj-consulta-280.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 26/2021](tcerj-consulta-281.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2021](tcerj-consulta-282.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2021](tcerj-consulta-283.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 29/2021](tcerj-consulta-284.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2021](tcerj-consulta-285.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2021](tcerj-consulta-286.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 32/2021](tcerj-consulta-287.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 33/2021](tcerj-consulta-288.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 34/2021](tcerj-consulta-289.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2019](tcerj-consulta-29.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 35/2021](tcerj-consulta-290.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2021](tcerj-consulta-291.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2021](tcerj-consulta-292.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2021](tcerj-consulta-293.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 39/2021](tcerj-consulta-294.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 40/2021](tcerj-consulta-295.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2021](tcerj-consulta-296.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 42/2021](tcerj-consulta-297.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 43/2021](tcerj-consulta-298.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 56/2019](tcerj-consulta-3.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 29/2019](tcerj-consulta-30.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 44/2021](tcerj-consulta-307.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2019](tcerj-consulta-31.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 45/2021](tcerj-consulta-313.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 46/2021](tcerj-consulta-314.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 47/2021](tcerj-consulta-315.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 48/2021](tcerj-consulta-316.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 49/2021](tcerj-consulta-318.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 50/2021](tcerj-consulta-319.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2019](tcerj-consulta-32.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 51/2021](tcerj-consulta-320.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 52/2021](tcerj-consulta-321.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 53/2021](tcerj-consulta-322.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 54/2021](tcerj-consulta-323.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 55/2021](tcerj-consulta-324.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 56/2021](tcerj-consulta-325.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 57/2021](tcerj-consulta-326.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 58/2021](tcerj-consulta-327.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 59/2021](tcerj-consulta-328.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 60/2021](tcerj-consulta-329.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 26/2019](tcerj-consulta-33.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 61/2021](tcerj-consulta-330.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 62/2021](tcerj-consulta-331.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 63/2021](tcerj-consulta-332.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 64/2021](tcerj-consulta-333.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 65/2021](tcerj-consulta-336.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 66/2021](tcerj-consulta-337.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 67/2021](tcerj-consulta-338.md) — Conhecida; Marcada como parcialmente revogada no cadastro
+- [CONS 1/2022](tcerj-consulta-339.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2019](tcerj-consulta-34.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 2/2022](tcerj-consulta-340.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2022](tcerj-consulta-341.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2022](tcerj-consulta-342.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2022](tcerj-consulta-343.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2022](tcerj-consulta-344.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2022](tcerj-consulta-345.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2022](tcerj-consulta-346.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2022](tcerj-consulta-347.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2022](tcerj-consulta-348.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2022](tcerj-consulta-349.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2019](tcerj-consulta-35.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2022](tcerj-consulta-350.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2022](tcerj-consulta-351.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 14/2022](tcerj-consulta-352.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2022](tcerj-consulta-353.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2022](tcerj-consulta-354.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2022](tcerj-consulta-355.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2022](tcerj-consulta-357.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2022](tcerj-consulta-358.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2022](tcerj-consulta-359.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2019](tcerj-consulta-36.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2022](tcerj-consulta-360.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 22/2022](tcerj-consulta-361.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2022](tcerj-consulta-362.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2022](tcerj-consulta-363.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2022](tcerj-consulta-365.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 26/2022](tcerj-consulta-366.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2022](tcerj-consulta-367.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 22/2019](tcerj-consulta-37.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2022](tcerj-consulta-370.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 29/2022](tcerj-consulta-371.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2022](tcerj-consulta-372.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2022](tcerj-consulta-373.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 32/2022](tcerj-consulta-374.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 33/2022](tcerj-consulta-375.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 34/2022](tcerj-consulta-376.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 35/2022](tcerj-consulta-377.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2019](tcerj-consulta-38.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2022](tcerj-consulta-386.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2022](tcerj-consulta-387.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2022](tcerj-consulta-388.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 39/2022](tcerj-consulta-389.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2019](tcerj-consulta-39.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 40/2022](tcerj-consulta-390.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2022](tcerj-consulta-391.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 42/2022](tcerj-consulta-392.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 43/2022](tcerj-consulta-393.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 44/2022](tcerj-consulta-394.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 45/2022](tcerj-consulta-395.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 46/2022](tcerj-consulta-396.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 47/2022](tcerj-consulta-397.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 48/2022](tcerj-consulta-398.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 49/2022](tcerj-consulta-399.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 55/2019](tcerj-consulta-4.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2019](tcerj-consulta-40.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 50/2022](tcerj-consulta-400.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 51/2022](tcerj-consulta-401.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 52/2022](tcerj-consulta-402.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 53/2022](tcerj-consulta-403.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 54/2022](tcerj-consulta-404.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 55/2022](tcerj-consulta-405.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 56/2022](tcerj-consulta-406.md) — Conhecida; Marcada como revogada no cadastro
+- [CONS 57/2022](tcerj-consulta-407.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 58/2022](tcerj-consulta-408.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 59/2022](tcerj-consulta-409.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2019](tcerj-consulta-41.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 60/2022](tcerj-consulta-410.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 61/2022](tcerj-consulta-411.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 62/2022](tcerj-consulta-412.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 63/2022](tcerj-consulta-413.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 64/2022](tcerj-consulta-414.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 65/2022](tcerj-consulta-415.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 66/2022](tcerj-consulta-416.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 67/2022](tcerj-consulta-417.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 68/2022](tcerj-consulta-418.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 69/2022](tcerj-consulta-419.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2019](tcerj-consulta-42.md) — Conhecida; Marcada como revogada no cadastro
+- [CONS 70/2022](tcerj-consulta-420.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 71/2022](tcerj-consulta-421.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 72/2022](tcerj-consulta-422.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 73/2022](tcerj-consulta-423.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 74/2022](tcerj-consulta-424.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 75/2022](tcerj-consulta-425.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 76/2022](tcerj-consulta-426.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 77/2022](tcerj-consulta-427.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 78/2022](tcerj-consulta-429.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2019](tcerj-consulta-43.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 79/2022](tcerj-consulta-430.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 80/2022](tcerj-consulta-431.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 81/2022](tcerj-consulta-432.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 82/2022](tcerj-consulta-433.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 83/2022](tcerj-consulta-434.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 84/2022](tcerj-consulta-435.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 85/2022](tcerj-consulta-436.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 1/2023](tcerj-consulta-437.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 2/2023](tcerj-consulta-439.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2019](tcerj-consulta-44.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2023](tcerj-consulta-440.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2023](tcerj-consulta-441.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2023](tcerj-consulta-442.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2023](tcerj-consulta-443.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2023](tcerj-consulta-444.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2023](tcerj-consulta-445.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2023](tcerj-consulta-446.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 14/2019](tcerj-consulta-45.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2023](tcerj-consulta-453.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2023](tcerj-consulta-454.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2023](tcerj-consulta-455.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2023](tcerj-consulta-457.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 14/2023](tcerj-consulta-458.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2023](tcerj-consulta-459.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2019](tcerj-consulta-46.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2023](tcerj-consulta-460.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2023](tcerj-consulta-461.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2019](tcerj-consulta-47.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2023](tcerj-consulta-471.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2023](tcerj-consulta-472.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2023](tcerj-consulta-473.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2023](tcerj-consulta-474.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 22/2023](tcerj-consulta-475.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2023](tcerj-consulta-476.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2019](tcerj-consulta-48.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2023](tcerj-consulta-481.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2023](tcerj-consulta-482.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 26/2023](tcerj-consulta-483.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2023](tcerj-consulta-484.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2023](tcerj-consulta-485.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 29/2023](tcerj-consulta-486.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2023](tcerj-consulta-487.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2023](tcerj-consulta-488.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 32/2023](tcerj-consulta-489.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2019](tcerj-consulta-49.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 33/2023](tcerj-consulta-495.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 34/2023](tcerj-consulta-496.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 35/2023](tcerj-consulta-497.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2023](tcerj-consulta-498.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 54/2019](tcerj-consulta-5.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2019](tcerj-consulta-50.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2019](tcerj-consulta-51.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2023](tcerj-consulta-512.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2023](tcerj-consulta-513.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 39/2023](tcerj-consulta-514.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 40/2023](tcerj-consulta-515.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2023](tcerj-consulta-517.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 42/2023](tcerj-consulta-518.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 43/2023](tcerj-consulta-519.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2019](tcerj-consulta-52.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 44/2023](tcerj-consulta-520.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 45/2023](tcerj-consulta-521.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 46/2023](tcerj-consulta-522.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 48/2023](tcerj-consulta-523.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 47/2023](tcerj-consulta-524.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 49/2023](tcerj-consulta-525.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 50/2023](tcerj-consulta-526.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 1/2024](tcerj-consulta-527.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 2/2024](tcerj-consulta-528.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2024](tcerj-consulta-529.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2019](tcerj-consulta-53.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2024](tcerj-consulta-530.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2024](tcerj-consulta-531.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2024](tcerj-consulta-532.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2024](tcerj-consulta-533.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2024](tcerj-consulta-534.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2024](tcerj-consulta-535.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2024](tcerj-consulta-536.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2024](tcerj-consulta-537.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2024](tcerj-consulta-538.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2024](tcerj-consulta-539.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2019](tcerj-consulta-54.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 14/2024](tcerj-consulta-540.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2024](tcerj-consulta-543.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2024](tcerj-consulta-544.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2024](tcerj-consulta-545.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2024](tcerj-consulta-546.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2024](tcerj-consulta-549.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2019](tcerj-consulta-55.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2024](tcerj-consulta-550.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2024](tcerj-consulta-551.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 22/2024](tcerj-consulta-552.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2019](tcerj-consulta-56.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2024](tcerj-consulta-565.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2024](tcerj-consulta-566.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2024](tcerj-consulta-567.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 26/2024](tcerj-consulta-568.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2024](tcerj-consulta-569.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 2/2019](tcerj-consulta-57.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2024](tcerj-consulta-570.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 29/2024](tcerj-consulta-571.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2024](tcerj-consulta-572.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2024](tcerj-consulta-573.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 32/2024](tcerj-consulta-575.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 33/2024](tcerj-consulta-576.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 34/2024](tcerj-consulta-577.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 35/2024](tcerj-consulta-578.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2024](tcerj-consulta-579.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 1/2019](tcerj-consulta-58.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2024](tcerj-consulta-580.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2024](tcerj-consulta-581.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 39/2024](tcerj-consulta-582.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 40/2024](tcerj-consulta-583.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2024](tcerj-consulta-584.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 42/2024](tcerj-consulta-585.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 43/2024](tcerj-consulta-586.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 44/2024](tcerj-consulta-587.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 45/2024](tcerj-consulta-588.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 46/2024](tcerj-consulta-589.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 58/2018](tcerj-consulta-59.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 47/2024](tcerj-consulta-590.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 48/2024](tcerj-consulta-593.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 49/2024](tcerj-consulta-594.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 50/2024](tcerj-consulta-595.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 51/2024](tcerj-consulta-596.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 52/2024](tcerj-consulta-597.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 53/2024](tcerj-consulta-598.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 54/2024](tcerj-consulta-599.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 53/2019](tcerj-consulta-6.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 57/2018](tcerj-consulta-60.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 55/2024](tcerj-consulta-600.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 56/2024](tcerj-consulta-601.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 57/2024](tcerj-consulta-602.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 58/2024](tcerj-consulta-603.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 59/2024](tcerj-consulta-604.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 56/2018](tcerj-consulta-61.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 60/2024](tcerj-consulta-610.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 61/2024](tcerj-consulta-611.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 65/2024](tcerj-consulta-617.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 62/2024](tcerj-consulta-618.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 63/2024](tcerj-consulta-619.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 55/2018](tcerj-consulta-62.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 64/2024](tcerj-consulta-620.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 66/2024](tcerj-consulta-621.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 1/2025](tcerj-consulta-625.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 2/2025](tcerj-consulta-626.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2025](tcerj-consulta-627.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2025](tcerj-consulta-628.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2025](tcerj-consulta-629.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 54/2018](tcerj-consulta-63.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2025](tcerj-consulta-630.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2025](tcerj-consulta-631.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2025](tcerj-consulta-632.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2025](tcerj-consulta-633.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2025](tcerj-consulta-634.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2025](tcerj-consulta-635.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2025](tcerj-consulta-636.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2025](tcerj-consulta-637.md) — Conhecida; Marcada como parcialmente revogada no cadastro
+- [CONS 14/2025](tcerj-consulta-638.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2025](tcerj-consulta-639.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 53/2018](tcerj-consulta-64.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2025](tcerj-consulta-640.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2025](tcerj-consulta-641.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2025](tcerj-consulta-642.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2025](tcerj-consulta-643.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2025](tcerj-consulta-644.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2025](tcerj-consulta-645.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 22/2025](tcerj-consulta-646.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2025](tcerj-consulta-647.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2025](tcerj-consulta-648.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2025](tcerj-consulta-649.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 52/2018](tcerj-consulta-65.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 26/2025](tcerj-consulta-650.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2025](tcerj-consulta-651.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2025](tcerj-consulta-652.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 29/2025](tcerj-consulta-653.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2025](tcerj-consulta-654.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2025](tcerj-consulta-655.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 32/2025](tcerj-consulta-656.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 33/2025](tcerj-consulta-657.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 34/2025](tcerj-consulta-658.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 35/2025](tcerj-consulta-659.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 51/2018](tcerj-consulta-66.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2025](tcerj-consulta-660.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2025](tcerj-consulta-661.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2025](tcerj-consulta-662.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 39/2025](tcerj-consulta-663.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 40/2025](tcerj-consulta-664.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2025](tcerj-consulta-665.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 42/2025](tcerj-consulta-666.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 50/2018](tcerj-consulta-67.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 43/2025](tcerj-consulta-671.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 44/2025](tcerj-consulta-672.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 45/2025](tcerj-consulta-673.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 46/2025](tcerj-consulta-674.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 47/2025](tcerj-consulta-675.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 48/2025](tcerj-consulta-676.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 49/2025](tcerj-consulta-677.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 50/2025](tcerj-consulta-678.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 51/2025](tcerj-consulta-679.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 49/2018](tcerj-consulta-68.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 52/2025](tcerj-consulta-680.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 53/2025](tcerj-consulta-681.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 54/2025](tcerj-consulta-682.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 55/2025](tcerj-consulta-683.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 56/2025](tcerj-consulta-684.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 57/2025](tcerj-consulta-686.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 48/2018](tcerj-consulta-69.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 58/2025](tcerj-consulta-690.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 59/2025](tcerj-consulta-691.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 60/2025](tcerj-consulta-692.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 61/2025](tcerj-consulta-693.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 62/2025](tcerj-consulta-694.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 63/2025](tcerj-consulta-695.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 64/2025](tcerj-consulta-696.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 65/2025](tcerj-consulta-697.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 66/2025](tcerj-consulta-698.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 67/2025](tcerj-consulta-699.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 52/2019](tcerj-consulta-7.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 47/2018](tcerj-consulta-70.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 68/2025](tcerj-consulta-700.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 69/2025](tcerj-consulta-701.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 1/2026](tcerj-consulta-702.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 2/2026](tcerj-consulta-703.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 3/2026](tcerj-consulta-705.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 4/2026](tcerj-consulta-706.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 5/2026](tcerj-consulta-707.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 6/2026](tcerj-consulta-708.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 46/2018](tcerj-consulta-71.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 7/2026](tcerj-consulta-714.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 8/2026](tcerj-consulta-715.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 9/2026](tcerj-consulta-716.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 10/2026](tcerj-consulta-717.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 11/2026](tcerj-consulta-718.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 12/2026](tcerj-consulta-719.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 45/2018](tcerj-consulta-72.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 13/2026](tcerj-consulta-720.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 14/2026](tcerj-consulta-721.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 15/2026](tcerj-consulta-722.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 16/2026](tcerj-consulta-723.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 17/2026](tcerj-consulta-724.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2026](tcerj-consulta-725.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2026](tcerj-consulta-726.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2026](tcerj-consulta-727.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2026](tcerj-consulta-728.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 22/2026](tcerj-consulta-729.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 44/2018](tcerj-consulta-73.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2026](tcerj-consulta-730.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2026](tcerj-consulta-731.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2026](tcerj-consulta-732.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 26/2026](tcerj-consulta-733.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2026](tcerj-consulta-734.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2026](tcerj-consulta-735.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 43/2018](tcerj-consulta-74.md) — Conhecida; Marcada como revogada no cadastro
+- [CONS 29/2026](tcerj-consulta-740.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2026](tcerj-consulta-741.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2026](tcerj-consulta-742.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 32/2026](tcerj-consulta-743.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 33/2026](tcerj-consulta-744.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 34/2026](tcerj-consulta-745.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 35/2026](tcerj-consulta-746.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2026](tcerj-consulta-747.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 42/2018](tcerj-consulta-75.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2026](tcerj-consulta-756.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2026](tcerj-consulta-757.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 39/2026](tcerj-consulta-758.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 40/2026](tcerj-consulta-759.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2018](tcerj-consulta-76.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 41/2026](tcerj-consulta-760.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 40/2018](tcerj-consulta-77.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 39/2018](tcerj-consulta-78.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 38/2018](tcerj-consulta-79.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 51/2019](tcerj-consulta-8.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 37/2018](tcerj-consulta-80.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 36/2018](tcerj-consulta-81.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 35/2018](tcerj-consulta-82.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 34/2018](tcerj-consulta-83.md) — Conhecida; Marcada como revogada no cadastro
+- [CONS 33/2018](tcerj-consulta-84.md) — Conhecimento Parcial; Sem marca de revogação no cadastro
+- [CONS 32/2018](tcerj-consulta-85.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 31/2018](tcerj-consulta-86.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 30/2018](tcerj-consulta-87.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 29/2018](tcerj-consulta-88.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 28/2018](tcerj-consulta-89.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 50/2019](tcerj-consulta-9.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 27/2018](tcerj-consulta-90.md) — Não Conhecida; Sem marca de revogação no cadastro
+- [CONS 26/2018](tcerj-consulta-91.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 25/2018](tcerj-consulta-92.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 24/2018](tcerj-consulta-93.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 23/2018](tcerj-consulta-94.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 22/2018](tcerj-consulta-95.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 21/2018](tcerj-consulta-96.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 20/2018](tcerj-consulta-97.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 19/2018](tcerj-consulta-98.md) — Conhecida; Sem marca de revogação no cadastro
+- [CONS 18/2018](tcerj-consulta-99.md) — Conhecida; Sem marca de revogação no cadastro

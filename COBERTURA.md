@@ -1,6 +1,6 @@
 # Cobertura
 
-**26.058 registros únicos de 89 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**26.644 registros únicos de 89 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCE-RJ — Consultas, ementas e documentos vinculados](https://www.tcerj.tc.br/cadastro-publicacoes/public/consultas) | 586 | 586 | 0 |
 | [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf) | 1.292 | 1.292 | 0 |
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
@@ -305,6 +306,18 @@ Os catálogos de Enunciados de Prejulgados e de Teses de Uniformização de Juri
 Foram preservados os enunciados completos, as referências de publicação, processos, acórdãos, relatores e indexadores. Os prejulgados também conservam área, tema e subtema de classificação. Todos os 80 registros aparecem como “Vigente” na fonte consultada, situação reproduzida com atribuição ao catálogo. As publicações, revisões e ratificações escritas no corpo permanecem separadas dos metadados técnicos de criação e alteração, que não foram publicados nem convertidos em atualização individual. A nota geral dos prejulgados distingue o prejulgamento de teses do julgamento de casos concretos.
 
 A formatação de fonte, cor e itálico da edição HTML foi simplificada para evitar marcas espúrias no Markdown. As redações riscadas das nº 6, 16, 41 e 54 continuam visualmente riscadas e foram conferidas separadamente do texto atual. Os marcadores literais com parênteses das nº 75 e 76 foram protegidos para impedir sua conversão em outra numeração de lista. Todos os textos, notas gerais e metadados foram conferidos no Markdown renderizado. As notas de revisão e ratificação, inclusive as referências de 2026, foram mantidas integralmente. Os originais e recibos ficam privados. Os inteiros teores dos acórdãos e processos apenas citados ainda não foram incorporados, e a cobertura das demais séries continua parcial.
+
+O catálogo de consultas do TCERJ acrescenta 586 registros, identificados pelo ID estável da fonte e pela numeração exibida na ficha (numeroExibicao/ano). O número global e o rótulo devolvidos pelo serviço foram preservados separadamente. As ementas integrais mantêm os tipos oficiais: 325 Conhecidas, 246 Não Conhecidas e 15 de Conhecimento Parcial. Essas classificações não foram convertidas em teses firmadas. Foram preservadas as cinco marcas de revogação total, duas de revogação parcial e suas justificativas; a ausência da marca não comprova vigência atual. Datas ausentes não foram inferidas, e os valores existentes permanecem atribuídos ao cadastro.
+
+As 15 páginas do catálogo e o seletor de tipos foram lidos duas vezes. Dos 586 registros, 585 têm arquivo vinculado: todos os pares de PDFs coincidiram em bytes e texto extraído, somando 5.058 páginas por leitura. Há 551 arquivos originais com texto publicável, somando 4.788 páginas. Três possuem divergências entre o cabeçalho e o campo principal PROCESSO, preservadas individualmente. O voto vinculado à consulta 51/2025 identifica o processo principal 105.509-0/25, mas trata expressamente da consulta apensa 102.625-9/2025 no relatório e no dispositivo; sua natureza conjunta foi explicitada.
+
+Trinta e cinco consultas exigiram recuperação alternativa: documentos digitalizados, fontes sem extração fiel, três associações a processos divergentes e uma ficha sem arquivo. Duas pesquisas por processo no serviço oficial de acórdãos, conciliadas com a data de sessão, recuperaram cinco documentos legíveis: três digitalizados e duas associações divergentes. Seus PDFs acrescentam 45 páginas, preservadas por página. Na consulta 31/2024, o acórdão recuperado identifica 209553-0/2024 e o voto anexo identifica o processo principal 200.579-1/24, com explicação expressa da apensação para tramitação conjunta; essa relação também foi explicitada na ficha. Os pares diferem apenas nos metadados técnicos de geração quando indicado na ficha, com todos os demais bytes e o texto iguais. As limitações dos arquivos originais permanecem descritas separadamente. São 1.282 capturas ao todo; originais e recibos ficam privados.
+
+Na consulta 35/2019, o arquivo reúne o voto original nas páginas 1 a 4 e o voto do processo 244.364-6/22 nas páginas 5 a 36, propondo a revisão da redação anterior. A ementa informa revisão pelo Prejulgado 36/2026 em 02/09/2026, com a grafia 244;364-6/2022, mantida sem correção silenciosa. A composição do documento foi explicitada, sem contar suas partes como novos registros.
+
+Há texto documental em 556 consultas. As outras 30 mantêm ementas e metadados, com aviso de inteiro teor pendente: 28 documentos sem transcrição fiel, uma associação divergente ainda não conciliada e uma ficha sem arquivo. O retorno sem acórdão disponível para o mesmo processo e sessão não foi interpretado como inexistência do ato. Os números dos processos nos documentos digitalizados ou com fontes problemáticas foram conferidos visualmente na primeira página; nenhum OCR experimental nem texto embaralhado foi publicado. Os demais atos e processos apenas citados e outras séries do tribunal continuam pendentes.
+
+A validação deste lote é específica destas 586 consultas; ela não representa nova coleta nem releitura dos demais órgãos.
 
 O TCEPE acrescenta as 20 súmulas do rol oficial, em sequência de 1 a 20, com os textos históricos das nº 1, 2, 5 e 15 marcados como cancelados. O enunciado, os fundamentos jurídicos incorporados à descrição e as referências de publicação ou cancelamento foram preservados integralmente. A identidade dos arquivos segue o número da súmula, mantendo separadamente o identificador interno da API: por exemplo, a nº 19 tem identificador 1 e a nº 1 tem identificador 19.
 
