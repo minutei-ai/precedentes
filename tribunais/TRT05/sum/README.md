@@ -1,0 +1,89 @@
+# TRT05 · Súmula
+
+**85 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt05-sum-1.md) — Cancelada
+- [SUM 2](trt05-sum-2.md) — Cancelada
+- [SUM 3](trt05-sum-3.md) — Cancelada
+- [SUM 4](trt05-sum-4.md) — Cancelada
+- [SUM 5](trt05-sum-5.md) — Situação não informada
+- [SUM 6](trt05-sum-6.md) — Cancelada
+- [SUM 7](trt05-sum-7.md) — Cancelada
+- [SUM 8](trt05-sum-8.md) — Cancelada
+- [SUM 9](trt05-sum-9.md) — Alterada
+- [SUM 10](trt05-sum-10.md) — Situação não informada
+- [SUM 11](trt05-sum-11.md) — Situação não informada
+- [SUM 12](trt05-sum-12.md) — Situação não informada
+- [SUM 13](trt05-sum-13.md) — Orientação Jurisprudencial sem Efeito Vinculante
+- [SUM 14](trt05-sum-14.md) — Orientação Jurisprudencial sem Efeito Vinculante
+- [SUM 15](trt05-sum-15.md) — Cancelada
+- [SUM 16](trt05-sum-16.md) — Situação não informada
+- [SUM 17](trt05-sum-17.md) — Cancelada
+- [SUM 18](trt05-sum-18.md) — Situação não informada
+- [SUM 19](trt05-sum-19.md) — Cancelada
+- [SUM 20](trt05-sum-20.md) — Alterada
+- [SUM 21](trt05-sum-21.md) — Situação não informada
+- [SUM 22](trt05-sum-22.md) — Alterada
+- [SUM 23](trt05-sum-23.md) — Cancelada
+- [SUM 24](trt05-sum-24.md) — Situação não informada
+- [SUM 25](trt05-sum-25.md) — Situação não informada
+- [SUM 26](trt05-sum-26.md) — Cancelada
+- [SUM 27](trt05-sum-27.md) — Alterada
+- [SUM 28](trt05-sum-28.md) — Alterada
+- [SUM 29](trt05-sum-29.md) — Alterada
+- [SUM 30](trt05-sum-30.md) — Situação não informada
+- [SUM 31](trt05-sum-31.md) — Situação não informada
+- [SUM 32](trt05-sum-32.md) — Cancelada
+- [SUM 33](trt05-sum-33.md) — Situação não informada
+- [SUM 34](trt05-sum-34.md) — Cancelada
+- [SUM 35](trt05-sum-35.md) — Situação não informada
+- [SUM 36](trt05-sum-36.md) — Situação não informada
+- [SUM 37](trt05-sum-37.md) — Alterada
+- [SUM 38](trt05-sum-38.md) — Situação não informada
+- [SUM 39](trt05-sum-39.md) — Situação não informada
+- [SUM 40](trt05-sum-40.md) — Cancelada
+- [SUM 41](trt05-sum-41.md) — Cancelada
+- [SUM 42](trt05-sum-42.md) — Situação não informada
+- [SUM 43](trt05-sum-43.md) — Situação não informada
+- [SUM 44](trt05-sum-44.md) — Cancelada
+- [SUM 45](trt05-sum-45.md) — Cancelada
+- [SUM 46](trt05-sum-46.md) — Situação não informada
+- [SUM 47](trt05-sum-47.md) — Cancelada
+- [SUM 48](trt05-sum-48.md) — Cancelada
+- [SUM 49](trt05-sum-49.md) — Situação não informada
+- [SUM 50](trt05-sum-50.md) — Situação não informada
+- [SUM 51](trt05-sum-51.md) — Situação não informada
+- [SUM 52](trt05-sum-52.md) — Situação não informada
+- [SUM 53](trt05-sum-53.md) — Cancelada
+- [SUM 54](trt05-sum-54.md) — Alterada
+- [SUM 55](trt05-sum-55.md) — Situação não informada
+- [SUM 56](trt05-sum-56.md) — Cancelada
+- [SUM 57](trt05-sum-57.md) — Situação não informada
+- [SUM 58](trt05-sum-58.md) — Situação não informada
+- [SUM 59](trt05-sum-59.md) — Situação não informada
+- [SUM 60](trt05-sum-60.md) — Cancelada
+- [SUM 61](trt05-sum-61.md) — Situação não informada
+- [SUM 62](trt05-sum-62.md) — Situação não informada
+- [SUM 63](trt05-sum-63.md) — Situação não informada
+- [SUM 64](trt05-sum-64.md) — Situação não informada
+- [SUM 65](trt05-sum-65.md) — Situação não informada
+- [SUM 66](trt05-sum-66.md) — Cancelada
+- [SUM 67](trt05-sum-67.md) — Situação não informada
+- [SUM 68](trt05-sum-68.md) — Situação não informada
+- [SUM 69](trt05-sum-69.md) — Situação não informada
+- [SUM 70](trt05-sum-70.md) — Situação não informada
+- [SUM 71](trt05-sum-71.md) — Situação não informada
+- [SUM 72](trt05-sum-72.md) — Cancelada
+- [SUM 73](trt05-sum-73.md) — Cancelada
+- [SUM 74](trt05-sum-74.md) — Situação não informada
+- [SUM 75](trt05-sum-75.md) — Situação não informada
+- [SUM 76](trt05-sum-76.md) — Situação não informada
+- [SUM 77](trt05-sum-77.md) — Situação não informada
+- [SUM 78](trt05-sum-78.md) — Situação não informada
+- [SUM 79](trt05-sum-79.md) — Situação não informada
+- [SUM 80](trt05-sum-80.md) — Cancelada
+- [SUM 81](trt05-sum-81.md) — Situação não informada
+- [SUM 82](trt05-sum-82.md) — Situação não informada
+- [SUM 83](trt05-sum-83.md) — Situação não informada
+- [SUM 84](trt05-sum-84.md) — Situação não informada
+- [SUM 85](trt05-sum-85.md) — Cancelada
