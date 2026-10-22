@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.968 registros únicos de 81 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**22.537 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -121,6 +121,7 @@
 | [TRF da 4ª Região — Súmulas e referências do catálogo oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=sumulas_trf4) | 136 | 136 | 0 |
 | [TCESP — Repertório de súmulas, histórico e fundamento](https://www.tce.sp.gov.br/boletim-de-jurisprudencia/sumulas) | 52 | 52 | 0 |
 | [TCEMG — Enunciados de súmula e PDFs individuais oficiais](https://www.tce.mg.gov.br/Noticia/Detalhe/67) | 127 | 127 | 0 |
+| [TCESC — Enunciados de Consulta no sistema oficial de pesquisa](https://www.tcesc.tc.br/enunciados-de-consulta) | 2.569 | 2.569 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -141,6 +142,14 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TCESC acrescenta 2.569 Enunciados de Consulta, série anteriormente denominada prejulgados, a partir do sistema de pesquisa indicado pelo portal atual da Corte. Foram percorridas as 26 páginas de cem registros, com 69 registros na última página, em duas leituras completas. As contagens, posições, identificadores, textos, metadados, assuntos e relações coincidiram nas duas leituras. Os identificadores seguem o número oficial do enunciado, sem criar registros para lacunas de numeração.
+
+A consulta abrange todos os estados disponibilizados pelo sistema. Os rótulos oficiais foram preservados: 1.716 “Em vigor”, 426 “Reformado”, 426 “Revogado” e um “Suspenso”, o nº 2472. Esses rótulos são situações informadas pela fonte, não uma verificação autônoma de vigência. A redação integral de cada enunciado, incluindo as notas de alteração disponíveis, foi mantida em Markdown. Números de processos, pareceres, decisões, origens, relatorias e datas permanecem como fornecidos, sem completar identificadores ou inferir anos. Datas e horários não receberam fuso presumido nem foram usados como data de atualização do texto.
+
+Foram preservadas 6.916 classificações de assunto e 5.452 relações entre enunciados. Cada referência relacionada foi comparada ao registro próprio, com igualdade de texto e metadados; os vínculos aparecem como links para os respectivos Markdown. A consulta apresenta números de 1 a 2575, sem os nº 4, 50, 54, 172, 1349 e 2239. Essas ausências se limitam à resposta consultada e não foram tratadas como prova de inexistência ou cancelamento de enunciados.
+
+O antigo dicionário de decisões em PDF, cuja página informa atualização em 02/07/2024, foi preservado privadamente como referência histórica e não usado para afirmar cobertura atual. A fonte publicada é o sistema indicado pela página atual “Enunciados de Consulta”. A coleta ocorreu diretamente por HTTP com TLS validado, usando apenas endereços públicos oficiais. As decisões, os pareceres e as normas citados nos enunciados e as demais séries da Corte ainda não tiveram seus inteiros teores conciliados.
 
 O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
 
@@ -468,10 +477,11 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
+| [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP e TCEMG são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG e TCESC são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 

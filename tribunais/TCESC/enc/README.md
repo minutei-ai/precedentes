@@ -1,0 +1,2573 @@
+# TCESC · Enunciado de Consulta
+
+**2.569 registros.** [Voltar ao tribunal](../)
+
+- [ENC 1](tcesc-enc-1.md) — Em vigor
+- [ENC 2](tcesc-enc-2.md) — Revogado
+- [ENC 3](tcesc-enc-3.md) — Em vigor
+- [ENC 5](tcesc-enc-5.md) — Revogado
+- [ENC 6](tcesc-enc-6.md) — Revogado
+- [ENC 7](tcesc-enc-7.md) — Revogado
+- [ENC 8](tcesc-enc-8.md) — Reformado
+- [ENC 9](tcesc-enc-9.md) — Revogado
+- [ENC 10](tcesc-enc-10.md) — Em vigor
+- [ENC 11](tcesc-enc-11.md) — Revogado
+- [ENC 12](tcesc-enc-12.md) — Revogado
+- [ENC 13](tcesc-enc-13.md) — Revogado
+- [ENC 14](tcesc-enc-14.md) — Em vigor
+- [ENC 15](tcesc-enc-15.md) — Em vigor
+- [ENC 16](tcesc-enc-16.md) — Revogado
+- [ENC 17](tcesc-enc-17.md) — Revogado
+- [ENC 18](tcesc-enc-18.md) — Reformado
+- [ENC 19](tcesc-enc-19.md) — Em vigor
+- [ENC 20](tcesc-enc-20.md) — Revogado
+- [ENC 21](tcesc-enc-21.md) — Em vigor
+- [ENC 22](tcesc-enc-22.md) — Revogado
+- [ENC 23](tcesc-enc-23.md) — Revogado
+- [ENC 24](tcesc-enc-24.md) — Em vigor
+- [ENC 25](tcesc-enc-25.md) — Revogado
+- [ENC 26](tcesc-enc-26.md) — Em vigor
+- [ENC 27](tcesc-enc-27.md) — Revogado
+- [ENC 28](tcesc-enc-28.md) — Em vigor
+- [ENC 29](tcesc-enc-29.md) — Em vigor
+- [ENC 30](tcesc-enc-30.md) — Revogado
+- [ENC 31](tcesc-enc-31.md) — Revogado
+- [ENC 32](tcesc-enc-32.md) — Em vigor
+- [ENC 33](tcesc-enc-33.md) — Em vigor
+- [ENC 34](tcesc-enc-34.md) — Em vigor
+- [ENC 35](tcesc-enc-35.md) — Em vigor
+- [ENC 36](tcesc-enc-36.md) — Reformado
+- [ENC 37](tcesc-enc-37.md) — Em vigor
+- [ENC 38](tcesc-enc-38.md) — Revogado
+- [ENC 39](tcesc-enc-39.md) — Em vigor
+- [ENC 40](tcesc-enc-40.md) — Em vigor
+- [ENC 41](tcesc-enc-41.md) — Em vigor
+- [ENC 42](tcesc-enc-42.md) — Em vigor
+- [ENC 43](tcesc-enc-43.md) — Em vigor
+- [ENC 44](tcesc-enc-44.md) — Em vigor
+- [ENC 45](tcesc-enc-45.md) — Em vigor
+- [ENC 46](tcesc-enc-46.md) — Revogado
+- [ENC 47](tcesc-enc-47.md) — Em vigor
+- [ENC 48](tcesc-enc-48.md) — Em vigor
+- [ENC 49](tcesc-enc-49.md) — Revogado
+- [ENC 51](tcesc-enc-51.md) — Revogado
+- [ENC 52](tcesc-enc-52.md) — Em vigor
+- [ENC 53](tcesc-enc-53.md) — Revogado
+- [ENC 55](tcesc-enc-55.md) — Em vigor
+- [ENC 56](tcesc-enc-56.md) — Em vigor
+- [ENC 57](tcesc-enc-57.md) — Em vigor
+- [ENC 58](tcesc-enc-58.md) — Em vigor
+- [ENC 59](tcesc-enc-59.md) — Revogado
+- [ENC 60](tcesc-enc-60.md) — Em vigor
+- [ENC 61](tcesc-enc-61.md) — Em vigor
+- [ENC 62](tcesc-enc-62.md) — Revogado
+- [ENC 63](tcesc-enc-63.md) — Reformado
+- [ENC 64](tcesc-enc-64.md) — Revogado
+- [ENC 65](tcesc-enc-65.md) — Reformado
+- [ENC 66](tcesc-enc-66.md) — Em vigor
+- [ENC 67](tcesc-enc-67.md) — Em vigor
+- [ENC 68](tcesc-enc-68.md) — Em vigor
+- [ENC 69](tcesc-enc-69.md) — Reformado
+- [ENC 70](tcesc-enc-70.md) — Em vigor
+- [ENC 71](tcesc-enc-71.md) — Em vigor
+- [ENC 72](tcesc-enc-72.md) — Em vigor
+- [ENC 73](tcesc-enc-73.md) — Revogado
+- [ENC 74](tcesc-enc-74.md) — Em vigor
+- [ENC 75](tcesc-enc-75.md) — Em vigor
+- [ENC 76](tcesc-enc-76.md) — Revogado
+- [ENC 77](tcesc-enc-77.md) — Reformado
+- [ENC 78](tcesc-enc-78.md) — Revogado
+- [ENC 79](tcesc-enc-79.md) — Revogado
+- [ENC 80](tcesc-enc-80.md) — Em vigor
+- [ENC 81](tcesc-enc-81.md) — Revogado
+- [ENC 82](tcesc-enc-82.md) — Em vigor
+- [ENC 83](tcesc-enc-83.md) — Em vigor
+- [ENC 84](tcesc-enc-84.md) — Em vigor
+- [ENC 85](tcesc-enc-85.md) — Em vigor
+- [ENC 86](tcesc-enc-86.md) — Em vigor
+- [ENC 87](tcesc-enc-87.md) — Reformado
+- [ENC 88](tcesc-enc-88.md) — Em vigor
+- [ENC 89](tcesc-enc-89.md) — Reformado
+- [ENC 90](tcesc-enc-90.md) — Em vigor
+- [ENC 91](tcesc-enc-91.md) — Em vigor
+- [ENC 92](tcesc-enc-92.md) — Revogado
+- [ENC 93](tcesc-enc-93.md) — Em vigor
+- [ENC 94](tcesc-enc-94.md) — Em vigor
+- [ENC 95](tcesc-enc-95.md) — Em vigor
+- [ENC 96](tcesc-enc-96.md) — Em vigor
+- [ENC 97](tcesc-enc-97.md) — Revogado
+- [ENC 98](tcesc-enc-98.md) — Em vigor
+- [ENC 99](tcesc-enc-99.md) — Em vigor
+- [ENC 100](tcesc-enc-100.md) — Em vigor
+- [ENC 101](tcesc-enc-101.md) — Em vigor
+- [ENC 102](tcesc-enc-102.md) — Revogado
+- [ENC 103](tcesc-enc-103.md) — Em vigor
+- [ENC 104](tcesc-enc-104.md) — Revogado
+- [ENC 105](tcesc-enc-105.md) — Em vigor
+- [ENC 106](tcesc-enc-106.md) — Reformado
+- [ENC 107](tcesc-enc-107.md) — Em vigor
+- [ENC 108](tcesc-enc-108.md) — Revogado
+- [ENC 109](tcesc-enc-109.md) — Reformado
+- [ENC 110](tcesc-enc-110.md) — Em vigor
+- [ENC 111](tcesc-enc-111.md) — Revogado
+- [ENC 112](tcesc-enc-112.md) — Reformado
+- [ENC 113](tcesc-enc-113.md) — Em vigor
+- [ENC 114](tcesc-enc-114.md) — Em vigor
+- [ENC 115](tcesc-enc-115.md) — Em vigor
+- [ENC 116](tcesc-enc-116.md) — Em vigor
+- [ENC 117](tcesc-enc-117.md) — Em vigor
+- [ENC 118](tcesc-enc-118.md) — Revogado
+- [ENC 119](tcesc-enc-119.md) — Reformado
+- [ENC 120](tcesc-enc-120.md) — Revogado
+- [ENC 121](tcesc-enc-121.md) — Reformado
+- [ENC 122](tcesc-enc-122.md) — Em vigor
+- [ENC 123](tcesc-enc-123.md) — Reformado
+- [ENC 124](tcesc-enc-124.md) — Em vigor
+- [ENC 125](tcesc-enc-125.md) — Em vigor
+- [ENC 126](tcesc-enc-126.md) — Em vigor
+- [ENC 127](tcesc-enc-127.md) — Revogado
+- [ENC 128](tcesc-enc-128.md) — Em vigor
+- [ENC 129](tcesc-enc-129.md) — Em vigor
+- [ENC 130](tcesc-enc-130.md) — Reformado
+- [ENC 131](tcesc-enc-131.md) — Revogado
+- [ENC 132](tcesc-enc-132.md) — Revogado
+- [ENC 133](tcesc-enc-133.md) — Em vigor
+- [ENC 134](tcesc-enc-134.md) — Em vigor
+- [ENC 135](tcesc-enc-135.md) — Em vigor
+- [ENC 136](tcesc-enc-136.md) — Reformado
+- [ENC 137](tcesc-enc-137.md) — Em vigor
+- [ENC 138](tcesc-enc-138.md) — Revogado
+- [ENC 139](tcesc-enc-139.md) — Revogado
+- [ENC 140](tcesc-enc-140.md) — Em vigor
+- [ENC 141](tcesc-enc-141.md) — Revogado
+- [ENC 142](tcesc-enc-142.md) — Em vigor
+- [ENC 143](tcesc-enc-143.md) — Em vigor
+- [ENC 144](tcesc-enc-144.md) — Em vigor
+- [ENC 145](tcesc-enc-145.md) — Em vigor
+- [ENC 146](tcesc-enc-146.md) — Reformado
+- [ENC 147](tcesc-enc-147.md) — Reformado
+- [ENC 148](tcesc-enc-148.md) — Em vigor
+- [ENC 149](tcesc-enc-149.md) — Em vigor
+- [ENC 150](tcesc-enc-150.md) — Revogado
+- [ENC 151](tcesc-enc-151.md) — Revogado
+- [ENC 152](tcesc-enc-152.md) — Em vigor
+- [ENC 153](tcesc-enc-153.md) — Revogado
+- [ENC 154](tcesc-enc-154.md) — Em vigor
+- [ENC 155](tcesc-enc-155.md) — Em vigor
+- [ENC 156](tcesc-enc-156.md) — Em vigor
+- [ENC 157](tcesc-enc-157.md) — Em vigor
+- [ENC 158](tcesc-enc-158.md) — Em vigor
+- [ENC 159](tcesc-enc-159.md) — Revogado
+- [ENC 160](tcesc-enc-160.md) — Reformado
+- [ENC 161](tcesc-enc-161.md) — Revogado
+- [ENC 162](tcesc-enc-162.md) — Em vigor
+- [ENC 163](tcesc-enc-163.md) — Em vigor
+- [ENC 164](tcesc-enc-164.md) — Em vigor
+- [ENC 165](tcesc-enc-165.md) — Revogado
+- [ENC 166](tcesc-enc-166.md) — Em vigor
+- [ENC 167](tcesc-enc-167.md) — Em vigor
+- [ENC 168](tcesc-enc-168.md) — Em vigor
+- [ENC 169](tcesc-enc-169.md) — Revogado
+- [ENC 170](tcesc-enc-170.md) — Em vigor
+- [ENC 171](tcesc-enc-171.md) — Em vigor
+- [ENC 173](tcesc-enc-173.md) — Reformado
+- [ENC 174](tcesc-enc-174.md) — Em vigor
+- [ENC 175](tcesc-enc-175.md) — Revogado
+- [ENC 176](tcesc-enc-176.md) — Em vigor
+- [ENC 177](tcesc-enc-177.md) — Revogado
+- [ENC 178](tcesc-enc-178.md) — Em vigor
+- [ENC 179](tcesc-enc-179.md) — Em vigor
+- [ENC 180](tcesc-enc-180.md) — Reformado
+- [ENC 181](tcesc-enc-181.md) — Revogado
+- [ENC 182](tcesc-enc-182.md) — Revogado
+- [ENC 183](tcesc-enc-183.md) — Em vigor
+- [ENC 184](tcesc-enc-184.md) — Revogado
+- [ENC 185](tcesc-enc-185.md) — Em vigor
+- [ENC 186](tcesc-enc-186.md) — Em vigor
+- [ENC 187](tcesc-enc-187.md) — Em vigor
+- [ENC 188](tcesc-enc-188.md) — Em vigor
+- [ENC 189](tcesc-enc-189.md) — Em vigor
+- [ENC 190](tcesc-enc-190.md) — Reformado
+- [ENC 191](tcesc-enc-191.md) — Revogado
+- [ENC 192](tcesc-enc-192.md) — Em vigor
+- [ENC 193](tcesc-enc-193.md) — Revogado
+- [ENC 194](tcesc-enc-194.md) — Em vigor
+- [ENC 195](tcesc-enc-195.md) — Em vigor
+- [ENC 196](tcesc-enc-196.md) — Revogado
+- [ENC 197](tcesc-enc-197.md) — Em vigor
+- [ENC 198](tcesc-enc-198.md) — Em vigor
+- [ENC 199](tcesc-enc-199.md) — Em vigor
+- [ENC 200](tcesc-enc-200.md) — Em vigor
+- [ENC 201](tcesc-enc-201.md) — Revogado
+- [ENC 202](tcesc-enc-202.md) — Revogado
+- [ENC 203](tcesc-enc-203.md) — Em vigor
+- [ENC 204](tcesc-enc-204.md) — Em vigor
+- [ENC 205](tcesc-enc-205.md) — Revogado
+- [ENC 206](tcesc-enc-206.md) — Revogado
+- [ENC 207](tcesc-enc-207.md) — Revogado
+- [ENC 208](tcesc-enc-208.md) — Em vigor
+- [ENC 209](tcesc-enc-209.md) — Revogado
+- [ENC 210](tcesc-enc-210.md) — Em vigor
+- [ENC 211](tcesc-enc-211.md) — Reformado
+- [ENC 212](tcesc-enc-212.md) — Em vigor
+- [ENC 213](tcesc-enc-213.md) — Em vigor
+- [ENC 214](tcesc-enc-214.md) — Em vigor
+- [ENC 215](tcesc-enc-215.md) — Revogado
+- [ENC 216](tcesc-enc-216.md) — Revogado
+- [ENC 217](tcesc-enc-217.md) — Reformado
+- [ENC 218](tcesc-enc-218.md) — Revogado
+- [ENC 219](tcesc-enc-219.md) — Em vigor
+- [ENC 220](tcesc-enc-220.md) — Reformado
+- [ENC 221](tcesc-enc-221.md) — Em vigor
+- [ENC 222](tcesc-enc-222.md) — Em vigor
+- [ENC 223](tcesc-enc-223.md) — Em vigor
+- [ENC 224](tcesc-enc-224.md) — Reformado
+- [ENC 225](tcesc-enc-225.md) — Em vigor
+- [ENC 226](tcesc-enc-226.md) — Em vigor
+- [ENC 227](tcesc-enc-227.md) — Em vigor
+- [ENC 228](tcesc-enc-228.md) — Em vigor
+- [ENC 229](tcesc-enc-229.md) — Em vigor
+- [ENC 230](tcesc-enc-230.md) — Em vigor
+- [ENC 231](tcesc-enc-231.md) — Revogado
+- [ENC 232](tcesc-enc-232.md) — Revogado
+- [ENC 233](tcesc-enc-233.md) — Revogado
+- [ENC 234](tcesc-enc-234.md) — Em vigor
+- [ENC 235](tcesc-enc-235.md) — Revogado
+- [ENC 236](tcesc-enc-236.md) — Reformado
+- [ENC 237](tcesc-enc-237.md) — Em vigor
+- [ENC 238](tcesc-enc-238.md) — Revogado
+- [ENC 239](tcesc-enc-239.md) — Em vigor
+- [ENC 240](tcesc-enc-240.md) — Em vigor
+- [ENC 241](tcesc-enc-241.md) — Em vigor
+- [ENC 242](tcesc-enc-242.md) — Em vigor
+- [ENC 243](tcesc-enc-243.md) — Em vigor
+- [ENC 244](tcesc-enc-244.md) — Em vigor
+- [ENC 245](tcesc-enc-245.md) — Em vigor
+- [ENC 246](tcesc-enc-246.md) — Em vigor
+- [ENC 247](tcesc-enc-247.md) — Revogado
+- [ENC 248](tcesc-enc-248.md) — Revogado
+- [ENC 249](tcesc-enc-249.md) — Em vigor
+- [ENC 250](tcesc-enc-250.md) — Reformado
+- [ENC 251](tcesc-enc-251.md) — Revogado
+- [ENC 252](tcesc-enc-252.md) — Revogado
+- [ENC 253](tcesc-enc-253.md) — Em vigor
+- [ENC 254](tcesc-enc-254.md) — Revogado
+- [ENC 255](tcesc-enc-255.md) — Em vigor
+- [ENC 256](tcesc-enc-256.md) — Revogado
+- [ENC 257](tcesc-enc-257.md) — Revogado
+- [ENC 258](tcesc-enc-258.md) — Em vigor
+- [ENC 259](tcesc-enc-259.md) — Em vigor
+- [ENC 260](tcesc-enc-260.md) — Revogado
+- [ENC 261](tcesc-enc-261.md) — Revogado
+- [ENC 262](tcesc-enc-262.md) — Revogado
+- [ENC 263](tcesc-enc-263.md) — Em vigor
+- [ENC 264](tcesc-enc-264.md) — Em vigor
+- [ENC 265](tcesc-enc-265.md) — Em vigor
+- [ENC 266](tcesc-enc-266.md) — Em vigor
+- [ENC 267](tcesc-enc-267.md) — Em vigor
+- [ENC 268](tcesc-enc-268.md) — Em vigor
+- [ENC 269](tcesc-enc-269.md) — Em vigor
+- [ENC 270](tcesc-enc-270.md) — Reformado
+- [ENC 271](tcesc-enc-271.md) — Reformado
+- [ENC 272](tcesc-enc-272.md) — Em vigor
+- [ENC 273](tcesc-enc-273.md) — Em vigor
+- [ENC 274](tcesc-enc-274.md) — Revogado
+- [ENC 275](tcesc-enc-275.md) — Revogado
+- [ENC 276](tcesc-enc-276.md) — Reformado
+- [ENC 277](tcesc-enc-277.md) — Reformado
+- [ENC 278](tcesc-enc-278.md) — Em vigor
+- [ENC 279](tcesc-enc-279.md) — Em vigor
+- [ENC 280](tcesc-enc-280.md) — Em vigor
+- [ENC 281](tcesc-enc-281.md) — Em vigor
+- [ENC 282](tcesc-enc-282.md) — Reformado
+- [ENC 283](tcesc-enc-283.md) — Revogado
+- [ENC 284](tcesc-enc-284.md) — Reformado
+- [ENC 285](tcesc-enc-285.md) — Em vigor
+- [ENC 286](tcesc-enc-286.md) — Revogado
+- [ENC 287](tcesc-enc-287.md) — Em vigor
+- [ENC 288](tcesc-enc-288.md) — Reformado
+- [ENC 289](tcesc-enc-289.md) — Em vigor
+- [ENC 290](tcesc-enc-290.md) — Em vigor
+- [ENC 291](tcesc-enc-291.md) — Em vigor
+- [ENC 292](tcesc-enc-292.md) — Revogado
+- [ENC 293](tcesc-enc-293.md) — Revogado
+- [ENC 294](tcesc-enc-294.md) — Em vigor
+- [ENC 295](tcesc-enc-295.md) — Revogado
+- [ENC 296](tcesc-enc-296.md) — Em vigor
+- [ENC 297](tcesc-enc-297.md) — Em vigor
+- [ENC 298](tcesc-enc-298.md) — Em vigor
+- [ENC 299](tcesc-enc-299.md) — Em vigor
+- [ENC 300](tcesc-enc-300.md) — Em vigor
+- [ENC 301](tcesc-enc-301.md) — Revogado
+- [ENC 302](tcesc-enc-302.md) — Em vigor
+- [ENC 303](tcesc-enc-303.md) — Em vigor
+- [ENC 304](tcesc-enc-304.md) — Em vigor
+- [ENC 305](tcesc-enc-305.md) — Em vigor
+- [ENC 306](tcesc-enc-306.md) — Em vigor
+- [ENC 307](tcesc-enc-307.md) — Reformado
+- [ENC 308](tcesc-enc-308.md) — Em vigor
+- [ENC 309](tcesc-enc-309.md) — Em vigor
+- [ENC 310](tcesc-enc-310.md) — Em vigor
+- [ENC 311](tcesc-enc-311.md) — Em vigor
+- [ENC 312](tcesc-enc-312.md) — Revogado
+- [ENC 313](tcesc-enc-313.md) — Revogado
+- [ENC 314](tcesc-enc-314.md) — Em vigor
+- [ENC 315](tcesc-enc-315.md) — Em vigor
+- [ENC 316](tcesc-enc-316.md) — Em vigor
+- [ENC 317](tcesc-enc-317.md) — Revogado
+- [ENC 318](tcesc-enc-318.md) — Em vigor
+- [ENC 319](tcesc-enc-319.md) — Em vigor
+- [ENC 320](tcesc-enc-320.md) — Em vigor
+- [ENC 321](tcesc-enc-321.md) — Reformado
+- [ENC 322](tcesc-enc-322.md) — Em vigor
+- [ENC 323](tcesc-enc-323.md) — Em vigor
+- [ENC 324](tcesc-enc-324.md) — Em vigor
+- [ENC 325](tcesc-enc-325.md) — Em vigor
+- [ENC 326](tcesc-enc-326.md) — Revogado
+- [ENC 327](tcesc-enc-327.md) — Em vigor
+- [ENC 328](tcesc-enc-328.md) — Em vigor
+- [ENC 329](tcesc-enc-329.md) — Em vigor
+- [ENC 330](tcesc-enc-330.md) — Em vigor
+- [ENC 331](tcesc-enc-331.md) — Em vigor
+- [ENC 332](tcesc-enc-332.md) — Em vigor
+- [ENC 333](tcesc-enc-333.md) — Em vigor
+- [ENC 334](tcesc-enc-334.md) — Em vigor
+- [ENC 335](tcesc-enc-335.md) — Em vigor
+- [ENC 336](tcesc-enc-336.md) — Em vigor
+- [ENC 337](tcesc-enc-337.md) — Revogado
+- [ENC 338](tcesc-enc-338.md) — Em vigor
+- [ENC 339](tcesc-enc-339.md) — Em vigor
+- [ENC 340](tcesc-enc-340.md) — Em vigor
+- [ENC 341](tcesc-enc-341.md) — Em vigor
+- [ENC 342](tcesc-enc-342.md) — Revogado
+- [ENC 343](tcesc-enc-343.md) — Reformado
+- [ENC 344](tcesc-enc-344.md) — Em vigor
+- [ENC 345](tcesc-enc-345.md) — Revogado
+- [ENC 346](tcesc-enc-346.md) — Em vigor
+- [ENC 347](tcesc-enc-347.md) — Revogado
+- [ENC 348](tcesc-enc-348.md) — Reformado
+- [ENC 349](tcesc-enc-349.md) — Revogado
+- [ENC 350](tcesc-enc-350.md) — Revogado
+- [ENC 351](tcesc-enc-351.md) — Em vigor
+- [ENC 352](tcesc-enc-352.md) — Em vigor
+- [ENC 353](tcesc-enc-353.md) — Revogado
+- [ENC 354](tcesc-enc-354.md) — Revogado
+- [ENC 355](tcesc-enc-355.md) — Em vigor
+- [ENC 356](tcesc-enc-356.md) — Em vigor
+- [ENC 357](tcesc-enc-357.md) — Revogado
+- [ENC 358](tcesc-enc-358.md) — Em vigor
+- [ENC 359](tcesc-enc-359.md) — Em vigor
+- [ENC 360](tcesc-enc-360.md) — Em vigor
+- [ENC 361](tcesc-enc-361.md) — Em vigor
+- [ENC 362](tcesc-enc-362.md) — Em vigor
+- [ENC 363](tcesc-enc-363.md) — Revogado
+- [ENC 364](tcesc-enc-364.md) — Em vigor
+- [ENC 365](tcesc-enc-365.md) — Em vigor
+- [ENC 366](tcesc-enc-366.md) — Revogado
+- [ENC 367](tcesc-enc-367.md) — Em vigor
+- [ENC 368](tcesc-enc-368.md) — Em vigor
+- [ENC 369](tcesc-enc-369.md) — Revogado
+- [ENC 370](tcesc-enc-370.md) — Revogado
+- [ENC 371](tcesc-enc-371.md) — Revogado
+- [ENC 372](tcesc-enc-372.md) — Em vigor
+- [ENC 373](tcesc-enc-373.md) — Em vigor
+- [ENC 374](tcesc-enc-374.md) — Reformado
+- [ENC 375](tcesc-enc-375.md) — Em vigor
+- [ENC 376](tcesc-enc-376.md) — Em vigor
+- [ENC 377](tcesc-enc-377.md) — Em vigor
+- [ENC 378](tcesc-enc-378.md) — Em vigor
+- [ENC 379](tcesc-enc-379.md) — Reformado
+- [ENC 380](tcesc-enc-380.md) — Em vigor
+- [ENC 381](tcesc-enc-381.md) — Reformado
+- [ENC 382](tcesc-enc-382.md) — Em vigor
+- [ENC 383](tcesc-enc-383.md) — Em vigor
+- [ENC 384](tcesc-enc-384.md) — Em vigor
+- [ENC 385](tcesc-enc-385.md) — Em vigor
+- [ENC 386](tcesc-enc-386.md) — Em vigor
+- [ENC 387](tcesc-enc-387.md) — Em vigor
+- [ENC 388](tcesc-enc-388.md) — Revogado
+- [ENC 389](tcesc-enc-389.md) — Em vigor
+- [ENC 390](tcesc-enc-390.md) — Em vigor
+- [ENC 391](tcesc-enc-391.md) — Em vigor
+- [ENC 392](tcesc-enc-392.md) — Em vigor
+- [ENC 393](tcesc-enc-393.md) — Revogado
+- [ENC 394](tcesc-enc-394.md) — Em vigor
+- [ENC 395](tcesc-enc-395.md) — Em vigor
+- [ENC 396](tcesc-enc-396.md) — Em vigor
+- [ENC 397](tcesc-enc-397.md) — Em vigor
+- [ENC 398](tcesc-enc-398.md) — Em vigor
+- [ENC 399](tcesc-enc-399.md) — Em vigor
+- [ENC 400](tcesc-enc-400.md) — Em vigor
+- [ENC 401](tcesc-enc-401.md) — Em vigor
+- [ENC 402](tcesc-enc-402.md) — Revogado
+- [ENC 403](tcesc-enc-403.md) — Em vigor
+- [ENC 404](tcesc-enc-404.md) — Revogado
+- [ENC 405](tcesc-enc-405.md) — Reformado
+- [ENC 406](tcesc-enc-406.md) — Em vigor
+- [ENC 407](tcesc-enc-407.md) — Revogado
+- [ENC 408](tcesc-enc-408.md) — Em vigor
+- [ENC 409](tcesc-enc-409.md) — Reformado
+- [ENC 410](tcesc-enc-410.md) — Em vigor
+- [ENC 411](tcesc-enc-411.md) — Em vigor
+- [ENC 412](tcesc-enc-412.md) — Revogado
+- [ENC 413](tcesc-enc-413.md) — Em vigor
+- [ENC 414](tcesc-enc-414.md) — Em vigor
+- [ENC 415](tcesc-enc-415.md) — Revogado
+- [ENC 416](tcesc-enc-416.md) — Em vigor
+- [ENC 417](tcesc-enc-417.md) — Em vigor
+- [ENC 418](tcesc-enc-418.md) — Revogado
+- [ENC 419](tcesc-enc-419.md) — Em vigor
+- [ENC 420](tcesc-enc-420.md) — Revogado
+- [ENC 421](tcesc-enc-421.md) — Em vigor
+- [ENC 422](tcesc-enc-422.md) — Revogado
+- [ENC 423](tcesc-enc-423.md) — Reformado
+- [ENC 424](tcesc-enc-424.md) — Reformado
+- [ENC 425](tcesc-enc-425.md) — Em vigor
+- [ENC 426](tcesc-enc-426.md) — Em vigor
+- [ENC 427](tcesc-enc-427.md) — Em vigor
+- [ENC 428](tcesc-enc-428.md) — Reformado
+- [ENC 429](tcesc-enc-429.md) — Em vigor
+- [ENC 430](tcesc-enc-430.md) — Em vigor
+- [ENC 431](tcesc-enc-431.md) — Em vigor
+- [ENC 432](tcesc-enc-432.md) — Reformado
+- [ENC 433](tcesc-enc-433.md) — Em vigor
+- [ENC 434](tcesc-enc-434.md) — Em vigor
+- [ENC 435](tcesc-enc-435.md) — Em vigor
+- [ENC 436](tcesc-enc-436.md) — Em vigor
+- [ENC 437](tcesc-enc-437.md) — Revogado
+- [ENC 438](tcesc-enc-438.md) — Revogado
+- [ENC 439](tcesc-enc-439.md) — Revogado
+- [ENC 440](tcesc-enc-440.md) — Em vigor
+- [ENC 441](tcesc-enc-441.md) — Em vigor
+- [ENC 442](tcesc-enc-442.md) — Revogado
+- [ENC 443](tcesc-enc-443.md) — Revogado
+- [ENC 444](tcesc-enc-444.md) — Em vigor
+- [ENC 445](tcesc-enc-445.md) — Em vigor
+- [ENC 446](tcesc-enc-446.md) — Em vigor
+- [ENC 447](tcesc-enc-447.md) — Revogado
+- [ENC 448](tcesc-enc-448.md) — Revogado
+- [ENC 449](tcesc-enc-449.md) — Em vigor
+- [ENC 450](tcesc-enc-450.md) — Em vigor
+- [ENC 451](tcesc-enc-451.md) — Em vigor
+- [ENC 452](tcesc-enc-452.md) — Revogado
+- [ENC 453](tcesc-enc-453.md) — Em vigor
+- [ENC 454](tcesc-enc-454.md) — Em vigor
+- [ENC 455](tcesc-enc-455.md) — Em vigor
+- [ENC 456](tcesc-enc-456.md) — Em vigor
+- [ENC 457](tcesc-enc-457.md) — Em vigor
+- [ENC 458](tcesc-enc-458.md) — Em vigor
+- [ENC 459](tcesc-enc-459.md) — Em vigor
+- [ENC 460](tcesc-enc-460.md) — Em vigor
+- [ENC 461](tcesc-enc-461.md) — Reformado
+- [ENC 462](tcesc-enc-462.md) — Em vigor
+- [ENC 463](tcesc-enc-463.md) — Revogado
+- [ENC 464](tcesc-enc-464.md) — Em vigor
+- [ENC 465](tcesc-enc-465.md) — Revogado
+- [ENC 466](tcesc-enc-466.md) — Em vigor
+- [ENC 467](tcesc-enc-467.md) — Em vigor
+- [ENC 468](tcesc-enc-468.md) — Em vigor
+- [ENC 469](tcesc-enc-469.md) — Em vigor
+- [ENC 470](tcesc-enc-470.md) — Em vigor
+- [ENC 471](tcesc-enc-471.md) — Em vigor
+- [ENC 472](tcesc-enc-472.md) — Em vigor
+- [ENC 473](tcesc-enc-473.md) — Em vigor
+- [ENC 474](tcesc-enc-474.md) — Em vigor
+- [ENC 475](tcesc-enc-475.md) — Em vigor
+- [ENC 476](tcesc-enc-476.md) — Em vigor
+- [ENC 477](tcesc-enc-477.md) — Em vigor
+- [ENC 478](tcesc-enc-478.md) — Em vigor
+- [ENC 479](tcesc-enc-479.md) — Em vigor
+- [ENC 480](tcesc-enc-480.md) — Em vigor
+- [ENC 481](tcesc-enc-481.md) — Em vigor
+- [ENC 482](tcesc-enc-482.md) — Revogado
+- [ENC 483](tcesc-enc-483.md) — Em vigor
+- [ENC 484](tcesc-enc-484.md) — Revogado
+- [ENC 485](tcesc-enc-485.md) — Em vigor
+- [ENC 486](tcesc-enc-486.md) — Em vigor
+- [ENC 487](tcesc-enc-487.md) — Em vigor
+- [ENC 488](tcesc-enc-488.md) — Em vigor
+- [ENC 489](tcesc-enc-489.md) — Em vigor
+- [ENC 490](tcesc-enc-490.md) — Em vigor
+- [ENC 491](tcesc-enc-491.md) — Em vigor
+- [ENC 492](tcesc-enc-492.md) — Em vigor
+- [ENC 493](tcesc-enc-493.md) — Revogado
+- [ENC 494](tcesc-enc-494.md) — Reformado
+- [ENC 495](tcesc-enc-495.md) — Em vigor
+- [ENC 496](tcesc-enc-496.md) — Em vigor
+- [ENC 497](tcesc-enc-497.md) — Em vigor
+- [ENC 498](tcesc-enc-498.md) — Em vigor
+- [ENC 499](tcesc-enc-499.md) — Em vigor
+- [ENC 500](tcesc-enc-500.md) — Em vigor
+- [ENC 501](tcesc-enc-501.md) — Em vigor
+- [ENC 502](tcesc-enc-502.md) — Reformado
+- [ENC 503](tcesc-enc-503.md) — Em vigor
+- [ENC 504](tcesc-enc-504.md) — Reformado
+- [ENC 505](tcesc-enc-505.md) — Em vigor
+- [ENC 506](tcesc-enc-506.md) — Em vigor
+- [ENC 507](tcesc-enc-507.md) — Em vigor
+- [ENC 508](tcesc-enc-508.md) — Em vigor
+- [ENC 509](tcesc-enc-509.md) — Em vigor
+- [ENC 510](tcesc-enc-510.md) — Em vigor
+- [ENC 511](tcesc-enc-511.md) — Em vigor
+- [ENC 512](tcesc-enc-512.md) — Em vigor
+- [ENC 513](tcesc-enc-513.md) — Em vigor
+- [ENC 514](tcesc-enc-514.md) — Em vigor
+- [ENC 515](tcesc-enc-515.md) — Em vigor
+- [ENC 516](tcesc-enc-516.md) — Em vigor
+- [ENC 517](tcesc-enc-517.md) — Em vigor
+- [ENC 518](tcesc-enc-518.md) — Reformado
+- [ENC 519](tcesc-enc-519.md) — Em vigor
+- [ENC 520](tcesc-enc-520.md) — Reformado
+- [ENC 521](tcesc-enc-521.md) — Revogado
+- [ENC 522](tcesc-enc-522.md) — Em vigor
+- [ENC 523](tcesc-enc-523.md) — Revogado
+- [ENC 524](tcesc-enc-524.md) — Em vigor
+- [ENC 525](tcesc-enc-525.md) — Em vigor
+- [ENC 526](tcesc-enc-526.md) — Em vigor
+- [ENC 527](tcesc-enc-527.md) — Em vigor
+- [ENC 528](tcesc-enc-528.md) — Em vigor
+- [ENC 529](tcesc-enc-529.md) — Em vigor
+- [ENC 530](tcesc-enc-530.md) — Em vigor
+- [ENC 531](tcesc-enc-531.md) — Em vigor
+- [ENC 532](tcesc-enc-532.md) — Revogado
+- [ENC 533](tcesc-enc-533.md) — Em vigor
+- [ENC 534](tcesc-enc-534.md) — Reformado
+- [ENC 535](tcesc-enc-535.md) — Em vigor
+- [ENC 536](tcesc-enc-536.md) — Em vigor
+- [ENC 537](tcesc-enc-537.md) — Em vigor
+- [ENC 538](tcesc-enc-538.md) — Em vigor
+- [ENC 539](tcesc-enc-539.md) — Em vigor
+- [ENC 540](tcesc-enc-540.md) — Em vigor
+- [ENC 541](tcesc-enc-541.md) — Em vigor
+- [ENC 542](tcesc-enc-542.md) — Em vigor
+- [ENC 543](tcesc-enc-543.md) — Em vigor
+- [ENC 544](tcesc-enc-544.md) — Em vigor
+- [ENC 545](tcesc-enc-545.md) — Em vigor
+- [ENC 546](tcesc-enc-546.md) — Em vigor
+- [ENC 547](tcesc-enc-547.md) — Revogado
+- [ENC 548](tcesc-enc-548.md) — Em vigor
+- [ENC 549](tcesc-enc-549.md) — Reformado
+- [ENC 550](tcesc-enc-550.md) — Reformado
+- [ENC 551](tcesc-enc-551.md) — Em vigor
+- [ENC 552](tcesc-enc-552.md) — Em vigor
+- [ENC 553](tcesc-enc-553.md) — Em vigor
+- [ENC 554](tcesc-enc-554.md) — Em vigor
+- [ENC 555](tcesc-enc-555.md) — Em vigor
+- [ENC 556](tcesc-enc-556.md) — Em vigor
+- [ENC 557](tcesc-enc-557.md) — Revogado
+- [ENC 558](tcesc-enc-558.md) — Revogado
+- [ENC 559](tcesc-enc-559.md) — Revogado
+- [ENC 560](tcesc-enc-560.md) — Em vigor
+- [ENC 561](tcesc-enc-561.md) — Em vigor
+- [ENC 562](tcesc-enc-562.md) — Em vigor
+- [ENC 563](tcesc-enc-563.md) — Em vigor
+- [ENC 564](tcesc-enc-564.md) — Em vigor
+- [ENC 565](tcesc-enc-565.md) — Em vigor
+- [ENC 566](tcesc-enc-566.md) — Em vigor
+- [ENC 567](tcesc-enc-567.md) — Revogado
+- [ENC 568](tcesc-enc-568.md) — Revogado
+- [ENC 569](tcesc-enc-569.md) — Revogado
+- [ENC 570](tcesc-enc-570.md) — Revogado
+- [ENC 571](tcesc-enc-571.md) — Reformado
+- [ENC 572](tcesc-enc-572.md) — Em vigor
+- [ENC 573](tcesc-enc-573.md) — Revogado
+- [ENC 574](tcesc-enc-574.md) — Reformado
+- [ENC 575](tcesc-enc-575.md) — Em vigor
+- [ENC 576](tcesc-enc-576.md) — Em vigor
+- [ENC 577](tcesc-enc-577.md) — Em vigor
+- [ENC 578](tcesc-enc-578.md) — Em vigor
+- [ENC 579](tcesc-enc-579.md) — Em vigor
+- [ENC 580](tcesc-enc-580.md) — Reformado
+- [ENC 581](tcesc-enc-581.md) — Em vigor
+- [ENC 582](tcesc-enc-582.md) — Em vigor
+- [ENC 583](tcesc-enc-583.md) — Em vigor
+- [ENC 584](tcesc-enc-584.md) — Em vigor
+- [ENC 585](tcesc-enc-585.md) — Em vigor
+- [ENC 586](tcesc-enc-586.md) — Em vigor
+- [ENC 587](tcesc-enc-587.md) — Reformado
+- [ENC 588](tcesc-enc-588.md) — Em vigor
+- [ENC 589](tcesc-enc-589.md) — Em vigor
+- [ENC 590](tcesc-enc-590.md) — Reformado
+- [ENC 591](tcesc-enc-591.md) — Em vigor
+- [ENC 592](tcesc-enc-592.md) — Em vigor
+- [ENC 593](tcesc-enc-593.md) — Reformado
+- [ENC 594](tcesc-enc-594.md) — Em vigor
+- [ENC 595](tcesc-enc-595.md) — Em vigor
+- [ENC 596](tcesc-enc-596.md) — Em vigor
+- [ENC 597](tcesc-enc-597.md) — Em vigor
+- [ENC 598](tcesc-enc-598.md) — Em vigor
+- [ENC 599](tcesc-enc-599.md) — Reformado
+- [ENC 600](tcesc-enc-600.md) — Reformado
+- [ENC 601](tcesc-enc-601.md) — Em vigor
+- [ENC 602](tcesc-enc-602.md) — Em vigor
+- [ENC 603](tcesc-enc-603.md) — Em vigor
+- [ENC 604](tcesc-enc-604.md) — Em vigor
+- [ENC 605](tcesc-enc-605.md) — Revogado
+- [ENC 606](tcesc-enc-606.md) — Revogado
+- [ENC 607](tcesc-enc-607.md) — Revogado
+- [ENC 608](tcesc-enc-608.md) — Revogado
+- [ENC 609](tcesc-enc-609.md) — Em vigor
+- [ENC 610](tcesc-enc-610.md) — Reformado
+- [ENC 611](tcesc-enc-611.md) — Em vigor
+- [ENC 612](tcesc-enc-612.md) — Revogado
+- [ENC 613](tcesc-enc-613.md) — Reformado
+- [ENC 614](tcesc-enc-614.md) — Reformado
+- [ENC 615](tcesc-enc-615.md) — Revogado
+- [ENC 616](tcesc-enc-616.md) — Em vigor
+- [ENC 617](tcesc-enc-617.md) — Em vigor
+- [ENC 618](tcesc-enc-618.md) — Em vigor
+- [ENC 619](tcesc-enc-619.md) — Em vigor
+- [ENC 620](tcesc-enc-620.md) — Em vigor
+- [ENC 621](tcesc-enc-621.md) — Revogado
+- [ENC 622](tcesc-enc-622.md) — Em vigor
+- [ENC 623](tcesc-enc-623.md) — Revogado
+- [ENC 624](tcesc-enc-624.md) — Em vigor
+- [ENC 625](tcesc-enc-625.md) — Revogado
+- [ENC 626](tcesc-enc-626.md) — Reformado
+- [ENC 627](tcesc-enc-627.md) — Revogado
+- [ENC 628](tcesc-enc-628.md) — Em vigor
+- [ENC 629](tcesc-enc-629.md) — Em vigor
+- [ENC 630](tcesc-enc-630.md) — Em vigor
+- [ENC 631](tcesc-enc-631.md) — Em vigor
+- [ENC 632](tcesc-enc-632.md) — Em vigor
+- [ENC 633](tcesc-enc-633.md) — Em vigor
+- [ENC 634](tcesc-enc-634.md) — Revogado
+- [ENC 635](tcesc-enc-635.md) — Em vigor
+- [ENC 636](tcesc-enc-636.md) — Em vigor
+- [ENC 637](tcesc-enc-637.md) — Reformado
+- [ENC 638](tcesc-enc-638.md) — Em vigor
+- [ENC 639](tcesc-enc-639.md) — Revogado
+- [ENC 640](tcesc-enc-640.md) — Em vigor
+- [ENC 641](tcesc-enc-641.md) — Revogado
+- [ENC 642](tcesc-enc-642.md) — Reformado
+- [ENC 643](tcesc-enc-643.md) — Em vigor
+- [ENC 644](tcesc-enc-644.md) — Em vigor
+- [ENC 645](tcesc-enc-645.md) — Em vigor
+- [ENC 646](tcesc-enc-646.md) — Em vigor
+- [ENC 647](tcesc-enc-647.md) — Reformado
+- [ENC 648](tcesc-enc-648.md) — Em vigor
+- [ENC 649](tcesc-enc-649.md) — Reformado
+- [ENC 650](tcesc-enc-650.md) — Reformado
+- [ENC 651](tcesc-enc-651.md) — Em vigor
+- [ENC 652](tcesc-enc-652.md) — Em vigor
+- [ENC 653](tcesc-enc-653.md) — Reformado
+- [ENC 654](tcesc-enc-654.md) — Em vigor
+- [ENC 655](tcesc-enc-655.md) — Revogado
+- [ENC 656](tcesc-enc-656.md) — Em vigor
+- [ENC 657](tcesc-enc-657.md) — Em vigor
+- [ENC 658](tcesc-enc-658.md) — Revogado
+- [ENC 659](tcesc-enc-659.md) — Revogado
+- [ENC 660](tcesc-enc-660.md) — Reformado
+- [ENC 661](tcesc-enc-661.md) — Em vigor
+- [ENC 662](tcesc-enc-662.md) — Revogado
+- [ENC 663](tcesc-enc-663.md) — Em vigor
+- [ENC 664](tcesc-enc-664.md) — Em vigor
+- [ENC 665](tcesc-enc-665.md) — Em vigor
+- [ENC 666](tcesc-enc-666.md) — Em vigor
+- [ENC 667](tcesc-enc-667.md) — Em vigor
+- [ENC 668](tcesc-enc-668.md) — Em vigor
+- [ENC 669](tcesc-enc-669.md) — Revogado
+- [ENC 670](tcesc-enc-670.md) — Em vigor
+- [ENC 671](tcesc-enc-671.md) — Em vigor
+- [ENC 672](tcesc-enc-672.md) — Revogado
+- [ENC 673](tcesc-enc-673.md) — Em vigor
+- [ENC 674](tcesc-enc-674.md) — Em vigor
+- [ENC 675](tcesc-enc-675.md) — Em vigor
+- [ENC 676](tcesc-enc-676.md) — Reformado
+- [ENC 677](tcesc-enc-677.md) — Reformado
+- [ENC 678](tcesc-enc-678.md) — Revogado
+- [ENC 679](tcesc-enc-679.md) — Revogado
+- [ENC 680](tcesc-enc-680.md) — Em vigor
+- [ENC 681](tcesc-enc-681.md) — Em vigor
+- [ENC 682](tcesc-enc-682.md) — Revogado
+- [ENC 683](tcesc-enc-683.md) — Em vigor
+- [ENC 684](tcesc-enc-684.md) — Em vigor
+- [ENC 685](tcesc-enc-685.md) — Em vigor
+- [ENC 686](tcesc-enc-686.md) — Em vigor
+- [ENC 687](tcesc-enc-687.md) — Em vigor
+- [ENC 688](tcesc-enc-688.md) — Em vigor
+- [ENC 689](tcesc-enc-689.md) — Em vigor
+- [ENC 690](tcesc-enc-690.md) — Em vigor
+- [ENC 691](tcesc-enc-691.md) — Em vigor
+- [ENC 692](tcesc-enc-692.md) — Em vigor
+- [ENC 693](tcesc-enc-693.md) — Em vigor
+- [ENC 694](tcesc-enc-694.md) — Em vigor
+- [ENC 695](tcesc-enc-695.md) — Em vigor
+- [ENC 696](tcesc-enc-696.md) — Revogado
+- [ENC 697](tcesc-enc-697.md) — Em vigor
+- [ENC 698](tcesc-enc-698.md) — Em vigor
+- [ENC 699](tcesc-enc-699.md) — Revogado
+- [ENC 700](tcesc-enc-700.md) — Reformado
+- [ENC 701](tcesc-enc-701.md) — Revogado
+- [ENC 702](tcesc-enc-702.md) — Em vigor
+- [ENC 703](tcesc-enc-703.md) — Revogado
+- [ENC 704](tcesc-enc-704.md) — Reformado
+- [ENC 705](tcesc-enc-705.md) — Em vigor
+- [ENC 706](tcesc-enc-706.md) — Em vigor
+- [ENC 707](tcesc-enc-707.md) — Revogado
+- [ENC 708](tcesc-enc-708.md) — Em vigor
+- [ENC 709](tcesc-enc-709.md) — Em vigor
+- [ENC 710](tcesc-enc-710.md) — Revogado
+- [ENC 711](tcesc-enc-711.md) — Em vigor
+- [ENC 712](tcesc-enc-712.md) — Reformado
+- [ENC 713](tcesc-enc-713.md) — Em vigor
+- [ENC 714](tcesc-enc-714.md) — Em vigor
+- [ENC 715](tcesc-enc-715.md) — Reformado
+- [ENC 716](tcesc-enc-716.md) — Em vigor
+- [ENC 717](tcesc-enc-717.md) — Reformado
+- [ENC 718](tcesc-enc-718.md) — Em vigor
+- [ENC 719](tcesc-enc-719.md) — Em vigor
+- [ENC 720](tcesc-enc-720.md) — Em vigor
+- [ENC 721](tcesc-enc-721.md) — Em vigor
+- [ENC 722](tcesc-enc-722.md) — Em vigor
+- [ENC 723](tcesc-enc-723.md) — Revogado
+- [ENC 724](tcesc-enc-724.md) — Em vigor
+- [ENC 725](tcesc-enc-725.md) — Revogado
+- [ENC 726](tcesc-enc-726.md) — Em vigor
+- [ENC 727](tcesc-enc-727.md) — Em vigor
+- [ENC 728](tcesc-enc-728.md) — Em vigor
+- [ENC 729](tcesc-enc-729.md) — Reformado
+- [ENC 730](tcesc-enc-730.md) — Reformado
+- [ENC 731](tcesc-enc-731.md) — Em vigor
+- [ENC 732](tcesc-enc-732.md) — Em vigor
+- [ENC 733](tcesc-enc-733.md) — Em vigor
+- [ENC 734](tcesc-enc-734.md) — Em vigor
+- [ENC 735](tcesc-enc-735.md) — Em vigor
+- [ENC 736](tcesc-enc-736.md) — Reformado
+- [ENC 737](tcesc-enc-737.md) — Em vigor
+- [ENC 738](tcesc-enc-738.md) — Em vigor
+- [ENC 739](tcesc-enc-739.md) — Em vigor
+- [ENC 740](tcesc-enc-740.md) — Em vigor
+- [ENC 741](tcesc-enc-741.md) — Reformado
+- [ENC 742](tcesc-enc-742.md) — Em vigor
+- [ENC 743](tcesc-enc-743.md) — Reformado
+- [ENC 744](tcesc-enc-744.md) — Reformado
+- [ENC 745](tcesc-enc-745.md) — Em vigor
+- [ENC 746](tcesc-enc-746.md) — Revogado
+- [ENC 747](tcesc-enc-747.md) — Em vigor
+- [ENC 748](tcesc-enc-748.md) — Reformado
+- [ENC 749](tcesc-enc-749.md) — Revogado
+- [ENC 750](tcesc-enc-750.md) — Em vigor
+- [ENC 751](tcesc-enc-751.md) — Revogado
+- [ENC 752](tcesc-enc-752.md) — Em vigor
+- [ENC 753](tcesc-enc-753.md) — Revogado
+- [ENC 754](tcesc-enc-754.md) — Em vigor
+- [ENC 755](tcesc-enc-755.md) — Revogado
+- [ENC 756](tcesc-enc-756.md) — Em vigor
+- [ENC 757](tcesc-enc-757.md) — Em vigor
+- [ENC 758](tcesc-enc-758.md) — Em vigor
+- [ENC 759](tcesc-enc-759.md) — Reformado
+- [ENC 760](tcesc-enc-760.md) — Em vigor
+- [ENC 761](tcesc-enc-761.md) — Em vigor
+- [ENC 762](tcesc-enc-762.md) — Em vigor
+- [ENC 763](tcesc-enc-763.md) — Em vigor
+- [ENC 764](tcesc-enc-764.md) — Em vigor
+- [ENC 765](tcesc-enc-765.md) — Em vigor
+- [ENC 766](tcesc-enc-766.md) — Em vigor
+- [ENC 767](tcesc-enc-767.md) — Em vigor
+- [ENC 768](tcesc-enc-768.md) — Revogado
+- [ENC 769](tcesc-enc-769.md) — Revogado
+- [ENC 770](tcesc-enc-770.md) — Revogado
+- [ENC 771](tcesc-enc-771.md) — Reformado
+- [ENC 772](tcesc-enc-772.md) — Revogado
+- [ENC 773](tcesc-enc-773.md) — Revogado
+- [ENC 774](tcesc-enc-774.md) — Em vigor
+- [ENC 775](tcesc-enc-775.md) — Reformado
+- [ENC 776](tcesc-enc-776.md) — Em vigor
+- [ENC 777](tcesc-enc-777.md) — Reformado
+- [ENC 778](tcesc-enc-778.md) — Reformado
+- [ENC 779](tcesc-enc-779.md) — Em vigor
+- [ENC 780](tcesc-enc-780.md) — Revogado
+- [ENC 781](tcesc-enc-781.md) — Reformado
+- [ENC 782](tcesc-enc-782.md) — Em vigor
+- [ENC 783](tcesc-enc-783.md) — Em vigor
+- [ENC 784](tcesc-enc-784.md) — Revogado
+- [ENC 785](tcesc-enc-785.md) — Reformado
+- [ENC 786](tcesc-enc-786.md) — Em vigor
+- [ENC 787](tcesc-enc-787.md) — Em vigor
+- [ENC 788](tcesc-enc-788.md) — Em vigor
+- [ENC 789](tcesc-enc-789.md) — Em vigor
+- [ENC 790](tcesc-enc-790.md) — Reformado
+- [ENC 791](tcesc-enc-791.md) — Em vigor
+- [ENC 792](tcesc-enc-792.md) — Reformado
+- [ENC 793](tcesc-enc-793.md) — Em vigor
+- [ENC 794](tcesc-enc-794.md) — Em vigor
+- [ENC 795](tcesc-enc-795.md) — Em vigor
+- [ENC 796](tcesc-enc-796.md) — Revogado
+- [ENC 797](tcesc-enc-797.md) — Reformado
+- [ENC 798](tcesc-enc-798.md) — Revogado
+- [ENC 799](tcesc-enc-799.md) — Em vigor
+- [ENC 800](tcesc-enc-800.md) — Em vigor
+- [ENC 801](tcesc-enc-801.md) — Reformado
+- [ENC 802](tcesc-enc-802.md) — Reformado
+- [ENC 803](tcesc-enc-803.md) — Em vigor
+- [ENC 804](tcesc-enc-804.md) — Em vigor
+- [ENC 805](tcesc-enc-805.md) — Revogado
+- [ENC 806](tcesc-enc-806.md) — Revogado
+- [ENC 807](tcesc-enc-807.md) — Reformado
+- [ENC 808](tcesc-enc-808.md) — Em vigor
+- [ENC 809](tcesc-enc-809.md) — Revogado
+- [ENC 810](tcesc-enc-810.md) — Em vigor
+- [ENC 811](tcesc-enc-811.md) — Reformado
+- [ENC 812](tcesc-enc-812.md) — Revogado
+- [ENC 813](tcesc-enc-813.md) — Em vigor
+- [ENC 814](tcesc-enc-814.md) — Em vigor
+- [ENC 815](tcesc-enc-815.md) — Em vigor
+- [ENC 816](tcesc-enc-816.md) — Em vigor
+- [ENC 817](tcesc-enc-817.md) — Em vigor
+- [ENC 818](tcesc-enc-818.md) — Em vigor
+- [ENC 819](tcesc-enc-819.md) — Reformado
+- [ENC 820](tcesc-enc-820.md) — Em vigor
+- [ENC 821](tcesc-enc-821.md) — Em vigor
+- [ENC 822](tcesc-enc-822.md) — Reformado
+- [ENC 823](tcesc-enc-823.md) — Reformado
+- [ENC 824](tcesc-enc-824.md) — Em vigor
+- [ENC 825](tcesc-enc-825.md) — Em vigor
+- [ENC 826](tcesc-enc-826.md) — Reformado
+- [ENC 827](tcesc-enc-827.md) — Revogado
+- [ENC 828](tcesc-enc-828.md) — Em vigor
+- [ENC 829](tcesc-enc-829.md) — Em vigor
+- [ENC 830](tcesc-enc-830.md) — Em vigor
+- [ENC 831](tcesc-enc-831.md) — Em vigor
+- [ENC 832](tcesc-enc-832.md) — Em vigor
+- [ENC 833](tcesc-enc-833.md) — Em vigor
+- [ENC 834](tcesc-enc-834.md) — Em vigor
+- [ENC 835](tcesc-enc-835.md) — Em vigor
+- [ENC 836](tcesc-enc-836.md) — Em vigor
+- [ENC 837](tcesc-enc-837.md) — Em vigor
+- [ENC 838](tcesc-enc-838.md) — Revogado
+- [ENC 839](tcesc-enc-839.md) — Em vigor
+- [ENC 840](tcesc-enc-840.md) — Em vigor
+- [ENC 841](tcesc-enc-841.md) — Revogado
+- [ENC 842](tcesc-enc-842.md) — Revogado
+- [ENC 843](tcesc-enc-843.md) — Reformado
+- [ENC 844](tcesc-enc-844.md) — Reformado
+- [ENC 845](tcesc-enc-845.md) — Em vigor
+- [ENC 846](tcesc-enc-846.md) — Em vigor
+- [ENC 847](tcesc-enc-847.md) — Revogado
+- [ENC 848](tcesc-enc-848.md) — Revogado
+- [ENC 849](tcesc-enc-849.md) — Em vigor
+- [ENC 850](tcesc-enc-850.md) — Em vigor
+- [ENC 851](tcesc-enc-851.md) — Em vigor
+- [ENC 852](tcesc-enc-852.md) — Em vigor
+- [ENC 853](tcesc-enc-853.md) — Em vigor
+- [ENC 854](tcesc-enc-854.md) — Reformado
+- [ENC 855](tcesc-enc-855.md) — Em vigor
+- [ENC 856](tcesc-enc-856.md) — Em vigor
+- [ENC 857](tcesc-enc-857.md) — Em vigor
+- [ENC 858](tcesc-enc-858.md) — Em vigor
+- [ENC 859](tcesc-enc-859.md) — Reformado
+- [ENC 860](tcesc-enc-860.md) — Revogado
+- [ENC 861](tcesc-enc-861.md) — Em vigor
+- [ENC 862](tcesc-enc-862.md) — Em vigor
+- [ENC 863](tcesc-enc-863.md) — Em vigor
+- [ENC 864](tcesc-enc-864.md) — Em vigor
+- [ENC 865](tcesc-enc-865.md) — Em vigor
+- [ENC 866](tcesc-enc-866.md) — Em vigor
+- [ENC 867](tcesc-enc-867.md) — Em vigor
+- [ENC 868](tcesc-enc-868.md) — Em vigor
+- [ENC 869](tcesc-enc-869.md) — Reformado
+- [ENC 870](tcesc-enc-870.md) — Reformado
+- [ENC 871](tcesc-enc-871.md) — Em vigor
+- [ENC 872](tcesc-enc-872.md) — Em vigor
+- [ENC 873](tcesc-enc-873.md) — Reformado
+- [ENC 874](tcesc-enc-874.md) — Em vigor
+- [ENC 875](tcesc-enc-875.md) — Reformado
+- [ENC 876](tcesc-enc-876.md) — Revogado
+- [ENC 877](tcesc-enc-877.md) — Em vigor
+- [ENC 878](tcesc-enc-878.md) — Em vigor
+- [ENC 879](tcesc-enc-879.md) — Em vigor
+- [ENC 880](tcesc-enc-880.md) — Reformado
+- [ENC 881](tcesc-enc-881.md) — Em vigor
+- [ENC 882](tcesc-enc-882.md) — Em vigor
+- [ENC 883](tcesc-enc-883.md) — Em vigor
+- [ENC 884](tcesc-enc-884.md) — Em vigor
+- [ENC 885](tcesc-enc-885.md) — Em vigor
+- [ENC 886](tcesc-enc-886.md) — Em vigor
+- [ENC 887](tcesc-enc-887.md) — Em vigor
+- [ENC 888](tcesc-enc-888.md) — Em vigor
+- [ENC 889](tcesc-enc-889.md) — Em vigor
+- [ENC 890](tcesc-enc-890.md) — Reformado
+- [ENC 891](tcesc-enc-891.md) — Em vigor
+- [ENC 892](tcesc-enc-892.md) — Em vigor
+- [ENC 893](tcesc-enc-893.md) — Reformado
+- [ENC 894](tcesc-enc-894.md) — Em vigor
+- [ENC 895](tcesc-enc-895.md) — Em vigor
+- [ENC 896](tcesc-enc-896.md) — Reformado
+- [ENC 897](tcesc-enc-897.md) — Em vigor
+- [ENC 898](tcesc-enc-898.md) — Revogado
+- [ENC 899](tcesc-enc-899.md) — Em vigor
+- [ENC 900](tcesc-enc-900.md) — Em vigor
+- [ENC 901](tcesc-enc-901.md) — Reformado
+- [ENC 902](tcesc-enc-902.md) — Revogado
+- [ENC 903](tcesc-enc-903.md) — Reformado
+- [ENC 904](tcesc-enc-904.md) — Em vigor
+- [ENC 905](tcesc-enc-905.md) — Em vigor
+- [ENC 906](tcesc-enc-906.md) — Em vigor
+- [ENC 907](tcesc-enc-907.md) — Em vigor
+- [ENC 908](tcesc-enc-908.md) — Em vigor
+- [ENC 909](tcesc-enc-909.md) — Revogado
+- [ENC 910](tcesc-enc-910.md) — Revogado
+- [ENC 911](tcesc-enc-911.md) — Em vigor
+- [ENC 912](tcesc-enc-912.md) — Em vigor
+- [ENC 913](tcesc-enc-913.md) — Revogado
+- [ENC 914](tcesc-enc-914.md) — Em vigor
+- [ENC 915](tcesc-enc-915.md) — Em vigor
+- [ENC 916](tcesc-enc-916.md) — Revogado
+- [ENC 917](tcesc-enc-917.md) — Em vigor
+- [ENC 918](tcesc-enc-918.md) — Em vigor
+- [ENC 919](tcesc-enc-919.md) — Em vigor
+- [ENC 920](tcesc-enc-920.md) — Revogado
+- [ENC 921](tcesc-enc-921.md) — Em vigor
+- [ENC 922](tcesc-enc-922.md) — Revogado
+- [ENC 923](tcesc-enc-923.md) — Reformado
+- [ENC 924](tcesc-enc-924.md) — Em vigor
+- [ENC 925](tcesc-enc-925.md) — Em vigor
+- [ENC 926](tcesc-enc-926.md) — Em vigor
+- [ENC 927](tcesc-enc-927.md) — Revogado
+- [ENC 928](tcesc-enc-928.md) — Em vigor
+- [ENC 929](tcesc-enc-929.md) — Em vigor
+- [ENC 930](tcesc-enc-930.md) — Reformado
+- [ENC 931](tcesc-enc-931.md) — Reformado
+- [ENC 932](tcesc-enc-932.md) — Em vigor
+- [ENC 933](tcesc-enc-933.md) — Em vigor
+- [ENC 934](tcesc-enc-934.md) — Em vigor
+- [ENC 935](tcesc-enc-935.md) — Reformado
+- [ENC 936](tcesc-enc-936.md) — Em vigor
+- [ENC 937](tcesc-enc-937.md) — Em vigor
+- [ENC 938](tcesc-enc-938.md) — Em vigor
+- [ENC 939](tcesc-enc-939.md) — Em vigor
+- [ENC 940](tcesc-enc-940.md) — Reformado
+- [ENC 941](tcesc-enc-941.md) — Reformado
+- [ENC 942](tcesc-enc-942.md) — Revogado
+- [ENC 943](tcesc-enc-943.md) — Reformado
+- [ENC 944](tcesc-enc-944.md) — Em vigor
+- [ENC 945](tcesc-enc-945.md) — Em vigor
+- [ENC 946](tcesc-enc-946.md) — Reformado
+- [ENC 947](tcesc-enc-947.md) — Em vigor
+- [ENC 948](tcesc-enc-948.md) — Em vigor
+- [ENC 949](tcesc-enc-949.md) — Reformado
+- [ENC 950](tcesc-enc-950.md) — Em vigor
+- [ENC 951](tcesc-enc-951.md) — Em vigor
+- [ENC 952](tcesc-enc-952.md) — Em vigor
+- [ENC 953](tcesc-enc-953.md) — Em vigor
+- [ENC 954](tcesc-enc-954.md) — Reformado
+- [ENC 955](tcesc-enc-955.md) — Reformado
+- [ENC 956](tcesc-enc-956.md) — Em vigor
+- [ENC 957](tcesc-enc-957.md) — Revogado
+- [ENC 958](tcesc-enc-958.md) — Revogado
+- [ENC 959](tcesc-enc-959.md) — Em vigor
+- [ENC 960](tcesc-enc-960.md) — Em vigor
+- [ENC 961](tcesc-enc-961.md) — Em vigor
+- [ENC 962](tcesc-enc-962.md) — Em vigor
+- [ENC 963](tcesc-enc-963.md) — Reformado
+- [ENC 964](tcesc-enc-964.md) — Em vigor
+- [ENC 965](tcesc-enc-965.md) — Em vigor
+- [ENC 966](tcesc-enc-966.md) — Em vigor
+- [ENC 967](tcesc-enc-967.md) — Em vigor
+- [ENC 968](tcesc-enc-968.md) — Em vigor
+- [ENC 969](tcesc-enc-969.md) — Em vigor
+- [ENC 970](tcesc-enc-970.md) — Revogado
+- [ENC 971](tcesc-enc-971.md) — Em vigor
+- [ENC 972](tcesc-enc-972.md) — Em vigor
+- [ENC 973](tcesc-enc-973.md) — Em vigor
+- [ENC 974](tcesc-enc-974.md) — Em vigor
+- [ENC 975](tcesc-enc-975.md) — Em vigor
+- [ENC 976](tcesc-enc-976.md) — Em vigor
+- [ENC 977](tcesc-enc-977.md) — Em vigor
+- [ENC 978](tcesc-enc-978.md) — Em vigor
+- [ENC 979](tcesc-enc-979.md) — Em vigor
+- [ENC 980](tcesc-enc-980.md) — Em vigor
+- [ENC 981](tcesc-enc-981.md) — Em vigor
+- [ENC 982](tcesc-enc-982.md) — Em vigor
+- [ENC 983](tcesc-enc-983.md) — Em vigor
+- [ENC 984](tcesc-enc-984.md) — Reformado
+- [ENC 985](tcesc-enc-985.md) — Revogado
+- [ENC 986](tcesc-enc-986.md) — Reformado
+- [ENC 987](tcesc-enc-987.md) — Em vigor
+- [ENC 988](tcesc-enc-988.md) — Reformado
+- [ENC 989](tcesc-enc-989.md) — Revogado
+- [ENC 990](tcesc-enc-990.md) — Em vigor
+- [ENC 991](tcesc-enc-991.md) — Reformado
+- [ENC 992](tcesc-enc-992.md) — Em vigor
+- [ENC 993](tcesc-enc-993.md) — Em vigor
+- [ENC 994](tcesc-enc-994.md) — Em vigor
+- [ENC 995](tcesc-enc-995.md) — Em vigor
+- [ENC 996](tcesc-enc-996.md) — Revogado
+- [ENC 997](tcesc-enc-997.md) — Em vigor
+- [ENC 998](tcesc-enc-998.md) — Em vigor
+- [ENC 999](tcesc-enc-999.md) — Em vigor
+- [ENC 1000](tcesc-enc-1000.md) — Revogado
+- [ENC 1001](tcesc-enc-1001.md) — Reformado
+- [ENC 1002](tcesc-enc-1002.md) — Em vigor
+- [ENC 1003](tcesc-enc-1003.md) — Em vigor
+- [ENC 1004](tcesc-enc-1004.md) — Em vigor
+- [ENC 1005](tcesc-enc-1005.md) — Em vigor
+- [ENC 1006](tcesc-enc-1006.md) — Em vigor
+- [ENC 1007](tcesc-enc-1007.md) — Revogado
+- [ENC 1008](tcesc-enc-1008.md) — Em vigor
+- [ENC 1009](tcesc-enc-1009.md) — Em vigor
+- [ENC 1010](tcesc-enc-1010.md) — Reformado
+- [ENC 1011](tcesc-enc-1011.md) — Em vigor
+- [ENC 1012](tcesc-enc-1012.md) — Revogado
+- [ENC 1013](tcesc-enc-1013.md) — Em vigor
+- [ENC 1014](tcesc-enc-1014.md) — Em vigor
+- [ENC 1015](tcesc-enc-1015.md) — Em vigor
+- [ENC 1016](tcesc-enc-1016.md) — Em vigor
+- [ENC 1017](tcesc-enc-1017.md) — Revogado
+- [ENC 1018](tcesc-enc-1018.md) — Em vigor
+- [ENC 1019](tcesc-enc-1019.md) — Em vigor
+- [ENC 1020](tcesc-enc-1020.md) — Revogado
+- [ENC 1021](tcesc-enc-1021.md) — Revogado
+- [ENC 1022](tcesc-enc-1022.md) — Reformado
+- [ENC 1023](tcesc-enc-1023.md) — Revogado
+- [ENC 1024](tcesc-enc-1024.md) — Reformado
+- [ENC 1025](tcesc-enc-1025.md) — Em vigor
+- [ENC 1026](tcesc-enc-1026.md) — Revogado
+- [ENC 1027](tcesc-enc-1027.md) — Em vigor
+- [ENC 1028](tcesc-enc-1028.md) — Em vigor
+- [ENC 1029](tcesc-enc-1029.md) — Em vigor
+- [ENC 1030](tcesc-enc-1030.md) — Em vigor
+- [ENC 1031](tcesc-enc-1031.md) — Revogado
+- [ENC 1032](tcesc-enc-1032.md) — Em vigor
+- [ENC 1033](tcesc-enc-1033.md) — Reformado
+- [ENC 1034](tcesc-enc-1034.md) — Em vigor
+- [ENC 1035](tcesc-enc-1035.md) — Em vigor
+- [ENC 1036](tcesc-enc-1036.md) — Revogado
+- [ENC 1037](tcesc-enc-1037.md) — Revogado
+- [ENC 1038](tcesc-enc-1038.md) — Reformado
+- [ENC 1039](tcesc-enc-1039.md) — Em vigor
+- [ENC 1040](tcesc-enc-1040.md) — Em vigor
+- [ENC 1041](tcesc-enc-1041.md) — Em vigor
+- [ENC 1042](tcesc-enc-1042.md) — Em vigor
+- [ENC 1043](tcesc-enc-1043.md) — Em vigor
+- [ENC 1044](tcesc-enc-1044.md) — Em vigor
+- [ENC 1045](tcesc-enc-1045.md) — Em vigor
+- [ENC 1046](tcesc-enc-1046.md) — Revogado
+- [ENC 1047](tcesc-enc-1047.md) — Em vigor
+- [ENC 1048](tcesc-enc-1048.md) — Em vigor
+- [ENC 1049](tcesc-enc-1049.md) — Em vigor
+- [ENC 1050](tcesc-enc-1050.md) — Em vigor
+- [ENC 1051](tcesc-enc-1051.md) — Em vigor
+- [ENC 1052](tcesc-enc-1052.md) — Em vigor
+- [ENC 1053](tcesc-enc-1053.md) — Revogado
+- [ENC 1054](tcesc-enc-1054.md) — Revogado
+- [ENC 1055](tcesc-enc-1055.md) — Revogado
+- [ENC 1056](tcesc-enc-1056.md) — Reformado
+- [ENC 1057](tcesc-enc-1057.md) — Revogado
+- [ENC 1058](tcesc-enc-1058.md) — Em vigor
+- [ENC 1059](tcesc-enc-1059.md) — Revogado
+- [ENC 1060](tcesc-enc-1060.md) — Em vigor
+- [ENC 1061](tcesc-enc-1061.md) — Em vigor
+- [ENC 1062](tcesc-enc-1062.md) — Reformado
+- [ENC 1063](tcesc-enc-1063.md) — Revogado
+- [ENC 1064](tcesc-enc-1064.md) — Em vigor
+- [ENC 1065](tcesc-enc-1065.md) — Revogado
+- [ENC 1066](tcesc-enc-1066.md) — Reformado
+- [ENC 1067](tcesc-enc-1067.md) — Reformado
+- [ENC 1068](tcesc-enc-1068.md) — Revogado
+- [ENC 1069](tcesc-enc-1069.md) — Reformado
+- [ENC 1070](tcesc-enc-1070.md) — Reformado
+- [ENC 1071](tcesc-enc-1071.md) — Reformado
+- [ENC 1072](tcesc-enc-1072.md) — Revogado
+- [ENC 1073](tcesc-enc-1073.md) — Revogado
+- [ENC 1074](tcesc-enc-1074.md) — Em vigor
+- [ENC 1075](tcesc-enc-1075.md) — Em vigor
+- [ENC 1076](tcesc-enc-1076.md) — Em vigor
+- [ENC 1077](tcesc-enc-1077.md) — Reformado
+- [ENC 1078](tcesc-enc-1078.md) — Em vigor
+- [ENC 1079](tcesc-enc-1079.md) — Revogado
+- [ENC 1080](tcesc-enc-1080.md) — Em vigor
+- [ENC 1081](tcesc-enc-1081.md) — Em vigor
+- [ENC 1082](tcesc-enc-1082.md) — Reformado
+- [ENC 1083](tcesc-enc-1083.md) — Reformado
+- [ENC 1084](tcesc-enc-1084.md) — Em vigor
+- [ENC 1085](tcesc-enc-1085.md) — Em vigor
+- [ENC 1086](tcesc-enc-1086.md) — Em vigor
+- [ENC 1087](tcesc-enc-1087.md) — Revogado
+- [ENC 1088](tcesc-enc-1088.md) — Em vigor
+- [ENC 1089](tcesc-enc-1089.md) — Em vigor
+- [ENC 1090](tcesc-enc-1090.md) — Reformado
+- [ENC 1091](tcesc-enc-1091.md) — Revogado
+- [ENC 1092](tcesc-enc-1092.md) — Revogado
+- [ENC 1093](tcesc-enc-1093.md) — Em vigor
+- [ENC 1094](tcesc-enc-1094.md) — Em vigor
+- [ENC 1095](tcesc-enc-1095.md) — Reformado
+- [ENC 1096](tcesc-enc-1096.md) — Em vigor
+- [ENC 1097](tcesc-enc-1097.md) — Em vigor
+- [ENC 1098](tcesc-enc-1098.md) — Reformado
+- [ENC 1099](tcesc-enc-1099.md) — Em vigor
+- [ENC 1100](tcesc-enc-1100.md) — Em vigor
+- [ENC 1101](tcesc-enc-1101.md) — Revogado
+- [ENC 1102](tcesc-enc-1102.md) — Em vigor
+- [ENC 1103](tcesc-enc-1103.md) — Em vigor
+- [ENC 1104](tcesc-enc-1104.md) — Revogado
+- [ENC 1105](tcesc-enc-1105.md) — Em vigor
+- [ENC 1106](tcesc-enc-1106.md) — Em vigor
+- [ENC 1107](tcesc-enc-1107.md) — Revogado
+- [ENC 1108](tcesc-enc-1108.md) — Em vigor
+- [ENC 1109](tcesc-enc-1109.md) — Em vigor
+- [ENC 1110](tcesc-enc-1110.md) — Reformado
+- [ENC 1111](tcesc-enc-1111.md) — Reformado
+- [ENC 1112](tcesc-enc-1112.md) — Em vigor
+- [ENC 1113](tcesc-enc-1113.md) — Em vigor
+- [ENC 1114](tcesc-enc-1114.md) — Em vigor
+- [ENC 1115](tcesc-enc-1115.md) — Reformado
+- [ENC 1116](tcesc-enc-1116.md) — Em vigor
+- [ENC 1117](tcesc-enc-1117.md) — Em vigor
+- [ENC 1118](tcesc-enc-1118.md) — Revogado
+- [ENC 1119](tcesc-enc-1119.md) — Revogado
+- [ENC 1120](tcesc-enc-1120.md) — Revogado
+- [ENC 1121](tcesc-enc-1121.md) — Em vigor
+- [ENC 1122](tcesc-enc-1122.md) — Revogado
+- [ENC 1123](tcesc-enc-1123.md) — Em vigor
+- [ENC 1124](tcesc-enc-1124.md) — Em vigor
+- [ENC 1125](tcesc-enc-1125.md) — Em vigor
+- [ENC 1126](tcesc-enc-1126.md) — Em vigor
+- [ENC 1127](tcesc-enc-1127.md) — Em vigor
+- [ENC 1128](tcesc-enc-1128.md) — Em vigor
+- [ENC 1129](tcesc-enc-1129.md) — Revogado
+- [ENC 1130](tcesc-enc-1130.md) — Em vigor
+- [ENC 1131](tcesc-enc-1131.md) — Em vigor
+- [ENC 1132](tcesc-enc-1132.md) — Em vigor
+- [ENC 1133](tcesc-enc-1133.md) — Em vigor
+- [ENC 1134](tcesc-enc-1134.md) — Revogado
+- [ENC 1135](tcesc-enc-1135.md) — Revogado
+- [ENC 1136](tcesc-enc-1136.md) — Em vigor
+- [ENC 1137](tcesc-enc-1137.md) — Reformado
+- [ENC 1138](tcesc-enc-1138.md) — Reformado
+- [ENC 1139](tcesc-enc-1139.md) — Reformado
+- [ENC 1140](tcesc-enc-1140.md) — Em vigor
+- [ENC 1141](tcesc-enc-1141.md) — Em vigor
+- [ENC 1142](tcesc-enc-1142.md) — Reformado
+- [ENC 1143](tcesc-enc-1143.md) — Reformado
+- [ENC 1144](tcesc-enc-1144.md) — Em vigor
+- [ENC 1145](tcesc-enc-1145.md) — Em vigor
+- [ENC 1146](tcesc-enc-1146.md) — Reformado
+- [ENC 1147](tcesc-enc-1147.md) — Reformado
+- [ENC 1148](tcesc-enc-1148.md) — Em vigor
+- [ENC 1149](tcesc-enc-1149.md) — Revogado
+- [ENC 1150](tcesc-enc-1150.md) — Reformado
+- [ENC 1151](tcesc-enc-1151.md) — Em vigor
+- [ENC 1152](tcesc-enc-1152.md) — Em vigor
+- [ENC 1153](tcesc-enc-1153.md) — Reformado
+- [ENC 1154](tcesc-enc-1154.md) — Reformado
+- [ENC 1155](tcesc-enc-1155.md) — Em vigor
+- [ENC 1156](tcesc-enc-1156.md) — Reformado
+- [ENC 1157](tcesc-enc-1157.md) — Reformado
+- [ENC 1158](tcesc-enc-1158.md) — Revogado
+- [ENC 1159](tcesc-enc-1159.md) — Reformado
+- [ENC 1160](tcesc-enc-1160.md) — Em vigor
+- [ENC 1161](tcesc-enc-1161.md) — Reformado
+- [ENC 1162](tcesc-enc-1162.md) — Revogado
+- [ENC 1163](tcesc-enc-1163.md) — Revogado
+- [ENC 1164](tcesc-enc-1164.md) — Em vigor
+- [ENC 1165](tcesc-enc-1165.md) — Reformado
+- [ENC 1166](tcesc-enc-1166.md) — Em vigor
+- [ENC 1167](tcesc-enc-1167.md) — Em vigor
+- [ENC 1168](tcesc-enc-1168.md) — Revogado
+- [ENC 1169](tcesc-enc-1169.md) — Reformado
+- [ENC 1170](tcesc-enc-1170.md) — Revogado
+- [ENC 1171](tcesc-enc-1171.md) — Em vigor
+- [ENC 1172](tcesc-enc-1172.md) — Em vigor
+- [ENC 1173](tcesc-enc-1173.md) — Em vigor
+- [ENC 1174](tcesc-enc-1174.md) — Em vigor
+- [ENC 1175](tcesc-enc-1175.md) — Reformado
+- [ENC 1176](tcesc-enc-1176.md) — Em vigor
+- [ENC 1177](tcesc-enc-1177.md) — Em vigor
+- [ENC 1178](tcesc-enc-1178.md) — Em vigor
+- [ENC 1179](tcesc-enc-1179.md) — Revogado
+- [ENC 1180](tcesc-enc-1180.md) — Em vigor
+- [ENC 1181](tcesc-enc-1181.md) — Reformado
+- [ENC 1182](tcesc-enc-1182.md) — Em vigor
+- [ENC 1183](tcesc-enc-1183.md) — Reformado
+- [ENC 1184](tcesc-enc-1184.md) — Reformado
+- [ENC 1185](tcesc-enc-1185.md) — Revogado
+- [ENC 1186](tcesc-enc-1186.md) — Revogado
+- [ENC 1187](tcesc-enc-1187.md) — Em vigor
+- [ENC 1188](tcesc-enc-1188.md) — Em vigor
+- [ENC 1189](tcesc-enc-1189.md) — Reformado
+- [ENC 1190](tcesc-enc-1190.md) — Revogado
+- [ENC 1191](tcesc-enc-1191.md) — Em vigor
+- [ENC 1192](tcesc-enc-1192.md) — Revogado
+- [ENC 1193](tcesc-enc-1193.md) — Em vigor
+- [ENC 1194](tcesc-enc-1194.md) — Em vigor
+- [ENC 1195](tcesc-enc-1195.md) — Revogado
+- [ENC 1196](tcesc-enc-1196.md) — Em vigor
+- [ENC 1197](tcesc-enc-1197.md) — Revogado
+- [ENC 1198](tcesc-enc-1198.md) — Em vigor
+- [ENC 1199](tcesc-enc-1199.md) — Em vigor
+- [ENC 1200](tcesc-enc-1200.md) — Em vigor
+- [ENC 1201](tcesc-enc-1201.md) — Em vigor
+- [ENC 1202](tcesc-enc-1202.md) — Em vigor
+- [ENC 1203](tcesc-enc-1203.md) — Reformado
+- [ENC 1204](tcesc-enc-1204.md) — Revogado
+- [ENC 1205](tcesc-enc-1205.md) — Em vigor
+- [ENC 1206](tcesc-enc-1206.md) — Reformado
+- [ENC 1207](tcesc-enc-1207.md) — Revogado
+- [ENC 1208](tcesc-enc-1208.md) — Em vigor
+- [ENC 1209](tcesc-enc-1209.md) — Revogado
+- [ENC 1210](tcesc-enc-1210.md) — Em vigor
+- [ENC 1211](tcesc-enc-1211.md) — Revogado
+- [ENC 1212](tcesc-enc-1212.md) — Revogado
+- [ENC 1213](tcesc-enc-1213.md) — Reformado
+- [ENC 1214](tcesc-enc-1214.md) — Revogado
+- [ENC 1215](tcesc-enc-1215.md) — Reformado
+- [ENC 1216](tcesc-enc-1216.md) — Em vigor
+- [ENC 1217](tcesc-enc-1217.md) — Em vigor
+- [ENC 1218](tcesc-enc-1218.md) — Em vigor
+- [ENC 1219](tcesc-enc-1219.md) — Reformado
+- [ENC 1220](tcesc-enc-1220.md) — Revogado
+- [ENC 1221](tcesc-enc-1221.md) — Em vigor
+- [ENC 1222](tcesc-enc-1222.md) — Revogado
+- [ENC 1223](tcesc-enc-1223.md) — Reformado
+- [ENC 1224](tcesc-enc-1224.md) — Em vigor
+- [ENC 1225](tcesc-enc-1225.md) — Em vigor
+- [ENC 1226](tcesc-enc-1226.md) — Revogado
+- [ENC 1227](tcesc-enc-1227.md) — Em vigor
+- [ENC 1228](tcesc-enc-1228.md) — Revogado
+- [ENC 1229](tcesc-enc-1229.md) — Em vigor
+- [ENC 1230](tcesc-enc-1230.md) — Em vigor
+- [ENC 1231](tcesc-enc-1231.md) — Reformado
+- [ENC 1232](tcesc-enc-1232.md) — Reformado
+- [ENC 1233](tcesc-enc-1233.md) — Em vigor
+- [ENC 1234](tcesc-enc-1234.md) — Em vigor
+- [ENC 1235](tcesc-enc-1235.md) — Reformado
+- [ENC 1236](tcesc-enc-1236.md) — Em vigor
+- [ENC 1237](tcesc-enc-1237.md) — Em vigor
+- [ENC 1238](tcesc-enc-1238.md) — Reformado
+- [ENC 1239](tcesc-enc-1239.md) — Em vigor
+- [ENC 1240](tcesc-enc-1240.md) — Reformado
+- [ENC 1241](tcesc-enc-1241.md) — Revogado
+- [ENC 1242](tcesc-enc-1242.md) — Em vigor
+- [ENC 1243](tcesc-enc-1243.md) — Reformado
+- [ENC 1244](tcesc-enc-1244.md) — Revogado
+- [ENC 1245](tcesc-enc-1245.md) — Em vigor
+- [ENC 1246](tcesc-enc-1246.md) — Em vigor
+- [ENC 1247](tcesc-enc-1247.md) — Em vigor
+- [ENC 1248](tcesc-enc-1248.md) — Em vigor
+- [ENC 1249](tcesc-enc-1249.md) — Revogado
+- [ENC 1250](tcesc-enc-1250.md) — Reformado
+- [ENC 1251](tcesc-enc-1251.md) — Revogado
+- [ENC 1252](tcesc-enc-1252.md) — Reformado
+- [ENC 1253](tcesc-enc-1253.md) — Reformado
+- [ENC 1254](tcesc-enc-1254.md) — Em vigor
+- [ENC 1255](tcesc-enc-1255.md) — Em vigor
+- [ENC 1256](tcesc-enc-1256.md) — Em vigor
+- [ENC 1257](tcesc-enc-1257.md) — Em vigor
+- [ENC 1258](tcesc-enc-1258.md) — Em vigor
+- [ENC 1259](tcesc-enc-1259.md) — Em vigor
+- [ENC 1260](tcesc-enc-1260.md) — Em vigor
+- [ENC 1261](tcesc-enc-1261.md) — Em vigor
+- [ENC 1262](tcesc-enc-1262.md) — Reformado
+- [ENC 1263](tcesc-enc-1263.md) — Revogado
+- [ENC 1264](tcesc-enc-1264.md) — Reformado
+- [ENC 1265](tcesc-enc-1265.md) — Reformado
+- [ENC 1266](tcesc-enc-1266.md) — Em vigor
+- [ENC 1267](tcesc-enc-1267.md) — Em vigor
+- [ENC 1268](tcesc-enc-1268.md) — Em vigor
+- [ENC 1269](tcesc-enc-1269.md) — Em vigor
+- [ENC 1270](tcesc-enc-1270.md) — Reformado
+- [ENC 1271](tcesc-enc-1271.md) — Reformado
+- [ENC 1272](tcesc-enc-1272.md) — Em vigor
+- [ENC 1273](tcesc-enc-1273.md) — Revogado
+- [ENC 1274](tcesc-enc-1274.md) — Em vigor
+- [ENC 1275](tcesc-enc-1275.md) — Revogado
+- [ENC 1276](tcesc-enc-1276.md) — Em vigor
+- [ENC 1277](tcesc-enc-1277.md) — Reformado
+- [ENC 1278](tcesc-enc-1278.md) — Revogado
+- [ENC 1279](tcesc-enc-1279.md) — Revogado
+- [ENC 1280](tcesc-enc-1280.md) — Reformado
+- [ENC 1281](tcesc-enc-1281.md) — Revogado
+- [ENC 1282](tcesc-enc-1282.md) — Em vigor
+- [ENC 1283](tcesc-enc-1283.md) — Em vigor
+- [ENC 1284](tcesc-enc-1284.md) — Em vigor
+- [ENC 1285](tcesc-enc-1285.md) — Em vigor
+- [ENC 1286](tcesc-enc-1286.md) — Em vigor
+- [ENC 1287](tcesc-enc-1287.md) — Em vigor
+- [ENC 1288](tcesc-enc-1288.md) — Em vigor
+- [ENC 1289](tcesc-enc-1289.md) — Em vigor
+- [ENC 1290](tcesc-enc-1290.md) — Em vigor
+- [ENC 1291](tcesc-enc-1291.md) — Em vigor
+- [ENC 1292](tcesc-enc-1292.md) — Revogado
+- [ENC 1293](tcesc-enc-1293.md) — Revogado
+- [ENC 1294](tcesc-enc-1294.md) — Em vigor
+- [ENC 1295](tcesc-enc-1295.md) — Em vigor
+- [ENC 1296](tcesc-enc-1296.md) — Reformado
+- [ENC 1297](tcesc-enc-1297.md) — Em vigor
+- [ENC 1298](tcesc-enc-1298.md) — Revogado
+- [ENC 1299](tcesc-enc-1299.md) — Reformado
+- [ENC 1300](tcesc-enc-1300.md) — Revogado
+- [ENC 1301](tcesc-enc-1301.md) — Revogado
+- [ENC 1302](tcesc-enc-1302.md) — Em vigor
+- [ENC 1303](tcesc-enc-1303.md) — Em vigor
+- [ENC 1304](tcesc-enc-1304.md) — Em vigor
+- [ENC 1305](tcesc-enc-1305.md) — Em vigor
+- [ENC 1306](tcesc-enc-1306.md) — Em vigor
+- [ENC 1307](tcesc-enc-1307.md) — Em vigor
+- [ENC 1308](tcesc-enc-1308.md) — Em vigor
+- [ENC 1309](tcesc-enc-1309.md) — Em vigor
+- [ENC 1310](tcesc-enc-1310.md) — Em vigor
+- [ENC 1311](tcesc-enc-1311.md) — Em vigor
+- [ENC 1312](tcesc-enc-1312.md) — Em vigor
+- [ENC 1313](tcesc-enc-1313.md) — Em vigor
+- [ENC 1314](tcesc-enc-1314.md) — Em vigor
+- [ENC 1315](tcesc-enc-1315.md) — Reformado
+- [ENC 1316](tcesc-enc-1316.md) — Em vigor
+- [ENC 1317](tcesc-enc-1317.md) — Em vigor
+- [ENC 1318](tcesc-enc-1318.md) — Em vigor
+- [ENC 1319](tcesc-enc-1319.md) — Em vigor
+- [ENC 1320](tcesc-enc-1320.md) — Em vigor
+- [ENC 1321](tcesc-enc-1321.md) — Em vigor
+- [ENC 1322](tcesc-enc-1322.md) — Revogado
+- [ENC 1323](tcesc-enc-1323.md) — Em vigor
+- [ENC 1324](tcesc-enc-1324.md) — Em vigor
+- [ENC 1325](tcesc-enc-1325.md) — Em vigor
+- [ENC 1326](tcesc-enc-1326.md) — Em vigor
+- [ENC 1327](tcesc-enc-1327.md) — Em vigor
+- [ENC 1328](tcesc-enc-1328.md) — Em vigor
+- [ENC 1329](tcesc-enc-1329.md) — Reformado
+- [ENC 1330](tcesc-enc-1330.md) — Em vigor
+- [ENC 1331](tcesc-enc-1331.md) — Em vigor
+- [ENC 1332](tcesc-enc-1332.md) — Em vigor
+- [ENC 1333](tcesc-enc-1333.md) — Em vigor
+- [ENC 1334](tcesc-enc-1334.md) — Revogado
+- [ENC 1335](tcesc-enc-1335.md) — Em vigor
+- [ENC 1336](tcesc-enc-1336.md) — Reformado
+- [ENC 1337](tcesc-enc-1337.md) — Revogado
+- [ENC 1338](tcesc-enc-1338.md) — Em vigor
+- [ENC 1339](tcesc-enc-1339.md) — Em vigor
+- [ENC 1340](tcesc-enc-1340.md) — Em vigor
+- [ENC 1341](tcesc-enc-1341.md) — Em vigor
+- [ENC 1342](tcesc-enc-1342.md) — Revogado
+- [ENC 1343](tcesc-enc-1343.md) — Em vigor
+- [ENC 1344](tcesc-enc-1344.md) — Em vigor
+- [ENC 1345](tcesc-enc-1345.md) — Em vigor
+- [ENC 1346](tcesc-enc-1346.md) — Revogado
+- [ENC 1347](tcesc-enc-1347.md) — Reformado
+- [ENC 1348](tcesc-enc-1348.md) — Revogado
+- [ENC 1350](tcesc-enc-1350.md) — Reformado
+- [ENC 1351](tcesc-enc-1351.md) — Em vigor
+- [ENC 1352](tcesc-enc-1352.md) — Em vigor
+- [ENC 1353](tcesc-enc-1353.md) — Em vigor
+- [ENC 1354](tcesc-enc-1354.md) — Em vigor
+- [ENC 1355](tcesc-enc-1355.md) — Em vigor
+- [ENC 1356](tcesc-enc-1356.md) — Em vigor
+- [ENC 1357](tcesc-enc-1357.md) — Revogado
+- [ENC 1358](tcesc-enc-1358.md) — Em vigor
+- [ENC 1359](tcesc-enc-1359.md) — Reformado
+- [ENC 1360](tcesc-enc-1360.md) — Em vigor
+- [ENC 1361](tcesc-enc-1361.md) — Em vigor
+- [ENC 1362](tcesc-enc-1362.md) — Em vigor
+- [ENC 1363](tcesc-enc-1363.md) — Reformado
+- [ENC 1364](tcesc-enc-1364.md) — Em vigor
+- [ENC 1365](tcesc-enc-1365.md) — Em vigor
+- [ENC 1366](tcesc-enc-1366.md) — Em vigor
+- [ENC 1367](tcesc-enc-1367.md) — Em vigor
+- [ENC 1368](tcesc-enc-1368.md) — Em vigor
+- [ENC 1369](tcesc-enc-1369.md) — Em vigor
+- [ENC 1370](tcesc-enc-1370.md) — Em vigor
+- [ENC 1371](tcesc-enc-1371.md) — Em vigor
+- [ENC 1372](tcesc-enc-1372.md) — Em vigor
+- [ENC 1373](tcesc-enc-1373.md) — Reformado
+- [ENC 1374](tcesc-enc-1374.md) — Reformado
+- [ENC 1375](tcesc-enc-1375.md) — Reformado
+- [ENC 1376](tcesc-enc-1376.md) — Em vigor
+- [ENC 1377](tcesc-enc-1377.md) — Reformado
+- [ENC 1378](tcesc-enc-1378.md) — Reformado
+- [ENC 1379](tcesc-enc-1379.md) — Revogado
+- [ENC 1380](tcesc-enc-1380.md) — Em vigor
+- [ENC 1381](tcesc-enc-1381.md) — Em vigor
+- [ENC 1382](tcesc-enc-1382.md) — Em vigor
+- [ENC 1383](tcesc-enc-1383.md) — Em vigor
+- [ENC 1384](tcesc-enc-1384.md) — Em vigor
+- [ENC 1385](tcesc-enc-1385.md) — Reformado
+- [ENC 1386](tcesc-enc-1386.md) — Em vigor
+- [ENC 1387](tcesc-enc-1387.md) — Em vigor
+- [ENC 1388](tcesc-enc-1388.md) — Em vigor
+- [ENC 1389](tcesc-enc-1389.md) — Em vigor
+- [ENC 1390](tcesc-enc-1390.md) — Em vigor
+- [ENC 1391](tcesc-enc-1391.md) — Revogado
+- [ENC 1392](tcesc-enc-1392.md) — Em vigor
+- [ENC 1393](tcesc-enc-1393.md) — Em vigor
+- [ENC 1394](tcesc-enc-1394.md) — Em vigor
+- [ENC 1395](tcesc-enc-1395.md) — Em vigor
+- [ENC 1396](tcesc-enc-1396.md) — Reformado
+- [ENC 1397](tcesc-enc-1397.md) — Em vigor
+- [ENC 1398](tcesc-enc-1398.md) — Reformado
+- [ENC 1399](tcesc-enc-1399.md) — Reformado
+- [ENC 1400](tcesc-enc-1400.md) — Revogado
+- [ENC 1401](tcesc-enc-1401.md) — Em vigor
+- [ENC 1402](tcesc-enc-1402.md) — Reformado
+- [ENC 1403](tcesc-enc-1403.md) — Em vigor
+- [ENC 1404](tcesc-enc-1404.md) — Revogado
+- [ENC 1405](tcesc-enc-1405.md) — Em vigor
+- [ENC 1406](tcesc-enc-1406.md) — Em vigor
+- [ENC 1407](tcesc-enc-1407.md) — Revogado
+- [ENC 1408](tcesc-enc-1408.md) — Em vigor
+- [ENC 1409](tcesc-enc-1409.md) — Em vigor
+- [ENC 1410](tcesc-enc-1410.md) — Revogado
+- [ENC 1411](tcesc-enc-1411.md) — Revogado
+- [ENC 1412](tcesc-enc-1412.md) — Em vigor
+- [ENC 1413](tcesc-enc-1413.md) — Em vigor
+- [ENC 1414](tcesc-enc-1414.md) — Em vigor
+- [ENC 1415](tcesc-enc-1415.md) — Em vigor
+- [ENC 1416](tcesc-enc-1416.md) — Em vigor
+- [ENC 1417](tcesc-enc-1417.md) — Em vigor
+- [ENC 1418](tcesc-enc-1418.md) — Em vigor
+- [ENC 1419](tcesc-enc-1419.md) — Revogado
+- [ENC 1420](tcesc-enc-1420.md) — Em vigor
+- [ENC 1421](tcesc-enc-1421.md) — Em vigor
+- [ENC 1422](tcesc-enc-1422.md) — Em vigor
+- [ENC 1423](tcesc-enc-1423.md) — Em vigor
+- [ENC 1424](tcesc-enc-1424.md) — Em vigor
+- [ENC 1425](tcesc-enc-1425.md) — Em vigor
+- [ENC 1426](tcesc-enc-1426.md) — Revogado
+- [ENC 1427](tcesc-enc-1427.md) — Reformado
+- [ENC 1428](tcesc-enc-1428.md) — Revogado
+- [ENC 1429](tcesc-enc-1429.md) — Em vigor
+- [ENC 1430](tcesc-enc-1430.md) — Em vigor
+- [ENC 1431](tcesc-enc-1431.md) — Em vigor
+- [ENC 1432](tcesc-enc-1432.md) — Revogado
+- [ENC 1433](tcesc-enc-1433.md) — Em vigor
+- [ENC 1434](tcesc-enc-1434.md) — Em vigor
+- [ENC 1435](tcesc-enc-1435.md) — Em vigor
+- [ENC 1436](tcesc-enc-1436.md) — Em vigor
+- [ENC 1437](tcesc-enc-1437.md) — Em vigor
+- [ENC 1438](tcesc-enc-1438.md) — Em vigor
+- [ENC 1439](tcesc-enc-1439.md) — Em vigor
+- [ENC 1440](tcesc-enc-1440.md) — Revogado
+- [ENC 1441](tcesc-enc-1441.md) — Em vigor
+- [ENC 1442](tcesc-enc-1442.md) — Revogado
+- [ENC 1443](tcesc-enc-1443.md) — Em vigor
+- [ENC 1444](tcesc-enc-1444.md) — Em vigor
+- [ENC 1445](tcesc-enc-1445.md) — Em vigor
+- [ENC 1446](tcesc-enc-1446.md) — Reformado
+- [ENC 1447](tcesc-enc-1447.md) — Em vigor
+- [ENC 1448](tcesc-enc-1448.md) — Revogado
+- [ENC 1449](tcesc-enc-1449.md) — Em vigor
+- [ENC 1450](tcesc-enc-1450.md) — Reformado
+- [ENC 1451](tcesc-enc-1451.md) — Em vigor
+- [ENC 1452](tcesc-enc-1452.md) — Reformado
+- [ENC 1453](tcesc-enc-1453.md) — Em vigor
+- [ENC 1454](tcesc-enc-1454.md) — Revogado
+- [ENC 1455](tcesc-enc-1455.md) — Em vigor
+- [ENC 1456](tcesc-enc-1456.md) — Revogado
+- [ENC 1457](tcesc-enc-1457.md) — Reformado
+- [ENC 1458](tcesc-enc-1458.md) — Reformado
+- [ENC 1459](tcesc-enc-1459.md) — Reformado
+- [ENC 1460](tcesc-enc-1460.md) — Em vigor
+- [ENC 1461](tcesc-enc-1461.md) — Em vigor
+- [ENC 1462](tcesc-enc-1462.md) — Revogado
+- [ENC 1463](tcesc-enc-1463.md) — Revogado
+- [ENC 1464](tcesc-enc-1464.md) — Em vigor
+- [ENC 1465](tcesc-enc-1465.md) — Em vigor
+- [ENC 1466](tcesc-enc-1466.md) — Em vigor
+- [ENC 1467](tcesc-enc-1467.md) — Em vigor
+- [ENC 1468](tcesc-enc-1468.md) — Em vigor
+- [ENC 1469](tcesc-enc-1469.md) — Em vigor
+- [ENC 1470](tcesc-enc-1470.md) — Revogado
+- [ENC 1471](tcesc-enc-1471.md) — Revogado
+- [ENC 1472](tcesc-enc-1472.md) — Em vigor
+- [ENC 1473](tcesc-enc-1473.md) — Em vigor
+- [ENC 1474](tcesc-enc-1474.md) — Revogado
+- [ENC 1475](tcesc-enc-1475.md) — Reformado
+- [ENC 1476](tcesc-enc-1476.md) — Revogado
+- [ENC 1477](tcesc-enc-1477.md) — Em vigor
+- [ENC 1478](tcesc-enc-1478.md) — Em vigor
+- [ENC 1479](tcesc-enc-1479.md) — Em vigor
+- [ENC 1480](tcesc-enc-1480.md) — Revogado
+- [ENC 1481](tcesc-enc-1481.md) — Em vigor
+- [ENC 1482](tcesc-enc-1482.md) — Em vigor
+- [ENC 1483](tcesc-enc-1483.md) — Reformado
+- [ENC 1484](tcesc-enc-1484.md) — Em vigor
+- [ENC 1485](tcesc-enc-1485.md) — Reformado
+- [ENC 1486](tcesc-enc-1486.md) — Em vigor
+- [ENC 1487](tcesc-enc-1487.md) — Revogado
+- [ENC 1488](tcesc-enc-1488.md) — Em vigor
+- [ENC 1489](tcesc-enc-1489.md) — Em vigor
+- [ENC 1490](tcesc-enc-1490.md) — Em vigor
+- [ENC 1491](tcesc-enc-1491.md) — Em vigor
+- [ENC 1492](tcesc-enc-1492.md) — Revogado
+- [ENC 1493](tcesc-enc-1493.md) — Em vigor
+- [ENC 1494](tcesc-enc-1494.md) — Reformado
+- [ENC 1495](tcesc-enc-1495.md) — Reformado
+- [ENC 1496](tcesc-enc-1496.md) — Revogado
+- [ENC 1497](tcesc-enc-1497.md) — Revogado
+- [ENC 1498](tcesc-enc-1498.md) — Em vigor
+- [ENC 1499](tcesc-enc-1499.md) — Revogado
+- [ENC 1500](tcesc-enc-1500.md) — Em vigor
+- [ENC 1501](tcesc-enc-1501.md) — Reformado
+- [ENC 1502](tcesc-enc-1502.md) — Revogado
+- [ENC 1503](tcesc-enc-1503.md) — Em vigor
+- [ENC 1504](tcesc-enc-1504.md) — Em vigor
+- [ENC 1505](tcesc-enc-1505.md) — Em vigor
+- [ENC 1506](tcesc-enc-1506.md) — Revogado
+- [ENC 1507](tcesc-enc-1507.md) — Em vigor
+- [ENC 1508](tcesc-enc-1508.md) — Em vigor
+- [ENC 1509](tcesc-enc-1509.md) — Em vigor
+- [ENC 1510](tcesc-enc-1510.md) — Revogado
+- [ENC 1511](tcesc-enc-1511.md) — Em vigor
+- [ENC 1512](tcesc-enc-1512.md) — Em vigor
+- [ENC 1513](tcesc-enc-1513.md) — Em vigor
+- [ENC 1514](tcesc-enc-1514.md) — Em vigor
+- [ENC 1515](tcesc-enc-1515.md) — Em vigor
+- [ENC 1516](tcesc-enc-1516.md) — Em vigor
+- [ENC 1517](tcesc-enc-1517.md) — Em vigor
+- [ENC 1518](tcesc-enc-1518.md) — Em vigor
+- [ENC 1519](tcesc-enc-1519.md) — Em vigor
+- [ENC 1520](tcesc-enc-1520.md) — Em vigor
+- [ENC 1521](tcesc-enc-1521.md) — Em vigor
+- [ENC 1522](tcesc-enc-1522.md) — Em vigor
+- [ENC 1523](tcesc-enc-1523.md) — Revogado
+- [ENC 1524](tcesc-enc-1524.md) — Em vigor
+- [ENC 1525](tcesc-enc-1525.md) — Revogado
+- [ENC 1526](tcesc-enc-1526.md) — Em vigor
+- [ENC 1527](tcesc-enc-1527.md) — Em vigor
+- [ENC 1528](tcesc-enc-1528.md) — Em vigor
+- [ENC 1529](tcesc-enc-1529.md) — Em vigor
+- [ENC 1530](tcesc-enc-1530.md) — Reformado
+- [ENC 1531](tcesc-enc-1531.md) — Reformado
+- [ENC 1532](tcesc-enc-1532.md) — Em vigor
+- [ENC 1533](tcesc-enc-1533.md) — Em vigor
+- [ENC 1534](tcesc-enc-1534.md) — Em vigor
+- [ENC 1535](tcesc-enc-1535.md) — Em vigor
+- [ENC 1536](tcesc-enc-1536.md) — Revogado
+- [ENC 1537](tcesc-enc-1537.md) — Reformado
+- [ENC 1538](tcesc-enc-1538.md) — Em vigor
+- [ENC 1539](tcesc-enc-1539.md) — Em vigor
+- [ENC 1540](tcesc-enc-1540.md) — Reformado
+- [ENC 1541](tcesc-enc-1541.md) — Reformado
+- [ENC 1542](tcesc-enc-1542.md) — Em vigor
+- [ENC 1543](tcesc-enc-1543.md) — Em vigor
+- [ENC 1544](tcesc-enc-1544.md) — Revogado
+- [ENC 1545](tcesc-enc-1545.md) — Revogado
+- [ENC 1546](tcesc-enc-1546.md) — Em vigor
+- [ENC 1547](tcesc-enc-1547.md) — Em vigor
+- [ENC 1548](tcesc-enc-1548.md) — Em vigor
+- [ENC 1549](tcesc-enc-1549.md) — Em vigor
+- [ENC 1550](tcesc-enc-1550.md) — Em vigor
+- [ENC 1551](tcesc-enc-1551.md) — Em vigor
+- [ENC 1552](tcesc-enc-1552.md) — Em vigor
+- [ENC 1553](tcesc-enc-1553.md) — Em vigor
+- [ENC 1554](tcesc-enc-1554.md) — Em vigor
+- [ENC 1555](tcesc-enc-1555.md) — Em vigor
+- [ENC 1556](tcesc-enc-1556.md) — Em vigor
+- [ENC 1557](tcesc-enc-1557.md) — Revogado
+- [ENC 1558](tcesc-enc-1558.md) — Em vigor
+- [ENC 1559](tcesc-enc-1559.md) — Revogado
+- [ENC 1560](tcesc-enc-1560.md) — Em vigor
+- [ENC 1561](tcesc-enc-1561.md) — Reformado
+- [ENC 1562](tcesc-enc-1562.md) — Em vigor
+- [ENC 1563](tcesc-enc-1563.md) — Reformado
+- [ENC 1564](tcesc-enc-1564.md) — Em vigor
+- [ENC 1565](tcesc-enc-1565.md) — Reformado
+- [ENC 1566](tcesc-enc-1566.md) — Reformado
+- [ENC 1567](tcesc-enc-1567.md) — Em vigor
+- [ENC 1568](tcesc-enc-1568.md) — Em vigor
+- [ENC 1569](tcesc-enc-1569.md) — Em vigor
+- [ENC 1570](tcesc-enc-1570.md) — Em vigor
+- [ENC 1571](tcesc-enc-1571.md) — Em vigor
+- [ENC 1572](tcesc-enc-1572.md) — Reformado
+- [ENC 1573](tcesc-enc-1573.md) — Em vigor
+- [ENC 1574](tcesc-enc-1574.md) — Revogado
+- [ENC 1575](tcesc-enc-1575.md) — Revogado
+- [ENC 1576](tcesc-enc-1576.md) — Reformado
+- [ENC 1577](tcesc-enc-1577.md) — Reformado
+- [ENC 1578](tcesc-enc-1578.md) — Em vigor
+- [ENC 1579](tcesc-enc-1579.md) — Reformado
+- [ENC 1580](tcesc-enc-1580.md) — Em vigor
+- [ENC 1581](tcesc-enc-1581.md) — Em vigor
+- [ENC 1582](tcesc-enc-1582.md) — Em vigor
+- [ENC 1583](tcesc-enc-1583.md) — Em vigor
+- [ENC 1584](tcesc-enc-1584.md) — Revogado
+- [ENC 1585](tcesc-enc-1585.md) — Em vigor
+- [ENC 1586](tcesc-enc-1586.md) — Revogado
+- [ENC 1587](tcesc-enc-1587.md) — Reformado
+- [ENC 1588](tcesc-enc-1588.md) — Em vigor
+- [ENC 1589](tcesc-enc-1589.md) — Em vigor
+- [ENC 1590](tcesc-enc-1590.md) — Em vigor
+- [ENC 1591](tcesc-enc-1591.md) — Em vigor
+- [ENC 1592](tcesc-enc-1592.md) — Em vigor
+- [ENC 1593](tcesc-enc-1593.md) — Em vigor
+- [ENC 1594](tcesc-enc-1594.md) — Em vigor
+- [ENC 1595](tcesc-enc-1595.md) — Em vigor
+- [ENC 1596](tcesc-enc-1596.md) — Reformado
+- [ENC 1597](tcesc-enc-1597.md) — Em vigor
+- [ENC 1598](tcesc-enc-1598.md) — Reformado
+- [ENC 1599](tcesc-enc-1599.md) — Reformado
+- [ENC 1600](tcesc-enc-1600.md) — Em vigor
+- [ENC 1601](tcesc-enc-1601.md) — Em vigor
+- [ENC 1602](tcesc-enc-1602.md) — Reformado
+- [ENC 1603](tcesc-enc-1603.md) — Em vigor
+- [ENC 1604](tcesc-enc-1604.md) — Em vigor
+- [ENC 1605](tcesc-enc-1605.md) — Em vigor
+- [ENC 1606](tcesc-enc-1606.md) — Revogado
+- [ENC 1607](tcesc-enc-1607.md) — Reformado
+- [ENC 1608](tcesc-enc-1608.md) — Em vigor
+- [ENC 1609](tcesc-enc-1609.md) — Em vigor
+- [ENC 1610](tcesc-enc-1610.md) — Em vigor
+- [ENC 1611](tcesc-enc-1611.md) — Em vigor
+- [ENC 1612](tcesc-enc-1612.md) — Em vigor
+- [ENC 1613](tcesc-enc-1613.md) — Em vigor
+- [ENC 1614](tcesc-enc-1614.md) — Em vigor
+- [ENC 1615](tcesc-enc-1615.md) — Em vigor
+- [ENC 1616](tcesc-enc-1616.md) — Em vigor
+- [ENC 1617](tcesc-enc-1617.md) — Revogado
+- [ENC 1618](tcesc-enc-1618.md) — Revogado
+- [ENC 1619](tcesc-enc-1619.md) — Reformado
+- [ENC 1620](tcesc-enc-1620.md) — Em vigor
+- [ENC 1621](tcesc-enc-1621.md) — Em vigor
+- [ENC 1622](tcesc-enc-1622.md) — Reformado
+- [ENC 1623](tcesc-enc-1623.md) — Em vigor
+- [ENC 1624](tcesc-enc-1624.md) — Reformado
+- [ENC 1625](tcesc-enc-1625.md) — Revogado
+- [ENC 1626](tcesc-enc-1626.md) — Reformado
+- [ENC 1627](tcesc-enc-1627.md) — Em vigor
+- [ENC 1628](tcesc-enc-1628.md) — Em vigor
+- [ENC 1629](tcesc-enc-1629.md) — Reformado
+- [ENC 1630](tcesc-enc-1630.md) — Em vigor
+- [ENC 1631](tcesc-enc-1631.md) — Em vigor
+- [ENC 1632](tcesc-enc-1632.md) — Reformado
+- [ENC 1633](tcesc-enc-1633.md) — Em vigor
+- [ENC 1634](tcesc-enc-1634.md) — Reformado
+- [ENC 1635](tcesc-enc-1635.md) — Em vigor
+- [ENC 1636](tcesc-enc-1636.md) — Revogado
+- [ENC 1637](tcesc-enc-1637.md) — Em vigor
+- [ENC 1638](tcesc-enc-1638.md) — Em vigor
+- [ENC 1639](tcesc-enc-1639.md) — Em vigor
+- [ENC 1640](tcesc-enc-1640.md) — Em vigor
+- [ENC 1641](tcesc-enc-1641.md) — Revogado
+- [ENC 1642](tcesc-enc-1642.md) — Reformado
+- [ENC 1643](tcesc-enc-1643.md) — Revogado
+- [ENC 1644](tcesc-enc-1644.md) — Reformado
+- [ENC 1645](tcesc-enc-1645.md) — Em vigor
+- [ENC 1646](tcesc-enc-1646.md) — Revogado
+- [ENC 1647](tcesc-enc-1647.md) — Em vigor
+- [ENC 1648](tcesc-enc-1648.md) — Em vigor
+- [ENC 1649](tcesc-enc-1649.md) — Em vigor
+- [ENC 1650](tcesc-enc-1650.md) — Revogado
+- [ENC 1651](tcesc-enc-1651.md) — Em vigor
+- [ENC 1652](tcesc-enc-1652.md) — Em vigor
+- [ENC 1653](tcesc-enc-1653.md) — Em vigor
+- [ENC 1654](tcesc-enc-1654.md) — Reformado
+- [ENC 1655](tcesc-enc-1655.md) — Em vigor
+- [ENC 1656](tcesc-enc-1656.md) — Revogado
+- [ENC 1657](tcesc-enc-1657.md) — Reformado
+- [ENC 1658](tcesc-enc-1658.md) — Em vigor
+- [ENC 1659](tcesc-enc-1659.md) — Em vigor
+- [ENC 1660](tcesc-enc-1660.md) — Em vigor
+- [ENC 1661](tcesc-enc-1661.md) — Em vigor
+- [ENC 1662](tcesc-enc-1662.md) — Reformado
+- [ENC 1663](tcesc-enc-1663.md) — Em vigor
+- [ENC 1664](tcesc-enc-1664.md) — Em vigor
+- [ENC 1665](tcesc-enc-1665.md) — Reformado
+- [ENC 1666](tcesc-enc-1666.md) — Em vigor
+- [ENC 1667](tcesc-enc-1667.md) — Reformado
+- [ENC 1668](tcesc-enc-1668.md) — Revogado
+- [ENC 1669](tcesc-enc-1669.md) — Em vigor
+- [ENC 1670](tcesc-enc-1670.md) — Em vigor
+- [ENC 1671](tcesc-enc-1671.md) — Em vigor
+- [ENC 1672](tcesc-enc-1672.md) — Em vigor
+- [ENC 1673](tcesc-enc-1673.md) — Em vigor
+- [ENC 1674](tcesc-enc-1674.md) — Em vigor
+- [ENC 1675](tcesc-enc-1675.md) — Reformado
+- [ENC 1676](tcesc-enc-1676.md) — Em vigor
+- [ENC 1677](tcesc-enc-1677.md) — Em vigor
+- [ENC 1678](tcesc-enc-1678.md) — Em vigor
+- [ENC 1679](tcesc-enc-1679.md) — Em vigor
+- [ENC 1680](tcesc-enc-1680.md) — Revogado
+- [ENC 1681](tcesc-enc-1681.md) — Reformado
+- [ENC 1682](tcesc-enc-1682.md) — Em vigor
+- [ENC 1683](tcesc-enc-1683.md) — Em vigor
+- [ENC 1684](tcesc-enc-1684.md) — Em vigor
+- [ENC 1685](tcesc-enc-1685.md) — Em vigor
+- [ENC 1686](tcesc-enc-1686.md) — Reformado
+- [ENC 1687](tcesc-enc-1687.md) — Em vigor
+- [ENC 1688](tcesc-enc-1688.md) — Em vigor
+- [ENC 1689](tcesc-enc-1689.md) — Em vigor
+- [ENC 1690](tcesc-enc-1690.md) — Reformado
+- [ENC 1691](tcesc-enc-1691.md) — Revogado
+- [ENC 1692](tcesc-enc-1692.md) — Revogado
+- [ENC 1693](tcesc-enc-1693.md) — Reformado
+- [ENC 1694](tcesc-enc-1694.md) — Em vigor
+- [ENC 1695](tcesc-enc-1695.md) — Revogado
+- [ENC 1696](tcesc-enc-1696.md) — Revogado
+- [ENC 1697](tcesc-enc-1697.md) — Reformado
+- [ENC 1698](tcesc-enc-1698.md) — Em vigor
+- [ENC 1699](tcesc-enc-1699.md) — Reformado
+- [ENC 1700](tcesc-enc-1700.md) — Em vigor
+- [ENC 1701](tcesc-enc-1701.md) — Em vigor
+- [ENC 1702](tcesc-enc-1702.md) — Em vigor
+- [ENC 1703](tcesc-enc-1703.md) — Em vigor
+- [ENC 1704](tcesc-enc-1704.md) — Em vigor
+- [ENC 1705](tcesc-enc-1705.md) — Em vigor
+- [ENC 1706](tcesc-enc-1706.md) — Em vigor
+- [ENC 1707](tcesc-enc-1707.md) — Reformado
+- [ENC 1708](tcesc-enc-1708.md) — Em vigor
+- [ENC 1709](tcesc-enc-1709.md) — Em vigor
+- [ENC 1710](tcesc-enc-1710.md) — Em vigor
+- [ENC 1711](tcesc-enc-1711.md) — Em vigor
+- [ENC 1712](tcesc-enc-1712.md) — Em vigor
+- [ENC 1713](tcesc-enc-1713.md) — Em vigor
+- [ENC 1714](tcesc-enc-1714.md) — Em vigor
+- [ENC 1715](tcesc-enc-1715.md) — Reformado
+- [ENC 1716](tcesc-enc-1716.md) — Reformado
+- [ENC 1717](tcesc-enc-1717.md) — Reformado
+- [ENC 1718](tcesc-enc-1718.md) — Reformado
+- [ENC 1719](tcesc-enc-1719.md) — Em vigor
+- [ENC 1720](tcesc-enc-1720.md) — Em vigor
+- [ENC 1721](tcesc-enc-1721.md) — Em vigor
+- [ENC 1722](tcesc-enc-1722.md) — Em vigor
+- [ENC 1723](tcesc-enc-1723.md) — Em vigor
+- [ENC 1724](tcesc-enc-1724.md) — Em vigor
+- [ENC 1725](tcesc-enc-1725.md) — Em vigor
+- [ENC 1726](tcesc-enc-1726.md) — Em vigor
+- [ENC 1727](tcesc-enc-1727.md) — Em vigor
+- [ENC 1728](tcesc-enc-1728.md) — Em vigor
+- [ENC 1729](tcesc-enc-1729.md) — Em vigor
+- [ENC 1730](tcesc-enc-1730.md) — Reformado
+- [ENC 1731](tcesc-enc-1731.md) — Em vigor
+- [ENC 1732](tcesc-enc-1732.md) — Reformado
+- [ENC 1733](tcesc-enc-1733.md) — Revogado
+- [ENC 1734](tcesc-enc-1734.md) — Em vigor
+- [ENC 1735](tcesc-enc-1735.md) — Em vigor
+- [ENC 1736](tcesc-enc-1736.md) — Em vigor
+- [ENC 1737](tcesc-enc-1737.md) — Em vigor
+- [ENC 1738](tcesc-enc-1738.md) — Em vigor
+- [ENC 1739](tcesc-enc-1739.md) — Revogado
+- [ENC 1740](tcesc-enc-1740.md) — Revogado
+- [ENC 1741](tcesc-enc-1741.md) — Em vigor
+- [ENC 1742](tcesc-enc-1742.md) — Reformado
+- [ENC 1743](tcesc-enc-1743.md) — Em vigor
+- [ENC 1744](tcesc-enc-1744.md) — Reformado
+- [ENC 1745](tcesc-enc-1745.md) — Em vigor
+- [ENC 1746](tcesc-enc-1746.md) — Em vigor
+- [ENC 1747](tcesc-enc-1747.md) — Em vigor
+- [ENC 1748](tcesc-enc-1748.md) — Em vigor
+- [ENC 1749](tcesc-enc-1749.md) — Reformado
+- [ENC 1750](tcesc-enc-1750.md) — Revogado
+- [ENC 1751](tcesc-enc-1751.md) — Em vigor
+- [ENC 1752](tcesc-enc-1752.md) — Reformado
+- [ENC 1753](tcesc-enc-1753.md) — Revogado
+- [ENC 1754](tcesc-enc-1754.md) — Reformado
+- [ENC 1755](tcesc-enc-1755.md) — Em vigor
+- [ENC 1756](tcesc-enc-1756.md) — Em vigor
+- [ENC 1757](tcesc-enc-1757.md) — Em vigor
+- [ENC 1758](tcesc-enc-1758.md) — Reformado
+- [ENC 1759](tcesc-enc-1759.md) — Em vigor
+- [ENC 1760](tcesc-enc-1760.md) — Revogado
+- [ENC 1761](tcesc-enc-1761.md) — Revogado
+- [ENC 1762](tcesc-enc-1762.md) — Em vigor
+- [ENC 1763](tcesc-enc-1763.md) — Em vigor
+- [ENC 1764](tcesc-enc-1764.md) — Revogado
+- [ENC 1765](tcesc-enc-1765.md) — Em vigor
+- [ENC 1766](tcesc-enc-1766.md) — Revogado
+- [ENC 1767](tcesc-enc-1767.md) — Em vigor
+- [ENC 1768](tcesc-enc-1768.md) — Em vigor
+- [ENC 1769](tcesc-enc-1769.md) — Em vigor
+- [ENC 1770](tcesc-enc-1770.md) — Em vigor
+- [ENC 1771](tcesc-enc-1771.md) — Em vigor
+- [ENC 1772](tcesc-enc-1772.md) — Em vigor
+- [ENC 1773](tcesc-enc-1773.md) — Reformado
+- [ENC 1774](tcesc-enc-1774.md) — Revogado
+- [ENC 1775](tcesc-enc-1775.md) — Revogado
+- [ENC 1776](tcesc-enc-1776.md) — Reformado
+- [ENC 1777](tcesc-enc-1777.md) — Em vigor
+- [ENC 1778](tcesc-enc-1778.md) — Reformado
+- [ENC 1779](tcesc-enc-1779.md) — Em vigor
+- [ENC 1780](tcesc-enc-1780.md) — Revogado
+- [ENC 1781](tcesc-enc-1781.md) — Em vigor
+- [ENC 1782](tcesc-enc-1782.md) — Em vigor
+- [ENC 1783](tcesc-enc-1783.md) — Reformado
+- [ENC 1784](tcesc-enc-1784.md) — Em vigor
+- [ENC 1785](tcesc-enc-1785.md) — Em vigor
+- [ENC 1786](tcesc-enc-1786.md) — Em vigor
+- [ENC 1787](tcesc-enc-1787.md) — Em vigor
+- [ENC 1788](tcesc-enc-1788.md) — Reformado
+- [ENC 1789](tcesc-enc-1789.md) — Em vigor
+- [ENC 1790](tcesc-enc-1790.md) — Reformado
+- [ENC 1791](tcesc-enc-1791.md) — Revogado
+- [ENC 1792](tcesc-enc-1792.md) — Revogado
+- [ENC 1793](tcesc-enc-1793.md) — Em vigor
+- [ENC 1794](tcesc-enc-1794.md) — Em vigor
+- [ENC 1795](tcesc-enc-1795.md) — Em vigor
+- [ENC 1796](tcesc-enc-1796.md) — Em vigor
+- [ENC 1797](tcesc-enc-1797.md) — Reformado
+- [ENC 1798](tcesc-enc-1798.md) — Em vigor
+- [ENC 1799](tcesc-enc-1799.md) — Revogado
+- [ENC 1800](tcesc-enc-1800.md) — Em vigor
+- [ENC 1801](tcesc-enc-1801.md) — Em vigor
+- [ENC 1802](tcesc-enc-1802.md) — Reformado
+- [ENC 1803](tcesc-enc-1803.md) — Revogado
+- [ENC 1804](tcesc-enc-1804.md) — Em vigor
+- [ENC 1805](tcesc-enc-1805.md) — Reformado
+- [ENC 1806](tcesc-enc-1806.md) — Em vigor
+- [ENC 1807](tcesc-enc-1807.md) — Revogado
+- [ENC 1808](tcesc-enc-1808.md) — Em vigor
+- [ENC 1809](tcesc-enc-1809.md) — Em vigor
+- [ENC 1810](tcesc-enc-1810.md) — Em vigor
+- [ENC 1811](tcesc-enc-1811.md) — Em vigor
+- [ENC 1812](tcesc-enc-1812.md) — Em vigor
+- [ENC 1813](tcesc-enc-1813.md) — Reformado
+- [ENC 1814](tcesc-enc-1814.md) — Em vigor
+- [ENC 1815](tcesc-enc-1815.md) — Revogado
+- [ENC 1816](tcesc-enc-1816.md) — Em vigor
+- [ENC 1817](tcesc-enc-1817.md) — Reformado
+- [ENC 1818](tcesc-enc-1818.md) — Em vigor
+- [ENC 1819](tcesc-enc-1819.md) — Em vigor
+- [ENC 1820](tcesc-enc-1820.md) — Em vigor
+- [ENC 1821](tcesc-enc-1821.md) — Em vigor
+- [ENC 1822](tcesc-enc-1822.md) — Em vigor
+- [ENC 1823](tcesc-enc-1823.md) — Em vigor
+- [ENC 1824](tcesc-enc-1824.md) — Reformado
+- [ENC 1825](tcesc-enc-1825.md) — Reformado
+- [ENC 1826](tcesc-enc-1826.md) — Reformado
+- [ENC 1827](tcesc-enc-1827.md) — Em vigor
+- [ENC 1828](tcesc-enc-1828.md) — Reformado
+- [ENC 1829](tcesc-enc-1829.md) — Em vigor
+- [ENC 1830](tcesc-enc-1830.md) — Reformado
+- [ENC 1831](tcesc-enc-1831.md) — Em vigor
+- [ENC 1832](tcesc-enc-1832.md) — Em vigor
+- [ENC 1833](tcesc-enc-1833.md) — Em vigor
+- [ENC 1834](tcesc-enc-1834.md) — Em vigor
+- [ENC 1835](tcesc-enc-1835.md) — Em vigor
+- [ENC 1836](tcesc-enc-1836.md) — Revogado
+- [ENC 1837](tcesc-enc-1837.md) — Em vigor
+- [ENC 1838](tcesc-enc-1838.md) — Em vigor
+- [ENC 1839](tcesc-enc-1839.md) — Revogado
+- [ENC 1840](tcesc-enc-1840.md) — Em vigor
+- [ENC 1841](tcesc-enc-1841.md) — Revogado
+- [ENC 1842](tcesc-enc-1842.md) — Em vigor
+- [ENC 1843](tcesc-enc-1843.md) — Em vigor
+- [ENC 1844](tcesc-enc-1844.md) — Em vigor
+- [ENC 1845](tcesc-enc-1845.md) — Reformado
+- [ENC 1846](tcesc-enc-1846.md) — Em vigor
+- [ENC 1847](tcesc-enc-1847.md) — Reformado
+- [ENC 1848](tcesc-enc-1848.md) — Reformado
+- [ENC 1849](tcesc-enc-1849.md) — Em vigor
+- [ENC 1850](tcesc-enc-1850.md) — Em vigor
+- [ENC 1851](tcesc-enc-1851.md) — Em vigor
+- [ENC 1852](tcesc-enc-1852.md) — Em vigor
+- [ENC 1853](tcesc-enc-1853.md) — Revogado
+- [ENC 1854](tcesc-enc-1854.md) — Revogado
+- [ENC 1855](tcesc-enc-1855.md) — Em vigor
+- [ENC 1856](tcesc-enc-1856.md) — Revogado
+- [ENC 1857](tcesc-enc-1857.md) — Em vigor
+- [ENC 1858](tcesc-enc-1858.md) — Em vigor
+- [ENC 1859](tcesc-enc-1859.md) — Reformado
+- [ENC 1860](tcesc-enc-1860.md) — Em vigor
+- [ENC 1861](tcesc-enc-1861.md) — Em vigor
+- [ENC 1862](tcesc-enc-1862.md) — Revogado
+- [ENC 1863](tcesc-enc-1863.md) — Em vigor
+- [ENC 1864](tcesc-enc-1864.md) — Revogado
+- [ENC 1865](tcesc-enc-1865.md) — Em vigor
+- [ENC 1866](tcesc-enc-1866.md) — Em vigor
+- [ENC 1867](tcesc-enc-1867.md) — Revogado
+- [ENC 1868](tcesc-enc-1868.md) — Reformado
+- [ENC 1869](tcesc-enc-1869.md) — Em vigor
+- [ENC 1870](tcesc-enc-1870.md) — Reformado
+- [ENC 1871](tcesc-enc-1871.md) — Em vigor
+- [ENC 1872](tcesc-enc-1872.md) — Em vigor
+- [ENC 1873](tcesc-enc-1873.md) — Em vigor
+- [ENC 1874](tcesc-enc-1874.md) — Em vigor
+- [ENC 1875](tcesc-enc-1875.md) — Em vigor
+- [ENC 1876](tcesc-enc-1876.md) — Reformado
+- [ENC 1877](tcesc-enc-1877.md) — Em vigor
+- [ENC 1878](tcesc-enc-1878.md) — Em vigor
+- [ENC 1879](tcesc-enc-1879.md) — Em vigor
+- [ENC 1880](tcesc-enc-1880.md) — Em vigor
+- [ENC 1881](tcesc-enc-1881.md) — Revogado
+- [ENC 1882](tcesc-enc-1882.md) — Em vigor
+- [ENC 1883](tcesc-enc-1883.md) — Em vigor
+- [ENC 1884](tcesc-enc-1884.md) — Revogado
+- [ENC 1885](tcesc-enc-1885.md) — Em vigor
+- [ENC 1886](tcesc-enc-1886.md) — Em vigor
+- [ENC 1887](tcesc-enc-1887.md) — Em vigor
+- [ENC 1888](tcesc-enc-1888.md) — Em vigor
+- [ENC 1889](tcesc-enc-1889.md) — Reformado
+- [ENC 1890](tcesc-enc-1890.md) — Em vigor
+- [ENC 1891](tcesc-enc-1891.md) — Em vigor
+- [ENC 1892](tcesc-enc-1892.md) — Em vigor
+- [ENC 1893](tcesc-enc-1893.md) — Revogado
+- [ENC 1894](tcesc-enc-1894.md) — Reformado
+- [ENC 1895](tcesc-enc-1895.md) — Reformado
+- [ENC 1896](tcesc-enc-1896.md) — Revogado
+- [ENC 1897](tcesc-enc-1897.md) — Em vigor
+- [ENC 1898](tcesc-enc-1898.md) — Em vigor
+- [ENC 1899](tcesc-enc-1899.md) — Em vigor
+- [ENC 1900](tcesc-enc-1900.md) — Reformado
+- [ENC 1901](tcesc-enc-1901.md) — Em vigor
+- [ENC 1902](tcesc-enc-1902.md) — Em vigor
+- [ENC 1903](tcesc-enc-1903.md) — Em vigor
+- [ENC 1904](tcesc-enc-1904.md) — Em vigor
+- [ENC 1905](tcesc-enc-1905.md) — Em vigor
+- [ENC 1906](tcesc-enc-1906.md) — Reformado
+- [ENC 1907](tcesc-enc-1907.md) — Em vigor
+- [ENC 1908](tcesc-enc-1908.md) — Em vigor
+- [ENC 1909](tcesc-enc-1909.md) — Em vigor
+- [ENC 1910](tcesc-enc-1910.md) — Em vigor
+- [ENC 1911](tcesc-enc-1911.md) — Reformado
+- [ENC 1912](tcesc-enc-1912.md) — Em vigor
+- [ENC 1913](tcesc-enc-1913.md) — Revogado
+- [ENC 1914](tcesc-enc-1914.md) — Reformado
+- [ENC 1915](tcesc-enc-1915.md) — Reformado
+- [ENC 1916](tcesc-enc-1916.md) — Reformado
+- [ENC 1917](tcesc-enc-1917.md) — Em vigor
+- [ENC 1918](tcesc-enc-1918.md) — Revogado
+- [ENC 1919](tcesc-enc-1919.md) — Reformado
+- [ENC 1920](tcesc-enc-1920.md) — Em vigor
+- [ENC 1921](tcesc-enc-1921.md) — Reformado
+- [ENC 1922](tcesc-enc-1922.md) — Em vigor
+- [ENC 1923](tcesc-enc-1923.md) — Em vigor
+- [ENC 1924](tcesc-enc-1924.md) — Em vigor
+- [ENC 1925](tcesc-enc-1925.md) — Reformado
+- [ENC 1926](tcesc-enc-1926.md) — Em vigor
+- [ENC 1927](tcesc-enc-1927.md) — Reformado
+- [ENC 1928](tcesc-enc-1928.md) — Em vigor
+- [ENC 1929](tcesc-enc-1929.md) — Em vigor
+- [ENC 1930](tcesc-enc-1930.md) — Revogado
+- [ENC 1931](tcesc-enc-1931.md) — Em vigor
+- [ENC 1932](tcesc-enc-1932.md) — Em vigor
+- [ENC 1933](tcesc-enc-1933.md) — Em vigor
+- [ENC 1934](tcesc-enc-1934.md) — Reformado
+- [ENC 1935](tcesc-enc-1935.md) — Revogado
+- [ENC 1936](tcesc-enc-1936.md) — Em vigor
+- [ENC 1937](tcesc-enc-1937.md) — Em vigor
+- [ENC 1938](tcesc-enc-1938.md) — Em vigor
+- [ENC 1939](tcesc-enc-1939.md) — Reformado
+- [ENC 1940](tcesc-enc-1940.md) — Reformado
+- [ENC 1941](tcesc-enc-1941.md) — Em vigor
+- [ENC 1942](tcesc-enc-1942.md) — Em vigor
+- [ENC 1943](tcesc-enc-1943.md) — Reformado
+- [ENC 1944](tcesc-enc-1944.md) — Reformado
+- [ENC 1945](tcesc-enc-1945.md) — Em vigor
+- [ENC 1946](tcesc-enc-1946.md) — Reformado
+- [ENC 1947](tcesc-enc-1947.md) — Em vigor
+- [ENC 1948](tcesc-enc-1948.md) — Em vigor
+- [ENC 1949](tcesc-enc-1949.md) — Em vigor
+- [ENC 1950](tcesc-enc-1950.md) — Em vigor
+- [ENC 1951](tcesc-enc-1951.md) — Revogado
+- [ENC 1952](tcesc-enc-1952.md) — Reformado
+- [ENC 1953](tcesc-enc-1953.md) — Revogado
+- [ENC 1954](tcesc-enc-1954.md) — Em vigor
+- [ENC 1955](tcesc-enc-1955.md) — Revogado
+- [ENC 1956](tcesc-enc-1956.md) — Em vigor
+- [ENC 1957](tcesc-enc-1957.md) — Em vigor
+- [ENC 1958](tcesc-enc-1958.md) — Revogado
+- [ENC 1959](tcesc-enc-1959.md) — Em vigor
+- [ENC 1960](tcesc-enc-1960.md) — Em vigor
+- [ENC 1961](tcesc-enc-1961.md) — Em vigor
+- [ENC 1962](tcesc-enc-1962.md) — Reformado
+- [ENC 1963](tcesc-enc-1963.md) — Em vigor
+- [ENC 1964](tcesc-enc-1964.md) — Em vigor
+- [ENC 1965](tcesc-enc-1965.md) — Revogado
+- [ENC 1966](tcesc-enc-1966.md) — Em vigor
+- [ENC 1967](tcesc-enc-1967.md) — Em vigor
+- [ENC 1968](tcesc-enc-1968.md) — Em vigor
+- [ENC 1969](tcesc-enc-1969.md) — Em vigor
+- [ENC 1970](tcesc-enc-1970.md) — Revogado
+- [ENC 1971](tcesc-enc-1971.md) — Em vigor
+- [ENC 1972](tcesc-enc-1972.md) — Reformado
+- [ENC 1973](tcesc-enc-1973.md) — Em vigor
+- [ENC 1974](tcesc-enc-1974.md) — Em vigor
+- [ENC 1975](tcesc-enc-1975.md) — Em vigor
+- [ENC 1976](tcesc-enc-1976.md) — Revogado
+- [ENC 1977](tcesc-enc-1977.md) — Em vigor
+- [ENC 1978](tcesc-enc-1978.md) — Em vigor
+- [ENC 1979](tcesc-enc-1979.md) — Em vigor
+- [ENC 1980](tcesc-enc-1980.md) — Em vigor
+- [ENC 1981](tcesc-enc-1981.md) — Em vigor
+- [ENC 1982](tcesc-enc-1982.md) — Revogado
+- [ENC 1983](tcesc-enc-1983.md) — Em vigor
+- [ENC 1984](tcesc-enc-1984.md) — Em vigor
+- [ENC 1985](tcesc-enc-1985.md) — Em vigor
+- [ENC 1986](tcesc-enc-1986.md) — Em vigor
+- [ENC 1987](tcesc-enc-1987.md) — Reformado
+- [ENC 1988](tcesc-enc-1988.md) — Em vigor
+- [ENC 1989](tcesc-enc-1989.md) — Em vigor
+- [ENC 1990](tcesc-enc-1990.md) — Em vigor
+- [ENC 1991](tcesc-enc-1991.md) — Reformado
+- [ENC 1992](tcesc-enc-1992.md) — Reformado
+- [ENC 1993](tcesc-enc-1993.md) — Em vigor
+- [ENC 1994](tcesc-enc-1994.md) — Em vigor
+- [ENC 1995](tcesc-enc-1995.md) — Em vigor
+- [ENC 1996](tcesc-enc-1996.md) — Em vigor
+- [ENC 1997](tcesc-enc-1997.md) — Em vigor
+- [ENC 1998](tcesc-enc-1998.md) — Em vigor
+- [ENC 1999](tcesc-enc-1999.md) — Em vigor
+- [ENC 2000](tcesc-enc-2000.md) — Em vigor
+- [ENC 2001](tcesc-enc-2001.md) — Reformado
+- [ENC 2002](tcesc-enc-2002.md) — Revogado
+- [ENC 2003](tcesc-enc-2003.md) — Reformado
+- [ENC 2004](tcesc-enc-2004.md) — Em vigor
+- [ENC 2005](tcesc-enc-2005.md) — Revogado
+- [ENC 2006](tcesc-enc-2006.md) — Revogado
+- [ENC 2007](tcesc-enc-2007.md) — Reformado
+- [ENC 2008](tcesc-enc-2008.md) — Em vigor
+- [ENC 2009](tcesc-enc-2009.md) — Reformado
+- [ENC 2010](tcesc-enc-2010.md) — Em vigor
+- [ENC 2011](tcesc-enc-2011.md) — Em vigor
+- [ENC 2012](tcesc-enc-2012.md) — Revogado
+- [ENC 2013](tcesc-enc-2013.md) — Revogado
+- [ENC 2014](tcesc-enc-2014.md) — Em vigor
+- [ENC 2015](tcesc-enc-2015.md) — Em vigor
+- [ENC 2016](tcesc-enc-2016.md) — Em vigor
+- [ENC 2017](tcesc-enc-2017.md) — Revogado
+- [ENC 2018](tcesc-enc-2018.md) — Em vigor
+- [ENC 2019](tcesc-enc-2019.md) — Reformado
+- [ENC 2020](tcesc-enc-2020.md) — Reformado
+- [ENC 2021](tcesc-enc-2021.md) — Em vigor
+- [ENC 2022](tcesc-enc-2022.md) — Em vigor
+- [ENC 2023](tcesc-enc-2023.md) — Em vigor
+- [ENC 2024](tcesc-enc-2024.md) — Em vigor
+- [ENC 2025](tcesc-enc-2025.md) — Em vigor
+- [ENC 2026](tcesc-enc-2026.md) — Em vigor
+- [ENC 2027](tcesc-enc-2027.md) — Revogado
+- [ENC 2028](tcesc-enc-2028.md) — Reformado
+- [ENC 2029](tcesc-enc-2029.md) — Em vigor
+- [ENC 2030](tcesc-enc-2030.md) — Reformado
+- [ENC 2031](tcesc-enc-2031.md) — Em vigor
+- [ENC 2032](tcesc-enc-2032.md) — Em vigor
+- [ENC 2033](tcesc-enc-2033.md) — Em vigor
+- [ENC 2034](tcesc-enc-2034.md) — Em vigor
+- [ENC 2035](tcesc-enc-2035.md) — Em vigor
+- [ENC 2036](tcesc-enc-2036.md) — Em vigor
+- [ENC 2037](tcesc-enc-2037.md) — Em vigor
+- [ENC 2038](tcesc-enc-2038.md) — Em vigor
+- [ENC 2039](tcesc-enc-2039.md) — Reformado
+- [ENC 2040](tcesc-enc-2040.md) — Em vigor
+- [ENC 2041](tcesc-enc-2041.md) — Revogado
+- [ENC 2042](tcesc-enc-2042.md) — Em vigor
+- [ENC 2043](tcesc-enc-2043.md) — Reformado
+- [ENC 2044](tcesc-enc-2044.md) — Revogado
+- [ENC 2045](tcesc-enc-2045.md) — Em vigor
+- [ENC 2046](tcesc-enc-2046.md) — Em vigor
+- [ENC 2047](tcesc-enc-2047.md) — Em vigor
+- [ENC 2048](tcesc-enc-2048.md) — Revogado
+- [ENC 2049](tcesc-enc-2049.md) — Reformado
+- [ENC 2050](tcesc-enc-2050.md) — Reformado
+- [ENC 2051](tcesc-enc-2051.md) — Em vigor
+- [ENC 2052](tcesc-enc-2052.md) — Reformado
+- [ENC 2053](tcesc-enc-2053.md) — Em vigor
+- [ENC 2054](tcesc-enc-2054.md) — Em vigor
+- [ENC 2055](tcesc-enc-2055.md) — Em vigor
+- [ENC 2056](tcesc-enc-2056.md) — Em vigor
+- [ENC 2057](tcesc-enc-2057.md) — Em vigor
+- [ENC 2058](tcesc-enc-2058.md) — Em vigor
+- [ENC 2059](tcesc-enc-2059.md) — Em vigor
+- [ENC 2060](tcesc-enc-2060.md) — Em vigor
+- [ENC 2061](tcesc-enc-2061.md) — Revogado
+- [ENC 2062](tcesc-enc-2062.md) — Em vigor
+- [ENC 2063](tcesc-enc-2063.md) — Em vigor
+- [ENC 2064](tcesc-enc-2064.md) — Em vigor
+- [ENC 2065](tcesc-enc-2065.md) — Em vigor
+- [ENC 2066](tcesc-enc-2066.md) — Em vigor
+- [ENC 2067](tcesc-enc-2067.md) — Revogado
+- [ENC 2068](tcesc-enc-2068.md) — Em vigor
+- [ENC 2069](tcesc-enc-2069.md) — Em vigor
+- [ENC 2070](tcesc-enc-2070.md) — Revogado
+- [ENC 2071](tcesc-enc-2071.md) — Em vigor
+- [ENC 2072](tcesc-enc-2072.md) — Reformado
+- [ENC 2073](tcesc-enc-2073.md) — Reformado
+- [ENC 2074](tcesc-enc-2074.md) — Em vigor
+- [ENC 2075](tcesc-enc-2075.md) — Reformado
+- [ENC 2076](tcesc-enc-2076.md) — Reformado
+- [ENC 2077](tcesc-enc-2077.md) — Em vigor
+- [ENC 2078](tcesc-enc-2078.md) — Em vigor
+- [ENC 2079](tcesc-enc-2079.md) — Em vigor
+- [ENC 2080](tcesc-enc-2080.md) — Em vigor
+- [ENC 2081](tcesc-enc-2081.md) — Reformado
+- [ENC 2082](tcesc-enc-2082.md) — Em vigor
+- [ENC 2083](tcesc-enc-2083.md) — Em vigor
+- [ENC 2084](tcesc-enc-2084.md) — Em vigor
+- [ENC 2085](tcesc-enc-2085.md) — Em vigor
+- [ENC 2086](tcesc-enc-2086.md) — Revogado
+- [ENC 2087](tcesc-enc-2087.md) — Em vigor
+- [ENC 2088](tcesc-enc-2088.md) — Em vigor
+- [ENC 2089](tcesc-enc-2089.md) — Em vigor
+- [ENC 2090](tcesc-enc-2090.md) — Reformado
+- [ENC 2091](tcesc-enc-2091.md) — Em vigor
+- [ENC 2092](tcesc-enc-2092.md) — Em vigor
+- [ENC 2093](tcesc-enc-2093.md) — Reformado
+- [ENC 2094](tcesc-enc-2094.md) — Reformado
+- [ENC 2095](tcesc-enc-2095.md) — Reformado
+- [ENC 2096](tcesc-enc-2096.md) — Reformado
+- [ENC 2097](tcesc-enc-2097.md) — Em vigor
+- [ENC 2098](tcesc-enc-2098.md) — Reformado
+- [ENC 2099](tcesc-enc-2099.md) — Em vigor
+- [ENC 2100](tcesc-enc-2100.md) — Em vigor
+- [ENC 2101](tcesc-enc-2101.md) — Reformado
+- [ENC 2102](tcesc-enc-2102.md) — Reformado
+- [ENC 2103](tcesc-enc-2103.md) — Reformado
+- [ENC 2104](tcesc-enc-2104.md) — Em vigor
+- [ENC 2105](tcesc-enc-2105.md) — Reformado
+- [ENC 2106](tcesc-enc-2106.md) — Reformado
+- [ENC 2107](tcesc-enc-2107.md) — Reformado
+- [ENC 2108](tcesc-enc-2108.md) — Reformado
+- [ENC 2109](tcesc-enc-2109.md) — Em vigor
+- [ENC 2110](tcesc-enc-2110.md) — Em vigor
+- [ENC 2111](tcesc-enc-2111.md) — Em vigor
+- [ENC 2112](tcesc-enc-2112.md) — Em vigor
+- [ENC 2113](tcesc-enc-2113.md) — Em vigor
+- [ENC 2114](tcesc-enc-2114.md) — Em vigor
+- [ENC 2115](tcesc-enc-2115.md) — Em vigor
+- [ENC 2116](tcesc-enc-2116.md) — Em vigor
+- [ENC 2117](tcesc-enc-2117.md) — Em vigor
+- [ENC 2118](tcesc-enc-2118.md) — Em vigor
+- [ENC 2119](tcesc-enc-2119.md) — Reformado
+- [ENC 2120](tcesc-enc-2120.md) — Em vigor
+- [ENC 2121](tcesc-enc-2121.md) — Em vigor
+- [ENC 2122](tcesc-enc-2122.md) — Em vigor
+- [ENC 2123](tcesc-enc-2123.md) — Em vigor
+- [ENC 2124](tcesc-enc-2124.md) — Em vigor
+- [ENC 2125](tcesc-enc-2125.md) — Em vigor
+- [ENC 2126](tcesc-enc-2126.md) — Reformado
+- [ENC 2127](tcesc-enc-2127.md) — Reformado
+- [ENC 2128](tcesc-enc-2128.md) — Em vigor
+- [ENC 2129](tcesc-enc-2129.md) — Em vigor
+- [ENC 2130](tcesc-enc-2130.md) — Em vigor
+- [ENC 2131](tcesc-enc-2131.md) — Reformado
+- [ENC 2132](tcesc-enc-2132.md) — Em vigor
+- [ENC 2133](tcesc-enc-2133.md) — Reformado
+- [ENC 2134](tcesc-enc-2134.md) — Em vigor
+- [ENC 2135](tcesc-enc-2135.md) — Reformado
+- [ENC 2136](tcesc-enc-2136.md) — Em vigor
+- [ENC 2137](tcesc-enc-2137.md) — Em vigor
+- [ENC 2138](tcesc-enc-2138.md) — Em vigor
+- [ENC 2139](tcesc-enc-2139.md) — Em vigor
+- [ENC 2140](tcesc-enc-2140.md) — Em vigor
+- [ENC 2141](tcesc-enc-2141.md) — Em vigor
+- [ENC 2142](tcesc-enc-2142.md) — Em vigor
+- [ENC 2143](tcesc-enc-2143.md) — Reformado
+- [ENC 2144](tcesc-enc-2144.md) — Em vigor
+- [ENC 2145](tcesc-enc-2145.md) — Em vigor
+- [ENC 2146](tcesc-enc-2146.md) — Em vigor
+- [ENC 2147](tcesc-enc-2147.md) — Reformado
+- [ENC 2148](tcesc-enc-2148.md) — Reformado
+- [ENC 2149](tcesc-enc-2149.md) — Reformado
+- [ENC 2150](tcesc-enc-2150.md) — Revogado
+- [ENC 2151](tcesc-enc-2151.md) — Reformado
+- [ENC 2152](tcesc-enc-2152.md) — Em vigor
+- [ENC 2153](tcesc-enc-2153.md) — Em vigor
+- [ENC 2154](tcesc-enc-2154.md) — Em vigor
+- [ENC 2155](tcesc-enc-2155.md) — Em vigor
+- [ENC 2156](tcesc-enc-2156.md) — Revogado
+- [ENC 2157](tcesc-enc-2157.md) — Em vigor
+- [ENC 2158](tcesc-enc-2158.md) — Em vigor
+- [ENC 2159](tcesc-enc-2159.md) — Em vigor
+- [ENC 2160](tcesc-enc-2160.md) — Em vigor
+- [ENC 2161](tcesc-enc-2161.md) — Reformado
+- [ENC 2162](tcesc-enc-2162.md) — Em vigor
+- [ENC 2163](tcesc-enc-2163.md) — Reformado
+- [ENC 2164](tcesc-enc-2164.md) — Reformado
+- [ENC 2165](tcesc-enc-2165.md) — Reformado
+- [ENC 2166](tcesc-enc-2166.md) — Em vigor
+- [ENC 2167](tcesc-enc-2167.md) — Em vigor
+- [ENC 2168](tcesc-enc-2168.md) — Em vigor
+- [ENC 2169](tcesc-enc-2169.md) — Em vigor
+- [ENC 2170](tcesc-enc-2170.md) — Em vigor
+- [ENC 2171](tcesc-enc-2171.md) — Em vigor
+- [ENC 2172](tcesc-enc-2172.md) — Em vigor
+- [ENC 2173](tcesc-enc-2173.md) — Em vigor
+- [ENC 2174](tcesc-enc-2174.md) — Em vigor
+- [ENC 2175](tcesc-enc-2175.md) — Em vigor
+- [ENC 2176](tcesc-enc-2176.md) — Reformado
+- [ENC 2177](tcesc-enc-2177.md) — Em vigor
+- [ENC 2178](tcesc-enc-2178.md) — Reformado
+- [ENC 2179](tcesc-enc-2179.md) — Em vigor
+- [ENC 2180](tcesc-enc-2180.md) — Em vigor
+- [ENC 2181](tcesc-enc-2181.md) — Em vigor
+- [ENC 2182](tcesc-enc-2182.md) — Em vigor
+- [ENC 2183](tcesc-enc-2183.md) — Em vigor
+- [ENC 2184](tcesc-enc-2184.md) — Em vigor
+- [ENC 2185](tcesc-enc-2185.md) — Em vigor
+- [ENC 2186](tcesc-enc-2186.md) — Em vigor
+- [ENC 2187](tcesc-enc-2187.md) — Em vigor
+- [ENC 2188](tcesc-enc-2188.md) — Reformado
+- [ENC 2189](tcesc-enc-2189.md) — Em vigor
+- [ENC 2190](tcesc-enc-2190.md) — Em vigor
+- [ENC 2191](tcesc-enc-2191.md) — Reformado
+- [ENC 2192](tcesc-enc-2192.md) — Em vigor
+- [ENC 2193](tcesc-enc-2193.md) — Em vigor
+- [ENC 2194](tcesc-enc-2194.md) — Em vigor
+- [ENC 2195](tcesc-enc-2195.md) — Em vigor
+- [ENC 2196](tcesc-enc-2196.md) — Reformado
+- [ENC 2197](tcesc-enc-2197.md) — Em vigor
+- [ENC 2198](tcesc-enc-2198.md) — Em vigor
+- [ENC 2199](tcesc-enc-2199.md) — Em vigor
+- [ENC 2200](tcesc-enc-2200.md) — Em vigor
+- [ENC 2201](tcesc-enc-2201.md) — Em vigor
+- [ENC 2202](tcesc-enc-2202.md) — Em vigor
+- [ENC 2203](tcesc-enc-2203.md) — Em vigor
+- [ENC 2204](tcesc-enc-2204.md) — Em vigor
+- [ENC 2205](tcesc-enc-2205.md) — Reformado
+- [ENC 2206](tcesc-enc-2206.md) — Em vigor
+- [ENC 2207](tcesc-enc-2207.md) — Em vigor
+- [ENC 2208](tcesc-enc-2208.md) — Em vigor
+- [ENC 2209](tcesc-enc-2209.md) — Em vigor
+- [ENC 2210](tcesc-enc-2210.md) — Em vigor
+- [ENC 2211](tcesc-enc-2211.md) — Em vigor
+- [ENC 2212](tcesc-enc-2212.md) — Em vigor
+- [ENC 2213](tcesc-enc-2213.md) — Revogado
+- [ENC 2214](tcesc-enc-2214.md) — Em vigor
+- [ENC 2215](tcesc-enc-2215.md) — Em vigor
+- [ENC 2216](tcesc-enc-2216.md) — Em vigor
+- [ENC 2217](tcesc-enc-2217.md) — Em vigor
+- [ENC 2218](tcesc-enc-2218.md) — Em vigor
+- [ENC 2219](tcesc-enc-2219.md) — Em vigor
+- [ENC 2220](tcesc-enc-2220.md) — Em vigor
+- [ENC 2221](tcesc-enc-2221.md) — Em vigor
+- [ENC 2222](tcesc-enc-2222.md) — Em vigor
+- [ENC 2223](tcesc-enc-2223.md) — Em vigor
+- [ENC 2224](tcesc-enc-2224.md) — Em vigor
+- [ENC 2225](tcesc-enc-2225.md) — Em vigor
+- [ENC 2226](tcesc-enc-2226.md) — Em vigor
+- [ENC 2227](tcesc-enc-2227.md) — Em vigor
+- [ENC 2228](tcesc-enc-2228.md) — Em vigor
+- [ENC 2229](tcesc-enc-2229.md) — Em vigor
+- [ENC 2230](tcesc-enc-2230.md) — Reformado
+- [ENC 2231](tcesc-enc-2231.md) — Em vigor
+- [ENC 2232](tcesc-enc-2232.md) — Reformado
+- [ENC 2233](tcesc-enc-2233.md) — Em vigor
+- [ENC 2234](tcesc-enc-2234.md) — Em vigor
+- [ENC 2235](tcesc-enc-2235.md) — Reformado
+- [ENC 2236](tcesc-enc-2236.md) — Em vigor
+- [ENC 2237](tcesc-enc-2237.md) — Em vigor
+- [ENC 2238](tcesc-enc-2238.md) — Revogado
+- [ENC 2240](tcesc-enc-2240.md) — Em vigor
+- [ENC 2241](tcesc-enc-2241.md) — Em vigor
+- [ENC 2242](tcesc-enc-2242.md) — Em vigor
+- [ENC 2243](tcesc-enc-2243.md) — Em vigor
+- [ENC 2244](tcesc-enc-2244.md) — Reformado
+- [ENC 2245](tcesc-enc-2245.md) — Em vigor
+- [ENC 2246](tcesc-enc-2246.md) — Em vigor
+- [ENC 2247](tcesc-enc-2247.md) — Em vigor
+- [ENC 2248](tcesc-enc-2248.md) — Em vigor
+- [ENC 2249](tcesc-enc-2249.md) — Em vigor
+- [ENC 2250](tcesc-enc-2250.md) — Reformado
+- [ENC 2251](tcesc-enc-2251.md) — Em vigor
+- [ENC 2252](tcesc-enc-2252.md) — Em vigor
+- [ENC 2253](tcesc-enc-2253.md) — Em vigor
+- [ENC 2254](tcesc-enc-2254.md) — Em vigor
+- [ENC 2255](tcesc-enc-2255.md) — Em vigor
+- [ENC 2256](tcesc-enc-2256.md) — Em vigor
+- [ENC 2257](tcesc-enc-2257.md) — Reformado
+- [ENC 2258](tcesc-enc-2258.md) — Em vigor
+- [ENC 2259](tcesc-enc-2259.md) — Reformado
+- [ENC 2260](tcesc-enc-2260.md) — Em vigor
+- [ENC 2261](tcesc-enc-2261.md) — Em vigor
+- [ENC 2262](tcesc-enc-2262.md) — Em vigor
+- [ENC 2263](tcesc-enc-2263.md) — Em vigor
+- [ENC 2264](tcesc-enc-2264.md) — Em vigor
+- [ENC 2265](tcesc-enc-2265.md) — Reformado
+- [ENC 2266](tcesc-enc-2266.md) — Em vigor
+- [ENC 2267](tcesc-enc-2267.md) — Em vigor
+- [ENC 2268](tcesc-enc-2268.md) — Em vigor
+- [ENC 2269](tcesc-enc-2269.md) — Revogado
+- [ENC 2270](tcesc-enc-2270.md) — Em vigor
+- [ENC 2271](tcesc-enc-2271.md) — Em vigor
+- [ENC 2272](tcesc-enc-2272.md) — Em vigor
+- [ENC 2273](tcesc-enc-2273.md) — Em vigor
+- [ENC 2274](tcesc-enc-2274.md) — Reformado
+- [ENC 2275](tcesc-enc-2275.md) — Em vigor
+- [ENC 2276](tcesc-enc-2276.md) — Em vigor
+- [ENC 2277](tcesc-enc-2277.md) — Em vigor
+- [ENC 2278](tcesc-enc-2278.md) — Em vigor
+- [ENC 2279](tcesc-enc-2279.md) — Reformado
+- [ENC 2280](tcesc-enc-2280.md) — Em vigor
+- [ENC 2281](tcesc-enc-2281.md) — Revogado
+- [ENC 2282](tcesc-enc-2282.md) — Em vigor
+- [ENC 2283](tcesc-enc-2283.md) — Em vigor
+- [ENC 2284](tcesc-enc-2284.md) — Em vigor
+- [ENC 2285](tcesc-enc-2285.md) — Reformado
+- [ENC 2286](tcesc-enc-2286.md) — Em vigor
+- [ENC 2287](tcesc-enc-2287.md) — Em vigor
+- [ENC 2288](tcesc-enc-2288.md) — Em vigor
+- [ENC 2289](tcesc-enc-2289.md) — Em vigor
+- [ENC 2290](tcesc-enc-2290.md) — Em vigor
+- [ENC 2291](tcesc-enc-2291.md) — Em vigor
+- [ENC 2292](tcesc-enc-2292.md) — Em vigor
+- [ENC 2293](tcesc-enc-2293.md) — Em vigor
+- [ENC 2294](tcesc-enc-2294.md) — Em vigor
+- [ENC 2295](tcesc-enc-2295.md) — Em vigor
+- [ENC 2296](tcesc-enc-2296.md) — Reformado
+- [ENC 2297](tcesc-enc-2297.md) — Em vigor
+- [ENC 2298](tcesc-enc-2298.md) — Em vigor
+- [ENC 2299](tcesc-enc-2299.md) — Em vigor
+- [ENC 2300](tcesc-enc-2300.md) — Em vigor
+- [ENC 2301](tcesc-enc-2301.md) — Em vigor
+- [ENC 2302](tcesc-enc-2302.md) — Em vigor
+- [ENC 2303](tcesc-enc-2303.md) — Reformado
+- [ENC 2304](tcesc-enc-2304.md) — Em vigor
+- [ENC 2305](tcesc-enc-2305.md) — Em vigor
+- [ENC 2306](tcesc-enc-2306.md) — Em vigor
+- [ENC 2307](tcesc-enc-2307.md) — Em vigor
+- [ENC 2308](tcesc-enc-2308.md) — Em vigor
+- [ENC 2309](tcesc-enc-2309.md) — Em vigor
+- [ENC 2310](tcesc-enc-2310.md) — Em vigor
+- [ENC 2311](tcesc-enc-2311.md) — Em vigor
+- [ENC 2312](tcesc-enc-2312.md) — Em vigor
+- [ENC 2313](tcesc-enc-2313.md) — Em vigor
+- [ENC 2314](tcesc-enc-2314.md) — Reformado
+- [ENC 2315](tcesc-enc-2315.md) — Em vigor
+- [ENC 2316](tcesc-enc-2316.md) — Em vigor
+- [ENC 2317](tcesc-enc-2317.md) — Em vigor
+- [ENC 2318](tcesc-enc-2318.md) — Em vigor
+- [ENC 2319](tcesc-enc-2319.md) — Em vigor
+- [ENC 2320](tcesc-enc-2320.md) — Reformado
+- [ENC 2321](tcesc-enc-2321.md) — Revogado
+- [ENC 2322](tcesc-enc-2322.md) — Em vigor
+- [ENC 2323](tcesc-enc-2323.md) — Reformado
+- [ENC 2324](tcesc-enc-2324.md) — Reformado
+- [ENC 2325](tcesc-enc-2325.md) — Em vigor
+- [ENC 2326](tcesc-enc-2326.md) — Em vigor
+- [ENC 2327](tcesc-enc-2327.md) — Em vigor
+- [ENC 2328](tcesc-enc-2328.md) — Em vigor
+- [ENC 2329](tcesc-enc-2329.md) — Reformado
+- [ENC 2330](tcesc-enc-2330.md) — Em vigor
+- [ENC 2331](tcesc-enc-2331.md) — Reformado
+- [ENC 2332](tcesc-enc-2332.md) — Em vigor
+- [ENC 2333](tcesc-enc-2333.md) — Em vigor
+- [ENC 2334](tcesc-enc-2334.md) — Em vigor
+- [ENC 2335](tcesc-enc-2335.md) — Em vigor
+- [ENC 2336](tcesc-enc-2336.md) — Reformado
+- [ENC 2337](tcesc-enc-2337.md) — Revogado
+- [ENC 2338](tcesc-enc-2338.md) — Reformado
+- [ENC 2339](tcesc-enc-2339.md) — Revogado
+- [ENC 2340](tcesc-enc-2340.md) — Em vigor
+- [ENC 2341](tcesc-enc-2341.md) — Em vigor
+- [ENC 2342](tcesc-enc-2342.md) — Em vigor
+- [ENC 2343](tcesc-enc-2343.md) — Em vigor
+- [ENC 2344](tcesc-enc-2344.md) — Em vigor
+- [ENC 2345](tcesc-enc-2345.md) — Em vigor
+- [ENC 2346](tcesc-enc-2346.md) — Em vigor
+- [ENC 2347](tcesc-enc-2347.md) — Em vigor
+- [ENC 2348](tcesc-enc-2348.md) — Em vigor
+- [ENC 2349](tcesc-enc-2349.md) — Em vigor
+- [ENC 2350](tcesc-enc-2350.md) — Em vigor
+- [ENC 2351](tcesc-enc-2351.md) — Em vigor
+- [ENC 2352](tcesc-enc-2352.md) — Em vigor
+- [ENC 2353](tcesc-enc-2353.md) — Em vigor
+- [ENC 2354](tcesc-enc-2354.md) — Em vigor
+- [ENC 2355](tcesc-enc-2355.md) — Em vigor
+- [ENC 2356](tcesc-enc-2356.md) — Em vigor
+- [ENC 2357](tcesc-enc-2357.md) — Em vigor
+- [ENC 2358](tcesc-enc-2358.md) — Em vigor
+- [ENC 2359](tcesc-enc-2359.md) — Em vigor
+- [ENC 2360](tcesc-enc-2360.md) — Em vigor
+- [ENC 2361](tcesc-enc-2361.md) — Em vigor
+- [ENC 2362](tcesc-enc-2362.md) — Em vigor
+- [ENC 2363](tcesc-enc-2363.md) — Em vigor
+- [ENC 2364](tcesc-enc-2364.md) — Em vigor
+- [ENC 2365](tcesc-enc-2365.md) — Em vigor
+- [ENC 2366](tcesc-enc-2366.md) — Reformado
+- [ENC 2367](tcesc-enc-2367.md) — Em vigor
+- [ENC 2368](tcesc-enc-2368.md) — Em vigor
+- [ENC 2369](tcesc-enc-2369.md) — Em vigor
+- [ENC 2370](tcesc-enc-2370.md) — Reformado
+- [ENC 2371](tcesc-enc-2371.md) — Em vigor
+- [ENC 2372](tcesc-enc-2372.md) — Reformado
+- [ENC 2373](tcesc-enc-2373.md) — Em vigor
+- [ENC 2374](tcesc-enc-2374.md) — Em vigor
+- [ENC 2375](tcesc-enc-2375.md) — Em vigor
+- [ENC 2376](tcesc-enc-2376.md) — Em vigor
+- [ENC 2377](tcesc-enc-2377.md) — Em vigor
+- [ENC 2378](tcesc-enc-2378.md) — Em vigor
+- [ENC 2379](tcesc-enc-2379.md) — Revogado
+- [ENC 2380](tcesc-enc-2380.md) — Reformado
+- [ENC 2381](tcesc-enc-2381.md) — Reformado
+- [ENC 2382](tcesc-enc-2382.md) — Em vigor
+- [ENC 2383](tcesc-enc-2383.md) — Em vigor
+- [ENC 2384](tcesc-enc-2384.md) — Em vigor
+- [ENC 2385](tcesc-enc-2385.md) — Em vigor
+- [ENC 2386](tcesc-enc-2386.md) — Em vigor
+- [ENC 2387](tcesc-enc-2387.md) — Em vigor
+- [ENC 2388](tcesc-enc-2388.md) — Em vigor
+- [ENC 2389](tcesc-enc-2389.md) — Em vigor
+- [ENC 2390](tcesc-enc-2390.md) — Em vigor
+- [ENC 2391](tcesc-enc-2391.md) — Em vigor
+- [ENC 2392](tcesc-enc-2392.md) — Em vigor
+- [ENC 2393](tcesc-enc-2393.md) — Reformado
+- [ENC 2394](tcesc-enc-2394.md) — Reformado
+- [ENC 2395](tcesc-enc-2395.md) — Em vigor
+- [ENC 2396](tcesc-enc-2396.md) — Revogado
+- [ENC 2397](tcesc-enc-2397.md) — Em vigor
+- [ENC 2398](tcesc-enc-2398.md) — Em vigor
+- [ENC 2399](tcesc-enc-2399.md) — Em vigor
+- [ENC 2400](tcesc-enc-2400.md) — Em vigor
+- [ENC 2401](tcesc-enc-2401.md) — Reformado
+- [ENC 2402](tcesc-enc-2402.md) — Em vigor
+- [ENC 2403](tcesc-enc-2403.md) — Em vigor
+- [ENC 2404](tcesc-enc-2404.md) — Reformado
+- [ENC 2405](tcesc-enc-2405.md) — Em vigor
+- [ENC 2406](tcesc-enc-2406.md) — Em vigor
+- [ENC 2407](tcesc-enc-2407.md) — Em vigor
+- [ENC 2408](tcesc-enc-2408.md) — Em vigor
+- [ENC 2409](tcesc-enc-2409.md) — Em vigor
+- [ENC 2410](tcesc-enc-2410.md) — Reformado
+- [ENC 2411](tcesc-enc-2411.md) — Em vigor
+- [ENC 2412](tcesc-enc-2412.md) — Em vigor
+- [ENC 2413](tcesc-enc-2413.md) — Em vigor
+- [ENC 2414](tcesc-enc-2414.md) — Em vigor
+- [ENC 2415](tcesc-enc-2415.md) — Em vigor
+- [ENC 2416](tcesc-enc-2416.md) — Em vigor
+- [ENC 2417](tcesc-enc-2417.md) — Em vigor
+- [ENC 2418](tcesc-enc-2418.md) — Em vigor
+- [ENC 2419](tcesc-enc-2419.md) — Em vigor
+- [ENC 2420](tcesc-enc-2420.md) — Em vigor
+- [ENC 2421](tcesc-enc-2421.md) — Em vigor
+- [ENC 2422](tcesc-enc-2422.md) — Em vigor
+- [ENC 2423](tcesc-enc-2423.md) — Em vigor
+- [ENC 2424](tcesc-enc-2424.md) — Em vigor
+- [ENC 2425](tcesc-enc-2425.md) — Em vigor
+- [ENC 2426](tcesc-enc-2426.md) — Em vigor
+- [ENC 2427](tcesc-enc-2427.md) — Em vigor
+- [ENC 2428](tcesc-enc-2428.md) — Em vigor
+- [ENC 2429](tcesc-enc-2429.md) — Em vigor
+- [ENC 2430](tcesc-enc-2430.md) — Em vigor
+- [ENC 2431](tcesc-enc-2431.md) — Em vigor
+- [ENC 2432](tcesc-enc-2432.md) — Em vigor
+- [ENC 2433](tcesc-enc-2433.md) — Em vigor
+- [ENC 2434](tcesc-enc-2434.md) — Em vigor
+- [ENC 2435](tcesc-enc-2435.md) — Em vigor
+- [ENC 2436](tcesc-enc-2436.md) — Em vigor
+- [ENC 2437](tcesc-enc-2437.md) — Reformado
+- [ENC 2438](tcesc-enc-2438.md) — Em vigor
+- [ENC 2439](tcesc-enc-2439.md) — Em vigor
+- [ENC 2440](tcesc-enc-2440.md) — Reformado
+- [ENC 2441](tcesc-enc-2441.md) — Em vigor
+- [ENC 2442](tcesc-enc-2442.md) — Em vigor
+- [ENC 2443](tcesc-enc-2443.md) — Em vigor
+- [ENC 2444](tcesc-enc-2444.md) — Em vigor
+- [ENC 2445](tcesc-enc-2445.md) — Em vigor
+- [ENC 2446](tcesc-enc-2446.md) — Em vigor
+- [ENC 2447](tcesc-enc-2447.md) — Em vigor
+- [ENC 2448](tcesc-enc-2448.md) — Em vigor
+- [ENC 2449](tcesc-enc-2449.md) — Em vigor
+- [ENC 2450](tcesc-enc-2450.md) — Em vigor
+- [ENC 2451](tcesc-enc-2451.md) — Em vigor
+- [ENC 2452](tcesc-enc-2452.md) — Em vigor
+- [ENC 2453](tcesc-enc-2453.md) — Em vigor
+- [ENC 2454](tcesc-enc-2454.md) — Revogado
+- [ENC 2455](tcesc-enc-2455.md) — Em vigor
+- [ENC 2456](tcesc-enc-2456.md) — Em vigor
+- [ENC 2457](tcesc-enc-2457.md) — Em vigor
+- [ENC 2458](tcesc-enc-2458.md) — Em vigor
+- [ENC 2459](tcesc-enc-2459.md) — Em vigor
+- [ENC 2460](tcesc-enc-2460.md) — Em vigor
+- [ENC 2461](tcesc-enc-2461.md) — Reformado
+- [ENC 2462](tcesc-enc-2462.md) — Em vigor
+- [ENC 2463](tcesc-enc-2463.md) — Em vigor
+- [ENC 2464](tcesc-enc-2464.md) — Em vigor
+- [ENC 2465](tcesc-enc-2465.md) — Em vigor
+- [ENC 2466](tcesc-enc-2466.md) — Em vigor
+- [ENC 2467](tcesc-enc-2467.md) — Em vigor
+- [ENC 2468](tcesc-enc-2468.md) — Em vigor
+- [ENC 2469](tcesc-enc-2469.md) — Em vigor
+- [ENC 2470](tcesc-enc-2470.md) — Em vigor
+- [ENC 2471](tcesc-enc-2471.md) — Em vigor
+- [ENC 2472](tcesc-enc-2472.md) — Suspenso
+- [ENC 2473](tcesc-enc-2473.md) — Em vigor
+- [ENC 2474](tcesc-enc-2474.md) — Em vigor
+- [ENC 2475](tcesc-enc-2475.md) — Em vigor
+- [ENC 2476](tcesc-enc-2476.md) — Em vigor
+- [ENC 2477](tcesc-enc-2477.md) — Em vigor
+- [ENC 2478](tcesc-enc-2478.md) — Em vigor
+- [ENC 2479](tcesc-enc-2479.md) — Em vigor
+- [ENC 2480](tcesc-enc-2480.md) — Em vigor
+- [ENC 2481](tcesc-enc-2481.md) — Em vigor
+- [ENC 2482](tcesc-enc-2482.md) — Em vigor
+- [ENC 2483](tcesc-enc-2483.md) — Em vigor
+- [ENC 2484](tcesc-enc-2484.md) — Em vigor
+- [ENC 2485](tcesc-enc-2485.md) — Em vigor
+- [ENC 2486](tcesc-enc-2486.md) — Em vigor
+- [ENC 2487](tcesc-enc-2487.md) — Em vigor
+- [ENC 2488](tcesc-enc-2488.md) — Em vigor
+- [ENC 2489](tcesc-enc-2489.md) — Em vigor
+- [ENC 2490](tcesc-enc-2490.md) — Em vigor
+- [ENC 2491](tcesc-enc-2491.md) — Em vigor
+- [ENC 2492](tcesc-enc-2492.md) — Reformado
+- [ENC 2493](tcesc-enc-2493.md) — Em vigor
+- [ENC 2494](tcesc-enc-2494.md) — Em vigor
+- [ENC 2495](tcesc-enc-2495.md) — Em vigor
+- [ENC 2496](tcesc-enc-2496.md) — Em vigor
+- [ENC 2497](tcesc-enc-2497.md) — Em vigor
+- [ENC 2498](tcesc-enc-2498.md) — Em vigor
+- [ENC 2499](tcesc-enc-2499.md) — Em vigor
+- [ENC 2500](tcesc-enc-2500.md) — Revogado
+- [ENC 2501](tcesc-enc-2501.md) — Em vigor
+- [ENC 2502](tcesc-enc-2502.md) — Em vigor
+- [ENC 2503](tcesc-enc-2503.md) — Reformado
+- [ENC 2504](tcesc-enc-2504.md) — Em vigor
+- [ENC 2505](tcesc-enc-2505.md) — Em vigor
+- [ENC 2506](tcesc-enc-2506.md) — Em vigor
+- [ENC 2507](tcesc-enc-2507.md) — Em vigor
+- [ENC 2508](tcesc-enc-2508.md) — Em vigor
+- [ENC 2509](tcesc-enc-2509.md) — Em vigor
+- [ENC 2510](tcesc-enc-2510.md) — Em vigor
+- [ENC 2511](tcesc-enc-2511.md) — Em vigor
+- [ENC 2512](tcesc-enc-2512.md) — Em vigor
+- [ENC 2513](tcesc-enc-2513.md) — Em vigor
+- [ENC 2514](tcesc-enc-2514.md) — Em vigor
+- [ENC 2515](tcesc-enc-2515.md) — Em vigor
+- [ENC 2516](tcesc-enc-2516.md) — Em vigor
+- [ENC 2517](tcesc-enc-2517.md) — Em vigor
+- [ENC 2518](tcesc-enc-2518.md) — Em vigor
+- [ENC 2519](tcesc-enc-2519.md) — Em vigor
+- [ENC 2520](tcesc-enc-2520.md) — Em vigor
+- [ENC 2521](tcesc-enc-2521.md) — Em vigor
+- [ENC 2522](tcesc-enc-2522.md) — Reformado
+- [ENC 2523](tcesc-enc-2523.md) — Em vigor
+- [ENC 2524](tcesc-enc-2524.md) — Em vigor
+- [ENC 2525](tcesc-enc-2525.md) — Em vigor
+- [ENC 2526](tcesc-enc-2526.md) — Em vigor
+- [ENC 2527](tcesc-enc-2527.md) — Em vigor
+- [ENC 2528](tcesc-enc-2528.md) — Em vigor
+- [ENC 2529](tcesc-enc-2529.md) — Em vigor
+- [ENC 2530](tcesc-enc-2530.md) — Em vigor
+- [ENC 2531](tcesc-enc-2531.md) — Em vigor
+- [ENC 2532](tcesc-enc-2532.md) — Em vigor
+- [ENC 2533](tcesc-enc-2533.md) — Em vigor
+- [ENC 2534](tcesc-enc-2534.md) — Em vigor
+- [ENC 2535](tcesc-enc-2535.md) — Revogado
+- [ENC 2536](tcesc-enc-2536.md) — Em vigor
+- [ENC 2537](tcesc-enc-2537.md) — Em vigor
+- [ENC 2538](tcesc-enc-2538.md) — Em vigor
+- [ENC 2539](tcesc-enc-2539.md) — Em vigor
+- [ENC 2540](tcesc-enc-2540.md) — Em vigor
+- [ENC 2541](tcesc-enc-2541.md) — Em vigor
+- [ENC 2542](tcesc-enc-2542.md) — Em vigor
+- [ENC 2543](tcesc-enc-2543.md) — Em vigor
+- [ENC 2544](tcesc-enc-2544.md) — Em vigor
+- [ENC 2545](tcesc-enc-2545.md) — Em vigor
+- [ENC 2546](tcesc-enc-2546.md) — Em vigor
+- [ENC 2547](tcesc-enc-2547.md) — Em vigor
+- [ENC 2548](tcesc-enc-2548.md) — Em vigor
+- [ENC 2549](tcesc-enc-2549.md) — Em vigor
+- [ENC 2550](tcesc-enc-2550.md) — Em vigor
+- [ENC 2551](tcesc-enc-2551.md) — Em vigor
+- [ENC 2552](tcesc-enc-2552.md) — Em vigor
+- [ENC 2553](tcesc-enc-2553.md) — Em vigor
+- [ENC 2554](tcesc-enc-2554.md) — Em vigor
+- [ENC 2555](tcesc-enc-2555.md) — Em vigor
+- [ENC 2556](tcesc-enc-2556.md) — Em vigor
+- [ENC 2557](tcesc-enc-2557.md) — Em vigor
+- [ENC 2558](tcesc-enc-2558.md) — Em vigor
+- [ENC 2559](tcesc-enc-2559.md) — Em vigor
+- [ENC 2560](tcesc-enc-2560.md) — Em vigor
+- [ENC 2561](tcesc-enc-2561.md) — Em vigor
+- [ENC 2562](tcesc-enc-2562.md) — Em vigor
+- [ENC 2563](tcesc-enc-2563.md) — Em vigor
+- [ENC 2564](tcesc-enc-2564.md) — Em vigor
+- [ENC 2565](tcesc-enc-2565.md) — Em vigor
+- [ENC 2566](tcesc-enc-2566.md) — Em vigor
+- [ENC 2567](tcesc-enc-2567.md) — Em vigor
+- [ENC 2568](tcesc-enc-2568.md) — Em vigor
+- [ENC 2569](tcesc-enc-2569.md) — Em vigor
+- [ENC 2570](tcesc-enc-2570.md) — Em vigor
+- [ENC 2571](tcesc-enc-2571.md) — Em vigor
+- [ENC 2572](tcesc-enc-2572.md) — Em vigor
+- [ENC 2573](tcesc-enc-2573.md) — Em vigor
+- [ENC 2574](tcesc-enc-2574.md) — Em vigor
+- [ENC 2575](tcesc-enc-2575.md) — Em vigor
