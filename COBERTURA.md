@@ -1,6 +1,6 @@
 # Cobertura
 
-**25.950 registros únicos de 88 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**26.030 registros únicos de 88 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -148,6 +148,8 @@
 | [TCEGO — Súmulas, fichas e documentos para impressão](https://www.tce.go.gov.br/Sumula) | 2 | 2 | 0 |
 | [TCECE — Súmulas e publicações oficiais vinculadas](https://www.tce.ce.gov.br/jurisdicionado/jurisprudencia/sumulas) | 7 | 7 | 0 |
 | [TCEPE — Rol oficial de súmulas e nota do catálogo](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/rol-de-sumulas) | 20 | 20 | 0 |
+| [TCEPE — Enunciados de Prejulgados](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/enunciados-prejulgados) | 77 | 77 | 0 |
+| [TCEPE — Teses de Uniformização de Jurisprudência](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/teses-uniformizacao) | 3 | 3 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -288,6 +290,12 @@ A nº 34 aparece no catálogo entre as nº 78 e 77; sua identidade segue o núme
 O catálogo de Pareceres em Consulta do TCEES acrescenta 1.038 atos, de 1997 a 2026, identificados pelo número imutável da norma no portal oficial. As 21 páginas do índice foram lidas duas vezes, com 50 atos por página e 38 na última. As relações entre atos não foram contadas como novos pareceres. Também foram conciliadas duas leituras de cada ficha e dos 1.612 PDFs distintos vinculados, com 20.267 páginas por leitura e igualdade dos bytes de cada par de arquivos. Os documentos atuais e as versões históricas permanecem separados, incluindo anotações de revogação, publicações e datas não preenchidas como “01/01/0001”, sem inferir vigência.
 
 O histórico de 215 atos contém uma referência com identificador de documento zero, sem arquivo válido; essas referências foram sinalizadas. Duas consultas têm páginas sem texto extraível e recebem aviso de conteúdo incompleto: no documento 3361706, a página 24 foi inspecionada e está em branco; no documento 3361135, as páginas 2 a 8 são digitalizadas e continuam sem transcrição. A versão histórica 1041219 tem texto nas oito páginas, apresentado separadamente, sem substituir o arquivo atual. A extração conserva as páginas e imperfeições do texto fornecido pela fonte. Os originais, recibos e chaves de download ficam privados; os Markdown remetem à página pública de cada ato. Duas URLs assinadas presentes em notas do PDF 4614286 foram omitidas do texto público, com indicação da alteração e preservação do identificador do documento citado. Endereços sem chave de fornecimento permanecem como informados na fonte. Documentos apenas citados e a recuperação de texto das páginas digitalizadas continuam pendentes.
+
+Os catálogos de Enunciados de Prejulgados e de Teses de Uniformização de Jurisprudência do TCEPE acrescentam, respectivamente, 77 e três registros, em séries próprias (PREJ e TU). A numeração oficial segue os códigos 1 a 77 e 1 a 3, preservando separadamente os identificadores internos da fonte. As duas leituras de cada catálogo e da respectiva nota geral foram conciliadas em oito capturas HTTP, com igualdade dos conteúdos. As consultas mantiveram os filtros públicos da aplicação, publicados e não excluídos, sem tratá-los como prova de ausência de outras versões.
+
+Foram preservados os enunciados completos, as referências de publicação, processos, acórdãos, relatores e indexadores. Os prejulgados também conservam área, tema e subtema de classificação. Todos os 80 registros aparecem como “Vigente” na fonte consultada, situação reproduzida com atribuição ao catálogo. As publicações, revisões e ratificações escritas no corpo permanecem separadas dos metadados técnicos de criação e alteração, que não foram publicados nem convertidos em atualização individual. A nota geral dos prejulgados distingue o prejulgamento de teses do julgamento de casos concretos.
+
+A formatação de fonte, cor e itálico da edição HTML foi simplificada para evitar marcas espúrias no Markdown. As redações riscadas das nº 6, 16, 41 e 54 continuam visualmente riscadas e foram conferidas separadamente do texto atual. Os marcadores literais com parênteses das nº 75 e 76 foram protegidos para impedir sua conversão em outra numeração de lista. Todos os textos, notas gerais e metadados foram conferidos no Markdown renderizado. As notas de revisão e ratificação, inclusive as referências de 2026, foram mantidas integralmente. Os originais e recibos ficam privados. Os inteiros teores dos acórdãos e processos apenas citados ainda não foram incorporados, e a cobertura das demais séries continua parcial.
 
 O TCEPE acrescenta as 20 súmulas do rol oficial, em sequência de 1 a 20, com os textos históricos das nº 1, 2, 5 e 15 marcados como cancelados. O enunciado, os fundamentos jurídicos incorporados à descrição e as referências de publicação ou cancelamento foram preservados integralmente. A identidade dos arquivos segue o número da súmula, mantendo separadamente o identificador interno da API: por exemplo, a nº 19 tem identificador 1 e a nº 1 tem identificador 19.
 
@@ -637,7 +645,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEGO](tribunais/TCEGO/) | 2 | TCEGO — Súmulas, fichas e documentos para impressão |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
-| [TCEPE](tribunais/TCEPE/) | 20 | TCEPE — Rol oficial de súmulas e nota do catálogo |
+| [TCEPE](tribunais/TCEPE/) | 100 | TCEPE — Enunciados de Prejulgados; TCEPE — Rol oficial de súmulas e nota do catálogo; TCEPE — Teses de Uniformização de Jurisprudência |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
