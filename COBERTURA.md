@@ -1,6 +1,6 @@
 # Cobertura
 
-**27.396 registros únicos de 96 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**27.410 registros únicos de 97 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCETO — Súmulas, versões completas e sintéticas oficiais](https://www.tceto.tc.br/sumulas/) | 14 | 14 | 0 |
 | [TCEPB — Resoluções sumulares e documentos oficiais](https://tce.pb.gov.br/publicacoes/legislacao/sumulas/) | 2 | 2 | 0 |
 | [TCERO — Súmulas, aplicações e versões documentais oficiais](https://spj.tcero.tc.br/jurisprudencia/sumulas-inteiro-teor/) | 29 | 29 | 0 |
 | [TCDF — Súmulas, fichas e textos oficiais no SINJ](https://www.sinj.df.gov.br/sinj/ResultadoDePesquisa?tipo_pesquisa=norma&all=&ch_tipo_norma=76000000&nm_tipo_norma=S%C3%BAmula&nr_norma=&ano_assinatura=&ch_orgao=613&ch_hierarquia=613&sg_hierarquia_nm_vigencia=TCDF+-+Tribunal+de+Contas+do+Distrito+Federal+%281960-%29&origem_por=toda_a_hierarquia_em_qualquer_epoca1) | 114 | 114 | 0 |
@@ -346,6 +347,14 @@ As situações são as informadas pelo SINJ: 85 registros como Sem Revogação E
 O acesso HTTP direto ao portal de jurisprudência do TCDF falhou na validação do certificado. O navegador integrado abriu a página institucional e permitiu preservar a resposta original que aponta para o SINJ, sem desativar TLS. O catálogo, as fichas e os documentos do SINJ foram coletados por HTTP com TLS validado. Os originais, métodos e parâmetros de consulta, URLs finais, cabeçalhos públicos selecionados e recibos permanecem privados.
 
 Os atos de atualização e processos apenas citados não foram contados como registros adicionais nem tiveram todos os seus documentos coletados. As demais categorias do TCDF e a conciliação nacional continuam abertas.
+
+O TCETO acrescenta os 14 enunciados do catálogo institucional, de 1 a 14, com duas versões declaradas por súmula. O catálogo contém 27 URLs documentais distintas: na nº 14, os botões completa e sintética apontam para o mesmo arquivo de uma página, apesar das 122 páginas anunciadas para a completa. Essa versão completa permanece pendente; não foi reconstruída a partir de outro registro. As contagens físicas também diferem do catálogo nas versões sintéticas das nº 12 e 13 (uma página em vez de duas) e na completa da nº 13 (116 em vez de 12 páginas).
+
+Foram preservadas 56 capturas primárias: dois catálogos e dois downloads de cada PDF. Os pares documentais têm bytes idênticos e a identidade foi conferida na primeira página. Os 27 PDFs somam 1.215 páginas físicas; 1.197 têm texto extraível reproduzido por página. As 18 páginas sem texto extraível, da 33 à 50 na completa da nº 13, não foram declaradas em branco. Em 158 páginas de oito compilações há imagens com pelo menos 800 pixels em uma dimensão; a conferência visual desses elementos permanece explicitamente pendente, inclusive quando existe uma camada textual. São nove registros com pendências visuais ou documentais (3, 6, 8 a 14), sem ocultar o texto disponível nem apresentar as imagens como já transcritas.
+
+Foram mantidos os fundamentos, referências legislativas e precedentes anexados às compilações, com 93 anotações HTTP/S e quatro referências internas de navegação reproduzidas como texto inerte. Esses anexos não foram contados como novos registros. As redações do catálogo e das versões documentais foram preservadas separadamente; datas de impressão, julgamento, publicação e assinatura não foram convertidas em última atualização ou prova de vigência.
+
+O subdomínio jurisprudencia.tceto.tc.br falhou na resolução DNS da coleta HTTP (ENOTFOUND). A fonte efetivamente coletada foi o catálogo do site principal, sem alterar TLS nem atribuir a ele comprovação da paginação ou dos filtros do outro portal. A cobertura de outras categorias do TCETO e a conciliação nacional permanecem parciais.
 
 O TCEPB acrescenta as duas resoluções sumulares apontadas no catálogo institucional: RS-TC nº 001/2012 e nº 002/2012. A lista e os PDFs foram conferidos em duas leituras; cada par documental tem bytes idênticos. Cada PDF contém uma página raster, sem texto extraível. O texto impresso foi transcrito visualmente das imagens oficiais, mantendo enunciados, fundamentos, processo referido, data e nomes impressos. Carimbos e anotações legíveis foram descritos separadamente; brasão e traços de assinaturas não foram reproduzidos graficamente. As transcrições privadas estão vinculadas ao SHA-256 dos PDFs, distinguindo seis capturas primárias de dois artefatos derivados. As datas de 19/12/2012 impressas nas resoluções e de 21/12/2012 nos carimbos não foram tratadas como atualização ou vigência. Os diretórios de upload de 2024 não foram usados como data dos atos. O processo citado não virou novo registro e seu inteiro teor não foi coletado. A aplicação de pesquisa de jurisprudência é uma superfície separada; a consulta pelo endpoint GET api observado no seu cliente retornou HTTP 404, o que não comprova inexistência de decisões. A cobertura do TCEPB e do país permanece parcial.
 
@@ -742,9 +751,10 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCERO](tribunais/TCERO/) | 29 | TCERO — Súmulas, aplicações e versões documentais oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
+| [TCETO](tribunais/TCETO/) | 14 | TCETO — Súmulas, versões completas e sintéticas oficiais |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO e TCEPB são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB e TCETO são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
