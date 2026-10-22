@@ -1,6 +1,6 @@
 # Cobertura
 
-**29.106 registros únicos de 102 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**29.129 registros únicos de 103 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCEMT — Súmulas e documentos oficiais de fundamentação](https://www.tce.mt.gov.br/legislacoes/sumulas) | 23 | 23 | 0 |
 | [TCERS — Súmulas, cadastro e documentos oficiais](https://portal.tce.rs.gov.br/app/pesquisa/jurisprudencia/pesquisa) | 27 | 27 | 0 |
 | [TCEAC — Súmulas e fichas documentais oficiais](https://tceac.tc.br/site/inicio/jurisprudencia/) | 2 | 2 | 0 |
 | [TCEPA — Compilação oficial de prejulgados, junho de 2026](https://tcepa.tc.br/images/pdf/informativos_jurispudencia/Prejulgados_TCE_atualizacao_junho_2026.pdf) | 22 | 22 | 0 |
@@ -359,6 +360,8 @@ O TCEPA acrescenta 22 prejulgados, de 1 a 22, da compilação oficial vinculada 
 O TCEAC acrescenta as súmulas 01/2015 e 02/2016 vinculadas na página institucional de jurisprudência. Foram preservadas sete capturas formais: o vínculo a partir da página inicial, duas leituras do catálogo com os mesmos dois verbetes e duas leituras de cada PDF com bytes idênticos. Foram mantidos os enunciados completos, sessão de aprovação, presidência, relatoria, fundamentos, processos, atas, acórdãos e referências de publicação. Os PDFs são fichas de uma página das súmulas, apesar da menção a acórdãos nos nomes dos arquivos; não foram apresentados como inteiros teores dos processos. Datas e anos permanecem com seu significado original, sem inferir última atualização ou vigência atual. O enunciado destacado une apenas quebras de linha por espaços e conserva o negrito; o bloco documental preserva a extração literal. Logotipos e brasões foram omitidos da apresentação; a inspeção visual confirmou texto jurídico extraível, sem tabelas ou conteúdo jurídico apenas em imagem. Os PDFs não contêm links anotados. Inteiros teores dos atos e processos citados, o banco de jurisprudência, demais categorias e conciliação nacional continuam abertos.
 
 O TCERS acrescenta as 27 súmulas, de 1 a 27, da pesquisa pública oficial, incluindo o documento da nº 27/2024. Foram preservadas 63 capturas formais: página da aplicação, código cliente, configuração, seis páginas de pesquisa e 54 respostas documentais. Duas leituras sem termos de busca das três páginas retornaram os mesmos 27 registros e todos os campos iguais; a paginação de dez itens foi respeitada. Os 27 pares de documentos têm bytes idênticos. Foram mantidos o corpo integral das súmulas, ementas, notas, decisões cadastradas, metadados de atos e publicação, cabeçalhos, rodapés e links. Registrada é a situação cadastral, sem prova de vigência; sit_leg e status_norma fornecem —. Datas de indexação e pontuação da busca não foram transformadas em atualização. Os 23 DOC antigos foram importados pelo LibreOffice para extração em DOCX e os quatro DOCX atuais foram lidos diretamente. Cada parágrafo do corpo foi conciliado com a extração de uma renderização PDF local do original; esses PDFs locais não foram apresentados como documentos oficiais. Não foram encontradas tabelas, listas automáticas, notas de rodapé, revisões ou trechos riscados nas estruturas extraídas. A tipografia foi simplificada; logotipos e brasões foram omitidos. A presença no índice não comprova vigência atual, nem a consulta comprova completude de outros acervos. Os inteiros teores dos processos, decisões, pareceres e atos apenas citados, as demais bases e a conciliação nacional continuam abertos.
+
+O TCEMT acrescenta as 23 súmulas do catálogo atual, de 1 a 23, incluindo a nº 23 vinculada ao processo de 2026. Foram preservadas 53 capturas formais: página inicial, código cliente, catálogo inicial, quatro páginas de verificação e 46 respostas documentais. As duas leituras das duas páginas retornaram os mesmos 23 registros e todos os campos iguais. Os 23 pares de PDFs têm bytes idênticos e tamanho conciliado com o cadastro. O enunciado completo é o campo assunto publicado pelo portal; os documentos incluem fundamentação e precedentes, sem multiplicar a contagem. Ano e data de início do cadastro não foram transformados em datas jurídicas ou atualização individual. As nº 21 e 22 trazem ano 2024 no cadastro e referências a atos de 2023 nos documentos, preservados sem correção por inferência. O catálogo não informa vigência individual. O texto documental extraível e as anotações foram mantidos por página; CPF, RG e conta bancária encontrados nos precedentes foram ocultados no Markdown, conservando os originais privadamente. O campo texto adicional dos nº 1 a 11 contém sequências corrompidas e foi preservado literalmente com ressalva, sem ser usado para corrigir os enunciados em assunto ou os PDFs. Os PDFs das nº 19 e 20 são apenas imagens e não tiveram o conteúdo visual transcrito; os enunciados estão no catálogo. Demais páginas sem texto ou com imagens grandes têm pendência explícita. A tipografia foi simplificada; imagens permanecem no PDF oficial, sem OCR ou reconstrução. Processos e atos apenas citados que não estejam incorporados aos PDFs não tiveram todos os seus documentos coletados. Outras categorias do tribunal e a conciliação nacional seguem abertas.
 
 O TCEMA acrescenta 1.610 excertos rotulados como Prejulgados no mural público, vinculados a 602 processos. Os códigos de excerto são identificadores internos, com lacunas entre 1 e 2163; não foram transformados em numeração de ato normativo nem preenchidos por inferência. Os dois catálogos sem filtros retornaram os mesmos registros e todos os campos iguais. A tabela faz paginação local da lista recebida. Foram mantidos textos integrais dos excertos, observações, tema e subtema, referências de processo, exercício financeiro, espécie, natureza, relator, origem, responsável e datas de inclusão, inclusive campos nulos ou vazios. Data de inclusão e o aviso de atualização calculado pelo navegador não foram tratados como última atualização ou vigência jurídica.
 
@@ -776,6 +779,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEPA](tribunais/TCEPA/) | 22 | TCEPA — Compilação oficial de prejulgados, junho de 2026 |
 | [TCEAC](tribunais/TCEAC/) | 2 | TCEAC — Súmulas e fichas documentais oficiais |
 | [TCERS](tribunais/TCERS/) | 27 | TCERS — Súmulas, cadastro e documentos oficiais |
+| [TCEMT](tribunais/TCEMT/) | 23 | TCEMT — Súmulas e documentos oficiais de fundamentação |
 | [TCEMA](tribunais/TCEMA/) | 1.616 | TCEMA — Prejulgados e deliberações oficiais; TCEMA — Súmulas do mural público oficial |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEMS](tribunais/TCEMS/) | 91 | TCEMS — Súmulas e PDFs oficiais |
@@ -791,7 +795,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCETO](tribunais/TCETO/) | 14 | TCETO — Súmulas, versões completas e sintéticas oficiais |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC e TCERS são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS e TCEMT são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
