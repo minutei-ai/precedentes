@@ -1,45 +1,120 @@
 # TRT04 · Orientação Jurisprudencial
 
-**41 registros.** [Voltar ao tribunal](../)
+**116 registros.** [Voltar ao tribunal](../)
 
+- [OJ 1](trt04-oj-1.md) — Alterada
+- [OJ 2](trt04-oj-2.md) — Situação não informada
 - [OJ 3](trt04-oj-3.md) — Vigente
+- [OJ 4](trt04-oj-4.md) — Situação não informada
 - [OJ 5](trt04-oj-5.md) — Cancelado
 - [OJ 6](trt04-oj-6.md) — Vigente
 - [OJ 7](trt04-oj-7.md) — Vigente
 - [OJ 8](trt04-oj-8.md) — Vigente
+- [OJ 9](trt04-oj-9.md) — Situação não informada
 - [OJ 10](trt04-oj-10.md) — Vigente
 - [OJ 11](trt04-oj-11.md) — Vigente
+- [OJ 12](trt04-oj-12.md) — Situação não informada
 - [OJ 13](trt04-oj-13.md) — Cancelado
+- [OJ 14](trt04-oj-14.md) — Situação não informada
+- [OJ 15](trt04-oj-15.md) — Situação não informada
 - [OJ 16](trt04-oj-16.md) — Vigente
+- [OJ 17](trt04-oj-17.md) — Alterada
+- [OJ 18](trt04-oj-18.md) — Situação não informada
+- [OJ 19](trt04-oj-19.md) — Situação não informada
 - [OJ 20](trt04-oj-20.md) — Vigente
 - [OJ 21](trt04-oj-21.md) — Vigente
 - [OJ 22](trt04-oj-22.md) — Vigente
+- [OJ 23](trt04-oj-23.md) — Cancelada
+- [OJ 24](trt04-oj-24.md) — Situação não informada
+- [OJ 25](trt04-oj-25.md) — Alterada
+- [OJ 26](trt04-oj-26.md) — Situação não informada
 - [OJ 27](trt04-oj-27.md) — Vigente
+- [OJ 28](trt04-oj-28.md) — Situação não informada
+- [OJ 29](trt04-oj-29.md) — Cancelada
+- [OJ 30](trt04-oj-30.md) — Cancelada
+- [OJ 31](trt04-oj-31.md) — Situação não informada
+- [OJ 32](trt04-oj-32.md) — Alterada
 - [OJ 33](trt04-oj-33.md) — Vigente
 - [OJ 34](trt04-oj-34.md) — Vigente
 - [OJ 35](trt04-oj-35.md) — Vigente
+- [OJ 36](trt04-oj-36.md) — Situação não informada
+- [OJ 37](trt04-oj-37.md) — Situação não informada
+- [OJ 38](trt04-oj-38.md) — Situação não informada
 - [OJ 39](trt04-oj-39.md) — Vigente
 - [OJ 40](trt04-oj-40.md) — Vigente
+- [OJ 41](trt04-oj-41.md) — Alterada
+- [OJ 42](trt04-oj-42.md) — Situação não informada
+- [OJ 43](trt04-oj-43.md) — Alterada
 - [OJ 44](trt04-oj-44.md) — Vigente
+- [OJ 45](trt04-oj-45.md) — Cancelada
+- [OJ 46](trt04-oj-46.md) — Situação não informada
 - [OJ 47](trt04-oj-47.md) — Vigente
 - [OJ 48](trt04-oj-48.md) — Vigente
 - [OJ 49](trt04-oj-49.md) — Cancelado
+- [OJ 50](trt04-oj-50.md) — Cancelada
 - [OJ 51](trt04-oj-51.md) — Vigente
+- [OJ 52](trt04-oj-52.md) — Situação não informada
+- [OJ 53](trt04-oj-53.md) — Situação não informada
+- [OJ 54](trt04-oj-54.md) — Situação não informada
 - [OJ 55](trt04-oj-55.md) — Vigente
+- [OJ 56](trt04-oj-56.md) — Alterada
 - [OJ 57](trt04-oj-57.md) — Vigente
+- [OJ 58](trt04-oj-58.md) — Situação não informada
+- [OJ 59](trt04-oj-59.md) — Situação não informada
 - [OJ 60](trt04-oj-60.md) — Vigente
 - [OJ 61](trt04-oj-61.md) — Vigente
 - [OJ 62](trt04-oj-62.md) — Vigente
 - [OJ 63](trt04-oj-63.md) — Vigente
 - [OJ 64](trt04-oj-64.md) — Vigente
+- [OJ 65](trt04-oj-65.md) — Situação não informada
+- [OJ 66](trt04-oj-66.md) — Alterada
+- [OJ 67](trt04-oj-67.md) — Alterada
+- [OJ 68](trt04-oj-68.md) — Situação não informada
+- [OJ 69](trt04-oj-69.md) — Cancelada
+- [OJ 70](trt04-oj-70.md) — Cancelada
+- [OJ 71](trt04-oj-71.md) — Situação não informada
 - [OJ 72](trt04-oj-72.md) — Vigente
 - [OJ 73](trt04-oj-73.md) — Vigente
+- [OJ 74](trt04-oj-74.md) — Situação não informada
+- [OJ 75](trt04-oj-75.md) — Situação não informada
+- [OJ 76](trt04-oj-76.md) — Situação não informada
 - [OJ 77](trt04-oj-77.md) — Vigente
+- [OJ 78](trt04-oj-78.md) — Cancelada
 - [OJ 79](trt04-oj-79.md) — Vigente
+- [OJ 80](trt04-oj-80.md) — Situação não informada
+- [OJ 81](trt04-oj-81.md) — Situação não informada
+- [OJ 82](trt04-oj-82.md) — Situação não informada
+- [OJ 83](trt04-oj-83.md) — Situação não informada
+- [OJ 84](trt04-oj-84.md) — Cancelada
 - [OJ 85](trt04-oj-85.md) — Vigente
 - [OJ 86](trt04-oj-86.md) — Vigente
 - [OJ 87](trt04-oj-87.md) — Vigente
 - [OJ 88](trt04-oj-88.md) — Vigente
+- [OJ 89](trt04-oj-89.md) — Situação não informada
+- [OJ 90](trt04-oj-90.md) — Cancelada
+- [OJ 91](trt04-oj-91.md) — Situação não informada
 - [OJ 92](trt04-oj-92.md) — Vigente
 - [OJ 93](trt04-oj-93.md) — Vigente
+- [OJ 94](trt04-oj-94.md) — Alterada
 - [OJ 95](trt04-oj-95.md) — Vigente
+- [OJ 96](trt04-oj-96.md) — Cancelada
+- [OJ 97](trt04-oj-97.md) — Situação não informada
+- [OJ 98](trt04-oj-98.md) — Situação não informada
+- [OJ 99](trt04-oj-99.md) — Situação não informada
+- [OJ 100](trt04-oj-100.md) — Situação não informada
+- [OJ 101](trt04-oj-101.md) — Alterada
+- [OJ 102](trt04-oj-102.md) — Situação não informada
+- [OJ 103](trt04-oj-103.md) — Situação não informada
+- [OJ 104](trt04-oj-104.md) — Situação não informada
+- [OJ 105](trt04-oj-105.md) — Situação não informada
+- [OJ 106](trt04-oj-106.md) — Situação não informada
+- [OJ 107](trt04-oj-107.md) — Situação não informada
+- [OJ 108](trt04-oj-108.md) — Situação não informada
+- [OJ 109](trt04-oj-109.md) — Situação não informada
+- [OJ 110](trt04-oj-110.md) — Situação não informada
+- [OJ 111](trt04-oj-111.md) — Situação não informada
+- [OJ 112](trt04-oj-112.md) — Situação não informada
+- [OJ 113](trt04-oj-113.md) — Situação não informada
+- [OJ 114](trt04-oj-114.md) — Situação não informada
+- [OJ 115](trt04-oj-115.md) — Situação não informada
+- [OJ 116](trt04-oj-116.md) — Situação não informada

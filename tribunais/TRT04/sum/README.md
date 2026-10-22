@@ -1,41 +1,71 @@
 # TRT04 · Súmula
 
-**101 registros.** [Voltar ao tribunal](../)
+**142 registros.** [Voltar ao tribunal](../)
 
 - [SUM 1](trt04-sum-1.md) — Vigente
 - [SUM 2](trt04-sum-2.md) — Cancelado
+- [SUM 3](trt04-sum-3.md) — Situação não informada
 - [SUM 4](trt04-sum-4.md) — Cancelado
+- [SUM 5](trt04-sum-5.md) — Cancelada
+- [SUM 6](trt04-sum-6.md) — Cancelada
+- [SUM 7](trt04-sum-7.md) — Cancelada
+- [SUM 8](trt04-sum-8.md) — Situação não informada
 - [SUM 9](trt04-sum-9.md) — Cancelado
+- [SUM 10](trt04-sum-10.md) — Situação não informada
+- [SUM 11](trt04-sum-11.md) — Cancelada
 - [SUM 12](trt04-sum-12.md) — Vigente
+- [SUM 13](trt04-sum-13.md) — Cancelada
 - [SUM 14](trt04-sum-14.md) — Vigente
 - [SUM 15](trt04-sum-15.md) — Vigente
+- [SUM 16](trt04-sum-16.md) — Cancelada
 - [SUM 17](trt04-sum-17.md) — Cancelado
 - [SUM 18](trt04-sum-18.md) — Vigente
 - [SUM 19](trt04-sum-19.md) — Vigente
+- [SUM 20](trt04-sum-20.md) — Cancelada
+- [SUM 21](trt04-sum-21.md) — Situação não informada
+- [SUM 22](trt04-sum-22.md) — Situação não informada
 - [SUM 23](trt04-sum-23.md) — Vigente
 - [SUM 24](trt04-sum-24.md) — Cancelado
 - [SUM 25](trt04-sum-25.md) — Vigente
 - [SUM 26](trt04-sum-26.md) — Vigente
+- [SUM 27](trt04-sum-27.md) — Revisada
 - [SUM 28](trt04-sum-28.md) — Vigente
 - [SUM 29](trt04-sum-29.md) — Vigente
 - [SUM 30](trt04-sum-30.md) — Vigente
 - [SUM 31](trt04-sum-31.md) — Vigente
 - [SUM 32](trt04-sum-32.md) — Vigente
+- [SUM 33](trt04-sum-33.md) — Cancelada
+- [SUM 34](trt04-sum-34.md) — Cancelada
+- [SUM 35](trt04-sum-35.md) — Situação não informada
 - [SUM 36](trt04-sum-36.md) — Vigente
 - [SUM 37](trt04-sum-37.md) — Vigente
 - [SUM 38](trt04-sum-38.md) — Vigente
+- [SUM 39](trt04-sum-39.md) — Situação não informada
+- [SUM 40](trt04-sum-40.md) — Situação não informada
 - [SUM 41](trt04-sum-41.md) — Vigente
 - [SUM 42](trt04-sum-42.md) — Vigente
 - [SUM 43](trt04-sum-43.md) — Vigente
+- [SUM 44](trt04-sum-44.md) — Cancelada
 - [SUM 45](trt04-sum-45.md) — Vigente
 - [SUM 46](trt04-sum-46.md) — Vigente
+- [SUM 47](trt04-sum-47.md) — Situação não informada
+- [SUM 48](trt04-sum-48.md) — Situação não informada
+- [SUM 49](trt04-sum-49.md) — Cancelada
 - [SUM 50](trt04-sum-50.md) — Vigente
+- [SUM 51](trt04-sum-51.md) — Revisada
 - [SUM 52](trt04-sum-52.md) — Vigente
 - [SUM 53](trt04-sum-53.md) — Vigente
 - [SUM 54](trt04-sum-54.md) — Vigente
+- [SUM 55](trt04-sum-55.md) — Situação não informada
 - [SUM 56](trt04-sum-56.md) — Vigente
+- [SUM 57](trt04-sum-57.md) — Alterada
 - [SUM 58](trt04-sum-58.md) — Vigente
 - [SUM 59](trt04-sum-59.md) — Vigente
+- [SUM 60](trt04-sum-60.md) — Situação não informada
+- [SUM 61](trt04-sum-61.md) — Cancelada
+- [SUM 62](trt04-sum-62.md) — Situação não informada
+- [SUM 63](trt04-sum-63.md) — Situação não informada
+- [SUM 64](trt04-sum-64.md) — Cancelada
 - [SUM 65](trt04-sum-65.md) — Vigente
 - [SUM 66](trt04-sum-66.md) — Cancelado
 - [SUM 67](trt04-sum-67.md) — Vigente
@@ -43,19 +73,30 @@
 - [SUM 69](trt04-sum-69.md) — Vigente
 - [SUM 70](trt04-sum-70.md) — Vigente
 - [SUM 71](trt04-sum-71.md) — Vigente
+- [SUM 72](trt04-sum-72.md) — Situação não informada
+- [SUM 73](trt04-sum-73.md) — Situação não informada
 - [SUM 74](trt04-sum-74.md) — Vigente
 - [SUM 75](trt04-sum-75.md) — Cancelado
 - [SUM 76](trt04-sum-76.md) — Vigente
+- [SUM 77](trt04-sum-77.md) — Situação não informada
 - [SUM 78](trt04-sum-78.md) — Vigente
+- [SUM 79](trt04-sum-79.md) — Cancelada
 - [SUM 80](trt04-sum-80.md) — Vigente
 - [SUM 81](trt04-sum-81.md) — Vigente
 - [SUM 82](trt04-sum-82.md) — Vigente
 - [SUM 83](trt04-sum-83.md) — Vigente
 - [SUM 84](trt04-sum-84.md) — Vigente
+- [SUM 85](trt04-sum-85.md) — Situação não informada
+- [SUM 86](trt04-sum-86.md) — Situação não informada
+- [SUM 87](trt04-sum-87.md) — Situação não informada
+- [SUM 88](trt04-sum-88.md) — Situação não informada
 - [SUM 89](trt04-sum-89.md) — Vigente
 - [SUM 90](trt04-sum-90.md) — Vigente
 - [SUM 91](trt04-sum-91.md) — Vigente
+- [SUM 92](trt04-sum-92.md) — Situação não informada
+- [SUM 93](trt04-sum-93.md) — Situação não informada
 - [SUM 94](trt04-sum-94.md) — Vigente
+- [SUM 95](trt04-sum-95.md) — Situação não informada
 - [SUM 96](trt04-sum-96.md) — Vigente
 - [SUM 97](trt04-sum-97.md) — Vigente
 - [SUM 98](trt04-sum-98.md) — Vigente

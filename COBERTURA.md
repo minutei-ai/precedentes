@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.540 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.666 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -131,6 +131,9 @@
 | [TRT5 — Catálogo de súmulas e documentos normativos vinculados](https://digepnac-precedentes.trt5.jus.br/sumulas) | 85 | 85 | 0 |
 | [TRT22 — Catálogo paginado de súmulas](https://www.trt22.jus.br/index.php/jurisprudencia/sumulas) | 47 | 47 | 0 |
 | [TRT21 — Catálogo oficial de súmulas](https://www.trt21.jus.br/jurisprudencia/sumulas) | 9 | 9 | 0 |
+| [TRT4 — Súmulas](https://www.trt4.jus.br/portais/trt4/sumulas) | 142 | 41 | 101 |
+| [TRT4 — Orientações Jurisprudenciais (SEEx)](https://www.trt4.jus.br/portais/trt4/orientacoes-seex) | 117 | 76 | 41 |
+| [TRT4 — Teses Jurídicas Prevalecentes](https://www.trt4.jus.br/portais/trt4/tese-juridica-prevalecente) | 9 | 9 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -151,6 +154,14 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+Os catálogos próprios do TRT4 acrescentam a apresentação integral de 142 súmulas, 116 orientações jurisprudenciais da SEEx, uma OJ transitória e nove teses jurídicas prevalecentes. São 268 registros de catálogo, dos quais 142 já existiam no BNP e 126 são novos no acervo. A sequência das súmulas vai de 1 a 142; a das OJs regulares, de 1 a 116. A OJ transitória nº 1 foi mantida em série própria, sem confundi-la com a OJ regular nº 1. Cada um dos três catálogos foi capturado diretamente duas vezes, em seis respostas, com conteúdo e vínculos estáveis.
+
+Os blocos mantêm títulos, redações, notas, atos, datas, acórdãos e listas de precedentes. São preservados 1.762 vínculos textuais com endereço informado. Cinco referências das súmulas 78, 94 (duas referências), 106 e 115 têm destino vazio na fonte: os números foram mantidos sem reconstruir URLs. Ligações vazias do modelo da página foram omitidas. A formatação de uma vírgula em itálico e de quebras de linha dentro do negrito foi ajustada apenas para preservar a renderização no Markdown; os textos e a pontuação permanecem iguais e os originais estão nas capturas privadas.
+
+Os cabeçalhos das súmulas registram 34 cancelamentos, cinco alterações e três revisões; nas OJs, são 15 cancelamentos e 12 alterações, incluindo a transitória cancelada. A tese prevalecente nº 6 registra cancelamento pela RA 45/2025. As notas incluem os cancelamentos das súmulas nº 11 e 141 pelas RAs 29/2026 e 30/2026 e as alterações das OJs 17, 56 e 94 pelas resoluções 03, 04 e 05/2025. Todos os históricos foram mantidos, sem inferir vigência para cabeçalhos sem marcação.
+
+Nos 142 registros coincidentes, o texto e a situação do BNP permanecem atribuídos ao BNP e o catálogo aparece como outra fonte oficial. Há diferenças de situação: por exemplo, o BNP informa “Vigente” na súmula nº 1, com atualização indicada em 13/09/2023, enquanto o catálogo do TRT4 registra seu cancelamento pela RA 27/2024. As duas informações não foram sobrescritas ou apresentadas como concordantes. Os inteiros teores dos atos e julgados vinculados e as demais séries do tribunal permanecem pendentes de conciliação.
 
 O TRT21 acrescenta as nove súmulas do catálogo oficial, em sequência de 1 a 9. O texto completo de cada parágrafo foi preservado, incluindo as 18 ligações para os incidentes de uniformização e os processos de origem, os nomes, as publicações e as republicações. As duas leituras da página apresentaram os mesmos textos e destinos. Os 23 ícones ODS que aparecem após os verbetes foram representados pelos vínculos correspondentes da ONU, sem incorporar imagens ao acervo.
 
@@ -480,7 +491,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT01](tribunais/TRT01/) | 76 | 76 | 76 |
 | [TRT02](tribunais/TRT02/) | 235 | 69 | 69 |
 | [TRT03](tribunais/TRT03/) | 214 | 72 | 72 |
-| [TRT04](tribunais/TRT04/) | 202 | 202 | 202 |
+| [TRT04](tribunais/TRT04/) | 328 | 202 | 202 |
 | [TRT05](tribunais/TRT05/) | 134 | 49 | 49 |
 | [TRT06](tribunais/TRT06/) | 80 | 36 | 36 |
 | [TRT07](tribunais/TRT07/) | 406 | 47 | 47 |
