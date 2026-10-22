@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.531 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.540 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -130,6 +130,7 @@
 | [TRT7 — Enunciados das Jornadas de Direito Material e Processual do Trabalho do TRT7](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/enunciados.html) | 343 | 343 | 0 |
 | [TRT5 — Catálogo de súmulas e documentos normativos vinculados](https://digepnac-precedentes.trt5.jus.br/sumulas) | 85 | 85 | 0 |
 | [TRT22 — Catálogo paginado de súmulas](https://www.trt22.jus.br/index.php/jurisprudencia/sumulas) | 47 | 47 | 0 |
+| [TRT21 — Catálogo oficial de súmulas](https://www.trt21.jus.br/jurisprudencia/sumulas) | 9 | 9 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -150,6 +151,12 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRT21 acrescenta as nove súmulas do catálogo oficial, em sequência de 1 a 9. O texto completo de cada parágrafo foi preservado, incluindo as 18 ligações para os incidentes de uniformização e os processos de origem, os nomes, as publicações e as republicações. As duas leituras da página apresentaram os mesmos textos e destinos. Os 23 ícones ODS que aparecem após os verbetes foram representados pelos vínculos correspondentes da ONU, sem incorporar imagens ao acervo.
+
+As apresentações “04” e “05”, a repetição “IUJ - IUJ” na nº 5, a referência às edições “2887, 2448 e 2889/2020” e a diferença entre “ART. 2 DA CLT” no título e “art. 72 da CLT” no texto da nº 7 foram mantidas como fornecidas. Na nº 9, o número exibido “0000407-68.20165.21.0023” e o destino do vínculo processual foram preservados sem reconstrução ou correção. As referências de publicação não foram convertidas em situação atual nem atualização individual. Os inteiros teores dos processos, dos acórdãos e das resoluções citadas e as demais séries do TRT21 continuam pendentes de conciliação.
+
+O acesso direto ao TRT21 respondeu HTTP 403, e o coletor nativo encerrou com “unsupported: frames”. O navegador integrado abriu o portal, localizou o catálogo pelo vínculo de jurisprudência e coletou as duas respostas, sem desativar TLS. Os originais e os recibos foram mantidos privadamente.
 
 O TRT22 acrescenta as 47 súmulas das cinco páginas do catálogo oficial, em sequência de 1 a 47. Cada linha mantém o título, todos os parágrafos, as referências “Fonte” e “Publicação no DEJT” e os 35 vínculos do glossário do próprio portal. Foram conciliadas duas leituras de cada página, em dez capturas, sem mudança de textos, marcações, referências ou destinos. O acesso direto respondeu HTTP 403, e o coletor nativo encerrou com “unsupported: frames”; o navegador integrado abriu e coletou as páginas, sem desativar TLS.
 
@@ -490,7 +497,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT18](tribunais/TRT18/) | 140 | 73 | 73 |
 | [TRT19](tribunais/TRT19/) | 44 | 37 | 37 |
 | [TRT20](tribunais/TRT20/) | 59 | 34 | 34 |
-| [TRT21](tribunais/TRT21/) | 27 | 27 | 27 |
+| [TRT21](tribunais/TRT21/) | 36 | 27 | 27 |
 | [TRT22](tribunais/TRT22/) | 86 | 39 | 39 |
 | [TRT23](tribunais/TRT23/) | 21 | 21 | 21 |
 | [TRT24](tribunais/TRT24/) | 99 | 61 | 61 |
@@ -553,7 +560,7 @@ A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta di
 
 O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou o conteúdo nesta coleta. Na nova consulta, o caderno e a página individual testada retornaram o desafio de acesso sem texto; o navegador integrado também não disponibilizou o documento. O endereço alternativo wwwl.trt17.jus.br falhou por incompatibilidade do certificado TLS, que não foi desativada. O caderno ainda não foi incorporado.
 
-O catálogo próprio do TRT23 ainda não foi conciliado. O portal exibiu aviso de manutenção programada, sem catálogo de súmulas. Essa resposta não foi tratada como ausência de precedentes.
+O catálogo próprio do TRT23 ainda não foi conciliado. Na nova consulta, tanto a raiz do portal quanto /portal/sumulas continuaram exibindo o aviso oficial de manutenção programada e serviços rápidos, sem texto de súmulas. A resposta foi conferida no acesso direto e no navegador integrado e não foi tratada como ausência de precedentes.
 
 O catálogo próprio do TJBA permanece pendente. Na consulta de 21/10/2026, a página de precedentes dos Juizados Especiais e o endereço do PDF de súmulas atualizado em março de 2026 devolveram o mesmo aviso oficial de interrupção preventiva dos sistemas, datado de 20/10/2026. O endereço do PDF respondeu com HTML de 4.454 bytes, sem documento PDF; o coletor nativo da página encerrou com “cross-origin request blocked”. A resposta não foi tratada como catálogo vazio nem como PDF válido. Os 17 registros de súmula do TJBA já presentes no BNP permanecem publicados, sem alegação de conciliação com os catálogos próprios.
 
