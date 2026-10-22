@@ -1,6 +1,6 @@
 # Cobertura
 
-**26.030 registros únicos de 88 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**26.058 registros únicos de 89 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -150,6 +150,7 @@
 | [TCEPE — Rol oficial de súmulas e nota do catálogo](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/rol-de-sumulas) | 20 | 20 | 0 |
 | [TCEPE — Enunciados de Prejulgados](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/enunciados-prejulgados) | 77 | 77 | 0 |
 | [TCEPE — Teses de Uniformização de Jurisprudência](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/teses-uniformizacao) | 3 | 3 | 0 |
+| [TCE-RJ — Súmulas, fichas e acórdãos das propostas](https://www.tcerj.tc.br/cadastro-publicacoes/public/sumulas) | 28 | 28 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -290,6 +291,14 @@ A nº 34 aparece no catálogo entre as nº 78 e 77; sua identidade segue o núme
 O catálogo de Pareceres em Consulta do TCEES acrescenta 1.038 atos, de 1997 a 2026, identificados pelo número imutável da norma no portal oficial. As 21 páginas do índice foram lidas duas vezes, com 50 atos por página e 38 na última. As relações entre atos não foram contadas como novos pareceres. Também foram conciliadas duas leituras de cada ficha e dos 1.612 PDFs distintos vinculados, com 20.267 páginas por leitura e igualdade dos bytes de cada par de arquivos. Os documentos atuais e as versões históricas permanecem separados, incluindo anotações de revogação, publicações e datas não preenchidas como “01/01/0001”, sem inferir vigência.
 
 O histórico de 215 atos contém uma referência com identificador de documento zero, sem arquivo válido; essas referências foram sinalizadas. Duas consultas têm páginas sem texto extraível e recebem aviso de conteúdo incompleto: no documento 3361706, a página 24 foi inspecionada e está em branco; no documento 3361135, as páginas 2 a 8 são digitalizadas e continuam sem transcrição. A versão histórica 1041219 tem texto nas oito páginas, apresentado separadamente, sem substituir o arquivo atual. A extração conserva as páginas e imperfeições do texto fornecido pela fonte. Os originais, recibos e chaves de download ficam privados; os Markdown remetem à página pública de cada ato. Duas URLs assinadas presentes em notas do PDF 4614286 foram omitidas do texto público, com indicação da alteração e preservação do identificador do documento citado. Endereços sem chave de fornecimento permanecem como informados na fonte. Documentos apenas citados e a recuperação de texto das páginas digitalizadas continuam pendentes.
+
+O TCE-RJ acrescenta as 28 súmulas do seu catálogo público, em sequência de 1 a 28. Foram preservados os enunciados, as fichas completas, os números e tipos das sessões, publicações e edições do Diário Oficial, datas de criação e última revisão do cadastro e referências às propostas. Os arquivos seguem o número oficial da súmula, não o identificador interno: a nº 7 tem identificador 8 e a nº 28, identificador 30. Nenhuma aparece marcada como cancelada no catálogo consultado; isso não comprova vigência atual.
+
+As fichas individuais acrescentam 239 referências a processos que não vêm preenchidas na resposta do índice. Todos os números, links públicos e valores do campo publicacao dessas referências foram preservados, sem tratá-los como datas confirmadas de julgamento ou publicação dos processos citados. As datas e horas dos campos de criação, última revisão, sessão e publicação da súmula permanecem atribuídas ao cadastro, sem correção por inferência ou conversão de fuso.
+
+As duas leituras do índice, das 28 fichas, das consultas relativas a 25 propostas e dos 19 PDFs disponíveis foram conciliadas em 146 capturas. Os 19 documentos somam 161 páginas por leitura. A identificação do acórdão e do processo foi conferida nos cabeçalhos dos PDFs. As nº 17, 18 e 19 compartilham o Acórdão 111048/2023, apresentado como documento vinculado em cada verbete, sem criar outros registros. Nas nº 1 a 7, o serviço usado pelo próprio portal retornou listas vazias para as propostas nas duas leituras: seus acórdãos permanecem pendentes, com aviso individual e preservação dos enunciados e fichas. Isso não foi interpretado como inexistência dos atos.
+
+Onze pares de PDFs têm bytes idênticos. Nos outros oito, o serviço gerou identificadores internos e datas técnicas de criação e modificação diferentes; a comparação estrita confirmou que todos os demais bytes e o texto completo são iguais. Os dois originais e respectivos recibos foram mantidos privadamente. Essas datas de geração não foram usadas como datas dos acórdãos. A página 2 do Acórdão 439/2026 não tem corpo textual: a inspeção visual confirmou apenas o timbre e elementos gráficos do tribunal, identificados no Markdown. As demais páginas tiveram seu texto extraído e preservado por página. Os inteiros teores dos processos citados nas 239 referências e dos demais atos apenas mencionados ainda não foram incorporados; a cobertura das demais séries continua parcial.
 
 Os catálogos de Enunciados de Prejulgados e de Teses de Uniformização de Jurisprudência do TCEPE acrescentam, respectivamente, 77 e três registros, em séries próprias (PREJ e TU). A numeração oficial segue os códigos 1 a 77 e 1 a 3, preservando separadamente os identificadores internos da fonte. As duas leituras de cada catálogo e da respectiva nota geral foram conciliadas em oito capturas HTTP, com igualdade dos conteúdos. As consultas mantiveram os filtros públicos da aplicação, publicados e não excluídos, sem tratá-los como prova de ausência de outras versões.
 
@@ -647,11 +656,12 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEPE](tribunais/TCEPE/) | 100 | TCEPE — Enunciados de Prejulgados; TCEPE — Rol oficial de súmulas e nota do catálogo; TCEPE — Teses de Uniformização de Jurisprudência |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
+| [TCERJ](tribunais/TCERJ/) | 28 | TCE-RJ — Súmulas, fichas e acórdãos das propostas |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE e TCEPE são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE e TCERJ são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
