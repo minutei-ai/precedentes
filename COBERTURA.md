@@ -1,6 +1,6 @@
 # Cobertura
 
-**25.930 registros únicos de 87 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**25.950 registros únicos de 88 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -147,6 +147,7 @@
 | [TCEBA — Súmulas vigentes, canceladas e resoluções vinculadas](https://www.tce.ba.gov.br/legislacao/sumulas) | 21 | 21 | 0 |
 | [TCEGO — Súmulas, fichas e documentos para impressão](https://www.tce.go.gov.br/Sumula) | 2 | 2 | 0 |
 | [TCECE — Súmulas e publicações oficiais vinculadas](https://www.tce.ce.gov.br/jurisdicionado/jurisprudencia/sumulas) | 7 | 7 | 0 |
+| [TCEPE — Rol oficial de súmulas e nota do catálogo](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/rol-de-sumulas) | 20 | 20 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -287,6 +288,12 @@ A nº 34 aparece no catálogo entre as nº 78 e 77; sua identidade segue o núme
 O catálogo de Pareceres em Consulta do TCEES acrescenta 1.038 atos, de 1997 a 2026, identificados pelo número imutável da norma no portal oficial. As 21 páginas do índice foram lidas duas vezes, com 50 atos por página e 38 na última. As relações entre atos não foram contadas como novos pareceres. Também foram conciliadas duas leituras de cada ficha e dos 1.612 PDFs distintos vinculados, com 20.267 páginas por leitura e igualdade dos bytes de cada par de arquivos. Os documentos atuais e as versões históricas permanecem separados, incluindo anotações de revogação, publicações e datas não preenchidas como “01/01/0001”, sem inferir vigência.
 
 O histórico de 215 atos contém uma referência com identificador de documento zero, sem arquivo válido; essas referências foram sinalizadas. Duas consultas têm páginas sem texto extraível e recebem aviso de conteúdo incompleto: no documento 3361706, a página 24 foi inspecionada e está em branco; no documento 3361135, as páginas 2 a 8 são digitalizadas e continuam sem transcrição. A versão histórica 1041219 tem texto nas oito páginas, apresentado separadamente, sem substituir o arquivo atual. A extração conserva as páginas e imperfeições do texto fornecido pela fonte. Os originais, recibos e chaves de download ficam privados; os Markdown remetem à página pública de cada ato. Duas URLs assinadas presentes em notas do PDF 4614286 foram omitidas do texto público, com indicação da alteração e preservação do identificador do documento citado. Endereços sem chave de fornecimento permanecem como informados na fonte. Documentos apenas citados e a recuperação de texto das páginas digitalizadas continuam pendentes.
+
+O TCEPE acrescenta as 20 súmulas do rol oficial, em sequência de 1 a 20, com os textos históricos das nº 1, 2, 5 e 15 marcados como cancelados. O enunciado, os fundamentos jurídicos incorporados à descrição e as referências de publicação ou cancelamento foram preservados integralmente. A identidade dos arquivos segue o número da súmula, mantendo separadamente o identificador interno da API: por exemplo, a nº 19 tem identificador 1 e a nº 1 tem identificador 19.
+
+A aplicação oficial consome o rol completo sem paginação e apresenta uma nota geral sobre a função das súmulas. As duas leituras do rol e dessa nota foram conciliadas em quatro capturas HTTP, com igualdade dos respectivos conteúdos. As entidades HTML foram decodificadas conforme a apresentação do portal. A junção literal “danoso.2.” entre os itens da nº 20 e sua referência à publicação de 29.02.2024 foram mantidas sem correção editorial. Nas nº 1, 2 e 5 consta cancelamento em 29 de agosto de 2012; na nº 15, em 20 de setembro de 2017.
+
+Os campos próprios de data de publicação e cancelamento, processo, deliberação, relator e órgão julgador estão vazios no retorno do rol. As datas descritas nos títulos foram preservadas sem convertê-las em atualização individual, e a ausência da marca de cancelamento não foi tratada como prova de vigência atual. Os originais e recibos ficam privados. Os fundamentos e processos apenas mencionados e as demais séries do tribunal continuam pendentes de conciliação.
 
 O TCEGO acrescenta as duas súmulas do catálogo oficial. Os números 1 e 2 correspondem aos identificadores internos 1 e 21, respectivamente; a identidade dos arquivos usa o número da súmula. O índice de uma página, o contrato da ação nativa, as fichas e os documentos HTML para impressão foram lidos duas vezes, em 12 capturas. Foram preservados enunciados, aprovação, publicação, referências legislativas e as tabelas de seis colunas: seis linhas com processos citados na nº 1 e oito na nº 2, cuja última linha adicional está vazia e foi mantida. As legendas das tabelas foram mantidas como títulos para permitir sua renderização em Markdown. As apresentações da ficha e da impressão permanecem separadas, com suas diferenças de grafia e formatação de datas. Os processos apenas citados não foram integralmente coletados, e a presença no catálogo não comprova vigência atual.
 
@@ -630,12 +637,13 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEGO](tribunais/TCEGO/) | 2 | TCEGO — Súmulas, fichas e documentos para impressão |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
+| [TCEPE](tribunais/TCEPE/) | 20 | TCEPE — Rol oficial de súmulas e nota do catálogo |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO e TCECE são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE e TCEPE são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
