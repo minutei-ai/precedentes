@@ -1,6 +1,6 @@
 # Cobertura
 
-**26.834 registros únicos de 92 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**26.864 registros únicos de 93 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,9 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCEPI — Súmula e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/sumulas/) | 19 | 19 | 0 |
+| [TCEPI — Prejulgado e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/prejulgados/) | 3 | 3 | 0 |
+| [TCEPI — Procedimento de uniformização e documentos oficiais](https://www.tcepi.tc.br/legislacao/jurisprudencia/procedimentos-de-uniformizacao/) | 8 | 8 | 0 |
 | [TCEAL — Súmula e julgados de referência](https://www.tceal.tc.br//view/publicacao_sumulas.php?cc=MTY=&td=NTM=) | 4 | 4 | 0 |
 | [TCEAL — Prejulgado e julgados de referência](https://www.tceal.tc.br//view/publicacao_sumulas.php?cc=MTY=&td=NTQ=) | 59 | 59 | 0 |
 | [TCEAL — Questão de ordem e julgados de referência](https://www.tceal.tc.br//view/publicacao_sumulas.php?cc=MTY=&td=NTU=) | 2 | 2 | 0 |
@@ -331,6 +334,14 @@ Os 33 PDFs disponíveis foram lidos duas vezes: cada par tem bytes idênticos e 
 A nº 24 aparece no ementário como cancelada pela Decisão nº 2092/2014-TC, apesar de o campo inativa permanecer false. O serviço de PDF respondeu HTTP 400 nas duas leituras; a redação anterior continua pendente. O endereço histórico de súmulas retornou a mesma aplicação atual, sem outro arquivo. A indicação de cancelamento e a divergência do cadastro foram preservadas. Não reconstruímos o texto a partir de notícias ou decisões que apenas o mencionam.
 
 São 70 capturas deste catálogo: duas do rol, 66 de PDFs e duas das respostas de erro, mantidas privadamente com seus recibos. Os Markdown reproduzem todas as páginas disponíveis. A validação é específica deste lote e não representa nova coleta dos demais órgãos; outras séries do TCERN e a cobertura nacional continuam parciais.
+
+O TCEPI acrescenta 30 registros das três séries consultadas: 19 súmulas (1 a 19), três prejulgados de 2026 (1 a 3) e oito procedimentos de uniformização identificados pelo número do processo. Foram lidas as duas páginas do catálogo de súmulas, as fichas completas e os catálogos das outras duas séries. Duas leituras independentes confirmaram os mesmos identificadores, textos, referências e datas apresentadas. A paginação das súmulas termina na segunda página.
+
+A nº 9 aparece em duas publicações, uma com o título Nova Redação. Ambas apresentam atualmente o texto dado pela Decisão Plenária nº 202/13-E e remetem ao mesmo PDF de alteração; foram reunidas em um único registro, preservando as duas fichas e seus links. Essas publicações não comprovaram a recuperação da redação anterior. O número foi conferido no cabeçalho dos 19 PDFs de súmulas. Referências legislativas, julgados, datas de julgamento e notas dos documentos permanecem integrais, sem inferir vigência a partir da data da página.
+
+Os três prejulgados remetem a acórdãos. Quatro dos oito procedimentos de uniformização têm PDFs diretamente vinculados. Nos outros quatro, a consulta processual confirmou o processo e o assunto e levou ao visualizador público. O serviço nativo listou 84 peças; foram coletadas as 16 decisões, acórdãos, votos e relatórios de voto com visualização pública, sem sigilo, restrição ou taxa. Peças não visíveis e demais atos de tramitação permanecem fora da transcrição; não foram usados login, cookies de sessão ou troca de usuário. As contas de usuários e o histórico de movimentações não foram projetados nos Markdown.
+
+Foram preservados 42 PDFs em duas leituras, somando 113 páginas por leitura, sem página vazia ou codificação textual inválida. Em 27 pares, os bytes são idênticos. Os outros 15 PDFs, exportados pelo visualizador, diferem somente em datas técnicas de criação/modificação, identificadores internos de geração e na marca Gerado em do rodapé de validação: a comparação de todos os objetos e fluxos descomprimidos do PDF confirmou igualdade fora desses campos. Ambas as capturas permanecem preservadas, e o Markdown reproduz a primeira leitura com seu rodapé original. Os destinos dos links anotados nos documentos também foram mantidos. São 154 capturas formais entre catálogos, fichas, consultas, listas de peças e PDFs, mantidas privadamente com seus recibos. A validação é específica destas séries; outras decisões do TCEPI e a cobertura nacional continuam parciais.
 
 O TCEAL acrescenta os 65 registros das três séries disponíveis no portal: quatro súmulas (1 a 4), 59 prejulgados (1 a 59) e duas questões de ordem (1 e 2). As duas leituras sem filtros de cada catálogo retornaram os mesmos identificadores, descrições, datas e documentos, sem paginação adicional apresentada. Os contadores de download foram desconsiderados na comparação. Os resumos, perguntas, respostas, fundamentos e notas do catálogo foram preservados integralmente; o rótulo Prejugado n. 28 e os anos eventualmente presentes nos títulos foram mantidos como na origem.
 
@@ -699,6 +710,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEMS](tribunais/TCEMS/) | 91 | TCEMS — Súmulas e PDFs oficiais |
 | [TCEPE](tribunais/TCEPE/) | 100 | TCEPE — Enunciados de Prejulgados; TCEPE — Rol oficial de súmulas e nota do catálogo; TCEPE — Teses de Uniformização de Jurisprudência |
+| [TCEPI](tribunais/TCEPI/) | 30 | TCEPI — Prejulgado e documentos oficiais; TCEPI — Procedimento de uniformização e documentos oficiais; TCEPI — Súmula e documentos oficiais |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCERJ](tribunais/TCERJ/) | 614 | TCE-RJ — Consultas, ementas e documentos vinculados; TCE-RJ — Súmulas, fichas e acórdãos das propostas |
 | [TCERN](tribunais/TCERN/) | 34 | TCERN — Súmulas e PDFs oficiais |
@@ -706,7 +718,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS e TCEAL são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL e TCEPI são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
