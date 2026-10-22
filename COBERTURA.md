@@ -1,6 +1,6 @@
 # Cobertura
 
-**24.771 registros únicos de 83 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**24.775 registros únicos de 84 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -141,6 +141,7 @@
 | [TCEPR — Uniformizações de jurisprudência e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/decisoes-do-tribunal-uniformizacao-de-jurisprudencia/) | 23 | 23 | 0 |
 | [TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/incidente-de-inconstitucionalidade/) | 19 | 19 | 0 |
 | [TCEPR — Consultas com força normativa e anexos oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/consultas-com-forca-normativa/) | 933 | 933 | 0 |
+| [TCEES — Súmulas e PDFs individuais oficiais](https://www.tcees.tc.br/jurisprudencia/sumula-de-jurisprudencia/) | 4 | 4 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -269,6 +270,10 @@ O catálogo de Consultas com Força Normativa do TCEPR acrescenta 933 registros,
 A identificação do documento principal foi conferida em 920 registros. Outros 13 preservam a referência do catálogo com inteiro teor principal pendente: oito sem anexo disponível, três com anexo de outra decisão, um com apenas certidão de publicação e um com embargos de declaração relacionados. O texto das entradas sem anexo foi mantido, inclusive trechos mais completos que o campo de resumo e um marcador de multimídia sem endereço, sem inventar o vínculo ausente. O Acórdão nº 1857/19 é um registro próprio de embargos em consulta e mantém essa espécie.
 
 Seis anexos vinculados a outras decisões não foram atribuídos como inteiro teor das consultas; em três dessas referências há outro documento correto, preservado. Os dois anexos da referência 1145/16 contêm o mesmo texto dos embargos 1785/16, apresentado uma vez com ambos os vínculos. Na referência 3921/20, a certidão não foi tratada como acórdão. As numerações 3250/24, 219/10 e 2862/07 do catálogo divergem dos documentos 3520/24, 1219/10 e 1862/07, respectivamente: processo e data da sessão foram conferidos, a identificação do documento foi usada e as referências originais permaneceram visíveis. Divergências de processo, campos numéricos inválidos, retificações e anotações de entendimento superado também foram mantidos com atribuição à fonte, sem inferir vigência ou eficácia atual. A conciliação de documentos ausentes e atos apenas citados continua aberta.
+
+O TCEES acrescenta as quatro súmulas do seu catálogo e os quatro PDFs individuais, cada um com uma página. O assunto, a redação e as publicações do catálogo foram preservados junto dos processos, precedentes, autuação, relatoria, decisão, sessão e publicação disponíveis nos documentos. Os links do catálogo usam o rótulo “Prejulgado”, mas a tabela e os cabeçalhos dos arquivos os identificam como súmulas: não foram contados como outra espécie.
+
+O catálogo e os documentos foram lidos duas vezes, diretamente por HTTP com TLS validado; os bytes de cada par de PDFs coincidem. O enunciado coincide entre as duas apresentações, desconsideradas maiúsculas, espaços e hifens de quebra de linha; a formatação e os textos originais foram mantidos. As referências à publicação da súmula no catálogo e à publicação do acórdão nos documentos permanecem separadas. As grafias “07.05/2019” da sessão da nº 4 e a edição nº 1197 associada à publicação de 10.12.2018 da nº 3 foram mantidas conforme o PDF, sem correção por inferência. A presença no catálogo não comprova vigência atual. Os atos e julgados citados e as demais séries do TCEES continuam pendentes de conciliação.
 
 O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
 
@@ -595,13 +600,14 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
+| [TCEES](tribunais/TCEES/) | 4 | TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC e TCEPR são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR e TCEES são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
