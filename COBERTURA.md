@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.040 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.399 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -125,6 +125,9 @@
 | [TJRJ — Repertório cronológico de 2026 e lista de súmulas canceladas](https://www.tjrj.jus.br/web/portal-conhecimento/sumulas/s%C3%BAmulas-do-tjrj) | 396 | 396 | 0 |
 | [TRF2 — Súmulas, biblioteca oficial e textos integrais](https://www.trf2.jus.br/trf2/consultas-e-servicos/sumulas-do-trf2) | 62 | 62 | 0 |
 | [TRT13 — Catálogo de súmulas e páginas individuais oficiais](https://www.trt13.jus.br/institucional/nugep/sumulas) | 45 | 45 | 0 |
+| [TRT7 — Súmulas do TRT7](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/sumulas-do-trt7.html) | 12 | 12 | 0 |
+| [TRT7 — Teses Jurídicas Prevalecentes do TRT7](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/teses-juridicas-prevalecentes.html) | 4 | 4 | 0 |
+| [TRT7 — Enunciados das Jornadas de Direito Material e Processual do Trabalho do TRT7](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/enunciados.html) | 343 | 343 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -145,6 +148,14 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRT7 acrescenta 12 súmulas, quatro teses jurídicas prevalecentes e 343 enunciados das dez jornadas disponíveis na página oficial, de 2015 a 2026. Os três catálogos foram capturados diretamente duas vezes, em seis respostas, com identidades, conteúdos e datas de página iguais. Os endereços atuais terminam em .html; o endereço antigo sem essa extensão continuou respondendo HTTP 403, inclusive no coletor nativo. O navegador integrado confirmou os vínculos atuais no menu do próprio portal, sem desativar TLS.
+
+As súmulas e teses conservam todas as linhas dos catálogos, incluindo as seis colunas dos precedentes e o histórico da súmula nº 1. Foram mantidas as referências, grafias e datas, inclusive datas de publicação anteriores às de julgamento apresentadas em algumas linhas. A indicação de atualização é da página, sem inferência de atualização individual ou de vigência. Os inteiros teores dos acórdãos e atos citados permanecem pendentes.
+
+Os enunciados de jornada pertencem a uma série própria e não foram tratados como decisões vinculantes. O número e o ano identificam cada registro: 197/2020 e 197/2021 são duas entradas distintas na fonte. Foram preservados os temas, as áreas, os textos e os cabeçalhos das dez jornadas, inclusive a grafia abreviada do cabeçalho de 2021. A ausência de tabelas de 2016 e 2023 nessa página não comprova inexistência de outras publicações.
+
+O catálogo marca dez enunciados como revogados e três com redação alterada. Os textos anteriores e as notas de alteração ou revogação foram mantidos. O 214/2022 apresenta apenas “REVOGA O ENUNCIADO 124/2019.” na coluna temática; o 111/2018 também remete à revogação pelo 214/2022. Essa diferença não foi corrigida. Seis células contêm a classe HTML “tachado”, mas o navegador não apresentou decoração de risco nessas células; preservamos uma nota dessa marcação sem acrescentar efeito jurídico. As fontes diretas de IAC, IRDR e outras publicações do TRT7 continuam pendentes de conciliação com o BNP.
 
 O TRT13 acrescenta as 45 súmulas do catálogo atual, com os textos integrais das respectivas páginas individuais, incluindo precedentes e históricos. A sequência de 1 a 45 foi conferida sem lacunas; o item adicional “Responsabilidade” corresponde ao expediente do setor e não foi transformado em precedente. Foram conciliadas duas leituras completas do catálogo e de todas as páginas individuais, em 92 capturas. Os títulos, resumos, endereços, marcações e textos permaneceram iguais.
 
@@ -447,7 +458,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT04](tribunais/TRT04/) | 202 | 202 | 202 |
 | [TRT05](tribunais/TRT05/) | 49 | 49 | 49 |
 | [TRT06](tribunais/TRT06/) | 80 | 36 | 36 |
-| [TRT07](tribunais/TRT07/) | 47 | 47 | 47 |
+| [TRT07](tribunais/TRT07/) | 406 | 47 | 47 |
 | [TRT08](tribunais/TRT08/) | 143 | 66 | 66 |
 | [TRT09](tribunais/TRT09/) | 232 | 65 | 65 |
 | [TRT10](tribunais/TRT10/) | 106 | 21 | 21 |
@@ -520,7 +531,7 @@ Na consulta de 21/10/2026, a [página oficial de súmulas do TRE-GO](https://www
 
 A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de IAC, agrupados em sete incidentes por número de processo e conferidos com os processos do BNP para evitar duplicatas. Os textos são apresentados como decisões, sem inferir tese firmada ou vigência. O inventário de classes indica também documentos históricos que a consulta ao SAJ não retornou; a conciliação com o e-SAJ e o acervo histórico do SJURIS continua pendente. Uma consulta vazia não foi tratada como inexistência de outros incidentes.
 
-Os catálogos do TRT5 e TRT7 ainda não foram conciliados. As consultas diretas retornaram bloqueio; no coletor nativo, o TRT7 respondeu HTTP 403 e a página do TRT5 encontrou uma funcionalidade de imagens não suportada. Essas falhas não foram tratadas como catálogos vazios.
+O catálogo do TRT5 ainda não foi conciliado. A consulta direta retornou bloqueio e a página encontrou uma funcionalidade de imagens não suportada no coletor nativo. Essas falhas não foram tratadas como catálogo vazio.
 
 A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta direta retornou bloqueio e a página de pesquisa excedeu o limite de estilos do coletor nativo. As fontes regionais incorporadas estão discriminadas acima; o bloqueio não foi tratado como catálogo vazio.
 
