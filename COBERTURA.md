@@ -1,6 +1,6 @@
 # Cobertura
 
-**27.365 registros únicos de 94 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**27.394 registros únicos de 95 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCERO — Súmulas, aplicações e versões documentais oficiais](https://spj.tcero.tc.br/jurisprudencia/sumulas-inteiro-teor/) | 29 | 29 | 0 |
 | [TCDF — Súmulas, fichas e textos oficiais no SINJ](https://www.sinj.df.gov.br/sinj/ResultadoDePesquisa?tipo_pesquisa=norma&all=&ch_tipo_norma=76000000&nm_tipo_norma=S%C3%BAmula&nr_norma=&ano_assinatura=&ch_orgao=613&ch_hierarquia=613&sg_hierarquia_nm_vigencia=TCDF+-+Tribunal+de+Contas+do+Distrito+Federal+%281960-%29&origem_por=toda_a_hierarquia_em_qualquer_epoca1) | 114 | 114 | 0 |
 | [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/) | 388 | 387 | 1 |
 | [TCEPI — Súmula e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/sumulas/) | 19 | 19 | 0 |
@@ -345,6 +346,7 @@ O acesso HTTP direto ao portal de jurisprudência do TCDF falhou na validação 
 
 Os atos de atualização e processos apenas citados não foram contados como registros adicionais nem tiveram todos os seus documentos coletados. As demais categorias do TCDF e a conciliação nacional continuam abertas.
 
+O TCERO reúne 29 súmulas (1 a 28 e 1-A), com cancelamento indicado pela SPJ nas nº 9 e 17. As tabelas de inteiro teor e aplicações foram conciliadas em duas leituras, preservando 73 referências a julgados, sem coletar seus inteiros teores nem contá-los como novas súmulas. O portal de legislação forneceu 54 fichas dos tipos 11 e 26, vinculadas às mesmas 29 identidades; seus códigos A/E não foram interpretados como situação jurídica. Foram preservadas 168 capturas, com 77 endereços de PDFs válidos e 47 conteúdos binários distintos; as 176 páginas somadas por endereço resultam em 100 páginas transcritas após retirar repetições idênticas dentro de cada registro. O link da nº 7 na SPJ retornou HTTP 404 nas duas leituras; duas alternativas oficiais, de 2 e 4 páginas, foram recuperadas pelo portal de legislação. Datas da API e dos documentos permanecem identificadas por origem, inclusive quando divergem. Duas fichas cadastradas como nº 1 foram associadas à 1-A somente após confirmação pela epígrafe dos PDFs. A redação da tabela e a dos documentos foram mantidas separadamente. Não há página com transcrição pendente neste lote; outras categorias do TCERO e a cobertura nacional continuam parciais.
 O catálogo de consultas do TCEPI tem 388 fichas distribuídas em 39 páginas, conferidas em duas leituras completas e sem repetição de identificadores de publicação entre páginas. Foram acrescentados 387 registros: as duas publicações da consulta que resultou na Resolução nº 1.054/05, processo TC-E nº 029009/05, foram conciliadas em um único arquivo, preservando o ato vinculado e o resumo da compilação. As fichas são temáticas e podem reunir vários documentos ou tratar de questões de um mesmo processo. Os títulos foram preservados como identificação da publicação, sem transformá-los em números de processo nem usar a data da página como data de julgamento ou prova de vigência.
 
 As consultas históricas remetem a cópias de uma mesma compilação, com nomes de arquivo diferentes e bytes idênticos, contendo 79 respostas distribuídas em 16 páginas físicas. A página 6 foi confirmada em branco. Um cabeçalho usa o rótulo PROCESS0, com zero; o texto foi mantido e a resposta separada da consulta anterior. Os trechos foram conciliados por processo, assunto e conteúdo, preservando perguntas, conclusões, pareceres e resoluções citadas, sem repetir o livro inteiro em cada ficha. Respostas adicionais do mesmo processo permanecem identificadas como contexto, sem criar publicações fictícias.
@@ -733,11 +735,12 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCERJ](tribunais/TCERJ/) | 614 | TCE-RJ — Consultas, ementas e documentos vinculados; TCE-RJ — Súmulas, fichas e acórdãos das propostas |
 | [TCERN](tribunais/TCERN/) | 34 | TCERN — Súmulas e PDFs oficiais |
+| [TCERO](tribunais/TCERO/) | 29 | TCERO — Súmulas, aplicações e versões documentais oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI e TCDF são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF e TCERO são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
