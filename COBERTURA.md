@@ -1,6 +1,6 @@
 # Cobertura
 
-**22.537 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**22.933 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -122,6 +122,7 @@
 | [TCESP — Repertório de súmulas, histórico e fundamento](https://www.tce.sp.gov.br/boletim-de-jurisprudencia/sumulas) | 52 | 52 | 0 |
 | [TCEMG — Enunciados de súmula e PDFs individuais oficiais](https://www.tce.mg.gov.br/Noticia/Detalhe/67) | 127 | 127 | 0 |
 | [TCESC — Enunciados de Consulta no sistema oficial de pesquisa](https://www.tcesc.tc.br/enunciados-de-consulta) | 2.569 | 2.569 | 0 |
+| [TJRJ — Repertório cronológico de 2026 e lista de súmulas canceladas](https://www.tjrj.jus.br/web/portal-conhecimento/sumulas/s%C3%BAmulas-do-tjrj) | 396 | 396 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -142,6 +143,14 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TJRJ acrescenta os 396 verbetes do repertório cronológico de 2026, com os textos e as referências integrais de suas 51 páginas. A sequência de 396 a 1 foi conciliada sem lacunas; a grafia “Nº 381”, sem ponto após o indicador, foi mantida. O rodapé do repertório informa sua republicação no DJERJ, ADM, de 01/07/2026, p. 56-87, e a determinação de republicação no processo administrativo nº 2006-024254. Essa data identifica a edição do documento e não foi atribuída como atualização individual de todos os verbetes.
+
+A lista oficial de súmulas canceladas, de 15 páginas e com atualização informada em 01/07/2026, contém 67 verbetes. Seus números coincidem com as 67 marcações de cancelamento do repertório cronológico. Os textos e as notas das duas fontes foram preservados separadamente, incluindo decisões, processos, datas, relatorias e ressalvas. Para os demais 329 números, a ausência de marcação de cancelamento não foi convertida em afirmação de vigência.
+
+As anotações dos PDFs foram extraídas com suas posições e conciliadas com a sequência textual, inclusive nos títulos fragmentados em vários elementos. Foram preservados 502 destinos distintos por verbete e documento: 441 no repertório e 61 na lista de cancelamentos. Fragmentos de uma mesma anotação não geraram links repetidos. Na súmula nº 202, um destino da lista consiste apenas no número literal 0009812-44.2012.8.19.0001, sem endereço absoluto; ele foi mantido como referência textual, sem reconstruir uma URL. Na nº 393, o destino explícito de um endereço Safe Links foi apresentado sem os parâmetros de rastreamento, mantendo o original integral apenas na captura privada.
+
+O acesso direto ao TJRJ voltou a falhar na verificação da cadeia TLS, e o coletor nativo não produziu captura válida nesta reconsulta. O navegador integrado abriu a fonte e permitiu a captura dos documentos. As duas leituras de cada PDF coincidiram byte a byte, e os vínculos do catálogo permaneceram iguais. O HTML original usa o host portaltj.tjrj.jus.br; a página renderizada apresenta os mesmos caminhos no host www.tjrj.jus.br, utilizado nas capturas dos PDFs. As respostas originais, a apresentação dos links e os hashes foram preservados privadamente, sem desativar a validação TLS. O documento por ramo do Direito, os inteiros teores dos julgados e as normas vinculados permanecem pendentes de conciliação.
 
 O TCESC acrescenta 2.569 Enunciados de Consulta, série anteriormente denominada prejulgados, a partir do sistema de pesquisa indicado pelo portal atual da Corte. Foram percorridas as 26 páginas de cem registros, com 69 registros na última página, em duas leituras completas. As contagens, posições, identificadores, textos, metadados, assuntos e relações coincidiram nas duas leituras. Os identificadores seguem o número oficial do enunciado, sem criar registros para lacunas de numeração.
 
@@ -405,7 +414,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJPR](tribunais/TJPR/) | 232 | 166 | 166 |
 | [TJPE](tribunais/TJPE/) | 338 | 190 | 190 |
 | [TJPI](tribunais/TJPI/) | 94 | 25 | 25 |
-| [TJRJ](tribunais/TJRJ/) | 91 | 89 | 90 |
+| [TJRJ](tribunais/TJRJ/) | 487 | 89 | 90 |
 | [TJRN](tribunais/TJRN/) | 63 | 11 | 11 |
 | [TJRS](tribunais/TJRS/) | 292 | 47 | 47 |
 | [TJRO](tribunais/TJRO/) | 30 | 21 | 21 |
@@ -510,8 +519,6 @@ O catálogo próprio do TJBA permanece pendente. Na consulta de 21/10/2026, a p�
 A página da Turma de Uniformização do TJTO devolveu o aviso oficial “Site em manutenção”, sem os enunciados. A resposta foi preservada privadamente e não foi usada para inferir ausência de precedentes ou cancelar registros já publicados. A conciliação desse catálogo permanece pendente.
 
 O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
-
-As súmulas do TJRJ ainda não foram incorporadas. O catálogo institucional e o PDF de 2026 falharam na validação da cadeia TLS na consulta direta; o coletor nativo também falhou por certificado não confiável. A validação TLS foi mantida. Isso não significa que o tribunal não tenha súmulas.
 
 O catálogo próprio de súmulas do TJSE permanece pendente. As consultas diretas ao portal principal e ao endereço institucional ejusepos excederam 45 segundos; o coletor nativo encerrou com “scrape deadline or invalid input”. A tentativa pelo navegador integrado também excedeu o prazo de navegação, sem captura válida do catálogo. Essas falhas não foram tratadas como ausência de súmulas e não afetam os registros do TJSE já obtidos no BNP.
 
