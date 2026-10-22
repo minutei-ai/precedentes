@@ -1,6 +1,6 @@
 # Cobertura
 
-**25.900 registros únicos de 84 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**25.921 registros únicos de 85 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -144,6 +144,7 @@
 | [TCEES — Súmulas e PDFs individuais oficiais](https://www.tcees.tc.br/jurisprudencia/sumula-de-jurisprudencia/) | 4 | 4 | 0 |
 | [TCEES — Prejulgados e deliberações oficiais vinculadas](https://www.tcees.tc.br/jurisprudencia/prejulgado/) | 87 | 87 | 0 |
 | [TCEES — Pareceres em Consulta e versões documentais oficiais](https://www.tcees.tc.br/jurisprudencia/pareceres-em-consulta/) | 1.038 | 1.038 | 0 |
+| [TCEBA — Súmulas vigentes, canceladas e resoluções vinculadas](https://www.tce.ba.gov.br/legislacao/sumulas) | 21 | 21 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -284,6 +285,12 @@ A nº 34 aparece no catálogo entre as nº 78 e 77; sua identidade segue o núme
 O catálogo de Pareceres em Consulta do TCEES acrescenta 1.038 atos, de 1997 a 2026, identificados pelo número imutável da norma no portal oficial. As 21 páginas do índice foram lidas duas vezes, com 50 atos por página e 38 na última. As relações entre atos não foram contadas como novos pareceres. Também foram conciliadas duas leituras de cada ficha e dos 1.612 PDFs distintos vinculados, com 20.267 páginas por leitura e igualdade dos bytes de cada par de arquivos. Os documentos atuais e as versões históricas permanecem separados, incluindo anotações de revogação, publicações e datas não preenchidas como “01/01/0001”, sem inferir vigência.
 
 O histórico de 215 atos contém uma referência com identificador de documento zero, sem arquivo válido; essas referências foram sinalizadas. Duas consultas têm páginas sem texto extraível e recebem aviso de conteúdo incompleto: no documento 3361706, a página 24 foi inspecionada e está em branco; no documento 3361135, as páginas 2 a 8 são digitalizadas e continuam sem transcrição. A versão histórica 1041219 tem texto nas oito páginas, apresentado separadamente, sem substituir o arquivo atual. A extração conserva as páginas e imperfeições do texto fornecido pela fonte. Os originais, recibos e chaves de download ficam privados; os Markdown remetem à página pública de cada ato. Duas URLs assinadas presentes em notas do PDF 4614286 foram omitidas do texto público, com indicação da alteração e preservação do identificador do documento citado. Endereços sem chave de fornecimento permanecem como informados na fonte. Documentos apenas citados e a recuperação de texto das páginas digitalizadas continuam pendentes.
+
+O TCEBA acrescenta as 21 súmulas do catálogo oficial, de 1 a 21: 12 no grupo de vigentes e nove no de canceladas. Foram preservados os enunciados, as redações anteriores, publicações, relatores, processos e destinos dos links. Nove verbetes têm histórico adicional oculto no HTML da página; esse conteúdo foi identificado separadamente no Markdown. O cabeçalho duplicado oculto da nº 1 e seu link foram mantidos como referência, sem criar outro registro. A classificação é a do catálogo consultado, sem atualização por inferência.
+
+As duas leituras do catálogo de súmulas, da referência pertinente no catálogo de resoluções e dos nove PDFs disponíveis foram conciliadas em 26 capturas, incluindo as páginas de erro dos dois endereços quebrados. Os PDFs contêm 18 páginas por leitura, com igualdade dos bytes de cada par. Quatro deles não forneceram texto: as Resoluções 024/2007, 086/2007, 112/2008 e 090/2006, com nove páginas ao todo. As transcrições desses anexos permanecem pendentes e os 13 verbetes correspondentes recebem aviso; seus textos e metadados do catálogo foram preservados.
+
+O link da Resolução nº 078/2018, associado ao cancelamento da nº 16, retornou HTTP 404 nas duas leituras; seu inteiro teor continua pendente. O endereço original da Resolução nº 043/2025, das nº 17 e 19, também retornou 404, mas o documento foi recuperado a partir do catálogo oficial de resoluções normativas, que informa 15/07/2025 e publicação em 18/07/2025. As referências de data do catálogo de súmulas, que informa 18/07/25, e do documento foram mantidas sem correção silenciosa. Originais e recibos ficam privados. Os processos e demais atos apenas citados ainda não foram integralmente coletados.
 
 O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
 
@@ -610,6 +617,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
+| [TCEBA](tribunais/TCEBA/) | 21 | TCEBA — Súmulas vigentes, canceladas e resoluções vinculadas |
 | [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
@@ -617,7 +625,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR e TCEES são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES e TCEBA são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
