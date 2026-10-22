@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.819 registros únicos de 83 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.838 registros únicos de 83 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -139,6 +139,7 @@
 | [TCEPR — Súmulas e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/sumulas/) | 13 | 13 | 0 |
 | [TCEPR — Prejulgados e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/prejulgados/) | 40 | 40 | 0 |
 | [TCEPR — Uniformizações de jurisprudência e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/decisoes-do-tribunal-uniformizacao-de-jurisprudencia/) | 23 | 23 | 0 |
+| [TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/incidente-de-inconstitucionalidade/) | 19 | 19 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -255,6 +256,12 @@ A série de uniformização de jurisprudência do TCEPR acrescenta 23 registros,
 Os títulos assinalam retificações das uniformizações nºs 5, 9, 15, 20 e 21. As nºs 12 e 19 indicam retificação da nº 5 e remetem uma à outra; a nº 13 retifica a nº 9, e a nº 23 retifica a nº 15. Essas referências e os históricos dos acórdãos foram preservados sem fundir os procedimentos. As diferenças de espaços e de apresentação dos títulos também foram mantidas. Não foi inferida vigência para os demais números nem atualização individual a partir dos carimbos do índice.
 
 A numeração é independente da série de prejulgados e das súmulas. A referência à uniformização nº 23 na súmula nº 12 permanece atribuída à fonte original; os documentos e situações dessas séries não foram sobrescritos uns pelos outros. A consulta e os PDFs foram capturados diretamente por HTTP em endereços oficiais com TLS validado. Originais e recibos permanecem privados. As demais séries, atos posteriores e documentos apenas citados continuam pendentes de coleta e conciliação.
+
+O catálogo de incidentes de inconstitucionalidade do TCEPR acrescenta 19 registros, em série própria (INC), identificados pelo número e pelo ano do acórdão. Os dois campos foram conciliados entre o título, os metadados da consulta e o PDF, sem tratar a numeração dos acórdãos como uma sequência de temas. Os títulos, assuntos, referências e os textos integrais dos 19 documentos foram preservados, em 329 páginas.
+
+As duas páginas da consulta e os 19 PDFs foram capturados duas vezes, em 42 respostas, com conteúdo conciliado, igualdade dos bytes de cada par de PDFs e tamanhos correspondentes aos metadados oficiais. O catálogo vai do Acórdão nº 1812/10 ao nº 1545/26 e marca como retificados os Acórdãos nº 3325/14 e 3555/18. Essas marcações e os históricos que acompanham os documentos foram mantidos, sem inferir situação atual para os demais registros ou atualização individual a partir dos carimbos do índice.
+
+Os incidentes permanecem em série independente dos prejulgados, das uniformizações e das súmulas. A coleta utilizou a consulta pública e os anexos oficiais diretamente por HTTP, com TLS validado. Os originais e recibos permanecem privados. As demais categorias, atos posteriores e documentos apenas citados continuam pendentes de coleta e conciliação.
 
 O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
 
@@ -582,7 +589,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
-| [TCEPR](tribunais/TCEPR/) | 76 | TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
+| [TCEPR](tribunais/TCEPR/) | 95 | TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
