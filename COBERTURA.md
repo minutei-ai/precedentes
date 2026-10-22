@@ -1,6 +1,6 @@
 # Cobertura
 
-**26.864 registros únicos de 93 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**27.251 registros únicos de 93 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/) | 388 | 387 | 1 |
 | [TCEPI — Súmula e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/sumulas/) | 19 | 19 | 0 |
 | [TCEPI — Prejulgado e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/prejulgados/) | 3 | 3 | 0 |
 | [TCEPI — Procedimento de uniformização e documentos oficiais](https://www.tcepi.tc.br/legislacao/jurisprudencia/procedimentos-de-uniformizacao/) | 8 | 8 | 0 |
@@ -334,6 +335,14 @@ Os 33 PDFs disponíveis foram lidos duas vezes: cada par tem bytes idênticos e 
 A nº 24 aparece no ementário como cancelada pela Decisão nº 2092/2014-TC, apesar de o campo inativa permanecer false. O serviço de PDF respondeu HTTP 400 nas duas leituras; a redação anterior continua pendente. O endereço histórico de súmulas retornou a mesma aplicação atual, sem outro arquivo. A indicação de cancelamento e a divergência do cadastro foram preservadas. Não reconstruímos o texto a partir de notícias ou decisões que apenas o mencionam.
 
 São 70 capturas deste catálogo: duas do rol, 66 de PDFs e duas das respostas de erro, mantidas privadamente com seus recibos. Os Markdown reproduzem todas as páginas disponíveis. A validação é específica deste lote e não representa nova coleta dos demais órgãos; outras séries do TCERN e a cobertura nacional continuam parciais.
+
+O catálogo de consultas do TCEPI tem 388 fichas distribuídas em 39 páginas, conferidas em duas leituras completas e sem repetição de identificadores de publicação entre páginas. Foram acrescentados 387 registros: as duas publicações da consulta que resultou na Resolução nº 1.054/05, processo TC-E nº 029009/05, foram conciliadas em um único arquivo, preservando o ato vinculado e o resumo da compilação. As fichas são temáticas e podem reunir vários documentos ou tratar de questões de um mesmo processo. Os títulos foram preservados como identificação da publicação, sem transformá-los em números de processo nem usar a data da página como data de julgamento ou prova de vigência.
+
+As consultas históricas remetem a cópias de uma mesma compilação, com nomes de arquivo diferentes e bytes idênticos, contendo 79 respostas distribuídas em 16 páginas físicas. A página 6 foi confirmada em branco. Um cabeçalho usa o rótulo PROCESS0, com zero; o texto foi mantido e a resposta separada da consulta anterior. Os trechos foram conciliados por processo, assunto e conteúdo, preservando perguntas, conclusões, pareceres e resoluções citadas, sem repetir o livro inteiro em cada ficha. Respostas adicionais do mesmo processo permanecem identificadas como contexto, sem criar publicações fictícias.
+
+Os PDFs diretamente vinculados e as fichas foram preservados com seus endereços originais, URLs finais de redirecionamento, status HTTP, cabeçalhos públicos selecionados e recibos privados. Falhas HTTP não são tratadas como inexistência do ato. Páginas sem texto extraível, com codificação inválida ou com OCR inconsistente confirmado permanecem identificadas como transcrição pendente; o conteúdo corrompido não foi usado para reconstruir redações jurídicas.
+
+A coleta é serial, com intervalo entre pedidos e tentativas limitadas. Duas respostas HTTP 503 foram preservadas e recuperadas em novas capturas, sem substituir as respostas anteriores. A validação é específica deste catálogo; a cobertura nacional continua parcial.
 
 O TCEPI acrescenta 30 registros das três séries consultadas: 19 súmulas (1 a 19), três prejulgados de 2026 (1 a 3) e oito procedimentos de uniformização identificados pelo número do processo. Foram lidas as duas páginas do catálogo de súmulas, as fichas completas e os catálogos das outras duas séries. Duas leituras independentes confirmaram os mesmos identificadores, textos, referências e datas apresentadas. A paginação das súmulas termina na segunda página.
 
@@ -710,7 +719,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEMS](tribunais/TCEMS/) | 91 | TCEMS — Súmulas e PDFs oficiais |
 | [TCEPE](tribunais/TCEPE/) | 100 | TCEPE — Enunciados de Prejulgados; TCEPE — Rol oficial de súmulas e nota do catálogo; TCEPE — Teses de Uniformização de Jurisprudência |
-| [TCEPI](tribunais/TCEPI/) | 30 | TCEPI — Prejulgado e documentos oficiais; TCEPI — Procedimento de uniformização e documentos oficiais; TCEPI — Súmula e documentos oficiais |
+| [TCEPI](tribunais/TCEPI/) | 417 | TCEPI — Consultas, fichas temáticas e documentos oficiais; TCEPI — Prejulgado e documentos oficiais; TCEPI — Procedimento de uniformização e documentos oficiais; TCEPI — Súmula e documentos oficiais |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCERJ](tribunais/TCERJ/) | 614 | TCE-RJ — Consultas, ementas e documentos vinculados; TCE-RJ — Súmulas, fichas e acórdãos das propostas |
 | [TCERN](tribunais/TCERN/) | 34 | TCERN — Súmulas e PDFs oficiais |
