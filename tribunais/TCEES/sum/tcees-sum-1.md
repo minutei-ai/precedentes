@@ -14,7 +14,7 @@
 
 O resumo do catálogo e o PDF de uma página foram preservados, incluindo assunto, redação, processos, precedentes, autuação, relatoria, decisão, sessão e publicação disponíveis. As referências à publicação da súmula e à publicação do acórdão no documento permanecem separadas, sem completar ou corrigir datas. A grafia e as aparentes inconsistências do documento foram mantidas.
 
-Duas leituras do catálogo e dos quatro PDFs foram conciliadas. O texto do enunciado coincide desconsideradas maiúsculas, espaços e hifens de quebra de linha; as duas apresentações permanecem como fornecidas. A presença no catálogo não comprova vigência atual. Os atos e julgados apenas citados e as demais séries do tribunal continuam pendentes.
+Duas leituras do catálogo e dos quatro PDFs foram conciliadas. O texto do enunciado coincide desconsideradas maiúsculas, espaços e hifens de quebra de linha; as duas apresentações permanecem como fornecidas. A presença no catálogo não comprova vigência atual. Os atos e julgados apenas citados não foram coletados com estes documentos.
 
 ### Página 1 do documento oficial
 
