@@ -1,0 +1,66 @@
+# TRF02 · Súmula
+
+**62 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trf02-sum-1.md) — Situação não informada
+- [SUM 2](trf02-sum-2.md) — Situação não informada
+- [SUM 3](trf02-sum-3.md) — Situação não informada
+- [SUM 4](trf02-sum-4.md) — Situação não informada
+- [SUM 5](trf02-sum-5.md) — Cancelada
+- [SUM 6](trf02-sum-6.md) — Situação não informada
+- [SUM 7](trf02-sum-7.md) — Situação não informada
+- [SUM 8](trf02-sum-8.md) — Situação não informada
+- [SUM 9](trf02-sum-9.md) — Situação não informada
+- [SUM 10](trf02-sum-10.md) — Situação não informada
+- [SUM 11](trf02-sum-11.md) — Situação não informada
+- [SUM 12](trf02-sum-12.md) — Situação não informada
+- [SUM 13](trf02-sum-13.md) — Situação não informada
+- [SUM 14](trf02-sum-14.md) — Situação não informada
+- [SUM 15](trf02-sum-15.md) — Situação não informada
+- [SUM 16](trf02-sum-16.md) — Situação não informada
+- [SUM 17](trf02-sum-17.md) — Situação não informada
+- [SUM 18](trf02-sum-18.md) — Situação não informada
+- [SUM 19](trf02-sum-19.md) — Cancelada
+- [SUM 20](trf02-sum-20.md) — Situação não informada
+- [SUM 21](trf02-sum-21.md) — Situação não informada
+- [SUM 22](trf02-sum-22.md) — Situação não informada
+- [SUM 23](trf02-sum-23.md) — Situação não informada
+- [SUM 24](trf02-sum-24.md) — Situação não informada
+- [SUM 25](trf02-sum-25.md) — Situação não informada
+- [SUM 26](trf02-sum-26.md) — Situação não informada
+- [SUM 27](trf02-sum-27.md) — Situação não informada
+- [SUM 28](trf02-sum-28.md) — Situação não informada
+- [SUM 29](trf02-sum-29.md) — Situação não informada
+- [SUM 30](trf02-sum-30.md) — Situação não informada
+- [SUM 31](trf02-sum-31.md) — Situação não informada
+- [SUM 32](trf02-sum-32.md) — Situação não informada
+- [SUM 33](trf02-sum-33.md) — Cancelada
+- [SUM 34](trf02-sum-34.md) — Situação não informada
+- [SUM 35](trf02-sum-35.md) — Situação não informada
+- [SUM 36](trf02-sum-36.md) — Situação não informada
+- [SUM 37](trf02-sum-37.md) — Situação não informada
+- [SUM 38](trf02-sum-38.md) — Situação não informada
+- [SUM 39](trf02-sum-39.md) — Situação não informada
+- [SUM 40](trf02-sum-40.md) — Situação não informada
+- [SUM 41](trf02-sum-41.md) — Situação não informada
+- [SUM 42](trf02-sum-42.md) — Situação não informada
+- [SUM 43](trf02-sum-43.md) — Situação não informada
+- [SUM 44](trf02-sum-44.md) — Situação não informada
+- [SUM 45](trf02-sum-45.md) — Situação não informada
+- [SUM 46](trf02-sum-46.md) — Situação não informada
+- [SUM 47](trf02-sum-47.md) — Situação não informada
+- [SUM 48](trf02-sum-48.md) — Situação não informada
+- [SUM 49](trf02-sum-49.md) — Situação não informada
+- [SUM 50](trf02-sum-50.md) — Situação não informada
+- [SUM 51](trf02-sum-51.md) — Situação não informada
+- [SUM 52](trf02-sum-52.md) — Situação não informada
+- [SUM 53](trf02-sum-53.md) — Situação não informada
+- [SUM 54](trf02-sum-54.md) — Situação não informada
+- [SUM 55](trf02-sum-55.md) — Situação não informada
+- [SUM 56](trf02-sum-56.md) — Situação não informada
+- [SUM 57](trf02-sum-57.md) — Situação não informada
+- [SUM 58](trf02-sum-58.md) — Situação não informada
+- [SUM 59](trf02-sum-59.md) — Situação não informada
+- [SUM 60](trf02-sum-60.md) — Situação não informada
+- [SUM 61](trf02-sum-61.md) — Situação não informada
+- [SUM 62](trf02-sum-62.md) — Situação não informada
