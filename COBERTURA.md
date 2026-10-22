@@ -1,6 +1,6 @@
 # Cobertura
 
-**27.251 registros únicos de 93 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**27.365 registros únicos de 94 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCDF — Súmulas, fichas e textos oficiais no SINJ](https://www.sinj.df.gov.br/sinj/ResultadoDePesquisa?tipo_pesquisa=norma&all=&ch_tipo_norma=76000000&nm_tipo_norma=S%C3%BAmula&nr_norma=&ano_assinatura=&ch_orgao=613&ch_hierarquia=613&sg_hierarquia_nm_vigencia=TCDF+-+Tribunal+de+Contas+do+Distrito+Federal+%281960-%29&origem_por=toda_a_hierarquia_em_qualquer_epoca1) | 114 | 114 | 0 |
 | [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/) | 388 | 387 | 1 |
 | [TCEPI — Súmula e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/sumulas/) | 19 | 19 | 0 |
 | [TCEPI — Prejulgado e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/prejulgados/) | 3 | 3 | 0 |
@@ -335,6 +336,14 @@ Os 33 PDFs disponíveis foram lidos duas vezes: cada par tem bytes idênticos e 
 A nº 24 aparece no ementário como cancelada pela Decisão nº 2092/2014-TC, apesar de o campo inativa permanecer false. O serviço de PDF respondeu HTTP 400 nas duas leituras; a redação anterior continua pendente. O endereço histórico de súmulas retornou a mesma aplicação atual, sem outro arquivo. A indicação de cancelamento e a divergência do cadastro foram preservadas. Não reconstruímos o texto a partir de notícias ou decisões que apenas o mencionam.
 
 São 70 capturas deste catálogo: duas do rol, 66 de PDFs e duas das respostas de erro, mantidas privadamente com seus recibos. Os Markdown reproduzem todas as páginas disponíveis. A validação é específica deste lote e não representa nova coleta dos demais órgãos; outras séries do TCERN e a cobertura nacional continuam parciais.
+
+O TCDF acrescenta 114 súmulas, de 1 a 114, a partir do catálogo do SINJ indicado pelo próprio tribunal. As duas leituras da pesquisa retornaram 100 registros na primeira página, 14 na segunda e nenhum após o último registro, com 114 identificadores distintos. As fichas individuais e os textos integrais foram coletados e conferidos em duas leituras, incluindo suas datas de assinatura e publicação, fundamentos, processos citados e notas de alteração.
+
+As situações são as informadas pelo SINJ: 85 registros como Sem Revogação Expressa, 16 como Revogado e 13 como Alterado. A expressão Sem Revogação Expressa não foi convertida em certificação de vigência. Os textos anteriores tachados e as referências às atualizações, inclusive as de 11/04/2024, permanecem nos arquivos; o tachado definido por CSS na fonte foi preservado em Markdown. As redações históricas não foram substituídas por uma redação atual presumida.
+
+O acesso HTTP direto ao portal de jurisprudência do TCDF falhou na validação do certificado. O navegador integrado abriu a página institucional e permitiu preservar a resposta original que aponta para o SINJ, sem desativar TLS. O catálogo, as fichas e os documentos do SINJ foram coletados por HTTP com TLS validado. Os originais, métodos e parâmetros de consulta, URLs finais, cabeçalhos públicos selecionados e recibos permanecem privados.
+
+Os atos de atualização e processos apenas citados não foram contados como registros adicionais nem tiveram todos os seus documentos coletados. As demais categorias do TCDF e a conciliação nacional continuam abertas.
 
 O catálogo de consultas do TCEPI tem 388 fichas distribuídas em 39 páginas, conferidas em duas leituras completas e sem repetição de identificadores de publicação entre páginas. Foram acrescentados 387 registros: as duas publicações da consulta que resultou na Resolução nº 1.054/05, processo TC-E nº 029009/05, foram conciliadas em um único arquivo, preservando o ato vinculado e o resumo da compilação. As fichas são temáticas e podem reunir vários documentos ou tratar de questões de um mesmo processo. Os títulos foram preservados como identificação da publicação, sem transformá-los em números de processo nem usar a data da página como data de julgamento ou prova de vigência.
 
@@ -711,6 +720,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
+| [TCDF](tribunais/TCDF/) | 114 | TCDF — Súmulas, fichas e textos oficiais no SINJ |
 | [TCEAL](tribunais/TCEAL/) | 65 | TCEAL — Prejulgado e julgados de referência; TCEAL — Questão de ordem e julgados de referência; TCEAL — Súmula e julgados de referência |
 | [TCEBA](tribunais/TCEBA/) | 21 | TCEBA — Súmulas vigentes, canceladas e resoluções vinculadas |
 | [TCECE](tribunais/TCECE/) | 7 | TCECE — Súmulas e publicações oficiais vinculadas |
@@ -727,7 +737,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL e TCEPI são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI e TCDF são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 

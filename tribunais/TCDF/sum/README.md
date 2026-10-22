@@ -1,0 +1,118 @@
+# TCDF · Súmula
+
+**114 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tcdf-sum-1.md) — Sem Revogação Expressa
+- [SUM 2](tcdf-sum-2.md) — Sem Revogação Expressa
+- [SUM 3](tcdf-sum-3.md) — Revogado
+- [SUM 4](tcdf-sum-4.md) — Revogado
+- [SUM 5](tcdf-sum-5.md) — Sem Revogação Expressa
+- [SUM 6](tcdf-sum-6.md) — Sem Revogação Expressa
+- [SUM 7](tcdf-sum-7.md) — Sem Revogação Expressa
+- [SUM 8](tcdf-sum-8.md) — Sem Revogação Expressa
+- [SUM 9](tcdf-sum-9.md) — Revogado
+- [SUM 10](tcdf-sum-10.md) — Revogado
+- [SUM 11](tcdf-sum-11.md) — Revogado
+- [SUM 12](tcdf-sum-12.md) — Sem Revogação Expressa
+- [SUM 13](tcdf-sum-13.md) — Revogado
+- [SUM 14](tcdf-sum-14.md) — Revogado
+- [SUM 15](tcdf-sum-15.md) — Sem Revogação Expressa
+- [SUM 16](tcdf-sum-16.md) — Revogado
+- [SUM 17](tcdf-sum-17.md) — Sem Revogação Expressa
+- [SUM 18](tcdf-sum-18.md) — Sem Revogação Expressa
+- [SUM 19](tcdf-sum-19.md) — Sem Revogação Expressa
+- [SUM 20](tcdf-sum-20.md) — Sem Revogação Expressa
+- [SUM 21](tcdf-sum-21.md) — Sem Revogação Expressa
+- [SUM 22](tcdf-sum-22.md) — Sem Revogação Expressa
+- [SUM 23](tcdf-sum-23.md) — Revogado
+- [SUM 24](tcdf-sum-24.md) — Sem Revogação Expressa
+- [SUM 25](tcdf-sum-25.md) — Sem Revogação Expressa
+- [SUM 26](tcdf-sum-26.md) — Sem Revogação Expressa
+- [SUM 27](tcdf-sum-27.md) — Sem Revogação Expressa
+- [SUM 28](tcdf-sum-28.md) — Revogado
+- [SUM 29](tcdf-sum-29.md) — Sem Revogação Expressa
+- [SUM 30](tcdf-sum-30.md) — Sem Revogação Expressa
+- [SUM 31](tcdf-sum-31.md) — Sem Revogação Expressa
+- [SUM 32](tcdf-sum-32.md) — Revogado
+- [SUM 33](tcdf-sum-33.md) — Sem Revogação Expressa
+- [SUM 34](tcdf-sum-34.md) — Sem Revogação Expressa
+- [SUM 35](tcdf-sum-35.md) — Sem Revogação Expressa
+- [SUM 36](tcdf-sum-36.md) — Sem Revogação Expressa
+- [SUM 37](tcdf-sum-37.md) — Sem Revogação Expressa
+- [SUM 38](tcdf-sum-38.md) — Alterado
+- [SUM 39](tcdf-sum-39.md) — Sem Revogação Expressa
+- [SUM 40](tcdf-sum-40.md) — Sem Revogação Expressa
+- [SUM 41](tcdf-sum-41.md) — Sem Revogação Expressa
+- [SUM 42](tcdf-sum-42.md) — Sem Revogação Expressa
+- [SUM 43](tcdf-sum-43.md) — Sem Revogação Expressa
+- [SUM 44](tcdf-sum-44.md) — Sem Revogação Expressa
+- [SUM 45](tcdf-sum-45.md) — Sem Revogação Expressa
+- [SUM 46](tcdf-sum-46.md) — Sem Revogação Expressa
+- [SUM 47](tcdf-sum-47.md) — Sem Revogação Expressa
+- [SUM 48](tcdf-sum-48.md) — Sem Revogação Expressa
+- [SUM 49](tcdf-sum-49.md) — Sem Revogação Expressa
+- [SUM 50](tcdf-sum-50.md) — Sem Revogação Expressa
+- [SUM 51](tcdf-sum-51.md) — Sem Revogação Expressa
+- [SUM 52](tcdf-sum-52.md) — Sem Revogação Expressa
+- [SUM 53](tcdf-sum-53.md) — Sem Revogação Expressa
+- [SUM 54](tcdf-sum-54.md) — Sem Revogação Expressa
+- [SUM 55](tcdf-sum-55.md) — Sem Revogação Expressa
+- [SUM 56](tcdf-sum-56.md) — Sem Revogação Expressa
+- [SUM 57](tcdf-sum-57.md) — Sem Revogação Expressa
+- [SUM 58](tcdf-sum-58.md) — Revogado
+- [SUM 59](tcdf-sum-59.md) — Sem Revogação Expressa
+- [SUM 60](tcdf-sum-60.md) — Sem Revogação Expressa
+- [SUM 61](tcdf-sum-61.md) — Sem Revogação Expressa
+- [SUM 62](tcdf-sum-62.md) — Alterado
+- [SUM 63](tcdf-sum-63.md) — Alterado
+- [SUM 64](tcdf-sum-64.md) — Alterado
+- [SUM 65](tcdf-sum-65.md) — Sem Revogação Expressa
+- [SUM 66](tcdf-sum-66.md) — Sem Revogação Expressa
+- [SUM 67](tcdf-sum-67.md) — Revogado
+- [SUM 68](tcdf-sum-68.md) — Alterado
+- [SUM 69](tcdf-sum-69.md) — Alterado
+- [SUM 70](tcdf-sum-70.md) — Revogado
+- [SUM 71](tcdf-sum-71.md) — Alterado
+- [SUM 72](tcdf-sum-72.md) — Alterado
+- [SUM 73](tcdf-sum-73.md) — Sem Revogação Expressa
+- [SUM 74](tcdf-sum-74.md) — Sem Revogação Expressa
+- [SUM 75](tcdf-sum-75.md) — Alterado
+- [SUM 76](tcdf-sum-76.md) — Sem Revogação Expressa
+- [SUM 77](tcdf-sum-77.md) — Sem Revogação Expressa
+- [SUM 78](tcdf-sum-78.md) — Sem Revogação Expressa
+- [SUM 79](tcdf-sum-79.md) — Revogado
+- [SUM 80](tcdf-sum-80.md) — Sem Revogação Expressa
+- [SUM 81](tcdf-sum-81.md) — Sem Revogação Expressa
+- [SUM 82](tcdf-sum-82.md) — Sem Revogação Expressa
+- [SUM 83](tcdf-sum-83.md) — Sem Revogação Expressa
+- [SUM 84](tcdf-sum-84.md) — Sem Revogação Expressa
+- [SUM 85](tcdf-sum-85.md) — Sem Revogação Expressa
+- [SUM 86](tcdf-sum-86.md) — Sem Revogação Expressa
+- [SUM 87](tcdf-sum-87.md) — Sem Revogação Expressa
+- [SUM 88](tcdf-sum-88.md) — Sem Revogação Expressa
+- [SUM 89](tcdf-sum-89.md) — Sem Revogação Expressa
+- [SUM 90](tcdf-sum-90.md) — Sem Revogação Expressa
+- [SUM 91](tcdf-sum-91.md) — Sem Revogação Expressa
+- [SUM 92](tcdf-sum-92.md) — Sem Revogação Expressa
+- [SUM 93](tcdf-sum-93.md) — Sem Revogação Expressa
+- [SUM 94](tcdf-sum-94.md) — Sem Revogação Expressa
+- [SUM 95](tcdf-sum-95.md) — Sem Revogação Expressa
+- [SUM 96](tcdf-sum-96.md) — Sem Revogação Expressa
+- [SUM 97](tcdf-sum-97.md) — Sem Revogação Expressa
+- [SUM 98](tcdf-sum-98.md) — Sem Revogação Expressa
+- [SUM 99](tcdf-sum-99.md) — Sem Revogação Expressa
+- [SUM 100](tcdf-sum-100.md) — Revogado
+- [SUM 101](tcdf-sum-101.md) — Sem Revogação Expressa
+- [SUM 102](tcdf-sum-102.md) — Sem Revogação Expressa
+- [SUM 103](tcdf-sum-103.md) — Sem Revogação Expressa
+- [SUM 104](tcdf-sum-104.md) — Alterado
+- [SUM 105](tcdf-sum-105.md) — Alterado
+- [SUM 106](tcdf-sum-106.md) — Alterado
+- [SUM 107](tcdf-sum-107.md) — Sem Revogação Expressa
+- [SUM 108](tcdf-sum-108.md) — Sem Revogação Expressa
+- [SUM 109](tcdf-sum-109.md) — Alterado
+- [SUM 110](tcdf-sum-110.md) — Sem Revogação Expressa
+- [SUM 111](tcdf-sum-111.md) — Sem Revogação Expressa
+- [SUM 112](tcdf-sum-112.md) — Sem Revogação Expressa
+- [SUM 113](tcdf-sum-113.md) — Sem Revogação Expressa
+- [SUM 114](tcdf-sum-114.md) — Sem Revogação Expressa
