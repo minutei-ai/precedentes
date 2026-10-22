@@ -1,6 +1,6 @@
 # Cobertura
 
-**24.862 registros únicos de 84 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**25.900 registros únicos de 84 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -143,6 +143,7 @@
 | [TCEPR — Consultas com força normativa e anexos oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/consultas-com-forca-normativa/) | 933 | 933 | 0 |
 | [TCEES — Súmulas e PDFs individuais oficiais](https://www.tcees.tc.br/jurisprudencia/sumula-de-jurisprudencia/) | 4 | 4 | 0 |
 | [TCEES — Prejulgados e deliberações oficiais vinculadas](https://www.tcees.tc.br/jurisprudencia/prejulgado/) | 87 | 87 | 0 |
+| [TCEES — Pareceres em Consulta e versões documentais oficiais](https://www.tcees.tc.br/jurisprudencia/pareceres-em-consulta/) | 1.038 | 1.038 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -279,6 +280,10 @@ O catálogo e os documentos foram lidos duas vezes, diretamente por HTTP com TLS
 O catálogo de prejulgados do TCEES acrescenta 87 registros, em sequência de 1 a 87, com os resumos integrais e os 96 PDFs vinculados (595 páginas): 83 documentos identificados como Prejulgado e 13 como Deliberação. As duas leituras do catálogo e de cada PDF foram conciliadas em 194 capturas, sem alteração dos registros ou dos bytes dos documentos. Os fundamentos, precedentes, assinaturas e demais metadados presentes nos textos extraídos foram preservados por página, sem contar os anexos como novos prejulgados.
 
 A nº 34 aparece no catálogo entre as nº 78 e 77; sua identidade segue o número oficial, não a posição da linha. As nº 84 a 87 vinculam somente deliberações, mantidas com essa identificação. Na nº 87, o catálogo cita o Acórdão TC 579/2025, mas o arquivo vinculado identifica o Acórdão 00578/2025-2, processo 07124/2024-5, e contém os enunciados sobre fundações públicas; a divergência foi anotada sem substituir a referência original. A nº 44 mantém a publicação e a nota de manutenção em embargos como grafadas no catálogo. O marcador literal “1)” da nº 46 foi protegido como código em linha para que a renderização Markdown não o convertesse em outra marca de lista. Todos os textos dos resumos e das páginas foram conferidos no Markdown renderizado. A presença no catálogo não comprova vigência atual, e a conciliação de documentos apenas citados e das demais séries continua aberta.
+
+O catálogo de Pareceres em Consulta do TCEES acrescenta 1.038 atos, de 1997 a 2026, identificados pelo número imutável da norma no portal oficial. As 21 páginas do índice foram lidas duas vezes, com 50 atos por página e 38 na última. As relações entre atos não foram contadas como novos pareceres. Também foram conciliadas duas leituras de cada ficha e dos 1.612 PDFs distintos vinculados, com 20.267 páginas por leitura e igualdade dos bytes de cada par de arquivos. Os documentos atuais e as versões históricas permanecem separados, incluindo anotações de revogação, publicações e datas não preenchidas como “01/01/0001”, sem inferir vigência.
+
+O histórico de 215 atos contém uma referência com identificador de documento zero, sem arquivo válido; essas referências foram sinalizadas. Duas consultas têm páginas sem texto extraível e recebem aviso de conteúdo incompleto: no documento 3361706, a página 24 foi inspecionada e está em branco; no documento 3361135, as páginas 2 a 8 são digitalizadas e continuam sem transcrição. A versão histórica 1041219 tem texto nas oito páginas, apresentado separadamente, sem substituir o arquivo atual. A extração conserva as páginas e imperfeições do texto fornecido pela fonte. Os originais, recibos e chaves de download ficam privados; os Markdown remetem à página pública de cada ato. Duas URLs assinadas presentes em notas do PDF 4614286 foram omitidas do texto público, com indicação da alteração e preservação do identificador do documento citado. Endereços sem chave de fornecimento permanecem como informados na fonte. Documentos apenas citados e a recuperação de texto das páginas digitalizadas continuam pendentes.
 
 O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
 
@@ -605,7 +610,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
-| [TCEES](tribunais/TCEES/) | 91 | TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
+| [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |

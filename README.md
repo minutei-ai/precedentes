@@ -1,8 +1,8 @@
 # Precedentes brasileiros em Markdown
 
-Súmulas, temas e orientações jurisprudenciais de fontes oficiais. Um arquivo Markdown por registro.
+Súmulas, temas, consultas e orientações de fontes oficiais. Um arquivo Markdown por registro.
 
-**24.862 registros · 84 órgãos · cobertura parcial**
+**25.900 registros · 84 órgãos · cobertura parcial**
 
 - [Explorar por órgão](tribunais/)
 - [Fontes, cobertura e pendências](COBERTURA.md)
