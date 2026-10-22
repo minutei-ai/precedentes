@@ -1,6 +1,6 @@
 # Cobertura
 
-**27.410 registros únicos de 97 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**27.439 registros únicos de 98 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCEAM — Súmulas dos catálogos institucional e de transparência](https://www.tceam.tc.br/?page_id=25633) | 29 | 29 | 0 |
 | [TCETO — Súmulas, versões completas e sintéticas oficiais](https://www.tceto.tc.br/sumulas/) | 14 | 14 | 0 |
 | [TCEPB — Resoluções sumulares e documentos oficiais](https://tce.pb.gov.br/publicacoes/legislacao/sumulas/) | 2 | 2 | 0 |
 | [TCERO — Súmulas, aplicações e versões documentais oficiais](https://spj.tcero.tc.br/jurisprudencia/sumulas-inteiro-teor/) | 29 | 29 | 0 |
@@ -347,6 +348,12 @@ As situações são as informadas pelo SINJ: 85 registros como Sem Revogação E
 O acesso HTTP direto ao portal de jurisprudência do TCDF falhou na validação do certificado. O navegador integrado abriu a página institucional e permitiu preservar a resposta original que aponta para o SINJ, sem desativar TLS. O catálogo, as fichas e os documentos do SINJ foram coletados por HTTP com TLS validado. Os originais, métodos e parâmetros de consulta, URLs finais, cabeçalhos públicos selecionados e recibos permanecem privados.
 
 Os atos de atualização e processos apenas citados não foram contados como registros adicionais nem tiveram todos os seus documentos coletados. As demais categorias do TCDF e a conciliação nacional continuam abertas.
+
+O TCEAM acrescenta 29 súmulas conciliadas entre os catálogos institucional e de transparência: números 1 a 30, sem a nº 13. O primeiro catálogo contém 28 fichas, até a nº 29; o segundo contém 29, incluindo a nº 30. A ausência da nº 13 não foi convertida em cancelamento nem suprida por texto de outra numeração. As datas cadastrais foram preservadas como tais, sem inferir aprovação, publicação, atualização individual ou vigência atual.
+
+Foram preservadas 119 capturas primárias: a página institucional que vincula os dois catálogos, quatro leituras de catálogo e duas leituras de cada um dos 57 endereços documentais. Todos os pares documentais retornaram HTTP 200 e bytes idênticos. São 53 PDFs, com 56 páginas físicas e 28 conteúdos binários distintos, e quatro arquivos Word. A conversão local dos Word ocorreu com isolamento de rede e macros desabilitadas; 20 artefatos derivados preservam HTML, texto, PDF, XML estrutural e metadados vinculados ao original, totalizando 139 capturas. O corpo HTML/TXT e a estrutura XML foram conciliados; o texto integral do PDF derivado mantém também os cabeçalhos omitidos na exportação HTML/TXT. Os derivados não foram apresentados como novos documentos oficiais nem suas propriedades de autoria expostas. O Markdown mantém 30 blocos textuais documentais, com duplicatas binárias omitidas dentro de cada registro e todos os vínculos conservados.
+
+A ficha institucional nº 2 entrega um PDF identificado como nº 1; o documento correto da nº 2 foi recuperado na transparência. As duas fichas da nº 21 entregam um PDF identificado como nº 22: o enunciado cadastrado da nº 21 foi preservado, mas seu inteiro teor documental permanece pendente. A descrição institucional da nº 28 trata de comissários de polícia, enquanto o Word e o PDF digitalizado identificam a súmula sobre férias; o Word preserva a retificação de 27 para 28. As duas páginas digitalizadas dessa versão permanecem com transcrição visual pendente; o início da primeira contém continuação de enunciado anterior, não atribuída à nº 28. A página física 2 do PDF da nº 16 foi conferida visualmente como branca. Divergências de catálogo e documento foram explicitadas, sem transferir o corpo de uma súmula para outra. Atos e processos citados não foram contados como registros novos. Outras categorias do TCEAM e a conciliação nacional permanecem parciais.
 
 O TCETO acrescenta os 14 enunciados do catálogo institucional, de 1 a 14, com duas versões declaradas por súmula. O catálogo contém 27 URLs documentais distintas: na nº 14, os botões completa e sintética apontam para o mesmo arquivo de uma página, apesar das 122 páginas anunciadas para a completa. Essa versão completa permanece pendente; não foi reconstruída a partir de outro registro. As contagens físicas também diferem do catálogo nas versões sintéticas das nº 12 e 13 (uma página em vez de duas) e na completa da nº 13 (116 em vez de 12 páginas).
 
@@ -736,6 +743,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
 | [TCDF](tribunais/TCDF/) | 114 | TCDF — Súmulas, fichas e textos oficiais no SINJ |
 | [TCEAL](tribunais/TCEAL/) | 65 | TCEAL — Prejulgado e julgados de referência; TCEAL — Questão de ordem e julgados de referência; TCEAL — Súmula e julgados de referência |
+| [TCEAM](tribunais/TCEAM/) | 29 | TCEAM — Súmulas dos catálogos institucional e de transparência |
 | [TCEBA](tribunais/TCEBA/) | 21 | TCEBA — Súmulas vigentes, canceladas e resoluções vinculadas |
 | [TCECE](tribunais/TCECE/) | 7 | TCECE — Súmulas e publicações oficiais vinculadas |
 | [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
@@ -754,7 +762,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCETO](tribunais/TCETO/) | 14 | TCETO — Súmulas, versões completas e sintéticas oficiais |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB e TCETO são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO e TCEAM são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
