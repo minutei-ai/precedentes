@@ -1,6 +1,6 @@
 # Cobertura
 
-**27.445 registros únicos de 99 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**29.055 registros únicos de 99 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCEMA — Prejulgados e deliberações oficiais](https://publicacao.apps.tcema.tc.br/#/muralprejulgados) | 1.610 | 1.610 | 0 |
 | [TCEMA — Súmulas do mural público oficial](https://publicacao.apps.tcema.tc.br/#/muralSumulas) | 6 | 6 | 0 |
 | [TCEAM — Súmulas dos catálogos institucional e de transparência](https://www.tceam.tc.br/?page_id=25633) | 29 | 29 | 0 |
 | [TCETO — Súmulas, versões completas e sintéticas oficiais](https://www.tceto.tc.br/sumulas/) | 14 | 14 | 0 |
@@ -349,6 +350,14 @@ As situações são as informadas pelo SINJ: 85 registros como Sem Revogação E
 O acesso HTTP direto ao portal de jurisprudência do TCDF falhou na validação do certificado. O navegador integrado abriu a página institucional e permitiu preservar a resposta original que aponta para o SINJ, sem desativar TLS. O catálogo, as fichas e os documentos do SINJ foram coletados por HTTP com TLS validado. Os originais, métodos e parâmetros de consulta, URLs finais, cabeçalhos públicos selecionados e recibos permanecem privados.
 
 Os atos de atualização e processos apenas citados não foram contados como registros adicionais nem tiveram todos os seus documentos coletados. As demais categorias do TCDF e a conciliação nacional continuam abertas.
+
+O TCEMA acrescenta 1.610 excertos rotulados como Prejulgados no mural público, vinculados a 602 processos. Os códigos de excerto são identificadores internos, com lacunas entre 1 e 2163; não foram transformados em numeração de ato normativo nem preenchidos por inferência. Os dois catálogos sem filtros retornaram os mesmos registros e todos os campos iguais. A tabela faz paginação local da lista recebida. Foram mantidos textos integrais dos excertos, observações, tema e subtema, referências de processo, exercício financeiro, espécie, natureza, relator, origem, responsável e datas de inclusão, inclusive campos nulos ou vazios. Data de inclusão e o aviso de atualização calculado pelo navegador não foram tratados como última atualização ou vigência jurídica.
+
+As deliberações dos 602 processos foram consultadas duas vezes, em sequência. Os 602 pares têm o mesmo status e bytes idênticos. Em 45 processos, o serviço retornou HTTP 404 nas duas leituras; essas respostas foram preservadas como falha documental, sem convertê-las em lista vazia ou inexistência de decisões. Nos outros 557 processos foram obtidas 563 deliberações: 532 têm texto HTML e 31 não disponibilizam esse texto. Não houve resposta HTTP 200 com lista vazia. Metadados, datas de sessão e circulação e vínculos das deliberações foram mantidos separadamente dos excertos; os atos não foram contados como registros adicionais. São 1.209 capturas formais: três evidências do vínculo institucional e da aplicação, dois catálogos e 1.204 respostas documentais. Os originais permanecem preservados privadamente, com recibos, endereços, status e hashes.
+
+Os 532 documentos HTML foram convertidos com conferência do texto, ênfases, sublinhados, células e vínculos. A formatação Word foi normalizada sem redecodificar as strings JSON como outra codificação. Marcação técnica o:p e uma tabela inteiramente vazia de diagramação foram removidas; tabelas com conteúdo conservaram células e ordem. A numeração literal foi preservada, inclusive lacunas nos itens, sem renumeração automática. O estilo gráfico não foi reconstituído como fac-símile. Números pessoais de CPF presentes em 190 documentos foram ocultados na cópia pública; o restante do texto e os originais privados foram preservados.
+
+Há pendências ou divergências indicadas em 445 registros. Em 242 registros, caracteres de controle corrompidos na fonte foram representados pelos códigos Unicode entre colchetes, sem adivinhar letras, aspas ou traços; as capturas conservam os valores originais. Nos excertos 2126 e 2062, o número de processo no excerto difere do processo vinculado pelo portal; ambas as referências foram conservadas, sem afirmar que o vínculo resolve a divergência. Os documentos são consultados pelo identificador do processo vinculado, como faz a aplicação oficial. As ausências de HTML e falhas HTTP permanecem explícitas em cada registro. Essa coleta cobre o mural consultado e os documentos entregues por seu serviço; outros acervos do TCEMA e a conciliação nacional permanecem parciais.
 
 O TCEMA acrescenta as seis súmulas do mural público atual, de 1 a 6, com os identificadores internos 48035 a 48040. A página institucional de transparência vincula esse mural à aplicação oficial de publicações. Foram preservadas sete capturas formais: o vínculo institucional, a página da aplicação, seu código cliente e quatro respostas do serviço público, duas da lista completa e duas da pesquisa sem filtros. As quatro consultas retornaram os mesmos seis registros, com todos os campos iguais. A tabela faz paginação local dos dados já recebidos; não foi inferida completude de outros acervos a partir dessa lista.
 
@@ -755,7 +764,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCECE](tribunais/TCECE/) | 7 | TCECE — Súmulas e publicações oficiais vinculadas |
 | [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEGO](tribunais/TCEGO/) | 2 | TCEGO — Súmulas, fichas e documentos para impressão |
-| [TCEMA](tribunais/TCEMA/) | 6 | TCEMA — Súmulas do mural público oficial |
+| [TCEMA](tribunais/TCEMA/) | 1.616 | TCEMA — Prejulgados e deliberações oficiais; TCEMA — Súmulas do mural público oficial |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEMS](tribunais/TCEMS/) | 91 | TCEMS — Súmulas e PDFs oficiais |
 | [TCEPB](tribunais/TCEPB/) | 2 | TCEPB — Resoluções sumulares e documentos oficiais |
