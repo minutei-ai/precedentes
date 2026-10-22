@@ -1,0 +1,131 @@
+# TCEMG · Súmula
+
+**127 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](tcemg-sum-1.md) — Revogada
+- [SUM 2](tcemg-sum-2.md) — Revogada
+- [SUM 3](tcemg-sum-3.md) — Revogada
+- [SUM 4](tcemg-sum-4.md) — Revogada
+- [SUM 5](tcemg-sum-5.md) — Situação não informada
+- [SUM 6](tcemg-sum-6.md) — Revogada
+- [SUM 7](tcemg-sum-7.md) — Revogada
+- [SUM 8](tcemg-sum-8.md) — Situação não informada
+- [SUM 9](tcemg-sum-9.md) — Revogada
+- [SUM 10](tcemg-sum-10.md) — Situação não informada
+- [SUM 11](tcemg-sum-11.md) — Revogada
+- [SUM 12](tcemg-sum-12.md) — Situação não informada
+- [SUM 13](tcemg-sum-13.md) — Situação não informada
+- [SUM 14](tcemg-sum-14.md) — Situação não informada
+- [SUM 15](tcemg-sum-15.md) — Situação não informada
+- [SUM 16](tcemg-sum-16.md) — Situação não informada
+- [SUM 17](tcemg-sum-17.md) — Cancelada
+- [SUM 18](tcemg-sum-18.md) — Revogada
+- [SUM 19](tcemg-sum-19.md) — Situação não informada
+- [SUM 20](tcemg-sum-20.md) — Situação não informada
+- [SUM 21](tcemg-sum-21.md) — Situação não informada
+- [SUM 22](tcemg-sum-22.md) — Revogada
+- [SUM 23](tcemg-sum-23.md) — Situação não informada
+- [SUM 24](tcemg-sum-24.md) — Cancelada
+- [SUM 25](tcemg-sum-25.md) — Situação não informada
+- [SUM 26](tcemg-sum-26.md) — Situação não informada
+- [SUM 27](tcemg-sum-27.md) — Situação não informada
+- [SUM 28](tcemg-sum-28.md) — Situação não informada
+- [SUM 29](tcemg-sum-29.md) — Cancelada
+- [SUM 30](tcemg-sum-30.md) — Situação não informada
+- [SUM 31](tcemg-sum-31.md) — Situação não informada
+- [SUM 32](tcemg-sum-32.md) — Cancelada
+- [SUM 33](tcemg-sum-33.md) — Revogada
+- [SUM 34](tcemg-sum-34.md) — Situação não informada
+- [SUM 35](tcemg-sum-35.md) — Cancelada
+- [SUM 36](tcemg-sum-36.md) — Cancelada
+- [SUM 37](tcemg-sum-37.md) — Situação não informada
+- [SUM 38](tcemg-sum-38.md) — Situação não informada
+- [SUM 39](tcemg-sum-39.md) — Cancelada
+- [SUM 40](tcemg-sum-40.md) — Situação não informada
+- [SUM 41](tcemg-sum-41.md) — Situação não informada
+- [SUM 42](tcemg-sum-42.md) — Revogada
+- [SUM 43](tcemg-sum-43.md) — Situação não informada
+- [SUM 44](tcemg-sum-44.md) — Situação não informada
+- [SUM 45](tcemg-sum-45.md) — Situação não informada
+- [SUM 46](tcemg-sum-46.md) — Situação não informada
+- [SUM 47](tcemg-sum-47.md) — Situação não informada
+- [SUM 48](tcemg-sum-48.md) — Cancelada
+- [SUM 49](tcemg-sum-49.md) — Situação não informada
+- [SUM 50](tcemg-sum-50.md) — Situação não informada
+- [SUM 51](tcemg-sum-51.md) — Revogada
+- [SUM 52](tcemg-sum-52.md) — Cancelada
+- [SUM 53](tcemg-sum-53.md) — Revogada
+- [SUM 54](tcemg-sum-54.md) — Revogada
+- [SUM 55](tcemg-sum-55.md) — Revogada
+- [SUM 56](tcemg-sum-56.md) — Revogada
+- [SUM 57](tcemg-sum-57.md) — Cancelada
+- [SUM 58](tcemg-sum-58.md) — Situação não informada
+- [SUM 59](tcemg-sum-59.md) — Cancelada
+- [SUM 60](tcemg-sum-60.md) — Cancelada
+- [SUM 61](tcemg-sum-61.md) — Revogada
+- [SUM 62](tcemg-sum-62.md) — Cancelada
+- [SUM 63](tcemg-sum-63.md) — Situação não informada
+- [SUM 64](tcemg-sum-64.md) — Situação não informada
+- [SUM 65](tcemg-sum-65.md) — Situação não informada
+- [SUM 66](tcemg-sum-66.md) — Situação não informada
+- [SUM 67](tcemg-sum-67.md) — Situação não informada
+- [SUM 68](tcemg-sum-68.md) — Situação não informada
+- [SUM 69](tcemg-sum-69.md) — Situação não informada
+- [SUM 70](tcemg-sum-70.md) — Situação não informada
+- [SUM 71](tcemg-sum-71.md) — Situação não informada
+- [SUM 72](tcemg-sum-72.md) — Cancelada
+- [SUM 73](tcemg-sum-73.md) — Suspensão da Eficácia do Enunciado
+- [SUM 74](tcemg-sum-74.md) — Situação não informada
+- [SUM 75](tcemg-sum-75.md) — Cancelada
+- [SUM 76](tcemg-sum-76.md) — Situação não informada
+- [SUM 77](tcemg-sum-77.md) — Situação não informada
+- [SUM 78](tcemg-sum-78.md) — Situação não informada
+- [SUM 79](tcemg-sum-79.md) — Situação não informada
+- [SUM 80](tcemg-sum-80.md) — Situação não informada
+- [SUM 81](tcemg-sum-81.md) — Situação não informada
+- [SUM 82](tcemg-sum-82.md) — Cancelada
+- [SUM 83](tcemg-sum-83.md) — Cancelada
+- [SUM 84](tcemg-sum-84.md) — Situação não informada
+- [SUM 85](tcemg-sum-85.md) — Situação não informada
+- [SUM 86](tcemg-sum-86.md) — Situação não informada
+- [SUM 87](tcemg-sum-87.md) — Cancelada
+- [SUM 88](tcemg-sum-88.md) — Situação não informada
+- [SUM 89](tcemg-sum-89.md) — Situação não informada
+- [SUM 90](tcemg-sum-90.md) — Situação não informada
+- [SUM 91](tcemg-sum-91.md) — Cancelada
+- [SUM 92](tcemg-sum-92.md) — Situação não informada
+- [SUM 93](tcemg-sum-93.md) — Situação não informada
+- [SUM 94](tcemg-sum-94.md) — Situação não informada
+- [SUM 95](tcemg-sum-95.md) — Situação não informada
+- [SUM 96](tcemg-sum-96.md) — Situação não informada
+- [SUM 98](tcemg-sum-98.md) — Situação não informada
+- [SUM 99](tcemg-sum-99.md) — Situação não informada
+- [SUM 100](tcemg-sum-100.md) — Situação não informada
+- [SUM 101](tcemg-sum-101.md) — Situação não informada
+- [SUM 102](tcemg-sum-102.md) — Cancelada
+- [SUM 103](tcemg-sum-103.md) — Sobrestamento
+- [SUM 104](tcemg-sum-104.md) — Situação não informada
+- [SUM 105](tcemg-sum-105.md) — Situação não informada
+- [SUM 106](tcemg-sum-106.md) — Cancelada
+- [SUM 107](tcemg-sum-107.md) — Situação não informada
+- [SUM 108](tcemg-sum-108.md) — Situação não informada
+- [SUM 109](tcemg-sum-109.md) — Cancelada
+- [SUM 110](tcemg-sum-110.md) — Situação não informada
+- [SUM 111](tcemg-sum-111.md) — Situação não informada
+- [SUM 112](tcemg-sum-112.md) — Situação não informada
+- [SUM 113](tcemg-sum-113.md) — Situação não informada
+- [SUM 114](tcemg-sum-114.md) — Situação não informada
+- [SUM 115](tcemg-sum-115.md) — Situação não informada
+- [SUM 116](tcemg-sum-116.md) — Situação não informada
+- [SUM 117](tcemg-sum-117.md) — Situação não informada
+- [SUM 118](tcemg-sum-118.md) — Situação não informada
+- [SUM 119](tcemg-sum-119.md) — Situação não informada
+- [SUM 120](tcemg-sum-120.md) — Situação não informada
+- [SUM 121](tcemg-sum-121.md) — Situação não informada
+- [SUM 122](tcemg-sum-122.md) — Situação não informada
+- [SUM 123](tcemg-sum-123.md) — Situação não informada
+- [SUM 124](tcemg-sum-124.md) — Situação não informada
+- [SUM 125](tcemg-sum-125.md) — Situação não informada
+- [SUM 126](tcemg-sum-126.md) — Situação não informada
+- [SUM 127](tcemg-sum-127.md) — Situação não informada
+- [SUM 128](tcemg-sum-128.md) — Situação não informada

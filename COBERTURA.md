@@ -1,6 +1,6 @@
 # Cobertura
 
-**19.841 registros únicos de 80 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**19.968 registros únicos de 81 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -120,6 +120,7 @@
 | [TRF3 — Catálogo de súmulas e documentos XML oficiais](https://www.trf3.jus.br/diretoria-geral/biblioteca/setor-de-apoio-a-jurisprudencia/sumulas-do-trf3) | 42 | 0 | 42 |
 | [TRF da 4ª Região — Súmulas e referências do catálogo oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=sumulas_trf4) | 136 | 136 | 0 |
 | [TCESP — Repertório de súmulas, histórico e fundamento](https://www.tce.sp.gov.br/boletim-de-jurisprudencia/sumulas) | 52 | 52 | 0 |
+| [TCEMG — Enunciados de súmula e PDFs individuais oficiais](https://www.tce.mg.gov.br/Noticia/Detalhe/67) | 127 | 127 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -140,6 +141,14 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
+
+As publicações e republicações recentes foram preservadas, inclusive a publicação de 30/7/2026 e a republicação de 31/7/2026 da nº 128. A data de cancelamento “03/1220/02” da nº 32 permanece como grafada no catálogo. As notas da página e os textos dos documentos são apresentados separadamente, sem substituir anotações posteriores por referências mais antigas dos PDFs ou corrigir diferenças de grafia e datas.
+
+Foram mantidos os 172 links do catálogo, com seus rótulos e destinos, inclusive referências repetidas e links cruzados nas nº 28, 35, 47, 59, 73, 79, 105, 106, 115 e 116. Várias referências a publicações de 2024 apontam ao PDF da nº 117; esses links não foram reconstruídos nem usados para atribuir seu conteúdo a outro número. Cada registro recebeu apenas o PDF cujo endereço e título identificam seu próprio número. Os endereços relativos foram resolvidos contra a página oficial; os downloads usaram HTTPS, sem alterar o protocolo informado nos links originais.
+
+O catálogo do TCEMG foi capturado por HTTP com TLS validado e relido sem alteração dos registros. Os conteúdos dos documentos e os hashes das capturas foram conferidos. As normas e os julgados citados nos PDFs permanecem como referências; seus inteiros teores e as demais categorias de precedentes da Corte ainda não foram conciliados.
 
 O TCESP acrescenta as 52 súmulas do repertório oficial, com os enunciados da lista e os textos integrais das respectivas janelas de histórico e fundamento, presentes no mesmo documento HTML. A sequência de 1 a 52 foi conferida sem lacunas; as duas linhas de cada tabela foram convertidas em seções, preservando publicações, referências, alterações, renumerações e fundamentos de criação, manutenção ou cancelamento.
 
@@ -458,10 +467,11 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
+| [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU e TCESP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP e TCEMG são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
