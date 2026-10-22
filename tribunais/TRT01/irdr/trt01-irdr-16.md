@@ -20,4 +20,36 @@ CAIXA ECONÔMICA FEDERAL - CEF. ADICIONAL DE 'QUEBRA DE CAIXA'. POSSIBILIDADE DE
 
 - [01010620720185010000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0101062-07.2018.5.01.0000/2#47d2162)
 
+## Outra fonte oficial
+
+[TRT1 — Catálogo oficial de teses jurídicas](https://www.trt1.jus.br/teses-juridicas)
+
+**Situação informada:** Vigente
+
+### Texto
+
+**Tese**: [nº 11](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/2731246)
+
+**Tema**: 16
+
+**Processo**: [0101062-07.2018.5.01.0000](https://pje.trt1.jus.br/consultaprocessual/detalhe-processo/0101062-07.2018.5.01.0000/2#601e2b4)
+
+**Desembargador**: Gustavo Tadeu Alkmim
+
+**Acórdão**: [Acórdão](https://pje.trt1.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=21052111363400200000056389648)
+
+**Data de publicação**: 20/08/2021
+
+**Ementa**: CAIXA ECONÔMICA FEDERAL - CEF. ADICIONAL DE “QUEBRA DE CAIXA”. POSSIBILIDADE DE CUMULAÇÃO COM A GRATIFICAÇÃO PAGA PELO EXERCÍCIO DE CARGO EM COMISSÃO - GECC OU DE FUNÇÃO DE CONFIANÇA. NATUREZA JURÍDICA DA PARCELA.
+
+**Texto da tese**: A gratificação recebida por empregado economiário que exerce as atribuições inerentes a cargo em comissão - GECC ou às funções de confiança de caixa, avaliador de penhor ou tesoureiro pode ser cumulada com o adicional de “quebra de caixa” (também denominado de gratificação de “quebra de caixa” ou simplesmente “quebra de caixa”), por se tratar de parcelas que possuem naturezas jurídicas fundamentalmente distintas e que são pagas por fatores e com objetivos diversos. Além disso, a “quebra de caixa” possui natureza eminentemente salarial, devendo integrar o salário do empregado para todos os efeitos legais, inteligência que decorre do entendimento consagrado pela Súmula nº 247 do C. TST.
+
+**[Link para Biblioteca Digital](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/2731246)**
+
+### Informações do catálogo oficial
+
+Texto integral do catálogo de teses jurídicas, com número da tese, tema, processo, relatoria, ementa, publicação e vínculos. A identidade do registro usa a espécie e o tema do incidente; o número próprio da tese permanece no texto. A situação reproduz a classe expressa do portal, e o tachado da cancelada foi preservado. A data de publicação não foi convertida em atualização individual.
+
+Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A página informa que não há tese firmada em IAC; isso não foi interpretado como inexistência de incidentes. Links antigos de consulta genérica, números e aparentes inconsistências foram mantidos sem reconstrução. Os documentos vinculados e as demais séries do tribunal continuam pendentes de coleta e conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
