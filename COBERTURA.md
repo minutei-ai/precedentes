@@ -1,6 +1,6 @@
 # Cobertura
 
-**29.055 registros únicos de 99 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**29.077 registros únicos de 100 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCEPA — Compilação oficial de prejulgados, junho de 2026](https://tcepa.tc.br/images/pdf/informativos_jurispudencia/Prejulgados_TCE_atualizacao_junho_2026.pdf) | 22 | 22 | 0 |
 | [TCEMA — Prejulgados e deliberações oficiais](https://publicacao.apps.tcema.tc.br/#/muralprejulgados) | 1.610 | 1.610 | 0 |
 | [TCEMA — Súmulas do mural público oficial](https://publicacao.apps.tcema.tc.br/#/muralSumulas) | 6 | 6 | 0 |
 | [TCEAM — Súmulas dos catálogos institucional e de transparência](https://www.tceam.tc.br/?page_id=25633) | 29 | 29 | 0 |
@@ -350,6 +351,8 @@ As situações são as informadas pelo SINJ: 85 registros como Sem Revogação E
 O acesso HTTP direto ao portal de jurisprudência do TCDF falhou na validação do certificado. O navegador integrado abriu a página institucional e permitiu preservar a resposta original que aponta para o SINJ, sem desativar TLS. O catálogo, as fichas e os documentos do SINJ foram coletados por HTTP com TLS validado. Os originais, métodos e parâmetros de consulta, URLs finais, cabeçalhos públicos selecionados e recibos permanecem privados.
 
 Os atos de atualização e processos apenas citados não foram contados como registros adicionais nem tiveram todos os seus documentos coletados. As demais categorias do TCDF e a conciliação nacional continuam abertas.
+
+O TCEPA acrescenta 22 prejulgados, de 1 a 22, da compilação oficial vinculada na página de boletins e identificada como atualização de junho de 2026. Foram conciliadas duas leituras do PDF de seis páginas com bytes idênticos, além do vínculo institucional. A data antiga de publicação da linha da página não foi convertida em data de atualização dos verbetes. A nota introdutória inclui expressamente registros históricos, revogados e caducos. Foram mantidos os avisos de revogação dos nº 11, 18, 19 e 22 e de reforma dos nº 14 e 21, inclusive a revogação do nº 22 em 26/05/2026. Ausência de aviso individual não foi tratada como prova de vigência. Os textos, identificação dos atos, processos, nota geral, comissão e 28 referências do PDF foram preservados. Os blocos literais mantêm as quebras de linha e os hífens da extração; a apresentação gráfica e o itálico geral foram simplificados. As seis imagens correspondem ao timbre ilustrado, sem texto jurídico adicional. Os links antigos foram mantidos literalmente. Os inteiros teores dos atos e processos citados, as demais bases do tribunal e a cobertura nacional permanecem abertos.
 
 O TCEMA acrescenta 1.610 excertos rotulados como Prejulgados no mural público, vinculados a 602 processos. Os códigos de excerto são identificadores internos, com lacunas entre 1 e 2163; não foram transformados em numeração de ato normativo nem preenchidos por inferência. Os dois catálogos sem filtros retornaram os mesmos registros e todos os campos iguais. A tabela faz paginação local da lista recebida. Foram mantidos textos integrais dos excertos, observações, tema e subtema, referências de processo, exercício financeiro, espécie, natureza, relator, origem, responsável e datas de inclusão, inclusive campos nulos ou vazios. Data de inclusão e o aviso de atualização calculado pelo navegador não foram tratados como última atualização ou vigência jurídica.
 
@@ -764,6 +767,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCECE](tribunais/TCECE/) | 7 | TCECE — Súmulas e publicações oficiais vinculadas |
 | [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEGO](tribunais/TCEGO/) | 2 | TCEGO — Súmulas, fichas e documentos para impressão |
+| [TCEPA](tribunais/TCEPA/) | 22 | TCEPA — Compilação oficial de prejulgados, junho de 2026 |
 | [TCEMA](tribunais/TCEMA/) | 1.616 | TCEMA — Prejulgados e deliberações oficiais; TCEMA — Súmulas do mural público oficial |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEMS](tribunais/TCEMS/) | 91 | TCEMS — Súmulas e PDFs oficiais |
@@ -779,7 +783,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCETO](tribunais/TCETO/) | 14 | TCETO — Súmulas, versões completas e sintéticas oficiais |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM e TCEMA são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA e TCEPA são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
