@@ -669,7 +669,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEPE](tribunais/TCEPE/) | 100 | TCEPE — Enunciados de Prejulgados; TCEPE — Rol oficial de súmulas e nota do catálogo; TCEPE — Teses de Uniformização de Jurisprudência |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
-| [TCERJ](tribunais/TCERJ/) | 28 | TCE-RJ — Súmulas, fichas e acórdãos das propostas |
+| [TCERJ](tribunais/TCERJ/) | 614 | TCE-RJ — Consultas, ementas e documentos vinculados; TCE-RJ — Súmulas, fichas e acórdãos das propostas |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
