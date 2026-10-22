@@ -1,6 +1,6 @@
 # Cobertura
 
-**27.439 registros únicos de 98 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**27.445 registros únicos de 99 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCEMA — Súmulas do mural público oficial](https://publicacao.apps.tcema.tc.br/#/muralSumulas) | 6 | 6 | 0 |
 | [TCEAM — Súmulas dos catálogos institucional e de transparência](https://www.tceam.tc.br/?page_id=25633) | 29 | 29 | 0 |
 | [TCETO — Súmulas, versões completas e sintéticas oficiais](https://www.tceto.tc.br/sumulas/) | 14 | 14 | 0 |
 | [TCEPB — Resoluções sumulares e documentos oficiais](https://tce.pb.gov.br/publicacoes/legislacao/sumulas/) | 2 | 2 | 0 |
@@ -348,6 +349,12 @@ As situações são as informadas pelo SINJ: 85 registros como Sem Revogação E
 O acesso HTTP direto ao portal de jurisprudência do TCDF falhou na validação do certificado. O navegador integrado abriu a página institucional e permitiu preservar a resposta original que aponta para o SINJ, sem desativar TLS. O catálogo, as fichas e os documentos do SINJ foram coletados por HTTP com TLS validado. Os originais, métodos e parâmetros de consulta, URLs finais, cabeçalhos públicos selecionados e recibos permanecem privados.
 
 Os atos de atualização e processos apenas citados não foram contados como registros adicionais nem tiveram todos os seus documentos coletados. As demais categorias do TCDF e a conciliação nacional continuam abertas.
+
+O TCEMA acrescenta as seis súmulas do mural público atual, de 1 a 6, com os identificadores internos 48035 a 48040. A página institucional de transparência vincula esse mural à aplicação oficial de publicações. Foram preservadas sete capturas formais: o vínculo institucional, a página da aplicação, seu código cliente e quatro respostas do serviço público, duas da lista completa e duas da pesquisa sem filtros. As quatro consultas retornaram os mesmos seis registros, com todos os campos iguais. A tabela faz paginação local dos dados já recebidos; não foi inferida completude de outros acervos a partir dessa lista.
+
+Foram mantidos integralmente os enunciados, números de processo, anos, datas da sessão e do Diário, fundamentos, precedentes citados e palavras-chave. O corte da prévia em 200 caracteres não foi aplicado ao texto publicado. Na nº 1 há sete palavras-chave; nas nº 2 a 6, o serviço entrega um único item vazio nesse campo, identificado como tal. Os números de processo são referências administrativas da fonte, sem conversão em CNJ ou criação de novos registros. As datas não foram convertidas em última atualização ou prova de vigência. O aviso da interface Informação atualizada até usa a data calculada no navegador; não é um metadado individual dos verbetes.
+
+A antiga rota index.php/sumulas-do-tce respondeu HTTP 403 na consulta nativa; essa resposta foi preservada separadamente e não foi usada como catálogo, nem houve alteração de TLS. A fonte efetivamente coletada é o mural público atual e o serviço anônimo consumido por ele. Essa consulta não fornece links individuais para PDFs dos atos e processos citados; seus inteiros teores permanecem fora deste lote, sem reconstrução de links. Os prejulgados, outras categorias do TCEMA e a conciliação nacional permanecem parciais.
 
 O TCEAM acrescenta 29 súmulas conciliadas entre os catálogos institucional e de transparência: números 1 a 30, sem a nº 13. O primeiro catálogo contém 28 fichas, até a nº 29; o segundo contém 29, incluindo a nº 30. A ausência da nº 13 não foi convertida em cancelamento nem suprida por texto de outra numeração. As datas cadastrais foram preservadas como tais, sem inferir aprovação, publicação, atualização individual ou vigência atual.
 
@@ -748,6 +755,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCECE](tribunais/TCECE/) | 7 | TCECE — Súmulas e publicações oficiais vinculadas |
 | [TCEES](tribunais/TCEES/) | 1.129 | TCEES — Pareceres em Consulta e versões documentais oficiais; TCEES — Prejulgados e deliberações oficiais vinculadas; TCEES — Súmulas e PDFs individuais oficiais |
 | [TCEGO](tribunais/TCEGO/) | 2 | TCEGO — Súmulas, fichas e documentos para impressão |
+| [TCEMA](tribunais/TCEMA/) | 6 | TCEMA — Súmulas do mural público oficial |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
 | [TCEMS](tribunais/TCEMS/) | 91 | TCEMS — Súmulas e PDFs oficiais |
 | [TCEPB](tribunais/TCEPB/) | 2 | TCEPB — Resoluções sumulares e documentos oficiais |
@@ -762,7 +770,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCETO](tribunais/TCETO/) | 14 | TCETO — Súmulas, versões completas e sintéticas oficiais |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO e TCEAM são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM e TCEMA são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
