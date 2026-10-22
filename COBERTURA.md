@@ -1,6 +1,6 @@
 # Cobertura
 
-**22.995 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.040 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -124,6 +124,7 @@
 | [TCESC — Enunciados de Consulta no sistema oficial de pesquisa](https://www.tcesc.tc.br/enunciados-de-consulta) | 2.569 | 2.569 | 0 |
 | [TJRJ — Repertório cronológico de 2026 e lista de súmulas canceladas](https://www.tjrj.jus.br/web/portal-conhecimento/sumulas/s%C3%BAmulas-do-tjrj) | 396 | 396 | 0 |
 | [TRF2 — Súmulas, biblioteca oficial e textos integrais](https://www.trf2.jus.br/trf2/consultas-e-servicos/sumulas-do-trf2) | 62 | 62 | 0 |
+| [TRT13 — Catálogo de súmulas e páginas individuais oficiais](https://www.trt13.jus.br/institucional/nugep/sumulas) | 45 | 45 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -144,6 +145,14 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRT13 acrescenta as 45 súmulas do catálogo atual, com os textos integrais das respectivas páginas individuais, incluindo precedentes e históricos. A sequência de 1 a 45 foi conferida sem lacunas; o item adicional “Responsabilidade” corresponde ao expediente do setor e não foi transformado em precedente. Foram conciliadas duas leituras completas do catálogo e de todas as páginas individuais, em 92 capturas. Os títulos, resumos, endereços, marcações e textos permaneceram iguais.
+
+As marcações do tribunal foram preservadas: dez súmulas “cancelada” (3, 4, 5, 7, 8, 14, 25, 26, 37 e 40), cinco “alterada” (1, 2, 6, 10 e 44) e duas “revisada” (22 e 36). Não foi inferida vigência para as outras 28. Os 260 parágrafos das páginas foram preservados, inclusive os precedentes, as resoluções administrativas, as publicações e as notas históricas. Os números e as grafias foram mantidos como fornecidos, sem completar identificadores ou corrigir remissões.
+
+Na nº 22, foi mantida a tese de revisão do IAC Tema 10, com publicação informada em 21.01.2026, além da redação e dos precedentes anteriores. A nº 36 conserva a tese do IAC Tema 9, publicada em 16/07/2025, e a redação anterior indicada no mesmo documento. A nº 37 preserva a nota de cancelamento pela Resolução Administrativa TRT13 nº 61/2025, disponibilizada em 07.10.2025. As diferentes datas e apresentações históricas não foram substituídas por uma redação presumidamente atual.
+
+O endereço antigo de súmulas indicado pela navegação do portal redirecionou para /institucional/nugep/sumulas. A consulta direta continuou respondendo HTTP 403, e o coletor nativo encerrou com “unsupported: frames”. O navegador integrado abriu a fonte e permitiu a coleta, sem desativar TLS. As respostas originais e seus hashes foram preservados privadamente. Os inteiros teores dos acórdãos, das resoluções e dos demais atos citados e as outras séries do tribunal permanecem pendentes de conciliação.
 
 O TRF2 acrescenta 62 súmulas, com todos os parágrafos e os 64 links da página principal, os 62 registros bibliográficos vinculados e seus 62 textos integrais. As duas leituras do catálogo e de cada detalhe e texto da biblioteca foram conciliadas em 250 capturas independentes. Os dados publicados permaneceram iguais, incluindo publicações, republicações, alterações, referências e assinaturas disponíveis.
 
@@ -444,7 +453,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT10](tribunais/TRT10/) | 106 | 21 | 21 |
 | [TRT11](tribunais/TRT11/) | 61 | 32 | 32 |
 | [TRT12](tribunais/TRT12/) | 182 | 46 | 46 |
-| [TRT13](tribunais/TRT13/) | 63 | 63 | 63 |
+| [TRT13](tribunais/TRT13/) | 108 | 63 | 63 |
 | [TRT14](tribunais/TRT14/) | 44 | 36 | 36 |
 | [TRT15](tribunais/TRT15/) | 224 | 78 | 78 |
 | [TRT16](tribunais/TRT16/) | 22 | 18 | 18 |
@@ -510,8 +519,6 @@ Igualdade com um catálogo não prova cobertura nacional completa. Ainda precisa
 Na consulta de 21/10/2026, a [página oficial de súmulas do TRE-GO](https://www.tre-go.jus.br/jurisprudencia/sumulas) informa “Não há edição de súmulas no TRE/GO até o momento.” e oferece links para súmulas do STF, STJ e TSE. A declaração e a página foram preservadas na coleta privada. Esses verbetes não foram atribuídos ao tribunal regional. A informação se limita à edição de súmulas e não comprova ausência de outras categorias de precedentes; a conciliação das demais fontes do TRE-GO permanece pendente.
 
 A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de IAC, agrupados em sete incidentes por número de processo e conferidos com os processos do BNP para evitar duplicatas. Os textos são apresentados como decisões, sem inferir tese firmada ou vigência. O inventário de classes indica também documentos históricos que a consulta ao SAJ não retornou; a conciliação com o e-SAJ e o acervo histórico do SJURIS continua pendente. Uma consulta vazia não foi tratada como inexistência de outros incidentes.
-
-O catálogo do TRT13 ainda não foi conciliado: o acesso ao portal não produziu captura validada nesta coleta. Isso não significa inexistência de súmulas ou outros precedentes.
 
 Os catálogos do TRT5 e TRT7 ainda não foram conciliados. As consultas diretas retornaram bloqueio; no coletor nativo, o TRT7 respondeu HTTP 403 e a página do TRT5 encontrou uma funcionalidade de imagens não suportada. Essas falhas não foram tratadas como catálogos vazios.
 

@@ -1,0 +1,49 @@
+# TRT13 · Súmula
+
+**45 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt13-sum-1.md) — alterada
+- [SUM 2](trt13-sum-2.md) — alterada
+- [SUM 3](trt13-sum-3.md) — cancelada
+- [SUM 4](trt13-sum-4.md) — cancelada
+- [SUM 5](trt13-sum-5.md) — cancelada
+- [SUM 6](trt13-sum-6.md) — alterada
+- [SUM 7](trt13-sum-7.md) — cancelada
+- [SUM 8](trt13-sum-8.md) — cancelada
+- [SUM 9](trt13-sum-9.md) — Situação não informada
+- [SUM 10](trt13-sum-10.md) — alterada
+- [SUM 11](trt13-sum-11.md) — Situação não informada
+- [SUM 12](trt13-sum-12.md) — Situação não informada
+- [SUM 13](trt13-sum-13.md) — Situação não informada
+- [SUM 14](trt13-sum-14.md) — cancelada
+- [SUM 15](trt13-sum-15.md) — Situação não informada
+- [SUM 16](trt13-sum-16.md) — Situação não informada
+- [SUM 17](trt13-sum-17.md) — Situação não informada
+- [SUM 18](trt13-sum-18.md) — Situação não informada
+- [SUM 19](trt13-sum-19.md) — Situação não informada
+- [SUM 20](trt13-sum-20.md) — Situação não informada
+- [SUM 21](trt13-sum-21.md) — Situação não informada
+- [SUM 22](trt13-sum-22.md) — revisada
+- [SUM 23](trt13-sum-23.md) — Situação não informada
+- [SUM 24](trt13-sum-24.md) — Situação não informada
+- [SUM 25](trt13-sum-25.md) — cancelada
+- [SUM 26](trt13-sum-26.md) — cancelada
+- [SUM 27](trt13-sum-27.md) — Situação não informada
+- [SUM 28](trt13-sum-28.md) — Situação não informada
+- [SUM 29](trt13-sum-29.md) — Situação não informada
+- [SUM 30](trt13-sum-30.md) — Situação não informada
+- [SUM 31](trt13-sum-31.md) — Situação não informada
+- [SUM 32](trt13-sum-32.md) — Situação não informada
+- [SUM 33](trt13-sum-33.md) — Situação não informada
+- [SUM 34](trt13-sum-34.md) — Situação não informada
+- [SUM 35](trt13-sum-35.md) — Situação não informada
+- [SUM 36](trt13-sum-36.md) — revisada
+- [SUM 37](trt13-sum-37.md) — cancelada
+- [SUM 38](trt13-sum-38.md) — Situação não informada
+- [SUM 39](trt13-sum-39.md) — Situação não informada
+- [SUM 40](trt13-sum-40.md) — cancelada
+- [SUM 41](trt13-sum-41.md) — Situação não informada
+- [SUM 42](trt13-sum-42.md) — Situação não informada
+- [SUM 43](trt13-sum-43.md) — Situação não informada
+- [SUM 44](trt13-sum-44.md) — alterada
+- [SUM 45](trt13-sum-45.md) — Situação não informada
