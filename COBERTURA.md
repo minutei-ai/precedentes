@@ -1,6 +1,6 @@
 # Cobertura
 
-**26.644 registros únicos de 89 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**26.678 registros únicos de 90 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TCERN — Súmulas e PDFs oficiais](https://jurisprudencia.tce.rn.gov.br/sumula) | 34 | 34 | 0 |
 | [TCE-RJ — Consultas, ementas e documentos vinculados](https://www.tcerj.tc.br/cadastro-publicacoes/public/consultas) | 586 | 586 | 0 |
 | [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf) | 1.292 | 1.292 | 0 |
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
@@ -318,6 +319,14 @@ Na consulta 35/2019, o arquivo reúne o voto original nas páginas 1 a 4 e o vot
 Há texto documental em 556 consultas. As outras 30 mantêm ementas e metadados, com aviso de inteiro teor pendente: 28 documentos sem transcrição fiel, uma associação divergente ainda não conciliada e uma ficha sem arquivo. O retorno sem acórdão disponível para o mesmo processo e sessão não foi interpretado como inexistência do ato. Os números dos processos nos documentos digitalizados ou com fontes problemáticas foram conferidos visualmente na primeira página; nenhum OCR experimental nem texto embaralhado foi publicado. Os demais atos e processos apenas citados e outras séries do tribunal continuam pendentes.
 
 A validação deste lote é específica destas 586 consultas; ela não representa nova coleta nem releitura dos demais órgãos.
+
+O TCERN acrescenta as 34 súmulas do catálogo público, de 1 a 34. O portal obtém o rol completo e faz a paginação no navegador; as duas leituras do serviço retornaram os mesmos 34 identificadores e metadados. Foram preservados os números com zeros à esquerda no cadastro, as descrições do ementário e os valores literais de dataArtigo e dataDoe, sem tratá-los como última atualização ou prova de vigência.
+
+Os 33 PDFs disponíveis foram lidos duas vezes: cada par tem bytes idênticos e soma 36 páginas por leitura. O número da súmula foi conferido no início de cada documento. Os textos mantêm enunciados, fundamentos, processos, publicações e histórico, incluindo a redação original da nº 32 e sua revisão publicada em 29/05/2024. Nenhum processo apenas citado foi contado como outro registro nem teve seu inteiro teor coletado neste lote.
+
+A nº 24 aparece no ementário como cancelada pela Decisão nº 2092/2014-TC, apesar de o campo inativa permanecer false. O serviço de PDF respondeu HTTP 400 nas duas leituras; a redação anterior continua pendente. O endereço histórico de súmulas retornou a mesma aplicação atual, sem outro arquivo. A indicação de cancelamento e a divergência do cadastro foram preservadas. Não reconstruímos o texto a partir de notícias ou decisões que apenas o mencionam.
+
+São 70 capturas deste catálogo: duas do rol, 66 de PDFs e duas das respostas de erro, mantidas privadamente com seus recibos. Os Markdown reproduzem todas as páginas disponíveis. A validação é específica deste lote e não representa nova coleta dos demais órgãos; outras séries do TCERN e a cobertura nacional continuam parciais.
 
 O TCEPE acrescenta as 20 súmulas do rol oficial, em sequência de 1 a 20, com os textos históricos das nº 1, 2, 5 e 15 marcados como cancelados. O enunciado, os fundamentos jurídicos incorporados à descrição e as referências de publicação ou cancelamento foram preservados integralmente. A identidade dos arquivos segue o número da súmula, mantendo separadamente o identificador interno da API: por exemplo, a nº 19 tem identificador 1 e a nº 1 tem identificador 19.
 
@@ -670,11 +679,12 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEPE](tribunais/TCEPE/) | 100 | TCEPE — Enunciados de Prejulgados; TCEPE — Rol oficial de súmulas e nota do catálogo; TCEPE — Teses de Uniformização de Jurisprudência |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCERJ](tribunais/TCERJ/) | 614 | TCE-RJ — Consultas, ementas e documentos vinculados; TCE-RJ — Súmulas, fichas e acórdãos das propostas |
+| [TCERN](tribunais/TCERN/) | 34 | TCERN — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE e TCERJ são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ e TCERN são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
