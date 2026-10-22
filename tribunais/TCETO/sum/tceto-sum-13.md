@@ -1835,111 +1835,547 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 33 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    ACÓRDÃO N. 501/2008, TCE – 1ª Câmara
+    
+    1. Processo n: 1392/2007
+    2. Proc. Auxiliares Apensos: 10814/2006 e 9198/2007.
+    3. Classe de Assunto: 04 – Prestação de Contas
+    4. Assunto: 04 – Prestação de Contas de Câmara Municipal Exercício de 2006
+    5. Entidade: Município de Ângico – TO
+    6. Órgão: Câmara Municipal de Ângico – TO
+    7. Responsável: Deusdete Borges Pereira – Presidente
+    8. Relator: Conselheiro José Wagner Praxedes
+    9. Ministério Público junto ao Tribunal de Contas: Procurador de Contas Márcio Ferreira Brito
+    
+    EMENTA: PRESTAÇÃO DE CONTAS DE ORDENADOR. Poder Legislativo Municipal. Falhas e Irregularidades de natureza grave. Ausência de planejamento e emissão de relatórios pelo responsável pelo controle interno; pagamento de multas em decorrência do atraso na quitação de contas telefônicas, ocasionado dano ao erário; inexigibilidade de licitação para contratação de contador; não retenção do INSS dos vereadores divergência de valores lançados no balanço orçamentário e lei orçamentária anual; contabilização do repasse do Poder Executivo de forma divergente no balancete financeiro e no balanço orçamentário; ausência do registro do estoque de almoxarifado no balanço patrimonial. Julgamento pela irregularidade.
+    
+    10. Decisão: Vistos, relatados e discutidos os autos de n°. 1392/2007, versando sobre Prestação de Contas do Senhor Deusdete Borges Pereira – Presidente da Câmara, responsável pela gestão do Poder Legislativo Municipal de ÂNGICO - TO, no exercício financeiro de 2006, encaminhados a esta Corte nos termos do art. 33, II da Constituição Estadual, art. 1°, II da Lei n. 1284/2001 e art. 37, do Regimento Interno, bem como os autos auxiliares n.º 3921/2007 que tratam de auditoria programada realizada no Poder Legislativo de Ângico - TO, abrangendo os atos praticados pelo Excelentíssimo Senhor Presidente, no período de janeiro a dezembro de 2006.
+    
+    ACORDAM os membros do Egrégio Tribunal de Contas do Estado do Tocantins, reunidos em sessão da 1ª Câmara, com fundamento no art. 85, III da LOTCE/TO, em:
+    
+    10.1. Julgar IRREGULAR a prestação de contas de ordenador referente ao exercício de 2006, da Câmara Municipal de Ângico-TO, sob a responsabilidade do Senhor Presidente, Deusdete Borges Pereira, com base no art. 77, inciso III do Regimento Interno, tendo em vista as falhas e ou irregularidades detectadas quando da realização da auditoria programada, ex vi Relatório n.º 048/2007, processo auxiliar n.º 9198/2007, bem como as decorrentes do Relatório n.º 070/2007, processo principal n.º 1392/2007, e não sanadas pelo ordenador, posto ter sido considerado revel, quais sejam:
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 16. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos. A epígrafe contém o número 501 manuscrito. Há carimbo da Secretaria do Pleno com campos manuscritos de publicação parcialmente sobrepostos ou sem leitura segura; esses campos não foram convertidos em datas ou metadados. A divergência entre os números dos processos citados foi mantida.
 
 #### Página 34 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    a) Ausência de planejamento e emissão de relatórios pelo responsável pelo controle interno, deixando de cumprir de forma efetiva as atribuições do controle interno consoante o disposto no artigo 74 da Constituição Federal.
+    
+    b) Pagamento de multas em decorrência do atraso na quitação de contas telefônicas, ocasionado dano ao erário.
+    
+    c) Inexigibilidade de licitação para contratação de contador, contrariando a obrigação constitucional de licitar, bem como o disposto nos artigos 2.° e 3.° da Lei Federal n.° 8.666/93.
+    
+    d) Não retenção do INSS dos vereadores, em desconformidade com a Lei n.° .8.212/91, art. 15, I.
+    
+    e) Divergência de valores lançados no balanço orçamentário e lei orçamentária anual.
+    
+    f) Contabilização do repasse do Poder Executivo de forma diferente no balancete financeiro e no balanço orçamentário.
+    
+    g) Ausência do registro do estoque de almoxarifado no balanço patrimonial, contrariando os artigos 93 e 94 da Lei Federal n.° 4320/64.
+    
+    10.2. Aplicar, consoante os termos do artigo 39 inciso II, da Lei Estadual n.° 1.284/2001 c/c 159, inciso II do Regimento Interno desta Casa, multa individualizada no valor de R$ 1.000,00 (mil reais), perfazendo um total de R$ 4.000,00 ao Senhor Deusdete Borges Pereira - Presidente Municipal de Ângico - TO, pela prática de atos com grave infração à norma legal e regulamentar conforme descrito nas alínea “a”, “c”, “d”, e “g” do item I deste Voto.
+    
+    10.3. Fixar, nos termos do artigo 83 § 1.° do Regimento Interno, o prazo de 30 (trinta) dias, a contar da sua notificação, para que o Gestor, comprove perante o Tribunal, o recolhimento das multas à conta do Fundo de Aperfeiçoamento e Reequipamento Técnico do Tribunal de Contas, nos termos do art. 167, 168, III e 169 da Lei n° 1.284, de 17 de dezembro de 2001 c/c o §3° do artigo 83 do Regimento Interno, atualizados monetariamente e acrescido dos juros de mora calculados, na forma prevista na legislação em vigor.
+    
+    10.4. Intimar o Responsável, do teor do presente acórdão por via postal, através de carta registrada com aviso de recebimento, na forma prevista no art. 205 e 206 do RITCE remetendo-lhe cópia do Relatório, Voto e Decisão.
+    
+    10.5. Autorizar, desde logo, nos termos do art. 96, II, da Lei n. 1.284, de 17 de dezembro de 2001, a cobrança judicial da dívida, caso não atendida a notificação.
+    
+    10.6. Acolher os termos do Relatório de Auditoria Programada, realizada na Câmara Municipal de Ângico - TO, abrangendo os atos praticados pelo Senhor Deusdete Borges Pereira – Presidente, no período de janeiro a dezembro de 2006, constante do processo n.° 9198/2007.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 17. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 35 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    10.7. Recomendar ao Gestor do ente auditado o máximo empenho e urgência no sentido de sanar as falhas apontadas no Relatório de Auditoria, adotando medidas eficientes e eficazes que visem a sua regularização, mormente quanto à necessidade de: implantar efetivamente o controle interno, em atendimento ao disposto no artigo 74 da Constituição Federal.
+    
+    10.8. Determinar que o Presidente da Câmara de Ângico-TO, ou quem lhe haja sucedido, se abstenha de contratar contador sem o devido procedimento licitatório, sob pena de ser-lhe aplicada as sanções cabíveis, sem prejuízo de envio dos autos ao Ministério Público para providências de sua alçada.
+    
+    10.9. Alertar ao Senhor Presidente que este Tribunal procederá à verificação do cumprimento das recomendações e determinações, através de procedimentos a serem executados pela equipe de auditagem em data futura e, caso detectada reincidência ficará o Gestor sujeito às sanções legais cabíveis nos termos do art. 39, VII da Lei Estadual 1.284/2001 c/c art. 159, VII do Regimento Interno deste Tribunal.
+    
+    10.10. Determinar a remessa dos presentes autos à 1ª Diretoria de Controle Externo Municipal – DCEM deste Tribunal, para conhecimento e inclusão na sua programação de auditoria na Câmara Municipal de Ângico - TO, para verificação das providências adotadas visando atender as recomendações e determinações constantes do voto.
+    
+    10.11. Determinar a publicação desta Decisão no Boletim Oficial do Tribunal de Contas Estado, para que surta os efeitos legais necessários.
+    
+    10.12. Determinar o arquivamento do processo n.° 10814/2006, consoante os termos do artigo 32 caput da Instrução Normativa n.° 08/2003, de 03 de setembro de 2003, haja vista o saneamento da motivação para abertura do feito, na medida em que o cadastro de responsáveis é parte integrante da prestação de contas.
+    
+    10.13. Intimar pessoalmente o Procurador do Ministério Público junto a esta Corte de Contas, que atuou nos autos.
+    
+    10.14. Após o envio dos autos à 1.ª Diretoria de Controle Externo, sejam estes enviados ao Cartório de Contas para adoção das providências de sua alçada e, após, caso não haja interposição de recurso, envie-se a Coordenadoria de Protocolo Geral, para remessa à origem.
+    
+    Tribunal de Contas do Estado do Tocantins, Sala das Sessões da 1ª Câmara, em Palmas, Capital do Estado, aos 28 dias do mês de Outubro de 2008.
+    
+    Cons. Severiano José Costandrade de Aguiar
+    Presidente-1ª Câmara
+    
+    Conselheiro José Wagner Praxedes
+    Relator
+    
+    Fui presente
+    João Alberto Barreto Filho
+    Procurador - Geral de Contas
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 18. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos. O dia 28 e o mês Outubro foram preenchidos à mão na data, e a expressão Fui presente também é manuscrita; as leituras legíveis foram incluídas. Nomes impressos sob as assinaturas foram transcritos.
 
 #### Página 36 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    RELATÓRIO
+    
+    Processo n: 1392/2007
+    Processos Auxiliares Apensos: 10814/2006 e 9198/2007
+    Classe de Assunto: 04 – Prestação de Contas
+    Assunto: 04 – Prestação de Contas de Câmara Municipal - Exercício de 2006
+    Entidade: Município de Ângico – TO
+    Órgão: Câmara Municipal de Ângico – TO
+    Responsável: Deusdete Borges Pereira – Presidente
+    Relator: Conselheiro José Wagner Praxedes
+    Ministério Público de Contas: Procurador de Contas Márcio Ferreira Brito
+    
+    Tratam os presentes autos sobre Prestação de Contas do Senhor Deusdete Borges Pereira – Presidente da Câmara, responsável pela gestão do Poder Legislativo Municipal de ÂNGICO - TO, no exercício financeiro de 2006, encaminhados a esta Corte nos termos do art. 33, II da Constituição Estadual¹, art. 1°, II da Lei n. 1284/2001² e art. 37, do Regimento Interno³. Tramitam em apenso os processos n.° 10814/2006 e 9198/2008 que tratam de sonegação de documentos e informações determinadas pelo Tribunal de Contas, referentes ao cadastro de responsáveis e auditoria programada realizada no Poder Legislativo de Ângico - TO, abrangendo os atos praticados pelo Excelentíssimo Senhor Presidente, no período de janeiro a dezembro de 2006.
+    
+    Tendo em vista disposições contidas no art. 125, IV do Regimento Interno, onde se verifica que os procedimentos de auditoria visam, dentre outras finalidades, “IV – fornecer elementos para julgamento ou emissão de parecer prévio das contas submetidas ao seu exame”, justifica-se o apensamento do processo de auditoria programada à prestação de contas, para que a matéria versada na presente auditoria repercuta quando da análise conjunta das citadas contas, nos termos do art. 6°, §§ 1° e 2° da IN TCE-TO nº 02/2003⁴.
+    
+    Com o propósito de facilitar a compreensão dos julgadores, passarei a discorrer separadamente sobre o processo principal e, logo em seguida sobre os auxiliares.
+    
+    ¹ Constituição Estadual Art. 33 II - julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelos Poderes Públicos estadual e municipal e as contas daqueles que derem causa à perda, extravio ou outras irregularidades que resultem prejuízo ao tesouro público;
+    
+    ² LOTCE Art. 1° II - julgar as contas dos ordenadores de despesas e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelos Poderes Públicos estadual e municipal e as contas daqueles que derem causa à perda, extravio ou outras irregularidades que resultem prejuízo ao tesouro público;
+    
+    ³ RITCE Art. 37 - As contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos serão submetidas a julgamento do Tribunal sob a forma de processo de prestação de contas, tomada de contas ou tomada de contas especial.
+    
+    ⁴ Art. 6°. As prestações de contas anuais dos ordenadores de despesas municipais serão autuadas por entidade.
+    § 1°. Os processos auxiliares relevantes tramitarão junto à prestação de contas anual dos ordenadores, como anexos, para subsidiarem a instrução das mesmas.
+    § 2°. Entende-se por processos auxiliares relevantes as denúncias, representações, auditorias, inspeções, pedidos de impugnações, tomadas de contas, tomadas de contas especiais e demais processos administrativos que envolvam exame de responsabilidades e possam influenciar no julgamento das contas.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 1. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 37 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    Processo Principal - n.º 1392/2007
+    
+    Consta dos autos principais o Relatório de Verificação n.º 70/2007, fls. 72/92, emitido pela 1ª Diretoria de Controle Externo Municipal, evidenciando apontamentos sobre os seguintes aspectos: apresentação de documentos; gestão orçamentária; composição do orçamento; alteração do orçamento; balanço orçamentário; resumo do balanço orçamentário, subsídios de vereadores, gastos com folha de pagamento, total de despesas do Poder Legislativo, limite de despesas com pessoal, gestão financeira, balanço financeiro, consistência do saldo bancário x termo de conferência, gestão patrimonial, ativo financeiro, ativo permanente, almoxarifado, restos a pagar, passivo permanente, variações patrimoniais, demonstrações das variações patrimoniais, sistema LRF-NET – Relatório de Verificação, conclusão.
+    
+    O Conselheiro Relator do feito, por meio do Despacho nº 64/2008, fl. 111, determinou a conversão dos autos em diligência visando o saneamento das falhas e ou irregularidades apontadas no Relatório de Verificação n.º 70/2007, fls. 72/92, Relatório de Auditoria Programada n.º 48/2007, fls. 06/13 e Processo n.º 10814/2006.
+    
+    O Senhor Deusdete Borges Pereira - Presidente da Câmara Municipal, após citação por Aviso de Recebimento compareceu ao TCE-TO e apresentou seus esclarecimentos nos moldes do expediente protocolado sob o n.º 1658/2008, fls. 114/126.
+    
+    A Primeira Diretoria de Controle Externo Municipal, por meio da Análise de Diligência n.º 33/2008, fls. 128/132, entendeu que as justificativas apresentadas sanam parcialmente as falhas e irregularidades.
+    
+    O Corpo Especial de Auditores por meio do Parecer n.º 1027/2008, fls. 133/136, o qual transcrevo sua parte final, manifestou-se no seguinte sentido:
+    
+    1. Julgar irregular a prestação de contas de ordenador de despesas referente ao exercício de 2006, da Câmara Municipal de Ângico - TO, sob a responsabilidade do senhor Deusdete Borges Pereira com base no art. 85, inciso III, alíneas “b” e “c” da Lei Estadual n.º 1.284/2001, tendo em vista as falhas e ou irregularidades detectadas quando da realização da auditoria programada, consoante relatório n.º 048/2007, do processo n.º 9198/2007, bem como as decorrentes do relatório n.º 070/2007, fls. 72/92, do processo n.º 1392/2007, e não sanadas consoante análise de diligência n.º 33/2008, fls. 128 a 132, do processo em apreço, quais sejam:
+    a) – Ausência de planejamento e emissão de relatório pelo responsável do controle interno, contrariando o art. 32, caput e 74 da Constituição Federal e art. 59 da L.R.F., consoante item 3.1 do relatório n.º 048/2007, do processo de auditoria programada n.º 9198/2007;
+    b) – Pagamento de juros e multas, no valor de R$ 28,23, consoante item 3.2 do relatório n.º 048/2007, do processo de auditoria programada n.º 9198/2007;
+    c) – Inexigibilidade de licitação na contratação de contador, com base no art. 25, inciso II, § 1.º c/c o art. 13 da Lei Federal n.º 8.666/93, sendo que o senhor Otamilton Balbino colou grau pelo Instituto Tocantinense Antônio Carlos em
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 2. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 38 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    Araguaína – TO, em 30 de janeiro de 2004, consoante item 3.3 do relatório n.º 048/2007, do processo de auditoria programada n.º 9198/2007.
+    d) Não retenção do INSS dos senhores Vereadores, consoante item 3.4. do relatório n.º 70/2007, do processo de auditoria programada n.º 9198/2007.
+    e) Divergência nas informações do ACP e a Contabilidade, consoante item 5 do relatório n.º 70/2007, do processo em apreço.
+    2. Aplicar multa, no valor de R$ 3.000,00 (três mil reais), ao Sr. Deusdete Borges Pereira – ordenador de despesas, relativa as irregularidades enumeradas nos itens 6.1 e 7, do Relatório n.º 070/2006, às fls. 72 a 92 do processo em comento, e itens 3.1, 3.2, 3.3 e 3.4 do Relatório de Auditoria (processo 09198/2007), com fundamento no art. 39, inciso II, da Lei Estadual n.º 1.284/2001, c/c art. 159, inciso II, do Regimento Interno deste Tribunal.
+    3. Acolher os termos do Relatório de Auditoria Programada n.º 048/2007, realizada na Câmara Municipal de Ângico, abrangendo os atos praticados pelo Sr. Deusdete Borges Pereira, Presidente, no período de janeiro a dezembro de 2006.
+    4. Recomendar ao gestor do ente auditado a máxima urgência no sentido de sanar as falhas apontadas no Relatório de Auditoria n.º 070/2007, do processo n.º 1392/2007, adotando todas as providências necessárias que visem a sua regularização.
+    5. Determinar a publicação da decisão prolatada por esta Corte de Contas no Diário Oficial do Estado para a publicidade necessária à eficácia dos atos do Poder Público.
+    6. Dar ciência ao Ministério Público junto a esta Corte de Contas da decisão prolatada por esta Corte de Contas, encaminhando-lhe cópia da mesma, para as providências de seu mister.
+    7. Dar ciência ao responsável da decisão prolatada por esta Casa, para as providências dela decorrentes.
+    8. Determinar a adoção das demais providências necessárias, de competência das unidades desta Corte de Contas.
+    
+    O Ministério Público junto ao Tribunal de Contas por meio do Parecer n.º 1570/2008, fls. 137/139, o qual transcrevo sua parte final, manifestou-se no seguinte sentido: Ante o exposto, e corroborando o entendimento esboçado pelo Corpo Especial de Auditores o Ministério Público de Contas, com fulcro no artigo 145, inciso V, da Lei n.º 1.284/2001, opina pela IRREGULARIDADE das contas anuais de Ordenador de Despesas da Câmara Municipal de Ângico, bem como aplicação de multa ao Sr. Deusdete Borges Pereira, com fundamento no art. 39, inciso II da Lei Estadual n.º 1.284/2001 c/c art. 159, II do Regimento Interno deste Tribunal, acolhendo os termos do Relatório de Auditoria Programada n.º 09198/2007.”
+    
+    Processo n.º 10814/2006 – Aplicação de Multa
+    
+    Trata-se de processo administrativo aberto em desfavor do Senhor Deusdete Borges Pereira – Presidente da Câmara Municipal de Ângico-TO, por sonegação de documentos e informações determinadas pelo Tribunal de Contas, referentes ao cadastro de responsáveis.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 3. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 39 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    Por meio do Despacho nº 64/2008, fl. 111, O Conselheiro Relator do feito, determinou a conversão dos autos em diligência visando o saneamento das falhas e ou irregularidades apontadas processo acima citado.
+    
+    O Senhor Deusdete Borges Pereira - Presidente da Câmara Municipal, após citação por Aviso de Recebimento compareceu ao TCE-TO e apresentou seus esclarecimentos nos moldes do expediente protocolado sob o n.º 1658/2008, fls. 114/126 (processo n.º 1392/2007)
+    
+    O Corpo Especial de Auditores e o Ministério Público junto ao Tribunal de Contas, em relação ao processo administrativo acima citado, não exararam manifestações específicas, contudo, por se tratar de processo auxiliar e pela análise do conjunto, podemos verificar que o Parecer de Auditoria n.º 1027/2008, fls. 133/136 (processo n.º 1392/2007) e o Parecer n.º 1570/2008, fls. 137/139 (processo n.º 1392/2007), abrangem os autos acima citados.
+    
+    Processo n.º 9198/2007 – Auditoria Programada
+    
+    Tratam os presentes autos sobre auditoria programada realizada no Poder Legislativo de Ângico - TO, abrangendo os atos praticados pelo Excelentíssimo Senhor Deusdete Borges Pereira - Presidente, no período de janeiro a dezembro de 2006. Saliente-se que o processo foi autuado em nome de Ivaldo Barros de Oliveira, contudo, a Primeira Diretoria de Controle Externo Municipal, por meio do Despacho n.º 056/2008 fl. 141 (processo 1392/2007) informou tratar-se de erro de pessoa.
+    
+    A equipe técnica em atendimento às determinações contidas na Portaria n.º 856, de 29 de outubro de 2007, ofertou o Relatório n.º 48/2007, fls. 06/14, onde se verifica apontamentos sobre: natureza do trabalho, identificação da entidade e gestor, comissão de licitação, período de abrangência da auditoria, objetivo, alcance, fontes de critérios, procedimentos, limitações, resultado da auditoria, auditorias anteriores, recomendações e conclusão.
+    
+    Extrai-se do Relatório de Auditoria as seguintes falhas e/ou irregularidades apontadas pela equipe técnica:
+    a) Ausência de planejamento e emissão de relatórios pelo responsável pelo controle interno.
+    b) Pagamento de multas em decorrência do atraso na quitação de contas telefônicas.
+    c) Inexigibilidade de licitação para contratação de contador.
+    d) Não retenção do INSS dos vereadores.
+    
+    Em atendimento ao princípio do contraditório e da ampla defesa o Relator determinou por meio do Despacho n.º 64/2008, fl. 111 (processo n.º 1392/2007), a citação do responsável, para, querendo, apresentasse suas contra-razões em relação às falhas e irregularidades apontadas pela equipe técnica.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 4. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 40 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    O Responsável, devidamente citado, apresentou razões de defesa às fls. 114/117 (processo n.º 1392/2007).
+    
+    A Primeira Diretoria de Controle Externo Municipal, por meio da Análise de Diligência n.º 33/2008, considerou que as razões de defesa são suficientes para sanar parcialmente as falhas e irregularidades apontadas.
+    
+    O Corpo Especial de Auditores, por meio do Parecer nº 1026/2008, fls. 61/62, manifestou-se favorável no sentido de que este Tribunal acolhesse o Relatório de Auditoria.
+    
+    O Ministério Público junto ao TCE, via Parecer nº 1570/2008 fls. 137/139 (processo n.º 1392/2007), manifestou-se pelo acolhimento do Relatório de Auditoria Programada.
+    
+    É o relatório. Passo à fundamentação.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 5. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 41 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    VOTO
+    
+    Questão Preliminar.
+    
+    Por força das disposições contidas no art. 125, IV do Regimento Interno, os procedimentos de auditoria visam, dentre outras finalidades, fornecer elementos para julgamento ou emissão de parecer prévio das contas submetidas a exame do Tribunal, assim, foram apensadas às presentes contas o processo de auditoria programada n.º 3921/2007, para que a matéria versada na presente auditoria repercuta quando da análise conjunta das citadas contas, nos termos do art. 6°, §§ 1° e 2° da IN TCE-TO nº 02/2003.
+    
+    Das Contas – Processo n.º 1392/2007
+    
+    Compulsando os autos verifico que a Prestação de Contas do Senhor Deusdete Borges Pereira – Presidente da Câmara, responsável pela gestão do Poder Legislativo Municipal de Ângico - TO no exercício financeiro de 2006, atendeu parcialmente ao disposto nos artigos 101 a 104 da Lei Federal 4.320 de 17 de março de 1964.
+    
+    Quanto a análise das demonstrações contábeis e atos de gestão, o Órgão Técnico, detectou as seguintes falhas e irregularidades: divergência de valores lançados no balanço orçamentário e lei orçamentária anual; contabilização do repasse do Poder Executivo de forma diferentes no balancete financeiro e no balanço orçamentário; ausência do registro do estoque de almoxarifado no balanço patrimonial; fixação, por meio da Resolução n.º 03/2004, do subsídio do Presidente da Câmara em valor que contraria o disposto no artigo 39 § 4.° da Constituição Federal; divergência de valores contabilizados no APC e contabilidade.
+    
+    Do Processo Auxiliar - Processo n.º 3921/2007 - Auditoria Programada.
+    
+    Tendo em vista disposições contidas no art. 125, IV do Regimento Interno, podemos verificar que os procedimentos de auditoria visam, dentre outras finalidades, fornecer elementos para julgamento das contas submetidas ao exame do Tribunal de Contas.
+    
+    Extrai-se do Relatório de Auditoria as seguintes falhas e/ou irregularidades apontadas pela equipe técnica:
+    a) Ausência de planejamento e emissão de relatórios pelo responsável pelo controle interno.
+    b) Pagamento de multas em decorrência do atraso na quitação de contas telefônicas.
+    c) Inexigibilidade de licitação para contratação de contador.
+    d) Não retenção do INSS dos vereadores.
+    
+    Processo n.º 10814/2006 – Aplicação de Multa
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 6. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 42 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    O processo administrativo foi aberto em desfavor do Senhor Deusdete Borges Pereira – Presidente da Câmara Municipal de Ângico-TO, por sonegação de documentos e informações determinadas pelo Tribunal de Contas, referentes ao cadastro de responsáveis.
+    
+    Análise das razões de defesa.
+    
+    Dos Aspectos Contábeis.
+    
+    a) Divergência de valores lançados no balanço orçamentário e lei orçamentária anual.
+    b) Contabilização do repasse do Poder Executivo de forma diferente no balancete financeiro e no balanço orçamentário.
+    c) Ausência do registro do estoque de almoxarifado no balanço patrimonial
+    
+    Não houve qualquer manifestação do gestor acerca dos aspectos contábeis acima citados.Por outro lado, em relação à divergência de lançamentos no ACP e na contabilidade, alegou falhas no sistema.
+    
+    Não podemos olvidar que durante a implantação do programa auditor de contas públicas, houve dificuldades técnicas que comprometeram o envio das informações, contudo, mesmo com dificuldades não se pode admitir divergências, poder-se-ia até alegar dificuldade de leitura, abertura do meio magnético, dificuldade de transmissão, nas a inconsistência dos dados deve ser atribuída a lançamentos incorretos, assim entendo que a justificativa não merece ser acatada.
+    
+    Saliente-se que a divergência de valores, a contabilização errônea, bem como a ausência de registro, contribuíram para que nas contas anuais da Câmara Municipal de Ângico-TO, não fosse representada adequadamente a posição financeira, orçamentária, e patrimonial do Poder em 31 de dezembro, bem como se as operações estão de acordo com os princípios fundamentais de contabilidade aplicados à administração pública, podendo concorrer, desta feita para o julgamento pela irregularidade.
+    
+    Dos atos de gestão
+    
+    a) Subsídio do Presidente da Câmara foi fixado contrariando o disposto no artigo 39 § 4.° da Constituição Federal.
+    b) Ausência de planejamento e emissão de relatórios pelo responsável pelo controle interno.
+    c) Pagamento de multas em decorrência do atraso na quitação de contas telefônicas.
+    d) Inexigibilidade de licitação para contratação de contador.
+    e) Não retenção do INSS dos vereadores.
+    f) Sonegação de documentos e informações determinadas pelo Tribunal de Contas, referentes ao cadastro de responsáveis.
+    
+    A Constituição Federal em seu artigo 39, § 4.° assim dispõe:
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 7. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 43 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.
+    
+    § 4º O membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto no art. 37, X e XI.
+    
+    Da leitura do dispositivo constitucional infere-se que é de vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, no entanto, não vedou pagamento diferenciado, assim, entendo ser possível que o subsídio do Presidente da Câmara seja maior que o dos vereadores, desde que respeitados os limites legais. Com efeito, acato a razão de defesa.
+    
+    Quanto à ausência de planejamento e emissão de relatórios pelo controle interno, admitiu a existência de falhas, porém, juntou Relatório pormenorizado sobre as contas anuais, fls. 121/126.
+    
+    Por reiteradas vezes esta Corte de Contas vem alertando aos administradores acerca na necessidade de implantação do controle interno, visando desenvolver mecanismos necessários ao monitoramento, acompanhamento e avaliação dos efeitos produzidos pelos seus atos operacionais de gestão, com vistas às correções tempestivas daquelas ações que porventura conduzam a administração pública a um caminho equivocado ou a um resultado sem valor, junto à população beneficiária.
+    
+    O controle interno tem o propósito de viabilizar o gerenciamento de uma organização, verificando se suas atividades estão de acordo com um plano de ação desejado, realizando o monitoramento e avaliação contínua da organização, a fim de identificar desvios do quadro traçado, propiciando ações corretivas, para restaurar as operações, de acordo com a estrutura organizacional.
+    
+    Com efeito, cabe alertar o Excelentíssimo Presidente da Câmara, da necessidade de efetivamente implantar o controle interno, pois, segundo o disposto no artigo 74 da Constituição Federal, os Poderes manterão, de forma integrada, sistema de controle interno, para o fim de: avaliar o cumprimento de metas, comprovar a legalidade e avaliar os resultados da gestão quanto à eficiência e eficácia, bem como apoiar o controle externo.
+    
+    O controle interno tem o propósito de viabilizar o gerenciamento de uma organização, verificando se suas atividades estão de acordo com um plano de ação desejado, realizando o monitoramento e avaliação contínua da organização, a fim de identificar desvios do quadro traçado, propiciando ações corretivas, para restaurar as operações, de acordo com a estrutura organizacional.
+    
+    No tocante ao pagamento de multas em decorrência do atraso na quitação de contas telefônicas, atribuiu à demora na entrega das contas por parte da Empresa Brasileira de
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 8. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 44 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    Correios e Telégrafos. Ora, tal justificativa não merece prosperar, pois a administração pública, deve possuir planejamento quanto ao vencimento de suas contas, e, em não as recebendo em tempo hábil, deve procurar a empresa prestadora dos serviços para obter segunda via, ou no mínimo informações sobre o código de barras para quitá-las no vencimento, evitando prejuízos. Saliente-se que a notícia de reparação do dano, não restou devidamente comprovada por meio de depósito bancário, contudo, devido ao valor irrisório, (R$ 28,23) cujo custo da cobrança certamente seria maior que o valor a ser ressarcido, deixo de propor a aplicação de sanção pecuniária.
+    
+    Quanto à inexigibilidade de licitação para contratação de contador, sustentou o Gestor tratar-se de profissional de notória especialização pela sua própria natureza, posto entender que a própria formação já o torna especializado, amoldando-se à possibilidade legal de ser contratado sem o devido procedimento licitatório.
+    
+    Com o devido respeito, não posso concordar com a propositura. Vejamos o que dispõe os artigos 25, inciso II e 13 da Lei Federal 8.666/93.
+    
+    Art. 25 – É inexigível a licitação quando houver inviabilidade de competição em especial:
+    ........................................
+    II – para a contratação de serviços técnicos enumerados no artigo 13 desta Lei, de natureza singular, com profissionais ou empresas de notória especialização, vedada a inexigibilidade para serviços de publicidade e divulgação.
+    
+    Art. 13. Para os fins desta Lei, consideram-se serviços técnicos profissionais especializados os trabalhos relativos a:
+    I - estudos técnicos, planejamentos e projetos básicos ou executivos;
+    II - pareceres, perícias e avaliações em geral;
+    III - assessorias ou consultorias técnicas e auditorias financeiras ou tributárias; (Redação dada pela Lei nº 8.883, de 1994)
+    IV - fiscalização, supervisão ou gerenciamento de obras ou serviços;
+    V - patrocínio ou defesa de causas judiciais ou administrativas;
+    VI - treinamento e aperfeiçoamento de pessoal;
+    VII - restauração de obras de arte e bens de valor histórico.
+    VIII - (Vetado). (Incluído pela Lei nº 8.883, de 1994)
+    § 1º Ressalvados os casos de inexigibilidade de licitação, os contratos para a prestação de serviços técnicos profissionais especializados deverão, preferencialmente, ser celebrados mediante a realização de concurso, com estipulação prévia de prêmio ou remuneração.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 9. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos. Linhas pontilhadas da citação foram representadas por uma sequência de pontos.
 
 #### Página 45 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    § 2º Aos serviços técnicos previstos neste artigo aplica-se, no que couber, o disposto no art. 111 desta Lei.
+    
+    § 3º A empresa de prestação de serviços técnicos especializados que apresente relação de integrantes de seu corpo técnico em procedimento licitatório ou como elemento de justificação de dispensa ou inexigibilidade de licitação, ficará obrigada a garantir que os referidos integrantes realizem pessoal e diretamente os serviços objeto do contrato.
+    
+    Preceitua a lei que é inexigível licitar quando ocorrer a inviabilidade de competição, podendo isto de ser dar por algumas razões: quando, comprovadamente houver somente um fornecedor do produto desejado pela Administração, portanto, é o caso de fornecedor exclusivo; quando forem contratados serviços técnicos enumerados no artigo 13 da Lei de Licitações, que sejam de natureza singular e realizados por profissionais ou empresas notoriamente especializadas e, finalmente quando se tratar de profissionais do setor artístico.
+    
+    Ao presente caso interessa discorrer sobre a hipótese de contratação de serviços técnicos enumerados no artigo 13 da Lei de Licitações, que sejam de natureza singular e realizados por profissionais ou empresas notoriamente especializadas.
+    
+    A conceituação de “notória especialização” trazida pelo § 1.º do artigo 25, indica de forma abrangente como pode a Administração se certificar de que a empresa ou profissional possui nível técnico, organizacional, de conhecimento, de desempenho, ou ainda outros requisitos que os credenciem a executar tal serviço.
+    
+    A notória especialização diz respeito às qualidades técnicas que o profissional ou empresa possuem na sociedade, fruto do acumulado conhecimento sobre a matéria, bem como de seu desempenho em contratações anteriores. Seu trabalho e nível de conhecimento permitem à Administração considerar, de início, que estes poderão, de forma adequada e inequívoca, satisfazer plenamente aos objetivos do contrato. Há que ser, para tanto, profissional ou empresa bem sucedidos, credores de com conceito na área profissional, de forma que suas credenciais tranqüilizem o gestor quando à capacitação para desempenhar tal tarefa.
+    
+    Além da comprovação de que a empresa ou profissional sejam notoriamente especializados, aptos, portanto, a desempenhar os serviços listados no artigo 13, será necessário que o objeto a ser contratado seja de natureza singular. Assim, para a contratação direta, além das qualificações especiais do contratado, exige a lei que o objeto seja de natureza pouco comum, com razoável dose de complexidade, de tal forma individualizadora que justifique a inexigibilidade de todo o procedimento licitatório.
+    
+    A singularidade do serviço a ser contratado é requisito indispensável para se poder justificar a contratação direta com profissional notoriamente especializado. Se o serviço for rotineiro, comum, sem exigência de conhecimento ou técnica de maior complexidade, não há razão para sua contratação sem licitação.
+    
+    O profissional contratado pela Câmara Municipal de Ângico-TO, apresentou curriculum vitae, diploma de conclusão de curso, e certificados de participação nos curso de:
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 10. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 46 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    orçamento público e contabilidade governamental; 1.ª Convenção de Contabilidade Pública do Tocantins; Controle Interno na Administração Pública; Seminário Financiamento da Educação – O que muda com o FUNDEB; (anexo 02 fls. 34/43).
+    
+    Analisando a documentação ofertada, podemos verificar que, trata-se de profissional que colou grau em 30 de janeiro de 2004 e, em janeiro de 2006 foi contratado sob o manto da notoriedade. É certo que não podemos olvidar que profissionais podem adquirir notoriedade em um curto lapso temporal, porém, tal notoriedade deve ser efetivamente comprovada e reconhecida pela sociedade em que atua, fato este que não restou demonstrado nos autos. Ademais, há de existir conjugação entre a notória especialidade e serviço singular.
+    
+    O Tribunal de Contas do Estado do Tocantins, por meio da Resolução n.º 1093/2005-TCE-Plenário, publicada no Diário Oficial do Estado n.º 2035, de 01.11.2005, pg. 58, mudou o entendimento contido na Resolução n.º 2644/2000, de 07 de junho de 2000 e, determinou que a partir de sua publicação as contratações de serviços técnicos contábeis e serviços profissionais de advogados, por entes da Administração Pública, devem obedecer a procedimento licitatório expressamente previsto na Lei de Licitações.
+    
+    Com efeito, outra postura não posso adotar a não ser rejeitar as razões de defesa do Gestor em relação à contratação direta de contador.
+    
+    Acerca da não retenção do INSS dos vereadores, assumiu que realmente praticou o ato, seguindo orientação da UVT – União dos Vereadores Tocantinenses escudada em liminar judicial, no entanto, alega que já regularizou a situação. Neste ponto, temos a simples alegação sem comprovação do alegado, ou seja, afirma que regularizou, contudo, não juntou cópias da GFIP’s.
+    
+    Os entes e órgãos da administração pública direta, indireta e fundacional, e dentre estes os municípios, suas fundações e autarquias, são equiparados a empresas privadas pela legislação previdenciária (art. 15, I, da Lei 8.212-91).
+    
+    O Vereador é considerado segurado obrigatório da Previdência Social, vinculado ao regime geral de previdência social, desde que não vinculado ao regime próprio de previdência social.
+    
+    Dessa forma, cabia ao Gestor da Câmara Municipal de Ângico-TO a determinação de retenção e recolhimento da contribuição previdenciária incidente sobre a remuneração dos Vereadores. Rejeito, pois, a alegação utilizada pelo gestor, até porque não comprovou o recolhimento devido.
+    
+    Quanto à sonegação de documentos e informações determinadas pelo Tribunal de Contas, referentes ao cadastro de responsáveis, alegou que enviou tempestivamente o cadastro de responsáveis, porém, para que não restassem dúvidas juntou novamente.
+    
+    A matéria cadastro de responsáveis foi regulada pela Instrução Normativa TCE-TO n.º 07/2003, de 13 de agosto de 2003, que em seu artigo 1.º § 2.º assim dispôs:
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 11. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 47 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    Art. 1º. Fica aprovado o modelo anexo, do “Cadastro de Responsável”, a ser adotado pelos órgãos jurisdicionados destinados à qualificação do responsável ou responsáveis.
+    ........................................
+    
+    § 2º. O Cadastro de Responsáveis será preenchido no órgão de origem e, depois de autenticado pelo encarregado do setor de pessoal, encaminhado ao Tribunal de Contas, pelos gestores públicos estadual e municipais, acompanhado de ofício, até 15 de janeiro de cada exercício, conforme determina o art. 165 do Regimento Interno, deste Tribunal.
+    
+    Resta, pois, evidenciada obrigatoriedade de envio do cadastro de responsáveis ao TCE-TO, até o dia 15 de janeiro de cada exercício. Por outro lado, caso não haja efetivo cumprimento do dispositivo, abre-se a possibilidade de aplicação de sanção pecuniária, nos termos do artigo 3.º, parágrafo único da citada norma regulamentadora.
+    
+    Art. 3º. O Cartório de Contas deve comunicar à Presidência o não cumprimento da determinação prevista no § 2º do art. 1º desta Instrução Normativa para efeito de aplicação das sanções previstas para a hipótese.
+    
+    Parágrafo único. O não cumprimento da remessa dos ofícios com o respectivo rol de responsáveis configura a infração prevista no art. 39, VI da Lei n. 1.284 de 17/12/2001, sendo que a sanção é a definida no art. 159, X do Regimento Interno.
+    
+    Na Administração Pública, cabe ao gestor dos recursos públicos comprovar a sua defesa, ou seja, é dele o ônus da prova, portanto, poder-se-ia alegar que a alegação parece de comprovação. Por outro lado, o cadastro de responsáveis é parte integrante dos autos e, ademais, temos observado, que a postura do Tribunal Pleno em casos semelhantes foi no sentido de determinar o arquivamento do feito, desde que presente nas contas.
+    
+    Por todo o exposto, VOTO no sentido de que o Tribunal de Contas por meio dos Conselheiros que compõem a Primeira Câmara adotem o seguinte entendimento.
+    
+    I - Julgar IRREGULAR a prestação de contas de ordenador referente ao exercício de 2006, da Câmara Municipal de Ângico-TO, sob a responsabilidade do Senhor Presidente, Deusdete Borges Pereira, com base no art. 77, inciso III do Regimento Interno, tendo em vista as falhas e ou irregularidades detectadas quando da realização da auditoria programada, ex vi Relatório n.º 048/2007, processo auxiliar n.º 9198/2007, bem como as decorrentes do Relatório n.º 070/2007, processo principal n.º 1392/2007, e não sanadas pelo ordenador, posto ter sido considerado revel, quais sejam:
+    
+    a) Ausência de planejamento e emissão de relatórios pelo responsável pelo controle interno, deixando de cumprir de forma efetiva as atribuições do controle interno consoante o disposto no artigo 74 da Constituição Federal.
+    
+    b) Pagamento de multas em decorrência do atraso na quitação de contas telefônicas, ocasionado dano ao erário.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 12. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos. Linhas pontilhadas da citação foram representadas por uma sequência de pontos.
 
 #### Página 48 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    c) Inexigibilidade de licitação para contratação de contador, contrariando a obrigação constitucional de licitar, bem como o disposto nos artigos 2.° e 3.° da Lei Federal n.° 8.666/93.
+    
+    d) Não retenção do INSS dos vereadores, em desconformidade com a Lei n.° 8.212/91, art. 15, I.
+    
+    e) Divergência de valores lançados no balanço orçamentário e lei orçamentária anual.
+    
+    f) Contabilização do repasse do Poder Executivo de forma diferente no balancete financeiro e no balanço orçamentário.
+    
+    g) Ausência do registro do estoque de almoxarifado no balanço patrimonial, contrariando os artigos 93 e 94 da Lei Federal n.° 4320/64.
+    
+    II - Aplicar, consoante os termos do artigo 39 inciso II, da Lei Estadual n.° 1.284/2001 c/c 159, inciso II do Regimento Interno desta Casa⁵, multa individualizada no valor de R$ 1.000,00 (mil reais), perfazendo um total de R$ 4.000,00 ao Senhor Deusdete Borges Pereira - Presidente Municipal de Ângico - TO, pela prática de atos com grave infração à norma legal e regulamentar conforme descrito nas alínea “a”, “c”, “d”, e “g” do item I deste Voto.
+    
+    III - Fixar, nos termos do artigo 83 § 1.° do Regimento Interno⁶, o prazo de 30 (trinta) dias, a contar da sua notificação, para que o Gestor, comprove perante o Tribunal, o recolhimento das multas à conta do Fundo de Aperfeiçoamento e Reequipamento Técnico do Tribunal de Contas, nos termos do art. 167, 168, III e 169 da Lei n° 1.284, de 17 de dezembro de 2001⁷ c/c o §3° do artigo 83 do Regimento Interno⁸, atualizados monetariamente e acrescido dos juros de mora calculados, na forma prevista na legislação em vigor.
+    
+    ⁵ Art. 39. O Tribunal aplicará multa, cuja tabela de valores será estabelecida mediante ato do Tribunal Pleno, periodicamente reeditado com vistas ao reajustamento dos seus valores, na forma prevista no Regimento Interno, aos responsáveis por:
+    II- ato praticado com grave infração a norma constitucional, legal ou regulamentar de natureza tributária, contábil, financeira, orçamentária, operacional, administrativa e patrimonial, cujo prejuízo não possa ser quantificado.
+    Art. 159. O Tribunal poderá aplicar multa de até R$ 10.000,00 (dez mil reais), ou valor equivalente em outra moeda que venha a ser adotada como moeda nacional, segundo os percentuais a seguir especificados, aplicados sobre o montante estabelecido neste artigo, aos responsáveis por:
+    IV – não atendimento, no prazo fixado, sem causa justificada, a diligência do Relator ou a decisão do Tribunal.
+    
+    ⁶ Art. 83 - Julgando as contas irregulares, havendo débito e/ou multa, o instrumento da decisão constitui título executivo para fundamentar a respectiva ação de execução.
+    § 1° - O responsável será notificado, na forma prevista no art. 28 da Lei Estadual n° 1.284, de 17 de dezembro de 2001, para efetuar e comprovar o recolhimento do débito e/ou multa no prazo de 30 (trinta) dias.
+    
+    ⁷ Art. 167. Fica instituído o Fundo de Aperfeiçoamento Profissional e Reequipamento Técnico do Tribunal de Contas.
+    Art. 168. São recursos do Fundo de que trata o artigo anterior:
+    III - valores das multas, acrescidos, se for o caso, de juros moratórios, aplicadas e recebidas pelo Tribunal de Contas, ou cobradas judicialmente;
+    Art. 169. O Tribunal de Contas é órgão gestor do Fundo referido no artigo 168, cabendo sua administração ao Presidente do Tribunal, sendo vedada a aplicação de seus recursos em despesas que não se destinem diretamente ao aperfeiçoamento e qualificação profissional dos servidores ou à aquisição de equipamentos técnicos para o Tribunal de Contas.
+    
+    ⁸ Art. 83 - Julgando as contas irregulares, havendo débito e/ou multa, o instrumento da decisão constitui título executivo para fundamentar a respectiva ação de execução.
+    § 3º - O valor da multa aplicada pelo Tribunal será recolhido à conta especial do Fundo de Aperfeiçoamento Profissional e Reequipamento Técnico do Tribunal de Contas, nos termos dos artigos 167, 168, inciso III e 169 da Lei Estadual nº 1.284, de 17 de dezembro de 2001.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 13. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 49 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    IV - Intimar o Responsável, do teor do presente acórdão por via postal, através de carta registrada com aviso de recebimento, na forma prevista no art. 205 e 206 do RITCE⁹ remetendo-lhe cópia do Relatório, Voto e Decisão.
+    
+    V - Autorizar, desde logo, nos termos do art. 96, II, da Lei n. 1.284, de 17 de dezembro de 2001¹⁰, a cobrança judicial da dívida, caso não atendida a notificação.
+    
+    VI - Acolher os termos do Relatório de Auditoria Programada, realizada na Câmara Municipal de Ângico - TO, abrangendo os atos praticados pelo Senhor Deusdete Borges Pereira – Presidente, no período de janeiro a dezembro de 2006, constante do processo n.° 9198/2007.
+    
+    VII - Recomendar ao Gestor do ente auditado o máximo empenho e urgência no sentido de sanar as falhas apontadas no Relatório de Auditoria, adotando medidas eficientes e eficazes que visem a sua regularização, mormente quanto à necessidade de: implantar efetivamente o controle interno, em atendimento ao disposto no artigo 74 da Constituição Federal.
+    
+    VIII – Determinar que o Presidente da Câmara de Ângico-TO, ou quem lhe haja sucedido, se abstenha de contratar contador sem o devido procedimento licitatório, sob pena de ser-lhe aplicada as sanções cabíveis, sem prejuízo de envio dos autos ao Ministério Público para providências de sua alçada.
+    
+    IX - Alertar ao Senhor Presidente que este Tribunal procederá à verificação do cumprimento das recomendações e determinações, através de procedimentos a serem executados pela equipe de auditagem em data futura e, caso detectada reincidência ficará o Gestor sujeito às sanções legais cabíveis nos termos do art. 39, VII da Lei Estadual 1.284/2001 c/c art. 159, VII do Regimento Interno deste Tribunal.
+    
+    X - Determinar a remessa dos presentes autos à 1ª Diretoria de Controle Externo Municipal – DCEM deste Tribunal, para conhecimento e inclusão na sua programação de auditoria na Câmara Municipal de Ângico - TO, para verificação das providências adotadas visando atender as recomendações e determinações constantes do voto.
+    
+    XI - Determinar a publicação desta Decisão no Boletim Oficial do Tribunal de Contas Estado, para que surta os efeitos legais necessários.
+    
+    ⁹ Art. 205 - Observadas as normas previstas nos artigos 27 ao 35 da Lei Estadual nº 1.284, de 17 de dezembro de 2001, a citação ou a intimação, conforme o caso, convidando o responsável, sob as penas da lei, a defender-se, prestar informações ou exibir documentos novos, bem como a notificação de que foi condenado a pagamento de débito ou multa, serão realizadas:
+    I - quando do comparecimento espontâneo do interessado;
+    II - por carta registrada com aviso de recebimento;
+    III - por meio eletrônico de comunicação à distância;
+    IV - por servidor, quando assim determinar o Plenário ou qualquer das Câmaras;
+    V - por edital, publicado no Diário Oficial do Estado ou órgão oficial de imprensa do Tribunal;
+    VI - pela publicação das decisões do Relator ou do Corpo Deliberativo, no Diário Oficial do Estado ou órgão oficial de imprensa do Tribunal.
+    Art. 206 - Far-se-á a citação, a intimação ou a notificação por edital, nos casos e na forma previstos no art. 32. 33 e 34 da Lei Estadual nº 1.284, de 17 de dezembro de 2001.
+    
+    ¹⁰ Art. 96. Expirado o prazo a que se refere o caput do art. 93 desta Lei, sem manifestação do responsável, o Tribunal deverá:
+    II - autorizar a cobrança judicial da dívida por intermédio da Procuradoria de Justiça, ou outro órgão que a lei indicar.
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 14. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos.
 
 #### Página 50 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Transcrição visual do texto principal e das notas desta página, conferida na imagem do PDF oficial. O original não contém camada de texto extraível nesta página. A transcrição foi vinculada aos bytes do PDF e à numeração física da página, sem corrigir a redação, referências ou valores do original.
 
-Transcrição pendente: página sem texto extraível. Isso não significa que a página esteja em branco.
+    Tribunal de Contas do Estado do Tocantins
+    
+    XII – Determinar o arquivamento do processo n.º 10814/2006, consoante os termos do artigo 32 caput da Instrução Normativa n.º 08/2003, de 03 de setembro de 2003, haja vista o saneamento da motivação para abertura do feito, na medida em que o cadastro de responsáveis é parte integrante da prestação de contas.
+    
+    XIII – Intimar pessoalmente o Procurador do Ministério Público junto a esta Corte de Contas, que atuou nos autos.
+    
+    XIV – Após o envio dos autos à 1.ª Diretoria de Controle Externo, sejam estes enviados ao Cartório de Contas para adoção das providências de sua alçada e, após, caso não haja interposição de recurso, envie-se à Coordenadoria de Protocolo Geral para remessa à origem.
+    
+    GABINETE DA PRIMEIRA RELATORIA, em Palmas, Capital, aos 28 dias do mês de Outubro de 2008.
+    
+    Conselheiro José Wagner Praxedes
+    Relator
+    
+
+Observações da conferência visual: Cabeçalho com brasão e campo TCE-TO/Fls sem número preenchido. O rodapé identifica 3Relt01 01 Balanço – Ordenador – Legislativo - Ângico - Processo nº 1392 2007, com numeração impressa 15. Brasão, rubricas, assinaturas e marcas de perfuração não foram reproduzidos graficamente. Quebras de linha e espaçamentos foram reunidos em parágrafos; os indicadores das notas foram mantidos junto do texto correspondente. Eventuais erros de redação, repetições e divergências do original foram mantidos. O dia 28 e o mês Outubro foram preenchidos à mão na data; as leituras legíveis foram incluídas. Nome e cargo impressos sob a assinatura foram transcritos.
 
 #### Página 51 do PDF oficial
 
