@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.756 registros únicos de 83 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.796 registros únicos de 83 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -137,6 +137,7 @@
 | [TRT1 — Catálogo oficial de súmulas](https://www.trt1.jus.br/nova-sumulas) | 69 | 69 | 0 |
 | [TRT1 — Catálogo oficial de teses jurídicas](https://www.trt1.jus.br/teses-juridicas) | 13 | 8 | 5 |
 | [TCEPR — Súmulas e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/sumulas/) | 13 | 13 | 0 |
+| [TCEPR — Prejulgados e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/prejulgados/) | 40 | 40 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -241,6 +242,12 @@ O TCEPR acrescenta 13 súmulas, em sequência de 1 a 13, com títulos, assuntos,
 Os títulos das nºs 8 e 12 conservam as retificações pelo Acórdão nº 617/13 e pela Uniformização de Jurisprudência nº 23, respectivamente. Na nº 13, a primeira página informa “Acórdão nº 4240/10-TP”, enquanto o acórdão que a acompanha traz “4240/12”; ambas as referências foram mantidas sem correção presumida. O texto extraído dos PDFs foi apresentado por página, preservando referências, notas e grafias. Os carimbos do índice de busca não foram tratados como atualização individual, e não foi inferida vigência para os demais verbetes.
 
 A página institucional foi capturada diretamente; ela contém apenas os controles de pesquisa antes da execução de JavaScript. O coletor nativo encerrou com “unsupported: stylesheet integrity is not implemented”. O navegador integrado confirmou a listagem e a consulta pública usada pelo portal; a coleta das duas páginas de resultados e dos PDFs foi então realizada diretamente por HTTP, com TLS validado. Os originais, as respostas do índice e os recibos permanecem privados. A representação textual indexada dos anexos não substituiu os PDFs originais na publicação. Os demais precedentes, atos posteriores e documentos apenas citados pelo TCEPR continuam pendentes de conciliação.
+
+O catálogo de prejulgados do TCEPR acrescenta 40 registros, de 1 a 40, em série própria (PREJ). A consulta sem filtros apresenta 41 entradas: os 40 prejulgados e uma coletânea, que foi capturada como referência privada e não contada como outro precedente. Foram conferidas as cinco páginas da consulta e os 41 documentos em duas leituras, com 92 capturas. O índice repete duas vezes o mesmo anexo do nº 35, com identificador, nome e tamanho iguais; esse documento foi conferido e publicado uma vez.
+
+Os 40 PDFs individuais somam 1.088 páginas, incluindo enunciados, acórdãos, fundamentos e histórico de retificações; o nº 15 tem 247 páginas. Cada página foi preservada no respectivo Markdown. As retificações dos nºs 4, 7, 9, 13, 15, 19, 23, 25, 26, 28 e 30 aparecem nos títulos e nos textos, sem substituir o histórico. A grafia “ACÓRDÂO” no título do nº 9 foi mantida. As datas e os números dos atos, inclusive referências de 2026 no documento do nº 40, permanecem como fornecidos. Não foi inferida vigência para os demais números nem atualização individual a partir dos carimbos do índice.
+
+A coleta utilizou a consulta pública indicada pelo JavaScript do portal e os endereços oficiais dos anexos, diretamente por HTTP com TLS validado. As duas leituras dos catálogos e os pares de PDFs foram conciliados, incluindo a igualdade de bytes e dos tamanhos indicados na fonte. Os originais e os recibos permanecem privados. A coletânea de 200 páginas, com seis páginas sem texto extraível e mantida apenas como referência privada, não substituiu os documentos individuais atuais, e as demais séries, atos posteriores e documentos apenas citados continuam pendentes de conciliação.
 
 O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
 
@@ -568,7 +575,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
-| [TCEPR](tribunais/TCEPR/) | 13 | TCEPR — Súmulas e PDFs oficiais |
+| [TCEPR](tribunais/TCEPR/) | 53 | TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
