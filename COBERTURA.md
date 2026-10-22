@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.666 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.735 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -134,6 +134,7 @@
 | [TRT4 — Súmulas](https://www.trt4.jus.br/portais/trt4/sumulas) | 142 | 41 | 101 |
 | [TRT4 — Orientações Jurisprudenciais (SEEx)](https://www.trt4.jus.br/portais/trt4/orientacoes-seex) | 117 | 76 | 41 |
 | [TRT4 — Teses Jurídicas Prevalecentes](https://www.trt4.jus.br/portais/trt4/tese-juridica-prevalecente) | 9 | 9 | 0 |
+| [TRT1 — Catálogo oficial de súmulas](https://www.trt1.jus.br/nova-sumulas) | 69 | 69 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -154,6 +155,10 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRT1 acrescenta as 69 súmulas do catálogo próprio, em sequência de 1 a 69, com ementas, textos, datas de publicação e os 138 vínculos da Biblioteca Digital. As quatro páginas foram coletadas duas vezes, em oito respostas, e os textos, as classes de situação e os destinos coincidiram. As nºs 3, 19 e 52 aparecem como canceladas; as nºs 29 e 45, com efeitos modulados. As demais 64 trazem a classe “vigente” no portal. Essas situações foram atribuídas ao catálogo, sem inferir atualização individual a partir da publicação. O tachado das canceladas foi preservado.
+
+A nº 61 repete a ementa no campo “Texto da súmula”; essa repetição foi mantida, sem completar o enunciado por inferência. Os documentos vinculados da Biblioteca Digital, o teor das modulações e as demais séries do TRT1 continuam pendentes de coleta e conciliação. O acesso direto respondeu HTTP 403, e o coletor nativo do portal encerrou com “unsupported: frames”; a coleta validada foi realizada pelo navegador integrado, com TLS habilitado. Os originais e recibos permanecem privados.
 
 Os catálogos próprios do TRT4 acrescentam a apresentação integral de 142 súmulas, 116 orientações jurisprudenciais da SEEx, uma OJ transitória e nove teses jurídicas prevalecentes. São 268 registros de catálogo, dos quais 142 já existiam no BNP e 126 são novos no acervo. A sequência das súmulas vai de 1 a 142; a das OJs regulares, de 1 a 116. A OJ transitória nº 1 foi mantida em série própria, sem confundi-la com a OJ regular nº 1. Cada um dos três catálogos foi capturado diretamente duas vezes, em seis respostas, com conteúdo e vínculos estáveis.
 
@@ -488,7 +493,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
 | [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
-| [TRT01](tribunais/TRT01/) | 76 | 76 | 76 |
+| [TRT01](tribunais/TRT01/) | 145 | 76 | 76 |
 | [TRT02](tribunais/TRT02/) | 235 | 69 | 69 |
 | [TRT03](tribunais/TRT03/) | 214 | 72 | 72 |
 | [TRT04](tribunais/TRT04/) | 328 | 202 | 202 |
