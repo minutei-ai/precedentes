@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.743 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.756 registros únicos de 83 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -136,6 +136,7 @@
 | [TRT4 — Teses Jurídicas Prevalecentes](https://www.trt4.jus.br/portais/trt4/tese-juridica-prevalecente) | 9 | 9 | 0 |
 | [TRT1 — Catálogo oficial de súmulas](https://www.trt1.jus.br/nova-sumulas) | 69 | 69 | 0 |
 | [TRT1 — Catálogo oficial de teses jurídicas](https://www.trt1.jus.br/teses-juridicas) | 13 | 8 | 5 |
+| [TCEPR — Súmulas e PDFs oficiais](https://www.tce.pr.gov.br/fiscalizado/decisoes-do-tribunal/sumulas/) | 13 | 13 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -234,6 +235,12 @@ A consulta abrange todos os estados disponibilizados pelo sistema. Os rótulos o
 Foram preservadas 6.916 classificações de assunto e 5.452 relações entre enunciados. Cada referência relacionada foi comparada ao registro próprio, com igualdade de texto e metadados; os vínculos aparecem como links para os respectivos Markdown. A consulta apresenta números de 1 a 2575, sem os nº 4, 50, 54, 172, 1349 e 2239. Essas ausências se limitam à resposta consultada e não foram tratadas como prova de inexistência ou cancelamento de enunciados.
 
 O antigo dicionário de decisões em PDF, cuja página informa atualização em 02/07/2024, foi preservado privadamente como referência histórica e não usado para afirmar cobertura atual. A fonte publicada é o sistema indicado pela página atual “Enunciados de Consulta”. A coleta ocorreu diretamente por HTTP com TLS validado, usando apenas endereços públicos oficiais. As decisões, os pareceres e as normas citados nos enunciados e as demais séries da Corte ainda não tiveram seus inteiros teores conciliados.
+
+O TCEPR acrescenta 13 súmulas, em sequência de 1 a 13, com títulos, assuntos, vínculos individuais e o texto integral dos 13 PDFs oficiais, que somam 84 páginas. Os documentos incluem os enunciados, atos, acórdãos e fundamentos que os acompanham. As duas páginas da consulta pública utilizada pelo próprio portal e os 13 PDFs foram coletados duas vezes; os catálogos coincidiram, e os PDFs apresentaram igualdade de bytes e tamanho conforme os metadados oficiais. A pesquisa inicial sem filtros indica 13 resultados.
+
+Os títulos das nºs 8 e 12 conservam as retificações pelo Acórdão nº 617/13 e pela Uniformização de Jurisprudência nº 23, respectivamente. Na nº 13, a primeira página informa “Acórdão nº 4240/10-TP”, enquanto o acórdão que a acompanha traz “4240/12”; ambas as referências foram mantidas sem correção presumida. O texto extraído dos PDFs foi apresentado por página, preservando referências, notas e grafias. Os carimbos do índice de busca não foram tratados como atualização individual, e não foi inferida vigência para os demais verbetes.
+
+A página institucional foi capturada diretamente; ela contém apenas os controles de pesquisa antes da execução de JavaScript. O coletor nativo encerrou com “unsupported: stylesheet integrity is not implemented”. O navegador integrado confirmou a listagem e a consulta pública usada pelo portal; a coleta das duas páginas de resultados e dos PDFs foi então realizada diretamente por HTTP, com TLS validado. Os originais, as respostas do índice e os recibos permanecem privados. A representação textual indexada dos anexos não substituiu os PDFs originais na publicação. Os demais precedentes, atos posteriores e documentos apenas citados pelo TCEPR continuam pendentes de conciliação.
 
 O TCEMG acrescenta 127 súmulas, com os blocos integrais do catálogo e os 127 PDFs individuais vinculados (159 páginas), extraídos integralmente na ordem de suas páginas. O catálogo apresenta a sequência de 1 a 128 e informa “Súmula 97 (não houve publicação de súmula de nº 97)”; o aviso foi conferido e não originou um registro de precedente. Foram mantidos os enunciados históricos e as anotações de 22 cancelamentos, 18 revogações, o sobrestamento e a suspensão de aplicabilidade/eficácia da nº 103, e a suspensão de eficácia da nº 73. Não foi inferida vigência para os demais números.
 
@@ -561,11 +568,12 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
 | [TCEMG](tribunais/TCEMG/) | 127 | TCEMG — Enunciados de súmula e PDFs individuais oficiais |
+| [TCEPR](tribunais/TCEPR/) | 13 | TCEPR — Súmulas e PDFs oficiais |
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CARF, TCU, TCESP, TCEMG e TCESC são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CARF, TCU, TCESP, TCEMG, TCESC e TCEPR são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
