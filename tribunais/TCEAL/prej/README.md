@@ -1,0 +1,63 @@
+# TCEAL · Prejulgado
+
+**59 registros.** [Voltar ao tribunal](../)
+
+- [PREJ 1](tceal-prej-1.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 2](tceal-prej-2.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 3](tceal-prej-3.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 4](tceal-prej-4.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 5](tceal-prej-5.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 6](tceal-prej-6.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 7](tceal-prej-7.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 8](tceal-prej-8.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 9](tceal-prej-9.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 10](tceal-prej-10.md) — Revogação informada no catálogo pelo Prejulgado nº 40
+- [PREJ 11](tceal-prej-11.md) — Revogação informada no catálogo pelo Prejulgado nº 40
+- [PREJ 12](tceal-prej-12.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 13](tceal-prej-13.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 14](tceal-prej-14.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 15](tceal-prej-15.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 16](tceal-prej-16.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 17](tceal-prej-17.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 18](tceal-prej-18.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 19](tceal-prej-19.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 20](tceal-prej-20.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 21](tceal-prej-21.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 22](tceal-prej-22.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 23](tceal-prej-23.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 24](tceal-prej-24.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 25](tceal-prej-25.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 26](tceal-prej-26.md) — Revogação informada no catálogo pelo Prejulgado nº 40
+- [PREJ 27](tceal-prej-27.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 28](tceal-prej-28.md) — Reformulação informada no catálogo pelo Prejulgado nº 35
+- [PREJ 29](tceal-prej-29.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 30](tceal-prej-30.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 31](tceal-prej-31.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 32](tceal-prej-32.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 33](tceal-prej-33.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 34](tceal-prej-34.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 35](tceal-prej-35.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 36](tceal-prej-36.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 37](tceal-prej-37.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 38](tceal-prej-38.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 39](tceal-prej-39.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 40](tceal-prej-40.md) — Alteração por acréscimo informada no catálogo pelo Prejulgado nº 47
+- [PREJ 41](tceal-prej-41.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 42](tceal-prej-42.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 43](tceal-prej-43.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 44](tceal-prej-44.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 45](tceal-prej-45.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 46](tceal-prej-46.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 47](tceal-prej-47.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 48](tceal-prej-48.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 49](tceal-prej-49.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 50](tceal-prej-50.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 51](tceal-prej-51.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 52](tceal-prej-52.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 53](tceal-prej-53.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 54](tceal-prej-54.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 55](tceal-prej-55.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 56](tceal-prej-56.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 57](tceal-prej-57.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 58](tceal-prej-58.md) — Disponível no catálogo; situação jurídica atual não informada
+- [PREJ 59](tceal-prej-59.md) — Disponível no catálogo; situação jurídica atual não informada
