@@ -1,6 +1,6 @@
 # Cobertura
 
-**23.484 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**23.531 registros únicos de 82 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -129,6 +129,7 @@
 | [TRT7 — Teses Jurídicas Prevalecentes do TRT7](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/teses-juridicas-prevalecentes.html) | 4 | 4 | 0 |
 | [TRT7 — Enunciados das Jornadas de Direito Material e Processual do Trabalho do TRT7](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/enunciados.html) | 343 | 343 | 0 |
 | [TRT5 — Catálogo de súmulas e documentos normativos vinculados](https://digepnac-precedentes.trt5.jus.br/sumulas) | 85 | 85 | 0 |
+| [TRT22 — Catálogo paginado de súmulas](https://www.trt22.jus.br/index.php/jurisprudencia/sumulas) | 47 | 47 | 0 |
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -149,6 +150,14 @@ Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em
 O TJRS inclui os 53 verbetes do livro atualizado em 12/08/2020, com referências, revisões e revogações preservadas; essa edição histórica não comprova a cobertura de publicações posteriores.
 
 Os catálogos atuais das Turmas Recursais do TJRS acrescentam 51 súmulas cíveis (SUM-TR-CIV) e 107 da Fazenda Pública (SUM-TR-FP), em séries independentes. Preservamos todos os parágrafos dos catálogos, inclusive itens internos, processos, datas, revisões, revogações e cancelamentos. A referência repetida à súmula cível nº 1 foi mantida junto da revisão da nº 15, sem criar outro registro; a nota de cancelamento da nº 27 foi separada do título da nº 28, que aparece no mesmo parágrafo da página oficial. As etiquetas “2024/FAZENDA PÚBLICA” nas entradas 50 e 51 do catálogo cível foram mantidas como estão na fonte, sem transferir essas súmulas para a série da Fazenda. O catálogo da Fazenda contém referências de 2025 até a nº 107. A presença nesses catálogos não permite inferir vigência atual de todos os textos; confira as ressalvas e os atos posteriores na origem.
+
+O TRT22 acrescenta as 47 súmulas das cinco páginas do catálogo oficial, em sequência de 1 a 47. Cada linha mantém o título, todos os parágrafos, as referências “Fonte” e “Publicação no DEJT” e os 35 vínculos do glossário do próprio portal. Foram conciliadas duas leituras de cada página, em dez capturas, sem mudança de textos, marcações, referências ou destinos. O acesso direto respondeu HTTP 403, e o coletor nativo encerrou com “unsupported: frames”; o navegador integrado abriu e coletou as páginas, sem desativar TLS.
+
+As redações anteriores riscadas das nº 2, 17 e 29 foram preservadas junto das apresentações posteriores. A nº 17 mantém a alteração pela RA 116/2023, com as publicações indicadas em outubro de 2023. A nº 29 registra o cancelamento de uma redação em setembro de 2015 e, depois, a conversão da Tese Jurídica Prevalecente nº 2 em súmula pela RA 48/2016; essas etapas não foram reduzidas a uma única classificação de situação. As grafias e os identificadores foram mantidos, inclusive a referência 000086-51.2011.5.22.0000 da nº 18.
+
+O catálogo do TRT22 não fornece campo próprio de situação. As datas e notas continuam nos textos, sem inferência de vigência ou atualização individual. As resoluções, os acórdãos, as teses prevalecentes e outros documentos mencionados, assim como as demais séries do tribunal, permanecem pendentes de conciliação.
+
+Na nº 2 do TRT22, um separador invisível U+FEFF imediatamente após o trecho riscado foi representado por um espaço para preservar a marcação no Markdown. A falha e o ajuste foram conferidos no renderizador oficial do GitHub. Na nº 33, foi removido o itálico aplicado apenas a uma vírgula, que gerava sinais de formatação literais. Os originais permanecem nas capturas privadas, e a redação e a pontuação não foram alteradas.
 
 O TRT5 acrescenta as 85 súmulas do catálogo da DIGEPNAC, em sequência de 1 a 85, com o texto integral de cada célula temática, o ano apresentado e as situações em campo próprio. Foram preservadas 28 marcações “Cancelada”, oito “Alterada” e duas “Orientação Jurisprudencial sem Efeito Vinculante”. Não foi inferida vigência para as outras 47. Propostas de cancelamento, como nas nº 84 e 78, foram mantidas sem transformá-las em cancelamentos. A nº 73 apresenta tanto proposta quanto nota posterior de cancelamento, e a nº 80 menciona a RA 51/2026; todas essas notas foram mantidas como fornecidas.
 
@@ -482,7 +491,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT19](tribunais/TRT19/) | 44 | 37 | 37 |
 | [TRT20](tribunais/TRT20/) | 59 | 34 | 34 |
 | [TRT21](tribunais/TRT21/) | 27 | 27 | 27 |
-| [TRT22](tribunais/TRT22/) | 39 | 39 | 39 |
+| [TRT22](tribunais/TRT22/) | 86 | 39 | 39 |
 | [TRT23](tribunais/TRT23/) | 21 | 21 | 21 |
 | [TRT24](tribunais/TRT24/) | 99 | 61 | 61 |
 | [TRE_AC](tribunais/TRE_AC/) | 2 | 0 | 0 |
@@ -542,9 +551,9 @@ A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de 
 
 A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta direta retornou bloqueio e a página de pesquisa excedeu o limite de estilos do coletor nativo. As fontes regionais incorporadas estão discriminadas acima; o bloqueio não foi tratado como catálogo vazio.
 
-O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou o conteúdo nesta coleta: a resposta direta e a página renderizada pelo coletor nativo permaneceram no desafio de acesso, sem texto do documento. O caderno ainda não foi incorporado.
+O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou o conteúdo nesta coleta. Na nova consulta, o caderno e a página individual testada retornaram o desafio de acesso sem texto; o navegador integrado também não disponibilizou o documento. O endereço alternativo wwwl.trt17.jus.br falhou por incompatibilidade do certificado TLS, que não foi desativada. O caderno ainda não foi incorporado.
 
-Os catálogos próprios dos TRT22 e TRT23 ainda não foram conciliados. O TRT22 respondeu HTTP 403 na consulta direta; o coletor nativo encontrou uma funcionalidade de quadros não suportada. O portal do TRT23 exibiu aviso de manutenção programada, sem catálogo de súmulas. Essas respostas não foram tratadas como ausência de precedentes.
+O catálogo próprio do TRT23 ainda não foi conciliado. O portal exibiu aviso de manutenção programada, sem catálogo de súmulas. Essa resposta não foi tratada como ausência de precedentes.
 
 O catálogo próprio do TJBA permanece pendente. Na consulta de 21/10/2026, a página de precedentes dos Juizados Especiais e o endereço do PDF de súmulas atualizado em março de 2026 devolveram o mesmo aviso oficial de interrupção preventiva dos sistemas, datado de 20/10/2026. O endereço do PDF respondeu com HTML de 4.454 bytes, sem documento PDF; o coletor nativo da página encerrou com “cross-origin request blocked”. A resposta não foi tratada como catálogo vazio nem como PDF válido. Os 17 registros de súmula do TJBA já presentes no BNP permanecem publicados, sem alegação de conciliação com os catálogos próprios.
 

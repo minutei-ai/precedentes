@@ -1,0 +1,51 @@
+# TRT22 · Súmula
+
+**47 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt22-sum-1.md) — Situação não informada
+- [SUM 2](trt22-sum-2.md) — Situação não informada
+- [SUM 3](trt22-sum-3.md) — Situação não informada
+- [SUM 4](trt22-sum-4.md) — Situação não informada
+- [SUM 5](trt22-sum-5.md) — Situação não informada
+- [SUM 6](trt22-sum-6.md) — Situação não informada
+- [SUM 7](trt22-sum-7.md) — Situação não informada
+- [SUM 8](trt22-sum-8.md) — Situação não informada
+- [SUM 9](trt22-sum-9.md) — Situação não informada
+- [SUM 10](trt22-sum-10.md) — Situação não informada
+- [SUM 11](trt22-sum-11.md) — Situação não informada
+- [SUM 12](trt22-sum-12.md) — Situação não informada
+- [SUM 13](trt22-sum-13.md) — Situação não informada
+- [SUM 14](trt22-sum-14.md) — Situação não informada
+- [SUM 15](trt22-sum-15.md) — Situação não informada
+- [SUM 16](trt22-sum-16.md) — Situação não informada
+- [SUM 17](trt22-sum-17.md) — Situação não informada
+- [SUM 18](trt22-sum-18.md) — Situação não informada
+- [SUM 19](trt22-sum-19.md) — Situação não informada
+- [SUM 20](trt22-sum-20.md) — Situação não informada
+- [SUM 21](trt22-sum-21.md) — Situação não informada
+- [SUM 22](trt22-sum-22.md) — Situação não informada
+- [SUM 23](trt22-sum-23.md) — Situação não informada
+- [SUM 24](trt22-sum-24.md) — Situação não informada
+- [SUM 25](trt22-sum-25.md) — Situação não informada
+- [SUM 26](trt22-sum-26.md) — Situação não informada
+- [SUM 27](trt22-sum-27.md) — Situação não informada
+- [SUM 28](trt22-sum-28.md) — Situação não informada
+- [SUM 29](trt22-sum-29.md) — Situação não informada
+- [SUM 30](trt22-sum-30.md) — Situação não informada
+- [SUM 31](trt22-sum-31.md) — Situação não informada
+- [SUM 32](trt22-sum-32.md) — Situação não informada
+- [SUM 33](trt22-sum-33.md) — Situação não informada
+- [SUM 34](trt22-sum-34.md) — Situação não informada
+- [SUM 35](trt22-sum-35.md) — Situação não informada
+- [SUM 36](trt22-sum-36.md) — Situação não informada
+- [SUM 37](trt22-sum-37.md) — Situação não informada
+- [SUM 38](trt22-sum-38.md) — Situação não informada
+- [SUM 39](trt22-sum-39.md) — Situação não informada
+- [SUM 40](trt22-sum-40.md) — Situação não informada
+- [SUM 41](trt22-sum-41.md) — Situação não informada
+- [SUM 42](trt22-sum-42.md) — Situação não informada
+- [SUM 43](trt22-sum-43.md) — Situação não informada
+- [SUM 44](trt22-sum-44.md) — Situação não informada
+- [SUM 45](trt22-sum-45.md) — Situação não informada
+- [SUM 46](trt22-sum-46.md) — Situação não informada
+- [SUM 47](trt22-sum-47.md) — Situação não informada
