@@ -70,7 +70,21 @@ ACÓRDÃO Nº 121/2016
 \-Para acessar o [processo de nº 201400047000365, clique aqui.](https://www.tce.go.gov.br/ConsultaProcesso?proc=288637)  
 \-Vide [Acórdão nº 345/2016](https://www.tce.go.gov.br/ConsultaProcesso/AbraPDF?key=612731232502431561022171141991051212032991881971032502881931252531302861581781542681532922031612), que retifica o Acórdão nº 121/2016, [clicando aqui](https://www.tce.go.gov.br/ConsultaProcesso/AbraPDF?key=612731232502431561022171141991051212032991881971032502881931252531302861581781542681532922031612). 
 
-O emblema institucional foi omitido. A página mantém referências e notas literais; o vínculo Texto Compilado é uma apresentação adicional não incorporada nesta passagem.
+O emblema institucional foi omitido. Referências e notas literais da página permanecem preservadas.
+
+### Apresentação Texto Compilado
+
+### TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS
+
+ACÓRDÃO Nº 121/2016
+
+<table><tbody><tr><td><a href="https://www.tce.go.gov.br/ConsultaProcesso?proc=288637">&nbsp;-Processo de nº 201400047000365</a></td><td>Consulta. 2% de ICMS destinado ao FUNDO PROTEGE GOIÁS. Base de cálculo do FUNDEB. Conhecimento. Não provimento quanto ao mérito.&nbsp;</td></tr></tbody></table>
+
+\-Para visualizar o inteiro teor do [Acórdão nº121/2016, clique aqui.](https://www.tce.go.gov.br/ConsultaProcesso/AbraPDF?key=612731232502431561022171041602351012032991881971032502881931252531302861581781542681532922031612)  
+\-Para acessar o [processo de nº 201400047000365, clique aqui.](https://www.tce.go.gov.br/ConsultaProcesso?proc=288637)  
+\-Vide [Acórdão nº 345/2016](https://www.tce.go.gov.br/ConsultaProcesso/AbraPDF?key=612731232502431561022171141991051212032991881971032502881931252531302861581781542681532922031612), que retifica o Acórdão nº 121/2016, [clicando aqui](https://www.tce.go.gov.br/ConsultaProcesso/AbraPDF?key=612731232502431561022171141991051212032991881971032502881931252531302861581781542681532922031612). 
+
+Apresentação adicional oferecida pelo portal, lida duas vezes e mantida separadamente, sem presumir atualização ou vigência jurídica a partir do rótulo Texto Compilado.
 
 A ficha contém vários documentos do mesmo processo, incluindo possíveis decisões posteriores ou retificadoras. Todos permanecem separados; a presença na ficha não afirma que cada documento corresponda ao número principal deste registro. Confira os cabeçalhos e as ressalvas de identidade.
 
