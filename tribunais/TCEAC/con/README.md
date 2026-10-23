@@ -1,0 +1,272 @@
+# TCEAC · Acórdão em consulta
+
+**268 registros.** [Voltar ao tribunal](../)
+
+- [CON 10.017/2016](tceac-con-plenario-10017-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.063/2016](tceac-con-plenario-10063-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.148/2017](tceac-con-plenario-10148-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 1016/1994](tceac-con-plenario-1016-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.167/2017](tceac-con-plenario-10167-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.182/2017](tceac-con-plenario-10182-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.208/2017](tceac-con-plenario-10208-2017.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.210/2016](tceac-con-plenario-10210-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.210/2017](tceac-con-plenario-10210-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.259/2017](tceac-con-plenario-10259-2017.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.261/2017](tceac-con-plenario-10261-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.269/2017](tceac-con-plenario-10269-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.290/2017](tceac-con-plenario-10290-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.296/2017](tceac-con-plenario-10296-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 103/1991](tceac-con-plenario-103-1991.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.350/2017](tceac-con-plenario-10350-2017.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.367/2017](tceac-con-plenario-10367-2017.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.368/2017](tceac-con-plenario-10368-2017.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 104/1991](tceac-con-plenario-104-1991.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.410/2017](tceac-con-plenario-10410-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.464/2017](tceac-con-plenario-10464-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.467/2017](tceac-con-plenario-10467-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.470/2017](tceac-con-plenario-10470-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.481/2017](tceac-con-plenario-10481-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.492/2017](tceac-con-plenario-10492-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.497/2017](tceac-con-plenario-10497-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.521/2017](tceac-con-plenario-10521-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.654/2018](tceac-con-plenario-10654-2018.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.657/2018](tceac-con-plenario-10657-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.685/2018](tceac-con-plenario-10685-2018.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.696/2018](tceac-con-plenario-10696-2018.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.708/2018](tceac-con-plenario-10708-2018.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.797/2018](tceac-con-plenario-10797-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.798/2018](tceac-con-plenario-10798-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.807/2018](tceac-con-plenario-10807-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.809/2018](tceac-con-plenario-10809-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.832/2018](tceac-con-plenario-10832-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.846/2018](tceac-con-plenario-10846-2018.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.878/2018](tceac-con-plenario-10878-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.880/2018](tceac-con-plenario-10880-2018.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10.891/2018](tceac-con-plenario-10891-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.931/2018](tceac-con-plenario-10931-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 10.949/2018](tceac-con-plenario-10949-2018.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.092/2019](tceac-con-plenario-11092-2019.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11.128/2019](tceac-con-plenario-11128-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.179/2019](tceac-con-plenario-11179-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.185/2019](tceac-con-plenario-11185-2019.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11.227/2019](tceac-con-plenario-11227-2019.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11.286/2019](tceac-con-plenario-11286-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.322/2019](tceac-con-plenario-11322-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.348/2019](tceac-con-plenario-11348-2019.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11.354/2019](tceac-con-plenario-11354-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.358/2019](tceac-con-plenario-11358-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.372/2019](tceac-con-plenario-11372-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.415/2019](tceac-con-plenario-11415-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.453/2019](tceac-con-plenario-11453-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.514/2019](tceac-con-plenario-11514-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.541/2019](tceac-con-plenario-11541-2019.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.696/2020](tceac-con-plenario-11696-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.742/2020](tceac-con-plenario-11742-2020.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11.806/2020](tceac-con-plenario-11806-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.827/2020](tceac-con-plenario-11827-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.834/2020](tceac-con-plenario-11834-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.875/2020](tceac-con-plenario-11875-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.913/2020](tceac-con-plenario-11913-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.925/2020](tceac-con-plenario-11925-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.942/2020](tceac-con-plenario-11942-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.957/2020](tceac-con-plenario-11957-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 11.998/2020](tceac-con-plenario-11998-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.079/2020](tceac-con-plenario-12079-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.092/2020](tceac-con-plenario-12092-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.140/2020](tceac-con-plenario-12140-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.150/2020](tceac-con-plenario-12150-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.183/2020](tceac-con-plenario-12183-2020.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.261/2021](tceac-con-plenario-12261-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.375/2021](tceac-con-plenario-12375-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.433/2021](tceac-con-plenario-12433-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.443/2021](tceac-con-plenario-12443-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.494/2021](tceac-con-plenario-12494-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 1.251/2017](tceac-con-plenario-1251-2017.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.568/2021](tceac-con-plenario-12568-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.596/2021](tceac-con-plenario-12596-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.597/2021](tceac-con-plenario-12597-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.598/2021](tceac-con-plenario-12598-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.646/2021](tceac-con-plenario-12646-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.647/2021](tceac-con-plenario-12647-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.682/2021](tceac-con-plenario-12682-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.720/2021](tceac-con-plenario-12720-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.763/2021](tceac-con-plenario-12763-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.783/2021](tceac-con-plenario-12783-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.838/2021](tceac-con-plenario-12838-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.924/2021](tceac-con-plenario-12924-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.951/2021](tceac-con-plenario-12951-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 12.989/2021](tceac-con-plenario-12989-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.010/2021](tceac-con-plenario-13010-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.016/2021](tceac-con-plenario-13016-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.024/2021](tceac-con-plenario-13024-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.025/2021](tceac-con-plenario-13025-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.079/2021](tceac-con-plenario-13079-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.120/2021](tceac-con-plenario-13120-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.123/2021](tceac-con-plenario-13123-2021.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.146/2022](tceac-con-plenario-13146-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.258/2022](tceac-con-plenario-13258-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.261/2022](tceac-con-plenario-13261-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.286/2022](tceac-con-plenario-13286-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.316/2022](tceac-con-plenario-13316-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.318/2022](tceac-con-plenario-13318-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.319/2022](tceac-con-plenario-13319-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.323/2022](tceac-con-plenario-13323-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.343/2022](tceac-con-plenario-13343-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.347/2022](tceac-con-plenario-13347-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.358/2022](tceac-con-plenario-13358-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.365/2022](tceac-con-plenario-13365-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.368/2022](tceac-con-plenario-13368-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.388/2022](tceac-con-plenario-13388-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.452/2022](tceac-con-plenario-13452-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.458/2022](tceac-con-plenario-13458-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.472/2022](tceac-con-plenario-13472-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.473/2022](tceac-con-plenario-13473-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.478/2022](tceac-con-plenario-13478-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.505/2022](tceac-con-plenario-13505-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.523/2022](tceac-con-plenario-13523-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.642/2022](tceac-con-plenario-13642-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.679/2022](tceac-con-plenario-13679-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.689/2022](tceac-con-plenario-13689-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.710/2022](tceac-con-plenario-13710-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.724/2022](tceac-con-plenario-13724-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.761/2022](tceac-con-plenario-13761-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.786/2022](tceac-con-plenario-13786-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.791/2022](tceac-con-plenario-13791-2022.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.838/2023](tceac-con-plenario-13838-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.852/2023](tceac-con-plenario-13852-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.870/2023](tceac-con-plenario-13870-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.872/2023](tceac-con-plenario-13872-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.898/2023](tceac-con-plenario-13898-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.899/2023](tceac-con-plenario-13899-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.913/2023](tceac-con-plenario-13913-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 13.987/2023](tceac-con-plenario-13987-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.131/2023](tceac-con-plenario-14131-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.132/2023](tceac-con-plenario-14132-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.151/2023](tceac-con-plenario-14151-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.197/2023](tceac-con-plenario-14197-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.223/2023](tceac-con-plenario-14223-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.256/2023](tceac-con-plenario-14256-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.327/2023](tceac-con-plenario-14327-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.339/2023](tceac-con-plenario-14339-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.356/2023](tceac-con-plenario-14356-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.406/2023](tceac-con-plenario-14406-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.415/2023](tceac-con-plenario-14415-2023.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.545/2024](tceac-con-plenario-14545-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.648/2024](tceac-con-plenario-14648-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.663/2024](tceac-con-plenario-14663-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.676/2024](tceac-con-plenario-14676-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.707/2024](tceac-con-plenario-14707-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.708/2024](tceac-con-plenario-14708-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.709/2024](tceac-con-plenario-14709-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.753/2024](tceac-con-plenario-14753-2024.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14.767/2024](tceac-con-plenario-14767-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.774/2024](tceac-con-plenario-14774-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.820/2024](tceac-con-plenario-14820-2024.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14.821/2024](tceac-con-plenario-14821-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.826/2024](tceac-con-plenario-14826-2024.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14.852/2024](tceac-con-plenario-14852-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.871/2024](tceac-con-plenario-14871-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.907/2024](tceac-con-plenario-14907-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.913/2024](tceac-con-plenario-14913-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 14.998/2024](tceac-con-plenario-14998-2024.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.030/2025](tceac-con-plenario-15030-2025.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.086/2026](tceac-con-plenario-15086-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.155/2025](tceac-con-plenario-15155-2025.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.176/2025](tceac-con-plenario-15176-2025.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.244/2025](tceac-con-plenario-15244-2025.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.392/2025](tceac-con-plenario-15392-2025.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.468/2025](tceac-con-plenario-15468-2025.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.478/2025](tceac-con-plenario-15478-2025.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 155/1992](tceac-con-plenario-155-1992.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 15.511/2026](tceac-con-plenario-15511-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.575/2026](tceac-con-plenario-15575-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.606/2026](tceac-con-plenario-15606-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.608/2026](tceac-con-plenario-15608-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.609/2026](tceac-con-plenario-15609-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.640/2026](tceac-con-plenario-15640-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.696/2026](tceac-con-plenario-15696-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.738/2026](tceac-con-plenario-15738-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.751/2026](tceac-con-plenario-15751-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.806/2026](tceac-con-plenario-15806-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.870/2026](tceac-con-plenario-15870-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.877/2026](tceac-con-plenario-15877-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 15.962/2026](tceac-con-plenario-15962-2026.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 163/1992](tceac-con-plenario-163-1992.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 179/1992](tceac-con-plenario-179-1992.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 180/1992](tceac-con-plenario-180-1992.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 250/1992](tceac-con-plenario-250-1992.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3.740/2004](tceac-con-plenario-3740-2004.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 390/1993](tceac-con-plenario-390-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 414/1993](tceac-con-plenario-414-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 415/1993](tceac-con-plenario-415-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 416/1993](tceac-con-plenario-416-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 425/1993](tceac-con-plenario-425-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 435/1993](tceac-con-plenario-435-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 438/1993](tceac-con-plenario-438-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 446/1993](tceac-con-plenario-446-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 447/1993](tceac-con-plenario-447-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4.502/2006](tceac-con-plenario-4502-2006.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 462/1993](tceac-con-plenario-462-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 464/1993](tceac-con-plenario-464-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 467/1993](tceac-con-plenario-467-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4.678/2007](tceac-con-plenario-4678-2007.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 473/1993](tceac-con-plenario-473-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 475/1993](tceac-con-plenario-475-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 476/1993](tceac-con-plenario-476-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 478/1993](tceac-con-plenario-478-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 494/1993](tceac-con-plenario-494-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4.973/2007](tceac-con-plenario-4973-2007.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4.996/2008](tceac-con-plenario-4996-2008.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 507/1993](tceac-con-plenario-507-1993.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 526/1994](tceac-con-plenario-526-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 540/1994](tceac-con-plenario-540-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5.429/2008](tceac-con-plenario-5429-2008.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 560/1994](tceac-con-plenario-560-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 563/1994](tceac-con-plenario-563-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 584/1994](tceac-con-plenario-584-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 591/1994](tceac-con-plenario-591-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6.211/2009](tceac-con-plenario-6211-2009.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6.255/2009](tceac-con-plenario-6255-2009.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 632/1994](tceac-con-plenario-632-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 637/1994](tceac-con-plenario-637-1994.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6.407/2009](tceac-con-plenario-6407-2009.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6.583/2010](tceac-con-plenario-6583-2010.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6.632/2010](tceac-con-plenario-6632-2010.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.204/2011](tceac-con-plenario-7204-2011.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.382/2011](tceac-con-plenario-7382-2011.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.426/2011](tceac-con-plenario-7426-2011.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.427/2011](tceac-con-plenario-7427-2011.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.611/2012](tceac-con-plenario-7611-2012.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.646/2012](tceac-con-plenario-7646-2012.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.728/2012](tceac-con-plenario-7728-2012.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.793/2012](tceac-con-plenario-7793-2012.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7.828/2012](tceac-con-plenario-7828-2012.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8.207/2013](tceac-con-plenario-8207-2013.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8.949/2014](tceac-con-plenario-8949-2014.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9.011/2014](tceac-con-plenario-9011-2014.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9.035/2014](tceac-con-plenario-9035-2014.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9.037/2014](tceac-con-plenario-9037-2014.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9.052/2014](tceac-con-plenario-9052-2014.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9.074/2014](tceac-con-plenario-9074-2014.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9.110/2014](tceac-con-plenario-9110-2014.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.139/2015](tceac-con-plenario-9139-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.144/2015](tceac-con-plenario-9144-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.152/2015](tceac-con-plenario-9152-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.162/2015](tceac-con-plenario-9162-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.164/2015](tceac-con-plenario-9164-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.188/2015](tceac-con-plenario-9188-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.208/2015](tceac-con-plenario-9208-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.221/2015](tceac-con-plenario-9221-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.251/2015](tceac-con-plenario-9251-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.348/2015](tceac-con-plenario-9348-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.349/2015](tceac-con-plenario-9349-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.377/2015](tceac-con-plenario-9377-2015.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.436/2016](tceac-con-plenario-9436-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.459/2016](tceac-con-plenario-9459-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.548/2016](tceac-con-plenario-9548-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.590/2016](tceac-con-plenario-9590-2016.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9.612/2016](tceac-con-plenario-9612-2016.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9.641/2016](tceac-con-plenario-9641-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.646/2016](tceac-con-plenario-9646-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.661/2016](tceac-con-plenario-9661-2016.md) — Situação jurídica atual não informada pelo índice; confira a consulta e atos posteriores na fonte oficial
+- [CON 9.680/2016](tceac-con-plenario-9680-2016.md) — Situação jurídica atual não informada pelo índice; há pendências ou ressalvas documentais descritas abaixo
