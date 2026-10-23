@@ -170,7 +170,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1669826727.pdf) — PDF recuperado, mas o cabeçalho não foi conciliado com o título deste cadastro; texto retido para conferência.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1669826727.pdf) — A conferência visual confirmou que o número está em branco no cabeçalho do PDF. A lacuna não foi preenchida com o número do catálogo; identidade documental permanece em conciliação.
 
 [Despacho do coordenador](https://sapiens.agu.gov.br/valida_publico?id=236190) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
 
