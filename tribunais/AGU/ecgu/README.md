@@ -1,0 +1,46 @@
+# AGU · Enunciado da Consultoria-Geral da União
+
+**42 registros.** [Voltar ao tribunal](../)
+
+- [ECGU 1/2025](agu-ecgu-1-2025.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 10/2026](agu-ecgu-10-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 11/2026](agu-ecgu-11-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 12/2026](agu-ecgu-12-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 13/2026](agu-ecgu-13-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 14/2026](agu-ecgu-14-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 15/2026](agu-ecgu-15-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 16/2026](agu-ecgu-16-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 17/2026](agu-ecgu-17-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 18/2026](agu-ecgu-18-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 19/2026](agu-ecgu-19-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 2/2026](agu-ecgu-2-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 20/2026](agu-ecgu-20-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 21/2026](agu-ecgu-21-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 22/2026](agu-ecgu-22-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 23/2026](agu-ecgu-23-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 24/2026](agu-ecgu-24-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 25/2026](agu-ecgu-25-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 26/2026](agu-ecgu-26-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 27/2026](agu-ecgu-27-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 28/2026](agu-ecgu-28-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 29/2026](agu-ecgu-29-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 3/2026](agu-ecgu-3-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 30/2026](agu-ecgu-30-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 31/2026](agu-ecgu-31-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 32/2026](agu-ecgu-32-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 33/2026](agu-ecgu-33-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 34/2026](agu-ecgu-34-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 35/2026](agu-ecgu-35-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 36/2026](agu-ecgu-36-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 37/2026](agu-ecgu-37-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 38/2026](agu-ecgu-38-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 39/2026](agu-ecgu-39-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 4/2026](agu-ecgu-4-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 40/2026](agu-ecgu-40-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 41/2026](agu-ecgu-41-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 42/2026](agu-ecgu-42-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 5/2026](agu-ecgu-5-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 6/2026](agu-ecgu-6-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 7/2026](agu-ecgu-7-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 8/2026](agu-ecgu-8-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
+- [ECGU 9/2026](agu-ecgu-9-2026.md) — Enunciado publicado no catálogo oficial; notas e retificações preservadas, sem confirmação independente de vigência atual.
