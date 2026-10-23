@@ -1,0 +1,281 @@
+# TCEMT · CON 48/2011
+
+- **Órgão:** TCEMT
+- **Espécie:** Resolução de Consulta
+- **Número:** 48/2011
+- **Identificador:** `tcemt-con-462`
+- **Situação na fonte:** Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TCEMT — Resoluções de Consulta e documentos oficiais](https://www.tce.mt.gov.br/legislacoes/resolucao-de-consulta)
+
+## Informações do catálogo oficial
+
+Título literal: Resolução de Consulta nº 48/2011 - Processo nº 54933/2011. Identificador imutável no catálogo: 462. Número informado: 48. Ano informado: 2011. data\_inicio informada pelo catálogo: 2011-07-27 00:00:00.
+
+O número e ano podem se repetir em sessões distintas. Foram mantidas separadas as séries identificadas no título como PV e as demais, com identidade pelo código oficial do cadastro. O catálogo não informa vigência individual; datas de cadastro não foram convertidas em atualização jurídica. O assunto abaixo é a ementa disponibilizada, sem ser tratado como tese autônoma consolidada.
+
+[Documento oficial: Resolução de Consulta nº 048\_11.pdf](https://www.tce.mt.gov.br/conteudo/download/resolucao-de-consulta-n-048-11-pdf/25498). Código do arquivo: 25498. Tamanho informado: 92320 bytes; tamanho obtido: 92320 bytes.
+
+### Pendências e ressalvas
+
+-   Campo texto adicional do cadastro não conciliado com o PDF; preservado literalmente.
+
+### Texto adicional literal do cadastro
+
+Este campo pode conter sequências corrompidas. Foi preservado como valor cadastral, sem reconstrução nem substituição do documento.
+
+    -Processo nº
+    5.493-3/2011
+    Interessada
+    PREFEITURA MUNICIPAL DE SANTO ANTONIO DE
+    LEVERGER
+    Assunto
+    Consulta
+    Relator
+    Conselheiro WALDIR JÚLIO TEIS
+    Sessão de Julgamento 
+    27-7-2011 (Extraordinária)
+    RESOLUÇÃO DE CONSULTA Nº 48/2011
+    Ementa: 
+    -ProrcesP nºs5c.c- 4n9rn3 5e/n 5e/5c/n9rn4r2rP0rP1n./53s4e 1
+    -4 5rI ºr5e/nrn/Pt ºr5e/1n.Pc ta/n9rn5/2 ns5c9 9rn/Pt ºr5edPc 1
+     4erP tRr3n5 n4/ nrn-- Enr2r5es 4ºr5ern5 n49/1nPr 4/. ta/n9r
+    .PF9ce/3n/Pt ºr5edPc/3n-/PnPrº 5rI ºr5e/3n/sn TrPesP n9rn.PF9ce/3
+     9c.c/5 c31n5a/nc5erPorPU5.c n9/nºc5c3eFPc/n-AT4c./nr3e 9s 4n5 3
+    9r.c3Rr3n9/n.Mrorn9/n-/9rPnrNr.sec2/nºs5c.c- 41
+    nFnCLDSOVGuClh
+    ilWCJlClLuÚJlhniLn-LiOJnrãOCgVlmLnhnSJLDL7(LniOn
+    hxVOJh7áOWnODnWgh
+    OWVJgVgJhnLJ)hulÇhClLuhxnhiDlulWVJhVlmhEnVOuiLnODnmlWVhnhnhiOÃgÚ8xhnhnWOg
+    SxhuLniOn)LmOJuLEnDOVhWEnL:BOVlmLWEnSLxbVlChWnSq:xlChWEnSJlLJlihiOWnO
+    SLxbVlChnflWChx1n
+    n nCJlh7(LniOnuLmhngulihiOnLJ7hDOuVÚJlhEnSLJnOu)OuiJhJ
+    )hWVLWnCLuVlughiLWnCLDniOWSOWhWnCLJJOuVOWEnL:Jl)hVLJlhDOuVOEniOmOJÚ
+    hxVOJhJnLn-- EnWL:nSOuhniOnJOWSLuWh:lxlihiOEnCLuWLhuVOnLnilWSLWVLnuLn§n1°
+    iLnhJV1n167nihn.o1n
+    n nCJlh7(LniOnuLmhngulihiOnLJ7hDOuVÚJlhnSLiOJÚE
+    OmOuVghxDOuVOEniODhuihJnhnhxVOJh7(Lnihn49/1n-LJnWghnmOÇEnhnSJóSJlhnxOl
+    ÃgOnhgVLJlÇhJnhnDLmlDOuVh7(LniOnCJéilVLWnLJ7hDOuVÚJlLWEnWOBhnSOxhnh:OJVgJh
+    iOnCJéilVLWnhilClLuhlWnLgnSLJnluVOJDéilLniOnJODhuOBhDOuVLWEnlDSxlChJÚnOD
+    hxVOJh7(LniLn
+    LJ7hDOuVL1n
+    4) 
+    WnCLDSOVGuClhWniLnºlulWVéJlLn-q:xlCLnOWV(L
+    iOxluOhihWnuLWn
+    hJVl)LWn127nhn1308 nihn.LuWVlVgl7(LnihnPOSq:xlChEnhxéDnih
+    4Oln/J)âulChniLnº-rn(4Oln.LDSxODOuVhJnuºn027EniOn19/01/93)EnÃgOnu(LnWO
+    CLufguiODnCLDnhWnCLDSOVGuClhWniLn-LiOJnrãOCgVlmLEniOmOuiLnWOJ
+    JOWSOlVhiLnLnSLiOJnilWCJlClLuÚJlLniLn)OWVLJ1
+    2lWVLWEnJOxhVhiLWnOnilWCgVliLWnLWnhgVLWniLn-JLCOWWL
+    uºn5
+    /2011.
+         
+          
+    O TRIBUNAL DE CONTAS DO ESTADO DE MATO GROSSO
+    EnuLW
+    VOJDLWniLWnhJVl)LWn1ºEnluClWLnN2ccEn48nOn49EnVLiLWnihn4Oln.LDSxODOuVhJnuºn269/2009n(4Oln/J)âulCh
+    o:\3OCJOVhJlhniLn-xOuL\2011\POWLxg7áOWniOn.LuWgxVh\POWLxg7(LniOn.LuWgxVhnuºn048_111LiV
+    nnn o
+    nnn
+    iLneJl:guhxniOn.LuVhWniLnrWVhiLniOnºhVLn0JLWWL)n
+    OniLWnhJVl)LWn29EnluClWLnNcEnOn81EnluClWLnc2Enih
+    POWLxg7(Lnuºn14/2007n(PO)lDOuVLncuVOJuLniLneJl:guhxniOn.LuVhWniLnrWVhiLniOnºhVLn0JLWWL)E
+    JOWLxmOEn
+    SLJnguhulDlihiOEnhCLDShuhhuiLnLnmLVLniLn.LuWOxhOlJLnPOxhVLJEn
+    ÃgOnhCLxhOgnWg)OWVáOWniL
+    mLVLnmlWVhniLn gilVLJn3g:WVlVgVLniOn.LuWOxhOlJLn4glÇn.hJxLWn-OJOlJhnOnWg)OWVáOWniLn gilVLJn3g:WVlVgVL
+    iOn.LuWOxhOlJLn4glÇnMOuJlÃgOn4lDhnODlVlihWnLJhxDOuVOnODn3OWW(Ln-xOuÚJlhEn
+    OniOnhCLJiLnCLDnL
+    -hJOCOJnnODlVliLnLJhxDOuVOnODn3OWW(Ln-xOuÚJlhnSOxLnºlulWVéJlLn-q:xlCLniOn.LuVhWEn
+    ODnJOWSLuiOJnhL
+    CLuWgxOuVOnÃgO:n
+    nénCLDSOVGuClhnilWCJlClLuÚJlhniLn-LiOJnrãOCgVlmLnhnSJLDL7(LniOnhxVOJh7áOWnODnWgh
+    OWVJgVgJhnLJ)hulÇhClLuhxnhiDlulWVJhVlmhEnVOuiLnODnmlWVhnhnhiOÃgÚ8xhnhnWOgnSxhuLniOn)LmOJuLEnDOVhWE
+    L:BOVlmLWEnSLxbVlChWnSq:xlChWEnSJlLJlihiOWnOnSLxbVlChnflWChx;n
+    nhnCJlh7(LniOnuLmhngulihiOnLJ7hDOuVÚJlhE
+    SLJnOu)OuiJhJn)hWVLWnCLuVlughiLWnCLDniOWSOWhWnCLJJOuVOWEnL:Jl)hVLJlhDOuVOEniOmOJÚnhxVOJhJnLn-- E
+    WL:nSOuhniOnJOWSLuWh:lxlihiOEnCLuWLhuVOnLnilWSLWVLnuLn§n1°niLnhJV1n167nihn.o;n
+    nhnCJlh7(LniOnuLmh
+    gulihiOnLJ7hDOuVÚJlhnSLiOJÚEnOmOuVghxDOuVOEniODhuihJnhnhxVOJh7(Lnihn49/EnSLJnWghnmOÇEnhnSJóSJlhnxOl
+    ÃgOnhgVLJlÇhJnhnDLmlDOuVh7(LniOnCJéilVLWnLJ7hDOuVÚJlLWEnWOBhnSOxhnh:OJVgJhniOnCJéilVLWnhilClLuhlWnLg
+    SLJnluVOJDéilLniOnJODhuOBhDOuVLWEnlDSxlChJÚnODnhxVOJh7(LniLn
+    LJ7hDOuVL;nOEn
+    4) 
+    WnCLDSOVGuClhWniL
+    ºlulWVéJlLn-q:xlCLnOWV(LniOxluOhihWnuLWnhJVl)LWn127nhn1308 nihn.LuWVlVgl7(LnihnPOSq:xlChEnhxéDnih
+    4Oln/J)âulChniLnº-rn(4Oln.LDSxODOuVhJnuºn027EniOn19/01/93)EnÃgOnu(LnWOnCLufguiODnCLDnhW
+    CLDSOVGuClhWniLn-LiOJnrãOCgVlmLEniOmOuiLnWOJnJOWSOlVhiLnLnSLiOJnilWCJlClLuÚJlLniLn)OWVLJ1
+     SóWnhW
+    huLVh7áOWniOnSJhãOEnhJÃglmOD8WOnLWnhgVLW1
+    -hJVlClShJhDniLnBgx)hDOuVLnLn.LuWOxhOlJLnI/3Fn. P4/3n5/2r44cEnL
+     gilVLJn3g:WVlVgVLniOn.LuWOxhOlJLn4scZn. P4/3n-rPrcP EnÃgOnuhnWOWW(LniLnilhn28/06/2011
+    OWVhmhnWg:WVlVgluiLnLn.LuWOxhOlJLn9/ºc50/3n5re/EnLChWl(LnODnÃgOnWLxlClVLgnmlWVhniLWnhgVLWEnOnL
+     gilVLJn3g:WVlVgVLniOn.LuWOxhOlJLn4scZnMr5PcQsrn4cº EnODnWg:WVlVgl7(LnhLn.LuWOxhOlJL
+    MsºTrPe/nT/3 c-/EnCLufLJDOnhJVl)Ln104EnluClWLncEnihnPOWLxg7(Lnuºn14/20071n
+    -JOWOuVOEnJOSJOWOuVhuiLnLnºlulWVéJlLn-q:xlCLniOn.LuVhWEnLn-JLCgJhiLJ
+    0OJhxn 4c33/5n. P2 4M/n9rn 4r5. P1
+    Publique-se.
+    o:\3OCJOVhJlhniLn-xOuL\2011\POWLxg7áOWniOn.LuWgxVh\POWLxg7(LniOn.LuWgxVhnuºn048_111LiV
+    nnn o
+    nnn
+    Processo nº
+    5.493-3/2011
+    Interessada
+    PREFEITURA MUNICIPAL DE SANTO ANTONIO DE
+    LEVERGER
+    Assunto
+    Consulta
+    Relator
+    Conselheiro WALDIR JÚLIO TEIS
+    Sessão de Julgamento 
+    27-7-2011 (Extraordinária)
+    RESOLUÇÃO DE CONSULTA Nº 48/2011
+    3hxhnihWn3OWWáOWEn27niOnBgxhLniOn20111n
+    ./53r4MrcP/n2 4erPn 4T 5/n
+    nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn-JOWliOuVO
+    ./53r4MrcP/nW 49cPnIA4c/nerc3
+    nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnPOxhVLJ
+    n 4c33/5n. P2 4M/n9rn 4r5. P
+    nnnnnnnnnnnnnnnnnnnn-JLCgJhiLJn0OJhxn
+    o:\3OCJOVhJlhniLn-xOuL\2011\POWLxg7áOWniOn.LuWgxVh\POWLxg7(LniOn.LuWgxVhnuºn048_111LiV
+    nnn o
+    nnn
+    
+
+Foram conciliadas duas leituras das 41 páginas do catálogo. Cada documento foi consultado duas vezes, com situação de integridade e ressalvas descritas acima. A transcrição mantém o texto extraível por página, com tipografia simplificada; imagens não foram transcritas e não houve OCR. Processos, decisões e demais atos apenas citados não tiveram todos os seus documentos coletados.
+
+## Ementa
+
+Ementa: PREFEITURA MUNICIPAL DE SANTO ANTONIO DE LEVERGER. CONSULTA. PLANEJAMENTO E ORÇAMENTO. CRIAÇÃO DE NOVA UNIDADE ORÇAMENTÁRIA. ALTERAÇÕES NA LOA E PPA, EVENTUALMENTE NA LDO. REALOCAÇÃO DE CRÉDITOS ORÇAMENTÁRIOS POR REMANEJAMENTOS OU ABERTURA DE CRÉDITOS ADICIONAIS. NÃO INTERFERÊNCIA DO MINISTÉRIO PÚBLICO ESTADUAL NAS DECISÕES DO CHEFE DO PODER EXECUTIVO MUNICIPAL. 1) É competência discricionária do Poder Executivo a promoção de alterações em sua estrutura organizacional administrativa, tendo em vista a adequá-la a seu plano de governo, metas, objetivos, políticas públicas, prioridades e política fiscal. 2) A criação de nova unidade orçamentária, por engendrar gastos continuados com despesas correntes, obrigatoriamente, deverá alterar o PPA, sob pena de responsabilidade, consoante o disposto no § 1° do art. 167 da CF. 3) A criação de nova unidade orçamentária poderá, eventualmente, demandar a alteração da LDO. Por sua vez, a própria lei que autorizar a movimentação de créditos orçamentários, seja pela abertura de créditos adicionais ou por intermédio de remanejamentos, implicará em alteração do orçamento. 4) As competências do Ministério Público estão delineadas nos artigos 127 a 130-A da Constituição da República, além da Lei Orgânica do MPE (Lei Complementar nº 027, de 19/01/93), que não se confundem com as competências do Poder Executivo, devendo ser respeitado o poder discricionário do gestor.
+
+## Decisão
+
+### Documento oficial — página 1
+
+    -Processo nº                         5.493-3/2011
+    Interessada                          PREFEITURA MUNICIPAL DE                                  SANTO   ANTONIO      DE
+                                         LEVERGER
+    Assunto                              Consulta
+    Relator                              Conselheiro WALDIR JÚLIO TEIS
+    Sessão de Julgamento                 27-7-2011 (Extraordinária)
+    
+    
+                                         RESOLUÇÃO DE CONSULTA Nº 48/2011
+    
+                                         Ementa: PREFEITURA MUNICIPAL DE SANTO ANTONIO DE LEVERGER. CONSULTA.
+                                         PLANEJAMENTO E ORÇAMENTO. CRIAÇÃO DE NOVA UNIDADE ORÇAMENTÁRIA.
+                                         ALTERAÇÕES NA LOA E PPA, EVENTUALMENTE NA LDO. REALOCAÇÃO DE
+                                         CRÉDITOS ORÇAMENTÁRIOS POR REMANEJAMENTOS OU ABERTURA DE CRÉDITOS
+                                         ADICIONAIS. NÃO INTERFERÊNCIA DO MINISTÉRIO PÚBLICO ESTADUAL NAS
+    
+                                         DECISÕES DO CHEFE DO PODER EXECUTIVO MUNICIPAL.                  1) É competência
+                                         discricionária do Poder Executivo a promoção de alterações em sua
+                                         estrutura organizacional administrativa, tendo em vista a adequá-la a seu
+                                         plano de governo, metas, objetivos, políticas públicas, prioridades e
+                                         política fiscal. 2) A criação de nova unidade orçamentária, por engendrar
+                                         gastos continuados com despesas correntes, obrigatoriamente, deverá
+                                         alterar o PPA, sob pena de responsabilidade, consoante o disposto no § 1°
+                                         do art. 167 da CF. 3) A criação de nova unidade orçamentária poderá,
+                                         eventualmente, demandar a alteração da LDO. Por sua vez, a própria lei
+                                         que autorizar a movimentação de créditos orçamentários, seja pela abertura
+                                         de créditos adicionais ou por intermédio de remanejamentos, implicará em
+                                         alteração do orçamento. 4) As competências do Ministério Público estão
+                                         delineadas nos artigos 127 a 130-A da Constituição da República, além da
+                                         Lei Orgânica do MPE (Lei Complementar nº 027, de 19/01/93), que não se
+                                         confundem com as competências do Poder Executivo, devendo ser
+                                         respeitado o poder discricionário do gestor.
+    
+    
+                                         Vistos, relatados e discutidos os autos do Processo nº 5.493-3/2011.
+    
+    
+                                         O TRIBUNAL DE CONTAS DO ESTADO DE MATO GROSSO, nos
+    termos dos artigos 1º, inciso XVII, 48 e 49, todos da Lei Complementar nº 269/2009 (Lei Orgânica
+    
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 048_11.odt   AF              1
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+### Documento oficial — página 2
+
+    do Tribunal de Contas do Estado de Mato Grosso) e dos artigos 29, inciso XI, e 81, inciso IV, da
+    Resolução nº 14/2007 (Regimento Interno do Tribunal de Contas do Estado de Mato Grosso),
+    resolve, por unanimidade, acompanhando o voto do Conselheiro Relator, que acolheu sugestões do
+    voto vista do Auditor Substituto de Conselheiro Luiz Carlos Pereira e sugestões do Auditor Substituto
+    de Conselheiro Luiz Henrique Lima emitidas oralmente em Sessão Plenária, e de acordo com o
+    Parecer emitido oralmente em Sessão Plenária pelo Ministério Público de Contas, em responder ao
+    consulente que: 1) é competência discricionária do Poder Executivo a promoção de alterações em sua
+    estrutura organizacional administrativa, tendo em vista a adequá-la a seu plano de governo, metas,
+    objetivos, políticas públicas, prioridades e política fiscal; 2) a criação de nova unidade orçamentária,
+    por engendrar gastos continuados com despesas correntes, obrigatoriamente, deverá alterar o PPA,
+    sob pena de responsabilidade, consoante o disposto no § 1° do art. 167 da CF; 3) a criação de nova
+    unidade orçamentária poderá, eventualmente, demandar a alteração da LDO, por sua vez, a própria lei
+    que autorizar a movimentação de créditos orçamentários, seja pela abertura de créditos adicionais ou
+    por intermédio de remanejamentos, implicará em alteração do orçamento; e, 4) as competências do
+    Ministério Público estão delineadas nos artigos 127 a 130-A da Constituição da República, além da
+    Lei Orgânica do MPE (Lei Complementar nº 027, de 19/01/93), que não se confundem com as
+    competências do Poder Executivo, devendo ser respeitado o poder discricionário do gestor. Após as
+    anotações de praxe, arquivem-se os autos.
+    
+    
+    
+                                          Participaram do julgamento o Conselheiro JOSÉ CARLOS NOVELLI, o
+    Auditor Substituto de Conselheiro LUIZ CARLOS PEREIRA, que na sessão do dia 28/06/2011
+    estava substituindo o Conselheiro DOMINGOS NETO, ocasião em que solicitou vista dos autos, e o
+    Auditor Substituto de Conselheiro LUIZ HENRIQUE LIMA, em substituição ao Conselheiro
+    HUMBERTO BOSAIPO, conforme artigo 104, inciso I, da Resolução nº 14/2007.
+    
+    
+                                         Presente, representando o Ministério Público de Contas, o Procurador
+    Geral ALISSON CARVALHO DE ALENCAR.
+    
+                                          Publique-se.
+    
+    
+    
+    
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 048_11.odt   AF   2
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+### Documento oficial — página 3
+
+    Processo nº                          5.493-3/2011
+    Interessada                          PREFEITURA MUNICIPAL DE                                  SANTO   ANTONIO   DE
+                                         LEVERGER
+    Assunto                              Consulta
+    Relator                              Conselheiro WALDIR JÚLIO TEIS
+    Sessão de Julgamento                 27-7-2011 (Extraordinária)
+    
+    
+                                         RESOLUÇÃO DE CONSULTA Nº 48/2011
+    
+    
+    
+                                         Sala das Sessões, 27 de julho de 2011.
+    
+    
+    
+    
+                                         CONSELHEIRO VALTER ALBANO
+                                                     Presidente
+    
+    
+    
+                                          CONSELHEIRO WALDIR JÚLIO TEIS
+                                                       Relator
+    
+    
+    
+    
+                                           ALISSON CARVALHO DE ALENCAR
+                                                   Procurador Geral
+    
+    
+    
+    
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 048_11.odt   AF             3
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,0 +1,223 @@
+# TCEMT · CON 18/2013
+
+- **Órgão:** TCEMT
+- **Espécie:** Resolução de Consulta
+- **Número:** 18/2013
+- **Identificador:** `tcemt-con-913`
+- **Situação na fonte:** Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TCEMT — Resoluções de Consulta e documentos oficiais](https://www.tce.mt.gov.br/legislacoes/resolucao-de-consulta)
+
+## Informações do catálogo oficial
+
+Título literal: Resolução de Consulta nº 18/2013 - Processo nº 175242/2013. Identificador imutável no catálogo: 913. Número informado: 18. Ano informado: 2013. data\_inicio informada pelo catálogo: 2013-08-22 00:00:00.
+
+O número e ano podem se repetir em sessões distintas. Foram mantidas separadas as séries identificadas no título como PV e as demais, com identidade pelo código oficial do cadastro. O catálogo não informa vigência individual; datas de cadastro não foram convertidas em atualização jurídica. O assunto abaixo é a ementa disponibilizada, sem ser tratado como tese autônoma consolidada.
+
+[Documento oficial: Resolução de Consulta nº 018\_2013.pdf](https://www.tce.mt.gov.br/conteudo/download/resolucao-de-consulta-n-018-2013-pdf/39372). Código do arquivo: 39372. Tamanho informado: 104557 bytes; tamanho obtido: 104557 bytes.
+
+### Pendências e ressalvas
+
+-   Campo texto adicional do cadastro não conciliado com o PDF; preservado literalmente.
+
+### Texto adicional literal do cadastro
+
+Este campo pode conter sequências corrompidas. Foi preservado como valor cadastral, sem reconstrução nem substituição do documento.
+
+    Processo nº
+    17.524-2/2013
+    Interessada
+    CÂMARA MUNICIPAL DE CUIABÁ
+    Assunto
+    Consulta 
+    Relator
+    Conselheiro Substituto RONALDO RIBEIRO    
+    Revisor
+    Conselheiro VALTER ALBANO 
+    Sessão de Julgamento 
+    20-8-2013 &#x2013; Tribunal Pleno (Extraordinária) 
+    ESOLUÇÃO DE CONSULTA Nº 18/2013 &#x2013; TP  
+    Ementa:
+    Procecso nºPº1c7s.5sP ºc24
+    -sP/n0 73c-
+    cI5n350s1/7t3ºP/0-
+    a5e5c./e50-s0 20t.º/0-sdºCcÂM/-s
+    /sARUANLDEsLEAsBÁuÁlLEuÁAsLÁBÁsAÁu
+    hDilLEsSÁblAsuÁASÁOvDBlAsPVTlulAsoRãDODSlDAJsÁTsOlLlsbÁgDAblvRulsSlulsl
+    ARUAÁmRÁãvÁ-
+    aDAvEAJsuÁblvlLEAsÁsLDAORvDLEAsEAslRvEAsLEs1uEOÁAAE
+    /2013.
+    O TRIBUNAL DE CONTAS DO ESTADO DE MATO GROSSO
+    JsãEA
+    vÁuTEAsLEAsluvDgEAs&#x2013;8JsCaººJs(xsÁs(áJsvELEAsLls7ÁDsPETSbÁTÁãvlusã8s)ÇáÃ)::ásG7ÁDs/ugVãDOlsLE
+    3uDURãlbsLÁsPEãvlAsLEs5AvlLEsLÁsolvEsIuEAAEps
+    ÁsLEAsluvDgEAs)áJsCºJsÁsx&#x2013;JsºaJsLlseÁAEbRqãEsã8
+    &#x2013;(Ã)::7sGeÁgDTÁãvEsºãvÁuãEsLEs3uDURãlbsLÁsPEãvlAsLEs5AvlLEsLÁsolvEsIuEAAEpJ
+    resolve
+    SEusTlDEuDlJ
+    lOETSlãhlãLEsEsBEvEsBDAvlsLEsPEãAÁbhÁDuEsalbvÁuscbUlãEJsÁsOEãvuluDlãLEsEs1luÁOÁusã8s5-:)(Ã):&#x2013;3sLE
+    oDãDAvéuDEs1úUbDOEsLÁsPEãvlAJs
+    esponder 
+    lEsOEãARbÁãvÁsmRÁsE
+    sARUANLDEsLEAsBÁuÁlLEuÁAsLÁBÁsAÁu
+    hDilLEsSÁblAsuÁASÁOvDBlAsPVTlulAsoRãDODSlDAJsÁTsOlLlsbÁgDAblvRulsSlulslsARUAÁmRÁãvÁ-s
+    /sDãvÁDuE
+    svÁEu
+    LÁAvlsLÁODAãEsÁAvásLDASEãNBÁbsãEsADvÁ:s
+    www-vOÁ-Tv-gEB-Uu
+    1uÁADLDRsEsjRbglTÁãvEJsÁTsARUAvDvRDqãEsbÁglbJsEsPEãAÁbhÁDuEsWc7.ºe
+    JÚ7º/s35º0s&#x2013;saDOÁ-1uÁADLÁãvÁ-s
+    PETsUlAÁsãEsluvDgEsÇáJs§s38JsLlseÁAEbRqãEsã8s&#x2013;(Ã)::7JshEDsLÁADgãlLEsOETE
+    eÁBDAEusEsPEãAÁbhÁDuEsac735esc72cn/-
+    d:\0ÁOuÁvluDlsLEs1bÁãE\):&#x2013;3\eÁAEbRqõÁAsLÁsPEãARbvl\0500M/s5C3ec/e.ºn4eºcs1e505nPºc7s./s.ºcs):-:x-):&#x2013;3\eÁAEbRqãEsLÁsPEãARbvlsã8s:&#x2013;x_):&#x2013;3-ELv
+    ssssss
+          
+    Processo nº
+    17.524-2/2013
+    Interessada
+    CÂMARA MUNICIPAL DE CUIABÁ
+    Assunto
+    Consulta 
+    Relator
+    Conselheiro Substituto RONALDO RIBEIRO    
+    Revisor
+    Conselheiro VALTER ALBANO 
+    Sessão de Julgamento 
+    20-8-2013 &#x2013; Tribunal Pleno (Extraordinária)
+    ESOLUÇÃO DE CONSULTA Nº 18/2013 &#x2013; TP
+    aÁãODLEAsE
+    AsPEãAÁbhÁDuEAs0RUAvDvRvEAse/nc7./seº25ºe/s&#x2013;seÁblvEusÁ
+    JcQ 57ºn5sJcP/205nJsmRÁsÁAvlBlsARUAvDvRDãLEsEsPEãAÁbhÁDuEsWc7.ºesJÚ7º/s35º0JslsmRlb
+    BEvERslOETSlãhlãLEsEsBEvEsLEseÁblvEu-
+    1luvDODSlulTsLEsjRbglTÁãvEsEsPEãAÁbhÁDuEs./oºnI/0sn53/JsÁsEA
+    PEãAÁbhÁDuEAs0RUAvDvRvEAso/º050socPº57JsmRÁsÁAvlBlsARUAvDvRDãLEsEsPEãAÁbhÁDuEscn3/nº/
+    J/cQ ºoJsÁs7 ºZsH5neºQ 5s7ºocJsmRÁsÁAvlBlsARUAvDvRDãLEsEsPEãAÁbhÁDuEsH o25e3/
+    2/0cº1/Js
+    EAsmRlDAslOETSlãhlulTsEsBEvEsLEseÁBDAEu-
+    1uÁAÁãvÁJsuÁSuÁAÁãvlãLEsEsoDãDAvéuDEs1úUbDOEsLÁsPEãvlAJsEs1uEORulLEu
+    IÁulbsLÁsPEãvlAs0RUAvDvRvEsI53Ú7º/sa57c0P/so/e5ºecsdº7H/-
+    Publique-se.
+    0lblsLlAs0ÁAAõÁAJs):sLÁslgEAvEsLÁs):&#x2013;3-s
+    Proocers nroº1c7csrcoº1co.5e24-coºe5º-e1-n-/5º-0-sn3ecI5tºaaadsI-dCsd754dÂnM
+    P/n057H5ºe/sWc7.ºesJÚ7º/s35º0s-saDOÁ-1uÁADLÁãvÁ
+    ssssssssssssssssss1uÁADLÁãvÁsÁTsARUAvDvRDqãEsbÁglb
+    P/n057H5ºe/sac735esc72cn/
+    ssssssssssssssssssssssssssseÁBDAEu
+    I53Ú7º/sa57c0P/so/e5ºecsdº7H/
+    sss1uEORulLEusIÁulbsLÁsPEãvlAs0RUAvDvRvE
+    d:\0ÁOuÁvluDlsLEs1bÁãE\):&#x2013;3\eÁAEbRqõÁAsLÁsPEãARbvl\0500M/s5C3ec/e.ºn4eºcs1e505nPºc7s./s.ºcs):-:x-):&#x2013;3\eÁAEbRqãEsLÁsPEãARbvlsã8s:&#x2013;x_):&#x2013;3-ELv
+    ssssss
+          
+    
+
+Foram conciliadas duas leituras das 41 páginas do catálogo. Cada documento foi consultado duas vezes, com situação de integridade e ressalvas descritas acima. A transcrição mantém o texto extraível por página, com tipografia simplificada; imagens não foram transcritas e não houve OCR. Processos, decisões e demais atos apenas citados não tiveram todos os seus documentos coletados.
+
+## Ementa
+
+Ementa: CÂMARA MUNICIPAL DE CUIABÁ. CONSULTA. AGENTES POLÍTICOS. VEREADORES. SUBSÍDIOS. FIXAÇÃO. O subsídio dos vereadores deve ser fixado pelas respectivas Câmaras Municipais, em cada legislatura para a subsequente.
+
+## Decisão
+
+### Documento oficial — página 1
+
+    Processo nº                           17.524-2/2013
+    Interessada                           CÂMARA MUNICIPAL DE CUIABÁ
+    Assunto                               Consulta
+    Relator                               Conselheiro Substituto RONALDO RIBEIRO
+    Revisor                               Conselheiro VALTER ALBANO
+    Sessão de Julgamento                  20-8-2013 – Tribunal Pleno (Extraordinária)
+    
+    
+                                           RESOLUÇÃO DE CONSULTA Nº 18/2013 – TP
+    
+    
+                                          Ementa: CÂMARA MUNICIPAL DE CUIABÁ. CONSULTA. AGENTES POLÍTICOS.
+                                           VEREADORES. SUBSÍDIOS. FIXAÇÃO. O subsídio dos vereadores deve ser
+    
+                                           fixado pelas respectivas Câmaras Municipais, em cada legislatura para a
+                                           subsequente.
+    
+    
+                                          Vistos, relatados e discutidos os autos do Processo nº 17.524-2/2013.
+    
+    
+                                          O TRIBUNAL DE CONTAS DO ESTADO DE MATO GROSSO, nos
+    termos dos artigos 1º, XVII, 48 e 49, todos da Lei Complementar nº 269/2009 (Lei Orgânica do
+    Tribunal de Contas do Estado de Mato Grosso) e dos artigos 29, XI, e 81, IV, da Resolução nº
+    14/2007 (Regimento Interno do Tribunal de Contas do Estado de Mato Grosso), resolve, por maioria,
+    acompanhando o voto vista do Conselheiro Valter Albano, e contrariando o Parecer nº 5.024/2013 do
+    Ministério Público de Contas, responder ao consulente que o subsídio dos vereadores deve ser
+    fixado pelas respectivas Câmaras Municipais, em cada legislatura para a subsequente. O inteiro teor
+    desta decisão está disponível no site: www.tce.mt.gov.br.
+    
+    
+                                           Presidiu o julgamento, em substituição legal, o Conselheiro WALDIR
+    JÚLIO TEIS – Vice-Presidente.
+    
+    
+                                           Com base no artigo 69, § 3º, da Resolução nº 14/2007, foi designado como
+    Revisor o Conselheiro VALTER ALBANO.
+    
+    
+    
+    
+    F:\Secretaria do Pleno\2013\Resoluções de Consulta\SESSÃO EXTRAORDINÁRIA PRESENCIAL DO DIA 20-08-2013\Resolução de Consulta nº 018_2013.odt   1
+    MMB
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+#### Referências anotadas nesta página
+
+-   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
+
+### Documento oficial — página 2
+
+    Processo nº                           17.524-2/2013
+    Interessada                           CÂMARA MUNICIPAL DE CUIABÁ
+    Assunto                               Consulta
+    Relator                               Conselheiro Substituto RONALDO RIBEIRO
+    Revisor                               Conselheiro VALTER ALBANO
+    Sessão de Julgamento                  20-8-2013 – Tribunal Pleno (Extraordinária)
+    
+    
+                                           RESOLUÇÃO DE CONSULTA Nº 18/2013 – TP
+    
+    
+                                           Vencidos os Conselheiros Substitutos RONALDO RIBEIRO – Relator e
+    JAQUELINE JACOBSEN, que estava substituindo o Conselheiro WALDIR JÚLIO TEIS, a qual
+    votou acompanhando o voto do Relator.
+                                          Participaram do julgamento o Conselheiro DOMINGOS NETO, e os
+    Conselheiros Substitutos MOISES MACIEL, que estava substituindo o Conselheiro ANTONIO
+    JOAQUIM, e LUIZ HENRIQUE LIMA, que estava substituindo o Conselheiro HUMBERTO
+    BOSAIPO, os quais acompanharam o voto do Revisor.
+                                          Presente, representando o Ministério Público de Contas, o Procurador
+    Geral de Contas Substituto GETÚLIO VELASCO MOREIRA FILHO.
+    
+    
+                                          Publique-se.
+                                          Sala das Sessões, 20 de agosto de 2013.
+    
+                      (assinaturas digitais disponíveis no endereço eletrônico: www.tce.mt.gov.br)
+    
+    
+    
+                                          CONSELHEIRO WALDIR JÚLIO TEIS - Vice-Presidente
+                                                 Presidente em substituição legal
+    
+    
+    
+                                          CONSELHEIRO VALTER ALBANO
+                                                     Revisor
+    
+    
+    
+                                          GETÚLIO VELASCO MOREIRA FILHO
+                                           Procurador Geral de Contas Substituto
+    
+    
+    F:\Secretaria do Pleno\2013\Resoluções de Consulta\SESSÃO EXTRAORDINÁRIA PRESENCIAL DO DIA 20-08-2013\Resolução de Consulta nº 018_2013.odt   2
+    MMB
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

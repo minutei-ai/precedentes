@@ -1,0 +1,324 @@
+# TCEMT · CON 31/2011
+
+- **Órgão:** TCEMT
+- **Espécie:** Resolução de Consulta
+- **Número:** 31/2011
+- **Identificador:** `tcemt-con-375`
+- **Situação na fonte:** Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TCEMT — Resoluções de Consulta e documentos oficiais](https://www.tce.mt.gov.br/legislacoes/resolucao-de-consulta)
+
+## Informações do catálogo oficial
+
+Título literal: Resolução de Consulta nº 31/2011 - Processo nº 25925/2011. Identificador imutável no catálogo: 375. Número informado: 31. Ano informado: 2011. data\_inicio informada pelo catálogo: 2011-04-26 00:00:00.
+
+O número e ano podem se repetir em sessões distintas. Foram mantidas separadas as séries identificadas no título como PV e as demais, com identidade pelo código oficial do cadastro. O catálogo não informa vigência individual; datas de cadastro não foram convertidas em atualização jurídica. O assunto abaixo é a ementa disponibilizada, sem ser tratado como tese autônoma consolidada.
+
+[Documento oficial: Resolução de Consulta nº 031\_11.pdf](https://www.tce.mt.gov.br/conteudo/download/resolucao-de-consulta-n-031-11-pdf/23283). Código do arquivo: 23283. Tamanho informado: 91689 bytes; tamanho obtido: 91689 bytes.
+
+### Pendências e ressalvas
+
+-   Campo texto adicional do cadastro não conciliado com o PDF; preservado literalmente.
+-   Campo assunto termina com (...); não foi completado por inferência.
+
+### Texto adicional literal do cadastro
+
+Este campo pode conter sequências corrompidas. Foi preservado como valor cadastral, sem reconstrução nem substituição do documento.
+
+    Processo nº
+    2.592-5/2011
+    Interessada
+    COMPANHIA DE SANEAMENTO DA CAPITAL
+    Assunto
+    Consulta
+    Relator 
+    Conselheiro ALENCAR SOARES
+    Sessão de Julgamento 
+    RESOLUÇÃO DE CONSULTA Nº 31/2011
+    Ementa:
+    Proces neº2.º5es.eo.s9rº2eºPecn9e-
+    /º
+    Prs50-9e
+    c.55re-/
+    ce19nPnceItrº2r5º91eae- e2r1.5ºsr5º-0P1r5º.º1.50-9e2r5/º.oc1.5e
+    .59e9e-/º1.d0-eo.s9eItrºc.-rº.s9.ºC.2.1e9nOrºPrs91r-e2r1/
+    cr55nan-n2e2.Mº2.52.ºA0.ºc1..sP n2r5º1.A0n5n9r5
+    eNºHDESHNTNºHNLTLTuNºlRN
+    .NLTlRNºHºohiuãJEuRNºigRºHNLgRºNRmºTº
+    64ulHºlTº1HNRUhÇgRºiÃº3:)bBºlRºPP./ºrN
+    cRlHSHNº.GHãhLuqRNºohiuãuETuNºHº.NLTlhTUMºiRºâDmuLRºlRº.NLTlRºlHºoTLRºdSRNNR
+    ERlHSgRºSH4hUTSºTºETSLuãuETÇgRºlHºHDESH4TlRNºiRNºUhãSRNºHºSHNhULTlRNºlHºNhTN
+    SHNEHãLuqTNºHDESHNTNºHNLTLTuNMºlHNlHºqhHºRNºTLRNºSH4hUTDHiLTSHNºãhDESTDºTN
+    luNERNuÇõHNºlTº-HuºiÃº3:/3:3)2:::MºlTº-HuºPRDEUHDHiLTSºiÃº3:3)2:::ºHººlTº-HuºiÃ
+    6/4:4)3b76ºHºRNºESuiãJEuRNºlTºelDuiuNLSTÇgRºchmUuãTMºHDºHNEHãuTUMºRºlTºUH4TUulTlHM
+    lTºuDEHNNRTUulTlHMºlTºDRSTUulTlHºHºlTºHfuãuêiãuT/ºrNºcRlHSHNº.GHãhLuqRNºlHqHDM
+    TuilTMºHNLTmHUHãHSºSH4STNºqhHºSHN4hTSlHDºHºESHquiTDºERNNJqHuNºlTiRNºTRºHSáSuR
+    RãTNuRiTlRNºERSºET4TDHiLRºlHºETSLuãuETÇõHNºuilHqulTNMºLTuNºãRDR:º
+    1)
+    ºãRiluãuRiTSºT
+    TEhSTÇgRºlTºETSãHUTºlHºUhãSRNºHºSHNhULTlRNºTºNHSºluNLSumhJlTºTºNHhNºHDESH4TlRNºT
+    TiLHSuRSºlHlhÇgRºiRNºUhãSRNºiTNºETSãHUTNºlHNLuiTlTNºà:º
+    a -
+    ºTESRESuTÇgRºlHºLRlRNºRN
+    NHhNºãhNLRNMºlHNEHNTNºHºESRquNõHNºlHºLSumhLRNºHºãRiLSumhuÇõHN;º
+    b -
+    ºãRiNLuLhuÇgRºlHºNhTN
+    SHNHSqTNºUH4TuNºHºHNLTLhLáSuTN;ºHMº
+    c - 
+    TESRESuTÇgRºlRNºluqulHilRNºlHqulRNºTRN
+    TãuRiuNLTN;ºHMº
+    2)
+    ºqHlTSºàNºHDESHNTNºHNLTLTuNºlHºluNLSumhuSºTRNºNHhNºHDESH4TlRN
+    qhTUqhHSºETSãHUTºlRNºUhãSRNºRhºSHNhULTlRNºTEhSTlRNºiTNºlHDRiNLSTÇõHNºãRiLámHuNM
+    qhTilRºTNºHDESHNTN;º
+    a -
+    ºfRSHDºHNLTLTuNºlHEHilHiLHNMºiRNºLHSDRNºlRºTSLu4Rº2ÃMºnnnMºlT
+    -HuºiÃº3:3)2:::;º
+    b -
+    ºERNNhJSHDºlJqulTNºqHiãulTNMºlHºqhTUqhHSºiTLhSHzTºRhºqTURSMºãRD
+    óS4gRNºHºHiLulTlHNºlTºelDuiuNLSTÇgRºcúmUuãTºluSHLTºRhºuiluSHLTMºDHNDRºqhHºHDºfTNH
+    lHºiH4RãuTÇgRºTlDuiuNLSTLuqTºRhºãRmSTiÇTºjhluãuTU;º
+    c -
+    ºTESHNHiLTSHDºESHjhJzRN
+    TãhDhUTlRNºTuilTºigRºLRLTUDHiLHºTmNRSqulRNºERSºSHNhULTlRNºERNLHSuRSHN;º
+    d -
+    ºjáºLHSHD
+    ET4RNºTRNºNHhNºHDESH4TlRNºH)RhºTlDuiuNLSTlRSHNMºTºqhTUqhHSºLJLhURMºqTURSHNºERSºãRiLT
+    lHºUhãSRNºRhºSHNhULTlRN;ºHMº
+    e -
+    ºigRºHNLTmHUHÇTDºHDºNHhº.NLTLhLRº5RãuTUºRºEHSãHiLhTU
+    DáGuDRºlRNºUhãSRNºTºNHSHDºluNLSumhJlRNºETSTºHDESH4TlRNºHºTlDuiuNLSTlRSHNM
+    HNLTmHUHãulRºHDºfhiÇgRºlRºEHSãHiLhTUºlRºUhãSRºlHNLuiTlRºTRNºTãuRiuNLTN/
+    C:\5HãSHLTSuTºlRºcUHiR\2:33\1HNRUhÇõHNºlHºPRiNhULT\1HNRUhÇgRºlHºPRiNhULTºiÃº:33_33/RlL
+    ººorP
+    OuNLRNMºSHUTLTlRNºHºluNãhLulRNºRNºThLRNºlRºcSRãHNNR
+    iÃº
+    2.592-5
+    /2011.
+    O TRIBUNAL DE CONTAS DO ESTADO DE MATO GROSSO
+    MºiRN
+    LHSDRNºlRNºTSLu4RNº3ÃMºuiãuNRºXOnnMº48ºHº4bMºLRlRNºlTº-HuºPRDEUHDHiLTSºiÃº26b)2::bº(-HuºrS4âiuãT
+    lRº9SumhiTUºlHºPRiLTNºlRº.NLTlRºlHºoTLRºdSRNNR)º
+    HºlRNºTSLu4RNº2bMºuiãuNRºXnMºHº83MºuiãuNRºnOMºlT
+    1HNRUhÇgRºiÃº34)2::7º(1H4uDHiLRºniLHSiRºlRº9SumhiTUºlHºPRiLTNºlRº.NLTlRºlHºoTLRºdSRNNR)M
+    ºSHNRUqH
+    ERSºhiTiuDulTlHMºTãRDETihTilRºRºqRLRºlRºPRiNHUhHuSRº1HUTLRSºHºlHºTãRSlRºãRDºRºcTSHãHSºiÃ
+    3/:7B)2:33ºlRºouiuNL6SuRºcúmUuãRºlHºPRiLTNMº
+    HDºSHNERilHSºTRºãRiNhUHiLHºqhH:ºº
+    eNºHDESHNTNºHNLTLTuN
+    lRNº.NLTlRNºHºohiuãJEuRNºigRºHNLgRºNRmºTº64ulHºlTº1HNRUhÇgRºiÃº3:)bBºlRºPP./ºrNºcRlHSHN
+    .GHãhLuqRNºohiuãuETuNºHº.NLTlhTUMºiRºâDmuLRºlRº.NLTlRºlHºoTLRºdSRNNRºERlHSgRºSH4hUTSºT
+    ETSLuãuETÇgRºlHºHDESH4TlRNºiRNºUhãSRNºHºSHNhULTlRNºlHºNhTNºSHNEHãLuqTNºHDESHNTNºHNLTLTuNMºlHNlHºqhH
+    RNºTLRNºSH4hUTDHiLTSHNºãhDESTDºTNºluNERNuÇõHNºlTº-HuºiÃº3:/3:3)2:::MºlTº-HuºPRDEUHDHiLTSºiÃ
+    3:3)2:::ºHºlTº-HuºiÃº6/4:4)3b76ºHºRNºESuiãJEuRNºlTºelDuiuNLSTÇgRºchmUuãTMºHDºHNEHãuTUMºRºlT
+    UH4TUulTlHMºlTºuDEHNNRTUulTlHMºlTºDRSTUulTlHºHºlTºHfuãuêiãuT/ºrNºcRlHSHNº.GHãhLuqRNºlHqHDMºTuilTM
+    HNLTmHUHãHSºSH4STNºqhHºSHN4hTSlHDºHºESHquiTDºERNNJqHuNºlTiRNºTRºHSáSuRºRãTNuRiTlRNºERSºET4TDHiLR
+    lHºETSLuãuETÇõHNºuilHqulTNMºLTuNºãRDR:
+    ºãRiluãuRiTSºTºTEhSTÇgRºlTºETSãHUTºlHºUhãSRNºHºSHNhULTlRNºT
+    NHSºluNLSumhJlTºTºNHhNºHDESH4TlRNººTºTiLHSuRSºlHlhÇgRºiRNºUhãSRNºiTNºETSãHUTNºlHNLuiTlTNºà:º
+    a -
+    TESRESuTÇgRºlHºLRlRNºRNºNHhNºãhNLRNMºlHNEHNTNºHºESRquNõHNºlHºLSumhLRNºHºãRiLSumhuÇõHN;º
+    b -
+    ºãRiNLuLhuÇgR
+    lHºNhTNºSHNHSqTNºUH4TuNºHºHNLTLhLáSuTN;ºHMº
+    c - 
+    TESRESuTÇgRºlRNºluqulHilRNºlHqulRNºTRNºTãuRiuNLTN;ºHMº
+    qHlTSºàNºHDESHNTNºHNLTLTuNºlHºluNLSumhuSºTRNºNHhNºHDESH4TlRNºqhTUqhHSºETSãHUTºlRNºUhãSRNºRh
+    SHNhULTlRNºTEhSTlRNºiTNºlHDRiNLSTÇõHNºãRiLámHuNMºqhTilRºTNºHDESHNTN;º
+    a -
+    ºfRSHDºHNLTLTuN
+    lHEHilHiLHNMºiRNºLHSDRNºlRºTSLu4Rº2ÃMºnnnMºlTº-HuºiÃº3:3)2:::;º
+    b -
+    ºERNNhJSHDºlJqulTNºqHiãulTNMºlH
+    qhTUqhHSºiTLhSHzTºRhºqTURSMºãRDºóS4gRNºHºHiLulTlHNºlTºelDuiuNLSTÇgRºcúmUuãTºluSHLTºRhºuiluSHLTM
+    DHNDRºqhHºHDºfTNHºlHºiH4RãuTÇgRºTlDuiuNLSTLuqTºRhºãRmSTiÇTºjhluãuTU;º
+    c -
+    ºTESHNHiLTSHDºESHjhJzRN
+    TãhDhUTlRNºTuilTºigRºLRLTUDHiLHºTmNRSqulRNºERSºSHNhULTlRNºERNLHSuRSHN;º
+    d -
+    ºjáºLHSHDºET4RNºTRNºNHhN
+    HDESH4TlRNºH)RhºTlDuiuNLSTlRSHNMºTºqhTUqhHSºLJLhURMºqTURSHNºERSºãRiLTºlHºUhãSRNºRhºSHNhULTlRN;ºHMº
+    e -
+    igRºHNLTmHUHÇTDºHDºNHhº.NLTLhLRº5RãuTUºRºEHSãHiLhTUºDáGuDRºlRNºUhãSRNºTºNHSHDºluNLSumhJlRNºETST
+    HDESH4TlRNºHºTlDuiuNLSTlRSHNMºHNLTmHUHãulRºHDºfhiÇgRºlRºEHSãHiLhTUºlRºUhãSRºlHNLuiTlRºTRN
+    TãuRiuNLTN
+    /º
+    Encaminhe-se
+    ººTRºãRiNhUHiLHºãóEuTNºlHNLHººSHUTLóSuRºHºqRLRMºmHDºãRDRºTººJiLH4STºlR
+    cTSHãHSºiÃº::b)2:33ºlTºPRiNhULRSuTº96ãiuãTºlHº.NLhlRNMºsRSDTNºHºeqTUuTÇgR/º
+    eEóNºTNºTiRLTÇõHNººlH
+    ESTGHMºTSqhuqHD-NHºRNºThLRN/
+    C:\5HãSHLTSuTºlRºcUHiR\2:33\1HNRUhÇõHNºlHºPRiNhULT\1HNRUhÇgRºlHºPRiNhULTºiÃº:33_33/RlL
+    ººorP
+    Processo nº
+    2.592-5/2011
+    Interessada
+    COMPANHIA DE SANEAMENTO DA CAPITAL
+    Assunto
+    Consulta
+    Relator 
+    Conselheiro ALENCAR SOARES
+    Sessão de Julgamento 
+    RESOLUÇÃO DE CONSULTA Nº 31/2011
+    TSLuãuETSTDºlRºjhU4TDHiLRºRNº5HihRSHNºPRiNHUhHuSRNºes9rsnr
+    JreA0noMºWe-2n1ºJÚ-nrº9.n5ºHº2ronsdr5ºs.9r/º
+    cTSLuãuETSTDMºTuilTMºlRºjhU4TDHiLRºRºehluLRSº5hmNLuLhLRºlHºPRiNHUhHuSR
+    n5ene5º-rc.5º2eºP0s eMºHDºNhmNLuLhuÇgRºTRºPRiNHUhHuSRºJr5ÉºPe1-r5ºsrO.--nMºHºR
+    ehluLRSº5hmNLuLhLRºlHºPRiNHUhHuSRº-0nZº .s1nA0.º-noeMºHDºNhmNLuLhuÇgRºTRºPRiNHUhHuSR
+     0oa.19rºar5encrMºãRifRSDHºTSLu4Rº3:4MºuiãuNRºnMºlTº1HNRUhÇgRºiÃº34)2::7
+    cSHNHiLHMºSHESHNHiLTilRºRºouiuNL6SuRºcúmUuãRºlHºPRiLTNMºRºcSRãhSTlRS
+    dHSTUºe-n55rsºPe1Oe- rº2.ºe-.sPe1/
+    Publique-se.
+    5TUTºlTNº5HNNõHNMº26ºlHºTmSuUºlHº2:33/º
+    Prs5.- .n1rºOe-9.1ºe-aesr
+    ººººººººººººººººººººººcSHNulHiLHº
+    Prs5.- .n1rºe-.sPe1º5re1.5
+    1HUTLRS
+    e-n55rsºPe1Oe- rº2.ºe-.sPe1
+    ººººººººººººººººººººcSRãhSTlRSºdHSTUº
+    C:\5HãSHLTSuTºlRºcUHiR\2:33\1HNRUhÇõHNºlHºPRiNhULT\1HNRUhÇgRºlHºPRiNhULTºiÃº:33_33/RlL
+    ººorP
+    
+
+Foram conciliadas duas leituras das 41 páginas do catálogo. Cada documento foi consultado duas vezes, com situação de integridade e ressalvas descritas acima. A transcrição mantém o texto extraível por página, com tipografia simplificada; imagens não foram transcritas e não houve OCR. Processos, decisões e demais atos apenas citados não tiveram todos os seus documentos coletados.
+
+## Ementa
+
+Ementa: COMPANHIA DE SANEAMENTO DA CAPITAL. CONSULTA. PESSOAL. PARTICIPAÇÃO DOS TRABALHADORES NOS LUCROS E RESULTADOS. EMPRESA ESTATAL. REGULAMENTAÇÃO PELO ENTE FEDERATIVO CONTROLADOR. POSSIBILIDADE, DESDE QUE PREENCHIDOS REQUISITOS. As empresas estatais dos Estados e Municípios não estão sob a égide da Resolução nº 10/95 do CCE. Os Poderes Executivos Municipais e Estadual, no âmbito do Estado de Mato Grosso poderão regular a participação de empregados nos lucros e resultados de suas respectivas empresas estatais, desde que os atos regulamentares cumpram as disposições da Lei nº 10.101/2000, da Lei Complementar nº 101/2000 e da Lei nº 6.404/1976 e os princípios da Administração Publica, em especial, o da legalidade, da impessoalidade, da moralidade e da eficiência. Os Poderes Executivos devem, ainda, estabelecer regras que resguardem e previnam possíveis danos ao erário ocasionados por pagamento de participações indevidas, tais como: 1) condicionar a apuração da parcela de lucros e resultados a ser distribuída a seus empregados a anterior dedução nos lucros nas parcelas destinadas à: a - apropriação de todos os seus custos, despesas e provisões de tributos e contribuições; b - constituição de suas reservas legais e estatutárias; e, c - apropriação dos dividendos devidos aos acionistas; e, 2) vedar às empresas estatais de distribuir aos seus empregados qualquer parcela dos lucros ou resultados apurados nas demonstrações contábeis, quando as empresas; a - forem estatais dependentes, nos termos do artigo 2º, III, da Lei nº 101/2000; b - possuírem dívidas vencidas, de qualquer natureza (...)
+
+## Decisão
+
+### Documento oficial — página 1
+
+    Processo nº          2.592-5/2011
+    Interessada          COMPANHIA DE SANEAMENTO DA CAPITAL
+    Assunto              Consulta
+    Relator              Conselheiro ALENCAR SOARES
+    Sessão de Julgamento 26-4-2011
+    
+                                      RESOLUÇÃO DE CONSULTA Nº 31/2011
+    
+                                      Ementa: COMPANHIA DE SANEAMENTO DA CAPITAL. CONSULTA. PESSOAL.
+                                      PARTICIPAÇÃO DOS TRABALHADORES NOS LUCROS E RESULTADOS. EMPRESA
+                                      ESTATAL.        REGULAMENTAÇÃO                 PELO    ENTE   FEDERATIVO   CONTROLADOR.
+                                      POSSIBILIDADE, DESDE QUE PREENCHIDOS REQUISITOS . As empresas estatais dos
+                                      Estados e Municípios não estão sob a égide da Resolução nº 10/95 do CCE. Os
+                                      Poderes Executivos Municipais e Estadual, no âmbito do Estado de Mato Grosso
+                                      poderão regular a participação de empregados nos lucros e resultados de suas
+                                      respectivas empresas estatais, desde que os atos regulamentares cumpram as
+                                      disposições da Lei nº 10.101/2000, da Lei Complementar nº 101/2000 e da Lei nº
+                                      6.404/1976 e os princípios da Administração Publica, em especial, o da legalidade,
+                                      da impessoalidade, da moralidade e da eficiência. Os Poderes Executivos devem,
+                                      ainda, estabelecer regras que resguardem e previnam possíveis danos ao erário
+                                      ocasionados por pagamento de participações indevidas, tais como: 1) condicionar a
+                                      apuração da parcela de lucros e resultados a ser distribuída a seus empregados a
+                                      anterior dedução nos lucros nas parcelas destinadas à: a - apropriação de todos os
+                                      seus custos, despesas e provisões de tributos e contribuições; b - constituição de suas
+                                      reservas legais e estatutárias; e, c - apropriação dos dividendos devidos aos
+                                      acionistas; e, 2) vedar às empresas estatais de distribuir aos seus empregados
+                                      qualquer parcela dos lucros ou resultados apurados nas demonstrações contábeis,
+                                      quando as empresas; a - forem estatais dependentes, nos termos do artigo 2º, III, da
+                                      Lei nº 101/2000; b - possuírem dívidas vencidas, de qualquer natureza ou valor, com
+                                      órgãos e entidades da Administração Pública direta ou indireta, mesmo que em fase
+                                      de negociação administrativa ou cobrança judicial; c - apresentarem prejuízos
+                                      acumulados ainda não totalmente absorvidos por resultados posteriores; d - já terem
+                                      pagos aos seus empregados e/ou administradores, a qualquer título, valores por conta
+                                      de lucros ou resultados; e, e - não estabeleçam em seu Estatuto Social o percentual
+                                      máximo dos lucros a serem distribuídos para empregados e administradores,
+                                      estabelecido em função do percentual do lucro destinado aos acionistas.
+    
+    
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 031_11.odt           MOC         1
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+### Documento oficial — página 2
+
+                                         Vistos, relatados e discutidos os autos do Processo nº 2.592-5/2011.
+    
+    
+                                         O TRIBUNAL DE CONTAS DO ESTADO DE MATO GROSSO, nos
+    termos dos artigos 1º, inciso XVII, 48 e 49, todos da Lei Complementar nº 269/2009 (Lei Orgânica
+    do Tribunal de Contas do Estado de Mato Grosso) e dos artigos 29, inciso XI, e 81, inciso IV, da
+    Resolução nº 14/2007 (Regimento Interno do Tribunal de Contas do Estado de Mato Grosso), resolve
+    por unanimidade, acompanhando o voto do Conselheiro Relator e de acordo com o Parecer nº
+    1.075/2011 do Ministério Público de Contas, em responder ao consulente que: As empresas estatais
+    dos Estados e Municípios não estão sob a égide da Resolução nº 10/95 do CCE. Os Poderes
+    Executivos Municipais e Estadual, no âmbito do Estado de Mato Grosso poderão regular a
+    participação de empregados nos lucros e resultados de suas respectivas empresas estatais, desde que
+    os atos regulamentares cumpram as disposições da Lei nº 10.101/2000, da Lei Complementar nº
+    101/2000 e da Lei nº 6.404/1976 e os princípios da Administração Publica, em especial, o da
+    legalidade, da impessoalidade, da moralidade e da eficiência. Os Poderes Executivos devem, ainda,
+    estabelecer regras que resguardem e previnam possíveis danos ao erário ocasionados por pagamento
+    de participações indevidas, tais como: 1) condicionar a apuração da parcela de lucros e resultados a
+    ser distribuída a seus empregados a anterior dedução nos lucros nas parcelas destinadas à: a -
+    apropriação de todos os seus custos, despesas e provisões de tributos e contribuições; b - constituição
+    de suas reservas legais e estatutárias; e, c - apropriação dos dividendos devidos aos acionistas; e, 2)
+    vedar às empresas estatais de distribuir aos seus empregados qualquer parcela dos lucros ou
+    resultados apurados nas demonstrações contábeis, quando as empresas; a - forem estatais
+    dependentes, nos termos do artigo 2º, III, da Lei nº 101/2000; b - possuírem dívidas vencidas, de
+    qualquer natureza ou valor, com órgãos e entidades da Administração Pública direta ou indireta,
+    mesmo que em fase de negociação administrativa ou cobrança judicial; c - apresentarem prejuízos
+    acumulados ainda não totalmente absorvidos por resultados posteriores; d - já terem pagos aos seus
+    empregados e/ou administradores, a qualquer título, valores por conta de lucros ou resultados; e, e -
+    não estabeleçam em seu Estatuto Social o percentual máximo dos lucros a serem distribuídos para
+    empregados e administradores, estabelecido em função do percentual do lucro destinado aos
+    acionistas. Encaminhe-se ao consulente cópias deste relatório e voto, bem como a íntegra do
+    Parecer nº 009/2011 da Consultoria Técnica de Estudos, Normas e Avaliação. Após as anotações de
+    praxe, arquivem-se os autos.
+    
+    
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 031_11.odt   MOC        2
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+### Documento oficial — página 3
+
+    Processo nº                          2.592-5/2011
+    Interessada                          COMPANHIA DE SANEAMENTO DA CAPITAL
+    Assunto                              Consulta
+    Relator                              Conselheiro ALENCAR SOARES
+    Sessão de Julgamento                 26-4-2011
+    
+                                         RESOLUÇÃO DE CONSULTA Nº 31/2011
+    
+    
+    
+    
+                                         Participaram do julgamento os Senhores Conselheiros ANTONIO
+    JOAQUIM, WALDIR JÚLIO TEIS e DOMINGOS NETO.
+    
+                                         Participaram, ainda, do julgamento o Auditor Substituto de Conselheiro
+    ISAIAS LOPES DA CUNHA, em substituição ao Conselheiro JOSÉ CARLOS NOVELLI, e o
+    Auditor Substituto de Conselheiro LUIZ HENRIQUE LIMA, em substituição ao Conselheiro
+    HUMBERTO BOSAIPO, conforme artigo 104, inciso I, da Resolução nº 14/2007.
+    
+                                         Presente, representando o Ministério Público de Contas, o Procurador
+    Geral ALISSON CARVALHO DE ALENCAR.
+    
+                                          Publique-se.
+    
+                                          Sala das Sessões, 26 de abril de 2011.
+    
+    
+    
+                                          CONSELHEIRO VALTER ALBANO
+                                                   Presidente
+    
+    
+    
+                                          CONSELHEIRO ALENCAR SOARES
+                                                     Relator
+    
+    
+    
+                                          ALISSON CARVALHO DE ALENCAR
+                                                   Procurador Geral
+    
+    
+    
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 031_11.odt   MOC   3
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -1,0 +1,616 @@
+# TCEMT · Resolução de Consulta
+
+**612 registros.** [Voltar ao tribunal](../)
+
+- [CON 9/2026](tcemt-con-10011.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2026](tcemt-con-10015.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 11/2026](tcemt-con-10023.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2026](tcemt-con-10024.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2026](tcemt-con-10034.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2026](tcemt-con-10037.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2026](tcemt-con-10038.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 16/2026](tcemt-con-10039.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2013](tcemt-con-1004.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 21/2013](tcemt-con-1005.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 22/2013](tcemt-con-1007.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2026](tcemt-con-10070.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 18/2026](tcemt-con-10085.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 19/2026](tcemt-con-10086.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2026](tcemt-con-10089.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 21/2026](tcemt-con-10090.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2026](tcemt-con-10102.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 23/2026](tcemt-con-10110.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 24/2026](tcemt-con-10111.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 23/2013](tcemt-con-1090.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 24/2013](tcemt-con-1091.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 25/2013](tcemt-con-1098.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2007](tcemt-con-113.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 28/2013](tcemt-con-1130.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 31/2013](tcemt-con-1131.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2007](tcemt-con-114.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2007](tcemt-con-115.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 27/2013](tcemt-con-1156.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 29/2013](tcemt-con-1157.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 30/2013](tcemt-con-1158.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 32/2013](tcemt-con-1159.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2007](tcemt-con-116.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 33/2013](tcemt-con-1160.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2007](tcemt-con-117.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2007](tcemt-con-118.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2014](tcemt-con-1184.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2007](tcemt-con-119.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2007](tcemt-con-120.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 26/2013](tcemt-con-1200.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2014](tcemt-con-1201.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2014](tcemt-con-1202.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2007](tcemt-con-121.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2014](tcemt-con-1217.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2014](tcemt-con-1218.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2007](tcemt-con-122.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2014](tcemt-con-1225.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2007](tcemt-con-123.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 12/2007](tcemt-con-124.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2014](tcemt-con-1243.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2008](tcemt-con-125.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2008](tcemt-con-126.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2014](tcemt-con-1269.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2008](tcemt-con-127.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2008](tcemt-con-128.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2008](tcemt-con-129.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2014](tcemt-con-1295.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2008](tcemt-con-130.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 10/2014](tcemt-con-1312.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2014](tcemt-con-1313.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 12/2014](tcemt-con-1325.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 13/2014](tcemt-con-1327.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14/2014](tcemt-con-1328.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 15/2014](tcemt-con-1329.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2014](tcemt-con-1334.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2014](tcemt-con-1335.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2014](tcemt-con-1338.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 19/2014](tcemt-con-1352.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 20/2014](tcemt-con-1374.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 21/2014](tcemt-con-1375.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 22/2014](tcemt-con-1376.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 23/2014](tcemt-con-1377.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2008](tcemt-con-139.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 24/2014](tcemt-con-1395.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 25/2014](tcemt-con-1396.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 26/2014](tcemt-con-1404.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2008](tcemt-con-146.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2015](tcemt-con-1461.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2015](tcemt-con-1462.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2008](tcemt-con-147.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2015](tcemt-con-1485.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2008](tcemt-con-152.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2015](tcemt-con-1522.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2015](tcemt-con-1523.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2015](tcemt-con-1560.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2015](tcemt-con-1578.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2015](tcemt-con-1582.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2015](tcemt-con-1593.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 10/2015](tcemt-con-1594.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2015](tcemt-con-1595.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2015](tcemt-con-1600.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2015](tcemt-con-1601.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14/2015](tcemt-con-1607.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2015](tcemt-con-1635.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2015](tcemt-con-1644.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 17/2015](tcemt-con-1646.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2015](tcemt-con-1659.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 19/2015](tcemt-con-1666.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2015](tcemt-con-1667.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 21/2015](tcemt-con-1676.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 23/2015](tcemt-con-1680.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 24/2015](tcemt-con-1681.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 25/2015](tcemt-con-1682.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 26/2015](tcemt-con-1683.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 27/2015](tcemt-con-1684.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 28/2015](tcemt-con-1685.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2015](tcemt-con-1696.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 1/2016](tcemt-con-1742.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2016](tcemt-con-1772.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2016](tcemt-con-1773.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2016](tcemt-con-1779.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2016](tcemt-con-1808.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 6/2016](tcemt-con-1822.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 7/2016](tcemt-con-1823.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2016](tcemt-con-1824.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2016](tcemt-con-1825.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 10/2016](tcemt-con-1827.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2016](tcemt-con-1843.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2016](tcemt-con-1844.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2016](tcemt-con-1848.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2016](tcemt-con-1864.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2016](tcemt-con-1865.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 16/2016](tcemt-con-1888.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 17/2016](tcemt-con-1889.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 11/2008](tcemt-con-192.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 12/2008](tcemt-con-193.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2016](tcemt-con-1937.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 19/2016](tcemt-con-1938.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2016](tcemt-con-1939.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2008](tcemt-con-194.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 21/2016](tcemt-con-1943.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2016](tcemt-con-1944.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2008](tcemt-con-195.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 23/2016](tcemt-con-1950.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 15/2008](tcemt-con-196.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2008](tcemt-con-197.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 24/2016](tcemt-con-1973.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 17/2008](tcemt-con-198.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 25/2016](tcemt-con-1980.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 26/2016](tcemt-con-1981.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 18/2008](tcemt-con-199.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 19/2008](tcemt-con-200.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 27/2016](tcemt-con-2006.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2008](tcemt-con-201.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 21/2008](tcemt-con-202.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 28/2016](tcemt-con-2022.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 29/2016](tcemt-con-2023.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2008](tcemt-con-203.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 23/2008](tcemt-con-204.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 24/2008](tcemt-con-205.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 25/2008](tcemt-con-206.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 26/2008](tcemt-con-207.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 27/2008](tcemt-con-208.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 28/2008](tcemt-con-209.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2017](tcemt-con-2096.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 29/2008](tcemt-con-210.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2017](tcemt-con-2106.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2017](tcemt-con-2107.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2017](tcemt-con-2108.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 30/2008](tcemt-con-211.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 29/2010](tcemt-con-2117.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 31/2008](tcemt-con-212.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 32/2008](tcemt-con-213.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2017](tcemt-con-2134.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 6/2017](tcemt-con-2135.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 33/2008](tcemt-con-214.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2017](tcemt-con-2146.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2017](tcemt-con-2147.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2017](tcemt-con-2148.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 34/2008](tcemt-con-215.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 35/2008](tcemt-con-216.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 36/2008](tcemt-con-217.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2017](tcemt-con-2174.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 11/2017](tcemt-con-2175.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2017](tcemt-con-2176.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 37/2008](tcemt-con-218.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 38/2008](tcemt-con-219.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 13/2017](tcemt-con-2199.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 39/2008](tcemt-con-220.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 40/2008](tcemt-con-222.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 41/2008](tcemt-con-223.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14/2017](tcemt-con-2235.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2017](tcemt-con-2236.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 42/2008](tcemt-con-224.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 43/2008](tcemt-con-225.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2017](tcemt-con-2250.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 44/2008](tcemt-con-226.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 45/2008](tcemt-con-227.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 46/2008](tcemt-con-228.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 47/2008](tcemt-con-229.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 48/2008](tcemt-con-230.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 49/2008](tcemt-con-231.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 50/2008](tcemt-con-232.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 51/2008](tcemt-con-233.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 52/2008](tcemt-con-234.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 53/2008](tcemt-con-235.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 54/2008](tcemt-con-236.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 55/2008](tcemt-con-237.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 56/2008](tcemt-con-238.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 57/2008](tcemt-con-239.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2009](tcemt-con-240.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2009](tcemt-con-241.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2009](tcemt-con-242.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2017](tcemt-con-2427.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2009](tcemt-con-243.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2009](tcemt-con-244.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2009](tcemt-con-245.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2009](tcemt-con-246.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2009](tcemt-con-247.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 19/2017](tcemt-con-2474.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2017](tcemt-con-2475.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 18/2017](tcemt-con-2476.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2009](tcemt-con-248.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 13/2007](tcemt-con-2482.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2009](tcemt-con-249.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2009](tcemt-con-250.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 21/2017](tcemt-con-2500.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2017](tcemt-con-2501.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2009](tcemt-con-251.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 23/2017](tcemt-con-2512.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2009](tcemt-con-252.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14/2009](tcemt-con-253.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 24/2017](tcemt-con-2537.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 25/2017](tcemt-con-2539.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2009](tcemt-con-254.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 26/2017](tcemt-con-2547.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 27/2017](tcemt-con-2548.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 16/2009](tcemt-con-255.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2009](tcemt-con-256.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2009](tcemt-con-257.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 19/2009](tcemt-con-258.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 28/2017](tcemt-con-2589.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2009](tcemt-con-259.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 29/2017](tcemt-con-2590.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 30/2017](tcemt-con-2598.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 31/2017](tcemt-con-2599.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 21/2009](tcemt-con-260.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 32/2017](tcemt-con-2600.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2009](tcemt-con-261.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 23/2009](tcemt-con-262.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 24/2009](tcemt-con-263.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 25/2009](tcemt-con-264.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 26/2009](tcemt-con-265.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 27/2009](tcemt-con-266.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2018](tcemt-con-2662.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2018](tcemt-con-2663.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 28/2009](tcemt-con-267.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2018](tcemt-con-2670.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 29/2009](tcemt-con-268.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2018](tcemt-con-2686.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2018](tcemt-con-2687.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 30/2009](tcemt-con-269.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2018](tcemt-con-2690.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 31/2009](tcemt-con-270.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 32/2009](tcemt-con-271.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 33/2009](tcemt-con-272.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 34/2009](tcemt-con-273.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 35/2009](tcemt-con-274.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 36/2009](tcemt-con-275.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2010](tcemt-con-276.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2010](tcemt-con-277.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2018](tcemt-con-2770.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2010](tcemt-con-278.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2010](tcemt-con-279.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2018](tcemt-con-2790.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2010](tcemt-con-280.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2018](tcemt-con-2800.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 10/2018](tcemt-con-2801.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 6/2010](tcemt-con-281.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2010](tcemt-con-282.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2018](tcemt-con-2820.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2018](tcemt-con-2821.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2018](tcemt-con-2825.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2018](tcemt-con-2826.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2018](tcemt-con-2827.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 16/2018](tcemt-con-2828.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 17/2018](tcemt-con-2829.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2010](tcemt-con-283.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2010](tcemt-con-284.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2018](tcemt-con-2844.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 19/2018](tcemt-con-2845.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 10/2010](tcemt-con-285.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2010](tcemt-con-286.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 12/2010](tcemt-con-287.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 13/2010](tcemt-con-288.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 20/2018](tcemt-con-2887.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 21/2018](tcemt-con-2888.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2010](tcemt-con-289.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 15/2010](tcemt-con-290.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2010](tcemt-con-291.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2010](tcemt-con-292.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2010](tcemt-con-293.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2019](tcemt-con-2932.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2019](tcemt-con-2938.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 19/2010](tcemt-con-294.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 20/2010](tcemt-con-295.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 21/2010](tcemt-con-296.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2019](tcemt-con-2965.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2010](tcemt-con-297.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 23/2010](tcemt-con-298.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 24/2010](tcemt-con-299.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 25/2010](tcemt-con-300.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 26/2010](tcemt-con-301.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 27/2010](tcemt-con-302.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 28/2010](tcemt-con-303.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2019](tcemt-con-3037.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 30/2010](tcemt-con-304.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 31/2010](tcemt-con-305.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 32/2010](tcemt-con-306.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 33/2010](tcemt-con-307.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 34/2010](tcemt-con-308.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 35/2010](tcemt-con-309.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2019](tcemt-con-3090.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 36/2010](tcemt-con-310.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2019](tcemt-con-3101.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 7/2019](tcemt-con-3105.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 37/2010](tcemt-con-311.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 38/2010](tcemt-con-312.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2019](tcemt-con-3127.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 39/2010](tcemt-con-313.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 40/2010](tcemt-con-314.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 41/2010](tcemt-con-315.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 42/2010](tcemt-con-316.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 43/2010](tcemt-con-317.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 44/2010](tcemt-con-318.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 45/2010](tcemt-con-319.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 46/2010](tcemt-con-320.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 47/2010](tcemt-con-321.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 48/2010](tcemt-con-322.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 49/2010](tcemt-con-323.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2020](tcemt-con-3231.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 50/2010](tcemt-con-324.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 51/2010](tcemt-con-325.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 52/2010](tcemt-con-326.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 53/2010](tcemt-con-327.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 54/2010](tcemt-con-328.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2020](tcemt-con-3286.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 55/2010](tcemt-con-329.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 56/2010](tcemt-con-330.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2020](tcemt-con-3309.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 57/2010](tcemt-con-331.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2020](tcemt-con-3310.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 58/2010](tcemt-con-332.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 59/2010](tcemt-con-333.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2020](tcemt-con-3335.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 60/2010](tcemt-con-334.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 61/2010](tcemt-con-335.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 62/2010](tcemt-con-336.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 63/2010](tcemt-con-337.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2020](tcemt-con-3379.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 64/2010](tcemt-con-338.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2020](tcemt-con-3380.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2020](tcemt-con-3381.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 65/2010](tcemt-con-339.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 66/2010](tcemt-con-340.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 67/2010](tcemt-con-341.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 68/2010](tcemt-con-342.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 69/2010](tcemt-con-343.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2011](tcemt-con-344.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2011](tcemt-con-345.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2021](tcemt-con-3450.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2011](tcemt-con-346.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2011](tcemt-con-347.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2021](tcemt-con-3472.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2021](tcemt-con-3473.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2011](tcemt-con-348.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2011](tcemt-con-349.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2011](tcemt-con-350.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2011](tcemt-con-351.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2011](tcemt-con-352.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2011](tcemt-con-353.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2011](tcemt-con-354.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 12/2011](tcemt-con-355.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2021](tcemt-con-3553.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2021](tcemt-con-3559.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2011](tcemt-con-356.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2021](tcemt-con-3560.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 7/2021](tcemt-con-3566.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2021](tcemt-con-3567.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2021](tcemt-con-3568.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2011](tcemt-con-357.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2021](tcemt-con-3570.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2011](tcemt-con-358.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2011](tcemt-con-359.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2021](tcemt-con-3599.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2021](tcemt-con-3600.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2021](tcemt-con-3601.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14/2021](tcemt-con-3602.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2011](tcemt-con-361.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2011](tcemt-con-362.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 19/2011](tcemt-con-363.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 15/2021](tcemt-con-3632.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2011](tcemt-con-364.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2021](tcemt-con-3649.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 21/2011](tcemt-con-365.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 22/2011](tcemt-con-366.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2021](tcemt-con-3664.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 23/2011](tcemt-con-367.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2021](tcemt-con-3673.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 24/2011](tcemt-con-368.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 25/2011](tcemt-con-369.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 26/2011](tcemt-con-370.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 27/2011](tcemt-con-371.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 28/2011](tcemt-con-372.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 29/2011](tcemt-con-373.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 30/2011](tcemt-con-374.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2022](tcemt-con-3747.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2022](tcemt-con-3748.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2022](tcemt-con-3749.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 31/2011](tcemt-con-375.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 32/2011](tcemt-con-376.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 33/2011](tcemt-con-377.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 34/2011](tcemt-con-378.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2022](tcemt-con-3788.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2022](tcemt-con-3789.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 35/2011](tcemt-con-379.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2022](tcemt-con-3790.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 36/2011](tcemt-con-380.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 37/2011](tcemt-con-381.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2022](tcemt-con-3818.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 38/2011](tcemt-con-382.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2022](tcemt-con-3822.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 39/2011](tcemt-con-383.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2022](tcemt-con-3839.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 40/2011](tcemt-con-384.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2022](tcemt-con-3840.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 11/2022](tcemt-con-3841.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 41/2011](tcemt-con-385.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 13/2022](tcemt-con-3858.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2022](tcemt-con-3859.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 1/2022 - PV](tcemt-con-3929.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2022 - PV](tcemt-con-3930.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2022 - PV](tcemt-con-3931.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2022 - PV](tcemt-con-3932.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2022](tcemt-con-3958.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2022](tcemt-con-3959.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 16/2022](tcemt-con-3960.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 17/2022](tcemt-con-3961.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 18/2022](tcemt-con-3962.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2022 - PV](tcemt-con-3968.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 6/2022 - PV](tcemt-con-3969.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2019](tcemt-con-4006.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 1/2023](tcemt-con-4024.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2023](tcemt-con-4026.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2023](tcemt-con-4038.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2023](tcemt-con-4051.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2023](tcemt-con-4052.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 6/2023](tcemt-con-4072.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 7/2023](tcemt-con-4073.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 1/2023 - PV](tcemt-con-4079.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2023 - PV](tcemt-con-4080.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2023 - PV](tcemt-con-4111.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2023 - PV](tcemt-con-4112.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 6/2023 - PV](tcemt-con-4113.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 7/2023 - PV](tcemt-con-4118.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2023 - PV](tcemt-con-4119.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2023 - PV](tcemt-con-4120.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 10/2023 - PV](tcemt-con-4128.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 11/2023 - PV](tcemt-con-4129.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2023 - PV](tcemt-con-4147.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2023 - PV](tcemt-con-4157.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2023 - PV](tcemt-con-4158.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2023 - PV](tcemt-con-4159.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 16/2023 - PV](tcemt-con-4160.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2023](tcemt-con-4180.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2023](tcemt-con-4183.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 17/2023 - PV](tcemt-con-4187.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2023 - PV](tcemt-con-4188.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2023 - PV](tcemt-con-4189.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 10/2023](tcemt-con-4204.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 11/2023](tcemt-con-4209.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2023](tcemt-con-4210.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2023](tcemt-con-4211.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 19/2023 - PV](tcemt-con-4212.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 20/2023 - PV](tcemt-con-4225.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 21/2023 - PV](tcemt-con-4273.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2023 - PV](tcemt-con-4274.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 23/2023 - PV](tcemt-con-4275.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 24/2023 - PV](tcemt-con-4276.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 25/2023 - PV](tcemt-con-4277.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 26/2023 - PV](tcemt-con-4332.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 27/2023 - PV](tcemt-con-4333.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 28/2023 - PV](tcemt-con-4334.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 29/2023 - PV](tcemt-con-4335.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 30/2023 - PV](tcemt-con-4336.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 1/2024 - PV](tcemt-con-4373.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2024 - PV](tcemt-con-4374.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2024 - PV](tcemt-con-4375.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2024 - PV](tcemt-con-4386.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2024 - PV](tcemt-con-4397.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 6/2024 - PV](tcemt-con-4398.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 7/2024 - PV](tcemt-con-4399.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2024](tcemt-con-4411.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2024](tcemt-con-4418.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 10/2024 - PV](tcemt-con-4426.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 11/2024](tcemt-con-4441.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2024](tcemt-con-4460.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2024 - PV](tcemt-con-4474.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2024](tcemt-con-4489.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2024](tcemt-con-4495.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 16/2024 - PV](tcemt-con-4496.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 17/2024](tcemt-con-4539.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 42/2011](tcemt-con-456.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 43/2011](tcemt-con-457.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 44/2011](tcemt-con-458.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 45/2011](tcemt-con-459.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 46/2011](tcemt-con-460.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 47/2011](tcemt-con-461.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2024](tcemt-con-4611.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 48/2011](tcemt-con-462.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 49/2011](tcemt-con-463.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 50/2011](tcemt-con-464.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 51/2011](tcemt-con-465.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 52/2011](tcemt-con-467.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 53/2011](tcemt-con-468.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2025](tcemt-con-4687.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 2/2025](tcemt-con-4688.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2025](tcemt-con-4698.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 54/2011](tcemt-con-470.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2025](tcemt-con-4704.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2025](tcemt-con-4705.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 55/2011](tcemt-con-471.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 56/2011](tcemt-con-472.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2025](tcemt-con-4728.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 57/2011](tcemt-con-473.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2025](tcemt-con-4739.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 58/2011](tcemt-con-474.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2025](tcemt-con-4748.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 9/2025](tcemt-con-4749.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 59/2011](tcemt-con-475.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2025](tcemt-con-4750.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 11/2025](tcemt-con-4767.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 14/2025](tcemt-con-4768.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 12/2025](tcemt-con-4769.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 13/2025](tcemt-con-4770.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 15/2025](tcemt-con-4793.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 16/2025](tcemt-con-4794.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 60/2011](tcemt-con-480.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2025](tcemt-con-4814.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 61/2011](tcemt-con-482.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2025](tcemt-con-4824.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 19/2025](tcemt-con-4825.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 20/2025](tcemt-con-4835.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 21/2025](tcemt-con-4846.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 22/2025](tcemt-con-4847.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 23/2025](tcemt-con-4852.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 24/2025](tcemt-con-4853.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 25/2025](tcemt-con-4856.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 26/2025](tcemt-con-4863.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 27/2025](tcemt-con-4882.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 28/2025 - PV](tcemt-con-4891.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 29/2025 - PV](tcemt-con-4892.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 30/2025 - PV](tcemt-con-4893.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 31/2025 - PV](tcemt-con-4894.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 1/2026](tcemt-con-4916.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 62/2011](tcemt-con-492.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 63/2011](tcemt-con-493.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 64/2011](tcemt-con-494.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2026](tcemt-con-4940.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 3/2026](tcemt-con-4941.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 4/2026](tcemt-con-4942.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 5/2026](tcemt-con-4943.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 6/2026](tcemt-con-4944.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 7/2026](tcemt-con-4945.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 8/2026](tcemt-con-4946.md) — Situação jurídica atual não informada pelo catálogo; confira a fonte e suas alterações
+- [CON 65/2011](tcemt-con-511.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 66/2011](tcemt-con-512.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 67/2011](tcemt-con-513.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 69/2011](tcemt-con-514.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 68/2011](tcemt-con-515.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2012](tcemt-con-551.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2012](tcemt-con-573.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2012](tcemt-con-574.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2012](tcemt-con-575.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2012](tcemt-con-592.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2012](tcemt-con-598.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2012](tcemt-con-601.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2012](tcemt-con-604.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2012](tcemt-con-607.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2012](tcemt-con-608.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2012](tcemt-con-617.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 12/2012](tcemt-con-633.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 13/2012](tcemt-con-634.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14/2012](tcemt-con-642.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 15/2012](tcemt-con-655.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2012](tcemt-con-674.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2012](tcemt-con-688.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 19/2012](tcemt-con-689.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 20/2012](tcemt-con-695.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 21/2012](tcemt-con-696.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 22/2012](tcemt-con-709.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 23/2012](tcemt-con-739.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 24/2012](tcemt-con-740.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 1/2013](tcemt-con-804.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 3/2013](tcemt-con-808.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 2/2013](tcemt-con-809.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 4/2013](tcemt-con-815.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2012](tcemt-con-823.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 5/2013](tcemt-con-824.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 6/2013](tcemt-con-833.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 7/2013](tcemt-con-838.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 8/2013](tcemt-con-848.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 9/2013](tcemt-con-850.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 10/2013](tcemt-con-865.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 11/2013](tcemt-con-871.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 12/2013](tcemt-con-876.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 13/2013](tcemt-con-877.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 14/2013](tcemt-con-880.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 15/2013](tcemt-con-902.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 16/2013](tcemt-con-903.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 17/2013](tcemt-con-904.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 18/2013](tcemt-con-913.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- [CON 19/2013](tcemt-con-999.md) — Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo

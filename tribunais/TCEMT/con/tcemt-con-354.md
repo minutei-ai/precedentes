@@ -1,0 +1,212 @@
+# TCEMT · CON 11/2011
+
+- **Órgão:** TCEMT
+- **Espécie:** Resolução de Consulta
+- **Número:** 11/2011
+- **Identificador:** `tcemt-con-354`
+- **Situação na fonte:** Situação jurídica atual não informada pelo catálogo; há pendências ou ressalvas documentais descritas abaixo
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TCEMT — Resoluções de Consulta e documentos oficiais](https://www.tce.mt.gov.br/legislacoes/resolucao-de-consulta)
+
+## Informações do catálogo oficial
+
+Título literal: Resolução de Consulta nº 11/2011 - Processo nº 112593/2010. Identificador imutável no catálogo: 354. Número informado: 11. Ano informado: 2011. data\_inicio informada pelo catálogo: 2011-03-01 00:00:00.
+
+O número e ano podem se repetir em sessões distintas. Foram mantidas separadas as séries identificadas no título como PV e as demais, com identidade pelo código oficial do cadastro. O catálogo não informa vigência individual; datas de cadastro não foram convertidas em atualização jurídica. O assunto abaixo é a ementa disponibilizada, sem ser tratado como tese autônoma consolidada.
+
+[Documento oficial: Resolução de Consulta nº 011\_11.pdf](https://www.tce.mt.gov.br/conteudo/download/resolucao-de-consulta-n-011-11-pdf/22217). Código do arquivo: 22217. Tamanho informado: 88590 bytes; tamanho obtido: 88590 bytes.
+
+### Pendências e ressalvas
+
+-   Campo texto adicional do cadastro não conciliado com o PDF; preservado literalmente.
+
+### Texto adicional literal do cadastro
+
+Este campo pode conter sequências corrompidas. Foi preservado como valor cadastral, sem reconstrução nem substituição do documento.
+
+     PREFIIRTUA
+    MMNCLDOV.CSMS
+    oUnFPFIIvêv
+     ieceolhimTthdoro mbTueTdçãmTtçdleTãeiue
+    mIIpUnR
+    rRUIpanv
+    iFavnRPT
+    rRUIFaàFsPRTgmbuoiTzÉboçTleoí
+    íFIIfRTêFTzpaúv,FUnRT
+    MAOVOCSMM
+    ieíçbhjqçTueTrçdíhblmTdATMM.CSMM
+    e,FUnvx
+    PREFEITURA MUNICIPAL DE NOVA MONTE VERDE. CONSULTA.
+    Convênio. Recolhimento de contribuição patronal à seguridade social.
+    Possibilidade de utilização de recurso do convênio.
+     É possível a utilização das
+    verbas transferidas pela administração pública estadual às entidades beneficentes de
+    assistência social para recolhimento de cota patronal ao INSS, relativo ao pessoal
+    contratado para atendimento do objeto do convênio, desde que haja previsão expressa
+    nesse sentido.
+    Vistos, relatados e discutidos os autos do Processo 
+    UATMMNCLDOV.CSMS
+    TçTlio1hdmbTueTrçdlmíTuçTeílmuçTueTtmlçTºiçííç
+    , nos
+    termos dos artigos 1º, inciso XVII, 48 e 49, todos da Lei Complementar nº 269/2009 (Lei Orgânica
+    do Tribunal de Contas do Estado de Mato Grosso) e dos artigos 29, inciso XI, e 81, inciso IV, da
+    Resolução nº 14/2007 (Regimento Interno do Tribunal de Contas do Estado de Mato Grosso),
+    resolve, por unanimidade, acompanhando o voto do Conselheiro Relator e de acordo com o Parecer
+    nº 4.683/2010 do Ministério Público de Contas, responder ao consulente que:
+     é possível a utilização
+    das verbas transferidas pela administração pública estadual às entidades beneficentes de assistência
+    social para recolhimento de cota patronal ao INSS, relativo ao pessoal contratado para atendimento
+    do objeto do convênio, desde que haja previsão expressa nesse sentido. 
+    eUEv,sUàFOIFT
+    cópia do voto
+    do Conselheiro Relator, do Parecer da Consultoria Técnica e do Ministério Público de Contas, bem
+    como desta decisão ao consulente no endereço eletrônico
+    www.prefeitura@novamonteverde.mt.gov.br
+    Presidiu o j
+    ulgamento, em substituição legal, o Conselheiro JOSÉ
+    CARLOS NOVELLI - Corregedor Geral.
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 011_11.odt
+    AN
+     PREFIIRTUA
+    MMNCLDOV.CSMS
+    oUnFPFIIvêv
+     ieceolhimTthdoro mbTueTdçãmTtçdleTãeiue
+    mIIpUnR
+    rRUIpanv
+    iFavnRPT
+    rRUIFaàFsPRTgmbuoiTzÉboçTleoí
+    íFIIfRTêFTzpaúv,FUnRT
+    MAOVOCSMM
+    ieíçbhjqçTueTrçdíhblmTdATMM.CSMM
+    Participaram do julgamento os Senhores Conselheiros HUMBERTO
+    BOSAIPO e DOMINGOS NETO.
+    Participaram, ainda, do julgamento, o Auditor Substituto de Conselheiro
+    LUIZ HENRIQUE LIMA, em substituição ao Conselheiro ANTONIO JOAQUIM, o Auditor
+    Substituto de Conselheiro ISAIAS LOPES DA CUNHA, em substituição ao Conselheiro JOSÉ
+    CARLOS NOVELLI, e o Auditor Substituto de Conselheiro LUIZ CARLOS PEREIRA, em
+    substituição ao Conselheiro ALENCAR SOARES, conforme artigo 104, inciso I, da Resolução nº
+    14/2007.
+    Presente, representando o Ministério Público de Contas, o Procurador
+    Geral, em substituição legal, WILLIAM DE ALMEIDA BRITO JÚNIOR.
+     pXas4pFOIF
+    Sala das Sessões, 1º de março de 2011. 
+    CONSELHEIRO JOSÉ CARLOS NOVELLI - Corregedor Geral   
+                           Presidente em substituição legal
+    CONSELHEIRO WALDIR JÚLIO TEIS
+                                Relator 
+    WILLIAM DE ALMEIDA BRITO JÚNIOR
+        Procurador Geral em substituição legal
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 011_11.odt
+    AN
+    
+
+Foram conciliadas duas leituras das 41 páginas do catálogo. Cada documento foi consultado duas vezes, com situação de integridade e ressalvas descritas acima. A transcrição mantém o texto extraível por página, com tipografia simplificada; imagens não foram transcritas e não houve OCR. Processos, decisões e demais atos apenas citados não tiveram todos os seus documentos coletados.
+
+## Ementa
+
+Ementa: PREFEITURA MUNICIPAL DE NOVA MONTE VERDE. CONSULTA. Convênio. Recolhimento de contribuição patronal à seguridade social. Possibilidade de utilização de recurso do convênio. É possível a utilização das verbas transferidas pela administração pública estadual às entidades beneficentes de assistência social para recolhimento de cota patronal ao INSS, relativo ao pessoal contratado para atendimento do objeto do convênio, desde que haja previsão expressa nesse sentido.
+
+## Decisão
+
+### Documento oficial — página 1
+
+    Processo nº                   11.259-3/2010
+    Interessada                   PREFEITURA MUNICIPAL DE NOVA MONTE VERDE
+    Assunto                       Consulta
+    Relator                       Conselheiro WALDIR JÚLIO TEIS
+    Sessão de Julgamento          1º-3-2011
+    
+    
+                                  RESOLUÇÃO DE CONSULTA Nº 11/2011
+    
+    
+                                  Ementa:      PREFEITURA MUNICIPAL DE NOVA MONTE VERDE. CONSULTA.
+    
+                                  Convênio. Recolhimento de contribuição patronal à seguridade social.
+                                  Possibilidade de utilização de recurso do convênio. É possível a utilização das
+                                  verbas transferidas pela administração pública estadual às entidades beneficentes de
+                                  assistência social para recolhimento de cota patronal ao INSS, relativo ao pessoal
+                                  contratado para atendimento do objeto do convênio, desde que haja previsão expressa
+                                  nesse sentido.
+    
+    
+                                  Vistos, relatados e discutidos os autos do Processo nº 11.259-3/2010.
+    
+    
+                                  O TRIBUNAL DE CONTAS DO ESTADO DE MATO GROSSO, nos
+    termos dos artigos 1º, inciso XVII, 48 e 49, todos da Lei Complementar nº 269/2009 (Lei Orgânica
+    do Tribunal de Contas do Estado de Mato Grosso) e dos artigos 29, inciso XI, e 81, inciso IV, da
+    Resolução nº 14/2007 (Regimento Interno do Tribunal de Contas do Estado de Mato Grosso),
+    resolve, por unanimidade, acompanhando o voto do Conselheiro Relator e de acordo com o Parecer
+    nº 4.683/2010 do Ministério Público de Contas, responder ao consulente que: é possível a utilização
+    das verbas transferidas pela administração pública estadual às entidades beneficentes de assistência
+    social para recolhimento de cota patronal ao INSS, relativo ao pessoal contratado para atendimento
+    do objeto do convênio, desde que haja previsão expressa nesse sentido. Encaminhe-se cópia do voto
+    do Conselheiro Relator, do Parecer da Consultoria Técnica e do Ministério Público de Contas, bem
+    como          desta        decisão             ao      consulente          no        endereço         eletrônico:
+    www.prefeitura@novamonteverde.mt.gov.br.
+    
+    
+                                  Presidiu o julgamento, em substituição legal, o Conselheiro JOSÉ
+    CARLOS NOVELLI - Corregedor Geral.
+    
+    
+    
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 011_11.odt          AN         1
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+#### Referências anotadas nesta página
+
+-   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
+
+### Documento oficial — página 2
+
+    Processo nº                   11.259-3/2010
+    Interessada                   PREFEITURA MUNICIPAL DE NOVA MONTE VERDE
+    Assunto                       Consulta
+    Relator                       Conselheiro WALDIR JÚLIO TEIS
+    Sessão de Julgamento          1º-3-2011
+    
+    
+                                  RESOLUÇÃO DE CONSULTA Nº 11/2011
+    
+    
+                                  Participaram do julgamento os Senhores Conselheiros HUMBERTO
+    BOSAIPO e DOMINGOS NETO.
+    
+    
+                                  Participaram, ainda, do julgamento, o Auditor Substituto de Conselheiro
+    LUIZ HENRIQUE LIMA, em substituição ao Conselheiro ANTONIO JOAQUIM, o Auditor
+    Substituto de Conselheiro ISAIAS LOPES DA CUNHA, em substituição ao Conselheiro JOSÉ
+    CARLOS NOVELLI, e o Auditor Substituto de Conselheiro LUIZ CARLOS PEREIRA, em
+    substituição ao Conselheiro ALENCAR SOARES, conforme artigo 104, inciso I, da Resolução nº
+    14/2007.
+                                  Presente, representando o Ministério Público de Contas, o Procurador
+    Geral, em substituição legal, WILLIAM DE ALMEIDA BRITO JÚNIOR.
+    
+                                  Publique-se.
+    
+                                  Sala das Sessões, 1º de março de 2011.
+    
+    
+    
+                                  CONSELHEIRO JOSÉ CARLOS NOVELLI - Corregedor Geral
+                                           Presidente em substituição legal
+    
+    
+    
+                                  CONSELHEIRO WALDIR JÚLIO TEIS
+                                             Relator
+    
+    
+    
+                                  WILLIAM DE ALMEIDA BRITO JÚNIOR
+                                   Procurador Geral em substituição legal
+    
+    
+    F:\Secretaria do Pleno\2011\Resoluções de Consulta\Resolução de Consulta nº 011_11.odt   AN    2
+
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
