@@ -1,0 +1,199 @@
+# TCEMT · ACON 1598/2005
+
+- **Órgão:** TCEMT
+- **Espécie:** Acórdão em consulta (consolidação oficial)
+- **Número:** 1598/2005
+- **Identificador:** `tcemt-ac-con-1598-2005`
+- **Situação na fonte:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+## Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Acórdão 1.598/2005 (DOE, 25/10/2005).
+
+### Entrada temática 2
+
+    Acórdão 1.598/2005 (DOE, 20/10/2005).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+## Decisão
+
+### Contexto na compilação — página 41
+
+    legislatura.
+    
+    Acórdão 1.598/2005 (DOE, 25/10/2005). Agente político. Vereador.
+    Suplente. Convocação quando iniciado o período de concessão, pelo
+    regime previdenciário, do benefício de auxílio-doença ao titular do
+    mandato.
+    É cabível a imediata convocação do suplente de vereador quando ini-
+    ciado o período de concessão, pelo regime previdenciário, do bene-
+    fício de auxílio-doença ao titular do mandato. O subsídio do vereador
+    suplente convocado para a substituição deverá ser pago com recur-
+    sos da Câmara Municipal e integrará os gastos com folha de pagamen-
+    to para todos os efeitos legais.
+    
+    Acórdão 542/2006 (DOE, 12/04/2006). Agente político. Despesa. Pes-
+    soal. Subsídio. Falecimento de vereador. Obrigatoriedade de paga-
+    mento do subsídio devido até a data do falecimento aos sucessores.
+    No caso de morte do vereador, durante o exercício do mandato, cons-
+    titui-se em obrigação do Poder Legislativo Municipal o pagamento,
+    aos dependentes, do valor referente ao subsídio devido, até a data do
+    falecimento do vereador, quando cessa a prestação de serviços. Os
+    familiares do parlamentar falecido deverão pleitear o benefício “Pen-
+    são” junto ao regime previdenciário ao qual estava vinculado.
+    
+    Resolução de Consulta 38/2010 (DOE, 07/06/2010). Agente político.
+    Subsídio. Vereadores. Membros da Mesa Diretora. Valores diferen-
+    ciados. Possibilidade. Observância dos limites constitucionais e dos
+    demais princípios norteadores da Administração Pública.
+    É possível o estabelecimento de valores diferenciados de subsídio
+    aos membros da Mesa Diretora, devendo ser observados os limites
+    constitucionais e os demais princípios norteadores da Administração
+    Pública.13
+    
+    
+    
+    
+    13 A possibilidade de se estabelecer subsídios diferenciados aos membros da Mesa Diretora da Câmara Municipal está em apreciação
+    a título de revisão de tese.
+    
+    
+    
+                                                                  41
+
+### Contexto na compilação — página 454
+
+    não compor a base de cálculo para a contribuição previdenciária, não
+    será devida à servidora em gozo de licença à gestante.
+    
+    Resolução de Consulta 5/2011 (DOE, 24/02/2011). Previdência. Bene-
+    fício. Auxílio-doença. Forma de cálculo.
+    A forma de cálculo do benefício de auxílio-doença é aquela definida na
+    legislação do ente federativo.672
+    
+    Acórdão 1.598/2005 (DOE, 20/10/2005). Previdência. Benefício. Au-
+    xílio-doença. Vereador. Critérios.
+    1. Quando o vereador se afastar de suas atividades, por motivo de
+    doença, por um período inferior ao determinado pelo regime previ-
+    denciário para o início da concessão do benefício correspondente ao
+    auxílio-doença, o pagamento do subsídio ficará a cargo da câmara
+    municipal. A comprovação do motivo do afastamento deverá obede-
+    cer a critérios estabelecidos pela câmara municipal.
+    2. Quando o período da licença corresponder àquele em que o benefí-
+    cio será assegurado pelo sistema previdenciário, correspondente, de-
+    verão ser observadas as regras específicas de cada regime, conforme
+    o caso. Em se tratando do RGPS, ultrapassados os quinze primeiros
+    dias do afastamento, o segurado deverá ser encaminhado à perícia
+    médica do INSS. No caso do RPPS, deverão ser observadas as regras
+    do município.673
+    
+    
+    
+    
+    672 Cabe observar que, como a partir da Emenda Constitucional 103/2019 o rol de benefícios dos RPPS ficou limitado às aposenta-
+    dorias e pensões por morte (art. 9°, § 2°), outros benefícios como o auxílio-doença devem ser custeados pelo ente federativo e não
+    pela previdência.
+    673 Tese sob avaliação para verificar concordância com a legislação vigente. A Emenda Constitucional 103/2019 limitou aos RPPS o
+    custeio somente de aposentadorias e pensões por morte.
+    
+    
+    
+                                                                 454
+
+### Contexto na compilação — página 455
+
+    AUXÍLIO-MORADIA E AUXÍLIO-TRANSPORTE
+    
+    Resolução de Consulta 24/2011 (DOE, 07/04/2011). Previdência. Be-
+    nefício. Auxílio-moradia e auxílio-transporte. Legalidade.
+    É legal o recebimento de auxílio-moradia e do auxílio-transporte pelos
+    servidores e magistrados na atividade, quando destinados a reembol-
+    sar as despesas com moradia e transporte, uma vez que se trata de
+    verbas indenizatórias e transitórias, sendo impossível a incorporação
+    destas parcelas aos subsídios, ressalvados os casos em que há deci-
+    são judicial determinando o pagamento das referidas verbas.674
+    
+    
+    
+    
+    674 O pagamento de auxílio-moradia e auxílio-transporte é compatível com a previsão constitucional de parcelas de caráter indeniza-
+    tório previstas em lei (art. 37, § 11). Como referencial normativo, a Lei Federal 8.112/1990 institui “transporte” e “auxílio-moradia” como
+    espécies de indenizações ao servidor (art. 51, III e IV) e a Lei Complementar Estadual 4/1990 possibilita a concessão de indenização
+    de transporte ao servidor que realizar despesas com a utilização do meio próprio de locomoção para execução de serviços externos,
+    por força das atribuições próprias do cargo (art. 81). Quanto ao recebimento dessas indenizações pelos magistrados, há amparo na
+    Lei Complementar Federal 35/1979 (art. 65) e na Resolução de Consulta 29/2009 do TCE/MT.
+    
+    
+    
+                                                                     455
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

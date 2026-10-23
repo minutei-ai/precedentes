@@ -1,0 +1,173 @@
+# TCEMT · ACON 484/2003
+
+- **Órgão:** TCEMT
+- **Espécie:** Acórdão em consulta (consolidação oficial)
+- **Número:** 484/2003
+- **Identificador:** `tcemt-ac-con-484-2003`
+- **Situação na fonte:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+## Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Acórdão 484/2003 (DOE, 28/03/2003).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+## Decisão
+
+### Contexto na compilação — página 40
+
+    ça de aplicação da regra de revisão geral anual (art. 37, X, CF/1988).
+    Uma vez fixado o subsídio dos vereadores, considera-se exaurida a
+    competência legislativa, ou seja, o subsídio não poderá ser alterado,
+    senão para a próxima legislatura, com exceção apenas para a hipóte-
+    se de revisão geral anual.
+    
+    Resolução de Consulta 61/2011 (DOE, 24/10/2011). Agente Político.
+    Subsídio. Vereador. Fixação. Vinculação automática ao subsídio dos
+    Deputados Estaduais. Impossibilidade. Limite único para toda legis-
+    latura. Percentual sobre subsídios dos deputados estaduais vigente
+    no exercício de fixação.
+    1. Há vedação constitucional para a previsão de indexação, vinculação
+    e equiparação automática de valores do subsídio de vereadores com
+    o subsídio de deputados estaduais, conforme artigo 37, inciso XIII, da
+    CF/88.
+    2. A fixação do valor de subsídio dos vereadores e membros da mesa
+    diretora das Câmaras Municipais, para a legislatura subsequente, deve
+    ter como base o subsídio dos deputados estaduais vigente no último
+    exercício da legislatura anterior, nos termos do artigo 29, inciso VI, da
+    CF/88.12
+    
+    Acórdão 746/2003 (DOE, 13/05/2003). Agente político. Subsídio. Ve-
+    reador. Vinculação ao subsídio do deputado estadual.
+    É inconstitucional a previsão de vinculação (indexação) automática do
+    subsídio dos vereadores ao subsídio dos deputados estaduais, con-
+    forme art. 37, XIII, da CF/1988.
+    
+    Acórdão 484/2003 (DOE, 28/03/2003). Agente político. Subsídio. Ve-
+    reador. Pessoalidade. Vedação à destinação para outras finalidades.
+    É vedada a destinação do subsídio que os vereadores têm direito no
+    período de recesso parlamentar para pagamento de outras despesas.
+    O subsídio é proveniente do “múnus” público, sendo, portanto, pessoal
+    e intransferível, constituindo direito adquirido, ante as leis existen-
+    tes no Município e que devem permanecer inalteradas até o final da
+    
+    12 O trecho textual que se referia à legislatura “2009-2012” foi atualizado para conter uma regra mais geral de conduta, sem estipular
+    legislatura específica, mantendo-se o conteúdo e a compatibilidade da tese com a disposição constitucional.
+    
+    
+    
+                                                                    40
+
+### Contexto na compilação — página 41
+
+    legislatura.
+    
+    Acórdão 1.598/2005 (DOE, 25/10/2005). Agente político. Vereador.
+    Suplente. Convocação quando iniciado o período de concessão, pelo
+    regime previdenciário, do benefício de auxílio-doença ao titular do
+    mandato.
+    É cabível a imediata convocação do suplente de vereador quando ini-
+    ciado o período de concessão, pelo regime previdenciário, do bene-
+    fício de auxílio-doença ao titular do mandato. O subsídio do vereador
+    suplente convocado para a substituição deverá ser pago com recur-
+    sos da Câmara Municipal e integrará os gastos com folha de pagamen-
+    to para todos os efeitos legais.
+    
+    Acórdão 542/2006 (DOE, 12/04/2006). Agente político. Despesa. Pes-
+    soal. Subsídio. Falecimento de vereador. Obrigatoriedade de paga-
+    mento do subsídio devido até a data do falecimento aos sucessores.
+    No caso de morte do vereador, durante o exercício do mandato, cons-
+    titui-se em obrigação do Poder Legislativo Municipal o pagamento,
+    aos dependentes, do valor referente ao subsídio devido, até a data do
+    falecimento do vereador, quando cessa a prestação de serviços. Os
+    familiares do parlamentar falecido deverão pleitear o benefício “Pen-
+    são” junto ao regime previdenciário ao qual estava vinculado.
+    
+    Resolução de Consulta 38/2010 (DOE, 07/06/2010). Agente político.
+    Subsídio. Vereadores. Membros da Mesa Diretora. Valores diferen-
+    ciados. Possibilidade. Observância dos limites constitucionais e dos
+    demais princípios norteadores da Administração Pública.
+    É possível o estabelecimento de valores diferenciados de subsídio
+    aos membros da Mesa Diretora, devendo ser observados os limites
+    constitucionais e os demais princípios norteadores da Administração
+    Pública.13
+    
+    
+    
+    
+    13 A possibilidade de se estabelecer subsídios diferenciados aos membros da Mesa Diretora da Câmara Municipal está em apreciação
+    a título de revisão de tese.
+    
+    
+    
+                                                                  41
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
