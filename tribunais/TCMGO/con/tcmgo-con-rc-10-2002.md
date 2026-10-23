@@ -12,7 +12,7 @@
 
 Título literal: RC 010/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da possibilidade de Câmara Municipal fazer doação de aparelho de TV ao Centro de Recuperação de Alcoólatras – CEREA –, para que esta promova bingo destinado a arrecadar recursos para a própria manutenção, desde que o objeto já seja da propriedade do Poder Legislativo e tenha perdido a utilidade para este e seja comprovado o interesse social.  Exigência de que não haja nenhuma norma legal dispondo em contrário e de que a decisão seja tomada pelo Plenário da Casa.
 -   TCM, 26.04.2002

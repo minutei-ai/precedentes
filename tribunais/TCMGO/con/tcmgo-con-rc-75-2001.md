@@ -12,7 +12,7 @@
 
 Título literal: RC 075/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível o de rateio entre os vereadores do subsídio de vereador que fez opção por remuneração de servidor, desde que não ultrapasse o valor do subsídio fixado em lei. Não é possível o rateio do subsídio do vereador entre entidades filantrópicas, por não ser ato próprio do Poder Legislativo esse tipo de subvenção ou auxílio, mas do Poder Executivo. CF/88, arts. 29, VII; 29-A, § 1º; 39, § 4º. LC nº 101/00, arts. 20, III, “a” e 26 (LRF).
 -   TCM, 16.05.2001

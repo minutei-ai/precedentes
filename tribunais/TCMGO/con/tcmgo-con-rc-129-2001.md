@@ -12,7 +12,7 @@
 
 Título literal: RC 129/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Se a entidade (Associação Brasileira de Defesa da Qualidade de Vida) não está qualificada junto ao poder público como OS’s (Organizações Sociais) ou OSCIP’s (Organizações da Sociedade Civil de Interesse Público), não há que se falar em “contratos de gestão” ou “termos de parceria”, que são instrumentos próprios dessas organizações para agirem junto ao poder público. O contrato de prestação de serviços que, embora coadune com as finalidades das OS’s ou OSCIP’s, deve ser analisado à luz da Lei nº 8.666/93. Sua legalidade deve ser verificada in concreto, quando de seu registro no TCM.
 -   TCM, 12.12.2001

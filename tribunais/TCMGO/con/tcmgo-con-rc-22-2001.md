@@ -12,7 +12,7 @@
 
 Título literal: RC 022/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O gasto relativo a ajuda de custo pelo encerramento do exercício de 2000, deverá ser considerado como relativo ao mês de dezembro daquele exercício, não obstante o mês de efetivo pagamento, sendo que o valor  desta despesa não há necessariamente de ser considerado no duodécimo de repasse à Câmara Municipal no exercício de 2001, podendo o Chefe do Legislativo solicitar o repasse à conta de restos a pagar ou de despesa de exercícios anteriores separadamente ao Prefeito, observado, entretanto, o limite máximo de gastos com remuneração dos vereadores (art. 29, VII da CF), bem como o limite de 6% da receita corrente líquida (Lei Complementar nº 101/20000, art. 20, III, “b” – Lei de Responsabilidade Fiscal).
 -   TCM, 14.03.2001

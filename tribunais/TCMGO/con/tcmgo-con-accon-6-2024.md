@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 006/24. Ano da página: 2024. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2024/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não conhecimento da consulta por não preencher os requisitos de admissibilidade. Pré-julgamento do caso concreto (art. 31, § 3º, da Lei Orgânica deste Tribunal de Contas (Lei Estadual nº 15.958/07) c/c art. 199, § 3º do Regimento Interno desta Corte de Contas).
 -   DATA: 01.07.2024

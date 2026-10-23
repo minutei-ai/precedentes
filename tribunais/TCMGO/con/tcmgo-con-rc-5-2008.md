@@ -12,7 +12,7 @@
 
 Título literal: RC 005/08. Ano da página: 2008. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2008/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da impossibilidade de pagamento dos subsídios dos vereadores em 15 parcelas, nos moldes do Deputado Estadual: não fazem jus os vereadores de Goiânia à percepção do décimo terceiro salário, tendo em vista o princípio da anterioridade; inadequação das verbas de ajuda de custopara início e término das sessões legislativas; inconstitucionalidade de alteração da remuneração dentro da mesma legislatura.
 -   DATA: 27.02.07

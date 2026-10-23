@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 006/21. Ano da página: 2021. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2021/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É válida e aplicável a lei fixatória dos subsídios dos vereadores e presidente da câmara em exercício anterior, com as eventuais revisões gerais anuais, registradas e anotadas. Em caso de fixação em uma legislatura para a próxima, eventual revisão geral anual a ser concedida no primeiro ano do mandato deve ser proporcional em relação à data-base. Decreto-Lei nº 4.657/42 (LINDB).
 -   DATA: 30.06.2021

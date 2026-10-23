@@ -12,7 +12,7 @@
 
 Título literal: RC 041/03. Ano da página: 2003. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2003/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Aquisição de imóvel pela Câmara, com recurso do duodécimo. O bem deverá ser incorporado ao patrimônio municipal. No caso de alienação desse imóvel, a receita vai para o Executivo. Da modalidade de ato administrativo usado pelo Executivo para ceder imóvel para uso da Câmara. Não pode o Vereador propor projetos de leis que gerem despesas aos cofres municipais (concessão de bolsas de estudo, construção de pontos), por ser de iniciativa privativa do prefeito.
 -   TCM, 26.11.03

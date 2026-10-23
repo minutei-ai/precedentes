@@ -12,7 +12,7 @@
 
 Título literal: RC 001/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Artigo 29-A da Constituição Federal de 1988, acrescido pela Emenda Constitucional nº 25, de 14.02.2000. Receitas que compõem a base de cálculo para aplicação dos limites de gastos com o Poder Legislativo – Duodécimo. Receita tributária municipal e transferências constitucionais previstas no § 5º do artigo 153, 158 e 159 da CF/88, efetivamente realizada no exercício anterior. Limites de despesa com as Câmaras Municipais. Exclusão de gastos com inativos e inclusão de gastos com subsídios dos vereadores.
 -   TCM, 18.01.2001

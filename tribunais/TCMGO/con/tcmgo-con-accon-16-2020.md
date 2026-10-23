@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 016/20. Ano da página: 2020. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2020/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A percepção de gratificação por atividade de classe na zona rural é condicionada à lotação do professor na unidade de difícil acesso. A incorporação de verbas de caráter transitório nos proventos de aposentadoria e pensão será possível se implementados os requisitos legais para sua efetivação até a entrada em vigor da Emenda Constitucional nº 103/19. Emite alerta aos jurisdicionados para o cumprimento da Lei Complementar nº 173/20, especialmente quanto às vedações aumento de despesas com pessoal. Emenda Constitucional nº 103/19. Emite alerta aos jurisdicionados para o cumprimento da Lei Complementar nº 173/20, especialmente quanto às vedações aumento de despesas com pessoal. EC nº 20/98. EC nº 103/19, art. 13. LC nº 173/20.
 -   DATA: 09.12.2020

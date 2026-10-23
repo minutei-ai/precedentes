@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 004/25. Ano da página: 2025. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2025/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a prorrogação de contratos de serviços e fornecimentos decorrentes de dispensa de licitação, devendo-se considerar o montante o valor gasto em cada exercício financeiro com objetos da mesma natureza. Os contratos podem ser reajustados para assegurar o equilíbrio econômico-financeiro. O contrato pode ser substituído por outros instrumentos, sendo recomendável o registro no termo de referência dos motivos que fundamentem a substituição. Lei nº 14.133/21, arts. 75, I e II; art. 92, §4º, I e II; art. 95, _caput_ e §1º; art. 124, II, “d”.
 -   DATA: 25.03.2025

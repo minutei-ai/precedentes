@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 027/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Utiliza-se a licitação na modalidade concorrência para a concessão de direito real de uso de bem público, exceto para fins de moradia. Para a concessão de direito de uso (administrativa de uso), utiliza-se o pregão, preferencialmente eletrônico. A autorização legislativa e a avaliação precedem o certame licitatório. Inexistindo lei municipal que exija autorização legal específica, é possível a genérica. Podem ser objeto de concessão de uso de bem público terrenos edificados ou não. Encaminha cópias dos AC-CON 010/14 e 020/11, sobre assistente de ensino (professor leigo). Lei nº 8.666/93, art. 17. MP nº 2.220/01.
 -   DATA: 20.11.2019

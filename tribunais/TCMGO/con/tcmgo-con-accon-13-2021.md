@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 013/21. Ano da página: 2021. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2021/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a instituição de verba destinada ao ressarcimento de despesa com saúde dos agentes políticos municipais, de natureza indenizatória, mediante lei devidamente fundamentada, conforme mandamentos constitucionais. Não é permitido o pagamento, pelo município, de indenização aos familiares de agentes políticos falecidos em decorrência da COVID-19, com fundamento em lei federal, por ser de aplicação exclusiva à União, não extensiva aos municípios, estados e Distrito Federal. CF/88, art. 37, XI, §11; art. 39. § 4º. Resolução CNJ nº 294/19. Lei Federal nº14.128/21
 -   DATA: 01.12.2021

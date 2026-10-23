@@ -12,7 +12,7 @@
 
 Título literal: RC 067/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade de acumulação de cargo comissionado municipal de Diretor Geral – Médico com cargo federal de médico, desde que haja compatibilidade de horários e que o referido cargo de Diretor Geral do Cais seja privativo de médico. CF, art. 37, inc. XVI, “c”. O Hospital cujo sócio-proprietário seja servidor municipal não poderá contratar com o município, subsistindo a proibição até seis meses após findar o vínculo do servidor com o Município, conforme previsão na LOM. De acordo com a LOM, o ocupante de cargo comissionado de Diretor Geral – Médico não poderá firmar contrato de credenciamento ou convênio com o Município.
 -   TCM, 02.05.2001

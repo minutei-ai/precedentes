@@ -12,7 +12,7 @@
 
 Título literal: RC 003/04. Ano da página: 2004. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2004/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impossibilidade de se enquadrar servidores ocupantes do cargo de Assistente de Ensino no cargo de Professor. Necessidade de concursopúblico. RC 023/03. A incorporação de dobra de carga horária só é possível se houver previsão legal. O tempo de serviço prestado em cargo comissionado, contrato temporário ou prestação de serviço por credenciamento só poderá ser contado como tempo de contribuição para efeito de aposentadoria mediante a apresentação de Certidão de Tempo de Contribuição do INSS. A contagem desse tempo para efeito de quinquênios depende da lei prevendo essa possibilidade. RC 024/03.
 -   DATA: 11.02.04

@@ -12,7 +12,7 @@
 
 Título literal: RC 006/05. Ano da página: 2005. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2005/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impossibilidade de instituição de Verba indenizatória para vereadores, nos moldes da concedida aos Deputados Estaduais. Impossibilidade de pagamento de ajuda de custo para início e encerramento de trabalhos legislativos. Sugestão de que a Câmara elabore ato interno de sub-orçamentos para cada gabinete, extraídos do orçamento geral da Câmara . As despesas realizadas pela Câmara com os gabinetes devem estar relacionadas à atividade parlamentar: assessoria técnico-jurídica, telefone fixo, despesas com locomoção. Não podem ser pagas despesas com Vereadores em que a Câmara não puder aferir se foram ou não prestados para o Poder Legislativo, como o telefone celular, combustível. RN 007/04, 001/05 Lei n° 9504/97; Código Eleitoral.
 -   DATA: 06.04.05

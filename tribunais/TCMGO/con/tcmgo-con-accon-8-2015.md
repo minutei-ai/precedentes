@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 008/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a contratação temporária de professores para atender demanda gerada por curso superior em análise de viabilidade econômico-financeira, desde que: sejam realizadas apenas por prazo razoável; exista ato administrativo regulamentando os cursos; e que se observe o previsto na RN nº 007/05. Caso haja o provimento do cargo e sendo este extinto ou declarada sua desnecessidade, deverá o servidor público efetivo ser colocado em disponibilidade remunerada, proporcionalmente ao tempo de serviço. CF/88, art. 37, IX. LC nº 101/00, art. 21, I.
 -   DATA: 08.07.15

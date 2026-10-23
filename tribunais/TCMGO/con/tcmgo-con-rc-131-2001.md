@@ -12,7 +12,7 @@
 
 Título literal: RC 131/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Poderá o Poder Legislativo deixar inscritas na conta de “restos a pagar” e/ou “despesas de exercícios anteriores” as despesas efetivamente contraídas num exercício corrente, desde que, somadas às despesas pagas e também contraídas no mesmo exercício, não ultrapasse o montante financeiro da respectiva receita anual auferida pela câmara, sob pena de cometimento de ato de improbidade administrativa. CF/88, art. 29-A. Lei nº 8.429/92, art. 11, I; Lei nº 4.320/64, art. 35, II; LC nº 101/00, art. 50, II; Lei nº 10.028/00, art. 5º, III.
 -   TCM, 19.12.2001

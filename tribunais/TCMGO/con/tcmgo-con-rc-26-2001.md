@@ -12,7 +12,7 @@
 
 Título literal: RC 026/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade jurídica do pagamento de diferenças havidas aos vereadores da legislatura 1997/2000, referentes a décimo terceiro salário e ajuda de custo para abertura e encerramento dos trabalhos legislativos, desde que obedecido o limite de 5% da receita do município em cada ano da legislatura, conforme previsto no art. 29, VII da CF.  As despesas de exercícios anteriores e os restos a pagar do Poder Legislativo Municipal poderão ser quitadas com repasses do Executivo especialmente destinados a tal fim, separadamente do duodécimo do exercício de 2001.
 -   TCM, 14.03.2001

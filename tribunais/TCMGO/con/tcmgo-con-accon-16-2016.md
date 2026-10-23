@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 016/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Servidor público ocupante de cargo efetivo, afastado para o exercício de mandato eletivo, continua vinculado ao RPPS do seu cargo de origem, ao qual deve pagar as contribuições previdenciárias, com base de na remuneração do cargo efetivo. Sendo o afastamento do servidor com ônus para o Poder Legislativo, cabe a este realizar o desconto da contribuição previdenciária e o repasse ao RPPS e, sem ônus para o Poder Legislativo, cabe ao órgão de origem essa obrigação. Em caso de acumulação do cargo efetivo com o mandato de vereador, deve contribuir para o RPPS e o RGPS. CF/88, art. 38, III. Lei n 8.212/91, art. 12, “j”. ON MPS/SPS nº 002/09, art. 31, § 2º; art. 32, I, II e III.
 -   DATA: 05.10.16

@@ -12,7 +12,7 @@
 
 Título literal: RC 010/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Servidor público estadual eleito vereador, com opção pelo vencimento do cargo de servidor, que ultrapassa o índice de 50% do que percebe o Prefeito Municipal. Vantagem assegurada constitucionalmente. Deverá a Câmara firmar convênio ou acordo com a outra esfera de Governo, visando estabelecer o ônus para a Câmara da parte relativa ao subsídio do vereador, ficando a cargo do órgão de origem as diferenças remuneratórias decorrentes da opção permitida pelo art. 38 da Constituição Federal. Limites de gastos a serem cumpridos pelas Câmaras Municipais. Limites de despesa com o Poder Legislativo. CF, art. 38, II e III; Lei Complementar nº 101/2000 – Lei de Responsabilidade Fiscal; Emenda Constitucional nº 25/00.
 -   TCM, 14.02.2001

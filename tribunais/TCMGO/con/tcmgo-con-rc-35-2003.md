@@ -12,7 +12,7 @@
 
 Título literal: RC 035/03. Ano da página: 2003. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2003/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Suspensão ou interrupção de execução de obra, somente por determinação da Administração e por seu interesse, ficando suspensos os prazos contratuais, voltando a ser contados a partir da sua ordem de serviço. Interrupção reiterada de obras: qualifica-se como sendo oriunda de “contrato guarda-chuva”. As interrupções não podem exceder a 120 dias. A obra só pode ser reiniciada se as despesas estiverem previstas no Plano Plurianual e na Lei Orçamentária. Os serviços realizados de boa-fé devem ser indenizados pela Administração. Lei nº 8.666/93, arts. 110; 55, I; 78, XIV. C.F., art. 167. LC nº 101/00, arts. 15 e 16.
 -   TCM, 17.09.03

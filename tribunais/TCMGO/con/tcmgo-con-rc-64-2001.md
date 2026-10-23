@@ -12,7 +12,7 @@
 
 Título literal: RC 064/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A RC Nº 056/01 responde as questões “a” e “c”, no sentido de que o Prefeito pode efetuar repasses à Câmara em valores maiores que o duodécimo orçamentário, desde que não ultrapasse o limite anual fixado no caput do art. 29-A da CF. Sessões extraordinárias convocadas pelo Executivo, no recesso parlamentar. Para seu pagamento é indispensável a previsão de seu valor no ato fixatório de remuneração dos vereadores, editado conforme o art. 29, VI, da CF. DP nº 016/00.
 -   TCM, 25.04.2001

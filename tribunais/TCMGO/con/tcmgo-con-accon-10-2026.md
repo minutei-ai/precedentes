@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 010/26. Ano da página: 2026. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2026/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível designar Procurador efetivo como fiscal de contrato, desde que observadas a compatibilidade das atribuições, a gestão por competências e a segregação de funções, vedado o assessoramento jurídico no mesmo contrato. Excepcionalmente, a insuficiência de pessoal qualificado poderá justificar a designação, mediante motivação. Lei nº 14.133/2021. É possível pagar gratificação ao Procurador efetivo designado como fiscal de contrato, desde que haja previsão em lei municipal, designação formal, efetivo exercício da fiscalização, observadas as normas orçamentárias e fiscais. A gratificação remunera o encargo adicional efetivamente exercido, não sendo devida apenas pela ocupação do cargo efetivo e devendo ser preservada a segregação de funções.
 -   DATA: 25.08.2026

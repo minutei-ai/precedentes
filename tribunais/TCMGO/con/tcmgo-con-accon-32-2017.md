@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 032/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A Administração Pública, na aquisição de bens e contratação de serviços, deve estimar os preços em pesquisas, priorizando valores adjudicados em licitações de outros órgãos, só utilizando, excepcionalmente, a consulta direta no mercado. Desistindo o primeiro colocado, deve-se convocar os remanescentes, na ordem de classificação, no mesmo prazo e condições do primeiro classificado, ou revogar a licitação. Em caso de pregão, desistindo o vencedor, o pregoeiro deve examinar as ofertas subsequentes e a qualificação dos licitantes, em ordem de classificação, até a apuração de proposta que atenda ao edital, declarando vencedor o licitante. Lei nº 8.666/93, art. 64, § 2º; art. 81. Lei nº 10.520/02, art. 4º, XVI e XXIII.
 -   DATA: 20.12.17

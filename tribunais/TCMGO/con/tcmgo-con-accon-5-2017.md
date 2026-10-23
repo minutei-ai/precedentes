@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 005/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A certidão de tempo de serviço expedida pela Secretaria de Administração Municipal não é o documento hábil para comprovar tempo de contribuição para fins de concessão de aposentadoria voluntária, exceto quando essa certidão se referir a período em que o RPPS, regularmente constituído, não estabelecia o regime contributivo dos servidores a ele vinculados.Não há manifestação quanto ao cômputo de tempo de serviço militar por não haver  referência deste no parecer jurídico do consulente. Emenda Constitucional Federal nº 041/03, art. 6º, II.
 -   DATA: 15.02.17

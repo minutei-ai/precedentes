@@ -12,7 +12,7 @@
 
 Título literal: RC 048/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da possibilidade de município firmar contrato de prestação de serviço com odontólogo que já ocupa cargo efetivo na Administração Direta, com carga horária diária de 4 horas, desde que haja compatibilidade de horários e que o profissional tenha sua profissão regulamentada. Acumulação de dois cargos ou empregos privativos de profissionais de saúde, prevista no art. 37, XVI, “c”, da C.F. A contratação por credenciamento deverá ser precedida de edital de chamamento, com ampla divulgação na imprensa                             .
 -   TCM, 21.08.2002

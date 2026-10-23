@@ -12,7 +12,7 @@
 
 Título literal: RC 003/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Convênio entre o IPASGO e Prefeituras, para prestação de assistência médica aos servidores. Cláusula que afronta disposição constitucional, ao vincular o pagamento dos débitos às cotas do ICMS transferidas pelo Estado. Vinculação de receita. Os convênios devem ser firmados separadamente com as Câmaras Municipais, em razão da autonomia dos Poderes. CF/88, art. 167, IV; Lei nº 4.320/64.
 -   TCM, sd

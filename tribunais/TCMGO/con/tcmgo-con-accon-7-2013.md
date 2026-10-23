@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 007/13. Ano da página: 2013. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2013/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Secretário municipal pode receber férias e décimo terceiro salário, mantendo o entendimento da RC nº 015/06, que não considera secretário municipal como exercente de cargo eletivo, mas de cargo em comissão. Prazo prescricional de 5 anos para pleitear direitos frente à Fazenda Pública. Servidor público ocupante de cargo efetivo, nomeado secretário municipal, não tem direito à percepção de subsídio acrescido de gratificação de titularidade que recebia enquanto servidor efetivo. Súmula STF nº 383. ADIn 154878-8.2010-8-TJGO. REsp 1010627/SP a Ag Rg no Ag em Resp 2012/0113376-8.
 -   DATA: 22.05.13

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 013/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a doação de bens imóveis públicos de Municípios ou Estados federados para órgão da Administração Pública, de qualquer esfera de governo, atendidos os requisitos da Lei nº 8.666/93: interesse público, autorização legislativa e avaliação prévia, dispensada a licitação. É vedada a doação de bens imóveis públicos a particulares por ausência de previsão legal. Lei nº 8.666/93, art. 17, I, “b”.
 -   DATA: 03.05.17

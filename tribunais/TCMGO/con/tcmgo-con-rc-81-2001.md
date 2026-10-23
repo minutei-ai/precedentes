@@ -12,7 +12,7 @@
 
 Título literal: RC 081/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da legalidade de pagamento de despesas de serviços médicos, prestados no exercício anterior: a) havendo contrato entre Prefeito e médicos credenciados, sem empenho, pode-se efetivar o pagamento como despesas de exercício anterior; b) havendo contrato e empenho, pagamento mediante inscrição em “Restos a Pagar”; c) caso não haja contrato nem empenho, poderá o prefeito efetuar o pagamento a título de indenização, caso os serviços tenham sido efetivamente prestados, não podendo a administração locupletar-se à custa de terceiros.
 -   TCM, 06.06.2001

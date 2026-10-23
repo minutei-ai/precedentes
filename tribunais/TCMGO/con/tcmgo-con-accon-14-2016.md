@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 014/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A regra para a contratação de pessoal é o concurso público admitindo-se, excepcionalmente, a contratação por prazo determinado. É possível a contratação de parentes do prefeito e do chefe do Poder Legislativo no credenciamento médico, no qual não há competição e as cláusulas contratuais são previamente estabelecidas (cláusulas uniformes), tendo em vista o tratamento isonômico dado a todos. Na contratação de profissionais da área da saúde, com vagas limitadas, que prestam serviços subordinados à Administração, não se admite a contratação de parentes. CF/88, art. 37, IX. Lei nº 8.666/93. STF, Súmula nº 13.
 -   DATA: 14.09.16

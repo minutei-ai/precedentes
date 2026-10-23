@@ -12,7 +12,7 @@
 
 Título literal: RC 070/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Poderá o TCM, excepcionalmente, receber as prestações de contas do ex-Presidente da Câmara, uma vez que o ex-Prefeito não apresentou seus balancetes de julho a dezembro/2000, nem o balanço geral daquele exercício, além de encontrar-se em lugar incerto e não sabido, não podendo o ex-Presidente ficar sem apresentar suas contas, sob pena de ser enquadrado nos crimes previstos na Lei de Improbidade Administrativa. Lei nº 8.429/92, art. 11, VI.
 -   TCM, 09.10.2002

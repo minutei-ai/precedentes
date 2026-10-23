@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 004/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Cabe ao Instituto de Previdência, responsável pela administração do RPPS, o pagamento de benefício previdenciário ao segurado, em valor não inferior ao Salário-mínimo, ainda que a base de cálculo (salário-de-contribuição) seja inferior ao valor do Salário-mínimo. Caso não ocorra o repasse dos valores devidos ao RPPS, deve o responsável apurar os valores para cobrança retroativa. Não havendo desconto da contribuição previdenciária do servidor público, o responsável deve apurar os valores e realizar o desconto em folha de pagamento. Lei nº 10.887/04, art.8º-A, § 3º.
 -   DATA: 08.04.15

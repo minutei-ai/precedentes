@@ -12,7 +12,7 @@
 
 Título literal: RC 112/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a acumulação de aposentadoria pelo RGPS com outra pelo regime próprio de previdência do município (RPPS), no caso, compulsória, por ausência de vedação constitucional. A aposentação, sujeita a registro no TCM, far-se-á em processo administrativo normal, e não enseja defesa específica do servidor.   Para o processamento da aposentadoria compulsória dos que ainda não foram aposentados, o ato deverá retroagir à data de aniversário de 70 anos do servidor. CF/88, arts. 202 e 40
 -   TCM, 19.09.2001

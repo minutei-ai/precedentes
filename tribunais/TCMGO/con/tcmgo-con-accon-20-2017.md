@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 020/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O município pode pagar despesas efetuadas em dezembro, inclusive folha de pagamento, com os recursos do FPM recebidos no primeiro decêndio dejaneiro, desde que obedecidos os estágios de execução da despesa, incluindo empenho e liquidação em dezembro, e inscrição em restos a pagar processados.Em ano eleitoral, não poderá o Prefeito considerar os recursos da 3ª parcela do FPM do mês de dezembro (paga em janeiro), devendo deixar disponibilidade de caixa.A contabilização dos recursos recebidos do FPM deve seguir o  procedimento contido no Manual de Contabilidade Aplicada ao Setor Público (MPCASP). LC nº 101/00, art. 42.
 -   DATA: 06.09.17

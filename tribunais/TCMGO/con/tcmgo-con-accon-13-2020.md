@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 013/20. Ano da página: 2020. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2020/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível fazer o pagamento retroativo do piso nacional do magistério. A atualização anual, sempre no mês de janeiro, deve ser feita por lei específica e está resguardada pela Lei Complementar Federal nº 173/20, que trata do enfrentamento à Pandemia de COVID-19. Não é possível a compensação, em 2021, de recursos não utilizados em 2020 na manutenção e desenvolvimento do ensino. O município não pode deixar de aplicar o percentual mínimo de 25% das receitas em educação, mesmo em cenário de pandemia.CF/88, art. 212. LC nº 173/20, art. 8º, I. Lei nº 11.738/08, art. 5º. Lei nº 9.994/96, art. 69, §4º.
 -   DATA: 25.11.2020

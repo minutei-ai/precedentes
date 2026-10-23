@@ -12,7 +12,7 @@
 
 Título literal: RC 032/03. Ano da página: 2003. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2003/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Inexistência de impedimento legal de utilização de recursos classificados como receita corrente em despesas de manutenção e funcionamento meio e fim da FUMDEC. Uso de disponibilidade em conta corrente dos valores de concessão de túmulos no Cemitério Parque para compra de alimentos, próteses, cadeiras de rodas, aparelhos auditivos e manutenção das unidades. Lei nº 4.320/64 e Lei Complementar nº 101/00.
 -   TCM, 10.09.03

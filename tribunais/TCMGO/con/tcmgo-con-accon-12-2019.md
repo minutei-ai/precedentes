@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 012/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O Poder Executivo pode realizar licitação com a finalidade de contratação de empresa para a realização de concurso público para provimento de cargos da câmara municipal, utilizando os valores da taxa de inscrição como forma de pagamento. A empresa pode ser remunerada com base na quantidade de inscritos, prevendo-se valores máximos e mínimos no contrato. As receitas arrecadadas com as inscrições constituem receita pública do município e devem ser contabilizadas conforme a Lei nº 4.320/64. Havendo diferença entre a arrecadação e a despesa total, as sobras integrarão as receitas públicas ordinárias do município. CF/88, art. 29-A. Lei nº 4.320/64.
 -   DATA: 12.06.19

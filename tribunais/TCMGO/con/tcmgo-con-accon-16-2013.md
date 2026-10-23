@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 016/13. Ano da página: 2013. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2013/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É ilegal o aumento de despesa com pessoal nos 180 dias antes do final do mandato eletivo, exceto a revisão geral anual da remuneração. É vedado aumento de despesa quando o percentual se encontra dentro do limite prudencial de 95% da RCL. Medidas para adequação de gastos com pessoal. Lei de Responsabilidade Fiscal. CF/88, art. 5º, XXXVI; art. 37, X; art. 169, § 3º, § 4º, § 6º. LC nº 101/00, art. 20, II, “b”; art. 21, art. 22, I a V, art. 23, § 1º, § 2º. Lei nº 9.504/97, art. 73, VIII.
 -   DATA: 23.10.13

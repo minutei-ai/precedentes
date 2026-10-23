@@ -12,7 +12,7 @@
 
 Título literal: RC 015/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Secretário Municipal proprietário de hotel não pode negociar com o Município, por estar sujeito às mesmas vedações impostas ao Prefeito e Vice-Prefeito, visto também ser considerado agente político. Proibições, impedimentos. CF, arts. 51, 52, I, 85 e 102, I, “c”. Impossibilidade de servidor detentor de cargo efetivo ou em comissão participar direta ou indiretamente de licitação realizada pelo município. Lei nº 8.666/83, art. 9º, III.
 -   TCM, 28.02.2001

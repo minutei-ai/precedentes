@@ -12,7 +12,7 @@
 
 Título literal: RC 027/04. Ano da página: 2004. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2004/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Presidente da Câmara . Servidor Público. Remuneração. Legislatura 2001-2004: Subsídio do Presidente da Câmara fixado em 30% do subsídio do Deputado Estadual, sem parcela indenizatória. Opção pela remuneração de seu cargo público. Não faz jus à parcela indenizatória. Legislatura 2005-2008: Será devida a parcela indenizatória se houver previsão no ato fixatório e o Presidente da Câmara optar pela remuneração do seu cargo em detrimento do subsídio de vereador. RN 007/04.
 -   DATA: 20.10.04

@@ -1,6 +1,6 @@
 # Cobertura
 
-**30.967 registros únicos de 104 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**31.191 registros únicos de 104 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros têm apenas metadados, sem texto disponibilizado pela fonte. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,7 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
-| [TCMGO — Consultas: catálogos anuais e documentos vinculados](https://www.tcmgo.tc.br/site/legislacao/accon/) | 718 | 718 | 0 |
+| [TCMGO — Consultas: catálogos anuais e documentos vinculados](https://www.tcmgo.tc.br/site/legislacao/accon/) | 942 | 942 | 0 |
 | [TCMGO — Enunciados de Súmula e documentos vinculados](https://www.tcmgo.tc.br/site/jurisprudencia/sumula/) | 13 | 13 | 0 |
 | [TCEAC — Acórdãos em consulta, banco público e documentos oficiais](https://jurisprudencia.tceac.tc.br/jurisprudencia) | 268 | 268 | 0 |
 | [TCEMT — Resoluções de Consulta e documentos oficiais](https://www.tce.mt.gov.br/legislacoes/resolucao-de-consulta) | 612 | 612 | 0 |
@@ -362,7 +362,7 @@ Os atos de atualização e processos apenas citados não foram contados como reg
 
 O TCEPA acrescenta 22 prejulgados, de 1 a 22, da compilação oficial vinculada na página de boletins e identificada como atualização de junho de 2026. Foram conciliadas duas leituras do PDF de seis páginas com bytes idênticos, além do vínculo institucional. A data antiga de publicação da linha da página não foi convertida em data de atualização dos verbetes. A nota introdutória inclui expressamente registros históricos, revogados e caducos. Foram mantidos os avisos de revogação dos nº 11, 18, 19 e 22 e de reforma dos nº 14 e 21, inclusive a revogação do nº 22 em 26/05/2026. Ausência de aviso individual não foi tratada como prova de vigência. Os textos, identificação dos atos, processos, nota geral, comissão e 28 referências do PDF foram preservados. Os blocos literais mantêm as quebras de linha e os hífens da extração; a apresentação gráfica e o itálico geral foram simplificados. As seis imagens correspondem ao timbre ilustrado, sem texto jurídico adicional. Os links antigos foram mantidos literalmente. Os inteiros teores dos atos e processos citados, as demais bases do tribunal e a cobertura nacional permanecem abertos.
 
-As consultas do TCMGO são incorporadas por anos cujos catálogos e documentos vinculados já foram preservados e conferidos em duas leituras. O índice oficial abrange 1989 a 2026; os anos publicados aparecem no índice da espécie CON. O texto extraível dos PDFs é mantido por página, com avisos de falhas, páginas sem texto e conteúdo visual não transcrito. Versões consolidadas acompanham o ato original. Não houve OCR nem confirmação de vigência atual. As demais consultas, os títulos atribuídos ao TCE e os documentos apenas citados continuam pendentes. Anos deste lote: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. 718 registros, 717 documentos e 7587 páginas de PDF.
+As consultas do TCMGO são incorporadas por anos cujos catálogos e documentos vinculados já foram preservados e conferidos em duas leituras. O índice oficial abrange 1989 a 2026; os anos publicados aparecem no índice da espécie CON. O texto extraível dos PDFs é mantido por página, com avisos de falhas, páginas sem texto e conteúdo visual não transcrito. Versões consolidadas acompanham o ato original. Não houve OCR nem confirmação de vigência atual. As demais consultas, os títulos atribuídos ao TCE e os documentos apenas citados continuam pendentes. Anos deste lote: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. 942 registros, 941 documentos e 9155 páginas de PDF.
 
 O TCMGO acrescenta os 13 Enunciados de Súmula do catálogo institucional, em série própria por número, sem inferir vigência atual. Foram conciliadas duas leituras do catálogo e de 11 documentos distintos, com bytes idênticos e HTTP 200: dez PDFs vinculados às súmulas e o ato normativo geral RA 060/19, mantido como referência privada e não contado como precedente. São 26 capturas formais, incluindo os vínculos da página inicial e da seção de jurisprudência. Os 11 PDFs totalizam 37 páginas; os documentos das súmulas 10 a 13 não têm texto extraível e ficaram com pendência explícita, sem OCR. Seus enunciados constam integralmente em HTML no catálogo. O itálico dos enunciados, fundamentos legais, precedentes e datas literais foram preservados. O campo DATA não aparece em todas as entradas e os anos não foram preenchidos a partir do nome do arquivo ou da pasta. A referência 08759/1 na súmula 2 permaneceu incompleta como na fonte. As súmulas 3, 4 e 5 compartilham um documento, assim como 8 e 9; o contexto documental foi preservado, sem atribuir todas as suas disposições a cada registro. Texto extraível e anotações mantidos por página, com apresentação gráfica simplificada, sem reconstrução de tabelas ou imagens. CPF, RG e contas bancárias encontrados foram ocultados, com originais privados. Acórdãos apenas citados, autos e demais bases permanecem para coleta e conciliação. O índice anual de consultas de 1989 a 2026 foi preservado privadamente em duas leituras; sua incorporação parcial é descrita separadamente, sem contar cada vínculo como outro precedente.
 
@@ -808,7 +808,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCESC](tribunais/TCESC/) | 2.569 | TCESC — Enunciados de Consulta no sistema oficial de pesquisa |
 | [TCESP](tribunais/TCESP/) | 52 | TCESP — Repertório de súmulas, histórico e fundamento |
 | [TCETO](tribunais/TCETO/) | 14 | TCETO — Súmulas, versões completas e sintéticas oficiais |
-| [TCMGO](tribunais/TCMGO/) | 731 | TCMGO — Consultas: catálogos anuais e documentos vinculados; TCMGO — Enunciados de Súmula e documentos vinculados |
+| [TCMGO](tribunais/TCMGO/) | 955 | TCMGO — Consultas: catálogos anuais e documentos vinculados; TCMGO — Enunciados de Súmula e documentos vinculados |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
 CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT e TCMGO são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.

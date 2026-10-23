@@ -12,7 +12,7 @@
 
 Título literal: RC 019/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Ao final do exercício financeiro, todo o saldo restante apurado na Câmara Municipal deverá ser devolvido ao Executivo, de modo a promover a respectiva baixa na contabilidade da Prefeitura. Ressalta-se que não pode a Câmara adquirir bens para que sejam doados à Prefeitura ou especificar bens para que o Município adquira com os recursos devolvidos, bem como custear bolsas ou transporte universitário, vez que foge da competência do Legislativo. Lei nº 4.320/64, art. 83.
 -   TCM, 15.05.2002

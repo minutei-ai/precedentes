@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 021/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a alienação de área pública para fins de investimento dos recursos em construção de escolas, postos de saúde e reforma de bens imóveis, por se tratar de uso de receita de capital em despesa de capital, de acordo com as normas do direito financeiro e da Lei de Responsabilidade Fiscal. É vedada a utilização de receitas provenientes de alienação de bens imóveis para reformas de imóveis, por se tratar, em regra, de despesa de custeio, que poderá, excepcionalmente, ser caracterizada como despesa de capital no caso de contribuir diretamente para a formação ou aquisição de bem de capital. Lei nº 4.320/64, art. 12, § 1º e 4º. LC nº 101/00, art. 44.
 -   DATA: 02.10.2019

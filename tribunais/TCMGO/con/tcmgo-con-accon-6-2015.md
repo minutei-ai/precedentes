@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 006/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O valor do Piso Salarial Nacional para os Profissionais do Magistério Público da educação básica deve ser aplicado no vencimento-base da carreira inicial e não com base na remuneração global. O excedente no limite de gastos com pessoal não obsta a adequação ao piso nacional do magistério, devendo o Poder Público adotar as medidas para conduzir as contas públicas aos limites prescritos na da Lei de Responsabilidade Fiscal. CF/88, art. 169, § 3º, §4º. Lei nº 11.738/08, art. 2º, § 1º. LC nº 101/00, art. 22, art. 23.
 -   NOTA: Revoga a RC nº 033/10 \[referência sem URL HTTP pública no catálogo; endereço original preservado privadamente\]

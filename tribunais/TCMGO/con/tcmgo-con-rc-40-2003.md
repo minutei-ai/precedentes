@@ -12,7 +12,7 @@
 
 Título literal: RC 040/03. Ano da página: 2003. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2003/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade de reajuste salarial de servidores públicos, observando-se a expansão prevista no art. 71 e o limite do art. 20, III, “a” e “b” da L. C. nº 101/00. Lei de Responsabilidade Fiscal. O § 1º do art. 18 da LC nº 101/00 ao definir que os contratos de terceirização de mão-de-obra substitutiva de servidores em empregados seriam também contabilizados como outras despesas de pessoal, veio limitar a Administração de usar esse tipo de contrato para buscar a realização de concurso público. C. F., art. 37, II. Terceirização de contratações de profissionais da área da saúde estão inseridas no cômputo dos  54% da LRF – Limites de gastos com pessoal. FUNDEF. Aplicação no ensino fundamental, respeitados os 60% na remuneração dos profissionais da educação.
 -   TCM, 17.10.03

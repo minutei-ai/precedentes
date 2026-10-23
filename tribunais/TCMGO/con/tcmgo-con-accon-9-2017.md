@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 009/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Compõem a base de cálculo para aplicação dos limites de despesa da  câmara municipal, as receitas realizadas no exercício anterior: Receita Tributária Municipal: Impostos (IPTU/ITU, ITBI e ISSQN), taxas, Contribuições de Melhoria,Juros e Multas das receitas tributárias, Receita da Dívida Ativa Tributária, juros e multas da dívida ativa tributária; Receita de transferências Constitucionais: IOF sobre o ouro, IRRF, ITR, ICMS, FPM, IPI e CIDE.Não se incluem na base de cálculo para o repasse do duodécimo à Câmara as receitas de serviços de  fornecimento de água e esgoto, por não terem caráter tributário. CF/88, art. 29-A.
 -   DATA: 15.03.17

@@ -12,7 +12,7 @@
 
 Título literal: RC 095/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Secretário municipal pode ser contratado para prestar serviços médicos em hospital municipal, desde que não haja proibição na Lei Orgânica do Município, e nem previsão legal de que o desempenho do cargo seja de dedicação exclusiva, e que haja compatibilidade de horários entre os serviços prestados e a função administrativa de secretário municipal de saúde, preferencialmente em plantão noturno. As condições do contrato deverão ser as mesmas para todos os profissionais prestadores de serviços médicos, aprovadas pelo Conselho  Municipal de Saúde, devendo este referendar o contrato e atestar a liquidação da despesa mensal. Diretor Geral do Hospital Municipal pode firmar contrato de prestação de serviços médicos, para exercer suas funções em local que não seja no Hospital.
 -   TCM, 05.07.2001
