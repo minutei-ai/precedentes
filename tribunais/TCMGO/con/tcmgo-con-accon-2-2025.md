@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 002/25. Ano da página: 2025. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2025/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não é possível a utilização de recursos do FUNDEB para custeio de despesas com contribuições previdenciárias resultantes da remuneração dos profissionais da educação em efetivo exercício, relativas a exercícios financeiros anteriores, objeto de parcelamentos. É possível que os recursos do FUNDEB sejam utilizados para pagamentos de contribuições previdenciárias resultantes da remuneração dos profissionais da educação em efetivo exercício, referentes ao mesmo exercício financeiro. Determinações. Lei nº 4.320/64. Lei nº 14.113/20.
 -   DATA: 18.03.2025

@@ -12,7 +12,7 @@
 
 Título literal: RC 002/08. Ano da página: 2008. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2008/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Manifesta, em tese, que a nomeação de cônjuge de Prefeito, Primeira Dama do Município, para ocupar cargo em comissão de Secretária de Assistência Social e Trabalho, só se caracterizará nepotismo afrontoso à C.F. se a pretendente não possuir plena habilitação para o seu exercício, se houver proibição na legislação municipal e/ou se o Chefe do Executivo já houver nomeado outro(s) parente(s) até o 3º grau para cargo em comissão.
 -   DATA:07.02.08

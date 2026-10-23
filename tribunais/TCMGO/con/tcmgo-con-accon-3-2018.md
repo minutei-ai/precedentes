@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 003/18. Ano da página: 2018. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2018/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Em licitação destinada exclusivamente a Microempresas (ME) e Empresas de Pequeno Porte (EPP), cujos itens de contratação estejam dentro do limite legal, e havendo no mínimo três fornecedores qualificados sediados na região, podem participar quaisquer empresas enquadradas como ME e EPP, mesmo de fora da região. A Administração não é obrigada a manter cadastro de fornecedores enquadrados como ME e EPP, sendo possível contratar mesmo que não exista cadastro prévio. Em caso de licitação deserta, deve a Administração repetir o certame. LC nº 123/16, art. 48, § 3º.
 -   DATA: 25.04.18

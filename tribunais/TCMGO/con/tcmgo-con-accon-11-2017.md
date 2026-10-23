@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 011/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Médico eleito prefeito não pode exercer qualquer tipo de atividade, mesmo em outro município, que possa afetar os interesses da coletividade, no caso, plantões em hospital de outro município, mediante contrato de trabalho celebrado com empresa privada credenciada pelo Sistema Único de Saúde – SUS. A habitualidade da prestação de serviços e o recebimento de honorários públicos, mesmo que seja em outro município, pode configurar acumulação indevida de funções públicas.
 -   DATA: 12.04.17

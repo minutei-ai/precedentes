@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 015/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Aportes periódicos de recursos realizados pelo município, para equacionar o déficit atuarial do RPPS, devem ser aplicados por pelo menos cinco anos, têm natureza de “outras despesas correntes”, não são incluídos nas despesas com pessoal e não repercutem no limite fiscal estabelecido na Lei de Responsabilidade Fiscal. Os recursos dos aportes periódicos, quando utilizados antes de completados cinco anos de sua realização, passam a integrar o total das despesas com pessoal e repercutem no limite fiscal.  A contribuição previdenciária suplementar realizada pelo município para equacionaro déficit atuarial tem natureza idêntica à da contribuição patronal principal, compondo o total das despesas com pessoal, LC nº 101/00, art. 18; art. 19. Portaria MF nº 464/18. Portaria MPS nº 746/11.
 -   DATA: 10.07.19

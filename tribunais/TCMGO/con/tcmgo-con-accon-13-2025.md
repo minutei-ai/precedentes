@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 013/25. Ano da página: 2025. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2025/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a contratação de agentes de limpeza e jardineiros em caráter emergencial, por tempo determinado, desde que para atender à necessidade temporária de excepcional interesse público. A contratação é possível, em caráter emergencial, por meio de dispensa de licitação, desde que comprovada a situação emergencial ou calamitosa, mediante contrato administrativo direto. CF/88, art. 37, IX. Lei nº 14.133/21, art. 75 VIII.
 -   DATA: 09.12.2025

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 007/22. Ano da página: 2022. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2022/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível fixação, por lei, de remuneração dos conselheiros tutelares, nos termos do AC-CON 015/15, na vigência da LC nº 173/20, desde que haja previsão da despesa no orçamento, autorização específica na LDO, e atendimento à LRF quanto à geração de despesa. Os efeitos financeiros de lei municipal que fixa remuneração para os conselheiros tutelares com aumento/reajuste, em período vedado pela LC nº 173/20, só poderão ser aplicados a partir de 1º/01/2022. CF/88, art. 169, §1º, I e II. LRF, arts. 16 e 17.
 -   DATA: 21.05.2022

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 014/22. Ano da página: 2022. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2022/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não é obrigatória a publicação dos atos de dispensa de licitação de pequeno valor e seus contratos na imprensa oficial, mas é necessária sua divulgação no sítio eletrônico oficial do órgão, em local de fácil acesso, considerando o princípio constitucional da publicidade e o previsto na Lei de Acesso à Informação.  A partir de 02/04/2023, a publicidade das contratações de pequeno valor passa a ser regulada pela nova Lei de Licitações.  CF/88, art. 37, <em>caput</em>. Lei nº 8.666, art. 24, I e II. Lei nº 12.527/11, art. 8º, § 1º, IV e § 2º. Lei nº 14.133/21, art. 75, § 3º.
 -   DATA: 08.11.2022

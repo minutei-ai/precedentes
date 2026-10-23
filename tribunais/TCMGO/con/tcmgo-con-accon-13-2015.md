@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 013/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não deve incidir contribuição do servidor para “plano de saúde municipal do servidor público” sobre o décimo terceiro salário. Os valores recolhidos indevidamente devem ser restituídos, com acréscimos legais, sob pena de enriquecimento sem causa da pessoa jurídica que os recebe. Caso os recolhimentos indevidos se refiram à contribuição patronal, o município pode renunciar aos valores em favor da entidade gestora do “plano de saúde municipal”, mediante autorização legislativa.
 -   DATA: 14.10.15

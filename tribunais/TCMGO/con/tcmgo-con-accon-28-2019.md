@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 028/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a permuta de imóvel público por imóvel particular, construído ou não, cumpridas as seguintes condições: a) presença de interesse público justificado mediante processo administrativo que demonstre as razões de escolha do imóvel particular permutado e preço praticado; b) avaliação prévia; c) atendimento aos requisitos da lei municipal (lei orgânica ou lei ordinária) para permuta de bens imóveis. É possível a realização de chamamento público (prospecção de mercado), mesmo que não haja disposição legal.
 -   DATA: 27.11.2019

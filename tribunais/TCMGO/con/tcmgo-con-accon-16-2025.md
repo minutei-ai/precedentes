@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 016/25. Ano da página: 2025. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2025/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível o credenciamento como instrumento de habilitação prévia apenas para atividades vinculadas à educação, saúde e assistência social. A celebração de parcerias com OSC previamente credenciadas dispensa o chamamento público nas hipóteses de contratação direta, quando voltadas para as áreas de educação, saúde e assistência social, mediante justificativa formal. Diretrizes do manual MROSC do Governo Federal. Lei nº 13.019/14, art. 30, VI. Lei nº 14.133/21.
 -   DATA: 17.12.2025

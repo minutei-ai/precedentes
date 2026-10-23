@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 010/22. Ano da página: 2022. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2022/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O poder legislativo municipal detém competência para iniciativa de lei ordinária para concessão de benefício de auxílio-alimentação aos vereadores, desde que haja previsão no orçamento da Câmara e que seja concedido estritamente quando do exercício das atividades públicas fiscalizatórias ou legiferantes do beneficiado.  
     CF/88, art. 169, §1º, I e II; art. 29, VI. LC nº 101/00, arts. 16 e 17.

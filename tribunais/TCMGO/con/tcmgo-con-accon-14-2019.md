@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 014/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É irregular a cessão ou disposição de estagiários da câmara municipal para outros órgãos da Administração Pública, por se tratar de instituto típico do regime funcional de servidores públicos O estágio é ato educativo supervisionado, regulamentado por lei federal, cujo descumprimento pode ocasionar prejuízos à Administração Pública. Lei nº 11.788/08, art. 3º; art. 9º, VII; art.15.
 -   DATA: 10.07.19

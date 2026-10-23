@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 017/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O município pode contratar associação para prestar serviço de acolhida em casa de apoio, para as pessoas carentes em tratamento de saúde na capital do Estado, desde que haja previsão no estatuto da associação. É possível a realização de licitação para a contratação do serviço, sendo vedada a restrição às associações no edital de licitação. É possível a contratação direta para valores inferiores ao limite legal previsto na lei de licitações sendo exigida a pesquisa de preços, e vedado o fracionamento de despesa. Lei nº 8.666/93, art. 23, § 5º, art. 24, II.
 -   DATA: 09.12.15

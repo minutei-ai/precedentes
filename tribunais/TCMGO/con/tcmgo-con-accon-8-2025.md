@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 008/25. Ano da página: 2025. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2025/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível o repasse de auxílio financeiro a time de futebol como forma de fomento ao desporto profissional, desde que haja definição de objetivos no plano municipal de esporte e evidência de interesse público. É admissível a aquisição de ingressos de futebol para distribuição a contribuintes como forma de incentivo à quitação de tributos, mediante previsão legal. A aquisição deve ser feita via contrato administrativo, e não por meio de convênio
 -   DATA: 22.07.2025

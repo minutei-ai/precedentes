@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 030/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O procedimento e critérios para o reembolso de despesas com viagens, diárias ou adiantamento devem ser previstos em lei e não é possível ao beneficiário optar pela forma como se dará o ressarcimento. Não havendo previsão legal, a indenização deve ser feita por meio de reembolso pela Administração, que deverá adotar procedimentos rígidos para a prestação de contas, com toda a documentação comprobatória dos gastos.
 -   DATA: 20.12.17

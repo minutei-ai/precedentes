@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 014/13. Ano da página: 2013. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2013/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a compensação de horas por servidor público ocupante de cargo efetivo da Câmara, havendo previsão normativa. O subsídio do presidente da câmara municipal pode ser fixado em valor diferenciado do estabelecido para os demais vereadores, desde que em parcela única e respeitados os limites constitucionais. Sobre pagamento de diárias e uso de veículo câmara, encaminha: RC nº 006/07, RC nº 043/09; AC-CON nº 019/11, AC-CON nº 030/11. CF/88, art. 29, VI; art. 37, X e XI; art. 39, § 4º.
 -   DATA: 16.10.13

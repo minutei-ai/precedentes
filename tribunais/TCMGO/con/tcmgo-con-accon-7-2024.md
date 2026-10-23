@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 007/24. Ano da página: 2024. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2024/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Consulta sobre edição de Lei Municipal para regulamentação da Lei Federal nº 14.133/2021 no âmbito da Câmara Municipal de Cachoeira Alta/GO. Consulta do Presidente da Câmara Municipal de Cachoeira Alta, Sr. Nilton Oliveira de Freitas, sobre a regulamentação da Lei Federal nº 14.133/2021. Competência legislativa municipal para regulamentar normas gerais.1. Pode-se designar servidor comissionado para Comissões de Contratação, na ausência de efetivo qualificado.2. Gratificação para servidores efetivos em comissões de licitação é possível, desde que prevista em lei específica e acompanhada de estudo de impacto financeiro, vedada a comissionados. 3. A lei municipal não pode ter efeitos retroativos a abril de 2023, especialmente sobre a composição e funcionamento das Comissões de Contratação.
 -   DATA: 16.07.2024

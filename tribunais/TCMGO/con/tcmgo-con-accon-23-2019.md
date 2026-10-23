@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 023/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não é possível a contratação de médico auditor, por meio de credenciamento, porque as atividades de natureza regulatória e fiscalizatória são típicas de Estado, indelegáveis a terceiros. Essas atividades devem ser exercidas por servidores com vínculo efetivo e permanente, por médico efetivo cujas atribuições contemplem o exercício dessas funções, ou deve-se realizar concurso público de provas e/ou títulos. CF/88, art. 37, II. Lei nº 12.842/13, art. 5º.
 -   DATA: 16.10.2019

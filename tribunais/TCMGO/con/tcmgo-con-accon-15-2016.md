@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 015/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Para efeito de realinhamento de preços em contrato de fornecimento de combustível, é dispensável portaria da Petrobras autorizando o aumento de preços pela Distribuidora, podendo o documento ser suprido por outro que comprove o reajuste de preços dos combustíveis, tal como o Levantamento de Preços e de Margens de Comercialização de Combustíveis realizado pela ANP ou nota fiscal emitida pelos distribuidores e revendedores. Determina alteração do disposto na IN nº 010/15, art. 4º, §4º, I, “c” e sua adequação ao entendimento desta decisão.
 -   DATA: 05.10.16

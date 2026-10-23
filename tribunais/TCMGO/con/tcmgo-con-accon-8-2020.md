@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 008/20. Ano da página: 2020. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2020/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A aposentadoria de servidor público ou empregado público após a vigência da EC nº 103/19, utilizando tempo de contribuição, implica em rompimento do vínculo funcional ou em rescisão do contrato de trabalho. Também há ruptura do vínculo caso a aposentadoria de servidor público se dê antes da vigência da EC nº 103/19. As aposentadorias de empregados públicos celetistas ocorridas anteriores à EC nº 103/19 não rompem automaticamente o vínculo com a Administração se houverem permanecido em atividade, conforme regra de transição. Servidor aposentado, com vínculo funcional rompido só poderá cumular proventos com vencimentos de cargo em comissão ou mediante reingresso por meio de aprovação em concurso público, no caso de cargos acumuláveis. CF/88, art. 37, § 10, § 14. EC nº 103/19.
 -   DATA: 10.06.2020

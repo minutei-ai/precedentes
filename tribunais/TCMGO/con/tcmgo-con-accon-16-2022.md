@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 016/22. Ano da página: 2022. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2022/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível o repasse de saldo remanescente de incentivo financeiro aos agentes comunitários de saúde (ACS) e agentes de combate às endemias (ACE), por meio de lei municipal em sentido estrito, com critérios para a concessão da vantagem e previsão de que o pagamento está adstrito ao saldo remanescente do incentivo financeiro transferido pela União e persistirá enquanto houver o referido repasse. A vantagem não pode ser incorporada à remuneração, não servirá de base para cálculo de outras vantagens e está submissa ao teto remuneratório.  CF/88, art. 37, IX. Lei nº 11.350/06. LC nº 101/00, art. 18
 -   DATA: 08.11.2022

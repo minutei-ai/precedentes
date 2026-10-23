@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 006/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Inexiste possibilidade jurídica de iniciativa de lei, pelo Chefe do Poder Legislativo, que defina a data-base e o índice (lei genérica) a ser aplicado na revisão geral anual dos seus servidores e dos vereadores, por tratar-se de competência privativa do Chefe do Poder Executivo, conforme art. 1º da RN 005/07. A inércia doPrefeito implica omissão inconstitucional, o que o constitui em mora.  Omissão ainda pendente de apreciação pelo STF no RE 565.089.
 -   DATA: 11.05.16

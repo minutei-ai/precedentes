@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 001/26. Ano da página: 2026. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2026/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não é possível a instituição de credenciamento exclusivo para microempresas, empresas de pequeno porte, sejam ou não sediadas local ou regionalmente em razão de violação ao artigo 49, IV da LC nº 123/06, bem como por ferir os princípios da isonomia e da ampla concorrência. O contrato decorrente de credenciamento não se vincula ao limite do previsto na LC nº 123/06, por se tratar de uma forma de inexigibilidade de licitação LC nº 123/06, arts. 47, 48, I e 49, IV. Lei nº 14.133/21, art. 4º, §3º e art. 75, §1º.
 -   DATA: 10.02.2026

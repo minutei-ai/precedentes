@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 018/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Agente Comunitário de Saúde (ACS) e Agente de Combate às Endemias (ACE), efetivados pela Emenda Constitucional nº 51/06, integram o plano de carreira dos cargos nos mesmos moldes dos admitidos por Processo Seletivo Público. As diretrizes para o plano de carreira dos ACS e dos ACE são aplicáveis tanto aos agentes regidos pelo regime celetista quanto aos estatutários. É possível a coexistência, no município, de servidores que ocupem empregos e cargos públicos de ACS e ACE; não é possível a transposição do regime celetista para o estatutário, conforme item 2.2 da AC-CON nº 032/12. CF/88, art. 198, § 4º. EC nº 51/06, art. 1º, art. 2º. Lei n° 11.350/06. Lei n° 12.994/14.
 -   NOTA: Ver também  AC-CON nº 032/12 \[referência sem URL HTTP pública no catálogo; endereço original preservado privadamente\]

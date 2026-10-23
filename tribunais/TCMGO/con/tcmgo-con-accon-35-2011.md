@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 035/11. Ano da página: 2011. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2011/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impossível a celebração de contrato de trabalho por prazo determinado e a designação de servidor público efetivo de outro órgão para cobrir falta deservidor afastado. É vedada a readaptação, em outro cargo, de servidor impossibilitado para o trabalho. Deve-se buscar no ente repassador da verba federal informação sobre a forma de destinação de recursos aos integrantes das equipes. CF/88, art. 198, § 4º; § 5º; art. 169. Lei nº 11.350/06, art. 9º; art. 16.
 -   DATA: 14.09.11

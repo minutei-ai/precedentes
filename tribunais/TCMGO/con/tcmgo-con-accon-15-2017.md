@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 015/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a extinção de gratificação específica, mediante lei, mantida a irredutibilidade de vencimentos e subsídios, sob a denominação de Vantagem Pessoal Nominalmente Identificada. A gratificação específica não se incorpora em definitivo ao patrimônio jurídico do servidor público, por inexistir direito adquirido que se sobreponha à alteração de regime jurídico administrativo decorrente de mudanças na legislação de regência, conforme entendimento do Supremo Tribunal Federal. CF/88, art. 37, XV. STF – RE 563965-RN.
 -   DATA: 21.06.17

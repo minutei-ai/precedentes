@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 029/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O Poder Legislativo tem competência para dispor sobre a forma de controle de frequência de seus servidores, por meio de lei ou de resolução. Os  
     ocupantes de cargo em comissão devem trabalhar, em regra, na sede da câmara, sendo possível, excepcionalmente, a dispensa do registro de ponto, que deve ser deferida pela autoridade competente, com motivação, em cada caso. Devem ser utilizadas formas alternativas de controle de cumprimento das atividades, por meio de relatórios formais amparados em documentos. Em caso de omissão, a responsabilidade é solidária aos administradores da cada  

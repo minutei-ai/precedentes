@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 020/11. Ano da página: 2011. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2011/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível o pagamento do piso salarial aos professores de nível médio. Os cargos de nível médio só serão extintos quando vagarem e seus ocupante podem continuar atuando, desde que na educação infantil e nas quatro primeiras séries do ensino fundamental. Lei nº 11.738/08, art. 2º. Lei nº 9.394/96, art. 62. Resolução CNE nº 2/2009, art. 5º, V.
 -   DATA: 06.07.11

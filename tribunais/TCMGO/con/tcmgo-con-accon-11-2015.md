@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 011/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É ilegal a utilização do instituto da dação em pagamento de bens imóveis pelo município, para amortização de dívidas decorrentes de contratos, para de aquisição de materiais elétricos destinados à iluminação pública, por se tratar de despesa de custeio. A exceção à ilegalidade deve ser compreendida à luz da motivação que a criou,como concorrência em que não seja oferecido valor maior que o valor a ser  compensado pela dação em pagamento. CF/88, art. 37. Lei nº 8.666/93, art. 17, “a”. LC nº 101/00, art. 44.
 -   DATA: 09.09.15

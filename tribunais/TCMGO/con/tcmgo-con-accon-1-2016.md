@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 001/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A progressão ou promoção de profissional do magistério deve ser feita conforme o AC-CON nº 010/14, estando sujeita à nulidade a ascensão funcional ilícita. A Administração pode anular os atos administrativos ilegais, respeitadas as limitações: decadência pelo decurso de prazo (5 anos) e a previsão legal da década da educação, que permitiu a ascensão a cargos superiores de professores que ingressaram em cargos de nível médio. O município deve instaurar processo administrativo para apurar a regularidade das progressões/promoções realizadas e ao Prefeito a adequação da legislação municipal que trate do plano de carreira do magistério municipal. Lei nº 9.394/96, art. 87, § 4º.
 -   DATA: 03.02.16

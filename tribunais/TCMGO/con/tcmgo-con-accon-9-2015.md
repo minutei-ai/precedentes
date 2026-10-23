@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 009/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É impossível o cômputo de pagamento de premiação a alunos da rede pública municipal, por alcance de elevado desempenho escolar, no limite mínimo a ser gasto pelo município em educação. Tal despesa não se enquadra como de manutenção e desenvolvimento do ensino para fins do art. 212 da CF/88. CF/88, art. 212. Lei nº 9.394/96, art. 70.
 -   DATA: 08.07.15
