@@ -170,7 +170,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1669750586.pdf) — O PDF possui página sem texto extraível. A transcrição e a conferência visual permanecem pendentes.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1669750586.pdf) — A revisão visual das cinco páginas e de três ampliações confirmou trechos muito apagados: o endereço eletrônico no rodapé da página 1 e referências editoriais junto às citações dos artigos 52-C e 116 na página 3 não puderam ser conciliados integralmente. O documento permanece retido, sem reconstrução por inferência nem publicação como íntegra.
 
 [Despacho do coordenador](https://sapiens.agu.gov.br/valida_publico?id=216035) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
 
