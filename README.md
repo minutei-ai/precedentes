@@ -2,7 +2,7 @@
 
 Súmulas, temas, consultas e orientações de fontes oficiais. Um arquivo Markdown por registro.
 
-**33.156 registros · 108 órgãos · cobertura parcial**
+**33.311 registros · 109 órgãos · cobertura parcial**
 
 - [Explorar por órgão](tribunais/)
 - [Fontes, cobertura e pendências](COBERTURA.md)

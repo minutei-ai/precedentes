@@ -1,0 +1,159 @@
+# TCESE · Consulta e revisão de consulta
+
+**155 registros.** [Voltar ao tribunal](../)
+
+- [CON TC/000081/2008](tcese-con-000081-2008.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000103/2017](tcese-con-000103-2017.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000140/2011](tcese-con-000140-2011.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000162/2017](tcese-con-000162-2017.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000196/2019](tcese-con-000196-2019.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000199/2017](tcese-con-000199-2017.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000220/2012](tcese-con-000220-2012.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000221/2012](tcese-con-000221-2012.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000223/2015](tcese-con-000223-2015.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000240/2005](tcese-con-000240-2005.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000254/2012](tcese-con-000254-2012.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000289/2019](tcese-con-000289-2019.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000344/2017](tcese-con-000344-2017.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000376/2010](tcese-con-000376-2010.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000377/2013](tcese-con-000377-2013.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000395/2011](tcese-con-000395-2011.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000399/2014](tcese-con-000399-2014.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000422/2017](tcese-con-000422-2017.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000469/2017](tcese-con-000469-2017.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000512/2015](tcese-con-000512-2015.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000571/2024](tcese-con-000571-2024.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000596/2011](tcese-con-000596-2011.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000597/2011](tcese-con-000597-2011.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000607/2005](tcese-con-000607-2005.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000647/2007](tcese-con-000647-2007.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000651/2004](tcese-con-000651-2004.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000656/2001](tcese-con-000656-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000657/2001](tcese-con-000657-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000658/2001](tcese-con-000658-2001.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000662/2021](tcese-con-000662-2021.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000695/2015](tcese-con-000695-2015.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000720/2009](tcese-con-000720-2009.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000721/2009](tcese-con-000721-2009.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000767/2003](tcese-con-000767-2003.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000773/2002](tcese-con-000773-2002.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000841/2007](tcese-con-000841-2007.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000868/2008](tcese-con-000868-2008.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000869/2008](tcese-con-000869-2008.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000870/2008](tcese-con-000870-2008.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000874/2007](tcese-con-000874-2007.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/000947/2018](tcese-con-000947-2018.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001000/2021](tcese-con-001000-2021.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001026/2008](tcese-con-001026-2008.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001038/2001](tcese-con-001038-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001063/2001](tcese-con-001063-2001.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001064/2001](tcese-con-001064-2001.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001079/2014](tcese-con-001079-2014.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001089/2016](tcese-con-001089-2016.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001119/2002](tcese-con-001119-2002.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001128/2007](tcese-con-001128-2007.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001130/2014](tcese-con-001130-2014.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001144/2001](tcese-con-001144-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001178/2006](tcese-con-001178-2006.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001179/2006](tcese-con-001179-2006.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001180/2006](tcese-con-001180-2006.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001181/2006](tcese-con-001181-2006.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001182/2006](tcese-con-001182-2006.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001217/2001](tcese-con-001217-2001.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001217/2007](tcese-con-001217-2007.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001291/2001](tcese-con-001291-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001327/2003](tcese-con-001327-2003.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001352/2001](tcese-con-001352-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001424/2001](tcese-con-001424-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001475/2016](tcese-con-001475-2016.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001476/2016](tcese-con-001476-2016.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001520/2012](tcese-con-001520-2012.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001639/2003](tcese-con-001639-2003.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001642/2015](tcese-con-001642-2015.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001728/2007](tcese-con-001728-2007.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001734/2013](tcese-con-001734-2013.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001735/2019](tcese-con-001735-2019.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001781/2008](tcese-con-001781-2008.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001797/2002](tcese-con-001797-2002.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001807/2016](tcese-con-001807-2016.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001825/2005](tcese-con-001825-2005.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001848/2001](tcese-con-001848-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001859/2018](tcese-con-001859-2018.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001909/2011](tcese-con-001909-2011.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001943/2019](tcese-con-001943-2019.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/001963/2022](tcese-con-001963-2022.md) — Classificações cadastrais: LEGAL. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002005/2016](tcese-con-002005-2016.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002007/2014](tcese-con-002007-2014.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002045/2001](tcese-con-002045-2001.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002053/2011](tcese-con-002053-2011.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002181/2013](tcese-con-002181-2013.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002202/2015](tcese-con-002202-2015.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002300/2013](tcese-con-002300-2013.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002358/2023](tcese-con-002358-2023.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002364/2007](tcese-con-002364-2007.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002365/2007](tcese-con-002365-2007.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002419/2011](tcese-con-002419-2011.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002420/2011](tcese-con-002420-2011.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002421/2018](tcese-con-002421-2018.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002428/2007](tcese-con-002428-2007.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002525/2001](tcese-con-002525-2001.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002637/2011](tcese-con-002637-2011.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002638/2011](tcese-con-002638-2011.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002709/2018](tcese-con-002709-2018.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002790/2016](tcese-con-002790-2016.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002925/2013](tcese-con-002925-2013.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002926/2013](tcese-con-002926-2013.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002937/2011](tcese-con-002937-2011.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/002977/2022](tcese-con-002977-2022.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/003091/2022](tcese-con-003091-2022.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/003131/2013](tcese-con-003131-2013.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/003240/2018](tcese-con-003240-2018.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/003423/2021](tcese-con-003423-2021.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/004042/2024](tcese-con-004042-2024.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/004061/2024](tcese-con-004061-2024.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/004126/2018](tcese-con-004126-2018.md) — Classificações cadastrais: LEGAL. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/004457/2019](tcese-con-004457-2019.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/004651/2022](tcese-con-004651-2022.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/004765/2020](tcese-con-004765-2020.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/004831/2022](tcese-con-004831-2022.md) — Classificações cadastrais: LEGAL. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/006389/2021](tcese-con-006389-2021.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/006958/2021](tcese-con-006958-2021.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/007516/2018](tcese-con-007516-2018.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/007596/2022](tcese-con-007596-2022.md) — Classificações cadastrais: LEGAL. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/007629/2020](tcese-con-007629-2020.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/008189/2024](tcese-con-008189-2024.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/008668/2020](tcese-con-008668-2020.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/008792/2018](tcese-con-008792-2018.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/008882/2023](tcese-con-008882-2023.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/009543/2020](tcese-con-009543-2020.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/009950/2024](tcese-con-009950-2024.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/010007/2021](tcese-con-010007-2021.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/010169/2022](tcese-con-010169-2022.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/010518/2018](tcese-con-010518-2018.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/010701/2025](tcese-con-010701-2025.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/010741/2025](tcese-con-010741-2025.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/011198/2024](tcese-con-011198-2024.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/011475/2025](tcese-con-011475-2025.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/011690/2024](tcese-con-011690-2024.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/012037/2019](tcese-con-012037-2019.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/012724/2019](tcese-con-012724-2019.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/012755/2025](tcese-con-012755-2025.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/013106/2019](tcese-con-013106-2019.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/014565/2019](tcese-con-014565-2019.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/015767/2019](tcese-con-015767-2019.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/035453/2017](tcese-con-035453-2017.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/082562/2000](tcese-con-082562-2000.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/083096/2000](tcese-con-083096-2000.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/083249/2000](tcese-con-083249-2000.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/085067/2000](tcese-con-085067-2000.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/086100/2000](tcese-con-086100-2000.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/088409/2000](tcese-con-088409-2000.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/089768/2000](tcese-con-089768-2000.md) — Classificações cadastrais: ARQUIVAMENTO. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/090116/2000](tcese-con-090116-2000.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/090443/2000](tcese-con-090443-2000.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/092353/2000](tcese-con-092353-2000.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/093615/2017](tcese-con-093615-2017.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/108103/2017](tcese-con-108103-2017.md) — Classificações cadastrais: RESPOSTA AO CONSULENTE. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/108285/2017](tcese-con-108285-2017.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/109625/2017](tcese-con-109625-2017.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
+- [CON TC/110489/2017](tcese-con-110489-2017.md) — Classificações cadastrais: OUTROS. A presença na base não confirma tese firmada ou vigente.
