@@ -12,7 +12,7 @@
 
 Título literal: RC 001/05. Ano da página: 2005. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2005/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Despesas deixadas pela gestão anterior, restos a pagar, deverão ser pagas pelo Município. Despesas com folha de pessoal, empenhadas, liquidadas e não pagas. Deve a Administração tomar medidas imediatas para a quitação, tendo em vista seu caráter alimentar e social. Para a despesas não empenhadas, deve a Administração adotar medidas de reconhecimento da dívida, apuração de sua liquidação e o empenho em “Despesas de Exercícios Anteriores.” O possível déficit orçamentário ou financeiro gerado pelo pagamento de tais despesas poderá ser evitado mediante acompanhamento da “ programação financeira” e do “cronograma de execução mensal de desembolso.” Ordem cronológica. RN n° 007/01 L.R.F., arts. 8°, 29.I; 37, III; 50, V; 53, V; 59, II. Lei n° 4320/64, art.36, 47,48
 -   DATA: 23.02.05

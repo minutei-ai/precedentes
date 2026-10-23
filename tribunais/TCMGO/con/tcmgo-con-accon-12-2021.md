@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 012/21. Ano da página: 2021. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2021/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Para o cumprimento do art. 8º da LC nº 173/20, deve ser usado como critério de mensuração do aumento de despesa, em regra, a tese proporcional, ou seja, o percentual em relação à receita corrente líquida apurado, para as despesas com pessoal, ao final do primeiro quadrimestre do exercício de 2020 – últimos doze meses a partir de maio/2019 (LC nº 101/00), sem prejuízo de posterior avaliação pelo TCMGO de contas de casos concretos, cuja aplicação do critério indicado não reflita de forma adequada o valor da despesa sob a vigência da LC nº 173/20. LC nº 173/20, art. 8º. LC nº 101/00.
 -   DATA: 01.12.2021

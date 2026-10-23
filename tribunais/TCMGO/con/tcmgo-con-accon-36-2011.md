@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 036/11. Ano da página: 2011. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2011/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a concessão de aposentadoria especial pelos critérios definidos no §1º do art. 51 da Lei Federal nº 8.213/91, enquanto não editadas as leis complementares de que trata o § 4º do art. 40 da CF, a servidor público que exerceu suas atividades em ambientes insalubres. Aplicação do dispositivo deve ser feita de forma pura, sem mesclar com o sistema de aposentação do art. 40 da CF. CF/88, art. 40, § 4º. Lei nº 8.213/91, art. 51, § 1º. Lei Estadual nº 15.958/07, art. 101.
 -   DATA: 05.10.11

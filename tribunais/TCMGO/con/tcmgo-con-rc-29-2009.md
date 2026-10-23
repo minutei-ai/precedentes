@@ -12,7 +12,7 @@
 
 Título literal: RC 029/09. Ano da página: 2009. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2009/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da autonomia do Município para alterar a LOM com vistas a excluir a vedação de o Vereador, Secretário e pessoas ligadas a estes contratarem com o Município, respeitados os princípios da Constituição Federal. As vedações de se contratar com o Município permanecem, mesmo quando há procedimento licitatório, excetuando-se apenas os contratos com cláusulas uniformes – contrato de adesão.
 -   DATA: 26.08.09

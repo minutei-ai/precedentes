@@ -12,7 +12,7 @@
 
 Título literal: RC 056/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade de utilização da parcela de 40% do FUNDEF, destinados a outras despesas de manutenção do ensino fundamental, para o pagamento de despesas relativas à qualificação dos professores, (bolsas de estudo para qualificação), bem como não existe limite para a utilização de tais recursos para qualificação de professores. A despesa com aperfeiçoamento do pessoal docente é considerada como de manutenção e desenvolvimento de ensino, estando enquadrada nas disposições do art. 70 da Lei nº 9.394/96. Lei nº 9.424/96, art. 7º, art. 9º, § 2º; C.F., art. 60, § 7º do ADCT; Lei nº 9.394, arts. 70.
 -   TCM, 04.09.2002

@@ -12,7 +12,7 @@
 
 Título literal: RC 028/05. Ano da página: 2005. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2005/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Sobre a possibilidade de a Prefeitura realizar contrato de prestação de serviço de consultoria com vistas à recuperação de créditos tributários e previdenciários. Este Tribunal entende ser imprescindível a licitação para contratar serviços advocatícios , sempre que houver viabilidade de competição, mesmo preenchidos os requisitos de singularidade e notória especialização. Também, só e permitido contrato de risco na Administração Pública quanto o município não despender qualquer valor, sendo a remuneração do contrato proveniente, exclusivamente, dos honorários de sucumbência devidos pela parte vencida. Lei n° 8666/93 , arts. 25 e 13
 -   DATA: 30.11.05

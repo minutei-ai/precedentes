@@ -12,7 +12,7 @@
 
 Título literal: RC 052/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O Prefeito deve quitar os débitos da gestão anterior, respeitando a ordem cronológica dos débitos inscritos em restos a pagar, uma vez que a Administração é contínua e não se confunde com a figura do Prefeito. Os débitos com mais de 5 (cinco) anos encontram-se prescritos, se não houver ocorrido reclamação da parte interessada para receber seus créditos, podendo haver pagamento destes, mesmo quando prescritos, não caracterizando, no entanto, obrigatoriedade. Lei nº 4.320/64, art. 37; Decreto nº 20.910/32, art. 1º.
 -   TCM, 28.08.2002

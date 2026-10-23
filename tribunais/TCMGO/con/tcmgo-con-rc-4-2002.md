@@ -12,7 +12,7 @@
 
 Título literal: RC 004/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Solicita análise da matéria tratada na RC Nº 066/01, que dispõe sobre a movimentação de recursos públicos em bancos particulares. Possibilidade legal dos recursos públicos não vinculados à movimentação em instituição oficial específica permanecerem  depositados: em instituições financeiras oficiais; em instituição submetida a privatização; em banco privado, caso não haja banco oficial no Município e desde que não estejam os recursos de origem federal ou estadual vinculados à movimentação em instituição oficial específica. Medida Provisória 2.192-70, de 24.08.01; CF/88, art. 62; Emenda à CF/88 nº 32/01.
 -   TCM, 27.03.2002

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 001/13. Ano da página: 2013. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2013/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a concessão de reajuste salarial aos professores, para adequálo ao piso nacional do magistério. Não incide sobre a instituição de piso a vedação da legislação eleitoral, que trata unicamente da revisão geral anual. Não se aplica ao caso a vedação do art. 21 da Lei de Responsabilidade Fiscal, pois a lei instituidora do piso foi publicada antes dos 180 dias finais do mandato eletivo. Deve ser observado o disposto nos arts. 16, 17, 22 e 23 da LRF, a respeito de despesa com pessoal.LC nº 101/00 art. 16; art. 17; art. 21; art. 22, Parágrafo único; art. 23. Lei nº 9.504/97, art. 73, VIII. Lei nº 11.738/08.
 -   DATA: 30.01.13

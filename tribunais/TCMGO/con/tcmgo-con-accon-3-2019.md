@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 003/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A conversão do período de férias do prefeito em pecúnia exige previsão expressa em lei local e viabilidade orçamentária e financeira para sua concessão. O pagamento de indenização de férias vencidas e não gozadas pelo prefeito só pode ocorrer ao final do mandato eletivo e se o motivo do não exercício do direito decorrer de necessidade da administração. Orienta para a observância de normas da CLT e da OIT na elaboração da norma municipal sobre conversão de férias. Convenção OIT nº 132. CLT, art. 143.
 -   DATA: 27.02.19

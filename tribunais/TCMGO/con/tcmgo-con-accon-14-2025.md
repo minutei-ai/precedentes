@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 014/25. Ano da página: 2025. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2025/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível ao Poder Legislativo conceder, por meio de lei, gratificação de natureza remuneratória, e não indenizatória, destinada aos membros da mesa diretora e presidentes de comissão permanente, e é vedada aos membros de procuradorias temáticas. A soma da vantagem com o subsídio deve observar o teto remuneratório municipal. A instituição da vantagem não necessita observar o princípio da anterioridade. CF/88, Art. 37, XI; art. 29, VI.
 -   DATA: 17.12.2025

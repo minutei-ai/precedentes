@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 009/25. Ano da página: 2025. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2025/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a progressão vertical de profissionais do magistério municipal que ingressaram em concurso público em cargo de nível médio e obtiveram formação superior, desde que observados os seguintes requisitos: o plano de carreira municipal preveja expressamente a estruturação em níveis hierárquicos; as atribuições do cargo permaneçam essencialmente as mesmas, resguardada a compatibilidade com a formação adquirida; seja observada a vedação de qualquer forma de ascensão funcional que implique mudança de cargo sem novo concurso público. CF/88, art. 31, II. Súmula Vinculante 43 do STF.
 -   DATA: 22.07.2025

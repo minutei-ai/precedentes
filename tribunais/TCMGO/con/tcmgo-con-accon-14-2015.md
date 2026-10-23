@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 014/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: As funções de “coordenador disciplinar”, “profissional de magistério de apoio”, “auxiliar de biblioteca”, “dinamizador de informática e de novas tecnologias educacionais” não são consideradas funções de magistério, não de confundindo com as funções de “docência”, de “direção de unidade escolar”, de “coordenação pedagógica” e de “assessoramento pedagógico”. O tempo de serviço nas funções não consideradas “funções de magistério” não pode ser contado para aposentadoria especial. Requisitos para provimento derivado na modalidade de readaptação, para profissional do Magistério. Lei nº 9.394/96, art. 67, § 2º
 -   DATA: 20.10.15

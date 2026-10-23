@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 005/24. Ano da página: 2024. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2024/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não é cabível a restituição de contribuição previdenciária incidente sobre vantagem pecuniária temporária descontada dos segurados em período anterior a vigência da EC nº 103/2019, com fundamento em lei municipal vigente à época. As contribuições previdenciárias incidentes sobre vantagens pecuniárias transitórias, recolhidas antes da entrada em vigor da EC nº 103/2019, com base na legislação municipal então vigente, não serão consideradas no cálculo do valor de benefícios quando a regra aplicável for a da integralidade, pois não se incorporam à remuneração do servidor, conforme o art. 39, §9º, da CF/1988. Para os benefícios calculados pela regra da média aritmética, tais contribuições prestarão para aumentar os valores que comporão a média utilizada no cálculo de benefícios. CF/88, art. 39, § 9º
 -   DATA: 04.06.2024

@@ -12,7 +12,7 @@
 
 Título literal: RC 044/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da possibilidade de repasse de recursos pela municipalidade a Rádios Comunitárias, desde que haja lei municipal autorizativa específica, a entidade exploradora esteja legalmente instituída e registrada, haja previsão orçamentária, sejam atendidas as condições estabelecidas na LDO e seja demonstrado o interesse público e a observância dos princípios do art. 37, caput e § 1º da C.F. Lei 4.320/64, art. 16; C.F., arts. 21.XII, “a” e 223; Lei nº 9612/98; Decreto nº 2615/98; LC nº 101/2000 – LRF – art.26.
 -   TCM, 14.08.2002

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 009/18. Ano da página: 2018. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2018/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a concessão de férias anuais a vereador acrescidas de um terço sobre o valor dos subsídios, desde que haja previsão em lei, autorização na LDO e na LOA, e que os efeitos sejam produzidos no exercício seguinte. Cabe à Câmara Municipal regulamentar férias coletivas e gozo antecipado de férias. Caso não seja cumprido integralmente o mandato e tendo o vereador gozado de férias antecipadas, deve ser ressarcido ao erário o valor correspondente. CF/88, art. 29
 -   DATA: 20.06.18

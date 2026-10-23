@@ -12,7 +12,7 @@
 
 Título literal: RC 066/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da possibilidade de se excluírem os gastos com pensionistas do cômputo da despesa total com pessoal. As obrigações patronais e as terceirizações de mão-de-obra substitutivas de servidores públicos – assessoria jurídica, contábil… – somente poderão ser acudidas com parcela dos 30%, para efeito do cálculo dos 70% do gasto do duodécimo. Os valores dos contratos de prestação de serviços (advogados, engenheiros, contadores…) poderão ser contabilizados nas rubricas 34 e 39, nos termos do Anexo III da RN nº 003/01. CF/88,  art. 29-A, art. 169 c/c o art. 19, § 1º, VI, da LRF. ECnº nº 25/00.
 -   TCM, 02.10.2002

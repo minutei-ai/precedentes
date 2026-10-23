@@ -12,7 +12,7 @@
 
 Título literal: RC 038/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O Decreto Municipal que instituiu o percentual de 15% a favor da PAVIANA S.A. sobre os serviços executados por  terceiros em vias públicas, não foi recepcionado pelo novo ordenamento jurídico, devendo esta ser remunerada por seus serviços prestados com base em estipulação contratual, podendo ser estabelecida a remuneração calculada com base no valor da obra a ser fiscalizada. Lei nº 8987/95 – concessões e permissões;  Lei nº 8.666/93, art. 24, VIII – dispensa de licitação.
 -   TCM, 10.07.2002

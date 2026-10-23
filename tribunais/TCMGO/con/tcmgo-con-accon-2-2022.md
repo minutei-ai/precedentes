@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 002/22. Ano da página: 2022. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2022/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Para apuração do limite contido no art. 75, I e II da Nova Lei de Licitações e Contratos, deve ser considerado o que for despendido no exercício financeiro com objetos de mesma natureza, pela respectiva unidade gestora. As publicações dos procedimentos licitatórios e contratos podem ser feitas no sítio eletrônico oficial, de forma complementar, porém, a divulgação no Portal Nacional de Contratações Públicas é obrigatória. Enquanto não adotarem o PNCP, os Municípios com até 20.000 habitantes devem fazer as publicações de acordo com o disposto no parágrafo único do art. 176 da NLLC. Lei n 14.133/21, art. 74, art. 75, I e II, art. 76, parágrafo único.
 -   DATA: 09.02.2022

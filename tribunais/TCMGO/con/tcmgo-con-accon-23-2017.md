@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 023/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não caracteriza ofensa à Constituição Federal ou à Lei de Responsabilidade Fiscal o fato de o município deixar de ajuizar execução fiscal de débitos inferiores ao valor de alçada, mediante autorização legal. Não caracteriza renúncia de receita o não ajuizamento de ação de execução fiscal de débitos tributários, inferiores ao valor de alçada definido em lei. A concessão de autorização legal à Procuradoria Geral do município para requerer o arquivamento de execuções fiscais de montante inferior ao valor dos custos para obtenção dos créditos é legal e constitucional. LC nº 101/00, art. 11; art. 14.
 -   DATA: 19.10.17

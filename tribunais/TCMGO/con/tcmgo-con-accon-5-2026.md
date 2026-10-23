@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 005/26. Ano da página: 2026. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2026/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: EMENTA: O limite das emendas parlamentares individuais impositivas municipais deve ser calculado com base na Receita Corrente Líquida do exercício anterior ao do encaminhamento do projeto de lei orçamentária, aplicando-se o mesmo critério aos restos a pagar decorrentes dessas programações. As normas constitucionais relativas ao processo legislativo orçamentário são de observância obrigatória pelos Municípios, em razão do princípio da simetria constitucional. Recomenda a adequação da Lei Orgânica Municipal aos parâmetros estabelecidos pela Constituição Federal. CF/88, art. 166, §9º; art. 166, §17.
 -   DATA: 30.06.2026

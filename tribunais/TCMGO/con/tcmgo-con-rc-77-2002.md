@@ -12,7 +12,7 @@
 
 Título literal: RC 077/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não integra, no cômputo dos 70% do duodécimo repassado à Câmara Municipal, a parcela relativa ao IRRF – Imposto de Renda Retido na Fonte –  de vereadores e servidores, valor este que pertence ao Município, por força do disposto no art. 158, I, da C.F. Reforma a decisão contida na RC Nº 124/01 deste TCM.
 -   NOTA: Reforma a RC nº 124/01 \[referência sem URL HTTP pública no catálogo; endereço original preservado privadamente\]. **Revogada pela RC nº 021/03 \[referência sem URL HTTP pública no catálogo; endereço original preservado privadamente\]**

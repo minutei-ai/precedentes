@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 026/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Os aportes destinados a suprir o déficit do Plano Financeiro, realizados pelos municípios que optaram pela segregação de massa são considerados “aportes para cobertura de déficit financeiro”, concretizados como interferência financeira, caso em que não há execução orçamentária pela transferência de recursos do município ao RPPS. Os benefícios previdenciários custeados com os recursos transferidos pelo ente, após o repasse ao RPPS, são classificados como despesas de pessoal.
 -   DATA: 06.12.17

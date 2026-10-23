@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 001/21. Ano da página: 2021. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2021/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É vedada a majoração de “jetom” dos membros de Conselho Municipal durante o estado de calamidade ocasionado pela COVID-19, a menos que a legislação que promoveu a  alteração tenha sido editada antes do estado de calamidade. É vedada a majoração do jetom durante o período eleitoral, por se tratar de parcela integrante da remuneração do servidor. O jetom é uma verba de natureza remuneratória e somente por lei específica é possível fixar ou alterar remuneração, aí incluída a verba “Jetom”. CF/88, art. 37, X. LC nº 173/20, art. 8º, incisos I e VI. Lei nº 9.504/97.
 -   DATA: 24.02.2021
