@@ -1,8 +1,8 @@
 # TCEGO
 
-Tribunal de Contas do Estado de Goiás. **4 registros.**
+Tribunal de Contas do Estado de Goiás. **33 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
-| [Resolução de Consulta](con/) | 2 |
+| [Consulta](con/) | 31 |
 | [Súmula](sum/) | 2 |
