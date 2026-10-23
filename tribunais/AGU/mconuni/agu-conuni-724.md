@@ -170,7 +170,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1660917827.pdf) — O PDF contém imagens de dimensões relevantes. O conteúdo gráfico exige conferência antes de tratar a camada textual como íntegra.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1660917827.pdf) — A revisão visual das quatro páginas confirmou o número manuscrito 034/2013/DECOR/CGU/AGU. A nota de rodapé 1 da página física 3 está muito apagada e não permite transcrição integral conferida, mesmo em ampliação. O texto permanece retido; a lacuna não foi preenchida a partir dos dispositivos legais citados.
 
 [Despacho do coordenador](https://cgu.agu.gov.br/decor/arquivos/DespachoCoordenador1660917827.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
 
