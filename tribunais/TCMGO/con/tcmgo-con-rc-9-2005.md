@@ -12,7 +12,7 @@
 
 Título literal: RC 009/05. Ano da página: 2005. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2005/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1994, 1993, 1992, 1991, 1990, 1989. Todos os anos do índice preservado de 1989 a 2026 estão representados para o TCMGO. As duas resoluções identificadas como TCE são publicadas separadamente no TCEGO. As referências sem URL HTTP pública e as limitações de extração permanecem indicadas em cada registro. Essa cobertura refere-se aos registros do catálogo preservado, não à integralidade das demais bases do tribunal ou dos textos e imagens dos PDFs.
 
 -   EMENTA: O Banco do Povo, enquadrado como órgão da administração indireta, deverá observar a Lei n° 8.666/93 – licitações, bem como prestar contas ao TCM. A alienação de veículos para aquisição de outros – permuta – por constituírem bens do Município, deve ser previamente aprovada pela autoridade superior.
 -   DATA: 11.05.05

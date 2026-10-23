@@ -1,8 +1,8 @@
 # TCMGO
 
-Tribunal de Contas dos Municípios do Estado de Goiás. **1.660 registros.**
+Tribunal de Contas dos Municípios do Estado de Goiás. **2.714 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
-| [Acórdão em consulta](con/) | 1.647 |
+| [Acórdão em consulta](con/) | 2.701 |
 | [Enunciado de Súmula](sum/) | 13 |

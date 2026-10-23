@@ -12,7 +12,7 @@
 
 Título literal: RC 028/09. Ano da página: 2009. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2009/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1994, 1993, 1992, 1991, 1990, 1989. Todos os anos do índice preservado de 1989 a 2026 estão representados para o TCMGO. As duas resoluções identificadas como TCE são publicadas separadamente no TCEGO. As referências sem URL HTTP pública e as limitações de extração permanecem indicadas em cada registro. Essa cobertura refere-se aos registros do catálogo preservado, não à integralidade das demais bases do tribunal ou dos textos e imagens dos PDFs.
 
 -   EMENTA: Pode a Câmara deixar de descontar o INSS de Vereador que já contribui, em emprego particular, com o teto máximo da Previdência, desde que comprove, mensalmente, este recolhimento. Deve a Câmara recolher a parte patronal e declará-la na GFIP, informando o nome do Parlamentar a que se refere o recolhimento. RN nº 004/99
 -   DATA: 26.08.09

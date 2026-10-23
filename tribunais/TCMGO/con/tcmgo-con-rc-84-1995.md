@@ -12,7 +12,7 @@
 
 Título literal: RC 084/95. Ano da página: 1995. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1995/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1994, 1993, 1992, 1991, 1990, 1989. Todos os anos do índice preservado de 1989 a 2026 estão representados para o TCMGO. As duas resoluções identificadas como TCE são publicadas separadamente no TCEGO. As referências sem URL HTTP pública e as limitações de extração permanecem indicadas em cada registro. Essa cobertura refere-se aos registros do catálogo preservado, não à integralidade das demais bases do tribunal ou dos textos e imagens dos PDFs.
 
 -   EMENTA: O pagamento da indenização a proprietário de veículo, em razão de danos causados por colisão com veículo patrol, pertencente ao Município, deverá decorrer da comprovação irrefutável da culpa ou dolo do agente político, concluindo-se  na responsabilidade da Administração e consequente reparação do dano. Acidente de Trânsito.
 -   TCM, 01.11.95

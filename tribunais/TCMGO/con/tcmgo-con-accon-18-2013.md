@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 018/13. Ano da página: 2013. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2013/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1994, 1993, 1992, 1991, 1990, 1989. Todos os anos do índice preservado de 1989 a 2026 estão representados para o TCMGO. As duas resoluções identificadas como TCE são publicadas separadamente no TCEGO. As referências sem URL HTTP pública e as limitações de extração permanecem indicadas em cada registro. Essa cobertura refere-se aos registros do catálogo preservado, não à integralidade das demais bases do tribunal ou dos textos e imagens dos PDFs.
 
 -   EMENTA: É permitida a adesão à ata de registro de preços em programas federais, nas áreas de saúde e educação, no âmbito do próprio município, por seus órgãos e entidades não participantes da licitação, mediante previsão legal. Decreto nº3.931/01. Decreto nº 7.892/13, art. 22. Lei nº 8.666/93, art. 15. Lei nº 10.191/00. Lei nº 12.816/13. Lei nº 12.873/13.
 -   DATA: 11.12.13
