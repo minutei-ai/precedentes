@@ -12,7 +12,7 @@
 
 Título literal: RC 061/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Vereador que fez opção pela remuneração de servidor público federal, não poderá receber ajuda de custo para início e término dos trabalhos legislativos, vez que sua remuneração não está vinculada à dos Deputados Estaduais. Não há prestação de contas individual de vereadores, uma vez que é feita pela Câmara Municipal, concomitantemente com a prestação de contas do Município, nos balancetes mensais. RC n.º 004/94.
 -   TCM, 30.06.99.

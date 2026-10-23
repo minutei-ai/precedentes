@@ -12,7 +12,7 @@
 
 Título literal: RC 112/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impossibilidade de celebração de contrato de credenciamento médico entre Prefeito e Município, ainda que só nos finais de semana, bem como o exercício cumulativo com o seu, de outro cargo, função ou atividade particular de caráter empregatício profissional ou pública, por ser de dedicação exclusiva o cargo de Prefeito. Impedimentos. Acumulação. C.F., art. 38, II; C.E., art. 76; Lei n.º 4.345, art. 12.
 -   TCM, 02.12.99

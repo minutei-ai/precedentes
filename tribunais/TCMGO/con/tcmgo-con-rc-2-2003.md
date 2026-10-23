@@ -12,7 +12,7 @@
 
 Título literal: RC 002/03. Ano da página: 2003. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2003/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Legalidade do procedimento de emissão de decretos de enquadramento de novas empresas que se instalarem no Condomínio Empresarial Village no benefício previsto na Lei nº 1.562/96, de Aparecida de Goiânia. Restrição da Ementa Constitucional n º 37/02 somente para as isenções, incentivos e benefícios fiscais concedidos após a publicação da Lei.
 -   TCM, 05.02.03

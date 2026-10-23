@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 010/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O município não pode realizar contratação temporária de servidor com a finalidade de cedê-los a outro ente federado. É possível a contratação por prazo determinado para atender necessidade temporária de excepcional interesse público, respeitados os dispositivos constitucionais e legais. CF/88, art. 37, IX. LC nº 101/00, art. 21; art. 62.
 -   DATA: 05.06.19

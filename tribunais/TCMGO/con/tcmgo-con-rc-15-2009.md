@@ -12,7 +12,7 @@
 
 Título literal: RC 015/09. Ano da página: 2009. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2009/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da possibilidade da Câmara realizar permuta de veículo ou motocicleta para aquisição de outro, desde que observados os procedimentos: avaliação de mercado; o objeto da licitação deve ser a aquisição de veículo novo, tendo como forma de pagamento o veículo a ser alienado; modalidade de licitação de acordo com o valor do veículo a ser adquirido; menor preço; empenho da diferença, baixa do bem alienado eincorporação do novo bem. Possibilidade de aquisição de veículo importado. RC  Nº 145/93, 217/93, 030/95, 009/05, 026/05.
 -   DATA: 06.05.09

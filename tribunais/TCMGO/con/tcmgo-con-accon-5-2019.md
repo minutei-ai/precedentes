@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 005/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a realização de licitação na modalidade de Convite com menos de três convidados, caso algum dos licitantes seja inabilitado por apresentar irregularidade fiscal, desde que a Administração tenha convidado três ou mais licitantes. Só deve ser exigida a regularidade fiscal de Microempresa (ME) e Empresas de Pequeno Porte (EPP) na assinatura do contrato, sendo assegurado prazo de até 5 dias úteis, prorrogáveis por igual período, para a apresentação da documentação. LC nº 123/06, art. 46. Lei nº 8.666/93, art. 22, § 3º.
 -   DATA: 13.03.19

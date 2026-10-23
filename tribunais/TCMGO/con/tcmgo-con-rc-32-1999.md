@@ -12,7 +12,7 @@
 
 Título literal: RC 032/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Contrato por prazo determinado e contrato de credenciamento para agentes comunitários da área de saúde. Definição e diferenças entre os dois tipos de contrato. Contribuição previdenciária dos servidores contratados por prazo determinado, como segurados obrigatórios do RGPS, de acordo com a E.C. n.º 20/98.Doação de imóveis a pessoas físicas ou jurídicas de direito privado. Recomendação de utilização da “concessão de direito real de uso”. C.F., art. 47, IX e 37, II; C.E., art. 92, X; E.C. 020/98; Lei Federal n.º 8.666/93; Lei Municipal n.º 196/98; RN 017/98; RN 04/99
 -   TCM, 20.04.99.

@@ -12,7 +12,7 @@
 
 Título literal: RC 042/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade de prorrogação contratual com aumento do valor do contrato, com advogado e contador, firmados pelo Legislativo – Câmara – , após um ano de vigência. O foro competente para dirimir questão advinda de contrato será o da sede da Administração Pública. Lei nº 9.096/95 – Plano Real; Lei nº 8.666/93, art. 55, § 2º e art. 32, § 6º.
 -   TCM, 31.05.00

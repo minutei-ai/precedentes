@@ -12,7 +12,7 @@
 
 Título literal: RC 059/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O art. 14 da Lei Complementar nº 101/2000 – Lei de Responsabilidade Fiscal, não pode modificar ou revogar incentivos fiscais concedidos pelo Código Tributário do Município. O abatimento do IPTU não é considerado como renúncia de receita, em decorrência do caráter geral do benefício. Através de outra lei municipal é possível reduzir  percentual do benefício.
 -   TCM, 25.04.2001

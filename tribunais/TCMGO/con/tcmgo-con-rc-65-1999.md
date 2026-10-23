@@ -12,7 +12,7 @@
 
 Título literal: RC 065/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O prazo para apresentação de projeto de lei de diretrizes orçamentárias e orçamento deve ser estabelecido por lei complementar. Na falta desta, aplicam-se as regras do art. 35, § 2º, I e II do ADCT/C.F.: LDO até 8 meses e meio antes do encerramento do exercício financeiro e projeto de lei orçamentária até quatro meses antes do encerramento do exercício financeiro. Ausência do projeto de Lei de Diretrizes Orçamentárias. Omissão do Executivo em encaminhar projetos da LDO e do orçamento, pode caracterizar infração político-administrativa e cassação. D.L. 201/67, art. 4º, V. Impossibilidade de se apreciar o projeto de lei do orçamento sem a LDO. A competência para abrir créditos especiais é do Executivo. Lei Federal n.º 4.320/64.
 -   TCM, 28.07.99

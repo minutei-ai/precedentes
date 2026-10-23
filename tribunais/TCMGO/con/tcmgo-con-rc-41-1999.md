@@ -12,7 +12,7 @@
 
 Título literal: RC 041/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Inconstitucionalidade de se ratear os 5% da receita aos Vereadores, ultrapassando os 8% da Remuneração do Deputado Estadual, que foi o parâmetro usado na real fixação da remuneração dos edis na legislatura anterior. O percentual de 5% da receita é limitador máximo, e não critério de fixação. C.F., art. 29, VII; C.E., art. 68 e § 3º; Lei Orgânica do Município, art. 44, § 1º.
 -   TCM, 05.05.99

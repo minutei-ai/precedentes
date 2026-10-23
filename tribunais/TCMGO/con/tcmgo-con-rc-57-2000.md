@@ -12,7 +12,7 @@
 
 Título literal: RC 057/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da possibilidade de reajustamento do valor do contrato de locação de imóvel do Hospital Municipal em dois casos: 1 – pela variação do índice inflacionário ocorrido no período imediatamente posterior ao último reajuste, se houver previsão no contrato. 2 – pelo comprovado rompimento do equilíbrio econômico-financeiro do contrato. C.F., art. 37, XXI; Lei nº 8.666, arts. 54, 55 e 65
 -   TCM, 05.07.00

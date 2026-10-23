@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 010/13. Ano da página: 2013. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2013/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a criação do Fundo Especial da Câmara com economias do duodécimo, mediante lei específica, obedecendo aos mandamentos da Lei nº 4.320/64, e atendidas as diretrizes: ter como gestor o Presidente do Legislativo; utilização somente para a construção de sede da Câmara; aplicação de acordo com previsão no Orçamento; a prestação de contas dar-se junto com as do Poder Legislativo. CF/88, art. 29-A; art. 167, IX. Lei nº 4.320/64, art. 71; art. 72.
 -   DATA: 19.06.13

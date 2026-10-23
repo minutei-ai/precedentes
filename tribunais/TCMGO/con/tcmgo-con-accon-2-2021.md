@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 002/21. Ano da página: 2021. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2021/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É permitida a Revisão Geral Anual, não vedada pela LC nº 173/20, devendo ser observados o índice a ser aplicado, a Lei Orçamentária Anual e a Lei de Diretrizes Orçamentárias, conforme entendimento do STF no RE nº 90535711. Está vedada a majoração de vencimentos até 31/12/2021, exceto quando derivada de sentença judicial transitada em julgado ou de determinação legal anterior à calamidade pública ocasionada pelo Coronavírus. Está vedada a realização de reforma administrativa com a criação de cargos que implique aumento de despesa, até 31/12/2021, ainda que não ultrapasse o limite de 70% a que se refere o § 1º do art. 29-A da Constituição Federal. CF/88, art. 37, X; art. 29-A, § 1º. LC nº 173/20, art. 8º, I, II e VI
 -   DATA: 14.05.2021

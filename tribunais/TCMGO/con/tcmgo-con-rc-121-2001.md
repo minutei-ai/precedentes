@@ -12,7 +12,7 @@
 
 Título literal: RC 121/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Os valores referentes ao adicional de férias pagos aos servidores, deverão ser contabilizados no elemento de despesa 3.1.1.1, por referir-se a despesa de pessoal, e deverão ser considerados para efeito do limite de 70% da folha de pagamento da câmara. CF/88, art. 29-A, § 1º; art. 7º, XVII. Lei nº 4.320/64, art. 13.
 -   TCM, 28.11.2001

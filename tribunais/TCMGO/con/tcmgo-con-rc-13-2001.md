@@ -12,7 +12,7 @@
 
 Título literal: RC 013/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade de repasse de recursos do Executivo ao Legislativo em valor superior ao duodécimo, destinados ao pagamento de despesas de exercícios anteriores, desde que tais recursos estejam vinculados aos pagamentos e comprovado o não repasse dos duodécimo no exercício anterior. Restos a pagar. Lei Complementar nº 101/2000 – Lei de Responsabilidade Fiscal -, art. 20, III, “a” ; Emenda Constitucional nº 25/2000; CF, art. 29, VI, VII, art. 29-ª. Da impossibilidade do pagamento de licença-prêmio não gozada por ausência de previsão legal.
 -   TCM, 21.02.2001

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 018/11. Ano da página: 2011. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2011/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Compete ao Poder Legislativo a iniciativa de projeto de lei de concessão de reajuste salarial de seus servidores, podendo este ser concedido a qualquer tempo, desde que respeitada a legislação eleitoral e a Lei de Responsabilidade Fiscal. CF/88, art. 37, X; art. 61, § 1º, “a”; art. 51, IV; art. 52. Lei nº 9.504/97, art. 73, VIII. LC nº 101/00, art. 21.
 -   DATA: 29.06.11

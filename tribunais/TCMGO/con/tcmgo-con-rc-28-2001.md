@@ -12,7 +12,7 @@
 
 Título literal: RC 028/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Execução da Lei Municipal de Incentivo à Cultura de Goiânia – Lei nº  7.957/00. Previsão na LDO – Lei de Diretrizes Orçamentárias – em harmonia com a LOA – Lei Orçamentária Anual – de 2001. Altera  entendimentos esposados na RC Nº 060/00 do TCM. LDO – Lei nº 8.008, de 26.07.2000; LOA – Lei nº 8.038, de 28.12.2000.
 -   TCM, 14.03.2001

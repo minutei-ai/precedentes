@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 019/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O tempo de serviço exercido por profissional de educação na função de “inspetor” não pode ser considerado como efetivo exercício nas funções de magistério para fins de aposentadoria especial de professor, independentemente de ter sido prestado em estabelecimento de ensino ou na Secretaria de Educação.Em caso de cessão do servidor para outro órgão a aposentadoria especial só serápossível se atendidos os  do §2º do art. 67 da Lei Federal nº 9.394/96, quedefine quais atividades são consideradas como “funções de magistério”. CF/88, art. 40, § 5º. Lei  nº 9.394/96, art. 67, § 2º. Lei nº 11.301/06.
 -   DATA: 21.08.19

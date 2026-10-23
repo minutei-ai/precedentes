@@ -12,7 +12,7 @@
 
 Título literal: RC 028/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Ressarcimento dos valores recolhidos ao Fundo de Liquidez da Previdência Social do Município de Porangatu por vereador em face de edição de lei municipal. Questão de estrita economia interna do referido Fundo, devendo-se observar, no entanto, a situação de beneficiado do consulente durante o tempo em que foi contribuinte do FLPS.  RN nº 04/98. Lei Federal nº 9.056/97.
 -   TCM, 12.04.00

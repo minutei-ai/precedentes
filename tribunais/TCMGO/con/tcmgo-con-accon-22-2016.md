@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 022/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível o ressarcimento aos cofres municipais de valores pagos pelo município em decorrência de atrasos no repasse de convênios, desde que fique comprovado o nexo de causalidade, a ausência de saldo suficiente na conta vinculada ao convênio, e a real utilização de recursos próprios pelo município para o pagamento das despesas do convênio. A forma de contabilização é detalhada na proposta de decisão. Decreto nº 6.170/07, art. 1º, § 1º, I. Lei Estadual nº 15.958/07, art. 31.
 -   DATA: 07.12.16

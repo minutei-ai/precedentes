@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 005/22. Ano da página: 2022. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2022/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Na cessão de servidor com ônus para o cessionário este deverá arcar com o valor da contribuição suplementar instituída para cobrir o déficit atuarial, tendo em vista que ela irá compor o custeio da contribuição previdenciária devida pelo órgão ou entidade de origem. ON nº 02/2009 MPS, art. 32,II. Portaria nº 464/2018 MF, art. 6º, III.
 -   DATA: 03.05.2022

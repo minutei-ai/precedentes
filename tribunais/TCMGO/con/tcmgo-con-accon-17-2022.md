@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 017/22. Ano da página: 2022. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2022/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A contratação de empresas prestadoras de serviços de recuperação de créditos em benefício dos entes públicos não pode ser instrumentalizada mediante contrato de eficiência, tendo em vista que o objeto dos contratos desta natureza está restrito à redução de despesas correntes, cuja remuneração do contratado se dará mediante percentual da economia gerada na contratação. (Item 1). Comunica ao consulente que quando concluídos os autos n° 00211/20, a decisão será a ele encaminhada, pois seu conteúdo é similar ao item 4 da consulta. Lei nº 14.133/21, art. 6º, LIII
 -   DATA: 08.12.2022

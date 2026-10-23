@@ -12,7 +12,7 @@
 
 Título literal: RC 063/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: As obrigações patronais, bem como as terceirizações de mão-de-obra substitutivas de servidores públicos – assessoria jurídica e contábil – poderão ser acudidas com a parcela dos 30% destinada para outras despesas de custeio da Câmara, respeitado o limite de 6% da Receita Corrente Líquida do Município. Duodécimo. DP nº 001/01. As despesas com diárias não são computadas para fins do limite de 70% do art. 29-A da CF e de 6%  da alínea “a”, do inc. III, do art. 20 da Lei de Responsabilidade Fiscal – Lei Complementar nº 101/2000, visto que não são espécies remuneratórias, nem vantagens pessoais, nem encargos sociais, porque sua natureza é indenizatória. CF, art. 29-A; LC nº 101/2000, art. 20, III, “a”.
 -   TCM, 25.04.2001

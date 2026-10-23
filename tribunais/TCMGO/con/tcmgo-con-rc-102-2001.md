@@ -12,7 +12,7 @@
 
 Título literal: RC 102/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Com recursos do FUNDEF podem ser efetuados os seguintes pagamentos: remuneração e décimo terceiro salário de professores do ensino fundamental; remuneração de assistente de ensino, até o final de 2001; capacitação de professores leigos. Não poderão ser pagas as seguintes despesas com recursos do FUNDEF: diárias de viagem a secretário e servidores da educação; servidores da educação em desvio de função; servidores de outras áreas atuando em sala de aula em desvio de função. Caso a folha de pagamento não atinja 60% da arrecadação do FUNDEF, não poderá ser gasto mais de 40% com outras despesas. Lei nº 9.394/96, art. 70, I; art. 71, VI. Lei nº 9.424/96, art. 7º.
 -   TCM, 01.08.2001.

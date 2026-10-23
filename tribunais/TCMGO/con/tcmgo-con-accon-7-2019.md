@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 007/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não havendo lei específica, a designação de servidor efetivo, em estágio probatório, para o exercício de cargo em comissão ou de função gratificada, não suspende o período probatório, desde que a natureza do cargo ou da função tenha relação com as funções do cargo efetivo. A Administração Pública deve verificar se há compatibilidade da natureza do cargo em comissão é compatível com o cargo efetivo e, sendo incompatíveis, deve ser suspensa a avaliação de desempenho até o retorno do servidor ao cargo de origem.
 -   DATA: 22.05.19

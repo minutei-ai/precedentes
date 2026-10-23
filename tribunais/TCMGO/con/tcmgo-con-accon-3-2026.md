@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 003/26. Ano da página: 2026. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2026/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impactos da Emenda Constitucional nº 109/2021 nos gastos do legislativo municipal com pessoal inativo e pensionistas. Cômputo no limite total (art. 29-A, caput, CF) e no limite de folha de pagamento (art. 29-A, § 1º, CF).
 -   DATA: 28.04.2026

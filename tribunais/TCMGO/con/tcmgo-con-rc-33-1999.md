@@ -12,7 +12,7 @@
 
 Título literal: RC 033/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não cabe ao TCM pronunciar-se em tese, acerca da constitucionalidade ou não da Emenda Constitucional n.º 20/98 – Reforma Administrativa – e da Lei n.º 9.717/98 – regimes próprios de previdência – , podendo baixar resolução à guisa de orientação – RN 004/99. As implicações pelo descumprimento das normas pelo Município estão prevista no art. 7º da Lei n.º 9.717/98 e na RN 004/99.
 -   TCM, 20.04.99.

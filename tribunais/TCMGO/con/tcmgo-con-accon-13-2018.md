@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 013/18. Ano da página: 2018. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2018/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Contrato de prestação de serviço contínuo pode ser firmado em prazo superior ao do respectivo exercício financeiro, hipótese na qual não ficará adstrito à vigência do crédito orçamentário do exercício. Deve o administrador realizar o empenho global dos valores de cada exercício e demonstrar as vantagens para a Administração Pública.Lei nº 8.666/93, art. 57, II.
 -   DATA: 08.08.18

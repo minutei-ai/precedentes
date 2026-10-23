@@ -12,7 +12,7 @@
 
 Título literal: RC 017/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Havendo viabilidade de competição, é ilegal a contratação, pelo Município, de serviço de consultoria, gestão financeira de recursos previdenciários e administração do passivo sem o devido procedimento licitatório, na modalidade exigida em lei. Desnecessidade de autorização legislativa para a contratação dos serviços em tela, no caso de já haver previsão orçamentária. Lei nº 8.666/93, arts. 25, 24, VIII, 45, III e 46.
 -   TCM, 28.02.2001

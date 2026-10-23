@@ -12,7 +12,7 @@
 
 Título literal: RC 013/04. Ano da página: 2004. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2004/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Competência privativa do Chefe do Poder Executivo para expedir decreto de suplementação de créditos orçamentários. Art 42 da Lei n° 4320/64. A realização de despesas pela Câmara sem aporte orçamentário ensejará o julgamento das contas irregulares pelo TCM. Se comprovada que tal situação foi provocada por negativa ou omissão injustificadas do Poder Executivo em expedir os Decretos cuja autorização conste de lei municipal, o TCM deverá apresentar parecer prévio pela rejeição das contas do prefeito. Nega aplicação do art. 202 da LOM, por ferir dispositivos legais e constitucionais. Súmulas 347 do STF; art.80 e inc. XII do art.26 da C. E . RC 029/00 , 125/01
 -   DATA: 19.05.04

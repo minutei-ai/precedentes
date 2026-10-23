@@ -12,7 +12,7 @@
 
 Título literal: RC 021/03. Ano da página: 2003. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2003/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impossibilidade legal de exclusão dos encargos sociais e previdenciários de responsabilidade do empregado, do pagamento de inativos e do Imposto de Renda Retido na Fonte (IRRF), do cálculo das despesas com pessoal da Administração Pública do Município.        LRF, arts. 18 e 19.      
 -   NOTA: Revoga a RC nº 077/02 \[referência sem URL HTTP pública no catálogo; endereço original preservado privadamente\] e repristina a RC 124/01 \[referência sem URL HTTP pública no catálogo; endereço original preservado privadamente\]

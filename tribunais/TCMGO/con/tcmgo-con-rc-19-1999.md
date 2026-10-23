@@ -12,7 +12,7 @@
 
 Título literal: RC 019/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impossibilidade de se criar cargo de confiança de Protocolista antes da Emenda Constitucional n.º 19/98, por ser o mesmo de função permanente, não se enquadrando entre as atribuições destinadas a cargos em comissão. Criação de plano de cargos e salários mediante lei ordinária, de iniciativa do Poder Legislativo. Até a fixação por lei do subsídio do Ministro do Supremo Tribunal Federal, os agentes municipais continuarão percebendo remuneração na forma estabelecida na legislação anterior. RC Nº 095/98.
 -   TCM, 17.03.99

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 028/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É competência do Conselho Deliberativo Previdenciário do RPPS acompanhar e fiscalizar sua administração, efetivando o controle social do instituto, e exigir correção de atos e fatos decorrentes da gestão, com emissão de parecer. Em caso de irregularidade apontada pelo Conselho, deve a Administração adotar providências para saneamento das irregularidades. No caso de contratos, quando se tratar de alguma das hipóteses previstas na Lei de Licitações e Contratos, promover a rescisão unilateral. Lei nº 8.666/90, art. 78, I a XII e XVII; art. 79, I; art. 58, II.
 -   DATA: 06.12.17

@@ -12,7 +12,7 @@
 
 Título literal: RC 084/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Agentes políticos detentores de mandato eletivo municipal. Impossibilidade de inclusão dos mesmos na condição de segurados da previdência própria do município, através de lei local, editada após a Lei Federal nº 9.506/97 e E.C. nº 20/98. Segurados obrigatórios do RGPS. Servidor ocupante, exclusivamente de cargo em comissão bem como de outro cargo temporário ou de emprego público, aplica-se o regime de previdência social, incluindo-se os agentes políticos. Lei nº 9.506/97; Lei nº 9.717/98; Lei nº 8.212/91; E.C. nº 20/98.
 -   TCM, s.d.

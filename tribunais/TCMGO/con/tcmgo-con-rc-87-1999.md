@@ -12,7 +12,7 @@
 
 Título literal: RC 087/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade do Prefeito, mediante Decreto, declarar como inservíveis à Administração bens incorporados ao patrimônio Público, podendo, ainda, solicitar que o Legislativo aprecie, em regime de urgência, projeto de lei de sua iniciativa. Lei n.º 4.320/64, arts. 104 e 106; Lei n.º 8.666/93, art. 17, II, C.F., art. 64, §§ 1º e 2º e C.E., art. 22, §§ 1º e 2º.
 -   TCM, 08.09.99

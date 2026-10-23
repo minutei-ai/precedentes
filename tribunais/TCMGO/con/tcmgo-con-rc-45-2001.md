@@ -12,7 +12,7 @@
 
 Título literal: RC 045/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: As  RC Nº 014/01 e 018/01 respondem a primeira e segunda questões: Se os valores dos contratos de assessoria jurídica e contábil e os pagos ao INSS relativos à parte patronal,  são contados nos 70% – despesa total com pessoal – ou nos 30% restantes. A remuneração dos vereadores é fixada por lei, na legislatura anterior, para vigorar na seguinte, não podendo ultrapassar os limites impostos pelos arts. 29 e 29-A da CF, este último acrescentado pela EC nº 25/2000.
 -   TCM, 04.04.2001

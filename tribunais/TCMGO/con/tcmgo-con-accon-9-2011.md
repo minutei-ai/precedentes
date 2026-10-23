@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 009/11. Ano da página: 2011. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2011/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A lei do pregão é autoaplicável, sendo recomendável a regulamentação por meio de decreto municipal. É possível a de utilização o pregão para licitação de serviços e obras de engenharia,  de natureza comum, conforme entendimento consolidado do TCU.A Administração pública pode exigir habilitação técnica no edital. O termo de referência ou o projeto básico devem definir com clareza as características do objeto contratual. O prazo mínimo de oito dias úteis entre a publicação do ato convocatório e a apresentação das propostas pode ser ampliado. Lei nº 10.520/02.
 -   DATA: 23.03.11

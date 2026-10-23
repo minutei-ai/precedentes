@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 010/20. Ano da página: 2020. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2020/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É lícita a suspensão temporária do pagamento de gratificação por local de trabalho a professores durante o período de paralisação das aulas, em razão da calamidade pública decorrente da pandemia do COVID-19. Excetuam-se os casos em que haja previsão em lei municipal de incorporação da gratificação e o servidor tenha preenchido os requisitos legais da incorporação antes da data da publicação da EC nº 103/19. CF/88, art. 39, § 9º. EC nº 103/19.
 -   DATA: 08.07.2020

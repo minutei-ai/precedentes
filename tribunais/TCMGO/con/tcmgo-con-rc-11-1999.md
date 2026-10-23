@@ -12,7 +12,7 @@
 
 Título literal: RC 011/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Transposição de servidor provido no cargo de Assistente de Ensino para cargo de Professor, sem concurso público. Impossibilidade, pois o Assistente de Ensino só pode ascender dentro da sua própria carreira. Define “cargo isolado”, “carreira” e “classe”. C.F., art. 37, II; art. 206, V. ADIn 231-7;  ADIn 362-3; RE 168105-5 – STF. ROMS 942/SC; RMS 7.442 (STJ);
 -   TCM, 24.02.99

@@ -12,7 +12,7 @@
 
 Título literal: RC 117/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Convocada sessão legislativa extraordinária pelo chefe do Poder Executivo, é direito do vereador a percepção da parcela indenizatória, em valor não superior ao seu subsídio mensal, se estiver prevista a sua remuneração no ato fixatório dos subsídios dos vereadores, devendo a Câmara arcar com o pagamento, dentro do duodécimo a ela repassado. O valor despendido, face à natureza indenizatória da sessão extraordinária, não poderá ser considerado como despesa com folha de pagamento, ficando fora dos 70%. CF/88, art. 29-A, § 1º.
 -   TCM, 30.10.2001

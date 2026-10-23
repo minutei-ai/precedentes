@@ -12,7 +12,7 @@
 
 Título literal: RC 072/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A incorporação de gratificações ou outras vantagens aos proventos de aposentadoria só será possível se houver previsão legal, e se estiverem sendo percebidas na data da aposentação e com incidência da contribuição previdenciária. A gratificação relativa à assunção de cargo em comissão será incorporada aos proventos se houver recolhimento da contribuição previdenciária, e se estava sendo percebida quando da aposentação. CF/88, art. 40, §§ 2º e 3º; art. 29-A, §§ 1º e 2º. Lei Federal nº 9.783/99.
 -   TCM, 16.05.2001

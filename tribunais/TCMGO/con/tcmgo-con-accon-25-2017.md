@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 025/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Serviços de coleta, varrição e destinação final de resíduo sólido não são considerados indivisíveis, e devem ser licitados, em regra, de forma fragmentada, conforme a Lei de Licitações e Contratos. É possível a declaração de situação de emergência para a contratação direta desses serviços se presentes as situações previstas na Lei nº 8.666/93. Lei nº 8.666, art. 23, § 1º e art. 24, IV.
 -   DATA: 29.11.17

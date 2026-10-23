@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 029/12. Ano da página: 2012. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2012/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O final da Década da Educação não é obstáculo à progressão dos professores Nível I para Nível II, por configurar promoção dentro da carreira. É possível a progressão ou promoção em função de conclusão de curso de pósgraduação, sem mudança de cargo, podendo ser concedida a qualquer momento. Entendimento sobre progressão vertical do magistério foi pacificado no AC-CON nº 08106/10 e AC-CON nº 032/11, que vinculam os demais municípios por seu caráter normativo, constituindo- se em prejulgamento da tese.
 -   DATA: 21.11.12

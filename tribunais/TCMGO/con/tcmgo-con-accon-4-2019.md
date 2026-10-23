@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 004/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Inexiste direito subjetivo à nomeação de candidato aprovado em concurso público fora do número de vagas previstas no edital (cadastro de reserva). Exceções quando, dentro da validade do concurso surgirem novas vagas ou novo concurso e se ocorrer preterição de candidatos; quando surgir vaga em decorrência de desistência de candidato melhor classificado; em caso de burla, pela contratação detemporários ou comissionados. Ressalva a decisões judiciais. Abertura de novo certame não obriga a nomeação de candidatos aprovados no cadastro de reserva do concurso anterior. CF/88, art. 37, IV. STF RE nº 598.099/MS.
 -   DATA: 27.02.19

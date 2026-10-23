@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 007/21. Ano da página: 2021. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2021/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não é aplicável lei fixatória de subsídios de secretários municipais, controlador interno e chefe do controle interno da Câmara, publicada em data posterior à entrada em vigor da Lei Complementar nº 173, de 28/05/2020, ou seja, dentro do prazo proibitivo estabelecido pela LC nº 173/20. Os novos valores majorados só poderão ser pagos a partir de 1º/01/22, sendo vedado qualquer pagamento retroativo. CF/88, art. 29, VI. Decreto-Lei nº 4.657/42, art. 1º (LINDB). LC nº 173/20, art. 8º, _caput e §_ 3º.
 -   DATA: 30.06.2021

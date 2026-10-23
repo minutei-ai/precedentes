@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 005/18. Ano da página: 2018. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2018/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É vedado ao município contratar e remunerar prestador de serviços e colocá-lo à disposição de órgãos da administração direta e indireta da União ou dos Estados, por meio de convênio, por se tratar de aplicação imprópria do instituto da cessão de servidores, de tratamento diverso dos contratos regidos pela Lei nº 8.666/93. É vedada a contratação de prestador de serviços para o exercício de atividades típicas do Estado, como as de regulação e fiscalização, por envolverem a prática de atos de império, exclusivos do Poder Público e indelegáveis a particulares. Lei nº 8.666/93
 -   DATA: 09.05.18

@@ -12,7 +12,7 @@
 
 Título literal: RC 021/04. Ano da página: 2004. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2004/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Prazo para extinção do cargo de Professor Leigo: 5 anos, após o qual devem ser retirados das salas de aula. Os servidores que forem estáveis deverão ser colocados em disponibilidade remunerada e os não estáveis devem ser exonerados. Possibilidade de aproveitamento de Assistentes de Ensino em cargos de natureza semelhante. Lei 9424/96, art 9º, §§ 1° e 2°. Lei 9394/96, art. 97, § 4º. C.F. , art. 41, § 3º.
 -   DATA: 18.08.04
