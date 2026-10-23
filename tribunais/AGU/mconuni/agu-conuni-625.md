@@ -170,7 +170,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1660066957.pdf) — O PDF possui página sem texto extraível. A transcrição e a conferência visual permanecem pendentes.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1660066957.pdf) — A revisão visual confirmou que o PDF tem uma única página física, numerada 15, iniciada no parágrafo 33 e seguida da conclusão e assinatura do Parecer nº 036/2014/DECOR/CGU/AGU. O início e os parágrafos anteriores não constam do arquivo recuperado. O documento não foi publicado como íntegra.
 
 [Despacho do coordenador](https://cgu.agu.gov.br/decor/arquivos/DespachoCoordenador1660066957.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
 

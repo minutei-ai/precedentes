@@ -170,7 +170,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Nota1729792792.pdf) — A camada textual contém caracteres de controle ou substituição incompatíveis com uma transcrição conferida. O original exige revisão de codificação ou transcrição visual.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Nota1729792792.pdf) — A revisão visual confirmou que o arquivo associado à Nota nº 00012/2014/DECOR/CGU/AGU contém o Despacho nº 078/2015/SFT/CGU/AGU, que apenas manifesta concordância com a nota e com outro despacho. O conteúdo não foi publicado como íntegra da nota; a referência documental permanece em conciliação.
 
 [Despacho do coordenador](https://cgu.agu.gov.br/decor/arquivos/DespachoCoordenador1729792792.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
 
