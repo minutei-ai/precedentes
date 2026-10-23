@@ -12,7 +12,7 @@
 
 Título literal: RC 121/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Projeto de lei visando modificar a Lei Orgânica do Município. Inconstitucionalidade de redução do mandato da Mesa Diretora da Câmara de 2 para 1 ano. Inconstitucionalidade de artigo que dá direito a pensão vitalícia a Vereador após 4 mandatos consecutivos. Constitucionalidade de alteração que permite a reeleição do Prefeito. Alteração da área mínima do lote urbano, matéria de interesse local. Alerta sobre a necessidade de quorum qualificado para alterar a Lei Orgânica do Município. C.F., arts. 14, § 5º, 30, I, 57, § 4º, 29, I; E.C. n.º 19/98; E.C. n.º 16/97; RN n.º 004/99RE 112.044-4-PB (STF).
 -   TCM, 15.12.99.

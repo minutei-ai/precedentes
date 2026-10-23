@@ -12,7 +12,7 @@
 
 Título literal: RC 119/97. Ano da página: 1997. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1997/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A diferença a menor da aplicação dos 25% da receita no desenvolvimento do ensino (educação) poderá ser compensada até o final do exercício seguinte (1997), sendo emitida certidão atestando aplicação por este Tribunal. RN 007/97. O valor do duodécimo será aquele necessário ao funcionamento do Legislativo, com base de cálculo na receita efetivamente arrecadada. RC 105/97. A remuneração paga ao Prefeito, Vice Prefeito, Presidente da Câmara e Vereadores está compatível com a Resolução que fixou.
 -   TCM, 03.12.97

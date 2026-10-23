@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 001/20. Ano da página: 2020. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2020/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: No caso de exoneração de servidores efetivos e comissionados as parcelas rescisórias de natureza remuneratória (saldo de salário e gratificação natalina) devem ser contabilizadas no elemento 11, e computadas dentro do limite do art. 29-A da Constituição Federal. As parcelas rescisórias de natureza indenizatória (férias não gozadas e/ou proporcionais com acréscimo do terço constitucional) devem ser contabilizadas no elemento 94, e não computadas no limite do art. 29-A da Constituição Federal. CF/88, art. 29-A, § 1º.
 -   DATA: 12.02.2020

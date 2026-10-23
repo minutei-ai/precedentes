@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 006/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: A Câmara municipal só pode pagar adicional de periculosidade a servidor público ocupante de cargo de guarda noturno, utilizando dispositivo do Estatuto dos Servidores Públicos Municipais, se atender integralmente aos requisitos do dispositivo legal, inclusive a eventual regulamentação pelo Chefe do Executivo. A adoção do dispositivo no caso em questão não carece de prévia perícia técnica em razão da natureza da atividade.
 -   DATA: 15.02.17

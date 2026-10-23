@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 015/11. Ano da página: 2011. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2011/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É permitida a contratação de empresa especializada no assessoramento a servidores municipais para a constituição e cobrança de créditos tributários de ISSQN de obras, sendo vedada a delegação de tal competência a pessoa de direito privado. É obrigatória a realização de licitação, para a contratação desses serviços, ressalvadas as hipóteses de dispensa e inexigibilidade. Não é permitida a celebração de contrato com valor proporcional ao êxito, devendose estabelecer preço com valor certo e monetário. CF/88, arts. 37, XXI e XXII. Lei 8.666/93, arts. 7º, 24, 25 e 55, III. CTN, art. 7º.
 -   DATA: 14.06.11

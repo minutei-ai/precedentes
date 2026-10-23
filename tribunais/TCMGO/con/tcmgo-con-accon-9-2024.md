@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 009/24. Ano da página: 2024. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2024/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Não é possível, mesmo que por lei, a mudança de nomenclatura, transformação ou reenquadramento do cargo de auxiliar de enfermagem para técnico de enfermagem em razão de diferenças de atribuições, requisitos de qualificação e remuneração dos cargos. O (re) enquadramento de servidor em cargo diverso do originalmente investido por concurso público constitui violação à Constituição Federal e à Sumula Vinculante nº 43, sendo os atos nulos de pleno direito, passíveis de aplicação de penalidades aos agentes responsáveis e eventual negativa dos registros das aposentadorias dos servidores beneficiados. CF/88, art. 37, II.
 -   DATA: 12.08.2024

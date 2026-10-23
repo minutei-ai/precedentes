@@ -12,7 +12,7 @@
 
 Título literal: RC 058/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Poderá o Legislativo utilizar a parcela dos 30% do duodécimo do presente exercício para pagar o décimo terceiro salário/2000 e a ajuda de custo para encerramento dos trabalhos legislativos de 2000, obedecidos os limites legais. Possibilidade de pagamento de ajuda  de custo para início e encerramento dos trabalhos legislativos e do décimo terceiro salário/2001 aos vereadores empossados para a atual legislatura, visto que seus subsídios foram fixados com base no que percebe o Deputado Estadual. Emenda Constitucional nº 25/2000; CF, art. 29-A;  Lei Complementar nº 101/2000 – Lei de Responsabilidade Fiscal; RC Nº 074/95.
 -   TCM, 25.04.2001

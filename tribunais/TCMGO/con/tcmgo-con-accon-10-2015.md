@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 010/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Servidor público efetivo de outro ente federativo, ocupante de cargo de Secretário Municipal, não pode receber remuneração do cargo de origem (estadual ou federal) acrescido de gratificação (municipal), exceto se o cargo de origem for remunerado também por subsídio. É aplicável o teto remuneratório de origem, dada a natureza precária e temporária do vínculo com a municipalidade. Devolução ao erário dos valores recebidos indevidamente. CF/88, art. 37, X, XI; art. 39, § 4º.
 -   DATA: 05.08.15

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 011/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Recursos decorrentes de multas de trânsito podem ser destinados a órgãos ou entidades que exerçam atribuições de guarda municipal, com exceção da parcela alcançada pela desvinculação do art. 76-B, do ADCT da CF/88. Na contabilização das receitas de multas de trânsito deve-se usar a codificação de natureza de receita 1.9.1.0.01.1.1 (Multas Previstas em Legislação Específica), e a fonte de recursos 1.71.019 (Multas de Trânsito). Não é obrigatória conta bancária específica para a movimentação de recursos arrecadados com multas de trânsito. CF/88, ADCT, art. 76-B. Lei nº 9.503/97, art. 320.
 -   DATA: 12.06.19

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 012/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: As normas gerais de licitação estão expressas na Lei 8.666/93, conforme competência conferida pela Constituição Federal, incluindo disposição sobre a administração dos bens públicos dominicais. Ao município cabe a competência legislativa suplementar para a gestão dos seus bens, respeitadas as normas gerais, não se caracterizando as disposições da lei federal em ofensa ao pacto federativo ou à autonomia dos entes políticos. É possível a doação de bem público municipal para outros órgãos da administração pública, desde que atendidos os requisitos da Lei nº 8.666/93: interesse público, avaliação prévia, autorização legislativa. CF/88, art. 30, II; art. 22, XXVII. Lei nº 8.666/93, art. 17, I, “b”.
 -   DATA: 03.05.17

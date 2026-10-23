@@ -12,7 +12,7 @@
 
 Título literal: RC 005/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA:  Despesas com pessoal. Limites estabelecidos pela Lei Complementar nº 101/00 – Lei de Responsabilidade Fiscal (LRF). O cálculo do limite deverá ser feito de acordo com o art. 18, § 2º da LC 101/00. A reposição salarial (revisão geral) não deve ser confundida com aumento, podendo ultrapassar o limite de 10% previsto no art. 71 da LC 101/00. O julgamento da ADIN pelo STF, considerando inconstitucional a decisão do Governo Federal em não dar aumento salarial aos funcionários públicos federais, não se estende aos municípios.
 -   TCM, 27.03.2002

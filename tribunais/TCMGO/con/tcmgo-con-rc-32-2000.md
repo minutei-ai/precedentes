@@ -12,7 +12,7 @@
 
 Título literal: RC 032/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Pagamento de multa contratual por parte do terceiro que deu  causa à rescisão com a Administração Pública. Hipótese que deverá ser formalmente motivada em processo próprio. O pagamento de tal penalidade só poderá se dar caso o contratado – depois de fazer uso do contraditório e da ampla defesa – não obtenha êxito, de modo a não conseguir justificar seu inadimplemento. Referida multa poderá ser de 10%, eis que não se trata da multa de mora de 2%, a qual se refere a fornecimento de produtos ou serviços que  envolva outorga de crédito ou concessão de financiamento ao consumidor, o que não é o caso da consulta.
 -   TCM, 19.04.00

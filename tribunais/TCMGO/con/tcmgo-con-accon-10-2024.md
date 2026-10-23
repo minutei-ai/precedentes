@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 010/24. Ano da página: 2024. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2024/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É ilegal a inclusão, em edital, de obrigatoriedade de se fazer o primeiro emplacamento para aquisição de veículo novo em nome do município contratante, por configurar reserva de mercado e cerceamento à competição em licitações públicas. Não se pode exigir, como requisito de habilitação, apresentação de carta de solidariedade, concessão ou credenciamento, por prejudicar a isonomia entre concorrentes. Lei Federal nº 6.729/79.
 -   DATA: 17.09.2024

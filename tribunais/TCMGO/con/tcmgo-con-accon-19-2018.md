@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 019/18. Ano da página: 2018. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2018/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O município pode instituir, mediante lei, a prorrogação da licençamaternidade por mais 60 dias, devendo os valores pagos neste período ser custeados pelo Tesouro Municipal. A lei que instituir a prorrogação será aplicável às servidoras que ainda estiverem em gozo da licença-maternidade pelo período de 120 dias ao tempo do início de sua vigência, não retroagindo às licenças já usufruídas integralmente. CF/88, art. 5º, XXXVI. Decreto-Lei nº 4.657/42. Lei nº 12.376/10. ON SPS/MF nº 002/09.
 -   DATA: 07.11.18

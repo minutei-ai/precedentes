@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 017/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Aposentadoria integral de servidores públicos efetivos que ingressaram até a data da publicação da Emenda Constitucional nº 41/2003. Na fixação da data de ingresso no serviço público, para verificação do direito de opção pelas regras do art. 6º, caput da EC nº 41/2003, quando o servidor público tiver ocupado, sem interrupção, sucessivos cargos na Administração Pública direta, autárquica e fundacional, em qualquer dos entes federativos, considera-se a data da investidura mais remota. Exclui-se da regra aquele que tenha ocupado emprego público celetista. EC nº 41/03, art. 6º. ON MPS/SPS nº 002/09.
 -   DATA: 09.11.16

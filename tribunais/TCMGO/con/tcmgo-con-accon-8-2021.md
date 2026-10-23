@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 008/21. Ano da página: 2021. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2021/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Decretado o estado de calamidade pública pelo Poder Executivo municipal, que é o termo inicial para a incidência das vedações do inciso I do art. 8º da LC nº 173/20, a Câmara Municipal só poderá pagar os subsídios fixados no ano anterior em valores superiores ao da antiga legislatura a partir de 1º/01/2022. O município só não se sujeitará às referidas vedações se a Assembleia Legislativa não reconhecer formalmente o decreto municipal. LC nº 173/20, art. 8º, <em>I</em>.
 -   DATA: 07.07.2021

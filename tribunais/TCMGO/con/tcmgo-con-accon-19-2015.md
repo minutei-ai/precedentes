@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 019/15. Ano da página: 2015. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2015/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a prorrogação de contrato de prestação de serviços manutenção de frota de veículos, decorrente de licitação na modalidade Convite,desde que previsto no edital e no contrato. Após a prorrogação, é possível  aplicar cláusulas de reequilíbrio econômicofinanceiro solicitado pela empresa. Não é possível a prorrogação contratual quando o contrato é oriundo de modalidade licitatória que já atingiu o limite legal. A seleção da modalidade licitatória deve levar em conta o valor para o prazo máximo que se deseja para a prestação dos serviços.Lei nº Lei 8.666/93, art. 57, II; art. 65, II, “d”; art. 23.
 -   DATA: 17.12.15

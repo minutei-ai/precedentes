@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 017/19. Ano da página: 2019. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2019/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a aquisição, por município, de bem imóvel localizado em outro município ou estado, para servir de casa de apoio a pessoas em tratamento de saúde, respeitadas as regras da Constituição Federal e da Lei de Licitações e o interesse público. Pode ser utilizado o duodécimo devolvido pela Câmara ao Poder Executivo, para a aquisição do imóvel. Por se tratar de despesa de capital, deve estar prevista na LOA, no PPA e na LDO e, na falta de previsão nesses instrumentos, devem ser feitas alterações legislativas. CF/88, art. 29-A; art. 37, XXI; art. 165, § 1º e § 2º; art. 167. Lei nº 8.666/93, art. 24, X; art. 26.
 -   DATA: 14.08.19

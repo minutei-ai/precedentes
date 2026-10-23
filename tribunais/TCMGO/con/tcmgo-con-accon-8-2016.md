@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 008/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Ainda que exista norma municipal genérica garantindo isonomia entre os poderes Executivo e Legislativo, somente lei específica pode fixar ou alterar aremuneração dos servidores públicos, vedada a vinculação ou equiparação  remuneratória. A isonomia para o cargo de Controlador Interno do Poder Legislativo só é possível se a lei municipal fixar o valor da remuneração igual à fixada pelo Poder Executivo. CF, art. 37, XIII.
 -   DATA: 08.06.16

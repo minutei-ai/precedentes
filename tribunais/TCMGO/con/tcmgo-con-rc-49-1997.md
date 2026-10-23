@@ -12,7 +12,7 @@
 
 Título literal: RC 049/97. Ano da página: 1997. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1997/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impossibilidade de nomeação de Secretário de Saúde para o Cargo de Diretor Geral do Hospital Regional, e a do Vereador para o de Diretor Técnico, devendo repor os vencimentos percebidos ilegalmente. Laboratório de propriedade do Secretário de Saúde não poderá firmar convênio com o Município. Médico eleito vereador poderá prestar serviços junto ao hospital, desde que o contrato obedeça cláusulas uniformes. Acumulação. Proibição. Impedimentos.
 -   TCM, 30.04.97

@@ -12,7 +12,7 @@
 
 Título literal: RC 083/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade de autorização de desconto das cotas do ICMS, para implementação da Assistência Farmacêutica Básica, referendado por lei municipal e firmado mediante Termo de Adesão entre o Estado de Goiás, através da Secretaria de Estado da Saúde, e o Município, haja vista qu o ICMS é imposto de competência privativa dos Estados e do D.F., representando para o município apenas uma receita de transferência e não receita tributária. Vinculação de receita de impostos. Ficam prejudicados os entendimentos constantes das RC 112/95 e 057/99. C.F., arts. 167, IV e 160
 -   TCM, 18.10.00

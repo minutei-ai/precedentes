@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 010/12. Ano da página: 2012. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2012/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É permitida a doação de bem imóvel público a entidades sem fins lucrativos (Organizações não Governamentais). A dispensa de licitação para doar imóvel público a instituições sem fins lucrativos só é possível mediante comprovado o interesse público, avaliação prévia e autorização legislativa e cláusula de reversão ao patrimônio público e de inalienabilidade do bem. CF/88, art. 19, I. CE/89, art. 69, XVII. Lei nº 8.666/93, art. 17, I, “b” e § 1º. Lei nº 9.504/97, art. 73, I e § 7º, § 10, § 11. Lei nº 8.429/92, art. 11, I.
 -   DATA: 18.04.12

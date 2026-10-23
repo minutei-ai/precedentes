@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 003/22. Ano da página: 2022. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2022/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: É possível a ocupação de dois cargos efetivos de professor e o exercício de função de confiança em um deles, desde que haja pertinência com as atribuições originárias das funções de magistério, observada a compatibilidade de horários, e contanto que não labore em regime de dedicação exclusiva. Alerta à Administração para melhor planejamento na concessão de funções a professores. CF/88, art. 37, XVI, “a”; art. 40, § 5º. Lei nº 9.394/96, art. 67.
 -   DATA: 15.02.2022

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 004/26. Ano da página: 2026. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/consultas-ac-con-rc-2026/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Servidor concursado para o cargo de Motorista, que atualmente dirige ambulância, não pode converter seu cargo em Condutor/Motorista de Ambulância sem aprovação em concurso público específico, nem realizar cadastro em seu histórico funcional como Condutor/Motorista de Ambulância. Também não é permitida a acumulação do cargo de Motorista (geral) com outro cargo da área da saúde, por ser prerrogativa exclusiva aos ocupantes do cargo específico de Condutor de Ambulância. CF/88, art. 37, XVI, “c”. Lei nº 15.250/25.
 -   DATA: 19.05.2026

@@ -12,7 +12,7 @@
 
 Título literal: RC 014/02. Ano da página: 2002. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2002/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -    EMENTA: Da possibilidade de pagamento, com recursos do FUNDEF, aos profissionais do magistério em efetivo exercício de suas funções no ensino fundamental (1ª a 8ª série), independentemente da habilitação. Da impossibilidade de se aplicar parte de recursos do FUNDEF na capacitação de professores leigos em atuação no ensino fundamental, vez que o prazo legal permitido expirou-se em dezembro de 2001. Impossibilidade de pagamento de professores que atuam na pré-educação com recursos do FUNDEF, por não ser considerada como função no ensino fundamental. C.F., ADCT, art. 60, § 7º; Lei nº 9.424/96, art. 2º, 7º e 9º, § 2º; Lei nº 9.394/96, art. 70
 -   TCM, 15.05.2002

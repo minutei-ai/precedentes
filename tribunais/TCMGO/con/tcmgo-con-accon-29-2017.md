@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 029/17. Ano da página: 2017. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2017/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Têm direito ao cálculo dos proventos de aposentadoria integral, com base na última remuneração, os professores que tiveram aumento da carga horária nos últimos anos da vida funcional ou na iminência da aposentadoria, se preenchidos os requisitos da Constituição Federal. É inaplicável, no caso, a regra da média prevista na EC nº 41/03, que se destina a servidores que ingressaram no serviço público após 31/12/2003.Cabe ao gestor, mediante regulamentação legal, impor limites à alteração de carga horária de servidor em atividade, com reflexo nos proventos de aposentadoria, de forma a preservar o equilíbrio financeiro e atuarial previdenciário. CF/88, art. 40, § 3º. EC nº 41/03, art. 6º. Lei nº 10.887/04, art. 1º.
 -   DATA: 13.12.17

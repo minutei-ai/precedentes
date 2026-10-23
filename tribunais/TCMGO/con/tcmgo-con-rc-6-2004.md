@@ -12,7 +12,7 @@
 
 Título literal: RC 006/04. Ano da página: 2004. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2004/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Consulta acerca da decisão do STF que trata do recolhimento obrigatório de contribuição previdenciária pelos agentes políticos, sob aégide do RGPS, junto ao INSS. Declaração de inconstitucionalidade de dispositivo de lei federal que trata da matéria. Embora a decisão do STF não opere efeitos “erga omnes”, nada impede a Câmara Municipal de manifestar ao INSS a recusa em cumprir a lei eivada de inconstitucionalidade. Caso o Legislativo não obtenha êxito junto ao INSS, caberá ingressar no Judiciário ou aguardar desfecho da ADIN sobre o assunto. RE 351717/PR (STF)
 -   DATA: 18.02.04

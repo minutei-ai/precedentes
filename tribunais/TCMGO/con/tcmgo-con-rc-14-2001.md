@@ -12,7 +12,7 @@
 
 Título literal: RC 014/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade de se considerar as despesas com obrigações patronais decorrentes do pagamento de remuneração de servidores da Câmara e vereadores fora do limite de 70% do duodécimo, podendo ser acudidas com os 30% restantes da receita de transferência da Câmara Municipal. A expressão “folha de pagamento” inserta no § 1º do art 29-A da CF/88 refere-se somente ao pagamento bruto da remuneração dos servidores efetivos e comissionados e subsídios dos vereadores, ficando excluídos os encargos sociais. CF, art. 29-A, § 1º.
 -   TCM, 21.02.2001

@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 002/13. Ano da página: 2013. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2013/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Ao servidor público em gozo de licença-prêmio são devidas as vantagens de caráter permanente, excluídas gratificações e verbas de natureza temporária ou em razão do local de trabalho. No caso de licença para atividade política devem ser pagos os vencimentos do cargo efetivo, com todas as vantagens permanentes, a partir da data do registro da candidatura na Justiça Eleitoral até o 15º dia seguinte.
 -   DATA: 30.01.13

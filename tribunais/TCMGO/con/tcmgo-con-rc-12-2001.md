@@ -12,7 +12,7 @@
 
 Título literal: RC 012/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Possibilidade de alteração de denominação de cargos considerados inservíveis, aglutinando cargos de mesma natureza (telefonista, porteiro servente e merendeira) em um único cargo de Auxiliar de Serviços Gerais, desde que observados os critérios de compatibilidade funcional, direitos funcionais e vencimentais. CF, art. 37, X; Lei Complementar nº 101/2000, art. 19, III. A revisão geral da remuneração dos servidores poderá se efetivar desde que cumpridas as exigências constitucionais e a Lei de Responsabilidade Fiscal. CF, arts. 39, §3º, 37, X e XV e 169, § 1º, I e II;  Lei Complementar nº 101/2000, art. 20, III, “a”, “b” e art. 71.
 -   TCM, 14.02.2001

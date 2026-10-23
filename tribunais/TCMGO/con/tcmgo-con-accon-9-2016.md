@@ -12,7 +12,7 @@
 
 Título literal: AC-CON 009/16. Ano da página: 2016. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2016/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Para o pessoal admitido em fundação pública de direito público deve-se adotar o regime jurídico único, seja ele estatutário ou celetista. O pessoal admitido em fundação pública de direito privado sujeita-se ao regime trabalhista comum, disciplinado pela CLT, sendo denominado empregado público. Em caso de extinção de um tipo de fundação e criação de outra, em substituição, não cabe a transposição/transformação de cargo público em emprego público e viceversa sem concurso público. CF/88, art. 39.
 -   DATA: 08.06.16

@@ -12,7 +12,7 @@
 
 Título literal: RC 107/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da incorporação das gratificações de função ou de representação, por ocasião da aposentadoria, aos vencimentos do servidor. Da obrigatoriedade do repasse mensal do duodécimo à Câmara Municipal, considerando a receita efetivamente arrecadada. O percentual de 25% a ser aplicado na educação integra o duodécimo, por ser relativo à receita proveniente de impostos. Os recursos do FUNDEF não podem ser deduzidos para efeito do cálculo do duodécimo independente de parcelas eventualmente devolvidas. Da colocação de servidor em disponibilidade. C.F., arts. 212 e 41, § 3º; Decreto n.º 3.151/99; RC n.º 147/90; 069/98; 091/98; RN n.º 006/92.
 -   TCM, 29.11.99

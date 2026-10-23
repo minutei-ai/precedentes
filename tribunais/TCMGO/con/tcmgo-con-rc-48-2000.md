@@ -12,7 +12,7 @@
 
 Título literal: RC 048/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Ilegalidade de concessão de reajuste salarial com efeito retroativo fora do alcance da lei eleitoral. Recomposição de perdas salariais ao longo do ano eleitoral, utilizando-se índice oficial do Governo Federal para cálculo da inflação. Recomposição de forma escalonada só mediante lei local. Proibição de aumento de despesa com pessoal, inclusive com recomposições, nos 180 dias antes do final do mandato, prevista na Lei de Responsabilidade Fiscal. Concessão de gratificação de função, somente as previstas antes do advento da lei eleitoral. Lei nº 9.504/97, art. 73, art. 7º – Lei eleitoral; C.F., art. 37, X; Lei Complementar nº 101/00, art. 21 – Lei de Responsabilidade Fiscal.
 -   TCM, 14.06.00

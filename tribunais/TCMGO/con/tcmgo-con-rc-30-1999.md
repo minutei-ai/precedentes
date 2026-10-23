@@ -12,7 +12,7 @@
 
 Título literal: RC 030/99. Ano da página: 1999. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-1999/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Concessão de aposentadoria especial à servidora ocupante de cargo de telefonista, com base no Decreto-Lei federal n.º 99.351/90, que considerou a atividade penosa. Competência do Município para estabelecer os casos de aposentadorias especiais, através de Lei Complementar. E.C. n.º 20/98; Lei n.º 7.850/89; C.F., art. 40, § 4ºe art. 61, § 1º, II, c; Decreto n.º 99.351/90.
 -   TCM, 20.04.99.

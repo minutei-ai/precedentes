@@ -12,7 +12,7 @@
 
 Título literal: RC 073/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Da possibilidade de concessão de aumento de remuneração de servidores, desde que atendidas as limitações legais impostas pela Lei nº 9.504/97 – Lei eleitoral, Lei Complementar nº 101/00 – Lei de Responsabilidade Fiscal, Lei Municipal nº 58/97 e C.F./88, art. 37, X: legislação salarial vigente; lei específica; incremento real de arrecadação municipal; período de 180 dias anteriores à eleição; o mesmo índice para todos os servidores; proibição de aumento de despesa com pessoal. RN 001/00
 -   TCM, 06.09.00

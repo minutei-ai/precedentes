@@ -12,7 +12,7 @@
 
 Título literal: RC 043/01. Ano da página: 2001. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2001/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: O art. 29-A da Constituição Federal, acrescentado pela EC nº 25/2000, estabeleceu limites máximo e mínimo para o repasse do duodécimo à Câmara Municipal, que devem ser obedecidos pelo Prefeito Municipal, sob pena de cometimento de crime de responsabilidade. O valor deverá constar da Lei Orçamentária anual. CE, arts. 110, § 5º, I; art. 77, XIII.  Lei 4.320/64, art. 42. A RC Nº 014/01 responde a segunda questão: se os 21% sobre o total da folha de pagamento da Câmara a ser recolhido ao INSS incide sobre os 70% que poderá ser gasto com a folha de pagamento. A RC Nº 001/01 responde a terceira questão: como é feito o cálculo para encontrar o valor a ser repassado pelo Executivo ao Legislativo.
 -   TCM, 04.04.2001

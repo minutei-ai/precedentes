@@ -12,7 +12,7 @@
 
 Título literal: RC 074/00. Ano da página: 2000. [Catálogo anual oficial](https://www.tcmgo.tc.br/site/accon/consultas-ac-con-rc-2000/).
 
-O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
+O escopo deste lote é definido pelos pares de catálogos anuais e documentos declarados nos recibos da fonte. Anos publicados: 2026, 2025, 2024, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1997, 1995, 1994, 1993, 1992. Os demais anos do índice de 1989 a 2026 permanecem em coleta e conciliação. O avanço do download não altera automaticamente os registros deste lote.
 
 -   EMENTA: Impossibilidade de revogação de Decreto que julgou irregular as contas da Prefeitura. A Câmara não pode reapreciar sua decisão, cabendo ao Prefeito recorrer ao Judiciário. Da emissão, pelo TCM, das Certidões sobre a aplicação de recursos provenientes de imposto para a Manutenção e Desenvolvimento do Ensino. Gastos com construção de Escola Agrícola não são considerados como aplicação em ensino fundamental – FUNDEF. Obras de infra estrutura. RN 001/98; RC 025/00
 -   TCM, 06.09.00
