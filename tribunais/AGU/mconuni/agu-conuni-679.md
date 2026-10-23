@@ -170,7 +170,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1660330500.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1660330500.pdf) — O PDF contém imagens de dimensões relevantes. O conteúdo gráfico exige conferência antes de tratar a camada textual como íntegra.
 
 [Despacho da consultora ou diretor](https://cgu.agu.gov.br/decor/arquivos/DespachoDiretor1660330500.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
 
