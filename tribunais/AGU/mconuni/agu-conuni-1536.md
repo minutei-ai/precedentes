@@ -170,7 +170,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Nota1729792792.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Nota1729792792.pdf) — A camada textual contém caracteres de controle ou substituição incompatíveis com uma transcrição conferida. O original exige revisão de codificação ou transcrição visual.
 
 [Despacho do coordenador](https://cgu.agu.gov.br/decor/arquivos/DespachoCoordenador1729792792.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
 
