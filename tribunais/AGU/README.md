@@ -1,11 +1,12 @@
 # AGU
 
-Advocacia-Geral da União. **371 registros.**
+Advocacia-Geral da União. **2.116 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
 | [Enunciado da Consultoria-Geral da União](ecgu/) | 42 |
 | [Enunciado DEINF (DGA)](edeinf/) | 3 |
+| [Manifestação no catálogo CONUNI](mconuni/) | 1.745 |
 | [Orientação Normativa da AGU](on/) | 103 |
 | [Orientação Normativa da CIUEC da CJU-SP](onciueccjusp/) | 1 |
 | [Orientação Normativa da CJU-CE](oncjuce/) | 1 |

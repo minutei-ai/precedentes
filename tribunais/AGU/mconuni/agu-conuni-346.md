@@ -1,0 +1,183 @@
+# AGU · MCONUNI PARECER N. 00036/2018/DECOR/CGU/AGU
+
+- **Órgão:** AGU
+- **Espécie:** Manifestação no catálogo CONUNI
+- **Número:** PARECER N. 00036/2018/DECOR/CGU/AGU
+- **Identificador:** `agu-conuni-346`
+- **Situação na fonte:** Situação informada pelo portal: Está Vigente. Aprovação informada pela fonte: APROVADO. Sem confirmação independente de vigência atual.
+- **Atualização informada pela fonte:** Não informada
+- **Fonte:** [AGU — Catálogo de manifestações da CONUNI](https://cgu.agu.gov.br/conuni/)
+
+## Informações do catálogo oficial
+
+Registro do catálogo público de manifestações da CONUNI. Assuntos, ementas, vinculação, notas e referências documentais são reproduzidos como dados do catálogo, sem substituir a íntegra dos atos nem afirmar tese firmada ou vinculação geral. Situações e aprovações são informações da fonte, sem confirmação independente de vigência atual.
+
+O identificador usa o cadastro oficial da manifestação. Quando dois cadastros trazem o mesmo título, órgão e referência documental, suas apresentações são preservadas no mesmo registro. Ano e número administrativos do cadastro permanecem separados do título formal, inclusive quando divergem. Não foram usados como data de aprovação, publicação ou atualização jurídica.
+
+### Apresentação do cadastro oficial 346
+
+#### Manifestação
+
+    PARECER N. 00036/2018/DECOR/CGU/AGU
+
+#### Código da origem da manifestação
+
+    2
+
+#### Referência original da manifestação
+
+    136741685
+
+#### Código do tipo de manifestação
+
+    1
+
+#### Despacho do coordenador
+
+    -
+
+#### Código da origem do despacho do coordenador
+
+    0
+
+#### Referência original do despacho do coordenador
+
+Campo vazio na fonte.
+
+#### Despacho da consultora ou diretor
+
+    DESPACHO N. 00419/2018/DECOR/CGU/AGU
+
+#### Código da origem do despacho da consultora ou diretor
+
+    2
+
+#### Referência original do despacho da consultora ou diretor
+
+    151191186
+
+#### Despacho CGU
+
+    DESPACHO DO CONSULTOR-GERAL DA UNIÃO Nº 554
+
+#### Código da origem do despacho CGU
+
+    3
+
+#### Referência original do despacho CGU
+
+    DespachoCGU1658939957.pdf
+
+#### Despacho AGU
+
+Campo vazio na fonte.
+
+#### Código da origem do despacho AGU
+
+Campo nulo na fonte.
+
+#### Referência original do despacho AGU
+
+Campo vazio na fonte.
+
+#### Despacho SGU
+
+Campo nulo na fonte.
+
+#### Código da origem do despacho SGU
+
+Campo nulo na fonte.
+
+#### Referência original do despacho SGU
+
+Campo nulo na fonte.
+
+#### Publicação da Presidência da República
+
+Campo nulo na fonte.
+
+#### Código da origem da publicação da Presidência
+
+    0
+
+#### Referência original da publicação da Presidência
+
+    0
+
+#### Assunto
+
+    DISPENSA E INEXIGIBILIDADE DE LICITAÇÃO,
+
+#### Ementa
+
+    DIREITO CONSTITUCIONAL. CONCURSO PÚBLICO. DIREITO ADMINISTRATIVO. LICITAÇÕES E CONTRATOS. CONTRATAÇÃO DIRETA. INEXIGIBILIDADE E DISPENSA DE LICITAÇÕES. ATIVIDADES INERENTES ÀS CATEGORIAS FUNCIONAIS ABRANGIDAS POR PLANO DE CARGOS DE ÓRGÃO CONTRATANTE. PARECER N. 90/2017/DECOR/CGU/AGU. PRECEDENTE. SOLUÇÃO DIRECIONADA A QUADRO SEMELHANTE AO DE ESTADO DE COISAS INCONSTITUCIONAL. DEVER DE COERÊNCIA E INTEGRIDADE. NOVO CONTEXTO APRESENTADO. (DES)CARACTERIZAÇÃO DE TERCEIRIZAÇÃO PROIBIDA. CONTRATAÇÃO TEMPORÁRIA DE EXCEPCIONAL INTERESSE PÚBLICO. REMANEJAMENTOS, REQUISIÇÕES E INSTITUTOS SEMELHANTES. MEDIDAS PREFERENCIAIS E NECESSIDADE DE JUSTIFICAÇÃO DA INVIABILIDADE DE ADOTÁ-LAS. CONTRATAÇÃO DIRETA DE EMPRESA PÚBLICA PELO COMANDO DA MARINHA. NORMAS ESPECÍFICAS. (IM)POSSIBILIDADE JURÍDICA. LIMITAÇÕES.,1. EM REGRA, É INCOMPATÍVEL COM A CONSTITUIÇÃO DA REPÚBLICA (ART. 37, II) A CONTRATAÇÃO DE PESSOAS JURÍDICAS PRESTADORAS DE SERVIÇO OU PROFISSIONAIS AUTÔNOMOS, SEM CONCURSO PÚBLICO, PARA O DESEMPENHO DE ATRIBUIÇÕES PERTINENTES À CARREIRA ABRANGIDA PELOS PLANOS DE CARGOS DO ÓRGÃO.,2. NÃO OBSTANTE, EXCEPCIONALMENTE, ESTE DEPARTAMENTO ENTENDEU SER POSSÍVEL O CREDENCIAMENTO DE MÉDICOS COMO SOLUÇÃO EMERGENCIAL PARA ATENDER NECESSIDADES POR UM LAPSO TEMPORAL DELIMITADO, À LUZ DOS DIREITOS CONSTITUCIONAIS À VIDA E À SAÚDE, A FIM DE SE EVITAR A SOLUÇÃO DE CONTINUIDADE NA PRESTAÇÃO DESSES SERVIÇOS PÚBLICOS ESSENCIAIS (PARECER N. 90/2017/DECOR/CGU/AGU). ENTENDEU-SE QUE A REFERIDA MODALIDADE DE CONTRATAÇÃO SE ENCONTRA MOMENTANEAMENTE EM CONFORMIDADE COM A CONSTITUIÇÃO FEDERAL, SEM PREJUÍZO DO TRÂMITE NECESSÁRIO À URGENTE REALIZAÇÃO DE CONCURSOS PÚBLICOS E ÀS DEMAIS AÇÕES DESTINADAS A SANAR A PROBLEMÁTICA QUE, POR SUA VEZ, EM REGRA NÃO OCASIONA A RESPONSABILIZAÇÃO DE GESTOR, DESDE QUE SE MANTENHA ATIVO NA RESOLUÇÃO DA SITUAÇÃO E SEM MOROSIDADE EXCESSIVA NAQUELE CENÁRIO DE EXCEPCIONALIDADE. 3. PARA A CONCRETIZAÇÃO DO REFERIDO TIPO DE CONTRATAÇÃO (OU SIMILAR) DEVE HAVER DESRESPEITO DIRETO E IMEDIATO AO DIREITO À SAÚDE E À VIDA, DIANTE DE PROBLEMAS ESTRUTURAIS, DE INEFICIÊNCIA DO SISTEMA ENQUANTO POLÍTICA DE SAÚDE E DAS RESPONSABILIDADES DOS PODERES LEGISLATIVO E EXECUTIVO, TENDO EM VISTA A NECESSIDADE DE MEDIDAS LEGISLATIVAS, ADMINISTRATIVAS, ORÇAMENTÁRIAS, FORMULAÇÕES, AÇÕES COORDENADAS E MONITORAMENTO DE RESULTADOS PARA A SUA CORREÇÃO OU PERSISTENTE APERFEIÇOAMENTO.,4. O NOVO CENÁRIO APRESENTADO, ESPECIFICAMENTE O DÉFICIT DE PESSOAL NO LABORATÓRIO FARMACÊUTICO DA MARINHA, ENVOLVE PRECIPUAMENTE SUA PRODUÇÃO INDUSTRIAL DE MEDICAMENTOS, CUJOS RELEVANTES ARGUMENTOS DE ORDEM TÉCNICA APONTAM, EM VERDADE, PARA POSSÍVEL VIOLAÇÃO INDIRETA AO DIREITO À SAÚDE E À VIDA, CUJO QUADRO ESTRUTURAL DIFERE DO EXAMINADO NO PARECER N. 90/2017/DECOR/CGU/AGU. ALÉM DISSO, IN CASU, ENTRE OUTRAS NUANCES, HÁ SUCESSIVAS NEGATIVAS DE AUTORIZAÇÕES PARA CONCURSOS PÚBLICOS PELO MINISTÉRIO DO PLANEJAMENTO, DESENVOLVIMENTO, E GESTÃO, DISTINTAMENTE DO APRESENTADO PELO ÓRGÃO ASSESSORADO NAQUELA MANIFESTAÇÃO. ,5. EM QUE PESE A INAPLICABILIDADE DO PRECEDENTE, EM VIRTUDE DO IMPERIOSO DISTINGUISHING, HÁ POSSIBILIDADE DE CONTRATAÇÃO DIRETA DE SERVIÇOS DA EMGEPRON (ART. 24, VIII, DA LEI Nº 8.666/93), EMPRESA PÚBLICA FEDERAL, VINCULADA AO COMANDO DA MARINHA E CRIADA PARA ESTE FIM ESPECÍFICO EM DATA ANTERIOR À VIGÊNCIA DA LEI DE LICITAÇÕES, DESDE QUE O PREÇO CONTRATADO SEJA COMPATÍVEL COM O PRATICADO NO MERCADO. A CONTRATAÇÃO, NA HIPÓTESE, NÃO DEVE SE DESTINAR À CONCRETIZAÇÃO DE AUTÔNOMA POLÍTICA DE SUPRIMENTO DE DÉFICIT DE PESSOAL, MAS SIM AO GERENCIAMENTO DE PROJETOS ESPECÍFICOS INTEGRANTES DE PROGRAMAS APROVADOS PELO MINISTÉRIO DA MARINHA (ART. 2º, II, DA LEI Nº 7.000/1982) E, CONSEQUENTEMENTE, DEVEM SER DETALHADOS NO INSTRUMENTO CONTRATUAL.,6. TENDO EM VISTA AS NORMAS ESPECÍFICAS QUE REGEM A CONTROVÉRSIA, A CONTRATAÇÃO DE ATIVIDADES DETERMINADAS, PRESTADAS PELA EMPRESA PÚBLICA PRESTADORA DE SERVIÇO PÚBLICO DE SUPORTE À ADMINISTRAÇÃO PÚBLICA, QUE COINCIDAM COM ATRIBUIÇÕES DE ALGUNS CARGOS INTEGRANTES DOS PLANOS DE CARREIRAS MILITAR E CIVIL, NÃO INCORRE EM VÍCIO DE INCONSTITUCIONALIDADE OU ILEGALIDADE. COM EFEITO, DEVERÃO SER PRESTADAS POR CONCURSADOS, EMPREGADOS PÚBLICOS DA EMGEPRON, CRIADA PARA A REFERIDA FINALIDADE E, ALÉM DISSO, HÁ EXCEÇÃO LEGAL NO ART. 1º, § 2º, DO DECRETO 2.271/97 AO EXCEPCIONAR, DA PRÓPRIA PROIBIÇÃO DE EXECUÇÃO INDIRETA DE ATIVIDADES INERENTES ÀS CATEGORIAS FUNCIONAIS ABRANGIDAS POR PLANO DE CARGOS DO ÓRGÃO, EXPRESSAS DISPOSIÇÕES LEGAIS EM CONTRÁRIO (NO CASO, ART. 24, VIII, DA LEI Nº 8.666/93 COMBINADO COM O ART. 2º, II, DA LEI Nº 7.000/1982).,7. PARA QUE A MEDIDA SEJA PROPORCIONAL À REGRA GERAL DA NECESSIDADE DE CONCURSO PÚBLICO ESPECÍFICO PARA CADA ÓRGÃO, BEM COMO À EXISTÊNCIA DE EMPRESAS PÚBLICAS PRESTADORAS DE SERVIÇOS PÚBLICOS, ANTERIORES À CONSTITUIÇÃO FEDERAL DE 1988, CRIADAS COM A ESPECÍFICA FINALIDADE DE DAR SUPORTE À ADMINISTRAÇÃO PÚBLICA DIRETA (E.G. COMANDO DA MARINHA), O ÓRGÃO DEVE ANALISAR PRÉVIA E FUNDAMENTADAMENTE A INADEQUAÇÃO DA INCIDÊNCIA DA LEI Nº 8.745/93 (LEI DA CONTRATAÇÃO TEMPORÁRIA) AO CASO CONCRETO, ATESTAR A IMPOSSIBILIDADE DE REMANEJAMENTOS, REQUISIÇÕES E AFINS, ALÉM DOS SEGUINTES LIMITES.,8. DEVERÁ CONSTAR DO INSTRUMENTO FIRMADO COM A EMPRESA PÚBLICA O(S) PROJETO(S), O(S) COMPROMISSO(S) DE PRODUÇÃO DE MEDICAMENTOS (E.G. COM O MINISTÉRIO DA SAÚDE) E O PROGRAMA QUE SERÃO ESPECIFICAMENTE ATENDIDOS, DE MODO QUE OS SERVIÇOS (E VALORES) ESTEJAM VOLTADOS PARA O FOCO DESCRITO, NOS TERMOS DAS PREVISÕES NORMATIVAS SUPRAMENCIONADAS NESTE PARECER. O INSTRUMENTO DEVE CONTAR COM CLÁUSULA QUE POSSIBILITE A EXTINÇÃO ANTECIPADA DA AVENÇA EM CASO DE REALIZAÇÃO DE CONCURSO PÚBLICO, NO MOMENTO A SER DEFINIDO PELO ÓRGÃO ASSESSORADO NO EDITAL (PRAZO CURTO E RAZOÁVEL). TENDO EM VISTA QUE ESTAS CONTRATAÇÕES TERÃO EFEITOS LIMITADOS E O ÓRGÃO TEM O DEVER DE OBSERVAR A REGRA CONSTITUCIONAL DO CONCURSO PÚBLICO, O ÓRGÃO DEVE MANTER-SE ATIVO NO APERFEIÇOAMENTO DE SUA POLÍTICA DE PESSOAL JUNTO À PASTA COMPETENTE, SEM MOROSIDADE, POIS SERÃO SUBMETIDOS AOS ÓRGÃOS DE CONTROLE INTERNO E EXTERNO.,9. A INTERPRETAÇÃO JURÍDICA DOS REFERIDOS DISPOSITIVOS NÃO PODE SER APLICADA ENQUANTO OS SERVIDORES PÚBLICOS EM ATIVIDADE NO LABORATÓRIO FARMACÊUTICO DA MARINHA FOREM SUFICIENTES AO CUMPRIMENTO DE SUAS ATIVIDADES E COMPROMISSOS, CONFORME FORA RELATADO NOS AUTOS, O QUE DEVE SER ATESTADO PELA ÁREA TÉCNICA. POR CONSEGUINTE, A SITUAÇÃO PASSA PELA DEFINIÇÃO DO PRÓPRIO PAPEL DOS LABORATÓRIOS, QUAL DEVE SER O TAMANHO DE SUA OFERTA PRODUTIVA E ATÉ QUE PONTO DEVE SER ENTENDIDA COMO COMPROMETIDA, À LUZ DE SUAS FINALIDADES (E.G. ALÉM DE PRODUTOR, ATUA COMO BALIZADOR DE PREÇOS DE MERCADO QUANTO A ALGUNS MEDICAMENTOS).,10.  O PARECER N. 90/2017/DECOR/CGU/AGU É INAPLICÁVEL A SITUAÇÕES QUE NÃO AS DELINEADAS NO ITEM 2, SENDO OBRIGATÓRIA A CONFORMIDADE COM AS CIRCUNSTÂNCIAS FÁTICAS QUE SERVIRAM DE PREMISSA À MANIFESTAÇÃO, AO PASSO QUE A ESFERA NAVAL, A SUA PRODUÇÃO E A EMGEPRON SÃO REGIDAS POR REGRAS ESPECÍFICAS.,
+
+#### Vinculação informada pelo catálogo
+
+    Órgãos da CGU
+
+#### Ano no cadastro
+
+    2018
+
+#### Número no cadastro
+
+    36
+
+#### Identificador do cadastro oficial
+
+    346
+
+#### Órgão ou câmara no cadastro
+
+    CONUNI
+
+#### Código da situação no cadastro
+
+    1
+
+#### Manifestações relacionadas
+
+Campo vazio na fonte.
+
+#### Manifestação de reanálise
+
+Campo vazio na fonte.
+
+#### Manifestação revogadora ou retificadora
+
+Campo vazio na fonte.
+
+#### Ramo jurídico
+
+Campo vazio na fonte.
+
+#### Efeito da modificação
+
+Campo vazio na fonte.
+
+#### Aprovação no cadastro
+
+    APROVADO
+
+#### Descrição da situação no portal
+
+Está Vigente. Rótulo do catálogo, sem confirmação independente.
+
+#### Anexos
+
+Campo nulo na fonte.
+
+#### Referências documentais do catálogo
+
+[Manifestação](https://sapiens.agu.gov.br/valida_publico?id=136741685) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
+
+[Despacho da consultora ou diretor](https://sapiens.agu.gov.br/valida_publico?id=151191186) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
+
+[Despacho CGU](https://cgu.agu.gov.br/decor/arquivos/DespachoCGU1658939957.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
+
+CPF, RG, contas bancárias e chave de acesso a processo encontrados são ocultados; originais e recibos privados. A ausência de data ou aprovação em um campo não foi preenchida a partir de outro. Íntegras, anexos, aprovações documentais, referências sem endereço conciliado e atos posteriores permanecem pendentes.
+
+[Consultar a decisão no tribunal](https://cgu.agu.gov.br/conuni/)
+
+Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
