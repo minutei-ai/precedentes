@@ -1,6 +1,6 @@
 # AGU
 
-Advocacia-Geral da União. **325 registros.**
+Advocacia-Geral da União. **326 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -21,4 +21,5 @@ Advocacia-Geral da União. **325 registros.**
 | [Orientação Normativa Interna da CJU-RS](onicjurs/) | 12 |
 | [Orientação Normativa Interna da CJU-SP](onicjusp/) | 15 |
 | [Orientação Normativa do NAJ-MG](onnajmg/) | 3 |
+| [Parecer aprovado da CPLC/PGF](pcplc/) | 1 |
 | [Súmula da AGU](sum/) | 87 |
