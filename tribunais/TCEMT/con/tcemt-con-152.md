@@ -153,4 +153,173 @@ Ementa: INSTITUTO MUNICIPAL DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DE P
     
     F:\Secretaria do Pleno\2008\Resolução de Consulta\Resolução de Consulta 0908.odt          2
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 9/2008 (DOE, 17/04/2008).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 432
+
+    nicipal tem competência para dispor sobre a previdência social dos
+    seus servidores. Caso não haja tal previsão legal, não é possível incluir
+    as horas extraordinárias na base de cálculo da contribuição previden-
+    ciária, visto que tal verba não será levada para a inatividade.
+    
+    Resolução de Consulta 1/2025 – PP (DOC, 17/03/2025). Previdência.
+    RPPS. Contribuição. Terço constitucional de férias. Não incidência.
+    Devolução corrigida. Reavaliação atuarial. Não aplicação do Tema
+    985 do STF.
+    1. Não há incidência, no âmbito do RPPS, de contribuições previdenci-
+    árias sobre o terço constitucional de férias.612
+    2. O ente federativo (contribuição patronal) ou o servidor têm direito à
+    devolução corrigida dos valores recolhidos ou retidos a título de con-
+    tribuição previdenciária sobre o terço de férias.
+    3. O pedido de devolução deverá observar o prazo decadencial de 5
+    anos, a contar da data do pagamento ou da retenção ao RPPS, nos ter-
+    mos dos artigos 165 a 168 do Código Tributário Nacional.
+    4. O Regime Próprio de Previdência Social – RPPS deverá fazer a re-
+    avaliação atuarial do impacto da devolução, atendo-se à legislação
+    previdenciária em vigor, evitando-se que os valores devolvidos resul-
+    tem em déficit.
+    5. Aplica-se o Tema 985 do STF somente ao Regime Geral de Previdên-
+    cia Social – INSS.613
+    
+    Resolução de Consulta 9/2008 (DOE, 17/04/2008). Previdência. Con-
+    tribuição. Média contributiva dos proventos de aposentadoria. Inclu-
+    são das parcelas remuneratórias que compõem a base de cálculo da
+    contribuição previdenciária. Possibilidade de devolução de contri-
+    buição sobre parcela de caráter não permanente, observada a legis-
+    lação e as condições. Cálculo de proventos de aposentadoria pela
+    média aritmética simples nos casos previstos na legislação.
+    1. As parcelas remuneratórias que compõem a base de cálculo da con-
+    tribuição do servidor, definidas pela legislação do ente federativo, in-
+    tegrarão o cálculo da média contributiva dos proventos de aposenta-
+    612 Para o RPPS prevalece a tese decorrente do Tema 163 de repercussão geral (RE 593068), no sentido de que não incide contribuição
+    previdenciária sobre o terço constitucional de férias, por não ser incorporável aos proventos de aposentadoria do servidor público.
+    613 O STF decidiu que é legítima a incidência de contribuição social, a cargo do empregador, sobre os valores pagos ao empregado a
+    título de terço constitucional de férias gozadas.
+    
+                                                                 432
+
+### Contexto na compilação — página 433
+
+    doria, ressalvando que as parcelas pagas em decorrência de local de
+    trabalho, função de confiança, ou cargo em comissão – se a lei local
+    previr sua inclusão – devem ter autorização expressa do servidor para
+    integrarem a contribuição.614
+    2. Dependendo da legislação municipal, o servidor poderá requerer a
+    devolução de parcela de caráter não permanente, ou seja, se essa pre-
+    ver a incidência de contribuição sobre verbas de caráter não perma-
+    nente615, não haverá direito à devolução, tendo em vista que essas se-
+    rão consideradas no cálculo de proventos. No entanto, se a legislação
+    do ente não estabelecer a incidência de contribuição dessas parcelas,
+    o servidor tem direito de requerer a devolução, ou a administração po-
+    derá, de ofício, reparar o eventual dano causado aos contribuintes.
+    3. O prazo para manifestação do servidor acerca da contribuição ou
+    não sobre parcelas pagas em decorrência de local de trabalho, função
+    de confiança ou cargo em comissão, deve ser definido pelo ente mu-
+    nicipal. Contudo, se o servidor resolver passar a contribuir sobre as
+    parcelas de caráter não permanente, permitidas em lei, poderá solici-
+    tar as parcelas a qualquer momento, mesmo que anteriormente tenha
+    se manifestado em sentido contrário.
+    4. A média aritmética simples estabelecida pela Lei Federal 10.887/2004
+    será utilizada somente nos cálculos de proventos das aposentadorias
+    previstas no art. 40, § 1°, incisos I, II e III, e § 5°, da Constituição Federal,
+    com redação dada pela Emenda Constitucional 41/2003 e na regra de
+    transição prevista no artigo 2° da mesma Emenda.616
+    
+    Resolução de Consulta 43/2010 (DOE, 10/06/2010). Previdên-
+    cia. Contribuição. Base de cálculo. Parcelas remuneratórias não
+    permanentes.
+    1. Como regra, as parcelas remuneratórias de caráter não permanen-
+    te, pagas em decorrência de local de trabalho, de função de confiança
+    ou de cargo em comissão, não compõem os benefícios de aposen-
+    tadoria e pensão, logo, pelo princípio da contributividade, segundo
+    614 A Portaria MTP n° 1.467/2022, no art. 12, § 1°, dispõe que lei do ente federativo poderá prever a inclusão, na base de cálculo, das par-
+    celas pagas em decorrência de local de trabalho, de função de confiança, de cargo em comissão, ou de outras parcelas temporárias
+    de remuneração, desde que mediante opção expressa do servidor.
+    615 Referem-se a parcelas pagas em decorrência de local de trabalho, função de confiança ou cargo em comissão, conforme previsão
+    em lei local.
+    616 Tese prevista no art. 1° da Lei 10.887/2004, definida e aplicada na vigência do conteúdo constitucional estabelecido pela Emenda
+    Constitucional 41/2003 para os incisos I a III, do § 1°, do art. 40 da CF/1988.
+    
+    
+    
+                                                                      433
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

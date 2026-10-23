@@ -277,4 +277,131 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 7/2012. (DOE, 06/06/2012).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 381
+
+    HONORÁRIOS DE SUCUMBÊNCIA
+    
+    Resolução de Consulta 7/2012. (DOE, 06/06/2012). Pessoal. Advoga-
+    dos contratados por meio da Lei de Licitações e Contratos. Destina-
+    ção dos honorários de sucumbência nos termos dos instrumentos
+    convocatório e contratual.519
+    Os advogados contratados para prestação de serviços advocatícios,
+    por meio de prévio processo licitatório, perceberão honorários de su-
+    cumbência se houver previsão expressa no instrumento convocatório
+    do certame e no respectivo instrumento contratual, podendo ser en-
+    tabulado nos contratos de risco, conforme interpretação sistemática
+    da Lei 8.666/1993520 c/c artigos 22 e 23, da Lei 8.906/1994.
+    
+    Resolução de Consulta 18/2018 – TP (DOC, 04/12/2018). Pessoal.
+    Advogados públicos. Percepção de honorários de sucumbência.
+    Código de Processo Civil de 2015. Lei regulamentadora. Critérios e
+    condições para distribuição. Natureza jurídica. Teto remuneratório.
+    Imposto de Renda. Não incidência de contribuição previdenciária.521
+    1. Os honorários advocatícios de sucumbência, das causas em que o
+    Poder Público for parte, pertencem aos advogados públicos, sendo
+    sua percepção dependente de regulamentação legal em sentido es-
+    trito de cada ente federativo (União, Estados, DF e Municípios).522
+    2. A lei que regulamentar a percepção dos honorários sucumbenciais
+    deve dispor sobre a sua forma de recolhimento, os critérios de rateio
+    dos valores arrecadados, a gestão desses recursos e a conta bancá-
+    ria para depósito dessas verbas, sendo legítimo estabelecer critérios
+    que permitam a estabilidade e a previsibilidade dos valores rateados
+    aos integrantes da carreira da advocacia pública.
+    3. Os honorários de sucumbência, por constituírem vantagem confe-
+    rida indiscriminadamente a todos os integrantes da carreira, têm na-
+    tureza remuneratória, submetendo-se ao teto remuneratório consti-
+    
+    
+    519 O conteúdo da decisão foi atualizado com base em revogação parcial pela Resolução de Consulta 18/2018.
+    520 A partir de 30/12/2023, com a revogação da Lei 8.666/1993, aplicam-se as disposições da Lei 14.133/2021 quanto às regras lici-
+    tatórias e contratuais.
+    521 A decisão prejulgada revogou parcialmente a Resolução de Consulta 7/2012, excluindo seu item 1.
+    522 Conforme o CPC/2015, “os advogados públicos perceberão honorários de sucumbência, nos termos da lei” (art. 85, § 19). Pela Lei
+    Federal 13.327/2016, “os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as funda-
+    ções públicas federais pertencem originariamente aos ocupantes dos cargos das carreiras jurídicas” (art. 29).
+    
+    
+    
+                                                                 381
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

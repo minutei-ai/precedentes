@@ -377,4 +377,174 @@ Inventário visual: 2 imagens nesta página; consulte o PDF para os elementos gr
 
 -   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 28/2013 (DOC, 16/12/2013).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 424
+
+    2. Não é possível o ingresso, no RPPS, de servidores estabilizados pelo
+    art. 19, do Ato das Disposições Constitucionais Transitórias – ADCT e
+    não efetivos, já filiados ao Regime Geral de Previdência Social – RGPS,
+    tendo em vista que sem a efetividade no serviço público esses servi-
+    dores detêm apenas o direito à estabilidade e respectiva permanência
+    no cargo ocupado, não implicando no acesso a direito de filiação ao
+    regime próprio.593
+    3. Excepcionalmente, é permitido o vínculo ao regime próprio àqueles
+    servidores estabilizados e não efetivos (art. 19 do ADCT) cujas aposen-
+    tadorias e pensões foram concedidas, ou cujos requisitos já tenham
+    sido atendidos até 18/06/2024, nos termos da Tese fixada em reper-
+    cussão geral pelo STF no RE 1426306594.
+    4. A nova Tese reconhecida pelo STF não prejudica os atos de filiação
+    ou concessão já apreciados pelo Tribunal de Contas, sob a égide da
+    Resolução de Consulta 22/2016, em respeito ao ato jurídico perfeito e
+    à segurança jurídica.
+    
+    Resolução de Consulta 28/2013 (DOC, 16/12/2013). Previdência.
+    Prestação de contas. Registro de aposentadorias. Apresentação
+    de original de Certidão de Tempo de Contribuição. Exigência. Ex-
+    travio ou perda da certidão por evento fortuito ou de força maior.
+    Procedimentos.
+    1. A exigência de juntada de original da Certidão de Tempo de Con-
+    tribuição nos processos de registro de aposentadorias apreciados
+    pelo TCE/MT, nos termos estabelecidos pelo Manual de Orientação
+    para Remessa de Documentos, aprovado pela Resolução Normativa
+    3/2015595, visa mitigar o risco de utilização de tempo de contribuição
+    em mais de um regime previdenciário para fins de aposentadoria ou
+    ainda de cômputo de tempo indevido para aposentação.
+    2. Na episódica ocorrência de evento fortuito ou de força maior que
+    acarrete o extravio ou perda de Certidão de Contribuição de Tempo
+    593 A tese foi amparada em precedentes de outros tribunais, incluindo o STF e STJ.
+    594 Tese do STF: “Somente os servidores públicos civis detentores de cargo efetivo (art. 40, CF, na redação dada pela EC 20/98) são
+    vinculados ao regime próprio de previdência social, a excluir os estáveis nos termos do art. 19 do ADCT e os demais servidores ad-
+    mitidos sem concurso público, ressalvadas as aposentadorias e pensões já concedidas ou com requisitos já satisfeitos até a data da
+    publicação da ata de julgamento destes embargos declaratórios”.
+    595 A Resolução Normativa 3/2015 aprovou a 5ª edição do Manual de Orientação para Remessa de Documentos ao TCE/MT, em que
+    consta a necessidade de se juntar, aos processos de aposentadoria, reforma e reserva remunerada, a “certidão original de tempo
+    de contribuição de outros órgãos previdenciários, inclusive do Regime Geral de Previdência Social (INSS), que comprove o tempo
+    averbado, para fins de aposentadoria” (p. 57).
+    
+    
+    
+                                                                 424
+
+### Contexto na compilação — página 425
+
+    de Serviço original pelo órgão ou entidade que promoveu a respectiva
+    averbação, o procedimento a ser adotado pelo fiscalizado do TCE/MT
+    deve ser, em regra, o de exigir do servidor interessado a apresenta-
+    ção da 2ª via da Certidão, obtida junto à entidade previdenciária com-
+    petente, com o objetivo de dar cumprimento à Resolução Normativa
+    3/2015.
+    3. Eventualmente, quando efetivamente comprovado o extravio ou a
+    perda de Certidão de Tempo de Contribuição original, devido a ocor-
+    rência de um evento fortuito ou de força maior, as certidões poderão
+    ser substituídas por cópias autenticadas596, desde que:
+    a) os servidores titulares das certidões já estejam aposentados pelo
+    órgão/entidade e os atos de aposentação ainda não tenham sido apre-
+    ciados pelo TCE/MT;
+    b) as cópias autenticadas estejam acompanhadas de documentos
+    comprobatórios da averbação do tempo de contribuição em data an-
+    terior ao evento fortuito ou de força maior; e,
+    c) sejam apresentadas as justificativas para o não envio da Certidão
+    original.
+    4. Em todos os casos, independentemente da ocorrência de evento
+    fortuito ou de força maior, não é permitida a substituição de Certidões
+    de Tempo de Contribuição originais por simples registros ou assen-
+    tamentos funcionais dos servidores, bem como pela simples apre-
+    sentação do Anexo XLV, do Manual de Orientação para Remessa de
+    Documentos.
+    5. A dilação de prazos para o encaminhamento de processos de apo-
+    sentadorias – necessária em virtude de extravio ou perda de Certi-
+    dões de Tempo de Contribuição originais, devido à ocorrência de um
+    evento fortuito ou de força maior – por se tratar de regra normativa
+    insculpida no art. 211, do Regimento Interno, poderá ser requerida ao
+    Presidente do TCE/MT. Em processos já em tramitação no âmbito do
+    Tribunal, nos quais tenham sido solicitadas diligências para apresen-
+    tação de Certidão de Tempo de Contribuição original, a concessão de
+    dilação de prazo compete ao Conselheiro Relator do feito (art. 96, I,
+    Regimento Interno).
+    
+    596 Tese em avaliação para verificar se está compatível com o ordenamento jurídico em vigência.
+    
+    
+    
+                                                                425
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

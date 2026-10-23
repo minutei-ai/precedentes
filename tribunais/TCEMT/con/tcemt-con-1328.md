@@ -296,4 +296,200 @@ Inventário visual: 2 imagens nesta página; consulte o PDF para os elementos gr
 
 -   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 14/2014 – TP (DOC, 12/09/2014).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 379
+
+    REMUNERAÇÃO: VEDAÇÕES ELEITORAIS
+    
+    Resolução de Consulta 33/2008 (DOE, 31/07/2008). Pessoal. Remu-
+    neração. Agente Público. Aumento salarial. Ano eleitoral.
+    É vedada, a partir dos 180 dias que precedem a eleição, a concessão
+    de reajuste salarial, restruturação na carreira ou qualquer forma de
+    aumento remuneratório que exceda a recomposição do poder aquisi-
+    tivo ao longo do ano eletivo, devendo ser demonstrado o índice utiliza-
+    do a fim de descaracterizar o impedimento legal.516
+    Resolução de Consulta 16/2008 (DOE, 21/08/2008). Pessoal. Remune-
+    ração. Revisão Geral Anual. Ano Eleitoral. Possibilidade.
+    É lícita a concessão de revisão geral anual da remuneração de agentes
+    públicos em ano eleitoral na circunscrição do pleito, inclusive relativa
+    aos percentuais acumulados em exercícios anteriores não concedi-
+    dos, desde que ocorram antes dos 180 dias que precedem a eleição.
+    No entanto, após esse período é possível a revisão da remuneração,
+    desde que se restrinja à recomposição do poder aquisitivo dos agen-
+    tes ao longo do ano eletivo, respeitada a legislação que veda a indexa-
+    ção automática de salários.517
+    
+    Resolução de Consulta 14/2014 – TP (DOC, 12/09/2014). Pessoal. Re-
+    muneração. Revisão e reajustes. Vedações em período eleitoral. Ar-
+    tigo 73, incisos V e VIII, da Lei 9.504/1997. Circunscrição do pleito.
+    Abrangência. Piso profissional nacional de agentes de saúde.518
+    1. Em conformidade com a atual jurisprudência eleitoral, as vedações
+    previstas nos incisos V e VIII, do artigo 73, da Lei 9.504/1997 abrangem
+    apenas a circunscrição do pleito, ou seja, em se tratando de eleições
+    federais e estaduais, as proibições insertas nesses dispositivos não
+    afetam os entes municipais.
+    2. Nas eleições cuja circunscrição do pleito não abrange os entes mu-
+    516 A Lei de Responsabilidade Fiscal prevê que é nulo de pleno direito o ato de que resulte aumento da despesa com pessoal nos
+    180 dias anteriores ao final do mandato do titular de Poder ou órgão (art. 21, II). Em complemento a tal regra, a Lei das Eleições (Lei
+    9.504/1997) dispõe que inclusive é vedado aos agentes públicos fazer, nessa circunscrição do pleito, ou seja, no período de 180 dias
+    que antecedem as eleições até a posse dos eleitos, revisão geral da remuneração dos servidores que exceda a recomposição da
+    perda do seu poder aquisitivo ao longo do ano da eleição (art. 73, VIII).
+    517 A Lei das Eleições (Lei 9.504/1997) veda aos agentes públicos fazer, no período de 180 dias que antecedem as eleições até a posse
+    dos eleitos, revisão geral da remuneração dos servidores que exceda a recomposição da perda do seu poder aquisitivo ao longo do
+    ano da eleição (art. 73, VIII). Além dessa regra legal, deve-se observar teses prejulgadas do TCE/MT no sentido de que a Revisão Geral
+    Anual não pode ser indexada, de forma automática, a índice federal de correção monetária, devendo atender à capacidade orça-
+    mentário-financeira e o incremento da Receita Corrente Líquida no âmbito do ente federativo (Resoluções de Consulta 7/2020-TP e
+    10/2024-PV), inclusive quando se tratar da concessão de percentuais acumulados em exercícios anteriores.
+    518 A decisão prejulgada está sob avaliação para verificar compatibilidade com o ordenamento jurídico atual.
+    
+    
+    
+                                                                   379
+
+### Contexto na compilação — página 380
+
+    nicipais, constata-se que a legislação eleitoral não impõe óbices para
+    que os municípios possam promover a implementação do piso pro-
+    fissional nacional dos agentes comunitários de saúde e dos agentes
+    de combate às endemias, observando-se os termos da Lei Nacional
+    12.994/2014.
+    3. Independentemente da circunscrição do pleito eleitoral, a imple-
+    mentação do piso profissional nacional dos agentes comunitários
+    de saúde e dos agentes de combate às endemias é um mandamento
+    constitucional (§ 5°, art. 198, da CF/1988) regulamentado por lei nacio-
+    nal (Lei 12.994/2014), e, como tal, não deve encontrar óbices para sua
+    efetivação na legislação eleitoral, a exemplo dos incisos V e VIII, do art.
+    73, da Lei 9.504/1997.
+    
+    
+    
+    
+                                       380
+
+### Contexto na compilação — página 381
+
+    HONORÁRIOS DE SUCUMBÊNCIA
+    
+    Resolução de Consulta 7/2012. (DOE, 06/06/2012). Pessoal. Advoga-
+    dos contratados por meio da Lei de Licitações e Contratos. Destina-
+    ção dos honorários de sucumbência nos termos dos instrumentos
+    convocatório e contratual.519
+    Os advogados contratados para prestação de serviços advocatícios,
+    por meio de prévio processo licitatório, perceberão honorários de su-
+    cumbência se houver previsão expressa no instrumento convocatório
+    do certame e no respectivo instrumento contratual, podendo ser en-
+    tabulado nos contratos de risco, conforme interpretação sistemática
+    da Lei 8.666/1993520 c/c artigos 22 e 23, da Lei 8.906/1994.
+    
+    Resolução de Consulta 18/2018 – TP (DOC, 04/12/2018). Pessoal.
+    Advogados públicos. Percepção de honorários de sucumbência.
+    Código de Processo Civil de 2015. Lei regulamentadora. Critérios e
+    condições para distribuição. Natureza jurídica. Teto remuneratório.
+    Imposto de Renda. Não incidência de contribuição previdenciária.521
+    1. Os honorários advocatícios de sucumbência, das causas em que o
+    Poder Público for parte, pertencem aos advogados públicos, sendo
+    sua percepção dependente de regulamentação legal em sentido es-
+    trito de cada ente federativo (União, Estados, DF e Municípios).522
+    2. A lei que regulamentar a percepção dos honorários sucumbenciais
+    deve dispor sobre a sua forma de recolhimento, os critérios de rateio
+    dos valores arrecadados, a gestão desses recursos e a conta bancá-
+    ria para depósito dessas verbas, sendo legítimo estabelecer critérios
+    que permitam a estabilidade e a previsibilidade dos valores rateados
+    aos integrantes da carreira da advocacia pública.
+    3. Os honorários de sucumbência, por constituírem vantagem confe-
+    rida indiscriminadamente a todos os integrantes da carreira, têm na-
+    tureza remuneratória, submetendo-se ao teto remuneratório consti-
+    
+    
+    519 O conteúdo da decisão foi atualizado com base em revogação parcial pela Resolução de Consulta 18/2018.
+    520 A partir de 30/12/2023, com a revogação da Lei 8.666/1993, aplicam-se as disposições da Lei 14.133/2021 quanto às regras lici-
+    tatórias e contratuais.
+    521 A decisão prejulgada revogou parcialmente a Resolução de Consulta 7/2012, excluindo seu item 1.
+    522 Conforme o CPC/2015, “os advogados públicos perceberão honorários de sucumbência, nos termos da lei” (art. 85, § 19). Pela Lei
+    Federal 13.327/2016, “os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as funda-
+    ções públicas federais pertencem originariamente aos ocupantes dos cargos das carreiras jurídicas” (art. 29).
+    
+    
+    
+                                                                 381
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

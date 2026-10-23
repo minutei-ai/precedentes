@@ -121,4 +121,169 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 9/2024 – PP (DOC, 20/05/2024).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 60
+
+    LIMITE CONSTITUCIONAL: GASTO TOTAL
+    
+    Acórdãos 185/2005 (DOE, 21/03/2005) e 650/2001 (DOE, 22/05/2001).
+    Câmara Municipal. Despesa. Limite. Gasto total. Observância à regra
+    constitucional. Exclusão dos gastos com inativos e pensionistas.
+    1. O total das despesas do Poder Legislativo municipal não poderá
+    ultrapassar os percentuais estabelecidos no artigo 29-A, incidentes
+    sobre o somatório das receitas tributárias e das transferências pre-
+    vistas no § 5°, do artigo 153, e nos artigos 158 e 159 da Constituição
+    Federal, efetivamente realizadas no exercício anterior.
+    2. Assim como os gastos com inativos, também aqueles correspon-
+    dentes a pagamento de pensionistas não se incluem nesse limite (total
+    das despesas do Poder Legislativo municipal), por não se submeterem
+    ao controle gerencial do ordenador de despesa.30
+    
+    Resolução de Consulta 22/2023 – PV (DOC, 14/12/2023). Câmara Mu-
+    nicipal. Despesa. Limite. Gasto total. Dados do IBGE.
+    Para definição do percentual do limite de gastos do Poder Legislativo
+    Municipal, nos termos do art. 29-A da Constituição Federal, devem ser
+    utilizados como base os dados definitivos do recenseamento realiza-
+    do pelo Instituto Brasileiro de Geografia e Estatística – IBGE, não ser-
+    vindo como referencial qualquer levantamento populacional prévio.
+    
+    Resolução de Consulta 9/2024 – PP (DOC, 20/05/2024). Câmara Mu-
+    nicipal. Despesa. Limite. Lei Orçamentária. Dados populacionais do
+    IBGE. Alteração do percentual de receita.
+    1. Para a elaboração do Projeto de Lei Orçamentária devem ser uti-
+    lizados, para cumprimento do disposto no art. 29-A da Constituição
+    Federal, os dados definitivos populacionais publicados pelo Instituto
+    Brasileiro de Geografia e Estatística (IBGE) no exercício anterior ao de
+    elaboração da proposta orçamentária.31
+    2. Eventual desajuste entre a Lei Orçamentária Anual (LOA) e o art.
+    29-A da Constituição Federal não autoriza o chefe do Poder Executivo
+    a alterar, unilateralmente, o percentual da receita destinada ao Poder
+    30 A título de revisão, a tese está em avaliação para verificar compatibilidade com a Resolução de Consulta 9/2014.
+    31 A Lei 5.878/1973 dispõe que a Fundação Instituto Brasileiro de Geografia e Estatística – IBGE tem que, no âmbito de seu objetivo bá-
+    sico, assegurar informações de natureza estatística necessárias ao conhecimento da realidade econômica e social do País, visando
+    ao planejamento inclusive econômico e social (art. 2°, caput).
+    
+    
+                                                                     60
+
+### Contexto na compilação — página 61
+
+    Legislativo, pois o repasse de verbas pelo Poder Executivo aos demais
+    poderes e aos órgãos autônomos deve observar a previsão na LOA.
+    
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011). Câmara Municipal.
+    Despesa. Limite. Gasto total. Realização de concurso público.
+    1. Cabe ao Poder Legislativo a despesa com a realização de concurso
+    público para preenchimento de cargos dos seus quadros.
+    2. É possível a realização de concurso público, em conjunto, pela câ-
+    mara municipal e prefeitura. Neste caso, havendo o rateio das despe-
+    sas, somente a parcela paga pelo Legislativo deve integrar o seu limite
+    de gastos.
+    
+    Resolução de Consulta 14/2015 – TP (DOC, 21/09/2015). Câmara Mu-
+    nicipal. Despesa. Limite. Gasto total. Base de cálculo. Auxílio finan-
+    ceiro às exportações.
+    Os auxílios financeiros concedidos pela União aos Municípios, para fo-
+    mentar as exportações do país, não compõem a base de cálculo para
+    a determinação do limite de gasto total das câmaras municipais, pois
+    se trata de transferências que não se enquadram nas hipóteses de re-
+    ceita tributária ou de transferência tributária previstas no art. 29-A,
+    caput da Constituição Federal.
+    
+    Resolução de Consulta 21/2015 – TP (DOC, 17/12/2015). Câmara
+    Municipal. Despesa. Limite. Gasto total. Despesas de Exercícios
+    Anteriores.
+    O Poder Legislativo pode, excepcionalmente, excluir do limite esta-
+    belecido pelo artigo 29-A da Constituição da República, despesas de
+    exercícios anteriores não empenhadas e não contabilizadas na época
+    devida, desde que comprove a legitimidade dessas despesas e iden-
+    tifique, por meio de processo administrativo próprio, o (s) agente (s)
+    causador (es) da geração e do descumprimento das fases de cons-
+    tituição e liquidação da respectiva despesa, para fins de eventual
+    responsabilização.
+    
+    
+    
+    
+                                      61
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

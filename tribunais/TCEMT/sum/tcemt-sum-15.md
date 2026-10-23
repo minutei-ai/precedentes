@@ -461,4 +461,168 @@ Não houve OCR nem reconstrução de páginas rasterizadas. As páginas sem text
 
 O pagamento de adicional de insalubridade a servidor público depende de previsão legal do respectivo ente e deve estar amparado em laudo técnico que caracterize e classifique a atividade insalubre de acordo com a normatização específica do Ministério do Trabalho.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    SÚMULA Nº 15 (DOC, 05/06/2017).
+
+### Entrada temática 2
+
+    SÚMULA Nº 15
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 29
+
+    SÚMULA Nº 15
+    
+    O pagamento de adicional de insalubridade a servidor público depen-
+    de de previsão legal do respectivo ente e deve estar amparado em lau-
+    do técnico que caracterize e classifique a atividade insalubre de acor-
+    do com a normatização específica do Ministério do Trabalho.
+    
+    Publicação: DOC, 05/06/2017.
+    Fundamentação Legal:
+    - CF/1988: art.7°, inciso XXIII.
+    - CLT: art. 195.
+    - Norma Regulamentadora n° 15 do Ministério do Trabalho e Emprego.
+    - Norma Regulamentadora n° 16 do Ministério do Trabalho e Emprego.
+    Precedentes no TCE-MT:
+    Resolução de Consulta n° 63/2011 – Tribunal Pleno, Sessão de
+    08/11/2011, Processo n° 17.961-2/2011, DOE de 16/11/2011 (Conselheiro
+    Substituto Luiz Henrique Lima);
+    Acórdão nº 709/2014 – Tribunal Pleno, Sessão de 01/04/2014, Processo
+    nº 7.319-9/2013, DOC de 15/04/2014 (Conselheiro José Carlos Novelli);
+    Acórdão n° 795/2014 – Tribunal Pleno, Sessão de 29/04/2014, DOC de
+    09/05/2014 (Conselheiro José Carlos Novelli);
+    Acórdão n° 817/2014 – Tribunal Pleno, Sessão de 06/05/2014, Processo
+    nº 7.318-0/2013, DOC de 13/05/2014 (Conselheiro José Carlos Novelli);
+    Acórdão n° 953/2014 – Tribunal Pleno, Sessão de 13/05/2014, Processo
+    nº 7.742-9/2013, DOC de 21/05/2014 (Conselheiro Domingos Neto);
+    Acórdão n° 2.550/2014 – Tribunal Pleno, Sessão de 29/10/2014, DOC de
+    19/11/2013 (Conselheiro Domingos Neto).
+    
+    
+    
+    
+                                      29
+
+### Contexto na compilação — página 364
+
+    DIREITOS SOCIAIS, DEVERES, ATRIBUIÇÕES E VEDAÇÕES
+    
+    Resolução de Consulta 63/2011 (DOE, 16/11/2011). Pessoal. Direitos
+    sociais. Adicional de insalubridade.
+    Para o recebimento do adicional de insalubridade, independentemen-
+    te de outras parcelas remuneratórias ou indenizatórias, é suficiente a
+    exposição do servidor público a riscos em sua saúde, nos termos da
+    NR n° 15 do Ministério do Trabalho. No serviço público, a concessão
+    deste adicional deve ser normatizada em cada ente federativo.488
+    
+    SÚMULA Nº 15 (DOC, 05/06/2017).
+    O pagamento de adicional de insalubridade a servidor público depende
+    de previsão legal do respectivo ente e deve estar amparado em laudo
+    técnico que caracterize e classifique a atividade insalubre de acordo
+    com a normatização específica do Ministério do Trabalho.
+    
+    Resolução de Consulta 16/2010 (DOE, 15/04/2010). Pessoal. Direitos
+    sociais. FGTS. Empregados públicos. Agentes de saúde e de ende-
+    mias. Dever de recolhimento.
+    Os empregados públicos regidos pela CLT, nestes inclusos os agentes
+    comunitários de saúde e agentes de combate a endemias, fazem jus
+    ao benefício do FGTS, sendo a Administração responsável pelo paga-
+    mento das parcelas do FGTS ao agente operador, conforme as diretri-
+    zes da Lei 8.036/1990.489
+    
+    Resolução de Consulta 4/2010 (DOE, 11/02/2010). Pessoal. Direitos
+    sociais. FGTS. Diretor empregado. Dever de recolhimento. Diretor
+    não empregado. Recolhimento facultativo.
+    1. É obrigatório o depósito de FGTS para o diretor estatutário empre-
+    gado, entendendo-se como tal aquele que exerce cargo administrati-
+    vo previsto em lei, estatuto ou contrato social, desde a data do efetivo
+    exercício nessa atribuição, sob pena de recolhimento retroativo dessa
+    parcela, acrescida de TR e juros de mora, com base no disposto no art.
+    
+    488 Além da comprovada exposição do servidor público a riscos em sua saúde e previsão legal da concessão, para o pagamento do
+    adicional deve haver amparo em laudo técnico que demonstre e classifique a atividade insalubre, conforme Súmula 15 do TCE/MT.
+    489 Pela Lei 8.036/1990, para fins de depósito obrigatório em conta vinculada ao FGTS, a pessoa jurídica de direito público é conside-
+    rada “empregador” quando admitir trabalhadores a seu serviço pelo regime celetista.
+    
+    
+    
+                                                                   364
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

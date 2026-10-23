@@ -155,4 +155,220 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 1/2018 – TP (DOC, 12/04/2018).
+
+### Entrada temática 2
+
+    Resolução de Consulta 1/2018 – TP (DOC, 12/04/2018).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 127
+
+    CONVÊNIOS E SIMILARES COM ENTIDADES SEM FINS
+    LUCRATIVOS
+    
+    Resolução de Consulta 1/2018 – TP (DOC, 12/04/2018). Convênio ou
+    instrumento congênere. Subvenção social. Apoio cultural. Radiofu-
+    são Comunitária. Condições.
+    1. É lícito à Administração Pública conceder apoio cultural, na forma
+    de subvenção social, às fundações e associações comunitárias, sem
+    fins lucrativos, que exploram o Serviço de Radiodifusão Comunitária,
+    desde que legalmente instituídas na forma da Lei 9.612/1998.
+    2. A subvenção social deverá atender as condições estabelecidas na
+    Lei de Diretrizes Orçamentárias, com previsão no orçamento público,
+    ou em seus créditos adicionais.
+    3. O apoio cultural deverá ser formalizado por meio de convênio88,
+    acordo, ajuste ou instrumento congênere, obedecendo as regras dis-
+    postas no parágrafo único do artigo 16 e no artigo 17, ambos da Lei
+    4.320/1964, com a correta especificação do objeto a ser executado,
+    elaboração de plano de trabalho estabelecendo as condições míni-
+    mas de execução, e com valor, sempre que possível, calculado com
+    base em unidade de serviços efetivamente prestados ou postos à dis-
+    posição, e sobretudo, justificado.
+    4. Caso exista na localidade mais de uma rádio comunitária, o Po-
+    der Público deverá fazer o credenciamento de todas que satisfaçam
+    as condições fixadas em lei, garantindo igualdade de condições às
+    interessadas.
+    5. A rádio comunitária não pode ser considerada como órgão de im-
+    prensa oficial a dar validade aos atos da administração.
+    6. Deverá a entidade recebedora prestar contas dos recursos recebi-
+    dos ao órgão concedente, que manterá os documentos arquivados e
+    disponíveis para eventual fiscalização pelo Tribunal de Contas do Es-
+    tado de Mato Grosso e demais instituições de controle.
+    
+    
+    
+    
+    88 Nomenclatura em revisão, pois a Lei 13.019/2014 (art. 84-A) estabeleceu que a celebração de convênios só pode ocorrer entre
+    entes federados ou pessoas jurídicas a eles vinculadas, e entre a administração pública e entidades privadas exclusivamente na área
+    da saúde, tendo preferência as filantrópicas e as sem fins lucrativos.
+    
+    
+    
+                                                                  127
+
+### Contexto na compilação — página 150
+
+    4. Caberá ao ente público, de acordo com o formato do programa de
+    moradia que pretende adotar, definir sobre a utilização de licitação ou
+    Parceria Público-Privada como instrumento de contratação.
+    
+    Resolução de Consulta 42/2011 (DOE, 07/07/2011). Despesa. Fomen-
+    tos e incentivos. Utilização de máquinas e equipamentos públicos
+    para construção de tanques para fomento à piscicultura. Possibili-
+    dade. Atendimento a requisitos.
+    1. Desde que haja programa voltado ao fomento da piscicultura, criado
+    por meio de lei específica109, contendo, dentre outros, objetivos, cri-
+    térios e condições de concessão do benefício e programa de traba-
+    lho governamental específico com autorização legislativa nas peças
+    de planejamento (PPA, LDO e LOA), o Poder Público poderá realizar
+    despesa com fomento à piscicultura, visando a geração de emprego
+    e renda para pequenos proprietários rurais da sua região, incluindo-
+    -se o uso de máquinas e equipamentos públicos para a construção de
+    tanques, atendidos os princípios norteadores da Administração Públi-
+    ca, insculpidos no art. 37, da CF/88.
+    2. O não atendimento aos requisitos acima delineados poderá acar-
+    retar aos responsáveis a imputação de ato de improbidade admi-
+    nistrativa, nos termos do art. 9°, inciso IV, e art. 10, inciso XIII, da Lei
+    8.249/1992.
+    
+    Resolução de Consulta 1/2018 – TP (DOC, 12/04/2018). Despesa. Sub-
+    venção social. Apoio cultural. Radiofusão Comunitária. Condições.
+    1. É lícito à Administração Pública conceder apoio cultural, na forma
+    de subvenção social, às fundações e associações comunitárias, sem
+    fins lucrativos, que exploram o Serviço de Radiodifusão Comunitária,
+    desde que legalmente instituídas na forma da Lei 9.612/1998.
+    2. A subvenção social deverá atender as condições estabelecidas na
+    Lei de Diretrizes Orçamentárias, com previsão no orçamento público,
+    ou em seus créditos adicionais.
+    3. O apoio cultural deverá ser formalizado por meio de convênio, acor-
+    do, ajuste ou instrumento congênere, obedecendo as regras dispostas
+    
+    109 No Estado de Mato Grosso, a Lei 9.408/2010 instituiu a Política Estadual de Desenvolvimento da Aquicultura e da Piscicultura –
+    PRÓ-PEIXE.
+    
+    
+    
+                                                                 150
+
+### Contexto na compilação — página 151
+
+    no parágrafo único do artigo 16 e no artigo 17, ambos da Lei 4.320/1964,
+    com a correta especificação do objeto a ser executado, elaboração de
+    plano de trabalho estabelecendo as condições mínimas de execução,
+    e com valor, sempre que possível, calculado com base em unidade de
+    serviços efetivamente prestados ou postos à disposição, e sobretudo,
+    justificado.
+    4. Caso exista na localidade mais de uma rádio comunitária, o Po-
+    der Público deverá fazer o credenciamento de todas que satisfaçam
+    as condições fixadas em lei, garantindo igualdade de condições às
+    interessadas.
+    5. A rádio comunitária não pode ser considerada como órgão de im-
+    prensa oficial a dar validade aos atos da Administração.
+    6. Deverá a entidade recebedora prestar contas dos recursos recebi-
+    dos ao órgão concedente, que manterá os documentos arquivados e
+    disponíveis para eventual fiscalização pelo Tribunal de Contas do Es-
+    tado de Mato Grosso e demais instituições de controle.
+    
+    Resolução de Consulta 45/2010 (DOE, 10/06/2010). Despesa. Sub-
+    venção. Ano eleitoral. Programa de distribuição gratuita de bens,
+    valores ou benefícios, sem que tenha havido execução orçamentá-
+    ria no exercício anterior. Impossibilidade. Implantação e execução
+    de programa social em exercício subsequente ao período eleitoral.
+    Possibilidade, desde que não ocorra potencial desequilíbrio da dis-
+    puta eleitoral.110
+    1. Nos termos do art. 73, § 10, da Lei 9.504/1997 (Lei das Eleições), é
+    vedada a implementação e execução, durante todo o ano eleitoral, de
+    programa social de distribuição gratuita de bens, valores ou benefí-
+    cios, salvo se autorizado em lei e se já em execução orçamentária no
+    exercício anterior ao ano eleitoral.
+    2. Não há vedação para realização de atos de gestão de natureza ad-
+    ministrativa visando à implementação e execução de programa de
+    distribuição de bens, valores ou benefícios no exercício subsequente
+    ao período eleitoral, podendo realizar gastos necessários a esse fim,
+    desde que haja autorização orçamentária para tanto. Em todo caso,
+    
+    110 A título de revisão, as teses estão em avaliação para verificar compatibilidade com o ordenamento jurídico vigente.
+    
+    
+    
+                                                                   151
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

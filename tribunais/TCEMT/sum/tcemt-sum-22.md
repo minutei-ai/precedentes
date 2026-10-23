@@ -739,4 +739,174 @@ Não houve OCR nem reconstrução de páginas rasterizadas. As páginas sem text
 
 A “compatibilidade de horários”, para efeito de acumulação lícita de cargospúblicos nos termos constitucionais, caracteriza-se quando não hásobreposição de jornadas de trabalho e os horários conciliáveis nãoprejudiquem a qualidade e regular prestação do serviço público, nem adignidade humana do agente público, independentemente da soma dascargas horárias semanais, cabendo à Administração o controle internoefetivo.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    SÚMULA Nº 22 (DOC, 08/03/2024).
+
+### Entrada temática 2
+
+    SÚMULA Nº 22
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 36
+
+    SÚMULA Nº 22
+    
+    A “compatibilidade de horários”, para efeito de acumulação lícita de
+    cargos públicos nos termos constitucionais, caracteriza-se quando
+    não há sobreposição de jornadas de trabalho e os horários conciliá-
+    veis não prejudiquem a qualidade e regular prestação do serviço pú-
+    blico, nem a dignidade humana do agente público, independentemen-
+    te da soma das cargas horárias semanais, cabendo à Administração o
+    controle interno efetivo.
+    
+    Publicação: DOC, 08/03/2024.
+    Fundamentação Legal:
+    - CF/1988: art. 37, XVI; art. 38, III.
+    Precedentes no TCE-MT:
+    Resolução de Consulta nº 43/2011 (DOE, 25/07/2011). Processo nº
+    8.422-0/2011. Consulta. Relator: Conselheiro Substituto Luiz Henrique
+    Lima.
+    Acórdão Nº 855/2015-TP (DOC, 27/03/2015). Processo nº 28.397-
+    5/2013. Representação de Natureza Externa. Relator: Conselheiro
+    Antonio Joaquim.
+    Acórdão nº 320/2015-PC (DOC, 21/01/2016). Processo nº 7.533-7/2015.
+    Representação de Natureza Interna. Relator: Conselheiro Antonio
+    Joaquim.
+    Resolução de Consulta nº 54/2011 (DOE, 29/08/2011). Processo nº
+    12.669-1/2011. Consulta. Relator: Conselheiro Antonio Joaquim.
+    Acórdão nº 227/2016-TP (DOC, 02/05/2016). Processo nº 9.485-4/2015.
+    Representação de Natureza Interna. Relator: Conselheiro José Carlos
+    Novelli.
+    Acórdão n° 3.496/2015-TP (DOC, 10/11/2015). Processo n° 9.470-6/2015.
+    Representação de Natureza Interna. Relator: Conselheiro Antonio
+    Joaquim.
+    Acórdão n° 32/2015-PC (DOC, 06/04/2016). Processo n° 6.827-6/2015.
+    Representação de Natureza Interna. Relator: Auditor Substituto de
+    Conselheiro Luiz Carlos Pereira.
+    
+    
+    
+    
+                                     36
+
+### Contexto na compilação — página 327
+
+    ACUMULAÇÃO DE CARGOS, EMPREGOS E FUNÇÕES: SERVIDORES
+    
+    SÚMULA Nº 22 (DOC, 08/03/2024).
+    A “compatibilidade de horários”, para efeito de acumulação lícita de
+    cargos públicos nos termos constitucionais, caracteriza-se quando
+    não há sobreposição de jornadas de trabalho e os horários conciliá-
+    veis não prejudiquem a qualidade e regular prestação do serviço pú-
+    blico, nem a dignidade humana do agente público, independentemen-
+    te da soma das cargas horárias semanais, cabendo à Administração o
+    controle interno efetivo.
+    
+    Resolução de Consulta 43/2011 (DOE, 07/07/2011). Pessoal. Acumu-
+    lação de cargos públicos. Limitação da carga horária semanal. Im-
+    possibilidade. Requisito não previsto na CRFB. Regime de dedicação
+    exclusiva. Comprovante da compatibilidade entre os horários de tra-
+    balho. Possibilidade. Hora-Atividade docente. Inclusão no limite da
+    jornada de trabalho.416
+    1. A acumulação de cargos é a possibilidade de dois vínculos jurí-
+    dicos do servidor perante o Poder Público, em horários que sejam
+    compatíveis.
+    2. Entende-se por “compatíveis”, os horários conciliáveis, ou seja,
+    aqueles que não prejudiquem a qualidade e a regular prestação do ne-
+    cessário serviço público desempenhado pelo servidor, nem a dignida-
+    de humana do próprio servidor, cabendo à Administração o controle
+    do somatório da carga de jornada de trabalho de forma efetiva, real e
+    objetiva.
+    3. A Constituição Federal não estabelece qualquer limitação quanto
+    à carga horária a ser cumprida por servidor, na hipótese de acumu-
+    lação lícita de cargos públicos, vedando, apenas, a superposição de
+    horários.
+    4. Para os casos em que a lei exija dedicação exclusiva, é possível a
+    acumulação com outro cargo ou emprego, nos casos previstos nas
+    alíneas do inciso XVI do art. 37 da Constituição Federal, desde que a
+    atividade desempenhada seja diversa da de seu cargo ou de sua fun-
+    416 O item que tratava sobre “conhecimentos técnicos ou científicos” para fins de acumulação de cargos prevista no art. 37, XVI, da
+    Constituição Federal foi revogado pela Resolução de Consulta 7/2021. As teses dos itens 1 a 3 são compatíveis com a Súmula n° 22 do
+    TCE/MT.
+    
+    
+    
+                                                                  327
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

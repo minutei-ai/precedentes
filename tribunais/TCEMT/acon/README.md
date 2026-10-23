@@ -1,8 +1,9 @@
 # TCEMT · Acórdão em consulta (consolidação oficial)
 
-**216 registros.** [Voltar ao tribunal](../)
+**226 registros.** [Voltar ao tribunal](../)
 
 - [ACON 100/2006](tcemt-ac-con-100-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 1002/2007](tcemt-ac-con-1002-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1004/2007](tcemt-ac-con-1004-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1005/2007](tcemt-ac-con-1005-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1009/2003](tcemt-ac-con-1009-2003.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
@@ -61,9 +62,11 @@
 - [ACON 1716/2003](tcemt-ac-con-1716-2003.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1729/2007](tcemt-ac-con-1729-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1739/2005](tcemt-ac-con-1739-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 1741/2005](tcemt-ac-con-1741-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1742/2005](tcemt-ac-con-1742-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1743/2005](tcemt-ac-con-1743-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1744/2005](tcemt-ac-con-1744-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 1761/2006](tcemt-ac-con-1761-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1763/2006](tcemt-ac-con-1763-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1771/2001](tcemt-ac-con-1771-2001.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1773/2001](tcemt-ac-con-1773-2001.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
@@ -77,6 +80,7 @@
 - [ACON 1810/2006](tcemt-ac-con-1810-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1819/2002](tcemt-ac-con-1819-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1828/2005](tcemt-ac-con-1828-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 1837/2002](tcemt-ac-con-1837-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1838/2002](tcemt-ac-con-1838-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 185/2005](tcemt-ac-con-185-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 1943/2007](tcemt-ac-con-1943-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
@@ -85,6 +89,7 @@
 - [ACON 2056/2007](tcemt-ac-con-2056-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 207/2022](tcemt-ac-con-207-2022.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 21/2005](tcemt-ac-con-21-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 2101/2005](tcemt-ac-con-2101-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2107/2005](tcemt-ac-con-2107-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2181/2007](tcemt-ac-con-2181-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2182/2007](tcemt-ac-con-2182-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
@@ -94,6 +99,7 @@
 - [ACON 223/2002](tcemt-ac-con-223-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2289/2002](tcemt-ac-con-2289-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2292/2002](tcemt-ac-con-2292-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 2293/2002](tcemt-ac-con-2293-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2337/2006](tcemt-ac-con-2337-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2370/2002](tcemt-ac-con-2370-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2375/2007](tcemt-ac-con-2375-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
@@ -102,6 +108,7 @@
 - [ACON 24/2005](tcemt-ac-con-24-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2441/2007](tcemt-ac-con-2441-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 25/2005](tcemt-ac-con-25-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 254/2007](tcemt-ac-con-254-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2545/2007](tcemt-ac-con-2545-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 257/2007](tcemt-ac-con-257-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2577/2006](tcemt-ac-con-2577-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
@@ -122,6 +129,7 @@
 - [ACON 296/2007](tcemt-ac-con-296-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 297/2002](tcemt-ac-con-297-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 2986/2006](tcemt-ac-con-2986-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 2987/2006](tcemt-ac-con-2987-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 299/2007](tcemt-ac-con-299-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 30/2004](tcemt-ac-con-30-2004.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 3145/2006](tcemt-ac-con-3145-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
@@ -212,9 +220,11 @@
 - [ACON 946/2004](tcemt-ac-con-946-2004.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 96/2005](tcemt-ac-con-96-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 960/2007](tcemt-ac-con-960-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 961/2007](tcemt-ac-con-961-2007.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 963/2002](tcemt-ac-con-963-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 964/2006](tcemt-ac-con-964-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 965/2002](tcemt-ac-con-965-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 968/2002](tcemt-ac-con-968-2002.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 976/2005](tcemt-ac-con-976-2005.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+- [ACON 983/2001](tcemt-ac-con-983-2001.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
 - [ACON 987/2006](tcemt-ac-con-987-2006.md) — Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.

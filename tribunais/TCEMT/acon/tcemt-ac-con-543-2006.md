@@ -18,6 +18,11 @@ Identificação literal nas entradas da compilação:
 
     Acórdão 543/2006 (DOE, 12/04/2006).
 
+### Entrada temática 2
+
+    Resolução de Consulta 36/2010 (DOE, 20/05/2010) e Acórdão
+    543/2006 (DOE, 12/04/2006).
+
 Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
 
 As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
@@ -167,5 +172,47 @@ As páginas de contexto abaixo preservam o texto extraível, inclusive notas de 
     
     
                                       70
+
+### Contexto na compilação — página 71
+
+    Resolução de Consulta 36/2010 (DOE, 20/05/2010) e Acórdão
+    543/2006 (DOE, 12/04/2006). Câmara Municipal. Despesa. Limite.
+    Gasto Total. Base de cálculo. Não-inclusão da receita proveniente da
+    Contribuição para o Custeio do Serviço de Iluminação Pública – CO-
+    SIP. Receita de contribuição.
+    1. A Contribuição para o Custeio do Serviço de Iluminação Pública –
+    COSIP tem natureza tributária, porém não se confunde com as espé-
+    cies tradicionais de tributo (imposto, taxa e contribuição de melhoria),
+    enquadrando-se como espécie do gênero “contribuições”.
+    2. Esta receita não compõe a base de cálculo do repasse financeiro ao
+    Poder Legislativo municipal, pois trata-se de contribuição vinculada à
+    finalidade certa e que não se enquadra no conceito de receita tributá-
+    ria definido pela legislação financeira, orçamentária e de contabilida-
+    de pública vigentes.
+    
+    Resolução de Consulta 7/2013 (DOC, 07/05/2013). Câmara Municipal.
+    Despesa. Limite. Gasto total. Base de cálculo. Inclusão das Taxas.
+    Não-inclusão de preços públicos e da COSIP.
+    1. A Contribuição para o Custeio do Serviço de Iluminação Pública –
+    COSIP não compõe a base de cálculo do repasse financeiro ao Poder
+    Legislativo municipal, pois trata-se de contribuição vinculada à fina-
+    lidade certa e que não se enquadra no conceito de receita tributária
+    definido pela legislação financeira, orçamentária e de contabilidade
+    pública vigentes.
+    2. As taxas instituídas em razão do exercício do poder de polícia ou
+    pela utilização, efetiva ou potencial, de serviços públicos compulsó-
+    rios, por constituírem espécie do gênero “tributo”, nos termos da le-
+    gislação tributária e financeira vigentes, compõem a base de cálculo
+    do repasse financeiro ao Poder Legislativo municipal.
+    3. As receitas decorrentes de preços públicos incidentes sobre a
+    prestação de serviços públicos não compulsórios, a exemplo da re-
+    ceita proveniente de serviços de fornecimento de água e esgoto, não
+    integram a base de cálculo do repasse financeiro ao Poder Legislativo
+    municipal por não possuírem natureza de receita tributária, mas de
+    
+    
+    
+    
+                                      71
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

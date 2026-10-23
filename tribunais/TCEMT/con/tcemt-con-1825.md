@@ -153,4 +153,191 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 9/2016 – TP (DOC, 20/04/2016).
+
+### Entrada temática 2
+
+    Resolução de Consulta 9/2016 – TP (DOC, 20/04/2016).
+
+### Entrada temática 3
+
+    Resolução de Consulta 9/2016 – TP (DOC, 20/04/2016).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 220
+
+    Resolução de Consulta 9/2016 – TP (DOC, 20/04/2016). Licitações.
+    Sistema de Registro de Preços - SRP. Ausência total de quantitativo.
+    Impossibilidade.
+    É obrigatório, no momento da elaboração do termo de referência, es-
+    timar as quantidades mínimas e máximas a serem licitadas, ainda que
+    incerta a quantidade de bens a serem demandados durante a execu-
+    ção contratual decorrente do SRP, em respeito aos artigos 7°, § 4°, e
+    40, § 2°, II, da Lei 8.666/1993222.
+    
+    Resolução de Consulta 9/2016 – TP (DOC, 20/04/2016). Licitação. Re-
+    gistro de preços. Peças automotivas. Formação de preços de refe-
+    rência nas aquisições públicas.
+    Na ausência de sistema eletrônico equivalente à tabela do fabricante,
+    é recomendável que a Administração amplie ao máximo a pesquisa de
+    preços, e, se necessário, altere a modalidade da licitação para ampliar
+    a concorrência e obter maiores vantagens.223
+    
+    Resolução de Consulta 22/2012 (DOE, 29/11/2012). Licitação. Regis-
+    tro de Preços. Ata de Registro de Preços. Substituição de instrumen-
+    to de contrato. Prorrogações além do permissivo legal. Acréscimos
+    e supressões de quantitativos registrados. Impossibilidades.
+    1. A Ata de Registro de Preços e o Instrumento de Contrato, embora
+    dotados de conteúdo vinculativo e obrigacional, são documentos que
+    possuem naturezas e finalidades distintas, regulando relações jurídi-
+    cas específicas, razão pela qual um não pode substituir o outro.
+    2. Os instrumentos contratuais poderão ser substituídos por outros
+    documentos hábeis, desde que observados os ditames do art. 62, e
+    parágrafos, da Lei 8.666/1993.224
+    
+    222 A estimativa das quantidades a serem licitadas tem referencial na Lei 14.133/2021: a) o termo de referência, documento necessá-
+    rio para a contratação de bens e serviços, deve conter os quantitativos (art. 6°, XXIII) e o projeto básico, contendo orçamento detalha-
+    do do custo global da obra, fundamentado em quantitativos de serviços e fornecimentos (art. 6°, XXV); b) o estudo técnico preliminar
+    na fase preparatória do processo licitatório deve conter as estimativas das quantidades para a contratação (art. 18, § 1°, IV); c) o valor
+    previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços cons-
+    tantes de bancos de dados públicos e as quantidades a serem contratadas (art. 23, caput); d) o orçamento estimado, ainda que com
+    caráter sigiloso, desde que não haja prejuízo à divulgação do detalhamento dos quantitativos (art. 24, caput); e) o planejamento de
+    compras deve considerar a expectativa de consumo anual e observar a determinação de unidades e quantidades a serem adquiridas
+    em função de consumo e utilização prováveis, cuja estimativa será obtida, sempre que possível, mediante adequadas técnicas quan-
+    titativas (art. 40, III).
+    223 A maior amplitude na pesquisa de preços está prevista na Resolução de Consulta 20/2016. A tese, aplicada no âmbito da Lei
+    8.666/1993, está em avaliação para verificar compatibilidade com a Lei 14.133/2021.
+    224 A Lei 14.133/2021 reafirmou a possibilidade de substituir o contrato por outros instrumentos hábeis, como carta-contrato, nota
+    de empenho de despesa, autorização de compra ou ordem de execução de serviço, nas hipóteses de dispensa de licitação em razão
+    de valor e de compras com entrega imediata e integral dos bens adquiridos (art. 95, I e II).
+    
+    
+    
+                                                                     220
+
+### Contexto na compilação — página 241
+
+    serviços254 de transporte fluvial contratados pela Administração me-
+    diante inexigibilidade de licitação, desde que atendidos os seguintes
+    requisitos:
+    a) demonstração de que a antecipação de recursos atende ao interes-
+    se público;
+    b) comprovação de que a prestação dos serviços não poderia ser obti-
+    da sem o adiantamento financeiro, mediante demonstração de que a
+    antecipação é uma exigência da prática reiterada do negócio do pres-
+    tador exclusivo;
+    c) inserção de cláusula no instrumento contratual que obrigue o con-
+    tratado a devolver o valor antecipado, devidamente atualizado, caso
+    não execute o objeto, sem prejuízo de multa e demais sanções previs-
+    tas na Lei 8.666/1993;
+    d) prestação, pelo contratado, de garantias adicionais efetivas, idône-
+    as e suficientes para cobrir o valor antecipado, em uma das modalida-
+    des previstas no § 1°, do art. 56, da Lei 8.666/1993, na forma prevista
+    no contrato; e,
+    e) previsão, em cláusula contratual, da compensação do valor anteci-
+    pado, atualizado, com os créditos auferidos pela contratada na execu-
+    ção do ajuste.
+    
+    Resolução de Consulta 9/2016 – TP (DOC, 20/04/2016). Licitação. Ine-
+    xigibilidade de licitação. Fornecedor exclusivo. Verificação do requi-
+    sito autorizador da contratação direta.
+    A verificação da exclusividade do fornecedor, para efeito de aquisi-
+    ção por meio de inexigibilidade de licitação prevista no inciso I, do art.
+    25, da Lei 8.666/1993, deve ser realizada no respectivo processo de
+    inexigibilidade e no momento de eventual termo aditivo de prazo do
+    respectivo contrato, quando cabível.255
+    
+    
+    254 A Lei 14.133/2021 trata sobre a temática, estabelecendo no art. 145 que a regra é a não permissão do “pagamento antecipado, par-
+    cial ou total, relativo a parcelas contratuais vinculadas ao fornecimento de bens, à execução de obras ou à prestação de serviços”, e a
+    permissão excepcional da antecipação de pagamento sob as seguintes condições: a) se a contratação configurar sensível economia
+    de recursos ou condição indispensável para a obtenção do bem ou para a prestação do serviço, com justificativa prévia no processo
+    licitatório e previsão expressa no edital de licitação ou no instrumento formal de contratação direta; b) possibilidade de a Adminis-
+    tração exigir a prestação de garantia adicional como condição para o pagamento antecipado; c) necessidade de devolução do valor
+    antecipado caso o objeto não seja executado no prazo contratual.
+    255 Na Lei 14.133/2021, a exclusividade do fornecedor para efeito de aquisição por inexigibilidade de licitação, a ser demonstrada por
+    atestado de exclusividade, contrato de exclusividade, declaração do fabricante ou documento similar idôneo, tem previsão no art.
+    74, inciso I, § 1°.
+    
+    
+    
+                                                                    241
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

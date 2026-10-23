@@ -212,4 +212,155 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 26/2010 (DOE, 07/05/2010).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 216
+
+    ou em estado de calamidade pública, desde que observada a regra do
+    art. 93 da Lei 14.133/2021, e mediante termo específico.
+    
+    Resolução de Consulta 26/2010 (DOE, 07/05/2010). Licitação. Obras.
+    Realização de mais de um procedimento licitatório e celebração de
+    mais de um contrato para mesma obra. Possibilidade. Obrigação de
+    informar no sistema Geo-Obras.
+    1. A Administração Pública pode realizar mais de um procedimento li-
+    citatório e mais de um contrato para mesma obra, com vistas à obten-
+    ção das propostas mais vantajosas, conforme dispõe a Lei 8.666/1993,
+    nos parágrafos 1° e 2°, do artigo 23, preservando, portanto, a modali-
+    dade pertinente para a execução do objeto em licitação.216
+    2. O sistema Geo-Obras possibilita os lançamentos de cada uma das
+    etapas, devendo ser lançado, para cada parcela, o edital, o contrato e
+    as informações referentes à situação das obras e serviços de enge-
+    nharia – início, medições, paralisações, reinícios e recebimentos, nos
+    termos do art. 3º, da Resolução Normativa 6/2008 TCE-MT217.
+    
+    
+    
+    
+    216 A Lei 14.133/2021 reafirmou a possibilidade de parcelamento de uma mesma obra, ao indicar que: a) o regime de execução de obras
+    e serviços de engenharia deve observar os potenciais de economia de escala e o estudo técnico preliminar deve conter justificativas
+    quanto à possibilidade de parcelar ou não a contratação (art. 18, inciso VII); b) o princípio do parcelamento deve ser atendido quando
+    for tecnicamente viável e economicamente vantajoso (art. 40, inciso V).
+    217 A Resolução Normativa 6/2008 foi atualizada pelas Resoluções Normativas 6/2011 e 20/2015 e recepcionada pela Resolução Nor-
+    mativa 14/2021, que aprovou a nova estrutura do Sistema Geo-Obras do TCE/MT.
+    
+    
+    
+                                                                   216
+
+### Contexto na compilação — página 217
+
+    VEDAÇÃO À PARTICIPAÇÃO EM LICITAÇÃO OU CONTRATAÇÃO
+    PÚBLICA
+    
+    Resolução de Consulta 15/2022 – PP (DOC, 29/09/2022). Licita-
+    ção. Contratos. Vedação do § 1º, do art. 9º, da Lei 14.133/2021.
+    Excepcionalidades.
+    1. A disposição legal do § 1°, do art. 9°, da Lei 14.133/2021 veda ao agen-
+    te público de órgão ou entidade licitante ou contratante, participação,
+    direta ou indireta, em licitação ou execução de contrato. Tal regra ad-
+    mite exceções quando inviável a competição, em caso de contratação
+    direta por inexigibilidade, bem como quando o contrato for regido por
+    cláusulas uniformes.
+    2. O consórcio público observará as normas de Direito Público no que
+    concerne à realização de licitação e celebração de contratos (art. 6°,
+    § 2°, Lei 11.107/2005), sendo-lhes aplicável, portanto, a vedação do §
+    1°, do art. 9°, da Lei 14.133/2021, e na mesma medida as exceções da
+    contratação direta por inexigibilidade e quando os contratos públicos
+    são regidos por cláusulas uniformes.
+    3. Se a condição de agente público for superveniente à licitação ou
+    contratação, a renovação do contrato deverá observar a vedação de
+    participação aos agentes públicos do órgão ou entidade licitante, res-
+    salvados os casos de contratação direta por inexigibilidade ou quando
+    o contrato for regido por cláusulas uniformes.
+    4. A circunstância de o objeto da licitação e do contrato versar sobre
+    direitos fundamentais, como a prestação de serviços de saúde, não
+    afasta por si só a vedação de participação de agentes públicos do ór-
+    gão ou entidade licitante, admitindo-se seja esta proibição excepcio-
+    nada quando inviável a competição ou o contrato for regido por cláu-
+    sulas uniformes.
+    
+    
+    
+    
+                                       217
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -557,4 +557,269 @@ Inventário visual: 2 imagens nesta página; consulte o PDF para os elementos gr
 
 -   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 33/2013 (DOC, 17/12/2013).
+
+### Entrada temática 2
+
+    Resolução de Consulta 33/2013 (DOC, 17/12/2013).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 263
+
+    CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS E
+    TERCEIRIZAÇÃO
+    
+    Resolução de Consulta 16/2013 (DOC, 13/08/2013). Licitação. Contra-
+    to. Prestação de serviços. Subsidiariedade trabalhista do Poder Pú-
+    blico contratante. Precauções.
+    O Poder Público, na qualidade de contratante de serviços que possam,
+    eventualmente, configurar a caracterização de relação de emprego
+    entre o obreiro e a Administração, deve adotar todos os cuidados e
+    precauções necessárias para evitar a aplicação da subsidiariedade
+    trabalhista prevista no inciso V, da Súmula 331, do TST304 c/c ADC n°
+    16/DF do STF.305
+    
+    Resolução de Consulta 33/2013 (DOC, 17/12/2013). Licitação. Contra-
+    tação de prestação de serviços. Serviços técnicos especializados
+    compreendidos em atribuições inerentes a categorias funcionais do
+    quadro de pessoal efetivo. Hipóteses e requisitos.
+    1. É permitida a contratação de serviços técnico-profissionais espe-
+    cializados pela Administração Pública, independentemente de esta-
+    rem compreendidos em atribuições inerentes a categorias funcionais
+    do quadro de pessoal efetivo, nas seguintes hipóteses:
+    a)quando o contingente de servidores existentes for insuficiente para
+    o atendimento de uma sobrecarga sazonal e transitória na demanda
+    por determinado serviço técnico;
+    b)quando o corpo de servidores não for suficientemente especializa-
+    do para satisfazer demandas por serviços singulares e complexos; ou,
+    c)no caso de serviços jurídicos, quando houver conflito de interesses
+    da instituição e dos servidores que poderiam vir a defendê-la.
+    2. Além da observância às hipóteses descritas no item anterior, a pos-
+    sibilidade de contratação de serviços técnicos especializados deve
+    respeitar os seguintes requisitos:
+    304 Conforme TST, os entes da administração pública, em caso de conduta culposa no cumprimento de obrigações da Lei de Lici-
+    tações, especialmente na fiscalização de execução contratual, respondem subsidiariamente pelo inadimplemento de obrigações
+    trabalhistas por parte da empregadora prestadora de serviço.
+    305 A Nova Lei de Licitações e Contratos (Lei 14.133/2021) trata sobre a temática, prevendo que somente o contratado será respon-
+    sável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato, de forma que a inadim-
+    plência do contratado em relação a esses encargos não transfere à Administração a responsabilidade pelo seu pagamento, e não
+    poderá onerar o objeto contratual do contrato nem restringir a regularização e o uso das obras e das edificações, inclusive perante
+    o registro de imóveis, ressalvadas as contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, em
+    que a Administração responderá solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos trabalhistas se
+    comprovada falha na fiscalização do cumprimento das obrigações do contratado (art. 121, §§ 1° e 2°).
+    
+    
+    
+                                                                  263
+
+### Contexto na compilação — página 264
+
+    a) possuir objeto específico e especializado;
+    b) a necessidade do serviço deve ser eventual ou não permanente;
+    c) os serviços a serem contratados não podem se constituir em ativi-
+    dades típicas e exclusivas de Estado, a exemplo daquelas que impli-
+    quem na limitação do exercício dos direitos individuais em benefício
+    do interesse público, no exercício do poder de polícia, ou na manifes-
+    tação da vontade do Estado pela emanação de atos administrativos; e
+    d) observância às regras de licitação e contratos administrativos es-
+    tampadas na Lei 8.666/1993306.
+    3. O descumprimento destas hipóteses e requisitos para a contrata-
+    ção de serviços técnico profissionais especializados, compreendidos
+    em atribuições inerentes a categorias funcionais do quadro de pesso-
+    al efetivo, configura burla ao princípio do concurso público, caracteri-
+    zando também a substituição indevida de servidores públicos, o que
+    faz incluir o respectivo gasto no cômputo das despesas com pesso-
+    al, conforme estabelece o § 1°, do art. 18, da Lei de Responsabilidade
+    Fiscal.
+    
+    Acórdão 700/2003 (DOE, 15/05/2003). Contrato. Prestação de servi-
+    ços. Irregularidades na formalização do contrato e ausência de em-
+    penho. Obrigatoriedade de pagamento de despesa legítima.
+    A Administração não poderá deixar de pagar despesas relativas a
+    contratos de prestadores de serviços em que não haja assinatura do
+    gestor, nem aquelas que não foram devidamente empenhadas. Uma
+    vez comprovada a legitimidade das despesas e que as contratações
+    atenderam ao interesse público, o credor deverá ser pago, evitando-
+    -se, assim, o enriquecimento ilícito da Administração, já que a presta-
+    ção do serviço não pode ser restituída.307 Da mesma forma, deverão
+    ser honrados aqueles compromissos cujas despesas não tiveram sua
+    provisão orçamentária garantida no exercício anterior, podendo ser
+    empenhadas em “Despesas de Exercícios Anteriores”.308
+    
+    306 A partir de 30/12/2023, com a revogação da Lei 8.666/1993, deve-se observar as regras de licitação e contratos dispostas na Lei
+    14.133/2021.
+    307 A implicação em enriquecimento ilícito da administração pelo não pagamento de créditos devidos a contratados tem correspon-
+    dência em tese específica da Resolução de Consulta 6/2015 do TCE/MT.
+    308 O pagamento de despesas por empenho em “Despesas de Exercícios Anteriores” tem fundamento na Lei 4.320/1964, em que se
+    estabelece a possibilidade de se pagar as despesas não processadas de exercícios encerrados, para as quais o orçamento respec-
+    tivo consignava crédito próprio, por meio de dotação específica consignada no orçamento, discriminada por elementos, obedecida,
+    sempre que possível, a ordem cronológica (art. 37).
+    
+    
+    
+                                                                 264
+
+### Contexto na compilação — página 295
+
+    PESSOAL
+    
+    
+    ADMISSÃO DE PESSOAL: DISPOSIÇÕES GERAIS
+    
+    Resolução de Consulta 33/2013 (DOC, 17/12/2013). Pessoal. Admis-
+    são. Formas de ingresso no serviço público.
+    1. Em regra, a investidura em cargos com atribuições típicas, perma-
+    nentes e finalística da Administração Pública ocorre por meio de ad-
+    missão em concurso público, nos termos do inciso II, do artigo 37, da
+    CF/1988.
+    2. Como formas excepcionais de ingresso no serviço público, previs-
+    tas pela Constituição, estão os provimentos de cargos em comissão
+    (incisos II e V, do art. 37) e o preenchimento de funções por tempo de-
+    terminado para atender necessidades temporárias de excepcional in-
+    teresse público (inciso IX, do art. 37).
+    3. A criação de cargos em comissão pressupõe a existência de vínculo
+    de confiança e ad nutum, destinando-se exclusivamente ao exercício
+    das atribuições de direção, chefia e assessoramento.
+    4. A possibilidade de criação de cargos em comissão não é aferida
+    pela denominação que se lhe dá (assessor, chefe de departamento,
+    diretor etc.), mas sim pela natureza de suas atribuições.
+    5. É necessário que a legislação descreva as atribuições dos cargos
+    em comissão, demonstrando que as atividades se harmonizam com
+    o princípio da livre nomeação e exoneração e com a necessidade da
+    confiança da autoridade nomeante, sendo imperioso que o profissio-
+    nal exerça efetiva e estritamente as atribuições descritas na lei.
+    6. Não é permitida a criação de cargos em comissão para o de-
+    sempenho de atividades meramente burocráticas, ordinárias ou
+    operacionais.
+    
+    
+    
+    
+                                     295
+
+### Contexto na compilação — página 296
+
+    ADMISSÃO DE PESSOAL: CONCURSO PÚBLICO
+    
+    Acórdão 259/2007 (DOE, 22/02/2007). Pessoal. Admissão. Concurso
+    público. Cargos da câmara e da prefeitura municipal. Procedimento
+    único.
+    É possível a realização de um único concurso público para preenchi-
+    mento de cargos da câmara e da prefeitura municipal. Devem estar
+    dispostos no edital, de forma clara, as vagas e os cargos referentes a
+    cada Poder.371
+    
+    Resolução de Consulta 6/2007 (DOE, 06/11/2007). Pessoal. Admis-
+    são. Concurso público. Aproveitamento de candidatos de concurso
+    realizado por outro órgão público. Requisitos.372
+    É possível o aproveitamento de candidatos aprovados e/ou classifica-
+    dos em concurso realizado por outro órgão público, desde que: a) os
+    cargos a serem providos sejam do mesmo Poder e tenham a mesma
+    denominação, descrição, atribuições, competências, direitos e de-
+    veres; b) os requisitos de habilitação acadêmica e profissional para o
+    cargo sejam idênticos; c) seja observada a ordem de classificação no
+    concurso; e d) haja previsão, no edital do certame, da possibilidade de
+    aproveitamento de candidatos por outros órgãos que não o realizador
+    do concurso.
+    
+    Resolução de Consulta 20/2025 – PP (DOC, 23/10/2025). Pessoal. Ad-
+    missão. Concurso público. Candidato com idade igual ou superior à
+    prevista para aposentadoria compulsória.
+    A Administração Pública não pode nomear candidato aprovado em
+    concurso público cuja idade seja igual ou superior àquela prevista na
+    Constituição da República e na legislação vigente para aposentadoria
+    compulsória.373
+    
+    
+    371 A possibilidade de Concurso Unificado no âmbito municipal tem referencial normativo na União, conforme Decreto 12.090/2024,
+    que dispõe sobre o “Concurso Público Nacional Unificado e institui seus órgãos de governança”.
+    372 Há precedentes compatíveis no STF e TCU.
+    373 A Lei Complementar Federal 152/2015 estabelece que os servidores titulares de cargos efetivos dos entes federativos, incluídas
+    suas autarquias e fundações, devem ser aposentados compulsoriamente, com proventos proporcionais ao tempo de contribuição,
+    aos 75 anos de idade (art. 2º, I), conferindo concretude à parte final do inciso II, do § 1°, do art. 40, da CF/1988, que tem redação dada
+    pela Emenda Constitucional 88/2015. Assim, o candidato que já atingiu a idade de aposentadoria compulsória, ainda que aprovado em
+    concurso público, não pode ser nomeado para cargo efetivo, por inexistir compatibilidade entre o ato de provimento e a imposição
+    normativa de desligamento automático do serviço público aos 75 anos.
+    
+    
+    
+                                                                     296
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

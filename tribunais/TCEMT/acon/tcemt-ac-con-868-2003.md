@@ -31,6 +31,13 @@ Identificação literal nas entradas da compilação:
 
 ### Entrada temática 4
 
+    Resolução de Consulta 40/2010 (DOE, 08/06/2010) e Acórdãos
+    2.107/2005 (DOE, 24/01/2006), 942/2003 (DOE, 05/08/2003),
+    903/2003 (DOE, 16/06/2003), 901/2003 (DOE, 16/06/2003) e 868/2003
+    (DOE, 16/06/2003).
+
+### Entrada temática 5
+
     Acórdãos 868/2003 (DOE, 16/06/2003), 968/2002 (DOE, 20/06/2002)
     e 1.277/2001 (DOE, 21/09/2001).
 

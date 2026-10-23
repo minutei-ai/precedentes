@@ -329,4 +329,179 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 1/2010 (DOE, 04/02/2010).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 529
+
+    as ações da Agência não se revestem de “singularidade”. Respeitadas
+    as especializações requeridas, esses serviços podem ser prestados
+    por empresas ou profissionais do ramo, mediante prévia licitação, em
+    situações temporárias bem definidas, por tempo e preço certos, haja
+    vista a AGER-MT ter sido criada para fim específico e dotada de meios
+    para desempenhar, permanentemente, tal múnus, bastando, em tese,
+    que sejam preenchidos seus cargos mediante concurso público.
+    
+    Resolução de Consulta 9/2017 – TP (DOC, 16/05/2017). Licitação. As-
+    sociação privada sem fins econômicos. CDCEs. Não integram a Ad-
+    ministração Pública. Aplicação da Lei de Licitações.
+    1. Os Conselhos Deliberativos da Comunidade Escolar – CDCEs, as-
+    sociações civis sem fins econômicos, previstos na Lei Estadual
+    7.040/1998847, e atuantes nas unidades escolares estaduais, apesar
+    de exercerem exclusivamente competências de natureza consultiva e
+    deliberativa, de caráter público, inclusive financeiro e administrativo,
+    não pertencem à Administração Pública Estadual.
+    2. Sempre que a unidade escolar estadual, por meio de seu CDCE, apli-
+    car recursos públicos estaduais na aquisição de bens e contratação
+    de serviços, deve observar, no que couber, a Lei 8.666/1993, especial-
+    mente quanto à seleção da proposta mais vantajosa e à isonomia en-
+    tre os participantes, garantindo o cumprimento dos princípios cons-
+    titucionais aplicáveis às contratações públicas, como a legalidade,
+    impessoalidade, publicidade, moralidade e eficiência, não sendo su-
+    ficiente a simples “cotação de preços”.848
+    
+    10. Convênios e instrumentos similares:
+    
+    Resolução de Consulta 1/2010 (DOE, 04/02/2010). Convênio. Repasse
+    de recursos financeiros ou doação de bem imóvel a título de contra-
+    partida. Construção de aterro sanitário. Possibilidades.
+    1. O Estado de Mato Grosso pode repassar recursos financeiros ou
+    847 A Lei 7.040/1998 foi revogada pela Lei Estadual 12.412/2024, que dispõe sobre o Conselho Deliberativo da Comunidade Escolar –
+    CDCE, como associação civil, com personalidade jurídica de direito privado, sem fins lucrativos, organismo deliberativo, consultivo,
+    fiscalizador e mobilizador, constituída pelos membros da comunidade escolar, em seus respectivos segmentos (art. 15, caput).
+    848 Conforme Lei Estadual 12.412/2024, os procedimentos necessários à aquisição de bens e contratação de serviços com os re-
+    cursos disponibilizados aos Conselhos Deliberativos da Comunidade Escolar - CDCE, incluindo as despesas de pequeno valor, as
+    licitações e os contratos, devem ser norteados pela legislação vigente (art. 11). Pela vigente Lei de Licitações (Lei 14.133/2021), que
+    revogou a Lei 8.666/1993, a cotação de preços é apenas um dos parâmetros, a ser adotado, ou não, de forma combinada com outros,
+    para definir o valor estimado na aquisição de bens e contratação de serviços em geral (art. 23, § 1°, IV).
+    
+    
+    
+                                                                   529
+
+### Contexto na compilação — página 530
+
+    doar bem imóvel ao Município ou Consórcios de Desenvolvimento Eco-
+    nômico e Social formados pelos municípios mato-grossenses, face ao
+    instrumento de convênio firmado entre os referidos partícipes, com a
+    finalidade de construir aterro sanitário.849
+    2. Essa doação deve ser autorizada por lei, o imóvel deve ser previa-
+    mente avaliado e deve ser demonstrada a existência de interesse
+    público justificado para o doador destinar determinado imóvel, asse-
+    gurando no instrumento de doação o encargo com cláusula de rever-
+    sibilidade do patrimônio em caso de desvio de finalidade.850
+    3. Para assinatura do referido instrumento do convênio, faz-se neces-
+    sária a prévia aprovação, pelo convenente, do competente plano de
+    trabalho proposto pelo concedente, nos termos previstos no artigo
+    116, da Lei 8.666/1993851, bem como a observância dos ditames pre-
+    vistos no PPA e LDO do Estado e dos Municípios partícipes, no Plano
+    Estadual de Abastecimento de Água e Esgotamento Sanitário, elabo-
+    rado nos termos da Lei 7.638/2002, e no Plano Estadual de Recursos
+    Hídricos.
+    4. A doação deve constar nos programas e ações de governo, na área
+    de saneamento básico relacionados no PPA, bem como destacado no
+    demonstrativo de evolução patrimonial, integrante do Anexo de Metas
+    Fiscais da LDO, ambos do Estado e dos municípios partícipes.
+    
+    Resolução de Consulta 11/2011 (DOE, 04/03/2011). Convênio. Estado.
+    Entidades de assistência social. Contribuição patronal.
+    É possível a utilização das verbas transferidas pela Administração Pú-
+    blica estadual às entidades beneficentes de assistência social para
+    recolhimento de cota patronal ao INSS, relativo ao pessoal contratado
+    para atendimento do objeto do convênio, desde que haja previsão ex-
+    pressa nesse sentido.852
+    
+    
+    849 A Lei 14.133/2021 estabelece que a alienação de bens da Administração Pública, inclusive doação de bens imóveis, é subordinada
+    à existência de interesse público devidamente justificado, deve ser precedida de avaliação e exige autorização legislativa, depen-
+    dendo de licitação, que é dispensada no caso de doação a outro órgão ou entidade da Administração Pública, de qualquer esfera de
+    governo (art. 76, I, “b”). Aplicam-se aos convênios, celebrados por órgãos e entidades da Administração Pública, as disposições da Lei
+    14.133/2021, no que couber e na ausência de norma específica (art. 184).
+    850 Compatível com a Lei 14.133/2021 (art. 76, I, “b” e § 2°).
+    851 Os elementos e regras referentes ao plano de trabalho do convênio devem atender ao instrumento normativo estadual em vigên-
+    cia.
+    852 A Instrução Normativa Conjunta SEFAZ/CGE n° 001/2015 dispõe que é responsabilidade do Convenente todos os encargos sala-
+    riais, fiscais, sociais e trabalhistas e a proibição de atribuição dessas obrigações ao Concedente (art. 20, XXVIII).
+    
+    
+    
+                                                                   530
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

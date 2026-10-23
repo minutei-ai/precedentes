@@ -122,4 +122,165 @@ Inventário visual: 2 imagens nesta página; consulte o PDF para os elementos gr
 
 -   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 11/2021 – TP (DOC, 08/10/2021).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 551
+
+    cício de 2021, diante da comprovação de que o gestor público adotou
+    medidas para evitar tal situação, deve ser ponderado pelo Tribunal de
+    Contas com base nos princípios da supremacia do interesse público,
+    da razoabilidade e da proporcionalidade, considerando os obstácu-
+    los e as dificuldades reais do gestor, conforme determinação do art.
+    22, caput, da LINDB.
+    9. O não atingimento do mínimo constitucional na valorização e remu-
+    neração dos profissionais da educação básica deverá ser justificado
+    e comprovado pelo gestor no momento da prestação de contas ao Tri-
+    bunal de Contas.
+    
+    Resolução de Consulta 11/2021 – TP (DOC, 08/10/2021). Lei Comple-
+    mentar Federal (LC) 173/2020. Programa Federativo de Enfrenta-
+    mento ao Covid-19. Art. 8º (proibições). Aplicabilidade aos municí-
+    pios. Revogação do estado de calamidade pública. Art. 8°, inciso IX.
+    Suspensão da contagem de tempo de serviço para concessão de
+    férias. Impossibilidade.
+    1. As proibições previstas no artigo 8° da LC 173/2020 são aplicáveis a
+    partir da data de sua publicação, sendo desnecessária a decretação
+    do estado de calamidade pública pelos municípios, tendo em vista seu
+    reconhecimento pela União em todo o território nacional, nos termos
+    do Decreto Legislativo 6/2020 (art. 65, §§ 1° e 2°, da LC 101/2000).
+    2. A revogação do estado de calamidade pública não afasta a incidên-
+    cia das proibições do artigo 8° da LC 173/2020, já que o seu caput é ex-
+    presso ao determinar que as medidas ali relacionadas possuem vigên-
+    cia até 31/12/2021 (princípio da legalidade – art. 37, caput, da CF/1988).
+    3. A proibição prevista no inciso IX, do artigo 8°, da LC 173/2020 não se
+    aplica à contagem de tempo de serviço necessário para concessão de
+    férias anuais.
+    
+    
+    
+    
+                                       551
+
+### Contexto na compilação — página 552
+
+    Resolução de consulta 6/2020-TP (DOC, 28/01/2021). Despesa. Lei
+    Complementar Federal (LC) 173/2020. Programa Federativo de En-
+    frentamento ao Coronavírus Sars-Cov-2 (Covid-19). Auxílio finan-
+    ceiro (art. 5º, inciso II). Aplicação do recurso para quitar obrigações
+    contraídas antes do início de vigência do estado de calamidade pú-
+    blica. Possibilidade. Recursos não vinculados. Necessidade de refa-
+    zer o processo da despesa pública.
+    O recurso do auxílio financeiro entregue pela União na forma do inci-
+    so II, do art. 5°, da LC 173/2020 não possui vinculação específica pre-
+    definida pela norma, podendo ser aplicado para financiar obrigações
+    contraídas antes do início de vigência do estado de calamidade públi-
+    ca provocado pelo Coronavírus, desde que financiadas com recursos
+    não vinculados (art. 8°, parágrafo único, da LRF), a fim de mitigar os
+    efeitos financeiros da pandemia, de modo a preservar o equilíbrio e a
+    sustentabilidade das contas públicas. Para tanto, o gestor público de-
+    verá refazer o processo de despesa desde sua etapa inicial, para fazer
+    constar na nota de empenho a nova fonte de recurso.
+    
+    Resolução de Consulta 5/2020-TP (DOC, 23/11/2020). Pessoal. Des-
+    pesa. Controle. Lei Complementar (LC) 173/2020. Programa Federa-
+    tivo de Enfrentamento à Covid-19. Art. 8º, incisos IV e IX. Montante
+    das despesas primárias correntes autorizado na LOA. Anuênios,
+    triênios, quinquênios e licenças-prêmio. Contagem de tempo para
+    cumprimento de período aquisitivo necessário à concessão de li-
+    cença-prêmio. Nomeação para cargo em comissão.
+    1. O referencial a ser observado para controlar o aumento de despe-
+    sas, tal como exigido pelos incisos IV e IX, do artigo 8°, da LC 173/2020,
+    é o montante da despesa primária corrente, previsto na respectiva Lei
+    Orçamentária Anual (LOA), estando vedada a abertura de crédito adi-
+    cional, suplementar e/ou especial, que o amplie (art. 51, § § 1° e 3°, do
+    ADCT da Constituição Estadual, c/c artigo 169, § 1°, inciso II, da Cons-
+    tituição Federal).882
+    2. O inciso IX, do artigo 8°, da LC 173/2020 não veda a concessão de
+    anuênios, triênios, quinquênios, licenças-prêmio, e sua respectiva
+    882 Conforme Resolução de Consulta 5/2021 – TP, “O dispositivo 1 constante da Resolução de Consulta 5/2020-TP apresenta conte-
+    údo normativo aplicado especificamente ao ente federado Estado de Mato Grosso e não alcança os municípios mato-grossenses,
+    independentemente de terem instituído, ou não, Regimes de Recuperação Fiscal”.
+    
+    
+    
+                                                               552
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

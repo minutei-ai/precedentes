@@ -306,4 +306,301 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011).
+
+### Entrada temática 2
+
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011).
+
+### Entrada temática 3
+
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011).
+
+### Entrada temática 4
+
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 61
+
+    Legislativo, pois o repasse de verbas pelo Poder Executivo aos demais
+    poderes e aos órgãos autônomos deve observar a previsão na LOA.
+    
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011). Câmara Municipal.
+    Despesa. Limite. Gasto total. Realização de concurso público.
+    1. Cabe ao Poder Legislativo a despesa com a realização de concurso
+    público para preenchimento de cargos dos seus quadros.
+    2. É possível a realização de concurso público, em conjunto, pela câ-
+    mara municipal e prefeitura. Neste caso, havendo o rateio das despe-
+    sas, somente a parcela paga pelo Legislativo deve integrar o seu limite
+    de gastos.
+    
+    Resolução de Consulta 14/2015 – TP (DOC, 21/09/2015). Câmara Mu-
+    nicipal. Despesa. Limite. Gasto total. Base de cálculo. Auxílio finan-
+    ceiro às exportações.
+    Os auxílios financeiros concedidos pela União aos Municípios, para fo-
+    mentar as exportações do país, não compõem a base de cálculo para
+    a determinação do limite de gasto total das câmaras municipais, pois
+    se trata de transferências que não se enquadram nas hipóteses de re-
+    ceita tributária ou de transferência tributária previstas no art. 29-A,
+    caput da Constituição Federal.
+    
+    Resolução de Consulta 21/2015 – TP (DOC, 17/12/2015). Câmara
+    Municipal. Despesa. Limite. Gasto total. Despesas de Exercícios
+    Anteriores.
+    O Poder Legislativo pode, excepcionalmente, excluir do limite esta-
+    belecido pelo artigo 29-A da Constituição da República, despesas de
+    exercícios anteriores não empenhadas e não contabilizadas na época
+    devida, desde que comprove a legitimidade dessas despesas e iden-
+    tifique, por meio de processo administrativo próprio, o (s) agente (s)
+    causador (es) da geração e do descumprimento das fases de cons-
+    tituição e liquidação da respectiva despesa, para fins de eventual
+    responsabilização.
+    
+    
+    
+    
+                                      61
+
+### Contexto na compilação — página 227
+
+    DISPENSA DE LICITAÇÃO
+    
+    Resolução de Consulta 2/2020-TP (DOC, 06/08/2020). Licitação.
+    Contratação direta. Art. 24, inciso III e art. 25 da Lei 8.666/93. Dis-
+    pensa do ato de ratificação.
+    Não é possível dispensar a publicação oficial dos atos de ratificação
+    das contratações fundamentadas no inciso III e seguintes do art. 24 e
+    no art. 25, todos da Lei 8.666/93, pois se trata de condição de eficácia
+    desses atos, nos termos do art. 26 da mesma Lei.230
+    
+    Resolução de Consulta 3/2007 (DOE, 23/10/2007). Licitação. Dispen-
+    sa. Formalização de processo administrativo.
+    É indispensável a formalização de processo administrativo na contra-
+    tação de bens ou serviços mediante dispensa de licitação (inclusive
+    quando se tratar de valor inferior a R$ 8.000,00). Esse critério visa as-
+    segurar o cumprimento dos princípios atinentes à licitação e das exi-
+    gências gerais previstas na Lei 8.666/1993.231
+    
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011). Licitação. Dispen-
+    sa. Contratação de Empresas para realização de concurso público.
+    É legal a contratação de empresas para realização de concurso públi-
+    co por dispensa se a situação se enquadrar em uma das hipóteses es-
+    tabelecidas no artigo 24, da Lei 8.666/1993, preenchendo todos os re-
+    quisitos que o legislador expressamente indicou para cada situação,
+    sendo indispensável à formalização de processo administrativo.232
+    Resolução de Consulta 35/2008 (DOE, 28/08/2008). Licitação.
+    Obras públicas. Situação emergencial. Possibilidade de dispensa de
+    Licitação.
+    É possível a realização de obras e serviços de engenharia com funda-
+    mento no permissivo legal da Lei 8.666/93, artigo 24, inciso IV, quando
+    configurar: a) emergência ou calamidade pública; b) risco concreto
+    que possa causar prejuízos e/ou comprometimento da segurança de
+    pessoas, obras, bens e equipamentos; c) parcela de obras e serviços
+    230 Resposta à consulta restrita às contratações diretas indicadas para a Lei 8.666/1993.
+    231 Para as contratações diretas realizadas com amparo na Lei 14.133/2021, compreendendo os casos de inexigibilidade e dispensa
+    de licitação, há necessidade de processo administrativo, instruído com documentos os específicos previstos (art. 72).
+    232 Na Lei 14.133/2021, as hipóteses de licitação dispensável constam do art. 75 e a necessidade de formalizar processo administra-
+    tivo no art. 72.
+    
+    
+    
+                                                                 227
+
+### Contexto na compilação — página 277
+
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011). Contrato. Contra-
+    tação de empresas para realização de concurso público. Contrato de
+    risco. Requisitos.338
+    É legal a celebração de contrato de risco para contratação de em-
+    presa realizadora de concurso público, devendo a Administração Pú-
+    blica prever, no edital e no contrato, valor fixo ou variável, de acordo
+    com o número de inscritos ou de acordo com as receitas auferidas
+    com as inscrições dos candidatos, limitando esta remuneração a um
+    valor máximo dos serviços prestados, observando as normas orça-
+    mentárias e financeiras que exigem a previsão das despesas a serem
+    pagas.339
+    
+    
+    
+    
+    338 Há abordagem similar no Acórdão 557/2007 do TCE/MT, que também trata sobre a possibilidade de se firmar contrato de risco.
+    339 A Lei 14.133/2021, Nova Lei de Licitações e Contratos, prevê a possibilidade de o edital licitatório contemplar matriz de alocação
+    de riscos entre o contratante e o contratado (art. 22), estabelecendo que o contrato pode identificar os riscos contratuais previstos e
+    presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado (art. 103).
+    
+    
+    
+                                                                   277
+
+### Contexto na compilação — página 278
+
+    CONTRATOS DE SERVIÇOS CONTÍNUOS: PRORROGAÇÃO E
+    RECOMPOSIÇÃO
+    
+    Resolução de Consulta 24/2016 – TP (DOC, 07/10/2016). Contrato.
+    Prorrogação de vigência e de prazo de execução. Regras gerais.340
+    1. É possível a prorrogação de prazos de vigência de contratos cujo ob-
+    jeto seja a prestação de serviços de natureza continuada, conforme
+    hipótese prevista no inciso II, do caput, do art. 57, da Lei 8.666/1993,
+    desde que observados os seguintes requisitos:
+    a) o aditivo de prorrogação deve ser formalizado dentro do prazo de
+    vigência do contrato que se pretende renovar, ainda que o seu termo
+    final ocorra em dia não útil;
+    b) a vantajosidade da prorrogação deve ser justificada por escrito me-
+    diante estudos envolvendo critérios técnicos e financeiros, e a prorro-
+    gação deve ser autorizada pela autoridade competente;
+    c) o valor global da avença resultante das prorrogações contratuais
+    não precisa obedecer ao teto da modalidade licitatória inicialmente
+    adotada para a contratação; e,
+    d) caso os aditamentos tenham sido feitos sem a observância dessas
+    regras, o gestor deverá providenciar a realização de procedimento li-
+    citatório a fim de evitar a permanência da irregularidade e incorrer em
+    crime previsto na Lei 8.666/1993.
+    2. É possível a prorrogação de prazos de execução contratual para os
+    casos previstos nos incisos do § 1°, do artigo 57, da Lei 8.666/1993, in-
+    dependentemente do teto da modalidade licitatória inicialmente ado-
+    tada para a contratação e de haver previsão de prorrogação no ato
+    convocatório da licitação ou no contrato.
+    3. Os aditivos contratuais de acréscimos quantitativos ou qualitativos
+    do objeto avençado, previstos no § 1°, do art. 65, da Lei 8.666/1993, não
+    estão adstritos à observância do teto da modalidade licitatória inicial-
+    mente adotada, salvo quando essas majorações forem previsíveis e
+    perceptíveis ainda no momento do certame, situação essa que confi-
+    gura afronta à isonomia do respectivo processo licitatório.
+    
+    340 Decisão, que revogou a Resolução de Consulta 32/2008 e tacitamente o Acórdão 2.985/2006, é aplicável às contratações realiza-
+    das com fundamento e na vigência da Lei 8.666/1993. Na Lei 14.133/2021, Nova Lei de Licitações e Contratos, a duração e prorrogação
+    de contratos de serviços contínuos constam dos artigos 106 e 107.
+    
+    
+    
+                                                                  278
+
+### Contexto na compilação — página 473
+
+    ARRECADAÇÃO: ESPÉCIES DE RECEITA
+    
+    Acórdão 2.634/2006 (Julgado em 14/11/2006). Receita. Arrecada-
+    ção. Alienação de bens imóveis. Recebimento parcelado. Transfe-
+    rência da propriedade.
+    A alienação de bens imóveis da Administração Pública deve ser pro-
+    cessada de acordo com a Lei 14.133/2021700, sendo possível o rece-
+    bimento parcelado do valor total da alienação por venda do imóvel,
+    desde que haja previsão no edital e no contrato celebrado entre a Ad-
+    ministração e o particular adquirente.701 A transferência da proprieda-
+    de do imóvel alienado, com o registro em Cartório de Registro de Imó-
+    veis, somente se efetivará após o pagamento de todas as parcelas.
+    
+    Resolução de Consulta 15/2011 (DOE, 24/03/2011). Receita. Concurso
+    de prognósticos. Legislação. Competência exclusiva da União.
+    Compete privativamente à União legislar sobre concurso de prognós-
+    ticos (sorteios de números ou quaisquer símbolos, loterias e apostas
+    de qualquer natureza), sendo vedado aos municípios legislar sobre
+    esse tema.702
+    
+    Resolução de Consulta 22/2011 (DOE, 31/03/2011). Receita. Taxa de
+    inscrição em concurso público. Depósito das receitas diretamente
+    à contratada.
+    É ilegal o depósito das receitas decorrentes das inscrições de candi-
+    datos em concurso público diretamente na conta bancária da empresa
+    contratada, por afrontar os princípios da oportunidade, da universali-
+    dade, do orçamento bruto e da unidade de caixa, além de configurar
+    omissão de receitas e violação aos princípios constitucionais da mo-
+    ralidade e eficiência, devendo o Poder Público ter o controle e prestar
+    contas das receitas e despesas que irá realizar.703
+    700 A Lei 14.133/2021 revogou a Lei 8.666/1993, ratificando a possibilidade de alienação de bens imóveis da Administração Pública,
+    inclusive por intermédio da venda a particulares.
+    701 Na Lei 14.133/2021, possibilitam-se condições de pagamento semelhantes às do setor privado (art. 40, I), cujas regras devem estar
+    contidas no edital licitatório (art. 25, caput) e em cláusula contratual específica (art. 92, V).
+    702 É competência constitucional privativa da União legislar sobre sistemas de consórcios e sorteios (art. 22, XX, CF/1988), figurando
+    como inconstitucional a lei ou ato normativo estadual ou distrital que disponha sobre sistemas de consórcios e sorteios, inclusive
+    bingos e loterias (Súmula Vinculante 2 do STF).
+    703 A Lei 4.320/1964 estabelece que “o recolhimento de todas as receitas far-se-á em estrita observância ao princípio de unidade de
+    tesouraria, vedada qualquer fragmentação para criação de caixas especiais” (art. 56), além de prever que todas as receitas devem
+    constar da Lei do Orçamento pelos seus totais e sem deduções (art. 6°) e conter discriminação que evidencie a política econômi-
+    co-financeira e o programa de trabalho do Governo, obedecidos os princípios de unidade, universalidade e anualidade (art. 2°). A
+    título jurisprudencial exemplificativo, o TCU consolidou, pela Súmula 214, que “os valores correspondentes às taxas de inscrição em
+    concursos públicos devem ser recolhidos ao Banco do Brasil S.A., à conta do Tesouro Nacional, por meio de documento próprio, de
+    acordo com a sistemática de arrecadação das receitas federais”.
+    
+                                                                   473
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

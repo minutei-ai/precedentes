@@ -957,4 +957,342 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 -   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 19/2013 (DOC, 30/09/2013).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 310
+
+    AGENTES DE SAÚDE E DE ENDEMIAS: ADMISSÃO E DIREITOS
+    
+    Resolução de Consulta 19/2013 (DOC, 30/09/2013). Pessoal. Agentes
+    comunitários de saúde e agentes de combate às endemias. Regime
+    jurídico de trabalho. Regime jurídico previdenciário. Admissão em
+    caráter permanente. Processo seletivo público. Admissão em ca-
+    ráter temporário. Processo seletivo simplificado. Regularização de
+    vínculos dos agentes contratados antes da Emenda Constitucional
+    51/2006.392
+    1. Regime jurídico de trabalho.
+    1.1. Os agentes comunitários de saúde e os agentes de combate às en-
+    demias podem estar vinculados à Administração Pública pelo regime
+    estatutário, pelo regime celetista ou de forma temporária pelo regime
+    administrativo especial (contratação temporária por excepcional in-
+    teresse público).
+    1.2. O vínculo pelo regime celetista somente é possível se o empre-
+    go público tiver sido criado antes da decisão liminar na ADI 2135-4, do
+    STF (14-8-2007), que revigorou o regime jurídico único estatutário na
+    Administração Pública. Após essa data, só é possível a criação de car-
+    gos públicos com vínculo estatutário.
+    1.3. Caso o município ainda não tenha criado as carreiras de agente
+    comunitário de saúde e de agente de combate às endemias, deve fa-
+    zê-lo por meio de lei de iniciativa do Poder Executivo que estabeleça a
+    quantidade de cargos, a estrutura remuneratória, o vínculo estatutá-
+    rio, as atribuições, os direitos, as obrigações, além dos requisitos para
+    exercício do cargo previstos na Lei 11.350/2006.
+    1.4. Os agentes comunitários de saúde e os agentes de combate às
+    endemias, com vínculo celetista ou estatutário, poderão perder seu
+    emprego ou cargo caso não cumpram com os requisitos específicos
+    para exercício da função previstos na Lei 11.350/2006, nos termos do
+    art. 198, § 6°, da CF/88. Assim, por exemplo, se o agente comunitário
+    de saúde deixar de residir na área da comunidade em que atuar (art.
+    6°, I, da Lei 11.350/2006), poderá perder seu cargo ou emprego, inde-
+    pendentemente do vínculo.
+    
+    392 A decisão em consulta revogou integralmente as Resoluções de Consulta 48/2008, 67/2011 e 2/2012.
+    
+    
+    
+                                                                310
+
+### Contexto na compilação — página 311
+
+    1.5. Considerando que os empregados públicos da Administração dire-
+    ta, autárquica e fundacional são beneficiários da estabilidade prevista
+    no art. 41, da CF/1988 (Súmula 390 do TST), não há óbice à transposi-
+    ção do regime celetista (emprego público) para o regime estatutário
+    (cargo público) dos agentes comunitários de saúde e dos agentes de
+    combate às endemias investidos inicialmente em empregos públicos,
+    desde que promovida por meio de lei que estabeleça as regras para a
+    transposição do regime e para o reenquadramento dos agentes em
+    cargo público.
+    1.6. A transposição de regime jurídico a que se refere esta Resolução
+    de Consulta aplica-se exclusivamente aos agentes comunitários de
+    saúde e aos agentes de combate às endemias, tendo por pressupos-
+    tos os seguintes requisitos:
+    a)somente é possível para os agentes oriundos de certificação de pro-
+    cesso de seleção realizado anteriormente à EC 51/2006 e para aque-
+    les que ingressaram por processo seletivo público para contratação
+    definitiva realizado antes ou após a referida Emenda, desde que o in-
+    gresso, em qualquer caso, tenha se dado em emprego público criado
+    por lei anterior ao certame; e,
+    a)sejam mantidos o conteúdo ocupacional, as atribuições, o nível de
+    escolaridade e os demais requisitos para exercício da função, a fim de
+    não se configurar ascensão funcional.
+    2. Regime previdenciário.
+    2.1.Adotando-se o regime jurídico estatutário (regra geral), os agentes
+    comunitários de saúde e os agentes de combate às endemias estarão
+    vinculados ao Regime Próprio de Previdência, tal como prevê o art.
+    40, caput, da Constituição Federal, ou ao Regime Geral de Previdên-
+    cia, caso o ente público não possua o Regime Próprio de Previdência.
+    2.2.Adotando-se o regime jurídico celetista (possível apenas para em-
+    prego público criado antes da decisão liminar na ADI 2135-4 do STF),
+    os agentes comunitários de saúde e agentes de combate às endemias
+    necessariamente estarão sob a égide do Regime Geral de Previdência,
+    e, portanto, vinculados ao Instituto Nacional de Seguridade Social.
+    2.3.Nos casos de contratação por tempo determinado por necessida-
+    
+    
+    
+    
+                                      311
+
+### Contexto na compilação — página 312
+
+    de temporária de excepcional interesse público (regime jurídico admi-
+    nistrativo especial), os agentes comunitários de saúde e agentes de
+    combate às endemias necessariamente estarão sob a égide do Regi-
+    me Geral de Previdência, e, portanto, vinculados ao Instituto Nacional
+    de Seguridade Social.
+    3. Admissão em caráter permanente. Processo seletivo público.
+    3.1. A admissão em caráter permanente de agentes comunitários de
+    saúde e de agentes de combate às endemias deve ser precedida de
+    processo seletivo público de provas ou de provas e títulos, promovi-
+    do de acordo com a natureza e a complexidade de suas atribuições e
+    requisitos específicos para o exercício das atividades, observados os
+    princípios da legalidade, impessoalidade, moralidade, publicidade e
+    eficiência (CF, art. 198, § 4°, c/c a Lei 11.350/2006, art. 9°), independen-
+    temente do regime jurídico adotado, se celetista (emprego público) ou
+    estatutário (cargo público).
+    3.2. O processo seletivo público previsto no art. 198, § 4°, da Constitui-
+    ção da República deve apresentar características similares às de um
+    concurso público, sendo que simplificações são admissíveis desde
+    que não comprometam a necessária publicidade, igualdade dos con-
+    correntes e possibilidade de verificação da lisura do certame. É obri-
+    gatório, ainda, que as provas ou provas e títulos guardem relação com
+    a natureza e a complexidade do cargo ou emprego público.
+    3.3. A Lei Federal 11.350/2006 não dispõe expressamente sobre o pra-
+    zo de validade do processo seletivo público, contudo, por analogia,
+    aplica-se o prazo do concurso público definido pelo art. 37, inciso III,
+    da Constituição da República, que estabelece o prazo máximo de dois
+    anos, podendo ser prorrogado uma vez por igual período.
+    3.4. No caso de processo seletivo público realizado por meio de provas
+    e títulos, é possível considerar, para efeito de atribuição de pontos aos
+    títulos, a experiência profissional do candidato nas funções de agente
+    comunitário de saúde ou de agente de combate às endemias, desde
+    que observados os princípios constitucionais da impessoalidade, da
+    moralidade e da proporcionalidade.
+    3.5. Para não configurar inobservância aos princípios constitucionais
+    
+    
+    
+    
+                                        312
+
+### Contexto na compilação — página 313
+
+    aplicáveis à Administração Pública, a fase de títulos deve observar os
+    seguintes requisitos:
+    a) não pode ser adotada nos concursos para cargos e empregos cuja
+    natureza e baixa complexidade das tarefas dispensam a aferição da
+    vida profissional e intelectual dos postulantes, com exceção dos agen-
+    tes comunitários de saúde e dos agentes de combate às endemias;
+    b) deve ser secundária em relação à nota da prova;
+    c) deve ser realizada após a prova, apenas para os candidatos que
+    atingirem a pontuação mínima prevista em edital;
+    d) os títulos e respectivos critérios de pontuação devem estar defini-
+    dos de forma clara e objetiva no edital do certame, com o estabeleci-
+    mento de pontuação máxima por tipo de títulos e por somatório total;
+    e) deve possuir caráter meramente classificatório, sendo que de ne-
+    nhuma forma deve ser atribuída natureza eliminatória aos títulos; e,
+    f) a pontuação dos títulos não pode privilegiar em excesso os candida-
+    tos com mais experiência profissional, promovendo alterações desar-
+    razoadas e desproporcionais na classificação das provas.
+    4. Admissão em caráter temporário. Processo seletivo simplificado.
+    4.1. As contratações temporárias de agentes comunitários de saúde e
+    de agentes de combate às endemias são autorizadas para o caso de
+    combate a surtos endêmicos, nos termos do art. 16, da Lei 11.350/2006,
+    e para substituição temporária de agentes do quadro permanente,
+    decorrentes, por exemplo, de licenças e afastamentos legais.
+    4.2. Em todo caso, a contratação temporária de agentes comunitá-
+    rios de saúde e de agentes de combate às endemias deve observar os
+    requisitos constitucionais e legais, bem como aqueles previstos nas
+    decisões normativas do Tribunal de Contas, dentre eles:
+    a) a previsão legal das hipóteses de contratação temporária;
+    b) a realização de processo seletivo simplificado;
+    c) a contratação por tempo determinado;
+    d) a necessidade temporária; e,
+    e) a presença de excepcional interesse público.
+    5. Regularização de vínculo dos agentes contratados antes da EC
+    51/2006.
+    
+    
+    
+    
+                                     313
+
+### Contexto na compilação — página 314
+
+    5.1. Os agentes comunitários de saúde e os agentes de combate às
+    endemias que se encontravam em atividade quando da promulgação
+    da EC 51/2006, independentemente da natureza do vínculo a que es-
+    tavam submetidos (temporário ou permanente), mas cuja admissão
+    tenha se dado mediante prévio processo de seleção pública, realizado
+    de acordo com os princípios constitucionais a que se submete a Admi-
+    nistração Pública, devidamente certificado nos termos da legislação
+    vigente, podem ter seu vínculo regularizado de forma permanente,
+    sem necessidade de se submeter a novo processo seletivo público,
+    desde que o vínculo com a Administração tenha sido mantido até a
+    data da certificação.
+    5.2. A certificação da existência de processo de seleção pública ante-
+    rior à EC 51/2006 dar-se-á por Comissão Certificadora, instituída para
+    essa finalidade, mediante comprovação de que a seleção pública foi
+    realizada em conformidade com os princípios da legalidade, impesso-
+    alidade, moralidade, publicidade e eficiência, previstos no art. 37, da
+    Constituição da República.
+    5.3. Exclusivamente para fins de certificação dos processos seleti-
+    vos realizados anteriormente à EC 51/2006, a Comissão Certificadora
+    pode admitir outros meios de prova que demonstrem a realização e
+    divulgação do certame, que não a publicação em diário oficial.
+    5.4. Para efeito de registro da certificação da existência de processo
+    seletivo e consequente regularização de vínculo dos agentes contra-
+    tados anteriormente à EC 51/2006 pelo Tribunal de Contas, será exigi-
+    da a declaração da Comissão Certificadora que atesta a existência de
+    anterior processo seletivo que tenha observado os princípios consti-
+    tucionais aplicáveis à Administração Pública, por gozar de fé pública
+    e presunção de legitimidade, podendo os membros da Comissão res-
+    ponder por declaração inidônea.
+    6. Impossibilidade de regularização de vínculo dos agentes contrata-
+    dos após a EC 51/2006.
+    6.1. Os agentes comunitários de saúde e os agentes de combate às
+    endemias contratados temporariamente após a promulgação da EC
+    51/2006, em processo com a nomenclatura de seletivo simplificado ou
+    
+    
+    
+    
+                                     314
+
+### Contexto na compilação — página 315
+
+    seletivo público, não têm direito à certificação para efeitos de regula-
+    rização de vínculo, de forma que os contratados devem ser desligados
+    à medida que os seus contratos expirarem, devendo a Administração,
+    quando necessitar dos profissionais, realizar o devido processo se-
+    letivo público para contratação em caráter permanente, observada a
+    regra de transição prevista no item a seguir.
+    6.2. É possível a prorrogação dos contratos temporários vigentes e
+    que se encerrarem no prazo máximo de um ano a partir da publicação
+    desta Resolução de Consulta, e apenas até o termo final do referido
+    período, a fim de possibilitar a realização do devido processo seletivo
+    público para contratação em caráter permanente.
+    
+    Resolução de Consulta 5/2012 (DOE, 17/05/2012). Pessoal. Agentes
+    comunitários de saúde. Direitos sociais. Incentivo financeiro. Parce-
+    la extra-anual. Repasse direto aos agentes sob a forma de incentivo
+    adicional. Possibilidade, desde que haja previsão legal específica.
+    Utilização para pagamento do 13º salário. Possibilidade.393
+    1. Os agentes comunitários de saúde, quando se vincularem à Admi-
+    nistração, seja sob o regime celetista ou estatutário, têm seus direitos
+    trabalhistas resguardados, respectivamente, pelos artigos 7°, e 39, §
+    3°, da Constituição Federal/1988.
+    2. A legislação vigente do Ministério da Saúde não faz mais a distinção
+    entre incentivo de custeio e incentivo adicional, adotando o termo “in-
+    centivo financeiro”.394
+    3. O incentivo financeiro mensal destina-se a auxiliar os municípios
+    na implantação das Equipes de Saúde da Família (ESF), podendo ser
+    utilizados para o pagamento de salários ou incentivos aos agentes co-
+    munitários de saúde.395
+    4. A parcela extra-anual do incentivo financeiro também se destina à
+    implantação das Equipes de Saúde da Família (ESF), ou seja, vincula-
+    -se ao Programa Saúde da Família, podendo ser utilizada para o paga-
+    393 A decisão, que revogou a Resolução de Consulta 24/2009, está em avaliação para verificar compatibilidade com o ordenamento
+    jurídico vigente.
+    394 Conforme art. 9°-D da Lei 11.350/2006, incluído pela Lei 12.994/2014, foi criado o “incentivo financeiro” para fortalecimento de
+    políticas afetas à atuação de agentes comunitários de saúde e de combate às endemias.
+    395 Pela Lei 11.350/2006, o incentivo financeiro foi criado para o “fortalecimento de políticas afetas à atuação de agentes comuni-
+    tários de saúde e de combate às endemias” (art. 9º-D), o que foi reafirmado pelo Decreto 8.474/2015 (art. 6°), não havendo menção
+    de obrigatoriedade para destinação à política da ESF. Conforme art. 9°-F, para fins de apuração dos limites com pessoal previstos
+    na LRF, se a parcela repassada como incentivo financeiro for utilizada no pagamento de pessoal deve ser computada como gasto de
+    pessoal do ente federativo beneficiado pela transferência.
+    
+    
+    
+                                                                  315
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

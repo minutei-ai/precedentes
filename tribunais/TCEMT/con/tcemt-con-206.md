@@ -147,4 +147,175 @@ EMENTA: PREFEITURA MUNICIPAL DE SANTA CARMEM. CONSULTA. EDUCAÇÃO. ENSINO BÁSI
     jm
     F:\Secretaria do Pleno\2008\Resolução de Consulta\Resolução de Consulta 2508.odt              1
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 25/2008 (DOE, 10/07/2008).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 199
+
+    Resolução de Consulta 6/2019 – TP (DOC, 10/10/2019). Educação. En-
+    sino básico. Fundeb 60%185. Concessão de abono salarial. LRF. Des-
+    pesa com pessoal. Limite prudencial ultrapassado. Possibilidade.
+    1. É possível a concessão de abono salarial aos profissionais da educa-
+    ção básica, com recursos provenientes da parcela de 60% do Fundeb,
+    cabendo ao ente definir o montante e a modalidade, mesmo quando o
+    ente houver ultrapassado o limite prudencial de gastos com pessoal,
+    em razão das ressalvas contidas no art. 22, inciso I, da Lei de Respon-
+    sabilidade Fiscal.186
+    2. Se em razão do abono salarial concedido, o ente ultrapassar o limite
+    máximo de despesa com pessoal, o gestor deverá observar o coman-
+    do do art. 23, caput, da Lei de Responsabilidade Fiscal para eliminar o
+    percentual excedente.
+    3. Para a concessão do abono salarial, de caráter precário e que não
+    gera vínculo para outros exercícios, devem ser satisfeitas as condi-
+    ções estipuladas no art. 169, § 1°, incisos I e II, da Constituição da Re-
+    pública, quais sejam: a) existência de prévia dotação orçamentária
+    suficiente para atender às projeções de despesas de pessoal e aos
+    acréscimos dela decorrentes; e b) existência de autorização especí-
+    fica na lei de diretrizes orçamentárias.
+    4. O pagamento de abono não deve ser uma prática habitual na gestão
+    do Fundeb. A sua utilização frequente pressupõe um planejamento
+    deficiente na aplicação dos recursos destinados à remuneração dos
+    profissionais do magistério e a necessidade de uma revisão ou refor-
+    mulação do plano de cargos e salários da categoria.
+    
+    Resolução de Consulta 25/2008 (DOE, 10/07/2008). Educação. En-
+    sino básico. Fundeb 60%. Concessão de abono salarial após o pe-
+    ríodo eleitoral. Possibilidade, desde que em caráter provisório e
+    excepcional.
+    É possível a aplicação do limite de 60% do Fundeb no pagamento dos
+    salários de professores da educação básica, por meio do abono sa-
+    larial, desde que em caráter provisório e excepcional, após o período
+    185 Pela Lei 14.113/2020 (Nova Lei do Fundeb), que revogou a Lei 11.494/2007, a destinação mínima de recursos do Fundo para o paga-
+    mento da remuneração de profissionais da educação básica passou a ser de 70% (art. 26, caput).
+    186 Tese compatível com a Lei 14.113/2020 (art. 26, § 2°), em que se estabelece a possibilidade de aplicação dos recursos do Fundeb
+    no reajuste salarial sob a forma de abono, com intuito de atingir o mínimo de 70% com remuneração dos profissionais da educação
+    básica.
+    
+    
+    
+                                                                  199
+
+### Contexto na compilação — página 200
+
+    eleitoral.187
+    
+    Resolução de Consulta 9/2022 – TP (DOC, 05/07/2022). Educação.
+    Ensino básico. Fundeb 70%. Concessão de abono salarial. Possibili-
+    dade. Profissionais da educação básica. Profissionais da psicologia
+    e serviço social. Desconto de contribuição previdenciária e incidên-
+    cia de imposto de renda. Cômputo da despesa total com pessoal.
+    Não interferência na tabela remuneratória dos profissionais da edu-
+    cação básica.
+    1. É possível o pagamento de abono aos profissionais da educação
+    básica em efetivo exercício, de modo provisório e excepcional, quan-
+    do a medida tiver o objetivo de assegurar a percepção de, no mínimo,
+    70% dos recursos anuais do Fundeb, necessitando de lei autorizativa
+    específica, que deverá dispor sobre o seu valor, forma de pagamen-
+    to e critério de partilha. Caso o reajuste para cumprimento do Fun-
+    deb 70% não seja por abono anual provisório e excepcional, mas por
+    aumento de salário, atualização ou correção salarial (art. 26, § 2°, Lei
+    14.113/2020), não será possível suspender ou excluir tais acréscimos
+    da remuneração dos profissionais, em razão da irredutibilidade de
+    vencimentos (art. 37, XV, CF/1988).
+    2. O pagamento excepcional de abono para atingir o mínimo de 70%
+    do Fundeb pode ser destinado a docentes, profissionais no exercício
+    de funções de suporte pedagógico direto à docência, de direção ou
+    administração escolar, planejamento, inspeção, supervisão, orien-
+    tação educacional, coordenação e assessoramento pedagógico, e
+    profissionais de funções de apoio técnico, administrativo ou opera-
+    cional, em efetivo exercício nas redes de ensino de educação básica,
+    ocupantes de cargo, emprego ou função pública, com atuação asso-
+    ciada à regular vinculação contratual, temporária ou estatutária com
+    o ente governamental que o remunera, o que não é descaracterizada
+    por eventuais afastamentos temporários previstos em lei com ônus
+    para o empregador que não impliquem rompimento de relação jurídi-
+    187 Tese compatível com as Resoluções de Consulta 6/2019 e 9/2022 e com a legislação. Conforme Lei 14.113/2020, a destinação
+    mínima de recursos do Fundeb para o pagamento da remuneração dos profissionais da educação básica passou a ser de 70% (art. 26,
+    caput), que pode ser atingido por meio de reajuste salarial sob a forma de abono (art. 26, § 2°). Quanto à concessão do abono após o
+    período eleitoral, há referência legal no sentido de que é vedado aos agentes públicos, no período de 180 dias que antecedem as elei-
+    ções até a posse dos eleitos, fazer revisão da remuneração dos servidores que exceda a recomposição da perda de poder aquisitivo
+    ao longo do ano da eleição (Lei 9.504/1997, art. 73, VIII). Em sentido similar e complementar, a LRF (art. 21, II) dispõe que é nulo de pleno
+    direito o ato de que resulte aumento da despesa com pessoal nos 180 dias anteriores ao final do mandato do titular de Poder ou órgão.
+    
+    
+    
+                                                                      200
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

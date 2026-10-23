@@ -290,4 +290,244 @@ Inventário visual: 2 imagens nesta página; consulte o PDF para os elementos gr
 
 -   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 24/2014 – TP (DOC, 03/12/2014).
+
+### Entrada temática 2
+
+    Resolução de Consulta 24/2014 – TP (DOC, 03/12/2014).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 159
+
+    APLICAÇÃO DE RECURSOS VINCULADOS A FUNDOS
+    
+    Resolução de Consulta 24/2014 – TP (DOC, 03/12/2014). Despesa. Ma-
+    nutenção de Fundo e Conselho dos Direitos da Criança e do Adoles-
+    cente. Responsabilidade do ente federado instituidor. Necessidade
+    de dotação própria e específica. Aplicação de recursos vinculados
+    do fundo nos termos da legislação pertinente.
+    1. Os recursos vinculados aos Fundos dos Direitos da Criança e do
+    Adolescente, a exemplo das doações incentivadas previstas no artigo
+    260, do Estatuto da Criança e do Adolescente, devem ser aplicados
+    exclusivamente em programas, projetos e atividades de proteção so-
+    cioeducativos voltados ao atendimento da criança e do adolescente,
+    nos termos dos artigos 15 e 16, da Resolução CONANDA 137/2010.
+    2. Os entes federados, por meio de dotações orçamentárias e fontes
+    próprias e específicas consignadas em seu Orçamento Anual, devem
+    suportar as despesas operacionais administrativas, com recursos
+    humanos e de infraestrutura necessárias ao pleno funcionamento do
+    Fundo dos Direitos da Criança e do Adolescente e do Conselho dos Di-
+    reitos da Criança e do Adolescente.
+    
+    
+    
+    
+                                    159
+
+### Contexto na compilação — página 160
+
+    SENTENÇAS JUDICIAIS E PRECATÓRIOS
+    
+    Acórdão 263/2007 (DOE, 22/02/2007). Despesa. Sentenças judi-
+    ciais. Previsão na LOA. Registro no sistema contábil e financei-
+    ro. Permanência da obrigatoriedade do cumprimento de limites
+    constitucionais.
+    A Lei Orçamentária Anual deve prever recursos para pagamento de
+    valores decorrentes de sentenças judiciais. O registro contábil des-
+    sas despesas no sistema financeiro deverá ser feito pelo valor cons-
+    tante da decisão judicial a débito da conta “despesa empenhada” e a
+    crédito da conta “caixa/banco” e a especificação da despesa deve ser
+    de acordo com a Portaria Interministerial n° 163/STN/SOF/2001 e al-
+    terações posteriores. Independentemente do sequestro ou bloqueio
+    de recursos, todos os percentuais constitucionais devem ser obser-
+    vados, rigorosamente, a exemplo dos limites de gastos com educação
+    e saúde, sob pena de intervenção no município.117
+    
+    Resolução de Consulta 3/2012 (DOE, 19/04/2012). Despesa. Precató-
+    rios. Regime Especial de Pagamento. Opção por depósitos mensais
+    ou anuais. Formas de cálculo.
+    1. A Emenda Constitucional 62/2009 introduziu o artigo 97, no ADCT,
+    estabelecendo o regime especial de parcelamento para pagamento
+    de precatórios, facultando aos entes federados a opção entre duas
+    formas de depósitos vinculados, uma mensal e outra anual.
+    2. Caso a opção tenha sido por depósitos mensais, o valor mensal será
+    obtido dividindo-se a Receita Corrente Líquida, apurada no segundo
+    mês anterior ao pagamento, por 12 (doze) e, após, multiplicando-se
+    pelo percentual atribuído para o respectivo Ente, observados os per-
+    centuais mínimos de 1% para municípios e 1,5% para os estados da re-
+    gião Centro-Oeste (§ 1°, I, e § 2°, do art. 97, ADCT).
+    3. Caso a opção seja por depósitos anuais pelo prazo de até 15 anos, o
+    valor do depósito corresponderá, anualmente, ao saldo total de pre-
+    catórios, somado a atualização e os juros moratórios previstos, dimi-
+    nuído das amortizações e dividido pelo número de anos restantes no
+    regime especial de pagamento (§ 1°, II, art. 97, ADCT).
+    117 Com intuito de revisão de tese, a forma de registro contábil está em avaliação para verificar compatibilidade com orientações do
+    órgão competente.
+    
+    
+    
+                                                                  160
+
+### Contexto na compilação — página 480
+
+    RECURSOS VINCULADOS
+    
+    Acórdão 1.423/2004 (DOE, 04/02/2005). Receita. Recurso vinculado.
+    ICMS ecológico. Projetos e ações. Parceria para implementação.
+    Os recursos do “ICMS Ecológico” devem ser investidos em projetos
+    ambientais de preservação e conservação da natureza, programas de
+    educação ambiental, ações de saneamento básico e solução de pro-
+    blemas de detritos sólidos, entre outros que garantam o direito a um
+    meio ambiente saudável, urbano ou rural. As ações devem ser imple-
+    mentadas no âmbito da parceria entre Poderes Executivo e Legislati-
+    vo, sociedade e Conselhos Municipais de Meio Ambiente.721
+    
+    Resolução de Consulta 24/2014 – TP (DOC, 03/12/2014). Receita. Vin-
+    culação de impostos. Fundo dos Direitos da Criança e do Adolescente.
+    A vinculação de percentual de receita oriunda de impostos aos Fun-
+    dos dos Direitos da Criança e do Adolescente encontra vedação no in-
+    ciso IV, do artigo 167, da Constituição Federal de 1988.722
+    
+    
+    
+    
+    721 Em Mato Grosso, o Decreto 2.758/2001, que regulamentou o art. 8° da Lei Complementar 73/2000 (referente ao critério “Unidade
+    de Conservação/Terra Indígena para distribuição de receita do ICMS pertencente aos Municípios), visando promover a justiça fiscal e
+    a melhoria da qualidade de vida pela conservação da biodiversidade, contemplando municípios que abrigam em seu território o todo
+    ou parte de Unidades de Conservação e as Terras Indígenas (art. 1°, caput), criou o Programa Estadual do ICMS Ecológico, “instrumen-
+    to para consolidação do Sistema Estadual de Unidades de Conservação e da estratégia estadual para conservação da biodiversidade,
+    tendo como objetivos fundamentais o aumento da quantidade e da superfície de áreas protegidas no Estado, a melhoria da qualidade
+    da sua conservação e a justiça fiscal, e implantação de um Programa de apoio às ações dos municípios para conservação da biodi-
+    versidade” (art. 9°).
+    722 A CF/1988 veda a vinculação de receita de impostos, inclusive a fundos especiais, que não seja destinada a ações e serviços
+    públicos de saúde, manutenção e desenvolvimento do ensino, realização de atividades da administração tributária e prestação de
+    garantias às operações de crédito por antecipação de receita (art. 167, IV).
+    
+    
+    
+                                                                  480
+
+### Contexto na compilação — página 481
+
+    SAÚDE
+    
+    
+    FUNDO MUNICIPAL DE SAÚDE
+    
+    Resolução de Consulta 39/2010 (DOE, 07/06/2010). Saúde. Fundo Mu-
+    nicipal de Saúde. Natureza jurídica. CNPJ. Orçamento. Contabilida-
+    de. Administração. Prestação de contas.
+    1. Os recursos destinados às ações e serviços públicos de saúde e os
+    transferidos pelo Estado e União, para a mesma finalidade, serão apli-
+    cados por meio do Fundo Municipal de Saúde, com acompanhamen-
+    to e fiscalização pelo Conselho Municipal de Saúde e pelos órgãos de
+    controle interno e externo, conforme determina o artigo 77, do Ato das
+    Disposições Constitucionais Transitórias.723
+    2. O Fundo Municipal de Saúde será criado por lei específica, como
+    fundo especial, sem personalidade jurídica, estando vinculado ad-
+    ministrativamente à secretaria municipal de saúde, salvo opção do
+    ente estatal pela descentralização dos serviços públicos de saúde por
+    meio de entidades de natureza autárquica, com personalidade jurídi-
+    ca de direito público, integrantes da Administração Pública Indireta.724
+    3. É obrigatória a inscrição do Fundo Municipal de Saúde no CNPJ, por
+    força do que determina a Instrução Normativa RFB n° 2.119/2022. A
+    inscrição no CNPJ não equipara os fundos especiais a pessoas jurídi-
+    cas, nem lhes confere personalidade jurídica.725
+    4. Nas peças de planejamento do ente deve ser criada uma unidade or-
+    çamentária própria do Fundo Municipal de Saúde, dentro da estrutura
+    orçamentária da respectiva secretaria municipal de saúde, incluin-
+    do os programas específicos a serem executados com os recursos
+    
+    
+    723 O Ato das Disposições Constitucionais Transitórias (ADCT) prevê que “Os recursos dos Estados, do Distrito Federal e dos Municí-
+    pios destinados às ações e serviços públicos de saúde e os transferidos pela União para a mesma finalidade serão aplicados por meio
+    de Fundo de Saúde que será acompanhado e fiscalizado por Conselho de Saúde” (art. 77, § 3º). A Lei Complementar 141/2012 dispõe que
+    “as despesas com ações e serviços públicos de saúde realizadas pela União, pelos Estados, pelo Distrito Federal e pelos Municípios
+    deverão ser financiadas com recursos movimentados por meio dos respectivos fundos de saúde (art. 2°, parágrafo único).
+    724 A Lei 4.320/1964 dispõe que o fundo especial, produto de receitas especificadas que se vinculam à realização de determinados
+    objetivos ou serviços, deve ser criado por lei específica (art. 71).
+    725 Conforme Anexo I da Instrução Normativa RFB n° 2.119/2022, no rol de entidades obrigadas a se inscrever no CNPJ incluem-se os
+    fundos públicos a que se refere o art. 71 da Lei 4.320/1964.
+    
+    
+    
+                                                                  481
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

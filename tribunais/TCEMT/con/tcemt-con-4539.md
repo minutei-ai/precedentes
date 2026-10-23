@@ -186,4 +186,191 @@ Inventário visual: 2 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 2 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 17/2024 – PP (DOC, 08/10/2024).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 293
+
+    Resolução de Consulta 4/2025 – PP (09/05/2025). Patrimônio. Doa-
+    ção de bens. Situação de emergência. Estado de calamidade pública.
+    É possível a doação de bens para entes em situação de emergência
+    ou estado de calamidade pública, mesmo em ano eleitoral, desde que
+    haja: a) lei que autorize a doação; b) ato formal de doação; e c) ob-
+    servância aos requisitos dispostos no art. 62 da Lei Complementar
+    101/2000.
+    
+    Resolução de Consulta 17/2024 – PP (DOC, 08/10/2024). Patrimônio.
+    Bem público imóvel. Alienação e disponibilização. Competência mu-
+    nicipal. “Uso especial” por particular. Empreendimento comercial ou
+    industrial para desenvolvimento econômico e social. CDRU. Formali-
+    zação preferencial e requisitos.370
+    1. As formas de alienação e disponibilização de bens imóveis apresen-
+    tadas na Lei 14.133/2021 (art. 76) não configuram um rol taxativo e ca-
+    racterizam “norma geral” a ser observada pela Administração Pública
+    municipal, que tem competência constitucional (art. 30, incisos I e II)
+    para prever em legislação própria um rol ampliado e autonomia admi-
+    nistrativa para escolher a melhor forma de alienar ou permitir o “uso
+    especial” de bens no caso concreto, desde que com amparo no orde-
+    namento jurídico vigente.
+    2. A Administração Pública Municipal pode disponibilizar ou permitir o
+    “uso especial” (transferir a posse e manter a propriedade) de bem pú-
+    blico imóvel por particular, desde que o bem esteja desafetado de sua
+    finalidade pública originária, para a instalação de empreendimento
+    comercial ou industrial, com o intuito de promover o desenvolvimen-
+    to econômico e social, priorizando obrigatoriamente a supremacia do
+    interesse público.
+    3. O “uso especial” do bem público imóvel para tal finalidade deve ser
+    formalizado preferencialmente por meio da Concessão de Direito Real
+    de Uso (CDRU), com fundamento na legislação federal (art. 7°, Decre-
+    to-lei 271/1967; e art. 76, Lei 14.133/2021), observados os seguintes
+    requisitos: a) interesse público devidamente justificado em processo
+    administrativo; b) autorização legislativa; c) amparo em regulamento
+    
+    370 A decisão revogou o prejulgado de tese contido no Acórdão 659/2006.
+    
+    
+    
+                                                                293
+
+### Contexto na compilação — página 294
+
+    normativo contendo procedimentos específicos; d) prévia avaliação e
+    desafetação do bem; e) licitação por meio da modalidade “leilão”, ob-
+    servadas as situações legais de “licitação dispensada”; f) observância
+    a outros requisitos da legislação pertinente (gestão fiscal e orçamen-
+    tária), além de princípios constitucionais basilares como eficiência,
+    publicidade, economicidade, moralidade e impessoalidade.
+    4. A utilização preferencial da CDRU na transferência da posse de bem
+    público imóvel a particular tem fundamento em atributos favoráveis
+    à segurança jurídica e supremacia do interesse público, a serem pre-
+    vistos por meio de regras correlatas na legislação municipal, dentre
+    eles: a) assegurar o uso e salvaguardar o imóvel, evitando especula-
+    ções prejudiciais ou alienações desvantajosas; b) limitar o conces-
+    sionário ao objetivo traçado para destinação conforme estabelecido
+    em lei; c) reservar ao concessionário a responsabilidade por todos os
+    encargos civis, administrativos e tributários incidentes sobre o imóvel
+    e suas rendas; e d) permitir a resolução da concessão antes de seu
+    termo, no caso de descumprimento a cláusulas ajustadas, com a pos-
+    sibilidade de não ressarcimento por benfeitorias realizadas.
+    
+    
+    
+    
+                                     294
+
+### Contexto na compilação — página 295
+
+    PESSOAL
+    
+    
+    ADMISSÃO DE PESSOAL: DISPOSIÇÕES GERAIS
+    
+    Resolução de Consulta 33/2013 (DOC, 17/12/2013). Pessoal. Admis-
+    são. Formas de ingresso no serviço público.
+    1. Em regra, a investidura em cargos com atribuições típicas, perma-
+    nentes e finalística da Administração Pública ocorre por meio de ad-
+    missão em concurso público, nos termos do inciso II, do artigo 37, da
+    CF/1988.
+    2. Como formas excepcionais de ingresso no serviço público, previs-
+    tas pela Constituição, estão os provimentos de cargos em comissão
+    (incisos II e V, do art. 37) e o preenchimento de funções por tempo de-
+    terminado para atender necessidades temporárias de excepcional in-
+    teresse público (inciso IX, do art. 37).
+    3. A criação de cargos em comissão pressupõe a existência de vínculo
+    de confiança e ad nutum, destinando-se exclusivamente ao exercício
+    das atribuições de direção, chefia e assessoramento.
+    4. A possibilidade de criação de cargos em comissão não é aferida
+    pela denominação que se lhe dá (assessor, chefe de departamento,
+    diretor etc.), mas sim pela natureza de suas atribuições.
+    5. É necessário que a legislação descreva as atribuições dos cargos
+    em comissão, demonstrando que as atividades se harmonizam com
+    o princípio da livre nomeação e exoneração e com a necessidade da
+    confiança da autoridade nomeante, sendo imperioso que o profissio-
+    nal exerça efetiva e estritamente as atribuições descritas na lei.
+    6. Não é permitida a criação de cargos em comissão para o de-
+    sempenho de atividades meramente burocráticas, ordinárias ou
+    operacionais.
+    
+    
+    
+    
+                                     295
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

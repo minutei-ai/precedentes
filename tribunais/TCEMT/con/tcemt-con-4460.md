@@ -127,4 +127,131 @@ Inventário visual: 2 imagens nesta página; consulte o PDF para os elementos gr
 
 -   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 12/2024 – PP (DOC, 02/07/2024).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 249
+
+    PROCEDIMENTO E JULGAMENTO
+    
+    Resolução de Consulta 17/2009 (DOE, 13/05/2009). Licitação. Pro-
+    cesso administrativo. Exigência de formalidades de acordo com re-
+    gras da Lei de Licitações.
+    1. Os processos administrativos licitatórios deverão ser autuados,
+    protocolados e rubricados a partir do recebimento da autorização do
+    ordenador para a contratação, com a indicação sucinta do objeto e do
+    recurso próprio para a despesa.274
+    2. O descumprimento de formalidades no processo administrativo
+    licitatório implica em vícios que, dependendo da gravidade, poderão
+    corromper e comprometer o certame, tornando-o nulo.275
+    
+    Resolução de Consulta 12/2024 – PP (DOC, 02/07/2024). Licita-
+    ção. Apresentação de propostas e lances. Redução de prazo (Lei
+    14.133/2021). Aquisições no âmbito do SUS.
+    É lícito ao Poder Executivo Estadual editar ato normativo que preveja
+    a aplicação da redução até a metade dos prazos para a apresentação
+    das propostas e lances, prevista no § 2°, do art. 55, da Lei 14.133/2021,
+    mediante decisão fundamentada na fase preparatória da licitação,
+    para as aquisições no âmbito do Sistema Único de Saúde (SUS).
+    
+    Resolução de Consulta 4/2022 – TP (DOC, 12/05/2022). Licitação.
+    Diligências. Pregoeiro ou Comissão de Licitações. Quantidade ou li-
+    mite geral. Princípios da razoabilidade, legalidade e supremacia do
+    interesse público.
+    1. Não existe quantidade certa ou limite geral de diligências a serem
+    promovidas pelo Pregoeiro ou Comissão de Licitações destinadas a
+    esclarecer ou a complementar a instrução do processo licitatório, de-
+    vendo o caso concreto ser norteado pela aplicação dos princípios ge-
+    rais do Direito, em especial os princípios da razoabilidade e legalidade,
+    274 Para os processos administrativos licitatórios formalizados na aplicação da Lei 14.133/2021, deve-se observar, conforme art. 12,
+    incisos I a VII, os seguintes requisitos: a) produção de documentos por escrito, com data e local de sua realização e assinatura dos res-
+    ponsáveis; b) adoção da moeda corrente nacional para os valores, preços e custos utilizados; c) formalidade moderada, invalidando-
+    -se o processo somente por falhas que comprometam a qualificação do licitante ou o conteúdo da proposta; d) prova de autenticidade
+    de cópia de documento mediante original ou declaração de autenticidade; e) reconhecimento de firma somente por dúvida de auten-
+    ticidade ou imposição legal; f) adoção preferencial de formalização digital dos atos; g) elaboração de plano anual de contratações.
+    275 Pela Lei 14.133/2021, o desatendimento de exigências meramente formais que não comprometam a aferição da qualificação do
+    licitante ou a compreensão do conteúdo de sua proposta não importará seu afastamento da licitação ou a invalidação do processo
+    administrativo licitatório (art. 12, III).
+    
+    
+    
+                                                                    249
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

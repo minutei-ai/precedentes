@@ -18,6 +18,11 @@ Identificação literal nas entradas da compilação:
 
     Acórdão 871/2005 (DOE, 05/07/2005).
 
+### Entrada temática 2
+
+    Resolução de Consulta 20/2012 (DOE, 06/11/2012) e Acórdão
+    871/2005.
+
 Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
 
 As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
@@ -124,5 +129,55 @@ As páginas de contexto abaixo preservam o texto extraível, inclusive notas de 
     
     
                                                               88
+
+### Contexto na compilação — página 265
+
+    Resolução de Consulta 20/2012 (DOE, 06/11/2012) e Acórdão
+    871/2005. Contrato. Terceirização. Serviço de vigilância.
+    O serviço de vigilância é passível de terceirização, mediante a contra-
+    tação de prestador de serviço legalmente habilitado e com observân-
+    cia às regras impostas pela Lei 8.666/1993.309
+    
+    Resolução de Consulta 14/2013 (DOC, 09/07/2013). Contrato. Tercei-
+    rização. Possibilidade. Requisitos.
+    1. A Administração Pública poderá celebrar contratos de terceiriza-
+    ção lícita, desde que preenchidos, cumulativamente, os seguintes
+    requisitos:
+    a) as atividades terceirizadas devem ser acessórias, instrumentais,
+    secundárias ou complementares às atribuições legais do órgão ou
+    entidade;
+    b) as atividades terceirizadas não podem ser inerentes a categorias
+    funcionais abrangidas pelo quadro de pessoal do órgão ou entidade,
+    salvo no caso de cargo ou categoria extintos ou em extinção; e,
+    c) não pode estar caracterizada relação de emprego entre a Adminis-
+    tração contratante e o executor direto dos serviços (obreiro).
+    2. Os contratos de terceirização devem ser precedidos de regular pro-
+    cedimento licitatório, de acordo com os ditames da Lei 8.666/1993.310
+    3. O Poder Público, na qualidade de contratante de serviços presta-
+    dos por pessoas jurídicas que possam, eventualmente, configurar a
+    caracterização de relação de emprego entre o obreiro e a Administra-
+    ção, deve adotar todos os cuidados e precauções necessárias para
+    evitar a aplicação da subsidiariedade trabalhista prevista no inciso V,
+    da Súmula 331, do TST311 c/c ADC n° 16/DF do STF.312
+    4. A contratação de pessoas físicas para a execução de atividades
+    acessórias e instrumentais da Administração, a título de terceiriza-
+    309 A possibilidade de terceirização do serviço de vigilância é compatível com a Resolução de Consulta 29/2013, que dispõe sobre
+    tal serviço como acessório e passível de não-cômputo como gasto com pessoal, desde que não corresponda a atribuições de cate-
+    goria funcional e não caracterize relação direta de emprego. A terceirização do serviço deve atender aos requisitos da Resolução
+    de Consulta 14/2013, e, a contratação com fundamento na Lei 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos) deve
+    observar aos respectivos dispositivos cabíveis.
+    310 A partir de 30/12/2023, com a revogação da Lei 8.666/1993, aplicam-se as disposições da Lei 14.133/2021.
+    311 Conforme TST, os entes da administração pública, em caso de conduta culposa no cumprimento de obrigações da Lei de Licita-
+    ções, respondem subsidiariamente pelo inadimplemento de obrigações trabalhistas por parte da empregadora prestadora de ser-
+    viço.
+    312 A Nova Lei de Licitações e Contratos (Lei 14.133/2021) trata sobre a temática, prevendo que somente o contratado será respon-
+    sável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato, salvo as contratações
+    de serviços contínuos com regime de dedicação exclusiva de mão de obra, em que a Administração responderá solidariamente pelos
+    encargos previdenciários e subsidiariamente pelos encargos trabalhistas se comprovada falha na fiscalização do cumprimento das
+    obrigações do contratado (art. 121, §§ 1° e 2°).
+    
+    
+    
+                                                                 265
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

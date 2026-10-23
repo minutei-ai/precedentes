@@ -18,6 +18,13 @@ Identificação literal nas entradas da compilação:
 
     Acórdão 942/2003 (DOE, 05/08/2003).
 
+### Entrada temática 2
+
+    Resolução de Consulta 40/2010 (DOE, 08/06/2010) e Acórdãos
+    2.107/2005 (DOE, 24/01/2006), 942/2003 (DOE, 05/08/2003),
+    903/2003 (DOE, 16/06/2003), 901/2003 (DOE, 16/06/2003) e 868/2003
+    (DOE, 16/06/2003).
+
 Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
 
 As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.

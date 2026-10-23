@@ -16,9 +16,14 @@ Identificação literal nas entradas da compilação:
 
 ### Entrada temática 1
 
-    Acórdão 558/2007 (DOE, 14/03/2007).
+    Resolução de Consulta 20/2010 (DOE, 29/04/2010) e Acórdão
+    558/2007 (DOE, 14/03/2007).
 
 ### Entrada temática 2
+
+    Acórdão 558/2007 (DOE, 14/03/2007).
+
+### Entrada temática 3
 
     Acórdãos 558/2007 (DOE, 14/03/2007), 1.170/2002 (DOE, 12/06/2002)
     e 1.134/2001 (DOE, 27/08/2001).
@@ -86,6 +91,49 @@ As páginas de contexto abaixo preservam o texto extraível, inclusive notas de 
                                      7
 
 ## Decisão
+
+### Contexto na compilação — página 108
+
+    CLASSIFICAÇÃO CONTÁBIL ORÇAMENTÁRIA
+    
+    Resolução de Consulta 52/2010 (DOE, 10/06/2010). Contabilidade. Bi-
+    blioteca Pública. Aquisição de livros e materiais bibliográficos. Clas-
+    sificação da despesa.71
+    1. Os livros e materiais adquiridos pelas Bibliotecas Públicas – tidas,
+    no sentido técnico do termo, como unidade bibliotecária destinada
+    indistintamente a todos os segmentos da comunidade – não são con-
+    siderados materiais permanentes, logo devem ser registrados como
+    material de consumo e incorporados ao patrimônio da entidade.
+    2. Os livros e materiais bibliográficos adquiridos pelas bibliotecas que
+    não são consideradas públicas, no sentido técnico do termo, ou seja,
+    aquelas destinadas a atender um segmento da comunidade com um
+    propósito específico – a exemplo da biblioteca escolar, a universitária,
+    a especial, a especializada e a infantil) – deverão manter os procedi-
+    mentos de aquisição e classificação da natureza de despesa como
+    material permanente e ser incorporados ao patrimônio.
+    3. O controle patrimonial desses livros, em qualquer dos casos, deve
+    ser realizado de modo simplificado, via relação do material (relação-
+    -carga), e/ou verificação periódica da quantidade de itens requisita-
+    dos, não existindo a necessidade de controle por meio de identifica-
+    ção do número do registro patrimonial.
+    
+    Resolução de Consulta 20/2010 (DOE, 29/04/2010) e Acórdão
+    558/2007 (DOE, 14/03/2007). Contabilidade. Despesa. Remuneração
+    de pessoas físicas. Observância às regras da Portaria Interministe-
+    rial 163/2001 e alterações posteriores.
+    1. As despesas com remuneração de pessoas físicas com vínculo na
+    Administração Pública devem ser contabilizadas, conforme o caso,
+    nas seguintes classificações: 3.1.90.04 – Contratação por tempo de-
+    terminado; 3.1.90.11 – Vencimentos e vantagens fixas – Pessoal civil.
+    2. As despesas com remuneração de serviços prestados por pessoas
+    físicas, sem vínculo com Administração Pública, devem ser registra-
+    das na classificação 3.3.90.36 – Outros serviços de terceiros – Pessoa
+    física.
+    71 Teses compatíveis com a Lei 10.753/2003 (Institui a Política Nacional do Livro) e Manual de Despesa Nacional.
+    
+    
+    
+                                                                   108
 
 ### Contexto na compilação — página 153
 

@@ -179,4 +179,166 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 18/2022 – PP (DOC, 14/12/2022).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 526
+
+    Resolução de Consulta 18/2022 – PP (DOC, 14/12/2022). Previdência.
+    Sistema de proteção social dos militares estaduais. Inatividade re-
+    munerada a pedido. Regra de transição. Art. 24-G, parágrafo único,
+    Decreto-Lei 667/1969. Cumprimento ao requisito mínimo de 25 anos
+    de atividade de natureza militar. Acréscimo de 4 meses para cada
+    ano faltante para completar o tempo de efetivo serviço exigido pela
+    norma estadual. Cálculo da remuneração proporcional. Requisitos
+    da inatividade proporcional a pedido ou compulsória para o serviço
+    militar. Cumprimento às exigências previstas em lei estadual. Com-
+    petência legislativa concorrente. Ausência de conflito de normas.
+    Direito adquirido. Vedação à utilização do tempo de serviço comple-
+    tado após a data limite de 31/12/2019.
+    1. Ao tratar da regra de transição, a expressão “tempo mínimo” pre-
+    vista no parágrafo único, do art. 24-G, do Decreto-Lei 667/1969, com
+    a redação determinada pela Lei Federal 13.954/2019, corresponde ao
+    tempo mínimo de exercício de atividade de natureza militar exigido
+    em lei estadual, o qual também pode ser chamado de “efetivo servi-
+    ço”. Dessa forma, o tempo mínimo de 25 anos de atividade de natureza
+    militar, estabelecido como um dos requisitos para a regra de transição
+    do citado dispositivo legal, sofrerá acréscimo de 4 meses para cada
+    ano que ainda faltar para o militar completar o tempo mínimo de ati-
+    vidade de natureza militar exigido pela norma estadual (art. 147, Lei
+    Complementar 555/2014).
+    2. Na hipótese de transferência do militar estadual, que ingressou na
+    Corporação até 31/12/2019, para a inatividade proporcional, seja ela a
+    pedido ou compulsória, o cálculo da remuneração deve ter como pa-
+    râmetro os critérios de concessão do subsídio integral de acordo com
+    a regra de transição do art. 24-G do Decreto-Lei 667/1969, com a nova
+    redação dada pela Lei Federal 13.954/2019, seguindo a lógica da cor-
+    respondência daquilo que ele receberia caso pretendesse o recebi-
+    mento do benefício na sua respectiva integralidade.
+    3. O inciso II, do art. 147, da Lei Complementar Estadual 555/2014 per-
+    manece em vigor, já que a Lei Federal 13.954/2019, ao estabelecer as
+    novas regras para o sistema de proteção social dos militares, não de-
+    
+    
+    
+    
+                                     526
+
+### Contexto na compilação — página 527
+
+    finiu os pressupostos temporais para a transferência do militar esta-
+    dual à inatividade com remuneração proporcional, de modo que, para
+    a concessão desse benefício, deve-se observar os critérios definidos
+    pela legislação estadual, editada com base na competência legislativa
+    concorrente definida pela Constituição Federal (art. 22, XXI, c/c art.
+    42, § 1°).
+    4. Na hipótese de pedido de transferência de militar estadual para a
+    inatividade com remuneração proporcional, fundamentada no direito
+    adquirido do art. 24-F do Decreto-Lei 667/1969 e no art. 147, inciso II,
+    da Lei Complementar Estadual 555/2014, deve-se computar, no cál-
+    culo da correspondente remuneração, o tempo de serviço completa-
+    do até 31/12/2019, não sendo possível incluir períodos que ultrapas-
+    sem aquela data limite.
+    
+    Resolução de Consulta 55/2011 (DOE, 15/09/2011). Previdência. Apo-
+    sentadoria. Policial Civil. Aplicação da Lei Complementar Federal
+    51/1985.
+    1. Enquanto não for editada lei complementar sobre Aposentadorias
+    Especiais pela União, regulamentando o § 4°, do artigo 40, da Consti-
+    tuição Federal, aplicam-se aos policiais civis, quanto à matéria, o pre-
+    visto na Lei Complementar Federal 51/1985 (atualizada pela Lei Com-
+    plementar 144/2014).842
+    2. O conceito de proventos integrais, previsto na referida norma, cor-
+    responde à última remuneração percebida no serviço ativo.
+    3. O escopo de aplicação da Lei Complementar 51/1985 será definido
+    conforme a legislação em vigor, na data em que ocorrer o preenchi-
+    mento dos requisitos para a aposentadoria.
+    
+    
+    
+    
+    842 Pela Emenda Constitucional 103/2019, ficou definido que cada ente federativo pode estabelecer, por lei complementar própria,
+    requisitos diferenciados de idade e tempo de contribuição para “aposentadoria especial” de policial (§ 4°-B, do art. 40, da CF/1988).
+    
+    
+    
+                                                                  527
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

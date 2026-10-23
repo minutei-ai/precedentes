@@ -267,4 +267,217 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 18/2010 (DOE, 29/04/2010).
+
+### Entrada temática 2
+
+    Resolução de Consulta 18/2010 (DOE, 29/04/2010).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 95
+
+    Federal 7.892/201356 ou outro normativo equivalente.
+    2. No caso de contratações de serviços administrativos por meio de
+    terceirização de mão de obra, todos os contratantes vinculados ao
+    SRP (órgão gerenciador, participantes ou aderentes/caronas) de-
+    vem observar as condições elencadas na Resolução de Consulta
+    14/2013-TP.
+    
+    Resolução de Consulta 18/2010 (DOE, 29/04/2010). Consórcio Públi-
+    co. Dispensa de licitação. Lei 8.666/1993 (art. 23, § 8º; art. 24, pará-
+    grafo único). Impossibilidade de interpretação conjugada.
+    1. As disposições legais prevendo hipóteses de dispensa ou inexigibili-
+    dade de licitação devem sofrer interpretação estrita, privilegiando-se
+    sempre a ampla disputa entre os interessados.
+    2. O limite de valores para dispensa de licitação para compras, obras
+    e serviços, estabelecido no art. 24, incisos I e II, da Lei 8.666/1993,
+    no caso de consórcios públicos, corresponde a 20% dos limites es-
+    tabelecidos na alínea “a”, dos incisos I e II, do art. 23, de acordo com
+    o § 1°, do art. 24, da Lei 8.666/1993, com a redação alterada pela Lei
+    12.715/2012.57
+    
+    
+    
+    
+    56 O Decreto Federal 7.892/2013 foi revogado pelo Decreto Federal 11.462/2023, que regulamenta os artigos 82 a 86 da Lei 14.133/2021,
+    para dispor sobre o sistema de registro de preços para a contratação de bens e serviços, inclusive obras e serviços de engenharia, no
+    âmbito da Administração Pública Federal direta, autárquica e fundacional.
+    57 Pela Lei 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos), os novos limites de valores que tornam dispensável a
+    licitação, no caso de obras e serviços de engenharia, serviços de manutenção de veículos automotores ou outros serviços e compras,
+    constam dos incisos I e II, do art. 75, com a possibilidade de duplicação desses valores no caso de compras, obras e serviços contra-
+    tados por consórcio público (art. 75, § 2°).
+    
+    
+    
+                                                                    95
+
+### Contexto na compilação — página 96
+
+    PESSOAL
+    
+    Resolução de Consulta 29/2008 (DOE, 25/07/2008). Consórcio Públi-
+    co. Pessoal. Formas de contratação.
+    1. O pessoal contratado pelos consórcios públicos revestidos da forma
+    de associação pública (personalidade jurídica de direito público) e por
+    aqueles revestidos da forma de associação civil (personalidade jurí-
+    dica de direito privado) não pode ser contemplado com a efetividade
+    e a estabilidade previstas no artigo 41, da Constituição Federal, com
+    redação da Emenda Constitucional 19/1998. O vínculo desse pessoal
+    é de natureza celetista, pelo que assumem a figura jurídica de empre-
+    gados públicos58, cuja admissão deverá ser precedida de processo se-
+    letivo59, tal qual previsto no artigo 37, inciso II, da Constituição Federal,
+    e a contribuição previdenciária será para o regime geral (INSS).
+    2. Poderá, ainda, o consórcio ser integrado por pessoal cedido pelos
+    entes consorciados, mantendo-se, nesse caso, o vínculo de origem
+    (Lei 11.107/2005, art. 4°, § 4°; Decreto 6.017/2007, art. 23).
+    3. Deve-se fazer constar cláusula específica, no protocolo de inten-
+    ções, a ser assinado pelos entes consorciados, sobre o número de
+    empregados, a forma de provimento e a remuneração dos emprega-
+    dos públicos, bem como os casos de contratação por tempo determi-
+    nado para atender à necessidade temporária de excepcional interesse
+    público (Lei 11.107/2005, art. 4°, IX; Decreto 6.017/2007, art. 5°, IX e X).
+    
+    Resolução de Consulta 8/2023 – PV (DOC, 03/07/2023). Consórcio
+    Público. Contratação de pessoal pelo ente associado. Despesas com
+    pessoal. Inclusão nos limites da LRF.60
+    1. A contratação de pessoal pelo ente municipal junto ao consórcio
+    público a que está associado, justificada pela superação do limite de
+    gastos com pessoal, configura burla à LRF.
+    
+    
+    58 O vínculo celetista como “empregado público” do pessoal dos consórcios é indicado na Lei 11.107/2005 (art. 4º, X) e Decreto
+    6.017/2007 (art. 5°, IX; art. 8°, § 2°).
+    59 Conforme Lei 11.107/2005 (art. 6°, § 2º) e Decreto 6.017/2007 (art. 7°, § 1°), os consórcios públicos de direito público ou privado
+    devem observar às normas de direito público quanto à admissão de pessoal. Assim, devem realizar processo seletivo simplificado
+    para os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público (Lei
+    11.107/2005, art. 4°, IX; Decreto 6.017/2007, art. 5°, X) ou concurso público para selecionar candidatos a ocuparem empregos públicos.
+    60 Decisão com efeitos modulados para fins de apreciação de Contas Anuais de Governo pelo Plenário do TCE/MT a partir do exercício
+    de 2024.
+    
+    
+    
+                                                                    96
+
+### Contexto na compilação — página 235
+
+    3. No âmbito da administração pública, a prestação de contas da
+    execução do objeto contratual, que deve cumprir prazo estabelecido
+    no contrato, inclui procedimentos de: a) acompanhamento e fiscali-
+    zação (art. 67, Lei 8.666/1993 ou art. 117, Lei 14.133/2021); e b) recebi-
+    mentos provisório e definitivo (art. 73, Lei 8.666/1993 ou art. 140, Lei
+    14.133/2021).
+    4. É vedada a exigência para que a sociedade cooperativa ou associa-
+    ção contratada por dispensa de licitação tenha sede no município lici-
+    tante, sob pena de comprometer, restringir ou frustrar o caráter com-
+    petitivo (art. 3°, § 1°, Lei 8.666/1993 ou art. 9°, I, “a” e “b”, Lei 14.133/2021),
+    salvo na situação excepcional em que, justificadamente, a instalação
+    local seja imprescindível para a execução do serviço de coleta seletiva
+    de resíduos sólidos urbanos.
+    
+    Resolução de Consulta 18/2010 (DOE, 29/04/2010). Licitação. Con-
+    sórcio público. Dispensa de licitação. Art. 23, § 8º; e parágrafo único,
+    do art. 24, da Lei 8.666/1993. Limite de 20% sobre o previsto na letra
+    a dos incisos I e II, do art. 23.
+    1. As disposições legais prevendo hipóteses de dispensa ou inexigibili-
+    dade de licitação devem sofrer interpretação estrita, privilegiando-se
+    sempre a ampla disputa entre os interessados.
+    2. O limite de valores para dispensa de licitação para compras, obras
+    e serviços, estabelecido no art. 24, incisos I e II, da Lei 8.666/1993,
+    no caso de consórcios públicos, corresponde a 20% dos limites es-
+    tabelecidos na alínea “a”, dos incisos I e II, do art. 23, de acordo com
+    o § 1°, do art. 24, da Lei 8.666/1993, com a redação alterada pela Lei
+    12.715/2012.249
+    
+    Resolução de Consulta 12/2014 – TP (DOC, 04/09/2014). Licitação.
+    Dispensa de processo licitatório. Chamada Pública. Alimentação es-
+    colar. Aplicação dos recursos do PNAE.
+    1. Para as aquisições de gêneros alimentícios fornecidos pela Agri-
+    cultura Familiar e/ou de Empreendedores Familiares Rurais ou suas
+    
+    249 Pela Lei 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos), os novos limites de valores que tornam dispensável a
+    licitação, no caso de obras e serviços de engenharia, serviços de manutenção de veículos automotores ou outros serviços e compras,
+    constam dos incisos I e II, do art. 75, com a possibilidade de duplicação desses valores no caso de compras, obras e serviços contra-
+    tados por consórcio público (art. 75, § 2°).
+    
+    
+    
+                                                                  235
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

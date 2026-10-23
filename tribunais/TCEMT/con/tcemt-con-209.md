@@ -205,4 +205,138 @@ EMENTA: CÂMARA MUNICIPAL DE PRIMAVERA DO LESTE. CONSULTA. DIVERSOS. CONTAS ANUA
     
     Resolução de Consulta 2808.odt
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 28/2008 (DOE, 17/07/2008).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 412
+
+    e disponibilizadas mesmo fora do prazo, em atendimento ao princípio
+    da continuidade e aos princípios contábeis aplicáveis à Administração
+    Pública.
+    
+    Resolução de Consulta 28/2008 (DOE, 17/07/2008). Prestação de
+    Contas. Contas anuais do prefeito. Julgamento pela câmara munici-
+    pal. Decreto legislativo. Possibilidade de anulação somente por de-
+    cisão judicial.
+    Não é possível a anulação do Decreto Legislativo que rejeitou as con-
+    tas anuais do prefeito, quando apreciadas pelo Tribunal de Contas e
+    reprovadas pela câmara municipal, órgãos constitucionalmente com-
+    petentes para análise técnica e julgamento de mérito, respectivamen-
+    te, sendo cabível a hipótese de anulação apenas quando decorrente
+    de decisão judicial.568
+    
+    
+    
+    
+    568 Com fundamento na ordem constitucional vigente, o Poder Judiciário pode anular o Decreto Legislativo por intermédio de peti-
+    ções como ação anulatória, mandado de segurança ou ação civil pública, quando houver, por exemplo, violação ao devido processo
+    legal, desrespeito ao contraditório e ampla defesa, ausência de motivação, desvio de finalidade, ofensa ao quórum qualificado e
+    ilegalidades na tramitação.
+    
+    
+    
+                                                                412
+
+### Contexto na compilação — página 413
+
+    INSTRUMENTOS DA LRF
+    
+    Resolução de Consulta 5/2015 – TP (DOC, 27/05/2015). Prestação de
+    Contas. RGF e RREO. Publicação na Imprensa Oficial. Obrigatoriedade.
+    É obrigatória a publicação do Relatório Resumido da Execução Orça-
+    mentária – RREO e do Relatório de Gestão Fiscal – RGF na imprensa
+    oficial de cada ente federado, nos termos dos artigos 52, caput, e
+    55, § 2°, da LRF, independentemente da obrigatoriedade e da efetiva
+    divulgação das informações constantes desses relatórios por quais-
+    quer outros meios eletrônicos, a exemplo do SICONFI, do SIOPE e do
+    SIOPS.569
+    
+    
+    
+    
+    569 Nos termos do art. 48, caput, da LRF, aos instrumentos de transparência da gestão fiscal, o que inclui o RGF e o RREO, deve ser
+    dada ampla divulgação, inclusive em meios eletrônicos de acesso público, ou seja, na imprensa oficial, e, de forma complementar, em
+    outros meios eletrônicos como Siconfi, Siope e Siops.
+    
+    
+    
+                                                                  413
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

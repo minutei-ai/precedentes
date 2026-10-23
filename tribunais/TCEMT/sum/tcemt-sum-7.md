@@ -540,4 +540,176 @@ Não houve OCR nem reconstrução de páginas rasterizadas. As páginas sem text
 
 É obrigatório o registro analítico da frota e a promoção do controle individualizado dos custos de manutenção e de abastecimento de cada veículo.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    SÚMULA Nº 7 (DOC, 30/04/2015).
+
+### Entrada temática 2
+
+    SÚMULA Nº 7
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 21
+
+    SÚMULA Nº 7
+    
+    É obrigatório o registro analítico da frota e a promoção do controle in-
+    dividualizado dos custos de manutenção e de abastecimento de cada
+    veículo.
+    
+    Publicação: DOC, 30/04/2015.
+    Fundamentação Legal:
+    - Lei Complementar nº 101/2000, art. 50, § 3º.
+    - Lei nº 4.320/64, art. 94.
+    Precedentes no TCE-MT:
+    Acórdão nº 04/2014 – Tribunal Pleno, Sessão de 18/02/2014, Processo
+    nº 7.591-4/2013, DOC de 05/03/2014 (Conselheiro Sérgio Ricardo);
+    Acórdão nº 1.078/2014 – Tribunal Pleno, Sessão de 27/05/2014, Proces-
+    so nº 7.611-2/2013, DOC de 06/06/2014 (Conselheiro Sérgio Ricardo);
+    Acórdão nº 1.081/2014 – Tribunal Pleno, Sessão de 27/05/2014, Proces-
+    so nº 7.589-2/2013, DOC de 06/06/2014 (Conselheiro Sérgio Ricardo);
+    Acórdão nº 1.157/2014 – Tribunal Pleno, Sessão de 10/06/2014, Proces-
+    so nº 7.561-2/2013, DOC de 04/07/2014 (Conselheiro Valter Albano);
+    Acórdão nº 1.200/2014 – Tribunal Pleno, Sessão de 26/06/2014, Pro-
+    cesso nº 7.735-6/2013, DOC de 11/07/2014 (Conselheiro Substituto Moi-
+    sés Maciel);
+    Acórdão nº 135/2013 – Primeira Câmara, Sessão de 25/09/2013, Pro-
+    cesso nº 12.809-0/2012, DOC de 08/10/2013 (Conselheiro Substituto
+    João Batista Camargo).
+    
+    
+    
+    
+                                      21
+
+### Contexto na compilação — página 119
+
+    classificado para facilitar a consulta, independentemente da forma de
+    arquivamento, física ou eletrônica.
+    
+    SÚMULA Nº 7 (DOC, 30/04/2015).
+    É obrigatório o registro analítico da frota e a promoção do controle in-
+    dividualizado dos custos de manutenção e de abastecimento de cada
+    veículo.
+    
+    
+    
+    
+                                      119
+
+### Contexto na compilação — página 120
+
+    CONVÊNIO E INSTRUMENTOS SIMILARES
+    
+    
+    PRESTAÇÃO DE CONTAS, DESPESAS, RESPONSABILIZAÇÃO E
+    VEDAÇÕES
+    
+    Resolução de Consulta 4/2015 – TP (DOC, 27/05/2015). Convênio.
+    Prestação de contas. Nexo de causalidade entre a aplicação dos re-
+    cursos e as despesas realizadas na finalidade do ajuste. Omissões
+    ou irregularidades. Imputação de débito. Responsáveis.
+    1. É dever constitucional e legal prestar contas da regular aplicação
+    de recursos públicos recebidos por meio de convênio, devendo os
+    respectivos responsáveis fazê-lo demonstrando a existência de nexo
+    causal entre os desembolsos realizados à conta do pacto colaborativo
+    e as despesas afetas à execução do seu objeto.
+    2. Na hipótese em que os documentos apresentados na prestação de
+    contas de convênio impossibilitarem o estabelecimento do nexo cau-
+    sal entre os desembolsos realizados à conta do pacto colaborativo e
+    as despesas afetas à execução do seu objeto, o ente, órgão ou enti-
+    dade concedente dos recursos deve promover a glosa, mesmo que o
+    objeto do ajuste tenha sido integral ou parcialmente executado.
+    3. A omissão ao dever de prestação de contas e o desvio de finalidade
+    na aplicação dos recursos também impõem à concedente o dever de
+    buscar o ressarcimento dos recursos repassados.
+    4. O ressarcimento integral de valores transferidos por meio de con-
+    vênios é imprescindível quando constatada a omissão total ao dever
+    de prestar contas.
+    5. Nos casos de omissão parcial, de desvio da finalidade ou de ausên-
+    cia do nexo causal entre os recursos transferidos e as despesas exe-
+    cutadas, o valor a ser ressarcido dependerá da análise de cada caso
+    concreto.
+    6. Para fins de responsabilização pelo ressarcimento do dano decor-
+    
+    
+    
+    
+                                    120
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

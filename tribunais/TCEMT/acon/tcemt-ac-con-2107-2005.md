@@ -16,6 +16,13 @@ Identificação literal nas entradas da compilação:
 
 ### Entrada temática 1
 
+    Resolução de Consulta 40/2010 (DOE, 08/06/2010) e Acórdãos
+    2.107/2005 (DOE, 24/01/2006), 942/2003 (DOE, 05/08/2003),
+    903/2003 (DOE, 16/06/2003), 901/2003 (DOE, 16/06/2003) e 868/2003
+    (DOE, 16/06/2003).
+
+### Entrada temática 2
+
     Acórdão 2.107/2005 (DOE, 24/01/2006).
 
 Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
@@ -81,6 +88,47 @@ As páginas de contexto abaixo preservam o texto extraível, inclusive notas de 
                                      7
 
 ## Decisão
+
+### Contexto na compilação — página 70
+
+    • Juros e multas da receita da Dívida Ativa Tributária.
+    2. Receitas de transferências:
+    • Transferências da União: FPM, ITR, IOF s/ ouro, ICMS desoneração
+    das exportações, CIDE; e
+    • Transferências do Estado: ICMS, IPVA, IPI exportação.
+    
+    Acórdão 868/2003 (DOE, 16/06/2003). Câmara Municipal. Despesa.
+    Limite. Gasto total. Base de cálculo. Não-inclusão dos créditos tri-
+    butários a receber.
+    Os créditos a receber, relativos a tributos, inscritos ou não em Dívida
+    Ativa, não compõem o cálculo do repasse ao Poder Legislativo, en-
+    quanto não arrecadados efetivamente.
+    
+    Acórdão 942/2003 (DOE, 05/08/2003). Câmara Municipal. Despesa.
+    Limite. Gasto total. Base de cálculo. Não-inclusão da receita prove-
+    niente de multas de trânsito.
+    As receitas provenientes de multas de trânsito não fazem parte da
+    base de cálculo do repasse ao Poder Legislativo, pois não são classifi-
+    cadas como receitas tributárias.
+    
+    Resolução de Consulta 40/2010 (DOE, 08/06/2010) e Acórdãos
+    2.107/2005 (DOE, 24/01/2006), 942/2003 (DOE, 05/08/2003),
+    903/2003 (DOE, 16/06/2003), 901/2003 (DOE, 16/06/2003) e 868/2003
+    (DOE, 16/06/2003). Câmara Municipal. Despesa. Limite. Gasto total.
+    Base de cálculo. Não-inclusão da receita proveniente de forneci-
+    mento de água e esgoto.
+    1. A receita proveniente de serviços de fornecimento de água e esgoto
+    não tem natureza tributária, uma vez que se caracteriza pela faculta-
+    tividade e não pela compulsoriedade, logo, a sua retribuição configura
+    tarifa, classificada como receita de serviços.
+    2. Esta receita não compõe a base de cálculo do repasse financeiro
+    ao Poder Legislativo municipal, por não ser classificada como receita
+    tributária, mas de serviço.
+    
+    
+    
+    
+                                      70
 
 ### Contexto na compilação — página 72
 

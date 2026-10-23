@@ -460,4 +460,289 @@ Não houve OCR nem reconstrução de páginas rasterizadas. As páginas sem text
 
 O valor do superávit financeiro apurado no balanço patrimonial do exercício anterior, utilizado para abertura ou reabertura de créditos adicionais, deve ser considerado na apuração do Resultado da Execução Orçamentária do exercício corrente.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    SÚMULA Nº 13 (DOC, 05/06/2017).
+
+### Entrada temática 2
+
+    SÚMULA Nº 13
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 27
+
+    SÚMULA Nº 13
+    
+    O valor do superávit financeiro apurado no balanço patrimonial do
+    exercício anterior, utilizado para abertura ou reabertura de créditos
+    adicionais, deve ser considerado na apuração do Resultado da Execu-
+    ção Orçamentária do exercício corrente.
+    
+    Publicação: DOC, 05/06/2017.
+    Fundamentação Legal:
+    - Constituição Federal/1988: art. 167, inciso V.
+    - Lei Complementar n° 101/2000: art. 4°, I, alínea “a”.
+    - Lei n° 4.320/1964: art. 43, § 1°, inciso I e art. 48, alínea “b”.
+    - Anexo da Resolução Normativa n° 43/2013 do TCE-MT.
+    - Orientação Normativa n° 04/2012/Comitê Técnico/TCE-MT: item n°
+    5.
+    Precedentes no TCE-MT:
+    Parecer Prévio n° 127/2010 – Tribunal Pleno, Sessão de 09/11/2010,
+    Processo n° 6.941-8/2010, DOC de 11/11/2010 (Conselheiro Humberto
+    Bosaipo);
+    Parecer Prévio n° 15/2012 – Tribunal Pleno, Sessão de 03/07/2012,
+    Processo n° 5.116-0/2012, DOE de 05/07/2012 (Conselheiro Antonio
+    Joaquim);
+    Parecer Prévio n° 60/2012 – Tribunal Pleno, Sessão de 21/08/2012,
+    Processo n° 6.541-2/2012, DOE de 23/08/2012 (Conselheiro Sérgio
+    Ricardo);
+    Resolução Normativa n° 43/2013 – Tribunal Pleno, Sessão de
+    10/12/2013, Processo n° 30.079-9/2013, DOC de 10/12/2013 (Conselhei-
+    ro José Carlos Novelli);
+    Parecer Prévio n° 74/2013 – Tribunal Pleno, Sessão de 22/10/2013,
+    Processo n° 10.209-1/2013, DOC de 07/11/2013 (Conselheiro Sérgio
+    Ricardo);
+    Parecer Prévio n° 10/2014 – Tribunal Pleno, Sessão de 08/07/2014,
+    Processo n° 7.550-7/2014, DOC de 21/07/2014 (Conselheiro Luiz Carlos
+    Pereira).
+    
+    
+    
+    
+                                     27
+
+### Contexto na compilação — página 111
+
+    EXECUÇÃO ORÇAMENTÁRIA
+    
+    SÚMULA Nº 13 (DOC, 05/06/2017).
+    O valor do superávit financeiro apurado no balanço patrimonial do
+    exercício anterior, utilizado para abertura ou reabertura de créditos
+    adicionais, deve ser considerado na apuração do Resultado da Execu-
+    ção Orçamentária do exercício corrente.
+    
+    Resolução Normativa 43/2013 (DOC, 10/12/2013). Contabilida-
+    de. Resultado da execução orçamentária. Apuração e valoração.
+    Diretrizes.77
+    1. Resultado da Execução Orçamentária: diferença entre a receita or-
+    çamentária executada (arrecadada) no período e a despesa orçamen-
+    tária executada (empenhada) no período.
+    2. Superávit de execução orçamentária: diferença positiva entre a re-
+    ceita orçamentária executada no período e a despesa orçamentária
+    executada no período.
+    3. Déficit de execução orçamentária: diferença negativa entre a re-
+    ceita orçamentária executada no período e a despesa orçamentária
+    executada no período.
+    4. O Resultado da Execução Orçamentária, no final no exercício, será
+    sempre apurado pela despesa empenhada; e durante o exercício será
+    apurado pela despesa liquidada.
+    5. Para fins de apuração do Resultado da Execução Orçamentária,
+    também deve-se considerar a despesa efetivamente realizada, ou
+    seja, cujo fato gerador já tenha ocorrido, mas que não foi empenha-
+    da no exercício (regime de competência), a exemplo da despesa com
+    pessoal e respectivos encargos não empenhados no exercício ao qual
+    pertencem.
+    6. Para fins de apuração do Resultado da Execução Orçamentária, de-
+    ve-se considerar juntamente com a receita arrecadada no exercício o
+    valor do superávit financeiro apurado no balanço do exercício anterior
+    utilizado para abertura ou reabertura de créditos adicionais.
+    7. O superávit financeiro apurado no balanço do exercício anterior
+    77 A decisão normativa, estabelecida pelo Plenário do TCE/MT, não decorreu de consulta realizada por fiscalizado, mas, de forma ex-
+    cepcional, faz parte desta Consolidação por tratar de importante matéria contábil e orçamentária, indicando teses orientativas que
+    alcançam e vinculam os jurisdicionados em sua atuação concreta, com valor jurídico similar ao das decisões prejulgadas.
+    
+    
+    
+                                                                   111
+
+### Contexto na compilação — página 112
+
+    deve ser calculado por fonte ou destinação de recursos, uma vez que
+    só pode ser utilizado como fonte de recursos para despesas compatí-
+    veis com sua vinculação.
+    8. O valor do superávit financeiro apurado no balanço do exercício,
+    em análise, não deve ser considerado na apuração do Resultado da
+    Execução Orçamentária, contudo pode configurar fator atenuante da
+    irregularidade.
+    9. O superávit financeiro apurado no balanço do exercício em análi-
+    se deve ser calculado por fonte ou destinação de recursos, uma vez
+    que só pode ser considerado como atenuante do déficit orçamentário
+    quando sua vinculação for compatível com as despesas que deram
+    origem ao déficit.
+    10. No cálculo do Resultado de Execução Orçamentária também deve-
+    -se levar em consideração a existência no Ente de RPPS superavitá-
+    rio, ou seja, RPPS que não dependa de aportes financeiros do Tesouro,
+    cuja arrecadação seja superior às despesas do RPPS. Nesse caso, o
+    valor das receitas e das despesas do RPPS devem ser expurgados do
+    cálculo do Resultado de Execução Orçamentária.
+    11. Constitui atenuante da irregularidade, a existência de déficit da
+    execução orçamentária causado por atraso ou não recebimento de
+    repasses financeiros relativos a transferências constitucionais, le-
+    gais ou voluntárias, cujo repasse estava programado para o exercício,
+    mas não fora efetuado por descumprimento de obrigação exclusiva
+    do ente repassador/concedente, desde que o ente recebedor tenha
+    contraído e empenhado obrigações de despesas a serem custeadas
+    com os recursos em atraso.
+    12. Constituem atenuantes da irregularidade:
+    a) a existência de créditos a receber correspondentes à falta de re-
+    passe de transferências constitucionais, legais ou voluntárias, efeti-
+    vamente programadas para o exercício, desde que o ente recebedor
+    tenha contraído e empenhado obrigações de despesas a serem cus-
+    teadas com os recursos em atraso; e
+    b) a existência de superávit financeiro no balanço do exercício anali-
+    sado, correspondente à fonte ou destinação de recurso que gerou o
+    
+    
+    
+    
+                                     112
+
+### Contexto na compilação — página 113
+
+    respectivo déficit de execução orçamentária, desde que não compro-
+    meta a execução do orçamento do exercício seguinte.
+    13. Não constitui atenuante da irregularidade, a existência de crédi-
+    tos a receber correspondentes à receita de competência do exercício
+    analisado, mas cujo repasse e respectiva arrecadação estejam pro-
+    gramados para exercício futuro.
+    14. Sempre que constatada a existência de déficit de execução orça-
+    mentária, o Tribunal de Contas deve identificar suas causas e deter-
+    minar as ações corretivas a serem adotadas pela gestão, como, por
+    exemplo, a instituição e efetivo cumprimento da programação orça-
+    mentária e financeira (artigos 8° e 13, da LRF c/c artigos 47 a 50, da Lei
+    4.320/1964), o efetivo acompanhamento das metas de resultado pri-
+    mário e nominal (artigos 4° e 53, III, da LRF) e a limitação de empenho
+    e de movimentação financeira nos casos previstos na LDO (art. 9°, da
+    LRF), dentre outras.
+    15. As despesas empenhadas, mas não liquidadas, devem ser anula-
+    das no encerramento do exercício, ressalvadas as despesas cujo fato
+    gerador já tenha ocorrido, ou seja, quando a fase de liquidação estiver
+    em andamento, as quais devem ser inscritas em restos a pagar não
+    processados. Havendo interesse da Administração na execução das
+    despesas cujos empenhos tenham sido anulados, essas devem ser
+    previstas e executadas no orçamento do exercício subsequente.
+    16. Os restos a pagar não processados, decorrentes de liquidações em
+    andamento, devem ser executados, ou seja, liquidados até o encer-
+    ramento do exercício subsequente ao de sua inscrição. Se não forem
+    liquidados até essa data, devem ser justificadamente cancelados no
+    encerramento do exercício subsequente.
+    17. O déficit de execução orçamentária deve ser apurado, exclusiva-
+    mente, nos processos de contas anuais de governo e deve ser clas-
+    sificado como irregularidade gravíssima, podendo levar à emissão
+    de parecer prévio contrário ao julgamento das contas, a depender do
+    valor do déficit, do comprometimento do endividamento público e da
+    presença de situações agravantes ou atenuantes da irregularidade.
+    18. Os atos de gestão que levam ao déficit de execução orçamentária
+    
+    
+    
+    
+                                       113
+
+### Contexto na compilação — página 114
+
+    constituem fatos autônomos que devem ser apurados nas contas de
+    gestão, para fins de julgamento das contas e aplicação de sanção ao
+    responsável, a exemplo de:
+    a) existência de despesas efetivamente realizadas, mas não empe-
+    nhadas no exercício de sua competência;
+    b) inexistência de programação mensal de desembolso (artigos 8° e
+    13, da LRF) e da programação trimestral da despesa orçamentária (ar-
+    tigos 47 a 50, da Lei 4.320/1964); e
+    c) não adoção das medidas de limitação de empenho e movimentação
+    financeira, previstas na LDO, quando se verificar que a realização da
+    receita poderá não comportar o cumprimento das metas de resultado
+    primário ou nominal estabelecidas no Anexo de Metas Fiscais da LDO
+    (art. 9°, da LRF).
+    
+    Resolução de Consulta 8/2016 – TP (DOC, 20/04/2016). Contabilida-
+    de. Orçamento Público. Cancelamento de restos a pagar não proces-
+    sados. Superávit financeiro.
+    O cancelamento de restos a pagar não processados contribui para a
+    formação do superávit financeiro, apurado por fonte de recursos, po-
+    dendo os valores correspondentes serem utilizados para abertura de
+    créditos suplementares ou especiais logo após o cancelamento, des-
+    de que o saldo superavitário apurado esteja vinculado à disponibilida-
+    de financeira.
+    
+    
+    
+    
+                                     114
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

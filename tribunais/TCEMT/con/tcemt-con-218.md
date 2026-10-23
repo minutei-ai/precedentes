@@ -234,4 +234,157 @@ EMENTA: COMPANHIA MATO-GROSSENSE DE GÁS. CONSULTA. DELIBERAÇÃO QUE NÃO CONST
     
     Resolução de Consulta 3708.odt
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 37/2008 (DOE, 18/09/2008).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 133
+
+    terizados ou não como serviços públicos não exclusivos do Estado,
+    desde que a atuação desta se dê, exclusivamente, em complementa-
+    riedade às atividades já implementadas e desenvolvidas pelo Estado.
+    3. “Prestação de serviços intermediários de apoio”, nos termos do pa-
+    rágrafo único, do art. 3°, da Lei 9.790/1999, deve ser entendida como
+    prestação de serviços acessórios e complementares, vinculados às
+    atividades de interesse público objeto do termo de parceria (ativida-
+    de-meio ou atividade-fim).
+    4. A realização de eventos, consultorias e assessorias técnicas por
+    meio de OSCIP somente será permitida se prevista no termo de par-
+    ceria e se estiver diretamente relacionada com o objeto conveniado.
+    5. O Termo de Parceria está submetido aos limites do § 1°, do art. 65, da
+    Lei 8.666/199398, salvo se expressamente previsto no instrumento e
+    desde que eventuais acréscimos ou supressões não descaracterizem
+    ou modifiquem as finalidades da parceria originalmente firmada.
+    6. O programa de trabalho, objeto do Termo de Parceria, deve ser ela-
+    borado pela OSCIP parceira e poderá sofrer alterações ao longo da
+    execução, com maior ou menor nível de detalhamento em relação ao
+    programa originalmente previsto. Eventuais alterações, porém, de-
+    vem manter correlação com o programa original e compatibilidade
+    com a programação orçamentária, objetivos e metas de planejamen-
+    to do parceiro estatal.
+    7. Os gastos com pessoal da OSCIP parceira não devem ser computa-
+    dos na aferição do limite de gasto total com pessoal do ente público
+    parceiro, nos termos da Lei de Responsabilidade Fiscal, quando as
+    atividades de interesse público por ela executadas sejam em comple-
+    mentação à ação estatal e estejam previstas no artigo 3°, da Lei n°
+    9.790/1999.99
+    
+    Resolução de Consulta 37/2008 (DOE, 18/09/2008). Termo de Coo-
+    peração Financeira. Sociedades de Economia Mista. Doações a ente
+    público. Condições.100
+    1. As sociedades de economia mista poderão fazer doações a ente
+    público, desde que haja autorização do Conselho de Administração,
+    98 Esses mesmos limites foram reafirmados pela Lei 14.133/2021 no art. 125.
+    99 A tese do item 7 foi mantida pela Resolução de Consulta 17/2022–PP.
+    100 As teses estão sob avaliação para verificar compatibilidade com o ordenamento jurídico vigente.
+    
+    
+    
+                                                                 133
+
+### Contexto na compilação — página 134
+
+    os valores não comprometam a liquidez da sociedade, seja respeita-
+    do o direito dos acionistas minoritários e sejam cumpridas as normas
+    tributárias.
+    2. O registro deve ser feito no livro diário como fato contábil e, para
+    dar transparência ao ato, que seja firmado entre a sociedade e o ente
+    público “Termo de Cooperação Financeira”, com a devida autorização
+    da assembleia geral e concordância dos acionistas minoritários.
+    
+    Resolução de Consulta 7/2024 – PV (DOC, 30/04/2024). Convênios
+    e instrumentos congêneres. Associação Representativa de Municí-
+    pios. Recebimento de recursos financeiros para o desenvolvimento
+    de projetos relacionados a questões de competência municipal.
+    A Associação Mato-Grossense dos Municípios pode receber recursos
+    públicos ou privados para financiar projetos relacionados a questões
+    de competência municipal e para constituir programas de assessora-
+    mento e assistência aos municípios filiados, quando relativos a assun-
+    tos de interesse comum, desde que seja observada a forma de pactu-
+    ação estabelecida nas legislações pertinentes e não caracterizem a
+    gestão associada de serviços públicos de interesse comum ou a reali-
+    zação de atividades e serviços públicos próprios dos seus associados,
+    conforme previsto na Lei 14.341/2022.
+    
+    
+    
+    
+                                     134
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

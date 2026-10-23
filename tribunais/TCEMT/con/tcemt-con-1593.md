@@ -167,4 +167,128 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 9/2015 – TP (DOC, 27/08/2015).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 222
+
+    Resolução de Consulta 9/2015 – TP (DOC, 27/08/2015). Licitação. Re-
+    gistro de Preços. Ata de Registro de Preços realizada por entidade
+    de direito privado mantida exclusivamente com recursos públicos.
+    Adesão por entes federativos associados. Possibilidade.229
+    1. Uma entidade de direito privado que utilize, arrecade, guarde, geren-
+    cie ou administre dinheiros, bens e valores públicos deve submeter-se
+    às mesmas normas aplicáveis aos órgãos ou entidades da Administra-
+    ção Pública, no que se refere à obrigatoriedade de prestar contas e de
+    ser fiscalizada pelo Tribunal de Contas.
+    2. É possível que uma entidade de direito privado, sem fins lucrativos,
+    instituída na forma de Associação, para atuar exclusivamente em prol
+    de municípios que a ela se associarem, realize procedimentos do sis-
+    tema de registro de preços para eventual aquisição de bens e serviços
+    pelos associados que aderirem à respectiva Ata.
+    3. A realização de procedimentos para constituição de Ata de Regis-
+    tro de Preços, para eventual e futura aquisição por órgãos e entidades
+    públicos, deve observar rigorosamente os princípios e normas aplicá-
+    veis à Administração Pública.
+    4. A implantação do Sistema de Registro de Preços na Administração
+    Pública exige procedimentos rigorosos, entre eles: inventário de da-
+    dos para diagnóstico de necessidades e expectativas de aquisição;
+    tratamento dos dados e especificação de qualidade e padrões; defi-
+    nição de quantidades; ampla pesquisa de preços no mercado; entre
+    outros, a serem conduzidos por Órgão Gerenciador integrante da Ad-
+    ministração Pública.
+    
+    Resolução de Consulta 23/2023 – PV (DOC, 14/12/2023). Licita-
+    ção. Centrais de Compras. Compras em grande escala. Consórcios
+    públicos.
+    Os entes federativos, independentemente do número de habitantes,
+    poderão instituir centrais de compras com objetivo de realizar com-
+    pras em grande escala ou constituir consórcios públicos para realiza-
+    ção dessas atividades, para atender aos órgãos e entidades sob sua
+    competência, com fundamento no art. 181 da Lei 14.133/2021.
+    229 A título de revisão, as teses da decisão estão sob avaliação para verificar compatibilidade com a legislação vigente, incluindo
+    a Lei 14.341/2022, que veda às Associações de Representação de Municípios “a gestão associada de serviços públicos de interesse
+    comum, assim como a realização de atividades e serviços públicos próprios dos seus associados” (art. 4°, I).
+    
+    
+    
+                                                                 222
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

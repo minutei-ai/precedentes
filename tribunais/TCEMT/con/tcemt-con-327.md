@@ -384,4 +384,219 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 53/2010 (DOE, 23/06/2010).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 347
+
+    DESPESA COM PESSOAL: ADEQUAÇÃO AO LIMITE
+    
+    Resolução de Consulta 1/2020-TP (DOC, 05/05/2020). Pessoal. Li-
+    mite. Despesa com pessoal. Interpretação da vedação prevista no
+    inciso IV, do art. 22, da LRF.
+    É possível a nomeação de servidores nas áreas de saúde, educação e
+    segurança, ainda que o limite máximo da Despesa Total com Pessoal
+    esteja extrapolado, somente para reposição de vagas decorrentes de
+    aposentadoria e falecimento, mas, nesse caso, incidem as disposi-
+    ções contidas nos artigos 22 e 23 da Lei de Responsabilidade Fiscal e
+    nos §§ 3° e 4°, do art. 169, da Constituição Federal.
+    
+    Acórdão 727/2005 (DOE, 09/06/2005). Pessoal. Limite. Despesa com
+    pessoal. Adequação ao limite. Adoção das medidas cabíveis.
+    Caso a despesa total com pessoal do Poder ou órgão ultrapasse os
+    limites definidos no art. 20, da Lei de Responsabilidade Fiscal, o per-
+    centual excedente deverá ser eliminado nos dois quadrimestres se-
+    guintes, sem prejuízo das medidas previstas no art. 22. Pelo menos um
+    terço do excedente deverá ser eliminado já no primeiro quadrimestre
+    seguinte, adotando-se, também, as providências previstas nos §§ 3°
+    e 4°, do art. 169, da Constituição Federal. Outras medidas poderão ser
+    adotadas visando o ajuste da despesa total com pessoal, dentre as
+    quais, o aumento da arrecadação de receitas próprias.453
+    
+    Resolução de Consulta 53/2010 (DOE, 23/06/2010). Pessoal. Limite.
+    Despesa com Pessoal. Limite. Cálculo. Adequação ao limite indepen-
+    dente de alerta. Vedações legais ao ultrapassar o limite prudencial.
+    Adoção das medidas cabíveis para recondução ao limite máximo.
+    Responsabilidades do controlador interno. Inclusão de parcelas de
+    férias, gratificação natalina, terço constitucional de férias e abono
+    pecuniário no cálculo.
+    1. Tendo o Poder ou órgão atingido o limite prudencial de 95% da des-
+    453 A tese tem fundamento na LRF, que prevê a necessidade de eliminar o percentual excedente aos limites da despesa total com
+    pessoal nos 2 quadrimestres seguintes, sendo pelo menos um terço no primeiro, adotando-se, entre outras, as providências previs-
+    tas nos §§ 3° e 4°, do art. 169, da CF/1988 (art. 23, caput), que dizem respeito à redução em pelo menos 20% das despesas com cargos
+    em comissão e funções de confiança e exoneração dos servidores não estáveis pelos entes federativos. Em relação ao aumento da
+    arrecadação como medida para ajuste da despesa total com pessoal, há conformidade com a LRF, que estabelece “a instituição, pre-
+    visão e efetiva arrecadação de todos os tributos da competência constitucional do ente da Federação” como requisitos essenciais da
+    responsabilidade na gestão fiscal (art. 11, caput).
+    
+    
+    
+                                                                  347
+
+### Contexto na compilação — página 348
+
+    pesa com pessoal, sujeita-se às vedações impostas pelo art. 22, da
+    Lei de Responsabilidade Fiscal, e, no caso em que se verificar que os
+    percentuais de gasto excederam aos limites máximos previstos na
+    LRF, o gestor deverá aplicar as medidas previstas nos §§ 3° e 4°, do
+    art. 169, da Constituição Federal. Em ambos os casos as vedações e/
+    ou medidas serão observadas independentemente de notificação dos
+    órgãos de controle interno ou externo.
+    2. As medidas previstas no § 3°, do art. 169, da CF/1988 devem ser
+    adotadas sucessivamente, iniciando-se pela redução em pelo menos
+    20% das despesas com cargos em comissão e função de confiança,
+    seguida da exoneração dos servidores não estáveis, e, caso essas
+    medidas não sejam suficientes para assegurar o cumprimento aos li-
+    mites legais, o servidor estável poderá perder o cargo. A Lei Federal
+    9.801/1999, que disciplina a perda de cargo público por servidor es-
+    tável em razão de excesso de despesa com pessoal, é de observân-
+    cia obrigatória por todos os entes federados, sendo inconstitucionais
+    quaisquer outras medidas emitidas em desacordo com essa norma
+    pelas demais unidades da Federação. Quando a exoneração parcial
+    dos servidores não estáveis for suficiente para recondução da des-
+    pesa aos limites legais, lei específica do respectivo ente federativo
+    poderá estabelecer os requisitos objetivos e impessoais para exone-
+    ração desses servidores. Não havendo tal norma, aplica-se analogi-
+    camente a Lei Federal 9.801/99 à hipótese de exoneração parcial dos
+    servidores não estáveis. Em todo caso, a exoneração dos servidores
+    será precedida de ato normativo motivado dos chefes de cada um dos
+    Poderes do respectivo ente federativo, que observará os critérios
+    previstos na lei local ou nacional.454
+    3. A despesa com pessoal será calculada levando-se em conta os gas-
+    tos com despesa desta natureza no mês em referência e nos onze me-
+    ses anteriores, observando-se o regime de competência, com base
+    na Receita Corrente Líquida do mesmo período.455
+    4. No controle dos gastos com pessoal, o controlador interno deverá
+    acompanhar a aplicação e a observância das normas internas e verifi-
+    car se o cálculo das despesas com pessoal está sendo feito de modo
+    454 A Lei Federal 9.801/1999, que dispõe sobre as normas gerais para perda de cargo público por excesso de despesa, regula a exone-
+    ração de servidor público estável com referencial na CF/1988 e com base em condições específicas, a ser formalizada em ato norma-
+    tivo motivado dos Chefes de cada ente federativo contendo elementos próprios.
+    455 Tese com referencial na LRF, art. 18, § 2° e art. 19, caput.
+    
+    
+                                                                 348
+
+### Contexto na compilação — página 349
+
+    correto, inclusive analisando se há despesas que indevidamente não
+    foram consideradas na apuração do montante. Ultrapassados os li-
+    mites total ou prudencial, o responsável pelo controle interno deve
+    acompanhar as medidas a serem adotadas, bem como sugerir ao ges-
+    tor medidas para o retorno da despesa total com pessoal ao respecti-
+    vo limite, nos termos dos artigos 22 e 23, da Lei de Responsabilidade
+    Fiscal, e dos §§ 3° e 4°, do art. 169, da Constituição Federal.456
+    5. O pagamento de férias, gratificação natalina, um terço constitu-
+    cional de férias e abono pecuniário de férias concedido aos agentes
+    públicos no exercício da atividade deve ser computado na despesa
+    com pessoal. Já o abono pecuniário de férias pago em razão da perda
+    da condição de servidor não se amolda ao conceito de despesa com
+    pessoal.457
+    
+    Resolução de Consulta 44/2010 (DOE, 10/06/2010). Pessoal. Limite.
+    Despesa com pessoal. Adequação ao limite. Previsão legal de piso
+    salarial. Obrigatoriedade na concessão.
+    O Poder Público deverá reajustar o salário dos professores da edu-
+    cação básica a fim de obedecer ao piso salarial previsto na Lei
+    11.738/2008, e, concomitantemente a esse aumento, para que a des-
+    pesa com pessoal não exceda os 95% do limite previsto pela Lei de
+    Responsabilidade Fiscal, deverá o gestor adotar as providências
+    previstas nos artigos 22 e 23, da LRF, e no art. 169, da Constituição
+    Federal, a fim de não exceder os limites estipulados pela LRF. Outras
+    medidas poderão ser adotadas, visando ao cumprimento das deter-
+    minações da Lei 11.783/2008 e da LRF.458
+    
+    
+    
+    
+    456 A CF/1988 prevê a comprovação da legalidade na aplicação dos recursos públicos como uma das finalidades do sistema de con-
+    trole interno (art. 74, II).
+    457 Conforme LRF, computam-se na despesa total com pessoal quaisquer espécies remuneratórias, inclusive adicionais (art. 18,
+    caput).
+    458 A Resolução de Consulta 10/2024-PV condicionou a regulamentação e fixação do piso salarial do magistério à necessária edição
+    de lei específica pelo Congresso Nacional (art. 212-A, XII, CF/1988), dispondo que não há na estrutura normativa brasileira lei espe-
+    cífica capaz de tal intuito. Estabelece, ainda, que, quando houver lei regulamentadora, a adequação remuneratória ao piso nacional
+    deverá observar o limite prudencial legal da despesa com pessoal (95%).
+    
+    
+    
+                                                                  349
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

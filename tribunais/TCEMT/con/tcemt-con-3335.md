@@ -168,4 +168,218 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 -   [http://www.tce.mt.gov.br/](http://www.tce.mt.gov.br/)
 
+## Outra fonte oficial
+
+[TCEMT — Consolidação de Entendimentos Técnicos, 14ª edição](https://www.tce.mt.gov.br/publicacao/consolidacao-de-entendimentos/35)
+
+**Situação informada:** Entendimento publicado na consolidação de 2026; situação jurídica atual não confirmada. Confira notas históricas e de revisão nas páginas de contexto.
+
+### Informações do catálogo oficial
+
+[Consolidação de Entendimentos Técnicos — 14ª edição, 2026](https://www.tce.mt.gov.br/conteudo/download/consolidacao-de-entendimentos-tecnicos-14-edicao-pdf/161124). Publicação oficial 381; arquivo 161124. Duas leituras idênticas do PDF de 556 páginas. A edição abrange decisões de janeiro de 2001 a dezembro de 2025.
+
+Identificação literal nas entradas da compilação:
+
+### Entrada temática 1
+
+    Resolução de Consulta 5/2020 – TP (DOC, 23/11/2020).
+
+### Entrada temática 2
+
+    Resolução de Consulta 5/2020-TP (DOC, 23/11/2020).
+
+Uma identidade por ato, reunindo suas ocorrências temáticas. Entradas que atribuem o mesmo entendimento a vários acórdãos foram vinculadas a cada ato expressamente identificado. Decisões apenas citadas no corpo ou em notas não foram contadas como novos precedentes.
+
+As páginas de contexto abaixo preservam o texto extraível, inclusive notas de rodapé, avisos de revisão e entradas vizinhas. Cada página pode tratar de outros atos; seu conteúdo integral não é atribuído exclusivamente ao registro. O material é uma compilação de entendimentos, sem substituir o inteiro teor do acórdão ou processo. Tipografia, negrito, itálico e apresentação gráfica foram simplificados; não houve OCR nem reconstrução de tabelas ou texto visual.
+
+### Nota geral da edição — página 6
+
+    APRESENTAÇÃO
+    
+    No cumprimento de sua missão de controlar a gestão dos recursos
+    públicos, de forma a contribuir para a qualidade do gasto e a efetivi-
+    dade na prestação dos serviços públicos, o Tribunal de Contas for-
+    talece o valor estratégico da transparência ao disponibilizar a Con-
+    solidação de Entendimentos Técnicos, instrumento com previsão
+    regimental que reúne, de forma organizada e acessível, os seus pre-
+    julgados em tese e súmulas vigentes.
+    
+    A edição ora divulgada passou por revisão de conteúdo e atualização
+    conforme a legislação vigente e a revogação (explícita ou tácita) de
+    teses anteriores. Foi também anotada para conter, prioritariamen-
+    te, referências à Constituição Federal e à legislação ordinária, além
+    de indicar notas técnicas, jurídicas e jurisprudenciais, bem como a
+    compatibilidade entre entendimentos do Tribunal de Contas.
+    
+    Os precedentes decorrentes de decisões em consulta, súmulas e
+    prejulgados estão organizados por áreas temáticas de maior abran-
+    gência, subdivididas em assuntos mais específicos. No caso das sú-
+    mulas, são também apresentadas inicialmente em ordem numérica
+    crescente, acompanhadas da fundamentação legal e dos preceden-
+    tes que lhes deram origem. Algumas teses podem constar em mais
+    de uma área temática, em razão da amplitude e da transversalidade
+    do tema tratado.
+    
+    Em cumprimento ao Regimento Interno, a Consolidação inclui enten-
+    dimentos que se encontram sob análise para possível revisão, acom-
+    panhados de respectiva nota explicativa em rodapé, até que seja
+    proferida a deliberação colegiada definitiva.
+    
+    Algumas decisões em consulta foram mantidas, a título histórico,
+    apenas no sistema de jurisprudência, por tratarem de teses aplicá-
+    veis a fatos ocorridos sob a vigência de legislação revogada (atuali-
+    
+    
+    
+    
+                                      6
+
+### Nota geral da edição — página 7
+
+    zada), por se referirem a situações peculiares específicas ou por não
+    se aplicarem a circunstâncias atuais.
+    
+    Quanto às teses fundamentadas na Lei 8.666/1993, revogada a par-
+    tir de 30/12/2023, foram mantidas na Consolidação com as devidas
+    anotações relativas à Lei 14.133/2021 (Nova Lei de Licitações e Con-
+    tratos), uma vez que ainda são aplicáveis pelo Tribunal de Contas no
+    julgamento de contas de períodos anteriores à revogação.
+    
+    
+    
+    
+                                     7
+
+### Decisão
+
+### Contexto na compilação — página 334
+
+    4. As despesas de pessoal decorrentes de decisões judiciais indeni-
+    zatórias de caráter transitório ou permanente observarão o disposto
+    nos itens 1, 2 e 3 desta decisão.
+    5. Os gastos de pessoal decorrentes de decisão judicial que determi-
+    nar a contratação de pessoal ou de prestação de serviços de subs-
+    tituição de mão de obra devem ser incluídos no total de gastos de
+    pessoal no período de apuração (mês de referência e os 11 meses ime-
+    diatamente anteriores - § 2º, do art.18, da LRF), sem a possibilidade de
+    dedução, ainda que não haja previsão no Plano Plurianual (PPA), na Lei
+    de Diretrizes Orçamentárias (LDO) e na Lei Orçamentária Anual (LOA).
+    6. Para realizar as despesas de pessoal a que se refere o item 5, o ente
+    federado deverá propor alteração no PPA, na LDO e na LOA.
+    
+    Resolução de Consulta 5/2020 – TP (DOC, 23/11/2020). Pessoal.
+    Despesa com pessoal. Contribuição previdenciária patronal para o
+    RPPS.428
+    A contribuição previdenciária patronal para o Regime Próprio de Pre-
+    vidência Social dos entes federados, inclusive a sua majoração, cons-
+    titui despesa total com pessoal e deve estar incluída na Lei Orçamen-
+    tária Anual.429
+    
+    Resolução de Consulta 9/2021 – TP (DOC, 17/09/2021). Pessoal. DTP.
+    Auxílio-doença e salário-maternidade. Salário-família, auxílio-re-
+    clusão e outros benefícios suportados pelo RPPS. Adequação às
+    disposições da EC 103/2019.
+    Em decorrência das disposições da Emenda Constitucional 103/2019:
+    a) as despesas com o auxílio-doença (ou licença para tratamento de
+    saúde) e o salário-maternidade (ou licença-maternidade) poderão ser
+    suportados com recursos do Tesouro do ente federado e integrarão o
+    cômputo da Despesa Total com Pessoal – DTP; e
+    b) as despesas com salário-família, auxílio-reclusão ou outros bene-
+    fícios anteriormente suportados por RPPS poderão ser pagos com
+    recursos do Tesouro do ente federado, passando a ser considerados
+    428 Esta decisão também trata de aspectos da Lei Complementar 173/2020, art. 8º, incisos IV e IX, conforme informados no tópico
+    Temas Diversos.
+    429 Na Lei de Responsabilidade Fiscal, quaisquer espécies remuneratórias compõem o conceito de “despesa total com pessoal”,
+    inclusive “encargos sociais e contribuições recolhidas pelo ente às entidades de previdência” (art. 18, caput). Além disso, conforme
+    art. 19, § 1°, a contribuição previdenciária patronal não faz parte do rol taxativo das despesas não computadas no atendimento ao
+    limite de “despesa total com pessoal”.
+    
+    
+                                                                  334
+
+### Contexto na compilação — página 552
+
+    Resolução de consulta 6/2020-TP (DOC, 28/01/2021). Despesa. Lei
+    Complementar Federal (LC) 173/2020. Programa Federativo de En-
+    frentamento ao Coronavírus Sars-Cov-2 (Covid-19). Auxílio finan-
+    ceiro (art. 5º, inciso II). Aplicação do recurso para quitar obrigações
+    contraídas antes do início de vigência do estado de calamidade pú-
+    blica. Possibilidade. Recursos não vinculados. Necessidade de refa-
+    zer o processo da despesa pública.
+    O recurso do auxílio financeiro entregue pela União na forma do inci-
+    so II, do art. 5°, da LC 173/2020 não possui vinculação específica pre-
+    definida pela norma, podendo ser aplicado para financiar obrigações
+    contraídas antes do início de vigência do estado de calamidade públi-
+    ca provocado pelo Coronavírus, desde que financiadas com recursos
+    não vinculados (art. 8°, parágrafo único, da LRF), a fim de mitigar os
+    efeitos financeiros da pandemia, de modo a preservar o equilíbrio e a
+    sustentabilidade das contas públicas. Para tanto, o gestor público de-
+    verá refazer o processo de despesa desde sua etapa inicial, para fazer
+    constar na nota de empenho a nova fonte de recurso.
+    
+    Resolução de Consulta 5/2020-TP (DOC, 23/11/2020). Pessoal. Des-
+    pesa. Controle. Lei Complementar (LC) 173/2020. Programa Federa-
+    tivo de Enfrentamento à Covid-19. Art. 8º, incisos IV e IX. Montante
+    das despesas primárias correntes autorizado na LOA. Anuênios,
+    triênios, quinquênios e licenças-prêmio. Contagem de tempo para
+    cumprimento de período aquisitivo necessário à concessão de li-
+    cença-prêmio. Nomeação para cargo em comissão.
+    1. O referencial a ser observado para controlar o aumento de despe-
+    sas, tal como exigido pelos incisos IV e IX, do artigo 8°, da LC 173/2020,
+    é o montante da despesa primária corrente, previsto na respectiva Lei
+    Orçamentária Anual (LOA), estando vedada a abertura de crédito adi-
+    cional, suplementar e/ou especial, que o amplie (art. 51, § § 1° e 3°, do
+    ADCT da Constituição Estadual, c/c artigo 169, § 1°, inciso II, da Cons-
+    tituição Federal).882
+    2. O inciso IX, do artigo 8°, da LC 173/2020 não veda a concessão de
+    anuênios, triênios, quinquênios, licenças-prêmio, e sua respectiva
+    882 Conforme Resolução de Consulta 5/2021 – TP, “O dispositivo 1 constante da Resolução de Consulta 5/2020-TP apresenta conte-
+    údo normativo aplicado especificamente ao ente federado Estado de Mato Grosso e não alcança os municípios mato-grossenses,
+    independentemente de terem instituído, ou não, Regimes de Recuperação Fiscal”.
+    
+    
+    
+                                                               552
+
+### Contexto na compilação — página 553
+
+    conversão em pecúnia, e demais mecanismos equivalentes em favor
+    de servidor público que tenha preenchido todos os requisitos legais
+    para sua concessão (princípio da legalidade) antes do início da vigên-
+    cia da calamidade pública (artigo 8°, caput, da LC 173/2020 c/c artigo
+    65, caput, da LRF).
+    3.O inciso IX, do art. 8°, da LC 173/2020 não suspende a contagem de
+    tempo para cumprimento de período aquisitivo necessário à conces-
+    são de licença-prêmio, mas impede a concessão, bem como a sua
+    conversão em pecúnia durante o período vedado, as quais poderão
+    ser concedidas após 31/12/2021, de acordo com a disponibilidade or-
+    çamentário-financeira de cada ente.
+    4. O inciso IV, do art. 8°, da LC 173/2020 permite a nomeação para car-
+    go em comissão, desde que não acarrete aumento de despesa, obser-
+    vado o referencial disposto no item 1.
+    
+    Resolução de Consulta 3/2021 – TP (DOC, 21/05/2021). Pessoal. Re-
+    muneração. Revisão Geral Anual. Lei Complementar (LC) 173/2020
+    (art. 8º, inciso I). Proibição. Exceções. Determinação legal anterior,
+    com observância de condições. Sentença judicial transitada em
+    julgado.
+    1. O art. 8°, inciso I, da LC 173/2020 inclui a proibição à concessão de
+    Revisão Geral Anual, mas excepciona: a) a recomposição de perdas
+    inflacionárias, inclusive de forma retroativa, desde que autorizada em
+    lei específica anterior ao início da vigência da norma (28/05/2020),
+    ainda que aplicada durante o período vedado (até 31/12/2021); e, b) a
+    Revisão Geral determinada com base em sentença judicial transitada
+    em julgado.
+    2. Uma possível concessão excepcional de Revisão Geral Anual não
+    está explícita na exceção disposta no inciso VIII, do art. 8°, da LC
+    173/2020.
+    3. A possibilidade de concessão de Revisão Geral Anual, com base em
+    determinação legal anterior ao início da vigência da Lei Complementar
+    173/2020 (28/05/2020), deve atender à programação orçamentária, à
+    capacidade financeira da Administração e aos limites de despesa com
+    pessoal.
+    
+    
+                                      553
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
