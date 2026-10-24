@@ -170,7 +170,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1670509938.pdf) — O PDF possui página sem texto extraível. A transcrição e a conferência visual permanecem pendentes.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1670509938.pdf) — O PDF possui página sem texto extraível. A conferência visual da página física 2, em ampliações sucessivas, não tornou legíveis as notas de rodapé; a íntegra não foi publicada e essas notas não foram reconstruídas.
 
 [Despacho do coordenador](https://cgu.agu.gov.br/decor/arquivos/DespachoCoordenador1660063386.pdf) — vínculo derivado dos campos e do contrato público do portal; documento ainda não verificado nesta coleta. A existência do vínculo não comprova acesso ou recuperação da íntegra.
 
