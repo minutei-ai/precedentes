@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.119 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.150 registros únicos de 162 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -974,6 +974,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto no catálogo, com redação histórica de 2017 recuperada |
+| [MPRN](tribunais/MPRN/) | 31 | MPRN — Assentos 01–31 do Conselho Superior; relação oficial compilada, com variantes textuais e revogação preservadas |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 96 | CNMP — CALJ e 1º/2º Congressos de Defesa da Integridade |
