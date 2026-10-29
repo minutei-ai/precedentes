@@ -1,0 +1,69 @@
+# TRT17 · Súmula
+
+**65 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt17-sum-1.md) — Sem classificação expressa de vigência
+- [SUM 2](trt17-sum-2.md) — Cancelada
+- [SUM 3](trt17-sum-3.md) — Sem classificação expressa de vigência
+- [SUM 4](trt17-sum-4.md) — Cancelada
+- [SUM 5](trt17-sum-5.md) — Cancelada
+- [SUM 6](trt17-sum-6.md) — Sem classificação expressa de vigência
+- [SUM 7](trt17-sum-7.md) — Sem classificação expressa de vigência
+- [SUM 8](trt17-sum-8.md) — Cancelada
+- [SUM 9](trt17-sum-9.md) — Sem classificação expressa de vigência
+- [SUM 10](trt17-sum-10.md) — Sem classificação expressa de vigência
+- [SUM 11](trt17-sum-11.md) — Sem classificação expressa de vigência
+- [SUM 12](trt17-sum-12.md) — Sem classificação expressa de vigência
+- [SUM 13](trt17-sum-13.md) — Sem classificação expressa de vigência
+- [SUM 14](trt17-sum-14.md) — Cancelada
+- [SUM 15](trt17-sum-15.md) — Sem classificação expressa de vigência
+- [SUM 16](trt17-sum-16.md) — Sem classificação expressa de vigência
+- [SUM 17](trt17-sum-17.md) — Sem classificação expressa de vigência
+- [SUM 18](trt17-sum-18.md) — Cancelada
+- [SUM 19](trt17-sum-19.md) — Cancelada
+- [SUM 20](trt17-sum-20.md) — Sem classificação expressa de vigência
+- [SUM 21](trt17-sum-21.md) — Alterada; item II cancelado
+- [SUM 22](trt17-sum-22.md) — Sem classificação expressa de vigência
+- [SUM 23](trt17-sum-23.md) — Cancelada
+- [SUM 24](trt17-sum-24.md) — Sem classificação expressa de vigência
+- [SUM 25](trt17-sum-25.md) — Cancelada
+- [SUM 26](trt17-sum-26.md) — Sem classificação expressa de vigência
+- [SUM 27](trt17-sum-27.md) — Sem classificação expressa de vigência
+- [SUM 28](trt17-sum-28.md) — Sem classificação expressa de vigência
+- [SUM 29](trt17-sum-29.md) — Sem classificação expressa de vigência
+- [SUM 30](trt17-sum-30.md) — Sem classificação expressa de vigência
+- [SUM 31](trt17-sum-31.md) — Sem classificação expressa de vigência
+- [SUM 32](trt17-sum-32.md) — Sem classificação expressa de vigência
+- [SUM 33](trt17-sum-33.md) — Sem classificação expressa de vigência
+- [SUM 34](trt17-sum-34.md) — Cancelada
+- [SUM 35](trt17-sum-35.md) — Sem classificação expressa de vigência
+- [SUM 36](trt17-sum-36.md) — Cancelada
+- [SUM 37](trt17-sum-37.md) — Sem classificação expressa de vigência
+- [SUM 38](trt17-sum-38.md) — Sem classificação expressa de vigência
+- [SUM 39](trt17-sum-39.md) — Sem classificação expressa de vigência
+- [SUM 40](trt17-sum-40.md) — Cancelada
+- [SUM 41](trt17-sum-41.md) — Sem classificação expressa de vigência
+- [SUM 42](trt17-sum-42.md) — Cancelada
+- [SUM 43](trt17-sum-43.md) — Sem classificação expressa de vigência
+- [SUM 44](trt17-sum-44.md) — Sem classificação expressa de vigência
+- [SUM 45](trt17-sum-45.md) — Sem classificação expressa de vigência
+- [SUM 46](trt17-sum-46.md) — Cancelada
+- [SUM 47](trt17-sum-47.md) — Em revisão
+- [SUM 48](trt17-sum-48.md) — Sem classificação expressa de vigência
+- [SUM 49](trt17-sum-49.md) — Sem classificação expressa de vigência
+- [SUM 50](trt17-sum-50.md) — Sem classificação expressa de vigência
+- [SUM 51](trt17-sum-51.md) — Sem classificação expressa de vigência
+- [SUM 52](trt17-sum-52.md) — Sem classificação expressa de vigência
+- [SUM 53](trt17-sum-53.md) — Cancelada
+- [SUM 54](trt17-sum-54.md) — Sem classificação expressa de vigência
+- [SUM 55](trt17-sum-55.md) — Cancelada
+- [SUM 56](trt17-sum-56.md) — Sem classificação expressa de vigência
+- [SUM 57](trt17-sum-57.md) — Sem classificação expressa de vigência
+- [SUM 58](trt17-sum-58.md) — Sem classificação expressa de vigência
+- [SUM 59](trt17-sum-59.md) — Sem classificação expressa de vigência
+- [SUM 60](trt17-sum-60.md) — Sem classificação expressa de vigência
+- [SUM 61](trt17-sum-61.md) — Sem classificação expressa de vigência
+- [SUM 62](trt17-sum-62.md) — Sem classificação expressa de vigência
+- [SUM 63](trt17-sum-63.md) — Sem classificação expressa de vigência
+- [SUM 64](trt17-sum-64.md) — Sem classificação expressa de vigência
+- [SUM 65](trt17-sum-65.md) — Sem classificação expressa de vigência

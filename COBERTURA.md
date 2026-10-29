@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.645 registros únicos de 116 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.984 registros únicos de 124 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,19 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TRF1 — Coletânea oficial de súmulas](https://www.trf1.jus.br/trf1/conteudo/Sumula2026.pdf) | 61 | 61 | 0 |
+| [TJSE — Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) | 14 | 14 | 0 |
+| [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
+| [PGE/RJ — Enunciados próprios](https://pge.rj.gov.br/enunciados) | 55 | 55 | 0 |
+| [Rede-SIDH — Enunciados publicados pela PGE/RJ](https://pge.rj.gov.br/enunciados) | 10 | 10 | 0 |
+| [PGE/PI — Súmulas Administrativas, página reunida](https://www.pge.pi.gov.br/sumulas-administrativas/) | 66 | 66 | 0 |
+| [PGE/PI — Súmulas Administrativas, catálogo paginado](https://www.pge.pi.gov.br/sumulas/) | 65 | 0 | 65 |
+| [CRF/PB — Súmulas do catálogo oficial](https://www.sefaz.pb.gov.br/info/2016-01-11-17-25-20/crf) | 4 | 4 | 0 |
+| [TATE/PE — Súmulas e Atos Normativos](https://www.sefaz.pe.gov.br/Servicos/TATE/Paginas/Informacoes.aspx) | 8 | 8 | 0 |
+| [CAT/GO — Súmulas do catálogo oficial](https://goias.gov.br/economia/sumulas/) | 15 | 15 | 0 |
+| [PGE/GO — Súmulas Administrativas](https://goias.gov.br/procuradoria/sumulas-administrativas/) | 22 | 22 | 0 |
+| [TRT17 — Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas) | 65 | 65 | 0 |
+| [TRT17 — Lista de súmulas do portal](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas) | 62 | 0 | 62 |
 | [CCMG — Súmulas do catálogo oficial](https://www.fazenda.mg.gov.br/secretaria/conselho_contribuintes/sumulas/sumulas.html) | 7 | 7 | 0 |
 | [TJBA — Súmulas da Turma de Uniformização dos Juizados Especiais](https://www.tjba.jus.br/juizadosespeciais/wp-content/uploads/2026/06/SUMULAS_ATUALIZADAS_TU.pdf) | 55 | 55 | 0 |
 | [TJBA — Súmulas do catálogo institucional](https://www.tjba.jus.br/portal/sumulas/) | 29 | 12 | 17 |
@@ -757,6 +770,14 @@ O catálogo do Tribunal de Impostos e Taxas do Estado de São Paulo acrescenta 1
 
 O catálogo institucional do CCMG acrescenta sete súmulas, nºs 01 a 07, com textos e links de documentos associados conferidos em duas leituras em 29/10/2026. As nºs 02 a 06 trazem nota expressa de revogação, preservada junto das redações históricas. A ausência da nota nas nºs 01 e 07 não foi convertida em confirmação de vigência. O catálogo vincula as nºs 02 a 06 ao mesmo PDF, denominado portaria_04_2020.pdf, a nº 07 a portaria_05_2020.pdf e a nº 01 a deliberacao_02_2001.pdf. Esses três documentos, seus inteiros teores, datas e efeitos ainda não foram conferidos neste lote; os nomes dos arquivos não foram usados como data de aprovação ou de revogação. Foram preservadas as grafias e referências legislativas do catálogo, inclusive “pólo” e “disposto no arts.”. Acórdãos, deliberações apenas citadas e outras séries do órgão permanecem pendentes. O CCMG é órgão administrativo tributário próprio e não integra o catálogo judicial BNP consultado.
 
+## CAT/GO e PGE/GO — séries administrativas distintas
+
+O catálogo do Conselho Administrativo Tributário de Goiás acrescenta 15 súmulas, nºs 01 a 15. Duas leituras coincidem no texto de cada coluna, nos links e nos trechos riscados. Os campos Ementa, Extrato, Acórdão e Súmulas com efeito vinculante à SRE foram mantidos separadamente, inclusive campos vazios e o marcador “—”. A nº 09 está expressamente cancelada no campo Extrato; o texto riscado e os dois acórdãos vinculados foram preservados. A informação de efeito vinculante à SRE foi mantida como campo do catálogo, sem ser estendida automaticamente a todos os verbetes ou a outros órgãos. A palavra Ementa é a do cabeçalho oficial e não foi reclassificada como inteiro teor dos acórdãos.
+
+O catálogo da Procuradoria-Geral do Estado de Goiás acrescenta 22 súmulas administrativas, nºs 1 a 22, em série própria. Duas leituras conciliam integralmente os campos Súmulas e Assunto, com enunciados, incisos, referências, processos e notas de publicação e de aprovação. As descrições de efeito vinculante são atribuídas ao catálogo; não houve pesquisa autônoma de vigência posterior. As referências a FGTS, prescrição, aposentadoria e outras matérias reproduzem o texto histórico disponibilizado, sem atualização por inferência.
+
+Nessas duas fontes, os acórdãos, extratos, decretos, portarias, diários e outros documentos vinculados ou apenas citados permanecem pendentes de inteiro teor e conferência. Datas editoriais e nomes de arquivos não foram convertidos em datas jurídicas. As duas séries são administrativas e não integram o catálogo BNP judicial consultado. Os 37 registros não representam todo o acervo de decisões do CAT/GO nem de manifestações da PGE/GO.
+
 ## BNP por órgão
 
 A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas separadamente.
@@ -769,7 +790,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
-| [TRF01](tribunais/TRF01/) | 110 | 110 | 110 |
+| [TRF01](tribunais/TRF01/) | 171 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 86 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
@@ -800,7 +821,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRR](tribunais/TJRR/) | 51 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 299 | 91 | 91 |
 | [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
-| [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
+| [TJSE](tribunais/TJSE/) | 36 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
 | [TRT01](tribunais/TRT01/) | 153 | 76 | 76 |
 | [TRT02](tribunais/TRT02/) | 235 | 69 | 69 |
@@ -818,7 +839,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT14](tribunais/TRT14/) | 44 | 36 | 36 |
 | [TRT15](tribunais/TRT15/) | 224 | 78 | 78 |
 | [TRT16](tribunais/TRT16/) | 22 | 18 | 18 |
-| [TRT17](tribunais/TRT17/) | 40 | 40 | 40 |
+| [TRT17](tribunais/TRT17/) | 105 | 40 | 40 |
 | [TRT18](tribunais/TRT18/) | 140 | 73 | 73 |
 | [TRT19](tribunais/TRT19/) | 44 | 37 | 37 |
 | [TRT20](tribunais/TRT20/) | 59 | 34 | 34 |
@@ -861,6 +882,14 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
+| [REDE_SIDH](tribunais/REDE_SIDH/) | 10 | Rede-SIDH — bloco coletivo publicado pela PGE/RJ |
+| [TARFRS](tribunais/TARFRS/) | 19 | TARF/RS — Súmulas do Tribunal Administrativo de Recursos Fiscais |
+| [PGEPI](tribunais/PGEPI/) | 66 | PGE/PI — Súmulas Administrativas |
+| [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
+| [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
+| [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
+| [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
 | [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
 | [TITSP](tribunais/TITSP/) | 15 | TIT/SP — Súmulas e fichas de propostas |
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
@@ -902,7 +931,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+TARFRS, PGERJ, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -916,7 +945,19 @@ A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de 
 
 A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta direta retornou bloqueio e a página de pesquisa excedeu o limite de estilos do coletor nativo. As fontes regionais incorporadas estão discriminadas acima; o bloqueio não foi tratado como catálogo vazio.
 
-O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou o conteúdo nesta coleta. Na nova consulta, o caderno e a página individual testada retornaram o desafio de acesso sem texto; o navegador integrado também não disponibilizou o documento. O endereço alternativo wwwl.trt17.jus.br falhou por incompatibilidade do certificado TLS, que não foi desativada. O caderno ainda não foi incorporado.
+## TRT17 — súmulas da Consulta Unificada
+
+Em 29/10/2026, a lista pública [Súmulas](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas) respondeu com o catálogo. Duas leituras coincidem no conteúdo da tabela: 62 fichas, números 1 a 52, 54 e 56 a 64, cada uma com título, data indicada e identificador do leitor. As nºs 53 e 55 não aparecem nessa lista. A nº 65 também não aparece. O leitor individual de cada ficha e o [Caderno de Súmulas do TRT da 17ª Região](https://app.trt17.jus.br/principal/publicacoes/leitor/585769318?formato=pdf) devolveram a página do desafio Cloudflare Turnstile, sem o texto do verbete. O desafio não foi contornado. A falha histórica do leitor e a incompatibilidade TLS de wwwl.trt17.jus.br, cuja verificação não foi desativada, permanecem como registro da coleta anterior.
+
+O texto integral veio da [Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas), indicada em [Súmulas](https://www.trt17.jus.br/w/sumulas). Duas capturas têm os mesmos 235.279 bytes e o SHA-256 `32055b651824f55a5850d398c85fcc48537af8b49f06464c92790a8a9a48d40f`. O PDF tem 17 páginas A4. A camada de texto foi extraída e conferida visualmente em cada página. O título interno é “SÚMULAS DO TRT DA 17ª REGIÃO (atualização em maio de 2026)”. A edição reúne as súmulas nº 1 a 65, sem lacuna, inclusive as nºs 53, 55 e 65 ausentes da lista do portal.
+
+Nenhuma dessas 65 identidades existia no BNP do TRT17, que permanece com 10 incidentes de assunção de competência, 17 incidentes de resolução de demandas repetitivas e 13 notas técnicas. Os identificadores novos são `trt17-sum-1` a `trt17-sum-65`. Títulos e datas do portal ficam em seção própria e não foram usados como enunciado.
+
+Foram preservados enunciados, rubricas, incisos, referências e notas. O risco gráfico cobre o enunciado das nºs 2, 4, 5, 8, 14, 18, 19, 23, 25, 34, 36, 40, 42, 46, 53 e 55; a nota de cancelamento permanece sem risco. Na nº 21, somente o item II está riscado, com nota de cancelamento desse item. A nº 47 está marcada como em revisão e o enunciado permanece sem risco. A edição não classifica vigência nos demais verbetes. A menção “maio de 2026” é a atualização da coletânea, não a data de cada verbete. As datas do portal permanecem como metadado de catálogo.
+
+Grafias e a numeração impressa foram mantidas, inclusive “de oficio” na nº 9, “UNILATERIAL” na nº 42, a aspa final da nº 16, “condiciona-se a comprovação” na nº 60, o espaço em “Lei 8.213 /91” na nº 63, o processo `0000920-56.2025.17.0500` na nota da nº 8 e o espaço após o hífen em `0000920- 56.2025.5.17.0500` na nota da nº 21. A citação à Súmula nº 331 do TST na nº 41 permanece no texto e não gerou registro do TRT17. Na nº 55, a palavra visível “Inteiro” aponta para o único link anotado no PDF; o documento de destino não foi incorporado.
+
+Permanecem sem texto neste lote as 62 páginas individuais do leitor e o caderno aberto pelo mesmo leitor. A edição de maio de 2026 não comprova atos posteriores. O acervo do TRT17 não se esgota nestas 65 súmulas.
 
 O catálogo próprio do TRT23 ainda não foi conciliado. Na nova consulta, tanto a raiz do portal quanto /portal/sumulas continuaram exibindo o aviso oficial de manutenção programada e serviços rápidos, sem texto de súmulas. A resposta foi conferida no acesso direto e no navegador integrado e não foi tratada como ausência de precedentes.
 
@@ -940,6 +981,76 @@ A página da Turma de Uniformização do TJTO devolveu o aviso oficial “Site e
 
 O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
 
-O catálogo próprio de súmulas do TJSE permanece pendente. As consultas diretas ao portal principal e ao endereço institucional ejusepos excederam 45 segundos; o coletor nativo encerrou com “scrape deadline or invalid input”. A tentativa pelo navegador integrado também excedeu o prazo de navegação, sem captura válida do catálogo. Essas falhas não foram tratadas como ausência de súmulas e não afetam os registros do TJSE já obtidos no BNP.
+## TJSE — súmulas do catálogo oficial
+
+Em 29/10/2026, a página [Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) publicou 14 verbetes, números 1 a 14, sem lacuna. Duas leituras da lista coincidem nos títulos, nos endereços e nas notas. As páginas HTML completas divergem só no parâmetro de versão da folha de estilo. Uma terceira leitura da página, no mesmo dia, repetiu os 14 vínculos. O carimbo “Última modificação em Quinta, 11 Julho 2024 07:00” é da página, não a data de cada ato.
+
+Os vínculos das nºs 2, 11 e 12 estão riscados. As notas, fora do risco, dizem que a nº 2 foi revogada na sessão do Tribunal Pleno de 12/07/2023, a nº 11 na de 14/06/2017 e a nº 12 na de 10/07/2024. Os demais vínculos não trazem nota. Essa ausência não confirma vigência.
+
+Cada número aponta para um PDF de uma página. Os 14 pares de captura têm os mesmos bytes e o mesmo SHA-256, e a origem, relida no mesmo dia, devolveu os mesmos arquivos. A camada de texto de cada página foi extraída e conferida visualmente. Quebras de linha do corpo foram reunidas; as letras espaçadas dos títulos foram reunidas. Grafias foram mantidas, inclusive “Eletrônico,nos” e “Art. 223” na nº 2, “conseqüências” na nº 1, “aprovou” com sujeito no plural nas nºs 13 e 14, “afronta” na nº 9 e “implica em” na nº 10.
+
+O PDF da nº 2 assina 23/04/2009; o catálogo diz 24/04/2009; a sessão impressa é 12/12/2007. O risco gráfico cobre o cabeçalho, a aprovação, o rótulo e o enunciado, e não cobre a data, a signatária nem a nota vermelha. O PDF da nº 11 também risca a aprovação, o rótulo e o enunciado e imprime a nota de 14/06/2017. O PDF da nº 12 não risca o texto e não imprime a revogação de 10/07/2024, que permanece só no catálogo.
+
+A nº 8 tem endereço `sumula-008-IUJ-001-2013.pdf` e título interno “Súmula 08 - IUJ-005-2012”. A nº 9 tem endereço `sumula-009-IUJ-006-2013.pdf` e título interno “Súmula 09 - IUJ-006-2012”. As duas identificações ficam no registro. Datas de sessão e de assinatura que não coincidem com o catálogo também ficam nos respectivos campos.
+
+Os quatro processos da nº 1, o incidente citado na nº 3, os artigos do CPC na nº 6, o RE 705.140/RS, o incidente n. 201600604855 e o processo paradigma nº 201400616323 da nº 14 permanecem no texto e não geram registros. Os diários citados não foram incorporados.
+
+Os identificadores novos são `tjse-sum-1` a `tjse-sum-14`. Nenhum existia. Os 22 registros anteriores do TJSE permanecem: 1 incidente de assunção de competência, 18 incidentes de resolução de demandas repetitivas e 3 notas técnicas. A falha histórica de acesso ao catálogo, em consulta anterior, não foi tratada como ausência de súmulas e não altera esses 22 registros. Estas 14 súmulas não esgotam outras séries do tribunal nem comprovam ato posterior à página consultada.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.
+
+## TATE/PE — súmulas do catálogo oficial
+
+O catálogo acrescenta oito súmulas, nºs 01 a 08, em série administrativa própria. Os oito PDFs oficiais têm uma página cada; cada par de capturas de 29/10/2026 coincide em bytes e SHA-256. A camada textual das nºs 01 e 03 a 08 foi conferida nas imagens das sete páginas e preservada, normalizando apenas espaços e quebras de linha. A nº 02 contém o corpo digitalizado: o enunciado e o despacho foram transcritos visualmente, com marcador explícito para uma pontuação não conciliada após a referência ao § 1º no despacho. A assinatura manuscrita não foi reproduzida nem identificada por inferência. Essa lacuna impede considerar o despacho uma transcrição integral sem ressalvas.
+
+A nº 01 informa aprovação na sessão plenária de 03/02/1992; a nº 02 traz despacho de 13/05/1992 e publicação de 14/05/1992. As nºs 03 e 04 informam publicação em 23/12/2023; as nºs 05 e 06 em 24/12/2024, com aprovação unânime em 18/12/2024; a nº 07 em 1º/08/2025; a nº 08 em 02/06/2026. As referências a precedentes e os números de autos de infração foram mantidos dentro dos documentos e não geraram novos registros. O diário, os acórdãos e a legislação apenas citados não foram lidos integralmente neste lote. O catálogo não comprova vigência posterior nem esgota outras séries do TATE/PE.
+
+## CRF/PB — súmulas do Conselho de Recursos Fiscais da Paraíba
+
+Em 29/10/2026, a página [Conselho de Recursos Fiscais do Estado da Paraíba](https://www.sefaz.pb.gov.br/info/2016-01-11-17-25-20/crf) publica o bloco “SÚMULAS DO CRF (PORTARIA Nº 00311/2019/SEFAZ)” com quatro verbetes, nºs 01 a 04, sem paginação e sem outros números. Duas leituras desse bloco HTML coincidem: 1.924 bytes, SHA-256 `0bf7812596fab39c4e9a3d9276a141f2fc9f62db8f31c293e4488420f9334037`. As páginas inteiras divergem no identificador de ocultação do e-mail; o bloco das súmulas é o mesmo. O texto publicado preserva rubrica, enunciado e acórdãos citados. A nº 02 mantém “constatação” em minúscula e o espaço não separável antes do enunciado. A nº 03 mantém “303/2019;294/2018”, sem espaço depois do ponto e vírgula. A nº 04 escreve “Acórdãos nºs” sem dois-pontos. Os acórdãos citados permanecem no verbete e não entram como registros.
+
+A [Portaria nº 00311/2019/SEFAZ](https://www.sefaz.pb.gov.br/legislacao/259-portarias/portarias-2019/8676-portaria-n-00311-2019-sefaz) informa publicação no DOe-SEFAZ de 19.11.19 e data de 18 de novembro de 2019. O art. 1º ratifica as súmulas administrativas números 01 a 04, aprovadas na 56ª Sessão Ordinária do Tribunal Pleno, nos termos do Anexo Único. O art. 2º declara: “Não ratificar a propositura da Súmula Administrativa número 05.” O art. 3º declara que a súmula, depois de ratificada e publicada no Diário Oficial Eletrônico da SEFAZ/PB, terá efeito vinculante em relação à Administração Tributária Estadual e aos contribuintes e responsáveis. O HTML da portaria e o PDF de duas páginas gerado a partir dele reproduzem esses artigos e não trazem o Anexo Único nem o enunciado da nº 05. Duas extrações da camada textual do PDF coincidem, SHA-256 `ae29c67e3ed5bf1ca5e98d6427878214ae0a3b2e52d9222067057570f1bb80ee`. Os bytes dos PDFs diferem porque o gerador grava o instante do download. A edição do diário e o Anexo Único seguem pendentes. A nº 05 não recebeu registro, porque a fonte não publica o enunciado. A declaração de efeito vinculante é a do art. 3º. Ato posterior de revisão não apareceu nas fontes consultadas neste lote.
+
+A etiqueta oficial [Súmulas do Conselho de Recursos Fiscais](https://www.sefaz.pb.gov.br/component/tags/tag/244-sumulas-do-conselho-de-recursos-fiscais) lista um único item, a Portaria nº 00311/2019/SEFAZ, com data de lista 19 de novembro de 2019. A busca do portal por “Súmula Administrativa” devolveu 43 acórdãos, sem outra portaria de ratificação. O [Regimento Interno](https://www.sefaz.pb.gov.br/legislacao/301-portarias/portarias-2021/10654-portaria-n-00080-2021-sefaz), Portaria nº 00080/2021/SEFAZ, traz no HTML consolidado os arts. 94 a 96: numeração sequencial depois da ratificação, submissão ao Secretário e possibilidade de revisão. O art. 96 conserva a grafia “do Secretário de Estado da Fazenda a ou do representante”. O cabeçalho lista alterações pelas Portarias nº 00026/2023, nº 00144/2024, nº 00112/2025, nº 00207/2025 e nº 00148/2026. Nenhuma dessas notas, no HTML consolidado, atribui nova redação aos arts. 94 a 96, e a palavra “súmula” nesse HTML não introduz enunciado numerado. Os textos integrais dessas portarias de alteração e do diário de cada uma permanecem pendentes.
+
+O CRF/PB é o Conselho de Recursos Fiscais da Secretaria de Estado da Fazenda da Paraíba, órgão distinto do TJPB, do TCEPB, do TATE/PE e dos demais conselhos. A série não integra o catálogo judicial do BNP. O ementário, os acórdãos, as pautas e o histórico em PDF indicados na mesma página permanecem pendentes.
+
+## PGE/PI — súmulas administrativas
+
+A página reunida de Súmulas Administrativas acrescenta os números 1 a 66, cada um em identidade própria `pgepi-sum-N`. Enunciados, alíneas, notas de publicação e links foram conciliados em duas capturas de 29/10/2026. A nº 30 publica somente a nota “REVOGADA” e a referência ao DOE nº 91, de 21/05/2020, p. 29; sua redação anterior não foi reconstruída. As notas de nova redação das nºs 2, 5, 6 e 7 foram preservadas. Nenhuma ausência de nota nas demais foi convertida em confirmação de vigência.
+
+O catálogo paginado, indicado pelo menu institucional, foi percorrido em 11 páginas, com duas capturas de cada página e conciliação de título, corpo e links. Publica 65 verbetes: números 1–17 e 19–66. A nº 18 está na página reunida, mas não nessas 11 páginas; a diferença não foi tratada como revogação. Nos 65 números comuns, os textos coincidem desconsiderando a divisão de parágrafos e espaços, exceto pelo ponto final após a referência de publicação da nº 23, presente na página reunida e ausente na paginada. As alíneas a–c da nº 23 estão como parágrafos na página reunida e como lista ordenada por letras na paginada. Não se inferiu precedência jurídica de uma página sobre a outra.
+
+Foram preservadas grafias como “contração” (24), “percebia” (45), “deestudante” (46), “asentença” (47), “414/STJ1” (49), “parteautora” (58) e a aspa sem abertura da nº 38. A referência ao DOE nº 97 de 29/09/2022 nas nºs 53–55 e a data 08/02/2024 associada ao DOE nº 37 na nº 57 foram mantidas sem correção por inferência. Os diários, os julgados, a legislação e os atos vinculados não foram lidos integralmente neste lote. Os 66 registros são uma série administrativa da PGE/PI, distinta do TJPI e do TCEPI, e não esgotam os pareceres nem as outras manifestações da Procuradoria.
+
+## TARF/RS — súmulas do Tribunal Administrativo de Recursos Fiscais
+
+O Tribunal Administrativo de Recursos Fiscais do Estado do Rio Grande do Sul entra como órgão próprio (TARFRS). Não é o TARF do Distrito Federal, nem o CARF, nem o TARGS do extinto Tribunal de Alçada preservado pelo TJRS, nem o TCERS. A página [Súmulas](https://tarf.rs.gov.br/sumulas) aponta a consulta pública do grupo 14553 em https://tarf.sefaz.rs.gov.br. A página [Serviços e informações](https://tarf.rs.gov.br/servicos-e-informacoes) liga essa mesma página de súmulas. O serviço 1800 da Secretaria da Fazenda, [Consulta Decisões do TARF](https://www.fazenda.rs.gov.br/servicos-ao-cidadao/servicos?servico=1800), descreve a consulta de acórdãos e súmulas e ainda encaminha ao portal antigo `legislacao.sefaz.rs.gov.br`. A cadeia TLS desse endereço antigo não verificou neste ambiente e não foi contornada. O catálogo incorporado é o do portal novo.
+
+Duas leituras em 29/10/2026 coincidem em bytes. O filtro numérico `grupos=14553` devolve 19 documentos, números 1 a 19, sem lacuna e sem repetição. A paginação de tamanho 5 tem quatro páginas com resultado e uma página vazia; a ordem não é numérica (19 a 15, 14 a 10, 9, 8, 7, 5 e 4, depois 2, 1, 3 e 6). As consultas de tamanho 20 e de tamanho 50 devolvem o mesmo conjunto. Os números 0, 20 e 21 nesse grupo vêm vazios. Os 19 registros trazem grupo SÚMULAS, área TARF e o mesmo `grupoDocumentoId` aaedfb61-94d3-46a9-83c0-defae1fd5a9f. A ementa da pesquisa está vazia e não foi usada como enunciado. O texto publicado é o do HTML atual de cada documento.
+
+A busca pelo termo súmula informa 7.540 itens. Só as duas primeiras páginas foram lidas: a primeira reúne estas 19 súmulas e também acórdãos; a segunda contém apenas o grupo ACÓRDÃOS A PARTIR DE 2005. A consulta sem filtro de grupo informa 28.692 documentos e não foi paginada. Acórdãos avulsos não foram incorporados. O tipo AcordaoTARF é o rótulo do bloco HTML da súmula no portal e não gerou registro de acórdão. A súmula 02 tem um segundo dispositivo com texto vazio, preservado sem reconstrução.
+
+As súmulas 01, 02, 05, 12 e 18 trazem nota expressa de revogação pela Resolução nº 01/2023, DOE de 15/09/23, página 79. A nº 14 traz o cabeçalho “Súmula nº 14: REVOGADA” e a nota de revogação pela Resolução nº 01/2000, DOE de 14/07/00, página 14. As outras 13 não trazem nota de revogação. Essa ausência não confirma vigência.
+
+O portal registra 45 redações anteriores. A linha de referência “Redação Original” contém só o título, e o enunciado não foi completado nela. A redação de ordenacaoHistorico 2 da nº 15 encerra em “página  7”, com dois espaços e sem o fechamento do texto atual. O campo dataVigencia 1900-01-01, nas nºs 04 a 19, é a data vazia do cadastro. Nas nºs 01 e 02, dataDocumento e dataVigencia são 1991-07-22, data que o texto associa ao DOE, e o texto também traz TARF - 16/07/91. Na nº 03, dataDocumento é 1991-07-16, o texto traz TARF - 16/07/91 e dataVigencia é 1991-07-22, junto do DOE de 22/07/91. Na nº 06, dataDocumento é 1991-04-27 e o texto traz TARF - 27/04/93, Resolução nº 02/93 e DOE de 12/05/93. As datas não foram unificadas. Os títulos literais foram mantidos, inclusive “SUMULA Nº 01” e “SUMULA Nº 08”, sem acento, e “SÚMULA Nº11”, sem espaço.
+
+Os 19 PDFs têm uma página A4 e criador wkhtmltopdf 0.12.4. A camada textual coincide com o HTML atual. Não houve OCR. A data de criação do arquivo é da renderização e varia entre 2022, 2023 e 2025. Não é a data da súmula e pode divergir de dataAtualizacao, que em vários cadastros permanece em 2007. Sequências de três ou mais espaços foram reduzidas. Os espaços duplos do HTML foram mantidos, como em “página  23”, “CÁLCULO-  Nas” e “saídas  de”. A releitura do HTML com tamanho de página 10 coincide com a de tamanho 200. São 148 pares de arquivos idênticos entre as duas leituras. A lista `/api/Grupos` respondeu HTTP 500. O menu do documento exige login e não foi autenticado. A consulta pelo UUID do grupo ignora o filtro e devolve o portal inteiro; não foi usada.
+
+Permanecem fora deste lote as resoluções e as páginas do Diário Oficial apenas citadas, o dispositivo vazio da nº 02, o enunciado ausente nas redações que só trazem o título, o trecho truncado do histórico da nº 15, os acórdãos do portal e a conciliação das datas em que o cadastro diverge do texto.
+
+## PGE/RJ e Rede-SIDH — séries de emissores distintos
+
+Duas capturas de 29/10/2026 da página oficial de enunciados da PGE/RJ coincidem integralmente: 593.426 bytes, SHA-256 `c2a4d75abd846b104d405a9e1fbba318bb62cd8dc5ee89ab947a78d500de1a3e`. O primeiro bloco publica os números 1 a 55 da PGE/RJ, sem lacuna. Os títulos 22 e 49 aparecem duas vezes, com redação anterior riscada e texto substitutivo, e não geraram identidades novas. O número 24 também conserva o texto anterior riscado. Trechos riscados foram mantidos como tal, inclusive nos enunciados 3 e 7. Há revogação expressa dos números 3 (Resolução PGE nº 5406/2026, publicação de 17/06/2026), 7 (Resolução PGE nº 2.747/2010), 21 (Resolução PGE nº 3.612/2014) e 25 (Resolução PGE nº 4.108/2017). Os números 21 e 25 só publicam rubrica e nota de revogação; não houve reconstrução da redação anterior. As referências, incisos, datas e notas de alteração dos demais foram preservados sem inferir vigência atual.
+
+As publicações e republicações de janeiro de 2026 dos números 52 a 55 e a revogação de junho de 2026 do número 3 não foram substituídas pela data editorial 28/05/2024 exibida pela página. As referências históricas à Lei nº 8.666/93 e as notas de alteração de títulos em maio de 2024 permanecem nos próprios textos. Diários, resoluções e pareceres citados não foram lidos integralmente neste lote. Todo o texto de cada bloco foi conciliado com o HTML; espaços e quebras de linha foram normalizados, sem resumos dos enunciados.
+
+Após uma separação horizontal, a mesma página publica dez enunciados de outro emissor: a Rede de Cooperação entre Advocacias Públicas para atuação do Brasil no Sistema Interamericano de Direitos Humanos. Foram registrados como `REDE_SIDH`, números 1 a 10, separados dos 55 da PGE/RJ. O ato do Procurador-Geral do Estado, processo nº E-14/001.018192/2018, determina publicar os textos aprovados na reunião de 11 e 12 de dezembro de 2017. Essa data é a da reunião informada pelo ato, não uma data de publicação inferida. O bloco não informa classificação de vigência individual nem data autônoma de publicação do ato. A Rede é entidade emissora coletiva aqui contada separadamente para preservar a autoria; seus enunciados não foram apresentados como decisões da Comissão ou da Corte Interamericana nem como normas vinculantes. Não houve criação de registros para o ato de encaminhamento ou para os instrumentos internacionais apenas citados. A série da Rede não integra o catálogo judicial BNP.
+
+## TRF1 — coletânea oficial de súmulas
+
+A página institucional de pesquisa de súmulas indica o caderno `Sumula2026.pdf`. Duas capturas de 29/10/2026 coincidem em bytes: 165.075 bytes, SHA-256 `4d8f41814d2259e4aee191d9f5f6e3f7930a00cd104e361537eb6f9170f87395`. O PDF tem nove páginas físicas; os verbetes 1 a 61 ocupam as páginas 1 a 8. A página 9 só traz os créditos do Núcleo de Jurisprudência/Direj/Corip/Secju e contatos institucionais; não gerou registro. As nove páginas foram conferidas visualmente e o texto de cada verbete foi conciliado com a camada textual. Os 61 identificadores `trf01-sum-N` são novos; os seis IAC e os 104 IRDR anteriores não foram alterados, e as contagens de BNP coletado e inventário permanecem em 110.
+
+As notas expressas de cancelamento das nºs 5, 13, 15, 21, 29, 38, 39 e 48 foram preservadas junto às redações históricas. A nº 11 traz “Cancelada/Revisada” e informa a origem da nº 23; ambas mantêm registros próprios. A nº 28 informa revisão da nº 16, cujo texto histórico continua na coletânea. A nº 5 informa republicação por revisão da nota de rodapé e a nº 43 informa republicação. Não houve classificação de vigência por ausência de nota nos demais números. O texto não está riscado nessa edição, inclusive nos cancelados, e não foi acrescentado risco editorial. Os asteriscos originais das notas continuam visíveis.
+
+As nºs 60 e 61 referem processos e publicação PJe de 20/08/2026. A data técnica de criação do PDF, 26/08/2026, e o ano no nome do arquivo não foram usados como data jurídica dos demais verbetes. Referências, grafias e pontuação foram preservadas, inclusive “Seção Plenária”, “freqüência”, os campos “PAG.” sem número, o processo repetido da nº 2, os dois identificadores consecutivos na nº 50 e as aspas e o espaçamento do trecho “ex officio” da nº 48. Apenas espaços e quebras de linha foram normalizados, mantendo hífens e barras nos identificadores. Diários, processos e legislação citados permanecem sem inteiro teor incorporado. O lote não esgota as demais séries nem atos posteriores do TRF1.
