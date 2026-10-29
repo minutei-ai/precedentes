@@ -2,7 +2,7 @@
 
 Ministério Público do Estado do Piauí. **16 registros.**
 
-O catálogo do Conselho Superior publica suas séries de súmulas e enunciados em páginas distintas. Foram incorporadas 12 súmulas (incluindo a nº 01, identificada pelo catálogo como suspensa, mas sem texto publicado na página) e quatro enunciados numerados de 01 a 04/2019. Os registros não atribuem vigência ou efeito vinculante além do que a fonte declara.
+O catálogo do Conselho Superior publica suas séries de súmulas e enunciados em páginas distintas. Foram incorporadas 12 súmulas (incluindo a nº 01, identificada pelo catálogo como suspensa e sem texto na página, com redação histórica recuperada na ata de 2017) e quatro enunciados numerados de 01 a 04/2019. Os registros não atribuem vigência ou efeito vinculante além do que a fonte declara.
 
 | Espécie | Registros |
 | --- | ---: |
@@ -75,3 +75,7 @@ O [índice da série](en-csmp/README.md#documento-comum-de-aprovação-em-061220
 ## Fundamentos e propostas das súmulas 04–08
 
 O [documento comum da série](sum-csmp/README.md#documento-comum-sumulas-04-08) reproduz o item 3.2 completo da ata de 30/04/2021, páginas físicas 3–9, com relatório, cinco propostas, fundamentos e deliberação final. Sete páginas foram lidas na imagem e confrontadas com a camada textual. A proposta inicial usa “UFIR” e o voto e a versão final usam “UFR”; propostas e redações aprovadas foram preservadas sem fusão. As cinco identidades e os textos anteriores continuam intactos. As outras 26 páginas e o diário não foram incorporados.
+
+## Texto histórico da Súmula 01 e aprovação das nºs 01–03
+
+A ata de 23/10/2017, páginas físicas 13–14, registra a discussão e aprovação expressa das súmulas 01, 02 e 03. O [documento comum](sum-csmp/README.md#documento-comum-sumulas-01-03-2017) reproduz esse trecho uma vez; as três fichas receberam cada uma sua redação aprovada. A página 1 confirma a data da sessão. A nº 01 passa a ter texto histórico, conservando a suspensão indicada no catálogo. A ata da 1272ª sessão e o texto aplicável após 2017 continuam pendentes; não foi inferida vigência. O PDF vinculado à nº 03 tem 17 páginas e foi capturado duas vezes com bytes idênticos; metadados no índice da série. Não houve OCR nem registro novo.

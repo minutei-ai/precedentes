@@ -4,7 +4,7 @@
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
-A série de súmulas do MPPI inclui mais uma lacuna textual, independente das nove lacunas do catálogo inicial do BNP: a página identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária, mas não publica o verbete. Ela permanece identificada sem texto reconstruído e conta como registro do MPPI, não como novo registro do BNP.
+A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
 
 ## Fontes diretas
 
@@ -964,7 +964,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
-| [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto na página oficial |
+| [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto no catálogo, com redação histórica de 2017 recuperada |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
@@ -1861,7 +1861,7 @@ Sobre a main `19227519c80141faa1b1e185091c34de0f7f9606` (37.600 registros em 153
 
 ## MPPI — súmulas e enunciados do Conselho Superior
 
-As duas capturas HTML dos catálogos, datadas de 29/10/2026, listam 12 súmulas e quatro enunciados de 2019. Os 16 registros têm identificadores únicos e links para os catálogos nas fichas. A Súmula 01 está identificada como suspensa por decisão da 1272ª sessão ordinária, mas o HTML não publica seu texto; ela permanece como registro sem corpo. Essa lacuna é própria da série MPPI e distinta das nove lacunas textuais do catálogo inicial do BNP.
+As duas capturas HTML dos catálogos, datadas de 29/10/2026, listam 12 súmulas e quatro enunciados de 2019. Os 16 registros têm identificadores únicos e links para os catálogos nas fichas. A Súmula 01 está identificada como suspensa por decisão da 1272ª sessão ordinária, mas o HTML não publica seu texto; no lote inicial, o registro ficou sem corpo. O texto histórico de 2017 foi posteriormente recuperado, como detalhado na seção documental abaixo; a suspensão permanece atribuída ao catálogo. Essa lacuna do catálogo do MPPI é distinta das nove lacunas textuais do catálogo inicial do BNP.
 
 O texto publicado das súmulas 02–12 e dos enunciados 01–04 foi conferido com os nós de texto dos dois HTMLs. A Súmula 08 termina em “2.000 UFR” na página; não houve complementação. Nos enunciados 01–03, justificativas e trechos de voto aparecem concatenados após o verbete no HTML. Esses complementos foram incorporados em seção própria em 29/10/2026, sem alterar o texto dos enunciados nem afirmar reprodução integral da ata. Os 11 documentos vinculados (PDF/ODT) não foram lidos nem transcritos. O Regimento Interno de 2025, atas, atos de aprovação e demais documentos citados ficam pendentes. Não se inferiu vigência atual nem efeito vinculante.
 
@@ -1944,5 +1944,14 @@ A edição [Assentos e Súmula 2025](https://www.mpal.mp.br/wp-content/uploads/2
 
 Sobre a main `ed8a2492` (37.747 registros em 158 órgãos), este lote soma 17 registros e um órgão: 37.764 registros em 159 órgãos. MPMS permanece em 26 registros; MPPI permanece em 16, incluindo a Súmula 01 identificada mas sem texto, e as nove lacunas do BNP continuam. As limitações históricas acima permanecem abertas; a cobertura nacional continua parcial.
 
+## MPPI — texto histórico da Súmula 01 e aprovação das nºs 01–03
 
-O Ministério Público do Estado de Mato Grosso (MPMT) entra como órgão próprio, distinto do MPMS, do TJMT, do TCEMT e do MPF. A seção 14 da pauta oficial do CSMP compila oito assentos e doze enunciados nas espécies e anos impressos; não houve fusão por similaridade de número ou matéria. Os textos foram publicados como registros do Conselho, sem inferir vigência ou efeito vinculante. O Regimento Interno (Resolução nº 033/2012-CSMP, arts. 46–49) distingue assentos e enunciados. A indexação pública da Resenha 07/2025-CSMP informa ratificação em bloco, mas não enumera itens nem reproduz textos; a captura direta do DOE/MPMT respondeu HTTP 500. Essa indexação é apenas pista e não prova status ou completude. A pauta URL identifica 06/03/2023 e seu cabeçalho imprime 06/março/2022; essa inconsistência permanece anotada. A consulta não localizou catálogo independente mais recente que discrimine números e textos; isso não prova inexistência de outros atos.
+Recuperada a redação da Súmula 01 aprovada em 23/10/2017 no mesmo registro `mppi-sum-csmp-1`, sem retirar a suspensão informada pelo catálogo. As nºs 02 e 03 receberam suas redações do mesmo dispositivo. Discussão, proposta e aprovação das páginas físicas 13–14 estão uma única vez no [índice da série](tribunais/MPPI/sum-csmp/README.md#documento-comum-sumulas-01-03-2017); o título da página 1 confirma data e sessão. Três páginas lidas na imagem, apenas o trecho delimitado das páginas 13–14 publicado; sem OCR. Par de PDF idêntico, tamanho e SHA-256 no índice. A nº 01 deixa de estar sem qualquer enunciado documental, mas a ata de suspensão e a redação posterior continuam pendentes. As nove lacunas originais do BNP e os dois avisos de revogação sem enunciado do MPAL permanecem. Delta zero sobre `0767e9a4`: 37.764 registros em 159 órgãos.
+
+## MPMT — assentos e enunciados do CSMP
+
+A seção 14 da pauta compilatória do CSMP reúne oito assentos e doze enunciados, preservados nas espécies e números impressos, sem criar IDs para normas citadas ou para os arts. 46–49 do Regimento Interno, usados apenas como contexto. Foram lidas visualmente a página física 1 para identificação/data e as páginas 4–8 para os vinte textos, inclusive os que atravessam páginas. O título “Assentos e Enunciados em vigor” é o rótulo da edição consultada e não confirma vigência atual nem efeito vinculante.
+
+A capa registra “06/março/2022 (segunda-feira)”, enquanto a identificação da pauta/arquivo registra 06/03/2023. Mantemos as duas referências sem arbitrar qual data é correta. O resultado indexado da Resenha 07/2025 menciona ratificação em bloco sem individualizar números ou redações; o endpoint consultado do DOE respondeu HTTP 500 nas duas capturas. Essa pista não estabelece status, ratificação individual ou completude. No levantamento limitado documentado para o lote, não foi obtida fonte posterior que discrimine números e textos; isso não permite concluir que outros atos ou séries não existam.
+
+Este lote soma 20 IDs e um órgão à main `983bf0cf` (37.764 registros em 159 órgãos), totalizando 37.784 registros únicos em 160 órgãos. MPMS permanece com 26 registros; MPPI inclui agora texto histórico para a Súmula 01, mantendo a suspensão informada pelo catálogo; MPAL 004 e 008 continuam apenas como avisos sem redação; as nove lacunas do catálogo inicial do BNP permanecem. A cobertura nacional continua parcial.
