@@ -35,7 +35,7 @@ De outra banda, é inegável que, a gestão pública das políticas sociais bás
 
 Assim,  mesmo nas fiscalizações e auditorias operacionalizadas por órgão federais, a exemplo da Controladoria Geral da União e do DENASUS (Departamento Nacional de Auditoria do Sistema Único de Saúde), quanto ao exame e a tomada de providências relativas ao caráter prestacional,  remanesce atribuição concorrente do Ministério Público Estadual, notadamente quando a investigação apontar para solução em âmbito local. Convém, nesses casos referir que os Órgãos de Revisão do Ministério Público Federal não têm homologado, em todos os casos, os declínios de atribuições em suas revisões[1].
 
-A nota [1] desta exportação está reproduzida no [índice da série](README.md#nota-1-dos-documentos-historicos-14-a-18), com os dois excertos que a fonte reúne.
+A nota [1] desta exportação está reproduzida no [índice da série](README.md#nota-1-dos-documentos-históricos-14-a-18), com os dois excertos que a fonte reúne.
 
 ## Conferência e limites
 
