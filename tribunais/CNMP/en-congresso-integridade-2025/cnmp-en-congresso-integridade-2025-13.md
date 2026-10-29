@@ -18,3 +18,16 @@ Dentro do procedimento administrativo indicado no art. 4º, da Resolução CNMP 
 ## Conferência e limites
 
 Transcrição visual da página do PDF, com apoio da camada textual. A extração perde acentos que a imagem imprime; a transcrição segue a imagem. Quebras de linha e espaços de justificação foram normalizados. Cabeçalho gráfico e o título coletivo não foram repetidos no corpo; o itálico de “disgorgement” foi normalizado a texto. Numeração, palavras, acentos e pontuação foram preservados, inclusive as referências normativas como impressas, sem atualização jurídica. Não houve OCR. O caderno se intitula “ENUNCIADOS APROVADOS”; essa aprovação é do congresso e não foi atribuída ao Plenário do CNMP. Não se inferiu vigência atual, efeito vinculante nem completude nacional. Normas e órgãos apenas citados não receberam identificadores.
+
+
+## Conferência nos anais publicados em 2026
+
+Fonte: [Anais do 2º Congresso de Defesa da Integridade, página física/impressa 120](https://www.cnmp.mp.br/portal/images/Publicacoes/documentos/2026/Anais_2CongIntegr__v4__06abr.revCDPA08abr.pdf#page=120). Arquivo de 122 páginas físicas, com 4.685.150 bytes e SHA-256 `067d0053cef24f5913aab6b5b07bc8d71a08ef237dd42a8dfab7b17352a682e1`; duas capturas HTTP 200 de 29/10/2026 com bytes idênticos. A ficha catalográfica na página física 4 identifica Brasília, CNMP, 2026 e descreve “118 p.”. Foram lidas visualmente as páginas físicas 4, 118, 119, 120 e 121: ficha, abertura da seção, seus dois corpos e a página seguinte em branco. Não se afirma leitura integral do volume; não houve OCR.
+
+Os anais não imprimem números nos enunciados. Este texto é o 13º parágrafo da sequência de 14 e corresponde ao nº 13 do caderno de 2025 por conteúdo, ordem e identificação do mesmo congresso. A numeração da ficha continua atribuída ao caderno, sem impor número ao corpo dos anais. Cabeçalho, paginação, marcas gráficas, itálico e quebras foram normalizados; hífens de divisão silábica reunidos. Não se infere alteração normativa, revogação ou vigência da diferença editorial.
+
+### Redação nos anais de 2026
+
+Dentro do procedimento administrativo indicado no art. 4º da Resolução CNMP nº 305/2025, após o diagnóstico da ausência de programa de integridade no ente fiscalizado, é possível a formulação de Recomendação ou TAC para a instituição de programa de integridade ou medidas preventivas à improbidade e à corrupção.
+
+A versão do caderno de 2025 acima permanece preservada, sem harmonizar as variantes.
