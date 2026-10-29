@@ -234,3 +234,6 @@ A transcrição preserva o texto de cada bloco jurídico, inclusive notas de apr
 - [Enunciado 224](fonajef-en-224.md)
 - [Enunciado 225](fonajef-en-225.md)
 - [Enunciado 226](fonajef-en-226.md)
+
+
+Conferência adicional: os riscos presentes no HTML foram preservados em 16 registros (17, 23, 31, 33, 34, 36, 37, 40, 41, 69, 84, 104, 111, 134, 191 e 214), mantendo fora do risco as notas que a fonte deixa sem esse estilo. Negrito e itálico foram normalizados a texto.

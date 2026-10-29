@@ -1970,3 +1970,8 @@ Incorporado ao [registro existente da Súmula 09](tribunais/MPPI/sum-csmp/mppi-s
 ## MPPI — proposta e aprovação da Súmula 10/2021
 
 A ata ODT da 1347ª sessão, de 01/10/2021, recebeu leitura visual das páginas locais 1 e 89–91 da conversão de 91 páginas. O item 4.1, com proposta e aprovação da Súmula 10/2021, está no registro da Súmula 10; o esclarecimento sobre a conversão do enunciado da sessão anterior está na Súmula 09. A paginação é local, sem OCR, e as demais passagens permanecem pendentes. Nenhum identificador novo foi criado. O par oficial de ODT coincide em tamanho e SHA-256, registrados nas fichas. O conteúdo do catálogo permanece intacto; não se inferiu vigência ou efeito vinculante. Delta zero sobre `dbfbf97a`: 37.784 registros em 160 órgãos. As nove lacunas originais do BNP e os dois avisos sem enunciado do MPAL permanecem.
+
+
+### FONAJEF — conferência dos riscos e conciliação
+
+Comparação independente dos 226 corpos com os 12 HTMLs confirmou o texto, considerando as quebras `<br>`. Restaurados os riscos da fonte em 16 registros; na nº 111, o “T” inicial permanece fora do risco, como no HTML. As notas sem risco foram mantidas. A main `89ee09ac` foi integrada, preservando a proposta e aprovação da Súmula 10 do MPPI. O delta permanece 226 registros e um órgão: 38.010 registros em 161 órgãos. A contagem global pesada não foi declarada concluída nesta revisão; os 226 IDs e corpos foram conferidos de forma direcionada.
