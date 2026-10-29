@@ -9,7 +9,7 @@ O catálogo do Conselho Superior publica suas séries de súmulas e enunciados e
 | [Súmulas do Conselho Superior](sum-csmp/) | 12 |
 | [Enunciados do Conselho Superior](en-csmp/) | 4 |
 
-O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. Atas e atos deliberativos vinculados também permanecem pendentes.
+O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. A deliberação e as cinco redações finais da página 9 da ata de 30/04/2021 foram incorporadas; as demais passagens das atas e atos deliberativos vinculados permanecem pendentes.
 
 ## Capturas e consistência
 
@@ -20,7 +20,7 @@ Os catálogos foram capturados duas vezes em 29/10/2026. Ambas as respostas de c
 | [Súmulas](https://www.mppi.mp.br/internet/conselho-superior/sumulas/) | 119.095 | `253421dd19d65e1f82c00766ff2202893224c20057f4d046c38bb7674261693f` | `877e2a005187e53eddbd5a6d7fa4ec66bb8fa515e5cb952d76645e9939844d10` | `9bbd3f2a7621d1015d1608bb5436c27331729699fcd32fe60498a1c793985ab5` |
 | [Enunciados](https://www.mppi.mp.br/internet/conselho-superior/enunciados/) | 109.231 | `cc6a9d8ca11265f75a38e8be159a30c41fb3b6319962e3a2d26784c2e74363ee` | `a202ac46fc55fdda9ae289ddb46611d28c6f80635a357c85c70afe39a364d65b` | `4df6bddbdc6cd6f4551e9b4cdcde36a8cbff5fd62f1fb9195c18b2cb5149d2ce` |
 
-O conteúdo dos verbetes foi transcrito do HTML publicado nos catálogos. Nos enunciados 01 a 03, a página concatena justificativas e trechos de voto da sessão após o texto do verbete; essas passagens agora estão nos respectivos registros, em seção própria, e não foram tratadas como parte do enunciado nem como reprodução integral do voto ou da justificativa da ata. Nenhuma redação foi extraída de PDF ou reconstruída a partir de citação. O HTML da Súmula 08 termina em “2.000 UFR”. A página adicional do CACOP publica o mesmo corpo com ponto final, sem palavras adicionais. O documento vinculado não integra essa comparação.
+O conteúdo dos verbetes foi transcrito do HTML publicado nos catálogos. Nos enunciados 01 a 03, a página concatena justificativas e trechos de voto da sessão após o texto do verbete; essas passagens agora estão nos respectivos registros, em seção própria, e não foram tratadas como parte do enunciado nem como reprodução integral do voto ou da justificativa da ata. As transcrições do catálogo permanecem intactas. As redações finais da página 9 da ata de 30/04/2021 foram posteriormente conferidas no PDF e acrescentadas em seções próprias das súmulas 04–08. Nenhum texto foi reconstruído a partir de citação. O HTML da Súmula 08 termina em “2.000 UFR”. A página adicional do CACOP publica o mesmo corpo com ponto final, sem palavras adicionais. O documento vinculado não integra essa comparação.
 
 Os 11 endereços de documentos “Download” exibidos nos catálogos também foram capturados duas vezes; cada par retornou HTTP 200, com tamanho e SHA-256 coincidentes. As cinco URLs vinculadas às súmulas 04 a 08 retornaram os mesmos 215.992 bytes e o mesmo SHA-256, portanto não foram tratados como cinco documentos textualmente independentes.
 
@@ -47,3 +47,13 @@ As capturas, cabeçalhos de resposta e script de extração ficam fora deste rep
 ## Comparação com a página do CACOP
 
 A página oficial [Súmulas CSMP — CACOP](https://www.mppi.mp.br/internet/cacop/sumulas-csmp/) publica as súmulas 04 a 08 e 12. Duas capturas HTTP 200 em 29/10/2026 têm 108.484 bytes cada, com SHA-256 `a6fa2bb9633d26776a6e947f657747a100f2babfe06d4c26ad79eda9f6d7faea` e `061beded64cd3a141089c57981cc1fecc1919820371e1d69b32a16e56db68f62`. O bloco jurídico normalizado é idêntico nas duas (SHA-256 `d532a454d20ec1c34ff31daf88d0185d898c8106788fbfd30a21d833646d2166`). As nºs 04 a 07 coincidem com o catálogo do Conselho Superior. A nº 08 tem ponto final adicional; na nº 12, as duas ocorrências de “lei nº” estão em minúsculas. As variantes estão nas mesmas identidades, sem substituir o texto do catálogo. Nenhum registro novo foi criado. Esta comparação não abrange as atas vinculadas nem confirma vigência.
+
+## Aprovação das cinco súmulas em 30/04/2021
+
+Na [página física 9 da ata da 4ª sessão extraordinária](<https://www.mppi.mp.br/internet/wp-content/uploads/2021/06/Ata-4a-SESSAO-CSMP-EXTRA-30-04-2021-4.pdf#page=9>), o trecho deliberativo publica:
+
+> Egrégio Conselho Superior, à unanimidade, na 4ª sessão extraordinária, de 30 de abril de 2021, à unanimidade, aprovou as súmulas com as seguintes redações:
+
+As cinco redações completas dos quadros seguintes estão nas mesmas identidades das [súmulas 04](sum-csmp/mppi-sum-csmp-4.md), [05](sum-csmp/mppi-sum-csmp-5.md), [06](sum-csmp/mppi-sum-csmp-6.md), [07](sum-csmp/mppi-sum-csmp-7.md) e [08](sum-csmp/mppi-sum-csmp-8.md). A página não numera os quadros; seus corpos e os vínculos do catálogo sustentam a associação. A repetição de “à unanimidade” foi mantida. A nº 08 termina em “2.000 UFR.”, como a página do CACOP.
+
+As duas capturas do PDF têm 215.992 bytes e SHA-256 `392df13e5260921f8b3dc2a09d9272d51e5e0498b13bc0b84a983e4c91bfa2e7`. O arquivo tem 33 páginas; este complemento publica somente a deliberação e os cinco quadros finais da página 9, conferidos visualmente. Não publica o trecho de fundamentação que começa antes dessa deliberação, as propostas anteriores, o restante da sessão nem o diário. As demais passagens continuam pendentes. Não houve OCR. Nenhum registro novo ou vigência atual foi inferido.
