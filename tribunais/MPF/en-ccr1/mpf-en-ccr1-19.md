@@ -1,0 +1,17 @@
+# MPF · Enunciado 19 da 1ª CCR
+
+- **Órgão:** Ministério Público Federal — 1ª Câmara de Coordenação e Revisão (Direitos Sociais e Fiscalização de Atos Administrativos)
+- **Espécie:** Enunciado da 1ª CCR
+- **Identificador:** `mpf-en-ccr1-19`
+- **Situação na fonte:** Alteração expressa na página; redação anterior não publicada neste verbete
+- **Fonte:** [Enunciados da 1ª CCR](https://www.mpf.mp.br/atuacao/ccr1/enunciados)
+
+## Texto publicado
+
+Enunciado 19: Não é de atribuição da 1ª CCR análise de Procedimento de Cooperação Internacional instaurado com o objetivo de atender a pedido de cooperação ativa ou passiva. Referências: arts. 28 a 47 do Anexo à Portaria PGR/MPF nº 40/2020 (Regimento Interno do Gabinete do (a) Procurador(a)-Geral da República).
+
+Enunciado alterado conforme deliberação do Colegiado na 8ª Sessão Ordinária de Coordenação, realizada em 16.05.2022.
+
+## Conferência e limites
+
+Texto, referências, notas e riscos da página oficial conferidos em duas capturas HTTP 200 de 29/10/2026. Espaços, quebras de linha e negrito/itálico foram normalizados; riscos foram preservados em Markdown. Atas, deliberações, diários, processos e atos normativos apenas citados não tiveram inteiro teor incorporado e não geraram novos registros. Redações anteriores ausentes não foram reconstruídas. A ausência de nota de revogação não confirma vigência atual nem efeito vinculante. Esta série é própria da 1ª CCR e não esgota as outras séries e câmaras do MPF.
