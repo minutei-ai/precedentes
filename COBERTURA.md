@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.538 registros únicos de 153 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.545 registros únicos de 154 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPAC — Enunciados do CSMP, documentos 1 a 6](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 6 | 6 | 0 |
+| [MPAC — Decisão da Resolução n. 3.762/2026](https://www.mpac.mp.br/administracao-superior/conselho-superior/resolucoes-normativas/) | 1 | 1 | 0 |
 | [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
 | [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
@@ -937,6 +939,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPAC](tribunais/MPAC/) | 7 | MPAC — 6 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
 | [MPMA](tribunais/MPMA/) | 48 | MPMA — Enunciados do Conselho Superior: revisão de 2022, nº 24/23 e numeração histórica do catálogo |
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
@@ -1015,7 +1018,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPDFT, MPMG, MPRJ, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPAC, MPAM, MPDFT, MPMG, MPRJ, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1812,3 +1815,13 @@ As três páginas — catálogo, assentos e súmula — tiveram duas capturas HT
 A transcrição conserva os nós de texto, inclusive caixa irregular, “PUB¬LICAÇÃO” e “relatança”; não executa a transformação de caixa do CSS `text-transform: uppercase`. Fontes, negrito, itálico, espaços e quebras foram normalizados. O bloco oculto `mcePaste` no fim do contêiner repete a redação do 005/03 e foi excluído, sem anexá-lo ao 002/12 nem gerar outra identidade. Não há CPF, RG, matrícula pessoal ou bloco de autenticação nos vinte corpos. Não houve PDF nem OCR.
 
 A página da súmula de entendimento 001.11.CSMP traz apenas a identificação 001.2011.CSMP no contêiner lido; não há enunciado nem link PDF no HTML capturado. Ficou pendente, sem registro. Outras páginas de assentos do catálogo, resoluções, diários e atos apenas citados permanecem fora deste lote. Sobre a main `f1a2e1faa3c074f1df68abe2178aeaf766ac4d4d` (37.518 registros em 152 órgãos), o delta é de vinte registros e um órgão: 37.538 registros em 153 órgãos. As nove lacunas iniciais do BNP permanecem; evidências privadas, apenas Markdown público e cobertura nacional parcial.
+
+## MPAC — enunciados 1 a 6 e decisão sobre proposta de ANPP
+
+O catálogo de enunciados do CSMP lista os números 1 a 16. Os dezesseis PDFs foram capturados em par; este lote incorpora apenas os seis primeiros, após leitura da única página de cada um na imagem e na camada textual. Títulos, preâmbulos, corpos, fechos e nomes e funções públicas foram mantidos. O nº 1 se intitula Enunciado, mas o preâmbulo diz “súmula”; as duas formas permanecem na mesma identidade. O nº 6 conserva o espaço entre sinais de parágrafo da camada textual. O quadro de publicação de cada PDF ficou atribuído nos metadados, sem afirmar leitura do diário. Os dez documentos dos nºs 7 a 16, 98 páginas, seguem pendentes de leitura e fora dos registros deste lote.
+
+A Resolução n. 3.762/2026, indicada no catálogo de resoluções como edição de enunciados sobre ANPP, foi lida nas três páginas. O voto vencedor não conhece da proposta; o vencido defende aprovação parcial. O dispositivo final, por maioria, não conhece, extingue sem resolução do mérito e arquiva. Entrou uma decisão colegiada própria, sem converter propostas em enunciados aprovados. “instituto de processual penal”, “92 E REGIMENTO” e “1.Procedimento” permanecem. A data do fecho é 21/01/2026, e o quadro indica DEMPAC de 09/02/2026, fl. 24/25.
+
+São nove páginas de sete documentos, lidas na imagem e no texto, sem OCR. Os pares HTTP 200 de 29/10/2026 coincidem em bytes e SHA-256. Cabeçalhos institucionais, logos, endereço, rodapés e números de página foram omitidos; fontes, negrito, itálico, espaços e quebras foram normalizados. Nomes e funções públicas permanecem; não há CPF, RG, matrícula pessoal ou autenticação no texto incorporado. Normas, atos e processos citados não viraram registros, e não se inferiu vigência atual ou efeito vinculante. O MPAC é órgão próprio, distinto do TJAC, do TCEAC e do MPF.
+
+Sobre a main `95854a3291e4cab1159fe53d6b6dc19b70d0761c` (37.538 registros em 153 órgãos), soma sete registros e um órgão: 37.545 registros em 154 órgãos. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; PDF, imagens, capturas e scripts privados. A cobertura nacional continua parcial.
