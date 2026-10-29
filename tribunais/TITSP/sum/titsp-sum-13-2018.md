@@ -1200,7 +1200,7 @@ Entretanto, com base no disposto no inciso I, o artigo 8º da referida Lei Compl
 
 (...)
 
-Permito-me acrescentar que a legislação paulista, em rigorosa harmonia com os permissivos constitucionais e complementares, prescreva as restrições cabíveis ao creditamento de valores indevidos.
+Permito-me acrescentar que a legislação paulista, em rigorosa harmonia com os permissivos constitucionais e complementares, prescreve as restrições cabíveis ao creditamento de valores indevidos.
 
 (...)
 
