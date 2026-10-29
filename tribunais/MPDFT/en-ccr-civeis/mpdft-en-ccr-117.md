@@ -1,0 +1,23 @@
+# MPDFT · Enunciado 117
+
+- **Órgão:** Ministério Público do Distrito Federal e Territórios (MPDFT)
+- **Espécie:** Enunciado
+- **Número:** 117
+- **Identificador:** `mpdft-en-ccr-117`
+- **Série de origem:** Enunciados cíveis das Câmaras de Coordenação e Revisão; atribuições e referências históricas conforme o texto.
+- **Fonte:** [Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis)
+- **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 63.771 bytes cada.
+- **SHA-256 do HTML:** `15c2d9fd82468a8ec8556606f956c9b2b2a2c71ecf76eeb1cf24fc20cee09810`
+- **Situação:** Notas de aprovação, nova redação, reedição e publicação são atribuídas à página; ausência de cancelamento não confirma vigência atual nem efeito vinculante.
+
+## Texto publicado
+
+ENUNCIADO Nº 117: Os prazos para tramitação e conclusão do inquérito civil e ajuizamento da ação de improbidade administrativa (art. 23, §§ 2º e 3º da Lei n.º 8.429/1992, com redação dada pela Lei n.º 14.230/2021) são prazos processuais e impróprios, não tendo natureza decadencial.
+
+Enunciados 116 e 117 publicados no Diário Eletrônico do MPDFT do dia 18/02/2022.
+
+## Conferência e limites
+
+O enunciado e os parágrafos seguintes do seu bloco foram lidos no HTML. Espaços, quebras e ênfases foram normalizados. Não houve PDF nem OCR. A numeração é a publicada, com lacunas; outras identidades apenas citadas não foram criadas. Redações anteriores ausentes não foram reconstruídas. Diários, atos, processos e precedentes apenas citados não foram lidos como documentos autônomos nem geraram identificadores. Referências processuais legítimas foram mantidas.
+
+A nota após o enunciado menciona outros números. Sua posição na página foi preservada; ela não é prova de que os demais textos estejam publicados neste bloco.
