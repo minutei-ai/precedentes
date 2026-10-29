@@ -1,15 +1,20 @@
 # Cobertura
 
-**37.784 registros únicos de 160 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.010 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
 
+## FONAJEF
+
+Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef): os cartões consultados cobrem os números 1–226 sem repetição ou lacuna nesta consulta. A página atual consultada apresenta a série até o XVIII FONAJEF; a busca na área oficial não identificou edição posterior ou novo enunciado. As [recomendações do FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) são uma seção separada e não foram incorporadas neste lote. Esse resultado limitado não demonstra exaustividade nem ausência de atualizações posteriores. Os textos mantêm literalmente avisos de cancelamento, revisão, redação anterior e transformação quando impressos; ausência de aviso não confirma vigência e nenhum efeito vinculante foi inferido. A série foi conferida como própria do FONAJEF/AJUFE, distinta do FONAJE, da TNU, do CNJ e dos TRFs.
+
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
 | [MPAL — Assentos e Súmula do CSMP (edição 2026)](https://www.mpal.mp.br/?page_id=15693) | 17 | 17 | 0 |
 | [MPMS — Enunciados do Conselho Superior](https://www.mpms.mp.br/atos-e-normas?sitcod=4&atotipcod=12) | 26 | 26 | 0 |
 | [MPAC — Enunciados do CSMP, documentos 1 a 6](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 6 | 6 | 0 |
@@ -951,6 +956,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [FONAJEF](tribunais/FONAJEF/) | 226 | AJUFE — catálogo de enunciados do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
