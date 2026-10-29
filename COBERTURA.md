@@ -1897,3 +1897,7 @@ Comparadas duas capturas HTTP 200 da página oficial do CACOP em 29/10/2026: sei
 ## MPPI — deliberação e redações finais de 30/04/2021
 
 Acrescentadas às súmulas 04–08 as cinco redações finais da página física 9 da ata de 30/04/2021, com a deliberação no [índice do órgão](tribunais/MPPI/README.md#aprovação-das-cinco-súmulas-em-30042021). Página conferida visualmente e na camada textual; par de PDFs idêntico (33 páginas, 215.992 bytes, SHA-256 no índice). O lote publica somente o trecho deliberativo e os cinco quadros, sem os fundamentos e propostas das páginas anteriores. Delta zero: 37.721 registros em 157 órgãos sobre a main `91461dbd`. As nove lacunas iniciais do BNP e a Súmula 01 do MPPI permanecem. Aprovação histórica não foi convertida em vigência atual.
+
+## MPPI — revisão documental da Súmula 12 em 2025
+
+Acrescentado o item 5.2 do extrato da ata de 01/08/2025 à [Súmula 12 do MPPI](tribunais/MPPI/sum-csmp/mppi-sum-csmp-12.md), com início na página física 77 e conclusão na 78. Transcrição visual das duas páginas existentes; pares de PDF, tamanho e SHA-256 conferidos. O dispositivo aprova uma revisão e não publica a redação anterior nem a exposição de motivos mencionada. O restante da ata de 78 páginas não foi incorporado. Delta zero sobre `e7ac9e7d`: 37.721 registros em 157 órgãos. As nove lacunas iniciais do BNP e a Súmula 01 do MPPI permanecem.
