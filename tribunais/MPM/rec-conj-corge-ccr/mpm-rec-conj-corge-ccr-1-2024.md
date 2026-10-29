@@ -62,7 +62,7 @@ conforme art. 1º, III, "b", da Lei 11.419/2006.
 
 Documento assinado eletronicamente por GIOVANNI RATTACASO, Coordenador da Câmara de Coordenação de Revisão, em 15/07/2024, às 16:23, conforme art. 1º, III, "b", da Lei 11.419/2006.
 
-A autenticidade do documento pode ser conferida no site [endereço de conferência omitido] informando o código verificador 1513466 e o código CRC 6884A3D7.
+[Bloco de autenticação omitido: endereço de conferência, código verificador e CRC.]
 
 19.03.0003.0000092/2024-49 CORGE1513466v3
 
@@ -72,4 +72,4 @@ A autenticidade do documento pode ser conferida no site [endereço de conferênc
 
 Duas capturas HTTP 200 do PDF têm os mesmos bytes e o SHA-256 indicado. Cada página foi lida na imagem PNG e confrontada com a camada de texto. Espaços de justificação, quebras de linha, negrito e itálico foram normalizados. Grafias, números, datas e pontuação da página foram preservados. O brasão foi omitido. O selo “Em vigor” da ficha não foi convertido em vigência nem em efeito vinculante. A data no caminho de upload não foi tratada como data do ato. Leis, resoluções, enunciados, decisões e outros atos apenas citados não receberam identificador.
 
-A ficha intitula RECOMENDAÇÃO CONJUNTA N° 1/CORGE-MPM/CCR-MPM, DE 15 DE JULHO DE 2024, com “N°” em sinal de grau, e a ementa está vazia (“Original”). O PDF traz “RECOMENDAÇÃO CONJUNTA 1/2024 – CORGE-MPM / CCR-MPM, de 15 de julho de 2024.” O número 1/2024 não foi renumerado nem fundido com o ato 1/2023. “recomendam:” estava em itálico e foi normalizado. A assinatura de Samuel Pereira quebra da página 1 para a página 2 depois de “15:23,”. Giovanni Rattacaso assina às 16:23 do mesmo dia, como “Coordenador da Câmara de Coordenação de Revisão”. Brasão, marca do SEI e QR foram omitidos. O endereço eletrônico de conferência impresso no rodapé foi omitido da transcrição; o código verificador e o código CRC, impressos no documento público, permanecem.
+A ficha intitula RECOMENDAÇÃO CONJUNTA N° 1/CORGE-MPM/CCR-MPM, DE 15 DE JULHO DE 2024, com “N°” em sinal de grau, e a ementa está vazia (“Original”). O PDF traz “RECOMENDAÇÃO CONJUNTA 1/2024 – CORGE-MPM / CCR-MPM, de 15 de julho de 2024.” O número 1/2024 não foi renumerado nem fundido com o ato 1/2023. “recomendam:” estava em itálico e foi normalizado. A assinatura de Samuel Pereira quebra da página 1 para a página 2 depois de “15:23,”. Giovanni Rattacaso assina às 16:23 do mesmo dia, como “Coordenador da Câmara de Coordenação de Revisão”. Brasão, marca do SEI e QR foram omitidos. O bloco de autenticação do rodapé, com endereço de conferência, código verificador e CRC, foi omitido da transcrição. As referências documentais e processuais permanecem.
