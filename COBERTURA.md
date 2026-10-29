@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.822 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.909 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -31,6 +31,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CJF — IV Jornada de Direito Processual Civil](https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/publicacoes-1/i-jornada-de-direito-processual-civil/iv-jornada-de-direito-processual-civil-2013-enunciados-aprovados-2013-2025/@@download/arquivo) | 38 | 38 | 0 |
 | [CJF — I Jornada de Direito da Seguridade Social](https://www.cjf.jus.br/enunciados/) | 53 | 53 | 0 |
 | [CJF — I Jornada de Direito Desportivo](https://www.cjf.jus.br/enunciados/) | 40 | 40 | 0 |
+| [CJF — I Jornada de Prevenção e Solução Extrajudicial de Litígios](https://www.cjf.jus.br/enunciados/) | 87 | 87 | 0 |
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
@@ -994,7 +995,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 1.344 | Consulta de Enunciados — Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/V/VI Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 1.431 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/V/VI Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2194,6 +2195,15 @@ Delta sobre `2c64f6c0`: 134 registros e nenhum órgão, projeção de 39.643 reg
 34 enunciados, números 82–115, publicados em série própria com identificadores baseados na jornada e no número oficial. Os cartões das duas páginas da pesquisa `jornada.id=181` e as 34 fichas foram conferidos diretamente; todos os pares de fichas responderam HTTP 200. Os campos, enunciados e justificativas coincidem entre as capturas. Tamanhos e SHA-256 foram recalculados a partir dos HTMLs; os 34 pares diferem em bytes. Foram lidos os campos de enunciado, justificativa, redação anterior, comissão, coordenações, referências legislativas e palavras de resgate. Redação anterior vazia; as fichas consultadas não apresentam seção separada de notas ou histórico. Não se infere vigência, efeito vinculante ou exaustividade.
 
 Delta sobre a main `9208776a` (39.475 registros em 164 órgãos; CJF 997): 34 registros e nenhum órgão adicional, totalizando 39.509 registros em 164 órgãos e CJF 1.031. Os demais lotes já integrados permanecem preservados e contados uma vez. O PR #118, da I Jornada Notarial (82), já está incluído na base. As nove lacunas iniciais do BNP permanecem. PDFs, atas e atos apenas citados não foram consultados; normas não foram atualizadas. Capturas e recibos ficam privados; somente Markdown público.
+
+
+## CJF — I Jornada de Prevenção e Solução Extrajudicial de Litígios
+
+87 enunciados, números 1–87, da pesquisa POST oficial do [CJF](https://www.cjf.jus.br/enunciados/) filtrada por `jornada.id=101`. As duas pesquisas capturadas em 29/10/2026 listam os mesmos 87 títulos, URLs e corpos. As 174 capturas das fichas individuais retornaram HTTP 200; bytes e SHA-256 foram verificados e registrados nos arquivos individuais e no ledger privado. Metadados e campos jurídicos coincidem entre cada par, e os corpos das fichas coincidem com ambas as pesquisas. Os 87 Markdown foram comparados diretamente com os campos HTML.
+
+As fichas não exibem campo de Justificativa; o campo de redação anterior está vazio. A ficha 64 tem Notas; 13 fichas apresentam Referência Legislativa e 74 têm Palavras de Resgate. Campos ausentes não foram reconstruídos. Coordenação e comissão permanecem como atribuídas pela ficha, sem inferir titularidade atual. Atos, normas, processos e órgãos citados não receberam IDs; não se afirma vigência, vinculação ou exaustividade. Sem PDF/OCR e sem leitura dos documentos citados. HTML, pesquisa e recibos permanecem privados; somente Markdown é público.
+
+Delta sobre a main `384c110b` (39.822 registros em 164 órgãos; CJF 1.344): 87 registros, nenhum órgão novo, totalizando 39.909 registros em 164 órgãos e CJF 1.431.
 
 ## CJF — V Jornada de Direito Civil
 
