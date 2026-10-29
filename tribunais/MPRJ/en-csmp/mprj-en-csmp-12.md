@@ -16,7 +16,7 @@
 
 ### Página 4
 
-ENUNCIADO CSMP Nº 12/2007: ~~IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO E AUSÊNCIA OU IMPOSSIBILIDADE DE COMPROVAÇÃO DE DANO AO ERÁRIO: Merece homologação a promoção de arquivamento de inquérito civil ou de procedimento preparatório para apurar improbidade administrativa se, no curso da investigação, ficarem comprovadas a prescrição da ação, regulada pelo artigo 23, incisos I e II da Lei Federal 8.429/92, e a ausência ou impossibilidade de comprovação de danos ao erário.~~ (Aprovado na sessão de 29 de maio de 2007. Redação alterada na sessão de 28 de setembro de 2017) (Revogado na sessão de 13 de fevereiro de 2020. DOE- MPRJ de 14.02.2020. Revogação com vigor a partir de 08 de fevereiro de 2021)
+ENUNCIADO CSMP Nº 12/2007: ~~IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO E AUSÊNCIA OU IMPOSSIBILIDADE DE COMPROVAÇÃO DE DANO AO ERÁRIO: Merece homologação a promoção de arquivamento de inquérito civil ou de procedimento preparatório para apurar improbidade administrativa se, no curso da investigação, ficarem comprovadas a prescrição da ação, regulada pelo artigo 23, incisos I e II da Lei Federal 8.429/92, e a ausência ou impossibilidade de comprovação de danos ao erário.~~ (Aprovado na sessão de 29 de maio de 2007. Redação alterada na sessão de 28 de setembro de 2017) (Revogado na sessão de 13 de fevereiro de 2020. DOE-MPRJ de 14.02.2020. Revogação com vigor a partir de 08 de fevereiro de 2021)
 
 ## Conferência e limites
 

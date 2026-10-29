@@ -18,7 +18,7 @@
 
 ENUNCIADO CSMP Nº 15/2007: DEFICIENTE. LESÃO A DIREITO INDIVIDUAL. FALTA DE ATRIBUIÇÃO DAS PROMOTORIAS ESPECIALIZADAS. Caberá homologação da promoção de arquivamento de procedimento instaurado para apurar notícia de violação a direitos, se, no curso da investigação, ficar comprovado que a lesão atingiu apenas direito individual e não direitos difusos ou coletivos.
 
-Referência legislativa: Constituição Federal, arts. 127 e 129, II e III; Lei Federal n.º 7.347/1985, arts. 1º e 21; Lei Federal n.º 8.625/1993, art. 25, inciso IV, “a”; Lei Complementar n.º 106/2003, art. 34, VI, “a”; Lei Federal n.º 8.069/1990, art. 201, V; Lei Federal n.º 8078/1990, arts. 5º, II; 51, §4º; 81, I, II e III; 201, V; Lei Federal n.º 7.853/1989, art. 3º, caput; Lei Federal n.o 10.741/2003, art. 74, I; Lei
+Referência legislativa: Constituição Federal, arts. 127 e 129, II e III; Lei Federal n.º 7.347/1985, arts. 1º e 21; Lei Federal n.º 8.625/1993, art. 25, inciso IV, “a”; Lei Complementar n.º 106/2003, art. 34, VI, “a”; Lei Federal n.º 8.069/1990, art. 201, V; Lei Federal n.º 8078/1990, arts. 5º, II; 51, §4º; 81, I, II e III; 201, V; Lei Federal n.º 7.853/1989, art. 3º, caput; Lei Federal n.º 10.741/2003, art. 74, I; Lei
 
 ### Página 6
 

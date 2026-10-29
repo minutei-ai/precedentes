@@ -16,7 +16,7 @@
 
 ### Página 29
 
-ENUNCIADO CSMP Nº 67/2022: IMPROBIDADE ADMINISTRATIVA. REVISÃO DA PROMOÇÃO DE PRORROGAÇÃO DO PRAZO DE TRAMITAÇÃO DE INQUÉRITO CIVIL. ARTIGO 23, §2º, DA LEI Nº 8.429/1.992. COMPETÊNCIA. Ressalvada a hipótese de atribuição originária do Procurador- Geral de Justiça, compete às Turmas do Conselho Superior do Ministério Público a decisão de não homologação da promoção de prorrogação do prazo de Inquérito Civil, prevista no artigo 23, §2º, da Lei nº 8.429/1.992, podendo a sua homologação ser decidida monocraticamente, na forma do artigo 56, III, do Regimento Interno do Conselho Superior do Ministério Público.
+ENUNCIADO CSMP Nº 67/2022: IMPROBIDADE ADMINISTRATIVA. REVISÃO DA PROMOÇÃO DE PRORROGAÇÃO DO PRAZO DE TRAMITAÇÃO DE INQUÉRITO CIVIL. ARTIGO 23, §2º, DA LEI Nº 8.429/1.992. COMPETÊNCIA. Ressalvada a hipótese de atribuição originária do Procurador-Geral de Justiça, compete às Turmas do Conselho Superior do Ministério Público a decisão de não homologação da promoção de prorrogação do prazo de Inquérito Civil, prevista no artigo 23, §2º, da Lei nº 8.429/1.992, podendo a sua homologação ser decidida monocraticamente, na forma do artigo 56, III, do Regimento Interno do Conselho Superior do Ministério Público.
 
 Data da aprovação: 26 de maio de 2022. 5ª Sessão Extraordinária do Conselho Superior do Ministério Público.
 
