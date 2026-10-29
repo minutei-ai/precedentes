@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.013 registros únicos de 145 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.034 registros únicos de 146 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRS — Súmulas do Conselho Superior](https://www.mprs.mp.br/orgaoscolegiados/sumulas/) | 21 | 21 | 0 |
 | [MPCE — Súmulas do Conselho Superior](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/) | 34 | 34 | 0 |
 | [MPF — Enunciados da 5ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/enunciados) | 58 | 57 | 0 |
 | [MPT — Enunciados 1–7 na ata publicada no DOU de 26/03/2015](https://biblioteca.mpf.mp.br/repositorio/bitstreams/55183dd8-bfe1-434d-908d-246ac4a9175a/download) | 7 | 3 | 4 |
@@ -919,6 +920,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPRS](tribunais/MPRS/) | 21 | MPRS — Súmulas do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
@@ -989,7 +991,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CNMP, MPF, MPM, MPCE, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPRS, CNMP, MPF, MPM, MPCE, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1610,3 +1612,11 @@ O catálogo oficial publica as súmulas nºs 1 a 34, com ano, natureza, objeto, 
 A nº 2 traz revogação em 2023; as nºs 22 e 32 trazem revogação em 2024. As nºs 4, 21 e 25 trazem alteração, sem reconstrução de redações anteriores. A nº 5 combina “EM VIGOR” com “cancelada pela Súmula 022/2019”; as duas informações permanecem atribuídas ao catálogo. A nº 34 conserva as repetições “Colégio Especial do Colégio” e “somente cabível recurso da decisão de arquivamento somente é cabível recurso da decisão de arquivamento”. Os anos, as datas e as referências divergentes não foram harmonizados. O campo de vigência não foi convertido em confirmação jurídica independente nem em efeito vinculante.
 
 Não houve leitura de PDF nem OCR. Espaços, quebras, negrito e tamanho de fonte foram normalizados. Diários, atos de alteração ou revogação, resoluções, leis e processos apenas vinculados ou citados ficam pendentes e não geraram registros. Nada acima da nº 34 foi provado inexistente. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Capturas e scripts ficam privados. Sobre a main `259ad2e91ce30821e19e26c3575d825d77551940`, com 36.979 registros em 144 órgãos, o lote soma 34 registros e um órgão: 37.013 registros em 145 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. A cobertura nacional continua parcial.
+
+## MPRS — súmulas do Conselho Superior
+
+O catálogo oficial, vinculado pela página de legislação institucional, lista 21 fichas: nºs 1, 3, 9, 11, 12, 15, 19, 20, 21, 22 e 24 a 34. As duas capturas HTTP 200 de 29/10/2026 coincidem: 35.148 bytes, SHA-256 `73261e431eca88097aa562ece50ca4e97bf78f03d62e35a71c3563ad7a041b91`. Cada ficha teve duas capturas; 20 pares coincidem em bytes. Na ficha da nº 27/17, a segunda captura traz título nº 26/16 com corpo nº 27, sessão 08-08-2017 e o mesmo enunciado. Primeira e terceira capturas trazem título nº 27/17, assim como o catálogo. A identidade foi conciliada pelo catálogo e pelo número e conteúdo do corpo; a divergência do título está declarada no registro, sem fusão com a nº 26/16.
+
+Todos os textos das 21 fichas foram lidos no HTML. Os títulos “NOVA REDAÇÃO” das nºs 11/01 e 22/13 e “RETIFICAÇÃO” da nº 24/12 foram mantidos. As datas originais, de nova sessão e de publicação permanecem lado a lado. Não se reconstruíram redações anteriores ausentes. Foram preservadas as grafias “Lei nº 8.079”, “Patrimônio genérico”, “vitimas”, “Procurador- Geral”, as aspas da nº 11 e a falta de ponto final da nº 19. Nomes e funções institucionais ficaram no texto. Processos e temas do STF apenas citados não viraram registros.
+
+Não houve PDF nem OCR. Espaços, quebras e ênfases foram normalizados. Diários, atas, leis, provimentos e outros atos apenas citados continuam pendentes. As lacunas numéricas do catálogo não foram preenchidas nem tratadas como inexistência de súmulas. A página não confirma vigência atual ou efeito vinculante. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Sobre a main `827966751425bed27c73c29d65ca1e098f2386a1`, com 37.013 registros em 145 órgãos, o lote soma 21 registros e um órgão: 37.034 registros em 146 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. Capturas e scripts ficam privados; a cobertura nacional continua parcial.
