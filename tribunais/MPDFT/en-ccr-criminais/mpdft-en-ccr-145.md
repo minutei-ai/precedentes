@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 145: O porte de arma branca por pessoas em situação de rua deve ser analisado à luz das circunstâncias concretas de cada caso, especialmente quanto ao contexto social do agente e possível destinação à prática de ilícitos, não sendo possível presumir-se de forma apriorística a tipicidade da conduta apenas em razão do porte do instrumento.
 
-(1ª Sessão Extraordinária Das Câmaras De Coordenação e Revisão Criminais Reunidas, 28/11/2025, Ref. SEI n˚ 19.04.1240.0105934/2025-92 . Publicado no Diário Eletrônico do MPDFT no dia 15/12/2025).
+(1ª Sessão Extraordinária Das Câmaras De Coordenação e Revisão Criminais Reunidas, 28/11/2025, Ref. SEI n˚ 19.04.1240.0105934/2025-92. Publicado no Diário Eletrônico do MPDFT no dia 15/12/2025).
 
 ## Conferência da fonte criminal e limites
 

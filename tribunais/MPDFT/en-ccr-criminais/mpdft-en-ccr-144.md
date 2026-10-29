@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 144: É irrecusável a promoção, pelo MP, de arquivamento de inquérito policial ou outro procedimento de investigação. Em havendo pedido da autoridade policial de retorno dos autos para diligências, o Órgão Ministerial, se discordar, deverá justificar seu entendimento ao promover o arquivamento dos autos.
 
-(1ª Sessão Extraordinária Das Câmaras De Coordenação e Revisão Criminais Reunidas, 28/11/2025, Ref. SEI n˚ 19.04.5018.0132013/2025-60 . Publicado no Diário Eletrônico do MPDFT no dia 05/12/2025).
+(1ª Sessão Extraordinária Das Câmaras De Coordenação e Revisão Criminais Reunidas, 28/11/2025, Ref. SEI n˚ 19.04.5018.0132013/2025-60. Publicado no Diário Eletrônico do MPDFT no dia 05/12/2025).
 
 ## Conferência da fonte criminal e limites
 

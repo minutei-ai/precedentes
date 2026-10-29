@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 146: Nos termos do § 4º, do art. 28, do CPP, a obrigatória audiência para homologação do acordo de não persecução penal deve ser realizada com a presença do defensor do Imputado, sendo desnecessária a participação do Órgão do Ministério Público, já que o ato se destina apenas a avaliação, pelo magistrado, da voluntariedade e legalidade do pacto despenalizador.
 
-(1ª Sessão Extraordinária das Câmaras de Coordenação e Revisão Criminais Reunidas, 27/02/2026, Ref. SEI n˚ 1 9.04.0579.0124636/2025-44 . Publicado no Diário Eletrônico do MPDFT no dia 04/03/2026)
+(1ª Sessão Extraordinária das Câmaras de Coordenação e Revisão Criminais Reunidas, 27/02/2026, Ref. SEI n˚ 19.04.0579.0124636/2025-44. Publicado no Diário Eletrônico do MPDFT no dia 04/03/2026)
 
 ## Conferência da fonte criminal e limites
 

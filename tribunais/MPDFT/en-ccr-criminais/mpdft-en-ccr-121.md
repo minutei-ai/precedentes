@@ -13,7 +13,8 @@
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
 - **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
 
-ENUNCIADO Nº 121: Quando ocorrer o encaminhamento de Notícia de Fato à autoridade policial para fins de investigação preliminar ou instauração de inquérito, o Promotor de Justiça deve indicar objetivamente as diligências que deverão ser realizadas. (Ref. Sisproweb nº 08190.000833/22-81)
+ENUNCIADO Nº 121: Quando ocorrer o encaminhamento de Notícia de Fato à autoridade policial para fins de investigação preliminar ou instauração de inquérito, o Promotor de Justiça deve indicar objetivamente as diligências que deverão ser realizadas.
+(Ref. Sisproweb nº 08190.000833/22-81)
 
 ## Conferência da fonte criminal e limites
 

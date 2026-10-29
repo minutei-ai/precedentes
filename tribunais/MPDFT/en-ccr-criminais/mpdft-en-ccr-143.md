@@ -19,7 +19,7 @@ II - A recusa de proposta de Acordo de Não Persecução Penal deve ser suficien
 
 III – A gravidade concreta dos fatos e o maior desvalor da conduta são motivações idôneas para a recusa de proposta do Acordo de Não Persecução Penal.
 
-(1ª Sessão Extraordinária Das Câmaras De Coordenação e Revisão Criminais Reunidas, 28/11/2025, Ref. SEI n˚ 19.04.5018.0070521/2023-98 . Publicado no Diário Eletrônico do MPDFT no dia 05/12/2025).
+(1ª Sessão Extraordinária Das Câmaras De Coordenação e Revisão Criminais Reunidas, 28/11/2025, Ref. SEI n˚ 19.04.5018.0070521/2023-98. Publicado no Diário Eletrônico do MPDFT no dia 05/12/2025).
 
 ## Conferência da fonte criminal e limites
 

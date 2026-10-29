@@ -12,7 +12,7 @@
 
 ## Texto publicado
 
-ENUNCIADO Nº 03 : A promoção de arquivamento de inquérito civil público, procedimento de investigação preliminar ou peças informativas deverá conter relatório pormenorizado dos atos incidentes e ocorrências registradas nos autos e a menção fundamentada dos motivos de fato e de direito nos quais o Promotor de Justiça baseia sua decisão. (Representação nº 1295-PRODECON, Ata da 3ª Sessão Ordinária).
+ENUNCIADO Nº 03: A promoção de arquivamento de inquérito civil público, procedimento de investigação preliminar ou peças informativas deverá conter relatório pormenorizado dos atos incidentes e ocorrências registradas nos autos e a menção fundamentada dos motivos de fato e de direito nos quais o Promotor de Justiça baseia sua decisão. (Representação nº 1295-PRODECON, Ata da 3ª Sessão Ordinária).
 
 ## Conferência e limites
 

@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 147: Sendo a audiência judicial de homologação ato obrigatório e imprescindível à validade e executoriedade do acordo de não persecução penal, devem os membros do MPDFT zelar por sua realização em tempo razoável, de modo a assegurar-se a efetividade e concretude da avença despenalizadora.
 
-(1ª Sessão Extraordinária das Câmaras de Coordenação e Revisão Criminais Reunidas, 27/02/2026, Ref. SEI n˚ 1 9.04.0579.0124636/2025-44 . Publicado no Diário Eletrônico do MPDFT no dia 04/03/2026)
+(1ª Sessão Extraordinária das Câmaras de Coordenação e Revisão Criminais Reunidas, 27/02/2026, Ref. SEI n˚ 19.04.0579.0124636/2025-44. Publicado no Diário Eletrônico do MPDFT no dia 04/03/2026)
 
 ## Conferência da fonte criminal e limites
 

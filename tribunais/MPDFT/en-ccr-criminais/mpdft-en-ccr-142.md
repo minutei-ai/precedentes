@@ -13,11 +13,11 @@
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
 - **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
 
-ENUNCIADO Nº 142 : I - O atendimento às vítimas de violência doméstica deve ser respeitoso, empático e fundado na perspectiva de gênero, assegurando-se-lhes acolhimento em ambiente seguro, a preservação dos seus dados e abordagem humanizada que favoreça a ruptura do ciclo de violência.
+ENUNCIADO Nº 142: I - O atendimento às vítimas de violência doméstica deve ser respeitoso, empático e fundado na perspectiva de gênero, assegurando-se-lhes acolhimento em ambiente seguro, a preservação dos seus dados e abordagem humanizada que favoreça a ruptura do ciclo de violência.
 
 II - Nos casos em que a vítima, em recebendo atendimento através de aplicativos de mensagens instantâneas, manifestar interesse na revogação de medidas protetivas de urgência, o membro do MPDFT deverá, ad cautelam, requerer ao Juízo competente a designação de audiência para a respectiva oitiva, de modo a avaliar-se sua livre manifestação de vontade, bem como receber esclarecimentos e informações sobre a pretendida revogação"
 
-(2ª Sessão Ordinária Das Câmaras De Coordenação e Revisão Criminais Reunidas, 09/10/2025, Ref. SEI n˚ 19.04.5939.0012096/2025-15 . Publicado no Diário Eletrônico do MPDFT no dia 10/11/2025).
+(2ª Sessão Ordinária Das Câmaras De Coordenação e Revisão Criminais Reunidas, 09/10/2025, Ref. SEI n˚ 19.04.5939.0012096/2025-15. Publicado no Diário Eletrônico do MPDFT no dia 10/11/2025).
 
 ## Conferência da fonte criminal e limites
 

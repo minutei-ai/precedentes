@@ -13,9 +13,9 @@
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
 - **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
 
-ENUNCIADO Nº 97: O Promotor Natural é responsável pela apresentação de contrarrazões, inclusive nos processos em que a Defesa fizer uso da faculdade prevista no §4º do art. 600, do Código de Processo Penal, tendo em vista que a atuação do Procurador de Justiça, na condição exclusiva de custos legis , não supre o oferecimento das razões contrárias ao recurso; revogando-se o Enunciado 72.
+ENUNCIADO Nº 97: O Promotor Natural é responsável pela apresentação de contrarrazões, inclusive nos processos em que a Defesa fizer uso da faculdade prevista no §4º do art. 600, do Código de Processo Penal, tendo em vista que a atuação do Procurador de Justiça, na condição exclusiva de custos legis, não supre o oferecimento das razões contrárias ao recurso; revogando-se o Enunciado 72.
 
-(Ref. PA n. 08190.042304/10-01).
+(Ref. PA n.08190.042304/10-01).
 
 ## Conferência da fonte criminal e limites
 

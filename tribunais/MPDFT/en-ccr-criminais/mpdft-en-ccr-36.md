@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 36: Cabe ao próprio promotor de justiça, com atribuição para atuar no feito, promover o arquivamento de peças de informação, procedimentos investigatórios criminais e demais procedimentos administrativos que versem sobre matéria criminal, instaurados no âmbito do Ministério Público e ainda não jurisdicionados, submetendo o feito à Câmara de Coordenação e Revisão da Ordem Jurídica Criminal, nos termos do inciso V, do artigo 171, da Lei Complementar nº 75/93.
 
-( Ref. PA 08190.061164/97-11). (Nova redação – Ref. PA 08190.053772/12-64, julgado em 07/10/2015. Alteração publicada no DOU n. 242, de 18/12/2015).
+(Ref. PA 08190.061164/97-11). (Nova redação – Ref. PA 08190.053772/12-64, julgado em 07/10/2015. Alteração publicada no DOU n. 242, de 18/12/2015).
 
 ## Conferência da fonte criminal e limites
 

@@ -13,7 +13,7 @@
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
 - **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
 
-ENUNCIADO Nº 111 : Em se tratando de crimes patrimoniais, notadamente o delito de furto, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, é incabível a incidência do princípio da insignificância quando o valor da coisa superar 10% (dez por cento) do salário mínimo da época.
+ENUNCIADO Nº 111: Em se tratando de crimes patrimoniais, notadamente o delito de furto, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, é incabível a incidência do princípio da insignificância quando o valor da coisa superar 10% (dez por cento) do salário mínimo da época.
 
 ## Conferência da fonte criminal e limites
 

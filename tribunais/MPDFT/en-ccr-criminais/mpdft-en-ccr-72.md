@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 72: Embora seja facultativo o oferecimento de contrarrazões em recursos criminais, convém seja tal peça apresentada pelo Promotor de Justiça de primeira instância, de acordo com sua prudente avaliação, sem prejuízo da ulterior manifestação do Procurador de Justiça, que, por igualmente agir na qualidade de órgão fiscalizador e de órgão de acusação, é tão responsável quanto seu antecessor pelo efetivo exercício da pretensão punitiva e pela justa aplicação do Direito.
 
-( Ref. PI nº 08190.042304/10-01, Ata da 23ª Sessão Extraordinária do Conselho Institucional, reunido em matéria criminal).
+(Ref. PI nº 08190.042304/10-01, Ata da 23ª Sessão Extraordinária do Conselho Institucional, reunido em matéria criminal).
 
 ## Conferência da fonte criminal e limites
 

@@ -12,7 +12,7 @@
 
 ## Texto publicado
 
-ENUNCIADO Nº 05 : Em se tratando de mandado de segurança originário e sendo o Ministério Público litisconsorte passivo, caberá ao Procurador-Geral de Justiça receber a citação e oferecer a impugnação, querendo. Ao Procurador de Justiça que oficia na Câmara competente caberá, na função de custos legis, ofertar parecer, como, aliás, em todo e qualquer mandado de segurança originário. (PA nº 08190.002998-0/95, Ata da 3ª Sessão Ordinária).
+ENUNCIADO Nº 05: Em se tratando de mandado de segurança originário e sendo o Ministério Público litisconsorte passivo, caberá ao Procurador-Geral de Justiça receber a citação e oferecer a impugnação, querendo. Ao Procurador de Justiça que oficia na Câmara competente caberá, na função de custos legis, ofertar parecer, como, aliás, em todo e qualquer mandado de segurança originário. (PA nº 08190.002998-0/95, Ata da 3ª Sessão Ordinária).
 
 ## Conferência e limites
 

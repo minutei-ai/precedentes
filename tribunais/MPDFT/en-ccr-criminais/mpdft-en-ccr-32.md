@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 32: Só os condenados que cumprem pena no regime semi-aberto, que tenham bom comportamento e tenham cumprido no mínimo um sexto da pena, se primários, ou um quarto, se reincidentes, têm direito à autorização para saída temporária a fim de freqüentar curso supletivo profissionalizante, bem como de instrução do segundo grau ou de grau superior. Cabe ao Ministério Público, por intermédio das Promotorias de Execução Penal, exercer a devida fiscalização para constatar a observância dos requisitos previstos no artigo 123 da Lei de Execução Penal. Conseqüentemente, os presos provisórios e os condenados que cumprem pena no regime fechado não têm direito ao benefício e, por conclusão lógica, não têm direito a prestar o exame vestibular, devendo o Ministério Público recorrer das autorizações concedidas em desacordo com a LEP.
 
-( Ref. PA 08190.001095/97-24). (Nova redação – Ref. PA 08190.053772/12-64, julgado em 07/10/2015. Alteração publicada no DOU n. 242, de 18/12/2015).
+(Ref. PA 08190.001095/97-24). (Nova redação – Ref. PA 08190.053772/12-64, julgado em 07/10/2015. Alteração publicada no DOU n. 242, de 18/12/2015).
 
 ## Conferência da fonte criminal e limites
 

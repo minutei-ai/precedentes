@@ -15,7 +15,8 @@
 
 ENUNCIADO Nº 47: Distinção entre arquivamento das investigações (art. 28, do Código de Processo Penal) e arquivamento dos autos administrativos.
 
-1. Não há que se confundir arquivamento das investigações, que tem natureza de conclusão, término do procedimento investigatório, com o arquivamento dos autos, que tem natureza meramente burocrático-administrativa. 2. Quando os fatos a serem investigados fugirem da atribuição do Ministério Público local, em vez de se encaminhar cópias à autoridade com atribuição para promover a apuração, devem ser enviados os originais, permanecendo no MPDFT as cópias, haja vista, muitas vezes, serem os originais imprescindíveis para a realização de provas periciais. (PIP Nº 08190 046247/00-31). (Nova redação – Ref. PA 08190.053772/12-64, julgado em 07/10/2015. Alteração publicada no DOU n. 242, de 18/12/2015).
+1. Não há que se confundir arquivamento das investigações, que tem natureza de conclusão, término do procedimento investigatório, com o arquivamento dos autos, que tem natureza meramente burocrático-administrativa.
+2. Quando os fatos a serem investigados fugirem da atribuição do Ministério Público local, em vez de se encaminhar cópias à autoridade com atribuição para promover a apuração, devem ser enviados os originais, permanecendo no MPDFT as cópias, haja vista, muitas vezes, serem os originais imprescindíveis para a realização de provas periciais. (PIP Nº 08190 046247/00-31). (Nova redação – Ref. PA 08190.053772/12-64, julgado em 07/10/2015. Alteração publicada no DOU n. 242, de 18/12/2015).
 
 (Revogado – Ref. SEI nº 19.04.1240.0070705/2023-02, julgado em 21/03/2024).
 

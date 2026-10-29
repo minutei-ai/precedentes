@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 30: O Promotor de Justiça não poderá desistir de recurso interposto por ele ou por seu antecessor. Todavia, tratando-se de recurso interposto por seu antecessor, poderá o Promotor de Justiça, ao arrazoá-lo, pleitear a manutenção da sentença, se com ela concordar.
 
-( Ref. PA nº 08190.001028/96-56).
+(Ref. PA nº 08190.001028/96-56).
 
 ## Conferência da fonte criminal e limites
 

@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 148: Homologado judicialmente o Acordo de Não Persecução Penal, após a devolução dos autos pelo Juízo ao Ministério Público, dar-se-á a respectiva execução nos termos do § 6º, do art. 28-A, do Código de Processo Penal.
 
-(1ª Sessão Extraordinária das Câmaras de Coordenação e Revisão Criminais Reunidas, 27/02/2026, Ref. SEI n˚ 1 9.04.0579.0124636/2025-44 . Publicado no Diário Eletrônico do MPDFT no dia 04/03/2026)
+(1ª Sessão Extraordinária das Câmaras de Coordenação e Revisão Criminais Reunidas, 27/02/2026, Ref. SEI n˚ 19.04.0579.0124636/2025-44. Publicado no Diário Eletrônico do MPDFT no dia 04/03/2026)
 
 ## Conferência da fonte criminal e limites
 

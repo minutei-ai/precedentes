@@ -13,9 +13,9 @@
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
 - **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
 
-ENUNCIADO Nº 105 : Por ser o acordo de não persecução penal um negócio jurídico pré-processual, fica preclusa a proposta com o oferecimento da Denúncia ou, ainda, com seu recebimento sem insurgência da Defesa que, a respeito, deverá se manifestar no primeiro momento em que atuar no processo.
+ENUNCIADO Nº 105: Por ser o acordo de não persecução penal um negócio jurídico pré-processual, fica preclusa a proposta com o oferecimento da Denúncia ou, ainda, com seu recebimento sem insurgência da Defesa que, a respeito, deverá se manifestar no primeiro momento em que atuar no processo.
 
-(Ref. PA n. 08190.000318/20-01)
+(Ref. PA n.08190.000318/20-01)
 
 ## Conferência da fonte criminal e limites
 

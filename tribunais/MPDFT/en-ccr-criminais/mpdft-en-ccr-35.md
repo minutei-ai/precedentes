@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 35: Ao emitir parecer em pedido de prisão temporária formulado pela autoridade policial, ou ao requerê-la, o órgão do Ministério Público deverá examinar cuidadosamente os fatos alegados para enquadrá-los, ou não, nas situações previstas nos incisos I, II e III, do artigo 1º, da Lei nº 7.960, de 21 de dezembro de 1989.
 
-( Ref. PA nº 08190.000164/98-91).
+(Ref. PA nº 08190.000164/98-91).
 
 ## Conferência da fonte criminal e limites
 

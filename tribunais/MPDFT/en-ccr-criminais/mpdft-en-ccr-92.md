@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 92: O Membro responsável pela promoção de arquivamento de inquérito policial, inquérito parlamentar, procedimento de investigação criminal ou peças de informação de natureza penal, em caso de não homologação pela Câmara de Coordenação e Revisão não poderá atuar na condução da ação penal correspondente.
 
-(Ref. PA n. 08190.058528/18-56)
+(Ref. PA n.08190.058528/18-56)
 
 ## Conferência da fonte criminal e limites
 

@@ -13,7 +13,7 @@
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
 - **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
 
-ENUNCIADO Nº 96: A transação penal, por envolver um acordo entre o órgão acusatório e o autor do fato, visando à imposição de pena de multa ou restritiva de direitos, sem a instauração da persecutio criminis in iudicio , pode ser realizada nas dependências do Ministério Público, sem a participação imediata do Juiz, mas com a presença de advogado constituído ou defensor, com o posterior encaminhamento ao Juízo para apreciação e homologação.
+ENUNCIADO Nº 96: A transação penal, por envolver um acordo entre o órgão acusatório e o autor do fato, visando à imposição de pena de multa ou restritiva de direitos, sem a instauração da persecutio criminis in iudicio, pode ser realizada nas dependências do Ministério Público, sem a participação imediata do Juiz, mas com a presença de advogado constituído ou defensor, com o posterior encaminhamento ao Juízo para apreciação e homologação.
 
 (Ref. PA n. 08190.000316/20-77).
 

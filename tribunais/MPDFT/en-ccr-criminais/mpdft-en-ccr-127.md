@@ -115,7 +115,7 @@ XXXIX. A promoção de arquivamento de Procedimento Investigatório Criminal ser
 
 XL. Ressalvada a independência funcional, orienta-se que, antes da promoção de arquivamento, o membro oportunize a participação da vítima ou de seus sucessores, a fim de que indiquem eventuais elementos de informação ou outras diligências, as quais serão realizadas ou não, a juízo fundamentado do Membro”.
 
-(64ª Sessão Extraordinária das Câmaras Criminais Reunidas, de 07/12/2023,. Ref. SEI n˚ 19.04.3104.0097122/2023- 57. Publicado no Diário Eletrônico do MPDFT no dia 18/12/2023). (Atualização julgada na 4ª Sessão Extraordinária das Câmaras Criminais Reunidas, de 14/05/2024. Referente ao SEI 19.04.5939.0024309/2023-67. Publicada no Diário Eletrônico do MPDFT no dia 20/06/2024). (Atualização julgada na 2ª Sessão Ordinária das Câmaras Criminais Reunidas, de 10/09/2025. Referente ao SEI 19.04.5939.0126539/2025-86. Publicada no Diário Eletrônico do MPDFT no dia 05/11/2025).
+(64ª Sessão Extraordinária das Câmaras Criminais Reunidas, de 07/12/2023,. Ref. SEI n˚ 19.04.3104.0097122/2023- 57. Publicado no Diário Eletrônico do MPDFT no dia 18/12/2023). (Atualização julgada na 4ª Sessão Extraordinária das Câmaras Criminais Reunidas, de 14/05/2024. Referente ao SEI 19.04.5939.0024309/2023-67. Publicada no Diário Eletrônico do MPDFT no dia 20/06/2024).(Atualização julgada na 2ª Sessão Ordinária das Câmaras Criminais Reunidas, de 10/09/2025. Referente ao SEI 19.04.5939.0126539/2025-86. Publicada no Diário Eletrônico do MPDFT no dia 05/11/2025).
 
 ## Conferência da fonte criminal e limites
 

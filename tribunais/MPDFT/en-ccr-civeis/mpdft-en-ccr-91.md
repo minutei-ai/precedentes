@@ -28,7 +28,7 @@ O enunciado e os parágrafos seguintes do seu bloco foram lidos no HTML. Espaço
 
 ENUNCIADO Nº 91: Na prorrogação do prazo para a conclusão do procedimento administrativo é necessário que a decisão seja proferida mediante a explicitação dos motivos que levam à necessidade de prorrogação. Inteligência das Resoluções 174/CNMP/2017 e 78/2007/CSMPDFT e do Ato Deliberativo n. 01/2018.
 
-(Ref. PA n. 08190.017212/19-12 / Criminais e Cíveis Reunidas ) .
+(Ref. PA n.08190.017212/19-12 / Criminais e Cíveis Reunidas).
 
 ## Conferência da fonte criminal e limites
 

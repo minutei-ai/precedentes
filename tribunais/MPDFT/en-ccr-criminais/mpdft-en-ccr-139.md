@@ -13,7 +13,7 @@
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
 - **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
 
-ENUNCIADO Nº 139 : O Acordo de Não Persecução Penal, quando admissível, deve ser proposto pelo Querelante na ação penal privada, cabendo ao Órgão do Ministério Público, em face de sua legitimidade supletiva, ofertar a respectiva proposta, quando houver recusa infundada do Querelante.
+ENUNCIADO Nº 139: O Acordo de Não Persecução Penal, quando admissível, deve ser proposto pelo Querelante na ação penal privada, cabendo ao Órgão do Ministério Público, em face de sua legitimidade supletiva, ofertar a respectiva proposta, quando houver recusa infundada do Querelante.
 
 (2ª Sessão Ordinária Das Câmaras De Coordenação E Revisão Criminais Reunidas, 09/10/2025, Ref. 19.04.0319.0050858/2025-78. Publicado no Diário Eletrônico do MPDFT no dia 29/10/2025).
 

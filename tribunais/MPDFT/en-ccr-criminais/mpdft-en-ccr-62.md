@@ -13,7 +13,8 @@
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
 - **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
 
-ENUNCIADO Nº 62: PERÍCIA EM CRIMES CONTRA A PROPRIEDADE IMATERIAL. POSSIBILIDADE DE REALIZAÇÃO POR AMOSTRAGEM, PARA CONFERIR CELERIDADE AOS EXAMES PERICIAIS. É possível a realização de perícia por amostragem para a caracterização de crime contra a propriedade imaterial quando excessiva a quantidade de objetos apreendidos. Para tanto, a autoridade policial deve identificar os bens, nos termos do art. 530-C, do CPP, dividi-los em lotes, realizar a perícia por amostragem, devendo a análise recair sobre uma quantidade razoável de unidades constantes de vários lotes diferentes. Em que pese o mandamento previsto no art. 530-D do CPP, o procedimento é possível diante da interpretação extensiva do dispositivo, nos termos do art. 3º, do CPP e 5º, LXXVIII, da Constituição Federal.
+ENUNCIADO Nº 62: PERÍCIA EM CRIMES CONTRA A PROPRIEDADE IMATERIAL. POSSIBILIDADE DE REALIZAÇÃO POR AMOSTRAGEM, PARA CONFERIR CELERIDADE AOS EXAMES PERICIAIS.
+É possível a realização de perícia por amostragem para a caracterização de crime contra a propriedade imaterial quando excessiva a quantidade de objetos apreendidos. Para tanto, a autoridade policial deve identificar os bens, nos termos do art. 530-C, do CPP, dividi-los em lotes, realizar a perícia por amostragem, devendo a análise recair sobre uma quantidade razoável de unidades constantes de vários lotes diferentes. Em que pese o mandamento previsto no art. 530-D do CPP, o procedimento é possível diante da interpretação extensiva do dispositivo, nos termos do art. 3º, do CPP e 5º, LXXVIII, da Constituição Federal.
 
 (Ref. PIP 08190.015450/06-13)
 

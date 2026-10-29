@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 108: O delito do artigo 50 da Lei Federal n. 6.766/79 se perfaz com parcelamento jurídico ou com o parcelamento material e, neste último caso, o lapso temporal da prescrição da pretensão punitiva estatal começa a fluir a partir do momento em que cessar a permanência diretamente relacionada à vontade do sujeito ativo do delito.
 
-(Ref. PA n. 08190.000301/20-08)
+(Ref. PA n.08190.000301/20-08)
 
 ## Conferência da fonte criminal e limites
 

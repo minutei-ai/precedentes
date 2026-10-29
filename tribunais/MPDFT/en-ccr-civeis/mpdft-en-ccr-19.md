@@ -12,7 +12,7 @@
 
 ## Texto publicado
 
-ENUNCIADO Nº 19: INTERVENÇÃO DO MINISTÉRIO PÚBLICO EM AÇÕES POSSESSÓRIAS. Nas ações possessórias, a intervenção do Ministério Público dar-se-á por suas Promotorias de Justiça Especializadas da Ordem Urbanística - PROURB, do Meio Ambiente - PRODEMA e do Patrimônio Público e Social - PRODEP, ficando ressalvada a atuação das Promotorias de JustiçaCíveisoudaFazendaPública nashipóteses doart.178,incisosIIeIII, do Novo Código de Processo Civil. (Conflitos nos 08190.014296/04-10, 08190.014297/04-82,08190.014298/04-45e08190.014299/04-16). (Nova redação – Ref. PA 08190.058637/17-19, julgado em 29/01/2021. Alteração publicada no Diário Eletrônico do MPDFT, de 07/07/2021).
+ENUNCIADO Nº 19: INTERVENÇÃO DO MINISTÉRIO PÚBLICO EM AÇÕES POSSESSÓRIAS. Nas ações possessórias, a intervenção do Ministério Público dar-se-á por suas Promotorias de Justiça Especializadas da Ordem Urbanística - PROURB, do Meio Ambiente - PRODEMA e do Patrimônio Público e Social - PRODEP, ficando ressalvada a atuação das Promotorias de JustiçaCíveisoudaFazendaPública nashipóteses doart.178,incisosIIeIII, do Novo Código de Processo Civil. (Conflitos nos 08190.014296/04-10, 08190.014297/04-82,08190.014298/04-45e08190.014299/04-16).(Nova redação – Ref. PA 08190.058637/17-19, julgado em 29/01/2021. Alteração publicada no Diário Eletrônico do MPDFT, de 07/07/2021).
 
 Enunciado 19 publicado no DJ, Seção 1, de 23/03/04, p. 502.
 

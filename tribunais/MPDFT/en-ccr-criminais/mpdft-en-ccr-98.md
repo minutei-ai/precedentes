@@ -15,7 +15,7 @@
 
 ENUNCIADO Nº 98: Nos inquéritos policiais envolvendo a Lei Maria da Penha, quando a autoridade policial não realizar a oitiva do Imputado, nos termos do art. 12, V, da Lei 11.340/2006 inexiste óbice legal que a Promotoria de Justiça o faça nas dependências do Ministério Público, inclusive através de gravação, com a adoção das cautelas necessárias a respeito do direito constitucional ao silêncio e possibilidade de assistência de defensor, dentre outras garantias constitucional e legalmente previstas.
 
-(Ref. PA n. 08190.017229/19-15).
+(Ref. PA n.08190.017229/19-15).
 
 ## Conferência da fonte criminal e limites
 
