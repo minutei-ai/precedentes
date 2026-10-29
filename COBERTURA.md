@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.150 registros únicos de 162 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.199 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
@@ -959,6 +960,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CJF](tribunais/CJF/) | 49 | Consulta de Enunciados — I Jornada da Justiça Federal pela Equidade Racial |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2007,3 +2009,18 @@ Delta sobre a main `37fca3fe`: 50 registros e nenhum órgão; 38.119 registros e
 Conferidos os 14 textos das páginas físicas/impressas 119–120 com o caderno de 2025. Lidas também as páginas físicas 4 (ficha catalográfica), 118 (abertura da seção) e 121 (em branco). Os anais não numeram os textos; a associação às mesmas 14 identidades usa ordem, conteúdo e congresso. Variantes das nºs 6, 7, 8, 10, 13 e 14 preservadas sem substituir o caderno. As outras oito redações coincidem após normalização de quebras, hífens de divisão silábica e estilos. Pares oficiais de PDF idênticos; tamanho e SHA-256 nas fichas. O volume tem 122 páginas físicas, enquanto a ficha catalográfica o descreve como “118 p.”. Não se afirma leitura integral, atualização normativa ou vigência. Sem OCR.
 
 Delta zero sobre `52b38c2d`: 38.119 registros em 161 órgãos; CNMP 96. Demais páginas/artigos/boas práticas permanecem fora do lote, assim como as lacunas textuais anteriores. Somente Markdown público; capturas e derivados privados.
+
+
+## CJF — I Jornada da Justiça Federal pela Equidade Racial
+
+Incorporados os 49 enunciados e suas justificativas em série própria `en-equidade-racial`, números 1–49. A pesquisa pública por `jornada.id=521` e as 49 fichas individuais foram capturadas em pares HTTP 200; números, enunciados, justificativas e metadados coincidem em cada par. HTML bruto varia em hash, com tamanho e SHA-256 nas fichas. Foram lidos os 49 corpos e as 49 justificativas, com espaços e quebras normalizados; referências, grafias, notas e URLs literais preservadas. O campo revogado está vazio e não foi tratado como vigência. Sem data de aprovação inferida, sem efeito vinculante ou exaustividade afirmados. Sem PDF/OCR. Não se duplicam espelhos em outros órgãos.
+
+Delta sobre a main `fbdcc4db`: 49 registros e um órgão, totalizando 38.168 registros em 162 órgãos. CNMP 96 e FONAJEF 271 permanecem; as nove lacunas originais do BNP e os dois avisos do MPAL sem enunciado continuam. O PR 99 do MPRN está separado e não entra nesta contagem. As demais jornadas, publicações em PDF e atos apenas citados permanecem pendentes. Capturas e scripts privados; somente Markdown público.
+
+## MPRN — assentos do CSMP
+
+A [página institucional do CSMP/MPRN](https://mprn.mp.br/paginas/conselho-superior-do-ministerio-publico-do-rn/) vincula o [catálogo oficial de assentos](https://archivum.mprn.mp.br/csmp/assento/), que por sua vez lista a [Relação Geral compilada e atualizada](https://archivum.mprn.mp.br/intranet/csmp/files/assento/Rela%C3%A7%C3%A3o%20Geral%20dos%20Assentos%20-%20Compilada%20e%20Atualizada.pdf). A compilação traz os Assentos nº 01–31 em seis páginas. As seis imagens foram lidas visualmente e os 31 textos comparados com a compilação, incluindo a sequência e os números, as redações anteriores riscadas dos nºs 15, 17, 19 e 22 e a anotação de revogação do nº 16. Cada número está em um único registro; avisos, normas citadas e pistas de outros documentos não receberam identificadores.
+
+As páginas institucional e do catálogo, além dos 29 PDFs ligados pelo catálogo, têm capturas pareadas privadas. Os 29 pares e arquivos locais foram conferidos por HTTP, bytes e SHA-256; as 29 URLs originais foram consultadas novamente e responderam HTTP 200 com tamanho e hash coincidentes. Os PDFs individuais foram verificados quanto à integridade das capturas, não lidos para transcrição; os 31 corpos foram conferidos contra a compilação. Capturas, PDFs, imagens e recibos permanecem fora do repositório.
+
+A compilação registra a sequência consultada e as relações textuais nela impressas; isso não estabelece vigência atual, efeito vinculante ou exaustividade da série. Nomes e funções públicas permanecem como publicados; identificadores pessoais e URLs de validação/autenticação não foram incluídos. Na main `aab75242`, o acervo informado era de 38.168 registros e 162 órgãos; com estes 31 registros próprios do MPRN, a soma esperada é 38.199 registros em 163 órgãos se a base não mudar. A contagem global única permanece pendente da validação já enfileirada; nove lacunas do BNP e os avisos MPAL 004/008 sem verbete continuam. FONAJE e o histórico MPAL permanecem em trabalho paralelo.
