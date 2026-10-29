@@ -124,4 +124,3 @@ Procurador de Justiça,
 Secretário-Geral.
 
 DEMP: 7/7/2025.
-
