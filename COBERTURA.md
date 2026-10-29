@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.024 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.069 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
 | [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
 | [MPAL — Assentos e Súmula do CSMP (edição 2026)](https://www.mpal.mp.br/?page_id=15693) | 17 | 17 | 0 |
@@ -957,7 +958,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [FONAJEF](tribunais/FONAJEF/) | 226 | AJUFE — catálogo de enunciados do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
+| [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
@@ -1983,3 +1984,10 @@ Comparação independente dos 226 corpos com os 12 HTMLs confirmou o texto, cons
 Incorporados os 14 enunciados numerados 1–14 do caderno “ENUNCIADOS APROVADOS”, em série própria `en-congresso-integridade-2025`, com atribuição ao congresso promovido pela CDPA/CNMP. Não são atos do Plenário da série CALJ. Quatro páginas lidas visualmente; a camada extraível perde acentos, preservados a partir das imagens. Pares oficiais HTTP 200 idênticos; tamanho e SHA-256 nas fichas. Sem OCR. Cabeçalhos gráficos, justificação e estilos normalizados; referências jurídicas literais, sem atualização ou inferência de vigência ou vinculação. As propostas rejeitadas e os anais do 1º Congresso não entraram neste lote.
 
 Delta sobre a main `53a6208f`: 14 registros e nenhum órgão; 38.024 registros em 161 órgãos, CNMP 46 (22 enunciados CALJ, 10 súmulas e 14 enunciados de congresso). As nove lacunas iniciais do BNP e os dois avisos sem enunciado do MPAL permanecem. Capturas e derivados privados, somente Markdown público; cobertura nacional parcial.
+
+
+## FONAJEF — recomendações da AJUFE
+
+Incorporadas 45 recomendações numeradas 1–45 da listagem oficial, em série própria `rec`, separada dos 226 enunciados. Três páginas de catálogo em pares HTTP 200 (offsets 0, 20 e 40), texto jurídico e encontro iguais entre os pares. Os hashes brutos diferem por conteúdo da página; tamanhos e SHA-256 constam das fichas. Todos os 45 corpos foram lidos e comparados com os HTMLs; a sequência foi identificada pelo número, pois a ordem da paginação não é numérica. A nº 43 preserva os onze princípios. Citações, propostas legislativas e órgãos referidos não criaram registros. Sem PDF/OCR: o compilatório ligado e outras séries/edições permanecem pendentes. Não se infere vigência, vinculação ou completude.
+
+Delta sobre a main `4678f44e`: 45 registros, nenhum órgão. Total 38.069 registros em 161 órgãos; FONAJEF 271 (226 enunciados e 45 recomendações). CNMP permanece em 46; as nove lacunas iniciais do BNP e os dois avisos sem texto do MPAL continuam. Evidências privadas e somente Markdown público.
