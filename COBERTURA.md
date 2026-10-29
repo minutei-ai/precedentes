@@ -1286,7 +1286,7 @@ Foram preservadas as grafias da página, inclusive “SUMULA” sem acento nas n
 
 A expressão “entendimento vinculativo”, quando está no corpo, permanece no texto e não foi convertida em classificação atual de vigência ou de efeito vinculante. O § 1º, inciso III, do art. 1º da Portaria nº 342 atribui às súmulas normativas efeito vinculante aos órgãos e agentes públicos da ANS, por remissão ao inciso III do art. 30 da Resolução Regimental nº 1, de 17 de março de 2017. Essa remissão não foi convertida em classificação atual de cada registro. A ausência de nota não confirma vigência atual. Resoluções, instruções, portarias, o regimento, acórdãos, pareceres, notas técnicas e processos apenas citados não geraram identificadores.
 
-O lote acrescenta 21 registros e um órgão. A main df17b60f já reúne as três súmulas administrativas da ANAC: 36.270 registros em 137 órgãos. Com este lote o acervo passa a 36.291 registros em 138 órgãos. As nove lacunas textuais anteriores permanecem. A cobertura nacional e a série da ANS continuam parciais. Capturas e scripts ficam privados.
+O lote acrescenta 21 registros e um órgão. A main 7be86266 já reúne as três súmulas administrativas da ANAC e a nota de 2019 nas súmulas administrativas do TRT8, sem registro novo nesse complemento: 36.270 registros em 137 órgãos. Com este lote o acervo passa a 36.291 registros em 138 órgãos. As nove lacunas textuais anteriores permanecem. A cobertura nacional e a série da ANS continuam parciais. Capturas e scripts ficam privados.
 
 ## ANAC — súmulas administrativas
 
