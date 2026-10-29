@@ -16,3 +16,9 @@ ARQUIVAMENTO. DECLÍNIO DE ATRIBUIÇÕES. RECURSOS DO FUNDEB. COMPLEMENTAÇÃO D
 Texto transcrito do conteúdo HTML apresentado pelo catálogo oficial. Espaços e quebras foram normalizados; conteúdo e pontuação foram mantidos. O catálogo não informa situação para este registro.
 
 A página oficial [Súmulas CSMP — CACOP](https://www.mppi.mp.br/internet/cacop/sumulas-csmp/) também publica este texto. Os dois blocos HTML capturados em 29/10/2026 coincidem com o corpo acima após normalização de espaços.
+
+## Redação aprovada na ata de 30/04/2021
+
+ARQUIVAMENTO. DECLÍNIO DE ATRIBUIÇÕES. RECURSOS DO FUNDEB. COMPLEMENTAÇÃO DA UNIÃO E DEMAIS VERBAS FEDERAIS. ATRIBUIÇÃO DO MINISTÉRIO PÚBLICO FEDERAL (MPF) Em caso de indícios de malversação (desvio) de verbas do FUNDEB, se houver complementação pela União, e demais verbas federais, na seara cível ou criminal, os autos serão enviados ao Ministério Público Federal.
+
+Fonte: [4ª sessão extraordinária do CSMP, página física 9](<https://www.mppi.mp.br/internet/wp-content/uploads/2021/06/Ata-4a-SESSAO-CSMP-EXTRA-30-04-2021-4.pdf#page=9>). Os cinco quadros desta página não imprimem números; a associação aos números 04–08 segue os links e os textos do catálogo oficial. Camada textual conferida com a imagem da página. A redação do catálogo foi preservada. A aprovação registrada na ata não comprova vigência atual.

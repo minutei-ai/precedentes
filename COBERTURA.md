@@ -1908,3 +1908,7 @@ Delta zero sobre a main `224d898d3d09dcca94b29e3562018b420f11cab8`: 37.711 regis
 ## MPPI — página adicional de súmulas do CACOP
 
 Comparadas duas capturas HTTP 200 da página oficial do CACOP em 29/10/2026: seis súmulas (04–08 e 12) já representadas, delta zero. Os corpos das nºs 04–07 coincidem com o catálogo do CSMP; a nº 08 acrescenta apenas o ponto final e a nº 12 usa “lei nº” em minúsculas em duas ocorrências. As versões permanecem separadas nas identidades existentes. Metadados e limites estão no [índice do MPPI](tribunais/MPPI/README.md#comparação-com-a-página-do-cacop). As nove lacunas iniciais do BNP e a Súmula 01 do MPPI continuam pendentes.
+
+## MPPI — deliberação e redações finais de 30/04/2021
+
+Acrescentadas às súmulas 04–08 as cinco redações finais da página física 9 da ata de 30/04/2021, com a deliberação no [índice do órgão](tribunais/MPPI/README.md#aprovação-das-cinco-súmulas-em-30042021). Página conferida visualmente e na camada textual; par de PDFs idêntico (33 páginas, 215.992 bytes, SHA-256 no índice). O lote publica somente o trecho deliberativo e os cinco quadros, sem os fundamentos e propostas das páginas anteriores. Delta zero: 37.721 registros em 157 órgãos sobre a main `91461dbd`. As nove lacunas iniciais do BNP e a Súmula 01 do MPPI permanecem. Aprovação histórica não foi convertida em vigência atual.
