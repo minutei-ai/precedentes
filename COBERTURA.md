@@ -1,13 +1,14 @@
 # Cobertura
 
-**36.821 registros únicos de 143 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.844 registros únicos de 143 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPF — Enunciados da PFDC e Orientação nº 1/2026](https://www.mpf.mp.br/atuacao/pfdc/orientacao-e-enunciados) | 23 | 23 | 0 |
 | [MPT — Enunciados da CCR](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) | 29 | 29 | 0 |
 | [CNMP — Enunciados e súmulas da CALJ](https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-acompanhamento-legislativo-e-jurisprudencia/jurisprudenciacalj/enunciados-e-sumulas) | 32 | 32 | 0 |
 | [MPF — Enunciados do Conselho Institucional](https://www.mpf.mp.br/o-mpf/orgaos-superiores/conselho-institucional/documentos-e-publicacoes-old/enunciados) | 20 | 20 | 0 |
@@ -913,7 +914,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | --- | ---: | --- |
 | [MPT](tribunais/MPT/) | 29 | MPT — Enunciados da CCR, HTML oficial |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
-| [MPF](tribunais/MPF/) | 350 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
+| [MPF](tribunais/MPF/) | 373 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
@@ -1465,3 +1466,13 @@ O nº 57 foi lido na página única de duas capturas HTTP 200 com 48.159 bytes e
 O nº 58 foi lido na página única de duas capturas HTTP 200 com 47.986 bytes e SHA-256 `b9455e6b823e558cf0e5ed5bff140e1ee5358d1121086a9b3152387e6785e3dd`, protocolo PGR-00085713/2019. A página web desse arquivo estava indisponível; a fonte é a captura HTTP 200. A expressão “(assinado e datado digitalmente)” foi mantida. Nívio de Freitas Silva Filho, Subprocurador-Geral da República e Coordenador, permanece. A chave e o bloco de login foram omitidos. O aviso HTML de revogação pelo enunciado nº 68 não está nesse PDF.
 
 Este lote soma 83 registros e nenhum órgão sobre a main 5062886f57f4da02b8087cd1740122f39e97583c, que já reúne os 115 enunciados da 2ª CCR e os 32 registros do CNMP: 36.709 registros em 142 órgãos e 267 do MPF. Com estes 83, o acervo passa a 36.792 registros em 142 órgãos e o MPF a 350. O TJBA permanece em 272. As nove lacunas textuais originais permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Datas, adequações e a ausência de nota não confirmam vigência atual nem efeito vinculante. A série própria da 5ª CCR, as orientações, a Portaria nº 07/2018, as páginas não lidas da Portaria nº 05/2016 e os demais PDFs apenas vinculados continuam pendentes. Este lote não altera o Conselho Institucional, a série da 2ª CCR nem o CNMP. A cobertura nacional continua parcial. Capturas, imagens e scripts ficam privados.
+
+## MPF — PFDC, enunciados e orientação de registro
+
+Duas capturas HTTP 200 de 29/10/2026 da página “Orientação e Enunciados” têm bytes idênticos. Os enunciados nºs 1 a 22 entraram em série própria `en-pfdc`, identificadores `mpf-en-pfdc-1` a `mpf-en-pfdc-22`. Os cinquenta parágrafos recompõem o corpo HTML após normalização de espaços e quebras. O prefixo repetido “Enunciado nº 7” no corpo da nº 7 e o plural “Enunciados nº 1” foram preservados. As referências, inclusive as incompletas, não foram reconstruídas.
+
+Os nºs 1 a 4 estão riscados na fonte. O risco foi mantido sem lhes atribuir cancelamento. A nº 14 traz nota de cancelamento pela Portaria nº 25/2025/PFDC/MPF, com corpo sem risco; o ato citado não foi lido. As nºs 10 e 11 mantêm as notas de nova redação de 28/08/2018 e seus identificadores de documentos distintos. A nº 16 menciona a Portaria nº 99/2026, que não gerou ID. A ausência de nota nos demais não comprova vigência atual nem efeito vinculante.
+
+A Orientação PFDC nº 01 foi incorporada integralmente quanto ao texto jurídico das duas páginas do PDF, com nove considerandos, cinco incisos e o fecho. As duas capturas têm 115280 bytes e SHA-256 `f6bae0e03fbd77a3c95a89357e3d3c979a3c7c5f0ed35a0a19c32c79183157d1`. A camada textual foi conferida visualmente nas duas imagens, sem OCR. O título data 12/06/2026 e a coluna de validação informa assinatura em 13/06/2026 às 16:54; ambas foram mantidas separadas. O texto declara caráter exclusivamente orientativo. Brasão, cabeçalhos repetidos e coluna de validação não foram reproduzidos; nome e funções públicas permanecem. Chaves e endereços de validação não entraram no Markdown.
+
+Atas, portarias, processos, normas e outros atos apenas citados não geraram novos registros. As demais orientações e enunciados fora desta página continuam pendentes. O lote soma 23 registros e nenhum órgão. A main f6a6143c400966bb1f99114e97348b60fe90891c já inclui os 83 enunciados próprios da 4ª CCR e os 29 do MPT: 36.821 registros em 143 órgãos e 350 do MPF. Com este lote o acervo passa a 36.844 registros em 143 órgãos e o MPF a 373. A frase das nove lacunas foi delimitada ao catálogo inicial do BNP, sem tratar esse número como auditoria de todo texto histórico das fontes diretas. Capturas, PDF, imagens e scripts ficam privados; a cobertura nacional permanece parcial.
