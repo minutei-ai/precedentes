@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.547 registros únicos de 113 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.556 registros únicos de 114 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TJMMG — Súmulas](https://tjmmg.jus.br/sumulas/) | 9 | 9 | 0 |
 | [AGU — Catálogo de manifestações da CONUNI](https://cgu.agu.gov.br/conuni/) | 1.745 | 1.745 | 0 |
 | [AGU — Enunciados DEINF (DGA) no catálogo SCGP](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/scgp/home/) | 3 | 3 | 0 |
 | [AGU — Enunciados da Consultoria-Geral da União](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/enunciados) | 42 | 42 | 0 |
@@ -734,6 +735,10 @@ A API de precedentes do TJRJ foi conferida em seis páginas de IRDR e uma de IAC
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
+## TJMMG — súmulas do catálogo próprio
+
+O catálogo oficial do TJMMG acrescenta nove súmulas, nºs 1 a 9, com textos, referências legislativas, precedentes e notas de aprovação e publicação. Duas leituras em 28/10/2026 coincidem no conteúdo de todos os verbetes. A página informa atualização editorial em 12/03/2026; essa data não foi usada como data dos atos. As súmulas 1 e 3 trazem aprovação em 20/10/2025 e publicação em 04/12/2025. A nota coletiva de aprovação das súmulas 1 a 5 em 2009 aparece junto da nº 5 e foi preservada nesse local, sem substituir as notas individuais. As repetições de parênteses nas notas das nºs 2 e 4 e a grafia “apovada” da nº 4 foram mantidas. O catálogo não classifica expressamente a vigência de cada verbete. As redações históricas substituídas, os atos de aprovação, os diários e os processos citados não foram incorporados, e as demais espécies de precedentes do tribunal continuam pendentes.
+
 ## BNP por órgão
 
 A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas separadamente.
@@ -830,7 +835,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_SP | 0 | 0 | 0 |
 | TRE_SE | 0 | 0 | 0 |
 | TRE_TO | 0 | 0 | 0 |
-| TJMMG | 0 | 0 | 0 |
+| [TJMMG](tribunais/TJMMG/) | 9 | 0 | 0 |
 | TJMRS | 0 | 0 | 0 |
 | TJMSP | 0 | 0 | 0 |
 
