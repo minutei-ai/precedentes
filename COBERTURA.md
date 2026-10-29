@@ -1,8 +1,10 @@
 # Cobertura
 
-**37.695 registros únicos de 156 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.711 registros únicos de 157 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+
+A série de súmulas do MPPI inclui mais uma lacuna textual, independente das nove lacunas do catálogo inicial do BNP: a página identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária, mas não publica o verbete. Ela permanece identificada sem texto reconstruído e conta como registro do MPPI, não como novo registro do BNP.
 
 ## Fontes diretas
 
@@ -33,6 +35,8 @@
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
 | [MPCE — Súmulas do Conselho Superior](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/) | 34 | 34 | 0 |
+| [MPPI — Súmulas do Conselho Superior](https://www.mppi.mp.br/internet/conselho-superior/sumulas/) | 12 | 12 | 0 |
+| [MPPI — Enunciados do Conselho Superior](https://www.mppi.mp.br/internet/conselho-superior/enunciados/) | 4 | 4 | 0 |
 | [MPF — Enunciados da 5ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/enunciados) | 58 | 57 | 0 |
 | [MPT — Enunciados 1–7 na ata publicada no DOU de 26/03/2015](https://biblioteca.mpf.mp.br/repositorio/bitstreams/55183dd8-bfe1-434d-908d-246ac4a9175a/download) | 7 | 3 | 4 |
 | [MPM — Recomendações da CCR e atos conjuntos CORGE/CCR](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 35 | 35 | 0 |
@@ -955,6 +959,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
+| [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto na página oficial |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
@@ -1849,9 +1854,17 @@ São nove páginas de sete documentos, lidas na imagem e no texto, sem OCR. Os p
 
 Sobre a main `19227519c80141faa1b1e185091c34de0f7f9606` (37.600 registros em 153 órgãos), soma sete registros e um órgão: 37.607 registros em 154 órgãos. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; PDF, imagens, capturas e scripts privados. A cobertura nacional continua parcial.
 
+## MPPI — súmulas e enunciados do Conselho Superior
+
+As duas capturas HTML dos catálogos, datadas de 29/10/2026, listam 12 súmulas e quatro enunciados de 2019. Os 16 registros têm identificadores únicos e links para os catálogos nas fichas. A Súmula 01 está identificada como suspensa por decisão da 1272ª sessão ordinária, mas o HTML não publica seu texto; ela permanece como registro sem corpo. Essa lacuna é própria da série MPPI e distinta das nove lacunas textuais do catálogo inicial do BNP.
+
+O texto publicado das súmulas 02–12 e dos enunciados 01–04 foi conferido com os nós de texto dos dois HTMLs. A Súmula 08 termina em “2.000 UFR” na página; não houve complementação. Nos enunciados 01–03, justificativas e trechos de voto aparecem concatenados após o verbete no HTML e permanecem pendentes; apenas o texto do enunciado foi incorporado. Os 11 documentos vinculados (PDF/ODT) não foram lidos nem transcritos. O Regimento Interno de 2025, atas, atos de aprovação e demais documentos citados ficam pendentes. Não se inferiu vigência atual nem efeito vinculante.
+
+Sobre a main `369c7115bba9ddc5a349b7d5af5f6d85ad119b38`, com 37.687 registros em 155 órgãos, este lote soma 16 registros e um órgão: 37.703 registros em 156 órgãos; MPPI 16 e MPSP 80. MPAC 7, MPRS 206 e os demais acervos da base permanecem. Apenas Markdown público; capturas, PDFs e scripts privados. A cobertura nacional continua parcial.
+
 ## MPPE — enunciados e súmula do Conselho Superior
 
-Sobre a main `369c7115`, com 37.687 registros em 155 órgãos, este lote acrescenta oito registros e um órgão: 37.695 registros em 156 órgãos. As nove lacunas textuais do catálogo do BNP permanecem. O Ministério Público de Pernambuco entra como órgão próprio, distinto do TJPE, do TCEPE, do TATEPE, do MPF, do MPT e do CNMP; os oito documentos deste lote não alteram a contagem do catálogo BNP.
+Sobre a main `7a180408689713585f4183b271174112940592a7`, com 37.703 registros em 156 órgãos, este lote acrescenta oito registros e um órgão: 37.711 registros em 157 órgãos. O MPPI permanece com 16 registros e sua Súmula 01 sem texto publicado, independente das nove lacunas originais do BNP. As nove lacunas textuais do catálogo do BNP permanecem. O Ministério Público de Pernambuco entra como órgão próprio, distinto do TJPE, do TCEPE, do TATEPE, do MPF, do MPT e do CNMP; os oito documentos deste lote não alteram a contagem do catálogo BNP.
 
 O portal de Atos Normativos consultado lista sete enunciados e uma súmula do CSMP. Foram preservados os identificadores `mppe-en-csmp-1` a `mppe-en-csmp-7` e `mppe-sum-csmp-1-2024`. Os seis primeiros enunciados têm fonte documental em DOC; a leitura foi feita nas conversões locais por LibreOffice e conferida nas imagens dessas conversões. A paginação e as quebras das conversões não são garantidas como paginação original. O enunciado 07 é um PDF digitalizado sem camada textual, transcrito visualmente sem OCR; o caractere após 2 e 3 em `§§2O E 3O` permanece incerto entre O e 0, sem conversão para ordinal. A súmula foi lida no bloco do verbete do Diário Oficial Eletrônico de 28/11/2024, página impressa 6, sem incorporar as demais matérias da página. A transcrição não declara vigência atual nem ausência de outros atos ou séries.
 
