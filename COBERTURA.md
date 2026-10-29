@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.211 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.348 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — I Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 137 | 137 | 0 |
 | [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
@@ -961,7 +962,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [CJF](tribunais/CJF/) | 61 | Consulta de Enunciados — Jornadas de Equidade Racial e Tributário |
+| [CJF](tribunais/CJF/) | 198 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário e I Civil |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2032,3 +2033,10 @@ A [página institucional do CSMP/MPRN](https://mprn.mp.br/paginas/conselho-super
 As páginas institucional e do catálogo, além dos 29 PDFs ligados pelo catálogo, têm capturas pareadas privadas. Os 29 pares e arquivos locais foram conferidos por HTTP, bytes e SHA-256; as 29 URLs originais foram consultadas novamente e responderam HTTP 200 com tamanho e hash coincidentes. Os PDFs individuais foram verificados quanto à integridade das capturas, não lidos para transcrição; os 31 corpos foram conferidos contra a compilação. Capturas, PDFs, imagens e recibos permanecem fora do repositório.
 
 A compilação registra a sequência consultada e as relações textuais nela impressas; isso não estabelece vigência atual, efeito vinculante ou exaustividade da série. Nomes e funções públicas permanecem como publicados; identificadores pessoais e URLs de validação/autenticação não foram incluídos. A main `35eb499f` inclui os 12 enunciados tributários do CJF e tem 38.180 registros em 162 órgãos. Este lote soma 31 registros e um órgão: 38.211 registros em 163 órgãos. A validação global de `fbdcc4db` confirmou 38.119 IDs únicos em 161 órgãos; os acréscimos posteriores foram conferidos em seus escopos, sem nova varredura global desta árvore; nove lacunas do BNP e os avisos MPAL 004/008 sem verbete continuam. FONAJE e o histórico MPAL permanecem em trabalho paralelo.
+
+
+## CJF — I Jornada de Direito Civil
+
+Incorporadas 137 identidades numeradas 1–137, conciliadas com a pesquisa pública e as 137 fichas individuais em pares HTTP 200, com os campos coincidentes. Texto e notas preservados; nºs 41 e 64 com redações históricas riscadas conforme o CSS oficial. A nº 56 tinha somente aviso de cancelamento; 96 e 120–137 apenas remissão às propostas. Recuperados os 20 textos na compilação oficial, com leitura visual da capa e das páginas físicas 23, 27 e 30–35, delimitados pelos números. Justificativas e continuações das propostas preservadas; moção, outros verbetes e seção 9 excluídos. Sem OCR ou leitura integral declarada do PDF de 136 páginas. Pares idênticos, tamanho e SHA-256 nas fichas.
+
+Não se corrigiram as irregularidades da nº 96 nem o § 2º de filiação impresso na nº 134. Propostas de alteração e rótulos históricos não foram tratados como lei vigente. Notas de revogação de artigos em 110/111 não viraram cancelamento dos enunciados. Campos Justificativa de 31/71 com palavras-chave mantidos. Sem inferência de vigência, vinculação ou exaustividade. Delta sobre `596774f1`: 137 registros e nenhum órgão, total 38.348 registros em 163 órgãos; CJF198, MPRN31, CNMP96 e FONAJEF271 preservados. O histórico MPAL e o FONAJE continuam em trabalho paralelo, fora da conta. As nove lacunas iniciais do BNP e os avisos MPAL sem texto permanecem. Capturas e derivados privados; somente Markdown público.
