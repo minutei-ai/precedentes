@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.645 registros únicos de 116 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.710 registros únicos de 116 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TRT17 — Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas) | 65 | 65 | 0 |
+| [TRT17 — Lista de súmulas do portal](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas) | 62 | 0 | 62 |
 | [CCMG — Súmulas do catálogo oficial](https://www.fazenda.mg.gov.br/secretaria/conselho_contribuintes/sumulas/sumulas.html) | 7 | 7 | 0 |
 | [TJBA — Súmulas da Turma de Uniformização dos Juizados Especiais](https://www.tjba.jus.br/juizadosespeciais/wp-content/uploads/2026/06/SUMULAS_ATUALIZADAS_TU.pdf) | 55 | 55 | 0 |
 | [TJBA — Súmulas do catálogo institucional](https://www.tjba.jus.br/portal/sumulas/) | 29 | 12 | 17 |
@@ -818,7 +820,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT14](tribunais/TRT14/) | 44 | 36 | 36 |
 | [TRT15](tribunais/TRT15/) | 224 | 78 | 78 |
 | [TRT16](tribunais/TRT16/) | 22 | 18 | 18 |
-| [TRT17](tribunais/TRT17/) | 40 | 40 | 40 |
+| [TRT17](tribunais/TRT17/) | 105 | 40 | 40 |
 | [TRT18](tribunais/TRT18/) | 140 | 73 | 73 |
 | [TRT19](tribunais/TRT19/) | 44 | 37 | 37 |
 | [TRT20](tribunais/TRT20/) | 59 | 34 | 34 |
@@ -916,7 +918,19 @@ A consulta atual do SJURIS trouxe seis documentos de IRDR e três documentos de 
 
 A base nacional da Justiça do Trabalho ainda não foi conciliada: a consulta direta retornou bloqueio e a página de pesquisa excedeu o limite de estilos do coletor nativo. As fontes regionais incorporadas estão discriminadas acima; o bloqueio não foi tratado como catálogo vazio.
 
-O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou o conteúdo nesta coleta. Na nova consulta, o caderno e a página individual testada retornaram o desafio de acesso sem texto; o navegador integrado também não disponibilizou o documento. O endereço alternativo wwwl.trt17.jus.br falhou por incompatibilidade do certificado TLS, que não foi desativada. O caderno ainda não foi incorporado.
+## TRT17 — súmulas da Consulta Unificada
+
+Em 29/10/2026, a lista pública [Súmulas](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas) respondeu com o catálogo. Duas leituras coincidem no conteúdo da tabela: 62 fichas, números 1 a 52, 54 e 56 a 64, cada uma com título, data indicada e identificador do leitor. As nºs 53 e 55 não aparecem nessa lista. A nº 65 também não aparece. O leitor individual de cada ficha e o [Caderno de Súmulas do TRT da 17ª Região](https://app.trt17.jus.br/principal/publicacoes/leitor/585769318?formato=pdf) devolveram a página do desafio Cloudflare Turnstile, sem o texto do verbete. O desafio não foi contornado. A falha histórica do leitor e a incompatibilidade TLS de wwwl.trt17.jus.br, cuja verificação não foi desativada, permanecem como registro da coleta anterior.
+
+O texto integral veio da [Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas), indicada em [Súmulas](https://www.trt17.jus.br/w/sumulas). Duas capturas têm os mesmos 235.279 bytes e o SHA-256 `32055b651824f55a5850d398c85fcc48537af8b49f06464c92790a8a9a48d40f`. O PDF tem 17 páginas A4. A camada de texto foi extraída e conferida visualmente em cada página. O título interno é “SÚMULAS DO TRT DA 17ª REGIÃO (atualização em maio de 2026)”. A edição reúne as súmulas nº 1 a 65, sem lacuna, inclusive as nºs 53, 55 e 65 ausentes da lista do portal.
+
+Nenhuma dessas 65 identidades existia no BNP do TRT17, que permanece com 10 incidentes de assunção de competência, 17 incidentes de resolução de demandas repetitivas e 13 notas técnicas. Os identificadores novos são `trt17-sum-1` a `trt17-sum-65`. Títulos e datas do portal ficam em seção própria e não foram usados como enunciado.
+
+Foram preservados enunciados, rubricas, incisos, referências e notas. O risco gráfico cobre o enunciado das nºs 2, 4, 5, 8, 14, 18, 19, 23, 25, 34, 36, 40, 42, 46, 53 e 55; a nota de cancelamento permanece sem risco. Na nº 21, somente o item II está riscado, com nota de cancelamento desse item. A nº 47 está marcada como em revisão e o enunciado permanece sem risco. A edição não classifica vigência nos demais verbetes. A menção “maio de 2026” é a atualização da coletânea, não a data de cada verbete. As datas do portal permanecem como metadado de catálogo.
+
+Grafias e a numeração impressa foram mantidas, inclusive “de oficio” na nº 9, “UNILATERIAL” na nº 42, a aspa final da nº 16, “condiciona-se a comprovação” na nº 60, o espaço em “Lei 8.213 /91” na nº 63, o processo `0000920-56.2025.17.0500` na nota da nº 8 e o espaço após o hífen em `0000920- 56.2025.5.17.0500` na nota da nº 21. A citação à Súmula nº 331 do TST na nº 41 permanece no texto e não gerou registro do TRT17. Na nº 55, a palavra visível “Inteiro” aponta para o único link anotado no PDF; o documento de destino não foi incorporado.
+
+Permanecem sem texto neste lote as 62 páginas individuais do leitor e o caderno aberto pelo mesmo leitor. A edição de maio de 2026 não comprova atos posteriores. O acervo do TRT17 não se esgota nestas 65 súmulas.
 
 O catálogo próprio do TRT23 ainda não foi conciliado. Na nova consulta, tanto a raiz do portal quanto /portal/sumulas continuaram exibindo o aviso oficial de manutenção programada e serviços rápidos, sem texto de súmulas. A resposta foi conferida no acesso direto e no navegador integrado e não foi tratada como ausência de precedentes.
 
