@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.504 registros únicos de 152 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.515 registros únicos de 152 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -9,6 +9,8 @@
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
+| [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
+| [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
 | [MPMA — Resoluções 15/2022 e 16/2023 do Conselho Superior: enunciados 01–23/22 e 24/23](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
 | [MPMA — Enunciados históricos do Conselho Superior, numeração do catálogo](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
 | [MPMG — Enunciados de súmulas do CSMP](https://www.mpmg.mp.br/data/files/EC/C7/D3/32/70CF191041383A19760849A8/Enunciados-sum-CSMP-Geral.pdf) | 68 | 68 | 0 |
@@ -937,7 +939,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 133 | MPRS — 21 súmulas do CSMP, 20 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos e 3 proposições CONMAM |
+| [MPRS](tribunais/MPRS/) | 144 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos e 3 proposições CONMAM |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1722,6 +1724,23 @@ As unificações impressas nas nºs 61–65 não fundiram registros: 61 menciona
 
 Espaços, quebras e ênfases foram normalizados, preservando as palavras e os riscos. O aviso final de que a versão não substitui o diário oficial está em cada registro. Logos e rodapés de contato ficaram de fora. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Outras séries, diários, atos e processos apenas citados continuam pendentes; não se inferiu vigência atual nem efeito vinculante. A revisão independente, sobre as imagens, reuniu os hífens de quebra em “DOE-MPRJ” (nº 12) e “Procurador-Geral de Justiça” (nº 67) e restaurou “n.º” na referência da Lei Federal 10.741/2003 do nº 15. Com as 14 súmulas, o PR soma 83 registros e um órgão sobre a main `51b08ae668c397ac0df1c42060852ebd1d7f1540`: 37.276 registros em 150 órgãos. As nove lacunas iniciais do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. PDFs, imagens, capturas e scripts ficam privados.
 
+## MPRS — enunciados de infância e educação
+
+Quatro atos do catálogo oficial foram lidos integralmente em duas capturas de cada: 6/2022 (ficha 15522), 10/2022 (15696), 3/2025 (18124) e 1/2026 (18421). Foram incorporados seis enunciados: 62 e 63 do CONPPIJEFAM; 1–3 do CONPPIJE de 2025; e um sem número na Resolução 1/2026, identificado pelo ato sem criar nº 4. As duas séries ficam separadas, sem inferir renumeração ou continuidade jurídica por afinidade temática. Os quatro atos completos ficam uma única vez nos respectivos índices; não receberam IDs de resolução.
+
+Nos pares 15522, 18124 e 18421, o contêiner jurídico coincide integralmente. A ficha 15696 tem título “Antenas de telefonia móvel devem ser desativadas” na primeira captura, “RESOLUÇÃO N. 11/2022 – PGJ” na segunda e “RESOLUÇÃO N. 10/2022 – PGJ” na terceira. O corpo sem `h1` coincide nas três e imprime Enunciado 63; o catálogo liga Resolução 10/2022. Todos os títulos foram atribuídos, sem converter o incorreto em identidade. A Resolução 1/2026 atribui a CONPPIJE no título e a CONCIDEPP no considerando; a 6/2022 menciona área criminal no considerando. As divergências ficam sem conciliação.
+
+Foram mantidas as grafias “TRATANDOSE”, “INFATOJUVENIL”, “garantia do perdurar a situação de vulnerabilidade” e a sequência irregular de palavras do texto de 2026. Nenhuma vigência atual ou vinculação foi inferida. O PDF ligado ao ato de 2007 foi capturado separadamente e continua sem leitura neste lote, sem contagem de seus possíveis enunciados. Outros documentos, diários e atos apenas citados seguem pendentes. Não houve PDF nem OCR neste lote HTML. Espaços, quebras e ênfases normalizados; sem CPF, RG, matrícula pessoal ou bloco de autenticação incorporado, com nomes e funções públicos preservados.
+
+Sobre a main `30923897` (37.276 registros em 150 órgãos), são seis registros novos sem órgão novo: 37.282 registros em 150 órgãos, MPRS 27. Os PRs 67, 68, 69 e 70 estão fora dessa base enquanto abertos. As nove lacunas iniciais do BNP permanecem. Só Markdown público; capturas e scripts privados; cobertura nacional parcial.
+
+## MPRS — CONEVCM e CONDEPP
+
+As Resoluções 6/2026 (ficha 18656) e 07/2007 (3686), vinculadas pelo catálogo oficial, foram lidas integralmente no HTML em duas capturas de cada, com contêiner jurídico completo idêntico. A primeira publica enunciados CONEVCM nºs 01/2026 e 02/2026 sobre o instrumento de avaliação de violência psicológica e prova; a segunda, CONDEPP nºs 1–3 sobre atuação preventiva e organização da defesa do patrimônio público. Os cinco textos ficam em séries próprias, sem fundir CONDEPP e CONCIDEPP por semelhança do nome nem misturar CONEVCM com enunciados de infância. Os atos completos ficam uma única vez em cada índice, sem ID de resolução.
+
+As grafias, as funções, as aspas e as referências impressas permanecem. A indicação genérica CNPJ/CPFs no texto de 2007 não é um identificador pessoal preenchido. Não há CPF, RG, matrícula pessoal ou bloco de autenticação incorporado. O resguardo à independência funcional foi mantido; ausência de nota de revogação e data do ato não confirmam vigência atual ou vinculação. Não houve PDF nem OCR. Diários, atos, instrumentos e processos apenas citados continuam pendentes.
+
+O PR reúne onze registros novos: seis CONPPIJE/CONPPIJEFAM, dois CONEVCM e três CONDEPP. Sobre a main `c93366dd` (37.504 registros em 152 órgãos), soma onze sem órgão novo: 37.515 registros em 152 órgãos, MPRS 144. Os 133 registros MPRS da base incluem o lote de 23 do PR 67 e os 89 do PR 70; os 68 do MPMG e 48 do MPMA também permanecem. Os PRs 68 e 73 continuam abertos e fora dessa base; as nove lacunas iniciais do BNP continuam. Apenas Markdown público, evidências privadas; cobertura nacional parcial.
 ## MPMA — enunciados do Conselho Superior
 
 O MPMA é órgão estadual próprio, distinto do TJMA, do MPF, do MPT, do MPM e dos demais Ministérios Públicos. O [catálogo oficial](https://www.mpma.mp.br/enunciados-conselho-superior/) tem duas páginas e 26 entradas: duas resoluções e 24 enunciados em numeração histórica. As páginas 1 e 2 tiveram duas capturas HTTP 200 de 29/10/2026 cada: 142.564 e 130.263 bytes, sem diferença de conteúdo além de uma linha técnica de contagem de objetos do servidor. As 26 entradas foram lidas e conciliadas pelo título, sem lacuna na lista;
@@ -1763,4 +1782,3 @@ O lote completo passa a 89 registros: CONMAM 72 (9–50, 52–80 e 4-B), CONURB 
 A Resolução 3/2026 referenda a revogação dos nºs 13, 14, 52 e 54, mantendo seus corpos históricos. A 4/2026 menciona dois novos enunciados no considerando e publica somente o nº 4-B; não se criou outro. CONMAM, CONMAN e CONMA, assim como CAOMA e CAOURB, ficam atribuídos aos atos. “pecos”, “captação uso”, “econômico-finaceira”, aspas e sinais irregulares foram preservados. Títulos temáticos entre verbetes ficam no documento comum, sem passar ao corpo do anterior. Os dez atos completos foram acrescentados ao mesmo README, sem arquivos de apoio contados como registros. São dezessete atos lidos no total; não houve PDF nem OCR. Não se inferiu vigência atual ou vinculação.
 
 Com as 21 súmulas do CSMP e as séries já na main — onze CONCIDEPP, quatro CONCRIM, dois CONDIH, três enunciados e três orientações CONDECON —, o MPRS passa de 44 para 133 registros. Sobre a main `150a31fe`, com 37.415 registros em 152 órgãos, o lote soma 89 sem órgão novo: 37.504 registros em 152 órgãos. Os PRs 69 e 71 já compõem essa main. Os PRs 68, 72 e 73 continuam fora enquanto abertos. As nove lacunas iniciais do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. Nenhum CPF, RG, matrícula pessoal ou bloco de autenticação incorporado; referências a matrícula imobiliária permanecem como termos jurídicos. Diários, normas e outros atos apenas citados continuam pendentes. Apenas Markdown público, capturas e scripts privados, cobertura nacional parcial.
-
