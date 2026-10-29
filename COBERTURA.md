@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.556 registros únicos de 114 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.571 registros únicos de 115 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TIT/SP — Súmulas e fichas de propostas](https://portal.fazenda.sp.gov.br/servicos/tit/Paginas/Jurisprud%C3%AAncia-S%C3%BAmulas.aspx) | 15 | 15 | 0 |
 | [TJMMG — Súmulas](https://tjmmg.jus.br/sumulas/) | 9 | 9 | 0 |
 | [AGU — Catálogo de manifestações da CONUNI](https://cgu.agu.gov.br/conuni/) | 1.745 | 1.745 | 0 |
 | [AGU — Enunciados DEINF (DGA) no catálogo SCGP](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/scgp/home/) | 3 | 3 | 0 |
@@ -739,6 +740,10 @@ Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não clas
 
 O catálogo oficial do TJMMG acrescenta nove súmulas, nºs 1 a 9, com textos, referências legislativas, precedentes e notas de aprovação e publicação. Duas leituras em 28/10/2026 coincidem no conteúdo de todos os verbetes. A página informa atualização editorial em 12/03/2026; essa data não foi usada como data dos atos. As súmulas 1 e 3 trazem aprovação em 20/10/2025 e publicação em 04/12/2025. A nota coletiva de aprovação das súmulas 1 a 5 em 2009 aparece junto da nº 5 e foi preservada nesse local, sem substituir as notas individuais. As repetições de parênteses nas notas das nºs 2 e 4 e a grafia “apovada” da nº 4 foram mantidas. O catálogo não classifica expressamente a vigência de cada verbete. As redações históricas substituídas, os atos de aprovação, os diários e os processos citados não foram incorporados, e as demais espécies de precedentes do tribunal continuam pendentes.
 
+## TIT/SP — súmulas e fichas de propostas
+
+O catálogo do Tribunal de Impostos e Taxas do Estado de São Paulo acrescenta 15 súmulas, nºs 01 a 15, com os anos de 2003 a 2020 indicados pela fonte. Duas leituras do catálogo coincidem nos textos, notas e vínculos. A nº 05 está cancelada; a nº 08 registra cancelamento em 09/06/2022; a nº 10 mantém a redação anterior e a revisada, com nota de revisão em 09/06/2022, no mesmo registro. As oito fichas HTML das nºs 01 a 08 foram recuperadas em duas leituras coincidentes no conteúdo e incorporadas integralmente, incluindo propostas, fundamentações, votação e a proposta de cancelamento da nº 05. A tabela de processos da ficha nº 05 foi preservada. Diferenças entre catálogo e ficha, grafias e caracteres invisíveis da fonte foram mantidos. Os caminhos das fichas nºs 07 e 08 contêm 2003, mas ambas apresentam numeração de 2005, que foi usada na identidade dos registros. Os oito vínculos a PDFs das nºs 09 a 15, incluindo a revisão da nº 10 e cancelamento da nº 08, permanecem disponíveis como links, sem inteiro teor incorporado ou conferência integral. As súmulas são apresentadas como enunciados administrativos tributários, sem equiparação ao BNP judicial. A ausência de nota de cancelamento não comprova vigência; atos, diários, processos citados e outras séries do órgão continuam pendentes.
+
 ## BNP por órgão
 
 A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas separadamente.
@@ -843,6 +848,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [TITSP](tribunais/TITSP/) | 15 | TIT/SP — Súmulas e fichas de propostas |
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
 | [TARGS](tribunais/TARGS/) | 9 | TARGS — Súmulas do extinto Tribunal de Alçada preservadas pelo TJRS |
@@ -882,7 +888,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
