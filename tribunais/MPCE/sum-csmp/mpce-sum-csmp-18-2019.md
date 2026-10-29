@@ -8,7 +8,7 @@
 - **Natureza na fonte:** Civil/Criminal
 - **Objeto na fonte:** Infância e Juventude. Acompanhamento e fiscalização do processo de eleição dos membros do Conselho Tutelar
 - **Campo “Vigência” da fonte:** EM VIGOR
-- **Publicação indicada:** Diário Oficial Eletrônico nº 540, 23 de abril de 2019 pág. 08 ( LINK )
+- **Publicação indicada:** Diário Oficial Eletrônico nº 540, 23 de abril de 2019 pág. 08 (LINK)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`

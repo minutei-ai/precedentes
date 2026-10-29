@@ -7,8 +7,8 @@
 - **Identificador:** `mpce-sum-csmp-22-2019`
 - **Natureza na fonte:** Criminal
 - **Objeto na fonte:** Arquivamento de Procedimento Investigatório
-- **Campo “Vigência” da fonte:** REVOGADA por ocasião da 13ª Sessão Ordinária do CSMP, realizada em 09/07/2024 Diário Oficial nª 1801, 12 de julho de 2024 pág. 06 ( LINK )
-- **Publicação indicada:** Diário Oficial Eletrônico nº 540, 23 de abril de 2019, pags, 7/9( LINK )
+- **Campo “Vigência” da fonte:** REVOGADA por ocasião da 13ª Sessão Ordinária do CSMP, realizada em 09/07/2024 Diário Oficial nª 1801, 12 de julho de 2024 pág. 06 (LINK)
+- **Publicação indicada:** Diário Oficial Eletrônico nº 540, 23 de abril de 2019, pags, 7/9(LINK)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`
@@ -19,8 +19,8 @@ SÚMULA Nº 022/2019: PROCEDIMENTO INVESTIGATÓRIO CRIMINAL. ARQUIVAMENTO. INTEL
 
 ## Referências vinculadas pela ficha
 
-- [LINK](https://mpce.mp.br/wp-content/uploads/2026/02/DiarioOficialMPCE-1798-2024-07-09-1-pag-06.pdf)
-- [LINK](https://mpce.mp.br/wp-content/uploads/2026/02/DiarioOficialMPCE-540-2019-04-23-Pgs.7-9-1.pdf)
+- [LINK](https://mpce.mp.br/wp-content/uploads/2026/02/DiarioOficialMPCE-1798-2024-07-09-1-pag-06.pdf) (no campo “Vigência”)
+- [LINK](https://mpce.mp.br/wp-content/uploads/2026/02/DiarioOficialMPCE-540-2019-04-23-Pgs.7-9-1.pdf) (no campo “Publicação”)
 
 ## Conferência e limites
 

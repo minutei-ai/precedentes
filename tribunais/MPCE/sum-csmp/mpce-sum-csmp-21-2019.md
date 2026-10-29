@@ -8,7 +8,7 @@
 - **Natureza na fonte:** Cível
 - **Objeto na fonte:** Improbidade Administrativa. Prescrição e ausência ou impossibilidade de comprovação de dano ao Erário.
 - **Campo “Vigência” da fonte:** ALTERADA para fins de adequação aos termos da decisão do Supremo Tribunal Federal resultante das ADIs 6298, 6299, 6300 e 6305. Diário Oficial Eletrônico nº 1656, 30 de novembro de 2023 pag. 02 (LINK) – Redação Atual
-- **Publicação indicada:** Diário Oficial Eletrônico nº 540, 23 de abril de 2019, pág 09. (redação originária, sem alteração) ( LINK )
+- **Publicação indicada:** Diário Oficial Eletrônico nº 540, 23 de abril de 2019, pág 09. (redação originária, sem alteração) (LINK)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`

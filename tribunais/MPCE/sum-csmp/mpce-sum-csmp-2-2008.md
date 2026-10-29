@@ -8,7 +8,7 @@
 - **Natureza na fonte:** Cível/Criminal/Administrativa
 - **Objeto na fonte:** Improbidade Administrativa. Prazos prescricionais. Ressarcimento ao Erário
 - **Campo “Vigência” da fonte:** REVOGADA Diário Oficial Eletrônico do MPCE nº 1579, 04 de agosto de 2023 pag. 08
-- **Publicação indicada:** Diário da Justiça nº 233, 05 de dezembro de 2008, pág. 180 ( LINK )
+- **Publicação indicada:** Diário da Justiça nº 233, 05 de dezembro de 2008, pág. 180 (LINK)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`

@@ -8,7 +8,7 @@
 - **Natureza na fonte:** Criminal
 - **Objeto na fonte:** Comunicação de Promoção de arquivamento de Procedimento de Investigação Criminal
 - **Campo “Vigência” da fonte:** ALTERADA, por ocasião da 45ª Sessão Ordinária realizada no dia 05 de dezembro de 2017 (LINK) redação atual
-- **Publicação indicada:** Diário da Justiça nº 871, 20 de dezembro de 2013, págs. 32/33 ( LINK )
+- **Publicação indicada:** Diário da Justiça nº 871, 20 de dezembro de 2013, págs. 32/33 (LINK)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`

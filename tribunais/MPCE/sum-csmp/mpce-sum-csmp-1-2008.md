@@ -8,7 +8,7 @@
 - **Natureza na fonte:** Administrativa
 - **Objeto na fonte:** Distribuição de processos por rodízio
 - **Campo “Vigência” da fonte:** EM VIGOR
-- **Publicação indicada:** Diário da Justiça nº 233, 05 de dezembro de 2008, págs. 180/181 ( LINK )
+- **Publicação indicada:** Diário da Justiça nº 233, 05 de dezembro de 2008, págs. 180/181 (LINK)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`

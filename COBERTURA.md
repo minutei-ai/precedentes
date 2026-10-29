@@ -989,7 +989,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CNMP, MPF, MPM, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CNMP, MPF, MPM, MPCE, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 

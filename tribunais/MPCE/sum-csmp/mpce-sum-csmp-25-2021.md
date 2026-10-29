@@ -8,7 +8,7 @@
 - **Natureza na fonte:** Cível/Criminal/Administrativo
 - **Objeto na fonte:** Proposta de descongestionamento na Sessão do CSMP
 - **Campo “Vigência” da fonte:** ALTERADA por ocasião da 4ª Sessão Ordinária do CSMP, realizada no dia 22 de fevereiro de 2022. Diário Oficial Eletrônico do MPCE Nº 1235, 16 de março de 2022, pág. 01 (LINK) – Redação Atual
-- **Publicação indicada:** Diário Oficial Eletrônico nº 986, 04 de março de 2021, págs. 24/25 ( LINK ) (Redação originária, sem alteração)
+- **Publicação indicada:** Diário Oficial Eletrônico nº 986, 04 de março de 2021, págs. 24/25 (LINK) (Redação originária, sem alteração)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`

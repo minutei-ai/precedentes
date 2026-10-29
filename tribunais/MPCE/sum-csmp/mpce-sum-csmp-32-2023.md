@@ -8,7 +8,7 @@
 - **Natureza na fonte:** Criminal
 - **Objeto na fonte:** Arquivamento de PIC ou NF Criminal. Insignificância Tributária
 - **Campo “Vigência” da fonte:** REVOGADA por ocasião da 13ª Sessão Ordinária do CSMP, realizada em 09/07/2024 Diário Oficial nª 1801, 12 de julho de 2024 pág. 05 (LINK)
-- **Publicação indicada:** Diário Oficial Eletrônico nº 1579, 04 de agosto de 2023, pág. 09 ( LINK )
+- **Publicação indicada:** Diário Oficial Eletrônico nº 1579, 04 de agosto de 2023, pág. 09 (LINK)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`

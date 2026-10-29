@@ -8,7 +8,7 @@
 - **Natureza na fonte:** Criminal
 - **Objeto na fonte:** Arquivamento de Notícia de Fato com repercussão Criminal
 - **Campo “Vigência” da fonte:** EM VIGOR
-- **Publicação indicada:** Diário Oficial Eletrônico nº 1235, págs. 01/02 ( LINK )
+- **Publicação indicada:** Diário Oficial Eletrônico nº 1235, págs. 01/02 (LINK)
 - **Fonte:** [Súmulas do CSMP](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 135.690 bytes cada.
 - **SHA-256 do HTML:** `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`
