@@ -10,10 +10,13 @@
 
 ## Texto disponibilizado pela fonte
 
-O artigo 200 da Resolução n. 3.666/02 da PMMG e seu parágrafo único são inconstitucionais.  
- Referência legislativa: artigos 2º e 24, XI, da [Constituição da República](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)  
- Precedente: Declaração Incidental de Inconstitucionalidade n. 01  
- (súmula 2 (Súmula 2 aprovada pelo Tribunal Pleno em 16/04/2008)
+O artigo 200 da Resolução n. 3.666/02 da PMMG e seu parágrafo único são inconstitucionais.
+
+Referência legislativa: artigos 2º e 24, XI, da [Constituição da República](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+
+Precedente: Declaração Incidental de Inconstitucionalidade n. 01
+
+(súmula 2 (Súmula 2 aprovada pelo Tribunal Pleno em 16/04/2008)
 
 ## Limites da coleta
 

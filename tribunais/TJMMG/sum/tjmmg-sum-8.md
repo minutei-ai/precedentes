@@ -10,9 +10,11 @@
 
 ## Texto disponibilizado pela fonte
 
-A transgressão disciplinar de deserção é de natureza permanente, perdurando até a captura ou a apresentação voluntária do desertor.  
- Precedente: Ação Rescisória Processo n. 0002853-73.2014.9.13.0000  
- (Súmula 8 aprovada pelo Tribunal Pleno em 21/10/2015; publicada no DJM-e de 17/11/2015)
+A transgressão disciplinar de deserção é de natureza permanente, perdurando até a captura ou a apresentação voluntária do desertor.
+
+Precedente: Ação Rescisória Processo n. 0002853-73.2014.9.13.0000
+
+(Súmula 8 aprovada pelo Tribunal Pleno em 21/10/2015; publicada no DJM-e de 17/11/2015)
 
 ## Limites da coleta
 

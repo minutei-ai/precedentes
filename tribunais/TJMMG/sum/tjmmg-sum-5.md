@@ -10,10 +10,13 @@
 
 ## Texto disponibilizado pela fonte
 
-A prescrição do fundo de direito contra a administração militar é de cinco anos.  
- Referência legislativa: artigo 1º do [Decreto n. 20.910/32](https://www.planalto.gov.br/ccivil_03/decreto/antigos/d20910.htm)  
- Precedente: Embargos Infringentes n. 06  
- (Súmulas de 1 a 5 aprovadas pelo Tribunal Pleno em 12/08/2009; publicadas no “Diário do Judiciário” de 10/09/2009, pág. 35)
+A prescrição do fundo de direito contra a administração militar é de cinco anos.
+
+Referência legislativa: artigo 1º do [Decreto n. 20.910/32](https://www.planalto.gov.br/ccivil_03/decreto/antigos/d20910.htm)
+
+Precedente: Embargos Infringentes n. 06
+
+(Súmulas de 1 a 5 aprovadas pelo Tribunal Pleno em 12/08/2009; publicadas no “Diário do Judiciário” de 10/09/2009, pág. 35)
 
 ## Limites da coleta
 

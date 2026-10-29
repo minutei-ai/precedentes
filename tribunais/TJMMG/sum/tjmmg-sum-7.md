@@ -10,10 +10,13 @@
 
 ## Texto disponibilizado pela fonte
 
-O instituto da interceptação telefônica, previsto na [Lei n. 9.296/96](https://www.planalto.gov.br/ccivil_03/leis/l9296.htm), é aplicável no âmbito da Justiça Militar.  
- Referência legislativa: [Lei n. 9.296/96](https://www.planalto.gov.br/ccivil_03/leis/l9296.htm) e artigo 5º, XII, da [Constituição Federal de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).  
- Precedente: Incidente de Uniformização de Jurisprudência – Processo n. 0000272-22-2013.9.13.0000  
- (Súmula 7 aprovada pelo Tribunal Pleno em 03/04/2013; publicada no DJM-e de 03/05/2013)
+O instituto da interceptação telefônica, previsto na [Lei n. 9.296/96](https://www.planalto.gov.br/ccivil_03/leis/l9296.htm), é aplicável no âmbito da Justiça Militar.
+
+Referência legislativa: [Lei n. 9.296/96](https://www.planalto.gov.br/ccivil_03/leis/l9296.htm) e artigo 5º, XII, da [Constituição Federal de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
+
+Precedente: Incidente de Uniformização de Jurisprudência – Processo n. 0000272-22-2013.9.13.0000
+
+(Súmula 7 aprovada pelo Tribunal Pleno em 03/04/2013; publicada no DJM-e de 03/05/2013)
 
 ## Limites da coleta
 
