@@ -2,7 +2,7 @@
 
 **87 enunciados**, números 1–87, da [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), pesquisa POST filtrada por `jornada.id=101`. Duas respostas da pesquisa e duas capturas HTTP 200 por ficha. Os campos extraídos de cada par e os corpos da pesquisa foram comparados diretamente com as fichas; veja os arquivos individuais para bytes e SHA-256.
 
-As 87 fichas não publicam justificativa nem redação anterior. A nº 64 contém Notas; 13 fichas contêm referências legislativas e 74 contêm Palavras de Resgate. Os campos dos pares coincidem, e os 87 corpos coincidem com as duas pesquisas POST. Não se confundem com decisões, normas ou atos apenas citados. Campos vazios não foram completados. Ausência de aviso não confirma vigência; não se infere vinculação, exaustividade ou titularidade atual. Nenhum PDF, ata ou documento citado foi lido. Nenhum ato ou processo citado recebeu identificador.
+As 87 fichas não exibem campo de justificativa; o campo de redação anterior está vazio. A nº 64 contém Notas; 13 fichas contêm referências legislativas e 74 contêm Palavras de Resgate. Os campos dos pares coincidem, e os 87 corpos coincidem com as duas pesquisas POST. Não se confundem com decisões, normas ou atos apenas citados. Campos vazios não foram completados. Ausência de aviso não confirma vigência; não se infere vinculação, exaustividade ou titularidade atual. Nenhum PDF, ata ou documento citado foi lido. Nenhum ato ou processo citado recebeu identificador.
 
 - [Enunciado 1](cjf-en-extrajudicial-i-1.md)
 - [Enunciado 2](cjf-en-extrajudicial-i-2.md)
