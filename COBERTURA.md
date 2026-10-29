@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.594 registros únicos de 142 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.709 registros únicos de 142 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@
 | [MPF — Enunciados da 7ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr7/enunciados) | 11 | 11 | 0 |
 | [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados próprios, conjuntos e do GTSI publicados pela 6ª CCR](https://www.mpf.mp.br/atuacao/ccr6/enunciados) | 53 | 53 | 0 |
+| [MPF — Enunciados da 2ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr2/enunciados) | 115 | 115 | 0 |
 | [ANTT — Súmulas no ANTTlegis](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=429&cod_menu=7216) | 14 | 14 | 0 |
 | [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
@@ -909,7 +910,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
-| [MPF](tribunais/MPF/) | 152 | MPF — Enunciados das 1ª, 3ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
+| [MPF](tribunais/MPF/) | 267 | MPF — Enunciados das 1ª, 2ª, 3ª, 6ª e 7ª CCRs, GTSI, conjuntos e Conselho Institucional, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
@@ -1381,7 +1382,7 @@ Também entraram os nºs 1 a 34 da 1ª Câmara, em `en-ccr1`, e os nºs 1 a 11 d
 
 Na 1ª CCR permanecem os riscos das nºs 1, 7, 8, 9, 10, 12, 14, 16, 17, 21, 23, 27 e 28, e as notas de revogação ou cancelamento. Alterações expressas nas nºs 2, 3, 6, 11, 18, 19, 22, 25 e 26 não tiveram redação anterior reconstruída. A nº 1 conserva a referência à sessão em 09.10.2012 e publicação em 17.10.2002, sem conciliação das datas. Na 7ª CCR, as redações antigas das nºs 3 e 4 e suas referências ficam no mesmo registro. Processos repetidos nas referências foram mantidos. O nº 11 traz deliberação em 09/10/2025.
 
-Estas séries não se confundem entre si nem com o CNMP ou com outras Câmaras. Atas, deliberações, diários, processos, ofícios e normas citados não tiveram inteiro teor incorporado e não criaram IDs. A ausência de nota não comprova vigência atual nem efeito vinculante. A 2ª CCR, as séries próprias das 4ª e 5ª CCRs, orientações e outras séries do MPF permanecem pendentes.
+Estas séries não se confundem entre si nem com o CNMP ou com outras Câmaras. Atas, deliberações, diários, processos, ofícios e normas citados não tiveram inteiro teor incorporado e não criaram IDs. A ausência de nota não comprova vigência atual nem efeito vinculante. As séries próprias das 4ª e 5ª CCRs, orientações e outras séries do MPF permanecem pendentes.
 
 ## MPF — enunciados publicados pela 6ª CCR
 
@@ -1402,6 +1403,18 @@ Texto jurídico, referências normativas e processuais e notas de aprovação fo
 Foram normalizados espaços, quebras de linha, negrito e itálico. Os vinte controles “Acesse em PDF” ou “Acesso em PDF” ficaram como vínculos de cada registro, fora do texto jurídico. Os PDFs, a versão alterada vinculada da nº 2, as atas, as deliberações, os diários e os atos apenas citados permanecem sem leitura autônoma neste lote. A página não esgota os atos do Conselho nem o MPF; a ausência de outra numeração ou de nota de revogação não prova inexistência ou vigência. Não houve PDF/OCR.
 
 Sobre a main 60efbe51, com 36.542 registros em 141 órgãos e 132 do MPF, o lote soma vinte registros e nenhum órgão: 36.562 registros em 141 órgãos e 152 do MPF. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. Capturas e scripts ficam privados e a cobertura nacional continua parcial.
+
+## MPF — enunciados da 2ª Câmara de Coordenação e Revisão
+
+A página oficial da 2ª Câmara publica os enunciados nºs 1 a 115. O título da página é “Enunciados”; o caminho e a trilha identificam a câmara criminal. Duas capturas HTTP 200 em 29/10/2026 têm 382.538 bytes e SHA-256 `6e1ff3fe4e8e0537bfdb7ca3e551c24def9d05270a7bf2e0fd9ee047966c31da`. Os 115 blocos, sem lacuna e sem repetição, entram na série `en-ccr2`, identificadores `mpf-en-ccr2-1` a `mpf-en-ccr2-115`. O nº 110 fica no mesmo fluxo do nº 111, e os nºs 106 a 89 estão em divisões não fechadas. A segmentação seguiu a ordem linear do HTML. Os caracteres não brancos de cada bloco coincidem com o texto publicado.
+
+Vinte e dois números trazem na página só o aviso de revogação ou cancelamento: 1, 2, 3, 13, 15, 16, 20, 22, 30, 31, 34, 39, 40, 43, 44, 45, 55, 59, 63, 64, 85 e 105. O enunciado de cada um está no PDF vinculado, lido na imagem, e permanece no mesmo identificador. Outros treze PDFs guardam redação anterior ou histórico dos nºs 19, 35, 36, 49, 50, 52, 56, 57, 65, 89, 98, 103 e 106. São 35 PDFs de uma página. A Orientação nº 41 aparece só como citação no nº 95. Não foi criado identificador, nem transcritos o corpo, a nota de intranet ou a chave de autenticação.
+
+Os nºs 109 a 115 e o nº 103 registram aprovação na 8ª Sessão de Coordenação, de 15 de outubro de 2026. Os nºs 98 e 106 registram alteração nessa data. O nº 64 registra revogação nessa data. As notas ficam como publicadas. Não houve vigência inferida.
+
+Foram mantidos o vão em branco entre “da” e “tais” no nº 16, o ano cortado “21.10.201” no nº 50, “especifica” no nº 85, “Restaurado na na” no nº 51, “13.964/19,quando” e “Lei13964/2019” no histórico do nº 98, o espaço de “1 .11” no nº 59, “2ª CCR:Processo” e “DJe 11/12/20201” no nº 89, e o sinal de grau em “1° grau” no nº 3. O histórico do nº 98 abre com “ENUNCIADO Nº 98.” e repete “ENUNCIADO Nº 98”. No nº 49, as três linhas horizontais entre as quatro redações não entram no corpo. Nos nºs 36 e 57 há um span com line-through vazio, sem caracteres riscados. O endereço do nº 34 na raiz do sítio respondeu HTTP 404 nas duas capturas; o PDF lido é o do endereço completo do verbete, HTTP 200. O vínculo `n.56` não tem extensão e é PDF. Citações a enunciados de outra Câmara não geraram identificadores. Não houve OCR. Nenhum PDF incorporado passa de uma página.
+
+Sobre a main 2505cc5d2bdf29bd45e7512386f97999ab6a6745, com 36.594 registros em 142 órgãos e 152 enunciados do MPF, este lote acrescenta 115 registros e nenhum órgão: 36.709 registros em 142 órgãos, e o MPF passa a 267. As séries já publicadas da 1ª, 3ª, 6ª e 7ª CCRs, do GTSI, dos conjuntos e do Conselho Institucional permanecem. As nove lacunas textuais originais do TJAM e do TJRJ permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. As séries próprias das 4ª e 5ª CCRs, orientações, os PDFs do Conselho Institucional, pautas, atas e atos apenas citados continuam pendentes. O acervo coletado do BNP não muda por este lote. Os 118 da tabela do BNP na linha do TJBA continuam sendo o inventário dessa linha. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
 
 ## CNMP — enunciados e súmulas
 
