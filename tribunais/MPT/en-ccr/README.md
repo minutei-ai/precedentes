@@ -1,6 +1,6 @@
 # MPT · Enunciados da CCR
 
-29 registros da [página oficial](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt). Os números ausentes 1, 2, 5, 9, 10, 18 e 23 não tiveram texto recuperado neste lote; sua ausência na página não comprova cancelamento nem inexistência. Redações anteriores, diários e outras séries permanecem pendentes.
+32 registros: 29 da [página oficial de enunciados](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) capturada em 29/10/2026 e três históricos recuperados no DOU de 2015. Os nºs 1, 2 e 5 aparecem abaixo como textos históricos, sem situação posterior comprovada. Os nºs 9, 10, 18 e 23 continuam sem texto recuperado; sua ausência no HTML não comprova cancelamento nem inexistência. Os nºs 3, 4, 6 e 7 também conservam a redação histórica e as votações publicadas em 2015, junto ao texto da página de 2026. A continuação da ata, outras redações e séries permanecem pendentes.
 
 | Número | Título publicado |
 | --- | --- |
@@ -33,3 +33,13 @@
 | [34](mpt-en-ccr-34.md) | DECLÍNIO DE ATRIBUIÇÃO NÃO REFERENDADO. SEM REDISTRIBUIÇÃO. RETORNO AO OFÍCIO DECLINANTE. |
 | [35](mpt-en-ccr-35.md) | ATIVIDADE LABORAL SAZONAL. INQUÉRITO CIVIL. AUSÊNCIA DE TRABALHADORES NO MOMENTO DA DILIGÊNCIA. ENTRESSAFRA. IMPOSSIBILIDADE DE ARQUIVAMENTO IMEDIATO. NECESSIDADE DE ESGOTAMENTO DE DILIGÊNCIAS E MONITORAMENTO. |
 | [36](mpt-en-ccr-36.md) | ENUNCIADO Nº 36/CCR. INVESTIGAÇÃO DE ACIDENTES DO TRABALHO. EVENTO MULTICAUSAL. INADEQUAÇÃO DA TEORIA DA CULPA EXCLUSIVA DA VÍTIMA OU DO ATO INSEGURO. |
+
+## Textos históricos recuperados no DOU
+
+| Número | Matéria |
+| --- | --- |
+| [1](mpt-en-ccr-1.md) | Remessa de autos e declínio de atribuição — redação publicada em 2015 |
+| [2](mpt-en-ccr-2.md) | Matéria pacificada e decisão monocrática — redação publicada em 2015 |
+| [5](mpt-en-ccr-5.md) | Direitos individuais homogêneos e conveniência social — redação publicada em 2015 |
+
+A ata foi consultada apenas no recorte dos enunciados 1–7 da terceira coluna da página impressa 76. O início do nº 8 é incompleto e não foi incorporado como texto íntegro. A página 77 e os demais trechos da ata não foram recuperados neste lote.
