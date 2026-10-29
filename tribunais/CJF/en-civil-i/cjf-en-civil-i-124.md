@@ -8,7 +8,6 @@
 - **Jornada na ficha:** I Jornada de Direito Civil
 - **Coordenador-Geral indicado:** Ministro Ruy Rosado de Aguiar
 - **Comissão de Trabalho:** Propostas de modificação do novo Código Civil
-- **Coordenador da Comissão de Trabalho indicado:** 
 - **Fonte:** [ficha oficial do CJF](https://www.cjf.jus.br/enunciados/enunciado/1458)
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos jurídicos e metadados coincidentes
 - **Bytes e SHA-256 dos HTMLs:** 5.618 bytes. SHA-256 `38933912751804d3bb03657dabf9d9b8b035192bd28729778f75fcaa40049566`; 5.618 bytes. SHA-256 `17e1fb33bfcee5688371a58cd6a82c3c27caa3f574b2b3cdbb78a6ce2c873f8e`

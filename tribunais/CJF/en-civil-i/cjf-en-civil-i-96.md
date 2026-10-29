@@ -8,7 +8,6 @@
 - **Jornada na ficha:** I Jornada de Direito Civil
 - **Coordenador-Geral indicado:** Ministro Ruy Rosado de Aguiar
 - **Comissão de Trabalho:** Enunciados propositivos de alteração legislativa
-- **Coordenador da Comissão de Trabalho indicado:** 
 - **Fonte:** [ficha oficial do CJF](https://www.cjf.jus.br/enunciados/enunciado/1453)
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos jurídicos e metadados coincidentes
 - **Bytes e SHA-256 dos HTMLs:** 5.618 bytes. SHA-256 `33434a8b6d18d41e843778d125ba854d761b0d39de1be4b181e0f85b06f4a61a`; 5.618 bytes. SHA-256 `2acfaf3c56debc13a80d17de2b2f7d92c13ad04311339d7dd9da96758e8e5001`
