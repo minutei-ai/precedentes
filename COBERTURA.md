@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.199 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.248 registros únicos de 162 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
@@ -959,6 +960,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CJF](tribunais/CJF/) | 49 | Consulta de Enunciados — I Jornada da Justiça Federal pela Equidade Racial |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2014,4 +2016,11 @@ Foram incorporados 80 registros com espécies, números e anos impressos nas oit
 
 Os Assentos 004/2016 e 004/2019 têm texto diretamente impresso nas respectivas edições. Em 2020–2024, o nº 004 aparece apenas como aviso de revogação pelo Ato PGJ nº 7/2017. O nº 008 aparece apenas como aviso nas edições capturadas de 2020–2024; embora os avisos citem o Assento 008/2019, sua redação não consta dos PDFs examinados e permanece pendente. Os Assentos 009 que aparecem nessas edições foram mantidos como avisos literais de revogação, sem reconstruir atos citados. Não se inferiram vigência atual, efeito vinculante, exaustividade ou ausência de outras edições. Apenas Markdown público; capturas, recibos, PDFs, imagens e scripts privados.
 
-Sobre a main `fbdcc4db` (38.119 registros em 161 órgãos), este lote acrescenta 80 registros e nenhum órgão: 38.199 registros em 161 órgãos. As nove lacunas originais do BNP permanecem, assim como o estado dos lotes FONAJEF/MPRN e a atribuição documentada das fontes paralelas.
+Sobre a main `aab75242` (38.168 registros em 162 órgãos), este lote acrescenta 80 registros e nenhum órgão: 38.248 registros em 162 órgãos. As nove lacunas originais do BNP permanecem, assim como o estado dos lotes FONAJEF/MPRN e a atribuição documentada das fontes paralelas.
+
+
+## CJF — I Jornada da Justiça Federal pela Equidade Racial
+
+Incorporados os 49 enunciados e suas justificativas em série própria `en-equidade-racial`, números 1–49. A pesquisa pública por `jornada.id=521` e as 49 fichas individuais foram capturadas em pares HTTP 200; números, enunciados, justificativas e metadados coincidem em cada par. HTML bruto varia em hash, com tamanho e SHA-256 nas fichas. Foram lidos os 49 corpos e as 49 justificativas, com espaços e quebras normalizados; referências, grafias, notas e URLs literais preservadas. O campo revogado está vazio e não foi tratado como vigência. Sem data de aprovação inferida, sem efeito vinculante ou exaustividade afirmados. Sem PDF/OCR. Não se duplicam espelhos em outros órgãos.
+
+Delta sobre a main `fbdcc4db`: 49 registros e um órgão, totalizando 38.168 registros em 162 órgãos. CNMP 96 e FONAJEF 271 permanecem; as nove lacunas originais do BNP e os dois avisos do MPAL sem enunciado continuam. O PR 99 do MPRN está separado e não entra nesta contagem. As demais jornadas, publicações em PDF e atos apenas citados permanecem pendentes. Capturas e scripts privados; somente Markdown público.
