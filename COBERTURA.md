@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.276 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.287 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRS — CONURB, CONMAM e urbano-ambientais nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
@@ -928,7 +929,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | --- | ---: | --- |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 21 | MPRS — Súmulas do Conselho Superior |
+| [MPRS](tribunais/MPRS/) | 32 | MPRS — 21 súmulas do CSMP e 11 enunciados CONURB, CONMAM e urbano-ambientais |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1686,3 +1687,13 @@ O aviso inicial reproduz a decisão de 05/02/2021 sobre a vigência em 08/02/202
 As unificações impressas nas nºs 61–65 não fundiram registros: 61 menciona 33 e 39; 62, 2 e 37; 63, “12/2007 e 21/2007”, embora o título do nº 21 seja 21/2008; 64, 5 e 11; 65, 52 e 53. A nº 20 conserva título 20/2008 e aprovação em 29/10/2009. A nº 55 mantém “Lei Federal nº 8.666/23”. A nº 59 traz alteração em 26/06/2025 e vigência em 27/06/2025, atribuídas ao caderno. A nº 67 tem aprovação em 26/05/2022 e publicação em 27/05/2022; a nº 68, aprovação em 14/09/2023 e publicação em 15/09/2023; a nº 69, aprovação em 26/03/2026 e publicação em 27/03/2026.
 
 Espaços, quebras e ênfases foram normalizados, preservando as palavras e os riscos. O aviso final de que a versão não substitui o diário oficial está em cada registro. Logos e rodapés de contato ficaram de fora. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Outras séries, diários, atos e processos apenas citados continuam pendentes; não se inferiu vigência atual nem efeito vinculante. A revisão independente, sobre as imagens, reuniu os hífens de quebra em “DOE-MPRJ” (nº 12) e “Procurador-Geral de Justiça” (nº 67) e restaurou “n.º” na referência da Lei Federal 10.741/2003 do nº 15. Com as 14 súmulas, o PR soma 83 registros e um órgão sobre a main `51b08ae668c397ac0df1c42060852ebd1d7f1540`: 37.276 registros em 150 órgãos. As nove lacunas iniciais do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. PDFs, imagens, capturas e scripts ficam privados.
+
+## MPRS — CONURB, CONMAM nº 9 e urbano-ambientais
+
+Sete atos oficiais do catálogo de resoluções foram capturados duas vezes e lidos integralmente no HTML: fichas 3724 (02/2008), 5174 (04/2010), 5232 (05/2010), 5377 (09/2010), 12851 (02/2018), 15502 (02/2022) e 4032 (08/2008). Os contêineres jurídicos são idênticos em cada par. O lote incorpora oito enunciados CONURB, sendo nºs 1–7 e um sem número identificado pela Resolução 02/2022; dois enunciados urbano-ambientais do Anexo II da Resolução 08/2008; e a redação alterada do CONMAM nº 9, publicada expressamente no art. 1º da Resolução 02/2018. Os nºs 10 do CONURB e 63 do CONMAM são só referidos na revogação e não viraram registros sem texto.
+
+Os nºs 1 e 2 do CONURB aprovados em janeiro de 2008 têm redações diferentes dos nºs 1 e 2 urbano-ambientais de dezembro, mantidos em séries próprias com o emissor que cada ato imprime. A Resolução 02/2018 referenda a revogação dos nºs 3, 7 e 10 do CONURB e do nº 63 do CONMAM; os corpos recuperados 3 e 7 continuam como histórico, sem criar risco ausente no HTML. O fecho de 09/08/2018 e DEMP indicado em 13/08/2019 ficam como impressos. “autuação” e o cargo “Procuradora-Geral” da ficha 4032 foram preservados. Não se inferiu vigência atual nem efeito vinculante.
+
+O documento comum publica integralmente seis atos e o ato principal com Anexo II da 08/2008. O Anexo I de roteiros foi lido, mas não incorporado nem contado. Nenhum acesso a intranet foi feito; links nela apenas citados não foram abertos. As resoluções não ganharam IDs separados. Espaços, quebras e ênfases normalizados, sem PDF nem OCR. Leis, programas, processos, diários e enunciados apenas citados continuam pendentes. Não há CPF, RG, matrícula pessoal ou bloco de autenticação incorporado; nomes e funções públicos mantidos.
+
+Sobre a main `30923897` (37.276 registros em 150 órgãos), são onze registros novos sem órgão novo: 37.287 registros em 150 órgãos, MPRS 32. Os PRs 67, 68 e 69 continuam fora desta base enquanto abertos. As nove lacunas iniciais do BNP permanecem. Outras séries e atos seguem pendentes. Apenas Markdown público; capturas e scripts privados; cobertura nacional parcial.
