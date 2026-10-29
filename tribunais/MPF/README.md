@@ -1,9 +1,11 @@
 # MPF
 
-Ministério Público Federal. **267 registros.**
+Ministério Público Federal. **290 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
+| [Enunciados da PFDC, nºs 1 a 22](en-pfdc/) | 22 |
+| [Orientação da PFDC nº 1/2026](or-pfdc/) | 1 |
 | [Enunciados do Conselho Institucional, nºs 1 a 20](en-cimpf/) | 20 |
 | [Enunciados da 1ª Câmara — Direitos Sociais e Fiscalização de Atos Administrativos](en-ccr1/) | 34 |
 | [Enunciados da 2ª Câmara — Criminal](en-ccr2/) | 115 |
