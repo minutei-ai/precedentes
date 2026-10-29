@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.867 registros únicos de 123 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.007 registros únicos de 125 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -9,7 +9,11 @@
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [PGE/SP — Súmulas históricas, 2ª edição de 1999](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm) | 23 | 23 | 0 |
+| [TRF1 — Coletânea oficial de súmulas](https://www.trf1.jus.br/trf1/conteudo/Sumula2026.pdf) | 61 | 61 | 0 |
+| [TJSE — Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) | 14 | 14 | 0 |
 | [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
+| [PGE/RJ — Enunciados próprios](https://pge.rj.gov.br/enunciados) | 55 | 55 | 0 |
+| [Rede-SIDH — Enunciados publicados pela PGE/RJ](https://pge.rj.gov.br/enunciados) | 10 | 10 | 0 |
 | [PGE/PI — Súmulas Administrativas, página reunida](https://www.pge.pi.gov.br/sumulas-administrativas/) | 66 | 66 | 0 |
 | [PGE/PI — Súmulas Administrativas, catálogo paginado](https://www.pge.pi.gov.br/sumulas/) | 65 | 0 | 65 |
 | [CRF/PB — Súmulas do catálogo oficial](https://www.sefaz.pb.gov.br/info/2016-01-11-17-25-20/crf) | 4 | 4 | 0 |
@@ -787,7 +791,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
-| [TRF01](tribunais/TRF01/) | 110 | 110 | 110 |
+| [TRF01](tribunais/TRF01/) | 171 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 86 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
@@ -818,7 +822,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRR](tribunais/TJRR/) | 51 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 299 | 91 | 91 |
 | [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
-| [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
+| [TJSE](tribunais/TJSE/) | 36 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
 | [TRT01](tribunais/TRT01/) | 153 | 76 | 76 |
 | [TRT02](tribunais/TRT02/) | 235 | 69 | 69 |
@@ -879,6 +883,8 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
+| [REDE_SIDH](tribunais/REDE_SIDH/) | 10 | Rede-SIDH — bloco coletivo publicado pela PGE/RJ |
 | [TARFRS](tribunais/TARFRS/) | 19 | TARF/RS — Súmulas do Tribunal Administrativo de Recursos Fiscais |
 | [PGEPI](tribunais/PGEPI/) | 66 | PGE/PI — Súmulas Administrativas |
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
@@ -927,7 +933,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-TARFRS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+TARFRS, PGERJ, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -977,7 +983,21 @@ A página da Turma de Uniformização do TJTO devolveu o aviso oficial “Site e
 
 O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
 
-O catálogo próprio de súmulas do TJSE permanece pendente. As consultas diretas ao portal principal e ao endereço institucional ejusepos excederam 45 segundos; o coletor nativo encerrou com “scrape deadline or invalid input”. A tentativa pelo navegador integrado também excedeu o prazo de navegação, sem captura válida do catálogo. Essas falhas não foram tratadas como ausência de súmulas e não afetam os registros do TJSE já obtidos no BNP.
+## TJSE — súmulas do catálogo oficial
+
+Em 29/10/2026, a página [Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) publicou 14 verbetes, números 1 a 14, sem lacuna. Duas leituras da lista coincidem nos títulos, nos endereços e nas notas. As páginas HTML completas divergem só no parâmetro de versão da folha de estilo. Uma terceira leitura da página, no mesmo dia, repetiu os 14 vínculos. O carimbo “Última modificação em Quinta, 11 Julho 2024 07:00” é da página, não a data de cada ato.
+
+Os vínculos das nºs 2, 11 e 12 estão riscados. As notas, fora do risco, dizem que a nº 2 foi revogada na sessão do Tribunal Pleno de 12/07/2023, a nº 11 na de 14/06/2017 e a nº 12 na de 10/07/2024. Os demais vínculos não trazem nota. Essa ausência não confirma vigência.
+
+Cada número aponta para um PDF de uma página. Os 14 pares de captura têm os mesmos bytes e o mesmo SHA-256, e a origem, relida no mesmo dia, devolveu os mesmos arquivos. A camada de texto de cada página foi extraída e conferida visualmente. Quebras de linha do corpo foram reunidas; as letras espaçadas dos títulos foram reunidas. Grafias foram mantidas, inclusive “Eletrônico,nos” e “Art. 223” na nº 2, “conseqüências” na nº 1, “aprovou” com sujeito no plural nas nºs 13 e 14, “afronta” na nº 9 e “implica em” na nº 10.
+
+O PDF da nº 2 assina 23/04/2009; o catálogo diz 24/04/2009; a sessão impressa é 12/12/2007. O risco gráfico cobre o cabeçalho, a aprovação, o rótulo e o enunciado, e não cobre a data, a signatária nem a nota vermelha. O PDF da nº 11 também risca a aprovação, o rótulo e o enunciado e imprime a nota de 14/06/2017. O PDF da nº 12 não risca o texto e não imprime a revogação de 10/07/2024, que permanece só no catálogo.
+
+A nº 8 tem endereço `sumula-008-IUJ-001-2013.pdf` e título interno “Súmula 08 - IUJ-005-2012”. A nº 9 tem endereço `sumula-009-IUJ-006-2013.pdf` e título interno “Súmula 09 - IUJ-006-2012”. As duas identificações ficam no registro. Datas de sessão e de assinatura que não coincidem com o catálogo também ficam nos respectivos campos.
+
+Os quatro processos da nº 1, o incidente citado na nº 3, os artigos do CPC na nº 6, o RE 705.140/RS, o incidente n. 201600604855 e o processo paradigma nº 201400616323 da nº 14 permanecem no texto e não geram registros. Os diários citados não foram incorporados.
+
+Os identificadores novos são `tjse-sum-1` a `tjse-sum-14`. Nenhum existia. Os 22 registros anteriores do TJSE permanecem: 1 incidente de assunção de competência, 18 incidentes de resolução de demandas repetitivas e 3 notas técnicas. A falha histórica de acesso ao catálogo, em consulta anterior, não foi tratada como ausência de súmulas e não altera esses 22 registros. Estas 14 súmulas não esgotam outras séries do tribunal nem comprovam ato posterior à página consultada.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.
 
@@ -1021,6 +1041,21 @@ Os 19 PDFs têm uma página A4 e criador wkhtmltopdf 0.12.4. A camada textual co
 
 Permanecem fora deste lote as resoluções e as páginas do Diário Oficial apenas citadas, o dispositivo vazio da nº 02, o enunciado ausente nas redações que só trazem o título, o trecho truncado do histórico da nº 15, os acórdãos do portal e a conciliação das datas em que o cadastro diverge do texto.
 
+## PGE/RJ e Rede-SIDH — séries de emissores distintos
+
+Duas capturas de 29/10/2026 da página oficial de enunciados da PGE/RJ coincidem integralmente: 593.426 bytes, SHA-256 `c2a4d75abd846b104d405a9e1fbba318bb62cd8dc5ee89ab947a78d500de1a3e`. O primeiro bloco publica os números 1 a 55 da PGE/RJ, sem lacuna. Os títulos 22 e 49 aparecem duas vezes, com redação anterior riscada e texto substitutivo, e não geraram identidades novas. O número 24 também conserva o texto anterior riscado. Trechos riscados foram mantidos como tal, inclusive nos enunciados 3 e 7. Há revogação expressa dos números 3 (Resolução PGE nº 5406/2026, publicação de 17/06/2026), 7 (Resolução PGE nº 2.747/2010), 21 (Resolução PGE nº 3.612/2014) e 25 (Resolução PGE nº 4.108/2017). Os números 21 e 25 só publicam rubrica e nota de revogação; não houve reconstrução da redação anterior. As referências, incisos, datas e notas de alteração dos demais foram preservados sem inferir vigência atual.
+
+As publicações e republicações de janeiro de 2026 dos números 52 a 55 e a revogação de junho de 2026 do número 3 não foram substituídas pela data editorial 28/05/2024 exibida pela página. As referências históricas à Lei nº 8.666/93 e as notas de alteração de títulos em maio de 2024 permanecem nos próprios textos. Diários, resoluções e pareceres citados não foram lidos integralmente neste lote. Todo o texto de cada bloco foi conciliado com o HTML; espaços e quebras de linha foram normalizados, sem resumos dos enunciados.
+
+Após uma separação horizontal, a mesma página publica dez enunciados de outro emissor: a Rede de Cooperação entre Advocacias Públicas para atuação do Brasil no Sistema Interamericano de Direitos Humanos. Foram registrados como `REDE_SIDH`, números 1 a 10, separados dos 55 da PGE/RJ. O ato do Procurador-Geral do Estado, processo nº E-14/001.018192/2018, determina publicar os textos aprovados na reunião de 11 e 12 de dezembro de 2017. Essa data é a da reunião informada pelo ato, não uma data de publicação inferida. O bloco não informa classificação de vigência individual nem data autônoma de publicação do ato. A Rede é entidade emissora coletiva aqui contada separadamente para preservar a autoria; seus enunciados não foram apresentados como decisões da Comissão ou da Corte Interamericana nem como normas vinculantes. Não houve criação de registros para o ato de encaminhamento ou para os instrumentos internacionais apenas citados. A série da Rede não integra o catálogo judicial BNP.
+
+## TRF1 — coletânea oficial de súmulas
+
+A página institucional de pesquisa de súmulas indica o caderno `Sumula2026.pdf`. Duas capturas de 29/10/2026 coincidem em bytes: 165.075 bytes, SHA-256 `4d8f41814d2259e4aee191d9f5f6e3f7930a00cd104e361537eb6f9170f87395`. O PDF tem nove páginas físicas; os verbetes 1 a 61 ocupam as páginas 1 a 8. A página 9 só traz os créditos do Núcleo de Jurisprudência/Direj/Corip/Secju e contatos institucionais; não gerou registro. As nove páginas foram conferidas visualmente e o texto de cada verbete foi conciliado com a camada textual. Os 61 identificadores `trf01-sum-N` são novos; os seis IAC e os 104 IRDR anteriores não foram alterados, e as contagens de BNP coletado e inventário permanecem em 110.
+
+As notas expressas de cancelamento das nºs 5, 13, 15, 21, 29, 38, 39 e 48 foram preservadas junto às redações históricas. A nº 11 traz “Cancelada/Revisada” e informa a origem da nº 23; ambas mantêm registros próprios. A nº 28 informa revisão da nº 16, cujo texto histórico continua na coletânea. A nº 5 informa republicação por revisão da nota de rodapé e a nº 43 informa republicação. Não houve classificação de vigência por ausência de nota nos demais números. O texto não está riscado nessa edição, inclusive nos cancelados, e não foi acrescentado risco editorial. Os asteriscos originais das notas continuam visíveis.
+
+As nºs 60 e 61 referem processos e publicação PJe de 20/08/2026. A data técnica de criação do PDF, 26/08/2026, e o ano no nome do arquivo não foram usados como data jurídica dos demais verbetes. Referências, grafias e pontuação foram preservadas, inclusive “Seção Plenária”, “freqüência”, os campos “PAG.” sem número, o processo repetido da nº 2, os dois identificadores consecutivos na nº 50 e as aspas e o espaçamento do trecho “ex officio” da nº 48. Apenas espaços e quebras de linha foram normalizados, mantendo hífens e barras nos identificadores. Diários, processos e legislação citados permanecem sem inteiro teor incorporado. O lote não esgota as demais séries nem atos posteriores do TRF1.
 ## PGE/SP — súmulas históricas da edição de 1999
 
 A Procuradoria-Geral do Estado de São Paulo entra como órgão próprio (PGESP). Não é o TJSP nem o TIT/SP. A fonte é a coletânea pública [Súmulas da Procuradoria Geral do Estado e pareceres referidos](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm), 2ª edição revisada e atualizada, de 1999, Série Documentos n. 18, do Centro de Estudos. A [abertura](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/abre.htm) identifica essa edição e o ano de 1999. A [apresentação](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/apresentacao.htm), de maio de 1999, assinada por Marcio Sotelo Felippe, Procurador Geral do Estado, diz que os agentes da Administração estadual com atribuição de decidir e de orientar estavam legalmente vinculados aos comandos daquelas súmulas. Essa frase foi reproduzida como texto da apresentação. Ela não foi convertida em classificação atual nem em vínculo posterior.
@@ -1033,4 +1068,4 @@ O Markdown reproduz o texto de cada página, com a divisão de parágrafos da ma
 
 Nas outras dezessete, o mesmo registro reúne o enunciado, as referências, as notas e os pareceres e despachos publicados na própria página. Citações de acórdãos, decretos, diários e bibliografia não geraram registros. Quatro números de RG, nas súmulas 12, 17, 20 e 21, foram omitidos. Nomes e funções permanecem. Não havia CPF nem matrícula nessas páginas.
 
-A validação deste lote conferiu os 23 números, a sequência, os links do sumário, a igualdade do texto visível com os parágrafos publicados e a ausência dos números de RG. Ela não relê os demais órgãos. O acervo passa a 35.867 registros de 123 órgãos. Os diários e os atos apenas citados continuam pendentes. A edição de 1999 não esgota os pareceres da PGE/SP nem informa a situação jurídica posterior.
+A validação deste lote conferiu os 23 números, a sequência, os links do sumário, a igualdade do texto visível com os parágrafos publicados e a ausência dos números de RG. Uma revisão independente derivou de novo o texto visível das 23 páginas e das páginas de abertura, apresentação, sumário e índice, e releu as mesmas URLs oficiais: o texto visível coincide. Ela não relê os demais órgãos. Com a main que já reúne o TJSE, a PGE/RJ, a Rede-SIDH e o TRF1, o acervo passa a 36.007 registros de 125 órgãos. Os diários e os atos apenas citados continuam pendentes. A edição de 1999 não esgota os pareceres da PGE/SP nem informa a situação jurídica posterior.
