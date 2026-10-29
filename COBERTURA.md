@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.361 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.393 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -989,7 +989,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 883 | Consulta de Enunciados — Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 915 | Consulta de Enunciados — Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2158,4 +2158,11 @@ Delta sobre a main `1e959025` (39.222 registros em 164 órgãos; CJF 744): 40 re
 
 46 enunciados, números 1–46 da pesquisa `jornada.id=541`. As 92 capturas das fichas retornaram HTTP 200, com bytes e SHA-256 recalculados. Os campos dos pares coincidem e os corpos coincidem com as duas pesquisas. Corpos e metadados lidos; justificativa, Notas e texto revogado vazios, sem inferência de vigência. Preservadas as grafias “diálogo dasfontes”, “a fim de de aumentar”, “afastarse” e “com o fito de/de maneira”, bem como referências divergentes da própria fonte. Coordenação atribuída à ficha sem afirmar titular atual; atos e julgados citados não receberam IDs. Sem PDF/OCR, vinculação ou exaustividade inferidas.
 
-Delta sobre `c769edd8`: 46 registros e nenhum órgão, projeção de 39.361 registros em 164 órgãos e CJF 883. III Comercial e Penal continuam em PRs separados, fora desta conta. FONAJE 328, 80 transcrições históricas MPAL sem IDs novos e nove lacunas originais do BNP preservados. Outras publicações seguem pendentes; somente Markdown público, evidências privadas.
+Delta sobre `082fcd32`: 46 registros e nenhum órgão, projeção de 39.393 registros em 164 órgãos e CJF 915. III Comercial e Notarial continuam em PRs separados, fora desta conta. FONAJE 328, 80 transcrições históricas MPAL sem IDs novos e nove lacunas originais do BNP preservados. Outras publicações seguem pendentes; somente Markdown público, evidências privadas.
+## CJF — I Jornada de Direito e Processo Penal
+
+32 enunciados, números 1–32 da pesquisa `jornada.id=261`. As 64 capturas das fichas retornaram HTTP 200, com bytes e SHA-256 recalculados. Os campos dos pares coincidem e os corpos coincidem com as duas pesquisas. Corpos e metadados lidos; justificativa, Notas e texto revogado vazios, sem inferência de vigência. Mantidas redações sobre livramento condicional nas nºs 2 e 24 sem harmonizá-las. Preservadas “PARTENIDADE SOCIOAFETIVA”, “SISTEMA FINANCEIRA” e “DOSEMETRIA DA PENA” nas palavras-chave. Coordenação atribuída à ficha sem afirmar titular atual; atos e julgados citados não receberam IDs. Sem PDF/OCR, vinculação ou exaustividade inferidas.
+
+Delta sobre `1e959025`: 32 registros e nenhum órgão, projeção de 39.254 registros em 164 órgãos e CJF 776. III Comercial, Desportivo e Seguridade continuam em PRs separados, fora desta conta. FONAJE 328, 80 transcrições históricas MPAL sem IDs novos e nove lacunas originais do BNP preservados. Outras publicações seguem pendentes; somente Markdown público, evidências privadas.
+
+Delta sobre `c769edd8` (39.315 registros em 164 órgãos; CJF 837): 32 registros e nenhum órgão; total esperado de 39.347 registros em 164 órgãos e CJF 869. Os PRs #114 e #115 já estão incluídos na base e não são contados de novo. Sem nova contagem global; outros PRs em andamento não entram neste delta.
