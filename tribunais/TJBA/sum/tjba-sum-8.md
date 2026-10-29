@@ -25,3 +25,13 @@ em benefício da proteção da segurança coletiva
 - 01063724320098050001
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Catálogo próprio do TJBA
+
+Fonte: [TJBA — Súmulas](https://www.tjba.jus.br/portal/sumulas/). Duas leituras coincidentes em 29/10/2026.
+
+É irrelevante a falta ou nulidade de laudo pericial para a comprovação do potencial lesivo da arma ou munição necessários à configuração dos crimes de perigo abstrato previstos no Estatuto do desarmamento, tendo em vista o fato de a periculosidade ser ínsita à própria tipificação penal, em benefício da proteção da segurança coletiva.
+
+Documento vinculado ao título: [Súmula nº 8](https://www.tjba.jus.br/portal/wp-content/uploads/2017/10/sumula_tjba_8_data_correta.pdf). O PDF não foi incorporado neste lote.
+
+O texto, as referências e as datas acima reproduzem o catálogo próprio, inclusive notas de cancelamento e grafias. A ausência de nota de cancelamento não comprova vigência atual. Atos, diários e processos citados não foram incorporados.
