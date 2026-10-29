@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.193 registros únicos de 149 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.204 registros únicos de 149 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRS — Enunciados CONCIDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
 | [MPRS — Súmulas do Conselho Superior](https://www.mprs.mp.br/orgaoscolegiados/sumulas/) | 21 | 21 | 0 |
@@ -925,7 +926,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 21 | MPRS — Súmulas do Conselho Superior |
+| [MPRS](tribunais/MPRS/) | 32 | MPRS — 21 súmulas do CSMP e 11 enunciados CONCIDEPP |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1663,3 +1664,13 @@ As páginas intituladas “Enunciados criminais em vigor” e “Enunciados crim
 O nº 102 conserva os 27 incisos na página “em vigor”; a página de revogados reproduz apenas VIII e XII, com as notas respectivas. Não se afirmou revogação integral. O nº 127 conserva as diretivas I a XL, inclusive IV-A, IV-B, VI-A, VI-B, VIII-A e XVI-A a XVI-C, com suas notas de atualização; elas não foram fragmentadas em identificadores. O nº 114 conserva os 21 incisos. O cabeçalho de publicação dos nºs 74 a 76 aparece após o nº 78 e antes do nº 76; a posição ficou mantida e os três registros têm remissão. O nº 72 conserva o texto histórico; o nº 97 imprime sua revogação. Grafias como “liberade”, “COV/D-19”, “Mistério Público”, “pela agente” e “3 Pacote Anticrime” não foram corrigidas. Os rótulos da página não foram convertidos em confirmação independente de vigência ou efeito vinculante.
 
 Não houve PDF nem OCR. Espaços, quebras e ênfases foram normalizados. A revisão retirou espaços que a transcrição tinha inserido em fronteiras de tags e que não estavam no texto visível, inclusive no meio dos números SEI dos nºs 146 a 148 e na referência criminal do nº 91, e separou de novo as quebras do HTML. Atos, normas, diários e processos apenas citados não geraram registros. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Enunciados ausentes, recomendações e outras séries permanecem pendentes. Com os 45 cíveis, o órgão fica em 129 registros. O lote conjunto, sobre a main `9bab3c61aa6a95cadc5d8eb14de0ba66636db746`, com 37.064 registros em 148 órgãos, MPF 430, MPRS 21, MPSC 17, MPGO 13 e MPCE 34, soma 129 registros e um órgão: 37.193 registros em 149 órgãos. As nove lacunas do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. Capturas e scripts ficam privados; a cobertura nacional continua parcial.
+
+## MPRS — enunciados CONCIDEPP e atos de referendo
+
+O catálogo de resoluções do MPRS foi capturado duas vezes em 29/10/2026 com os mesmos bytes e vincula oito atos que mencionam CONCIDEPP ou CONCIDEPPFAM: fichas 15486, 15695, 15844, 16891, 16893, 16894, 17881 e 18316. Os onze números 1–11 foram lidos no HTML desses atos, com uma só identidade por enunciado, série `en-concidepp`. A redação anterior do nº 5 e as duas publicações da redação alterada permanecem no mesmo registro. O inteiro teor dos oito atos fica uma única vez no README da série, sem criar registros de resolução.
+
+As oito páginas foram lidas integralmente. Seis pares são idênticos em bytes; nas fichas 16894 e 17881, o contêiner jurídico `#conteudo1` coincide integralmente apesar da diferença no HTML externo. Tamanhos e SHA-256 das capturas estão em cada registro. Não há PDF nem OCR. Espaços, quebras e ênfases foram normalizados, mantendo os riscos, inclusive os que atravessam parágrafos no HTML malformado. O preâmbulo da Resolução 01/2022 abre `<S>` sem fechamento no conteúdo, e o risco foi preservado daí ao final do ato.
+
+A ficha da Resolução 01/2022 a declara revogada pela 04/2023. O art. 3º da 04/2023 revoga a resolução que referendou 1 e 2; o art. 2º declara a revogação do nº 4. A nota da página 09/2022, contudo, menciona “03/2023-PGJ” e aponta à ficha 04/2023, divergência preservada. O nº 5 conserva o histórico e a alteração expressa da 03/2023. A Resolução 01/2023 imprime fecho em 12/01/2022 e DEMP em 18/01/2023. Nos atos de 2025, CONCIDEPPFAM aparece na ementa e CONCIDEPP nos considerandos. A ficha 7/2025 é rotulada CONCIDEPP e o título no corpo PGJ. “artigo17-B”, “Público,haja” e “atingindo,também” do nº 3 permanecem literais.
+
+O art. 1º resguarda a independência funcional nos referendos, mantida no documento comum. Nenhuma ausência de nota foi convertida em vigência atual ou efeito vinculante. Diários, pareceres, processos, leis e precedentes apenas citados ficam pendentes. Não há CPF, RG, matrícula ou bloco de autenticação incorporado; nomes e funções públicos permanecem. O MPRS passa de 21 para 32 registros sem órgão novo. Sobre a main `51b08ae6`, com 37.193 registros em 149 órgãos, o lote soma 11: 37.204 registros em 149 órgãos. MPDFT 129, MPF 430, MPCE 34, MPSC 17 e MPGO 13 permanecem. As nove lacunas iniciais do BNP continuam. Capturas e scripts ficam privados; cobertura nacional parcial.
