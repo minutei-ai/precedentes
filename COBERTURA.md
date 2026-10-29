@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.767 registros únicos de 159 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.784 registros únicos de 160 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -10,6 +10,7 @@ A série de súmulas do MPPI inclui mais uma lacuna textual, independente das no
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPAL — Assentos e Súmula do CSMP (edição 2026)](https://www.mpal.mp.br/?page_id=15693) | 17 | 17 | 0 |
 | [MPMS — Enunciados do Conselho Superior](https://www.mpms.mp.br/atos-e-normas?sitcod=4&atotipcod=12) | 26 | 26 | 0 |
 | [MPAC — Enunciados do CSMP, documentos 1 a 6](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 6 | 6 | 0 |
 | [MPAC — Decisão da Resolução n. 3.762/2026](https://www.mpac.mp.br/administracao-superior/conselho-superior/resolucoes-normativas/) | 1 | 1 | 0 |
@@ -1931,6 +1932,17 @@ Incorporado o [item 3.2 completo da ata de 30/04/2021](tribunais/MPPI/sum-csmp/R
 A seção 3 da [ata oficial da 1370ª sessão](https://www.mppi.mp.br/internet/wp-content/uploads/2023/01/ATA-1370a-Sessao-Ordinaria-02-12-2022-1.pdf) foi transcrita visualmente, por página, no registro existente `mppi-sum-csmp-11`. Foram lidas somente as páginas físicas 28–30, desde “3. PROPOSTA DE SÚMULA” até “DO CSMP-PI.”, antes da seção 4. A página 28 começa a justificativa; a 29 contém sua continuação e referências aos enunciados nº 1 do Pará e nº 39 de Minas Gerais; a 30 registra as referências nº 11 do Pará e nº 392 de Minas Gerais, a sugestão de redação e a aprovação unânime. As divergências foram mantidas. A proposta, a justificativa e a aprovação não foram confundidas, as referências citadas não geraram IDs e não se inferiu vigência atual. O caso 2.5.17 anterior, os itens 4.1 posteriores e o restante da ata não foram transcritos; a ata de 35 páginas não foi declarada integralmente lida. Não houve OCR nem rasterização nesta etapa; imagens e capturas permanecem privadas.
 
 Delta zero sobre a main `f6c9e0a0`: 37.721 registros em 157 órgãos. As nove lacunas textuais do BNP e a Súmula 01 do MPPI sem texto publicado continuam. Apenas Markdown público; sem novo registro e sem identificador para as referências citadas. A cobertura nacional continua parcial.
+
+
+## MPAL — assentos e súmula do CSMP
+
+A página oficial do [catálogo de Assentos e Súmula](https://www.mpal.mp.br/?page_id=15693) foi capturada duas vezes em 29/10/2026, HTTP 200, 139.114 bytes em cada, SHA-256 `4fb1f6d485e905e867e5e94ea0febfccc250e4e8e9e0d90008a490272692609c`. O catálogo lista dez edições de 2016 a 2026, inclusive duas de 2023. Os vinte PDFs vinculados foram capturados em pares HTTP 200 e cada par teve bytes e SHA-256 idênticos.
+
+A edição rotulada 19/02/2026 pelo catálogo corresponde ao PDF oficial do [DOE do MPAL](https://www.mpal.mp.br/wp-content/uploads/2026/08/Assentos-e-Sumula-TI-DOE.pdf), 258.386 bytes, SHA-256 `a15c2fe53ba7545a9b8f5c613d9c8da3f9f0c81b08a77b108d8df6482947e08d`. O PDF tem duas páginas físicas, impressas 19 e 20. O cabeçalho indica disponibilização em 20/02/2026, edição nº 1537; a seção encerra com “Maceió, 19 de fevereiro de 2026”; e o caminho do arquivo contém `/2026/08/`. As três referências foram mantidas sem convertê-las em vigência. A leitura visual cobriu as duas páginas. Foram publicados os 17 rótulos da seção jurídica: assentos 001–016/2026 e Súmula 001/2026. Os assentos 004 e 008 publicam somente avisos de revogação e permanecem sem enunciado reconstruído. Matérias de pauta, editais e portarias que aparecem nas mesmas páginas foram excluídos.
+
+A edição [Assentos e Súmula 2025](https://www.mpal.mp.br/wp-content/uploads/2025/05/Assentos-e-Sumula-2025-TI.pdf) tem 255.203 bytes e SHA-256 `9083cdda1fa02809a130068340ca9f634e0ca3531f73397d5b16c726168e5626`; sua página física 2 (impressa 6) contém assentos 001–014/2025 e Súmula 001/2025. As redações coincidem literalmente com as correspondentes da edição 2026, mas essa repetição e a mudança de ano não provam identidade jurídica, renumeração, revisão, revogação nem republicação de cada ato. Apenas os IDs formais de 2026 foram cadastrados; 2025 foi mantida como comparação sem registros duplicados. As oito edições anteriores do catálogo, atos de aprovação, revisão e revogação permanecem pendentes de leitura visual; nenhum texto histórico foi atribuído a 2026. A edição não confirma vigência atual ou efeito vinculante. Normas citadas não receberam IDs. Nomes e funções públicas foram mantidos; identificadores pessoais e códigos de autenticação foram omitidos. Apenas Markdown público; PDFs, capturas, recibos, imagens e scripts privados.
+
+Sobre a main `ed8a2492` (37.747 registros em 158 órgãos), este lote soma 17 registros e um órgão: 37.764 registros em 159 órgãos. MPMS permanece em 26 registros; MPPI permanece em 16, incluindo a Súmula 01 identificada mas sem texto, e as nove lacunas do BNP continuam. As limitações históricas acima permanecem abertas; a cobertura nacional continua parcial.
 
 
 O Ministério Público do Estado de Mato Grosso (MPMT) entra como órgão próprio, distinto do MPMS, do TJMT, do TCEMT e do MPF. A seção 14 da pauta oficial do CSMP compila oito assentos e doze enunciados nas espécies e anos impressos; não houve fusão por similaridade de número ou matéria. Os textos foram publicados como registros do Conselho, sem inferir vigência ou efeito vinculante. O Regimento Interno (Resolução nº 033/2012-CSMP, arts. 46–49) distingue assentos e enunciados. A indexação pública da Resenha 07/2025-CSMP informa ratificação em bloco, mas não enumera itens nem reproduz textos; a captura direta do DOE/MPMT respondeu HTTP 500. Essa indexação é apenas pista e não prova status ou completude. A pauta URL identifica 06/03/2023 e seu cabeçalho imprime 06/março/2022; essa inconsistência permanece anotada. A consulta não localizou catálogo independente mais recente que discrimine números e textos; isso não prova inexistência de outros atos.
