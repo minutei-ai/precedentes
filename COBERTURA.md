@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.542 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.574 registros únicos de 142 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CNMP — Enunciados e súmulas da CALJ](https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-acompanhamento-legislativo-e-jurisprudencia/jurisprudenciacalj/enunciados-e-sumulas) | 32 | 32 | 0 |
 | [MPF — Enunciados da 1ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr1/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados da 7ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr7/enunciados) | 11 | 11 | 0 |
 | [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
@@ -906,6 +907,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
 | [MPF](tribunais/MPF/) | 132 | MPF — Enunciados das 1ª, 3ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
@@ -972,7 +974,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPF, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CNMP, MPF, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1389,3 +1391,17 @@ O corpo do conjunto nº 1/2026 coincide com o publicado na página da 4ª CCR, s
 Os riscos foram mantidos em Markdown; espaços, quebras de linha e negrito/itálico foram normalizados. Permanecem grafias como “pleno entendimento”, “pleno atendimento”, “conforme a peculiaridades”, “antropólogo.2.” e “índia.3.”. O nº 51 informa a 506ª RO sem data, que não foi completada. A fundamentação da nº 50, a pauta ODT da 428ª RO e os PDFs vinculados não foram lidos neste lote. Atos, decisões, ofícios, notas técnicas e normas apenas citados não criaram IDs. Datas e ausência de nota não comprovam vigência atual nem efeito vinculante. Não houve PDF/OCR.
 
 Sobre a main eb83d36c32ef3dea923d94f2eca9c6f12b77958d, com 36.489 registros em 141 órgãos e 79 enunciados do MPF, este lote acrescenta 53 registros e nenhum órgão: 36.542 registros em 141 órgãos, e o MPF passa a 132. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. A 2ª CCR, as séries próprias das 4ª e 5ª CCRs, orientações, PDFs, a fundamentação da nº 50 e a pauta ODT continuam pendentes. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
+
+## CNMP — enunciados e súmulas
+
+O Conselho Nacional do Ministério Público entra como órgão próprio (CNMP). É órgão constitucional, distinto do Ministério Público Federal, do Ministério Público do Trabalho e dos Ministérios Públicos dos Estados e do Distrito Federal. Os enunciados do MPF já incorporados ficam no órgão MPF. O catálogo usado é [Enunciados e súmulas](https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-acompanhamento-legislativo-e-jurisprudencia/jurisprudenciacalj/enunciados-e-sumulas), da Comissão de Acompanhamento Legislativo e Jurisprudência.
+
+O lote tem 32 registros: enunciados 1 a 22 e súmulas 1 a 10. Não há lacuna nessas faixas. O parser que contou 28 URLs no catálogo deixou de fora a súmula nº 2, o enunciado nº 19, o enunciado nº 21 e o enunciado nº 22, que a página lista. Os quatro foram lidos em PDF oficial. Nada acima do enunciado nº 22 nem da súmula nº 10 foi provado inexistente. Uma resposta 404, uma busca que devolve a página inicial e uma lista sem filtro de atos e normas não foram tratadas como ausência.
+
+Cada página jurídica incorporada foi lida na imagem PNG de 140 dpi. A camada de texto foi o apoio. Não houve OCR. As duas capturas de cada PDF incorporado, em 29/10/2026, coincidem em bytes e em SHA-256. As fichas HTML dos enunciados nº 17, 18 e 20 diferem em bytes entre as duas capturas e coincidem no texto visível e nos links. As fichas do enunciado nº 19 e da súmula nº 2 foram salvas uma vez. O campo “Status: Vigente” e o campo “Situacao: Não consta revogação expressa” foram citados e não viraram classificação de vigência nem de efeito vinculante.
+
+O enunciado nº 1 está no arquivo Enunciado-0011.pdf. O número é o da página. A linha “Versão compilada” aponta para Enunciado-0012.pdf, que não é o enunciado nº 12. O primeiro item III está riscado e o segundo permanece. O enunciado nº 7 traz a nota de cancelamento na Proposição nº 1.00650/2016-10, 24ª Sessão Ordinária de 13 de dezembro de 2016. O corpo de 15 de junho de 2011 está riscado; o nome do signatário não está. O acórdão ligado nessa página não foi capturado e não gerou registro. O enunciado nº 18 tem título de 29 de março de 2022 e preâmbulo que cita sessão de 15 de março de 2021. O enunciado nº 19 é o PDF assinado de uma página da norma 8955. A página do DECNMP que o republica começa com o fecho de uma emenda regimental; essa emenda não foi transcrita. O Ementário da CALJ, 3ª edição de 2022, 430 páginas, apenas cita o enunciado nº 19 e não foi republicado. O enunciado nº 22 foi delimitado na página do diário que também traz o calendário de sessões de 2024; o calendário ficou de fora.
+
+A súmula nº 2 tem data de Brasília em 5 de março de 2018 e publicação da ficha em 14/03/2018. O PDF escreve “direito”; o resumo do catálogo escreve “direto”. Nas súmulas nº 1 e nº 5, o “os” de “nºs” está elevado. A nº 1 imprime o processo 2009-11 com hífen na quebra de linha. A nº 5 imprime “0.00.000.000.001213/2012-09”. A nº 3 imprime “autos de nos” na linha de base. As nº 7, 8 e 9 omitem “nos” antes de “autos”. A nº 10 conserva “0.00.000.0001041/2011-41” e “0.00.000197/2009-23”.
+
+Resoluções, leis, o regimento, súmulas de outros órgãos e processos apenas citados não geraram identificadores. Não há CPF, RG, matrícula nem código pessoal no texto incorporado. As nove lacunas textuais do TJAM e do TJRJ permanecem. O lote acrescenta 32 registros e um órgão sobre a main 60efbe51008c16e73dc816a6094345f8bd43fcff, que já reúne 36.542 registros em 141 órgãos, inclusive os enunciados do MPF e as súmulas da ANTT. Com este lote o acervo passa a 36.574 registros em 142 órgãos. A série não esgota portarias, resoluções e recomendações do CNMP. A cobertura nacional de precedentes continua parcial.
