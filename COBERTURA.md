@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.858 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.915 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPF — Enunciados da 5ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/enunciados) | 58 | 57 | 0 |
 | [MPM — Enunciados do 9º ECPJM](https://www.mpm.mp.br/arquivos/legislacao/enunciado-no-1-ecpjm-mpm) | 14 | 14 | 0 |
 | [MPF — Enunciados da PFDC e Orientação nº 1/2026](https://www.mpf.mp.br/atuacao/pfdc/orientacao-e-enunciados) | 23 | 23 | 0 |
 | [MPT — Enunciados da CCR](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) | 29 | 29 | 0 |
@@ -916,7 +917,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPM](tribunais/MPM/) | 14 | MPM — Enunciados do 9º ECPJM, carta de 2021 e fichas oficiais |
 | [MPT](tribunais/MPT/) | 29 | MPT — Enunciados da CCR, HTML oficial |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
-| [MPF](tribunais/MPF/) | 373 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
+| [MPF](tribunais/MPF/) | 430 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 5ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
@@ -1489,3 +1490,23 @@ As três páginas foram conferidas na imagem e na camada textual, sem OCR. A pá
 A reunião é datada de 24 a 26 de novembro de 2021, e o fecho, de 02 de dezembro de 2021. O selo “Em vigor” das 14 fichas, capturado em 29/10/2026, não foi convertido em conclusão independente sobre vigência nem efeito vinculante. O ECPJM fica em série distinta da CCR e das recomendações do MPM. MPM não se confunde com MPF, MPT, CNMP ou STM. Leis, ofícios, planos e cartas anteriores apenas citados não geraram registros. Outros encontros, redações anteriores, séries da CCR e recomendações permanecem pendentes. Capturas, PDFs e derivados ficam privados.
 
 Sobre a main `4e14a5bc241b98956649465af03c0db0919c472f`, com 36.844 registros em 143 órgãos, o lote soma 14 registros e um órgão: 36.858 registros em 144 órgãos. As nove lacunas originais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A cobertura nacional continua parcial.
+
+## MPF — enunciados próprios da 5ª CCR
+
+Duas capturas HTTP 200 em 29/10/2026 da [página oficial da 5ª CCR](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/enunciados) têm os mesmos 258.436 bytes, SHA-256 `216fcdff0be09c4bfeaaa57f9c5aa90afce920fd6537c07c212422057bd10e43`. A página publica 57 enunciados próprios, nºs 1 a 57, e um bloco final sem número, “ENUNCIADOS CONJUNTOS”. Os 57 entram na série `en-ccr5`, identificadores `mpf-en-ccr5-1` a `mpf-en-ccr5-57`. Na tabela de fontes, a página conta 58 blocos, 57 novos e zero já representados: o bloco sem número não é o registro `mpf-en-conj-ccr5-ccr6-9`.
+
+Cada um dos 57 tem o PDF vinculado na mesma identidade. São 58 PDFs e 63 páginas. As duas capturas HTTP 200 de cada PDF coincidem em bytes e em SHA-256. A camada textual saiu do Poppler e cada página incorporada foi lida na imagem. Não houve OCR. Os nºs 13 e 23 têm duas páginas. O PDF sem número tem quatro. Os outros 55 PDFs dos nºs 1 a 57 têm uma página: 59 páginas nos 57 registros e 4 no conjunto.
+
+Avisos de cancelamento, revogação, conversão ou retificação que na página aparecem com o título foram completados com o PDF e o histórico no mesmo identificador. O nº 55 traz no HTML apenas o título, com “ORIGEM.Acordo” sem espaço. O corpo está no PDF de uma página, 48.732 bytes, SHA-256 `4d7f2804a49aa50750a0e9b1cf1556a1fe41b378b5530f45de048616223edb0d`, protocolo PGR-00437889/2025, 34ª Sessão Ordinária de Coordenação de 06/11/2025.
+
+O nº 21 conserva, no PDF de 56.751 bytes e SHA-256 `f84a618ac21c9ed07fd1b6d86e413fe587914d244f158b61ef677426762368b6`, o corpo antigo riscado, o parágrafo de suspensão de 2015 riscado e a frase azul “Aprovado na 875ª Sessão, de 19/08/2015 da 5ª CCR.” sem risco. A nota de cancelamento na 959ª Sessão Extraordinária, de 01/06/2017, também permanece sem risco. O HTML grafa “DECISÃO DE NÃO RECORRER DE SENTENÇA OU ACÓRDÃO”. O PDF grafa “DECISÃO DE NÃO RECORRE DE SENTENÇA OU ACÓRDÃO”. Permanece “inciativa”.
+
+O preâmbulo do nº 23, sob o título ENUNCIADO 23, diz que a Câmara “retificou o Enunciado 12”. O número foi mantido. A redação de 8 de fevereiro de 2024 está sem risco. A redação de 17 de setembro de 2012 e a justificativa da página 2 estão riscadas. O PDF tem 165.624 bytes, SHA-256 `4699d9815392d9cc2acde585279790b1f47596d92793ffcce24eb44637baa5a8`.
+
+No nº 39, o título “REGIME PRÓPRIO DE PREVIDÊNCIA” e o primeiro parágrafo permanecem sem risco. O segundo parágrafo está riscado. A nota azul “Alteração deliberada na 928ª Sessão, de 29/09/2016.” permanece sem risco. No nº 8, a nota azul “Redação anterior restabelecida...” está riscada, como o parágrafo antigo, inclusive “1.00.000.0007042/2001-13/BA”.
+
+O PDF `enunciado-conjunto.pdf` tem 4 páginas, 127.301 bytes e SHA-256 `a4e985dea1c34ca8a19f55950809f74240f74784e21fdd79053f47e41ab97d88`. O cabeçalho é da 5ª Câmara de Coordenação e Revisão – Combate à Corrupção. O título é “ENUNCIADO CONJUNTO 5ª E 6ª CÂMARAS DE COORDENAÇÃO E REVISÃO”, sem o número 9. A data impressa é Brasília, 12 de agosto de 2009. A cláusula dispositivo atribui à Fundação Nacional de Saúde “adotar todas medidas possíveis” visando ao “pleno atendimento”. O HTML da 5ª CCR reproduz um excerto e omite “todas”. As quatro imagens foram lidas. A identidade com `mpf-en-conj-ccr5-ccr6-9` permanece pendente: ali a redação riscada da FUNASA usa “pleno entendimento”, e a redação posterior, de SESAI e DSEIs, está ligada à alteração no XIV Encontro Nacional da 6ª CCR em 5/12/2014. Esse registro não foi alterado. O corpo de quatro páginas não entrou na série da 5ª CCR e não houve outro identificador. As variantes “pleno atendimento” e “pleno entendimento”, e “todas medidas” e “todas as medidas”, permanecem como estão em cada fonte.
+
+Orientações citadas, inclusive as nºs 3 e 8, votos, atas, portarias, processos e atos apenas vinculados não geraram identificador. Carimbos de login e senha, chaves, endereços, telefones e nomes que aparecem só no carimbo ficaram de fora. Protocolos PGR impressos no cabeçalho permanecem. A frase da fonte que usa “passou a vigorar” foi transcrita e não foi convertida em afirmação de vigência atual. A ausência de nota também não confirma vigência atual nem efeito vinculante.
+
+Sobre a main `55b67b3aae5a87eb29a58b4883680755ba75c319`, com 36.858 registros em 144 órgãos e 373 do MPF, este lote soma 57 registros e nenhum órgão: 36.915 registros em 144 órgãos e o MPF a 430. As nove lacunas originais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A cobertura nacional continua parcial. Capturas, PDFs, imagens e scripts ficam privados.
