@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.860 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.863 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPT — Enunciados 1–7 na ata publicada no DOU de 26/03/2015](https://biblioteca.mpf.mp.br/repositorio/bitstreams/55183dd8-bfe1-434d-908d-246ac4a9175a/download) | 7 | 3 | 4 |
 | [TJAM — Catálogo próprio de IRDR](https://www.tjam.jus.br/index.php/consultas-nugep/irdr-nugep?showall=1) | 32 | 2 | 30 |
 
 | [MPM — Enunciados do 9º ECPJM](https://www.mpm.mp.br/arquivos/legislacao/enunciado-no-1-ecpjm-mpm) | 14 | 14 | 0 |
@@ -916,7 +917,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [MPM](tribunais/MPM/) | 14 | MPM — Enunciados do 9º ECPJM, carta de 2021 e fichas oficiais |
-| [MPT](tribunais/MPT/) | 29 | MPT — Enunciados da CCR, HTML oficial |
+| [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
 | [MPF](tribunais/MPF/) | 373 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
@@ -1516,3 +1517,16 @@ São duas páginas físicas, uma em cada arquivo, lidas visualmente e transcrita
 Entraram os cabeçalhos institucionais, as Informações nºs 042/2016/AR/3CCR e 054/2016/AR/3CCR, assunto, enunciado proposto, quatro itens de justificativa em cada e o fecho nominal de Nilson Pereira Rocha Júnior, Assessoria de Padronização Revisional - APR. A nº 22 inclui a transcrição legislativa impressa na justificativa. A informação da nº 22 data 14/04/2016 e o carimbo, 30/05/2016; na nº 23, ambos indicam 23/05/2016. Os números manuscritos de protocolo não foram transcritos, e as assinaturas foram indicadas sem reprodução gráfica. Brasões e desenho do carimbo ficaram fora da cópia textual. Esses limites não foram chamados de transcrição integral de todos os sinais da página.
 
 As datas não foram convertidas em aprovação ou vigência. Normas e atos apenas citados não criaram IDs. Os outros PDFs da 3ª CCR e os atos de aprovação permanecem pendentes; este lote não esgota o órgão. As nove lacunas do catálogo inicial do BNP permanecem. Capturas, PDFs e imagens ficam privados. Sobre a main `512d07db5b3fd1b9b78d38e8ff2defc4e1b54bbe`, a contagem continua em 36.860 registros de 144 órgãos, com 373 do MPF. A cobertura nacional permanece parcial.
+
+
+## MPT — recuperação histórica dos enunciados 1 a 7 no DOU de 2015
+
+A Biblioteca do MPF conserva uma cópia de três páginas do DOU nº 58, Seção 1, de 26/03/2015. O item público `http://hdl.handle.net/11549/22984` e seu arquivo `DOU1_26032015.pdf` foram conciliados pelo vínculo do próprio repositório. Duas capturas HTTP 200 em 29/10/2026 têm 75719 bytes e SHA-256 `b7128ec37cc987805d59c264c1c9b65733f1f871fc4da23548417477e506e21e`. Foi renderizada e lida apenas a página física 3, impressa como página 76 do diário; as páginas físicas 1 e 2 não foram processadas neste lote.
+
+A terceira coluna publica sete blocos completos: ENUNCIADO Nº 01/CCR a Nº 07/CCR, na ata da 49ª Sessão Extraordinária, cujo cabeçalho informa realização em 25/02/2015. Foram incorporados enunciados, deliberações de edição e votos divergentes. Três números ausentes da página HTML de 2026 entram como históricos: `mpt-en-ccr-1`, `mpt-en-ccr-2` e `mpt-en-ccr-5`. Os nºs 3, 4, 6 e 7 recebem o histórico no mesmo identificador, sem substituir a versão de 2026.
+
+Na nº 5 a fonte publica edição por maioria, com duplo voto da Coordenadora, e votos vencidos pelo cancelamento; esses votos não foram classificados como cancelamento aprovado. Na nº 4 a divergência imprime um recorte terminado em `de(...)`, preservado sem reconstrução. A nº 6 conserva “canteiro-de-obra” e “à todas as empresas”. A edição da nº 1 é unânime, e a da nº 2 é por maioria, com nota de voto vencido. A declaração geral de revogação de precedentes anteriores da ata não foi aplicada conjecturalmente aos enunciados editados no mesmo ato.
+
+Não houve OCR: a camada textual apoiou a leitura da imagem. Espaços, quebras e ênfases foram normalizados; hífens de divisão no fim da linha foram reunidos, preservando hífens vocabulares. A marca d’água, elementos gráficos, o código de autenticação e atos alheios ao recorte ficaram fora da transcrição. O nº 8 só começa no fim da página e não foi tratado como texto íntegro. A continuação na página 77 não foi recuperada; as tentativas do portal público da Imprensa Nacional terminaram sem resposta, o que não prova ausência da publicação. Os nºs 9, 10, 18 e 23 continuam sem texto recuperado. A ausência na página de 2026 não comprova cancelamento nem sua data. Não se inferiu vigência atual da publicação histórica. Capturas, imagens e scripts ficam privados.
+
+Sobre a main `07e01c6d8ed2696ce6b9b61791504a01b0f53b2e`, com 36.860 registros em 144 órgãos, este lote soma três registros e nenhum órgão: 36.863 registros em 144 órgãos. O MPT passa de 29 para 32. As nove lacunas do catálogo inicial do BNP permanecem. A cobertura nacional continua parcial.
