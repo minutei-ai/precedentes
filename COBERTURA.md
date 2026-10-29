@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.764 registros únicos de 159 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.092 registros únicos de 160 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -10,6 +10,9 @@ A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 178 | 178 | 0 |
+| [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
+| [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
 | [MPAL — Assentos e Súmula do CSMP (edição 2026)](https://www.mpal.mp.br/?page_id=15693) | 17 | 17 | 0 |
 | [MPMS — Enunciados do Conselho Superior](https://www.mpms.mp.br/atos-e-normas?sitcod=4&atotipcod=12) | 26 | 26 | 0 |
 | [MPAC — Enunciados do CSMP, documentos 1 a 6](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 6 | 6 | 0 |
@@ -826,6 +829,14 @@ A API de precedentes do TJRJ foi conferida em seis páginas de IRDR e uma de IAC
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
+## FONAJE — enunciados cíveis, criminais e da Fazenda Pública
+
+O FONAJE é o emissor dos 328 enunciados incorporados em três séries próprias: 178 cíveis, 133 criminais e 17 da Fazenda Pública. As páginas são hospedadas no CNJ. O mesmo número em áreas diferentes recebe identificador distinto; referências a outras séries ou órgãos não criaram registros.
+
+O HTML jurídico foi capturado duas vezes por página. Os pares cíveis e da Fazenda Pública diferem no HTML externo; seus 178 e 17 blocos, respectivamente, coincidem após normalização. As duas capturas criminais têm bytes iguais e os 133 blocos coincidem. Tamanhos e SHA-256 de cada captura, comparação e normalização estão nos [índices do FONAJE](tribunais/FONAJE/README.md). Não houve PDF nem OCR.
+
+A página cível exibe 177 no índice, enquanto o HTML capturado contém os rótulos 1–178, inclusive o Enunciado 178 atribuído ao 57º Encontro de 2026. A divergência fica atribuída à fonte e a contagem dos blocos publicados não prova completude histórica. Cancelamentos, revogações, substituições, notas de nova redação e aprovações permanecem como impressos. A coleta não infere vigência atual ou efeito vinculante. A cobertura nacional continua parcial.
+
 ## TJMMG — súmulas do catálogo próprio
 
 O catálogo oficial do TJMMG acrescenta nove súmulas, nºs 1 a 9, com textos, referências legislativas, precedentes e notas de aprovação e publicação. Duas leituras em 28/10/2026 coincidem no conteúdo de todos os verbetes. A página informa atualização editorial em 12/03/2026; essa data não foi usada como data dos atos. As súmulas 1 e 3 trazem aprovação em 20/10/2025 e publicação em 04/12/2025. A nota coletiva de aprovação das súmulas 1 a 5 em 2009 aparece junto da nº 5 e foi preservada nesse local, sem substituir as notas individuais. As repetições de parênteses nas notas das nºs 2 e 4 e a grafia “apovada” da nº 4 foram mantidas. O catálogo não classifica expressamente a vigência de cada verbete. As redações históricas substituídas, os atos de aprovação, os diários e os processos citados não foram incorporados, e as demais espécies de precedentes do tribunal continuam pendentes.
@@ -950,6 +961,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [FONAJE](tribunais/FONAJE/) | 328 | FONAJE — Enunciados Cíveis, Criminais e da Fazenda Pública hospedados no CNJ |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
@@ -1077,7 +1089,7 @@ A compilação anterior [SUMULAS_ATUALIZADAS.pdf](https://www.tjba.jus.br/juizad
 
 O caderno não classifica vigência em campo próprio. A ausência de nota de revogação não confirma vigência. As datas de sessão ficam no texto e não foram convertidas em atualização individual. A data de criação do arquivo, 08/06/2026, é do PDF, não dos atos. A composição de magistrados, o calendário de sessões e os telefones da página institucional não foram transformados em precedentes.
 
-Os enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF saíram desta lista: estão na seção seguinte. Permanecem pendentes, sem contagem no lote da Turma de Uniformização e sem contagem no lote destes enunciados: as [recomendações do NUCOF](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/RECOMENDACOES_NUCOF.pdf) e as notas técnicas [01/2021](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_01_NUCOF_2021.pdf), [02/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_02_NUCOF_2024.pdf) e [03/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_03_NUCOF_2024.pdf); os enunciados do FONAJE vinculados na mesma página, [cíveis](https://www.cnj.jus.br/enunciados-civeis/), [criminais](https://www.cnj.jus.br/enunciados-criminais/) e de [Fazenda Pública](https://www.cnj.jus.br/enunciados-da-fazenda-publica/); o PDF de [precedentes vinculantes do STF, STJ e TST](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/2025/10/precedentes_vinculantes_STF_STJ_TST.pdf); as pautas e atas de sessão; os diários e os processos apenas citados. Esses documentos não foram lidos nem contados como súmulas desta série. No menu da página consolidada, o rótulo da Turma de Uniformização aponta para `SUMULAS_ATUALIZADAS_TU-1.pdf`; no corpo, o mesmo rótulo aponta para `SUMULAS_ATUALIZADAS_TU.pdf`. Os dois arquivos são idênticos.
+Os enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF saíram desta lista: estão na seção seguinte. Permanecem pendentes, sem contagem no lote da Turma de Uniformização e sem contagem no lote destes enunciados: as [recomendações do NUCOF](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/RECOMENDACOES_NUCOF.pdf) e as notas técnicas [01/2021](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_01_NUCOF_2021.pdf), [02/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_02_NUCOF_2024.pdf) e [03/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_03_NUCOF_2024.pdf); o PDF de [precedentes vinculantes do STF, STJ e TST](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/2025/10/precedentes_vinculantes_STF_STJ_TST.pdf); as pautas e atas de sessão; os diários e os processos apenas citados. Os enunciados do FONAJE agora estão em [séries próprias](tribunais/FONAJE/README.md), sem serem convertidos em registros do TJBA. Esses outros documentos não foram lidos nem contados como súmulas desta série. No menu da página consolidada, o rótulo da Turma de Uniformização aponta para `SUMULAS_ATUALIZADAS_TU-1.pdf`; no corpo, o mesmo rótulo aponta para `SUMULAS_ATUALIZADAS_TU.pdf`. Os dois arquivos são idênticos.
 
 ## TJBA — enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF
 
