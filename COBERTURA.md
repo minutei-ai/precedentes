@@ -1,10 +1,14 @@
 # Cobertura
 
-**38.092 registros únicos de 160 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.508 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## FONAJEF
+
+Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef): os cartões consultados cobrem os números 1–226 sem repetição ou lacuna nesta consulta. A página atual consultada apresenta a série até o XVIII FONAJEF; a busca na área oficial não identificou edição posterior ou novo enunciado. As [recomendações do FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) são uma seção separada e não foram incorporadas neste lote. Esse resultado limitado não demonstra exaustividade nem ausência de atualizações posteriores. Os textos mantêm literalmente avisos de cancelamento, revisão, redação anterior e transformação quando impressos; ausência de aviso não confirma vigência e nenhum efeito vinculante foi inferido. A série foi conferida como própria do FONAJEF/AJUFE, distinta do FONAJE, da TNU, do CNJ e dos TRFs.
 
 ## Fontes diretas
 
@@ -13,6 +17,12 @@ A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 178 | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
+| [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
+| [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
+| [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
+| [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
+| [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
+| [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
 | [MPAL — Assentos e Súmula do CSMP (edição 2026)](https://www.mpal.mp.br/?page_id=15693) | 17 | 17 | 0 |
 | [MPMS — Enunciados do Conselho Superior](https://www.mpms.mp.br/atos-e-normas?sitcod=4&atotipcod=12) | 26 | 26 | 0 |
 | [MPAC — Enunciados do CSMP, documentos 1 a 6](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 6 | 6 | 0 |
@@ -33,6 +43,7 @@ A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da
 | [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
 | [MPRS — Enunciados CONCIDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
+| [MPMT — Assentos e enunciados do Conselho Superior, pauta compilatória](https://mpmt.mp.br/site/storage/webdisco/arquivos/CSMP/3%C2%AA%20Pauta%20RO%20CSMP%2006-03-2023.pdf) | 20 | 20 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
@@ -831,7 +842,7 @@ Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não clas
 
 ## FONAJE — enunciados cíveis, criminais e da Fazenda Pública
 
-O FONAJE é o emissor dos 328 enunciados incorporados em três séries próprias: 178 cíveis, 133 criminais e 17 da Fazenda Pública. As páginas são hospedadas no CNJ. O mesmo número em áreas diferentes recebe identificador distinto; referências a outras séries ou órgãos não criaram registros.
+O FONAJE é o emissor dos 328 enunciados incorporados em três séries próprias: 178 cíveis, 133 criminais e 17 da Fazenda Pública. As páginas são hospedadas no CNJ. O [FONAJEF](tribunais/FONAJEF/) é outra entidade e permanece em seus registros próprios. O mesmo número em áreas FONAJE diferentes recebe identificador distinto; referências a outras séries ou órgãos não criaram registros.
 
 O HTML jurídico foi capturado duas vezes por página. Os pares cíveis e da Fazenda Pública diferem no HTML externo; seus 178 e 17 blocos, respectivamente, coincidem após normalização. As duas capturas criminais têm bytes iguais e os 133 blocos coincidem. Tamanhos e SHA-256 de cada captura, comparação e normalização estão nos [índices do FONAJE](tribunais/FONAJE/README.md). Não houve PDF nem OCR.
 
@@ -961,7 +972,9 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [FONAJE](tribunais/FONAJE/) | 328 | FONAJE — Enunciados Cíveis, Criminais e da Fazenda Pública hospedados no CNJ |
+| [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
+| [CJF](tribunais/CJF/) | 61 | Consulta de Enunciados — Jornadas de Equidade Racial e Tributário |
+| [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
@@ -978,7 +991,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto no catálogo, com redação histórica de 2017 recuperada |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
-| [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
+| [CNMP](tribunais/CNMP/) | 96 | CNMP — CALJ e 1º/2º Congressos de Defesa da Integridade |
 | [MPF](tribunais/MPF/) | 430 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 5ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
@@ -1089,7 +1102,7 @@ A compilação anterior [SUMULAS_ATUALIZADAS.pdf](https://www.tjba.jus.br/juizad
 
 O caderno não classifica vigência em campo próprio. A ausência de nota de revogação não confirma vigência. As datas de sessão ficam no texto e não foram convertidas em atualização individual. A data de criação do arquivo, 08/06/2026, é do PDF, não dos atos. A composição de magistrados, o calendário de sessões e os telefones da página institucional não foram transformados em precedentes.
 
-Os enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF saíram desta lista: estão na seção seguinte. Permanecem pendentes, sem contagem no lote da Turma de Uniformização e sem contagem no lote destes enunciados: as [recomendações do NUCOF](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/RECOMENDACOES_NUCOF.pdf) e as notas técnicas [01/2021](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_01_NUCOF_2021.pdf), [02/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_02_NUCOF_2024.pdf) e [03/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_03_NUCOF_2024.pdf); o PDF de [precedentes vinculantes do STF, STJ e TST](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/2025/10/precedentes_vinculantes_STF_STJ_TST.pdf); as pautas e atas de sessão; os diários e os processos apenas citados. Os enunciados do FONAJE agora estão em [séries próprias](tribunais/FONAJE/README.md), sem serem convertidos em registros do TJBA. Esses outros documentos não foram lidos nem contados como súmulas desta série. No menu da página consolidada, o rótulo da Turma de Uniformização aponta para `SUMULAS_ATUALIZADAS_TU-1.pdf`; no corpo, o mesmo rótulo aponta para `SUMULAS_ATUALIZADAS_TU.pdf`. Os dois arquivos são idênticos.
+Os enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF saíram desta lista: estão na seção seguinte. Permanecem pendentes, sem contagem no lote da Turma de Uniformização e sem contagem no lote destes enunciados: as [recomendações do NUCOF](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/RECOMENDACOES_NUCOF.pdf) e as notas técnicas [01/2021](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_01_NUCOF_2021.pdf), [02/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_02_NUCOF_2024.pdf) e [03/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_03_NUCOF_2024.pdf); o PDF de [precedentes vinculantes do STF, STJ e TST](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/2025/10/precedentes_vinculantes_STF_STJ_TST.pdf); as pautas e atas de sessão; os diários e os processos apenas citados. Os enunciados do FONAJE foram lidos diretamente nas três páginas do CNJ e estão em séries próprias; não foram contados como registros do TJBA. Os demais documentos não foram lidos nem contados como súmulas desta série. No menu da página consolidada, o rótulo da Turma de Uniformização aponta para `SUMULAS_ATUALIZADAS_TU-1.pdf`; no corpo, o mesmo rótulo aponta para `SUMULAS_ATUALIZADAS_TU.pdf`. Os dois arquivos são idênticos.
 
 ## TJBA — enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF
 
@@ -1903,7 +1916,7 @@ Na base então consultada, `224d898d3d09dcca94b29e3562018b420f11cab8` (37.711 re
 
 ## MPPE — enunciados e súmula do Conselho Superior
 
-Sobre a main `7a180408689713585f4183b271174112940592a7`, com 37.703 registros em 156 órgãos, o lote MPPE acrescenta oito registros e um órgão. O MPPI permanece com 16 registros e sua Súmula 01 sem texto publicado, independente das nove lacunas originais do BNP. As nove lacunas textuais do catálogo do BNP permanecem. O Ministério Público de Pernambuco entra como órgão próprio, distinto do TJPE, do TCEPE, do TATEPE, do MPF, do MPT e do CNMP; os oito documentos deste lote não alteram a contagem do catálogo BNP.
+Na main histórica `7a180408689713585f4183b271174112940592a7` (37.703 registros em 156 órgãos), o lote MPPE somou oito registros e um órgão. Naquela base, o MPPI tinha 16 registros e a Súmula 01 ainda não tinha redação histórica recuperada; a PR 91 acrescentou depois esse texto, sem retirar a suspensão informada pelo catálogo. As nove lacunas textuais do BNP permanecem. O Ministério Público de Pernambuco entra como órgão próprio, distinto do TJPE, do TCEPE, do TATEPE, do MPF, do MPT e do CNMP; os oito documentos daquele lote não alteraram a contagem do catálogo BNP.
 
 O portal de Atos Normativos consultado lista sete enunciados e uma súmula do CSMP. Foram preservados os identificadores `mppe-en-csmp-1` a `mppe-en-csmp-7` e `mppe-sum-csmp-1-2024`. Os seis primeiros enunciados têm fonte documental em DOC; a leitura foi feita nas conversões locais por LibreOffice e conferida nas imagens dessas conversões. A paginação e as quebras das conversões não são garantidas como paginação original. O enunciado 07 é um PDF digitalizado sem camada textual, transcrito visualmente sem OCR; o caractere após 2 e 3 em `§§2O E 3O` permanece incerto entre O e 0, sem conversão para ordinal. A súmula foi lida no bloco do verbete do Diário Oficial Eletrônico de 28/11/2024, página impressa 6, sem incorporar as demais matérias da página. A transcrição não declara vigência atual nem ausência de outros atos ou séries.
 
@@ -1953,8 +1966,72 @@ A edição rotulada 19/02/2026 pelo catálogo corresponde ao PDF oficial do [DOE
 
 A edição [Assentos e Súmula 2025](https://www.mpal.mp.br/wp-content/uploads/2025/05/Assentos-e-Sumula-2025-TI.pdf) tem 255.203 bytes e SHA-256 `9083cdda1fa02809a130068340ca9f634e0ca3531f73397d5b16c726168e5626`; sua página física 2 (impressa 6) contém assentos 001–014/2025 e Súmula 001/2025. As redações coincidem literalmente com as correspondentes da edição 2026, mas essa repetição e a mudança de ano não provam identidade jurídica, renumeração, revisão, revogação nem republicação de cada ato. Apenas os IDs formais de 2026 foram cadastrados; 2025 foi mantida como comparação sem registros duplicados. As oito edições anteriores do catálogo, atos de aprovação, revisão e revogação permanecem pendentes de leitura visual; nenhum texto histórico foi atribuído a 2026. A edição não confirma vigência atual ou efeito vinculante. Normas citadas não receberam IDs. Nomes e funções públicas foram mantidos; identificadores pessoais e códigos de autenticação foram omitidos. Apenas Markdown público; PDFs, capturas, recibos, imagens e scripts privados.
 
-Sobre a main `ed8a2492` (37.747 registros em 158 órgãos), este lote soma 17 registros e um órgão: 37.764 registros em 159 órgãos. MPMS permanece em 26 registros; MPPI permanece em 16, incluindo a Súmula 01 identificada mas sem texto, e as nove lacunas do BNP continuam. As limitações históricas acima permanecem abertas; a cobertura nacional continua parcial.
+Na main `ed8a2492` (37.747 registros em 158 órgãos), este lote somou 17 registros e um órgão: 37.764 registros em 159 órgãos. Naquela base, MPMS estava em 26 registros e MPPI em 16; a Súmula 01 do MPPI ainda não tinha redação histórica recuperada. A PR 91 acrescentou essa redação posteriormente, sem retirar a suspensão informada pelo catálogo. As nove lacunas do BNP continuam; a cobertura nacional é parcial.
 
 ## MPPI — texto histórico da Súmula 01 e aprovação das nºs 01–03
 
 Recuperada a redação da Súmula 01 aprovada em 23/10/2017 no mesmo registro `mppi-sum-csmp-1`, sem retirar a suspensão informada pelo catálogo. As nºs 02 e 03 receberam suas redações do mesmo dispositivo. Discussão, proposta e aprovação das páginas físicas 13–14 estão uma única vez no [índice da série](tribunais/MPPI/sum-csmp/README.md#documento-comum-sumulas-01-03-2017); o título da página 1 confirma data e sessão. Três páginas lidas na imagem, apenas o trecho delimitado das páginas 13–14 publicado; sem OCR. Par de PDF idêntico, tamanho e SHA-256 no índice. A nº 01 deixa de estar sem qualquer enunciado documental, mas a ata de suspensão e a redação posterior continuam pendentes. As nove lacunas originais do BNP e os dois avisos de revogação sem enunciado do MPAL permanecem. Delta zero sobre `0767e9a4`: 37.764 registros em 159 órgãos.
+
+## MPMT — assentos e enunciados do CSMP
+
+A seção 14 da pauta compilatória do CSMP reúne oito assentos e doze enunciados, preservados nas espécies e números impressos, sem criar IDs para normas citadas ou para os arts. 46–49 do Regimento Interno, usados apenas como contexto. Foram lidas visualmente a página física 1 para identificação/data e as páginas 4–8 para os vinte textos, inclusive os que atravessam páginas. O título “Assentos e Enunciados em vigor” é o rótulo da edição consultada e não confirma vigência atual nem efeito vinculante.
+
+A capa registra “06/março/2022 (segunda-feira)”, enquanto a identificação da pauta/arquivo registra 06/03/2023. Mantemos as duas referências sem arbitrar qual data é correta. O resultado indexado da Resenha 07/2025 menciona ratificação em bloco sem individualizar números ou redações; o endpoint consultado do DOE respondeu HTTP 500 nas duas capturas. Essa pista não estabelece status, ratificação individual ou completude. No levantamento limitado documentado para o lote, não foi obtida fonte posterior que discrimine números e textos; isso não permite concluir que outros atos ou séries não existam.
+
+Este lote soma 20 IDs e um órgão à main `983bf0cf` (37.764 registros em 159 órgãos), totalizando 37.784 registros únicos em 160 órgãos. MPMS permanece com 26 registros; MPPI inclui agora texto histórico para a Súmula 01, mantendo a suspensão informada pelo catálogo; MPAL 004 e 008 continuam apenas como avisos sem redação; as nove lacunas do catálogo inicial do BNP permanecem. A cobertura nacional continua parcial.
+
+## MPPI — consulta e conversão em Súmula 09
+
+Incorporado ao [registro existente da Súmula 09](tribunais/MPPI/sum-csmp/mppi-sum-csmp-9.md#consulta-e-deliberação-em-17092021) o item 2.4.1 da ata de 17/09/2021, páginas físicas 1–6. Relatório, voto e deliberação conferidos nas seis imagens e na camada textual, sem OCR. Os números em branco dos enunciados de 2019/2021 foram preservados; o número 09 é atribuído pelo catálogo que vincula esta ata. A redação proposta na página 4 coincide em caixa alta com o texto do catálogo, preservado na ficha. Não foram incorporadas a abertura da sessão, os processos seguintes nem as outras 56 páginas. Pares de PDF, tamanho e SHA-256 conferidos. Delta zero sobre `591e1193`: 37.784 registros em 160 órgãos. As nove lacunas originais do BNP e os avisos do MPAL sem enunciado permanecem; a Súmula 01 do MPPI mantém texto histórico e suspensão atribuída ao catálogo.
+
+
+## MPPI — proposta e aprovação da Súmula 10/2021
+
+A ata ODT da 1347ª sessão, de 01/10/2021, recebeu leitura visual das páginas locais 1 e 89–91 da conversão de 91 páginas. O item 4.1, com proposta e aprovação da Súmula 10/2021, está no registro da Súmula 10; o esclarecimento sobre a conversão do enunciado da sessão anterior está na Súmula 09. A paginação é local, sem OCR, e as demais passagens permanecem pendentes. Nenhum identificador novo foi criado. O par oficial de ODT coincide em tamanho e SHA-256, registrados nas fichas. O conteúdo do catálogo permanece intacto; não se inferiu vigência ou efeito vinculante. Delta zero sobre `dbfbf97a`: 37.784 registros em 160 órgãos. As nove lacunas originais do BNP e os dois avisos sem enunciado do MPAL permanecem.
+
+
+### FONAJEF — conferência dos riscos e conciliação
+
+Comparação independente dos 226 corpos com os 12 HTMLs confirmou o texto, considerando as quebras `<br>`. Restaurados os riscos da fonte em 16 registros; na nº 111, o “T” inicial permanece fora do risco, como no HTML. As notas sem risco foram mantidas. A main `89ee09ac` foi integrada, preservando a proposta e aprovação da Súmula 10 do MPPI. O delta permanece 226 registros e um órgão: 38.010 registros em 161 órgãos. A contagem global pesada não foi declarada concluída nesta revisão; os 226 IDs e corpos foram conferidos de forma direcionada.
+
+
+## CNMP — enunciados do 2º Congresso de Defesa da Integridade
+
+Incorporados os 14 enunciados numerados 1–14 do caderno “ENUNCIADOS APROVADOS”, em série própria `en-congresso-integridade-2025`, com atribuição ao congresso promovido pela CDPA/CNMP. Não são atos do Plenário da série CALJ. Quatro páginas lidas visualmente; a camada extraível perde acentos, preservados a partir das imagens. Pares oficiais HTTP 200 idênticos; tamanho e SHA-256 nas fichas. Sem OCR. Cabeçalhos gráficos, justificação e estilos normalizados; referências jurídicas literais, sem atualização ou inferência de vigência ou vinculação. As propostas rejeitadas e os anais do 1º Congresso não entraram neste lote.
+
+Delta sobre a main `53a6208f`: 14 registros e nenhum órgão; 38.024 registros em 161 órgãos, CNMP 46 (22 enunciados CALJ, 10 súmulas e 14 enunciados de congresso). As nove lacunas iniciais do BNP e os dois avisos sem enunciado do MPAL permanecem. Capturas e derivados privados, somente Markdown público; cobertura nacional parcial.
+
+
+## FONAJEF — recomendações da AJUFE
+
+Incorporadas 45 recomendações numeradas 1–45 da listagem oficial, em série própria `rec`, separada dos 226 enunciados. Três páginas de catálogo em pares HTTP 200 (offsets 0, 20 e 40), texto jurídico e encontro iguais entre os pares. Os hashes brutos diferem por conteúdo da página; tamanhos e SHA-256 constam das fichas. Todos os 45 corpos foram lidos e comparados com os HTMLs; a sequência foi identificada pelo número, pois a ordem da paginação não é numérica. A nº 43 preserva os onze princípios. Citações, propostas legislativas e órgãos referidos não criaram registros. Sem PDF/OCR: o compilatório ligado e outras séries/edições permanecem pendentes. Não se infere vigência, vinculação ou completude.
+
+Delta sobre a main `4678f44e`: 45 registros, nenhum órgão. Total 38.069 registros em 161 órgãos; FONAJEF 271 (226 enunciados e 45 recomendações). CNMP permanece em 46; as nove lacunas iniciais do BNP e os dois avisos sem texto do MPAL continuam. Evidências privadas e somente Markdown público.
+
+
+## CNMP — enunciados do 1º Congresso de Defesa da Integridade
+
+Incorporados os 50 enunciados sem número impresso das páginas físicas 184–190 (impressas 182–188) dos anais do congresso de 2024. As sete páginas foram lidas visualmente com apoio da camada textual. Cada registro usa página/posição como localização editorial, explicitamente sem atribuir número oficial. Reunidas quatro continuidades entre páginas, mantendo um registro por texto completo. As páginas físicas 8, 9 e 13 foram lidas apenas para contexto da edição/plenária. O PDF tem 191 páginas e duas capturas HTTP 200 idênticas, tamanho e SHA-256 nas fichas; não se declara leitura integral. Sem OCR. Preservadas referências e grafias divergentes, sem atualização jurídica, vigência ou vinculação inferidas. Boas práticas, artigos e resumos não viraram registros.
+
+Delta sobre a main `37fca3fe`: 50 registros e nenhum órgão; 38.119 registros em 161 órgãos, CNMP 96 (32 CALJ, 14 do 2º Congresso e 50 do 1º Congresso). FONAJEF permanece em 271. As nove lacunas originais do BNP e os dois avisos do MPAL sem enunciado permanecem. Os anais do 2º Congresso publicados em 2026 foram capturados para conferência futura de variantes, sem texto incorporado neste lote. Somente Markdown público; capturas e derivados privados.
+
+
+## CNMP — variantes dos anais do 2º Congresso (edição 2026)
+
+Conferidos os 14 textos das páginas físicas/impressas 119–120 com o caderno de 2025. Lidas também as páginas físicas 4 (ficha catalográfica), 118 (abertura da seção) e 121 (em branco). Os anais não numeram os textos; a associação às mesmas 14 identidades usa ordem, conteúdo e congresso. Variantes das nºs 6, 7, 8, 10, 13 e 14 preservadas sem substituir o caderno. As outras oito redações coincidem após normalização de quebras, hífens de divisão silábica e estilos. Pares oficiais de PDF idênticos; tamanho e SHA-256 nas fichas. O volume tem 122 páginas físicas, enquanto a ficha catalográfica o descreve como “118 p.”. Não se afirma leitura integral, atualização normativa ou vigência. Sem OCR.
+
+Delta zero sobre `52b38c2d`: 38.119 registros em 161 órgãos; CNMP 96. Demais páginas/artigos/boas práticas permanecem fora do lote, assim como as lacunas textuais anteriores. Somente Markdown público; capturas e derivados privados.
+
+
+## CJF — I Jornada da Justiça Federal pela Equidade Racial
+
+Incorporados os 49 enunciados e suas justificativas em série própria `en-equidade-racial`, números 1–49. A pesquisa pública por `jornada.id=521` e as 49 fichas individuais foram capturadas em pares HTTP 200; números, enunciados, justificativas e metadados coincidem em cada par. HTML bruto varia em hash, com tamanho e SHA-256 nas fichas. Foram lidos os 49 corpos e as 49 justificativas, com espaços e quebras normalizados; referências, grafias, notas e URLs literais preservadas. O campo revogado está vazio e não foi tratado como vigência. Sem data de aprovação inferida, sem efeito vinculante ou exaustividade afirmados. Sem PDF/OCR. Não se duplicam espelhos em outros órgãos.
+
+Delta sobre a main `fbdcc4db`: 49 registros e um órgão, totalizando 38.168 registros em 162 órgãos. CNMP 96 e FONAJEF 271 permanecem; as nove lacunas originais do BNP e os dois avisos do MPAL sem enunciado continuam. O PR 99 do MPRN está separado e não entra nesta contagem. As demais jornadas, publicações em PDF e atos apenas citados permanecem pendentes. Capturas e scripts privados; somente Markdown público.
+
+
+## CJF — I Jornada de Direito Tributário
+
+Incorporados os 12 enunciados numerados 1–12 da pesquisa `jornada.id=241`, com as doze fichas individuais capturadas em pares HTTP 200. Textos e metadados coincidem nos pares e com a listagem; todos os corpos foram lidos. Referências legislativas, comissões, coordenação e palavras de resgate foram mantidos em campos próprios. As fichas não exibem justificativa. O campo revogado está vazio e isso não confirma vigência. Não se atribui nome ou titularidade atual ao cargo genérico de Coordenador-Geral publicado na fonte. Sem atualização legislativa, vinculação ou completude inferidas. Sem PDF/OCR; PDFs, atas e outras jornadas continuam pendentes.
+
+Delta sobre `aab75242`: 12 registros e nenhum órgão; 38.180 registros em 162 órgãos, CJF 61 (49 de Equidade Racial e 12 de Tributário). PRs 99/MPRN e 101/MPAL históricos seguem separados e fora desta conta. As nove lacunas originais do BNP e os avisos MPAL sem enunciado permanecem. Capturas e scripts privados, apenas Markdown público.

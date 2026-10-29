@@ -2,6 +2,8 @@
 
 **328 registros.** O FONAJE é o emissor. O CNJ hospeda as páginas e não é identificado como autor dos enunciados.
 
+O FONAJE não se confunde com o FONAJEF, cuja série e recomendações permanecem em [seu índice próprio](../FONAJEF/).
+
 As três áreas ficam em séries próprias. O mesmo número em área diferente possui identificador distinto.
 
 | Série | Registros |

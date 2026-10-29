@@ -9,7 +9,7 @@ O catálogo do Conselho Superior publica suas séries de súmulas e enunciados e
 | [Súmulas do Conselho Superior](sum-csmp/) | 12 |
 | [Enunciados do Conselho Superior](en-csmp/) | 4 |
 
-O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. O item 3.2 da ata de 30/04/2021 (páginas 3–9), o item 5.2 da ata de 01/08/2025 e o item 3.3.27 da ata de 06/12/2019 foram incorporados. Da ata da 1370ª sessão, foram transcritas as páginas físicas 28–30, seção 3, no registro existente da Súmula 11; as demais passagens das atas e atos deliberativos vinculados permanecem pendentes.
+O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. O item 3.2 da ata de 30/04/2021 (páginas 3–9), o item 5.2 da ata de 01/08/2025, o item 3.3.27 da ata de 06/12/2019 e o item 2.4.1 da ata de 17/09/2021 foram incorporados. Da ata da 1370ª sessão, foram transcritas as páginas físicas 28–30, seção 3, no registro existente da Súmula 11; as demais passagens das atas e atos deliberativos vinculados permanecem pendentes.
 
 ## Capturas e consistência
 
@@ -79,3 +79,12 @@ O [documento comum da série](sum-csmp/README.md#documento-comum-sumulas-04-08) 
 ## Texto histórico da Súmula 01 e aprovação das nºs 01–03
 
 A ata de 23/10/2017, páginas físicas 13–14, registra a discussão e aprovação expressa das súmulas 01, 02 e 03. O [documento comum](sum-csmp/README.md#documento-comum-sumulas-01-03-2017) reproduz esse trecho uma vez; as três fichas receberam cada uma sua redação aprovada. A página 1 confirma a data da sessão. A nº 01 passa a ter texto histórico, conservando a suspensão indicada no catálogo. A ata da 1272ª sessão e o texto aplicável após 2017 continuam pendentes; não foi inferida vigência. O PDF vinculado à nº 03 tem 17 páginas e foi capturado duas vezes com bytes idênticos; metadados no índice da série. Não houve OCR nem registro novo.
+
+## Consulta que originou a Súmula 09
+
+O [registro da Súmula 09](sum-csmp/mppi-sum-csmp-9.md#consulta-e-deliberação-em-17092021) traz o item 2.4.1 completo da ata de 17/09/2021, páginas físicas 1–6: relatório, voto e aprovação do enunciado a ser convertido em súmula. As seis imagens foram conferidas com a camada textual. O catálogo identifica o número 09; na ata os números dos enunciados de 2019 e 2021 ficam em branco, sem preenchimento na transcrição. O texto anterior do catálogo e o registro separado do enunciado de 2019 foram preservados. O PDF de 62 páginas tem capturas pareadas idênticas; as outras 56 páginas não foram incorporadas, e não houve OCR nem registro novo.
+
+
+## Ata de 01/10/2021: Súmulas 09 e 10
+
+A ata ODT da 1347ª sessão, de 01/10/2021, recebeu leitura visual das páginas locais 1 e 89–91 da conversão de 91 páginas. O item 4.1, com proposta e aprovação da Súmula 10/2021, está no registro da Súmula 10; o esclarecimento sobre a conversão do enunciado da sessão anterior está na Súmula 09. A paginação é local, sem OCR, e as demais passagens permanecem pendentes. Nenhum identificador novo foi criado.
