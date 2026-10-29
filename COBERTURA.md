@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.909 registros únicos de 124 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.923 registros únicos de 124 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TJSE — Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) | 14 | 14 | 0 |
 | [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
 | [PGE/RJ — Enunciados próprios](https://pge.rj.gov.br/enunciados) | 55 | 55 | 0 |
 | [Rede-SIDH — Enunciados publicados pela PGE/RJ](https://pge.rj.gov.br/enunciados) | 10 | 10 | 0 |
@@ -819,7 +820,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRR](tribunais/TJRR/) | 51 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 299 | 91 | 91 |
 | [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
-| [TJSE](tribunais/TJSE/) | 22 | 22 | 22 |
+| [TJSE](tribunais/TJSE/) | 36 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
 | [TRT01](tribunais/TRT01/) | 153 | 76 | 76 |
 | [TRT02](tribunais/TRT02/) | 235 | 69 | 69 |
@@ -979,7 +980,21 @@ A página da Turma de Uniformização do TJTO devolveu o aviso oficial “Site e
 
 O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorporada do TJGO é o repositório oficial TJDocs, consultado sem autenticação apenas nos documentos públicos da pasta de súmulas.
 
-O catálogo próprio de súmulas do TJSE permanece pendente. As consultas diretas ao portal principal e ao endereço institucional ejusepos excederam 45 segundos; o coletor nativo encerrou com “scrape deadline or invalid input”. A tentativa pelo navegador integrado também excedeu o prazo de navegação, sem captura válida do catálogo. Essas falhas não foram tratadas como ausência de súmulas e não afetam os registros do TJSE já obtidos no BNP.
+## TJSE — súmulas do catálogo oficial
+
+Em 29/10/2026, a página [Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) publicou 14 verbetes, números 1 a 14, sem lacuna. Duas leituras da lista coincidem nos títulos, nos endereços e nas notas. As páginas HTML completas divergem só no parâmetro de versão da folha de estilo. Uma terceira leitura da página, no mesmo dia, repetiu os 14 vínculos. O carimbo “Última modificação em Quinta, 11 Julho 2024 07:00” é da página, não a data de cada ato.
+
+Os vínculos das nºs 2, 11 e 12 estão riscados. As notas, fora do risco, dizem que a nº 2 foi revogada na sessão do Tribunal Pleno de 12/07/2023, a nº 11 na de 14/06/2017 e a nº 12 na de 10/07/2024. Os demais vínculos não trazem nota. Essa ausência não confirma vigência.
+
+Cada número aponta para um PDF de uma página. Os 14 pares de captura têm os mesmos bytes e o mesmo SHA-256, e a origem, relida no mesmo dia, devolveu os mesmos arquivos. A camada de texto de cada página foi extraída e conferida visualmente. Quebras de linha do corpo foram reunidas; as letras espaçadas dos títulos foram reunidas. Grafias foram mantidas, inclusive “Eletrônico,nos” e “Art. 223” na nº 2, “conseqüências” na nº 1, “aprovou” com sujeito no plural nas nºs 13 e 14, “afronta” na nº 9 e “implica em” na nº 10.
+
+O PDF da nº 2 assina 23/04/2009; o catálogo diz 24/04/2009; a sessão impressa é 12/12/2007. O risco gráfico cobre o cabeçalho, a aprovação, o rótulo e o enunciado, e não cobre a data, a signatária nem a nota vermelha. O PDF da nº 11 também risca a aprovação, o rótulo e o enunciado e imprime a nota de 14/06/2017. O PDF da nº 12 não risca o texto e não imprime a revogação de 10/07/2024, que permanece só no catálogo.
+
+A nº 8 tem endereço `sumula-008-IUJ-001-2013.pdf` e título interno “Súmula 08 - IUJ-005-2012”. A nº 9 tem endereço `sumula-009-IUJ-006-2013.pdf` e título interno “Súmula 09 - IUJ-006-2012”. As duas identificações ficam no registro. Datas de sessão e de assinatura que não coincidem com o catálogo também ficam nos respectivos campos.
+
+Os quatro processos da nº 1, o incidente citado na nº 3, os artigos do CPC na nº 6, o RE 705.140/RS, o incidente n. 201600604855 e o processo paradigma nº 201400616323 da nº 14 permanecem no texto e não geram registros. Os diários citados não foram incorporados.
+
+Os identificadores novos são `tjse-sum-1` a `tjse-sum-14`. Nenhum existia. Os 22 registros anteriores do TJSE permanecem: 1 incidente de assunção de competência, 18 incidentes de resolução de demandas repetitivas e 3 notas técnicas. A falha histórica de acesso ao catálogo, em consulta anterior, não foi tratada como ausência de súmulas e não altera esses 22 registros. Estas 14 súmulas não esgotam outras séries do tribunal nem comprovam ato posterior à página consultada.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.
 
