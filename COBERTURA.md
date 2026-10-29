@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.282 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.287 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
 | [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
@@ -929,7 +930,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | --- | ---: | --- |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 27 | MPRS — 21 súmulas CSMP e 6 enunciados CONPPIJE/CONPPIJEFAM |
+| [MPRS](tribunais/MPRS/) | 32 | MPRS — 21 súmulas CSMP e 11 enunciados CONPPIJE/CONPPIJEFAM, CONEVCM e CONDEPP |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1697,3 +1698,11 @@ Nos pares 15522, 18124 e 18421, o contêiner jurídico coincide integralmente. A
 Foram mantidas as grafias “TRATANDOSE”, “INFATOJUVENIL”, “garantia do perdurar a situação de vulnerabilidade” e a sequência irregular de palavras do texto de 2026. Nenhuma vigência atual ou vinculação foi inferida. O PDF ligado ao ato de 2007 foi capturado separadamente e continua sem leitura neste lote, sem contagem de seus possíveis enunciados. Outros documentos, diários e atos apenas citados seguem pendentes. Não houve PDF nem OCR neste lote HTML. Espaços, quebras e ênfases normalizados; sem CPF, RG, matrícula pessoal ou bloco de autenticação incorporado, com nomes e funções públicos preservados.
 
 Sobre a main `30923897` (37.276 registros em 150 órgãos), são seis registros novos sem órgão novo: 37.282 registros em 150 órgãos, MPRS 27. Os PRs 67, 68, 69 e 70 estão fora dessa base enquanto abertos. As nove lacunas iniciais do BNP permanecem. Só Markdown público; capturas e scripts privados; cobertura nacional parcial.
+
+## MPRS — CONEVCM e CONDEPP
+
+As Resoluções 6/2026 (ficha 18656) e 07/2007 (3686), vinculadas pelo catálogo oficial, foram lidas integralmente no HTML em duas capturas de cada, com contêiner jurídico completo idêntico. A primeira publica enunciados CONEVCM nºs 01/2026 e 02/2026 sobre o instrumento de avaliação de violência psicológica e prova; a segunda, CONDEPP nºs 1–3 sobre atuação preventiva e organização da defesa do patrimônio público. Os cinco textos ficam em séries próprias, sem fundir CONDEPP e CONCIDEPP por semelhança do nome nem misturar CONEVCM com enunciados de infância. Os atos completos ficam uma única vez em cada índice, sem ID de resolução.
+
+As grafias, as funções, as aspas e as referências impressas permanecem. A indicação genérica CNPJ/CPFs no texto de 2007 não é um identificador pessoal preenchido. Não há CPF, RG, matrícula pessoal ou bloco de autenticação incorporado. O resguardo à independência funcional foi mantido; ausência de nota de revogação e data do ato não confirmam vigência atual ou vinculação. Não houve PDF nem OCR. Diários, atos, instrumentos e processos apenas citados continuam pendentes.
+
+O PR reúne onze registros novos: seis CONPPIJE/CONPPIJEFAM, dois CONEVCM e três CONDEPP. Sobre a main `30923897` (37.276 registros em 150 órgãos), soma onze sem órgão novo: 37.287 registros em 150 órgãos, MPRS 32. As 21 súmulas CSMP permanecem. Os demais PRs abertos estão fora dessa base; as nove lacunas iniciais do BNP continuam. Apenas Markdown público, evidências privadas; cobertura nacional parcial.
