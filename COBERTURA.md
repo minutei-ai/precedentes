@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.426 registros únicos de 152 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.515 registros únicos de 152 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
 | [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
 | [MPMA — Resoluções 15/2022 e 16/2023 do Conselho Superior: enunciados 01–23/22 e 24/23](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
@@ -938,7 +939,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 55 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos e 3 orientações CONDECON |
+| [MPRS](tribunais/MPRS/) | 144 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos e 3 proposições CONMAM |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1739,7 +1740,7 @@ As Resoluções 6/2026 (ficha 18656) e 07/2007 (3686), vinculadas pelo catálogo
 
 As grafias, as funções, as aspas e as referências impressas permanecem. A indicação genérica CNPJ/CPFs no texto de 2007 não é um identificador pessoal preenchido. Não há CPF, RG, matrícula pessoal ou bloco de autenticação incorporado. O resguardo à independência funcional foi mantido; ausência de nota de revogação e data do ato não confirmam vigência atual ou vinculação. Não houve PDF nem OCR. Diários, atos, instrumentos e processos apenas citados continuam pendentes.
 
-O PR reúne onze registros novos: seis CONPPIJE/CONPPIJEFAM, dois CONEVCM e três CONDEPP. Sobre a main `150a31fe` (37.415 registros em 152 órgãos), soma onze sem órgão novo: 37.426 registros em 152 órgãos, MPRS 55. Os 44 registros do MPRS já publicados e os 68 do MPMG e 48 do MPMA permanecem. Os PRs 68, 70 e 73 seguem fora dessa base enquanto abertos; as nove lacunas iniciais do BNP continuam. Apenas Markdown público, evidências privadas; cobertura nacional parcial.
+O PR reúne onze registros novos: seis CONPPIJE/CONPPIJEFAM, dois CONEVCM e três CONDEPP. Sobre a main `c93366dd` (37.504 registros em 152 órgãos), soma onze sem órgão novo: 37.515 registros em 152 órgãos, MPRS 144. Os 133 registros MPRS da base incluem o lote de 23 do PR 67 e os 89 do PR 70; os 68 do MPMG e 48 do MPMA também permanecem. Os PRs 68 e 73 continuam abertos e fora dessa base; as nove lacunas iniciais do BNP continuam. Apenas Markdown público, evidências privadas; cobertura nacional parcial.
 ## MPMA — enunciados do Conselho Superior
 
 O MPMA é órgão estadual próprio, distinto do TJMA, do MPF, do MPT, do MPM e dos demais Ministérios Públicos. O [catálogo oficial](https://www.mpma.mp.br/enunciados-conselho-superior/) tem duas páginas e 26 entradas: duas resoluções e 24 enunciados em numeração histórica. As páginas 1 e 2 tiveram duas capturas HTTP 200 de 29/10/2026 cada: 142.564 e 130.263 bytes, sem diferença de conteúdo além de uma linha técnica de contagem de objetos do servidor. As 26 entradas foram lidas e conciliadas pelo título, sem lacuna na lista;
@@ -1761,3 +1762,23 @@ O caderno foi obtido no domínio oficial, mas a página atual do CSMP não o vin
 Há notas posteriores dos avisos de 05/08/2025 e de 05/11/2025, atribuídas à leitura textual oficial pelo leitor web. Os PDFs diretos retornaram HTTP 403 nas tentativas de captura local; não foram publicados como transcrição integral, nem receberam SHA-256 inventado. A captura e a conferência visual dos avisos continuam pendentes. O aviso de 2024 sobre 18, 21, 42 e 32 também não foi capturado; o documento de deliberações já lido fornece complemento próprio. Ausência de nota não confirma vigência atual ou efeito vinculante.
 
 Notas de aprovação, reforma, republicações e grafias preservadas; sem criação de IDs a normas, processos e precedentes apenas citados. Nenhum CPF, RG, matrícula pessoal ou bloco de autenticação incorporado. Nomes e funções públicos ficam no documento comum. Sobre a main `807e960f`, com 37.347 registros em 151 órgãos, este lote soma 68 registros e um órgão: 37.415 registros em 152 órgãos. Permanecem MPRJ 83, MPDFT 129, MPRS 44 e MPMA 48. As nove lacunas iniciais do BNP continuam. Outras séries, redações históricas e atos posteriores permanecem pendentes. A URL oficial da edição de 06/12/2023 ainda aparece em resultado indexado, mas as duas tentativas de captura direta em 29/10/2026 responderam HTTP 404, assim como a abertura pelo leitor web. Esse limite de acesso restringe a cobertura e não prova que os textos não existam. O resultado indexado não foi usado para reconstruir os corpos ausentes. Somente Markdown público; capturas, PDFs, imagens e scripts privados. Cobertura nacional parcial.
+
+## MPRS — CONURB, CONMAM nº 9 e urbano-ambientais
+
+Sete atos oficiais do catálogo de resoluções foram capturados duas vezes e lidos integralmente no HTML: fichas 3724 (02/2008), 5174 (04/2010), 5232 (05/2010), 5377 (09/2010), 12851 (02/2018), 15502 (02/2022) e 4032 (08/2008). Os contêineres jurídicos são idênticos em cada par. O lote incorpora oito enunciados CONURB, sendo nºs 1–7 e um sem número identificado pela Resolução 02/2022; dois enunciados urbano-ambientais do Anexo II da Resolução 08/2008; e a redação alterada do CONMAM nº 9, publicada expressamente no art. 1º da Resolução 02/2018. Os nºs 10 do CONURB e 63 do CONMAM, neste primeiro recorte, apareciam só na revogação; os corpos foram recuperados nos atos de 2016 e estão no complemento.
+
+Os nºs 1 e 2 do CONURB aprovados em janeiro de 2008 têm redações diferentes dos nºs 1 e 2 urbano-ambientais de dezembro, mantidos em séries próprias com o emissor que cada ato imprime. A Resolução 02/2018 referenda a revogação dos nºs 3, 7 e 10 do CONURB e do nº 63 do CONMAM; os corpos recuperados 3 e 7 continuam como histórico, sem criar risco ausente no HTML. O fecho de 09/08/2018 e DEMP indicado em 13/08/2019 ficam como impressos. “autuação” e o cargo “Procuradora-Geral” da ficha 4032 foram preservados. Não se inferiu vigência atual nem efeito vinculante.
+
+O documento comum publica integralmente seis atos e o ato principal com Anexo II da 08/2008. O Anexo I de roteiros foi lido, mas não incorporado nem contado. Nenhum acesso a intranet foi feito; links nela apenas citados não foram abertos. As resoluções não ganharam IDs separados. Espaços, quebras e ênfases normalizados, sem PDF nem OCR. Leis, programas, processos, diários e enunciados apenas citados continuam pendentes. Não há CPF, RG, matrícula pessoal ou bloco de autenticação incorporado; nomes e funções públicos mantidos.
+
+Esse primeiro recorte reúne onze registros, sem órgão novo. A conta do PR, com o complemento e com as séries já integradas, está no fecho. As nove lacunas iniciais do BNP permanecem.
+
+## MPRS — complemento histórico ambiental e proposições
+
+Dez atos adicionais do catálogo foram lidos integralmente no HTML oficial em duas capturas cada, com contêiner jurídico idêntico: fichas 5689 (03/2011), 9133 (03/2015), 10416 (02/2016), 11224 (07/2016), 15504 (04/2022), 15664 (08/2022), 18197 (4/2025), 18511 (3/2026), 18542 (4/2026) e 18657 (7/2026). A segmentação identificou 79 textos: 72 enunciados CONMAM, quatro CONURB e três proposições CONMAM. O nº 9 CONMAM já tinha identidade no lote inicial; a redação de 2011 entrou como histórico na mesma identidade alterada expressamente em 2018. Assim, são 78 registros novos neste complemento, sem órgão novo.
+
+O lote completo passa a 89 registros: CONMAM 72 (9–50, 52–80 e 4-B), CONURB 12 (1–11 e um sem número), urbano-ambientais 2 e proposições CONMAM 3 (1, 4 e 5). As lacunas não foram completadas nem tratadas como inexistência. A proposição manteve sua espécie. O texto CONURB nº 10, antes apenas citado, foi recuperado na Resolução 07/2016, com a revogação da 02/2018 atribuída. O CONMAM nº 63 também foi recuperado no ato de 2016 e mantém a revogação de 2018. O nº 51 e os nºs 1–8 CONMAM continuam sem texto nas fontes lidas.
+
+A Resolução 3/2026 referenda a revogação dos nºs 13, 14, 52 e 54, mantendo seus corpos históricos. A 4/2026 menciona dois novos enunciados no considerando e publica somente o nº 4-B; não se criou outro. CONMAM, CONMAN e CONMA, assim como CAOMA e CAOURB, ficam atribuídos aos atos. “pecos”, “captação uso”, “econômico-finaceira”, aspas e sinais irregulares foram preservados. Títulos temáticos entre verbetes ficam no documento comum, sem passar ao corpo do anterior. Os dez atos completos foram acrescentados ao mesmo README, sem arquivos de apoio contados como registros. São dezessete atos lidos no total; não houve PDF nem OCR. Não se inferiu vigência atual ou vinculação.
+
+Com as 21 súmulas do CSMP e as séries já na main — onze CONCIDEPP, quatro CONCRIM, dois CONDIH, três enunciados e três orientações CONDECON —, o MPRS passa de 44 para 133 registros. Sobre a main `150a31fe`, com 37.415 registros em 152 órgãos, o lote soma 89 sem órgão novo: 37.504 registros em 152 órgãos. Os PRs 69 e 71 já compõem essa main. Os PRs 68, 72 e 73 continuam fora enquanto abertos. As nove lacunas iniciais do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. Nenhum CPF, RG, matrícula pessoal ou bloco de autenticação incorporado; referências a matrícula imobiliária permanecem como termos jurídicos. Diários, normas e outros atos apenas citados continuam pendentes. Apenas Markdown público, capturas e scripts privados, cobertura nacional parcial.

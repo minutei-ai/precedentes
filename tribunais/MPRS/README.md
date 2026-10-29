@@ -1,8 +1,8 @@
 # MPRS
 
-Ministério Público do Estado do Rio Grande do Sul. **55 registros.**
+Ministério Público do Estado do Rio Grande do Sul. **144 registros.**
 
-Súmulas do Conselho Superior, enunciados CONCIDEPP, CONCRIM, CONDIH, CONDECON, CONPPIJE/CONPPIJEFAM, CONEVCM e CONDEPP e orientações CONDECON em séries próprias. O MPRS é distinto do TJRS, do TCERS, do TARFRS, da PGERS e do MPF; a cobertura permanece parcial.
+Súmulas do Conselho Superior, enunciados CONCIDEPP, CONCRIM, CONDIH, CONDECON, CONURB, CONMAM, CONPPIJE/CONPPIJEFAM, CONEVCM e CONDEPP, enunciados urbano-ambientais, orientações CONDECON e proposições CONMAM em séries próprias. O MPRS é distinto do TJRS, do TCERS, do TARFRS, da PGERS e do MPF; o catálogo não esgota outras séries ou o histórico do órgão.
 
 | Espécie | Registros |
 | --- | ---: |
@@ -16,6 +16,10 @@ Súmulas do Conselho Superior, enunciados CONCIDEPP, CONCRIM, CONDIH, CONDECON, 
 | [Enunciados CONDIH](en-condih/) | 2 |
 | [Enunciados CONDECON](en-condecon/) | 3 |
 | [Orientações CONDECON](or-condecon/) | 3 |
+| [Enunciados CONURB](en-conurb/) | 12 |
+| [Enunciados urbano-ambientais](en-urbano-ambiental/) | 2 |
+| [Enunciados CONMAM](en-conmam/) | 72 |
+| [Proposições CONMAM](prop-conmam/) | 3 |
 
 ## Enunciados CONCIDEPP
 
