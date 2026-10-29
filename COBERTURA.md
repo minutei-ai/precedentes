@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.178 registros únicos de 131 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.195 registros únicos de 132 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [ANEEL — Súmulas](https://www.gov.br/aneel/pt-br/centrais-de-conteudos/sumulas) | 17 | 17 | 0 |
 | [PGE/AP — Súmulas Administrativas](https://pge.portal.ap.gov.br/conteudo/legislacao/sumulas) | 18 | 18 | 0 |
 | [PGE/AL — Súmulas Administrativas](https://pge.al.gov.br/documentos/category/36-sumulas) | 43 | 43 | 0 |
 | [PROCON/PB — Súmulas da Câmara Recursal](https://procon.pb.gov.br/camararecursal/sumulas) | 4 | 4 | 0 |
@@ -890,6 +891,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [ANEEL](tribunais/ANEEL/) | 17 | ANEEL — Assuntos e notas do catálogo de súmulas |
 | [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
 | [REDE_SIDH](tribunais/REDE_SIDH/) | 10 | Rede-SIDH — bloco coletivo publicado pela PGE/RJ |
 | [TARFRS](tribunais/TARFRS/) | 19 | TARF/RS — Súmulas do Tribunal Administrativo de Recursos Fiscais |
@@ -946,7 +948,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1193,3 +1195,13 @@ Em 29/10/2026, duas consultas ao BNP/Pangea para os IRDR do TJAM devolveram os m
 Os oito registros informam situação principal “Não admitido” e alerta “não admitido”, mas seu item histórico informa “Admitido”, admissão em 2025-12-17, julgamento e publicação em 2026-05-29, e criação do item em 2026-06-10T00:00:00.000-03:00. Essa divergência não foi conciliada por suposição, nem as datas foram usadas para escolher uma situação jurídica atual. As suspensões são apresentadas como dados do cadastro, sem confirmação dos atos judiciais. Sete registros apontam para o mesmo processo 00017771720198043801; o 7010 não trouxe paradigma. A repetição não levou à fusão ou exclusão de identificadores.
 
 O registro IRDR 34 do TJRJ foi relido duas vezes na página 4 da consulta institucional. Os mesmos campos textuais continuam vazios e a referência de processo também está vazia. O total 56 informado pela resposta não significa revisão das outras páginas neste lote. As capturas e os recibos permanecem privados. Não houve recuperação de matéria jurídica nem novo registro: as nove lacunas continuam e o total segue em 36.160 registros de 130 órgãos sobre a main 150d8677.
+
+## ANEEL — catálogo de súmulas
+
+O catálogo oficial de Súmulas da Agência Nacional de Energia Elétrica publica 17 números, 001/2006-ANEEL a 017/2015-ANEEL, sem lacuna numérica. Duas capturas HTTP 200 em 29/10/2026 repetem os 17 números, assuntos, notas do indexador e vínculos de portarias. Foram incorporados os assuntos literais, com normalização apenas de espaços e quebras de linha. ANEEL é órgão administrativo próprio; este catálogo não integra o BNP judicial.
+
+As notas do indexador registram alterações nas nºs 005/2007 (Portaria 1.250/2009, antes 640/2007), 006/2007 (2.168/2012, antes 679/2007), 008/2008 (1.458/2010, antes 1.048/2008) e 009/2009 (1.351/2009, antes 1.226/2009). As identidades mantêm o ano da súmula. As redações anteriores não foram reconstruídas. Foram preservados “a cobrança” na nº 11, a abertura com aspa reta e fecho curvo da nº 13, “posterior a solicitação” na nº 14 e “prejuízos a Administração” na nº 17.
+
+A página informa publicação em 27/01/2022 e modificação em 02/03/2026. Essas datas não foram atribuídas aos atos. A descrição da própria página apresenta as súmulas como diretrizes que auxiliam a Diretoria, representando entendimento pacífico, reiterado e uniforme. Não foi inferida vigência atual nem vinculação jurídica de cada enunciado.
+
+Os 17 PDFs de portarias vinculados no catálogo, as quatro portarias originais apenas mencionadas nas notas, os processos e normas citados e o conteúdo da plataforma Leis.org indicada pelo órgão permanecem sem inteiro teor incorporado neste lote. O texto publicado é o assunto do catálogo, não a transcrição desses documentos. A ausência de outro número na página não comprova inexistência. Sobre a main 9daaa3bf, o lote soma 17 registros e um órgão: 36.195 registros em 132 órgãos. As nove lacunas textuais anteriores permanecem. A cobertura nacional e o acervo da Agência continuam parciais.
