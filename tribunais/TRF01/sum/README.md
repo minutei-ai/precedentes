@@ -1,0 +1,65 @@
+# TRF01 · Súmula
+
+**61 registros.** [Voltar ao órgão](../)
+
+- [SUM 1](trf01-sum-1.md)
+- [SUM 2](trf01-sum-2.md)
+- [SUM 3](trf01-sum-3.md)
+- [SUM 4](trf01-sum-4.md)
+- [SUM 5](trf01-sum-5.md) — Cancelada
+- [SUM 6](trf01-sum-6.md)
+- [SUM 7](trf01-sum-7.md)
+- [SUM 8](trf01-sum-8.md)
+- [SUM 9](trf01-sum-9.md)
+- [SUM 10](trf01-sum-10.md)
+- [SUM 11](trf01-sum-11.md) — Cancelada/Revisada
+- [SUM 12](trf01-sum-12.md)
+- [SUM 13](trf01-sum-13.md) — Cancelada
+- [SUM 14](trf01-sum-14.md)
+- [SUM 15](trf01-sum-15.md) — Cancelada
+- [SUM 16](trf01-sum-16.md)
+- [SUM 17](trf01-sum-17.md)
+- [SUM 18](trf01-sum-18.md)
+- [SUM 19](trf01-sum-19.md)
+- [SUM 20](trf01-sum-20.md)
+- [SUM 21](trf01-sum-21.md) — Cancelada
+- [SUM 22](trf01-sum-22.md)
+- [SUM 23](trf01-sum-23.md)
+- [SUM 24](trf01-sum-24.md)
+- [SUM 25](trf01-sum-25.md)
+- [SUM 26](trf01-sum-26.md)
+- [SUM 27](trf01-sum-27.md)
+- [SUM 28](trf01-sum-28.md)
+- [SUM 29](trf01-sum-29.md) — Cancelada
+- [SUM 30](trf01-sum-30.md)
+- [SUM 31](trf01-sum-31.md)
+- [SUM 32](trf01-sum-32.md)
+- [SUM 33](trf01-sum-33.md)
+- [SUM 34](trf01-sum-34.md)
+- [SUM 35](trf01-sum-35.md)
+- [SUM 36](trf01-sum-36.md)
+- [SUM 37](trf01-sum-37.md)
+- [SUM 38](trf01-sum-38.md) — Cancelada
+- [SUM 39](trf01-sum-39.md) — Cancelada
+- [SUM 40](trf01-sum-40.md)
+- [SUM 41](trf01-sum-41.md)
+- [SUM 42](trf01-sum-42.md)
+- [SUM 43](trf01-sum-43.md)
+- [SUM 44](trf01-sum-44.md)
+- [SUM 45](trf01-sum-45.md)
+- [SUM 46](trf01-sum-46.md)
+- [SUM 47](trf01-sum-47.md)
+- [SUM 48](trf01-sum-48.md) — Cancelada
+- [SUM 49](trf01-sum-49.md)
+- [SUM 50](trf01-sum-50.md)
+- [SUM 51](trf01-sum-51.md)
+- [SUM 52](trf01-sum-52.md)
+- [SUM 53](trf01-sum-53.md)
+- [SUM 54](trf01-sum-54.md)
+- [SUM 55](trf01-sum-55.md)
+- [SUM 56](trf01-sum-56.md)
+- [SUM 57](trf01-sum-57.md)
+- [SUM 58](trf01-sum-58.md)
+- [SUM 59](trf01-sum-59.md)
+- [SUM 60](trf01-sum-60.md)
+- [SUM 61](trf01-sum-61.md)

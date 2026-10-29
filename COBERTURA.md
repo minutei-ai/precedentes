@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.923 registros únicos de 124 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.984 registros únicos de 124 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TRF1 — Coletânea oficial de súmulas](https://www.trf1.jus.br/trf1/conteudo/Sumula2026.pdf) | 61 | 61 | 0 |
 | [TJSE — Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) | 14 | 14 | 0 |
 | [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
 | [PGE/RJ — Enunciados próprios](https://pge.rj.gov.br/enunciados) | 55 | 55 | 0 |
@@ -789,7 +790,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
-| [TRF01](tribunais/TRF01/) | 110 | 110 | 110 |
+| [TRF01](tribunais/TRF01/) | 171 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 86 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
@@ -1045,3 +1046,11 @@ Duas capturas de 29/10/2026 da página oficial de enunciados da PGE/RJ coincidem
 As publicações e republicações de janeiro de 2026 dos números 52 a 55 e a revogação de junho de 2026 do número 3 não foram substituídas pela data editorial 28/05/2024 exibida pela página. As referências históricas à Lei nº 8.666/93 e as notas de alteração de títulos em maio de 2024 permanecem nos próprios textos. Diários, resoluções e pareceres citados não foram lidos integralmente neste lote. Todo o texto de cada bloco foi conciliado com o HTML; espaços e quebras de linha foram normalizados, sem resumos dos enunciados.
 
 Após uma separação horizontal, a mesma página publica dez enunciados de outro emissor: a Rede de Cooperação entre Advocacias Públicas para atuação do Brasil no Sistema Interamericano de Direitos Humanos. Foram registrados como `REDE_SIDH`, números 1 a 10, separados dos 55 da PGE/RJ. O ato do Procurador-Geral do Estado, processo nº E-14/001.018192/2018, determina publicar os textos aprovados na reunião de 11 e 12 de dezembro de 2017. Essa data é a da reunião informada pelo ato, não uma data de publicação inferida. O bloco não informa classificação de vigência individual nem data autônoma de publicação do ato. A Rede é entidade emissora coletiva aqui contada separadamente para preservar a autoria; seus enunciados não foram apresentados como decisões da Comissão ou da Corte Interamericana nem como normas vinculantes. Não houve criação de registros para o ato de encaminhamento ou para os instrumentos internacionais apenas citados. A série da Rede não integra o catálogo judicial BNP.
+
+## TRF1 — coletânea oficial de súmulas
+
+A página institucional de pesquisa de súmulas indica o caderno `Sumula2026.pdf`. Duas capturas de 29/10/2026 coincidem em bytes: 165.075 bytes, SHA-256 `4d8f41814d2259e4aee191d9f5f6e3f7930a00cd104e361537eb6f9170f87395`. O PDF tem nove páginas físicas; os verbetes 1 a 61 ocupam as páginas 1 a 8. A página 9 só traz os créditos do Núcleo de Jurisprudência/Direj/Corip/Secju e contatos institucionais; não gerou registro. As nove páginas foram conferidas visualmente e o texto de cada verbete foi conciliado com a camada textual. Os 61 identificadores `trf01-sum-N` são novos; os seis IAC e os 104 IRDR anteriores não foram alterados, e as contagens de BNP coletado e inventário permanecem em 110.
+
+As notas expressas de cancelamento das nºs 5, 13, 15, 21, 29, 38, 39 e 48 foram preservadas junto às redações históricas. A nº 11 traz “Cancelada/Revisada” e informa a origem da nº 23; ambas mantêm registros próprios. A nº 28 informa revisão da nº 16, cujo texto histórico continua na coletânea. A nº 5 informa republicação por revisão da nota de rodapé e a nº 43 informa republicação. Não houve classificação de vigência por ausência de nota nos demais números. O texto não está riscado nessa edição, inclusive nos cancelados, e não foi acrescentado risco editorial. Os asteriscos originais das notas continuam visíveis.
+
+As nºs 60 e 61 referem processos e publicação PJe de 20/08/2026. A data técnica de criação do PDF, 26/08/2026, e o ano no nome do arquivo não foram usados como data jurídica dos demais verbetes. Referências, grafias e pontuação foram preservadas, inclusive “Seção Plenária”, “freqüência”, os campos “PAG.” sem número, o processo repetido da nº 2, os dois identificadores consecutivos na nº 50 e as aspas e o espaçamento do trecho “ex officio” da nº 48. Apenas espaços e quebras de linha foram normalizados, mantendo hífens e barras nos identificadores. Diários, processos e legislação citados permanecem sem inteiro teor incorporado. O lote não esgota as demais séries nem atos posteriores do TRF1.
