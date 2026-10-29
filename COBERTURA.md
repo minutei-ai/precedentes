@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.309 registros únicos de 139 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.343 registros únicos de 140 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
 | [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
 | [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
@@ -898,6 +899,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPF](tribunais/MPF/) | 34 | MPF — Enunciados da 3ª CCR, HTML oficial com histórico |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
 | [ANAC](tribunais/ANAC/) | 3 | ANAC — Súmulas administrativas, fichas e atos de aprovação |
@@ -1319,3 +1321,13 @@ Cada ato foi lido no HTML público UrlPublicasAction. As duas capturas de cada H
 A nº 15 declara republicação por incorreção no DOU de 1º-6-2026, Seção 1, pág. 63, e imprime “D.O.U., 01/06/2026 - Seção 1” e “REP., 08/06/2026 - Seção 1”. A redação incorreta de 1º/6/2026 não foi localizada no ANMlegis. A página gov.br está apontada pela legislação da CFEM; não há cabeçalho HTTP 302 retido. Essa redação não foi reconstruída. A nº 16 afasta o indeferimento do art. 31, §4º, do Decreto nº 9.406/2018 diante de licença ambiental de instalação ou de operação válida, vigente e compatível com o Plano de Aproveitamento Econômico. O fecho da nº 16 traz o nome e não traz a linha “Diretor-Geral”. Na nº 7 e na nº 18 o processo do preâmbulo e o processo da tabela divergem; os dois números permanecem. Na nº 18 o enunciado cita o Decreto nº 1/1991 e a base legal encerra os itens com ponto e vírgula, inclusive “Decreto nº 01/1990;”. O título da nº 3 imprime “29 DEMAIO”. O preâmbulo da nº 6 omite o hífen antes da sigla. O preâmbulo da nº 17 fecha com ponto.
 
 A Instrução Normativa ANM nº 15, de 21 de novembro de 2023, é citada no preâmbulo como norma do procedimento. Não virou registro. Pareceres, notas, resoluções e leis apenas citados não tiveram inteiro teor incorporado. O HTML informa que o texto não substitui a publicação oficial. Não houve leitura de PDF do DOU. A ausência de nota de cancelamento não confirma vigência atual nem efeito vinculante. As nove lacunas textuais do TJAM e do TJRJ permanecem. O lote acrescenta 18 registros e um órgão sobre a main a40c08b763e9aa28ce95ee67eafe20316fbacd01, que já reúne 36.291 registros em 138 órgãos. Com este lote o acervo passa a 36.309 registros em 139 órgãos. A série não esgota resoluções, pareceres e notas da ANM. A cobertura nacional de precedentes continua parcial.
+
+## MPF — enunciados da 3ª Câmara de Coordenação e Revisão
+
+A página oficial de Consumidor e Ordem Econômica publica os enunciados nºs 1 a 34. Duas capturas HTTP 200 em 29/10/2026 têm o mesmo texto. Os 34 blocos, sem lacuna, foram incorporados em série própria `en-ccr3`, identificadores `mpf-en-ccr3-1` a `mpf-en-ccr3-34`. O MPF é órgão próprio, distinto do CNMP, do MPT e dos Ministérios Públicos estaduais.
+
+Os riscos das nºs 1, 19, 21, 22, 23, 24, 25 e 26 foram preservados. A nº 26 mantém revogação em 21/3/2017, revalidação em 13/12/2017 e nova revogação em 23/05/2022; a nº 21 mantém suspensão em 31/08/2016, revogação em 21/3/2017 e alteração em 23/05/2022. As notas de alteração das nºs 4, 10, 15, 19, 22, 23, 24, 27 e 29 permanecem; redações anteriores que a página não imprime não foram reconstruídas. O enunciado 34 tem nota de aprovação em 23/06/2026. O rodapé com DMPF-e Nº 43/2024 e 5 de março de 2024 foi atribuído à página, sem transformá-lo em aprovação ou vigência de todos os números.
+
+Foram mantidas as grafias da página, inclusive “deirregularidade” e “letrônico” na nº 11 e “É valido” na nº 9. Espaços, quebras de linha e negrito/itálico foram normalizados; texto riscado e vínculos foram preservados. Não houve leitura dos PDFs vinculados, propostas, deliberações ou diários, nem OCR. Atos e processos apenas citados não geraram IDs. A ausência de nota não confirma vigência atual nem efeito vinculante. As outras câmaras e séries do MPF continuam pendentes; a página não esgota o órgão.
+
+O lote acrescenta 34 registros e um órgão sobre a main ce5c4376: de 36.309 registros em 139 órgãos para 36.343 registros em 140 órgãos. As nove lacunas textuais do TJAM e do TJRJ permanecem. A cobertura nacional continua parcial. HTML, recibos e scripts ficam privados.
