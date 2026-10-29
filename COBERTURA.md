@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.571 registros únicos de 115 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.583 registros únicos de 115 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TJBA — Súmulas do catálogo institucional](https://www.tjba.jus.br/portal/sumulas/) | 29 | 12 | 17 |
 | [TIT/SP — Súmulas e fichas de propostas](https://portal.fazenda.sp.gov.br/servicos/tit/Paginas/Jurisprud%C3%AAncia-S%C3%BAmulas.aspx) | 15 | 15 | 0 |
 | [TJMMG — Súmulas](https://tjmmg.jus.br/sumulas/) | 9 | 9 | 0 |
 | [AGU — Catálogo de manifestações da CONUNI](https://cgu.agu.gov.br/conuni/) | 1.745 | 1.745 | 0 |
@@ -766,7 +767,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJAL](tribunais/TJAL/) | 14 | 4 | 4 |
 | [TJAP](tribunais/TJAP/) | 80 | 45 | 45 |
 | [TJAM](tribunais/TJAM/) | 72 | 72 | 72 |
-| [TJBA](tribunais/TJBA/) | 118 | 118 | 118 |
+| [TJBA](tribunais/TJBA/) | 130 | 118 | 118 |
 | [TJCE](tribunais/TJCE/) | 96 | 17 | 17 |
 | [TJDF](tribunais/TJDF/) | 113 | 41 | 41 |
 | [TJES](tribunais/TJES/) | 162 | 162 | 162 |
@@ -906,7 +907,7 @@ O catálogo do TRT17 lista súmulas, mas o leitor do caderno não disponibilizou
 
 O catálogo próprio do TRT23 ainda não foi conciliado. Na nova consulta, tanto a raiz do portal quanto /portal/sumulas continuaram exibindo o aviso oficial de manutenção programada e serviços rápidos, sem texto de súmulas. A resposta foi conferida no acesso direto e no navegador integrado e não foi tratada como ausência de precedentes.
 
-O catálogo próprio do TJBA permanece pendente. Na consulta de 21/10/2026, a página de precedentes dos Juizados Especiais e o endereço do PDF de súmulas atualizado em março de 2026 devolveram o mesmo aviso oficial de interrupção preventiva dos sistemas, datado de 20/10/2026. O endereço do PDF respondeu com HTML de 4.454 bytes, sem documento PDF; o coletor nativo da página encerrou com “cross-origin request blocked”. A resposta não foi tratada como catálogo vazio nem como PDF válido. Os 17 registros de súmula do TJBA já presentes no BNP permanecem publicados, sem alegação de conciliação com os catálogos próprios.
+Em 29/10/2026, o catálogo institucional de súmulas do TJBA voltou a fornecer conteúdo: 29 verbetes consecutivos, de 1 a 29, conferidos em duas leituras coincidentes. Os 17 registros já presentes no BNP foram enriquecidos com uma seção distinta para a apresentação do catálogo próprio, sem apagar os textos, situações, datas e processos da coleta inicial. As nºs 18 a 29 acrescentam 12 registros. Foram preservados textos, referências legislativas, órgãos julgadores, precedentes e notas de julgamento e das três publicações de setembro e outubro de 2026 nas novas súmulas. Os cancelamentos das nºs 2 e 9, com publicações indicadas em 26/03/2015 e 31/10/2018, e o texto riscado foram mantidos. Os PDFs vinculados aos títulos, os diários e os processos citados não foram incorporados. A antiga falha de acesso de 21/10/2026 permanece como histórico da coleta; a conciliação do catálogo dos Juizados Especiais e seu PDF continua pendente. A ausência de nota de cancelamento no catálogo atual não confirma a vigência de cada verbete.
 
 A página da Turma de Uniformização do TJTO devolveu o aviso oficial “Site em manutenção”, sem os enunciados. A resposta foi preservada privadamente e não foi usada para inferir ausência de precedentes ou cancelar registros já publicados. A conciliação desse catálogo permanece pendente.
 

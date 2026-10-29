@@ -25,3 +25,13 @@ Penal, deverá obedecer o princípio do contraditório, assegurado ao réu, no c
 - 00015576620048050228
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Catálogo próprio do TJBA
+
+Fonte: [TJBA — Súmulas](https://www.tjba.jus.br/portal/sumulas/). Duas leituras coincidentes em 29/10/2026.
+
+A fixação, na sentença condenatória, do valor mínimo indenizatório devido à vítima, previsto no artigo 387, inciso IV, do Código de Processo Penal, deverá obedecer o princípio do contraditório, assegurado ao réu, no curso do processo, defender-se da imputação.
+
+Documento vinculado ao título: [Súmula nº 6](https://www.tjba.jus.br/portal/wp-content/uploads/2017/10/sumula_tjba_6_data_correta.pdf). O PDF não foi incorporado neste lote.
+
+O texto, as referências e as datas acima reproduzem o catálogo próprio, inclusive notas de cancelamento e grafias. A ausência de nota de cancelamento não comprova vigência atual. Atos, diários e processos citados não foram incorporados.
