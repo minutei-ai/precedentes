@@ -2,7 +2,7 @@
 
 **36.117 registros únicos de 129 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-10 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+9 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 ## Fontes diretas
 
@@ -1106,7 +1106,7 @@ A página [Teses, Súmulas e Representativos](https://portal.trf6.jus.br/juizado
 
 As páginas oficiais de acompanhamento dos temas 1493 e 1494 publicam título e descrição que não estavam nos campos da coleta anterior do BNP. Esses textos e os respectivos Leading Cases foram incorporados nos registros existentes `stf-rg-1493` e `stf-rg-1494`. As duas páginas informam, em 24/10/2026, decisão pela existência de repercussão geral no Plenário Virtual - RG; o texto integral da observação desse andamento foi preservado. A admissão da repercussão geral não foi apresentada como tese de mérito. Os metadados e as datas anteriores do BNP permanecem atribuídos ao BNP.
 
-Os campos coincidem em duas leituras integrais pela ferramenta web em 29/10/2026. A captura HTTP direta retornou 400, portanto a evidência privada contém as leituras textuais e os campos conciliados, não um par de HTML bruto validado. Os PDFs das decisões e o inteiro teor dos processos permanecem pendentes. O lote não relê os demais temas do STF. Não cria registros: o total permanece 36.092 em 126 órgãos, e os registros ainda sem texto passam de 12 para 10. As lacunas do tema 1491, dos oito IRDR do TJAM e do IRDR 34 do TJRJ continuam.
+Os campos coincidem em duas leituras integrais pela ferramenta web em 29/10/2026. A captura HTTP direta retornou 400, portanto a evidência privada contém as leituras textuais e os campos conciliados, não um par de HTML bruto validado. Os PDFs das decisões e o inteiro teor dos processos permanecem pendentes. O lote não relê os demais temas do STF. Não cria registros: o total permanece 36.092 em 126 órgãos, e os registros ainda sem texto passam de 12 para 10. A lacuna do tema 1491 foi recuperada no complemento documental posterior; as dos oito IRDR do TJAM e do IRDR 34 do TJRJ continuam.
 
 ## CGE/MG — Súmulas Administrativas no portal do Conrege
 
@@ -1143,3 +1143,11 @@ A página oficial da Câmara Recursal publica quatro súmulas de 2026, números 
 Duas capturas HTTP 200 em 29/10/2026 repetem os mesmos quatro títulos, temas e enunciados. Foram normalizados apenas espaços e quebras de linha. A data de publicação da página é 22/07/2026, às 16h41, e a última modificação informada é 16h43 do mesmo dia; esses metadados não foram convertidos em aprovação ou vigência individual. A página não classifica os enunciados como vigentes e não declara efeito vinculante. Não há ato de aprovação, diário ou processo individual vinculado no corpo dos verbetes. As leis citadas permanecem sem inteiro teor incorporado. Não houve OCR ou PDF neste lote; HTML e recibos ficam privados.
 
 O lote soma quatro registros e um órgão sobre a main 3f375be0: 36.117 registros em 129 órgãos. A página consultada não esgota o acervo decisório do PROCON/PB nem comprova inexistência de outros atos.
+
+## STF — acórdão de repercussão geral do tema 1491
+
+O PDF oficial vinculado na página do Tema 1491 foi capturado duas vezes em 29/10/2026, com 287.251 bytes e o mesmo SHA-256. Suas 18 páginas foram extraídas e conferidas visualmente. A transcrição está no registro existente `stf-rg-1491`, com decisão de repercussão geral nas páginas físicas 1 a 3 e manifestação do relator nas páginas 4 a 18. A data impressa é 20/10/2026; a página de andamento informa divulgação no DJe em 22/10/2026 e publicação em 23/10/2026, sem substituir a data anterior do BNP. O PDF é acessível por download direto HTTP 200, embora a captura HTTP direta da página de acompanhamento tenha devolvido 400.
+
+O documento reconhece questão constitucional e repercussão geral; a decisão registra que o Tribunal não reafirmou a jurisprudência dominante. Não se criou tese de mérito por inferência. A tese do Tema 1.133, citada na página física 10, permanece dentro do voto e não foi transferida para o Tema 1491. A nota de rodapé da página 16 foi preservada. Etiquetas presentes apenas na camada extraível, sem correspondência visível nas imagens, e os rodapés com autenticação, códigos e senhas foram omitidos. O texto jurídico das 18 páginas foi mantido, com sua divisão física e a numeração interna impressa.
+
+O lote não cria registros nem órgãos: permanecem 36.117 registros de 129 órgãos sobre a main bd84fc49. Os registros ainda sem texto passam de dez para nove: oito IRDR do TJAM e o IRDR 34 do TJRJ. Os processos, pareceres, ofícios e precedentes apenas citados não tiveram inteiro teor incorporado e não geraram identificadores adicionais. Atos posteriores e situação de mérito atual continuam fora deste lote. PDF, imagens e recibos ficam privados.
