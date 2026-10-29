@@ -1,13 +1,15 @@
 # Cobertura
 
-**36.107 registros únicos de 127 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.117 registros únicos de 129 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-10 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+9 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PROCON/PB — Súmulas da Câmara Recursal](https://procon.pb.gov.br/camararecursal/sumulas) | 4 | 4 | 0 |
+| [PGM de Joinville — Súmulas Administrativas](https://www.joinville.sc.gov.br/publicacoes/sumulas-administrativas-da-procuradoria-geral-do-municipio/) | 6 | 6 | 0 |
 | [CGE/MG — Súmulas Administrativas no portal do Conrege](https://www.conrege.mg.gov.br/legislacoes/sumulas-administrativas) | 15 | 15 | 0 |
 | [TRF6 — Enunciados das Turmas Recursais Reunidas](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/jurisprudencia-4/) | 70 | 70 | 0 |
 | [PGE/RS — Súmulas Administrativas CEAD](https://pge.rs.gov.br/sumulas-jurisprudencia-administrativa-comissao-especial-de-advocacia-dativa) | 15 | 15 | 0 |
@@ -894,6 +896,8 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [PROCONPB](tribunais/PROCONPB/) | 4 | PROCON/PB — Súmulas da Câmara Recursal |
+| [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
 | [CGEMG](tribunais/CGEMG/) | 15 | CGE/MG — Súmulas Administrativas publicadas no Conrege |
 | [PGERS](tribunais/PGERS/) | 15 | PGE/RS — Súmulas de Jurisprudência Administrativa CEAD |
 | [PGESP](tribunais/PGESP/) | 23 | PGE/SP — Súmulas históricas, 2ª edição de 1999, Série Documentos n. 18 |
@@ -938,7 +942,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1082,7 +1086,7 @@ A página oficial da Comissão Especial de Advocacia Dativa publica 15 enunciado
 
 Duas capturas HTTP 200 de 29/10/2026 têm 67.012 bytes cada. Os hashes do HTML bruto diferem, mas o conteúdo visível da área do artigo e todos os enunciados e vínculos coincidem. Foram normalizados apenas espaços e quebras de linha. O ano de cada identidade vem do título, sem converter datas de upload ou datas dos documentos vinculados em data jurídica do enunciado. Não há nota expressa de cancelamento ou revisão nesses verbetes; a ausência não confirma vigência atual. As notas de voto vencido das nºs 001, 002, 012, 013 e 015 permanecem no texto. A nº 010 conserva o endereço institucional de secretaria publicado no enunciado. A menção a CPF na nº 005 é texto normativo, sem número pessoal.
 
-Os vínculos para súmulas de reunião foram preservados em cada registro, inclusive os três da nº 001. Esses documentos, as resoluções, as tabelas e os processos apenas citados não tiveram inteiro teor incorporado nem geraram registros adicionais. A série não esgota os precedentes da PGE/RS ou da CEAD. O lote acrescenta 15 registros e um órgão: 36.022 registros em 126 órgãos, sobre a main 206a8fa5 com a PGE/SP histórica.
+Os vínculos para súmulas de reunião foram preservados em cada registro, inclusive os três da nº 001. Os nove documentos de reunião receberam transcrição em complemento posterior, cobrindo 11 páginas. As resoluções, tabelas e os processos apenas citados continuam sem inteiro teor incorporado. Nenhum desses vínculos gerou registros adicionais. A série não esgota os precedentes da PGE/RS ou da CEAD. O lote acrescenta 15 registros e um órgão: 36.022 registros em 126 órgãos, sobre a main 206a8fa5 com a PGE/SP histórica.
 
 ## TRF6 — enunciados das Turmas Recursais reunidas
 
@@ -1102,7 +1106,7 @@ A página [Teses, Súmulas e Representativos](https://portal.trf6.jus.br/juizado
 
 As páginas oficiais de acompanhamento dos temas 1493 e 1494 publicam título e descrição que não estavam nos campos da coleta anterior do BNP. Esses textos e os respectivos Leading Cases foram incorporados nos registros existentes `stf-rg-1493` e `stf-rg-1494`. As duas páginas informam, em 24/10/2026, decisão pela existência de repercussão geral no Plenário Virtual - RG; o texto integral da observação desse andamento foi preservado. A admissão da repercussão geral não foi apresentada como tese de mérito. Os metadados e as datas anteriores do BNP permanecem atribuídos ao BNP.
 
-Os campos coincidem em duas leituras integrais pela ferramenta web em 29/10/2026. A captura HTTP direta retornou 400, portanto a evidência privada contém as leituras textuais e os campos conciliados, não um par de HTML bruto validado. Os PDFs das decisões e o inteiro teor dos processos permanecem pendentes. O lote não relê os demais temas do STF. Não cria registros: o total permanece 36.092 em 126 órgãos, e os registros ainda sem texto passam de 12 para 10. As lacunas do tema 1491, dos oito IRDR do TJAM e do IRDR 34 do TJRJ continuam.
+Os campos coincidem em duas leituras integrais pela ferramenta web em 29/10/2026. A captura HTTP direta retornou 400, portanto a evidência privada contém as leituras textuais e os campos conciliados, não um par de HTML bruto validado. Os PDFs das decisões e o inteiro teor dos processos permanecem pendentes. O lote não relê os demais temas do STF. Não cria registros: o total permanece 36.092 em 126 órgãos, e os registros ainda sem texto passam de 12 para 10. A lacuna do tema 1491 foi recuperada no complemento documental posterior; as dos oito IRDR do TJAM e do IRDR 34 do TJRJ continuam.
 
 ## CGE/MG — Súmulas Administrativas no portal do Conrege
 
@@ -1113,3 +1117,37 @@ Duas leituras integrais pela ferramenta web, em 29/10/2026, repetem os mesmos ca
 As nºs 5 e 8 mantêm identidades próprias, texto repetido e datas distintas de publicação. A repetição da referência ao inciso XXXIII do art. 216 permanece em ambas. O título da nº 10 mantém “ADMINSITRATIVO”; a nº 9 mantém “30/11//2020”. A nº 4 conserva o ponto isolado depois das referências. A nº 27 mantém os dois parágrafos publicados: um sobre acúmulo de cargos e EC nº 138/2025, outro igual ao texto da nº 23 sobre assédio moral. Essa justaposição foi preservada, sem atribuir correção, cancelamento ou nova redação à fonte. A data de publicação indicada para a nº 27 é 20/06/2026, página 8.
 
 O lote acrescenta 15 registros e um órgão sobre a main 6c33f6ed: 36.107 registros em 127 órgãos. A série do portal não esgota o acervo da CGE/MG nem esclarece as lacunas na numeração.
+
+## PGM de Joinville — súmulas administrativas municipais
+
+O catálogo da Prefeitura indica seis súmulas administrativas da Procuradoria-Geral do Município de Joinville, números 1 a 6, e o Decreto nº 51.862/2022 sobre o procedimento de fixação de enunciados. Os seis documentos de súmula foram incorporados integralmente quanto ao texto jurídico, referências, precedentes, cabeçalho e assinatura informada. O decreto foi preservado como fonte privada vinculada, sem novo registro. O portal apresenta as súmulas como manifestações jurídicas sobre matérias recorrentes e declara efeito vinculante para a administração direta, autárquica e fundacional; essa apresentação é atribuída ao catálogo e não foi transformada em classificação atual de vigência de cada documento.
+
+O catálogo e os sete documentos foram capturados duas vezes em 29/10/2026. Os sete pares documentais coincidem em bytes. A codificação declarada ISO-8859-1 foi mantida, sem caractere de substituição. A leitura web da nº 2 devolveu erro de decodificação; a captura direta recuperou o HTML, incluindo os requisitos cumulativos I a III e todas as referências. O HTML contém parágrafos malformados e aninhados; foram reconciliados com o parser HTML, sem duplicar os parágrafos descendentes. Apenas espaços e quebras de linha foram normalizados. Os códigos verificador e CRC de autenticação foram omitidos, mantendo nome, função, data e base normativa da assinatura. Não há CPF, RG ou matrícula no texto jurídico incorporado.
+
+As descrições do catálogo não substituem os enunciados. A nº 5 conserva o final “execução..”; a nº 3 conserva o processo “5001224-27.202.8.24.0038”, sem completar o ano. A nº 2 mantém “02 de setembro e 2015”. O extrato da página da nº 1 informa diário 2166, enquanto o corpo menciona 2165; na nº 2 o extrato informa 2206 e o corpo 2205. Ambas as informações foram preservadas. As datas de disponibilização no catálogo também não foram unificadas com as datas dos documentos ou dos extratos: nºs 1 e 2 no catálogo em 25/05/2023; nº 3 em 29/08/2023; nº 4 em 18/09/2023; nº 5 em 19/10/2023; nº 6 em 12/12/2024.
+
+As referências judiciais, administrativas e normativas continuam nos mesmos registros. Os processos e as leis citados não tiveram inteiro teor incorporado, e referências repetidas não geraram novos identificadores. O lote soma seis registros e um órgão sobre main 8a2fec75: 36.113 registros em 128 órgãos. O catálogo não comprova cobertura de toda a PGM nem atos posteriores.
+
+## CEAD/PGE-RS — nove documentos de reunião vinculados
+
+Os nove PDFs indicados pelos 17 vínculos da página de súmulas foram capturados duas vezes, com bytes idênticos em cada par. Sete têm uma página e dois têm duas, totalizando 11 páginas. Todas foram conferidas visualmente contra o texto extraível. O lote inclui participantes, pautas, assuntos, deliberações e o fecho da ata de 18/03/2026, inclusive a manifestação divergente solicitada pela OAB e o teor da súmula 15/2026 aprovado na ata. A data de cada reunião permanece documental; não foi transformada em data de publicação ou vigência dos enunciados. Os textos do catálogo não foram substituídos.
+
+Cada documento foi transcrito uma vez, em seção do registro de súmula que o vincula. Nos outros enunciados que apontam para o mesmo PDF, há vínculo interno para a transcrição completa e preservação da fonte oficial. Não há novos identificadores: permanecem 15 registros na CEAD/PGE-RS e 36.113 registros em 128 órgãos no acervo. Os processos e as propostas apenas mencionados nos documentos não viraram registros. Os fundamentos de votos orais que o documento de 03/09/2025 diz que serão juntados por escrito continuam sem inteiro teor recuperado.
+
+O documento de 03/09/2025 conserva “Objeto: Objeto:” e a divergência entre o processo 1103686.00043532/2022-20 na pauta e 1101176.00077928/2021-20 na deliberação. A ata de 18/03/2026 mantém “Fernada”, “manifestção” e “deliberações:1.”. Na sua segunda página, duas linhas institucionais de cabeçalho que existem na camada extraível, mas não aparecem na imagem, foram omitidas da transcrição visual. O fecho prevê assinatura posterior; nenhuma assinatura foi acrescentada. A apresentação é textual, sem reprodução gráfica de bordas, negritos e itálicos. Não há CPF, RG, matrícula ou chave de acesso nas páginas publicadas; a menção a CPF na reunião de 06/10/2021 é texto genérico. PDF, imagens e derivados continuam privados.
+
+## PROCON/PB — súmulas da Câmara Recursal
+
+A página oficial da Câmara Recursal publica quatro súmulas de 2026, números 01 a 04. Foram incorporados os títulos, os temas e os enunciados literais em órgão próprio PROCONPB. As matérias são comparecimento às convocações do PROCON/PB, contratos financeiros com idosos, cartão de crédito consignado com RMC e desistência da reclamação após decisão administrativa de primeiro grau. Essas expressões apenas identificam o assunto; o texto integral de cada enunciado permanece no registro. O PROCON/PB é distinto do CRF/PB, do TCE/PB e do TJ/PB.
+
+Duas capturas HTTP 200 em 29/10/2026 repetem os mesmos quatro títulos, temas e enunciados. Foram normalizados apenas espaços e quebras de linha. A data de publicação da página é 22/07/2026, às 16h41, e a última modificação informada é 16h43 do mesmo dia; esses metadados não foram convertidos em aprovação ou vigência individual. A página não classifica os enunciados como vigentes e não declara efeito vinculante. Não há ato de aprovação, diário ou processo individual vinculado no corpo dos verbetes. As leis citadas permanecem sem inteiro teor incorporado. Não houve OCR ou PDF neste lote; HTML e recibos ficam privados.
+
+O lote soma quatro registros e um órgão sobre a main 3f375be0: 36.117 registros em 129 órgãos. A página consultada não esgota o acervo decisório do PROCON/PB nem comprova inexistência de outros atos.
+
+## STF — acórdão de repercussão geral do tema 1491
+
+O PDF oficial vinculado na página do Tema 1491 foi capturado duas vezes em 29/10/2026, com 287.251 bytes e o mesmo SHA-256. Suas 18 páginas foram extraídas e conferidas visualmente. A transcrição está no registro existente `stf-rg-1491`, com decisão de repercussão geral nas páginas físicas 1 a 3 e manifestação do relator nas páginas 4 a 18. A data impressa é 20/10/2026; a página de andamento informa divulgação no DJe em 22/10/2026 e publicação em 23/10/2026, sem substituir a data anterior do BNP. O PDF é acessível por download direto HTTP 200, embora a captura HTTP direta da página de acompanhamento tenha devolvido 400.
+
+O documento reconhece questão constitucional e repercussão geral; a decisão registra que o Tribunal não reafirmou a jurisprudência dominante. Não se criou tese de mérito por inferência. A tese do Tema 1.133, citada na página física 10, permanece dentro do voto e não foi transferida para o Tema 1491. A nota de rodapé da página 16 foi preservada. Etiquetas presentes apenas na camada extraível, sem correspondência visível nas imagens, e os rodapés com autenticação, códigos e senhas foram omitidos. O texto jurídico das 18 páginas foi mantido, com sua divisão física e a numeração interna impressa.
+
+O lote não cria registros nem órgãos: permanecem 36.117 registros de 129 órgãos sobre a main bd84fc49. Os registros ainda sem texto passam de dez para nove: oito IRDR do TJAM e o IRDR 34 do TJRJ. Os processos, pareceres, ofícios e precedentes apenas citados não tiveram inteiro teor incorporado e não geraram identificadores adicionais. Atos posteriores e situação de mérito atual continuam fora deste lote. PDF, imagens e recibos ficam privados.
