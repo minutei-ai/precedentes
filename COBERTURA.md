@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.315 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.347 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -2151,3 +2151,11 @@ Delta sobre a main `20fa878e` (39.262 registros em 164 órgãos; CJF 784): 53 re
 Mantidos “Justificativa:” na nº 2, “no artigo do art.” na nº 4, “podem geral” e o “¿” final na nº 6, “Acordo De persecussao penal” nas palavras-chave da nº 19, “art. 227” na justificativa 24 e “Lei n. 9.515/1998” na justificativa 27. Grafias, espaços e referências não foram corrigidos nem atualizados. STF, STJ, TST e Justiça Desportiva, quando citados, não receberam IDs; os enunciados de jornada não são decisões judiciais. Sem inferência de vigência, vinculação, completude ou titularidade atual. Sem PDF/OCR; atos e julgados citados não foram consultados neste lote.
 
 Delta sobre a main `1e959025` (39.222 registros em 164 órgãos; CJF 744): 40 registros e nenhum órgão novo, totalizando 39.262 registros em 164 órgãos e CJF 784. A III Jornada Comercial (34) e a Jornada de Seguridade (53, PR #115) permanecem fora desta conta; a base inclui a IV Processual Civil (38) e a Saúde (47). FONAJE 328 e as 80 transcrições históricas do MPAL permanecem sem IDs novos; as nove lacunas originais do BNP continuam. Apenas Markdown público; capturas e scripts privados.
+
+## CJF — I Jornada de Direito e Processo Penal
+
+32 enunciados, números 1–32 da pesquisa `jornada.id=261`. As 64 capturas das fichas retornaram HTTP 200, com bytes e SHA-256 recalculados. Os campos dos pares coincidem e os corpos coincidem com as duas pesquisas. Corpos e metadados lidos; justificativa, Notas e texto revogado vazios, sem inferência de vigência. Mantidas redações sobre livramento condicional nas nºs 2 e 24 sem harmonizá-las. Preservadas “PARTENIDADE SOCIOAFETIVA”, “SISTEMA FINANCEIRA” e “DOSEMETRIA DA PENA” nas palavras-chave. Coordenação atribuída à ficha sem afirmar titular atual; atos e julgados citados não receberam IDs. Sem PDF/OCR, vinculação ou exaustividade inferidas.
+
+Delta sobre `1e959025`: 32 registros e nenhum órgão, projeção de 39.254 registros em 164 órgãos e CJF 776. III Comercial, Desportivo e Seguridade continuam em PRs separados, fora desta conta. FONAJE 328, 80 transcrições históricas MPAL sem IDs novos e nove lacunas originais do BNP preservados. Outras publicações seguem pendentes; somente Markdown público, evidências privadas.
+
+Delta sobre `c769edd8` (39.315 registros em 164 órgãos; CJF 837): 32 registros e nenhum órgão; total esperado de 39.347 registros em 164 órgãos e CJF 869. Os PRs #114 e #115 já estão incluídos na base e não são contados de novo. Sem nova contagem global; outros PRs em andamento não entram neste delta.
