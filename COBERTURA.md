@@ -28,7 +28,7 @@ A série de súmulas do MPPI inclui mais uma lacuna textual, independente das no
 | [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
 | [MPRS — Enunciados CONCIDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
-| [MPMT — Assentos e enunciados do Conselho Superior, pauta e ratificação no DOE](https://mpmt.mp.br/site/storage/webdisco/arquivos/CSMP/3%C2%AA%20Pauta%20RO%20CSMP%2006-03-2023.pdf) | 20 | 20 | 0 |
+| [MPMT — Assentos e enunciados do Conselho Superior, pauta compilatória](https://mpmt.mp.br/site/storage/webdisco/arquivos/CSMP/3%C2%AA%20Pauta%20RO%20CSMP%2006-03-2023.pdf) | 20 | 20 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
