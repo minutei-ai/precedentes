@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.220 registros únicos de 133 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.226 registros únicos de 134 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CADE — Súmulas históricas do catálogo](https://www.gov.br/cade/pt-br/acesso-a-informacao/normas-e-legislacao/sumulas) | 6 | 6 | 0 |
 | [ARCE — Controle de Súmulas](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf) | 25 | 25 | 0 |
 | [ANEEL — Súmulas](https://www.gov.br/aneel/pt-br/centrais-de-conteudos/sumulas) | 17 | 17 | 0 |
 | [PGE/AP — Súmulas Administrativas](https://pge.portal.ap.gov.br/conteudo/legislacao/sumulas) | 18 | 18 | 0 |
@@ -892,6 +893,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CADE](tribunais/CADE/) | 6 | CADE — PDFs das súmulas históricas nºs 4 a 9 |
 | [ARCE](tribunais/ARCE/) | 25 | ARCE — Controle de Súmulas |
 | [ANEEL](tribunais/ANEEL/) | 17 | ANEEL — Assuntos e notas do catálogo de súmulas |
 | [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
@@ -950,7 +952,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-ARCE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ARCE, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1221,3 +1223,13 @@ As notas do indexador registram alterações nas nºs 005/2007 (Portaria 1.250/2
 A página informa publicação em 27/01/2022 e modificação em 02/03/2026. Essas datas não foram atribuídas aos atos. A descrição da própria página apresenta as súmulas como diretrizes que auxiliam a Diretoria, representando entendimento pacífico, reiterado e uniforme. Não foi inferida vigência atual nem vinculação jurídica de cada enunciado.
 
 Os 17 PDFs de portarias vinculados no catálogo, as quatro portarias originais apenas mencionadas nas notas, os processos e normas citados e o conteúdo da plataforma Leis.org indicada pelo órgão permanecem sem inteiro teor incorporado neste lote. O texto publicado é o assunto do catálogo, não a transcrição desses documentos. A ausência de outro número na página não comprova inexistência. Sobre a main 9daaa3bf, o lote soma 17 registros e um órgão: 36.195 registros em 132 órgãos. As nove lacunas textuais anteriores permanecem. A cobertura nacional e o acervo da Agência continuam parciais.
+
+## CADE — súmulas históricas nºs 4 a 9
+
+O catálogo oficial publica seis vínculos, nºs 4 a 9, sob o título “Súmulas aprovadas durante a vigência da Lei nº 8.884/94”. Duas capturas de 29/10/2026 repetem os seis títulos e vínculos. Os redirecionamentos foram conciliados com seis PDFs do CDN oficial, recuperados por HTTPS com TLS validado. Cada PDF tem uma página; os seis pares de capturas coincidem em bytes e SHA-256. O corpo desde o título, com preâmbulo, enunciado, referências e fecho, foi incorporado e conferido nas seis imagens. A nº 4 é digitalizada e foi transcrita visualmente, sem OCR; as nºs 5 a 9 usam a camada textual conferida. Capturas, imagens e scripts permanecem privados.
+
+A nº 4 conserva a referência repetida AC nº 08012.000359/2006-53. As nºs 4 a 7 são datadas de 09/12/2009; o catálogo apresenta essa data como publicação. Os cabeçalhos dos PDFs das nºs 5 a 7 informam DOU de 14/12/2009, nº 238, Seção 1, página 51. As informações foram preservadas com atribuição, sem unificação. As nºs 8 e 9 são datadas de 03/11/2010 e conservam as referências, endereço e telefones institucionais impressos. Despachos e processos apenas citados não viraram registros.
+
+As nºs 1 a 3 não estão nos seis vínculos do catálogo consultado; isso não comprova inexistência. Uma publicação da revista institucional localizada na busca menciona as nºs 2 e 3, mas não foi recuperada nem incorporada. Não houve reconstrução desses enunciados. A presença na série histórica não prova vigência atual nem vinculação jurídica individual. Páginas autônomas do DOU, processos, despachos e demais séries do CADE continuam pendentes. CADE é órgão administrativo próprio, distinto do CARF e dos órgãos judiciais do BNP.
+
+O lote soma seis registros e um órgão sobre a main daa98eff: 36.226 registros em 134 órgãos. As nove lacunas textuais anteriores permanecem, e a cobertura nacional e a do CADE continuam parciais.
