@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.710 registros únicos de 116 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.747 registros únicos de 118 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CAT/GO — Súmulas do catálogo oficial](https://goias.gov.br/economia/sumulas/) | 15 | 15 | 0 |
+| [PGE/GO — Súmulas Administrativas](https://goias.gov.br/procuradoria/sumulas-administrativas/) | 22 | 22 | 0 |
 | [TRT17 — Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas) | 65 | 65 | 0 |
 | [TRT17 — Lista de súmulas do portal](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas) | 62 | 0 | 62 |
 | [CCMG — Súmulas do catálogo oficial](https://www.fazenda.mg.gov.br/secretaria/conselho_contribuintes/sumulas/sumulas.html) | 7 | 7 | 0 |
@@ -759,6 +761,14 @@ O catálogo do Tribunal de Impostos e Taxas do Estado de São Paulo acrescenta 1
 
 O catálogo institucional do CCMG acrescenta sete súmulas, nºs 01 a 07, com textos e links de documentos associados conferidos em duas leituras em 29/10/2026. As nºs 02 a 06 trazem nota expressa de revogação, preservada junto das redações históricas. A ausência da nota nas nºs 01 e 07 não foi convertida em confirmação de vigência. O catálogo vincula as nºs 02 a 06 ao mesmo PDF, denominado portaria_04_2020.pdf, a nº 07 a portaria_05_2020.pdf e a nº 01 a deliberacao_02_2001.pdf. Esses três documentos, seus inteiros teores, datas e efeitos ainda não foram conferidos neste lote; os nomes dos arquivos não foram usados como data de aprovação ou de revogação. Foram preservadas as grafias e referências legislativas do catálogo, inclusive “pólo” e “disposto no arts.”. Acórdãos, deliberações apenas citadas e outras séries do órgão permanecem pendentes. O CCMG é órgão administrativo tributário próprio e não integra o catálogo judicial BNP consultado.
 
+## CAT/GO e PGE/GO — séries administrativas distintas
+
+O catálogo do Conselho Administrativo Tributário de Goiás acrescenta 15 súmulas, nºs 01 a 15. Duas leituras coincidem no texto de cada coluna, nos links e nos trechos riscados. Os campos Ementa, Extrato, Acórdão e Súmulas com efeito vinculante à SRE foram mantidos separadamente, inclusive campos vazios e o marcador “—”. A nº 09 está expressamente cancelada no campo Extrato; o texto riscado e os dois acórdãos vinculados foram preservados. A informação de efeito vinculante à SRE foi mantida como campo do catálogo, sem ser estendida automaticamente a todos os verbetes ou a outros órgãos. A palavra Ementa é a do cabeçalho oficial e não foi reclassificada como inteiro teor dos acórdãos.
+
+O catálogo da Procuradoria-Geral do Estado de Goiás acrescenta 22 súmulas administrativas, nºs 1 a 22, em série própria. Duas leituras conciliam integralmente os campos Súmulas e Assunto, com enunciados, incisos, referências, processos e notas de publicação e de aprovação. As descrições de efeito vinculante são atribuídas ao catálogo; não houve pesquisa autônoma de vigência posterior. As referências a FGTS, prescrição, aposentadoria e outras matérias reproduzem o texto histórico disponibilizado, sem atualização por inferência.
+
+Nessas duas fontes, os acórdãos, extratos, decretos, portarias, diários e outros documentos vinculados ou apenas citados permanecem pendentes de inteiro teor e conferência. Datas editoriais e nomes de arquivos não foram convertidos em datas jurídicas. As duas séries são administrativas e não integram o catálogo BNP judicial consultado. Os 37 registros não representam todo o acervo de decisões do CAT/GO nem de manifestações da PGE/GO.
+
 ## BNP por órgão
 
 A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas separadamente.
@@ -863,6 +873,8 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
+| [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
 | [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
 | [TITSP](tribunais/TITSP/) | 15 | TIT/SP — Súmulas e fichas de propostas |
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
@@ -904,7 +916,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
