@@ -117,4 +117,3 @@ Registre-se e publique-se.
 Benhur Biancon Junior, Promotor de Justiça, Secretário-Geral. DEMP: 09/06/2017.
 
 _________________________________________ ¹ A fixação do valor da tarifa será investigada no âmbito da defesa do patrimônio público.
-

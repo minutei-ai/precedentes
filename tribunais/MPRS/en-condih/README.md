@@ -90,4 +90,3 @@ JÚLIO CÉSAR DE MELO, Subprocurador-Geral de Justiça para Assuntos Institucion
 GISELE MÜLLER MONTEIRO, Coordenadora do Centro de Apoio Operacional dos Direitos Humanos.
 
 Registre-se e publique-se. Luciano de Faria Brasil Promotor de Justiça, Chefe de Gabinete. DEMP: 24/05/2022.
-

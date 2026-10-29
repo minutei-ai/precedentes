@@ -445,4 +445,3 @@ RESOLUÇÃO N. 01/2022 – PGJ - REVOGADA PELA RESOLUÇÃO N. 04/2023-PGJ
 ~~FLÁVIA RAPHAEL MALLMANN, Coordenadora do Centro de Apoio Operacional Cível e de Proteção do Patrimônio Público e da Moralidade Administrativa.~~
 
 ~~Registre-se e publique-se. Luciano de Faria Brasil, Promotor de Justiça, Chefe de Gabinete. DEMP: 15/02/2022.~~
-
