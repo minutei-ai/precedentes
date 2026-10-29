@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.010 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.024 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
 | [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
 | [MPAL — Assentos e Súmula do CSMP (edição 2026)](https://www.mpal.mp.br/?page_id=15693) | 17 | 17 | 0 |
 | [MPMS — Enunciados do Conselho Superior](https://www.mpms.mp.br/atos-e-normas?sitcod=4&atotipcod=12) | 26 | 26 | 0 |
@@ -973,7 +974,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto no catálogo, com redação histórica de 2017 recuperada |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
-| [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
+| [CNMP](tribunais/CNMP/) | 46 | CNMP — CALJ e 2º Congresso de Defesa da Integridade |
 | [MPF](tribunais/MPF/) | 430 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 5ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
@@ -1975,3 +1976,10 @@ A ata ODT da 1347ª sessão, de 01/10/2021, recebeu leitura visual das páginas 
 ### FONAJEF — conferência dos riscos e conciliação
 
 Comparação independente dos 226 corpos com os 12 HTMLs confirmou o texto, considerando as quebras `<br>`. Restaurados os riscos da fonte em 16 registros; na nº 111, o “T” inicial permanece fora do risco, como no HTML. As notas sem risco foram mantidas. A main `89ee09ac` foi integrada, preservando a proposta e aprovação da Súmula 10 do MPPI. O delta permanece 226 registros e um órgão: 38.010 registros em 161 órgãos. A contagem global pesada não foi declarada concluída nesta revisão; os 226 IDs e corpos foram conferidos de forma direcionada.
+
+
+## CNMP — enunciados do 2º Congresso de Defesa da Integridade
+
+Incorporados os 14 enunciados numerados 1–14 do caderno “ENUNCIADOS APROVADOS”, em série própria `en-congresso-integridade-2025`, com atribuição ao congresso promovido pela CDPA/CNMP. Não são atos do Plenário da série CALJ. Quatro páginas lidas visualmente; a camada extraível perde acentos, preservados a partir das imagens. Pares oficiais HTTP 200 idênticos; tamanho e SHA-256 nas fichas. Sem OCR. Cabeçalhos gráficos, justificação e estilos normalizados; referências jurídicas literais, sem atualização ou inferência de vigência ou vinculação. As propostas rejeitadas e os anais do 1º Congresso não entraram neste lote.
+
+Delta sobre a main `53a6208f`: 14 registros e nenhum órgão; 38.024 registros em 161 órgãos, CNMP 46 (22 enunciados CALJ, 10 súmulas e 14 enunciados de congresso). As nove lacunas iniciais do BNP e os dois avisos sem enunciado do MPAL permanecem. Capturas e derivados privados, somente Markdown público; cobertura nacional parcial.
