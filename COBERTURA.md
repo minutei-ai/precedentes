@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.358 registros únicos de 151 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.426 registros únicos de 152 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -12,6 +12,7 @@
 | [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
 | [MPMA — Resoluções 15/2022 e 16/2023 do Conselho Superior: enunciados 01–23/22 e 24/23](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
 | [MPMA — Enunciados históricos do Conselho Superior, numeração do catálogo](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
+| [MPMG — Enunciados de súmulas do CSMP](https://www.mpmg.mp.br/data/files/EC/C7/D3/32/70CF191041383A19760849A8/Enunciados-sum-CSMP-Geral.pdf) | 68 | 68 | 0 |
 | [MPRS — CONDIH e CONDECON nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 8 | 8 | 0 |
 | [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
 | [MPRS — Enunciados CONCIDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
@@ -934,6 +935,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [MPMA](tribunais/MPMA/) | 48 | MPMA — Enunciados do Conselho Superior: revisão de 2022, nº 24/23 e numeração histórica do catálogo |
+| [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 55 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos e 3 orientações CONDECON |
@@ -1009,7 +1011,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPDFT, MPRJ, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPDFT, MPMG, MPRJ, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1737,7 +1739,7 @@ As Resoluções 6/2026 (ficha 18656) e 07/2007 (3686), vinculadas pelo catálogo
 
 As grafias, as funções, as aspas e as referências impressas permanecem. A indicação genérica CNPJ/CPFs no texto de 2007 não é um identificador pessoal preenchido. Não há CPF, RG, matrícula pessoal ou bloco de autenticação incorporado. O resguardo à independência funcional foi mantido; ausência de nota de revogação e data do ato não confirmam vigência atual ou vinculação. Não houve PDF nem OCR. Diários, atos, instrumentos e processos apenas citados continuam pendentes.
 
-O PR reúne onze registros novos: seis CONPPIJE/CONPPIJEFAM, dois CONEVCM e três CONDEPP. Sobre a main `807e960f` (37.347 registros em 151 órgãos), soma onze sem órgão novo: 37.358 registros em 151 órgãos, MPRS 55. Os 44 registros do MPRS já publicados permanecem. Os demais PRs abertos estão fora dessa base; as nove lacunas iniciais do BNP continuam. Apenas Markdown público, evidências privadas; cobertura nacional parcial.
+O PR reúne onze registros novos: seis CONPPIJE/CONPPIJEFAM, dois CONEVCM e três CONDEPP. Sobre a main `150a31fe` (37.415 registros em 152 órgãos), soma onze sem órgão novo: 37.426 registros em 152 órgãos, MPRS 55. Os 44 registros do MPRS já publicados e os 68 do MPMG e 48 do MPMA permanecem. Os PRs 68, 70 e 73 seguem fora dessa base enquanto abertos; as nove lacunas iniciais do BNP continuam. Apenas Markdown público, evidências privadas; cobertura nacional parcial.
 ## MPMA — enunciados do Conselho Superior
 
 O MPMA é órgão estadual próprio, distinto do TJMA, do MPF, do MPT, do MPM e dos demais Ministérios Públicos. O [catálogo oficial](https://www.mpma.mp.br/enunciados-conselho-superior/) tem duas páginas e 26 entradas: duas resoluções e 24 enunciados em numeração histórica. As páginas 1 e 2 tiveram duas capturas HTTP 200 de 29/10/2026 cada: 142.564 e 130.263 bytes, sem diferença de conteúdo além de uma linha técnica de contagem de objetos do servidor. As 26 entradas foram lidas e conciliadas pelo título, sem lacuna na lista;
@@ -1749,3 +1751,13 @@ A série `en-csmp-hist` reúne 24 registros, `mpma-en-csmp-hist-1-1997` a `mpma-
 As duas numerações não foram fundidas nem reconstruídas por semelhança. O número repete-se com textos diferentes: 09/2016 e 09/22 não coincidem, e o 19/2017 cita a Resolução CNMP 29, enquanto o 19/22 cita a 126/2015. A Resolução 15/2022 traz, ela mesma, três referências de origem: o nº 18/22 (“Aprovado na Sessão CSMP do dia 21.10.2016”), o nº 22/22 (Res. nº 06/2019-CSMP, confirmada no PDF acima como a que aprovou o Enunciado 23) e o nº 23/22 (Res. nº 13/2022-CSMP, confirmada no DOCX como a que aprovou o Enunciado 24). Nada além dessas citações foi tomado como renumeração. O 25/2022 do catálogo não consta na revisão de 2022 e não tem o mesmo conteúdo do 24/23: seu paradeiro na revisão fica pendente, sem hipótese.
 
 Espaços, quebras e negrito foram normalizados; aspas, pontuação e grafias do catálogo e dos PDFs foram mantidas, inclusive aspas desencontradas e as datas do catálogo, que não foram tratadas como data de aprovação nem de vigência. Tarja de autenticação, código de validação, QR code e rodapés não entram nas fichas, e as assinaturas aparecem só como data. O catálogo e as resoluções não classificam a situação jurídica dos enunciados; nada foi convertido em vigência atual nem em efeito vinculante. Leis, resoluções, súmulas, julgados e enunciados de outros órgãos apenas citados não geraram registros. As justificativas dos nºs 14 a 18/2016, o regimento interno e outras resoluções do CSMP permanecem pendentes. Sobre a main `3870e3e2d800fb64ef5c6465b7c1317504679a05`, com 37.299 registros em 150 órgãos, o lote soma 48 registros e um órgão: 37.347 registros em 151 órgãos. As nove lacunas iniciais do BNP permanecem. Capturas, PDFs, imagens, derivados e scripts ficam privados; a cobertura nacional continua parcial.
+
+## MPMG — enunciados de súmulas do CSMP
+
+A compilação oficial de nove páginas, identificada na página final pela Diretoria Executiva do CSMP em 11/09/2024, foi capturada duas vezes em 29/10/2026: 170.417 bytes e SHA-256 `689f92659b53e4299a6fd04633cb5143bb2358d46d13dfd354d02b99b49d0dab`. As nove páginas foram lidas na imagem e na camada textual, sem OCR. São 68 identidades contíguas, números 1–68: 53 com texto e 15 apenas “REVOGADO” (1, 9, 11, 12, 14, 18, 21, 28, 34, 35, 38, 42, 48, 54 e 60). Esses quinze não foram apresentados como íntegra; a redação anterior segue pendente. O MPMG entra como órgão próprio, distinto de TJMG, TCEMG e CGEMG. O caminho local de rodapé foi omitido.
+
+O caderno foi obtido no domínio oficial, mas a página atual do CSMP não o vincula no conteúdo capturado. A página aponta o caderno de deliberações “Plenário - Diversos”, cujos dois PDFs coincidem em 569.345 bytes e SHA-256 `0d2a3daa4302c8b917fcd2ce55b3e7a4d4566915b2ddfa6569e0378cdf2c8cc1`. Esse documento tem 36 páginas; apenas as físicas 19–24 foram lidas e publicadas, com corte antes de “FERRAMENTA BUSINESS INTELLIGENCE - BI”. As demais trinta páginas não foram lidas. O recorte fica uma única vez no índice da série, sem criar registro de deliberação. Datas, redações e notas das duas fontes permanecem separadas, inclusive a ata de 08/10/2024 e a nota de 11/09/2024 no caderno. A referência “14.230/2001” foi preservada.
+
+Há notas posteriores dos avisos de 05/08/2025 e de 05/11/2025, atribuídas à leitura textual oficial pelo leitor web. Os PDFs diretos retornaram HTTP 403 nas tentativas de captura local; não foram publicados como transcrição integral, nem receberam SHA-256 inventado. A captura e a conferência visual dos avisos continuam pendentes. O aviso de 2024 sobre 18, 21, 42 e 32 também não foi capturado; o documento de deliberações já lido fornece complemento próprio. Ausência de nota não confirma vigência atual ou efeito vinculante.
+
+Notas de aprovação, reforma, republicações e grafias preservadas; sem criação de IDs a normas, processos e precedentes apenas citados. Nenhum CPF, RG, matrícula pessoal ou bloco de autenticação incorporado. Nomes e funções públicos ficam no documento comum. Sobre a main `807e960f`, com 37.347 registros em 151 órgãos, este lote soma 68 registros e um órgão: 37.415 registros em 152 órgãos. Permanecem MPRJ 83, MPDFT 129, MPRS 44 e MPMA 48. As nove lacunas iniciais do BNP continuam. Outras séries, redações históricas e atos posteriores permanecem pendentes. A URL oficial da edição de 06/12/2023 ainda aparece em resultado indexado, mas as duas tentativas de captura direta em 29/10/2026 responderam HTTP 404, assim como a abertura pelo leitor web. Esse limite de acesso restringe a cobertura e não prova que os textos não existam. O resultado indexado não foi usado para reconstruir os corpos ausentes. Somente Markdown público; capturas, PDFs, imagens e scripts privados. Cobertura nacional parcial.
