@@ -1,6 +1,6 @@
 # I Jornada de Direito Administrativo
 
-**40 enunciados**, numerados 1–40 na [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), filtro `jornada.id=201`. As 40 fichas individuais foram capturadas em pares HTTP 200; listagem, números, corpos e metadados foram conferidos. Os tamanhos e SHA-256 reais dos 80 HTMLs estão em cada registro.
+**40 enunciados**, numerados 1–40 na [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), filtro `jornada.id=201`. As duas respostas HTML da pesquisa foram capturadas por POST com HTTP 200, 25.365 bytes cada; SHA-256 `723bd70316c4b3f7faa8a9e821ef95cd465bee13d27a0a06df9cc6e5e50b9f63` e `76165bbcaedbbe8968494f94cbe0b8efc9d825fe0c828f8e9af6a547d71dae15`. Os 40 cartões das duas pesquisas coincidem entre si e com as 40 fichas individuais, capturadas em pares HTTP 200. Os tamanhos e SHA-256 reais dos 80 HTMLs de ficha estão em cada registro.
 
 Foram lidos todos os campos das fichas e os 40 corpos. Nenhuma ficha consultada exibe justificativa ou texto no campo de redação revogada; a ausência de redação anterior não confirma vigência. A marca de texto riscado do CSS se aplica ao campo `descricaoRevogada` e não foi atribuída aos corpos atuais. Mantivemos referências legislativas, comissões, coordenação e palavras de resgate como publicados, sem atualizar normas. Nenhuma ficha ou cartão consultado remete a PDF. Os enunciados permanecem em série própria, sem duplicar Civil, Tributário ou Equidade Racial e sem inferir efeito vinculante ou completude de outras jornadas.
 
