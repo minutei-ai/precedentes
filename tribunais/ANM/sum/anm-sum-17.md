@@ -46,6 +46,6 @@ O texto é o do HTML público do ANMlegis, UrlPublicasAction, com cod_modulo=351
 
 O HTML público escreve “88a. Reunião”. A vista abrirTextoAto do ementário, capturada duas vezes com os mesmos parágrafos do ato, escreve “88ª Reunião”. A transcrição segue o HTML público.
 
-O preâmbulo fecha com ponto, “a seguinte súmula.”. Duas leituras da [página gov.br](https://www.gov.br/anm/pt-br/assuntos/arrecadacao/apuracao-municipios-afetados-1/legislacao-1/sumula-n-o-17-de-19-de-agosto-de-2026), em 29/10/2026, responderam HTTP 302 para este mesmo HTML público.
+O preâmbulo fecha com ponto, “a seguinte súmula.”. A [página gov.br](https://www.gov.br/anm/pt-br/assuntos/arrecadacao/apuracao-municipios-afetados-1/legislacao-1/sumula-n-o-17-de-19-de-agosto-de-2026) consta na legislação da CFEM. Não há cabeçalho HTTP 302 dessa URL na evidência retida.
 
 A Instrução Normativa ANM nº 15, de 21 de novembro de 2023, aparece no preâmbulo como norma do procedimento. Não gerou registro. Leis, resoluções, pareceres, notas, orientações e portarias apenas citados permanecem neste registro e não tiveram inteiro teor incorporado. Não há CPF, RG, matrícula, chave ou código de autenticação no ato. O nome e o cargo públicos permanecem. A ausência de nota de cancelamento ou de revisão não confirma vigência atual nem efeito vinculante.
