@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.113 registros únicos de 128 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.131 registros únicos de 129 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 10 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGE/AP — Súmulas Administrativas](https://pge.portal.ap.gov.br/conteudo/legislacao/sumulas) | 18 | 18 | 0 |
 | [PGM de Joinville — Súmulas Administrativas](https://www.joinville.sc.gov.br/publicacoes/sumulas-administrativas-da-procuradoria-geral-do-municipio/) | 6 | 6 | 0 |
 | [CGE/MG — Súmulas Administrativas no portal do Conrege](https://www.conrege.mg.gov.br/legislacoes/sumulas-administrativas) | 15 | 15 | 0 |
 | [TRF6 — Enunciados das Turmas Recursais Reunidas](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/jurisprudencia-4/) | 70 | 70 | 0 |
@@ -895,6 +896,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [PGEAP](tribunais/PGEAP/) | 18 | PGE/AP — Súmulas Administrativas do CONSUP/PGE |
 | [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
 | [CGEMG](tribunais/CGEMG/) | 15 | CGE/MG — Súmulas Administrativas publicadas no Conrege |
 | [PGERS](tribunais/PGERS/) | 15 | PGE/RS — Súmulas de Jurisprudência Administrativa CEAD |
@@ -940,7 +942,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEAP, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1125,3 +1127,19 @@ O catálogo e os sete documentos foram capturados duas vezes em 29/10/2026. Os s
 As descrições do catálogo não substituem os enunciados. A nº 5 conserva o final “execução..”; a nº 3 conserva o processo “5001224-27.202.8.24.0038”, sem completar o ano. A nº 2 mantém “02 de setembro e 2015”. O extrato da página da nº 1 informa diário 2166, enquanto o corpo menciona 2165; na nº 2 o extrato informa 2206 e o corpo 2205. Ambas as informações foram preservadas. As datas de disponibilização no catálogo também não foram unificadas com as datas dos documentos ou dos extratos: nºs 1 e 2 no catálogo em 25/05/2023; nº 3 em 29/08/2023; nº 4 em 18/09/2023; nº 5 em 19/10/2023; nº 6 em 12/12/2024.
 
 As referências judiciais, administrativas e normativas continuam nos mesmos registros. Os processos e as leis citados não tiveram inteiro teor incorporado, e referências repetidas não geraram novos identificadores. O lote soma seis registros e um órgão sobre main 8a2fec75: 36.113 registros em 128 órgãos. O catálogo não comprova cobertura de toda a PGM nem atos posteriores.
+
+## PGE/AP — Súmulas Administrativas do CONSUP/PGE
+
+O catálogo [Súmulas](https://pge.portal.ap.gov.br/conteudo/legislacao/sumulas) publica 18 súmulas administrativas, nº 01 a 18, sem lacuna de numeração. O emissor impresso em todos os atos é o Conselho Superior da Procuradoria-Geral do Estado do Amapá (CONSUP/PGE). PGEAP é órgão próprio e não se confunde com o TJAP nem com o TCEAP. A súmula nº 04 cita a Súmula nº 016/TJAP e um incidente do TJAP; essas referências permanecem no registro e não geraram precedentes novos.
+
+Onze PDFs em editor.amapa.gov.br cobrem a série. As nº 01 a 05 estão na Resolução nº 002/2016-CONSUP/PGE (4 páginas). As nº 11, 12 e 13 estão na Resolução nº 01/2022-CONSUP/PGE (2 páginas). As nº 15 e 16 estão na Resolução nº 001/2024-CONSUP/PGE (2 páginas). Cada uma das demais tem resolução e PDF próprios: nº 06, Resolução nº 001/2018; nº 07, Resolução nº 002/2018; nº 08, Resolução nº 004/2020; nº 09, Resolução nº 007/2020; nº 10, Resolução nº 10/2020; nº 14, Resolução nº 04/2023; nº 17, Resolução nº 002/2025; nº 18, Resolução nº 003/2025. O número não foi presumido pelo nome do arquivo. O metadado da nº 14 nomeia “SÚMULA ADMINISTRATIVA 04”; o corpo e o catálogo são a nº 14. O metadado das nº 11 a 13 menciona só a súmula 11. Esses metadados não alteraram o número nem a data do ato.
+
+Em 29/10/2026 o catálogo e os onze PDFs foram capturados duas vezes, com TLS validado por pacote que inclui a intermediária omitida pelo servidor. Os onze pares de PDF coincidem em bytes e em SHA-256, somam 23 páginas e terminam em %%EOF. Os dois HTML do catálogo têm 85.562 bytes e diferem apenas por um marcador antiautomatização; os 18 títulos e os 18 vínculos coincidem. Esse marcador não foi publicado. Os hashes estão em cada registro.
+
+Sete PDFs têm texto nativo: nº 08, 09, 10, 11 a 13, 14, 15 e 16, e 18. A extração foi conferida com a imagem de todas as páginas. Quatro PDFs são digitalizados: nº 01 a 05, 06, 07 e 17, dez páginas. Não havia OCR instalado. A transcrição dessas páginas é a leitura visual integral das duas capturas, não um resumo e não uma passagem por mecanismo de OCR.
+
+A ementa da Resolução nº 002/2025-CONSUP/PGE declara a revogação da súmula nº 01 da Resolução nº 002/2016-CONSUP/PGE. O resolve da nº 17 aprova o enunciado novo e não repete “fica revogada”. Os dois textos permanecem, em `pgeap-sum-1` e `pgeap-sum-17`. A ementa de 2025 descreve a nº 01 como licença-maternidade e licença-paternidade; o enunciado de 2016 não menciona licença-paternidade. A diferença foi mantida. Não há outra nota de cancelamento ou alteração na série. As nº 06 e 12 tratam de plantões e não se revogam no texto. A ausência de nota não confirma vigência atual nem efeito vinculante. Datas de arquivo e nomes de PDF não foram convertidos em data do ato.
+
+Foram preservadas a crase em “quanto à determinados”, o “E” maiúsculo em “§13 E 195”, “PROSSO ELETRÔNICO” na nº 07, “deve integrar” na nº 12, o itálico de *caput* e o sublinhado de “voto divergente” na nº 09. Na nº 14, a data datilografada é 13 de março de 2023, a sessão é 22 e 30 de março de 2023 e o carimbo é 13/04/2023. Na nº 18, o preâmbulo cita o inciso X e o considerando cita o inciso XI. Números pessoais de carimbo digital das nº 11 a 13 e da nº 14 foram omitidos. Nomes, funções e os códigos públicos de autenticidade da nº 10 permanecem.
+
+Pareceres, votos, notas técnicas, acórdãos, diários e leis apenas citados não tiveram inteiro teor incorporado e não geraram registros. Não foi reconstruída publicação em diário ausente dos PDFs. O lote acrescenta 18 registros e um órgão sobre a main a9cca9cb: 36.131 registros em 129 órgãos. A série do catálogo não esgota os pareceres da PGE/AP.
