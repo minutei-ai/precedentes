@@ -17,7 +17,7 @@
 
 ### Página física 19 — impressa 17
 
-Enunciado 254: Tratando-se de tutela antecipada antecedente requerida ao Poder Judiciário com base no art. 22-A da Lei n. 9.307/1996, o prazo para requerer a instituição da arbitragem será de 30 dias, nos termos do parágrafo único, prevalecendo sobre o previsto no art. 303, § 1º, inciso I, do CPC. Esse prazo correrá independentemente da interposição de recurso contra a decisão judicial que concedeu a medida, sendo contado a partir da data de sua efetivação (art. 22-A, parágrafo único, Lei n. 9.307/1996), sem possibilidade de estabilização. 17
+Enunciado 254: Tratando-se de tutela antecipada antecedente requerida ao Poder Judiciário com base no art. 22-A da Lei n. 9.307/1996, o prazo para requerer a instituição da arbitragem será de 30 dias, nos termos do parágrafo único, prevalecendo sobre o previsto no art. 303, § 1º, inciso I, do CPC. Esse prazo correrá independentemente da interposição de recurso contra a decisão judicial que concedeu a medida, sendo contado a partir da data de sua efetivação (art. 22-A, parágrafo único, Lei n. 9.307/1996), sem possibilidade de estabilização.
 
 ## Conferência e limites
 
