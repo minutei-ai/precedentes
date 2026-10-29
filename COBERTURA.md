@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.825 registros únicos de 121 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.844 registros únicos de 122 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
 | [PGE/PI — Súmulas Administrativas, página reunida](https://www.pge.pi.gov.br/sumulas-administrativas/) | 66 | 66 | 0 |
 | [PGE/PI — Súmulas Administrativas, catálogo paginado](https://www.pge.pi.gov.br/sumulas/) | 65 | 0 | 65 |
 | [CRF/PB — Súmulas do catálogo oficial](https://www.sefaz.pb.gov.br/info/2016-01-11-17-25-20/crf) | 4 | 4 | 0 |
@@ -877,6 +878,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [TARFRS](tribunais/TARFRS/) | 19 | TARF/RS — Súmulas do Tribunal Administrativo de Recursos Fiscais |
 | [PGEPI](tribunais/PGEPI/) | 66 | PGE/PI — Súmulas Administrativas |
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
@@ -923,7 +925,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGEPI, CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+TARFRS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1000,3 +1002,19 @@ A página reunida de Súmulas Administrativas acrescenta os números 1 a 66, cad
 O catálogo paginado, indicado pelo menu institucional, foi percorrido em 11 páginas, com duas capturas de cada página e conciliação de título, corpo e links. Publica 65 verbetes: números 1–17 e 19–66. A nº 18 está na página reunida, mas não nessas 11 páginas; a diferença não foi tratada como revogação. Nos 65 números comuns, os textos coincidem desconsiderando a divisão de parágrafos e espaços, exceto pelo ponto final após a referência de publicação da nº 23, presente na página reunida e ausente na paginada. As alíneas a–c da nº 23 estão como parágrafos na página reunida e como lista ordenada por letras na paginada. Não se inferiu precedência jurídica de uma página sobre a outra.
 
 Foram preservadas grafias como “contração” (24), “percebia” (45), “deestudante” (46), “asentença” (47), “414/STJ1” (49), “parteautora” (58) e a aspa sem abertura da nº 38. A referência ao DOE nº 97 de 29/09/2022 nas nºs 53–55 e a data 08/02/2024 associada ao DOE nº 37 na nº 57 foram mantidas sem correção por inferência. Os diários, os julgados, a legislação e os atos vinculados não foram lidos integralmente neste lote. Os 66 registros são uma série administrativa da PGE/PI, distinta do TJPI e do TCEPI, e não esgotam os pareceres nem as outras manifestações da Procuradoria.
+
+## TARF/RS — súmulas do Tribunal Administrativo de Recursos Fiscais
+
+O Tribunal Administrativo de Recursos Fiscais do Estado do Rio Grande do Sul entra como órgão próprio (TARFRS). Não é o TARF do Distrito Federal, nem o CARF, nem o TARGS do extinto Tribunal de Alçada preservado pelo TJRS, nem o TCERS. A página [Súmulas](https://tarf.rs.gov.br/sumulas) aponta a consulta pública do grupo 14553 em https://tarf.sefaz.rs.gov.br. A página [Serviços e informações](https://tarf.rs.gov.br/servicos-e-informacoes) liga essa mesma página de súmulas. O serviço 1800 da Secretaria da Fazenda, [Consulta Decisões do TARF](https://www.fazenda.rs.gov.br/servicos-ao-cidadao/servicos?servico=1800), descreve a consulta de acórdãos e súmulas e ainda encaminha ao portal antigo `legislacao.sefaz.rs.gov.br`. A cadeia TLS desse endereço antigo não verificou neste ambiente e não foi contornada. O catálogo incorporado é o do portal novo.
+
+Duas leituras em 29/10/2026 coincidem em bytes. O filtro numérico `grupos=14553` devolve 19 documentos, números 1 a 19, sem lacuna e sem repetição. A paginação de tamanho 5 tem quatro páginas com resultado e uma página vazia; a ordem não é numérica (19 a 15, 14 a 10, 9, 8, 7, 5 e 4, depois 2, 1, 3 e 6). As consultas de tamanho 20 e de tamanho 50 devolvem o mesmo conjunto. Os números 0, 20 e 21 nesse grupo vêm vazios. Os 19 registros trazem grupo SÚMULAS, área TARF e o mesmo `grupoDocumentoId` aaedfb61-94d3-46a9-83c0-defae1fd5a9f. A ementa da pesquisa está vazia e não foi usada como enunciado. O texto publicado é o do HTML atual de cada documento.
+
+A busca pelo termo súmula informa 7.540 itens. Só as duas primeiras páginas foram lidas: a primeira reúne estas 19 súmulas e também acórdãos; a segunda contém apenas o grupo ACÓRDÃOS A PARTIR DE 2005. A consulta sem filtro de grupo informa 28.692 documentos e não foi paginada. Acórdãos avulsos não foram incorporados. O tipo AcordaoTARF é o rótulo do bloco HTML da súmula no portal e não gerou registro de acórdão. A súmula 02 tem um segundo dispositivo com texto vazio, preservado sem reconstrução.
+
+As súmulas 01, 02, 05, 12 e 18 trazem nota expressa de revogação pela Resolução nº 01/2023, DOE de 15/09/23, página 79. A nº 14 traz o cabeçalho “Súmula nº 14: REVOGADA” e a nota de revogação pela Resolução nº 01/2000, DOE de 14/07/00, página 14. As outras 13 não trazem nota de revogação. Essa ausência não confirma vigência.
+
+O portal registra 45 redações anteriores. A linha de referência “Redação Original” contém só o título, e o enunciado não foi completado nela. A redação de ordenacaoHistorico 2 da nº 15 encerra em “página  7”, com dois espaços e sem o fechamento do texto atual. O campo dataVigencia 1900-01-01, nas nºs 04 a 19, é a data vazia do cadastro. Nas nºs 01 e 02, dataDocumento e dataVigencia são 1991-07-22, data que o texto associa ao DOE, e o texto também traz TARF - 16/07/91. Na nº 03, dataDocumento é 1991-07-16, o texto traz TARF - 16/07/91 e dataVigencia é 1991-07-22, junto do DOE de 22/07/91. Na nº 06, dataDocumento é 1991-04-27 e o texto traz TARF - 27/04/93, Resolução nº 02/93 e DOE de 12/05/93. As datas não foram unificadas. Os títulos literais foram mantidos, inclusive “SUMULA Nº 01” e “SUMULA Nº 08”, sem acento, e “SÚMULA Nº11”, sem espaço.
+
+Os 19 PDFs têm uma página A4 e criador wkhtmltopdf 0.12.4. A camada textual coincide com o HTML atual. Não houve OCR. A data de criação do arquivo é da renderização e varia entre 2022, 2023 e 2025. Não é a data da súmula e pode divergir de dataAtualizacao, que em vários cadastros permanece em 2007. Sequências de três ou mais espaços foram reduzidas. Os espaços duplos do HTML foram mantidos, como em “página  23”, “CÁLCULO-  Nas” e “saídas  de”. A releitura do HTML com tamanho de página 10 coincide com a de tamanho 200. São 148 pares de arquivos idênticos entre as duas leituras. A lista `/api/Grupos` respondeu HTTP 500. O menu do documento exige login e não foi autenticado. A consulta pelo UUID do grupo ignora o filtro e devolve o portal inteiro; não foi usada.
+
+Permanecem fora deste lote as resoluções e as páginas do Diário Oficial apenas citadas, o dispositivo vazio da nº 02, o enunciado ausente nas redações que só trazem o título, o trecho truncado do histórico da nº 15, os acórdãos do portal e a conciliação das datas em que o cadastro diverge do texto.
