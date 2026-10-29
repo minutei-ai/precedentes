@@ -12,7 +12,7 @@
 
 ## Texto publicado
 
-ASSENTO Nº 02/14 – “A indicação à remoção por merecimento pressupõe, além da inexistência dos impedimentos dos arts. 147, § 2º, “a” e “b” e 151, da LOEMP, dois anos de exercício no cargo e integrar o promotor de justiça a primeira quinta parte da lista de antiguidade, salvo se não houver com tais requisitos outros candidatos, ou quando o número limitado de inscritos inviabilizar a formação de lista tríplice e o interesse do serviço exigir o imediato provimento do cargo. (cf. art. 93, VIII-A, c.c. art. 129, § 4º, da CF; art. 61, IV, da LONMP; art. 147, alíneas “a”, “b” e “c”, e art. 151, da LOEMP)”. (ESTE ASSENTO REVOGA O DE Nº 02/96). SÚMULAS DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO
+ASSENTO Nº 02/14 – “A indicação à remoção por merecimento pressupõe, além da inexistência dos impedimentos dos arts. 147, § 2º, “a” e “b” e 151, da LOEMP, dois anos de exercício no cargo e integrar o promotor de justiça a primeira quinta parte da lista de antiguidade, salvo se não houver com tais requisitos outros candidatos, ou quando o número limitado de inscritos inviabilizar a formação de lista tríplice e o interesse do serviço exigir o imediato provimento do cargo. (cf. art. 93, VIII-A, c.c. art. 129, § 4º, da CF; art. 61, IV, da LONMP; art. 147, alíneas “a”, “b” e “c”, e art. 151, da LOEMP)”. (ESTE ASSENTO REVOGA O DE Nº 02/96).
 
 ## Conferência e limites
 

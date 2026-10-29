@@ -12,7 +12,7 @@
 
 ## Texto publicado
 
-SÚMULA n.º 22: “Justifica-se a propositura de ação civil pública de ressarcimento de danos e para impedir a queima da palha de cana-de- açúcar, para fins de colheita, diante da infração ambiental provocada, independentemente de situar-se a área atingida sob linhas de transmissão de energia elétrica, ou estar dentro do perímetro de 1 km de área urbana.” Fundamento: Os mais atuais estudos ambientais têm demonstrado a gravidade dos danos causados pela queimada na colheita da cana-de- açúcar ou no preparo do solo para plantio. Assim, em sucessivos precedentes, o Conselho Superior tem determinado a propositura de ação civil pública em defesa do meio ambiente degradado.
+SÚMULA n.º 22: “Justifica-se a propositura de ação civil pública de ressarcimento de danos e para impedir a queima da palha de cana-de-açúcar, para fins de colheita, diante da infração ambiental provocada, independentemente de situar-se a área atingida sob linhas de transmissão de energia elétrica, ou estar dentro do perímetro de 1 km de área urbana.” Fundamento: Os mais atuais estudos ambientais têm demonstrado a gravidade dos danos causados pela queimada na colheita da cana-de-açúcar ou no preparo do solo para plantio. Assim, em sucessivos precedentes, o Conselho Superior tem determinado a propositura de ação civil pública em defesa do meio ambiente degradado.
 
 ## Conferência e limites
 
