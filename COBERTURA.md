@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.388 registros únicos de 140 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.402 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -11,6 +11,7 @@
 | [MPF — Enunciados da 1ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr1/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados da 7ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr7/enunciados) | 11 | 11 | 0 |
 | [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
+| [ANTT — Súmulas no ANTTlegis](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=429&cod_menu=7216) | 14 | 14 | 0 |
 | [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
 | [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
@@ -902,6 +903,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [MPF](tribunais/MPF/) | 79 | MPF — Enunciados das 1ª, 3ª e 7ª CCRs, HTML oficial com histórico |
+| [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
 | [ANAC](tribunais/ANAC/) | 3 | ANAC — Súmulas administrativas, fichas e atos de aprovação |
@@ -966,7 +968,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPF, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1324,21 +1326,35 @@ A nº 15 declara republicação por incorreção no DOU de 1º-6-2026, Seção 1
 
 A Instrução Normativa ANM nº 15, de 21 de novembro de 2023, é citada no preâmbulo como norma do procedimento. Não virou registro. Pareceres, notas, resoluções e leis apenas citados não tiveram inteiro teor incorporado. O HTML informa que o texto não substitui a publicação oficial. Não houve leitura de PDF do DOU. A ausência de nota de cancelamento não confirma vigência atual nem efeito vinculante. As nove lacunas textuais do TJAM e do TJRJ permanecem. O lote acrescenta 18 registros e um órgão sobre a main a40c08b763e9aa28ce95ee67eafe20316fbacd01, que já reúne 36.291 registros em 138 órgãos. Com este lote o acervo passa a 36.309 registros em 139 órgãos. A série não esgota resoluções, pareceres e notas da ANM. A cobertura nacional de precedentes continua parcial.
 
+## ANTT — súmulas
+
+A Agência Nacional de Transportes Terrestres entra como órgão próprio (ANTT). Não é órgão judicial e não se confunde com o DNIT, a ANTAQ, a ANAC, a ANM nem a ANS. O menu do ANTTlegis [Súmulas (14)](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=429&cod_menu=7216), módulo 429 e menu 7216, é o ponto de partida. A árvore por assunto dessa captura lista oito pastas, correspondentes às súmulas 1, 6, 7, 8, 9, 10, 11 e 12. Os contadores modais repetem cotemáticas e não foram somados. As súmulas 2, 3, 4, 5, 13 e 14 não estavam nessa árvore. O cabeçalho delas foi lido em `abrirTextoAto`, tipo SAM, sequência 000. A página [Resoluções e súmulas](https://www.gov.br/antt/pt-br/assuntos/rodovias/normativos-de-rodovias/resolucoes-e-sumulas) do gov.br publica objetos das nºs 14/2022, 10/2021, 9/2021 e 8/2020; o fetch nativo dessa página respondeu 403, e os objetos não são a transcrição.
+
+Cada uma das quatorze identidades foi capturada duas vezes em 29/10/2026. Os pares são idênticos em bytes. O tipo no endereço é SAM, e o órgão é `DG/ANTT/MI`, salvo a nº 1/2018, que é `DG/ANTT/MTPA` e nomeia o Ministério dos Transportes, Portos e Aviação Civil. As páginas declaram UTF-8 e os bytes do corpo são ISO-8859-1. As entidades foram decodificadas. Ministério e agência permanecem em parágrafos separados. A grafia “Registo Nacional” da nº 6 e a linha “Edição Extra E 1” da nº 10 foram preservadas. A nº 8 tem dois parágrafos. A nº 7 tem três incisos. A nº 11 tem dois incisos e parágrafo único.
+
+O selo `ico-situacao` da página consultada indica Vigente nas nºs 1, 2, 3, 6, 7, 8, 9, 10, 12, 13 e 14. Indica Revogado nas nºs 4, 5 e 11. As nºs 4 e 5 trazem no corpo a nota “Revogada pela DELIBERAÇÃO ANTT Nº 470, DE 4 DE DEZEMBRO DE 2025”. A nº 11 traz “Revogada pela RESOLUÇÃO ANTT Nº 6.074, DE 17 DE DEZEMBRO DE 2025”. A classificação é a do selo e, quando existe, a da nota. A ausência de nota não confirma vigência atual nem efeito vinculante. A Deliberação nº 470, a Resolução nº 6.074 e as resoluções apenas citadas nos enunciados não geraram identificadores.
+
+Nas nºs 1, 6, 7, 8, 9, 10, 11 e 12, a página `abrirVinculos` com menu 8721 e módulo 618 embute o mesmo corpo legal em `#detalharAto`. A nº 8 aparece em duas cotemáticas e a nº 9 também. A pasta de rodovias da nº 9 grafa “Reequilibro”; a de passageiros grafa “Reequilíbrio”. É um ato só. A nº 9 ainda exibe o controle “Veja Também”, cuja função `LinkNota` retorna falso. O texto dessa nota não está no HTML e permanece pendente. As nºs 2, 3, 4, 5 e 13 têm uma terceira captura do mesmo `abrirTextoAto`, idêntica ao par. A nº 14 tem um par anterior com o mesmo corpo legal e outro SHA-256.
+
+A navegação genérica por número, `co_tematica=20317666`, e a navegação por modal com menu 7216 e módulo 623 responderam HTTP 200 com “URL inválida”. O menu 11041, rótulo “SÚMULAS POR ASSUNTO (5)”, traz três ementas no HTML estático. A de fiscalização diz “Dispõe sobre fiscalização da execução dos contratos de concessão de rodovias.” A de revisão repete o enunciado da nº 9 e o controle “Veja Também”, sem o texto da nota. A de sanções repete o enunciado da nº 10. O mesmo HTML deixa fechado o nó “Programa de Concessão de Rodovias Federais PROCROFE”, código 16864656, e não traz os filhos. O menu 11042 tem a seção `#resenha` vazia. Essas páginas não geraram identificador. A URL pública `abrirAtoPublico` devolveu uma casca intitulada ANTTlegis, com a mensagem “Link inválido favor gere o link novamente (2)”, sem o corpo da súmula. Nenhuma dessas respostas foi tratada como lista nem como segunda cópia do texto. O bloco de histórico das páginas de ato não trouxe redação anterior. Não há captura retida das consultas à sequência 001 nem da grade dos números 15 e 16. Essas consultas não foram usadas para provar ausência de outra redação ou de outros atos; permanecem pendentes de verificação documental.
+
+O HTML não é o Diário Oficial certificado. Cada ato conserva o aviso de que o texto não substitui a publicação oficial. A data da página não é a data do ato. Não há CPF, RG, matrícula nem código de autenticação nos corpos. O lote acrescenta 14 registros e um órgão. A main ce5c4376 já reúne as 18 súmulas da ANM, as 21 súmulas normativas da ANS, a nota de 2019 das orientações administrativas do TRT8, as três súmulas da ANAC e as nove lacunas textuais do TJAM e do TJRJ: 36.309 registros em 139 órgãos. Com este lote o acervo passa a 36.323 registros em 140 órgãos. As nove lacunas anteriores permanecem. A série não esgota o acervo da ANTT e a cobertura nacional continua parcial.
+
 ## MPF — enunciados da 3ª Câmara de Coordenação e Revisão
 
 A página oficial de Consumidor e Ordem Econômica publica os enunciados nºs 1 a 34. Duas capturas HTTP 200 em 29/10/2026 têm o mesmo texto. Os 34 blocos, sem lacuna, foram incorporados em série própria `en-ccr3`, identificadores `mpf-en-ccr3-1` a `mpf-en-ccr3-34`. O MPF é órgão próprio, distinto do CNMP, do MPT e dos Ministérios Públicos estaduais.
 
 Os riscos das nºs 1, 19, 21, 22, 23, 24, 25 e 26 foram preservados. A nº 26 mantém revogação em 21/3/2017, revalidação em 13/12/2017 e nova revogação em 23/05/2022; a nº 21 mantém suspensão em 31/08/2016, revogação em 21/3/2017 e alteração em 23/05/2022. As notas de alteração das nºs 4, 10, 15, 19, 22, 23, 24, 27 e 29 permanecem; redações anteriores que a página não imprime não foram reconstruídas. O enunciado 34 tem nota de aprovação em 23/06/2026. O rodapé com DMPF-e Nº 43/2024 e 5 de março de 2024 foi atribuído à página, sem transformá-lo em aprovação ou vigência de todos os números.
 
-Foram mantidas as grafias da página, inclusive “deirregularidade” e “letrônico” na nº 11 e “É valido” na nº 9. Espaços, quebras de linha e negrito/itálico foram normalizados; texto riscado e vínculos foram preservados. Não houve leitura dos PDFs vinculados, propostas, deliberações ou diários, nem OCR. Atos e processos apenas citados não geraram IDs. A ausência de nota não confirma vigência atual nem efeito vinculante. As demais séries do MPF continuam pendentes; a página não esgota o órgão.
+Foram mantidas as grafias da página, inclusive “deirregularidade” e “letrônico” na nº 11 e “É valido” na nº 9. Espaços, quebras de linha e negrito/itálico foram normalizados; texto riscado e vínculos foram preservados. Nas nºs 32 e 33, o número está partido entre elementos (`3` e `2`, `3` e `3`) e a transcrição mantém `32` e `33`, sem espaço entre os algarismos. Não houve leitura dos PDFs vinculados, propostas, deliberações ou diários, nem OCR. Atos e processos apenas citados não geraram IDs. A ausência de nota não confirma vigência atual nem efeito vinculante. As demais séries do MPF continuam pendentes; a página não esgota o órgão.
 
-O lote das três séries acrescenta 79 registros e um órgão sobre a main ce5c4376: de 36.309 registros em 139 órgãos para 36.388 registros em 140 órgãos. As nove lacunas textuais do TJAM e do TJRJ permanecem. A cobertura nacional continua parcial. HTML, recibos e scripts ficam privados.
+O lote das três séries acrescenta 79 registros e um órgão sobre a main 6bcb344c, que já reúne as 14 súmulas da ANTT: de 36.323 registros em 140 órgãos para 36.402 registros em 141 órgãos. As nove lacunas textuais do TJAM e do TJRJ permanecem. A cobertura nacional continua parcial. HTML, recibos e scripts ficam privados.
 
 Na captura complementar dos 27 vínculos únicos desta página, 17 PDFs responderam HTTP 200 em duas leituras com bytes idênticos; nove vínculos responderam HTTP 404 e um falhou por limite de espera. Os PDFs foram apenas capturados, sem extração nem conferência visual neste lote. Isso não comprova ausência dos atos. O nº 27 contém vínculos para arquivos nomeados nº 27 e nº 26, e a divergência foi atribuída à página. O arquivo `enunciado_16_17.pdf` é compartilhado pelos títulos dos nºs 16 e 17; seu conteúdo ainda não foi conferido.
 
 ### MPF — séries próprias da 1ª e da 7ª CCR
 
-Também entraram os nºs 1 a 34 da 1ª Câmara, em `en-ccr1`, e os nºs 1 a 11 da 7ª Câmara, em `en-ccr7`, a partir de pares de capturas HTTP 200 de 29/10/2026 com bytes idênticos em cada série. As sequências são completas nas páginas consultadas. Os 56 parágrafos da 1ª e os parágrafos da 7ª conferem com os respectivos corpos HTML após normalização de espaços e quebras de linha.
+Também entraram os nºs 1 a 34 da 1ª Câmara, em `en-ccr1`, e os nºs 1 a 11 da 7ª Câmara, em `en-ccr7`, a partir de pares de capturas HTTP 200 de 29/10/2026 com bytes idênticos em cada série. As sequências são completas nas páginas consultadas. Os 56 parágrafos da 1ª, os 71 da 3ª e os 28 da 7ª conferem com os respectivos corpos HTML após normalização de espaços e quebras de linha. Na nº 5 da 7ª, o termo `Precedentes` está partido entre elementos e permanece uma só palavra.
 
 Na 1ª CCR permanecem os riscos das nºs 1, 7, 8, 9, 10, 12, 14, 16, 17, 21, 23, 27 e 28, e as notas de revogação ou cancelamento. Alterações expressas nas nºs 2, 3, 6, 11, 18, 19, 22, 25 e 26 não tiveram redação anterior reconstruída. A nº 1 conserva a referência à sessão em 09.10.2012 e publicação em 17.10.2002, sem conciliação das datas. Na 7ª CCR, as redações antigas das nºs 3 e 4 e suas referências ficam no mesmo registro. Processos repetidos nas referências foram mantidos. O nº 11 traz deliberação em 09/10/2025.
 
