@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.113 registros únicos de 128 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.117 registros únicos de 129 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 10 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PROCON/PB — Súmulas da Câmara Recursal](https://procon.pb.gov.br/camararecursal/sumulas) | 4 | 4 | 0 |
 | [PGM de Joinville — Súmulas Administrativas](https://www.joinville.sc.gov.br/publicacoes/sumulas-administrativas-da-procuradoria-geral-do-municipio/) | 6 | 6 | 0 |
 | [CGE/MG — Súmulas Administrativas no portal do Conrege](https://www.conrege.mg.gov.br/legislacoes/sumulas-administrativas) | 15 | 15 | 0 |
 | [TRF6 — Enunciados das Turmas Recursais Reunidas](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/jurisprudencia-4/) | 70 | 70 | 0 |
@@ -895,6 +896,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [PROCONPB](tribunais/PROCONPB/) | 4 | PROCON/PB — Súmulas da Câmara Recursal |
 | [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
 | [CGEMG](tribunais/CGEMG/) | 15 | CGE/MG — Súmulas Administrativas publicadas no Conrege |
 | [PGERS](tribunais/PGERS/) | 15 | PGE/RS — Súmulas de Jurisprudência Administrativa CEAD |
@@ -940,7 +942,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1133,3 +1135,11 @@ Os nove PDFs indicados pelos 17 vínculos da página de súmulas foram capturado
 Cada documento foi transcrito uma vez, em seção do registro de súmula que o vincula. Nos outros enunciados que apontam para o mesmo PDF, há vínculo interno para a transcrição completa e preservação da fonte oficial. Não há novos identificadores: permanecem 15 registros na CEAD/PGE-RS e 36.113 registros em 128 órgãos no acervo. Os processos e as propostas apenas mencionados nos documentos não viraram registros. Os fundamentos de votos orais que o documento de 03/09/2025 diz que serão juntados por escrito continuam sem inteiro teor recuperado.
 
 O documento de 03/09/2025 conserva “Objeto: Objeto:” e a divergência entre o processo 1103686.00043532/2022-20 na pauta e 1101176.00077928/2021-20 na deliberação. A ata de 18/03/2026 mantém “Fernada”, “manifestção” e “deliberações:1.”. Na sua segunda página, duas linhas institucionais de cabeçalho que existem na camada extraível, mas não aparecem na imagem, foram omitidas da transcrição visual. O fecho prevê assinatura posterior; nenhuma assinatura foi acrescentada. A apresentação é textual, sem reprodução gráfica de bordas, negritos e itálicos. Não há CPF, RG, matrícula ou chave de acesso nas páginas publicadas; a menção a CPF na reunião de 06/10/2021 é texto genérico. PDF, imagens e derivados continuam privados.
+
+## PROCON/PB — súmulas da Câmara Recursal
+
+A página oficial da Câmara Recursal publica quatro súmulas de 2026, números 01 a 04. Foram incorporados os títulos, os temas e os enunciados literais em órgão próprio PROCONPB. As matérias são comparecimento às convocações do PROCON/PB, contratos financeiros com idosos, cartão de crédito consignado com RMC e desistência da reclamação após decisão administrativa de primeiro grau. Essas expressões apenas identificam o assunto; o texto integral de cada enunciado permanece no registro. O PROCON/PB é distinto do CRF/PB, do TCE/PB e do TJ/PB.
+
+Duas capturas HTTP 200 em 29/10/2026 repetem os mesmos quatro títulos, temas e enunciados. Foram normalizados apenas espaços e quebras de linha. A data de publicação da página é 22/07/2026, às 16h41, e a última modificação informada é 16h43 do mesmo dia; esses metadados não foram convertidos em aprovação ou vigência individual. A página não classifica os enunciados como vigentes e não declara efeito vinculante. Não há ato de aprovação, diário ou processo individual vinculado no corpo dos verbetes. As leis citadas permanecem sem inteiro teor incorporado. Não houve OCR ou PDF neste lote; HTML e recibos ficam privados.
+
+O lote soma quatro registros e um órgão sobre a main 3f375be0: 36.117 registros em 129 órgãos. A página consultada não esgota o acervo decisório do PROCON/PB nem comprova inexistência de outros atos.
