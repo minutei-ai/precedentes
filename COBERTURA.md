@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.504 registros únicos de 152 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.566 registros únicos de 152 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRS — Encontro Estadual da Infância e Juventude de 2005, Anexo Único da Resolução 05/2007](https://www.mprs.mp.br/legislacao/resolucoes/3670/) | 62 | 62 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPMA — Resoluções 15/2022 e 16/2023 do Conselho Superior: enunciados 01–23/22 e 24/23](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
 | [MPMA — Enunciados históricos do Conselho Superior, numeração do catálogo](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
@@ -937,7 +938,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 133 | MPRS — 21 súmulas do CSMP, 20 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos e 3 proposições CONMAM |
+| [MPRS](tribunais/MPRS/) | 195 | MPRS — 21 súmulas do CSMP, 20 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1764,3 +1765,11 @@ A Resolução 3/2026 referenda a revogação dos nºs 13, 14, 52 e 54, mantendo 
 
 Com as 21 súmulas do CSMP e as séries já na main — onze CONCIDEPP, quatro CONCRIM, dois CONDIH, três enunciados e três orientações CONDECON —, o MPRS passa de 44 para 133 registros. Sobre a main `150a31fe`, com 37.415 registros em 152 órgãos, o lote soma 89 sem órgão novo: 37.504 registros em 152 órgãos. Os PRs 69 e 71 já compõem essa main. Os PRs 68, 72 e 73 continuam fora enquanto abertos. As nove lacunas iniciais do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. Nenhum CPF, RG, matrícula pessoal ou bloco de autenticação incorporado; referências a matrícula imobiliária permanecem como termos jurídicos. Diários, normas e outros atos apenas citados continuam pendentes. Apenas Markdown público, capturas e scripts privados, cobertura nacional parcial.
 
+
+## MPRS — Encontro Estadual da Infância e Juventude de 2005
+
+O Anexo Único da [Resolução 05/2007 - PGJ](https://www.mprs.mp.br/legislacao/resolucoes/3670/) acrescenta 62 itens em sete oficinas: 61 enunciados e uma moção de apoio. O ato atribui a aprovação ao encontro de maio de 2005 em Bento Gonçalves; seu fecho é de 29/10/2007 e a ficha imprime DOE:06/11/07. A numeração reinicia em cada oficina (8, 8, 8, 11, 5, 7 e 15 itens). Os identificadores incluem oficina e número; as séries do CONPPIJ e dos demais conselhos não foram fundidas por afinidade ou por referência numérica. O ato de referendo fica uma vez no índice da coleção, sem ID de resolução.
+
+O PDF oficial tem 91.800 bytes, 16 páginas e SHA-256 `e28b9e8046f6c6bb4b95169f742e6bdd8a2aa2ae61c7365420f188ed7fb70f03`; os dois arquivos capturados em 29/10/2026 são idênticos. Todas as páginas foram lidas na imagem com apoio da camada de texto. A separação por coordenadas preserva as colunas de título e texto e as cinco continuidades entre páginas. A aprovação do nº 10 da oficina 4 está na página 9. A oficina 3 nº 8 se intitula moção; o relatório que ela apoia não foi incorporado. O parêntese final ausente do título da oficina 1 nº 5, “DOS ADOLESCENTE”, “Titulo”, “válida as remissões” e “a fomentar” foram preservados. Fontes, itálico, espaços e quebras foram normalizados; brasão e cabeçalhos institucionais repetidos foram omitidos. Dois hífens de quebra foram reunidos em infanto-juvenil e não-governamentais. Não houve OCR.
+
+Referências às ementas 252 e 265 da CGMP, aos posicionamentos 5, 18 e 19 do CONPPIJ, ao enunciado 13, às leis e ao parecer da Corregedoria permanecem como citações, sem nova identidade nem conciliação por número isolado. O SPI, o diário e demais instrumentos citados não foram lidos. Não há CPF, RG, matrícula pessoal ou autenticação nos itens publicados. A independência funcional expressa no ato foi preservada; não se inferiu vigência atual nem efeito vinculante. Sobre a main `c93366ddbc135ef115a111c79726ae2200bc927f` (37.504 registros em 152 órgãos), soma 62 registros sem órgão novo: 37.566 registros em 152 órgãos; MPRS 195. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; PDF, imagens, coordenadas e recibos privados. A cobertura nacional continua parcial.

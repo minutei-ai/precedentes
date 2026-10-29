@@ -1,11 +1,12 @@
 # MPRS
 
-Ministério Público do Estado do Rio Grande do Sul. **133 registros.**
+Ministério Público do Estado do Rio Grande do Sul. **195 registros.**
 
 Súmulas do Conselho Superior, enunciados CONCIDEPP, CONCRIM, CONDIH, CONDECON, CONURB, CONMAM e urbano-ambientais, orientações CONDECON e proposições CONMAM, em séries próprias, distintos do TJRS, do TCERS, do TARFRS, da PGERS e do MPF. O catálogo não esgota outras séries ou o histórico do órgão.
 
 | Espécie | Registros |
 | --- | ---: |
+| [Encontro IJ 2005 — 61 enunciados e uma moção](encontro-ij-2005/) | 62 |
 | [Súmulas do Conselho Superior](sum-csmp/) | 21 |
 | [Enunciados CONCIDEPP](en-concidepp/) | 11 |
 | [Enunciados CONCRIM](en-concrim/) | 4 |
