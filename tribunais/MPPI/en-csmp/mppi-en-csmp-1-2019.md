@@ -18,3 +18,7 @@ Acerca da presente minuta de enunciado, a ora proponente aduz, em sede de justif
 ## Conferência e limites
 
 Texto transcrito do conteúdo HTML apresentado pelo catálogo oficial. Espaços e quebras foram normalizados; conteúdo e pontuação foram mantidos. O catálogo concatena justificativa e trecho de voto após o verbete. Esse complemento é reproduzido acima em seção própria, sem ser atribuído ao texto do enunciado nem tratado como voto ou justificativa integral da ata. O PDF vinculado não serviu de fonte para este complemento. Não foram criadas identidades para normas e processos citados. A página não informa situação atual, que não foi inferida.
+
+## Ata de aprovação e documento comum
+
+O [item 3.3.27 da ata de 06/12/2019](README.md#documento-comum-de-aprovação-em-06122019) está transcrito uma única vez no índice da série, com relatório, quatro minutas, justificativas, votos e aprovação. A ata deixa o número de cada minuta em branco; ele não foi preenchido na transcrição. O texto do catálogo acima foi preservado. A aprovação histórica não confirma vigência atual.
