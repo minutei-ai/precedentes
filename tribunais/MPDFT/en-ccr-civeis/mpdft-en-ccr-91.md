@@ -17,3 +17,21 @@ ENUNCIADO Nº 91: Na prorrogação do prazo para a conclusão do procedimento ad
 ## Conferência e limites
 
 O enunciado e os parágrafos seguintes do seu bloco foram lidos no HTML. Espaços, quebras e ênfases foram normalizados. Não houve PDF nem OCR. A numeração é a publicada, com lacunas; outras identidades apenas citadas não foram criadas. Redações anteriores ausentes não foram reconstruídas. Diários, atos, processos e precedentes apenas citados não foram lidos como documentos autônomos nem geraram identificadores. Referências processuais legítimas foram mantidas.
+
+## Página criminal — fonte adicional
+
+## Enunciados criminais em vigor
+
+- **Fonte:** [Enunciados criminais em vigor](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/15700-enunciados-criminais-em-vigor)
+- **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
+- **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
+
+ENUNCIADO Nº 91: Na prorrogação do prazo para a conclusão do procedimento administrativo é necessário que a decisão seja proferida mediante a explicitação dos motivos que levam à necessidade de prorrogação. Inteligência das Resoluções 174/CNMP/2017 e 78/2007/CSMPDFT e do Ato Deliberativo n. 01/2018.
+
+(Ref. PA n. 08190.017212/19-12 / Criminais e Cíveis Reunidas ) .
+
+## Conferência da fonte criminal e limites
+
+O corpo e todas as notas do bloco foram lidos no HTML. Espaços, quebras e ênfases foram normalizados; palavras e pontuação permanecem. Não houve PDF nem OCR. Diários, atos, processos e precedentes apenas citados não foram lidos como documentos autônomos nem geraram identificadores. Redações anteriores não publicadas não foram reconstruídas. O rótulo da página não foi convertido em classificação jurídica independente de vigência atual ou vinculação.
+
+O número, o corpo jurídico e a referência processual identificam o mesmo enunciado da página cível. A pontuação e o formato da referência divergem entre páginas e permanecem por fonte, sem novo identificador.

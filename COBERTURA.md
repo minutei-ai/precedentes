@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.088 registros únicos de 148 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.172 registros únicos de 148 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
 
@@ -923,7 +924,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [MPDFT](tribunais/MPDFT/) | 45 | MPDFT — Enunciados publicados na página cível das CCRs |
+| [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
@@ -1646,3 +1647,11 @@ A página oficial publica 45 blocos com enunciado próprio: nºs 3, 4, 5, 6, 7, 
 Notas compartilhadas de publicação permanecem onde a fonte as coloca: 118–119 no bloco 119, 116–117 no 117, 58–60 no 60, 56–57 no 57, 17–18 no 18 e 12–16, com nota da nº 15, no 16. Há remissões nos demais registros incorporados pertinentes. Os nºs 9, 12, 15 e 56 só citados não geraram identificadores. O nº 17 conserva a revogação do nº 09 atribuída ao Conselho Institucional. O nº 86, das câmaras criminais e cíveis reunidas, tem uma única identidade. Notas de nova redação e reedição ficaram nos seus contextos, sem reconstrução de versões ausentes nem inferência de vigência ou efeito vinculante.
 
 Não houve PDF nem OCR. Espaços, quebras e ênfases foram normalizados; grafias como “em18/10/2022”, “CívelEspecializada”, “JustiçaCíveisoudaFazendaPública”, “justificando- se” e “DOUn.” foram mantidas. As datas, referências processuais e notas de publicação são as da página. Não há CPF, RG, matrícula nem bloco de autenticação no texto incorporado. Diários, normas, processos e precedentes apenas citados não foram lidos autonomamente nem geraram registros. Enunciados criminais, revogados não reproduzidos, recomendações, outras séries e redações anteriores continuam pendentes. Nada acima do nº 150 foi provado inexistente. Sobre a main `88f983e353177e0c7ebabc4f7d108079747e5cae`, com 37.043 registros em 147 órgãos, este lote soma 45 registros e um órgão: 37.088 registros em 148 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. Capturas e scripts ficam privados; a cobertura nacional continua parcial.
+
+## MPDFT — enunciados criminais e histórico
+
+As páginas intituladas “Enunciados criminais em vigor” e “Enunciados criminais revogados” foram capturadas duas vezes em 29/10/2026, com bytes iguais em cada par: 120.448 bytes, SHA-256 `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`, e 48.520 bytes, SHA-256 `60d39085e82a7758b0b67ac6ed620623913cb400d796d95fddbf9d367a057473`. Foram lidos os 73 blocos da primeira e os 14 da segunda, incluindo todas as diretivas e notas. A união tem 86 identidades: o nº 102 aparece nas duas. Os nºs 86 e 91 repetem os corpos jurídicos e referências processuais da página cível, com variantes de pontuação e referência mantidas por fonte no mesmo registro. Entram 84 novos registros, sem órgão adicional em relação ao lote cível.
+
+O nº 102 conserva os 27 incisos na página “em vigor”; a página de revogados reproduz apenas VIII e XII, com as notas respectivas. Não se afirmou revogação integral. O nº 127 conserva as diretivas I a XL, inclusive IV-A, IV-B, VI-A, VI-B, VIII-A e XVI-A a XVI-C, com suas notas de atualização; elas não foram fragmentadas em identificadores. O nº 114 conserva os 21 incisos. O cabeçalho de publicação dos nºs 74 a 76 aparece após o nº 78 e antes do nº 76; a posição ficou mantida e os três registros têm remissão. O nº 72 conserva o texto histórico; o nº 97 imprime sua revogação. Grafias como “liberade”, “COV/D-19”, “Mistério Público”, “pela agente” e “3 Pacote Anticrime” não foram corrigidas. Os rótulos da página não foram convertidos em confirmação independente de vigência ou efeito vinculante.
+
+Não houve PDF nem OCR. Espaços, quebras e ênfases foram normalizados. Atos, normas, diários e processos apenas citados não geraram registros. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Enunciados ausentes, recomendações e outras séries permanecem pendentes. Com os 45 cíveis, o órgão fica em 129 registros. O lote conjunto, sobre a main `88f983e353177e0c7ebabc4f7d108079747e5cae`, soma 129 registros e um órgão: 37.172 registros em 148 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. Capturas e scripts ficam privados; a cobertura nacional continua parcial.
