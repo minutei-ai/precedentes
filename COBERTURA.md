@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.107 registros únicos de 127 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.113 registros únicos de 128 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 10 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGM de Joinville — Súmulas Administrativas](https://www.joinville.sc.gov.br/publicacoes/sumulas-administrativas-da-procuradoria-geral-do-municipio/) | 6 | 6 | 0 |
 | [CGE/MG — Súmulas Administrativas no portal do Conrege](https://www.conrege.mg.gov.br/legislacoes/sumulas-administrativas) | 15 | 15 | 0 |
 | [TRF6 — Enunciados das Turmas Recursais Reunidas](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/jurisprudencia-4/) | 70 | 70 | 0 |
 | [PGE/RS — Súmulas Administrativas CEAD](https://pge.rs.gov.br/sumulas-jurisprudencia-administrativa-comissao-especial-de-advocacia-dativa) | 15 | 15 | 0 |
@@ -894,6 +895,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
 | [CGEMG](tribunais/CGEMG/) | 15 | CGE/MG — Súmulas Administrativas publicadas no Conrege |
 | [PGERS](tribunais/PGERS/) | 15 | PGE/RS — Súmulas de Jurisprudência Administrativa CEAD |
 | [PGESP](tribunais/PGESP/) | 23 | PGE/SP — Súmulas históricas, 2ª edição de 1999, Série Documentos n. 18 |
@@ -938,7 +940,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1113,3 +1115,13 @@ Duas leituras integrais pela ferramenta web, em 29/10/2026, repetem os mesmos ca
 As nºs 5 e 8 mantêm identidades próprias, texto repetido e datas distintas de publicação. A repetição da referência ao inciso XXXIII do art. 216 permanece em ambas. O título da nº 10 mantém “ADMINSITRATIVO”; a nº 9 mantém “30/11//2020”. A nº 4 conserva o ponto isolado depois das referências. A nº 27 mantém os dois parágrafos publicados: um sobre acúmulo de cargos e EC nº 138/2025, outro igual ao texto da nº 23 sobre assédio moral. Essa justaposição foi preservada, sem atribuir correção, cancelamento ou nova redação à fonte. A data de publicação indicada para a nº 27 é 20/06/2026, página 8.
 
 O lote acrescenta 15 registros e um órgão sobre a main 6c33f6ed: 36.107 registros em 127 órgãos. A série do portal não esgota o acervo da CGE/MG nem esclarece as lacunas na numeração.
+
+## PGM de Joinville — súmulas administrativas municipais
+
+O catálogo da Prefeitura indica seis súmulas administrativas da Procuradoria-Geral do Município de Joinville, números 1 a 6, e o Decreto nº 51.862/2022 sobre o procedimento de fixação de enunciados. Os seis documentos de súmula foram incorporados integralmente quanto ao texto jurídico, referências, precedentes, cabeçalho e assinatura informada. O decreto foi preservado como fonte privada vinculada, sem novo registro. O portal apresenta as súmulas como manifestações jurídicas sobre matérias recorrentes e declara efeito vinculante para a administração direta, autárquica e fundacional; essa apresentação é atribuída ao catálogo e não foi transformada em classificação atual de vigência de cada documento.
+
+O catálogo e os sete documentos foram capturados duas vezes em 29/10/2026. Os sete pares documentais coincidem em bytes. A codificação declarada ISO-8859-1 foi mantida, sem caractere de substituição. A leitura web da nº 2 devolveu erro de decodificação; a captura direta recuperou o HTML, incluindo os requisitos cumulativos I a III e todas as referências. O HTML contém parágrafos malformados e aninhados; foram reconciliados com o parser HTML, sem duplicar os parágrafos descendentes. Apenas espaços e quebras de linha foram normalizados. Os códigos verificador e CRC de autenticação foram omitidos, mantendo nome, função, data e base normativa da assinatura. Não há CPF, RG ou matrícula no texto jurídico incorporado.
+
+As descrições do catálogo não substituem os enunciados. A nº 5 conserva o final “execução..”; a nº 3 conserva o processo “5001224-27.202.8.24.0038”, sem completar o ano. A nº 2 mantém “02 de setembro e 2015”. O extrato da página da nº 1 informa diário 2166, enquanto o corpo menciona 2165; na nº 2 o extrato informa 2206 e o corpo 2205. Ambas as informações foram preservadas. As datas de disponibilização no catálogo também não foram unificadas com as datas dos documentos ou dos extratos: nºs 1 e 2 no catálogo em 25/05/2023; nº 3 em 29/08/2023; nº 4 em 18/09/2023; nº 5 em 19/10/2023; nº 6 em 12/12/2024.
+
+As referências judiciais, administrativas e normativas continuam nos mesmos registros. Os processos e as leis citados não tiveram inteiro teor incorporado, e referências repetidas não geraram novos identificadores. O lote soma seis registros e um órgão sobre main 8a2fec75: 36.113 registros em 128 órgãos. O catálogo não comprova cobertura de toda a PGM nem atos posteriores.
