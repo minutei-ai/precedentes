@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.092 registros únicos de 126 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.107 registros únicos de 127 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 10 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CGE/MG — Súmulas Administrativas no portal do Conrege](https://www.conrege.mg.gov.br/legislacoes/sumulas-administrativas) | 15 | 15 | 0 |
 | [TRF6 — Enunciados das Turmas Recursais Reunidas](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/jurisprudencia-4/) | 70 | 70 | 0 |
 | [PGE/RS — Súmulas Administrativas CEAD](https://pge.rs.gov.br/sumulas-jurisprudencia-administrativa-comissao-especial-de-advocacia-dativa) | 15 | 15 | 0 |
 | [PGE/SP — Súmulas históricas, 2ª edição de 1999](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm) | 23 | 23 | 0 |
@@ -893,6 +894,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [CGEMG](tribunais/CGEMG/) | 15 | CGE/MG — Súmulas Administrativas publicadas no Conrege |
 | [PGERS](tribunais/PGERS/) | 15 | PGE/RS — Súmulas de Jurisprudência Administrativa CEAD |
 | [PGESP](tribunais/PGESP/) | 23 | PGE/SP — Súmulas históricas, 2ª edição de 1999, Série Documentos n. 18 |
 | [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
@@ -936,7 +938,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1101,3 +1103,13 @@ A página [Teses, Súmulas e Representativos](https://portal.trf6.jus.br/juizado
 As páginas oficiais de acompanhamento dos temas 1493 e 1494 publicam título e descrição que não estavam nos campos da coleta anterior do BNP. Esses textos e os respectivos Leading Cases foram incorporados nos registros existentes `stf-rg-1493` e `stf-rg-1494`. As duas páginas informam, em 24/10/2026, decisão pela existência de repercussão geral no Plenário Virtual - RG; o texto integral da observação desse andamento foi preservado. A admissão da repercussão geral não foi apresentada como tese de mérito. Os metadados e as datas anteriores do BNP permanecem atribuídos ao BNP.
 
 Os campos coincidem em duas leituras integrais pela ferramenta web em 29/10/2026. A captura HTTP direta retornou 400, portanto a evidência privada contém as leituras textuais e os campos conciliados, não um par de HTML bruto validado. Os PDFs das decisões e o inteiro teor dos processos permanecem pendentes. O lote não relê os demais temas do STF. Não cria registros: o total permanece 36.092 em 126 órgãos, e os registros ainda sem texto passam de 12 para 10. As lacunas do tema 1491, dos oito IRDR do TJAM e do IRDR 34 do TJRJ continuam.
+
+## CGE/MG — Súmulas Administrativas no portal do Conrege
+
+A página oficial publica 15 súmulas da Controladoria-Geral do Estado de Minas Gerais, sob a identificação CGE: números 1 a 11, 21 a 23 e 27. Foram incorporados os títulos, as áreas de concentração, os enunciados, os rótulos de publicação no Diário do Executivo e todas as referências presentes em cada bloco. Os números 12 a 20 e 24 a 26 não aparecem nessa página; isso não comprova inexistência ou cancelamento dos atos. Não foram criados registros vazios para completar a sequência. CGEMG é órgão próprio, distinto da CGU, AGE/MG, TCEMG e TJMG.
+
+Duas leituras integrais pela ferramenta web, em 29/10/2026, repetem os mesmos campos dos 15 blocos. O acesso HTTP direto retornou 403 nas tentativas preservadas; a evidência privada contém as leituras textuais e a conciliação, não um par de HTML bruto validado. Não houve OCR ou PDF neste lote. Os diários indicados, os pareceres, as notas jurídicas e os demais atos referidos não tiveram inteiro teor incorporado nem geraram registros adicionais. Datas do diário são as informadas pela página; nenhuma nota foi convertida em confirmação de vigência atual ou efeito vinculante.
+
+As nºs 5 e 8 mantêm identidades próprias, texto repetido e datas distintas de publicação. A repetição da referência ao inciso XXXIII do art. 216 permanece em ambas. O título da nº 10 mantém “ADMINSITRATIVO”; a nº 9 mantém “30/11//2020”. A nº 4 conserva o ponto isolado depois das referências. A nº 27 mantém os dois parágrafos publicados: um sobre acúmulo de cargos e EC nº 138/2025, outro igual ao texto da nº 23 sobre assédio moral. Essa justaposição foi preservada, sem atribuir correção, cancelamento ou nova redação à fonte. A data de publicação indicada para a nº 27 é 20/06/2026, página 8.
+
+O lote acrescenta 15 registros e um órgão sobre a main 6c33f6ed: 36.107 registros em 127 órgãos. A série do portal não esgota o acervo da CGE/MG nem esclarece as lacunas na numeração.
