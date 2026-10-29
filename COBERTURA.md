@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.220 registros únicos de 133 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.223 registros únicos de 134 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
 | [ARCE — Controle de Súmulas](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf) | 25 | 25 | 0 |
 | [ANEEL — Súmulas](https://www.gov.br/aneel/pt-br/centrais-de-conteudos/sumulas) | 17 | 17 | 0 |
 | [PGE/AP — Súmulas Administrativas](https://pge.portal.ap.gov.br/conteudo/legislacao/sumulas) | 18 | 18 | 0 |
@@ -892,6 +893,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [ANAC](tribunais/ANAC/) | 3 | ANAC — Súmulas administrativas, fichas e atos de aprovação |
 | [ARCE](tribunais/ARCE/) | 25 | ARCE — Controle de Súmulas |
 | [ANEEL](tribunais/ANEEL/) | 17 | ANEEL — Assuntos e notas do catálogo de súmulas |
 | [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
@@ -950,7 +952,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-ARCE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ANAC, ARCE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1221,3 +1223,21 @@ As notas do indexador registram alterações nas nºs 005/2007 (Portaria 1.250/2
 A página informa publicação em 27/01/2022 e modificação em 02/03/2026. Essas datas não foram atribuídas aos atos. A descrição da própria página apresenta as súmulas como diretrizes que auxiliam a Diretoria, representando entendimento pacífico, reiterado e uniforme. Não foi inferida vigência atual nem vinculação jurídica de cada enunciado.
 
 Os 17 PDFs de portarias vinculados no catálogo, as quatro portarias originais apenas mencionadas nas notas, os processos e normas citados e o conteúdo da plataforma Leis.org indicada pelo órgão permanecem sem inteiro teor incorporado neste lote. O texto publicado é o assunto do catálogo, não a transcrição desses documentos. A ausência de outro número na página não comprova inexistência. Sobre a main 9daaa3bf, o lote soma 17 registros e um órgão: 36.195 registros em 132 órgãos. As nove lacunas textuais anteriores permanecem. A cobertura nacional e o acervo da Agência continuam parciais.
+
+## ANAC — súmulas administrativas
+
+A Agência Nacional de Aviação Civil entra como órgão próprio (ANAC). Não é órgão judicial e não se confunde com a ANEEL, a ANM nem a ANS. O catálogo [Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) informa publicação em 28/06/2019 13h21 e última modificação em 08/09/2022 11h27. Essas datas são da página. A modificação não foi usada como vigência jurídica nem como prova de que o rol esteja exaurido em 2026.
+
+Duas capturas HTTP 200 em 29/10/2026 são idênticas, com 63.404 bytes e SHA-256 `4123b78cdeac081e428b761043042a4eaeb8de782cbe361067b5901325971971`. O catálogo lista três números, sem outro verbete na tabela: 003/2020, 002/2019 e 001/2019. O salto de 002/2019 para 003/2020 é a numeração publicada. Não foi criado número intermediário. Cada linha foi conferida com a ficha e com o ato de aprovação, não só com a célula do enunciado.
+
+A nº 001/2019 e a nº 002/2019 são aprovadas pela Decisão nº 73, de 24 de maio de 2019, publicada, segundo a decisão e as fichas, no DOU de 30/05/2019, Seção 1, página 52. O PDF tem duas páginas e 119.159 bytes, SHA-256 `6314044daef5cb1381b47b0e8607d620088e2987291a400fd24f48fe83763222`, nas duas capturas. A nº 003/2020 é aprovada pela Resolução nº 589, de 30 de setembro de 2020. O PDF da 19ª Reunião Deliberativa tem duas páginas e 181.412 bytes, SHA-256 `6621fd22dbf701c7a85bd32cfd412d68e69c96bd3afcb1c841559f6e2cf33cbc`, nas duas capturas. A camada textual dos dois PDFs foi conferida na imagem de cada página. Não houve OCR. O endereço de impressão, o QR, o código verificador e o código CRC da resolução foram omitidos.
+
+O enunciado da nº 003/2020 é uma célula com duas orações. A segunda determina a cobrança retroativa da TFAC nas auditorias dos cinco anos anteriores à Decisão da Superintendência de Infraestrutura Aeroportuária (SEI! 3517885), de 20 de setembro de 2019, sem gravames ou punições. Catálogo, ficha, HTML da resolução e PDF coincidem nesse enunciado, inclusive a aspa de abertura curva e a aspa reta de fechamento. *AVSEC* está em itálico no ato e em tipo comum no catálogo e na ficha. O art. 1º da resolução grafia o nome da taxa com iniciais maiúsculas e aspas curvas, diferente do enunciado em maiúsculas.
+
+A ficha da nº 003/2020 escreve “Lei n o 11.182”, com espaço. O ato escreve o ordinal. O PDF assina Juliano Alcântara Noman como Diretor-Presidente; a página HTML da resolução o identifica como Diretor-Presidente Substituto e acrescenta a linha de publicação no DOU de 2 de outubro de 2020, Seção 1, página 70, que não aparece no PDF. A ficha da nº 003/2020 informa modificação em 19/03/2024 12h57 e não descreve a alteração. O título da Decisão nº 73 conserva a vírgula em “DE 24, DE MAIO”; o anexo da mesma decisão não a tem. O endereço da ficha da nº 002/2019 contém `sumula-administrativa-no-001-2019-1`. Na base legal da nº 002/2019, a Resolução nº 25 vem com “inciso III e IV” e a Resolução nº 472 com “incisos III e IV”. No enunciado da nº 001/2019 permanece o espaço antes da vírgula em “inciso I ,”.
+
+A busca do portal por “Súmula Administrativa”, em 29/10/2026, devolveu 55 itens. Os únicos atos normativos cujo descritivo é a aprovação destas súmulas são a Decisão nº 73/2019 e a Resolução nº 589/2020. Os demais itens são votos, relatórios, pautas e normas de processo sancionador que contêm a expressão ou tratam de matéria vizinha. A página de legislação em gov.br/anac redireciona ao acervo Plone, cujo menu aponta para o mesmo catálogo. A consulta HTTP à Imprensa Nacional devolveu a página de busca, sem a lista de resultados. O texto do DOU não foi incorporado além do que as fichas e os atos declaram. Nenhuma dessas buscas prova que não exista súmula fora do índice.
+
+Os arts. 2º dizem que os atos entram em vigor na data da publicação. Essa frase não foi convertida em vigência atual nem em efeito vinculante. Não há nota de revogação nas três fichas. A ausência da nota não confirma vigência nem inexistência de ato posterior. Leis, resoluções, o decreto-lei e os processos apenas citados permanecem nos registros e não geraram identificadores. A decisão que aprova as nºs 001/2019 e 002/2019 foi transcrita nos dois registros; isso não criou um terceiro identificador.
+
+O lote acrescenta 3 registros e um órgão. A main daa98eff já reúne as 25 súmulas da ARCE, as 17 da ANEEL e as nove lacunas textuais do TJAM e do TJRJ: 36.220 registros em 133 órgãos. Com este lote o acervo passa a 36.223 registros em 134 órgãos. As nove lacunas anteriores permanecem. A série não esgota o acervo da ANAC e a cobertura nacional continua parcial.
