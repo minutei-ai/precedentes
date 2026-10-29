@@ -2,7 +2,7 @@
 
 **36.185 registros únicos de 131 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-9 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 ## Fontes diretas
 
@@ -1170,6 +1170,14 @@ Foram preservados enunciado, referências, datas, notas e assinaturas legíveis.
 
 O lote acrescenta 43 registros e um órgão. A main 7cf00bac já reúne a transcrição das 11 páginas CEAD, as quatro súmulas do PROCON/PB e o inteiro teor das 18 páginas do acórdão do Tema 1491 do STF, sem novos registros nesse complemento: 36.117 registros em 129 órgãos. Com este lote o acervo passa a 36.160 registros em 130 órgãos. A categoria não esgota os pareceres da PGE/AL nem esclarece as nºs 10, 16 e 18.
 
+## Conferência das nove lacunas textuais — TJAM e TJRJ
+
+Em 29/10/2026, duas consultas ao BNP/Pangea para os IRDR do TJAM devolveram os mesmos oito registros sem questão, tese, ementa ou decisão textual: 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010. A resposta informa 41 IRDR e contém os 41 na primeira página; este complemento se limita aos oito registros indicados. Eles trazem histórico e, em seis casos, um item de suspensão, agora publicados com atribuição ao BNP. Nos registros 6510 e 6610 o campo de suspensões veio nulo, sem inferência de inexistência de ordem judicial.
+
+Os oito registros informam situação principal “Não admitido” e alerta “não admitido”, mas seu item histórico informa “Admitido”, admissão em 2025-12-17, julgamento e publicação em 2026-05-29, e criação do item em 2026-06-10T00:00:00.000-03:00. Essa divergência não foi conciliada por suposição, nem as datas foram usadas para escolher uma situação jurídica atual. As suspensões são apresentadas como dados do cadastro, sem confirmação dos atos judiciais. Sete registros apontam para o mesmo processo 00017771720198043801; o 7010 não trouxe paradigma. A repetição não levou à fusão ou exclusão de identificadores.
+
+O registro IRDR 34 do TJRJ foi relido duas vezes na página 4 da consulta institucional. Os mesmos campos textuais continuam vazios e a referência de processo também está vazia. O total 56 informado pela resposta não significa revisão das outras páginas neste lote. As capturas e os recibos permanecem privados. Não houve recuperação de matéria jurídica nem novo registro: as nove lacunas continuam e o total segue em 36.160 registros de 130 órgãos sobre a main 150d8677.
+
 ## ARCE — enunciados da súmula
 
 A Agência Reguladora do Estado do Ceará entra como órgão próprio (ARCE). Não é o TJCE, o TCECE nem a PGECE. A página [Súmulas](https://www.arce.ce.gov.br/download/sumulas/) respondeu HTTP 200 em 29/10/2026 e publica um único arquivo, [Controle de Súmulas ARCE](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf). A modificação informada pela página é 2021-03-05T12:26:53+00:00. O diretório `2018/11` do endereço é o caminho de publicação, não a data de atualização jurídica. O PDF cita atos até 11/02/2021.
@@ -1182,4 +1190,4 @@ Foram preservados enunciados, datas, parênteses, aspas e as notas impressas. A 
 
 Apenas espaços de justificação e quebras de linha foram normalizados. Resoluções da ANEEL e da ARCE, autos de infração, a COELCE, diários e processos apenas citados permanecem nos verbetes e não geraram registros. As datas são as impressas. Nenhuma nota foi convertida em confirmação de vigência atual, efeito vinculante ou inexistência de ato posterior. Não há CPF, RG, matrícula ou conta neste PDF. O controle não esgota outras séries da ARCE.
 
-O lote acrescenta 25 registros e um órgão sobre a main 150d8677: 36.185 registros em 131 órgãos. Os nove registros ainda sem texto não foram alterados.
+O lote acrescenta 25 registros e um órgão. A main c482cb22 mantém 36.160 registros em 130 órgãos e as nove lacunas textuais, sem novo registro. Com este lote o acervo passa a 36.185 registros em 131 órgãos.
