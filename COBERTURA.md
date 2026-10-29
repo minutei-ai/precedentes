@@ -2,7 +2,7 @@
 
 **36.092 registros únicos de 126 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+10 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 ## Fontes diretas
 
@@ -1095,3 +1095,9 @@ Sete números informam redação alterada e não trazem a redação anterior: 32
 Grafias e falhas de fechamento foram mantidas. A nº 2 não fecha o parêntese da nota de cancelamento. A nº 19 tem espaço antes do ponto final. A nº 22 traz “aplica se”, sem hífen. A nº 25 traz “parágrafoúnico”. A nº 44, na seção de cancelados, usa “44.” e “2.225 -45”, e não termina com ponto. A nº 57 não tem ponto final. A nota da nº 59 é “*.(Cancelado em 10.12.2025)”; o texto cancelado começa em “59-” e termina em “1988..”. Também foram mantidas “art. 1º -F”, “art.29-C”, “art. 24- A”, “boa- fé”, “421 -STJ” e “Procuradoria -Geral”. A referência “AgREsp 910081/SP – STJ” da nº 8, o Tema 629 da nº 69 e as súmulas 421 do STJ e 689 do STF citadas nas nºs 58 e 59 permanecem nos verbetes e não geraram registros.
 
 A página [Teses, Súmulas e Representativos](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/turma-regional-de-uniformizacao-2/teses-e-representativos/) publica teses e representativo da Turma Regional de Uniformização. Essa série não foi incorporada. A página [Atos Normativos - TR](https://portal.trf6.jus.br/atos-normativos-tr/) reúne portarias e regimentos de organização das turmas; esses atos não foram lidos como enunciados. Atas, diários e o ato principal do ANEXO I continuam pendentes. O lote não esgota as demais séries do TRF6. O lote acrescenta 70 registros e nenhum órgão. Com a main d91038a3, que já reúne a PGE/SP histórica e as 15 súmulas CEAD da PGE/RS, o acervo passa a 36.092 registros de 126 órgãos.
+
+## STF — recuperação dos temas 1493 e 1494
+
+As páginas oficiais de acompanhamento dos temas 1493 e 1494 publicam título e descrição que não estavam nos campos da coleta anterior do BNP. Esses textos e os respectivos Leading Cases foram incorporados nos registros existentes `stf-rg-1493` e `stf-rg-1494`. As duas páginas informam, em 24/10/2026, decisão pela existência de repercussão geral no Plenário Virtual - RG; o texto integral da observação desse andamento foi preservado. A admissão da repercussão geral não foi apresentada como tese de mérito. Os metadados e as datas anteriores do BNP permanecem atribuídos ao BNP.
+
+Os campos coincidem em duas leituras integrais pela ferramenta web em 29/10/2026. A captura HTTP direta retornou 400, portanto a evidência privada contém as leituras textuais e os campos conciliados, não um par de HTML bruto validado. Os PDFs das decisões e o inteiro teor dos processos permanecem pendentes. O lote não relê os demais temas do STF. Não cria registros: o total permanece 36.092 em 126 órgãos, e os registros ainda sem texto passam de 12 para 10. As lacunas do tema 1491, dos oito IRDR do TJAM e do IRDR 34 do TJRJ continuam.
