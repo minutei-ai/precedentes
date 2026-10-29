@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.388 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.716 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,9 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
+| [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
+| [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
 | [CJF — I Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 137 | 137 | 0 |
 | [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
 | [CJF — I Jornada de Direito Administrativo](https://www.cjf.jus.br/enunciados/) | 40 | 40 | 0 |
@@ -839,6 +842,14 @@ A API de precedentes do TJRJ foi conferida em seis páginas de IRDR e uma de IAC
 
 Ressalvas, cancelamentos parciais e histórico são mantidos no texto. Não classificamos a vigência automaticamente por palavras isoladas. Os dados abertos do STJ têm 10 linhas de processos sem relação verificável com o catálogo de temas; não foram transformadas em precedentes por suposição.
 
+## FONAJE — enunciados cíveis, criminais e da Fazenda Pública
+
+O FONAJE é o emissor dos 328 enunciados incorporados em três séries próprias: 178 cíveis, 133 criminais e 17 da Fazenda Pública. As páginas são hospedadas no CNJ. O [FONAJEF](tribunais/FONAJEF/) é outra entidade e permanece em seus registros próprios. O mesmo número em áreas FONAJE diferentes recebe identificador distinto; referências a outras séries ou órgãos não criaram registros.
+
+O HTML jurídico foi capturado duas vezes por página. Os pares cíveis e da Fazenda Pública diferem no HTML externo; seus 178 e 17 blocos, respectivamente, coincidem após normalização. As duas capturas criminais têm bytes iguais e os 133 blocos coincidem. Tamanhos e SHA-256 de cada captura, comparação e normalização estão nos [índices do FONAJE](tribunais/FONAJE/README.md). Não houve PDF nem OCR.
+
+A contagem de 177 atribuída ao índice cível diverge dos 178 blocos HTML, numerados de 1 a 178, inclusive o Enunciado 178 atribuído ao 57º Encontro de 2026. Nas capturas, 177 blocos são elementos `<p>` e o nº 174 aparece em um `<div>`; por isso a diferença é verificável na estrutura do HTML, embora não haja um contador textual separado de 177. Essa divergência fica registrada sem afirmar completude histórica. Cancelamentos, revogações, substituições, notas de nova redação e aprovações permanecem como impressos. A coleta não infere vigência atual ou efeito vinculante. A cobertura nacional continua parcial.
+
 ## TJMMG — súmulas do catálogo próprio
 
 O catálogo oficial do TJMMG acrescenta nove súmulas, nºs 1 a 9, com textos, referências legislativas, precedentes e notas de aprovação e publicação. Duas leituras em 28/10/2026 coincidem no conteúdo de todos os verbetes. A página informa atualização editorial em 12/03/2026; essa data não foi usada como data dos atos. As súmulas 1 e 3 trazem aprovação em 20/10/2025 e publicação em 04/12/2025. A nota coletiva de aprovação das súmulas 1 a 5 em 2009 aparece junto da nº 5 e foi preservada nesse local, sem substituir as notas individuais. As repetições de parênteses nas notas das nºs 2 e 4 e a grafia “apovada” da nº 4 foram mantidas. O catálogo não classifica expressamente a vigência de cada verbete. As redações históricas substituídas, os atos de aprovação, os diários e os processos citados não foram incorporados, e as demais espécies de precedentes do tribunal continuam pendentes.
@@ -963,6 +974,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
 | [CJF](tribunais/CJF/) | 238 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo e I Civil |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
@@ -1093,7 +1105,7 @@ A compilação anterior [SUMULAS_ATUALIZADAS.pdf](https://www.tjba.jus.br/juizad
 
 O caderno não classifica vigência em campo próprio. A ausência de nota de revogação não confirma vigência. As datas de sessão ficam no texto e não foram convertidas em atualização individual. A data de criação do arquivo, 08/06/2026, é do PDF, não dos atos. A composição de magistrados, o calendário de sessões e os telefones da página institucional não foram transformados em precedentes.
 
-Os enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF saíram desta lista: estão na seção seguinte. Permanecem pendentes, sem contagem no lote da Turma de Uniformização e sem contagem no lote destes enunciados: as [recomendações do NUCOF](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/RECOMENDACOES_NUCOF.pdf) e as notas técnicas [01/2021](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_01_NUCOF_2021.pdf), [02/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_02_NUCOF_2024.pdf) e [03/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_03_NUCOF_2024.pdf); os enunciados do FONAJE vinculados na mesma página, [cíveis](https://www.cnj.jus.br/enunciados-civeis/), [criminais](https://www.cnj.jus.br/enunciados-criminais/) e de [Fazenda Pública](https://www.cnj.jus.br/enunciados-da-fazenda-publica/); o PDF de [precedentes vinculantes do STF, STJ e TST](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/2025/10/precedentes_vinculantes_STF_STJ_TST.pdf); as pautas e atas de sessão; os diários e os processos apenas citados. Esses documentos não foram lidos nem contados como súmulas desta série. No menu da página consolidada, o rótulo da Turma de Uniformização aponta para `SUMULAS_ATUALIZADAS_TU-1.pdf`; no corpo, o mesmo rótulo aponta para `SUMULAS_ATUALIZADAS_TU.pdf`. Os dois arquivos são idênticos.
+Os enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF saíram desta lista: estão na seção seguinte. Permanecem pendentes, sem contagem no lote da Turma de Uniformização e sem contagem no lote destes enunciados: as [recomendações do NUCOF](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/RECOMENDACOES_NUCOF.pdf) e as notas técnicas [01/2021](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_01_NUCOF_2021.pdf), [02/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_02_NUCOF_2024.pdf) e [03/2024](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/ATAS_NUCOF/NOTA_TECNICA_No_03_NUCOF_2024.pdf); o PDF de [precedentes vinculantes do STF, STJ e TST](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/2025/10/precedentes_vinculantes_STF_STJ_TST.pdf); as pautas e atas de sessão; os diários e os processos apenas citados. Os enunciados do FONAJE foram lidos diretamente nas três páginas do CNJ e estão em séries próprias; não foram contados como registros do TJBA. Os demais documentos não foram lidos nem contados como súmulas desta série. No menu da página consolidada, o rótulo da Turma de Uniformização aponta para `SUMULAS_ATUALIZADAS_TU-1.pdf`; no corpo, o mesmo rótulo aponta para `SUMULAS_ATUALIZADAS_TU.pdf`. Os dois arquivos são idênticos.
 
 ## TJBA — enunciados do Colégio de Magistrados, das Turmas Recursais Reunidas e do NUCOF
 
@@ -2044,7 +2056,7 @@ Delta sobre `aab75242`: 12 registros e nenhum órgão; 38.180 registros em 162 �
 
 Incorporados os 40 enunciados numerados 1–40 da pesquisa `jornada.id=201`, em série própria `en-administrativo-i`. Os 40 cartões e as 40 fichas individuais foram conferidos; as 80 respostas registram HTTP 200, e tamanhos e SHA-256 foram recalculados dos arquivos. Todos os campos foram comparados em cada par, e os corpos coincidem com a listagem. As 40 fichas não exibem justificativa nem redação anterior preenchida; a ausência não confirma vigência. O campo anterior permanece associado ao estilo de texto riscado do CSS oficial, sem aplicá-lo ao corpo atual. Não há remissões a PDFs nos cartões ou fichas consultados. Metadados, referências legislativas e palavras de resgate foram preservados. Sem atualização normativa, inferência de vinculação ou exaustividade; sem duplicar as séries Civil, Tributário ou Equidade Racial.
 
-Delta sobre `58999d36`: 40 registros, nenhum órgão adicional; 38.388 registros em 163 órgãos, CJF 238. O PR 104/FONAJE está sob revisão independente e não foi contado. O histórico MPAL integrado no PR 101 mantém delta zero e suas 80 transcrições sem novos IDs. Capturas e recibos permanecem privados; somente Markdown no repositório.
+Delta sobre a main `aff5e3b4`: 40 registros e nenhum órgão adicional; 38.716 registros em 164 órgãos, CJF 238. O PR 104/FONAJE foi integrado à main antes da atualização desta branch e compõe a contagem-base, sem integrar o delta deste lote. O histórico MPAL integrado no PR 101 mantém delta zero e suas 80 transcrições sem novos IDs. Capturas e recibos permanecem privados; somente Markdown no repositório.
 
 ## MPRN — assentos do CSMP
 
