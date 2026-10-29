@@ -5,7 +5,7 @@
 - **Espécie:** Enunciado
 - **Identificador:** `mprs-en-conmam-9`
 - **Identidade:** O número é o impresso na fonte, sem acrescentar ano não impresso ao número do enunciado.
-- **Situação atribuída à fonte:** Redação alterada expressamente pelo art. 1º da Resolução 02/2018. Texto anterior não publicado nesta fonte.
+- **Situação atribuída à fonte:** Redação alterada expressamente pelo art. 1º da Resolução 02/2018. A redação de 2011 permanece neste registro.
 - **Fonte:** [RESOLUÇÃO 02/2018 - PGJ](https://www.mprs.mp.br/legislacao/resolucoes/12851/)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200, 35249 e 35249 bytes; contêiner jurídico completo idêntico.
 - **SHA-256:** `978f3fff4ac73cd04e2f415d9e40964984c43cf3d1bf2fd53032642804801ea8` e `978f3fff4ac73cd04e2f415d9e40964984c43cf3d1bf2fd53032642804801ea8`.
