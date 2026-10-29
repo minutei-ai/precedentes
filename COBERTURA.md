@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.204 registros únicos de 149 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.208 registros únicos de 149 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
+| [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
 | [MPRS — Enunciados CONCIDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
@@ -926,7 +928,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 32 | MPRS — 21 súmulas do CSMP e 11 enunciados CONCIDEPP |
+| [MPRS](tribunais/MPRS/) | 36 | MPRS — 21 súmulas do CSMP, 11 enunciados CONCIDEPP e 4 CONCRIM |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1674,3 +1676,11 @@ As oito páginas foram lidas integralmente. Seis pares são idênticos em bytes;
 A ficha da Resolução 01/2022 a declara revogada pela 04/2023. O art. 3º da 04/2023 revoga a resolução que referendou 1 e 2; o art. 2º declara a revogação do nº 4. A nota da página 09/2022, contudo, menciona “03/2023-PGJ” e aponta à ficha 04/2023, divergência preservada. O nº 5 conserva o histórico e a alteração expressa da 03/2023. A Resolução 01/2023 imprime fecho em 12/01/2022 e DEMP em 18/01/2023. Nos atos de 2025, CONCIDEPPFAM aparece na ementa e CONCIDEPP nos considerandos. A ficha 7/2025 é rotulada CONCIDEPP e o título no corpo PGJ. “artigo17-B”, “Público,haja” e “atingindo,também” do nº 3 permanecem literais.
 
 O art. 1º resguarda a independência funcional nos referendos, mantida no documento comum. Nenhuma ausência de nota foi convertida em vigência atual ou efeito vinculante. Diários, pareceres, processos, leis e precedentes apenas citados ficam pendentes. Não há CPF, RG, matrícula ou bloco de autenticação incorporado; nomes e funções públicos permanecem. O MPRS passa de 21 para 32 registros sem órgão novo. Sobre a main `51b08ae6`, com 37.193 registros em 149 órgãos, o lote soma 11: 37.204 registros em 149 órgãos. MPDFT 129, MPF 430, MPCE 34, MPSC 17 e MPGO 13 permanecem. As nove lacunas iniciais do BNP continuam. Capturas e scripts ficam privados; cobertura nacional parcial.
+
+## MPRS — quatro enunciados CONCRIM
+
+As Resoluções 01/2008 (ficha 3722), 05/2022 (15505), 12/2022 (15712) e 15/2022 (16039), ligadas pelo catálogo oficial, foram capturadas duas vezes em 29/10/2026 e lidas integralmente. Os quatro contêineres jurídicos `#conteudo1` coincidem em par. O anexo de 2008 imprime Enunciado nº 1; os três de 2022 não têm número e receberam identificadores com o ato de referendo, sem criar sequência. Não houve fusão por tema. Os quatro atos completos ficam uma única vez no índice da série e não ganharam IDs separados.
+
+A Resolução 15/2022 imprime “causa de aumento de pena de ?”, preservado sem completar fração ou percentual. A 05/2022 cita encontro em 25/11/2021; a 12/2022, reunião em 01/04/2022; a 15/2022, reunião em 28/08/2022. Os fechos e as publicações permanecem nos atos. A cláusula de independência funcional foi preservada, sem inferir vigência atual ou efeito vinculante. Nenhuma ausência de nota de revogação foi convertida em vigência atual. Não houve PDF nem OCR. Texto, nomes e funções públicos mantidos; nenhum CPF, RG, matrícula ou bloco de autenticação incorporado. Atos e precedentes apenas citados não viraram registros.
+
+Este complemento soma quatro registros sem órgão novo. Junto dos onze CONCIDEPP, o PR soma quinze: sobre a main `51b08ae6`, de 37.193 registros em 149 órgãos, o acervo fica em 37.208 registros e 149 órgãos, MPRS 36. As 21 súmulas do CSMP permanecem. As nove lacunas iniciais do BNP continuam; outras séries e atos, incluindo os demais documentos do catálogo capturados, aguardam leitura e integração. A cobertura nacional continua parcial; evidências e scripts privados.
