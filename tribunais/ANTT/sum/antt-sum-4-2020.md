@@ -39,7 +39,7 @@ A nota de revogação está no corpo, antes do enunciado, e aponta a Deliberaç�
 
 Duas capturas HTTP 200 de `abrirTextoAto`, em 29/10/2026, são idênticas em bytes e no SHA-256 acima. O corpo foi lido em ISO-8859-1, apesar da declaração UTF-8. As entidades HTML foram decodificadas. O primeiro parágrafo do cabeçalho não se fecha antes do seguinte; ministério e agência ficam em linhas separadas. Quebras de linha dentro do mesmo parágrafo foram reduzidas a espaço. O aviso final está em itálico vermelho, 8pt, Verdana; a transcrição conserva o itálico e omite a cor vermelha, o tamanho de 8pt e a família Verdana.
 
-A página HTML não é o Diário Oficial certificado. A linha de publicação é a do ato. A data da consulta não é a data do ato. O bloco de histórico da página não trouxe redação anterior. A consulta da mesma identidade com `seqAto=001` devolveu HTTP 200, o texto “Este ato está sendo processado.” e “Carregando...”, sem cabeçalho de súmula e sem selo. Essa resposta não foi tratada como outra redação. Ela também não prova ausência de ato fora deste ano, deste órgão e desta sequência.
+A página HTML não é o Diário Oficial certificado. A linha de publicação é a do ato. A data da consulta não é a data do ato. O bloco de histórico da página não trouxe redação anterior. Não há captura retida que comprove redação de outra sequência; essa recuperação permanece pendente.
 
 A URL de compartilhamento `UrlPublicasAction`, ação `abrirAtoPublico`, devolveu uma casca intitulada ANTTlegis, sem o corpo da súmula. Essa casca não entrou como segunda cópia do texto.
 
