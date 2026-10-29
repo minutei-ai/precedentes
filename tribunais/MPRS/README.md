@@ -1,11 +1,12 @@
 # MPRS
 
-Ministério Público do Estado do Rio Grande do Sul. **144 registros.**
+Ministério Público do Estado do Rio Grande do Sul. **206 registros.**
 
-Súmulas do Conselho Superior, enunciados CONCIDEPP, CONCRIM, CONDIH, CONDECON, CONURB, CONMAM, CONPPIJE/CONPPIJEFAM, CONEVCM e CONDEPP, enunciados urbano-ambientais, orientações CONDECON e proposições CONMAM em séries próprias. O MPRS é distinto do TJRS, do TCERS, do TARFRS, da PGERS e do MPF; o catálogo não esgota outras séries ou o histórico do órgão.
+Súmulas do Conselho Superior, enunciados CONCIDEPP, CONCRIM, CONDIH, CONDECON, CONURB, CONMAM, CONPPIJE/CONPPIJEFAM, CONEVCM e CONDEPP, enunciados urbano-ambientais, orientações CONDECON, proposições CONMAM e 62 itens do Encontro Estadual da Infância e Juventude de 2005 em séries próprias. O MPRS é distinto do TJRS, do TCERS, do TARFRS, da PGERS e do MPF; o catálogo não esgota outras séries ou o histórico do órgão.
 
 | Espécie | Registros |
 | --- | ---: |
+| [Encontro IJ 2005 — 61 enunciados e uma moção](encontro-ij-2005/) | 62 |
 | [Súmulas do Conselho Superior](sum-csmp/) | 21 |
 | [Enunciados CONPPIJE](en-conppije/) | 4 |
 | [Enunciados CONPPIJEFAM](en-conppijefam/) | 2 |
