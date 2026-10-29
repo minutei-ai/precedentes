@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.259 registros únicos de 135 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.267 registros únicos de 136 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CMRI — Súmulas dos catálogos de vigentes e revogados](https://www.gov.br/casacivil/pt-br/assuntos/colegiados/comissao-mista-de-reavaliacao-de-informacoes-cmri/normativos-vigentes) | 8 | 8 | 0 |
 | [CNIC — Enunciados de súmula administrativa](https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/sumulas-da-comissao-nacional-de-incentivo-a-cultura) | 33 | 33 | 0 |
 | [CADE — Súmulas históricas do catálogo](https://www.gov.br/cade/pt-br/acesso-a-informacao/normas-e-legislacao/sumulas) | 6 | 6 | 0 |
 | [ARCE — Controle de Súmulas](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf) | 25 | 25 | 0 |
@@ -894,6 +895,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CMRI](tribunais/CMRI/) | 8 | CMRI — Nove PDFs oficiais, com histórico da nº 3 |
 | [CNIC](tribunais/CNIC/) | 33 | CNIC / Ministério da Cultura — Enunciados e notas do HTML oficial |
 | [CADE](tribunais/CADE/) | 6 | CADE — PDFs das súmulas históricas nºs 4 a 9 |
 | [ARCE](tribunais/ARCE/) | 25 | ARCE — Controle de Súmulas |
@@ -954,7 +956,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-ARCE, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1245,3 +1247,15 @@ Todos os nºs 1 a 31 têm nota expressa de revogação na página, com textos hi
 Os três parágrafos da nº 32 foram preservados. Na nº 33 foram mantidas as sete ações de acessibilidade, as sete sugestões de temas de oficina e o parágrafo final. Atos e diários vinculados, instruções normativas, portarias, decisões do TCU e demais deliberações apenas citados continuam sem inteiro teor autônomo incorporado e não geraram IDs adicionais. A ausência de outra numeração nesta página não comprova inexistência; a ausência de nota de revogação não comprova vigência nem vinculação individual. CNIC é órgão administrativo próprio e a página não esgota seu acervo.
 
 O lote acrescenta 33 registros e um órgão sobre a main bd776daa: 36.259 registros em 135 órgãos. As nove lacunas textuais anteriores permanecem e a cobertura nacional continua parcial. Capturas e scripts ficam privados.
+
+## CMRI — súmulas e histórico
+
+Os catálogos oficiais da Casa Civil, Normativos Vigentes e Normativos Revogados, publicam oito identidades em nove documentos de súmulas: nºs 1 a 7/2015, incluindo duas redações da nº 3, e nº 8/2018. Catálogos e vínculos foram capturados duas vezes em 29/10/2026. Os nove pares de PDFs coincidem em bytes e SHA-256 e somam 12 páginas físicas, todas conferidas visualmente. A nº 3 mantém a redação publicada em 27/01/2015 e a alteração de 15/03/2018 no mesmo ID. A nº 8 está no catálogo de revogados; não foi reconstruído nem datado seu ato de revogação.
+
+As nºs 1 a 6 e a alteração da nº 3 são impressões web da Imprensa Nacional feitas em 22/05/2026. Esse carimbo não foi convertido em data do ato. O aviso de que o conteúdo não substitui a versão certificada foi registrado como limite. Foram preservadas as irregularidades visíveis de palavras unidas ou quebradas, inclusive “seuRegimento”, “dedezembro”, “res postade”, “responsa bilidadeno”, “su periores,independente”, “clas sificadora,cabendo”, “classifi catório”, “for mulaçãode”, “tânciasadministrativas” e “so licitada,o”. As impressões das nºs 1, 2, 4, 5 e 6 não trazem justificativa; ela não foi reconstruída.
+
+A nº 7 está nas páginas 4 a 6 do DOU de 08/06/2015: coluna direita da primeira página, três colunas da segunda e coluna esquerda da terceira até os membros. A nº 8 está na página 3 do DOU de 24/07/2018, da coluna central inferior para a direita superior. Apenas o ato da CMRI foi delimitado; os atos vizinhos ficaram fora. A linha final da coluna central da nº 8 foi transcrita da imagem porque ficou fora do recorte de extração. Justificativas e membros desses atos foram preservados; a citação “Lei nº 12.527/2012” na conclusão da nº 7 é a do impresso. Destaques e sublinhados não foram reproduzidos, e os marcadores de coluna são editoriais.
+
+A classificação de vigentes ou revogados é atribuída aos catálogos, sem concluir autonomamente vigência ou efeito vinculante. Resoluções, decisões, processos e normas apenas citados, justificativas ausentes nas impressões, versão certificada dos atos e demais decisões da Comissão permanecem pendentes e não geraram registros adicionais. CMRI é órgão administrativo próprio de acesso à informação. A cobertura nacional e a da Comissão continuam parciais.
+
+O lote soma oito registros e um órgão sobre a main 35fbd9cd: 36.267 registros em 136 órgãos. As nove lacunas textuais anteriores permanecem. PDFs, imagens, recortes e scripts ficam privados.
