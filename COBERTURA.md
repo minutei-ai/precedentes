@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.270 registros únicos de 137 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.291 registros únicos de 138 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
 | [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
 | [CMRI — Súmulas dos catálogos de vigentes e revogados](https://www.gov.br/casacivil/pt-br/assuntos/colegiados/comissao-mista-de-reavaliacao-de-informacoes-cmri/normativos-vigentes) | 8 | 8 | 0 |
 | [CNIC — Enunciados de súmula administrativa](https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/sumulas-da-comissao-nacional-de-incentivo-a-cultura) | 33 | 33 | 0 |
@@ -896,6 +897,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
 | [ANAC](tribunais/ANAC/) | 3 | ANAC — Súmulas administrativas, fichas e atos de aprovação |
 | [CMRI](tribunais/CMRI/) | 8 | CMRI — Nove PDFs oficiais, com histórico da nº 3 |
 | [CNIC](tribunais/CNIC/) | 33 | CNIC / Ministério da Cultura — Enunciados e notas do HTML oficial |
@@ -958,7 +960,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1261,6 +1263,30 @@ A nº 7 está nas páginas 4 a 6 do DOU de 08/06/2015: coluna direita da primeir
 A classificação de vigentes ou revogados é atribuída aos catálogos, sem concluir autonomamente vigência ou efeito vinculante. Resoluções, decisões, processos e normas apenas citados, justificativas ausentes nas impressões, versão certificada dos atos e demais decisões da Comissão permanecem pendentes e não geraram registros adicionais. CMRI é órgão administrativo próprio de acesso à informação. A cobertura nacional e a da Comissão continuam parciais.
 
 O lote soma oito registros e um órgão sobre a main 35fbd9cd: 36.267 registros em 136 órgãos. As nove lacunas textuais anteriores permanecem. PDFs, imagens, recortes e scripts ficam privados.
+
+## ANS — súmulas normativas
+
+A Agência Nacional de Saúde Suplementar entra como órgão próprio (ANS). Não é o Ministério da Saúde, o STF nem outro órgão que apenas aplique a Lei nº 9.656, de 1998. A fonte deste lote são as páginas HTML da BVS/Saúde Legis cujo texto integral foi capturado duas vezes em 29/10/2026. Cada par coincide em bytes e SHA-256. A BVS do Ministério da Saúde reproduz o Diário Oficial da União e declara, fora do corpo transcrito: “Este texto não substitui o publicado no Diário Oficial da União”. Cada registro atribui esse limite. O texto publicado é o título, os considerandos, o enunciado, as listas, a tabela quando existe e o fecho. Ficaram de fora a advertência de navegação, o brasão e a legenda institucional. A camada é texto HTML de página única. Não houve PDF nem OCR.
+
+São 21 registros: `ans-sum-6`, `ans-sum-7`, `ans-sum-8`, `ans-sum-9`, `ans-sum-10`, `ans-sum-11`, `ans-sum-12`, `ans-sum-13`, `ans-sum-14`, `ans-sum-15`, `ans-sum-16`, `ans-sum-19`, `ans-sum-20`, `ans-sum-21`, `ans-sum-22`, `ans-sum-23`, `ans-sum-24`, `ans-sum-25`, `ans-sum-28`, `ans-sum-29` e `ans-sum-30`. A contagem 21 da tabela de fontes é o número de páginas com texto integral, não um catálogo exaustivo. A republicação da nº 21, marcada com (*), é outro documento e permanece no mesmo registro. A cópia da nº 22 em alerta_legis tem outro hash e, depois de unir as quebras de linha, o mesmo texto; a transcrição segue a página saudelegis.
+
+A Portaria ANS nº 18, de 30 de outubro de 2023, lista 21 linhas históricas e não esgota a série. A Portaria ANS nº 342, de 28 de setembro de 2020, publica a lista de atos inferiores a decreto para a revisão do Decreto nº 10.139, de 2019. O anexo omite a nº 20, capturada com título de 10 de agosto de 2011. Nas súmulas cujo texto foi lido, a data do anexo muitas vezes é o dia seguinte à data do título e não foi usada como data do ato. A linha da nº 26 no anexo é “Súmula 26 de 02/03/2015”; a RN nº 615 escreve 27 de fevereiro de 2015. Uma resposta 404 em endereço construído a partir de uma data do inventário não prova ausência do ato. Não foram criados arquivos vazios.
+
+Permanecem sem texto integral e sem identificador: a nº 1, nas duas datas do anexo da Portaria nº 342 (21/02/2001 e 06/03/2002); as nºs 2, 4, 5, 17, 18 e 27; a nº 3, de 21 de setembro de 2001, citada pela RN nº 462, e a de 04/06/2003, listada no anexo; e a nº 26, de 27 de fevereiro de 2015. A nº 30 declara: “Revoga-se a Súmula Normativa nº 1, de 6 de março de 2002.” O texto dessa nº 1 não foi recuperado. Nada acima da nº 30 foi provado inexistente.
+
+A Resolução Normativa ANS nº 462, de 19 de novembro de 2020, no art. 2º, inciso I, alínea f, inclui sete súmulas na revogação expressa. A ementa abrange atos já revogados tacitamente, com efeitos exauridos ou vigentes cuja necessidade ou significado não puderam ser identificados, sem atribuir uma hipótese a cada item. A ementa escreve “de 28 novembro de 2019”; o art. 1º escreve “de 28 de novembro de 2019”. O art. 3º marca a vigência dessa RN em 1º de dezembro de 2020. A lista é: súmula nº 3, de 21 de setembro de 2001, sem texto neste lote; nº 6, de 07 de fevereiro de 2004, enquanto o título capturado é “SUMULA Nº 6, DE 27 DE FEVEREIRO DE 2004”; nº 8, de 27 de junho de 2005; nº 10, de 30 de outubro de 2006; nº 11, de 20 de agosto de 2007; nº 15, de 11 de abril de 2011; e nº 24, de 23 de julho de 2012. As duas datas da nº 6 permanecem. A RN não gerou registro.
+
+A Resolução Normativa ANS nº 593, de 19 de dezembro de 2023, no texto consultado na BVS, art. 18, declara: “Fica cancelada a Súmula Normativa nº 28, de 30 de novembro de 2015.” O art. 19 desse mesmo texto diz: “Esta Resolução entra em vigor no dia 1º de abril de 2024.” Esse texto não contém 1º de dezembro de 2024. A RN nº 602, de 19 de março de 2024, consultada na BVS, substitui esse artigo por: “Esta Resolução Normativa entrará em vigor 1º de setembro de 2024”. A RN nº 613, de 15 de agosto de 2024, consultada na BVS, substitui o mesmo artigo por: “Esta Resolução Normativa entrará em vigor 1º de dezembro de 2024”. A RN nº 617, de 18 de outubro de 2024, altera outros artigos da RN nº 593 e não reedita o art. 19. Nenhuma dessas datas é afirmada como vigência efetiva definitiva. O texto da nº 28 foi preservado. Essas resoluções não geraram registro.
+
+A Resolução Normativa ANS nº 615, de 3 de outubro de 2024, art. 1º, revoga expressamente a Súmula Normativa nº 26, de 27 de fevereiro de 2015, “já revogada tacitamente e cujos efeitos se exauriram no tempo”, com fundamento no Decreto nº 12.002, de 22 de abril de 2024. O texto da nº 26 não foi recuperado e não há `ans-sum-26`. A RN não gerou registro.
+
+O título da nº 29 imprime “SÚMULA NORMATIVA No - 29, DE 16 DE DEZEMBRO DE 2015” e o arquivo é `sum0029_16_12_2015.html`. O anexo da Portaria nº 342 lista “Súmula 29 de 17/12/2015”. O inventário da Portaria nº 18 escreve 16/12/2012. As três datas ficam atribuídas às respectivas fontes. O arquivo da nº 30 usa 04/05/2022, data de publicação, e o título é 2 de maio de 2022. O ato entra em vigor em 1º de junho de 2022. O caminho da BVS nem sempre coincide com a data do título.
+
+Foram preservadas as grafias da página, inclusive “SUMULA” sem acento nas nºs 6 e 9, “Lei no 9.961”, “Lei;resolve”, “pla- nos”, “cons- titui” e “expe- dida” na nº 29, “assistênciaà”, “recémnascido” e “à cargo” na nº 25, e “RESSONÃNCIA” com Ã no título da tabela da nº 22. O telefone e o correio institucional impressos no anexo da nº 22 permanecem. Não há CPF, RG, matrícula, senha nem código de acesso nestes HTML. Nomes e funções do fecho permanecem.
+
+A expressão “entendimento vinculativo”, quando está no corpo, permanece no texto e não foi convertida em classificação atual de vigência ou de efeito vinculante. O § 1º, inciso III, do art. 1º da Portaria nº 342 atribui às súmulas normativas efeito vinculante aos órgãos e agentes públicos da ANS, por remissão ao inciso III do art. 30 da Resolução Regimental nº 1, de 17 de março de 2017. Essa remissão não foi convertida em classificação atual de cada registro. A ausência de nota não confirma vigência atual. Resoluções, instruções, portarias, o regimento, acórdãos, pareceres, notas técnicas e processos apenas citados não geraram identificadores.
+
+O lote acrescenta 21 registros e um órgão. A main 7be86266 já reúne as três súmulas administrativas da ANAC e a nota de 2019 nas súmulas administrativas do TRT8, sem registro novo nesse complemento: 36.270 registros em 137 órgãos. Com este lote o acervo passa a 36.291 registros em 138 órgãos. As nove lacunas textuais anteriores permanecem. A cobertura nacional e a série da ANS continuam parciais. Capturas e scripts ficam privados.
 
 ## ANAC — súmulas administrativas
 
