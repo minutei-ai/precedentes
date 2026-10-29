@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.064 registros únicos de 148 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.078 registros únicos de 149 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPRS — Súmulas do Conselho Superior](https://www.mprs.mp.br/orgaoscolegiados/sumulas/) | 21 | 21 | 0 |
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
@@ -922,6 +923,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPRJ](tribunais/MPRJ/) | 14 | MPRJ — Súmulas do Conselho Superior |
 | [MPRS](tribunais/MPRS/) | 21 | MPRS — Súmulas do Conselho Superior |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
@@ -995,7 +997,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPRS, MPSC, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPRJ, MPRS, MPSC, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1644,3 +1646,13 @@ A página oficial publica 17 enunciados, numerados de 1 a 17, sem lacuna. Foram 
 Os nºs 1 a 11 trazem aprovação em 8/8/24 e publicação em 12/8/24; os nºs 12 a 14 trazem aprovação em 8/8/24, renumeração e republicação em 8/10/24. As nºs 15 e 16 não trazem nota de sessão no bloco. A nº 17 traz aprovação em 26/11/25 e publicação em 28/11/25. Essas informações são atribuídas à página, sem inferência de vigência atual ou efeito vinculante. Redações ou números anteriores não publicados na página não foram reconstruídos. Foram preservadas grafias como “evidência sua ausência volitiva”, “latu senso”, além de “o prazo 30 (trinta) dias” e “art. 19- H”.
 
 Não houve PDF nem OCR. Espaços, quebras e ênfases foram normalizados. Atos, normas, diários e processos apenas citados não geraram registros. Não há CPF, RG, matrícula nem bloco de autenticação no texto incorporado. O MPSC é órgão próprio, distinto do TJSC, do TCESC, do MPF e do CNMP; esta série não abrange os precedentes do Conselho Superior. Outros enunciados, atas, atos e séries permanecem pendentes. Sobre a main `827966751425bed27c73c29d65ca1e098f2386a1`, com 37.013 registros em 145 órgãos, este lote soma 17 registros e um órgão: 37.030 registros em 146 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. Capturas e scripts ficam privados; a cobertura nacional continua parcial.
+
+## MPRJ — súmulas do Conselho Superior
+
+A página institucional do Conselho Superior vincula o caderno `sumulas.pdf`. Duas capturas HTTP 200 de 29/10/2026 coincidem em bytes: 413.016 bytes, SHA-256 `ffb20fdef9ff0fe54f32c122183e134e80dc164c1e86a59842eefa8c6e1ecaa2`. O PDF tem seis páginas, produzidas pelo Word em 08/04/2026, data técnica não convertida em data do ato. As seis páginas foram lidas na imagem e na camada textual. São 14 números, de 1 a 14, sem lacuna. O MPRJ entra como órgão próprio.
+
+As nºs 1 e 2 têm os enunciados riscados na página 1; a nº 5, na página 2. Notas de aprovação e revogação ficam sem risco: 1 em 26/03/2015, 2 e 5 em 13/02/2020. As reformulações das nºs 3, 4, 6, 8, 9 e 10 trazem modificação em 13/02/2020 e cláusula de vigência após 60 dias da publicação, mantida como texto da fonte. As redações anteriores não publicadas não foram reconstruídas. O nº 8 imprime número sem zero. O nº 10 cita literalmente “Lei Federal n.º 11.149/2006”. A nº 2 conserva a aspa de fechamento. As nºs 11–13 têm aprovação em 28/04/2022; a nº 14, em 26/03/2026, com publicação indicada em 27/03/2026.
+
+As continuações de página foram delimitadas: nº 6 nas páginas 2 e 3; nº 8 nas 3 e 4; nº 10 nas 4 e 5; nº 14 nas 5 e 6. A primeira página contém 1–3; a segunda 4–6; a terceira a continuação de 6 e 7–8; a quarta a continuação de 8 e 9–10; a quinta a continuação de 10 e 11–14; a sexta conclui 14 e imprime o aviso de que a versão não substitui o diário oficial, reproduzido em cada registro. Espaços, quebras e ênfases foram normalizados, com os riscos preservados. Logos e rodapés de contato ficaram fora. Não houve OCR.
+
+Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Diários, resoluções, leis, processos e precedentes apenas citados não foram lidos autonomamente nem geraram registros. Os enunciados do Conselho Superior, seu PDF de 30 páginas e outras séries continuam pendentes. As notas do caderno não confirmam vigência atual nem efeito vinculante. Sobre a main `9bab3c61aa6a95cadc5d8eb14de0ba66636db746`, com 37.064 registros em 148 órgãos, este lote soma 14 registros e um órgão: 37.078 registros em 149 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. Capturas, PDFs, imagens e scripts ficam privados; a cobertura nacional continua parcial.
