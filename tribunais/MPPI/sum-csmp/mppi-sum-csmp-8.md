@@ -11,6 +11,12 @@
 
 ARQUIVAMENTO. LESÃO AO BEM JURÍDICO MANIFESTAMENTE INSIGNIFICANTE (ART. 4°, III, RESOLUÇÃO 174, CNMP). Promovido o arquivamento de procedimento extrajudicial que tenha por objeto bem jurídico manifestamente insignificante, o órgão do MPE fica dispensado de adotar medidas ressarcitórias quando o valor estimado do dano ao erário, corrigido monetariamente, não ultrapasse 2.000 UFR
 
+## Texto na página do CACOP
+
+ARQUIVAMENTO. LESÃO AO BEM JURÍDICO MANIFESTAMENTE INSIGNIFICANTE (ART. 4°, III, RESOLUÇÃO 174, CNMP). Promovido o arquivamento de procedimento extrajudicial que tenha por objeto bem jurídico manifestamente insignificante, o órgão do MPE fica dispensado de adotar medidas ressarcitórias quando o valor estimado do dano ao erário, corrigido monetariamente, não ultrapasse 2.000 UFR.
+
+Fonte adicional: [Súmulas CSMP — CACOP](https://www.mppi.mp.br/internet/cacop/sumulas-csmp/), duas capturas de 29/10/2026, HTTP 200. O texto coincide com o catálogo do Conselho Superior, acrescido do ponto final. O texto do catálogo acima foi preservado.
+
 ## Conferência e limites
 
-Texto transcrito do conteúdo HTML apresentado pelo catálogo oficial. Espaços e quebras foram normalizados; conteúdo e pontuação foram mantidos. A página termina o texto do verbete em “2.000 UFR”; o complemento não está publicado nesse HTML e não foi reconstruído a partir do documento vinculado, que não foi lido. O catálogo não informa situação para este registro.
+Texto transcrito do conteúdo HTML apresentado pelo catálogo oficial. Espaços e quebras foram normalizados; conteúdo e pontuação foram mantidos. A página termina o texto do verbete em “2.000 UFR”; a página do CACOP reproduz o mesmo corpo com ponto final. O documento vinculado não integra esta comparação. O catálogo não informa situação para este registro.

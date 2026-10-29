@@ -14,3 +14,5 @@ ARQUIVAMENTO. IRREGULARIDADES MERAMENTE FORMAIS QUE NÃO CONFIGUREM IMPROBIDADE 
 ## Conferência e limites
 
 Texto transcrito do conteúdo HTML apresentado pelo catálogo oficial. Espaços e quebras foram normalizados; conteúdo e pontuação foram mantidos. O catálogo não informa situação para este registro.
+
+A página oficial [Súmulas CSMP — CACOP](https://www.mppi.mp.br/internet/cacop/sumulas-csmp/) também publica este texto. Os dois blocos HTML capturados em 29/10/2026 coincidem com o corpo acima após normalização de espaços.
