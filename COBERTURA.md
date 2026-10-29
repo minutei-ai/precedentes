@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.676 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.727 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — II Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 51 | 51 | 0 |
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
@@ -974,7 +975,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 198 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário e I Civil |
+| [CJF](tribunais/CJF/) | 249 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, I Civil e II Processual Civil |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2065,3 +2066,10 @@ A compilação registra a sequência consultada e as relações textuais nela im
 Incorporadas 137 identidades numeradas 1–137, conciliadas com a pesquisa pública e as 137 fichas individuais em pares HTTP 200, com os campos coincidentes. Texto e notas preservados; nºs 41 e 64 com redações históricas riscadas conforme o CSS oficial. A nº 56 tinha somente aviso de cancelamento; 96 e 120–137 apenas remissão às propostas. Recuperados os 20 textos na compilação oficial, com leitura visual da capa e das páginas físicas 23, 27 e 30–35, delimitados pelos números. Justificativas e continuações das propostas preservadas; moção, outros verbetes e seção 9 excluídos. Sem OCR ou leitura integral declarada do PDF de 136 páginas. Pares idênticos, tamanho e SHA-256 nas fichas.
 
 Não se corrigiram as irregularidades da nº 96 nem o § 2º de filiação impresso na nº 134. Propostas de alteração e rótulos históricos não foram tratados como lei vigente. Notas de revogação de artigos em 110/111 não viraram cancelamento dos enunciados. Campos Justificativa de 31/71 com palavras-chave mantidos. Sem inferência de vigência, vinculação ou exaustividade. Delta sobre `596774f1`: 137 registros e nenhum órgão, total 38.348 registros em 163 órgãos; CJF198, MPRN31, CNMP96 e FONAJEF271 preservados. O histórico MPAL e o FONAJE continuam em trabalho paralelo, fora da conta. As nove lacunas iniciais do BNP e os avisos MPAL sem texto permanecem. Capturas e derivados privados; somente Markdown público.
+
+
+## CJF — II Jornada de Direito Processual Civil
+
+51 enunciados, números 108–158, da pesquisa `jornada.id=161`, com fichas individuais capturadas em pares HTTP 200. Bytes e SHA-256 conferidos; campos jurídicos e metadados coincidem entre pares e os corpos coincidem com a listagem. Todos os corpos, referências e demais campos foram lidos. O campo de justificativa contém somente “Sem justificativa” ou “Sem justificativa.”, reproduzido sem fundamentação inventada. Campo revogado vazio, sem confirmar vigência. Nomes e cargos atribuídos à ficha, sem afirmar titularidade atual. Grafias e referências mantidas sem atualização, incluindo “pode ser feita” na nº 143. Sem PDF/OCR, efeito vinculante ou exaustividade inferidos.
+
+Delta sobre `aff5e3b4`: 51 registros e nenhum órgão; total 38.727 registros em 164 órgãos e CJF 249. PRs das jornadas I Processual Civil, I Comercial e I Administrativo e lote Crises Ambientais seguem separados, fora desta conta. FONAJE 328 e as 80 transcrições históricas MPAL sem IDs novos permanecem; nove lacunas originais do BNP continuam. Atas, outras jornadas e publicações apenas citadas permanecem pendentes. Capturas e scripts privados; apenas Markdown público.
