@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.764 registros únicos de 159 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.784 registros únicos de 160 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -30,6 +30,7 @@ A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da
 | [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
 | [MPRS — Enunciados CONCIDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
+| [MPMT — Assentos e enunciados do Conselho Superior, pauta compilatória](https://mpmt.mp.br/site/storage/webdisco/arquivos/CSMP/3%C2%AA%20Pauta%20RO%20CSMP%2006-03-2023.pdf) | 20 | 20 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
@@ -1891,7 +1892,7 @@ Na base então consultada, `224d898d3d09dcca94b29e3562018b420f11cab8` (37.711 re
 
 ## MPPE — enunciados e súmula do Conselho Superior
 
-Sobre a main `7a180408689713585f4183b271174112940592a7`, com 37.703 registros em 156 órgãos, o lote MPPE acrescenta oito registros e um órgão. O MPPI permanece com 16 registros e sua Súmula 01 sem texto publicado, independente das nove lacunas originais do BNP. As nove lacunas textuais do catálogo do BNP permanecem. O Ministério Público de Pernambuco entra como órgão próprio, distinto do TJPE, do TCEPE, do TATEPE, do MPF, do MPT e do CNMP; os oito documentos deste lote não alteram a contagem do catálogo BNP.
+Na main histórica `7a180408689713585f4183b271174112940592a7` (37.703 registros em 156 órgãos), o lote MPPE somou oito registros e um órgão. Naquela base, o MPPI tinha 16 registros e a Súmula 01 ainda não tinha redação histórica recuperada; a PR 91 acrescentou depois esse texto, sem retirar a suspensão informada pelo catálogo. As nove lacunas textuais do BNP permanecem. O Ministério Público de Pernambuco entra como órgão próprio, distinto do TJPE, do TCEPE, do TATEPE, do MPF, do MPT e do CNMP; os oito documentos daquele lote não alteraram a contagem do catálogo BNP.
 
 O portal de Atos Normativos consultado lista sete enunciados e uma súmula do CSMP. Foram preservados os identificadores `mppe-en-csmp-1` a `mppe-en-csmp-7` e `mppe-sum-csmp-1-2024`. Os seis primeiros enunciados têm fonte documental em DOC; a leitura foi feita nas conversões locais por LibreOffice e conferida nas imagens dessas conversões. A paginação e as quebras das conversões não são garantidas como paginação original. O enunciado 07 é um PDF digitalizado sem camada textual, transcrito visualmente sem OCR; o caractere após 2 e 3 em `§§2O E 3O` permanece incerto entre O e 0, sem conversão para ordinal. A súmula foi lida no bloco do verbete do Diário Oficial Eletrônico de 28/11/2024, página impressa 6, sem incorporar as demais matérias da página. A transcrição não declara vigência atual nem ausência de outros atos ou séries.
 
@@ -1941,8 +1942,16 @@ A edição rotulada 19/02/2026 pelo catálogo corresponde ao PDF oficial do [DOE
 
 A edição [Assentos e Súmula 2025](https://www.mpal.mp.br/wp-content/uploads/2025/05/Assentos-e-Sumula-2025-TI.pdf) tem 255.203 bytes e SHA-256 `9083cdda1fa02809a130068340ca9f634e0ca3531f73397d5b16c726168e5626`; sua página física 2 (impressa 6) contém assentos 001–014/2025 e Súmula 001/2025. As redações coincidem literalmente com as correspondentes da edição 2026, mas essa repetição e a mudança de ano não provam identidade jurídica, renumeração, revisão, revogação nem republicação de cada ato. Apenas os IDs formais de 2026 foram cadastrados; 2025 foi mantida como comparação sem registros duplicados. As oito edições anteriores do catálogo, atos de aprovação, revisão e revogação permanecem pendentes de leitura visual; nenhum texto histórico foi atribuído a 2026. A edição não confirma vigência atual ou efeito vinculante. Normas citadas não receberam IDs. Nomes e funções públicas foram mantidos; identificadores pessoais e códigos de autenticação foram omitidos. Apenas Markdown público; PDFs, capturas, recibos, imagens e scripts privados.
 
-Sobre a main `ed8a2492` (37.747 registros em 158 órgãos), este lote soma 17 registros e um órgão: 37.764 registros em 159 órgãos. MPMS permanece em 26 registros; MPPI permanece em 16, incluindo a Súmula 01 identificada mas sem texto, e as nove lacunas do BNP continuam. As limitações históricas acima permanecem abertas; a cobertura nacional continua parcial.
+Na main `ed8a2492` (37.747 registros em 158 órgãos), este lote somou 17 registros e um órgão: 37.764 registros em 159 órgãos. Naquela base, MPMS estava em 26 registros e MPPI em 16; a Súmula 01 do MPPI ainda não tinha redação histórica recuperada. A PR 91 acrescentou essa redação posteriormente, sem retirar a suspensão informada pelo catálogo. As nove lacunas do BNP continuam; a cobertura nacional é parcial.
 
 ## MPPI — texto histórico da Súmula 01 e aprovação das nºs 01–03
 
 Recuperada a redação da Súmula 01 aprovada em 23/10/2017 no mesmo registro `mppi-sum-csmp-1`, sem retirar a suspensão informada pelo catálogo. As nºs 02 e 03 receberam suas redações do mesmo dispositivo. Discussão, proposta e aprovação das páginas físicas 13–14 estão uma única vez no [índice da série](tribunais/MPPI/sum-csmp/README.md#documento-comum-sumulas-01-03-2017); o título da página 1 confirma data e sessão. Três páginas lidas na imagem, apenas o trecho delimitado das páginas 13–14 publicado; sem OCR. Par de PDF idêntico, tamanho e SHA-256 no índice. A nº 01 deixa de estar sem qualquer enunciado documental, mas a ata de suspensão e a redação posterior continuam pendentes. As nove lacunas originais do BNP e os dois avisos de revogação sem enunciado do MPAL permanecem. Delta zero sobre `0767e9a4`: 37.764 registros em 159 órgãos.
+
+## MPMT — assentos e enunciados do CSMP
+
+A seção 14 da pauta compilatória do CSMP reúne oito assentos e doze enunciados, preservados nas espécies e números impressos, sem criar IDs para normas citadas ou para os arts. 46–49 do Regimento Interno, usados apenas como contexto. Foram lidas visualmente a página física 1 para identificação/data e as páginas 4–8 para os vinte textos, inclusive os que atravessam páginas. O título “Assentos e Enunciados em vigor” é o rótulo da edição consultada e não confirma vigência atual nem efeito vinculante.
+
+A capa registra “06/março/2022 (segunda-feira)”, enquanto a identificação da pauta/arquivo registra 06/03/2023. Mantemos as duas referências sem arbitrar qual data é correta. O resultado indexado da Resenha 07/2025 menciona ratificação em bloco sem individualizar números ou redações; o endpoint consultado do DOE respondeu HTTP 500 nas duas capturas. Essa pista não estabelece status, ratificação individual ou completude. No levantamento limitado documentado para o lote, não foi obtida fonte posterior que discrimine números e textos; isso não permite concluir que outros atos ou séries não existam.
+
+Este lote soma 20 IDs e um órgão à main `983bf0cf` (37.764 registros em 159 órgãos), totalizando 37.784 registros únicos em 160 órgãos. MPMS permanece com 26 registros; MPPI inclui agora texto histórico para a Súmula 01, mantendo a suspensão informada pelo catálogo; MPAL 004 e 008 continuam apenas como avisos sem redação; as nove lacunas do catálogo inicial do BNP permanecem. A cobertura nacional continua parcial.
