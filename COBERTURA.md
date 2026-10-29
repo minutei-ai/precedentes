@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.069 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.119 registros únicos de 161 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
 | [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
@@ -975,7 +976,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto no catálogo, com redação histórica de 2017 recuperada |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
-| [CNMP](tribunais/CNMP/) | 46 | CNMP — CALJ e 2º Congresso de Defesa da Integridade |
+| [CNMP](tribunais/CNMP/) | 96 | CNMP — CALJ e 1º/2º Congressos de Defesa da Integridade |
 | [MPF](tribunais/MPF/) | 430 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 5ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
@@ -1991,3 +1992,10 @@ Delta sobre a main `53a6208f`: 14 registros e nenhum órgão; 38.024 registros e
 Incorporadas 45 recomendações numeradas 1–45 da listagem oficial, em série própria `rec`, separada dos 226 enunciados. Três páginas de catálogo em pares HTTP 200 (offsets 0, 20 e 40), texto jurídico e encontro iguais entre os pares. Os hashes brutos diferem por conteúdo da página; tamanhos e SHA-256 constam das fichas. Todos os 45 corpos foram lidos e comparados com os HTMLs; a sequência foi identificada pelo número, pois a ordem da paginação não é numérica. A nº 43 preserva os onze princípios. Citações, propostas legislativas e órgãos referidos não criaram registros. Sem PDF/OCR: o compilatório ligado e outras séries/edições permanecem pendentes. Não se infere vigência, vinculação ou completude.
 
 Delta sobre a main `4678f44e`: 45 registros, nenhum órgão. Total 38.069 registros em 161 órgãos; FONAJEF 271 (226 enunciados e 45 recomendações). CNMP permanece em 46; as nove lacunas iniciais do BNP e os dois avisos sem texto do MPAL continuam. Evidências privadas e somente Markdown público.
+
+
+## CNMP — enunciados do 1º Congresso de Defesa da Integridade
+
+Incorporados os 50 enunciados sem número impresso das páginas físicas 184–190 (impressas 182–188) dos anais do congresso de 2024. As sete páginas foram lidas visualmente com apoio da camada textual. Cada registro usa página/posição como localização editorial, explicitamente sem atribuir número oficial. Reunidas quatro continuidades entre páginas, mantendo um registro por texto completo. As páginas físicas 8, 9 e 13 foram lidas apenas para contexto da edição/plenária. O PDF tem 191 páginas e duas capturas HTTP 200 idênticas, tamanho e SHA-256 nas fichas; não se declara leitura integral. Sem OCR. Preservadas referências e grafias divergentes, sem atualização jurídica, vigência ou vinculação inferidas. Boas práticas, artigos e resumos não viraram registros.
+
+Delta sobre a main `37fca3fe`: 50 registros e nenhum órgão; 38.119 registros em 161 órgãos, CNMP 96 (32 CALJ, 14 do 2º Congresso e 50 do 1º Congresso). FONAJEF permanece em 271. As nove lacunas originais do BNP e os dois avisos do MPAL sem enunciado permanecem. Os anais do 2º Congresso publicados em 2026 foram capturados para conferência futura de variantes, sem texto incorporado neste lote. Somente Markdown público; capturas e derivados privados.
