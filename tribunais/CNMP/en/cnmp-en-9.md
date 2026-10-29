@@ -31,7 +31,7 @@ Considerando que o enunciado tem a função de explicitar posicionamento firmado
 
 Art. 1º Propor o seguinte enunciado:
 
-Não compete ao Conselho Nacional do Ministério Público revisar ato do ProcuradorGeral, no âmbito de seu dever-poder de gestão e administração de sua unidade ministerial, que não desborde os limites da legalidade, proporcionalidade e moralidade.
+Não compete ao Conselho Nacional do Ministério Público revisar ato do Procurador-Geral, no âmbito de seu dever-poder de gestão e administração de sua unidade ministerial, que não desborde os limites da legalidade, proporcionalidade e moralidade.
 
 Brasília-DF, 12 de abril de 2016.
 
@@ -43,6 +43,6 @@ Presidente do Conselho Nacional do Ministério Público
 
 O texto é o do PDF oficial indicado acima. As duas capturas de 29/10/2026 têm o mesmo tamanho e o mesmo SHA-256. Foram normalizados espaços de justificação e as quebras de linha internas do parágrafo. Cada página jurídica incorporada foi lida na imagem PNG de 140 dpi. A camada de texto foi o apoio da transcrição. Não houve OCR. Brasão, número solto de página e rodapé de paginação ficaram de fora do corpo. Título de arquivo, metadado e data de criação do PDF não foram usados como número, data ou vigência.
 
-O título imprime “ENUNCIADO N° 9, DE 12 ABRIL DE 2016.”, sem “DE” antes de ABRIL, e com o sinal de grau depois do N. O catálogo escreve “12 de abril”. A transcrição segue o PDF.
+O título imprime “ENUNCIADO N° 9, DE 12 ABRIL DE 2016.”, sem “DE” antes de ABRIL, e com o sinal de grau depois do N. O catálogo escreve “12 de abril”. A transcrição segue o PDF. No enunciado, “Procurador-Geral” está partido na quebra de linha; o hífen da imagem foi conservado.
 
 Leis, resoluções, o regimento interno, súmulas e acórdãos de outros órgãos e processos apenas citados permanecem neste registro. Não geraram precedentes novos e não tiveram inteiro teor incorporado. Não há CPF, RG, matrícula nem código pessoal no texto incorporado. Nomes e funções públicas permanecem. A presença do registro não confirma vigência atual nem efeito vinculante. A série não esgota o acervo normativo do CNMP.
