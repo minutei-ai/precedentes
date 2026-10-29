@@ -20,7 +20,7 @@
 
 ## Conferência e limites
 
-Texto integral do campo de enunciado da ficha HTML, conferido nos dois arquivos e com a pesquisa pública da III Jornada de Direito Civil (`jornada.id=42`). Espaços e quebras de linha normalizados, sem inserir espaços nas fronteiras de tags inline. Grafias, caixa, referências e pontuação permanecem literais. Referências legislativas e palavras de resgate ficam separadas do enunciado. A ficha não publica justificativa; nenhuma fundamentação foi reconstruída. O campo de texto revogado está vazio e não confirma vigência. Nomes e cargos são os indicados pela fonte, sem atribuição de titularidade atual. Sem inferência de efeito vinculante ou exaustividade; normas, processos e órgãos citados não receberam IDs. PDFs, atas e outras publicações não foram lidos neste lote. Sem OCR.
+Texto integral do campo de enunciado da ficha HTML, conferido nos dois arquivos e com a pesquisa pública da III Jornada de Direito Civil (`jornada.id=42`). Espaços e quebras de linha normalizados, sem inserir espaços nas fronteiras de tags inline. Grafias, caixa, referências e pontuação permanecem literais. Referências legislativas e palavras de resgate ficam separadas do enunciado. A ficha não publica justificativa; nenhuma fundamentação foi reconstruída. O campo de texto revogado está vazio e não confirma vigência. Nomes e cargos são os indicados pela fonte, sem atribuição de titularidade atual. Sem inferência de efeito vinculante ou exaustividade; normas, processos e órgãos citados não receberam IDs. A leitura documental desta ficha está delimitada abaixo; atas e outras publicações não foram lidas. Sem OCR.
 
 ## Texto histórico na coletânea oficial
 
