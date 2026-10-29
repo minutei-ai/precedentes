@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.844 registros únicos de 122 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.867 registros únicos de 123 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGE/SP — Súmulas históricas, 2ª edição de 1999](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm) | 23 | 23 | 0 |
 | [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
 | [PGE/PI — Súmulas Administrativas, página reunida](https://www.pge.pi.gov.br/sumulas-administrativas/) | 66 | 66 | 0 |
 | [PGE/PI — Súmulas Administrativas, catálogo paginado](https://www.pge.pi.gov.br/sumulas/) | 65 | 0 | 65 |
@@ -884,6 +885,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [PGESP](tribunais/PGESP/) | 23 | PGE/SP — Súmulas históricas, 2ª edição de 1999, Série Documentos n. 18 |
 | [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
 | [TITSP](tribunais/TITSP/) | 15 | TIT/SP — Súmulas e fichas de propostas |
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
@@ -925,7 +927,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-TARFRS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+TARFRS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1018,3 +1020,17 @@ O portal registra 45 redações anteriores. A linha de referência “Redação 
 Os 19 PDFs têm uma página A4 e criador wkhtmltopdf 0.12.4. A camada textual coincide com o HTML atual. Não houve OCR. A data de criação do arquivo é da renderização e varia entre 2022, 2023 e 2025. Não é a data da súmula e pode divergir de dataAtualizacao, que em vários cadastros permanece em 2007. Sequências de três ou mais espaços foram reduzidas. Os espaços duplos do HTML foram mantidos, como em “página  23”, “CÁLCULO-  Nas” e “saídas  de”. A releitura do HTML com tamanho de página 10 coincide com a de tamanho 200. São 148 pares de arquivos idênticos entre as duas leituras. A lista `/api/Grupos` respondeu HTTP 500. O menu do documento exige login e não foi autenticado. A consulta pelo UUID do grupo ignora o filtro e devolve o portal inteiro; não foi usada.
 
 Permanecem fora deste lote as resoluções e as páginas do Diário Oficial apenas citadas, o dispositivo vazio da nº 02, o enunciado ausente nas redações que só trazem o título, o trecho truncado do histórico da nº 15, os acórdãos do portal e a conciliação das datas em que o cadastro diverge do texto.
+
+## PGE/SP — súmulas históricas da edição de 1999
+
+A Procuradoria-Geral do Estado de São Paulo entra como órgão próprio (PGESP). Não é o TJSP nem o TIT/SP. A fonte é a coletânea pública [Súmulas da Procuradoria Geral do Estado e pareceres referidos](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm), 2ª edição revisada e atualizada, de 1999, Série Documentos n. 18, do Centro de Estudos. A [abertura](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/abre.htm) identifica essa edição e o ano de 1999. A [apresentação](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/apresentacao.htm), de maio de 1999, assinada por Marcio Sotelo Felippe, Procurador Geral do Estado, diz que os agentes da Administração estadual com atribuição de decidir e de orientar estavam legalmente vinculados aos comandos daquelas súmulas. Essa frase foi reproduzida como texto da apresentação. Ela não foi convertida em classificação atual nem em vínculo posterior.
+
+O [sumário](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/sumario.htm) liga, em ordem, sumula1.htm a sumula23.htm. São 23 identidades, `pgesp-sum-1` a `pgesp-sum-23`, sem lacuna e sem repetição. As linhas de continuação das nºs 3, 5, 18 e 19 permanecem no título do sumário, separadas por travessão no índice. O sumário marca Em revisão as nºs 7, 8 e 11, e Revogada as nºs 9, 15 e 16. As outras dezessete não trazem nota de vigência. Essa ausência não confirma vigência atual. Nenhuma situação foi preenchida como vigente.
+
+Em 29/10/2026 foram feitas duas capturas de cada uma das 27 páginas: índice, sumário, apresentação, abertura e as 23 súmulas. Vinte e seis pares coincidem byte a byte. O índice indica.htm difere apenas pelo script inserido pelo serviço de borda em uma das respostas; sem esse script, os bytes coincidem. O tipo HTTP é text/html, sem charset. A apresentação e as súmulas 18 e 20 declaram windows-1252. As demais não declaram. UTF-8 não decodifica as páginas. O byte 0x97, presente em seis delas, é travessão nessa codificação e corresponde à referência numérica usada nas outras. Não há caractere de substituição.
+
+O Markdown reproduz o texto de cada página, com a divisão de parágrafos da marcação e com os espaços internos normalizados. A navegação INÍCIO, repetida no rodapé, não entra. Nas nºs 7, 8 e 11, a página diz que a súmula está sendo revista e, por isso, deixa de publicar o enunciado e os pareceres. Nada disso foi reconstruído. Nas nºs 9, 15 e 16, a página traz o título e a nota de revogação da edição, com as referências de publicação impressas: a nº 9 aponta a súmula 14; a nº 15, a súmula 19; a nº 16, despacho publicado no DOE de 28.2.87, no processo SJ- 233.189-86, com o espaço da fonte. O enunciado anterior e os pareceres não estão nessas três páginas e não foram completados.
+
+Nas outras dezessete, o mesmo registro reúne o enunciado, as referências, as notas e os pareceres e despachos publicados na própria página. Citações de acórdãos, decretos, diários e bibliografia não geraram registros. Quatro números de RG, nas súmulas 12, 17, 20 e 21, foram omitidos. Nomes e funções permanecem. Não havia CPF nem matrícula nessas páginas.
+
+A validação deste lote conferiu os 23 números, a sequência, os links do sumário, a igualdade do texto visível com os parágrafos publicados e a ausência dos números de RG. Ela não relê os demais órgãos. O acervo passa a 35.867 registros de 123 órgãos. Os diários e os atos apenas citados continuam pendentes. A edição de 1999 não esgota os pareceres da PGE/SP nem informa a situação jurídica posterior.
