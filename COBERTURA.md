@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.759 registros únicos de 120 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.825 registros únicos de 121 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGE/PI — Súmulas Administrativas, página reunida](https://www.pge.pi.gov.br/sumulas-administrativas/) | 66 | 66 | 0 |
+| [PGE/PI — Súmulas Administrativas, catálogo paginado](https://www.pge.pi.gov.br/sumulas/) | 65 | 0 | 65 |
 | [CRF/PB — Súmulas do catálogo oficial](https://www.sefaz.pb.gov.br/info/2016-01-11-17-25-20/crf) | 4 | 4 | 0 |
 | [TATE/PE — Súmulas e Atos Normativos](https://www.sefaz.pe.gov.br/Servicos/TATE/Paginas/Informacoes.aspx) | 8 | 8 | 0 |
 | [CAT/GO — Súmulas do catálogo oficial](https://goias.gov.br/economia/sumulas/) | 15 | 15 | 0 |
@@ -875,6 +877,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [PGEPI](tribunais/PGEPI/) | 66 | PGE/PI — Súmulas Administrativas |
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
@@ -920,7 +923,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEPI, CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -989,3 +992,11 @@ A [Portaria nº 00311/2019/SEFAZ](https://www.sefaz.pb.gov.br/legislacao/259-por
 A etiqueta oficial [Súmulas do Conselho de Recursos Fiscais](https://www.sefaz.pb.gov.br/component/tags/tag/244-sumulas-do-conselho-de-recursos-fiscais) lista um único item, a Portaria nº 00311/2019/SEFAZ, com data de lista 19 de novembro de 2019. A busca do portal por “Súmula Administrativa” devolveu 43 acórdãos, sem outra portaria de ratificação. O [Regimento Interno](https://www.sefaz.pb.gov.br/legislacao/301-portarias/portarias-2021/10654-portaria-n-00080-2021-sefaz), Portaria nº 00080/2021/SEFAZ, traz no HTML consolidado os arts. 94 a 96: numeração sequencial depois da ratificação, submissão ao Secretário e possibilidade de revisão. O art. 96 conserva a grafia “do Secretário de Estado da Fazenda a ou do representante”. O cabeçalho lista alterações pelas Portarias nº 00026/2023, nº 00144/2024, nº 00112/2025, nº 00207/2025 e nº 00148/2026. Nenhuma dessas notas, no HTML consolidado, atribui nova redação aos arts. 94 a 96, e a palavra “súmula” nesse HTML não introduz enunciado numerado. Os textos integrais dessas portarias de alteração e do diário de cada uma permanecem pendentes.
 
 O CRF/PB é o Conselho de Recursos Fiscais da Secretaria de Estado da Fazenda da Paraíba, órgão distinto do TJPB, do TCEPB, do TATE/PE e dos demais conselhos. A série não integra o catálogo judicial do BNP. O ementário, os acórdãos, as pautas e o histórico em PDF indicados na mesma página permanecem pendentes.
+
+## PGE/PI — súmulas administrativas
+
+A página reunida de Súmulas Administrativas acrescenta os números 1 a 66, cada um em identidade própria `pgepi-sum-N`. Enunciados, alíneas, notas de publicação e links foram conciliados em duas capturas de 29/10/2026. A nº 30 publica somente a nota “REVOGADA” e a referência ao DOE nº 91, de 21/05/2020, p. 29; sua redação anterior não foi reconstruída. As notas de nova redação das nºs 2, 5, 6 e 7 foram preservadas. Nenhuma ausência de nota nas demais foi convertida em confirmação de vigência.
+
+O catálogo paginado, indicado pelo menu institucional, foi percorrido em 11 páginas, com duas capturas de cada página e conciliação de título, corpo e links. Publica 65 verbetes: números 1–17 e 19–66. A nº 18 está na página reunida, mas não nessas 11 páginas; a diferença não foi tratada como revogação. Nos 65 números comuns, os textos coincidem desconsiderando a divisão de parágrafos e espaços, exceto pelo ponto final após a referência de publicação da nº 23, presente na página reunida e ausente na paginada. As alíneas a–c da nº 23 estão como parágrafos na página reunida e como lista ordenada por letras na paginada. Não se inferiu precedência jurídica de uma página sobre a outra.
+
+Foram preservadas grafias como “contração” (24), “percebia” (45), “deestudante” (46), “asentença” (47), “414/STJ1” (49), “parteautora” (58) e a aspa sem abertura da nº 38. A referência ao DOE nº 97 de 29/09/2022 nas nºs 53–55 e a data 08/02/2024 associada ao DOE nº 37 na nº 57 foram mantidas sem correção por inferência. Os diários, os julgados, a legislação e os atos vinculados não foram lidos integralmente neste lote. Os 66 registros são uma série administrativa da PGE/PI, distinta do TJPI e do TCEPI, e não esgotam os pareceres nem as outras manifestações da Procuradoria.
