@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.595 registros únicos de 153 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.618 registros únicos de 154 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
+| [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
 | [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
@@ -936,13 +938,14 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
 | [MPMA](tribunais/MPMA/) | 48 | MPMA — Enunciados do Conselho Superior: revisão de 2022, nº 24/23 e numeração histórica do catálogo |
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 144 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos e 3 proposições CONMAM |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
-| [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
+| [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
@@ -1014,7 +1017,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPDFT, MPMG, MPRJ, MPSP, MPAM, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1686,7 +1689,7 @@ O PDF oficial do Conselho Superior do Ministério Público do Estado de São Pau
 
 As súmulas presentes são numeradas de 1 a 82, com ausentes nesta seção os números 10, 14, 16, 21, 27, 30, 37, 39, 40, 44, 46, 47 e 53. Renumerações, referências a assentos anteriores e notas de alteração ou revogação foram mantidas dentro dos verbetes e não receberam identificadores próprios. Espaços e quebras de linha foram normalizados; hífens lexicais partidos no fim da linha foram reunidos ao token seguinte, sem espaço extra. Palavras, pontuação e notas foram preservadas. A inclusão não confirma vigência atual ou efeito vinculante. Outros atos e o restante do regimento não foram tratados como precedentes neste lote.
 
-O MPSP/CSMP tem órgão e séries próprios, distintos do MPRJ, do MPMG, do MPMA, do MPRS, do MPF, do MPM, do MPT, do MPGO, do MPSC e dos tribunais paulistas. Sobre a main `689830314991442c0b4b59844e7a40edabc3126d`, com 37.515 registros em 152 órgãos, o lote soma 80 registros e um órgão: 37.595 registros em 153 órgãos. Permanecem MPDFT 129, MPF 430, MPRS 144, MPCE 34, MPSC 17, MPGO 13, MPRJ 83, MPMA 48 e MPMG 68. As nove lacunas textuais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Capturas, PDF, imagens, transcrições e scripts ficam privados; somente os arquivos Markdown de registros e índices são públicos. A cobertura nacional continua parcial.
+O MPSP/CSMP tem órgão e séries próprios, distintos do MPAM, do MPRJ, do MPMG, do MPMA, do MPRS, do MPF, do MPM, do MPT, do MPGO, do MPSC e dos tribunais paulistas. Sobre a main `95854a3291e4cab1159fe53d6b6dc19b70d0761c`, com 37.538 registros em 153 órgãos, o lote soma 80 registros e um órgão: 37.618 registros em 154 órgãos. Permanecem MPDFT 129, MPF 430, MPRS 144, MPCE 34, MPSC 20, MPGO 13, MPRJ 83, MPMA 48, MPMG 68 e MPAM 20. As nove lacunas textuais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Capturas, PDF, imagens, transcrições e scripts ficam privados; somente os arquivos Markdown de registros e índices são públicos. A cobertura nacional continua parcial.
 
 ## MPRS — enunciados CONCIDEPP e atos de referendo
 
@@ -1800,3 +1803,22 @@ As cinco exportações em texto de Google Docs apontadas pelo título das fichas
 Foram preservados “que rata”, “trais conflitos”, “órgão federais”, “PRDC1” e a pontuação da exportação. Cabeçalhos, slogans, endereço, separadores e “ipa” de rodapé foram omitidos; espaços e linhas em branco foram normalizados. A publicação atribui esse texto às exportações, sem afirmar paginação ou conferência visual do Word. Os DOC convertidos não retêm a nota completa e não serviram para reconstruí-la. Nomes e funções públicos permanecem; não há CPF, RG, matrícula pessoal ou bloco de autenticação no texto incorporado. As versões do catálogo ficaram intactas; nada foi convertido em vigência atual ou efeito vinculante.
 
 Delta zero sobre a main `7a1bb74a66cbbf6f77f3b23433c61e8f1da022d5`, com 37.515 registros em 152 órgãos: o acervo permanece em 37.515 registros e 152 órgãos, MPMA 48, MPRS 144 e MPMG 68. Os PRs 72, 70, 69, 71 e 67 já compõem essa main. Os PRs 68, 74 e 75 seguem abertos e não entram nesta conta. As nove lacunas iniciais do BNP permanecem; cobertura nacional parcial. Evidências e scripts continuam privados, apenas Markdown público.
+
+## MPSC — enunciados do Conselho Gestor do FRBL
+
+A página oficial [Enunciados do Conselho Gestor](https://www.mpsc.mp.br/frbl-enunciados) publica os números 1, 2 e 3, cada qual com um parágrafo. Os três corpos foram lidos no HTML e incorporados em série própria do Conselho Gestor do Fundo para Reconstituição de Bens Lesados, com os identificadores `mpsc-en-frbl-1` a `mpsc-en-frbl-3`. Os 17 enunciados da Câmara Revisora Criminal permaneceram intactos. A citação ao art. 281 da Lei Complementar n. 738/2019 continua dentro do nº 3 e não gerou registro.
+
+As duas capturas HTTP 200 de 29/10/2026 têm 284.708 bytes cada e hashes diferentes nos arquivos completos; o bloco com os três títulos e três parágrafos coincide. Não há link, anexo, tabela ou assinatura nesse contêiner. Apenas espaços e quebras foram normalizados. A página não imprime data de aprovação nem nota de vigência dos enunciados; não se inferiu situação jurídica atual ou efeito vinculante. Não houve PDF nem OCR. Não há CPF, RG, matrícula pessoal ou autenticação nos três corpos. Atas, atos de aprovação, normas citadas e redações anteriores não foram lidos; não se provou inexistência de outros números.
+
+Sobre a main `689830314991442c0b4b59844e7a40edabc3126d` (37.515 registros em 152 órgãos), o lote soma três sem órgão novo: 37.518 registros em 152 órgãos, MPSC 20. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público, evidências privadas e cobertura nacional parcial.
+
+
+## MPAM — assentos do Conselho Superior
+
+A página oficial [Assentos CSMP](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013), indicada no catálogo do Conselho Superior, reúne vinte cabeçalhos: 005/03; 001 e 002/04; 001/05; 001/07; 001–004/08; 001–009/11; e 001–002/12. O MPAM entra como órgão próprio, distinto do TJAM, do TCEAM e do MPF. Cada assento recebeu identificador por número e ano, sem criar atos para as resoluções citadas. O caminho da URL menciona 2013 e não foi adotado como ano de emissão.
+
+As três páginas — catálogo, assentos e súmula — tiveram duas capturas HTTP 200 em 29/10/2026. O HTML completo varia nos hashes, mas o contêiner jurídico dos assentos coincide nos dois arquivos de 103.535 bytes. Os vinte corpos foram comparados com os nós de texto normalizados do HTML. Riscos foram preservados nas quatro redações com nota de revogação (005/03, 001/05, 005/11 e 007/11). Há notas de republicação em 002/04, 006/11 e 008/11; versões anteriores não foram reconstruídas. Os atos de revogação e republicação e os diários citados não foram lidos. Ausência de nota não confirma vigência atual ou efeito vinculante.
+
+A transcrição conserva os nós de texto, inclusive caixa irregular, “PUB¬LICAÇÃO” e “relatança”; não executa a transformação de caixa do CSS `text-transform: uppercase`. Fontes, negrito, itálico, espaços e quebras foram normalizados. O bloco oculto `mcePaste` no fim do contêiner repete a redação do 005/03 e foi excluído, sem anexá-lo ao 002/12 nem gerar outra identidade. Não há CPF, RG, matrícula pessoal ou bloco de autenticação nos vinte corpos. Não houve PDF nem OCR.
+
+A página da súmula de entendimento 001.11.CSMP traz apenas a identificação 001.2011.CSMP no contêiner lido; não há enunciado nem link PDF no HTML capturado. Ficou pendente, sem registro. Outras páginas de assentos do catálogo, resoluções, diários e atos apenas citados permanecem fora deste lote. Sobre a main `f1a2e1faa3c074f1df68abe2178aeaf766ac4d4d` (37.518 registros em 152 órgãos), o delta é de vinte registros e um órgão: 37.538 registros em 153 órgãos. As nove lacunas iniciais do BNP permanecem; evidências privadas, apenas Markdown público e cobertura nacional parcial.
