@@ -1,0 +1,37 @@
+# MPF · Enunciado 49 da 5ª CCR
+
+- **Órgão:** Ministério Público Federal — 5ª Câmara de Coordenação e Revisão (Combate à Corrupção)
+- **Espécie:** Enunciado da 5ª CCR
+- **Identificador:** `mpf-en-ccr5-49`
+- **Situação na fonte:** A página publica o texto; o PDF acrescenta o preâmbulo de aprovação
+- **Fonte:** [Enunciados da 5ª CCR](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/enunciados)
+
+## Texto publicado
+
+Enunciado 49
+
+INVESTIGAÇÃO DE FATOS DE DÚPLICE REPERCUSSÃO
+
+A apuração de fatos de dúplice repercussão pode ser feita no âmbito do Inquérito Civil, desde que, ao final, sejam adotadas as providências cível e criminal correspondentes. O encaminhamento ou instauração de Notícia da fato Criminal, Inquérito Policial ou PIC no âmbito da Procuradoria Regional da República (prerrogativa de foro), não exclui, na origem, a adoção de providências investigatórias relativas à improbidade e ao ressarcimento.
+
+## Texto do PDF
+
+1 página. Duas capturas HTTP 200 têm os mesmos 72014 bytes e o SHA-256 abaixo. A camada de texto foi extraída e conferida visualmente. Quebras de linha do corpo foram reunidas. O carimbo de autenticação, a chave, o endereço e o brasão não entram no corpo. Trecho riscado na imagem fica entre ~~.
+
+- **Documento:** 1 página; 72014 bytes
+- **SHA-256:** `0dc9de3ee29cfd09b7cbd402d20499540020cfeae0d01c791090cdc1c9c0f4f7`
+- **Vínculo:** [enunciado-49.pdf](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/documentos/enunciados/enunciado-49.pdf)
+
+PGR-00082660/2024
+
+ENUNCIADO 49
+
+A 5ª Câmara de Coordenação e Revisão, em sua 6ª Sessão Ordinária de Coordenação, de 7 de março de 2024, aprovou o Enunciado 49:
+
+INVESTIGAÇÃO DE FATOS DE DÚPLICE REPERCUSSÃO
+
+A apuração de fatos de dúplice repercussão pode ser feita no âmbito do Inquérito Civil, desde que, ao final, sejam adotadas as providências cível e criminal correspondentes. O encaminhamento ou instauração de Notícia da Fato Criminal, Inquérito Policial ou PIC no âmbito da Procuradoria Regional da República (prerrogativa de foro), não exclui, na origem, a adoção de providências investigatórias relativas à improbidade e ao ressarcimento.
+
+## Conferência e limites
+
+Texto da página oficial conferido em duas capturas HTTP 200 de 29/10/2026, com 258436 bytes e SHA-256 `216fcdff0be09c4bfeaaa57f9c5aa90afce920fd6537c07c212422057bd10e43` em cada uma. O PDF deste número foi lido na imagem de cada página, com a camada de texto como apoio. Não houve OCR. O documento tem 1 página. Duas capturas HTTP 200 têm os mesmos 72014 bytes e o SHA-256 abaixo. Espaços, quebras de linha, negrito e itálico foram normalizados. Quebras de linha do corpo foram reunidas. Não há risco neste PDF. Brasão, endereço, telefones e carimbo de login e senha, com a chave de autenticação, não entram no corpo. Nome que aparece só nesse carimbo foi omitido com ele. Protocolo PGR impresso no cabeçalho permanece. Atas, deliberações, diários, processos, votos, orientações e atos apenas citados não tiveram inteiro teor incorporado e não geraram registro. Datas, notas de revogação, cancelamento, conversão ou retificação e a ausência de nota não confirmam vigência atual nem efeito vinculante. Esta série é a `en-ccr5` e não se confunde com as outras séries do MPF.

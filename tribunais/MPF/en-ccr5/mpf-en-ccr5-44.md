@@ -1,0 +1,41 @@
+# MPF · Enunciado 44 da 5ª CCR
+
+- **Órgão:** Ministério Público Federal — 5ª Câmara de Coordenação e Revisão (Combate à Corrupção)
+- **Espécie:** Enunciado da 5ª CCR
+- **Identificador:** `mpf-en-ccr5-44`
+- **Situação na fonte:** A página traz nota de revogação; o PDF conserva o texto anterior riscado e a nota de revogação
+- **Fonte:** [Enunciados da 5ª CCR](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/enunciados)
+
+## Texto publicado
+
+Enunciado 44
+
+ARQUIVAMENTO NA 5ªCCR/MPF: ACORDO DE NÃO PERSECUÇÃO CÍVEL (ANPC) E ACORDO DE LENIÊNCIA
+
+(Revogado, conforme deliberado na 2ª Sessão, de 08/02/2024).
+
+## Texto do PDF
+
+1 página. Duas capturas HTTP 200 têm os mesmos 134908 bytes e o SHA-256 abaixo. A camada de texto foi extraída e conferida visualmente. Quebras de linha do corpo foram reunidas. O carimbo de autenticação, a chave, o endereço e o brasão não entram no corpo. Trecho riscado na imagem fica entre ~~.
+
+- **Documento:** 1 página; 134908 bytes
+- **SHA-256:** `0d3db86eb6a37ed64ccc857a425afd869e0d82bbdcd209b2e0d24a7b0d37e893`
+- **Vínculo:** [enunciado-44_revogado.pdf](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/documentos/enunciados/enunciado-44_revogado.pdf)
+
+PGR-00335409/2022
+
+ENUNCIADO 44
+
+Revogado na 2ª Sessão Ordinária de Coordenação da 5ª Câmara de Coordenação e Revisão, realizada em 8 de fevereiro de 2024.
+
+~~A 5ª Câmara de Coordenação e Revisão, em sua 1ª Sessão Extraordinária de Coordenação, de 23 de agosto de 2022, aprovou o Enunciado 44:~~
+
+~~ARQUIVAMENTO NA 5ªCCR/MPF: ACORDO DE NÃO PERSECUÇÃO CÍVEL (ANPC) E ACORDO DE LENIÊNCIA~~
+
+~~Os procedimentos de ANPC e de Acordo de Leniência, após homologados pela 5ª Câmara de Coordenação e Revisão, serão nela arquivados, encaminhando-se cópia integral para o ofício vinculado com determinação de instauração de procedimento administrativo de acompanhamento da execução do acordo nos termos em que homologado.~~
+
+~~O procurador natural deverá comunicar à 5ªCCR/MPF o implemento do acordo, devendo a Assessoria de Coordenação da 5ªCCR/MPF providenciar a juntada de tais informações no respectivo procedimento.~~
+
+## Conferência e limites
+
+Texto da página oficial conferido em duas capturas HTTP 200 de 29/10/2026, com 258436 bytes e SHA-256 `216fcdff0be09c4bfeaaa57f9c5aa90afce920fd6537c07c212422057bd10e43` em cada uma. O PDF deste número foi lido na imagem de cada página, com a camada de texto como apoio. Não houve OCR. O documento tem 1 página. Duas capturas HTTP 200 têm os mesmos 134908 bytes e o SHA-256 abaixo. Espaços, quebras de linha, negrito e itálico foram normalizados. Quebras de linha do corpo foram reunidas. Há trechos riscados na imagem; eles ficam entre ~~. Brasão, endereço, telefones e carimbo de login e senha, com a chave de autenticação, não entram no corpo. Nome que aparece só nesse carimbo foi omitido com ele. Protocolo PGR impresso no cabeçalho permanece. Atas, deliberações, diários, processos, votos, orientações e atos apenas citados não tiveram inteiro teor incorporado e não geraram registro. Datas, notas de revogação, cancelamento, conversão ou retificação e a ausência de nota não confirmam vigência atual nem efeito vinculante. Esta série é a `en-ccr5` e não se confunde com as outras séries do MPF.
