@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.195 registros únicos de 132 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.220 registros únicos de 133 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [ARCE — Controle de Súmulas](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf) | 25 | 25 | 0 |
 | [ANEEL — Súmulas](https://www.gov.br/aneel/pt-br/centrais-de-conteudos/sumulas) | 17 | 17 | 0 |
 | [PGE/AP — Súmulas Administrativas](https://pge.portal.ap.gov.br/conteudo/legislacao/sumulas) | 18 | 18 | 0 |
 | [PGE/AL — Súmulas Administrativas](https://pge.al.gov.br/documentos/category/36-sumulas) | 43 | 43 | 0 |
@@ -891,6 +892,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [ARCE](tribunais/ARCE/) | 25 | ARCE — Controle de Súmulas |
 | [ANEEL](tribunais/ANEEL/) | 17 | ANEEL — Assuntos e notas do catálogo de súmulas |
 | [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
 | [REDE_SIDH](tribunais/REDE_SIDH/) | 10 | Rede-SIDH — bloco coletivo publicado pela PGE/RJ |
@@ -948,7 +950,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ARCE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1195,6 +1197,20 @@ Em 29/10/2026, duas consultas ao BNP/Pangea para os IRDR do TJAM devolveram os m
 Os oito registros informam situação principal “Não admitido” e alerta “não admitido”, mas seu item histórico informa “Admitido”, admissão em 2025-12-17, julgamento e publicação em 2026-05-29, e criação do item em 2026-06-10T00:00:00.000-03:00. Essa divergência não foi conciliada por suposição, nem as datas foram usadas para escolher uma situação jurídica atual. As suspensões são apresentadas como dados do cadastro, sem confirmação dos atos judiciais. Sete registros apontam para o mesmo processo 00017771720198043801; o 7010 não trouxe paradigma. A repetição não levou à fusão ou exclusão de identificadores.
 
 O registro IRDR 34 do TJRJ foi relido duas vezes na página 4 da consulta institucional. Os mesmos campos textuais continuam vazios e a referência de processo também está vazia. O total 56 informado pela resposta não significa revisão das outras páginas neste lote. As capturas e os recibos permanecem privados. Não houve recuperação de matéria jurídica nem novo registro: as nove lacunas continuam e o total segue em 36.160 registros de 130 órgãos sobre a main 150d8677.
+
+## ARCE — enunciados da súmula
+
+A Agência Reguladora do Estado do Ceará entra como órgão próprio (ARCE). Não é o TJCE, o TCECE nem a PGECE. A página [Súmulas](https://www.arce.ce.gov.br/download/sumulas/) respondeu HTTP 200 em 29/10/2026 e publica um único arquivo, [Controle de Súmulas ARCE](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf). A modificação informada pela página é 2021-03-05T12:26:53+00:00. O diretório `2018/11` do endereço é o caminho de publicação, não a data de atualização jurídica. O PDF cita atos até 11/02/2021.
+
+Duas capturas do PDF, recebidas em 29/10/2026, têm 287.677 bytes e o SHA-256 `5d47978071ca58883b21b7de3caa5b56e250e62fa7827ccf611dd406d8630af2`. Uma releitura HTTP 200 no mesmo dia repetiu esse tamanho e esse hash. O `Last-Modified` do arquivo é Fri, 05 Mar 2021 12:26:15 GMT. O documento foi produzido pelo Word 2016 em 05/03/2021, tem quatro páginas A4 e texto extraível. A camada textual foi conferida visualmente em cada página. Não houve OCR. Não há texto riscado nem sublinhado. Datas e notas de aprovação, alteração e revogação estão em negrito. As redações anteriores das nºs 03 e 18 estão em corpo menor.
+
+O controle reúne as súmulas nº 01 a 25, sem lacuna. Os identificadores são `arce-sum-1` a `arce-sum-25`. A nº 10 começa na última linha da página 1, em “EVENTUAIS”, e continua na página 2. A nº 19 começa no fim da página 2 e continua na página 3, em “MEDIÇÃO”. A nº 24 está inteira na página 3, inclusive a linha “e Publicada no DOE de 21/01/2020).”. A página 4 contém somente a nº 25.
+
+Foram preservados enunciados, datas, parênteses, aspas e as notas impressas. A nº 03 traz a redação anterior, marcada com asterisco, e imprime alínea C na redação atual e alínea “C” na anterior. A nº 06 conserva “AI).” antes de “Nº 05.027/2000”. A nº 18 traz a redação anterior com a data “(10/02/06)” e a grafia “T.O,”; o enunciado atual está datado de 04/01/2007. A nº 19 imprime “RELATIVA A COBRANÇA”, sem crase. A nº 21 traz a nota de revogação na Reunião Extraordinária de 01/04/2019 (DOE 05/04/2019), com “lei no”, “n°” e as aspas do trecho citado, e em seguida o enunciado histórico de 13/11/2018. A aspa que abre a citação do conselho não se fecha. A nº 22 informa alteração em 30/07/2019 e publicação no DOE de 02/08/2019; a redação anterior não está no PDF e não foi reconstruída. A nº 23 conserva “AS DEFESA” e a nota de aprovação em 20/08/2019, com publicação no DOE de 26/08/2019. Na nº 24, o parêntese fecha depois de 14/01/2020 e volta a fechar depois da publicação de 21/01/2020. A nº 25 informa aprovação em 11/02/2021.
+
+Apenas espaços de justificação e quebras de linha foram normalizados. Resoluções da ANEEL e da ARCE, autos de infração, a COELCE, diários e processos apenas citados permanecem nos verbetes e não geraram registros. As datas são as impressas. Nenhuma nota foi convertida em confirmação de vigência atual, efeito vinculante ou inexistência de ato posterior. Não há CPF, RG, matrícula ou conta neste PDF. O controle não esgota outras séries da ARCE.
+
+O lote acrescenta 25 registros e um órgão. A main 8050bfda já reúne as 17 súmulas do catálogo da ANEEL, a transcrição da súmula 14/2018 do TIT/SP no registro já existente, as 18 súmulas da PGE/AP e as nove lacunas textuais do TJAM e do TJRJ: 36.195 registros em 132 órgãos. Com este lote o acervo passa a 36.220 registros em 133 órgãos.
 
 ## ANEEL — catálogo de súmulas
 
