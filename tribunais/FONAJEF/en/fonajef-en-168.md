@@ -1,0 +1,17 @@
+# FONAJEF · Enunciado nº 168
+
+- **Órgão:** Fórum Nacional dos Juizados Especiais Federais (FONAJEF), promovido pela AJUFE
+- **Espécie:** Enunciado
+- **Número:** 168
+- **Identificador:** `fonajef-en-168`
+- **Encontro indicado pela fonte:** Enunciados XIII Fonajef
+- **Fonte:** [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef?start=60)
+- **Captura:** 29/10/2026; listagem do catálogo em duas respostas HTTP 200
+
+## Texto publicado
+
+A produção de auto de constatação por oficial de justiça, determinada pelo Juízo, não requer prévia intimação das partes, sob pena de frustrar a eficácia do ato, caso em que haverá o contraditório diferido (Aprovado no XIII FONAJEF).
+
+## Conferência e limites
+
+Texto transcrito do bloco `.article-introtext` da listagem oficial. A separação dos parágrafos e as quebras `<br>` foram mantidas; bordas de parágrafo com espaçamento de formatação HTML foram aparadas. Não se aplicou o limite visual `data-limit-5`, não se inseriu espaçamento entre tags inline sem espaço na fonte, nem se corrigiram grafias, pontuação, aspas ou erros. Notas de aprovação, revisão, cancelamento, redação antiga e transformação que constam do texto permanecem no mesmo registro. Citações a outros enunciados, órgãos ou normas não geram identificadores. A presença no catálogo não confirma vigência atual, força vinculante ou exaustividade da série.
