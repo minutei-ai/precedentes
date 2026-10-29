@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.175 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.222 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -986,7 +986,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 697 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais |
+| [CJF](tribunais/CJF/) | 744 | Consulta de Enunciados — Jornadas de Equidade Racial, Saúde, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2113,6 +2113,14 @@ Delta sobre a main `be036950`: 79 registros e nenhum órgão, totalizando 38.903
 Integrados 103 enunciados, numerados 1–103, em série própria `en-crises-ambientais-i`, com justificativas e metadados publicados na [Consulta de Enunciados do CJF](https://www.cjf.jus.br/enunciados/), `jornada.id=441`. A listagem consultada em duas capturas apresenta os mesmos 103 vínculos, títulos e textos na mesma ordem das fichas. As 103 fichas individuais foram consultadas duas vezes (206 respostas HTTP 200); os pares têm bytes HTML diferentes, mas os campos de enunciado, justificativa e metadados coincidem. Os bytes e SHA-256 de cada resposta estão nas fichas. Foram lidos todos os enunciados, justificativas, notas e demais campos das fichas. Não há texto no campo de redação revogada nem PDF ligado às fichas; isso não confirma vigência e não permite inferir data individual de aprovação. Espaços foram normalizados sem inserir separadores em elementos inline. Referências citadas não foram atualizadas nem receberam IDs. Erros e divergências foram preservados, incluindo as referências às Leis n. 12.305/2010 e 12.334/2010 no nº 33, às ECs n. 132/2023 e 123/2022 no nº 74, e as grafias do nº 49. Não se infere efeito vinculante ou exaustividade; outras publicações, deliberações e jornadas não foram verificadas neste lote. Capturas, ledger e scripts permanecem privados; somente Markdown público.
 
 Delta sobre a main `a0260802` (39.034 registros em 164 órgãos; CJF 556): 103 registros e nenhum órgão novo, totalizando 39.137 registros em 164 órgãos; CJF passa a 659. As jornadas Comercial I e II, Administrativo I e Processual Civil I/II/III já estão na base atual e contam uma vez cada. FONAJE permanece com 328 registros e as 80 transcrições históricas do MPAL seguem sem IDs novos. A cobertura nacional continua parcial.
+
+## CJF — I Jornada de Direito da Saúde
+
+47 enunciados numerados 1–47, com justificativas integrais, da pesquisa `jornada.id=423` e das fichas capturadas em pares HTTP 200. Bytes e SHA-256 conferidos; todos os campos dos pares coincidem e os corpos coincidem com a pesquisa. Todos os corpos, justificativas e metadados foram lidos diretamente nos HTMLs. Referências legislativas e palavras de resgate ficam separadas, sem atualização normativa ou clínica. FONAJUS/CNJ, ANS e julgados citados não foram tratados como emissores desta série nem geraram registros.
+
+Preservados “Sistema único”, o fecho sem ponto da nº 8, “subscrita” na nº 30, “CACON/UNACOM” nas palavras-chave da nº 29, “sugere- se” na justificativa 22 e os fragmentos de URLs da justificativa 40. Campos de redação anterior e Notas vazios, sem inferência de vigência. Sem PDF/OCR, vinculação, completude ou titularidade atual da coordenação inferidas; documentos apenas citados permanecem pendentes.
+
+Delta sobre a main `6d638d44` (39.175 registros em 164 órgãos; CJF 697): 47 registros e nenhum órgão; total de 39.222 registros em 164 órgãos e CJF 744. III Comercial, Desportivo e Seguridade Social seguem em PRs separados, fora desta conta. FONAJE 328 e histórico MPAL de 80 transcrições sem IDs preservados; nove lacunas originais do BNP permanecem. Capturas e scripts privados; somente Markdown público.
 
 
 ## CJF — IV Jornada de Direito Processual Civil
