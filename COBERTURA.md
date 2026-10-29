@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.542 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.625 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -12,6 +12,7 @@
 | [MPF — Enunciados da 7ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr7/enunciados) | 11 | 11 | 0 |
 | [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados próprios, conjuntos e do GTSI publicados pela 6ª CCR](https://www.mpf.mp.br/atuacao/ccr6/enunciados) | 53 | 53 | 0 |
+| [MPF — Enunciados da 4ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr4/enunciados) | 84 | 83 | 1 |
 | [ANTT — Súmulas no ANTTlegis](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=429&cod_menu=7216) | 14 | 14 | 0 |
 | [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
@@ -906,7 +907,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [MPF](tribunais/MPF/) | 132 | MPF — Enunciados das 1ª, 3ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
+| [MPF](tribunais/MPF/) | 215 | MPF — Enunciados das 1ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
@@ -1389,3 +1390,25 @@ O corpo do conjunto nº 1/2026 coincide com o publicado na página da 4ª CCR, s
 Os riscos foram mantidos em Markdown; espaços, quebras de linha e negrito/itálico foram normalizados. Permanecem grafias como “pleno entendimento”, “pleno atendimento”, “conforme a peculiaridades”, “antropólogo.2.” e “índia.3.”. O nº 51 informa a 506ª RO sem data, que não foi completada. A fundamentação da nº 50, a pauta ODT da 428ª RO e os PDFs vinculados não foram lidos neste lote. Atos, decisões, ofícios, notas técnicas e normas apenas citados não criaram IDs. Datas e ausência de nota não comprovam vigência atual nem efeito vinculante. Não houve PDF/OCR.
 
 Sobre a main eb83d36c32ef3dea923d94f2eca9c6f12b77958d, com 36.489 registros em 141 órgãos e 79 enunciados do MPF, este lote acrescenta 53 registros e nenhum órgão: 36.542 registros em 141 órgãos, e o MPF passa a 132. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. A 2ª CCR, as séries próprias das 4ª e 5ª CCRs, orientações, PDFs, a fundamentação da nº 50 e a pauta ODT continuam pendentes. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
+
+## MPF — enunciados próprios da 4ª CCR
+
+Duas capturas HTTP 200 em 29/10/2026 da [página oficial da 4ª CCR](https://www.mpf.mp.br/atuacao/ccr4/enunciados) têm os mesmos 319.385 bytes, SHA-256 `5481bae77c8a9d14213665147ef178aab4186cc8c09592d0f9e7f5d90b959916`. A página reúne 84 identidades em 87 blocos. Uma já estava publicada: o enunciado conjunto das 4ª e 6ª CCRs e PFDC nº 1/2026, em `mpf-en-conj-ccr4-ccr6-pfdc-1-2026`. O corpo não foi copiado e não houve outro identificador. Os 83 enunciados próprios, nºs 1 a 83, entram na série `en-ccr4`, identificadores `mpf-en-ccr4-1` a `mpf-en-ccr4-83`. Os quatro blocos além das 83 identidades são a segunda versão dos nºs 6, 67, 68 e 73.
+
+Os riscos foram mantidos nos nºs 6, 14, 15, 16, 37, 49, 50, 57, 58, 61, 67 e 68. Os nºs 6, 67 e 68 trazem redação nova e redação anterior riscada. O nº 73 traz o texto atual e apenas o rótulo “Enunciado nº 73 (anterior)”; o PDF não foi lido. Os nºs 16, 49, 50 e 61 trazem o texto riscado na própria página. Os nºs 36, 38 e 46 indicam versão ou redação anterior só por rótulo e vínculo, sem o texto anterior no HTML. Há 133 vínculos. Âncoras sem texto visível nos nºs 81, 82 e 83 apontam para o PDF do enunciado nº 80 e permaneceram nesses registros, sem leitura.
+
+Permanecem as grafias da página: “Referencias” na nº 17, “4ª CCR.,” na nº 21, espaço antes do ponto nas nºs 25 e 51, “ENTEDIMENTO” na nº 36, “dezembro de2015” na nº 39, “novmbro” na nº 43, “nº 59- 4ªCCR” na nº 59, “n°” com sinal de grau na nº 62, “CONTRRAZÕES” na nº 69, “Penal.(Recepção” na nº 71, “Decreto no” e “Lei no” na nº 81 e “MATERIALIDADEDODELITO” na nº 82. As notas de adequação dos nºs 9 e 10 citam enunciados antigos nº 14 e nº 15 de 21/11/2012. Essa numeração antiga não é a das linhas atuais 14 e 15.
+
+Os nºs 14, 15, 37, 57 e 58 tinham no HTML só o título riscado e o aviso de revogação. O aviso permanece em “Texto publicado”. O texto anterior entrou em “Texto histórico”, no mesmo registro.
+
+Os nºs 14 e 15 saíram da página física 5 da Portaria 4ª CCR nº 05, de 3 de agosto de 2016, retificada, seção “PA DE ACOMPANHAMENTO”. Duas capturas HTTP 200 têm 224.695 bytes e SHA-256 `465ee2ed4e20c093a4936a1b72320d2caf9103141afecf7c2b8c8226bd3af1e6`. O arquivo tem 14 páginas. Foram lidas só as páginas físicas 1 e 5. A página 1 identifica o ato, PGR-00216620/2016, a nota de republicação por incorreções no DMPFe, Caderno Extrajudicial nº 146/2016, pág. 7, e o signatário Daniel César Azeredo Avelino, Procurador da República e Secretário-Executivo da 4ª CCR. O rodapé impresso dessa página diz “1/1”; isso não reduz o arquivo a uma página. Os arts. 1º a 5º estão nessa página, não foram copiados para os verbetes e não geraram identificador. Na página 5, cada linha guarda Numeração, Ementa, Enunciado e Motivação. A motivação da nº 14 é a adequação do Enunciado nº 32 - 4ª CCR, de 18 de agosto de 2015. A da nº 15 é a adequação do Enunciado nº 33 - 4ªCCR, de 6 de julho de 2016, com “4ªCCR” sem espaço. A ementa da nº 14 grafa “PA de Acompanhamento” e o enunciado grafa “PA para o acompanhamento”. O fragmento no topo da página 5 continua a linha anterior e não foi atribuído a estes números. As páginas físicas 2 a 4 e 6 a 14 não foram lidas. Uma renumeração de antigos nºs 14 e 15 para 9 e 10 não aparece nas páginas lidas. A portaria não recebeu identificador próprio.
+
+Os PDFs diretos dos nºs 14 e 15 responderam HTTP 404, com 7.105 bytes, SHA-256 `58938c99f52d26c1f48f23221ecc394e0f3c3facc8a741ca8991e8e97007d1a3`, e não são PDF. A Portaria nº 07/2018, citada nos avisos, respondeu HTTP 404 nos caminhos capturados, com o mesmo hash de erro, e não foi lida.
+
+O nº 37 foi lido na página única de duas capturas HTTP 200 com 120.376 bytes e SHA-256 `d2c2c1d32616e3672a5b17a094afde6452dfa6be72e492a6ca61b95335626000`. O vínculo da página é `enunciados-1/Enunciado37.pdf`; as capturas gravadas em `enunciados/Enunciado37.pdf` têm esses bytes. A camada textual é ilegível e a transcrição é visual. O cabeçalho é ENUNCIADO 4ª CCR Nº 37, PGR-00089658/2024. A frase de revogação do PDF não repete o HTML: grafa “item c.1”, separa a aprovação e grafa “7 ª CCRs”, com espaço antes do ordinal de 7. O HTML grafa “item C.1” e põe a sessão no parêntese. A redação riscada, a aprovação em 11 de março de 2024, a data Brasília/DF, 13 de março de 2024, e o signatário Juliano Baiocchi Villa-Verde de Carvalho, Subprocurador-geral da República e Coordenador Executivo da 4ª CCR-MPF, permanecem. A chave da margem foi omitida. A Orientação Conjunta nº 1/2024 não foi lida.
+
+O nº 57 foi lido na página única de duas capturas HTTP 200 com 48.159 bytes e SHA-256 `b3ffa8a2ef5dc1b860f6f6e817138dbd0ee06d6e401a2cc1f8bb887f18ceeee7`, protocolo PGR-00202739/2017. O cabeçalho grafa “4A.CÂMARA”, o título usa “n°” e há espaço antes do parêntese da deliberação de 21 de junho de 2017. A quebra de “tratar-se” foi reunida. Nívio de Freitas Silva Filho, Subprocurador-Geral da República e Coordenador, permanece. A chave e o bloco de login foram omitidos. O aviso HTML de revogação pelo enunciado nº 67 não está nesse PDF.
+
+O nº 58 foi lido na página única de duas capturas HTTP 200 com 47.986 bytes e SHA-256 `b9455e6b823e558cf0e5ed5bff140e1ee5358d1121086a9b3152387e6785e3dd`, protocolo PGR-00085713/2019. A página web desse arquivo estava indisponível; a fonte é a captura HTTP 200. A expressão “(assinado e datado digitalmente)” foi mantida. Nívio de Freitas Silva Filho, Subprocurador-Geral da República e Coordenador, permanece. A chave e o bloco de login foram omitidos. O aviso HTML de revogação pelo enunciado nº 68 não está nesse PDF.
+
+Sobre a main 60efbe51008c16e73dc816a6094345f8bd43fcff, com 36.542 registros em 141 órgãos e 132 enunciados do MPF, este lote acrescenta 83 registros e nenhum órgão: 36.625 registros em 141 órgãos, e o MPF passa a 215. O TJBA permanece em 272. As nove lacunas textuais originais permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Datas, adequações e a ausência de nota não confirmam vigência atual nem efeito vinculante. A 2ª CCR, a série própria da 5ª CCR, as orientações, a Portaria nº 07/2018, as páginas não lidas da Portaria nº 05/2016 e os demais PDFs apenas vinculados continuam pendentes. Este lote não altera as séries da 2ª CCR nem o CNMP. A cobertura nacional continua parcial. Capturas, imagens e scripts ficam privados.
