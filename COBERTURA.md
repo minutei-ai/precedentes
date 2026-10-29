@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.508 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.539 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -989,6 +989,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto no catálogo, com redação histórica de 2017 recuperada |
+| [MPRN](tribunais/MPRN/) | 31 | MPRN — Assentos 01–31 do Conselho Superior; relação oficial compilada, com variantes textuais e revogação preservadas |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 96 | CNMP — CALJ e 1º/2º Congressos de Defesa da Integridade |
@@ -2035,3 +2036,11 @@ Delta sobre a main `fbdcc4db`: 49 registros e um órgão, totalizando 38.168 reg
 Incorporados os 12 enunciados numerados 1–12 da pesquisa `jornada.id=241`, com as doze fichas individuais capturadas em pares HTTP 200. Textos e metadados coincidem nos pares e com a listagem; todos os corpos foram lidos. Referências legislativas, comissões, coordenação e palavras de resgate foram mantidos em campos próprios. As fichas não exibem justificativa. O campo revogado está vazio e isso não confirma vigência. Não se atribui nome ou titularidade atual ao cargo genérico de Coordenador-Geral publicado na fonte. Sem atualização legislativa, vinculação ou completude inferidas. Sem PDF/OCR; PDFs, atas e outras jornadas continuam pendentes.
 
 Delta sobre `aab75242`: 12 registros e nenhum órgão; 38.180 registros em 162 órgãos, CJF 61 (49 de Equidade Racial e 12 de Tributário). PRs 99/MPRN e 101/MPAL históricos seguem separados e fora desta conta. As nove lacunas originais do BNP e os avisos MPAL sem enunciado permanecem. Capturas e scripts privados, apenas Markdown público.
+
+## MPRN — assentos do CSMP
+
+A [página institucional do CSMP/MPRN](https://mprn.mp.br/paginas/conselho-superior-do-ministerio-publico-do-rn/) vincula o [catálogo oficial de assentos](https://archivum.mprn.mp.br/csmp/assento/), que por sua vez lista a [Relação Geral compilada e atualizada](https://archivum.mprn.mp.br/intranet/csmp/files/assento/Rela%C3%A7%C3%A3o%20Geral%20dos%20Assentos%20-%20Compilada%20e%20Atualizada.pdf). A compilação traz os Assentos nº 01–31 em seis páginas. As seis imagens foram lidas visualmente e os 31 textos comparados com a compilação, incluindo a sequência e os números, as redações anteriores riscadas dos nºs 15, 17, 19 e 22 e a anotação de revogação do nº 16. Cada número está em um único registro; avisos, normas citadas e pistas de outros documentos não receberam identificadores.
+
+As páginas institucional e do catálogo, além dos 29 PDFs ligados pelo catálogo, têm capturas pareadas privadas. Os 29 pares e arquivos locais foram conferidos por HTTP, bytes e SHA-256; as 29 URLs originais foram consultadas novamente e responderam HTTP 200 com tamanho e hash coincidentes. Os PDFs individuais foram verificados quanto à integridade das capturas, não lidos para transcrição; os 31 corpos foram conferidos contra a compilação. Capturas, PDFs, imagens e recibos permanecem fora do repositório.
+
+A compilação registra a sequência consultada e as relações textuais nela impressas; isso não estabelece vigência atual, efeito vinculante ou exaustividade da série. Nomes e funções públicas permanecem como publicados; identificadores pessoais e URLs de validação/autenticação não foram incluídos. A main `35eb499f` inclui os 12 enunciados tributários do CJF e tem 38.180 registros em 162 órgãos. Este lote soma 31 registros e um órgão: 38.211 registros em 163 órgãos. A validação global de `fbdcc4db` confirmou 38.119 IDs únicos em 161 órgãos; os acréscimos posteriores foram conferidos em seus escopos, sem nova varredura global desta árvore; nove lacunas do BNP e os avisos MPAL 004/008 sem verbete continuam. FONAJE e o histórico MPAL permanecem em trabalho paralelo.
