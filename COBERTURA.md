@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.509 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.643 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — III Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 134 | 134 | 0 |
 | [CJF — I Jornada de Direito Notarial e Registral](https://www.cjf.jus.br/enunciados/) | 82 | 82 | 0 |
 | [CJF — I Jornada de Direito do Patrimônio Cultural e Natural](https://www.cjf.jus.br/enunciados/) | 46 | 46 | 0 |
 | [CJF — I Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 107 | 107 | 0 |
@@ -991,7 +992,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 1.031 | Consulta de Enunciados — Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 1.165 | Consulta de Enunciados — Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2176,6 +2177,14 @@ Delta sobre `082fcd32`: 46 registros e nenhum órgão, projeção de 39.393 regi
 Delta sobre `1e959025`: 32 registros e nenhum órgão, projeção de 39.254 registros em 164 órgãos e CJF 776. III Comercial, Desportivo e Seguridade continuam em PRs separados, fora desta conta. FONAJE 328, 80 transcrições históricas MPAL sem IDs novos e nove lacunas originais do BNP preservados. Outras publicações seguem pendentes; somente Markdown público, evidências privadas.
 
 Delta sobre `c769edd8` (39.315 registros em 164 órgãos; CJF 837): 32 registros e nenhum órgão; total esperado de 39.347 registros em 164 órgãos e CJF 869. Os PRs #114 e #115 já estão incluídos na base e não são contados de novo. Sem nova contagem global; outros PRs em andamento não entram neste delta.
+
+## CJF — III Jornada de Direito Civil
+
+134 identidades, números 138–271, da [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), filtro `jornada.id=42`. As 268 capturas de fichas têm HTTP 200 e bytes/SHA-256 conferidos; os campos dos pares coincidem, assim como os 134 blocos das duas pesquisas. Corpos e metadados foram lidos. Justificativa e redação anterior vazias; isso não confirma vigência.
+
+A ficha da nº 179 publica só o aviso de cancelamento pelo Enunciado 357 da IV Jornada. O mesmo registro agora contém o texto histórico da coletânea oficial, conferido na página física 40 (impressa 39), com o corpo riscado e a nota fora do risco. Duas capturas do PDF coincidem em 537.291 bytes e SHA-256 `4f3e3b9f00041659d0a70a7bade6fe94a9b4518bee5fc04201eb05ad7ee5b85f`; não se declara leitura das 136 páginas. A nota da nº 143 contém palavras-chave; as notas das nºs 146, 234 e 235 foram preservadas, sem alterar os registros anteriores. A nº 246 conserva sua proposta de alteração da nº 90 no próprio corpo. A vírgula final da nº 252, “EMPRESÁIO”, “SUPEFICIÁRIA” e “aqüestos” não foram corrigidos quando publicados. Referências a artigos antigos e a concordata permanecem como texto da fonte, sem atualização jurídica. Não se inferem vigência, vinculação, completude ou titularidade atual de cargos. Sem OCR; demais páginas do PDF e outras publicações permanecem pendentes neste lote.
+
+Delta sobre `2c64f6c0`: 134 registros e nenhum órgão, projeção de 39.643 registros em 164 órgãos e CJF 1.165. Notarial e III Comercial já estão incluídos na base. As nove lacunas originais do BNP permanecem; o aviso HTML da nº 179 permanece separado do texto histórico recuperado. FONAJE 328 e as 80 transcrições históricas MPAL sem novos IDs preservados. Somente Markdown público; evidências privadas.
 
 
 ## CJF — III Jornada de Direito Comercial
