@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.713 registros únicos de 156 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.721 registros únicos de 157 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -21,6 +21,8 @@ A série de súmulas do MPPI inclui mais uma lacuna textual, independente das no
 | [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
 | [MPMA — Resoluções 15/2022 e 16/2023 do Conselho Superior: enunciados 01–23/22 e 24/23](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
 | [MPMA — Enunciados históricos do Conselho Superior, numeração do catálogo](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
+| [MPPE — Enunciados do Conselho Superior](https://portal.mppe.mp.br/pt/documentos-instrumento-juridico/-/document_library/laxb/view/65343) | 7 | 7 | 0 |
+| [MPPE — Súmulas do Conselho Superior](https://portal.mppe.mp.br/pt/documentos-instrumento-juridico/-/document_library/laxb/view/1066174) | 1 | 1 | 0 |
 | [MPMG — Enunciados de súmulas do CSMP](https://www.mpmg.mp.br/data/files/EC/C7/D3/32/70CF191041383A19760849A8/Enunciados-sum-CSMP-Geral.pdf) | 68 | 68 | 0 |
 | [MPRS — CONDIH e CONDECON nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 8 | 8 | 0 |
 | [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
@@ -956,6 +958,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
+| [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto na página oficial |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
@@ -1868,4 +1871,14 @@ Permanecem as formas impressas, entre elas “de19”, “PRECENDENTES DO STF”
 
 Brasão, logotipo, cabeçalho “CONSELHO SUPERIOR”, selo, rodapé de contato e número de página foram omitidos. Negrito, itálico e quebras de linha foram normalizados. As notas de rodapé dos nºs 10, 11 e 13 ficaram em seção própria, com o mesmo texto. Não há CPF, RG, matrícula pessoal nem chave de acesso. Nomes e funções públicas foram mantidos. Citações, informativos, normas e processos não geraram identificadores. Não se inferiu vigência atual nem efeito vinculante. O MPAC permanece órgão próprio, distinto do TJAC, do TCEAC e do MPF.
 
-Sobre a main `7a180408689713585f4183b271174112940592a7` (37.703 registros em 156 órgãos, MPAC 7), este lote soma dez registros e nenhum órgão: 37.713 registros em 156 órgãos, MPAC 17. Os enunciados 1 a 6 e a decisão da Resolução n. 3.762/2026 já estavam na main. As nove lacunas iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Outras séries, atos posteriores e os diários citados continuam pendentes. Apenas Markdown público; PDF, imagens, capturas e scripts privados. A cobertura nacional continua parcial.
+Sobre a main `224d898d3d09dcca94b29e3562018b420f11cab8` (37.711 registros em 157 órgãos, MPAC 7), este lote soma dez registros e nenhum órgão: 37.721 registros em 157 órgãos, MPAC 17. O PR #79, com oito registros do MPPE, já está integrado nessa base; o PR #81 do MPMS continua aberto e não entra na conta. Os enunciados 1 a 6 e a decisão da Resolução n. 3.762/2026 já estavam na main. As nove lacunas iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Outras séries, atos posteriores e os diários citados continuam pendentes. Apenas Markdown público; PDF, imagens, capturas e scripts privados. A cobertura nacional continua parcial.
+
+## MPPE — enunciados e súmula do Conselho Superior
+
+Sobre a main `7a180408689713585f4183b271174112940592a7`, com 37.703 registros em 156 órgãos, este lote acrescenta oito registros e um órgão: 37.711 registros em 157 órgãos. O MPPI permanece com 16 registros e sua Súmula 01 sem texto publicado, independente das nove lacunas originais do BNP. As nove lacunas textuais do catálogo do BNP permanecem. O Ministério Público de Pernambuco entra como órgão próprio, distinto do TJPE, do TCEPE, do TATEPE, do MPF, do MPT e do CNMP; os oito documentos deste lote não alteram a contagem do catálogo BNP.
+
+O portal de Atos Normativos consultado lista sete enunciados e uma súmula do CSMP. Foram preservados os identificadores `mppe-en-csmp-1` a `mppe-en-csmp-7` e `mppe-sum-csmp-1-2024`. Os seis primeiros enunciados têm fonte documental em DOC; a leitura foi feita nas conversões locais por LibreOffice e conferida nas imagens dessas conversões. A paginação e as quebras das conversões não são garantidas como paginação original. O enunciado 07 é um PDF digitalizado sem camada textual, transcrito visualmente sem OCR; o caractere após 2 e 3 em `§§2O E 3O` permanece incerto entre O e 0, sem conversão para ordinal. A súmula foi lida no bloco do verbete do Diário Oficial Eletrônico de 28/11/2024, página impressa 6, sem incorporar as demais matérias da página. A transcrição não declara vigência atual nem ausência de outros atos ou séries.
+
+As capturas pareadas do catálogo e das fichas foram comparadas apenas pelas entradas e blocos visíveis. Diferenças entre tokens de controle não foram consideradas conteúdo nem publicadas. Capturas, DOCs, PDFs, imagens e conversões permanecem privados; os arquivos públicos deste lote são Markdown.
+
+O Diário Oficial de 07/05/2026, p. 19, traz no art. 60 da Instrução Normativa do Regimento Interno a regra de que súmulas e enunciados anteriores serão renumerados nos termos do art. 24; os arts. 52 e 53 separam enunciados finalísticos e administrativos. O catálogo consultado para este lote ainda apresenta os identificadores usados acima, mas não foi localizada evidência de execução da renumeração nem dos números novos. Fica pendente a conciliação com catálogo ou ato posterior; não foram criados registros nem alterados títulos ou IDs. Isso não afirma vigência, revogação ou cobertura exaurida em 2026. [Fonte oficial: Diário Oficial Eletrônico do MPPE, 07/05/2026, p. 19](https://portal.mppe.mp.br/documents/d/guest/ata-da-8-sessao-ordinaria-do-csmp-doe-07-05-2026-edicao-1923?download=true).
