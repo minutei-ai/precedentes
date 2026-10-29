@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.676 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.779 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -20,6 +20,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 | [CJF — I Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 137 | 137 | 0 |
 | [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
+| [CJF — I Jornada Jurídica de Prevenção e Gerenciamento de Crises Ambientais](https://www.cjf.jus.br/enunciados/) | 103 | 103 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
@@ -2065,3 +2066,9 @@ A compilação registra a sequência consultada e as relações textuais nela im
 Incorporadas 137 identidades numeradas 1–137, conciliadas com a pesquisa pública e as 137 fichas individuais em pares HTTP 200, com os campos coincidentes. Texto e notas preservados; nºs 41 e 64 com redações históricas riscadas conforme o CSS oficial. A nº 56 tinha somente aviso de cancelamento; 96 e 120–137 apenas remissão às propostas. Recuperados os 20 textos na compilação oficial, com leitura visual da capa e das páginas físicas 23, 27 e 30–35, delimitados pelos números. Justificativas e continuações das propostas preservadas; moção, outros verbetes e seção 9 excluídos. Sem OCR ou leitura integral declarada do PDF de 136 páginas. Pares idênticos, tamanho e SHA-256 nas fichas.
 
 Não se corrigiram as irregularidades da nº 96 nem o § 2º de filiação impresso na nº 134. Propostas de alteração e rótulos históricos não foram tratados como lei vigente. Notas de revogação de artigos em 110/111 não viraram cancelamento dos enunciados. Campos Justificativa de 31/71 com palavras-chave mantidos. Sem inferência de vigência, vinculação ou exaustividade. Delta sobre `596774f1`: 137 registros e nenhum órgão, total 38.348 registros em 163 órgãos; CJF198, MPRN31, CNMP96 e FONAJEF271 preservados. O histórico MPAL e o FONAJE continuam em trabalho paralelo, fora da conta. As nove lacunas iniciais do BNP e os avisos MPAL sem texto permanecem. Capturas e derivados privados; somente Markdown público.
+
+## CJF — I Jornada Jurídica de Prevenção e Gerenciamento de Crises Ambientais
+
+Integrados 103 enunciados, numerados 1–103, em série própria `en-crises-ambientais-i`, com os campos de justificativa e metadados publicados na [Consulta de Enunciados do CJF](https://www.cjf.jus.br/enunciados/), `jornada.id=441`. A listagem consultada em duas capturas apresenta os mesmos 103 vínculos e títulos na mesma ordem dos cartões privados do inventário. As 103 fichas individuais foram consultadas duas vezes (206 respostas HTTP 200); os pares têm bytes HTML diferentes, mas os campos de enunciado, justificativa e metadados coincidem. Os bytes e SHA-256 de cada resposta estão nas fichas. Os 103 textos de enunciado coincidem com a listagem. Foram lidos todos os enunciados, justificativas e demais campos das fichas. Não há texto no campo de redação revogada nem PDF ligado às fichas; não se inferiu vigência nem data individual de aprovação. Espaços foram normalizados sem inserir separadores em elementos inline. Referências citadas não foram atualizadas nem receberam IDs. Erros e divergências da fonte foram preservados, como os números das Leis n. 12.305/2010 e 12.334/2010 no nº 33 e das ECs n. 132/2023 e 123/2022 no nº 74, e as grafias do nº 49. Sem inferência de efeito vinculante ou exaustividade; outras publicações, deliberações e jornadas não foram verificadas neste lote. Capturas, ledger e scripts permanecem privados; somente Markdown público.
+
+Delta sobre a main `aff5e3b46` (38.676 registros em 164 órgãos): 103 registros e nenhum órgão novo, totalizando 38.779 registros em 164 órgãos; CJF passa de 198 para 301. As séries de Equidade Racial (49), Tributário (12) e Direito Civil (137) permanecem. O total não inclui o PR 105 Comercial (57) em revisão, a I Jornada Administrativa (40) de outro lote nem a Jornada Processual Civil (107) ainda não integrada. A cobertura permanece parcial.
