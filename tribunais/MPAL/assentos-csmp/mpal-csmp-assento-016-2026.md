@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-Assento n.º 016/2026, do CSMP. “Nas indicações pelo critério de merecimento, existindo candidatos que integrem os quintos constitucional e sucessivos anteriores, prevalece para estes o direito à promoção ou remoção, mesmo que existam candidatos que tenham figurado pela terceira vez em lista consecutiva, ou quinta alternada, porém, não integrantes dos mencionados quintos”.
+Assento n.º 016/2026, do CSMP. “Nas indicações pelo critério de merecimento, existindo candidatos que integrem os quintos constitucional e sucessivos anteriores, prevalece para estes o direito à promoção ou remoção, mesmo que existam candidatos que tenham figurado pela terceira vez em lista consecutiva, ou quinta alternada, porém, não integrantes dos mencionados quintos.”
 
 ## Conferência e limites
 

@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-Assento n.º 013/2026, do CSMP. “A avaliação em primeiro lugar dos remanescentes de lista anterior de merecimento para a composição de nova lista tríplice não configura direito subjetivo à inserção nela, podendo haver preterimento mediante fundamentação suficiente a demonstrar situações mais meritórias de novos candidatos”.
+Assento n.º 013/2026, do CSMP. “A avaliação em primeiro lugar dos remanescentes de lista anterior de merecimento para a composição de nova lista tríplice não configura direito subjetivo à inserção nela, podendo haver preterimento mediante fundamentação suficiente a demonstrar situações mais meritórias de novos candidatos.”
 
 ## Conferência e limites
 

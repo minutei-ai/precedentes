@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-Assento n.º 010/2026, do CSMP. “A Corregedoria Geral do Ministério Público do Estado de Alagoas deverá instruir os processos dos candidatos inscritos à promoção ou remoção por merecimento, exclusivamente, com os dados funcionais dos habilitados que integrem os quintos sucessivos fixos a serem analisados para a composição da lista tríplice”.
+Assento n.º 010/2026, do CSMP. “A Corregedoria Geral do Ministério Público do Estado de Alagoas deverá instruir os processos dos candidatos inscritos à promoção ou remoção por merecimento, exclusivamente, com os dados funcionais dos habilitados que integrem os quintos sucessivos fixos a serem analisados para a composição da lista tríplice.”
 
 ## Conferência e limites
 

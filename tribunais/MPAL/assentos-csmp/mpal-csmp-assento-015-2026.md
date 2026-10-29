@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-Assento n.º 015/2026, do CSMP. “Os candidatos remanescentes de lista anterior, composta para fins de promoção ou remoção pelo critério de merecimento, não obstante possuam a prerrogativa de terem os seus nomes analisados em primeiro escrutínio, não adquirem direito subjetivo à inserção na mesma”.
+Assento n.º 015/2026, do CSMP. “Os candidatos remanescentes de lista anterior, composta para fins de promoção ou remoção pelo critério de merecimento, não obstante possuam a prerrogativa de terem os seus nomes analisados em primeiro escrutínio, não adquirem direito subjetivo à inserção na mesma.”
 
 ## Conferência e limites
 

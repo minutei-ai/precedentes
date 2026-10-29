@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-Assento n.º 011/2026, do CSMP. “Existindo remanescentes de lista anterior a promoção ou remoção por merecimento, os integrantes do Conselho Superior do Ministério Público deverão analisar os requisitos objetivos e subjetivos dos remanescentes e dos demais inscritos que se encontrem no mesmo ambiente constitucional, sem a obrigatoriedade de indicar os remanescentes de listas, desde que, os não remanescentes de listas apresentem critérios superiores aos remanescentes, exigindo-se na indicação adequada fundamentação”.
+Assento n.º 011/2026, do CSMP. “Existindo remanescentes de lista anterior a promoção ou remoção por merecimento, os integrantes do Conselho Superior do Ministério Público deverão analisar os requisitos objetivos e subjetivos dos remanescentes e dos demais inscritos que se encontrem no mesmo ambiente constitucional, sem a obrigatoriedade de indicar os remanescentes de listas, desde que, os não remanescentes de listas apresentem critérios superiores aos remanescentes, exigindo-se na indicação adequada fundamentação.”
 
 ## Conferência e limites
 

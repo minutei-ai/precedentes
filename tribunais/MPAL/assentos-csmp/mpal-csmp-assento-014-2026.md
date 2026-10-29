@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-Assento n.º 014/2026, do CSMP. “Não sendo caso de promoção obrigatória, por inexistir candidato que tenha figurado por três vezes consecutivas ou cinco alternadas em listas de merecimento, o CSMP indicará a lista tríplice e delegará a competência da escolha ao Procurador-Geral de Justiça, nos termos do art. 44, § 7º, in fine, da Lei Complementar Estadual nº 15/1996”.
+Assento n.º 014/2026, do CSMP. “Não sendo caso de promoção obrigatória, por inexistir candidato que tenha figurado por três vezes consecutivas ou cinco alternadas em listas de merecimento, o CSMP indicará a lista tríplice e delegará a competência da escolha ao Procurador-Geral de Justiça, nos termos do art. 44, § 7º, in fine, da Lei Complementar Estadual nº 15/1996.”
 
 ## Conferência e limites
 

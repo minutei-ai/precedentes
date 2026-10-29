@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-Assento n.º 012/2026, do CSMP. “Formada a lista de promoção ou remoção por merecimento e ocorrendo desistência, escrita ou tácita, do indicado para o provimento do cargo, o Procurador-Geral de Justiça proverá o Órgão de Execução dentre os remanescentes da lista composta pelo Conselho Superior do Ministério Público, quando da impossibilidade de recomposição da lista pela ausência de outros habilitados ao certame. Na existência de outros candidatos inscritos, suficientes para uma nova lista tríplice, sua formação ocorrerá na reunião seguinte, vedada a publicação de novo edital”.
+Assento n.º 012/2026, do CSMP. “Formada a lista de promoção ou remoção por merecimento e ocorrendo desistência, escrita ou tácita, do indicado para o provimento do cargo, o Procurador-Geral de Justiça proverá o Órgão de Execução dentre os remanescentes da lista composta pelo Conselho Superior do Ministério Público, quando da impossibilidade de recomposição da lista pela ausência de outros habilitados ao certame. Na existência de outros candidatos inscritos, suficientes para uma nova lista tríplice, sua formação ocorrerá na reunião seguinte, vedada a publicação de novo edital.”
 
 ## Conferência e limites
 
