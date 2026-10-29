@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.657 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.677 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPF — Enunciados do Conselho Institucional](https://www.mpf.mp.br/o-mpf/orgaos-superiores/conselho-institucional/documentos-e-publicacoes-old/enunciados) | 20 | 20 | 0 |
 | [MPF — Enunciados da 1ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr1/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados da 7ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr7/enunciados) | 11 | 11 | 0 |
 | [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
@@ -907,7 +908,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [MPF](tribunais/MPF/) | 247 | MPF — Enunciados das 1ª, 2ª, 3ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
+| [MPF](tribunais/MPF/) | 267 | MPF — Enunciados das 1ª, 2ª, 3ª, 6ª e 7ª CCRs, GTSI, conjuntos e Conselho Institucional, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
@@ -1391,6 +1392,16 @@ Os riscos foram mantidos em Markdown; espaços, quebras de linha e negrito/itál
 
 Sobre a main eb83d36c32ef3dea923d94f2eca9c6f12b77958d, com 36.489 registros em 141 órgãos e 79 enunciados do MPF, este lote acrescenta 53 registros e nenhum órgão: 36.542 registros em 141 órgãos, e o MPF passa a 132. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. A 2ª CCR, as séries próprias das 4ª e 5ª CCRs, orientações, PDFs, a fundamentação da nº 50 e a pauta ODT continuam pendentes. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
 
+## MPF — Conselho Institucional
+
+A página institucional do Conselho liga “Publicações”, cuja pasta aponta o catálogo “Enunciados”. Duas leituras HTTP 200 em 29/10/2026 da pasta e do catálogo têm bytes idênticos em cada par. O caminho contém `documentos-e-publicacoes-old`, sem inferência de situação jurídica a partir do nome. O catálogo publica vinte enunciados, nºs 001 a 020, incorporados em série própria `en-cimpf`, identificadores `mpf-en-cimpf-1` a `mpf-en-cimpf-20`. O Conselho é emissor distinto das câmaras dentro do mesmo órgão MPF; referências a enunciados das câmaras não criaram registros adicionais nem substituíram suas identidades.
+
+Texto jurídico, referências normativas e processuais e notas de aprovação foram transcritos do HTML. A nº 2 conserva o título “Nova Redação” e o vínculo “veja aqui o texto alterado”, cujo destino não foi lido. A nº 19 mantém os dois itens e a grafia “fé público”. A nº 6 mantém os prefixos JF-RJ e JR-RJ dos processos como publicados. As aprovações vão de 21.8.2008, na nº 1, a 13/09/2023, na nº 20. Nenhuma dessas datas foi convertida em vigência atual ou efeito vinculante.
+
+Foram normalizados espaços, quebras de linha, negrito e itálico. Os vinte controles “Acesse em PDF” ou “Acesso em PDF” ficaram como vínculos de cada registro, fora do texto jurídico. Os PDFs, a versão alterada vinculada da nº 2, as atas, as deliberações, os diários e os atos apenas citados permanecem sem leitura autônoma neste lote. A página não esgota os atos do Conselho nem o MPF; a ausência de outra numeração ou de nota de revogação não prova inexistência ou vigência. Não houve PDF/OCR.
+
+Sobre a main 60efbe51, com 36.542 registros em 141 órgãos e 132 do MPF, o lote soma vinte registros e nenhum órgão: 36.562 registros em 141 órgãos e 152 do MPF. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. Capturas e scripts ficam privados e a cobertura nacional continua parcial.
+
 ## MPF — enunciados da 2ª Câmara de Coordenação e Revisão
 
 A página oficial da 2ª Câmara publica os enunciados nºs 1 a 115. O título da página é “Enunciados”; o caminho e a trilha identificam a câmara criminal. Duas capturas HTTP 200 em 29/10/2026 têm 382.538 bytes e SHA-256 `6e1ff3fe4e8e0537bfdb7ca3e551c24def9d05270a7bf2e0fd9ee047966c31da`. Os 115 blocos, sem lacuna e sem repetição, entram na série `en-ccr2`, identificadores `mpf-en-ccr2-1` a `mpf-en-ccr2-115`. O nº 110 fica no mesmo fluxo do nº 111, e os nºs 106 a 89 estão em divisões não fechadas. A segmentação seguiu a ordem linear do HTML. Os caracteres não brancos de cada bloco coincidem com o texto publicado.
@@ -1399,6 +1410,6 @@ Vinte e dois números trazem na página só o aviso de revogação ou cancelamen
 
 Os nºs 109 a 115 e o nº 103 registram aprovação na 8ª Sessão de Coordenação, de 15 de outubro de 2026. Os nºs 98 e 106 registram alteração nessa data. O nº 64 registra revogação nessa data. As notas ficam como publicadas. Não houve vigência inferida.
 
-Foram mantidos o vão em branco entre “da” e “tais” no nº 16, o ano cortado “21.10.201” no nº 50, “especifica” no nº 85, “Restaurado na na” no nº 51, “13.964/19,quando” e “Lei13964/2019” no histórico do nº 98, o espaço de “1 .11” no nº 59, “2ª CCR:Processo” e “DJe 11/12/20201” no nº 89, e o sinal de grau em “1° grau” no nº 3. Nos nºs 36 e 57 há um span com line-through vazio, sem caracteres riscados. O endereço do nº 34 na raiz do sítio respondeu HTTP 404 nas duas capturas; o PDF lido é o do endereço completo do verbete, HTTP 200. O vínculo `n.56` não tem extensão e é PDF. Citações a enunciados de outra Câmara não geraram identificadores. Não houve OCR. Nenhum PDF incorporado passa de uma página.
+Foram mantidos o vão em branco entre “da” e “tais” no nº 16, o ano cortado “21.10.201” no nº 50, “especifica” no nº 85, “Restaurado na na” no nº 51, “13.964/19,quando” e “Lei13964/2019” no histórico do nº 98, o espaço de “1 .11” no nº 59, “2ª CCR:Processo” e “DJe 11/12/20201” no nº 89, e o sinal de grau em “1° grau” no nº 3. O histórico do nº 98 abre com “ENUNCIADO Nº 98.” e repete “ENUNCIADO Nº 98”. No nº 49, as três linhas horizontais entre as quatro redações não entram no corpo. Nos nºs 36 e 57 há um span com line-through vazio, sem caracteres riscados. O endereço do nº 34 na raiz do sítio respondeu HTTP 404 nas duas capturas; o PDF lido é o do endereço completo do verbete, HTTP 200. O vínculo `n.56` não tem extensão e é PDF. Citações a enunciados de outra Câmara não geraram identificadores. Não houve OCR. Nenhum PDF incorporado passa de uma página.
 
-Sobre a main 60efbe51008c16e73dc816a6094345f8bd43fcff, com 36.542 registros em 141 órgãos e 132 enunciados do MPF, este lote acrescenta 115 registros e nenhum órgão: 36.657 registros em 141 órgãos, e o MPF passa a 247. As séries já publicadas da 1ª, 3ª, 6ª e 7ª CCRs, do GTSI e dos conjuntos permanecem. As nove lacunas textuais originais do TJAM e do TJRJ permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. As séries próprias das 4ª e 5ª CCRs, orientações, diários e atos apenas citados continuam pendentes. O acervo coletado do BNP não muda por este lote. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
+Sobre a main 900ca5e8a9f53beaaa782644686d4372426ddb81, com 36.562 registros em 141 órgãos e 152 enunciados do MPF, este lote acrescenta 115 registros e nenhum órgão: 36.677 registros em 141 órgãos, e o MPF passa a 267. As séries já publicadas da 1ª, 3ª, 6ª e 7ª CCRs, do GTSI, dos conjuntos e do Conselho Institucional permanecem. As nove lacunas textuais originais do TJAM e do TJRJ permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. As séries próprias das 4ª e 5ª CCRs, orientações, os PDFs do Conselho Institucional, pautas, atas e atos apenas citados continuam pendentes. O acervo coletado do BNP não muda por este lote. Os 118 da tabela do BNP na linha do TJBA continuam sendo o inventário dessa linha. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
