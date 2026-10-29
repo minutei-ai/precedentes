@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.222 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.262 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -23,6 +23,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CJF — II Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 51 | 51 | 0 |
 | [CJF — III Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 79 | 79 | 0 |
 | [CJF — IV Jornada de Direito Processual Civil](https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/publicacoes-1/i-jornada-de-direito-processual-civil/iv-jornada-de-direito-processual-civil-2013-enunciados-aprovados-2013-2025/@@download/arquivo) | 38 | 38 | 0 |
+| [CJF — I Jornada de Direito Desportivo](https://www.cjf.jus.br/enunciados/) | 40 | 40 | 0 |
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
@@ -986,7 +987,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 744 | Consulta de Enunciados — Jornadas de Equidade Racial, Saúde, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais |
+| [CJF](tribunais/CJF/) | 784 | Consulta de Enunciados — Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2130,3 +2131,12 @@ Delta sobre a main `6d638d44` (39.175 registros em 164 órgãos; CJF 697): 47 re
 Continuações conferidas nas nºs 243 (17–18), 249 (18–19), 261 (20–21) e 273 (22–23). Preservadas referências, pontuação e caixa; “deve-se” partido entre linhas na nº 249 foi reunido sem espaço. Nenhum bloco riscado, nenhuma justificativa reconstruída. Datas técnicas não foram tratadas como aprovação, e não se inferiu vigência, vinculação ou completude.
 
 Delta sobre a main `b7034e65`: 38 registros e nenhum órgão, totalizando 39.175 registros em 164 órgãos e CJF 697. A base inclui os 24 enunciados da II Jornada de Direito Comercial do PR #110 e os 103 da I Jornada de Crises Ambientais do PR #111, já integrados; a III Jornada Comercial continua em PR separado, fora desta conta. I/II/III Processual Civil, I/II Comercial e Administrativo permanecem preservados. FONAJE 328 e as 80 transcrições históricas do MPAL sem IDs novos permanecem. As nove lacunas iniciais do BNP continuam. PDF, imagens, scripts e recibos privados; apenas Markdown público.
+
+
+## CJF — I Jornada de Direito Desportivo
+
+40 enunciados numerados 1–40, com justificativas integrais, da pesquisa `jornada.id=461`. Fichas em pares HTTP 200, bytes e SHA-256 recalculados; campos coincidentes entre os pares e corpos coincidentes com as duas pesquisas. Corpos, justificativas e metadados lidos diretamente nos HTMLs. Coordenação, comissões e palavras de resgate preservadas em campos próprios; referências legislativas ausentes não foram completadas. Notas e texto revogado vazios, sem confirmar vigência.
+
+Mantidos “Justificativa:” na nº 2, “no artigo do art.” na nº 4, “podem geral” e o “¿” final na nº 6, “Acordo De persecussao penal” nas palavras-chave da nº 19, “art. 227” na justificativa 24 e “Lei n. 9.515/1998” na justificativa 27. Grafias, espaços e referências não foram corrigidos nem atualizados. STF, STJ, TST e Justiça Desportiva, quando citados, não receberam IDs; os enunciados de jornada não são decisões judiciais. Sem inferência de vigência, vinculação, completude ou titularidade atual. Sem PDF/OCR; atos e julgados citados não foram consultados neste lote.
+
+Delta sobre a main `1e959025` (39.222 registros em 164 órgãos; CJF 744): 40 registros e nenhum órgão novo, totalizando 39.262 registros em 164 órgãos e CJF 784. A III Jornada Comercial (34) e a Jornada de Seguridade (53, PR #115) permanecem fora desta conta; a base inclui a IV Processual Civil (38) e a Saúde (47). FONAJE 328 e as 80 transcrições históricas do MPAL permanecem sem IDs novos; as nove lacunas originais do BNP continuam. Apenas Markdown público; capturas e scripts privados.
