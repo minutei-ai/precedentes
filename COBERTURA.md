@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.638 registros únicos de 115 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.645 registros únicos de 116 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CCMG — Súmulas do catálogo oficial](https://www.fazenda.mg.gov.br/secretaria/conselho_contribuintes/sumulas/sumulas.html) | 7 | 7 | 0 |
 | [TJBA — Súmulas da Turma de Uniformização dos Juizados Especiais](https://www.tjba.jus.br/juizadosespeciais/wp-content/uploads/2026/06/SUMULAS_ATUALIZADAS_TU.pdf) | 55 | 55 | 0 |
 | [TJBA — Súmulas do catálogo institucional](https://www.tjba.jus.br/portal/sumulas/) | 29 | 12 | 17 |
 | [TIT/SP — Súmulas e fichas de propostas](https://portal.fazenda.sp.gov.br/servicos/tit/Paginas/Jurisprud%C3%AAncia-S%C3%BAmulas.aspx) | 15 | 15 | 0 |
@@ -752,6 +753,10 @@ O catálogo oficial do TJMMG acrescenta nove súmulas, nºs 1 a 9, com textos, r
 
 O catálogo do Tribunal de Impostos e Taxas do Estado de São Paulo acrescenta 15 súmulas, nºs 01 a 15, com os anos de 2003 a 2020 indicados pela fonte. Duas leituras do catálogo coincidem nos textos, notas e vínculos. A nº 05 está cancelada; a nº 08 registra cancelamento em 09/06/2022; a nº 10 mantém a redação anterior e a revisada, com nota de revisão em 09/06/2022, no mesmo registro. As oito fichas HTML das nºs 01 a 08 foram recuperadas em duas leituras coincidentes no conteúdo e incorporadas integralmente, incluindo propostas, fundamentações, votação e a proposta de cancelamento da nº 05. A tabela de processos da ficha nº 05 foi preservada. Diferenças entre catálogo e ficha, grafias e caracteres invisíveis da fonte foram mantidos. Os caminhos das fichas nºs 07 e 08 contêm 2003, mas ambas apresentam numeração de 2005, que foi usada na identidade dos registros. Os oito vínculos a PDFs das nºs 09 a 15, incluindo a revisão da nº 10 e cancelamento da nº 08, permanecem disponíveis como links, sem inteiro teor incorporado ou conferência integral. As súmulas são apresentadas como enunciados administrativos tributários, sem equiparação ao BNP judicial. A ausência de nota de cancelamento não comprova vigência; atos, diários, processos citados e outras séries do órgão continuam pendentes.
 
+## CCMG — súmulas do Conselho de Contribuintes de Minas Gerais
+
+O catálogo institucional do CCMG acrescenta sete súmulas, nºs 01 a 07, com textos e links de documentos associados conferidos em duas leituras em 29/10/2026. As nºs 02 a 06 trazem nota expressa de revogação, preservada junto das redações históricas. A ausência da nota nas nºs 01 e 07 não foi convertida em confirmação de vigência. O catálogo vincula as nºs 02 a 06 ao mesmo PDF, denominado portaria_04_2020.pdf, a nº 07 a portaria_05_2020.pdf e a nº 01 a deliberacao_02_2001.pdf. Esses três documentos, seus inteiros teores, datas e efeitos ainda não foram conferidos neste lote; os nomes dos arquivos não foram usados como data de aprovação ou de revogação. Foram preservadas as grafias e referências legislativas do catálogo, inclusive “pólo” e “disposto no arts.”. Acórdãos, deliberações apenas citadas e outras séries do órgão permanecem pendentes. O CCMG é órgão administrativo tributário próprio e não integra o catálogo judicial BNP consultado.
+
 ## BNP por órgão
 
 A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas separadamente.
@@ -856,6 +861,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
 | [TITSP](tribunais/TITSP/) | 15 | TIT/SP — Súmulas e fichas de propostas |
 | [CARF](tribunais/CARF/) | 254 | CARF — Súmulas consolidadas |
 | [TAMG](tribunais/TAMG/) | 3 | Tribunal de Alçada de Minas Gerais (extinto) — Súmulas preservadas pelo TJMG |
@@ -896,7 +902,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
