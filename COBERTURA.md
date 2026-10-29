@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.711 registros únicos de 157 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.731 registros únicos de 158 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -27,6 +27,7 @@ A série de súmulas do MPPI inclui mais uma lacuna textual, independente das no
 | [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
 | [MPRS — Enunciados CONCIDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
+| [MPMT — Assentos e enunciados do Conselho Superior, pauta e ratificação no DOE](https://mpmt.mp.br/site/storage/webdisco/arquivos/CSMP/3%C2%AA%20Pauta%20RO%20CSMP%2006-03-2023.pdf) | 20 | 20 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
@@ -1871,3 +1872,6 @@ O portal de Atos Normativos consultado lista sete enunciados e uma súmula do CS
 As capturas pareadas do catálogo e das fichas foram comparadas apenas pelas entradas e blocos visíveis. Diferenças entre tokens de controle não foram consideradas conteúdo nem publicadas. Capturas, DOCs, PDFs, imagens e conversões permanecem privados; os arquivos públicos deste lote são Markdown.
 
 O Diário Oficial de 07/05/2026, p. 19, traz no art. 60 da Instrução Normativa do Regimento Interno a regra de que súmulas e enunciados anteriores serão renumerados nos termos do art. 24; os arts. 52 e 53 separam enunciados finalísticos e administrativos. O catálogo consultado para este lote ainda apresenta os identificadores usados acima, mas não foi localizada evidência de execução da renumeração nem dos números novos. Fica pendente a conciliação com catálogo ou ato posterior; não foram criados registros nem alterados títulos ou IDs. Isso não afirma vigência, revogação ou cobertura exaurida em 2026. [Fonte oficial: Diário Oficial Eletrônico do MPPE, 07/05/2026, p. 19](https://portal.mppe.mp.br/documents/d/guest/ata-da-8-sessao-ordinaria-do-csmp-doe-07-05-2026-edicao-1923?download=true).
+
+
+O Ministério Público do Estado de Mato Grosso (MPMT) entra como órgão próprio, distinto do MPMS, do TJMT, do TCEMT e do MPF. A seção 14 da pauta oficial do CSMP compila oito assentos e doze enunciados nas espécies e anos impressos; não houve fusão por similaridade de número ou matéria. Os textos foram publicados como registros do Conselho, sem inferir vigência ou efeito vinculante. O Regimento Interno (Resolução nº 033/2012-CSMP, arts. 46–49) distingue assentos e enunciados. A indexação pública da Resenha 07/2025-CSMP informa ratificação em bloco, mas não enumera itens nem reproduz textos; a captura direta do DOE/MPMT respondeu HTTP 500. Essa indexação é apenas pista e não prova status ou completude. A pauta URL identifica 06/03/2023 e seu cabeçalho imprime 06/março/2022; essa inconsistência permanece anotada. A consulta não localizou catálogo independente mais recente que discrimine números e textos; isso não prova inexistência de outros atos.
