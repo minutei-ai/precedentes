@@ -1,0 +1,76 @@
+# TRF06 · Enunciado das Turmas Recursais Reunidas
+
+**70 registros.** [Voltar ao tribunal](../)
+
+Série das Turmas Recursais reunidas dos Juizados Especiais Federais da 6ª Região. Não são súmulas do plenário do TRF6 nem teses da Turma Regional de Uniformização. A numeração 1 a 70 é a do caderno único; não há, neste PDF, séries separadas por turma.
+
+- [EN-TR 1](trf06-en-tr-1.md) — Sem nota neste caderno
+- [EN-TR 2](trf06-en-tr-2.md) — Cancelado em 07.11.2014
+- [EN-TR 3](trf06-en-tr-3.md) — Sem nota neste caderno
+- [EN-TR 4](trf06-en-tr-4.md) — Cancelado em 07.11.2014
+- [EN-TR 5](trf06-en-tr-5.md) — Sem nota neste caderno
+- [EN-TR 6](trf06-en-tr-6.md) — Sem nota neste caderno
+- [EN-TR 7](trf06-en-tr-7.md) — Sem nota neste caderno
+- [EN-TR 8](trf06-en-tr-8.md) — Cancelado em 07.11.2014
+- [EN-TR 9](trf06-en-tr-9.md) — Sem nota neste caderno
+- [EN-TR 10](trf06-en-tr-10.md) — Sem nota neste caderno
+- [EN-TR 11](trf06-en-tr-11.md) — Cancelado em 10.12.2025
+- [EN-TR 12](trf06-en-tr-12.md) — Sem nota neste caderno
+- [EN-TR 13](trf06-en-tr-13.md) — Cancelado em 10.12.2025
+- [EN-TR 14](trf06-en-tr-14.md) — Cancelado em 10.12.2025
+- [EN-TR 15](trf06-en-tr-15.md) — Cancelado em 02.04.2018
+- [EN-TR 16](trf06-en-tr-16.md) — Cancelado em 10/12/2025
+- [EN-TR 17](trf06-en-tr-17.md) — Sem nota neste caderno
+- [EN-TR 18](trf06-en-tr-18.md) — Sem nota neste caderno
+- [EN-TR 19](trf06-en-tr-19.md) — Sem nota neste caderno
+- [EN-TR 20](trf06-en-tr-20.md) — Sem nota neste caderno
+- [EN-TR 21](trf06-en-tr-21.md) — Sem nota neste caderno
+- [EN-TR 22](trf06-en-tr-22.md) — Sem nota neste caderno
+- [EN-TR 23](trf06-en-tr-23.md) — Sem nota neste caderno
+- [EN-TR 24](trf06-en-tr-24.md) — Sem nota neste caderno
+- [EN-TR 25](trf06-en-tr-25.md) — Cancelado em 10.12.2025
+- [EN-TR 26](trf06-en-tr-26.md) — Sem nota neste caderno
+- [EN-TR 27](trf06-en-tr-27.md) — Sem nota neste caderno
+- [EN-TR 28](trf06-en-tr-28.md) — Sem nota neste caderno
+- [EN-TR 29](trf06-en-tr-29.md) — Cancelado em 07.11.2014
+- [EN-TR 30](trf06-en-tr-30.md) — Cancelado em 07.11.2014
+- [EN-TR 31](trf06-en-tr-31.md) — Cancelado em 07.11.2014
+- [EN-TR 32](trf06-en-tr-32.md) — Redação alterada em 02.04.2018
+- [EN-TR 33](trf06-en-tr-33.md) — Cancelado em 10/12/2025
+- [EN-TR 34](trf06-en-tr-34.md) — Sem nota neste caderno
+- [EN-TR 35](trf06-en-tr-35.md) — Sem nota neste caderno
+- [EN-TR 36](trf06-en-tr-36.md) — Sem nota neste caderno
+- [EN-TR 37](trf06-en-tr-37.md) — Cancelado em 07.11.2014
+- [EN-TR 38](trf06-en-tr-38.md) — Sem nota neste caderno
+- [EN-TR 39](trf06-en-tr-39.md) — Cancelado em 07.11.2014
+- [EN-TR 40](trf06-en-tr-40.md) — Sem nota neste caderno
+- [EN-TR 41](trf06-en-tr-41.md) — Redação alterada em 02.04.2018
+- [EN-TR 42](trf06-en-tr-42.md) — Redação alterada em 02.04.2018
+- [EN-TR 43](trf06-en-tr-43.md) — Sem nota neste caderno
+- [EN-TR 44](trf06-en-tr-44.md) — Cancelado em 07.11.2014
+- [EN-TR 45](trf06-en-tr-45.md) — Cancelado em 07.11.2014
+- [EN-TR 46](trf06-en-tr-46.md) — Sem nota neste caderno
+- [EN-TR 47](trf06-en-tr-47.md) — Sem nota neste caderno
+- [EN-TR 48](trf06-en-tr-48.md) — Cancelado em 07.11.2014
+- [EN-TR 49](trf06-en-tr-49.md) — Cancelado em 02.04.2018
+- [EN-TR 50](trf06-en-tr-50.md) — Cancelado em 02.04.2018
+- [EN-TR 51](trf06-en-tr-51.md) — Redação alterada em 10.12.2025
+- [EN-TR 52](trf06-en-tr-52.md) — Cancelado em 10.12.2025
+- [EN-TR 53](trf06-en-tr-53.md) — Redação alterada em 15.04.2026
+- [EN-TR 54](trf06-en-tr-54.md) — Cancelado em 29.04.2022
+- [EN-TR 55](trf06-en-tr-55.md) — Sem nota neste caderno
+- [EN-TR 56](trf06-en-tr-56.md) — Redação alterada em 02.04.2018
+- [EN-TR 57](trf06-en-tr-57.md) — Sem nota neste caderno
+- [EN-TR 58](trf06-en-tr-58.md) — Cancelado em 10.12.2025
+- [EN-TR 59](trf06-en-tr-59.md) — Cancelado em 10.12.2025
+- [EN-TR 60](trf06-en-tr-60.md) — Redação alterada em 10.12.2025
+- [EN-TR 61](trf06-en-tr-61.md) — Cancelado em 10.12.2025
+- [EN-TR 62](trf06-en-tr-62.md) — Aprovado em 10.12.2025
+- [EN-TR 63](trf06-en-tr-63.md) — Aprovado em 10.12.2025
+- [EN-TR 64](trf06-en-tr-64.md) — Aprovado em 15.04.2026
+- [EN-TR 65](trf06-en-tr-65.md) — Aprovado em 15.04.2026
+- [EN-TR 66](trf06-en-tr-66.md) — Aprovado em 15.04.2026
+- [EN-TR 67](trf06-en-tr-67.md) — Aprovado em 15.04.2026
+- [EN-TR 68](trf06-en-tr-68.md) — Aprovado em 15.04.2026
+- [EN-TR 69](trf06-en-tr-69.md) — Aprovado em 15.04.2026
+- [EN-TR 70](trf06-en-tr-70.md) — Aprovado em 15.04.2026
