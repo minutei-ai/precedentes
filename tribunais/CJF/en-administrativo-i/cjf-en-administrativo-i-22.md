@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6073 bytes; `de4834a8cec21c4d025aa01f88792224ce00189c1a40ce30fc55348f4b98f2fc`
 - **HTML 2 — bytes e SHA-256:** 6073 bytes; `3bcb5c91d92c29403f3a260f41c9265b814d3fb0bd818892f4ef5a398d7c6a94`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.303/2016ART: 28 PAR:4;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.303/2016 ART: 28 PAR:4;
 
 ## Enunciado publicado
 

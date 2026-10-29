@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6089 bytes; `fb0d914bd0db57a80f7b5d83be2939b4b69b46d5803c4e8090cf5b1db8286df1`
 - **HTML 2 — bytes e SHA-256:** 4530 bytes; `1d1a12dc428a03d9d034d77104c31664d8335a38c4587b7720e7a17b17e607d2`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.303/2016ART: 83 PAR:2;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.303/2016 ART: 83 PAR:2;
 - **Palavras de Resgate na ficha:** EDITAL DE LICITAÇÃO, SANÇÃO ADMINISTRATIVA
 
 ## Enunciado publicado

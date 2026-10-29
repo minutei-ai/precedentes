@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6105 bytes; `6577472e7bfc8c95e173f17c257ec608bd7d37dbeb7074399e1b88ec4f2d512b`
 - **HTML 2 — bytes e SHA-256:** 6105 bytes; `7dbb991e48e38a40fd32b0a128d8152ae34c6a2c072797f1c437b157c3f87ff4`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.303/2016ART: 17 PAR:1;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.303/2016 ART: 17 PAR:1;
 - **Palavras de Resgate na ficha:** RESPONSABILIDADE LEGAL, MERCADO DE CAPITAIS, FAVORECIMENTO PESSOAL
 
 ## Enunciado publicado

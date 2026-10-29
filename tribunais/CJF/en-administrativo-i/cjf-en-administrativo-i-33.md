@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6127 bytes; `61fcd15b28e9025d4e2978535374c2bd76a1ee33e954361b863de695cbaddb2c`
 - **HTML 2 — bytes e SHA-256:** 6127 bytes; `e0940342c299c27377ba64f3ed0330cb7e7b5fa582aa740fbb461e6e40ac8fac`
-- **Referência Legislativa na ficha:** Norma:Código de Processo Civil 2015 - Lei n. 13.105/2015ART: 219; ART: 15;
+- **Referência Legislativa na ficha:** Norma: Código de Processo Civil 2015 - Lei n. 13.105/2015 ART: 219; ART: 15;
 - **Palavras de Resgate na ficha:** PROCESSO ADMINISTRATIVO, PROCEDIMENTO ADMINISTRATIVO, COMPETÊNCIA ADMINISTRATIVA
 
 ## Enunciado publicado

@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6030 bytes; `ff8f7a64a492fd5f8efef204f7c9dbe748220c44a56decf559648448520fe9a8`
 - **HTML 2 — bytes e SHA-256:** 6030 bytes; `0b744a4ac4f69b3b00d915661d5a1fdc50d415ac71a62c63c2ecf70cbf2661ca`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.934/2019ART: 3;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.934/2019 ART: 3;
 
 ## Enunciado publicado
 

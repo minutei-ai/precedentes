@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6157 bytes; `8bdee6c81be8332315b15c100e41fa1a8e4321dfb60a89f852856ba7e5a2e5b0`
 - **HTML 2 — bytes e SHA-256:** 6157 bytes; `e73c9a8e006d9f1299a7a20f44ee3472311c4808acf3e5258e069f187e22c745`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.303/2016ART: 27 PAR:3; ART: 27 PAR:2; ART: 27 PAR:1;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.303/2016 ART: 27 PAR:3; ART: 27 PAR:2; ART: 27 PAR:1;
 - **Palavras de Resgate na ficha:** RESPONSABILIDADE SOCIAL, EFETIVIDADE, EFICÁCIA
 
 ## Enunciado publicado

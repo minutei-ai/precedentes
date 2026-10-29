@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6119 bytes; `7fc28ae00359230038e15c204872533b67f053cdfaf4c5d52bdf3eab7ea8e404`
 - **HTML 2 — bytes e SHA-256:** 6119 bytes; `ea960516b16fb1d562195990b82edd3ff224ddf8fbc99501874457b24e17fe21`
-- **Referência Legislativa na ficha:** Norma:Decreto-Lei n. 3.365/1941ART: 9;
+- **Referência Legislativa na ficha:** Norma: Decreto-Lei n. 3.365/1941 ART: 9;
 - **Palavras de Resgate na ficha:** AÇÃO REINVINDICATÓRIA, AÇÃO DE DESAPROPRIAÇÃO
 
 ## Enunciado publicado

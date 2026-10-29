@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6225 bytes; `e78494a6888b3360a288457736ef86a59ad2c70d7e800a589f0b0e97a49d56e8`
 - **HTML 2 — bytes e SHA-256:** 6225 bytes; `eb7d156f25621c181527311a4866f986642a7414cac23827e5b6a6a225ca6fa0`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.303/2016ART: 28 INC:2 PAR:3;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.303/2016 ART: 28 INC:2 PAR:3;
 - **Palavras de Resgate na ficha:** CONTRATO ADMINISTRATIVO, EMPRESA GOVERNAMENTAL, ENTIDADE ESTATAL, ADMINISTRAÇÃO INDIRETA
 
 ## Enunciado publicado

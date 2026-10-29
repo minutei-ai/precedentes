@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6167 bytes; `354861b2c9ea5fffb540a05d45b44b328e96bcf13c038a101fcd1a853dcf589c`
 - **HTML 2 — bytes e SHA-256:** 6167 bytes; `a9ddfd9976e7a87cbc4cae4610cd849f75138bb52c66606a67de866f6788b2dd`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.303/2016Norma:Lei de Licitações e Contratos da Administração Pública - Lei n. 8.666/1993
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.303/2016 Norma: Lei de Licitações e Contratos da Administração Pública - Lei n. 8.666/1993
 - **Palavras de Resgate na ficha:** CONTRATO ADMINISTRATIVO
 
 ## Enunciado publicado

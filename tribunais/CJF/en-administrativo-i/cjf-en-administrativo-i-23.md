@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6416 bytes; `b03410467c49f49db31181e500cebe3ad2e8bb602f851f510a97fab6f094a006`
 - **HTML 2 — bytes e SHA-256:** 6416 bytes; `061ccf3e1ad661eb30e70339f2c055439bab692e9b0d461d6a88b11918255abd`
-- **Referência Legislativa na ficha:** Norma:Regime Jurídico dos Servidores Públicos Civis da União, Fundações Públicas Federais e Autarquias - Lei n. 8.112/1990ART: 9 INC:2; ART: 10;
+- **Referência Legislativa na ficha:** Norma: Regime Jurídico dos Servidores Públicos Civis da União, Fundações Públicas Federais e Autarquias - Lei n. 8.112/1990 ART: 9 INC:2; ART: 10;
 - **Palavras de Resgate na ficha:** CARGO COMISSIONADO, CARGO EM COMISSÃO, FUNÇÃO DE CONFIANÇA
 
 ## Enunciado publicado

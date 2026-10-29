@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6204 bytes; `c23c60a418ffd17a1cef403a669da9e99b407056bc1aa40fbd7e4cbe9274dc70`
 - **HTML 2 — bytes e SHA-256:** 6204 bytes; `3db303ecd712f6ac4eda9f545a64b9fcff4ed5ee809029ef379620325770b2fc`
-- **Referência Legislativa na ficha:** Norma:Lei de Acesso à Informação - Lei n. 12.527/2011ART: 1 INC:2 PAR:Único;
+- **Referência Legislativa na ficha:** Norma: Lei de Acesso à Informação - Lei n. 12.527/2011 ART: 1 INC:2 PAR:Único;
 - **Palavras de Resgate na ficha:** ADMINISTRAÇÃO INDIRETA, EMPRESA PÚBLICA, POLÍTICA DE INFORMAÇÃO
 
 ## Enunciado publicado

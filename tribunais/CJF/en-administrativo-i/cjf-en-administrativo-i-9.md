@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6266 bytes; `c1097f835b628967257f4326c3d205092da607fdd7b17c26a982374e104d8915`
 - **HTML 2 — bytes e SHA-256:** 6266 bytes; `99c983157f2d8e89c5518ed6c5c17ed232f5b081092ab839daa907ebc6e88105`
-- **Referência Legislativa na ficha:** Norma:Constituição Federal - 1988ART: 18;Norma:Lei n. 9.790/1999ART: 18 PAR:1; ART: 18 PAR:2; ART: 2 INC:9;
+- **Referência Legislativa na ficha:** Norma: Constituição Federal - 1988 ART: 18; Norma: Lei n. 9.790/1999 ART: 18 PAR:1; ART: 18 PAR:2; ART: 2 INC:9;
 - **Palavras de Resgate na ficha:** FEDERAÇÃO
 
 ## Enunciado publicado

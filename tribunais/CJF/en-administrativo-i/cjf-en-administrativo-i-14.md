@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6203 bytes; `0d85d72af9dc0a8ff9322d0e13c5ea6849efb2276d53156b8c444bb7253c249d`
 - **HTML 2 — bytes e SHA-256:** 6203 bytes; `4624b7a7de0fcaf3c450dc95ff9ef481add4f620a2ef7434f103841247ac0a4c`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.303/2016ART: 2 PAR:1;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.303/2016 ART: 2 PAR:1;
 - **Palavras de Resgate na ficha:** INTERESSE PÚBLICO
 
 ## Enunciado publicado

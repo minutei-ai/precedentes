@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6034 bytes; `154107538b3612aab42daf49e70694ea6385ab67a29bfa93a4b73474fe5061cf`
 - **HTML 2 — bytes e SHA-256:** 6034 bytes; `428f7e556dc3208eea1b8eb4ddde1c7f54aa5254a6b0cd3c82e731f258311af1`
-- **Referência Legislativa na ficha:** Norma:Lei n. 10.520/2002
+- **Referência Legislativa na ficha:** Norma: Lei n. 10.520/2002
 - **Palavras de Resgate na ficha:** LICITAÇÃO, PREGÃO, BENS COMUNS, OBJETO DO CONTRATO
 
 ## Enunciado publicado

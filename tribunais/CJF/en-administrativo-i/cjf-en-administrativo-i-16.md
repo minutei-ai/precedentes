@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6268 bytes; `402bac02dc668333c71b3f8f2bdda2a52003152735717182637e09c40a042e2e`
 - **HTML 2 — bytes e SHA-256:** 6268 bytes; `d3a180eabae8e4380a36203fe92291201b90d345a13ffc4aac6ee8688ba4ea8b`
-- **Referência Legislativa na ficha:** Norma:Regime Jurídico dos Servidores Públicos Civis da União, Fundações Públicas Federais e Autarquias - Lei n. 8.112/1990ART: 36 INC:3 PAR:Único;
+- **Referência Legislativa na ficha:** Norma: Regime Jurídico dos Servidores Públicos Civis da União, Fundações Públicas Federais e Autarquias - Lei n. 8.112/1990 ART: 36 INC:3 PAR:Único;
 - **Palavras de Resgate na ficha:** ATO DISCRICIONÁRIO, ATO VINCULADO, ATO ADMINISTRATIVO
 
 ## Enunciado publicado

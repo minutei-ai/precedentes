@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6001 bytes; `4a19bd0b82ee4d903ff1c8bd4869b3ee06bd64ef1ac96edfcd9cc40379158c7d`
 - **HTML 2 — bytes e SHA-256:** 6001 bytes; `fe8283f26384cb36043a8d3e12b5e91a7be560033afac153f5ea5bad7c72beac`
-- **Referência Legislativa na ficha:** Norma:Lei de Acesso à Informação - Lei n. 12.527/2011
+- **Referência Legislativa na ficha:** Norma: Lei de Acesso à Informação - Lei n. 12.527/2011
 - **Palavras de Resgate na ficha:** COMPROMISSO ARBITRAL, JUÍZO ARBITRAL, SENTENÇA ARBITRAL
 
 ## Enunciado publicado

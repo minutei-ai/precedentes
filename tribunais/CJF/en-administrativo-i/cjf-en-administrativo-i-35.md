@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6026 bytes; `01a1232e31e218d78e9975ff4979a7a34221d398aa8a79614b15d7163b8c5f54`
 - **HTML 2 — bytes e SHA-256:** 6026 bytes; `9f30fe5193ce39d0d93d2e0d7e07136367df8900468ca2dc5ba7467866b7029d`
-- **Referência Legislativa na ficha:** Norma:Lei de Licitações e Contratos da Administração Pública - Lei n. 8.666/1993ART: 5;
+- **Referência Legislativa na ficha:** Norma: Lei de Licitações e Contratos da Administração Pública - Lei n. 8.666/1993 ART: 5;
 - **Palavras de Resgate na ficha:** MANDADO DE SEGURANÇA, AMPARO, RECURSO, CONTRATO ADMINISTRATIVO
 
 ## Enunciado publicado

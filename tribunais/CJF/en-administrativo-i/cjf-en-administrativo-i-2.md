@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6858 bytes; `2bd150ffc6012ab377924a12cd286c2bd2fc80ff134af9092fa80ef11b915943`
 - **HTML 2 — bytes e SHA-256:** 6858 bytes; `08b8ab775a94c4fc8fb79622180f230b501ac1488e4123b1e616f326ea909c24`
-- **Referência Legislativa na ficha:** Norma:Decreto-Lei n. 9.760/1946ART: 79 PAR:2;Norma:Constituição Federal - 1988ART: 37;Norma:Lei n. 9.636/1998ART: 11;Norma:Código Civil 2002 - Lei n. 10.406/2002ART: 1210 PAR:1;
+- **Referência Legislativa na ficha:** Norma: Decreto-Lei n. 9.760/1946 ART: 79 PAR:2; Norma: Constituição Federal - 1988 ART: 37; Norma: Lei n. 9.636/1998 ART: 11; Norma: Código Civil 2002 - Lei n. 10.406/2002 ART: 1210 PAR:1;
 - **Palavras de Resgate na ficha:** DECISÃO JUDICIAL, ORDEM JUDICIAL, ASSENTAMENTO IRREGULAR, PROPRIEDADE
 
 ## Enunciado publicado

@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6092 bytes; `f58778f3a5e793666369fa226f15054dc2750d359b3097da3e3b48c28bd22544`
 - **HTML 2 — bytes e SHA-256:** 6092 bytes; `7301d0227afe5814e84dbba1e89537302c01b2cd08af6fcca933bcc39f1b915a`
-- **Referência Legislativa na ficha:** Norma:Lei de Licitações e Contratos da Administração Pública - Lei n. 8.666/1993
+- **Referência Legislativa na ficha:** Norma: Lei de Licitações e Contratos da Administração Pública - Lei n. 8.666/1993
 - **Palavras de Resgate na ficha:** JUÍZO ARBITRAL, SENTENÇA ARBITRAL, SOLUÇÃO DE CONFLITO
 
 ## Enunciado publicado

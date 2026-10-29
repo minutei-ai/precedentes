@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6119 bytes; `b962799e37ba9f32d0f146997c2217e4fa5d78192c992ccde69f8dc6611c1669`
 - **HTML 2 — bytes e SHA-256:** 6119 bytes; `b93d36fd69f333b48c4f3bc0a511c4ff3ec9344b12c0e7059e29406c68235988`
-- **Referência Legislativa na ficha:** Norma:Lei de Licitações e Contratos da Administração Pública - Lei n. 8.666/1993ART: 33 INC:5;
+- **Referência Legislativa na ficha:** Norma: Lei de Licitações e Contratos da Administração Pública - Lei n. 8.666/1993 ART: 33 INC:5;
 - **Palavras de Resgate na ficha:** CONTRATO ADMINISTRATIVO, RESPONSABILIDADE CIVIL, PENALIDADE ADMINISTATIVA, RESPONSABILIDADE SOLIDÁRIA
 
 ## Enunciado publicado

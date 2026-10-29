@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6131 bytes; `c64fec87d68c85fd4e09070259deca6a97e7a68aa339bc35eb4cca9efeb6b620`
 - **HTML 2 — bytes e SHA-256:** 6131 bytes; `5e827089b3ac4e1102dac4c30ce4dad7cc76499972c637e6b052cd34569ce9b3`
-- **Referência Legislativa na ficha:** Norma:Lei n. 12.846/2013ART: 5 INC:4;
+- **Referência Legislativa na ficha:** Norma: Lei n. 12.846/2013 ART: 5 INC:4;
 - **Palavras de Resgate na ficha:** DOCUMENTO FALSIFICADO, FALSIDADE DOCUMENTAL, FRAUDE
 
 ## Enunciado publicado

@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6289 bytes; `5ecffd6fdb40406ef9adac18991c386055597797ac017005a3ee2f3376797a87`
 - **HTML 2 — bytes e SHA-256:** 6289 bytes; `5b5c9b719e7b30510f4322d26f41829cab6605ac094cdcd87740dd06666d3482`
-- **Referência Legislativa na ficha:** Norma:Código Civil 2002 - Lei n. 10.406/2002ART: 206 INC:5 PAR:3;Norma:Decreto n. 20.910/1932ART: 1;
+- **Referência Legislativa na ficha:** Norma: Código Civil 2002 - Lei n. 10.406/2002 ART: 206 INC:5 PAR:3; Norma: Decreto n. 20.910/1932 ART: 1;
 - **Palavras de Resgate na ficha:** ENTE DA FEDERAÇÃO, ADMINISTRAÇÃO FEDERAL, PESSOA JURÍDICA DE DIREITO PÚBLICO
 
 ## Enunciado publicado

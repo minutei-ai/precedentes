@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 5285 bytes; `8b3d97ed2e756255a02f7d9426e31f14e8a7c40d615c239fbb899966a3e9f38f`
 - **HTML 2 — bytes e SHA-256:** 6844 bytes; `00e8d75ef0aa3d92b3b02b05611f36ca0f5ad3ade46ae7d2c2778b800f833809`
-- **Referência Legislativa na ficha:** Norma:Regime Jurídico dos Servidores Públicos Civis da União, Fundações Públicas Federais e Autarquias - Lei n. 8.112/1990ART: 20; ART: 21;Norma:Constituição Federal - 1988ART: 41; ART: 41 PAR:4;Norma:Regime Jurídico dos Servidores Públicos Civis da União, Fundações Públicas Federais e Autarquias - Lei n. 8.112/1990ART: 22;
+- **Referência Legislativa na ficha:** Norma: Regime Jurídico dos Servidores Públicos Civis da União, Fundações Públicas Federais e Autarquias - Lei n. 8.112/1990 ART: 20; ART: 21; Norma: Constituição Federal - 1988 ART: 41; ART: 41 PAR:4; Norma: Regime Jurídico dos Servidores Públicos Civis da União, Fundações Públicas Federais e Autarquias - Lei n. 8.112/1990 ART: 22;
 
 ## Enunciado publicado
 

@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6209 bytes; `6b4348269425e24e204584ef243c3e33c4cad675818d9c7329f7b19de7518d98`
 - **HTML 2 — bytes e SHA-256:** 6209 bytes; `6b45dc8d2aae32ac8d2a01d45c47bf54a017dbf7cb1b8c0314390ae8ee915390`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.848/2019ART: 3;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.848/2019 ART: 3;
 - **Palavras de Resgate na ficha:** SUBORDINAÇÃO HIERÁRQUICA, AUTONOMIA FUNCIONAL
 
 ## Enunciado publicado

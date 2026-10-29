@@ -13,7 +13,7 @@
 - **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos da ficha e texto iguais entre os pares e à listagem da jornada
 - **HTML 1 — bytes e SHA-256:** 6396 bytes; `b1948acd92c33433a3e57d56085f49cd694ef8ac1a79161f42f39a23c2a8a183`
 - **HTML 2 — bytes e SHA-256:** 6396 bytes; `0c9be711a30a43b42f130a524962913c5527eb96d3ec1ea8134bd950d5f12736`
-- **Referência Legislativa na ficha:** Norma:Lei n. 13.303/2016ART: 28 INC:2 PAR:3; ART: 28 PAR:4;
+- **Referência Legislativa na ficha:** Norma: Lei n. 13.303/2016 ART: 28 INC:2 PAR:3; ART: 28 PAR:4;
 - **Palavras de Resgate na ficha:** CONTRATO ADMINISTRATIVO, PRESTAÇÃO DE SERVIÇO
 
 ## Enunciado publicado
