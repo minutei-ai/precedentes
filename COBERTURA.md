@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.711 registros únicos de 157 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.721 registros únicos de 157 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -12,6 +12,7 @@ A série de súmulas do MPPI inclui mais uma lacuna textual, independente das no
 | --- | ---: | ---: | ---: |
 | [MPAC — Enunciados do CSMP, documentos 1 a 6](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 6 | 6 | 0 |
 | [MPAC — Decisão da Resolução n. 3.762/2026](https://www.mpac.mp.br/administracao-superior/conselho-superior/resolucoes-normativas/) | 1 | 1 | 0 |
+| [MPAC — Enunciados do CSMP, documentos 7 a 16](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 10 | 10 | 0 |
 | [MPRS — Encontro Estadual da Infância e Juventude de 2005, Anexo Único da Resolução 05/2007](https://www.mprs.mp.br/legislacao/resolucoes/3670/) | 62 | 62 | 0 |
 | [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
 | [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
@@ -947,7 +948,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [MPAC](tribunais/MPAC/) | 7 | MPAC — 6 enunciados e uma decisão colegiada do CSMP |
+| [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
 | [MPMA](tribunais/MPMA/) | 48 | MPMA — Enunciados do Conselho Superior: revisão de 2022, nº 24/23 e numeração histórica do catálogo |
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
@@ -1861,6 +1862,16 @@ As duas capturas HTML dos catálogos, datadas de 29/10/2026, listam 12 súmulas 
 O texto publicado das súmulas 02–12 e dos enunciados 01–04 foi conferido com os nós de texto dos dois HTMLs. A Súmula 08 termina em “2.000 UFR” na página; não houve complementação. Nos enunciados 01–03, justificativas e trechos de voto aparecem concatenados após o verbete no HTML. Esses complementos foram incorporados em seção própria em 29/10/2026, sem alterar o texto dos enunciados nem afirmar reprodução integral da ata. Os 11 documentos vinculados (PDF/ODT) não foram lidos nem transcritos. O Regimento Interno de 2025, atas, atos de aprovação e demais documentos citados ficam pendentes. Não se inferiu vigência atual nem efeito vinculante.
 
 Sobre a main `369c7115bba9ddc5a349b7d5af5f6d85ad119b38`, com 37.687 registros em 155 órgãos, este lote soma 16 registros e um órgão: 37.703 registros em 156 órgãos; MPPI 16 e MPSP 80. MPAC 7, MPRS 206 e os demais acervos da base permanecem. Apenas Markdown público; capturas, PDFs e scripts privados. A cobertura nacional continua parcial.
+
+## MPAC — enunciados 7 a 16 do CSMP
+
+O catálogo oficial lista os enunciados 7 a 16. Os dez PDFs foram capturados em par em 29/10/2026, com HTTP 200, bytes iguais e o mesmo SHA-256 em cada par. Todas as 98 páginas foram lidas na imagem e na camada de texto, sem OCR: 3, 12, 12, 3, 6, 14, 12, 8, 15 e 13 páginas. O nº 7 tem data de título 19/12/2023 e quadro “Publicado no DEMPAC 1.671, datado de 22/01/2024, pg.29”. Os nºs 8 a 13 têm data de título 23/09/2024. Os nºs 14 a 16 têm data de título 14/04/2025 e quadro “Publicada DEMPAC”, sem a preposição, no DEMPAC Ano 9 - nº 1967, de 14/04/2025. Os quadros de 2024 conservam “flS”; os de 2025, “fls.”. O diário não foi lido.
+
+Permanecem as formas impressas, entre elas “de19”, “PRECENDENTES DO STF”, o parêntese não fechado da primeira citação do RE 563708, “XX de julho de 2024”, “instaurado no instaurado no”, “PERTECENTE”, “PREDECENTE”, “CONSELHELHO”, “No caso análise”, “SEPULVEDA PERTENCE”, “antigüidade”, “art. art. 61” e o sinal de grau em “2°”. Os nºs 14 a 16 não têm linha de local e data; o fecho é a assinatura. O preâmbulo do nº 9 imprime o PCA 09.2024.00000563-0 e o do nº 13 imprime o PCA 09.2024.00000567-4; o nome do arquivo não alterou esses números. A Resolução n. 3.022/2025 aparece duas vezes, com os SAJ 09.2024.00002117-4 e 09.2024.00002118-5. “09.2023.00001449-1na” fica como impresso.
+
+Brasão, logotipo, cabeçalho “CONSELHO SUPERIOR”, selo, rodapé de contato e número de página foram omitidos. Negrito, itálico e quebras de linha foram normalizados. As notas de rodapé dos nºs 10, 11 e 13 ficaram em seção própria, com o mesmo texto. Não há CPF, RG, matrícula pessoal nem chave de acesso. Nomes e funções públicas foram mantidos. Citações, informativos, normas e processos não geraram identificadores. Não se inferiu vigência atual nem efeito vinculante. O MPAC permanece órgão próprio, distinto do TJAC, do TCEAC e do MPF.
+
+Sobre a main `224d898d3d09dcca94b29e3562018b420f11cab8` (37.711 registros em 157 órgãos, MPAC 7), este lote soma dez registros e nenhum órgão: 37.721 registros em 157 órgãos, MPAC 17. O PR #79, com oito registros do MPPE, já está integrado nessa base; o PR #81 do MPMS continua aberto e não entra na conta. Os enunciados 1 a 6 e a decisão da Resolução n. 3.762/2026 já estavam na main. As nove lacunas iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Outras séries, atos posteriores e os diários citados continuam pendentes. Apenas Markdown público; PDF, imagens, capturas e scripts privados. A cobertura nacional continua parcial.
 
 ## MPPE — enunciados e súmula do Conselho Superior
 
