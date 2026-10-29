@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.703 registros únicos de 156 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.729 registros únicos de 157 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -10,6 +10,7 @@ A série de súmulas do MPPI inclui mais uma lacuna textual, independente das no
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPMS — Enunciados do Conselho Superior](https://www.mpms.mp.br/atos-e-normas?sitcod=4&atotipcod=12) | 26 | 26 | 0 |
 | [MPAC — Enunciados do CSMP, documentos 1 a 6](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 6 | 6 | 0 |
 | [MPAC — Decisão da Resolução n. 3.762/2026](https://www.mpac.mp.br/administracao-superior/conselho-superior/resolucoes-normativas/) | 1 | 1 | 0 |
 | [MPRS — Encontro Estadual da Infância e Juventude de 2005, Anexo Único da Resolução 05/2007](https://www.mprs.mp.br/legislacao/resolucoes/3670/) | 62 | 62 | 0 |
@@ -945,6 +946,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 7 | MPAC — 6 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
 | [MPMA](tribunais/MPMA/) | 48 | MPMA — Enunciados do Conselho Superior: revisão de 2022, nº 24/23 e numeração histórica do catálogo |
@@ -1026,7 +1028,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1858,3 +1860,13 @@ As duas capturas HTML dos catálogos, datadas de 29/10/2026, listam 12 súmulas 
 O texto publicado das súmulas 02–12 e dos enunciados 01–04 foi conferido com os nós de texto dos dois HTMLs. A Súmula 08 termina em “2.000 UFR” na página; não houve complementação. Nos enunciados 01–03, justificativas e trechos de voto aparecem concatenados após o verbete no HTML e permanecem pendentes; apenas o texto do enunciado foi incorporado. Os 11 documentos vinculados (PDF/ODT) não foram lidos nem transcritos. O Regimento Interno de 2025, atas, atos de aprovação e demais documentos citados ficam pendentes. Não se inferiu vigência atual nem efeito vinculante.
 
 Sobre a main `369c7115bba9ddc5a349b7d5af5f6d85ad119b38`, com 37.687 registros em 155 órgãos, este lote soma 16 registros e um órgão: 37.703 registros em 156 órgãos; MPPI 16 e MPSP 80. MPAC 7, MPRS 206 e os demais acervos da base permanecem. Apenas Markdown público; capturas, PDFs e scripts privados. A cobertura nacional continua parcial.
+
+## MPMS — enunciados do Conselho Superior
+
+O menu oficial de enunciados encaminha ao catálogo Atos e Normas, filtrado por Conselho Superior e espécie Enunciado. Duas leituras de cada página da consulta pública usada pelo portal retornaram o mesmo JSON: 20 fichas na primeira e seis na segunda, números 1 a 26. O texto jurídico veio dos documentos vinculados, não das descrições das fichas. Foram capturados 27 conteúdos em pares HTTP 200, com bytes e SHA-256 coincidentes: três PDFs e 24 arquivos Word. As 59 páginas foram lidas na imagem (seis dos PDFs e 53 das conversões locais pelo LibreOffice), com camada textual de apoio. O nº 25 exigiu transcrição visual porque sua camada textual é corrompida; não houve OCR.
+
+O MPMS entra como órgão próprio, distinto do TJMS, do TCEMS e dos outros MPs. São 26 identificadores novos, `mpms-en-csmp-1` a `mpms-en-csmp-26`. O nº 9 conserva a revisão expressa de 2019 e a redação de 2016 no mesmo registro. O arquivo chamado tachado não mostra risco visível na conversão local; não se acrescentou risco. A fundamentação menciona a alternativa de um novo nº 22, mas conclui pela revisão do nº 9. O nº 19 mantém a republicação por incorreção sem reconstrução do texto anterior. Parágrafos e notas do XML dos DOCX foram confrontados com as imagens da conversão. Estilos de fonte, cabeçalhos e rodapés institucionais repetidos, logos e separadores foram normalizados. A paginação local do Word não é afirmada como a do original. Fundamentos, notas, preâmbulos, fechos e nomes e funções públicas foram mantidos.
+
+As divergências permanecem atribuídas: nº 1 com título de 16/06/2012 e fecho de 18/06/2012; nºs 13 e 14 com título de 14/09/2017 e fecho de 15/09/2017; nº 16 com número 0016/2017, título da ficha 16/2016 e documento de 2017. Datas não foram unificadas nem usadas para inferir vigência ou efeito vinculante. Carimbo manuscrito e assinatura gráfica do nº 25 não foram reproduzidos. Normas, processos e precedentes apenas citados não receberam novos IDs.
+
+Sobre a main `7a180408689713585f4183b271174112940592a7` (37.703 registros em 156 órgãos), o lote soma 26 registros e um órgão: 37.729 registros em 157 órgãos. MPPI permanece em 16, com a Súmula 01 identificada sem texto, separada das nove lacunas originais do BNP. As justificativas e os votos dos Enunciados 01–03 do MPPI continuam pendentes. Outras séries e históricos do MPMS, a coletânea de 2018 apenas mencionada em notícia, atas, diários e documentos apenas citados não foram incorporados. A consulta filtrada não esgota a cobertura nacional nem o MPMS. Capturas, documentos, imagens, recibos e scripts ficam privados; só Markdown é público.
