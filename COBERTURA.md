@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.535 registros únicos de 153 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.538 registros únicos de 153 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -9,6 +9,7 @@
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
+| [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
 | [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
@@ -943,7 +944,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 144 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos e 3 proposições CONMAM |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
-| [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
+| [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
@@ -1793,6 +1794,14 @@ Foram preservados “que rata”, “trais conflitos”, “órgão federais”,
 
 Delta zero sobre a main `7a1bb74a66cbbf6f77f3b23433c61e8f1da022d5`, com 37.515 registros em 152 órgãos: o acervo permanece em 37.515 registros e 152 órgãos, MPMA 48, MPRS 144 e MPMG 68. Os PRs 72, 70, 69, 71 e 67 já compõem essa main. Os PRs 68, 74 e 75 seguem abertos e não entram nesta conta. As nove lacunas iniciais do BNP permanecem; cobertura nacional parcial. Evidências e scripts continuam privados, apenas Markdown público.
 
+## MPSC — enunciados do Conselho Gestor do FRBL
+
+A página oficial [Enunciados do Conselho Gestor](https://www.mpsc.mp.br/frbl-enunciados) publica os números 1, 2 e 3, cada qual com um parágrafo. Os três corpos foram lidos no HTML e incorporados em série própria do Conselho Gestor do Fundo para Reconstituição de Bens Lesados, com os identificadores `mpsc-en-frbl-1` a `mpsc-en-frbl-3`. Os 17 enunciados da Câmara Revisora Criminal permaneceram intactos. A citação ao art. 281 da Lei Complementar n. 738/2019 continua dentro do nº 3 e não gerou registro.
+
+As duas capturas HTTP 200 de 29/10/2026 têm 284.708 bytes cada e hashes diferentes nos arquivos completos; o bloco com os três títulos e três parágrafos coincide. Não há link, anexo, tabela ou assinatura nesse contêiner. Apenas espaços e quebras foram normalizados. A página não imprime data de aprovação nem nota de vigência dos enunciados; não se inferiu situação jurídica atual ou efeito vinculante. Não houve PDF nem OCR. Não há CPF, RG, matrícula pessoal ou autenticação nos três corpos. Atas, atos de aprovação, normas citadas e redações anteriores não foram lidos; não se provou inexistência de outros números.
+
+Sobre a main `689830314991442c0b4b59844e7a40edabc3126d` (37.515 registros em 152 órgãos), o lote soma três sem órgão novo: 37.518 registros em 152 órgãos, MPSC 20. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público, evidências privadas e cobertura nacional parcial.
+
 
 ## MPAM — assentos do Conselho Superior
 
@@ -1802,4 +1811,4 @@ As três páginas — catálogo, assentos e súmula — tiveram duas capturas HT
 
 A transcrição conserva os nós de texto, inclusive caixa irregular, “PUB¬LICAÇÃO” e “relatança”; não executa a transformação de caixa do CSS `text-transform: uppercase`. Fontes, negrito, itálico, espaços e quebras foram normalizados. O bloco oculto `mcePaste` no fim do contêiner repete a redação do 005/03 e foi excluído, sem anexá-lo ao 002/12 nem gerar outra identidade. Não há CPF, RG, matrícula pessoal ou bloco de autenticação nos vinte corpos. Não houve PDF nem OCR.
 
-A página da súmula de entendimento 001.11.CSMP traz apenas a identificação 001.2011.CSMP no contêiner lido; não há enunciado nem link PDF no HTML capturado. Ficou pendente, sem registro. Outras páginas de assentos do catálogo, resoluções, diários e atos apenas citados permanecem fora deste lote. Sobre a main `689830314991442c0b4b59844e7a40edabc3126d` (37.515 registros em 152 órgãos), o delta é de vinte registros e um órgão: 37.535 registros em 153 órgãos. As nove lacunas iniciais do BNP permanecem; evidências privadas, apenas Markdown público e cobertura nacional parcial.
+A página da súmula de entendimento 001.11.CSMP traz apenas a identificação 001.2011.CSMP no contêiner lido; não há enunciado nem link PDF no HTML capturado. Ficou pendente, sem registro. Outras páginas de assentos do catálogo, resoluções, diários e atos apenas citados permanecem fora deste lote. Sobre a main `f1a2e1faa3c074f1df68abe2178aeaf766ac4d4d` (37.518 registros em 152 órgãos), o delta é de vinte registros e um órgão: 37.538 registros em 153 órgãos. As nove lacunas iniciais do BNP permanecem; evidências privadas, apenas Markdown público e cobertura nacional parcial.
