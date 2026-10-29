@@ -7,7 +7,7 @@
 
 ## Conferência e limites
 
-As páginas foram lidas integralmente no HTML oficial em duas capturas de cada. Os contêineres jurídicos coincidem. Não houve PDF nem OCR. Os enunciados sem número usam o ato de referendo no identificador, sem criar numeração. As orientações de 2017 ficam em série própria, conforme art. 1º e títulos. A nota de rodapé relativa à fixação da tarifa permanece na Orientação 3, onde ocorre a chamada. O ato de 2017 abre aspas em Segurança Alimentar e fecha em Transporte; o recorte de cada registro não completou aspas ausentes. A íntegra do ato está abaixo, sem criar ID de resolução. Não se inferiu vigência atual ou efeito vinculante. Diários e referências apenas citados continuam pendentes. Não há CPF, RG, matrícula nem bloco de autenticação incorporado; nomes e funções públicos e endereço institucional da AGERGS permanecem como na fonte.
+As duas páginas HTML foram lidas integralmente, com duas capturas de cada. O contêiner jurídico completo é idêntico em cada par. Os enunciados não têm número e usam o ato de referendo no identificador, sem criar numeração. Cada registro conserva o título e as alíneas a–c. Não houve PDF nem OCR. A íntegra de cada ato está abaixo, sem ID de resolução. Não se inferiu vigência atual ou efeito vinculante. Diários e referências apenas citados continuam pendentes. Não há CPF, RG, matrícula nem bloco de autenticação incorporado; nomes e funções públicos permanecem.
 
 ## Atos de referendo
 

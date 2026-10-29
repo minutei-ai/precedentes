@@ -12,10 +12,6 @@ Súmulas do Conselho Superior e enunciados CONCIDEPP, CONCRIM, CONDIH e CONDECON
 | [Enunciados CONDIH](en-condih/) | 2 |
 | [Enunciados CONDECON](en-condecon/) | 3 |
 | [Orientações CONDECON](or-condecon/) | 3 |
-| [Enunciados CONCRIM](en-concrim/) | 4 |
-| [Enunciados CONDIH](en-condih/) | 2 |
-| [Enunciados CONDECON](en-condecon/) | 3 |
-| [Orientações CONDECON](or-condecon/) | 3 |
 
 ## Enunciados CONCIDEPP
 
