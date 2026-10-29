@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.180 registros únicos de 162 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.348 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,8 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — I Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 137 | 137 | 0 |
+| [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
@@ -960,7 +962,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [CJF](tribunais/CJF/) | 49 | Consulta de Enunciados — I Jornada da Justiça Federal pela Equidade Racial |
+| [CJF](tribunais/CJF/) | 198 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário e I Civil |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -976,6 +978,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPPI](tribunais/MPPI/) | 16 | MPPI — 12 súmulas e 4 enunciados do CSMP; uma súmula está suspensa e sem texto no catálogo, com redação histórica de 2017 recuperada |
+| [MPRN](tribunais/MPRN/) | 31 | MPRN — Assentos 01–31 do Conselho Superior; relação oficial compilada, com variantes textuais e revogação preservadas |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 96 | CNMP — CALJ e 1º/2º Congressos de Defesa da Integridade |
@@ -1951,7 +1954,7 @@ A página oficial do [catálogo de Assentos e Súmula](https://www.mpal.mp.br/?p
 
 A edição rotulada 19/02/2026 pelo catálogo corresponde ao PDF oficial do [DOE do MPAL](https://www.mpal.mp.br/wp-content/uploads/2026/08/Assentos-e-Sumula-TI-DOE.pdf), 258.386 bytes, SHA-256 `a15c2fe53ba7545a9b8f5c613d9c8da3f9f0c81b08a77b108d8df6482947e08d`. O PDF tem duas páginas físicas, impressas 19 e 20. O cabeçalho indica disponibilização em 20/02/2026, edição nº 1537; a seção encerra com “Maceió, 19 de fevereiro de 2026”; e o caminho do arquivo contém `/2026/08/`. As três referências foram mantidas sem convertê-las em vigência. A leitura visual cobriu as duas páginas. Foram publicados 17 registros da seção jurídica: assentos 001–016/2026 e Súmula 001/2026. Os assentos 004 e 008 publicam somente avisos de revogação e permanecem sem enunciado reconstruído. Matérias de pauta, editais e portarias que aparecem nas mesmas páginas foram excluídos.
 
-As oito edições históricas de 2016–2024 tiveram 14 páginas físicas únicas lidas visualmente: 2016 (1), 2019 (2), 2020 (2), 2021 (2), 2022 (2), fevereiro de 2023 (2), julho de 2023 (1) e 2024 (2). Os pares dos oito PDFs responderam HTTP 200 com bytes e SHA-256 idênticos. Foram preservadas 80 transcrições no [arquivo histórico](tribunais/MPAL/assentos-csmp/historico-transcricoes-pendentes.md), sem contá-las como novos registros. Após normalizar apenas o cabeçalho impresso de número/ano, há 17 corpos distintos e 16 grupos com repetição entre edições; essa semelhança não comprova identidade nem permite fundir os textos. As edições publicam números/anos em listas anuais, mas as cópias não contêm as atas/deliberações individuais necessárias para concluir se cada entrada é ato autônomo, republicação ou compilação. A associação jurídica permanece pendente.
+As oito edições históricas de 2016–2024 tiveram 14 páginas físicas únicas lidas visualmente: 2016 (1), 2019 (2), 2020 (2), 2021 (2), 2022 (2), fevereiro de 2023 (2), julho de 2023 (1) e 2024 (2). Os pares dos oito PDFs responderam HTTP 200 com bytes e SHA-256 idênticos. Foram preservadas 80 transcrições no [arquivo histórico](tribunais/MPAL/assentos-csmp/historico/README.md), sem contá-las como novos registros. Após normalizar apenas o cabeçalho impresso de número/ano, há 17 corpos distintos e 16 grupos com repetição entre edições; essa semelhança não comprova identidade nem permite fundir os textos. As edições publicam números/anos em listas anuais, mas as cópias não contêm as atas/deliberações individuais necessárias para concluir se cada entrada é ato autônomo, republicação ou compilação. A associação jurídica permanece pendente.
 
 As recuperações de 004/2016 e 004/2019 foram conferidas literalmente nas imagens. 008/2019 não aparece nas edições capturadas; não foi reconstruído. Os avisos 004/2020–004/2024 e 008/2020–008/2024 e as nove lacunas originais do BNP permanecem. As edições de 2025 e 2026 compartilham quinze corpos; a coincidência não estabelece identidade jurídica. Nenhum ano, semelhança ou aviso foi convertido em vigência, renumeração, revogação ou completude. Apenas Markdown público; evidências, hashes das capturas, PDFs, imagens e recibos privados.
 
@@ -2016,11 +2019,11 @@ Delta zero sobre `52b38c2d`: 38.119 registros em 161 órgãos; CNMP 96. Demais p
 
 ## MPAL — edições históricas do CSMP
 
-As oito edições do catálogo anteriores a 2025 (2016, 2019, 2020, 2021, 2022, fevereiro e julho de 2023 e 2024) preservam 80 transcrições em [arquivo comum](tribunais/MPAL/assentos-csmp/historico-transcricoes-pendentes.md), com número/ano impresso, origem e página. Não foram contadas como identidades novas: as cópias não trazem as atas/deliberações individuais necessárias para determinar se cada entrada é ato autônomo, republicação ou compilação. Após normalização do rótulo impresso, há 17 corpos distintos e 16 grupos repetidos; não se presumiram identidades nem fusões. Foram lidas visualmente as 14 páginas físicas únicas; a camada textual apoiou 2016, 2019, 2020 e 2022; não foi usado OCR. Matérias vizinhas foram excluídas. 004/2016 e 004/2019 tiveram conferência literal; 008/2019 não foi localizado e permanece pendente.
+As oito edições do catálogo anteriores a 2025 (2016, 2019, 2020, 2021, 2022, fevereiro e julho de 2023 e 2024) preservam 80 transcrições em [arquivo comum](tribunais/MPAL/assentos-csmp/historico/README.md), com número/ano impresso, origem e página. Não foram contadas como identidades novas: as cópias não trazem as atas/deliberações individuais necessárias para determinar se cada entrada é ato autônomo, republicação ou compilação. Após normalização do rótulo impresso, há 17 corpos distintos e 16 grupos repetidos; não se presumiram identidades nem fusões. Foram lidas visualmente as 14 páginas físicas únicas; a camada textual apoiou 2016, 2019, 2020 e 2022; não foi usado OCR. Matérias vizinhas foram excluídas. 004/2016 e 004/2019 tiveram conferência literal; 008/2019 não foi localizado e permanece pendente.
 
 Os Assentos 004/2016 e 004/2019 têm texto diretamente impresso nas respectivas edições. Em 2020–2024, o nº 004 aparece apenas como aviso de revogação pelo Ato PGJ nº 7/2017. O nº 008 aparece apenas como aviso nas edições capturadas de 2020–2024; embora os avisos citem o Assento 008/2019, sua redação não consta dos PDFs examinados e permanece pendente. Os Assentos 009 que aparecem nessas edições foram mantidos como avisos literais de revogação, sem reconstruir atos citados. Não se inferiram vigência atual, efeito vinculante, exaustividade ou ausência de outras edições. Apenas Markdown público; capturas, recibos, PDFs, imagens e scripts privados.
 
-Delta zero sobre a main `35eb499f` (38.180 registros em 162 órgãos): as 80 transcrições históricas do MPAL ficam preservadas em documento comum, sem novos IDs enquanto a associação a atos individuais não estiver comprovada. Os 17 registros MPAL de 2026 permanecem. As nove lacunas originais do BNP, os avisos MPAL 004/008 sem enunciado e os lotes CJF, CNMP e FONAJEF preservam seus totais.
+Delta zero sobre a main `8ed77e27` (38.348 registros em 163 órgãos): as 80 transcrições históricas do MPAL ficam preservadas em documento comum, sem novos IDs enquanto a associação a atos individuais não estiver comprovada. Os 17 registros MPAL de 2026 permanecem. As nove lacunas originais do BNP, os avisos MPAL 004/008 sem enunciado e os lotes CJF, CNMP e FONAJEF preservam seus totais.
 
 
 ## CJF — I Jornada da Justiça Federal pela Equidade Racial
@@ -2028,3 +2031,25 @@ Delta zero sobre a main `35eb499f` (38.180 registros em 162 órgãos): as 80 tra
 Incorporados os 49 enunciados e suas justificativas em série própria `en-equidade-racial`, números 1–49. A pesquisa pública por `jornada.id=521` e as 49 fichas individuais foram capturadas em pares HTTP 200; números, enunciados, justificativas e metadados coincidem em cada par. HTML bruto varia em hash, com tamanho e SHA-256 nas fichas. Foram lidos os 49 corpos e as 49 justificativas, com espaços e quebras normalizados; referências, grafias, notas e URLs literais preservadas. O campo revogado está vazio e não foi tratado como vigência. Sem data de aprovação inferida, sem efeito vinculante ou exaustividade afirmados. Sem PDF/OCR. Não se duplicam espelhos em outros órgãos.
 
 Delta sobre a main `fbdcc4db`: 49 registros e um órgão, totalizando 38.168 registros em 162 órgãos. CNMP 96 e FONAJEF 271 permanecem; as nove lacunas originais do BNP e os dois avisos do MPAL sem enunciado continuam. O PR 99 do MPRN está separado e não entra nesta contagem. As demais jornadas, publicações em PDF e atos apenas citados permanecem pendentes. Capturas e scripts privados; somente Markdown público.
+
+
+## CJF — I Jornada de Direito Tributário
+
+Incorporados os 12 enunciados numerados 1–12 da pesquisa `jornada.id=241`, com as doze fichas individuais capturadas em pares HTTP 200. Textos e metadados coincidem nos pares e com a listagem; todos os corpos foram lidos. Referências legislativas, comissões, coordenação e palavras de resgate foram mantidos em campos próprios. As fichas não exibem justificativa. O campo revogado está vazio e isso não confirma vigência. Não se atribui nome ou titularidade atual ao cargo genérico de Coordenador-Geral publicado na fonte. Sem atualização legislativa, vinculação ou completude inferidas. Sem PDF/OCR; PDFs, atas e outras jornadas continuam pendentes.
+
+Delta sobre `aab75242`: 12 registros e nenhum órgão; 38.180 registros em 162 órgãos, CJF 61 (49 de Equidade Racial e 12 de Tributário). PRs 99/MPRN e 101/MPAL históricos seguem separados e fora desta conta. As nove lacunas originais do BNP e os avisos MPAL sem enunciado permanecem. Capturas e scripts privados, apenas Markdown público.
+
+## MPRN — assentos do CSMP
+
+A [página institucional do CSMP/MPRN](https://mprn.mp.br/paginas/conselho-superior-do-ministerio-publico-do-rn/) vincula o [catálogo oficial de assentos](https://archivum.mprn.mp.br/csmp/assento/), que por sua vez lista a [Relação Geral compilada e atualizada](https://archivum.mprn.mp.br/intranet/csmp/files/assento/Rela%C3%A7%C3%A3o%20Geral%20dos%20Assentos%20-%20Compilada%20e%20Atualizada.pdf). A compilação traz os Assentos nº 01–31 em seis páginas. As seis imagens foram lidas visualmente e os 31 textos comparados com a compilação, incluindo a sequência e os números, as redações anteriores riscadas dos nºs 15, 17, 19 e 22 e a anotação de revogação do nº 16. Cada número está em um único registro; avisos, normas citadas e pistas de outros documentos não receberam identificadores.
+
+As páginas institucional e do catálogo, além dos 29 PDFs ligados pelo catálogo, têm capturas pareadas privadas. Os 29 pares e arquivos locais foram conferidos por HTTP, bytes e SHA-256; as 29 URLs originais foram consultadas novamente e responderam HTTP 200 com tamanho e hash coincidentes. Os PDFs individuais foram verificados quanto à integridade das capturas, não lidos para transcrição; os 31 corpos foram conferidos contra a compilação. Capturas, PDFs, imagens e recibos permanecem fora do repositório.
+
+A compilação registra a sequência consultada e as relações textuais nela impressas; isso não estabelece vigência atual, efeito vinculante ou exaustividade da série. Nomes e funções públicas permanecem como publicados; identificadores pessoais e URLs de validação/autenticação não foram incluídos. A main `35eb499f` inclui os 12 enunciados tributários do CJF e tem 38.180 registros em 162 órgãos. Este lote soma 31 registros e um órgão: 38.211 registros em 163 órgãos. A validação global de `fbdcc4db` confirmou 38.119 IDs únicos em 161 órgãos; os acréscimos posteriores foram conferidos em seus escopos, sem nova varredura global desta árvore; nove lacunas do BNP e os avisos MPAL 004/008 sem verbete continuam. FONAJE e o histórico MPAL permanecem em trabalho paralelo.
+
+
+## CJF — I Jornada de Direito Civil
+
+Incorporadas 137 identidades numeradas 1–137, conciliadas com a pesquisa pública e as 137 fichas individuais em pares HTTP 200, com os campos coincidentes. Texto e notas preservados; nºs 41 e 64 com redações históricas riscadas conforme o CSS oficial. A nº 56 tinha somente aviso de cancelamento; 96 e 120–137 apenas remissão às propostas. Recuperados os 20 textos na compilação oficial, com leitura visual da capa e das páginas físicas 23, 27 e 30–35, delimitados pelos números. Justificativas e continuações das propostas preservadas; moção, outros verbetes e seção 9 excluídos. Sem OCR ou leitura integral declarada do PDF de 136 páginas. Pares idênticos, tamanho e SHA-256 nas fichas.
+
+Não se corrigiram as irregularidades da nº 96 nem o § 2º de filiação impresso na nº 134. Propostas de alteração e rótulos históricos não foram tratados como lei vigente. Notas de revogação de artigos em 110/111 não viraram cancelamento dos enunciados. Campos Justificativa de 31/71 com palavras-chave mantidos. Sem inferência de vigência, vinculação ou exaustividade. Delta sobre `596774f1`: 137 registros e nenhum órgão, total 38.348 registros em 163 órgãos; CJF198, MPRN31, CNMP96 e FONAJEF271 preservados. O histórico MPAL e o FONAJE continuam em trabalho paralelo, fora da conta. As nove lacunas iniciais do BNP e os avisos MPAL sem texto permanecem. Capturas e derivados privados; somente Markdown público.

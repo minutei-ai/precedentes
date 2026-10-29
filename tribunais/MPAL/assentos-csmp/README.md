@@ -2,7 +2,7 @@
 
 O catálogo principal contém **17 registros** publicados na edição de 2026: assentos 001–016/2026 e Súmula 001/2026. Os assentos 004 e 008/2026 são avisos sem enunciado, preservados como publicados.
 
-O [arquivo de transcrições históricas](historico-transcricoes-pendentes.md) preserva 80 entradas impressas nas edições de 2016 a 2024. Elas não são contadas como identidades novas: as cópias disponíveis apresentam números/anos em listagens anuais, mas não incluem as atas/deliberações individuais necessárias para concluir se cada entrada corresponde a ato autônomo, republicação ou compilação de ato anterior. A associação permanece pendente. Textos repetidos não foram fundidos nem usados para presumir identidade jurídica.
+O [arquivo de transcrições históricas](historico/README.md) preserva 80 entradas impressas nas edições de 2016 a 2024. Elas não são contadas como identidades novas: as cópias disponíveis apresentam números/anos em listagens anuais, mas não incluem as atas/deliberações individuais necessárias para concluir se cada entrada corresponde a ato autônomo, republicação ou compilação de ato anterior. A associação permanece pendente. Textos repetidos não foram fundidos nem usados para presumir identidade jurídica.
 
 ## Registros da edição de 2026
 
