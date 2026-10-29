@@ -1901,3 +1901,7 @@ Acrescentadas às súmulas 04–08 as cinco redações finais da página física
 ## MPPI — revisão documental da Súmula 12 em 2025
 
 Acrescentado o item 5.2 do extrato da ata de 01/08/2025 à [Súmula 12 do MPPI](tribunais/MPPI/sum-csmp/mppi-sum-csmp-12.md), com início na página física 77 e conclusão na 78. Transcrição visual das duas páginas existentes; pares de PDF, tamanho e SHA-256 conferidos. O dispositivo aprova uma revisão e não publica a redação anterior nem a exposição de motivos mencionada. O restante da ata de 78 páginas não foi incorporado. Delta zero sobre `e7ac9e7d`: 37.721 registros em 157 órgãos. As nove lacunas iniciais do BNP e a Súmula 01 do MPPI permanecem.
+
+## MPPI — documento comum dos quatro enunciados de 2019
+
+Incorporado uma única vez no [índice de enunciados](tribunais/MPPI/en-csmp/README.md#documento-comum-de-aprovação-em-06122019) o item 3.3.27 da ata de 06/12/2019, páginas físicas 27–30: relatório, quatro minutas, justificativas, votos e aprovação. Quatro imagens conferidas com a camada textual, sem OCR; dois PDFs idênticos em bytes, tamanho e SHA-256. As minutas têm numeração em branco, não preenchida. Há links nos quatro registros existentes, com o catálogo preservado. Não foram incorporados os itens vizinhos nem as outras 96 páginas. Delta zero sobre `c13f5ab2`: 37.721 registros em 157 órgãos. As nove lacunas iniciais do BNP e a Súmula 01 do MPPI permanecem.
