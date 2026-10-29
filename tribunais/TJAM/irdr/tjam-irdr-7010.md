@@ -10,4 +10,36 @@
 
 A fonte não disponibilizou questão, tese, ementa ou texto da decisão para este registro nesta coleta.
 
+## Complementação cadastral do BNP — conferência de 29/10/2026
+
+Os dados abaixo coincidem em duas respostas atuais da consulta pública do BNP/Pangea. Eles complementam o cadastro e não substituem questão, tese, ementa ou decisão, que continuam ausentes.
+
+### Campos principais informados
+
+- **Situação:** Não admitido
+- **Alerta de situação:** não admitido
+- **Última atualização informada:** 11/08/2026
+
+### Histórico informado pelo BNP
+
+Item 1:
+
+- **Situação:** Admitido
+- **Admissão:** 2025-12-17
+- **Julgamento:** 2026-05-29
+- **Publicação:** 2026-05-29
+- **Criação do item histórico:** 2026-06-10T00:00:00.000-03:00
+
+### Suspensões informadas pelo BNP
+
+- **Data informada:** 11/08/2026
+- **Descrição:** Suspensão nacional, exceto juizado especial
+- **Indicada como ativa pela fonte:** Sim
+
+### Divergência e limites da conferência
+
+O campo principal e o alerta dizem “Não admitido” / “não admitido”, enquanto o item histórico informa “Admitido”, com datas próprias para admissão, julgamento, publicação e criação do item. As duas representações foram preservadas, sem escolher uma como situação jurídica atual. A indicação de suspensão ativa também é um dado cadastral da fonte, sem confirmação autônoma do ato judicial. Não foram recuperados acórdãos, ordens de suspensão ou autos para conciliar essa divergência. A data de conferência não foi atribuída como atualização do BNP.
+
+Este registro não trouxe processo paradigma na resposta. Não foi criado vínculo por analogia aos demais registros do grupo.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
