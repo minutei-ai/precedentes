@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.687 registros únicos de 155 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.695 registros únicos de 156 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,8 @@
 | [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
 | [MPMA — Resoluções 15/2022 e 16/2023 do Conselho Superior: enunciados 01–23/22 e 24/23](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
 | [MPMA — Enunciados históricos do Conselho Superior, numeração do catálogo](https://www.mpma.mp.br/enunciados-conselho-superior/) | 24 | 24 | 0 |
+| [MPPE — Enunciados do Conselho Superior](https://portal.mppe.mp.br/pt/documentos-instrumento-juridico/-/document_library/laxb/view/65343) | 7 | 7 | 0 |
+| [MPPE — Súmulas do Conselho Superior](https://portal.mppe.mp.br/pt/documentos-instrumento-juridico/-/document_library/laxb/view/1066174) | 1 | 1 | 0 |
 | [MPMG — Enunciados de súmulas do CSMP](https://www.mpmg.mp.br/data/files/EC/C7/D3/32/70CF191041383A19760849A8/Enunciados-sum-CSMP-Geral.pdf) | 68 | 68 | 0 |
 | [MPRS — CONDIH e CONDECON nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 8 | 8 | 0 |
 | [MPRS — Enunciados CONCRIM nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 4 | 4 | 0 |
@@ -951,6 +953,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
+| [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
@@ -1845,3 +1848,11 @@ A Resolução n. 3.762/2026, indicada no catálogo de resoluções como edição
 São nove páginas de sete documentos, lidas na imagem e no texto, sem OCR. Os pares HTTP 200 de 29/10/2026 coincidem em bytes e SHA-256. Cabeçalhos institucionais, logos, endereço, rodapés e números de página foram omitidos; fontes, negrito, itálico, espaços e quebras foram normalizados. Nomes e funções públicas permanecem; não há CPF, RG, matrícula pessoal ou autenticação no texto incorporado. Normas, atos e processos citados não viraram registros, e não se inferiu vigência atual ou efeito vinculante. O MPAC é órgão próprio, distinto do TJAC, do TCEAC e do MPF.
 
 Sobre a main `19227519c80141faa1b1e185091c34de0f7f9606` (37.600 registros em 153 órgãos), soma sete registros e um órgão: 37.607 registros em 154 órgãos. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; PDF, imagens, capturas e scripts privados. A cobertura nacional continua parcial.
+
+## MPPE — enunciados e súmula do Conselho Superior
+
+Sobre a main `369c7115`, com 37.687 registros em 155 órgãos, este lote acrescenta oito registros e um órgão: 37.695 registros em 156 órgãos. As nove lacunas textuais do catálogo do BNP permanecem. O Ministério Público de Pernambuco entra como órgão próprio, distinto do TJPE, do TCEPE, do TATEPE, do MPF, do MPT e do CNMP; os oito documentos deste lote não alteram a contagem do catálogo BNP.
+
+O portal de Atos Normativos consultado lista sete enunciados e uma súmula do CSMP. Foram preservados os identificadores `mppe-en-csmp-1` a `mppe-en-csmp-7` e `mppe-sum-csmp-1-2024`. Os seis primeiros enunciados têm fonte documental em DOC; a leitura foi feita nas conversões locais por LibreOffice e conferida nas imagens dessas conversões. A paginação e as quebras das conversões não são garantidas como paginação original. O enunciado 07 é um PDF digitalizado sem camada textual, transcrito visualmente sem OCR; o caractere após 2 e 3 em `§§2O E 3O` permanece incerto entre O e 0, sem conversão para ordinal. A súmula foi lida no bloco do verbete do Diário Oficial Eletrônico de 28/11/2024, página impressa 6, sem incorporar as demais matérias da página. A transcrição não declara vigência atual nem ausência de outros atos ou séries.
+
+As capturas pareadas do catálogo e das fichas foram comparadas apenas pelas entradas e blocos visíveis. Diferenças entre tokens de controle não foram consideradas conteúdo nem publicadas. Capturas, DOCs, PDFs, imagens e conversões permanecem privados; os arquivos públicos deste lote são Markdown.
