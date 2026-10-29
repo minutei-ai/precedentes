@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.199 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.211 registros únicos de 163 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
@@ -960,7 +961,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [CJF](tribunais/CJF/) | 49 | Consulta de Enunciados — I Jornada da Justiça Federal pela Equidade Racial |
+| [CJF](tribunais/CJF/) | 61 | Consulta de Enunciados — Jornadas de Equidade Racial e Tributário |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2017,10 +2018,17 @@ Incorporados os 49 enunciados e suas justificativas em série própria `en-equid
 
 Delta sobre a main `fbdcc4db`: 49 registros e um órgão, totalizando 38.168 registros em 162 órgãos. CNMP 96 e FONAJEF 271 permanecem; as nove lacunas originais do BNP e os dois avisos do MPAL sem enunciado continuam. O PR 99 do MPRN está separado e não entra nesta contagem. As demais jornadas, publicações em PDF e atos apenas citados permanecem pendentes. Capturas e scripts privados; somente Markdown público.
 
+
+## CJF — I Jornada de Direito Tributário
+
+Incorporados os 12 enunciados numerados 1–12 da pesquisa `jornada.id=241`, com as doze fichas individuais capturadas em pares HTTP 200. Textos e metadados coincidem nos pares e com a listagem; todos os corpos foram lidos. Referências legislativas, comissões, coordenação e palavras de resgate foram mantidos em campos próprios. As fichas não exibem justificativa. O campo revogado está vazio e isso não confirma vigência. Não se atribui nome ou titularidade atual ao cargo genérico de Coordenador-Geral publicado na fonte. Sem atualização legislativa, vinculação ou completude inferidas. Sem PDF/OCR; PDFs, atas e outras jornadas continuam pendentes.
+
+Delta sobre `aab75242`: 12 registros e nenhum órgão; 38.180 registros em 162 órgãos, CJF 61 (49 de Equidade Racial e 12 de Tributário). PRs 99/MPRN e 101/MPAL históricos seguem separados e fora desta conta. As nove lacunas originais do BNP e os avisos MPAL sem enunciado permanecem. Capturas e scripts privados, apenas Markdown público.
+
 ## MPRN — assentos do CSMP
 
 A [página institucional do CSMP/MPRN](https://mprn.mp.br/paginas/conselho-superior-do-ministerio-publico-do-rn/) vincula o [catálogo oficial de assentos](https://archivum.mprn.mp.br/csmp/assento/), que por sua vez lista a [Relação Geral compilada e atualizada](https://archivum.mprn.mp.br/intranet/csmp/files/assento/Rela%C3%A7%C3%A3o%20Geral%20dos%20Assentos%20-%20Compilada%20e%20Atualizada.pdf). A compilação traz os Assentos nº 01–31 em seis páginas. As seis imagens foram lidas visualmente e os 31 textos comparados com a compilação, incluindo a sequência e os números, as redações anteriores riscadas dos nºs 15, 17, 19 e 22 e a anotação de revogação do nº 16. Cada número está em um único registro; avisos, normas citadas e pistas de outros documentos não receberam identificadores.
 
 As páginas institucional e do catálogo, além dos 29 PDFs ligados pelo catálogo, têm capturas pareadas privadas. Os 29 pares e arquivos locais foram conferidos por HTTP, bytes e SHA-256; as 29 URLs originais foram consultadas novamente e responderam HTTP 200 com tamanho e hash coincidentes. Os PDFs individuais foram verificados quanto à integridade das capturas, não lidos para transcrição; os 31 corpos foram conferidos contra a compilação. Capturas, PDFs, imagens e recibos permanecem fora do repositório.
 
-A compilação registra a sequência consultada e as relações textuais nela impressas; isso não estabelece vigência atual, efeito vinculante ou exaustividade da série. Nomes e funções públicas permanecem como publicados; identificadores pessoais e URLs de validação/autenticação não foram incluídos. Na main `aab75242`, o acervo informado era de 38.168 registros e 162 órgãos; com estes 31 registros próprios do MPRN, a soma esperada é 38.199 registros em 163 órgãos se a base não mudar. A contagem global única permanece pendente da validação já enfileirada; nove lacunas do BNP e os avisos MPAL 004/008 sem verbete continuam. FONAJE e o histórico MPAL permanecem em trabalho paralelo.
+A compilação registra a sequência consultada e as relações textuais nela impressas; isso não estabelece vigência atual, efeito vinculante ou exaustividade da série. Nomes e funções públicas permanecem como publicados; identificadores pessoais e URLs de validação/autenticação não foram incluídos. A main `35eb499f` inclui os 12 enunciados tributários do CJF e tem 38.180 registros em 162 órgãos. Este lote soma 31 registros e um órgão: 38.211 registros em 163 órgãos. A validação global de `fbdcc4db` confirmou 38.119 IDs únicos em 161 órgãos; os acréscimos posteriores foram conferidos em seus escopos, sem nova varredura global desta árvore; nove lacunas do BNP e os avisos MPAL 004/008 sem verbete continuam. FONAJE e o histórico MPAL permanecem em trabalho paralelo.
