@@ -1,0 +1,22 @@
+# MPDFT · Enunciado 98
+
+- **Órgão:** Ministério Público do Distrito Federal e Territórios (MPDFT)
+- **Espécie:** Enunciado
+- **Número:** 98
+- **Identificador:** `mpdft-en-ccr-98`
+- **Série de origem:** Enunciados criminais das Câmaras de Coordenação e Revisão; atribuições históricas conforme o texto.
+- **Situação:** Rótulos e notas das páginas são atribuídos à fonte; não confirmam independentemente vigência atual nem efeito vinculante.
+
+## Enunciados criminais em vigor
+
+- **Fonte:** [Enunciados criminais em vigor](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/15700-enunciados-criminais-em-vigor)
+- **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 120448 bytes cada.
+- **SHA-256 do HTML:** `e7bfcb38ff9905ce587739747aae993a05ea2d32cd6c77a1c25b5c8036e5df48`
+
+ENUNCIADO Nº 98: Nos inquéritos policiais envolvendo a Lei Maria da Penha, quando a autoridade policial não realizar a oitiva do Imputado, nos termos do art. 12, V, da Lei 11.340/2006 inexiste óbice legal que a Promotoria de Justiça o faça nas dependências do Ministério Público, inclusive através de gravação, com a adoção das cautelas necessárias a respeito do direito constitucional ao silêncio e possibilidade de assistência de defensor, dentre outras garantias constitucional e legalmente previstas.
+
+(Ref. PA n.08190.017229/19-15).
+
+## Conferência da fonte criminal e limites
+
+O corpo e todas as notas do bloco foram lidos no HTML. Espaços, quebras e ênfases foram normalizados; palavras e pontuação permanecem. Não houve PDF nem OCR. Diários, atos, processos e precedentes apenas citados não foram lidos como documentos autônomos nem geraram identificadores. Redações anteriores não publicadas não foram reconstruídas. O rótulo da página não foi convertido em classificação jurídica independente de vigência atual ou vinculação.
