@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.010 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.048 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — IV Jornada de Direito Processual Civil](https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/publicacoes-1/i-jornada-de-direito-processual-civil/iv-jornada-de-direito-processual-civil-2013-enunciados-aprovados-2013-2025/@@download/arquivo) | 38 | 38 | 0 |
 | [CJF — I Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 107 | 107 | 0 |
 | [CJF — II Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 51 | 51 | 0 |
 | [CJF — III Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 79 | 79 | 0 |
@@ -983,7 +984,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 532 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo, Comercial, I Civil e I/II/III Processual Civil |
+| [CJF](tribunais/CJF/) | 570 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo, Comercial, I Civil e I/II/III/IV Processual Civil |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2099,3 +2100,12 @@ Sobre a main `e37d1725` (38.733 registros em 164 órgãos; CJF 255), este lote a
 79 enunciados numerados 159–237 da pesquisa `jornada.id=381`, com fichas capturadas em pares HTTP 200. Bytes e SHA-256 conferidos; todos os campos dos pares coincidem e os corpos coincidem com a pesquisa. Corpos e metadados lidos. A nº 166 conserva o cancelamento da nº 10 da I Jornada dentro do corpo, sem fundir identidades. Preservados o parêntese final da nº 185 e os nomes de coordenação “Ministra Isabel Galotti” e “Ministro Sérgio Kulina”. Referências e palavras-chave permanecem separadas, sem atualização. Justificativa, notas e redação anterior vazias; isso não comprova vigência. Sem vinculação, exaustividade, PDF ou OCR inferidos.
 
 Delta sobre a main `be036950`: 79 registros e nenhum órgão, totalizando 38.903 registros em 164 órgãos; CJF 425. A base inclui o PR #106 (I Jornada de Direito Administrativo) e o PR #108 (II Jornada de Direito Processual Civil), já integrados antes deste lote. O PR #107 da I Jornada Processual Civil continua draft e fora da conta; a cobertura de Crises Ambientais também não entra. FONAJE 328 e as 80 transcrições históricas do MPAL permanecem sem novos IDs. Atas, outras jornadas e PDFs apenas citados seguem pendentes. Apenas Markdown público.
+
+
+## CJF — IV Jornada de Direito Processual Civil
+
+38 enunciados, números 238–275, do PDF oficial de 24 páginas, 529.386 bytes e SHA-256 `88e5a10a833f14bd1fecad88b59424007a71f5c00c19d3f1b1a7a0db18b32a18`, coincidente nas duas capturas HTTP 200. A pesquisa `jornada.id=481` vazia não foi tratada como inexistência da série. Leitura visual da capa e das páginas físicas 17–23 (impressas 15–21), com apoio da camada textual; sem OCR ou alegação de leitura integral do caderno. Só os 38 blocos foram incorporados, sem prefácio, apresentação, programação ou atos apenas citados. Três seções próprias: novas tecnologias/IA (7), mediação/arbitragem (15) e recuperação/falência (16).
+
+Continuações conferidas nas nºs 243 (17–18), 249 (18–19), 261 (20–21) e 273 (22–23). Preservadas referências, pontuação e caixa; “deve-se” partido entre linhas na nº 249 foi reunido sem espaço. Nenhum bloco riscado, nenhuma justificativa reconstruída. Datas técnicas não foram tratadas como aprovação, e não se inferiu vigência, vinculação ou completude.
+
+Delta sobre `8371d392`: 38 registros e nenhum órgão, totalizando 39.048 registros em 164 órgãos e CJF 570. II/III Comercial e Crises Ambientais seguem em PRs separados, fora desta conta. FONAJE 328 e histórico MPAL de 80 transcrições sem IDs novos preservados. As nove lacunas iniciais do BNP permanecem. PDF, imagens, scripts e recibos privados; apenas Markdown público.
