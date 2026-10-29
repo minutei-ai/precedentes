@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.860 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.884 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,8 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPM — Enunciados da Câmara de Coordenação e Revisão](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 24 | 24 | 0 |
 | [TJAM — Catálogo próprio de IRDR](https://www.tjam.jus.br/index.php/consultas-nugep/irdr-nugep?showall=1) | 32 | 2 | 30 |
-
 | [MPM — Enunciados do 9º ECPJM](https://www.mpm.mp.br/arquivos/legislacao/enunciado-no-1-ecpjm-mpm) | 14 | 14 | 0 |
 | [MPF — Enunciados da PFDC e Orientação nº 1/2026](https://www.mpf.mp.br/atuacao/pfdc/orientacao-e-enunciados) | 23 | 23 | 0 |
 | [MPT — Enunciados da CCR](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) | 29 | 29 | 0 |
@@ -1481,7 +1481,6 @@ A Orientação PFDC nº 01 foi incorporada integralmente quanto ao texto jurídi
 
 Atas, portarias, processos, normas e outros atos apenas citados não geraram novos registros. As demais orientações e enunciados fora desta página continuam pendentes. O lote soma 23 registros e nenhum órgão. A main f6a6143c400966bb1f99114e97348b60fe90891c já inclui os 83 enunciados próprios da 4ª CCR e os 29 do MPT: 36.821 registros em 143 órgãos e 350 do MPF. Com este lote o acervo passa a 36.844 registros em 143 órgãos e o MPF a 373. A frase das nove lacunas foi delimitada ao catálogo inicial do BNP, sem tratar esse número como auditoria de todo texto histórico das fontes diretas. Capturas, PDF, imagens e scripts ficam privados; a cobertura nacional permanece parcial.
 
-
 ## TJAM — catálogo próprio de IRDR
 
 A página oficial do NUGEPNAC, com a opção `showall=1` oferecida pela própria navegação, publica 32 fichas: temas 1 a 11 e 21 incidentes não admitidos sem número de tema. Duas capturas HTTP 200 em 29/10/2026 têm 297.270 bytes cada e hashes diferentes; as células textuais das 32 fichas coincidem integralmente. O calendário e a navegação não são fichas de incidente. Os textos de questão, tese, ementa ou excerto de decisão, situação, suspensão, relatoria, órgão julgador e datas foram acrescentados como fonte adicional, preservando os dados do BNP.
@@ -1506,7 +1505,6 @@ A reunião é datada de 24 a 26 de novembro de 2021, e o fecho, de 02 de dezembr
 
 Sobre a main `4e14a5bc241b98956649465af03c0db0919c472f`, com 36.844 registros em 143 órgãos, o lote soma 14 registros e um órgão: 36.858 registros em 144 órgãos. As nove lacunas originais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A cobertura nacional continua parcial.
 
-
 ## MPF — propostas históricas dos enunciados 22 e 23 da 3ª CCR
 
 Os dois PDFs vinculados pela página oficial da 3ª CCR foram incorporados aos identificadores existentes `mpf-en-ccr3-22` e `mpf-en-ccr3-23`. Não há novos registros nem alteração de contagem. O corpo HTML, com a redação antiga riscada e a alteração de 2022, foi preservado; os PDFs entram como propostas de 2016 com justificativa, não como atos autônomos de aprovação ou como redação atual.
@@ -1516,3 +1514,17 @@ São duas páginas físicas, uma em cada arquivo, lidas visualmente e transcrita
 Entraram os cabeçalhos institucionais, as Informações nºs 042/2016/AR/3CCR e 054/2016/AR/3CCR, assunto, enunciado proposto, quatro itens de justificativa em cada e o fecho nominal de Nilson Pereira Rocha Júnior, Assessoria de Padronização Revisional - APR. A nº 22 inclui a transcrição legislativa impressa na justificativa. A informação da nº 22 data 14/04/2016 e o carimbo, 30/05/2016; na nº 23, ambos indicam 23/05/2016. Os números manuscritos de protocolo não foram transcritos, e as assinaturas foram indicadas sem reprodução gráfica. Brasões e desenho do carimbo ficaram fora da cópia textual. Esses limites não foram chamados de transcrição integral de todos os sinais da página.
 
 As datas não foram convertidas em aprovação ou vigência. Normas e atos apenas citados não criaram IDs. Os outros PDFs da 3ª CCR e os atos de aprovação permanecem pendentes; este lote não esgota o órgão. As nove lacunas do catálogo inicial do BNP permanecem. Capturas, PDFs e imagens ficam privados. Sobre a main `512d07db5b3fd1b9b78d38e8ff2defc4e1b54bbe`, a contagem continua em 36.860 registros de 144 órgãos, com 373 do MPF. A cobertura nacional permanece parcial.
+
+## MPM — enunciados da Câmara de Coordenação e Revisão
+
+O Ministério Público Militar é órgão próprio, distinto do MPF, do MPT, do CNMP e do STM. A série é `mpm-en-ccr-1` a `mpm-en-ccr-24`. O [catálogo da CCR](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) lista 19 PDFs e cinco avisos “Revogado”, nos nºs 9, 11, 12, 14 e 15. Duas capturas HTTP 200 de 29/10/2026 desse catálogo têm os mesmos 69.521 bytes e SHA-256 `4c9f3915fa3946ce61df0d4a6255434d81226e7348e77d601c1b03a2201cbe1a`.
+
+Cada um dos 24 enunciados tem uma página. A transcrição saiu da imagem e da camada de texto, sem OCR. Os 19 PDFs ligados no catálogo coincidem, byte a byte, com os PDFs das fichas, embora os endereços sejam outros. As fichas dos cinco revogados foram recuperadas pelo sitemap oficial, inclusive a do nº 15 em `enunciado-no-15-2016-ccr-mpm`, cujo PDF se chama `CCR-Enunciado15a.pdf`. O texto histórico desses cinco permanece no registro, junto da situação “Revogado” atribuída à ficha e ao catálogo. Só o PDF do nº 11 imprime a frase “Revogado pela CCR em 23 de setembro de 2008”. A ficha e o catálogo não trazem essa data. Os PDFs dos nºs 9, 12, 14 e 15 não contêm a palavra Revogado.
+
+Endereços antigos construídos no padrão `2022/02` não foram tratados como prova de ausência. Os dos nºs 9, 11 e 14 responderam 404 nas duas capturas. O do nº 15 respondeu 404 e, na segunda captura, a conexão falhou no handshake. O do nº 12 respondeu 200 nas duas capturas e tem os mesmos bytes do PDF da ficha; o catálogo não liga esse endereço.
+
+As divergências ficaram lado a lado, sem harmonização. O catálogo grafa “nº 01” a “nº 09”; os PDFs dos nºs 1 a 8 grafam o número sem zero, e a ficha do nº 9 grafa “Nº 09”. Os títulos dos PDFs dos nºs 15, 16, 17, 18, 19, 22, 23 e 24 trazem ano ou data que o título da ficha omite. Nos nºs 20 e 21, o PDF usa vírgula em “(473ª Sessão Ordinária, 23/5/2019)” e o catálogo usa travessão. O nº 22 grafa “22/2019–CCR/MPM”, sem espaços em torno do travessão. O nº 23 grafa “nº 23/ Agosto”, com “nº” minúsculo e espaço depois da barra. O nº 24 imprime também “MINISTÉRIO PÚBLICO FEDERAL” e “CÂMARA DE COORDENAÇÃO E REVISÃO”; a ficha não traz a linha do MPF, e o registro permanece na série da CCR/MPM. O nº 9 fecha com aspas de abertura, U+201C, em “1993“.”. O nº 12 grafa “instituição” com inicial minúscula e mantém dois espaços em “da  Justiça” e em “Processo  Penal”. O nº 15 grafa “as visitas extraordinárias”, sem crase. O nº 16 grafa “autuação”. Os nºs 14, 17, 18 e 23 não trazem as três linhas textuais de cabeçalho.
+
+O selo “Em vigor” é o da ficha. Não foi convertido em vigência atual nem em efeito vinculante. “Histórico de alterações” está vazio em todas as fichas. A ementa da ficha é o vínculo rotulado “Original”. Leis, resoluções, a Súmula 234 do STJ e os atos apenas citados não geraram identificadores. Não há CPF, RG, matrícula nem código pessoal. Recomendações não entram neste lote. A série do ECPJM já estava na main e não foi alterada.
+
+Sobre a main `07e01c6d8ed2696ce6b9b61791504a01b0f53b2e`, que já reúne os 14 enunciados do 9º ECPJM, o órgão MPM, os dois registros novos do catálogo próprio de IRDR do TJAM e a recuperação textual dos enunciados 22 e 23 da 3ª CCR, sem registros novos nesse último lote, com 36.860 registros em 144 órgãos, este lote acrescenta 24 registros e nenhum órgão novo: 36.884 registros em 144 órgãos. O MPF permanece em 373 e o MPT em 29. Os registros já publicados não foram alterados. Permanecem as nove lacunas textuais do catálogo inicial do BNP: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. Capturas, PDFs, imagens e scripts ficam privados. A cobertura nacional continua parcial.
