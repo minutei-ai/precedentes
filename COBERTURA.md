@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.898 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.031 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — VI Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 46 | 46 | 0 |
 | [CJF — V Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 133 | 133 | 0 |
 | [CJF — III Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 134 | 134 | 0 |
 | [CJF — I Jornada de Direito Notarial e Registral](https://www.cjf.jus.br/enunciados/) | 82 | 82 | 0 |
@@ -30,6 +31,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CJF — IV Jornada de Direito Processual Civil](https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/publicacoes-1/i-jornada-de-direito-processual-civil/iv-jornada-de-direito-processual-civil-2013-enunciados-aprovados-2013-2025/@@download/arquivo) | 38 | 38 | 0 |
 | [CJF — I Jornada de Direito da Seguridade Social](https://www.cjf.jus.br/enunciados/) | 53 | 53 | 0 |
 | [CJF — I Jornada de Direito Desportivo](https://www.cjf.jus.br/enunciados/) | 40 | 40 | 0 |
+| [CJF — I Jornada de Prevenção e Solução Extrajudicial de Litígios](https://www.cjf.jus.br/enunciados/) | 87 | 87 | 0 |
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
@@ -994,7 +996,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 1.420 | Consulta de Enunciados — Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/IV/V Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 1.553 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/IV/V/VI Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2199,9 +2201,18 @@ Delta sobre a main `9208776a` (39.475 registros em 164 órgãos; CJF 997): 34 re
 
 A consulta `jornada.id=43` foi capturada duas vezes com 123 cartões iguais. As 123 fichas correspondem a 246 capturas HTTP 200, com bytes e SHA-256 recalculados. Há 122 identidades entre os números 272–396, excluídos 326–328; as fichas 232 e 223 repetem o nº 276 e permanecem atribuídas ao mesmo ID, com recibos e metadados das duas URLs. Só a ficha 223 exibe Palavras de Resgate. Número, jornada, corpo, coordenação e referência coincidem nas duas fichas. As notas dos nºs 357 e 390 foram verificadas diretamente no HTML e preservadas literalmente. Esta conferência não leu visualmente PDF/OCR.
 
-Os nºs 326–328 aparecem na coletânea oficial, mas sua transcrição está pendente da leitura visual das páginas físicas 54–55. Não foram reconstruídos por semelhança, referências, listagem ou camada textual. A coletânea foi identificada pelo título/fonte do CJF associado à I Jornada; nenhuma outra passagem desse PDF foi declarada lida neste lote.
+As proposições legislativas 326–328 da coletânea foram conferidas nas imagens das páginas físicas 54–55 e transcritas como documentação no README da série, sem IDs adicionais. O complemento documental abaixo delimita a leitura.
 
-Delta efetivo sobre main `5839082a`: 122 identidades e nenhum órgão, totalizando 39.898 registros únicos em 164 órgãos e CJF 1.420. O registro nº 276 conta uma vez. FONAJE (328), as 80 transcrições históricas do MPAL sem IDs novos e as nove lacunas iniciais do BNP permanecem preservados. HTMLs, recibos e scripts privados; somente Markdown público.
+Delta efetivo sobre main `3d34c9b5`: 122 identidades e nenhum órgão, totalizando 40.031 registros em 164 órgãos e CJF 1.553. O registro nº 276 conta uma vez. FONAJE (328), as 80 transcrições históricas do MPAL sem IDs novos e as nove lacunas iniciais do BNP permanecem preservados. HTMLs, recibos e scripts privados; somente Markdown público.
+
+
+## CJF — I Jornada de Prevenção e Solução Extrajudicial de Litígios
+
+87 enunciados, números 1–87, da pesquisa POST oficial do [CJF](https://www.cjf.jus.br/enunciados/) filtrada por `jornada.id=101`. As duas pesquisas capturadas em 29/10/2026 listam os mesmos 87 títulos, URLs e corpos. As 174 capturas das fichas individuais retornaram HTTP 200; bytes e SHA-256 foram verificados e registrados nos arquivos individuais e no ledger privado. Metadados e campos jurídicos coincidem entre cada par, e os corpos das fichas coincidem com ambas as pesquisas. Os 87 Markdown foram comparados diretamente com os campos HTML.
+
+As fichas não exibem campo de Justificativa; o campo de redação anterior está vazio. A ficha 64 tem Notas; 13 fichas apresentam Referência Legislativa e 74 têm Palavras de Resgate. Campos ausentes não foram reconstruídos. Coordenação e comissão permanecem como atribuídas pela ficha, sem inferir titularidade atual. Atos, normas, processos e órgãos citados não receberam IDs; não se afirma vigência, vinculação ou exaustividade. Sem PDF/OCR e sem leitura dos documentos citados. HTML, pesquisa e recibos permanecem privados; somente Markdown é público.
+
+Delta sobre a main `384c110b` (39.822 registros em 164 órgãos; CJF 1.344): 87 registros, nenhum órgão novo, totalizando 39.909 registros em 164 órgãos e CJF 1.431.
 
 ## CJF — V Jornada de Direito Civil
 
@@ -2212,3 +2223,9 @@ A nº 480 publica somente “Revoga o enunciado 390 da III Jornada de Direito Ci
 Sem inferência de vigência, efeito vinculante, exaustividade ou titularidade atual de cargos. Normas e julgados apenas citados não receberam IDs. Nenhum PDF foi lido para este lote; a coletânea e eventuais redações documentais continuam pendentes. Sem OCR. Somente Markdown público; capturas e recibos privados.
 
 Delta sobre `9a7872e5`: 133 registros e nenhum órgão, total esperado de 39.776 registros em 164 órgãos e CJF 1.298. Naquele corte, a IV Jornada Civil e a I Jornada Extrajudicial ainda estavam em trabalho separado, fora daquela conta. As nove lacunas originais do BNP permanecem, assim como FONAJE 328 e as 80 transcrições históricas MPAL sem novos IDs.
+
+### Complemento documental da IV Jornada Civil — proposições 326–328
+
+As páginas físicas 54–55, impressas 53–54, foram conferidas na imagem e na camada textual do PDF oficial. A nº 326 atravessa as duas páginas; 327 e 328 estão inteiras na física 55. O título “2.1 PROPOSIÇÕES LEGISLATIVAS” delimita sua espécie. Os três textos foram preservados no README de en-civil-iv, sem criar IDs de precedentes ou inferir alterações legais vigentes. Duas capturas do PDF têm 537.291 bytes e SHA-256 `4f3e3b9f00041659d0a70a7bade6fe94a9b4518bee5fc04201eb05ad7ee5b85f`. Não se declara leitura das demais páginas. Sem OCR.
+
+Delta do lote HTML sobre `3d34c9b5` (39.909 registros, 164 órgãos, CJF 1.431): 122 registros e nenhum órgão, total esperado de 40.031 registros em 164 órgãos e CJF 1.553. O complemento das três proposições tem delta zero. Apenas Markdown público; capturas e derivados privados.

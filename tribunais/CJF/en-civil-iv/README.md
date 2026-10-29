@@ -2,9 +2,9 @@
 
 **122 identidades**, números 272–396, da [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), pesquisa `jornada.id=43`. As duas listagens foram capturadas em pares e contêm 123 cartões idênticos; 123 fichas tiveram duas capturas HTTP 200. São 122 números distintos porque o nº 276 aparece nas fichas `/232` e `/223`; ambas foram preservadas no mesmo identificador, pois coincidem em número, jornada, corpo, coordenação e referência. Só a ficha `/223` apresenta Palavras de Resgate.
 
-Os números 326, 327 e 328 aparecem na coletânea oficial, mas aguardam conferência visual das páginas físicas 54–55 antes de qualquer transcrição. Permanecem pendentes e não foram inferidos por listagem ou camada textual. As notas das fichas 357 e 390 foram preservadas literalmente. Não se inferiu vigência, efeito vinculante ou exaustividade. Capturas, PDFs, imagens e recibos permanecem privados; somente Markdown público.
+Os números 326, 327 e 328 estão na seção “2.1 PROPOSIÇÕES LEGISLATIVAS” da coletânea oficial. Seus textos foram conferidos visualmente nas páginas físicas 54–55 e estão abaixo, como documentação da jornada, sem IDs de enunciados interpretativos nem afirmação de mudança legislativa vigente. As notas das fichas 357 e 390 foram preservadas literalmente. Não se inferiu vigência, efeito vinculante ou exaustividade. Capturas, PDFs, imagens e recibos permanecem privados; somente Markdown público.
 
-- [Enunciados pendentes 326–328](#pendências-de-transcrição)
+- [Proposições legislativas 326–328](#proposicoes-legislativas-326-328)
 - [Enunciado 272](cjf-en-civil-iv-272.md)
 - [Enunciado 273](cjf-en-civil-iv-273.md)
 - [Enunciado 274](cjf-en-civil-iv-274.md)
@@ -128,8 +128,28 @@ Os números 326, 327 e 328 aparecem na coletânea oficial, mas aguardam conferê
 - [Enunciado 395](cjf-en-civil-iv-395.md)
 - [Enunciado 396](cjf-en-civil-iv-396.md)
 
-## Pendências de transcrição
+<a id="proposicoes-legislativas-326-328"></a>
 
-- Enunciado 326: página física 54, leitura visual pendente.
-- Enunciado 327: páginas físicas 54–55, leitura visual pendente.
-- Enunciado 328: página física 55, leitura visual pendente.
+## Proposições legislativas 326–328
+
+Fonte: [coletânea oficial do CJF](https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/publicacoes-1/jornadas-cej/EnunciadosAprovados-Jornadas-1345.pdf#page=54), seção “2.1 PROPOSIÇÕES LEGISLATIVAS”. Duas capturas idênticas, 537.291 bytes cada, SHA-256 `4f3e3b9f00041659d0a70a7bade6fe94a9b4518bee5fc04201eb05ad7ee5b85f`, 136 páginas no arquivo. Foram lidas visualmente as páginas físicas 54 e 55 (impressas 53 e 54); só os três blocos abaixo são incorporados deste recorte. Não se declara leitura integral do caderno; sem OCR.
+
+### Proposição 326
+
+Páginas físicas 54–55 (impressas 53–54).
+
+Propõe-se a alteração do art. 31a da Lei n. 4.591/64, que passaria a ter a seguinte redação: “Art. 31a: O terreno e as acessões objeto de incorporação imobiliária, bem como os demais bens e direitos a ela vinculados, manter-se-ão apartados do patrimônio do incorporador e constituirão patrimônio de afetação, destinado à consecução da incorporação correspondente e à entrega das unidades imobiliárias aos respectivos adquirentes”.
+
+### Proposição 327
+
+Página física 55 (impressa 54).
+
+Suprima-se o art. 9º da Lei n. 10.931/2004. (Unânime)
+
+### Proposição 328
+
+Página física 55 (impressa 54).
+
+Propõe-se a supressão do inciso V do art. 1.334 do Código Civil.
+
+Quebras de linha normalizadas. A nº 326 conserva “31a” sem hífen, as aspas curvas e o ponto após o fechamento. “(Unânime)” é parte do bloco 327. Não há risco nos três blocos. São propostas, não alterações legais comprovadas; não se criaram IDs adicionais.
