@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.273 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.356 registros únicos de 151 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
+| [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
 | [MPRS — Súmulas do Conselho Superior](https://www.mprs.mp.br/orgaoscolegiados/sumulas/) | 21 | 21 | 0 |
@@ -925,6 +927,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 21 | MPRS — Súmulas do Conselho Superior |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
@@ -1000,7 +1003,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPDFT, MPRS, MPSC, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPDFT, MPRJ, MPSP, MPRS, MPSC, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1672,4 +1675,24 @@ O PDF oficial do Conselho Superior do Ministério Público do Estado de São Pau
 
 As súmulas presentes são numeradas de 1 a 82, com ausentes nesta seção os números 10, 14, 16, 21, 27, 30, 37, 39, 40, 44, 46, 47 e 53. Renumerações, referências a assentos anteriores e notas de alteração ou revogação foram mantidas dentro dos verbetes e não receberam identificadores próprios. Espaços e quebras de linha foram normalizados; hífens lexicais partidos no fim da linha foram reunidos ao token seguinte, sem espaço extra. Palavras, pontuação e notas foram preservadas. A inclusão não confirma vigência atual ou efeito vinculante. Outros atos e o restante do regimento não foram tratados como precedentes neste lote.
 
-O MPSP/CSMP tem órgão e séries próprios, distintos do MPF, MPM, MPT, MPGO, MPSC e dos tribunais paulistas. Sobre a main `51b08ae668c397ac0df1c42060852ebd1d7f1540`, com 37.193 registros em 149 órgãos, o lote soma 80 registros e um órgão: 37.273 registros em 150 órgãos. As nove lacunas textuais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Capturas, PDF, imagens, transcrições e scripts ficam privados; somente os arquivos Markdown de registros e índices são públicos. A cobertura nacional continua parcial.
+O MPSP/CSMP tem órgão e séries próprios, distintos do MPRJ, do MPF, do MPM, do MPT, do MPGO, do MPSC e dos tribunais paulistas. Sobre a main `30923897202aba6ec40955b53639173c18371187`, com 37.276 registros em 150 órgãos, o lote soma 80 registros e um órgão: 37.356 registros em 151 órgãos. As nove lacunas textuais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Capturas, PDF, imagens, transcrições e scripts ficam privados; somente os arquivos Markdown de registros e índices são públicos. A cobertura nacional continua parcial.
+
+## MPRJ — súmulas do Conselho Superior
+
+A página institucional do Conselho Superior vincula o caderno `sumulas.pdf`. Duas capturas HTTP 200 de 29/10/2026 coincidem em bytes: 413.016 bytes, SHA-256 `ffb20fdef9ff0fe54f32c122183e134e80dc164c1e86a59842eefa8c6e1ecaa2`. O PDF tem seis páginas, produzidas pelo Word em 08/04/2026, data técnica não convertida em data do ato. As seis páginas foram lidas na imagem e na camada textual. São 14 números, de 1 a 14, sem lacuna. O MPRJ entra como órgão próprio.
+
+As nºs 1 e 2 têm os enunciados riscados na página 1; a nº 5, na página 2. Notas de aprovação e revogação ficam sem risco: 1 em 26/03/2015, 2 e 5 em 13/02/2020. As reformulações das nºs 3, 4, 6, 8, 9 e 10 trazem modificação em 13/02/2020 e cláusula de vigência após 60 dias da publicação, mantida como texto da fonte. As redações anteriores não publicadas não foram reconstruídas. O nº 8 imprime número sem zero. O nº 10 cita literalmente “Lei Federal n.º 11.149/2006”. A nº 2 conserva a aspa de fechamento. As nºs 11–13 têm aprovação em 28/04/2022; a nº 14, em 26/03/2026, com publicação indicada em 27/03/2026.
+
+As continuações de página foram delimitadas: nº 6 nas páginas 2 e 3; nº 8 nas 3 e 4; nº 10 nas 4 e 5; nº 14 nas 5 e 6. A primeira página contém 1–3; a segunda 4–6; a terceira a continuação de 6 e 7–8; a quarta a continuação de 8 e 9–10; a quinta a continuação de 10 e 11–14; a sexta conclui 14 e imprime o aviso de que a versão não substitui o diário oficial, reproduzido em cada registro. Espaços, quebras e ênfases foram normalizados, com os riscos preservados. Logos e rodapés de contato ficaram fora. Não houve OCR.
+
+Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Diários, resoluções, leis, processos e precedentes apenas citados não foram lidos autonomamente nem geraram registros. Os enunciados do Conselho Superior foram incorporados em série própria no complemento abaixo. Outras séries continuam pendentes. As notas do caderno não confirmam vigência atual nem efeito vinculante. Sobre a main `51b08ae668c397ac0df1c42060852ebd1d7f1540`, com 37.193 registros em 149 órgãos, as duas séries deste PR somam 83 registros e um órgão: 37.276 registros em 150 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. Capturas, PDFs, imagens e scripts ficam privados; a cobertura nacional continua parcial.
+
+## MPRJ — 69 enunciados do Conselho Superior
+
+A página de enunciados, vinculada pela página do Conselho Superior, aponta o PDF de 30 páginas terminado em `arquivoaserutilizadonoportaldomprj_.pdf`. Esse endereço e o terminado em `comacrescimodosenunciadoscsmp67e68.pdf` tiveram duas capturas HTTP 200 cada em 29/10/2026: quatro arquivos idênticos de 568.383 bytes, SHA-256 `3d302878cb91076f0f510d032ba3956bb04b6bd79b7f0fd3a3f5118c502407aa`. O caderno contém os números 1 a 69, sem lacuna, terminando no 69/2026. O nome do arquivo não delimita a cobertura. Todas as 30 páginas foram lidas na imagem e na camada textual; não houve OCR. Os 69 enunciados, `mprj-en-csmp-1` a `mprj-en-csmp-69`, ficam separados das 14 súmulas.
+
+O aviso inicial reproduz a decisão de 05/02/2021 sobre a vigência em 08/02/2021 das alterações publicadas em 14/02/2020, sem classificar todos os textos como atualmente vigentes. Corpos riscados nas nºs 2, 5, 6, 8, 9, 11, 12, 14, 17, 21, 33, 35, 37, 39, 44, 47, 52 e 53. Identificadores e notas de aprovação e revogação ficam sem risco. Continuações físicas foram delimitadas, inclusive 17 nas páginas 6–7, 21 nas 8–9, 37 nas 15–16 e 52 nas 21–22.
+
+As unificações impressas nas nºs 61–65 não fundiram registros: 61 menciona 33 e 39; 62, 2 e 37; 63, “12/2007 e 21/2007”, embora o título do nº 21 seja 21/2008; 64, 5 e 11; 65, 52 e 53. A nº 20 conserva título 20/2008 e aprovação em 29/10/2009. A nº 55 mantém “Lei Federal nº 8.666/23”. A nº 59 traz alteração em 26/06/2025 e vigência em 27/06/2025, atribuídas ao caderno. A nº 67 tem aprovação em 26/05/2022 e publicação em 27/05/2022; a nº 68, aprovação em 14/09/2023 e publicação em 15/09/2023; a nº 69, aprovação em 26/03/2026 e publicação em 27/03/2026.
+
+Espaços, quebras e ênfases foram normalizados, preservando as palavras e os riscos. O aviso final de que a versão não substitui o diário oficial está em cada registro. Logos e rodapés de contato ficaram de fora. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Outras séries, diários, atos e processos apenas citados continuam pendentes; não se inferiu vigência atual nem efeito vinculante. A revisão independente, sobre as imagens, reuniu os hífens de quebra em “DOE-MPRJ” (nº 12) e “Procurador-Geral de Justiça” (nº 67) e restaurou “n.º” na referência da Lei Federal 10.741/2003 do nº 15. Com as 14 súmulas, o PR soma 83 registros e um órgão sobre a main `51b08ae668c397ac0df1c42060852ebd1d7f1540`: 37.276 registros em 150 órgãos. As nove lacunas iniciais do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. PDFs, imagens, capturas e scripts ficam privados.
