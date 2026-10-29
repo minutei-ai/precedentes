@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.919 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.922 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPT — Enunciados 1–7 na ata publicada no DOU de 26/03/2015](https://biblioteca.mpf.mp.br/repositorio/bitstreams/55183dd8-bfe1-434d-908d-246ac4a9175a/download) | 7 | 3 | 4 |
 | [MPM — Recomendações da CCR e atos conjuntos CORGE/CCR](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 35 | 35 | 0 |
 
 | [MPM — Enunciados da Câmara de Coordenação e Revisão](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 24 | 24 | 0 |
@@ -918,7 +919,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
-| [MPT](tribunais/MPT/) | 29 | MPT — Enunciados da CCR, HTML oficial |
+| [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
 | [MPF](tribunais/MPF/) | 373 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
@@ -1545,15 +1546,26 @@ O selo “Em vigor” é o da ficha. Não foi convertido em vigência atual nem 
 
 Sobre a main `07e01c6d8ed2696ce6b9b61791504a01b0f53b2e`, que já reúne os 14 enunciados do 9º ECPJM, o órgão MPM, os dois registros novos do catálogo próprio de IRDR do TJAM e a recuperação textual dos enunciados 22 e 23 da 3ª CCR, sem registros novos nesse último lote, com 36.860 registros em 144 órgãos, este lote acrescenta 24 registros e nenhum órgão novo: 36.884 registros em 144 órgãos. O MPF permanece em 373 e o MPT em 29. Os registros já publicados não foram alterados. Permanecem as nove lacunas textuais do catálogo inicial do BNP: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. Capturas, PDFs, imagens e scripts ficam privados. A cobertura nacional continua parcial.
 
+## MPT — recuperação histórica dos enunciados 1 a 7 no DOU de 2015
+
+A Biblioteca do MPF conserva uma cópia de três páginas do DOU nº 58, Seção 1, de 26/03/2015. O item público `http://hdl.handle.net/11549/22984` e seu arquivo `DOU1_26032015.pdf` foram conciliados pelo vínculo do próprio repositório. Duas capturas HTTP 200 em 29/10/2026 têm 75719 bytes e SHA-256 `b7128ec37cc987805d59c264c1c9b65733f1f871fc4da23548417477e506e21e`. Foi renderizada e lida apenas a página física 3, impressa como página 76 do diário; as páginas físicas 1 e 2 não foram processadas neste lote.
+
+A terceira coluna publica sete blocos completos: ENUNCIADO Nº 01/CCR a Nº 07/CCR, na ata da 49ª Sessão Extraordinária, cujo cabeçalho informa realização em 25/02/2015. Foram incorporados enunciados, deliberações de edição e votos divergentes. Três números ausentes da página HTML de 2026 entram como históricos: `mpt-en-ccr-1`, `mpt-en-ccr-2` e `mpt-en-ccr-5`. Os nºs 3, 4, 6 e 7 recebem o histórico no mesmo identificador, sem substituir a versão de 2026.
+
+Na nº 5 a fonte publica edição por maioria, com duplo voto da Coordenadora, e votos vencidos pelo cancelamento; esses votos não foram classificados como cancelamento aprovado. Na nº 4 a divergência imprime um recorte terminado em `de(...)`, preservado sem reconstrução. A nº 6 conserva “canteiro-de-obra” e “à todas as empresas”. A edição da nº 1 é unânime, e a da nº 2 é por maioria, com nota de voto vencido. A declaração geral de revogação de precedentes anteriores da ata não foi aplicada conjecturalmente aos enunciados editados no mesmo ato.
+
+Não houve OCR: a camada textual apoiou a leitura da imagem. Espaços, quebras e ênfases foram normalizados; hífens de divisão no fim da linha foram reunidos, preservando hífens vocabulares. A marca d’água, elementos gráficos, o código de autenticação e atos alheios ao recorte ficaram fora da transcrição. O nº 8 só começa no fim da página e não foi tratado como texto íntegro. A continuação na página 77 não foi recuperada; as tentativas do portal público da Imprensa Nacional terminaram sem resposta, o que não prova ausência da publicação. Os nºs 9, 10, 18 e 23 continuam sem texto recuperado. A ausência na página de 2026 não comprova cancelamento nem sua data. Não se inferiu vigência atual da publicação histórica. Capturas, imagens e scripts ficam privados.
+
+Sobre a main `2a9c272fef250f6eb2921340019b23d82b96ec37`, com 36.919 registros em 144 órgãos, este lote soma três registros e nenhum órgão: 36.922 registros em 144 órgãos. O MPT passa de 29 para 32. As nove lacunas do catálogo inicial do BNP permanecem. A cobertura nacional continua parcial.
 
 ## MPF — propostas históricas dos enunciados 24 e 27 da 3ª CCR
 
 Duas propostas digitalizadas entraram nos identificadores existentes `mpf-en-ccr3-24` e `mpf-en-ccr3-27`, com quatro páginas físicas transcritas visualmente, sem OCR. Os cabeçalhos, Informações, assunto, enunciados propostos, justificativas e fechos nominais foram preservados por página. Não há novo registro nem alteração de contagem. O HTML e suas redações e notas posteriores não foram substituídos.
 
-O PDF do nº 24 tem 65.970 bytes e SHA-256 `40916ee0ad4a3c910decccadbd285fd05fc3ebeeb53820db067fcce566c96544`; imprime Informação nº 055/2016/AR/3CCR, data 06/06/2016 e proposta “ENUNCIADO Nº 024”. O carimbo indica 23/05/2016; a divergência cronológica não foi harmonizada. Os quatro itens de justificativa incluem citações da ACO nº 924, da Tese Jurídica nº 07 do Gabinete do PGR e da ACO 2225. Esses atos não foram lidos como documentos autônomos nem ganharam IDs. O texto imprime “que tema”, sem artigo. A proposta atribui a solução do conflito ao PGR, enquanto o HTML preservado também contém a alteração de 2022 para o CNMP; as duas versões permanecem em seus contextos históricos.
+O PDF do nº 24 tem 65.970 bytes e SHA-256 `40916ee0ad4a3c910decccadbd285fd05fc3ebeeb53820db067fcce566c96544`; imprime Informação nº 055/2016/AR/3CCR, data 06/06/2016 e proposta “ENUNCIADO Nº 024”. O carimbo indica 23/05/2016; a divergência cronológica não foi harmonizada. Os itens 1 a 3 da justificativa incluem citações da ACO nº 924, da Tese Jurídica nº 07 do Gabinete do PGR e da ACO 2225. Esses atos não foram lidos como documentos autônomos nem ganharam IDs. O item 4 é apenas “À consideração superior”. O texto imprime “que tema”, sem artigo. A proposta atribui a solução do conflito ao PGR, enquanto o HTML preservado também contém a alteração de 2022 para o CNMP; as duas versões permanecem em seus contextos históricos.
 
-O PDF do nº 27 tem 800.214 bytes e SHA-256 `aafb1e9baa8384685f627f0912104b1c46188b264d778549da42dc557cd61093`; imprime Informação nº 103/2016/AR/3CCR, data 31/08/2016 e cinco itens de justificativa. Foram preservados “cabe ofício”, “a medida de ser efetivada”, o nome do membro e o IC citados. A anotação manuscrita “6ª SO/2016” foi indicada sem a transformar em prova autônoma de aprovação. O número e a data do carimbo de protocolo da nº 27 não foram transcritos. Em ambos, assinaturas manuscritas foram indicadas sem reprodução gráfica; nome e função impressos permanecem. Brasões, desenho dos carimbos e transparência do verso ficaram fora da transcrição.
+O PDF do nº 27 tem 800.214 bytes e SHA-256 `aafb1e9baa8384685f627f0912104b1c46188b264d778549da42dc557cd61093`; imprime Informação nº 103/2016/AR/3CCR, data 31/08/2016 e cinco itens numerados, quatro de justificativa e o último “À consideração superior”. Foram preservados “cabe ofício”, “a medida de ser efetivada”, o nome do membro e o IC citados. A anotação manuscrita “6ª SO/2016” foi indicada sem a transformar em prova autônoma de aprovação. O número e a data do carimbo de protocolo da nº 27 não foram transcritos. Em ambos, assinaturas manuscritas foram indicadas sem reprodução gráfica; nome e função impressos permanecem. Brasões, desenho dos carimbos e transparência do verso ficaram fora da transcrição.
 
 Cada PDF teve duas capturas HTTP 200 de 29/10/2026 com os mesmos bytes. A leitura de identidade confirmou que o vínculo adicional `enunciado-no-26.pdf` da página do nº 27 entrega o documento comum das propostas 025 e 026, Informação nº 041/2016/AR/3CCR, não a proposta 27. Suas quatro páginas foram conferidas anteriormente na imagem, com a última em branco; o corpo não foi repetido como parte da proposta 27. A referência permanece atribuída à página, sem fusão de registros.
 
-Espaços, quebras, ênfases e hífens de divisão ao fim da linha foram normalizados, preservando hífens vocabulares. Datas não foram convertidas em vigência. Outros PDFs e atos de aprovação permanecem pendentes. As nove lacunas iniciais do BNP continuam. Sobre a main `2a9c272fef250f6eb2921340019b23d82b96ec37`, a contagem permanece em 36.919 registros de 144 órgãos, com 373 do MPF. Capturas, PDFs, imagens e scripts ficam privados; a cobertura nacional permanece parcial.
+Espaços, quebras, ênfases e hífens de divisão ao fim da linha foram normalizados, preservando hífens vocabulares. Datas não foram convertidas em vigência. Outros PDFs e atos de aprovação permanecem pendentes. As nove lacunas iniciais do BNP continuam. Sobre a main `6bcb017d7283b7d7452104a145be4ec6c37cae82`, com 36.922 registros em 144 órgãos, 73 do MPM, 32 do MPT, 373 do MPF e 74 do TJAM, este lote não acrescenta registro nem órgão: a contagem permanece em 36.922 registros de 144 órgãos, com 373 do MPF. Capturas, PDFs, imagens e scripts ficam privados; a cobertura nacional permanece parcial.
