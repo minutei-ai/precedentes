@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.922 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.935 registros únicos de 145 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,9 +8,9 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
 | [MPT — Enunciados 1–7 na ata publicada no DOU de 26/03/2015](https://biblioteca.mpf.mp.br/repositorio/bitstreams/55183dd8-bfe1-434d-908d-246ac4a9175a/download) | 7 | 3 | 4 |
 | [MPM — Recomendações da CCR e atos conjuntos CORGE/CCR](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 35 | 35 | 0 |
-
 | [MPM — Enunciados da Câmara de Coordenação e Revisão](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 24 | 24 | 0 |
 | [TJAM — Catálogo próprio de IRDR](https://www.tjam.jus.br/index.php/consultas-nugep/irdr-nugep?showall=1) | 32 | 2 | 30 |
 | [MPM — Enunciados do 9º ECPJM](https://www.mpm.mp.br/arquivos/legislacao/enunciado-no-1-ecpjm-mpm) | 14 | 14 | 0 |
@@ -918,6 +918,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
@@ -987,7 +988,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CNMP, MPF, MPM, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CNMP, MPF, MPM, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1581,3 +1582,15 @@ O PDF do nº 27 tem 800.214 bytes e SHA-256 `aafb1e9baa8384685f627f0912104b1c461
 Cada PDF teve duas capturas HTTP 200 de 29/10/2026 com os mesmos bytes. A leitura de identidade confirmou que o vínculo adicional `enunciado-no-26.pdf` da página do nº 27 entrega o documento comum das propostas 025 e 026, Informação nº 041/2016/AR/3CCR, não a proposta 27. Suas quatro páginas foram conferidas anteriormente na imagem, com a última em branco; o corpo não foi repetido como parte da proposta 27. A referência permanece atribuída à página, sem fusão de registros.
 
 Espaços, quebras, ênfases e hífens de divisão ao fim da linha foram normalizados, preservando hífens vocabulares. Datas não foram convertidas em vigência. Outros PDFs e atos de aprovação permanecem pendentes. As nove lacunas iniciais do BNP continuam. Sobre a main `6bcb017d7283b7d7452104a145be4ec6c37cae82`, com 36.922 registros em 144 órgãos, 73 do MPM, 32 do MPT, 373 do MPF e 74 do TJAM, este lote não acrescenta registro nem órgão: a contagem permanece em 36.922 registros de 144 órgãos, com 373 do MPF. Capturas, PDFs, imagens e scripts ficam privados; a cobertura nacional permanece parcial.
+
+## MPGO — enunciados da Comissão Especial de Promoção dos Servidores
+
+A página [Enunciados CEP](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep), do portal do Ministério Público do Estado de Goiás, fica sob o cabeçalho “Comissão Especial de Promoção dos Servidores”, e o nº 12 cita a “Comissão Especial de Promoção”. O emissor é, portanto, a CEP dos servidores do MPGO, e não o CSMP, o TJGO nem o GNCCRIM. O MPGO entra como órgão próprio, distinto do CNMP, do MPF, do MPM, do MPT e dos demais Ministérios Públicos.
+
+A página publica 13 enunciados, nºs 01 a 13, sem lacuna. Foram incorporados na série `en-cep`, identificadores `mpgo-en-cep-1` a `mpgo-en-cep-13`. As duas capturas já existentes e uma terceira, todas HTTP 200 em 29/10/2026, têm 97209 bytes e hashes brutos diferentes. A comparação do DOM mostrou que só o `csrf-token` do cabeçalho muda: sem essa linha o documento é idêntico, e os 13 blocos têm o mesmo texto. O menu da própria página liga um PDF de 3 páginas, `ENUNCIADOS_CEP.17.10.2024.pdf`, com 202751 bytes e SHA-256 `b95aeec0e22ceec92827d6ffc40d3a775b7d636193ffa7c49923440bf4f143e9`, capturado duas vezes com os mesmos bytes. As três páginas foram lidas na camada textual e conferidas em imagem, sem OCR.
+
+Cada registro traz o texto da página e o do PDF, na mesma identidade. Os nºs 1 a 9 e 12 coincidem, exceto espaços e quebras de linha. No nº 10, a página fecha a citação com ponto e diz “aprovado na 3ª Sessão Ordinária CEP, de 24/03/2021”; o PDF imprime “(3ª Sessão Ordinária CEP, de 24/03/2021)”. No nº 11, a página tem um ponto depois da citação, e o PDF não. No nº 13, a página informa retificação na “2ª Sessão Ordinária, de 9/3/2024” e o PDF, na “2ª sessão CEP, aos 6/3/2024”; a divergência de data foi mantida sem reconciliação. Os nºs 6 a 9 citam a 9ª Sessão Ordinária CEP, de 27/10/2020, e o Ofício nº 20/2020-SPGJAA. Os nºs 10 e 11 citam a 3ª Sessão Ordinária, de 24/03/2021, o nº 12 a 6ª, de 30/06/2021, e o nº 13 a 6ª sessão, de 23/09/2022. Os nºs 1 a 5 não trazem nota. Foram mantidas as grafias “artigo 8ª” no nº 3 e “fato profissional” no nº 7, e as aspas retas que fecham o nº 2.
+
+Nenhuma das fontes declara vigência, revogação ou efeito vinculante, e a ausência desses selos não foi convertida em conclusão sobre vigência. O Ato PGJ nº 027/2006, o ofício, leis e a Constituição, apenas citados, não geraram identificadores. Outras sessões, atas e atos da CEP e redações anteriores não foram lidos e continuam pendentes; versões ausentes não foram reconstruídas. Capturas, PDF, imagens e scripts ficam privados.
+
+Sobre a main `12d4142ad68856457cb13215b91137cab44709e0`, com 36.922 registros em 144 órgãos, MPF 373, MPM 73, MPT 32 e TJAM 74, este lote soma 13 registros e um órgão: 36.935 registros em 145 órgãos, com o MPGO em 13. As nove lacunas textuais do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. A cobertura nacional continua parcial.
