@@ -24,7 +24,7 @@ Câmara de Coordenação e Revisão
 
 RECOMENDAÇÃO nº 5/96 – CCR/MPM
 
-~~“Com o fim de assegurar o fiel cumprimento do art. 10, da LC. nº 75/93, recomenda-se aos Senhores Procuradores da Justiça Militar, comunicarem-se com as autoridades militares das áreas respectivas, informando-as da necessidade da comunicação imediata das prisões efetuadas, com a indicação do lugar onde se encontra preso, e a remessa de cópia dos documentos comprobatórios da legalidade da prisão”.~~
+~~“Com o fim de assegurar o fiel cumprimento do art. 10, da LC. nº 75/93, recomenda-se aos Senhores Procuradores da Justiça Militar, comunicarem-se com as autoridades militares das áreas respectivas, informando-as da necessidade da <u>comunicação imediata</u> das prisões efetuadas, com a indicação do lugar onde se encontra preso, e a remessa de cópia dos documentos comprobatórios da legalidade da prisão”.~~
 
 RECOMENDAÇÃO Nº 05/1996 (nova redação):
 
@@ -34,4 +34,4 @@ RECOMENDAÇÃO Nº 05/1996 (nova redação):
 
 Duas capturas HTTP 200 do PDF têm os mesmos bytes e o SHA-256 indicado. Cada página foi lida na imagem PNG e confrontada com a camada de texto. Espaços de justificação, quebras de linha, negrito e itálico foram normalizados. Grafias, números, datas e pontuação da página foram preservados. O brasão foi omitido. O selo “Em vigor” da ficha não foi convertido em vigência nem em efeito vinculante. A data no caminho de upload não foi tratada como data do ato. Leis, resoluções, enunciados, decisões e outros atos apenas citados não receberam identificador.
 
-O primeiro texto, entre aspas, está riscado na página; o risco foi mantido. A linha “RECOMENDAÇÃO Nº 05/1996 (nova redação)” e o texto seguinte não estão riscados. Os dois textos permanecem no mesmo registro.
+O primeiro texto, entre aspas, está riscado na página; o risco foi mantido, e “comunicação imediata” aparece sublinhado dentro dele. A linha “RECOMENDAÇÃO Nº 05/1996 (nova redação)” e o texto seguinte não estão riscados. Os dois textos permanecem no mesmo registro.

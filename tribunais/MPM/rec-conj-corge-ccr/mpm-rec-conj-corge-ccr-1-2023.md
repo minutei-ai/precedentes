@@ -20,6 +20,8 @@ MINISTÉRIO PÚBLICO MILITAR
 
 ORIENTAÇÃO CONJUNTA Nº 1/2023 - CORGE/MPM E CCR/MPM
 
+Orienta os membros do Ministério Público Militar sobre o cumprimento do item 4 da proclamação de resultado da decisão do Supremo Tribunal Federal no julgamento das Ações Diretas de Inconstitucionalidade 6298, 6299, 6300 e 6305 (Juiz das Garantias e outras disposições da Lei 13.964/2019).
+
 O CORREGEDOR-GERAL DO MINISTÉRIO PÚBLICO MILITAR e o COORDENADOR DA CÂMARA DE COORDENAÇÃO E REVISÃO DO MINISTÉRIO PÚBLICO MILITAR, no uso das atribuições que lhes são conferidas pela Lei Complementar nº 75/1993,
 
 CONSIDERANDO a proclamação de resultado da decisão do Supremo Tribunal Federal no julgamento das Ações Diretas de Inconstitucionalidade 6298, 6299, 6300 e 6305 (Juiz das Garantias e outras disposições da Lei 13.964/2019), no dia 1º de setembro de 2023.
@@ -30,13 +32,13 @@ CONSIDERANDO que, conforme o artigo 1º da Resolução nº 181 do Conselho Nacio
 
 CONSIDERANDO que o prazo de 90 dias para o cumprimento da medida, a contar da publicação da respectiva Ata de Julgamento, em 01 de setembro de 2023, se encerrará em 29 de novembro de 2023.
 
-ORIENTAM os membros do Ministério Público Militar a observarem, no cumprimento do Item 4 da proclamação de resultado da decisão do Supremo Tribunal Federal no julgamento das Ações Diretas de Inconstitucionalidade 6298, 6299, 6300 e 6305 (Juiz das Garantias e outras disposições da Lei 13.964/2019), o que segue:
+ORIENTAM os membros do Ministério Público Militar a observarem, no cumprimento do Item 4 da proclamação de resultado da decisão do Supremo Tribunal Federal no julgamento das Ações Diretas de Inconstitucionalidade 6298, 6299, 6300 e 6305 (Juiz de Garantias e outras disposições da Lei 13.964/2019), o que segue:
 
 1 - Todos os Procedimentos Investigatórios Criminais (PIC's) e quaisquer outros procedimentos investigatórios de natureza criminal em tramitação nas Procuradorias de Justiça Militar deverão ser encaminhados ao Juiz Natural competente, no prazo fixado pelo Supremo Tribunal Federal, ou seja, até o dia 29 de novembro de 2023.
 
 2 - Para tanto, o membro responsável pelo PIC deverá gerar arquivo em PDF do inteiro teor do procedimento no MPVirtual e encaminhá-lo ao Juiz Natural competente, por meio de peticionamento eletrônico no sistema e-Proc/JMU, utilizando-se a classe processual “Procedimento Investigatório Criminal (PIC-MP), com a atribuição do nível de sigilo adequado ao caso, conforme tutorial anexo (1401113)
 
-3 - A instauração de Procedimento de Investigação Criminal deverá ser comunicada ao juízo competente com a remessa da respectiva Portaria de Instauração, também por meio de peticionamento no sistema e-Proc/JMU.
+3 - A instauração de Procedimento de Investigação Criminal deverá ser comunicada ao juízo competente com a remessa da respectiva Portaria de Instauração, também por meio de peticionamento no sistema e-Proc JMU.
 
 4 - Não há obrigatoriedade de remessa dos autos de Notícia de Fato para controle judicial, tendo em vista não se tratar de Procedimento de Investigação Criminal, nos termos das Resoluções 174 e 181 do CNMP.
 
@@ -48,7 +50,7 @@ Documento assinado eletronicamente por SAMUEL PEREIRA, Corregedor-Geral do Minis
 
 Documento assinado eletronicamente por GIOVANNI RATTACASO, Coordenador da Câmara de Coordenação de Revisão, em 23/11/2023, às 12:32, conforme art. 1º, III, "b", da Lei 11.419/2006.
 
-A autenticidade do documento pode ser conferida no site http://sei.mpm.mp.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0 informando o código verificador 1401091 e o código CRC 525B39AE.
+A autenticidade do documento pode ser conferida no site [endereço de conferência omitido] informando o código verificador 1401091 e o código CRC 525B39AE.
 
 19.03.0000.0005184/2023-50
 
@@ -60,4 +62,4 @@ CORGE1401091v5
 
 Duas capturas HTTP 200 do PDF têm os mesmos bytes e o SHA-256 indicado. Cada página foi lida na imagem PNG e confrontada com a camada de texto. Espaços de justificação, quebras de linha, negrito e itálico foram normalizados. Grafias, números, datas e pontuação da página foram preservados. O brasão foi omitido. O selo “Em vigor” da ficha não foi convertido em vigência nem em efeito vinculante. A data no caminho de upload não foi tratada como data do ato. Leis, resoluções, enunciados, decisões e outros atos apenas citados não receberam identificador.
 
-O PDF intitula o ato ORIENTAÇÃO CONJUNTA Nº 1/2023 - CORGE/MPM E CCR/MPM. A ficha intitula RECOMENDAÇÃO CONJUNTA N° 1/CORGE-MPM/CCR-MPM, DE 23 DE NOVEMBRO DE 2023, com “N°” em sinal de grau. A série pedida é rec-conj-corge-ccr; o número 1/2023 não foi renumerado nem fundido com a recomendação conjunta 1/2024. A camada de texto do PDF é ilegível. O corpo é a leitura das duas imagens. O quadro lateral repete a ementa da ficha e não entrou no texto do ato. Trechos citados em itálico foram normalizados. Samuel Pereira assina em 22/11/2023, às 18:37; Giovanni Rattacaso assina em 23/11/2023, às 12:32. A data da ficha é a da segunda assinatura. O cargo impresso é “Coordenador da Câmara de Coordenação de Revisão”. Brasão, marca do SEI e QR foram omitidos. Os códigos de processo, verificador e CRC impressos no rodapé permanecem.
+O PDF intitula o ato ORIENTAÇÃO CONJUNTA Nº 1/2023 - CORGE/MPM E CCR/MPM. A ficha intitula RECOMENDAÇÃO CONJUNTA N° 1/CORGE-MPM/CCR-MPM, DE 23 DE NOVEMBRO DE 2023, com “N°” em sinal de grau. A série pedida é rec-conj-corge-ccr; o número 1/2023 não foi renumerado nem fundido com a recomendação conjunta 1/2024. A camada de texto do PDF é ilegível. O corpo é a leitura das duas imagens. O quadro lateral recuado da primeira página, sem rótulo, traz a ementa que a ficha repete, e entrou no texto logo após o título. O parágrafo que antecede os itens grafa “Juiz de Garantias”, e a ementa e o primeiro considerando grafam “Juiz das Garantias”; as duas grafias foram mantidas. O item 3 grafa “e-Proc JMU”, sem barra, e o item 2, “e-Proc/JMU”. O item 2 não fecha as aspas e não termina em ponto. Trechos citados em itálico foram normalizados. Samuel Pereira assina em 22/11/2023, às 18:37; Giovanni Rattacaso assina em 23/11/2023, às 12:32. A data da ficha é a da segunda assinatura. O cargo impresso é “Coordenador da Câmara de Coordenação de Revisão”. Brasão, marca do SEI e QR foram omitidos. Os códigos de processo, verificador e CRC impressos no rodapé permanecem. O endereço eletrônico de conferência impresso no rodapé foi omitido da transcrição; o código verificador e o código CRC, impressos no documento público, permanecem.

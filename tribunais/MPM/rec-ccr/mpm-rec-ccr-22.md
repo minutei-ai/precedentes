@@ -30,4 +30,4 @@ RECOMENDA-SE aos órgãos do Ministério Público Militar que adotem nos casos, 
 
 Duas capturas HTTP 200 do PDF têm os mesmos bytes e o SHA-256 indicado. Cada página foi lida na imagem PNG e confrontada com a camada de texto. Espaços de justificação, quebras de linha, negrito e itálico foram normalizados. Grafias, números, datas e pontuação da página foram preservados. O brasão foi omitido. O selo “Em vigor” da ficha não foi convertido em vigência nem em efeito vinculante. A data no caminho de upload não foi tratada como data do ato. Leis, resoluções, enunciados, decisões e outros atos apenas citados não receberam identificador.
 
-“RECOMENDA-SE” estava em negrito e “no que couber” em itálico e sublinhado. Foram normalizados, sem apagar as palavras.
+“RECOMENDA-SE” estava em negrito e sublinhado, e “no que couber”, em negrito e itálico. Foram normalizados, sem apagar as palavras.
