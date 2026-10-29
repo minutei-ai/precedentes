@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.747 registros únicos de 118 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.755 registros únicos de 119 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TATE/PE — Súmulas e Atos Normativos](https://www.sefaz.pe.gov.br/Servicos/TATE/Paginas/Informacoes.aspx) | 8 | 8 | 0 |
 | [CAT/GO — Súmulas do catálogo oficial](https://goias.gov.br/economia/sumulas/) | 15 | 15 | 0 |
 | [PGE/GO — Súmulas Administrativas](https://goias.gov.br/procuradoria/sumulas-administrativas/) | 22 | 22 | 0 |
 | [TRT17 — Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas) | 65 | 65 | 0 |
@@ -873,6 +874,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
 | [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
@@ -916,7 +918,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -969,3 +971,9 @@ O portal institucional de súmulas do TJGO respondeu HTTP 403; a fonte incorpora
 O catálogo próprio de súmulas do TJSE permanece pendente. As consultas diretas ao portal principal e ao endereço institucional ejusepos excederam 45 segundos; o coletor nativo encerrou com “scrape deadline or invalid input”. A tentativa pelo navegador integrado também excedeu o prazo de navegação, sem captura válida do catálogo. Essas falhas não foram tratadas como ausência de súmulas e não afetam os registros do TJSE já obtidos no BNP.
 
 O acervo não representa todos os acórdãos do Brasil nem inclui automaticamente o inteiro teor de todas as decisões vinculadas.
+
+## TATE/PE — súmulas do catálogo oficial
+
+O catálogo acrescenta oito súmulas, nºs 01 a 08, em série administrativa própria. Os oito PDFs oficiais têm uma página cada; cada par de capturas de 29/10/2026 coincide em bytes e SHA-256. A camada textual das nºs 01 e 03 a 08 foi conferida nas imagens das sete páginas e preservada, normalizando apenas espaços e quebras de linha. A nº 02 contém o corpo digitalizado: o enunciado e o despacho foram transcritos visualmente, com marcador explícito para uma pontuação não conciliada após a referência ao § 1º no despacho. A assinatura manuscrita não foi reproduzida nem identificada por inferência. Essa lacuna impede considerar o despacho uma transcrição integral sem ressalvas.
+
+A nº 01 informa aprovação na sessão plenária de 03/02/1992; a nº 02 traz despacho de 13/05/1992 e publicação de 14/05/1992. As nºs 03 e 04 informam publicação em 23/12/2023; as nºs 05 e 06 em 24/12/2024, com aprovação unânime em 18/12/2024; a nº 07 em 1º/08/2025; a nº 08 em 02/06/2026. As referências a precedentes e os números de autos de infração foram mantidos dentro dos documentos e não geraram novos registros. O diário, os acórdãos e a legislação apenas citados não foram lidos integralmente neste lote. O catálogo não comprova vigência posterior nem esgota outras séries do TATE/PE.
