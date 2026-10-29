@@ -1959,3 +1959,8 @@ Este lote soma 20 IDs e um órgão à main `983bf0cf` (37.764 registros em 159 �
 ## MPPI — consulta e conversão em Súmula 09
 
 Incorporado ao [registro existente da Súmula 09](tribunais/MPPI/sum-csmp/mppi-sum-csmp-9.md#consulta-e-deliberação-em-17092021) o item 2.4.1 da ata de 17/09/2021, páginas físicas 1–6. Relatório, voto e deliberação conferidos nas seis imagens e na camada textual, sem OCR. Os números em branco dos enunciados de 2019/2021 foram preservados; o número 09 é atribuído pelo catálogo que vincula esta ata. A redação proposta na página 4 coincide em caixa alta com o texto do catálogo, preservado na ficha. Não foram incorporadas a abertura da sessão, os processos seguintes nem as outras 56 páginas. Pares de PDF, tamanho e SHA-256 conferidos. Delta zero sobre `591e1193`: 37.784 registros em 160 órgãos. As nove lacunas originais do BNP e os avisos do MPAL sem enunciado permanecem; a Súmula 01 do MPPI mantém texto histórico e suspensão atribuída ao catálogo.
+
+
+## MPPI — proposta e aprovação da Súmula 10/2021
+
+A ata ODT da 1347ª sessão, de 01/10/2021, recebeu leitura visual das páginas locais 1 e 89–91 da conversão de 91 páginas. O item 4.1, com proposta e aprovação da Súmula 10/2021, está no registro da Súmula 10; o esclarecimento sobre a conversão do enunciado da sessão anterior está na Súmula 09. A paginação é local, sem OCR, e as demais passagens permanecem pendentes. Nenhum identificador novo foi criado. O par oficial de ODT coincide em tamanho e SHA-256, registrados nas fichas. O conteúdo do catálogo permanece intacto; não se inferiu vigência ou efeito vinculante. Delta zero sobre `dbfbf97a`: 37.784 registros em 160 órgãos. As nove lacunas originais do BNP e os dois avisos sem enunciado do MPAL permanecem.

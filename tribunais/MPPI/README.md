@@ -83,3 +83,8 @@ A ata de 23/10/2017, páginas físicas 13–14, registra a discussão e aprovaç
 ## Consulta que originou a Súmula 09
 
 O [registro da Súmula 09](sum-csmp/mppi-sum-csmp-9.md#consulta-e-deliberação-em-17092021) traz o item 2.4.1 completo da ata de 17/09/2021, páginas físicas 1–6: relatório, voto e aprovação do enunciado a ser convertido em súmula. As seis imagens foram conferidas com a camada textual. O catálogo identifica o número 09; na ata os números dos enunciados de 2019 e 2021 ficam em branco, sem preenchimento na transcrição. O texto anterior do catálogo e o registro separado do enunciado de 2019 foram preservados. O PDF de 62 páginas tem capturas pareadas idênticas; as outras 56 páginas não foram incorporadas, e não houve OCR nem registro novo.
+
+
+## Ata de 01/10/2021: Súmulas 09 e 10
+
+A ata ODT da 1347ª sessão, de 01/10/2021, recebeu leitura visual das páginas locais 1 e 89–91 da conversão de 91 páginas. O item 4.1, com proposta e aprovação da Súmula 10/2021, está no registro da Súmula 10; o esclarecimento sobre a conversão do enunciado da sessão anterior está na Súmula 09. A paginação é local, sem OCR, e as demais passagens permanecem pendentes. Nenhum identificador novo foi criado.
