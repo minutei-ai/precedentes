@@ -20,3 +20,5 @@ Vínculos do verbete na página, não lidos neste lote:
 - [:](https://www.mpf.mp.br/atuacao/ccr3/enunciados/enunciado-no-26.pdf)
 
 Texto, notas e trechos riscados do HTML oficial conferidos em duas capturas HTTP 200 de 29/10/2026. Quebras de linha, espaços e ênfases em negrito e itálico foram normalizados; os riscos foram preservados em Markdown. Os vínculos são os da página, sem leitura dos PDFs de propostas, enunciados, deliberações ou diários neste lote. Atos e processos apenas citados não geraram registros adicionais. A ausência de nota de revogação não confirma vigência atual nem efeito vinculante.
+
+A página associa ao nº 27 dois vínculos: um nomeado `enunciado-no-27.pdf` e outro `enunciado-no-26.pdf`. Ambos foram capturados, mas não lidos neste lote. A associação divergente permanece atribuída à página; o texto deste registro veio do HTML do nº 27.
