@@ -14,7 +14,7 @@
 
 “Enunciado nº 3: Na regularização fundiária, o Projeto More Legal tem aplicação subsidiária à Lei Federal nº 11.977/09”.
 
-A [Resolução 02/2018](https://www.mprs.mp.br/legislacao/resolucoes/12851/) referenda a revogação dos nºs 3, 7 e 10 do CONURB. O nº 10 só é referido e não ganhou registro sem texto.
+A [Resolução 02/2018](https://www.mprs.mp.br/legislacao/resolucoes/12851/) referenda a revogação dos nºs 3, 7 e 10 do CONURB. O nº 10 é apenas referido nesse ato; seu corpo foi recuperado depois na Resolução 07/2016 e está no [registro próprio](mprs-en-conurb-10.md).
 
 ## Conferência e limites
 

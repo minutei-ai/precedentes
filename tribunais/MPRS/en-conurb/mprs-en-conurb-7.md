@@ -14,7 +14,7 @@
 
 “Enunciado nº 07: Nas ocupações em áreas de preservação permanente é admitida, excepcionalmente, e desde que não se localizem em área de risco, a regularização fundiária de interesse social (art. 47, VII, da Lei Federal nº 11.977/09), caracterizadas, até 31 de dezembro de 2007, como ocupação urbana consolidada (art. 47, II, da Lei Federal nº 11.977/09), desde que observados todos os demais requisitos do art. 54, § 1º, da Lei Federal nº 11.977/09, que revogou o art. 9º da Resolução CONAMA nº 369/2006 no que tange à Regularização Fundiária Sustentável em APP.”
 
-A [Resolução 02/2018](https://www.mprs.mp.br/legislacao/resolucoes/12851/) referenda a revogação dos nºs 3, 7 e 10 do CONURB. O nº 10 só é referido e não ganhou registro sem texto.
+A [Resolução 02/2018](https://www.mprs.mp.br/legislacao/resolucoes/12851/) referenda a revogação dos nºs 3, 7 e 10 do CONURB. O nº 10 é apenas referido nesse ato; seu corpo foi recuperado depois na Resolução 07/2016 e está no [registro próprio](mprs-en-conurb-10.md).
 
 ## Conferência e limites
 

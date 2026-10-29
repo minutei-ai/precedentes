@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.287 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.365 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,7 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
-| [MPRS — CONURB, CONMAM e urbano-ambientais nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 11 | 11 | 0 |
+| [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
@@ -929,7 +929,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | --- | ---: | --- |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 32 | MPRS — 21 súmulas do CSMP e 11 enunciados CONURB, CONMAM e urbano-ambientais |
+| [MPRS](tribunais/MPRS/) | 110 | MPRS — 21 súmulas CSMP, 86 enunciados ambientais/urbanísticos e 3 proposições |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1697,3 +1697,13 @@ Os nºs 1 e 2 do CONURB aprovados em janeiro de 2008 têm redações diferentes 
 O documento comum publica integralmente seis atos e o ato principal com Anexo II da 08/2008. O Anexo I de roteiros foi lido, mas não incorporado nem contado. Nenhum acesso a intranet foi feito; links nela apenas citados não foram abertos. As resoluções não ganharam IDs separados. Espaços, quebras e ênfases normalizados, sem PDF nem OCR. Leis, programas, processos, diários e enunciados apenas citados continuam pendentes. Não há CPF, RG, matrícula pessoal ou bloco de autenticação incorporado; nomes e funções públicos mantidos.
 
 Sobre a main `30923897` (37.276 registros em 150 órgãos), são onze registros novos sem órgão novo: 37.287 registros em 150 órgãos, MPRS 32. Os PRs 67, 68 e 69 continuam fora desta base enquanto abertos. As nove lacunas iniciais do BNP permanecem. Outras séries e atos seguem pendentes. Apenas Markdown público; capturas e scripts privados; cobertura nacional parcial.
+
+## MPRS — complemento histórico ambiental e proposições
+
+Dez atos adicionais do catálogo foram lidos integralmente no HTML oficial em duas capturas cada, com contêiner jurídico idêntico: fichas 5689 (03/2011), 9133 (03/2015), 10416 (02/2016), 11224 (07/2016), 15504 (04/2022), 15664 (08/2022), 18197 (4/2025), 18511 (3/2026), 18542 (4/2026) e 18657 (7/2026). A segmentação identificou 79 textos: 72 enunciados CONMAM, quatro CONURB e três proposições CONMAM. O nº 9 CONMAM já tinha identidade no lote inicial; a redação de 2011 entrou como histórico na mesma identidade alterada expressamente em 2018. Assim, são 78 registros novos neste complemento, sem órgão novo.
+
+O lote completo passa a 89 registros: CONMAM 72 (9–50, 52–80 e 4-B), CONURB 12 (1–11 e um sem número), urbano-ambientais 2 e proposições CONMAM 3 (1, 4 e 5). As lacunas não foram completadas nem tratadas como inexistência. A proposição manteve sua espécie. O texto CONURB nº 10, antes apenas citado, foi recuperado na Resolução 07/2016, com a revogação da 02/2018 atribuída. O CONMAM nº 63 também foi recuperado no ato de 2016 e mantém a revogação de 2018. O nº 51 e os nºs 1–8 CONMAM continuam sem texto nas fontes lidas.
+
+A Resolução 3/2026 referenda a revogação dos nºs 13, 14, 52 e 54, mantendo seus corpos históricos. A 4/2026 menciona dois novos enunciados no considerando e publica somente o nº 4-B; não se criou outro. CONMAM, CONMAN e CONMA, assim como CAOMA e CAOURB, ficam atribuídos aos atos. “pecos”, “captação uso”, “econômico-finaceira”, aspas e sinais irregulares foram preservados. Títulos temáticos entre verbetes ficam no documento comum, sem passar ao corpo do anterior. Os dez atos completos foram acrescentados ao mesmo README, sem arquivos de apoio contados como registros. São dezessete atos lidos no total; não houve PDF nem OCR. Não se inferiu vigência atual ou vinculação.
+
+Com as 21 súmulas CSMP intactas, o MPRS passa a 110 registros neste PR. Sobre a main `30923897`, com 37.276 registros em 150 órgãos, soma 89 sem órgão novo: 37.365 registros em 150 órgãos. Outros PRs abertos não integram esta base. As nove lacunas iniciais do BNP permanecem. Nenhum CPF, RG, matrícula pessoal ou bloco de autenticação incorporado; referências a matrícula imobiliária permanecem como termos jurídicos. Diários, normas e outros atos apenas citados continuam pendentes. Apenas Markdown público, capturas e scripts privados, cobertura nacional parcial.

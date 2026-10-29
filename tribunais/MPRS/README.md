@@ -1,12 +1,13 @@
 # MPRS
 
-Ministério Público do Estado do Rio Grande do Sul. **32 registros.**
+Ministério Público do Estado do Rio Grande do Sul. **110 registros.**
 
-Súmulas do CSMP e enunciados CONURB, CONMAM e urbano-ambientais em séries próprias, distintos do TJRS, do TCERS, do TARFRS, da PGERS e do MPF. O catálogo não esgota outras séries ou o histórico do órgão.
+Súmulas do CSMP e enunciados CONURB, CONMAM e urbano-ambientais, além de proposições CONMAM, em séries próprias, distintos do TJRS, do TCERS, do TARFRS, da PGERS e do MPF. O catálogo não esgota outras séries ou o histórico do órgão.
 
 | Espécie | Registros |
 | --- | ---: |
 | [Súmulas do Conselho Superior](sum-csmp/) | 21 |
-| [Enunciados CONURB](en-conurb/) | 8 |
+| [Enunciados CONURB](en-conurb/) | 12 |
 | [Enunciados urbano-ambientais](en-urbano-ambiental/) | 2 |
-| [Enunciado CONMAM nº 9](en-conmam/) | 1 |
+| [Enunciados CONMAM](en-conmam/) | 72 |
+| [Proposições CONMAM](prop-conmam/) | 3 |
