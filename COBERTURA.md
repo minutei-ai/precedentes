@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.844 registros únicos de 122 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.909 registros únicos de 124 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -9,6 +9,8 @@
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
+| [PGE/RJ — Enunciados próprios](https://pge.rj.gov.br/enunciados) | 55 | 55 | 0 |
+| [Rede-SIDH — Enunciados publicados pela PGE/RJ](https://pge.rj.gov.br/enunciados) | 10 | 10 | 0 |
 | [PGE/PI — Súmulas Administrativas, página reunida](https://www.pge.pi.gov.br/sumulas-administrativas/) | 66 | 66 | 0 |
 | [PGE/PI — Súmulas Administrativas, catálogo paginado](https://www.pge.pi.gov.br/sumulas/) | 65 | 0 | 65 |
 | [CRF/PB — Súmulas do catálogo oficial](https://www.sefaz.pb.gov.br/info/2016-01-11-17-25-20/crf) | 4 | 4 | 0 |
@@ -878,6 +880,8 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
+| [REDE_SIDH](tribunais/REDE_SIDH/) | 10 | Rede-SIDH — bloco coletivo publicado pela PGE/RJ |
 | [TARFRS](tribunais/TARFRS/) | 19 | TARF/RS — Súmulas do Tribunal Administrativo de Recursos Fiscais |
 | [PGEPI](tribunais/PGEPI/) | 66 | PGE/PI — Súmulas Administrativas |
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
@@ -925,7 +929,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-TARFRS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+TARFRS, PGERJ, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1018,3 +1022,11 @@ O portal registra 45 redações anteriores. A linha de referência “Redação 
 Os 19 PDFs têm uma página A4 e criador wkhtmltopdf 0.12.4. A camada textual coincide com o HTML atual. Não houve OCR. A data de criação do arquivo é da renderização e varia entre 2022, 2023 e 2025. Não é a data da súmula e pode divergir de dataAtualizacao, que em vários cadastros permanece em 2007. Sequências de três ou mais espaços foram reduzidas. Os espaços duplos do HTML foram mantidos, como em “página  23”, “CÁLCULO-  Nas” e “saídas  de”. A releitura do HTML com tamanho de página 10 coincide com a de tamanho 200. São 148 pares de arquivos idênticos entre as duas leituras. A lista `/api/Grupos` respondeu HTTP 500. O menu do documento exige login e não foi autenticado. A consulta pelo UUID do grupo ignora o filtro e devolve o portal inteiro; não foi usada.
 
 Permanecem fora deste lote as resoluções e as páginas do Diário Oficial apenas citadas, o dispositivo vazio da nº 02, o enunciado ausente nas redações que só trazem o título, o trecho truncado do histórico da nº 15, os acórdãos do portal e a conciliação das datas em que o cadastro diverge do texto.
+
+## PGE/RJ e Rede-SIDH — séries de emissores distintos
+
+Duas capturas de 29/10/2026 da página oficial de enunciados da PGE/RJ coincidem integralmente: 593.426 bytes, SHA-256 `c2a4d75abd846b104d405a9e1fbba318bb62cd8dc5ee89ab947a78d500de1a3e`. O primeiro bloco publica os números 1 a 55 da PGE/RJ, sem lacuna. Os títulos 22 e 49 aparecem duas vezes, com redação anterior riscada e texto substitutivo, e não geraram identidades novas. O número 24 também conserva o texto anterior riscado. Trechos riscados foram mantidos como tal, inclusive nos enunciados 3 e 7. Há revogação expressa dos números 3 (Resolução PGE nº 5406/2026, publicação de 17/06/2026), 7 (Resolução PGE nº 2.747/2010), 21 (Resolução PGE nº 3.612/2014) e 25 (Resolução PGE nº 4.108/2017). Os números 21 e 25 só publicam rubrica e nota de revogação; não houve reconstrução da redação anterior. As referências, incisos, datas e notas de alteração dos demais foram preservados sem inferir vigência atual.
+
+As publicações e republicações de janeiro de 2026 dos números 52 a 55 e a revogação de junho de 2026 do número 3 não foram substituídas pela data editorial 28/05/2024 exibida pela página. As referências históricas à Lei nº 8.666/93 e as notas de alteração de títulos em maio de 2024 permanecem nos próprios textos. Diários, resoluções e pareceres citados não foram lidos integralmente neste lote. Todo o texto de cada bloco foi conciliado com o HTML; espaços e quebras de linha foram normalizados, sem resumos dos enunciados.
+
+Após uma separação horizontal, a mesma página publica dez enunciados de outro emissor: a Rede de Cooperação entre Advocacias Públicas para atuação do Brasil no Sistema Interamericano de Direitos Humanos. Foram registrados como `REDE_SIDH`, números 1 a 10, separados dos 55 da PGE/RJ. O ato do Procurador-Geral do Estado, processo nº E-14/001.018192/2018, determina publicar os textos aprovados na reunião de 11 e 12 de dezembro de 2017. Essa data é a da reunião informada pelo ato, não uma data de publicação inferida. O bloco não informa classificação de vigência individual nem data autônoma de publicação do ato. A Rede é entidade emissora coletiva aqui contada separadamente para preservar a autoria; seus enunciados não foram apresentados como decisões da Comissão ou da Corte Interamericana nem como normas vinculantes. Não houve criação de registros para o ato de encaminhamento ou para os instrumentos internacionais apenas citados. A série da Rede não integra o catálogo judicial BNP.
