@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.645 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.792 registros únicos de 142 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,11 +8,13 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CNMP — Enunciados e súmulas da CALJ](https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-acompanhamento-legislativo-e-jurisprudencia/jurisprudenciacalj/enunciados-e-sumulas) | 32 | 32 | 0 |
 | [MPF — Enunciados do Conselho Institucional](https://www.mpf.mp.br/o-mpf/orgaos-superiores/conselho-institucional/documentos-e-publicacoes-old/enunciados) | 20 | 20 | 0 |
 | [MPF — Enunciados da 1ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr1/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados da 7ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr7/enunciados) | 11 | 11 | 0 |
 | [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados próprios, conjuntos e do GTSI publicados pela 6ª CCR](https://www.mpf.mp.br/atuacao/ccr6/enunciados) | 53 | 53 | 0 |
+| [MPF — Enunciados da 2ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr2/enunciados) | 115 | 115 | 0 |
 | [MPF — Enunciados da 4ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr4/enunciados) | 84 | 83 | 1 |
 | [ANTT — Súmulas no ANTTlegis](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=429&cod_menu=7216) | 14 | 14 | 0 |
 | [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
@@ -908,7 +910,8 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [MPF](tribunais/MPF/) | 235 | MPF — Enunciados do Conselho Institucional, das 1ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
+| [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
+| [MPF](tribunais/MPF/) | 350 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
@@ -974,7 +977,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPF, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CNMP, MPF, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1380,7 +1383,7 @@ Também entraram os nºs 1 a 34 da 1ª Câmara, em `en-ccr1`, e os nºs 1 a 11 d
 
 Na 1ª CCR permanecem os riscos das nºs 1, 7, 8, 9, 10, 12, 14, 16, 17, 21, 23, 27 e 28, e as notas de revogação ou cancelamento. Alterações expressas nas nºs 2, 3, 6, 11, 18, 19, 22, 25 e 26 não tiveram redação anterior reconstruída. A nº 1 conserva a referência à sessão em 09.10.2012 e publicação em 17.10.2002, sem conciliação das datas. Na 7ª CCR, as redações antigas das nºs 3 e 4 e suas referências ficam no mesmo registro. Processos repetidos nas referências foram mantidos. O nº 11 traz deliberação em 09/10/2025.
 
-Estas séries não se confundem entre si nem com o CNMP ou com outras Câmaras. Atas, deliberações, diários, processos, ofícios e normas citados não tiveram inteiro teor incorporado e não criaram IDs. A ausência de nota não comprova vigência atual nem efeito vinculante. A 2ª CCR, as séries próprias das 4ª e 5ª CCRs, orientações e outras séries do MPF permanecem pendentes.
+Estas séries não se confundem entre si nem com o CNMP ou com outras Câmaras. Atas, deliberações, diários, processos, ofícios e normas citados não tiveram inteiro teor incorporado e não criaram IDs. A ausência de nota não comprova vigência atual nem efeito vinculante. As séries próprias das 4ª e 5ª CCRs, orientações e outras séries do MPF permanecem pendentes.
 
 ## MPF — enunciados publicados pela 6ª CCR
 
@@ -1402,6 +1405,32 @@ Foram normalizados espaços, quebras de linha, negrito e itálico. Os vinte cont
 
 Sobre a main 60efbe51, com 36.542 registros em 141 órgãos e 132 do MPF, o lote soma vinte registros e nenhum órgão: 36.562 registros em 141 órgãos e 152 do MPF. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. Capturas e scripts ficam privados e a cobertura nacional continua parcial.
 
+## MPF — enunciados da 2ª Câmara de Coordenação e Revisão
+
+A página oficial da 2ª Câmara publica os enunciados nºs 1 a 115. O título da página é “Enunciados”; o caminho e a trilha identificam a câmara criminal. Duas capturas HTTP 200 em 29/10/2026 têm 382.538 bytes e SHA-256 `6e1ff3fe4e8e0537bfdb7ca3e551c24def9d05270a7bf2e0fd9ee047966c31da`. Os 115 blocos, sem lacuna e sem repetição, entram na série `en-ccr2`, identificadores `mpf-en-ccr2-1` a `mpf-en-ccr2-115`. O nº 110 fica no mesmo fluxo do nº 111, e os nºs 106 a 89 estão em divisões não fechadas. A segmentação seguiu a ordem linear do HTML. Os caracteres não brancos de cada bloco coincidem com o texto publicado.
+
+Vinte e dois números trazem na página só o aviso de revogação ou cancelamento: 1, 2, 3, 13, 15, 16, 20, 22, 30, 31, 34, 39, 40, 43, 44, 45, 55, 59, 63, 64, 85 e 105. O enunciado de cada um está no PDF vinculado, lido na imagem, e permanece no mesmo identificador. Outros treze PDFs guardam redação anterior ou histórico dos nºs 19, 35, 36, 49, 50, 52, 56, 57, 65, 89, 98, 103 e 106. São 35 PDFs de uma página. A Orientação nº 41 aparece só como citação no nº 95. Não foi criado identificador, nem transcritos o corpo, a nota de intranet ou a chave de autenticação.
+
+Os nºs 109 a 115 e o nº 103 registram aprovação na 8ª Sessão de Coordenação, de 15 de outubro de 2026. Os nºs 98 e 106 registram alteração nessa data. O nº 64 registra revogação nessa data. As notas ficam como publicadas. Não houve vigência inferida.
+
+Foram mantidos o vão em branco entre “da” e “tais” no nº 16, o ano cortado “21.10.201” no nº 50, “especifica” no nº 85, “Restaurado na na” no nº 51, “13.964/19,quando” e “Lei13964/2019” no histórico do nº 98, o espaço de “1 .11” no nº 59, “2ª CCR:Processo” e “DJe 11/12/20201” no nº 89, e o sinal de grau em “1° grau” no nº 3. O histórico do nº 98 abre com “ENUNCIADO Nº 98.” e repete “ENUNCIADO Nº 98”. No nº 49, as três linhas horizontais entre as quatro redações não entram no corpo. Nos nºs 36 e 57 há um span com line-through vazio, sem caracteres riscados. O endereço do nº 34 na raiz do sítio respondeu HTTP 404 nas duas capturas; o PDF lido é o do endereço completo do verbete, HTTP 200. O vínculo `n.56` não tem extensão e é PDF. Citações a enunciados de outra Câmara não geraram identificadores. Não houve OCR. Nenhum PDF incorporado passa de uma página.
+
+Sobre a main 2505cc5d2bdf29bd45e7512386f97999ab6a6745, com 36.594 registros em 142 órgãos e 152 enunciados do MPF, este lote acrescenta 115 registros e nenhum órgão: 36.709 registros em 142 órgãos, e o MPF passa a 267. As séries já publicadas da 1ª, 3ª, 6ª e 7ª CCRs, do GTSI, dos conjuntos e do Conselho Institucional permanecem. As nove lacunas textuais originais do TJAM e do TJRJ permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. As séries próprias das 4ª e 5ª CCRs, orientações, os PDFs do Conselho Institucional, pautas, atas e atos apenas citados continuam pendentes. O acervo coletado do BNP não muda por este lote. Os 118 da tabela do BNP na linha do TJBA continuam sendo o inventário dessa linha. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
+
+## CNMP — enunciados e súmulas
+
+O Conselho Nacional do Ministério Público entra como órgão próprio (CNMP). É órgão constitucional, distinto do Ministério Público Federal, do Ministério Público do Trabalho e dos Ministérios Públicos dos Estados e do Distrito Federal. Os enunciados do MPF já incorporados ficam no órgão MPF. O catálogo usado é [Enunciados e súmulas](https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-acompanhamento-legislativo-e-jurisprudencia/jurisprudenciacalj/enunciados-e-sumulas), da Comissão de Acompanhamento Legislativo e Jurisprudência.
+
+O lote tem 32 registros: enunciados 1 a 22 e súmulas 1 a 10. Não há lacuna nessas faixas. O parser que contou 28 URLs no catálogo deixou de fora a súmula nº 2, o enunciado nº 19, o enunciado nº 21 e o enunciado nº 22, que a página lista. Os quatro foram lidos em PDF oficial. Nada acima do enunciado nº 22 nem da súmula nº 10 foi provado inexistente. Uma resposta 404, uma busca que devolve a página inicial e uma lista sem filtro de atos e normas não foram tratadas como ausência.
+
+Cada página jurídica incorporada foi lida na imagem PNG de 140 dpi. A camada de texto foi o apoio. Não houve OCR. As duas capturas de cada PDF incorporado, em 29/10/2026, coincidem em bytes e em SHA-256. As fichas HTML dos enunciados nº 17, 18 e 20 diferem em bytes entre as duas capturas e coincidem no texto visível e nos links. As fichas do enunciado nº 19 e da súmula nº 2 foram salvas uma vez. O campo “Status: Vigente” e o campo “Situacao: Não consta revogação expressa” foram citados e não viraram classificação de vigência nem de efeito vinculante.
+
+O enunciado nº 1 está no arquivo Enunciado-0011.pdf. O número é o da página; o HTML do catálogo traz só a ementa. A linha “Versão compilada” aponta para Enunciado-0012.pdf, que não é o enunciado nº 12. O primeiro item III está riscado e o segundo permanece. O enunciado nº 7 traz a nota de cancelamento na Proposição nº 1.00650/2016-10, 24ª Sessão Ordinária de 13 de dezembro de 2016. O corpo de 15 de junho de 2011 está riscado; o nome do signatário não está. O acórdão ligado nessa página não foi capturado e não gerou registro. No enunciado nº 9, “Procurador-Geral” está partido na quebra de linha e o hífen foi conservado. O enunciado nº 18 tem título de 29 de março de 2022 e preâmbulo que cita sessão de 15 de março de 2021. O enunciado nº 19 é o PDF de uma página da norma 8955, com fecho nominal e sem assinatura digital. A página do DECNMP que o republica começa com o fecho de uma emenda regimental; essa emenda não foi transcrita. O Ementário da CALJ, 3ª edição de 2022, 430 páginas, apenas cita o enunciado nº 19 e não foi republicado. O enunciado nº 22 foi delimitado na página do diário que também traz o calendário de sessões de 2024; o calendário ficou de fora.
+
+A súmula nº 2 tem data de Brasília em 5 de março de 2018 e publicação da ficha em 14/03/2018. O PDF escreve “direito”; o resumo do catálogo escreve “direto”. Nas súmulas nº 1 e nº 5, o “os” de “nºs” está elevado. A nº 1 imprime o processo 2009-11 com hífen na quebra de linha. A nº 5 imprime “0.00.000.000.001213/2012-09”. A nº 3 imprime “autos de nos” na linha de base. As nº 7, 8 e 9 omitem “nos” antes de “autos”. A nº 10 conserva “0.00.000.0001041/2011-41” e “0.00.000197/2009-23”.
+
+Resoluções, leis, o regimento, súmulas de outros órgãos e processos apenas citados não geraram identificadores. Não há CPF, RG, matrícula nem código pessoal no texto incorporado. As nove lacunas textuais do TJAM e do TJRJ permanecem. O lote acrescenta 32 registros e um órgão sobre a main 900ca5e8a9f53beaaa782644686d4372426ddb81, que já reúne 36.562 registros em 141 órgãos, inclusive os 152 enunciados do MPF e os 272 registros do TJBA. Com este lote o acervo passa a 36.594 registros em 142 órgãos. A série não esgota portarias, resoluções e recomendações do CNMP. A cobertura nacional de precedentes continua parcial.
+
 ## MPF — enunciados próprios da 4ª CCR
 
 Duas capturas HTTP 200 em 29/10/2026 da [página oficial da 4ª CCR](https://www.mpf.mp.br/atuacao/ccr4/enunciados) têm os mesmos 319.385 bytes, SHA-256 `5481bae77c8a9d14213665147ef178aab4186cc8c09592d0f9e7f5d90b959916`. A página tem 84 identidades: os enunciados próprios nºs 1 a 83 e o enunciado conjunto das 4ª e 6ª CCRs e PFDC nº 1/2026, já publicado em `mpf-en-conj-ccr4-ccr6-pfdc-1-2026`. O corpo do conjunto não foi copiado e não houve outro identificador. Os 83 próprios entram na série `en-ccr4`, identificadores `mpf-en-ccr4-1` a `mpf-en-ccr4-83`. Esses 83 ocupam 87 blocos. O bloco do conjunto fica fora desses 87. Os quatro blocos além das 83 identidades são a segunda versão dos nºs 6, 67, 68 e 73.
@@ -1422,4 +1451,4 @@ O nº 57 foi lido na página única de duas capturas HTTP 200 com 48.159 bytes e
 
 O nº 58 foi lido na página única de duas capturas HTTP 200 com 47.986 bytes e SHA-256 `b9455e6b823e558cf0e5ed5bff140e1ee5358d1121086a9b3152387e6785e3dd`, protocolo PGR-00085713/2019. A página web desse arquivo estava indisponível; a fonte é a captura HTTP 200. A expressão “(assinado e datado digitalmente)” foi mantida. Nívio de Freitas Silva Filho, Subprocurador-Geral da República e Coordenador, permanece. A chave e o bloco de login foram omitidos. O aviso HTML de revogação pelo enunciado nº 68 não está nesse PDF.
 
-Este lote soma 83 registros e nenhum órgão sobre a main 900ca5e8a9f53beaaa782644686d4372426ddb81, que já reúne os 20 enunciados do Conselho Institucional: 36.562 registros em 141 órgãos e 152 do MPF. Com estes 83, o acervo passa a 36.645 registros em 141 órgãos e o MPF a 235. O TJBA permanece em 272. As nove lacunas textuais originais permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Datas, adequações e a ausência de nota não confirmam vigência atual nem efeito vinculante. A 2ª CCR, a série própria da 5ª CCR, as orientações, a Portaria nº 07/2018, as páginas não lidas da Portaria nº 05/2016 e os demais PDFs apenas vinculados continuam pendentes. Este lote não altera o Conselho Institucional, as séries da 2ª CCR nem o CNMP. A cobertura nacional continua parcial. Capturas, imagens e scripts ficam privados.
+Este lote soma 83 registros e nenhum órgão sobre a main 5062886f57f4da02b8087cd1740122f39e97583c, que já reúne os 115 enunciados da 2ª CCR e os 32 registros do CNMP: 36.709 registros em 142 órgãos e 267 do MPF. Com estes 83, o acervo passa a 36.792 registros em 142 órgãos e o MPF a 350. O TJBA permanece em 272. As nove lacunas textuais originais permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Datas, adequações e a ausência de nota não confirmam vigência atual nem efeito vinculante. A série própria da 5ª CCR, as orientações, a Portaria nº 07/2018, as páginas não lidas da Portaria nº 05/2016 e os demais PDFs apenas vinculados continuam pendentes. Este lote não altera o Conselho Institucional, a série da 2ª CCR nem o CNMP. A cobertura nacional continua parcial. Capturas, imagens e scripts ficam privados.
