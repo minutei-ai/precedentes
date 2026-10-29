@@ -1,0 +1,45 @@
+# VII Jornada de Direito Civil
+
+37 enunciados, números 576–612, da [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), filtro `jornada.id=81`, com suas 37 justificativas integrais e metadados. As 74 capturas de fichas têm HTTP 200, bytes e SHA-256 recalculados; campos dos pares e corpos das duas pesquisas coincidem. Corpos, justificativas e metadados foram lidos. Notas e redação anterior vazias.
+
+A nº 595 conserva no corpo “Revogado o Enunciado 499.”, sem alterar a ficha anterior. Mantidas as grafias “CO” nas justificativas, “CFJ” nas nºs 586 e 594 e a referência “Lei 9.517/1997” na justificativa 591. Na nº 606, o parágrafo inicial sobre guarda alternada e a nota final da comissão ficam como publicados, sem harmonização. Referências legislativas e palavras-chave são campos da ficha, separados dos fundamentos do corpo; não foram corrigidos por comparação. Os textos históricos sobre direito ao esquecimento, família e sucessões não foram atualizados.
+
+Sem inferência de vigência, vinculação, exaustividade ou titularidade atual de cargos. Normas, julgados e obras citados não receberam IDs. Sem PDF/OCR incorporado; outras publicações continuam pendentes. Apenas Markdown público, evidências privadas.
+
+- [Enunciado 576](cjf-en-civil-vii-576.md)
+- [Enunciado 577](cjf-en-civil-vii-577.md)
+- [Enunciado 578](cjf-en-civil-vii-578.md)
+- [Enunciado 579](cjf-en-civil-vii-579.md)
+- [Enunciado 580](cjf-en-civil-vii-580.md)
+- [Enunciado 581](cjf-en-civil-vii-581.md)
+- [Enunciado 582](cjf-en-civil-vii-582.md)
+- [Enunciado 583](cjf-en-civil-vii-583.md)
+- [Enunciado 584](cjf-en-civil-vii-584.md)
+- [Enunciado 585](cjf-en-civil-vii-585.md)
+- [Enunciado 586](cjf-en-civil-vii-586.md)
+- [Enunciado 587](cjf-en-civil-vii-587.md)
+- [Enunciado 588](cjf-en-civil-vii-588.md)
+- [Enunciado 589](cjf-en-civil-vii-589.md)
+- [Enunciado 590](cjf-en-civil-vii-590.md)
+- [Enunciado 591](cjf-en-civil-vii-591.md)
+- [Enunciado 592](cjf-en-civil-vii-592.md)
+- [Enunciado 593](cjf-en-civil-vii-593.md)
+- [Enunciado 594](cjf-en-civil-vii-594.md)
+- [Enunciado 595](cjf-en-civil-vii-595.md)
+- [Enunciado 596](cjf-en-civil-vii-596.md)
+- [Enunciado 597](cjf-en-civil-vii-597.md)
+- [Enunciado 598](cjf-en-civil-vii-598.md)
+- [Enunciado 599](cjf-en-civil-vii-599.md)
+- [Enunciado 600](cjf-en-civil-vii-600.md)
+- [Enunciado 601](cjf-en-civil-vii-601.md)
+- [Enunciado 602](cjf-en-civil-vii-602.md)
+- [Enunciado 603](cjf-en-civil-vii-603.md)
+- [Enunciado 604](cjf-en-civil-vii-604.md)
+- [Enunciado 605](cjf-en-civil-vii-605.md)
+- [Enunciado 606](cjf-en-civil-vii-606.md)
+- [Enunciado 607](cjf-en-civil-vii-607.md)
+- [Enunciado 608](cjf-en-civil-vii-608.md)
+- [Enunciado 609](cjf-en-civil-vii-609.md)
+- [Enunciado 610](cjf-en-civil-vii-610.md)
+- [Enunciado 611](cjf-en-civil-vii-611.md)
+- [Enunciado 612](cjf-en-civil-vii-612.md)
