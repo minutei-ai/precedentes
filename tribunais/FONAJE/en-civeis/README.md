@@ -13,7 +13,7 @@ As duas respostas da página foram capturadas em 29/10/2026:
 
 Foram lidos todos os blocos jurídicos. O HTML externo varia entre as capturas; os blocos jurídicos normalizados são idênticos em par, em ordem, quantidade e número. O texto HTML inline foi concatenado na ordem da fonte, sem inserir espaços entre elementos; sequências de espaços, quebras e espaços não separáveis foram reduzidas a um espaço. Pontuação, grafias, erros, notas, cancelamentos, revogações, substituições, alterações e aprovações foram mantidos. Não houve PDF nem OCR.
 
-A página informa o total de 177 no índice, mas o HTML capturado contém os 178 rótulos 1–178, inclusive o nº 178 atribuído ao 57º Encontro de 2026. Essa divergência da fonte é preservada; o intervalo visto não prova completude histórica.
+A contagem de 177 atribuída ao índice cível diverge dos 178 blocos HTML, numerados de 1 a 178, inclusive o nº 178 atribuído ao 57º Encontro de 2026. Nas capturas, 177 blocos são elementos `<p>` e o nº 174 aparece em um `<div>`; por isso a diferença é verificável na estrutura do HTML, embora não haja um contador textual separado de 177. A divergência fica registrada sem afirmar completude histórica.
 
 Identidades são próprias desta área e do número impresso. Números iguais em outras áreas mantêm identificadores separados. Referências a enunciados ou atos de outras instituições não criaram registros. A página não foi interpretada como prova de vigência atual, efeito vinculante ou completude histórica. Apenas os textos jurídicos destas páginas foram lidos; leis, julgados, atas e outros documentos citados não foram coletados como registros.
 

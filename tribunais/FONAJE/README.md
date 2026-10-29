@@ -12,7 +12,7 @@ As três áreas ficam em séries próprias. O mesmo número em área diferente p
 | [Enunciados Criminais](en-criminais/) | 133 |
 | [Enunciados da Fazenda Pública](en-fazenda-publica/) | 17 |
 
-O [portal do CNJ para o FONAJE](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/) aponta para as três séries. Os links criminais e da Fazenda Pública no portal agregador usam caminhos legados; as páginas consultadas indicam URLs canônicas atuais, registradas nos índices de série. A contagem cível exibida como 177 diverge dos 178 blocos publicados no HTML, incluindo o Enunciado 178 do 57º Encontro de 2026. Essa divergência fica atribuída à fonte.
+O [portal do CNJ para o FONAJE](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/) aponta para as três séries. Os links criminais e da Fazenda Pública no portal agregador usam caminhos legados; as páginas consultadas indicam URLs canônicas atuais, registradas nos índices de série. A contagem de 177 atribuída ao índice cível diverge dos 178 blocos HTML, incluindo o Enunciado 178 do 57º Encontro de 2026. Nas capturas, 177 blocos são elementos `<p>` e o nº 174 aparece em um `<div>`; por isso a diferença é verificável na estrutura do HTML, embora não haja um contador textual separado de 177. A divergência fica registrada sem afirmar completude histórica.
 
 O portal agregador foi capturado em duas respostas HTTP 200 de 29/10/2026, com 271.393 bytes e SHA-256 `3555526fd7006bbb618a76bde3b1db0333692185b365c44cb4e76531fbf8a3d7` em cada captura. Seus rótulos apontam para os caminhos legados `/enunciados-civeis/`, `/enunciados-criminais/` e `/enunciados-da-fazenda-publica/`; os destinos indicam as URLs canônicas atuais registradas nos índices de série.
 

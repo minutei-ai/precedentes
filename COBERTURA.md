@@ -14,7 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
-| [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 178 | 178 | 0 |
+| [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
 | [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
@@ -846,7 +846,7 @@ O FONAJE é o emissor dos 328 enunciados incorporados em três séries próprias
 
 O HTML jurídico foi capturado duas vezes por página. Os pares cíveis e da Fazenda Pública diferem no HTML externo; seus 178 e 17 blocos, respectivamente, coincidem após normalização. As duas capturas criminais têm bytes iguais e os 133 blocos coincidem. Tamanhos e SHA-256 de cada captura, comparação e normalização estão nos [índices do FONAJE](tribunais/FONAJE/README.md). Não houve PDF nem OCR.
 
-A página cível exibe 177 no índice, enquanto o HTML capturado contém os rótulos 1–178, inclusive o Enunciado 178 atribuído ao 57º Encontro de 2026. A divergência fica atribuída à fonte e a contagem dos blocos publicados não prova completude histórica. Cancelamentos, revogações, substituições, notas de nova redação e aprovações permanecem como impressos. A coleta não infere vigência atual ou efeito vinculante. A cobertura nacional continua parcial.
+A contagem de 177 atribuída ao índice cível diverge dos 178 blocos HTML, numerados de 1 a 178, inclusive o Enunciado 178 atribuído ao 57º Encontro de 2026. Nas capturas, 177 blocos são elementos `<p>` e o nº 174 aparece em um `<div>`; por isso a diferença é verificável na estrutura do HTML, embora não haja um contador textual separado de 177. Essa divergência fica registrada sem afirmar completude histórica. Cancelamentos, revogações, substituições, notas de nova redação e aprovações permanecem como impressos. A coleta não infere vigência atual ou efeito vinculante. A cobertura nacional continua parcial.
 
 ## TJMMG — súmulas do catálogo próprio
 
