@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.117 registros únicos de 129 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.160 registros únicos de 130 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGE/AL — Súmulas Administrativas](https://pge.al.gov.br/documentos/category/36-sumulas) | 43 | 43 | 0 |
 | [PROCON/PB — Súmulas da Câmara Recursal](https://procon.pb.gov.br/camararecursal/sumulas) | 4 | 4 | 0 |
 | [PGM de Joinville — Súmulas Administrativas](https://www.joinville.sc.gov.br/publicacoes/sumulas-administrativas-da-procuradoria-geral-do-municipio/) | 6 | 6 | 0 |
 | [CGE/MG — Súmulas Administrativas no portal do Conrege](https://www.conrege.mg.gov.br/legislacoes/sumulas-administrativas) | 15 | 15 | 0 |
@@ -899,6 +900,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [PROCONPB](tribunais/PROCONPB/) | 4 | PROCON/PB — Súmulas da Câmara Recursal |
 | [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
 | [CGEMG](tribunais/CGEMG/) | 15 | CGE/MG — Súmulas Administrativas publicadas no Conrege |
+| [PGEAL](tribunais/PGEAL/) | 43 | PGE/AL — Súmulas Administrativas |
 | [PGERS](tribunais/PGERS/) | 15 | PGE/RS — Súmulas de Jurisprudência Administrativa CEAD |
 | [PGESP](tribunais/PGESP/) | 23 | PGE/SP — Súmulas históricas, 2ª edição de 1999, Série Documentos n. 18 |
 | [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
@@ -942,7 +944,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1151,3 +1153,17 @@ O PDF oficial vinculado na página do Tema 1491 foi capturado duas vezes em 29/1
 O documento reconhece questão constitucional e repercussão geral; a decisão registra que o Tribunal não reafirmou a jurisprudência dominante. Não se criou tese de mérito por inferência. A tese do Tema 1.133, citada na página física 10, permanece dentro do voto e não foi transferida para o Tema 1491. A nota de rodapé da página 16 foi preservada. Etiquetas presentes apenas na camada extraível, sem correspondência visível nas imagens, e os rodapés com autenticação, códigos e senhas foram omitidos. O texto jurídico das 18 páginas foi mantido, com sua divisão física e a numeração interna impressa.
 
 O lote não cria registros nem órgãos: permanecem 36.117 registros de 129 órgãos sobre a main bd84fc49. Os registros ainda sem texto passam de dez para nove: oito IRDR do TJAM e o IRDR 34 do TJRJ. Os processos, pareceres, ofícios e precedentes apenas citados não tiveram inteiro teor incorporado e não geraram identificadores adicionais. Atos posteriores e situação de mérito atual continuam fora deste lote. PDF, imagens e recibos ficam privados.
+
+## PGE/AL — Súmulas Administrativas
+
+A Procuradoria-Geral do Estado de Alagoas entra como órgão próprio (PGEAL). Não é o TJAL nem o TCEAL. A fonte é a categoria [Súmulas](https://pge.al.gov.br/documentos/category/36-sumulas) do portal da PGE/AL. Em 29/10/2026 as cinco páginas do catálogo, com `start` 0, 10, 20, 30 e 40, responderam HTTP 200. Duas leituras apresentaram os mesmos 43 vínculos. O download de cada arquivo é `?download=ID:slug`.
+
+O catálogo numera de 1 a 45 e não exibe as nºs 10 e 18. Essa ausência não comprova inexistência nem cancelamento. Não foram criados registros vazios. Os 43 PDFs foram baixados duas vezes. Os pares coincidem em tamanho e SHA-256. Os arquivos foram recebidos entre 29/10/2026 12:36:41Z e 12:37:17Z. Uma terceira leitura de cada PDF, no mesmo dia, repetiu os 43 hashes. Cada registro publica o SHA-256 e o tamanho. São 44 páginas: 42 PDFs de uma página e o documento 614, da nº 42, com duas. A camada textual foi conferida na imagem de cada página. Não houve OCR. Não há página ilegível, carimbo, manuscrito nem realce que altere o texto.
+
+A identidade de cada registro é o cabeçalho impresso no PDF. Os identificadores são `pgeal-sum-1` a `pgeal-sum-9`, `pgeal-sum-11` a `pgeal-sum-15`, `pgeal-sum-17`, `pgeal-sum-19` a `pgeal-sum-45` e `pgeal-sum-15-arquivo-436`. O documento 435 imprime a nº 15/2011 sobre recurso especial, com fecho em 24/10/2011. O documento 436 também imprime nº 15/2011, de 24 de outubro de 2011, mas o enunciado trata de abono de permanência de militares e o fecho está em 17 de janeiro de 2012. O catálogo rotula o arquivo 436 como nº 16, com o tema de recurso especial. Não se criou a nº 16 por esse rótulo nem se fundiram os dois PDFs.
+
+O documento 416 é a nº 23/2012. O preâmbulo declara alteração e o mesmo PDF traz a nova redação e a redação anterior. O título conserva 17 de janeiro de 2012; o fecho está em 15 de janeiro de 2019. O rótulo do catálogo separa “ALTERA ÇÃO” e “REDA ÇÃO”. Não havia outro arquivo da redação de 2012, e nada foi reconstruído fora deste PDF. O documento 614 é a nº 42/2018, com o título “alterada em 11 de julho de 2023”. O histórico cita a redação original, o processo nº 1204-003529/2017 e o DOE de 15/05/2018, sem transcrever essa redação. Ela não foi reconstruída. A segunda página traz o fecho e a assinatura. O rodapé imprime “Chateaubriant” e o CEP 25010-070. O documento 682 é a nº 31/2012 e o primeiro item da categoria. O enunciado está em negrito, como nos demais PDFs do Centro de Estudos desta série. Não há segunda versão no catálogo. O título interno “Processo PGE n º 452/98” repete metadado também presente na nº 01/2007 e não foi usado como identidade.
+
+Foram preservados enunciado, referências, datas, notas e assinaturas legíveis. Apenas espaços e quebras de linha foram normalizados; o hífen de quebra em identificador foi reunido sem espaço inserido. Permanecem, entre outras formas impressas, “ADMINSITRATIVA” na nº 41, “2002.Precedentes” e a legislação “de 2001” na nº 6, “1.O servidor” na nº 7, “FEDERAL.REFERÊNCIA” na peça do arquivo 436, a aspa final da linha de legislação da nº 39 e a ausência de aspa de fechamento do enunciado da nº 26. A legislação das nºs 17, 19, 30 e 36 imprime “§ 19”, e na nº 17 e na nº 19 o ponto de “ART.40” não tem espaço. Na nº 20 o enunciado imprime § 1º e a legislação imprime “ART. 40, § 19”. Nas mesmas páginas, outros ordinais permanecem “º”. Os rótulos do catálogo não reproduzem § nem aspas do PDF; a transcrição segue a camada textual. A data de impressão no rodapé, quando existe, não é a data do ato. A frase de caráter obrigatório é a do próprio ato. A ausência de nota de revogação não confirma vigência atual nem efeito vinculante posterior. Pareceres, processos, diários, acórdãos e leis apenas citados não foram incorporados e não geraram registros. Não há CPF, RG nem matrícula nestes PDFs. Nomes e funções permanecem.
+
+O lote acrescenta 43 registros e um órgão. A main 7cf00bac já reúne a transcrição das 11 páginas CEAD, as quatro súmulas do PROCON/PB e o inteiro teor das 18 páginas do acórdão do Tema 1491 do STF, sem novos registros nesse complemento: 36.117 registros em 129 órgãos. Com este lote o acervo passa a 36.160 registros em 130 órgãos. A categoria não esgota os pareceres da PGE/AL nem esclarece as nºs 10, 16 e 18.
