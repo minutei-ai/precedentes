@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.884 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.919 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPM — Recomendações da CCR e atos conjuntos CORGE/CCR](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 35 | 35 | 0 |
+
 | [MPM — Enunciados da Câmara de Coordenação e Revisão](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 24 | 24 | 0 |
 | [TJAM — Catálogo próprio de IRDR](https://www.tjam.jus.br/index.php/consultas-nugep/irdr-nugep?showall=1) | 32 | 2 | 30 |
 | [MPM — Enunciados do 9º ECPJM](https://www.mpm.mp.br/arquivos/legislacao/enunciado-no-1-ecpjm-mpm) | 14 | 14 | 0 |
@@ -915,7 +917,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [MPM](tribunais/MPM/) | 14 | MPM — Enunciados do 9º ECPJM, carta de 2021 e fichas oficiais |
+| [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 29 | MPT — Enunciados da CCR, HTML oficial |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
 | [MPF](tribunais/MPF/) | 373 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
@@ -984,7 +986,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CNMP, MPF, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CNMP, MPF, MPM, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1514,6 +1516,20 @@ São duas páginas físicas, uma em cada arquivo, lidas visualmente e transcrita
 Entraram os cabeçalhos institucionais, as Informações nºs 042/2016/AR/3CCR e 054/2016/AR/3CCR, assunto, enunciado proposto, quatro itens de justificativa em cada e o fecho nominal de Nilson Pereira Rocha Júnior, Assessoria de Padronização Revisional - APR. A nº 22 inclui a transcrição legislativa impressa na justificativa. A informação da nº 22 data 14/04/2016 e o carimbo, 30/05/2016; na nº 23, ambos indicam 23/05/2016. Os números manuscritos de protocolo não foram transcritos, e as assinaturas foram indicadas sem reprodução gráfica. Brasões e desenho do carimbo ficaram fora da cópia textual. Esses limites não foram chamados de transcrição integral de todos os sinais da página.
 
 As datas não foram convertidas em aprovação ou vigência. Normas e atos apenas citados não criaram IDs. Os outros PDFs da 3ª CCR e os atos de aprovação permanecem pendentes; este lote não esgota o órgão. As nove lacunas do catálogo inicial do BNP permanecem. Capturas, PDFs e imagens ficam privados. Sobre a main `512d07db5b3fd1b9b78d38e8ff2defc4e1b54bbe`, a contagem continua em 36.860 registros de 144 órgãos, com 373 do MPF. A cobertura nacional permanece parcial.
+
+## MPM — recomendações da CCR e atos conjuntos CORGE/CCR
+
+Duas capturas HTTP 200 em 29/10/2026 da [página da Câmara de Coordenação e Revisão](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) têm 69.521 bytes e SHA-256 `4c9f3915fa3946ce61df0d4a6255434d81226e7348e77d601c1b03a2201cbe1a`. A tabela de recomendações não tem coluna de data e lista 33 atos próprios, do nº 01/96 ao nº 33/2026. Cada PDF foi capturado duas vezes com os mesmos bytes. As 33 fichas do sitemap, também em pares idênticos, trazem o selo “Em vigor”. Esse selo ficou atribuído à ficha e não foi convertido em vigência nem em efeito vinculante. A linha de 35 registros na tabela de fontes junta esses 33 atos da página do catálogo aos dois atos conjuntos, que não estão nessa tabela.
+
+Os 33 entram na série `rec-ccr`, identificadores `mpm-rec-ccr-1` a `mpm-rec-ccr-33`. O rótulo do catálogo, o título da ficha e o título impresso no PDF nem sempre usam o mesmo ano, e a divergência foi mantida. Na nº 12, o catálogo rotula “Recomendação nº 12/16” e aponta 2023/07; a ficha intitula “RECOMENDAÇÃO Nº 12/2016” e aponta 2025/09; o PDF traz “RECOMENDAÇÃO nº 12/2016” e a frase “o exato cumprimento no contido”. Os bytes das duas URLs coincidem. Na nº 32, o PDF traz “RECOMENDAÇÃO Nº 32/2025 – CCR/MPM, em 08/04/2026”; o catálogo rotula “Recomendação n° 32/2026”, com sinal de grau, e aponta 2026/05; a ficha intitula “RECOMENDAÇÃO Nº 32/2026”, o slug contém 32-2025 e o PDF da ficha está em 2026/07. As recomendações nº 30 a 33 imprimem o Ministério Público Federal acima do Ministério Público Militar. O órgão do registro continua sendo o MPM.
+
+A nº 5 conserva, no mesmo registro, o primeiro trecho entre aspas com risco e o bloco seguinte, sem risco, introduzido como nova redação. A nº 16 numera os itens `1.)` a `4.)`; os itens 1, 2 e 4 abrem com aspas “ e o item 3 abre com ”. A nº 19 traz no próprio texto a linha “Alterada, em 09.08.2021, com a inclusão do item 4.” A nº 28 tem três páginas. Os sublinhados impressos na nº 5 e na nº 28, inclusive os marcados por “(g.n.)”, permanecem sublinhados, com a extensão conferida na imagem. Na nº 22, o negrito, o itálico e o sublinhado de “RECOMENDA-SE” e de “no que couber” foram normalizados. As recomendações de camada textual insuficiente foram transcritas pela imagem. Foram lidas 41 páginas: as 37 páginas das 33 recomendações próprias e as 4 páginas dos dois atos conjuntos. Espaços, quebras, negrito e itálico foram normalizados. Grafias, números, datas e pontuação foram preservados. O brasão foi omitido. A data no caminho de upload não foi tratada como data do ato.
+
+Duas fichas do sitemap, fora da tabela do catálogo, trazem atos conjuntos da Corregedoria-Geral e da CCR. Os dois levam o número 1, em anos diferentes, e permanecem distintos na série `rec-conj-corge-ccr`: `mpm-rec-conj-corge-ccr-1-2023` e `mpm-rec-conj-corge-ccr-1-2024`. O PDF de 2023 intitula ORIENTAÇÃO CONJUNTA Nº 1/2023 - CORGE/MPM E CCR/MPM. A ficha intitula RECOMENDAÇÃO CONJUNTA N° 1/CORGE-MPM/CCR-MPM, DE 23 DE NOVEMBRO DE 2023, com “N°” em sinal de grau. A camada textual desse PDF é ilegível; o corpo saiu da leitura das duas imagens, e a ementa do quadro lateral entrou logo após o título. Samuel Pereira assina em 22/11/2023, às 18:37, e Giovanni Rattacaso em 23/11/2023, às 12:32, com o cargo impresso “Coordenador da Câmara de Coordenação de Revisão”. O PDF de 2024 intitula RECOMENDAÇÃO CONJUNTA 1/2024 – CORGE-MPM / CCR-MPM, de 15 de julho de 2024. A assinatura de Samuel Pereira passa da página 1 para a página 2 depois de “15:23,”. Giovanni Rattacaso assina às 16:23 do mesmo dia. Referências processuais e documentais do rodapé permanecem; o bloco de autenticação, incluindo endereço de conferência, código verificador e CRC, foi omitido. Brasão, marca do SEI e QR foram omitidos.
+
+Leis, resoluções, enunciados, ações diretas, habeas corpus e outros atos apenas citados não receberam identificador. A citação, na recomendação nº 31, do Enunciado nº 11 do 9º Colégio de Procuradores não duplicou a série `en-ecpjm`. Os 14 enunciados do ECPJM já publicados não foram alterados. Enunciados da CCR do MPM, outros encontros e as demais séries continuam pendentes.
+
+Sobre a main `19c7082ed376fccadaf1c682e0f1e6d10e189161`, com 36.884 registros em 144 órgãos e 38 do MPM, este lote soma 35 registros e nenhum órgão: 36.919 registros em 144 órgãos e o MPM com 73. As nove lacunas textuais do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. A cobertura nacional continua parcial. Capturas, PDFs, imagens e scripts ficam privados.
 
 ## MPM — enunciados da Câmara de Coordenação e Revisão
 
