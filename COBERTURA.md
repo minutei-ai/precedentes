@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.542 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.562 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPF — Enunciados do Conselho Institucional](https://www.mpf.mp.br/o-mpf/orgaos-superiores/conselho-institucional/documentos-e-publicacoes-old/enunciados) | 20 | 20 | 0 |
 | [MPF — Enunciados da 1ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr1/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados da 7ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr7/enunciados) | 11 | 11 | 0 |
 | [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
@@ -906,7 +907,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [MPF](tribunais/MPF/) | 132 | MPF — Enunciados das 1ª, 3ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
+| [MPF](tribunais/MPF/) | 152 | MPF — Enunciados das 1ª, 3ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
@@ -1389,3 +1390,13 @@ O corpo do conjunto nº 1/2026 coincide com o publicado na página da 4ª CCR, s
 Os riscos foram mantidos em Markdown; espaços, quebras de linha e negrito/itálico foram normalizados. Permanecem grafias como “pleno entendimento”, “pleno atendimento”, “conforme a peculiaridades”, “antropólogo.2.” e “índia.3.”. O nº 51 informa a 506ª RO sem data, que não foi completada. A fundamentação da nº 50, a pauta ODT da 428ª RO e os PDFs vinculados não foram lidos neste lote. Atos, decisões, ofícios, notas técnicas e normas apenas citados não criaram IDs. Datas e ausência de nota não comprovam vigência atual nem efeito vinculante. Não houve PDF/OCR.
 
 Sobre a main eb83d36c32ef3dea923d94f2eca9c6f12b77958d, com 36.489 registros em 141 órgãos e 79 enunciados do MPF, este lote acrescenta 53 registros e nenhum órgão: 36.542 registros em 141 órgãos, e o MPF passa a 132. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. A 2ª CCR, as séries próprias das 4ª e 5ª CCRs, orientações, PDFs, a fundamentação da nº 50 e a pauta ODT continuam pendentes. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
+
+## MPF — Conselho Institucional
+
+A página institucional do Conselho liga “Publicações”, cuja pasta aponta o catálogo “Enunciados”. Duas leituras HTTP 200 em 29/10/2026 da pasta e do catálogo têm bytes idênticos em cada par. O caminho contém `documentos-e-publicacoes-old`, sem inferência de situação jurídica a partir do nome. O catálogo publica vinte enunciados, nºs 001 a 020, incorporados em série própria `en-cimpf`, identificadores `mpf-en-cimpf-1` a `mpf-en-cimpf-20`. O Conselho é emissor distinto das câmaras dentro do mesmo órgão MPF; referências a enunciados das câmaras não criaram registros adicionais nem substituíram suas identidades.
+
+Texto jurídico, referências normativas e processuais e notas de aprovação foram transcritos do HTML. A nº 2 conserva o título “Nova Redação” e o vínculo “veja aqui o texto alterado”, cujo destino não foi lido. A nº 19 mantém os dois itens e a grafia “fé público”. A nº 6 mantém os prefixos JF-RJ e JR-RJ dos processos como publicados. As aprovações vão de 21.8.2008, na nº 1, a 13/09/2023, na nº 20. Nenhuma dessas datas foi convertida em vigência atual ou efeito vinculante.
+
+Foram normalizados espaços, quebras de linha, negrito e itálico. Os vinte controles “Acesse em PDF” ou “Acesso em PDF” ficaram como vínculos de cada registro, fora do texto jurídico. Os PDFs, a versão alterada vinculada da nº 2, as atas, as deliberações, os diários e os atos apenas citados permanecem sem leitura autônoma neste lote. A página não esgota os atos do Conselho nem o MPF; a ausência de outra numeração ou de nota de revogação não prova inexistência ou vigência. Não houve PDF/OCR.
+
+Sobre a main 60efbe51, com 36.542 registros em 141 órgãos e 132 do MPF, o lote soma vinte registros e nenhum órgão: 36.562 registros em 141 órgãos e 152 do MPF. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. Capturas e scripts ficam privados e a cobertura nacional continua parcial.
