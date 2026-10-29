@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.262 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.315 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -23,6 +23,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CJF — II Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 51 | 51 | 0 |
 | [CJF — III Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 79 | 79 | 0 |
 | [CJF — IV Jornada de Direito Processual Civil](https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/publicacoes-1/i-jornada-de-direito-processual-civil/iv-jornada-de-direito-processual-civil-2013-enunciados-aprovados-2013-2025/@@download/arquivo) | 38 | 38 | 0 |
+| [CJF — I Jornada de Direito da Seguridade Social](https://www.cjf.jus.br/enunciados/) | 53 | 53 | 0 |
 | [CJF — I Jornada de Direito Desportivo](https://www.cjf.jus.br/enunciados/) | 40 | 40 | 0 |
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
@@ -987,7 +988,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 784 | Consulta de Enunciados — Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais |
+| [CJF](tribunais/CJF/) | 837 | Consulta de Enunciados — Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -1341,7 +1342,7 @@ O registro IRDR 34 do TJRJ foi relido duas vezes na página 4 da consulta instit
 
 A Agência Reguladora do Estado do Ceará entra como órgão próprio (ARCE). Não é o TJCE, o TCECE nem a PGECE. A página [Súmulas](https://www.arce.ce.gov.br/download/sumulas/) respondeu HTTP 200 em 29/10/2026 e publica um único arquivo, [Controle de Súmulas ARCE](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf). A modificação informada pela página é 2021-03-05T12:26:53+00:00. O diretório `2018/11` do endereço é o caminho de publicação, não a data de atualização jurídica. O PDF cita atos até 11/02/2021.
 
-Duas capturas do PDF, recebidas em 29/10/2026, têm 287.677 bytes e o SHA-256 `5d47978071ca58883b21b7de3caa5b56e250e62fa7827ccf611dd406d8630af2`. Uma releitura HTTP 200 no mesmo dia repetiu esse tamanho e esse hash. O `Last-Modified` do arquivo é Fri, 05 Mar 2021 12:26:15 GMT. O documento foi produzido pelo Word 2016 em 05/03/2021, tem quatro páginas A4 e texto extraível. A camada textual foi conferida visualmente em cada página. Não houve OCR. Não há texto riscado nem sublinhado. Datas e notas de aprovação, alteração e revogação estão em negrito. As redações anteriores das nºs 03 e 18 estão em corpo menor.
+Duas capturas do PDF, recebidas em 29/10/2026, têm 287.677 bytes e o SHA-256 `5d48378071ca58883b21b7de3caa5b56e250e62fa7827ccf611dd406d8630af2`. Uma releitura HTTP 200 no mesmo dia repetiu esse tamanho e esse hash. O `Last-Modified` do arquivo é Fri, 05 Mar 2021 12:26:15 GMT. O documento foi produzido pelo Word 2016 em 05/03/2021, tem quatro páginas A4 e texto extraível. A camada textual foi conferida visualmente em cada página. Não houve OCR. Não há texto riscado nem sublinhado. Datas e notas de aprovação, alteração e revogação estão em negrito. As redações anteriores das nºs 03 e 18 estão em corpo menor.
 
 O controle reúne as súmulas nº 01 a 25, sem lacuna. Os identificadores são `arce-sum-1` a `arce-sum-25`. A nº 10 começa na última linha da página 1, em “EVENTUAIS”, e continua na página 2. A nº 19 começa no fim da página 2 e continua na página 3, em “MEDIÇÃO”. A nº 24 está inteira na página 3, inclusive a linha “e Publicada no DOE de 21/01/2020).”. A página 4 contém somente a nº 25.
 
@@ -1666,7 +1667,7 @@ Avisos de cancelamento, revogação, conversão ou retificação que na página 
 
 O nº 21 conserva, no PDF de 56.751 bytes e SHA-256 `f84a618ac21c9ed07fd1b6d86e413fe587914d244f158b61ef677426762368b6`, o corpo antigo riscado e o parágrafo de suspensão de 2015 riscado. A frase azul “Aprovado na 875ª Sessão, de 19/08/2015 da 5ª CCR.” também está riscada, nas duas linhas em que se parte, inclusive “CCR.”. A nota de cancelamento na 959ª Sessão Extraordinária, de 01/06/2017, permanece sem risco, como a justificativa do cancelamento. O HTML grafa “DECISÃO DE NÃO RECORRER DE SENTENÇA OU ACÓRDÃO”. O PDF grafa “DECISÃO DE NÃO RECORRE DE SENTENÇA OU ACÓRDÃO”. Permanece “inciativa”.
 
-O preâmbulo do nº 23, sob o título ENUNCIADO 23, diz que a Câmara “retificou o Enunciado 12”. O número foi mantido. A redação de 8 de fevereiro de 2024 está sem risco. Na redação de 17 de setembro de 2012, o título anterior não está riscado; o parágrafo antigo e a justificativa da página 2 estão. No nº 12, o título anterior “DECLÍNIO DE ATRIBUIÇÕES. HOMOLOGAÇÃO PELA 5ª CCR” não está riscado; o parágrafo antigo está. O PDF tem 165.624 bytes, SHA-256 `4699d9815392d9cc2acde585279790b1f47596d92793ffcce24eb44637baa5a8`.
+O preâmbulo do nº 23, sob o título ENUNCIADO 23, diz que a Câmara “retificou o Enunciado 12”. O número foi mantido. A redação de 8 de fevereiro de 2024 está sem risco. Na redação de 17 de setembro de 2012, o título anterior não está riscado; o parágrafo antigo e a justificativa da página 2 estão. No nº 12, o título anterior “DECLÍNIO DE ATRIBUIÇÕES. HOMOLOGAÇÃO PELA 5ª CCR” não está riscado; o parágrafo antigo está. O PDF tem 165.624 bytes, SHA-256 `4699d9815392d9cc2acde585283790b1f47596d92793ffcce24eb44637baa5a8`.
 
 No PDF do nº 39, o título “REGIME PRÓPRIO DE PREVIDÊNCIA”, o primeiro parágrafo, o segundo parágrafo e a nota azul “Alteração deliberada na 928ª Sessão, de 29/09/2016.” estão riscados. A nota “Revogado na 959ª Sessão Extraordinária, de 01/06/2017” e a justificativa permanecem sem risco. O HTML do nº 39 só traz o título e a nota de revogação, sem os parágrafos, e esse trecho da página permanece sem risco. Nos nºs 4, 13, 32 e 33, o rótulo azul “Redação anterior...” está riscado, como o corpo antigo. No nº 8, a nota azul “Redação anterior restabelecida...” está riscada, como o parágrafo antigo, inclusive “1.00.000.0007042/2001-13/BA”. No nº 3, a linha azul de “Convertido na Orientação nº 8...” fica sob o texto, sem atravessar os glifos, e permanece sem risco. O preâmbulo, o título e os dois parágrafos, inclusive o do PA nº 1.19.000.000701/2007-04, estão riscados. No nº 34, a linha azul de “Convertido na Orientação nº 3...” também fica sob o texto e permanece sem risco. O mesmo vale para “Voto vencido” e “Exposição de motivos” no nº 10.
 
@@ -1701,7 +1702,7 @@ O catálogo oficial, vinculado pela página de legislação institucional, lista
 
 Todos os textos das 21 fichas foram lidos no HTML. Os títulos “NOVA REDAÇÃO” das nºs 11/01 e 22/13 e “RETIFICAÇÃO” da nº 24/12 foram mantidos. As datas originais, de nova sessão e de publicação permanecem lado a lado. Não se reconstruíram redações anteriores ausentes. Foram preservadas as grafias “Lei nº 8.079”, “Patrimônio genérico”, “vitimas”, “Procurador- Geral”, as aspas da nº 11 e a falta de ponto final da nº 19. Nomes e funções institucionais ficaram no texto. Processos e temas do STF apenas citados não viraram registros.
 
-Não houve PDF nem OCR. Espaços, quebras e ênfases foram normalizados. Diários, atas, leis, provimentos e outros atos apenas citados continuam pendentes. As lacunas numéricas do catálogo não foram preenchidas nem tratadas como inexistência de súmulas. A página não confirma vigência atual ou efeito vinculante. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Sobre a main `88f983e353177e0c7ebabc4f7d108079747e5cae`, com 37.043 registros em 147 órgãos, MPF 430, MPCE 34, MPSC 17 e MPGO 13, o lote soma 21 registros e um órgão: 37.064 registros em 148 órgãos. As nove lacunas do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. Capturas e scripts ficam privados; a cobertura nacional continua parcial.
+Não houve PDF nem OCR. Espaços, quebras e ênfases foram normalizados. Diários, atas, leis, provimentos e outros atos apenas citados continuam pendentes. As lacunas numéricas do catálogo não foram preenchidas nem tratadas como inexistência de súmulas. A página não confirma vigência atual ou efeito vinculante. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Sobre a main `88f983e353177e0c7ebabc4f7d108083747e5cae`, com 37.043 registros em 147 órgãos, MPF 430, MPCE 34, MPSC 17 e MPGO 13, o lote soma 21 registros e um órgão: 37.064 registros em 148 órgãos. As nove lacunas do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. Capturas e scripts ficam privados; a cobertura nacional continua parcial.
 
 ## MPGO — enunciados da Comissão Especial de Promoção dos Servidores
 
@@ -2132,6 +2133,16 @@ Continuações conferidas nas nºs 243 (17–18), 249 (18–19), 261 (20–21) e
 
 Delta sobre a main `b7034e65`: 38 registros e nenhum órgão, totalizando 39.175 registros em 164 órgãos e CJF 697. A base inclui os 24 enunciados da II Jornada de Direito Comercial do PR #110 e os 103 da I Jornada de Crises Ambientais do PR #111, já integrados; a III Jornada Comercial continua em PR separado, fora desta conta. I/II/III Processual Civil, I/II Comercial e Administrativo permanecem preservados. FONAJE 328 e as 80 transcrições históricas do MPAL sem IDs novos permanecem. As nove lacunas iniciais do BNP continuam. PDF, imagens, scripts e recibos privados; apenas Markdown público.
 
+
+## CJF — I Jornada de Direito da Seguridade Social
+
+53 enunciados numerados 1–53, com justificativas integrais, da pesquisa `jornada.id=361`. As duas capturas da pesquisa contêm os mesmos 53 números, URLs e corpos. As 106 fichas têm recibos HTTP 200; os bytes e SHA-256 recalculados coincidem com os recibos. Todos os campos coincidem entre cada par de fichas e os corpos coincidem com as pesquisas. Corpos, justificativas e metadados foram lidos diretamente nos HTMLs; os 53 Markdown foram comparados campo a campo.
+
+Preservados os fechos sem ponto nas nºs 25/29, “ficou tese” e “médico do tralhado” na justificativa 16, “Decreto 3.048/1991” na justificativa 26, “Lei n. 10.779/1995” na referência da ficha da nº 33 e “Lei n. 9.784/1998” na justificativa da nº 38. Referências do corpo e metadados da ficha que divergem seguem em campos separados, sem harmonização. As menções à revisão da vida toda nas nºs 9, 10 e 40 permanecem como texto da fonte, sem atualização ou afirmação de vigência.
+
+Os campos Notas e redação anterior estão vazios em todas as fichas; isso não confirma vigência. TNU, FONAJEF, CRPS, STF, STJ e demais órgãos/julgados apenas citados não receberam IDs novos. A justificativa 13 menciona tipos de documentos sem números pessoais. Nomes e cargos públicos permanecem como atribuídos pela ficha, sem inferir titular atual. Sem PDF/OCR, vinculação ou completude; documentos apenas citados permanecem pendentes.
+
+Delta sobre a main `20fa878e` (39.262 registros em 164 órgãos; CJF 784): 53 registros e nenhum órgão novo, totalizando 39.315 registros em 164 órgãos; CJF 837. A III Jornada de Direito Comercial e a I Jornada de Direito Penal permanecem fora deste lote.
 
 ## CJF — I Jornada de Direito Desportivo
 
