@@ -1,0 +1,68 @@
+# TJBA · Enunciado do Colégio de Magistrados dos Juizados Especiais
+
+**62 registros.** [Voltar ao tribunal](../)
+
+Caderno oficial: [ENUNCIADOS DO COLÉGIO DE MAGISTRADOS DOS JUIZADOS ESPECIAIS DO PODER JUDICIÁRIO DA BAHIA](https://tjba.jus.br/juizadosespeciais/wp-content/uploads/joomla_uploads/pdf/Administracao/Colegio_Magistrados/ENUNCIADOS_ATUALIZADOS.pdf), indicado pela página do [Consolidado de precedentes](https://www.tjba.jus.br/juizadosespeciais/consolidado-precedentes-jurisprudencia/). O PDF tem 10 páginas e 117.185 bytes, SHA-256 `4f5e3e204d92f3ea31824ab719d37bc49b32ba7e197f4fe34ffb81ce552ce604`. Duas capturas em 29/10/2026 têm os mesmos bytes. O cabeçalho informa renumeração conforme decisão da Mesa Diretora publicada no DJE em 09.09.2021. O caderno inclui o II Encontro de 16 de agosto de 2024. Essa data de cabeçalho não é a edição de cada enunciado, e o caminho do arquivo não foi usado como data. São 62 enunciados, de 01 a 62, sem lacuna. A nº 47 conserva a referência à revogação da Súmula 02 das Turmas Recursais, sem outro identificador. A nº 56 conserva a modulação do expediente TJ-COI-2024/14914 e do DJE nº 3.606. A ausência de nota de cancelamento não confirma vigência.
+
+- [EN-COLMAG 1](tjba-en-colmag-1.md) — Situação não informada
+- [EN-COLMAG 2](tjba-en-colmag-2.md) — Situação não informada
+- [EN-COLMAG 3](tjba-en-colmag-3.md) — Situação não informada
+- [EN-COLMAG 4](tjba-en-colmag-4.md) — Situação não informada
+- [EN-COLMAG 5](tjba-en-colmag-5.md) — Situação não informada
+- [EN-COLMAG 6](tjba-en-colmag-6.md) — Situação não informada
+- [EN-COLMAG 7](tjba-en-colmag-7.md) — Situação não informada
+- [EN-COLMAG 8](tjba-en-colmag-8.md) — Situação não informada
+- [EN-COLMAG 9](tjba-en-colmag-9.md) — Situação não informada
+- [EN-COLMAG 10](tjba-en-colmag-10.md) — Situação não informada
+- [EN-COLMAG 11](tjba-en-colmag-11.md) — Situação não informada
+- [EN-COLMAG 12](tjba-en-colmag-12.md) — Situação não informada
+- [EN-COLMAG 13](tjba-en-colmag-13.md) — Situação não informada
+- [EN-COLMAG 14](tjba-en-colmag-14.md) — Situação não informada
+- [EN-COLMAG 15](tjba-en-colmag-15.md) — Situação não informada
+- [EN-COLMAG 16](tjba-en-colmag-16.md) — Situação não informada
+- [EN-COLMAG 17](tjba-en-colmag-17.md) — Situação não informada
+- [EN-COLMAG 18](tjba-en-colmag-18.md) — Situação não informada
+- [EN-COLMAG 19](tjba-en-colmag-19.md) — Situação não informada
+- [EN-COLMAG 20](tjba-en-colmag-20.md) — Situação não informada
+- [EN-COLMAG 21](tjba-en-colmag-21.md) — Situação não informada
+- [EN-COLMAG 22](tjba-en-colmag-22.md) — Situação não informada
+- [EN-COLMAG 23](tjba-en-colmag-23.md) — Situação não informada
+- [EN-COLMAG 24](tjba-en-colmag-24.md) — Situação não informada
+- [EN-COLMAG 25](tjba-en-colmag-25.md) — Situação não informada
+- [EN-COLMAG 26](tjba-en-colmag-26.md) — Situação não informada
+- [EN-COLMAG 27](tjba-en-colmag-27.md) — Situação não informada
+- [EN-COLMAG 28](tjba-en-colmag-28.md) — Situação não informada
+- [EN-COLMAG 29](tjba-en-colmag-29.md) — Situação não informada
+- [EN-COLMAG 30](tjba-en-colmag-30.md) — Situação não informada
+- [EN-COLMAG 31](tjba-en-colmag-31.md) — Situação não informada
+- [EN-COLMAG 32](tjba-en-colmag-32.md) — Situação não informada
+- [EN-COLMAG 33](tjba-en-colmag-33.md) — Situação não informada
+- [EN-COLMAG 34](tjba-en-colmag-34.md) — Situação não informada
+- [EN-COLMAG 35](tjba-en-colmag-35.md) — Situação não informada
+- [EN-COLMAG 36](tjba-en-colmag-36.md) — Situação não informada
+- [EN-COLMAG 37](tjba-en-colmag-37.md) — Situação não informada
+- [EN-COLMAG 38](tjba-en-colmag-38.md) — Situação não informada
+- [EN-COLMAG 39](tjba-en-colmag-39.md) — Situação não informada
+- [EN-COLMAG 40](tjba-en-colmag-40.md) — Situação não informada
+- [EN-COLMAG 41](tjba-en-colmag-41.md) — Situação não informada
+- [EN-COLMAG 42](tjba-en-colmag-42.md) — Situação não informada
+- [EN-COLMAG 43](tjba-en-colmag-43.md) — Situação não informada
+- [EN-COLMAG 44](tjba-en-colmag-44.md) — Situação não informada
+- [EN-COLMAG 45](tjba-en-colmag-45.md) — Situação não informada
+- [EN-COLMAG 46](tjba-en-colmag-46.md) — Situação não informada
+- [EN-COLMAG 47](tjba-en-colmag-47.md) — Situação não informada
+- [EN-COLMAG 48](tjba-en-colmag-48.md) — Situação não informada
+- [EN-COLMAG 49](tjba-en-colmag-49.md) — Situação não informada
+- [EN-COLMAG 50](tjba-en-colmag-50.md) — Situação não informada
+- [EN-COLMAG 51](tjba-en-colmag-51.md) — Situação não informada
+- [EN-COLMAG 52](tjba-en-colmag-52.md) — Situação não informada
+- [EN-COLMAG 53](tjba-en-colmag-53.md) — Situação não informada
+- [EN-COLMAG 54](tjba-en-colmag-54.md) — Situação não informada
+- [EN-COLMAG 55](tjba-en-colmag-55.md) — Situação não informada
+- [EN-COLMAG 56](tjba-en-colmag-56.md) — Situação não informada
+- [EN-COLMAG 57](tjba-en-colmag-57.md) — Situação não informada
+- [EN-COLMAG 58](tjba-en-colmag-58.md) — Situação não informada
+- [EN-COLMAG 59](tjba-en-colmag-59.md) — Situação não informada
+- [EN-COLMAG 60](tjba-en-colmag-60.md) — Situação não informada
+- [EN-COLMAG 61](tjba-en-colmag-61.md) — Situação não informada
+- [EN-COLMAG 62](tjba-en-colmag-62.md) — Situação não informada
