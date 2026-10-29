@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.844 registros únicos de 143 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.893 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,8 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPM — Recomendações da CCR e atos conjuntos CORGE/CCR](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 35 | 35 | 0 |
+| [MPM — Enunciados do 9º ECPJM](https://www.mpm.mp.br/arquivos/legislacao/enunciado-no-1-ecpjm-mpm) | 14 | 14 | 0 |
 | [MPF — Enunciados da PFDC e Orientação nº 1/2026](https://www.mpf.mp.br/atuacao/pfdc/orientacao-e-enunciados) | 23 | 23 | 0 |
 | [MPT — Enunciados da CCR](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) | 29 | 29 | 0 |
 | [CNMP — Enunciados e súmulas da CALJ](https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-acompanhamento-legislativo-e-jurisprudencia/jurisprudenciacalj/enunciados-e-sumulas) | 32 | 32 | 0 |
@@ -912,6 +914,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPM](tribunais/MPM/) | 49 | MPM — Enunciados do 9º ECPJM, carta de 2021 e fichas oficiais; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 29 | MPT — Enunciados da CCR, HTML oficial |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
 | [MPF](tribunais/MPF/) | 373 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
@@ -980,7 +983,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CNMP, MPF, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CNMP, MPF, MPM, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1476,3 +1479,28 @@ Os nºs 1 a 4 estão riscados na fonte. O risco foi mantido sem lhes atribuir ca
 A Orientação PFDC nº 01 foi incorporada integralmente quanto ao texto jurídico das duas páginas do PDF, com nove considerandos, cinco incisos e o fecho. As duas capturas têm 115280 bytes e SHA-256 `f6bae0e03fbd77a3c95a89357e3d3c979a3c7c5f0ed35a0a19c32c79183157d1`. A camada textual foi conferida visualmente nas duas imagens, sem OCR. O título data 12/06/2026 e a coluna de validação informa assinatura em 13/06/2026 às 16:54; ambas foram mantidas separadas. O texto declara caráter exclusivamente orientativo. Brasão, cabeçalhos repetidos e coluna de validação não foram reproduzidos; nome e funções públicas permanecem. Chaves e endereços de validação não entraram no Markdown.
 
 Atas, portarias, processos, normas e outros atos apenas citados não geraram novos registros. As demais orientações e enunciados fora desta página continuam pendentes. O lote soma 23 registros e nenhum órgão. A main f6a6143c400966bb1f99114e97348b60fe90891c já inclui os 83 enunciados próprios da 4ª CCR e os 29 do MPT: 36.821 registros em 143 órgãos e 350 do MPF. Com este lote o acervo passa a 36.844 registros em 143 órgãos e o MPF a 373. A frase das nove lacunas foi delimitada ao catálogo inicial do BNP, sem tratar esse número como auditoria de todo texto histórico das fontes diretas. Capturas, PDF, imagens e scripts ficam privados; a cobertura nacional permanece parcial.
+
+
+## MPM — enunciados do 9º Encontro do Colégio de Procuradores de Justiça Militar
+
+O sitemap público de legislação `https://www.mpm.mp.br/wp-sitemap-posts-legislacao-1.xml`, ligado ao sitemap institucional, apontou as 14 fichas ECPJM/MPM nºs 1 a 14. As fichas foram capturadas duas vezes em 29/10/2026 com os mesmos bytes em cada par. Seus 14 URLs de PDF, também lidos em par, entregam uma única carta de três páginas, 161848 bytes e SHA-256 `5019a89adaadc6e1032230147341ebb590afe791c1679a7f1d723b206fbba490`. A igualdade dos arquivos não foi tratada como duplicidade dos enunciados: o próprio documento numera 14 textos distintos, na série `mpm-en-ecpjm-1` a `mpm-en-ecpjm-14`.
+
+As três páginas foram conferidas na imagem e na camada textual, sem OCR. A página 1 contém a introdução; a página 2, os cinco temas do encontro, a nota de aprovação por maioria e os enunciados 1 a 7; a página 3, os enunciados 8 a 14 e o fecho. A introdução, os temas, a nota e o fecho estão no índice da série, sem criar um registro adicional para a carta. Não há assinatura nominal no fecho. O mapa, faixas, logotipos, cabeçalho institucional gráfico e números de página ficaram fora da transcrição. Espaços, quebras e negrito/itálico foram normalizados. Grafias como “Servidores” na nº 6, “incrementação” e as aspas desencontradas de `letra ‘a”` na nº 8 foram preservadas. A ementa da ficha nº 6 não tem o ponto final impresso no PDF; as duas versões aparecem atribuídas. As outras treze ementas coincidem com os corpos da carta após normalizar espaços.
+
+A reunião é datada de 24 a 26 de novembro de 2021, e o fecho, de 02 de dezembro de 2021. O selo “Em vigor” das 14 fichas, capturado em 29/10/2026, não foi convertido em conclusão independente sobre vigência nem efeito vinculante. O ECPJM fica em série distinta da CCR e das recomendações do MPM. MPM não se confunde com MPF, MPT, CNMP ou STM. Leis, ofícios, planos e cartas anteriores apenas citados não geraram registros. Outros encontros, redações anteriores, séries da CCR e recomendações permanecem pendentes. Capturas, PDFs e derivados ficam privados.
+
+Sobre a main `4e14a5bc241b98956649465af03c0db0919c472f`, com 36.844 registros em 143 órgãos, o lote soma 14 registros e um órgão: 36.858 registros em 144 órgãos. As nove lacunas originais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A cobertura nacional continua parcial.
+
+## MPM — recomendações da CCR e atos conjuntos CORGE/CCR
+
+Duas capturas HTTP 200 em 29/10/2026 da [página da Câmara de Coordenação e Revisão](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) têm 69.521 bytes e SHA-256 `4c9f3915fa3946ce61df0d4a6255434d81226e7348e77d601c1b03a2201cbe1a`. A tabela de recomendações não tem coluna de data e lista 33 atos próprios, do nº 01/96 ao nº 33/2026. Cada PDF foi capturado duas vezes com os mesmos bytes. As 33 fichas do sitemap, também em pares idênticos, trazem o selo “Em vigor”. Esse selo ficou atribuído à ficha e não foi convertido em vigência nem em efeito vinculante. A linha de 35 registros na tabela de fontes junta esses 33 atos da página do catálogo aos dois atos conjuntos, que não estão nessa tabela.
+
+Os 33 entram na série `rec-ccr`, identificadores `mpm-rec-ccr-1` a `mpm-rec-ccr-33`. O rótulo do catálogo, o título da ficha e o título impresso no PDF nem sempre usam o mesmo ano, e a divergência foi mantida. Na nº 12, o catálogo rotula “Recomendação nº 12/16” e aponta 2023/07; a ficha intitula “RECOMENDAÇÃO Nº 12/2016” e aponta 2025/09; o PDF traz “RECOMENDAÇÃO nº 12/2016” e a frase “o exato cumprimento no contido”. Os bytes das duas URLs coincidem. Na nº 32, o PDF traz “RECOMENDAÇÃO Nº 32/2025 – CCR/MPM, em 08/04/2026”; o catálogo rotula “Recomendação n° 32/2026”, com sinal de grau, e aponta 2026/05; a ficha intitula “RECOMENDAÇÃO Nº 32/2026”, o slug contém 32-2025 e o PDF da ficha está em 2026/07. As recomendações nº 30 a 33 imprimem o Ministério Público Federal acima do Ministério Público Militar. O órgão do registro continua sendo o MPM.
+
+A nº 5 conserva, no mesmo registro, o primeiro trecho entre aspas com risco e o bloco seguinte, sem risco, introduzido como nova redação. A nº 16 numera os itens `1.)` a `4.)`; os itens 1, 2 e 4 abrem com aspas “ e o item 3 abre com ”. A nº 19 traz no próprio texto a linha “Alterada, em 09.08.2021, com a inclusão do item 4.” A nº 28 tem três páginas. Os grifos da fonte, marcados por “(g.n.)” ou pelo sublinhado, permanecem sublinhados. As recomendações de camada textual insuficiente foram transcritas pela imagem. Foram lidas 41 páginas: as 37 das 33 recomendações próprias e as 4 dos dois atos conjuntos. Espaços, quebras, negrito e itálico foram normalizados. Grafias, números, datas e pontuação foram preservados. O brasão foi omitido. A data no caminho de upload não foi tratada como data do ato.
+
+Duas fichas do sitemap, fora da tabela do catálogo, trazem atos conjuntos da Corregedoria-Geral e da CCR. Os dois levam o número 1, em anos diferentes, e permanecem distintos na série `rec-conj-corge-ccr`: `mpm-rec-conj-corge-ccr-1-2023` e `mpm-rec-conj-corge-ccr-1-2024`. O PDF de 2023 intitula ORIENTAÇÃO CONJUNTA Nº 1/2023 - CORGE/MPM E CCR/MPM. A ficha intitula RECOMENDAÇÃO CONJUNTA N° 1/CORGE-MPM/CCR-MPM, DE 23 DE NOVEMBRO DE 2023, com “N°” em sinal de grau. A camada textual desse PDF é ilegível; o corpo saiu da leitura das duas imagens. Samuel Pereira assina em 22/11/2023, às 18:37, e Giovanni Rattacaso em 23/11/2023, às 12:32, com o cargo impresso “Coordenador da Câmara de Coordenação de Revisão”. O PDF de 2024 intitula RECOMENDAÇÃO CONJUNTA 1/2024 – CORGE-MPM / CCR-MPM, de 15 de julho de 2024. A assinatura de Samuel Pereira passa da página 1 para a página 2 depois de “15:23,”. Giovanni Rattacaso assina às 16:23 do mesmo dia. Códigos de processo, verificador e CRC impressos no rodapé permanecem. Brasão, marca do SEI e QR foram omitidos.
+
+Leis, resoluções, enunciados, ações diretas, habeas corpus e outros atos apenas citados não receberam identificador. A citação, na recomendação nº 31, do Enunciado nº 11 do 9º Colégio de Procuradores não duplicou a série `en-ecpjm`. Os 14 enunciados do ECPJM já publicados não foram alterados. Enunciados da CCR do MPM, outros encontros e as demais séries continuam pendentes.
+
+Sobre a main `55b67b3aae5a87eb29a58b4883680755ba75c319`, com 36.858 registros em 144 órgãos e 14 do MPM, este lote soma 35 registros e nenhum órgão: 36.893 registros em 144 órgãos e o MPM com 49. As nove lacunas textuais do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. A cobertura nacional continua parcial. Capturas, PDFs, imagens e scripts ficam privados.
