@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.844 registros únicos de 143 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.846 registros únicos de 143 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TJAM — Catálogo próprio de IRDR](https://www.tjam.jus.br/index.php/consultas-nugep/irdr-nugep?showall=1) | 32 | 2 | 30 |
 | [MPF — Enunciados da PFDC e Orientação nº 1/2026](https://www.mpf.mp.br/atuacao/pfdc/orientacao-e-enunciados) | 23 | 23 | 0 |
 | [MPT — Enunciados da CCR](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) | 29 | 29 | 0 |
 | [CNMP — Enunciados e súmulas da CALJ](https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-acompanhamento-legislativo-e-jurisprudencia/jurisprudenciacalj/enunciados-e-sumulas) | 32 | 32 | 0 |
@@ -829,7 +830,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
 | [TJAL](tribunais/TJAL/) | 14 | 4 | 4 |
 | [TJAP](tribunais/TJAP/) | 80 | 45 | 45 |
-| [TJAM](tribunais/TJAM/) | 72 | 72 | 72 |
+| [TJAM](tribunais/TJAM/) | 74 | 72 | 72 |
 | [TJBA](tribunais/TJBA/) | 272 | 118 | 118 |
 | [TJCE](tribunais/TJCE/) | 96 | 17 | 17 |
 | [TJDF](tribunais/TJDF/) | 113 | 41 | 41 |
@@ -1476,3 +1477,18 @@ Os nºs 1 a 4 estão riscados na fonte. O risco foi mantido sem lhes atribuir ca
 A Orientação PFDC nº 01 foi incorporada integralmente quanto ao texto jurídico das duas páginas do PDF, com nove considerandos, cinco incisos e o fecho. As duas capturas têm 115280 bytes e SHA-256 `f6bae0e03fbd77a3c95a89357e3d3c979a3c7c5f0ed35a0a19c32c79183157d1`. A camada textual foi conferida visualmente nas duas imagens, sem OCR. O título data 12/06/2026 e a coluna de validação informa assinatura em 13/06/2026 às 16:54; ambas foram mantidas separadas. O texto declara caráter exclusivamente orientativo. Brasão, cabeçalhos repetidos e coluna de validação não foram reproduzidos; nome e funções públicas permanecem. Chaves e endereços de validação não entraram no Markdown.
 
 Atas, portarias, processos, normas e outros atos apenas citados não geraram novos registros. As demais orientações e enunciados fora desta página continuam pendentes. O lote soma 23 registros e nenhum órgão. A main f6a6143c400966bb1f99114e97348b60fe90891c já inclui os 83 enunciados próprios da 4ª CCR e os 29 do MPT: 36.821 registros em 143 órgãos e 350 do MPF. Com este lote o acervo passa a 36.844 registros em 143 órgãos e o MPF a 373. A frase das nove lacunas foi delimitada ao catálogo inicial do BNP, sem tratar esse número como auditoria de todo texto histórico das fontes diretas. Capturas, PDF, imagens e scripts ficam privados; a cobertura nacional permanece parcial.
+
+
+## TJAM — catálogo próprio de IRDR
+
+A página oficial do NUGEPNAC, com a opção `showall=1` oferecida pela própria navegação, publica 32 fichas: temas 1 a 11 e 21 incidentes não admitidos sem número de tema. Duas capturas HTTP 200 em 29/10/2026 têm 297.270 bytes cada e hashes diferentes; as células textuais das 32 fichas coincidem integralmente. O calendário e a navegação não são fichas de incidente. Os textos de questão, tese, ementa ou excerto de decisão, situação, suspensão, relatoria, órgão julgador e datas foram acrescentados como fonte adicional, preservando os dados do BNP.
+
+Trinta fichas já estavam representadas em 33 registros legados: temas 1–11; cadastros 1061–1076; 110 e 210; e uma única ficha de promoção e data-base dos policiais civis, de processo impresso incompleto 4003997-95.2024, cujo conteúdo e paradigma aparecem no BNP sob 310, 410, 510 e 610. Os quatro identificadores foram mantidos e receberam a mesma fonte adicional, sem afirmar quatro incidentes distintos ou criar um quinto registro. A correspondência dos temas usa a numeração e a matéria; nos não numerados, foram comparados questão e processo/paradigma quando disponíveis. A ficha de processo mascarado foi associada a 1073 pela questão idêntica, sem reconstruir o número do incidente a partir do paradigma. O número do incidente e o da causa paradigma não foram confundidos.
+
+Duas fichas ainda não representadas entraram por número de processo, com Tema “-” mantido: 4002041-78.2023.8.04.0000, sobre auxílio-fardamento dos militares estaduais, e 0001772-54.2016.8.04.0000, sobre conflitos negativos de competência de varas cíveis e de família. Os identificadores `tjam-irdr-proc-40020417820238040000` e `tjam-irdr-proc-00017725420168040000` não inventam número oficial de tema. A primeira ficha transcreve excerto de não admissão; a segunda, excerto de extinção por perda do interesse processual, sob a situação “Não Admitido” do próprio catálogo. O ano 2016 do segundo processo, a distribuição em 2024 e a inadmissibilidade em 2025 foram preservados sem conciliação conjectural.
+
+O Tema 7 mantém o campo com cinco teses e a nota de que os embargos nº 0005763-83.2025.8.04.9001 excluíram a tese nº 4. A redação anterior e a nota posterior permanecem atribuídas à página. O Tema 8 mantém a nota de substituição da causa piloto e os andamentos dos recursos; o Tema 2, a redação final após embargos, inclusive “Edital nº 01/201” e “CF/8”. Foram mantidos os erros impressos das ementas, entre eles “NÃO CORRÊNCIA”, “fi xação”, “Tribuna Pleni decidium”, “presionar”, “espontâneso”, “Extraórdinário” e as divergências entre datas e referências de diários. A lista de presentes e ausentes da ficha 0010701-66.2022.8.04.0000 não foi harmonizada. Espaços, quebras, ênfases e disposição das células foram normalizados; campos vazios e hífens continuam identificados.
+
+Não houve leitura dos PDFs, acórdãos, diários, autos e atos apenas citados ou vinculados, nem OCR. Os vínculos de consulta que incorporam captcha e sessão não foram reproduzidos. A máscara de processo da fonte não foi removida. O texto incorporado não contém CPF, RG, matrícula ou código pessoal. Situação e suspensão são declarações do catálogo, sem confirmação autônoma dos atos. As oito lacunas do BNP do TJAM e a do TJRJ continuam pendentes; não se associou o paradigma 00017771720198043801 aos casos reais do catálogo por analogia. A captura não comprova inexistência de outros incidentes.
+
+Sobre a main `4e14a5bc241b98956649465af03c0db0919c472f`, com 36.844 registros em 143 órgãos, o lote acrescenta dois registros e nenhum órgão: 36.846 registros em 143 órgãos. O TJAM passa de 72 para 74, com 43 IRDR, três OJs e 28 súmulas; BNP coletado e inventário permanecem em 72. Originais, capturas e scripts ficam privados. A cobertura nacional continua parcial.
