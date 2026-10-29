@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.792 registros únicos de 142 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.821 registros únicos de 143 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPT — Enunciados da CCR](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) | 29 | 29 | 0 |
 | [CNMP — Enunciados e súmulas da CALJ](https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-acompanhamento-legislativo-e-jurisprudencia/jurisprudenciacalj/enunciados-e-sumulas) | 32 | 32 | 0 |
 | [MPF — Enunciados do Conselho Institucional](https://www.mpf.mp.br/o-mpf/orgaos-superiores/conselho-institucional/documentos-e-publicacoes-old/enunciados) | 20 | 20 | 0 |
 | [MPF — Enunciados da 1ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr1/enunciados) | 34 | 34 | 0 |
@@ -910,6 +911,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPT](tribunais/MPT/) | 29 | MPT — Enunciados da CCR, HTML oficial |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
 | [MPF](tribunais/MPF/) | 350 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
@@ -1430,6 +1432,17 @@ O enunciado nº 1 está no arquivo Enunciado-0011.pdf. O número é o da página
 A súmula nº 2 tem data de Brasília em 5 de março de 2018 e publicação da ficha em 14/03/2018. O PDF escreve “direito”; o resumo do catálogo escreve “direto”. Nas súmulas nº 1 e nº 5, o “os” de “nºs” está elevado. A nº 1 imprime o processo 2009-11 com hífen na quebra de linha. A nº 5 imprime “0.00.000.000.001213/2012-09”. A nº 3 imprime “autos de nos” na linha de base. As nº 7, 8 e 9 omitem “nos” antes de “autos”. A nº 10 conserva “0.00.000.0001041/2011-41” e “0.00.000197/2009-23”.
 
 Resoluções, leis, o regimento, súmulas de outros órgãos e processos apenas citados não geraram identificadores. Não há CPF, RG, matrícula nem código pessoal no texto incorporado. As nove lacunas textuais do TJAM e do TJRJ permanecem. O lote acrescenta 32 registros e um órgão sobre a main 900ca5e8a9f53beaaa782644686d4372426ddb81, que já reúne 36.562 registros em 141 órgãos, inclusive os 152 enunciados do MPF e os 272 registros do TJBA. Com este lote o acervo passa a 36.594 registros em 142 órgãos. A série não esgota portarias, resoluções e recomendações do CNMP. A cobertura nacional de precedentes continua parcial.
+
+
+## MPT — enunciados da Câmara de Coordenação e Revisão
+
+A página oficial `https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt` publica 29 enunciados: 3, 4, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22 e 24 a 36. Entraram na série própria `mpt-en-ccr-*`, como Ministério Público do Trabalho, distinto do MPF e do CNMP. Duas capturas HTTP 200 de 29/10/2026 têm os mesmos 39.097 bytes e SHA-256 `063231f10e29a42db07296f8d5b407b88ec9b0e3868160df88023110d321c007`.
+
+Foram incorporados cabeçalho, título, corpo e nota de sessão e de publicação de cada bloco. As notas incluem a 336ª sessão de 24/02/2026, a 337ª de 23/03/2026 e, no nº 35, a 340ª de 30/06/2026 com publicação em 08/07/2026. Essas são as datas atribuídas pela página, sem conclusão independente sobre vigência. As notas NOVA REDAÇÃO permanecem nos cabeçalhos; a redação anterior não foi reconstruída. O nº 36 repete o rótulo do enunciado no título temático, e essa repetição foi mantida dentro de um só registro. A grafia “socais” no nº 21, “trabalhadore(a)s” no nº 26 e a aspa final de `CLT".` no nº 27 foram preservadas. Espaços, quebras de linha e negrito/itálico foram normalizados.
+
+Os nºs 1, 2, 5, 9, 10, 18 e 23 não estão no corpo da página capturada e permanecem sem texto recuperado neste lote. Isso não foi tratado como cancelamento nem inexistência. As redações anteriores e os diários, resoluções, normas, orientações e julgados apenas citados continuam pendentes. Nenhum deles gerou novo identificador. Não houve leitura de PDF nem OCR. HTML e recibos ficam privados; o diff público contém só Markdown. Não há CPF, RG, matrícula ou código pessoal no texto incorporado.
+
+Sobre a main `f5f0f749a4620755c41a7f03bc4a00ebeab4a4c7`, com 36.792 registros em 142 órgãos, este lote acrescenta 29 registros e um órgão: 36.821 registros em 143 órgãos. Os registros já publicados não foram alterados. Permanecem as nove lacunas textuais do catálogo inicial do BNP: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. A cobertura nacional continua parcial.
 
 ## MPF — enunciados próprios da 4ª CCR
 
