@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.737 registros únicos de 158 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.747 registros únicos de 158 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -13,6 +13,7 @@ A série de súmulas do MPPI inclui mais uma lacuna textual, independente das no
 | [MPMS — Enunciados do Conselho Superior](https://www.mpms.mp.br/atos-e-normas?sitcod=4&atotipcod=12) | 26 | 26 | 0 |
 | [MPAC — Enunciados do CSMP, documentos 1 a 6](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 6 | 6 | 0 |
 | [MPAC — Decisão da Resolução n. 3.762/2026](https://www.mpac.mp.br/administracao-superior/conselho-superior/resolucoes-normativas/) | 1 | 1 | 0 |
+| [MPAC — Enunciados do CSMP, documentos 7 a 16](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 10 | 10 | 0 |
 | [MPRS — Encontro Estadual da Infância e Juventude de 2005, Anexo Único da Resolução 05/2007](https://www.mprs.mp.br/legislacao/resolucoes/3670/) | 62 | 62 | 0 |
 | [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
 | [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
@@ -949,7 +950,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
-| [MPAC](tribunais/MPAC/) | 7 | MPAC — 6 enunciados e uma decisão colegiada do CSMP |
+| [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
 | [MPMA](tribunais/MPMA/) | 48 | MPMA — Enunciados do Conselho Superior: revisão de 2022, nº 24/23 e numeração histórica do catálogo |
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
@@ -1860,7 +1861,7 @@ Sobre a main `19227519c80141faa1b1e185091c34de0f7f9606` (37.600 registros em 153
 
 As duas capturas HTML dos catálogos, datadas de 29/10/2026, listam 12 súmulas e quatro enunciados de 2019. Os 16 registros têm identificadores únicos e links para os catálogos nas fichas. A Súmula 01 está identificada como suspensa por decisão da 1272ª sessão ordinária, mas o HTML não publica seu texto; ela permanece como registro sem corpo. Essa lacuna é própria da série MPPI e distinta das nove lacunas textuais do catálogo inicial do BNP.
 
-O texto publicado das súmulas 02–12 e dos enunciados 01–04 foi conferido com os nós de texto dos dois HTMLs. A Súmula 08 termina em “2.000 UFR” na página; não houve complementação. Nos enunciados 01–03, justificativas e trechos de voto aparecem concatenados após o verbete no HTML e permanecem pendentes; apenas o texto do enunciado foi incorporado. Os 11 documentos vinculados (PDF/ODT) não foram lidos nem transcritos. O Regimento Interno de 2025, atas, atos de aprovação e demais documentos citados ficam pendentes. Não se inferiu vigência atual nem efeito vinculante.
+O texto publicado das súmulas 02–12 e dos enunciados 01–04 foi conferido com os nós de texto dos dois HTMLs. A Súmula 08 termina em “2.000 UFR” na página; não houve complementação. Nos enunciados 01–03, justificativas e trechos de voto aparecem concatenados após o verbete no HTML. Esses complementos foram incorporados em seção própria em 29/10/2026, sem alterar o texto dos enunciados nem afirmar reprodução integral da ata. Os 11 documentos vinculados (PDF/ODT) não foram lidos nem transcritos. O Regimento Interno de 2025, atas, atos de aprovação e demais documentos citados ficam pendentes. Não se inferiu vigência atual nem efeito vinculante.
 
 Sobre a main `369c7115bba9ddc5a349b7d5af5f6d85ad119b38`, com 37.687 registros em 155 órgãos, este lote soma 16 registros e um órgão: 37.703 registros em 156 órgãos; MPPI 16 e MPSP 80. MPAC 7, MPRS 206 e os demais acervos da base permanecem. Apenas Markdown público; capturas, PDFs e scripts privados. A cobertura nacional continua parcial.
 
@@ -1872,7 +1873,20 @@ O MPMS entra como órgão próprio, distinto do TJMS, do TCEMS e dos outros MPs.
 
 As divergências permanecem atribuídas: nº 1 com título de 16/06/2012 e fecho de 18/06/2012; nºs 13 e 14 com título de 14/09/2017 e fecho de 15/09/2017; nº 16 com número 0016/2017, título da ficha 16/2016 e documento de 2017. Datas não foram unificadas nem usadas para inferir vigência ou efeito vinculante. Carimbo manuscrito e assinatura gráfica do nº 25 não foram reproduzidos. Normas, processos e precedentes apenas citados não receberam novos IDs.
 
-Sobre a main `224d898d3d09dcca94b29e3562018b420f11cab8` (37.711 registros em 157 órgãos), o lote soma 26 registros e um órgão: 37.737 registros em 158 órgãos. MPPI permanece em 16, com a Súmula 01 identificada sem texto, separada das nove lacunas originais do BNP. As justificativas e os votos dos Enunciados 01–03 do MPPI continuam pendentes. Outras séries e históricos do MPMS, a coletânea de 2018 apenas mencionada em notícia, atas, diários e documentos apenas citados não foram incorporados. A consulta filtrada não esgota a cobertura nacional nem o MPMS. Capturas, documentos, imagens, recibos e scripts ficam privados; só Markdown é público.
+Sobre a main `4101b34150eb1008c664eb0fa9676b5e0b285822` (37.721 registros em 157 órgãos), o lote soma 26 registros e um órgão: 37.747 registros em 158 órgãos. MPPI permanece em 16, com a Súmula 01 identificada sem texto, separada das nove lacunas originais do BNP; os complementos às justificativas e votos dos Enunciados 01–03 foram incorporados à main pelo PR #82. Os 17 registros do MPAC (incluídos pelo PR #80) e os oito do MPPE (PR #79) já integram essa base. Outras séries e históricos do MPMS, a coletânea de 2018 apenas mencionada em notícia, atas, diários e documentos apenas citados não foram incorporados. A consulta filtrada não esgota a cobertura nacional nem o MPMS. Capturas, documentos, imagens, recibos e scripts ficam privados; só Markdown é público.
+
+## MPAC — enunciados 7 a 16 do CSMP
+
+O catálogo oficial lista os enunciados 7 a 16. Os dez PDFs foram capturados em par em 29/10/2026, com HTTP 200, bytes iguais e o mesmo SHA-256 em cada par. Todas as 98 páginas foram lidas na imagem e na camada de texto, sem OCR: 3, 12, 12, 3, 6, 14, 12, 8, 15 e 13 páginas. O nº 7 tem data de título 19/12/2023 e quadro “Publicado no DEMPAC 1.671, datado de 22/01/2024, pg.29”. Os nºs 8 a 13 têm data de título 23/09/2024. Os nºs 14 a 16 têm data de título 14/04/2025 e quadro “Publicada DEMPAC”, sem a preposição, no DEMPAC Ano 9 - nº 1967, de 14/04/2025. Os quadros de 2024 conservam “flS”; os de 2025, “fls.”. O diário não foi lido.
+
+Permanecem as formas impressas, entre elas “de19”, “PRECENDENTES DO STF”, o parêntese não fechado da primeira citação do RE 563708, “XX de julho de 2024”, “instaurado no instaurado no”, “PERTECENTE”, “PREDECENTE”, “CONSELHELHO”, “No caso análise”, “SEPULVEDA PERTENCE”, “antigüidade”, “art. art. 61” e o sinal de grau em “2°”. Os nºs 14 a 16 não têm linha de local e data; o fecho é a assinatura. O preâmbulo do nº 9 imprime o PCA 09.2024.00000563-0 e o do nº 13 imprime o PCA 09.2024.00000567-4; o nome do arquivo não alterou esses números. A Resolução n. 3.022/2025 aparece duas vezes, com os SAJ 09.2024.00002117-4 e 09.2024.00002118-5. “09.2023.00001449-1na” fica como impresso.
+
+Brasão, logotipo, cabeçalho “CONSELHO SUPERIOR”, selo, rodapé de contato e número de página foram omitidos. Negrito, itálico e quebras de linha foram normalizados. As notas de rodapé dos nºs 10, 11 e 13 ficaram em seção própria, com o mesmo texto. Não há CPF, RG, matrícula pessoal nem chave de acesso. Nomes e funções públicas foram mantidos. Citações, informativos, normas e processos não geraram identificadores. Não se inferiu vigência atual nem efeito vinculante. O MPAC permanece órgão próprio, distinto do TJAC, do TCEAC e do MPF.
+
+Na base então consultada, `224d898d3d09dcca94b29e3562018b420f11cab8` (37.711 registros em 157 órgãos, MPAC 7), este lote soma dez registros e nenhum órgão: 37.721 registros em 157 órgãos, MPAC 17. O PR #79, com oito registros do MPPE, já estava integrado; o PR #81 do MPMS ainda não estava contado nessa fotografia e acrescenta 26 registros e um órgão na base atual. Os enunciados 1 a 6 e a decisão da Resolução n. 3.762/2026 já estavam na main. As nove lacunas iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Outras séries, atos posteriores e os diários citados continuam pendentes. Apenas Markdown público; PDF, imagens, capturas e scripts privados. A cobertura nacional continua parcial.
+
+
+
 
 ## MPPE — enunciados e súmula do Conselho Superior
 
@@ -1883,3 +1897,10 @@ O portal de Atos Normativos consultado lista sete enunciados e uma súmula do CS
 As capturas pareadas do catálogo e das fichas foram comparadas apenas pelas entradas e blocos visíveis. Diferenças entre tokens de controle não foram consideradas conteúdo nem publicadas. Capturas, DOCs, PDFs, imagens e conversões permanecem privados; os arquivos públicos deste lote são Markdown.
 
 O Diário Oficial de 07/05/2026, p. 19, traz no art. 60 da Instrução Normativa do Regimento Interno a regra de que súmulas e enunciados anteriores serão renumerados nos termos do art. 24; os arts. 52 e 53 separam enunciados finalísticos e administrativos. O catálogo consultado para este lote ainda apresenta os identificadores usados acima, mas não foi localizada evidência de execução da renumeração nem dos números novos. Fica pendente a conciliação com catálogo ou ato posterior; não foram criados registros nem alterados títulos ou IDs. Isso não afirma vigência, revogação ou cobertura exaurida em 2026. [Fonte oficial: Diário Oficial Eletrônico do MPPE, 07/05/2026, p. 19](https://portal.mppe.mp.br/documents/d/guest/ata-da-8-sessao-ordinaria-do-csmp-doe-07-05-2026-edicao-1923?download=true).
+
+
+## MPPI — complementos HTML dos enunciados 01–03/2019
+
+As justificativas e os trechos de voto concatenados após os três verbetes foram incorporados em seções próprias dos registros existentes. Os blocos jurídicos das duas capturas oficiais de 29/10/2026 têm o mesmo texto, com normalização apenas de espaços e quebras. O corpo dos três enunciados ficou intacto, assim como o nº 04/2019. Os complementos não foram atribuídos ao texto aprovado do enunciado nem apresentados como votos ou justificativas integrais da ata. Nomes e funções profissionais, referências normativas e grafias da página permanecem; citações não geraram IDs. Não há CPF, RG, matrícula pessoal ou autenticação nos três complementos.
+
+Delta zero sobre a main `224d898d3d09dcca94b29e3562018b420f11cab8`: 37.711 registros em 157 órgãos, MPPI 16 e MPPE 8. Permanecem a Súmula 01 do MPPI sem verbete e as nove lacunas originais do BNP. A Súmula 08 continua como o HTML publica, terminando em “2.000 UFR”; não foi completada por citação. Os PDFs/ODT vinculados, o texto histórico da Súmula 01, atos de aprovação e outros documentos continuam pendentes de incorporação documental. A preparação privada de dois PDFs para conferência não é declarada como leitura ou publicação. Só Markdown público, evidências privadas e cobertura parcial. Não houve OCR nem uso de texto PDF neste complemento HTML.
