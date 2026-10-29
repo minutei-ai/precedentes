@@ -16,10 +16,10 @@ O cabeçalho do caderno diz que os enunciados foram renumerados conforme decisã
 
 ## Texto disponibilizado pela fonte
 
-Enunciado nº 29 - Em ação de cobrança de taxa condominial, existindo, na convenção de condomínio, disposição que  estabeleça a responsabilidade do devedor pelo pagamento de honorários do advogado contratado, devem eles, dada a sua natureza convencional, integrar o valor da condenação, a fim de recompor integralmente o patrimônio do credor, em favor do qual deverão ser revertidos, sem prejuízo do quanto disposto no art. 55 da Lei n° 9.009/95 (I JORNADA DOS JUÍZES DO SISTEMA DOS JUIZADOS ESPECIAIS – 18 de setembro de 2015 – segundo encontro).
+Enunciado nº 29 - Em ação de cobrança de taxa condominial, existindo, na convenção de condomínio, disposição que estabeleça a responsabilidade do devedor pelo pagamento de honorários do advogado contratado, devem eles, dada a sua natureza convencional, integrar o valor da condenação, a fim de recompor integralmente o patrimônio do credor, em favor do qual deverão ser revertidos, sem prejuízo do quanto disposto no art. 55 da Lei n° 9.009/95 (I JORNADA DOS JUÍZES DO SISTEMA DOS JUIZADOS ESPECIAIS – 18 de setembro de 2015 – segundo encontro).
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
 
 ## Conferência e limites
 
-A compilação não traz campo próprio de vigência. A ausência de nota de cancelamento ou revogação deste enunciado não confirma vigência atual. Citações a leis, enunciados de outros órgãos, diários, expedientes e processos permanecem no texto e não geraram identificador. A ata ou a decisão de renumeração e os diários citados não foram incorporados. A página imprime “Lei n° 9.009/95”, com o sinal de grau depois do n e com 9.009. Entre “que” e “estabeleça” há dois espaços; eles foram gravados como espaços sem quebra para a renderização não os reduzir a um.
+A compilação não traz campo próprio de vigência. A ausência de nota de cancelamento ou revogação deste enunciado não confirma vigência atual. Citações a leis, enunciados de outros órgãos, diários, expedientes e processos permanecem no texto e não geraram identificador. A ata ou a decisão de renumeração e os diários citados não foram incorporados. A página imprime “Lei n° 9.009/95”, com o sinal de grau depois do n e com 9.009. A extração com pdftotext -layout traz um espaço entre “que” e “estabeleça”; esse espaço único foi mantido.
