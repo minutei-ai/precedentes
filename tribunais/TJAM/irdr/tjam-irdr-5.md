@@ -21,3 +21,48 @@ As questões jurídicas a serem apreciadas são as seguintes: 1) Se o contrato d
 - [06332964620188040001](https://consultasaj.tjam.jus.br/cpopg/show.do?processo.codigo=01002HGE10000&processo.foro=1&processo.numero=0633296-46.2018.8.04.0001)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Catálogo próprio do TJAM — conferência de 29/10/2026
+
+Fonte adicional: [IRDR — NUGEPNAC/TJAM](https://www.tjam.jus.br/index.php/consultas-nugep/irdr-nugep?showall=1). Os campos abaixo são atribuídos ao catálogo próprio e não substituem o texto, a situação ou os paradigmas do BNP.
+
+- **Tema na fonte:** 5
+- **Processo na fonte:** 0005217-75.2019.8.04.0000
+
+- **Relator:** Desembargador José Hamilton Saraiva dos Santos
+
+- **Órgão Julgador:** Tribunal Pleno
+
+- **Distribuição:** 31/07/2019
+
+- **Admissibilidade:** 19/11/2019
+
+- **Publicação:** 28/11/2019 (DJe n.º 2744, de 27/11/2019)
+
+- **Julgamento do Mérito \*:** 01/02/2022
+
+- **Publicação:** 09/02/2022 (DJe n.º 3259, de 08/02/2022)
+
+- **Trânsito em Julgado:** 17/10/2022
+
+- **Baixa definitiva:** 29/11/2022
+
+### Questão(ões) submetida(s) a julgamento
+
+As questões jurídicas a serem apreciadas são as seguintes: 1) Se o contrato de empréstimo consignado, cumulado com aquisição de cartão de crédito, destacar o mútuo, como a modalidade principal, e o cartão de crédito, como modalidade secundária, há suposta violação ao direito de informação?; 2) Se o contrato de cartão de crédito consignado apresentar-se como modalidade única e estabelecer todas as condições de contratação, ainda assim haveria violação à boa-fé o depósito em conta do montante contratado sem a utilização do cartão de crédito? Prosseguindo, acaso declarada a ilegalidade de tais contratos, que se trate, ainda, sobre: I) Danos morais pelos descontos em folha; II) Repetição do indébito em dobro dos valores contados; III) Validade das compras realizadas por meio de cartão de crédito adquirido; IV) Possibilidade de revisão das cláusulas de tais contratos.
+
+### Tese(s) firmada(s)
+
+1. Se o mútuo é destacado ao consumidor, como modalidade principal, e o cartão de crédito, como modalidade secundária, há, sim, violação ao direito à informação, tendo em vista que o contrato de cartão de crédito consignado é um contrato autônomo, que não se confunde com o contrato de mútuo, não existindo contrato de mútuo com contrato de cartão de crédito, sendo, uma, a modalidade principal e, outra, a modalidade secundária. 2. Restando claro que o cliente tenha buscado adquirir um cartão de crédito consignado, mesmo que tenha sido devidamente esclarecido das implicações práticas de tal operação, não há que se falar em violação à boa-fé, independentemente da utilização do cartão de crédito, que é facultativa. As informações somente serão consideradas claras e, por consequência, o contrato válido, quando as instituições financeiras demonstrarem que o consumidor foi, indubitavelmente, informado acerca dos termos da contratação, fazendo constar do instrumento contratual, de forma clara, objetiva e em linguagem fácil, todos os pontos a seguir descritos: (a) os meios de quitação da dívida, (b) como obter acesso às faturas, (c) informações no sentido de que o valor do saque será integralmente cobrado no mês subsequente, (d) informações no sentido de que apenas o valor mínimo da fatura será debitado, diretamente, dos proventos do consumidor, (e) bem, como, informações claras de que a ausência de pagamento da integralidade do valor dessas faturas acarretará a incidência de encargos rotativos sobre o saldo devedor. Além destes requisitos, os bancos deverão, outrossim, provar que disponibilizaram cópia dos contratos aos consumidores, bem, como, a inequívoca e integral ciência dos seus termos, como, por exemplo, por meio da assinatura de todas as páginas da avença. 3. A contratação do cartão de crédito consignado, sem a inequívoca ciência dos verdadeiros termos contratuais, seja por dolo da instituição financeira ou por erro de interpretação do consumidor, causado pela fragilidade das informações constantes da avença, evidencia a existência de dano moral sofrido pelos consumidores, que deverá ser suportado pelas instituições financeiras, sendo prescindível a apuração da culpa. 4. Nos casos de invalidade do contrato de cartão de crédito consignado, tendo em vista a não observância do dever de informação, para a restituição em dobro do indébito não se exige a demonstração de má-fé, sendo cabível quando o fornecedor tenha agido de forma contrária à boa-fé objetiva. 5. Em razão da utilização do cartão de crédito pelo consumidor, na sua modalidade convencional, inclusive, nos casos de invalidade da avença do cartão de crédito consignado, em virtude da não observância do dever de informação, são válidas as compras realizadas pelo consumidor, sob pena de enriquecimento ilícito, à luz do art. 884 do Código Civil. 6. Considerando que a contratação do cartão de crédito consignado, sem a ciência acerca dos detalhes do contrato, implica invalidade da avença, por vício de vontade, não há que se falar em revisão de cláusulas, devendo o negócio ser convertido em empréstimo consignado, nos termos do art. 170 do Código Civil, em consonância com as expectativas legítimas do consumidor, quando da contratação. * Redação final dada à tese jurídica n.º 2, em virtude do julgamento dos Embargos de Declaração n.º 0001074-38.2022.8.04.0000, n.º 0001063-09.2022.8.04.0000 e n.º 0001064-91.2022.8.04.0000 (DJe n.º 3393, de 30/08/2022). (Acesse a decisão aqui).
+
+- **Suspensão Estadual:** Não
+
+- **Suspensão Nacional:** Não
+
+### Situação do Tema
+
+Transitado em Julgado
+
+### Conferência e limites desta fonte adicional
+
+Os 32 quadros de incidentes repetem o mesmo texto nas duas leituras do HTML oficial em 29/10/2026. Os arquivos completos têm 297.270 bytes cada, com hashes distintos; não foram declarados idênticos em bytes. A comparação aqui se refere às células textuais dos quadros, excluindo navegação, calendário e marcação técnica. Espaços, quebras, negrito/itálico e disposição das células foram normalizados; grafias, datas, campos vazios e hífens foram preservados. Acórdãos, decisões, diários, recursos e normas apenas vinculados ou citados não tiveram inteiro teor lido neste lote nem geraram identificadores. Não houve leitura de PDF ou OCR. Vínculos de consulta com parâmetros de captcha e sessão não foram reproduzidos. A indicação de suspensão e a situação são dados da fonte, sem confirmação autônoma dos atos correspondentes.
