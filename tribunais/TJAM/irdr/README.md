@@ -1,6 +1,6 @@
 # TJAM · Incidente de Resolução de Demandas Repetitivas
 
-**41 registros.** [Voltar ao tribunal](../)
+**43 registros.** [Voltar ao tribunal](../)
 
 - [IRDR 1](tjam-irdr-1.md) — Transitado em julgado
 - [IRDR 2](tjam-irdr-2.md) — Transitado em julgado
@@ -43,3 +43,10 @@
 - [IRDR 6510](tjam-irdr-6510.md) — Não admitido
 - [IRDR 6610](tjam-irdr-6610.md) — Não admitido
 - [IRDR 7010](tjam-irdr-7010.md) — Não admitido
+
+## Incidentes sem número de tema no catálogo próprio
+
+- [Processo 4002041-78.2023.8.04.0000](tjam-irdr-proc-40020417820238040000.md) — Não Admitido, conforme o catálogo próprio
+- [Processo 0001772-54.2016.8.04.0000](tjam-irdr-proc-00017725420168040000.md) — Não Admitido, conforme o catálogo próprio
+
+O catálogo próprio publica 32 fichas, conciliadas em 35 registros do acervo: 33 legados do BNP e dois identificados por processo. Uma ficha corresponde ao conteúdo repetido nos quatro cadastros BNP 310, 410, 510 e 610, mantidos sem fusão. As oito lacunas cadastrais 6010 a 6610 e 7010 não foram resolvidas por essa conciliação.
