@@ -1,9 +1,10 @@
 # MPF
 
-Ministério Público Federal. **132 registros.**
+Ministério Público Federal. **152 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
+| [Enunciados do Conselho Institucional, nºs 1 a 20](en-cimpf/) | 20 |
 | [Enunciados da 1ª Câmara — Direitos Sociais e Fiscalização de Atos Administrativos](en-ccr1/) | 34 |
 | [Enunciados da 3ª Câmara — Consumidor e Ordem Econômica](en-ccr3/) | 34 |
 | [Enunciados da 7ª Câmara — Controle Externo da Atividade Policial e Sistema Prisional](en-ccr7/) | 11 |
