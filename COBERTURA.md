@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.489 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.542 registros únicos de 141 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -11,6 +11,7 @@
 | [MPF — Enunciados da 1ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr1/enunciados) | 34 | 34 | 0 |
 | [MPF — Enunciados da 7ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr7/enunciados) | 11 | 11 | 0 |
 | [MPF — Enunciados da 3ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr3/enunciados) | 34 | 34 | 0 |
+| [MPF — Enunciados próprios, conjuntos e do GTSI publicados pela 6ª CCR](https://www.mpf.mp.br/atuacao/ccr6/enunciados) | 53 | 53 | 0 |
 | [ANTT — Súmulas no ANTTlegis](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=429&cod_menu=7216) | 14 | 14 | 0 |
 | [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
@@ -905,7 +906,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [MPF](tribunais/MPF/) | 79 | MPF — Enunciados das 1ª, 3ª e 7ª CCRs, HTML oficial com histórico |
+| [MPF](tribunais/MPF/) | 132 | MPF — Enunciados das 1ª, 3ª, 6ª e 7ª CCRs, GTSI e conjuntos, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
@@ -1377,4 +1378,14 @@ Também entraram os nºs 1 a 34 da 1ª Câmara, em `en-ccr1`, e os nºs 1 a 11 d
 
 Na 1ª CCR permanecem os riscos das nºs 1, 7, 8, 9, 10, 12, 14, 16, 17, 21, 23, 27 e 28, e as notas de revogação ou cancelamento. Alterações expressas nas nºs 2, 3, 6, 11, 18, 19, 22, 25 e 26 não tiveram redação anterior reconstruída. A nº 1 conserva a referência à sessão em 09.10.2012 e publicação em 17.10.2002, sem conciliação das datas. Na 7ª CCR, as redações antigas das nºs 3 e 4 e suas referências ficam no mesmo registro. Processos repetidos nas referências foram mantidos. O nº 11 traz deliberação em 09/10/2025.
 
-Estas séries não se confundem entre si nem com o CNMP ou com outras Câmaras. Atas, deliberações, diários, processos, ofícios e normas citados não tiveram inteiro teor incorporado e não criaram IDs. A ausência de nota não comprova vigência atual nem efeito vinculante. As 2ª, 4ª, 5ª e 6ª CCRs, orientações e outras séries do MPF permanecem pendentes.
+Estas séries não se confundem entre si nem com o CNMP ou com outras Câmaras. Atas, deliberações, diários, processos, ofícios e normas citados não tiveram inteiro teor incorporado e não criaram IDs. A ausência de nota não comprova vigência atual nem efeito vinculante. A 2ª CCR, as séries próprias das 4ª e 5ª CCRs, orientações e outras séries do MPF permanecem pendentes.
+
+## MPF — enunciados publicados pela 6ª CCR
+
+Duas capturas HTTP 200 em 29/10/2026 da página oficial da 6ª Câmara de Coordenação e Revisão contêm os mesmos bytes. Os 58 blocos da página representam 53 identidades: 42 enunciados próprios nºs 11 a 52, oito enunciados do GTSI nºs 1 a 8, dois conjuntos das 5ª e 6ª CCRs nºs 9 e 10, e o conjunto das 4ª e 6ª CCRs e PFDC nº 1/2026. Os cinco blocos adicionais são versões anteriores dos nºs 44 da 6ª CCR, 9 conjunto e 6, 7 e 8 do GTSI; ficaram na identidade correspondente, com os rótulos de nova redação. Não foi criada uma série artificial única de 1 a 52. O rótulo GTSI permanece como na fonte, sem nome expandido.
+
+O corpo do conjunto nº 1/2026 coincide com o publicado na página da 4ª CCR, sem duplicação de ID. Nessa página o título é “ENUNCIADO CONJUNTO 4ª e 6ª CCRs e PFDC Nº 1/2026” e o bloco não repete as notas de aprovação. As aprovações de 28/04/2026 pela 4ª CCR e 13/04/2026 pela 6ª CCR permanecem atribuídas à página da 6ª CCR. A revogação expressa da nº 27, na 501ª reunião, e o cancelamento dos GTSI nºs 1, 3, 4 e 5 permanecem. As redações anteriores e novas estão completas como publicadas no HTML, sem reconstrução de atos não lidos.
+
+Os riscos foram mantidos em Markdown; espaços, quebras de linha e negrito/itálico foram normalizados. Permanecem grafias como “pleno entendimento”, “pleno atendimento”, “conforme a peculiaridades”, “antropólogo.2.” e “índia.3.”. O nº 51 informa a 506ª RO sem data, que não foi completada. A fundamentação da nº 50, a pauta ODT da 428ª RO e os PDFs vinculados não foram lidos neste lote. Atos, decisões, ofícios, notas técnicas e normas apenas citados não criaram IDs. Datas e ausência de nota não comprovam vigência atual nem efeito vinculante. Não houve PDF/OCR.
+
+Sobre a main eb83d36c32ef3dea923d94f2eca9c6f12b77958d, com 36.489 registros em 141 órgãos e 79 enunciados do MPF, este lote acrescenta 53 registros e nenhum órgão: 36.542 registros em 141 órgãos, e o MPF passa a 132. As nove lacunas textuais originais do TJAM e do TJRJ permanecem. A 2ª CCR, as séries próprias das 4ª e 5ª CCRs, orientações, PDFs, a fundamentação da nº 50 e a pauta ODT continuam pendentes. A cobertura nacional permanece parcial. Capturas e scripts ficam privados.
