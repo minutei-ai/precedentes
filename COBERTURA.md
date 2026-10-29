@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.909 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.941 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — VIII Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 32 | 32 | 0 |
 | [CJF — VI Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 46 | 46 | 0 |
 | [CJF — V Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 133 | 133 | 0 |
 | [CJF — III Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 134 | 134 | 0 |
@@ -995,7 +996,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 1.431 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/V/VI Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 1.463 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/V/VI/VIII Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2224,3 +2225,13 @@ As referências históricas ao direito ao esquecimento, aos tratamentos de saúd
 Sem inferência de vigência, efeito vinculante, exaustividade ou titularidade atual de cargos. Atos, julgados e obras citados não receberam IDs. Sem PDF/OCR neste lote; outras publicações continuam pendentes. Somente Markdown público, com evidências privadas.
 
 Delta sobre `5839082a`: 46 registros, nenhum órgão; total esperado de 39.822 registros em 164 órgãos e CJF 1.344. A IV Jornada Civil e a I Jornada Extrajudicial seguem em PRs separados, fora desta conta. FONAJE 328, as 80 transcrições históricas MPAL sem IDs novos e as nove lacunas originais do BNP permanecem.
+
+## CJF — VIII Jornada de Direito Civil
+
+32 enunciados, números 613–644, da [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), filtro `jornada.id=141`. As 64 capturas de fichas retornaram HTTP 200; bytes e SHA-256 foram recalculados. Campos pareados e corpos das duas pesquisas coincidem com os Markdown. Foram lidos corpos, metadados e as 11 justificativas publicadas nas nºs 621–631. As outras 21 fichas não publicam justificativa; Notas e redação anterior vazias.
+
+Mantidos “decorretnes” no corpo 631, “ART: único PAR:único;” nos metadados 622 e 623 e o campo “a definir” em duas coordenações. A referência legislativa da nº 644 indica art. 2033 enquanto o corpo menciona os arts. 2.003 e 2.004; não foram harmonizados. Campos bibliográficos, aspas, referências e palavras-chave permanecem como publicados. Matrícula na nº 624 refere-se ao imóvel.
+
+Sem inferência de vigência, vinculação, exaustividade ou titularidade atual de cargos. Normas e julgados citados não receberam IDs. Sem PDF/OCR neste lote; outras publicações continuam pendentes. Somente Markdown público, com capturas e recibos privados.
+
+Delta sobre `3d34c9b5`: 32 registros e nenhum órgão, projeção de 39.941 registros em 164 órgãos e CJF 1.463. IV Civil e VII Civil seguem em PRs separados, fora desta conta. FONAJE 328, as 80 transcrições históricas MPAL sem IDs novos e as nove lacunas originais do BNP permanecem.
