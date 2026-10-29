@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.291 registros únicos de 138 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.309 registros únicos de 139 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
 | [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
 | [CMRI — Súmulas dos catálogos de vigentes e revogados](https://www.gov.br/casacivil/pt-br/assuntos/colegiados/comissao-mista-de-reavaliacao-de-informacoes-cmri/normativos-vigentes) | 8 | 8 | 0 |
@@ -897,6 +898,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
 | [ANAC](tribunais/ANAC/) | 3 | ANAC — Súmulas administrativas, fichas e atos de aprovação |
 | [CMRI](tribunais/CMRI/) | 8 | CMRI — Nove PDFs oficiais, com histórico da nº 3 |
@@ -1305,3 +1307,15 @@ A busca do portal por “Súmula Administrativa”, em 29/10/2026, devolveu 55 i
 Os arts. 2º dizem que os atos entram em vigor na data da publicação. Essa frase não foi convertida em vigência atual nem em efeito vinculante. Não há nota de revogação nas três fichas. A ausência da nota não confirma vigência nem inexistência de ato posterior. Leis, resoluções, o decreto-lei e os processos apenas citados permanecem nos registros e não geraram identificadores. A decisão que aprova as nºs 001/2019 e 002/2019 foi transcrita nos dois registros; isso não criou um terceiro identificador.
 
 O lote acrescenta 3 registros e um órgão. A main 61e9e8bb já reúne as oito súmulas da CMRI, os 33 enunciados da CNIC, as seis súmulas históricas do CADE, as 25 da ARCE, as 17 da ANEEL e as nove lacunas textuais do TJAM e do TJRJ: 36.267 registros em 136 órgãos. Com este lote o acervo passa a 36.270 registros em 137 órgãos. As nove lacunas anteriores permanecem. A série não esgota o acervo da ANAC e a cobertura nacional continua parcial.
+
+## ANM — Súmulas da Diretoria Colegiada
+
+A Agência Nacional de Mineração entra como órgão próprio (ANM). É autarquia federal, com identidade administrativa própria, distinta dos tribunais deste acervo e da ANAC, da ANEEL e da ANS. O portal gov.br da ANM liga o ANMlegis na navegação: “Legislações da ANM” aponta para https://anmlegis.datalegis.net/ e “Legislação” aponta para a apresentação com cod_menu=8303. O menu do ANMlegis informa “Súmulas (18)”. O catálogo usado é [Súmulas](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351).
+
+Em 29/10/2026 as abas de ano visíveis são 2025 e 2026. A página de 2025 lista as súmulas 1 a 12. A de 2026 lista as 13 a 18. A consulta salva com cod_modulo=351 e ano=2024 devolve a seção de resenha vazia. Não ficou retida consulta de 2017 a 2023 nem de 2027, e esses anos não foram declarados vazios. A numeração de 1 a 18 não tem lacuna nas páginas salvas. A série publicada no catálogo termina na nº 18. A notícia de 09/04/2025, atualizada em 31/07/2025, reproduz apenas a nº 1. A página de legislação da CFEM sobre municípios afetados aponta as nº 15 e 17. Não há cabeçalho HTTP 302 dessas páginas gov.br na evidência retida. O texto usado é o HTML público do ANMlegis. Essas páginas não substituem o catálogo.
+
+Cada ato foi lido no HTML público UrlPublicasAction. As duas capturas de cada HTML, em 29/10/2026, coincidem em bytes e em SHA-256. A vista abrirTextoAto do ementário foi capturada duas vezes; os parágrafos do ato coincidem entre si. Entre o HTML público e o ementário, a única divergência é o ordinal da reunião: o HTML público traz a forma “72a.” e o ementário traz “72ª”. A transcrição segue o HTML público. O catálogo das nº 13 e 14 chama a reunião de Extraordinária. O corpo diz “82a. Reunião Ordinária” e “84a. Reunião Ordinária”. As duas redações foram preservadas.
+
+A nº 15 declara republicação por incorreção no DOU de 1º-6-2026, Seção 1, pág. 63, e imprime “D.O.U., 01/06/2026 - Seção 1” e “REP., 08/06/2026 - Seção 1”. A redação incorreta de 1º/6/2026 não foi localizada no ANMlegis. A página gov.br está apontada pela legislação da CFEM; não há cabeçalho HTTP 302 retido. Essa redação não foi reconstruída. A nº 16 afasta o indeferimento do art. 31, §4º, do Decreto nº 9.406/2018 diante de licença ambiental de instalação ou de operação válida, vigente e compatível com o Plano de Aproveitamento Econômico. O fecho da nº 16 traz o nome e não traz a linha “Diretor-Geral”. Na nº 7 e na nº 18 o processo do preâmbulo e o processo da tabela divergem; os dois números permanecem. Na nº 18 o enunciado cita o Decreto nº 1/1991 e a base legal encerra os itens com ponto e vírgula, inclusive “Decreto nº 01/1990;”. O título da nº 3 imprime “29 DEMAIO”. O preâmbulo da nº 6 omite o hífen antes da sigla. O preâmbulo da nº 17 fecha com ponto.
+
+A Instrução Normativa ANM nº 15, de 21 de novembro de 2023, é citada no preâmbulo como norma do procedimento. Não virou registro. Pareceres, notas, resoluções e leis apenas citados não tiveram inteiro teor incorporado. O HTML informa que o texto não substitui a publicação oficial. Não houve leitura de PDF do DOU. A ausência de nota de cancelamento não confirma vigência atual nem efeito vinculante. As nove lacunas textuais do TJAM e do TJRJ permanecem. O lote acrescenta 18 registros e um órgão sobre a main a40c08b763e9aa28ce95ee67eafe20316fbacd01, que já reúne 36.291 registros em 138 órgãos. Com este lote o acervo passa a 36.309 registros em 139 órgãos. A série não esgota resoluções, pareceres e notas da ANM. A cobertura nacional de precedentes continua parcial.
