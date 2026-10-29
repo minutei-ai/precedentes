@@ -11,7 +11,7 @@
 - **SHA-256 do PDF:** `689f92659b53e4299a6fd04633cb5143bb2358d46d13dfd354d02b99b49d0dab`.
 - **Páginas físicas conferidas deste registro:** 4, 5 de 9.
 
-Nota posterior de revogação: [aviso de 05/08/2025](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D827-28-aviso_csmp_05_08_2025.pdf). Conferência textual externa; captura local do PDF indisponível. [Limites](README.md#avisos-posteriores).
+Aviso posterior (leitura textual oficial): comunica revogação. [aviso de 05/08/2025](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D827-28-aviso_csmp_05_08_2025.pdf). Conferência textual externa; captura local do PDF indisponível. [Limites](README.md#avisos-posteriores).
 
 ## Texto documental
 

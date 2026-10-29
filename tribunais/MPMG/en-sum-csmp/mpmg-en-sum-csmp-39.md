@@ -15,7 +15,7 @@
 
 ### Página 4
 
-\*ENUNCIADO Nº 39: “A duplicidade de procedimentos acerca do mesmo tema não dá ensejo ao arquivamento de um deles. Se detectada tal circunstância na fase preparatória (PP ou IC), deverá o membro do Ministério Público promover o apensamento dos autos, objetivando viabilizar uma decisão uniforme. Na hipótese de haver sido ajuizada ação civil pública, por qualquer dos legitimados, a providência a ser adotada será a sua juntada ou apensamento ao feito principal .” Nota: (\*) Reformado na 22ª sessão Ordinária/ 2008, realizada em 10/11/2008 e publicada em 11/12/08. Publicação específica do texto com as respectivas alterações no Diário Oficial: 12/11/2008.
+\*ENUNCIADO Nº 39: “A duplicidade de procedimentos acerca do mesmo tema não dá ensejo ao arquivamento de um deles. Se detectada tal circunstância na fase preparatória (PP ou IC), deverá o membro do Ministério Público promover o apensamento dos autos, objetivando viabilizar uma decisão uniforme. Na hipótese de haver sido ajuizada ação civil pública, por qualquer dos legitimados, a providência a ser adotada será a sua juntada ou apensamento ao feito principal.” Nota: (\*) Reformado na 22ª sessão Ordinária/ 2008, realizada em 10/11/2008 e publicada em 11/12/08. Publicação específica do texto com as respectivas alterações no Diário Oficial: 12/11/2008.
 
 ## Conferência e limites
 
