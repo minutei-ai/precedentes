@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.276 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.282 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPRS — Infância e educação nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 6 | 6 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
@@ -928,7 +929,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | --- | ---: | --- |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
-| [MPRS](tribunais/MPRS/) | 21 | MPRS — Súmulas do Conselho Superior |
+| [MPRS](tribunais/MPRS/) | 27 | MPRS — 21 súmulas CSMP e 6 enunciados CONPPIJE/CONPPIJEFAM |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
 | [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -1686,3 +1687,13 @@ O aviso inicial reproduz a decisão de 05/02/2021 sobre a vigência em 08/02/202
 As unificações impressas nas nºs 61–65 não fundiram registros: 61 menciona 33 e 39; 62, 2 e 37; 63, “12/2007 e 21/2007”, embora o título do nº 21 seja 21/2008; 64, 5 e 11; 65, 52 e 53. A nº 20 conserva título 20/2008 e aprovação em 29/10/2009. A nº 55 mantém “Lei Federal nº 8.666/23”. A nº 59 traz alteração em 26/06/2025 e vigência em 27/06/2025, atribuídas ao caderno. A nº 67 tem aprovação em 26/05/2022 e publicação em 27/05/2022; a nº 68, aprovação em 14/09/2023 e publicação em 15/09/2023; a nº 69, aprovação em 26/03/2026 e publicação em 27/03/2026.
 
 Espaços, quebras e ênfases foram normalizados, preservando as palavras e os riscos. O aviso final de que a versão não substitui o diário oficial está em cada registro. Logos e rodapés de contato ficaram de fora. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Outras séries, diários, atos e processos apenas citados continuam pendentes; não se inferiu vigência atual nem efeito vinculante. A revisão independente, sobre as imagens, reuniu os hífens de quebra em “DOE-MPRJ” (nº 12) e “Procurador-Geral de Justiça” (nº 67) e restaurou “n.º” na referência da Lei Federal 10.741/2003 do nº 15. Com as 14 súmulas, o PR soma 83 registros e um órgão sobre a main `51b08ae668c397ac0df1c42060852ebd1d7f1540`: 37.276 registros em 150 órgãos. As nove lacunas iniciais do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. PDFs, imagens, capturas e scripts ficam privados.
+
+## MPRS — enunciados de infância e educação
+
+Quatro atos do catálogo oficial foram lidos integralmente em duas capturas de cada: 6/2022 (ficha 15522), 10/2022 (15696), 3/2025 (18124) e 1/2026 (18421). Foram incorporados seis enunciados: 62 e 63 do CONPPIJEFAM; 1–3 do CONPPIJE de 2025; e um sem número na Resolução 1/2026, identificado pelo ato sem criar nº 4. As duas séries ficam separadas, sem inferir renumeração ou continuidade jurídica por afinidade temática. Os quatro atos completos ficam uma única vez nos respectivos índices; não receberam IDs de resolução.
+
+Nos pares 15522, 18124 e 18421, o contêiner jurídico coincide integralmente. A ficha 15696 tem título “Antenas de telefonia móvel devem ser desativadas” na primeira captura, “RESOLUÇÃO N. 11/2022 – PGJ” na segunda e “RESOLUÇÃO N. 10/2022 – PGJ” na terceira. O corpo sem `h1` coincide nas três e imprime Enunciado 63; o catálogo liga Resolução 10/2022. Todos os títulos foram atribuídos, sem converter o incorreto em identidade. A Resolução 1/2026 atribui a CONPPIJE no título e a CONCIDEPP no considerando; a 6/2022 menciona área criminal no considerando. As divergências ficam sem conciliação.
+
+Foram mantidas as grafias “TRATANDOSE”, “INFATOJUVENIL”, “garantia do perdurar a situação de vulnerabilidade” e a sequência irregular de palavras do texto de 2026. Nenhuma vigência atual ou vinculação foi inferida. O PDF ligado ao ato de 2007 foi capturado separadamente e continua sem leitura neste lote, sem contagem de seus possíveis enunciados. Outros documentos, diários e atos apenas citados seguem pendentes. Não houve PDF nem OCR neste lote HTML. Espaços, quebras e ênfases normalizados; sem CPF, RG, matrícula pessoal ou bloco de autenticação incorporado, com nomes e funções públicos preservados.
+
+Sobre a main `30923897` (37.276 registros em 150 órgãos), são seis registros novos sem órgão novo: 37.282 registros em 150 órgãos, MPRS 27. Os PRs 67, 68, 69 e 70 estão fora dessa base enquanto abertos. As nove lacunas iniciais do BNP permanecem. Só Markdown público; capturas e scripts privados; cobertura nacional parcial.
