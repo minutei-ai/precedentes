@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.518 registros únicos de 152 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.538 registros únicos de 153 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
 | [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
@@ -936,6 +937,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
 | [MPMA](tribunais/MPMA/) | 48 | MPMA — Enunciados do Conselho Superior: revisão de 2022, nº 24/23 e numeração histórica do catálogo |
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
@@ -1799,3 +1801,14 @@ A página oficial [Enunciados do Conselho Gestor](https://www.mpsc.mp.br/frbl-en
 As duas capturas HTTP 200 de 29/10/2026 têm 284.708 bytes cada e hashes diferentes nos arquivos completos; o bloco com os três títulos e três parágrafos coincide. Não há link, anexo, tabela ou assinatura nesse contêiner. Apenas espaços e quebras foram normalizados. A página não imprime data de aprovação nem nota de vigência dos enunciados; não se inferiu situação jurídica atual ou efeito vinculante. Não houve PDF nem OCR. Não há CPF, RG, matrícula pessoal ou autenticação nos três corpos. Atas, atos de aprovação, normas citadas e redações anteriores não foram lidos; não se provou inexistência de outros números.
 
 Sobre a main `689830314991442c0b4b59844e7a40edabc3126d` (37.515 registros em 152 órgãos), o lote soma três sem órgão novo: 37.518 registros em 152 órgãos, MPSC 20. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público, evidências privadas e cobertura nacional parcial.
+
+
+## MPAM — assentos do Conselho Superior
+
+A página oficial [Assentos CSMP](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013), indicada no catálogo do Conselho Superior, reúne vinte cabeçalhos: 005/03; 001 e 002/04; 001/05; 001/07; 001–004/08; 001–009/11; e 001–002/12. O MPAM entra como órgão próprio, distinto do TJAM, do TCEAM e do MPF. Cada assento recebeu identificador por número e ano, sem criar atos para as resoluções citadas. O caminho da URL menciona 2013 e não foi adotado como ano de emissão.
+
+As três páginas — catálogo, assentos e súmula — tiveram duas capturas HTTP 200 em 29/10/2026. O HTML completo varia nos hashes, mas o contêiner jurídico dos assentos coincide nos dois arquivos de 103.535 bytes. Os vinte corpos foram comparados com os nós de texto normalizados do HTML. Riscos foram preservados nas quatro redações com nota de revogação (005/03, 001/05, 005/11 e 007/11). Há notas de republicação em 002/04, 006/11 e 008/11; versões anteriores não foram reconstruídas. Os atos de revogação e republicação e os diários citados não foram lidos. Ausência de nota não confirma vigência atual ou efeito vinculante.
+
+A transcrição conserva os nós de texto, inclusive caixa irregular, “PUB¬LICAÇÃO” e “relatança”; não executa a transformação de caixa do CSS `text-transform: uppercase`. Fontes, negrito, itálico, espaços e quebras foram normalizados. O bloco oculto `mcePaste` no fim do contêiner repete a redação do 005/03 e foi excluído, sem anexá-lo ao 002/12 nem gerar outra identidade. Não há CPF, RG, matrícula pessoal ou bloco de autenticação nos vinte corpos. Não houve PDF nem OCR.
+
+A página da súmula de entendimento 001.11.CSMP traz apenas a identificação 001.2011.CSMP no contêiner lido; não há enunciado nem link PDF no HTML capturado. Ficou pendente, sem registro. Outras páginas de assentos do catálogo, resoluções, diários e atos apenas citados permanecem fora deste lote. Sobre a main `f1a2e1faa3c074f1df68abe2178aeaf766ac4d4d` (37.518 registros em 152 órgãos), o delta é de vinte registros e um órgão: 37.538 registros em 153 órgãos. As nove lacunas iniciais do BNP permanecem; evidências privadas, apenas Markdown público e cobertura nacional parcial.
