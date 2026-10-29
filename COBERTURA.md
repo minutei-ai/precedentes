@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.824 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.848 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — II Jornada de Direito Comercial](https://www.cjf.jus.br/enunciados/) | 24 | 24 | 0 |
 | [CJF — II Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 51 | 51 | 0 |
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
@@ -981,7 +982,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 346 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo, Comercial, I Civil e II Processual Civil |
+| [CJF](tribunais/CJF/) | 370 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo, I/II Comercial, I Civil e II Processual Civil |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2085,3 +2086,10 @@ Não se corrigiram as irregularidades da nº 96 nem o § 2º de filiação impre
 51 enunciados, números 108–158, da pesquisa `jornada.id=161`, com fichas individuais capturadas em pares HTTP 200. Bytes e SHA-256 conferidos; campos jurídicos e metadados coincidem entre pares e os corpos coincidem com a listagem. Todos os corpos, referências e demais campos foram lidos. O campo de justificativa contém somente “Sem justificativa” ou “Sem justificativa.”, reproduzido sem fundamentação inventada. Campo revogado vazio, sem confirmar vigência. Nomes e cargos atribuídos à ficha, sem afirmar titularidade atual. Grafias e referências mantidas sem atualização, incluindo “pode ser feita” na nº 143. Sem PDF/OCR, efeito vinculante ou exaustividade inferidos.
 
 Sobre a main `e37d1725` (38.733 registros em 164 órgãos; CJF 255), este lote acrescenta 51 registros e nenhum órgão: 38.784 registros em 164 órgãos e CJF 306. Os 57 enunciados da I Jornada de Direito Comercial do PR #105 já estão na base e contam uma vez. Os PRs #106 (I Jornada de Direito Administrativo) e #107 (I Jornada de Direito Processual Civil), além do lote Crises Ambientais, permanecem fora desta conta. FONAJE 328 e as 80 transcrições históricas do MPAL sem IDs novos permanecem. As nove lacunas originais do BNP continuam; atas, outras jornadas e publicações apenas citadas seguem pendentes. Capturas e scripts privados; somente Markdown público.
+
+
+## CJF — II Jornada de Direito Comercial
+
+24 enunciados, números 58–81, com justificativas integrais da pesquisa `jornada.id=61` e das fichas individuais em pares HTTP 200. Todos os campos coincidem entre capturas, e os corpos coincidem com a pesquisa; bytes e SHA-256 recalculados. Corpos, justificativas e metadados lidos. A nº 58 relata proposta de alteração do nº 6 da I Jornada, sem reescrever a identidade anterior. Preservados “Cirando”, “direto de voto”, “Decreto n. 57/663/66”, “¿caput¿”, “¿par conditio creditorum¿” e “Lei n. 11/101/2005” como publicados. Referências antigas, inclusive EIRELI, não foram atualizadas. Campo revogado e notas vazios, sem inferência de vigência, vinculação ou exaustividade. Sem PDF/OCR ou IDs para normas, FONAJE e julgados citados.
+
+Delta sobre `be036950`: 24 registros e nenhum órgão; total de 38.848 registros em 164 órgãos e CJF 370. I e III Processual Civil e Crises Ambientais permanecem em PRs separados, fora desta conta. FONAJE 328 e histórico MPAL de 80 transcrições sem novos IDs preservados. As nove lacunas iniciais do BNP continuam; atas e outras publicações permanecem pendentes. Apenas Markdown público, capturas e scripts privados.
