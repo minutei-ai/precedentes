@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.160 registros únicos de 130 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.185 registros únicos de 131 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [ARCE — Controle de Súmulas](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf) | 25 | 25 | 0 |
 | [PGE/AL — Súmulas Administrativas](https://pge.al.gov.br/documentos/category/36-sumulas) | 43 | 43 | 0 |
 | [PROCON/PB — Súmulas da Câmara Recursal](https://procon.pb.gov.br/camararecursal/sumulas) | 4 | 4 | 0 |
 | [PGM de Joinville — Súmulas Administrativas](https://www.joinville.sc.gov.br/publicacoes/sumulas-administrativas-da-procuradoria-geral-do-municipio/) | 6 | 6 | 0 |
@@ -889,6 +890,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [ARCE](tribunais/ARCE/) | 25 | ARCE — Controle de Súmulas |
 | [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
 | [REDE_SIDH](tribunais/REDE_SIDH/) | 10 | Rede-SIDH — bloco coletivo publicado pela PGE/RJ |
 | [TARFRS](tribunais/TARFRS/) | 19 | TARF/RS — Súmulas do Tribunal Administrativo de Recursos Fiscais |
@@ -944,7 +946,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ARCE, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1167,3 +1169,17 @@ O documento 416 é a nº 23/2012. O preâmbulo declara alteração e o mesmo PDF
 Foram preservados enunciado, referências, datas, notas e assinaturas legíveis. Apenas espaços e quebras de linha foram normalizados; o hífen de quebra em identificador foi reunido sem espaço inserido. Permanecem, entre outras formas impressas, “ADMINSITRATIVA” na nº 41, “2002.Precedentes” e a legislação “de 2001” na nº 6, “1.O servidor” na nº 7, “FEDERAL.REFERÊNCIA” na peça do arquivo 436, a aspa final da linha de legislação da nº 39 e a ausência de aspa de fechamento do enunciado da nº 26. A legislação das nºs 17, 19, 30 e 36 imprime “§ 19”, e na nº 17 e na nº 19 o ponto de “ART.40” não tem espaço. Na nº 20 o enunciado imprime § 1º e a legislação imprime “ART. 40, § 19”. Nas mesmas páginas, outros ordinais permanecem “º”. Os rótulos do catálogo não reproduzem § nem aspas do PDF; a transcrição segue a camada textual. A data de impressão no rodapé, quando existe, não é a data do ato. A frase de caráter obrigatório é a do próprio ato. A ausência de nota de revogação não confirma vigência atual nem efeito vinculante posterior. Pareceres, processos, diários, acórdãos e leis apenas citados não foram incorporados e não geraram registros. Não há CPF, RG nem matrícula nestes PDFs. Nomes e funções permanecem.
 
 O lote acrescenta 43 registros e um órgão. A main 7cf00bac já reúne a transcrição das 11 páginas CEAD, as quatro súmulas do PROCON/PB e o inteiro teor das 18 páginas do acórdão do Tema 1491 do STF, sem novos registros nesse complemento: 36.117 registros em 129 órgãos. Com este lote o acervo passa a 36.160 registros em 130 órgãos. A categoria não esgota os pareceres da PGE/AL nem esclarece as nºs 10, 16 e 18.
+
+## ARCE — enunciados da súmula
+
+A Agência Reguladora do Estado do Ceará entra como órgão próprio (ARCE). Não é o TJCE, o TCECE nem a PGECE. A página [Súmulas](https://www.arce.ce.gov.br/download/sumulas/) respondeu HTTP 200 em 29/10/2026 e publica um único arquivo, [Controle de Súmulas ARCE](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf). A modificação informada pela página é 2021-03-05T12:26:53+00:00. O diretório `2018/11` do endereço é o caminho de publicação, não a data de atualização jurídica. O PDF cita atos até 11/02/2021.
+
+Duas capturas do PDF, recebidas em 29/10/2026, têm 287.677 bytes e o SHA-256 `5d47978071ca58883b21b7de3caa5b56e250e62fa7827ccf611dd406d8630af2`. Uma releitura HTTP 200 no mesmo dia repetiu esse tamanho e esse hash. O `Last-Modified` do arquivo é Fri, 05 Mar 2021 12:26:15 GMT. O documento foi produzido pelo Word 2016 em 05/03/2021, tem quatro páginas A4 e texto extraível. A camada textual foi conferida visualmente em cada página. Não houve OCR. Não há texto riscado nem sublinhado. Datas e notas de aprovação, alteração e revogação estão em negrito. As redações anteriores das nºs 03 e 18 estão em corpo menor.
+
+O controle reúne as súmulas nº 01 a 25, sem lacuna. Os identificadores são `arce-sum-1` a `arce-sum-25`. A nº 10 começa na última linha da página 1, em “EVENTUAIS”, e continua na página 2. A nº 19 começa no fim da página 2 e continua na página 3, em “MEDIÇÃO”. A nº 24 está inteira na página 3, inclusive a linha “e Publicada no DOE de 21/01/2020).”. A página 4 contém somente a nº 25.
+
+Foram preservados enunciados, datas, parênteses, aspas e as notas impressas. A nº 03 traz a redação anterior, marcada com asterisco, e imprime alínea C na redação atual e alínea “C” na anterior. A nº 06 conserva “AI).” antes de “Nº 05.027/2000”. A nº 18 traz a redação anterior com a data “(10/02/06)” e a grafia “T.O,”; o enunciado atual está datado de 04/01/2007. A nº 19 imprime “RELATIVA A COBRANÇA”, sem crase. A nº 21 traz a nota de revogação na Reunião Extraordinária de 01/04/2019 (DOE 05/04/2019), com “lei no”, “n°” e as aspas do trecho citado, e em seguida o enunciado histórico de 13/11/2018. A aspa que abre a citação do conselho não se fecha. A nº 22 informa alteração em 30/07/2019 e publicação no DOE de 02/08/2019; a redação anterior não está no PDF e não foi reconstruída. A nº 23 conserva “AS DEFESA” e a nota de aprovação em 20/08/2019, com publicação no DOE de 26/08/2019. Na nº 24, o parêntese fecha depois de 14/01/2020 e volta a fechar depois da publicação de 21/01/2020. A nº 25 informa aprovação em 11/02/2021.
+
+Apenas espaços de justificação e quebras de linha foram normalizados. Resoluções da ANEEL e da ARCE, autos de infração, a COELCE, diários e processos apenas citados permanecem nos verbetes e não geraram registros. As datas são as impressas. Nenhuma nota foi convertida em confirmação de vigência atual, efeito vinculante ou inexistência de ato posterior. Não há CPF, RG, matrícula ou conta neste PDF. O controle não esgota outras séries da ARCE.
+
+O lote acrescenta 25 registros e um órgão sobre a main 150d8677: 36.185 registros em 131 órgãos. Os nove registros ainda sem texto não foram alterados.
