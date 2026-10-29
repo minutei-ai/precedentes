@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.779 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.006 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -10,15 +10,23 @@ A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da
 
 Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef): os cartões consultados cobrem os números 1–226 sem repetição ou lacuna nesta consulta. A página atual consultada apresenta a série até o XVIII FONAJEF; a busca na área oficial não identificou edição posterior ou novo enunciado. As [recomendações do FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) são uma seção separada e não foram incorporadas neste lote. Esse resultado limitado não demonstra exaustividade nem ausência de atualizações posteriores. Os textos mantêm literalmente avisos de cancelamento, revisão, redação anterior e transformação quando impressos; ausência de aviso não confirma vigência e nenhum efeito vinculante foi inferido. A série foi conferida como própria do FONAJEF/AJUFE, distinta do FONAJE, da TNU, do CNJ e dos TRFs.
 
+## CJF — I Jornada de Direito Comercial
+
+Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por `jornada.id=1` e as 57 fichas oficiais pareadas, todas com HTTP 200. Os campos da ficha coincidiram em cada par; os corpos coincidiram com os cartões. As fichas trazem comissão, coordenadores, referências legislativas e palavras de resgate. Não exibem justificativa ou nota, e o campo reservado à redação anterior está vazio. Essa ausência não confirma vigência. Foram mantidas as grafias e pontuações da fonte. Nenhum PDF, ata ou ato citado foi usado; normas citadas não foram atualizadas nem criadas como registros. A coleta da jornada não afirma exaustividade ou efeito vinculante.
+
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — II Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 51 | 51 | 0 |
+| [CJF — III Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 79 | 79 | 0 |
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
 | [CJF — I Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 137 | 137 | 0 |
 | [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
+| [CJF — I Jornada de Direito Administrativo](https://www.cjf.jus.br/enunciados/) | 40 | 40 | 0 |
+| [CJF — I Jornada de Direito Comercial](https://www.cjf.jus.br/enunciados/) | 57 | 57 | 0 |
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CJF — I Jornada Jurídica de Prevenção e Gerenciamento de Crises Ambientais](https://www.cjf.jus.br/enunciados/) | 103 | 103 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
@@ -975,7 +983,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 198 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário e I Civil |
+| [CJF](tribunais/CJF/) | 346 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo, Comercial, I Civil e II Processual Civil |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2052,6 +2060,12 @@ Incorporados os 12 enunciados numerados 1–12 da pesquisa `jornada.id=241`, com
 
 Delta sobre `aab75242`: 12 registros e nenhum órgão; 38.180 registros em 162 órgãos, CJF 61 (49 de Equidade Racial e 12 de Tributário). PRs 99/MPRN e 101/MPAL históricos seguem separados e fora desta conta. As nove lacunas originais do BNP e os avisos MPAL sem enunciado permanecem. Capturas e scripts privados, apenas Markdown público.
 
+## CJF — I Jornada de Direito Administrativo
+
+Incorporados os 40 enunciados numerados 1–40 da pesquisa `jornada.id=201`, em série própria `en-administrativo-i`. As duas capturas HTML da pesquisa e as 40 fichas individuais foram conferidas; as 82 respostas registram HTTP 200, e tamanhos e SHA-256 foram recalculados dos arquivos. Os 40 cartões coincidem entre as pesquisas e com as fichas; todos os campos foram comparados em cada par. As 40 fichas não exibem justificativa nem redação anterior preenchida; a ausência não confirma vigência. O CSS capturado aplica texto riscado somente ao campo `#enunciado-p-descricaoRevogada`, vazio nas 40 fichas; esse estilo não foi aplicado aos corpos atuais nem interpretado como aviso de situação. Não há remissões a PDFs nos cartões ou fichas consultados. Metadados, referências legislativas e palavras de resgate foram preservados. Sem atualização normativa, inferência de vinculação ou exaustividade; sem duplicar as séries Civil, Tributário ou Equidade Racial.
+
+Delta sobre a main `089d423f`: 40 registros e nenhum órgão adicional; 38.824 registros em 164 órgãos, CJF 346. A contagem-base inclui os PRs 104/FONAJE, 105/Comercial e 108/II Processual Civil já integrados à main; nenhum deles integra o delta administrativo. O histórico MPAL mantém delta zero e suas 80 transcrições sem novos IDs. Capturas e recibos permanecem privados; somente Markdown no repositório.
+
 ## MPRN — assentos do CSMP
 
 A [página institucional do CSMP/MPRN](https://mprn.mp.br/paginas/conselho-superior-do-ministerio-publico-do-rn/) vincula o [catálogo oficial de assentos](https://archivum.mprn.mp.br/csmp/assento/), que por sua vez lista a [Relação Geral compilada e atualizada](https://archivum.mprn.mp.br/intranet/csmp/files/assento/Rela%C3%A7%C3%A3o%20Geral%20dos%20Assentos%20-%20Compilada%20e%20Atualizada.pdf). A compilação traz os Assentos nº 01–31 em seis páginas. As seis imagens foram lidas visualmente e os 31 textos comparados com a compilação, incluindo a sequência e os números, as redações anteriores riscadas dos nºs 15, 17, 19 e 22 e a anotação de revogação do nº 16. Cada número está em um único registro; avisos, normas citadas e pistas de outros documentos não receberam identificadores.
@@ -2067,8 +2081,22 @@ Incorporadas 137 identidades numeradas 1–137, conciliadas com a pesquisa públ
 
 Não se corrigiram as irregularidades da nº 96 nem o § 2º de filiação impresso na nº 134. Propostas de alteração e rótulos históricos não foram tratados como lei vigente. Notas de revogação de artigos em 110/111 não viraram cancelamento dos enunciados. Campos Justificativa de 31/71 com palavras-chave mantidos. Sem inferência de vigência, vinculação ou exaustividade. Delta sobre `596774f1`: 137 registros e nenhum órgão, total 38.348 registros em 163 órgãos; CJF198, MPRN31, CNMP96 e FONAJEF271 preservados. O histórico MPAL e o FONAJE continuam em trabalho paralelo, fora da conta. As nove lacunas iniciais do BNP e os avisos MPAL sem texto permanecem. Capturas e derivados privados; somente Markdown público.
 
+
+## CJF — II Jornada de Direito Processual Civil
+
+51 enunciados, números 108–158, da pesquisa `jornada.id=161`, com fichas individuais capturadas em pares HTTP 200. Bytes e SHA-256 conferidos; campos jurídicos e metadados coincidem entre pares e os corpos coincidem com a listagem. Todos os corpos, referências e demais campos foram lidos. O campo de justificativa contém somente “Sem justificativa” ou “Sem justificativa.”, reproduzido sem fundamentação inventada. Campo revogado vazio, sem confirmar vigência. Nomes e cargos atribuídos à ficha, sem afirmar titularidade atual. Grafias e referências mantidas sem atualização, incluindo “pode ser feita” na nº 143. Sem PDF/OCR, efeito vinculante ou exaustividade inferidos.
+
+Sobre a main `e37d1725` (38.733 registros em 164 órgãos; CJF 255), este lote acrescenta 51 registros e nenhum órgão: 38.784 registros em 164 órgãos e CJF 306. Os 57 enunciados da I Jornada de Direito Comercial do PR #105 já estão na base e contam uma vez. Os PRs #106 (I Jornada de Direito Administrativo) e #107 (I Jornada de Direito Processual Civil), além do lote Crises Ambientais, permanecem fora desta conta. FONAJE 328 e as 80 transcrições históricas do MPAL sem IDs novos permanecem. As nove lacunas originais do BNP continuam; atas, outras jornadas e publicações apenas citadas seguem pendentes. Capturas e scripts privados; somente Markdown público.
+
+
+## CJF — III Jornada de Direito Processual Civil
+
+79 enunciados numerados 159–237 da pesquisa `jornada.id=381`, com fichas capturadas em pares HTTP 200. Bytes e SHA-256 conferidos; todos os campos dos pares coincidem e os corpos coincidem com a pesquisa. Corpos e metadados lidos. A nº 166 conserva o cancelamento da nº 10 da I Jornada dentro do corpo, sem fundir identidades. Preservados o parêntese final da nº 185 e os nomes de coordenação “Ministra Isabel Galotti” e “Ministro Sérgio Kulina”. Referências e palavras-chave permanecem separadas, sem atualização. Justificativa, notas e redação anterior vazias; isso não comprova vigência. Sem vinculação, exaustividade, PDF ou OCR inferidos.
+
+Delta sobre a main `be036950`: 79 registros e nenhum órgão, totalizando 38.903 registros em 164 órgãos; CJF 425. A base inclui o PR #106 (I Jornada de Direito Administrativo) e o PR #108 (II Jornada de Direito Processual Civil), já integrados antes deste lote. O PR #107 da I Jornada Processual Civil continua draft e fora da conta; a cobertura de Crises Ambientais também não entra. FONAJE 328 e as 80 transcrições históricas do MPAL permanecem sem novos IDs. Atas, outras jornadas e PDFs apenas citados seguem pendentes. Apenas Markdown público.
+
 ## CJF — I Jornada Jurídica de Prevenção e Gerenciamento de Crises Ambientais
 
 Integrados 103 enunciados, numerados 1–103, em série própria `en-crises-ambientais-i`, com os campos de justificativa e metadados publicados na [Consulta de Enunciados do CJF](https://www.cjf.jus.br/enunciados/), `jornada.id=441`. A listagem consultada em duas capturas apresenta os mesmos 103 vínculos e títulos na mesma ordem dos cartões privados do inventário. As 103 fichas individuais foram consultadas duas vezes (206 respostas HTTP 200); os pares têm bytes HTML diferentes, mas os campos de enunciado, justificativa e metadados coincidem. Os bytes e SHA-256 de cada resposta estão nas fichas. Os 103 textos de enunciado coincidem com a listagem. Foram lidos todos os enunciados, justificativas e demais campos das fichas. Não há texto no campo de redação revogada nem PDF ligado às fichas; não se inferiu vigência nem data individual de aprovação. Espaços foram normalizados sem inserir separadores em elementos inline. Referências citadas não foram atualizadas nem receberam IDs. Erros e divergências da fonte foram preservados, como os números das Leis n. 12.305/2010 e 12.334/2010 no nº 33 e das ECs n. 132/2023 e 123/2022 no nº 74, e as grafias do nº 49. Sem inferência de efeito vinculante ou exaustividade; outras publicações, deliberações e jornadas não foram verificadas neste lote. Capturas, ledger e scripts permanecem privados; somente Markdown público.
 
-Delta sobre a main `aff5e3b46` (38.676 registros em 164 órgãos): 103 registros e nenhum órgão novo, totalizando 38.779 registros em 164 órgãos; CJF passa de 198 para 301. As séries de Equidade Racial (49), Tributário (12) e Direito Civil (137) permanecem. O total não inclui o PR 105 Comercial (57) em revisão, a I Jornada Administrativa (40) de outro lote nem a Jornada Processual Civil (107) ainda não integrada. A cobertura permanece parcial.
+Delta sobre a main `f1a12743` (38.903 registros em 164 órgãos; CJF 425): 103 registros e nenhum órgão novo, totalizando 39.006 registros em 164 órgãos; CJF passa a 528. FONAJE permanece com 328 registros e as 80 transcrições históricas do MPAL continuam sem IDs novos. O PR #107 da I Jornada Processual Civil (107) permanece fora desta conta. A cobertura nacional continua parcial.
