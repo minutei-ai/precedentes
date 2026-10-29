@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.727 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.784 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -9,6 +9,10 @@ A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da
 ## FONAJEF
 
 Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef): os cartões consultados cobrem os números 1–226 sem repetição ou lacuna nesta consulta. A página atual consultada apresenta a série até o XVIII FONAJEF; a busca na área oficial não identificou edição posterior ou novo enunciado. As [recomendações do FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) são uma seção separada e não foram incorporadas neste lote. Esse resultado limitado não demonstra exaustividade nem ausência de atualizações posteriores. Os textos mantêm literalmente avisos de cancelamento, revisão, redação anterior e transformação quando impressos; ausência de aviso não confirma vigência e nenhum efeito vinculante foi inferido. A série foi conferida como própria do FONAJEF/AJUFE, distinta do FONAJE, da TNU, do CNJ e dos TRFs.
+
+## CJF — I Jornada de Direito Comercial
+
+Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por `jornada.id=1` e as 57 fichas oficiais pareadas, todas com HTTP 200. Os campos da ficha coincidiram em cada par; os corpos coincidiram com os cartões. As fichas trazem comissão, coordenadores, referências legislativas e palavras de resgate. Não exibem justificativa ou nota, e o campo reservado à redação anterior está vazio. Essa ausência não confirma vigência. Foram mantidas as grafias e pontuações da fonte. Nenhum PDF, ata ou ato citado foi usado; normas citadas não foram atualizadas nem criadas como registros. A coleta da jornada não afirma exaustividade ou efeito vinculante.
 
 ## Fontes diretas
 
@@ -20,6 +24,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
 | [CJF — I Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 137 | 137 | 0 |
 | [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
+| [CJF — I Jornada de Direito Comercial](https://www.cjf.jus.br/enunciados/) | 57 | 57 | 0 |
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
@@ -975,7 +980,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 249 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, I Civil e II Processual Civil |
+| [CJF](tribunais/CJF/) | 306 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, I Comercial, I Civil e II Processual Civil |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2072,4 +2077,4 @@ Não se corrigiram as irregularidades da nº 96 nem o § 2º de filiação impre
 
 51 enunciados, números 108–158, da pesquisa `jornada.id=161`, com fichas individuais capturadas em pares HTTP 200. Bytes e SHA-256 conferidos; campos jurídicos e metadados coincidem entre pares e os corpos coincidem com a listagem. Todos os corpos, referências e demais campos foram lidos. O campo de justificativa contém somente “Sem justificativa” ou “Sem justificativa.”, reproduzido sem fundamentação inventada. Campo revogado vazio, sem confirmar vigência. Nomes e cargos atribuídos à ficha, sem afirmar titularidade atual. Grafias e referências mantidas sem atualização, incluindo “pode ser feita” na nº 143. Sem PDF/OCR, efeito vinculante ou exaustividade inferidos.
 
-Delta sobre `aff5e3b4`: 51 registros e nenhum órgão; total 38.727 registros em 164 órgãos e CJF 249. PRs das jornadas I Processual Civil, I Comercial e I Administrativo e lote Crises Ambientais seguem separados, fora desta conta. FONAJE 328 e as 80 transcrições históricas MPAL sem IDs novos permanecem; nove lacunas originais do BNP continuam. Atas, outras jornadas e publicações apenas citadas permanecem pendentes. Capturas e scripts privados; apenas Markdown público.
+Sobre a main `e37d1725` (38.733 registros em 164 órgãos; CJF 255), este lote acrescenta 51 registros e nenhum órgão: 38.784 registros em 164 órgãos e CJF 306. Os 57 enunciados da I Jornada de Direito Comercial do PR #105 já estão na base e contam uma vez. Os PRs #106 (I Jornada de Direito Administrativo) e #107 (I Jornada de Direito Processual Civil), além do lote Crises Ambientais, permanecem fora desta conta. FONAJE 328 e as 80 transcrições históricas do MPAL sem IDs novos permanecem. As nove lacunas originais do BNP continuam; atas, outras jornadas e publicações apenas citadas seguem pendentes. Capturas e scripts privados; somente Markdown público.
