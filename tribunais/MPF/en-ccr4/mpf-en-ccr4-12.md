@@ -1,0 +1,23 @@
+# MPF · Enunciado 12 da 4ª CCR
+
+- **Órgão:** Ministério Público Federal — 4ª Câmara de Coordenação e Revisão (Meio Ambiente e Patrimônio Cultural)
+- **Espécie:** Enunciado da 4ª CCR
+- **Identificador:** `mpf-en-ccr4-12`
+- **Situação na fonte:** Adequação expressa na página; a redação anterior não está impressa neste verbete
+- **Fonte:** [Enunciados da 4ª CCR](https://www.mpf.mp.br/atuacao/ccr4/enunciados)
+
+## Texto publicado
+
+ENUNCIADO nº 12 - 4ª CCR
+
+OBSERVÂNCIA DA INDEPENDÊNCIA ENTRE AS ESFERAS CÍVEL E CRIMINAL NA ATUAÇÃO EM PROCEDIMENTOS EXTRAJUDICIAIS VINCULADOS À 4ª CCR.
+
+A existência de investigação criminal, em matérias de meio ambiente e patrimônio cultural, não obsta a continuidade dos procedimentos extrajudiciais no âmbito cível, mesmo no caso de transação penal, sendo necessário observar a independência entre as esferas, sem prejuízo de que a solução num feito possa autorizar o arquivamento do outro (Adequação do Enunciado nº 29 - 4ª CCR, de 18 de dezembro de 2014).
+
+## Conferência e limites
+
+Vínculos da página sem leitura do arquivo neste lote:
+
+- [ENUNCIADO nº 12 - 4ª CCR](https://www.mpf.mp.br/atuacao/ccr4/enunciados-1/Portarian0520164CCRAlteraenunciadosRetificada.pdf)
+
+Texto, notas, referências e riscos conferidos no HTML oficial em duas capturas HTTP 200 de 29/10/2026 com os mesmos bytes. Espaços, quebras de linha, negrito e itálico foram normalizados; riscos foram preservados. O conjunto dos caracteres não brancos do corpo do artigo foi reconstituído. Atas, deliberações, diários, processos, orientações e atos apenas citados ou apenas vinculados não tiveram inteiro teor incorporado e não geraram novos registros, salvo o texto histórico expressamente transcrito neste arquivo. Datas, adequações e a ausência de nota não confirmam vigência atual nem efeito vinculante. Esta série é própria da 4ª CCR e não esgota as outras séries do MPF.
