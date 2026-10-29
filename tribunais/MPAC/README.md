@@ -1,10 +1,10 @@
 # MPAC
 
-Ministério Público do Estado do Acre. **7 registros.** Órgão próprio, distinto do TJAC, do TCEAC e do MPF.
+Ministério Público do Estado do Acre. **17 registros.** Órgão próprio, distinto do TJAC, do TCEAC e do MPF.
 
 | Série | Registros |
 | --- | ---: |
-| [Enunciados do Conselho Superior](en-csmp/) | 6 |
+| [Enunciados do Conselho Superior](en-csmp/) | 16 |
 | [Decisão colegiada do Conselho Superior](dec-csmp/) | 1 |
 
-Foram lidas nove páginas de sete PDFs. Os enunciados 7 a 16 estão capturados e seguem pendentes de leitura; suas 98 páginas ainda não foram incorporadas. As propostas do documento de 2026 sobre ANPP não foram aprovadas no dispositivo final, e não geraram enunciados. A cobertura é parcial.
+Foram lidas 107 páginas de dezessete PDFs: nove dos enunciados 1 a 6 e da decisão sobre a proposta de ANPP, e 98 dos enunciados 7 a 16. As propostas do documento de 2026 sobre ANPP não foram aprovadas no dispositivo final, e não geraram enunciados. Normas, diários e atos apenas citados não foram lidos. A aprovação impressa não confirma vigência atual ou efeito vinculante. Outras séries e atos posteriores permanecem pendentes. A cobertura é parcial.
