@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.026 registros únicos de 146 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.043 registros únicos de 147 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -9,6 +9,8 @@
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
+
+| [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPCE — Súmulas do Conselho Superior](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/) | 34 | 34 | 0 |
 | [MPF — Enunciados da 5ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr5/enunciados-notas-tecnicas-e-orientacoes/enunciados) | 58 | 57 | 0 |
 | [MPT — Enunciados 1–7 na ata publicada no DOU de 26/03/2015](https://biblioteca.mpf.mp.br/repositorio/bitstreams/55183dd8-bfe1-434d-908d-246ac4a9175a/download) | 7 | 3 | 4 |
@@ -921,6 +923,8 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
+
+| [MPSC](tribunais/MPSC/) | 17 | MPSC — Enunciados da Câmara Revisora Criminal |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
@@ -991,7 +995,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPSC, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1623,4 +1627,12 @@ Cada registro traz o texto da página e o do PDF, na mesma identidade. Os nºs 1
 
 Nenhuma das fontes declara vigência, revogação ou efeito vinculante, e a ausência desses selos não foi convertida em conclusão sobre vigência. O Ato PGJ nº 027/2006, o ofício, leis e a Constituição, apenas citados, não geraram identificadores. Outras sessões, atas e atos da CEP e redações anteriores não foram lidos e continuam pendentes; versões ausentes não foram reconstruídas. Capturas, PDF, imagens e scripts ficam privados.
 
-Sobre a main `827966751425bed27c73c29d65ca1e098f2386a1`, com 37.013 registros em 145 órgãos, MPF 430, MPM 73, MPT 32, TJAM 74 e MPCE 34, este lote soma 13 registros e um órgão: 37.026 registros em 146 órgãos, com o MPGO em 13. As nove lacunas textuais do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. A cobertura nacional continua parcial.
+Sobre a main `82dd278e86cb99169d1d252cd6421cda98b4b3ab`, com 37.030 registros em 146 órgãos, MPF 430, MPM 73, MPT 32, TJAM 74 e MPCE 34, este lote soma 13 registros e um órgão: 37.043 registros em 147 órgãos, com o MPGO em 13. As nove lacunas textuais do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. A cobertura nacional continua parcial.
+
+## MPSC — enunciados da Câmara Revisora Criminal
+
+A página oficial publica 17 enunciados, numerados de 1 a 17, sem lacuna. Foram lidos os títulos e todos os parágrafos, inclusive os itens de fundamentação das nºs 12, 15 e 16. Duas capturas HTTP 200 de 29/10/2026 têm 329.651 bytes cada e hashes brutos diferentes (`a0681d8448c3ee381b514c9027b807e8ffc53798cb37f4a8fa4037ff23afea7a` e `60a83e1eba3e39963c76b6c8649b957c6e75000377a98e4dfbf9443ff6f5f32c`); os 17 títulos e seus blocos HTML coincidem. Não foi afirmada igualdade dos arquivos completos.
+
+Os nºs 1 a 11 trazem aprovação em 8/8/24 e publicação em 12/8/24; os nºs 12 a 14 trazem aprovação em 8/8/24, renumeração e republicação em 8/10/24. As nºs 15 e 16 não trazem nota de sessão no bloco. A nº 17 traz aprovação em 26/11/25 e publicação em 28/11/25. Essas informações são atribuídas à página, sem inferência de vigência atual ou efeito vinculante. Redações ou números anteriores não publicados na página não foram reconstruídos. Foram preservadas grafias como “evidência sua ausência volitiva”, “latu senso”, além de “o prazo 30 (trinta) dias” e “art. 19- H”.
+
+Não houve PDF nem OCR. Espaços, quebras e ênfases foram normalizados. Atos, normas, diários e processos apenas citados não geraram registros. Não há CPF, RG, matrícula nem bloco de autenticação no texto incorporado. O MPSC é órgão próprio, distinto do TJSC, do TCESC, do MPF e do CNMP; esta série não abrange os precedentes do Conselho Superior. Outros enunciados, atas, atos e séries permanecem pendentes. Sobre a main `827966751425bed27c73c29d65ca1e098f2386a1`, com 37.013 registros em 145 órgãos, este lote soma 17 registros e um órgão: 37.030 registros em 146 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. Capturas e scripts ficam privados; a cobertura nacional continua parcial.
