@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.349 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.381 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -989,7 +989,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 871 | Consulta de Enunciados — Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 903 | Consulta de Enunciados — Jornadas de Equidade Racial, Penal, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2153,9 +2153,17 @@ Mantidos “Justificativa:” na nº 2, “no artigo do art.” na nº 4, “pod
 
 Delta sobre a main `1e959025` (39.222 registros em 164 órgãos; CJF 744): 40 registros e nenhum órgão novo, totalizando 39.262 registros em 164 órgãos e CJF 784. A III Jornada Comercial (34) e a Jornada de Seguridade (53, PR #115) permanecem fora desta conta; a base inclui a IV Processual Civil (38) e a Saúde (47). FONAJE 328 e as 80 transcrições históricas do MPAL permanecem sem IDs novos; as nove lacunas originais do BNP continuam. Apenas Markdown público; capturas e scripts privados.
 
+## CJF — I Jornada de Direito e Processo Penal
+
+32 enunciados, números 1–32 da pesquisa `jornada.id=261`. As 64 capturas das fichas retornaram HTTP 200, com bytes e SHA-256 recalculados. Os campos dos pares coincidem e os corpos coincidem com as duas pesquisas. Corpos e metadados lidos; justificativa, Notas e texto revogado vazios, sem inferência de vigência. Mantidas redações sobre livramento condicional nas nºs 2 e 24 sem harmonizá-las. Preservadas “PARTENIDADE SOCIOAFETIVA”, “SISTEMA FINANCEIRA” e “DOSEMETRIA DA PENA” nas palavras-chave. Coordenação atribuída à ficha sem afirmar titular atual; atos e julgados citados não receberam IDs. Sem PDF/OCR, vinculação ou exaustividade inferidas.
+
+Delta sobre `1e959025`: 32 registros e nenhum órgão, projeção de 39.254 registros em 164 órgãos e CJF 776. III Comercial, Desportivo e Seguridade continuam em PRs separados, fora desta conta. FONAJE 328, 80 transcrições históricas MPAL sem IDs novos e nove lacunas originais do BNP preservados. Outras publicações seguem pendentes; somente Markdown público, evidências privadas.
+
+Delta sobre `c769edd8` (39.315 registros em 164 órgãos; CJF 837): 32 registros e nenhum órgão; total esperado de 39.347 registros em 164 órgãos e CJF 869. Os PRs #114 e #115 já estão incluídos na base e não são contados de novo. Sem nova contagem global; outros PRs em andamento não entram neste delta.
+
 
 ## CJF — III Jornada de Direito Comercial
 
-34 enunciados, números 82–115, da pesquisa oficial `jornada.id=181`, com as 34 fichas oficiais capturadas em pares. As duas páginas da pesquisa contêm os mesmos 34 cartões; URLs, números e enunciados foram comparados diretamente ao HTML das fichas. Os campos de cada par coincidem, assim como os enunciados e cartões. Justificativas, redação anterior, metadados, referências legislativas e palavras de resgate foram lidos nas fichas; todas as justificativas foram preservadas, a redação anterior está vazia e não há seção separada de notas ou histórico. Capturas em bytes diferentes, mas sem divergência nos campos conferidos.
+34 enunciados, números 82–115, da pesquisa oficial `jornada.id=181`, com as 34 fichas oficiais capturadas em pares. As duas páginas de pesquisa (HTTP 200) contêm os mesmos 34 cartões; URLs, números e enunciados foram comparados diretamente ao HTML das fichas. As 34 fichas em pares responderam HTTP 200; os bytes diferem entre membros de todos os pares, mas os campos conferidos coincidem, assim como enunciado e cartão. Foram lidos os campos de enunciado, justificativa, redação anterior e metadados; justificativas integrais preservadas, redação anterior vazia. Não há seção separada de notas ou histórico nas fichas consultadas.
 
-Delta sobre a main `c769edd8` (39.315 registros em 164 órgãos; CJF 837): 34 registros e nenhum órgão, totalizando 39.349 registros em 164 órgãos e CJF 871. A base inclui a II Jornada Comercial (24), as Jornadas Processuais Civis I–IV (107, 51, 79 e 38), a Jornada de Crises Ambientais (103), Administrativo I (40), Comercial I (57), FONAJE (328) e 80 transcrições históricas do MPAL sem IDs novos. Nenhum desses lotes foi contado novamente. As nove lacunas iniciais do BNP permanecem. PDFs, atas e atos apenas citados não foram consultados, normas não foram atualizadas, e não se infere vigência, efeito vinculante ou exaustividade. Capturas e derivados privados; somente Markdown público.
+Delta sobre a main `082fcd32` (39.347 registros em 164 órgãos; CJF 869): 34 registros e nenhum órgão, totalizando 39.381 registros em 164 órgãos e CJF 903. A base inclui a Jornada Penal I (32), Seguridade Social I (53), Comercial II (24), Crises Ambientais I (103), Processual Civil I–IV (107, 51, 79 e 38), Comercial I (57), Administrativo I (40), FONAJE (328) e 80 transcrições históricas do MPAL sem IDs novos. Esses lotes permanecem contados uma vez. As nove lacunas iniciais do BNP permanecem. Capturas e derivados privados; somente Markdown público. PDFs, atas e atos apenas citados não foram consultados; normas não foram atualizadas e não se infere vigência, efeito vinculante ou exaustividade.
