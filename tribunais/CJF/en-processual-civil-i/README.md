@@ -2,7 +2,7 @@
 
 **107 registros**, números 1–107 da [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), filtro `jornada.id=121`. Os pares de HTMLs da pesquisa e das 107 fichas foram conferidos; os campos coincidem entre capturas e os corpos coincidem com a listagem. Todos os corpos foram lidos. Referências, palavras de resgate e notas permanecem separados; a nota da nº 87 contém palavras-chave, como a fonte. Nenhuma ficha exibe justificativa. O campo revogado está vazio, sem inferência de vigência.
 
-A nº 10 publica somente o cancelamento pelo Enunciado 166 da III Jornada; a recuperação do texto histórico na publicação oficial permanece em conferência. Enunciados de jornadas não foram classificados como decisões judiciais ou atos vinculantes. Outras jornadas, redações e atos apenas citados permanecem pendentes.
+A nº 10 publica somente o cancelamento pelo Enunciado 166 da III Jornada; o texto histórico foi recuperado da página física 15 (impressa 13) da publicação oficial, com a capa e essa página lidas visualmente. O PDF tem 33 páginas, 304.701 bytes e SHA-256 `58bccfef1877faac193d6d5436cfa886b4a69fbcf47d46238adfa656728e170d` idêntico nas duas capturas. Só o bloco da nº 10 foi incorporado do PDF, sem risco, como impresso; o cancelamento permanece atribuído à ficha. Sem OCR ou leitura integral do caderno. Enunciados de jornadas não foram classificados como decisões judiciais ou atos vinculantes. Outras jornadas, redações e atos apenas citados permanecem pendentes.
 
 - [Enunciado 1](cjf-en-processual-civil-i-1.md)
 - [Enunciado 2](cjf-en-processual-civil-i-2.md)

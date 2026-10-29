@@ -19,9 +19,19 @@
 
 (Cancelado pelo Enunciado 166 - III Jornada)
 
-## Pendência documental
+## Texto histórico da publicação oficial
 
-A ficha publica somente o aviso de cancelamento. O texto histórico está em conferência na publicação oficial da I Jornada; o aviso não é apresentado como inteiro teor do enunciado.
+ENUNCIADO 10 – O benefício do § 4º do art. 90 do CPC aplica-se apenas à fase de conhecimento.
+
+### Fonte e conferência documental
+
+- **Documento:** [I Jornada de Direito Processual Civil — Enunciados aprovados](https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/publicacoes-1/i-jornada-de-direito-processual-civil/i-jornada-de-direito-processual-civil-enunciados-aprovados/@@download/arquivo#page=15)
+- **Página transcrita:** física 15, impressa 13
+- **Arquivo:** 304.701 bytes, 33 páginas, PDF sem criptografia
+- **SHA-256 das duas capturas:** `58bccfef1877faac193d6d5436cfa886b4a69fbcf47d46238adfa656728e170d`
+- **Capturas:** duas respostas HTTP 200 em 29/10/2026, bytes e SHA-256 idênticos
+
+A capa e a página física 15 foram lidas visualmente, com apoio da camada textual. Apenas o bloco do Enunciado 10 foi incorporado do PDF; os demais verbetes da página não foram retranscritos. O texto histórico não está riscado na edição impressa e permanece sem risco aqui. O cancelamento é o aviso da ficha HTML, mantido acima, sem ser atribuído retrospectivamente ao PDF. Quebra de linha normalizada; rodapé, título lateral e número de página não reproduzidos no corpo. Sem OCR ou alegação de leitura das 33 páginas.
 
 ## Conferência e limites
 
