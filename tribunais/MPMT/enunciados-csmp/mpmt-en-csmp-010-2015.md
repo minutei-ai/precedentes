@@ -3,7 +3,7 @@
 - **Órgão:** Ministério Público do Estado de Mato Grosso (MPMT)
 - **Emissor:** Conselho Superior do Ministério Público do Estado de Mato Grosso (CSMP/MPMT)
 - **Espécie:** Enunciado
-- **Número:** 010/2015
+- **Número:** 010/2015-CSMP
 - **Identificador:** `mpmt-en-csmp-010-2015`
 - **Título na fonte:** ENUNCIADO Nº 010/2015-CSMP
 - **Fonte documental:** [3ª Pauta de Reunião Ordinária do CSMP, seção 14](https://mpmt.mp.br/site/storage/webdisco/arquivos/CSMP/3%C2%AA%20Pauta%20RO%20CSMP%2006-03-2023.pdf)
