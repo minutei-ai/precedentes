@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.007 registros únicos de 125 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.022 registros únicos de 126 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGE/RS — Súmulas Administrativas CEAD](https://pge.rs.gov.br/sumulas-jurisprudencia-administrativa-comissao-especial-de-advocacia-dativa) | 15 | 15 | 0 |
 | [PGE/SP — Súmulas históricas, 2ª edição de 1999](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm) | 23 | 23 | 0 |
 | [TRF1 — Coletânea oficial de súmulas](https://www.trf1.jus.br/trf1/conteudo/Sumula2026.pdf) | 61 | 61 | 0 |
 | [TJSE — Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) | 14 | 14 | 0 |
@@ -891,6 +892,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [PGERS](tribunais/PGERS/) | 15 | PGE/RS — Súmulas de Jurisprudência Administrativa CEAD |
 | [PGESP](tribunais/PGESP/) | 23 | PGE/SP — Súmulas históricas, 2ª edição de 1999, Série Documentos n. 18 |
 | [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
 | [TITSP](tribunais/TITSP/) | 15 | TIT/SP — Súmulas e fichas de propostas |
@@ -933,7 +935,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-TARFRS, PGERJ, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1069,3 +1071,11 @@ O Markdown reproduz o texto de cada página, com a divisão de parágrafos da ma
 Nas outras dezessete, o mesmo registro reúne o enunciado, as referências, as notas e os pareceres e despachos publicados na própria página. Citações de acórdãos, decretos, diários e bibliografia não geraram registros. Quatro números de RG, nas súmulas 12, 17, 20 e 21, foram omitidos. Nomes e funções permanecem. Não havia CPF nem matrícula nessas páginas.
 
 A validação deste lote conferiu os 23 números, a sequência, os links do sumário, a igualdade do texto visível com os parágrafos publicados e a ausência dos números de RG. Uma revisão independente derivou de novo o texto visível das 23 páginas e das páginas de abertura, apresentação, sumário e índice, e releu as mesmas URLs oficiais: o texto visível coincide. Ela não relê os demais órgãos. Com a main que já reúne o TJSE, a PGE/RJ, a Rede-SIDH e o TRF1, o acervo passa a 36.007 registros de 125 órgãos. Os diários e os atos apenas citados continuam pendentes. A edição de 1999 não esgota os pareceres da PGE/SP nem informa a situação jurídica posterior.
+
+## PGE/RS — Súmulas de Jurisprudência Administrativa CEAD
+
+A página oficial da Comissão Especial de Advocacia Dativa publica 15 enunciados, em série própria: nºs 001/2025 a 014/2025 e 015/2026. Foram incorporados os títulos, as ementas, os enunciados e as indicações de deliberação por maioria. O texto de apresentação da página diz que as súmulas buscam aumentar a transparência e a segurança jurídica na aplicação das normas do Sistema de Advocacia Dativa do Rio Grande do Sul; essa finalidade não foi convertida em classificação de vigência nem de efeito vinculante. O órgão PGERS é distinto do TARFRS, TCERS e TJRS.
+
+Duas capturas HTTP 200 de 29/10/2026 têm 67.012 bytes cada. Os hashes do HTML bruto diferem, mas o conteúdo visível da área do artigo e todos os enunciados e vínculos coincidem. Foram normalizados apenas espaços e quebras de linha. O ano de cada identidade vem do título, sem converter datas de upload ou datas dos documentos vinculados em data jurídica do enunciado. Não há nota expressa de cancelamento ou revisão nesses verbetes; a ausência não confirma vigência atual. As notas de voto vencido das nºs 001, 002, 012, 013 e 015 permanecem no texto. A nº 010 conserva o endereço institucional de secretaria publicado no enunciado. A menção a CPF na nº 005 é texto normativo, sem número pessoal.
+
+Os vínculos para súmulas de reunião foram preservados em cada registro, inclusive os três da nº 001. Esses documentos, as resoluções, as tabelas e os processos apenas citados não tiveram inteiro teor incorporado nem geraram registros adicionais. A série não esgota os precedentes da PGE/RS ou da CEAD. O lote acrescenta 15 registros e um órgão: 36.022 registros em 126 órgãos, sobre a main 206a8fa5 com a PGE/SP histórica.
