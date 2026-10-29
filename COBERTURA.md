@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.922 registros únicos de 144 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.956 registros únicos de 145 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPCE — Súmulas do Conselho Superior](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/) | 34 | 34 | 0 |
 | [MPT — Enunciados 1–7 na ata publicada no DOU de 26/03/2015](https://biblioteca.mpf.mp.br/repositorio/bitstreams/55183dd8-bfe1-434d-908d-246ac4a9175a/download) | 7 | 3 | 4 |
 | [MPM — Recomendações da CCR e atos conjuntos CORGE/CCR](https://www.mpm.mp.br/camara-de-coordenacao-e-revisao) | 35 | 35 | 0 |
 
@@ -918,6 +919,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
 | [MPM](tribunais/MPM/) | 73 | MPM — Enunciados da CCR e do 9º ECPJM; recomendações da CCR e atos conjuntos CORGE/CCR |
 | [MPT](tribunais/MPT/) | 32 | MPT — Enunciados da CCR, HTML oficial e histórico do DOU |
 | [CNMP](tribunais/CNMP/) | 32 | CNMP — Enunciados e súmulas da CALJ |
@@ -1581,3 +1583,11 @@ O PDF do nº 27 tem 800.214 bytes e SHA-256 `aafb1e9baa8384685f627f0912104b1c461
 Cada PDF teve duas capturas HTTP 200 de 29/10/2026 com os mesmos bytes. A leitura de identidade confirmou que o vínculo adicional `enunciado-no-26.pdf` da página do nº 27 entrega o documento comum das propostas 025 e 026, Informação nº 041/2016/AR/3CCR, não a proposta 27. Suas quatro páginas foram conferidas anteriormente na imagem, com a última em branco; o corpo não foi repetido como parte da proposta 27. A referência permanece atribuída à página, sem fusão de registros.
 
 Espaços, quebras, ênfases e hífens de divisão ao fim da linha foram normalizados, preservando hífens vocabulares. Datas não foram convertidas em vigência. Outros PDFs e atos de aprovação permanecem pendentes. As nove lacunas iniciais do BNP continuam. Sobre a main `6bcb017d7283b7d7452104a145be4ec6c37cae82`, com 36.922 registros em 144 órgãos, 73 do MPM, 32 do MPT, 373 do MPF e 74 do TJAM, este lote não acrescenta registro nem órgão: a contagem permanece em 36.922 registros de 144 órgãos, com 373 do MPF. Capturas, PDFs, imagens e scripts ficam privados; a cobertura nacional permanece parcial.
+
+## MPCE — súmulas do Conselho Superior
+
+O catálogo oficial publica as súmulas nºs 1 a 34, com ano, natureza, objeto, campo “Vigência”, referência de publicação e texto. Duas capturas HTTP 200 de 29/10/2026 coincidem em bytes: 135.690 bytes, SHA-256 `66468fd04924a2999cecc86cdacbdb92f58b9a8cbe491c463316f1956656e8ec`. A tabela inteira foi lida. Os 34 pares de ficha e enunciado foram conciliados pelo número e ano, sem lacuna, em série própria `sum-csmp`. O MPCE é órgão próprio, distinto dos demais órgãos do Ceará e dos Ministérios Públicos federais.
+
+A nº 2 traz revogação em 2023; as nºs 22 e 32 trazem revogação em 2024. As nºs 4, 21 e 25 trazem alteração, sem reconstrução de redações anteriores. A nº 5 combina “EM VIGOR” com “cancelada pela Súmula 022/2019”; as duas informações permanecem atribuídas ao catálogo. A nº 34 conserva as repetições “Colégio Especial do Colégio” e “somente cabível recurso da decisão de arquivamento somente é cabível recurso da decisão de arquivamento”. Os anos, as datas e as referências divergentes não foram harmonizados. O campo de vigência não foi convertido em confirmação jurídica independente nem em efeito vinculante.
+
+Não houve leitura de PDF nem OCR. Espaços, quebras, negrito e tamanho de fonte foram normalizados. Diários, atos de alteração ou revogação, resoluções, leis e processos apenas vinculados ou citados ficam pendentes e não geraram registros. Nada acima da nº 34 foi provado inexistente. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Capturas e scripts ficam privados. Sobre a main `12d4142ad68856457cb13215b91137cab44709e0`, com 36.922 registros em 144 órgãos, o lote soma 34 registros e um órgão: 36.956 registros em 145 órgãos. As nove lacunas do catálogo inicial do BNP permanecem. A cobertura nacional continua parcial.
