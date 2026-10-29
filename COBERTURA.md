@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.427 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.509 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — I Jornada de Direito Notarial e Registral](https://www.cjf.jus.br/enunciados/) | 82 | 82 | 0 |
 | [CJF — I Jornada de Direito do Patrimônio Cultural e Natural](https://www.cjf.jus.br/enunciados/) | 46 | 46 | 0 |
 | [CJF — I Jornada de Direito Processual Civil](https://www.cjf.jus.br/enunciados/) | 107 | 107 | 0 |
 | [CJF — II Jornada de Direito Comercial](https://www.cjf.jus.br/enunciados/) | 24 | 24 | 0 |
@@ -990,7 +991,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 949 | Consulta de Enunciados — Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 1.031 | Consulta de Enunciados — Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2154,6 +2155,14 @@ Mantidos “Justificativa:” na nº 2, “no artigo do art.” na nº 4, “pod
 
 Delta sobre a main `1e959025` (39.222 registros em 164 órgãos; CJF 744): 40 registros e nenhum órgão novo, totalizando 39.262 registros em 164 órgãos e CJF 784. A III Jornada Comercial (34) e a Jornada de Seguridade (53, PR #115) permanecem fora desta conta; a base inclui a IV Processual Civil (38) e a Saúde (47). FONAJE 328 e as 80 transcrições históricas do MPAL permanecem sem IDs novos; as nove lacunas originais do BNP continuam. Apenas Markdown público; capturas e scripts privados.
 
+## CJF — I Jornada de Direito Notarial e Registral
+
+82 enunciados da I Jornada de Direito Notarial e Registral, números 1–82, da consulta oficial do CJF (https://www.cjf.jus.br/enunciados/), filtro `jornada.id=321`. As 164 capturas das fichas retornaram HTTP 200; bytes e SHA-256 recalculados e campos pareados coincidentes. Corpos e metadados lidos, com os 82 corpos iguais às duas pesquisas. Justificativa, Notas e redação anterior vazias. Sem PDF/OCR.
+
+Preservadas a referência “Lei n. 13.079/2018 (LGPD)” no enunciado 46, distinta da Lei n. 13.709/2018 no metadado, e as palavras-chave “EXPANSAÃO TERRITORIAL”, “PROVA DUCUMENTAL”, “IMPENHORABILIDAE DE BENS” e “INDISPONIBLIDADE DOS BENS”. As redações 52 e 74 ficam separadas sem harmonização. Matrícula refere-se a imóvel, sem número pessoal. Nomes e cargos atribuídos à ficha, sem afirmar titularidade atual. Sem inferência de vigência, vinculação ou exaustividade; atos e julgados citados não receberam IDs.
+
+Delta sobre `81cd415d`: 82 registros, nenhum órgão; projeção de 39.475 registros em 164 órgãos, CJF 997. A Jornada Penal já consta na base integrada; Patrimônio já está incluído na base; III Comercial permanece fora desta conta. FONAJE 328 e as 80 transcrições históricas MPAL sem novos IDs preservados, assim como as nove lacunas originais do BNP. Outras publicações continuam pendentes. Somente Markdown público; capturas e recibos privados.
+
 
 ## CJF — I Jornada de Direito do Patrimônio Cultural e Natural
 
@@ -2173,4 +2182,4 @@ Delta sobre `c769edd8` (39.315 registros em 164 órgãos; CJF 837): 32 registros
 
 34 enunciados, números 82–115, publicados em série própria com identificadores baseados na jornada e no número oficial. Os cartões das duas páginas da pesquisa `jornada.id=181` e as 34 fichas foram conferidos diretamente; todos os pares de fichas responderam HTTP 200. Os campos, enunciados e justificativas coincidem entre as capturas. Tamanhos e SHA-256 foram recalculados a partir dos HTMLs; os 34 pares diferem em bytes. Foram lidos os campos de enunciado, justificativa, redação anterior, comissão, coordenações, referências legislativas e palavras de resgate. Redação anterior vazia; as fichas consultadas não apresentam seção separada de notas ou histórico. Não se infere vigência, efeito vinculante ou exaustividade.
 
-Delta sobre a main `81cd415d` (39.393 registros em 164 órgãos; CJF 915): 34 registros e nenhum órgão adicional, totalizando 39.427 registros em 164 órgãos e CJF 949. Os demais lotes já integrados permanecem preservados e contados uma vez. O PR #118, da I Jornada Notarial (82), continua aberto e não entra nesta conta. As nove lacunas iniciais do BNP permanecem. PDFs, atas e atos apenas citados não foram consultados; normas não foram atualizadas. Capturas e recibos ficam privados; somente Markdown público.
+Delta sobre a main `9208776a` (39.475 registros em 164 órgãos; CJF 997): 34 registros e nenhum órgão adicional, totalizando 39.509 registros em 164 órgãos e CJF 1.031. Os demais lotes já integrados permanecem preservados e contados uma vez. O PR #118, da I Jornada Notarial (82), já está incluído na base. As nove lacunas iniciais do BNP permanecem. PDFs, atas e atos apenas citados não foram consultados; normas não foram atualizadas. Capturas e recibos ficam privados; somente Markdown público.

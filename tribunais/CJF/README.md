@@ -1,6 +1,6 @@
 # CJF
 
-Conselho da Justiça Federal. **949 registros.**
+Conselho da Justiça Federal. **1.031 registros.**
 
 Enunciados científicos de jornadas publicados no sistema oficial do CJF, com identidade por jornada. Não se confundem com súmulas/temas da TNU, enunciados do FONAJEF, atos do CNJ, da ENFAM ou decisões judiciais do STJ. O catálogo pode reunir outras jornadas, ainda pendentes de integração.
 
@@ -8,6 +8,7 @@ Enunciados científicos de jornadas publicados no sistema oficial do CJF, com id
 | --- | ---: |
 | [I Jornada da Justiça Federal pela Equidade Racial](en-equidade-racial/) | 49 |
 | [I Jornada de Direito Tributário](en-tributario-i/) | 12 |
+| [I Jornada de Direito Notarial e Registral](en-notarial-i/) | 82 |
 | [I Jornada de Direito do Patrimônio Cultural e Natural](en-patrimonio-i/) | 46 |
 | [I Jornada de Direito e Processo Penal](en-penal-i/) | 32 |
 | [I Jornada de Direito da Saúde](en-saude-i/) | 47 |
