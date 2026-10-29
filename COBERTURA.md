@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.226 registros únicos de 134 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.259 registros únicos de 135 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CNIC — Enunciados de súmula administrativa](https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/sumulas-da-comissao-nacional-de-incentivo-a-cultura) | 33 | 33 | 0 |
 | [CADE — Súmulas históricas do catálogo](https://www.gov.br/cade/pt-br/acesso-a-informacao/normas-e-legislacao/sumulas) | 6 | 6 | 0 |
 | [ARCE — Controle de Súmulas](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf) | 25 | 25 | 0 |
 | [ANEEL — Súmulas](https://www.gov.br/aneel/pt-br/centrais-de-conteudos/sumulas) | 17 | 17 | 0 |
@@ -893,6 +894,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CNIC](tribunais/CNIC/) | 33 | CNIC / Ministério da Cultura — Enunciados e notas do HTML oficial |
 | [CADE](tribunais/CADE/) | 6 | CADE — PDFs das súmulas históricas nºs 4 a 9 |
 | [ARCE](tribunais/ARCE/) | 25 | ARCE — Controle de Súmulas |
 | [ANEEL](tribunais/ANEEL/) | 17 | ANEEL — Assuntos e notas do catálogo de súmulas |
@@ -952,7 +954,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-ARCE, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ARCE, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1233,3 +1235,13 @@ A nº 4 conserva a referência repetida AC nº 08012.000359/2006-53. As nºs 4 a
 As nºs 1 a 3 não estão nos seis vínculos do catálogo consultado; isso não comprova inexistência. Uma publicação da revista institucional localizada na busca menciona as nºs 2 e 3, mas não foi recuperada nem incorporada. Não houve reconstrução desses enunciados. A presença na série histórica não prova vigência atual nem vinculação jurídica individual. Páginas autônomas do DOU, processos, despachos e demais séries do CADE continuam pendentes. CADE é órgão administrativo próprio, distinto do CARF e dos órgãos judiciais do BNP.
 
 O lote soma seis registros e um órgão sobre a main daa98eff: 36.226 registros em 134 órgãos. As nove lacunas textuais anteriores permanecem, e a cobertura nacional e a do CADE continuam parciais.
+
+## CNIC — enunciados de súmula administrativa
+
+A página oficial do Ministério da Cultura publica 33 enunciados da Comissão Nacional de Incentivo à Cultura, nºs 1 a 33, sem lacuna numérica. Títulos, parágrafos, notas, trechos riscados e vínculos coincidem em duas capturas HTTP 200 em 29/10/2026. Os textos e os riscos foram preservados, normalizando apenas espaços, quebras, recuos e itálicos. O nº 2 tem “excepcionalidade” dividido entre dois spans contíguos, sem espaço entre eles; a palavra foi mantida inteira como no HTML visível. Permanecem “Acordão” no nº 5, “a titulo” no nº 6, “CDS, DVDS” no nº 12 e “infra estrutura” no nº 21.
+
+Todos os nºs 1 a 31 têm nota expressa de revogação na página, com textos históricos preservados. Há sucessões entre enunciados, como 1 e 2 pelo 14, 3 pelo 8, 4 pelo 9, 15 pelo 26 e depois 28, 19 pelo 27 e depois 30, e 21 pelo 31. As notas de excepcionalidade das nºs 2, 12, 14 e 15 permanecem junto dos verbetes. Os nºs 32 e 33 não têm classificação expressa de vigência. A referência do link do nº 32 informa DOU de 28/03/2024, edição 61, Seção 1, página 37; a do nº 33 informa DOU de 08/05/2024, edição 88, Seção 1, página 16. Essas são referências do HTML, não diários lidos neste lote.
+
+Os três parágrafos da nº 32 foram preservados. Na nº 33 foram mantidas as sete ações de acessibilidade, as sete sugestões de temas de oficina e o parágrafo final. Atos e diários vinculados, instruções normativas, portarias, decisões do TCU e demais deliberações apenas citados continuam sem inteiro teor autônomo incorporado e não geraram IDs adicionais. A ausência de outra numeração nesta página não comprova inexistência; a ausência de nota de revogação não comprova vigência nem vinculação individual. CNIC é órgão administrativo próprio e a página não esgota seu acervo.
+
+O lote acrescenta 33 registros e um órgão sobre a main bd776daa: 36.259 registros em 135 órgãos. As nove lacunas textuais anteriores permanecem e a cobertura nacional continua parcial. Capturas e scripts ficam privados.
