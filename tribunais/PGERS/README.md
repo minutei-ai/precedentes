@@ -7,3 +7,5 @@ Esta série reúne as Súmulas de Jurisprudência Administrativa da Comissão Es
 | Espécie | Registros |
 | --- | ---: |
 | [Súmula Administrativa CEAD](sum-cead/) | 15 |
+
+Os nove documentos de reunião vinculados pela página da CEAD têm transcrição das 11 páginas, nos registros correspondentes. Documentos compartilhados por vários enunciados aparecem uma vez, com vínculos internos nos demais registros.
