@@ -1,6 +1,6 @@
 # Cobertura
 
-**38.168 registros únicos de 162 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**38.180 registros únicos de 162 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -14,6 +14,7 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CJF — I Jornada de Direito Tributário](https://www.cjf.jus.br/enunciados/) | 12 | 12 | 0 |
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
@@ -960,7 +961,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
-| [CJF](tribunais/CJF/) | 49 | Consulta de Enunciados — I Jornada da Justiça Federal pela Equidade Racial |
+| [CJF](tribunais/CJF/) | 61 | Consulta de Enunciados — Jornadas de Equidade Racial e Tributário |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2015,3 +2016,10 @@ Delta zero sobre `52b38c2d`: 38.119 registros em 161 órgãos; CNMP 96. Demais p
 Incorporados os 49 enunciados e suas justificativas em série própria `en-equidade-racial`, números 1–49. A pesquisa pública por `jornada.id=521` e as 49 fichas individuais foram capturadas em pares HTTP 200; números, enunciados, justificativas e metadados coincidem em cada par. HTML bruto varia em hash, com tamanho e SHA-256 nas fichas. Foram lidos os 49 corpos e as 49 justificativas, com espaços e quebras normalizados; referências, grafias, notas e URLs literais preservadas. O campo revogado está vazio e não foi tratado como vigência. Sem data de aprovação inferida, sem efeito vinculante ou exaustividade afirmados. Sem PDF/OCR. Não se duplicam espelhos em outros órgãos.
 
 Delta sobre a main `fbdcc4db`: 49 registros e um órgão, totalizando 38.168 registros em 162 órgãos. CNMP 96 e FONAJEF 271 permanecem; as nove lacunas originais do BNP e os dois avisos do MPAL sem enunciado continuam. O PR 99 do MPRN está separado e não entra nesta contagem. As demais jornadas, publicações em PDF e atos apenas citados permanecem pendentes. Capturas e scripts privados; somente Markdown público.
+
+
+## CJF — I Jornada de Direito Tributário
+
+Incorporados os 12 enunciados numerados 1–12 da pesquisa `jornada.id=241`, com as doze fichas individuais capturadas em pares HTTP 200. Textos e metadados coincidem nos pares e com a listagem; todos os corpos foram lidos. Referências legislativas, comissões, coordenação e palavras de resgate foram mantidos em campos próprios. As fichas não exibem justificativa. O campo revogado está vazio e isso não confirma vigência. Não se atribui nome ou titularidade atual ao cargo genérico de Coordenador-Geral publicado na fonte. Sem atualização legislativa, vinculação ou completude inferidas. Sem PDF/OCR; PDFs, atas e outras jornadas continuam pendentes.
+
+Delta sobre `aab75242`: 12 registros e nenhum órgão; 38.180 registros em 162 órgãos, CJF 61 (49 de Equidade Racial e 12 de Tributário). PRs 99/MPRN e 101/MPAL históricos seguem separados e fora desta conta. As nove lacunas originais do BNP e os avisos MPAL sem enunciado permanecem. Capturas e scripts privados, apenas Markdown público.
