@@ -14,3 +14,7 @@ Merece homologação, a promoção de arquivamento do inquérito civil ou do pro
 ## Conferência e limites
 
 Texto transcrito do conteúdo HTML apresentado pelo catálogo oficial. Espaços e quebras foram normalizados; conteúdo e pontuação foram mantidos. Nos enunciados 01 a 03, o catálogo concatena justificativa e trecho de voto da sessão após o texto do verbete; essas passagens foram mantidas fora do registro do enunciado. A página não informa situação atual, que não foi inferida.
+
+## Ata de aprovação e documento comum
+
+O [item 3.3.27 da ata de 06/12/2019](README.md#documento-comum-de-aprovação-em-06122019) está transcrito uma única vez no índice da série, com relatório, quatro minutas, justificativas, votos e aprovação. A ata deixa o número de cada minuta em branco; ele não foi preenchido na transcrição. O texto do catálogo acima foi preservado. A aprovação histórica não confirma vigência atual.
