@@ -9,7 +9,7 @@ O catálogo do Conselho Superior publica suas séries de súmulas e enunciados e
 | [Súmulas do Conselho Superior](sum-csmp/) | 12 |
 | [Enunciados do Conselho Superior](en-csmp/) | 4 |
 
-O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. A deliberação e as cinco redações finais da página 9 da ata de 30/04/2021, o item 5.2 da ata de 01/08/2025 e o item 3.3.27 da ata de 06/12/2019 foram incorporados; as demais passagens das atas e atos deliberativos vinculados permanecem pendentes.
+O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. O item 3.2 da ata de 30/04/2021 (páginas 3–9), o item 5.2 da ata de 01/08/2025 e o item 3.3.27 da ata de 06/12/2019 foram incorporados; as demais passagens das atas e atos deliberativos vinculados permanecem pendentes.
 
 ## Capturas e consistência
 
@@ -56,7 +56,7 @@ Na [página física 9 da ata da 4ª sessão extraordinária](<https://www.mppi.m
 
 As cinco redações completas dos quadros seguintes estão nas mesmas identidades das [súmulas 04](sum-csmp/mppi-sum-csmp-4.md), [05](sum-csmp/mppi-sum-csmp-5.md), [06](sum-csmp/mppi-sum-csmp-6.md), [07](sum-csmp/mppi-sum-csmp-7.md) e [08](sum-csmp/mppi-sum-csmp-8.md). A página não numera os quadros; seus corpos e os vínculos do catálogo sustentam a associação. A repetição de “à unanimidade” foi mantida. A nº 08 termina em “2.000 UFR.”, como a página do CACOP.
 
-As duas capturas do PDF têm 215.992 bytes e SHA-256 `392df13e5260921f8b3dc2a09d9272d51e5e0498b13bc0b84a983e4c91bfa2e7`. O arquivo tem 33 páginas; este complemento publica somente a deliberação e os cinco quadros finais da página 9, conferidos visualmente. Não publica o trecho de fundamentação que começa antes dessa deliberação, as propostas anteriores, o restante da sessão nem o diário. As demais passagens continuam pendentes. Não houve OCR. Nenhum registro novo ou vigência atual foi inferido.
+As duas capturas do PDF têm 215.992 bytes e SHA-256 `392df13e5260921f8b3dc2a09d9272d51e5e0498b13bc0b84a983e4c91bfa2e7`. O arquivo tem 33 páginas. A deliberação e os cinco quadros finais da página 9 foram conferidos visualmente. O relatório, as propostas e os fundamentos das páginas 3–9 também estão no documento comum do índice da série. O restante da ata e o diário continuam pendentes. Não houve OCR. Nenhum registro novo ou vigência atual foi inferido.
 
 ## Revisão da Súmula 12 em 01/08/2025
 
@@ -67,3 +67,7 @@ Os dois PDFs têm 356.124 bytes e SHA-256 `d3f420589c0d4b52863618634e754d346dbdc
 ## Documento comum dos enunciados de 2019
 
 O [índice da série](en-csmp/README.md#documento-comum-de-aprovação-em-06122019) publica uma vez o item 3.3.27 da ata de 06/12/2019, das páginas físicas 27–30: relatório, quatro minutas, justificativas, votos e aprovação. Foram lidas as quatro imagens; a camada textual serviu de apoio. Os números das minutas permanecem em branco. Os quatro registros do catálogo e seus textos anteriores permanecem intactos, com remissões ao documento comum. O restante da ata de 100 páginas, as exposições autônomas e os casos apenas citados não foram incorporados. Não houve OCR nem identidade nova.
+
+## Fundamentos e propostas das súmulas 04–08
+
+O [documento comum da série](sum-csmp/README.md#documento-comum-sumulas-04-08) reproduz o item 3.2 completo da ata de 30/04/2021, páginas físicas 3–9, com relatório, cinco propostas, fundamentos e deliberação final. Sete páginas foram lidas na imagem e confrontadas com a camada textual. A proposta inicial usa “UFIR” e o voto e a versão final usam “UFR”; propostas e redações aprovadas foram preservadas sem fusão. As cinco identidades e os textos anteriores continuam intactos. As outras 26 páginas e o diário não foram incorporados.
