@@ -13,4 +13,4 @@ ARQUIVAMENTO. LESÃO AO BEM JURÍDICO MANIFESTAMENTE INSIGNIFICANTE (ART. 4°, I
 
 ## Conferência e limites
 
-Texto transcrito do conteúdo HTML apresentado pelo catálogo oficial. Espaços e quebras foram normalizados; conteúdo e pontuação foram mantidos. O catálogo não informa situação para este registro.
+Texto transcrito do conteúdo HTML apresentado pelo catálogo oficial. Espaços e quebras foram normalizados; conteúdo e pontuação foram mantidos. A página termina o texto do verbete em “2.000 UFR”; o complemento não está publicado nesse HTML e não foi reconstruído a partir do documento vinculado, que não foi lido. O catálogo não informa situação para este registro.

@@ -9,7 +9,7 @@ O catálogo do Conselho Superior publica suas séries de súmulas e enunciados e
 | [Súmulas do Conselho Superior](sum-csmp/) | 12 |
 | [Enunciados do Conselho Superior](en-csmp/) | 4 |
 
-O Regimento Interno do CSMP, aprovado pela [Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), é citado como contexto institucional: prevê séries separadas de assentos, enunciados e súmulas. O regimento e as atas são documentos normativos ou deliberativos, não registros destas séries.
+O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. Atas e atos deliberativos vinculados também permanecem pendentes.
 
 ## Capturas e consistência
 
@@ -20,7 +20,7 @@ Os catálogos foram capturados duas vezes em 29/10/2026. Ambas as respostas de c
 | [Súmulas](https://www.mppi.mp.br/internet/conselho-superior/sumulas/) | 119.095 | `253421dd19d65e1f82c00766ff2202893224c20057f4d046c38bb7674261693f` | `877e2a005187e53eddbd5a6d7fa4ec66bb8fa515e5cb952d76645e9939844d10` | `9bbd3f2a7621d1015d1608bb5436c27331729699fcd32fe60498a1c793985ab5` |
 | [Enunciados](https://www.mppi.mp.br/internet/conselho-superior/enunciados/) | 109.231 | `cc6a9d8ca11265f75a38e8be159a30c41fb3b6319962e3a2d26784c2e74363ee` | `a202ac46fc55fdda9ae289ddb46611d28c6f80635a357c85c70afe39a364d65b` | `4df6bddbdc6cd6f4551e9b4cdcde36a8cbff5fd62f1fb9195c18b2cb5149d2ce` |
 
-O conteúdo dos verbetes foi transcrito do HTML publicado nos catálogos. Nos enunciados 01 a 03, a página concatena justificativas e trechos de voto da sessão após o texto do verbete; essas passagens não foram tratadas como parte do enunciado. Nenhuma redação foi extraída de PDF ou reconstruída a partir de citação.
+O conteúdo dos verbetes foi transcrito do HTML publicado nos catálogos. Nos enunciados 01 a 03, a página concatena justificativas e trechos de voto da sessão após o texto do verbete; essas passagens permanecem pendentes e não foram tratadas como parte do enunciado. Nenhuma redação foi extraída de PDF ou reconstruída a partir de citação. O HTML da Súmula 08 termina em “2.000 UFR”; o restante não foi completado a partir do documento vinculado, que não foi lido.
 
 Os 11 endereços de documentos “Download” exibidos nos catálogos também foram capturados duas vezes; cada par retornou HTTP 200, com tamanho e SHA-256 coincidentes. As cinco URLs vinculadas às súmulas 04 a 08 retornaram os mesmos 215.992 bytes e o mesmo SHA-256, portanto não foram tratados como cinco documentos textualmente independentes.
 
