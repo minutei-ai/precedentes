@@ -1,13 +1,15 @@
 # Cobertura
 
-**36.022 registros únicos de 126 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.107 registros únicos de 127 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+10 registros ainda não trazem conteúdo nos campos textuais disponíveis. Dos 12 registros originalmente sem texto, os temas 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CGE/MG — Súmulas Administrativas no portal do Conrege](https://www.conrege.mg.gov.br/legislacoes/sumulas-administrativas) | 15 | 15 | 0 |
+| [TRF6 — Enunciados das Turmas Recursais Reunidas](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/jurisprudencia-4/) | 70 | 70 | 0 |
 | [PGE/RS — Súmulas Administrativas CEAD](https://pge.rs.gov.br/sumulas-jurisprudencia-administrativa-comissao-especial-de-advocacia-dativa) | 15 | 15 | 0 |
 | [PGE/SP — Súmulas históricas, 2ª edição de 1999](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm) | 23 | 23 | 0 |
 | [TRF1 — Coletânea oficial de súmulas](https://www.trf1.jus.br/trf1/conteudo/Sumula2026.pdf) | 61 | 61 | 0 |
@@ -797,7 +799,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
-| [TRF06](tribunais/TRF06/) | 22 | 22 | 22 |
+| [TRF06](tribunais/TRF06/) | 92 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
 | [TJAL](tribunais/TJAL/) | 14 | 4 | 4 |
 | [TJAP](tribunais/TJAP/) | 80 | 45 | 45 |
@@ -892,6 +894,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [CGEMG](tribunais/CGEMG/) | 15 | CGE/MG — Súmulas Administrativas publicadas no Conrege |
 | [PGERS](tribunais/PGERS/) | 15 | PGE/RS — Súmulas de Jurisprudência Administrativa CEAD |
 | [PGESP](tribunais/PGESP/) | 23 | PGE/SP — Súmulas históricas, 2ª edição de 1999, Série Documentos n. 18 |
 | [CCMG](tribunais/CCMG/) | 7 | CCMG — Súmulas do catálogo oficial |
@@ -935,7 +938,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1058,6 +1061,7 @@ A página institucional de pesquisa de súmulas indica o caderno `Sumula2026.pdf
 As notas expressas de cancelamento das nºs 5, 13, 15, 21, 29, 38, 39 e 48 foram preservadas junto às redações históricas. A nº 11 traz “Cancelada/Revisada” e informa a origem da nº 23; ambas mantêm registros próprios. A nº 28 informa revisão da nº 16, cujo texto histórico continua na coletânea. A nº 5 informa republicação por revisão da nota de rodapé e a nº 43 informa republicação. Não houve classificação de vigência por ausência de nota nos demais números. O texto não está riscado nessa edição, inclusive nos cancelados, e não foi acrescentado risco editorial. Os asteriscos originais das notas continuam visíveis.
 
 As nºs 60 e 61 referem processos e publicação PJe de 20/08/2026. A data técnica de criação do PDF, 26/08/2026, e o ano no nome do arquivo não foram usados como data jurídica dos demais verbetes. Referências, grafias e pontuação foram preservadas, inclusive “Seção Plenária”, “freqüência”, os campos “PAG.” sem número, o processo repetido da nº 2, os dois identificadores consecutivos na nº 50 e as aspas e o espaçamento do trecho “ex officio” da nº 48. Apenas espaços e quebras de linha foram normalizados, mantendo hífens e barras nos identificadores. Diários, processos e legislação citados permanecem sem inteiro teor incorporado. O lote não esgota as demais séries nem atos posteriores do TRF1.
+
 ## PGE/SP — súmulas históricas da edição de 1999
 
 A Procuradoria-Geral do Estado de São Paulo entra como órgão próprio (PGESP). Não é o TJSP nem o TIT/SP. A fonte é a coletânea pública [Súmulas da Procuradoria Geral do Estado e pareceres referidos](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm), 2ª edição revisada e atualizada, de 1999, Série Documentos n. 18, do Centro de Estudos. A [abertura](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/abre.htm) identifica essa edição e o ano de 1999. A [apresentação](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/apresentacao.htm), de maio de 1999, assinada por Marcio Sotelo Felippe, Procurador Geral do Estado, diz que os agentes da Administração estadual com atribuição de decidir e de orientar estavam legalmente vinculados aos comandos daquelas súmulas. Essa frase foi reproduzida como texto da apresentação. Ela não foi convertida em classificação atual nem em vínculo posterior.
@@ -1079,3 +1083,33 @@ A página oficial da Comissão Especial de Advocacia Dativa publica 15 enunciado
 Duas capturas HTTP 200 de 29/10/2026 têm 67.012 bytes cada. Os hashes do HTML bruto diferem, mas o conteúdo visível da área do artigo e todos os enunciados e vínculos coincidem. Foram normalizados apenas espaços e quebras de linha. O ano de cada identidade vem do título, sem converter datas de upload ou datas dos documentos vinculados em data jurídica do enunciado. Não há nota expressa de cancelamento ou revisão nesses verbetes; a ausência não confirma vigência atual. As notas de voto vencido das nºs 001, 002, 012, 013 e 015 permanecem no texto. A nº 010 conserva o endereço institucional de secretaria publicado no enunciado. A menção a CPF na nº 005 é texto normativo, sem número pessoal.
 
 Os vínculos para súmulas de reunião foram preservados em cada registro, inclusive os três da nº 001. Esses documentos, as resoluções, as tabelas e os processos apenas citados não tiveram inteiro teor incorporado nem geraram registros adicionais. A série não esgota os precedentes da PGE/RS ou da CEAD. O lote acrescenta 15 registros e um órgão: 36.022 registros em 126 órgãos, sobre a main 206a8fa5 com a PGE/SP histórica.
+
+## TRF6 — enunciados das Turmas Recursais reunidas
+
+Em 29/10/2026, a página [Jurisprudência](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/jurisprudencia-4/) e a página [Legislação](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/regimento-interno-jefs/) responderam HTTP 200. A primeira chama o vínculo de “Enunciados das Turmas Recursais Reunidas” e diz que os enunciados vigentes aprovados pelas Turmas Recursais reunidas estão no botão correspondente. A segunda rotula o mesmo caderno como “Súmulas: Enunciados unificados das Turmas Recursais - JEF da 6a. Região”. Os dois endereços de PDF, com e sem o sufixo `-1`, entregam os mesmos bytes: 292.358 bytes, SHA-256 `0594e36e0f1c8c86abdf49e11672e53d85b08e4d123056be3866cd08dd6a3f4c`, cinco páginas A4 com texto selecionável. Duas leituras de cada endereço coincidiram. A data técnica de criação do arquivo é 16/04/2026. A página de jurisprudência informa publicação em 28/04/2026 e modificação em 30/04/2026; a de legislação informa modificação em 22/04/2026. Essas datas, e a data que aparece no nome do arquivo, não foram usadas como data jurídica dos verbetes.
+
+O título interno é “ENUNCIADOS DAS SÚMULAS DAS TURMAS RECURSAIS DOS JUIZADOS ESPECIAIS FEDERAIS DA 6ª REGIÃO”, marcado como ANEXO I. O caderno não identifica o ato a que o anexo pertence. A série entra como `en-tr`, com identificadores `trf06-en-tr-1` a `trf06-en-tr-70`. O emissor é as Turmas Recursais reunidas dos Juizados Especiais Federais da 6ª Região. Os 70 registros não são súmulas do plenário do TRF6 nem teses da Turma Regional de Uniformização. Nenhum identificador coincide com os 5 IAC e os 17 IRDR já presentes no BNP do TRF6, que permanecem 22 e 22 nas colunas de BNP. Não há, neste caderno, numeração separada por turma; a sequência única 1 a 70 foi preservada, inclusive os cancelados.
+
+As cinco páginas foram conferidas na imagem e na camada textual. Não houve OCR. Hifens de quebra de linha foram reunidos e os espaços de justificação foram reduzidos a um. Foram preservados enunciados, alíneas, notas e a seção “*Enunciados cancelados”. Vinte e cinco números estão cancelados e conservam a redação histórica: 2, 4, 8, 11, 13, 14, 15, 16, 25, 29, 30, 31, 33, 37, 39, 44, 45, 48, 49, 50, 52, 54, 58, 59 e 61. As notas de cancelamento e de alteração estão em vermelho; as de aprovação, em verde. A cor não criou classificação além do texto. A expressão “vigentes” da página de jurisprudência não apagou os cancelados nem foi convertida em vigência dos demais.
+
+Sete números informam redação alterada e não trazem a redação anterior: 32, 41, 42 e 56 em 02.04.2018; 51 e 60 em 10.12.2025; 53 em 15.04.2026. A redação anterior não foi reconstruída. Nove números trazem nota de aprovação: 62 e 63 em 10.12.2025 e 64 a 70 em 15.04.2026. Os outros 29 não têm nota de cancelamento, alteração ou aprovação. Essa ausência não confirma vigência. As datas impressas nas notas permanecem como estão, inclusive a barra em 10/12/2025 nas nºs 16 e 33 e o ponto nas demais.
+
+Grafias e falhas de fechamento foram mantidas. A nº 2 não fecha o parêntese da nota de cancelamento. A nº 19 tem espaço antes do ponto final. A nº 22 traz “aplica se”, sem hífen. A nº 25 traz “parágrafoúnico”. A nº 44, na seção de cancelados, usa “44.” e “2.225 -45”, e não termina com ponto. A nº 57 não tem ponto final. A nota da nº 59 é “*.(Cancelado em 10.12.2025)”; o texto cancelado começa em “59-” e termina em “1988..”. Também foram mantidas “art. 1º -F”, “art.29-C”, “art. 24- A”, “boa- fé”, “421 -STJ” e “Procuradoria -Geral”. A referência “AgREsp 910081/SP – STJ” da nº 8, o Tema 629 da nº 69 e as súmulas 421 do STJ e 689 do STF citadas nas nºs 58 e 59 permanecem nos verbetes e não geraram registros.
+
+A página [Teses, Súmulas e Representativos](https://portal.trf6.jus.br/juizados-especiais-federais-inicio/turma-regional-de-uniformizacao-2/teses-e-representativos/) publica teses e representativo da Turma Regional de Uniformização. Essa série não foi incorporada. A página [Atos Normativos - TR](https://portal.trf6.jus.br/atos-normativos-tr/) reúne portarias e regimentos de organização das turmas; esses atos não foram lidos como enunciados. Atas, diários e o ato principal do ANEXO I continuam pendentes. O lote não esgota as demais séries do TRF6. O lote acrescenta 70 registros e nenhum órgão. Com a main d91038a3, que já reúne a PGE/SP histórica e as 15 súmulas CEAD da PGE/RS, o acervo passa a 36.092 registros de 126 órgãos.
+
+## STF — recuperação dos temas 1493 e 1494
+
+As páginas oficiais de acompanhamento dos temas 1493 e 1494 publicam título e descrição que não estavam nos campos da coleta anterior do BNP. Esses textos e os respectivos Leading Cases foram incorporados nos registros existentes `stf-rg-1493` e `stf-rg-1494`. As duas páginas informam, em 24/10/2026, decisão pela existência de repercussão geral no Plenário Virtual - RG; o texto integral da observação desse andamento foi preservado. A admissão da repercussão geral não foi apresentada como tese de mérito. Os metadados e as datas anteriores do BNP permanecem atribuídos ao BNP.
+
+Os campos coincidem em duas leituras integrais pela ferramenta web em 29/10/2026. A captura HTTP direta retornou 400, portanto a evidência privada contém as leituras textuais e os campos conciliados, não um par de HTML bruto validado. Os PDFs das decisões e o inteiro teor dos processos permanecem pendentes. O lote não relê os demais temas do STF. Não cria registros: o total permanece 36.092 em 126 órgãos, e os registros ainda sem texto passam de 12 para 10. As lacunas do tema 1491, dos oito IRDR do TJAM e do IRDR 34 do TJRJ continuam.
+
+## CGE/MG — Súmulas Administrativas no portal do Conrege
+
+A página oficial publica 15 súmulas da Controladoria-Geral do Estado de Minas Gerais, sob a identificação CGE: números 1 a 11, 21 a 23 e 27. Foram incorporados os títulos, as áreas de concentração, os enunciados, os rótulos de publicação no Diário do Executivo e todas as referências presentes em cada bloco. Os números 12 a 20 e 24 a 26 não aparecem nessa página; isso não comprova inexistência ou cancelamento dos atos. Não foram criados registros vazios para completar a sequência. CGEMG é órgão próprio, distinto da CGU, AGE/MG, TCEMG e TJMG.
+
+Duas leituras integrais pela ferramenta web, em 29/10/2026, repetem os mesmos campos dos 15 blocos. O acesso HTTP direto retornou 403 nas tentativas preservadas; a evidência privada contém as leituras textuais e a conciliação, não um par de HTML bruto validado. Não houve OCR ou PDF neste lote. Os diários indicados, os pareceres, as notas jurídicas e os demais atos referidos não tiveram inteiro teor incorporado nem geraram registros adicionais. Datas do diário são as informadas pela página; nenhuma nota foi convertida em confirmação de vigência atual ou efeito vinculante.
+
+As nºs 5 e 8 mantêm identidades próprias, texto repetido e datas distintas de publicação. A repetição da referência ao inciso XXXIII do art. 216 permanece em ambas. O título da nº 10 mantém “ADMINSITRATIVO”; a nº 9 mantém “30/11//2020”. A nº 4 conserva o ponto isolado depois das referências. A nº 27 mantém os dois parágrafos publicados: um sobre acúmulo de cargos e EC nº 138/2025, outro igual ao texto da nº 23 sobre assédio moral. Essa justaposição foi preservada, sem atribuir correção, cancelamento ou nova redação à fonte. A data de publicação indicada para a nº 27 é 20/06/2026, página 8.
+
+O lote acrescenta 15 registros e um órgão sobre a main 6c33f6ed: 36.107 registros em 127 órgãos. A série do portal não esgota o acervo da CGE/MG nem esclarece as lacunas na numeração.
