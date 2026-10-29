@@ -30,7 +30,7 @@ O enunciado é uma célula só, com duas orações. A segunda trata da cobrança
 
 A ficha informa publicação em 13/10/2020 13h59 e última modificação em 19/03/2024 12h57. Essas datas são da página. A página não descreve o que mudou em 19/03/2024.
 
-A grafia “Lei n o 11.182” é a da ficha, com espaço e sem sinal ordinal. No ato, o ordinal é impresso.
+A grafia “Lei n o 11.182” é a da ficha, com espaço e sem sinal ordinal. No preâmbulo do ato, o ordinal é impresso. No anexo, a camada textual traz a letra o.
 
 ## Resolução nº 589, de 30 de setembro de 2020
 
@@ -60,7 +60,7 @@ Documento assinado eletronicamente por Juliano Alcântara Noman, Diretor-Preside
 
 ANEXO À RESOLUÇÃO Nº 589, DE 30 DE SETEMBRO DE 2020.
 
-SÚMULA ADMINISTRATIVA ANAC Nº 003/2020.
+SÚMULA ADMINISTRATIVA ANAC No 003/2020.
 
 ENUNCIADO:
 
@@ -76,7 +76,7 @@ Decisão da Superintendência de Infraestrutura Aeroportuária (SEI! 3517885), d
 
 BASE LEGAL:
 
-Art. 29 e Anexo III da Lei nº 11.182, de 27 de setembro de 2005.
+Art. 29 e Anexo III da Lei no 11.182, de 27 de setembro de 2005.
 
 REFERÊNCIA PROCESSUAL:
 
@@ -94,7 +94,7 @@ A página da resolução no acervo normativo informa publicação em 02/10/2020 
 - O HTML não traz o bloco de assinatura eletrônica, a data 30/09/2020 às 18:39 nem o cabeçalho “01/10/2020”.
 - O HTML fecha com “Publicado no Diário Oficial da União de 2 de outubro de 2020, Seção 1, página 70”. Essa linha não está no PDF.
 - No HTML, o título é “Resolução nº 589, DE 30 de setembro de 2020.” O PDF usa “RESOLUÇÃO Nº 589, DE 30 DE SETEMBRO DE 2020”.
-- No anexo HTML, “Nº” e “Lei nº” usam a letra o sobrescrita. No preâmbulo HTML, “nº” é o caractere ordinal. A ficha escreve “Lei n o”.
+- No anexo do PDF, a camada textual traz “No” e “Lei no”, com a letra o e sem o caractere ordinal. Na imagem, esse o aparece elevado. O preâmbulo, o título da resolução, o cabeçalho do anexo e o art. 1º usam o ordinal. No anexo HTML, “N” e “Lei n” trazem a letra o sobrescrita. No preâmbulo HTML, “nº” é o caractere ordinal. A ficha escreve “Lei n o”, com espaço.
 
 O enunciado do anexo HTML coincide com o do PDF, do catálogo e da ficha, inclusive a aspa de abertura curva e a aspa de fechamento reta em “CIVIL"”, “SEI! 3517885” e as duas orações. No art. 1º, o nome da TFAC está entre aspas curvas, com inicial maiúscula e o restante em minúsculas, diferente do enunciado em maiúsculas.
 

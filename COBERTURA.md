@@ -1,6 +1,6 @@
 # Cobertura
 
-**36.223 registros únicos de 134 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**36.270 registros únicos de 137 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -9,6 +9,9 @@
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
+| [CMRI — Súmulas dos catálogos de vigentes e revogados](https://www.gov.br/casacivil/pt-br/assuntos/colegiados/comissao-mista-de-reavaliacao-de-informacoes-cmri/normativos-vigentes) | 8 | 8 | 0 |
+| [CNIC — Enunciados de súmula administrativa](https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/sumulas-da-comissao-nacional-de-incentivo-a-cultura) | 33 | 33 | 0 |
+| [CADE — Súmulas históricas do catálogo](https://www.gov.br/cade/pt-br/acesso-a-informacao/normas-e-legislacao/sumulas) | 6 | 6 | 0 |
 | [ARCE — Controle de Súmulas](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf) | 25 | 25 | 0 |
 | [ANEEL — Súmulas](https://www.gov.br/aneel/pt-br/centrais-de-conteudos/sumulas) | 17 | 17 | 0 |
 | [PGE/AP — Súmulas Administrativas](https://pge.portal.ap.gov.br/conteudo/legislacao/sumulas) | 18 | 18 | 0 |
@@ -894,6 +897,9 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [ANAC](tribunais/ANAC/) | 3 | ANAC — Súmulas administrativas, fichas e atos de aprovação |
+| [CMRI](tribunais/CMRI/) | 8 | CMRI — Nove PDFs oficiais, com histórico da nº 3 |
+| [CNIC](tribunais/CNIC/) | 33 | CNIC / Ministério da Cultura — Enunciados e notas do HTML oficial |
+| [CADE](tribunais/CADE/) | 6 | CADE — PDFs das súmulas históricas nºs 4 a 9 |
 | [ARCE](tribunais/ARCE/) | 25 | ARCE — Controle de Súmulas |
 | [ANEEL](tribunais/ANEEL/) | 17 | ANEEL — Assuntos e notas do catálogo de súmulas |
 | [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
@@ -952,7 +958,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-ANAC, ARCE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1224,6 +1230,38 @@ A página informa publicação em 27/01/2022 e modificação em 02/03/2026. Essa
 
 Os 17 PDFs de portarias vinculados no catálogo, as quatro portarias originais apenas mencionadas nas notas, os processos e normas citados e o conteúdo da plataforma Leis.org indicada pelo órgão permanecem sem inteiro teor incorporado neste lote. O texto publicado é o assunto do catálogo, não a transcrição desses documentos. A ausência de outro número na página não comprova inexistência. Sobre a main 9daaa3bf, o lote soma 17 registros e um órgão: 36.195 registros em 132 órgãos. As nove lacunas textuais anteriores permanecem. A cobertura nacional e o acervo da Agência continuam parciais.
 
+## CADE — súmulas históricas nºs 4 a 9
+
+O catálogo oficial publica seis vínculos, nºs 4 a 9, sob o título “Súmulas aprovadas durante a vigência da Lei nº 8.884/94”. Duas capturas de 29/10/2026 repetem os seis títulos e vínculos. Os redirecionamentos foram conciliados com seis PDFs do CDN oficial, recuperados por HTTPS com TLS validado. Cada PDF tem uma página; os seis pares de capturas coincidem em bytes e SHA-256. O corpo desde o título, com preâmbulo, enunciado, referências e fecho, foi incorporado e conferido nas seis imagens. A nº 4 é digitalizada e foi transcrita visualmente, sem OCR; as nºs 5 a 9 usam a camada textual conferida. Capturas, imagens e scripts permanecem privados.
+
+A nº 4 conserva a referência repetida AC nº 08012.000359/2006-53. As nºs 4 a 7 são datadas de 09/12/2009; o catálogo apresenta essa data como publicação. Os cabeçalhos dos PDFs das nºs 5 a 7 informam DOU de 14/12/2009, nº 238, Seção 1, página 51. As informações foram preservadas com atribuição, sem unificação. As nºs 8 e 9 são datadas de 03/11/2010 e conservam as referências, endereço e telefones institucionais impressos. Despachos e processos apenas citados não viraram registros.
+
+As nºs 1 a 3 não estão nos seis vínculos do catálogo consultado; isso não comprova inexistência. Uma publicação da revista institucional localizada na busca menciona as nºs 2 e 3, mas não foi recuperada nem incorporada. Não houve reconstrução desses enunciados. A presença na série histórica não prova vigência atual nem vinculação jurídica individual. Páginas autônomas do DOU, processos, despachos e demais séries do CADE continuam pendentes. CADE é órgão administrativo próprio, distinto do CARF e dos órgãos judiciais do BNP.
+
+O lote soma seis registros e um órgão sobre a main daa98eff: 36.226 registros em 134 órgãos. As nove lacunas textuais anteriores permanecem, e a cobertura nacional e a do CADE continuam parciais.
+
+## CNIC — enunciados de súmula administrativa
+
+A página oficial do Ministério da Cultura publica 33 enunciados da Comissão Nacional de Incentivo à Cultura, nºs 1 a 33, sem lacuna numérica. Títulos, parágrafos, notas, trechos riscados e vínculos coincidem em duas capturas HTTP 200 em 29/10/2026. Os textos e os riscos foram preservados, normalizando apenas espaços, quebras, recuos e itálicos. O nº 2 tem “excepcionalidade” dividido entre dois spans contíguos, sem espaço entre eles; a palavra foi mantida inteira como no HTML visível. Permanecem “Acordão” no nº 5, “a titulo” no nº 6, “CDS, DVDS” no nº 12 e “infra estrutura” no nº 21.
+
+Todos os nºs 1 a 31 têm nota expressa de revogação na página, com textos históricos preservados. Há sucessões entre enunciados, como 1 e 2 pelo 14, 3 pelo 8, 4 pelo 9, 15 pelo 26 e depois 28, 19 pelo 27 e depois 30, e 21 pelo 31. As notas de excepcionalidade das nºs 2, 12, 14 e 15 permanecem junto dos verbetes. Os nºs 32 e 33 não têm classificação expressa de vigência. A referência do link do nº 32 informa DOU de 28/03/2024, edição 61, Seção 1, página 37; a do nº 33 informa DOU de 08/05/2024, edição 88, Seção 1, página 16. Essas são referências do HTML, não diários lidos neste lote.
+
+Os três parágrafos da nº 32 foram preservados. Na nº 33 foram mantidas as sete ações de acessibilidade, as sete sugestões de temas de oficina e o parágrafo final. Atos e diários vinculados, instruções normativas, portarias, decisões do TCU e demais deliberações apenas citados continuam sem inteiro teor autônomo incorporado e não geraram IDs adicionais. A ausência de outra numeração nesta página não comprova inexistência; a ausência de nota de revogação não comprova vigência nem vinculação individual. CNIC é órgão administrativo próprio e a página não esgota seu acervo.
+
+O lote acrescenta 33 registros e um órgão sobre a main bd776daa: 36.259 registros em 135 órgãos. As nove lacunas textuais anteriores permanecem e a cobertura nacional continua parcial. Capturas e scripts ficam privados.
+
+## CMRI — súmulas e histórico
+
+Os catálogos oficiais da Casa Civil, Normativos Vigentes e Normativos Revogados, publicam oito identidades em nove documentos de súmulas: nºs 1 a 7/2015, incluindo duas redações da nº 3, e nº 8/2018. Catálogos e vínculos foram capturados duas vezes em 29/10/2026. Os nove pares de PDFs coincidem em bytes e SHA-256 e somam 12 páginas físicas, todas conferidas visualmente. A nº 3 mantém a redação publicada em 27/01/2015 e a alteração de 15/03/2018 no mesmo ID. A nº 8 está no catálogo de revogados; não foi reconstruído nem datado seu ato de revogação.
+
+As nºs 1 a 6 e a alteração da nº 3 são impressões web da Imprensa Nacional feitas em 22/05/2026. Esse carimbo não foi convertido em data do ato. O aviso de que o conteúdo não substitui a versão certificada foi registrado como limite. Foram preservadas as irregularidades visíveis de palavras unidas ou quebradas, inclusive “seuRegimento”, “dedezembro”, “res postade”, “responsa bilidadeno”, “su periores,independente”, “clas sificadora,cabendo”, “classifi catório”, “for mulaçãode”, “tânciasadministrativas” e “so licitada,o”. As impressões das nºs 1, 2, 4, 5 e 6 não trazem justificativa; ela não foi reconstruída.
+
+A nº 7 está nas páginas 4 a 6 do DOU de 08/06/2015: coluna direita da primeira página, três colunas da segunda e coluna esquerda da terceira até os membros. A nº 8 está na página 3 do DOU de 24/07/2018, da coluna central inferior para a direita superior. Apenas o ato da CMRI foi delimitado; os atos vizinhos ficaram fora. A linha final da coluna central da nº 8 foi transcrita da imagem porque ficou fora do recorte de extração. Justificativas e membros desses atos foram preservados; a citação “Lei nº 12.527/2012” na conclusão da nº 7 é a do impresso. Destaques e sublinhados não foram reproduzidos, e os marcadores de coluna são editoriais.
+
+A classificação de vigentes ou revogados é atribuída aos catálogos, sem concluir autonomamente vigência ou efeito vinculante. Resoluções, decisões, processos e normas apenas citados, justificativas ausentes nas impressões, versão certificada dos atos e demais decisões da Comissão permanecem pendentes e não geraram registros adicionais. CMRI é órgão administrativo próprio de acesso à informação. A cobertura nacional e a da Comissão continuam parciais.
+
+O lote soma oito registros e um órgão sobre a main 35fbd9cd: 36.267 registros em 136 órgãos. As nove lacunas textuais anteriores permanecem. PDFs, imagens, recortes e scripts ficam privados.
+
 ## ANAC — súmulas administrativas
 
 A Agência Nacional de Aviação Civil entra como órgão próprio (ANAC). Não é órgão judicial e não se confunde com a ANEEL, a ANM nem a ANS. O catálogo [Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) informa publicação em 28/06/2019 13h21 e última modificação em 08/09/2022 11h27. Essas datas são da página. A modificação não foi usada como vigência jurídica nem como prova de que o rol esteja exaurido em 2026.
@@ -1234,10 +1272,10 @@ A nº 001/2019 e a nº 002/2019 são aprovadas pela Decisão nº 73, de 24 de ma
 
 O enunciado da nº 003/2020 é uma célula com duas orações. A segunda determina a cobrança retroativa da TFAC nas auditorias dos cinco anos anteriores à Decisão da Superintendência de Infraestrutura Aeroportuária (SEI! 3517885), de 20 de setembro de 2019, sem gravames ou punições. Catálogo, ficha, HTML da resolução e PDF coincidem nesse enunciado, inclusive a aspa de abertura curva e a aspa reta de fechamento. *AVSEC* está em itálico no ato e em tipo comum no catálogo e na ficha. O art. 1º da resolução grafia o nome da taxa com iniciais maiúsculas e aspas curvas, diferente do enunciado em maiúsculas.
 
-A ficha da nº 003/2020 escreve “Lei n o 11.182”, com espaço. O ato escreve o ordinal. O PDF assina Juliano Alcântara Noman como Diretor-Presidente; a página HTML da resolução o identifica como Diretor-Presidente Substituto e acrescenta a linha de publicação no DOU de 2 de outubro de 2020, Seção 1, página 70, que não aparece no PDF. A ficha da nº 003/2020 informa modificação em 19/03/2024 12h57 e não descreve a alteração. O título da Decisão nº 73 conserva a vírgula em “DE 24, DE MAIO”; o anexo da mesma decisão não a tem. O endereço da ficha da nº 002/2019 contém `sumula-administrativa-no-001-2019-1`. Na base legal da nº 002/2019, a Resolução nº 25 vem com “inciso III e IV” e a Resolução nº 472 com “incisos III e IV”. No enunciado da nº 001/2019 permanece o espaço antes da vírgula em “inciso I ,”.
+A ficha da nº 003/2020 escreve “Lei n o 11.182”, com espaço. No PDF, o preâmbulo, o título, o cabeçalho do anexo e o art. 1º usam o caractere ordinal; o título da súmula no anexo e a base legal usam a letra o, elevada na imagem. O anexo HTML traz a mesma letra o sobrescrita. O PDF assina Juliano Alcântara Noman como Diretor-Presidente; a página HTML da resolução o identifica como Diretor-Presidente Substituto e acrescenta a linha de publicação no DOU de 2 de outubro de 2020, Seção 1, página 70, que não aparece no PDF. A ficha da nº 003/2020 informa modificação em 19/03/2024 12h57 e não descreve a alteração. O título da Decisão nº 73 conserva a vírgula em “DE 24, DE MAIO”; o anexo da mesma decisão não a tem. O endereço da ficha da nº 002/2019 contém `sumula-administrativa-no-001-2019-1`. Na base legal da nº 002/2019, a Resolução nº 25 vem com “inciso III e IV” e a Resolução nº 472 com “incisos III e IV”. No enunciado da nº 001/2019 permanece o espaço antes da vírgula em “inciso I ,”.
 
 A busca do portal por “Súmula Administrativa”, em 29/10/2026, devolveu 55 itens. Os únicos atos normativos cujo descritivo é a aprovação destas súmulas são a Decisão nº 73/2019 e a Resolução nº 589/2020. Os demais itens são votos, relatórios, pautas e normas de processo sancionador que contêm a expressão ou tratam de matéria vizinha. A página de legislação em gov.br/anac redireciona ao acervo Plone, cujo menu aponta para o mesmo catálogo. A consulta HTTP à Imprensa Nacional devolveu a página de busca, sem a lista de resultados. O texto do DOU não foi incorporado além do que as fichas e os atos declaram. Nenhuma dessas buscas prova que não exista súmula fora do índice.
 
 Os arts. 2º dizem que os atos entram em vigor na data da publicação. Essa frase não foi convertida em vigência atual nem em efeito vinculante. Não há nota de revogação nas três fichas. A ausência da nota não confirma vigência nem inexistência de ato posterior. Leis, resoluções, o decreto-lei e os processos apenas citados permanecem nos registros e não geraram identificadores. A decisão que aprova as nºs 001/2019 e 002/2019 foi transcrita nos dois registros; isso não criou um terceiro identificador.
 
-O lote acrescenta 3 registros e um órgão. A main daa98eff já reúne as 25 súmulas da ARCE, as 17 da ANEEL e as nove lacunas textuais do TJAM e do TJRJ: 36.220 registros em 133 órgãos. Com este lote o acervo passa a 36.223 registros em 134 órgãos. As nove lacunas anteriores permanecem. A série não esgota o acervo da ANAC e a cobertura nacional continua parcial.
+O lote acrescenta 3 registros e um órgão. A main 61e9e8bb já reúne as oito súmulas da CMRI, os 33 enunciados da CNIC, as seis súmulas históricas do CADE, as 25 da ARCE, as 17 da ANEEL e as nove lacunas textuais do TJAM e do TJRJ: 36.267 registros em 136 órgãos. Com este lote o acervo passa a 36.270 registros em 137 órgãos. As nove lacunas anteriores permanecem. A série não esgota o acervo da ANAC e a cobertura nacional continua parcial.
