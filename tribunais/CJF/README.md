@@ -10,7 +10,6 @@ Enunciados científicos de jornadas publicados no sistema oficial do CJF, com id
 | [I Jornada de Direito Tributário](en-tributario-i/) | 12 |
 | [I Jornada de Direito da Saúde](en-saude-i/) | 47 |
 | [I Jornada de Direito da Seguridade Social](en-seguridade-i/) | 53 |
-
 | [I Jornada de Direito Desportivo](en-desportivo-i/) | 40 |
 | [I Jornada de Direito Administrativo](en-administrativo-i/) | 40 |
 | [I Jornada de Direito Comercial](en-comercial-i/) | 57 |
