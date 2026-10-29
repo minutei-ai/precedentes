@@ -9,7 +9,7 @@ O catálogo do Conselho Superior publica suas séries de súmulas e enunciados e
 | [Súmulas do Conselho Superior](sum-csmp/) | 12 |
 | [Enunciados do Conselho Superior](en-csmp/) | 4 |
 
-O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. A deliberação e as cinco redações finais da página 9 da ata de 30/04/2021 foram incorporadas; as demais passagens das atas e atos deliberativos vinculados permanecem pendentes.
+O [Regimento Interno do CSMP, aprovado pela Resolução CSMP/PI nº 01/2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/03/Resolucao-CSMP-no-01.2025-Regimento-Interno.pdf), aparece como referência institucional. Seu conteúdo não foi lido nem transcrito, e não recebeu identificador. A deliberação e as cinco redações finais da página 9 da ata de 30/04/2021 e o item 5.2 da ata de 01/08/2025 foram incorporados; as demais passagens das atas e atos deliberativos vinculados permanecem pendentes.
 
 ## Capturas e consistência
 
@@ -57,3 +57,9 @@ Na [página física 9 da ata da 4ª sessão extraordinária](<https://www.mppi.m
 As cinco redações completas dos quadros seguintes estão nas mesmas identidades das [súmulas 04](sum-csmp/mppi-sum-csmp-4.md), [05](sum-csmp/mppi-sum-csmp-5.md), [06](sum-csmp/mppi-sum-csmp-6.md), [07](sum-csmp/mppi-sum-csmp-7.md) e [08](sum-csmp/mppi-sum-csmp-8.md). A página não numera os quadros; seus corpos e os vínculos do catálogo sustentam a associação. A repetição de “à unanimidade” foi mantida. A nº 08 termina em “2.000 UFR.”, como a página do CACOP.
 
 As duas capturas do PDF têm 215.992 bytes e SHA-256 `392df13e5260921f8b3dc2a09d9272d51e5e0498b13bc0b84a983e4c91bfa2e7`. O arquivo tem 33 páginas; este complemento publica somente a deliberação e os cinco quadros finais da página 9, conferidos visualmente. Não publica o trecho de fundamentação que começa antes dessa deliberação, as propostas anteriores, o restante da sessão nem o diário. As demais passagens continuam pendentes. Não houve OCR. Nenhum registro novo ou vigência atual foi inferido.
+
+## Revisão da Súmula 12 em 01/08/2025
+
+O item 5.2, nas páginas físicas 77–78 do extrato da ata da 1416ª sessão ordinária, foi incorporado integralmente à [Súmula 12](sum-csmp/mppi-sum-csmp-12.md#revisão-documentada-na-ata-de-01082025). O dispositivo aprova a revisão, enquanto o cabeçalho chama o assunto de proposta de edição. Foram preservados os dois termos e a redação em caixa alta. As duas páginas foram lidas visualmente, sem nova rasterização nem OCR. O título da página 1 e o fecho da página 78 confirmam a data da sessão.
+
+Os dois PDFs têm 356.124 bytes e SHA-256 `d3f420589c0d4b52863618634e754d346dbdc23ad27e9931b52263a71380b7ac`. O arquivo tem 78 páginas; este complemento publica apenas o item 5.2. Os demais itens, a exposição de motivos mencionada e a redação anterior permanecem fora do complemento. Nenhum novo registro ou órgão foi criado, e a aprovação da revisão não confirma vigência atual.
