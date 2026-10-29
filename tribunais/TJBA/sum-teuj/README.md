@@ -1,0 +1,61 @@
+# TJBA · Súmula da Turma de Uniformização de Jurisprudência dos Juizados Especiais
+
+**55 registros.** [Voltar ao tribunal](../)
+
+Caderno oficial: [Súmulas atualizadas da Turma de Uniformização](https://www.tjba.jus.br/juizadosespeciais/wp-content/uploads/2026/06/SUMULAS_ATUALIZADAS_TU.pdf), indicado pelas páginas da [Turma de Uniformização](https://www.tjba.jus.br/juizadosespeciais/turma-de-uniformizacao-de-jurisprudencia/) e do [Consolidado de precedentes](https://www.tjba.jus.br/juizadosespeciais/consolidado-precedentes-jurisprudencia/). O título do PDF é “Súmulas da Turma de Uniformização de Jurisprudência das Turmas Recursais do Poder Judiciário do Estado da Bahia”.
+
+- [SUM-TEUJ 1](tjba-sum-teuj-1.md) — Situação não informada
+- [SUM-TEUJ 2](tjba-sum-teuj-2.md) — Situação não informada
+- [SUM-TEUJ 3](tjba-sum-teuj-3.md) — Revogada
+- [SUM-TEUJ 4](tjba-sum-teuj-4.md) — Situação não informada
+- [SUM-TEUJ 5](tjba-sum-teuj-5.md) — Situação não informada
+- [SUM-TEUJ 6](tjba-sum-teuj-6.md) — Situação não informada
+- [SUM-TEUJ 7](tjba-sum-teuj-7.md) — Situação não informada
+- [SUM-TEUJ 8](tjba-sum-teuj-8.md) — Situação não informada
+- [SUM-TEUJ 9](tjba-sum-teuj-9.md) — Situação não informada
+- [SUM-TEUJ 10](tjba-sum-teuj-10.md) — Situação não informada
+- [SUM-TEUJ 11](tjba-sum-teuj-11.md) — Situação não informada
+- [SUM-TEUJ 12](tjba-sum-teuj-12.md) — Situação não informada
+- [SUM-TEUJ 13](tjba-sum-teuj-13.md) — Situação não informada
+- [SUM-TEUJ 14](tjba-sum-teuj-14.md) — Situação não informada
+- [SUM-TEUJ 15](tjba-sum-teuj-15.md) — Situação não informada
+- [SUM-TEUJ 16](tjba-sum-teuj-16.md) — Situação não informada
+- [SUM-TEUJ 17](tjba-sum-teuj-17.md) — Situação não informada
+- [SUM-TEUJ 18](tjba-sum-teuj-18.md) — Situação não informada
+- [SUM-TEUJ 19](tjba-sum-teuj-19.md) — Situação não informada
+- [SUM-TEUJ 20](tjba-sum-teuj-20.md) — Situação não informada
+- [SUM-TEUJ 21](tjba-sum-teuj-21.md) — Situação não informada
+- [SUM-TEUJ 22](tjba-sum-teuj-22.md) — Revogada
+- [SUM-TEUJ 23](tjba-sum-teuj-23.md) — Situação não informada
+- [SUM-TEUJ 24](tjba-sum-teuj-24.md) — Situação não informada
+- [SUM-TEUJ 25](tjba-sum-teuj-25.md) — Situação não informada
+- [SUM-TEUJ 26](tjba-sum-teuj-26.md) — Situação não informada
+- [SUM-TEUJ 27](tjba-sum-teuj-27.md) — Situação não informada
+- [SUM-TEUJ 28](tjba-sum-teuj-28.md) — Situação não informada
+- [SUM-TEUJ 29](tjba-sum-teuj-29.md) — Situação não informada
+- [SUM-TEUJ 30](tjba-sum-teuj-30.md) — Situação não informada
+- [SUM-TEUJ 31](tjba-sum-teuj-31.md) — Situação não informada
+- [SUM-TEUJ 32](tjba-sum-teuj-32.md) — Situação não informada
+- [SUM-TEUJ 33](tjba-sum-teuj-33.md) — Situação não informada
+- [SUM-TEUJ 34](tjba-sum-teuj-34.md) — Situação não informada
+- [SUM-TEUJ 35](tjba-sum-teuj-35.md) — Situação não informada
+- [SUM-TEUJ 36](tjba-sum-teuj-36.md) — Situação não informada
+- [SUM-TEUJ 37](tjba-sum-teuj-37.md) — Situação não informada
+- [SUM-TEUJ 38](tjba-sum-teuj-38.md) — Situação não informada
+- [SUM-TEUJ 39](tjba-sum-teuj-39.md) — Situação não informada
+- [SUM-TEUJ 40](tjba-sum-teuj-40.md) — Situação não informada
+- [SUM-TEUJ 41](tjba-sum-teuj-41.md) — Situação não informada
+- [SUM-TEUJ 42](tjba-sum-teuj-42.md) — Situação não informada
+- [SUM-TEUJ 43](tjba-sum-teuj-43.md) — Situação não informada
+- [SUM-TEUJ 44](tjba-sum-teuj-44.md) — Situação não informada
+- [SUM-TEUJ 45](tjba-sum-teuj-45.md) — Alterada
+- [SUM-TEUJ 46](tjba-sum-teuj-46.md) — Situação não informada
+- [SUM-TEUJ 47](tjba-sum-teuj-47.md) — Situação não informada
+- [SUM-TEUJ 48](tjba-sum-teuj-48.md) — Situação não informada
+- [SUM-TEUJ 49](tjba-sum-teuj-49.md) — Situação não informada
+- [SUM-TEUJ 50](tjba-sum-teuj-50.md) — Situação não informada
+- [SUM-TEUJ 51](tjba-sum-teuj-51.md) — Situação não informada
+- [SUM-TEUJ 52](tjba-sum-teuj-52.md) — Situação não informada
+- [SUM-TEUJ 53](tjba-sum-teuj-53.md) — Situação não informada
+- [SUM-TEUJ 54](tjba-sum-teuj-54.md) — Situação não informada
+- [SUM-TEUJ 55](tjba-sum-teuj-55.md) — Situação não informada
