@@ -1,6 +1,6 @@
 # Cobertura
 
-**39.072 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**39.175 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -31,6 +31,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CJF — I Jornada de Direito Administrativo](https://www.cjf.jus.br/enunciados/) | 40 | 40 | 0 |
 | [CJF — I Jornada de Direito Comercial](https://www.cjf.jus.br/enunciados/) | 57 | 57 | 0 |
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
+| [CJF — I Jornada Jurídica de Prevenção e Gerenciamento de Crises Ambientais](https://www.cjf.jus.br/enunciados/) | 103 | 103 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
@@ -985,7 +986,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 594 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo, I/II Comercial, I Civil e I/II/III/IV Processual Civil |
+| [CJF](tribunais/CJF/) | 697 | Consulta de Enunciados — Jornadas de Equidade Racial, Tributário, Administrativo, I/II Comercial, I Civil, I/II/III/IV Processual Civil e I de Crises Ambientais |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2107,6 +2108,11 @@ Delta sobre a main `8371d392` (39.010 registros em 164 órgãos; CJF 532): 24 re
 79 enunciados numerados 159–237 da pesquisa `jornada.id=381`, com fichas capturadas em pares HTTP 200. Bytes e SHA-256 conferidos; todos os campos dos pares coincidem e os corpos coincidem com a pesquisa. Corpos e metadados lidos. A nº 166 conserva o cancelamento da nº 10 da I Jornada dentro do corpo, sem fundir identidades. Preservados o parêntese final da nº 185 e os nomes de coordenação “Ministra Isabel Galotti” e “Ministro Sérgio Kulina”. Referências e palavras-chave permanecem separadas, sem atualização. Justificativa, notas e redação anterior vazias; isso não comprova vigência. Sem vinculação, exaustividade, PDF ou OCR inferidos.
 
 Delta sobre a main `be036950`: 79 registros e nenhum órgão, totalizando 38.903 registros em 164 órgãos; CJF 425. A base inclui o PR #106 (I Jornada de Direito Administrativo) e o PR #108 (II Jornada de Direito Processual Civil), já integrados antes deste lote. O PR #107 da I Jornada Processual Civil foi integrado posteriormente; a cobertura de Crises Ambientais continua fora da conta. FONAJE 328 e as 80 transcrições históricas do MPAL permanecem sem novos IDs. Atas, outras jornadas e PDFs apenas citados seguem pendentes. Apenas Markdown público.
+## CJF — I Jornada Jurídica de Prevenção e Gerenciamento de Crises Ambientais
+
+Integrados 103 enunciados, numerados 1–103, em série própria `en-crises-ambientais-i`, com justificativas e metadados publicados na [Consulta de Enunciados do CJF](https://www.cjf.jus.br/enunciados/), `jornada.id=441`. A listagem consultada em duas capturas apresenta os mesmos 103 vínculos, títulos e textos na mesma ordem das fichas. As 103 fichas individuais foram consultadas duas vezes (206 respostas HTTP 200); os pares têm bytes HTML diferentes, mas os campos de enunciado, justificativa e metadados coincidem. Os bytes e SHA-256 de cada resposta estão nas fichas. Foram lidos todos os enunciados, justificativas, notas e demais campos das fichas. Não há texto no campo de redação revogada nem PDF ligado às fichas; isso não confirma vigência e não permite inferir data individual de aprovação. Espaços foram normalizados sem inserir separadores em elementos inline. Referências citadas não foram atualizadas nem receberam IDs. Erros e divergências foram preservados, incluindo as referências às Leis n. 12.305/2010 e 12.334/2010 no nº 33, às ECs n. 132/2023 e 123/2022 no nº 74, e as grafias do nº 49. Não se infere efeito vinculante ou exaustividade; outras publicações, deliberações e jornadas não foram verificadas neste lote. Capturas, ledger e scripts permanecem privados; somente Markdown público.
+
+Delta sobre a main `a0260802` (39.034 registros em 164 órgãos; CJF 556): 103 registros e nenhum órgão novo, totalizando 39.137 registros em 164 órgãos; CJF passa a 659. As jornadas Comercial I e II, Administrativo I e Processual Civil I/II/III já estão na base atual e contam uma vez cada. FONAJE permanece com 328 registros e as 80 transcrições históricas do MPAL seguem sem IDs novos. A cobertura nacional continua parcial.
 
 
 ## CJF — IV Jornada de Direito Processual Civil
@@ -2115,4 +2121,4 @@ Delta sobre a main `be036950`: 79 registros e nenhum órgão, totalizando 38.903
 
 Continuações conferidas nas nºs 243 (17–18), 249 (18–19), 261 (20–21) e 273 (22–23). Preservadas referências, pontuação e caixa; “deve-se” partido entre linhas na nº 249 foi reunido sem espaço. Nenhum bloco riscado, nenhuma justificativa reconstruída. Datas técnicas não foram tratadas como aprovação, e não se inferiu vigência, vinculação ou completude.
 
-Delta sobre a main `a0260802`: 38 registros e nenhum órgão, totalizando 39.072 registros em 164 órgãos e CJF 594. A base inclui os 24 enunciados da II Jornada de Direito Comercial do PR #110, já integrados; a III Jornada Comercial e Crises Ambientais continuam em PRs separados, fora desta conta. I/II/III Processual Civil, I Comercial e Administrativo permanecem preservados. FONAJE 328 e as 80 transcrições históricas do MPAL sem IDs novos permanecem. As nove lacunas iniciais do BNP continuam. PDF, imagens, scripts e recibos privados; apenas Markdown público.
+Delta sobre a main `b7034e65`: 38 registros e nenhum órgão, totalizando 39.175 registros em 164 órgãos e CJF 697. A base inclui os 24 enunciados da II Jornada de Direito Comercial do PR #110 e os 103 da I Jornada de Crises Ambientais do PR #111, já integrados; a III Jornada Comercial continua em PR separado, fora desta conta. I/II/III Processual Civil, I/II Comercial e Administrativo permanecem preservados. FONAJE 328 e as 80 transcrições históricas do MPAL sem IDs novos permanecem. As nove lacunas iniciais do BNP continuam. PDF, imagens, scripts e recibos privados; apenas Markdown público.
