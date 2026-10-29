@@ -1,6 +1,6 @@
 # Cobertura
 
-**35.755 registros únicos de 119 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**35.759 registros únicos de 120 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 12 registros não trazem conteúdo nos campos textuais coletados. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CRF/PB — Súmulas do catálogo oficial](https://www.sefaz.pb.gov.br/info/2016-01-11-17-25-20/crf) | 4 | 4 | 0 |
 | [TATE/PE — Súmulas e Atos Normativos](https://www.sefaz.pe.gov.br/Servicos/TATE/Paginas/Informacoes.aspx) | 8 | 8 | 0 |
 | [CAT/GO — Súmulas do catálogo oficial](https://goias.gov.br/economia/sumulas/) | 15 | 15 | 0 |
 | [PGE/GO — Súmulas Administrativas](https://goias.gov.br/procuradoria/sumulas-administrativas/) | 22 | 22 | 0 |
@@ -874,6 +875,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
 | [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
@@ -918,7 +920,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+CRFPB, TATEPE, CATGO, PGEGO, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -977,3 +979,13 @@ O acervo não representa todos os acórdãos do Brasil nem inclui automaticament
 O catálogo acrescenta oito súmulas, nºs 01 a 08, em série administrativa própria. Os oito PDFs oficiais têm uma página cada; cada par de capturas de 29/10/2026 coincide em bytes e SHA-256. A camada textual das nºs 01 e 03 a 08 foi conferida nas imagens das sete páginas e preservada, normalizando apenas espaços e quebras de linha. A nº 02 contém o corpo digitalizado: o enunciado e o despacho foram transcritos visualmente, com marcador explícito para uma pontuação não conciliada após a referência ao § 1º no despacho. A assinatura manuscrita não foi reproduzida nem identificada por inferência. Essa lacuna impede considerar o despacho uma transcrição integral sem ressalvas.
 
 A nº 01 informa aprovação na sessão plenária de 03/02/1992; a nº 02 traz despacho de 13/05/1992 e publicação de 14/05/1992. As nºs 03 e 04 informam publicação em 23/12/2023; as nºs 05 e 06 em 24/12/2024, com aprovação unânime em 18/12/2024; a nº 07 em 1º/08/2025; a nº 08 em 02/06/2026. As referências a precedentes e os números de autos de infração foram mantidos dentro dos documentos e não geraram novos registros. O diário, os acórdãos e a legislação apenas citados não foram lidos integralmente neste lote. O catálogo não comprova vigência posterior nem esgota outras séries do TATE/PE.
+
+## CRF/PB — súmulas do Conselho de Recursos Fiscais da Paraíba
+
+Em 29/10/2026, a página [Conselho de Recursos Fiscais do Estado da Paraíba](https://www.sefaz.pb.gov.br/info/2016-01-11-17-25-20/crf) publica o bloco “SÚMULAS DO CRF (PORTARIA Nº 00311/2019/SEFAZ)” com quatro verbetes, nºs 01 a 04, sem paginação e sem outros números. Duas leituras desse bloco HTML coincidem: 1.924 bytes, SHA-256 `0bf7812596fab39c4e9a3d9276a141f2fc9f62db8f31c293e4488420f9334037`. As páginas inteiras divergem no identificador de ocultação do e-mail; o bloco das súmulas é o mesmo. O texto publicado preserva rubrica, enunciado e acórdãos citados. A nº 02 mantém “constatação” em minúscula e o espaço não separável antes do enunciado. A nº 03 mantém “303/2019;294/2018”, sem espaço depois do ponto e vírgula. A nº 04 escreve “Acórdãos nºs” sem dois-pontos. Os acórdãos citados permanecem no verbete e não entram como registros.
+
+A [Portaria nº 00311/2019/SEFAZ](https://www.sefaz.pb.gov.br/legislacao/259-portarias/portarias-2019/8676-portaria-n-00311-2019-sefaz) informa publicação no DOe-SEFAZ de 19.11.19 e data de 18 de novembro de 2019. O art. 1º ratifica as súmulas administrativas números 01 a 04, aprovadas na 56ª Sessão Ordinária do Tribunal Pleno, nos termos do Anexo Único. O art. 2º declara: “Não ratificar a propositura da Súmula Administrativa número 05.” O art. 3º declara que a súmula, depois de ratificada e publicada no Diário Oficial Eletrônico da SEFAZ/PB, terá efeito vinculante em relação à Administração Tributária Estadual e aos contribuintes e responsáveis. O HTML da portaria e o PDF de duas páginas gerado a partir dele reproduzem esses artigos e não trazem o Anexo Único nem o enunciado da nº 05. Duas extrações da camada textual do PDF coincidem, SHA-256 `ae29c67e3ed5bf1ca5e98d6427878214ae0a3b2e52d9222067057570f1bb80ee`. Os bytes dos PDFs diferem porque o gerador grava o instante do download. A edição do diário e o Anexo Único seguem pendentes. A nº 05 não recebeu registro, porque a fonte não publica o enunciado. A declaração de efeito vinculante é a do art. 3º. Ato posterior de revisão não apareceu nas fontes consultadas neste lote.
+
+A etiqueta oficial [Súmulas do Conselho de Recursos Fiscais](https://www.sefaz.pb.gov.br/component/tags/tag/244-sumulas-do-conselho-de-recursos-fiscais) lista um único item, a Portaria nº 00311/2019/SEFAZ, com data de lista 19 de novembro de 2019. A busca do portal por “Súmula Administrativa” devolveu 43 acórdãos, sem outra portaria de ratificação. O [Regimento Interno](https://www.sefaz.pb.gov.br/legislacao/301-portarias/portarias-2021/10654-portaria-n-00080-2021-sefaz), Portaria nº 00080/2021/SEFAZ, traz no HTML consolidado os arts. 94 a 96: numeração sequencial depois da ratificação, submissão ao Secretário e possibilidade de revisão. O art. 96 conserva a grafia “do Secretário de Estado da Fazenda a ou do representante”. O cabeçalho lista alterações pelas Portarias nº 00026/2023, nº 00144/2024, nº 00112/2025, nº 00207/2025 e nº 00148/2026. Nenhuma dessas notas, no HTML consolidado, atribui nova redação aos arts. 94 a 96, e a palavra “súmula” nesse HTML não introduz enunciado numerado. Os textos integrais dessas portarias de alteração e do diário de cada uma permanecem pendentes.
+
+O CRF/PB é o Conselho de Recursos Fiscais da Secretaria de Estado da Fazenda da Paraíba, órgão distinto do TJPB, do TCEPB, do TATE/PE e dos demais conselhos. A série não integra o catálogo judicial do BNP. O ementário, os acórdãos, as pautas e o histórico em PDF indicados na mesma página permanecem pendentes.
