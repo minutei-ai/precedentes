@@ -1,6 +1,6 @@
 # Cobertura
 
-**37.276 registros únicos de 150 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**37.344 registros únicos de 151 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,6 +8,7 @@
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPMG — Enunciados de súmulas do CSMP](https://www.mpmg.mp.br/data/files/EC/C7/D3/32/70CF191041383A19760849A8/Enunciados-sum-CSMP-Geral.pdf) | 68 | 68 | 0 |
 | [MPRJ — Enunciados do Conselho Superior](https://www.mprj.mp.br/documents/20184/1128257/enunciadoscomvigenciaapartirde08defevereirode2021_arquivoaserutilizadonoportaldomprj_.pdf) | 69 | 69 | 0 |
 | [MPRJ — Súmulas do Conselho Superior](https://www.mprj.mp.br/documents/20184/72447/sumulas.pdf) | 14 | 14 | 0 |
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
@@ -926,6 +927,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 21 | MPRS — Súmulas do Conselho Superior |
@@ -1001,7 +1003,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPDFT, MPRJ, MPRS, MPSC, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPDFT, MPMG, MPRJ, MPRS, MPSC, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -1686,3 +1688,13 @@ O aviso inicial reproduz a decisão de 05/02/2021 sobre a vigência em 08/02/202
 As unificações impressas nas nºs 61–65 não fundiram registros: 61 menciona 33 e 39; 62, 2 e 37; 63, “12/2007 e 21/2007”, embora o título do nº 21 seja 21/2008; 64, 5 e 11; 65, 52 e 53. A nº 20 conserva título 20/2008 e aprovação em 29/10/2009. A nº 55 mantém “Lei Federal nº 8.666/23”. A nº 59 traz alteração em 26/06/2025 e vigência em 27/06/2025, atribuídas ao caderno. A nº 67 tem aprovação em 26/05/2022 e publicação em 27/05/2022; a nº 68, aprovação em 14/09/2023 e publicação em 15/09/2023; a nº 69, aprovação em 26/03/2026 e publicação em 27/03/2026.
 
 Espaços, quebras e ênfases foram normalizados, preservando as palavras e os riscos. O aviso final de que a versão não substitui o diário oficial está em cada registro. Logos e rodapés de contato ficaram de fora. Não há CPF, RG, matrícula ou bloco de autenticação no texto incorporado. Outras séries, diários, atos e processos apenas citados continuam pendentes; não se inferiu vigência atual nem efeito vinculante. A revisão independente, sobre as imagens, reuniu os hífens de quebra em “DOE-MPRJ” (nº 12) e “Procurador-Geral de Justiça” (nº 67) e restaurou “n.º” na referência da Lei Federal 10.741/2003 do nº 15. Com as 14 súmulas, o PR soma 83 registros e um órgão sobre a main `51b08ae668c397ac0df1c42060852ebd1d7f1540`: 37.276 registros em 150 órgãos. As nove lacunas iniciais do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. PDFs, imagens, capturas e scripts ficam privados.
+
+## MPMG — enunciados de súmulas do CSMP
+
+A compilação oficial de nove páginas, identificada na página final pela Diretoria Executiva do CSMP em 11/09/2024, foi capturada duas vezes em 29/10/2026: 170.417 bytes e SHA-256 `689f92659b53e4299a6fd04633cb5143bb2358d46d13dfd354d02b99b49d0dab`. As nove páginas foram lidas na imagem e na camada textual, sem OCR. São 68 identidades contíguas, números 1–68: 53 com texto e 15 apenas “REVOGADO” (1, 9, 11, 12, 14, 18, 21, 28, 34, 35, 38, 42, 48, 54 e 60). Esses quinze não foram apresentados como íntegra; a redação anterior segue pendente. O MPMG entra como órgão próprio, distinto de TJMG, TCEMG e CGEMG. O caminho local de rodapé foi omitido.
+
+O caderno foi obtido no domínio oficial, mas a página atual do CSMP não o vincula no conteúdo capturado. A página aponta o caderno de deliberações “Plenário - Diversos”, cujos dois PDFs coincidem em 569.345 bytes e SHA-256 `0d2a3daa4302c8b917fcd2ce55b3e7a4d4566915b2ddfa6569e0378cdf2c8cc1`. Esse documento tem 36 páginas; apenas as físicas 19–24 foram lidas e publicadas, com corte antes de “FERRAMENTA BUSINESS INTELLIGENCE - BI”. As demais trinta páginas não foram lidas. O recorte fica uma única vez no índice da série, sem criar registro de deliberação. Datas, redações e notas das duas fontes permanecem separadas, inclusive a ata de 08/10/2024 e a nota de 11/09/2024 no caderno. A referência “14.230/2001” foi preservada.
+
+Há notas posteriores dos avisos de 05/08/2025 e de 05/11/2025, atribuídas à leitura textual oficial pelo leitor web. Os PDFs diretos retornaram HTTP 403 nas tentativas de captura local; não foram publicados como transcrição integral, nem receberam SHA-256 inventado. A captura e a conferência visual dos avisos continuam pendentes. O aviso de 2024 sobre 18, 21, 42 e 32 também não foi capturado; o documento de deliberações já lido fornece complemento próprio. Ausência de nota não confirma vigência atual ou efeito vinculante.
+
+Notas de aprovação, reforma, republicações e grafias preservadas; sem criação de IDs a normas, processos e precedentes apenas citados. Nenhum CPF, RG, matrícula pessoal ou bloco de autenticação incorporado. Nomes e funções públicos ficam no documento comum. Sobre a main `30923897`, com 37.276 registros em 150 órgãos, este lote soma 68 registros e um órgão: 37.344 registros em 151 órgãos. MPRJ 83, MPDFT 129 e os lotes anteriores permanecem. As nove lacunas iniciais do BNP continuam. Outras séries, redações históricas e atos posteriores permanecem pendentes. Somente Markdown público; capturas, PDFs, imagens e scripts privados. Cobertura nacional parcial.
