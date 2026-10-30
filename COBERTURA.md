@@ -1,10 +1,10 @@
 # Cobertura
 
-**42.801 registros esperados de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.801 registros de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 ## Integração local dos lotes revisados — não publicada
 
-Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, com 42.715 registros em 185 órgãos, esta branch acrescenta **86 registros e dois órgãos**: 32 identidades do MPES (5 súmulas COPJ, 24 súmulas CSMP e 3 enunciados CSMP) e 54 do MPSE (36 assentos CSMP e 18 súmulas criminais). Total esperado: **42.801 registros em 187 órgãos**. As revisões documentais dos lotes e complementos foram concluídas. Os textos coincidem com a candidata ampla já revisada nos diretórios MPES e MPSE. O inventário global desta branch será conferido separadamente. Revisão documental não é aprovação formal no GitHub nem resultado de CI.
+Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, com 42.715 registros em 185 órgãos, esta branch acrescenta **86 registros e dois órgãos**: 32 identidades do MPES (5 súmulas COPJ, 24 súmulas CSMP e 3 enunciados CSMP) e 54 do MPSE (36 assentos CSMP e 18 súmulas criminais). Total local: **42.801 registros em 187 órgãos**. As revisões documentais dos lotes e complementos foram concluídas. Os textos coincidem com a candidata ampla já revisada nos diretórios MPES e MPSE. O inventário global do commit `623456210d044a99713b97ca798a93433cd157c5`, executado por `resource-run --wait`, confirmou 42.801 registros e identificadores únicos em 187 órgãos, sem duplicatas, arquivos com múltiplos IDs ou divergências entre nome e identificador. Revisão documental não é aprovação formal no GitHub nem resultado de CI.
 
 Forecrim, JFRN e TRUs continuam nas branches próprias e na candidata ampla, fora deste delta. Nenhum PR foi criado para esta integração local nem houve merge remoto do PR #177. As nove lacunas textuais iniciais do BNP permanecem. Relatos antigos abaixo conservam as bases históricas dos lotes, sem nova soma.
 
@@ -1359,7 +1359,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPES, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPES, MPSE, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
 
