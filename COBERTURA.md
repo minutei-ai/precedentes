@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.181 registros únicos de 167 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.228 registros únicos de 167 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -2357,3 +2357,10 @@ Conciliação final do PR #136 sobre `2ab47e6e` (41.063 registros em 166 órgão
 Entram 62 enunciados, números 1–62, em órgão próprio ENFAM e série `en-cpc-2015`. Os 62 corpos foram lidos na seção do catálogo STJ (linhas 5819–6035), separados das Jornadas do CJF e dos congressos do STJ. A página institucional da Enfam informa realização em 26–28/08/2015 e aprovação pelos participantes. A autoria do evento não foi transferida ao STJ, hospedeiro da reprodução. As duas leituras derivadas retidas têm sobreposição coincidente, sem alegação de HTML bruto ou capturas HTTP independentes; hashes e bytes dos derivados constam do índice. Número 36 com quebra reunida, nota do nº 21 e final sem ponto do nº 58 preservados. O PDF da Enfam retornou 403; não houve leitura visual, OCR ou transcrição desse PDF. Votações e demais documentos vinculados permanecem pendentes. Nenhuma vigência, vinculação ou exaustividade foi inferida.
 
 Sobre `9baeb8e0` (41.119 registros em 166 órgãos), o delta é +62 registros e +1 órgão: 41.181 registros em 167 órgãos. CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 permanecem. As nove lacunas iniciais do BNP continuam.
+
+
+## TJMG — Enunciados ENJESP
+
+A compilação ligada à página institucional dos Juizados Especiais acrescenta 47 enunciados em três séries próprias: cíveis (26), criminais (8) e Fazenda Pública (13). A autoria ENJESP foi delimitada pelos cabeçalhos, referências dos itens e fichas da Biblioteca Digital do TJMG; FONAJE e outros emissores exibidos na página permaneceram separados. A compilação registra cancelamentos do VII ENJESP e itens do IX ENJESP. As versões históricas de 2018 e 2019 foram confrontadas, e as redações anteriores mantidas nos registros correspondentes; não se inferiu vigência atual nem efeito vinculante. Todas as páginas dos três PDFs foram lidas visualmente. As capturas pareadas, status HTTP, bytes e hashes estão no [índice ENJESP](tribunais/TJMG/en-enjesp/README.md).
+
+Sobre `ccf167ff` (41.181 registros em 167 órgãos), entram 47 registros e nenhum órgão: 41.228 registros em 167 órgãos. O TJMG passa de 400 para 447; seus 139 registros no inventário BNP permanecem. As nove lacunas iniciais do BNP continuam.
