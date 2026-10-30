@@ -143,6 +143,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [TJBA — Súmulas do catálogo institucional](https://www.tjba.jus.br/portal/sumulas/) | 29 | 12 | 17 |
 | [TIT/SP — Súmulas e fichas de propostas](https://portal.fazenda.sp.gov.br/servicos/tit/Paginas/Jurisprud%C3%AAncia-S%C3%BAmulas.aspx) | 15 | 15 | 0 |
 | [TJMMG — Súmulas](https://tjmmg.jus.br/sumulas/) | 9 | 9 | 0 |
+| [TJMG — Enunciados do ENJESP](https://www.tjmg.jus.br/portal-tjmg/institucional/juizados-especiais/) | 47 | 47 | 0 |
 | [AGU — Catálogo de manifestações da CONUNI](https://cgu.agu.gov.br/conuni/) | 1.745 | 1.745 | 0 |
 | [AGU — Enunciados DEINF (DGA) no catálogo SCGP](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/scgp/home/) | 3 | 3 | 0 |
 | [AGU — Enunciados da Consultoria-Geral da União](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/enunciados) | 42 | 42 | 0 |
@@ -818,7 +819,7 @@ O catálogo da Turma de Uniformização dos Juizados Especiais do Distrito Feder
 
 O catálogo de súmulas do TJDFT trouxe 29 verbetes, com avisos de alteração, cancelamento e renumeração mantidos no texto. O TJDFT aparece no índice como TJDF, sigla adotada pelo BNP. Também conferimos os catálogos de 21 IRDR e um IAC admitidos; suas observações e links para acórdãos foram mantidos com atribuição própria, sem substituir as informações do BNP. 
 
-O TJMG inclui 91 enunciados do compêndio disponibilizado no catálogo atual e três séries anteriores ao regimento de 2012: 69 do Grupo de Câmaras Criminais, 72 da 1ª Câmara Criminal e 29 da 4ª Câmara Cível. As numerações são independentes; as séries ficam em categorias próprias, preservando notas de cancelamento, alteração e substituição. Os três enunciados do extinto Tribunal de Alçada de Minas Gerais, preservados pelo TJMG, aparecem sob a autoridade histórica TAMG, com as notas de cancelamento mantidas. O catálogo do TJSC contém 68 súmulas consecutivas, com referências e avisos de revogação preservados.
+O TJMG inclui 91 enunciados do compêndio disponibilizado no catálogo atual e três séries anteriores ao regimento de 2012: 69 do Grupo de Câmaras Criminais, 72 da 1ª Câmara Criminal e 29 da 4ª Câmara Cível. Acrescenta 47 enunciados ENJESP em três séries cíveis, criminais e da Fazenda Pública, preservando cancelamentos na compilação institucional atual e redações históricas nas fichas de 2018 e 2019 da Biblioteca Digital do TJMG. As numerações são independentes; as séries ficam em categorias próprias, preservando notas de cancelamento, alteração e substituição. Os três enunciados do extinto Tribunal de Alçada de Minas Gerais, preservados pelo TJMG, aparecem sob a autoridade histórica TAMG, com as notas de cancelamento mantidas. O catálogo do TJSC contém 68 súmulas consecutivas, com referências e avisos de revogação preservados.
 
 O TJPI foi coletado no catálogo atual da transparência: 70 registros em cinco páginas, correspondentes aos números de súmula 1 a 69. O número 64 aparece em dois registros oficiais, ambos preservados no mesmo Markdown. A ordenação por título e a conferência dos identificadores evitam repetir documentos entre páginas. Os avisos de cancelamento e as publicações de 2026 são mantidos conforme a fonte.
 
@@ -936,7 +937,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJMA](tribunais/TJMA/) | 23 | 23 | 23 |
 | [TJMT](tribunais/TJMT/) | 107 | 29 | 29 |
 | [TJMS](tribunais/TJMS/) | 33 | 33 | 33 |
-| [TJMG](tribunais/TJMG/) | 400 | 139 | 139 |
+| [TJMG](tribunais/TJMG/) | 447 | 139 | 139 |
 | [TJPA](tribunais/TJPA/) | 69 | 69 | 69 |
 | [TJPB](tribunais/TJPB/) | 64 | 10 | 10 |
 | [TJPR](tribunais/TJPR/) | 232 | 166 | 166 |
