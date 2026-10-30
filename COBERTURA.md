@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.063 registros únicos de 166 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.119 registros únicos de 166 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -79,6 +79,8 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
 | [MPRS — Súmulas do Conselho Superior](https://www.mprs.mp.br/orgaoscolegiados/sumulas/) | 21 | 21 | 0 |
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
+| [MPGO — Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4) | 41 | 41 | 0 |
+| [MPGO — Enunciados ANPP](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal) | 15 | 15 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
 | [CNPG/GNCCRIM — Enunciados 41–44 reproduzidos pelo MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal) | 4 | 4 | 0 |
@@ -1021,7 +1023,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
-| [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
+| [MPGO](tribunais/MPGO/) | 69 | MPGO — 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias da CEP e da SPGJ/AJ |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
@@ -2336,3 +2338,13 @@ O lote acrescenta os números 41–44, com o CNPG/GNCCRIM como emissor atribuíd
 A notícia relata revisão dos 40 anteriores e aprovação de quatro novos após a 2ª Reunião Ordinária do GNCCRIM, sem data da reunião. O PDF final vinculado respondeu 404 em duas tentativas; as redações revisadas de 1–40 continuam pendentes. Não se atribuiu a coletânea histórica da Lei Anticrime à edição de 2026. Não houve PDF ou OCR neste lote. Atos e normas citados não ganharam ID; não houve inferência de vigência, efeito vinculante ou completude. As nove lacunas iniciais do BNP permanecem. Sobre a main `8284d0d1` (41.021 registros em 165 órgãos, STJ 3.705, CJF 1.872), soma quatro registros e um órgão: 41.025 registros em 166 órgãos.
 
 Após a integração do CNPG/GNCCRIM em `eed79786` (41.025 registros em 166 órgãos), este lote TRF01 soma 38 registros: 41.063 registros em 166 órgãos. TRF01 209, CNPG 4.
+
+## MPGO — enunciados SUBJUR e ANPP
+
+Sobre `origin/main` `71d1707c` (41.021 registros em 165 órgãos, incluindo STJ 3.705, CJF 1.872 e MPGO 13), entram 41 enunciados SUBJUR e 15 enunciados ANPP, em séries próprias da SPGJ/AJ: 41.077 registros em 165 órgãos e MPGO 69, junto dos 13 enunciados CEP já existentes. Foram lidos os 41 blocos SUBJUR e os 15 ANPP diretamente nos HTMLs das duas páginas oficiais. Duas capturas de cada página retornam HTTP 200; em cada par, o bloco jurídico coincide por SHA-256, embora o HTML bruto varie. Números, textos, referências, notas e formatação de ênfase foram conferidos; aprovações e transferências foram comparadas com o inteiro teor oficial do Ato/decisão 2331 e o contexto normativo do Ato SPGJAJ 1/2025 (2259).
+
+A página SUBJUR atribui a transferência do nº 41 ao ANPP 13, enquanto a decisão 2331 atribui o nº 41 ao ANPP 14; as atribuições permanecem separadas por fonte. O catálogo geral lista 41 SUBJUR, incluindo textos históricos tachados, e a página ANPP lista 15. Não se inferiu vigência, força vinculante ou completude. Os 13 links para procedimentos internos do Atena retornaram HTTP 401 sem autenticação. Os cinco links a PDFs públicos responderam HTTP 200, mas nenhum PDF foi lido visualmente. Outros atos, diários e deliberações permanecem pendentes. Somente Markdown foi publicado; capturas e recibos continuam privados.
+
+Atualização de cobertura após este lote: 41.077 registros em 165 órgãos. As nove lacunas iniciais do BNP permanecem; nenhuma estatística de outros lotes ou histórico foi recalculada.
+
+Conciliação final do PR #136 sobre `2ab47e6e` (41.063 registros em 166 órgãos): +56 registros, nenhum órgão; total 41.119 registros em 166 órgãos, MPGO 69. CNPG e TRF01 preservados.
