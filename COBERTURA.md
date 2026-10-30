@@ -1,10 +1,28 @@
 # Cobertura
 
-**42.635 registros únicos de 183 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.708 registros únicos de 184 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## ANVISA — consulta de súmulas
+
+A Agência Nacional de Vigilância Sanitária foi consultada em 30/10/2026 como órgão próprio, distinto da ANP, da ANATEL, da ANS, da ANAC e da ANM. Na main `d65e217dc374757da90acbf37ad10c04b54933f9` não havia diretório `tribunais/ANVISA`. Estas consultas não devolveram texto integral de súmula ou enunciado interpretativo editado pela própria Anvisa. Por isso este lote não cria órgão, série nem identificador. A falta de texto nestas respostas não prova inexistência do ato, não fecha a série e não informa vigência ou efeito vinculante.
+
+A [RDC nº 266, de 8 de fevereiro de 2019](https://www.in.gov.br/web/dou/-/resolucao-da-diretoria-colegiada-rdc-n-266-de-8-de-fevereiro-de-2019-62789329), publicada no DOU de 11/02/2019, edição 29, seção 1, página 237, foi lida no HTML do DOU. Os arts. 27 a 31 descrevem as Súmulas da Diretoria Colegiada como enunciados de primeira e segunda instância, aprovados por unanimidade, a publicar no DOU e no portal da Anvisa. O ato é o procedimento. Não recebeu identificador. As duas capturas responderam HTTP 200, com 105.369 bytes cada. O bloco interno de `<div class="texto-dou">` tem 21.114 bytes e SHA-256 `5a76e9c73ad4e7cafd9edd91ed9e4b78216409d802b90e407bf444611493b264` nas duas cópias. O HTML da página inteira difere por carimbo de script fora do ato. O aviso de que o conteúdo não substitui a versão certificada permanece. O PDF certificado não foi lido. Nenhuma página de PDF foi lida neste lote.
+
+A [consulta com termo “Súmula”, tipo Súmula, seção 1, órgão Ministério da Saúde/Agência Nacional de Vigilância Sanitária e delta 50](https://www.in.gov.br/consulta/-/buscar/dou?q=S%C3%BAmula&s=do1&exactDate=all&sortType=0&delta=50&artType=S%C3%BAmula&orgPrin=Minist%C3%A9rio+da+Sa%C3%BAde&orgSub=Ag%C3%AAncia+Nacional+de+Vigil%C3%A2ncia+Sanit%C3%A1ria) informou “0 resultados” nas duas capturas. A consulta irmã, tipo Súmula, termo “Súmula” e a palavra ANVISA, seção 1, sem filtro de órgão, também informou “0 resultados”. O mesmo tipo nas seções 2 e 3, com o órgão e, em outra consulta, só com a palavra ANVISA, informou “0 resultados”. A frase “Súmula n” na seção 1 e no mesmo órgão informou “0 resultados”. A frase “torna pública a seguinte súmula”, no mesmo órgão e também com a palavra ANVISA sem órgão, informou “0 resultados”.
+
+A [consulta do termo “Súmula”, seção 1, mesmo órgão, sem tipo de ato e delta 20](https://www.in.gov.br/consulta/-/buscar/dou?q=S%C3%BAmula&s=do1&exactDate=all&sortType=0&delta=20&orgPrin=Minist%C3%A9rio+da+Sa%C3%BAde&orgSub=Ag%C3%AAncia+Nacional+de+Vigil%C3%A2ncia+Sanit%C3%A1ria) informou “7 resultados” nas duas capturas, todos na primeira página. O termo “Súmulas” repetiu os mesmos sete títulos. São o Despacho nº 2, de 6 de janeiro de 2022; a RDC nº 585, de 10 de dezembro de 2021; a RE nº 996, de 8 de março de 2021; a RDC nº 408, de 24 de julho de 2020; a RDC nº 266, de 8 de fevereiro de 2019; e a RDC nº 255, de 10 de dezembro de 2018, na publicação de 11/12/2018 e na republicação de 27/12/2018. Nenhum título é uma súmula. O termo “Enunciado” e a frase “Súmula da Diretoria Colegiada”, no mesmo órgão e seção, devolveram só a RDC 266. A mesma frase sem filtro de órgão devolveu cinco atos: a Portaria ANP nº 159, de 27 de janeiro de 2023, que não é da Anvisa e não recebeu identificador, a RDC 266 e as RDCs 116/2016, 115/2016 e 61/2016. Os trechos visíveis dessas três resoluções de 2016 são competência de regimento para contribuir com a elaboração de súmulas. O inteiro teor delas não foi lido. O tipo Súmula com o termo “Vigilância Sanitária”, seção 1, devolveu dois atos do Conselho Nacional de Educação, de 07/07/2025 e 24/04/2025. A hierarquia impressa é Ministério da Educação. Não são atos da Anvisa.
+
+O Despacho nº 2/2022 e a RE nº 996/2021 foram lidos no HTML do DOU. O despacho cita a Súmula nº 50 da Advocacia-Geral da União. A RE cita as súmulas 346 e 473 do Supremo Tribunal Federal. Nenhum dos dois edita enunciado da Anvisa. CPF, CNPJ, matrícula e URL de autenticação não foram publicados. Esses atos, as RDCs de regimento e as súmulas da AGU e do STF apenas citadas não receberam identificador. A RDC nº 585 aparece no AnvisaLegis, na busca descrita abaixo, com o rótulo “Vigente com Alterações” e ementa de regimento interno. O item “Súmula” consta do trecho devolvido pela consulta do DOU. O inteiro teor da RDC 585 não foi lido neste lote. A consulta com “RDC”, “266” e “revog*” no órgão e na seção 1 informou “0 resultados”. Essa resposta não demonstra que a RDC 266 continue vigente.
+
+No [AnvisaLegis, busca de normas](https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirLegislacao&cod_modulo=310&cod_menu=9434), a lista de tipos do módulo 310 não contém Súmula nem Enunciado. A busca pelo texto “sumula”, repetida em duas sessões, informou 14 atos, e as duas listas de número e ano coincidem: onze resoluções da Diretoria Colegiada, uma resolução e duas portarias. São regimentos, o procedimento de recurso e atos internos de comissão de ética que contêm a palavra. A busca por título “sumula” e a busca por ementa “sumula” informaram, nas duas capturas, “Nenhum ato encontrado” e total 0. No módulo de atos gerais (cod_modulo 134), a busca por título “sumula” informou total 0 nas duas capturas. Um POST anterior nesse módulo devolveu a página inicial, sem lista, e não foi contado como catálogo.
+
+As páginas de busca do portal gov.br e de recursos administrativos responderam HTTP 200 uma vez cada. O HTML é casca do portal, sem lista de súmulas, e não foi usado como catálogo. A [página de ementas da Comissão de Ética](https://www.gov.br/anvisa/pt-br/acessoainformacao/institucional/comissao-de-etica/ementas-de-decisoes) lista cinco PDFs intitulados “Ementa de decisão”, números SEI 1524821, 1747752, 1749790, 2761881 e 2834374. As duas capturas da página HTML trazem esses cinco vínculos. Os PDFs não foram abertos. Não são a série da Diretoria Colegiada e não receberam identificador. Arestos individuais não foram incorporados.
+
+Após conciliação com a main `de8024fd01586b4f8a14841635baedf7f5690b3b`, que inclui as vinte súmulas da ANCINE, este lote acrescenta 0 registros e 0 órgãos. O acervo permanece **42.628 registros em 184 órgãos**. As nove lacunas textuais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A soma é o delta deste lote e não repete a varredura global de identificadores. Não houve resposta 403 nestas consultas. Capturas e recibos ficam privados. A cobertura nacional e a da Anvisa continuam parciais.
 
 ## ANP — súmulas
 
@@ -29,6 +47,16 @@ A [ata da 1.139ª reunião de 2024](https://www.gov.br/anp/pt-br/composicao/dire
 A Portaria ANP nº 265/2020, o Decreto nº 2.455/1998, a Lei nº 9.478/1997, a Lei nº 9.847/1999, a Resolução ANP nº 958/2023, a Resolução ANP nº 43/2007, a ABNT NBR 15.514 e os processos e decisões SEI citados permanecem nos registros e não geraram identificadores. Não há CPF, RG, matrícula nem URL de autenticação nos blocos publicados. Nome e função pública foram preservados. Capturas e recibos ficam privados.
 
 Sobre a `origin/main` `f006f302d3f0a181e6f226341a213d3b7f7508c1` (42.601 registros em 182 órgãos, PGEGO 64: 22 súmulas e 42 despachos, 315 páginas), este lote acrescenta 7 registros e 1 órgão. O total pelo delta é **42.608 registros em 183 órgãos**. A soma é focada e não repete a varredura global. O lote PGEGO de 2022 já integrado nessa main permanece. Os PRs #169 e #170, ainda abertos, não entram nesta conta. As nove lacunas textuais do BNP permanecem. A cobertura nacional continua parcial.
+
+## ANCINE — Súmulas
+
+Foram incorporadas vinte identidades próprias, números 1–20, do [catálogo oficial da ANCINE](https://www.gov.br/ancine/pt-br/acesso-a-informacao/legislacao/sumulas). A ANCINE é distinta da ANP, ANATEL, ANAC, ANS e ANM. Foram conferidos integralmente os blocos jurídicos das quarenta capturas das fichas (HTTP 200, campos iguais por par) e lidas visualmente as 21 páginas dos vinte PDFs oficiais, com apoio da camada textual. Os vinte pares de PDFs retornaram HTTP 200 e têm bytes e SHA-256 idênticos por par; cada registro descreve seus recibos. O portal entrega os blocos HTML em `window.__data`, mas o DOM apresentado omite seu texto. Essa proveniência não é descrita como leitura integral da apresentação do navegador. Os links de arquivo inicialmente devolvem HTML; os PDFs foram obtidos nas URLs de download publicadas nessas páginas.
+
+As variantes HTML e PDF ficam separadas no mesmo ID. A ficha 1 traz 2018 no título, enquanto catálogo, publicação e PDF trazem 2008; o PDF 5 traz 2008 no título, enquanto ficha e nota de publicação trazem 2011. O nº 10 repete o corpo do nº 6 também no PDF, sob tema distinto. Nada foi corrigido por inferência. Os riscos seguem os estilos dos blocos HTML e não foram transferidos para PDFs sem risco. Nomes e funções públicas foram preservados. Cabeçalhos institucionais e URLs repetidas de rodapé documental foram omitidos; espaços e quebras foram normalizados. Não houve OCR.
+
+DOU, atos revogadores e modelo vinculado à ficha 4 não foram lidos integralmente, nem receberam IDs. As notas “Vigente” e de revogação permanecem atribuídas, sem afirmar vigência atual, força vinculante ou completude histórica. Somente Markdown é público; PDFs, imagens, scripts e capturas permanecem privados. As nove lacunas iniciais do BNP permanecem.
+
+Sobre a main `d65e217dc374757da90acbf37ad10c04b54933f9` (42.608 registros em 183 órgãos), o delta é de vinte registros e um órgão: total esperado de 42.628 registros em 184 órgãos. Os PRs PGEGO 169 e 170 abertos não entram nessa soma. A contagem é reconciliação por delta, sem nova auditoria global.
 
 ## PROCONES — Jornadas Capixabas de Defesa do Consumidor
 
@@ -91,6 +119,13 @@ O catálogo oficial da CGE/GO lista os rótulos 2231, 2062, 1563, 1554, 804, 692
 As duas capturas primárias do catálogo (seção `entry-content`, tabela de sete colunas) são idênticas: 297215 bytes e SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF teve duas respostas HTTP 200, com tamanhos e hashes idênticos. Foram lidas visualmente as 111 páginas dos PDFs, usando a camada textual como apoio; nenhuma página exigiu OCR. Glifos danificados nas camadas textuais de 1563 e 2062 foram corrigidos contra as imagens. Redações visíveis nos textos dos despachos 511 e 804 foram preservadas como riscadas.
 
 Campos tarjados foram omitidos sem recuperar camadas ocultas; o identificador parcial de CPF do despacho 2062 foi omitido. Blocos de assinatura/autenticação, números pessoais, códigos verificadores, CRC, QR, códigos de barras e URLs de validação não foram publicados. Nomes e funções públicas, referências, notas, continuações de página e fechos foram conservados. Nenhum ato apenas citado ganhou ID. Não se infere vigência, vinculação ou completude. Os originais, imagens, extrações e recibos permanecem privados; o lote público contém apenas Markdown.
+## PGE/GO — 38 despachos referenciais rotulados em 2020
+
+Sobre a main `f006f302d3f0a181e6f226341a213d3b7f7508c1`, com 42.601 registros em 182 órgãos (PGEGO 64, 22 súmulas e 42 despachos), este lote acrescenta 38 documentos e nenhum órgão: delta **+38 registros, +0 órgãos**, PGEGO 102 (22 súmulas e 80 despachos). A main avançou para `6cf3bfd2bf23ebe57aa2b1cdf5d760e950c27a61`, com 42.628 registros em 184 órgãos, já com as sete súmulas da ANP, as vinte da ANCINE e a consulta da ANVISA, que não criou identificador. O PR #170, ainda aberto, não entra na soma. Após o merge, o total esperado pelo delta é **42.666 registros em 184 órgãos**. É soma focada, sem nova contagem global; os lotes já integrados permanecem.
+
+A página hospedeira da CGE/GO tem 115 linhas não vazias; 40 são de 2020. Dessas, 38 têm espécie `Despacho` após comparação sem distinção de caixa e foram atribuídas à PGE/GO pela leitura dos atos; as outras duas são pareceres de outros emissores. Não se atribuiu autoria à CGE/GO. Em 2020, os 38 PDFs têm URLs distintas. Os números do catálogo e os impressos foram reconciliados pelo conteúdo, sem forçar identidade pelo rótulo; o Despacho nº 684 imprime `PJ- 10235`, e o nº 378 imprime `ADSET- 12543`, da Procuradoria Setorial da Secretaria de Estado de Governo. O PDF do rótulo 695 contém 14 páginas, mas apenas as páginas físicas 1–7 são o despacho-alvo; as páginas 8–14 são outros atos e não foram incorporadas.
+
+Cada um dos 38 PDFs foi capturado duas vezes: HTTP 200 em ambas, bytes e SHA-256 coincidentes. Foram lidas visualmente todas as 235 páginas físicas dos PDFs, com apoio das camadas textuais; 228 páginas pertencem aos atos incorporados. Não foi usado OCR. Campos tarjados foram omitidos sem recuperar seu conteúdo; placeholders literais e nomes e funções públicas foram mantidos. CPF, RG, matrícula, inclusive parciais, autenticações, QR codes, CRC, códigos de barras e URLs de validação foram omitidos. Redações riscadas do nº 1950 e datas distintas foram mantidas sem harmonização. Referências, citações e notas foram preservadas; atos apenas citados não receberam IDs. O índice descreve os limites de identidade e páginas. Os PDFs, imagens, extrações e recibos permanecem privados; o lote público contém apenas Markdown.
 
 ## PGE/GO — quatro despachos referenciais de 2019
 
@@ -111,7 +146,7 @@ Esse lote levou o índice da série a 27 despachos e 202 páginas físicas. As o
 
 ## PGE/GO — 15 despachos referenciais de 2022
 
-Sobre a main `4f81d6177a28b6937cfb354d1fb01db8a2363e6d` (42.586 registros em 182 órgãos, PGEGO 49, já com os quatro despachos de 2019), este lote acrescenta 15 identidades e nenhum órgão: **+15 registros, +0 órgãos**, total de 42.601 em 182 órgãos e PGEGO 64 (22 súmulas e 42 despachos). A soma usa somente o delta focado; não foi repetida a varredura global. O índice da série passa a 42 despachos e 315 páginas físicas. Restam 73 linhas do catálogo.
+Sobre a main `4f81d6177a28b6937cfb354d1fb01db8a2363e6d` (42.586 registros em 182 órgãos, PGEGO 49, já com os quatro despachos de 2019), este lote acrescenta 15 identidades e nenhum órgão: **+15 registros, +0 órgãos**, total de 42.601 em 182 órgãos e PGEGO 64 (22 súmulas e 42 despachos). A soma usa somente o delta focado; não foi repetida a varredura global. Esse lote levou o índice da série a 42 despachos e 315 páginas físicas. As outras 73 linhas do catálogo, naquele momento, continuavam pendentes.
 
 O HTML primário do catálogo tem 115 linhas documentais não vazias. A seleção verificou tipo por `casefold()`, ano 2022 e emissor PGE/PGEGO: 15 linhas, sendo 12 com o rótulo `Despacho` e três `DESPACHO`; os 15 vínculos apontam a PDFs distintos. O catálogo conserva 297.215 bytes e SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF teve duas capturas HTTP 200 com bytes e SHA-256 coincidentes.
 
@@ -124,9 +159,10 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
 | [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
-| [PGE/GO — despachos referenciais de 2019–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 69 documentos / 520 páginas | 27 | 42 |
+| [PGE/GO — despachos referenciais de 2019–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 107 documentos / 755 páginas | 27 | 80 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
@@ -201,6 +237,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
 | [MPRS — Súmulas do Conselho Superior](https://www.mprs.mp.br/orgaoscolegiados/sumulas/) | 21 | 21 | 0 |
+| [MPGO — Súmulas do Conselho Superior](https://www.mpgo.mp.br/portal/atos_normas/1217) | 15 | 15 | 0 |
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
 | [MPGO — Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4) | 41 | 41 | 0 |
 | [MPGO — Enunciados ANPP](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal) | 15 | 15 | 0 |
@@ -235,6 +272,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
 | [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
 | [ANP — Súmulas no DOU, consulta de 30/10/2026](https://www.in.gov.br/consulta/-/buscar/dou?q=S%C3%BAmula&s=do1&exactDate=all&sortType=0&delta=50&artType=S%C3%BAmula&orgPrin=Minist%C3%A9rio+de+Minas+e+Energia&orgSub=Ag%C3%AAncia+Nacional+do+Petr%C3%B3leo%2C+G%C3%A1s+Natural+e+Biocombust%C3%ADveis) | 7 nessa consulta; a mesma com termo vazio devolveu 0 | 7 | 0 |
+| [ANVISA — consultas de 30/10/2026 no DOU e no AnvisaLegis](https://www.in.gov.br/consulta/-/buscar/dou?q=S%C3%BAmula&s=do1&exactDate=all&sortType=0&delta=50&artType=S%C3%BAmula&orgPrin=Minist%C3%A9rio+da+Sa%C3%BAde&orgSub=Ag%C3%AAncia+Nacional+de+Vigil%C3%A2ncia+Sanit%C3%A1ria) | 0 súmulas próprias nestas consultas | 0 | 0 |
 | [ANATEL — Súmulas do Conselho Diretor](https://informacoes.anatel.gov.br/legislacao/sumulas) | 27 localizados pelo leitor; total da série não confirmado | 27 | 0 |
 | [CMRI — Súmulas dos catálogos de vigentes e revogados](https://www.gov.br/casacivil/pt-br/assuntos/colegiados/comissao-mista-de-reavaliacao-de-informacoes-cmri/normativos-vigentes) | 8 | 8 | 0 |
 | [CNIC — Enunciados de súmula administrativa](https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/sumulas-da-comissao-nacional-de-incentivo-a-cultura) | 33 | 33 | 0 |
@@ -1182,6 +1220,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [ANCINE](tribunais/ANCINE/) | 20 | ANCINE — fichas oficiais e 21 páginas dos PDFs, variantes preservadas |
 | [PROCONSP](tribunais/PROCONSP/) | 3 | Fundação PROCON/SP — três PDFs oficiais ligados no catálogo de legislação |
 | [Fórum dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/) | 25 | I Jornada — caderno final hospedado pelo CNJ; órgão distinto do FONEF/AJUFE |
 | [PGEES](tribunais/PGEES/) | 58 | PGE/ES — catálogo HTML de enunciados administrativos CPGE, números 01–58 |
@@ -1204,7 +1243,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
-| [MPGO](tribunais/MPGO/) | 69 | MPGO — 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias da CEP e da SPGJ/AJ |
+| [MPGO](tribunais/MPGO/) | 84 | MPGO — 15 súmulas CSMP, 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
@@ -1233,7 +1272,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
-| [PGEGO](tribunais/PGEGO/) | 91 | PGE/GO — 22 súmulas administrativas e 69 despachos referenciais |
+| [PGEGO](tribunais/PGEGO/) | 129 | PGE/GO — 22 súmulas administrativas e 107 despachos referenciais |
 | [PGEAP](tribunais/PGEAP/) | 18 | PGE/AP — Súmulas Administrativas do CONSUP/PGE |
 | [PROCONPB](tribunais/PROCONPB/) | 4 | PROCON/PB — Súmulas da Câmara Recursal |
 | [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
@@ -2703,8 +2742,14 @@ Sobre a main `669cf364adfa339c027e39d49f16e421781fba7c`, 42.563 registros em 181
 
 ## PGE/GO — 27 despachos referenciais de 2021
 
-Sobre a main `d65e217dc374757da90acbf37ad10c04b54933f9`, com 42.608 registros em 183 órgãos e PGEGO 64 (22 súmulas e 42 despachos, já com os 15 despachos de 2022 e as sete súmulas da ANP), o delta é **+27 registros e +0 órgãos**: total esperado de **42.635/183**, com PGEGO 91 (22 súmulas e 69 despachos). É soma focada do delta, sem nova auditoria global. O lote aberto de 2020 (#169) não foi contado. Os despachos de 2019 e de 2022 já integrados foram preservados, assim como as nove lacunas textuais originais do BNP. O índice da série passa a 69 despachos e 520 páginas físicas. Restam 44 linhas do catálogo.
+Sobre a main `f290c179ca418b4c8e545d28ecb50588474c95fa`, com 42.681 registros em 184 órgãos e PGEGO 102 (22 súmulas e 80 despachos, já com os 38 despachos de 2020), o delta é **+27 registros e +0 órgãos**: total de **42.708 registros em 184 órgãos**, com PGEGO 129 (22 súmulas e 107 despachos). É soma focada do delta, sem nova auditoria global. O lote de 2020 e as quinze súmulas do CSMP/MPGO já integradas permanecem, assim como as nove lacunas textuais originais do BNP. O índice da série passa a 107 despachos e 755 páginas físicas. Seis linhas do catálogo, um acórdão do TCE e cinco pareceres de outros emissores, continuam fora da série.
 
 As 29 linhas de 2021 do catálogo hospedado pela CGE/GO correspondem a 27 PDFs distintos. A PGE/GO é a emissora. O rótulo 1668 liga o despacho 1674; o rótulo 1399 liga o despacho 1290. Sem documento próprio, 1668 e 1399 não receberam IDs. As 205 páginas físicas foram lidas visualmente, com apoio das camadas textuais em 26 PDFs; a transcrição do despacho 1290 é manual, sem OCR. As páginas 13–24 do PDF 1290 contêm o Parecer PROCSET nº 591/2021: foram lidas, mas não transcritas neste lote. Conhecimento e aprovação parciais, ressalvas e acréscimos do despacho permanecem literais.
 
 Os 27 pares de capturas têm HTTP 200, bytes e SHA-256 coincidentes; os recibos por documento estão no [índice da série](tribunais/PGEGO/desp-ref/). Cabeçalhos e rodapés repetidos, autenticações, caminhos locais e identificadores pessoais foram omitidos. Tarjas não foram recuperadas. Notas, redações riscadas e irregularidades da fonte foram mantidas, sem atualização normativa. Apenas Markdown é público; capturas, imagens, scripts e recibos continuam privados. Não se infere vigência, força vinculante ou completude.
+
+## MPGO — súmulas do Conselho Superior
+
+Quinze registros, números 1–15, lidos no contêiner jurídico do [catálogo oficial](https://www.mpgo.mp.br/portal/atos_normas/1217), em duas capturas HTTP 200 de 30/10/2026, com 91.783 bytes cada. O texto normalizado coincide; os HTMLs completos têm hashes diferentes, registrados no [índice da série](tribunais/MPGO/sum-csmp/README.md). Os riscos nos corpos 7, 8, 9, 12 e 15 e as notas de revogação fora deles foram preservados. Não foram inferidos anos para 1–8, vigência atual, efeito vinculante ou completude. Grafias como “afixaçãodo” e “não verifica-se” permanecem.
+
+Não houve PDF ou OCR. Normas, resolução, diários e atas apenas citados ou vinculados não foram lidos nem receberam IDs. Esta série é do CSMP, separada dos emissores CEP e SPGJ/AJ. Sobre a main `8aeec6055f858256b9205c0c90b597138680ade2`, que já integra os 38 despachos referenciais de 2020 da PGE/GO (PGEGO 102), as vinte súmulas da ANCINE, as sete da ANP, as 27 da ANATEL e a consulta da Anvisa sem identificador, o delta é +15 registros e nenhum órgão: 42.666 → 42.681 registros, 184 órgãos; MPGO 69 → 84. O PR #170, ainda aberto, não entra na soma. Não foi repetida a auditoria global. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; evidências privadas e cobertura parcial.
