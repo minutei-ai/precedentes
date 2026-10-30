@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.124 registros únicos de 175 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.182 registros únicos de 176 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -28,6 +28,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
 | [CRSFN — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/legislacao) | 6 | 6 | 0 |
 | [CRSNSP — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/legislacao/legislacao) | 6 | 6 | 0 |
@@ -1054,6 +1055,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [Fórum dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/) | 25 | I Jornada — caderno final hospedado pelo CNJ; órgão distinto do FONEF/AJUFE |
+| [PGEES](tribunais/PGEES/) | 58 | PGE/ES — catálogo HTML de enunciados administrativos CPGE, números 01–58 |
 | [FONAJUS](tribunais/FONAJUS/) | 176 | FONAJUS/CNJ — números 1–176 em uma identidade cada, com histórico atribuído e fontes da VI, VII e VIII Jornadas |
 | [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
 | [FONAREF](tribunais/FONAREF/) | 36 | 1º, 2º e 3º Congressos, em séries independentes |
@@ -1148,7 +1150,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
 
@@ -2506,3 +2508,13 @@ As duas capturas diretas de 30/10/2026 responderam HTTP 200, com 534.399 bytes e
 Foram reunidas quebras tipográficas, preservando os hífens lexicais e dos números processuais. O nº 22 conserva “mudou-se, desconhecido ou recusado” e o nº 24 conserva “compete a parte” e “prosseguimento feito”. Normas e julgados citados não geraram identificadores. Propostas anteriores, outros eventos e atos apenas referidos não foram lidos neste lote. Não se infere vigência atual, força vinculante ou exaustividade histórica.
 
 Sobre a main `5c7e878ecdf17035c60a5e9d2fb9cc19e4f93040`, com 42.099 registros em 174 órgãos, este lote acrescenta 25 registros e um órgão: total esperado de 42.124 registros em 175 órgãos. FONAJUS 176, FONEF 69, CRSFN 6 e CRSNSP 11 permanecem; as nove lacunas iniciais do BNP não mudam. A contagem global não foi repetida nesta etapa; foram conferidos os 25 IDs e corpos do lote.
+
+## PGE/ES — Enunciados administrativos CPGE
+
+Foram integrados 58 registros numerados de 01 a 58 do [catálogo oficial da PGE/ES](https://pge.es.gov.br/enunciados), em órgão e série administrativos próprios. As duas capturas de 30/10/2026 responderam HTTP 200, com 399.899 bytes cada e SHA-256 `5100e9650ac4e3829d24da34a837ebabc249241fc99ef61ef588009e716ee680`. Os HTMLs são idênticos em bytes. O contêiner jurídico foi lido integralmente, preservando cabeçalhos, parágrafos, listas e fechos. Os nºs 43 e 44 usam cabeçalhos em caixa alta e não foram perdidos na divisão. Não há tabela ou marcação de risco no contêiner; negrito e itálico foram reduzidos a texto conforme declarado. Não houve leitura de PDF ou OCR.
+
+Permanecem os números soltos `110`, `115`, `125`, `135`, `145`, `150` e `155` nos nºs 01–07, “i tem IV” no nº 06, os dois incisos III do nº 16 e os do nº 40, a alínea h repetida no nº 38, as aspas e “CPGE GE” no nº 58. O nº 16 declara revogado o 17, mas o catálogo ainda publica seu corpo; ambos foram conservados em seus números. O nº 22 mantém o corpo e a nota de revogação pela Resolução 324/2022. A observação de publicação dos nºs 1–22 fica uma vez no README da série. As notas de alteração das resoluções vinculadas permanecem atribuídas ao HTML, sem inferir vigência atual, efeito vinculante ou completude.
+
+Os documentos ligados — resoluções, minuta, lista de checagem e parecer — não foram lidos e seguem pendentes para cotejo do histórico, redações anteriores e atos de alteração/revogação. Leis, julgados e atos apenas citados não geraram IDs. Não foram publicados PDF, HTML bruto, imagens ou scripts. O órgão é a PGE/ES, distinto de TJES, TCEES e Procuradorias de outros entes.
+
+Base: main `8e553a6bdc0e7c9fd4e1ae9bfeb5d0ae22cb3758`, com 42.124 registros e 175 órgãos. Delta de 58 registros e um órgão: total esperado 42.182/176. A I Jornada dos Juízes de Execução Fiscal (25), FONEF (69), FONAJUS (176), CRSFN (6) e CRSNSP (11) permanecem. Os PRs Anatel e Fonamec abertos não entram nessa conta. As nove lacunas iniciais do BNP permanecem. A verificação global não foi repetida; houve conferência focada de blocos, pares de captura, IDs, links e correspondência textual.
