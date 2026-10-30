@@ -1,0 +1,24 @@
+# CJF · I Jornada de Direito Civil · Enunciado 78
+
+- **Órgão:** Conselho da Justiça Federal (CJF)
+- **Emissor:** I Jornada de Direito Civil
+- **Espécie:** Enunciado de jornada
+- **Número:** 78
+- **Identificador:** `cjf-en-civil-i-78`
+- **Jornada na ficha:** I Jornada de Direito Civil
+- **Coordenador-Geral indicado:** Ministro Ruy Rosado de Aguiar
+- **Comissão de Trabalho:** Direito das Coisas (inativo)
+- **Coordenador da Comissão de Trabalho indicado:** Munir Karam
+- **Fonte:** [ficha oficial do CJF](https://www.cjf.jus.br/enunciados/enunciado/705)
+- **Capturas HTML:** duas respostas HTTP 200 em 29/10/2026; campos jurídicos e metadados coincidentes
+- **Bytes e SHA-256 dos HTMLs:** 6.082 bytes. SHA-256 `04a5266fa08430a2c43e19a7fd5d375304e548f7f30fffef8f36f6fc4cbdc474`; 6.082 bytes. SHA-256 `2b88e129584652ff0d0ab29612cc2e5aa781a4e831c9360ff2f9cca06f2845ea`
+- **Referência Legislativa na ficha:** Norma: Código Civil 2002 - Lei n. 10.406/2002 ART: 1210 PAR:2;
+- **Palavras de Resgate na ficha:** DIREITO DAS COISAS, INTERDITO POSSESSÓRIO, INTERDITO PROIBITÓRIO, EFEITOS DA POSSE, MANUTENÇÃO DA POSSE, REINTEGRAÇÃODE POSSE, POSSE VICIOSA, POSSE JUSTA
+
+## Texto publicado na ficha
+
+Tendo em vista a não-recepção pelo novo Código Civil da exceptio proprietatis (art. 1.210, § 2º) em caso de ausência de prova suficiente para embasar decisão liminar ou sentença final ancorada exclusivamente no ius possessionis, deverá o pedido ser indeferido e julgado improcedente, não obstante eventual alegação e demonstração de direito real sobre o bem litigioso.
+
+## Conferência e limites
+
+Os campos da ficha e a listagem da pesquisa `jornada.id=41` foram conciliados nas capturas em par. Espaços e quebras do HTML normalizados, sem inserir espaços ausentes na fronteira de tags inline. As nºs 41 e 64 têm texto no campo revogado, riscado pelo CSS oficial, com notas de supressão/cancelamento separadas; a nº 56 tem aviso no HTML e redação histórica recuperada do PDF. Nas nºs 96 e 120–137, a remissão do HTML e o texto propositivo do PDF permanecem separados. Grafias, citações e referências históricas não foram atualizadas. Os campos legislativos e as notas pertencem à fonte; notas sobre revogação de artigos não foram convertidas em cancelamento do verbete. Não se infere vigência atual, efeito vinculante, data individual de aprovação ou completude das jornadas. Normas, moções, decisões e órgãos apenas citados não receberam novos IDs.
