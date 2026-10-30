@@ -1,0 +1,16 @@
+# STJ · Enunciado científico do 1º Congresso da Primeira Instância · registro de ordem 199
+
+- **Órgão:** Superior Tribunal de Justiça (STJ)
+- **Evento:** 1º Congresso STJ da Primeira Instância Federal e Estadual
+- **Espécie:** Enunciado científico aprovado em evento
+- **Número na ordem dos registros:** 199
+- **Número exibido na fonte:** 199
+- **Identificador:** `stj-en-congresso-primeira-i-199`
+- **Seção exibida na fonte:** Ampla Defesa, ANPP e Medidas Cautelares
+- **Linha no leitor da fonte:** 7971
+- **Fonte:** [STJ — Enunciados Científicos](https://scon.stj.jus.br/SCON/ec/listaEC.jsp)
+- **Documento oficial dos enunciados aprovados:** [STJ — PDF do Congresso](https://www.stj.jus.br/sites/portalp/SiteAssets/Paginas/Institucional/Educacao-e-cultura/Eventos/1-Congresso-STJ-da-Primeira-Instancia-Federal-e-Estadual/Enunciados-aprovados-1-Congresso-1-Instancia.pdf)
+
+## Texto disponibilizado pela fonte
+
+A contemporaneidade exigida para a decretação ou manutenção da prisão preventiva, nos termos do art. 312 do Código de Processo Penal, refere-se à atualidade dos motivos autorizadores da segregação cautelar, sendo irrelevante o tempo decorrido desde a prática do delito, uma vez demonstrada a persistência dos requisitos legais que justificam a medida.
