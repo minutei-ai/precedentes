@@ -40,7 +40,7 @@ Vitória, 10 de outubro de 2020.
 
 LUCIANA GOMES FERREIRA DE ANDRADE PRESIDENTE
 
-## Documento: alteracao-7-2024
+## Documento: Resolução CSMP nº 005/2024
 
 - **Fonte:** [PDF oficial](https://mpes.mp.br/wp-content/uploads/2024/07/RESOLUCAO-CSMP-No-005.2024-ALTERACAO-SUMULA-CSMP-07-1.pdf)
 - **Capturas:** duas respostas HTTP 200, 153.364 bytes cada; SHA-256 `233bd25befd0e38a185590e0bd21733b680a43b9da1674cdecf9cc0eaa555e85`.
