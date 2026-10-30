@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-ENUNCIADO ANPP N. 15: Ao fundamentar a não propositura do acordo de não persecução penal, o membro ou a membra do Ministério Público deverá esgotar todas as razões que justificam a não aplicação do instituto negocial, à luz do artigo 28-A, caput e §2º, do CPP.
+ENUNCIADO ANPP N. 15: Ao fundamentar a não propositura do acordo de não persecução penal, o membro ou a membra do Ministério Público deverá esgotar todas as razões que justificam a não aplicação do instituto negocial, à luz do artigo 28-A, *caput* e §2º, do CPP.
 
 ## Conferência e limites
 

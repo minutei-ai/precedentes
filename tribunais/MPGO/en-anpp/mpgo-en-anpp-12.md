@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-ENUNCIADO ANPP N. 12: Em caso de desclassificação do fato na sentença, para infração penal cometida sem violência ou grave ameaça, com pena mínima inferior a quatro anos, ou a ocorrência de qualquer fato processual que, em tese, faça exsurgir o requisito objetivo para a celebração do acordo de não persecução penal previsto no artigo 28-A, caput, do CPP, ausente recurso do Ministério Público, deve o Promotor ou Promotora de Justiça oficiante analisar o cabimento do negócio jurídico em primeira instância (STF, HC n. 185.913/DF, Min. Gilmar Mendes, DJe 19/11/2024).
+ENUNCIADO ANPP N. 12: Em caso de desclassificação do fato na sentença, para infração penal cometida sem violência ou grave ameaça, com pena mínima inferior a quatro anos, ou a ocorrência de qualquer fato processual que, em tese, faça exsurgir o requisito objetivo para a celebração do acordo de não persecução penal previsto no artigo 28-A, *caput*, do CPP, ausente recurso do Ministério Público, deve o Promotor ou Promotora de Justiça oficiante analisar o cabimento do negócio jurídico em primeira instância (STF, HC n. 185.913/DF, Min. Gilmar Mendes, DJe 19/11/2024).
 
 ## Conferência e limites
 

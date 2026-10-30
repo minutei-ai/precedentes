@@ -6,12 +6,12 @@
 - **Identificador:** `mpgo-en-subjur-41`
 - **Rótulo na fonte:** ENUNCIADO 41
 - **Fonte:** [Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4)
-- **Nota de referência e situação literal na fonte:** Referência: Autos n. 202100298478, publicado no DOMP em 21/3/2023. Revisado e transformado no Enunciado ANPP n. 13 - Autos Administrativos n. 202600008763 - Publicado na edição n. 4080 do Diário Oficial do Ministério Público de 12/01/2026
+- **Nota de referência e situação literal na fonte:** Referência: Autos n. 202100298478, publicado no DOMP em 21/3/2023. ~~Revisado e transformado no Enunciado ANPP n. 13 - Autos Administrativos n. 202600008763 - Publicado na edição n. 4080 do Diário Oficial do Ministério Público de 12/01/2026~~
 - **Situação jurídica:** A página registra apenas as notas reproduzidas acima. Não se infere vigência atual nem efeito vinculante.
 
 ## Texto publicado
 
-ENUNCIADO 41: O Promotor de Justiça designado nos termos do artigo 3º, § 2º, inciso II, do Ato PGJ n. 2, de 23 de janeiro de 2020, está vinculado ao oferecimento da proposta de acordo de não persecução penal, em observância ao posicionamento externado pelo Chefe Institucional do Ministério Público, cabendo-lhe o estabelecimento das condições para a celebração da avença.
+~~ENUNCIADO 41: O Promotor de Justiça designado nos termos do artigo 3º, § 2º, inciso II, do Ato PGJ n. 2, de 23 de janeiro de 2020, está vinculado ao oferecimento da proposta de acordo de não persecução penal, em observância ao posicionamento externado pelo Chefe Institucional do Ministério Público, cabendo-lhe o estabelecimento das condições para a celebração da avença.~~
 
 ## Conferência e limites
 

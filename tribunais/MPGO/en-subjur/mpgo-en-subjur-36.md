@@ -6,12 +6,12 @@
 - **Identificador:** `mpgo-en-subjur-36`
 - **Rótulo na fonte:** ENUNCIADO 36
 - **Fonte:** [Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4)
-- **Nota de referência e situação literal na fonte:** - Referência: Autos n. 202100177630, publicado no DOMP em 05/07/2021 . - Revisado e transformado no Enunciado ANPP n. 13 - Autos Administrativos n. 202600008763 - Publicado na edição n. 4080 do Diário Oficial do Ministério Público de 12/01/2026
+- **Nota de referência e situação literal na fonte:** - Referência: Autos n. 202100177630, publicado no DOMP em 05/07/2021 . - ~~Revisado e transformado no Enunciado ANPP n. 13 - Autos Administrativos n. 202600008763 - Publicado na edição n. 4080 do Diário Oficial do Ministério Público de 12/01/2026~~
 - **Situação jurídica:** A página registra apenas as notas reproduzidas acima. Não se infere vigência atual nem efeito vinculante.
 
 ## Texto publicado
 
-ENUNCIADO 36: É possível o não oferecimento de acordo de não persecução penal, mediante fundamentação concreta, mesmo na hipótese do delito de tráfico privilegiado (art. 33, § 4º, Lei n. 11.343/06).
+~~ENUNCIADO 36: É possível o não oferecimento de acordo de não persecução penal, mediante fundamentação concreta, mesmo na hipótese do delito de tráfico privilegiado (art. 33, § 4º, Lei n. 11.343/06).~~
 
 ## Conferência e limites
 

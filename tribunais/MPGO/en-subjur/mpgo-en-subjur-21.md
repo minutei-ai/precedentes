@@ -6,12 +6,12 @@
 - **Identificador:** `mpgo-en-subjur-21`
 - **Rótulo na fonte:** ENUNCIADO 21
 - **Fonte:** [Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4)
-- **Nota de referência e situação literal na fonte:** Referência: Autos n. 202100151970, publicado no DOMP em 07/05/2021 . Cancelado: Autos Administrativos n. 202500539222 - Publicado na edição n. 4008 do Diário Oficial do Ministério Público de 22/09/2025
+- **Nota de referência e situação literal na fonte:** ~~Referência: Autos n. 202100151970, publicado no DOMP em 07/05/2021 . Cancelado: Autos Administrativos n. 202500539222 - Publicado na edição n. 4008 do Diário Oficial do Ministério Público de 22/09/2025~~
 - **Situação jurídica:** A página registra apenas as notas reproduzidas acima. Não se infere vigência atual nem efeito vinculante.
 
 ## Texto publicado
 
-ENUNCIADO 21: Homologado o acordo de não persecução cível pelo Conselho Superior do Ministério Público, serão os autos do inquérito civil público ou do procedimento preparatório arquivados, ressalvando-se a possibilidade de desarquivamento, em caso de descumprimento do avençado.
+~~ENUNCIADO 21: Homologado o acordo de não persecução cível pelo Conselho Superior do Ministério Público, serão os autos do inquérito civil público ou do procedimento preparatório arquivados, ressalvando-se a possibilidade de desarquivamento, em caso de descumprimento do avençado.~~
 
 ## Conferência e limites
 

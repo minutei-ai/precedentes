@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-ENUNCIADO ANPP N. 04: O artigo 28-A, §14, do Código de Processo Penal assegura o reexame da negativa ministerial à formulação de acordo de não persecução penal em caso de requerimento do acusado, razão pela qual a remessa ex officio dos autos pelo Poder Judiciário configura hipótese de não conhecimento pelo(a) Procurador(a)-Geral de Justiça.
+ENUNCIADO ANPP N. 04: O artigo 28-A, §14, do Código de Processo Penal assegura o reexame da negativa ministerial à formulação de acordo de não persecução penal em caso de requerimento do acusado, razão pela qual a remessa *ex officio dos autos pelo Poder Judiciário* configura hipótese de não conhecimento pelo(a) Procurador(a)-Geral de Justiça.
 
 ## Conferência e limites
 

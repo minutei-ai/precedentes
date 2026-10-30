@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.929 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.077 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -190,6 +190,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
 | [STJ — Enunciados científicos do 1º Congresso da Primeira Instância](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 257 | 257 | 0 |
+| [STJ — Enunciados científicos do 2º Congresso da Primeira Instância](tribunais/STJ/en-congresso-primeira-ii/) | 148 | 148 | 0 |
 | [STJ — Enunciados Científicos, 2º Congresso da Segunda Instância Federal e Estadual](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 126 | 126 | 0 |
 | [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
 | [TJCE — Súmulas, edição de 2025](https://portal.tjce.jus.br/uploads/2025/09/SUMULAS-2025.pdf) | 72 | 72 | 0 |
@@ -910,7 +911,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | BNP coletado | Inventário BNP |
 | --- | ---: | ---: | ---: |
 | [STF](tribunais/STF/) | 7.490 | 7.490 | 7.490 |
-| [STJ](tribunais/STJ/) | 3.557 | 3.016 | 3.016 |
+| [STJ](tribunais/STJ/) | 3.705 | 3.016 | 3.016 |
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
@@ -1019,7 +1020,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
-| [MPGO](tribunais/MPGO/) | 69 | MPGO — CEP (13), SUBJUR (41) e ANPP (15); emissores e séries separados |
+| [MPGO](tribunais/MPGO/) | 69 | MPGO — 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias da CEP e da SPGJ/AJ |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
@@ -1737,23 +1738,6 @@ Nenhuma das fontes declara vigência, revogação ou efeito vinculante, e a aus�
 
 Sobre a main `82dd278e86cb99169d1d252cd6421cda98b4b3ab`, com 37.030 registros em 146 órgãos, MPF 430, MPM 73, MPT 32, TJAM 74 e MPCE 34, este lote soma 13 registros e um órgão: 37.043 registros em 147 órgãos, com o MPGO em 13. As nove lacunas textuais do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. A cobertura nacional continua parcial.
 
-## MPGO — séries SUBJUR e ANPP da SPGJ/AJ
-
-Foram incorporados 41 blocos da página [Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4) e 15 da página [Enunciados — revisão de recusa à propositura de acordo de não persecução penal](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal), do emissor Subprocuradoria-Geral de Justiça para Assuntos Jurídicos (SPGJ/AJ). São séries próprias e IDs separados dos 13 enunciados CEP já existentes. A página ANPP consultada alcança o nº 15.
-
-| Fonte | Captura 1: status, bytes, SHA-256 bruto | Captura 2: status, bytes, SHA-256 bruto | Bloco jurídico comparado |
-| --- | --- | --- | --- |
-| SUBJUR | 200; 130.476; `ce64960ff125557386d7b2ea2ef02a93b7afe1693b23ea918655e1a431051b7e` | 200; 130.476; `56a0bc08000b9f30824653ca922fde65cf71ba9bf855bb774ab9bf7afb1d5ede` | HTML completo igual nas duas capturas; 36.783 bytes; SHA-256 `e4522556efff19c765e466f19009dd1a5e284cbe6e039da3d51cc1fb5c484cff` |
-| ANPP | 200; 115.608; `31ffcca73422a9ec916a042d955d3e5e2517505837d3522032d4013751addd07` | 200; 115.608; `844a9eaa5ec82c7d46417f26b53f699eb1ad0db6889a8e2f36d37c7c1630fcff` | HTML completo igual nas duas capturas; 21.675 bytes; SHA-256 `fb8398d44090d9e7c110e9886677e3e2d6e631d99c5a77c8ca3cbc2593918063` |
-| Ato SPGJAJ n. 1/2025 (2259) | 200; 94.318; `6e092391ce91fbcd5bef2ad04b0871603a8ec5886a0b976150527a72b422dcc9` | 200; 94.318; `d21ed96df4a0af9fef67da3dfcc2e11bc1925553499abb66d9dfbc12083f982f` | Corpo completo igual; 11.125 bytes; SHA-256 `5bf7cfd975849c38d2728a03886147bb71e927651ea2d8c3f2dd661a62a7bb53` |
-| Ato/decisão ANPP 14 (2331) | 200; 92.649; `37579fadd5e1b1aeba9f2bb2653cd10347f3b971cbf18c1d98b9a23cc0d1b646` | 200; 92.649; `a33ef626319fa1f0dd948672812c83e4ef8f90dbcff0f6f07065d092c5185acf` | Corpo completo igual; 9.463 bytes; SHA-256 `9327e1c647e9eeddd9dda96f40bad99565b046d7c0843958b9e70f438e3975b0` |
-
-Os bytes e hashes das respostas HTML completas divergem entre pares; o HTML jurídico completo comparado coincide em cada par. Os recibos detalhados e as capturas ficam privados. O [Ato SPGJAJ n. 1/2025](https://www.mpgo.mp.br/portal/atos_normas/2259) foi lido integralmente: art. 2º define orientação não vinculante e parágrafo único separa o repositório ANPP. A decisão integral [Enunciado ANPP n. 14, de 8/1/2026](https://www.mpgo.mp.br/portal/atos_normas/2331) foi transcrita uma vez no registro ANPP 14, sem criar ID para o ato.
-
-A página SUBJUR marca os nºs 36 e 41 como “Revisado e transformado no Enunciado ANPP n. 13”. A decisão 2331, ao contrário, determina a revisão e transferência do SUBJUR 36 como ANPP 13, o cancelamento do SUBJUR 40 e a revisão e transferência do SUBJUR 41 como ANPP 14. As duas atribuições sobre o nº 41 permanecem atribuídas às respectivas fontes; registros históricos não foram fundidos. As anotações de situação da página, inclusive “Canelado” no nº 39, foram preservadas literalmente. O ato disciplina edição, revisão e cancelamento, mas as fichas não inferem vigência atual. Não foram gerados registros para atos, normas, casos ou autos citados, nem incorporados CPF, RG, matrícula pessoal ou autenticação. A CEP, SUBJUR e ANPP continuam separadas; não se incorporaram séries ANPC ou Terceiro Setor.
-
-Sobre a main `74f72ad85653acea63ad095368d2cdcd1759027d`, com 40.873 registros em 165 órgãos e MPGO em 13, entram 56 registros e nenhum órgão novo: 40.929 registros em 165 órgãos e MPGO em 69. O acervo mantém MPBA 10 e as séries STJ existentes sem alteração. A cobertura nacional continua parcial; atos, diários e deliberações além das páginas e da decisão lidas permanecem pendentes.
-
 ## MPSC — enunciados da Câmara Revisora Criminal
 
 A página oficial publica 17 enunciados, numerados de 1 a 17, sem lacuna. Foram lidos os títulos e todos os parágrafos, inclusive os itens de fundamentação das nºs 12, 15 e 16. Duas capturas HTTP 200 de 29/10/2026 têm 329.651 bytes cada e hashes brutos diferentes (`a0681d8448c3ee381b514c9027b807e8ffc53798cb37f4a8fa4037ff23afea7a` e `60a83e1eba3e39963c76b6c8649b957c6e75000377a98e4dfbf9443ff6f5f32c`); os 17 títulos e seus blocos HTML coincidem. Não foi afirmada igualdade dos arquivos completos.
@@ -2319,3 +2303,22 @@ Delta sobre a main `dd9c6058` (40.149 registros em 164 órgãos; CJF 1.671): 143
 Sobre a main `ff59cc17` (40.863 registros, 164 órgãos), entram dez registros e um órgão: 40.873 registros em 165 órgãos. Os números 001–010, textos, aprovações e referências foram lidos integralmente no [catálogo oficial](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas), em duas capturas HTTP 200 idênticas de 80.012 bytes, SHA-256 `e142e8f12e7851ef0a05e2a26ede627c7596ffc96cdd0798b9ea3232f81a9795`. As nºs 001 e 009 conservam o rótulo de cancelamento e o risco; na nº 001, o ponto final permanece fora do risco. A nº 002 conserva a nota de revisão pela nº 008 e o texto sem risco. Ausência de nota nas demais não significa vigência.
 
 A grafia “inciativa” na nº 005, “parágrafo I” na nº 002 e a construção “ao Conselho Superior à apreciação” na nº 010 permanecem. Espaços, quebras, negrito e sublinhado de título foram normalizados; risco e itálico foram preservados. Não houve PDF ou OCR neste lote. Tentativas de obter o diário de 02/04/2025 expiraram sem arquivo; a biblioteca Sophia retornou página de validação, sem corpo jurídico. Esses acessos não fundamentam transcrição nem ausência. Resoluções de aprovação, diários, atos de revisão e cancelamento, processos e outras séries continuam pendentes. Não se inferiu vigência ou efeito vinculante. As nove lacunas iniciais do BNP permanecem; somente Markdown foi publicado.
+
+
+## STJ — 2º Congresso da Primeira Instância Federal e Estadual
+
+A série acrescenta 148 enunciados científicos numerados de 1 a 148, conforme o bloco do [catálogo oficial do STJ](https://scon.stj.jus.br/SCON/ec/listaEC.jsp), linhas 8633–9139 do leitor consultado em 29/10/2026. O texto é derivado da leitura do catálogo; não há alegação de HTML bruto, hash de HTML ou capturas HTTP independentes. A linha 9140 inicia o 2º Congresso da Segunda Instância.
+
+A notícia oficial de 17/06/2026 anuncia 149 enunciados aprovados (31 + 111 + 7). A página oficial do evento ainda diz que os aprovados serão disponibilizados em breve e não liga documento final. O catálogo consultado lista 148 textos. A diferença permanece sem conciliação: nenhum nº 149 foi criado, e a ausência de um texto no catálogo não é tratada como prova de inexistência. O caderno de propostas admitidas é pré-evento e não foi usado como fonte de texto aprovado.
+
+Os registros preservam os números, cabeçalhos, notas e continuações publicados. O bloco não separa proposições legislativas; normas e casos citados não receberam IDs. Nomes de proponentes e funções públicas foram mantidos, sem dados pessoais restritos. São registros documentais de enunciados de evento, não decisões do STJ ou precedentes vinculantes; não se infere vigência, efeito vinculante ou completude. Apenas Markdown foi publicado.
+
+A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. Após conciliação com essa base, o total esperado é 41.021 registros em 165 órgãos, STJ 3.705.
+
+## MPGO — enunciados SUBJUR e ANPP
+
+Sobre `origin/main` `71d1707c` (41.021 registros em 165 órgãos, incluindo STJ 3.705, CJF 1.872 e MPGO 13), entram 41 enunciados SUBJUR e 15 enunciados ANPP, em séries próprias da SPGJ/AJ: 41.077 registros em 165 órgãos e MPGO 69, junto dos 13 enunciados CEP já existentes. Foram lidos os 41 blocos SUBJUR e os 15 ANPP diretamente nos HTMLs das duas páginas oficiais. Duas capturas de cada página retornam HTTP 200; em cada par, o bloco jurídico coincide por SHA-256, embora o HTML bruto varie. Números, textos, referências, notas e formatação de ênfase foram conferidos; aprovações e transferências foram comparadas com o inteiro teor oficial do Ato/decisão 2331 e o contexto normativo do Ato SPGJAJ 1/2025 (2259).
+
+A página SUBJUR atribui a transferência do nº 41 ao ANPP 13, enquanto a decisão 2331 atribui o nº 41 ao ANPP 14; as atribuições permanecem separadas por fonte. O catálogo geral lista 41 SUBJUR, incluindo textos históricos tachados, e a página ANPP lista 15. Não se inferiu vigência, força vinculante ou completude. Os 13 links para procedimentos internos do Atena retornaram HTTP 401 sem autenticação. Os cinco links a PDFs públicos responderam HTTP 200, mas nenhum PDF foi lido visualmente. Outros atos, diários e deliberações permanecem pendentes. Somente Markdown foi publicado; capturas e recibos continuam privados.
+
+Atualização de cobertura após este lote: 41.077 registros em 165 órgãos. As nove lacunas iniciais do BNP permanecem; nenhuma estatística de outros lotes ou histórico foi recalculada.
