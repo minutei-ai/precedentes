@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.628 registros únicos de 184 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.666 registros únicos de 184 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -119,6 +119,13 @@ O catálogo oficial da CGE/GO lista os rótulos 2231, 2062, 1563, 1554, 804, 692
 As duas capturas primárias do catálogo (seção `entry-content`, tabela de sete colunas) são idênticas: 297215 bytes e SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF teve duas respostas HTTP 200, com tamanhos e hashes idênticos. Foram lidas visualmente as 111 páginas dos PDFs, usando a camada textual como apoio; nenhuma página exigiu OCR. Glifos danificados nas camadas textuais de 1563 e 2062 foram corrigidos contra as imagens. Redações visíveis nos textos dos despachos 511 e 804 foram preservadas como riscadas.
 
 Campos tarjados foram omitidos sem recuperar camadas ocultas; o identificador parcial de CPF do despacho 2062 foi omitido. Blocos de assinatura/autenticação, números pessoais, códigos verificadores, CRC, QR, códigos de barras e URLs de validação não foram publicados. Nomes e funções públicas, referências, notas, continuações de página e fechos foram conservados. Nenhum ato apenas citado ganhou ID. Não se infere vigência, vinculação ou completude. Os originais, imagens, extrações e recibos permanecem privados; o lote público contém apenas Markdown.
+## PGE/GO — 38 despachos referenciais rotulados em 2020
+
+Sobre a main `f006f302d3f0a181e6f226341a213d3b7f7508c1`, com 42.601 registros em 182 órgãos (PGEGO 64, 22 súmulas e 42 despachos), este lote acrescenta 38 documentos e nenhum órgão: delta **+38 registros, +0 órgãos**, PGEGO 102 (22 súmulas e 80 despachos). A main avançou para `6cf3bfd2bf23ebe57aa2b1cdf5d760e950c27a61`, com 42.628 registros em 184 órgãos, já com as sete súmulas da ANP, as vinte da ANCINE e a consulta da ANVISA, que não criou identificador. O PR #170, ainda aberto, não entra na soma. Após o merge, o total esperado pelo delta é **42.666 registros em 184 órgãos**. É soma focada, sem nova contagem global; os lotes já integrados permanecem.
+
+A página hospedeira da CGE/GO tem 115 linhas não vazias; 40 são de 2020. Dessas, 38 têm espécie `Despacho` após comparação sem distinção de caixa e foram atribuídas à PGE/GO pela leitura dos atos; as outras duas são pareceres de outros emissores. Não se atribuiu autoria à CGE/GO. Em 2020, os 38 PDFs têm URLs distintas. Os números do catálogo e os impressos foram reconciliados pelo conteúdo, sem forçar identidade pelo rótulo; o Despacho nº 684 imprime `PJ- 10235`, e o nº 378 imprime `ADSET- 12543`, da Procuradoria Setorial da Secretaria de Estado de Governo. O PDF do rótulo 695 contém 14 páginas, mas apenas as páginas físicas 1–7 são o despacho-alvo; as páginas 8–14 são outros atos e não foram incorporadas.
+
+Cada um dos 38 PDFs foi capturado duas vezes: HTTP 200 em ambas, bytes e SHA-256 coincidentes. Foram lidas visualmente todas as 235 páginas físicas dos PDFs, com apoio das camadas textuais; 228 páginas pertencem aos atos incorporados. Não foi usado OCR. Campos tarjados foram omitidos sem recuperar seu conteúdo; placeholders literais e nomes e funções públicas foram mantidos. CPF, RG, matrícula, inclusive parciais, autenticações, QR codes, CRC, códigos de barras e URLs de validação foram omitidos. Redações riscadas do nº 1950 e datas distintas foram mantidas sem harmonização. Referências, citações e notas foram preservadas; atos apenas citados não receberam IDs. O índice descreve os limites de identidade e páginas. Os PDFs, imagens, extrações e recibos permanecem privados; o lote público contém apenas Markdown.
 
 ## PGE/GO — quatro despachos referenciais de 2019
 
@@ -139,7 +146,7 @@ Esse lote levou o índice da série a 27 despachos e 202 páginas físicas. As o
 
 ## PGE/GO — 15 despachos referenciais de 2022
 
-Sobre a main `4f81d6177a28b6937cfb354d1fb01db8a2363e6d` (42.586 registros em 182 órgãos, PGEGO 49, já com os quatro despachos de 2019), este lote acrescenta 15 identidades e nenhum órgão: **+15 registros, +0 órgãos**, total de 42.601 em 182 órgãos e PGEGO 64 (22 súmulas e 42 despachos). A soma usa somente o delta focado; não foi repetida a varredura global. O índice da série passa a 42 despachos e 315 páginas físicas. Restam 73 linhas do catálogo.
+Sobre a main `4f81d6177a28b6937cfb354d1fb01db8a2363e6d` (42.586 registros em 182 órgãos, PGEGO 49, já com os quatro despachos de 2019), este lote acrescenta 15 identidades e nenhum órgão: **+15 registros, +0 órgãos**, total de 42.601 em 182 órgãos e PGEGO 64 (22 súmulas e 42 despachos). A soma usa somente o delta focado; não foi repetida a varredura global. Esse lote levou o índice da série a 42 despachos e 315 páginas físicas. As outras 73 linhas do catálogo, naquele momento, continuavam pendentes.
 
 O HTML primário do catálogo tem 115 linhas documentais não vazias. A seleção verificou tipo por `casefold()`, ano 2022 e emissor PGE/PGEGO: 15 linhas, sendo 12 com o rótulo `Despacho` e três `DESPACHO`; os 15 vínculos apontam a PDFs distintos. O catálogo conserva 297.215 bytes e SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF teve duas capturas HTTP 200 com bytes e SHA-256 coincidentes.
 
@@ -155,7 +162,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
 | [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
-| [PGE/GO — despachos referenciais de 2019–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 42 documentos / 315 páginas | 15 | 27 |
+| [PGE/GO — despachos referenciais de 2019–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 80 documentos / 550 páginas | 38 | 42 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
@@ -1264,7 +1271,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
-| [PGEGO](tribunais/PGEGO/) | 64 | PGE/GO — 22 súmulas administrativas e 42 despachos referenciais |
+| [PGEGO](tribunais/PGEGO/) | 102 | PGE/GO — 22 súmulas administrativas e 80 despachos referenciais |
 | [PGEAP](tribunais/PGEAP/) | 18 | PGE/AP — Súmulas Administrativas do CONSUP/PGE |
 | [PROCONPB](tribunais/PROCONPB/) | 4 | PROCON/PB — Súmulas da Câmara Recursal |
 | [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
