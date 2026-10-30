@@ -12,7 +12,7 @@
 
 ## Texto do PDF
 
-Em crime de tortura, a perda do posto e da patente nos oficiais e da graduação das praças é efeito automático da condenação, independentemente do oferecimento da representação criminal para tal fim, em face do mandamento constante do §5º, do art. 1º, da Lei nº 9.455/97.
+Em crime de tortura, a perda do posto e da patente nos oficiais e da graduação das praças é efeito automático da condenação, independentemente do oferecimento da representação criminal para tal fim, em face do mandamento constante do § 5º, do art. 1º, da Lei nº 9.455/97.
 
 ## Anotação do catálogo
 
