@@ -1,10 +1,18 @@
 # Cobertura
 
-**42.715 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.728 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## TRF05 — súmulas da Turma Recursal/JFRN
+
+A [compilação oficial da Turma Recursal da Seção Judiciária do Rio Grande do Norte](https://siteadm.jfrn.jus.br/siteAdm/ExibirImagem?id=18724) publica treze súmulas, 01–13, em duas páginas. A Turma é identificada como emissora; a série fica sob o âmbito regional TRF05, sem confusão com súmulas do Pleno do TRF5, TRU, TNU ou FONAJEF. A nº 12 atravessa as páginas 1–2 e foi reunida integralmente. As duas páginas foram lidas nas imagens e cotejadas com a camada textual, sem OCR; “cautelarese”, da nº 06, e as outras grafias e pontuações foram mantidas. As notas de aprovação permanecem no corpo, sem inferência de vigência atual ou efeito vinculante.
+
+As duas capturas HTTP 200 têm 720.001 bytes e SHA-256 idêntico; o [índice da série](tribunais/TRF05/sum-tr-jfrn/) registra os recibos, as datas atribuídas às sessões e os limites. Atas, julgados paradigmas, regimento e eventual edição posterior seguem pendentes. A localização deste arquivo não prova que a série termina em 13 nem que inexista alteração ou cancelamento.
+
+Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, 42.715 registros em 185 órgãos, este lote soma +13 registros e +0 órgãos: total esperado **42.728 registros em 185 órgãos**, TRF05 **39**. O lote Forecrim de 38 identidades e os lotes MPES/MPSE, ainda não integrados, não entram nesta conta. A checagem é focada, sem auditoria global; as nove lacunas iniciais do BNP permanecem. Apenas Markdown público; PDFs, capturas e derivados privados.
 
 ## MPCSC — enunciados
 
@@ -169,6 +177,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [JFRN — Súmulas da Turma Recursal](https://siteadm.jfrn.jus.br/siteAdm/ExibirImagem?id=18724) | 13 | 13 | 0 |
 | [MPCSC — Enunciados](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) | 2 | 2 | 0 |
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
@@ -1144,7 +1153,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
-| [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
+| [TRF05](tribunais/TRF05/) | 39 | 4 | 4 |
 | [TRF06](tribunais/TRF06/) | 92 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
 | [TJAL](tribunais/TJAL/) | 14 | 4 | 4 |
