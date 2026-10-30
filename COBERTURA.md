@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.163 registros únicos de 176 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.181 registros únicos de 176 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -16,9 +16,11 @@ Os 42 enunciados e as 27 recomendações foram registrados em séries próprias 
 
 ## FONAMEC
 
-Foram integrados 39 enunciados do FONAMEC, nos números 1–3, 5–11, 14–21, 23–24, 28–30, 32–34 e 36–48, conforme o Anexo V do texto consolidado da [Resolução CNJ nº 125/2010](https://atos.cnj.jus.br/atos/detalhar/156). A [Resolução CNJ nº 686/2026](https://atos.cnj.jus.br/atos/detalhar/258) incluiu esse Anexo, que identifica os enunciados como referendados pelo Plenário e declara aplicabilidade restrita à Justiça Estadual. Atribuímos os textos ao FONAMEC, seu emissor; não ao TJBA, que hospeda uma cópia do caderno, nem ao CNJ, que referendou esse subconjunto.
+A série original contém 39 enunciados do FONAMEC nos números 1–3, 5–11, 14–21, 23–24, 28–30, 32–34 e 36–48, conforme o Anexo V do texto consolidado da [Resolução CNJ nº 125/2010](https://atos.cnj.jus.br/atos/detalhar/156). A [Resolução CNJ nº 686/2026](https://atos.cnj.jus.br/atos/detalhar/258) incluiu esse Anexo, que identifica aqueles textos como referendados pelo Plenário e declara aplicabilidade restrita à Justiça Estadual. O emissor é o FONAMEC; o TJBA hospeda o caderno e o CNJ referendou o subconjunto do Anexo V.
 
-O [portal NUPEMEC/TJBA](https://www.tjba.jus.br/nupemec/legislacao/) liga o Caderno de Enunciados I–XIX; a página de [chamamento do CNJ](https://www.cnj.jus.br/poder-judiciario/chamadas-publicas/enunciados-do-forum-nacional-de-mediacao-e-conciliacao-fonamec/) também remete a essa edição e descreve o XX FONAMEC previsto para novembro de 2026. O caderno completo não foi visualmente conferido nesta coleta, portanto não foram integrados outros enunciados, recomendações ou históricos a partir dele, nem propostas do XX encontro como aprovadas. O FONAMEC é distinto do FONEF, FONAREF, FONAPREC e FONAVID. A presença no acervo não declara vigência atual nem força vinculante geral.
+Na edição I–XIX do Caderno de Enunciados, ligada pelo [catálogo do NUPEMEC/TJBA](https://www.tjba.jus.br/nupemec/legislacao/) e também pela página de [chamamento do CNJ](https://www.cnj.jus.br/poder-judiciario/chamadas-publicas/enunciados-do-forum-nacional-de-mediacao-e-conciliacao-fonamec/), foram conferidas visualmente as 41 páginas disponíveis. Os 39 números coincidentes com identidades do Anexo V mantêm seus IDs e recebem a redação do caderno como variante atribuída; a identidade se baseia no número e na identificação da edição como relação atualizada que integra os textos referendados no Anexo V. Foram criados 13 IDs para os números novos 4, 12, 13, 22, 25–27, 31, 35 e 49–52, e cinco IDs em série própria para as recomendações 1–5. Os números 49–52 trazem notas de pendência de aprovação e posterior referendo pelo CNJ; não foram descritos como referendados. O número 27 mantém a nota de sobrestamento impressa; o nº 4 preserva a nota de unificação de teor ao nº 7. A numeração repetida de comissões no expediente do caderno não foi usada como identidade. A proposta do XX FONAMEC não foi tratada como aprovada.
+
+O delta desta integração é de 18 IDs novos (13 enunciados e cinco recomendações), sem órgão novo. As variantes dos 39 IDs existentes não aumentam a contagem. O FONAMEC é distinto do FONEF, FONAREF, FONAPREC e FONAVID. Não se infere vigência atual, força vinculante ou completude histórica.
 
 Sobre a main `702755c402b835aa3bd493bd80c486e0a6863678` (42.013 registros em 171 órgãos), o lote acrescenta 69 registros e um órgão: total de 42.082 registros em 172 órgãos. Permanecem os 176 registros FONAJUS, 137 do JFRJ, 186 FOREJEF, 430 do TRF04, 36 FONAREF e os 19 identificadores FONAREF explícitos já incorporados. As nove lacunas iniciais do BNP permanecem.
 
@@ -77,7 +79,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Enunciados FONEF](https://www.ajufe.org.br/foruns/fonef/enunciados-fonef) | 42 | 42 | 0 |
 | [AJUFE — Recomendações FONEF](https://www.ajufe.org.br/foruns/fonef/recomendacoes-fonef) | 27 | 27 | 0 |
-| [FONAMEC — Anexo V da Resolução CNJ nº 125/2010](https://atos.cnj.jus.br/atos/detalhar/156) | 39 | 39 | 0 |
+| [FONAMEC — Anexo V, Caderno I–XIX e recomendações](tribunais/FONAMEC/) | 57 | 18 | 39 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
 | [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
@@ -1070,7 +1072,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CJF](tribunais/CJF/) | 1.872 | Consulta de Enunciados — I e II Jornadas de Prevenção e Solução Extrajudicial, Notarial e Registral, Direito e Processo Penal, Patrimônio Cultural e Natural, Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, Jornadas I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX/X Civil, Processual Civil I/II/III/IV, Crises Ambientais I e Seguridade Social I |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [FONEF](tribunais/FONEF/) | 69 | AJUFE — 42 enunciados e 27 recomendações do Fórum Nacional de Execução Fiscal; listagens HTML consultadas pelo leitor web integrado, proveniência derivada |
-| [FONAMEC](tribunais/FONAMEC/) | 39 | FONAMEC — enunciados do Anexo V da Resolução CNJ nº 125/2010, incluído pela Resolução CNJ nº 686/2026 |
+| [FONAMEC](tribunais/FONAMEC/) | 57 | FONAMEC — Anexo V e Caderno I–XIX; variantes atribuídas e recomendações em série própria |
 | [MPBA](tribunais/MPBA/) | 10 | MPBA — Súmulas do Conselho Superior no catálogo HTML oficial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2518,3 +2520,10 @@ As duas capturas diretas de 30/10/2026 responderam HTTP 200, com 534.399 bytes e
 Foram reunidas quebras tipográficas, preservando os hífens lexicais e dos números processuais. O nº 22 conserva “mudou-se, desconhecido ou recusado” e o nº 24 conserva “compete a parte” e “prosseguimento feito”. Normas e julgados citados não geraram identificadores. Propostas anteriores, outros eventos e atos apenas referidos não foram lidos neste lote. Não se infere vigência atual, força vinculante ou exaustividade histórica.
 
 Sobre a main `5c7e878ecdf17035c60a5e9d2fb9cc19e4f93040`, com 42.099 registros em 174 órgãos, este lote acrescenta 25 registros e um órgão: total esperado de 42.124 registros em 175 órgãos. FONAJUS 176, FONEF 69, CRSFN 6 e CRSNSP 11 permanecem; as nove lacunas iniciais do BNP não mudam. A contagem global não foi repetida nesta etapa; foram conferidos os 25 IDs e corpos do lote.
+
+
+## FONAMEC — Caderno I–XIX, integração complementar
+
+Sobre a main `b8a66a361a46b20cf6ce84caded7b39b93daa4f6`, com 42.163 registros em 176 órgãos e 39 IDs FONAMEC, esta integração soma 18 IDs novos: 13 enunciados (4, 12, 13, 22, 25–27, 31, 35 e 49–52) e cinco recomendações em série própria. Os 39 IDs existentes permanecem com variantes atribuídas pelo número coincidente e pela identificação expressa da edição I–XIX como relação atualizada que integra os textos referendados no Anexo V. Total reconciliado: 42.181 registros em 176 órgãos. Nenhum órgão novo; FONAMEC passa a 57 IDs. As nove lacunas do BNP permanecem.
+
+Foram examinadas pessoalmente por `view_image` as 41 imagens prontas, páginas 1–41, incluindo trechos continuados entre páginas. A URL pública do PDF respondeu HTTP 200 em duas capturas privadas de 5.427.790 bytes, ambas com SHA-256 `1251317480df451d73deebc8a4293b183707b900e6491f877644e75cdcbf49d8`. O texto auxiliar e os metadados do PDF foram usados como apoio para a transcrição; não houve nova extração, renderização, OCR ou navegação. O PDF tem 41 páginas. O caderno apresenta enunciados 1–52 e recomendações 1–5. Permanecem literais as notas de redação e revisão, inclusive a unificação do nº 4 ao nº 7, o sobrestamento do nº 27, o ajuste no nº 52 e a pendência de referendo nos nºs 49–52. As menções a normas e outros enunciados não criaram IDs. A edição não foi tratada como prova de vigência, força vinculante ou completude. Somente Markdown público; PDF, imagens, recibos, extração e scripts permanecem privados.
