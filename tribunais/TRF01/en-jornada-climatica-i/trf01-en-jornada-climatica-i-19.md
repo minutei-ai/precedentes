@@ -6,7 +6,6 @@
 - **Identificador:** `trf01-en-jornada-climatica-i-19`
 - **Série de origem:** I Jornada de Justiça Climática e Transformação Ecológica, ESMAF
 - **Fonte:** [Edital oficial de publicação dos enunciados — TRF1](https://www.trf1.jus.br/sjpa/conteudo/Imprensa%20-%20SJPA/Edital%20-%20Jornada%20-%20enunciados.pdf#page=3)
-- **Caderno:** [I Jornada — Caderno de Enunciados, hospedado no FlipHTML5](https://online.fliphtml5.com/puuye/lctu/) (e-book do TRF1/ESMAF; linkado pela [notícia do MPF](https://www.mpf.mp.br/o-mpf/unidades/pr-pa/noticias/trf1-publica-enunciados-aprovados-na-1a-jornada-de-justica-climatica-que-tiveram-o-mpf-entre-os-proponentes))
 - **Capturas do edital:** 29/10/2026, duas respostas HTTP 200 idênticas, 74.008 bytes cada.
 - **SHA-256 do edital:** `904d03d4438ec7c5e11d3b629a89f6844ff6253e8d41aff847bfd14e2db592b7`
 - **Página física no edital:** 3 de 5
@@ -16,10 +15,6 @@
 ## Texto aprovado
 
 A execução judicial de Termos de Ajustamento de Conduta e de sentenças que estabeleçam compensações ambientais deve priorizar, sempre que possível, projetos voltados à bioeconomia e ao desenvolvimento sustentável local, com destaque para iniciativas que mantenham a floresta em pé e promovam geração de renda para as comunidades amazônicas, em conformidade com a Política Nacional sobre Mudança do Clima e com a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais. (Aprovado por maioria)
-
-## Comentário associado no Caderno
-
-Na conclusão, o Caderno usa este enunciado como exemplo e relaciona a prioridade a projetos de bioeconomia e desenvolvimento local que mantenham a floresta em pé e gerem renda para comunidades amazônicas, em articulação com as políticas nacionais citadas no próprio texto.
 
 ## Conferência e limites
 
