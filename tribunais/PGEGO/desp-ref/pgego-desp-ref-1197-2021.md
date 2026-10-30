@@ -62,7 +62,7 @@ JULIANA PEREIRA DINIZ PRUDENTE Procuradora-Geral do Estado
 
 [2] "Art. 230. Os atos e termos do processo administrativo disciplinar não dependem de forma determinada, senão quando a lei expressamente o exigir, reputando-se válidos os que, realizados de outro modo, preencham sua finalidade essencial e não prejudiquem a defesa. Parágrafo único. A comunicação dos atos processuais será preferencialmente realizada de forma pessoal, assim compreendidas: I - a intimação do acusado ou de seu defensor, em audiência; II - a intimação do acusado na repartição, mediante recibo; III - a intimação via postal do acusado, do seu defensor e das testemunhas; e IV - a utilização de meio eletrônico previamente informado à comissão processante, se confirmado o recebimento pelo destinatário para: a) a entrega de petição à comissão processante; e b) a intimação sobre atos do processo administrativo disciplinar, salvo a citação inicial."
 
-[3] https://www.controladoria.go.gov.br/files/Normas_cge/Instru%C3%A7%C3%B5es_norma vas_cge/Instru%C3%A7%C3%B5es%20Norma vas%20CGE%20-%202020/InstrucaoNormativa0420.pdf
+[3] https://www.controladoria.go.gov.br/files/Normas_cge/Instru%C3%A7%C3%B5es_normativas_cge/Instru%C3%A7%C3%B5es%20Normativas%20CGE%20-%202020/InstrucaoNormativa0420.pdf
 
 ## Nota de transcrição e limites
 
