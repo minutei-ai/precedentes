@@ -22,13 +22,21 @@ ASSUNTO: CONSULTA
 
 DESPACHO Nº 1290/2021 - GAB
 
-EMENTA: 1. CONSULTA EM TORNO DA PRESCRIÇÃO EM SEDE DE PROCESSO ADMINISTRATIVO DE RESPONSABILIZAÇÃO POR ILÍCITOS CONTRATUAIS. 2. DIRETIVAS SOBRE A DISCIPLINA DA PRESCRIÇÃO APLICÁVEL EXTRAÍVEIS, COMO REGRA, DO ART. 190 C/C ART. 191 DA LEI NACIONAL Nº 14.133/2021. 3. VEDAÇÃO DE SIMBIOSE ENTRE REGIME JURÍDICO ANTIGO E REGIME JURÍDICO NOVO EM MATÉRIA DE LICITAÇÕES E CONTRATAÇÕES ADMINISTRATIVAS, INCLUSIVE NO TOCANTE À DISCIPLINA EM TORNO DOS PROCESSOS ADMINISTRATIVOS DE RESPONSABILIZAÇÃO. 4. REGRA GERAL: O REGIME JURÍDICO DA PRESCRIÇÃO DE PRETENSÕES ADMINISTRATIVAS PUNITIVAS SEGUE O REGIME JURÍDICO COM BASE NO QUAL FORAM FIRMADOS OS AJUSTES. 5. REGRA GERAL REFORÇADA PELO PRINCÍPIO DO TEMPUS REGIT ACTUM (O TEMPO REGE O ATO) INCIDENTE SOBRE A DISCIPLINA DA PRESCRIÇÃO, ENQUANTO NORMAS DE DIREITO MATERIAL. 6. EVENTUAL EXCEÇÃO ADMITIDA À LUZ DO PRINCÍPIO DA LEX MITIOR (LEI SUPERVENIENTE MAIS FAVORÁVEL), DOTADO DE MATRIZ CONSTITUCIONAL, NA HIPÓTESE DE O BLOCO DA DISCIPLINA DA PRESCRIÇÃO, ENUNCIADA PELA LEI NACIONAL 14.133/2021, RESULTAR MAIS BENÉFICA AO PROCESSADO NO CASO CONCRETO. 6. EVENTUAL RESSALVA SUJEITA ÀS BALIZAS DETERMINADAS NO RE Nº 600.817/MS, PELO SUPREMO TRIBUNAL FEDERAL, EM REPERCUSSÃO GERAL. 7. OBRIGATORIEDADE DE OBSERVÂNCIA DOS PRINCÍPIOS DA OFICIALIDADE E DA CELERIDADE PELOS SERVIDORES PÚBLICOS ENCARREGADOS DA INSTAURAÇÃO E/OU CONDUÇÃO DOS PROCESSOS ADMINISTRATIVOS DE RESPONSABILIZAÇÕES POR ILÍCITOS CONTRATUAIS, SOB PENA DE SUJEIÇÃO ÀS MEDIDAS DISCIPLINARES CABÍVEIS. 8. DESPACHO REFERENCIAL. PORTARIA Nº 170-GAB/2020-PGE. MATÉRIA ORIENTADA.
+EMENTA: 1. CONSULTA EM TORNO DA PRESCRIÇÃO EM SEDE DE PROCESSO ADMINISTRATIVO DE RESPONSABILIZAÇÃO POR ILÍCITOS CONTRATUAIS. 2. DIRETIVAS SOBRE A DISCIPLINA DA PRESCRIÇÃO APLICÁVEL EXTRAÍVEIS, COMO REGRA, DO ART. 190 C/C ART. 191 DA LEI NACIONAL Nº 14.133/2021. 3. VEDAÇÃO DE SIMBIOSE ENTRE REGIME JURÍDICO ANTIGO E REGIME JURÍDICO NOVO EM MATÉRIA DE LICITAÇÕES E CONTRATAÇÕES ADMINISTRATIVAS, INCLUSIVE NO TOCANTE À DISCIPLINA EM TORNO DOS PROCESSOS ADMINISTRATIVOS DE RESPONSABILIZAÇÃO. 4. REGRA GERAL: O REGIME JURÍDICO DA PRESCRIÇÃO DE PRETENSÕES ADMINISTRATIVAS PUNITIVAS SEGUE O REGIME JURÍDICO COM BASE NO QUAL FORAM FIRMADOS OS AJUSTES. 5. REGRA GERAL REFORÇADA PELO PRINCÍPIO DO TEMPUS REGIT ACTUM (O TEMPO REGE O ATO) INCIDENTE SOBRE A DISCIPLINA DA PRESCRIÇÃO, ENQUANTO NORMAS DE DIREITO MATERIAL. 6. EVENTUAL EXCEÇÃO ADMITIDA À LUZ DO PRINCÍPIO DA LEX MITIOR (LEI SUPERVENIENTE MAIS
+
+### Página física 2
+
+FAVORÁVEL), DOTADO DE MATRIZ CONSTITUCIONAL, NA HIPÓTESE DE O BLOCO DA DISCIPLINA DA PRESCRIÇÃO, ENUNCIADA PELA LEI NACIONAL 14.133/2021, RESULTAR MAIS BENÉFICA AO PROCESSADO NO CASO CONCRETO. 6. EVENTUAL RESSALVA SUJEITA ÀS BALIZAS DETERMINADAS NO RE Nº 600.817/MS, PELO SUPREMO TRIBUNAL FEDERAL, EM REPERCUSSÃO GERAL. 7. OBRIGATORIEDADE DE OBSERVÂNCIA DOS PRINCÍPIOS DA OFICIALIDADE E DA CELERIDADE PELOS SERVIDORES PÚBLICOS ENCARREGADOS DA INSTAURAÇÃO E/OU CONDUÇÃO DOS PROCESSOS ADMINISTRATIVOS DE RESPONSABILIZAÇÕES POR ILÍCITOS CONTRATUAIS, SOB PENA DE SUJEIÇÃO ÀS MEDIDAS DISCIPLINARES CABÍVEIS. 8. DESPACHO REFERENCIAL. PORTARIA Nº 170-GAB/2020-PGE. MATÉRIA ORIENTADA.
 
 1\. Nestes autos onde tramita processo administrativo de responsabilização por indícios de inexecução contratual (000017237948) perante a Secretaria de Estado da Saúde, sobreveio a expedição do Relatório Final nº 18/2021 CPAR (000019593798), por parte da comissão processante instituída pela Portaria nº 223/2021 - SES (000019512197), em que sugeriu, ainda antes da citação, a absolvição da empresa outrora contratada.
 
 2\. Uma vez submetido o feito à análise jurídica da Procuradoria Setorial da Secretaria de Estado da Saúde restou exarado o Parecer PROCSET nº 591/2021 (000021195607), por intermédio do qual se manifestou pelo “acolhimento [...] do Relatório Final nº 18/2021-CPAR (000019593798), e, assim, a declaração, pela autoridade administrativa responsável pelo julgamento do feito, da ocorrência da prescrição da pretensão do Estado de sancionar a empresa faltosa”, seja “com base na interpretação jurídica atribuída [...] pela Procuradoria-Geral do Estado, nos Despachos AG nº 004240/2017, nº 401/2019-GAB e nº 417/2020-GAB”, seja com espeque “art. 158, § 4º, da Lei nº 14.133/2021”, o que fez projetando, ao longo da sua explanação, as ilações de cunho geral abaixo sumariadas:
 
-a) “não há se confundir prescrição da pretensão ressarcitória com prescrição da pretensão punitiva” ocorrente na espécie, sendo que, ainda que possam ter como causa um mesmo fato jurídico, “a pretensão ressarcitória volta-se ao direito de exigir a recomposição dos cofres públicos, quando verificado um dano ou prejuízo ocasionado pelo administrado ao Estado e sustenta-se na teoria da responsabilidade civil, disciplinada genericamente no art. 927 e seguintes do Código Civil”, ao passo que a “pretensão punitiva está afeta à responsabilização no campo administrativo e ao direito - verdadeiro dever - da Administração Pública de sancionar o particular que comete um ilícito administrativo, cujo fundamento de validade é o art. 58, inciso IV, da Lei nº 8.666/1993, a Lei Geral de Licitações”;
+a) “não há se confundir prescrição da pretensão ressarcitória com prescrição da pretensão punitiva” ocorrente na espécie, sendo que, ainda que possam ter como causa um mesmo fato jurídico, “a pretensão ressarcitória volta-se ao direito de exigir a recomposição dos cofres públicos, quando verificado um dano ou prejuízo ocasionado pelo administrado ao Estado e sustenta-se na teoria da responsabilidade civil, disciplinada genericamente no art. 927 e seguintes do Código Civil”, ao passo que a “pretensão punitiva está afeta à responsabilização no campo administrativo e ao direito - verdadeiro dever - da Administração Pública de sancionar o particular que comete um
+
+### Página física 3
+
+ilícito administrativo, cujo fundamento de validade é o art. 58, inciso IV, da Lei nº 8.666/1993, a Lei Geral de Licitações”;
 
 b) diante das lacunas das Leis nacionais nºs 8.666/93 e 10.520/2002, bem como da Lei estadual nº 17.928/2012, a Procuradoria-Geral do Estado, por intermédio do Despacho “AG” nº 004240/2017[1], reiterado pelo Despacho nº 401/2019-GAB[2], fixou o entendimento, antes do advento da Lei nacional nº 14.133/2021, segundo o qual o exercício do poder punitivo decorrente do descumprimento dos contratos administrativos sujeita-se ao prazo prescricional quinquenal previsto pelo art. 1º do Decreto federal nº 20.910/32, a contar da data da infração ou da sua ciência pela Administração;
 
@@ -42,7 +50,11 @@ f) “interrompida a fluência do prazo prescricional tem lugar o teor do art. 2
 
 g) com o advento da Lei nacional nº 14.133/2021, em especial da regra do § 4º do seu art. 158, restou confirmada a tese da prescrição quinquenal, difundida pelos Despachos “AG” nº 004240/2017[4] e 401/2019-GAB[5], mas a instauração do processo administrativo de responsabilização, diferentemente do disposto no Despacho nº 417/2020-GAB[6], passou a ser expressamente tratada como causa de interrupção, não obstante Marçal Justen Filho venha lhe compreendendo como prazo de natureza decadencial e não prescricional, sob o magistério de que “o prazo quinquenal recomeçará o seu curso a partir dessa data. Se a punição não for imposta no prazo subsequente de cinco anos, consumar-se-á a decadência”. Ou seja, “o ato de instauração interrompe a prescrição, que terá, a partir de então, reiniciado o seu cômputo por inteiro”.
 
-h) “para os fatos irregulares suscetíveis de punição administrativa, pretéritos e pendentes (que ainda não foram objeto de julgamento, não resguardados pelo direito adquirido, ato jurídico perfeito ou coisa julgada), os presentes e os futuros, não se vislumbra empecilhos à aplicação imediata dos ditames da Lei nº 14.133/2021, alusivos à prescrição da pretensão punitiva, independentemente de quais leis sustentaram no passado, ou vierem a fundamentar no próximo biênio, a licitação/contratação”.
+h) “para os fatos irregulares suscetíveis de punição administrativa, pretéritos e pendentes (que ainda não foram objeto de julgamento, não resguardados pelo direito adquirido, ato jurídico perfeito ou coisa julgada), os presentes e os futuros, não se vislumbra empecilhos à aplicação imediata dos ditames da Lei nº 14.133/2021, alusivos
+
+### Página física 4
+
+à prescrição da pretensão punitiva, independentemente de quais leis sustentaram no passado, ou vierem a fundamentar no próximo biênio, a licitação/contratação”.
 
 3\. Sob invocação do inciso I do art. 1º c/c § 1º do art. 2º da Portaria nº 170/2020-GAB/PGE, a controvérsia veio à consultoria jurídica do Gabinete desta Casa.
 
@@ -56,7 +68,11 @@ h) “para os fatos irregulares suscetíveis de punição administrativa, preté
 
 8\. Conforme ensinamento de Joel de Menezes Niebuhr:
 
-"O caput do artigo 190 da Lei n. 14.133/2021 preceitua que o contrato assinado antes da entrada em vigor da lei nova continua seguindo o regime antigo, até porque se configura como ato jurídico perfeito, não podendo ser alterado pela lei nova, como reconhece o artigo 6º da Lei de Introdução às Normas do Direito Brasileiro. Daí que, tudo o que foi contratado até a publicação da lei nova, segue o regime antigo, baseado na Lei n. 8.666/1993. Em adição, o parágrafo único do artigo 191 esclarece que, mesmo depois da entrada em vigência da Lei n. 14.133/2021, nas situações em que a Administração preferir licitar com o regime antigo, dentro dos 2 (dois) anos autorizados pelo caput do mesmo artigo 191, os contratos que lhe sejam decorrentes seguem o regime antigo.
+"O caput do artigo 190 da Lei n. 14.133/2021 preceitua que o contrato assinado antes da entrada em vigor da lei nova continua seguindo o regime antigo, até porque se configura como ato jurídico perfeito, não podendo ser alterado pela lei nova, como reconhece o artigo 6º da Lei de Introdução às Normas do Direito Brasileiro. Daí que, tudo o que foi contratado até a publicação da lei nova, segue o regime antigo, baseado na Lei n. 8.666/1993.
+
+### Página física 5
+
+Em adição, o parágrafo único do artigo 191 esclarece que, mesmo depois da entrada em vigência da Lei n. 14.133/2021, nas situações em que a Administração preferir licitar com o regime antigo, dentro dos 2 (dois) anos autorizados pelo caput do mesmo artigo 191, os contratos que lhe sejam decorrentes seguem o regime antigo.
 
 A regra é relativamente simples: o regime do contrato segue o regime da licitação, porque o contrato é vinculado à licitação. Se a licitação é pelo regime antigo, o contrato, da mesma forma, é pelo regime antigo. Licitado pelo regime novo, o contrato segue o regime novo."[12]. (grifos apostos)
 
@@ -126,7 +142,7 @@ VI - Agravo Interno improvido.” (STJ, AgInt no REsp 1770878/PR, Rel. Ministra 
 
 “PROCESSUAL CIVIL E ADMINISTRATIVO. PRESCRIÇÃO INTERCORRENTE. FEITO EM CURSO NO ENTE DISTRITAL. DECRETO N. 20.910/1932. APLICAÇÃO. IMPOSSIBILIDADE.
 
-1\. Conforme estabelecido pelo Plenário do STJ, os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC’ (Enunciado Administrativo n. 3).
+1\. Conforme estabelecido pelo Plenário do STJ, ‘aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC’ (Enunciado Administrativo n. 3).
 
 2\. É firme a orientação desta Corte de que não há previsão legal no Decreto 20.910/1932 acerca de prescrição intercorrente do processo administrativo, regulada apenas na Lei n. 9.873/1999, cujas disposições não são aplicáveis ‘às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal’ (AgInt no REsp 1.770.878/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 21/2/2019).
 
@@ -134,7 +150,11 @@ VI - Agravo Interno improvido.” (STJ, AgInt no REsp 1770878/PR, Rel. Ministra 
 
 10\. Entretanto, a aplicação analógica do Decreto n. 20.932/32 não impede a incidência do seu art. 4º, que trata da suspensão da prescrição enquanto tramita o processo administrativo, porquanto a instauração de feito para apurar ilícitos contratuais e licitatórios, com a devida e tempestiva citação do interessado, faz que com a prescrição reste suspensa até a finalização do feito.
 
-11\. Em suma, em resposta objetiva à consulta formulada, cumpre assentar que uma vez instaurado o processo administrativo antes de consumado o prazo prescricional, com a citação válida do administrado antes desse marco temporal, o fluxo prescricional somente volta a correr após a conclusão desse feito." (destacado)
+11\. Em suma, em resposta objetiva à consulta formulada, cumpre assentar que uma vez instaurado o processo administrativo antes de consumado o prazo prescricional, com a citação
+
+### Página física 9
+
+válida do administrado antes desse marco temporal, o fluxo prescricional somente volta a correr após a conclusão desse feito." (destacado)
 
 25\. Nesse quadrante resta reafirmada, com relação aos contratos regidos pelo regime jurídico anterior, a diretiva de que uma vez instaurado o processo administrativo de responsabilização antes de consumado o prazo prescricional, com citação válida antes desse marco temporal, o prazo prescricional será suspenso, retomando a contagem somente após a conclusão daquele, nos moldes do art. 4º do Decreto federal nº 20.910/32, sem possibilidade de configuração de prescrição intercorrente.
 
@@ -206,7 +226,7 @@ Procuradora-Geral do Estado
 
 [20] Processo administrativo nº 202000004058240.
 
-[21] MEDEIROS, Fábio Moura de. ANTINARELLI, Mônica. Das irregularidades. In: Nova Lei de Licitações e Contratos Administrativos – Lei 14.133/21. Comentada por Advogados Públicos. São Paulo: Editora Juspodvm, 2021, p. 1.365.
+[21] MEDEIROS, Fábio Mouro de. ANTINARELLI, Mônica. Das irregularidades. In: Nova Lei de Licitações e Contratos Administrativos – Lei 14.133/21. Comentada por Advogados Públicos. São Paulo: Editora Juspodvm, 2021, p. 1.365.
 
 [22] STF, RE nº 600817/MS, Tribunal Pleno, Rel. Min. Ricardo Lewandovski, DJ 30/10/2014.
 
