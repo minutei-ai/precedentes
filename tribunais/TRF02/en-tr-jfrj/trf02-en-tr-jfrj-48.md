@@ -1,0 +1,28 @@
+# TRF02 · Turmas Recursais da JFRJ · Enunciado 48
+
+- **Órgão:** TRF02
+- **Emissor indicado:** Conjunto das Turmas Recursais dos Juizados Especiais Federais do Rio de Janeiro, com a especialização indicada no texto quando presente
+- **Espécie:** Enunciado das Turmas Recursais da JFRJ
+- **Número:** 48
+- **Identificador:** `trf02-en-tr-jfrj-48`
+- **Situação na fonte:** Sem situação em campo próprio; conferir as notas transcritas
+- **Publicação da página:** 19 Fevereiro, 2011
+- **Última modificação da página:** 14 Outubro, 2025
+- **Fonte:** [Enunciado 48](https://trf2.jus.br/jfrj/artigo/tr-eju/enunciado-48)
+
+## Texto disponibilizado pela fonte
+
+A renúncia ao excedente do valor da causa (prestações vencidas somadas às vincendas por um ano, cf. art. 292, § 2º, do CPC) não exclui o cômputo, no valor da condenação, da correção monetária, dos juros e das demais prestações que vencerem no curso do processo (aquelas vencidas após o decurso de um ano), observados a regra do § 4° do art. 17 da Lei 10.259/2001 e o Tema 1.030 do STJ.
+
+PRECEDENTES: 5044726-62.2024.4.02.5101/RJ, 5064633-23.2024.4.02.5101/RJ e 5131203-25.2023.4.02.5101/RJ.
+
+Aprovado, por unanimidade, pelo Conjunto das Turmas Recursais dos Juizados Especiais Federais do Rio de Janeiro, na Sessão Conjunta do dia 25/08/2025. SEI nº 0031127-40.2025.4.02.8001. Publicado no DJE 15/10/2025, quarta-feira, p.2, protocolo 1329850.
+
+## Conferência e limites
+
+Transcrição do contêiner jurídico da ficha HTML, em duas capturas HTTP 200 de 30/10/2026 (UTC). Os pares coincidem em título, corpo, marcação e datas de página. Espaços em branco foram normalizados; parágrafos e quebras explícitas foram preservados como separações de texto, com negrito, itálico e vínculos convertidos para Markdown. Prévia abreviada e sua repetição integral, quando publicadas no próprio corpo, foram mantidas. Datas de página não são datas individuais de aprovação ou vigência. O título e as notas são atribuições da fonte; sua ausência não comprova vigência atual, efeito vinculante ou exaustividade. Diários, processos, normas e publicações vinculadas não foram lidos neste lote e não geraram outros identificadores. Não houve PDF ou OCR.
+
+| Captura | HTTP | Bytes | SHA-256 |
+| --- | ---: | ---: | --- |
+| 1 | 200 | 37728 | `97553bf3f7bd72da87ecc20ceffb8f93dbc2dce0011ff0fa428c7176920c465c` |
+| 2 | 200 | 37728 | `97553bf3f7bd72da87ecc20ceffb8f93dbc2dce0011ff0fa428c7176920c465c` |

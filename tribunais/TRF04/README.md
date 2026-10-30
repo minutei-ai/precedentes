@@ -1,6 +1,6 @@
 # TRF04
 
-Tribunal Regional Federal da 4ª Região. **202 registros.**
+Tribunal Regional Federal da 4ª Região. **232 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -8,3 +8,4 @@ Tribunal Regional Federal da 4ª Região. **202 registros.**
 | [Incidente de Resolução de Demandas Repetitivas](irdr/) | 38 |
 | [Nota Técnica](nt/) | 13 |
 | [Súmula](sum/) | 136 |
+| [I Jornada Intrainstitucional de Direito Previdenciário](en-jornada-previdenciaria-i/) | 30 |

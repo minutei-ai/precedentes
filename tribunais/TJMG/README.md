@@ -1,6 +1,6 @@
 # TJMG
 
-Tribunal de Justiça do Estado de Minas Gerais. **400 registros.**
+Tribunal de Justiça do Estado de Minas Gerais. **447 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -11,3 +11,4 @@ Tribunal de Justiça do Estado de Minas Gerais. **400 registros.**
 | [Enunciado de súmula — 1ª Câmara Criminal (anterior a 2012)](sum-1ccr/) | 72 |
 | [Enunciado de súmula — 4ª Câmara Cível (anterior a 2012)](sum-4cc/) | 29 |
 | [Enunciado de súmula — Grupo de Câmaras Criminais (anterior a 2012)](sum-gcc/) | 69 |
+| [Enunciados do Encontro de Juízes dos Juizados Especiais (ENJESP)](en-enjesp/) | 47 |
