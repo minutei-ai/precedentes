@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.377 registros únicos de 180 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.379 registros únicos de 180 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -50,11 +50,19 @@ A página hospedeira da CGE/GO tem 115 linhas documentais não vazias, de vário
 
 Campos tarjados nos nºs 573, 779 e 1470 não foram recuperados; o CPF parcial do nº 779 foi omitido integralmente. A referência 4 do nº 1589 conserva indicação editorial no lugar da URL de validação. Notas, processos citados, nomes e funções públicos permanecem; chaves, CRC, QR codes e blocos eletrônicos foram omitidos. As datas eletrônicas são atribuídas às cópias e não confirmam vigência. As divergências do nº 42, a Lei nº 14.973 de 2014 no nº 1589 e o placeholder do nº 1725 foram preservados. Nenhum documento apenas citado ganhou ID.
 
+## PGE/GO — complemento documental de 2024
+
+Os despachos 1857/2024/GAB e 1804/2024/GAB acrescentam dois registros e nenhum órgão sobre a main `b6f29218c3f0773060b809b127ea4f4bb6dd23cd` (42.377/180). O total esperado é **42.379 registros em 180 órgãos**, com PGEGO 31 (22 súmulas e nove despachos). É soma do delta focado, sem nova contagem global. Os 50 enunciados de conciliação TRF1, os 27 registros CGU e as nove lacunas BNP permanecem.
+
+As 11 páginas do nº 1857 e as cinco do nº 1804 foram lidas visualmente e cotejadas com as camadas textuais, sem OCR. Cada PDF tem duas capturas HTTP 200 idênticas: nº 1857, 120849 bytes, SHA-256 `f4ca4a51dee662bf6ec4bf5b5f8b067160cd8f3df200ba10e979e3b8d26ffd47`; nº 1804, 83471 bytes, SHA-256 `6748c28a845f22ac147b8120c17d90843b94061cfb5272559bd783aa48674dbd`. O [índice da série](tribunais/PGEGO/desp-ref/) passa a nove documentos e 75 páginas lidas, do catálogo com 115 linhas: 106 ainda pendentes.
+
+A ementa do nº 1857 continua nas páginas 1–3. Os marcadores [2] e [3] em uma citação permanecem sem reconstrução das notas do parecer citado. O nº 1804 conserva cinco notas; 14/11/2024, na página 5, é o acesso bibliográfico da quinta nota. As datas eletrônicas indicadas são 03/12/2024 e 19/11/2024, respectivamente. Ambos imprimem @nome_interessado@. Chaves, QR codes, CRC, rodapés e blocos de autenticação foram omitidos. Não se inferiu vigência, vinculação ou exaurimento e não foram criados IDs para documentos apenas citados. A PGE/GO emite e a CGE/GO hospeda.
+
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
-| [PGE/GO — sete despachos referenciais de 2025–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 7 documentos / 59 páginas | 7 | 0 |
+| [PGE/GO — nove despachos referenciais de 2024–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 9 documentos / 75 páginas | 9 | 0 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
@@ -1158,7 +1166,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
-| [PGEGO](tribunais/PGEGO/) | 29 | PGE/GO — 22 súmulas administrativas e 7 despachos referenciais |
+| [PGEGO](tribunais/PGEGO/) | 31 | PGE/GO — 22 súmulas administrativas e 9 despachos referenciais |
 | [PGEAP](tribunais/PGEAP/) | 18 | PGE/AP — Súmulas Administrativas do CONSUP/PGE |
 | [PROCONPB](tribunais/PROCONPB/) | 4 | PROCON/PB — Súmulas da Câmara Recursal |
 | [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |

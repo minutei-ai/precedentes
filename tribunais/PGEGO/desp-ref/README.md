@@ -1,8 +1,8 @@
-# PGEGO — Despachos referenciais de 2025 e 2026
+# PGEGO — Despachos referenciais de 2024 a 2026
 
-Sete documentos da Procuradoria-Geral do Estado de Goiás, publicados no [catálogo de Entendimentos e orientações da CGE/GO](https://goias.gov.br/controladoria/entendimentos-e-orientacoes/). A PGE/GO é a emissora; a CGE/GO é a hospedeira. Esta série permanece separada das 22 súmulas administrativas já incorporadas.
+Nove documentos da Procuradoria-Geral do Estado de Goiás, publicados no [catálogo de Entendimentos e orientações da CGE/GO](https://goias.gov.br/controladoria/entendimentos-e-orientacoes/). A PGE/GO é a emissora; a CGE/GO é a hospedeira. Esta série permanece separada das 22 súmulas administrativas já incorporadas.
 
-O catálogo contém 115 linhas documentais não vazias: 109 despachos atribuídos a PGE ou PGE/GO, um acórdão do TCE e cinco pareceres de outros emissores. Este lote abrange somente os sete despachos rotulados em 2025 e 2026, com 59 páginas físicas. As outras 108 linhas não foram incorporadas nem declaradas lidas. Rótulos distintos que apontam ao mesmo PDF em 2021 continuam pendentes de identidade.
+O catálogo contém 115 linhas documentais não vazias: 109 despachos atribuídos a PGE ou PGE/GO, um acórdão do TCE e cinco pareceres de outros emissores. A série abrange sete despachos rotulados em 2025 e 2026 (59 páginas) e dois em 2024 (16 páginas), totalizando nove documentos e 75 páginas físicas. As outras 106 linhas não foram incorporadas nem declaradas lidas. Rótulos distintos que apontam ao mesmo PDF em 2021 continuam pendentes de identidade.
 
 As duas capturas HTML são idênticas: HTTP 200, 297215 bytes, SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF foi capturado duas vezes com bytes e SHA-256 coincidentes. Capturas em 30/10/2026 (UTC); os derivados permanecem privados.
 
@@ -15,9 +15,13 @@ As duas capturas HTML são idênticas: HTTP 200, 297215 bytes, SHA-256 `cc3de8b6
 | [1470/2025/GAB](pgego-desp-ref-1470-2025.md) | 8 | 103698 | `c7ff622e87a916c9049d7cdd00386cbc22b5a3823c8d7c8a34721da04f66fed6` |
 | [1589/2025/GAB](pgego-desp-ref-1589-2025.md) | 8 | 113846 | `bb536929c1a1c9bdd9080e1a2664f4c0df6d7ca50b46aa44ae11a07a774d1771` |
 | [1725/2025/GAB](pgego-desp-ref-1725-2025.md) | 7 | 96975 | `3ced84f005272aa181fcb4b7dadee026c886b46188820ea683029e3da58aa450` |
+| [1857/2024/GAB](pgego-desp-ref-1857-2024.md) | 11 | 120849 | `f4ca4a51dee662bf6ec4bf5b5f8b067160cd8f3df200ba10e979e3b8d26ffd47` |
+| [1804/2024/GAB](pgego-desp-ref-1804-2024.md) | 5 | 83471 | `6748c28a845f22ac147b8120c17d90843b94061cfb5272559bd783aa48674dbd` |
 
-As 59 páginas foram lidas visualmente. Seis PDFs têm camada textual usada como apoio; o nº 573/2025 foi transcrito manualmente das cinco imagens porque a camada está vazia. Não foi executado OCR. Campos tarjados não foram recuperados; o CPF parcial do nº 779 foi omitido. Endereços de validação e chaves eletrônicas não foram publicados. Notas, citações e divergências de redação permanecem nos documentos; nenhuma norma apenas citada virou registro.
+As 75 páginas foram lidas visualmente. Oito PDFs têm camada textual usada como apoio; o nº 573/2025 foi transcrito manualmente das cinco imagens porque a camada está vazia. Não foi executado OCR. Campos tarjados não foram recuperados; o CPF parcial do nº 779 foi omitido. Endereços de validação e chaves eletrônicas não foram publicados. Notas, citações e divergências de redação permanecem nos documentos; nenhuma norma apenas citada virou registro.
 
 Não se infere vigência atual, força vinculante ou completude. As datas dos diretórios dos arquivos não foram usadas como datas dos atos. O nº 42/2026 conserva o fecho de 09/01/2026 e a data eletrônica de 11/01/2026. O nº 1589/2025 conserva a referência à Lei nº 14.973 de 2014 no parágrafo 15. O nº 1725/2025 conserva o placeholder @nome_interessado@ e as divergências numéricas das notas.
 
 [Índice da PGEGO](../README.md) · [Cobertura do acervo](../../../COBERTURA.md)
+
+O complemento de 2024 preserva a ementa do nº 1857 entre as páginas 1–3 e as cinco notas do nº 1804, com a indicação de acesso bibliográfico continuando na página 5. As notas de documentos apenas citados não foram reconstruídas.
