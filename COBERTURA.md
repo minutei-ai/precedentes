@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.198 registros únicos de 168 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.403 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -83,6 +83,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPGO — Enunciados ANPP](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal) | 15 | 15 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
+| [Fonavid — Enunciados](https://fonavid.com.br/conteudos/enunciados) | 81 | 81 | 0 |
 | [Fonaref — 3º Congresso, caderno final](https://www.cnj.jus.br/wp-content/uploads/2026/02/enunciados-aprovados-3o-fonaref.pdf) | 17 | 17 | 0 |
 | [Enfam — Seminário O Poder Judiciário e o novo CPC](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 62 | 62 | 0 |
 | [CNPG/GNCCRIM — Enunciados 41–44 reproduzidos pelo MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal) | 4 | 4 | 0 |
@@ -250,6 +251,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [TJRJ — Consulta oficial de IRDR e IAC](https://www3.tjrj.jus.br/precedentes/ConsultarPrecedentes.aspx) | 65 | 2 | 63 |
 | [TJDFT — Súmulas da Turma de Uniformização dos Juizados Especiais](https://www.tjdft.jus.br/consultas/jurisprudencia/sumulas/sumulas-do-juizado-especial) | 43 | 43 | 0 |
 | [TJSP — Súmulas da Turma de Uniformização, caderno com publicações até janeiro de 2017](https://www.tjsp.jus.br/Download/JuizadosEspeciais/SumulasTurmaUniformizacao.pdf) | 10 | 10 | 0 |
+| [TJSP — Enunciados do FOJESP, minuta consolidada em 12/06/2018](https://www.tjsp.jus.br/Download/JuizadosEspeciais/EnunciadosColegio.pdf) | 124 | 124 | 0 |
 | [TJSP — Enunciados das Câmaras Empresariais, atualização de 10/12/2024](https://www.tjsp.jus.br/Download/Rodape/GrupoCamarasEmpresariaisEnunciados.pdf) | 26 | 26 | 0 |
 | [TJRS — Súmulas das Turmas Recursais Cíveis](https://www.tjrs.jus.br/novo/jurisprudencia-e-legislacao/jurisprudencia/sumulas/sumulas-das-turmas-recursais/) | 51 | 51 | 0 |
 | [TJRS — Súmulas das Turmas Recursais da Fazenda Pública](https://www.tjrs.jus.br/novo/jurisprudencia-e-legislacao/jurisprudencia/sumulas/turmas-recursais-da-fazenda-publica/) | 107 | 107 | 0 |
@@ -350,6 +352,14 @@ O livro de súmulas do TJCE, edição de 2025, contém 72 verbetes consecutivos;
 O TJSP foi conciliado com os 165 verbetes do livro atualizado em 16/09/2025.
 
 Também foram incorporadas dez súmulas da Turma de Uniformização do Sistema de Juizados Especiais de São Paulo, em série própria (SUM-TUJ), a partir do PDF indicado no catálogo atual do NUGEPNAC. O caderno registra a sessão de 30/11/2016 e publicações até 24/01/2017; sua presença no portal atual não comprova que não existam atos posteriores. Mantemos os enunciados, os processos e as datas de julgamento indicados como precedentes, os avisos de revogação das nºs 5, 8 e 9 e a nova redação da nº 4. O número de processo com pontuação duplicada na referência da nº 4 foi preservado como consta na fonte, sem correção presumida.
+
+## TJSP — FOJESP, minuta consolidada
+
+A compilação oficial de [Enunciados do FOJESP](https://www.tjsp.jus.br/Download/JuizadosEspeciais/EnunciadosColegio.pdf) identifica-se na capa como “Minuta consolidada em 12/06/2018”, embora reúna anotações de edições posteriores, inclusive aprovação no XIV FOJESP e referência à Lei Estadual 17.205/2019. O metadado do arquivo é de 2023. O rótulo publicado é, portanto, minuta/compilação; não se afirma aprovação geral, completude ou situação atual. Foram separados 85 números cíveis, 26 penais e 13 da Fazenda Pública. Redações riscadas e redações novas permanecem no mesmo número; finais cortados na imagem são marcados e não completados.
+
+As notícias oficiais do [X FOJESP](https://www.tjsp.jus.br/Imprensa/Noticias/Noticia?codigoNoticia=30796) e do [XI FOJESP](https://portal.tjsp.jus.br/Noticias/Noticia?codigoNoticia=38643&pagina=1449) dão contexto institucional: a primeira noticia enunciados aprovados em 2016 e a segunda informa sete enunciados aprovados após votação em 2016. Para a redação sobre o princípio da especialidade, a notícia do X indica o nº 66, enquanto a compilação a numera como 68; as numerações permanecem atribuídas a cada fonte, sem harmonização. Há também diferenças de redação e versões riscadas. As notícias servem como contexto e não foram fundidas à minuta nem usadas para criar registros duplicados. A notícia do XI FOJESP não comprova aprovação de todas as entradas da compilação.
+
+As 12 páginas foram conferidas visualmente contra a camada textual. As duas URLs oficiais do PDF foram capturadas duas vezes cada, em quatro respostas HTTP 200 de 107.293 bytes, com SHA-256 `09feb1c8aa7a8469d4ab23f867993e9b565cd0d1486f361d9c5bb11fe9616413`. PDFs, imagens, notícias capturadas e recibos permanecem privados. A série soma 124 registros ao TJSP: 397 no acervo, sem alteração na contagem de itens do BNP (237). FOJESP, SUM-TUJ e FONAJE continuam como séries distintas.
 
 Os 26 enunciados do Grupo de Câmaras Reservadas de Direito Empresarial ficam em série própria (EN-GCE), com numeração romana de I a XXVI. A edição informa atualização até 10/12/2024 e publicações dos últimos enunciados em janeiro de 2025. Foram preservados os textos, os avisos de cancelamento dos enunciados I, II, VII, IX e XIV e as notas de revisão e alteração. O texto do XXII continua na página seguinte e foi mantido integralmente. Não inferimos vigência atual a partir dessa edição. As duas séries acrescentam 36 registros, sem duplicar as súmulas gerais e os incidentes já presentes no BNP.
 
@@ -950,7 +960,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJRO](tribunais/TJRO/) | 30 | 21 | 21 |
 | [TJRR](tribunais/TJRR/) | 51 | 29 | 29 |
 | [TJSC](tribunais/TJSC/) | 299 | 91 | 91 |
-| [TJSP](tribunais/TJSP/) | 273 | 237 | 237 |
+| [TJSP](tribunais/TJSP/) | 397 | 237 | 237 |
 | [TJSE](tribunais/TJSE/) | 36 | 22 | 22 |
 | [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
 | [TRT01](tribunais/TRT01/) | 153 | 76 | 76 |
@@ -1012,6 +1022,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
 | [FONAREF](tribunais/FONAREF/) | 17 | 3º Congresso, caderno final de enunciados aprovados |
 | [ENFAM](tribunais/ENFAM/) | 62 | Seminário O Poder Judiciário e o novo CPC (2015), reprodução no catálogo STJ |
 | [CNPG](tribunais/CNPG/) | 4 | CNPG/GNCCRIM — enunciados 41–44 reproduzidos em notícia institucional do MPPR |
@@ -2363,4 +2374,12 @@ Sobre `9baeb8e0` (41.119 registros em 166 órgãos), o delta é +62 registros e 
 
 O caderno final publicado em fevereiro/2026 contém os números 1–17 e suas justificativas, das comissões 01–04, para o evento de 17–18/11/2025. Foram lidas visualmente as 22 páginas físicas, com camada textual de apoio e sem OCR. Texto jurídico nas páginas 11–20; fonte, bytes, SHA, paginação e limites constam de cada ficha e do índice. Duas capturas HTTP 200 idênticas. A apresentação menciona cinco comissões, mas a quinta não tem enunciados neste arquivo; não foi reconstruída do caderno prévio aprovado apenas para debate. Mantidas a aspa unilateral do nº 4, RMA/RPA no nº 6, artigos distintos no nº 10, “reponsabilidade” no nº 14 e “TJ” na justificativa 16. Os números de outros congressos não foram fundidos. Atas e julgados citados não viraram registro.
 
-Base `ccf167ff` (41.181 registros em 167 órgãos, ENFAM 62). Delta +17 registros e +1 órgão FONAREF: 41.198 registros em 168 órgãos. PRs #140, #141 e #142 ainda abertos não integram esta conta. As nove lacunas iniciais do BNP permanecem. Não se inferiu vigência, vinculação ou exaustividade; demais congressos e documentos continuam pendentes.
+Base `8ed6cd48` (41.386 registros em 168 órgãos, já com Fonavid 81 e 124 minutas FOJESP). Delta +17 registros e +1 órgão FONAREF: 41.403 registros em 169 órgãos. PR #140 permanece aberto e fora da conta. ENFAM 62, Fonavid 81, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 preservados. As nove lacunas iniciais do BNP permanecem. Não se inferiu vigência, vinculação ou exaustividade; demais congressos e documentos continuam pendentes.
+
+## Fonavid — 81 enunciados no site próprio
+
+Os números 1–81, títulos e corpos foram lidos no contêiner `#enunciados-para-exportacao` do site do Fonavid e comparados entre dois HTMLs HTTP 200 idênticos, de 170.414 bytes. SHA e limites constam do índice da série. Revogações, alterações, grafias e notas de encontros permanecem literais; não se inferiu vigência ou vinculação. O PDF de 2025 reproduzido pelo TJSE foi capturado, mas não foi lido visualmente nem usado como fonte textual. Não houve OCR ou reconstrução de redação antiga. Atas, cartas e fontes históricas continuam pendentes. A cópia do CNJ, identificada como atualizada até XIV/2022, não substitui o catálogo próprio com os números do XVII encontro. Nenhuma norma citada virou registro.
+
+Base `ccf167ff` com a Enfam integrada: 41.181 registros em 167 órgãos. Delta +81 registros e +1 órgão FONAVID: 41.262 registros em 168 órgãos. ENFAM 62, CJF 1.872, STJ 3.705, CNPG 4 e MPGO 69 preservados. As nove lacunas iniciais do BNP permanecem.
+
+Conciliação final do PR #141: base `146d15cb`, 41.262 registros em 168 órgãos, já com Fonavid 81. As 124 minutas FOJESP somam 41.386 registros em 168 órgãos; TJSP 397. Nenhuma aprovação ou vigência foi inferida do rótulo de minuta.
