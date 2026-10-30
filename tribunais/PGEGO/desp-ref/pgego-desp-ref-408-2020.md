@@ -16,6 +16,8 @@
 
 Processo: 201900010048537
 
+INTERESSADO: HOSPITAL DE DOENCAS TROPICAIS
+
 DESPACHO Nº 408/2020 - GAB
 
 Ementa: consulta. Secretaria de estado da saúde. Contratação de servidor cedido por interposta pessoa jurídica. Vedação quando destinada exclusivamente ao pagamento do adicional de que trata o art. 14-b, § 3º, da lei estadual n. 15.503/2005. Aperfeiçoamento da orientação veiculada no despacho n. 1933/2019 gab. Transgressão disciplinar. Art. 303, vi e vii, da lei estadual n. 10.460/88. Elementos dos tipos. Iminente vigência da lei estadual n. 20.756/2020. Inovações na configuração disciplinar. Princípio da retroatividade da lei penal mais benéfica. Aplicação no direito disciplinar. Vacatio legis não impeditiva da retroação da lex mitior. Necessidade de observância da lei estadual n. 18.846/2015 (conflito de interesses) e do art. 4º, parágrafo único, da lei estadual n. 15.503/2005.

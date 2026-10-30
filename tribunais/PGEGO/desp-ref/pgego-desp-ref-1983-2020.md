@@ -17,6 +17,8 @@
 
 Processo: 202000041000172
 
+INTERESSADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS
+
 DESPACHO Nº 1983/2020 - GAB
 
 EMENTA: ADMINISTRATIVO. CONSULTA. TJGO. PROCESSO ADMINISTRATIVO DE RESSARCIMENTO AO ERÁRIO POR EX- SERVIDORES. INAPLICABILIDADE DA LEI ESTADUAL Nº 20.756/2020. CORREÇÃO MONETÁRIA E JUROS DE MORA. PRAZOS PARA IMPUGNAÇÃO E PAGAMENTO. DIREITO INTERTEMPORAL. COMPETÊNCIA DECISÓRIA. DESPACHO REFERENCIAL.
@@ -33,9 +35,9 @@ EMENTA: ADMINISTRATIVO. CONSULTA. TJGO. PROCESSO ADMINISTRATIVO DE RESSARCIMENTO
 
 3.a) Não apresentação de defesa pelo devedor nos prazos estabelecidos na notificação 3.b) Apresentação de impugnação pelo devedor. 3.c) Apresentação de recurso da decisão da impugnação
 
-2. Inicialmente, importa ressaltar que, em 29/1/2020, foi publicada a Lei estadual nº 20.756/2020, que institui o novo regime jurídico dos servidores públicos civis do Estado de Goiás, incluídas as autarquias e fundações públicas, cuja entrada em vigor ocorreu em 28/7/2020, nos termos do art. 297 da 1 referida norma .
+2. Inicialmente, importa ressaltar que, em 29/1/2020, foi publicada a Lei estadual nº 20.756/2020, que institui o novo regime jurídico dos servidores públicos civis do Estado de Goiás, incluídas as autarquias e fundações públicas, cuja entrada em vigor ocorreu em 28/7/2020, nos termos do art. 297 da referida norma1.
 
-3. Entretanto, após derrubada do veto aposto pelo Chefe do Executivo, veio à tona a previsão inscrita no art. 1º, parágrafo único, do novo Estatuto dos servidores do Estado de Goiás, no sentido de que “as disposições desta Lei não se aplicam aos servidores e integrantes das carreiras do Ministério Público, Tribunal de Justiça, Tribunal de Contas do Estado e dos Municípios e da Assembleia Legislativa do
+3. Entretanto, após derrubada do veto aposto pelo Chefe do Executivo, veio à tona a previsão inscrita no art. 1º, parágrafo único, do novo Estatuto dos servidores do Estado de Goiás, no sentido de que “as disposições desta Lei não se aplicam aos servidores e integrantes das carreiras do Ministério Público, Tribunal de Justiça, Tribunal de Contas do Estado e dos Municípios e da Assembleia Legislativa do Estado de Goiás.”
 
 4. Diante disso, considerando que o “dispositivo ora adversado viola frontalmente, sob o aspecto formal, os arts. 61, §1º, II, “c”, e 63, I, da Constituição Federal e, sob o aspecto material, os arts. 39, caput, e 5º, caput, também da Carta Magna”, foi protocolizada ação direta de inconstitucionalidade pelo Governador do Estado de Goiás, com o apoio jurídico desta Casa, perante o Supremo Tribunal Federal (SEI 000012370508, processo 202000003003845).
 
@@ -43,7 +45,7 @@ EMENTA: ADMINISTRATIVO. CONSULTA. TJGO. PROCESSO ADMINISTRATIVO DE RESSARCIMENTO
 
 6. Desse modo, esta Procuradoria-Geral orientou, por meio do Despacho nº 848/2020 (000013373746), que “[…] até que venha a ser julgada em definitivo a ADI 6360/GO, incidirão os efeitos do aludido art. 1º, parágrafo único, assim que vigente a Lei nº 20.756/2020”, restando, atualmente, impossibilitada, portanto, a aplicação dos ditames fixados na Lei estadual nº 20.756/2020 aos processos administrativos de restituição ao erário instaurados em face de ex-servidores do Tribunal de Justiça do Estado de Goiás exonerados, falecidos ou aposentados.
 
-7. Feitas essas breves considerações, em resposta aos questionamentos feitos no item “1)”, e nos subitens “1.a)”, “1.b)” e “1.c)”, é mister frisar que, desde a entrada em vigor da Lei estadual nº 20.756/2020, os ditames da Lei estadual nº 10.460/1988 não podem ser mais aplicados na espécie, já que o 2 art. 296, I, da Lei estadual nº 20.756/2020 , expressamente revoga a Lei estadual nº 10.460/1988. Tampouco há disciplina sobre o tema de ressarcimento ao erário na legislação de regência da categoria (Leis estaduais nº 9.129/1981, nº 16.893/2010 e nº 17.663/2012).
+7. Feitas essas breves considerações, em resposta aos questionamentos feitos no item “1)”, e nos subitens “1.a)”, “1.b)” e “1.c)”, é mister frisar que, desde a entrada em vigor da Lei estadual nº 20.756/2020, os ditames da Lei estadual nº 10.460/1988 não podem ser mais aplicados na espécie, já que o art. 296, I, da Lei estadual nº 20.756/20202, expressamente revoga a Lei estadual nº 10.460/1988. Tampouco há disciplina sobre o tema de ressarcimento ao erário na legislação de regência da categoria (Leis estaduais nº 9.129/1981, nº 16.893/2010 e nº 17.663/2012).
 
 8. Desse modo, ante o panorama de limbo normativo a regular, nesse ponto, a situação jurídica dos ex-servidores do Tribunal de Justiça do Estado de Goiás, revela-se prudente e necessário buscar a solução em outros diplomas legais que tratem do assunto, ainda que ostentem alcance geral e não se restrinjam a normatizar a relação administrativa travada entre o Estado e seus (ex)agentes.
 
@@ -61,7 +63,7 @@ EMENTA: ADMINISTRATIVO. CONSULTA. TJGO. PROCESSO ADMINISTRATIVO DE RESSARCIMENTO
 
 14. Sendo assim, em suma, os juros são devidos a partir do recebimento da verba indevida ou do evento danoso. Se não decorrer de ato ilícito, a partir da constituição em mora do devedor, que ocorrerá com a sua intimação, nos termos dos arts. 26 e 28 da Lei n° 13.800/2001.
 
-15. No tocante ao questionamento concernente à correção monetária, o Despacho "AG" nº 008917/2009 (processo 200600003008506) fixou o entendimento de que deve ser aplicado o Índice Nacional de Preços ao Consumidor (INPC), medido pelo Instituto Brasileiro de Geografia e Estatística – IBGE, com 3 fundamento na jurisprudência do próprio TJGO, a qual permanece no mesmo sentido quanto ao tema , de modo que resta plenamente possível a manutenção deste entendimento consolidado da Casa aos servidores do Tribunal de Justiça do Estado de Goiás.
+15. No tocante ao questionamento concernente à correção monetária, o Despacho "AG" nº 008917/2009 (processo 200600003008506) fixou o entendimento de que deve ser aplicado o Índice Nacional de Preços ao Consumidor (INPC), medido pelo Instituto Brasileiro de Geografia e Estatística – IBGE, com fundamento na jurisprudência do próprio TJGO, a qual permanece no mesmo sentido quanto ao tema3, de modo que resta plenamente possível a manutenção deste entendimento consolidado da Casa aos servidores do Tribunal de Justiça do Estado de Goiás.
 
 16. Por fim, quanto ao marco temporal para incidência do INPC, esta Procuradoria-Geral consignou no Despacho "AG" nº 008917/2009 que “a correção monetária deve incidir a partir do recebimento da verba indevida ou de quando se tornar devida a indenização”.
 

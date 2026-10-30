@@ -71,7 +71,7 @@ Art. 202. Constitui transgressão disciplinar e ao servidor é proibido: [...] X
 
 9. Feito tal panorama, convém examinar o conjunto normativo que disciplina a aplicação da lei no tempo e identificar os preceptivos legais que incidem nas situações ventiladas pela consulente.
 
-[3] 10. O art. 5º, XXXVI e XL, da Constituição Federal , e o art. 6º, §§ 1º, 2º e 3º, da Lei de [4] Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942 ), prescrevem como critério geral a aplicação da norma de direito material vigente à época da ocorrência do fato/consumação da conduta (o tempo rege o ato - tempus regit actum).
+10. O art. 5º, XXXVI e XL, da Constituição Federal[3], e o art. 6º, §§ 1º, 2º e 3º, da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942[4]), prescrevem como critério geral a aplicação da norma de direito material vigente à época da ocorrência do fato/consumação da conduta (o tempo rege o ato - tempus regit actum).
 
 11. Entretanto, nos moldes do que assentado no Despacho Referencial GAB nº 183/2020 [processo administrativo nº 201600006035103], com suporte numa axiomática aplicação subsidiária ao direito punitivo administrativo-disciplinar (art. 227, Lei estadual nº 20.756/2020[5]), a reportada irretroatividade das regras materiais será excepcionada com fundamento no art. 5º, XL, da Constituição Federal, e art. 2º, parágrafo único, do Código Penal (princípio da retroatividade da lei penal mais benéfica – lex mitior), nas situações em que a lei posterior se revelar mais benéfica ao acusado.
 
