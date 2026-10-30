@@ -6,4 +6,4 @@
 | --- | ---: |
 | 1–3, 5–11, 14–21, 23–24, 28–30, 32–34 e 36–48 | 39 |
 
-Os textos e a numeração foram transcritos do HTML oficial consolidado da [Resolução CNJ nº 125/2010](https://atos.cnj.jus.br/atos/detalhar/156); o ato de inclusão é a [Resolução CNJ nº 686/2026](https://atos.cnj.jus.br/atos/detalhar/258). Grafias irregulares dos títulos foram preservadas. A edição I–XIX do caderno do FONAMEC não foi visualmente conferida e não foi usada para inferir versões ou histórico. A série não afirma vigência atual nem força vinculante geral.
+Os textos e a numeração foram transcritos do HTML oficial consolidado da [Resolução CNJ nº 125/2010](https://atos.cnj.jus.br/atos/detalhar/156); o ato de inclusão é a [Resolução CNJ nº 686/2026](https://atos.cnj.jus.br/atos/detalhar/258). Grafias irregulares dos títulos foram preservadas. A coleta original do Anexo V não conferiu visualmente a edição I–XIX do caderno. Em integração posterior, as 41 páginas foram revisadas e as redações com número coincidente foram adicionadas como variantes atribuídas; essa comparação não afirma vigência atual. A série não afirma vigência atual nem força vinculante geral.
