@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.681 registros únicos de 184 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.691 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -219,6 +219,8 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [MPAC — Enunciados do CSMP, documentos 7 a 16](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 10 | 10 | 0 |
 | [MPRS — Encontro Estadual da Infância e Juventude de 2005, Anexo Único da Resolução 05/2007](https://www.mprs.mp.br/legislacao/resolucoes/3670/) | 62 | 62 | 0 |
 | [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
+| [MPES — Súmulas do Colégio de Procuradores](https://mpes.mp.br/sumulas/) | 5 na página | 5 | 0 |
+| [MPES — Súmulas do Conselho Superior](https://mpes.mp.br/csmp-sumulas/) | 24 no catálogo | 5 | 19 sem inteiro teor recuperado; 3 enunciados em série distinta também pendentes |
 | [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
@@ -1244,6 +1246,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
 | [MPGO](tribunais/MPGO/) | 84 | MPGO — 15 súmulas CSMP, 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias |
+| [MPES](tribunais/MPES/) | 10 | MPES — 5 súmulas COPJ e 5 CSMP, com variantes e atos de alteração nos mesmos IDs |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
@@ -2745,3 +2748,13 @@ Sobre a main `669cf364adfa339c027e39d49f16e421781fba7c`, 42.563 registros em 181
 Quinze registros, números 1–15, lidos no contêiner jurídico do [catálogo oficial](https://www.mpgo.mp.br/portal/atos_normas/1217), em duas capturas HTTP 200 de 30/10/2026, com 91.783 bytes cada. O texto normalizado coincide; os HTMLs completos têm hashes diferentes, registrados no [índice da série](tribunais/MPGO/sum-csmp/README.md). Os riscos nos corpos 7, 8, 9, 12 e 15 e as notas de revogação fora deles foram preservados. Não foram inferidos anos para 1–8, vigência atual, efeito vinculante ou completude. Grafias como “afixaçãodo” e “não verifica-se” permanecem.
 
 Não houve PDF ou OCR. Normas, resolução, diários e atas apenas citados ou vinculados não foram lidos nem receberam IDs. Esta série é do CSMP, separada dos emissores CEP e SPGJ/AJ. Sobre a main `8aeec6055f858256b9205c0c90b597138680ade2`, que já integra os 38 despachos referenciais de 2020 da PGE/GO (PGEGO 102), as vinte súmulas da ANCINE, as sete da ANP, as 27 da ANATEL e a consulta da Anvisa sem identificador, o delta é +15 registros e nenhum órgão: 42.666 → 42.681 registros, 184 órgãos; MPGO 69 → 84. O PR #170, ainda aberto, não entra na soma. Não foi repetida a auditoria global. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; evidências privadas e cobertura parcial.
+
+## MPES — súmulas do Colégio de Procuradores e do Conselho Superior
+
+Dez identidades em órgão próprio: cinco súmulas COPJ (001–004/2016 e 005 de 05/11/2018), com corpos e notas do [HTML oficial](https://mpes.mp.br/sumulas/); e cinco súmulas CSMP (7, 8, 11, 23 e 24), do [catálogo](https://mpes.mp.br/csmp-sumulas/), de quatro PDFs consolidados, dois atos de alteração e do HTML integral do nº 11. Os atos não receberam IDs adicionais. O emissor COPJ não se confunde com CSMP; MPES não se confunde com TJES, TCEES, MPSC ou MPCSC.
+
+Foram lidas visualmente sete páginas dos seis PDFs, com apoio da camada textual e sem OCR: nº 7 (duas páginas), nºs 8, 23, 24 e alterações 7/8 (uma cada). Os corpos históricos riscados e as novas redações das nºs 7/8 são preservados nos mesmos IDs. A referência histórica 11.650/2006 não foi harmonizada com 11.350/2006 das alterações. O fragmento residual do art. 1º na página 2 da nº 7 e a divergência de datas (catálogo 05.10.20, PDF 10/10/2020, DIMPES 06.10.2020) permanecem atribuídos. Notas de DIMPES, preâmbulos, dispositivos e fechos integram os registros; cabeçalhos de contato e brasão foram omitidos.
+
+Capturas oficiais pareadas HTTP 200, com bytes e SHA-256 nos índices [COPJ](tribunais/MPES/sum-copj/README.md) e [CSMP](tribunais/MPES/sum-csmp/README.md). Catálogos e blocos jurídicos foram comparados. Dezenove outras súmulas CSMP e três enunciados constam em catálogos, mas seus vínculos levam ao domínio antigo sem resolução DNS; não receberam registros sem texto recuperado. Os PDFs vinculados pelo catálogo COPJ também usam esse domínio e não foram lidos. Páginas de resoluções e a busca pública foram consultadas; a indisponibilidade não prova ausência dos atos. A busca REST retornou 401 e não houve autenticação. A consulta permanece parcial.
+
+Não foram lidos os diários, atas, estudos ou normas apenas citados. Sem inferência de vigência, efeito vinculante ou exaustividade. Só Markdown público; evidências privadas, sem CPF, RG, matrícula pessoal ou autenticação publicados. Sobre main `f290c179ca418b4c8e545d28ecb50588474c95fa`, 42.681/184, o delta é +10/+1: total esperado 42.691/185. Preservados PGEGO 102, MPGO 84, ANCINE 20 e ANP 7; PRs 170, 175 e 176 abertos não foram contados. As nove lacunas iniciais do BNP permanecem. Checagens focadas, sem nova auditoria global.
