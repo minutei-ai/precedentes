@@ -1,6 +1,6 @@
 # STJ
 
-Superior Tribunal de Justiça. **3.044 registros.**
+Superior Tribunal de Justiça. **3.174 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -10,3 +10,11 @@ Superior Tribunal de Justiça. **3.044 registros.**
 | [Recurso Especial Repetitivo](rr/) | 1.478 |
 | [Suspensão Nacional em Incidente de Resolução de Demandas Repetitivas](sirdr/) | 11 |
 | [Súmula](sum/) | 676 |
+
+## Enunciados de congresso
+
+| Série | Registros |
+| --- | ---: |
+| [1º Congresso STJ da Segunda Instância Federal e Estadual](en-congresso-segunda-i/) | 130 |
+
+A série também preserva documentalmente o item 131, proposta de alteração legislativa aprovada no evento, sem ID interpretativo adicional. Enunciados de congresso não se confundem com súmulas ou julgamentos do tribunal.

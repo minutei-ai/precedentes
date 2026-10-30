@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.350 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.480 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [STJ — 1º Congresso da Segunda Instância, PDF final](tribunais/STJ/en-congresso-segunda-i/) | 131 blocos (130 enunciados e 1 proposta legislativa) | 130 | 0 |
 | [CJF — IX Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CJF — X Jornada de Direito Civil](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 58 | 58 | 0 |
 
@@ -904,7 +905,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | BNP coletado | Inventário BNP |
 | --- | ---: | ---: | ---: |
 | [STF](tribunais/STF/) | 7.490 | 7.490 | 7.490 |
-| [STJ](tribunais/STJ/) | 3.044 | 3.016 | 3.016 |
+| [STJ](tribunais/STJ/) | 3.174 | 3.016 | 3.016 |
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
@@ -2276,3 +2277,11 @@ A base `bea91c4bbe613e16960cb99cc7b31ac6acd501ac` já inclui a II Jornada Extraj
 143 enunciados, números oficiais 88–230 (rótulos exibidos nas fichas: 088–0230), da pesquisa oficial do [CJF](https://www.cjf.jus.br/enunciados/) filtrada por `jornada.id=281`. As duas pesquisas em par listam os mesmos títulos, URLs e corpos; os 143 cartões coincidem com o inventário consultado. As 286 capturas das fichas retornaram HTTP 200, com bytes e SHA-256 verificados nos registros e no ledger privado. Campos dos pares, corpos e metadados coincidem; as 143 justificativas foram comparadas com o HTML sob o rótulo da fonte. A redação anterior está vazia em todas as fichas; isso não confirma vigência. Nenhuma ficha apresentou aviso de ausência de corpo. Nenhum PDF, ata ou documento citado foi lido. Sem inferir efeito vinculante, exaustividade ou titularidade atual; normas, julgados e órgãos citados não receberam IDs. Capturas, ledger e scripts privados; somente Markdown público.
 
 Delta sobre a main `dd9c6058` (40.149 registros em 164 órgãos; CJF 1.671): 143 registros e nenhum órgão novo, totalizando 40.292 registros em 164 órgãos e CJF 1.814. A I Jornada Extrajudicial (87) permanece em série separada. As VIII (32) e IX (49) Jornadas de Direito Civil já integradas na main não fazem parte deste lote.
+
+## STJ — 1º Congresso da Segunda Instância, PDF final
+
+130 enunciados, IDs `stj-en-congresso-segunda-i-1` a `-130`, e o item 131 documental no [README da série](tribunais/STJ/en-congresso-segunda-i/). O PDF oficial final contém 131 páginas, todas lidas visualmente com apoio da camada textual, sem OCR. Duas capturas HTTP 200 coincidem: 581.974 bytes, SHA-256 `a340b2a11f0161191490c4ed837217384b6de7afbb2cb1cfa306a4914c59df72`. A página do evento distingue o caderno de propostas prévias, que não foi usado como aprovado.
+
+Sessões, proponentes, corpos e votação preservados. 078 e 093 trazem aprovação por aclamação. 107 conserva “Enunciado 259.” dentro da proposta. O item 131 propõe alteração da pena do art. 241-B do ECA; foi preservado em documento comum sem criar ID interpretativo nem afirmar alteração da lei. Cabeçalhos e brasões repetidos omitidos; brancos normalizados, itálicos reduzidos a texto e quatro hífens lexicais de quebra reunidos. Sem inferência de vigência, vinculação, exaustividade ou titularidade atual. Atos citados não geraram IDs. Evidências privadas, somente Markdown público.
+
+Delta sobre `55415e4a` (40.350 registros, 164 órgãos; STJ 3.044 e CJF 1.872): 130 registros e nenhum órgão, total esperado de 40.480 registros e STJ 3.174. Os outros congressos seguem em PRs separados, fora desta conta. As nove lacunas iniciais do BNP permanecem.
