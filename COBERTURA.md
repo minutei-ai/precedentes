@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.608 registros únicos de 183 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.628 registros únicos de 184 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -29,6 +29,16 @@ A [ata da 1.139ª reunião de 2024](https://www.gov.br/anp/pt-br/composicao/dire
 A Portaria ANP nº 265/2020, o Decreto nº 2.455/1998, a Lei nº 9.478/1997, a Lei nº 9.847/1999, a Resolução ANP nº 958/2023, a Resolução ANP nº 43/2007, a ABNT NBR 15.514 e os processos e decisões SEI citados permanecem nos registros e não geraram identificadores. Não há CPF, RG, matrícula nem URL de autenticação nos blocos publicados. Nome e função pública foram preservados. Capturas e recibos ficam privados.
 
 Sobre a `origin/main` `f006f302d3f0a181e6f226341a213d3b7f7508c1` (42.601 registros em 182 órgãos, PGEGO 64: 22 súmulas e 42 despachos, 315 páginas), este lote acrescenta 7 registros e 1 órgão. O total pelo delta é **42.608 registros em 183 órgãos**. A soma é focada e não repete a varredura global. O lote PGEGO de 2022 já integrado nessa main permanece. Os PRs #169 e #170, ainda abertos, não entram nesta conta. As nove lacunas textuais do BNP permanecem. A cobertura nacional continua parcial.
+
+## ANCINE — Súmulas
+
+Foram incorporadas vinte identidades próprias, números 1–20, do [catálogo oficial da ANCINE](https://www.gov.br/ancine/pt-br/acesso-a-informacao/legislacao/sumulas). A ANCINE é distinta da ANP, ANATEL, ANAC, ANS e ANM. Foram conferidos integralmente os blocos jurídicos das quarenta capturas das fichas (HTTP 200, campos iguais por par) e lidas visualmente as 21 páginas dos vinte PDFs oficiais, com apoio da camada textual. Os vinte pares de PDFs retornaram HTTP 200 e têm bytes e SHA-256 idênticos por par; cada registro descreve seus recibos. O portal entrega os blocos HTML em `window.__data`, mas o DOM apresentado omite seu texto. Essa proveniência não é descrita como leitura integral da apresentação do navegador. Os links de arquivo inicialmente devolvem HTML; os PDFs foram obtidos nas URLs de download publicadas nessas páginas.
+
+As variantes HTML e PDF ficam separadas no mesmo ID. A ficha 1 traz 2018 no título, enquanto catálogo, publicação e PDF trazem 2008; o PDF 5 traz 2008 no título, enquanto ficha e nota de publicação trazem 2011. O nº 10 repete o corpo do nº 6 também no PDF, sob tema distinto. Nada foi corrigido por inferência. Os riscos seguem os estilos dos blocos HTML e não foram transferidos para PDFs sem risco. Nomes e funções públicas foram preservados. Cabeçalhos institucionais e URLs repetidas de rodapé documental foram omitidos; espaços e quebras foram normalizados. Não houve OCR.
+
+DOU, atos revogadores e modelo vinculado à ficha 4 não foram lidos integralmente, nem receberam IDs. As notas “Vigente” e de revogação permanecem atribuídas, sem afirmar vigência atual, força vinculante ou completude histórica. Somente Markdown é público; PDFs, imagens, scripts e capturas permanecem privados. As nove lacunas iniciais do BNP permanecem.
+
+Sobre a main `d65e217dc374757da90acbf37ad10c04b54933f9` (42.608 registros em 183 órgãos), o delta é de vinte registros e um órgão: total esperado de 42.628 registros em 184 órgãos. Os PRs PGEGO 169 e 170 abertos não entram nessa soma. A contagem é reconciliação por delta, sem nova auditoria global.
 
 ## PROCONES — Jornadas Capixabas de Defesa do Consumidor
 
@@ -124,6 +134,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
 | [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
 | [PGE/GO — despachos referenciais de 2019–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 42 documentos / 315 páginas | 15 | 27 |
@@ -1182,6 +1193,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [ANCINE](tribunais/ANCINE/) | 20 | ANCINE — fichas oficiais e 21 páginas dos PDFs, variantes preservadas |
 | [PROCONSP](tribunais/PROCONSP/) | 3 | Fundação PROCON/SP — três PDFs oficiais ligados no catálogo de legislação |
 | [Fórum dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/) | 25 | I Jornada — caderno final hospedado pelo CNJ; órgão distinto do FONEF/AJUFE |
 | [PGEES](tribunais/PGEES/) | 58 | PGE/ES — catálogo HTML de enunciados administrativos CPGE, números 01–58 |
