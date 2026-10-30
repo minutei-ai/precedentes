@@ -1,6 +1,6 @@
 # TRF02
 
-Tribunal Regional Federal da 2ª Região. **409 registros.**
+Tribunal Regional Federal da 2ª Região. **554 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -10,10 +10,16 @@ Tribunal Regional Federal da 2ª Região. **409 registros.**
 | [Nota Técnica](nt/) | 16 |
 | [Súmula](sum/) | 62 |
 | [Enunciados dos FOREJEFs](en-forejef/) | 165 |
+| [I Jornada de Direitos Humanos e Fundamentais da JF2 (2024)](en-jornada-dhf-i-2024/) | 60 |
+| [II Jornada de Direitos Humanos e Fundamentais da JF2 (2025)](en-jornada-dhf-ii-2025/) | 85 |
 | [Recomendações dos FOREJEFs](rec-forejef/) | 13 |
 | [Sugestões dos FOREJEFs](sug-forejef/) | 2 |
 | [Moções dos FOREJEFs](moc-forejef/) | 1 |
 | [Conclusões dos FOREJEFs](concl-forejef/) | 5 |
+
+## Jornadas de Direitos Humanos e Fundamentais da Justiça Federal da 2ª Região
+
+As Jornadas têm séries próprias e numeração independente: [I Jornada (2024, 60 enunciados)](en-jornada-dhf-i-2024/) e [II Jornada (2025, 85 enunciados)](en-jornada-dhf-ii-2025/). O emitente documental é cada Jornada da JF2; os cadernos foram publicados e hospedados pelo TRF2. Os próprios cadernos declaram caráter doutrinário e que os textos não representam posição institucional do TRF2 ou de seus membros. A notícia oficial informa as datas da II Jornada, 20–21/03/2025, e seis comissões; o caderno da I registra sete comissões. As contagens vêm dos respectivos cadernos finais, sem unir números entre edições.
 
 ## FOREJEFs da 2ª Região
 

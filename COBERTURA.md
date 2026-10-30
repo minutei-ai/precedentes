@@ -1007,7 +1007,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 259 | 110 | 110 |
-| [TRF02](tribunais/TRF02/) | 409 | 24 | 24 |
+| [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
@@ -2585,4 +2585,12 @@ Após a integração do PROCON/ES, a main `57ecfb614094e165ad1fdbcbb0dbd7d409702
 
 A notícia oficial do TRF1 informa que mais de 70 magistrados participaram da Jornada; o prefácio do Caderno descreve cerca de 70. Ambos se referem à participação, enquanto o Caderno final contém 50 enunciados numerados de 1 a 50. O TRF1 hospeda o PDF em seu portal; a ficha catalográfica atribui a publicação ao Tribunal Regional Federal da 1ª Região e à Esmaf. Os enunciados foram extraídos e as páginas físicas 11–14 foram revisadas visualmente no PDF oficial, recebido em duas capturas HTTP 200 idênticas em 30/10/2026 (7.879.142 bytes cada; SHA-256 `81293b077497b9575992998401868ca7a74c80f3c31b76a2cf589569c0a861e3`). Prefácio, posfácio, programação e fotos não receberam IDs; nenhuma votação individual, adoção pelo TRF1, vigência ou efeito vinculante foi inferida.
 
-Sobre a main atual `b2d2498de81e7fed3d4602fae964ae3806a69590` (42.320 registros em 180 órgãos; TRF01 209), este delta acrescenta 50 enunciados e nenhum órgão: **42.370 registros em 180 órgãos; TRF01 259**. Os 38 enunciados da I Jornada de Justiça Climática e os 171 registros anteriores do TRF01 foram preservados; as duas Jornadas permanecem em séries próprias. As nove lacunas iniciais do BNP permanecem. A primeira Jornada dos JEFs não integra este delta: a notícia atual liga ao livro animado oficial, mas não expõe o PDF que também menciona; o número final de enunciados e os textos do caderno não foram inferidos de notícia, flipbook ou citação. Somente Markdown público; PDF, imagens, recibos, extração e capturas permanecem privados.
+## TRF02 — Jornadas de Direitos Humanos e Fundamentais da Justiça Federal da 2ª Região
+
+A integração acrescenta 145 registros em duas séries: 60 enunciados aprovados na I Jornada (2024; sete grupos temáticos) e 85 na II Jornada (2025; seis grupos temáticos). Os números são próprios de cada edição e permanecem separados. As transcrições incluem os textos e justificativas publicados nos cadernos finais, com atribuição do grupo conforme a página de cada item. As citações a leis, julgados e enunciados não receberam IDs.
+
+Os PDFs oficiais retornaram HTTP 200 em pares de capturas privadas byte a byte idênticas: I, 6.511.073 bytes, SHA-256 `9b1965a12af1c6608f162738b1c9586248013d54a5d770a423436e92466ba2c4`; II, 13.202.307 bytes, SHA-256 `43b3a76da9a43df87c715cd5168943a12bd56b2c152c994ae4d974e6404362a6`. Recebidos em 30/10/2026 UTC. A notícia oficial também foi capturada em par idêntico: HTTP 200, 47.884 bytes, SHA-256 `6ee47c6156cb38f959a93e1f36315b31242cc3897231ebdfb58dfef151f3e459`. A notícia informa a aprovação de 85 enunciados da II Jornada, realizada em 20–21/03/2025, em seis comissões; o caderno final da I Jornada registra 60 enunciados em sete comissões. O inventário não substitui a contagem dos PDFs pelos números da notícia.
+
+Os cadernos identificam as Jornadas como emissoras documentais, publicadas pelo TRF2, e descrevem os textos como doutrinários, sem força persuasiva técnico-jurídica e sem representar posição do Tribunal ou de seus membros. A hospedagem não os converte em precedentes do TRF2. As séries da JFRJ e dos FOREJEF permanecem distintas. Não se afirma vigência atual, vinculação ou completude.
+
+Sobre a main atual `ffd435a5edf193ca4144a191e146f368f08e43d5`, cujo README registra 42.370 registros e 180 órgãos após as integrações de CGU e TRF01, esta integração acrescenta 145 registros e nenhum órgão: 42.515 registros e 180 órgãos esperados. O TRF02 passa de 409 para 554. As nove lacunas iniciais do BNP permanecem; o quadro BNP desta linha continua 24/24. As contagens editoriais mencionadas em resumos anteriores refletem snapshots distintos e não alteram o delta desta conciliação. Apenas Markdown é publicado; PDFs, imagens, scripts, extrações e recibos ficam na evidência privada `trf02-jornadas-dhf-20261030`.
