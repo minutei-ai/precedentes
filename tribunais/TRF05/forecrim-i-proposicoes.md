@@ -32,6 +32,6 @@ Propõe que o Grupo de Monitoramento e Fiscalização do Sistema Carcerário da 
 
 Foram lidas visualmente as páginas 80–82 e 84–87, com a camada textual como apoio. A proposição 3 atravessa as páginas 81–82. As referências das proposições 1 e 2 ao “Enunciado nº 1” e da proposição 6 ao “Enunciado nº 7” são as impressas; o bloco de enunciados aprovados usa 11–17. Não se harmonizaram as remissões por inferência. “a fim que” na proposição 4 foi mantido.
 
-No quadro da página 86, cada proposição traz a anotação “Aprovado no I Forecrim realizado em João Pessoa/PB, no período de 14 a 16 de agosto de 2024”. A aprovação é atribuída à ata; não se afirma edição das normas propostas, implementação das medidas, vigência ou efeito vinculante.
+No quadro da página 86, cada proposição traz a anotação “Aprovada no I Forecrim realizado em João Pessoa/PB, no período de 14 a 16 de agosto de 2024”. A aprovação é atribuída à ata; não se afirma edição das normas propostas, implementação das medidas, vigência ou efeito vinculante.
 
 O PDF tem 89 páginas. As duas capturas responderam HTTP 200, 16.317.152 bytes cada e SHA-256 `01405051810ef541459d8bf9cfbf3be0ba78c96d0ce60c46e21421d21f46afe6`. Não se declara leitura integral das palestras, participantes ou discursos de encerramento do caderno. Não houve OCR. PDFs, imagens, recibos e camada textual ficam privados; apenas Markdown foi incorporado. O delta deste complemento é zero.

@@ -12,6 +12,14 @@
 
 Os processos nos quais sejam homologados acordos de não persecução penal, independentemente da fase em que se encontrem, devem tramitar sob a classe 14678 – ACORDO DE NÃO PERSECUÇÃO PENAL, devendo a secretaria da Vara providenciar a retificação da classe, sempre que necessário (Aprovado no **Curso Novos Desafios da Jurisdição Criminal**, em Mossoró/RN, no período de 15 a 27 de junho de 2023).
 
+## Versão do quadro consolidado da ata I
+
+[Ata do I Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2025/11/18/20251118_8DFC90_Ata_do_I_FORECRIM.PDF), páginas físicas 85 de 89. O corpo e a anotação abaixo foram cotejados nas imagens das páginas 84–86.
+
+Os processos nos quais sejam homologados acordos de não persecução penal, independentemente da fase em que se encontrem, devem tramitar sob a classe 14678 – ACORDO DE NÃO PERSECUÇÃO PENAL, devendo a secretaria da Vara providenciar a retificação da classe, sempre que necessário (Aprovado no Curso Novos Desafios da Jurisdição Criminal, em Mossoró/RN, no período de 15 a 27 de junho de 2023).
+
+A versão do quadro é preservada separadamente do catálogo HTML, inclusive a pontuação e as notas. O nº 4 aparece sem risco nesse quadro histórico; o aviso posterior de cancelamento permanece atribuído à edição que o publica. Não se infere vigência.
+
 ## Conferência e limites
 
 As duas capturas HTTP 200 da página têm 118.789 bytes e SHA-256 `1bc60ff19c966009c905a99ab6849fb1a1137da57e5cad02b4e59bdb903b273d`. Os campos e blocos jurídicos coincidem. A transcrição segue as tabelas visíveis; a cópia oculta de exportação não foi contada novamente. Espaços e quebras de linha foram normalizados; os riscos e as notas foram preservados. As datas, aprovações e requalificações são atribuições da página, sem inferência de vigência, efeito vinculante ou exaustividade. O corpo acima segue o catálogo HTML; a leitura parcial da ata I e integral do documento III está descrita na proveniência comum. A ata II, o livro e as normas vinculadas permanecem pendentes. [Proveniência e pendências](README.md).
