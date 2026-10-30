@@ -2,7 +2,7 @@
 
 Quinze identidades, números 1–15. A fonte imprime ano nos números 9–15 e não nos números 1–8. IDs baseados na série e no número, sem ano inferido.
 
-Fonte: [catálogo oficial](https://www.mpgo.mp.br/portal/atos_normas/1217). Duas capturas HTTP 200 de 30/10/2026, 91.783 bytes cada; SHA-256 `c92323a2a4acd46be8ed2f9127986e76b97e73acb33ef63c635bf3c1ad2b86e8` e `05ee2fe30b98d72b1d6dbda9b5003c0fcb77cfe84efa728c59b0b3b92e517e82`. O texto normalizado do contêiner jurídico coincide, SHA-256 `454b7d5266aeb15c8403dd7c39ea358b03c1b20b282b954c78017a76c6ee02b4`; os HTMLs completos diferem. Capturas e scripts permanecem privados.
+Fonte: [catálogo oficial](https://www.mpgo.mp.br/portal/atos_normas/1217). Duas capturas HTTP 200 de 30/10/2026, 91.783 bytes cada; SHA-256 `c92323a2a4acd46be8ed2f9127986e76b97e73acb33ef63c635bf3c1ad2b86e8` e `05ee2fe30b98d72b1d6dbda9b5003c0fcb77cfe84efa728c59b0b3b92e517e82`. O texto visível do contêiner jurídico, com espaços colapsados, coincide, SHA-256 `77a26904b042a567da4fd09a93b5db305cb713234fa5b652519b03a97b4540a5`; os HTMLs completos diferem. Capturas e scripts permanecem privados.
 
 Os corpos dos números 7, 8, 9, 12 e 15 estão riscados na página, com as notas de revogação fora do risco. A nº 8 cita a Súmula 11/2004 e a nº 7 vincula a Resolução CSMP 1/2007; os demais avisos dizem apenas “Revogada”. Não foi lido o inteiro teor do ato vinculado. Permanecem “afixaçãodo” no nº 14, “não verifica-se” no nº 2 e “freqüência”/“freqüentar”. A ausência de aviso nos demais números não foi interpretada como vigência.
 
