@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.873 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.021 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -188,6 +188,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
 | [STJ — Enunciados científicos do 1º Congresso da Primeira Instância](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 257 | 257 | 0 |
+| [STJ — Enunciados científicos do 2º Congresso da Primeira Instância](tribunais/STJ/en-congresso-primeira-ii/) | 148 | 148 | 0 |
 | [STJ — Enunciados Científicos, 2º Congresso da Segunda Instância Federal e Estadual](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 126 | 126 | 0 |
 | [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
 | [TJCE — Súmulas, edição de 2025](https://portal.tjce.jus.br/uploads/2025/09/SUMULAS-2025.pdf) | 72 | 72 | 0 |
@@ -908,7 +909,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | BNP coletado | Inventário BNP |
 | --- | ---: | ---: | ---: |
 | [STF](tribunais/STF/) | 7.490 | 7.490 | 7.490 |
-| [STJ](tribunais/STJ/) | 3.557 | 3.016 | 3.016 |
+| [STJ](tribunais/STJ/) | 3.705 | 3.016 | 3.016 |
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
@@ -2300,3 +2301,14 @@ Delta sobre a main `dd9c6058` (40.149 registros em 164 órgãos; CJF 1.671): 143
 Sobre a main `ff59cc17` (40.863 registros, 164 órgãos), entram dez registros e um órgão: 40.873 registros em 165 órgãos. Os números 001–010, textos, aprovações e referências foram lidos integralmente no [catálogo oficial](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas), em duas capturas HTTP 200 idênticas de 80.012 bytes, SHA-256 `e142e8f12e7851ef0a05e2a26ede627c7596ffc96cdd0798b9ea3232f81a9795`. As nºs 001 e 009 conservam o rótulo de cancelamento e o risco; na nº 001, o ponto final permanece fora do risco. A nº 002 conserva a nota de revisão pela nº 008 e o texto sem risco. Ausência de nota nas demais não significa vigência.
 
 A grafia “inciativa” na nº 005, “parágrafo I” na nº 002 e a construção “ao Conselho Superior à apreciação” na nº 010 permanecem. Espaços, quebras, negrito e sublinhado de título foram normalizados; risco e itálico foram preservados. Não houve PDF ou OCR neste lote. Tentativas de obter o diário de 02/04/2025 expiraram sem arquivo; a biblioteca Sophia retornou página de validação, sem corpo jurídico. Esses acessos não fundamentam transcrição nem ausência. Resoluções de aprovação, diários, atos de revisão e cancelamento, processos e outras séries continuam pendentes. Não se inferiu vigência ou efeito vinculante. As nove lacunas iniciais do BNP permanecem; somente Markdown foi publicado.
+
+
+## STJ — 2º Congresso da Primeira Instância Federal e Estadual
+
+A série acrescenta 148 enunciados científicos numerados de 1 a 148, conforme o bloco do [catálogo oficial do STJ](https://scon.stj.jus.br/SCON/ec/listaEC.jsp), linhas 8633–9139 do leitor consultado em 29/10/2026. O texto é derivado da leitura do catálogo; não há alegação de HTML bruto, hash de HTML ou capturas HTTP independentes. A linha 9140 inicia o 2º Congresso da Segunda Instância.
+
+A notícia oficial de 17/06/2026 anuncia 149 enunciados aprovados (31 + 111 + 7). A página oficial do evento ainda diz que os aprovados serão disponibilizados em breve e não liga documento final. O catálogo consultado lista 148 textos. A diferença permanece sem conciliação: nenhum nº 149 foi criado, e a ausência de um texto no catálogo não é tratada como prova de inexistência. O caderno de propostas admitidas é pré-evento e não foi usado como fonte de texto aprovado.
+
+Os registros preservam os números, cabeçalhos, notas e continuações publicados. O bloco não separa proposições legislativas; normas e casos citados não receberam IDs. Nomes de proponentes e funções públicas foram mantidos, sem dados pessoais restritos. São registros documentais de enunciados de evento, não decisões do STJ ou precedentes vinculantes; não se infere vigência, efeito vinculante ou completude. Apenas Markdown foi publicado.
+
+A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. Após conciliação com essa base, o total esperado é 41.021 registros em 165 órgãos, STJ 3.705.
