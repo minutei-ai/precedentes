@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.876 registros únicos de 171 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.013 registros únicos de 171 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -318,6 +318,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [TCEMG — Enunciados de súmula e PDFs individuais oficiais](https://www.tce.mg.gov.br/Noticia/Detalhe/67) | 127 | 127 | 0 |
 | [TCESC — Enunciados de Consulta no sistema oficial de pesquisa](https://www.tcesc.tc.br/enunciados-de-consulta) | 2.569 | 2.569 | 0 |
 | [TJRJ — Repertório cronológico de 2026 e lista de súmulas canceladas](https://www.tjrj.jus.br/web/portal-conhecimento/sumulas/s%C3%BAmulas-do-tjrj) | 396 | 396 | 0 |
+| [JFRJ — Enunciados das Turmas Recursais](https://trf2.jus.br/jfrj/institucional/enunciados) | 137 | 137 | 0 |
 | [TRF2 — Súmulas, biblioteca oficial e textos integrais](https://www.trf2.jus.br/trf2/consultas-e-servicos/sumulas-do-trf2) | 62 | 62 | 0 |
 | [TRT13 — Catálogo de súmulas e páginas individuais oficiais](https://www.trt13.jus.br/institucional/nugep/sumulas) | 45 | 45 | 0 |
 | [TRT7 — Súmulas do TRT7](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/sumulas-do-trt7.html) | 12 | 12 | 0 |
@@ -939,7 +940,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 209 | 110 | 110 |
-| [TRF02](tribunais/TRF02/) | 272 | 24 | 24 |
+| [TRF02](tribunais/TRF02/) | 409 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
@@ -2414,7 +2415,7 @@ A página oficial do [CNJ](https://www.cnj.jus.br/programas-e-acoes/precatorios/
 
 Duas respostas HTTP 200 foram capturadas (279.492 bytes, SHA-256 `9aec1b117e2f84d5b6dfd16cff3a159a91a33e9eaa83dd7038442778cfe9a7f7`; 279.462 bytes, SHA-256 `33a8277d20e3a1c120026c86ecfe2a4e4a37dfb8c3b97485c4179e040ec48a19`). Embora o HTML varie em tamanho e hash, a leitura e comparação do DOM confirma os mesmos 15 números e corpos e os mesmos títulos publicados para os itens 1–8. Capturas privadas. A página chama coletivamente os itens apresentados de “em vigor”; não se converteu essa frase em vigência independente ou status individual. A regra de atualização pela SELIC, aprovações, notas e a nota com parênteses duplicados no nº 9 foram mantidas conforme a página.
 
-As normas, regimento e publicações do Diário da Justiça citados ou vinculados permanecem pendentes de leitura; não receberam registros. A lista da página não prova completude histórica. A main indicada inicialmente `20365a10847f57027bc987f236b6a89799ead487` (41.433 registros em 168 órgãos) passou por `b9ecffa2542a180fac931b5929e7c5194c44e664` (41.450/169) e avançou com a incorporação dos 19 registros FONAREF do PR #145 para `dd86f9a3268e933e910d9054555499d905df8d3a` (41.469/169). Esses 19 registros já estão na base e não entram no delta desta série. O FONAPREC acrescenta 15 registros e um órgão: total de 41.484 registros em 170 órgãos. TJMG 447, TJSP 397, Fonavid 81, Enfam 62, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 1.209 permanecem preservados. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Somente Markdown público.
+As normas, regimento e publicações do Diário da Justiça citados ou vinculados permanecem pendentes de leitura; não receberam registros. A lista da página não prova completude histórica. A main indicada inicialmente `20365a10847f57027bc987f236b6a89799ead487` (41.433 registros em 168 órgãos) passou por `b9ecffa2542a180fac931b5929e7c5194c44e664` (41.450/169) e avançou com a incorporação dos 19 registros FONAREF do PR #145 para `dd86f9a3268e933e910d9054555499d905df8d3a` (41.469/169). Esses 19 registros já estão na base e não entram no delta desta série. O FONAPREC acrescenta 15 registros e um órgão: total de 41.484 registros em 170 órgãos. TJMG 447, TJSP 397, Fonavid 81, Enfam 62, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 permanecem preservados. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Somente Markdown público.
 
 ## FONAREF — I e II Congressos
 
@@ -2445,7 +2446,17 @@ As 40 páginas da compilação, as 4 da VI, as 12 da VII e as 10 da VIII foram c
 
 A página do [MPPR](https://site.mppr.mp.br/saude/Pagina/Enunciados-Fonajus-CNJ) foi consultada para cotejo, mas a reprodução não foi usada para compor textos nem identidades. O HTML preservado (.field--name-field-texto) tem 105.728 bytes e SHA-256 `b7b69c4fc475e8c2a54b63836e877ed473e2c96ed8ccc70dfa73bd0d585618fa`, sem paginação; o conteúdo visível da captura salta os nºs 5 e 100, o que não demonstra ausência. A compilação do CNJ fornece ambos. CPF, RG, matrícula pessoal, chaves, CRC e dados de validação foram omitidos; nomes e cargos públicos foram mantidos. PDFs, imagens, recibos e capturas permanecem na evidência privada, fora do repositório.
 
-Conciliação com a main `9b141b75686e8974b7d05be8eccdfffdd05cf7cb`, que integrou o PR #146 do TRF04: a base de 41.700 registros em 170 órgãos passa a 41.876 registros em 171 órgãos com este lote. TRF04 permanece com 232 registros e FONAJUS acrescenta um órgão com 176 identidades. O PR #148 do JFRJ continua fora da contagem; as nove lacunas textuais do catálogo inicial do BNP permanecem.
+Conciliação com a main `aac86a879b96b72d90f5303763f5ceb2923c4d31`, que já inclui os PRs #146 (TRF04), #147 (FOREJEF), #148 (JFRJ) e #150 (identificadores Fonaref, delta zero): a base de 41.837 registros em 170 órgãos passa a 42.013 registros em 171 órgãos com este lote. TRF04 permanece com 232 registros e TRF02 com 409; FONAJUS acrescenta um órgão com 176 identidades. As nove lacunas textuais do catálogo inicial do BNP permanecem.
+
+## Turmas Recursais da JFRJ — catálogo próprio em sete páginas
+
+O catálogo institucional da JFRJ foi lido em sete páginas e aponta 137 fichas únicas, numeradas de 1 a 137. Cada ficha foi capturada duas vezes em 30/10/2026 (UTC), com HTTP 200, tamanho e SHA-256 conferidos; os contêineres jurídicos, títulos e datas de página coincidem em todos os pares. A primeira conexão à ficha 37 foi recusada; duas capturas posteriores foram obtidas, sem tratar a falha como inexistência. Os 14 recibos das listagens constam no [índice da série](tribunais/TRF02/en-tr-jfrj/); os 274 recibos das fichas estão nos registros. HTMLs, inventário e scripts permanecem privados.
+
+São 137 registros novos na série `en-tr-jfrj` do TRF02. Na base de origem da PR, o órgão passa de 86 para 223 registros. O emissor indicado é o Conjunto das Turmas Recursais dos Juizados Especiais Federais do Rio de Janeiro, com suas especializações quando impressas. Não foram misturados ao FOREJEF, à TRU, à TNU ou ao FONAJEF. A base de origem `7167dc1940fe83fa3d0da3416a4607aee156eb50` continha 41.484 registros em 170 órgãos; o delta desta série é +137 registros e +0 órgãos, totalizando 41.621 naquele ponto. A main atual `dc5efcdbebcdbdb942f76ebd922ef1d9a9d7ca9a` inclui os 186 registros FOREJEF do PR #147, os 30 registros do PR #146 e a explicitação de IDs já existentes no PR #150, sem novo registro (41.700 registros em 170 órgãos); com esta série, o total conjunto é 41.837 registros em 170 órgãos e o TRF02 passa de 272 para 409. A linha BNP mantém coletado e inventário em 24; as fichas desta série não são registros novos do BNP.
+
+Foram preservados corpos, precedentes, notas de aprovação, nova redação, cancelamento e rótulos do título. A ficha 10 traz a alteração de 21/08/2026; as fichas 71, 88, 94 e 103 trazem cancelamentos dessa sessão; a 137, aprovação. O catálogo mantém datas de página antigas mesmo em corpos com notas recentes: essas datas não foram harmonizadas. A ficha 25 conserva “PRECEDENTES:” vazio e a publicação “15/09/2025, quarta-feira”; a 126 mantém a aspa sem fecho e a data 11/02/2015; a 51, “deverá se exaurida”. Prévias abreviadas, reticências e repetições internas seguidas de íntegra, como em 22, 37, 67 e 68, foram mantidas na mesma identidade. Não houve reconstrução de redações anteriores ausentes.
+
+O texto sai do contêiner jurídico HTML de cada ficha. Espaços foram normalizados; parágrafos e quebras explícitas separam texto, negrito e itálico foram convertidos para Markdown, e vínculos públicos foram preservados sem publicar valores dos parâmetros `hash` e `infra_hash` presentes em dois destinos. Não houve PDF, OCR ou leitura dos diários, processos e normas apenas citados ou vinculados. Nenhum desses documentos recebeu ID adicional. Não foram inferidas vigência atual, efeito vinculante, completude histórica ou situação das demais séries. As nove lacunas iniciais do BNP permanecem. Somente Markdown público.
 ## TRF02 — catálogo dos FOREJEFs da 2ª Região
 
 O [catálogo oficial do TRF2](https://www.trf2.jus.br/trf2/artigo/pres/enunciados-recomendacoes-sugestoes-mocoes-e-conclusoes-dos-forejefs-da-2a-regiao) acrescenta 186 registros em cinco séries próprias do órgão: 165 enunciados (1–165), 13 recomendações (1–13), duas sugestões (1–2), uma moção (1) e cinco conclusões (1–5). A proposta legislativa nº 1 foi transcrita no README do TRF02 como proposta, sem ID; leis, casos e enunciados da TNU/TRU apenas citados não receberam registros.
