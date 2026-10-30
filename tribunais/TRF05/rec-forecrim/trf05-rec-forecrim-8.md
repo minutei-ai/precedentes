@@ -12,6 +12,14 @@
 
 Recomenda-se ao GMF fiscalizar junto ao Núcleo de Cooperação Judiciária do TRF5 a existência dos fluxos de encaminhamentos de pessoas com transtorno mental ou deficiência psicossocial, em qualquer fase da persecução penal, à Rede de Atenção Psicossocial (RAPs), com o auxílio dos CEAVs, observadas as diretrizes da Política Antimanicomial do Poder Judiciário (Aprovado no **III Forecrim** realizado em Fortaleza/CE, no período de 08 a 10 de junho de 2026).
 
+## Versão documental do III Forecrim
+
+[Documento oficial de enunciados e recomendações aprovados](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2026/06/10/20260610_A85442_Ata_III_FORECRIM.PDF), páginas físicas 4–5 de 5.
+
+Recomenda-se ao GMF fiscalizar junto ao Núcleo de Cooperação Judiciária do TRF5 a existência dos fluxos de encaminhamentos de pessoas com transtorno mental ou deficiência psicossocial, em qualquer fase da persecução penal, à Rede de Atenção Psicossocial (RAPs), com o auxílio dos CEAVs, observadas as diretrizes da Política Antimanicomial do Poder Judiciário.
+
+A versão acima segue o PDF lido visualmente; a seção anterior conserva o catálogo HTML, incluindo suas próprias notas e pontuação. As duas fontes ficam no mesmo identificador.
+
 ## Conferência e limites
 
-As duas capturas HTTP 200 da página têm 118.789 bytes e SHA-256 `1bc60ff19c966009c905a99ab6849fb1a1137da57e5cad02b4e59bdb903b273d`. Os campos e blocos jurídicos coincidem. A transcrição segue as tabelas visíveis; a cópia oculta de exportação não foi contada novamente. Espaços e quebras de linha foram normalizados; os riscos e as notas foram preservados. As datas, aprovações e requalificações são atribuições da página, sem inferência de vigência, efeito vinculante ou exaustividade. O corpo acima segue o catálogo HTML; a leitura parcial posterior da ata I está descrita na proveniência comum, sem declaração de leitura integral. Demais atas, livro e normas vinculados permanecem pendentes. [Proveniência e pendências](README.md).
+As duas capturas HTTP 200 da página têm 118.789 bytes e SHA-256 `1bc60ff19c966009c905a99ab6849fb1a1137da57e5cad02b4e59bdb903b273d`. Os campos e blocos jurídicos coincidem. A transcrição segue as tabelas visíveis; a cópia oculta de exportação não foi contada novamente. Espaços e quebras de linha foram normalizados; os riscos e as notas foram preservados. As datas, aprovações e requalificações são atribuições da página, sem inferência de vigência, efeito vinculante ou exaustividade. O corpo acima segue o catálogo HTML; a leitura parcial da ata I e integral do documento III está descrita na proveniência comum. A ata II, o livro e as normas vinculadas permanecem pendentes. [Proveniência e pendências](README.md).

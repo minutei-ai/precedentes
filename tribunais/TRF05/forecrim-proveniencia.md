@@ -24,12 +24,14 @@ Dois endereços de categorias encontrados no índice de busca responderam 404; a
 
 ## Documentos vinculados e pendências
 
-A página liga atas dos três Forecrim e o Livro do II Forecrim. O complemento documental contém as [seis proposições do I Forecrim](forecrim-i-proposicoes.md), com delta zero. Foram lidas visualmente as páginas 80–82 e 84–87 da ata I, incluindo deliberações e quadro consolidado; não o caderno inteiro. As demais atas e o livro continuam sem leitura neste lote:
+A página liga atas dos três Forecrim e o Livro do II Forecrim. O complemento documental contém as [seis proposições do I Forecrim](forecrim-i-proposicoes.md), com delta zero. Foram lidas visualmente as páginas 80–82 e 84–87 da ata I, incluindo deliberações e quadro consolidado; não o caderno inteiro. Também foram lidas visualmente as cinco páginas do documento ligado como ata III, que se intitula como enunciados e recomendações aprovados. Ele confirma os números 23–31, as recomendações 1–9, a requalificação de 21/22 e o corpo riscado do nº 4. As versões documentais foram acrescentadas nos mesmos registros, sem novos IDs. A ata II e o livro continuam sem leitura neste lote:
 
 - [Ata do I Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2025/11/18/20251118_8DFC90_Ata_do_I_FORECRIM.PDF).
 - [Ata do II Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2025/11/18/20251118_35CFBE_Ata_do_II_FORECRIM.PDF).
 - [Ata do III Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2026/06/10/20260610_A85442_Ata_III_FORECRIM.PDF).
 - [Livro do II Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2026/05/20/20260520_0DBF8F_Livro_do_II_FORECRIM.PDF).
+
+O par da ata III respondeu HTTP 200, 1.015.417 bytes cada e SHA-256 `d3bb39dffab151ecfee83383f4b39123a5d4069db89aad56d707d08a643fcf19`. As cinco páginas foram lidas sem OCR.
 
 O Provimento nº 31/2024 e o PDF divulgado ao fim do I Forecrim também não foram lidos neste lote. Não se reconstruiu redação histórica nem correspondência de números de outros cadernos com base em notícia. Sugestões de criação de normas em documentos ainda não lidos não receberam IDs. Os corpos do catálogo seguem o HTML. A leitura visual parcial da ata I serve ao complemento separado; não houve OCR.
 
