@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.433 registros únicos de 168 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.448 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [FONAPREC — Enunciados do Fórum Nacional de Precatórios](https://www.cnj.jus.br/programas-e-acoes/precatorios/enunciados/) | 15 | 15 | 0 |
 | [STJ — 1º Congresso da Segunda Instância, PDF final](tribunais/STJ/en-congresso-segunda-i/) | 131 blocos (130 enunciados e 1 proposta legislativa) | 130 | 0 |
 | [CJF — IX Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CJF — X Jornada de Direito Civil](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 58 | 58 | 0 |
@@ -2385,3 +2386,12 @@ A compilação ligada à página institucional dos Juizados Especiais acrescenta
 Sobre `ccf167ff` (41.181 registros em 167 órgãos), entram 47 registros e nenhum órgão: 41.228 registros em 167 órgãos. O TJMG passa de 400 para 447; seus 139 registros no inventário BNP permanecem. As nove lacunas iniciais do BNP continuam.
 
 Conciliação final do PR #140 sobre `8ed6cd48` (41.386 registros/168 órgãos): +47 enunciados ENJESP, nenhum órgão; total 41.433/168. TJMG447, TJSP397 e Fonavid81 preservados.
+
+
+## FONAPREC — enunciados hospedados pelo CNJ
+
+A página oficial do [CNJ](https://www.cnj.jus.br/programas-e-acoes/precatorios/enunciados/) apresenta 15 enunciados do Fórum Nacional de Precatórios (FONAPREC). Ela atribui a aprovação ao Fórum e, em seguida, identifica o Comitê Nacional de Precatórios como aprovador nos termos do art. 10 do Regimento Interno do Fonaprec. O FONAPREC é o órgão da série; o CNJ hospeda a página. Não é a série do FONAJE, FONAJEF, FONAREF nem Fonavid.
+
+Duas respostas HTTP 200 foram capturadas (279.492 bytes, SHA-256 `9aec1b117e2f84d5b6dfd16cff3a159a91a33e9eaa83dd7038442778cfe9a7f7`; 279.462 bytes, SHA-256 `33a8277d20e3a1c120026c86ecfe2a4e4a37dfb8c3b97485c4179e040ec48a19`). Embora o HTML varie em tamanho e hash, a leitura e comparação do DOM confirma os mesmos 15 títulos e corpos. Capturas privadas. A página chama coletivamente os itens apresentados de “em vigor”; não se converteu essa frase em vigência independente ou status individual. A regra de atualização pela SELIC, aprovações, notas e a nota com parênteses duplicados no nº 9 foram mantidas conforme a página.
+
+As normas, regimento e publicações do Diário da Justiça citados ou vinculados permanecem pendentes de leitura; não receberam registros. A lista da página não prova completude histórica. Sobre a main `20365a10847f57027bc987f236b6a89799ead487` (41.433 registros em 168 órgãos; TJMG 447, TJSP 397, Fonavid 81, Enfam 62, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 1.209), este lote soma 15 registros e um órgão: 41.448 registros em 169 órgãos. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Somente Markdown público.
