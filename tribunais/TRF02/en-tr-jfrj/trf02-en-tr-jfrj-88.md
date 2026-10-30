@@ -12,7 +12,7 @@
 
 ## Texto disponibilizado pela fonte
 
-Por não correr prescrição contra o absolutamente incapaz, a regra do artigo 74, II, da Lei 8.213/91, de natureza prescricional, não pode ser utilizada para impedir que ele faça jus à pensão por morte a contar da data do óbito do instituidor. 
+Por não correr prescrição contra o absolutamente incapaz, a regra do artigo 74, II, da Lei 8.213/91, de natureza prescricional, não pode ser utilizada para impedir que ele faça jus à pensão por morte a contar da data do óbito do instituidor.\
 
 Precedente: 2004.51.62.001085-2/01.
 
