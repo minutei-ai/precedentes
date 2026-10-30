@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.668 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.683 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -8,11 +8,11 @@ A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da
 
 ## MPCSC — enunciados
 
-O Ministério Público de Contas de Santa Catarina entra como órgão próprio (MPCSC). Não se confunde com o TCESC, o MPSC, o MPF nem os Ministérios Públicos de Contas de outros estados. Na `origin/main` `8aeec6055f858256b9205c0c90b597138680ade2` não havia diretório `tribunais/MPCSC`.
+O Ministério Público de Contas de Santa Catarina entra como órgão próprio (MPCSC). Não se confunde com o TCESC, o MPSC, o MPF nem os Ministérios Públicos de Contas de outros estados. Na `origin/main` `f290c179ca418b4c8e545d28ecb50588474c95fa` não havia diretório `tribunais/MPCSC`.
 
 A [página oficial](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) imprime dois enunciados. Cada um permanece na mesma identidade da portaria que o tornou público no Diário Oficial Eletrônico do TCE/SC. O 1º é a Portaria MPC nº 3/2020, edição nº 2823, de 27/01/2020, páginas 37 e 38. O 2º é a Portaria MPC nº 51/2020, edição nº 3001, de 15/10/2020, página 49. O catálogo imprime “vale alimentação” e a portaria imprime “vale-alimentação”. No 2º, o catálogo usa travessão e a portaria usa hífen. A notícia de 27/01/2020 imprime “facultando lhes” no quadro do primeiro enunciado. Essas diferenças ficam no mesmo identificador.
 
-Sobre essa main, com 42.666 registros em 184 órgãos e os 38 despachos da PGE/GO de 2020 já integrados, este lote acrescenta 2 registros e 1 órgão. O total pelo delta é **42.668 registros em 185 órgãos**. PGEGO permanece em 102, ANCINE em 20 e ANP em 7. A consulta da ANVISA, sem identificador, permanece. O PR #170, ainda aberto, não entra na soma. As nove lacunas textuais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A soma é focada e não repete a varredura global.
+Sobre essa main, com 42.681 registros em 184 órgãos, já com as quinze súmulas do Conselho Superior do MPGO (MPGO 84), PGEGO 102, ANCINE 20 e ANP 7, este lote acrescenta 2 registros e 1 órgão. O total pelo delta é **42.683 registros em 185 órgãos**. A consulta da ANVISA, sem identificador, permanece. Os PRs #170 e #175, ainda abertos, não entram na soma. As nove lacunas textuais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A soma é focada e não repete a varredura global.
 
 Foram lidas visualmente as páginas 37 e 38 da edição de janeiro e a página 49 da edição de outubro, com a camada textual como apoio. Não houve OCR. O estudo citado no art. 2º de cada portaria não foi lido: os atalhos do sítio permanecem literais e os endereços consultados responderam 404 ou devolveram HTML da página inicial. A busca de páginas com “enunciado” e a busca de posts com “terceiro enunciado” não localizaram outro enunciado nesta consulta. Isso não fecha a série. Portarias de outro objeto, atas, notícias, orientações e normas apenas citadas não receberam identificador. Não se infere vigência, vinculação ou completude. Não há CPF, RG, matrícula ou URL de autenticação nos blocos publicados. Capturas e recibos ficam privados. O [índice da série](tribunais/MPCSC/en/) registra os recibos e os limites.
 
@@ -248,6 +248,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [MPDFT — Enunciados criminais, páginas “em vigor” e “revogados”](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14459-enunciados-criminais) | 86 | 84 | 2 |
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
 | [MPRS — Súmulas do Conselho Superior](https://www.mprs.mp.br/orgaoscolegiados/sumulas/) | 21 | 21 | 0 |
+| [MPGO — Súmulas do Conselho Superior](https://www.mpgo.mp.br/portal/atos_normas/1217) | 15 | 15 | 0 |
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
 | [MPGO — Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4) | 41 | 41 | 0 |
 | [MPGO — Enunciados ANPP](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal) | 15 | 15 | 0 |
@@ -1253,7 +1254,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
-| [MPGO](tribunais/MPGO/) | 69 | MPGO — 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias da CEP e da SPGJ/AJ |
+| [MPGO](tribunais/MPGO/) | 84 | MPGO — 15 súmulas CSMP, 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPCSC](tribunais/MPCSC/) | 2 | MPCSC — dois enunciados próprios, distintos do MPSC e do TCESC |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
@@ -1332,7 +1333,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
 
@@ -2750,3 +2751,9 @@ Sobre a main atual `b6f29218c3f0`, cujo README registra 42.377 registros e 180 �
 O catálogo oficial liga três PDFs sob “Súmulas Vinculantes”. As duas capturas HTML são idênticas, HTTP 200, 1.670.179 bytes, SHA-256 `b651d7567de4decd8c537a55a41317376176581733e805ebb0400b20b9295b9d`. Cada PDF foi capturado em duas respostas HTTP 200 idênticas; bytes e hashes individuais estão nas fichas. Li visualmente as três páginas físicas, uma por PDF. O nº 1 foi cotejado com a camada textual; os nºs 2 e 3 foram transcritos manualmente das imagens, sem OCR. Preservados o título 01/2019, os títulos 02 e 03 sem ano, os fechos de 2019 e 2020, o fecho sem ponto dos nºs 2 e 3, a aspa final do corpo do nº 1 e o plural “PAGAMENTOS” do nº 2. Cabeçalhos, brasões e rodapés de contato/código de arquivo ficaram de fora; nomes e funções públicas permanecem.
 
 Sobre a main `669cf364adfa339c027e39d49f16e421781fba7c`, 42.563 registros em 181 órgãos, o delta é +3 registros e +1 órgão: projeção de 42.566 registros em 182 órgãos, sem nova auditoria global. As nove lacunas iniciais do BNP permanecem. Outras versões e normas apenas citadas continuam pendentes. “Vinculante” é denominação da fonte; não se inferiu efeito independente, vigência ou completude. Somente Markdown é publicado; PDFs, imagens e recibos permanecem privados.
+
+## MPGO — súmulas do Conselho Superior
+
+Quinze registros, números 1–15, lidos no contêiner jurídico do [catálogo oficial](https://www.mpgo.mp.br/portal/atos_normas/1217), em duas capturas HTTP 200 de 30/10/2026, com 91.783 bytes cada. O texto normalizado coincide; os HTMLs completos têm hashes diferentes, registrados no [índice da série](tribunais/MPGO/sum-csmp/README.md). Os riscos nos corpos 7, 8, 9, 12 e 15 e as notas de revogação fora deles foram preservados. Não foram inferidos anos para 1–8, vigência atual, efeito vinculante ou completude. Grafias como “afixaçãodo” e “não verifica-se” permanecem.
+
+Não houve PDF ou OCR. Normas, resolução, diários e atas apenas citados ou vinculados não foram lidos nem receberam IDs. Esta série é do CSMP, separada dos emissores CEP e SPGJ/AJ. Sobre a main `8aeec6055f858256b9205c0c90b597138680ade2`, que já integra os 38 despachos referenciais de 2020 da PGE/GO (PGEGO 102), as vinte súmulas da ANCINE, as sete da ANP, as 27 da ANATEL e a consulta da Anvisa sem identificador, o delta é +15 registros e nenhum órgão: 42.666 → 42.681 registros, 184 órgãos; MPGO 69 → 84. O PR #170, ainda aberto, não entra na soma. Não foi repetida a auditoria global. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; evidências privadas e cobertura parcial.
