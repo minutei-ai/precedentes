@@ -12,6 +12,8 @@ Os arquivos reproduzem os textos fornecidos pelo catálogo. São registros docum
 
 O sufixo numérico dos identificadores segue a ordem das 257 ocorrências (001–257). O número publicado no catálogo e no PDF foi preservado em cada registro no campo “Número exibido na fonte”. Na sequência original, o rótulo 227 aparece duas vezes e o rótulo 237 não aparece (a numeração passa de 236 a 238); a coleção não corrige nem renumera esse dado da fonte.
 
+Na conferência visual do PDF final, o Id. 227 da página 227 corresponde ao primeiro texto 227 do catálogo; o Id. 227 da página 237 corresponde ao segundo texto 227 e ao registro de ordem 228. A ordem física do PDF não foi usada para atribuir os identificadores. A página 238 traz o Id. 238, após a página 236 com o Id. 236. Há também uma diferença de redação atribuída: a página 235 do PDF final (Id. 235; registro de ordem 236) contém um trecho adicional sobre pedidos genéricos e prescrição intercorrente ausente do catálogo SCON. O registro mantém o texto do catálogo, sem combinar as versões; no segundo Id. 227, também se preserva a pontuação de cada fonte.
+
 A seção seguinte da página, iniciada na linha 8174, é “1º Congresso STJ da Segunda Instância Federal e Estadual” e não integra esta coleção. Normas e julgados citados nos enunciados permanecem referências textuais, sem identidade própria nesta série.
 
 ## Seções na fonte
