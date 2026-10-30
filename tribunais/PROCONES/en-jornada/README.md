@@ -4,8 +4,8 @@ O Instituto Estadual de Proteção e Defesa do Consumidor do Espírito Santo (PR
 
 | Série | Registros |
 | --- | ---: |
-| [1ª Jornada Capixaba de Defesa do Consumidor](#serie-i) | 14 |
-| [2ª Jornada Capixaba de Defesa do Consumidor](#serie-ii) | 13 |
+| [1ª Jornada Capixaba de Defesa do Consumidor](#série-i) | 14 |
+| [2ª Jornada Capixaba de Defesa do Consumidor](#série-ii) | 13 |
 
 ## Série I
 
