@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.305 registros únicos de 167 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.386 registros únicos de 168 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -83,6 +83,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPGO — Enunciados ANPP](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal) | 15 | 15 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
+| [Fonavid — Enunciados](https://fonavid.com.br/conteudos/enunciados) | 81 | 81 | 0 |
 | [Enfam — Seminário O Poder Judiciário e o novo CPC](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 62 | 62 | 0 |
 | [CNPG/GNCCRIM — Enunciados 41–44 reproduzidos pelo MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal) | 4 | 4 | 0 |
 | [MPBA — Súmulas do Conselho Superior](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas) | 10 | 10 | 0 |
@@ -1020,6 +1021,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
 | [ENFAM](tribunais/ENFAM/) | 62 | Seminário O Poder Judiciário e o novo CPC (2015), reprodução no catálogo STJ |
 | [CNPG](tribunais/CNPG/) | 4 | CNPG/GNCCRIM — enunciados 41–44 reproduzidos em notícia institucional do MPPR |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
@@ -2365,3 +2367,11 @@ Conciliação final do PR #136 sobre `2ab47e6e` (41.063 registros em 166 órgão
 Entram 62 enunciados, números 1–62, em órgão próprio ENFAM e série `en-cpc-2015`. Os 62 corpos foram lidos na seção do catálogo STJ (linhas 5819–6035), separados das Jornadas do CJF e dos congressos do STJ. A página institucional da Enfam informa realização em 26–28/08/2015 e aprovação pelos participantes. A autoria do evento não foi transferida ao STJ, hospedeiro da reprodução. As duas leituras derivadas retidas têm sobreposição coincidente, sem alegação de HTML bruto ou capturas HTTP independentes; hashes e bytes dos derivados constam do índice. Número 36 com quebra reunida, nota do nº 21 e final sem ponto do nº 58 preservados. O PDF da Enfam retornou 403; não houve leitura visual, OCR ou transcrição desse PDF. Votações e demais documentos vinculados permanecem pendentes. Nenhuma vigência, vinculação ou exaustividade foi inferida.
 
 Sobre `9baeb8e0` (41.119 registros em 166 órgãos), o delta é +62 registros e +1 órgão: 41.181 registros em 167 órgãos. CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 permanecem. As nove lacunas iniciais do BNP continuam.
+
+## Fonavid — 81 enunciados no site próprio
+
+Os números 1–81, títulos e corpos foram lidos no contêiner `#enunciados-para-exportacao` do site do Fonavid e comparados entre dois HTMLs HTTP 200 idênticos, de 170.414 bytes. SHA e limites constam do índice da série. Revogações, alterações, grafias e notas de encontros permanecem literais; não se inferiu vigência ou vinculação. O PDF de 2025 reproduzido pelo TJSE foi capturado, mas não foi lido visualmente nem usado como fonte textual. Não houve OCR ou reconstrução de redação antiga. Atas, cartas e fontes históricas continuam pendentes. A cópia do CNJ, identificada como atualizada até XIV/2022, não substitui o catálogo próprio com os números do XVII encontro. Nenhuma norma citada virou registro.
+
+Base `ccf167ff` com a Enfam integrada: 41.181 registros em 167 órgãos. Delta +81 registros e +1 órgão FONAVID: 41.262 registros em 168 órgãos. ENFAM 62, CJF 1.872, STJ 3.705, CNPG 4 e MPGO 69 preservados. As nove lacunas iniciais do BNP permanecem.
+
+Conciliação final do PR #141: base `146d15cb`, 41.262 registros em 168 órgãos, já com Fonavid 81. As 124 minutas FOJESP somam 41.386 registros em 168 órgãos; TJSP 397. Nenhuma aprovação ou vigência foi inferida do rótulo de minuta.
