@@ -96,4 +96,3 @@ JÚLIO CÉSAR DE MELO, Subprocurador-Geral de Justiça para Assuntos Institucion
 LUCIANA CANO CASAROTTO, Coordenadora do Centro de Apoio Operacional da Infância, Juventude, Educação, Família e Sucessões.
 
 Registre-se e publique-se. Luciano de Faria Brasil Promotor de Justiça, Chefe de Gabinete. DEMP: 10/03/2022.
-

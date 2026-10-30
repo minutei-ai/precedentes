@@ -1,0 +1,38 @@
+# I Jornada de Direito do Patrimônio Cultural e Natural
+
+**46 enunciados**, números 1–46 da [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), filtro `jornada.id=541`. Os campos jurídicos e metadados dos 46 pares de fichas coincidem; bytes e SHA-256 foram recalculados, e os corpos coincidem com as duas pesquisas. Todos os corpos e metadados foram lidos. As fichas não publicam justificativas, Notas ou redação anterior.
+
+Preservadas as grafias “diálogo dasfontes”, “a fim de de aumentar”, “afastarse” e “com o fito de/de maneira”. A referência à Resolução CNJ n. 350/21 na nº 44 permanece diferente da 350/2020 na nº 40. Sem inferir situação jurídica atual, vinculação, exaustividade ou titularidade atual dos cargos. Nenhum ato ou julgado citado gerou ID novo. Sem PDF/OCR; outras publicações e documentos apenas citados permanecem pendentes.
+
+- [Enunciado 1](cjf-en-patrimonio-i-1.md)
+- [Enunciado 2](cjf-en-patrimonio-i-2.md)
+- [Enunciado 3](cjf-en-patrimonio-i-3.md)
+- [Enunciado 4](cjf-en-patrimonio-i-4.md)
+- [Enunciado 5](cjf-en-patrimonio-i-5.md)
+- [Enunciado 6](cjf-en-patrimonio-i-6.md)
+- [Enunciado 7](cjf-en-patrimonio-i-7.md)
+- [Enunciado 8](cjf-en-patrimonio-i-8.md)
+- [Enunciado 9](cjf-en-patrimonio-i-9.md)
+- [Enunciado 10](cjf-en-patrimonio-i-10.md)
+- [Enunciado 11](cjf-en-patrimonio-i-11.md)
+- [Enunciado 12](cjf-en-patrimonio-i-12.md)
+- [Enunciado 13](cjf-en-patrimonio-i-13.md)
+- [Enunciado 14](cjf-en-patrimonio-i-14.md)
+- [Enunciado 15](cjf-en-patrimonio-i-15.md)
+- [Enunciado 16](cjf-en-patrimonio-i-16.md)
+- [Enunciado 17](cjf-en-patrimonio-i-17.md)
+- [Enunciado 18](cjf-en-patrimonio-i-18.md)
+- [Enunciado 19](cjf-en-patrimonio-i-19.md)
+- [Enunciado 20](cjf-en-patrimonio-i-20.md)
+- [Enunciado 21](cjf-en-patrimonio-i-21.md)
+- [Enunciado 22](cjf-en-patrimonio-i-22.md)
+- [Enunciado 23](cjf-en-patrimonio-i-23.md)
+- [Enunciado 24](cjf-en-patrimonio-i-24.md)
+- [Enunciado 25](cjf-en-patrimonio-i-25.md)
+- [Enunciado 26](cjf-en-patrimonio-i-26.md)
+- [Enunciado 27](cjf-en-patrimonio-i-27.md)
+- [Enunciado 28](cjf-en-patrimonio-i-28.md)
+- [Enunciado 29](cjf-en-patrimonio-i-29.md)
+- [Enunciado 30](cjf-en-patrimonio-i-30.md)
+- [Enunciado 31](cjf-en-patrimonio-i-31.md)
+- [Enunciado 32](cjf-en-patrimonio-i-32.md)
