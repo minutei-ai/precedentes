@@ -2,7 +2,9 @@
 
 Súmulas, temas, consultas, orientações e manifestações de fontes oficiais. Um arquivo Markdown por registro.
 
-**42.715 registros · 185 órgãos · cobertura parcial**
+**42.801 registros · 187 órgãos · cobertura parcial**
+
+Integração local dos lotes MPES e MPSE documentalmente revisados, ainda não publicada. Delta de 86 registros e dois órgãos sobre a main `a421b646`. O inventário global do commit `623456210d044a99713b97ca798a93433cd157c5` confirmou 42.801 IDs únicos em 187 órgãos. Não há resultado de CI ou aprovação formal inferidos da revisão.
 
 - [Explorar por órgão](tribunais/)
 - [Fontes, cobertura e pendências](COBERTURA.md)
