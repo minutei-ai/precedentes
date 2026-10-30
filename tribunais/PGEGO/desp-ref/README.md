@@ -8,7 +8,7 @@ As duas capturas HTML são idênticas: HTTP 200, 297215 bytes, SHA-256 `cc3de8b6
 
 ## Despachos referenciais rotulados em 2020
 
-Os 38 rótulos com espécie `Despacho` (comparada sem distinção de maiúsculas/minúsculas) apontam a 38 URLs distintas e foram atribuídos à PGE/GO conforme os documentos; a CGE/GO hospeda o catálogo. As duas outras linhas de 2020 são pareceres de outros emissores e não foram incluídas. Número do catálogo, número impresso e identidade foram conciliados pela leitura dos PDFs. O nº 684 imprime a unidade `PJ-10235`; o nº 378 imprime `ADSET-12543` e é da Procuradoria Setorial da Secretaria de Estado de Governo. O PDF do rótulo 695 reúne 14 páginas, mas somente as páginas 1–7 pertencem ao Despacho nº 695/2020-GAB; as sete páginas restantes contêm outros atos, não incorporados a este registro.
+Os 38 rótulos com espécie `Despacho` (comparada sem distinção de maiúsculas/minúsculas) apontam a 38 URLs distintas e foram atribuídos à PGE/GO conforme os documentos; a CGE/GO hospeda o catálogo. As duas outras linhas de 2020 são pareceres de outros emissores e não foram incluídas. Número do catálogo, número impresso e identidade foram conciliados pela leitura dos PDFs. O nº 684 imprime a unidade `PJ- 10235`; o nº 378 imprime `ADSET- 12543` e é da Procuradoria Setorial da Secretaria de Estado de Governo. O PDF do rótulo 695 reúne 14 páginas, mas somente as páginas 1–7 pertencem ao Despacho nº 695/2020-GAB; as sete páginas restantes contêm outros atos, não incorporados a este registro.
 
 Cada PDF foi capturado duas vezes; ambas as respostas retornaram HTTP 200 e os pares coincidem em bytes e SHA-256. O número impresso permanece separado do rótulo do catálogo.
 
