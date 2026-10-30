@@ -1,0 +1,28 @@
+# CJF · II Jornada de Direito Comercial · Enunciado 73
+
+- **Órgão:** Conselho da Justiça Federal (CJF)
+- **Emissor:** II Jornada de Direito Comercial
+- **Espécie:** Enunciado de jornada
+- **Número:** 73
+- **Identificador:** `cjf-en-comercial-ii-73`
+- **Jornada na ficha:** II Jornada de Direito Comercial
+- **Coordenador-Geral na ficha:** Ministro Ruy Rosado de Aguiar
+- **Comissão de Trabalho na ficha:** Crise da Empresa: Falência e Recuperação
+- **Coordenador da Comissão de Trabalho na ficha:** Paulo Penalva Santos
+- **Referência Legislativa na ficha:** Norma: Lei de Falências e Recuperação Judicial - Lei n. 11.101/2005 ART: 6 PAR:2; ART: 6 PAR:1; ART: 49; ART: 9 INC:II; ART: 124;
+- **Palavras de Resgate na ficha:** TRATAMENTO JURÍDICO DIFERENCIADO, QUADRO GERAL DE CREDORES, AÇÃO TRABALHISTA, INSOLVÊNCIA
+- **Fonte:** [ficha oficial do CJF](https://www.cjf.jus.br/enunciados/enunciado/799)
+- **Capturas:** duas respostas HTTP 200 em 29/10/2026, campos jurídicos e metadados coincidentes
+- **Bytes e SHA-256 dos HTMLs:** 9513 bytes, SHA-256 `baee9b5a37315d11a5daa05d3c944cb54803bf3e07fbcb91cc41ff5f242da4ea`; 9513 bytes, SHA-256 `582c1a9d14de971853f2d7d9f5486cc8a0d914a5ab190aa719195139a6b08d25`
+
+## Enunciado publicado
+
+Para que seja preservada a eficácia do disposto na parte final do § 2º do artigo 6º da Lei n. 11.101/05, é necessário que, no juízo do trabalho, o crédito trabalhista para fins de habilitação seja calculado até a data do pedido da recuperação judicial ou da decretação da falência, para não se ferir a par condicio creditorum e observarem-se os arts. 49, ¿caput¿, e 124 da Lei n. 11.101/2005.
+
+## Campo de justificativa na ficha
+
+A parte final do § 2º do art. 6º da Lei n. 11.101/05 indica possibilidade de automática inclusão do crédito trabalhista, apurado perante o juízo do trabalho, no quadro geral de credores, por meio de simples ofício enviado pelo juízo do trabalho ao juízo da recuperação judicial ou falência. Ocorre que, na prática, a liquidação de sentença prolatada na Justiça do Trabalho contra empresa em recuperação judicial ou falida observa a data da liquidação, sem considerar que os créditos incluídos no quadro geral de credores do processo concursal levam em conta, como marco final de atualização e incidência de juros, a data do pedido de recuperação judicial ou a data da decretação da falência, o que garante a paridade dos credores submetidos ao concurso. Desse modo, ainda que a Lei n. 11.101/05 tenha facilitado a inclusão dos créditos trabalhistas no quadro geral de credores, sem a necessidade de prévia impugnação ou habilitação de crédito perante o juízo concursal, na prática, se não forem observados os arts. 49, ¿caput¿ e 124 da Lei n. 11.101/05, quanto à atualização e à incidência de juros, a aplicação do dispositivo acabaria por afrontar a ¿par conditio creditorum¿. Além disso, o art. 6º, §1º, da Lei n. 11.101/2005 determina que terão prosseguimento no juízo o qual estiver se processando a ação que demandar quantia ilíquida. Nada obstante, o §2º determina que as ações de natureza trabalhista serão processadas perante a justiça especializada até a apuração do respectivo crédito e, somente depois disso, será incluído, no quadro-geral de credores, pelo valor determinado em sentença. A razão da lei é a de não submeter a Justiça Comum ao enfrentamento e julgamento de questões inerentes e pertinentes à Justiça Especializada do Trabalho. Em outras palavras, o legislador, sabiamente, poupa o juiz da recuperação judicial ou da falência de ter que julgar questões ligadas às horas extras, às verbas salariais, dentre todas as outras próprias das relações de trabalho. Assim sendo, a técnica da lei é que todas as questões relacionadas às relações de trabalho sejam definitivamente decididas por aquela justiça especializada e, uma vez definitivamente liquidadas, o respectivo valor seja habilitado na recuperação judicial ou na falência, conforme o caso. Por essa razão, existe grande conflito quanto à questão da aferição da importância que deve ser habilitada no processo de insolvência (recuperação ou falência). Há entendimentos de que a liquidação de sentença não deve, necessariamente, observar os parâmetros do art. 9º, inc., II, da Lei n. 11.101/2005, quando se tratar de devedor em estado de recuperação judicial ou falido. Todavia, tal entendimento dá margens à burla ao instituto da recuperação judicial e da falência, possibilitando o favorecimento de determinados credores em detrimento dos demais, em iguais condições, pois aquele que teve o seu crédito liquidado após o marco temporal descrito no art. 9º, inc. II, poderá ter inscrito no quadro-geral de credores importância maior em razão de parâmetro de atualização monetária que incidiu após a aludida data de corte.
+
+## Conferência e limites
+
+Texto integral do campo de enunciado da ficha HTML, conferido nos dois arquivos e com a pesquisa pública da II Jornada de Direito Comercial (`jornada.id=61`). Espaços e quebras de linha normalizados, sem inserir espaços nas fronteiras de tags inline. Grafias, caixa, referências e pontuação permanecem literais. Referências legislativas e palavras de resgate ficam separadas do enunciado. A justificativa publicada na ficha está reproduzida em seção própria, sem atualizar referências ou corrigir grafias. O campo de texto revogado está vazio e não confirma vigência. Nomes e cargos são os indicados pela fonte, sem atribuição de titularidade atual. Sem inferência de efeito vinculante ou exaustividade; normas, processos e órgãos citados não receberam IDs. PDFs, atas e outras publicações não foram lidos neste lote. Sem OCR.
