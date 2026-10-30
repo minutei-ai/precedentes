@@ -50,11 +50,22 @@ A página hospedeira da CGE/GO tem 115 linhas documentais não vazias, de vário
 
 Campos tarjados nos nºs 573, 779 e 1470 não foram recuperados; o CPF parcial do nº 779 foi omitido integralmente. A referência 4 do nº 1589 conserva indicação editorial no lugar da URL de validação. Notas, processos citados, nomes e funções públicos permanecem; chaves, CRC, QR codes e blocos eletrônicos foram omitidos. As datas eletrônicas são atribuídas às cópias e não confirmam vigência. As divergências do nº 42, a Lei nº 14.973 de 2014 no nº 1589 e o placeholder do nº 1725 foram preservados. Nenhum documento apenas citado ganhou ID.
 
+
+## PGE/GO — 14 despachos referenciais rotulados em 2023
+
+Na base da main `b6f29218c3f0773060b809b127ea4f4bb6dd23cd` (42.377 registros em 180 órgãos, PGEGO 29), este lote acrescenta 14 identidades e nenhum órgão: delta esperado **+14 registros, +0 órgãos**, PGEGO 43 (22 súmulas e 21 despachos). O total esperado pelo delta é 42.391 registros em 180 órgãos; não foi repetida a contagem global. As nove lacunas textuais originais do BNP permanecem inalteradas.
+
+O catálogo oficial da CGE/GO lista os rótulos 2231, 2062, 1563, 1554, 804, 692, 660, 552, 535, 511, 467, 456, 288 e 06. Cada despacho foi identificado pela primeira página e recebeu ID da série existente `pgego-desp-ref-N-ANO`. No último, o catálogo conserva o rótulo `06`, enquanto o PDF imprime `6/2023 - GAB`; ambos os valores aparecem separados no registro. A PGE/GO é a emissora e a CGE/GO hospeda o catálogo.
+
+As duas capturas primárias do catálogo (seção `entry-content`, tabela de sete colunas) são idênticas: 297215 bytes e SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF teve duas respostas HTTP 200, com tamanhos e hashes idênticos. Foram lidas visualmente as 111 páginas dos PDFs, usando a camada textual como apoio; nenhuma página exigiu OCR. Glifos danificados nas camadas textuais de 1563 e 2062 foram corrigidos contra as imagens. Redações visíveis nos textos dos despachos 511 e 804 foram preservadas como riscadas.
+
+Campos tarjados foram omitidos sem recuperar camadas ocultas; o identificador parcial de CPF do despacho 2062 foi omitido. Blocos de assinatura/autenticação, números pessoais, códigos verificadores, CRC, QR, códigos de barras e URLs de validação não foram publicados. Nomes e funções públicas, referências, notas, continuações de página e fechos foram conservados. Nenhum ato apenas citado ganhou ID. Não se infere vigência, vinculação ou completude. Os originais, imagens, extrações e recibos permanecem privados; o lote público contém apenas Markdown.
+
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
-| [PGE/GO — sete despachos referenciais de 2025–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 7 documentos / 59 páginas | 7 | 0 |
+| [PGE/GO — despachos referenciais de 2023 e 2025–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 21 documentos / 170 páginas | 21 | 0 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |

@@ -1,10 +1,10 @@
 # PGEGO
 
-Procuradoria-Geral do Estado de Goiás. **29 registros.**
+Procuradoria-Geral do Estado de Goiás. **43 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
-| [Súmula Administrativa](sum/) | 22 |
-| [Despachos referenciais de 2025 e 2026](desp-ref/) | 7 |
+| [Súmulas administrativas](sum/) | 22 |
+| [Despachos referenciais](desp-ref/) | 21 |
 
-Os sete despachos foram lidos em suas 59 páginas físicas. A CGE/GO hospeda o catálogo, sem alterar a autoria da PGE/GO. A série de súmulas permanece separada. Os demais documentos do catálogo continuam pendentes; não se afirma vigência ou completude.
+Os 21 despachos referenciais abrangem os 14 rótulos de 2023 e os sete documentos de 2025–2026, com 170 páginas físicas lidas visualmente. A PGE/GO é a emissora; a CGE/GO hospeda o catálogo. As súmulas permanecem em série separada. As demais linhas do catálogo seguem pendentes; não se afirma vigência ou completude.
