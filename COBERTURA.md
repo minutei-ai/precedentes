@@ -1,10 +1,20 @@
 # Cobertura
 
-**42.221 registros únicos de 177 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.248 registros únicos de 178 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## PROCONES — Jornadas Capixabas de Defesa do Consumidor
+
+Foram incorporados 27 enunciados publicados na página oficial do PROCON/ES: 14 da 1ª Jornada e 13 da 2ª Jornada, em séries numeradas separadamente. O cabeçalho identifica o Instituto Estadual de Proteção e Defesa do Consumidor, vinculado à Secretaria de Estado da Justiça, e informa parceria com a Comissão de Defesa do Consumidor da OAB/ES. Os textos são atribuídos ao PROCON/ES, sem IDs duplicados para a OAB/ES. O PROCON/ES é distinto do PROCON/PB, da PGEES, do TJES, do TCEES e do CNJ.
+
+A página do catálogo e cada PDF foram capturados duas vezes com HTTP 200 e bytes idênticos por par em 30/10/2026. O catálogo tem 257.508 bytes e SHA-256 `d9c52b7d8447201b4923b7a38c19610cd3178237d91e362329e4d7c37be536e7`. Os PDFs da 1ª e da 2ª Jornadas têm, respectivamente, duas páginas, 300.305 bytes e SHA-256 `14e10ed33db3abc85d44805349c055f33bd161cfecf5f3667031dad5466c76f3`, e duas páginas, 160.574 bytes e SHA-256 `8f7b489859e1bc070aa91f3347bea2e7b2c3ffb32b64b9d9c52c0437eec0733c`. As quatro páginas foram lidas nas imagens renderizadas e na camada textual. Na série I, o enunciado 8 termina na página 1 e o 9 começa na página 2; na série II, o 8 termina na página 1 e o 9 começa na página 2. Foram preservadas, entre outras particularidades, “reinicio”, “induz o consumidor e erro”, a vírgula no enunciado II-2, “c.c” no II-5 e “prevalece/prevalecerá à norma” nos II-12 e II-13. Espaços e quebras foram normalizados.
+
+O catálogo aponta atualização em 07/10/2019 para a 1ª Jornada e em 14/04/2025 para a 2ª; essas datas não são datas de aprovação. A fonte não esclarece completude, aprovação individual, vigência atual ou força vinculante. Normas e julgados apenas citados não geraram IDs e não foram atualizados. Cabeçalhos repetidos e contatos foram omitidos. CPF, RG, matrícula pessoal, chaves CRC, URLs de autenticação e recibos não foram publicados; PDFs, capturas, imagens e derivados permanecem privados.
+
+Sobre a main `501bea97beb4dae12148267e866fa1a53984311e` (42.221 registros em 177 órgãos), este lote acrescenta 27 registros e um órgão: 42.248 registros em 178 órgãos. Os outros PRs abertos, inclusive os 18 registros do PR #157 do FONAMEC, não integram essa contagem. A cobertura permanece parcial.
 
 ## FONEF
 
@@ -35,6 +45,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
+| [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
 | [CRSFN — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/legislacao) | 6 | 6 | 0 |
 | [CRSNSP — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/legislacao/legislacao) | 6 | 6 | 0 |
