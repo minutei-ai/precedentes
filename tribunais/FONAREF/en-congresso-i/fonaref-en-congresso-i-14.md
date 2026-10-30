@@ -2,6 +2,7 @@
 
 - **Série:** I Congresso do Fórum Nacional de Recuperação Empresarial e Falências (FONAREF)
 - **Enunciado:** 14
+- **Identificador:** `fonaref-en-congresso-i-14`
 - **Fonte:** [1º Caderno de Enunciados do FONAREF, pp. 12–16](https://www.cnj.jus.br/wp-content/uploads/2023/03/1o-caderno-de-enunciados-fonaref-portal.pdf)
 
 > O caderno apresenta os enunciados como orientação doutrinária. A transcrição preserva o texto e a justificativa publicados.
