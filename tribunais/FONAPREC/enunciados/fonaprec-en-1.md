@@ -4,6 +4,7 @@
 - **Aprovação atribuída pela página:** Comitê Nacional de Precatórios, nos termos do art. 10 do Regimento Interno do Fonaprec
 - **Espécie:** Enunciado
 - **Número:** 1
+- **Título publicado:** Delegação de atribuições do presidente do Tribunal
 - **Identificador:** `fonaprec-en-1`
 - **Fonte:** [CNJ — Enunciados do Fórum Nacional de Precatórios](https://www.cnj.jus.br/programas-e-acoes/precatorios/enunciados/)
 

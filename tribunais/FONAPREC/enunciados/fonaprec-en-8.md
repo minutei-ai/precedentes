@@ -4,6 +4,7 @@
 - **Aprovação atribuída pela página:** Comitê Nacional de Precatórios, nos termos do art. 10 do Regimento Interno do Fonaprec
 - **Espécie:** Enunciado
 - **Número:** 8
+- **Título publicado:** Pagamento de superpreferência
 - **Identificador:** `fonaprec-en-8`
 - **Fonte:** [CNJ — Enunciados do Fórum Nacional de Precatórios](https://www.cnj.jus.br/programas-e-acoes/precatorios/enunciados/)
 

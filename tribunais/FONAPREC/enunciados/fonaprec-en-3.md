@@ -4,6 +4,7 @@
 - **Aprovação atribuída pela página:** Comitê Nacional de Precatórios, nos termos do art. 10 do Regimento Interno do Fonaprec
 - **Espécie:** Enunciado
 - **Número:** 3
+- **Título publicado:** Execução de sequestro em caso de ausência de dotação orçamentária
 - **Identificador:** `fonaprec-en-3`
 - **Fonte:** [CNJ — Enunciados do Fórum Nacional de Precatórios](https://www.cnj.jus.br/programas-e-acoes/precatorios/enunciados/)
 
