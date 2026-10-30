@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.607 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.733 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -186,6 +186,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
 | [STJ — Enunciados científicos do 1º Congresso da Primeira Instância](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 257 | 257 | 0 |
+| [STJ — Enunciados Científicos, 2º Congresso da Segunda Instância Federal e Estadual](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 126 | 126 | 0 |
 | [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
 | [TJCE — Súmulas, edição de 2025](https://portal.tjce.jus.br/uploads/2025/09/SUMULAS-2025.pdf) | 72 | 72 | 0 |
 | [TJCE — SJURIS, decisões de IRDR e IAC (consulta parcial)](https://sjuris.tjce.jus.br/) | 7 | 7 | 0 |
@@ -905,7 +906,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | BNP coletado | Inventário BNP |
 | --- | ---: | ---: | ---: |
 | [STF](tribunais/STF/) | 7.490 | 7.490 | 7.490 |
-| [STJ](tribunais/STJ/) | 3.301 | 3.016 | 3.016 |
+| [STJ](tribunais/STJ/) | 3.427 | 3.016 | 3.016 |
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
