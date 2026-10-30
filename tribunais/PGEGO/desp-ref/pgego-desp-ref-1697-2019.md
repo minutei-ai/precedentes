@@ -95,15 +95,19 @@ manifestação do Secretário de Segurança Pública do Estado de São Paulo e, 
 
 (iii) A fundamentação deve ser contemporânea à decisão, ou seja, não se revela viável indicar, a posteriori, as razões que deveriam ter sido expostas por ocasião da decisão, pois a existência contemporânea da motivação - e não a sua justificação tardia - constitui pressuposto de validade da mesma.
 
-24\. Ante o exposto, conheço do Parecer ADSET n. 72/2019 (9337912), que opinou pela improvimento do recurso administrativo interposto pelo Sr. [identificação coberta na fonte], na condição de ex-prefeito do Município de Itapuranga, e aprovo-o em todos os seus termos.
+24\. Ante o exposto, conheço do Parecer ADSET n. 72/2019 (9337912), que opinou pela improvimento do recurso administrativo interposto pelo Sr. Jabez Cardoso de Melo, na condição de ex-prefeito do Município de Itapuranga, e aprovo-o em todos os seus termos.
 
 25\. Por oportuno, encaminhem-se os autos ao Gabinete do Secretário de Estado de Governo, via Procuradoria Setorial, para decisão do Senhor Secretário, a quem fica desde já recomendado, na hipótese de não acatar o pedido de reconsideração no prazo de 5 (cinco) dias, submeter o feito à apreciação conclusiva do Senhor Governador do Estado de Goiás, para os fins do art. 56, § 1º, da Lei Estadual n. 13.800/2001. Antes, porém, dê-se ciência da presente orientação (instruída com cópia do e deste Despacho) aos Procuradores do Estado lotados na Procuradoria Administrativa, nas Procuradorias Setoriais da administração direta e indireta e no CEJUR, este último para o fim declinado no art. 6º, § 2º, da Portaria nº 127/2018 GAB.
 
-Juliana Pereira Diniz Prudente Procuradora-Geral do Estado GABINETE DA PROCURADORA-GERAL DO ESTADO
+Juliana Pereira Diniz Prudente
+
+Procuradora-Geral do Estado
+
+GABINETE DA PROCURADORA-GERAL DO ESTADO
 
 ## Conferência e limites
 
-As páginas 1–6 contêm a ementa, fundamentação e fecho. O bloco de autenticação que segue o fecho na sexta página foi omitido. A identificação do interessado e a identificação coberta no primeiro parágrafo foram omitidas sem recuperar as tarjas.
+As páginas 1–6 contêm a ementa, fundamentação e fecho. O bloco de autenticação que segue o fecho na sexta página foi omitido. A identificação do interessado e a identificação coberta no primeiro parágrafo foram omitidas sem recuperar as tarjas. O nome impresso sem tarja no parágrafo 24 foi conservado.
 
 Foram normalizados espaços e quebras de composição, mantendo grafias, numeração, citações, marcadores e limites das páginas. Elementos gráficos de cabeçalho, rodapés repetidos, blocos de assinatura eletrônica, URLs de validação, códigos verificadores, CRC, QR codes e códigos de barras foram omitidos. Nomes e funções públicas do fecho foram preservados. Documentos citados não receberam identificadores próprios.
 

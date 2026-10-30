@@ -39,7 +39,7 @@ GABINETE DA PROCURADORA-GERAL DO ESTADO
 
 ## Conferência e limites
 
-As páginas 1–2 contêm a ementa, fundamentação e fecho. A terceira página contém somente autenticação eletrônica e foi omitida.
+As páginas 1–2 contêm a ementa, fundamentação e fecho. O bloco de autenticação que segue o fecho na segunda página foi omitido. A terceira página contém somente o rodapé de endereço, códigos de barras e a referência do processo, e foi omitida.
 
 Foram normalizados espaços e quebras de composição, mantendo grafias, numeração, citações, marcadores e limites das páginas. Elementos gráficos de cabeçalho, rodapés repetidos, blocos de assinatura eletrônica, URLs de validação, códigos verificadores, CRC, QR codes e códigos de barras foram omitidos. Nomes e funções públicas do fecho foram preservados. Documentos citados não receberam identificadores próprios.
 

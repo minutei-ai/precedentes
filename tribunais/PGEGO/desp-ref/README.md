@@ -15,7 +15,7 @@ As duas capturas HTML são idênticas: HTTP 200, 297215 bytes, SHA-256 `cc3de8b6
 | [1270/2019/GAB](pgego-desp-ref-1270-2019.md) | 4 | 432716 | `832fa0e95512ae0fd6161169a5945615bbb1b23ce1067065be7e0405920ae361` |
 | [1211/2019/GAB](pgego-desp-ref-1211-2019.md) | 3 | 325036 | `7062abb2006518eb1d514f4e51df0557d453bc4509e7409d593b3255ba1b631a` |
 
-As 16 páginas foram lidas visualmente; 14 contêm texto jurídico e duas apenas autenticação ou rodapé. A camada textual serviu de apoio e não houve OCR. O nº 1697 teve avisos de sintaxe durante a renderização, mas suas seis imagens foram conferidas visualmente. Identificações cobertas no PDF do nº 1697 não foram recuperadas. Os despachos citados não receberam IDs. As outras três linhas anteriores a 2020 são pareceres atribuídos pelo catálogo a emissores distintos e não integram esta série PGE/GO.
+As 16 páginas foram lidas visualmente; 14 contêm texto jurídico e duas apenas autenticação ou rodapé. A camada textual serviu de apoio e não houve OCR. O nº 1697 teve avisos de sintaxe durante a renderização, mas suas seis imagens foram conferidas visualmente. Identificações cobertas no PDF do nº 1697 não foram recuperadas; o nome impresso sem tarja no parágrafo 24 foi conservado. Os despachos citados não receberam IDs. As outras três linhas anteriores a 2020 são pareceres atribuídos pelo catálogo a emissores distintos e não integram esta série PGE/GO.
 
 ## Rótulos de 2023
 

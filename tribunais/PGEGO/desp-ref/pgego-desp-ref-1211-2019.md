@@ -47,7 +47,7 @@ GABINETE DA PROCURADORA-GERAL DO ESTADO
 
 ## Conferência e limites
 
-A primeira página contém a ementa e o início da fundamentação; a segunda conclui o texto. A terceira página contém somente autenticação eletrônica e foi omitida.
+A primeira página contém a ementa e o início da fundamentação; a segunda conclui o texto. A terceira página contém somente autenticação eletrônica e rodapé, e foi omitida.
 
 Foram normalizados espaços e quebras de composição, mantendo grafias, numeração, citações, marcadores e limites das páginas. Elementos gráficos de cabeçalho, rodapés repetidos, blocos de assinatura eletrônica, URLs de validação, códigos verificadores, CRC, QR codes e códigos de barras foram omitidos. Nomes e funções públicas do fecho foram preservados. Documentos citados não receberam identificadores próprios.
 
