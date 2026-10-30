@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.082 registros únicos de 172 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.126 registros únicos de 175 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -15,6 +15,8 @@ A consulta encontrou 42 enunciados numerados (1–42) e 27 recomendações (1–
 Os 42 enunciados e as 27 recomendações foram registrados em séries próprias do FONEF/AJUFE. O FONEF é o Fórum Nacional de Execução Fiscal promovido pela AJUFE, distinto do [Fórum Nacional de Juízes de Execução Fiscal do CNJ](https://www.cnj.jus.br/agendas/i-jornada-do-forum-nacional-de-juizes-de-execucao-fiscal/) e dos enunciados da I Jornada em 22/08/2025, do FONAJEF e de órgãos hospedeiros ou destinatários como CJF, CNJ e TRFs. A notícia do TRF1 não altera a autoria dos itens. As quantidades descrevem as listagens consultadas; não demonstram exaustividade, vigência atual ou força vinculante. Nenhum bloco de proposta legislativa separado foi convertido em identificador.
 
 Sobre a main `702755c402b835aa3bd493bd80c486e0a6863678` (42.013 registros em 171 órgãos), o lote acrescenta 69 registros e um órgão: total de 42.082 registros em 172 órgãos. Permanecem os 176 registros FONAJUS, 137 do JFRJ, 186 FOREJEF, 430 do TRF04, 36 FONAREF e os 19 identificadores FONAREF explícitos já incorporados. As nove lacunas iniciais do BNP permanecem.
+
+Sobre o `main` `5c7e878ecdf17035c60a5e9d2fb9cc19e4f93040` (42.099 registros em 174 órgãos no README da origem), este PR acrescenta 27 IDs ANATEL e um órgão, elevando o total editorial a 42.126 registros em 175 órgãos. O total deriva da contagem publicada na origem mais os IDs únicos deste lote; a recontagem integral sob o wrapper de recursos não terminou durante esta coleta. Os dados e ressalvas dos lotes anteriores foram preservados.
 
 ## FONAJEF
 
@@ -128,6 +130,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
 | [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
+| [ANATEL — Súmulas do Conselho Diretor](https://informacoes.anatel.gov.br/legislacao/sumulas) | 27 localizados pelo leitor; total da série não confirmado | 27 | 0 |
 | [CMRI — Súmulas dos catálogos de vigentes e revogados](https://www.gov.br/casacivil/pt-br/assuntos/colegiados/comissao-mista-de-reavaliacao-de-informacoes-cmri/normativos-vigentes) | 8 | 8 | 0 |
 | [CNIC — Enunciados de súmula administrativa](https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/sumulas-da-comissao-nacional-de-incentivo-a-cultura) | 33 | 33 | 0 |
 | [CADE — Súmulas históricas do catálogo](https://www.gov.br/cade/pt-br/acesso-a-informacao/normas-e-legislacao/sumulas) | 6 | 6 | 0 |
@@ -359,6 +362,16 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [TCEPE — Enunciados de Prejulgados](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/enunciados-prejulgados) | 77 | 77 | 0 |
 | [TCEPE — Teses de Uniformização de Jurisprudência](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/teses-uniformizacao) | 3 | 3 | 0 |
 | [TCE-RJ — Súmulas, fichas e acórdãos das propostas](https://www.tcerj.tc.br/cadastro-publicacoes/public/sumulas) | 28 | 28 | 0 |
+
+## ANATEL — súmulas do Conselho Diretor
+
+O [portal oficial da Anatel](https://www.gov.br/anatel/pt-br/legislacao) liga ao [catálogo de súmulas](https://informacoes.anatel.gov.br/legislacao/sumulas). A página institucional define, em termos gerais, as súmulas da Agência como interpretações da legislação setorial com efeito vinculativo. Essa formulação é atribuída à instituição e não determina a vigência atual de cada súmula.
+
+O leitor web consultado exibiu 26 resultados na busca `SumulaVigente`, entre eles a nº 25 identificada no título como “REVOGADA”; uma busca separada exibiu a nº 10 com a tag `SumulaRevogada`. A paginação indexada mostrou textos para os números 1–19 e 21–28. Não localizei uma página integral identificada como nº 20 nesta coleta. Esses resultados sustentam os 27 registros incorporados, sem provar que o catálogo completo tenha 27 itens, que o nº 20 tenha existido ou que não haja outra página ou série.
+
+As 27 fichas preservam o texto integral retornado nas páginas oficiais de cada ato, seus preâmbulos, notas de publicação, referências e fechos disponíveis. A Súmula nº 19 mantém a redação original e a retificação de 2021 no mesmo identificador. Na nº 25, o título e a nota de revogação pelo Acórdão nº 113/2025 coexistem com a tag `SumulaVigente`; ambas as informações estão atribuídas à fonte. A nº 10 aponta a Resolução nº 748/2021 como revogadora. O corpo da Resolução nº 748 e o corpo do Acórdão nº 113 não foram confirmados durante esta coleta, e não foram criados registros para eles nem para as leis, resoluções, processos ou atos apenas citados.
+
+**Proveniência de acesso:** a abertura do catálogo pelo leitor web redirecionou para uma página de manutenção. As páginas dos atos foram recuperadas como texto renderizado pelo leitor web a partir de resultados oficiais indexados; essa camada não forneceu status HTTP, bytes ou HTML bruto para salvar ou hashear. A tentativa HTTP única anterior permanece no recibo privado com erro 403. Não se atribuem códigos 200, duas leituras HTTP independentes, hashes de HTML bruto ou cobertura completa. A página oficial do [Repositório de Jurisprudência](https://www.gov.br/anatel/pt-br/centrais-de-conteudo/jurisprudencia) informa que o sistema de biblioteca digital da Agência também pesquisa Acórdãos, Análises, Votos e Súmulas; ele não substituiu os atos integrais usados aqui.
 
 Identificadores encontrados em duas fontes contam uma vez. Quando uma fonte direta traz texto ou situação diferentes do BNP, as informações aparecem separadas no próprio Markdown do precedente, com atribuição da origem.
 
@@ -1076,6 +1089,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
 | [ANAC](tribunais/ANAC/) | 3 | ANAC — Súmulas administrativas, fichas e atos de aprovação |
+| [ANATEL](tribunais/ANATEL/) | 27 | Anatel — textos integrais localizados no catálogo; nº 20 sem página integral confirmada nesta coleta |
 | [CMRI](tribunais/CMRI/) | 8 | CMRI — Nove PDFs oficiais, com histórico da nº 3 |
 | [CNIC](tribunais/CNIC/) | 33 | CNIC / Ministério da Cultura — Enunciados e notas do HTML oficial |
 | [CADE](tribunais/CADE/) | 6 | CADE — PDFs das súmulas históricas nºs 4 a 9 |
