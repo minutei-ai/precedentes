@@ -11,7 +11,7 @@
 
 ### Enunciado da VII Jornada, também reproduzido na compilação do CNJ
 
-> Em caso de necessidade de bloqueio de verbas públicas como medida coercitiva ao cumprimento da ordem judicial ou depósito judicial, poderá o(a) Magistrado(a) autorizar o ente demandado que operacionalize a compra do medicamento e determinar a dispensação ao paciente. REVISÃO DE ENUNCIADOS:
+> Em caso de necessidade de bloqueio de verbas públicas como medida coercitiva ao cumprimento da ordem judicial ou depósito judicial, poderá o(a) Magistrado(a) autorizar o ente demandado que operacionalize a compra do medicamento e determinar a dispensação ao paciente.
 
 Fontes: [VII Jornada, consolidação final, p. 7](https://www.cnj.jus.br/wp-content/uploads/2025/02/enunciados-vii-jornada-da-saude-consolidacao-votajud-v-6-5-25.pdf).
 

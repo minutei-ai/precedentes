@@ -18,7 +18,7 @@ Versão apresentada no PDF da VI Jornada.
 
 ### Redação apresentada na VII Jornada
 
-> "A internação compulsória exige a comprovação, por meio de laudo médico circunstanciado atualizado, que contenha os requisitos previstos na Resolução do CFM 2057/2013, ou norma superveniente, descrevendo a ineficácia dos recursos extra-hospitalares previamente utilizados. Pode o Judiciário, a qualquer tempo, solicitar a elaboração do Projeto Terapêutico Singular – PTS e demais documentos médicos necessários para o correto encaminhamento do paciente." (Redação dada na VII Jornada de Direito da Saúde - 25.04.2025) ENUNCIADOS REVOGADOS:
+> "A internação compulsória exige a comprovação, por meio de laudo médico circunstanciado atualizado, que contenha os requisitos previstos na Resolução do CFM 2057/2013, ou norma superveniente, descrevendo a ineficácia dos recursos extra-hospitalares previamente utilizados. Pode o Judiciário, a qualquer tempo, solicitar a elaboração do Projeto Terapêutico Singular – PTS e demais documentos médicos necessários para o correto encaminhamento do paciente." (Redação dada na VII Jornada de Direito da Saúde - 25.04.2025)
 
 Fontes: [VII Jornada, consolidação final, p. 10](https://www.cnj.jus.br/wp-content/uploads/2025/02/enunciados-vii-jornada-da-saude-consolidacao-votajud-v-6-5-25.pdf).
 

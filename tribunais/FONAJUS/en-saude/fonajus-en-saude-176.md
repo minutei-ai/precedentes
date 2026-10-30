@@ -11,7 +11,7 @@
 
 ### Enunciado reproduzido na fonte da VIII Jornada
 
-> Não há amparo legal à determinação judicial de internação compulsória ou involuntária em comunidades terapêuticas, uma vez que tais instituições não se caracterizam como unidades de saúde e admitem exclusivamente o acolhimento voluntário com assinatura de termo pelo usuário, em modalidade de residencialidade, nos termos da Lei nº 10.216/2001, da Lei nº 13.840/2019 (arts. 23-A e 26-A) e das diretrizes da Rede de Atenção Psicossocial – RAPS. (Aprovado na VIII Jornada da Saúde – 17.06.2026) REVISÕES DOS ENUNCIADOS APROVADAS
+> Não há amparo legal à determinação judicial de internação compulsória ou involuntária em comunidades terapêuticas, uma vez que tais instituições não se caracterizam como unidades de saúde e admitem exclusivamente o acolhimento voluntário com assinatura de termo pelo usuário, em modalidade de residencialidade, nos termos da Lei nº 10.216/2001, da Lei nº 13.840/2019 (arts. 23-A e 26-A) e das diretrizes da Rede de Atenção Psicossocial – RAPS. (Aprovado na VIII Jornada da Saúde – 17.06.2026)
 
 Fontes: [VIII Jornada, documento hospedado pelo TJAM, p. 7](https://www.tjam.jus.br/images/Comit%C3%AA_de_Sa%C3%BAde/ENUNCIADOS_NOVOS_e_Revis%C3%B5es_2026_aprovados_na_VIII_Jornada_17.6_2026.pdf).
 

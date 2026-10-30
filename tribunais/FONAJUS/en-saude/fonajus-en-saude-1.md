@@ -12,7 +12,7 @@
 
 > A tutela individual para internação de pacientes psiquiátricos ou em situação de drogadição ocorrerá pelo menor tempo possível, sob estrito critério médico. As decisões que imponham tal obrigação devem determinar que seus efeitos cessarão no momento da alta concedida pelo médico que atende o paciente na respectiva instituição de saúde, devendo o fato ser imediatamente comunicado pelo prestador do serviço ao Juízo competente. (Redação dada na III Jornada de Direito da Saúde - 18.03.2019)
 
-Fontes: [CNJ, compilação de 21/05/2025, p. 4](https://www.cnj.jus.br/wp-content/uploads/2025/05/enunciados-sobre-direito-da-saude-v1-2025-05-21.pdf).
+Fontes: [CNJ, compilação de 21/05/2025, p. 5](https://www.cnj.jus.br/wp-content/uploads/2025/05/enunciados-sobre-direito-da-saude-v1-2025-05-21.pdf).
 
 ## Limites
 

@@ -10,7 +10,7 @@
 
 ### Enunciado da VI Jornada, também reproduzido na compilação do CNJ
 
-> As alterações decorrentes da Lei n. 14.454/22, que incluiu o §13º ao art. 10 da Lei n. 9.656/98 e previu a cobertura excepcional não constante do Rol de Procedimentos e Eventos da ANS, não se aplicam às hipóteses elencadas no art. 10, inc. VI, da Lei n. 9.656/98, o qual exclui da saúde suplementar o fornecimento de medicamentos de uso domiciliar, ressalvada a previsão contratual. ENUNCIADOS COM A REDAÇÃO ALTERADA E REVOGADO NA VI JORNADA DE DIREITO DA SAÚDE
+> As alterações decorrentes da Lei n. 14.454/22, que incluiu o §13º ao art. 10 da Lei n. 9.656/98 e previu a cobertura excepcional não constante do Rol de Procedimentos e Eventos da ANS, não se aplicam às hipóteses elencadas no art. 10, inc. VI, da Lei n. 9.656/98, o qual exclui da saúde suplementar o fornecimento de medicamentos de uso domiciliar, ressalvada a previsão contratual.
 
 Fontes: [VI Jornada, publicação oficial, p. 2](https://www.cnj.jus.br/wp-content/uploads/2023/04/enunciados-aprovados-vi-jornada-saude.pdf).
 

@@ -17,7 +17,7 @@ Todas as páginas dos quatro PDFs foram comparadas visualmente com as imagens fo
 
 ### Limites das fontes consultadas
 
-A reprodução do [MPPR](https://site.mppr.mp.br/saude/Pagina/Enunciados-Fonajus-CNJ) foi usada apenas para versões históricas divergentes, sempre identificada como reprodução. No HTML preservado, o texto visível salta os números 5 e 100; isso descreve a captura da reprodução e não demonstra ausência dos enunciados. Ambos aparecem na compilação oficial do CNJ de 2025. A reprodução não foi usada para definir a sequência nem para substituir texto primário. Na compilação oficial, a imagem da p. 23 numera o item 100, embora o cabeçalho traga a grafia “ENUNCIANDO Nº 100”; o número explícito foi mantido sem corrigir o rótulo.
+A reprodução do [MPPR](https://site.mppr.mp.br/saude/Pagina/Enunciados-Fonajus-CNJ) foi consultada para cotejo, mas nenhum texto ou identidade depende dela. As versões históricas foram atribuídas às publicações oficiais indicadas em cada ficha, sem duplicar IDs. No HTML preservado, o texto visível salta os números 5 e 100; isso descreve a captura da reprodução e não demonstra ausência dos enunciados. Ambos aparecem na compilação oficial do CNJ de 2025. A reprodução não foi usada para definir a sequência nem para substituir texto primário. Na compilação oficial, a imagem da p. 23 numera o item 100, embora o cabeçalho traga a grafia “ENUNCIANDO Nº 100”; o número explícito foi mantido sem corrigir o rótulo.
 
 Os realces amarelos nos enunciados 12, 109, 155 e 175 foram observados sem inferir seu significado. Erros, grafias e notas impressas foram mantidos, inclusive “red14e conveniada”, “juizo”, “caso concreto..”, o fecho de aspas, o registro de votos do nº 56 e as referências impressas.
 
