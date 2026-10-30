@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.068 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.211 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -33,6 +33,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CJF — I Jornada de Direito da Seguridade Social](https://www.cjf.jus.br/enunciados/) | 53 | 53 | 0 |
 | [CJF — I Jornada de Direito Desportivo](https://www.cjf.jus.br/enunciados/) | 40 | 40 | 0 |
 | [CJF — I Jornada de Prevenção e Solução Extrajudicial de Litígios](https://www.cjf.jus.br/enunciados/) | 87 | 87 | 0 |
+| [CJF — II Jornada de Prevenção e Solução Extrajudicial de Litígios](https://www.cjf.jus.br/enunciados/) | 143 | 143 | 0 |
 | [FONAJE — Enunciados Cíveis](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-civeis/) | 177 no índice; 178 blocos HTML | 178 | 0 |
 | [FONAJE — Enunciados Criminais](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-criminais/) | 133 | 133 | 0 |
 | [FONAJE — Enunciados da Fazenda Pública](https://www.cnj.jus.br/programas-e-acoes/juizados-especiais/enunciados-fonaje/enunciados-da-fazenda-publica/) | 17 | 17 | 0 |
@@ -997,7 +998,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 1.590 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/IV/V/VI/VII Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 1.733 | Consulta de Enunciados — I/II Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/IV/V/VI/VII Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2230,3 +2231,10 @@ Delta sobre `9a7872e5`: 133 registros e nenhum órgão, total esperado de 39.776
 As páginas físicas 54–55, impressas 53–54, foram conferidas na imagem e na camada textual do PDF oficial. A nº 326 atravessa as duas páginas; 327 e 328 estão inteiras na física 55. O título “2.1 PROPOSIÇÕES LEGISLATIVAS” delimita sua espécie. Os três textos foram preservados no README de en-civil-iv, sem criar IDs de precedentes ou inferir alterações legais vigentes. Duas capturas do PDF têm 537.291 bytes e SHA-256 `4f3e3b9f00041659d0a70a7bade6fe94a9b4518bee5fc04201eb05ad7ee5b85f`. Não se declara leitura das demais páginas. Sem OCR.
 
 Delta do lote HTML sobre `2ed3aae9` (39.946 registros, 164 órgãos, CJF 1.468): 122 registros e nenhum órgão, total esperado de 40.068 registros em 164 órgãos e CJF 1.590. O complemento das três proposições tem delta zero. Apenas Markdown público; capturas e derivados privados.
+
+
+## CJF — II Jornada de Prevenção e Solução Extrajudicial de Litígios
+
+143 enunciados, números oficiais 88–230 (rótulos exibidos nas fichas: 088–0230), da pesquisa oficial do [CJF](https://www.cjf.jus.br/enunciados/) filtrada por `jornada.id=281`. As duas pesquisas em par listam os mesmos títulos, URLs e corpos; os 143 cartões coincidem com o inventário consultado. As 286 capturas das fichas retornaram HTTP 200, com bytes e SHA-256 verificados nos registros e ledger privado. Campos dos pares, corpos e metadados coincidem; as 143 justificativas foram transcritas sob o rótulo da fonte. A redação anterior está vazia em todas as fichas; isso não confirma vigência. Nenhuma ficha apresentou aviso de ausência de corpo. Nenhum PDF, ata ou documento citado foi lido. Sem inferir efeito vinculante, exaustividade ou titularidade atual; normas, julgados e órgãos citados não receberam IDs. Capturas, ledger e scripts privados; somente Markdown público.
+
+Delta sobre a main `6e844c2f` (40.068 registros em 164 órgãos; CJF 1.590): 143 registros e nenhum órgão novo, totalizando 40.211 registros em 164 órgãos e CJF 1.733. A I Jornada Extrajudicial (87) já está integrada e permanece separada. As VIII (126) e IX (127) Jornadas de Direito Civil continuam abertas na fonte de trabalho e não entram neste lote.

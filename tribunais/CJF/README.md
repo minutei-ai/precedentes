@@ -1,8 +1,8 @@
 # CJF
 
-Conselho da Justiça Federal. **1.590 registros.**
+Conselho da Justiça Federal. **1.733 registros.**
 
-Enunciados científicos de jornadas publicados no sistema oficial do CJF, com identidade por jornada. Não se confundem com súmulas/temas da TNU, enunciados do FONAJEF, atos do CNJ, da ENFAM ou decisões judiciais do STJ. O catálogo pode reunir outras jornadas, ainda pendentes de integração.
+Enunciados científicos de jornadas publicados no sistema oficial do CJF, com identidade por jornada. As séries Extrajudiciais I e II são separadas e conservam a numeração de cada jornada. Não se confundem com súmulas/temas da TNU, enunciados do FONAJEF, atos do CNJ, da ENFAM ou decisões judiciais do STJ. O catálogo pode reunir outras jornadas, ainda pendentes de integração.
 
 | Série | Registros |
 | --- | ---: |
@@ -15,6 +15,7 @@ Enunciados científicos de jornadas publicados no sistema oficial do CJF, com id
 | [I Jornada de Direito da Seguridade Social](en-seguridade-i/) | 53 |
 | [I Jornada de Direito Desportivo](en-desportivo-i/) | 40 |
 | [I Jornada de Prevenção e Solução Extrajudicial de Litígios](en-extrajudicial-i/) | 87 |
+| [II Jornada de Prevenção e Solução Extrajudicial de Litígios](en-extrajudicial-ii/) | 143 |
 | [I Jornada de Direito Administrativo](en-administrativo-i/) | 40 |
 | [I Jornada de Direito Comercial](en-comercial-i/) | 57 |
 | [II Jornada de Direito Comercial](en-comercial-ii/) | 24 |
