@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.450 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.480 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -307,6 +307,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [STM — Catálogo de súmulas, PDFs e textos oficiais](https://dspace.stm.jus.br/handle/123456789/247) | 18 | 18 | 0 |
 | [TRF3 — Catálogo de súmulas e documentos XML oficiais](https://www.trf3.jus.br/diretoria-geral/biblioteca/setor-de-apoio-a-jurisprudencia/sumulas-do-trf3) | 42 | 0 | 42 |
 | [TRF da 4ª Região — Súmulas e referências do catálogo oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=sumulas_trf4) | 136 | 136 | 0 |
+| [TRF4 — I Jornada Intrainstitucional de Direito Previdenciário, caderno final](https://www.trf4.jus.br/s7aFM) | 30 | 30 | 0 |
 | [TCESP — Repertório de súmulas, histórico e fundamento](https://www.tce.sp.gov.br/boletim-de-jurisprudencia/sumulas) | 52 | 52 | 0 |
 | [TCEMG — Enunciados de súmula e PDFs individuais oficiais](https://www.tce.mg.gov.br/Noticia/Detalhe/67) | 127 | 127 | 0 |
 | [TCESC — Enunciados de Consulta no sistema oficial de pesquisa](https://www.tcesc.tc.br/enunciados-de-consulta) | 2.569 | 2.569 | 0 |
@@ -934,7 +935,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF01](tribunais/TRF01/) | 209 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 86 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
-| [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
+| [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
 | [TRF06](tribunais/TRF06/) | 92 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
@@ -1116,6 +1117,10 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
 MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+
+## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
+
+A [notícia oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=pagina_visualizar&acao_origem=pagina_alterar&id_pagina=5395) e o [caderno final de enunciados aprovados](https://www.trf4.jus.br/s7aFM) tratam do evento realizado em 1º e 2 de setembro de 2025. A notícia informa a aprovação plenária de 30 enunciados, cada um com pelo menos 2/3 de votos favoráveis, e atribui a eles caráter doutrinário e força persuasiva técnico-jurídica, sem confundi-los com a posição do Tribunal. A série própria do evento foi separada de CJF, TNU, FONAJEF e súmulas do TRF4. O caderno final tem 31 páginas; o enunciado 10 não está acompanhado de justificativa, ausência preservada. Não se inferiu alteração, situação atual ou vinculação. Referências citadas não receberam IDs. As capturas HTTP 200 e SHA-256 estão registradas no índice da série; arquivos não-MD permanecem privados.
 
 ## Conferência e limites
 
