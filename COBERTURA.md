@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.708 registros únicos de 184 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.713 registros únicos de 184 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -219,6 +219,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [MPAC — Enunciados do CSMP, documentos 7 a 16](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 10 | 10 | 0 |
 | [MPRS — Encontro Estadual da Infância e Juventude de 2005, Anexo Único da Resolução 05/2007](https://www.mprs.mp.br/legislacao/resolucoes/3670/) | 62 | 62 | 0 |
 | [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
+| [MPSC/GEDCLIMA — Compilado de enunciados aprovados, 2025](https://www.mpsc.mp.br/documents/d/guest/compilacao-de-enunciados-aprovados-gedclima-mpsc) | 5 | 5 | 0 |
 | [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
@@ -1244,7 +1245,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
 | [MPGO](tribunais/MPGO/) | 84 | MPGO — 15 súmulas CSMP, 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias |
-| [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
+| [MPSC](tribunais/MPSC/) | 25 | MPSC — 17 enunciados CRC, 3 FRBL e 5 GEDCLIMA, em séries próprias |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
@@ -2742,7 +2743,7 @@ Sobre a main `669cf364adfa339c027e39d49f16e421781fba7c`, 42.563 registros em 181
 
 ## PGE/GO — 27 despachos referenciais de 2021
 
-Sobre a main `f290c179ca418b4c8e545d28ecb50588474c95fa`, com 42.681 registros em 184 órgãos e PGEGO 102 (22 súmulas e 80 despachos, já com os 38 despachos de 2020), o delta é **+27 registros e +0 órgãos**: total de **42.708 registros em 184 órgãos**, com PGEGO 129 (22 súmulas e 107 despachos). É soma focada do delta, sem nova auditoria global. O lote de 2020 e as quinze súmulas do CSMP/MPGO já integradas permanecem, assim como as nove lacunas textuais originais do BNP. O índice da série passa a 107 despachos e 755 páginas físicas. Seis linhas do catálogo, um acórdão do TCE e cinco pareceres de outros emissores, continuam fora da série.
+Sobre a main `b233a5785529177d22e8cdcdd34df6be5163fc16`, com 42.686 registros em 184 órgãos e PGEGO 102 (22 súmulas e 80 despachos, já com os 38 despachos de 2020 e os cinco registros GEDCLIMA/MPSC), o delta é **+27 registros e +0 órgãos**: total de **42.713 registros em 184 órgãos**, com PGEGO 129 (22 súmulas e 107 despachos). É soma focada do delta, sem nova auditoria global. O lote de 2020 e as quinze súmulas do CSMP/MPGO já integradas permanecem, assim como as nove lacunas textuais originais do BNP. O índice da série passa a 107 despachos e 755 páginas físicas. Seis linhas do catálogo, um acórdão do TCE e cinco pareceres de outros emissores, continuam fora da série.
 
 As 29 linhas de 2021 do catálogo hospedado pela CGE/GO correspondem a 27 PDFs distintos. A PGE/GO é a emissora. O rótulo 1668 liga o despacho 1674; o rótulo 1399 liga o despacho 1290. Sem documento próprio, 1668 e 1399 não receberam IDs. As 205 páginas físicas foram lidas visualmente, com apoio das camadas textuais em 26 PDFs; a transcrição do despacho 1290 é manual, sem OCR. As páginas 13–24 do PDF 1290 contêm o Parecer PROCSET nº 591/2021: foram lidas, mas não transcritas neste lote. Conhecimento e aprovação parciais, ressalvas e acréscimos do despacho permanecem literais.
 
@@ -2753,3 +2754,11 @@ Os 27 pares de capturas têm HTTP 200, bytes e SHA-256 coincidentes; os recibos 
 Quinze registros, números 1–15, lidos no contêiner jurídico do [catálogo oficial](https://www.mpgo.mp.br/portal/atos_normas/1217), em duas capturas HTTP 200 de 30/10/2026, com 91.783 bytes cada. O texto normalizado coincide; os HTMLs completos têm hashes diferentes, registrados no [índice da série](tribunais/MPGO/sum-csmp/README.md). Os riscos nos corpos 7, 8, 9, 12 e 15 e as notas de revogação fora deles foram preservados. Não foram inferidos anos para 1–8, vigência atual, efeito vinculante ou completude. Grafias como “afixaçãodo” e “não verifica-se” permanecem.
 
 Não houve PDF ou OCR. Normas, resolução, diários e atas apenas citados ou vinculados não foram lidos nem receberam IDs. Esta série é do CSMP, separada dos emissores CEP e SPGJ/AJ. Sobre a main `8aeec6055f858256b9205c0c90b597138680ade2`, que já integra os 38 despachos referenciais de 2020 da PGE/GO (PGEGO 102), as vinte súmulas da ANCINE, as sete da ANP, as 27 da ANATEL e a consulta da Anvisa sem identificador, o delta é +15 registros e nenhum órgão: 42.666 → 42.681 registros, 184 órgãos; MPGO 69 → 84. O PR #170, ainda aberto, não entra na soma. Não foi repetida a auditoria global. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; evidências privadas e cobertura parcial.
+
+## MPSC — enunciados do GEDCLIMA
+
+Cinco enunciados 01–05/2024 do Grupo Especial de Defesa dos Direitos Relacionados a Desastres Socioambientais e Mudanças Climáticas, em série própria sob MPSC, acompanhados das manifestações do compilado de 2025 e do Anexo I sem ID adicional. O emissor é o GEDCLIMA; não se atribuem os textos indistintamente a seus integrantes, ao MPF, ao MPRS ou ao Conselho Superior. A [página institucional](https://www.mpsc.mp.br/gedclima) liga o [PDF](https://www.mpsc.mp.br/documents/d/guest/compilacao-de-enunciados-aprovados-gedclima-mpsc).
+
+As duas capturas do PDF responderam HTTP 200, com 773.537 bytes e SHA-256 `dac352d47e7eb34c27d9a261ccfcf50cc6cf45c48cf9c2229a969291312b9181`. As 27 páginas físicas foram lidas visualmente; a camada textual foi apoio, sem OCR. Capa na página 1; 01 nas páginas 2–9 e anexo nas 9–16; 02 nas 17–19; 03 nas 20–22; 04 nas 23–25; 05 nas 26–27. O quadro nas páginas 5–6 e o anexo preservam a disposição textual das colunas. Notas e grafias literais permanecem, inclusive a readequação do nº 01 em 07/04/2025 e a referência `12.608/20124` na manifestação do nº 04. A redação anterior do nº 01 não foi recuperada. Diários, atas, estudos, atos e precedentes apenas citados não foram lidos autonomamente nem receberam IDs.
+
+Não se infere vigência atual, força vinculante, completude ou atualidade jurídica e estatística. Sem CPF, RG, matrícula pessoal ou autenticação publicados. As evidências são privadas e o delta público contém somente Markdown. Sobre a main `f290c179ca418b4c8e545d28ecb50588474c95fa`, com 42.681 registros em 184 órgãos, o delta é +5/+0: total esperado 42.686/184, MPSC 25. MPGO 84, PGEGO 102, ANCINE 20 e ANP 7 permanecem. Os PRs 170 e 176, ainda abertos, ficam fora da conta. As nove lacunas iniciais do BNP permanecem. Verificação focada de textos, IDs, links e diff; sem nova auditoria global.
