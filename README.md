@@ -2,7 +2,7 @@
 
 Súmulas, temas, consultas, orientações e manifestações de fontes oficiais. Um arquivo Markdown por registro.
 
-**42.940 registros esperados · 187 órgãos · cobertura parcial**
+**42.962 registros esperados · 187 órgãos · cobertura parcial**
 
 Integração candidata local, não publicada. Há lotes com revisão independente pendente; o total é projetado por delta e ainda não passou pelo inventário global desta candidata.
 
