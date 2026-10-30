@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.881 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.021 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [STJ — 1º Congresso da Segunda Instância, PDF final](tribunais/STJ/en-congresso-segunda-i/) | 131 blocos (130 enunciados e 1 proposta legislativa) | 130 | 0 |
 | [CJF — IX Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CJF — X Jornada de Direito Civil](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 58 | 58 | 0 |
 
@@ -80,6 +81,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
+| [MPBA — Súmulas do Conselho Superior](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas) | 10 | 10 | 0 |
 | [MPCE — Súmulas do Conselho Superior](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/) | 34 | 34 | 0 |
 | [MPPI — Súmulas do Conselho Superior](https://www.mppi.mp.br/internet/conselho-superior/sumulas/) | 12 | 12 | 0 |
 | [MPPI — Enunciados do Conselho Superior](https://www.mppi.mp.br/internet/conselho-superior/enunciados/) | 4 | 4 | 0 |
@@ -186,6 +188,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
 | [STJ — Enunciados científicos do 1º Congresso da Primeira Instância](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 257 | 257 | 0 |
+| [STJ — Enunciados científicos do 2º Congresso da Primeira Instância](tribunais/STJ/en-congresso-primeira-ii/) | 148 | 148 | 0 |
 | [STJ — Enunciados Científicos, 2º Congresso da Segunda Instância Federal e Estadual](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 126 | 126 | 0 |
 | [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
 | [TJCE — Súmulas, edição de 2025](https://portal.tjce.jus.br/uploads/2025/09/SUMULAS-2025.pdf) | 72 | 72 | 0 |
@@ -906,7 +909,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | BNP coletado | Inventário BNP |
 | --- | ---: | ---: | ---: |
 | [STF](tribunais/STF/) | 7.490 | 7.490 | 7.490 |
-| [STJ](tribunais/STJ/) | 3.575 | 3.016 | 3.016 |
+| [STJ](tribunais/STJ/) | 3.705 | 3.016 | 3.016 |
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
@@ -1006,6 +1009,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
 | [CJF](tribunais/CJF/) | 1.872 | Consulta de Enunciados — I e II Jornadas de Prevenção e Solução Extrajudicial, Notarial e Registral, Direito e Processo Penal, Patrimônio Cultural e Natural, Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, Jornadas I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX/X Civil, Processual Civil I/II/III/IV, Crises Ambientais I e Seguridade Social I |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
+| [MPBA](tribunais/MPBA/) | 10 | MPBA — Súmulas do Conselho Superior no catálogo HTML oficial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
 | [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
@@ -1090,7 +1094,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## Conferência e limites
 
@@ -2270,6 +2274,14 @@ Sobre a main `88ccc153` (40.476 registros em 164 órgãos; STJ 3.170), a série 
 
 Os IDs seguem a ordem das 257 ocorrências; os números exibidos foram preservados nos registros. A fonte repete 227 e passa de 236 a 238. As seções de propostas pré-aprovadas são blocos de propostas de enunciado, não propostas legislativas. A série identifica conteúdo documental de evento, não julgados do STJ, súmulas ou precedentes vinculantes; normas e julgados citados não receberam IDs. A redação do registro segue o catálogo SCON mesmo onde o PDF final diverge; as variantes e a associação das duas ocorrências 227 estão descritas no [índice da série](tribunais/STJ/en-congresso-primeira-i/README.md). Não se inferiu vigência nem efeito jurídico.
 
+## STJ — 1º Congresso da Segunda Instância, PDF final
+
+130 enunciados, IDs `stj-en-congresso-segunda-i-1` a `-130`, e o item 131 documental no [README da série](tribunais/STJ/en-congresso-segunda-i/). O PDF oficial final contém 131 páginas, todas lidas visualmente com apoio da camada textual, sem OCR. Duas capturas HTTP 200 coincidem: 581.974 bytes, SHA-256 `a340b2a11f0161191490c4ed837217384b6de7afbb2cb1cfa306a4914c59df72`. A página do evento distingue o caderno de propostas prévias, que não foi usado como aprovado.
+
+Sessões, proponentes, corpos e votação preservados. 078 e 093 trazem aprovação por aclamação. 107 conserva “Enunciado 259.” dentro da proposta. O item 131 propõe alteração da pena do art. 241-B do ECA; foi preservado em documento comum sem criar ID interpretativo nem afirmar alteração da lei. Cabeçalhos e brasões repetidos omitidos; brancos normalizados, itálicos reduzidos a texto e quatro hífens lexicais de quebra reunidos. Sem inferência de vigência, vinculação, exaustividade ou titularidade atual. Atos citados não geraram IDs. Evidências privadas, somente Markdown público.
+
+Delta sobre a main `e391491c` (40.733 registros em 164 órgãos; STJ 3.427 e CJF 1.872): 130 registros e nenhum órgão, total esperado de 40.863 registros em 164 órgãos e STJ 3.557. Os 257 enunciados do Congresso STJ da Primeira Instância e os 126 do 2º Congresso da Segunda Instância já estão na base e não são contados novamente. As nove lacunas iniciais do BNP permanecem.
+
 ## CJF — X Jornada de Direito Civil
 
 A seção X Jornada de Direito Civil da [coleção Enunciados Científicos hospedada pelo STJ](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) apresenta os números 694–751, sem lacunas nessa sequência: 58 enunciados do CJF, organizados em cinco grupos. O CJF é o emissor; o STJ hospeda a coleção. Esses itens não são julgados do STJ. O texto e os grupos foram conferidos na listagem oficial pelo leitor web e comparados com duas transcrições privadas devolvidas pelo mesmo leitor. As transcrições são derivados textuais, não HTML bruto, PDF, capturas HTTP ou respostas independentes. Os respectivos SHA-256 identificam somente os arquivos derivados; tentativas diretas de captura registraram HTTP 403.
@@ -2284,11 +2296,19 @@ A base `bea91c4bbe613e16960cb99cc7b31ac6acd501ac` já inclui a II Jornada Extraj
 
 Delta sobre a main `dd9c6058` (40.149 registros em 164 órgãos; CJF 1.671): 143 registros e nenhum órgão novo, totalizando 40.292 registros em 164 órgãos e CJF 1.814. A I Jornada Extrajudicial (87) permanece em série separada. As VIII (32) e IX (49) Jornadas de Direito Civil já integradas na main não fazem parte deste lote.
 
+## MPBA — dez súmulas do Conselho Superior
+
+Sobre a main `ff59cc17` (40.863 registros, 164 órgãos), entram dez registros e um órgão: 40.873 registros em 165 órgãos. Os números 001–010, textos, aprovações e referências foram lidos integralmente no [catálogo oficial](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas), em duas capturas HTTP 200 idênticas de 80.012 bytes, SHA-256 `e142e8f12e7851ef0a05e2a26ede627c7596ffc96cdd0798b9ea3232f81a9795`. As nºs 001 e 009 conservam o rótulo de cancelamento e o risco; na nº 001, o ponto final permanece fora do risco. A nº 002 conserva a nota de revisão pela nº 008 e o texto sem risco. Ausência de nota nas demais não significa vigência.
+
+A grafia “inciativa” na nº 005, “parágrafo I” na nº 002 e a construção “ao Conselho Superior à apreciação” na nº 010 permanecem. Espaços, quebras, negrito e sublinhado de título foram normalizados; risco e itálico foram preservados. Não houve PDF ou OCR neste lote. Tentativas de obter o diário de 02/04/2025 expiraram sem arquivo; a biblioteca Sophia retornou página de validação, sem corpo jurídico. Esses acessos não fundamentam transcrição nem ausência. Resoluções de aprovação, diários, atos de revisão e cancelamento, processos e outras séries continuam pendentes. Não se inferiu vigência ou efeito vinculante. As nove lacunas iniciais do BNP permanecem; somente Markdown foi publicado.
+
 
 ## STJ — 2º Congresso da Primeira Instância Federal e Estadual
 
-Sobre a main `e391491c6634cfa15e84254898b660aa3893ca51` (40.733 registros em 164 órgãos; STJ 3.427), esta série acrescenta 148 enunciados científicos do evento, totalizando 40.881 registros em 164 órgãos e 3.575 do STJ. Os textos foram lidos diretamente no bloco do [catálogo oficial do STJ](https://scon.stj.jus.br/SCON/ec/listaEC.jsp), linhas 8633–9139 do leitor web consultado em 29/10/2026; o texto é derivado do leitor, sem alegação de HTML bruto, hash de HTML ou capturas HTTP independentes.
+A série acrescenta 148 enunciados científicos numerados de 1 a 148, conforme o bloco do [catálogo oficial do STJ](https://scon.stj.jus.br/SCON/ec/listaEC.jsp), linhas 8633–9139 do leitor consultado em 29/10/2026. O texto é derivado da leitura do catálogo; não há alegação de HTML bruto, hash de HTML ou capturas HTTP independentes. A linha 9140 inicia o 2º Congresso da Segunda Instância.
 
-A notícia oficial de 17/06/2026 informa 149 aprovados (31 + 111 + 7), enquanto a página do [evento](https://www.stj.jus.br/sites/portalp/Paginas/Institucional/Educacao-e-cultura/Eventos/2-Congresso-STJ-da-Primeira-Instancia-Federal-e-Estadual.aspx) ainda diz que os aprovados serão disponibilizados em breve e não liga PDF final. O catálogo apresenta 148 números (1–148), seguido pelo 2º Congresso da Segunda Instância a partir da linha 9140. A divergência não foi conciliada; nenhum nº 149 foi criado. O caderno de propostas admitidas é pré-evento e não serviu como fonte de texto aprovado.
+A notícia oficial de 17/06/2026 anuncia 149 enunciados aprovados (31 + 111 + 7). A página oficial do evento ainda diz que os aprovados serão disponibilizados em breve e não liga documento final. O catálogo consultado lista 148 textos. A diferença permanece sem conciliação: nenhum nº 149 foi criado, e a ausência de um texto no catálogo não é tratada como prova de inexistência. O caderno de propostas admitidas é pré-evento e não foi usado como fonte de texto aprovado.
 
-Os registros preservam a numeração e os cabeçalhos do catálogo, incluindo proponentes onde publicados. O bloco não identifica proposições legislativas em espécie separada. São registros de enunciados de evento, não decisões do STJ ou precedentes vinculantes; não se infere vigência, efeito vinculante ou completude. Normas e casos citados não receberam IDs. Apenas Markdown foi publicado.
+Os registros preservam os números, cabeçalhos, notas e continuações publicados. O bloco não separa proposições legislativas; normas e casos citados não receberam IDs. Nomes de proponentes e funções públicas foram mantidos, sem dados pessoais restritos. São registros documentais de enunciados de evento, não decisões do STJ ou precedentes vinculantes; não se infere vigência, efeito vinculante ou completude. Apenas Markdown foi publicado.
+
+A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. Após conciliação com essa base, o total esperado é 41.021 registros em 165 órgãos, STJ 3.705.
