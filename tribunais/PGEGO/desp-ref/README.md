@@ -1,10 +1,21 @@
 # PGEGO — Despachos referenciais
 
-Vinte e três documentos da Procuradoria-Geral do Estado de Goiás, publicados no [catálogo de Entendimentos e orientações da CGE/GO](https://goias.gov.br/controladoria/entendimentos-e-orientacoes/). A PGE/GO é a emissora; a CGE/GO é a hospedeira. Esta série permanece separada das 22 súmulas administrativas já incorporadas.
+Vinte e sete documentos da Procuradoria-Geral do Estado de Goiás, publicados no [catálogo de Entendimentos e orientações da CGE/GO](https://goias.gov.br/controladoria/entendimentos-e-orientacoes/). A PGE/GO é a emissora; a CGE/GO é a hospedeira. Esta série permanece separada das 22 súmulas administrativas já incorporadas.
 
-O catálogo contém 115 linhas documentais não vazias: 109 despachos atribuídos a PGE ou PGE/GO, um acórdão do TCE e cinco pareceres de outros emissores. A série reúne 14 despachos rotulados em 2023 (111 páginas), dois em 2024 (16 páginas) e sete em 2025–2026 (59 páginas), totalizando 23 documentos e 186 páginas físicas. As outras 92 linhas não foram incorporadas nem declaradas lidas. Rótulos distintos que apontam ao mesmo PDF em 2021 continuam pendentes de identidade.
+O catálogo contém 115 linhas documentais não vazias: 109 despachos atribuídos a PGE ou PGE/GO, um acórdão do TCE e cinco pareceres de outros emissores. A série reúne quatro despachos de 2019 (16 páginas), 14 rotulados em 2023 (111 páginas), dois em 2024 (16 páginas) e sete em 2025–2026 (59 páginas), totalizando 27 documentos e 202 páginas físicas. As outras 88 linhas não foram incorporadas nem declaradas lidas. Rótulos distintos que apontam ao mesmo PDF em 2021 continuam pendentes de identidade.
 
 As duas capturas HTML são idênticas: HTTP 200, 297215 bytes, SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF foi capturado duas vezes com bytes e SHA-256 coincidentes. Capturas em 30/10/2026 (UTC); os derivados permanecem privados.
+
+## Despachos referenciais de 2019
+
+| Despacho | Páginas lidas | Bytes por captura | SHA-256 do PDF |
+| --- | ---: | ---: | --- |
+| [1697/2019/GAB](pgego-desp-ref-1697-2019.md) | 6 | 503850 | `22ea1b098b6909e7c6950e34071af834a6a8465569a0583f59f9b88631641841` |
+| [1398/2019/GAB](pgego-desp-ref-1398-2019.md) | 3 | 344987 | `3f3349ca96a45cfb54058847c90bb50a9cf323e582e85b830fbe6f21a996aeab` |
+| [1270/2019/GAB](pgego-desp-ref-1270-2019.md) | 4 | 432716 | `832fa0e95512ae0fd6161169a5945615bbb1b23ce1067065be7e0405920ae361` |
+| [1211/2019/GAB](pgego-desp-ref-1211-2019.md) | 3 | 325036 | `7062abb2006518eb1d514f4e51df0557d453bc4509e7409d593b3255ba1b631a` |
+
+As 16 páginas foram lidas visualmente; 14 contêm texto jurídico e duas apenas autenticação ou rodapé. A camada textual serviu de apoio e não houve OCR. O nº 1697 teve avisos de sintaxe durante a renderização, mas suas seis imagens foram conferidas visualmente. Identificações cobertas no PDF do nº 1697 não foram recuperadas; o nome impresso sem tarja no parágrafo 24 foi conservado. Os despachos citados não receberam IDs. As outras três linhas anteriores a 2020 são pareceres atribuídos pelo catálogo a emissores distintos e não integram esta série PGE/GO.
 
 ## Rótulos de 2023
 
