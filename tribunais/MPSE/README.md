@@ -1,9 +1,12 @@
 # MPSE
 
-Ministério Público do Estado de Sergipe. **36 registros.**
+Ministério Público do Estado de Sergipe. **54 registros nesta integração local.**
 
 | Série | Registros |
 | --- | ---: |
 | [Assentos do Conselho Superior](ass-csmp/) | 36 |
+| [Súmulas de entendimento criminais](sum-criminais/) | 18 |
 
-Órgão próprio, distinto do TJSE, do TCESE e dos Ministérios Públicos de outros estados. Os registros transcrevem o quadro publicado no DOFe nº 2163, de 10/04/2025, com variantes e anotações atribuídas à edição. A listagem pública de assentos, com 35 linhas, foi percorrida, e as páginas jurídicas dessas linhas foram lidas. A nova redação de 16/10/2026 e o diário de 25/03/2021 ficam no mesmo 024/2021. O número impresso 11/2010 permanece no 011/2011, e o número impresso 12/2015 permanece no 012/2012. A página 2 vazia da listagem não esgota o órgão. Outras séries continuam pendentes. Não se infere vigência, vinculação ou completude.
+Órgão próprio, distinto do TJSE, do TCESE e dos Ministérios Públicos de outros estados. Os assentos são atribuídos ao CSMP; as súmulas, às Procuradorias de Justiça com Atribuições Criminais, sem confusão com CPJ ou Procuradorias Cíveis. Edições e variantes permanecem nos respectivos registros. Não se infere vigência, vinculação ou completude. Esta branch candidata não declara publicação ou revisão independente concluída de todos os lotes.
+
+Os assentos também conservam as publicações individuais e a nova redação de 16/10/2026 no mesmo 024/2021. O catálogo de 35 linhas não esgota o órgão; o complemento documental permanece pendente de revisão independente.

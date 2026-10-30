@@ -92,7 +92,7 @@ LUCIANA GOMES FERREIRA DE ANDRADE
 
 PRESIDENTE
 
-* Republicada com alteração
+\* Republicada com alteração
 
 ## Documento: DIMPES 3709, de 01/06/2022, ata da 12ª sessão
 

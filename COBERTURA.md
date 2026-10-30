@@ -1,6 +1,12 @@
 # Cobertura
 
-**42.761 registros únicos de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.801 registros esperados de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+
+## Integração local dos lotes revisados — não publicada
+
+Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, com 42.715 registros em 185 órgãos, esta branch acrescenta **86 registros e dois órgãos**: 32 identidades do MPES (5 súmulas COPJ, 24 súmulas CSMP e 3 enunciados CSMP) e 54 do MPSE (36 assentos CSMP e 18 súmulas criminais). Total esperado: **42.801 registros em 187 órgãos**. As revisões documentais dos lotes e complementos foram concluídas. Os textos coincidem com a candidata ampla já revisada nos diretórios MPES e MPSE. O inventário global desta branch será conferido separadamente. Revisão documental não é aprovação formal no GitHub nem resultado de CI.
+
+Forecrim, JFRN e TRUs continuam nas branches próprias e na candidata ampla, fora deste delta. Nenhum PR foi criado para esta integração local nem houve merge remoto do PR #177. As nove lacunas textuais iniciais do BNP permanecem. Relatos antigos abaixo conservam as bases históricas dos lotes, sem nova soma.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -12,7 +18,11 @@ Foram incorporadas 36 identidades do [Quadro de Assentos do Conselho Superior do
 
 As seis páginas físicas do quadro foram lidas visualmente, com a camada textual como apoio, sem OCR. Os riscos, avisos de revogação, redações anteriores, aspas abertas e divergências internas foram preservados. Negrito e sublinhado não foram reproduzidos sistematicamente. As continuações do 009/2010, do 024/2021 e do 031/2025 foram reunidas sem incluir o cabeçalho repetido. A complementação percorreu a [listagem pública](https://sistemas.mpse.mp.br/modernizacaoportalbe/api/documentos/listagem?pagina=1&tamanho=60&tipoDocumentoId=6): duas capturas HTTP 200, 29.858 bytes, SHA-256 `764c3cf0b16b62645353bcff0b853754e14b1df51315759a8fc525d13d36b265`, `total` 35; a página 2 veio vazia. Cada uma das 35 linhas foi baixada duas vezes pela rota `/arquivo`, com pares coincidentes. Foram lidas visualmente as páginas jurídicas das 35 linhas, com a camada textual como apoio e sem OCR. A nova redação do 024/2021 no Diário n. 2511, de 16/10/2026, é o documento 107879, 120.519 bytes, SHA-256 `265f06a553a07f54208083c2de4f2848704bc0b730829cb41bc04669a10cd11e`. O diário de 25/03/2021, documento 72497, fica no mesmo 024/2021; o rodapé dele e o do 72496 imprimem “01.2021”. O 7164 imprime “11/2010” e permanece no 011/2011. O 42411 imprime “12/2015” e permanece no 012/2012. O 96972 repetiu o SHA-256 do quadro já lido e não foi relido. O 14916 é Word e foi lido depois de convertido para uma página. O 41775 tem uma página. Descrições do JSON não substituíram a página. A [proveniência da série](tribunais/MPSE/ass-csmp/) registra cada leitura. O PDF de 2025 não é declarado última edição. A lista de 35 linhas não esgota o MPSE. Outras séries e atos citados seguem pendentes, sem inferência de vigência, vinculação ou exaustividade.
 
-Esta integração local reúne os 10 registros MPES revisados do PR #177 e os 36 assentos MPSE revisados. Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, 42.715 registros em 185 órgãos, o delta conjunto é +46 registros e +2 órgãos: total esperado **42.761 registros em 187 órgãos**. MPCSC 2, MPSC 25, MPGO 84 e PGEGO 129 foram preservados. O PR #177 continua aberto no GitHub; esta conciliação local não declara merge remoto. Os demais lotes MPES/MPSE e TRF05 ainda não integrados ficam fora da soma. A validação documental é focada nos dois lotes; o inventário de IDs é conferido separadamente. As nove lacunas textuais iniciais do BNP permanecem. Capturas e derivados ficam privados, apenas Markdown público.
+## MPSE — súmulas de entendimento criminais
+
+Entram 18 identidades próprias das Procuradorias de Justiça com Atribuições Criminais do MPSE. O catálogo contém onze arquivos: 01 contém 01-A–01-C, 05 contém 05-A–05-C e 10 contém 10-A–10-D; os demais números têm um corpo cada. Os agrupamentos não receberam IDs adicionais. Não se confundem com assentos do CSMP, súmulas do CPJ ou das Procuradorias Cíveis, nem com o TJSE.
+
+Os onze PDFs individuais, de uma página cada, e as onze páginas da ata de 06/04/2022 foram lidos visualmente, sem OCR. As duas respostas primárias da API criminal coincidem em seus onze itens e campos. Os riscos dos nºs 04, 07 e 09, o carimbo “(ATUALIZADA)” e a data 06.04.2022 nos PDFs 06 e 08, a aprovação de 19/03/2025 nos PDFs 10 e 11 e as variantes entre catálogo, PDF e ata foram preservados. O nº 09 aparece sem risco na ata de 2022 e riscado no PDF individual atual; o ato e a data de seu cancelamento não foram inferidos. A [proveniência da série](tribunais/MPSE/sum-criminais/) discrimina os pares HTTP 200, bytes, SHA-256, campos e limites. Normas e julgados citados não geraram IDs; não se inferem vigência, vinculação ou exaustividade.
 
 ## MPCSC — enunciados
 
@@ -178,6 +188,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [MPSE — Assentos do CSMP](tribunais/MPSE/ass-csmp/) | 36 | 36 | 0 |
+| [MPSE — Súmulas criminais](https://www.mpse.mp.br/index.php/transparenciampse/institucional/entendimento-criminais/) | 18 | 18 | 0 |
 | [MPCSC — Enunciados](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) | 2 | 2 | 0 |
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
@@ -1271,7 +1282,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPES](tribunais/MPES/) | 32 | MPES — 5 súmulas COPJ, 24 súmulas CSMP e 3 enunciados CSMP, com variantes e atos de alteração nos mesmos IDs |
 | [MPSC](tribunais/MPSC/) | 25 | MPSC — 17 enunciados CRC, 3 FRBL e 5 GEDCLIMA, em séries próprias |
 | [MPCSC](tribunais/MPCSC/) | 2 | MPCSC — dois enunciados próprios, distintos do MPSC e do TCESC |
-| [MPSE](tribunais/MPSE/) | 36 | MPSE — assentos do CSMP no quadro de 10/04/2025; 35 linhas lidas; nova redação de 16/10/2026 no mesmo 024/2021; 11/2010 e 12/2015 mantidos nos IDs já usados |
+| [MPSE](tribunais/MPSE/) | 54 | MPSE — 36 assentos CSMP, com catálogo e redação de 2026 nos mesmos IDs, e 18 súmulas criminais |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |

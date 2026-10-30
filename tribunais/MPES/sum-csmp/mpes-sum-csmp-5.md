@@ -69,7 +69,7 @@ ELDA MÁRCIA MORAES SPEDO
 
 Presidente em exercício
 
-* republicado com correção.
+\* republicado com correção.
 
 Protocolo 501775
 

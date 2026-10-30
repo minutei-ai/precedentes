@@ -2,7 +2,9 @@
 
 Súmulas, temas, consultas, orientações e manifestações de fontes oficiais. Um arquivo Markdown por registro.
 
-**42.761 registros · 187 órgãos · cobertura parcial**
+**42.801 registros esperados · 187 órgãos · cobertura parcial**
+
+Integração local dos lotes MPES e MPSE documentalmente revisados, ainda não publicada. Delta de 86 registros e dois órgãos sobre a main `a421b646`. O inventário global desta branch está pendente; não há resultado de CI ou aprovação formal inferidos da revisão.
 
 - [Explorar por órgão](tribunais/)
 - [Fontes, cobertura e pendências](COBERTURA.md)
