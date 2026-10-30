@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.377 registros únicos de 180 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.418 registros únicos de 181 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -54,6 +54,7 @@ Campos tarjados nos nºs 573, 779 e 1470 não foram recuperados; o CPF parcial d
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
 | [PGE/GO — sete despachos referenciais de 2025–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 7 documentos / 59 páginas | 7 | 0 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
@@ -2597,3 +2598,15 @@ Após a integração do PROCON/ES, a main `57ecfb614094e165ad1fdbcbb0dbd7d409702
 A notícia oficial do TRF1 informa que mais de 70 magistrados participaram da Jornada; o prefácio do Caderno descreve cerca de 70. Ambos se referem à participação, enquanto o Caderno final contém 50 enunciados numerados de 1 a 50. O TRF1 hospeda o PDF em seu portal; a ficha catalográfica atribui a publicação ao Tribunal Regional Federal da 1ª Região e à Esmaf. Os enunciados foram extraídos e as páginas físicas 11–14 foram revisadas visualmente no PDF oficial, recebido em duas capturas HTTP 200 idênticas em 30/10/2026 (7.879.142 bytes cada; SHA-256 `81293b077497b9575992998401868ca7a74c80f3c31b76a2cf589569c0a861e3`). Prefácio, posfácio, programação e fotos não receberam IDs; nenhuma votação individual, adoção pelo TRF1, vigência ou efeito vinculante foi inferida.
 
 Sobre a main atual `b2d2498de81e7fed3d4602fae964ae3806a69590` (42.320 registros em 180 órgãos; TRF01 209), este delta acrescenta 50 enunciados e nenhum órgão: **42.370 registros em 180 órgãos; TRF01 259**. Os 38 enunciados da I Jornada de Justiça Climática e os 171 registros anteriores do TRF01 foram preservados; as duas Jornadas permanecem em séries próprias. As nove lacunas iniciais do BNP permanecem. A primeira Jornada dos JEFs não integra este delta: a notícia atual liga ao livro animado oficial, mas não expõe o PDF que também menciona; o número final de enunciados e os textos do caderno não foram inferidos de notícia, flipbook ou citação. Somente Markdown público; PDF, imagens, recibos, extração e capturas permanecem privados.
+
+## CGE/CE — enunciados próprios, edição de 2015
+
+A [página oficial do catálogo legado](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) lista “Livro Enunciados CGE 2015” e aponta para o [PDF oficial](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/doc_download/1393-livro-enunciados-cge-2015). O catálogo e o PDF tiveram duas capturas HTTP 200 cada, com conteúdo idêntico por par. O PDF tem 872.417 bytes e SHA-256 `4e19d8aa761a25433566b8daf974d86df56fec2f32656c1385f2f2118e42fc69`; o catálogo capturado tem 64.244 bytes e SHA-256 `397b8c5bcbff505034db036add370b5f6017982dce98571edd7108bc74eefed8`. Recibos e arquivos permanecem privados.
+
+O `pdfinfo` confirma 48 páginas físicas no arquivo, enquanto a ficha catalográfica interna declara “52 p.”. A divergência foi preservada. O índice situa os enunciados próprios nas páginas impressas 8–24: no PDF, a página física 7 ainda contém a continuação do índice; a página física/impressa 8 inicia o Enunciado 1, e a página física/impressa 24 termina o Enunciado 41. As 17 páginas impressas 8–24 foram lidas visualmente; a camada de texto serviu de apoio e não foi necessário OCR. O catálogo identifica o livro e seu download, mas não esclarece a situação atual nem a completude da série.
+
+Foram incorporados os 41 enunciados próprios, em identidade estável `cgece-en-1` a `cgece-en-41`, com títulos, textos e referências da edição de setembro de 2015. A edição tem uma seção de anexos de AGU, TCU e STF; seus textos não foram atribuídos à CGE/CE, não receberam IDs e não foram retranscritos. Referências citadas nos enunciados também não viraram registros. A situação jurídica e a vigência atual não foram inferidas.
+
+A [página migrada do catálogo de enunciados](https://www.ce.gov.br/cge/enunciados-cge/) e o PDF da edição de 2020 indicado por ela permanecem pendentes de leitura e conciliação. A consulta ao leitor web retornou uma leitura textual de 90 páginas e, depois, respostas 502; as tentativas diretas falharam na validação de certificado TLS, sem repetição ou desativação da validação. Nenhum texto, variação de redação ou item de 2020 foi usado neste lote. As eventuais versões de 2020 e os novos enunciados continuam pendentes de fonte capturável, recibos e leitura visual.
+
+Sobre a main `b6f29218c3f0773060b809b127ea4f4bb6dd23cd` (42.377 identificadores em 180 órgãos), este delta soma 41 registros e um órgão. A enumeração dos arquivos com campo Identificador após a integração confirma 42.418 registros em 181 órgãos; o índice CGECE reúne 41. As nove lacunas iniciais do BNP permanecem. As contagens publicadas de CGU (27), PGEGO (29) e TRF01 (259) não foram alteradas. Esta é uma validação focada de identificação, links e privacidade do delta, não uma nova auditoria global de cobertura. Apenas Markdown foi adicionado ao repositório; PDFs, imagens, extrações e scripts permanecem privados.
