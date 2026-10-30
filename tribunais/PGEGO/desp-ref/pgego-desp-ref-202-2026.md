@@ -64,7 +64,7 @@ contraditório do servidor.
 
 8.1. Não se vislumbra, sob o prisma abstrato e apriorístico, violação à Lei Geral de Proteção de Dados Pessoais.
 
-8.2. Reitera-se a compreensão da Procuradoria Setorial (SEI n º 83066020) de que, embora as imagens constituam dados pessoais, o seu tratamento pelo Poder Público deve ser analisado à luz do art. 23 da Lei nacional nº 13.709, de 2018 (LGPD), que autoriza o uso de dados para a persecução do interesse público e para o exercício de competências legais. Tem-se, pois, que a atividade correcional se insere no núcleo dessas competências.
+8.2. Reitera-se a compreensão da Procuradoria Setorial (SEI nº 83066020) de que, embora as imagens constituam dados pessoais, o seu tratamento pelo Poder Público deve ser analisado à luz do art. 23 da Lei nacional nº 13.709, de 2018 (LGPD), que autoriza o uso de dados para a persecução do interesse público e para o exercício de competências legais. Tem-se, pois, que a atividade correcional se insere no núcleo dessas competências.
 
 8.3. Outrossim, incidem, de forma específica, as bases legais do cumprimento de obrigação legal e do exercício regular de direitos em processo administrativo (art. 7º, II e VI, da LGPD), notadamente diante do dever de apuração imposto pela Lei estadual nº 20.756, de 2020. Nessas hipóteses, dispensa-se o consentimento do titular do dado.
 
