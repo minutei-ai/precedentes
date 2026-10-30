@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.293 registros únicos de 179 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.343 registros únicos de 179 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -991,7 +991,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
-| [TRF01](tribunais/TRF01/) | 209 | 110 | 110 |
+| [TRF01](tribunais/TRF01/) | 259 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 409 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
@@ -2564,3 +2564,10 @@ Foram examinadas pessoalmente por `view_image` as 41 imagens prontas, páginas 1
 ### Conciliação do complemento FONAMEC
 
 Após a integração do PROCON/ES, a main `57ecfb614094e165ad1fdbcbb0dbd7d40970217d` tem 42.248 registros em 178 órgãos. Este complemento acrescenta 18 IDs ao FONAMEC, sem órgão novo: 42.266 registros em 178 órgãos. Os 27 enunciados PROCON/ES, 58 PGE/ES e 25 fiscais foram preservados. Os 39 IDs anteriores do FONAMEC recebem o texto do caderno como variante atribuída, sem nova identidade. A contagem anterior de 42.239/177 descreve a base de revisão anterior ao PROCON/ES. Não houve repetição da auditoria global; as nove lacunas iniciais do BNP permanecem.
+
+
+## TRF01 — I Jornada de Conciliação
+
+A notícia oficial do TRF1 informa que mais de 70 magistrados participaram da Jornada; o Caderno final contém 50 enunciados numerados de 1 a 50. Os enunciados foram extraídos e as páginas físicas 11–14 foram revisadas visualmente no PDF oficial, recebido em duas capturas HTTP 200 idênticas em 30/10/2026 (7.879.142 bytes; SHA-256 `81293b077497b9575992998401868ca7a74c80f3c31b76a2cf589569c0a861e3`). Prefácio, posfácio, programação e fotos não receberam IDs; nenhuma votação individual, adoção pelo TRF1, vigência ou efeito vinculante foi inferida.
+
+Sobre a main `d593317b7a4b024d3c7cce3bd82ab985f043cdea` (42.293 registros em 179 órgãos; TRF01 209), este delta acrescenta 50 enunciados e nenhum órgão: **42.343 registros em 179 órgãos; TRF01 259**. As séries existentes, inclusive os 38 enunciados da I Jornada de Justiça Climática, foram preservadas e permanecem separadas. A primeira Jornada dos JEFs não integra este delta: a notícia atual liga ao livro animado oficial, mas não expõe o PDF que também menciona; o número final de enunciados e os textos do caderno não foram inferidos de notícia ou citação.
