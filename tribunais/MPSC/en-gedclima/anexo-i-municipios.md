@@ -482,4 +482,3 @@ SC   Tijucas                  51.592    3.361   Inundação
  SC     Xaxim                           31.918             508
 Fonte: Secretaria Especial de Articulação e Monitoramento da Casa Civil da Presidência República (2023)
 ```
-
