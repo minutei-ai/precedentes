@@ -1,0 +1,26 @@
+# CJF · I Jornada da Justiça Federal pela Equidade Racial · Enunciado 12
+
+- **Órgão:** Conselho da Justiça Federal (CJF)
+- **Emissor:** I Jornada da Justiça Federal pela Equidade Racial
+- **Espécie:** Enunciado de jornada
+- **Número:** 12
+- **Identificador:** `cjf-en-equidade-racial-12`
+- **Jornada na ficha:** I Jornada da Justiça Federal pela Equidade Racial
+- **Coordenador-Geral indicado:** Ministro Luis Felipe Salomão
+- **Comissão de Trabalho:** Políticas Judiciárias
+- **Coordenador da Comissão de Trabalho indicado:** Ministro Herman Benjamin e Ministro Benedito Gonçalves
+- **Fonte:** [ficha oficial do CJF](https://www.cjf.jus.br/enunciados/enunciado/2392)
+- **Capturas:** duas respostas HTTP 200 em 29/10/2026, com campos jurídicos idênticos
+- **Bytes e SHA-256 dos HTMLs:** 8.771 bytes. SHA-256 `abc2bd98588f25b8c7b3f7be9284dd05de3dfad7a9ecdfe74d404c1294e7d050`; 8.771 bytes. SHA-256 `826928fd38eea5c2d0bcef0b2bc4fd634cb1f8b707d4bd8c2a1d3a3e1494ebb3`
+
+## Enunciado
+
+É necessária a criação de campos de preenchimento obrigatório no cadastramento de demandas que versem sobre temas étnico-raciais, como cotas, direitos de quilombolas, injúrias raciais, para que o Poder Judiciário possa, a partir desses dados, gerenciar o processamento e o julgamento desses processos, além de extrair relatórios estatísticos para acompanhamento adequado da efetividade de políticas judiciárias, de políticas públicas e de celeridade de tramitação.
+
+## Justificativa publicada
+
+Atualmente, não é possível identificar com segurança de dados, por exemplo, quantas ações judiciais em todo o Judiciário brasileiro tratam da temática territorial das populações quilombolas. Também não se sabe se há dificuldades de acesso ao sistema de justiça (como a falta de acesso ao Judiciário) ou se, quando há acesso, as ações estão tramitando de maneira eficiente - o que não significa, necessariamente, resultados favoráveis às populações, mas sim celeridade processual e duração razoável do processo. Além disso, não é possível obter dados segmentados sobre as ações individuais movidas por membros dessas populações em busca de direitos específicos. Em outras palavras, não há como saber o número de ações relacionadas, por exemplo, ao acesso a direitos básicos como saneamento, energia elétrica e previdência. Da mesma forma, é impossível identificar, claramente, os casos de violência doméstica e familiar contra mulheres de populações quilombolas e tradicionais devido à inexistência de registros sobre essa questão. Portanto, a falta de dados é o primeiro problema a ser resolvido para a construção de políticas judiciárias eficientes e efetivo cumprimento da, já existente, Meta 10 do CNJ (julgar, até 31/12/2024, 75% no STJ, 35% na Justiça Estadual e 20% na Justiça Federal, os processos relacionados aos direitos das comunidades quilombolas, distribuídos até 31/12/2023). Com efeito, os assuntos dos Sistemas de Gestão de Tabelas Processuais Unificadas (TPU) do CNJ (4) atualmente preveem apenas duas classificações dedicadas a quilombolas: - "Desapropriação para Regularização de Comunidade Quilombola/Dec. 4887/2003" (12031), incluído no item "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO" (9985) e subitem "Intervenção do Estado na Propriedade" (10120); - "Quilombolas" (12825), incluído no item "DIREITO À EDUCAÇÃO" (12775) e subitem "Educação Básica" (12793). Nesse sentido, é necessário incluir, nas tabelas processuais unificadas, um item com o assunto principal "quilombola" e subitens específicos sobre direitos quilombolas em cada um dos itens de assuntos principais (por exemplo, em "DIREITO À EDUCAÇÃO", "DIREITO À SAÚDE" etc.). A esse respeito, importante destacar também, a recém-aprovada Resolução CNJ n. 599, de 13 de dezembro de 2024, que institui a política de atenção às comunidades quilombolas e diretrizes e procedimentos para efetivar a garantia de acesso à justiça por pessoas e comunidades quilombolas. (Disponível em: https://atos.cnj.jus.br/atos/detalhar/5904. Acesso em: 15 jan. 2025). 4 CONSELHO NACIONAL DE JUSTIÇA (CNJ). Sistemas de Gestão de Tabelas Processuais Unificadas. Disponível em: https://www.cnj.jus.br/sgt/consulta_publica_assuntos.php. Acesso em: 23 set. 2024.
+
+## Conferência e limites
+
+Enunciado, justificativa e metadados transcritos dos campos HTML da ficha oficial, conferidos nos dois arquivos retidos. A sequência 1–49 foi também conciliada com a pesquisa pública do CJF para esta jornada. Espaços e quebras de linha foram normalizados; tags de apresentação foram reduzidas a texto, sem inserir espaços ausentes na fronteira de tags inline. Grafias, referências, aspas, marcadores e URLs citadas foram mantidos como publicados, inclusive espaços internos de endereços quando presentes. A justificativa permanece separada do enunciado, sem atualização legislativa ou estatística. Não há redação no campo de texto revogado desta captura; essa ausência não foi interpretada como vigência atual. A fonte não informa nesta ficha data individual de aprovação. Não se inferiu efeito vinculante ou exaustividade das jornadas. O conteúdo eventualmente espelhado por outro órgão não gera outro registro. Normas, decisões e obras apenas citadas não receberam IDs. Sem PDF nem OCR neste lote.
