@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.149 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.207 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -19,6 +19,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [CJF — IX Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
+| [CJF — X Jornada de Direito Civil](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 58 | 58 | 0 |
 
 | [CJF — VIII Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 32 | 32 | 0 |
 | [CJF — VI Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 46 | 46 | 0 |
@@ -2259,3 +2260,12 @@ As matérias de saúde, proteção de dados e direitos digitais foram reproduzid
 Delta sobre `6e844c2f` (40.068 registros em 164 órgãos; CJF 1.590): 49 registros e nenhum órgão novo, totalizando 40.117 registros em 164 órgãos e CJF 1.671. A VIII Jornada Civil permanece em PR separado, fora desta conta. FONAJE 328, as 80 transcrições históricas MPAL sem IDs novos e as nove lacunas originais do BNP permanecem.
 
 Delta do lote HTML sobre `2ed3aae9` (39.946 registros, 164 órgãos, CJF 1.468): 122 registros e nenhum órgão, total esperado de 40.068 registros em 164 órgãos e CJF 1.590. O complemento das três proposições tem delta zero. Apenas Markdown público; capturas e derivados privados.
+
+
+## CJF — X Jornada de Direito Civil
+
+A seção X Jornada de Direito Civil da [coleção Enunciados Científicos hospedada pelo STJ](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) apresenta os números 694–751, sem lacunas nessa sequência: 58 enunciados do CJF, organizados em cinco grupos. O CJF é o emissor; o STJ hospeda a coleção. Esses itens não são julgados do STJ. O texto e os grupos foram conferidos na listagem oficial pelo leitor web e comparados com duas transcrições privadas devolvidas pelo mesmo leitor. As transcrições são derivados textuais, não HTML bruto, PDF, capturas HTTP ou respostas independentes. Os respectivos SHA-256 identificam somente os arquivos derivados; tentativas diretas de captura registraram HTTP 403.
+
+Foram preservadas as notas de revogação que integram os enunciados 696 e 697 e as continuações dos nºs 735, 738, 740, 741, 743 e 750. Este último aparece com o número na linha 7305 e o corpo na 7306 da leitura da listagem. A seção consultada não apresenta nº 752, o que não permite concluir que inexista fora dela. Não se inferem vigência, efeito vinculante ou exaustividade; campos não publicados, como justificativas, coordenadores e datas, não foram criados.
+
+A base remota `dd9c605877318d055a01d54a06cbc284181fd180` continha 40.149 registros em 164 órgãos, com 1.671 registros do CJF. Este lote acrescenta 58 registros sem novo órgão: total esperado de 40.207 registros em 164 órgãos, com 1.729 registros do CJF. A II Jornada Extrajudicial permanece fora deste delta.
