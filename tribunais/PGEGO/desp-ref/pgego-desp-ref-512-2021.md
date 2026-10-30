@@ -32,7 +32,7 @@ EMENTA: DIREITO PROCESSUAL PENAL E ADMINISTRATIVO. MEDIDA CAUTELAR DE SUSPENSÃO
 
 5\. De acordo com o magistrado, ancorado na doutrina de Renato Brasileiro, a suspensão do exercício de profissão ou ofício é compatível com os valores sociais do trabalho e da livre iniciativa, haja vista a necessidade de proteger outros bens constitucionalmente tutelados.
 
-6\. Diante da omissão do Código de Processo Penal quanto às consequências da medida cautelar sobre o pagamento da remuneração do investigado, emerge apropriado o raciocínio jurídico desenvolvido pela Procuradoria Setorial ao buscar respostas na força normativa dos princípios cons tucionais do devido processo legal e da presunção de não culpabilidade.
+6\. Diante da omissão do Código de Processo Penal quanto às consequências da medida cautelar sobre o pagamento da remuneração do investigado, emerge apropriado o raciocínio jurídico desenvolvido pela Procuradoria Setorial ao buscar respostas na força normativa dos princípios constitucionais do devido processo legal e da presunção de não culpabilidade.
 
 7\. De fato, em se tratando de medida cautelar, calcada apenas em indícios de autoria e provas de materialidade do crime, decretada na fase de investigação, ou seja, antes do contraditório pleno, não é possível impor ao servidor a suspensão da sua remuneração, pois equivaleria a antecipação dos efeitos da pena acessória de perda do cargo público (art. 92, I, do Código Penal).
 
