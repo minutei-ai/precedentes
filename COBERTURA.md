@@ -1,10 +1,20 @@
 # Cobertura
 
-**42.239 registros únicos de 177 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.266 registros únicos de 178 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## PROCONES — Jornadas Capixabas de Defesa do Consumidor
+
+Foram incorporados 27 enunciados publicados na página oficial do PROCON/ES: 14 da 1ª Jornada e 13 da 2ª Jornada, em séries numeradas separadamente. O cabeçalho identifica o Instituto Estadual de Proteção e Defesa do Consumidor, vinculado à Secretaria de Estado da Justiça, e informa parceria com a Comissão de Defesa do Consumidor da OAB/ES. Os textos são atribuídos ao PROCON/ES, sem IDs duplicados para a OAB/ES. O PROCON/ES é distinto do PROCON/PB, da PGEES, do TJES, do TCEES e do CNJ.
+
+A página do catálogo e cada PDF foram capturados duas vezes com HTTP 200 e bytes idênticos por par em 30/10/2026. O catálogo tem 257.508 bytes e SHA-256 `d9c52b7d8447201b4923b7a38c19610cd3178237d91e362329e4d7c37be536e7`. Os PDFs da 1ª e da 2ª Jornadas têm, respectivamente, duas páginas, 300.305 bytes e SHA-256 `14e10ed33db3abc85d44805349c055f33bd161cfecf5f3667031dad5466c76f3`, e duas páginas, 160.574 bytes e SHA-256 `8f7b489859e1bc070aa91f3347bea2e7b2c3ffb32b64b9d9c52c0437eec0733c`. As quatro páginas foram lidas nas imagens renderizadas e na camada textual. Na série I, o enunciado 8 termina na página 1 e o 9 começa na página 2; na série II, o 8 termina na página 1 e o 9 começa na página 2. Foram preservadas, entre outras particularidades, “reinicio”, “induz o consumidor e erro”, a vírgula no enunciado II-2, “c.c” no II-5 e “prevalece/prevalecerá à norma” nos II-12 e II-13. Espaços e quebras foram normalizados.
+
+O catálogo aponta atualização em 07/10/2019 para a 1ª Jornada e em 14/04/2025 para a 2ª; essas datas não são datas de aprovação. A fonte não esclarece completude, aprovação individual, vigência atual ou força vinculante. Normas e julgados apenas citados não geraram IDs e não foram atualizados. Cabeçalhos repetidos e contatos foram omitidos. CPF, RG, matrícula pessoal, chaves CRC, URLs de autenticação e recibos não foram publicados; PDFs, capturas, imagens e derivados permanecem privados.
+
+Sobre a main `501bea97beb4dae12148267e866fa1a53984311e` (42.221 registros em 177 órgãos), este lote acrescenta 27 registros e um órgão: 42.248 registros em 178 órgãos. Os outros PRs abertos, inclusive os 18 registros do PR #157 do FONAMEC, não integram essa contagem. A cobertura permanece parcial.
 
 ## FONEF
 
@@ -33,6 +43,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
+| [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
 | [CRSFN — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/legislacao) | 6 | 6 | 0 |
 | [CRSNSP — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/legislacao/legislacao) | 6 | 6 | 0 |
@@ -2535,3 +2546,7 @@ Base: main `8e553a6bdc0e7c9fd4e1ae9bfeb5d0ae22cb3758`, com 42.124 registros e 17
 Sobre a main `501bea97beb4dae12148267e866fa1a53984311e`, com 42.221 registros em 177 órgãos, esta integração soma 18 IDs novos: 13 enunciados (4, 12, 13, 22, 25–27, 31, 35 e 49–52) e cinco recomendações em série própria. Os 39 IDs existentes permanecem com variantes atribuídas pelo número coincidente e pela identificação expressa da edição I–XIX como relação atualizada que integra os textos referendados no Anexo V. O delta não altera os 25 registros da I Jornada dos Juízes de Execução Fiscal nem os 58 registros da PGE/ES já incorporados à main. Total esperado: 42.239 registros em 177 órgãos. Nenhum órgão novo; FONAMEC passa de 39 para 57 IDs. A contagem global não foi repetida; o total é reconciliado pelo delta declarado de 18 IDs. As nove lacunas do BNP permanecem.
 
 Foram examinadas pessoalmente por `view_image` as 41 imagens prontas, páginas 1–41, incluindo trechos continuados entre páginas. A URL pública do PDF respondeu HTTP 200 em duas capturas privadas de 5.427.790 bytes, ambas com SHA-256 `1251317480df451d73deebc8a4293b183707b900e6491f877644e75cdcbf49d8`. O texto auxiliar e os metadados do PDF foram usados como apoio para a transcrição; não houve nova extração, renderização, OCR ou navegação. O PDF tem 41 páginas. O caderno apresenta enunciados 1–52 e recomendações 1–5. Permanecem literais as notas de redação e revisão, inclusive a unificação do nº 4 ao nº 7, o sobrestamento do nº 27, o ajuste no nº 52 e a pendência de aprovação e posterior referendo do CNJ nos nºs 49–52. As menções a normas e outros enunciados não criaram IDs. A edição não foi tratada como prova de vigência, força vinculante ou completude. Somente Markdown público; PDF, imagens, recibos, extração e scripts permanecem privados.
+
+### Conciliação do complemento FONAMEC
+
+Após a integração do PROCON/ES, a main `57ecfb614094e165ad1fdbcbb0dbd7d40970217d` tem 42.248 registros em 178 órgãos. Este complemento acrescenta 18 IDs ao FONAMEC, sem órgão novo: 42.266 registros em 178 órgãos. Os 27 enunciados PROCON/ES, 58 PGE/ES e 25 fiscais foram preservados. Os 39 IDs anteriores do FONAMEC recebem o texto do caderno como variante atribuída, sem nova identidade. A contagem anterior de 42.239/177 descreve a base de revisão anterior ao PROCON/ES. Não houve repetição da auditoria global; as nove lacunas iniciais do BNP permanecem.
