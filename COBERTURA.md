@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.031 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.068 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -19,6 +19,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [CJF — VI Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 46 | 46 | 0 |
+| [CJF — VII Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 37 | 37 | 0 |
 | [CJF — V Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 133 | 133 | 0 |
 | [CJF — III Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 134 | 134 | 0 |
 | [CJF — I Jornada de Direito Notarial e Registral](https://www.cjf.jus.br/enunciados/) | 82 | 82 | 0 |
@@ -996,7 +997,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 1.553 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/IV/V/VI Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 1.590 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/IV/V/VI/VII Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2203,7 +2204,7 @@ A consulta `jornada.id=43` foi capturada duas vezes com 123 cartões iguais. As 
 
 As proposições legislativas 326–328 da coletânea foram conferidas nas imagens das páginas físicas 54–55 e transcritas como documentação no README da série, sem IDs adicionais. O complemento documental abaixo delimita a leitura.
 
-Delta efetivo sobre main `3d34c9b5`: 122 identidades e nenhum órgão, totalizando 40.031 registros em 164 órgãos e CJF 1.553. O registro nº 276 conta uma vez. FONAJE (328), as 80 transcrições históricas do MPAL sem IDs novos e as nove lacunas iniciais do BNP permanecem preservados. HTMLs, recibos e scripts privados; somente Markdown público.
+Delta efetivo sobre main `2ed3aae9`: 122 identidades e nenhum órgão, totalizando 40.068 registros em 164 órgãos e CJF 1.590. O registro nº 276 conta uma vez. FONAJE (328), as 80 transcrições históricas do MPAL sem IDs novos e as nove lacunas iniciais do BNP permanecem preservados. HTMLs, recibos e scripts privados; somente Markdown público.
 
 
 ## CJF — I Jornada de Prevenção e Solução Extrajudicial de Litígios
@@ -2228,4 +2229,4 @@ Delta sobre `9a7872e5`: 133 registros e nenhum órgão, total esperado de 39.776
 
 As páginas físicas 54–55, impressas 53–54, foram conferidas na imagem e na camada textual do PDF oficial. A nº 326 atravessa as duas páginas; 327 e 328 estão inteiras na física 55. O título “2.1 PROPOSIÇÕES LEGISLATIVAS” delimita sua espécie. Os três textos foram preservados no README de en-civil-iv, sem criar IDs de precedentes ou inferir alterações legais vigentes. Duas capturas do PDF têm 537.291 bytes e SHA-256 `4f3e3b9f00041659d0a70a7bade6fe94a9b4518bee5fc04201eb05ad7ee5b85f`. Não se declara leitura das demais páginas. Sem OCR.
 
-Delta do lote HTML sobre `3d34c9b5` (39.909 registros, 164 órgãos, CJF 1.431): 122 registros e nenhum órgão, total esperado de 40.031 registros em 164 órgãos e CJF 1.553. O complemento das três proposições tem delta zero. Apenas Markdown público; capturas e derivados privados.
+Delta do lote HTML sobre `2ed3aae9` (39.946 registros, 164 órgãos, CJF 1.468): 122 registros e nenhum órgão, total esperado de 40.068 registros em 164 órgãos e CJF 1.590. O complemento das três proposições tem delta zero. Apenas Markdown público; capturas e derivados privados.
