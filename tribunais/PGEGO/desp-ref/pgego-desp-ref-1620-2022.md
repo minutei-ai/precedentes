@@ -100,7 +100,7 @@ GABINETE DA PROCURADORA-GERAL DO ESTADO
 
 ## Leitura e limites
 
-A cópia usa literalmente o placeholder @nome_interessado_maiusculas@. Um exemplo de CPF parcialmente mascarado na página 3 foi omitido integralmente, inclusive os dígitos visíveis. Não foram reproduzidos dados pessoais ou o bloco eletrônico de autenticação.
+A cópia usa literalmente o placeholder @nome_interessado_maiusculas@. Os dois exemplos de CPF parcialmente mascarado, nas páginas 3 e 4, foram omitidos integralmente, inclusive os dígitos visíveis. Não foram reproduzidos dados pessoais ou o bloco eletrônico de autenticação.
 
 A transcrição conserva o conteúdo jurídico, as notas, os placeholders e as divergências visíveis. Quebras e espaçamento de composição foram normalizados; cada página física foi marcada. A camada textual foi tratada como apoio e cotejada com as imagens. Nome e função públicos do fecho foram mantidos. Foram omitidos CPF, RG e matrícula quando presentes, inclusive trechos parciais, além de blocos de autenticação, QR codes, códigos verificadores, CRC, URLs de validação, barras de identificação e rodapés operacionais. Tarjas da fonte não foram removidas nem interpretadas.
 

@@ -29,7 +29,7 @@ Cada um dos 15 PDFs teve duas capturas HTTP 200; bytes e SHA-256 coincidem por p
 | [169](pgego-desp-ref-169-2022.md) | 169/2022/GAB | 4 | 197686 | `69b713e7ed25ca5d20ec63a0562dddea8516f35aab90e5819b89ce7bb21092c5` |
 | [85](pgego-desp-ref-85-2022.md) | 85/2022/GAB | 5 | 274050 | `7425216b66ee6c7d205df4ada673ed719a5e435515d39291d82bef19ec81d7be` |
 
-As transcrições preservam ementas, continuações, notas, fechos, placeholders e datas distintas. Tarjas não foram recuperadas. CPF, RG e matrícula pessoais, inclusive trechos parciais, além de autenticação, QR, CRC, códigos verificadores e URLs de validação foram omitidos. A divergência da paginação impressa do nº 1984 (“1 de 3”, “2 de 5”, “3 de 5”) foi conservada sem inferir páginas ausentes; caracteres de substituição da camada textual nos nºs 1984 e 1888, assim como os “?” visíveis no nº 1824, foram preservados sem reconstrução por contexto. Não se infere vigência ou vinculação.
+As transcrições preservam ementas, continuações, notas, fechos, placeholders e datas distintas. Tarjas não foram recuperadas, ainda quando a camada textual as revela; no nº 1824 aparecem como “[identificação ocultada na fonte]”. CPF, RG e matrícula pessoais, inclusive trechos parciais, além de autenticação, QR, CRC, códigos verificadores, URLs de validação e o caminho local de impressão do nº 1824 foram omitidos. A paginação impressa do nº 1984 é “1 of 3”, “2 of 3” e “3 of 3”. Nos nºs 1984 e 1888, caracteres de substituição da camada textual foram corrigidos onde a imagem mostra a letra. Os “?” visíveis no nº 1824 foram mantidos. O nº 1888 conserva as grafias impressas “itens II e II” e “Goiás Previdências”. Não se infere vigência ou vinculação.
 
 ## Rótulos de 2023
 
