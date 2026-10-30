@@ -1,11 +1,12 @@
 # MPGO
 
-Ministério Público do Estado de Goiás. **69 registros.**
+Ministério Público do Estado de Goiás. **84 registros.**
 
-O acervo reúne três séries de emissores distintos: 13 enunciados da Comissão Especial de Promoção dos Servidores (CEP), 41 enunciados SUBJUR e 15 enunciados ANPP da Subprocuradoria-Geral de Justiça para Assuntos Jurídicos (SPGJ/AJ). A CEP permanece separada da SPGJ/AJ. O MPGO é órgão próprio, distinto do CSMP, do TJGO, do GNCCRIM, do CNMP e dos demais Ministérios Públicos. As fontes não confirmam vigência atual; a SPGJ/AJ declara que seus enunciados orientam de forma não vinculante. Demais atos, sessões, atas e outras séries do órgão continuam pendentes.
+O acervo reúne quatro séries de emissores distintos: 15 súmulas do Conselho Superior (CSMP), 13 enunciados da Comissão Especial de Promoção dos Servidores (CEP), 41 enunciados SUBJUR e 15 enunciados ANPP da Subprocuradoria-Geral de Justiça para Assuntos Jurídicos (SPGJ/AJ). A CEP permanece separada da SPGJ/AJ. O CSMP é emissor próprio dentro do MPGO, separado da CEP e da SPGJ/AJ. O MPGO é órgão próprio, distinto do TJGO, do GNCCRIM, do CNMP e dos demais Ministérios Públicos. As fontes não confirmam vigência atual; a SPGJ/AJ declara que seus enunciados orientam de forma não vinculante. Demais atos, sessões, atas e outras séries do órgão continuam pendentes.
 
 | Espécie | Registros |
 | --- | ---: |
+| [Súmulas do CSMP](sum-csmp/) | 15 |
 | [Enunciados da CEP](en-cep/) | 13 |
 | [Enunciados SUBJUR](en-subjur/) | 41 |
 | [Enunciados ANPP](en-anpp/) | 15 |
