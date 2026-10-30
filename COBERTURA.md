@@ -1,10 +1,14 @@
 # Cobertura
 
-**42.715 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.780 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## TRF02 — súmulas próprias da TRU
+
+O [catálogo oficial](https://trf2.jus.br/trf2/artigo/pres/sumulas) publica 65 posições, números 1–65. Duas capturas HTML HTTP 200 idênticas sustentam o cotejo dos títulos, corpos e notas. A nº 25 contém somente aviso de cancelamento; o corpo histórico permanece pendente, separado das nove lacunas iniciais do BNP. Textos e avisos de 10, 26 e 46 e redações distintas de 55/64 foram preservados sem inferir vigência ou revogação adicional. [Índice e recibos](tribunais/TRF02/sum-tru/). Delta +65/0 sobre `a421b646`: total esperado 42.780/185, TRF02 619, sem contagem global.
 
 ## MPCSC — enunciados
 
@@ -1141,7 +1145,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 259 | 110 | 110 |
-| [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
+| [TRF02](tribunais/TRF02/) | 619 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
