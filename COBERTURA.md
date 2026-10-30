@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.418 registros únicos de 181 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.563 registros únicos de 181 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -1019,7 +1019,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 259 | 110 | 110 |
-| [TRF02](tribunais/TRF02/) | 409 | 24 | 24 |
+| [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
@@ -2609,4 +2609,15 @@ Foram incorporados os 41 enunciados próprios, em identidade estável `cgece-en-
 
 A [página migrada do catálogo de enunciados](https://www.ce.gov.br/cge/enunciados-cge/) e o PDF da edição de 2020 indicado por ela permanecem pendentes de leitura e conciliação. A consulta ao leitor web retornou uma leitura textual de 90 páginas e, depois, respostas 502; as tentativas diretas falharam na validação de certificado TLS, sem repetição ou desativação da validação. Nenhum texto, variação de redação ou item de 2020 foi usado neste lote. As eventuais versões de 2020 e os novos enunciados continuam pendentes de fonte capturável, recibos e leitura visual.
 
-Sobre a main `b6f29218c3f0773060b809b127ea4f4bb6dd23cd` (42.377 identificadores em 180 órgãos), este delta soma 41 registros e um órgão. A enumeração dos arquivos com campo Identificador após a integração confirma 42.418 registros em 181 órgãos; o índice CGECE reúne 41. As nove lacunas iniciais do BNP permanecem. As contagens publicadas de CGU (27), PGEGO (29) e TRF01 (259) não foram alteradas. Esta é uma validação focada de identificação, links e privacidade do delta, não uma nova auditoria global de cobertura. Apenas Markdown foi adicionado ao repositório; PDFs, imagens, extrações e scripts permanecem privados.
+Sobre a main `de613610fd1b405a830a0848a32fb9cd6f481475` (42.522 registros em 180 órgãos), este delta soma 41 registros e um órgão. A projeção após a conciliação é de 42.563 registros em 181 órgãos, sem nova auditoria global nesta revisão; o índice CGECE reúne 41. As nove lacunas iniciais do BNP permanecem. As contagens publicadas de CGU (27), PGEGO (29) e TRF01 (259) não foram alteradas. Esta é uma validação focada de identificação, links e privacidade do delta, não uma nova auditoria global de cobertura. Apenas Markdown foi adicionado ao repositório; PDFs, imagens, extrações e scripts permanecem privados.
+
+## TRF02 — Jornadas de Direitos Humanos e Fundamentais da Justiça Federal da 2ª Região
+
+A integração acrescenta 145 registros em duas séries: 60 enunciados aprovados na I Jornada (2024; sete grupos temáticos) e 85 na II Jornada (2025; seis grupos temáticos). Os números são próprios de cada edição e permanecem separados. As transcrições incluem os textos e justificativas publicados nos cadernos finais, com atribuição do grupo conforme a página de cada item. As citações a leis, julgados e enunciados não receberam IDs.
+
+Os PDFs oficiais retornaram HTTP 200 em pares de capturas privadas byte a byte idênticas: I, 6.511.073 bytes, SHA-256 `9b1965a12af1c6608f162738b1c9586248013d54a5d770a423436e92466ba2c4`; II, 13.202.307 bytes, SHA-256 `43b3a76da9a43df87c715cd5168943a12bd56b2c152c994ae4d974e6404362a6`. Recebidos em 30/10/2026 UTC. A notícia oficial também foi capturada em par idêntico: HTTP 200, 47.884 bytes, SHA-256 `6ee47c6156cb38f959a93e1f36315b31242cc3897231ebdfb58dfef151f3e459`. A notícia informa a aprovação de 85 enunciados da II Jornada, realizada em 20–21/03/2025, em seis comissões; o caderno final da I Jornada registra 60 enunciados em sete comissões. O inventário não substitui a contagem dos PDFs pelos números da notícia.
+
+Os cadernos identificam as Jornadas como emissoras documentais, publicadas pelo TRF2, e descrevem os textos como doutrinários, sem força persuasiva técnico-jurídica e sem representar posição do Tribunal ou de seus membros. A hospedagem não os converte em precedentes do TRF2. As séries da JFRJ e dos FOREJEF permanecem distintas. Não se afirma vigência atual, vinculação ou completude.
+
+Sobre a main atual `b6f29218c3f0`, cujo README registra 42.377 registros e 180 órgãos após a integração de sete despachos referenciais da PGE/GO, esta integração acrescenta 145 registros e nenhum órgão: 42.522 registros e 180 órgãos esperados. O TRF02 passa de 409 para 554. As nove lacunas iniciais do BNP permanecem; o quadro BNP desta linha continua 24/24. As contagens editoriais mencionadas em resumos anteriores refletem snapshots distintos e não alteram o delta desta conciliação. Apenas Markdown é publicado; PDFs, imagens, scripts, extrações e recibos ficam na evidência privada `trf02-jornadas-dhf-20261030`.
+
