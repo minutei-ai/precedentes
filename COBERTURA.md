@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.099 registros únicos de 174 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.124 registros únicos de 175 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -28,6 +28,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
 | [CRSFN — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/legislacao) | 6 | 6 | 0 |
 | [CRSNSP — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/legislacao/legislacao) | 6 | 6 | 0 |
 | [CRSNSP — Enunciados históricos sem força vinculante, notícia oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/noticias/2022/crsnsp-aprova-duas-novas-sumulas-em-sessao-de-julgamento) | 5 | 5 | 0 |
@@ -1052,6 +1053,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [Fórum dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/) | 25 | I Jornada — caderno final hospedado pelo CNJ; órgão distinto do FONEF/AJUFE |
 | [FONAJUS](tribunais/FONAJUS/) | 176 | FONAJUS/CNJ — números 1–176 em uma identidade cada, com histórico atribuído e fontes da VI, VII e VIII Jornadas |
 | [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
 | [FONAREF](tribunais/FONAREF/) | 36 | 1º, 2º e 3º Congressos, em séries independentes |
@@ -2494,3 +2496,13 @@ Sobre a main `3f877c7abd27ac45f932bd7cf144876bca7c5790`, com 41.670 registros em
 ### Conciliação CRSFN/CRSNSP com a base atual
 
 A main `4b2f05fc4952f10bf0afd42d3ed8ef41923364af`, já com os 176 registros FONAJUS e os 69 FONEF, tem 42.082 registros em 172 órgãos. O lote CRSFN/CRSNSP soma 17 registros em dois órgãos próprios: 6 súmulas CRSFN, 6 súmulas CRSNSP e 5 enunciados históricos CRSNSP, em série separada. O total reconciliado é 42.099 registros em 174 órgãos. Os 176 FONAJUS, os 69 FONEF, os 409 TRF02, os 232 TRF04 e os identificadores explícitos dos 19 registros Fonaref foram preservados. Os números da base anterior descritos na seção de coleta são históricos; não indicam a contagem atual. O delta público deste lote fica restrito aos dois órgãos, README e cobertura; nenhum registro da main é removido. As nove lacunas iniciais do BNP permanecem.
+
+## Fórum Nacional dos Juízes de Execução Fiscal — I Jornada
+
+Foram incorporados 25 enunciados, números 1–25, do [caderno final “Enunciados aprovados”](https://www.cnj.jus.br/wp-content/uploads/2025/05/enunciados-aprovados-forum-juizes-fiscal-1.pdf), hospedado pelo CNJ. Foram lidas visualmente as cinco páginas físicas, incluindo a capa; o nº 14 continua da página 3 para a 4. A camada textual foi cotejada com as imagens. Não houve OCR. O Fórum foi mantido como emissor próprio, distinto do FONEF/AJUFE e do FONAJEF. FORUMEXECFISCAL é uma chave editorial, sem atribuir sigla oficial.
+
+As duas capturas diretas de 30/10/2026 responderam HTTP 200, com 534.399 bytes e SHA-256 `ab78127f95ebc183669bd42c6ac7240b6765718eedb2028c1759d0f70d97a5c1`. O leitor web retornou 403 na tentativa de abrir a agenda do CNJ; uma reprodução no TRF2 retornou 503 e uma notícia do TJRJ retornou 502. Esses acessos não foram usados para completar os corpos. O texto publicado segue apenas o PDF final capturado. PDF, imagens, extração e recibos permanecem privados; o delta público contém somente Markdown.
+
+Foram reunidas quebras tipográficas, preservando os hífens lexicais e dos números processuais. O nº 22 conserva “mudou-se, desconhecido ou recusado” e o nº 24 conserva “compete a parte” e “prosseguimento feito”. Normas e julgados citados não geraram identificadores. Propostas anteriores, outros eventos e atos apenas referidos não foram lidos neste lote. Não se infere vigência atual, força vinculante ou exaustividade histórica.
+
+Sobre a main `5c7e878ecdf17035c60a5e9d2fb9cc19e4f93040`, com 42.099 registros em 174 órgãos, este lote acrescenta 25 registros e um órgão: total esperado de 42.124 registros em 175 órgãos. FONAJUS 176, FONEF 69, CRSFN 6 e CRSNSP 11 permanecem; as nove lacunas iniciais do BNP não mudam. A contagem global não foi repetida nesta etapa; foram conferidos os 25 IDs e corpos do lote.
