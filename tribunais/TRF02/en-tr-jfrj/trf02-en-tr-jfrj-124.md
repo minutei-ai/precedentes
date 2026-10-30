@@ -1,0 +1,26 @@
+# TRF02 · Turmas Recursais da JFRJ · Enunciado 124
+
+- **Órgão:** TRF02
+- **Emissor indicado:** Conjunto das Turmas Recursais dos Juizados Especiais Federais do Rio de Janeiro, com a especialização indicada no texto quando presente
+- **Espécie:** Enunciado das Turmas Recursais da JFRJ
+- **Número:** 124
+- **Identificador:** `trf02-en-tr-jfrj-124`
+- **Situação na fonte:** Sem situação em campo próprio; conferir as notas transcritas
+- **Publicação da página:** 21 Janeiro, 2016
+- **Última modificação da página:** 7 Fevereiro, 2024
+- **Fonte:** [Enunciado 124](https://trf2.jus.br/jfrj/artigo/tr-eju/enunciado-124)
+
+## Texto disponibilizado pela fonte
+
+"A Justiça Federal é competente para apreciar, incidentalmente, a existência de união estável."
+
+(Precedente: 0101725-58.2013.4.02.5117/02 2ª TR, relator Juiz Federal Luiz Claudio Flores da Cunha, julgado em 05/05/2015). Aprovado em Reunião do Conjunto das Turmas Recursais em 15/06/2015. Publicado no DJE em 09/07/2015, pg. 1.218.
+
+## Conferência e limites
+
+Transcrição do contêiner jurídico da ficha HTML, em duas capturas HTTP 200 de 30/10/2026 (UTC). Os pares coincidem em título, corpo, marcação e datas de página. Espaços em branco foram normalizados; parágrafos e quebras explícitas foram preservados como separações de texto, com negrito, itálico e vínculos convertidos para Markdown. Prévia abreviada e sua repetição integral, quando publicadas no próprio corpo, foram mantidas. Datas de página não são datas individuais de aprovação ou vigência. O título e as notas são atribuições da fonte; sua ausência não comprova vigência atual, efeito vinculante ou exaustividade. Diários, processos, normas e publicações vinculadas não foram lidos neste lote e não geraram outros identificadores. Não houve PDF ou OCR.
+
+| Captura | HTTP | Bytes | SHA-256 |
+| --- | ---: | ---: | --- |
+| 1 | 200 | 36845 | `51a800701317c3b2bf234dd032d5688862cf6274e64f002364e55412c560de05` |
+| 2 | 200 | 36845 | `51a800701317c3b2bf234dd032d5688862cf6274e64f002364e55412c560de05` |
