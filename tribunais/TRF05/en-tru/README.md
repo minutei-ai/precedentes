@@ -12,6 +12,12 @@ O primeiro subtítulo liga uma coletânea “Enunciados - I ao XIII Fórum Nacio
 
 HTMLs e recibos permanecem privados; apenas Markdown foi incorporado. As nove lacunas textuais iniciais do BNP permanecem. Sobre a base `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, são +5 registros e nenhum órgão: total esperado de **42.720 registros em 185 órgãos**, TRF05 **31**. Os lotes locais de MPES, MPSE, Forecrim e JFRN não integram essa base e não foram somados.
 
+## Seções vizinhas consultadas
+
+As duas capturas de [Questões de Ordem - TRU](https://jef.trf5.jus.br/resolucoes/questoesOrdemTRU.php) responderam HTTP 200, 9.854 bytes e SHA-256 `1e1c62b3aa74d5ccaa943634efaae3bda826b7fce15683e6db1a18858ba096d1`. O contêiner jurídico contém apenas o título, sem verbetes. Isso descreve a página capturada, sem afirmar inexistência de questões de ordem em outras fontes.
+
+A página [Súmulas - TRU](https://jef.trf5.jus.br/resolucoes/sumulasTRU.php) respondeu HTTP 200 nas duas capturas, 9.976 bytes e SHA-256 `bf3a9d3637132e4853651005bbd08eee3e18a7b94af42b44b8e33f6f48c235e4`. O conteúdo é um link “Clique aqui para visualizar a página.”; o destino lido no leitor web apresentou o portal geral do TRF5, sem verbetes no trecho entregue. Não foram criados IDs a partir desse atalho, nem atribuídas à TRU as súmulas já existentes do Tribunal.
+
 ## Registros
 
 - [1 — trf05-en-tru-1](trf05-en-tru-1.md)
