@@ -1,0 +1,91 @@
+# TJSP · Enunciados FOJESP — Enunciado cível dos Juizados Especiais
+
+**85 registros numerados na compilação.** [Voltar ao tribunal](../)
+
+**Escopo:** reprodução documental de uma compilação oficial cuja própria capa a identifica como minuta consolidada em 12/06/2018. A presença nesta série não afirma aprovação ou vigência atual. Variantes e anotações do documento ficam no mesmo número; texto que termina interrompido é assinalado sem complemento.
+
+- [FOJESP 1](tjsp-en-fojesp-civil-1.md) — Minuta/compilação; status atual não informado
+- [FOJESP 2](tjsp-en-fojesp-civil-2.md) — Minuta/compilação; status atual não informado
+- [FOJESP 3](tjsp-en-fojesp-civil-3.md) — Minuta/compilação; status atual não informado
+- [FOJESP 4](tjsp-en-fojesp-civil-4.md) — Minuta/compilação; status atual não informado
+- [FOJESP 5](tjsp-en-fojesp-civil-5.md) — Revogação anotada na compilação; status atual não informado
+- [FOJESP 6](tjsp-en-fojesp-civil-6.md) — Minuta/compilação; status atual não informado
+- [FOJESP 7](tjsp-en-fojesp-civil-7.md) — Minuta/compilação; status atual não informado
+- [FOJESP 8](tjsp-en-fojesp-civil-8.md) — Minuta/compilação; status atual não informado
+- [FOJESP 9](tjsp-en-fojesp-civil-9.md) — Minuta/compilação; status atual não informado
+- [FOJESP 10](tjsp-en-fojesp-civil-10.md) — Minuta/compilação; status atual não informado
+- [FOJESP 11](tjsp-en-fojesp-civil-11.md) — Minuta/compilação; status atual não informado
+- [FOJESP 12](tjsp-en-fojesp-civil-12.md) — Minuta/compilação; status atual não informado
+- [FOJESP 13](tjsp-en-fojesp-civil-13.md) — Minuta/compilação; status atual não informado
+- [FOJESP 14](tjsp-en-fojesp-civil-14.md) — Minuta/compilação; status atual não informado
+- [FOJESP 15](tjsp-en-fojesp-civil-15.md) — Minuta/compilação; status atual não informado
+- [FOJESP 16](tjsp-en-fojesp-civil-16.md) — Minuta/compilação; status atual não informado
+- [FOJESP 17](tjsp-en-fojesp-civil-17.md) — Minuta/compilação; status atual não informado
+- [FOJESP 18](tjsp-en-fojesp-civil-18.md) — Minuta/compilação; status atual não informado
+- [FOJESP 19](tjsp-en-fojesp-civil-19.md) — Minuta/compilação; status atual não informado
+- [FOJESP 20](tjsp-en-fojesp-civil-20.md) — Minuta/compilação; status atual não informado
+- [FOJESP 21](tjsp-en-fojesp-civil-21.md) — Minuta/compilação; status atual não informado
+- [FOJESP 22](tjsp-en-fojesp-civil-22.md) — Minuta/compilação; status atual não informado
+- [FOJESP 23](tjsp-en-fojesp-civil-23.md) — Minuta/compilação; status atual não informado
+- [FOJESP 24](tjsp-en-fojesp-civil-24.md) — Minuta/compilação; status atual não informado
+- [FOJESP 25](tjsp-en-fojesp-civil-25.md) — Minuta/compilação; status atual não informado
+- [FOJESP 26](tjsp-en-fojesp-civil-26.md) — Minuta/compilação; status atual não informado
+- [FOJESP 27](tjsp-en-fojesp-civil-27.md) — Minuta/compilação; status atual não informado
+- [FOJESP 28](tjsp-en-fojesp-civil-28.md) — Minuta/compilação; status atual não informado
+- [FOJESP 29](tjsp-en-fojesp-civil-29.md) — Minuta/compilação; status atual não informado
+- [FOJESP 30](tjsp-en-fojesp-civil-30.md) — Minuta/compilação; status atual não informado
+- [FOJESP 31](tjsp-en-fojesp-civil-31.md) — Minuta/compilação; status atual não informado
+- [FOJESP 32](tjsp-en-fojesp-civil-32.md) — Minuta/compilação; status atual não informado
+- [FOJESP 33](tjsp-en-fojesp-civil-33.md) — Minuta/compilação; status atual não informado
+- [FOJESP 34](tjsp-en-fojesp-civil-34.md) — Minuta/compilação; status atual não informado
+- [FOJESP 35](tjsp-en-fojesp-civil-35.md) — Minuta/compilação; status atual não informado
+- [FOJESP 36](tjsp-en-fojesp-civil-36.md) — Minuta/compilação; status atual não informado
+- [FOJESP 37](tjsp-en-fojesp-civil-37.md) — Minuta/compilação; status atual não informado
+- [FOJESP 38](tjsp-en-fojesp-civil-38.md) — Minuta/compilação; status atual não informado
+- [FOJESP 39](tjsp-en-fojesp-civil-39.md) — Minuta/compilação; status atual não informado
+- [FOJESP 40](tjsp-en-fojesp-civil-40.md) — Minuta/compilação; status atual não informado
+- [FOJESP 41](tjsp-en-fojesp-civil-41.md) — Minuta/compilação; status atual não informado
+- [FOJESP 42](tjsp-en-fojesp-civil-42.md) — Minuta/compilação; status atual não informado
+- [FOJESP 43](tjsp-en-fojesp-civil-43.md) — Minuta/compilação; status atual não informado
+- [FOJESP 44](tjsp-en-fojesp-civil-44.md) — Minuta/compilação; status atual não informado
+- [FOJESP 45](tjsp-en-fojesp-civil-45.md) — Minuta/compilação; status atual não informado
+- [FOJESP 46](tjsp-en-fojesp-civil-46.md) — Minuta/compilação; status atual não informado
+- [FOJESP 47](tjsp-en-fojesp-civil-47.md) — Minuta/compilação; status atual não informado
+- [FOJESP 48](tjsp-en-fojesp-civil-48.md) — Minuta/compilação; status atual não informado
+- [FOJESP 49](tjsp-en-fojesp-civil-49.md) — Minuta/compilação; status atual não informado
+- [FOJESP 50](tjsp-en-fojesp-civil-50.md) — Minuta/compilação; status atual não informado
+- [FOJESP 51](tjsp-en-fojesp-civil-51.md) — Minuta/compilação; status atual não informado
+- [FOJESP 52](tjsp-en-fojesp-civil-52.md) — Minuta/compilação; status atual não informado
+- [FOJESP 53](tjsp-en-fojesp-civil-53.md) — Minuta/compilação; status atual não informado
+- [FOJESP 54](tjsp-en-fojesp-civil-54.md) — Minuta/compilação; status atual não informado
+- [FOJESP 55](tjsp-en-fojesp-civil-55.md) — Minuta/compilação; status atual não informado
+- [FOJESP 56](tjsp-en-fojesp-civil-56.md) — Minuta/compilação; status atual não informado
+- [FOJESP 57](tjsp-en-fojesp-civil-57.md) — Minuta/compilação; status atual não informado
+- [FOJESP 58](tjsp-en-fojesp-civil-58.md) — Minuta/compilação; status atual não informado
+- [FOJESP 59](tjsp-en-fojesp-civil-59.md) — Minuta/compilação; status atual não informado
+- [FOJESP 60](tjsp-en-fojesp-civil-60.md) — Minuta/compilação; status atual não informado
+- [FOJESP 61](tjsp-en-fojesp-civil-61.md) — Minuta/compilação; status atual não informado
+- [FOJESP 62](tjsp-en-fojesp-civil-62.md) — Minuta/compilação; status atual não informado
+- [FOJESP 63](tjsp-en-fojesp-civil-63.md) — Minuta/compilação; status atual não informado
+- [FOJESP 64](tjsp-en-fojesp-civil-64.md) — Minuta/compilação; status atual não informado
+- [FOJESP 65](tjsp-en-fojesp-civil-65.md) — Minuta/compilação; status atual não informado
+- [FOJESP 66](tjsp-en-fojesp-civil-66.md) — Minuta/compilação; status atual não informado
+- [FOJESP 67](tjsp-en-fojesp-civil-67.md) — Minuta/compilação; status atual não informado
+- [FOJESP 68](tjsp-en-fojesp-civil-68.md) — Minuta/compilação; status atual não informado
+- [FOJESP 69](tjsp-en-fojesp-civil-69.md) — Minuta/compilação; status atual não informado
+- [FOJESP 70](tjsp-en-fojesp-civil-70.md) — Minuta/compilação; status atual não informado
+- [FOJESP 71](tjsp-en-fojesp-civil-71.md) — Minuta/compilação; status atual não informado
+- [FOJESP 72](tjsp-en-fojesp-civil-72.md) — Minuta/compilação; status atual não informado
+- [FOJESP 73](tjsp-en-fojesp-civil-73.md) — Minuta/compilação; status atual não informado
+- [FOJESP 74](tjsp-en-fojesp-civil-74.md) — Minuta/compilação; status atual não informado
+- [FOJESP 75](tjsp-en-fojesp-civil-75.md) — Minuta/compilação; status atual não informado
+- [FOJESP 76](tjsp-en-fojesp-civil-76.md) — Minuta/compilação; status atual não informado
+- [FOJESP 77](tjsp-en-fojesp-civil-77.md) — Minuta/compilação; status atual não informado
+- [FOJESP 78](tjsp-en-fojesp-civil-78.md) — Minuta/compilação; status atual não informado
+- [FOJESP 79](tjsp-en-fojesp-civil-79.md) — Minuta/compilação; status atual não informado
+- [FOJESP 80](tjsp-en-fojesp-civil-80.md) — Aprovação anotada na compilação; status atual não informado
+- [FOJESP 81](tjsp-en-fojesp-civil-81.md) — Aprovação anotada na compilação; status atual não informado
+- [FOJESP 82](tjsp-en-fojesp-civil-82.md) — Aprovação anotada na compilação; status atual não informado
+- [FOJESP 83](tjsp-en-fojesp-civil-83.md) — Aprovação anotada na compilação; status atual não informado
+- [FOJESP 84](tjsp-en-fojesp-civil-84.md) — Aprovação anotada na compilação; status atual não informado
+- [FOJESP 85](tjsp-en-fojesp-civil-85.md) — Aprovação anotada na compilação; status atual não informado

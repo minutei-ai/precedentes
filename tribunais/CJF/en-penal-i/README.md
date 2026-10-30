@@ -1,0 +1,38 @@
+# I Jornada de Direito e Processo Penal
+
+**32 enunciados**, números 1–32 da [consulta oficial do CJF](https://www.cjf.jus.br/enunciados/), filtro `jornada.id=261`. Os campos jurídicos e metadados dos 32 pares de fichas coincidem; bytes e SHA-256 foram recalculados, e os corpos coincidem com as duas pesquisas. Todos os corpos e metadados foram lidos. As fichas não publicam justificativas, Notas ou redação anterior.
+
+As redações das nºs 2 e 24 sobre livramento condicional e aplicação temporal permanecem separadas e literais, sem harmonização editorial. Mantidas “PARTENIDADE SOCIOAFETIVA”, “SISTEMA FINANCEIRA” e “DOSEMETRIA DA PENA” nas palavras de resgate da fonte, sem completar referências vazias. Campos de coordenação que reúnem ministro e coordenador científico permanecem como publicados. Sem inferir situação jurídica atual, vinculação, exaustividade ou titularidade atual dos cargos. Nenhum ato ou julgado citado gerou ID novo. Sem PDF/OCR; outras publicações e documentos apenas citados permanecem pendentes.
+
+- [Enunciado 1](cjf-en-penal-i-1.md)
+- [Enunciado 2](cjf-en-penal-i-2.md)
+- [Enunciado 3](cjf-en-penal-i-3.md)
+- [Enunciado 4](cjf-en-penal-i-4.md)
+- [Enunciado 5](cjf-en-penal-i-5.md)
+- [Enunciado 6](cjf-en-penal-i-6.md)
+- [Enunciado 7](cjf-en-penal-i-7.md)
+- [Enunciado 8](cjf-en-penal-i-8.md)
+- [Enunciado 9](cjf-en-penal-i-9.md)
+- [Enunciado 10](cjf-en-penal-i-10.md)
+- [Enunciado 11](cjf-en-penal-i-11.md)
+- [Enunciado 12](cjf-en-penal-i-12.md)
+- [Enunciado 13](cjf-en-penal-i-13.md)
+- [Enunciado 14](cjf-en-penal-i-14.md)
+- [Enunciado 15](cjf-en-penal-i-15.md)
+- [Enunciado 16](cjf-en-penal-i-16.md)
+- [Enunciado 17](cjf-en-penal-i-17.md)
+- [Enunciado 18](cjf-en-penal-i-18.md)
+- [Enunciado 19](cjf-en-penal-i-19.md)
+- [Enunciado 20](cjf-en-penal-i-20.md)
+- [Enunciado 21](cjf-en-penal-i-21.md)
+- [Enunciado 22](cjf-en-penal-i-22.md)
+- [Enunciado 23](cjf-en-penal-i-23.md)
+- [Enunciado 24](cjf-en-penal-i-24.md)
+- [Enunciado 25](cjf-en-penal-i-25.md)
+- [Enunciado 26](cjf-en-penal-i-26.md)
+- [Enunciado 27](cjf-en-penal-i-27.md)
+- [Enunciado 28](cjf-en-penal-i-28.md)
+- [Enunciado 29](cjf-en-penal-i-29.md)
+- [Enunciado 30](cjf-en-penal-i-30.md)
+- [Enunciado 31](cjf-en-penal-i-31.md)
+- [Enunciado 32](cjf-en-penal-i-32.md)
