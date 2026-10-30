@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.370 registros únicos de 180 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.377 registros únicos de 180 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -40,10 +40,21 @@ Em 29/10/2026, foram incorporados 226 enunciados da listagem oficial da [AJUFE](
 
 Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por `jornada.id=1` e as 57 fichas oficiais pareadas, todas com HTTP 200. Os campos da ficha coincidiram em cada par; os corpos coincidiram com os cartões. As fichas trazem comissão, coordenadores, referências legislativas e palavras de resgate. Não exibem justificativa ou nota, e o campo reservado à redação anterior está vazio. Essa ausência não confirma vigência. Foram mantidas as grafias e pontuações da fonte. Nenhum PDF, ata ou ato citado foi usado; normas citadas não foram atualizadas nem criadas como registros. A coleta da jornada não afirma exaustividade ou efeito vinculante.
 
+## PGE/GO — sete despachos referenciais de 2025 e 2026
+
+Sobre a main `ffd435a5edf193ca4144a191e146f368f08e43d5`, com 42.370 registros em 180 órgãos, este lote acrescenta sete documentos e nenhum órgão: **42.377 registros em 180 órgãos**, PGEGO 29 (22 súmulas e sete despachos). Os 27 registros ANATEL, os 58 PGEES, os 27 PROCONES, os 57 FONAMEC e os 25 fiscais já incorporados permanecem na base. Esta é a soma do delta focado; não foi repetida a varredura global de identificadores. As nove lacunas originais do BNP permanecem.
+
+Foram lidas visualmente as 59 páginas dos despachos 202/2026 (9), 42/2026 (11), 573/2025 (5), 779/2025 (11), 1470/2025 (8), 1589/2025 (8) e 1725/2025 (7). Os seis PDFs com camada textual foram cotejados com as imagens; o nº 573 tem camada vazia e sua transcrição é manual, sem OCR. As duas capturas de cada PDF têm HTTP 200, bytes e SHA-256 coincidentes. O [índice da série](tribunais/PGEGO/desp-ref/) registra os sete recibos documentais e os limites.
+
+A página hospedeira da CGE/GO tem 115 linhas documentais não vazias, de vários emissores; sete foram incorporadas. As outras 108 continuam pendentes, sem atribuir à CGE/GO a autoria de despachos da PGE/GO, acórdão do TCE ou pareceres de terceiros. Dois pares de rótulos de 2021 apontam ao mesmo arquivo e ainda exigem conferência de identidade. As duas capturas HTML do catálogo são idênticas, HTTP 200, 297215 bytes e SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`.
+
+Campos tarjados nos nºs 573, 779 e 1470 não foram recuperados; o CPF parcial do nº 779 foi omitido integralmente. A referência 4 do nº 1589 conserva indicação editorial no lugar da URL de validação. Notas, processos citados, nomes e funções públicos permanecem; chaves, CRC, QR codes e blocos eletrônicos foram omitidos. As datas eletrônicas são atribuídas às cópias e não confirmam vigência. As divergências do nº 42, a Lei nº 14.973 de 2014 no nº 1589 e o placeholder do nº 1725 foram preservados. Nenhum documento apenas citado ganhou ID.
+
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGE/GO — sete despachos referenciais de 2025–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 7 documentos / 59 páginas | 7 | 0 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
@@ -1147,7 +1158,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
-| [PGEGO](tribunais/PGEGO/) | 22 | PGE/GO — Súmulas Administrativas |
+| [PGEGO](tribunais/PGEGO/) | 29 | PGE/GO — 22 súmulas administrativas e 7 despachos referenciais |
 | [PGEAP](tribunais/PGEAP/) | 18 | PGE/AP — Súmulas Administrativas do CONSUP/PGE |
 | [PROCONPB](tribunais/PROCONPB/) | 4 | PROCON/PB — Súmulas da Câmara Recursal |
 | [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
