@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.873 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.059 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -119,6 +119,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [PGE/RS — Súmulas Administrativas CEAD](https://pge.rs.gov.br/sumulas-jurisprudencia-administrativa-comissao-especial-de-advocacia-dativa) | 15 | 15 | 0 |
 | [PGE/SP — Súmulas históricas, 2ª edição de 1999](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm) | 23 | 23 | 0 |
 | [TRF1 — Coletânea oficial de súmulas](https://www.trf1.jus.br/trf1/conteudo/Sumula2026.pdf) | 61 | 61 | 0 |
+| [TRF1 — Enunciados da I Jornada de Justiça Climática e Transformação Ecológica](tribunais/TRF01/en-jornada-climatica-i/) | 38 | 38 | 0 |
 | [TJSE — Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) | 14 | 14 | 0 |
 | [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
 | [PGE/RJ — Enunciados próprios](https://pge.rj.gov.br/enunciados) | 55 | 55 | 0 |
@@ -913,7 +914,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
-| [TRF01](tribunais/TRF01/) | 171 | 110 | 110 |
+| [TRF01](tribunais/TRF01/) | 209 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 86 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
@@ -2300,3 +2301,10 @@ Delta sobre a main `dd9c6058` (40.149 registros em 164 órgãos; CJF 1.671): 143
 Sobre a main `ff59cc17` (40.863 registros, 164 órgãos), entram dez registros e um órgão: 40.873 registros em 165 órgãos. Os números 001–010, textos, aprovações e referências foram lidos integralmente no [catálogo oficial](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas), em duas capturas HTTP 200 idênticas de 80.012 bytes, SHA-256 `e142e8f12e7851ef0a05e2a26ede627c7596ffc96cdd0798b9ea3232f81a9795`. As nºs 001 e 009 conservam o rótulo de cancelamento e o risco; na nº 001, o ponto final permanece fora do risco. A nº 002 conserva a nota de revisão pela nº 008 e o texto sem risco. Ausência de nota nas demais não significa vigência.
 
 A grafia “inciativa” na nº 005, “parágrafo I” na nº 002 e a construção “ao Conselho Superior à apreciação” na nº 010 permanecem. Espaços, quebras, negrito e sublinhado de título foram normalizados; risco e itálico foram preservados. Não houve PDF ou OCR neste lote. Tentativas de obter o diário de 02/04/2025 expiraram sem arquivo; a biblioteca Sophia retornou página de validação, sem corpo jurídico. Esses acessos não fundamentam transcrição nem ausência. Resoluções de aprovação, diários, atos de revisão e cancelamento, processos e outras séries continuam pendentes. Não se inferiu vigência ou efeito vinculante. As nove lacunas iniciais do BNP permanecem; somente Markdown foi publicado.
+
+
+## TRF01 — I Jornada de Justiça Climática e Transformação Ecológica
+
+Integram-se os 38 enunciados aprovados na plenária da Jornada em 11/12/2024, publicados no edital oficial da ESMAF hospedado no portal do TRF1. O edital foi capturado duas vezes (HTTP 200, 74.008 bytes por resposta, SHA-256 `904d03d4438ec7c5e11d3b629a89f6844ff6253e8d41aff847bfd14e2db592b7`); a camada textual e as cinco páginas foram conferidas. A notícia do MPF (28/05/2025) confirma o conjunto e a participação do MPF nos nºs 3, 5, 7–9, 11–13, 15–17 e 38. O Caderno eletrônico foi oficialmente ligado pela notícia e está hospedado no FlipHTML5; a versão textual direta retornou HTTP 403, sem tentativa de contornar o acesso. O material acessível comenta especificamente os nºs 19 e 21 na conclusão, preservados nos registros; não há justificativa individualizada para todos os itens.
+
+As ementas dos quatro Grupos de Trabalho foram preservadas no [índice da série](tribunais/TRF01/en-jornada-climatica-i/), sem atribuir cada enunciado a um grupo quando as fontes não o fazem. A iniciativa é descrita como conjunta pela Direção do Foro da SJPA, UFPA, presidência do TRF1 e ESMAF. Os enunciados são mantidos como série documental da Jornada, sem convertê-los em julgados ou precedentes vinculantes, sem atribuir adoção individual pelo TRF1 e sem inferir vigência atual. Não há órgão novo: TRF01 passa de 171 para 209 registros (IAC 6, IRDR 104, SUM 61 e enunciados da Jornada 38); o acervo passa a 41.059 registros em 165 órgãos, sobre a main indicada cujo README e COBERTURA registram 41.021 (embora a contagem fornecida na tarefa seja 40.873 e STJ 3.557; a diferença de 148 registros está na série do 2º Congresso da Primeira Instância do STJ, já presente nessa main).
