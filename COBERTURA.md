@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.403 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.450 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -146,6 +146,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [TJBA — Súmulas do catálogo institucional](https://www.tjba.jus.br/portal/sumulas/) | 29 | 12 | 17 |
 | [TIT/SP — Súmulas e fichas de propostas](https://portal.fazenda.sp.gov.br/servicos/tit/Paginas/Jurisprud%C3%AAncia-S%C3%BAmulas.aspx) | 15 | 15 | 0 |
 | [TJMMG — Súmulas](https://tjmmg.jus.br/sumulas/) | 9 | 9 | 0 |
+| [TJMG — Enunciados do ENJESP](https://www.tjmg.jus.br/portal-tjmg/institucional/juizados-especiais/) | 47 | 47 | 0 |
 | [AGU — Catálogo de manifestações da CONUNI](https://cgu.agu.gov.br/conuni/) | 1.745 | 1.745 | 0 |
 | [AGU — Enunciados DEINF (DGA) no catálogo SCGP](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/scgp/home/) | 3 | 3 | 0 |
 | [AGU — Enunciados da Consultoria-Geral da União](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/enunciados) | 42 | 42 | 0 |
@@ -830,7 +831,7 @@ O catálogo da Turma de Uniformização dos Juizados Especiais do Distrito Feder
 
 O catálogo de súmulas do TJDFT trouxe 29 verbetes, com avisos de alteração, cancelamento e renumeração mantidos no texto. O TJDFT aparece no índice como TJDF, sigla adotada pelo BNP. Também conferimos os catálogos de 21 IRDR e um IAC admitidos; suas observações e links para acórdãos foram mantidos com atribuição própria, sem substituir as informações do BNP. 
 
-O TJMG inclui 91 enunciados do compêndio disponibilizado no catálogo atual e três séries anteriores ao regimento de 2012: 69 do Grupo de Câmaras Criminais, 72 da 1ª Câmara Criminal e 29 da 4ª Câmara Cível. As numerações são independentes; as séries ficam em categorias próprias, preservando notas de cancelamento, alteração e substituição. Os três enunciados do extinto Tribunal de Alçada de Minas Gerais, preservados pelo TJMG, aparecem sob a autoridade histórica TAMG, com as notas de cancelamento mantidas. O catálogo do TJSC contém 68 súmulas consecutivas, com referências e avisos de revogação preservados.
+O TJMG inclui 91 enunciados do compêndio disponibilizado no catálogo atual e três séries anteriores ao regimento de 2012: 69 do Grupo de Câmaras Criminais, 72 da 1ª Câmara Criminal e 29 da 4ª Câmara Cível. Acrescenta 47 enunciados ENJESP em três séries cíveis, criminais e da Fazenda Pública, preservando cancelamentos na compilação institucional atual e redações históricas nas fichas de 2018 e 2019 da Biblioteca Digital do TJMG. As numerações são independentes; as séries ficam em categorias próprias, preservando notas de cancelamento, alteração e substituição. Os três enunciados do extinto Tribunal de Alçada de Minas Gerais, preservados pelo TJMG, aparecem sob a autoridade histórica TAMG, com as notas de cancelamento mantidas. O catálogo do TJSC contém 68 súmulas consecutivas, com referências e avisos de revogação preservados.
 
 O TJPI foi coletado no catálogo atual da transparência: 70 registros em cinco páginas, correspondentes aos números de súmula 1 a 69. O número 64 aparece em dois registros oficiais, ambos preservados no mesmo Markdown. A ordenação por título e a conferência dos identificadores evitam repetir documentos entre páginas. Os avisos de cancelamento e as publicações de 2026 são mantidos conforme a fonte.
 
@@ -948,7 +949,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJMA](tribunais/TJMA/) | 23 | 23 | 23 |
 | [TJMT](tribunais/TJMT/) | 107 | 29 | 29 |
 | [TJMS](tribunais/TJMS/) | 33 | 33 | 33 |
-| [TJMG](tribunais/TJMG/) | 400 | 139 | 139 |
+| [TJMG](tribunais/TJMG/) | 447 | 139 | 139 |
 | [TJPA](tribunais/TJPA/) | 69 | 69 | 69 |
 | [TJPB](tribunais/TJPB/) | 64 | 10 | 10 |
 | [TJPR](tribunais/TJPR/) | 232 | 166 | 166 |
@@ -2374,7 +2375,7 @@ Sobre `9baeb8e0` (41.119 registros em 166 órgãos), o delta é +62 registros e 
 
 O caderno final publicado em fevereiro/2026 contém os números 1–17 e suas justificativas, das comissões 01–04, para o evento de 17–18/11/2025. Foram lidas visualmente as 22 páginas físicas, com camada textual de apoio e sem OCR. Texto jurídico nas páginas 11–20; fonte, bytes, SHA, paginação e limites constam de cada ficha e do índice. Duas capturas HTTP 200 idênticas. A apresentação menciona cinco comissões, mas a quinta não tem enunciados neste arquivo; não foi reconstruída do caderno prévio aprovado apenas para debate. Mantidas a aspa unilateral do nº 4, RMA/RPA no nº 6, artigos distintos no nº 10, “reponsabilidade” no nº 14 e “TJ” na justificativa 16. Os números de outros congressos não foram fundidos. Atas e julgados citados não viraram registro.
 
-Base `8ed6cd48` (41.386 registros em 168 órgãos, já com Fonavid 81 e 124 minutas FOJESP). Delta +17 registros e +1 órgão FONAREF: 41.403 registros em 169 órgãos. PR #140 permanece aberto e fora da conta. ENFAM 62, Fonavid 81, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 preservados. As nove lacunas iniciais do BNP permanecem. Não se inferiu vigência, vinculação ou exaustividade; demais congressos e documentos continuam pendentes.
+Base `20365a10` (41.433 registros em 168 órgãos, já com Fonavid 81, 124 minutas FOJESP e 47 enunciados ENJESP). Delta +17 registros e +1 órgão FONAREF: 41.450 registros em 169 órgãos. PRs #140 e #141 já estão integrados nesta base. ENFAM 62, Fonavid 81, TJMG 447, TJSP 397, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 preservados. As nove lacunas iniciais do BNP permanecem. Não se inferiu vigência, vinculação ou exaustividade; demais congressos e documentos continuam pendentes.
 
 ## Fonavid — 81 enunciados no site próprio
 
@@ -2383,3 +2384,12 @@ Os números 1–81, títulos e corpos foram lidos no contêiner `#enunciados-par
 Base `ccf167ff` com a Enfam integrada: 41.181 registros em 167 órgãos. Delta +81 registros e +1 órgão FONAVID: 41.262 registros em 168 órgãos. ENFAM 62, CJF 1.872, STJ 3.705, CNPG 4 e MPGO 69 preservados. As nove lacunas iniciais do BNP permanecem.
 
 Conciliação final do PR #141: base `146d15cb`, 41.262 registros em 168 órgãos, já com Fonavid 81. As 124 minutas FOJESP somam 41.386 registros em 168 órgãos; TJSP 397. Nenhuma aprovação ou vigência foi inferida do rótulo de minuta.
+
+
+## TJMG — Enunciados ENJESP
+
+A compilação ligada à página institucional dos Juizados Especiais acrescenta 47 enunciados em três séries próprias: cíveis (26), criminais (8) e Fazenda Pública (13). A autoria ENJESP foi delimitada pelos cabeçalhos, referências dos itens e fichas da Biblioteca Digital do TJMG; FONAJE e outros emissores exibidos na página permaneceram separados. A compilação registra cancelamentos do VII ENJESP e itens do IX ENJESP. As versões históricas de 2018 e 2019 foram confrontadas, e as redações anteriores mantidas nos registros correspondentes; não se inferiu vigência atual nem efeito vinculante. Todas as páginas dos três PDFs foram lidas visualmente. As capturas pareadas, status HTTP, bytes e hashes estão no [índice ENJESP](tribunais/TJMG/en-enjesp/README.md).
+
+Sobre `ccf167ff` (41.181 registros em 167 órgãos), entram 47 registros e nenhum órgão: 41.228 registros em 167 órgãos. O TJMG passa de 400 para 447; seus 139 registros no inventário BNP permanecem. As nove lacunas iniciais do BNP continuam.
+
+Conciliação final do PR #140 sobre `8ed6cd48` (41.386 registros/168 órgãos): +47 enunciados ENJESP, nenhum órgão; total 41.433/168. TJMG447, TJSP397 e Fonavid81 preservados.
