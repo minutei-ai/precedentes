@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.343 registros únicos de 179 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.370 registros únicos de 180 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -383,6 +383,21 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [TCEPE — Enunciados de Prejulgados](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/enunciados-prejulgados) | 77 | 77 | 0 |
 | [TCEPE — Teses de Uniformização de Jurisprudência](https://portal.tcepe.tc.br/jurisprudencia/publicacoes/teses-uniformizacao) | 3 | 3 | 0 |
 | [TCE-RJ — Súmulas, fichas e acórdãos das propostas](https://www.tcerj.tc.br/cadastro-publicacoes/public/sumulas) | 28 | 28 | 0 |
+
+| [CGU — Enunciados em atividade disciplinar, série 1–26](tribunais/CGU/en-atividade-disciplinar/) | 26 | 26 | 0 |
+| [CGU — Enunciado nº 13/2023](tribunais/CGU/en-13-2023/) | 1 | 1 | 0 |
+
+## CGU — enunciados de atividade disciplinar
+
+A [Controladoria-Geral da União](https://www.gov.br/cgu/pt-br/assuntos/atividade-disciplinar/enunciados-em-atividade-disciplinar/enunciados-e-demais-documentos-aprovados) é o órgão desta coleta. Ela não foi confundida com a Consultoria-Geral da União, da AGU, nem com a Controladoria-Geral do Estado de Minas Gerais (CGE/MG). A página oficial consultada informa que a série divulga enunciados voltados à unificação de entendimentos no Sistema de Correição do Poder Executivo Federal.
+
+O catálogo apresenta 25 números, na ordem 24, 25, 23–1. Os corpos de 23 itens aparecem no HTML. Os nºs 5 e 6 aparecem na página apenas como cancelados; seus textos históricos foram recuperados dos respectivos registros da Base de Conhecimento da CGU, que os identificam como enunciados cancelados e publicam resumo com o texto. O nº 26 não consta no catálogo consultado: foi incluído de forma atribuída pelo registro oficial da Base de Conhecimento da CGU e relacionado à Portaria nº 1.920/2020 pela página oficial de legislação. A ficha mantém a diferença entre a data do registro e a data do enunciado renumerado, sem harmonização.
+
+Separadamente, a Portaria Normativa CGU nº 78, de 19/04/2023, aprova o Enunciado CGU nº 13/2023 sobre suspensão por recusa injustificada de inspeção médica. Ele permanece em série própria, distinto do Enunciado nº 13, de 28/04/2016. O texto de 2023 foi conferido visualmente na página 113 do DOU. Só esse bloco da página foi transcrito; outras matérias e dados pessoais presentes na página não foram incorporados. Exposições de motivos foram mantidas como links ou ementas apenas onde publicadas no catálogo, sem alegação de leitura dos PDFs. Relatórios das reuniões 15, 20 e 21 da CCC listados após o nº 1 são documentos diferentes de enunciados e não receberam IDs. Citações e referências não criaram registros.
+
+**Metadados de origem consultada:** a página oficial do catálogo foi capturada duas vezes em 30/10/2026 (HTTP 200, 105.686 bytes cada, SHA-256 `af1f1fa7830f43df1d2cd728de30534c21128ec3ce255b12e852fd848830d83a`), com bytes idênticos. Os registros HTML oficiais dos nºs 5, 6 e 26 foram guardados na evidência privada; cada um foi capturado por HTTP 200 e seus hashes SHA-256 são, respectivamente, `5c3cdc466d9f4123b7f4820e5f6e01095ec8bee8a6df1101adae31953af185a6`, `1c9d52d92c42290f4c82cf959c414d929734b229a022c422dc55aa80d0fc020d` e `f7a427f2f626fd8c811799898889e7b3a7899d14642dd7b78b3a5447791417ef`; os arquivos têm 410.885, 410.595 e 409.153 bytes, respectivamente. A publicação do DOU usada para o nº 13/2023 tem uma página, 441.614 bytes e SHA-256 `f685beda3dc9ed71bea4e1bbe761b40d1f04c89f7f38257f9876e3d2c1442ed6`. Capturas, recibos, PDF e imagem permanecem privados. A data editorial do catálogo, 26/10/2026, não comprova atualização jurídica dos corpos. Não se infere vigência, vinculação ou completude histórica.
+
+Na main `d593317b7a4b024d3c7cce3bd82ab985f043cdea`, com 42.293 registros em 179 órgãos, este lote acrescenta 27 IDs (26 na série numerada 1–26 e um nº 13/2023) e um órgão: 42.320 registros em 180 órgãos. Os 27 registros da ANATEL, 27 do PROCON/ES, 57 do FONAMEC, 58 da PGE/ES e 25 da I Jornada dos Juízes de Execução Fiscal permanecem preservados. A contagem é reconciliada pelo delta deste lote; não houve repetição de varredura global. A cobertura nacional permanece parcial.
 
 ## ANATEL — súmulas do Conselho Diretor
 
@@ -2568,6 +2583,6 @@ Após a integração do PROCON/ES, a main `57ecfb614094e165ad1fdbcbb0dbd7d409702
 
 ## TRF01 — I Jornada de Conciliação
 
-A notícia oficial do TRF1 informa que mais de 70 magistrados participaram da Jornada; o Caderno final contém 50 enunciados numerados de 1 a 50. Os enunciados foram extraídos e as páginas físicas 11–14 foram revisadas visualmente no PDF oficial, recebido em duas capturas HTTP 200 idênticas em 30/10/2026 (7.879.142 bytes; SHA-256 `81293b077497b9575992998401868ca7a74c80f3c31b76a2cf589569c0a861e3`). Prefácio, posfácio, programação e fotos não receberam IDs; nenhuma votação individual, adoção pelo TRF1, vigência ou efeito vinculante foi inferida.
+A notícia oficial do TRF1 informa que mais de 70 magistrados participaram da Jornada; o prefácio do Caderno descreve cerca de 70. Ambos se referem à participação, enquanto o Caderno final contém 50 enunciados numerados de 1 a 50. O TRF1 hospeda o PDF em seu portal; a ficha catalográfica atribui a publicação ao Tribunal Regional Federal da 1ª Região e à Esmaf. Os enunciados foram extraídos e as páginas físicas 11–14 foram revisadas visualmente no PDF oficial, recebido em duas capturas HTTP 200 idênticas em 30/10/2026 (7.879.142 bytes cada; SHA-256 `81293b077497b9575992998401868ca7a74c80f3c31b76a2cf589569c0a861e3`). Prefácio, posfácio, programação e fotos não receberam IDs; nenhuma votação individual, adoção pelo TRF1, vigência ou efeito vinculante foi inferida.
 
-Sobre a main `d593317b7a4b024d3c7cce3bd82ab985f043cdea` (42.293 registros em 179 órgãos; TRF01 209), este delta acrescenta 50 enunciados e nenhum órgão: **42.343 registros em 179 órgãos; TRF01 259**. As séries existentes, inclusive os 38 enunciados da I Jornada de Justiça Climática, foram preservadas e permanecem separadas. A primeira Jornada dos JEFs não integra este delta: a notícia atual liga ao livro animado oficial, mas não expõe o PDF que também menciona; o número final de enunciados e os textos do caderno não foram inferidos de notícia ou citação.
+Sobre a main atual `b2d2498de81e7fed3d4602fae964ae3806a69590` (42.320 registros em 180 órgãos; TRF01 209), este delta acrescenta 50 enunciados e nenhum órgão: **42.370 registros em 180 órgãos; TRF01 259**. Os 38 enunciados da I Jornada de Justiça Climática e os 171 registros anteriores do TRF01 foram preservados; as duas Jornadas permanecem em séries próprias. As nove lacunas iniciais do BNP permanecem. A primeira Jornada dos JEFs não integra este delta: a notícia atual liga ao livro animado oficial, mas não expõe o PDF que também menciona; o número final de enunciados e os textos do caderno não foram inferidos de notícia, flipbook ou citação. Somente Markdown público; PDF, imagens, recibos, extração e capturas permanecem privados.
