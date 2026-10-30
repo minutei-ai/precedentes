@@ -15,4 +15,18 @@ Deverá constar, na notificação encaminhada aos credores, a advertência de qu
 
 ## Conferência e limites
 
-Texto e título transcritos do HTML oficial consolidado da Resolução CNJ nº 125/2010; o Anexo V identifica estes enunciados como referendados pelo Plenário do CNJ e declara aplicabilidade restrita à Justiça Estadual. A Resolução CNJ nº 686/2026 acrescentou o Anexo V. A edição I–XIX do caderno do FONAMEC hospedada pelo TJBA não foi visualmente conferida nesta coleta; por isso, esta transcrição representa apenas a redação do Anexo V, sem inferir identidade com textos de outras edições. Leis e demais normas citadas não geraram registros. A presença no acervo não afirma vigência atual nem atribui efeito vinculante além do que está expresso nas fontes.
+Texto e título transcritos do HTML oficial consolidado da Resolução CNJ nº 125/2010; o Anexo V identifica estes enunciados como referendados pelo Plenário do CNJ e declara aplicabilidade restrita à Justiça Estadual. A Resolução CNJ nº 686/2026 acrescentou o Anexo V. O Caderno I–XIX do FONAMEC hospedado pelo TJBA foi conferido visualmente; a redação correspondente consta abaixo como variante, atribuída pelo número coincidente e pela identificação, no próprio caderno, de que a edição atualiza a relação e integra os textos do Anexo V. Essa atribuição fica limitada aos números coincidentes e não estende o referendo do CNJ às demais entradas do caderno. Leis e demais normas citadas não geraram registros. A presença no acervo não afirma vigência atual nem atribui efeito vinculante além do que está expresso nas fontes.
+
+## Redação no Caderno I–XIX
+
+**Título na fonte:** Enunciado nº 36. **Fonte:** [Caderno de Enunciados I–XIX do FONAMEC, biênio 2026–2028](https://www.tjba.jus.br/nupemec/wp-content/uploads/2026/08/CADERNO-DE-ENUNCIADOS-FONAMEC-2026.pdf), p. 27 (paginação impressa).
+
+Deverá constar, na notificação encaminhada aos credores, a advertência de que o não comparecimento injustificado à audiência de conciliação ou a presença de procurador sem poderes especiais e plenos para transigir acarretará a aplicação, por força de lei, das sanções previstas no art. 104-A, parágrafo 2º, do Código de Defesa do Consumidor.
+
+**Nota(s) de aprovação, revisão ou justificativa impressa(s):**
+
+Justificativa: A expressa notificação prévia e padronizada dos credores sobre a possibilidade de incidência das sanções contidas no art.104-A, parágrafo 2o do CDC, assegura a preservação do princípio da ampla defesa, do contraditório e da não surpresa. Da mesma forma, contribui com o desenvolvimento da cultura de pacificação social e priorização das soluções autocompositivas, valores fundantes da Resolução n.125 do Conselho Nacional de Justiça e da Lei n.14.181/21, que atualizou o Código de Defesa do Consumidor.
+
+Enunciado aprovado na assembleia realizada em 14/04/2023, em Belo Horizonte/MG, no 13º Encontro do FONAMEC.
+
+A edição se identifica como “I ao XIX FONAMEC”, biênio 2026–2028. A identidade com o registro do Anexo V é atribuída pelo número coincidente e pela identificação expressa do caderno como relação atualizada que integra enunciados referendados no Anexo V. Esta redação é variante da mesma identidade; não é contada como novo registro. A existência de variantes não afirma vigência atual nem força vinculante geral.
