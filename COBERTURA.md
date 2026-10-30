@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.117 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.149 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -19,6 +19,8 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [CJF — IX Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
+
+| [CJF — VIII Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 32 | 32 | 0 |
 | [CJF — VI Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 46 | 46 | 0 |
 | [CJF — VII Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 37 | 37 | 0 |
 | [CJF — V Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 133 | 133 | 0 |
@@ -998,7 +1000,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
-| [CJF](tribunais/CJF/) | 1.639 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/IV/V/VI/VII/IX Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
+| [CJF](tribunais/CJF/) | 1.671 | Consulta de Enunciados — I Extrajudicial e Notarial e Registral e Direito e Processo Penal e Patrimônio Cultural e Natural e Jornadas de Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX Civil, I/II/III/IV Processual Civil e I de Crises Ambientais, I de Seguridade Social |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2254,6 +2256,6 @@ Preservados os prefixos de artigos nos corpos, inclusive “Art.1.431” na nº 
 
 As matérias de saúde, proteção de dados e direitos digitais foram reproduzidas como fonte, sem atualização jurídica. Sem inferência de vigência, vinculação, exaustividade ou titularidade atual de cargos. Normas e julgados citados não receberam IDs. Sem PDF/OCR neste lote; outras publicações continuam pendentes. Somente Markdown público, com evidências privadas.
 
-Delta sobre `6e844c2f` (40.068 registros em 164 órgãos; CJF 1.590): 49 registros e nenhum órgão novo, totalizando 40.117 registros em 164 órgãos e CJF 1.639. A VIII Jornada Civil permanece em PR separado, fora desta conta. FONAJE 328, as 80 transcrições históricas MPAL sem IDs novos e as nove lacunas originais do BNP permanecem.
+Delta sobre `6e844c2f` (40.068 registros em 164 órgãos; CJF 1.590): 49 registros e nenhum órgão novo, totalizando 40.117 registros em 164 órgãos e CJF 1.671. A VIII Jornada Civil permanece em PR separado, fora desta conta. FONAJE 328, as 80 transcrições históricas MPAL sem IDs novos e as nove lacunas originais do BNP permanecem.
 
 Delta do lote HTML sobre `2ed3aae9` (39.946 registros, 164 órgãos, CJF 1.468): 122 registros e nenhum órgão, total esperado de 40.068 registros em 164 órgãos e CJF 1.590. O complemento das três proposições tem delta zero. Apenas Markdown público; capturas e derivados privados.

@@ -1,6 +1,6 @@
 # CJF
 
-Conselho da Justiça Federal. **1.639 registros.**
+Conselho da Justiça Federal. **1.671 registros.**
 
 Enunciados científicos de jornadas publicados no sistema oficial do CJF, com identidade por jornada. Não se confundem com súmulas/temas da TNU, enunciados do FONAJEF, atos do CNJ, da ENFAM ou decisões judiciais do STJ. O catálogo pode reunir outras jornadas, ainda pendentes de integração.
 
@@ -24,6 +24,7 @@ Enunciados científicos de jornadas publicados no sistema oficial do CJF, com id
 | [IV Jornada de Direito Civil](en-civil-iv/) | 122 |
 | [V Jornada de Direito Civil](en-civil-v/) | 133 |
 | [VI Jornada de Direito Civil](en-civil-vi/) | 46 |
+| [VIII Jornada de Direito Civil](en-civil-viii/) | 32 |
 | [VII Jornada de Direito Civil](en-civil-vii/) | 37 |
 | [IX Jornada de Direito Civil](en-civil-ix/) | 49 |
 | [I Jornada de Direito Processual Civil](en-processual-civil-i/) | 107 |
