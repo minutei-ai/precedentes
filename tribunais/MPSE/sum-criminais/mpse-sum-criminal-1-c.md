@@ -14,6 +14,10 @@
 
 A representação ministerial para a perda do posto e da patente nos oficiais e da graduação das praças junto ao Tribunal de Justiça (Câmara Criminal), consoante disposição da parte final do § 4º, do art. 125, da Constituição Federal, somente se justifica nas hipóteses de cometimento de crimes militares.
 
+## Texto no anexo da ata
+
+Na página 3 da ata de 06/04/2022, a mesma redação termina em “miliares”. O PDF individual imprime “militares”. A diferença permanece atribuída às respectivas fontes.
+
 ## Anotação do catálogo
 
 (Texto atualizado com as alterações da Reunião de Trabalho realizada no dia 06 de abril de 2022)

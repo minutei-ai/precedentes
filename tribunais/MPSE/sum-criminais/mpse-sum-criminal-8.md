@@ -8,7 +8,7 @@
 - **Descrição primária:** [Listagem pública do MPSE](https://sistemas.mpse.mp.br/modernizacaoportalbe/api/documentos/listagem?pagina=1&tamanho=60&tipoDocumentoId=117)
 - **Título do item do catálogo:** Súmula de Entendimento nº 08.
 - **Documento:** [PDF oficial](https://sistemas.mpse.mp.br/modernizacaoportalbe/api/documentos/42899/arquivo), página 1 de 1
-- **Situação atribuída à fonte:** Texto publicado no catálogo e/ou PDF, sem classificação independente de vigência atual.
+- **Situação atribuída à fonte:** O PDF imprime “(ATUALIZADA)”, 06.04.2022. A redação anterior não foi recuperada. Não se classifica vigência atual.
 
 ## Texto do PDF
 
