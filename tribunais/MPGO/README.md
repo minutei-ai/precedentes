@@ -9,3 +9,7 @@ O acervo reúne três séries de emissores distintos: 13 enunciados da Comissão
 | [Enunciados da CEP](en-cep/) | 13 |
 | [Enunciados SUBJUR](en-subjur/) | 41 |
 | [Enunciados ANPP](en-anpp/) | 15 |
+
+## Documento histórico
+
+[Enunciados de acordo de não persecução cível — PGJ, 04/09/2020](documentos-anpc-2020/): apresentação, 22 enunciados e justificativas nas 18 páginas. Documento comum sem novos IDs enquanto pendente a conciliação com a numeração posterior SUBJUR. Os dois complementares referidos em outra página institucional não foram recuperados.
