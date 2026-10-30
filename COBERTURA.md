@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.099 registros únicos de 174 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.138 registros únicos de 175 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -13,6 +13,12 @@ A página institucional da [AJUFE — FONEF](https://www.ajufe.org.br/foruns/fon
 A consulta encontrou 42 enunciados numerados (1–42) e 27 recomendações (1–27). As páginas de série atribuem os enunciados às edições I–IV nas quantidades 19, 7, 13 e 3; para recomendações, 14, 2, 9 e 2. A notícia oficial do [TRF1 sobre o III FONEF](https://trf1.jus.br/trf1/noticias/?id=11505) informa 14 enunciados e nove recomendações. A listagem da AJUFE apresenta 13 enunciados novos do III FONEF e também marca o Enunciado nº 14 com nova redação aprovada nesse encontro, preservando a redação anterior no mesmo número. A divergência de contagem fica atribuída às fontes: não foi criado número adicional nem duplicada uma versão do nº 14. A listagem da AJUFE foi usada para o texto dos itens; a notícia do TRF1 foi usada apenas como evidência atribuída da contagem publicada.
 
 Os 42 enunciados e as 27 recomendações foram registrados em séries próprias do FONEF/AJUFE. O FONEF é o Fórum Nacional de Execução Fiscal promovido pela AJUFE, distinto do [Fórum Nacional de Juízes de Execução Fiscal do CNJ](https://www.cnj.jus.br/agendas/i-jornada-do-forum-nacional-de-juizes-de-execucao-fiscal/) e dos enunciados da I Jornada em 22/08/2025, do FONAJEF e de órgãos hospedeiros ou destinatários como CJF, CNJ e TRFs. A notícia do TRF1 não altera a autoria dos itens. As quantidades descrevem as listagens consultadas; não demonstram exaustividade, vigência atual ou força vinculante. Nenhum bloco de proposta legislativa separado foi convertido em identificador.
+
+## FONAMEC
+
+Foram integrados 39 enunciados do FONAMEC, nos números 1–3, 5–11, 14–21, 23–24, 28–30, 32–34 e 36–48, conforme o Anexo V do texto consolidado da [Resolução CNJ nº 125/2010](https://atos.cnj.jus.br/atos/detalhar/156). A [Resolução CNJ nº 686/2026](https://atos.cnj.jus.br/atos/detalhar/258) incluiu esse Anexo, que identifica os enunciados como referendados pelo Plenário e declara aplicabilidade restrita à Justiça Estadual. Atribuímos os textos ao FONAMEC, seu emissor; não ao TJBA, que hospeda uma cópia do caderno, nem ao CNJ, que referendou esse subconjunto.
+
+O [portal NUPEMEC/TJBA](https://www.tjba.jus.br/nupemec/legislacao/) liga o Caderno de Enunciados I–XIX; a página de [chamamento do CNJ](https://www.cnj.jus.br/poder-judiciario/chamadas-publicas/enunciados-do-forum-nacional-de-mediacao-e-conciliacao-fonamec/) também remete a essa edição e descreve o XX FONAMEC previsto para novembro de 2026. O caderno completo não foi visualmente conferido nesta coleta, portanto não foram integrados outros enunciados, recomendações ou históricos a partir dele, nem propostas do XX encontro como aprovadas. O FONAMEC é distinto do FONEF, FONAREF, FONAPREC e FONAVID. A presença no acervo não declara vigência atual nem força vinculante geral.
 
 Sobre a main `702755c402b835aa3bd493bd80c486e0a6863678` (42.013 registros em 171 órgãos), o lote acrescenta 69 registros e um órgão: total de 42.082 registros em 172 órgãos. Permanecem os 176 registros FONAJUS, 137 do JFRJ, 186 FOREJEF, 430 do TRF04, 36 FONAREF e os 19 identificadores FONAREF explícitos já incorporados. As nove lacunas iniciais do BNP permanecem.
 
@@ -70,6 +76,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
 | [AJUFE — Enunciados FONEF](https://www.ajufe.org.br/foruns/fonef/enunciados-fonef) | 42 | 42 | 0 |
 | [AJUFE — Recomendações FONEF](https://www.ajufe.org.br/foruns/fonef/recomendacoes-fonef) | 27 | 27 | 0 |
+| [FONAMEC — Anexo V da Resolução CNJ nº 125/2010](https://atos.cnj.jus.br/atos/detalhar/156) | 39 | 39 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
 | [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
@@ -1061,6 +1068,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CJF](tribunais/CJF/) | 1.872 | Consulta de Enunciados — I e II Jornadas de Prevenção e Solução Extrajudicial, Notarial e Registral, Direito e Processo Penal, Patrimônio Cultural e Natural, Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, Jornadas I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX/X Civil, Processual Civil I/II/III/IV, Crises Ambientais I e Seguridade Social I |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [FONEF](tribunais/FONEF/) | 69 | AJUFE — 42 enunciados e 27 recomendações do Fórum Nacional de Execução Fiscal; listagens HTML consultadas pelo leitor web integrado, proveniência derivada |
+| [FONAMEC](tribunais/FONAMEC/) | 39 | FONAMEC — enunciados do Anexo V da Resolução CNJ nº 125/2010, incluído pela Resolução CNJ nº 686/2026 |
 | [MPBA](tribunais/MPBA/) | 10 | MPBA — Súmulas do Conselho Superior no catálogo HTML oficial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2494,3 +2502,7 @@ Sobre a main `3f877c7abd27ac45f932bd7cf144876bca7c5790`, com 41.670 registros em
 ### Conciliação CRSFN/CRSNSP com a base atual
 
 A main `4b2f05fc4952f10bf0afd42d3ed8ef41923364af`, já com os 176 registros FONAJUS e os 69 FONEF, tem 42.082 registros em 172 órgãos. O lote CRSFN/CRSNSP soma 17 registros em dois órgãos próprios: 6 súmulas CRSFN, 6 súmulas CRSNSP e 5 enunciados históricos CRSNSP, em série separada. O total reconciliado é 42.099 registros em 174 órgãos. Os 176 FONAJUS, os 69 FONEF, os 409 TRF02, os 232 TRF04 e os identificadores explícitos dos 19 registros Fonaref foram preservados. Os números da base anterior descritos na seção de coleta são históricos; não indicam a contagem atual. O delta público deste lote fica restrito aos dois órgãos, README e cobertura; nenhum registro da main é removido. As nove lacunas iniciais do BNP permanecem.
+
+## Integração do FONAMEC
+
+Sobre a main `5c7e878ecdf17035c60a5e9d2fb9cc19e4f93040`, com 42.099 registros em 174 órgãos, esta integração acrescenta 39 enunciados do FONAMEC e um órgão: total de 42.138 registros em 175 órgãos. O escopo se limita aos números presentes no Anexo V da Resolução CNJ nº 125/2010. Os demais dados, inclusive as nove lacunas iniciais do BNP, foram preservados; a edição integral do Caderno I–XIX não foi visualmente conferida e permanece fora desta integração.
