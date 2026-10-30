@@ -24,12 +24,14 @@ Dois endereços de categorias encontrados no índice de busca responderam 404; a
 
 ## Documentos vinculados e pendências
 
-A página liga atas dos três Forecrim e o Livro do II Forecrim. O complemento documental contém as [seis proposições do I Forecrim](forecrim-i-proposicoes.md), com delta zero. Foram lidas visualmente as páginas 80–82 e 84–87 da ata I, incluindo deliberações e quadro consolidado; não o caderno inteiro. Também foram lidas visualmente as cinco páginas do documento ligado como ata III, que se intitula como enunciados e recomendações aprovados. Ele confirma os números 23–31, as recomendações 1–9, a requalificação de 21/22 e o corpo riscado do nº 4. As versões documentais foram acrescentadas nos mesmos registros, sem novos IDs. A ata II e o livro continuam sem leitura neste lote:
+A página liga atas dos três Forecrim e o Livro do II Forecrim. O complemento documental contém as [seis proposições do I Forecrim](forecrim-i-proposicoes.md), com delta zero. Foram lidas visualmente as páginas 80–82 e 84–87 da ata I, incluindo deliberações e quadro consolidado; não o caderno inteiro. Também foram lidas visualmente as cinco páginas do documento ligado como ata III, que se intitula como enunciados e recomendações aprovados. Ele confirma os números 23–31, as recomendações 1–9, a requalificação de 21/22 e o corpo riscado do nº 4. As versões documentais foram acrescentadas nos mesmos registros, sem novos IDs. A ata II teve somente as páginas 1, 249, 260 e 268 inspecionadas visualmente; o restante e o livro continuam pendentes:
 
 - [Ata do I Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2025/11/18/20251118_8DFC90_Ata_do_I_FORECRIM.PDF).
 - [Ata do II Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2025/11/18/20251118_35CFBE_Ata_do_II_FORECRIM.PDF).
 - [Ata do III Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2026/06/10/20260610_A85442_Ata_III_FORECRIM.PDF).
 - [Livro do II Forecrim](https://arquivos.trf5.jus.br/TRF5/GMF__Atos_Normativos/2026/05/20/20260520_0DBF8F_Livro_do_II_FORECRIM.PDF).
+
+O arquivo ligado como ata II tem 268 páginas, sem camada textual utilizável na extração. As páginas inspecionadas apresentam o rodapé “Texto produzido com uso de IA (Escriba@JFRN)”: a página 1 traz resumo, e 249, 260 e 268 trazem falas com marcações de tempo. Esse material não foi usado para transcrever ou corrigir enunciados, identificar redações históricas ou atribuir deliberações. A inspeção parcial não demonstra ausência de deliberações nas demais páginas. As duas capturas responderam HTTP 200, 158.896.266 bytes cada e SHA-256 `cc4f591021b17a70cb8418f1d51fc76de94775aa9342c39e1c78ac2641e16517`.
 
 O par da ata III respondeu HTTP 200, 1.015.417 bytes cada e SHA-256 `d3bb39dffab151ecfee83383f4b39123a5d4069db89aad56d707d08a643fcf19`. As cinco páginas foram lidas sem OCR.
 
