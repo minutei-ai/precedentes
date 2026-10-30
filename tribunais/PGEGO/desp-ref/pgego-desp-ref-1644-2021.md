@@ -318,7 +318,6 @@ para os prazos e providências relacionadas no art. 72 da Lei 17.928/2012;[2] (i
 ao órgão competente para apreciação e tomada de contas devem ser objeto de consulta à Procuradoria-
 Geral do Estado em prazo razoável, evitando-se a paralisação de processos e a inércia administrativa; (iii)
 em caso de omissão do convenente na prestação de contas, o órgão concedente deverá cumprir as
-3                                         4
 determinações contidas no art. 75 da Lei 17.928/2012[3] e art. 14 da Lei 8.429/1992;[4] (iv) se tiver
 elementos suficientes para caracterização de dano ao erário e esgotadas as medidas administrativas para
 reparação espontânea dos prejuízos, o órgão concedente poderá solicitar o ajuizamento de ação de
