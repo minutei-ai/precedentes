@@ -1,10 +1,48 @@
 # PGEGO — Despachos referenciais
 
-Vinte e sete documentos da Procuradoria-Geral do Estado de Goiás, publicados no [catálogo de Entendimentos e orientações da CGE/GO](https://goias.gov.br/controladoria/entendimentos-e-orientacoes/). A PGE/GO é a emissora; a CGE/GO é a hospedeira. Esta série permanece separada das 22 súmulas administrativas já incorporadas.
+Cinquenta e quatro documentos da Procuradoria-Geral do Estado de Goiás, publicados no [catálogo de Entendimentos e orientações da CGE/GO](https://goias.gov.br/controladoria/entendimentos-e-orientacoes/). A PGE/GO é a emissora; a CGE/GO é a hospedeira. Esta série permanece separada das 22 súmulas administrativas já incorporadas.
 
-O catálogo contém 115 linhas documentais não vazias: 109 despachos atribuídos a PGE ou PGE/GO, um acórdão do TCE e cinco pareceres de outros emissores. A série reúne quatro despachos de 2019 (16 páginas), 14 rotulados em 2023 (111 páginas), dois em 2024 (16 páginas) e sete em 2025–2026 (59 páginas), totalizando 27 documentos e 202 páginas físicas. As outras 88 linhas não foram incorporadas nem declaradas lidas. Rótulos distintos que apontam ao mesmo PDF em 2021 continuam pendentes de identidade.
+O catálogo contém 115 linhas documentais não vazias: 109 despachos atribuídos a PGE ou PGE/GO, um acórdão do TCE e cinco pareceres de outros emissores. A série reúne quatro despachos de 2019 (16 páginas), 27 documentos de 2021 (205 páginas), 14 rotulados em 2023 (111 páginas), dois em 2024 (16 páginas) e sete em 2025–2026 (59 páginas), totalizando 54 documentos e 407 páginas físicas lidas. As 27 identidades de 2021 correspondem a 29 linhas do catálogo: os rótulos 1668 e 1674 apontam ao mesmo PDF 1674; os rótulos 1399 e 1290, ao PDF 1290. Não foram criados IDs para 1668 ou 1399 sem documento próprio. As outras 59 linhas do catálogo não estão incorporadas nesta árvore; os lotes abertos de 2020 e 2022 ficam fora da contagem.
 
 As duas capturas HTML são idênticas: HTTP 200, 297215 bytes, SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF foi capturado duas vezes com bytes e SHA-256 coincidentes. Capturas em 30/10/2026 (UTC); os derivados permanecem privados.
+
+## Despachos referenciais de 2021
+
+Foram lidas visualmente as 205 páginas dos 27 PDFs. As camadas textuais apoiaram 26 transcrições; o nº 1290 foi transcrito manualmente das imagens, sem OCR. No PDF desse nº, as páginas 1–12 contêm o despacho e as páginas 13–24 contêm o Parecer PROCSET nº 591/2021: o parecer foi lido, mas sua transcrição permanece pendente. O despacho conhece e aprova o parecer apenas parcialmente; ele não foi apresentado como continuação integralmente aprovada.
+
+| Despacho | Páginas físicas lidas | Bytes por captura | SHA-256 do PDF |
+| --- | ---: | ---: | --- |
+| [1644/2021](pgego-desp-ref-1644-2021.md) | 9 | 339394 | `8cc4592e72c5e9c7109899c63676329e11ae6c5bb378307c8543c2b0ff30abe1` |
+| [1988/2021](pgego-desp-ref-1988-2021.md) | 6 | 200705 | `071f60f3408b139f1cd2024eeb49543ab1759c3b385934ae052f9c138af7ef0d` |
+| [1906/2021](pgego-desp-ref-1906-2021.md) | 10 | 272850 | `5303403facae9ba4fdbfd967a776ecbea7ce886f1e71518380317e116ccad70a` |
+| [1683/2021](pgego-desp-ref-1683-2021.md) | 4 | 988256 | `fcc43b8ceb9055daf74d9484f47b6ce369933ffcfc08e406c6bca4bad30c402e` |
+| [1674/2021](pgego-desp-ref-1674-2021.md) | 21 | 676499 | `b40192bd7271f9dfc8f70a2ab2749e2476de1ef62e3c78dd9b4ec8201aa0efdf` |
+| [1350/2021](pgego-desp-ref-1350-2021.md) | 9 | 354451 | `b3ab89cf1d75b46b9e9507cc665bf94fa3b2101ca8557a504675572c60c2de89` |
+| [1526/2021](pgego-desp-ref-1526-2021.md) | 16 | 511447 | `f9070cfc9e076144d2cfa7714793b38ffc165b5e202ca144c98acc26a1bc72f3` |
+| [1290/2021](pgego-desp-ref-1290-2021.md) | 24 | 23924958 | `6408ce34e06df85cc6b17e02b852d4c1fdc395cece59dc75e4b588fd2f1fb2af` |
+| [1308/2021](pgego-desp-ref-1308-2021.md) | 21 | 619731 | `522155bede026803ab0a79356ae35e9820eddc9fd70e25f9bf760f242333c257` |
+| [1197/2021](pgego-desp-ref-1197-2021.md) | 3 | 221216 | `8870a08c6e1563d9b5f5df84a4e052b2d93fd7f1769abf644ff5ccc4ab54bc09` |
+| [1190/2021](pgego-desp-ref-1190-2021.md) | 4 | 220791 | `929d02fdf5e5c61222d4c674f380fb014a4fef7b2693f627e0bf1d879b7b785e` |
+| [1181/2021](pgego-desp-ref-1181-2021.md) | 5 | 223472 | `93a8ef6ef5e38be375fba0524c127aa127299a668086ead8d73465ec9dc26a08` |
+| [934/2021](pgego-desp-ref-934-2021.md) | 5 | 272352 | `778b9899b12af930f1bf5bb1b8bcd4d9b6175337ad15bf5fa543204c23f2d316` |
+| [919/2021](pgego-desp-ref-919-2021.md) | 6 | 298312 | `9f7ffdf4efefef34cab18266e6fb6b4fc9c965dbb90a13d2517aac4ade215fa3` |
+| [888/2021](pgego-desp-ref-888-2021.md) | 5 | 260367 | `7a96075e1367db74f07b9f0663bae6a6abac877fcfd7fcf7de2e8d813c9dfead` |
+| [832/2021](pgego-desp-ref-832-2021.md) | 5 | 222625 | `a8652fb3263c14cf28146831a53f4678397349b22f039d975c132ac23b543944` |
+| [772/2021](pgego-desp-ref-772-2021.md) | 5 | 222385 | `3eb12cf39398297ac95b69161680e77955229ee24256711d3d97ef2388cddc94` |
+| [554/2021](pgego-desp-ref-554-2021.md) | 6 | 270561 | `cdc9aae8ced864f7be993f162beb06c22e37083d9c28db1d44e83d84371c182c` |
+| [512/2021](pgego-desp-ref-512-2021.md) | 4 | 269864 | `035a9b0c413965d0a734b83adfd7a3c1d3b13db381ec3b21f20514079179cecf` |
+| [489/2021](pgego-desp-ref-489-2021.md) | 2 | 193967 | `04ed8cc4b3a9cd0e8779c894f80240c534d4fdb525b746cff4187d0731346f0c` |
+| [475/2021](pgego-desp-ref-475-2021.md) | 2 | 206317 | `754263de481b2d6b2e4a8f355f88e65eb2005fc702296d88ba46ab9c73b55dad` |
+| [336/2021](pgego-desp-ref-336-2021.md) | 5 | 267841 | `f9e0051ee318571ac837c0c35916ad3103c101eea37bb2367ded55e5cdc7a1bd` |
+| [262/2021](pgego-desp-ref-262-2021.md) | 12 | 253106 | `f0d7aa6789c2f2d8e9ad5e97f372f7f367d06fc3d4cd510942e5f1e4f65ae1da` |
+| [258/2021](pgego-desp-ref-258-2021.md) | 3 | 207817 | `0587e0dccfb0c606ce7c7b5254eed33460a37eb0e22f4a245fa9a6fcaf803ccb` |
+| [247/2021](pgego-desp-ref-247-2021.md) | 4 | 185512 | `fc0bcd153f47a479bab6f38362b34362d95f102f8e1d9b3fa0ea4a7394283847` |
+| [114/2021](pgego-desp-ref-114-2021.md) | 5 | 386210 | `c111b980484448bde155e75248cb7150faae16589507e5cd5c91e51624ef8956` |
+| [8/2021](pgego-desp-ref-8-2021.md) | 4 | 340152 | `8ee2c5be12fe849ec96cc7e0931bf854ed25ee340cac5017648bb413180bb246` |
+
+As 54 capturas retornaram HTTP 200 e coincidem em bytes e SHA-256 dentro de cada par. Os recibos, imagens e PDFs permanecem privados. Uma tentativa anterior do nº 1290 expirou em TLS; a repetição concluída retornou HTTP 200 e coincidiu com a primeira captura, sem ocultar o erro no recibo privado.
+
+Foram mantidos riscos de redações antigas nos nºs 1674, 262 e 336, as notas e suas continuações, as enumerações e grafias da fonte. Tarjas não foram recuperadas da camada textual. Dados pessoais, autenticação e caminhos locais de impressão foram omitidos; nomes e funções públicas não tarjados foram conservados. No nº 1290, permanecem os dois itens 6 da ementa e as divergências impressas. Nenhum ato apenas citado recebeu ID novo. Não se infere vigência, efeito vinculante ou completude.
 
 ## Despachos referenciais de 2019
 
