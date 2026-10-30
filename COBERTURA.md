@@ -1,10 +1,18 @@
 # Cobertura
 
-**42.715 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.753 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## TRF05 — catálogo Forecrim
+
+O [Portal GMF do TRF5](https://www.trf5.jus.br/index.php/gmf) liga à [página Eventos do Forecrim](https://www.trf5.jus.br/index.php/eventos-do-forecrim). As duas tabelas visíveis têm 31 posições de enunciados e nove recomendações. As recomendações 01 e 02 expressamente requalificam os enunciados 21 e 22; cada par permanece no mesmo ID, com corpo, risco e anotações históricos. O lote soma **38 identidades: 29 enunciados e nove recomendações**. A cópia oculta para exportação não foi somada novamente.
+
+Os campos, corpos e notas foram lidos nas duas capturas HTML e cotejados com os registros. Os pares respondem HTTP 200, com 118.789 bytes e SHA-256 idêntico. A página imprime atualização editorial de 24/09/2026 e atribui as aprovações ao curso de 2023 e aos Forecrim I, II e III, em datas distintas. O enunciado 04 mantém o aviso de cancelamento fora do corpo riscado; os avisos de requalificação de 21/22 ficam nas fichas das recomendações. Atas, livro, provimento e outras publicações apenas vinculadas permanecem pendentes de leitura. Não se inferem vigência, vinculação, exaustividade ou adoção individual pelo Tribunal; nenhum ato apenas citado recebeu ID. [Proveniência comum](tribunais/TRF05/forecrim-proveniencia.md).
+
+Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, confirmada na consulta pública do GitHub, o delta é +38 registros e +0 órgãos: **42.753 registros em 185 órgãos**, TRF05 **64**. Os lotes MPES e MPSE ainda não integrados não entram na conta. A conferência é focada, sem nova auditoria global; as nove lacunas iniciais do BNP permanecem. Apenas Markdown público; capturas e derivados privados.
 
 ## MPCSC — enunciados
 
@@ -169,6 +177,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [TRF05 — Catálogo Forecrim](https://www.trf5.jus.br/index.php/eventos-do-forecrim) | 40 posições / 38 identidades | 38 | 0 |
 | [MPCSC — Enunciados](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) | 2 | 2 | 0 |
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
@@ -1144,7 +1153,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
-| [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
+| [TRF05](tribunais/TRF05/) | 64 | 4 | 4 |
 | [TRF06](tribunais/TRF06/) | 92 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
 | [TJAL](tribunais/TJAL/) | 14 | 4 | 4 |
