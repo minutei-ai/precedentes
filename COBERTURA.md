@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.563 registros únicos de 181 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.566 registros únicos de 182 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -54,6 +54,7 @@ Campos tarjados nos nºs 573, 779 e 1470 não foram recuperados; o CPF parcial d
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
 | [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
 | [PGE/GO — sete despachos referenciais de 2025–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 7 documentos / 59 páginas | 7 | 0 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
@@ -1110,6 +1111,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [PROCONSP](tribunais/PROCONSP/) | 3 | Fundação PROCON/SP — três PDFs oficiais ligados no catálogo de legislação |
 | [Fórum dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/) | 25 | I Jornada — caderno final hospedado pelo CNJ; órgão distinto do FONEF/AJUFE |
 | [PGEES](tribunais/PGEES/) | 58 | PGE/ES — catálogo HTML de enunciados administrativos CPGE, números 01–58 |
 | [FONAJUS](tribunais/FONAJUS/) | 176 | FONAJUS/CNJ — números 1–176 em uma identidade cada, com histórico atribuído e fontes da VI, VII e VIII Jornadas |
@@ -2620,3 +2622,9 @@ Os PDFs oficiais retornaram HTTP 200 em pares de capturas privadas byte a byte i
 Os cadernos identificam as Jornadas como emissoras documentais, publicadas pelo TRF2, e descrevem os textos como doutrinários, sem força persuasiva técnico-jurídica e sem representar posição do Tribunal ou de seus membros. A hospedagem não os converte em precedentes do TRF2. As séries da JFRJ e dos FOREJEF permanecem distintas. Não se afirma vigência atual, vinculação ou completude.
 
 Sobre a main atual `b6f29218c3f0`, cujo README registra 42.377 registros e 180 órgãos após a integração de sete despachos referenciais da PGE/GO, esta integração acrescenta 145 registros e nenhum órgão: 42.522 registros e 180 órgãos esperados. O TRF02 passa de 409 para 554. As nove lacunas iniciais do BNP permanecem; o quadro BNP desta linha continua 24/24. As contagens editoriais mencionadas em resumos anteriores refletem snapshots distintos e não alteram o delta desta conciliação. Apenas Markdown é publicado; PDFs, imagens, scripts, extrações e recibos ficam na evidência privada `trf02-jornadas-dhf-20261030`.
+
+## PROCON/SP — três enunciados de súmula
+
+O catálogo oficial liga três PDFs sob “Súmulas Vinculantes”. As duas capturas HTML são idênticas, HTTP 200, 1.670.179 bytes, SHA-256 `b651d7567de4decd8c537a55a41317376176581733e805ebb0400b20b9295b9d`. Cada PDF foi capturado em duas respostas HTTP 200 idênticas; bytes e hashes individuais estão nas fichas. Li visualmente as três páginas físicas, uma por PDF. O nº 1 foi cotejado com a camada textual; os nºs 2 e 3 foram transcritos manualmente das imagens, sem OCR. Preservados o título 01/2019, os títulos 02 e 03 sem ano, os fechos de 2019 e 2020, o fecho sem ponto dos nºs 2 e 3, a aspa final do corpo do nº 1 e o plural “PAGAMENTOS” do nº 2. Cabeçalhos, brasões e rodapés de contato/código de arquivo ficaram de fora; nomes e funções públicas permanecem.
+
+Sobre a main `669cf364adfa339c027e39d49f16e421781fba7c`, 42.563 registros em 181 órgãos, o delta é +3 registros e +1 órgão: projeção de 42.566 registros em 182 órgãos, sem nova auditoria global. As nove lacunas iniciais do BNP permanecem. Outras versões e normas apenas citadas continuam pendentes. “Vinculante” é denominação da fonte; não se inferiu efeito independente, vigência ou completude. Somente Markdown é publicado; PDFs, imagens e recibos permanecem privados.
