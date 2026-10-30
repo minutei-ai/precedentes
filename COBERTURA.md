@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.484 registros únicos de 170 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.660 registros únicos de 171 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [FONAJUS — Enunciados de Direito da Saúde](tribunais/FONAJUS/en-saude/) | 176 | 176 | 0 |
 | [FONAPREC — Enunciados do Fórum Nacional de Precatórios](https://www.cnj.jus.br/programas-e-acoes/precatorios/enunciados/) | 15 | 15 | 0 |
 | [CNJ — I Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2023/03/1o-caderno-de-enunciados-fonaref-portal.pdf) | 15 | 15 | 0 |
 | [CNJ — II Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2024/05/enunciados-aprovados-rejeitados-2o-fonaref.pdf) | 4 | 4 | 0 |
@@ -1027,6 +1028,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [FONAJUS](tribunais/FONAJUS/) | 176 | FONAJUS/CNJ — números 1–176 em uma identidade cada, com histórico atribuído e fontes da VI, VII e VIII Jornadas |
 | [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
 | [FONAREF](tribunais/FONAREF/) | 36 | 1º, 2º e 3º Congressos, em séries independentes |
 | [ENFAM](tribunais/ENFAM/) | 62 | Seminário O Poder Judiciário e o novo CPC (2015), reprodução no catálogo STJ |
@@ -2419,3 +2421,19 @@ O prefácio do primeiro caderno e a abertura da seção de enunciados dizem quin
 O PR #143 integrou à main `b9ecffa25` os 17 enunciados do III Congresso e acrescentou o órgão FONAREF: 41.450 registros em 169 órgãos, partindo da main `20365a10847f57027bc987f236b6a89799ead487` com 41.433/168. O PR #145 integrou mais 19 registros dos Congressos I e II, sem órgão novo, levando a main a 41.469/169. As nove lacunas do catálogo inicial do BNP permanecem.
 
 Os 17 registros do III Congresso permanecem na série independente e foram preservados durante o merge comum da main avançada. Os três congressos ficam no mesmo órgão FONAREF, contado uma única vez. As capturas e demais evidências continuam privadas; a cobertura nacional permanece parcial.
+
+
+## FONAJUS — enunciados de Direito da Saúde
+
+Na base `7167dc1940fe83fa3d0da3416a4607aee156eb50` havia 41.484 registros únicos de 170 órgãos. Esta integração acrescenta 176 identidades, numeradas explicitamente de 1 a 176, e um órgão próprio: total de 41.660 registros em 171 órgãos. A série do FONAJUS/CNJ é separada dos 47 enunciados da I Jornada de Direito da Saúde já catalogados pelo CJF; nenhum registro do CJF foi alterado. As nove lacunas do catálogo inicial do BNP permanecem inalteradas.
+
+| Fonte incorporada | Recorte e paginação | Verificação e atribuição |
+| --- | --- | --- |
+| [Compilação do CNJ, 21/05/2025](https://www.cnj.jus.br/wp-content/uploads/2025/05/enunciados-sobre-direito-da-saude-v1-2025-05-21.pdf) | PDF, 40 páginas; números 1–147, corpos nas pp. 5–34 | Duas capturas HTTP 200, 800.540 bytes cada, SHA-256 `2945878de8b54f3d0118897dc979aed98d7ad6e835c9e1d840617f31c4af89d4`; comparação visual com camada textual. |
+| [VI Jornada, PDF do CNJ](https://www.cnj.jus.br/wp-content/uploads/2023/04/enunciados-aprovados-vi-jornada-saude.pdf) | PDF, 4 páginas; versões históricas aplicáveis e números 104–117 | Duas capturas HTTP 200, 57.387 bytes cada, SHA-256 `b418f4da4dcd4790934ca0ab73386624916d7ab94b7c39563e37eb1b7f799f9`; comparação visual com camada textual. |
+| [VII Jornada, consolidação final do CNJ](https://www.cnj.jus.br/wp-content/uploads/2025/02/enunciados-vii-jornada-da-saude-consolidacao-votajud-v-6-5-25.pdf) | PDF, 12 páginas; 30 novos números 118–147, 12 revisões e 6 revogações | Duas capturas HTTP 200, 187.320 bytes cada, SHA-256 `abecf506a76a23a87213c6bf1f951ad2c0b7c842e2d14d38a45bbcd5ecb80c33`; comparação visual com camada textual. |
+| [VIII Jornada, documento hospedado pelo TJAM](https://www.tjam.jus.br/images/Comit%C3%AA_de_Sa%C3%BAde/ENUNCIADOS_NOVOS_e_Revis%C3%B5es_2026_aprovados_na_VIII_Jornada_17.6_2026.pdf) | PDF, 10 páginas; 29 novos números 148–176 e 11 revisões | Duas capturas HTTP 200, 284.858 bytes cada, SHA-256 `15e06d68c516dd5afd5676068f827ea9db8a415916bbf4891649df562af5205d`; comparação visual com camada textual. A hospedagem pelo TJAM não altera a atribuição à Jornada/FONAJUS-CNJ. |
+
+As 40 páginas da compilação, as 4 da VI, as 12 da VII e as 10 da VIII foram conferidas visualmente contra as imagens fornecidas e comparadas à camada textual já existente. Não houve nova renderização, extração ou OCR. A camada textual da compilação contém “off labcl” no nº 5, enquanto a imagem da p. 5 imprime “off label”; prevaleceu a forma visual. O cabeçalho da p. 23 imprime “ENUNCIANDO Nº 100”, mantendo-se o número explícito. O documento da VIII Jornada contém realces amarelos nos números 12, 109, 155 e 175; o destaque foi registrado sem inferir status. Foram preservados erros, riscos, notas e referências, inclusive “custoefetividade”, “RDC nº 344 da ANVISA”, “juizo”, “ANS 623/2024”, “caso concreto..”, “red14e conveniada”, “AFONCO”, a quebra do nº 175 entre páginas e o resultado de votos impresso no nº 56. Corpos sem conteúdo, como avisos, não foram reconstruídos. Não se afirma vigência, efeito vinculante, exaustividade ou status atual; referências a outros atos não geraram registros.
+
+A página do [MPPR](https://site.mppr.mp.br/saude/Pagina/Enunciados-Fonajus-CNJ) foi consultada para cotejo, mas a reprodução não foi usada para compor textos nem identidades. O HTML preservado (.field--name-field-texto) tem 105.728 bytes e SHA-256 `b7b69c4fc475e8c2a54b63836e877ed473e2c96ed8ccc70dfa73bd0d585618fa`, sem paginação; o conteúdo visível da captura salta os nºs 5 e 100, o que não demonstra ausência. A compilação do CNJ fornece ambos. CPF, RG, matrícula pessoal, chaves, CRC e dados de validação foram omitidos; nomes e cargos públicos foram mantidos. PDFs, imagens, recibos e capturas permanecem na evidência privada, fora do repositório.
