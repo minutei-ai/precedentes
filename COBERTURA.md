@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.715 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.725 registros únicos de 186 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -230,6 +230,8 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [MPAC — Enunciados do CSMP, documentos 7 a 16](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 10 | 10 | 0 |
 | [MPRS — Encontro Estadual da Infância e Juventude de 2005, Anexo Único da Resolução 05/2007](https://www.mprs.mp.br/legislacao/resolucoes/3670/) | 62 | 62 | 0 |
 | [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
+| [MPES — Súmulas do Colégio de Procuradores](https://mpes.mp.br/sumulas/) | 5 na página | 5 | 0 |
+| [MPES — Súmulas do Conselho Superior](https://mpes.mp.br/csmp-sumulas/) | 24 no catálogo | 5 | 19 sem inteiro teor recuperado; 3 enunciados em série distinta também pendentes |
 | [MPSC/GEDCLIMA — Compilado de enunciados aprovados, 2025](https://www.mpsc.mp.br/documents/d/guest/compilacao-de-enunciados-aprovados-gedclima-mpsc) | 5 | 5 | 0 |
 | [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
@@ -1256,6 +1258,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
 | [MPGO](tribunais/MPGO/) | 84 | MPGO — 15 súmulas CSMP, 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias |
+| [MPES](tribunais/MPES/) | 10 | MPES — 5 súmulas COPJ e 5 CSMP, com variantes e atos de alteração nos mesmos IDs |
 | [MPSC](tribunais/MPSC/) | 25 | MPSC — 17 enunciados CRC, 3 FRBL e 5 GEDCLIMA, em séries próprias |
 | [MPCSC](tribunais/MPCSC/) | 2 | MPCSC — dois enunciados próprios, distintos do MPSC e do TCESC |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
@@ -1334,7 +1337,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPES, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
 
@@ -2774,3 +2777,13 @@ Cinco enunciados 01–05/2024 do Grupo Especial de Defesa dos Direitos Relaciona
 As duas capturas do PDF responderam HTTP 200, com 773.537 bytes e SHA-256 `dac352d47e7eb34c27d9a261ccfcf50cc6cf45c48cf9c2229a969291312b9181`. As 27 páginas físicas foram lidas visualmente; a camada textual foi apoio, sem OCR. Capa na página 1; 01 nas páginas 2–9 e anexo nas 9–16; 02 nas 17–19; 03 nas 20–22; 04 nas 23–25; 05 nas 26–27. O quadro nas páginas 5–6 e o anexo preservam a disposição textual das colunas. Notas e grafias literais permanecem, inclusive a readequação do nº 01 em 07/04/2025 e a referência `12.608/20124` na manifestação do nº 04. A redação anterior do nº 01 não foi recuperada. Diários, atas, estudos, atos e precedentes apenas citados não foram lidos autonomamente nem receberam IDs.
 
 Não se infere vigência atual, força vinculante, completude ou atualidade jurídica e estatística. Sem CPF, RG, matrícula pessoal ou autenticação publicados. As evidências são privadas e o delta público contém somente Markdown. Sobre a main `f290c179ca418b4c8e545d28ecb50588474c95fa`, com 42.681 registros em 184 órgãos, o delta é +5/+0: total esperado 42.686/184, MPSC 25. MPGO 84, PGEGO 102, ANCINE 20 e ANP 7 permanecem. Os PRs 170 e 176, ainda abertos, ficam fora da conta. As nove lacunas iniciais do BNP permanecem. Verificação focada de textos, IDs, links e diff; sem nova auditoria global.
+
+## MPES — súmulas do Colégio de Procuradores e do Conselho Superior
+
+Dez identidades em órgão próprio: cinco súmulas COPJ (001–004/2016 e 005 de 05/11/2018), com corpos e notas do [HTML oficial](https://mpes.mp.br/sumulas/); e cinco súmulas CSMP (7, 8, 11, 23 e 24), do [catálogo](https://mpes.mp.br/csmp-sumulas/), de quatro PDFs consolidados, dois atos de alteração e do HTML integral do nº 11. Os atos não receberam IDs adicionais. O emissor COPJ não se confunde com CSMP; MPES não se confunde com TJES, TCEES, MPSC ou MPCSC.
+
+Foram lidas visualmente sete páginas dos seis PDFs, com apoio da camada textual e sem OCR: nº 7 (duas páginas), nºs 8, 23, 24 e alterações 7/8 (uma cada). Os corpos históricos riscados e as novas redações das nºs 7/8 são preservados nos mesmos IDs. A referência histórica 11.650/2006 não foi harmonizada com 11.350/2006 das alterações. O fragmento residual do art. 1º na página 2 da nº 7 e a divergência de datas (catálogo 05.10.20, PDF 10/10/2020, DIMPES 06.10.2020) permanecem atribuídos. Notas de DIMPES, preâmbulos, dispositivos e fechos integram os registros; cabeçalhos de contato e brasão foram omitidos.
+
+Capturas oficiais pareadas HTTP 200, com bytes e SHA-256 nos índices [COPJ](tribunais/MPES/sum-copj/README.md) e [CSMP](tribunais/MPES/sum-csmp/README.md). Catálogos e blocos jurídicos foram comparados. Dezenove outras súmulas CSMP e três enunciados constam em catálogos, mas seus vínculos levam ao domínio antigo sem resolução DNS; não receberam registros sem texto recuperado. Os PDFs vinculados pelo catálogo COPJ também usam esse domínio e não foram lidos. Páginas de resoluções e a busca pública foram consultadas; a indisponibilidade não prova ausência dos atos. A busca REST retornou 401 e não houve autenticação. A consulta permanece parcial.
+
+Não foram lidos os diários, atas, estudos ou normas apenas citados. Sem inferência de vigência, efeito vinculante ou exaustividade. Só Markdown público; evidências privadas, sem CPF, RG, matrícula pessoal ou autenticação publicados. Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, com 42.715 registros em 185 órgãos, o delta é +10 registros e +1 órgão: total esperado 42.725 registros em 186 órgãos. PGEGO 129, MPGO 84, MPSC 25, ANCINE 20, ANP 7 e MPCSC 2 permanecem. Os PRs #170, #175 e #176 já estão integrados e não foram somados de novo. As nove lacunas iniciais do BNP permanecem. Checagens focadas, sem nova auditoria global.
