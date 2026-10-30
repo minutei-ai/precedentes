@@ -1,10 +1,20 @@
 # Cobertura
 
-**41.854 registros únicos de 172 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.099 registros únicos de 174 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## FONEF
+
+A página institucional da [AJUFE — FONEF](https://www.ajufe.org.br/foruns/fonef), a [listagem de enunciados](https://www.ajufe.org.br/foruns/fonef/enunciados-fonef) e as [recomendações](https://www.ajufe.org.br/foruns/fonef/recomendacoes-fonef) foram lidas integralmente pelo leitor web integrado: página institucional e as três páginas de enunciados e duas de recomendações. A resposta textual foi derivada do HTML integral exibido pelo leitor; não houve HTML bruto nem duas capturas HTTP independentes. A tentativa HTTP direta anterior retornou 403. Os registros descrevem essa proveniência derivada, sem hash de HTML ou alegação de HTTP 200 ou identidade de bytes.
+
+A consulta encontrou 42 enunciados numerados (1–42) e 27 recomendações (1–27). As páginas de série atribuem os enunciados às edições I–IV nas quantidades 19, 7, 13 e 3; para recomendações, 14, 2, 9 e 2. A notícia oficial do [TRF1 sobre o III FONEF](https://trf1.jus.br/trf1/noticias/?id=11505) informa 14 enunciados e nove recomendações. A listagem da AJUFE apresenta 13 enunciados novos do III FONEF e também marca o Enunciado nº 14 com nova redação aprovada nesse encontro, preservando a redação anterior no mesmo número. A divergência de contagem fica atribuída às fontes: não foi criado número adicional nem duplicada uma versão do nº 14. A listagem da AJUFE foi usada para o texto dos itens; a notícia do TRF1 foi usada apenas como evidência atribuída da contagem publicada.
+
+Os 42 enunciados e as 27 recomendações foram registrados em séries próprias do FONEF/AJUFE. O FONEF é o Fórum Nacional de Execução Fiscal promovido pela AJUFE, distinto do [Fórum Nacional de Juízes de Execução Fiscal do CNJ](https://www.cnj.jus.br/agendas/i-jornada-do-forum-nacional-de-juizes-de-execucao-fiscal/) e dos enunciados da I Jornada em 22/08/2025, do FONAJEF e de órgãos hospedeiros ou destinatários como CJF, CNJ e TRFs. A notícia do TRF1 não altera a autoria dos itens. As quantidades descrevem as listagens consultadas; não demonstram exaustividade, vigência atual ou força vinculante. Nenhum bloco de proposta legislativa separado foi convertido em identificador.
+
+Sobre a main `702755c402b835aa3bd493bd80c486e0a6863678` (42.013 registros em 171 órgãos), o lote acrescenta 69 registros e um órgão: total de 42.082 registros em 172 órgãos. Permanecem os 176 registros FONAJUS, 137 do JFRJ, 186 FOREJEF, 430 do TRF04, 36 FONAREF e os 19 identificadores FONAREF explícitos já incorporados. As nove lacunas iniciais do BNP permanecem.
 
 ## FONAJEF
 
@@ -21,6 +31,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CRSFN — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/legislacao) | 6 | 6 | 0 |
 | [CRSNSP — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/legislacao/legislacao) | 6 | 6 | 0 |
 | [CRSNSP — Enunciados históricos sem força vinculante, notícia oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/noticias/2022/crsnsp-aprova-duas-novas-sumulas-em-sessao-de-julgamento) | 5 | 5 | 0 |
+| [FONAJUS — Enunciados de Direito da Saúde](tribunais/FONAJUS/en-saude/) | 176 | 176 | 0 |
 | [FONAPREC — Enunciados do Fórum Nacional de Precatórios](https://www.cnj.jus.br/programas-e-acoes/precatorios/enunciados/) | 15 | 15 | 0 |
 | [CNJ — I Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2023/03/1o-caderno-de-enunciados-fonaref-portal.pdf) | 15 | 15 | 0 |
 | [CNJ — II Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2024/05/enunciados-aprovados-rejeitados-2o-fonaref.pdf) | 4 | 4 | 0 |
@@ -57,6 +68,8 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CJF — I Jornada Jurídica de Prevenção e Gerenciamento de Crises Ambientais](https://www.cjf.jus.br/enunciados/) | 103 | 103 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
+| [AJUFE — Enunciados FONEF](https://www.ajufe.org.br/foruns/fonef/enunciados-fonef) | 42 | 42 | 0 |
+| [AJUFE — Recomendações FONEF](https://www.ajufe.org.br/foruns/fonef/recomendacoes-fonef) | 27 | 27 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
 | [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
@@ -1039,6 +1052,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [FONAJUS](tribunais/FONAJUS/) | 176 | FONAJUS/CNJ — números 1–176 em uma identidade cada, com histórico atribuído e fontes da VI, VII e VIII Jornadas |
 | [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
 | [FONAREF](tribunais/FONAREF/) | 36 | 1º, 2º e 3º Congressos, em séries independentes |
 | [ENFAM](tribunais/ENFAM/) | 62 | Seminário O Poder Judiciário e o novo CPC (2015), reprodução no catálogo STJ |
@@ -1046,6 +1060,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
 | [CJF](tribunais/CJF/) | 1.872 | Consulta de Enunciados — I e II Jornadas de Prevenção e Solução Extrajudicial, Notarial e Registral, Direito e Processo Penal, Patrimônio Cultural e Natural, Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, Jornadas I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX/X Civil, Processual Civil I/II/III/IV, Crises Ambientais I e Seguridade Social I |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
+| [FONEF](tribunais/FONEF/) | 69 | AJUFE — 42 enunciados e 27 recomendações do Fórum Nacional de Execução Fiscal; listagens HTML consultadas pelo leitor web integrado, proveniência derivada |
 | [MPBA](tribunais/MPBA/) | 10 | MPBA — Súmulas do Conselho Superior no catálogo HTML oficial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -2436,6 +2451,25 @@ O PR #143 integrou à main `b9ecffa25` os 17 enunciados do III Congresso e acres
 
 Os 17 registros do III Congresso permanecem na série independente e foram preservados durante o merge comum da main avançada. Os três congressos ficam no mesmo órgão FONAREF, contado uma única vez. As capturas e demais evidências continuam privadas; a cobertura nacional permanece parcial.
 
+
+
+## FONAJUS — enunciados de Direito da Saúde
+
+A base `3f877c7abd27ac45f932bd7cf144876bca7c5790`, após a incorporação do PR #147 do TRF02, tinha 41.670 registros únicos em 170 órgãos. Esta integração acrescenta 176 identidades, numeradas explicitamente de 1 a 176, e um órgão próprio: total de 41.846 registros em 171 órgãos. A série do FONAJUS/CNJ é separada dos 47 enunciados da I Jornada de Direito da Saúde já catalogados pelo CJF; nenhum registro do CJF foi alterado. As nove lacunas do catálogo inicial do BNP permanecem inalteradas.
+
+| Fonte incorporada | Recorte e paginação | Verificação e atribuição |
+| --- | --- | --- |
+| [Compilação do CNJ, 21/05/2025](https://www.cnj.jus.br/wp-content/uploads/2025/05/enunciados-sobre-direito-da-saude-v1-2025-05-21.pdf) | PDF, 40 páginas; números 1–147, corpos nas pp. 5–34 | Duas capturas HTTP 200, 800.540 bytes cada, SHA-256 `2945878de8b54f3d0118897dc979aed98d7ad6e835c9e1d840617f31c4af89d4`; comparação visual com camada textual. |
+| [VI Jornada, PDF do CNJ](https://www.cnj.jus.br/wp-content/uploads/2023/04/enunciados-aprovados-vi-jornada-saude.pdf) | PDF, 4 páginas; versões históricas aplicáveis e números 104–117 | Duas capturas HTTP 200, 57.387 bytes cada, SHA-256 `1b418f4da4dcd4790934ca0ab73386624916d7ab94b7c39563e37eb1b7f799f9`; comparação visual com camada textual. |
+| [VII Jornada, consolidação final do CNJ](https://www.cnj.jus.br/wp-content/uploads/2025/02/enunciados-vii-jornada-da-saude-consolidacao-votajud-v-6-5-25.pdf) | PDF, 12 páginas; 30 novos números 118–147, 12 revisões e 6 revogações | Duas capturas HTTP 200, 187.320 bytes cada, SHA-256 `abecf506a76a23a87213c6bf1f951ad2c0b7c842e2d14d38a45bbcd5ecb80c33`; comparação visual com camada textual. |
+| [VIII Jornada, documento hospedado pelo TJAM](https://www.tjam.jus.br/images/Comit%C3%AA_de_Sa%C3%BAde/ENUNCIADOS_NOVOS_e_Revis%C3%B5es_2026_aprovados_na_VIII_Jornada_17.6_2026.pdf) | PDF, 10 páginas; 29 novos números 148–176 e 11 revisões | Duas capturas HTTP 200, 284.858 bytes cada, SHA-256 `15e06d68c516dd5afd5676068f827ea9db8a415916bbf4891649df562af5205d`; comparação visual com camada textual. A hospedagem pelo TJAM não altera a atribuição à Jornada/FONAJUS-CNJ. |
+
+As 40 páginas da compilação, as 4 da VI, as 12 da VII e as 10 da VIII foram conferidas visualmente contra as imagens fornecidas e comparadas à camada textual já existente. Não houve nova renderização, extração ou OCR. A camada textual da compilação contém “off labcl” no nº 5, enquanto a imagem da p. 5 imprime “off label”; prevaleceu a forma visual. O cabeçalho da p. 23 imprime “ENUNCIANDO Nº 100”, mantendo-se o número explícito. O documento da VIII Jornada contém realces amarelos nos números 12, 109, 155 e 175; o destaque foi registrado sem inferir status. Foram preservados erros, riscos, notas e referências, inclusive “custoefetividade”, “RDC nº 344 da ANVISA”, “juizo”, “ANS 623/2024”, “caso concreto..”, “red14e conveniada”, “AFONCO”, a quebra do nº 175 entre páginas e o resultado de votos impresso no nº 56. Corpos sem conteúdo, como avisos, não foram reconstruídos. Não se afirma vigência, efeito vinculante, exaustividade ou status atual; referências a outros atos não geraram registros.
+
+A página do [MPPR](https://site.mppr.mp.br/saude/Pagina/Enunciados-Fonajus-CNJ) foi consultada para cotejo, mas a reprodução não foi usada para compor textos nem identidades. O HTML preservado (.field--name-field-texto) tem 105.728 bytes e SHA-256 `b7b69c4fc475e8c2a54b63836e877ed473e2c96ed8ccc70dfa73bd0d585618fa`, sem paginação; o conteúdo visível da captura salta os nºs 5 e 100, o que não demonstra ausência. A compilação do CNJ fornece ambos. CPF, RG, matrícula pessoal, chaves, CRC e dados de validação foram omitidos; nomes e cargos públicos foram mantidos. PDFs, imagens, recibos e capturas permanecem na evidência privada, fora do repositório.
+
+Conciliação com a main `aac86a879b96b72d90f5303763f5ceb2923c4d31`, que já inclui os PRs #146 (TRF04), #147 (FOREJEF), #148 (JFRJ) e #150 (identificadores Fonaref, delta zero): a base de 41.837 registros em 170 órgãos passa a 42.013 registros em 171 órgãos com este lote. TRF04 permanece com 232 registros e TRF02 com 409; FONAJUS acrescenta um órgão com 176 identidades. As nove lacunas textuais do catálogo inicial do BNP permanecem.
+
 ## Turmas Recursais da JFRJ — catálogo próprio em sete páginas
 
 O catálogo institucional da JFRJ foi lido em sete páginas e aponta 137 fichas únicas, numeradas de 1 a 137. Cada ficha foi capturada duas vezes em 30/10/2026 (UTC), com HTTP 200, tamanho e SHA-256 conferidos; os contêineres jurídicos, títulos e datas de página coincidem em todos os pares. A primeira conexão à ficha 37 foi recusada; duas capturas posteriores foram obtidas, sem tratar a falha como inexistência. Os 14 recibos das listagens constam no [índice da série](tribunais/TRF02/en-tr-jfrj/); os 274 recibos das fichas estão nos registros. HTMLs, inventário e scripts permanecem privados.
@@ -2455,4 +2489,8 @@ A própria página informa publicação em 23/08/2024 e modificação em 06/09/2
 
 Sobre a main `7167dc1940fe83fa3d0da3416a4607aee156eb50`, com 41.484 registros em 170 órgãos e TRF02 em 86 (IAC 1, IRDR 7, NT 16, SUM 62), o delta é de 186 registros e nenhum órgão: 41.670 registros em 170 órgãos; TRF02 passa a 272, com IAC 1, IRDR 7, NT 16, SUM 62, enunciados FOREJEF 165, recomendações 13, sugestões 2, moções 1 e conclusões 5. As 9 lacunas textuais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Os demais lotes já incorporados na main foram preservados; apenas Markdown público, cobertura nacional parcial.
 
-Sobre a main `3f877c7abd27ac45f932bd7cf144876bca7c5790`, com 41.670 registros em 170 órgãos, TRF02 em 272 e TRF04 em 202, este lote soma 30 enunciados e nenhum órgão: 41.700 registros em 170 órgãos, TRF04 232. O PR #147, com 186 registros FOREJEF, já integra essa main. Os PRs #148 (137 enunciados JFRJ) e #149 (176 enunciados FONAJUS) permanecem abertos e não entram nesta contagem. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Apenas Markdown público; evidências permanecem privadas; a cobertura nacional continua parcial.
+Sobre a main `3f877c7abd27ac45f932bd7cf144876bca7c5790`, com 41.670 registros em 170 órgãos, TRF02 em 272 e TRF04 em 202, o PR #146 somou 30 enunciados e nenhum órgão, levando essa base a 41.700 registros em 170 órgãos e TRF04 232. Naquela contagem, os PRs #148 (137 enunciados JFRJ) e #149 (176 enunciados FONAJUS) ainda estavam abertos e não foram incluídos. O PR #147, com 186 registros FOREJEF, já integrava a base. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Apenas Markdown público; evidências permanecem privadas; a cobertura nacional continua parcial.
+
+### Conciliação CRSFN/CRSNSP com a base atual
+
+A main `4b2f05fc4952f10bf0afd42d3ed8ef41923364af`, já com os 176 registros FONAJUS e os 69 FONEF, tem 42.082 registros em 172 órgãos. O lote CRSFN/CRSNSP soma 17 registros em dois órgãos próprios: 6 súmulas CRSFN, 6 súmulas CRSNSP e 5 enunciados históricos CRSNSP, em série separada. O total reconciliado é 42.099 registros em 174 órgãos. Os 176 FONAJUS, os 69 FONEF, os 409 TRF02, os 232 TRF04 e os identificadores explícitos dos 19 registros Fonaref foram preservados. Os números da base anterior descritos na seção de coleta são históricos; não indicam a contagem atual. O delta público deste lote fica restrito aos dois órgãos, README e cobertura; nenhum registro da main é removido. As nove lacunas iniciais do BNP permanecem.
