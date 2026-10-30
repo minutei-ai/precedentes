@@ -1,0 +1,26 @@
+# TJMG · Enunciado Cível ENJESP 14
+
+- **Órgão:** TJMG
+- **Emissor:** ENJESP — Encontro de Juízes dos Juizados Especiais de Minas Gerais
+- **Espécie:** Enunciado
+- **Número:** 14
+- **Identificador:** `tjmg-en-enjesp-civel-14`
+- **Situação indicada na compilação:** Sem anotação de cancelamento neste compilado; isso não confirma vigência atual
+- **Fonte:** [TJMG — página institucional dos Juizados Especiais](https://www.tjmg.jus.br/portal-tjmg/institucional/juizados-especiais/) · [PDF da compilação](https://www.tjmg.jus.br/lumis/portal/file/fileDownload.jsp?fileId=8ACC80C29005405201902725659B4DE8)
+- **Capturas da fonte do texto publicado:** 29/10/2026; duas respostas HTTP 200; 79.501 bytes cada; SHA-256 `f7edfd709dbb0e2d89bd55f26b073a7f325a15cc798b1381c428a68db6c48ee9` em ambas.
+
+## Texto disponibilizado pela fonte
+
+Nas ações indenizatórias de seguros DPVAT por invalidez, o processo deverá s extinto por complexidade se houver dúvida ou irregularidades quanto ao laudo expedido pelo Instituto Médico Legal ou por outro órgão oficial, desde que não seja possível a sua complementação ou detalhamento pelo órgão responsável por sua confecção. (III ENJESP–2010).
+
+## Redação histórica conferida
+
+### Versão da ficha TJMG de 2018
+
+Nas ações indenizatórias de seguros DPVAT por invalidez, o processo deverá ser extinto por complexidade se houver dúvida ou irregularidades quanto ao laudo expedido pelo Instituto Médico Legal ou por outro órgão oficial, desde que não seja possível a sua complementação ou detalhamento pelo órgão responsável por sua confecção. (III ENJESP – 2010)
+
+Fonte: [PDF do TJMG, ficha de 2018](https://bd-login.tjmg.jus.br/jspui/bitstream/tjmg/8952/1/ENUNCIADOS%20ENJESP.pdf).
+
+## Limites da coleta
+
+As palavras e notas foram lidas visualmente nas seis páginas da compilação institucional de 2024; a camada de texto foi apoio à conferência. As versões das fichas TJMG de 2018 e 2019 foram lidas visualmente em todas as seis páginas de cada arquivo e comparadas quando há redação histórica acima. Espaços e quebras de linha foram normalizados; palavras, sinais, erros impressos, numeração e notas foram mantidos. Não houve OCR. Os documentos e encontros apenas citados não receberam identificadores. A publicação não atribui vigência atual nem efeito vinculante.
