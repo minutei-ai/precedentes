@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.683 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.715 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -12,7 +12,7 @@ O Ministério Público de Contas de Santa Catarina entra como órgão próprio (
 
 A [página oficial](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) imprime dois enunciados. Cada um permanece na mesma identidade da portaria que o tornou público no Diário Oficial Eletrônico do TCE/SC. O 1º é a Portaria MPC nº 3/2020, edição nº 2823, de 27/01/2020, páginas 37 e 38. O 2º é a Portaria MPC nº 51/2020, edição nº 3001, de 15/10/2020, página 49. O catálogo imprime “vale alimentação” e a portaria imprime “vale-alimentação”. No 2º, o catálogo usa travessão e a portaria usa hífen. A notícia de 27/01/2020 imprime “facultando lhes” no quadro do primeiro enunciado. Essas diferenças ficam no mesmo identificador.
 
-Sobre essa main, com 42.681 registros em 184 órgãos, já com as quinze súmulas do Conselho Superior do MPGO (MPGO 84), PGEGO 102, ANCINE 20 e ANP 7, este lote acrescenta 2 registros e 1 órgão. O total pelo delta é **42.683 registros em 185 órgãos**. A consulta da ANVISA, sem identificador, permanece. Os PRs #170 e #175, ainda abertos, não entram na soma. As nove lacunas textuais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A soma é focada e não repete a varredura global.
+Após conciliação com a main `dd3cfe1e4194ee6d3f3f19bbc7f8c3d0cab2c85b`, com 42.713 registros em 184 órgãos, MPGO 84, PGEGO 129, MPSC 25, ANCINE 20 e ANP 7, este lote acrescenta 2 registros e 1 órgão. O total pelo delta é **42.715 registros em 185 órgãos**. A consulta da ANVISA, sem identificador, permanece. Os PRs #170 e #175 já estão integrados e foram preservados na base; não foram somados novamente. As nove lacunas textuais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A soma é focada e não repete a varredura global.
 
 Foram lidas visualmente as páginas 37 e 38 da edição de janeiro e a página 49 da edição de outubro, com a camada textual como apoio. Não houve OCR. O estudo citado no art. 2º de cada portaria não foi lido: os atalhos do sítio permanecem literais e os endereços consultados responderam 404 ou devolveram HTML da página inicial. A busca de páginas com “enunciado” e a busca de posts com “terceiro enunciado” não localizaram outro enunciado nesta consulta. Isso não fecha a série. Portarias de outro objeto, atas, notícias, orientações e normas apenas citadas não receberam identificador. Não se infere vigência, vinculação ou completude. Não há CPF, RG, matrícula ou URL de autenticação nos blocos publicados. Capturas e recibos ficam privados. O [índice da série](tribunais/MPCSC/en/) registra os recibos e os limites.
 
@@ -173,7 +173,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
 | [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
-| [PGE/GO — despachos referenciais de 2019–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 80 documentos / 550 páginas | 38 | 42 |
+| [PGE/GO — despachos referenciais de 2019–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 107 documentos / 755 páginas | 27 | 80 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
@@ -230,6 +230,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [MPAC — Enunciados do CSMP, documentos 7 a 16](https://www.mpac.mp.br/administracao-superior/conselho-superior/enunciados/) | 10 | 10 | 0 |
 | [MPRS — Encontro Estadual da Infância e Juventude de 2005, Anexo Único da Resolução 05/2007](https://www.mprs.mp.br/legislacao/resolucoes/3670/) | 62 | 62 | 0 |
 | [MPAM — Assentos do Conselho Superior](https://www.mpam.mp.br/orgaos-da-adm-superior/conselho-superior-do-ministerio-publico/conselho-superior/assento-csmp-de-2013) | 20 | 20 | 0 |
+| [MPSC/GEDCLIMA — Compilado de enunciados aprovados, 2025](https://www.mpsc.mp.br/documents/d/guest/compilacao-de-enunciados-aprovados-gedclima-mpsc) | 5 | 5 | 0 |
 | [MPSC — Enunciados do Conselho Gestor do FRBL](https://www.mpsc.mp.br/frbl-enunciados) | 3 | 3 | 0 |
 | [MPRS — CONURB, CONMAM, urbano-ambientais e proposições nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 89 | 89 | 0 |
 | [MPRS — CONEVCM e CONDEPP nos atos de referendo](https://www.mprs.mp.br/legislacao/resolucoes/) | 5 | 5 | 0 |
@@ -1255,7 +1256,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
 | [MPGO](tribunais/MPGO/) | 84 | MPGO — 15 súmulas CSMP, 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias |
-| [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
+| [MPSC](tribunais/MPSC/) | 25 | MPSC — 17 enunciados CRC, 3 FRBL e 5 GEDCLIMA, em séries próprias |
 | [MPCSC](tribunais/MPCSC/) | 2 | MPCSC — dois enunciados próprios, distintos do MPSC e do TCESC |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
@@ -1284,7 +1285,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CRFPB](tribunais/CRFPB/) | 4 | CRF/PB — Súmulas do catálogo oficial |
 | [TATEPE](tribunais/TATEPE/) | 8 | TATE/PE — PDFs das súmulas nºs 01 a 08 |
 | [CATGO](tribunais/CATGO/) | 15 | CAT/GO — Súmulas do catálogo oficial |
-| [PGEGO](tribunais/PGEGO/) | 102 | PGE/GO — 22 súmulas administrativas e 80 despachos referenciais |
+| [PGEGO](tribunais/PGEGO/) | 129 | PGE/GO — 22 súmulas administrativas e 107 despachos referenciais |
 | [PGEAP](tribunais/PGEAP/) | 18 | PGE/AP — Súmulas Administrativas do CONSUP/PGE |
 | [PROCONPB](tribunais/PROCONPB/) | 4 | PROCON/PB — Súmulas da Câmara Recursal |
 | [PGMJOINVILLE](tribunais/PGMJOINVILLE/) | 6 | PGM de Joinville (SC) — Súmulas Administrativas |
@@ -2752,8 +2753,24 @@ O catálogo oficial liga três PDFs sob “Súmulas Vinculantes”. As duas capt
 
 Sobre a main `669cf364adfa339c027e39d49f16e421781fba7c`, 42.563 registros em 181 órgãos, o delta é +3 registros e +1 órgão: projeção de 42.566 registros em 182 órgãos, sem nova auditoria global. As nove lacunas iniciais do BNP permanecem. Outras versões e normas apenas citadas continuam pendentes. “Vinculante” é denominação da fonte; não se inferiu efeito independente, vigência ou completude. Somente Markdown é publicado; PDFs, imagens e recibos permanecem privados.
 
+## PGE/GO — 27 despachos referenciais de 2021
+
+Sobre a main `b233a5785529177d22e8cdcdd34df6be5163fc16`, com 42.686 registros em 184 órgãos e PGEGO 102 (22 súmulas e 80 despachos, já com os 38 despachos de 2020 e os cinco registros GEDCLIMA/MPSC), o delta é **+27 registros e +0 órgãos**: total de **42.713 registros em 184 órgãos**, com PGEGO 129 (22 súmulas e 107 despachos). É soma focada do delta, sem nova auditoria global. O lote de 2020 e as quinze súmulas do CSMP/MPGO já integradas permanecem, assim como as nove lacunas textuais originais do BNP. O índice da série passa a 107 despachos e 755 páginas físicas. Seis linhas do catálogo, um acórdão do TCE e cinco pareceres de outros emissores, continuam fora da série.
+
+As 29 linhas de 2021 do catálogo hospedado pela CGE/GO correspondem a 27 PDFs distintos. A PGE/GO é a emissora. O rótulo 1668 liga o despacho 1674; o rótulo 1399 liga o despacho 1290. Sem documento próprio, 1668 e 1399 não receberam IDs. As 205 páginas físicas foram lidas visualmente, com apoio das camadas textuais em 26 PDFs; a transcrição do despacho 1290 é manual, sem OCR. As páginas 13–24 do PDF 1290 contêm o Parecer PROCSET nº 591/2021: foram lidas, mas não transcritas neste lote. Conhecimento e aprovação parciais, ressalvas e acréscimos do despacho permanecem literais.
+
+Os 27 pares de capturas têm HTTP 200, bytes e SHA-256 coincidentes; os recibos por documento estão no [índice da série](tribunais/PGEGO/desp-ref/). Cabeçalhos e rodapés repetidos, autenticações, caminhos locais e identificadores pessoais foram omitidos. Tarjas não foram recuperadas. Notas, redações riscadas e irregularidades da fonte foram mantidas, sem atualização normativa. Apenas Markdown é público; capturas, imagens, scripts e recibos continuam privados. Não se infere vigência, força vinculante ou completude.
+
 ## MPGO — súmulas do Conselho Superior
 
 Quinze registros, números 1–15, lidos no contêiner jurídico do [catálogo oficial](https://www.mpgo.mp.br/portal/atos_normas/1217), em duas capturas HTTP 200 de 30/10/2026, com 91.783 bytes cada. O texto normalizado coincide; os HTMLs completos têm hashes diferentes, registrados no [índice da série](tribunais/MPGO/sum-csmp/README.md). Os riscos nos corpos 7, 8, 9, 12 e 15 e as notas de revogação fora deles foram preservados. Não foram inferidos anos para 1–8, vigência atual, efeito vinculante ou completude. Grafias como “afixaçãodo” e “não verifica-se” permanecem.
 
 Não houve PDF ou OCR. Normas, resolução, diários e atas apenas citados ou vinculados não foram lidos nem receberam IDs. Esta série é do CSMP, separada dos emissores CEP e SPGJ/AJ. Sobre a main `8aeec6055f858256b9205c0c90b597138680ade2`, que já integra os 38 despachos referenciais de 2020 da PGE/GO (PGEGO 102), as vinte súmulas da ANCINE, as sete da ANP, as 27 da ANATEL e a consulta da Anvisa sem identificador, o delta é +15 registros e nenhum órgão: 42.666 → 42.681 registros, 184 órgãos; MPGO 69 → 84. O PR #170, ainda aberto, não entra na soma. Não foi repetida a auditoria global. As nove lacunas iniciais do BNP permanecem. Apenas Markdown público; evidências privadas e cobertura parcial.
+
+## MPSC — enunciados do GEDCLIMA
+
+Cinco enunciados 01–05/2024 do Grupo Especial de Defesa dos Direitos Relacionados a Desastres Socioambientais e Mudanças Climáticas, em série própria sob MPSC, acompanhados das manifestações do compilado de 2025 e do Anexo I sem ID adicional. O emissor é o GEDCLIMA; não se atribuem os textos indistintamente a seus integrantes, ao MPF, ao MPRS ou ao Conselho Superior. A [página institucional](https://www.mpsc.mp.br/gedclima) liga o [PDF](https://www.mpsc.mp.br/documents/d/guest/compilacao-de-enunciados-aprovados-gedclima-mpsc).
+
+As duas capturas do PDF responderam HTTP 200, com 773.537 bytes e SHA-256 `dac352d47e7eb34c27d9a261ccfcf50cc6cf45c48cf9c2229a969291312b9181`. As 27 páginas físicas foram lidas visualmente; a camada textual foi apoio, sem OCR. Capa na página 1; 01 nas páginas 2–9 e anexo nas 9–16; 02 nas 17–19; 03 nas 20–22; 04 nas 23–25; 05 nas 26–27. O quadro nas páginas 5–6 e o anexo preservam a disposição textual das colunas. Notas e grafias literais permanecem, inclusive a readequação do nº 01 em 07/04/2025 e a referência `12.608/20124` na manifestação do nº 04. A redação anterior do nº 01 não foi recuperada. Diários, atas, estudos, atos e precedentes apenas citados não foram lidos autonomamente nem receberam IDs.
+
+Não se infere vigência atual, força vinculante, completude ou atualidade jurídica e estatística. Sem CPF, RG, matrícula pessoal ou autenticação publicados. As evidências são privadas e o delta público contém somente Markdown. Sobre a main `f290c179ca418b4c8e545d28ecb50588474c95fa`, com 42.681 registros em 184 órgãos, o delta é +5/+0: total esperado 42.686/184, MPSC 25. MPGO 84, PGEGO 102, ANCINE 20 e ANP 7 permanecem. Os PRs 170 e 176, ainda abertos, ficam fora da conta. As nove lacunas iniciais do BNP permanecem. Verificação focada de textos, IDs, links e diff; sem nova auditoria global.
