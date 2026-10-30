@@ -66,6 +66,8 @@ Foram lidas visualmente, nesta complementação, as páginas jurídicas das 35 l
 | 28303 | 17.469 | `ce33f7bbf7ef18d912ac5ea973657df8b577be0cb384c516ae14e660d45b4fe9` | 1 | lida |
 | 14916 | 30.208 | `9d889219a3c4537bb1680b991ae7b2a62f33c9e87862ad04ef816aaca934e32d` | Word; uma página depois da conversão | lida |
 
+A revisão independente do complemento cotejou os registros e suas notas com as 37 imagens dos 34 documentos adicionais: 33 PDFs e um Word convertido para uma página. Incluiu as duas páginas que repetem apenas o timbre. Os 80 recibos retidos foram conferidos por status HTTP, tamanho e SHA-256; as duas páginas da listagem coincidem entre os pares. O quadro 96972 permaneceu com o mesmo hash da coleta já revisada e não foi relido nesta revisão. Não houve OCR, nova extração ou renderização. Não foram encontrados achados que exigissem corrigir os textos do complemento.
+
 O `file` anuncia duas páginas no 41775; o `pdfinfo` anuncia uma. A renderização produziu uma imagem, e a página lida é uma. Vários PDFs antigos trazem no metadado o título “ASSENTO Nº 06/2010”; esse metadado não foi usado como identidade.
 
 ## Pendências
