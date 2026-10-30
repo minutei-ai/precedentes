@@ -1,10 +1,18 @@
 # Cobertura
 
-**42.725 registros únicos de 186 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.761 registros únicos de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## MPSE — assentos do CSMP
+
+Foram incorporadas 36 identidades do [Quadro de Assentos do Conselho Superior do MPSE](https://sistemas.mpse.mp.br/PublicDoc/PublicacaoDocumento/AbrirDocumento.aspx?cd_documento=96972), publicado no DOFe nº 2163, de 10/04/2025: 35 linhas com número/ano e o Assento 5-A, com título, corpo e aprovação próprios, impresso na célula do 005/2009. As duas entradas 001/2008 e 001/2009 permanecem distintas; as versões e notas de cada identidade ficam no mesmo registro. Não se acrescentou ano ao número 5-A.
+
+As seis páginas físicas foram lidas visualmente, com a camada textual como apoio, sem OCR. Os riscos, avisos de revogação, redações anteriores, aspas abertas e divergências internas foram preservados. Negrito e sublinhado não foram reproduzidos sistematicamente. As continuações do 009/2010, do 024/2021 e do 031/2025 foram reunidas sem incluir o cabeçalho repetido. A [proveniência da série](tribunais/MPSE/ass-csmp/) registra os pares HTTP 200, bytes e SHA-256, a cadeia institucional do catálogo e os limites da lista dinâmica ainda não concluída. O PDF de 2025 não é declarado última edição. Outras séries e atos citados seguem pendentes, sem inferência de vigência, vinculação ou exaustividade.
+
+Esta integração local reúne os 10 registros MPES revisados do PR #177 e os 36 assentos MPSE revisados. Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, 42.715 registros em 185 órgãos, o delta conjunto é +46 registros e +2 órgãos: total esperado **42.761 registros em 187 órgãos**. MPCSC 2, MPSC 25, MPGO 84 e PGEGO 129 foram preservados. O PR #177 continua aberto no GitHub; esta conciliação local não declara merge remoto. Os demais lotes MPES/MPSE e TRF05 ainda não integrados ficam fora da soma. A validação documental é focada nos dois lotes; o inventário de IDs é conferido separadamente. As nove lacunas textuais iniciais do BNP permanecem. Capturas e derivados ficam privados, apenas Markdown público.
 
 ## MPCSC — enunciados
 
@@ -169,6 +177,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPSE — Assentos do CSMP](https://sistemas.mpse.mp.br/PublicDoc/PublicacaoDocumento/AbrirDocumento.aspx?cd_documento=96972) | 36 | 36 | 0 |
 | [MPCSC — Enunciados](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) | 2 | 2 | 0 |
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
@@ -1261,6 +1270,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPES](tribunais/MPES/) | 10 | MPES — 5 súmulas COPJ e 5 CSMP, com variantes e atos de alteração nos mesmos IDs |
 | [MPSC](tribunais/MPSC/) | 25 | MPSC — 17 enunciados CRC, 3 FRBL e 5 GEDCLIMA, em séries próprias |
 | [MPCSC](tribunais/MPCSC/) | 2 | MPCSC — dois enunciados próprios, distintos do MPSC e do TCESC |
+| [MPSE](tribunais/MPSE/) | 36 | MPSE — assentos do CSMP no quadro de 10/04/2025, com redações e anotações preservadas |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
