@@ -2312,7 +2312,7 @@ A notícia oficial de 17/06/2026 anuncia 149 enunciados aprovados (31 + 111 + 7)
 
 Os registros preservam os números, cabeçalhos, notas e continuações publicados. O bloco não separa proposições legislativas; normas e casos citados não receberam IDs. Nomes de proponentes e funções públicas foram mantidos, sem dados pessoais restritos. São registros documentais de enunciados de evento, não decisões do STJ ou precedentes vinculantes; não se infere vigência, efeito vinculante ou completude. Apenas Markdown foi publicado.
 
-A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. Após conciliação com a main atual `71d1707c`, o total esperado é 41.021 registros em 165 órgãos, STJ 3.705; o PR #135 não altera esse total.
+A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. A base do PR nessa revisão era `71d1707c`; nela, o total esperado após o PR #133 era 41.021 registros em 165 órgãos, STJ 3.705. O PR #135 não altera esse total.
 
 ## MPGO — documento histórico de ANPC de 04/09/2020
 
