@@ -1,0 +1,46 @@
+# IV Jornada de Direito Processual Civil
+
+**38 enunciados**, números 238–275, da [publicação oficial do CJF](https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/publicacoes-1/i-jornada-de-direito-processual-civil/iv-jornada-de-direito-processual-civil-2013-enunciados-aprovados-2013-2025/@@download/arquivo). A consulta `jornada.id=481` retornou zero cartões nas duas capturas; esse vazio não foi interpretado como ausência. O texto veio do caderno oficial, com 24 páginas, 529.386 bytes e SHA-256 `88e5a10a833f14bd1fecad88b59424007a71f5c00c19d3f1b1a7a0db18b32a18`, idêntico nas duas capturas HTTP 200 de 29/10/2026.
+
+Foram lidas visualmente a capa e as páginas físicas 17–23, impressas 15–21. Só os blocos de enunciados foram incorporados. As continuações são 243 (17–18), 249 (18–19), 261 (20–21) e 273 (22–23). Sete enunciados pertencem à seção de novas tecnologias e inteligência artificial, quinze à de mediação e arbitragem e dezesseis à de recuperação judicial, extrajudicial e falência. A numeração oficial foi preservada, sem reiniciar em 1.
+
+Pontuação, caixa e referências permanecem como impressas, incluindo “conforme art. 6º ... e dos princípios” na nº 260, “Administradora Judicial” na nº 273 e “§1º” nas nºs 274/275. Quebras e estilos normalizados, com “deve-se” da nº 249 reunido sem espaço. Não há risco nos blocos incorporados. Não se inferiu vigência, vinculação ou completude, nem se usou a data técnica do PDF como aprovação. Atas, prefácio, apresentação, programação e demais páginas não integram o lote. Sem OCR; imagens e recibos privados.
+
+- [Enunciado 238](cjf-en-processual-civil-iv-238.md)
+- [Enunciado 239](cjf-en-processual-civil-iv-239.md)
+- [Enunciado 240](cjf-en-processual-civil-iv-240.md)
+- [Enunciado 241](cjf-en-processual-civil-iv-241.md)
+- [Enunciado 242](cjf-en-processual-civil-iv-242.md)
+- [Enunciado 243](cjf-en-processual-civil-iv-243.md)
+- [Enunciado 244](cjf-en-processual-civil-iv-244.md)
+- [Enunciado 245](cjf-en-processual-civil-iv-245.md)
+- [Enunciado 246](cjf-en-processual-civil-iv-246.md)
+- [Enunciado 247](cjf-en-processual-civil-iv-247.md)
+- [Enunciado 248](cjf-en-processual-civil-iv-248.md)
+- [Enunciado 249](cjf-en-processual-civil-iv-249.md)
+- [Enunciado 250](cjf-en-processual-civil-iv-250.md)
+- [Enunciado 251](cjf-en-processual-civil-iv-251.md)
+- [Enunciado 252](cjf-en-processual-civil-iv-252.md)
+- [Enunciado 253](cjf-en-processual-civil-iv-253.md)
+- [Enunciado 254](cjf-en-processual-civil-iv-254.md)
+- [Enunciado 255](cjf-en-processual-civil-iv-255.md)
+- [Enunciado 256](cjf-en-processual-civil-iv-256.md)
+- [Enunciado 257](cjf-en-processual-civil-iv-257.md)
+- [Enunciado 258](cjf-en-processual-civil-iv-258.md)
+- [Enunciado 259](cjf-en-processual-civil-iv-259.md)
+- [Enunciado 260](cjf-en-processual-civil-iv-260.md)
+- [Enunciado 261](cjf-en-processual-civil-iv-261.md)
+- [Enunciado 262](cjf-en-processual-civil-iv-262.md)
+- [Enunciado 263](cjf-en-processual-civil-iv-263.md)
+- [Enunciado 264](cjf-en-processual-civil-iv-264.md)
+- [Enunciado 265](cjf-en-processual-civil-iv-265.md)
+- [Enunciado 266](cjf-en-processual-civil-iv-266.md)
+- [Enunciado 267](cjf-en-processual-civil-iv-267.md)
+- [Enunciado 268](cjf-en-processual-civil-iv-268.md)
+- [Enunciado 269](cjf-en-processual-civil-iv-269.md)
+- [Enunciado 270](cjf-en-processual-civil-iv-270.md)
+- [Enunciado 271](cjf-en-processual-civil-iv-271.md)
+- [Enunciado 272](cjf-en-processual-civil-iv-272.md)
+- [Enunciado 273](cjf-en-processual-civil-iv-273.md)
+- [Enunciado 274](cjf-en-processual-civil-iv-274.md)
+- [Enunciado 275](cjf-en-processual-civil-iv-275.md)
