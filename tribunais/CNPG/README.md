@@ -1,6 +1,6 @@
 # CNPG
 
-Conselho Nacional de Procuradores-Gerais dos Ministérios Públicos dos Estados e da União. **4 registros.** Associação nacional identificada no portal institucional, com órgãos e grupos de atuação próprios. Distinto do CNMP, dos Ministérios Públicos estaduais e do MPF.
+Conselho Nacional de Procuradores-Gerais dos Ministérios Públicos dos Estados e da União. **4 registros.** [Associação nacional sem fins lucrativos](https://cnpg.org.br/) que congrega os Procuradores-Gerais dos Ministérios Públicos dos Estados e da União. O [GNCCRIM](https://cnpg.org.br/grupos-nacionais/coordenadores-de-centro-de-apoio-criminal-gnccrim/) é um de seus órgãos. Distinto do CNMP, dos Ministérios Públicos estaduais e do MPF.
 
 | Espécie | Registros |
 | --- | ---: |
