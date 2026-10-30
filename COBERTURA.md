@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.181 registros únicos de 167 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.198 registros únicos de 168 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -83,6 +83,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPGO — Enunciados ANPP](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal) | 15 | 15 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
+| [Fonaref — 3º Congresso, caderno final](https://www.cnj.jus.br/wp-content/uploads/2026/02/enunciados-aprovados-3o-fonaref.pdf) | 17 | 17 | 0 |
 | [Enfam — Seminário O Poder Judiciário e o novo CPC](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 62 | 62 | 0 |
 | [CNPG/GNCCRIM — Enunciados 41–44 reproduzidos pelo MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal) | 4 | 4 | 0 |
 | [MPBA — Súmulas do Conselho Superior](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas) | 10 | 10 | 0 |
@@ -1011,6 +1012,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [FONAREF](tribunais/FONAREF/) | 17 | 3º Congresso, caderno final de enunciados aprovados |
 | [ENFAM](tribunais/ENFAM/) | 62 | Seminário O Poder Judiciário e o novo CPC (2015), reprodução no catálogo STJ |
 | [CNPG](tribunais/CNPG/) | 4 | CNPG/GNCCRIM — enunciados 41–44 reproduzidos em notícia institucional do MPPR |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
@@ -2356,3 +2358,9 @@ Conciliação final do PR #136 sobre `2ab47e6e` (41.063 registros em 166 órgão
 Entram 62 enunciados, números 1–62, em órgão próprio ENFAM e série `en-cpc-2015`. Os 62 corpos foram lidos na seção do catálogo STJ (linhas 5819–6035), separados das Jornadas do CJF e dos congressos do STJ. A página institucional da Enfam informa realização em 26–28/08/2015 e aprovação pelos participantes. A autoria do evento não foi transferida ao STJ, hospedeiro da reprodução. As duas leituras derivadas retidas têm sobreposição coincidente, sem alegação de HTML bruto ou capturas HTTP independentes; hashes e bytes dos derivados constam do índice. Número 36 com quebra reunida, nota do nº 21 e final sem ponto do nº 58 preservados. O PDF da Enfam retornou 403; não houve leitura visual, OCR ou transcrição desse PDF. Votações e demais documentos vinculados permanecem pendentes. Nenhuma vigência, vinculação ou exaustividade foi inferida.
 
 Sobre `9baeb8e0` (41.119 registros em 166 órgãos), o delta é +62 registros e +1 órgão: 41.181 registros em 167 órgãos. CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 permanecem. As nove lacunas iniciais do BNP continuam.
+
+## Fonaref — 17 enunciados do terceiro congresso
+
+O caderno final publicado em fevereiro/2026 contém os números 1–17 e suas justificativas, das comissões 01–04, para o evento de 17–18/11/2025. Foram lidas visualmente as 22 páginas físicas, com camada textual de apoio e sem OCR. Texto jurídico nas páginas 11–20; fonte, bytes, SHA, paginação e limites constam de cada ficha e do índice. Duas capturas HTTP 200 idênticas. A apresentação menciona cinco comissões, mas a quinta não tem enunciados neste arquivo; não foi reconstruída do caderno prévio aprovado apenas para debate. Mantidas a aspa unilateral do nº 4, RMA/RPA no nº 6, artigos distintos no nº 10, “reponsabilidade” no nº 14 e “TJ” na justificativa 16. Os números de outros congressos não foram fundidos. Atas e julgados citados não viraram registro.
+
+Base `ccf167ff` (41.181 registros em 167 órgãos, ENFAM 62). Delta +17 registros e +1 órgão FONAREF: 41.198 registros em 168 órgãos. PRs #140, #141 e #142 ainda abertos não integram esta conta. As nove lacunas iniciais do BNP permanecem. Não se inferiu vigência, vinculação ou exaustividade; demais congressos e documentos continuam pendentes.
