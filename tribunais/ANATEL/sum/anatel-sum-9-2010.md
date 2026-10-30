@@ -17,7 +17,7 @@ CONSIDERANDO que o Regulamento de Proteção e Defesa dos Direitos dos Assinante
 
 CONSIDERANDO que o art. 130 da Lei Geral de Telecomunicações estabelece que a prestadora de serviço em regime privado não terá direito adquirido à permanência das condições vigentes quando da expedição da autorização ou do início das atividades, devendo observar os novos condicionamentos impostos por lei e pela regulamentação;
 
-CONSIDERANDO que o Regulamento de Proteção e Defesa dos Direitos dos Assinantes dos Serviços de Televisão por Assinatura estabelece, nos parágrafos 1º e 2º de seu art. 33, que o contrato deve ser redigido em termos claros de forma a facilitar a compreensão pelo consumidor e que deverão constar desse contrato as condições de contratação, prestação e suspensão dos serviços, os preços cobrados, bem como a periodicidade e o índice aplicável, em caso de reajuste;
+CONSIDERANDO que o Regulamento de Proteção e Defesa dos Direitos dos Assinantes dos Serviços de Televisão por Assinatura, estabelece nos parágrafos 1º e 2º de seu art. 33, que o contrato deve ser redigido em termos claros de forma a facilitar a compreensão pelo consumidor e que deverão constar desse contrato as condições de contratação, prestação e suspensão dos serviços, os preços cobrados, bem como a periodicidade e o índice aplicável, em caso de reajuste;
 
 CONSIDERANDO que os arts. 46 e 51, XIII, do Código de Defesa do Consumidor garantem ao consumidor o conhecimento e a concordância prévios à alteração do conteúdo ou da qualidade do contrato;
 

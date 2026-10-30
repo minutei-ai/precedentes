@@ -23,7 +23,7 @@ CONSIDERANDO que compete à Anatel deliberar na esfera administrativa quanto à 
 
 RESOLVE editar a presente Súmula:
 
-“A existência de acordo de "roaming" entre Concessionárias de Serviço Móvel Celular (SMC) importa, obrigatoriamente, na celebração de acordo, em condições equivalentes, com outra Concessionária de SMC interessada, respeitado o padrão de tecnologia celular utilizado pela Concessionária que atender ao assinante visitante. A obrigatoriedade não se aplica à área geográfica comum às áreas de concessão das Concessionárias envolvidas.”
+"A existência de acordo de "roaming" entre Concessionárias de Serviço Móvel Celular (SMC) importa, obrigatoriamente, na celebração de acordo, em condições equivalentes, com outra Concessionária de SMC interessada, respeitado o padrão de tecnologia celular utilizado pela Concessionária que atender ao assinante visitante. A obrigatoriedade não se aplica à área geográfica comum às áreas de concessão das Concessionárias envolvidas."
 
 Esta Súmula entra em vigor na data de sua publicação.
 
