@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.292 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.549 registros únicos de 164 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -184,6 +184,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf) | 1.292 | 1.292 | 0 |
 | [CARF — Súmulas consolidadas](https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/sumulas-consolidadas-com-os-acordaos-precedentes) | 254 | 254 | 0 |
 | [STJ — Dados abertos de precedentes qualificados](https://dadosabertos.web.stj.jus.br/api/3/action/package_show?id=precedentes-qualificados) | 2.364 | 28 | 2.336 |
+| [STJ — Enunciados científicos do 1º Congresso da Primeira Instância](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 257 | 257 | 0 |
 | [TCU — Súmulas de jurisprudência](https://pesquisa.apps.tcu.gov.br/rest/publico/base/sumula/documentosResumidos) | 293 | 293 | 0 |
 | [TJCE — Súmulas, edição de 2025](https://portal.tjce.jus.br/uploads/2025/09/SUMULAS-2025.pdf) | 72 | 72 | 0 |
 | [TJCE — SJURIS, decisões de IRDR e IAC (consulta parcial)](https://sjuris.tjce.jus.br/) | 7 | 7 | 0 |
@@ -903,7 +904,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | BNP coletado | Inventário BNP |
 | --- | ---: | ---: | ---: |
 | [STF](tribunais/STF/) | 7.490 | 7.490 | 7.490 |
-| [STJ](tribunais/STJ/) | 3.044 | 3.016 | 3.016 |
+| [STJ](tribunais/STJ/) | 3.301 | 3.016 | 3.016 |
 | [TST](tribunais/TST/) | 1.613 | 321 | 321 |
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
@@ -2267,3 +2268,10 @@ Delta do lote HTML sobre `2ed3aae9` (39.946 registros, 164 órgãos, CJF 1.468):
 143 enunciados, números oficiais 88–230 (rótulos exibidos nas fichas: 088–0230), da pesquisa oficial do [CJF](https://www.cjf.jus.br/enunciados/) filtrada por `jornada.id=281`. As duas pesquisas em par listam os mesmos títulos, URLs e corpos; os 143 cartões coincidem com o inventário consultado. As 286 capturas das fichas retornaram HTTP 200, com bytes e SHA-256 verificados nos registros e no ledger privado. Campos dos pares, corpos e metadados coincidem; as 143 justificativas foram comparadas com o HTML sob o rótulo da fonte. A redação anterior está vazia em todas as fichas; isso não confirma vigência. Nenhuma ficha apresentou aviso de ausência de corpo. Nenhum PDF, ata ou documento citado foi lido. Sem inferir efeito vinculante, exaustividade ou titularidade atual; normas, julgados e órgãos citados não receberam IDs. Capturas, ledger e scripts privados; somente Markdown público.
 
 Delta sobre a main `dd9c6058` (40.149 registros em 164 órgãos; CJF 1.671): 143 registros e nenhum órgão novo, totalizando 40.292 registros em 164 órgãos e CJF 1.814. A I Jornada Extrajudicial (87) permanece em série separada. As VIII (32) e IX (49) Jornadas de Direito Civil já integradas na main não fazem parte deste lote.
+
+
+## STJ — 1º Congresso da Primeira Instância Federal e Estadual
+
+Sobre a `bea91c4b` atual (40.292 registros em 164 órgãos), a série acrescenta 257 enunciados científicos aprovados em evento, com os textos do [catálogo oficial do STJ](https://scon.stj.jus.br/SCON/ec/listaEC.jsp), bloco das linhas 7311–8173 do leitor, e conferência da contagem na [página oficial do Congresso](https://www.stj.jus.br/sites/portalp/Paginas/Institucional/Educacao-e-cultura/Eventos/1-Congresso-STJ-da-Primeira-Instancia-Federal-e-Estadual.aspx) e no [PDF oficial de aprovados](https://www.stj.jus.br/sites/portalp/SiteAssets/Paginas/Institucional/Educacao-e-cultura/Eventos/1-Congresso-STJ-da-Primeira-Instancia-Federal-e-Estadual/Enunciados-aprovados-1-Congresso-1-Instancia.pdf). A linha 8174 inicia o Congresso da Segunda Instância e ficou fora.
+
+Os IDs seguem a ordem das 257 ocorrências; os números exibidos foram preservados nos registros. A fonte repete 227 e passa de 236 a 238. As seções de propostas pré-aprovadas são blocos de propostas de enunciado, não propostas legislativas. A série identifica conteúdo documental de evento, não julgados do STJ, súmulas ou precedentes vinculantes; normas e julgados citados não receberam IDs. O PDF foi usado para conferir o documento final e a natureza dos itens, sem substituir a redação SCON. Não se inferiu vigência nem efeito jurídico. Consulte o [índice da série](tribunais/STJ/en-congresso-primeira-i/README.md).

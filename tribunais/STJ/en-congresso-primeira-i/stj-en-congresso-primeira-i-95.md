@@ -1,0 +1,16 @@
+# STJ · Enunciado científico do 1º Congresso da Primeira Instância · 095
+
+- **Órgão:** Superior Tribunal de Justiça (STJ)
+- **Evento:** 1º Congresso STJ da Primeira Instância Federal e Estadual
+- **Espécie:** Enunciado científico aprovado em evento
+- **Número na ordem dos registros:** 095
+- **Número exibido na fonte:** 95
+- **Identificador:** `stj-en-congresso-primeira-i-95`
+- **Seção exibida na fonte:** Propostas Pré-Aprovadas do Eixo Direito Processual Civil
+- **Linha no leitor da fonte:** 7624
+- **Fonte:** [STJ — Enunciados Científicos](https://scon.stj.jus.br/SCON/ec/listaEC.jsp)
+- **Documento oficial dos enunciados aprovados:** [STJ — PDF do Congresso](https://www.stj.jus.br/sites/portalp/SiteAssets/Paginas/Institucional/Educacao-e-cultura/Eventos/1-Congresso-STJ-da-Primeira-Instancia-Federal-e-Estadual/Enunciados-aprovados-1-Congresso-1-Instancia.pdf)
+
+## Texto disponibilizado pela fonte
+
+Conforme a instrumentalidade das formas e diante do isolamento geográfico, como instrumento de acesso à justiça, é lícito ao juízo oficiar por apoio, além das rádios comunitárias, aos grupos e instituições locais (públicas e privadas) para realizar comunicações aos interessados, ficando sanados quaisquer vícios em face do comparecimento espontâneo, pois ausente prejuízo.
