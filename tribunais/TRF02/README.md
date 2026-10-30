@@ -1,6 +1,6 @@
 # TRF02
 
-Tribunal Regional Federal da 2ª Região. **554 registros.**
+Tribunal Regional Federal da 2ª Região. **619 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -9,6 +9,7 @@ Tribunal Regional Federal da 2ª Região. **554 registros.**
 | [Incidente de Resolução de Demandas Repetitivas](irdr/) | 7 |
 | [Nota Técnica](nt/) | 16 |
 | [Súmula](sum/) | 62 |
+| [Súmulas da TRU](sum-tru/) | 65 |
 | [Enunciados dos FOREJEFs](en-forejef/) | 165 |
 | [I Jornada de Direitos Humanos e Fundamentais da JF2 (2024)](en-jornada-dhf-i-2024/) | 60 |
 | [II Jornada de Direitos Humanos e Fundamentais da JF2 (2025)](en-jornada-dhf-ii-2025/) | 85 |

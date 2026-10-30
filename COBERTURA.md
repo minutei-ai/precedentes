@@ -1,12 +1,16 @@
 # Cobertura
 
-**42.801 registros de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.977 registros de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-## Integração local dos lotes revisados — não publicada
+## TRF06 — teses e representativo próprios da TRU
 
-Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, com 42.715 registros em 185 órgãos, esta branch acrescenta **86 registros e dois órgãos**: 32 identidades do MPES (5 súmulas COPJ, 24 súmulas CSMP e 3 enunciados CSMP) e 54 do MPSE (36 assentos CSMP e 18 súmulas criminais). Total local: **42.801 registros em 187 órgãos**. As revisões documentais dos lotes e complementos foram concluídas. Os textos coincidem com a candidata ampla já revisada nos diretórios MPES e MPSE. O inventário global do commit `623456210d044a99713b97ca798a93433cd157c5`, executado por `resource-run --wait`, confirmou 42.801 registros e identificadores únicos em 187 órgãos, sem duplicatas, arquivos com múltiplos IDs ou divergências entre nome e identificador. Revisão documental não é aprovação formal no GitHub nem resultado de CI.
+O catálogo oficial publica 14 teses e o Representativo de Controvérsia 1, cotejados em duas capturas HTML HTTP 200 idênticas. O aviso de suspensão da tese 5 é atribuído à página, sem inferência sobre o andamento do Tema 1349/STJ; a tese 4 e o representativo ficam separados conforme seus rótulos e processos de referência. Inteiros teores e Portaria Cojef 01/2025 não foram lidos. [Proveniência e recibos](tribunais/TRF06/tru-proveniencia.md). Delta +15/0 sobre `a421b646`: total esperado 42.730/185, TRF06 107, sem contagem global.
 
-Forecrim, JFRN e TRUs continuam nas branches próprias e na candidata ampla, fora deste delta. Nenhum PR foi criado para esta integração local nem houve merge remoto do PR #177. As nove lacunas textuais iniciais do BNP permanecem. Relatos antigos abaixo conservam as bases históricas dos lotes, sem nova soma.
+## Integração revisada — MPES, MPSE e séries regionais
+
+Os 86 registros MPES/MPSE foram integrados pelos PRs #177–180. Esta integração acrescenta 176 registros revisados: TRU1 (14), TRU2 (65), TRU4 (26), TRU5 (5), JFRN (13), Forecrim (38) e TRU6 (15). Total consolidado: **42.977 registros em 187 órgãos**. A revisão independente conferiu os sete lotes; a vírgula da proposição 6 do I Forecrim foi restaurada conforme as páginas 82 e 86 da ata. As seis proposições não recebem IDs adicionais.
+
+Os relatos abaixo preservam bases e totais históricos das branches, sem nova soma. A ata II e o Livro do II Forecrim permanecem com leitura pendente nos limites de proveniência; não sustentam corpos novos. Não se declara completude, vigência, efeito vinculante ou CI. Capturas, imagens e recibos permanecem privados.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,11 +22,40 @@ Foram incorporadas 36 identidades do [Quadro de Assentos do Conselho Superior do
 
 As seis páginas físicas do quadro foram lidas visualmente, com a camada textual como apoio, sem OCR. Os riscos, avisos de revogação, redações anteriores, aspas abertas e divergências internas foram preservados. Negrito e sublinhado não foram reproduzidos sistematicamente. As continuações do 009/2010, do 024/2021 e do 031/2025 foram reunidas sem incluir o cabeçalho repetido. A complementação percorreu a [listagem pública](https://sistemas.mpse.mp.br/modernizacaoportalbe/api/documentos/listagem?pagina=1&tamanho=60&tipoDocumentoId=6): duas capturas HTTP 200, 29.858 bytes, SHA-256 `764c3cf0b16b62645353bcff0b853754e14b1df51315759a8fc525d13d36b265`, `total` 35; a página 2 veio vazia. Cada uma das 35 linhas foi baixada duas vezes pela rota `/arquivo`, com pares coincidentes. Foram lidas visualmente as páginas jurídicas das 35 linhas, com a camada textual como apoio e sem OCR. A nova redação do 024/2021 no Diário n. 2511, de 16/10/2026, é o documento 107879, 120.519 bytes, SHA-256 `265f06a553a07f54208083c2de4f2848704bc0b730829cb41bc04669a10cd11e`. O diário de 25/03/2021, documento 72497, fica no mesmo 024/2021; o rodapé dele e o do 72496 imprimem “01.2021”. O 7164 imprime “11/2010” e permanece no 011/2011. O 42411 imprime “12/2015” e permanece no 012/2012. O 96972 repetiu o SHA-256 do quadro já lido e não foi relido. O 14916 é Word e foi lido depois de convertido para uma página. O 41775 tem uma página. Descrições do JSON não substituíram a página. A [proveniência da série](tribunais/MPSE/ass-csmp/) registra cada leitura. O PDF de 2025 não é declarado última edição. A lista de 35 linhas não esgota o MPSE. Outras séries e atos citados seguem pendentes, sem inferência de vigência, vinculação ou exaustividade.
 
+O estágio inicial da integração local reuniu os 10 registros MPES revisados e os 36 assentos MPSE revisados. Seu inventário no commit `88edb72b0ce038d258183b36c7eda067290ef901` confirmou 42.761 IDs únicos em 187 órgãos. Esse é o estágio anterior à ampliação candidata descrita no início deste documento. Não houve merge remoto do PR #177 nessa conciliação.
 ## MPSE — súmulas de entendimento criminais
 
 Entram 18 identidades próprias das Procuradorias de Justiça com Atribuições Criminais do MPSE. O catálogo contém onze arquivos: 01 contém 01-A–01-C, 05 contém 05-A–05-C e 10 contém 10-A–10-D; os demais números têm um corpo cada. Os agrupamentos não receberam IDs adicionais. Não se confundem com assentos do CSMP, súmulas do CPJ ou das Procuradorias Cíveis, nem com o TJSE.
 
 Os onze PDFs individuais, de uma página cada, e as onze páginas da ata de 06/04/2022 foram lidos visualmente, sem OCR. As duas respostas primárias da API criminal coincidem em seus onze itens e campos. Os riscos dos nºs 04, 07 e 09, o carimbo “(ATUALIZADA)” e a data 06.04.2022 nos PDFs 06 e 08, a aprovação de 19/03/2025 nos PDFs 10 e 11 e as variantes entre catálogo, PDF e ata foram preservados. O nº 09 aparece sem risco na ata de 2022 e riscado no PDF individual atual; o ato e a data de seu cancelamento não foram inferidos. A [proveniência da série](tribunais/MPSE/sum-criminais/) discrimina os pares HTTP 200, bytes, SHA-256, campos e limites. Normas e julgados citados não geraram IDs; não se inferem vigência, vinculação ou exaustividade.
+
+Na branch criminal isolada, a base era a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, 42.715 registros em 185 órgãos. Aquele lote somava +18 registros e +1 órgão: total esperado **42.733 registros em 186 órgãos**. MPES #177 e o lote separado de 36 assentos do MPSE, ainda não integrados à base, não entram na soma. A verificação é focada, sem nova auditoria global. MPCSC 2, MPSC 25, MPGO 84, PGEGO 129 e as nove lacunas textuais iniciais do BNP permanecem. Capturas, PDFs e derivados privados; público apenas Markdown.
+## TRF05 — catálogo Forecrim
+
+O [Portal GMF do TRF5](https://www.trf5.jus.br/index.php/gmf) liga à [página Eventos do Forecrim](https://www.trf5.jus.br/index.php/eventos-do-forecrim). As duas tabelas visíveis têm 31 posições de enunciados e nove recomendações. As recomendações 01 e 02 expressamente requalificam os enunciados 21 e 22; cada par permanece no mesmo ID, com corpo, risco e anotações históricos. O lote soma **38 identidades: 29 enunciados e nove recomendações**. A cópia oculta para exportação não foi somada novamente.
+
+Os campos, corpos e notas foram lidos nas duas capturas HTML e cotejados com os registros. Os pares respondem HTTP 200, com 118.789 bytes e SHA-256 idêntico. A página imprime atualização editorial de 24/09/2026 e atribui as aprovações ao curso de 2023 e aos Forecrim I, II e III, em datas distintas. O enunciado 04 mantém o aviso de cancelamento fora do corpo riscado; os avisos de requalificação de 21/22 ficam nas fichas das recomendações. Atas, livro, provimento e outras publicações apenas vinculadas permanecem pendentes de leitura. Não se inferem vigência, vinculação, exaustividade ou adoção individual pelo Tribunal; nenhum ato apenas citado recebeu ID. [Proveniência comum](tribunais/TRF05/forecrim-proveniencia.md).
+
+Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, confirmada na consulta pública do GitHub, o delta é +38 registros e +0 órgãos: **42.753 registros em 185 órgãos**, TRF05 **64**. Os lotes MPES e MPSE ainda não integrados não entram na conta. A conferência é focada, sem nova auditoria global; as nove lacunas iniciais do BNP permanecem. Apenas Markdown público; capturas e derivados privados.
+## TRF05 — súmulas da Turma Recursal/JFRN
+
+A [compilação oficial da Turma Recursal da Seção Judiciária do Rio Grande do Norte](https://siteadm.jfrn.jus.br/siteAdm/ExibirImagem?id=18724) publica treze súmulas, 01–13, em duas páginas. A Turma é identificada como emissora; a série fica sob o âmbito regional TRF05, sem confusão com súmulas do Pleno do TRF5, TRU, TNU ou FONAJEF. A nº 12 atravessa as páginas 1–2 e foi reunida integralmente. As duas páginas foram lidas nas imagens e cotejadas com a camada textual, sem OCR; “cautelarese”, da nº 06, e as outras grafias e pontuações foram mantidas. As notas de aprovação permanecem no corpo, sem inferência de vigência atual ou efeito vinculante.
+
+As duas capturas HTTP 200 têm 720.001 bytes e SHA-256 idêntico; o [índice da série](tribunais/TRF05/sum-tr-jfrn/) registra os recibos, as datas atribuídas às sessões e os limites. Atas, julgados paradigmas, regimento e eventual edição posterior seguem pendentes. A localização deste arquivo não prova que a série termina em 13 nem que inexista alteração ou cancelamento.
+
+Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, 42.715 registros em 185 órgãos, este lote soma +13 registros e +0 órgãos: total esperado **42.728 registros em 185 órgãos**, TRF05 **39**. O lote Forecrim de 38 identidades e os lotes MPES/MPSE, ainda não integrados, não entram nesta conta. A checagem é focada, sem auditoria global; as nove lacunas iniciais do BNP permanecem. Apenas Markdown público; PDFs, capturas e derivados privados.
+## TRF05 — enunciados da TRU
+
+Cinco enunciados próprios, 1–5, foram conferidos no [catálogo oficial](https://jef.trf5.jus.br/resolucoes/enunciadosTRU.php), em duas capturas HTML HTTP 200 idênticas. O PDF FONAJEF apenas ligado na página permanece separado e não foi usado como corpo regional. Datas, votos, alterações e situação atual não foram inferidos. [Índice e recibos](tribunais/TRF05/en-tru/). Delta +5/0 sobre `a421b646`: total esperado 42.720/185, TRF05 31, sem contagem global nesta execução.
+## TRF04 — séries próprias da TRU
+
+Foram incorporadas 18 súmulas e oito questões de ordem dos catálogos oficiais, com blocos jurídicos coincidentes nos pares HTML. Avisos de alteração, cancelamento e revogação, redação original da questão de ordem 2 e referências aos julgados permanecem atribuídos às páginas. Nenhum risco foi inferido. Os documentos vinculados não foram lidos. [Proveniência e recibos](tribunais/TRF04/tru-proveniencia.md). Delta +26/0 sobre `a421b646`: total esperado 42.741/185 e TRF04 258, sem contagem global.
+## TRF02 — súmulas próprias da TRU
+
+O [catálogo oficial](https://trf2.jus.br/trf2/artigo/pres/sumulas) publica 65 posições, números 1–65. Duas capturas HTML HTTP 200 idênticas sustentam o cotejo dos títulos, corpos e notas. A nº 25 contém somente aviso de cancelamento; o corpo histórico permanece pendente, separado das nove lacunas iniciais do BNP. Textos e avisos de 10, 26 e 46 e redações distintas de 55/64 foram preservados sem inferir vigência ou revogação adicional. [Índice e recibos](tribunais/TRF02/sum-tru/). Delta +65/0 sobre `a421b646`: total esperado 42.780/185, TRF02 619, sem contagem global.
+## TRF01 — súmulas e teses próprias da TRU
+
+A lista expansível “Súmulas TRU” do catálogo de Atos Normativos da COJEF publica cinco súmulas e nove blocos de teses por sessão, cotejados em duas capturas HTML HTTP 200. As teses sem numeração recebem IDs convencionais por data e ordem do bloco; processos citados não se tornaram registros separados. Documentos das turmas estaduais e FONAJEF apenas ligados permanecem pendentes. [Proveniência e recibos](tribunais/TRF01/tru-proveniencia.md). Delta +14/0 sobre `a421b646`: total esperado 42.729/185 e TRF01 273, sem contagem global.
 
 ## MPCSC — enunciados
 
@@ -189,6 +222,8 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | --- | ---: | ---: | ---: |
 | [MPSE — Assentos do CSMP](tribunais/MPSE/ass-csmp/) | 36 | 36 | 0 |
 | [MPSE — Súmulas criminais](https://www.mpse.mp.br/index.php/transparenciampse/institucional/entendimento-criminais/) | 18 | 18 | 0 |
+| [TRF05 — Catálogo Forecrim](https://www.trf5.jus.br/index.php/eventos-do-forecrim) | 40 posições / 38 identidades | 38 | 0 |
+| [JFRN — Súmulas da Turma Recursal](https://siteadm.jfrn.jus.br/siteAdm/ExibirImagem?id=18724) | 13 | 13 | 0 |
 | [MPCSC — Enunciados](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) | 2 | 2 | 0 |
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
@@ -1163,12 +1198,14 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
-| [TRF01](tribunais/TRF01/) | 259 | 110 | 110 |
+| [TRF02](tribunais/TRF02/) | 619 | 24 | 24 |
 | [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
+| [TRF01](tribunais/TRF01/) | 273 | 110 | 110 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
-| [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
+| [TRF05](tribunais/TRF05/) | 82 | 4 | 4 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
-| [TRF06](tribunais/TRF06/) | 92 | 22 | 22 |
+| [TRF04](tribunais/TRF04/) | 258 | 96 | 66 |
+| [TRF06](tribunais/TRF06/) | 107 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
 | [TJAL](tribunais/TJAL/) | 14 | 4 | 4 |
 | [TJAP](tribunais/TJAP/) | 80 | 45 | 45 |
@@ -1359,7 +1396,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPES, MPSE, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPES, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
 
