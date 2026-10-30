@@ -1,4 +1,4 @@
-# STJ · Enunciado científico do 1º Congresso da Primeira Instância · 245
+# STJ · Enunciado científico do 1º Congresso da Primeira Instância · registro de ordem 245
 
 - **Órgão:** Superior Tribunal de Justiça (STJ)
 - **Evento:** 1º Congresso STJ da Primeira Instância Federal e Estadual

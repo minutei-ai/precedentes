@@ -1,4 +1,4 @@
-# STJ · Enunciado científico do 1º Congresso da Primeira Instância · 186
+# STJ · Enunciado científico do 1º Congresso da Primeira Instância · registro de ordem 186
 
 - **Órgão:** Superior Tribunal de Justiça (STJ)
 - **Evento:** 1º Congresso STJ da Primeira Instância Federal e Estadual
