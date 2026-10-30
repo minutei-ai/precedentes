@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.448 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.465 registros únicos de 170 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -85,6 +85,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
 | [Fonavid — Enunciados](https://fonavid.com.br/conteudos/enunciados) | 81 | 81 | 0 |
+| [Fonaref — 3º Congresso, caderno final](https://www.cnj.jus.br/wp-content/uploads/2026/02/enunciados-aprovados-3o-fonaref.pdf) | 17 | 17 | 0 |
 | [Enfam — Seminário O Poder Judiciário e o novo CPC](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 62 | 62 | 0 |
 | [CNPG/GNCCRIM — Enunciados 41–44 reproduzidos pelo MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal) | 4 | 4 | 0 |
 | [MPBA — Súmulas do Conselho Superior](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas) | 10 | 10 | 0 |
@@ -1024,6 +1025,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
+| [FONAREF](tribunais/FONAREF/) | 17 | 3º Congresso, caderno final de enunciados aprovados |
 | [ENFAM](tribunais/ENFAM/) | 62 | Seminário O Poder Judiciário e o novo CPC (2015), reprodução no catálogo STJ |
 | [CNPG](tribunais/CNPG/) | 4 | CNPG/GNCCRIM — enunciados 41–44 reproduzidos em notícia institucional do MPPR |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
@@ -2370,6 +2372,12 @@ Entram 62 enunciados, números 1–62, em órgão próprio ENFAM e série `en-cp
 
 Sobre `9baeb8e0` (41.119 registros em 166 órgãos), o delta é +62 registros e +1 órgão: 41.181 registros em 167 órgãos. CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 permanecem. As nove lacunas iniciais do BNP continuam.
 
+## Fonaref — 17 enunciados do terceiro congresso
+
+O caderno final publicado em fevereiro/2026 contém os números 1–17 e suas justificativas, das comissões 01–04, para o evento de 17–18/11/2025. Foram lidas visualmente as 22 páginas físicas, com camada textual de apoio e sem OCR. Texto jurídico nas páginas 11–20; fonte, bytes, SHA, paginação e limites constam de cada ficha e do índice. Duas capturas HTTP 200 idênticas. A apresentação menciona cinco comissões, mas a quinta não tem enunciados neste arquivo; não foi reconstruída do caderno prévio aprovado apenas para debate. Mantidas a aspa unilateral do nº 4, RMA/RPA no nº 6, artigos distintos no nº 10, “reponsabilidade” no nº 14 e “TJ” na justificativa 16. Os números de outros congressos não foram fundidos. Atas e julgados citados não viraram registro.
+
+Base `20365a10` (41.433 registros em 168 órgãos, já com Fonavid 81, 124 minutas FOJESP e 47 enunciados ENJESP). Delta +17 registros e +1 órgão FONAREF: 41.450 registros em 169 órgãos. PRs #140 e #141 já estão integrados nesta base. ENFAM 62, Fonavid 81, TJMG 447, TJSP 397, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 preservados. As nove lacunas iniciais do BNP permanecem. Não se inferiu vigência, vinculação ou exaustividade; demais congressos e documentos continuam pendentes.
+
 ## Fonavid — 81 enunciados no site próprio
 
 Os números 1–81, títulos e corpos foram lidos no contêiner `#enunciados-para-exportacao` do site do Fonavid e comparados entre dois HTMLs HTTP 200 idênticos, de 170.414 bytes. SHA e limites constam do índice da série. Revogações, alterações, grafias e notas de encontros permanecem literais; não se inferiu vigência ou vinculação. O PDF de 2025 reproduzido pelo TJSE foi capturado, mas não foi lido visualmente nem usado como fonte textual. Não houve OCR ou reconstrução de redação antiga. Atas, cartas e fontes históricas continuam pendentes. A cópia do CNJ, identificada como atualizada até XIV/2022, não substitui o catálogo próprio com os números do XVII encontro. Nenhuma norma citada virou registro.
@@ -2394,4 +2402,4 @@ A página oficial do [CNJ](https://www.cnj.jus.br/programas-e-acoes/precatorios/
 
 Duas respostas HTTP 200 foram capturadas (279.492 bytes, SHA-256 `9aec1b117e2f84d5b6dfd16cff3a159a91a33e9eaa83dd7038442778cfe9a7f7`; 279.462 bytes, SHA-256 `33a8277d20e3a1c120026c86ecfe2a4e4a37dfb8c3b97485c4179e040ec48a19`). Embora o HTML varie em tamanho e hash, a leitura e comparação do DOM confirma os mesmos 15 títulos e corpos. Capturas privadas. A página chama coletivamente os itens apresentados de “em vigor”; não se converteu essa frase em vigência independente ou status individual. A regra de atualização pela SELIC, aprovações, notas e a nota com parênteses duplicados no nº 9 foram mantidas conforme a página.
 
-As normas, regimento e publicações do Diário da Justiça citados ou vinculados permanecem pendentes de leitura; não receberam registros. A lista da página não prova completude histórica. Sobre a main `20365a10847f57027bc987f236b6a89799ead487` (41.433 registros em 168 órgãos; TJMG 447, TJSP 397, Fonavid 81, Enfam 62, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 1.209), este lote soma 15 registros e um órgão: 41.448 registros em 169 órgãos. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Somente Markdown público.
+As normas, regimento e publicações do Diário da Justiça citados ou vinculados permanecem pendentes de leitura; não receberam registros. A lista da página não prova completude histórica. Sobre a main inicialmente indicada, `20365a10847f57027bc987f236b6a89799ead487` (41.433 registros em 168 órgãos; TJMG 447, TJSP 397, Fonavid 81, Enfam 62, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 1.209), este lote soma 15 registros e um órgão: 41.448 registros em 169 órgãos. Enquanto o PR estava em preparo, a main integrou o PR #143, com 17 registros FONAREF e um órgão. A main atual `b9ecffa2542a180fac931b5929e7c5194c44e664` tem 41.450 registros em 169 órgãos; com este lote, o total é 41.465 registros em 170 órgãos. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Somente Markdown público.
