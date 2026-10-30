@@ -10,7 +10,7 @@
 
 ## Texto na compilação
 
-A correspondência ou contrafé recebida no eendereço da parte é eficaz para efeito de citação e intimação, desde que identificado o seu
+A correspondência ou contrafé recebida no endereço da parte é eficaz para efeito de citação e intimação, desde que identificado o seu
 
 > Nota de transcrição: A imagem da página 2 termina em “identificado o seu”; a compilação não contém continuação.
 
