@@ -1,10 +1,14 @@
 # Cobertura
 
-**42.715 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.741 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## TRF04 — séries próprias da TRU
+
+Foram incorporadas 18 súmulas e oito questões de ordem dos catálogos oficiais, com blocos jurídicos coincidentes nos pares HTML. Avisos de alteração, cancelamento e revogação, redação original da questão de ordem 2 e referências aos julgados permanecem atribuídos às páginas. Nenhum risco foi inferido. Os documentos vinculados não foram lidos. [Proveniência e recibos](tribunais/TRF04/tru-proveniencia.md). Delta +26/0 sobre `a421b646`: total esperado 42.741/185 e TRF04 258, sem contagem global.
 
 ## MPCSC — enunciados
 
@@ -1143,7 +1147,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF01](tribunais/TRF01/) | 259 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
-| [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
+| [TRF04](tribunais/TRF04/) | 258 | 96 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
 | [TRF06](tribunais/TRF06/) | 92 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
