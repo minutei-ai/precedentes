@@ -1,10 +1,20 @@
 # Cobertura
 
-**42.666 registros únicos de 184 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.668 registros únicos de 185 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## MPCSC — enunciados
+
+O Ministério Público de Contas de Santa Catarina entra como órgão próprio (MPCSC). Não se confunde com o TCESC, o MPSC, o MPF nem os Ministérios Públicos de Contas de outros estados. Na `origin/main` `8aeec6055f858256b9205c0c90b597138680ade2` não havia diretório `tribunais/MPCSC`.
+
+A [página oficial](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) imprime dois enunciados. Cada um permanece na mesma identidade da portaria que o tornou público no Diário Oficial Eletrônico do TCE/SC. O 1º é a Portaria MPC nº 3/2020, edição nº 2823, de 27/01/2020, páginas 37 e 38. O 2º é a Portaria MPC nº 51/2020, edição nº 3001, de 15/10/2020, página 49. O catálogo imprime “vale alimentação” e a portaria imprime “vale-alimentação”. No 2º, o catálogo usa travessão e a portaria usa hífen. A notícia de 27/01/2020 imprime “facultando lhes” no quadro do primeiro enunciado. Essas diferenças ficam no mesmo identificador.
+
+Sobre essa main, com 42.666 registros em 184 órgãos e os 38 despachos da PGE/GO de 2020 já integrados, este lote acrescenta 2 registros e 1 órgão. O total pelo delta é **42.668 registros em 185 órgãos**. PGEGO permanece em 102, ANCINE em 20 e ANP em 7. A consulta da ANVISA, sem identificador, permanece. O PR #170, ainda aberto, não entra na soma. As nove lacunas textuais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A soma é focada e não repete a varredura global.
+
+Foram lidas visualmente as páginas 37 e 38 da edição de janeiro e a página 49 da edição de outubro, com a camada textual como apoio. Não houve OCR. O estudo citado no art. 2º de cada portaria não foi lido: os atalhos do sítio permanecem literais e os endereços consultados responderam 404 ou devolveram HTML da página inicial. A busca de páginas com “enunciado” e a busca de posts com “terceiro enunciado” não localizaram outro enunciado nesta consulta. Isso não fecha a série. Portarias de outro objeto, atas, notícias, orientações e normas apenas citadas não receberam identificador. Não se infere vigência, vinculação ou completude. Não há CPF, RG, matrícula ou URL de autenticação nos blocos publicados. Capturas e recibos ficam privados. O [índice da série](tribunais/MPCSC/en/) registra os recibos e os limites.
 
 ## ANVISA — consulta de súmulas
 
@@ -159,6 +169,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [MPCSC — Enunciados](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) | 2 | 2 | 0 |
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
 | [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
@@ -1244,6 +1255,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
 | [MPGO](tribunais/MPGO/) | 69 | MPGO — 13 enunciados CEP, 41 SUBJUR e 15 ANPP, em séries próprias da CEP e da SPGJ/AJ |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
+| [MPCSC](tribunais/MPCSC/) | 2 | MPCSC — dois enunciados próprios, distintos do MPSC e do TCESC |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
 | [MPCE](tribunais/MPCE/) | 34 | MPCE — Súmulas do Conselho Superior |
