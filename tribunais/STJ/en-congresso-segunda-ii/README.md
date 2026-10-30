@@ -4,7 +4,7 @@ Série própria do **2º Congresso STJ da Segunda Instância Federal e Estadual*
 
 A seção consultada apresenta **126 números (1–126), em 23 grupos temáticos**. Os textos abaixo foram lidos na seção oficial e preservam redação, numeração e títulos dos grupos. A descrição geral do SCON classifica os enunciados científicos como proposições votadas e aprovadas em eventos acadêmicos. Não se infere vigência, força vinculante, atualidade de titularidade ou exaustividade além do que a seção apresenta.
 
-Os números 23–31 aparecem sob os títulos de grupo “Análise em Bloco das Propostas Pré-Aprovadas do Eixo Direito Processual Civil” e “... do Eixo Direito Privado”. Foram transcritos da seção do catálogo do congresso; nenhum caderno pré-evento foi usado como fonte ou tratado como texto aprovado.
+Os números 23–31 aparecem sob os títulos de grupo “Análise em Bloco das Propostas Pré-Aprovadas do Eixo Direito Processual Civil” e “... do Eixo Direito Privado”. Esses títulos são preservados como agrupamentos da coleção: a leitura não os converte em classificação de proposta legislativa, status individual ou data de aprovação. Os textos foram transcritos da seção do catálogo; nenhum caderno pré-evento foi usado como fonte ou tratado como registro aprovado.
 
 O portal do STJ também reúne quatro congressos em [Enunciados Jurisdicionais](https://www.stj.jus.br/sites/portalp/Paginas/Jurisprud%C3%AAncia/Enunciados-Jurisdicionais.aspx). A listagem filtrada do SCON tem problemas de codificação que podem produzir resultado vazio; esse resultado não foi tratado como ausência.
 
