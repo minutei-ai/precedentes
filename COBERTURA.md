@@ -1,8 +1,8 @@
 # Cobertura
 
-**41.660 registros únicos de 171 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.846 registros únicos de 171 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
-9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
+9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
 
@@ -131,6 +131,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [PGE/SP — Súmulas históricas, 2ª edição de 1999](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm) | 23 | 23 | 0 |
 | [TRF1 — Coletânea oficial de súmulas](https://www.trf1.jus.br/trf1/conteudo/Sumula2026.pdf) | 61 | 61 | 0 |
 | [TRF1 — Enunciados da I Jornada de Justiça Climática e Transformação Ecológica](tribunais/TRF01/en-jornada-climatica-i/) | 38 | 38 | 0 |
+| [TRF2 — Catálogo de enunciados, recomendações, sugestões, moções e conclusões dos FOREJEFs](https://www.trf2.jus.br/trf2/artigo/pres/enunciados-recomendacoes-sugestoes-mocoes-e-conclusoes-dos-forejefs-da-2a-regiao) | 187 (186 atos e 1 proposta legislativa sem ID) | 186 | 0 |
 | [TJSE — Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) | 14 | 14 | 0 |
 | [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
 | [PGE/RJ — Enunciados próprios](https://pge.rj.gov.br/enunciados) | 55 | 55 | 0 |
@@ -937,7 +938,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 209 | 110 | 110 |
-| [TRF02](tribunais/TRF02/) | 86 | 24 | 24 |
+| [TRF02](tribunais/TRF02/) | 272 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
@@ -2423,9 +2424,10 @@ O PR #143 integrou à main `b9ecffa25` os 17 enunciados do III Congresso e acres
 Os 17 registros do III Congresso permanecem na série independente e foram preservados durante o merge comum da main avançada. Os três congressos ficam no mesmo órgão FONAREF, contado uma única vez. As capturas e demais evidências continuam privadas; a cobertura nacional permanece parcial.
 
 
+
 ## FONAJUS — enunciados de Direito da Saúde
 
-Na base `7167dc1940fe83fa3d0da3416a4607aee156eb50` havia 41.484 registros únicos de 170 órgãos. Esta integração acrescenta 176 identidades, numeradas explicitamente de 1 a 176, e um órgão próprio: total de 41.660 registros em 171 órgãos. A série do FONAJUS/CNJ é separada dos 47 enunciados da I Jornada de Direito da Saúde já catalogados pelo CJF; nenhum registro do CJF foi alterado. As nove lacunas do catálogo inicial do BNP permanecem inalteradas.
+A base `3f877c7abd27ac45f932bd7cf144876bca7c5790`, após a incorporação do PR #147 do TRF02, tinha 41.670 registros únicos em 170 órgãos. Esta integração acrescenta 176 identidades, numeradas explicitamente de 1 a 176, e um órgão próprio: total de 41.846 registros em 171 órgãos. A série do FONAJUS/CNJ é separada dos 47 enunciados da I Jornada de Direito da Saúde já catalogados pelo CJF; nenhum registro do CJF foi alterado. As nove lacunas do catálogo inicial do BNP permanecem inalteradas.
 
 | Fonte incorporada | Recorte e paginação | Verificação e atribuição |
 | --- | --- | --- |
@@ -2437,3 +2439,12 @@ Na base `7167dc1940fe83fa3d0da3416a4607aee156eb50` havia 41.484 registros único
 As 40 páginas da compilação, as 4 da VI, as 12 da VII e as 10 da VIII foram conferidas visualmente contra as imagens fornecidas e comparadas à camada textual já existente. Não houve nova renderização, extração ou OCR. A camada textual da compilação contém “off labcl” no nº 5, enquanto a imagem da p. 5 imprime “off label”; prevaleceu a forma visual. O cabeçalho da p. 23 imprime “ENUNCIANDO Nº 100”, mantendo-se o número explícito. O documento da VIII Jornada contém realces amarelos nos números 12, 109, 155 e 175; o destaque foi registrado sem inferir status. Foram preservados erros, riscos, notas e referências, inclusive “custoefetividade”, “RDC nº 344 da ANVISA”, “juizo”, “ANS 623/2024”, “caso concreto..”, “red14e conveniada”, “AFONCO”, a quebra do nº 175 entre páginas e o resultado de votos impresso no nº 56. Corpos sem conteúdo, como avisos, não foram reconstruídos. Não se afirma vigência, efeito vinculante, exaustividade ou status atual; referências a outros atos não geraram registros.
 
 A página do [MPPR](https://site.mppr.mp.br/saude/Pagina/Enunciados-Fonajus-CNJ) foi consultada para cotejo, mas a reprodução não foi usada para compor textos nem identidades. O HTML preservado (.field--name-field-texto) tem 105.728 bytes e SHA-256 `b7b69c4fc475e8c2a54b63836e877ed473e2c96ed8ccc70dfa73bd0d585618fa`, sem paginação; o conteúdo visível da captura salta os nºs 5 e 100, o que não demonstra ausência. A compilação do CNJ fornece ambos. CPF, RG, matrícula pessoal, chaves, CRC e dados de validação foram omitidos; nomes e cargos públicos foram mantidos. PDFs, imagens, recibos e capturas permanecem na evidência privada, fora do repositório.
+## TRF02 — catálogo dos FOREJEFs da 2ª Região
+
+O [catálogo oficial do TRF2](https://www.trf2.jus.br/trf2/artigo/pres/enunciados-recomendacoes-sugestoes-mocoes-e-conclusoes-dos-forejefs-da-2a-regiao) acrescenta 186 registros em cinco séries próprias do órgão: 165 enunciados (1–165), 13 recomendações (1–13), duas sugestões (1–2), uma moção (1) e cinco conclusões (1–5). A proposta legislativa nº 1 foi transcrita no README do TRF02 como proposta, sem ID; leis, casos e enunciados da TNU/TRU apenas citados não receberam registros.
+
+O corpo jurídico primário foi lido integralmente: começa no primeiro `h4` do `div.field--name-body` cujo conteúdo inicia pela seção “Enunciados”; o primeiro bloco global dessa classe é apenas o logotipo. Duas capturas da mesma URL, recebidas em 30/10/2026 UTC (29/10/2026 no horário de Brasília), retornaram HTTP 200, 92.728 bytes cada, SHA-256 `3c9cc289b6c2231b7db40226f26be3f0cd5cc68aca7c0e0bf9a9f3db0dddcd01`. O texto, as fronteiras entre itens, as notas, o risco e as listas foram preservados. Não houve PDF, rasterização ou OCR; os materiais brutos e recibos permanecem privados.
+
+A própria página informa publicação em 23/08/2024 e modificação em 06/09/2024. Essas datas são editoriais da página, não datas individuais de aprovação. A seção “Apresentação de Resultados” foi transcrita com atribuição ao catálogo no [README do TRF02](tribunais/TRF02/README.md): VIII FOREJEF/2019 (enunciados 141–165, recomendações 11–13, sugestão 2 e cancelamentos de enunciados 1, 90, 92, 99, 107, 108, 119 e 128, conclusões 3–5 e recomendação 7); VII/2018 (enunciados 116–140, recomendações 5–10, cancelamentos 9 e 24 e proposta legislativa 1); VI/2017 (enunciados 80–115, recomendações 2–4, sugestão 1, moção 1 e cancelamentos 10, 21, 50 e 57); V/2016 parte II (conclusões 1–5); V/2016 parte I (enunciados 70–79 e recomendação 1); IV/2015 (enunciados 49–69); III/2014 (enunciados 28–48); II/2013 (enunciados 12–27); I/2012 (enunciados 1–11). A redação das datas e atribuições permanece como apresentada pela página. Não se inferiram vigência atual nem força vinculante.
+
+Sobre a main `7167dc1940fe83fa3d0da3416a4607aee156eb50`, com 41.484 registros em 170 órgãos e TRF02 em 86 (IAC 1, IRDR 7, NT 16, SUM 62), o delta é de 186 registros e nenhum órgão: 41.670 registros em 170 órgãos; TRF02 passa a 272, com IAC 1, IRDR 7, NT 16, SUM 62, enunciados FOREJEF 165, recomendações 13, sugestões 2, moções 1 e conclusões 5. As 9 lacunas textuais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Os demais lotes já incorporados na main foram preservados; apenas Markdown público, cobertura nacional parcial.
