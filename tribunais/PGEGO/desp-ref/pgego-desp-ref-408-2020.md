@@ -14,6 +14,8 @@
 
 ### Página física 1
 
+Processo: 201900010048537
+
 DESPACHO Nº 408/2020 - GAB
 
 Ementa: consulta. Secretaria de estado da saúde. Contratação de servidor cedido por interposta pessoa jurídica. Vedação quando destinada exclusivamente ao pagamento do adicional de que trata o art. 14-b, § 3º, da lei estadual n. 15.503/2005. Aperfeiçoamento da orientação veiculada no despacho n. 1933/2019 gab. Transgressão disciplinar. Art. 303, vi e vii, da lei estadual n. 10.460/88. Elementos dos tipos. Iminente vigência da lei estadual n. 20.756/2020. Inovações na configuração disciplinar. Princípio da retroatividade da lei penal mais benéfica. Aplicação no direito disciplinar. Vacatio legis não impeditiva da retroação da lex mitior. Necessidade de observância da lei estadual n. 18.846/2015 (conflito de interesses) e do art. 4º, parágrafo único, da lei estadual n. 15.503/2005.
@@ -56,7 +58,7 @@ novo vínculo de contratação, mediante pessoa jurídica, para a prestação de
 
 ### Página física 4
 
-"1. Trata-se de consulta formulada pela Gerência de Gestão Institucional da prevista no art. 303, inciso VII, da Lei estadual nº 10.460/88, que impõe a pena de suspensão de até 90 (noventa) dias ao servidor público estadual, que exerça atividade de comércio ou que participe de sociedade comercial, exceto como acionista, cotista ou comanditário
+"1. Trata-se de consulta formulada pela Gerência de Gestão Institucional da Procuradoria-Geral do Estado de Goiás acerca do alcance da infração funcional prevista no art. 303, inciso VII, da Lei estadual nº 10.460/88, que impõe a pena de suspensão de até 90 (noventa) dias ao servidor público estadual, que exerça atividade de comércio ou que participe de sociedade comercial, exceto como acionista, cotista ou comanditário
 
 2. A dúvida advém da situação específica da servidora Sra. [identificação tarjada na fonte], ocupante de cargo efetivo de Gestor Público, que, em caráter preventivo, questiona a conformidade legal entre o regime estatutário e o exercício de atividade privada, mediante constituição de pessoa jurídica, para atendimento neuropsicopedagógico.
 

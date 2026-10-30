@@ -14,6 +14,8 @@
 
 ### Página física 1
 
+Processo: 201900016026301
+
 DESPACHO Nº 352/2020 - GAB
 
 EMENTA: ADMINISTRATIVO. SERVIDOR. PROCESSO ADMINISTRATIVO DISCIPLINAR. CONTAGEM DE PRAZOS. IMPACTO DA ALTERAÇÃO DOS ARTS. 66, § 2º E 67, DA LEI ESTADUAL Nº 13.800/2001, POR FORÇA DAS LEIS ESTADUAIS NºS 20.276/2018 E 20.471/2019, RESPECTIVAMENTE.
@@ -36,7 +38,7 @@ iv) após a recente alteração legislativa que passou a prescrever a suspensão
 
 "i) em relação aos prazos previstos na Lei estadual nº 10.460/88 para apresentação das peças de defesa prévia e alegações finais no processo administrativo disciplinar, computar-se-ão somente os dias úteis, em consonância com o que estabelece o artigo 66, § 2º, da Lei estadual nº 13.800/2001, com a redação dada pela Lei estadual nº 20.276/2018;
 
-ii) do mesmo modo, os prazos fixados no Estatuto dos Servidores Públicos Civis do processo administrativo disciplinar, deverão ser computados em dias úteis, conforme preconiza o supracitado artigo 66, § 2º, da Lei estadual nº 13.800/2001;
+ii) do mesmo modo, os prazos fixados no Estatuto dos Servidores Públicos Civis do Estado de Goiás e de suas Autarquias para citação, intimação e notificação no processo administrativo disciplinar, deverão ser computados em dias úteis, conforme preconiza o supracitado artigo 66, § 2º, da Lei estadual nº 13.800/2001;
 
 iii) também os prazos estabelecidos na Lei estadual nº 10.460/88 para conclusão do processo administrativo disciplinar deverão ser computados em dias úteis, com fulcro na regra de que trata o artigo 66, § 2º, da Lei estadual nº 13.800/2001;
 

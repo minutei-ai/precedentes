@@ -14,6 +14,8 @@
 
 ### Página física 1
 
+Processo: 201900006054528
+
 DESPACHO Nº 229/2020 - GAB
 
 EMENTA:   SERVIDOR     PÚBLICO.     PROCESSO ADMINISTRATIVO   DISCIPLINAR    EM    CURSO. ABANDONO DAS FUNÇÕES DO MAGISTÉRIO. REQUERIMENTO FORMAL DO SERVIDOR EM RETORNAR AO SERVIÇO. POSSIBILIDADE.
@@ -96,7 +98,7 @@ Parágrafo único. O afastamento preventivo constitui medida de interesse proces
 
 ### Página física 5
 
-ESQ. COM A AVENIDA REPÚBLICA DO LÍBANO, ED. REPUBLICA TOWER (62) 3252-8523
+[Página sem texto decisório; elementos de autenticação omitidos.]
 
 ## Limites da coleta
 

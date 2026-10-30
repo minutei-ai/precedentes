@@ -15,6 +15,8 @@
 
 ### Página física 1
 
+Processo: 202000041000172
+
 DESPACHO Nº 1983/2020 - GAB
 
 EMENTA: ADMINISTRATIVO. CONSULTA. TJGO. PROCESSO ADMINISTRATIVO DE RESSARCIMENTO AO ERÁRIO POR EX- SERVIDORES. INAPLICABILIDADE DA LEI ESTADUAL Nº 20.756/2020. CORREÇÃO MONETÁRIA E JUROS DE MORA. PRAZOS PARA IMPUGNAÇÃO E PAGAMENTO. DIREITO INTERTEMPORAL. COMPETÊNCIA DECISÓRIA. DESPACHO REFERENCIAL.
@@ -73,7 +75,7 @@ EMENTA: ADMINISTRATIVO. CONSULTA. TJGO. PROCESSO ADMINISTRATIVO DE RESSARCIMENTO
 
 20. Desse modo, nos processos administrativos cuja intimação do devedor ainda não havia sido determinada quando da vigência do novo Estatuto, deverá ser concedido o prazo de 10 (dias) úteis para impugnação, nos termos dos arts. 44 e 66, § 2º, da Lei estadual nº 13.800/20016.
 
-21. Ademais, quanto ao prazo para pagamento do débito, com o fito de dar completude normativa à lacuna temporária imposta aos servidores do TJGO, conclui-se que o mais razoável é se utilizar do prazo de 20 (vinte) dias para pagamento de imposto, previsto no art. 63, § 1º, II, do Código Tributário do prazo para adimplemento de débito.
+21. Ademais, quanto ao prazo para pagamento do débito, com o fito de dar completude normativa à lacuna temporária imposta aos servidores do TJGO, conclui-se que o mais razoável é se utilizar do prazo de 20 (vinte) dias para pagamento de imposto, previsto no art. 63, § 1º, II, do Código Tributário do Estado de Goiás (Lei estadual nº 11.651/1991), na medida em que a Lei estadual nº 13.800/2001 não trata de prazo para adimplemento de débito.
 
 22. Todavia, considerando que a Lei nº 20.756/2020 já se encontra em vigor desde 28/7/2020, caso tenha havido a adoção dos prazos praticados à época da vigência da revogada Lei estadual nº 10.460/1988 aos processos administrativos de ressarcimento já instaurados sob a égide do novel Estatuto dos Servidores, como sua utilização não foi prejudicial ao ex-servidor, já que tanto o prazo para pagar quanto para impugnar até então praticados pelo Tribunal eram superiores aos fixados na Lei estadual nº 13.800/2001 e na Lei estadual nº 11.651/1991, não há necessidade de renovação dos atos processuais.
 

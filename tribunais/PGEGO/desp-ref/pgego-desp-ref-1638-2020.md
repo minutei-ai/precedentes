@@ -15,6 +15,8 @@
 
 ### Página física 1
 
+Processo: 202000010014591
+
 DESPACHO Nº 1638/2020 - GAB
 
 EMENTA:   ADMINISTRATIVO.     SUPOSTA ACUMULAÇÃO IRREGULAR DE CARGOS PÚBLICOS. SERVIDORA PÚBLICA ESTADUAL OCUPANTE DE CARGO DE PROVIMENTO EFETIVO. CONCOMITANTEMENTE PRESTA SERVIÇO COMO ENFERMEIRA, VIA CREDENCIAMENTO, NO MUNICÍPIO DE SANTA HELENA DE GOIÁS. POSSIBILIDADE. PRECEDENTES. DESPACHOS   AG    Nº    2822/2015  E  Nº  3528/2016. ORIENTAÇÃO REFERENCIAL.
@@ -47,7 +49,7 @@ indiretamente, pelo Poder Público. § 6º Detectada a qualquer tempo suposta ac
 
 8. Como já foi dito, esse é o entendimento adotado por esta Casa no Despacho “AG” nº 2822/2015, reafirmado no Despacho AG nº 3528/2016 (processo nº 201400010014806), de modo que cabe ser analisado em cada caso o contrato de credenciamento para a confirmação da natureza do respectivo vínculo.
 
-9. As cópias dos ajustes firmados pela servidora [identificação tarjada na fonte] Município de Santa Helena de Goiás, juntados aos autos, demonstram que ela presta serviço de Enfermeira, sem qualquer vínculo com o Município, na condição de profissional de saúde credenciada, não tendo que se falar em acumulação irregular de cargos públicos, mas sendo indispensável a compatibilidade de horários para que a carga horária semanal do cargo de provimento efetivo seja devidamente prestada, sob pena de responsabilização administrativa pelo seu desatendimento, conforme orientação esposada pela Procuradoria Setorial da Secretaria de Estado da Saúde, via Parecer PROCSET nº 623/2020, que ora acolho.
+9. As cópias dos ajustes firmados pela servidora [identificação tarjada na fonte] e o Município de Santa Helena de Goiás, juntados aos autos, demonstram que ela presta serviço de Enfermeira, sem qualquer vínculo com o Município, na condição de profissional de saúde credenciada, não tendo que se falar em acumulação irregular de cargos públicos, mas sendo indispensável a compatibilidade de horários para que a carga horária semanal do cargo de provimento efetivo seja devidamente prestada, sob pena de responsabilização administrativa pelo seu desatendimento, conforme orientação esposada pela Procuradoria Setorial da Secretaria de Estado da Saúde, via Parecer PROCSET nº 623/2020, que ora acolho.
 
 10. Orientada a matéria, encaminhem-se os presentes autos à Secretaria de Estado da Saúde, via Procuradoria Setorial, para conhecimento deste pronunciamento e tomada das medidas cabíveis. Antes, porém, cientifiquem-se do teor desta orientação referencial as Chefias da Procuradoria Judicial, das Procuradorias Regionais e demais Procuradorias Setoriais, que devem se encarregar de cientificar os titulares das respectivas pastas, e por último ao CEJUR (para os fins do art. 6º, § 2º, da Portaria nº 127/2018 GAB).
 

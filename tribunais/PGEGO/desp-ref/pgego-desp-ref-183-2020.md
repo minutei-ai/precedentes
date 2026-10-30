@@ -14,6 +14,8 @@
 
 ### Página física 1
 
+Processo: 201600006035103
+
 DESPACHO Nº 183/2020 - GAB
 
 EMENTA: PROCESSO ADMINISTRATIVO DISCIPLINAR (PAD). ABANDONO DE CARGO. PROFESSOR ESTADUAL. REGULARIDADE FORMAL. JUÍZO DE VALOR DO MÉRITO DA CONDUTA APURADA RESTRITO À AUTORIDADE JULGADORA. ELEMENTO SUBJETIVO DO TIPO. IMINENTE VIGÊNCIA DA LEI ESTADUAL Nº 20.757/2020. INOVAÇÃO LEGAL QUE PASSA A EXIGIR INTENÇÃO DO SERVIDOR PARA CARACTERIZAR A INFRAÇÃO. ORIENTAÇÕES PGE RELACIONADAS À LEGISLAÇÃO ANTERIOR DEIXAM DE TER APLICABILIDADE. PRINCÍPIO DA RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA. APLICAÇÃO NO DIREITO DISCIPLINAR. VACATIO LEGIS DAS LEIS NSº 20.757/2020 E 20.756/2020 NÃO IMPEDITIVA DA RETROAÇÃO DA LEX MITIOR. FACULDADE DO JULGADOR EM DETERMINAR A COMPLEMENTAÇÃO DA INSTRUÇÃO PROCESSUAL.
@@ -28,7 +30,7 @@ Despacho nº 1637/2019 PA (000010683128), da Chefia correspondente, emitiu orien
 
 3. Enfatizo, de início, as passagens do Parecer PA nº 1714/2019 que indicam tocar somente ao julgador a prerrogativa de assentar um juízo de valor sobre a infração apurada, devendo nisso prezar, motivadamente, o conjunto probante, bem como as diretrizes jurídicas atreladas ao elemento subjetivo do tipo infracional de abandono de cargo de que trata este feito. Assim, correta a assertiva da parte final do item 22 da referida peça opinativa, que identificou o conteúdo do Parecer ADSET nº 375/2019 (9982062), da Procuradoria Setorial da Secretaria da Educação, desviado do enfoque objetivo que necessariamente assinala o assessoramento atribuído a esta Procuradoria-Geral em PAD; por conseguinte, deixo de apreciar a conclusão do Parecer ADSET nº 375/2019.
 
-4. Mas devo consignar a iminente vigência da Lei Estadual nº 20.757/2020, tão logo expirado seu período de vacatio legis. O novo diploma implicará significativas alterações no Estatuto do Magistério Público Estadual e, na esteira do seu art. 215-A1, que incorpora as normas do Estatuto dos Servidores Civis do configuração diferente da atual, inovando especificamente em relação ao elemento subjetivo do tipo (art. 202, LXXI, da vindoura Lei Estadual nº 20.756/20202). Assim, a prova quanto à intenção do servidor na conduta de afastamento funcional será elementar para que caracterizado o abandono de cargo. E com tal alteração, a inteligência das orientações desta Procuradoria-Geral citadas nos itens 18 a 20 do Parecer PA nº 1714/2019 deixam de prevalecer. Desse modo, alguns comportamentos sugestivos de abandono de cargo poderão se valer do princípio da retroatividade da lei penal mais benéfica, consoante art. 5º, XL, da Constituição Federal, e art. 2º, parágrafo único, do Código Penal, com axiomática aplicação subsidiária ao direito punitivo administrativo-disciplinar3. Realço, como já elucidado pela doutrina, que “a lei em período de vacatio não deixa de ser lei posterior, devendo ser aplicada desde logo, se for mais favorável ao réu”4.
+4. Mas devo consignar a iminente vigência da Lei Estadual nº 20.757/2020, tão logo expirado seu período de vacatio legis. O novo diploma implicará significativas alterações no Estatuto do Magistério Público Estadual e, na esteira do seu art. 215-A1, que incorpora as normas do Estatuto dos Servidores Civis do Estado de Goiás relativas ao regime disciplinar, passa a tipificar a infração de abandono de cargo com configuração diferente da atual, inovando especificamente em relação ao elemento subjetivo do tipo (art. 202, LXXI, da vindoura Lei Estadual nº 20.756/20202). Assim, a prova quanto à intenção do servidor na conduta de afastamento funcional será elementar para que caracterizado o abandono de cargo. E com tal alteração, a inteligência das orientações desta Procuradoria-Geral citadas nos itens 18 a 20 do Parecer PA nº 1714/2019 deixam de prevalecer. Desse modo, alguns comportamentos sugestivos de abandono de cargo poderão se valer do princípio da retroatividade da lei penal mais benéfica, consoante art. 5º, XL, da Constituição Federal, e art. 2º, parágrafo único, do Código Penal, com axiomática aplicação subsidiária ao direito punitivo administrativo-disciplinar3. Realço, como já elucidado pela doutrina, que “a lei em período de vacatio não deixa de ser lei posterior, devendo ser aplicada desde logo, se for mais favorável ao réu”4.
 
 5. Dada a perspectiva delineada no item antecedente, ainda observo que a autoridade julgadora tem a faculdade legal de, se for o caso, determinar à Comissão Processante o aprimoramento das medidas apurativas neste PAD, com a retomada da instrução processual, de modo a coligir mais documentos, testemunhos ou outras espécies de provas que permitam a verificação correta da infração de abandono de cargo investigada (auscultando, por exemplo, as alegações do acusado contextualizadas no documento do evento 9809229). E vindo o agente decisor a definir por reaver a instrução processual, como aventado, deverá, para isso, designar nova Comissão Processante, à qual incumbirá realizar as provas complementares e, depois, tomá-las em conjunto com as demais já produzidas para emitir novo Relatório Final sobre a transgressão apurada. Todas essas providências devem cuidar em respeitar o contraditório e a ampla defesa, cabendo a prévia intimação da parte contrária para participação e conhecimento das provas determinadas.
 
@@ -56,9 +58,7 @@ LXXI - abandonar o cargo, faltando intencionalmente ao exercício de suas funç�
 
 ### Página física 4
 
-ASSESSORIA DE GABINETE COM A AVENIDA REPÚBLICA DO LÍBANO, ED. REPUBLICA TOWER (62)3252-8523
-
-Referência: SEI 000011395645 Processo nº 201600006035103
+[Página sem texto decisório; elementos de autenticação omitidos.]
 
 ## Limites da coleta
 

@@ -15,6 +15,8 @@
 
 ### Página física 1
 
+Processo: 202011129002199
+
 DESPACHO Nº 1432/2020 - GAB
 
 EMENTA: ADMINISTRATIVO. USO DO APLICATIVO WHATSAPP COMO FERRAMENTA PARA INTIMAÇÃO DOS ATOS ADMINISTRATIVOS.     PRÉVIA     CONCORDÂNCIA     DOS INTERESSADOS. POSSIBILIDADE. ORIENTAÇÃO REFERENCIAL.
@@ -43,7 +45,7 @@ Juliana Pereira Diniz Prudente Procuradora-Geral do Estado
 
 ### Página física 3
 
-ASSESSORIA DE GABINETE COM A AVENIDA REPÚBLICA DO LÍBANO, ED. REPUBLICA TOWER (62)3252-8523
+[Página sem texto decisório; elementos de autenticação omitidos.]
 
 ## Limites da coleta
 

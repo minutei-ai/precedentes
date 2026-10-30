@@ -14,13 +14,15 @@
 
 ### Página física 1
 
+Processo: 202011867000811
+
 DESPACHO Nº 1119/2020 - GAB
 
 EMENTA: CONSULTA. ADMINISTRATIVO. POSSIBILIDADE DE RESPONSABILIZAÇÃO DISCIPLINAR DE PRESIDENTES DE AUTARQUIAS E FUNDAÇÕES PÚBLICAS. AGENTES NÃO EQUIPARADOS A SECRETÁRIOS DE ESTADO. AUTORIDADES DA ADMINISTRAÇÃO INDIRETA QUE NÃO SÃO CONSIDERADAS AGENTES POLÍTICOS. ALTERAÇÃO DO ENTENDIMENTO FIRMADO NO DESPACHO “AG” Nº 000230/2018.
 
 1. Trata-se de consulta formulada pela Controladoria-Geral do Estado de Goiás (CGE), por meio do Ofício nº 667/2020 - CGE (000013529983), sobre a possibilidade de revisão do entendimento firmado por esta Casa no Despacho AG nº 000230/2018 (000013530720), quanto à equiparação do cargo de presidente de autarquias e fundações Públicas ao de secretário de Estado, assim considerados agentes políticos, de modo a se viabilizar o processamento administrativo de tais autoridades pelo regime disciplinar previsto na Lei estadual nº 10.460/1988.
 
-2. Para tanto, o órgão de controle argumentou que (i) a Lei nº 20.491/2019, que estabelece a organização administrativa do Poder Executivo, não elenca os titulares de autarquias e fundações como Secretários de Estado; (ii) o subsídio desses agentes (símbolo DAS-2) é equiparável àquele dos cargos de Chefe de
+2. Para tanto, o órgão de controle argumentou que (i) a Lei nº 20.491/2019, que estabelece a organização administrativa do Poder Executivo, não elenca os titulares de autarquias e fundações como Secretários de Estado; (ii) o subsídio desses agentes (símbolo DAS-2) é equiparável àquele dos cargos de Chefe de Gabinete Particular do Governador, Diretor-Executivo de Liquidação de Estatais, Secretário-Adjunto,
 
 ### Página física 2
 

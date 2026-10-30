@@ -15,6 +15,8 @@
 
 ### Página física 1
 
+Processo: 201900003002260
+
 DESPACHO Nº 2268/2020 - GAB
 
 EMENTA:           DIREITO ADMINISTRATIVO. CONSULTA.       QUESTÕES RELACIONADAS            À PROGRESSÃO FUNCIONAL. INFRAÇÃO     DISCIPLINAR. APLICAÇÃO              DA PENALIDADE             DE SUSPENSÃO. INABILITAÇÃO TEMPORÁRIA PARA NOVO PROVIMENTO. RESTRIÇÃO INCIDENTE     SOBRE     A PROMOÇÃO. INSTITUTOS DE NATUREZA         DIVERSA. MOVIMENTAÇÃO HORIZONTAL NA CARREIRA QUE NÃO IMPLICA NOVO PROVIMENTO.     DESPACHO REFERENCIAL.
@@ -23,15 +25,15 @@ EMENTA:           DIREITO ADMINISTRATIVO. CONSULTA.       QUESTÕES RELACIONADAS
 
 2. Foi anexada aos autos cópia da sentença proferida em 13 de abril de 2018 que reconheceu o direito à progressão funcional dos requerentes e condenou o Estado ao pagamento das diferenças remuneratórias pertinentes (6214394).
 
-3. A Gerência de Parametrização, Controle de Cargos e Rubricas da Secretaria de Estado da Administração, ao tempo que informou a existência de vagas no Sistema de Recursos Humanos para o cargo de Analista de Gestão Governamental, Classe A, Padrão V, informou que o servidor Luiz Henrique
+3. A Gerência de Parametrização, Controle de Cargos e Rubricas da Secretaria de Estado da Administração, ao tempo que informou a existência de vagas no Sistema de Recursos Humanos para o cargo de Analista de Gestão Governamental, Classe A, Padrão V, informou que o servidor [identificação tarjada na fonte]
 
 ### Página física 2
 
-de Jesus Costa está inabilitado para evolução funcional, nos termos do art. 319 da Lei Estadual n. 10.460/88, conforme Despacho n. 420/2019 GEPAC (6283585).
+[identificação tarjada na fonte] está inabilitado para evolução funcional, nos termos do art. 319 da Lei Estadual n. 10.460/88, conforme Despacho n. 420/2019 GEPAC (6283585).
 
 4. O interessado peticionou ao juiz da causa, alegando descumprimento da ordem judicial, haja vista que o art. 319 da Lei Estadual n. 10.460/88 cuida de impedimento para a promoção e não para a progressão deferida na sentença (000016534557).
 
-5. A Procuradoria Judicial entendeu por bem encaminhar os autos à Assessoria do
+5. A Procuradoria Judicial entendeu por bem encaminhar os autos à Assessoria do Gabinete, conforme Despacho n. 1797/2020 PJ (000017194648).
 
 6. A consulta relaciona-se à extensão e alcance da inabilitação prevista no art. 319, II, da Lei Estadual n. 10.460/88 - Estatuto do Servidor Público vigente na época em que preenchidos os requisitos da progressão.
 
@@ -63,7 +65,7 @@ Procuradora-Geral do Estado
 
 ### Página física 4
 
-COM A AVENIDA REPÚBLICA DO LÍBANO, ED. REPUBLICA TOWER (62)3252-8523
+[Página sem texto decisório; elementos de autenticação omitidos.]
 
 ## Limites da coleta
 
