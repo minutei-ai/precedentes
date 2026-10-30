@@ -11,7 +11,7 @@
 
 ## Texto publicado
 
-Com a inevitável majoração da demanda da Justiça Federal, após o fim da competência delegada, justifica-se a busca pelo reforço da estrutura da Justiça Federal.
+Com a inevitável majoração da demanda da Justiça Federal, após o fim da competência delegada, justifica-se a busca pelo reforço da estrutura da Justiça Federal. (Aprovada no I FONEF)
 
 ## Conferência e limites
 

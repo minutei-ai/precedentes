@@ -1,6 +1,6 @@
 # FONEF
 
-Fórum Nacional de Execução Fiscal (FONEF), fórum promovido pela Associação dos Juízes Federais do Brasil (AJUFE). **69 registros: 42 enunciados e 27 recomendações**, em séries próprias. Órgão distinto do FONAJEF, do Fórum Nacional de Execução Fiscal do CNJ (I Jornada, 2025), do CJF e dos TRFs.
+Fórum Nacional de Execução Fiscal (FONEF), fórum promovido pela Associação dos Juízes Federais do Brasil (AJUFE). **69 registros: 42 enunciados e 27 recomendações**, em séries próprias. Órgão distinto do FONAJEF, do [Fórum Nacional de Juízes de Execução Fiscal do CNJ](https://www.cnj.jus.br/agendas/i-jornada-do-forum-nacional-de-juizes-de-execucao-fiscal/) (I Jornada, 2025), do CJF e dos TRFs.
 
 | Espécie | Registros listados |
 | --- | ---: |
