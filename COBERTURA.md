@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.568 registros únicos de 182 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.582 registros únicos de 182 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -58,13 +58,23 @@ As 11 páginas do nº 1857 e as cinco do nº 1804 foram lidas visualmente e cote
 
 A ementa do nº 1857 continua nas páginas 1–3. Os marcadores [2] e [3] em uma citação permanecem sem reconstrução das notas do parecer citado. O nº 1804 conserva cinco notas; 14/11/2024, na página 5, é o acesso bibliográfico da quinta nota. As datas eletrônicas indicadas são 03/12/2024 e 19/11/2024, respectivamente. Ambos imprimem @nome_interessado@. Chaves, QR codes, CRC, rodapés e blocos de autenticação foram omitidos. Não se inferiu vigência, vinculação ou exaurimento e não foram criados IDs para documentos apenas citados. A PGE/GO emite e a CGE/GO hospeda.
 
+## PGE/GO — 14 despachos referenciais rotulados em 2023
+
+Na main `4544338446dac9df13e85c571283adcdfe47946e` (42.568 registros em 182 órgãos, PGEGO 31 após a integração do PR #163), este lote acrescenta 14 identidades e nenhum órgão: delta esperado **+14 registros, +0 órgãos**, PGEGO 45 (22 súmulas e 23 despachos). O total esperado pelo delta é 42.582 registros em 182 órgãos; não foi repetida a contagem global. As nove lacunas textuais originais do BNP permanecem inalteradas.
+
+O catálogo oficial da CGE/GO lista os rótulos 2231, 2062, 1563, 1554, 804, 692, 660, 552, 535, 511, 467, 456, 288 e 06. Cada despacho foi identificado pela primeira página e recebeu ID da série existente `pgego-desp-ref-N-ANO`. No último, o catálogo conserva o rótulo `06`, enquanto o PDF imprime `6/2023 - GAB`; ambos os valores aparecem separados no registro. A PGE/GO é a emissora e a CGE/GO hospeda o catálogo.
+
+As duas capturas primárias do catálogo (seção `entry-content`, tabela de sete colunas) são idênticas: 297215 bytes e SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF teve duas respostas HTTP 200, com tamanhos e hashes idênticos. Foram lidas visualmente as 111 páginas dos PDFs, usando a camada textual como apoio; nenhuma página exigiu OCR. Glifos danificados nas camadas textuais de 1563 e 2062 foram corrigidos contra as imagens. Redações visíveis nos textos dos despachos 511 e 804 foram preservadas como riscadas.
+
+Campos tarjados foram omitidos sem recuperar camadas ocultas; o identificador parcial de CPF do despacho 2062 foi omitido. Blocos de assinatura/autenticação, números pessoais, códigos verificadores, CRC, QR, códigos de barras e URLs de validação não foram publicados. Nomes e funções públicas, referências, notas, continuações de página e fechos foram conservados. Nenhum ato apenas citado ganhou ID. Não se infere vigência, vinculação ou completude. Os originais, imagens, extrações e recibos permanecem privados; o lote público contém apenas Markdown.
+
 ## Fontes diretas
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
 | [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
-| [PGE/GO — nove despachos referenciais de 2024–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 9 documentos / 75 páginas | 9 | 0 |
+| [PGE/GO — despachos referenciais de 2023–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 23 documentos / 186 páginas | 14 | 9 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
