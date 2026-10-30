@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.670 registros únicos de 170 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.700 registros únicos de 170 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -312,6 +312,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [STM — Catálogo de súmulas, PDFs e textos oficiais](https://dspace.stm.jus.br/handle/123456789/247) | 18 | 18 | 0 |
 | [TRF3 — Catálogo de súmulas e documentos XML oficiais](https://www.trf3.jus.br/diretoria-geral/biblioteca/setor-de-apoio-a-jurisprudencia/sumulas-do-trf3) | 42 | 0 | 42 |
 | [TRF da 4ª Região — Súmulas e referências do catálogo oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=sumulas_trf4) | 136 | 136 | 0 |
+| [TRF4 — I Jornada Intrainstitucional de Direito Previdenciário, caderno final](https://www.trf4.jus.br/s7aFM) | 30 | 30 | 0 |
 | [TCESP — Repertório de súmulas, histórico e fundamento](https://www.tce.sp.gov.br/boletim-de-jurisprudencia/sumulas) | 52 | 52 | 0 |
 | [TCEMG — Enunciados de súmula e PDFs individuais oficiais](https://www.tce.mg.gov.br/Noticia/Detalhe/67) | 127 | 127 | 0 |
 | [TCESC — Enunciados de Consulta no sistema oficial de pesquisa](https://www.tcesc.tc.br/enunciados-de-consulta) | 2.569 | 2.569 | 0 |
@@ -939,7 +940,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF01](tribunais/TRF01/) | 209 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 272 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
-| [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
+| [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
 | [TRF06](tribunais/TRF06/) | 92 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
@@ -1121,6 +1122,10 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
 MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+
+## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
+
+A [notícia oficial](https://www.trf4.jus.br/trf4/controlador.php?acao=pagina_visualizar&acao_origem=pagina_alterar&id_pagina=5395) e o [caderno final de enunciados aprovados](https://www.trf4.jus.br/s7aFM) tratam do evento realizado em 1º e 2 de setembro de 2025. A notícia informa a aprovação plenária de 30 enunciados, cada um com pelo menos 2/3 de votos favoráveis, e atribui a eles caráter doutrinário e força persuasiva técnico-jurídica, sem confundi-los com a posição do Tribunal. A série própria do evento foi separada de CJF, TNU, FONAJEF e súmulas do TRF4. O caderno final tem 31 páginas; o enunciado 10 não está acompanhado de justificativa, ausência preservada. Não se inferiu alteração, situação atual ou vinculação. Referências citadas não receberam IDs. As capturas HTTP 200 e SHA-256 estão registradas no índice da série; arquivos não-MD permanecem privados.
 
 ## Conferência e limites
 
@@ -2430,3 +2435,5 @@ O corpo jurídico primário foi lido integralmente: começa no primeiro `h4` do 
 A própria página informa publicação em 23/08/2024 e modificação em 06/09/2024. Essas datas são editoriais da página, não datas individuais de aprovação. A seção “Apresentação de Resultados” foi transcrita com atribuição ao catálogo no [README do TRF02](tribunais/TRF02/README.md): VIII FOREJEF/2019 (enunciados 141–165, recomendações 11–13, sugestão 2 e cancelamentos de enunciados 1, 90, 92, 99, 107, 108, 119 e 128, conclusões 3–5 e recomendação 7); VII/2018 (enunciados 116–140, recomendações 5–10, cancelamentos 9 e 24 e proposta legislativa 1); VI/2017 (enunciados 80–115, recomendações 2–4, sugestão 1, moção 1 e cancelamentos 10, 21, 50 e 57); V/2016 parte II (conclusões 1–5); V/2016 parte I (enunciados 70–79 e recomendação 1); IV/2015 (enunciados 49–69); III/2014 (enunciados 28–48); II/2013 (enunciados 12–27); I/2012 (enunciados 1–11). A redação das datas e atribuições permanece como apresentada pela página. Não se inferiram vigência atual nem força vinculante.
 
 Sobre a main `7167dc1940fe83fa3d0da3416a4607aee156eb50`, com 41.484 registros em 170 órgãos e TRF02 em 86 (IAC 1, IRDR 7, NT 16, SUM 62), o delta é de 186 registros e nenhum órgão: 41.670 registros em 170 órgãos; TRF02 passa a 272, com IAC 1, IRDR 7, NT 16, SUM 62, enunciados FOREJEF 165, recomendações 13, sugestões 2, moções 1 e conclusões 5. As 9 lacunas textuais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Os demais lotes já incorporados na main foram preservados; apenas Markdown público, cobertura nacional parcial.
+
+Sobre a main `3f877c7abd27ac45f932bd7cf144876bca7c5790`, com 41.670 registros em 170 órgãos, TRF02 em 272 e TRF04 em 202, este lote soma 30 enunciados e nenhum órgão: 41.700 registros em 170 órgãos, TRF04 232. O PR #147, com 186 registros FOREJEF, já integra essa main. Os PRs #148 (137 enunciados JFRJ) e #149 (176 enunciados FONAJUS) permanecem abertos e não entram nesta contagem. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Apenas Markdown público; evidências permanecem privadas; a cobertura nacional continua parcial.
