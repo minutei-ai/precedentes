@@ -1,8 +1,8 @@
 # PGEGO — Despachos referenciais
 
-Cinquenta e quatro documentos da Procuradoria-Geral do Estado de Goiás, publicados no [catálogo de Entendimentos e orientações da CGE/GO](https://goias.gov.br/controladoria/entendimentos-e-orientacoes/). A PGE/GO é a emissora; a CGE/GO é a hospedeira. Esta série permanece separada das 22 súmulas administrativas já incorporadas.
+Sessenta e nove documentos da Procuradoria-Geral do Estado de Goiás, publicados no [catálogo de Entendimentos e orientações da CGE/GO](https://goias.gov.br/controladoria/entendimentos-e-orientacoes/). A PGE/GO é a emissora; a CGE/GO é a hospedeira. Esta série permanece separada das 22 súmulas administrativas já incorporadas.
 
-O catálogo contém 115 linhas documentais não vazias: 109 despachos atribuídos a PGE ou PGE/GO, um acórdão do TCE e cinco pareceres de outros emissores. A série reúne quatro despachos de 2019 (16 páginas), 27 documentos de 2021 (205 páginas), 14 rotulados em 2023 (111 páginas), dois em 2024 (16 páginas) e sete em 2025–2026 (59 páginas), totalizando 54 documentos e 407 páginas físicas lidas. As 27 identidades de 2021 correspondem a 29 linhas do catálogo: os rótulos 1668 e 1674 apontam ao mesmo PDF 1674; os rótulos 1399 e 1290, ao PDF 1290. Não foram criados IDs para 1668 ou 1399 sem documento próprio. As outras 59 linhas do catálogo não estão incorporadas nesta árvore; os lotes abertos de 2020 e 2022 ficam fora da contagem.
+O catálogo contém 115 linhas documentais não vazias: 109 despachos atribuídos a PGE ou PGE/GO, um acórdão do TCE e cinco pareceres de outros emissores. A série reúne quatro despachos de 2019 (16 páginas), 27 documentos de 2021 (205 páginas), 15 de 2022 (113 páginas), 14 rotulados em 2023 (111 páginas), dois em 2024 (16 páginas) e sete em 2025–2026 (59 páginas), totalizando 69 documentos e 520 páginas físicas lidas. As 27 identidades de 2021 correspondem a 29 linhas do catálogo: os rótulos 1668 e 1674 apontam ao mesmo PDF 1674; os rótulos 1399 e 1290, ao PDF 1290. Não foram criados IDs para 1668 ou 1399 sem documento próprio. O lote de 2022 selecionou por comparação casefold do tipo e emissor: 12 linhas “Despacho” e três “DESPACHO”, todas com URL distinta. As outras 44 linhas do catálogo não estão incorporadas nesta árvore; o lote aberto de 2020 fica fora da contagem.
 
 As duas capturas HTML são idênticas: HTTP 200, 297215 bytes, SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF foi capturado duas vezes com bytes e SHA-256 coincidentes. Capturas em 30/10/2026 (UTC); os derivados permanecem privados.
 
@@ -54,6 +54,30 @@ Foram mantidos riscos de redações antigas nos nºs 1674, 262 e 336, as notas e
 | [1211/2019/GAB](pgego-desp-ref-1211-2019.md) | 3 | 325036 | `7062abb2006518eb1d514f4e51df0557d453bc4509e7409d593b3255ba1b631a` |
 
 As 16 páginas foram lidas visualmente; 14 contêm texto jurídico e duas apenas autenticação ou rodapé. A camada textual serviu de apoio e não houve OCR. O nº 1697 teve avisos de sintaxe durante a renderização, mas suas seis imagens foram conferidas visualmente. Identificações cobertas no PDF do nº 1697 não foram recuperadas; o nome impresso sem tarja no parágrafo 24 foi conservado. Os despachos citados não receberam IDs. As outras três linhas anteriores a 2020 são pareceres atribuídos pelo catálogo a emissores distintos e não integram esta série PGE/GO.
+
+## Despachos referenciais de 2022
+
+Cada um dos 15 PDFs teve duas capturas HTTP 200; bytes e SHA-256 coincidem por par. O tipo foi comparado sem distinção de maiúsculas e minúsculas: 12 rótulos “Despacho” e três “DESPACHO”. As 113 páginas físicas foram lidas nas imagens; a camada textual foi apoio cotejado visualmente. Os despachos 1997 e 1708, sem camada textual útil, foram transcritos manualmente. Os documentos 1739 e 1465 incluem, respectivamente, pareceres anexos nas páginas 7–8 e 10–19, lidos no mesmo registro.
+
+| Número | Número impresso | Páginas lidas | Bytes por captura | SHA-256 do PDF |
+| --- | --- | ---: | ---: | --- |
+| [1997](pgego-desp-ref-1997-2022.md) | 1997/2022/GAB | 9 | 9757254 | `d0560215d06a23eeee118d17b0f24095bfc89844f8ec24365adbd164680ccdd2` |
+| [1984](pgego-desp-ref-1984-2022.md) | 1984/2022/GAB | 3 | 249117 | `5854b26f1240f88b7f3977febc686a79eecefd9bebb38457f5e4b401b089190d` |
+| [1959](pgego-desp-ref-1959-2022.md) | 1959/2022/GAB | 9 | 354197 | `9624911d1bda14efa54243909c7706f178a05dd7f2056efe595da2e4628356bd` |
+| [1888](pgego-desp-ref-1888-2022.md) | 1888/2022/GAB | 6 | 294224 | `a691b4601aad6b4c2b2fe0a055ccbfccf931ce8938bfdfc21639e1edfe405f71` |
+| [1824](pgego-desp-ref-1824-2022.md) | 1824/2022/GAB | 11 | 605252 | `2294381cf38f6bac669c530c12b35e739ea535b3920ff389c44d198056a2723e` |
+| [1708](pgego-desp-ref-1708-2022.md) | 1708/2022/GAB | 9 | 7374088 | `9d6fe3711aac3b7d79b112de039d9008e13628a7bed5032a5a4d815e1a7a4d62` |
+| [1739](pgego-desp-ref-1739-2022.md) | 1739/2022/GAB | 8 | 489666 | `338fda3d1ca5de63fe09d20fa5553ede8d739816dd4ddef6c329e226c3764a5e` |
+| [1620](pgego-desp-ref-1620-2022.md) | 1620/2022/GAB | 5 | 238388 | `128b180dc60f428a1672b7d22f3defd8de87aa90102e3ced939595019e048bed` |
+| [1465](pgego-desp-ref-1465-2022.md) | 1465/2022/GAB | 19 | 700735 | `c5ab873714b94a05781604460c03ed2a81787478d8b519de56ad92d77267ef47` |
+| [821](pgego-desp-ref-821-2022.md) | 821/2022/GAB | 8 | 331444 | `c953580da0f7aeca080e8349cac887bae39e9a1d7bc31a75871b8f0af79c7fbb` |
+| [777](pgego-desp-ref-777-2022.md) | 777/2022/GAB | 9 | 346884 | `b0dfa80d2b1a90e7124c9ab216a701af59bb34d3a98d382bd3c78341c0164c6b` |
+| [1157](pgego-desp-ref-1157-2022.md) | 1157/2022/GAB | 3 | 239471 | `91e282d21ce7f7ea3d83de0c587db3e36918b91c47665607a2ac87a90942ddd2` |
+| [1020](pgego-desp-ref-1020-2022.md) | 1020/2022/GAB | 5 | 232304 | `f7350bbd83019aac3abce85e59bd02fd698e7ee37bcede145457018ccb4463e6` |
+| [169](pgego-desp-ref-169-2022.md) | 169/2022/GAB | 4 | 197686 | `69b713e7ed25ca5d20ec63a0562dddea8516f35aab90e5819b89ce7bb21092c5` |
+| [85](pgego-desp-ref-85-2022.md) | 85/2022/GAB | 5 | 274050 | `7425216b66ee6c7d205df4ada673ed719a5e435515d39291d82bef19ec81d7be` |
+
+As transcrições preservam ementas, continuações, notas, fechos, placeholders e datas distintas. Tarjas não foram recuperadas, ainda quando a camada textual as revela; no nº 1824 aparecem como “[identificação ocultada na fonte]”. CPF, RG e matrícula pessoais, inclusive trechos parciais, além de autenticação, QR, CRC, códigos verificadores, URLs de validação e o caminho local de impressão do nº 1824 foram omitidos. A paginação impressa do nº 1984 é “1 of 3”, “2 of 3” e “3 of 3”. Nos nºs 1984 e 1888, caracteres de substituição da camada textual foram corrigidos onde a imagem mostra a letra. Os “?” visíveis no nº 1824 foram mantidos. O nº 1888 conserva as grafias impressas “itens II e II” e “Goiás Previdências”. Não se infere vigência ou vinculação.
 
 ## Rótulos de 2023
 
