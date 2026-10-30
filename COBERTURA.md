@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.025 registros únicos de 166 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.063 registros únicos de 166 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -120,6 +120,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [PGE/RS — Súmulas Administrativas CEAD](https://pge.rs.gov.br/sumulas-jurisprudencia-administrativa-comissao-especial-de-advocacia-dativa) | 15 | 15 | 0 |
 | [PGE/SP — Súmulas históricas, 2ª edição de 1999](https://www.pge.sp.gov.br/centrodeestudos/bibliotecavirtual/sumulas/indica.htm) | 23 | 23 | 0 |
 | [TRF1 — Coletânea oficial de súmulas](https://www.trf1.jus.br/trf1/conteudo/Sumula2026.pdf) | 61 | 61 | 0 |
+| [TRF1 — Enunciados da I Jornada de Justiça Climática e Transformação Ecológica](tribunais/TRF01/en-jornada-climatica-i/) | 38 | 38 | 0 |
 | [TJSE — Súmulas](https://www.tjse.jus.br/portal/publicacoes/sumulas) | 14 | 14 | 0 |
 | [TARF/RS — Súmulas do catálogo oficial](https://tarf.rs.gov.br/sumulas) | 19 | 19 | 0 |
 | [PGE/RJ — Enunciados próprios](https://pge.rj.gov.br/enunciados) | 55 | 55 | 0 |
@@ -915,7 +916,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
-| [TRF01](tribunais/TRF01/) | 171 | 110 | 110 |
+| [TRF01](tribunais/TRF01/) | 209 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 86 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 202 | 66 | 66 |
@@ -2312,16 +2313,26 @@ A notícia oficial de 17/06/2026 anuncia 149 enunciados aprovados (31 + 111 + 7)
 
 Os registros preservam os números, cabeçalhos, notas e continuações publicados. O bloco não separa proposições legislativas; normas e casos citados não receberam IDs. Nomes de proponentes e funções públicas foram mantidos, sem dados pessoais restritos. São registros documentais de enunciados de evento, não decisões do STJ ou precedentes vinculantes; não se infere vigência, efeito vinculante ou completude. Apenas Markdown foi publicado.
 
-A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. A base do PR nessa revisão era `71d1707c`; nela, o total esperado após o PR #133 era 41.021 registros em 165 órgãos, STJ 3.705. O PR #135 não altera esse total.
+A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante aquela revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta do PR #134. A main `71d1707c` integrou os 148 itens do 2º Congresso da Primeira Instância do STJ e registra 41.021 registros em 165 órgãos, STJ 3.705; o PR #135 não altera essa contagem. A main atual `8284d0d1` preserva esses totais.
 
 ## MPGO — documento histórico de ANPC de 04/09/2020
 
 [Documento comum](tribunais/MPGO/documentos-anpc-2020/): apresentação, 22 enunciados e justificativas, nas 18 páginas físicas do PDF original da PGJ/MPGO. As 18 imagens foram lidas e conferidas com a camada textual. Duas capturas públicas HTTP 200, 370.073 bytes cada, SHA-256 `b8f02b4b04cae57d258ade47de3de1ce45ff67a0cdddc85fc5995368f3b4c277`, sem autenticação. A apresentação identifica Goiás; a cópia hospedada pelo MPMT não altera o emissor. Não houve OCR. Cabeçalhos repetidos, logotipo, negrito e itálico foram normalizados, com texto e parágrafos preservados por página. Referências impressas como RE 1.467.807/GO, inciso LVI, Lei 12.246/2013 e Lei 8. 429/92 permanecem sem atualização.
 
-A relação entre a numeração 1–22 deste documento e a numeração posterior SUBJUR segue pendente: os textos ficaram reunidos sem novos IDs nem fusão por semelhança. A proposta de resolução citada não consta do PDF. A página dos dois complementares devolveu autenticação, sem texto; não houve contorno. Normas e processos citados não viraram registros. Não há vigência atual ou efeito vinculante inferidos. O PR #135 integra a main atual `8284d0d1`, sem alterar o total: 41.021 registros em 165 órgãos. As nove lacunas do BNP e os lotes já integrados permanecem.
+A relação entre a numeração 1–22 deste documento e a numeração posterior SUBJUR segue pendente: os textos ficaram reunidos sem novos IDs nem fusão por semelhança. A proposta de resolução citada não consta do PDF. A página dos dois complementares devolveu autenticação, sem texto; não houve contorno. Normas e processos citados não viraram registros. Não há vigência atual ou efeito vinculante inferidos. O PR #135 tinha delta zero sobre a base `71d1707c` (41.021 registros em 165 órgãos); a main atual `8284d0d1` mantém esse total. As nove lacunas do BNP e os lotes já integrados permanecem.
+
+## TRF01 — I Jornada de Justiça Climática e Transformação Ecológica
+
+Esta série acrescenta 38 enunciados aprovados em plenária no evento realizado em 11/12/2024, conforme o edital oficial da ESMAF publicado em 19/12/2024. As cinco páginas do edital foram lidas visualmente e conferidas com a camada textual. Duas respostas HTTP 200 idênticas: 74.008 bytes cada, SHA-256 `904d03d4438ec7c5e11d3b629a89f6844ff6253e8d41aff847bfd14e2db592b7`. Os 38 corpos e as notas de aprovação correspondem ao edital: 37 por maioria e o nº 33 por unanimidade.
+
+A notícia do MPF de 28/05/2025 confirma os 38 enunciados e sua participação como proponente ou coproponente nos nºs 3, 5, 7–9, 11–13, 15–17 e 38; o MPF não é tratado como emissor da série. A notícia liga ao Caderno eletrônico hospedado no FlipHTML5, mas a tentativa direta de obter sua versão textual retornou HTTP 403. O conteúdo do Caderno não foi usado; não se atribuem comentários nem justificativas a itens individuais. As quatro ementas foram transcritas no índice conforme o edital, sem atribuir números a grupos quando a fonte não o faz.
+
+O TRF01 passa de 171 para 209 registros (IAC 6, IRDR 104, SUM 61 e esta série 38), sem órgão novo. O acervo passa de 41.021 para 41.059 registros em 165 órgãos, sobre a main atual `8284d0d1bdd2cb86bb780153e105e9dc83e4ee7b` (STJ 3.705, CJF 1.872, MPBA 10). A main `74f72ad85653acea63ad095368d2cdcd1759027d` registra 40.873 registros e STJ 3.557, antes do PR #134, que acrescentou os 148 enunciados do 2º Congresso da Primeira Instância do STJ. O PR #135 do MPGO tem delta zero para a contagem.
 
 ## CNPG/GNCCRIM — quatro enunciados reproduzidos pelo MPPR
 
 O lote acrescenta os números 41–44, com o CNPG/GNCCRIM como emissor atribuído pela [publicação institucional do MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal). O MPPR é fonte da reprodução. Dois HTMLs HTTP 200 idênticos: 64.260 bytes cada, SHA-256 `858a8137de94c49953f02cf0bd56766c719ab3f5bb72d5fca2c175b46b9f74fd`. Os quatro corpos, a notícia e a atribuição foram lidos no DOM. A data 20/10/2026 às 12:52 é da publicação, sem conversão em data de aprovação ou vigência. O portal do CNPG identifica o GNCCRIM como seu órgão e o CNPG como associação nacional sem fins lucrativos que congrega os Procuradores-Gerais dos Ministérios Públicos dos Estados e da União.
 
 A notícia relata revisão dos 40 anteriores e aprovação de quatro novos após a 2ª Reunião Ordinária do GNCCRIM, sem data da reunião. O PDF final vinculado respondeu 404 em duas tentativas; as redações revisadas de 1–40 continuam pendentes. Não se atribuiu a coletânea histórica da Lei Anticrime à edição de 2026. Não houve PDF ou OCR neste lote. Atos e normas citados não ganharam ID; não houve inferência de vigência, efeito vinculante ou completude. As nove lacunas iniciais do BNP permanecem. Sobre a main `8284d0d1` (41.021 registros em 165 órgãos, STJ 3.705, CJF 1.872), soma quatro registros e um órgão: 41.025 registros em 166 órgãos.
+
+Após a integração do CNPG/GNCCRIM em `eed79786` (41.025 registros em 166 órgãos), este lote TRF01 soma 38 registros: 41.063 registros em 166 órgãos. TRF01 209, CNPG 4.
