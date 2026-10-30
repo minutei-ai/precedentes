@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.926 registros únicos de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.940 registros únicos de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -43,6 +43,9 @@ Foram incorporadas 18 súmulas e oito questões de ordem dos catálogos oficiais
 ## TRF02 — súmulas próprias da TRU
 
 O [catálogo oficial](https://trf2.jus.br/trf2/artigo/pres/sumulas) publica 65 posições, números 1–65. Duas capturas HTML HTTP 200 idênticas sustentam o cotejo dos títulos, corpos e notas. A nº 25 contém somente aviso de cancelamento; o corpo histórico permanece pendente, separado das nove lacunas iniciais do BNP. Textos e avisos de 10, 26 e 46 e redações distintas de 55/64 foram preservados sem inferir vigência ou revogação adicional. [Índice e recibos](tribunais/TRF02/sum-tru/). Delta +65/0 sobre `a421b646`: total esperado 42.780/185, TRF02 619, sem contagem global.
+## TRF01 — súmulas e teses próprias da TRU
+
+A lista expansível “Súmulas TRU” do catálogo de Atos Normativos da COJEF publica cinco súmulas e nove blocos de teses por sessão, cotejados em duas capturas HTML HTTP 200. As teses sem numeração recebem IDs convencionais por data e ordem do bloco; processos citados não se tornaram registros separados. Documentos das turmas estaduais e FONAJEF apenas ligados permanecem pendentes. [Proveniência e recibos](tribunais/TRF01/tru-proveniencia.md). Delta +14/0 sobre `a421b646`: total esperado 42.729/185 e TRF01 273, sem contagem global.
 
 ## MPCSC — enunciados
 
@@ -1184,8 +1187,9 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TSE](tribunais/TSE/) | 73 | 0 | 0 |
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
-| [TRF01](tribunais/TRF01/) | 259 | 110 | 110 |
 | [TRF02](tribunais/TRF02/) | 619 | 24 | 24 |
+| [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
+| [TRF01](tribunais/TRF01/) | 273 | 110 | 110 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF05](tribunais/TRF05/) | 82 | 4 | 4 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
