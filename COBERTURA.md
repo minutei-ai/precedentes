@@ -1,10 +1,20 @@
 # Cobertura
 
-**42.013 registros únicos de 171 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.082 registros únicos de 172 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
 A página do MPPI identifica a Súmula CSMP nº 01 como suspensa por decisão da 1272ª sessão ordinária e não publica o verbete. O mesmo registro agora contém o texto histórico aprovado em 23/10/2017, recuperado diretamente da ata, sem reconstrução por citação. A suspensão continua atribuída ao catálogo; a ata de suspensão, sua fundamentação e eventual redação posterior permanecem pendentes. As nove lacunas iniciais do BNP não mudam. Os relatos anteriores dos lotes registram a lacuna que havia antes dessa recuperação histórica.
+
+## FONEF
+
+A página institucional da [AJUFE — FONEF](https://www.ajufe.org.br/foruns/fonef), a [listagem de enunciados](https://www.ajufe.org.br/foruns/fonef/enunciados-fonef) e as [recomendações](https://www.ajufe.org.br/foruns/fonef/recomendacoes-fonef) foram lidas integralmente pelo leitor web integrado: página institucional e as três páginas de enunciados e duas de recomendações. A resposta textual foi derivada do HTML integral exibido pelo leitor; não houve HTML bruto nem duas capturas HTTP independentes. A tentativa HTTP direta anterior retornou 403. Os registros descrevem essa proveniência derivada, sem hash de HTML ou alegação de HTTP 200 ou identidade de bytes.
+
+A consulta encontrou 42 enunciados numerados (1–42) e 27 recomendações (1–27). As páginas de série atribuem os enunciados às edições I–IV nas quantidades 19, 7, 13 e 3; para recomendações, 14, 2, 9 e 2. A notícia oficial do [TRF1 sobre o III FONEF](https://trf1.jus.br/trf1/noticias/?id=11505) informa 14 enunciados e nove recomendações. A listagem da AJUFE apresenta 13 enunciados novos do III FONEF e também marca o Enunciado nº 14 com nova redação aprovada nesse encontro, preservando a redação anterior no mesmo número. A divergência de contagem fica atribuída às fontes: não foi criado número adicional nem duplicada uma versão do nº 14. A listagem da AJUFE foi usada para o texto dos itens; a notícia do TRF1 foi usada apenas como evidência atribuída da contagem publicada.
+
+Os 42 enunciados e as 27 recomendações foram registrados em séries próprias do FONEF/AJUFE. O FONEF é o Fórum Nacional de Execução Fiscal promovido pela AJUFE, distinto do [Fórum Nacional de Juízes de Execução Fiscal do CNJ](https://www.cnj.jus.br/agendas/i-jornada-do-forum-nacional-de-juizes-de-execucao-fiscal/) e dos enunciados da I Jornada em 22/08/2025, do FONAJEF e de órgãos hospedeiros ou destinatários como CJF, CNJ e TRFs. A notícia do TRF1 não altera a autoria dos itens. As quantidades descrevem as listagens consultadas; não demonstram exaustividade, vigência atual ou força vinculante. Nenhum bloco de proposta legislativa separado foi convertido em identificador.
+
+Sobre a main `702755c402b835aa3bd493bd80c486e0a6863678` (42.013 registros em 171 órgãos), o lote acrescenta 69 registros e um órgão: total de 42.082 registros em 172 órgãos. Permanecem os 176 registros FONAJUS, 137 do JFRJ, 186 FOREJEF, 430 do TRF04, 36 FONAREF e os 19 identificadores FONAREF explícitos já incorporados. As nove lacunas iniciais do BNP permanecem.
 
 ## FONAJEF
 
@@ -55,6 +65,8 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [CJF — I Jornada da Justiça Federal pela Equidade Racial](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CJF — I Jornada Jurídica de Prevenção e Gerenciamento de Crises Ambientais](https://www.cjf.jus.br/enunciados/) | 103 | 103 | 0 |
 | [CNMP — enunciados do 1º Congresso de Defesa da Integridade](https://cnmp.mp.br/portal/institucional/comissoes/cdpa/congresso-integridade-2024/anais) | 50 | 50 | 0 |
+| [AJUFE — Enunciados FONEF](https://www.ajufe.org.br/foruns/fonef/enunciados-fonef) | 42 | 42 | 0 |
+| [AJUFE — Recomendações FONEF](https://www.ajufe.org.br/foruns/fonef/recomendacoes-fonef) | 27 | 27 | 0 |
 | [AJUFE — Recomendações FONAJEF](https://www.ajufe.org.br/foruns/fonajef/recomendacoes-fonajef) | 45 | 45 | 0 |
 | [CNMP — 2º Congresso de Defesa da Integridade](https://www.cnmp.mp.br/portal/images/noticias/2025/Novembro/Teses-final_2.pdf) | 14 | 14 | 0 |
 | [AJUFE — Enunciados FONAJEF](https://www.ajufe.org.br/foruns/fonajef/enunciados-fonajef) | 226 | 226 | 0 |
@@ -1039,6 +1051,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
 | [CJF](tribunais/CJF/) | 1.872 | Consulta de Enunciados — I e II Jornadas de Prevenção e Solução Extrajudicial, Notarial e Registral, Direito e Processo Penal, Patrimônio Cultural e Natural, Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, Jornadas I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX/X Civil, Processual Civil I/II/III/IV, Crises Ambientais I e Seguridade Social I |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
+| [FONEF](tribunais/FONEF/) | 69 | AJUFE — 42 enunciados e 27 recomendações do Fórum Nacional de Execução Fiscal; listagens HTML consultadas pelo leitor web integrado, proveniência derivada |
 | [MPBA](tribunais/MPBA/) | 10 | MPBA — Súmulas do Conselho Superior no catálogo HTML oficial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
