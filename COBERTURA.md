@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.779 registros únicos de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.817 registros únicos de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -20,6 +20,13 @@ Entram 18 identidades próprias das Procuradorias de Justiça com Atribuições 
 Os onze PDFs individuais, de uma página cada, e as onze páginas da ata de 06/04/2022 foram lidos visualmente, sem OCR. As duas respostas primárias da API criminal coincidem em seus onze itens e campos. Os riscos dos nºs 04, 07 e 09, a aprovação de 19/03/2025 nos PDFs 10 e 11 e as variantes entre catálogo e PDF foram preservados. O nº 09 aparece sem risco na ata de 2022 e riscado no PDF individual atual; o ato e a data de seu cancelamento não foram inferidos. A [proveniência da série](tribunais/MPSE/sum-criminais/) discrimina os pares HTTP 200, bytes, SHA-256, campos e limites. Normas e julgados citados não geraram IDs; não se inferem vigência, vinculação ou exaustividade.
 
 A base é a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, 42.715 registros em 185 órgãos. Este lote soma +18 registros e +1 órgão: total esperado **42.733 registros em 186 órgãos**. MPES #177 e o lote separado de 36 assentos do MPSE, ainda não integrados à base, não entram na soma. A verificação é focada, sem nova auditoria global. MPCSC 2, MPSC 25, MPGO 84, PGEGO 129 e as nove lacunas textuais iniciais do BNP permanecem. Capturas, PDFs e derivados privados; público apenas Markdown.
+## TRF05 — catálogo Forecrim
+
+O [Portal GMF do TRF5](https://www.trf5.jus.br/index.php/gmf) liga à [página Eventos do Forecrim](https://www.trf5.jus.br/index.php/eventos-do-forecrim). As duas tabelas visíveis têm 31 posições de enunciados e nove recomendações. As recomendações 01 e 02 expressamente requalificam os enunciados 21 e 22; cada par permanece no mesmo ID, com corpo, risco e anotações históricos. O lote soma **38 identidades: 29 enunciados e nove recomendações**. A cópia oculta para exportação não foi somada novamente.
+
+Os campos, corpos e notas foram lidos nas duas capturas HTML e cotejados com os registros. Os pares respondem HTTP 200, com 118.789 bytes e SHA-256 idêntico. A página imprime atualização editorial de 24/09/2026 e atribui as aprovações ao curso de 2023 e aos Forecrim I, II e III, em datas distintas. O enunciado 04 mantém o aviso de cancelamento fora do corpo riscado; os avisos de requalificação de 21/22 ficam nas fichas das recomendações. Atas, livro, provimento e outras publicações apenas vinculadas permanecem pendentes de leitura. Não se inferem vigência, vinculação, exaustividade ou adoção individual pelo Tribunal; nenhum ato apenas citado recebeu ID. [Proveniência comum](tribunais/TRF05/forecrim-proveniencia.md).
+
+Sobre a main `a421b646bb08b49ab8ef4f2b6e738ddc2219395e`, confirmada na consulta pública do GitHub, o delta é +38 registros e +0 órgãos: **42.753 registros em 185 órgãos**, TRF05 **64**. Os lotes MPES e MPSE ainda não integrados não entram na conta. A conferência é focada, sem nova auditoria global; as nove lacunas iniciais do BNP permanecem. Apenas Markdown público; capturas e derivados privados.
 
 ## MPCSC — enunciados
 
@@ -186,6 +193,7 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | --- | ---: | ---: | ---: |
 | [MPSE — Assentos do CSMP](https://sistemas.mpse.mp.br/PublicDoc/PublicacaoDocumento/AbrirDocumento.aspx?cd_documento=96972) | 36 | 36 | 0 |
 | [MPSE — Súmulas criminais](https://www.mpse.mp.br/index.php/transparenciampse/institucional/entendimento-criminais/) | 18 | 18 | 0 |
+| [TRF05 — Catálogo Forecrim](https://www.trf5.jus.br/index.php/eventos-do-forecrim) | 40 posições / 38 identidades | 38 | 0 |
 | [MPCSC — Enunciados](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) | 2 | 2 | 0 |
 | [ANCINE — Súmulas, fichas e PDFs oficiais](tribunais/ANCINE/sum/) | 20 | 20 | 0 |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
@@ -1163,7 +1171,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
-| [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
+| [TRF05](tribunais/TRF05/) | 64 | 4 | 4 |
 | [TRF06](tribunais/TRF06/) | 92 | 22 | 22 |
 | [TJAC](tribunais/TJAC/) | 11 | 7 | 7 |
 | [TJAL](tribunais/TJAL/) | 14 | 4 | 4 |
