@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.021 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.025 registros únicos de 166 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -81,6 +81,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
+| [CNPG/GNCCRIM — Enunciados 41–44 reproduzidos pelo MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal) | 4 | 4 | 0 |
 | [MPBA — Súmulas do Conselho Superior](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas) | 10 | 10 | 0 |
 | [MPCE — Súmulas do Conselho Superior](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/) | 34 | 34 | 0 |
 | [MPPI — Súmulas do Conselho Superior](https://www.mppi.mp.br/internet/conselho-superior/sumulas/) | 12 | 12 | 0 |
@@ -1006,6 +1007,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CNPG](tribunais/CNPG/) | 4 | CNPG/GNCCRIM — enunciados 41–44 reproduzidos em notícia institucional do MPPR |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
 | [CJF](tribunais/CJF/) | 1.872 | Consulta de Enunciados — I e II Jornadas de Prevenção e Solução Extrajudicial, Notarial e Registral, Direito e Processo Penal, Patrimônio Cultural e Natural, Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, Jornadas I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX/X Civil, Processual Civil I/II/III/IV, Crises Ambientais I e Seguridade Social I |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
@@ -2312,3 +2314,9 @@ A notícia oficial de 17/06/2026 anuncia 149 enunciados aprovados (31 + 111 + 7)
 Os registros preservam os números, cabeçalhos, notas e continuações publicados. O bloco não separa proposições legislativas; normas e casos citados não receberam IDs. Nomes de proponentes e funções públicas foram mantidos, sem dados pessoais restritos. São registros documentais de enunciados de evento, não decisões do STJ ou precedentes vinculantes; não se infere vigência, efeito vinculante ou completude. Apenas Markdown foi publicado.
 
 A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. Após conciliação com essa base, o total esperado é 41.021 registros em 165 órgãos, STJ 3.705.
+
+## CNPG/GNCCRIM — quatro enunciados reproduzidos pelo MPPR
+
+O lote acrescenta os números 41–44, com o CNPG/GNCCRIM como emissor atribuído pela [publicação institucional do MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal). O MPPR é fonte da reprodução. Dois HTMLs HTTP 200 idênticos: 64.260 bytes cada, SHA-256 `858a8137de94c49953f02cf0bd56766c719ab3f5bb72d5fca2c175b46b9f74fd`. Os quatro corpos, a notícia e a atribuição foram lidos no DOM. A data 20/10/2026 às 12:52 é da publicação, sem conversão em data de aprovação ou vigência. O portal do CNPG identifica o GNCCRIM como seu órgão e o CNPG como associação nacional.
+
+A notícia relata revisão dos 40 anteriores e aprovação de quatro novos após a 2ª Reunião Ordinária do GNCCRIM, sem data da reunião. O PDF final vinculado respondeu 404 em duas tentativas; as redações revisadas de 1–40 continuam pendentes. Não se atribuiu a coletânea histórica da Lei Anticrime à edição de 2026. Não houve PDF ou OCR neste lote. Atos e normas citados não ganharam ID; não houve inferência de vigência, efeito vinculante ou completude. As nove lacunas iniciais do BNP permanecem. Sobre a main `71d1707c`, soma quatro registros e um órgão: 41.025 registros em 166 órgãos.
