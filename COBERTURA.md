@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.377 registros únicos de 180 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.577 registros únicos de 181 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -53,7 +53,7 @@ Campos tarjados nos nºs 573, 779 e 1470 não foram recuperados; o CPF parcial d
 
 ## PGE/GO — 14 despachos referenciais rotulados em 2023
 
-Na base da main `b6f29218c3f0773060b809b127ea4f4bb6dd23cd` (42.377 registros em 180 órgãos, PGEGO 29), este lote acrescenta 14 identidades e nenhum órgão: delta esperado **+14 registros, +0 órgãos**, PGEGO 43 (22 súmulas e 21 despachos). O total esperado pelo delta é 42.391 registros em 180 órgãos; não foi repetida a contagem global. As nove lacunas textuais originais do BNP permanecem inalteradas.
+Na main `669cf364adfa339c027e39d49f16e421781fba7c` (42.563 registros em 181 órgãos, PGEGO 29), este lote acrescenta 14 identidades e nenhum órgão: delta esperado **+14 registros, +0 órgãos**, PGEGO 43 (22 súmulas e 21 despachos). O total esperado pelo delta é 42.577 registros em 181 órgãos; não foi repetida a contagem global. As nove lacunas textuais originais do BNP permanecem inalteradas.
 
 O catálogo oficial da CGE/GO lista os rótulos 2231, 2062, 1563, 1554, 804, 692, 660, 552, 535, 511, 467, 456, 288 e 06. Cada despacho foi identificado pela primeira página e recebeu ID da série existente `pgego-desp-ref-N-ANO`. No último, o catálogo conserva o rótulo `06`, enquanto o PDF imprime `6/2023 - GAB`; ambos os valores aparecem separados no registro. A PGE/GO é a emissora e a CGE/GO hospeda o catálogo.
 
@@ -65,7 +65,8 @@ Campos tarjados foram omitidos sem recuperar camadas ocultas; o identificador pa
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
-| [PGE/GO — despachos referenciais de 2023 e 2025–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 21 documentos / 170 páginas | 21 | 0 |
+| [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
+| [PGE/GO — despachos referenciais de 2023 e 2025–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 21 documentos / 170 páginas | 14 | 7 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
@@ -1029,7 +1030,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [STM](tribunais/STM/) | 20 | 2 | 2 |
 | [TNU](tribunais/TNU/) | 483 | 394 | 394 |
 | [TRF01](tribunais/TRF01/) | 259 | 110 | 110 |
-| [TRF02](tribunais/TRF02/) | 409 | 24 | 24 |
+| [TRF02](tribunais/TRF02/) | 554 | 24 | 24 |
 | [TRF03](tribunais/TRF03/) | 110 | 110 | 110 |
 | [TRF04](tribunais/TRF04/) | 232 | 96 | 66 |
 | [TRF05](tribunais/TRF05/) | 26 | 4 | 4 |
@@ -2608,3 +2609,25 @@ Após a integração do PROCON/ES, a main `57ecfb614094e165ad1fdbcbb0dbd7d409702
 A notícia oficial do TRF1 informa que mais de 70 magistrados participaram da Jornada; o prefácio do Caderno descreve cerca de 70. Ambos se referem à participação, enquanto o Caderno final contém 50 enunciados numerados de 1 a 50. O TRF1 hospeda o PDF em seu portal; a ficha catalográfica atribui a publicação ao Tribunal Regional Federal da 1ª Região e à Esmaf. Os enunciados foram extraídos e as páginas físicas 11–14 foram revisadas visualmente no PDF oficial, recebido em duas capturas HTTP 200 idênticas em 30/10/2026 (7.879.142 bytes cada; SHA-256 `81293b077497b9575992998401868ca7a74c80f3c31b76a2cf589569c0a861e3`). Prefácio, posfácio, programação e fotos não receberam IDs; nenhuma votação individual, adoção pelo TRF1, vigência ou efeito vinculante foi inferida.
 
 Sobre a main atual `b2d2498de81e7fed3d4602fae964ae3806a69590` (42.320 registros em 180 órgãos; TRF01 209), este delta acrescenta 50 enunciados e nenhum órgão: **42.370 registros em 180 órgãos; TRF01 259**. Os 38 enunciados da I Jornada de Justiça Climática e os 171 registros anteriores do TRF01 foram preservados; as duas Jornadas permanecem em séries próprias. As nove lacunas iniciais do BNP permanecem. A primeira Jornada dos JEFs não integra este delta: a notícia atual liga ao livro animado oficial, mas não expõe o PDF que também menciona; o número final de enunciados e os textos do caderno não foram inferidos de notícia, flipbook ou citação. Somente Markdown público; PDF, imagens, recibos, extração e capturas permanecem privados.
+
+## CGE/CE — enunciados próprios, edição de 2015
+
+A [página oficial do catálogo legado](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) lista “Livro Enunciados CGE 2015” e aponta para o [PDF oficial](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/doc_download/1393-livro-enunciados-cge-2015). O catálogo e o PDF tiveram duas capturas HTTP 200 cada, com conteúdo idêntico por par. O PDF tem 872.417 bytes e SHA-256 `4e19d8aa761a25433566b8daf974d86df56fec2f32656c1385f2f2118e42fc69`; o catálogo capturado tem 64.244 bytes e SHA-256 `397b8c5bcbff505034db036add370b5f6017982dce98571edd7108bc74eefed8`. Recibos e arquivos permanecem privados.
+
+O `pdfinfo` confirma 48 páginas físicas no arquivo, enquanto a ficha catalográfica interna declara “52 p.”. A divergência foi preservada. O índice situa os enunciados próprios nas páginas impressas 8–24: no PDF, a página física 7 ainda contém a continuação do índice; a página física/impressa 8 inicia o Enunciado 1, e a página física/impressa 24 termina o Enunciado 41. As 17 páginas impressas 8–24 foram lidas visualmente; a camada de texto serviu de apoio e não foi necessário OCR. O catálogo identifica o livro e seu download, mas não esclarece a situação atual nem a completude da série.
+
+Foram incorporados os 41 enunciados próprios, em identidade estável `cgece-en-1` a `cgece-en-41`, com títulos, textos e referências da edição de setembro de 2015. A edição tem uma seção de anexos de AGU, TCU e STF; seus textos não foram atribuídos à CGE/CE, não receberam IDs e não foram retranscritos. Referências citadas nos enunciados também não viraram registros. A situação jurídica e a vigência atual não foram inferidas.
+
+A [página migrada do catálogo de enunciados](https://www.ce.gov.br/cge/enunciados-cge/) e o PDF da edição de 2020 indicado por ela permanecem pendentes de leitura e conciliação. A consulta ao leitor web retornou uma leitura textual de 90 páginas e, depois, respostas 502; as tentativas diretas falharam na validação de certificado TLS, sem repetição ou desativação da validação. Nenhum texto, variação de redação ou item de 2020 foi usado neste lote. As eventuais versões de 2020 e os novos enunciados continuam pendentes de fonte capturável, recibos e leitura visual.
+
+Sobre a main `de613610fd1b405a830a0848a32fb9cd6f481475` (42.522 registros em 180 órgãos), este delta soma 41 registros e um órgão. A projeção após a conciliação é de 42.563 registros em 181 órgãos, sem nova auditoria global nesta revisão; o índice CGECE reúne 41. As nove lacunas iniciais do BNP permanecem. As contagens publicadas de CGU (27), PGEGO (29) e TRF01 (259) não foram alteradas. Esta é uma validação focada de identificação, links e privacidade do delta, não uma nova auditoria global de cobertura. Apenas Markdown foi adicionado ao repositório; PDFs, imagens, extrações e scripts permanecem privados.
+
+## TRF02 — Jornadas de Direitos Humanos e Fundamentais da Justiça Federal da 2ª Região
+
+A integração acrescenta 145 registros em duas séries: 60 enunciados aprovados na I Jornada (2024; sete grupos temáticos) e 85 na II Jornada (2025; seis grupos temáticos). Os números são próprios de cada edição e permanecem separados. As transcrições incluem os textos e justificativas publicados nos cadernos finais, com atribuição do grupo conforme a página de cada item. As citações a leis, julgados e enunciados não receberam IDs.
+
+Os PDFs oficiais retornaram HTTP 200 em pares de capturas privadas byte a byte idênticas: I, 6.511.073 bytes, SHA-256 `9b1965a12af1c6608f162738b1c9586248013d54a5d770a423436e92466ba2c4`; II, 13.202.307 bytes, SHA-256 `43b3a76da9a43df87c715cd5168943a12bd56b2c152c994ae4d974e6404362a6`. Recebidos em 30/10/2026 UTC. A notícia oficial também foi capturada em par idêntico: HTTP 200, 47.884 bytes, SHA-256 `6ee47c6156cb38f959a93e1f36315b31242cc3897231ebdfb58dfef151f3e459`. A notícia informa a aprovação de 85 enunciados da II Jornada, realizada em 20–21/03/2025, em seis comissões; o caderno final da I Jornada registra 60 enunciados em sete comissões. O inventário não substitui a contagem dos PDFs pelos números da notícia.
+
+Os cadernos identificam as Jornadas como emissoras documentais, publicadas pelo TRF2, e descrevem os textos como doutrinários, sem força persuasiva técnico-jurídica e sem representar posição do Tribunal ou de seus membros. A hospedagem não os converte em precedentes do TRF2. As séries da JFRJ e dos FOREJEF permanecem distintas. Não se afirma vigência atual, vinculação ou completude.
+
+Sobre a main atual `b6f29218c3f0`, cujo README registra 42.377 registros e 180 órgãos após a integração de sete despachos referenciais da PGE/GO, esta integração acrescenta 145 registros e nenhum órgão: 42.522 registros e 180 órgãos esperados. O TRF02 passa de 409 para 554. As nove lacunas iniciais do BNP permanecem; o quadro BNP desta linha continua 24/24. As contagens editoriais mencionadas em resumos anteriores refletem snapshots distintos e não alteram o delta desta conciliação. Apenas Markdown é publicado; PDFs, imagens, scripts, extrações e recibos ficam na evidência privada `trf02-jornadas-dhf-20261030`.
