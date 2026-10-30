@@ -1,6 +1,6 @@
 # Cobertura
 
-**40.873 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**40.929 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -79,6 +79,8 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPDFT — Enunciados cíveis](https://www.mpdft.mp.br/portal/index.php/cmaras-de-coordenao-e-revisao-menu/14460-enunciados-civeis) | 45 | 45 | 0 |
 | [MPRS — Súmulas do Conselho Superior](https://www.mprs.mp.br/orgaoscolegiados/sumulas/) | 21 | 21 | 0 |
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
+| [MPGO — Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4) | 41 | 41 | 0 |
+| [MPGO — Enunciados ANPP](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal) | 15 | 15 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
 | [MPBA — Súmulas do Conselho Superior](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas) | 10 | 10 | 0 |
@@ -1017,7 +1019,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
 | [MPDFT](tribunais/MPDFT/) | 129 | MPDFT — Enunciados cíveis e criminais das CCRs, com histórico |
 | [MPRS](tribunais/MPRS/) | 206 | MPRS — 21 súmulas do CSMP, 31 enunciados dos conselhos, 3 orientações CONDECON, 86 enunciados ambientais e urbanísticos, 3 proposições CONMAM e 62 itens do Encontro IJ 2005 |
-| [MPGO](tribunais/MPGO/) | 13 | MPGO — Enunciados da Comissão Especial de Promoção dos Servidores, página oficial e PDF vinculado |
+| [MPGO](tribunais/MPGO/) | 69 | MPGO — CEP (13), SUBJUR (41) e ANPP (15); emissores e séries separados |
 | [MPSC](tribunais/MPSC/) | 20 | MPSC — 17 enunciados da Câmara Revisora Criminal e 3 do Conselho Gestor do FRBL |
 | [MPSP](tribunais/MPSP/) | 80 | MPSP — Assentos e Súmulas do Conselho Superior, PDF oficial, págs. impressas 65–87 |
 | [MPPE](tribunais/MPPE/) | 8 | MPPE — 7 enunciados e uma súmula do Conselho Superior |
@@ -1734,6 +1736,23 @@ Cada registro traz o texto da página e o do PDF, na mesma identidade. Os nºs 1
 Nenhuma das fontes declara vigência, revogação ou efeito vinculante, e a ausência desses selos não foi convertida em conclusão sobre vigência. O Ato PGJ nº 027/2006, o ofício, leis e a Constituição, apenas citados, não geraram identificadores. Outras sessões, atas e atos da CEP e redações anteriores não foram lidos e continuam pendentes; versões ausentes não foram reconstruídas. Capturas, PDF, imagens e scripts ficam privados.
 
 Sobre a main `82dd278e86cb99169d1d252cd6421cda98b4b3ab`, com 37.030 registros em 146 órgãos, MPF 430, MPM 73, MPT 32, TJAM 74 e MPCE 34, este lote soma 13 registros e um órgão: 37.043 registros em 147 órgãos, com o MPGO em 13. As nove lacunas textuais do catálogo inicial do BNP permanecem: os IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e o IRDR 34 do TJRJ. A cobertura nacional continua parcial.
+
+## MPGO — séries SUBJUR e ANPP da SPGJ/AJ
+
+Foram incorporados 41 blocos da página [Enunciados SUBJUR](https://www.mpgo.mp.br/portal/conteudo/enunciados-subjur--4) e 15 da página [Enunciados — revisão de recusa à propositura de acordo de não persecução penal](https://www.mpgo.mp.br/portal/conteudo/enunciados-revisao-de-recusa-a-propositura-de-acordo-de-nao-persecucao-penal), do emissor Subprocuradoria-Geral de Justiça para Assuntos Jurídicos (SPGJ/AJ). São séries próprias e IDs separados dos 13 enunciados CEP já existentes. A página ANPP consultada alcança o nº 15.
+
+| Fonte | Captura 1: status, bytes, SHA-256 bruto | Captura 2: status, bytes, SHA-256 bruto | Bloco jurídico comparado |
+| --- | --- | --- | --- |
+| SUBJUR | 200; 130.476; `ce64960ff125557386d7b2ea2ef02a93b7afe1693b23ea918655e1a431051b7e` | 200; 130.476; `56a0bc08000b9f30824653ca922fde65cf71ba9bf855bb774ab9bf7afb1d5ede` | HTML completo igual nas duas capturas; 36.783 bytes; SHA-256 `e4522556efff19c765e466f19009dd1a5e284cbe6e039da3d51cc1fb5c484cff` |
+| ANPP | 200; 115.608; `31ffcca73422a9ec916a042d955d3e5e2517505837d3522032d4013751addd07` | 200; 115.608; `844a9eaa5ec82c7d46417f26b53f699eb1ad0db6889a8e2f36d37c7c1630fcff` | HTML completo igual nas duas capturas; 21.675 bytes; SHA-256 `fb8398d44090d9e7c110e9886677e3e2d6e631d99c5a77c8ca3cbc2593918063` |
+| Ato SPGJAJ n. 1/2025 (2259) | 200; 94.318; `6e092391ce91fbcd5bef2ad04b0871603a8ec5886a0b976150527a72b422dcc9` | 200; 94.318; `d21ed96df4a0af9fef67da3dfcc2e11bc1925553499abb66d9dfbc12083f982f` | Corpo completo igual; 11.125 bytes; SHA-256 `5bf7cfd975849c38d2728a03886147bb71e927651ea2d8c3f2dd661a62a7bb53` |
+| Ato/decisão ANPP 14 (2331) | 200; 92.649; `37579fadd5e1b1aeba9f2bb2653cd10347f3b971cbf18c1d98b9a23cc0d1b646` | 200; 92.649; `a33ef626319fa1f0dd948672812c83e4ef8f90dbcff0f6f07065d092c5185acf` | Corpo completo igual; 9.463 bytes; SHA-256 `9327e1c647e9eeddd9dda96f40bad99565b046d7c0843958b9e70f438e3975b0` |
+
+Os bytes e hashes das respostas HTML completas divergem entre pares; o HTML jurídico completo comparado coincide em cada par. Os recibos detalhados e as capturas ficam privados. O [Ato SPGJAJ n. 1/2025](https://www.mpgo.mp.br/portal/atos_normas/2259) foi lido integralmente: art. 2º define orientação não vinculante e parágrafo único separa o repositório ANPP. A decisão integral [Enunciado ANPP n. 14, de 8/1/2026](https://www.mpgo.mp.br/portal/atos_normas/2331) foi transcrita uma vez no registro ANPP 14, sem criar ID para o ato.
+
+A página SUBJUR marca os nºs 36 e 41 como “Revisado e transformado no Enunciado ANPP n. 13”. A decisão 2331, ao contrário, determina a revisão e transferência do SUBJUR 36 como ANPP 13, o cancelamento do SUBJUR 40 e a revisão e transferência do SUBJUR 41 como ANPP 14. As duas atribuições sobre o nº 41 permanecem atribuídas às respectivas fontes; registros históricos não foram fundidos. As anotações de situação da página, inclusive “Canelado” no nº 39, foram preservadas literalmente. O ato disciplina edição, revisão e cancelamento, mas as fichas não inferem vigência atual. Não foram gerados registros para atos, normas, casos ou autos citados, nem incorporados CPF, RG, matrícula pessoal ou autenticação. A CEP, SUBJUR e ANPP continuam separadas; não se incorporaram séries ANPC ou Terceiro Setor.
+
+Sobre a main `74f72ad85653acea63ad095368d2cdcd1759027d`, com 40.873 registros em 165 órgãos e MPGO em 13, entram 56 registros e nenhum órgão novo: 40.929 registros em 165 órgãos e MPGO em 69. O acervo mantém MPBA 10 e as séries STJ existentes sem alteração. A cobertura nacional continua parcial; atos, diários e deliberações além das páginas e da decisão lidas permanecem pendentes.
 
 ## MPSC — enunciados da Câmara Revisora Criminal
 
