@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.082 registros únicos de 172 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.099 registros únicos de 174 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -28,6 +28,9 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CRSFN — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/legislacao) | 6 | 6 | 0 |
+| [CRSNSP — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/legislacao/legislacao) | 6 | 6 | 0 |
+| [CRSNSP — Enunciados históricos sem força vinculante, notícia oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/noticias/2022/crsnsp-aprova-duas-novas-sumulas-em-sessao-de-julgamento) | 5 | 5 | 0 |
 | [FONAJUS — Enunciados de Direito da Saúde](tribunais/FONAJUS/en-saude/) | 176 | 176 | 0 |
 | [FONAPREC — Enunciados do Fórum Nacional de Precatórios](https://www.cnj.jus.br/programas-e-acoes/precatorios/enunciados/) | 15 | 15 | 0 |
 | [CNJ — I Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2023/03/1o-caderno-de-enunciados-fonaref-portal.pdf) | 15 | 15 | 0 |
@@ -931,6 +934,12 @@ O catálogo do Tribunal de Impostos e Taxas do Estado de São Paulo acrescenta 1
 
 O catálogo institucional do CCMG acrescenta sete súmulas, nºs 01 a 07, com textos e links de documentos associados conferidos em duas leituras em 29/10/2026. As nºs 02 a 06 trazem nota expressa de revogação, preservada junto das redações históricas. A ausência da nota nas nºs 01 e 07 não foi convertida em confirmação de vigência. O catálogo vincula as nºs 02 a 06 ao mesmo PDF, denominado portaria_04_2020.pdf, a nº 07 a portaria_05_2020.pdf e a nº 01 a deliberacao_02_2001.pdf. Esses três documentos, seus inteiros teores, datas e efeitos ainda não foram conferidos neste lote; os nomes dos arquivos não foram usados como data de aprovação ou de revogação. Foram preservadas as grafias e referências legislativas do catálogo, inclusive “pólo” e “disposto no arts.”. Acórdãos, deliberações apenas citadas e outras séries do órgão permanecem pendentes. O CCMG é órgão administrativo tributário próprio e não integra o catálogo judicial BNP consultado.
 
+## CRSFN e CRSNSP — conselhos distintos
+
+Foram integradas seis súmulas de cada conselho como fontes administrativas próprias, sem cruzar as competências do CRSFN com as do CRSNSP ou com CARF, CVM, COAF, SUSEP e Banco Central. No CRSFN, a legislação oficial lista os enunciados 1 a 6; a notícia publicada em 15/05/2023, atualizada em 04/09/2026, identifica a aprovação das súmulas 2 a 6 na 471ª sessão de 09/05/2023 e informa que a nº 1 já estava em vigor desde abril de 2017. O lote preserva a grafia publicada, inclusive “pela a declaração” na nº 1, sem corrigir o texto.
+
+No CRSNSP, a página oficial de legislação lista seis súmulas. A página associa a nota “retificação da súmula nº 4” à redação atual; a versão anterior e o ato de retificação não foram recuperados e não foram reconstruídos. A notícia oficial de 2022 reproduz também cinco enunciados históricos e relata a deliberação de que não têm força vinculante. Eles estão em série separada, sem datas individuais inventadas. A imagem oficial de 2021 não foi usada como fonte de texto. Ausência de anotação de revogação ou alteração não comprova vigência. Essas 17 entradas acrescentam dois órgãos e não alteram as nove lacunas textuais do BNP listadas no início deste arquivo. O catálogo de cada conselho não foi tratado como exaustivo de todas as suas espécies decisórias.
+
 ## CAT/GO e PGE/GO — séries administrativas distintas
 
 O catálogo do Conselho Administrativo Tributário de Goiás acrescenta 15 súmulas, nºs 01 a 15. Duas leituras coincidem no texto de cada coluna, nos links e nos trechos riscados. Os campos Ementa, Extrato, Acórdão e Súmulas com efeito vinculante à SRE foram mantidos separadamente, inclusive campos vazios e o marcador “—”. A nº 09 está expressamente cancelada no campo Extrato; o texto riscado e os dois acórdãos vinculados foram preservados. A informação de efeito vinculante à SRE foi mantida como campo do catálogo, sem ser estendida automaticamente a todos os verbetes ou a outros órgãos. A palavra Ementa é a do cabeçalho oficial e não foi reclassificada como inteiro teor dos acórdãos.
@@ -1137,7 +1146,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
 
@@ -2481,3 +2490,7 @@ A própria página informa publicação em 23/08/2024 e modificação em 06/09/2
 Sobre a main `7167dc1940fe83fa3d0da3416a4607aee156eb50`, com 41.484 registros em 170 órgãos e TRF02 em 86 (IAC 1, IRDR 7, NT 16, SUM 62), o delta é de 186 registros e nenhum órgão: 41.670 registros em 170 órgãos; TRF02 passa a 272, com IAC 1, IRDR 7, NT 16, SUM 62, enunciados FOREJEF 165, recomendações 13, sugestões 2, moções 1 e conclusões 5. As 9 lacunas textuais do catálogo inicial do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Os demais lotes já incorporados na main foram preservados; apenas Markdown público, cobertura nacional parcial.
 
 Sobre a main `3f877c7abd27ac45f932bd7cf144876bca7c5790`, com 41.670 registros em 170 órgãos, TRF02 em 272 e TRF04 em 202, o PR #146 somou 30 enunciados e nenhum órgão, levando essa base a 41.700 registros em 170 órgãos e TRF04 232. Naquela contagem, os PRs #148 (137 enunciados JFRJ) e #149 (176 enunciados FONAJUS) ainda estavam abertos e não foram incluídos. O PR #147, com 186 registros FOREJEF, já integrava a base. As nove lacunas textuais iniciais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Apenas Markdown público; evidências permanecem privadas; a cobertura nacional continua parcial.
+
+### Conciliação CRSFN/CRSNSP com a base atual
+
+A main `4b2f05fc4952f10bf0afd42d3ed8ef41923364af`, já com os 176 registros FONAJUS e os 69 FONEF, tem 42.082 registros em 172 órgãos. O lote CRSFN/CRSNSP soma 17 registros em dois órgãos próprios: 6 súmulas CRSFN, 6 súmulas CRSNSP e 5 enunciados históricos CRSNSP, em série separada. O total reconciliado é 42.099 registros em 174 órgãos. Os 176 FONAJUS, os 69 FONEF, os 409 TRF02, os 232 TRF04 e os identificadores explícitos dos 19 registros Fonaref foram preservados. Os números da base anterior descritos na seção de coleta são históricos; não indicam a contagem atual. O delta público deste lote fica restrito aos dois órgãos, README e cobertura; nenhum registro da main é removido. As nove lacunas iniciais do BNP permanecem.
