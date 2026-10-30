@@ -20,6 +20,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | --- | ---: | ---: | ---: |
 | [CNJ — I Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2023/03/1o-caderno-de-enunciados-fonaref-portal.pdf) | 15 | 15 | 0 |
 | [CNJ — II Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2024/05/enunciados-aprovados-rejeitados-2o-fonaref.pdf) | 4 | 4 | 0 |
+| [CNJ — III Congresso do FONAREF](tribunais/FONAREF/en-congresso-iii/) | 17 | 17 | 0 |
 | [STJ — 1º Congresso da Segunda Instância, PDF final](tribunais/STJ/en-congresso-segunda-i/) | 131 blocos (130 enunciados e 1 proposta legislativa) | 130 | 0 |
 | [CJF — IX Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CJF — X Jornada de Direito Civil](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 58 | 58 | 0 |
@@ -86,6 +87,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
 | [Fonavid — Enunciados](https://fonavid.com.br/conteudos/enunciados) | 81 | 81 | 0 |
+| [Fonaref — 3º Congresso, caderno final](https://www.cnj.jus.br/wp-content/uploads/2026/02/enunciados-aprovados-3o-fonaref.pdf) | 17 | 17 | 0 |
 | [Enfam — Seminário O Poder Judiciário e o novo CPC](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 62 | 62 | 0 |
 | [CNPG/GNCCRIM — Enunciados 41–44 reproduzidos pelo MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal) | 4 | 4 | 0 |
 | [MPBA — Súmulas do Conselho Superior](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas) | 10 | 10 | 0 |
@@ -1025,6 +1027,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
+| [FONAREF](tribunais/FONAREF/) | 17 | 3º Congresso, caderno final de enunciados aprovados |
 | [ENFAM](tribunais/ENFAM/) | 62 | Seminário O Poder Judiciário e o novo CPC (2015), reprodução no catálogo STJ |
 | [CNPG](tribunais/CNPG/) | 4 | CNPG/GNCCRIM — enunciados 41–44 reproduzidos em notícia institucional do MPPR |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
@@ -2371,6 +2374,12 @@ Entram 62 enunciados, números 1–62, em órgão próprio ENFAM e série `en-cp
 
 Sobre `9baeb8e0` (41.119 registros em 166 órgãos), o delta é +62 registros e +1 órgão: 41.181 registros em 167 órgãos. CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 permanecem. As nove lacunas iniciais do BNP continuam.
 
+## Fonaref — 17 enunciados do terceiro congresso
+
+O caderno final publicado em fevereiro/2026 contém os números 1–17 e suas justificativas, das comissões 01–04, para o evento de 17–18/11/2025. Foram lidas visualmente as 22 páginas físicas, com camada textual de apoio e sem OCR. Texto jurídico nas páginas 11–20; fonte, bytes, SHA, paginação e limites constam de cada ficha e do índice. Duas capturas HTTP 200 idênticas. A apresentação menciona cinco comissões, mas a quinta não tem enunciados neste arquivo; não foi reconstruída do caderno prévio aprovado apenas para debate. Mantidas a aspa unilateral do nº 4, RMA/RPA no nº 6, artigos distintos no nº 10, “reponsabilidade” no nº 14 e “TJ” na justificativa 16. Os números de outros congressos não foram fundidos. Atas e julgados citados não viraram registro.
+
+Base `20365a10` (41.433 registros em 168 órgãos, já com Fonavid 81, 124 minutas FOJESP e 47 enunciados ENJESP). Delta +17 registros e +1 órgão FONAREF: 41.450 registros em 169 órgãos. PRs #140 e #141 já estão integrados nesta base. ENFAM 62, Fonavid 81, TJMG 447, TJSP 397, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 209 preservados. As nove lacunas iniciais do BNP permanecem. Não se inferiu vigência, vinculação ou exaustividade; demais congressos e documentos continuam pendentes.
+
 ## Fonavid — 81 enunciados no site próprio
 
 Os números 1–81, títulos e corpos foram lidos no contêiner `#enunciados-para-exportacao` do site do Fonavid e comparados entre dois HTMLs HTTP 200 idênticos, de 170.414 bytes. SHA e limites constam do índice da série. Revogações, alterações, grafias e notas de encontros permanecem literais; não se inferiu vigência ou vinculação. O PDF de 2025 reproduzido pelo TJSE foi capturado, mas não foi lido visualmente nem usado como fonte textual. Não houve OCR ou reconstrução de redação antiga. Atas, cartas e fontes históricas continuam pendentes. A cópia do CNJ, identificada como atualizada até XIV/2022, não substitui o catálogo próprio com os números do XVII encontro. Nenhuma norma citada virou registro.
@@ -2394,7 +2403,7 @@ Foram publicados 15 enunciados do I Congresso e quatro textos presentes na tabel
 
 As duas respostas pareadas do primeiro caderno retornaram HTTP 200, 2.838.707 bytes cada, com SHA-256 `2a2c8fd90585ad200989be4504453bef9f7f971cd32e94bf4273dc2d980ce786`. As duas respostas do segundo retornaram HTTP 200, 473.502 bytes cada, SHA-256 `d2229c0aafce236f490d07ee5e49436cc805064ba85c34a71fb44d400a9e2ca5`. PDFs, imagens e recibos permanecem privados.
 
-O prefácio do primeiro caderno e a abertura da seção de enunciados dizem quinze; a notícia do CNJ de 9/3/2023 informa quatorze, assim como a seção de participações relata 14 propostas debatidas. As formulações e atribuições distintas ficam preservadas, sem conciliação por hipótese. No segundo caderno, os textos publicados estão nas posições 1, 5, 7 e 8. A própria tabela marca 2, 4, 6, 9, 10 e 11 como “Rejeitado” e 3 como “Englobado pelo enunciado 5”; os avisos não geraram registros sem corpo. A notícia sobre quatro aprovações não foi usada como atribuição de autoridade a posições específicas.
+O prefácio do primeiro caderno e a abertura da seção de enunciados dizem quinze; a notícia do CNJ de 9/3/2023 informa quatorze, assim como a seção de participações relata 14 propostas debatidas. As formulações e atribuições distintas ficam preservadas, sem conciliação por hipótese. No segundo caderno, os textos publicados estão nas posições 1, 5, 7 e 8. A própria tabela marca 2, 4, 6, 9, 10 e 11 como “Rejeitado” e 3 como “Englobado pelo enunciado 5”; os avisos não geraram registros sem corpo. A [notícia do CNJ sobre quatro aprovações](https://www.cnj.jus.br/programas-e-acoes/forum-nacional-de-recuperacao-empresarial-e-falencias-fonaref/noticias-sobre-o-fonaref/) não foi usada para atribuir autoridade a posições específicas.
 
 O PR #143 integrou à main `b9ecffa25` os 17 enunciados do III Congresso e acrescentou o órgão FONAREF: 41.450 registros em 169 órgãos, partindo da main `20365a10847f57027bc987f236b6a89799ead487` com 41.433/168. Este lote soma 19 registros às séries do I e do II Congressos, sem novo órgão: 41.469 registros em 169 órgãos. TJMG 447, TJSP 397, Fonavid 81, Enfam 62, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 1.209 permanecem. As nove lacunas do catálogo inicial do BNP permanecem.
 
