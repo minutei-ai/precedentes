@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.021 registros únicos de 165 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.025 registros únicos de 166 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -81,6 +81,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 | [MPGO — Enunciados da Comissão Especial de Promoção dos Servidores](https://www.mpgo.mp.br/portal/conteudo/enunciados-cep) | 13 | 13 | 0 |
 | [MPSC — Enunciados da Câmara Revisora Criminal](https://www.mpsc.mp.br/enunciados-crc) | 17 | 17 | 0 |
 | [MPSP — Assentos e Súmulas do Conselho Superior](https://mpsp.mp.br/documents/20122/4193200/RI%2025.02.2025%20VOTADO%20anotado.pdf/c45099f9-fe48-3550-21f1-d9d98d3c27ca?t=1749488625101) | 80 | 80 | 0 |
+| [CNPG/GNCCRIM — Enunciados 41–44 reproduzidos pelo MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal) | 4 | 4 | 0 |
 | [MPBA — Súmulas do Conselho Superior](https://www.mpba.mp.br/institucional/orgaos_colegiados/conselho_superior/sumulas) | 10 | 10 | 0 |
 | [MPCE — Súmulas do Conselho Superior](https://mpce.mp.br/orgaos-colegiados/conselho-superior-do-ministerio-publico/normas-internas-csmp/sumulas/) | 34 | 34 | 0 |
 | [MPPI — Súmulas do Conselho Superior](https://www.mppi.mp.br/internet/conselho-superior/sumulas/) | 12 | 12 | 0 |
@@ -1006,6 +1007,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
+| [CNPG](tribunais/CNPG/) | 4 | CNPG/GNCCRIM — enunciados 41–44 reproduzidos em notícia institucional do MPPR |
 | [FONAJE](tribunais/FONAJE/) | 328 | Fórum Nacional de Juizados Especiais — séries cível, criminal e Fazenda Pública hospedadas no CNJ |
 | [CJF](tribunais/CJF/) | 1.872 | Consulta de Enunciados — I e II Jornadas de Prevenção e Solução Extrajudicial, Notarial e Registral, Direito e Processo Penal, Patrimônio Cultural e Natural, Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, Jornadas I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX/X Civil, Processual Civil I/II/III/IV, Crises Ambientais I e Seguridade Social I |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
@@ -2310,10 +2312,16 @@ A notícia oficial de 17/06/2026 anuncia 149 enunciados aprovados (31 + 111 + 7)
 
 Os registros preservam os números, cabeçalhos, notas e continuações publicados. O bloco não separa proposições legislativas; normas e casos citados não receberam IDs. Nomes de proponentes e funções públicas foram mantidos, sem dados pessoais restritos. São registros documentais de enunciados de evento, não decisões do STJ ou precedentes vinculantes; não se infere vigência, efeito vinculante ou completude. Apenas Markdown foi publicado.
 
-A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. Após conciliação com a main atual `71d1707c`, o total esperado é 41.021 registros em 165 órgãos, STJ 3.705; o PR #135 não altera esse total.
+A base `ff59cc17` citada no PR tinha 40.863 registros em 164 órgãos, STJ 3.557 e CJF 1.872: com este delta, o total esperado nessa base seria 41.011 registros em 164 órgãos, STJ 3.705. Durante a revisão, `origin/main` avançou para `74f72ad8`, que integrou o PR #133 com dez súmulas do MPBA; essa base tem 40.873 registros em 165 órgãos. As dez súmulas não integram o delta deste PR. A base do PR nessa revisão era `71d1707c`; nela, o total esperado após o PR #133 era 41.021 registros em 165 órgãos, STJ 3.705. O PR #135 não altera esse total.
 
 ## MPGO — documento histórico de ANPC de 04/09/2020
 
 [Documento comum](tribunais/MPGO/documentos-anpc-2020/): apresentação, 22 enunciados e justificativas, nas 18 páginas físicas do PDF original da PGJ/MPGO. As 18 imagens foram lidas e conferidas com a camada textual. Duas capturas públicas HTTP 200, 370.073 bytes cada, SHA-256 `b8f02b4b04cae57d258ade47de3de1ce45ff67a0cdddc85fc5995368f3b4c277`, sem autenticação. A apresentação identifica Goiás; a cópia hospedada pelo MPMT não altera o emissor. Não houve OCR. Cabeçalhos repetidos, logotipo, negrito e itálico foram normalizados, com texto e parágrafos preservados por página. Referências impressas como RE 1.467.807/GO, inciso LVI, Lei 12.246/2013 e Lei 8. 429/92 permanecem sem atualização.
 
-A relação entre a numeração 1–22 deste documento e a numeração posterior SUBJUR segue pendente: os textos ficaram reunidos sem novos IDs nem fusão por semelhança. A proposta de resolução citada não consta do PDF. A página dos dois complementares devolveu autenticação, sem texto; não houve contorno. Normas e processos citados não viraram registros. Não há vigência atual ou efeito vinculante inferidos. Sobre a main atual `71d1707c`, o delta é zero registros e zero órgãos: permanecem 41.021 registros em 165 órgãos. As nove lacunas do BNP e os lotes já integrados permanecem.
+A relação entre a numeração 1–22 deste documento e a numeração posterior SUBJUR segue pendente: os textos ficaram reunidos sem novos IDs nem fusão por semelhança. A proposta de resolução citada não consta do PDF. A página dos dois complementares devolveu autenticação, sem texto; não houve contorno. Normas e processos citados não viraram registros. Não há vigência atual ou efeito vinculante inferidos. O PR #135 integra a main atual `8284d0d1`, sem alterar o total: 41.021 registros em 165 órgãos. As nove lacunas do BNP e os lotes já integrados permanecem.
+
+## CNPG/GNCCRIM — quatro enunciados reproduzidos pelo MPPR
+
+O lote acrescenta os números 41–44, com o CNPG/GNCCRIM como emissor atribuído pela [publicação institucional do MPPR](https://site.mppr.mp.br/criminal/Noticia/CNPG-aprova-novos-enunciados-do-GNCCRIM-para-orientar-atuacao-criminal). O MPPR é fonte da reprodução. Dois HTMLs HTTP 200 idênticos: 64.260 bytes cada, SHA-256 `858a8137de94c49953f02cf0bd56766c719ab3f5bb72d5fca2c175b46b9f74fd`. Os quatro corpos, a notícia e a atribuição foram lidos no DOM. A data 20/10/2026 às 12:52 é da publicação, sem conversão em data de aprovação ou vigência. O portal do CNPG identifica o GNCCRIM como seu órgão e o CNPG como associação nacional sem fins lucrativos que congrega os Procuradores-Gerais dos Ministérios Públicos dos Estados e da União.
+
+A notícia relata revisão dos 40 anteriores e aprovação de quatro novos após a 2ª Reunião Ordinária do GNCCRIM, sem data da reunião. O PDF final vinculado respondeu 404 em duas tentativas; as redações revisadas de 1–40 continuam pendentes. Não se atribuiu a coletânea histórica da Lei Anticrime à edição de 2026. Não houve PDF ou OCR neste lote. Atos e normas citados não ganharam ID; não houve inferência de vigência, efeito vinculante ou completude. As nove lacunas iniciais do BNP permanecem. Sobre a main `8284d0d1` (41.021 registros em 165 órgãos, STJ 3.705, CJF 1.872), soma quatro registros e um órgão: 41.025 registros em 166 órgãos.
