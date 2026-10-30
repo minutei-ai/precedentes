@@ -67,6 +67,13 @@ O catálogo oficial da CGE/GO lista os rótulos 2231, 2062, 1563, 1554, 804, 692
 As duas capturas primárias do catálogo (seção `entry-content`, tabela de sete colunas) são idênticas: 297215 bytes e SHA-256 `cc3de8b6aeb52e3e36561b89323eb33b77d68e4e0e92152fba98b79f369a6bfe`. Cada PDF teve duas respostas HTTP 200, com tamanhos e hashes idênticos. Foram lidas visualmente as 111 páginas dos PDFs, usando a camada textual como apoio; nenhuma página exigiu OCR. Glifos danificados nas camadas textuais de 1563 e 2062 foram corrigidos contra as imagens. Redações visíveis nos textos dos despachos 511 e 804 foram preservadas como riscadas.
 
 Campos tarjados foram omitidos sem recuperar camadas ocultas; o identificador parcial de CPF do despacho 2062 foi omitido. Blocos de assinatura/autenticação, números pessoais, códigos verificadores, CRC, QR, códigos de barras e URLs de validação não foram publicados. Nomes e funções públicas, referências, notas, continuações de página e fechos foram conservados. Nenhum ato apenas citado ganhou ID. Não se infere vigência, vinculação ou completude. Os originais, imagens, extrações e recibos permanecem privados; o lote público contém apenas Markdown.
+## PGE/GO — 38 despachos referenciais rotulados em 2020
+
+Sobre a main consultada em `02ba8bf4a3e29fbfd60abe3108e0daac69540b0c`, com 42.582 registros em 182 órgãos (PGEGO 45 após os lotes documentais anteriores), este lote acrescenta 38 documentos e nenhum órgão: delta **+38 registros, +0 órgãos**. O total esperado pelo delta é **42.620 registros em 182 órgãos**, com PGEGO 83 (22 súmulas e 61 despachos). É soma focada, sem nova contagem global; os registros dos demais lotes permanecem preservados.
+
+A página hospedeira da CGE/GO tem 115 linhas não vazias; 40 são de 2020. Dessas, 38 têm espécie `Despacho` após comparação sem distinção de caixa e foram atribuídas à PGE/GO pela leitura dos atos; as outras duas são pareceres de outros emissores. Não se atribuiu autoria à CGE/GO. Em 2020, os 38 PDFs têm URLs distintas. Os números do catálogo e os impressos foram reconciliados pelo conteúdo, sem forçar identidade pelo rótulo; o Despacho nº 684 imprime `PJ-10235`, e o nº 378 imprime `ADSET-12543`, da Procuradoria Setorial da Secretaria de Estado de Governo. O PDF do rótulo 695 contém 14 páginas, mas apenas as páginas físicas 1–7 são o despacho-alvo; as páginas 8–14 são outros atos e não foram incorporadas.
+
+Cada um dos 38 PDFs foi capturado duas vezes: HTTP 200 em ambas, bytes e SHA-256 coincidentes. Foram lidas visualmente todas as 235 páginas físicas dos PDFs, com apoio das camadas textuais; 228 páginas pertencem aos atos incorporados. Não foi usado OCR. Campos tarjados foram omitidos sem recuperar seu conteúdo; placeholders literais e nomes e funções públicas foram mantidos. CPF, RG, matrícula, inclusive parciais, autenticações, QR codes, CRC, códigos de barras e URLs de validação foram omitidos. Redações riscadas do nº 1950 e datas distintas foram mantidas sem harmonização. Referências, citações e notas foram preservadas; atos apenas citados não receberam IDs. O índice descreve os limites de identidade e páginas. Os PDFs, imagens, extrações e recibos permanecem privados; o lote público contém apenas Markdown.
 
 ## Fontes diretas
 
@@ -74,7 +81,7 @@ Campos tarjados foram omitidos sem recuperar camadas ocultas; o identificador pa
 | --- | ---: | ---: | ---: |
 | [PROCON/SP — Súmulas Vinculantes](https://www.procon.sp.gov.br/legislacao/) | 3 | 3 | 0 |
 | [CGE/CE — Enunciados próprios, edição de setembro de 2015](https://www5.cge.ce.gov.br/index.php/legislacao/constituicao-federal-e-estadual/cat_view/35-institucional?dir=DESC&limit=10&order=name&start=20) | 41 | 41 | 0 |
-| [PGE/GO — despachos referenciais de 2023–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 23 documentos / 186 páginas | 14 | 9 |
+| [PGE/GO — despachos referenciais de 2020–2026, catálogo hospedado pela CGE/GO](tribunais/PGEGO/desp-ref/) | 61 documentos / 414 páginas | 38 | 23 |
 | [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [PROCON/ES — Enunciados das Jornadas Capixabas de Defesa do Consumidor](tribunais/PROCONES/en-jornada/) | 27 | 27 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
