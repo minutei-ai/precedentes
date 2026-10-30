@@ -1,6 +1,6 @@
 # Cobertura
 
-**41.450 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**41.469 registros únicos de 169 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -18,6 +18,9 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [CNJ — I Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2023/03/1o-caderno-de-enunciados-fonaref-portal.pdf) | 15 | 15 | 0 |
+| [CNJ — II Congresso do FONAREF](https://www.cnj.jus.br/wp-content/uploads/2024/05/enunciados-aprovados-rejeitados-2o-fonaref.pdf) | 4 | 4 | 0 |
+| [CNJ — III Congresso do FONAREF](tribunais/FONAREF/en-congresso-iii/) | 17 | 17 | 0 |
 | [STJ — 1º Congresso da Segunda Instância, PDF final](tribunais/STJ/en-congresso-segunda-i/) | 131 blocos (130 enunciados e 1 proposta legislativa) | 130 | 0 |
 | [CJF — IX Jornada de Direito Civil](https://www.cjf.jus.br/enunciados/) | 49 | 49 | 0 |
 | [CJF — X Jornada de Direito Civil](https://scon.stj.jus.br/SCON/ec/listaEC.jsp) | 58 | 58 | 0 |
@@ -2393,3 +2396,15 @@ A compilação ligada à página institucional dos Juizados Especiais acrescenta
 Sobre `ccf167ff` (41.181 registros em 167 órgãos), entram 47 registros e nenhum órgão: 41.228 registros em 167 órgãos. O TJMG passa de 400 para 447; seus 139 registros no inventário BNP permanecem. As nove lacunas iniciais do BNP continuam.
 
 Conciliação final do PR #140 sobre `8ed6cd48` (41.386 registros/168 órgãos): +47 enunciados ENJESP, nenhum órgão; total 41.433/168. TJMG447, TJSP397 e Fonavid81 preservados.
+
+## FONAREF — I e II Congressos
+
+Foram publicados 15 enunciados do I Congresso e quatro textos presentes na tabela do II Congresso, em séries independentes `en-congresso-i` e `en-congresso-ii`. No I Congresso, cada enunciado inclui a justificativa integral. A leitura visual cobriu as 18 páginas renderizadas do primeiro caderno, incluindo as páginas impressas 12–16 com os quinze textos e justificativas, e as três páginas do segundo PDF. Os corpos foram conferidos com as imagens e a camada textual extraída. Não houve OCR nem reconstrução a partir de notícias ou propostas.
+
+As duas respostas pareadas do primeiro caderno retornaram HTTP 200, 2.838.707 bytes cada, com SHA-256 `2a2c8fd90585ad200989be4504453bef9f7f971cd32e94bf4273dc2d980ce786`. As duas respostas do segundo retornaram HTTP 200, 473.502 bytes cada, SHA-256 `d2229c0aafce236f490d07ee5e49436cc805064ba85c34a71fb44d400a9e2ca5`. PDFs, imagens e recibos permanecem privados.
+
+O prefácio do primeiro caderno e a abertura da seção de enunciados dizem quinze; a notícia do CNJ de 9/3/2023 informa quatorze, assim como a seção de participações relata 14 propostas debatidas. As formulações e atribuições distintas ficam preservadas, sem conciliação por hipótese. No segundo caderno, os textos publicados estão nas posições 1, 5, 7 e 8. A própria tabela marca 2, 4, 6, 9, 10 e 11 como “Rejeitado” e 3 como “Englobado pelo enunciado 5”; os avisos não geraram registros sem corpo. A [notícia do CNJ sobre quatro aprovações](https://www.cnj.jus.br/programas-e-acoes/forum-nacional-de-recuperacao-empresarial-e-falencias-fonaref/noticias-sobre-o-fonaref/) não foi usada para atribuir autoridade a posições específicas.
+
+O PR #143 integrou à main `b9ecffa25` os 17 enunciados do III Congresso e acrescentou o órgão FONAREF: 41.450 registros em 169 órgãos, partindo da main `20365a10847f57027bc987f236b6a89799ead487` com 41.433/168. Este lote soma 19 registros às séries do I e do II Congressos, sem novo órgão: 41.469 registros em 169 órgãos. TJMG 447, TJSP 397, Fonavid 81, Enfam 62, CJF 1.872, STJ 3.705, MPGO 69, CNPG 4 e TRF01 1.209 permanecem. As nove lacunas do catálogo inicial do BNP permanecem.
+
+Os 17 registros do III Congresso permanecem na série independente e foram preservados durante o merge comum da main avançada. Os três congressos ficam no mesmo órgão FONAREF, contado uma única vez. As capturas e demais evidências continuam privadas; a cobertura nacional permanece parcial.
