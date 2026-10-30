@@ -15,7 +15,7 @@
 
 ## Conferência e limites
 
-Texto e título transcritos do HTML oficial consolidado da Resolução CNJ nº 125/2010; o Anexo V identifica estes enunciados como referendados pelo Plenário do CNJ e declara aplicabilidade restrita à Justiça Estadual. A Resolução CNJ nº 686/2026 acrescentou o Anexo V. A edição I–XIX do caderno do FONAMEC hospedada pelo TJBA não foi visualmente conferida nesta coleta; por isso, esta transcrição representa apenas a redação do Anexo V, sem inferir identidade com textos de outras edições. Leis e demais normas citadas não geraram registros. A presença no acervo não afirma vigência atual nem atribui efeito vinculante além do que está expresso nas fontes.
+Texto e título transcritos do HTML oficial consolidado da Resolução CNJ nº 125/2010; o Anexo V identifica estes enunciados como referendados pelo Plenário do CNJ e declara aplicabilidade restrita à Justiça Estadual. A Resolução CNJ nº 686/2026 acrescentou o Anexo V. O Caderno I–XIX do FONAMEC hospedado pelo TJBA foi conferido visualmente; a redação correspondente consta abaixo como variante, atribuída pelo número coincidente e pela identificação, no próprio caderno, de que a edição atualiza a relação e integra os textos do Anexo V. Essa atribuição fica limitada aos números coincidentes e não estende o referendo do CNJ às demais entradas do caderno. Leis e demais normas citadas não geraram registros. A presença no acervo não afirma vigência atual nem atribui efeito vinculante além do que está expresso nas fontes.
 
 ## Redação no Caderno I–XIX
 

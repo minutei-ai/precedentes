@@ -10,11 +10,11 @@
 
 ## Texto no caderno
 
-Em demandas judiciais por medicamentos, tecnologias e procedimentos médicos em que o Sistema Único de Saúde ofereça em seus Protocolos Clínicos de Diretrizes Terapêuticas e Relações de Medicamentos Essenciais substituto terapêutico equivalente e com menor custo, recomenda-se o envio do processo ao Cejusc para tentativa de conciliação, objetivando a manutenção do equilíbrio entre os direitos individuais e coletivos à saúde pública Recomendação aprovada na assembleia realizada em 02/08/2024, em Manaus/AM, no 16º Encontro do FONAMEC.
+Em demandas judiciais por medicamentos, tecnologias e procedimentos médicos em que o Sistema Único de Saúde ofereça em seus Protocolos Clínicos de Diretrizes Terapêuticas e Relações de Medicamentos Essenciais substituto terapêutico equivalente e com menor custo, recomenda-se o envio do processo ao Cejusc para tentativa de conciliação, objetivando a manutenção do equilíbrio entre os direitos individuais e coletivos à saúde pública
 
 ## Nota de aprovação impressa
 
-
+Recomendação aprovada na assembleia realizada em 02/08/2024, em Manaus/AM, no 16º Encontro do FONAMEC.
 
 ## Conferência e limites
 

@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.181 registros únicos de 176 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**42.239 registros únicos de 177 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
 
 9 registros do catálogo inicial do BNP ainda não trazem questão, tese, ementa ou texto de decisão nos campos consultados dessa fonte: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. Dos 12 registros originalmente sem texto, os temas 1491, 1493 e 1494 do STF receberam complementação oficial em 29/10/2026. O acervo inclui procedimentos pendentes, controvérsias, cancelados e histórico. A presença de um registro não significa que exista tese firmada ou vigente.
 
@@ -16,13 +16,9 @@ Os 42 enunciados e as 27 recomendações foram registrados em séries próprias 
 
 ## FONAMEC
 
-A série original contém 39 enunciados do FONAMEC nos números 1–3, 5–11, 14–21, 23–24, 28–30, 32–34 e 36–48, conforme o Anexo V do texto consolidado da [Resolução CNJ nº 125/2010](https://atos.cnj.jus.br/atos/detalhar/156). A [Resolução CNJ nº 686/2026](https://atos.cnj.jus.br/atos/detalhar/258) incluiu esse Anexo, que identifica aqueles textos como referendados pelo Plenário e declara aplicabilidade restrita à Justiça Estadual. O emissor é o FONAMEC; o TJBA hospeda o caderno e o CNJ referendou o subconjunto do Anexo V.
+O [portal NUPEMEC/TJBA](https://www.tjba.jus.br/nupemec/legislacao/) liga o Caderno de Enunciados I–XIX; a página de [chamamento do CNJ](https://www.cnj.jus.br/poder-judiciario/chamadas-publicas/enunciados-do-forum-nacional-de-mediacao-e-conciliacao-fonamec/) também remete à edição. Foram conferidas visualmente as 41 páginas disponíveis. Os 39 números coincidentes com o Anexo V da Resolução CNJ nº 125/2010 mantêm seus IDs e recebem a redação do caderno como variante atribuída pelo número e pela identificação da edição como relação atualizada que integra aqueles textos. A Resolução CNJ nº 686/2026 e o referendo nela descrito ficam restritos ao subconjunto do Anexo V; não são estendidos aos demais itens do caderno.
 
-Na edição I–XIX do Caderno de Enunciados, ligada pelo [catálogo do NUPEMEC/TJBA](https://www.tjba.jus.br/nupemec/legislacao/) e também pela página de [chamamento do CNJ](https://www.cnj.jus.br/poder-judiciario/chamadas-publicas/enunciados-do-forum-nacional-de-mediacao-e-conciliacao-fonamec/), foram conferidas visualmente as 41 páginas disponíveis. Os 39 números coincidentes com identidades do Anexo V mantêm seus IDs e recebem a redação do caderno como variante atribuída; a identidade se baseia no número e na identificação da edição como relação atualizada que integra os textos referendados no Anexo V. Foram criados 13 IDs para os números novos 4, 12, 13, 22, 25–27, 31, 35 e 49–52, e cinco IDs em série própria para as recomendações 1–5. Os números 49–52 trazem notas de pendência de aprovação e posterior referendo pelo CNJ; não foram descritos como referendados. O número 27 mantém a nota de sobrestamento impressa; o nº 4 preserva a nota de unificação de teor ao nº 7. A numeração repetida de comissões no expediente do caderno não foi usada como identidade. A proposta do XX FONAMEC não foi tratada como aprovada.
-
-O delta desta integração é de 18 IDs novos (13 enunciados e cinco recomendações), sem órgão novo. As variantes dos 39 IDs existentes não aumentam a contagem. O FONAMEC é distinto do FONEF, FONAREF, FONAPREC e FONAVID. Não se infere vigência atual, força vinculante ou completude histórica.
-
-Sobre a main `702755c402b835aa3bd493bd80c486e0a6863678` (42.013 registros em 171 órgãos), o lote acrescenta 69 registros e um órgão: total de 42.082 registros em 172 órgãos. Permanecem os 176 registros FONAJUS, 137 do JFRJ, 186 FOREJEF, 430 do TRF04, 36 FONAREF e os 19 identificadores FONAREF explícitos já incorporados. As nove lacunas iniciais do BNP permanecem.
+Foram acrescentados 13 IDs para os enunciados numerados 4, 12, 13, 22, 25–27, 31, 35 e 49–52, e cinco IDs para recomendações em série própria. A fonte registra a unificação do teor do nº 4 ao nº 7, mantém o nº 27 sobrestado e declara os nºs 49–52 pendentes de aprovação e posterior referendo pelo CNJ. A proposta do XX FONAMEC não foi tratada como aprovada. O total FONAMEC é 57 IDs; esta integração acrescenta 18 IDs e nenhum órgão, levando o acervo a 42.239 registros em 177 órgãos. Permanecem os 25 registros da I Jornada dos Juízes de Execução Fiscal, os 58 da PGE/ES e as nove lacunas do BNP. Não se infere vigência, força vinculante ou completude histórica. O FONAMEC é distinto do FONEF, FONAREF, FONAPREC e FONAVID.
 
 ## FONAJEF
 
@@ -36,6 +32,7 @@ Em 29/10/2026, foram conferidos os 57 cartões da listagem pública filtrada por
 
 | Fonte oficial | Registros na fonte | Novos no acervo | Já representados |
 | --- | ---: | ---: | ---: |
+| [PGE/ES — Enunciados Administrativos CPGE](https://pge.es.gov.br/enunciados) | 58 | 58 | 0 |
 | [CNJ — I Jornada do Fórum Nacional dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/en-jornada-i/) | 25 | 25 | 0 |
 | [CRSFN — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/legislacao) | 6 | 6 | 0 |
 | [CRSNSP — Súmulas do catálogo oficial](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/legislacao/legislacao) | 6 | 6 | 0 |
@@ -1063,6 +1060,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | Órgão | Acervo | Origem |
 | --- | ---: | --- |
 | [Fórum dos Juízes de Execução Fiscal](tribunais/FORUMEXECFISCAL/) | 25 | I Jornada — caderno final hospedado pelo CNJ; órgão distinto do FONEF/AJUFE |
+| [PGEES](tribunais/PGEES/) | 58 | PGE/ES — catálogo HTML de enunciados administrativos CPGE, números 01–58 |
 | [FONAJUS](tribunais/FONAJUS/) | 176 | FONAJUS/CNJ — números 1–176 em uma identidade cada, com histórico atribuído e fontes da VI, VII e VIII Jornadas |
 | [FONAVID](tribunais/FONAVID/) | 81 | Enunciados publicados no site próprio do fórum |
 | [FONAREF](tribunais/FONAREF/) | 36 | 1º, 2º e 3º Congressos, em séries independentes |
@@ -1072,7 +1070,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CJF](tribunais/CJF/) | 1.872 | Consulta de Enunciados — I e II Jornadas de Prevenção e Solução Extrajudicial, Notarial e Registral, Direito e Processo Penal, Patrimônio Cultural e Natural, Equidade Racial, Saúde, Desportivo, Tributário, Administrativo, Jornadas I/II/III Comercial, I/III/IV/V/VI/VII/VIII/IX/X Civil, Processual Civil I/II/III/IV, Crises Ambientais I e Seguridade Social I |
 | [FONAJEF](tribunais/FONAJEF/) | 271 | AJUFE — enunciados e recomendações do Fórum Nacional dos Juizados Especiais Federais; consulta parcial |
 | [FONEF](tribunais/FONEF/) | 69 | AJUFE — 42 enunciados e 27 recomendações do Fórum Nacional de Execução Fiscal; listagens HTML consultadas pelo leitor web integrado, proveniência derivada |
-| [FONAMEC](tribunais/FONAMEC/) | 57 | FONAMEC — Anexo V e Caderno I–XIX; variantes atribuídas e recomendações em série própria |
+| [FONAMEC](tribunais/FONAMEC/) | 57 | FONAMEC — Anexo V, Caderno I–XIX e recomendações; variantes atribuídas e recomendações em série própria |
 | [MPBA](tribunais/MPBA/) | 10 | MPBA — Súmulas do Conselho Superior no catálogo HTML oficial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
@@ -1158,7 +1156,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
 
@@ -2521,9 +2519,19 @@ Foram reunidas quebras tipográficas, preservando os hífens lexicais e dos núm
 
 Sobre a main `5c7e878ecdf17035c60a5e9d2fb9cc19e4f93040`, com 42.099 registros em 174 órgãos, este lote acrescenta 25 registros e um órgão: total esperado de 42.124 registros em 175 órgãos. FONAJUS 176, FONEF 69, CRSFN 6 e CRSNSP 11 permanecem; as nove lacunas iniciais do BNP não mudam. A contagem global não foi repetida nesta etapa; foram conferidos os 25 IDs e corpos do lote.
 
+## PGE/ES — Enunciados administrativos CPGE
+
+Foram integrados 58 registros numerados de 01 a 58 do [catálogo oficial da PGE/ES](https://pge.es.gov.br/enunciados), em órgão e série administrativos próprios. As duas capturas de 30/10/2026 responderam HTTP 200, com 399.899 bytes cada e SHA-256 `5100e9650ac4e3829d24da34a837ebabc249241fc99ef61ef588009e716ee680`. Os HTMLs são idênticos em bytes. O contêiner jurídico foi lido integralmente, preservando cabeçalhos, parágrafos, listas e fechos. Os nºs 43 e 44 usam cabeçalhos em caixa alta e não foram perdidos na divisão. Não há tabela ou marcação de risco no contêiner; negrito e itálico foram reduzidos a texto conforme declarado. Não houve leitura de PDF ou OCR.
+
+Permanecem os números soltos `110`, `115`, `125`, `135`, `145`, `150` e `155` nos nºs 01–07, “i tem IV” no nº 06, os dois incisos III do nº 16 e os do nº 40, a alínea h repetida no nº 38, as aspas e “CPGE GE” no nº 58. O nº 16 declara revogado o 17, mas o catálogo ainda publica seu corpo; ambos foram conservados em seus números. O nº 22 mantém o corpo e a nota de revogação pela Resolução 324/2022. A observação de publicação dos nºs 1–22 fica uma vez no README da série. As notas de alteração das resoluções vinculadas permanecem atribuídas ao HTML, sem inferir vigência atual, efeito vinculante ou completude.
+
+Os documentos ligados — resoluções, minuta, lista de checagem e parecer — não foram lidos e seguem pendentes para cotejo do histórico, redações anteriores e atos de alteração/revogação. Leis, julgados e atos apenas citados não geraram IDs. Não foram publicados PDF, HTML bruto, imagens ou scripts. O órgão é a PGE/ES, distinto de TJES, TCEES e Procuradorias de outros entes.
+
+Base: main `8e553a6bdc0e7c9fd4e1ae9bfeb5d0ae22cb3758`, com 42.124 registros e 175 órgãos. Delta de 58 registros e um órgão: total esperado 42.182/176. A I Jornada dos Juízes de Execução Fiscal (25), FONEF (69), FONAJUS (176), CRSFN (6) e CRSNSP (11) permanecem. Os PRs Anatel e Fonamec abertos não entram nessa conta. As nove lacunas iniciais do BNP permanecem. A verificação global não foi repetida; houve conferência focada de blocos, pares de captura, IDs, links e correspondência textual.
+
 
 ## FONAMEC — Caderno I–XIX, integração complementar
 
-Sobre a main `b8a66a361a46b20cf6ce84caded7b39b93daa4f6`, com 42.163 registros em 176 órgãos e 39 IDs FONAMEC, esta integração soma 18 IDs novos: 13 enunciados (4, 12, 13, 22, 25–27, 31, 35 e 49–52) e cinco recomendações em série própria. Os 39 IDs existentes permanecem com variantes atribuídas pelo número coincidente e pela identificação expressa da edição I–XIX como relação atualizada que integra os textos referendados no Anexo V. Total reconciliado: 42.181 registros em 176 órgãos. Nenhum órgão novo; FONAMEC passa a 57 IDs. As nove lacunas do BNP permanecem.
+Sobre a main `501bea97beb4dae12148267e866fa1a53984311e`, com 42.221 registros em 177 órgãos, esta integração soma 18 IDs novos: 13 enunciados (4, 12, 13, 22, 25–27, 31, 35 e 49–52) e cinco recomendações em série própria. Os 39 IDs existentes permanecem com variantes atribuídas pelo número coincidente e pela identificação expressa da edição I–XIX como relação atualizada que integra os textos referendados no Anexo V. O delta não altera os 25 registros da I Jornada dos Juízes de Execução Fiscal nem os 58 registros da PGE/ES já incorporados à main. Total esperado: 42.239 registros em 177 órgãos. Nenhum órgão novo; FONAMEC passa de 39 para 57 IDs. A contagem global não foi repetida; o total é reconciliado pelo delta declarado de 18 IDs. As nove lacunas do BNP permanecem.
 
-Foram examinadas pessoalmente por `view_image` as 41 imagens prontas, páginas 1–41, incluindo trechos continuados entre páginas. A URL pública do PDF respondeu HTTP 200 em duas capturas privadas de 5.427.790 bytes, ambas com SHA-256 `1251317480df451d73deebc8a4293b183707b900e6491f877644e75cdcbf49d8`. O texto auxiliar e os metadados do PDF foram usados como apoio para a transcrição; não houve nova extração, renderização, OCR ou navegação. O PDF tem 41 páginas. O caderno apresenta enunciados 1–52 e recomendações 1–5. Permanecem literais as notas de redação e revisão, inclusive a unificação do nº 4 ao nº 7, o sobrestamento do nº 27, o ajuste no nº 52 e a pendência de referendo nos nºs 49–52. As menções a normas e outros enunciados não criaram IDs. A edição não foi tratada como prova de vigência, força vinculante ou completude. Somente Markdown público; PDF, imagens, recibos, extração e scripts permanecem privados.
+Foram examinadas pessoalmente por `view_image` as 41 imagens prontas, páginas 1–41, incluindo trechos continuados entre páginas. A URL pública do PDF respondeu HTTP 200 em duas capturas privadas de 5.427.790 bytes, ambas com SHA-256 `1251317480df451d73deebc8a4293b183707b900e6491f877644e75cdcbf49d8`. O texto auxiliar e os metadados do PDF foram usados como apoio para a transcrição; não houve nova extração, renderização, OCR ou navegação. O PDF tem 41 páginas. O caderno apresenta enunciados 1–52 e recomendações 1–5. Permanecem literais as notas de redação e revisão, inclusive a unificação do nº 4 ao nº 7, o sobrestamento do nº 27, o ajuste no nº 52 e a pendência de aprovação e posterior referendo do CNJ nos nºs 49–52. As menções a normas e outros enunciados não criaram IDs. A edição não foi tratada como prova de vigência, força vinculante ou completude. Somente Markdown público; PDF, imagens, recibos, extração e scripts permanecem privados.
