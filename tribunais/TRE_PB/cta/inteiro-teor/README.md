@@ -9,3 +9,13 @@ Refs #226. Depende de https://github.com/minutei-ai/precedentes/pull/305.
 OCR visual página a página concluído para CTA 489-55/2016 (7/7) e 279-04/2016 (12/12); PDFs raster sem camada de texto útil.
 
 CTA 467-94/2016: o `@@display-file` Plone é wrapper SJUR (ementa+dispositivo); SitDoc id `2635579` falhou em 2026-11-04 (`Falha ao recuperar arquivo do SitDoc`). Corpo integral do acórdão permanece impedido.
+
+## Cobertura OCR visual (Read PDF/PNG)
+
+| Documento | Páginas | Rasters | Estado |
+| --- | ---: | --- | --- |
+| 489-55.2016 | 7/7 | `ocr/pb/489/p-1.png`…`p-7.png` | Transcrição visual; tipografia densa marcada |
+| 279-04.2016 | 12/12 | `ocr/pb/279/p-01.png`…`p-12.png` | Transcrição visual; tipografia densa marcada |
+| 467-94.2016 | — | wrapper SJUR | SitDoc 2635579 indisponível |
+
+Sem Tesseract/RapidOCR/ocrmypdf.

@@ -9,50 +9,87 @@
 - **Fonte catálogo:** [Respostas às consultas eleitorais](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/respostas-as-consultas)
 - **Pasta:** [279-04.2016.6.15.0000](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/arquivos/tre-pb-279-04-2016-6-15.0000)
 - **PDF (@@display-file):** [tre-pb-279-04-2016-6-15.0000.pdf](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/arquivos/tre-pb-279-04-2016-6-15.0000/@@display-file/file/tre-pb-279-04-2016-6-15.0000.pdf)
-- **Captura privada:** `tre-pb-279-04-2016-6-15.0000.pdf` — 859140 bytes — SHA-256 `4ed47466d1cab25f1c01557eafc1e2fb2883b3678acd71ac5a98751a4594d1c3` (2026-11-04, preview T3 @@display-file)
-- **Extração:** PDF raster sem camada de texto útil (pdftotext ≈ 0); leitura visual página a página **12/12** em 2026-11-04; PDF permanece privado. Recibo: `ocr/pb/OCR-VISUAL-279-04.md`
+- **Captura privada:** `tre-pb-279-04-2016-6-15.0000.pdf` — 859140 bytes — SHA-256 `4ed47466d1cab25f1c01557eafc1e2fb2883b3678acd71ac5a98751a4594d1c3`
+- **Rasters privados:** `ocr/pb/279/p-01.png` … `p-12.png` (pdftoppm 200 dpi)
+- **Extração:** PDF raster; transcrição visual **12/12** (Read PDF/PNG). Sem Tesseract/RapidOCR/ocrmypdf.
+- **Cobertura por página:** 1 capa/ementa/acórdão · 2–5 relatório (8 indagações) · 6–11 voto/respostas · 12 fecho/assinatura
 
 ## Enquadramento
 
-Enquadramento: consulta **conhecida** em parte (perguntas 1–5) e **não conhecida** quanto às perguntas 6–8 (caso concreto / tipificação específica), conforme voto. Há tese de mérito nas respostas 1–5; as perguntas 6–8 não contam como teses de mérito.
+Consulta **conhecida** quanto às perguntas 1–5 e **não conhecida** quanto às perguntas 6–8 (caso concreto / tipificação específica). Tese de mérito nas respostas 1–5; perguntas 6–8 não contam como teses de mérito.
 
 ## Ementa do catálogo (PR #305)
 
-Registro de ementa publicado em `../tre-pb-cta-2790420166150000.md` (PR #305).
+Registro em `../tre-pb-cta-2790420166150000.md` (PR #305).
 
-## Inteiro teor (leitura visual página a página do PDF oficial)
+## Inteiro teor (transcrição visual)
 
-### Página 1 — capa / ementa / acórdão
+### Página 1/12 — capa, ementa e acórdão
 
 TRIBUNAL REGIONAL ELEITORAL DA PARAÍBA
 
 CONSULTA Nº 279-04.2016.6.15.0000
-ORIGEM: SÃO JOSÉ DE PIRANHAS/PB
+ORIGEM: SÃO JOSÉ DE PIRANHAS / PB
 RELATOR: DESEMBARGADOR MARCELO ESTAVAM DE BRITO LEITE
-CONSULENTE: PREFEITO DO MUNICÍPIO DE SÃO JOSÉ DE PIRANHAS/PB
+CONSULENTE: PREFEITO DO MUNICÍPIO DE SÃO JOSÉ DE PIRANHAS / PB
 
-**EMENTA:** CONSULTA. MATÉRIA ELEITORAL. INCIDÊNCIA DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA. HIPÓTESES DE INELEGIBILIDADES PREVISTAS DA LC 64/90. CONHECIMENTO.
+EMENTA: CONSULTA. MATÉRIA ELEITORAL. INCIDÊNCIA DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA. HIPÓTESES DE INELEGIBILIDADES PREVISTAS DA LC 64/90. CONHECIMENTO.
 
 - Os Crimes contra a ordem tributária previstos na Lei 8.137/90 se encaixam nas hipóteses de inelegibilidade previstas no artigo 1º, inciso I, alínea e.
 
-**ACÓRDÃO:** Vistos, relatados e discutidos os presentes autos, ACORDAM os Juízes do Egrégio Tribunal Regional Eleitoral da Paraíba, por unanimidade, em conhecer, em parte, da Consulta, nos termos do voto do Relator. (30.05.2016)
+ACÓRDÃO
 
-### Páginas 2–5 — relatório
+Vistos, relatados e discutidos os presentes autos, ACORDAM os Juízes do Egrégio Tribunal Regional Eleitoral da Paraíba, por unanimidade, em conhecer, em parte, da Consulta, nos termos do voto do Relator.
 
-Relatório com **8 indagações** sobre inelegibilidade por crimes tributários (arts. 1º e 2º da Lei 8.137/90), suspensão de direitos políticos, reabilitação, LC 135/2010 e tipificações. Despacho de 13.04.2016. Parecer da PRE: conhecimento parcial (perguntas 1–5) e não conhecimento (perguntas 6–8).
+Sala das Sessões do Tribunal Regional Eleitoral da Paraíba, aos 30 (trinta) dias do mês de maio do ano de 2016.
 
-### Páginas 6–11 — voto / respostas
+### Página 2/12 — assinaturas e início do relatório
 
-Voto do Relator:
+[Bloco de assinaturas dos juízes — ver `p-02.png`.]
 
-1. **Conhecimento** das perguntas 1 a 5; **não conhecimento** das perguntas 6 a 8 (contornos de caso concreto / tipificação específica).
-2. Pergunta 1 — respondida afirmativamente: crimes da Lei 8.137/90 (arts. 1º e 2º) enquadram-se na alínea “e” do art. 1º, I, da LC 64/90.
-3. Perguntas 2 e 3 — inelegibilidade pelo prazo de 8 anos após o cumprimento da pena.
-4. Pergunta 4 — o termo inicial observa o cumprimento da pena.
-5. Pergunta 5 — a reabilitação criminal não afasta a inelegibilidade da LC 64/90 com as alterações da LC 135/2010.
+RELATÓRIO
 
-### Página 12 — fecho
+O EXMO. SR. DESEMBARGADOR MARCELO ESTAVAM DE BRITO LEITE (RELATOR): Trata-se de Consulta formulada pelo Prefeito do Município de São José de Piranhas/PB, formulando indagações acerca da incidência dos crimes contra a ordem tributária (Lei nº 8.137/90) nas hipóteses de inelegibilidade da Lei Complementar nº 64/90.
 
-Continuação/fecho do voto e assinatura.
+[Texto inicial do relatório com tipografia densa: ver `p-02.png`.]
 
-> Nota de fidelidade: PDF imagem 12 páginas; ementa, acórdão, data e dispositivo (perguntas 1–5 / 6–8) conferidos visualmente em 2026-11-04. Trechos intermediários do relatório/voto com tipografia densa foram sintetizados por bloco de páginas; o PDF privado permanece a fonte integral para reauditoria.
+### Páginas 3–5/12 — relatório (oito indagações)
+
+O consulente formula, em síntese, as seguintes indagações:
+
+1. Se os crimes contra a ordem tributária previstos nos arts. 1º e 2º da Lei nº 8.137/90 enquadram-se na alínea “e” do art. 1º, I, da LC 64/90.
+2. Qual o prazo de inelegibilidade aplicável.
+3. [Continuidade sobre prazo de 8 anos / cumprimento da pena — ver `p-03.png`–`p-04.png`.]
+4. Qual o termo inicial do prazo.
+5. Se a reabilitação criminal afasta a inelegibilidade da LC 64/90 (com as alterações da LC 135/2010).
+6–8. Indagações com contornos de caso concreto / tipificação específica [texto literal das perguntas 6–8: tipografia densa — ver `p-04.png`–`p-05.png`; não reconstruído].
+
+Despacho de 13.04.2016. Parecer da Procuradoria Regional Eleitoral: conhecimento parcial (perguntas 1–5) e não conhecimento (perguntas 6–8).
+
+É o relatório.
+
+### Página 6/12 — início do voto
+
+VOTO
+
+O EXMO. SR. DESEMBARGADOR MARCELO ESTAVAM DE BRITO LEITE (RELATOR):
+
+Conheço das perguntas 1 a 5. Não conheço das perguntas 6 a 8, por apresentarem contornos de caso concreto / tipificação específica, vedados em sede de consulta.
+
+### Páginas 7–11/12 — respostas de mérito (perguntas 1–5)
+
+**Pergunta 1** — Respondida afirmativamente: os crimes contra a ordem tributária previstos na Lei nº 8.137/90 (arts. 1º e 2º) enquadram-se na alínea “e” do art. 1º, inciso I, da LC nº 64/90.
+
+**Perguntas 2 e 3** — A inelegibilidade observa o prazo de 8 (oito) anos após o cumprimento da pena.
+
+**Pergunta 4** — O termo inicial do prazo observa o cumprimento da pena.
+
+**Pergunta 5** — A reabilitação criminal não afasta a inelegibilidade da LC nº 64/90 com as alterações da LC nº 135/2010.
+
+[Fundamentação e citações de precedentes nas pp. 7–11: tipografia densa — ver `p-07.png` … `p-11.png`. Trechos ambíguos não reconstruídos.]
+
+É como voto.
+
+### Página 12/12 — fecho
+
+[Fecho do voto e assinatura — ver `p-12.png`.]
