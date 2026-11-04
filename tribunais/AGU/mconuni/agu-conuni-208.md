@@ -355,3 +355,7 @@ CPF, RG, contas bancárias e chave de acesso a processo encontrados são ocultad
 [Consultar a decisão no tribunal](https://cgu.agu.gov.br/conuni/)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Nota de conciliação (04/11/2026)
+
+Duas apresentações de cadastro no mesmo registro (este arquivo e o cadastro `1712` na segunda seção). Título, órgão e referência documental coincidem entre as apresentações; não são versões distintas nem novos precedentes. Os dois cadastros com título idêntico e referências documentais distintas citados na cobertura nacional permanecem em conciliação fora deste par. Sem alteração de contagem.
