@@ -14,7 +14,7 @@ Bloco integral da página oficial, com enunciado, notas e links, conciliado com 
 
 Publicação da página: 2024-02-02T20:55:21-03:00. Atualização da página: 2025-04-29T15:29:26-03:00. Esses carimbos não foram usados como datas de atualização de cada enunciado. Remissões, numeração, grafias e notas foram mantidas como fornecidas; a presença nas fontes não comprova vigência atual.
 
-Os conteúdos dos julgados, das normas e dos documentos vinculados não foram coletados neste lote. O PDF citado nos cancelamentos das nº 19 e 33 respondeu com indisponibilidade do sistema e permanece pendente.
+Os conteúdos dos julgados, das normas e dos documentos vinculados não foram coletados neste lote. O PDF citado nos cancelamentos das nº 19 e 33, cujo cabeçalho e certidão também mencionam a Súmula 5, foi recuperado em 04/11/2026 (vide notas nas súmulas 19 e 33); o cancelamento histórico primário desta súmula 5 permanece atribuído à Petição nº 2002.02.01.006439-8.
 
 ### Metadados da biblioteca oficial
 

@@ -14,7 +14,7 @@ Bloco integral da página oficial, com enunciado, notas e links, conciliado com 
 
 Publicação da página: 2024-02-02T20:55:21-03:00. Atualização da página: 2025-04-29T15:29:26-03:00. Esses carimbos não foram usados como datas de atualização de cada enunciado. Remissões, numeração, grafias e notas foram mantidas como fornecidas; a presença nas fontes não comprova vigência atual.
 
-Os conteúdos dos julgados, das normas e dos documentos vinculados não foram coletados neste lote. O PDF citado nos cancelamentos das nº 19 e 33 respondeu com indisponibilidade do sistema e permanece pendente.
+Os conteúdos dos julgados e das normas apenas citados não foram coletados neste lote. O PDF do relatório/voto do cancelamento ([relatorio-voto-pa-2016-0201-900166-9.pdf](https://static.trf2.jus.br/nas-internet/documento/consultas/setjur/relatorio-voto-pa-2016-0201-900166-9.pdf)) foi recuperado em 04/11/2026 (HTTP 200; 4.677.415 bytes; SHA-256 `ab408755b70a5e104225639502961adb8ef867f04c5708a34b7348fcbbf44fa5` em duas capturas idênticas). O arquivo é PDF escaneado de 16 páginas; as páginas jurídicas relevantes foram conferidas visualmente. O cabeçalho interno identifica o Processo Administrativo nº 2016.02.01.900166-9 (CNJ 0900166-53.2016.4.02.0000), enquanto o catálogo da página principal rotula o mesmo vínculo como PA 2001.02.01.900166-9; as duas grafias foram preservadas sem correção. A capa e a certidão de julgamento tratam do pedido de cancelamento das Súmulas 19 e 33 (a certidão também menciona a Súmula 5). Relatora: Desembargadora Federal Nizete Lobato Carmo; requerente: Conselho Federal da OAB. A Certidão de Julgamento, lavrada em 03/08/2017, registra a aprovação do cancelamento; o e-DJE2R de 14/08/2017, página 9, publica a mesma certidão. Capturas privadas em `lote-191-251-20261104/trf02-sum-19-33/`.
 
 O texto do enunciado na página principal não coincide integralmente com a redação disponível na biblioteca. As duas fontes foram preservadas sem substituição de uma pela outra.
 
@@ -155,3 +155,10 @@ Nas causas em que for vencida a fazenda pública são devidos honorários advoca
 **CANCELADA:** ([PA 2001.02.01.900166-9](https://static.trf2.jus.br/nas-internet/documento/consultas/setjur/relatorio-voto-pa-2016-0201-900166-9.pdf)), disponibilizado no e-DJE2R de 14/08/2017, página 9
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+
+## Ato de cancelamento recuperado (PA 2016.02.01.900166-9)
+
+PDF oficial escaneado do relatório e voto da Desembargadora Federal Nizete Lobato Carmo no Processo Administrativo nº 2016.02.01.900166-9 (CNJ 0900166-53.2016.4.02.0000), vinculado na página principal sob o rótulo PA 2001.02.01.900166-9. O documento pede o cancelamento das Súmulas 19 e 33 por incompatibilidade com o CPC/2015; a Certidão de Julgamento de 03/08/2017 registra a aprovação do cancelamento das Súmulas 5, 19 e 33, publicada no e-DJE2R de 14/08/2017, página 9.
+
+O voto reproduz o enunciado histórico da súmula e fundamenta o cancelamento; a reprodução no PDF escaneado foi conferida visualmente e não substitui as redações já publicadas na página principal e na biblioteca. Folhas em branco e rubricas do PDF permanecem na captura privada, sem IDs próprios. A recuperação do ato não altera a numeração nem cria novo precedente.
