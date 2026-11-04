@@ -799,7 +799,11 @@ PROCURADORIA GERAL DO ESTADO
 PGEDES202510401A
 ### Página física 20 (anexo do Diário Oficial)
 
-Página do Diário Oficial do Estado (edição de 15 de outubro de 2025) anexada ao PDF. Em cotejo visual, a página contém múltiplos atos em layout de colunas. Entre eles, dispositivo da PGE que **aprova o Parecer Referencial nº 0004/2025 – PGE**, para orientar os aditivos contratuais decorrentes da suspensão da TAC (texto isolado do ruído das colunas vizinhas; a camada textual `-raw` mistura colunas). Os demais atos do DOE impressos na mesma página **não** receberam identificador PGEPB e **não** foram incorporados.
+Página do Diário Oficial do Estado (edição de 15 de outubro de 2025) anexada ao PDF. Em cotejo visual, a página contém múltiplos atos em layout de colunas. Dispositivo da PGE relativo a este parecer, isolado do ruído das colunas vizinhas:
+
+> RESOLVE, aprovar o Parecer Referencial nº 0004/2025 – PGE, para orientar os aditivos contratuais a serem formalizados, em virtude suspensão do recolhimento da Taxa de Administração de Contratos - TAC, prevista no art. 7º, II da Lei Estadual 10.128/2013.
+
+Os demais atos do DOE impressos na mesma página **não** receberam identificador PGEPB e **não** foram incorporados. A camada textual `-raw` mistura colunas.
 
 ## Limites da coleta
 
