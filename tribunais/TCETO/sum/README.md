@@ -15,4 +15,4 @@
 - [SUM 11](tceto-sum-11.md) — Situação jurídica atual não informada em campo próprio; há pendências documentais ou visuais indicadas no texto
 - [SUM 12](tceto-sum-12.md) — Situação jurídica atual não informada em campo próprio; há pendências documentais ou visuais indicadas no texto
 - [SUM 13](tceto-sum-13.md) — Situação jurídica atual não informada em campo próprio; há pendências documentais ou visuais indicadas no texto
-- [SUM 14](tceto-sum-14.md) — Situação jurídica atual não informada em campo próprio; há pendências documentais ou visuais indicadas no texto
+- [SUM 14](tceto-sum-14.md) — Versão completa de 122 páginas recuperada no portal de jurisprudência em 04/11/2026; catálogo principal ainda aponta o botão completa à sintética

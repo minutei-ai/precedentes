@@ -18,7 +18,7 @@ Processo: TC/1209/94
 Relator : Cons. Renan Rodrigues Baleeiro  
 Resolução n° 076/95. Sessão Plenária de 03/08/95. DOE de 11/08/95
 
-O link da Resolução nº 078/2018 retornou HTTP 404 nas duas leituras. Seu inteiro teor permanece pendente; a indicação de cancelamento e o texto da súmula foram preservados conforme o catálogo.
+O link da Resolução nº 078/2018 retornou HTTP 404 nas duas leituras. Seu inteiro teor permanece pendente; a indicação de cancelamento e o texto da súmula foram preservados conforme o catálogo. Em 04/11/2026 o portal do TCE/BA exibia página de manutenção; o mesmo endereço `getProcesso/Resolução/2063033` e variantes (`078.pdf`, `resolucao_078_2018.pdf`) permaneceram inacessíveis (404/500). Não há captura Wayback indexada para esse getProcesso. Próximo passo: reconsultar o portal e o catálogo de resoluções normativas após o fim da manutenção, e buscar o inteiro teor no e-DOTCE de 14/08/2018.
 
 As redações, os grupos e as referências são os do catálogo consultado. Os processos e demais atos apenas citados não foram integralmente coletados neste lote.
 

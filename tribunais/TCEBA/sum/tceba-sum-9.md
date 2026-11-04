@@ -23,15 +23,15 @@ Resolução n° 65/93. Sessão Plenária de 27/07/93. DOE de 06/08/93.
 
 [PDF oficial](https://www.tce.ba.gov.br/images/legislacao/090.pdf) — 2 páginas.
 
-Há páginas sem texto extraível neste PDF. A transcrição do anexo permanece pendente; consulte o arquivo oficial. O enunciado e as referências do catálogo foram mantidos.
+Em 04/11/2026 o portal https://www.tce.ba.gov.br/ respondia com página de manutenção ("Estamos em manutenção"); os endereços diretos dos PDFs e o catálogo de súmulas retornaram HTTP 404. O PDF oficial foi recuperado de capturas Wayback Machine do mesmo endereço (`https://www.tce.ba.gov.br/images/legislacao/090.pdf`), com duas leituras de bytes idênticos (SHA-256 `4d379dcc0519e59f89383b349ba7ed3d959477bf92ef0e45c3b2cb8d75145412`). A reconsulta ao portal oficial após o fim da manutenção permanece necessária.
 
 #### Página 1 do PDF oficial
 
-A extração não forneceu texto desta página.
+Página digitalizada sem camada textual extraível. Em 04/11/2026 a conferência visual da imagem Wayback confirmou a presença do cabeçalho do TCE/BA e do texto da Resolução nº 090, mas a legibilidade da digitalização não permitiu transcrição integral segura linha a linha sem risco de reconstrução. O enunciado e as referências do catálogo permanecem na seção seguinte; a transcrição integral desta página permanece pendente até rasterização de maior resolução ou recuperação do original no portal oficial.
 
 #### Página 2 do PDF oficial
 
-A extração não forneceu texto desta página.
+Página digitalizada sem camada textual extraível. Em 04/11/2026 a conferência visual da imagem Wayback confirmou a presença do cabeçalho do TCE/BA e do texto da Resolução nº 090, mas a legibilidade da digitalização não permitiu transcrição integral segura linha a linha sem risco de reconstrução. O enunciado e as referências do catálogo permanecem na seção seguinte; a transcrição integral desta página permanece pendente até rasterização de maior resolução ou recuperação do original no portal oficial.
 
 As redações, os grupos e as referências são os do catálogo consultado. Os processos e demais atos apenas citados não foram integralmente coletados neste lote.
 

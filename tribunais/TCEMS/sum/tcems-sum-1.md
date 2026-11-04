@@ -22,6 +22,10 @@ O cadastro não fornece datas jurídicas de julgamento ou publicação. A data d
 
 Inteiro teor da súmula nº 1 pendente: o catálogo e o nome do arquivo identificam a nº 1, mas o PDF vinculado nas duas leituras tem cabeçalho e texto da nº 2. As páginas abaixo reproduzem esse documento divergente, sem atribuí-lo à nº 1. A descrição do catálogo foi mantida separadamente.
 
+Reconsulta em 04/11/2026 ao workspace oficial de súmulas (`1dceb7bd-746f-4e3e-b2c5-99f185dd456e` → pasta `01-10`): o nó `1f55488d-b06a-44c1-86a5-3221c42dcdf9` (`SÚMULA 01 (Cancelada).pdf`) permanece com SHA-256 `6a478d297e55cf7908d7d6a8ca810d414d3815f82180c8581473ab578c14f344` e texto interno da Súmula TC/MS Nº 02. O nó da nº 2 (`95f9b74c-143d-4a4b-a615-807c6d55178f`) tem bytes distintos (`5de1aa458c78cc7737f3bb03748c77eab0bbd4a480b5c4db556a61f49829632a`) e o mesmo enunciado da nº 2. Não há outro PDF da nº 1 no diretório oficial. A ementa cadastral da nº 1 foi preservada acima, sem reconstruir redação a partir de outra súmula.
+
+O endereço legado do livro “Súmulas Anotadas” (`objectId=e2770d3a-c11f-4089-850d-73713467e28e`) continua a devolver HTML do portal, e `NodesContent` desse UUID retornou HTTP 500. O Boletim de Jurisprudência especial recuperado em https://www.tce.ms.gov.br/portal-services/files/arquivo/nome/18927/8e160cd8b10ed47b7824743b43a10da0.pdf (23 páginas) menciona historicamente a edição digital de 2016 do livro, mas não o substitui; o inteiro teor do livro permanece pendente.
+
 #### Página 1 do PDF oficial
 
     * Cancelada pela Deliberação nº 32, de 19 de agosto de 2021.
