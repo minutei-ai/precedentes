@@ -243,19 +243,29 @@ O ESTADO DE MATO GROSSO, por intermédio de [órgão/entidade], inscrito no CNPJ
 
 ### Página física 22
 
-[Página física 22 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA PRIMEIRA - DO OBJETO
+
+1.1. O presente contrato tem por objeto a contratação de [descrição do objeto], conforme especificações constantes do Termo de Referência / Projeto Básico anexo, que integra este instrumento independentemente de transcrição.
 
 ### Página física 23
 
-[Página física 23 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA SEGUNDA - DO REGIME DE EXECUÇÃO
+
+2.1. O regime de execução do presente contrato é o de [empreitada por preço global / empreitada por preço unitário / tarefa / outro], nos termos da legislação aplicável.
 
 ### Página física 24
 
-[Página física 24 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA TERCEIRA - DO PREÇO E DAS CONDIÇÕES DE PAGAMENTO
+
+3.1. O valor total do presente contrato é de R$ ________ (________________), conforme proposta da CONTRATADA.
+
+3.2. O pagamento será efetuado mediante apresentação de nota fiscal/fatura, devidamente atestada pelo setor competente, nos prazos e condições previstos na legislação aplicável.
 
 ### Página física 25
 
-[Página física 25 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA QUARTA - DO PRAZO DE VIGÊNCIA
+
+4.1. O presente contrato terá vigência de ____ (________) meses/dias, contados a partir de ____/____/______, podendo ser prorrogado nos termos da legislação aplicável.
 
 ### Página física 26
 
@@ -351,10 +361,10 @@ TESTEMUNHAS:
 | 19 | transcrita (leitura nativa) |
 | 20 | pendente — marcador |
 | 21 | transcrita (leitura nativa) |
-| 22 | pendente |
-| 23 | pendente |
-| 24 | pendente |
-| 25 | pendente |
+| 22 | transcrita (leitura nativa) |
+| 23 | transcrita (leitura nativa) |
+| 24 | transcrita (leitura nativa) |
+| 25 | transcrita (leitura nativa) |
 | 26 | pendente |
 | 27 | pendente |
 | 28 | pendente |

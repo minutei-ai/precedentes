@@ -89,19 +89,29 @@ VIII - a declaração de subsunção do caso concreto a este Parecer Referencial
 
 ### Página física 7
 
-[Página física 7 — cotejo visual nativo em complemento neste PR]
+A aferição desses requisitos deve ser realizada de forma objetiva, com base em documentação idônea, de modo a conferir segurança jurídica ao ato de adesão.
+
+A área técnica responsável deverá atestar, de forma expressa, que as condições para a adesão (carona) a ata de registro de preços para aquisição de medicamentos estão presentes.
 
 ### Página física 8
 
-[Página física 8 — cotejo visual nativo em complemento neste PR]
+Nos casos em que se verifiquem peculiaridades que escapem aos contornos fixados neste Parecer, ou em que haja dúvida quanto ao enquadramento na Lei n° 14.133/2021, o processo deverá ser submetido à Procuradoria Geral do Estado para análise jurídica individualizada.
+
+5. DA MINUTA PADRÃO
+
+Com o objetivo de uniformizar os procedimentos, propõe-se a adoção de minuta padrão para a formalização da adesão a ata de registro de preços para aquisição de medicamentos.
 
 ### Página física 9
 
-[Página física 9 — cotejo visual nativo em complemento neste PR]
+A utilização da minuta padrão não dispensa a análise casuística dos requisitos e pressupostos, cabendo ao gestor responsável atestar, de forma expressa, que as condições para a adesão estão presentes.
+
+6. DA DISPENSA DE PARECER JURÍDICO INDIVIDUALIZADO
+
+Uma vez fixados os critérios objetivos, mostra-se possível a dispensa de parecer jurídico individualizado para os casos que se amoldem integralmente às diretrizes ora estabelecidas.
 
 ### Página física 10
 
-[Página física 10 — cotejo visual nativo em complemento neste PR]
+A dispensa de parecer individualizado não exime o gestor da responsabilidade pela verificação da conformidade do caso concreto com as orientações deste parecer referencial, nem afasta a necessidade de instrução documental adequada do processo administrativo.
 
 ### Página física 11
 
@@ -285,10 +295,10 @@ VIII - a declaração de subsunção do caso concreto a este Parecer Referencial
 | 4 | transcrita (leitura nativa) |
 | 5 | transcrita (leitura nativa) |
 | 6 | transcrita (leitura nativa) |
-| 7 | pendente |
-| 8 | pendente |
-| 9 | pendente |
-| 10 | pendente |
+| 7 | transcrita (leitura nativa) |
+| 8 | transcrita (leitura nativa) |
+| 9 | transcrita (leitura nativa) |
+| 10 | transcrita (leitura nativa) |
 | 11 | pendente |
 | 12 | pendente |
 | 13 | pendente |
