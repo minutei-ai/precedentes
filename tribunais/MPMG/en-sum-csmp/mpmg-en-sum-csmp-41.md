@@ -11,7 +11,7 @@
 - **SHA-256 do PDF:** `689f92659b53e4299a6fd04633cb5143bb2358d46d13dfd354d02b99b49d0dab`.
 - **Páginas físicas conferidas deste registro:** 4, 5 de 9.
 
-Aviso posterior (leitura textual oficial): comunica revogação. [aviso de 05/08/2025](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D827-28-aviso_csmp_05_08_2025.pdf). Conferência textual externa; captura local do PDF indisponível. [Limites](README.md#avisos-posteriores).
+Aviso posterior: comunica revogação na 20ª Sessão Ordinária de 04/08/2025. Fontes conferidas em 04/11/2026: [aviso mpnormas](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D827-28-aviso_csmp_05_08_2025.pdf) (HTTP 200 dual, 371.208 bytes, SHA-256 `de6de37b8a5c7d9b0a98426e2bda58e8fe640ad8f7b7e89d771210cd5895c821`, 1 página) e [Diário Oficial de 05/08/2025, p. 3](https://www.mpmg.mp.br/diariooficial/DO-20250805.PDF) (HTTP 200 dual, 355.757 bytes, SHA-256 `e5edcc298f7c2c3f915eb37844cded580a214754a7d94b77fac75dd1a222c0df`). O texto do caderno permanece; a revogação é atribuída ao aviso/DO, sem ID novo. [Limites](README.md#avisos-posteriores).
 
 ## Texto documental
 
