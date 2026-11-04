@@ -1,5 +1,6 @@
 # PGEMT · Parecer referencial — 2.983/CPPGE/2024 (suporte a OJN 001/CPPGE/2025)
 
+- **Estado da revisão:** Proposta parcial; não há certificação de transcrição integral. Revisão Opus 5.5 apontou corpos divergentes e omissões; trechos retidos exigem nova leitura do PDF.
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso (PGEMT)
 - **Espécie:** Parecer referencial / voto (documento de suporte)
 - **Identidade de precedente publicada:** [OJN 001/CPPGE/2025](../ojn/pgemt-ojn-001-cppge-2025.md) — este arquivo **não** cria identidade adicional
@@ -14,6 +15,7 @@
 - **Capturas:** duas respostas HTTP 200, 1025538 bytes; SHA-256 `2455bdd798686e25e14ca6712099fd36a00d65098442b336cfffa473670367c7`
 
 ## Texto documental
+
 
 ### Página física 1
 
@@ -122,92 +124,11 @@ https://www.sigadoc.mt.gov.br/sigaex/public/app/autenticar?n=24563577-594
 
 ### Página física 3
 
-Governo de Mato Grosso
-                                                PROCURADORIA GERAL DO ESTADO
-
-
-                                              forma direta e somente pela Secretaria de Ciência, Tecnologia e Inovação
-                                              de Mato Grosso (SECITECI) (...)
-
-
-                                              Portanto, justificamos a necessidade de um Parecer Normativo de aditivo de
-                                              carga horária de contratos de Professores de Educação Profissional e
-                                              Tecnológica      que      contemple   não   somente   a   oferta   concomitante
-                                              inercomplementar [sic] (parceria SECITECI/SEDUC) mas também as
-                                              modalidades concomitante e subsequente. ” (g.n.)
-
-
-                                              A questão foi submetida à Subprocuradoria-Geral Administrativa e
-             de Controle Interno – SGACI, com a emissão do Parecer Jurídico n° 757/SGACI/2024 da
-             lavra da Procuradora Ana Flávia Gonçalves de Oliveira Aquino, que opinou favoravelmente
-             à possibilidade da utilização de parecer referencial para as demais contratações temporárias
-             da mesma natureza jurídica, vejamos:
-
-
-                                              Ademais, considerando a competência destinada à SECITECI na
-             Lei Complementar n° 612/2019, em garantir “a oferta pública e gratuita de cursos de
-             educação profissional e tecnológica em todas as suas modalidades e níveis1” continuamente
-             são realizadas contratações em grande volume. Apenas um dos editais citados como
-             exemplo, o Edital n° 003/2024 (fl. 6), ofertou 1.200 vagas:
-
-
-             1
-                 Art. 17, inciso II, da Lei Complementar n° 612/2019.
-
-
-                                                                                                                                   PGEDIC202501406
-                                                                                                                         3 de 18
-             Av. República do Líbano, 2258 - Despraiado, Cuiabá - MT,
-             78048-196
-
-
-Assinado com senha por JULYANA LANNES ANDRADE - PROCUR.COORDENADOR / CAJI - 11/02/2025 às 13:31:57.
-Documento Nº: 24563577-594 - consulta à autenticidade em
-https://www.sigadoc.mt.gov.br/sigaex/public/app/autenticar?n=24563577-594
+[Transcrição desta página retida: conteúdo em imagem omitido na versão anterior; nova leitura e revisão pendentes.]
 
 ### Página física 4
 
-Governo de Mato Grosso
-                                         PROCURADORIA GERAL DO ESTADO
-
-
-                                       A gestão dessas contratações perpassa pela necessidade de
-             aproveitar professores temporários já contratados para atuar na substituição ou falta
-             justificada de outro, a fim de evitar a descontinuidade do curso, o que requer uma
-             dinamicidade no procedimento dessas alterações, conforme consta no Despacho n°
-             09338/2024/GSAEPS/SECITECI emanado pelo Secretário Adjunto de Educação
-             Profissional e Superior (fls. 24-25), transcrito abaixo:
-
-                                         “Esta solicitação se justifica pelo aumento progressivo de número de
-                                         processos, com o aumento da oferta de cursos e de vagas por esta
-                                         Secretaria/ETEC’s, até o momento, e nos anos vindouros, até que tenhamos
-                                         normativas que orientem esta demanda. (...) na maioria dos casos, por questões
-                                         de distrato de contrato de docentes, questões de saúde, situações previstas em
-                                         lei de afastamento de professores, precisamos recorrer ao aditivo de contrato
-                                         de carga horária de outros professores para não deixar os alunos com aulas
-                                         vagas, bem como para não prejudicar a formação destes alunos em aulas
-                                         de recuperação (...)”. (g.n.)
-
-                                       O aumento da demanda também ocorre a partir de parcerias
-             realizadas pela SECITECI, que para atender a projetos específicos, precisa aditar as cargas
-             horárias dos profissionais já contratados, a exemplo da parceria realizada com a SEDUC,
-             que deu origem à Orientação Jurídico-Normativa nº 005/CPPGE/2024, submetida ao crivo
-             do Governador do Estado, publicada no Diário Oficial em 13 de maio de 2024.
-
-                                       Considerando que a OJN supracitada faz referência expressa aos
-             aditamentos da carga horária em virtude da parceria com a SEDUC, a fim de evitar a
-             necessidade de OJN’s específicas para cada um dos motivos que ensejam o aditamento da
-
-
-                                                                                                                            PGEDIC202501406
-                                                                                                                  4 de 18
-             Av. República do Líbano, 2258 - Despraiado, Cuiabá - MT,
-             78048-196
-
-
-Assinado com senha por JULYANA LANNES ANDRADE - PROCUR.COORDENADOR / CAJI - 11/02/2025 às 13:31:57.
-Documento Nº: 24563577-594 - consulta à autenticidade em
-https://www.sigadoc.mt.gov.br/sigaex/public/app/autenticar?n=24563577-594
+[Transcrição desta página retida: conteúdo em imagem omitido na versão anterior; nova leitura e revisão pendentes.]
 
 ### Página física 5
 

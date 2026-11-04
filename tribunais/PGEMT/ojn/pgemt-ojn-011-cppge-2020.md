@@ -1,14 +1,14 @@
 # PGEMT · OJN 011/CPPGE/2020
 
+- **Estado da revisão:** Proposta parcial; não há certificação de transcrição integral. Revisão Opus 5.5 apontou corpos divergentes e omissões; trechos retidos exigem nova leitura do PDF.
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso (PGEMT)
 - **Espécie:** Orientação Jurídico-Normativa
 - **Rótulo no catálogo oficial:** `OJN 011/CPPGE/2020`
 - **Número impresso:** `ORIENTAÇÃO JURÍDICO-NORMATIVA 011/CPPGE/2020`
 - **Identificador:** `pgemt-ojn-011-cppge-2020`
-- **Objeto (catálogo):** Pagamento indenizatório de locação de veículo
+- **Descrição do objeto:** pendente de cotejo literal com o catálogo.
 - **Publicação:** Diário Oficial nº 27758, 26/05/2020 (captura IOMAT)
 - **Processo do parecer normativo:** 157722/2020
-- **Assinatura impressa:** Francisco de Assis da Silva Lopes, Procurador-Geral do Estado / Presidente do Colégio de Procuradores (Cuiabá - MT, 30 de abril de 2020); bloco `HOMOLOGO` sem nome do Governador nas páginas capturadas
 - **Fonte OJN:** [PDF oficial](https://www.pge.mt.gov.br/documents/4416107/14544472/OJN+011_CPPGE_2020+-+Pagamento+indenizat%C3%B3rio+de+loca%C3%A7%C3%A3o+veicular.pdf/024ec168-9fbc-c79e-2788-9b2631899d23)
 - **Parecer referencial correlato (suporte):** [pgemt-parecer-ref-157722-2020.md](../parecer-referencial/pgemt-parecer-ref-157722-2020.md)
 - **Catálogo:** [https://www.pge.mt.gov.br/pt/orientacoes-juridico-normativas-e-pareceres-referenciais](https://www.pge.mt.gov.br/pt/orientacoes-juridico-normativas-e-pareceres-referenciais)
@@ -16,6 +16,7 @@
 - **Capturas:** duas respostas HTTP 200, 100746 bytes; SHA-256 `22be1762586356d3df085fd300a3e4192d6c4f0f3def3b0915b0f1b73b8b424a`
 
 ## Texto documental
+
 
 ### Página física 1
 
@@ -243,6 +244,5 @@ ______________________________
 
 ## Limites da coleta
 
-Texto integral das 5 páginas cotejado com a camada textual do PDF IOMAT e leitura visual. Chrome de navegação IOMAT (URL/paginação) omitido. Placeholders tipográficos da minuta/checklist preservados. O bloco HOMOLOGO não traz o nome do Governador nas páginas capturadas. Anexos I–III fazem parte do PDF da OJN; minutas DOCX separadas do catálogo não geram identidade própria. Não se infere vigência, vinculação ou completude.
 
 [Índice da série](README.md) · [Índice da PGEMT](../README.md)

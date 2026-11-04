@@ -1,11 +1,12 @@
 # PGEMT · OJN 013/CPPGE/2020
 
+- **Estado da revisão:** Proposta parcial; não há certificação de transcrição integral. Revisão Opus 5.5 apontou corpos divergentes e omissões; trechos retidos exigem nova leitura do PDF.
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso (PGEMT)
 - **Espécie:** Orientação Jurídico-Normativa
 - **Rótulo no catálogo oficial:** `OJN 013/CPPGE/2020`
 - **Número impresso:** `ORIENTAÇÃO JURÍDICO-NORMATIVA 013/CPPGE/2020`
 - **Identificador:** `pgemt-ojn-013-cppge-2020`
-- **Objeto (catálogo):** Prorrogação da prestação de serviços contínuos
+- **Descrição do objeto:** pendente de cotejo literal com o catálogo.
 - **Publicação:** Diário Oficial nº 27838, 17/09/2020 (captura IOMAT)
 - **Processo do parecer normativo:** 303262/2020
 - **Assinatura impressa:** Francisco de Assis da Silva Lopes, Procurador-Geral do Estado / Presidente do Colégio de Procuradores (Cuiabá - MT, 28 de maio de 2020)
@@ -17,6 +18,7 @@
 - **Capturas:** duas respostas HTTP 200, 190142 bytes; SHA-256 `180c0c63e2b83de86d64a0ac9c67b01208e4f1b770304d492a82229c86d24e69`
 
 ## Texto documental
+
 
 ### Página física 1
 

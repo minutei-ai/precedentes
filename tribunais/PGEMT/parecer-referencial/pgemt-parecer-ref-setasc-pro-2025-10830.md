@@ -1,5 +1,6 @@
 # PGEMT · Parecer referencial — SETASC-PRO-2025/10830 (suporte a ONJ 005/CPPGE/2025)
 
+- **Estado da revisão:** Proposta parcial; não há certificação de transcrição integral. Revisão Opus 5.5 apontou corpos divergentes e omissões; trechos retidos exigem nova leitura do PDF.
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso (PGEMT)
 - **Espécie:** Parecer referencial / voto (documento de suporte)
 - **Identidade de precedente publicada:** [ONJ 005/CPPGE/2025](../ojn/pgemt-onj-005-cppge-2025.md) — este arquivo **não** cria identidade adicional
@@ -14,6 +15,7 @@
 - **Capturas:** duas respostas HTTP 200, 4221502 bytes; SHA-256 `63c85b72603eb7b8a1691949c61db5528dcdc4a534269a7416495732996c4b43`
 
 ## Texto documental
+
 
 ### Página física 1
 
@@ -804,43 +806,7 @@ https://www.sigadoc.mt.gov.br/sigaex/public/app/autenticar?n=30055933-2217
 
 ### Página física 14
 
-Governo de Mato Grosso
-                                      PROCURADORIA GERAL DO ESTADO
-
-
-                            c)​ Etapa 03 - Documento de planejamento da parceria: Retorno à área técnica
-                                responsável para a finalidade de elaborar o documento de planejamento da
-                                parceria, contendo justificativas, objeto, metas preliminares e valor estimado
-                                (tópico 2.5.1 do parecer).
-
-                            d)​ Etapa 04 - Dotação orçamentária prévia: Confirma a existência de previsão
-                                orçamentária suficiente para custear a parceria (tópico 2.5.2 do parecer). Na
-                                hipótese de inexistência, a demanda deve aguardar suplementação ou ajuste
-                                orçamentário.​
-
-                            e)​ Etapa 05 - Definição da Modalidade de Seleção: A Administração Pública
-                                delibera sobre a modalidade jurídica aplicável - Termo de Fomento, Termo de
-                                Colaboração ou Acordo de Cooperação. Em seguida, define-se a forma de
-                                seleção da OSC, conforme a Lei nº 13.019/2014: (i) Elaboração do edital,
-                                aplicável no caso de chamamento público e; (ii) Justificativa formal,
-                                aplicável em casos de dispensa ou inexigibilidade.
-
-                              Para fins de maior clareza e compreensão, sugere-se a apresentação do fluxo
-          processual por meio de diagrama esquemático, permitindo à Administração Pública visualizar de
-          maneira ordenada e sequencial as etapas recomendadas, identificar pontos críticos de decisão,
-          integrar os elementos de planejamento, definição do instrumento de parceria e forma de seleção da
-          Organização da Sociedade Civil, assegurando, assim, a coerência metodológica e a observância dos
-          requisitos legais e normativos previstos no Marco Regulatório das Organizações da Sociedade Civil
-          (Lei nº 13.019/2014) e em seu Manual de Procedimentos:
-
-
-                                                                                                                 PGEDIC202510460
-
-
-Assinado com senha por WALDEMAR PINHEIRO DOS SANTOS - SUBPROCURADOR GERAL / SGAC - 01/09/2025 às
-15:49:25.
-Documento Nº: 30055933-2217 - consulta à autenticidade em
-https://www.sigadoc.mt.gov.br/sigaex/public/app/autenticar?n=30055933-2217
+[Transcrição desta página retida: conteúdo em imagem omitido na versão anterior; nova leitura e revisão pendentes.]
 
 ### Página física 15
 

@@ -1,5 +1,6 @@
 # PGEMT · Parecer referencial — Voto 3112/2026 (suporte a OJN 006/CPPGE/2026:)
 
+- **Estado da revisão:** Proposta parcial; não há certificação de transcrição integral. Revisão Opus 5.5 apontou corpos divergentes e omissões; trechos retidos exigem nova leitura do PDF.
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso (PGEMT)
 - **Espécie:** Parecer referencial / voto (documento de suporte)
 - **Identidade de precedente publicada:** [OJN 006/CPPGE/2026:](../ojn/pgemt-ojn-006-cppge-2026.md) — este arquivo **não** cria identidade adicional
@@ -15,6 +16,7 @@
 - **Capturas:** duas respostas HTTP 200, 2337771 bytes; SHA-256 `5ddefa89ac04fb412261d80b440876a218bf4c62226ad6f4f65e61abe8867698`
 
 ## Texto documental
+
 
 ### Página física 1
 

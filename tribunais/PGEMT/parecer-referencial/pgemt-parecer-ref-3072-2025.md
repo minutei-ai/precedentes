@@ -1,5 +1,6 @@
 # PGEMT · Parecer referencial — Voto 3072/2025 (suporte a OJN 009/CPPGE/2025)
 
+- **Estado da revisão:** Proposta parcial; não há certificação de transcrição integral. Revisão Opus 5.5 apontou corpos divergentes e omissões; trechos retidos exigem nova leitura do PDF.
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso (PGEMT)
 - **Espécie:** Parecer referencial / voto (documento de suporte)
 - **Identidade de precedente publicada:** [OJN 009/CPPGE/2025](../ojn/pgemt-ojn-009-cppge-2025.md) — este arquivo **não** cria identidade adicional
@@ -14,6 +15,7 @@
 - **Capturas:** duas respostas HTTP 200, 1055024 bytes; SHA-256 `fba1cef2ffd95432c0aafbf7249e76b8aad8729b35321ff6be165bc394a618bd`
 
 ## Texto documental
+
 
 ### Página física 1
 

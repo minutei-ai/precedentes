@@ -1,11 +1,12 @@
 # PGEMT · OJN 009/CPPGE/2025
 
+- **Estado da revisão:** Proposta parcial; não há certificação de transcrição integral. Revisão Opus 5.5 apontou corpos divergentes e omissões; trechos retidos exigem nova leitura do PDF.
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso (PGEMT)
 - **Espécie:** Orientação Jurídico-Normativa
 - **Rótulo no catálogo oficial:** `OJN 009/CPPGE/2025`
 - **Número impresso:** `ORIENTAÇÃO JURÍDICO-NORMATIVA Nº 009/CPPGE/2025`
 - **Identificador:** `pgemt-ojn-009-cppge-2025`
-- **Objeto (catálogo):** Adesão inicial e prorrogação de contrato de credenciamento de serviços de Apoio Diagnóstico e Terapia (SADT) e serviços especializados em Oncologia (Mato Grosso Saúde)
+- **Descrição do objeto:** pendente de cotejo literal com o catálogo.
 - **Publicação:** Diário Oficial nº 29.160, 27/01/2026, p. 103
 - **Processo do parecer normativo:** 3.072/CPPGE/2025 (SIGADOC PGE-PRO-2025/20698)
 - **Assinatura impressa:** Francisco de Assis da Silva Lopes, Procurador-Geral do Estado / Presidente do Colégio de Procuradores (Cuiabá - MT, 26 de janeiro de 2026)
@@ -18,6 +19,7 @@
 - **Capturas:** duas respostas HTTP 200, 231494 bytes; SHA-256 `3905e2a9d71e90df89ae20e6aebb31dee74eaf1b9e5f7be586a8a3ab55e1794d`
 
 ## Texto documental
+
 
 ### Página física 1 (coluna esquerda)
 

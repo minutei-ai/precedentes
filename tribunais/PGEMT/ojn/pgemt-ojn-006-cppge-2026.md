@@ -1,11 +1,12 @@
 # PGEMT · OJN 006/CPPGE/2026:
 
+- **Estado da revisão:** Proposta parcial; não há certificação de transcrição integral. Revisão Opus 5.5 apontou corpos divergentes e omissões; trechos retidos exigem nova leitura do PDF.
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso (PGEMT)
 - **Espécie:** Orientação Jurídico-Normativa
 - **Rótulo no catálogo oficial:** `OJN 006/CPPGE/2026:` (dois-pontos finais preservados do catálogo)
 - **Número impresso:** `ORIENTAÇÃO JURÍDICO-NORMATIVA Nº 006/CPPGE/2026`
 - **Identificador:** `pgemt-ojn-006-cppge-2026`
-- **Objeto (catálogo):** Doação de caminhões equipados com sistema Roll On Roll Off e caçambas metálicas aos Municípios e Consórcios Intermunicipais
+- **Descrição do objeto:** pendente de cotejo literal com o catálogo.
 - **Publicação:** Diário Oficial nº 29.243, suplemento, 29/05/2026, p. 13
 - **Processo do parecer normativo:** 3.112/CPPGE/2026 (SPA 2026-00063775 - SIGADOC SEMA-PRO-2026/18823)
 - **Assinatura impressa:** Luís Otávio Trovo Marques de Souza, Procurador-Geral do Estado em substituição legal / Presidente do Colégio de Procuradores (Cuiabá-MT, 29 de maio de 2026)
@@ -17,6 +18,7 @@
 - **Capturas:** duas respostas HTTP 200, 1182965 bytes; SHA-256 `2894d6d38e4bba4a2bc566e9f6c52074c85e034d70af24f1943662411a57daa7`
 
 ## Texto documental
+
 
 ### Página física 1
 
