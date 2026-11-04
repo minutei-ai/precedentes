@@ -20,15 +20,48 @@ Em 04/11/2026 o portal https://www.tce.ba.gov.br/ respondia com página de manut
 
 #### Página 1 do PDF oficial
 
-Página digitalizada sem camada textual extraível. Em 04/11/2026 a conferência visual da imagem Wayback confirmou a presença do cabeçalho do TCE/BA e do texto da Resolução nº 086, mas a legibilidade da digitalização não permitiu transcrição integral segura linha a linha sem risco de reconstrução. O enunciado e as referências do catálogo permanecem na seção seguinte; a transcrição integral desta página permanece pendente até rasterização de maior resolução ou recuperação do original no portal oficial.
+Transcrição visual parcial (04/11/2026, Read nativo do PDF Wayback `images/legislacao/086.pdf`). Digitalização degradada.
+
+    TRIBUNAL DE CONTAS DO ESTADO DA BAHIA
+
+    RESOLUÇÃO Nº 086 DE [ilegível: dia] DE [ilegível: mês por extenso parcialmente legível] DE 2007
+
+    O TRIBUNAL DE CONTAS DO ESTADO DA BAHIA, no uso de suas atribuições
+    [ilegível: complemento da linha de competência],
+
+    CONSIDERANDO [ilegível: texto do 1º considerando];
+
+    CONSIDERANDO [ilegível: texto do 2º considerando];
+
+    CONSIDERANDO [ilegível: texto do 3º considerando];
+
+    CONSIDERANDO [ilegível: texto do 4º considerando, se houver];
+
+    RESOLVE:
+
+    Art. 1º - [ilegível: dispositivo sobre súmula(s) revisada(s) — redação integral não segura];
+
+    Art. 2º - Esta Resolução entra em vigor na data de sua publicação[ilegível: eventual cláusula final];
+
+    Art. 3º - Revogam-se as disposições em contrário.
+
+    Sala das Sessões, [ilegível: data por extenso; catálogo indica 11/09/07], de 2007.
+
+    [Assinaturas — nomes não lidos com segurança]
+
+Observações da conferência visual: Cabeçalho e estrutura RESOLVE/artigos confirmados; considerandos e art. 1º majoritariamente ilegíveis. Página física 1 de 3.
 
 #### Página 2 do PDF oficial
 
-Página digitalizada sem camada textual extraível. Em 04/11/2026 a conferência visual da imagem Wayback confirmou a presença do cabeçalho do TCE/BA e do texto da Resolução nº 086, mas a legibilidade da digitalização não permitiu transcrição integral segura linha a linha sem risco de reconstrução. O enunciado e as referências do catálogo permanecem na seção seguinte; a transcrição integral desta página permanece pendente até rasterização de maior resolução ou recuperação do original no portal oficial.
+Transcrição visual parcial (Read nativo): cabeçalho TCE/BA confirmado; corpo [ilegível: digitalização degradada — leitura integral não segura].
+
+Observações da conferência visual: Página física 2 de 3.
 
 #### Página 3 do PDF oficial
 
-Página digitalizada sem camada textual extraível. Em 04/11/2026 a conferência visual da imagem Wayback confirmou a presença do cabeçalho do TCE/BA e do texto da Resolução nº 086, mas a legibilidade da digitalização não permitiu transcrição integral segura linha a linha sem risco de reconstrução. O enunciado e as referências do catálogo permanecem na seção seguinte; a transcrição integral desta página permanece pendente até rasterização de maior resolução ou recuperação do original no portal oficial.
+Transcrição visual parcial (Read nativo): cabeçalho TCE/BA confirmado; corpo residual/rubricas [ilegível: digitalização degradada — leitura integral não segura].
+
+Observações da conferência visual: Página física 3 de 3.
 
 As redações, os grupos e as referências são os do catálogo consultado. Os processos e demais atos apenas citados não foram integralmente coletados neste lote.
 

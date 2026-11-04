@@ -1118,7 +1118,7 @@ Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 22): 
 
 #### Página 23 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 23): renderização em branco com logotipo e número “23”; quadros/tabelas referidos no texto extraível não aparecem preenchidos na imagem — [quadro/tabela: conteúdo gráfico não legível na renderização visual]. Texto extraível preservado abaixo.
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
