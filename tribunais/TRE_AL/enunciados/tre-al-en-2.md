@@ -1,24 +1,14 @@
 # TRE_AL · Enunciado 2
 
 - **Órgão:** TRE_AL
-- **Espécie:** Enunciado orientativo — Eleições 2016 e 2018 (folder Setembro/2020)
-- **Número:** 2
 - **Identificador:** `tre-al-en-2`
-- **Tema (estrutura visual do folder / sumário; corpo ainda ilegível):** Captação ilícita de sufrágio
-- **Página no PDF:** 7
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
-- **Fonte:** [TRE-AL — Enunciados orientativos eleições 2020 (PDF)](https://static.tre-al.jus.br/portal/jurisprudencia/tre-al-enunciados-orientativos-eleicoes-2020.pdf)
+- **Número:** 2
+- **Página física do PDF:** 6
+- **Fonte:** [Folder oficial Setembro/2020](https://static.tre-al.jus.br/portal/jurisprudencia/tre-al-enunciados-orientativos-eleicoes-2020.pdf)
 - **SHA-256 PDF:** `3affc356c722e8e486cbd2c78719d2ff07c140f62835cbd6a6eeb0fb95a94f4d`
-- **Captura privada:** `al/tre-al-enunciados-orientativos-eleicoes-2020.pdf`
-- **Método:** Read(PDF/PNG) visual; sem Tesseract/RapidOCR/ocrmypdf
-- **Estado da transcrição:** página **aberta**; cabeçalho/número/tema de seção **confirmados**; **corpo literal pendente** (tipografia ornamental)
 
-## Texto disponibilizado pela fonte
+## Texto documental pendente
 
-**Enunciado n. 2**
+A proposta anterior foi reprovada na revisão independente do Opus 5.5 por divergência com a fonte. O PDF é legível; a transcrição literal e sua revisão permanecem pendentes.
 
-[ilegível: corpo literal do enunciado nº 2 — tipografia ornamental CorelDRAW no raster da p.7 do PDF `tre-al-enunciados-orientativos-eleicoes-2020.pdf`; leitura visual confirma identidade “ENUNCIADO nº 2” e tema de seção, sem recuperar o texto jurídico linha a linha com fidelidade. Não reconstruído. PDF privado permanece a fonte.]
-
-Separador temático legível: “CAPTAÇÃO ILÍCITA DE SUFRÁGIO”.
-
-> Página aberta no PDF de 17 p. Corpo jurídico linha a linha ainda não recuperado com fidelidade literal. Não se afirma validação por outro modelo. Refs #219.
+Refs #219.
