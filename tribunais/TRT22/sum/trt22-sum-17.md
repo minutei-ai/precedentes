@@ -12,7 +12,11 @@
 
 Texto integral da linha na [página 2 do catálogo oficial](https://www.trt22.jus.br/index.php/jurisprudencia/sumulas?page=1), incluindo os campos “Fonte” e “Publicação no DEJT”. As cinco páginas e os 47 verbetes foram conferidos em duas leituras independentes, em dez capturas. As redações anteriores riscadas, revisões, conversões, datas, grafias e vínculos do glossário foram preservados como apresentados.
 
-As datas permanecem nos textos da fonte e não foram usadas como atualização individual. O catálogo não oferece campo próprio de situação; a presença do verbete e as notas históricas não foram convertidas em indicação de vigência ou cancelamento atual. As resoluções, os acórdãos, as teses prevalecentes e os demais documentos mencionados não foram coletados neste lote.
+As datas permanecem nos textos da fonte e não foram usadas como atualização individual. O catálogo não oferece campo próprio de situação; a presença do verbete e as notas históricas não foram convertidas em indicação de vigência ou cancelamento atual.
+
+## Resolução Administrativa nº 116/2023 recuperada
+
+Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/60652?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-116/2023) coincidem: SHA-256 `9db243cb8cf643fb0c65287b05210f06f7b6d3785b9f7362270636bf4313fe1f`, 68197 bytes, 2 páginas. A versão textual do mesmo ato ([sgi/60653](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/60653?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-116/2023)) coincidiu no par (SHA-256 `231ba99caf11abb8e1a680650c6f996f59d228facaa2abdb044bb05b6863f4f5`, 2543 bytes). O anexo “Inteiro teor do acórdão” do PROAD nº 3496/2022 ([sgi/60720](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/60720?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-116/2023)) também coincidiu: SHA-256 `0ef1e373a29840f471757964b75a88dbccd1eb5f524fb0fa70e6cd7d8010f1c3`, 84069 bytes, 7 páginas. A RA revisa a Súmula nº 17 com a redação I/II/III do catálogo. PDFs e TXT permanecem privados; resolução e acórdão de suporte não geram registros adicionais. Demais atos citados no catálogo continuam pendentes.
 
 ## Texto disponibilizado pela fonte
 
