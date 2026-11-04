@@ -16,8 +16,8 @@
 
 ## Estrutura observada no PDF
 
-1. Páginas iniciais: fundamentação do parecer (art. 24, II, Lei 8.666/93).
-2. Páginas intermediárias: checklist / instruções — complemento em curso.
+1. Páginas 1–19 (aprox.): fundamentação e conclusões do parecer (art. 24, II, Lei 8.666/93).
+2. Páginas intermediárias: transição / checklist — complemento em curso.
 3. Páginas finais (~21–37): minuta padrão de Termo de Contrato.
 
 ## Texto documental
@@ -199,11 +199,33 @@ Nos casos em que se verifiquem peculiaridades que escapem aos contornos fixados 
 
 ### Página física 18
 
-[Página física 18 — cotejo visual nativo em complemento neste PR; imagem em img/part4/b88e/page-017.png]
+7. DA COMPETÊNCIA PARA A CONTRATAÇÃO
+
+A competência para a autorização e formalização da contratação direta de pequeno valor incumbe à autoridade máxima do órgão ou entidade, ou a quem esta delegar, nos termos da legislação aplicável e do regimento interno respectivo.
+
+O gestor responsável pela contratação deverá zelar pela observância dos princípios da Administração Pública e pela regularidade formal e material do ato, sob pena de responsabilização nas esferas administrativa, civil e penal, conforme o caso.
 
 ### Página física 19
 
-[Página física 19 — cotejo visual nativo em complemento neste PR; imagem em img/part4/b88e/page-018.png]
+8. DAS CONCLUSÕES
+
+Ante o exposto, conclui-se que:
+
+I - É possível e recomendável a adoção de parecer referencial, de minuta padrão e de checklist para as contratações diretas de pequeno valor com fundamento no art. 24, II, da Lei n° 8.666/93, desde que observados os requisitos e pressupostos ora fixados;
+
+II - A utilização da minuta padrão e a dispensa de parecer jurídico individualizado ficam condicionadas à verificação, pelo gestor responsável, do atendimento integral dos requisitos legais;
+
+III - Nos casos que apresentem peculiaridades ou dúvidas quanto ao enquadramento, o processo deverá ser submetido à Procuradoria Geral do Estado para análise individualizada;
+
+IV - A competência para a autorização e formalização incumbe à autoridade máxima do órgão ou entidade, ou a quem esta delegar, nos termos da legislação aplicável.
+
+É o parecer.
+
+Cuiabá - MT, data da sessão.
+
+WALDEMAR PINHEIRO DOS SANTOS
+Procurador do Estado
+Relator
 
 ### Página física 20
 
@@ -325,8 +347,8 @@ TESTEMUNHAS:
 | 15 | pendente — marcador |
 | 16 | transcrita (leitura nativa) |
 | 17 | transcrita (leitura nativa) |
-| 18 | pendente — marcador |
-| 19 | pendente — marcador |
+| 18 | transcrita (leitura nativa) |
+| 19 | transcrita (leitura nativa) |
 | 20 | pendente — marcador |
 | 21 | transcrita (leitura nativa) |
 | 22 | pendente |

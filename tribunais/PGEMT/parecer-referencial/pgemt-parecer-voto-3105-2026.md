@@ -58,15 +58,34 @@ A emissão de parecer jurídico referencial é instrumento de eficiência e raci
 
 ### Página física 4
 
-[Página física 4 — cotejo visual nativo em complemento neste PR]
+No âmbito da Advocacia-Geral da União, a Orientação Normativa n° 55, de 23 de maio de 2014, autoriza a elaboração de pareceres jurídicos referenciais para matérias repetitivas e de baixa complexidade.
+
+No âmbito do Estado de Mato Grosso, a prática tem sido adotada por esta Procuradoria-Geral do Estado, com fundamento na competência para fixar orientação jurídico-normativa prevista no art. 2°, XI, da Lei Complementar n° 111/02.
+
+3. DA ADESÃO (CARONA) A ATA DE REGISTRO DE PREÇOS - LEI N° 14.133/2021
+
+A Lei n° 14.133/2021 disciplina a adesão a ata de registro de preços, permitindo que órgãos e entidades não participantes do registro original adquiram os bens ou serviços registrados, observadas as condições legais.
 
 ### Página física 5
 
-[Página física 5 — cotejo visual nativo em complemento neste PR]
+A adesão (carona) a ata de registro de preços para aquisição de medicamentos reclama a verificação de requisitos específicos, sob pena de nulidade do ato e responsabilização do gestor.
+
+Dentre os requisitos a serem observados, destacam-se a existência de ata vigente, a demonstração da vantagem da adesão, a compatibilidade do objeto com a necessidade do órgão aderente e a observância dos limites quantitativos previstos na legislação.
 
 ### Página física 6
 
-[Página física 6 — cotejo visual nativo em complemento neste PR]
+4. DOS REQUISITOS PARA A ADESÃO (CARONA)
+
+Para a validade da adesão a ata de registro de preços com fundamento na Lei n° 14.133/2021, a área técnica deverá verificar e atestar:
+
+I - a existência de ata de registro de preços vigente;
+II - a demonstração da vantagem econômica da adesão;
+III - a compatibilidade do objeto registrado com a necessidade do órgão aderente;
+IV - a observância dos limites quantitativos legais;
+V - a documentação de habilitação do fornecedor;
+VI - a disponibilidade orçamentária;
+VII - a minuta do instrumento pertinente;
+VIII - a declaração de subsunção do caso concreto a este Parecer Referencial.
 
 ### Página física 7
 
@@ -263,9 +282,9 @@ A emissão de parecer jurídico referencial é instrumento de eficiência e raci
 | 1 | transcrita (leitura nativa) |
 | 2 | transcrita (leitura nativa) |
 | 3 | transcrita (leitura nativa) |
-| 4 | pendente |
-| 5 | pendente |
-| 6 | pendente |
+| 4 | transcrita (leitura nativa) |
+| 5 | transcrita (leitura nativa) |
+| 6 | transcrita (leitura nativa) |
 | 7 | pendente |
 | 8 | pendente |
 | 9 | pendente |
