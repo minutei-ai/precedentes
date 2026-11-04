@@ -18,7 +18,7 @@ O PJe permanece com captcha (Resolução CSJT 139/2014). Canal oficial alternati
 
 ## IUJ recuperado via FALCÃO (canal oficial alternativo)
 
-O inteiro teor do IUJ `0000082-65.2016.5.21.0000` (idDocumentoAcordao `1623073`, Tribunal Pleno, relator ERIDSON JOAO FERNANDES MEDEIROS, julgamento 16/05/2016) foi obtido em 04/11/2026 pela API pública sem autenticação do [FALCÃO — jurisprudência nacional](https://jurisprudencia.jt.jus.br/jurisprudencia-nacional/pesquisa) (`colecao=acordaos`, tribunal TRT21), após bloqueio por captcha no PJe. Duas persistências privadas do payload coincidem (SHA-256 do pacote de textos `2e26793c14e285145d9873485be000fefa21e6bc6996837d35b59984e34a50d9`). O PDF/HTML completo permanece privado; não gera registro adicional.
+O inteiro teor do IUJ `0000082-65.2016.5.21.0000` (idDocumentoAcordao `1623073`, Tribunal Pleno, relator ERIDSON JOAO FERNANDES MEDEIROS, julgamento 16/05/2016) foi obtido em 04/11/2026 pela API pública sem autenticação do [FALCÃO — jurisprudência nacional](https://jurisprudencia.jt.jus.br/jurisprudencia-nacional/pesquisa) (`colecao=acordaos`, tribunal TRT21), após bloqueio por captcha no PJe. Duas persistências privadas do payload coincidem (SHA-256 do pacote de textos `2e26793c14e285145d9873485be000fefa21e6bc6996837d35b59984e34a50d9`). O PDF/HTML completo permanece privado; não gera registro adicional. Cobertura: ementa integral + inteiro teor do acórdão persistidos página/documento a documento na evidência privada `trt21/falcao/text/` (leitura do payload oficial FALCÃO; sem OCR de motor).
 
 ### Ementa (FALCÃO)
 
