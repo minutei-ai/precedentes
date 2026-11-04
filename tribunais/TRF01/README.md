@@ -1,6 +1,6 @@
 # TRF01
 
-Tribunal Regional Federal da 1ª Região. **273 registros.**
+Tribunal Regional Federal da 1ª Região. **303 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -9,6 +9,7 @@ Tribunal Regional Federal da 1ª Região. **273 registros.**
 | [Súmula](sum/) | 61 |
 | [Enunciados da I Jornada de Justiça Climática](en-jornada-climatica-i/) | 38 |
 | [Enunciados da I Jornada de Conciliação](en-jornada-conciliacao-i/) | 50 |
+| [Enunciados da I Jornada dos JEFs](en-jornada-jefs-i/) | 30 |
 | [Súmulas da TRU](sum-tru/) | 5 |
 | [Teses da TRU por sessão](tese-tru/) | 9 |
 
