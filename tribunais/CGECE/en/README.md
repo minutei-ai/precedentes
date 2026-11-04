@@ -1,47 +1,83 @@
-# CGECE · Enunciados próprios
+# CGE/CE — Enunciados próprios
 
-**41 registros.** [Voltar ao órgão](../)
+**73 registros nesta série.** Edição de setembro de 2015 (nºs 1–41) e 2ª edição (nºs 1–73; lançamento público em 2021, arquivo interno CACI_0120_20).
 
-- [Enunciado 01 — Concessão de diárias, ajuda de custo e passagens, hipóteses de concessão](cgece-en-1.md)
-- [Enunciado 02 — Recursos do FECOP, deliberação sobre limite financeiro](cgece-en-2.md)
-- [Enunciado 03 — Serviços notariais e de registro, possibilidade de credenciamento de cartórios](cgece-en-3.md)
-- [Enunciado 04 — Documento hábil a ser apresentado pelo fornecedor de software](cgece-en-4.md)
-- [Enunciado 05 — Destinação de recursos para entidade da administração indireta](cgece-en-5.md)
-- [Enunciado 06 — Afastamento de servidor público estadual para estudos de pós-graduação, necessidade de publicação prévia do ato de afastamento no Diário Oficial do Estado.](cgece-en-6.md)
-- [Enunciado 07 — Saldos financeiros remanescentes do contrato de gestão, após concluído o seu objeto e terminada sua vigência](cgece-en-7.md)
-- [Enunciado 08 — Classificação orçamentária, quanto ao elemento de despesa, da despesa pública com financiamento de pós-graduação a servidores, conforme dispõe a Lei Estadual nº 14.367/2009](cgece-en-8.md)
-- [Enunciado 09 — Corrigenda](cgece-en-9.md)
-- [Enunciado 10 — Aditivo](cgece-en-10.md)
-- [Enunciado 11 — Apostilamento](cgece-en-11.md)
-- [Enunciado 12 — Pagamento de despesa de condomínio relativo a bens de propriedade do Estado](cgece-en-12.md)
-- [Enunciado 13 — Aquisição de material permanente no âmbito do contrato de gestão](cgece-en-13.md)
-- [Enunciado 14 — Contratação de mão de obra terceirizada, fiel observância das obrigações contratuais](cgece-en-14.md)
-- [Enunciado 15 — Possibilidade de ocorrer a substituição entre entidades e órgãos da administração pública estadual, no polo devedor do contrato administrativo, em virtude de reestruturação interna.](cgece-en-15.md)
-- [Enunciado 16 — Registro do valor do contrato de seguro](cgece-en-16.md)
-- [Enunciado 17 — Serviços de Engenharia](cgece-en-17.md)
-- [Enunciado 18 — Responsabilidade solidária de contribuições previdenciárias](cgece-en-18.md)
-- [Enunciado 19 — Realização de transferência voluntária em período eleitoral](cgece-en-19.md)
-- [Enunciado 20 — Autoridade competente para instauração de Tomada de Contas Especial](cgece-en-20.md)
-- [Enunciado 21 — Instauração de Tomada de Contas Especial](cgece-en-21.md)
-- [Enunciado 22 — Requisitos para a possibilidade de realização de transferência voluntária nos três meses que antecedem o pleito eleitoral](cgece-en-22.md)
-- [Enunciado 23 — Dispensa de licitação para a celebração de contratos de prestação de serviços com as organizações sociais](cgece-en-23.md)
-- [Enunciado 24 — Personalidade Jurídica dos Fundos Públicos](cgece-en-24.md)
-- [Enunciado 25 — Vinculação dos recursos dos Fundos Públicos à realização de objetivos determinados](cgece-en-25.md)
-- [Enunciado 26 — Aplicabilidade da vedação contida no Art. 73, inciso V, da Lei Ordinária Nacional n.º 9.504/1997 à seleção de bolsistas](cgece-en-26.md)
-- [Enunciado 27 — Inexigibilidade de licitação para aquisição de software](cgece-en-27.md)
-- [Enunciado 28 — Financiamento de cursos de pós-graduação no âmbito do Poder Executivo Estadual](cgece-en-28.md)
-- [Enunciado 29 — Aplicação das Leis Estaduais nºs 15.292/2013 e 15.342/2013](cgece-en-29.md)
-- [Enunciado 30 — Aproveitamento de procedimentos licitatórios e de contratos no âmbito de convênios e instrumentos congêneres celebrados posteriormente](cgece-en-30.md)
-- [Enunciado 31 — Celebração de aditivo sem acréscimo de valor em convênio e instrumentos congêneres nos três meses que antecedem o pleito eleitoral, prevendo alteração no cronograma financeiro](cgece-en-31.md)
-- [Enunciado 32 — Vedação à interpretação extensiva do Art. 73, inciso VI, alínea “a”, da Lei Nacional nº 9.504/97](cgece-en-32.md)
-- [Enunciado 33 — Manutenção das condições de habilitação e qualificação](cgece-en-33.md)
-- [Enunciado 34 — Vedação quanto à retenção de pagamentos da contratada](cgece-en-34.md)
-- [Enunciado 35 — Prorrogação automática do contrato administrativo](cgece-en-35.md)
-- [Enunciado 36 — Aplicabilidade do Art. 24, inciso XVII, da Lei Nacional n.º 8.666/93](cgece-en-36.md)
-- [Enunciado 37 — Manutenção de equipamentos que não estejam com garantia vigente](cgece-en-37.md)
-- [Enunciado 38 — Obrigatoriedade da formalização de instrumento contratual](cgece-en-38.md)
-- [Enunciado 39 — Impossibilidade de pagamento direto à subcontratada](cgece-en-39.md)
-- [Enunciado 40 — Análise sobre as vantagens de adquirir ou locar imóvel a ser utilizado pela administração pública](cgece-en-40.md)
-- [Enunciado 41 — Reconhecimento de dívidas](cgece-en-41.md)
+A 2ª edição marca como “(revisado)” os nºs 1, 5, 6, 7, 11, 14, 18, 22, 28, 29, 37, 38. Os textos de 2015 dos nºs 1–41 foram preservados; a 2ª edição aparece em seção própria. Os nºs 42–73 existem somente na 2ª edição neste acervo.
 
-A série usa as identidades numéricas próprias da CGE/CE (`cgece-en-1` a `cgece-en-41`) e registra a edição histórica de setembro de 2015. Uma versão posterior só deve ser agregada à mesma ficha quando a identidade e o texto dessa versão forem comprovados em fonte oficial e revisados visualmente. A segunda edição indicada pelo portal migrado permanece pendente de captura e conciliação; nenhuma redação de 2020 foi usada nestas fichas.
+PDF da 2ª edição: 8212602 bytes, SHA-256 `4bd19b87e0a29067cc811da4e056f1d0cd27ae5f1eabc8c022643970554b9eac`, 90 páginas; recuperado via Wayback em 04/11/2026 diante de falha TLS na origem atual. Anexos de AGU/TCU/STF/CJF não foram atribuídos à CGE/CE.
+
+| Número | Registro |
+| --- | --- |
+| 1 | [Enunciado 01](cgece-en-1.md) |
+| 2 | [Enunciado 02](cgece-en-2.md) |
+| 3 | [Enunciado 03](cgece-en-3.md) |
+| 4 | [Enunciado 04](cgece-en-4.md) |
+| 5 | [Enunciado 05](cgece-en-5.md) |
+| 6 | [Enunciado 06](cgece-en-6.md) |
+| 7 | [Enunciado 07](cgece-en-7.md) |
+| 8 | [Enunciado 08](cgece-en-8.md) |
+| 9 | [Enunciado 09](cgece-en-9.md) |
+| 10 | [Enunciado 10](cgece-en-10.md) |
+| 11 | [Enunciado 11](cgece-en-11.md) |
+| 12 | [Enunciado 12](cgece-en-12.md) |
+| 13 | [Enunciado 13](cgece-en-13.md) |
+| 14 | [Enunciado 14](cgece-en-14.md) |
+| 15 | [Enunciado 15](cgece-en-15.md) |
+| 16 | [Enunciado 16](cgece-en-16.md) |
+| 17 | [Enunciado 17](cgece-en-17.md) |
+| 18 | [Enunciado 18](cgece-en-18.md) |
+| 19 | [Enunciado 19](cgece-en-19.md) |
+| 20 | [Enunciado 20](cgece-en-20.md) |
+| 21 | [Enunciado 21](cgece-en-21.md) |
+| 22 | [Enunciado 22](cgece-en-22.md) |
+| 23 | [Enunciado 23](cgece-en-23.md) |
+| 24 | [Enunciado 24](cgece-en-24.md) |
+| 25 | [Enunciado 25](cgece-en-25.md) |
+| 26 | [Enunciado 26](cgece-en-26.md) |
+| 27 | [Enunciado 27](cgece-en-27.md) |
+| 28 | [Enunciado 28](cgece-en-28.md) |
+| 29 | [Enunciado 29](cgece-en-29.md) |
+| 30 | [Enunciado 30](cgece-en-30.md) |
+| 31 | [Enunciado 31](cgece-en-31.md) |
+| 32 | [Enunciado 32](cgece-en-32.md) |
+| 33 | [Enunciado 33](cgece-en-33.md) |
+| 34 | [Enunciado 34](cgece-en-34.md) |
+| 35 | [Enunciado 35](cgece-en-35.md) |
+| 36 | [Enunciado 36](cgece-en-36.md) |
+| 37 | [Enunciado 37](cgece-en-37.md) |
+| 38 | [Enunciado 38](cgece-en-38.md) |
+| 39 | [Enunciado 39](cgece-en-39.md) |
+| 40 | [Enunciado 40](cgece-en-40.md) |
+| 41 | [Enunciado 41](cgece-en-41.md) |
+| 42 | [Enunciado 42](cgece-en-42.md) |
+| 43 | [Enunciado 43](cgece-en-43.md) |
+| 44 | [Enunciado 44](cgece-en-44.md) |
+| 45 | [Enunciado 45](cgece-en-45.md) |
+| 46 | [Enunciado 46](cgece-en-46.md) |
+| 47 | [Enunciado 47](cgece-en-47.md) |
+| 48 | [Enunciado 48](cgece-en-48.md) |
+| 49 | [Enunciado 49](cgece-en-49.md) |
+| 50 | [Enunciado 50](cgece-en-50.md) |
+| 51 | [Enunciado 51](cgece-en-51.md) |
+| 52 | [Enunciado 52](cgece-en-52.md) |
+| 53 | [Enunciado 53](cgece-en-53.md) |
+| 54 | [Enunciado 54](cgece-en-54.md) |
+| 55 | [Enunciado 55](cgece-en-55.md) |
+| 56 | [Enunciado 56](cgece-en-56.md) |
+| 57 | [Enunciado 57](cgece-en-57.md) |
+| 58 | [Enunciado 58](cgece-en-58.md) |
+| 59 | [Enunciado 59](cgece-en-59.md) |
+| 60 | [Enunciado 60](cgece-en-60.md) |
+| 61 | [Enunciado 61](cgece-en-61.md) |
+| 62 | [Enunciado 62](cgece-en-62.md) |
+| 63 | [Enunciado 63](cgece-en-63.md) |
+| 64 | [Enunciado 64](cgece-en-64.md) |
+| 65 | [Enunciado 65](cgece-en-65.md) |
+| 66 | [Enunciado 66](cgece-en-66.md) |
+| 67 | [Enunciado 67](cgece-en-67.md) |
+| 68 | [Enunciado 68](cgece-en-68.md) |
+| 69 | [Enunciado 69](cgece-en-69.md) |
+| 70 | [Enunciado 70](cgece-en-70.md) |
+| 71 | [Enunciado 71](cgece-en-71.md) |
+| 72 | [Enunciado 72](cgece-en-72.md) |
+| 73 | [Enunciado 73](cgece-en-73.md) |
