@@ -1,12 +1,12 @@
-# PGEMS · 
+# PGEMS · Orientação Jurídica Geral nº 001/2026
 
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso do Sul (PGEMS)
-- **Série:** Pareceres referenciais da Consultoria Jurídica
-- **Espécie:** Parecer referencial
-- **Rótulo no catálogo:** 
-- **Ano no catálogo:** Orientação Jurídica Geral nº 001/2026 Versão simplificada
+- **Série:** Orientações Jurídicas Gerais
+- **Espécie:** Orientação Jurídica Geral
+- **Número:** 1/2026
+- **Rótulo no catálogo:** Orientação Jurídica Geral nº 001/2026
 - **Assunto no catálogo:** Vacância do cargo público em razão de posse em outro cargo ou emprego inacumulável e do direito à recondução, conforme a Lei Estadual n° 1.102/1990.
-- **Identificador:** `pgems-par-ref-`
+- **Identificador:** `pgems-ojg-1-2026`
 - **Fonte:** [PGE/MS — Consultoria Jurídica](https://www.pge.ms.gov.br/consultoria-juridica/)
 - **Fonte documental:** [https://www.pge.ms.gov.br/wp-content/uploads/2026/05/Guia-orientativo-_Vacancia-e-Reconducao-PGEMS-simplificado.pdf](https://www.pge.ms.gov.br/wp-content/uploads/2026/05/Guia-orientativo-_Vacancia-e-Reconducao-PGEMS-simplificado.pdf)
 - **Páginas do PDF:** 1; camada textual extraída (pdftotext)
@@ -14,6 +14,7 @@
 - **Captura do catálogo:** HTTP 200; 722442 bytes; SHA-256 `801e54cb941b7c227c14fbc70b04f58d1d3c9c001968b459a819b887a59d3a04`
 
 ## Texto do PDF
+
 
 ### Página física 1
 
@@ -94,3 +95,4 @@ recondução, conforme a Lei Estadual nº 1.102/90.                             
 ## Conferência e limites
 
 Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Minutas-padrão, checklists, certidões e listas de verificação do mesmo catálogo não receberam IDs de precedente. Decisões de Gabinete apenas anexas não foram fundidas ao parecer nem convertidas em registros próprios neste lote. Não se infere vigência atual, força vinculante ou completude da série. PDFs e capturas permanecem privados.
+

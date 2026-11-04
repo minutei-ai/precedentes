@@ -1,12 +1,12 @@
-# PGEMS · Revogada pela Resolução PGE/MS/Nº 503, de 12 de maio de 2026.
+# PGEMS · Orientação Jurídica Geral nº 003/2019
 
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso do Sul (PGEMS)
-- **Série:** Pareceres referenciais da Consultoria Jurídica
-- **Espécie:** Parecer referencial
-- **Rótulo no catálogo:** Revogada pela Resolução PGE/MS/Nº 503, de 12 de maio de 2026.
-- **Ano no catálogo:** Orientação Jurídica Geral nº 003/2019
+- **Série:** Orientações Jurídicas Gerais
+- **Espécie:** Orientação Jurídica Geral
+- **Número:** 3/2019
+- **Rótulo no catálogo:** Orientação Jurídica Geral nº 003/2019
 - **Assunto no catálogo:** Vacância do cargo público em razão de posse em outro cargo ou emprego inacumulável e direito à recondução à luz da Lei Estadual nº 1.102/90.
-- **Identificador:** `pgems-par-ref-revogada-pela-resolu-o-pge-ms-n-503-de-12-de-maio-de-2026`
+- **Identificador:** `pgems-ojg-3-2019`
 - **Fonte:** [PGE/MS — Consultoria Jurídica](https://www.pge.ms.gov.br/consultoria-juridica/)
 - **Fonte documental:** [https://www.pge.ms.gov.br/wp-content/uploads/2026/05/2019-Orientacao-Geral-003-2019-Vacancia-cargo-publico-revogada.pdf](https://www.pge.ms.gov.br/wp-content/uploads/2026/05/2019-Orientacao-Geral-003-2019-Vacancia-cargo-publico-revogada.pdf)
 - **Páginas do PDF:** 5; camada textual extraída (pdftotext)
@@ -14,6 +14,7 @@
 - **Captura do catálogo:** HTTP 200; 722442 bytes; SHA-256 `801e54cb941b7c227c14fbc70b04f58d1d3c9c001968b459a819b887a59d3a04`
 
 ## Texto do PDF
+
 
 ### Página física 1
 
@@ -277,3 +278,4 @@ dívida ativa, nos termos do Anexo IX ao Regulamento do ICMS.
 ## Conferência e limites
 
 Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Minutas-padrão, checklists, certidões e listas de verificação do mesmo catálogo não receberam IDs de precedente. Decisões de Gabinete apenas anexas não foram fundidas ao parecer nem convertidas em registros próprios neste lote. Não se infere vigência atual, força vinculante ou completude da série. PDFs e capturas permanecem privados.
+

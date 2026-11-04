@@ -1,29 +1,25 @@
 # Pareceres referenciais — PGE/MS
 
-11 pareceres referenciais com inteiro teor textual publicado (PDFs de até 20 páginas) a partir do [catálogo da Consultoria Jurídica](https://www.pge.ms.gov.br/consultoria-juridica/), capturado em 04/11/2026.
+8 pareceres referenciais com inteiro teor textual publicado (PDFs de até 20 páginas) a partir do [catálogo da Consultoria Jurídica](https://www.pge.ms.gov.br/consultoria-juridica/), capturado em 04/11/2026.
 
 ## Abrangência
 
-- Linhas de parecer referencial enumeradas no catálogo nesta consulta: 57.
-- Publicados neste lote: 11.
-- Pendentes de transcrição integral (PDFs longos, digitalizados ou sem PDF textual): 46.
-- Minutas-padrão, checklists e certidões do mesmo portal não foram contadas como precedentes.
+- Publicados neste lote (pareceres referenciais): 8.
+- Orientações jurídicas gerais curtas foram publicadas em série própria `ojg/`.
+- Demais pareceres referenciais longos/digitalizados permanecem pendentes de corpo.
 
 ## Registros publicados
 
 | Identificador | Rótulo | Páginas |
 | --- | --- | ---: |
-| [`pgems-par-ref-3-2025`](pgems-par-ref-3-2025.md) | Parecer Referencial PGE/MS 003-2025 - Decisão GAB 072-2025 | 18 |
-| [`pgems-par-ref-1-2024`](pgems-par-ref-1-2024.md) | Parecer Referencial PGE/MS 001-2024 - Decisão GAB 255-2024 | 17 |
-| [`pgems-par-ref-8-2023`](pgems-par-ref-8-2023.md) | Parecer Referencial PAA 008-2023 Decisão GAB 068- 2024 | 20 |
-| [`pgems-par-ref-1-2022`](pgems-par-ref-1-2022.md) | Parecer Referencial PGE/MS/CJUR-SUCOMP 001-2022 – Decisão GAB 012-2023 | 16 |
-| [`pgems-par-ref-6-2020`](pgems-par-ref-6-2020.md) | Parecer Referencial PGE/MS/PAA 006-2020 - Decisão GAB 264-2020 | 17 |
-| [`pgems-par-ref-5-2020`](pgems-par-ref-5-2020.md) | Parecer Referencial PGE/MS/PAA 005-2020 - Decisão GAB 190-2020 (Revogado pela Decisão GAB  | 18 |
-| [`pgems-par-ref-2-2018`](pgems-par-ref-2-2018.md) | Parecer Referencial PGE/MS/CJUR-SED 002-2018 - Decisão GAB 258-2018 | 12 |
 | [`pgems-par-ref-1-2018`](pgems-par-ref-1-2018.md) | Parecer Referencial PGE/MS/CJUR-SED 001-2018 - Decisão GAB 257-2018 | 12 |
-| [`pgems-par-ref-`](pgems-par-ref-.md) |  | 1 |
-| [`pgems-par-ref--2`](pgems-par-ref--2.md) |  | 5 |
-| [`pgems-par-ref-revogada-pela-resolu-o-pge-ms-n-503-de-12-de-maio-de-2026`](pgems-par-ref-revogada-pela-resolu-o-pge-ms-n-503-de-12-de-maio-de-2026.md) | Revogada pela Resolução PGE/MS/Nº 503, de 12 de maio de 2026. | 5 |
+| [`pgems-par-ref-1-2022`](pgems-par-ref-1-2022.md) | Parecer Referencial PGE/MS/CJUR-SUCOMP 001-2022 – Decisão GAB 012-2023 | 16 |
+| [`pgems-par-ref-1-2024`](pgems-par-ref-1-2024.md) | Parecer Referencial PGE/MS 001-2024 - Decisão GAB 255-2024 | 17 |
+| [`pgems-par-ref-2-2018`](pgems-par-ref-2-2018.md) | Parecer Referencial PGE/MS/CJUR-SED 002-2018 - Decisão GAB 258-2018 | 12 |
+| [`pgems-par-ref-3-2025`](pgems-par-ref-3-2025.md) | Parecer Referencial PGE/MS 003-2025 - Decisão GAB 072-2025 | 18 |
+| [`pgems-par-ref-5-2020`](pgems-par-ref-5-2020.md) | Parecer Referencial PGE/MS/PAA 005-2020 - Decisão GAB 190-2020 (Revogado pela Decisão GAB  | 18 |
+| [`pgems-par-ref-6-2020`](pgems-par-ref-6-2020.md) | Parecer Referencial PGE/MS/PAA 006-2020 - Decisão GAB 264-2020 | 17 |
+| [`pgems-par-ref-8-2023`](pgems-par-ref-8-2023.md) | Parecer Referencial PAA 008-2023 Decisão GAB 068- 2024 | 20 |
 
 ## Pendências de corpo
 
@@ -73,6 +69,7 @@
 -  — sem-pdf-texto
 -  — sem-pdf-texto
 -  — sem-pdf-texto
+
 
 ## Limites
 

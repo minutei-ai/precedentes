@@ -1,12 +1,12 @@
-# PGEMS · 
+# PGEMS · Orientação Jurídica Geral nº 002/2019
 
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso do Sul (PGEMS)
-- **Série:** Pareceres referenciais da Consultoria Jurídica
-- **Espécie:** Parecer referencial
-- **Rótulo no catálogo:** 
-- **Ano no catálogo:** Orientação Jurídica Geral nº 002/2019
+- **Série:** Orientações Jurídicas Gerais
+- **Espécie:** Orientação Jurídica Geral
+- **Número:** 2/2019
+- **Rótulo no catálogo:** Orientação Jurídica Geral nº 002/2019
 - **Assunto no catálogo:** Licença para tratamento de interesse particular à luz da Lei Estadual nº 1.102/90.
-- **Identificador:** `pgems-par-ref--2`
+- **Identificador:** `pgems-ojg-2-2019`
 - **Fonte:** [PGE/MS — Consultoria Jurídica](https://www.pge.ms.gov.br/consultoria-juridica/)
 - **Fonte documental:** [https://www.pge.ms.gov.br/wp-content/uploads/2025/01/Orientacao-Juridica-Geral-PGE-002-2019-Licenca-TIP-2.pdf](https://www.pge.ms.gov.br/wp-content/uploads/2025/01/Orientacao-Juridica-Geral-PGE-002-2019-Licenca-TIP-2.pdf)
 - **Páginas do PDF:** 5; camada textual extraída (pdftotext)
@@ -14,6 +14,7 @@
 - **Captura do catálogo:** HTTP 200; 722442 bytes; SHA-256 `801e54cb941b7c227c14fbc70b04f58d1d3c9c001968b459a819b887a59d3a04`
 
 ## Texto do PDF
+
 
 ### Página física 1
 
@@ -296,3 +297,4 @@ cinco por cento) a partir de 1º de maio de 2019. (acrescentado pela Lei nº 5.1
 ## Conferência e limites
 
 Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Minutas-padrão, checklists, certidões e listas de verificação do mesmo catálogo não receberam IDs de precedente. Decisões de Gabinete apenas anexas não foram fundidas ao parecer nem convertidas em registros próprios neste lote. Não se infere vigência atual, força vinculante ou completude da série. PDFs e capturas permanecem privados.
+
