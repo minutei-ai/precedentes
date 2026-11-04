@@ -4,7 +4,7 @@
 - **Espécie:** Prejulgado
 - **Número:** 13
 - **Identificador:** `tceal-prej-13`
-- **Situação na fonte:** Disponível no catálogo; situação jurídica atual não informada
+- **Situação na fonte:** Disponível no catálogo; leitura visual nativa em 04/11/2026 com renderização insuficiente — corpo marcado ilegível; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEAL — Prejulgado e julgados de referência](https://www.tceal.tc.br//view/publicacao_sumulas.php?cc=MTY=&td=NTQ=)
 
@@ -18,19 +18,27 @@ Campo literal de data no catálogo: Data Publicação Diário: 04/12/2017. Esse 
 
 [Abrir o PDF oficial](https://www.tceal.tc.br//view/documentos/doc290520192045350000005ceeef6fdeb5b.pdf), 3 página(s). O portal vincula este documento à ficha; o conteúdo pode incluir relatório, voto, proposta de súmula, publicação no Diário e outros atos da mesma página. Esses trechos são contexto documental, não enunciados adicionais.
 
-Inteiro teor documental pendente em 3 página(s) sem camada textual extraível. O resumo e as notas do catálogo permanecem abaixo, sem reconstruir o texto das imagens.
+Reconsulta e leitura visual nativa em 04/11/2026: PDF oficial HTTP 200 (3 página(s); SHA-256 `00be9fb861467d043ecc571925f5c2d76f60679a028e4730bc7f92ae86880ed9`). Read(PDF) nativo: renderização predominantemente em branco (apenas logotipo residual); sem transcrição segura linha a linha. Ementa do catálogo preservada abaixo, sem reconstrução.
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS
+    [logotipo DOE visível]
+    [ilegível: corpo do Prejulgado n. 13 — Read(PDF) renderizou página predominantemente em branco]
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS
+    [logotipo DOE visível]
+    [ilegível: corpo do Prejulgado n. 13 — Read(PDF) renderizou página predominantemente em branco]
 
 #### Página 3 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS
+    [logotipo DOE visível]
+    [ilegível: corpo do Prejulgado n. 13 — Read(PDF) renderizou página predominantemente em branco]
+
+Observações da conferência visual: Páginas físicas 1–3 de 3.
 
 ## Ementa
 

@@ -2306,7 +2306,8 @@ Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 40): a image
 
 #### Página 48 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 48): renderização em branco com logotipo e número “48”.
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -2460,7 +2461,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 51 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 51): renderização em branco com logotipo e número “51”.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -3179,7 +3181,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 64 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 64): renderização em branco com logotipo e número “64”.
+
 
                             TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -3226,7 +3229,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 65 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 65): tabela grande de itens da Carta Convite (descrição/quantidade/valor) parcialmente legível na imagem; texto extraível do voto preservado abaixo; logotipo e nº 65. Valores unitários densos — trechos numéricos individuais não reconstruídos além do que o texto extraível já traz.
+
 
                      TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -4423,7 +4427,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 87 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 87): renderização em branco com logotipo e número “87”.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -4473,7 +4478,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 88 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 88): renderização em branco com logotipo e número “88”.
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -4523,7 +4529,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 89 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 89): renderização em branco com logotipo e número “89”.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
