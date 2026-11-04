@@ -14,7 +14,7 @@ Texto integral do catálogo oficial, incluindo os vínculos dos incidentes e dos
 
 Os ícones ODS apresentados imediatamente após o verbete na fonte foram representados por seus vínculos, sem incorporar imagens ao acervo: [ODS 16](https://brasil.un.org/pt-br/sdgs/16) · [ODS 8](https://brasil.un.org/pt-br/sdgs/8).
 
-Os inteiros teores dos processos, acórdãos e resoluções referidos e as demais séries do tribunal não foram coletados neste lote.
+Os inteiros teores dos processos, acórdãos e resoluções referidos e as demais séries do tribunal não foram coletados neste lote. Em 04/11/2026, a abertura do IUJ no PJe (`/consultaprocessual/detalhe-processo/0000084-35.2016.5.21.0000/2`) redirecionou para captcha CSJT 139/2014; o documento permanece pendente.
 
 ## Texto disponibilizado pela fonte
 
