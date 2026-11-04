@@ -6,7 +6,7 @@
 - **Identificador:** `trt14-sum-8`
 - **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
 - **Atualização informada pela fonte:** Não informada
-- **Fonte:** [TRT da 14ª Região — Catálogo de súmulas (PDFs validados)](https://portal.trt14.jus.br/portal/index.php/en/sumulas)
+- **Fonte:** [TRT da 14ª Região — Catálogo de súmulas (catálogo e PDFs capturados)](https://portal.trt14.jus.br/portal/index.php/en/sumulas)
 
 ## Informações do catálogo oficial
 
@@ -14,7 +14,7 @@
 
 SINTESAC. ESTADO DO ACRE. AÇÃO DE CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. PROCESSO N. 0518900-72.1990.5.14.0401. DECISÃO TRANSITADA EM JULGADO. DIFERENÇAS SALARIAIS. PLANOS ECONÔMICOS. CONVERSÃO DA MOEDA. ÉPOCA PRÓPRIA. COMPENSAÇÃO DOS REAJUSTES ESPONTÂNEOS PELO ESTADO NO MESMO MÊS DE INCIDÊNCIA. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA.
 
-## PDF vinculado validado
+## Captura do PDF vinculado
 
 Duas capturas em 04/11/2026 do PDF oficial coincidem: SHA-256 `ba2d39e6df4b11517251532132ea9f8796f51640ad609aac90a79c181c6b9b27`, 124234 bytes, 2 página(s). O catálogo HTML também coincidiu nas duas leituras (SHA-256 `9fd8cea47df4a146df6056eeb56ead1a3b376eca0cd2417068ff2590cfa80da0`). A camada de texto nativa estava ausente nos PDFs 1–7 (digitalizações); a nº 8 tem texto extraível. As páginas foram rasterizadas e conferidas visualmente. O inteiro teor do IUJ/acórdão de suporte, quando presente no mesmo PDF além do enunciado, permanece como documento de apoio e não gera registro adicional.
 
