@@ -9,7 +9,7 @@
 - **Fonte documental:** [PDF oficial](https://www.pge.mt.gov.br/documents/4416107/13889635/Orienta%C3%A7ao+juridico+normativa+003-CPPGE-2020.pdf/7e2d4e71-e86e-1596-ea11-5547b69619f1)
 - **Páginas físicas do PDF:** 6 (todas lidas visualmente; inclui ANEXO I checklist e ANEXO II declaração)
 - **Capturas:** duas respostas HTTP 200 em 04/11/2026, 86303 bytes cada; SHA-256 `0776d030f78bb00ceafb171e7f8ce3579791152486dbdfb1870eba198dbff5ee`
-- **Documento de suporte:** parecer referencial do processo nº 12339/2020 — arquivo `463517b8-a6d0-8a3f-1d2e-74c6ea1ab729.pdf` (18 p.; SHA-256 `2bcc362383fcc0576f83dac28ddd2838f4b6a156a68d26f5c2d2692a16f5a98b`); ver [`../parecer-referencial/pgemt-parecer-12339-2020.md`](../parecer-referencial/pgemt-parecer-12339-2020.md)
+- **Documento de suporte:** PDF vinculado no catálogo, com identificação impressa pendente de conciliação — arquivo `463517b8-a6d0-8a3f-1d2e-74c6ea1ab729.pdf` (18 p.; SHA-256 `2bcc362383fcc0576f83dac28ddd2838f4b6a156a68d26f5c2d2692a16f5a98b`); ver [`../parecer-referencial/pgemt-parecer-12339-2020.md`](../parecer-referencial/pgemt-parecer-12339-2020.md)
 
 ## Texto documental
 
