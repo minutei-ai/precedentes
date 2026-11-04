@@ -221,7 +221,7 @@ emestabelecimentos,edificacoeseareasdereuniaodepublico,semprejuizodas
 prerrogativas municipais no controle das edificacoes e do uso, do parcelamento e
 da ocupacao do solo urbano e das atribuicoes dos profissionais responsaveis pelos
 respectivosprojetos.
-[...] 
+[...]
 S 2° Os Municipios que nao contarem com unidade do Corpo de Bombeiros
 Militar instalada poderao criar e manter servicos de prevencao e combate a
 incendio e atendimento a emergencias, mediante convenio com a respectiva
@@ -358,7 +358,7 @@ adequagao do existente e do respectivo plano de trabalho, observado o Decreto
 8 Art. 7° A competencia tributaria é indelegavel, salvo atribuicao das funcoes de arrecadar ou fiscalizar tributos, ou de executar
 leis,servicos,atos ou decisoes administrativas emmateria tributaria, conferida poruma pessoa juridica de direito publico a
 outra, nos termos do $ 3° do art. 18 da Constituigao.
-[.] 
+[.]
 as pessoas juridicas de direito publico [..]" (MACHADO, Hugo de Brito. Curso de Direito Tributario, 36 ed., Sao Paulo, Malheiros,
 2015).
 Pagina 6 de 35
@@ -395,22 +395,22 @@ Disso decorre que o Comandante-Geral do Corpo de Bombeiros Militar, por forca da
 De toda maneira, 0 art. 1012 do Decreto estadual no 1.860/2022, tambem confere a referida
 10 Art. 8° Ao Estado cabe exercer, em seu territorio, todas as competencias que nao Ihe sejam vedadas pela Constituicao Federal,
 especialmente:
-[...] 
+[...]
 ix - celebrar e firmar contratos, convenios, acordos e ajustes;
 [..] (sem destaques no original)
 11 Art. 106 ...
 S 1° Sao considerados Secretarios de Estado, com iguais prerrogativas, direitos, garantias, vantagens, remuneracao
 e representacao, os seguintes cargos:
-[...] 
+[...]
 VIl - Comandante-Geral do CBMSC; e
-[..] 
+[..]
  2 compete aos secretarios de Estado, alem das atribuicoes previstas na Constituicao do Estado:
 iv : assinar contratos, convenios, acordos e demais atos congeneres de que o Estado participe, quando nao for exigida a
 assinatura do Governador do Estado;
 [...] (sem destaques no original)
 12 Art. 10. Alem das competencias previstas no art. 4° deste Decreto, ficam delegadas ao Comandante-Geral da Policia Militar
 de Santa Catarina (PMSC)e ao Comandante-Geral do Corpode Bombeiros Militar de Santa Catarina (cBMsC)as
-[] 
+[]
 Xl --assinatura de convenios communicipios para aprestacao de servicos de bombeiromilitar,radiopatrulha,transito eoutras
 atividades consideradas por lei de competencia da PMSC oudo CBMSC;
 XIl - assinatura de contratos, convenios, acordos e demais atos congeneres de que o Estado participe que:
@@ -589,7 +589,7 @@ V-cronogramade desembolso;
 Vll - se o ajuste compreender obra ou servico de engenharia, comprovacao de que os recursos proprios para complementar a
 execucao do objeto estao devidamenteassegurados,salvo se o custototal do empreendimento recair sobre a entidade ou
 orgaodescentralizador.
-[..] 
+[..]
 18 ANDRADE, Marina Sampaio de Paula Marns Goulart de; supervisao, Fabricio Missorino Lazaro; coordenagao, Juliana Pereira
 Ministerio da Justiga, Secretaria Nacional do Consumidor, 2015, p.49. (Disponivel em: https://www.gov.br/mi/pt-
 br/assuntos/seus-direitos/consumidor/Anexos/manual-de-convenios. Acesso em: 08 Nov 2022.)
@@ -716,7 +716,7 @@ para cometer uma fraude e ser possivel a ocultacao sem maiores esforcos."(FORTIN
 Lima de; CAMARAO,Tatiana (Coord.).Nova Leide Licitacoes:destaques importantes-Lein°14.133,de 1°deabril de2021.
 Belo Horizonte: Forum, 2021, p.39)
 Lei que preencham os seguintes requisitos:
-[..] 
+[..]
 S 1° A autoridade referida no caput deste artigo devera observar o principio da segregacao de funcoes, vedada a
 designacao do mesmoagentepublicopara atuacao simultanea emfuncoesmais suscetiveisariscos, de modo areduzir
 a possibilidade de ocultagao de erros e de ocorrencia de fraudes na respectiva contratagao.
@@ -749,7 +749,7 @@ qualidade de participantes:
 Art. 1° Este Decreto regulamenta o Sistema de Registro de Precos (SRP) no ambito
 da AdministracaoPublicaEstadual Direta,Autarquica eFundacional,nostermos da
 Leifederal n°14.133,de1°deabril de2021.
-[...] 
+[...]
 S 3° Os rgaos e as entidades dos Poderes Executivo e Legislativo municipais,
 osPoderes Judiciario e Legislativo estaduais,bem como oTribunal de Contas do
 Estado de Santa Catarina (TCE/SC), o Ministerio Publico de Santa Catarina (MPSC)
@@ -823,13 +823,13 @@ dessa espécie:
 Art. 32. O termo de convenio contera obrigatoriamente clausulas que estabelegam:
 I - o objeto e a finalidade do convenio;
 Il - as obrigacoes dos participes e dos intervenientes, se houver;
-[..] 
+[..]
 XvVill - a faculdade dos participes rescindirem o instrumento, a qualquer tempo;
 XVill - as hipoteses de rescisao do convenio, na forma do art. 70 e da legislagao
 especifica;
-[...] 
+[...]
 do objeto;
-[...] 
+[...]
 xxil - a indicagao do foro competente para dirimir conflitos decorrentes de sua
  23 A expressao 'incolumidade publica' é usada em geral para se referir a seguranga e protegao do publico, abrangendo a ideia
 de proteger obem-estar eobem-estargeral das pessoas contradanos,perigos ou lesoes causados por atos criminosos,
@@ -859,12 +859,12 @@ A obrigatoriedade de algumas dessas clausulas tambem pode ser extraida do art. 9
 c/c art. 184 da Lei no 14.133/2021:
 Art. 92. Sao necessarias em todo contrato clausulas que estabelecam:
 I - o objeto e seus elementos caracteristicos;
-[...] 
+[...]
 Vll - os prazos de inicio das etapas de execugao, conclusao, entrega, observagao e
 recebimento definitivo, quando for o caso;
-[...] 
+[...]
 XIV - os direitos e as responsabilidades das partes [...];
-[...] 
+[...]
 XIx - os casos de extingao.
 Nesse cenario, o instrumento do convenio deve qualificar os participes, especificar o objeto
 e a finalidade, prever o prazo de vigencia, os direitos e as obrigacoes/responsabilidades dos
@@ -895,7 +895,7 @@ Art.7Acompetenciatributariaé indelegavel,salvoatribuicao dasfuncoesde
 arrecadar ou fiscalizar tributos, ou de executar leis, servicos, atos ou decisoes
 administrativas em materia tributaria, conferida por uma pessoa juridica de direito
 publico a outra, nos termos do $ 3° do art. 18 da Constituicao.
-[...] 
+[...]
 Menciona-se que a questao da delegagao da capacidade tributaria ativa pelo Estado de
 Prevencao Contra Sinistros - TPCS, prevista e disciplinada nos arts. 1°, IV, e 17 a 20, e Tabela Vll,
 por meio de acao coletiva proposta pela Federacao Catarinense de Bombeiros Comunitarios -
@@ -915,7 +915,7 @@ PROCURADORIA-GERALDOESTADO
 CONSULTORIA JURiDICA
 NUCLEO DE ATENDIMENTO JURiDICO AOS ORGAOS SETORIAIS E SECCIONAIS DO
 SISTEMA ADMINISTRATIVO DE SERVICOS JURiDICOS (NUAJ)
-“[...] 
+“[...]
 Enquanto a competenciatributaria diz respeito a criacao dostributos,a capacidade
 tributaria ativa refere-se a cobranca e fiscalizacao destes,entre outras atribuicoes
 transferidas do ente competente para o ente delegado. Assim, o convenio realizado
@@ -983,13 +983,13 @@ A Lei n° 9.504, de 30/09/1997, disp0e em seu art. 73:
 Art. 73. Sao proibidas aos agentes publicos, servidores ou nao, as seguintes
 condutas tendentes a afetar a igualdade de oportunidades entre candidatos nos
 pleitos eleitorais:
-[...] 
+[...]
 Vl - nos tres meses que antecedem o pleito:
 a) realizar transferencia voluntaria de recursos da Uniao aos Estados e
 Municipios, e dos Estados aos Municipios, sob pena de nulidade de pleno direito,
 execugao de obra ou servico em andamento e com cronograma prefixado, e os
 destinados a atender situacoes de emergencia e de calamidade publica;
-[...] 
+[...]
 s 10. No ano em que se realizar eleicao, fica proibida a distribuicao gratuita de
 bens, valores ou beneficios por parte da Administracao Publica, exceto nos casos
 de calamidade publica, de estado de emergéncia ou de programas sociais
@@ -1561,7 +1561,7 @@ Aplicacao de recursos, o qual devera ser entregue ao Fiscal/Gestor para analise 
 até o dia 31 de julho de cada exercicio, contendo a previsao de despesas para o ano subsequente
 com base na estimativa de receitas, respeitando os limites previstos na Clausula 4.3;
 3.1.7 - Repassar a Organizagao de Bombeiros que atende o CONVENENTE, mediante Termo de
-4.3; 
+4.3;
 3.1.8 - Rescindir imediatamente os Termos de Comodato celebrados entre o CONVENENTE e a
 Organizacao de Bombeiros da respectiva circunscricao, vinculados ao presente Convenio, em caso
 de rescisao ou extincao deste por qualquer motivo;

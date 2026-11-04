@@ -12,4 +12,3 @@ Fontes:
 - Portal Gestão do Conhecimento (acesso identificado): https://pgenet.pge.sc.gov.br/cto/index.jsp
 
 Três identidades constam no catálogo apenas com nota de revogação e sem PDF linkado (5/2024 Central; 3/2024 SDC; 1/2024 SAS). A base autenticada não foi esgotada. Não se infere vigência, vinculação ou completude integral do acervo PGE/SC.
-

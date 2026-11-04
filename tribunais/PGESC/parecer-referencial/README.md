@@ -2,6 +2,8 @@
 
 **60 registros** publicados com texto integral extraído da camada textual dos PDFs oficiais (pdftotext -layout), após captura dual com SHA-256 coincidente em 04/11/2026.
 
+Exceção: `pgesc-parecer-ref-ssp-4-2024` — páginas 2–35 digitalizadas; texto via OCR RapidOCR (rascunho) sobre imagens extraídas do PDF dual-match, com cotejo visual amostral.
+
 Fonte pública principal: [Pareceres Referenciais — PGE/SC](https://www.pge.sc.gov.br/pareceres-referenciais/).
 Base autenticada (não esgotada neste PR): [Gestão do Conhecimento — pgenet](https://pgenet.pge.sc.gov.br/cto/index.jsp).
 
@@ -119,4 +121,3 @@ PDF público ligado à [notícia de 09/08/2021](https://www.pge.sc.gov.br/) / ar
 - HTML do catálogo WordPress tem SHA variável entre capturas (conteúdo dinâmico); a lista de 59 URLs PDF permaneceu estável.
 
 Não se afirma completude da base autenticada nem vigência/vinculação além do que cada PDF e o catálogo enunciam.
-
