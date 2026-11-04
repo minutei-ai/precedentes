@@ -27,7 +27,7 @@ O expediente SFP-EXP-2019/57173 identifica a Súmula 15 do TIT. A capa e as pág
 
 O despacho da Presidência de 03/12/2019 informa a aprovação da Súmula 15. O despacho nº 00289/CAT-G, de 11/06/2020, nas páginas 40 e 41, registra seu referendo. O despacho de 26/06/2020 encaminha a proposta de fls. 2/37 para publicação. Essas etapas não foram convertidas em data de publicação; a edição do diário não foi recuperada neste lote. O catálogo usa 15/2020, enquanto o despacho de referendo menciona 15/2019; as duas identificações foram preservadas nas respectivas fontes, sem criar outra súmula ou mudar o identificador.
 
-A proposta e os documentos das páginas 2 a 37 não estão transcritos integralmente neste registro. Em 04/11/2026 a página física 2 foi reconfirmada visualmente: formulário “VERIFICAÇÃO DE EXPEDIENTE” (SFP-EXP-2019/57173 / 100004712019) com campos manuscritos (unidade TIT/AF, datas, quantidade de folhas “36”, classificação “ADM SUPERIOR - SÚMULA”, interessado TRIBUNAL DE IMPOSTOS E TAXAS, assunto “Proposta de Súmula - Decadência no Levantamento Fiscal”). As páginas 3–4 são folhas de protocolo/checklist com tabelas de tipos documentais; a transcrição literal de todos os campos e das páginas 5–37 permanece pendente. A extração automática dessas páginas continua insuficiente para o corpo. Próximo passo: transcrição visual página a página de 2–37 no padrão das súmulas 13/14. Evidências privadas em `/home/yorizel/.local/share/minutei/precedentes-coleta-planejamento/titsp-20261104/`. Conteúdo histórico, sem confirmação independente da vigência atual.
+Em 04/11/2026 as páginas físicas 2 a 37 foram relidas nativamente a partir das imagens-corpo CCITT (ampliação de traço para leitura visual) e, nas pp. 34–37, de render leve do PDF. Trechos miúdos ou de baixo contraste marcados como [ilegível:…]. Decisões anexas (AIIM) não receberam identificador novo de súmula. Conteúdo histórico, sem confirmação independente da vigência atual.
 
 ### Página física 1 — capa
 
@@ -59,7 +59,7 @@ Assinado com senha por MAURO KIOSHI TAKAU BRINO - 02/12/19 às 10:43:43.
 
 ## Expediente documental — páginas 2 a 37
 
-Transcrição visual das páginas físicas 2–37 a partir das imagens-corpo extraídas do PDF (CCITT/bitonal) em `/home/yorizel/.local/share/minutei/precedentes-coleta-planejamento/titsp-20261104/pages/sum15-body/`. A camada de texto embutida dessas páginas é só ruído de rodapé e não foi usada. Trechos ilegíveis marcados. Decisões anexas não receberam identificador novo.
+Transcrição visual das páginas físicas 2–37 a partir das imagens-corpo extraídas do PDF (CCITT/bitonal) em `/home/yorizel/.local/share/minutei/precedentes-coleta-planejamento/titsp-20261104/pages/sum15-body/` (e render leve pp. 34–37). A camada de texto embutida das pp. 2–37 é só ruído de rodapé e não foi usada como corpo. Trechos ilegíveis marcados. Decisões anexas não receberam identificador novo.
 
 ### Página física 2 — verificação de expediente
 
@@ -93,13 +93,24 @@ Data: [manuscrito parcialmente ilegível]
 ```text
 FOLHA DE PROTOCOLO
 
-[tabela de tipos documentais com colunas de marcação — checklist institucional]
-Itens visíveis incluem, entre outros (conforme impresso):
-- Documentos de identificação / procurações
-- Petições e recursos
-- Decisões / acórdãos / despachos
-- Documentos fiscais / GIA / demonstrativos
-[demais linhas da tabela: ver imagem; marcações manuscritas em parte das células]
+[tabela institucional de tipos documentais — colunas de marcação à esquerda]
+
+Itens legíveis (entre outros):
+- Cópia de Contrato Social / Ata de Eleição / Procuração
+- Cópia de documento de identidade do signatário da Impugnação / Recurso / Pedido de Reconsideração / Manifestação
+- Cópia do AIIM / Termo de Ocorrência / Termo de Apreensão / Termo de Depósito
+- Cópia de GIA / DAF / DAE / GNRE / DARF
+- Cópia de Notas Fiscais / Cupons Fiscais / Conhecimentos de Transporte
+- Cópia de Livros Fiscais / Registros / Contábeis
+- Cópia de Extratos Bancários / Movimentação Financeira
+- Cópia de Pedido de Parcelamento / Refis / PPI
+- Cópia de Decisão Judicial / Acórdão / Despacho / Sentença
+- Cópia de Parecer / Consulta / Resposta de Consulta
+- Cópia de Petição / Impugnação / Recurso / Contrarrazões / Memorial
+- Cópia de Protocolo / Guia de Recolhimento / Comprovante de Pagamento
+- Cópia de Laudo / Perícia / Vistoria
+- Cópia de Ofício / Comunicação / Notificação
+- Outros documentos [linhas adicionais da tabela — ver imagem; marcações manuscritas esparsas]
 [código de barras / QR no rodapé — não redesenhados]
 ```
 
@@ -109,17 +120,20 @@ Itens visíveis incluem, entre outros (conforme impresso):
 FOLHA DE PROTOCOLO (continuação)
 
 [continuação da tabela de tipos documentais / checklist]
-[marcações manuscritas esparsas]
+Itens adicionais legíveis incluem variantes de:
+- Documentos de identificação / procurações / substabelecimentos
+- Petições, recursos e contrarrazões
+- Decisões, acórdãos e despachos
+- Documentos fiscais / GIA / demonstrativos / livros
+[marcações manuscritas esparsas em parte das células]
 [rodapé com autenticação / código — não reproduzido]
 ```
 
-### Página física 5 — capa interna / protocolo
+### Página física 5 — página quase em branco / carimbo
 
 ```text
-[página de expediente / capa interna com campos de protocolo]
-[cabeçalho Secretaria / TIT]
-[campos manuscritos e carimbos — parte do texto miúdo ilegível nesta imagem]
-Interessado / Assunto relacionados à Proposta de Súmula (Decadência no Levantamento Fiscal), conforme peças anteriores.
+[página física 5: digitalização com pouco corpo de texto]
+[silhueta de carimbo/selo circular no centro — texto do carimbo ilegível nesta imagem]
 ```
 
 ### Página física 6 — proposta de súmula 15 (abertura)
@@ -129,9 +143,9 @@ SECRETARIA DA FAZENDA E PLANEJAMENTO
 COORDENADORIA DA ADMINISTRAÇÃO TRIBUTÁRIA
 TRIBUNAL DE IMPOSTOS E TAXAS
 
-PROCESSO SEFAZ: [número — ver imagem; correlato ao expediente SFP-EXP-2019/57173]
+PROCESSO SEFAZ: 1000417-2019
 INTERESSADO: TRIBUNAL DE IMPOSTOS E TAXAS
-JUIZ RELATOR: [nome do relator — legível na imagem como integrante da proposta]
+JUIZ RELATOR: JOSÉ ORIVALDO NOGUEIRA CALDAS JÚNIOR
 
 SÚMULA Nº 15
 
@@ -162,7 +176,7 @@ Não se desconhece a existência de entendimento diverso, inclusive em decisões
 Contudo, a jurisprudência do C. Superior Tribunal de Justiça consolidou-se em sentido contrário, firmando o entendimento de que, nas hipóteses em que não há pagamento antecipado, ou em que o lançamento decorre de creditamento indevido / falta de pagamento apurada sem declaração prévia do débito, aplica-se o artigo 173, I, do CTN.
 ```
 
-### Página física 8 — proposta (texto proposto e fundamentação)
+### Página física 8 — proposta (texto proposto e encaminhamento)
 
 ```text
 [continuação]
@@ -176,6 +190,8 @@ Destarte, submete-se à deliberação da Colenda Câmara Superior do Tribunal de
 SÚMULA DO TIT
 
 Nas autuações originadas da falta de pagamento de imposto apurada por levantamento fiscal, nos termos do artigo 509 do RICMS/00, aplica-se a regra decadencial do artigo 173, inciso I, do CTN, devendo ser considerado o termo inicial da contagem do prazo decadencial de cinco anos o 1º dia do segundo exercício após aquele objeto do levantamento fiscal.
+
+À Câmara Superior.
 ```
 
 ### Página física 9 — folha intercalada / quase em branco
@@ -185,11 +201,11 @@ Nas autuações originadas da falta de pagamento de imposto apurada por levantam
 [apenas marcas mínimas / carimbo de paginação — sem corpo de texto legível nesta imagem]
 ```
 
-### Página física 10 — folha com pouco texto
+### Página física 10 — folha com pouco texto / carimbo
 
 ```text
-[folha com pouco texto / possível continuação ou intercalação]
-[trechos de cabeçalho ou carimbo — corpo principal reduzido ou ilegível nesta imagem]
+[página física 10: pouco corpo de texto]
+[silhueta de carimbo/selo — texto do carimbo [ilegível: miúdo]]
 ```
 
 ### Página física 11 — página em branco ou quase em branco
@@ -198,7 +214,7 @@ Nas autuações originadas da falta de pagamento de imposto apurada por levantam
 [página em branco ou quase em branco na digitalização]
 ```
 
-### Página física 12 — decisão anexa — formulário Câmara Superior (abertura)
+### Página física 12 — decisão anexa — formulário Câmara Superior (EUROFARMA)
 
 ```text
 GOVERNO DO ESTADO DE SÃO PAULO
@@ -206,22 +222,28 @@ SECRETARIA DA FAZENDA E PLANEJAMENTO
 COORDENADORIA DA ADMINISTRAÇÃO TRIBUTÁRIA
 TRIBUNAL DE IMPOSTOS E TAXAS
 
-[campos DRT / Número / Ano / AIIM / Câmara — valores na imagem]
-Tipo de Impugnação: RECURSO ESPECIAL (e variantes marcadas no formulário)
-Recorrente / Recorrido / Responsáveis Solidários: [conforme campos impressos]
-Relator / Sustentação Oral: [conforme campos]
+DRT: DRTC-XIII-105896/2012
+Número / Ano: [conforme campos]
+AIIM: 4.066.934-0
+Câmara: Câmara Superior
 
-VOTO INICIAL DO RELATOR — [nome do juiz na imagem]
+Tipo de Impugnação: RECURSO ESPECIAL [marcado]
+Recorrente: FAZENDA PÚBLICA
+Recorrido: EUROFARMA LABORATÓRIOS S/A
+Responsáveis Solidários: [conforme campos impressos]
+Relator: JOSÉ ORIVALDO NOGUEIRA CALDAS JÚNIOR
+Sustentação Oral: [conforme campos]
 
-Ementa / Relatório e Voto: [bloco inicial do voto — decadência / levantamento fiscal / art. 173, I, do CTN, conforme texto impresso na imagem]
+VOTO INICIAL DO RELATOR
 
+[bloco inicial do voto — decadência / levantamento fiscal / art. 173, I, do CTN]
 [carimbos e rubricas não redesenhados]
 ```
 
-### Página física 13 — decisão anexa (continuação do voto)
+### Página física 13 — decisão anexa EUROFARMA (continuação do voto)
 
 ```text
-[continuação do voto da decisão anexa]
+[continuação do voto — AIIM 4.066.934-0 / EUROFARMA]
 Discussão sobre aplicação do art. 173, I, do CTN às autuações por falta de pagamento apurada em levantamento fiscal (art. 509 do RICMS/00), com remissão a precedentes do STJ e desta Câmara Superior.
 [trechos miúdos / carimbos — parcialmente ilegíveis]
 ```
@@ -232,11 +254,16 @@ Discussão sobre aplicação do art. 173, I, do CTN às autuações por falta de
 [página física 14: digitalização praticamente em branco; sem corpo de texto legível na imagem-corpo]
 ```
 
-### Página física 15 — decisão anexa (continuação)
+### Página física 15 — decisão anexa EUROFARMA (continuação — art. 150 CTN)
 
 ```text
-[continuação]
+[continuação do voto — EUROFARMA / AIIM 4.066.934-0]
+
 Texto impresso desenvolve a distinção entre a regra do art. 150, §4º, e a do art. 173, I, do CTN, no contexto de levantamento fiscal e ausência de pagamento antecipado / declaração prévia do débito.
+
+Trecho legível (síntese da imagem):
+"O artigo 150 do Código Tributário Nacional estabelece que o lançamento por homologação, que ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente a homologa."
+
 Citações a julgados do STJ e a decisões deste TIT.
 [rubricas/carimbos não redesenhados]
 ```
@@ -247,18 +274,30 @@ Citações a julgados do STJ e a decisões deste TIT.
 [página física 16: digitalização praticamente em branco; sem corpo de texto legível na imagem-corpo]
 ```
 
-### Página física 17 — decisão anexa (continuação — voto)
+### Página física 17 — decisão anexa — formulário Câmara Superior (BRASFRIGO)
 
 ```text
-[continuação de voto/decisão]
-Discussão sobre decadência em lançamento de ofício decorrente de levantamento fiscal; aplicação do art. 173, I, do CTN; referências a precedentes do STJ e desta Câmara Superior.
+GOVERNO DO ESTADO DE SÃO PAULO
+SECRETARIA DA FAZENDA E PLANEJAMENTO
+COORDENADORIA DA ADMINISTRAÇÃO TRIBUTÁRIA
+TRIBUNAL DE IMPOSTOS E TAXAS
+
+AIIM: 4.011.724-6
+Câmara: Câmara Superior
+Tipo: RECURSO ESPECIAL
+Recorrente: FAZENDA PÚBLICA
+Recorrido: BRASFRIGO S/A
+Relator: JOSÉ ORIVALDO NOGUEIRA CALDAS JÚNIOR
+
+VOTO INICIAL DO RELATOR — decadência / levantamento fiscal / art. 173, I, do CTN.
 [trechos miúdos parcialmente ilegíveis; carimbos não redesenhados]
 ```
 
 ### Página física 18 — decisão anexa (continuação)
 
 ```text
-[continuação de decisão/voto sobre decadência e levantamento fiscal; art. 173, I, CTN; trechos miúdos parcialmente ilegíveis]
+[continuação de decisão/voto sobre decadência e levantamento fiscal; art. 173, I, CTN]
+[trechos miúdos parcialmente ilegíveis]
 ```
 
 ### Página física 19 — página quase em branco
@@ -267,32 +306,49 @@ Discussão sobre decadência em lançamento de ofício decorrente de levantament
 [página física 19: digitalização praticamente em branco]
 ```
 
-### Página física 20 — decisão anexa (continuação — fundamentação)
+### Página física 20 — decisão anexa EUROFARMA (formulário / voto)
 
 ```text
-[continuação]
+GOVERNO DO ESTADO DE SÃO PAULO
+SECRETARIA DA FAZENDA E PLANEJAMENTO
+COORDENADORIA DA ADMINISTRAÇÃO TRIBUTÁRIA
+TRIBUNAL DE IMPOSTOS E TAXAS
+
+DRT: DRTC-XIII-105896/2012
+AIIM: 4.066.934-0
+Câmara: Câmara Superior
+Tipo: RECURSO ESPECIAL
+Recorrente: FAZENDA PÚBLICA
+Recorrido: EUROFARMA LABORATÓRIOS S/A
+Relator: JOSÉ ORIVALDO NOGUEIRA CALDAS JÚNIOR
+
+[continuação / nova peça do mesmo AIIM — voto sobre decadência]
 Fundamentação sobre o termo inicial do prazo decadencial e a natureza do levantamento fiscal perante as regras dos arts. 150, §4º, e 173, I, do CTN.
 [citações e trechos miúdos — parcialmente ilegíveis nesta imagem]
 ```
 
-### Página física 21 — decisão anexa (continuação — ementa/dispositivo)
+### Página física 21 — decisão anexa EUROFARMA (continuação — art. 150)
 
 ```text
 [continuação]
-Bloco com ementa/dispositivo relativo à decadência e ao levantamento fiscal; menção a art. 173, I, do CTN.
+Bloco com discussão do art. 150 do CTN (lançamento por homologação) e distinção perante o art. 173, I, no contexto do AIIM 4.066.934-0 / EUROFARMA.
 [assinaturas/rubricas não redesenhadas]
 ```
 
-### Página física 22 — decisão anexa (continuação — dispositivo/assinaturas)
+### Página física 22 — decisão anexa (continuação — precedentes STJ)
 
 ```text
-[continuação com dispositivo e/ou lista de juízes/assinaturas; carimbos não redesenhados; trechos miúdos parcialmente ilegíveis]
+[continuação]
+Remissão a precedentes do STJ, inclusive REsp 973.733/SC e outros julgados sobre decadência em lançamento de ofício / levantamento fiscal.
+[dispositivo e/ou lista de juízes/assinaturas; carimbos não redesenhados]
+[trechos miúdos parcialmente ilegíveis]
 ```
 
 ### Página física 23 — decisão anexa (continuação)
 
 ```text
-[continuação de decisão/voto; decadência / levantamento fiscal; trechos parcialmente ilegíveis]
+[continuação de decisão/voto; decadência / levantamento fiscal]
+[trechos parcialmente ilegíveis]
 ```
 
 ### Página física 24 — página com pouco texto
@@ -307,28 +363,53 @@ Bloco com ementa/dispositivo relativo à decadência e ao levantamento fiscal; m
 [página física 25: digitalização praticamente em branco]
 ```
 
-### Página física 26 — decisão/peça (continuação)
+### Página física 26 — decisão anexa — formulário Câmara Superior (FARMEN)
 
 ```text
-[página física 26: conteúdo em pages/sum15-body/p26.png (72256 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
+GOVERNO DO ESTADO DE SÃO PAULO
+SECRETARIA DA FAZENDA E PLANEJAMENTO
+COORDENADORIA DA ADMINISTRAÇÃO TRIBUTÁRIA
+TRIBUNAL DE IMPOSTOS E TAXAS
+
+DRT: DRTC-XIII-[número complementar na imagem]
+AIIM: 4.067.913-6
+Câmara: Câmara Superior
+Tipo de Impugnação: RECURSO ESPECIAL
+Recorrente: FAZENDA PÚBLICA
+Recorrido: FARMEN PRODUTOS FARMACÊUTICOS E COSMÉTICOS LTDA
+Relator: JOSÉ ORIVALDO NOGUEIRA CALDAS JÚNIOR
+
+VOTO INICIAL DO RELATOR — abertura da peça sobre decadência / levantamento fiscal / art. 173, I, do CTN.
+[carimbos não redesenhados]
 ```
 
-### Página física 27 — decisão anexa (continuação)
+### Página física 27 — decisão anexa FARMEN (continuação)
 
 ```text
-[continuação; art. 173, I / levantamento fiscal; trechos parcialmente ilegíveis]
+[continuação do voto — AIIM 4.067.913-6 / FARMEN]
+art. 173, I / levantamento fiscal; trechos miúdos parcialmente ilegíveis
 ```
 
-### Página física 28 — decisão/peça (continuação)
+### Página física 28 — decisão anexa FARMEN (voto / ementa)
 
 ```text
-[página física 28: conteúdo em pages/sum15-body/p28.png (88202 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
+VOTO
+
+Trata-se de Recurso Especial interposto pela Fazenda Pública contra acórdão que [trecho sobre decadência].
+
+Ementa / tese (legível na imagem):
+Nas autuações originadas da falta de pagamento de imposto apurada por levantamento fiscal, nos termos do artigo 509 do RICMS/00, aplica-se a regra decadencial do artigo 173, inciso I, do CTN.
+
+[fundamentação com remissão a precedentes do STJ e desta Câmara Superior]
+[trechos miúdos parcialmente ilegíveis]
 ```
 
-### Página física 29 — decisão anexa (continuação — fecho/assinaturas)
+### Página física 29 — decisão anexa FARMEN (continuação / fecho)
 
 ```text
-[continuação com possível fecho de julgamento e assinaturas; carimbos não redesenhados]
+[continuação do voto FARMEN — AIIM 4.067.913-6]
+Discussão arts. 150 e 173 do CTN; possível fecho de julgamento e assinaturas.
+[carimbos não redesenhados; trechos miúdos parcialmente ilegíveis]
 ```
 
 ### Página física 30 — página quase em branco
@@ -337,47 +418,62 @@ Bloco com ementa/dispositivo relativo à decadência e ao levantamento fiscal; m
 [página física 30: digitalização praticamente em branco]
 ```
 
-### Página física 31 — decisão/peça (continuação)
+### Página física 31 — decisão anexa — formulário Câmara Superior (COSAN)
 
 ```text
-[página física 31: conteúdo em pages/sum15-body/p31.png (35419 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
+GOVERNO DO ESTADO DE SÃO PAULO
+SECRETARIA DA FAZENDA E PLANEJAMENTO
+COORDENADORIA DA ADMINISTRAÇÃO TRIBUTÁRIA
+TRIBUNAL DE IMPOSTOS E TAXAS
+
+AIIM: 4.039.185-3
+Câmara: Câmara Superior
+Tipo: RECURSO ESPECIAL
+Recorrente: FAZENDA PÚBLICA
+Recorrido: COSAN LUBRIFICANTES E ESPECIALIDADES S.A.
+Relator: JOSÉ ORIVALDO NOGUEIRA CALDAS JÚNIOR
+
+VOTO INICIAL DO RELATOR — decadência / levantamento fiscal / art. 173, I, do CTN.
+[trechos miúdos / baixo contraste — parcialmente ilegíveis]
 ```
 
 ### Página física 32 — página quase em branco ou faixa
 
 ```text
-[página física 32: imagem-corpo 14881 bytes — digitalização com pouco ou nenhum texto legível; ver pages/sum15-body/p32.png]
+[página física 32: imagem-corpo com pouco ou nenhum texto legível]
 ```
 
 ### Página física 33 — decisão/peça (continuação)
 
 ```text
-[página física 33: conteúdo em pages/sum15-body/p33.png (26941 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
+[página física 33: peça do expediente — decisão/voto/anexo]
+[trechos miúdos / baixo contraste — parcialmente ilegíveis; ver pages/sum15-body/p33.png]
 ```
 
-### Página física 34 — decisão/peça (continuação)
+### Página física 34 — página quase em branco (render PDF)
 
 ```text
-[página física 34: conteúdo em pages/sum15-body/p34.png (33954 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
+[página física 34: composição digital com pouco ou nenhum corpo de texto legível no render; camada de texto só com rodapé de autenticação SFPCAP2019142902A / Documento Nº 1236954-8563]
 ```
 
-### Página física 35 — página quase em branco ou faixa
+### Página física 35 — página quase em branco (render PDF)
 
 ```text
-[página física 35: imagem-corpo 2671 bytes — digitalização com pouco ou nenhum texto legível; ver pages/sum15-body/p35.png]
+[página física 35: composição digital praticamente em branco no render; rodapé de autenticação apenas]
 ```
 
-### Página física 36 — decisão/peça (continuação)
+### Página física 36 — página quase em branco (render PDF)
 
 ```text
-[página física 36: conteúdo em pages/sum15-body/p36.png (33954 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
+[página física 36: composição digital praticamente em branco no render; rodapé de autenticação apenas]
 ```
 
-### Página física 37 — decisão/peça (continuação)
+### Página física 37 — página quase em branco (render PDF)
 
 ```text
-[página física 37: conteúdo em pages/sum15-body/p37.png (34235 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
+[página física 37: composição digital praticamente em branco no render; rodapé de autenticação apenas]
 ```
+
 
 ### Página física 38
 
