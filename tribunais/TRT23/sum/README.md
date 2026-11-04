@@ -1,0 +1,52 @@
+# TRT23 · Súmula
+
+**48 registros.** [Voltar ao tribunal](../)
+
+- [SUM 1](trt23-sum-1.md) — Cancelada
+- [SUM 2](trt23-sum-2.md) — Cancelada
+- [SUM 3](trt23-sum-3.md) — Situação não informada
+- [SUM 4](trt23-sum-4.md) — Situação não informada
+- [SUM 5](trt23-sum-5.md) — Situação não informada
+- [SUM 6](trt23-sum-6.md) — Situação não informada
+- [SUM 7](trt23-sum-7.md) — Situação não informada
+- [SUM 8](trt23-sum-8.md) — Cancelada
+- [SUM 9](trt23-sum-9.md) — Situação não informada
+- [SUM 10](trt23-sum-10.md) — Cancelada
+- [SUM 11](trt23-sum-11.md) — Cancelada
+- [SUM 12](trt23-sum-12.md) — Situação não informada
+- [SUM 13](trt23-sum-13.md) — Situação não informada
+- [SUM 14](trt23-sum-14.md) — Cancelada
+- [SUM 15](trt23-sum-15.md) — Situação não informada
+- [SUM 16](trt23-sum-16.md) — Cancelada
+- [SUM 17](trt23-sum-17.md) — Cancelada
+- [SUM 18](trt23-sum-18.md) — Situação não informada
+- [SUM 19](trt23-sum-19.md) — Situação não informada
+- [SUM 20](trt23-sum-20.md) — Situação não informada
+- [SUM 21](trt23-sum-21.md) — Cancelada
+- [SUM 22](trt23-sum-22.md) — Situação não informada
+- [SUM 23](trt23-sum-23.md) — Situação não informada
+- [SUM 24](trt23-sum-24.md) — Situação não informada
+- [SUM 25](trt23-sum-25.md) — Situação não informada
+- [SUM 26](trt23-sum-26.md) — Situação não informada
+- [SUM 27](trt23-sum-27.md) — Situação não informada
+- [SUM 28](trt23-sum-28.md) — Situação não informada
+- [SUM 29](trt23-sum-29.md) — Situação não informada
+- [SUM 30](trt23-sum-30.md) — Situação não informada
+- [SUM 31](trt23-sum-31.md) — Situação não informada
+- [SUM 32](trt23-sum-32.md) — Situação não informada
+- [SUM 33](trt23-sum-33.md) — Situação não informada
+- [SUM 34](trt23-sum-34.md) — Situação não informada
+- [SUM 35](trt23-sum-35.md) — Situação não informada
+- [SUM 36](trt23-sum-36.md) — Situação não informada
+- [SUM 37](trt23-sum-37.md) — Situação não informada
+- [SUM 38](trt23-sum-38.md) — Situação não informada
+- [SUM 39](trt23-sum-39.md) — Cancelada
+- [SUM 40](trt23-sum-40.md) — Situação não informada
+- [SUM 41](trt23-sum-41.md) — Situação não informada
+- [SUM 42](trt23-sum-42.md) — Situação não informada
+- [SUM 43](trt23-sum-43.md) — Situação não informada
+- [SUM 44](trt23-sum-44.md) — Cancelada
+- [SUM 45](trt23-sum-45.md) — Situação não informada
+- [SUM 46](trt23-sum-46.md) — Cancelada
+- [SUM 47](trt23-sum-47.md) — Situação não informada
+- [SUM 48](trt23-sum-48.md) — Situação não informada
