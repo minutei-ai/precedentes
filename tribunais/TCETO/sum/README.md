@@ -12,7 +12,7 @@
 - [SUM 8](tceto-sum-8.md) — Situação jurídica atual não informada em campo próprio; PDF completo no portal de jurisprudência (158 p.); conferência visual de imagens grandes ainda pendente
 - [SUM 9](tceto-sum-9.md) — Situação jurídica atual não informada em campo próprio; PDF completo no portal de jurisprudência (163 p.); conferência visual de imagens grandes ainda pendente
 - [SUM 10](tceto-sum-10.md) — Situação jurídica atual não informada em campo próprio; PDF completo no portal de jurisprudência (121 p.); conferência visual de imagens grandes ainda pendente
-- [SUM 11](tceto-sum-11.md) — Situação jurídica atual não informada em campo próprio; PDF completo no portal de jurisprudência (92 p.); conferência visual de imagens grandes ainda pendente
+- [SUM 11](tceto-sum-11.md) — Situação jurídica atual não informada em campo próprio; PDF completo no portal de jurisprudência (92 p.); conferência visual das páginas com imagem grande concluída em 04/11/2026
 - [SUM 12](tceto-sum-12.md) — Situação jurídica atual não informada em campo próprio; PDF completo no portal de jurisprudência (122 p.); conferência visual de imagens grandes ainda pendente
 - [SUM 13](tceto-sum-13.md) — Situação jurídica atual não informada em campo próprio; PDF completo no portal de jurisprudência (116 p.); 18 páginas já transcritas (pp. 33–50); demais imagens grandes ainda pendentes
 - [SUM 14](tceto-sum-14.md) — Versão completa de 122 páginas recuperada no portal de jurisprudência em 04/11/2026; catálogo principal ainda aponta o botão completa à sintética

@@ -2171,7 +2171,8 @@ Os bytes do PDF foram conferidos em duas leituras independentes. O texto extraí
 
 #### Página 41 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-11.pdf, p. 41): renderização em branco com logotipo e número “41”.
+
 
                                   TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -3308,7 +3309,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 63 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-11.pdf, p. 63): renderização em branco com logotipo e número “63”.
+
 
     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -3330,7 +3332,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 65 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-11.pdf, p. 65): renderização em branco com logotipo e número “65”.
+
 
                                   TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
