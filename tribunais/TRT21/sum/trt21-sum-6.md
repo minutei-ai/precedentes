@@ -14,7 +14,15 @@ Texto integral do catálogo oficial, incluindo os vínculos dos incidentes e dos
 
 Os ícones ODS apresentados imediatamente após o verbete na fonte foram representados por seus vínculos, sem incorporar imagens ao acervo: [ODS 16](https://brasil.un.org/pt-br/sdgs/16) · [ODS 8](https://brasil.un.org/pt-br/sdgs/8) · [ODS 9](https://brasil.un.org/pt-br/sdgs/9).
 
-Os inteiros teores dos processos, acórdãos e resoluções referidos e as demais séries do tribunal não foram coletados neste lote.
+O PJe permanece com captcha (Resolução CSJT 139/2014). Canal oficial alternativo FALCÃO (jurisprudencia.jt.jus.br, coleção acórdãos) devolveu ementa e inteiro teor do IUJ deste verbete; o texto integral permanece em evidência privada e é documento de apoio (não gera novo ID). A Central de Consultas do TRT21 (apps) exige reCAPTCHA. Demais séries do tribunal não foram ampliadas neste lote.
+
+## IUJ recuperado via FALCÃO (canal oficial alternativo)
+
+O inteiro teor do IUJ `0000089-23.2017.5.21.0000` (idDocumentoAcordao `3092896`, Tribunal Pleno, relator JOSEANE DANTAS DOS SANTOS, julgamento 20/09/2018) foi obtido em 04/11/2026 pela API pública sem autenticação do [FALCÃO — jurisprudência nacional](https://jurisprudencia.jt.jus.br/jurisprudencia-nacional/pesquisa) (`colecao=acordaos`, tribunal TRT21), após bloqueio por captcha no PJe. Duas persistências privadas do payload coincidem (SHA-256 do pacote de textos `2e26793c14e285145d9873485be000fefa21e6bc6996837d35b59984e34a50d9`). O PDF/HTML completo permanece privado; não gera registro adicional.
+
+### Ementa (FALCÃO)
+
+Jurisprudência. Uniformização Incidente. EBCT. PCCS/1995. PCCS/2008. Enquadramento. Aplica-se o PCCS/2008 aos empregados da Empresa Brasileira de Correios e Telégrafos (EBCT), salvo quando existe opção expressa em relação ao Plano anterior, não se aplicando o entendimento da Súmula nº. 51 do TST, por não se tratar de alteração unilateral.
 
 ## Texto disponibilizado pela fonte
 
