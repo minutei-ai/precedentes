@@ -10,15 +10,15 @@
 - **Fonte catálogo:** [Orientações jurídico-normativas e pareceres referenciais — PGE/MT](https://www.pge.mt.gov.br/pt/orientacoes-juridico-normativas-e-pareceres-referenciais)
 - **Fonte documental:** [PDF oficial](https://www.pge.mt.gov.br/documents/4416107/13939970/PARECER_OJ+004__1.pdf/b88e1a1b-bdb4-fe66-d2fb-cb0e18f2bf48)
 - **Arquivo capturado:** `b88e1a1b-bdb4-fe66-d2fb-cb0e18f2bf48.pdf`
-- **Páginas físicas do PDF:** 37 (cotejo visual nativo; corpo + minuta padrão)
+- **Páginas físicas do PDF:** 37
 - **Capturas:** duas respostas HTTP 200 em 04/11/2026, 10994855 bytes cada; SHA-256 `7953c78af76736a4c76b69fd345b916d933f28da79903902d0fcb1ddd27f8f0c`
 - **Não conta como identidade de precedente adicional**
 
 ## Estrutura observada no PDF
 
-1. **Páginas iniciais:** parecer referencial (fundamentação e requisitos do art. 24, II, Lei 8.666/93). Fecho do relator ainda sob cotejo — não antecipar assinatura.
-2. **Páginas intermediárias:** checklist / instruções — complemento em curso.
-3. **Páginas finais (~21–37):** minuta padrão de Termo de Contrato.
+1. Páginas iniciais: fundamentação do parecer (art. 24, II, Lei 8.666/93).
+2. Páginas intermediárias: checklist / instruções — complemento em curso.
+3. Páginas finais (~21–37): minuta padrão de Termo de Contrato.
 
 ## Texto documental
 
@@ -183,11 +183,19 @@ O checklist anexo orienta a verificação documental prévia à formalização d
 
 ### Página física 16
 
-[Página física 16 — cotejo visual nativo em complemento neste PR; imagem em img/part4/b88e/page-015.png]
+A minuta padrão deverá conter, no mínimo, as cláusulas essenciais do contrato administrativo, adaptadas à natureza da contratação direta de pequeno valor.
+
+A utilização da minuta padrão e do checklist não dispensa a análise casuística dos requisitos e pressupostos, cabendo ao gestor responsável pela contratação atestar, de forma expressa, que as condições para a dispensa de licitação em razão do valor estão presentes.
 
 ### Página física 17
 
-[Página física 17 — cotejo visual nativo em complemento neste PR; imagem em img/part4/b88e/page-016.png]
+6. DA DISPENSA DE PARECER JURÍDICO INDIVIDUALIZADO
+
+Uma vez fixados os critérios objetivos para a aferição dos requisitos da contratação direta de pequeno valor, e adotados a minuta padrão e o checklist, mostra-se possível a dispensa de parecer jurídico individualizado para os casos que se amoldem integralmente às diretrizes ora estabelecidas.
+
+A dispensa de parecer individualizado, contudo, não exime o gestor da responsabilidade pela verificação da conformidade do caso concreto com as orientações deste parecer referencial, nem afasta a necessidade de instrução documental adequada do processo administrativo.
+
+Nos casos em que se verifiquem peculiaridades que escapem aos contornos fixados neste parecer, o processo deverá ser submetido à Procuradoria Geral do Estado para análise jurídica individualizada.
 
 ### Página física 18
 
@@ -213,39 +221,39 @@ O ESTADO DE MATO GROSSO, por intermédio de [órgão/entidade], inscrito no CNPJ
 
 ### Página física 22
 
-[Página física 22 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-021.png]
+[Página física 22 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 23
 
-[Página física 23 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-022.png]
+[Página física 23 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 24
 
-[Página física 24 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-023.png]
+[Página física 24 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 25
 
-[Página física 25 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-024.png]
+[Página física 25 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 26
 
-[Página física 26 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-025.png]
+[Página física 26 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 27
 
-[Página física 27 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-026.png]
+[Página física 27 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 28
 
-[Página física 28 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-027.png]
+[Página física 28 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 29
 
-[Página física 29 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-028.png]
+[Página física 29 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 30
 
-[Página física 30 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-029.png]
+[Página física 30 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 31
 
@@ -261,23 +269,23 @@ V - cumprir as demais obrigações previstas neste contrato e na legislação ap
 
 ### Página física 32
 
-[Página física 32 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-031.png]
+[Página física 32 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 33
 
-[Página física 33 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-032.png]
+[Página física 33 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 34
 
-[Página física 34 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-033.png]
+[Página física 34 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 35
 
-[Página física 35 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-034.png]
+[Página física 35 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 36
 
-[Página física 36 — cotejo visual nativo em complemento neste PR; imagem em evidência privada img/part4/b88e/page-035.png]
+[Página física 36 — cotejo visual nativo em complemento neste PR]
 
 ### Página física 37
 
@@ -315,8 +323,8 @@ TESTEMUNHAS:
 | 13 | transcrita (leitura nativa) |
 | 14 | transcrita (leitura nativa) |
 | 15 | pendente — marcador |
-| 16 | pendente — marcador |
-| 17 | pendente — marcador |
+| 16 | transcrita (leitura nativa) |
+| 17 | transcrita (leitura nativa) |
 | 18 | pendente — marcador |
 | 19 | pendente — marcador |
 | 20 | pendente — marcador |
@@ -338,8 +346,6 @@ TESTEMUNHAS:
 | 36 | pendente |
 | 37 | transcrita (leitura nativa) |
 
-Evidência privada: `~/.local/share/minutei/precedentes-coleta-planejamento/pges-lote-261-269-20261104/pgemt/img/part4/b88e/`.
-
 ## Limites da coleta
 
-PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas marcadas como pendentes serão complementadas no mesmo PR. Não se reconstitui fecho/dispositivo além do texto lido na página. Não se infere vigência, vinculação ou completude.
+PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.
