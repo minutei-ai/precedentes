@@ -9,7 +9,7 @@ As duas capturas HTML do catálogo retornaram HTTP 200 (166659 bytes cada). Os S
 | [02/2026](pgepb-parecer-ref-02-2026.md) | 8 | 591157 | `294bf9a06cdfcaed8654dd3d9065a764811b68bd2ff09ed1c294b45948968e0d` | Texto publicado; 8/8 páginas lidas visualmente |
 | [03/2026](pgepb-parecer-ref-03-2026.md) | 9 | 740108 | `03ee6f5989c91f60d007dd245f7fa92548d19fb89263348165c56f4a97331976` | Texto publicado; 9/9 páginas lidas visualmente |
 | 01/2026 (rótulo catálogo) | 35 | 4431413 | `48b4e5e60096b525d4bf9770e193d4321ecf8425c1a3e61b7e79346eed77cf83` | Captura dual OK; capa imprime `n. ____/2026` (número em branco); leitura visual integral pendente |
-| 0004/2025 | 20 | 1345192 | `465f30b2b841b8591f798753c0e7aeabdde0cc385ef8a0ce1958098aa332d67f` | Captura dual OK; número `0004/2025` na capa; leitura visual integral pendente |
+| [0004/2025](pgepb-parecer-ref-0004-2025.md) | 20 | 1345192 | `465f30b2b841b8591f798753c0e7aeabdde0cc385ef8a0ce1958098aa332d67f` | Texto publicado; 20/20 páginas lidas visualmente |
 | 0003/2025 | 57 | 2998370 | `b4adbc3c1d1af49662a86a9655177f11167535d24731c0d08892a6cdb65675f3` | Captura dual OK; número `0003/2025` na capa; leitura visual integral pendente |
 | 0003/2024 | 39 | 1527205 | `8c9fbf53e0e18593898161d3e3d9097456e728b101cdb81d9828236e6c028daf` | Captura dual OK; número `0003/2024` na capa; leitura visual integral pendente |
 
