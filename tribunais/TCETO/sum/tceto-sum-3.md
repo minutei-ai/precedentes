@@ -1052,16 +1052,17 @@ Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 21): 
     foi no valor de R$ 419.505,73, evidenciando que os bens e direitos são superiores às
     obrigações, conforme tabela abaixo:
                       Resumo do Ativo X Passivo e Patrimônio Líquido:
-    
-    
-    
-    
+
+    (conferência visual da tabela):
+    | Ativo | R$ 217.166,64 | Passivo + PL | R$ 217.166,64 |
+    | Ativo Circulante | 59.890,95 | Passivo Circulante | 69.162,39 |
+    | Ativo Não Circulante | 157.275,69 | Patrimônio Líquido | 148.004,25 |
+
             Apuração do Superávit/Déficit Financeiro
             Apuração do Superávit/Déficit Financeiro do Exercício de 2014:
-    
-    
-    
-    
+
+    (conferência visual): Ativo Financeiro R$ 59.890,95; Passivo Financeiro R$ 69.162,39; Déficit Financeiro R$ (9.271,44).
+
              10.5.1. Apura-se um superávit financeiro de R$ 39.383,27. Sendo que, o total
     das disponibilidades (Caixa e Equivalentes de Caixa) foi de R$ 326.365,32, evidenciando
     equilíbrio das contas públicas (art. 1º, § 1º da LC nº 101/00) da IN TCE/TO nº 02/2013.
@@ -1464,7 +1465,8 @@ Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 23): 
 
 #### Página 30 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF `jurisprudencia.tceto.tc.br/sumula/arquivo/sumula-3.pdf`, p. 30): texto do voto legível; tabela "Resumo da Receita e Despesa Orçamentária" preenchida e legível na imagem (valores abaixo). Logotipo TCE/TO no cabeçalho.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1506,16 +1508,20 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
     receitas realizadas e as despesas fixadas com as despesas executadas. Na sequência
     seguem os resumos das receitas e despesas orçamentárias, bem como o resultado da
     execução:
-    
-    
-    
-    
+
+    Resumo da Receita e Despesa Orçamentária (conferência visual da tabela na imagem):
+    | Descrição | Previsão / Fixação (R$) | Realização / Execução (R$) | Diferença (R$) |
+    | Receitas Orçamentárias | 703.800,00 | 649.661,97 | (54.138,03) |
+    | Despesas Orçamentárias | 703.800,00 | 701.843,55 | 1.956,45 |
+    | Resultado Orçamentário | — | (52.181,58) | — |
+
                                                                                            30
     
 
 #### Página 31 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 31): texto do voto legível; quadros "Resumo do Ativo X Passivo e Patrimônio Líquido", "Apuração do Superávit/Déficit Financeiro" e "Disponibilidade Financeira X Obrigações a Pagar" preenchidos e legíveis (valores abaixo).
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1560,7 +1566,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 32 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 32): texto do voto legível; quadro "Disponibilidade Financeira X Obrigações a Pagar" preenchido na imagem (Caixa e Equivalentes R$ 59.890,95; Obrigações a Pagar R$ 69.162,39; insuficiência R$ 9.271,44); continuações de determinações 1–3 legíveis.
+
 
                      TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1568,10 +1575,15 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
     
     
                         Disponibilidade Financeira X Obrigações a Pagar:
-    
-    
-    
-    
+
+    (conferência visual da tabela):
+    | Caixa e Equivalentes de Caixa | R$ 59.890,95 |
+    | (-) Depósitos Restituíveis e Valores Vinculados | R$ 0,00 |
+    | Depositários Diversos / consignações | R$ 0,00 |
+    | Total das Disponibilidades | R$ 59.890,95 |
+    | Obrigações a Pagar (Passivo Financeiro) | R$ 69.162,39 |
+    | Suficiência / (Insuficiência) Financeira | R$ (9.271,44) |
+
              10.6.1. Demonstra-se suficiência financeira para cobertura das obrigações a curto
     prazo.
     
@@ -1662,7 +1674,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 34 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 34): texto do voto legível; sem quadro adicional além do texto extraível; logotipo e nº 34 no rodapé.
+
 
                  TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1705,7 +1718,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 35 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 35): texto do voto/dispositivo legível; logotipo e nº 35.
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1844,7 +1858,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 38 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 38): renderização em branco com logotipo e número “38”; sem quadro preenchido legível além do texto extraível mínimo.
+
 
     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1856,7 +1871,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 39 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 39): renderização em branco com logotipo e número “39”.
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1884,7 +1900,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 40 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 40): a imagem da página exibe tabela “Demonstrativo das Receitas e Gastos com Saúde” (Base de Cálculo R$ 1.175.947,94; Despesas com ASPS R$ 224.596,53; 19,10% — rótulos de FUNDO MUNICIPAL DE SAÚDE DE ITAPIRATINS na figura); o texto extraível da mesma página trata da Carta Convite nº 03/2014 (Portal Distribuidora). Divergência imagem×camada textual preservada sem reconciliação inventada; logotipo e nº 40.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     

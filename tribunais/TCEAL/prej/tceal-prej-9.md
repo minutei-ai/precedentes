@@ -4,7 +4,7 @@
 - **Espécie:** Prejulgado
 - **Número:** 9
 - **Identificador:** `tceal-prej-9`
-- **Situação na fonte:** Disponível no catálogo; situação jurídica atual não informada
+- **Situação na fonte:** Disponível no catálogo; leitura visual nativa em 04/11/2026 com renderização insuficiente — corpo marcado ilegível; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEAL — Prejulgado e julgados de referência](https://www.tceal.tc.br//view/publicacao_sumulas.php?cc=MTY=&td=NTQ=)
 
@@ -18,15 +18,19 @@ Campo literal de data no catálogo: Data Publicação Diário: 17/05/2017. Esse 
 
 [Abrir o PDF oficial](https://www.tceal.tc.br//view/documentos/doc290520192018400000005ceee920dbff1.pdf), 2 página(s). O portal vincula este documento à ficha; o conteúdo pode incluir relatório, voto, proposta de súmula, publicação no Diário e outros atos da mesma página. Esses trechos são contexto documental, não enunciados adicionais.
 
-Inteiro teor documental pendente em 2 página(s) sem camada textual extraível. O resumo e as notas do catálogo permanecem abaixo, sem reconstruir o texto das imagens.
+Reconsulta e leitura visual nativa em 04/11/2026: PDF oficial HTTP 200 (1.878.506 bytes, 2 páginas; SHA-256 `b52d8d902243c121b4387e65ff3311d146ceb09798910c5a0b377e6b76cd8f75`). Read(PDF) nativo: páginas predominantemente em branco (logotipo residual); sem transcrição segura. Ementa do catálogo preservada abaixo.
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS
+    [logotipo DOE visível]
+    [ilegível: corpo do Prejulgado n. 09 — renderização em branco]
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    [ilegível: continuação do Prejulgado n. 09 — renderização em branco]
+
+Observações da conferência visual: Páginas físicas 1–2 de 2.
 
 ## Ementa
 

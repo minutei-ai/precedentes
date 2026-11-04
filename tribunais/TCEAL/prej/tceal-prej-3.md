@@ -4,7 +4,7 @@
 - **Espécie:** Prejulgado
 - **Número:** 3
 - **Identificador:** `tceal-prej-3`
-- **Situação na fonte:** Disponível no catálogo; situação jurídica atual não informada
+- **Situação na fonte:** Disponível no catálogo; leitura visual nativa em 04/11/2026 com renderização insuficiente — corpo marcado ilegível; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEAL — Prejulgado e julgados de referência](https://www.tceal.tc.br//view/publicacao_sumulas.php?cc=MTY=&td=NTQ=)
 
@@ -18,15 +18,19 @@ Campo literal de data no catálogo: Data Publicação Diário: 15/01/2015. Esse 
 
 [Abrir o PDF oficial](https://www.tceal.tc.br//view/documentos/doc230520191606480000005ce6c5188fad6.pdf), 2 página(s). O portal vincula este documento à ficha; o conteúdo pode incluir relatório, voto, proposta de súmula, publicação no Diário e outros atos da mesma página. Esses trechos são contexto documental, não enunciados adicionais.
 
-Inteiro teor documental pendente em 2 página(s) sem camada textual extraível. O resumo e as notas do catálogo permanecem abaixo, sem reconstruir o texto das imagens.
+Reconsulta e leitura visual nativa em 04/11/2026: PDF oficial HTTP 200 (2.038.059 bytes, 2 páginas; SHA-256 `9607be54eebfe673f9b0fa0171829e050d510af695767d251d0a2a184db62da5`). Read(PDF) nativo renderizou páginas predominantemente em branco (apenas logotipo residual); densidade/encoding da digitalização do DOE impede transcrição segura linha a linha. A ementa do catálogo permanece abaixo, sem reconstrução.
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS
+    [logotipo DOE visível]
+    [ilegível: corpo do Prejulgado n. 03 / painéis do DOE — renderização em branco]
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    [ilegível: continuação / ementa impressa no DOE — renderização em branco]
+
+Observações da conferência visual: Páginas físicas 1–2 de 2. Sem reconstrução a partir da ementa do catálogo.
 
 ## Ementa
 
