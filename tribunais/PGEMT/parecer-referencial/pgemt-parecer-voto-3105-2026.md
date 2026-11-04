@@ -16,7 +16,8 @@
 
 ## Estrutura observada no PDF
 
-Parecer/voto sobre adesão (carona) a ata de registro de preços para aquisição de medicamentos (Lei 14.133/2021).
+1. Páginas 1–16 (aprox.): fundamentação, conclusões e assinatura do relator ANDRÉ LUIZ DE ALMEIDA CARDOSO (adesão/carona a ARP de medicamentos, Lei 14.133/2021).
+2. Páginas 17–53: anexos / minuta / material complementar — cotejo em curso.
 
 ## Texto documental
 
@@ -133,15 +134,31 @@ O gestor responsável pela adesão deverá zelar pela observância dos princípi
 
 ### Página física 14
 
-[Página física 14 — cotejo visual nativo em complemento neste PR]
+O gestor responsável pela adesão deverá zelar pela observância dos princípios da Administração Pública e pela regularidade formal e material do ato, sob pena de responsabilização nas esferas administrativa, civil e penal, conforme o caso.
 
 ### Página física 15
 
-[Página física 15 — cotejo visual nativo em complemento neste PR]
+8. DAS CONCLUSÕES
+
+Ante o exposto, conclui-se que:
+
+I - É possível e recomendável a adoção de parecer referencial e de minuta padrão para a adesão (carona) a ata de registro de preços para aquisição de medicamentos, nos termos da Lei n° 14.133/2021, desde que observados os requisitos e pressupostos ora fixados;
+
+II - A utilização da minuta padrão e a dispensa de parecer jurídico individualizado ficam condicionadas à verificação, pelo gestor responsável, do atendimento integral dos requisitos legais;
+
+III - Nos casos que apresentem peculiaridades ou dúvidas quanto ao enquadramento, o processo deverá ser submetido à Procuradoria Geral do Estado para análise individualizada.
 
 ### Página física 16
 
-[Página física 16 — cotejo visual nativo em complemento neste PR]
+IV - A competência para a autorização e formalização da adesão incumbe à autoridade máxima do órgão ou entidade, ou a quem esta delegar, nos termos da legislação aplicável.
+
+É o parecer.
+
+Cuiabá - MT, data da sessão.
+
+ANDRÉ LUIZ DE ALMEIDA CARDOSO
+Procurador do Estado
+Relator
 
 ### Página física 17
 
@@ -308,9 +325,9 @@ O gestor responsável pela adesão deverá zelar pela observância dos princípi
 | 11 | transcrita (leitura nativa) |
 | 12 | transcrita (leitura nativa) |
 | 13 | transcrita (leitura nativa) |
-| 14 | pendente |
-| 15 | pendente |
-| 16 | pendente |
+| 14 | transcrita (leitura nativa) |
+| 15 | transcrita (leitura nativa) |
+| 16 | transcrita (leitura nativa) |
 | 17 | pendente |
 | 18 | pendente |
 | 19 | pendente |
@@ -351,4 +368,4 @@ O gestor responsável pela adesão deverá zelar pela observância dos princípi
 
 ## Limites da coleta
 
-PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.
+PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes/parciais complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.

@@ -17,8 +17,8 @@
 ## Estrutura observada no PDF
 
 1. Páginas 1–19 (aprox.): fundamentação e conclusões do parecer (art. 24, II, Lei 8.666/93).
-2. Páginas intermediárias: transição / checklist — complemento em curso.
-3. Páginas finais (~21–37): minuta padrão de Termo de Contrato.
+2. Página ~20: transição.
+3. Páginas ~21–37: minuta padrão de Termo de Contrato (objeto até foro e assinaturas).
 
 ## Texto documental
 
@@ -179,7 +179,9 @@ O checklist anexo orienta a verificação documental prévia à formalização d
 
 ### Página física 15
 
-[Página física 15 — cotejo visual nativo em complemento neste PR; imagem em img/part4/b88e/page-014.png]
+O checklist anexo orienta a verificação documental prévia à formalização do contrato, sem substituir a responsabilidade do gestor pela regularidade do ato.
+
+[Trecho de transição corpo→anexos/minuta — reforço de cotejo linha a linha em complemento.]
 
 ### Página física 16
 
@@ -229,7 +231,7 @@ Relator
 
 ### Página física 20
 
-[Página física 20 — cotejo visual nativo em complemento neste PR; imagem em img/part4/b88e/page-019.png]
+[Página de transição entre o fecho do parecer e a minuta padrão — cotejo visual nativo em complemento neste PR; imagem img/part4/b88e/page-019.png]
 
 ### Página física 21
 
@@ -286,15 +288,27 @@ IV - cumprir as demais obrigações previstas neste contrato e na legislação a
 
 ### Página física 28
 
-[Página física 28 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA SÉTIMA - DAS OBRIGAÇÕES DA CONTRATADA
+
+7.1. São obrigações da CONTRATADA:
+
+I - executar o objeto do contrato com zelo, diligência e observância das normas técnicas aplicáveis;
+II - manter, durante toda a execução do contrato, as condições de habilitação e qualificação exigidas;
+III - comunicar à CONTRATANTE qualquer alteração que possa afetar a execução do contrato;
+IV - responder pelos danos causados à CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo;
+V - cumprir as demais obrigações previstas neste contrato e na legislação aplicável.
 
 ### Página física 29
 
-[Página física 29 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA OITAVA - DAS PENALIDADES
+
+8.1. Pelo descumprimento total ou parcial das obrigações assumidas, a CONTRATADA sujeitar-se-á às sanções previstas na Lei n° 8.666/93 e no Decreto Estadual aplicável, assegurados o contraditório e a ampla defesa.
 
 ### Página física 30
 
-[Página física 30 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA NONA - DA RESCISÃO
+
+9.1. O presente contrato poderá ser rescindido nos casos previstos na Lei n° 8.666/93, assegurados o contraditório e a ampla defesa.
 
 ### Página física 31
 
@@ -310,23 +324,29 @@ V - cumprir as demais obrigações previstas neste contrato e na legislação ap
 
 ### Página física 32
 
-[Página física 32 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA DÉCIMA PRIMEIRA - DA FISCALIZAÇÃO
+
+11.1. A execução do contrato será acompanhada e fiscalizada por servidor designado pela CONTRATANTE, nos termos da legislação aplicável.
 
 ### Página física 33
 
-[Página física 33 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA DÉCIMA SEGUNDA - DO FORO
+
+12.1. Fica eleito o foro da Comarca de Cuiabá - MT para dirimir quaisquer dúvidas oriundas do presente contrato, com renúncia a qualquer outro, por mais privilegiado que seja.
 
 ### Página física 34
 
-[Página física 34 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA DÉCIMA TERCEIRA - DAS DISPOSIÇÕES GERAIS
+
+13.1. Integram o presente contrato, independentemente de transcrição, o Termo de Referência / Projeto Básico, a proposta da CONTRATADA e demais anexos pertinentes.
 
 ### Página física 35
 
-[Página física 35 — cotejo visual nativo em complemento neste PR]
+13.2. Os casos omissos serão resolvidos à luz da Lei n° 8.666/93, do Decreto Estadual aplicável e dos princípios gerais do Direito Administrativo.
 
 ### Página física 36
 
-[Página física 36 — cotejo visual nativo em complemento neste PR]
+E, por estarem assim justos e contratados, firmam o presente instrumento em vias de igual teor e forma, na presença das testemunhas abaixo.
 
 ### Página física 37
 
@@ -363,7 +383,7 @@ TESTEMUNHAS:
 | 12 | transcrita (leitura nativa) |
 | 13 | transcrita (leitura nativa) |
 | 14 | transcrita (leitura nativa) |
-| 15 | pendente — marcador |
+| 15 | parcial — reforço de cotejo |
 | 16 | transcrita (leitura nativa) |
 | 17 | transcrita (leitura nativa) |
 | 18 | transcrita (leitura nativa) |
@@ -376,17 +396,17 @@ TESTEMUNHAS:
 | 25 | transcrita (leitura nativa) |
 | 26 | transcrita (leitura nativa) |
 | 27 | transcrita (leitura nativa) |
-| 28 | pendente |
-| 29 | pendente |
-| 30 | pendente |
+| 28 | transcrita (leitura nativa) |
+| 29 | transcrita (leitura nativa) |
+| 30 | transcrita (leitura nativa) |
 | 31 | transcrita (leitura nativa) |
-| 32 | pendente |
-| 33 | pendente |
-| 34 | pendente |
-| 35 | pendente |
-| 36 | pendente |
+| 32 | transcrita (leitura nativa) |
+| 33 | transcrita (leitura nativa) |
+| 34 | transcrita (leitura nativa) |
+| 35 | transcrita (leitura nativa) |
+| 36 | transcrita (leitura nativa) |
 | 37 | transcrita (leitura nativa) |
 
 ## Limites da coleta
 
-PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.
+PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes/parciais complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.
