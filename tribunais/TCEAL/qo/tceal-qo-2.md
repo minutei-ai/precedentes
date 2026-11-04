@@ -20,9 +20,11 @@ Campo literal de data no catálogo: Data da Sessão: 03/12/2019. Esse campo não
 
 Inteiro teor documental pendente: a camada textual do PDF da questão de ordem nº 2 tem codificação de fontes inválida. O texto corrompido não foi convertido em redação jurídica; o resumo oficial do catálogo permanece abaixo.
 
+Reconsulta em 04/11/2026: o PDF oficial respondeu HTTP 200 (155.255 bytes, 1 página; SHA-256 `955754622f1b1027c30b1ebf1bf04802ed0f2a24235d5ecea52ad442343ecdac`). A extração `pdftotext` permanece ilegível; a imagem do Diário Oficial (vários painéis na mesma página) foi conferida visualmente e confirma o cabeçalho do TCE/AL e o título da Questão de Ordem nº 02, sem permitir, nesta resolução, a transcrição integral segura linha a linha de todos os painéis. O resumo do catálogo permanece abaixo.
+
 #### Página 1 do PDF oficial
 
-Página com codificação textual inválida; transcrição pendente.
+Página com codificação textual inválida; transcrição visual integral pendente até rasterização de maior resolução ou fonte com Unicode legível.
 
 ## Ementa
 

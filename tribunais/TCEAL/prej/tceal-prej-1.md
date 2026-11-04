@@ -20,13 +20,15 @@ Campo literal de data no catálogo: Data Publicação Diário: 14/06/2013. Esse 
 
 Inteiro teor documental pendente em 2 página(s) sem camada textual extraível. O resumo e as notas do catálogo permanecem abaixo, sem reconstruir o texto das imagens.
 
+Reconsulta em 04/11/2026: o PDF oficial respondeu HTTP 200 (2.111.243 bytes, 2 páginas; SHA-256 `c4cf8757dbcd1c466ae55b02c1fe67a28ba0adef0869e1fd26452d7e26beacc9`). A imagem confirma publicação no Diário Oficial Eletrônico do TCE/AL com o Prejulgado n. 01; a densidade da digitalização não permitiu transcrição integral segura linha a linha nesta passagem.
+
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+Página sem camada textual extraível; transcrição visual integral pendente.
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+Página sem camada textual extraível; transcrição visual integral pendente.
 
 ## Ementa
 

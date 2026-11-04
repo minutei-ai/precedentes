@@ -2,7 +2,7 @@
 
 **91 registros.** [Voltar ao tribunal](../)
 
-- [SUM 1](tcems-sum-1.md) — Cancelada no catálogo; inteiro teor pendente por PDF divergente (nº 2)
+- [SUM 1](tcems-sum-1.md) — Cancelada; PDF Alfresco ainda com corpo da nº 2; enunciado no Anexo da Deliberação nº 32/2021; livro Anotadas pendente
 - [SUM 2](tcems-sum-2.md) — Cancelada no nome do documento oficial
 - [SUM 3](tcems-sum-3.md) — Cancelada no nome do documento oficial
 - [SUM 4](tcems-sum-4.md) — Cancelada no nome do documento oficial
