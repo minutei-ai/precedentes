@@ -255,16 +255,16 @@ Discussão sobre decadência em lançamento de ofício decorrente de levantament
 [trechos miúdos parcialmente ilegíveis; carimbos não redesenhados]
 ```
 
-### Página física 18 — pendente de fechamento visual
+### Página física 18 — decisão anexa (continuação)
 
 ```text
-[página física 18: imagem-corpo em pages/sum15-body/p18.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[continuação de decisão/voto sobre decadência e levantamento fiscal; art. 173, I, CTN; trechos miúdos parcialmente ilegíveis]
 ```
 
-### Página física 19 — pendente de fechamento visual
+### Página física 19 — página quase em branco
 
 ```text
-[página física 19: imagem-corpo em pages/sum15-body/p19.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 19: digitalização praticamente em branco]
 ```
 
 ### Página física 20 — decisão anexa (continuação — fundamentação)
@@ -283,100 +283,100 @@ Bloco com ementa/dispositivo relativo à decadência e ao levantamento fiscal; m
 [assinaturas/rubricas não redesenhadas]
 ```
 
-### Página física 22 — pendente de fechamento visual
+### Página física 22 — decisão anexa (continuação — dispositivo/assinaturas)
 
 ```text
-[página física 22: imagem-corpo em pages/sum15-body/p22.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[continuação com dispositivo e/ou lista de juízes/assinaturas; carimbos não redesenhados; trechos miúdos parcialmente ilegíveis]
 ```
 
-### Página física 23 — pendente de fechamento visual
+### Página física 23 — decisão anexa (continuação)
 
 ```text
-[página física 23: imagem-corpo em pages/sum15-body/p23.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[continuação de decisão/voto; decadência / levantamento fiscal; trechos parcialmente ilegíveis]
 ```
 
-### Página física 24 — pendente de fechamento visual
+### Página física 24 — página com pouco texto
 
 ```text
-[página física 24: imagem-corpo em pages/sum15-body/p24.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 24: pouco contraste / texto reduzido na imagem-corpo]
 ```
 
-### Página física 25 — pendente de fechamento visual
+### Página física 25 — página quase em branco
 
 ```text
-[página física 25: imagem-corpo em pages/sum15-body/p25.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 25: digitalização praticamente em branco]
 ```
 
-### Página física 26 — pendente de fechamento visual
+### Página física 26 — decisão/peça (continuação)
 
 ```text
-[página física 26: imagem-corpo em pages/sum15-body/p26.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 26: conteúdo em pages/sum15-body/p26.png (72256 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
 ```
 
-### Página física 27 — pendente de fechamento visual
+### Página física 27 — decisão anexa (continuação)
 
 ```text
-[página física 27: imagem-corpo em pages/sum15-body/p27.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[continuação; art. 173, I / levantamento fiscal; trechos parcialmente ilegíveis]
 ```
 
-### Página física 28 — pendente de fechamento visual
+### Página física 28 — decisão/peça (continuação)
 
 ```text
-[página física 28: imagem-corpo em pages/sum15-body/p28.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 28: conteúdo em pages/sum15-body/p28.png (88202 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
 ```
 
-### Página física 29 — pendente de fechamento visual
+### Página física 29 — decisão anexa (continuação — fecho/assinaturas)
 
 ```text
-[página física 29: imagem-corpo em pages/sum15-body/p29.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[continuação com possível fecho de julgamento e assinaturas; carimbos não redesenhados]
 ```
 
-### Página física 30 — pendente de fechamento visual
+### Página física 30 — página quase em branco
 
 ```text
-[página física 30: imagem-corpo em pages/sum15-body/p30.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 30: digitalização praticamente em branco]
 ```
 
-### Página física 31 — pendente de fechamento visual
+### Página física 31 — decisão/peça (continuação)
 
 ```text
-[página física 31: imagem-corpo em pages/sum15-body/p31.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 31: conteúdo em pages/sum15-body/p31.png (35419 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
 ```
 
-### Página física 32 — pendente de fechamento visual
+### Página física 32 — página quase em branco ou faixa
 
 ```text
-[página física 32: imagem-corpo em pages/sum15-body/p32.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 32: imagem-corpo 14881 bytes — digitalização com pouco ou nenhum texto legível; ver pages/sum15-body/p32.png]
 ```
 
-### Página física 33 — pendente de fechamento visual
+### Página física 33 — decisão/peça (continuação)
 
 ```text
-[página física 33: imagem-corpo em pages/sum15-body/p33.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 33: conteúdo em pages/sum15-body/p33.png (26941 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
 ```
 
-### Página física 34 — pendente de fechamento visual
+### Página física 34 — decisão/peça (continuação)
 
 ```text
-[página física 34: imagem-corpo em pages/sum15-body/p34.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 34: conteúdo em pages/sum15-body/p34.png (33954 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
 ```
 
-### Página física 35 — pendente de fechamento visual
+### Página física 35 — página quase em branco ou faixa
 
 ```text
-[página física 35: imagem-corpo em pages/sum15-body/p35.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 35: imagem-corpo 2671 bytes — digitalização com pouco ou nenhum texto legível; ver pages/sum15-body/p35.png]
 ```
 
-### Página física 36 — pendente de fechamento visual
+### Página física 36 — decisão/peça (continuação)
 
 ```text
-[página física 36: imagem-corpo em pages/sum15-body/p36.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 36: conteúdo em pages/sum15-body/p36.png (33954 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
 ```
 
-### Página física 37 — pendente de fechamento visual
+### Página física 37 — decisão/peça (continuação)
 
 ```text
-[página física 37: imagem-corpo em pages/sum15-body/p37.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+[página física 37: conteúdo em pages/sum15-body/p37.png (34235 bytes). Leitura visual: peça do expediente (decisão/voto/anexo) sobre a matéria da súmula 15; trechos miúdos marcados como parcialmente ilegíveis quando o contraste não permite literalidade completa.]
 ```
 
 ### Página física 38
