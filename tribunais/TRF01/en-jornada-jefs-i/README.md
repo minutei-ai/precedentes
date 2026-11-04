@@ -8,6 +8,8 @@ Tribunal Regional Federal da 1ª Região (TRF1). **30 enunciados** publicados no
 
 ## Fontes e proveniência
 
+O caderno está hospedado em conta externa do FlipHTML5, fora do domínio institucional. A atribuição da Jornada decorre das notícias institucionais e da capa do caderno, não da titularidade da conta hospedante.
+
 O [caderno em flipbook FlipHTML5](https://online.fliphtml5.com/puuye/enax/) contém os enunciados aprovados nas páginas físicas 15–16 e foi divulgado pela [notícia do TRF1 sobre acesso ao caderno](https://www.trf1.jus.br/trf1/noticias/caderno-da-1-jornada-dos-juizados-especiais-federais-ja-pode-ser-acessado-). A [notícia da apresentação na Rede de Inteligência](https://www.trf1.jus.br/trf1/noticias/caderno-da-i-jornada-dos-jefs-da-1-regiao-e-apresentado-em-reuniao-da-rede-de-inteligencia-) aponta o mesmo flipbook. O caderno tem 58 páginas; o bloco jurídico dos enunciados está nas páginas 15–16, organizado em cinco comissões temáticas (números 01–30).
 
 Capturas privadas do lote `lote-191-251-20261104/trf01-jornada-jefs/` incluem as notícias HTML, o `search_config.js` com `textForPages`, e as 58 páginas em WebP/PNG. A camada textual e as páginas 15–16 foram cotejadas visualmente. O flipbook e as notícias não publicam votação individual por item.
