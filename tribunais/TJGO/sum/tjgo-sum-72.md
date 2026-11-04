@@ -28,4 +28,18 @@ Competência privativa dos Juizados Especiais das Fazendas Públicas - Ações e
 
 [Consultar documento 537424 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/537424)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 537424, com 23,197 bytes. SHA-256 `d70fb1048fc4b37b3e3466ce8aa6376749e6879711cb00c94c8fc1301d385105`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+Súmula nº 72
+ENUNCIADO: 72-É da competência privativa dos Juizados Especiais das Fazendas Públicas o processo e julgamento das ações envolvendo direitos ou interesses difusos, coletivos e individuais homogêneos exercidos por meio de ações propostas individualmente pelos seus titulares ou substitutos processuais, atendidos os requisitos legais.
+DATA DA APROVAÇÃO:
+Sessão do Órgão Especial de 11/12/2019.
+PRECEDENTES: Conflitos de Competência 5480293-14, 5328435-33, 5462108-25, 5020063-71, 5300526-16, 5327883-68, 5502404-89, 5030881-82, 5526505-93 e 5526641-90.
+Desembargador NICOMEDES DOMINGOS BORGES
+Vice - Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

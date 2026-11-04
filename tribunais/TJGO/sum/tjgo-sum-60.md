@@ -32,4 +32,18 @@ Desnecessária intimação do consumidor para juntar o contrato de consumo diant
 
 [Consultar documento 496593 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/496593)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 496593, com 35,698 bytes. SHA-256 `6b4ec089c268c308163faeec353f4f2ef8bda3cd9e9476eb7c06481f9d0d2d1e`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+Súmula nº 60
+ENUNCIADO: Desnecessária a intimação do consumidor para juntar o contrato de consumo diante da possibilidade de inversão do ônus da prova, quando requerida na petição inicial, se constatada maior facilidade da fornecedora de produto ou serviço anexar cópia do documento, nos termos do art. 373, § 1º, CPC.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 17/09/2018.
+PRECEDENTES: AI 5306803-53.2016.8.09.0000; AI 5233487-07.2016.8.09.0000; AC 0372125-83.2015.8.09.0051.
+Desembargador GILBERTO MARQUES FILHO
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

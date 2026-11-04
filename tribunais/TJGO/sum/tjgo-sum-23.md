@@ -32,4 +32,17 @@ Ações de responsabilidade civil do fornecedor por fato do produto ou do servi�
 
 [Consultar documento 435157 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/435157)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 435157, com 68,042 bytes. SHA-256 `1bfbee1ee1647a9fb2fa409953d43c4e8adbda9c7f0320cb6aa5c1156f4307f4`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+NCIADO: Nas ações que envolvam responsabilidade civil do fornecedor por fato do produto ou do serviço, e por vícios de qualidade e quantidade de produtos ou serviços, caracterizada a relação de consumo, descabe a denunciação a lide, por desnecessária ao exercício de posterior direito de regresso.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 19/09/2016.
+PRECEDENTES: AI n.º 356001-81.2015.8.09.0000; AC n.º 30282-51.2014.8.09.0051; AI n.º 404713-05.2015.8.09.0000; AI n.º 5497-13.2016.8.09.0000; AI n.º 5239-03.2016.8.09.0000.
+Desembargador LEOBINO VALENTE CHAVES
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

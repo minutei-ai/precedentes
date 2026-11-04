@@ -32,4 +32,18 @@
 
 [Consultar documento 435150 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/435150)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 435150, com 60,650 bytes. SHA-256 `18ab3f19e8018dd858b031a537c21c6a8851c1a60c0378d1e903d8403e37a4b2`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+Súmula nº 16
+ENUNCIADO: É abusiva a cláusula contratual que exclui tratamento domiciliar quando prescrito como essencial para garantir a saúde e a vida do segurado.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 19/09/2016.
+PRECEDENTES: AC n.º 161602-64.2013.8.09.0051; AI n.º 401224-57.2015.8.09.0000; AC n.º 276666-64.2009.8.09.0051; AI n.º 266786-94.2015.8.09.0000; AC n.º 64494-98.2014.8.09.0051.
+Desembargador LEOBINO VALENTE CHAVES
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
