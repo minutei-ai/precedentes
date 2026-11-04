@@ -16,14 +16,46 @@ SÚMULA Nº 52
 
 RESTABELECIMENTO DO PLANO DE SAÚDE EMPRESARIAL. EMPREGADO DISPENSADO SEM JUSTA CAUSA OU APOSENTADO. SISTEMA DE COPARTICIPAÇÃO DO EMPREGADO SOMENTE EM PROCEDIMENTOS. INAPLICABILIDADE DOS ARTIGOS 30 E 31 DA LEI N. 9.656/1998. A teor do §6° do art. 30 da Lei Nº 9.656/98, a coparticipação do trabalhador única e exclusivamente em procedimentos relativos à assistência médica ou hospitalar não é considerada contribuição. Em tal situação, o empregado - dispensado sem justa causa ou aposentado - não faz jus à manutenção do plano de saúde empresarial prevista no caput dos arts. 30 e 31 da referida Lei, por ausência de contribuição.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: SÚMULA Nº 52 - RESTABELECIMENTO DO PLANO DE SAÚDE EMPRESARIAL. EMPREGADO DISPENSADO SEM JUSTA CAUSA OU APOSENTADO. SISTEMA DE COPARTICIPAÇÃO DO EMPREGADO SOMENTE EM PROCEDIMENTOS. INAPLICABILIDADE DOS ARTIGOS 30 E 31 DA LEI N. 9.656/1998.
 
 Data indicada: 14/09/2018
 
-Página individual: [leitor 431404721](https://app.trt17.jus.br/principal/publicacoes/leitor/431404721?Formato=pdf), formato pdf. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 431404721](https://app.trt17.jus.br/principal/publicacoes/leitor/431404721?Formato=pdf), formato pdf.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `431404721`](https://app.trt17.jus.br/principal/publicacoes/leitor/431404721?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+```
+SÚMULA Nº 52 DO TRT DA 17ª REGIÃO
+
+ 
+
+ 
+
+ 
+
+"RESTABELECIMENTO DO PLANO DE SAÚDE EMPRESARIAL. EMPREGADO DISPENSADO SEM JUSTA CAUSA OU APOSENTADO. SISTEMA DE COPARTICIPAÇÃO DO EMPREGADO SOMENTE EM PROCEDIMENTOS. INAPLICABILIDADE DOS ARTIGOS 30 E 31 DA LEI N. 9.656/1998. A teor do §6° do art. 30 da Lei nº 9.656/98, a coparticipação do trabalhador única e exclusivamente em procedimentos relativos à assistência médica ou hospitalar não é considerada contribuição. Em tal situação, o empregado - dispensado sem justa causa ou aposentado - não faz jus à manutenção do plano de saúde empresarial prevista no caput dos arts. 30 e 31 da referida Lei, por ausência de contribuição."
+
+ 
+
+ 
+
+ 
+
+IUJ nº 0000596-29.2016.5.17.0000: acórdão referente à Súmula nº 52 disponibilizado no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 2557 às páginas 196-202, no dia 10 de setembro de 2018, considerando-se publicado em 11 de setembro de 2018.
+
+ 
+
+Disponibilizada no Caderno Administrativo do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 2559, 2560 e 2561 às páginas 3-4, 2 e 3, nos dias 12, 13 e 14 de setembro de 2018, respectivamente.
+
+ 
+
+Disponibilizada no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região - Diário Eletrônico da Justiça do Trabalho nº 2559, 2560 e 2561 às páginas 112-113, 216-217 e 144-145, nos dias 12, 13 e 14 de setembro de 2018, respectivamente.
+```

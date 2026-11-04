@@ -18,14 +18,40 @@ SÚMULA Nº 36 (CANCELADA)
 
 *Cancelada em razão do julgamento do processo administrativo SEI 0000920-56.2025.5.17.0500, em sessão administrativa, com início em 29/8/2025, na modalidade virtual, e término em 3/9/2025, na modalidade presencial.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: Súmula Nº 36 - MULTA DO ARTIGO 477, § 8°, DA CLT. DIFERENÇAS DE VERBAS RESCISÓRIAS OU VÍNCULO EMPREGATÍCIO RECONHECIDOS EM JUÍZO
 
 Data indicada: 29/01/2016
 
-Página individual: [leitor 576034491](https://app.trt17.jus.br/principal/publicacoes/leitor/576034491?Formato=pdf), formato pdf. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 576034491](https://app.trt17.jus.br/principal/publicacoes/leitor/576034491?Formato=pdf), formato pdf.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `576034491`](https://app.trt17.jus.br/principal/publicacoes/leitor/576034491?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+A Consulta Unificada traz nota de cancelamento/alteração do SEI `0000920-56.2025.5.17.0500`; a ficha do leitor **não** reproduz essa nota. As duas apresentações ficam preservadas com atribuição própria.
+
+```
+SÚMULA Nº 36 DO TRT DA 17ª REGIÃO
+
+
+
+“MULTA DO ARTIGO 477, § 8°, DA CLT. DIFERENÇAS DE VERBAS RESCISÓRIAS OU VÍNCULO EMPREGATÍCIO RECONHECIDOS EM JUÍZO. CABIMENTO. O reconhecimento judicial de diferenças de parcelas rescisórias não implica o deferimento da multa prevista no art. 477, § 8°, da CLT, por ausência de previsão legal. Esta sanção é aplicável nas hipóteses em que for descumprido o prazo estabelecido no § 6° do dispositivo celetista e nos casos de inadimplemento quando o vínculo empregatício for reconhecido em Juízo.”
+
+
+
+IUJ nº 0000322-02.2015.5.17.0000: acórdão referente à Súmula nº 36 disponibilizado no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 1877 às páginas 01 à 09, no dia 16 de dezembro de 2015, considerando-se publicado em 17 de dezembro de 2015.
+
+
+
+Disponibilizada no Caderno Administrativo do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 1900, 1901 e 1902 às páginas 10, 6 e 5, nos dias 20, 21 e 22 de janeiro de 2016, respectivamente, considerando-se publicada em 21 de janeiro de 2016.
+
+
+
+Disponibilizada no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região - Diário Eletrônico da Justiça do Trabalho nº 1900, 1901 e 1902, às páginas 141, 157 e 143, nos dias 20, 21 e 22 de janeiro de 2015, respectivamente, considerando-se publicada no dia 21 de janeiro de 2016.
+```

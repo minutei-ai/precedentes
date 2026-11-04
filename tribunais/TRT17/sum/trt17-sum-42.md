@@ -18,14 +18,36 @@ SÚMULA Nº 42 (CANCELADA)
 
 *Cancelada em razão do julgamento da PetCiv n° 0002240-60.2023.5.17.0000, em 21 de abril de 2024.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: Súmula Nº 42 - INCONSTITUCIONALIDADE DO DECRETO 2.100/96. DENÚNCIA UNILATERIAL DA CONVENÇÃO 158 DA OIT. (CANCELADA)
 
 Data indicada: 29/04/2024
 
-Página individual: [leitor 234048008](https://app.trt17.jus.br/principal/publicacoes/leitor/234048008?Formato=pdf), formato pdf. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 234048008](https://app.trt17.jus.br/principal/publicacoes/leitor/234048008?Formato=pdf), formato pdf.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `234048008`](https://app.trt17.jus.br/principal/publicacoes/leitor/234048008?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+A ficha do leitor contém nota de cancelamento própria (PetCiv/IUJ), distinta das notas SEI 2025 da Unificada quando estas existem.
+
+```
+SÚMULA Nº 42 DO TRT DA 17ª REGIÃO
+
+
+
+“INCONSTITUCIONALIDADE DO DECRETO 2.100/96. DENÚNCIA UNILATERAL DA CONVENÇÃO 158 DA OIT. A Convenção 158 da OIT é um tratado de direito humano social. A aprovação e ratificação de um tratado de direitos humanos é um ato complexo, necessitando da conjugação da vontade de dois Poderes (Legislativo e Executivo), em claro respeito ao princípio da separação dos poderes previsto no artigo 2º da CR/88, bem como ao sistema de freios e contrapesos (checks and balances) consagrado na forma republicana de governo. Logo, a denúncia unilateral pelo Presidente da República (por meio de decreto) da Convenção 158 ratificada pelo Congresso Nacional é formalmente inconstitucional, por violação ao procedimento previsto no art. 49, I, da CF.”
+
+
+
+Arg Inc nº 0000570-31.2016.5.17.0000: acórdão referente à Súmula nº 42 disponibilizado no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 2153 às páginas 216/221, no dia 23 de janeiro de 2017, considerando-se publicado em 24 de janeiro de 2017.
+
+
+
+(*) Cancelada em razão do julgamento da PetCiv n° 0002240-60.2023.5.17.0000, em 21 de abril de 2024.
+```

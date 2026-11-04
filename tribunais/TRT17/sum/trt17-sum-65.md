@@ -16,8 +16,12 @@ SÚMULA Nº 65
 
 ADMISSIBILIDADE DO AGRAVO DE PETIÇÃO CONTRA SENTENÇA PROFERIDA EM LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. DECISÃO LÍQUIDA. EXIGIBILIDADE DE GARANTIA DO JUÍZO. Somente é admissível Agravo de Petição em face da decisão líquida que decide o cumprimento de sentença de ação coletiva. A garantia integral do juízo é pressuposto recursal e as custas serão pagas ao final. Se a decisão recorrida é ilíquida, a natureza é interlocutória e somente após a decisão de Embargos e/ou Impugnação à sentença de liquidação, será cabível o Agravo de Petição, com ampla devolutividade.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista. Este número não aparece nessa lista. O enunciado acima não foi extraído de um título de catálogo.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55; e a nº 65). Este número não aparece nessa lista. O enunciado acima não foi extraído de um título de catálogo.
+
+## Página individual do leitor (04/11/2026)
+
+Reconsulta do catálogo do leitor em 04/11/2026: este número **não consta** da lista de 62 fichas. Não há URL de ficha individual a reconciliar. A ausência na lista do leitor não demonstra inexistência do verbete na Consulta Unificada (já transcrita acima). Não se inferiu motivo da ausência além do fato observado na lista.

@@ -18,14 +18,34 @@ SÚMULA Nº 14 (CANCELADA)
 
 *Cancelada em razão do julgamento do processo administrativo SEI 0000920-56.2025.5.17.0500, em sessão administrativa, com início em 29/8/2025, na modalidade virtual, e término em 3/9/2025, na modalidade presencial.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: Súmula Nº 14 - COMPETÊNCIA DA JUSTIÇA DO TRABALHO. RESGATE DE FUNDO DE PREVIDÊNCIA PRIVADA. FEMCO
 
 Data indicada: 14/03/2012
 
-Página individual: [leitor 526240652](https://app.trt17.jus.br/principal/publicacoes/leitor/526240652?Formato=html), formato html. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 526240652](https://app.trt17.jus.br/principal/publicacoes/leitor/526240652?Formato=html), formato html.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `526240652`](https://app.trt17.jus.br/principal/publicacoes/leitor/526240652?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+A Consulta Unificada traz nota de cancelamento/alteração do SEI `0000920-56.2025.5.17.0500`; a ficha do leitor **não** reproduz essa nota. As duas apresentações ficam preservadas com atribuição própria.
+
+```
+SÚMULA Nº 14 DO TRT DA 17ª REGIÃO
+
+
+
+COMPETÊNCIA DA JUSTIÇA DO TRABALHO. RESGATE DE FUNDO DE PREVIDÊNCIA PRIVADA. FEMCO. Compete à Justiça do Trabalho processar e julgar demandas versando sobre resgate de fundo de previdência privada, ainda que não tenha sido instituído pelo próprio empregador, visto que tal controvérsia é decorrente da relação de emprego.”
+
+
+
+Publicado no Diário Oficial do Tribunal Regional do Trabalho da 17ª Região de nº 895, 896 e 897, às páginas 02, 02, 02, nos dias 09/04/2012, 10/04/2012 e 11/04/2012, respectivamente.
+
+Publicado no Diário Eletrônico da Justiça do Trabalho de nº 953, 954 e 955, às páginas 01, 01, 01, nos dias 09/04/2012, 10/04/2012 e 11/04/2012, respectivamente.
+```

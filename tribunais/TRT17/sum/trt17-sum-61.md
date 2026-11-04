@@ -16,14 +16,40 @@ SÚMULA Nº 61
 
 PENHORA DE SALÁRIOS E PROVENTOS DE APOSENTADORIA. POSSIBILIDADE. ALTERAÇÃO DO CPC. NATUREZA ALIMENTÍCIA DO CRÉDITO TRABALHISTA. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. Por se tratar o crédito de natureza alimentar é possível a execução mediante penhora de salários ou proventos de aposentadoria. O percentual será igual ou inferior a 50%, a ser fixado no caso concreto, sob a observância dos princípios da razoabilidade e proporcionalidade a fim de manter a subsistência do devedor e seus dependentes. Inteligência do art. 833, § 2º, do CPC, à luz da interpretação da OJ 153 da SDI-II do TST.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: SÚMULA Nº 61 - PENHORA DE SALÁRIOS E PROVENTOS DE APOSENTADORIA. POSSIBILIDADE.
 
 Data indicada: 03/06/2022
 
-Página individual: [leitor 835548959](https://app.trt17.jus.br/principal/publicacoes/leitor/835548959?Formato=pdf), formato pdf. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 835548959](https://app.trt17.jus.br/principal/publicacoes/leitor/835548959?Formato=pdf), formato pdf.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `835548959`](https://app.trt17.jus.br/principal/publicacoes/leitor/835548959?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+```
+SÚMULA Nº 61 DO TRT DA 17ª REGIÃO
+
+ 
+
+"PENHORA DE SALÁRIOS E PROVENTOS DE APOSENTADORIA. POSSIBILIDADE. ALTERAÇÃO DO CPC. NATUREZA ALIMENTÍCIA DO CRÉDITO TRABALHISTA. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. Por se tratar o crédito de natureza alimentar é possível a execução mediante penhora de salários ou proventos de aposentadoria. O percentual será igual ou inferior a 50%, a ser fixado no caso concreto, sob a observância dos princípios da razoabilidade e proporcionalidade a fim de manter a subsistência do devedor e seus dependentes. Inteligência do art. 833, § 2º, do CPC, à luz da interpretação da OJ 153 da SDI-II do TST".
+
+ 
+
+ 
+
+IRDR n.º 0000212-90.2021.5.17.0000: acórdão referente à Súmula nº 61, disponibilizado no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 3484/2022, no dia 1º de junho de 2022, considerando-se publicado em 2 de junho de 2022.
+
+ 
+
+Disponibilizada no Caderno Administrativo do Tribunal Regional do Trabalho da 17ªRegião – Diário Eletrônico da Justiça do Trabalho nº 3485, à página 2, no dia 2 de junho de 2022.
+
+ 
+
+Disponibilizada no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 3485, às páginas 2 e 3 , no dia 2 de junho de 2022.
+```

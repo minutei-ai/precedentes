@@ -16,14 +16,38 @@ SÚMULA Nº 63
 
 DISPENSA DE PESSOA COM DEFICIÊNCIA OU REABILITADA. NECESSIDADE DE COMPROVAR A CONTRATAÇÃO SUBSTITUTIVA DE EMPREGADO NAS MESMAS CONDIÇÕES E O ATENDIMENTO DO PERCENTUAL MÍNIMO PREVISTO NA LEI. NULIDADE. INTERPRETAÇÃO DO ART. 93 e § 1º DA LEI N. 8.213/91. A dispensa de empregado reabilitado ou com deficiência somente é válida se observadas, cumulativamente, a cota legal e a prévia contratação de outro trabalhador em semelhantes condições. Uma vez não atendidas tais exigências, a dispensa é nula e devida é a reintegração. Interpretação teleológica do artigo 93, caput e § 1º, da Lei 8.213 /91.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: SÚMULA Nº 63 - DISPENSA DE PESSOA COM DEFICIÊNCIA OU REABILITADA. NECESSIDADE DE COMPROVAR A CONTRATAÇÃO SUBSTITUTIVA DE EMPREGADO NAS MESMAS CONDIÇÕES E O ATENDIMENTO DO PERCENTUAL MÍNIMO PREVISTO NA LEI
 
 Data indicada: 05/07/2023
 
-Página individual: [leitor 890811478](https://app.trt17.jus.br/principal/publicacoes/leitor/890811478?Formato=pdf), formato pdf. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 890811478](https://app.trt17.jus.br/principal/publicacoes/leitor/890811478?Formato=pdf), formato pdf.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `890811478`](https://app.trt17.jus.br/principal/publicacoes/leitor/890811478?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+```
+SÚMULA Nº 63 DO TRT DA 17ª REGIÃO
+
+ 
+
+“DISPENSA DE PESSOA COM DEFICIÊNCIA OU REABILITADA. NECESSIDADE DE COMPROVAR A CONTRATAÇÃO SUBSTITUTIVA DE EMPREGADO NAS MESMAS CONDIÇÕES E O ATENDIMENTO DO PERCENTUAL MÍNIMO PREVISTO NA LEI. NULIDADE. INTERPRETAÇÃO DO ART. 93 e § 1º DA LEI N. 8.213/91. A dispensa de empregado reabilitado ou com deficiência somente é válida se observadas, cumulativamente, a cota legal e a prévia contratação de outro trabalhador em semelhantes condições. Uma vez não atendidas tais exigências, a dispensa é nula e devida é a reintegração. Interpretação teleológica do artigo 93, caput e § 1º, da Lei 8.213 /91”.
+
+ 
+
+ 
+
+ 
+
+IRDR n.º 0000427-32.2022.5.17.0000: acórdão referente à Súmula nº 63, disponibilizado no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 3752/2023, no dia 27 de junho de 2023, considerando-se publicado em 28 de junho de 2023. 
+
+Disponibilizada no Caderno Administrativo do Tribunal Regional do Trabalho da 17ªRegião – Diário Eletrônico da Justiça do Trabalho nº 3754, 3755 e 3756, às páginas 3-4, 8-9 e 5-6, nos dias 29 e 30 de junho e 03 de julho de 2023, respectivamente. 
+
+Disponibilizada no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 3754, 3755 e 3756, às páginas 1803, 1647-1648 e 1799, nos dias 29 e 30 de junho e 03 de julho de 2023, respectivamente.
+```
