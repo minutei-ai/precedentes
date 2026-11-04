@@ -12,7 +12,11 @@
 
 Texto integral da linha na [página 5 do catálogo oficial](https://www.trt22.jus.br/index.php/jurisprudencia/sumulas?page=4), incluindo os campos “Fonte” e “Publicação no DEJT”. As cinco páginas e os 47 verbetes foram conferidos em duas leituras independentes, em dez capturas. As redações anteriores riscadas, revisões, conversões, datas, grafias e vínculos do glossário foram preservados como apresentados.
 
-As datas permanecem nos textos da fonte e não foram usadas como atualização individual. O catálogo não oferece campo próprio de situação; a presença do verbete e as notas históricas não foram convertidas em indicação de vigência ou cancelamento atual. As resoluções, os acórdãos, as teses prevalecentes e os demais documentos mencionados não foram coletados neste lote.
+As datas permanecem nos textos da fonte e não foram usadas como atualização individual. O catálogo não oferece campo próprio de situação; a presença do verbete e as notas históricas não foram convertidas em indicação de vigência ou cancelamento atual. As resoluções administrativas nº 57/2007, 67/2013, 80/2014 e 56/2024 foram recuperadas neste complemento via SGI (PDFs privados). Permanecem pendentes os inteiros teores dos IUJs/acórdãos citados na Súmula 29 e demais atos não localizados em canal oficial sem bloqueio.
+
+## Resolução Administrativa nº 56/2024 recuperada
+
+Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/64552?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-56/2024) coincidem: SHA-256 `3528cbfab30fe4ce6b8459213ceba55230b221d0f746a38422b5ac493612b25a`, 97433 bytes. A RA (PROAD nº 1780/2024, Sessão Administrativa de 07/08/2024) trata da proposição de enunciado de súmula sobre prescrição intercorrente vinculada a este verbete no catálogo. O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional.
 
 ## Texto disponibilizado pela fonte
 
