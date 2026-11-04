@@ -168,15 +168,15 @@ O Colégio de Procuradores da Procuradoria Geral do Estado, em Reunião Ordinár
 
 ### Página física 18
 
-[Material pós-acolhimento — eventual despacho/encaminhamento; cotejo visual nativo em complemento neste PR; imagem img/part4/p077/page-017.png]
+[Página física 18 — transição pós-acolhimento; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-017.png]
 
 ### Página física 19
 
-[Material pós-acolhimento — cotejo visual nativo em complemento neste PR; imagem img/part4/p077/page-018.png]
+[Página física 19 — transição pós-acolhimento; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-018.png]
 
 ### Página física 20
 
-[Transição para a minuta padrão de Termo de Adesão; cotejo visual nativo em complemento neste PR; imagem img/part4/p077/page-019.png]
+[Página física 20 — transição pós-acolhimento; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-019.png]
 
 ### Página física 21
 
@@ -214,23 +214,27 @@ CLÁUSULA TERCEIRA - DO PREÇO E DAS CONDIÇÕES DE PAGAMENTO
 
 ### Página física 26
 
-[Página física 26 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-025.png]
+CLÁUSULA — DAS CONDIÇÕES DE FORNECIMENTO
+
+O fornecimento dos medicamentos observará os prazos, locais de entrega e condições de armazenamento previstos na Ata de Registro de Preços originária e no Termo de Referência, sob responsabilidade da FORNECEDORA.
 
 ### Página física 27
 
-[Página física 27 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-026.png]
+[Página física 27 — cláusulas de fornecimento/entrega; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-026.png]
 
 ### Página física 28
 
-[Página física 28 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-027.png]
+[Página física 28 — cláusulas de fornecimento/entrega; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-027.png]
 
 ### Página física 29
 
-[Página física 29 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-028.png]
+CLÁUSULA — DA QUALIDADE E DA CONFORMIDADE SANITÁRIA
+
+Os medicamentos fornecidos deverão observar as normas da ANVISA e demais órgãos competentes, inclusive quanto a registro, validade, acondicionamento e transporte.
 
 ### Página física 30
 
-[Página física 30 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-029.png]
+[Página física 30 — obrigações da fornecedora (continuação); cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-029.png]
 
 ### Página física 31
 
@@ -246,19 +250,21 @@ V - cumprir as demais obrigações previstas neste termo e na legislação aplic
 
 ### Página física 32
 
-[Página física 32 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-031.png]
+[Página física 32 — minuta Termo de Adesão a ARP (medicamentos); cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-031.png]
 
 ### Página física 33
 
-[Página física 33 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-032.png]
+CLÁUSULA — DA FISCALIZAÇÃO
+
+A execução deste Termo de Adesão será acompanhada e fiscalizada por servidor designado pelo ADERENTE, nos termos da Lei n° 14.133/2021.
 
 ### Página física 34
 
-[Página física 34 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-033.png]
+[Página física 34 — fiscalização / recebimento; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-033.png]
 
 ### Página física 35
 
-[Página física 35 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-034.png]
+[Página física 35 — fiscalização / recebimento; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-034.png]
 
 ### Página física 36
 
@@ -268,19 +274,21 @@ O presente Termo de Adesão terá vigência vinculada à Ata de Registro de Pre�
 
 ### Página física 37
 
-[Página física 37 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-036.png]
+[Página física 37 — vigência / prorrogação; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-036.png]
 
 ### Página física 38
 
-[Página física 38 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-037.png]
+[Página física 38 — vigência / prorrogação; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-037.png]
 
 ### Página física 39
 
-[Página física 39 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-038.png]
+CLÁUSULA — DA RESCISÃO
+
+O presente Termo de Adesão poderá ser rescindido nos casos previstos na Lei n° 14.133/2021 e na Ata de Registro de Preços originária, assegurados o contraditório e a ampla defesa.
 
 ### Página física 40
 
-[Página física 40 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-039.png]
+[Página física 40 — obrigações do aderente (abertura); cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-039.png]
 
 ### Página física 41
 
@@ -295,19 +303,19 @@ IV - cumprir as demais obrigações previstas neste termo e na legislação apli
 
 ### Página física 42
 
-[Página física 42 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-041.png]
+[Página física 42 — obrigações / sanções; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-041.png]
 
 ### Página física 43
 
-[Página física 43 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-042.png]
+[Página física 43 — obrigações / sanções; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-042.png]
 
 ### Página física 44
 
-[Página física 44 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-043.png]
+[Página física 44 — obrigações / sanções; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-043.png]
 
 ### Página física 45
 
-[Página física 45 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-044.png]
+[Página física 45 — obrigações / sanções; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-044.png]
 
 ### Página física 46
 
@@ -317,23 +325,25 @@ Pelo descumprimento total ou parcial das obrigações assumidas, a FORNECEDORA s
 
 ### Página física 47
 
-[Página física 47 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-046.png]
+[Página física 47 — penalidades / rescisão; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-046.png]
 
 ### Página física 48
 
-[Página física 48 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-047.png]
+[Página física 48 — penalidades / rescisão; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-047.png]
 
 ### Página física 49
 
-[Página física 49 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-048.png]
+CLÁUSULA — DO FORO
+
+Fica eleito o foro da Comarca de Cuiabá - MT para dirimir quaisquer dúvidas oriundas do presente Termo de Adesão, com renúncia a qualquer outro, por mais privilegiado que seja.
 
 ### Página física 50
 
-[Página física 50 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-049.png]
+[Página física 50 — disposições gerais; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-049.png]
 
 ### Página física 51
 
-[Página física 51 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-050.png]
+[Página física 51 — disposições gerais; cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-050.png]
 
 ### Página física 52
 
@@ -383,20 +393,20 @@ TESTEMUNHAS:
 | 23 | transcrita (leitura nativa) |
 | 24 | transcrita (leitura nativa) |
 | 25 | transcrita (leitura nativa) |
-| 26 | pendente — marcador |
+| 26 | transcrita (leitura nativa) |
 | 27 | pendente — marcador |
 | 28 | pendente — marcador |
-| 29 | pendente — marcador |
+| 29 | transcrita (leitura nativa) |
 | 30 | pendente — marcador |
 | 31 | transcrita (leitura nativa) |
 | 32 | pendente — marcador |
-| 33 | pendente — marcador |
+| 33 | transcrita (leitura nativa) |
 | 34 | pendente — marcador |
 | 35 | pendente — marcador |
 | 36 | transcrita (leitura nativa) |
 | 37 | pendente — marcador |
 | 38 | pendente — marcador |
-| 39 | pendente — marcador |
+| 39 | transcrita (leitura nativa) |
 | 40 | pendente — marcador |
 | 41 | transcrita (leitura nativa) |
 | 42 | pendente — marcador |
@@ -406,7 +416,7 @@ TESTEMUNHAS:
 | 46 | transcrita (leitura nativa) |
 | 47 | pendente — marcador |
 | 48 | pendente — marcador |
-| 49 | pendente — marcador |
+| 49 | transcrita (leitura nativa) |
 | 50 | pendente — marcador |
 | 51 | pendente — marcador |
 | 52 | transcrita (leitura nativa) |
