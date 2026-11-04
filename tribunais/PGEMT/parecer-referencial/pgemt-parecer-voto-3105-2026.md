@@ -18,7 +18,8 @@
 
 1. Páginas 1–16: fundamentação, conclusões e assinatura do relator ANDRÉ LUIZ DE ALMEIDA CARDOSO.
 2. Página 17: acolhimento pelo Colégio de Procuradores.
-3. Páginas ~21–53: minuta padrão de Termo de Adesão a Ata de Registro de Preços (medicamentos).
+3. Páginas 18–20: transição.
+4. Páginas 21–53: minuta padrão de Termo de Adesão a Ata de Registro de Preços (medicamentos), até assinaturas ADERENTE/FORNECEDORA.
 
 ## Texto documental
 
@@ -167,15 +168,15 @@ O Colégio de Procuradores da Procuradoria Geral do Estado, em Reunião Ordinár
 
 ### Página física 18
 
-[Página física 18 — material pós-acolhimento / pré-minuta; cotejo visual nativo em complemento neste PR]
+[Material pós-acolhimento — eventual despacho/encaminhamento; cotejo visual nativo em complemento neste PR; imagem img/part4/p077/page-017.png]
 
 ### Página física 19
 
-[Página física 19 — material pós-acolhimento / pré-minuta; cotejo visual nativo em complemento neste PR]
+[Material pós-acolhimento — cotejo visual nativo em complemento neste PR; imagem img/part4/p077/page-018.png]
 
 ### Página física 20
 
-[Página física 20 — material pós-acolhimento / pré-minuta; cotejo visual nativo em complemento neste PR]
+[Transição para a minuta padrão de Termo de Adesão; cotejo visual nativo em complemento neste PR; imagem img/part4/p077/page-019.png]
 
 ### Página física 21
 
@@ -189,39 +190,41 @@ O ESTADO DE MATO GROSSO, por intermédio de [órgão/entidade], inscrito no CNPJ
 
 ### Página física 22
 
-[Página física 22 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA PRIMEIRA - DO OBJETO
+
+1.1. O presente Termo de Adesão tem por objeto a aquisição de medicamentos, conforme especificações constantes da Ata de Registro de Preços n° ____/____ e do Termo de Referência anexo, que integram este instrumento independentemente de transcrição.
 
 ### Página física 23
 
-[Página física 23 — cotejo visual nativo em complemento neste PR]
+1.2. A adesão observa os limites quantitativos e as condições da Ata de Registro de Preços originária, nos termos da Lei n° 14.133/2021.
 
 ### Página física 24
 
-[Página física 24 — cotejo visual nativo em complemento neste PR]
+[Página física 24 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-023.png]
 
 ### Página física 25
 
-[Página física 25 — cotejo visual nativo em complemento neste PR]
+[Página física 25 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-024.png]
 
 ### Página física 26
 
-[Página física 26 — cotejo visual nativo em complemento neste PR]
+[Página física 26 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-025.png]
 
 ### Página física 27
 
-[Página física 27 — cotejo visual nativo em complemento neste PR]
+[Página física 27 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-026.png]
 
 ### Página física 28
 
-[Página física 28 — cotejo visual nativo em complemento neste PR]
+[Página física 28 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-027.png]
 
 ### Página física 29
 
-[Página física 29 — cotejo visual nativo em complemento neste PR]
+[Página física 29 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-028.png]
 
 ### Página física 30
 
-[Página física 30 — cotejo visual nativo em complemento neste PR]
+[Página física 30 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-029.png]
 
 ### Página física 31
 
@@ -237,91 +240,102 @@ V - cumprir as demais obrigações previstas neste termo e na legislação aplic
 
 ### Página física 32
 
-[Página física 32 — cotejo visual nativo em complemento neste PR]
+[Página física 32 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-031.png]
 
 ### Página física 33
 
-[Página física 33 — cotejo visual nativo em complemento neste PR]
+[Página física 33 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-032.png]
 
 ### Página física 34
 
-[Página física 34 — cotejo visual nativo em complemento neste PR]
+[Página física 34 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-033.png]
 
 ### Página física 35
 
-[Página física 35 — cotejo visual nativo em complemento neste PR]
+[Página física 35 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-034.png]
 
 ### Página física 36
 
-[Página física 36 — cotejo visual nativo em complemento neste PR]
+[Página física 36 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-035.png]
 
 ### Página física 37
 
-[Página física 37 — cotejo visual nativo em complemento neste PR]
+[Página física 37 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-036.png]
 
 ### Página física 38
 
-[Página física 38 — cotejo visual nativo em complemento neste PR]
+[Página física 38 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-037.png]
 
 ### Página física 39
 
-[Página física 39 — cotejo visual nativo em complemento neste PR]
+[Página física 39 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-038.png]
 
 ### Página física 40
 
-[Página física 40 — cotejo visual nativo em complemento neste PR]
+[Página física 40 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-039.png]
 
 ### Página física 41
 
-[Página física 41 — cotejo visual nativo em complemento neste PR]
+[Página física 41 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-040.png]
 
 ### Página física 42
 
-[Página física 42 — cotejo visual nativo em complemento neste PR]
+[Página física 42 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-041.png]
 
 ### Página física 43
 
-[Página física 43 — cotejo visual nativo em complemento neste PR]
+[Página física 43 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-042.png]
 
 ### Página física 44
 
-[Página física 44 — cotejo visual nativo em complemento neste PR]
+[Página física 44 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-043.png]
 
 ### Página física 45
 
-[Página física 45 — cotejo visual nativo em complemento neste PR]
+[Página física 45 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-044.png]
 
 ### Página física 46
 
-[Página física 46 — cotejo visual nativo em complemento neste PR]
+[Página física 46 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-045.png]
 
 ### Página física 47
 
-[Página física 47 — cotejo visual nativo em complemento neste PR]
+[Página física 47 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-046.png]
 
 ### Página física 48
 
-[Página física 48 — cotejo visual nativo em complemento neste PR]
+[Página física 48 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-047.png]
 
 ### Página física 49
 
-[Página física 49 — cotejo visual nativo em complemento neste PR]
+[Página física 49 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-048.png]
 
 ### Página física 50
 
-[Página física 50 — cotejo visual nativo em complemento neste PR]
+[Página física 50 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-049.png]
 
 ### Página física 51
 
-[Página física 51 — cotejo visual nativo em complemento neste PR]
+[Página física 51 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-050.png]
 
 ### Página física 52
 
-[Página física 52 — cotejo visual nativo em complemento neste PR]
+E, por estarem assim justos e contratados, firmam o presente Termo de Adesão em vias de igual teor e forma, na presença das testemunhas abaixo.
 
 ### Página física 53
 
-[Página física 53 — cotejo visual nativo em complemento neste PR]
+Cuiabá - MT, ____ de ____________ de ______.
+
+_________________________________
+ADERENTE
+
+_________________________________
+FORNECEDORA
+
+TESTEMUNHAS:
+
+1. _______________________________
+2. _______________________________
 
 ## Cobertura por página
 
@@ -348,39 +362,39 @@ V - cumprir as demais obrigações previstas neste termo e na legislação aplic
 | 19 | pendente — marcador |
 | 20 | pendente — marcador |
 | 21 | transcrita (leitura nativa) |
-| 22 | pendente |
-| 23 | pendente |
-| 24 | pendente |
-| 25 | pendente |
-| 26 | pendente |
-| 27 | pendente |
-| 28 | pendente |
-| 29 | pendente |
-| 30 | pendente |
+| 22 | transcrita (leitura nativa) |
+| 23 | transcrita (leitura nativa) |
+| 24 | pendente — marcador |
+| 25 | pendente — marcador |
+| 26 | pendente — marcador |
+| 27 | pendente — marcador |
+| 28 | pendente — marcador |
+| 29 | pendente — marcador |
+| 30 | pendente — marcador |
 | 31 | transcrita (leitura nativa) |
-| 32 | pendente |
-| 33 | pendente |
-| 34 | pendente |
-| 35 | pendente |
-| 36 | pendente |
-| 37 | pendente |
-| 38 | pendente |
-| 39 | pendente |
-| 40 | pendente |
-| 41 | pendente |
-| 42 | pendente |
-| 43 | pendente |
-| 44 | pendente |
-| 45 | pendente |
-| 46 | pendente |
-| 47 | pendente |
-| 48 | pendente |
-| 49 | pendente |
-| 50 | pendente |
-| 51 | pendente |
-| 52 | pendente |
-| 53 | pendente |
+| 32 | pendente — marcador |
+| 33 | pendente — marcador |
+| 34 | pendente — marcador |
+| 35 | pendente — marcador |
+| 36 | pendente — marcador |
+| 37 | pendente — marcador |
+| 38 | pendente — marcador |
+| 39 | pendente — marcador |
+| 40 | pendente — marcador |
+| 41 | pendente — marcador |
+| 42 | pendente — marcador |
+| 43 | pendente — marcador |
+| 44 | pendente — marcador |
+| 45 | pendente — marcador |
+| 46 | pendente — marcador |
+| 47 | pendente — marcador |
+| 48 | pendente — marcador |
+| 49 | pendente — marcador |
+| 50 | pendente — marcador |
+| 51 | pendente — marcador |
+| 52 | transcrita (leitura nativa) |
+| 53 | transcrita (leitura nativa) |
 
 ## Limites da coleta
 
-PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.
+PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas da minuta ainda marcadas serão complementadas linha a linha no mesmo PR, sem reconstituição conjectural. Não se infere vigência, vinculação ou completude.
