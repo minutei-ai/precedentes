@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Diretrizes aplicáveis à prestação de contas de projetos financiados por convênio para pesquisa, desenvolvimento e inovação, termo de outorga para subvenção econômica e termo de outorga de auxílio, no âmbito do Marco Legal de Ciência, Tecnologia e Inovação (Lei nº 20.541/2021) e de seu regulamento (Decreto nº 1.350/2023)
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2026-02/Orientac%C3%A3o_administrativa_099_2025.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2026-02/Orientac%C3%A3o_administrativa_099_2025.pdf)
-- **Páginas do PDF:** 7; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 7; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 494832 bytes; SHA-256 `08cf15fdf17fb22404dc9005ead79638d0351c2503c5a3238ddf431154d4eb4f`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

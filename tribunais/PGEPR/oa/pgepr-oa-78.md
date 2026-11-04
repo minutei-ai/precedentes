@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Contratação de Serviços Públicos monopolizados.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm078PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm078PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 192958 bytes; SHA-256 `45b0285bdf4524bffdd3a9139414529d538a5d605a42b87fdbd04ae4e758f77f`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

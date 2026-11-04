@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Medida Provisória nº 1.206, de 6 de janeiro de 2021. Contratos Administrativos. Medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra a covid-19. Suspensão da Orientação Administrativa nº41-PGE.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 152074 bytes; SHA-256 `c4360f3123d1b9b92754b0206e70d35218a8fc52a841fa343ce0f254254f9c7f`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

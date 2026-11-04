@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Pagamento a maior ao Servidor Público Estadual. Circunstâncias em que é possível – ou não - exigir o ressarcimento ao Erário. STJ – TEMAS 531 e 1.009.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-08/Orient-adm083PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-08/Orient-adm083PGE.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 280326 bytes; SHA-256 `0d891fb5400fdb2d00a9fe56f536108bbe029ece1dd35681889a29a9b9b2544a`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

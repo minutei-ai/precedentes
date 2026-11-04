@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Restos a pagar. Lei n.4.320/1964 (Art. 36) Proibição de empenho integral de despesas que ultrapassam o exercício financeiro.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2025-03/orientacao_administrativa_no_096-pge.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2025-03/orientacao_administrativa_no_096-pge.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 1544872 bytes; SHA-256 `db3f40795e687f57c917cde1501d89f8a078a8fc751d0943e57c9d777fc65306`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

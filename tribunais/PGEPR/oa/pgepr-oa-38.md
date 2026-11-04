@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Abono de Permanência. Observância ao regramento constitucional. O termo inicial para o pagamento do abono de permanência é a data do implemento dos requisitos para a concessão da aposentadoria voluntária.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/OrientacaoAdministrativa038.pdf](http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/OrientacaoAdministrativa038.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 92497 bytes; SHA-256 `7a29301db269db672b9c9e358250f08736d32fec2c45382903267abd64e536a6`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

@@ -1,6 +1,6 @@
 # PGEMS
 
-Procuradoria-Geral do Estado de Mato Grosso do Sul. **16 registros** publicados nesta integração parcial.
+Procuradoria-Geral do Estado de Mato Grosso do Sul. **11 registros** publicados nesta integração parcial.
 
 | Espécie | Registros |
 | --- | ---: |

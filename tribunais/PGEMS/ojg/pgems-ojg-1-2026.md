@@ -95,4 +95,3 @@ recondução, conforme a Lei Estadual nº 1.102/90.                             
 ## Conferência e limites
 
 Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Minutas-padrão, checklists, certidões e listas de verificação do mesmo catálogo não receberam IDs de precedente. Decisões de Gabinete apenas anexas não foram fundidas ao parecer nem convertidas em registros próprios neste lote. Não se infere vigência atual, força vinculante ou completude da série. PDFs e capturas permanecem privados.
-

@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Regime especial para microempresas e empresas de pequeno porte. Parâmetro de configuração do empate ficto. Melhor proposta existente e válida
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm081PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm081PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 190333 bytes; SHA-256 `99196eed31eebc90605f79ea33cfb2fc70dafa2593f29ae20f92421239c9db2e`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

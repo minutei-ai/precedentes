@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** LIBERDADE RELIGIOSA - INGRESSO E EXERCÍCIO EM CARGOS PÚBLICOS. Escusa de consciência por força de crença religiosa como justificativa para a realização de etapa de concurso público em horário diverso daquele previsto em edital ou para a fixação de critérios alternativos para o regular exercício dos deveres funcionais inerentes aos cargos públicos. Teses fixadas pelo STF com repercussão geral (Recursos Extraordinários n°s 611.874/DF e 1.099.099/SP).
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa049.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa049.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 174255 bytes; SHA-256 `5854d12455eb51705c5e1b5f9c5c3e166e52aa4da86a5d4c5c723531c7088dd9`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

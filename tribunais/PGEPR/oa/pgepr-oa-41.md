@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Medida Provisória nº 961, de 07 de maio de 2020. Contratos Administrativos. Período de Aplicação e Efeitos da Medida Provisória. Limites para Dispensa de Licitação. Pagamento Antecipado. Regime Diferenciado De Contratações - Rd ( Suspensa pela Orientação Administrativa n. 46 )
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [http://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf](http://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 152074 bytes; SHA-256 `c4360f3123d1b9b92754b0206e70d35218a8fc52a841fa343ce0f254254f9c7f`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

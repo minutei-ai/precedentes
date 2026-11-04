@@ -1,17 +1,18 @@
 # Orientações Administrativas da PGE/PR
 
-80 registros com inteiro teor textual publicado a partir dos PDFs oficiais do [catálogo de Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas), capturado em 04/11/2026 (HTTP 200; 176.692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`).
+80 fichas documentais: 77 com extração textual ainda pendente de conferência integral e 3 com corpo retido por extração ilegível, a partir dos PDFs oficiais do [catálogo de Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas), capturado em 04/11/2026 (HTTP 200; 176.692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`).
 
 ## Abrangência desta integração
 
-- Publicados com corpo textual: 80 orientações (números 4–103 conforme lista abaixo).
-- Catálogo oficial enumerado nesta consulta: 100 linhas numeradas (1–99, 101–103), sem linhas 57, 58 e 100.
-- PDFs digitalizados com camada textual insuficiente, OCR visual pendente: 11, 15, 19, 21 e 98 (arquivos capturados em armazenamento privado).
+- Fichas publicadas: 80; 77 com extração textual e 3 sem corpo legível validado (31, 32 e 55). Nenhuma contagem de fichas certifica conferência integral dos documentos.
+- Catálogo capturado: 102 linhas numeradas (1–99, 101–103). As linhas 57 e 58 estão presentes; a nº 100 não foi localizada nesta captura. O manifesto inicial omitiu 57 e 58 por falha de enumeração, não por ausência no catálogo.
+- Nº 57: PDF da Resolução nº 150/2022 e nº 58: PDF da orientação/Resolução nº 245/2022 vinculados no catálogo, ainda pendentes de recuperação e conferência neste lote.
+- PDFs com camada textual insuficiente ou ilegível, transcrição visual pendente: 11, 15, 19, 21, 31, 32, 55 e 98 (arquivos capturados em armazenamento privado).
 - Nº 16: linha do catálogo aponta anexo DOCX da Resolução nº 051/2026-PGE; PDF próprio não recuperado.
 - Linhas com nota de substituição e sem PDF próprio nesta coleta: 1–3, 5–10, 23, 33–34, 37 e 43 (ementas e notas preservadas apenas no inventário privado/catálogo).
 - A numeração máxima do catálogo (103) não foi tomada como total histórico; lacunas e substituições permanecem atribuídas à fonte.
 
-## Registros publicados
+## Fichas publicadas
 
 | Número | Identificador | Nota no catálogo |
 | ---: | --- | --- |
@@ -30,8 +31,8 @@
 | 28 | [`pgepr-oa-28`](pgepr-oa-28.md) | PDF |
 | 29 | [`pgepr-oa-29`](pgepr-oa-29.md) | PDF (Editado pela Resolução n° 24/2019-PGE ) |
 | 30 | [`pgepr-oa-30`](pgepr-oa-30.md) | PDF (Editado pela Resolução n°25/2019-PGE ) |
-| 31 | [`pgepr-oa-31`](pgepr-oa-31.md) | PDF (Editado pela Resolução n° 37/2019-PGE) |
-| 32 | [`pgepr-oa-32`](pgepr-oa-32.md) | PDF (Editado pela Resolução n° 44/2019-PGE ) |
+| 31 | [`pgepr-oa-31`](pgepr-oa-31.md) | PDF (Editado pela Resolução n° 37/2019-PGE); corpo ilegível retido, transcrição pendente |
+| 32 | [`pgepr-oa-32`](pgepr-oa-32.md) | PDF (Editado pela Resolução n° 44/2019-PGE ); corpo ilegível retido, transcrição pendente |
 | 35 | [`pgepr-oa-35`](pgepr-oa-35.md) | PDF (Editado pela Resolução n° 116/2019-PGE ) |
 | 36 | [`pgepr-oa-36`](pgepr-oa-36.md) | PDF (Editado pela Resolução n° 122/2019-PGE ) |
 | 38 | [`pgepr-oa-38`](pgepr-oa-38.md) | PDF (Editado pela Resolução n° 138/2019-PGE ) |
@@ -50,7 +51,7 @@
 | 52 | [`pgepr-oa-52`](pgepr-oa-52.md) | PDF (Editado pela Resolução nº 069/2022 - PGE ) |
 | 53 | [`pgepr-oa-53`](pgepr-oa-53.md) | PDF (Editado pela Resolução nº 081/2022 - PGE ) |
 | 54 | [`pgepr-oa-54`](pgepr-oa-54.md) | PDF (Editado pela Resolução nº 082/2022 - PGE ) |
-| 55 | [`pgepr-oa-55`](pgepr-oa-55.md) | PDF (Editado pela Resolução nº 112/2022 - PGE ) |
+| 55 | [`pgepr-oa-55`](pgepr-oa-55.md) | PDF (Editado pela Resolução nº 112/2022 - PGE ); corpo ilegível retido, transcrição pendente |
 | 56 | [`pgepr-oa-56`](pgepr-oa-56.md) | PDF (Editado pela Resolução nº 129/2022 - PGE |
 | 59 | [`pgepr-oa-59`](pgepr-oa-59.md) | PDF (Editado pela Resolução° 262/2022 - PGE ) |
 | 60 | [`pgepr-oa-60`](pgepr-oa-60.md) | PDF (Editado pela Resolução° 263/2022 - PGE ) |
@@ -97,5 +98,7 @@
 | 103 | [`pgepr-oa-103`](pgepr-oa-103.md) | PDF (Editada pela Resolução nº 219/2026-PGE ) |
 
 ## Limites
+
+A evidência visual deste lote cobre somente a página física 1 das orientações 4, 68 e 103. Não há conferência visual individual documentada das demais fichas; a validação integral permanece pendente.
 
 A PGE/PR é o emissor. Esta série é administrativa e distinta das súmulas do TJPR e de outras Procuradorias. Notas de substituição, suspensão ou edição do catálogo foram preservadas nas fichas quando o PDF correspondente foi lido; não se infere vigência atual nem força vinculante. Resoluções de edição apenas citadas não receberam IDs próprios neste lote. PDFs, capturas e scripts permanecem privados.

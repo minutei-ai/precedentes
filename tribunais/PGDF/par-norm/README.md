@@ -88,4 +88,6 @@ UNIFORMIZA��O DA ORI | pendente |
 
 ## Limites
 
+Há falhas de codificação nos rótulos do inventário e nas extrações; estes textos permanecem pendentes de correção pela fonte documental, sem reconstrução conjectural.
+
 Formulário vazio ou HTTP 200 sem corpo não prova inexistência. Conjuntos e precatórios ficaram de fora do filtro.

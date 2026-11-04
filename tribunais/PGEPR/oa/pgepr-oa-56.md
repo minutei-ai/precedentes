@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Cobrança pelo município de Cascavel de taxa de proteção a desastres.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-07/orientacaoadministrativa056pge_.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-07/orientacaoadministrativa056pge_.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 268033 bytes; SHA-256 `786f0095689c98cd07ae9596a46122cc5220df2f634a1211cdd705a4c15cc9b4`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

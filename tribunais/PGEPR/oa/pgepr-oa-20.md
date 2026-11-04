@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Servidores Inativos, Descontos Previdenciários, Restituição de valores, Paranaprevidência.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/20.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/20.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 72416 bytes; SHA-256 `8ac05e8f8f41691d6073542f982cdd608819d393cbc24d15895a1441c12dcf4a`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

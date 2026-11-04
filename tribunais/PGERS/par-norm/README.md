@@ -2,9 +2,9 @@
 
 8 pareceres com inteiro teor textual publicado (PDFs de até 10 páginas) a partir da [página oficial](https://www.pge.rs.gov.br/pareceres-da-pge-com-carater-juridico-normativo), capturada em 04/11/2026.
 
-- PDFs diretamente linkados na página nesta consulta: 52 identidades (`pa` + número).
+- PDFs diretamente linkados na página nesta consulta: 53 vínculos documentais para 52 identidades (`pa` + número); o parecer 19861 tem dois vínculos.
 - Publicados neste lote: 8.
-- Pendentes de transcrição integral neste lote: 45 (PDFs com mais de 10 páginas ou ainda não priorizados).
+- Pendentes de transcrição integral neste lote: 44 identidades (45 vínculos documentais) (PDFs com mais de 10 páginas ou ainda não priorizados).
 
 ## Registros publicados
 
@@ -61,8 +61,7 @@
 - Parecer 19051 — 44 páginas — `22125043-pa19051.pdf`
 - Parecer 19127 — 31 páginas — `31110743-pa19127.pdf`
 - Parecer 19314 — 20 páginas — `19190105-pa19314-22-1000-0005391-7-dr-eduardo-cunha-da-costa-e-dra-aline-frare-armborst.pdf`
-- Parecer 19861 — 22 páginas — `16153015-pa19861.pdf`
-- Parecer 19861 — 22 páginas — `pa19861.pdf`
+- Parecer 19861 — dois vínculos com 22 páginas cada — `16153015-pa19861.pdf` e `pa19861.pdf`; identidade contada uma vez, equivalência documental ainda pendente de cotejo.
 - Parecer 20738 — 40 páginas — `03142125-pa20738.pdf`
 - Parecer 21483 — 27 páginas — `18155409-pa21483.pdf`
 - Parecer 21484 — 18 páginas — `18155405-pa21484.pdf`

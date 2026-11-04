@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Licitação. Fase externa. Manifestação jurídica.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/14.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/14.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 61510 bytes; SHA-256 `9953d49ff47383e2d9e86c50745bf1d019646cf4e766e7a7baeb720ab3ce6aac`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

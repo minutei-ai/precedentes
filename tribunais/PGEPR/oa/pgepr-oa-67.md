@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Prestação de Garantia, Contratual e de Proposta. Exigência de comprovação de capital social mínimo ou patrimônio líquido mínimo.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm067PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm067PGE.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 144898 bytes; SHA-256 `039a721e4a0da19951b6cc3904cb0025651130c38cac79b938130b4b54630d63`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

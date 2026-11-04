@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Alteração bilateral dos contratos administrativos.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm095PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm095PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 951392 bytes; SHA-256 `224544dbd49272855dd3f648945520b668c80a11e0bbe3c1ff50ee71dec3ebe6`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

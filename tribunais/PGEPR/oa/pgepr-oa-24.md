@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Licitação Dispensada (ART. 8°, INC. II, ALÍNEA "A", DA LEI ESTADUAL N° 15.608/2007). Doação de bens móveis inservíveis e/ou desnecessários para municípios. Desnecessidade de parecer do órgão de assessoria jurídica. Doação da minuta de termo de doação e da lista de verificação padronizadas
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/24.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/24.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 364918 bytes; SHA-256 `08d1c300cd71708bb8cdcf875bf515cfe3e8aee8729568d54ac09764ed92c9d4`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

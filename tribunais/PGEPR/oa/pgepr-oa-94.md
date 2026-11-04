@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Critério de julgamento. Maior desconto.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm094PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm094PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 947244 bytes; SHA-256 `db0f0c57906550c5fab4df2806bb6c6b2aa153e85d540bce115765bd25a68d3a`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

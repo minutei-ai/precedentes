@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Licitações e dispensa. Análise sobre a alteração dos limites das modalidades da Lei n.º 8.666/93. Aplicabilidade do Decreto Federal n.° 9.412, de 18 de junho de 2018.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/27.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/27.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 58590 bytes; SHA-256 `1f1f29008a7b2ea517b72a4ad54cc2791e364609e8ec51c18ef03bf164d62056`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

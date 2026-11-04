@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Fundações de apoio. Lei n. 20.537/2021. Critérios de escolha de fundações de apoio para atuação junto a Instituições Científicas, Tecnológicas e de Inovação (ICTs) em projetos relacionados à área de Ciência, Tecnologia e Inovação – CT&I.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2025-06/resolucao_no_134-2025-dioe_11917.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2025-06/resolucao_no_134-2025-dioe_11917.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 1573076 bytes; SHA-256 `530402c2094630716b5385a9ac99e5b52e32bce2b3b647e9dbcddfafec282823`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

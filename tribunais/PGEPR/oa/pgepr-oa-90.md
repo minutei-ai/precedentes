@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Competência. Advocacia Pública. Atribuições.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm090PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm090PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 941821 bytes; SHA-256 `6c9df19b4bd478870e4ca4849dd9d038f8097d10cb94f50ebe081177b0c19e4c`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

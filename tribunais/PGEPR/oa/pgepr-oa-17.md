@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Contrato Programa "Escola 1000-SEED". Lista de Verificação. Manifestação jurídica.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/17.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/17.pdf)
-- **Páginas do PDF:** 6; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 6; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 288101 bytes; SHA-256 `35eab670ca746c426dccc3054033c5272d3916920b9fc0c21014848c7df3dc53`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

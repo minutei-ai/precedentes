@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Capítulo IV, da Lei Estadual nº. 20.656/2021. O Ajustamento de Conduta previsto no Capítulo IV, da Lei Estadual nº. 20.656/2021 é aplicável aos fatos ocorridos antes da vigência da citada lei, sendo irrelevante o termo inicial da persecução do ilícito, que se tem com a instauração do processo sancionatório. As normas do Capítulo IV, da Lei Estadual nº. 20.656/2021 incidem nos processos regidos por leis que regulem a aplicação de sanções a servidores públicos ou a quem se sujeite ao poder punitivo da Administração Pública Estadual, salvo regulamentação específica em lei sobre o Ajustamento de Conduta ou outro instituto com semelhante finalidade.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-04/orientacaoadministrativa052pge.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-04/orientacaoadministrativa052pge.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 293465 bytes; SHA-256 `4b5f0881e6af5a85510c03da2975744ba71f9415266f45137cd94a5868f9ef78`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

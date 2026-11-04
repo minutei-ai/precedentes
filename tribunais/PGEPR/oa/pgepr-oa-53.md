@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Lei Federal nº 14.133, de 1º de abril de 2021; Decreto Estadual nº 10.086, de 17 de janeiro de 2022. Possibilidade de utilização, de modo excepcional e transitório, do Portal da Transparência do Estado do Paraná, em substituição ao Portal Nacional de Compras Públicas, até a sua efetiva integração e adequação, para os mesmos fins. Meios de divulgação dos atos advindos da aplicação da Lei nº 14.133/2021.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-04/orientacaoadministrativa053pge.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-04/orientacaoadministrativa053pge.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 1378452 bytes; SHA-256 `d2c4699c02955515a03aa2e5013607d85c377b8ce6e0cd5bf3f65d6ab7d0877a`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

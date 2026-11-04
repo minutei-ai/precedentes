@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Assessoramento Jurídico da Administração Direta e Autárquica do Estado do Paraná. Prerrogativa privativa da Procuradoria-Geral do Estado e da Carreira Especial de Advogado do Estado do Paraná. Impossibilidade de existência na estrutura organizacional da Administração Direta e das autarquias estaduais, de "assessoria jurídica" que não seja composta por Procuradores do Estado do Paraná ou Advogados do Estado do Paraná. Responsabilização da autoridade que permitir o desvio funcional.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/OrientacaoAdministrativaa035.pdf](http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/OrientacaoAdministrativaa035.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 18235166 bytes; SHA-256 `241ddfd580fc7cbafdac5713e35ad1633202bdeed292d9045839be8eeb4ab489`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

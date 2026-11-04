@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Identificação do servidor responsável pelas cotações nos processos de licitação, nas contratações diretas e nos convênios e seus congêneres, inclusive nos instrumentos de que trata a Lei Federal n° 13.019, de 31 de julho de 2014.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm061PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm061PGE.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 143681 bytes; SHA-256 `37d7fbad43c2c3a96887094f12cde2d868083eb0d1bfc4d2b32f71a7bd042784`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

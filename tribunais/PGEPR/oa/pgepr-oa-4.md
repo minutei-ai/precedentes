@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Obras e Serviços de Engenharia. Exigência de Qualificação Técnica.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/4.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/4.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); somente a página física 1 conferida visualmente na amostra; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 100264 bytes; SHA-256 `9acaa130c61944b432eabe4b61e2c4a8f04fd2762b5dd68f7cf90ea38e2a1e66`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

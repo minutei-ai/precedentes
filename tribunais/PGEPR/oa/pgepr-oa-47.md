@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Lei Federal nº 14.133, de 2021. Normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios. Aplicação no âmbito da Administração Pública Direta, Autárquica e Fundacional do Estado do Paraná Momento de adoção da nova Lei.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-04/orientacaoadmnistrativa047.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-04/orientacaoadmnistrativa047.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 97845 bytes; SHA-256 `e74df511863b5aff610ca9625be38ec044ca242971927f5ce944beb86a933f06`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

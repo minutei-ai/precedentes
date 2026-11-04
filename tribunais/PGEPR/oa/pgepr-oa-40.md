@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Contratos Administrativos. Dispensa de Licitação. Declaração de inconstitucionalidade do inciso VII do art. 34 da Lei Estadual n.15.608/2007.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-03/orientacaoadministrativa040.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-03/orientacaoadministrativa040.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 95892 bytes; SHA-256 `7072a9b929b58245c737ddd460e364a3c5bff46aa416c78fa020a55e84382fed`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

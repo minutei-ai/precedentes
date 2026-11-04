@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Requerimento de dispensa de dias trabalhados em razão da prestação de serviços eleitorais.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-05/Orient-adm086PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-05/Orient-adm086PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 1497878 bytes; SHA-256 `369b61ad5c53e61409cfc4201606d34bb8affee3e31378f84a4cda518123f12b`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

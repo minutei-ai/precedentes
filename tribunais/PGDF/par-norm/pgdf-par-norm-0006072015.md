@@ -16,6 +16,8 @@
 
 ## Texto do PDF
 
+A extração e os metadados deste lote apresentam falhas de codificação; a literalidade integral permanece pendente de cotejo com as imagens do PDF.
+
 ### Página física 1
 
 P.:Jro::;c":r Ã.PRr,i!"~" n~lo Exrno. Sr.

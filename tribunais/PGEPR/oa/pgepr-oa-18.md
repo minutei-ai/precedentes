@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Parcerias. Lei 13.019/2014. Dispensa ou inexigibilidade de chamamento público.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/18.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/18.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 73325 bytes; SHA-256 `e04f185a50f400de2917bf6966e2aca0348611904b97751d7ffad8e64e283c6d`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

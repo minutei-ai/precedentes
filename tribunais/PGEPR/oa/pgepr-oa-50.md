@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** COBRANÇA POR MUNICÍPIO DE TAXA DE COLETA DE LIXO DE IMÓVEL. A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal. Tese fixada pelo STF por meio da Súmula Vinculante nº 19.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/orientacaoadministrativa050.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/orientacaoadministrativa050.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 252945 bytes; SHA-256 `441637ab6e8a49f5bd86d721cc96fbe8b159ed279d23fc9c0fb2d831d533a557`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Acordos, transações, TAJ’s ou TAC’s por autarquias representadas judicialmente pela PGE. A celebração de acordo, transação, TAC – Termo de Ajuste de Conduta ou TAJ - Termo de Acordo Judicial envolvendo matérias sub judice e de interesse de autarquias representadas pela Procuradoria-Geral do Estado é de competência da PGE. Artigo 132 da Constituição Federal, artigo 123 da Constituição Estadual, Leis Complementares Estaduais 26/1985 e 195/2016.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-02/orientacaoadministrativa051pge.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-02/orientacaoadministrativa051pge.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 253115 bytes; SHA-256 `c9bee1fc0671d1c28f25f5801cd0346d4653e857756a31b108cb695bbff96c8e`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

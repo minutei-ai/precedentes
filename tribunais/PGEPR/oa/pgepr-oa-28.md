@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Implantação em folha de condenações judiciais - RPV. Lei n.° 18.664/2015, art. 4°, § 1°. Decreto n.° 3.878/2016. Procedimentos prévios para celebração de acordo - Autorização prévia da SEFA.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/Orientacao28de2018.pdf](http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/Orientacao28de2018.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 200055 bytes; SHA-256 `02ac29da8747d145a14bdd6c44c29d22f966933aaf152effbaa0131ab9780da4`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

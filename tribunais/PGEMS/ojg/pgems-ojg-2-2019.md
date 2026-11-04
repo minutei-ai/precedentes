@@ -297,4 +297,3 @@ cinco por cento) a partir de 1º de maio de 2019. (acrescentado pela Lei nº 5.1
 ## Conferência e limites
 
 Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Minutas-padrão, checklists, certidões e listas de verificação do mesmo catálogo não receberam IDs de precedente. Decisões de Gabinete apenas anexas não foram fundidas ao parecer nem convertidas em registros próprios neste lote. Não se infere vigência atual, força vinculante ou completude da série. PDFs e capturas permanecem privados.
-

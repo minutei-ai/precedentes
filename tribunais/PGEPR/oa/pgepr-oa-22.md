@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Licitação dispensada (art. 8º, INC. II, alínea "a", da Lei Estadual nº 15.608/2007), doação de veículos inservíveis e/ou desnecessários para municípios. Desnecessidade de parecer do órgão de assessoria jurídica. Adoção da minuta de Termo de Doação e da lista de verificações padronizadas.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/22.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/22.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 57764 bytes; SHA-256 `cc2900a16ce9d6edce89024cdbefff1f60c82e27987d9e8272a48f80c5616bbe`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

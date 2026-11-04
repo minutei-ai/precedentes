@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Art. 21 da Lei de Introdução às Normas do Direito Brasileiro, inserido pela Lei nº 13.655/2018. Obrigatoriedade de motivação das decisões administrativas de decretação de invalidade de ato, ajuste, processo ou norma administrativa, considerando as consequências jurídicas e administrativas desses atos e cujos efeitos práticos sejam proporcionais, equânimes e sem prejuízos excessivos aos sujeitos porventura atingidos. No caso de possibilidade de convalidação/saneamento de ato, ajuste, processo ou norma administrativa, a obrigatoriedade de indicar expressamente o modo de sua regularização.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/OrientacaoAdministrativa030PGE.pdf](http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/OrientacaoAdministrativa030PGE.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 526695 bytes; SHA-256 `d37b40418ccc7aeaeba310fc0bcc3a12426facf9d8eba548fa27bd60c42ff0bf`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

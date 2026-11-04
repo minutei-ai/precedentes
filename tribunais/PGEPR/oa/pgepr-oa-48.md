@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** MILITARES. Promoção na carreira. O ato administrativo funcional de promoção só se perfectibiliza com o preenchimento de todos os requisitos legais, pressupondo a existência de vagas na classe superior e a respectiva disponibilidade orçamentária e financeira. Os efeitos funcionais e financeiros da promoção só têm início com a publicação do ato de concessão na imprensa oficial (Diário Oficial do Estado do Paraná), sendo vedada a atribuição de efeitos retroativos, nos termos da Lei Complementar Estadual nº 231/2020. (Revoga a Orientação Administrativa nº 39/PGE )
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa039.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa039.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 174285 bytes; SHA-256 `aad2b10c290fad6fdf2b09af27ccfe2198bf061af6d7502cfb6591dd2bc2375a`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

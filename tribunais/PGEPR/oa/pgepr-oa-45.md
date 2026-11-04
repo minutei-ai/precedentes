@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Concurso Público. Idoneidade Moral de Candidatos em Concursos Públicos. Inquéritos policiais ou processos penais em curso. STF – Recurso Extraordinário n ° 560.900 (repercussão geral).
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-01/OrientacaoAdministrativa_045PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-01/OrientacaoAdministrativa_045PGE.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 136194 bytes; SHA-256 `2606f1a15eafa1ed5049852294e36f9161a690b7ab0b5144f685271f00679d1e`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

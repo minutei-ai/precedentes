@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Direito Administrativo. Servidor público e concurso público. Direito à nomeação e validade de concurso público. STF - RE 598.099 e RE 837.311, julgados em repercussão geral.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/26.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/26.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 367304 bytes; SHA-256 `da969600f4686afc278dca08eb1028f627ce7278a22e6686fc463e19820b9402`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

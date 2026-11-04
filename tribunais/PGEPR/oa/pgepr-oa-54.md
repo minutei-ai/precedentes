@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Lei Federal nº 14.133, de 1º de abril de 2021; Decreto Estadual nº 10.086, de 17 de janeiro de 2022. Possibilidade de adesão às Atas de Registro de Preços do Estado do Paraná por parte dos Municípios. Limites para as aquisições ou contratações adicionais; Impossibilidade de adesão pelos órgãos ou entidades da Administração Pública estadual à Ata de Registro de Preços de órgão ou entidade municipal; Possibilidade de exigência de adesão à Ata de registro de Preços de órgão gerenciador da Administração Pública estadual para fins de transferências voluntárias e se destinada à execução descentralizada de programa ou projeto estadual.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-04/orientacaoadministrativa054pge.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-04/orientacaoadministrativa054pge.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 1384071 bytes; SHA-256 `ac2794400df82f0cbc7595fa15050b1ea51e1891048e5dfdcf6bfab034185e26`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Diretrizes aplicáveis ao planejamento nas contratações públicas via Encomenda Tecnológica, segundo o Marco Legal de Ciência, Tecnologia e Inovação (Lei nº 10.973/2004, Lei Estadual nº 20.541/2021 e Decreto Estadual nº 1.350/2023) e aplicação subsidiária da Lei nº 14.133/2021
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2026-07/Orientacao_administrativa%20101.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2026-07/Orientacao_administrativa%20101.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 318488 bytes; SHA-256 `abe33135a0029fc2ede599fb97119e7f1d229b0677f68247e3fc3d779ac5a30a`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

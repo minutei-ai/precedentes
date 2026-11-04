@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Concurso Público. Remarcação de teste de aptidão física para candidatas gestantes. STF – Recurso Extraordinário n ° 1058333 (repercussão geral).
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-10/orientacaoadministrativa044.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-10/orientacaoadministrativa044.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 142616 bytes; SHA-256 `ea2eb5e7cb9afe716f0b910b4309443837d969511eba4ecbcb5f043065cded11`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

@@ -1180,4 +1180,3 @@ Tel: 27-3636-5050 Fax: 27-3636-5056 e-mail: pge@pge.es.gov.br Website:http://www
 ## Limites
 
 Resolução 354/2024 permanece citada em fichas individuais quando o catálogo HTML a menciona; se o PDF não estava entre os vínculos diretos recuperados nesta passagem, a recuperação complementar fica pendente. Não se infere vigência pela leitura destes atos.
-

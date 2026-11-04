@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Art. 20 da Lei de Introdução às Normas do Direito Brasileiro,inserido pela Lei nº 13.655/2018. Obrigatoriedade de motivação que considere as consequências práticas de atos administrativos. Dever de demonstrar a relação de adequação-necessidade dos atos em comparação com as alternativas existentes .
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/OrientacaoAdministrativa029PGE.pdf](http://www.pge.pr.gov.br/arquivos/File/Orientacoes_Administrativas_/OrientacaoAdministrativa029PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 764887 bytes; SHA-256 `e63bf3f924628d323936a154bddb0acba2ba81fd0184ee6eadc63fab268320b3`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 

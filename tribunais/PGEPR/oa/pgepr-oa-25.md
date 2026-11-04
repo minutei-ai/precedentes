@@ -10,7 +10,7 @@
 - **Ementa no catálogo:** Inscrição em dívida ativa. Crédito não tributário. Disposição funcional de servidor público estadual com ônus para o órgão de origem mediante ressarcimento. Inadimplemento da entidade de destino. Procedimento e prazos a serem adotados nos termos do Decreto nº 8.466/2013 e da Lei Federal nº 6.830/1980.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
 - **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/25.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-10/25.pdf)
-- **Páginas do PDF:** 6; camada textual extraída do PDF oficial (pdftotext); conferência visual amostral das páginas neste lote
+- **Páginas do PDF:** 6; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
 - **Capturas:** HTTP 200 em 04/11/2026; 357223 bytes; SHA-256 `487209a4652eb0b831973aa111dc71968f5148788a346efe3d5dc3c146721454`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
