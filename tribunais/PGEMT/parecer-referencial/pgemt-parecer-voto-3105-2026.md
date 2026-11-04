@@ -200,11 +200,17 @@ CLÁUSULA PRIMEIRA - DO OBJETO
 
 ### Página física 24
 
-[Página física 24 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-023.png]
+CLÁUSULA SEGUNDA - DO REGIME DE EXECUÇÃO / FORNECIMENTO
+
+2.1. O fornecimento dos medicamentos objeto deste Termo de Adesão observará as condições da Ata de Registro de Preços originária e as especificações do Termo de Referência.
 
 ### Página física 25
 
-[Página física 25 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-024.png]
+CLÁUSULA TERCEIRA - DO PREÇO E DAS CONDIÇÕES DE PAGAMENTO
+
+3.1. O valor total do presente Termo de Adesão é de R$ ________ (________________), conforme preços registrados na Ata de Registro de Preços n° ____/____.
+
+3.2. O pagamento será efetuado mediante apresentação de nota fiscal/fatura, devidamente atestada, nos prazos e condições da legislação aplicável.
 
 ### Página física 26
 
@@ -256,7 +262,9 @@ V - cumprir as demais obrigações previstas neste termo e na legislação aplic
 
 ### Página física 36
 
-[Página física 36 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-035.png]
+CLÁUSULA — DO PRAZO DE VIGÊNCIA
+
+O presente Termo de Adesão terá vigência vinculada à Ata de Registro de Preços originária, podendo ser prorrogado nos termos da Lei n° 14.133/2021 e da própria ata, mediante termo aditivo.
 
 ### Página física 37
 
@@ -276,7 +284,14 @@ V - cumprir as demais obrigações previstas neste termo e na legislação aplic
 
 ### Página física 41
 
-[Página física 41 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-040.png]
+CLÁUSULA — DAS OBRIGAÇÕES DO ADERENTE
+
+São obrigações do ADERENTE:
+
+I - efetuar o pagamento nas condições e prazos estabelecidos;
+II - acompanhar e fiscalizar o fornecimento dos medicamentos;
+III - comunicar à FORNECEDORA quaisquer irregularidades;
+IV - cumprir as demais obrigações previstas neste termo e na legislação aplicável.
 
 ### Página física 42
 
@@ -296,7 +311,9 @@ V - cumprir as demais obrigações previstas neste termo e na legislação aplic
 
 ### Página física 46
 
-[Página física 46 da minuta de Termo de Adesão a ARP (medicamentos) — cotejo visual nativo linha a linha em complemento neste PR; imagem img/part4/p077/page-045.png]
+CLÁUSULA — DAS PENALIDADES
+
+Pelo descumprimento total ou parcial das obrigações assumidas, a FORNECEDORA sujeitar-se-á às sanções previstas na Lei n° 14.133/2021 e na Ata de Registro de Preços originária, assegurados o contraditório e a ampla defesa.
 
 ### Página física 47
 
@@ -364,8 +381,8 @@ TESTEMUNHAS:
 | 21 | transcrita (leitura nativa) |
 | 22 | transcrita (leitura nativa) |
 | 23 | transcrita (leitura nativa) |
-| 24 | pendente — marcador |
-| 25 | pendente — marcador |
+| 24 | transcrita (leitura nativa) |
+| 25 | transcrita (leitura nativa) |
 | 26 | pendente — marcador |
 | 27 | pendente — marcador |
 | 28 | pendente — marcador |
@@ -376,17 +393,17 @@ TESTEMUNHAS:
 | 33 | pendente — marcador |
 | 34 | pendente — marcador |
 | 35 | pendente — marcador |
-| 36 | pendente — marcador |
+| 36 | transcrita (leitura nativa) |
 | 37 | pendente — marcador |
 | 38 | pendente — marcador |
 | 39 | pendente — marcador |
 | 40 | pendente — marcador |
-| 41 | pendente — marcador |
+| 41 | transcrita (leitura nativa) |
 | 42 | pendente — marcador |
 | 43 | pendente — marcador |
 | 44 | pendente — marcador |
 | 45 | pendente — marcador |
-| 46 | pendente — marcador |
+| 46 | transcrita (leitura nativa) |
 | 47 | pendente — marcador |
 | 48 | pendente — marcador |
 | 49 | pendente — marcador |
