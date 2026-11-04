@@ -22,14 +22,18 @@ I - A responsabilidade subsidiária do tomador de serviços abrange todas as ver
 
 *Cancelado o item II em razão do julgamento do processo administrativo SEI 0000920- 56.2025.5.17.0500, em sessão administrativa, com início em 29/8/2025, na modalidade virtual, e término em 3/9/2025, na modalidade presencial.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: SÚMULA Nº 21 - RESPONSABILIDADE SUBSIDIÁRIA DO TOMADOR DE SERVIÇOS.
 
 Data indicada: 31/08/2018
 
-Página individual: [leitor 406331041](https://app.trt17.jus.br/principal/publicacoes/leitor/406331041?Formato=pdf), formato pdf. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 406331041](https://app.trt17.jus.br/principal/publicacoes/leitor/406331041?Formato=pdf) (lista aponta PDF; o HTML `?Formato=html` também responde).
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML manteve os itens I e II da redação alterada em 2018 (IUJ `0000604-06.2016.5.17.0000`) e a redação original de 2015, sem a nota de cancelamento do item II do SEI `0000920- 56.2025.5.17.0500` presente na Consulta Unificada. As publicações DEJT de 2015 e 2018 do leitor foram vistas e não substituem o enunciado da Unificada. As duas apresentações foram preservadas com atribuição própria.

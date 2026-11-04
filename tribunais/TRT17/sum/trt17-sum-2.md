@@ -18,14 +18,18 @@ SÚMULA Nº 2 (CANCELADA)
 
 *Cancelada em razão do julgamento do processo administrativo SEI 0000920-56.2025.5.17.0500, em sessão administrativa, com início em 29/8/2025, na modalidade virtual, e término em 3/9/2025, na modalidade presencial.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: Súmula Nº 02 - EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS
 
 Data indicada: 22/09/2010
 
-Página individual: [leitor 987301501](https://app.trt17.jus.br/principal/publicacoes/leitor/987301501?Formato=html), formato html. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 987301501](https://app.trt17.jus.br/principal/publicacoes/leitor/987301501?Formato=html), formato html.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML exibiu o enunciado sem risco e sem a nota de cancelamento do SEI `0000920-56.2025.5.17.0500` presente na Consulta Unificada. O leitor acrescenta publicações no Diário Oficial do TRT17 (n.º 569–571) e no DEJT (n.º 586–588), com a grafia “Trablho”. As duas apresentações foram preservadas com atribuição própria; a ficha do leitor não foi usada para afastar o cancelamento da Unificada.

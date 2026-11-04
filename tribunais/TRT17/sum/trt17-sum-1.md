@@ -16,14 +16,18 @@ SÚMULA Nº 1
 
 JUROS DE MORA. NATUREZA JURÍDICA INDENIZATÓRIA. IMPOSTO DE RENDA. NÃO INCIDÊNCIA. Os juros de mora decorrentes de obrigação reconhecida em sentença judicial possuem natureza indenizatória, sendo indevida a sua inclusão na base de cálculo do imposto de renda. Inteligência do art. 404, parágrafo único, do Código Civil, combinado com o art. 46, § 1º, I, da Lei 8.541/1992 e art. 110 do CTN.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: Súmula Nº 01 - JUROS DE MORA. NATUREZA JURÍDICA INDENIZATÓRIA
 
 Data indicada: 09/06/2010
 
-Página individual: [leitor 987301500](https://app.trt17.jus.br/principal/publicacoes/leitor/987301500?Formato=html), formato html. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 987301500](https://app.trt17.jus.br/principal/publicacoes/leitor/987301500?Formato=html), formato html.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML exibiu o enunciado idêntico ao da Consulta Unificada, acrescido das publicações no Diário Oficial do TRT17 (n.º 489–491, 16–18/06/2010) e no DEJT (n.º 501–503, 17–21/06/2010), com a grafia “Trablho” na linha do DEJT. O título do portal e as datas de publicação do leitor não substituem o enunciado da Unificada. Demais fichas e o caderno PDF seguem pendentes de conciliação integral.
