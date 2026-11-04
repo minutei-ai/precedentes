@@ -16,7 +16,7 @@ As datas permanecem nos textos da fonte e não foram usadas como atualização i
 
 ## Resolução Administrativa nº 80/2014 recuperada
 
-Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/36704?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-80/2014) coincidem: SHA-256 `729db012360de55e1532d9ee78e29b42281af692d49a8928bdef42ca32232e18`, 18962 bytes. A RA edita a Súmula nº 26 a partir do acórdão de seq. 29 no IUJ nº 0000094-23.2014.5.22.0000 (Sessão Administrativa de 05/11/2014). O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional. O inteiro teor do IUJ permanece pendente de canal oficial sem captcha.
+Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/36704?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-80/2014) coincidem: SHA-256 `729db012360de55e1532d9ee78e29b42281af692d49a8928bdef42ca32232e18`, 18962 bytes. A RA edita a Súmula nº 26 a partir do acórdão de seq. 29 no IUJ nº 0000094-23.2014.5.22.0000 (Sessão Administrativa de 05/11/2014). O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional. 1 página (pdftotext nativo na evidência privada `trt22/ras/transcricao-nativa/ra80-p01.txt`). O inteiro teor do IUJ permanece pendente de canal oficial sem captcha.
 
 ## Texto disponibilizado pela fonte
 

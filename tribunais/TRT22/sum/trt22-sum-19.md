@@ -16,7 +16,7 @@ As datas permanecem nos textos da fonte e não foram usadas como atualização i
 
 ## Resolução Administrativa nº 67/2013 recuperada
 
-Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/36021?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-67/2013) coincidem: SHA-256 `9064346f16b59ec69af8ce62a10c664021687fb2c4bc0c1b5a9efffa3b3c4d1c`, 202734 bytes. A RA (republicada por incorreção) aprova as Súmulas 19 a 24 (Sessão Administrativa de 12/06/2013, processo administrativo nº 190/2013). O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional.
+Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/36021?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-67/2013) coincidem: SHA-256 `9064346f16b59ec69af8ce62a10c664021687fb2c4bc0c1b5a9efffa3b3c4d1c`, 202734 bytes. A RA (republicada por incorreção) aprova as Súmulas 19 a 24 (Sessão Administrativa de 12/06/2013, processo administrativo nº 190/2013). O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional. 3 páginas (pdftotext nativo página a página na evidência privada `trt22/ras/transcricao-nativa/ra67-p0N.txt`).
 
 ## Texto disponibilizado pela fonte
 

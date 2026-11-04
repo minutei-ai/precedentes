@@ -16,7 +16,7 @@ As datas permanecem nos textos da fonte e não foram usadas como atualização i
 
 ## Resolução Administrativa nº 57/2007 recuperada
 
-Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/35232?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-57/2007) coincidem: SHA-256 `3df2aefb73d3284fb0d7c1e67bbb48363fe89c1d9586f7fd2c02b972cfe59f41`, 17279 bytes. A RA aprova, em anexo, as Súmulas 1 a 17 do TRT22 (Sessão Administrativa de 12/06/2007, Processo Administrativo nº 333/2007). O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional.
+Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/35232?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-57/2007) coincidem: SHA-256 `3df2aefb73d3284fb0d7c1e67bbb48363fe89c1d9586f7fd2c02b972cfe59f41`, 17279 bytes. A RA aprova, em anexo, as Súmulas 1 a 17 do TRT22 (Sessão Administrativa de 12/06/2007, Processo Administrativo nº 333/2007). O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional. 4 páginas (pdftotext nativo página a página na evidência privada `trt22/ras/transcricao-nativa/ra57-p0N.txt`).
 
 ## Texto disponibilizado pela fonte
 

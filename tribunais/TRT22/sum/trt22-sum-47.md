@@ -16,7 +16,7 @@ As datas permanecem nos textos da fonte e não foram usadas como atualização i
 
 ## Resolução Administrativa nº 56/2024 recuperada
 
-Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/64552?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-56/2024) coincidem: SHA-256 `3528cbfab30fe4ce6b8459213ceba55230b221d0f746a38422b5ac493612b25a`, 97433 bytes. A RA (PROAD nº 1780/2024, Sessão Administrativa de 07/08/2024) trata da proposição de enunciado de súmula sobre prescrição intercorrente vinculada a este verbete no catálogo. O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional.
+Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/64552?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-56/2024) coincidem: SHA-256 `3528cbfab30fe4ce6b8459213ceba55230b221d0f746a38422b5ac493612b25a`, 97433 bytes. A RA (PROAD nº 1780/2024, Sessão Administrativa de 07/08/2024) trata da proposição de enunciado de súmula sobre prescrição intercorrente vinculada a este verbete no catálogo. O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional. 7 páginas (pdftotext nativo página a página na evidência privada `trt22/ras/transcricao-nativa/ra56-p0N.txt`).
 
 ## Texto disponibilizado pela fonte
 
