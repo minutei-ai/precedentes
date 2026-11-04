@@ -35,3 +35,7 @@ O viewer do navegador integrado renderizou o caderno “SÚMULAS DO TRT DA 17ª 
 ## Sem novos IDs
 
 65 registros Unificada + 62 fichas leitor reconciliadas; ausência de 53/55/65 na lista não cria nem remove IDs.
+
+## Leitura nativa da Unificada (04/11/2026)
+
+As 17 páginas do PDF Unificada (SHA-256 `32055b651824f55a5850d398c85fcc48537af8b49f06464c92790a8a9a48d40f`) foram abertas por leitura nativa (render + camada de texto), sem OCR externo. Cobertura por página e literais preservados: [UNIFICADA-LEITURA-NATIVA-20261104.md](UNIFICADA-LEITURA-NATIVA-20261104.md).
