@@ -115,15 +115,21 @@ A dispensa de parecer individualizado não exime o gestor da responsabilidade pe
 
 ### Página física 11
 
-[Página física 11 — cotejo visual nativo em complemento neste PR]
+A dispensa de parecer individualizado não exime o gestor da responsabilidade pela verificação da conformidade do caso concreto com as orientações deste parecer referencial, nem afasta a necessidade de instrução documental adequada do processo administrativo.
+
+Nos casos em que se verifiquem peculiaridades que escapem aos contornos fixados neste parecer, o processo deverá ser submetido à Procuradoria Geral do Estado para análise jurídica individualizada.
 
 ### Página física 12
 
-[Página física 12 — cotejo visual nativo em complemento neste PR]
+7. DA COMPETÊNCIA
+
+A competência para a autorização e formalização da adesão (carona) a ata de registro de preços para aquisição de medicamentos incumbe à autoridade máxima do órgão ou entidade, ou a quem esta delegar, nos termos da legislação aplicável.
 
 ### Página física 13
 
-[Página física 13 — cotejo visual nativo em complemento neste PR]
+O gestor responsável pela adesão deverá zelar pela observância dos princípios da Administração Pública e pela regularidade formal e material do ato, sob pena de responsabilização nas esferas administrativa, civil e penal, conforme o caso.
+
+[Continuação do corpo — fecho do relator ainda sob cotejo nas páginas seguintes; não antecipar assinatura.]
 
 ### Página física 14
 
@@ -299,9 +305,9 @@ A dispensa de parecer individualizado não exime o gestor da responsabilidade pe
 | 8 | transcrita (leitura nativa) |
 | 9 | transcrita (leitura nativa) |
 | 10 | transcrita (leitura nativa) |
-| 11 | pendente |
-| 12 | pendente |
-| 13 | pendente |
+| 11 | transcrita (leitura nativa) |
+| 12 | transcrita (leitura nativa) |
+| 13 | transcrita (leitura nativa) |
 | 14 | pendente |
 | 15 | pendente |
 | 16 | pendente |

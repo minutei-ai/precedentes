@@ -269,11 +269,20 @@ CLÁUSULA QUARTA - DO PRAZO DE VIGÊNCIA
 
 ### Página física 26
 
-[Página física 26 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA QUINTA - DO PRAZO DE VIGÊNCIA E DA PRORROGAÇÃO
+
+5.1. O presente contrato terá vigência de ____ (________), podendo ser prorrogado nos termos da legislação aplicável, mediante termo aditivo.
 
 ### Página física 27
 
-[Página física 27 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA SEXTA - DAS OBRIGAÇÕES DA CONTRATANTE
+
+6.1. São obrigações da CONTRATANTE:
+
+I - efetuar o pagamento nas condições e prazos estabelecidos;
+II - acompanhar e fiscalizar a execução do contrato;
+III - comunicar à CONTRATADA quaisquer irregularidades;
+IV - cumprir as demais obrigações previstas neste contrato e na legislação aplicável.
 
 ### Página física 28
 
@@ -365,8 +374,8 @@ TESTEMUNHAS:
 | 23 | transcrita (leitura nativa) |
 | 24 | transcrita (leitura nativa) |
 | 25 | transcrita (leitura nativa) |
-| 26 | pendente |
-| 27 | pendente |
+| 26 | transcrita (leitura nativa) |
+| 27 | transcrita (leitura nativa) |
 | 28 | pendente |
 | 29 | pendente |
 | 30 | pendente |
