@@ -22,7 +22,7 @@ PRESCRIÇÃO. ANUÊNIOS. BANCO DO BRASIL.
 
 SÚMULA N.º 22 (revisada)
 
-Datas, processos, referências, publicações e notas de revisão foram mantidos nos próprios textos, sem normalizar grafias ou reconstruir identificadores. Os inteiros teores dos acórdãos, resoluções e demais atos citados não foram coletados neste lote.
+Datas, processos, referências, publicações e notas de revisão foram mantidos nos próprios textos, sem normalizar grafias ou reconstruir identificadores. Em 04/11/2026 a [página individual](https://www.trt13.jus.br/institucional/nugep/sumulas/sumula-n-o-22) foi reaberta pelo navegador (o acesso direto por HTTP respondeu 403) e o texto, o histórico e a tese do IAC Tema 10 coincidiram com o acervo; a página não oferece PDF do acórdão do IAC nº 0001360-64.2024.5.13.0026. Os inteiros teores dos acórdãos, resoluções e demais atos citados continuam pendentes de coleta no PJe/DEJT.
 
 ## Texto disponibilizado pela fonte
 

@@ -20,4 +20,8 @@ ED COM EFEITO MODIFICATIVO PARA REFORMULAR A TESE JURÍDICA VINCULANTE DO ACÓRD
 
 - [00004106720255070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0000410-67.2025.5.07.0000/2#c02d0d0)
 
+## Outra fonte oficial
+
+[TRT7 — Teses Firmadas em IAC](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/teses-firmadas-em-iac) (página atualizada em 05/10/2026). O catálogo apresenta a tese nº 0006 como “TESE JURÍDICA VINCULANTE REVISADA”, com os mesmos sete requisitos da redação acima e nota de embargos de declaração parcialmente providos com efeitos modificativos. A apresentação do BNP permanece atribuída à fonte BNP.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

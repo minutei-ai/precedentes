@@ -22,7 +22,7 @@ CAIXA ECONÔMICA FEDERAL. NATUREZA SALARIAL DO AUXÍLIO-ALIMENTAÇÃO. EFEITOS D
 
 SÚMULA N.º 36 (revisada)
 
-Datas, processos, referências, publicações e notas de revisão foram mantidos nos próprios textos, sem normalizar grafias ou reconstruir identificadores. Os inteiros teores dos acórdãos, resoluções e demais atos citados não foram coletados neste lote.
+Datas, processos, referências, publicações e notas de revisão foram mantidos nos próprios textos, sem normalizar grafias ou reconstruir identificadores. Em 04/11/2026 a [página individual](https://www.trt13.jus.br/institucional/nugep/sumulas/sumula-n-36) foi reaberta pelo navegador (o acesso direto por HTTP respondeu 403) e o texto, o histórico e a tese do IAC Tema 9 coincidiram com o acervo; a página não oferece PDF do acórdão do IAC nº 0000953-05.2025.5.13.0000. Os inteiros teores dos acórdãos, resoluções e demais atos citados continuam pendentes de coleta no PJe/DEJT.
 
 ## Texto disponibilizado pela fonte
 
