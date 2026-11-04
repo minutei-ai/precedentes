@@ -70,3 +70,7 @@ As notas de alteração permanecem atribuídas à página, inclusive as Resoluç
 | [56](pgees-en-cpge-56.md) |
 | [57](pgees-en-cpge-57.md) |
 | [58](pgees-en-cpge-58.md) |
+
+## Atos vinculados lidos em 04/11/2026
+
+As Resoluções CPGE 324/2022, 353/2024, 355/2025 e 358/2025, o Parecer PGE/PCA nº 01785/2016 e os arquivos de minuta/lista do enunciado 31 foram lidos. A transcrição desses atos de apoio está em [ATOS-VINCULADOS.md](ATOS-VINCULADOS.md). Eles **não** geram novos IDs de enunciado. O cotejo confirma as notas de alteração/revogação já apontadas nas fichas; redações anteriores integrais anteriores às resoluções continuam dependentes dos PDFs históricos das resoluções publicadoras originais quando não reproduzidos nos atos de alteração.
