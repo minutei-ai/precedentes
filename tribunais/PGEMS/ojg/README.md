@@ -1,6 +1,6 @@
 # Orientações Jurídicas Gerais — PGE/MS
 
-3 orientações jurídicas gerais com inteiro teor textual publicado a partir do catálogo da Consultoria Jurídica (04/11/2026).
+3 fichas de orientações jurídicas gerais propostas a partir do catálogo da Consultoria Jurídica (04/11/2026). A ficha1/2026 contém apenas guia simplificado de apoio; a íntegra da orientação está pendente. A revisão independente não certificou integralidade das três fichas.
 
 Série distinta dos pareceres referenciais. Minutas e checklists não entram aqui.
 

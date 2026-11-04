@@ -1,4 +1,4 @@
-# PGEMS · Orientação Jurídica Geral nº 001/2026
+# PGEMS · Orientação Jurídica Geral nº 001/2026 — guia de apoio, íntegra pendente
 
 - **Órgão:** Procuradoria-Geral do Estado de Mato Grosso do Sul (PGEMS)
 - **Série:** Orientações Jurídicas Gerais
@@ -13,7 +13,9 @@
 - **Capturas:** HTTP 200 em 04/11/2026; 306818 bytes; SHA-256 `a133282fd0a3919b5b049a601323bfd596098e93fd841785a37dfcf2969a4362`
 - **Captura do catálogo:** HTTP 200; 722442 bytes; SHA-256 `801e54cb941b7c227c14fbc70b04f58d1d3c9c001968b459a819b887a59d3a04`
 
-## Texto do PDF
+## Documento de apoio — guia simplificado
+
+O PDF reproduzido abaixo se identifica como guia baseado na OJG001/2026. Não é o inteiro teor da orientação. O corpo da orientação integral permanece pendente de transcrição direta e revisão independente; o guia não o substitui.
 
 
 ### Página física 1
