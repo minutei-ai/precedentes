@@ -2,7 +2,7 @@
 
 **60 registros** publicados com texto integral extraído da camada textual dos PDFs oficiais (pdftotext -layout), após captura dual com SHA-256 coincidente em 04/11/2026.
 
-Exceção: `pgesc-parecer-ref-ssp-4-2024` — páginas 2–35 digitalizadas; texto via OCR RapidOCR (rascunho) sobre imagens extraídas do PDF dual-match, com cotejo visual amostral.
+Exceção: `pgesc-parecer-ref-ssp-4-2024` — páginas 2–35 digitalizadas (imagens embutidas); texto por **transcrição direta** das imagens/PDF (Read), com trechos ilegíveis/comprimidos marcados; páginas 1 e 36–38 via `pdftotext -layout`.
 
 Fonte pública principal: [Pareceres Referenciais — PGE/SC](https://www.pge.sc.gov.br/pareceres-referenciais/).
 Base autenticada (não esgotada neste PR): [Gestão do Conhecimento — pgenet](https://pgenet.pge.sc.gov.br/cto/index.jsp).
