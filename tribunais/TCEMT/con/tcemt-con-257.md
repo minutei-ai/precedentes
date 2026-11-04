@@ -18,7 +18,7 @@ O número e ano podem se repetir em sessões distintas. Foram mantidas separadas
 
 ### Pendências e ressalvas
 
--   Página 3 sem texto extraível; conteúdo visual não transcrito.
+-   Página 3 conferida visualmente em 04/11/2026: folha decorativa/logo TCMT sem conteúdo jurídico.
 -   Campo texto adicional do cadastro não conciliado com o PDF; preservado literalmente.
 
 ### Texto adicional literal do cadastro
@@ -212,7 +212,7 @@ Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gr
 
 ### Documento oficial — página 3
 
-Página sem texto extraível. O conteúdo visual não foi transcrito.
+Página conferida visualmente em 04/11/2026: folha decorativa com logotipo do Tribunal de Contas do Estado de Mato Grosso, sem texto jurídico legível.
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 

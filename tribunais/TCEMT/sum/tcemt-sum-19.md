@@ -20,22 +20,64 @@ Os documentos reúnem a súmula e materiais de fundamentação ou precedentes, q
 
 ### Pendências documentais
 
--   Página 1: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 2: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 3: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 4: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 5: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 6: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 7: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 8: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 9: Página sem texto extraível; conteúdo visual não transcrito.
--   Página 10: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 1: Conferida visualmente em 04/11/2026 (enunciado, fundamentação legal, lista de precedentes e início do Precedente 01).
+-   Páginas 2–10: rasters privados prontos (`raster/TCEMT/tcemt-sum-19-*.png`); trechos dos votos/decisões dos precedentes ainda pendentes de conferência integral.
 
 ### Documento oficial — página 1
 
-Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
+                       SUMULA N° 19
+                       É dever do administrador público realizar o pagamento de
+                       despesas legitimamente inscritas em restos a pagar, com
+                       observância da ordem cronológica (art. 5º, Lei 8.666/93),
+                       sendo que, no caso de se constatar irregularidade quanto à
+                       legitimidade ou legalidade dos processos de liquidação dessas
+                       despesas, deve determinar a instauração de processo
+                       administrativo para apuração da certeza, da exigibilidade e da
+                       liquidez dos créditos, e, ainda, das possíveis responsabilidades.
+    
+    
+    FUNDAMENTAÇÃO LEGAL
+       -   Lei nº 8.666/93: art. 5°; art. 92.
+       -   Lei 4.320/64: art. 63.
+    
+    
+    PRECEDENTES NO TCE/MT
+    
+    1) Acórdão n° 740/2005. Sessão de 31/05/2005. Publicação em 09/06/2005.
+    Processo n° 8.915-0/2005. Relator: Conselheiro Valter Albano.
+    
+    2) Acórdão n° 817/2006. Sessão de 16/05/2006. Publicação em 07/06/2006.
+    Processo n° 30.541-3/2005. Relator: Conselheiro Valter Albano.
+    
+    3) Acórdão n° 1.164/2014 - Tribunal Pleno. Sessão de 10/06/2014. Publicação em
+    04/07/2014. Processo n° 7.347-4/2013. Relator: Conselheiro José Carlos Novelli.
+    
+    4) Acórdão n° 20/2015 - Tribunal Pleno. Sessão de 24/02/2015. Publicação em
+    12/03/2015. Processo n° 5.667-7/2014. Relator: Conselheiro Valter Albano.
+    
+    5) Acórdão n° 227/2015 - Segunda Câmara. Sessão de 17/11/2015. Publicação em
+    03/12/2015. Processo n° 2.255-1/2014. Relatora: Conselheira Substituta Jaqueline
+    Jacobsen.
+    
+    6) Acórdão n° 68/2016 - Segunda Câmara. Sessão de 25/05/2016. Publicação em
+    07/06/2016. Processo n° 24.567-4/2015. Relator: Conselheiro Domingos Neto.
+    
+    7) Acórdão n° 75/2016 - Primeira Câmara. Sessão de 13/09/2016. Publicação em
+    23/09/2016. Processo n° 2.104-0/2015. Relatora: Conselheira Substituta Jaqueline
+    Jacobsen.
+    
+    
+    Precedente 01
+    
+    Acórdão n° 740/2005.
+    Processo n° 8.915-0/2005.
+    Interessado: Prefeitura Municipal de Diamantino.
+    
+    Ementa:
+    PREFEITURA MUNICIPAL DE DIAMANTINO. TOMADA DE CONTAS ESPECIAL.
+    CONTAS IRREGULARES. RESSARCIMENTO AO ERÁRIO. MULTA.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Conferência visual 04/11/2026.
 
 ### Documento oficial — página 2
 
@@ -91,7 +133,7 @@ Esta página não contém texto extraível. Seu conteúdo visual não foi transc
 
 Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
-Não houve OCR nem reconstrução de páginas rasterizadas. As páginas sem texto e as imagens grandes permanecem pendentes, sem inferir seu conteúdo a partir de resumos. Os inteiros teores dos processos e demais documentos apenas citados que não estejam incorporados ao PDF não foram coletados. Outras categorias do tribunal e a conciliação nacional permanecem abertas.
+Página 1 conferida visualmente a partir do raster privado. Páginas 2–10 (trechos de votos e decisões dos precedentes) permanecem pendentes de conferência integral. Os inteiros teores dos processos e demais documentos apenas citados que não estejam incorporados ao PDF não foram coletados. Outras categorias do tribunal e a conciliação nacional permanecem abertas.
 
 ## Texto disponibilizado pela fonte
 
