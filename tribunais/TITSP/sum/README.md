@@ -10,10 +10,10 @@
 - [SUM 06/2003](titsp-sum-06-2003.md)
 - [SUM 07/2005](titsp-sum-07-2005.md)
 - [SUM 08/2005](titsp-sum-08-2005.md) — Cancelada
-- [SUM 09/2017](titsp-sum-09-2017.md)
-- [SUM 10/2017](titsp-sum-10-2017.md) — Revisada
-- [SUM 11/2017](titsp-sum-11-2017.md)
-- [SUM 12/2017](titsp-sum-12-2017.md)
+- [SUM 09/2017](titsp-sum-09-2017.md) — expediente PDF 42p
+- [SUM 10/2017](titsp-sum-10-2017.md) — Revisada; expediente PDF 33p
+- [SUM 11/2017](titsp-sum-11-2017.md) — expediente PDF 41p
+- [SUM 12/2017](titsp-sum-12-2017.md) — expediente PDF 44p
 - [SUM 13/2018](titsp-sum-13-2018.md)
 - [SUM 14/2018](titsp-sum-14-2018.md)
-- [SUM 15/2020](titsp-sum-15-2020.md)
+- [SUM 15/2020](titsp-sum-15-2020.md) — expediente PDF; pp. 2–37 incorporadas

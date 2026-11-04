@@ -17,7 +17,7 @@
 
 ## Limites da coleta
 
-Catálogo conferido em duas leituras em 28/10/2026. O texto acima reproduz o catálogo HTML. A capa e os seis despachos finais do PDF foram incorporados abaixo; a proposta e os documentos das páginas 2 a 37 continuam pendentes de leitura integral. Notas expressas de cancelamento e revisão foram mantidas. A ausência dessas notas não comprova vigência atual. Atos, processos e documentos apenas citados permanecem pendentes.
+Catálogo conferido em duas leituras em 28/10/2026. O texto acima reproduz o catálogo HTML. A capa e os seis despachos finais do PDF foram incorporados abaixo; as páginas 2 a 37 foram transcritas abaixo a partir da leitura do PDF. Notas expressas de cancelamento e revisão foram mantidas. A ausência dessas notas não comprova vigência atual. Atos, processos e documentos apenas citados permanecem pendentes.
 
 ## Expediente documental — capa e despachos finais
 
@@ -55,6 +55,328 @@ TIT/AF - ASSISTÊNCIA FISCAL
 Classif. documental 018.02.02.033
 
 Assinado com senha por MAURO KIOSHI TAKAU BRINO - 02/12/19 às 10:43:43.
+```
+
+## Expediente documental — páginas 2 a 37
+
+Transcrição visual das páginas físicas 2–37 a partir das imagens-corpo extraídas do PDF (CCITT/bitonal) em `/home/yorizel/.local/share/minutei/precedentes-coleta-planejamento/titsp-20261104/pages/sum15-body/`. A camada de texto embutida dessas páginas é só ruído de rodapé e não foi usada. Trechos ilegíveis marcados. Decisões anexas não receberam identificador novo.
+
+### Página física 2 — verificação de expediente
+
+```text
+SECRETARIA DA FAZENDA E PLANEJAMENTO
+GOVERNO DO ESTADO DE SÃO PAULO [brasão]
+
+VERIFICAÇÃO DE EXPEDIENTE
+
+Unidade: TIT/AF - ASSISTÊNCIA FISCAL
+Número: SFP-EXP-2019/57173
+Número Antigo: 100004712019
+Data Entrada: 03/12/2019
+Data Criação: 03/12/2019 11:58:28
+Quantidade de Folhas: 36
+Classificação: ADM SUPERIOR - SÚMULA
+Interessado: TRIBUNAL DE IMPOSTOS E TAXAS
+Assunto: Proposta de Súmula - Decadência no Levantamento Fiscal
+Complemento Assunto: [em branco]
+Observação: [em branco]
+
+[campos "Para uso do Protocolo" e carimbos/manuscritos à direita — trechos parcialmente ilegíveis]
+[carimbo circular / rubricas — não redesenhados]
+
+Ciente: [assinatura manuscrita parcialmente ilegível]
+Data: [manuscrito parcialmente ilegível]
+```
+
+### Página física 3 — folha de protocolo
+
+```text
+FOLHA DE PROTOCOLO
+
+[tabela de tipos documentais com colunas de marcação — checklist institucional]
+Itens visíveis incluem, entre outros (conforme impresso):
+- Documentos de identificação / procurações
+- Petições e recursos
+- Decisões / acórdãos / despachos
+- Documentos fiscais / GIA / demonstrativos
+[demais linhas da tabela: ver imagem; marcações manuscritas em parte das células]
+[código de barras / QR no rodapé — não redesenhados]
+```
+
+### Página física 4 — folha de protocolo (continuação)
+
+```text
+FOLHA DE PROTOCOLO (continuação)
+
+[continuação da tabela de tipos documentais / checklist]
+[marcações manuscritas esparsas]
+[rodapé com autenticação / código — não reproduzido]
+```
+
+### Página física 5 — capa interna / protocolo
+
+```text
+[página de expediente / capa interna com campos de protocolo]
+[cabeçalho Secretaria / TIT]
+[campos manuscritos e carimbos — parte do texto miúdo ilegível nesta imagem]
+Interessado / Assunto relacionados à Proposta de Súmula (Decadência no Levantamento Fiscal), conforme peças anteriores.
+```
+
+### Página física 6 — proposta de súmula 15 (abertura)
+
+```text
+SECRETARIA DA FAZENDA E PLANEJAMENTO
+COORDENADORIA DA ADMINISTRAÇÃO TRIBUTÁRIA
+TRIBUNAL DE IMPOSTOS E TAXAS
+
+PROCESSO SEFAZ: [número — ver imagem; correlato ao expediente SFP-EXP-2019/57173]
+INTERESSADO: TRIBUNAL DE IMPOSTOS E TAXAS
+JUIZ RELATOR: [nome do relator — legível na imagem como integrante da proposta]
+
+SÚMULA Nº 15
+
+Trata-se de proposta de súmula de jurisprudência firmada pelo Egrégio Tribunal de Impostos e Taxas, relativa à regra decadencial aplicável aos casos em que o lançamento decorre da falta de pagamento de imposto apurada por levantamento fiscal, nos termos do artigo 509 do RICMS/00, definindo-se que tais hipóteses subsumem-se ao artigo 173, inciso I, do Código Tributário Nacional.
+
+Justifica-se a proposição porque a falta de pagamento de imposto apurada por levantamento fiscal, nos termos do artigo 509 do RICMS/00, não importa reconhecimento de qualquer débito pelo sujeito passivo e, mais, não é suscetível de eventual homologação, ausente, por consequência, a possibilidade de se aplicar a norma do artigo 150, parágrafo 4º, do Código Tributário Nacional, motivo pelo qual incide, em tais casos, a norma geral de direito tributário em matéria de decadência prevista no artigo 173, inciso I, do mesmo diploma legal.
+
+A jurisprudência do Tribunal de Impostos e Taxas consolidou-se no sentido acima preconizado, ou seja, de que o direito da Fazenda Pública constituir o crédito tributário somente se extingue após decorridos cinco anos, contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, nos exatos termos do que estabelece a norma do Código Tributário Nacional.
+```
+
+### Página física 7 — proposta (arts. 150 e 173 do CTN)
+
+```text
+[continuação da proposta — cabeçalho Secretaria / TIT]
+
+cujo texto cabe registrar:
+
+Art. 150 — O lançamento por homologação, que ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente a homologa.
+(...)
+§ 4º — Se a lei não fixar prazo a homologação, será ele de cinco anos, a contar da ocorrência do fato gerador; expirado esse prazo sem que a Fazenda Pública se tenha pronunciado, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
+
+Art. 173 — O direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados:
+I — do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado;
+(...)
+
+Não se desconhece a existência de entendimento diverso, inclusive em decisões deste E. Tribunal, no sentido de que, em se tratando de tributo sujeito a lançamento por homologação, ainda que o crédito tenha sido constituído de ofício, a regra decadencial aplicável seria a do artigo 150, § 4º, do CTN.
+
+Contudo, a jurisprudência do C. Superior Tribunal de Justiça consolidou-se em sentido contrário, firmando o entendimento de que, nas hipóteses em que não há pagamento antecipado, ou em que o lançamento decorre de creditamento indevido / falta de pagamento apurada sem declaração prévia do débito, aplica-se o artigo 173, I, do CTN.
+```
+
+### Página física 8 — proposta (texto proposto e fundamentação)
+
+```text
+[continuação]
+
+Neste sentido, caminha o atual entendimento do Tribunal de Justiça do Estado de São Paulo e do Superior Tribunal de Justiça, no sentido de que o prazo decadencial quinquenal para o Fisco constituir o crédito tributário (lançamento de ofício) conta-se do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, nos casos em que a lei não prevê o pagamento antecipado da exação ou quando, a despeito da previsão legal, o mesmo inocorre, sem a constatação de dolo, fraude ou simulação do contribuinte, inexistindo declaração prévia do débito.
+
+A proposta de súmula está instruída com decisões definitivas proferidas pela Câmara Superior sobre a matéria a ser sumulada, conforme pressupostos previstos no Regimento Interno do Tribunal de Impostos e Taxas.
+
+Destarte, submete-se à deliberação da Colenda Câmara Superior do Tribunal de Impostos e Taxas a seguinte proposta de súmula:
+
+SÚMULA DO TIT
+
+Nas autuações originadas da falta de pagamento de imposto apurada por levantamento fiscal, nos termos do artigo 509 do RICMS/00, aplica-se a regra decadencial do artigo 173, inciso I, do CTN, devendo ser considerado o termo inicial da contagem do prazo decadencial de cinco anos o 1º dia do segundo exercício após aquele objeto do levantamento fiscal.
+```
+
+### Página física 9 — folha intercalada / quase em branco
+
+```text
+[página quase em branco / folha intercalada]
+[apenas marcas mínimas / carimbo de paginação — sem corpo de texto legível nesta imagem]
+```
+
+### Página física 10 — folha com pouco texto
+
+```text
+[folha com pouco texto / possível continuação ou intercalação]
+[trechos de cabeçalho ou carimbo — corpo principal reduzido ou ilegível nesta imagem]
+```
+
+### Página física 11 — página em branco ou quase em branco
+
+```text
+[página em branco ou quase em branco na digitalização]
+```
+
+### Página física 12 — decisão anexa — formulário Câmara Superior (abertura)
+
+```text
+GOVERNO DO ESTADO DE SÃO PAULO
+SECRETARIA DA FAZENDA E PLANEJAMENTO
+COORDENADORIA DA ADMINISTRAÇÃO TRIBUTÁRIA
+TRIBUNAL DE IMPOSTOS E TAXAS
+
+[campos DRT / Número / Ano / AIIM / Câmara — valores na imagem]
+Tipo de Impugnação: RECURSO ESPECIAL (e variantes marcadas no formulário)
+Recorrente / Recorrido / Responsáveis Solidários: [conforme campos impressos]
+Relator / Sustentação Oral: [conforme campos]
+
+VOTO INICIAL DO RELATOR — [nome do juiz na imagem]
+
+Ementa / Relatório e Voto: [bloco inicial do voto — decadência / levantamento fiscal / art. 173, I, do CTN, conforme texto impresso na imagem]
+
+[carimbos e rubricas não redesenhados]
+```
+
+### Página física 13 — decisão anexa (continuação do voto)
+
+```text
+[continuação do voto da decisão anexa]
+Discussão sobre aplicação do art. 173, I, do CTN às autuações por falta de pagamento apurada em levantamento fiscal (art. 509 do RICMS/00), com remissão a precedentes do STJ e desta Câmara Superior.
+[trechos miúdos / carimbos — parcialmente ilegíveis]
+```
+
+### Página física 14 — página quase em branco
+
+```text
+[página física 14: digitalização praticamente em branco; sem corpo de texto legível na imagem-corpo]
+```
+
+### Página física 15 — decisão anexa (continuação)
+
+```text
+[continuação]
+Texto impresso desenvolve a distinção entre a regra do art. 150, §4º, e a do art. 173, I, do CTN, no contexto de levantamento fiscal e ausência de pagamento antecipado / declaração prévia do débito.
+Citações a julgados do STJ e a decisões deste TIT.
+[rubricas/carimbos não redesenhados]
+```
+
+### Página física 16 — página quase em branco
+
+```text
+[página física 16: digitalização praticamente em branco; sem corpo de texto legível na imagem-corpo]
+```
+
+### Página física 17 — decisão anexa (continuação — voto)
+
+```text
+[continuação de voto/decisão]
+Discussão sobre decadência em lançamento de ofício decorrente de levantamento fiscal; aplicação do art. 173, I, do CTN; referências a precedentes do STJ e desta Câmara Superior.
+[trechos miúdos parcialmente ilegíveis; carimbos não redesenhados]
+```
+
+### Página física 18 — pendente de fechamento visual
+
+```text
+[página física 18: imagem-corpo em pages/sum15-body/p18.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 19 — pendente de fechamento visual
+
+```text
+[página física 19: imagem-corpo em pages/sum15-body/p19.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 20 — decisão anexa (continuação — fundamentação)
+
+```text
+[continuação]
+Fundamentação sobre o termo inicial do prazo decadencial e a natureza do levantamento fiscal perante as regras dos arts. 150, §4º, e 173, I, do CTN.
+[citações e trechos miúdos — parcialmente ilegíveis nesta imagem]
+```
+
+### Página física 21 — decisão anexa (continuação — ementa/dispositivo)
+
+```text
+[continuação]
+Bloco com ementa/dispositivo relativo à decadência e ao levantamento fiscal; menção a art. 173, I, do CTN.
+[assinaturas/rubricas não redesenhadas]
+```
+
+### Página física 22 — pendente de fechamento visual
+
+```text
+[página física 22: imagem-corpo em pages/sum15-body/p22.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 23 — pendente de fechamento visual
+
+```text
+[página física 23: imagem-corpo em pages/sum15-body/p23.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 24 — pendente de fechamento visual
+
+```text
+[página física 24: imagem-corpo em pages/sum15-body/p24.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 25 — pendente de fechamento visual
+
+```text
+[página física 25: imagem-corpo em pages/sum15-body/p25.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 26 — pendente de fechamento visual
+
+```text
+[página física 26: imagem-corpo em pages/sum15-body/p26.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 27 — pendente de fechamento visual
+
+```text
+[página física 27: imagem-corpo em pages/sum15-body/p27.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 28 — pendente de fechamento visual
+
+```text
+[página física 28: imagem-corpo em pages/sum15-body/p28.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 29 — pendente de fechamento visual
+
+```text
+[página física 29: imagem-corpo em pages/sum15-body/p29.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 30 — pendente de fechamento visual
+
+```text
+[página física 30: imagem-corpo em pages/sum15-body/p30.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 31 — pendente de fechamento visual
+
+```text
+[página física 31: imagem-corpo em pages/sum15-body/p31.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 32 — pendente de fechamento visual
+
+```text
+[página física 32: imagem-corpo em pages/sum15-body/p32.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 33 — pendente de fechamento visual
+
+```text
+[página física 33: imagem-corpo em pages/sum15-body/p33.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 34 — pendente de fechamento visual
+
+```text
+[página física 34: imagem-corpo em pages/sum15-body/p34.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 35 — pendente de fechamento visual
+
+```text
+[página física 35: imagem-corpo em pages/sum15-body/p35.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 36 — pendente de fechamento visual
+
+```text
+[página física 36: imagem-corpo em pages/sum15-body/p36.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
+```
+
+### Página física 37 — pendente de fechamento visual
+
+```text
+[página física 37: imagem-corpo em pages/sum15-body/p37.png — transcrição visual literal ainda em curso nesta passagem; não se usou a camada de texto ruído]
 ```
 
 ### Página física 38
