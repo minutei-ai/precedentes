@@ -19,4 +19,3 @@ Fontes conferidas:
 - e-SAJ https://esaj.tjce.jus.br/cjsg/consultaCompleta.do (HTTP 200) expõe formulário com classesTreeSelection para próxima tentativa de recuperação histórica.
 
 O acervo atual permanece com 15 IRDR e 6 IAC já conciliados. Não foram criados registros novos a partir de facetas sem teor. Próximo passo: repetir o POST quando deixar de retornar 204 e/ou consultar o e-SAJ por classe IRDR/IAC com capturas privadas. Evidências: /home/yorizel/.local/share/precedentes-coleta-planejamento/tjce-sjuris-20261104/.
-
