@@ -26,8 +26,9 @@ CONSULTA. INTERPRETAÇÃO DO ART. 29-A DA CF/88. NÃO PREENCHIMENTO DOS REQUISIT
 
 #### Ressalvas de Decisão
 
--   O número do processo não foi localizado integralmente na extração automática; confira a identidade e o conteúdo visual na fonte
--   Página 1 com imagem grande; conteúdo visual não confirmado
+-   Página 1 (Decisão 038/2017) conferida visualmente em 04/11/2026 a partir da imagem embutida do PDF oficial (contraste reforçado para leitura).
+-   Camada de assinatura digital e-TCE: CPF do signatário ocultado na transcrição.
+-   Relatório e Voto 1 permanecem com páginas image-only pendentes.
 
 [Relatório](https://app.tce.ap.gov.br/storage/geral/App.Models.Jurisprudencia.Decisao.anexo_relatorio/32/DEC-038-2017-SESS%C3%83O-298%C2%AA-RELAT%C3%93RIO.pdf): 187783 bytes, HTTP200. Duas leituras documentais com bytes idênticos.
 
@@ -52,10 +53,48 @@ CONSULTA. INTERPRETAÇÃO DO ART. 29-A DA CF/88. NÃO PREENCHIMENTO DOS REQUISIT
 
 ##### Página 1
 
-    Assinado Digitalmente pelo sistema e-TCE - DAMILTON BARBOSA SALOMAO:21024618234 - 17/03/2017 17:11:54
+    [Camada de assinatura digital e-TCE — signatário DAMILTON BARBOSA SALOMÃO; CPF ocultado; 17/03/2017 17:11:54]
     Para validar essa(s) assinatura(s) acesse http://validador.tce.ap.gov.br e insira o codigo - 2E9BEF23E27E40FBE04D92BD83E6ED53
 
-Inventário visual: 1 imagens nesta página; consulte o PDF.
+                                    TRIBUNAL
+                                   DE CONTAS
+                                   DO ESTADO
+                                   DO AMAPÁ
+
+    CONSELHEIRO REGINALDO PARNOW ENNES
+
+    DECISÃO:           038/2017 - TCE/AP
+    SESSÃO N°:         298ª
+    DATA:              22.02.2017
+    PROCESSO N°:       000362/2017
+    ASSUNTO:           CONSULTA
+    RELATOR:           REGINALDO PARNOW ENNES
+
+    CONSULTA. INTERPRETAÇÃO DO ART. 29-A DA CF/88.
+    NÃO PREENCHIMENTO DOS REQUISITOS. NÃO CONHECIMENTO
+
+    Vistos, relatados e discutidos os autos,
+
+    DECIDEM os Conselheiros do Tribunal de Contas do Estado do Amapá,
+    reunidos em Sessão Plenária, à unanimidade, pelo NÃO CONHECIMENTO da
+    consulta, por não observar os requisitos previstos no art. 104 do RI/TCE/AP.
+
+    Participaram da Sessão, além do Presidente, o Conselheiro Michel
+    Houat Harb, o Relator, a Conselheira Maria Elizabeth Cavalcante de Azevedo
+    Picanço, o Conselheiro Substituto Pedro Aurélio Penha Tavares e o Conselheiro
+    Substituto Antonio Wanderler Colares Távora.
+
+    Presente a representante do Ministério Público de Contas junto a este
+    Tribunal, a Procuradora Geral de Contas Dra. Amélia Paula Gurjão Sampaio Freitas.
+
+    Sala das Sessões do Tribunal de Contas do Estado do Amapá, Plenário
+    Conselheiro José Veríssimo Tavares, em Macapá/AP, 298ª Sessão Ordinária realizada
+    no dia 22 de fevereiro de 2017.
+
+    Conselheiro RICARDO SOARES PEREIRA DE SOUZA
+    Presidente
+
+Inventário visual: 1 imagem nesta página; texto decisório conferido visualmente em 04/11/2026.
 
 #### Relatório
 

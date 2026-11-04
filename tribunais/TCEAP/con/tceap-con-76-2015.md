@@ -26,8 +26,9 @@ CONSULTA. CASO CONCRETO. AUSÊNCIA DOS REQUISITOS DE ADMISSIBILIDADE PREVISTO AR
 
 #### Ressalvas de Decisão
 
--   O número do processo não foi localizado integralmente na extração automática; confira a identidade e o conteúdo visual na fonte
--   Página 1 com imagem grande; conteúdo visual não confirmado
+-   Página 1 conferida visualmente em 04/11/2026: a imagem embutida do PDF oficial contém apenas a camada de assinatura digital e-TCE; o corpo decisório não aparece no raster (pendente de outra via de captura/render).
+-   Camada de assinatura digital e-TCE: CPF do signatário ocultado na transcrição.
+-   Relatório já tem texto extraível parcial; Voto 1 permanece image-only pendente.
 
 [Relatório](https://app.tce.ap.gov.br/storage/geral/App.Models.Jurisprudencia.Decisao.anexo_relatorio/4013/CONSULTA-DEC-168-2015-PROC-76-2015-REL.pdf): 242473 bytes, HTTP200. Duas leituras documentais com bytes idênticos.
 
@@ -59,8 +60,10 @@ CONSULTA. CASO CONCRETO. AUSÊNCIA DOS REQUISITOS DE ADMISSIBILIDADE PREVISTO AR
 
 ##### Página 1
 
-    Assinado Digitalmente pelo sistema e-TCE - DAMILTON BARBOSA SALOMAO:21024618234 - 16/04/2015 11:03:26
+    [Camada de assinatura digital e-TCE — signatário DAMILTON BARBOSA SALOMÃO; CPF ocultado; 16/04/2015 11:03:26]
     Para validar essa(s) assinatura(s) acesse http://validador.tce.ap.gov.br e insira o codigo - 663DF531E398E06524EF386CF4051F27
+
+Página conferida visualmente em 04/11/2026: raster da imagem embutida mostra apenas a faixa de assinatura digital; corpo da Decisão 168/2015 não legível nesta captura. Confira o PDF oficial e o Relatório/Voto vinculados.
 
 Inventário visual: 1 imagens nesta página; consulte o PDF.
 

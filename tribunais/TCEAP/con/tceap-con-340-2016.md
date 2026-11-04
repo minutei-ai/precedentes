@@ -26,8 +26,9 @@ CONSULTA. AUSÊNCIA DOS REQUISITOS DE ADMISSIBILIDADE PREVISTOS NO ART. 104 E SE
 
 #### Ressalvas de Decisão
 
--   O número do processo não foi localizado integralmente na extração automática; confira a identidade e o conteúdo visual na fonte
--   Página 1 com imagem grande; conteúdo visual não confirmado
+-   Página 1 (Decisão 138/2016) conferida visualmente em 04/11/2026 a partir da imagem embutida do PDF oficial.
+-   Camada de assinatura digital e-TCE: CPF do signatário ocultado na transcrição.
+-   Relatório e Voto 1 permanecem com páginas image-only pendentes.
 
 [Relatório](https://app.tce.ap.gov.br/storage/geral/App.Models.Jurisprudencia.Decisao.anexo_relatorio/36/DEC-138-2016-SESS%C3%83O-283%C2%AA-RELAT%C3%93RIO.pdf): 481613 bytes, HTTP200. Duas leituras documentais com bytes idênticos.
 
@@ -54,10 +55,54 @@ CONSULTA. AUSÊNCIA DOS REQUISITOS DE ADMISSIBILIDADE PREVISTOS NO ART. 104 E SE
 
 ##### Página 1
 
-    Assinado Digitalmente pelo sistema e-TCE - DAMILTON BARBOSA SALOMAO:21024618234 - 14/07/2016 10:37:57
+    [Camada de assinatura digital e-TCE — signatário DAMILTON BARBOSA SALOMÃO; CPF ocultado; 14/07/2016 10:37:57]
     Para validar essa(s) assinatura(s) acesse http://validador.tce.ap.gov.br e insira o codigo - 6E6CFCB5907A11A97829182745255AAA
 
-Inventário visual: 1 imagens nesta página; consulte o PDF.
+                                    TRIBUNAL
+                                   DE CONTAS
+                                   DO ESTADO
+                                   DO AMAPÁ
+
+    PROCESSO N.º          000340/2016
+    PROCEDÊNCIA          UNIVERSIDADE ESTADUAL DO AMAPÁ - UEAP
+    INTERESSADO          PERSEU DA SILVA APARÍCIO
+    ASSUNTO              CONSULTA
+    RELATOR              CONS. SUBS. PEDRO AURÉLIO PENHA TAVARES
+
+                                    DECISÃO N° 138/2016-TCE/AP
+
+    Vistos, relatados e discutidos os autos,
+
+    Os Conselheiros do Tribunal de Contas do Estado do Amapá, reunidos em Sessão do Plenário, à
+    unanimidade dos presentes,
+
+    DECIDEM:
+
+    a) Não conhecer da presente consulta, por não preencher os requisitos de
+    admissibilidade, previstos no artigo 104 e incisos, do regimento interno do TCE/AP.
+
+    b) Determine a Secretaria do Pleno que remeta cópia da Decisão, ao responsável
+    Senhor Perseu da Silva Aparício - Reitor da Universidade Estadual do Amapá - UEAP.
+
+    O arquivamento da presente consulta na forma do §3º, do artigo 105 do
+    RI/TCE/AP.
+
+    Sala das Sessões do Tribunal de Contas do Estado do Amapá, Plenário Conselheiro José Veríssimo
+    Tavares, em Macapá, 283ª Sessão Ordinária realizada em 27 de abril de 2016.
+
+    CONS. MARIA ELIZABETH CAVALCANTE DE AZEVEDO PICANÇO
+    Presidente.
+
+    CONS. SUBS. PEDRO AURÉLIO PENHA TAVARES
+    Relator.
+
+    DRA. AMÉLIA PAULA GURJÃO SAMPAIO FREITAS
+    Procuradora Geral de Contas
+
+    Foram presentes à Sessão: Conselheiros: Antonio Wanderler Colares Távora, José Marcelo de Santana
+    Neto, Terezinha de Jesus Brito.
+
+Inventário visual: 1 imagem nesta página; texto decisório conferido visualmente em 04/11/2026.
 
 #### Relatório
 
