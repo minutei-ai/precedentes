@@ -91,11 +91,11 @@ Transcrição visual do texto principal desta página, conferida na imagem do PD
 
     Assinado Digitalmente por: JOSE GLADSON VIEIRA FONTENELLE
     Data: 06/04/2017 17:42
-    Código de Autenticação: [campo numérico presente na imagem; leitura integral não ficou segura nesta conferência]
+    Código de Autenticação: [ilegível: sequência alfanumérica de cerca de 32 glifos sob o rótulo; ambiguidade visual 0/O/D, 8/B e 5/S na rasterização a 200 dpi — leitura integral não segura]
     Verifique a autenticidade deste documento através do endereço
     http://www.tcm.ce.gov.br/autenticidade
 
-Observações da conferência visual: Página de autenticação digital do Diário Oficial Eletrônico. O nome do signatário, a data e a URL de verificação foram lidos com segurança; o código de autenticação permanece com leitura pendente. Brasão e elementos gráficos não foram reproduzidos graficamente. Página física 3 de 4.
+Observações da conferência visual: Página de autenticação digital do Diário Oficial Eletrônico. Conferida na imagem do PDF e na rasterização PNG a 200 dpi (arquivo privado `tcece/pages/sum4-3.png`), com recortes ampliados da linha do código. O nome do signatário, a data e a URL de verificação foram lidos com segurança; o código de autenticação permanece marcado como ilegível nos glifos individuais. Brasão e elementos gráficos não foram reproduzidos graficamente. Página física 3 de 4.
 
 #### Página 4 do PDF oficial
 

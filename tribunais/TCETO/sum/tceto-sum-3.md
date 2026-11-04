@@ -6,7 +6,7 @@
 - **Identificador:** `tceto-sum-3`
 - **Situação na fonte:** Situação jurídica atual não informada em campo próprio; há pendências documentais ou visuais indicadas no texto
 - **Atualização informada pela fonte:** Não informada
-- **Fonte:** [TCETO — Súmulas, versões completas e sintéticas oficiais](https://www.tceto.tc.br/sumulas/)
+- **Fonte:** [TCETO — Súmulas, versões completas e sintéticas oficiais](https://www.tceto.tc.br/sumulas/); [portal-jurisprudência — arquivo da Súmula nº 3](https://jurisprudencia.tceto.tc.br/sumula/arquivo/sumula-3.pdf)
 
 ## Informações do catálogo oficial
 
@@ -20,7 +20,7 @@ Os precedentes e demais documentos reunidos nos PDFs foram mantidos como anexos 
 
 O catálogo informa 96 página(s). O PDF recuperado contém 96 página(s) físicas.
 
-[Abrir a versão oficial](https://www.tceto.tc.br/wp-content/uploads/2023/12/SUMULA_3_2023___VERSAO_COMPLETA.pdf). [Endereço final da primeira captura](https://www.tceto.tc.br/wp-content/uploads/2023/12/SUMULA_3_2023___VERSAO_COMPLETA.pdf).
+[Abrir a versão oficial no catálogo](https://www.tceto.tc.br/wp-content/uploads/2023/12/SUMULA_3_2023___VERSAO_COMPLETA.pdf). [Portal de jurisprudência (reconsulta 04/11/2026, dual hash SHA-256 `778ff468946f03954dcd4e6153114dd0d30b40aafe8a624cf1efbef89a3bc6c1`)](https://jurisprudencia.tceto.tc.br/sumula/arquivo/sumula-3.pdf).
 
 Os bytes do PDF foram conferidos em duas leituras independentes. O texto extraível está organizado por página, com as limitações visuais indicadas onde aplicáveis.
 
@@ -984,7 +984,7 @@ Os bytes do PDF foram conferidos em duas leituras independentes. O texto extraí
 
 #### Página 20 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF `jurisprudencia.tceto.tc.br/sumula/arquivo/sumula-3.pdf`, p. 20): a renderização da página mostra fundo branco com logotipo pequeno no cabeçalho e o número de página “20” no rodapé; não há quadro ou tabela preenchidos visíveis na imagem. O texto extraível abaixo corresponde ao corpo do voto; a referência “conforme quadro a seguir” aponta para área em branco na imagem — [quadro/tabela: conteúdo gráfico não legível na renderização visual].
 
                             TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1033,7 +1033,7 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 21 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 21): renderização em branco com logotipo e número “21”; referências a “quadro a seguir” e “tabela abaixo” / “Resumo do Ativo X Passivo” correspondem a áreas sem preenchimento gráfico legível na imagem — [quadros/tabelas: conteúdo gráfico não legível na renderização visual]. Texto extraível do voto preservado abaixo.
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1076,7 +1076,7 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 22 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 22): renderização em branco com logotipo e número “22”; referência “Disponibilidade Financeira X Obrigações a Pagar” sem quadro preenchido legível na imagem — [quadro: conteúdo gráfico não legível na renderização visual]. Texto extraível do voto preservado abaixo.
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     

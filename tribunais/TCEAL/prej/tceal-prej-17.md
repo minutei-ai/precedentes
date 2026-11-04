@@ -20,9 +20,17 @@ Campo literal de data no catálogo: Data Publicação Diário: 03/05/2019. Esse 
 
 Inteiro teor documental pendente em 1 página(s) sem camada textual extraível. O resumo e as notas do catálogo permanecem abaixo, sem reconstruir o texto das imagens.
 
+Reconsulta em 04/11/2026: PDF oficial HTTP 200 (774.204 bytes, 1 página; SHA-256 `cc12ef66a8623e6d…` completo em evidência privada). Leitura nativa Read(PDF): confirma cabeçalho do TCE/AL / Diário Oficial Eletrônico e o título do Prejulgado n. 17; o corpo do julgado permanece [ilegível: digitalização densa — leitura integral linha a linha não segura nesta passagem].
+
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+Transcrição visual parcial (Read nativo):
+
+    [cabeçalho TCE/AL / Diário Oficial Eletrônico — confirmado visualmente]
+    PREJULGADO n. 17
+    [ilegível: corpo integral do julgado / ementa impressa no DOE nesta resolução]
+
+Observações da conferência visual: Página física 1 de 1. Ementa do catálogo preservada abaixo, sem substituição pelo trecho ilegível da imagem.
 
 ## Ementa
 
