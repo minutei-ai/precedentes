@@ -1,0 +1,20 @@
+# PGERO · Orientação Administrativa 18
+
+- **Órgão:** Procuradoria-Geral do Estado de Rondônia (PGERO)
+- **Espécie:** Orientação Administrativa
+- **Número:** 18
+- **Identificador:** `pgero-oa-18`
+- **Situação na fonte:** Sem nota expressa de revogação neste catálogo HTML. A ausência não confirma vigência atual.
+- **Fonte:** [Orientações Administrativas — PGE/RO](https://pge.ro.gov.br/orientacoes-administrativas/)
+- **Capturas:** duas respostas HTTP 200 em 04/11/2026; 147129 bytes cada no HTML bruto. Os SHA-256 brutos diferem por marcadores dinâmicos da página; o texto jurídico normalizado das duas capturas é idêntico, SHA-256 `e86f544d6af6469b4a699588b0e4929d75a29a92ac32ad07294c1a91db5ffb11`.
+- **Camada:** HTML do catálogo oficial
+
+## Texto publicado
+
+Orientação Administrativa 18: É possível, via Decreto, dispor sobre organização e funcionamento da Administração Pública Estadual, desde que não se crie atribuições não previstas na lei e não aumente despesa, sendo vedado transformar cargos em comissão em função gratificada e vice-versa, nos termos da decisão do Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade nº 6180/SE .
+
+## Conferência e limites
+
+Texto do bloco da orientação no catálogo HTML oficial, com espaços e quebras normalizados. Entidades HTML foram decodificadas pelo parser. O vínculo FONACON e outros atos apenas citados aparecem com o rótulo visível na página, inclusive identificadores numéricos de anexo quando publicados assim; esses atos não receberam identificador próprio neste lote e não foram atribuídos à PGERO. Não houve PDF nem OCR nesta série. A nota de revogação, quando impressa no catálogo, permanece atribuída. A presença no catálogo não confirma vigência atual, força vinculante ou exaustividade da série.
+
+[Índice da série](README.md) · [Índice da PGERO](../README.md)
