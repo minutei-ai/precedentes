@@ -11,7 +11,7 @@
 - **Fonte documental:** [PDF IOMAT / portal PGE](https://www.pge.mt.gov.br/documents/4416107/13889635/Orienta%C3%A7ao+juridico+normativa+002-CPPGE-2020.pdf/e96c13f7-311e-dfdd-4ca2-de005144846c)
 - **Páginas físicas do PDF:** 6 (ato + Anexos I e II; cabeçalhos de visualização IOMAT preservados como artefato de captura)
 - **Capturas:** duas respostas HTTP 200 em 04/11/2026, 86310 bytes cada; SHA-256 `9dcc292c387271ba342977925a793ba45aaf918e80117aa5f3a863a3b85180b6`
-- **Suporte documental atribuído:** Parecer referencial no PDF `6cfb545e-9011-694e-12b9-2726f5f8e851.pdf` (14 p., SHA-256 `2f100c6c3a57238e3b85b82e31f7bbfa5c1c9c2a2284aee6573ef6797311c8d0`); identidade visual confirmada (PROCESSO Nº 480024/2019; prorrogação de convênios). PDF digitalizado sem camada textual; transcrição integral do suporte pendente de OCR (fila `resource-run`).
+- **Suporte documental atribuído:** Parecer referencial no PDF `6cfb545e-9011-694e-12b9-2726f5f8e851.pdf` (14 p., SHA-256 `2f100c6c3a57238e3b85b82e31f7bbfa5c1c9c2a2284aee6573ef6797311c8d0`); identidade visual confirmada (PROCESSO Nº 480024/2019; prorrogação de convênios). PDF digitalizado sem camada textual; suporte publicado em [`pgemt-parecer-ref-ojn-002-2020`](../parecer-referencial/pgemt-parecer-ref-ojn-002-2020.md) por transcrição visual das 14 páginas (trechos densos das p.4–7 com marcadores de ilegibilidade parcial).
 
 ## Texto documental
 

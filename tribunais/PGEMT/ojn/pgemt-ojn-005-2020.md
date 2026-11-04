@@ -11,7 +11,7 @@
 - **Fonte documental:** [PDF portal PGE](https://www.pge.mt.gov.br/documents/4416107/13939970/Orienta%C3%A7%C3%A3o+n.+5+-+02.03.2020+-+Ades%C3%A3o+Ata+Participante+-++Certid%C3%A3o+-+Checklist.pdf/095241c0-762c-a251-504f-343575cd5fdd)
 - **Páginas físicas do PDF:** 6 (ato + Anexos I e II)
 - **Capturas:** duas respostas HTTP 200 em 04/11/2026, 607197 bytes cada; SHA-256 `d72495b3107f6dda97f21d06bfadf6c8f76568bcf6726d1a3dcece4acc75c110`
-- **Suporte documental atribuído:** Parecer referencial no PDF `7e1b1741-ba4c-fd7e-2ac9-c4d6b0e84f72.pdf` (21 p., SHA-256 `bf9ccec85610476df4721e7639d03e0be1719007bf680cb6855e4a682776c2fb`); identidade visual confirmada (PROCESSO Nº 428000/2019; adesão a ARP). PDF digitalizado sem camada textual; transcrição integral do suporte pendente de OCR (fila `resource-run`).
+- **Suporte documental atribuído:** Parecer referencial no PDF `7e1b1741-ba4c-fd7e-2ac9-c4d6b0e84f72.pdf` (21 p., SHA-256 `bf9ccec85610476df4721e7639d03e0be1719007bf680cb6855e4a682776c2fb`); identidade visual confirmada (PROCESSO Nº 428000/2019; adesão a ARP). PDF digitalizado sem camada textual; suporte publicado em [`pgemt-parecer-ref-ojn-005-2020`](../parecer-referencial/pgemt-parecer-ref-ojn-005-2020.md) por transcrição visual das 21 páginas (trechos densos das p.3–14 com marcadores de ilegibilidade parcial).
 - **Nota de fidelidade:** o preâmbulo imprime “orientar os titulares órgãos e entidades” (sem “dos”), conforme a fonte.
 
 ## Texto documental
