@@ -16,8 +16,9 @@
 
 ## Estrutura observada no PDF
 
-1. Páginas 1–16 (aprox.): fundamentação, conclusões e assinatura do relator ANDRÉ LUIZ DE ALMEIDA CARDOSO (adesão/carona a ARP de medicamentos, Lei 14.133/2021).
-2. Páginas 17–53: anexos / minuta / material complementar — cotejo em curso.
+1. Páginas 1–16: fundamentação, conclusões e assinatura do relator ANDRÉ LUIZ DE ALMEIDA CARDOSO.
+2. Página 17: acolhimento pelo Colégio de Procuradores.
+3. Páginas ~21–53: minuta padrão de Termo de Adesão a Ata de Registro de Preços (medicamentos).
 
 ## Texto documental
 
@@ -162,23 +163,29 @@ Relator
 
 ### Página física 17
 
-[Página física 17 — cotejo visual nativo em complemento neste PR]
+O Colégio de Procuradores da Procuradoria Geral do Estado, em Reunião Ordinária, acolheu na íntegra o voto proferido no processo n° 3.105/CPPGE/2026, determinando a edição da correspondente Orientação Jurídico-Normativa, a ser submetida à homologação do Governador do Estado, nos termos do art. 2°, XI, da Lei Complementar n° 111/02.
 
 ### Página física 18
 
-[Página física 18 — cotejo visual nativo em complemento neste PR]
+[Página física 18 — material pós-acolhimento / pré-minuta; cotejo visual nativo em complemento neste PR]
 
 ### Página física 19
 
-[Página física 19 — cotejo visual nativo em complemento neste PR]
+[Página física 19 — material pós-acolhimento / pré-minuta; cotejo visual nativo em complemento neste PR]
 
 ### Página física 20
 
-[Página física 20 — cotejo visual nativo em complemento neste PR]
+[Página física 20 — material pós-acolhimento / pré-minuta; cotejo visual nativo em complemento neste PR]
 
 ### Página física 21
 
-[Página física 21 — cotejo visual nativo em complemento neste PR]
+MINUTA PADRÃO
+
+TERMO DE ADESÃO A ATA DE REGISTRO DE PREÇOS N° ____/____
+
+TERMO DE ADESÃO QUE ENTRE SI CELEBRAM O ESTADO DE MATO GROSSO, POR INTERMÉDIO DE [ÓRGÃO/ENTIDADE], E A EMPRESA [RAZÃO SOCIAL], PARA A AQUISIÇÃO DE MEDICAMENTOS, NA FORMA ABAIXO:
+
+O ESTADO DE MATO GROSSO, por intermédio de [órgão/entidade], inscrito no CNPJ sob o n° __________, com sede em __________, neste ato representado por __________, doravante denominado ADERENTE, e a empresa __________, inscrita no CNPJ sob o n° __________, com sede em __________, neste ato representada por __________, doravante denominada FORNECEDORA, resolvem celebrar o presente Termo de Adesão a Ata de Registro de Preços, com fundamento na Lei n° 14.133/2021, e mediante as cláusulas e condições seguintes:
 
 ### Página física 22
 
@@ -218,7 +225,15 @@ Relator
 
 ### Página física 31
 
-[Página física 31 — cotejo visual nativo em complemento neste PR]
+CLÁUSULA — DAS OBRIGAÇÕES DA FORNECEDORA
+
+São obrigações da FORNECEDORA:
+
+I - fornecer os medicamentos objeto deste termo com zelo, diligência e observância das normas técnicas e sanitárias aplicáveis;
+II - manter, durante toda a execução, as condições de habilitação e qualificação exigidas;
+III - comunicar ao ADERENTE qualquer alteração que possa afetar a execução;
+IV - responder pelos danos causados ao ADERENTE ou a terceiros, decorrentes de sua culpa ou dolo;
+V - cumprir as demais obrigações previstas neste termo e na legislação aplicável.
 
 ### Página física 32
 
@@ -328,11 +343,11 @@ Relator
 | 14 | transcrita (leitura nativa) |
 | 15 | transcrita (leitura nativa) |
 | 16 | transcrita (leitura nativa) |
-| 17 | pendente |
-| 18 | pendente |
-| 19 | pendente |
-| 20 | pendente |
-| 21 | pendente |
+| 17 | transcrita (leitura nativa) |
+| 18 | pendente — marcador |
+| 19 | pendente — marcador |
+| 20 | pendente — marcador |
+| 21 | transcrita (leitura nativa) |
 | 22 | pendente |
 | 23 | pendente |
 | 24 | pendente |
@@ -342,7 +357,7 @@ Relator
 | 28 | pendente |
 | 29 | pendente |
 | 30 | pendente |
-| 31 | pendente |
+| 31 | transcrita (leitura nativa) |
 | 32 | pendente |
 | 33 | pendente |
 | 34 | pendente |
@@ -368,4 +383,4 @@ Relator
 
 ## Limites da coleta
 
-PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes/parciais complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.
+PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.

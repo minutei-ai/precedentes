@@ -17,8 +17,8 @@
 ## Estrutura observada no PDF
 
 1. Páginas 1–19 (aprox.): fundamentação e conclusões do parecer (art. 24, II, Lei 8.666/93).
-2. Página ~20: transição.
-3. Páginas ~21–37: minuta padrão de Termo de Contrato (objeto até foro e assinaturas).
+2. Página 20: ANEXO checklist de verificação.
+3. Páginas 21–37: minuta padrão de Termo de Contrato.
 
 ## Texto documental
 
@@ -179,9 +179,9 @@ O checklist anexo orienta a verificação documental prévia à formalização d
 
 ### Página física 15
 
-O checklist anexo orienta a verificação documental prévia à formalização do contrato, sem substituir a responsabilidade do gestor pela regularidade do ato.
+A utilização da minuta padrão e do checklist não dispensa a análise casuística dos requisitos e pressupostos, cabendo ao gestor responsável pela contratação atestar, de forma expressa, que as condições para a dispensa de licitação em razão do valor estão presentes.
 
-[Trecho de transição corpo→anexos/minuta — reforço de cotejo linha a linha em complemento.]
+O checklist anexo orienta a verificação documental prévia à formalização do contrato, sem substituir a responsabilidade do gestor pela regularidade do ato.
 
 ### Página física 16
 
@@ -231,7 +231,24 @@ Relator
 
 ### Página física 20
 
-[Página de transição entre o fecho do parecer e a minuta padrão — cotejo visual nativo em complemento neste PR; imagem img/part4/b88e/page-019.png]
+ANEXO — LISTA DE VERIFICAÇÃO / CHECKLIST
+CONTRATAÇÃO DIRETA DE PEQUENO VALOR — ART. 24, II, DA LEI 8.666/93
+
+IDENTIFICAÇÃO
+Origem:
+Processo:
+Objeto:
+Valor Orçado:
+
+ITENS DE VERIFICAÇÃO
+( ) Valor da contratação enquadrado no limite legal vigente
+( ) Inexistência de fracionamento indevido de despesa
+( ) Demanda justificada
+( ) Pesquisa de preços idônea
+( ) Qualificação do contratado
+( ) Disponibilidade orçamentária
+( ) Minuta do instrumento contratual
+( ) Declaração de subsunção a este Parecer Referencial
 
 ### Página física 21
 
@@ -383,12 +400,12 @@ TESTEMUNHAS:
 | 12 | transcrita (leitura nativa) |
 | 13 | transcrita (leitura nativa) |
 | 14 | transcrita (leitura nativa) |
-| 15 | parcial — reforço de cotejo |
+| 15 | transcrita (leitura nativa) |
 | 16 | transcrita (leitura nativa) |
 | 17 | transcrita (leitura nativa) |
 | 18 | transcrita (leitura nativa) |
 | 19 | transcrita (leitura nativa) |
-| 20 | pendente — marcador |
+| 20 | transcrita (leitura nativa) |
 | 21 | transcrita (leitura nativa) |
 | 22 | transcrita (leitura nativa) |
 | 23 | transcrita (leitura nativa) |
@@ -409,4 +426,4 @@ TESTEMUNHAS:
 
 ## Limites da coleta
 
-PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes/parciais complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.
+PDF escaneado sem camada textual útil. Transcrição por leitura nativa. Páginas pendentes complementadas no mesmo PR. Não se infere vigência, vinculação ou completude.
