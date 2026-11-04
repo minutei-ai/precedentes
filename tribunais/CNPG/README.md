@@ -7,3 +7,5 @@ Conselho Nacional de Procuradores-Gerais dos Ministérios Públicos dos Estados 
 | [Enunciados do GNCCRIM reproduzidos pelo MPPR](en-gnccrim/) | 4 |
 
 A cobertura abrange somente os números 41–44 da notícia de 20/10/2026. As revisões dos nºs 1–40, outras séries, notas técnicas e moções continuam pendentes.
+
+Reconsulta 04/11/2026: o PDF das redações revisadas 1–40 ligado na notícia MPPR permanece HTTP 404; ver [en-gnccrim/README.md](en-gnccrim/README.md).

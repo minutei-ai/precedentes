@@ -12,3 +12,14 @@ Quatro enunciados reproduzidos integralmente em notícia institucional do MPPR d
 | 44 | [Enunciado 44](cnpg-en-gnccrim-44.md) |
 
 O PDF de 2026 ligado na notícia respondeu 404 em duas tentativas. As redações revisadas dos números 1–40 continuam pendentes. A coletânea histórica da Lei Anticrime não foi incorporada nem declarada como redação de 2026. Nenhum número ausente foi criado. A falta de acesso não prova inexistência de documento. A fonte não fornece justificativas nos quatro blocos, e não foram reconstruídas. Vigência atual, efeito vinculante e exaustividade não foram inferidos.
+
+## Reconsulta 04/11/2026 — PDF 1–40
+
+- Notícia MPPR (HTTP 200, 63899 bytes, SHA-256 `1b022110b016744187c3eb8ca797fc194210aa97b6b085c4f35bda27c531e00a`) continua a apontar o PDF `enunciados_gnccrim_-_2026_aprovados_1.pdf`.
+- URL: https://site.mppr.mp.br/sites/hotsites/arquivos_restritos/files/documento/2026-10/enunciados_gnccrim_-_2026_aprovados_1.pdf → **HTTP 404** (HTML 44445 bytes, SHA-256 `ec216e7efa054e1a75814cc3f94ba1e05d03726e4cc19fd368eafd5115385121`), igual à coleta anterior do mesmo dia.
+- Variante sem `_1` também 404.
+- CDX do Wayback para o caminho do PDF: sem snapshots utilizáveis nesta data; serviço CDX respondeu vazio/offline em parte das tentativas.
+- Portal CNPG/GNCCRIM consultado como contexto; sem PDF das redações 1–40.
+- **Próximo passo:** republicação oficial do PDF pelo MPPR/CNPG ou espelho institucional autenticado; não usar coletânea Anticrime histórica como redação 2026.
+
+Evidências privadas: `~/.local/share/minutei/precedentes-coleta-planejamento/cnpg-gnccrim-20261104/`.
