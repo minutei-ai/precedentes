@@ -26,7 +26,7 @@ Precedente: Petição Cível n. 2000194-08.2024.9.13.0000
 
 ### Ata da 113ª sessão ordinária do Tribunal Pleno (20/10/2025)
 
-Fonte: [Ata da 113ª sessão — Tribunal Pleno](https://tjmmg.jus.br/ata-da-113a-sessao-ordinaria-presencial-de-julgamento-do-tribunal-pleno-20-10-2025/) (HTML oficial, SHA-256 `1dbd354a2604bb83d40ad33028c275cbbf21be04faba0c07e209518b1e015475`).
+Fonte: [Ata da 113ª sessão — Tribunal Pleno](https://tjmmg.jus.br/ata-da-113a-sessao-ordinaria-presencial-de-julgamento-do-tribunal-pleno-20-10-2025/) (HTML oficial, SHA-256 dos bytes brutos `da2f75a63301c535153b50819ef767991a6659664d05f052ebfbc63415f19378`).
 
 Decisão registrada na ata: o Tribunal Pleno acolheu em parte a proposta do desembargador Fernando Armando Ribeiro, para aprovar a alteração dos enunciados das Súmulas n. 1 e n. 3, vencido o Desembargador Fernando Galvão da Rocha, nos seguintes termos:
 
