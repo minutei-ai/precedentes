@@ -38,6 +38,40 @@ Datas e referências foram mantidas literalmente. A presença no catálogo não 
 
 ## Decisão
 
+### Nota sobre peças associadas (atualização 04/11/2026)
+
+O enunciado da súmula já consta no catálogo e no PDF oficial da súmula (transcrito abaixo a partir do texto extraível do PDF de 1 página). As **peças associadas** listadas a seguir são documentos de contexto dos precedentes; não constituem outra súmula. Páginas dessas peças sem texto extraível permanecem com ressalva de conferência visual; sua ausência de transcrição não afeta a identidade nem o enunciado da súmula.
+
+### Súmula — PDF oficial (1 página)
+
+    TRIBUNAL DE CONTAS DO MUNICÍPIO DO RIO DE ANEIRO
+    Secretaria das Sessões
+
+
+
+
+                                            Súmula n° 001
+    É inexigível licitação para contratação de serviços de advocacia, desde que os
+    profissionais sejam pré-qualificados pelo órgão contratante, comprovando
+    junto ao órgão de controle externo, pelo menos, os seguintes requisitos:
+    qualificação técnica e econômica, notória especialização e pré-fixação de
+    valores.
+
+
+    Fundamento Legal
+       -   Lei 8666/93, artigos 13, inciso V, 25, caput, inciso II e parágrafo 1°, 26, 27 a 31; 114;
+       -   Enunciados 39 e 222, das Súmulas do TCU.
+
+    Precedentes
+       -   Processo 040/8060/1994, Sessão de 09/05/1996, Ata n° 29/96, “in” DO Rio de 15/05/1996, pág. 37;
+       -   Processo 040/10145/1995 (Apensos: 040/1963/1996; 040/4722/1996 e 040/8899/1995), Sessão de
+           25/11/1997, Ata n° 81/97, “in” DO Rio de 28/11/1997, pág. 35;
+       -   Processo 040/8540/1998, Sessão de 14/03/2002, Ata n° 12/02, “in” DO Rio de 20/03/2002, pág. 54;
+       -   Processo 040/4963/2004, Sessão de 27/04/2005, Ata n° 24/05, “in” DO Rio de 03/05/2005, pág. 54.
+
+    Súmulas nºs 001 a 005, aprovadas na 33ª Sessão Ordinária de 11/05/2011 , publicada
+    no D.O RIO de 15/05/2011
+
 ### Peça associada a precedente
 
 [Abrir documento oficial](https://etcm.tcmrio.tc.br/Processo/ArquivoPublico/Documento_1809431?auid=4bb03eb5-3232-44bf-bf5e-522c2bafc496&cd=attachment&ctid=1809431&s=Documento_1809431). 3811436 bytes; respostas HTTP 200 e 200. Leituras com bytes idênticos: true.

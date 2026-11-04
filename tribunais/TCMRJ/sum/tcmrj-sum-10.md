@@ -38,6 +38,32 @@ Admite-se, excepcionalmente, para os servidores que tenham reunido os requisitos
 
 ## Decisão
 
+### Nota sobre peças associadas (atualização 04/11/2026)
+
+O enunciado da súmula já consta no catálogo e no PDF oficial da súmula (transcrito abaixo a partir do texto extraível do PDF de 1 página). As **peças associadas** listadas a seguir são documentos de contexto dos precedentes; não constituem outra súmula. Páginas dessas peças sem texto extraível permanecem com ressalva de conferência visual; sua ausência de transcrição não afeta a identidade nem o enunciado da súmula.
+
+### Súmula — PDF oficial (1 página)
+
+    TRIBUNAL DE CONTAS DO MUNICÍPIO DO RIO DE JANEIRO
+    Secretaria das Sessões
+
+                                  Súmula n.° 010
+    Admite-se, excepcionalmente, para os servidores que tenham reunido os
+    requisitos de aposentação até 27/4/2011, a averbação do tempo de serviço
+    prestado como estagiário, acadêmico bolsista ou residente médico, para fins
+    de aposentadoria, independentemente da comprovação de recolhimento de
+    contribuição previdenciária como segurado autônomo.
+
+    Processo n.º 040/100351/2021
+
+    Precedentes
+    - Processo 09/65/000.229/2011, Sessão de 01/02/2018, Ata n.º 01/2018, “in” DO Rio de 02/03/2018, pág. 89;
+    - Processo 09/71/000.141/2011, Sessão de 01/02/2018, Ata n.º 01/2018, “in” DO Rio de 02/03/2018, pág. 89;
+    - Processo 09/21/000.026/2012, Sessão de 20/12/2018, Ata n.º 19/2018, “in” DO Rio de 01/02/2019, pág. 107.
+
+    Aprovada na 24ª Sessão Virtual do Plenário, realizada em 16/07/2021, e publicada no Diário Oficial
+    do Município do Rio de Janeiro n.º 91, de 20/07/2021, página 82, 1ª coluna.
+
 ### Peça associada a precedente
 
 [Abrir documento oficial](https://etcm.tcmrio.tc.br/Processo/ArquivoPublico/Documento_1809616?auid=49819969-347b-4f60-bda7-e6fcbc84dfe3&cd=attachment&ctid=1809616&s=Documento_1809616). 3584574 bytes; respostas HTTP 200 e 200. Leituras com bytes idênticos: true.

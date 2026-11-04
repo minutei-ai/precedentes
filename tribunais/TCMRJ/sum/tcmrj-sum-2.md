@@ -38,6 +38,36 @@ Nos casos em que a contratação por inexigibilidade de licitação se fundament
 
 ## Decisão
 
+### Nota sobre peças associadas (atualização 04/11/2026)
+
+O enunciado da súmula já consta no catálogo e no PDF oficial da súmula (transcrito abaixo a partir do texto extraível do PDF de 1 página). As **peças associadas** listadas a seguir são documentos de contexto dos precedentes; não constituem outra súmula. Páginas dessas peças sem texto extraível permanecem com ressalva de conferência visual; sua ausência de transcrição não afeta a identidade nem o enunciado da súmula.
+
+### Súmula — PDF oficial (1 página)
+
+    TRIBUNAL DE CONTAS DO MUNICÍPIO DO RIO DE ANEIRO
+    Secretaria das Sessões
+
+
+
+                                               Súmula n° 002
+
+    Nos casos em que a contratação por inexigibilidade de licitação se
+    fundamentar na inviabilidade de competição, esta demonstrada por Certidão
+    de Exclusividade, caberá à jurisdicionada proceder a verificações adicionais
+    no referido documento, promovendo, quando necessário, o certame licitatório,
+    no intuito de primar pela transparência nas contratações.
+
+    Fundamento Legal
+       -   Artigo 25, caput, c/c artigo 26, parágrafo único, inciso II, da Lei n° 8.666/93.
+
+    Precedentes
+       -   Processo 040/1137/2003, Sessão de 20/02/2006, Ata n° 19/10, “in” DO Rio de 23/02/2006, pág. 51;
+       -   Processo 040/1141/2010, Sessão de 25/08/2010, Ata n° 56/10, “in” DO Rio de 31/08/2010, pág. 105;
+       -   Processo 040/1860/2010, Sessão de 16/06/2010, Ata n° 39/10, “in” DO Rio de 22/06/2010, pág. 52;
+
+    Súmulas nºs 001 a 005, aprovadas na 33ª Sessão Ordinária de 11/05/2011 , publicada
+    no D.O RIO de 15/05/2011
+
 ### Peça associada a precedente
 
 [Abrir documento oficial](https://etcm.tcmrio.tc.br/Processo/ArquivoPublico/Documento_1809424?auid=b725189c-d6fc-4657-b917-18acb79b9f1c&cd=attachment&ctid=1809424&s=Documento_1809424). 172019 bytes; respostas HTTP 200 e 200. Leituras com bytes idênticos: true.

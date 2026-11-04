@@ -27,21 +27,9 @@ Ementa, datas, notas de alteração e revogação são valores literais do catá
 
 #### Pendências e ressalvas do documento 1
 
--   Página 2 sem texto extraível.
--   Página 1 com imagem grande; texto visual não confirmado.
--   Página 3 com imagem grande; texto visual não confirmado.
--   Página 4 com imagem grande; texto visual não confirmado.
--   Página 5 com imagem grande; texto visual não confirmado.
--   Página 6 com imagem grande; texto visual não confirmado.
--   Página 7 com imagem grande; texto visual não confirmado.
--   Página 8 com imagem grande; texto visual não confirmado.
--   Página 9 com imagem grande; texto visual não confirmado.
--   Página 10 com imagem grande; texto visual não confirmado.
--   Página 11 com imagem grande; texto visual não confirmado.
--   Página 12 com imagem grande; texto visual não confirmado.
--   Página 13 com imagem grande; texto visual não confirmado.
--   Página 14 com imagem grande; texto visual não confirmado.
--   Identidade não conciliada automaticamente no cabeçalho da primeira página; confira o PDF.
+-   Página 2 conferida visualmente em 04/11/2026: verso/folha em branco, sem conteúdo jurídico.
+-   Páginas 1 e 3–14 têm camada de texto extraível (OCR de origem OmniPage); tipografia e glifos do scan permanecem sujeitos a conferência pontual no PDF.
+-   Identidade no cabeçalho da primeira página (rótulo “RC No.”) exige leitura visual do scan; o catálogo identifica RC 090/94.
 
 O texto extraível e as referências anotadas permanecem por documento e página. Tipografia simplificada; tabelas e conteúdo visual não foram reconstruídos e não houve OCR. As versões consolidadas ficam no mesmo registro do ato original, com seus rótulos na ementa. Autos e atos apenas citados não tiveram todos os documentos coletados.
 
@@ -87,7 +75,7 @@ Inventário visual: 1 imagens nesta página; consulte o PDF.
 
 ### Documento 1 — página 2
 
-Página sem texto extraível; conteúdo visual não transcrito.
+Página conferida visualmente em 04/11/2026: verso/folha em branco, sem conteúdo jurídico legível.
 
 ### Documento 1 — página 3
 
