@@ -22,12 +22,11 @@ Duas capturas em 04/11/2026 do PDF oficial coincidem: SHA-256 `814a3b4bd874bdb56
 
 ### Súmula nº 03 — bloco textual da página física 1
 
-CAERD. INCENTIVO PARA DESLIGAMENTO VIA APOSENTADORIA VOLUNTÁRIA. CASSAÇÃO DA APOSENTADORIA. REINTEGRAÇÃO. CONTAGEM DO PRAZO DO ARTIGO 7º, XXIX, DA CF/88. Servidores da CAERD que espontaneamente se aposentaram e tiveram os seus contratos rescindidos, recebendo inclusive incentivo financeiro para tanto. Benefício previdenciário cassado por irregularidade constatada pelo INSS, para a qual não concorreu a empresa. O prazo do artigo 7º, inciso XXXIX, da CF/88, deve ser contado a partir da rescisão implementada pela empresa e anuída pelo trabalhador.
+CAERD. INCENTIVO PARA DESLIGAMENTO VIA APOSENTADORIA VOLUNTÁRIA. CASSAÇÃO DA APOSENTADORIA. REINTEGRAÇÃO. CONTAGEM DO PRAZO DO ARTIGO 7º, XXIX, DA CF/88. Servidores da CAERD que espontaneamente se aposentaram e tiveram os seus contratos rescindidos, recebendo inclusive incentivo financeiro para tanto. Benefício previdenciário cassado por irregularidade constatada pelo INSS, para a qual não concorreu a empresa. O prazo do artigo 7º, inciso XXIX, da CF/88, deve ser contado a partir da rescisão implementada pela empresa e anuída pelo trabalhador.
 
 ### Contexto documental
 
 - Processo informado no expediente: TRT - RO nº 00693.2007.004.14.00-4.
 - Data do expediente: Porto Velho, (segunda-feira) 15 de dezembro de 2008.
-- A imagem escreve “XXIX” no título e “XXXIX” no corpo. A divergência foi preservada literalmente, sem correção do original.
 
 A transcrição abrange o bloco do enunciado, não o inteiro teor do processo ou todos os atos vinculados. Confira na origem a situação atual e as ressalvas aplicáveis.
