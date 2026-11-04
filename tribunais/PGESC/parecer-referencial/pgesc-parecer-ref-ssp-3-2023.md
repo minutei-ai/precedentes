@@ -1,0 +1,1683 @@
+# PGESC · Parecer Referencial nº 3/2023 — PGE/SSP
+
+- **Órgão:** Procuradoria-Geral do Estado de Santa Catarina (PGESC)
+- **Espécie:** Parecer Referencial
+- **Série / emissor no PDF:** PGE/SSP
+- **Número (catálogo/identidade adotada):** 3/2023
+- **Linha de identificação na capa (extração textual):** `PARECER REFERENCIAL N. 3/2023-PGE/SSP                                 Florianópolis, data da assinatura digital.`
+- **Identificador:** `pgesc-parecer-ref-ssp-3-2023`
+- **Processo / referência detectada no texto:** PGE 00004502/2023
+- **Fonte catálogo público:** [Pareceres Referenciais — PGE/SC](https://www.pge.sc.gov.br/pareceres-referenciais/)
+- **Fonte documental:** [PDF oficial](https://www.pge.sc.gov.br/wp-content/uploads/2026/10/Parecer-Referencial-n.-3-2023-PGE-SSP-Processo-PGE-00004502_2023.pdf)
+- **Páginas físicas do PDF:** 34
+- **Capturas:** duas respostas HTTP 200 em 04/11/2026; 4079881 bytes cada; SHA-256 `ec6039278ee8a8f4994d8b230e6b1261c262280fcf4e91c70e9dc630a67ccb3c`; dual-match=sim
+- **Camada textual:** pdftotext -layout (67439 letras no documento); OCR não aplicado
+
+## Texto documental
+### Página física 1
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+PARECER REFERENCIAL N. 3/2023-PGE/SSP                                 Florianópolis, data da assinatura digital.
+
+                                                                                                                         Pág. 01 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+Referência: PGE 4502/2023
+Assunto: Parecer Jurídico Referencial – Cessão de uso gratuita de bem móvel (veículo automotor)
+adquirido com recursos provenientes de Convênio de Trânsito
+Origem: Núcleo de Atendimento Jurídico aos Órgãos Setoriais e Seccionais do Sistema
+Administrativo de Serviços Jurídicos - NUAJ
+Interessados: Polícia Militar e Polícia Civil do Estado de Santa Catarina (PMSC e PCSC).
+
+                           PARECER JURÍDICO REFERENCIAL. DIREITO ADMINISTRATIVO. CESSÃO DE
+                           USO DE VEÍCULOS AUTOMOTORES ADQUIRIDOS PELO MUNICÍPIO COM
+                           RECURSOS PROVENIENTES DA APLICAÇÃO DE MULTAS DE TRÂNSITO,
+                           ARRECADADAS    MEDIANTE   CONVÊNIO     DE   TRÂNSITO.   ESTADO
+                           CESSIONÁRIO.
+                           1. Aplicabilidade restrita à celebração de cessão de uso de veículos adquiridos pelo
+                           Município com recursos provenientes da aplicação de multas de trânsito,
+                           arrecadadas mediante Convênio de Trânsito.
+                           2. Documentos que devem constar da instrução de processos de celebração de
+                           cessão de uso de veículos adquiridos pelo Município com recursos provenientes da
+                           aplicação de multas de trânsito, arrecadadas mediante Convênio de Trânsito.
+                           3. Dispensabilidade de análise individualizada de processos que envolvam matéria
+                           recorrente e que se amoldem aos termos desta manifestação jurídica referencial.
+                           4. Necessário encaminhamento à consultoria jurídica competente, para análise
+                           individualizada, nas hipóteses não abarcadas pelo referencial, bem como em caso
+                           de dúvida específica de caráter jurídico externada pelo gestor.
+                           5. Parecer Jurídico Referencial com validade condicionada à aprovação do
+                           Procurador-Geral do Estado, nos termos do art. 2º da Portaria GAB/PGE nº 40/21.
+
+        Senhor Procurador-Chefe da Consultoria Jurídica,
+
+        RELATÓRIO
+          Trata-se de Parecer Jurídico Referencial, elaborado com fundamento no art. 85-A, do
+Decreto nº 1.485/2018 (Regimento Interno da Procuradoria-Geral do Estado) e na Portaria
+GAB/PGE 040/2021, que regulamenta a forma e as condições de emissão e aplicação de pareceres
+jurídicos referenciais.
+        O propósito deste parecer é delinear, de modo homogêneo, os requisitos a serem
+observados, no âmbito da Polícia Militar (PMSC) e da Polícia Civil (PCSC), na celebração de
+cessões de uso de veículos automotores adquiridos com recursos oriundos de multas de trânsito,
+arrecadadas com base em convênio celebrado entre Estado e Município, com fundamento no art.
+
+ ____________________________________________________________________________________
+                           Página 1 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         2
+
+### Página física 2
+
+ESTADO DE SANTA CATARINA
+                PROCURADORIA-GERAL DO ESTADO
+                CONSULTORIA JURÍDICA
+
+25 da Lei Federal nº 9.503/19971, denominados “Convênios de Trânsito”, tendo como cedente o
+
+                                                                                                                           Pág. 02 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+Município e como cessionário o Estado de Santa Catarina, por intermédio da PMSC ou PCSC.
+          É o relatório.
+
+          FUNDAMENTAÇÃO
+          1. DOS REQUISITOS PARA A EMISSÃO DE PARECER REFERENCIAL.
+         O parecer referencial é manifestação jurídica emitida sobre matérias recorrentes,
+dispensando-se a análise individualizada pelo órgão consultivo sempre que o caso concreto se
+amoldar aos termos da referida manifestação, mediante ateste expresso da área técnica. A
+utilização dos pareceres referenciais visa dar maior celeridade aos serviços administrativos, além
+de promover a uniformização da atuação dos órgãos envolvidos.
+         No âmbito do Estado de Santa Catarina, a emissão de pareceres referenciais encontra
+previsão no art. 85-A2 do Regimento Interno da Procuradoria-Geral do Estado, regulamentado pela
+Portaria GAB/PGE 040/21.
+         No presente caso, observa-se que estão preenchidas as condições para a emissão de
+parecer jurídico referencial. Isso porque a análise de processos administrativos que tratam de
+celebração de cessão de uso de veículos automotores adquiridos com recursos de Convênios de
+Trânsito constitui matéria recorrente no âmbito da Polícia Militar e da Polícia Civil, ensejando grande
+volume de expedientes similares.
+        Além disso, a matéria versada é singela, restringindo-se à verificação do atendimento das
+exigências legais a partir da conferência de dados e/ou documentos constantes dos autos.
+          Importa destacar que a aplicabilidade do parecer fica circunscrita às situações que se
+amoldam ao seu escopo, devendo as hipóteses não abarcadas pelos seus termos ou aquelas que
+ensejem dúvida pontual por parte do gestor serem submetidas à consulta específica ao órgão
+jurídico.
+          Feitas as considerações, passa-se ao exame da matéria de fundo.
+
+          2. DA POSSIBILIDADE JURÍDICA DA CELEBRAÇÃO DE CESSÃO DE USO.
+         De início, registre-se que a presente análise é de natureza eminentemente jurídica e não
+possui o condão de apreciar as questões técnicas envolvidas, de competência dos respectivos
+setores da PMSC e da PCSC. Isso porque, incumbe ao setorial de consultoria jurídica a análise sob
+o prisma estritamente jurídico, em especial no que concerne ao controle de legalidade dos atos
+praticados no âmbito da Administração Pública, não lhe competindo adentrar em aspectos de
+conveniência e oportunidade, nem analisar aspectos de natureza eminentemente técnica3.
+        O exame que aqui se faz diz respeito à possibilidade jurídica de o Estado de Santa
+Catarina, por intermédio da PMSC e da PCSC, celebrar Termo de Cessão de Uso Gratuito com
+
+1 Art. 25. Os órgãos e entidades executivos do Sistema Nacional de Trânsito poderão celebrar convênio delegando as
+atividades previstas neste Código, com vistas à maior eficiência e à segurança para os usuários da via.
+2 Art. 85-A. Poderá ser emitido parecer jurídico referencial quando houver processos e expedientes administrativos de
+caráter repetitivo para os quais seja possível estabelecer orientação jurídica uniforme.
+3 Conforme Orientação GAB/PGE nº 1/2022: Aos órgãos componentes do Sistema de Serviços Jurídicos da
+Administração Direta e Indireta incumbe prestar consultoria e assessoramento sob prisma estritamente jurídico. Não lhes
+compete, portanto, analisar ou revisar aspectos de natureza eminentemente técnico-administrativa, tampouco adentrar
+na conveniência e na oportunidade dos atos praticados.
+ ____________________________________________________________________________________
+                           Página 2 de 30   www.pge.sc.gov.br
+         Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                           3
+
+### Página física 3
+
+ESTADO DE SANTA CATARINA
+               PROCURADORIA-GERAL DO ESTADO
+               CONSULTORIA JURÍDICA
+
+Municípios, a fim de que estes cedam veículos por eles adquiridos com recursos provenientes de
+
+                                                                                                                          Pág. 03 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+multas de trânsito (Convênios de Trânsito), para emprego no próprio Município.
+         A cessão de uso é um ato administrativo unilateral, por meio do qual um ente da
+Administração Pública (cedente) efetua a transferência gratuita da posse direta de certos bens a
+outro ente pertencente à Administração Pública (cessionário), com o objetivo de serem destinados
+a atividades de interesse público. O cedente continua com a propriedade do bem, sendo transferida
+somente a posse direta ao cessionário, por prazo certo ou indeterminado, para sua utilização de
+acordo com o estabelecido pelo cedente.
+        Válido ressaltar que a transferência da posse direta pode se dar por prazo certo ou
+indeterminado, mas sempre com a possibilidade de retomada do bem pelo cedente, que continua
+com a posse indireta. Caso contrário, ter-se-ia uma doação.
+          A respeito do instituto, eis a lição de Hely Lopes Meirelles4:
+                            “1.5.2.3 Cessão de uso: cessão de uso é a transferência gratuita da posse de um
+                            bem público de uma entidade ou órgão para outro, a fim de que o cessionário o
+                            utilize nas condições estabelecidas no respectivo termo, por tempo certo ou
+                            indeterminado. É ato de colaboração entre repartições públicas, em que aquela
+                            que tem bens desnecessários aos seus serviços cede o uso a outra que deles está
+                            precisando.
+                            Como bem ponderou Caio Tácito, esta cessão se inclui entre as modalidades de
+                            utilização de bens públicos não aplicados ao serviço direto do cedente e não se
+                            confunde com nenhuma das formas de alienação. Trata-se, apenas, de
+                            transferência de posse do cedente para o cessionário, mas ficando sempre a
+                            Administração-proprietária com o domínio do bem cedido, para retomá-lo a
+                            qualquer momento ou recebê-lo ao término do prazo da cessão. [...]” (sem
+                            destaques no original)
+          No mesmo sentido pondera José dos Santos Carvalho Filho:
+                            “Cessão de uso é aquela em que o Poder Público consente o uso gratuito de
+                            bem público por órgãos da mesma pessoa ou de pessoa diversa, incumbida
+                            de desenvolver atividade que, de algum modo, traduza interesse para a
+                            coletividade.
+                            A grande diferença entre a cessão de uso e as formas até agora vistas consiste em
+                            que o consentimento para a utilização do bem se fundamenta no benefício coletivo
+                            decorrente da atividade desempenhada pelo cessionário. [...]
+                            A formalização da cessão de uso se efetiva por instrumento firmado entre os
+                            representantes das pessoas cedente e cessionária, normalmente denominado de
+                            “termo de cessão” ou “termo de cessão de uso”. O prazo pode ser determinado
+                            ou indeterminado, e o cedente pode a qualquer momento reaver a posse do
+                            bem cedido. Por outro lado, entendemos que esse tipo de uso só excepcionalmente
+                            depende de lei autorizadora, porque o consentimento se situa normalmente dentro
+                            do poder de gestão dos órgãos administrativos. Logicamente, é vedado qualquer
+                            desvio de finalidade, bem como a extensão de dependências cedidas com prejuízo
+                            para o regular funcionamento da pessoa cedente.
+                            O fundamento básico da cessão de uso é a colaboração entre entidades públicas e
+                            privadas com o objetivo de atender, global ou parcialmente, a interesses coletivos.
+                            É assim que deve ser vista como instrumento de uso de bem público” (sem
+                            destaques no original)
+
+4 MEIRELLES, Hely Lopes; BURLE FILHO, José Emmanuel. Direito administrativo brasileiro. 42.ed. São Paulo: Malheiros,
+2016, pp.645-646
+ ____________________________________________________________________________________
+                           Página 3 de 30   www.pge.sc.gov.br
+        Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                          4
+
+### Página física 4
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+         O Decreto Estadual nº 1.479, de 21/09/2021, que “Institui a Política de Modernização da
+
+                                                                                                                         Pág. 04 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+Gestão Patrimonial do Poder Executivo Estadual e estabelece outras providências”, conceitua a
+cessão de uso e a prevê como uma das formas de recebimento de bens pelo Estado (arts. 41, V, e
+47, IV):
+                           Art. 41. Para fins deste Decreto, considera-se:
+                           [...]
+                           V - cessão de uso: ato administrativo pelo qual a Administração Pública
+                           consente o uso gratuito de bem público, por órgãos da mesma pessoa jurídica
+                           ou de pessoa jurídica de direito público diversa, incumbida de desenvolver atividade
+                           de interesse público. (sem destaques no original)
+                           Art. 47. Instrução Normativa emitida pela SEA fixará:
+                           [...]
+                           IV - o tratamento a ser dado aos bens recebidos em cessão e aos bens cedidos;
+                           [...] (sem destaques no original)
+        Deve-se registrar que a instrução normativa referida no art. 47, inciso IV, ainda não foi
+editada pela Secretaria de Estado da Administração, órgão central do sistema patrimonial do
+Estado.
+         De outro lado, o Decreto Estadual nº 1.382, de 29/11/2017, que “Dispõe sobre os
+procedimentos de registro, controle e regularidade dos veículos oficiais e equipamentos dos órgãos
+da Administração Direta, dos fundos e das entidades autárquicas e fundacionais do Poder Executivo
+estadual”, regulamenta, em seu art. 14, o procedimento de registro de veículos recebidos em cessão
+de uso, dispositivo que será oportunamente analisado neste parecer.
+        A utilização do instituto da cessão de uso já foi objeto de análise do Tribunal de Contas do
+Estado (TCE/SC), que o admite, conforme se verifica dos Prejulgados nºs 921, 1308 e 1553:
+                           “Prejulgado nº 921
+                           A cessão de uso traduz-se em instituto jurídico apropriado à operação de
+                           transferência gratuita da posse de bens móveis entre os órgãos e entidades da
+                           Administração Pública, com o escopo de colaboração mútua na consecução de fins
+                           Públicos”
+                           “Prejulgado nº 1308
+                           O Município pode traspassar veículo de sua propriedade para outro ente da
+                           Federação, desde que para atendimento de interesse público e em melhores
+                           condições de prestação do serviço público do que o próprio Município, devendo
+                           utilizar o instituto da Cessão de Uso”
+                            “Prejulgado nº 1553
+                           A cessão de uso é instituto admitido pela doutrina que consiste na transferência,
+                           gratuita ou onerosa, da utilização de bem de domínio de um ente ou entidade
+                           públicos para pessoa jurídica da Administração Pública direta ou indireta, para
+                           utilização de forma mais eficiente, conforme condições disciplinadas no termo de
+                           cessão, visando ao atendimento público específico relacionado com a atividade da
+                           cedente.
+                           A cessão de uso de bens móveis só é admitida entre entes, órgãos ou entidades
+                           públicos da Administração Pública direta e indireta ou de órgãos da Administração
+                           Pública direta para concessionárias, permissionárias, autorizadas ou entidades de
+                           colaboração, não sendo cabível a cessão para pessoas físicas ou jurídicas de direito
+                           privado não integrantes da estrutura do Poder Público”
+ ____________________________________________________________________________________
+                           Página 4 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         5
+
+### Página física 5
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+         De acordo com o entendimento do TCE/SC, sedimentado nos prejulgados citados, o
+
+                                                                                                                         Pág. 05 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+interesse público deve ficar comprovado na cessão de bem público, pois, de outro modo,
+haveria uma liberalidade à custa do patrimônio público.
+         Especificamente no caso de bens adquiridos com recursos arrecadados com multas por
+infração à legislação de trânsito, o TCE/SC orienta que a posse seja transferida por meio de cessão
+de uso, conforme se extrai do item 3 do Prejulgado nº 1459:
+                           “Prejulgado nº 1459
+                           [...]
+                           3. Para atender aos convênios celebrados com o Estado para os fins do art.
+                           25 da Lei Federal nº 9.506/97 (Código de Trânsito Brasileiro), o município ou
+                           entidade que lhe pertença, conforme o caso, pode transferir a posse de bens
+                           de sua propriedade, adquiridos com recursos arrecadados com multas por
+                           infração à legislação de trânsito, adotando uma das seguintes alternativas:
+                           - se os bens móveis e imóveis foram adquiridos com recursos de multas da
+                           parcela pertencente ao Município, nos termos do convênio, recomenda-se a
+                           transferência da posse mediante termo de cessão de uso aprovado por decreto
+                           do Chefe do Poder Executivo disciplinando as condições e o prazo, havendo
+                           necessidade de lei autorizativa no caso dos bens imóveis;
+                           - se os bens móveis e imóveis foram adquiridos com recursos de multas cuja
+                           receita pertence aos órgãos do Estado, nos termos do convênio, podem ser
+                           doados, por decreto do Chefe do Poder Executivo no caso de bens móveis e
+                           mediante autorização legislativa nas hipóteses de doação de bens imóveis, nos
+                           termos do art. 17 da Lei Federal nº 8.666/93.
+                           [...]” (sem destaques no original)
+        Tem-se, então, 3 (três) situações, onde 2 (duas) foram abordadas pelo Prejulgado nº 1459
+e 1 (uma) não:
+        a) Se os veículos foram adquiridos pelo Município com recursos de multas integralmente
+da parcela pertencente ao Município, a transferência deste bem ao Estado dar-se-á por meio de
+cessão de uso (situação abrangida por este Parecer Referencial);
+         b) Se os veículos foram adquiridos pelo Município com recursos integralmente da
+parcela do Estado (PMSC ou PCSC), recomenda-se que o órgão estadual providencie junto ao
+Município a doação destes bens ao Estado, conforme orientação do TCE/SC (nesse caso, a
+situação não está abrangida por este Parecer Referencial);
+          c) Se os veículos foram adquiridos pelo Município com recursos oriundos de parcela do
+Município e de parcela do Estado (PMSC e PCSC), situação não abordada no Prejulgado acima
+transcrito, entende-se que a solução adequada também é a cessão de uso, porque o bem pertence
+tanto ao Município quanto ao Estado, na mesma proporção em que foi feito o rateio da despesa
+para a aquisição (situação abrangida por este Parecer Referencial).
+        Possível, portanto, a cessão de uso de bens móveis de Município ao Estado,
+destacadamente veículos automotores adquiridos com recursos oriundos de multas de trânsito,
+arrecadados com base em prévio convênio celebrado entre Estado e Município, com a formalização
+do respectivo Termo de Cessão de Uso.
+
+        3. DAS AUTORIDADES COMPETENTES PARA FIRMAR O TERMO DE CESSÃO DE
+USO
+
+ ____________________________________________________________________________________
+                           Página 5 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         6
+
+### Página física 6
+
+ESTADO DE SANTA CATARINA
+                PROCURADORIA-GERAL DO ESTADO
+                CONSULTORIA JURÍDICA
+
+         A competência do Estado para celebrar, contratos, convênios, acordos e ajustes vem
+
+                                                                                                                           Pág. 06 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+prevista de modo geral no art. 8º, caput, IX, da Constituição Estadual:
+                             Art. 8º Ao Estado cabe exercer, em seu território, todas as competências que
+                             não lhe sejam vedadas pela Constituição Federal, especialmente:
+                             [...]
+                             IX - celebrar e firmar contratos, convênios, acordos e ajustes;
+                             [...] (sem destaques no original)
+          O §1º, V e VI, do art. 106, da Lei Complementar nº 741, de 12/06/2019, com redação
+conferida pela Lei Complementar nº 789, de 29/12/2021, equipara o Comandante-Geral da PMSC
+e o Delegado-Geral da PCSC aos Secretários de Estado, conferindo-lhes iguais prerrogativas,
+direitos, garantias, vantagens, remuneração e representação, enquanto o § 2º, IV, do mesmo artigo,
+confere aos Secretários de Estado a competência para assinar “contratos, convênios, acordos e
+demais atos congêneres de que o Estado participe”, nos casos em que não seja exigida a
+assinatura do Governador:
+                             Art. 106 (...)
+                             § 1º São considerados Secretários de Estado, com iguais prerrogativas,
+                             direitos, garantias, vantagens, remuneração e representação, os seguintes
+                             cargos:
+                             [...]
+                             V - Comandante-Geral da PMSC;
+                             VI - Delegado-Geral da PCSC;
+                             [...]
+                             § 2º Compete aos Secretários de Estado, além das atribuições previstas na
+                             Constituição do Estado:
+                             […]
+                             IV - assinar contratos, convênios, acordos e demais atos congêneres de que o
+                             Estado participe, quando não for exigida a assinatura do Governador do Estado;
+                             [...] (sem destaques no original)
+        Disso decorre que o Comandante-Geral da PMSC e o Delegado-Geral da PCSC, por força
+da Lei Complementar nº 789/2021, passaram a ter, independentemente de delegação do Chefe do
+Poder Executivo, competência para firmar convênios, acordos e demais atos congêneres de que o
+Estado participe e que não seja necessária a assinatura do Governador do Estado.
+         De toda sorte, os arts. 10, XII, e 11, VI, do Decreto nº 1.8605, de 13/04/2022, também
+conferem a essas autoridades, por delegação do Chefe do Poder Executivo, competência para
+firmar convênios, acordos e demais atos congêneres :
+                             Art. 10. Além das competências previstas no art. 4º deste Decreto, ficam
+                             delegadas ao Comandante-Geral da Polícia Militar de Santa Catarina
+                             (PMSC) e ao Comandante-Geral do Corpo de Bombeiros Militar de Santa
+                             Catarina (CBMSC) as competências para praticar, no âmbito do quadro
+                             de pessoal das respectivas instituições, os seguintes atos:
+
+5 Regulamenta a delegação de competências aos titulares de órgãos e entidades da Administração Pública Estadual
+Direta, Autarquias e Fundações do Poder Executivo para a prática de atos relacionados à gestão de pessoas e estabelece
+outras providências.
+ ____________________________________________________________________________________
+                           Página 6 de 30   www.pge.sc.gov.br
+         Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                           7
+
+### Página física 7
+
+ESTADO DE SANTA CATARINA
+               PROCURADORIA-GERAL DO ESTADO
+               CONSULTORIA JURÍDICA
+
+                            [...]
+
+                                                                                                                          Pág. 07 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                            XII - assinatura de contratos, convênios, acordos e demais atos congêneres
+                            de que o Estado participe que:
+                            a) não ultrapassem a esfera da gestão interna das respectivas instituições; e
+                            b) não exijam a assinatura do Governador do Estado, em consonância com as
+                            matérias indicadas no parágrafo único do art. 45-B da Lei Complementar nº 741, de
+                            2019; e
+                            [...] (sem destaques no original)
+                            Art. 11. Além das competências previstas no art. 4º deste Decreto, ficam delegadas
+                            ao Delegado-Geral da PCSC, ao Perito- Geral da Polícia Científica de Santa
+                            Catarina (PCI) e ao Secretário de Estado da Administração Prisional e
+                            Socioeducativa as competências para praticar, no âmbito do quadro de pessoal
+                            da instituição, os seguintes atos:
+                            [...]
+                            VI - proposição, acompanhamento, fiscalização e assinatura de contratos,
+                            convênios, acordos e demais atos congêneres de que o Estado participe que:
+                            a) não ultrapassem a esfera da gestão interna da entidade; e
+                            b) não exijam a assinatura do Governador do Estado, em consonância com as
+                            matérias indicadas no parágrafo único do art. 45-B da Lei Complementar nº 741, de
+                            2019;
+                            [...] (sem destaques no original)
+         Ante o exposto, conclui-se que são autoridades competentes para autorizar a formação e
+firmar Termos de Cessão de Uso de veículos, no âmbito da PMSC, o Comandante-Geral, e no
+âmbito da PCSC, o Delegado-Geral.
+        Ainda no âmbito da PMSC, por meio da Portaria nº 014/PMSC/20236, art. 5º, II, o
+Comandante-Geral subdelegou competência ao Diretor de Apoio Logístico e Finanças para prática
+dos atos previstos nas alíneas ‘a’ e ‘b’ do inciso XII do caput do art. 10 do Decreto nº 1.860/2022:
+                            Art. 5º Ficam subdelegadas as competências ao Diretor de Apoio
+                            Logístico e Finanças, para proferir despachos finais em processos
+                            relativos a:
+                            [...]
+                            II - assinatura de contratos, convênios, acordos e demais atos congêneres de
+                            que o Estado participe, que não ultrapassem a esfera da gestão interna da PMSC
+                            e, em consonância com as matérias indicadas no parágrafo único do art. 45-B da
+                            Lei Complementar nº 741, de 12 de junho de 2019, que não exijam a assinatura do
+                            Governador do Estado (alíneas “a” e “b” do inciso XII do art. 10 do Decreto estadual
+                            nº 1.860/2022); e
+                            [...] (sem destaques no original)
+           Neste caso (subdelegação), há que se observar o cumprimento da exigência contida no
+parágrafo único do art. 14 do Decreto Estadual nº 1.382/2017, que exige autorização expressa do
+titular ou dirigente máximo do órgão para o recebimento de veículos em cessão de uso, entendendo-
+se que a subdelegação de competência, embora englobe a celebração de Termos de Cessão de
+Uso, não supre essa exigência legal:
+
+6 Publicada no DOE nº 21.942, de 18/01/2023.
+ ____________________________________________________________________________________
+                           Página 7 de 30   www.pge.sc.gov.br
+        Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                          8
+
+### Página física 8
+
+ESTADO DE SANTA CATARINA
+                PROCURADORIA-GERAL DO ESTADO
+                CONSULTORIA JURÍDICA
+
+                             Art. 14 (...)
+
+                                                                                                                            Pág. 08 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                             Parágrafo único. Salvo obrigação legal ou contratual, o órgão ou entidade
+                             somente receberá veículos em cessão de uso ou fiel depositário com
+                             autorização expressa do titular ou dirigente máximo se os veículos atenderem
+                             aos seguintes requisitos:
+                             [...] (sem destaques no original)
+       Para fins de regularidade formal do processo, deverá ele ser instruído com cópias do
+documento de identidade e do ato de nomeação da autoridade que subscreverá o termo. E no caso
+de subdelegação de competências, como ocorre com Diretor de Apoio Logístico e Finanças da
+PMSC, também do ato de subdelegação.
+         Quanto aos municípios, por ser o Prefeito Municipal a autoridade que, comumente,
+representa o ente federativo em atos dessa natureza, devem ser juntadas aos autos cópias (i) dos
+documentos que comprovem sua posse e (ii) do seu documento de identidade (carteira de
+identidade, carteira nacional de habilitação7 ou outro documento legalmente aceito para esse fim),
+a fim de conferir regularidade ao ato de representação.
+
+          4. DOS REQUISITOS LEGAIS PARA A CELEBRAÇÃO DE TERMO DE CESSÃO DE
+USO
+      4.1. DA EVENTUAL AUTORIZAÇÃO LEGISLATIVA PARA O MUNICÍPIO EFETUAR A
+CESSÃO DE USO DO BEM
+        Em relação à celebração de termo de cessão de uso pelo Município com outros entes da
+Federação, deve-se verificar o que dispõe a Lei Orgânica de cada Município a respeito da
+necessidade ou não de autorização legislativa para o ato.
+         Havendo norma municipal exigindo prévia autorização legislativa para que o Município
+realize a cessão de uso de bem móvel, sua observância é obrigatória pelos gestores públicos, sob
+pena de responsabilidade, devendo ser juntada ao processo cópia da legislação municipal que
+autorizou o Município a firmar a cessão pretendida.
+
+          4.2. DAS DISPOSIÇÕES DO DECRETO ESTADUAL Nº 1.382/2017.
+         O já citado Decreto Estadual nº 1.382/2017 regulamenta, em seu art. 14, o procedimento
+de registro de veículos recebidos em cessão de uso:
+                             Art. 14. O veículo locado ou recebido em cessão de uso ou fiel depositário deverá
+                             ser cadastrado no GVE exclusivamente pela GEMOV, mediante apresentação
+                             do termo de cessão e da decisão judicial, cujas cláusulas e condições deverão ser
+                             observadas pelos responsáveis na unidade administrativa descentralizada e
+                             seccional e pelo responsável de que trata o art. 2º deste Decreto.
+                             Parágrafo único. Salvo obrigação legal ou contratual, o órgão ou entidade
+                             somente receberá veículos em cessão de uso ou fiel depositário com
+                             autorização expressa do titular ou dirigente máximo se os veículos atenderem
+                             aos seguintes requisitos:
+
+7 Lei nº 9.503, de 23/09/1997: Art. 159. A Carteira Nacional de Habilitação, expedida em meio físico e digital, de acordo
+com as especificações do Contran, atendidos os pré-requisitos estabelecidos neste Código, conterá fotografia,
+identificação e número de inscrição no Cadastro de Pessoas Físicas (CPF) do condutor, terá fé pública e equivalerá a
+documento de identidade em todo o território nacional. (Redação da Lei nº 14.440/2022)
+ ____________________________________________________________________________________
+                           Página 8 de 30   www.pge.sc.gov.br
+         Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                            9
+
+### Página física 9
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+                           I - estiverem registrados no DETRAN; e
+
+                                                                                                                          Pág. 09 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                           II - estiverem em boas condições de uso. (Redação do Dec. nº 1.710, de
+                           27/08/2018) (sem destaques no original)
+        Do dispositivo acima, extrai-se que são requisitos para o recebimento de veículos em
+cessão de uso:
+         a) Termo de Cessão de Uso firmado pelo titular ou dirigente máximo do órgão/entidade
+beneficiada;
+        b) Os veículos deverão estar registrados no DETRAN;
+        c) Os veículos deverão estar em boas condições de uso.
+         Além desses, como na PMSC há subdelegação de competência para a prática do ato,
+conforme analisado no item 3 deste parecer, também há que se observar a necessidade de
+autorização expressa do dirigente máximo do órgão, no caso o Comandante-Geral da PMSC, para
+o recebimento de veículos em cessão de uso.
+        Esclarece-se que o cadastramento do veículo no Sistema de Gerenciamento de Veículos
+e Equipamentos - GVE, pela Gerência de Bens Móveis - GEMOV da Secretaria de Estado da
+Administração - SEA é providência posterior à formalização da cessão de uso, cujo cumprimento
+é de responsabilidade exclusiva da área técnica.
+
+        4.3. DA NECESSIDADE DE ELABORAÇÃO DE PLANO DE TRABALHO
+        Na celebração dos Termos de Cessão de Uso aplica-se o disposto no §1º do art. 116 da
+Lei Federal nº 8.666/1993, ou no art. 184 da Lei Federal nº 14.133/2021, conforme a legislação
+escolhida para reger o ajuste:
+                           Art. 116 (...)
+                           § 1º A celebração de convênio, acordo ou ajuste pelos órgãos ou entidades da
+                           Administração Pública depende de prévia aprovação de competente plano de
+                           trabalho proposto pela organização interessada, o qual deverá conter, no mínimo,
+                           as seguintes informações:
+                           I - identificação do objeto a ser executado;
+                           II - metas a serem atingidas;
+                           III - etapas ou fases de execução;
+                           IV - plano de aplicação dos recursos financeiros;
+                           V - cronograma de desembolso;
+                           VI - previsão de início e fim da execução do objeto, bem assim da conclusão das
+                           etapas ou fases programadas;
+                           VII - se o ajuste compreender obra ou serviço de engenharia, comprovação de que
+                           os recursos próprios para complementar a execução do objeto estão devidamente
+                           assegurados, salvo se o custo total do empreendimento recair sobre a entidade ou
+                           órgão descentralizador.
+                           Art. 184. Aplicam-se as disposições desta Lei, no que couber e na ausência de
+                           norma específica, aos convênios, acordos, ajustes e outros instrumentos
+                           congêneres celebrados por órgãos e entidades da Administração Pública, na
+                           forma estabelecida em regulamento do Poder Executivo federal. (sem destaques no
+                           original)
+
+ ____________________________________________________________________________________
+                           Página 9 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         10
+
+### Página física 10
+
+ESTADO DE SANTA CATARINA
+                PROCURADORIA-GERAL DO ESTADO
+                CONSULTORIA JURÍDICA
+
+        Em relação à Lei nº 14.133/2021, verifica-se que não foram reiteradas no art. 184 as
+
+                                                                                                                            Pág. 10 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+exigências do §1º do art. 116 da Lei Federal nº 8.666/1993. Não obstante, a necessidade de
+apresentação do plano de trabalho ainda permanece, pois densifica o princípio do planejamento,
+consubstanciado no art. 5º da Lei nº 14.133/2021:
+                             Art. 5º Na aplicação desta Lei, serão observados os princípios da legalidade, da
+                             impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público,
+                             da probidade administrativa, da igualdade, do planejamento, da transparência, da
+                             eficácia, da segregação de funções, da motivação, da vinculação ao edital, do
+                             julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da
+                             proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional
+                             sustentável, assim como as disposições do Decreto-Lei nº 4.657, de 4 de setembro
+                             de 1942 (Lei de Introdução às Normas do Direito Brasileiro). (sem destaques no
+                             original)
+         Assim, salvo melhor juízo, mesmo com o advento da Lei nº 14.133/2021, permanece no
+ordenamento jurídico a necessidade da apresentação de um Plano de Trabalho8, como o
+estudo técnico preliminar e planejamento da avença, de onde constem a justificativa para a
+celebração, evidenciando especialmente o interesse público, seu objeto, as metas a serem
+atingidas, a previsão de início e fim da cessão de uso, até porque, sem tais elementos, não haverá
+como a Administração controlar a execução do ajuste.
+        Ressalte-se que o plano de trabalho é o documento técnico da avença9 e, por conta dessa
+condição, a análise de seu conteúdo compete exclusivamente aos setores técnicos dos órgãos
+envolvidos.
+
+          4.4. DA NECESSÁRIA OBSERVÂNCIA DA LEGISLAÇÃO DE TRÂNSITO
+         Por versar o presente parecer acerca da cessão de uso de veículos adquiridos com
+recursos oriundos de multas de trânsito, ressalta-se a necessidade de serem observadas as
+disposições do art. 320 da Lei Federal nº 9.503/1997, regulamentado pela Resolução CONTRAN
+nº 87510, de 24/09/2021, destacadamente seu art. 9º, evitando-se o desvio de finalidade no emprego
+desses recursos:
+                             Art. 320. A receita arrecadada com a cobrança das multas de trânsito será
+                             aplicada, exclusivamente, em sinalização, em engenharia de tráfego, em
+                             engenharia de campo, em policiamento, em fiscalização, em renovação de frota
+                             circulante e em educação de trânsito. (Redação da Lei nº 14.440/2022)
+                             [...] (sem destaques no original)
+
+8 Segundo o ‘Manual de elaboração de projetos e execução de convênios’ da Secretaria Nacional do Consumidor do
+Ministério da Justiça, elaborado sob a égide da Lei Federal nº 8.666/1993, “O plano de trabalho é o documento que irá
+orientar a execução das ações do convênio, contendo, no mínimo, a descrição detalhada do objeto, as metas, as fases,
+o cronograma e outros aspectos técnicos, financeiros e operacionais. Também auxiliará a prestação de contas do
+convênio.” (ANDRADE, Marina Sampaio de Paula Marns Goulart de; supervisão, Fabrício Missorino Lazaro; coordenação,
+Juliana Pereira da Silva; colaboração, Bruno Cardoso Araújo ... [et al.]. Manual de elaboração de projetos e execução de
+convênios. Brasília: Ministério da Justiça, Secretaria Nacional do Consumidor, 2015, p.49. Disponível em:
+https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor/Anexos/manual-de-convenios. Acesso em: 30 Set 2022.)
+9 DO PLANO DE TRABALHO [...] Esclareça-se, no entanto, que esse documento técnico é passível de modificação
+segundo os critérios e a forma nele definidos em comum acordo entre os partícipes. 18. Ressalte-se que se trata de
+documento técnico, cuja apreciação foge à competência dos órgãos jurídicos, prévio à celebração de acordos e
+deles indissociáveis [...] (Parecer n. 00450/2020/PROC UFES/PGF/AGU)
+10 Disponível em: https://www.gov.br/infraestrutura/pt-br/assuntos/transito/conteudo-
+contran/resolucoes/Resolucao8752021.pdf. Acesso em: 07 Mar 2023.
+ ____________________________________________________________________________________
+                           Página 10 de 30   www.pge.sc.gov.br
+         Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                           11
+
+### Página física 11
+
+ESTADO DE SANTA CATARINA
+                PROCURADORIA-GERAL DO ESTADO
+                CONSULTORIA JURÍDICA
+
+                             Art. 9º O policiamento e a fiscalização são os atos de prevenção e repressão
+                             que visam a controlar o cumprimento da legislação de trânsito, por meio do
+
+                                                                                                                            Pág. 11 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                             poder de polícia administrativa. (sem destaques no original)
+          Veja-se a respeito o Prejulgado 2108 do TCE/SC:
+                             “6. A aplicação da receita arrecadada com a cobrança das multas de trânsito, além
+                             de atender ao disposto no art. 320 do Código de Trânsito Brasileiro, deve
+                             observar normativo específico do CONTRAN que regula a matéria”
+        Assim, adverte-se ser passível de responsabilização o gestor público que eventualmente
+venha a empregar o bem (veículo) para finalidade diversa das especificadas no CTB e na Resolução
+CONTRAN nº 875/2021, ou outra que venha a substituí-la.
+        Por este motivo, a fim de consignar segurança jurídica ao gestor, as minutas dos termos
+de cessão de uso apresentadas nos Anexos III e IV deste referencial (conforme a Instituição) contêm
+cláusula dispondo que a utilização do veículo se dará conforme os atos normativos acima
+mencionados.
+
+          4.5. DA ANÁLISE JURÍDICA DO MUNICÍPIO
+          Importante, também, registrar que, por força do parágrafo único do art. 38 da Lei nº
+8.666/199311 e do caput e do §4º do art. 53 da Lei nº 14.133/202112 (a depender da legislação
+utilizada para reger o ajuste), os acordos, ajustes e outros instrumentos congêneres devem ser
+submetidos à aprovação do órgão de assessoramento jurídico da Administração Pública Municipal
+(Consultoria Jurídica, Assessoria Jurídica, Procuradoria do Município etc.), razão pela qual o
+processo deve, necessariamente, estar instruído com parecer daquele órgão municipal.
+
+          4.6. DA CELEBRAÇÃO DE CESSÃO DE USO EM ANOS ELEITORAIS
+          Tendo em conta a vigência indeterminada deste Parecer Referencial, necessário avaliar
+eventual impedimento à celebração da cessão de uso pelo Município em favor do Estado em anos
+eleitorais.
+          A cessão de uso não equivale à distribuição gratuita de bens, porque não há transferência
+de titularidade a terceiro, conforme se conclui do próprio significado do termo – cede-se o uso sem
+transferir a propriedade. Dá-se entre entes públicos e depende de justificado interesse público, logo,
+não há que se falar em vedação legal decorrente da Lei Federal nº 9.504/1997.
+        A Procuradoria-Geral do Estado (PGE) já se manifestou sobre o tema em mais de uma
+oportunidade, valendo transcrever as conclusões do Parecer nº 162/20-PGE, da lavra do
+Procurador do Estado Evandro Régis Eckel, que de forma muito detalhada abordou o assunto:
+                             “Ante o exposto, opina-se:
+
+11 Art. 38 (...) Parágrafo único. As minutas de editais de licitação, bem como as dos contratos, acordos, convênios ou
+ajustes devem ser previamente examinadas e aprovadas por assessoria jurídica da Administração.
+12 Art. 53. Ao final da fase preparatória, o processo licitatório seguirá para o órgão de assessoramento jurídico da
+Administração, que realizará controle prévio de legalidade mediante análise jurídica da contratação.
+[...]
+§ 4º Na forma deste artigo, o órgão de assessoramento jurídico da Administração também realizará controle prévio de
+legalidade de contratações diretas, acordos, termos de cooperação, convênios, ajustes, adesões a atas de registro de
+preços, outros instrumentos congêneres e de seus termos aditivos.
+[...]
+ ____________________________________________________________________________________
+                           Página 11 de 30   www.pge.sc.gov.br
+         Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                           12
+
+### Página física 12
+
+ESTADO DE SANTA CATARINA
+               PROCURADORIA-GERAL DO ESTADO
+               CONSULTORIA JURÍDICA
+
+                            1) pela possibilidade da avença, haja vista que o Estado não está a distribuir, mas
+                            a receber, por meio de instrumento de cessão de uso, dois veículos do Município
+
+                                                                                                                           Pág. 12 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                            de Videira no corrente ano, conduta que não está, ao princípio, vedada pela
+                            legislação eleitoral;
+                            2) pela inexistência de óbice jurídico à cessão de uso de veículos pelo Município de
+                            Videira à Polícia Civil do Estado de Santa Catarina, instituto que não envolve a
+                            transmissão da propriedade do bem público e cujo termo prevê a destinação
+                            exclusiva do bem à finalidade do órgão público estadual, de modo que tal situação
+                            não equivale à “distribuição gratuita” e portanto não é alcançada pelo disposto no §
+                            10 do art. 73 da Lei nº 9.504/97;
+                            3) pela inexistência de óbice jurídico à cessão de uso de veículos pelo Município ao
+                            Estado de Santa Catarina, porque se trata de cessão de uso de bens entre entes
+                            públicos, o que afasta a incidência do § 10 do art. 73 da Lei nº 9.504/97;
+                            4) pela não caracterização de qualquer cunho eleitoreiro ou assistencialista da
+                            cessão de uso de veículo para policiamento civil, que não pode ser considerada
+                            como programa social, haja vista que a fruição de serviço público ocorre de forma
+                            uti universi, ou seja, atende a toda coletividade indiscriminadamente, devendo,
+                            ademais, o art. 73, § 10, ser interpretado teleologicamente de modo a não paralisar
+                            a execução dos serviços públicos essenciais e as atividades institucionais que
+                            dependem da transferência de bens do Estado a outros entes públicos;
+                            5) pela aplicação, por princípio geral de cautela, a casos semelhantes a serem
+                            enfrentados durante o ano eleitoral, da restrição de transferências nos três meses
+                            que antecedem ao pleito, contida no art. 73, VI, "a" da Lei nº 9.504/97, e da
+                            divulgação dos atos deve restringir ao atendimento do princípio da publicidade,
+                            especialmente nas hipóteses de doação ou cessão de uso de bens a municípios,
+                            em cuja esfera ocorrerá o pleito de 2020;
+                            [...]” (sem destaques no original)
+        O parecer em questão entendeu que a cessão de bens, sem cunho eleitoreiro ou
+assistencialista, quando realizada entre entes públicos, para prestação de serviço público essencial,
+não é vedada pela legislação eleitoral.
+        Ao tratar acerca da distribuição gratuita de bens, o “Manual de Comportamentos dos
+Agentes Públicos da Administração Estadual - Eleições 2022”13 traz a seguinte orientação (fls.
+17/19):
+                            “A norma não faz distinção entre as modalidades de utilização gratuita dos bens
+                            públicos. Destarte, tem-se que é vedada a sua disponibilização graciosa, qualquer
+                            que seja o instituto utilizado, seja através de cessão de uso, permissão de uso ou
+                            outra modalidade prevista na legislação, como exemplo doações de cesta básica,
+                            de material de construção e de lotes.
+                            [...]
+                            Doação de bens e equipamentos entre entes públicos. A vedação constante do
+                            multicitado § 10 não se aplica a entes públicos, como se passa com a doação
+                            de veículos (e, a fortiori, cessão de uso, na qual sequer se transmite a
+                            propriedade) para órgãos públicos ou de imóveis para a instalação de repartições
+                            públicas ou para a execução de uma atividade. Desse modo, a norma deve ser
+                            interpretada de modo a excluir os entes públicos como destinatários da
+                            distribuição vedada. A divulgação dos atos deve restringir ao atendimento do
+                            princípio da publicidade. Sugere-se a não realização de solenidades, cerimônias,
+
+13 Disponível em: https://www.pge.sc.gov.br/wp-content/uploads/2022/04/MANUAL_ELEICOES-PG-SC-7.pdf. Acesso
+em: 15 Set 2022.
+ ____________________________________________________________________________________
+                           Página 12 de 30   www.pge.sc.gov.br
+        Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                          13
+
+### Página física 13
+
+ESTADO DE SANTA CATARINA
+                PROCURADORIA-GERAL DO ESTADO
+                CONSULTORIA JURÍDICA
+
+                             atos, eventos ou reuniões públicas de divulgação, ou qualquer outra forma de
+                             exaltação do ato administrativo, capaz de afetar a igualdade de oportunidades entre
+
+                                                                                                                            Pág. 13 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                             candidatos nos pleitos eleitorais.
+                             [...]
+                             Parecer COJUR n. 162/2020. Procurador do Estado Evandro Régis Eckel
+                             Ementa: Condutas vedadas aos agentes públicos em ano eleitoral. Lei nº 9.504/97.
+                             Possibilidade de cessão de uso de veículos da Prefeitura de Videira à Polícia
+                             Civil do Estado de Santa Catarina. Não incidência do § 10 do art. 73 da Lei
+                             eleitoral. Pareceres nº 279 e 355/16, desta COJUR-PGE. A vedação, ademais,
+                             não se aplica às doações, cessões ou concessões de uso de bens entre entes
+                             públicos. Pareceres nºs 232/2010 e 272/2018, desta COJUR e Orientação
+                             Normativa CNU/CGU/AGU nº 002/2016.
+                             Ausência de óbices jurídicos à avença celebrada.
+                             No mesmo sentido, o Parecer Plenário nº 002/2016/CNUDecor/CGU/AGU
+                             (28/06/2016), que se tornou a Orientação Normativa CNU/CGU/AGU nº 002/2016:
+                             EMENTA: DIREITO ELEITORAL. DISTRIBUIÇÃO GRATUITA DE BENS
+                             PÚBLICOS FEDERAIS EM ANO ELEITORAL. INTERPRETAÇÃO DO ART. 73, §
+                             10, DA LEI 9.504/97. 1. A disposição do art. 73, §10, da Lei nº 9.504, de 30 de
+                             setembro de 1997, dirige-se à distribuição gratuita de bens, valores ou benefícios
+                             pela Administração Pública diretamente a particulares, não afetando as
+                             transferências realizadas entre entes públicos. A estes casos aplica-se o disposto
+                             no art. 73, VI, “a”, da mesma lei, vedando-se a destinação de bens a outros entes
+                             públicos nos três meses que antecedem o pleito eleitoral. Tal vedação, porém, não
+                             impede as doações realizadas entre entidades que integram a mesma esfera de
+                             governo, como por exemplo a doação de bem da União a uma autarquia ou
+                             fundação pública federal.
+                             [...]
+                             Em casos semelhantes a serem enfrentados durante o ano eleitoral, deve ser
+                             observada, por princípio geral de cautela, a restrição de transferências contida
+                             o inciso VI, “a”, do art. 73, que, não obstante referir-se a “recursos”, é que
+                             mais se aproxima da distribuição de bens entre entes públicos, vedando-se,
+                             assim, a destinação de bens a outros entes públicos nos três meses que
+                             antecedem o pleito eleitoral. Nesse sentido, o Parecer/Plenário nº
+                             002/2016/CNU/Decor/CGU/AGU, que se tornou a Orientação Normativa
+                             CNU/CGU/AGU nº 002/2016:
+                             [...]” (sem destaques no original)
+         No que se refere à observância, por cautela, da alínea “a” do inciso VI do art. 73 da Lei
+Federal nº 9.504/1997, neste específico caso, deve-se ter em mente que a cessão dar-se-á pelo
+Município ao Estado de Santa Catarina, e que o dispositivo legal se refere a transferências
+voluntárias da União aos Estados e Municípios e dos Estados aos Municípios, razão pela qual
+entende-se que tal orientação cautelar não teria aplicabilidade ao presente caso, ainda que se
+estivesse nos três meses que antecedem o pleito eleitoral.
+         Dessa forma, a literalidade da lei não autoriza interpretação ampliativa, de forma a vedar a
+transferência de recursos no sentido oposto ao que está estabelecido na Lei14. Fosse essa a
+intenção, a vedação seria de transferências voluntárias entre União, Estados e Municípios.
+
+14 2. A regra restritiva do art. 73, VI, a, da Lei nº 9.504/97 não pode sofrer alargamento por meio de interpretação
+extensiva em seu texto (TSE, AC nº 16.040, rel. Min. Costa Porto) (grifou-se)
+ ____________________________________________________________________________________
+                           Página 13 de 30   www.pge.sc.gov.br
+         Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                           14
+
+### Página física 14
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+         Entende-se, por isso, que sob a ótica da Lei Federal nº 9.504/1997, não há impedimento à
+
+                                                                                                                          Pág. 14 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+formalização da cessão de uso abarcada por este referencial em anos eleitorais.
+        Recomenda-se, no entanto, que durante todo o ano eleitoral, especialmente no que
+houver eleições municipais, não se façam cerimônias, atos, eventos ou reuniões públicas de
+divulgação, ou qualquer outra forma de exaltação do ato administrativo, capaz de afetar a
+igualdade de oportunidades entre candidatos em pleitos eleitorais.
+
+        CONCLUSÃO
+        Ante o exposto, o presente Parecer Referencial deverá ser utilizado na instrução de
+processos administrativos cujo objeto seja a celebração de cessão de uso gratuito, pelo Município
+ao Estado, de veículos adquiridos com recursos de multas de trânsito arrecadadas mediante
+Convênio de Trânsito.
+        A utilização deste opinativo está condicionada à juntada dos seguintes documentos no
+processo:
+        a) Checklist previsto no Anexo I, devidamente preenchido e assinado pelo servidor
+responsável pela conferência;
+          b) Declaração da autoridade competente para a prática do ato pretendido de que a situação
+analisada se enquadra nos parâmetros e pressupostos do Parecer Referencial, e que os autos se
+encontram instruídos com os documentos nele listados, tendo sido observadas as orientações
+jurídicas nele contidas (Anexo II);
+       c) Minuta de Termo de Cessão de Uso a ser firmado, de acordo com o modelo constante
+dos Anexos III e IV;
+        d) Cópia integral deste Parecer Jurídico Referencial, com o despacho de aprovação do
+Procurador-Geral do Estado (art. 4º, parágrafo único, da Portaria GAB/PGE 040/2021).
+        Fica dispensada a análise individualizada pelo órgão jurídico consultivo, desde que a
+autoridade administrativa competente ateste, de forma expressa, que o caso concreto se amolda
+aos termos do referido parecer, a teor do que dispõe o art. 4º da Portaria GAB/PGE 040/21.
+         Em caso de dúvida jurídica específica relacionada às hipóteses tratadas neste Parecer
+Referencial, manifestada pela autoridade competente, ou de matérias que não se enquadrem nos
+padrões de referência, o processo administrativo deverá ser submetido previamente à Consultoria
+Jurídica setorial, para análise do caso concreto.
+        É o parecer, que se submete à consideração superior.
+
+                                            LETÍCIA ARANTES SILVA
+                                             Procuradora do Estado
+
+ ____________________________________________________________________________________
+                           Página 14 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         15
+
+### Página física 15
+
+ESTADO DE SANTA CATARINA
+                PROCURADORIA-GERAL DO ESTADO
+                CONSULTORIA JURÍDICA
+
+                                                          ANEXO I
+
+                                                                                                                            Pág. 15 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                                      Checklist - Termo de Cessão de Uso
+
+                      Atos e documentos a serem verificados                                              S/N/NA15
+
+ Ofício do ente municipal cedente, informando o interesse em realizar a cessão de
+ uso e contendo a especificação do(s) veículo(s) objeto da cessão
+
+ Cópia da Lei Municipal que autoriza a cessão de uso, caso essa exigência conste da
+ Lei Orgânica do Município
+
+ Manifestação técnica do órgão estadual interessado no recebimento do(s) veículo(s),
+ especificando o fim e o uso de interesse social ao qual será(ão) destinado(s)
+
+ Termo de Vistoria, com declaração de que o(s) veículo(s) se encontra(m) em boas
+ condições de uso
+
+ Cópia do(s) Certificado(s) de Registro e Licenciamento do Veículo – CRLV, em nome
+ do Município cedente
+
+ Indicação da dotação orçamentária e comprovação da disponibilidade dos recursos
+ financeiros para a cobertura de eventuais custos de manutenção dos bens recebidos
+ pelo Estado
+
+ Plano de trabalho aprovado por ambos os partícipes, constando a justificativa para o
+ ajuste, seu objeto, as metas a serem atingidas, as etapas e/ou fases de execução, a
+ previsão de início e fim da cessão, e demais termos que forem necessários ao
+ planejamento da cessão (art. 116, §1º, da Lei nº 8.666/1993, e arts. 5º e 184, da Lei
+ nº 14.133/2021)
+
+ Minuta do Termo de Cessão de Uso, de acordo com uma das minutas-padrão
+ constantes dos Anexos III e IV do presente parecer (conforme a Instituição),
+ devidamente preenchida pelo setor técnico competente, em conformidade com o
+ plano de trabalho apresentado
+
+ Análise jurídica do órgão de assessoramento jurídico do Município acerca da minuta
+ do termo de cessão de uso (art. 38, parágrafo único, da Lei nº 8.666/1993, ou caput
+ e §4º do art. 53 da Lei nº 14.133/2021)
+
+15 Leia-se: S = sim; N = não; NA = não se aplica
+ ____________________________________________________________________________________
+                           Página 15 de 30   www.pge.sc.gov.br
+         Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                           16
+
+### Página física 16
+
+ESTADO DE SANTA CATARINA
+             PROCURADORIA-GERAL DO ESTADO
+             CONSULTORIA JURÍDICA
+
+Cópias do termo de posse e do documento de identidade do Prefeito Municipal.
+
+                                                                                                                         Pág. 16 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+Cópias do documento de identidade e do ato de nomeação da autoridade estadual
+que subscreverá o termo.
+
+Obs: Havendo subdelegação de competência, cópias do ato de subdelegação e do
+ato autorizando o recebimento de veículos por meio de cessão de uso
+
+                                        Local, data da assinatura digital
+
+                                                       Nome (*)
+                                                       Cargo (*)
+                                                   Matrícula nº (*)
+                           (*) Dados do servidor responsável pela conferência
+
+____________________________________________________________________________________
+                          Página 16 de 30   www.pge.sc.gov.br
+      Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                        17
+
+### Página física 17
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+                                                       ANEXO II
+
+                                                                                                                          Pág. 17 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                                             Termo de Conformidade
+
+         DECLARO, com base no Checklist de fls. XXXX (indicar páginas respectivas), para todos
+os fins de direito, que o Processo nº XXXX (indicar número do processo respectivo no SGP-e)
+encontra-se regularmente instruído com os documentos obrigatórios, achando-se a situação
+concreta e a instrução do processo em conformidade com a hipótese prevista no Parecer Jurídico
+Referencial nº XXXX/XXXX.
+
+                                      Local, data da assinatura eletrônica.
+
+                                                        Nome (*)
+                                                        Cargo (*)
+                                                    Matrícula nº (*)
+                        (*) Dados do chefe do setor responsável pelos convênios e/ou
+                                    contratos administrativos no órgão/entidade
+
+ ____________________________________________________________________________________
+                           Página 17 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         18
+
+### Página física 18
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+                                                  ANEXO III
+
+                                                                                                                          Pág. 18 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                         Minuta de Termo de Cessão de Uso – Polícia Militar
+
+                                           TERMO DE CESSÃO DE USO Nº ____/_____
+
+                                           TERMO DE CESSÃO DE USO QUE ENTRE SI CELEBRAM O
+                                           MUNICÍPIO DE XXXXXXXXX, E O ESTADO DE SANTA
+                                           CATARINA, POR INTERMÉDIO DA POLÍCIA MILITAR.
+
+O MUNICÍPIO DE XXXXXXX, inscrito no CNPJ nº xxxxxx, com endereço na [endereço do ente],
+neste ato representado pelo seu Prefeito, o Exmo. Sr. [nome completo], portador do Documento de
+Identidade nº xxxxxx e do CPF nº xxxxxx, doravante denominado CEDENTE, e o ESTADO DE
+SANTA CATARINA, por intermédio da POLÍCIA MILITAR, com endereço na Rua Visconde de Ouro
+Preto, nº 549, Florianópolis/SC, inscrita no CNPJ sob nº 83.931.550/0001-51, neste ato
+representado pelo Diretor de Logística e Finança, Coronel PM [nome completo], doravante
+denominado CESSIONÁRIO, resolvem celebrar o presente Termo de Cessão de Uso, de acordo
+com as cláusulas e condições seguintes:
+
+    CLÁUSULA PRIMEIRA – DO OBJETO
+    1.1. O Cedente fornecerá ao Cessionário, a título gratuito, para utilização exclusivamente pela
+         Policial Militar, em sua Organização Policial Militar sediada no Município de xxxxxx, o(s)
+         seguinte(s) bem(ns) móvel(is):
+      1.1.1. 1 (um) veículo marca xxxxxx, modelo xxxxxx, cor predominante xxxxxx, combustível
+             xxxxxx, ano de fabricação xxxx, ano de modelo xxxx, chassi nº xxxxxx, RENAVAM nº
+             xxxxxxxxx, placas xxxxxx;
+      1.1.2. (inserir tantos itens quantos necessário)
+    1.2. O(s) veículo(s) objeto deste termo de cessão de uso foi(ram) adquirido(s) com recursos do
+         Convênio de Trânsito nº xxxxxxxxx, exclusivamente pertencentes à parcela do Município;
+    (no caso de o(s) veículo(s) ser(em) adquirido(s) mediante rateio da despesa, com
+    recursos pertencentes às parcelas do Município e da PMSC, utilizar a redação abaixo:)
+    O(s) veículo(s) objeto deste termo de cessão de uso foi(ram) adquirido(s) com recursos do
+    Convênio de Trânsito nº xxxxxxxxx, na proporção de xx% (por extenso) da parcela do Município
+    e xx% (por extenso) da parcela da Polícia Militar.
+    1.3. O(s) veículo(s) objeto do presente termo está(ão) equipados com todos os equipamentos
+         obrigatórios.
+    1.4. O(s) veículo(s) objeto do presente termo não pode(m) ser transferido(s) ou ser objeto de
+         subcessão a terceiros.
+
+CLÁUSULA SEGUNDA – DA LEGISLAÇÃO APLICÁVEL
+A cessão de uso reger-se-á pela legislação aplicável à espécie e, especialmente e no que couber,
+pelas as seguintes normas e respectivas atualizações posteriores: art. 8º, IX, da Constituição
+ ____________________________________________________________________________________
+                           Página 18 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         19
+
+### Página física 19
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+Estadual; Lei Federal nº 8.666, de 24/06/1993, ou 14.133, de 01/04/2021 (escolher qual Lei de
+
+                                                                                                                          Pág. 19 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+Licitações e Contratos regerá o ajuste); art. 320 da Lei Federal nº 9.503, de 23/09/1997; Resolução
+CONTRAN nº 875 , de 24/09/2021; art. 106, §§ 1º e 2º, da Lei Complementar Estadual nº 741, de
+12/06/2019; Decretos Estaduais nºs 2.037, de 24/02/2014, 1.382, de 29/11/2017, 1.479, de
+21/09/2021, e 1.860, de 13/04/2022; Instrução Normativa nº 3/2020, da Secretaria de Estado da
+Administração; Portaria nº 14/PMSC/2023, de 17/01/2023, da Polícia Militar; Lei Municipal nº xxxxxx,
+de xx/xx/xxxx (se for necessária)
+
+CLÁUSULA TERCEIRA – DA DESTINAÇÃO
+O(s) veículo(s) objeto do presente termo destina(m)-se a desenvolver (descrever a atividade de
+interesse público), nos termos do Plano de Trabalho, que faz parte integrante deste instrumento
+independente de transcrição, sujeitando-se, ainda, à prestação de contas dos atos praticados por
+Fiscal do instrumento previamente compromissado.
+(Obs: por se tratar de veículo adquirido com recursos de Convênio de Trânsito, a descrição da
+atividade deve estar compatibilizada com o art. 320 do CTB e a Resolução CONTRAN nº 875, de
+24/09/2021. Por exemplo, no caso da PMSC, deixar claro que o(s) veículo(s) se destina(m) ao
+serviço de policiamento ostensivo motorizado e trânsito no Município de [...]. – EXCLUIR ESTA
+OBSERVAÇÃO AO PREECHER A MINUTA)
+
+CLÁUSULA QUARTA – DAS OBRIGAÇÕES
+    4.1. São obrigações do CEDENTE:
+       4.1.1. Entregar o(s) veículos(n) objeto deste termo com os documentos relacionados, sem
+              ônus de qualquer natureza;
+       4.1.2. Exercer a fiscalização do(s) veículo(s) quanto à sua utilização e ao atendimento da
+              destinação;
+       4.1.3. Designar representante ou comissão, durante o período de vigência do presente
+              instrumento, para representá-lo;
+       4.1.4. Prestar informações e esclarecimentos, quando requerido pelo Cessionário de forma
+              fundamentada.
+    4.2. São obrigações do CESSIONÁRIO:
+       4.2.1. Receber e usar o(s) veículos(s) objeto deste termo de forma regular e em
+              conformidade com os manuais do fabricante e documentos correlatos;
+       4.2.2. Usar o(s) veículos(s) objeto deste termo exclusivamente para o fim a que se
+              destina(m), atendendo ao interesse público e em conformidade com o art. 320 da Lei
+              Federal nº 9.503, de 23/09/1997, e a Resolução CONTRAN nº 875, de 24/09/2021,
+              ou outra que venha a substituí-la;
+       4.2.3. Guardar, manter e cuidar do(s) veículo(s) objeto deste termo, mantendo-o(s) em
+              perfeito estado de conservação, livre(s) e desembaraçado(s) de qualquer ônus;
+       4.2.4. Comunicar ao Cedente a ocorrência de qualquer acidente envolvendo o(s) veículo(s)
+              objeto deste termo, sendo também responsável pela apuração da responsabilidade
+              nos termos da legislação vigente da Polícia Militar;
+       4.2.5. Arcar com os custos de abastecimento e manutenção do(s) veículo(s) objeto deste
+              termo;
+
+ ____________________________________________________________________________________
+                           Página 19 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         20
+
+### Página física 20
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+       4.2.6. Responsabilizar-se pelo licenciamento anual dos veículos objeto deste termo,
+
+                                                                                                                          Pág. 20 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+              arcando com todas as despesas decorrentes;
+       4.2.7. Devolver o(s) bem(ns) objeto deste termo ao Cedente ao término do prazo de
+              vigência estipulado para a cessão de uso, salvo no caso de prorrogação;
+       4.2.8. Designar representante ou comissão, durante o período de vigência do presente
+              termo, para representá-lo;
+       4.2.9. Publicar o extrato do presente termo no Diário Oficial do Estado de Santa Catarina.
+
+CLÁUSULA QUINTA – DA CARACTERIZAÇÃO DOS VEÍCULOS
+Enquanto a cessão de uso estiver vigente o(s) veículo(s) objeto deste instrumento passará(ão) a
+integrar a frota do Cessionário e será(ão) caracterizado(s) com suas cores, seus símbolos,
+equipamentos e outros elementos de identificação específicos, relacionados aos serviços a que se
+destinam.
+
+CLÁUSULA SEXTA – DA DEPRECIAÇÃO
+Quando da rescisão ou expiração deste instrumento o(s) veículo(s) será(ão) devolvido(s) ao
+Cedente no estado em que se encontrar(em), respeitado o desgaste natural decorrente de seu uso
+normal.
+
+CLÁUSULA SÉTIMA – DAS INFRAÇÕES À LEGISLAÇÃO DE TRÂNSITO
+     7.1. No caso de cometimento de alguma infração de trânsito, o Cessionário se obriga a:
+       7.1.1. Indicar ao Órgão de Trânsito o condutor, nos termos da legislação vigente, em prazo
+              não superior a 15 (quinze) dias contados da data de recebimento da Notificação da
+              Autuação;
+       7.1.2. Apurar a responsabilidade e providenciar o pagamento da multa aplicada, nos termos
+              do Decreto Estadual nº 2.037, de 24/02/2014, ou outro que venha a substituí-lo, ainda
+              que o recebimento da Notificação da Autuação seja posterior ao término da cessão
+              de uso.
+
+CLÁUSULA OITAVA – DA DEVOLUÇÃO DO BEM
+Ao término do prazo de vigência da cessão de uso sem que haja prorrogação, ou sendo ela
+rescindida por qualquer motivo, o Cessionário devolverá imediatamente o(s) veículo(s) ao Cedente,
+que providenciará o leilão, depositando o montante arrecadado na conta bancária vinculada ao
+Convênio de Trânsito nº xxxxxxxxx, ou outro convênio com o mesmo objeto que venha a substituí-
+lo.
+(No caso de veículo(s) adquiridos mediante rateio da despesa, com recursos pertencentes
+às parcelas do Município e da PMSC, utilizar a redação abaixo:)
+     8.1. Ao término do prazo de vigência da cessão de uso sem que haja prorrogação, ou sendo
+     ela rescindida por qualquer motivo, o Cessionário devolverá imediatamente o(s) veículo(s) ao
+     Cedente, que providenciará o leilão, depositando o montante arrecadado na conta bancária
+     vinculada ao Convênio de Trânsito nº xxxxxxxxx, ou outro convênio com o mesmo objeto que
+     venha a substituí-lo.
+
+ ____________________________________________________________________________________
+                           Página 20 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         21
+
+### Página física 21
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+     8.2. O resultado do leilão será rateado na mesma proporção em que o Município e a Polícia
+
+                                                                                                                          Pág. 21 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+     Militar contribuíram para a aquisição, especificada no item 1.2 deste instrumento.
+
+CLÁUSULA NONA – DA DOTAÇÃO ORÇAMENTÁRIA
+As despesas decorrentes da utilização e conservação do(s) veículo(s) e das obrigações pactuadas
+correrão à conta dos recursos consignados no Orçamento do (indicar o(s) fundo(s)
+orçamentário(s)/melhoramento(s)), bem como, recursos oriundos da parcela da Polícia Militar no
+ao Convênio de Trânsito nº xxxxxxxxx em que são partícipes o Município de xxxxxxxxx e o Estado
+de Santa Catarina por meio da referida Instituição Policial, ou outro convênio com o mesmo objeto
+que venha a substituí-lo.
+
+CLÁUSULA DÉCIMA – DA GESTÃO E FISCALIZAÇÃO
+     10.1. São gestores do presente convênio, o Prefeito Municipal, ou quem por ele designado, e
+     o Comandante da Organização Policial Militar do Município de xxxxxxxx;
+     10.2. A designação do Fiscal da cessão de uso, a ser realizada pelo representante legal do
+     Cessionário, será precedida de termo próprio no processo, que deverá ser subscrito pelo
+     designado.
+     10.3. O Cedente poderá a qualquer momento obter informações do(s) veículo(s) cedido(s),
+     cabendo ao Cessionário informar todos os dados solicitados.
+
+CLÁUSULA DÉCIMA PRIMEIRA – DO PRAZO E DA VIGÊNCIA
+     11.1. O termo de cessão de uso terá vigência pelo prazo de xxxx (por extenso) anos, contados
+     da data da publicação do seu extrato no Diário Oficial do Estado;
+     11.2. A cessão de uso poderá ser prorrogada mediante a lavratura de termos aditivos, desde
+     que haja manifestação de interesse de ambos os partícipes;
+     11.3. A prorrogação deverá ser precedida de solicitação do Cessionário ao Cedente, na qual
+     conste a justificativa para sua manutenção, acompanhada do Plano de Trabalho para o novo
+     período e da prévia concordância do Cedente para com a prorrogação.
+
+CLÁUSULA DÉCIMA SEGUNDA – DA DENÚNCIA E DA RESCISÃO
+     12.1. O presente termo de cessão de uso poderá ser:
+       12.1.1. Denunciado a qualquer tempo, mediante comunicação formal a outra parte com
+               antecedência mínima de 30 (trinta) dias;
+       12.1.2. Rescindido, independente de prévia notificação ou interpelação judicial ou
+              extrajudicial, nas seguintes hipóteses:
+          12.1.2.1. Utilização do(s) veículo(s) em desacordo com o estipulado neste termo;
+          12.1.2.2. Descumprimento de qualquer das cláusulas pactuadas.
+
+CLÁUSULA DÉCIMA TERCEIRA – DAS ALTERAÇÕES
+     13.1. O presente termo de cessão de uso poderá sofrer alterações ou complementações
+     mediante a formalização de termos aditivos, vedada a alteração do seu objeto;
+ ____________________________________________________________________________________
+                           Página 21 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         22
+
+### Página física 22
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+     13.2. Qualquer aditivo para alteração deste instrumento deve ser precedido de justificativa do
+
+                                                                                                                          Pág. 22 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+     solicitante e concordância da outra parte, ou de justificativa subscrita por ambas as partes.
+
+CLÁUSULA DÉCIMA QUARTA – DA PROTEÇÃO DE DADOS PESSOAIS
+As partes declaram que têm ciência da existência da Lei nº 13.709, de 14/08/2018, Lei Geral de
+Proteção de Dados (LGPD), e se comprometem a adequar todos os procedimentos internos ao
+disposto na legislação, com o intuito de proteger os dados pessoais que lhe forem repassados,
+cumprindo, a todo o momento, as normas de proteção de dados pessoais, jamais colocando, por
+seus atos ou por sua omissão, uma ou outra instituição em situação de violação de tais regras.
+
+CLÁUSULA DÉCIMA QUINTA – CLÁUSULA ANTICORRUPÇÃO
+As partes, por seus agentes, servidores e contratados:
+     15.1. Declaram que têm conhecimento das normas previstas na legislação, entre as quais a
+     Lei Federal nº 8.429, de 02/07/1992, e a Lei Federal nº 12.846, de 01/10/2013, seus
+     regulamentos e outras eventualmente aplicáveis;
+     15.2. Comprometem-se em não adotar práticas ou procedimentos que se enquadrem nas
+     hipóteses previstas nas leis e regulamentos mencionados no inciso I desta cláusula e se
+     comprometem em exigir o mesmo pelos terceiros por elas contratados;
+     15.3. Comprometem-se em notificar a Controladoria-Geral do Estado qualquer irregularidade
+     que tiverem conhecimento acerca da execução da presente cessão de uso e de qualquer
+     contratação com ele relacionada;
+     15.4. Declaram que têm ciência que a violação de qualquer das obrigações previstas na
+     Instrução Normativa Conjunta CGE/SEA nº 1, de 26/03/2020, além de outras, é causa para a
+     rescisão unilateral da cessão de uso, sem prejuízo da cobrança e responsabilização das
+     perdas e danos, inclusive danos potenciais, causados à parte inocente.
+
+CLÁUSULA DÉCIMA SEXTA – DO FORO
+Fica eleito o Foro da Comarca de Florianópolis, Capital do Estado de Santa Catarina, para dirimir
+quaisquer dúvidas ou controvérsias resultantes do presente convênio, renunciando as partes a
+qualquer outro, por mais privilegiado que seja.
+
+E assim, por estarem justos e acordados, assinam o presente termo junto com duas testemunhas.
+
+Florianópolis/SC, data da assinatura eletrônica
+
+XXXXXXXXXXXXXX                                                 XXXXXXXXXXXX
+Prefeito(a) Municipal                                           Cel PM Diretor de Apoio Logístico e Finanças
+
+TESTEMUNHAS:
+
+ ____________________________________________________________________________________
+                           Página 22 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         23
+
+### Página física 23
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+                                                                                                                          Pág. 23 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+XXXXXXXXXXXXXX                                                 XXXXXXXXXXXX
+CPF:                                                            CPF:
+
+ ____________________________________________________________________________________
+                           Página 23 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         24
+
+### Página física 24
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+                                                  ANEXO IV
+
+                                                                                                                          Pág. 24 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+                           Minuta de Termo de Cessão de Uso – Polícia Civil
+
+                                           TERMO DE CESSÃO DE USO Nº ____/_____
+
+                                           TERMO DE CESSÃO DE USO QUE ENTRE SI CELEBRAM O
+                                           MUNICÍPIO DE XXXXXXXXX, E O ESTADO DE SANTA
+                                           CATARINA, POR INTERMÉDIO DA POLÍCIA CIVIL.
+
+O MUNICÍPIO DE XXXXXXX, inscrito no CNPJ nº xxxxxx, com endereço na [endereço do ente],
+neste ato representado pelo seu Prefeito, o Exmo. Sr. [nome completo], portador do Documento de
+Identidade nº xxxxxx e do CPF nº xxxxxx, doravante denominado CEDENTE, e o ESTADO DE
+SANTA CATARINA, por intermédio da POLÍCIA CIVIL, com endereço na Av. Governador Ivo
+Silveira, nº 1.521, Florianópolis/SC, inscrita no CNPJ sob nº 15.211.786/0001-63, neste ato
+representada pelo Delegado-Geral da Polícia Civil, Exmo. Sr. [nome completo], doravante
+denominado CESSIONÁRIO, resolvem, celebrar o presente Termo de Cessão de Uso, de acordo
+com as cláusulas e condições seguintes:
+
+    CLÁUSULA PRIMEIRA – DO OBJETO
+    1.1. O Cedente fornecerá ao Cessionário, a título gratuito, para utilização exclusivamente pela
+         Policial Civil, em sua Unidade Policial sediada no Município de xxxxxx, o(s) seguinte(s)
+         bem(ns) móvel(is):
+      1.1.1. 1 (um) veículo marca xxxxxx, modelo xxxxxx, cor predominante xxxxxx, combustível
+             xxxxxx, ano de fabricação xxxx, ano de modelo xxxx, chassi nº xxxxxx, RENAVAM nº
+             xxxxxxxxx, placas xxxxxx;
+      1.1.2. (inserir tantos itens quantos necessário)
+    1.2. O(s) veículo(s) objeto deste termo de cessão de uso foi(ram) adquirido(s) com recursos do
+         Convênio de Trânsito nº xxxxxxxxx, exclusivamente pertencentes à parcela do Município;
+    (no caso de o(s) veículo(s) ser(em) adquirido(s) mediante rateio da despesa, com
+    recursos pertencentes às parcelas do Município e da PCSC, utilizar a redação abaixo:)
+    O(s) veículo(s) objeto deste termo de cessão de uso foi(ram) adquirido(s) com recursos do
+    Convênio de Trânsito nº xxxxxxxxx, na proporção de xx% (por extenso) da parcela do Município
+    e xx% (por extenso) da parcela da Polícia Civil;
+    1.3. O(s) veículo(s) objeto do presente termo está(ão) equipados com todos os equipamentos
+         obrigatórios.
+    1.4. O(s) veículo(s) objeto do presente termo não pode(m) ser transferido(s) ou ser objeto de
+         subcessão a terceiros.
+
+CLÁUSULA SEGUNDA – DA LEGISLAÇÃO APLICÁVEL
+A cessão de uso reger-se-á pela legislação aplicável à espécie e, especialmente e no que couber,
+pelas as seguintes normas e respectivas atualizações posteriores: art. 8º, IX, da Constituição
+ ____________________________________________________________________________________
+                           Página 24 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         25
+
+### Página física 25
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+Estadual; Lei Federal nº 8.666, de 24/06/1993, ou 14.133, de 01/04/2021 (escolher qual Lei de
+
+                                                                                                                          Pág. 25 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+Licitações e Contratos regerá o ajuste); art. 320 da Lei Federal nº 9.503, de 23/09/1997; Resolução
+CONTRAN nº 875 , de 24/09/2021; art. 106, §§ 1º e 2º, da Lei Complementar Estadual nº 741, de
+12/06/2019; Decretos Estaduais nºs 2.037, de 24/02/2014, 1.382, de 29/11/2017, 1.479, de
+21/09/2021, e 1.860, de 13/04/2022; Instrução Normativa nº 3/2020, da Secretaria de Estado da
+Administração; Lei Municipal nº xxxxxx, de xx/xx/xxxx (se for necessária)
+
+CLÁUSULA TERCEIRA – DA DESTINAÇÃO
+O(s) veículo(s) objeto do presente termo destina(m)-se a desenvolver (descrever a atividade de
+interesse público), nos termos do Plano de Trabalho, que faz parte integrante deste instrumento
+independente de transcrição, sujeitando-se, ainda, à prestação de contas dos atos praticados por
+Fiscal do instrumento previamente compromissado.
+ (Obs: por se tratar de veículo adquirido com recursos de Convênio de Trânsito, a descrição da
+atividade deve estar compatibilizada com o art. 320 do CTB e a Resolução CONTRAN nº 875, de
+24/09/2021 - EXCLUIR ESTA OBSERVAÇÃO AO PREECHER A MINUTA)
+
+CLÁUSULA QUARTA – DAS OBRIGAÇÕES
+    4.1. São obrigações do CEDENTE:
+       4.1.1. Entregar o(s) veículo(s) objeto deste termo com os documentos relacionados, sem
+              ônus de qualquer natureza;
+       4.1.2. Exercer a fiscalização do(s) veículo(s) quanto à sua utilização e ao atendimento da
+              destinação;
+       4.1.3. Designar representante ou comissão, durante o período de vigência do presente
+              instrumento, para representá-lo;
+       4.1.4. Prestar informações e esclarecimentos, quando requerido pelo Cessionário de forma
+              fundamentada.
+    4.2. São obrigações do CESSIONÁRIO:
+       4.2.1. Receber e usar o(s) veículos(s) objeto deste termo de forma regular e em
+              conformidade com os manuais do fabricante e documentos correlatos;
+       4.2.2. Usar o(s) veículos(s) objeto deste termo exclusivamente para o fim a que se
+              destina(m), atendendo ao interesse público e em conformidade com o art. 320 da Lei
+              Federal nº 9.503, de 23/09/1997, e a Resolução CONTRAN nº 875, de 24/09/2021,
+              ou outra que venha a substituí-la;
+       4.2.3. Guardar, manter e cuidar do(s) veículo(s) objeto deste termo, mantendo-o(s) em
+              perfeito estado de conservação, livre(s) e desembaraçado(s) de qualquer ônus;
+       4.2.4. Comunicando ao Cedente a ocorrência de qualquer acidente envolvendo o(s)
+              veículo(s) objeto deste termo, sendo também responsável pela apuração da
+              responsabilidade nos termos da legislação vigente na Polícia Civil;
+       4.2.5. Arcar com os custos de abastecimento e manutenção do(s) veículo(s) objeto deste
+              termo;
+       4.2.6. Responsabilizar-se pelo licenciamento anual dos veículos objeto deste termo,
+              arcando com todas as despesas decorrentes;
+
+ ____________________________________________________________________________________
+                           Página 25 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         26
+
+### Página física 26
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+       4.2.7. Devolver o(s) bem(ns) objeto deste termo ao Cedente ao término do prazo de
+
+                                                                                                                          Pág. 26 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+              vigência estipulado para a cessão de uso, salvo no caso de prorrogação;
+       4.2.8. Designar representante ou comissão, durante o período de vigência do presente
+              termo, para representá-lo;
+       4.2.9. Publicar o extrato do presente termo no Diário Oficial do Estado de Santa Catarina.
+
+CLÁUSULA QUINTA – DA CARACTERIZAÇÃO DOS VEÍCULOS
+Enquanto a cessão de uso estiver vigente o(s) veículo(s) objeto deste instrumento passará(ão) a
+integrar a frota do Cessionário e será(ão) caracterizado(s) com suas cores, seus símbolos,
+equipamentos e outros elementos de identificação específicos, relacionados aos serviços a que se
+destinam.
+
+CLÁUSULA SEXTA – DA DEPRECIAÇÃO
+Quando da rescisão ou expiração deste instrumento o(s) veículo(s) será(ão) devolvido(s) ao
+Cedente no estado em que se encontrar(em), respeitado o desgaste natural decorrente de seu uso
+normal.
+
+CLÁUSULA SÉTIMA – DAS INFRAÇÕES À LEGISLAÇÃO DE TRÂNSITO
+     7.1. No caso de cometimento de alguma infração de trânsito, o Cessionário se obriga a:
+       7.1.1. Indicar ao Órgão de Trânsito o condutor, nos termos da legislação vigente, em prazo
+              não superior a 15 (quinze) dias contados da data de recebimento da Notificação da
+              Autuação;
+       7.1.2. Apurar a responsabilidade e providenciar o pagamento da multa aplicada, nos termos
+              do Decreto Estadual nº 2.037, de 24/02/2014, ou outro que venha a substituí-lo, ainda
+              que o recebimento da Notificação da Autuação seja posterior ao término da cessão
+              de uso.
+
+CLÁUSULA OITAVA – DA DEVOLUÇÃO DO BEM
+Ao término do prazo de vigência da cessão de uso sem que haja prorrogação, ou sendo ela
+rescindida por qualquer motivo, o Cessionário devolverá imediatamente o(s) veículo(s) ao Cedente,
+que providenciará o leilão, depositando o montante arrecadado na conta bancária vinculada ao
+Convênio de Trânsito nº xxxxxxxxx, ou outro convênio com o mesmo objeto que venha a substituí-
+lo.
+(No caso de veículo(s) adquiridos mediante rateio da despesa, com recursos pertencentes
+às parcelas do Município e da PCSC, utilizar a redação abaixo:)
+     8.1. Ao término do prazo de vigência da cessão de uso sem que haja prorrogação, ou sendo
+     ela rescindida por qualquer motivo, o Cessionário devolverá imediatamente o(s) veículo(s) ao
+     Cedente, que providenciará o leilão, depositando o montante arrecadado na conta bancária
+     vinculada ao Convênio de Trânsito nº xxxxxxxxx, ou outro convênio com o mesmo objeto que
+     venha a substituí-lo.
+     8.2. O resultado do leilão será rateado na mesma proporção em que o Município e a Polícia
+     Civil contribuíram para a aquisição, especificada no item 1.2 deste instrumento.
+
+ ____________________________________________________________________________________
+                           Página 26 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         27
+
+### Página física 27
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+                                                                                                                          Pág. 27 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+CLÁUSULA NONA – DA DOTAÇÃO ORÇAMENTÁRIA
+As despesas decorrentes da utilização e conservação do(s) veículo(s) e das obrigações pactuadas
+correrão à conta dos recursos consignados no Orçamento do (indicar o(s) fundo(s)
+orçamentário(s)/melhoramento(s)), bem como, recursos oriundos da parcela da Polícia Civil no
+ao Convênio de Trânsito nº xxxxxxxxx em que são partícipes o Município de xxxxxxxxx e o Estado
+de Santa Catarina por meio da referida Instituição Policial, ou outro convênio com o mesmo objeto
+que venha a substituí-lo.
+
+CLÁUSULA DÉCIMA – DA GESTÃO E FISCALIZAÇÃO
+     10.1. São gestores do presente convênio, o Prefeito Municipal, ou quem por ele designado, e
+     o titular da Unidade Policial Civil do Município de xxxxxxxx;
+     10.2. A designação do Fiscal da cessão de uso, a ser realizada pelo representante legal do
+     Cessionário, será precedida de termo próprio no processo, que deverá ser subscrito pelo
+     designado.
+     10.3. O Cedente poderá a qualquer momento obter informações do(s) veículo(s) cedidos,
+     cabendo ao Cessionário informar todos os dados solicitados.
+
+CLÁUSULA DÉCIMA PRIMEIRA – DO PRAZO E DA VIGÊNCIA
+     11.1. O termo de cessão de uso terá vigência pelo prazo de xxxxx (por extenso) anos,
+     contados da data da publicação do seu extrato no Diário Oficial do Estado;
+     11.2. A cessão de uso poderá ser prorrogada mediante a lavratura de termos aditivos, desde
+     que haja manifestação de interesse de ambos os partícipes;
+     11.3. A prorrogação deverá ser precedida de solicitação do Cessionário ao Cedente, na qual
+     conste a justificativa para sua manutenção, acompanhada do Plano de Trabalho para o novo
+     período e da prévia concordância do Cedente para com a prorrogação.
+
+CLÁUSULA DÉCIMA SEGUNDA – DA DENÚNCIA E DA RESCISÃO
+     12.1. O presente termo de cessão de uso poderá ser:
+       12.1.1. Denunciado a qualquer tempo, mediante comunicação formal a outra parte com
+               antecedência mínima de 30 (trinta) dias;
+       12.1.2. Rescindido, independente de prévia notificação ou interpelação judicial ou
+              extrajudicial, nas seguintes hipóteses:
+          12.1.2.1. Utilização do(s) veículo(s) em desacordo com o estipulado neste termo;
+          12.1.2.2. Descumprimento de qualquer das cláusulas pactuadas.
+
+CLÁUSULA DÉCIMA TERCEIRA – DAS ALTERAÇÕES
+     13.1. O presente termo de cessão de uso poderá sofrer alterações ou complementações
+     mediante e formalização de termos aditivos, vedada a alteração do seu objeto;
+     13.2. Qualquer aditivo para alteração deste instrumento deve ser precedido de justificativa do
+     solicitante e concordância da outra parte, ou de justificativa subscrita por ambas as partes.
+ ____________________________________________________________________________________
+                           Página 27 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         28
+
+### Página física 28
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+                                                                                                                          Pág. 28 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+CLÁUSULA DÉCIMA QUARTA – DA PROTEÇÃO DE DADOS PESSOAIS
+As partes declaram que têm ciência da existência da Lei nº 13.709, de 14/08/2018, Lei Geral de
+Proteção de Dados (LGPD), e se comprometem a adequar todos os procedimentos internos ao
+disposto na legislação, com o intuito de proteger os dados pessoais que lhe forem repassados,
+cumprindo, a todo o momento, as normas de proteção de dados pessoais, jamais colocando, por
+seus atos ou por sua omissão, uma ou outra instituição em situação de violação de tais regras.
+
+CLÁUSULA DÉCIMA QUINTA – CLÁUSULA ANTICORRUPÇÃO
+As partes, por seus agentes, servidores e contratados:
+     15.1. Declaram que têm conhecimento das normas previstas na legislação, entre as quais a
+     Lei Federal nº 8.429, de 02/07/1992, e a Lei Federal nº 12.846, de 01/10/2013, seus
+     regulamentos e outras eventualmente aplicáveis;
+     15.2. Comprometem-se em não adotar práticas ou procedimentos que se enquadrem nas
+     hipóteses previstas nas leis e regulamentos mencionados no inciso I desta cláusula e se
+     comprometem em exigir o mesmo pelos terceiros por elas contratados;
+     15.3. Comprometem-se em notificar a Controladoria-Geral do Estado qualquer irregularidade
+     que tiverem conhecimento acerca da execução da presente cessão de uso e de qualquer
+     contratação com ele relacionada;
+     15.4. Declaram que têm ciência que a violação de qualquer das obrigações previstas na
+     Instrução Normativa Conjunta CGE/SEA nº 1, de 26/03/2020, além de outras, é causa para a
+     rescisão unilateral da cessão de uso, sem prejuízo da cobrança e responsabilização das
+     perdas e danos, inclusive danos potenciais, causados à parte inocente.
+
+CLÁUSULA DÉCIMA SEXTA – DO FORO
+Fica eleito o Foro da Comarca de Florianópolis, Capital do Estado de Santa Catarina, para dirimir
+quaisquer dúvidas ou controvérsias resultantes do presente convênio, renunciando as partes a
+qualquer outro, por mais privilegiado que seja.
+
+E assim, por estarem justos e acordados, assinam o presente termo junto com duas testemunhas.
+
+Florianópolis/SC, data da assinatura eletrônica
+
+XXXXXXXXXXXXXX                                                 XXXXXXXXXXXX
+Prefeito(a) Municipal                                          Delegado-Geral da Polícia Civil
+
+TESTEMUNHAS:
+
+ ____________________________________________________________________________________
+                           Página 28 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         29
+
+### Página física 29
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              CONSULTORIA JURÍDICA
+
+XXXXXXXXXXXXXX                                                 XXXXXXXXXXXX
+
+                                                                                                                          Pág. 29 de 29 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL.
+CPF:                                                             CPF:
+
+ ____________________________________________________________________________________
+                           Página 29 de 30   www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         30
+
+### Página física 30
+
+Assinaturas do documento
+
+                                        Código para verificação: 0C9V80IL
+
+Este documento foi assinado digitalmente pelos seguintes signatários nas datas indicadas:
+
+      "LETICIA ARANTES SILVA" em 28/06/2023 às 15:12:18
+      Emitido por: "SGP-e", emitido em 25/10/2021 - 16:12:36 e válido até 25/10/2121 - 16:12:36.
+      (Assinatura do sistema)
+
+Para verificar a autenticidade desta cópia, acesse o link https://portal.sgpe.sea.sc.gov.br/portal-externo/conferencia-
+documento/UEdFXzY2MDRfMDAwMDQ1MDJfNDUxMl8yMDIzXzBDOVY4MElM ou o site
+https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 0C9V80IL
+ou aponte a câmera para o QR Code presente nesta página para realizar a conferência.
+
+### Página física 31
+
+ESTADO DE SANTA CATARINA
+             PROCURADORIA-GERAL DO ESTADO
+             CONSULTORIA JURÍDICA
+
+                                                DESPACHO
+
+                                                                                                                 Pág. 01 de 01 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 1GD5X1Y1.
+Referência: PGE 4502/2023
+Assunto: Parecer Jurídico Referencial – Cessão de uso gratuita de bem móvel (veículo automotor)
+adquirido com recursos provenientes de Convênio de Trânsito
+Origem: Núcleo de Atendimento Jurídico aos Órgãos Setoriais e Seccionais do Sistema
+Administrativo de Serviços Jurídicos - NUAJ
+Interessados: Polícia Militar e Polícia Civil do Estado de Santa Catarina (PMSC e PCSC).
+
+        1. Manifesto concordância com o parecer de página 2-30 firmado pela Procuradora do
+Estado Dra. Letícia Arantes Silva, cuja ementa foi assim formulada:
+                         PARECER JURÍDICO REFERENCIAL. DIREITO ADMINISTRATIVO. CESSÃO DE
+                         USO DE VEÍCULOS AUTOMOTORES ADQUIRIDOS PELO MUNICÍPIO COM
+                         RECURSOS PROVENIENTES DA APLICAÇÃO DE MULTAS DE TRÂNSITO,
+                         ARRECADADAS    MEDIANTE   CONVÊNIO     DE   TRÂNSITO.   ESTADO
+                         CESSIONÁRIO.
+                         1. Aplicabilidade restrita à celebração de cessão de uso de veículos adquiridos pelo
+                         Município com recursos provenientes da aplicação de multas de trânsito,
+                         arrecadadas mediante Convênio de Trânsito.
+                         2. Documentos que devem constar da instrução de processos de celebração de
+                         cessão de uso de veículos adquiridos pelo Município com recursos provenientes da
+                         aplicação de multas de trânsito, arrecadadas mediante Convênio de Trânsito.
+                         3. Dispensabilidade de análise individualizada de processos que envolvam matéria
+                         recorrente e que se amoldem aos termos desta manifestação jurídica referencial.
+                         4. Necessário encaminhamento à consultoria jurídica competente, para análise
+                         individualizada, nas hipóteses não abarcadas pelo referencial, bem como em caso
+                         de dúvida específica de caráter jurídico externada pelo gestor.
+                         5. Parecer Jurídico Referencial com validade condicionada à aprovação do
+                         Procurador-Geral do Estado, nos termos do art. 2º da Portaria GAB/PGE nº 40/21.
+      2. À consideração superior, tendo em vista o disposto no art. 2º, §§1º e 2º, da Portaria
+GAB/PGE 040/21.
+
+                                Florianópolis, data da assinatura digital.
+
+                                 ANDRÉ FILIPE SABETZKI BOEING
+                             Procurador-Chefe da Consultoria Jurídica
+
+ ____________________________________________________________________________
+                                     Página 1 de 1 www. pge.sc.gov.br
+    Av. Osmar Cunha, 220, Ed. J.J.Cupertino, Centro - CEP 88015100, Florianópolis-SC - Fone: (48) 3664-7600
+
+                                                                                                                31
+
+### Página física 32
+
+Assinaturas do documento
+
+                                       Código para verificação: 1GD5X1Y1
+
+Este documento foi assinado digitalmente pelos seguintes signatários nas datas indicadas:
+
+      ANDRE FILIPE SABETZKI BOEING (CPF: 071.XXX.229-XX) em 28/06/2023 às 16:23:00
+      Emitido por: "SGP-e", emitido em 24/07/2020 - 13:34:48 e válido até 24/07/2120 - 13:34:48.
+      (Assinatura do sistema)
+
+Para verificar a autenticidade desta cópia, acesse o link https://portal.sgpe.sea.sc.gov.br/portal-externo/conferencia-
+documento/UEdFXzY2MDRfMDAwMDQ1MDJfNDUxMl8yMDIzXzFHRDVYMVkx ou o site
+https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 1GD5X1Y1
+ou aponte a câmera para o QR Code presente nesta página para realizar a conferência.
+
+### Página física 33
+
+ESTADO DE SANTA CATARINA
+              PROCURADORIA-GERAL DO ESTADO
+              GABINETE DO PROCURADOR-GERAL
+
+                                                      DESPACHO
+
+                                                                                                                          Pág. 01 de 01 - Documento assinado digitalmente. Para conferência, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 5L02G7CM.
+Referência: PGE 4502/2023
+Assunto: Parecer Jurídico Referencial – Cessão de uso gratuita de bem móvel (veículo automotor)
+adquirido com recursos provenientes de Convênio de Trânsito
+Origem: Núcleo de Atendimento Jurídico aos Órgãos Setoriais e Seccionais do Sistema
+Administrativo de Serviços Jurídicos - NUAJ
+Interessados: Polícia Militar e Polícia Civil do Estado de Santa Catarina (PMSC e PCSC).
+
+        1. De acordo com o Parecer Referencial n. 3/2023-PGE/SSP (p. 2-30) da lavra da
+Procuradora do Estado, Dra. Letícia Arantes Silva, referendado pelo Procurador-Chefe da
+Consultoria Jurídica, Dr. André Filipe Sabetzki Boeing.
+
+                                             ANDRÉ EMILIANO UBA
+                          Procurador-Geral Adjunto para Assuntos Jurídicos
+
+         1. Referendo o Parecer Referencial n. 3/2023-PGE/SSP (p. 2-30) acolhido pelo Dr. André
+Emiliano Uba, Procurador-Geral Adjunto para Assuntos Jurídicos, nos termos do disposto no art. 2º,
+§§ 1º e 2º, da Portaria GAB/PGE 040/21.
+        3. Encaminhem-se os autos à Secretaria de Estado da Segurança Pública (SSP).
+
+                                    Florianópolis, data da assinatura digital.
+
+                                        MÁRCIO LUIZ FOGAÇA VICARI
+                                          Procurador-Geral do Estado
+
+ ____________________________________________________________________________________
+                                      Página 1 de 1            www.pge.sc.gov.br
+       Av. Prefeito Osmar Cunha, 220, Ed. J.J. Cupertino, Centro - 88015-100 – Florianópolis-SC – Fone: (48) 3664-7600
+
+                                                                                                                         32
+
+### Página física 34
+
+Assinaturas do documento
+
+                                       Código para verificação: 5L02G7CM
+
+Este documento foi assinado digitalmente pelos seguintes signatários nas datas indicadas:
+
+      ANDRÉ EMILIANO UBA (CPF: 039.XXX.669-XX) em 28/06/2023 às 17:59:11
+      Emitido por: "SGP-e", emitido em 30/03/2018 - 12:32:35 e válido até 30/03/2118 - 12:32:35.
+      (Assinatura do sistema)
+
+      MÁRCIO LUIZ FOGAÇA VICARI (CPF: 888.XXX.859-XX) em 28/06/2023 às 18:21:37
+      Emitido por: "SGP-e", emitido em 03/01/2023 - 12:39:09 e válido até 03/01/2123 - 12:39:09.
+      (Assinatura do sistema)
+
+Para verificar a autenticidade desta cópia, acesse o link https://portal.sgpe.sea.sc.gov.br/portal-externo/conferencia-
+documento/UEdFXzY2MDRfMDAwMDQ1MDJfNDUxMl8yMDIzXzVMMDJHN0NN ou o site
+https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo PGE 00004502/2023 e o código 5L02G7CM
+ou aponte a câmera para o QR Code presente nesta página para realizar a conferência.
