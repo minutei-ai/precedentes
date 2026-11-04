@@ -11,8 +11,18 @@
 - **PDF (@@display-file):** [tre-pb-279-04-2016-6-15.0000.pdf](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/arquivos/tre-pb-279-04-2016-6-15.0000/@@display-file/file/tre-pb-279-04-2016-6-15.0000.pdf)
 - **Captura privada:** `tre-pb-279-04-2016-6-15.0000.pdf` — 859140 bytes — SHA-256 `4ed47466d1cab25f1c01557eafc1e2fb2883b3678acd71ac5a98751a4594d1c3`
 - **Rasters privados:** `ocr/pb/279/p-01.png` … `p-12.png` (pdftoppm 200 dpi)
-- **Extração:** PDF raster; transcrição visual **12/12** (Read PDF/PNG). Sem Tesseract/RapidOCR/ocrmypdf.
-- **Cobertura por página:** 1 capa/ementa/acórdão · 2–5 relatório (8 indagações) · 6–11 voto/respostas · 12 fecho/assinatura
+- **Extração:** PDF raster; leitura visual Read(PDF/PNG) por faixas. Sem Tesseract/RapidOCR/ocrmypdf.
+- **Cobertura por página (aberta / transcrita / ilegível):**
+  - p.1: aberta · transcrita (capa/ementa/acórdão)
+  - p.2: aberta · parcialmente transcrita (assinaturas + início relatório)
+  - p.3–5: abertas · parcialmente transcritas (indagações 1–8; densas)
+  - p.6: aberta · transcrita (conhecimento parcial)
+  - p.7: aberta · parcialmente transcrita (pergunta 1 + início fundamentação LC 64/90 alínea “e”)
+  - p.8: aberta · parcialmente transcrita (continuação pergunta 1 / citação TSE; tipografia densa)
+  - p.9: aberta · parcialmente transcrita (perguntas 2–3 — prazo 8 anos)
+  - p.10: aberta · parcialmente transcrita (pergunta 4 — termo inicial; início pergunta 5)
+  - p.11: aberta · parcialmente transcrita (pergunta 5 — reabilitação; “É como voto.”)
+  - p.12: aberta · fecho/assinatura (carimbos)
 
 ## Enquadramento
 
@@ -76,20 +86,66 @@ O EXMO. SR. DESEMBARGADOR MARCELO ESTAVAM DE BRITO LEITE (RELATOR):
 
 Conheço das perguntas 1 a 5. Não conheço das perguntas 6 a 8, por apresentarem contornos de caso concreto / tipificação específica, vedados em sede de consulta.
 
-### Páginas 7–11/12 — respostas de mérito (perguntas 1–5)
+### Página 7/12 — pergunta 1 (início)
 
-**Pergunta 1** — Respondida afirmativamente: os crimes contra a ordem tributária previstos na Lei nº 8.137/90 (arts. 1º e 2º) enquadram-se na alínea “e” do art. 1º, inciso I, da LC nº 64/90.
+Quanto à primeira indagação, relativa à incidência dos crimes contra a ordem tributária, previstos na Lei nº 8.137/90, nas hipóteses de inelegibilidade da Lei Complementar nº 64/90, entendo que a resposta deve ser afirmativa.
 
-**Perguntas 2 e 3** — A inelegibilidade observa o prazo de 8 (oito) anos após o cumprimento da pena.
+Com efeito, a alínea “e” do inciso I do art. 1º da LC nº 64/90, com a redação dada pela LC nº 135/2010, prevê a inelegibilidade dos que forem condenados, em decisão transitada em julgado ou proferida por órgão judicial colegiado, pela prática de crimes contra a economia popular, a fé pública, a administração pública e o patrimônio público.
 
-**Pergunta 4** — O termo inicial do prazo observa o cumprimento da pena.
+[Continuação da fundamentação — tipografia densa no raster `p-07.png`; linhas finais da página com citação de dispositivo legal:]
 
-**Pergunta 5** — A reabilitação criminal não afasta a inelegibilidade da LC nº 64/90 com as alterações da LC nº 135/2010.
+[ilegível: trecho denso final da p.7 ligando Lei 8.137/90 à alínea “e” — conferir `p-07.png`]
 
-[Fundamentação e citações de precedentes nas pp. 7–11: tipografia densa — ver `p-07.png` … `p-11.png`. Trechos ambíguos não reconstruídos.]
+### Página 8/12 — pergunta 1 (continuação)
+
+[Continuação:] …os crimes contra a ordem tributária previstos na Lei nº 8.137/90 se enquadram nas hipóteses de inelegibilidade da alínea “e” do art. 1º, I, da LC nº 64/90.
+
+A jurisprudência do Tribunal Superior Eleitoral firmou o entendimento de que os crimes contra a ordem tributária são crimes contra a administração pública, para fins de inelegibilidade.
+
+Nesse sentido:
+
+[Citação de precedente TSE — tipografia densa:]
+
+[ilegível: ementa/acórdão TSE citado na faixa central de `p-08.png`]
+
+Assim, respondo afirmativamente à primeira indagação.
+
+### Página 9/12 — perguntas 2 e 3
+
+Quanto às indagações relativas ao prazo de inelegibilidade (perguntas 2 e 3), a alínea “e” do art. 1º, I, da LC nº 64/90 estabelece o prazo de 8 (oito) anos após o cumprimento da pena.
+
+[Fundamentação adicional — tipografia densa no raster `p-09.png`:]
+
+[ilegível: bloco intermediário de fundamentação/citações na p.9]
+
+Assim, o prazo de inelegibilidade é de 8 (oito) anos, contados do cumprimento da pena.
+
+### Página 10/12 — pergunta 4 e início da 5
+
+Quanto ao termo inicial do prazo de inelegibilidade (pergunta 4), a jurisprudência do TSE firmou o entendimento de que o prazo de 8 (oito) anos conta-se do cumprimento da pena.
+
+[Citação / fundamentação densa — ver `p-10.png`; trechos ambíguos:]
+
+[ilegível: citação de julgado TSE sobre termo inicial na faixa média de `p-10.png`]
+
+Passo à quinta indagação, relativa à reabilitação criminal.
+
+### Página 11/12 — pergunta 5 e fecho do voto
+
+Quanto à quinta indagação, relativa aos efeitos da reabilitação criminal sobre a inelegibilidade, entendo que a reabilitação criminal não afasta a inelegibilidade prevista na alínea “e” do art. 1º, I, da LC nº 64/90, com a redação dada pela LC nº 135/2010.
+
+Com efeito, a inelegibilidade tem natureza eleitoral, distinta da sanção penal, e a reabilitação criminal não elide os efeitos eleitorais da condenação.
+
+[Trecho denso de fundamentação/citações — ver `p-11.png`:]
+
+[ilegível: bloco intermediário de citações na p.11]
+
+Ante o exposto, conheço em parte da consulta e respondo às perguntas 1 a 5 nos termos acima, não conhecendo das perguntas 6 a 8.
 
 É como voto.
 
 ### Página 12/12 — fecho
 
 [Fecho do voto e assinatura — ver `p-12.png`.]
+
+> Nota de cobertura: páginas **1–12 abertas**. Dispositivo/respostas de mérito das perguntas 1–5 **transcritos** a partir de leitura visual por faixas. Trechos densos de citação jurisprudencial nas pp.7–11 marcados `[ilegível:…]`. Perguntas 6–8 do relatório permanecem com tipografia densa parcial. PDF privado permanece a fonte para reauditoria. Não se afirma validação por outro modelo.

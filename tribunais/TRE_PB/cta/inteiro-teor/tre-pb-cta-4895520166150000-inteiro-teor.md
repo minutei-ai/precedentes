@@ -11,8 +11,15 @@
 - **PDF (@@display-file):** [tre-pb-489-55-2016-6-15.0000.pdf](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/arquivos/tre-pb-489-55-2016-6-15.0000/@@display-file/file/tre-pb-489-55-2016-6-15.0000.pdf)
 - **Captura privada:** `tre-pb-489-55-2016-6-15.0000.pdf` — 790642 bytes — SHA-256 `9178d83ada5d87349c4b2a962ad70b6cc0c44f6480dc30a50b9ee5dd2736e7af`
 - **Rasters privados:** `ocr/pb/489/p-1.png` … `p-7.png` (pdftoppm 200 dpi)
-- **Extração:** PDF raster; transcrição visual **7/7** (Read PDF/PNG). Sem Tesseract/RapidOCR/ocrmypdf.
-- **Cobertura por página:** 1 capa/ementa/acórdão · 2 assinaturas+relatório · 3 relatório/voto · 4–6 mérito/dispositivo · 7 assinatura digital
+- **Extração:** PDF raster; leitura visual Read(PDF/PNG) por faixas. Sem Tesseract/RapidOCR/ocrmypdf.
+- **Cobertura por página (aberta / transcrita / ilegível):**
+  - p.1: aberta · transcrita (capa/ementa/acórdão)
+  - p.2: aberta · transcrita (assinaturas + relatório + pergunta)
+  - p.3: aberta · transcrita em grande parte (voto/conhecimento/CF art. 14 § 8º / LC 64/90); linhas finais densas com ressalva
+  - p.4: aberta · parcialmente transcrita (art. 98 Lei 9.504/97 c/c Lei 13.165/2015; jurisprudência TSE); trechos densos de citação de julgados marcados
+  - p.5: aberta · transcrita (dispositivo + “É como voto.” + início do registro de julgamento)
+  - p.6: aberta · parcialmente transcrita (votos dos juízes + assinaturas); carimbos/rubricas densos
+  - p.7: aberta · predominantemente em branco / carimbo digital
 
 ## Enquadramento
 
@@ -93,17 +100,29 @@ II - se contar mais de dez anos de serviço, será agregado pela autoridade supe
 
 A Lei Complementar nº 64/90, em seu art. 1º, inciso II, alínea "c", prevê a inelegibilidade do militar que, contando menos de 10 (dez) anos de serviço, não se afastar definitivamente da atividade até 6 (seis) meses antes do pleito; e, contando mais de 10 (dez) anos, não for agregado pela autoridade superior até 6 (seis) meses antes do pleito.
 
-[Linhas finais da página com tipografia densa: ver `p-3.png` se houver dúvida pontual.]
+[Linhas finais da página — tipografia densa no raster `p-3.png`; continuidade imediata na p.4.]
 
 ### Página 4/7 — mérito (art. 98 / jurisprudência)
 
-Por sua vez, o art. 98 da Lei nº 9.504/97 [redação/aplicação discutida no voto — tipografia do enunciado legal no raster `p-4.png`].
+[Continuação da p.3:] …antes do pleito; e, se contar mais de 10 (dez) anos, não for agregado pela autoridade superior até 6 (seis) meses antes do pleito.
+
+Por sua vez, o art. 98 da Lei nº 9.504/97, com a redação dada pela Lei nº 13.165/2015, estabelece que:
+
+[Citação indentada do art. 98 — tipografia densa; leitura visual parcial no raster `p-4.png`. Trecho ambíguo não reconstruído:]
+
+[ilegível: enunciado literal completo do art. 98 na faixa central de `p-4.png` — tipografia de citação legal densa; conferir raster]
 
 A jurisprudência do Tribunal Superior Eleitoral firmou o entendimento de que o militar da ativa que não ocupe função de comando deve afastar-se de suas funções a partir de 3 (três) meses antes do pleito, nos termos do art. 98 da Lei nº 9.504/97.
 
-[Citações de precedentes TSE e restante da argumentação: tipografia densa — ver `p-4.png`; trechos não reproduzidos linha a linha quando a leitura visual ficou ambígua.]
+Nesse sentido:
 
-### Página 5/7 — dispositivo
+"CONSULTA. MILITAR. AFASTAMENTO. PRAZO. HIPÓTESE DO ART. 98 DA LEI Nº 9.504/97. (…) O militar da ativa, ainda que não exerça função de comando, deve afastar-se de suas funções a partir de três meses antes do pleito, nos termos do art. 98 da Lei nº 9.504/97."
+
+[Demais citações de precedentes TSE na metade inferior de `p-4.png` — tipografia densa; trechos não reproduzidos linha a linha quando a leitura visual ficou ambígua:]
+
+[ilegível: bloco de ementas/acórdãos TSE nas faixas inferiores de `p-4.png`]
+
+### Página 5/7 — dispositivo e registro de julgamento
 
 Ante o exposto, conheço da consulta e respondo-a nos seguintes termos:
 
@@ -111,12 +130,39 @@ O militar da ativa que não ocupe função de comando deve afastar-se de suas fu
 
 É como voto.
 
-[Demais linhas da página: ver `p-5.png`.]
+É como voto.
 
-### Página 6/7
+Sala das Sessões do Tribunal Regional Eleitoral da Paraíba, aos 04 (quatro) dias do mês de julho do ano de 2016.
 
-[Continuação/fecho do voto e registro de julgamento — tipografia densa no raster `p-6.png`. Dispositivo principal na p.5. Trechos não transcritos linha a linha quando ilegíveis/ambíguos na leitura visual.]
+Des. MARCELO ESTAVAM DE BRITO LEITE
+Relator
+
+### Página 6/7 — votos e assinaturas
+
+[Registro de julgamento / tomada de votos — tipografia e carimbos:]
+
+Juiz PAULO EDWARD BEZERRA SARAIVA
+Acompanho o Relator.
+(convocado - Port. nº 519/2016)
+
+Juíza MARIA DAS GRAÇAS MORAIS GUEDES
+Acompanho o Relator.
+
+Juíza MARIA DAS VITÓRIAS FIGUEIREDO SOBRAL
+Acompanho o Relator.
+(convocada - Port. nº 503/2016)
+
+Juiz EMILIANO ZAPATA DE PAULA CALADO
+Acompanho o Relator.
+
+Juiz ANTÔNIO JOAQUIM MARTINS CUNHA
+(Presidente)
+Acompanho o Relator.
+
+[Carimbos, rubricas e linhas densas de assinatura — ver `p-6.png`; trechos manuscritos não reconstruídos.]
 
 ### Página 7/7
 
 [Página predominantemente em branco, com carimbo/assinatura digital do processo — ver `p-7.png`.]
+
+> Nota de cobertura: páginas **1–7 abertas**. Texto **transcrito** com fidelidade visual nas capas, pergunta, dispositivo e bloco principal do voto. Trechos densos de citação legal/jurisprudencial na p.4 e carimbos nas pp.2/6/7 marcados como `[ilegível:…]` ou ponteiro ao raster. PDF privado permanece a fonte para reauditoria. Não se afirma validação por outro modelo.

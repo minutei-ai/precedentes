@@ -11,6 +11,7 @@
 - **PDF Plone (@@display-file):** [tre-pb-467-94-2016-6-15.0000.pdf](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/arquivos/tre-pb-467-94-2016-6-15.0000/@@display-file/file/tre-pb-467-94-2016-6-15.0000.pdf)
 - **Captura privada:** `tre-pb-467-94-2016-6-15.0000.pdf` — 100357 bytes — SHA-256 `3d42a0fc8df3efe3a272802be172c20dd224388c910a8f28576ce9e9b40c578c` (2026-11-04, preview T3)
 - **Extração:** o arquivo Plone é um **wrapper SJUR** (Skia/PDF, 2 páginas, Creator Chrome 24/10/2024) com ementa e decisão; não é o acórdão integral. Link embutido: `https://sjur-servicos.tse.jus.br/sjur-servicos/rest/download/pdf/2635579`. Tentativa 2026-11-04: SitDoc respondeu `Erro ao tentar recuperar PDF: Falha ao recuperar arquivo do SitDoc.`
+- **Reprobe 2026-11-04 (continuação):** `HEAD https://sjur-servicos.tse.jus.br/sjur-servicos/rest/download/pdf/2635579` → HTTP 200, `Content-Type: text/plain`, `Content-Length: 67` (não é PDF de acórdão). Pasta Plone Akamai → 403. Impedimento de inteiro teor **mantido**; sem fonte oficial alternativa recuperada neste turno.
 
 ## Enquadramento
 

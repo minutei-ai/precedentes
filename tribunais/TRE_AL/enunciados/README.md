@@ -7,7 +7,11 @@ Série identificada no folder oficial *Enunciados da Justiça Eleitoral de Alago
 - **SHA-256:** `3affc356c722e8e486cbd2c78719d2ff07c140f62835cbd6a6eeb0fb95a94f4d`
 - **Páginas:** 17 (arte gráfica CorelDRAW; pdftotext ≈ 318 chars)
 - **Contagem:** sumário visual confirma enunciados **1–30** por tema
-- **Método:** leitura visual do PDF (Read); sem Tesseract/RapidOCR/ocrmypdf
-- **Estado:** identidades e estrutura de páginas confirmadas; **corpos literais** dos enunciados ainda não publicados neste arquivo — tipografia ornamental exige transcrição linha a linha adicional (PDF privado). Ementários/revistas do mesmo portal não contam como enunciados.
+- **Método:** leitura visual do PDF/PNG (Read); sem Tesseract/RapidOCR/ocrmypdf
+- **Estado (diferenciar):**
+  - **Páginas abertas:** 1–17 (capa, separadores, sumário, blocos 1–30, fecho)
+  - **Texto realmente transcrito:** metadados de identidade (nº, tema de seção, página); cabeçalhos “ENUNCIADO nº N” e separadores temáticos legíveis (ex.: Captação ilícita; Condutas vedadas; Partidos políticos)
+  - **Ilegível / pendente:** corpos jurídicos linha a linha dos 30 enunciados — tipografia ornamental CorelDRAW; marcados `[ilegível:…]` em cada `tre-al-en-N.md` sem paráfrase
+- **Arquivos:** `tre-al-en-1.md` … `tre-al-en-30.md`
 
 Refs #219.
