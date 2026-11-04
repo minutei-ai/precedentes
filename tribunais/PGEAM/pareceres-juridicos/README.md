@@ -20,4 +20,6 @@ Ementas do portal (catálogo):
 
 SHA-256 das edições DOE (captura dual idêntica): ver metadados de cada registro. Evidência privada em `~/.local/share/minutei/precedentes-coleta-planejamento/pges-lote-261-269-20261104/pgeam/`.
 
+Transcrição: Read nativo das páginas PDF (camada de texto nas eds. 17810/16809/16854; imagem nas eds. escaneadas 16095/15436). Cobertura por página em cada registro. Sem Tesseract/ocrmypdf/DockerOCR.
+
 [Índice da PGEAM](../README.md)

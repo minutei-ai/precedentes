@@ -16,6 +16,19 @@
 - **Matéria HTML (despacho):** identificador `229161`, protocolo `225602` — SHA-256 `f69a4a07080ef748e99611cd1566b8013e315597e40cfd1ae46d61a947d3d439`
 - **Edição PDF (dual):** 62 páginas, 19149449 bytes, SHA-256 `dcfde6f6a23328407d775c1593e49b67336e60b014059b239a6346c308a055be`
 - **Teor:** despacho do Governador + inteiro teor do parecer + despacho da Procuradora-Chefe da PPT, impressos nas páginas PDF 18–22 da edição 17810 (layout em colunas do DOE)
+- **Método de leitura:** Read nativo do PDF (camada de texto) das páginas 18–22; rasters `jornal-imgs/zoom/17810-p18.jpg` … `p22.jpg` para cotejo visual. Sem Tesseract/ocrmypdf.
+
+## Cobertura por página (DOE 17810)
+
+| PDF | Impresa (cabeçalho) | Conteúdo desta identidade |
+| ---: | ---: | --- |
+| 18 | 14 | Despacho do Governador (proc. 01.01.011103.005684/2025-13) + início do Parecer 00009/2025-PPT/PGE (cabeçalho, ementa, abertura do I — Relatório) |
+| 19 | 15 | Continuação do Relatório / II.1; tabela Ano/Nº ações/Valores 2021–2024; gráficos (rótulos); menção ADC 16 / Tema 246 |
+| 20 | 16 | Continuação II.1–II.2; tese STF Tema 1.118 (itens 1–4); análise dos itens 1–2 |
+| 21 | 17 | Análise itens 3–4; arts. 5º-A e 4º-B Lei 6.019/1974; art. 121 Lei 14.133/2021 |
+| 22 | 18 | Fecho da análise; III — Conclusão (itens 1–6); assinatura Jucelinno Araújo Lima; despacho PPT Maria Hosana de Souza Monteiro (OAB/AM nº 2.333); Protocolo 225602 |
+
+Nota: o ASSUNTO do despacho do Governador na edição fala em diretrizes da Lei 14.133/2021 / Decreto 47.133/2023; o corpo do parecer trata do Tema 1.118 / RE 1.298.647. Mantém-se o literal de cada bloco.
 
 ## Despacho do Governador do Estado
 
@@ -117,7 +130,6 @@ entes e órgãos públicos que mantém contrato de terceirização de mão de
 obra com a Secretaria de Estado de Fazenda para assegurar a regularização
 contratual dos serviços terceirizados que estejam em situação precária, com
 elaboração de cronograma para realização de procedimentos licitatórios.
-- PPT -
 Sugere, ainda, a inclusão da Controladoria Geral do Estado no processo de
 monitoramento, visto que a falta de resposta às notificações formais pode
 caracterizar omissão administrativa.
@@ -129,7 +141,7 @@ judiciais, bem como identificar mecanismos administrativos existentes que
 possam auxiliar na fiscalização dos contratos e evitar a responsabilização
 subsidiária do Estado (pág. 13).
 É o relato do necessário. Passa-se à manifestação por meio de parecer.
-II - ANÁLISEJURÍDICA
+II - ANÁLISE JURÍDICA
 11.1 - Da situação das reclamatórias trabalhistas que versam sobre
 responsabilidade do Administração Pública estadual nas obrigações
 trabalhistas não cumpridas por empresas contratadas até a decisão do
@@ -141,7 +153,7 @@ estaduais em ações em trâmite no primeiro grau da Justiça do Trabalho
 nas ações que versam sobre o tema da responsabilidade subsidiária da
 Administração Pública em casos de descumprimentos de obrigações
 trabalhistas pelas contratadas. O setor é vinculado a esta Procuradoria
-do PessoalTemporário - PPT, especializada desta Procuradoria Geral do
+do Pessoal Temporário - PPT, especializada desta Procuradoria Geral do
 Estado do Amazonas - PGE/AM.
 Como bem delineado no documento, a PGE/AM não vem tendo acesso
 à documentação referente à fiscalização dos contratos de terceirização
@@ -161,10 +173,6 @@ públicos estaduais no polo passivo. Essas ações tem crescido nos últimos
 anos, tendo praticamente dobrado o número delas no comparativo entre
 2024 e 2021, conforme tabela e gráficos abaixo extraídos do Sistema interno
 SAJ.
-1e8 Evolução do Valor Total das Causas por Ano
-Valor Total das CausasValor Total da Causa
-Total do Valor da Causa por Parte Passiva (Top 9 sem Estado do Amazonas)
-1e7
 Nos Gráficos 2 também se observa que o valor da causa tem aumentado em
 volume expressivo, em patamar que afasta a simples atualização decorrente
 da inflação. Embora as causas tenham apenas dobrado de número em
@@ -175,22 +183,22 @@ dos últimos anos, com variações significativas nos valores das causas. Ao
 segmentar os dados por parte passiva (Gráfico 2), é possível identificar
 as empresas e instituições mais frequentemente acionadas, o que pode
 indicar áreas críticas na gestão dos contratos de prestação de serviços. O
-cruzamento entre os anos também revela a persistênciade algumas partes
+cruzamento entre os anos também revela a persistência de algumas partes
 passivas nos registros, evidenciando reincidência ou continuidade em litígios.
-Esses dados reforçam a necessida de de estratégias preventivas e maior
+Esses dados reforçam a necessidade de estratégias preventivas e maior
 atenção à conformidade trabalhista por parte da Administração Pública.
 
-Tabela
-Ano Nº de ações
-trabalhistas Total dos Valores da Causa (R$)
-2021 1.659 63.210.741,97
-2022 1.644 71.808.106,90
-2023 2.562 150.192.189,98
-2024 3.185 368.371.366,94
-►
-Gráfico1
-Gráfico 2
-Parte Passiva
+| Ano | Nº de ações trabalhistas | Total dos Valores da Causa (R$) |
+| ---: | ---: | ---: |
+| 2021 | 1.659 | 63.210.741,97 |
+| 2022 | 1.644 | 71.808.106,90 |
+| 2023 | 2.562 | 150.192.189,98 |
+| 2024 | 3.185 | 368.371.366,94 |
+
+Gráfico 1 — Evolução do Valor Total das Causas por Ano
+Gráfico 2 — Total do Valor da Causa por Parte Passiva (Top 9 sem Estado do Amazonas)
+
+Parte Passiva (rótulos do Gráfico 2, conforme impresso):
 IETI - Instituto de Enfermeiros Intensivistas do Amazonas Ltda
 LIMPAMAIS SERVICOS DE LIMPEZA EIRELI - EPP
 Locati Segurança Patrimonial Ltda
@@ -200,10 +208,11 @@ Mkn Servicos Empresariais Ltda
 PORTO SERVICOS PROFISSIONAIS, CONSTRUCOES E MANUTENCAO LTDA
 SEGEAM - SERVICOS DE ENFERMAGEM E GESTAO EM SAUDE DO AMAZONAS LTDA - EPP
 UMANIZZARE GESTAO PRISIONAL E SERVICOS S.A
+
 Isso se mostra mais evidente porque o Tribunal Regional do Trabalho da 11ª
 Região tem, ao longo dos anos, encontrado maneiras de responsabilizar
 o ente público contratante pelos encargos trabalhistas devidos pelas
-contratadas, assim corno fazem outros órgãos da Justiça do Trabalho pelo
+contratadas, assim como fazem outros órgãos da Justiça do Trabalho pelo
 Brasil. E como em inúmeras ações a execução em face da reclamada
 principal é inexitosa, há o redirecionamento da execução contra o ente
 público condenado subsidiariamente.
@@ -315,7 +324,7 @@ urna ação de controle abstrato de constitucionalidade.
 Na decisão que ora se analisa, no mesmo item 1 restou consignado que
 remanesce “imprescindível a comprovação, pela parte autora, da efetiva
 existência de comportamento negligente ou nexo de causalidade entre o
-dano por ela invocado e a conduta cornissiva ou ornissiva do poder público”.
+dano por ela invocado e a conduta comissiva ou omissiva do poder público”.
 Desse modo, a parte autora, na reclamação trabalhista, juntando documentos
 à inicial ou durante a instrução processual, deve comprovar ou a efetiva
 existência de negligência do ente público na fiscalização do contrato no qual
@@ -390,7 +399,7 @@ quando o trabalho for realizado em suas dependências ou
 local previamente convencionado em contrato.(Incluído pela
 Lei nº 13.429, de2017)
 Nesse ponto, a Corte Suprema apenas deixou registrado a previsão legal
-de que a Administração Pública é responsável, assim corno as demais
+de que a Administração Pública é responsável, assim como as demais
 tomadoras de serviços, pelas boas condições do ambiente de trabalho em
 suas dependências. Embora a norma esteja vigente foi importante essa
 chamada de atenção para questão tão importante à saúde dos empregados.
@@ -486,9 +495,9 @@ de dedicação exclusiva de mão de obra, para assegurar o
 cumprimento de obrigações trabalhistas pelo contratado, a
 Administração, mediante disposição em edital ou em contrato,
 poderá, entre outras medidas:
-I - exigir caução, fiança bancária ou contratação de segurogarantia com cobertura para verbas rescisórias inadimplidas;
+I - exigir caução, fiança bancária ou contratação de seguro-garantia com cobertura para verbas rescisórias inadimplidas;
 II - condicionar o pagamento à comprovação de quitação das
-obrigações trabalhistas vencidas relativas aocontrato;
+obrigações trabalhistas vencidas relativas ao contrato;
 III - efetuar o depósito de valores em contavinculada;
 IV - em caso de inadimplemento, efetuar diretamente o
 pagamento das verbas trabalhistas, que serão deduzidas do
@@ -530,7 +539,7 @@ adotadas pela Administração Pública nas contratações de trabalhadores
 terceirizados para assegurar o cumprimento de obrigações trabalhistas pelo
 contratado. Essas disposições devem estar contidas no edital de licitação
 ou nocontrato.
-São elas: (1) - exigir caução, fiança bancária ou contratação de segurogarantia com cobertura para verbas rescisórias inadimplidas; (II) - condicionar
+São elas: (1) - exigir caução, fiança bancária ou contratação de seguro-garantia com cobertura para verbas rescisórias inadimplidas; (II) - condicionar
 o pagamento à comprovação de quitação das obrigações trabalhistas
 vencidas relativas ao contrato; (III) - efetuar o depósito de valores em conta
 vinculada, que são absolutamente impenhoráveis; (IV)
@@ -571,7 +580,7 @@ Pública, e de outros legitimados, acerca de descumprimento
 de obrigações trabalhistas por parte do contratado, com
 tomada de providências em prazo razoável e efetivo. Deve ser
 adotado procedimento que gere uma resposta rápida à PGE,
-considerando o prazo breve e fatal que tem para apresentálos em juízo na defesa daFazenda Pública.
+considerando o prazo breve e fatal que tem para apresentá-los em juízo na defesa da Fazenda Pública.
 3. Estabelecer cronograma, para execução em prazo razoável,
 em conjunto com a Secretaria de Estado de Fazenda - SEFAZ,
 de procedimento licitatório para contratação de empresa
@@ -580,12 +589,12 @@ em que o atual contrato não tenha sido precedido de licitação
 ou quando a lei não permite a contratação direta.
 4. Prever nos editais da licitação e nos contratos pelo menos
 uma das medidas listadas no art. 121, §3º da Lei 14.133/2021,
-dente outras que podem ser adotadas, desde que razoáveis e
+dentre outras que podem ser adotadas, desde que razoáveis e
 eficazes. As mesmas exigências devem constar do termo de
-contato. Sãoelas:
-(I) exigir caução, fiança bancária ou contratação de segurogarantia com cobertura para verbas rescisórias inadimplidas;
+contato. São elas:
+(I) exigir caução, fiança bancária ou contratação de seguro-garantia com cobertura para verbas rescisórias inadimplidas;
 (II) condicionar o pagamento à comprovação de quitação das
-obrigações trabalhistas vencidas relativas aocontrato;
+obrigações trabalhistas vencidas relativas ao contrato;
 (III) efetuar o depósito de valores em conta vinculada, que são
 absolutamente impenhoráveis;
 (IV) em caso de inadimplemento, efetuar diretamente o
@@ -601,7 +610,7 @@ contratado somente na ocorrência do fato gerador.
 antes de firmar o contrato, a prova da inscrição no CNPJ,
 do registro junto à Junta Comercial e a comprovação da
 integralização do capital social nos termos do 4º-B da Lei nº
-6.019/1974. Em relação a esse últimoponto:
+6.019/1974. Em relação a esse último ponto:
 III - capital social compatível com o número de empregados,
 observando-se os seguintes parâmetros:(Incluído pela Lei
 nº13.429, de 2017)

@@ -11,8 +11,15 @@
 - **Fonte portal:** [catálogo PGE-AM](https://www.pge.am.gov.br/legislacao-atos-normativos-e-pareceres/)
 - **Fonte DOE:** [edição 15436, p.8](https://diario.imprensaoficial.am.gov.br/portal/visualizacoes/pdf/15436#/p:8/e:15436)
 - **Edição PDF (dual):** 30 páginas, 10820268 bytes, SHA-256 `9b9e6bc2e3de677a4e399285828373e3900db08653e2b439d14f25c8bf2861ea` (edição escaneada; sumário HTML da edição vazio)
-- **Leitura:** cotejo visual da página 8 (imagem jornal + zoom)
-- **Limite do teor público:** a edição 15436 reproduz **apenas** o despacho do Governador na p.8. O corpo do parecer anexo **não** está impresso na edição. Não se inventa o anexo.
+- **Método de leitura:** Read nativo de imagem das rasters `jornal-imgs/zoom/15436-p8-despacho-full.jpg`, `15436-p8-conferir.jpg`, `15436-p8-left-bottom.jpg`. Sem Tesseract/ocrmypdf.
+- **Limite do teor público:** a edição 15436 reproduz **apenas** o despacho do Governador na p.8. O corpo do parecer anexo **não** está impresso na edição (pp.7–9 do extract visualmente sem anexo). Não se inventa o anexo.
+
+## Cobertura por página (DOE 15436)
+
+| PDF | Conteúdo desta identidade |
+| ---: | --- |
+| 8 | Despacho do Governador (proc. 01.01.011101.002314/2017-14) — único bloco desta identidade |
+| 7, 9–12 | Outros atos da edição; sem corpo do parecer 003/2017 |
 
 ## Despacho do Governador do Estado (texto publicado no DOE)
 

@@ -11,8 +11,15 @@
 - **Fonte portal:** [catálogo PGE-AM](https://www.pge.am.gov.br/legislacao-atos-normativos-e-pareceres/)
 - **Fonte DOE:** [edição 16095, p.8](https://diario.imprensaoficial.am.gov.br/portal/visualizacoes/pdf/16095/#/p:8/e:16095)
 - **Edição PDF (dual):** 36 páginas, 66490278 bytes, SHA-256 `d16277c1b2ca76a1a63cc7fa5f66142442591c732b1d0231d15314215948d7a9` (edição predominantemente escaneada; sumário HTML da edição sem matérias indexadas)
-- **Leitura:** cotejo visual da página 8 (imagem jornal + zoom `/imagem_diario/16095/8/zoom`)
-- **Limite do teor público:** a edição 16095 reproduz **apenas** o despacho do Governador na p.8. O corpo do parecer anexo **não** está impresso na edição. Não se inventa o anexo.
+- **Método de leitura:** Read nativo de imagem das rasters `jornal-imgs/zoom/16095-p8-despacho-full.jpg`, `16095-p8-conferir.jpg`, `16095-p8-right-crop.jpg` (edição sem camada de texto útil). Sem Tesseract/ocrmypdf.
+- **Limite do teor público:** a edição 16095 reproduz **apenas** o despacho do Governador na p.8. O corpo do parecer anexo **não** está impresso na edição (pp.7–9 do extract visualmente sem anexo). Não se inventa o anexo.
+
+## Cobertura por página (DOE 16095)
+
+| PDF | Conteúdo desta identidade |
+| ---: | --- |
+| 8 | Despacho do Governador (proc. 01.02.026101.000189/2019-71) — único bloco desta identidade |
+| 7, 9–12 | Outros atos da edição; sem corpo do parecer 00068 |
 
 ## Despacho do Governador do Estado (texto publicado no DOE)
 
