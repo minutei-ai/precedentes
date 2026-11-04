@@ -1,6 +1,6 @@
 # MPT · Enunciados da CCR
 
-32 registros: 29 da [página oficial de enunciados](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) capturada em 29/10/2026 e três históricos recuperados no DOU de 2015. Os nºs 1, 2 e 5 aparecem abaixo como textos históricos, sem situação posterior comprovada. Os nºs 9, 10, 18 e 23 continuam sem texto recuperado; sua ausência no HTML não comprova cancelamento nem inexistência. Os nºs 3, 4, 6 e 7 também conservam a redação histórica e as votações publicadas em 2015, junto ao texto da página de 2026. A continuação da ata, outras redações e séries permanecem pendentes.
+35 registros: 29 da [página oficial de enunciados](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) (capturas 29/10/2026 e 04/11/2026 idênticas) e seis históricos recuperados no DOU de 2015. Os nºs 1, 2 e 5 aparecem abaixo como textos históricos, sem situação posterior comprovada. Os nºs 9, 10 e 18 foram recuperados na página impressa 77 do DOU de 26/03/2015; o nº 23 continua sem texto recuperado. A ausência no HTML não comprova cancelamento nem inexistência. Os nºs 3, 4, 6, 7 e 8 também conservam a redação histórica e as votações publicadas em 2015, junto ao texto da página de 2026 quando existir. Outras redações e séries permanecem pendentes.
 
 | Número | Título publicado |
 | --- | --- |
@@ -9,6 +9,8 @@
 | [6](mpt-en-ccr-6.md) | MEIO AMBIENTE DO TRABALHO. SAÚDE E SEGURANÇA DO TRABALHADOR. CONSTRUÇÃO CIVIL. ENCERRAMENTO DA OBRA OBJETO DE INVESTIGAÇÃO. NECESSIDADE DE APURAR OUTRAS EM CURSO. |
 | [7](mpt-en-ccr-7.md) | DENÚNCIA. ANONIMATO. INÉPCIA. SIGILO. |
 | [8](mpt-en-ccr-8.md) | DECISÕES MONOCRÁTICAS DO(A) RELATOR(A). |
+| [9](mpt-en-ccr-9.md) | NOTÍCIA DE FATO INEPTA. NECESSIDADE DE INFORMAÇÕES COMPLEMENTARES. OMISSÃO DO DENUNCIANTE. *(histórico DOU 2015)* |
+| [10](mpt-en-ccr-10.md) | CELEBRAÇÃO DE TAC. NÃO CONHECIMENTO DA REMESSA. *(histórico DOU 2015)* |
 | [11](mpt-en-ccr-11.md) | EXECUÇÃO DE TAC/ACP. |
 | [12](mpt-en-ccr-12.md) | INDEFERIMENTO LIMINAR E PROMOÇÃO DE ARQUIVAMENTO. NOTIFICAÇÃO DAS PARTES (RESOLUÇÃO nº 69/2007-CSMPT, Arts. 5º, caput e 10, § 1º). |
 | [13](mpt-en-ccr-13.md) | MANDADO DE SEGURANÇA CONTRA MEMBRO QUE PRESIDE PROCEDIMENTO INVESTIGATÓRIO. ATUAÇÃO CUSTOS LEGIS DO MPT. |
@@ -16,6 +18,7 @@
 | [15](mpt-en-ccr-15.md) | INQUÉRITO CIVIL PARA INVESTIGAR DESCUMPRIMENTO DE NORMAS DE SEGURANÇA E SAÚDE DO TRABALHO EM PESSOA JURÍDICA DE DIREITO PÚBLICO. ATRIBUIÇÃO DO MPT. |
 | [16](mpt-en-ccr-16.md) | RECOMENDAÇÃO. NECESSIDADE DE VERIFICAÇÃO DO CUMPRIMENTO. |
 | [17](mpt-en-ccr-17.md) | AUDIÊNCIA ADMINISTRATIVA. OITIVA DE PARTES E TESTEMUNHAS. ATO PRIVATIVO DE MEMBRO(A) DO MINISTÉRIO PÚBLICO DO TRABALHO – MPT. |
+| [18](mpt-en-ccr-18.md) | CONFLITO NEGATIVO DE ATRIBUIÇÕES. DENÚNCIA COM OBJETO IDÊNTICO A INVESTIGAÇÃO ANTERIORMENTE ARQUIVADA. *(histórico DOU 2015)* |
 | [19](mpt-en-ccr-19.md) | PROMOÇÃO DE ARQUIVAMENTO NÃO HOMOLOGADA PELA CCR. REDISTRIBUIÇÃO DO FEITO. ATUAÇÃO POR DELEGAÇÃO. ARQUIVAMENTO DE PLANO INDEVIDO. |
 | [20](mpt-en-ccr-20.md) | ASSÉDIO MORAL. ASSÉDIO SEXUAL. SIGILO DOS DADOS DE DENUNCIANTE E TESTEMUNHAS. SALVAGUARDA DA UTILIDADE DA INVESTIGAÇÃO, DO INTERESSE COLETIVO E DOS DIREITOS DA PERSONALIDADE DOS TRABALHADORES. |
 | [21](mpt-en-ccr-21.md) | INTERMEDIAÇÃO DE MÃO DE OBRA NA ADMINISTRAÇÃO PÚBLICA. ATRIBUIÇÃO DO MINISTÉRIO PÚBLICO DO TRABALHO. |
@@ -41,5 +44,9 @@
 | [1](mpt-en-ccr-1.md) | Remessa de autos e declínio de atribuição — redação publicada em 2015 |
 | [2](mpt-en-ccr-2.md) | Matéria pacificada e decisão monocrática — redação publicada em 2015 |
 | [5](mpt-en-ccr-5.md) | Direitos individuais homogêneos e conveniência social — redação publicada em 2015 |
+| [8](mpt-en-ccr-8.md) | Investigação repetida — redação histórica 2015 (íntegra p.76–77); catálogo 2026 traz NOVA REDAÇÃO |
+| [9](mpt-en-ccr-9.md) | Notícia de fato inepta / omissão do denunciante — redação publicada em 2015 |
+| [10](mpt-en-ccr-10.md) | Celebração de TAC / não conhecimento da remessa — redação publicada em 2015 |
+| [18](mpt-en-ccr-18.md) | Conflito negativo de atribuições / prazo art. 12 Res. 69 — redação publicada em 2015 |
 
-A ata foi consultada apenas no recorte dos enunciados 1–7 da terceira coluna da página impressa 76. O início do nº 8 é incompleto e não foi incorporado como texto íntegro. A página 77 e os demais trechos da ata não foram recuperados neste lote.
+A página impressa 76 (Biblioteca do MPF) cobre os nºs 1–7 e o início do 8. A página 77 foi recuperada em 04/11/2026 via `INPDFViewer` do Imprensa Nacional (48909 bytes, SHA-256 `76854e49ad34908b596f70a4408a946ce0ecd74d4d7f5bdff2ebba7241e495cc`) e completa o nº 8 e os nºs 9–19 da ata. O nº 23 não aparece nessa página. A consulta `pesquisa.in.gov.br/.../visualiza/index.jsp` para a página 77 devolveu HTML mínimo (≈1 KB) e não substitui o PDF do servlet.
