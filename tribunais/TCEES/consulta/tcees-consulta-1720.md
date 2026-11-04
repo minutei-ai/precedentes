@@ -31,43 +31,38 @@ Os rótulos, datas e anotações do portal foram mantidos sem inferir vigência.
 
 Rótulos oficiais: Parecer em Consulta 00008/2014; Versão 2.
 
-Reconsulta em 2026-11-04: o PDF oficial de 8 páginas foi baixado duas vezes pelo espelho `acessoidentificado.tcees.tc.br` (`idDocumento=3361135`, HTTP 200, 2.072.835 bytes idênticos, SHA-256 `79a8bd4bc572053c246bfd374fe1a776d9e49b995bb9b2f00bc9c376d4903424`). O arquivo é digitalização Lexmark (HardCopy, 2015-05-26), sem camada textual nas páginas 2–8. Cada página foi conferida visualmente após extração das imagens embutidas e reforço de contraste; o conteúdo visível são fotografias de monitores com telas do portal do TCEES, não o inteiro teor tipográfico do parecer. O texto do parecer permanece no documento da Versão 1 (1041219) abaixo. A ausência de texto jurídico nestas páginas do PDF oficial não comprova inexistência do ato.
-
 #### Página 1 do documento 3361135
-
-Camada textual extraível:
 
     DOEL-TCEES 20.10.2014 – Ed. nº 276, p. 56.
 
-Imagem da página: fundo claro predominantemente vazio; ruído de digitalização sem enunciado tipográfico adicional do parecer.
 
 #### Página 2 do documento 3361135
 
-Conferência visual da imagem embutida: fotografia de monitor exibindo a tela de login do portal «Acesso Identificado» do TCEES, com campos «Usuário» e «Senha», botões «Entrar» e «Cancelar», e rodapé «TCEES - Tribunal de Contas do Estado do Espírito Santo». Sem texto tipográfico do parecer.
+Esta página do PDF não forneceu texto na extração. Consulte o documento no portal oficial.
 
 #### Página 3 do documento 3361135
 
-Conferência visual: fotografia de monitor com menu lateral do portal (itens visíveis incluem Início, Protocolo, Processos, Documentos, Relatórios e afins) e área principal clara. Sem texto tipográfico do parecer.
+Esta página do PDF não forneceu texto na extração. Consulte o documento no portal oficial.
 
 #### Página 4 do documento 3361135
 
-Conferência visual: fotografia de monitor com listagem/consulta do portal (cabeçalhos de colunas e linhas de grade). Sem texto tipográfico do parecer.
+Esta página do PDF não forneceu texto na extração. Consulte o documento no portal oficial.
 
 #### Página 5 do documento 3361135
 
-Conferência visual: fotografia de monitor com formulário ou grade do portal; contraste baixo na digitalização. Sem texto tipográfico do parecer.
+Esta página do PDF não forneceu texto na extração. Consulte o documento no portal oficial.
 
 #### Página 6 do documento 3361135
 
-Conferência visual: fotografia de monitor com área de trabalho do portal predominantemente clara. Sem texto tipográfico do parecer.
+Esta página do PDF não forneceu texto na extração. Consulte o documento no portal oficial.
 
 #### Página 7 do documento 3361135
 
-Conferência visual: fotografia de monitor com tela do portal; conteúdo tipográfico do parecer ausente.
+Esta página do PDF não forneceu texto na extração. Consulte o documento no portal oficial.
 
 #### Página 8 do documento 3361135
 
-Conferência visual: fotografia de monitor com tela do portal predominantemente clara; sem texto tipográfico do parecer.
+Esta página do PDF não forneceu texto na extração. Consulte o documento no portal oficial.
 
 ### Arquivo do histórico de versões — documento 1041219
 
@@ -502,3 +497,7 @@ Rótulos oficiais: Versão 1.
 [Consultar a decisão no tribunal](https://www.tcees.tc.br/biblioteca/ato-normativo/detalhes-ato-nomativo/?id=1720)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.
