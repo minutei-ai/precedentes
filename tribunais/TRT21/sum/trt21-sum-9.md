@@ -14,10 +14,20 @@ Texto integral do catálogo oficial, incluindo os vínculos dos incidentes e dos
 
 Os ícones ODS apresentados imediatamente após o verbete na fonte foram representados por seus vínculos, sem incorporar imagens ao acervo: [ODS 16](https://brasil.un.org/pt-br/sdgs/16) · [ODS 8](https://brasil.un.org/pt-br/sdgs/8).
 
-Os inteiros teores dos processos, acórdãos e resoluções referidos e as demais séries do tribunal não foram coletados neste lote. Em 04/11/2026 o catálogo foi reconfirmado; o número exibido `0000407-68.20165.21.0023` e o destino do vínculo `00004076820165210023` permanecem como na fonte. O PJe dos IUJs exige captcha (CSJT 139/2014); documentos pendentes.
+Na coleta inicial, os processos, acórdãos e resoluções referidos não haviam sido incorporados. Em 04/11/2026, o vínculo PJe redirecionou para captcha CSJT 139/2014. A reconsulta complementar pelo FALCÃO recuperou a ementa e o texto do IUJ; a ementa está atribuída abaixo. Esse acesso alternativo não comprova recuperação de todos os processos de origem e atos citados.
 
 ## Texto disponibilizado pela fonte
 
 **SÚMULA Nº 9. FÉRIAS. PAGAMENTO FORA DO PRAZO PREVISTO NO ART. 145 DA CLT. INCIDÊNCIA DO PAGAMENTO EM DOBRO DISPOSTO NO ART. 137. INAPLICABILIDADE.** Na sistemática da CLT, o pagamento das férias fora do prazo previsto no art. 145, por si só, não atrai a incidência da regra do art. 137, quando se verifica o cumprimento da obrigação patronal de pagar o terço constitucional das férias (art. 7º, XVII da CF) no prazo previsto em lei, concedendo ao trabalhador o respectivo período de descanso, além de remunerá-lo no prazo contratual. ([IUJ-0000329-12.2017.5.21.0000](https://pje.trt21.jus.br/consultaprocessual/detalhe-processo/0000329-12.2017.5.21.0000/2#294a648) Desembargador Relator: Ricardo Luís Espíndola Borges. Processo de origem: [0000407-68.20165.21.0023](https://pje.trt21.jus.br/consultaprocessual/detalhe-processo/00004076820165210023)\- Publicação: Aprovada pela Resolução Administrativa nº 055/2019 Divulgado no DEJT - TRT21ª Região. Número 2887,2888 e 2889/2020, de 07,08 e 09/01/2020, respectivamente).
+
+## IUJ — ementa recuperada pelo FALCÃO
+
+Fonte: [FALCÃO — Jurisprudência da Justiça do Trabalho](https://jurisprudencia.jt.jus.br/). Processo `0000329-12.2017.5.21.0000`, documento `3719930`, órgão julgador Tribunal Pleno, julgamento 02/04/2018, relator RICARDO LUIS ESPINDOLA BORGES. Duas capturas do pacote de textos coincidiram (SHA-256 dos bytes `2e26793c14e285145d9873485be000fefa21e6bc6996837d35b59984e34a50d9`); metadados coincidiram (SHA-256 `0492b793fe472f4154fe309ddb075f889241a7025d1b850cc8124d83a18ddbc4`).
+
+### Ementa atribuída ao acórdão
+
+Dissenso jurisprudencial entre as Turmas deste Regional reconhecido por Ministro do TST. Determinação de uniformização. Incidente de Uniformização de Jurisprudência (IUJ) suscitado pela Presidência deste Tribunal. Férias. Pagamento fora do prazo previsto no art. 145 da CLT. Incidência do pagamento em dobro disposto no art. 137. Inaplicabilidade. Na sistemática da CLT, o pagamento das férias fora do prazo previsto no art. 145, por si só, não atrai a incidência da regra do art. 137, especialmente quando se verifica o cumprimento da obrigação patronal de pagar o terço constitucional das férias (art. 7º, XVII da CF) no prazo previsto em lei, concedendo ao trabalhador o respectivo período de descanso, além de remunerá-lo no prazo contratual.
+
+A ementa do IUJ não substitui a redação sumular do catálogo nem confirma sua vigência atual. O texto completo recuperado e os recibos permanecem privados; não se publica aqui como íntegra do acórdão. Referências e grafias divergentes do catálogo foram preservadas na seção própria. A revisão independente por Opus 5.5 permanece pendente.
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
