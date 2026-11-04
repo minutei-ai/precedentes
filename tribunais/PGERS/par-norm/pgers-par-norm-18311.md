@@ -10,6 +10,8 @@
 - **Páginas do PDF:** 38; camada textual extraída (pdftotext)
 - **Capturas:** HTTP 200 em 04/11/2026; 848189 bytes; SHA-256 `7b538ae5b75ef109e66eda3eb5c6046ce48d6802fc6921b716472f4037340e71`
 - **Captura do catálogo:** HTTP 200; 80282 bytes; SHA-256 `85d276467f3a211e768e816ea5477297f4179db4338bbd904cbd7217f4de2ec7`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
@@ -2273,81 +2275,8 @@ Do
 
 ### Página física 37
 
-W
-                     ESTADO DO RIO GRANDE DO SUL
-                    PROCURADORIA.GERAL DO ESTADO
-
-                    Processo n' 18/1205-0003476-0
-
-                 PARECER JURÍDICO N" I8.3I I/20
-
-
-        O PROCURÂDOR-GERAL DO E,STADO. no uso de suas
-atribuições, aprova o PARECER da CONSULTORIA-
-GERAL/ASSESSORIA JURÍDICA E LEGTSLATIVA. de autoTia da
-Procuradora do Estado ALINE FRARE ARMBORST. cujas conclusões
-                                 pÚBLICA ESTADUAL.
-adota para orientar a ADMINISTRAÇÀO
-
-        Entendo pela conveniência de atribuição de caráter jurídico-
-normativo ao Parecer pelo Excelentíssimo Senhor Govemador do Estado, na
-forma do artigo 82, inciso XV, da Constituição Estadual.
-
-      Submeta-se o expediente à deliberação do Excelentíssimo Senhor
-Govemador do Estado.
-
-
-PROCURADORIA-GERAL DO ESTADO, em Porto Alegre. l4 de julho de 2020.
-
-
-
-
-EI)U                 DA COSTA.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]
 
 ### Página física 38
 
-M
-                                 *rw#
-                       ESTADO DO RIO GRANDE DO SUL
-                        CAB]NETE DO COVERNADOR
-
-
-
-                   Processo n" l8/1205-0003476-0
-
-                PARECER JUÚDICO N" I8.3III2O
-
-
-       APROVO as conclusões do PARECER N" 18.31I/20. da
-PROCURADORIA-GERAL DO ESTADO, atribuindoJhe carárer
-jurídico-normativo. com efeitos cogentes para a administração pública
-estadual, nos termos do disposto no artigo 82, inciso XV, da Constituição
-Estadual.
-
-      A Procuradoria-Geral do Estado para as anotações de praxe e
-providências que entender necessárias. Após, restitua-se à Secretaria de
-Planejamento, Orçamento e Gestão.
-
-
-
-PALÁCIO PIRATINI, em Porto Alegre, 14 de julho de 2020
-
-
-
-
-     A       LEITE.
-           r do Estado
-
-
-
-Registre-se e publique-se.
-
-
-
-
-   uardo Cunha da Costa.
-                  do
-
-## Conferência e limites
-
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Esta série é distinta das Súmulas CEAD já publicadas em `sum-cead/`. A página oficial indica acervo com caráter jurídico-normativo a partir de 2000 e remete a sistema histórico para período anterior; este lote não esgota o catálogo. Não se infere vigência atual nem força vinculante. PDFs e capturas permanecem privados.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]

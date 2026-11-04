@@ -13,6 +13,8 @@
 - **Páginas do PDF:** 32; camada textual extraída (pdftotext)
 - **Capturas:** HTTP 200 em 04/11/2026; 1364358 bytes; SHA-256 `c57921aef07fddda2fec6d95bd1d70577d112a0d87f0abca3d20aff860571555`
 - **Captura do catálogo:** HTTP 200; 722442 bytes; SHA-256 `801e54cb941b7c227c14fbc70b04f58d1d3c9c001968b459a819b887a59d3a04`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
@@ -1554,45 +1556,7 @@ jurídico individualizado, conforme autorizado na Decisão PGE/MS/GAB/nº _____/
 
 ### Página física 30
 
-PAA                                 Processo nº 15/006.267/2020
-                              Procuradoria de Assuntos            Data: 21/06/2021 Fl:
-
-                              Administrativos                     Rubrica:
-
-
-
-                                                                  Rubrica:
-
-
-
-
-DECISÃO/PGE/MS/PAA/N° 032/2021
-PARECER REFERENCIAL PGE/MS/PAA/N°
-
-
-
-      Concordo com o PARECER epigrafado, de autoria do Procurador do Estado
-GUSTAVOMACHADO DI TOMMASO BASTOS o que faço com alicerce no art. 2º,
-inc. V, do AnexoVII, do RIPGE.
-
-      Encaminhe-se os autos ao Procurador-Geral Adjunto do Consultivo para apreciação
-superior.
-
-      Campo Grande, MS, 21 de junho de 2021.
-                                               RENATA CORONA
-                RENATA
-               ZUCONELLI:86733745100 ZUCONELLI:86733745100
-                CORONA
-
-                     Renata Corona Zuconelli
-                     Procuradora do Estado
-                    Chefe da Procuradoria de Assuntos
-                    Administrativos
-
-
-
-
-                                                                                  30
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]
 
 ### Página física 31
 

@@ -10,6 +10,8 @@
 - **Páginas do PDF:** 45; camada textual extraída (pdftotext)
 - **Capturas:** HTTP 200 em 04/11/2026; 804343 bytes; SHA-256 `760d8682708f976cf959cb9f65d1f1b747251087bb3be26759179cfc830058bd`
 - **Captura do catálogo:** HTTP 200; 80282 bytes; SHA-256 `85d276467f3a211e768e816ea5477297f4179db4338bbd904cbd7217f4de2ec7`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
@@ -2948,83 +2950,8 @@ Do
 
 ### Página física 44
 
-I#'
-                            q.rJ
-               t:S I     l)o Rto (;R^Nt)r, rx) stiL
-                    ^t)o
-                 (iAI]INEI'E DO GOVIiRNAI)OR
-
-
-
-      Processo n" I lt/1000-0001957-lt
-
-
-
-     Âcolho âs conclusões do Pârercr dâ Procurâdoriâ de
-Pcssoal, de autoria da Pmcurâdorr do Estâdo ADRIAN^
-MARIA NIiT]MANN.
-
-      Entcndo prla conveniênciâ dc atribuiçâo de càrátcr
-                 o âo Pârccer pelo E\cclcntíssimo
-j ü rídico-normâtir
-Senhor Colcrnador do Estado, nâ forma do àrtigo 82,
-inciso XV, da Constituiçâo Estadual.
-
-      Encaminhc-se à Casâ Ciyil.
-
-    Após, à l'rocuradora-Gerâl Âdjunta parâ Assunk,s
-Administrativos para ciência.
-
-
-
-
-      E                           CI,
-      Procurâdor-(;e       do      do.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]
 
 ### Página física 45
 
-r r,l,; r
-
-
-                      ESI'ADO DO RIO GRANDI] DO SUL
-                       GABINIiIE D() COVI]RNADOR
-
-
-       Processo no 1 8/ I 000-0004957-8
-
-
-
-
-      ÂPROVO as conclusões do Parecer n' 'lf . rS1 lJ?                . da
-Procuradoria-Ceral do Estado. atribuindo-lhe caráter jurídico-normativo.
-com eÍcitos cogentes para a administração pública estadual. nos termos do
-disposto no a.tigo 82. inciso XY da Constiluição Estadual.
-
-       A Procuradoria-Geral do Estado pâra as anotações de praxe e
-providências que entender necessárias.
-
-
-
-
-PALÁCIO PtRATtNl. 46          d! OqOSÍO d2o«.
-
-
-
-
-.tos     O SAI{TORI.
-           ADoIt DO I]STAIX)
-
-
-
-
-Rcgistre-se e publique-se.
-
-
-
-
-         tl                  l.
-I'rocurador-Ceral
-
-## Conferência e limites
-
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Esta série é distinta das Súmulas CEAD já publicadas em `sum-cead/`. A página oficial indica acervo com caráter jurídico-normativo a partir de 2000 e remete a sistema histórico para período anterior; este lote não esgota o catálogo. Não se infere vigência atual nem força vinculante. PDFs e capturas permanecem privados.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]

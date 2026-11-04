@@ -10,6 +10,8 @@
 - **Páginas do PDF:** 29; camada textual extraída (pdftotext)
 - **Capturas:** HTTP 200 em 04/11/2026; 547128 bytes; SHA-256 `0b512aea42f3fa06823d7e0267996d104cc95772d25a48e7da8b01a3253a5269`
 - **Captura do catálogo:** HTTP 200; 80282 bytes; SHA-256 `85d276467f3a211e768e816ea5477297f4179db4338bbd904cbd7217f4de2ec7`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
@@ -1947,85 +1949,8 @@ Do
 
 ### Página física 28
 
-N$t4,r
-                          ttum
-                         %:#
-              ESTADO DO RIO GRANDE DO SUL
-               GABINETE DO GOVERNADOR
-
-
-
-     Processo n" 18/1538-0004847-0
-
-
-
-     Acolho as conclusões do Parecer da Procuradoria de
-Pessoal, de autoria da Procuradora do Estado ADRIANA
-MARIANEIIMANN.
-
-     Entendo pela conveniência de atribuição de caráter
-jurídico-normativo ao Parecer pelo Excelentíssimo
-Senhor Governador do Estado, na forma do artigo 82,
-inciso XV, da Constituição Estadual.
-
-     Sutrmeta-seoexpedienteàdeliberação                   do
-Excelentíssimo Senhor Governador do EsÍado.
-
-     rmo!&t,                   ,1. filt
-
-
-           rdo Cunha da Costa,
-               or- eral do Es
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]
 
 ### Página física 29
 
-ESTADO DO RIO GRANDE DO SUL
-                       GABINETE DO GOVERNADOR
-
-
-
-      Processo n' 1 8/1 53 8-0004847-0
-
-
-
-
-      APROVO as conc]usões do Parecer n' ]+' 531, liq       , da Procuradoria-
-Geral do Estado, atribuindo-lhecaráterjurídico-normativo,com efeitos
-cogentes para a administração pública estadual, nos termos do disposto no
-artigo 82, inciso XV. da Constituição Estadual.
-
-      A Procuradoria-Geral do Estado para as anotações de praxe e
-providências que entender necessárias.Após, à Secretaria da Fazenda para
-demais providências pertinentes.
-
-
-PALÁCIO PTRATTNI,
-
-
-
-
-ED    O LEITE
-GOVERNADORDO ESTADO
-
-
-
-Registre-se e publique-se
-
-
-
-
-          unha da Costa,
-                      tado
-
-
-
-
-                                               . .,u.üuORIA-6ÉRAL DO É$TADO
-                                         BOLETIM
-                                              N'...2zü.ZgçJ $
-                                         PUBLICADO NO DÜRIOOFICIAL
-                                          'l   o'g /X?g;../=!2Z3
-
-## Conferência e limites
-
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Esta série é distinta das Súmulas CEAD já publicadas em `sum-cead/`. A página oficial indica acervo com caráter jurídico-normativo a partir de 2000 e remete a sistema histórico para período anterior; este lote não esgota o catálogo. Não se infere vigência atual nem força vinculante. PDFs e capturas permanecem privados.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]

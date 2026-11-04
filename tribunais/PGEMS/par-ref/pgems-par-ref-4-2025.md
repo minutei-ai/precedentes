@@ -12,6 +12,8 @@
 - **Páginas do PDF:** 21; camada textual extraída (pdftotext)
 - **Capturas:** HTTP 200 em 04/11/2026; 2099897 bytes; SHA-256 `82cc1db79c9c30efdc99e9978e149a72a0fffe40824290fc4f02dcfda1cd9d17`
 - **Captura do catálogo:** HTTP 200; 722442 bytes; SHA-256 `801e54cb941b7c227c14fbc70b04f58d1d3c9c001968b459a819b887a59d3a04`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
@@ -885,118 +887,8 @@ Testemunhas:
 
 ### Página física 20
 
-PGE
-                                                                   Mato Grosso do Sul
-                                                                   Procuradoria-Geral
-                                                                        do Estado
-
-
-
-DECISÃO PGE/MS/GAB/N" 104/2025
-PARECER REFERENCIAL PGE/MS N° 004/2025
-
-Processo:         15.004.166-2022
-
-Interessada:      Procuradoria-Geral do Estado
-
-Assunto:          Parecer Referencial, lista de verificação (check list) e minuta-padrão para cessão
-                  de uso de bens móveis em favor de pessoa jurídica de direito público, em
-                  conformidade       com       Lei   Federal   n°       14.133/2021          e   Decreto Estadual n°
-                  16.295/2023.
-
-Ementa:           DIREITO ADMINISTRATIVO. BENS PÚBLICOS. CESSÃO DE USO DE
-                  BENS MÓVEIS EM FAVOR DE PESSOA JURÍDICA DE DIREITO
-                  PÚBLICO. PARECER REFERENCIAL COM LISTA DE VERIFICAÇÃO E
-                  MINUTA-PADRÃO DE TERMO DE CESSÃO DE USO. PADRONIZAÇÃO
-                  PARA OTIMIZAÇÃO DOS TRABALHOS.
-                  1. O Parecer Referencial apresenta as orientações e atos necessários para a
-                  formalização da cessão de uso de bens móveis em favor de órgão público ou
-                  pessoa jurídica de direito público.
-                  2. O processo administrativo deve ser instruído com o Parecer Referencial e lista
-                  de verificação preenchida, com observância de suas orientações, e utilizar as
-                  minutas-padrão de termo de cessão de uso de bens móveis, e termos de entrega
-                  e de devolução, dispensando-se o encaminhamento dos autos à PGE, sem
-                  prejuízo de consultas a respeito de situações específicas que não se amoldem ao
-                  parecer referencial (art. 3° do Decreto Estadual 15.404/20).
-
-
-       1. Aprovamos o Parecer Referencial PGE/MS/N° 004/2025 ^ com a respectiva lista de
-verificação {check list) e minutas-padrão de termo de cessão de uso de bens móveis, e termos
-de entrega e de devolução de bens, elaborado pela Procuradora do Estado Renata Corona
-Zuconelli e colaboração do Procurador do Estado Vitor André de Matos Rocha Martinez Vila.
-
-
-       2. A versão final anexa foi elaborada após análise da Câmara Técnica Permanente de
-Assuntos do Consultivo (CATECON)^.
-
-
-       3. A Assessoria do Gabinete para dar ciência desta decisão, do Parecer e seus anexos:
-       a) aos Procuradores do Estado que elaboraram o Parecer;                                                 r\(\'
-
-
-' Fundamento legal: art. 9°, incisos II e III, da Lei Complementar Estadual n® 95/2001; art. 3°, inciso III, do Anexo
-I do Regimento Interno da Procuradoria-Geral do Estado; e art. 2° do Decreto Estadual n° 15.404/2020.
-2 Resolução PGE/MS/N° 410/2023.
-
-
-               Parque dos Poderes - Bloco IV          Campo Grande-MS                   CEP 79.031-310
-
-                  www.pge.ms.gov.br                       página                         1
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]
 
 ### Página física 21
 
-PGE
-                                                         Mato Grosso do Sul
-                                                         Procuradoria-Geral
-                                                             do Estado
-
-
-
-
-     b) às Coordenadorias Jurídicas, Coordenadoria da PGE (COPGE) e Procuradoria de
-Assuntos Administrativos (PAA), considerando eventual reflexo das questões tratadas em suas
-atuações;
-     c) à chefia da PAG, para elaborar a resolução de expedição da minuta-padrão e
-disponibilizar no site da PGE, nos termos do art. 2°, caput, e do art. 4°, ambos do Deereto
-Estadual n° 15.404/2020, bem como inserir anotação em vermelho no início do documento
-Parecer Refereneial PGE/MS/PAA 005/2022, com a seguinte expressão:                                 Considerando a
-
-superveniência da Lei Federal n° 14.133/2021 e Decreto Estadual n° 16.295/2023, o presente
-parecer encontra-se superado em razão do Parecer Referencial PGE/MS n” 004/2025,
-aprovado pela Decisão PGE/MS/GAB n° 104/2025
-                                                    59
-
-
-
-
-     d) às Secretarias de Estado e Entidades da Administração Indireta, incluindo também a
-resolução mencionada no item “c” (art. 2° e 3° do Decreto Estadual n° 15.404/2020).
-
-
-     4. Cumpridas as diligências acima, arquivar.
-
-
-                                                          Campo Grande (MS), 9 de maio de 2025.
-
-
-
-                                                                                                          \JÍC G(X.€ o
-                                                                              '        Ana Carolina AH Garcia
-                                                                              Procuradora-Geral do Estado
-
-
-
-
-                                                                                        Ivanildo Silva da Costa
-                                            Procurador-Geral Adjunto do Estado do Consultivo
-
-
-
-
-            Parque dos Poderes - Bloco IV   Campo Grande-MS                       CEP 79.031-310
-
-               www.pge.ms.gov.br                página                             2
-
-## Conferência e limites
-
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Minutas-padrão, checklists, certidões e listas de verificação do mesmo catálogo não receberam IDs de precedente. Decisões de Gabinete apenas anexas não foram fundidas ao parecer nem convertidas em registros próprios neste lote. Não se infere vigência atual, força vinculante ou completude da série. PDFs e capturas permanecem privados.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]

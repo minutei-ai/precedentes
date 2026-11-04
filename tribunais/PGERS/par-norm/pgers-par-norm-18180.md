@@ -10,6 +10,8 @@
 - **Páginas do PDF:** 24; camada textual extraída (pdftotext)
 - **Capturas:** HTTP 200 em 04/11/2026; 693915 bytes; SHA-256 `a9d43e8775a67afd9f3aa08c1fb81c2a4232ec79d9df4cf23fd331f2bff03e20`
 - **Captura do catálogo:** HTTP 200; 80282 bytes; SHA-256 `85d276467f3a211e768e816ea5477297f4179db4338bbd904cbd7217f4de2ec7`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
@@ -1573,84 +1575,8 @@ Do
 
 ### Página física 23
 
-M
-                                 rc
-                     ESTADO DO RIO GRANDE DO SUL
-                    PROCURADORIA-GERAL DO ESTADO
-
-                    Processo n' 20/I 900-001 l5l9-4
-
-                 PARECER JURIDICO N" 18.180/20
-
-
-        O PROCURADOR-GERAL DO ESTADO, no uso de suas
-atribuições, aprova o PARECER da CONSULTORIA-
-GERAL/ASSESSORIA JURÍDICA E LEGISLATIYA. de autoTia do
-Procurador do Estado GUILHERME DE SOUZA FALLAVENA, cujas
-conclusões adota para responder      à
-                                 CONSULTA formulada pela
-SECRETARJA DA EDUCAÇÃO.
-
-        Entendo pela conveniência de atribuição de caráter jurídico-
-normativo ao Parecer pelo Excelentíssimo Seúor Govemador do Estado, na
-forma do artigo 82, inciso XV, da Constituição Estadual.
-
-      Submeta-se o expediente à deliberação do Excelentissimo Senhor
-Govemador do Estado.
-
-
-
-PROCURADORIA-GERAL DO ESTADO, em Porto Alegre, 24 de abril de 2020.
-
-
-
-
-                    DA COSTA.
-                do Estado.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]
 
 ### Página física 24
 
-M
-                     ESTADO DO RIO GRANDE DO SUL
-                      GABINETE DO COVERNADOR
-
-
-
-                   Processo n' 20l1900-001 I 5l 9-4
-
-                PARECER JURIDICO N" 18.180/20
-
-
-       APROVO as conclusões do PAR.ECER N' 18.180/20, da
-PROCURADORIA-GERAL DO ESTADO, atribuindolhe caráter
-jurídico-normativo, com efeitos cogentes para a administração pública
-estadual, nos termos do disposto no artigo 82, inciso XV, da Constituição
-Estadual.
-
-      À Procuradoria-Geral do Estado para as anotações de praxe e
-providências que entender necessárias. Após, restitua-se à Secretaria da
-Educação.
-
-
-
-PALÁCIO PIRATINI, em Porto Alegre, 24 de abril de 2020.
-
-
-
-
-     U      O LEITE,
-Go           do Estado.
-
-
-
-Registre-se e publique-se.
-
-
-
-
-       o Cunha da Costa,
-Procurador-Geral do Estado.
-
-## Conferência e limites
-
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Esta série é distinta das Súmulas CEAD já publicadas em `sum-cead/`. A página oficial indica acervo com caráter jurídico-normativo a partir de 2000 e remete a sistema histórico para período anterior; este lote não esgota o catálogo. Não se infere vigência atual nem força vinculante. PDFs e capturas permanecem privados.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]

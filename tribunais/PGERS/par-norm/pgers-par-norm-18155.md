@@ -10,6 +10,8 @@
 - **Páginas do PDF:** 28; camada textual extraída (pdftotext)
 - **Capturas:** HTTP 200 em 04/11/2026; 786259 bytes; SHA-256 `223bb100f81c78e4a7b1c0c22a99b9a21b1bb8e97afcecac2194529f545dd246`
 - **Captura do catálogo:** HTTP 200; 80282 bytes; SHA-256 `85d276467f3a211e768e816ea5477297f4179db4338bbd904cbd7217f4de2ec7`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
@@ -1636,80 +1638,8 @@ Do
 
 ### Página física 27
 
-W
-                   ESTADO DO RIO GRANDE DO SUL
-                  PROCURADORIA-GERAL DO ESTADO
-
-
-
-
-                  Processo n" 19/1204-0021548-3
-
-                    PARECER JURÍDICO N" Ib.+SSlZA
-
-
-       O PROCURADOR-GERAL DO ESTADO, no uso de suas
-atribuições, aprova o PARECER N" lô.l55,zZo da CONSULTORIA-
-GERAL/ASSESSORIA JURÍDICA E LEGISLATIVA. de autoTia da
-Procuradora do Estado ALINE F RARE ARMBORST. cujas conclusões
-adora para orientar a ADMINISTRAÇÃO PÚBLICA ESTADUAL.
-
-      Entendo pela conveniência de atribuição de caráter jurídico-normativo
-ao Parecer pelo Excelentissimo Seúor Governador do Estado, na forma do
-artigo 82. inciso XY da Constituição Estadual.
-
-    Submeta-se o expediente à deliberação do Excelentissimo Senhor
-Govemador do Estado.
-
-PROCURÂDORIA-GERAL DO ESTADO. em Porto Alegre. ú/oq/LoZA-
-
-
-
-
-           unha
-        or-Geral do Estado
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]
 
 ### Página física 28
 
-,w,1
-                                 §x-#
-                      ESTADO DO RIO GRANDE DO SUL
-                       GABINETE DO GOVERNADOR
-
-
-
-                    Processo n" I 9/120{-0021518--l
-
-
-
-       APROVO as conclusões do PARECER N" 1ê.155/20 da
- PROCURADORIA-GERAL DO ESTADO. atribuindo-lhe caráter
-jurídico-normativo. com efeitos cogentes para a administração pública
-estadual. nos termos do disposto no aÍigo 82. inciso XV, da Constituição
-Estadual.
-
-      A Procuradoria-Geral do Estado para as anotações de praxe e
-providências que entender necessárias. Após, à Secretaria do Planejamento,
-Orçamento e Gestão para demais providências pertinentes.
-
-PALÁCIO PIRATINI, em PortoAlegre. 17 de o.bril de 2ozo.
-
-
-
-
-E             LEITE"
-Gov           do Estado.
-
-
-
-Registre-se e publique-se.
-
-
-
-
-      4     Cunha da Costa.
-                       Estado.
-
-## Conferência e limites
-
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Esta série é distinta das Súmulas CEAD já publicadas em `sum-cead/`. A página oficial indica acervo com caráter jurídico-normativo a partir de 2000 e remete a sistema histórico para período anterior; este lote não esgota o catálogo. Não se infere vigência atual nem força vinculante. PDFs e capturas permanecem privados.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.]

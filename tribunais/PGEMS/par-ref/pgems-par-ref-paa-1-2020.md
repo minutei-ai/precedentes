@@ -13,6 +13,8 @@
 - **Páginas do PDF:** 54; camada textual extraída (pdftotext); 29 páginas com texto e 25 páginas sem camada textual extraível
 - **Capturas:** HTTP 200 em 04/11/2026; 18228002 bytes; SHA-256 `eda522cc1d68496fcf05041883b1d95e7e847c1bee1b480027bb814f4b2c7af4`
 - **Captura do catálogo:** HTTP 200; 722442 bytes; SHA-256 `801e54cb941b7c227c14fbc70b04f58d1d3c9c001968b459a819b887a59d3a04`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
@@ -1347,105 +1349,100 @@ Consultivo
 
 ### Página física 30
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 31
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 32
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 33
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 34
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 35
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 36
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 37
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 38
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 39
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 40
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 41
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 42
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 43
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 44
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 45
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 46
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 47
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 48
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 49
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 50
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 51
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 52
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 53
 
-*(sem camada textual extraível nesta página)*
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.
 
 ### Página física 54
 
-*(sem camada textual extraível nesta página)*
-
-## Conferência e limites
-
-
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Minutas-padrão, checklists, certidões e listas de verificação do mesmo catálogo não receberam IDs de precedente. Decisões de Gabinete apenas anexas não foram fundidas ao parecer nem convertidas em registros próprios neste lote. Não se infere vigência atual, força vinculante ou completude da série. PDFs e capturas permanecem privados.
+[Transcrição retida: página digitalizada ou sem texto validado; leitura direta e revisão pendentes.] Esta faixa contém, segundo a revisão, o parecer atualizador PAA 002/2023, também proposto em registro próprio; a relação entre as duas apresentações exige conciliação documental.

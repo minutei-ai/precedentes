@@ -10,6 +10,8 @@
 - **Páginas do PDF:** 17; camada textual extraída (pdftotext)
 - **Capturas:** HTTP 200 em 04/11/2026; 84012 bytes; SHA-256 `9bd2eea6474d5368167300e68ddf7a0f65426ba29dc6a301a25ddd3bcfff0993`
 - **Captura do catálogo:** HTTP 200; 80282 bytes; SHA-256 `85d276467f3a211e768e816ea5477297f4179db4338bbd904cbd7217f4de2ec7`
+- **Estado da revisão:** Proposta parcial. O Opus 5.5 não certificou a integralidade deste registro; trechos retidos abaixo não são texto jurídico transcrito.
+
 
 ## Texto do PDF
 
