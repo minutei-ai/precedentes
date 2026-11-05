@@ -3178,3 +3178,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **PGEPR, 05/11/2026:** sete páginas das OA 11, 15, 19 e 21 transcritas por imagem e cotejadas integralmente em revisão independente, mantendo o Despacho 670/2016 separado da OA 11 e as incertezas de glifos. Sem novos IDs; demais itens e aceite da issue #256 continuam pendentes.
 
 - **TCEPI, residual de 05/11/2026:** dez PDFs / 28 páginas com OCR corrompido substituído por transcrição visual e revisão independente integral, sem novos IDs. Mantidas a separação entre Resolução e voto na ficha 16708 e a incerteza de vínculo da p. 2 do PDF da ficha 16012. O aceite global da issue #201 ainda depende da classificação das demais suspeitas da varredura.
+
+- **PGEPA, lote 1 de 05/11/2026:** 18 páginas dos pareceres 000001/2020 e 000006/2020 transcritas por imagem e cotejadas integralmente em revisão independente; +1 ID para 000006/2020. Checklist do primeiro e ratificação/aprovação do segundo preservados em suas posições. Demais PDFs do inventário continuam pendentes.

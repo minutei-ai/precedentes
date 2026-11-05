@@ -81,7 +81,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [PGEGO](PGEGO/) | 129 |
 | [PGEMS](PGEMS/) | 55 |
 | [PGEMT](PGEMT/) | 49 |
-| [PGEPA](PGEPA/) | 26 |
+| [PGEPA](PGEPA/) | 27 |
 | [PGEPB](PGEPB/) | 3 |
 | [PGEPE](PGEPE/) | 3 |
 | [PGEPI](PGEPI/) | 66 |
