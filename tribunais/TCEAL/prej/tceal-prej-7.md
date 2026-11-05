@@ -128,6 +128,8 @@ RAFAEL RODRIGUES DE ALCANTARA
 
 sala das Sessões do PLENO do TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS, em Maceió, _02__ de __Agosto_______ de 2016.
 
+[Nota de transcrição: a numeração do dispositivo é a da fonte: a primeira ocorrência não apresenta itens I e II numerados; a segunda salta de I para III, sem item II impresso.]
+
 ## Ementa
 
 É possível a contratação de cooperativa de saúde e transporte escolar, desde que sejam observadas as seguintes exigências: a) necessidade de procedimento licitatório prévio, conforme art. 37, XXI, da Constituição Federal, no qual deverá ser respeitado o princípio da isonomia entre os concorrentes, independentemente da natureza de sua atuação; b) que a empresa contratada não venha a desempenhar atividade-fim do órgão contratante ou atividades típicas de cargos do quadro de pessoal da administração já existentes, sob pena de violação do art. 37, II, da Constituição Federal; c) que sejam respeitadas as regras para complementação do serviço público de saúde previstas na Portaria 1.034/2010, do Ministério da Saúde; d) que não seja possível a caracterização de relação de emprego entre a cooperativa e o cooperado, nem deste com o contratante, em respeito à Súmula 281, do Tribunal de Contas da União, devendo, nesse sentido, o edital de licitação fixar a forma como os serviços serão executados.

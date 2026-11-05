@@ -288,6 +288,8 @@ Coordenadora do Plenário substituindo a titular
 [Dois furos de arquivamento na margem direita (folha digitalizada em verso); pequenas marcas no canto superior direito; sombra de borda na margem inferior direita — elementos físicos]
 [Sem numeração de página impressa nesta folha; sem anotação "Fls." visível]
 
+[Nota de transcrição: a leitura do último par de dígitos (“20”) no carimbo de publicação da página 1 tem confiança moderada, conforme o candidato revisado. Na página 4, a citação imprime “DJe 28/08/2017”, enquanto a referência de sessão informa “6.9.2017”; as duas datas foram preservadas sem harmonização. Na página 5, a indicação “nosso grifo” no art. 29 não corresponde a destaque distinguível na digitalização.]
+
 ## Ementa
 
 **CONSULTA REFERENTE À POSSIBILIDADE DE CESSÃO DE CRÉDITO PROVENIENTE DE COMPLEMENTAÇÃO DO FUNDEF A FUNDO DE INVESTIMENTO.**

@@ -150,6 +150,8 @@ Conselheira MARIA CLEIDE COSTA BEZERRA
 Procurador PEDRO BARBOSA NETO
 Procurador do Ministério Público Especial
 
+[Nota de transcrição: a indicação “Nossos grifos” consta do texto, mas não há grifo distinguível na citação do art. 82 do ADCT nesta digitalização; não foi reconstruído.]
+
 ## Ementa
 
 Consulta. Secretaria de Estado da Fazenda. Fundo de Combate à Erradicação da Pobreza - FECOEP. Composição. Adicional de 2% a mais na alíquota do ICMS, ADTC, art. 82,CR/88. Inclusão oou não na receita de impostos para base de cálculo dos percentuais mínimos de gastos com a saúde e educação. Conhecimento e resposta em caráter normativo ao questionamento em tese pela sua inclusão na base de cálculo para verificação dos gastos mínimos em educação e saúde. As ressalvas permitidas encontram-se dispostas expressamente na Constituição da República de 1988. Entendimento corroborado pela Secretaria do Tesouro Nacional. Precedente existente nesta Corte de Contas com o mesmo entendimento disposto no Parecer Prévio, publicado no DOe-TCE/AL edição de 04/11/2011, que deliberou sobre as Contas do Governo do Estado de Alagoas, exercício de 2009, no bojo do processo TC-4365/2009 - Aprovação com ressalva por não ter somado "O valor do Fundo de Combate à Pobreza - FECOEP no montante das receitas a serem consideradas como base de cálculo para o limite mínimo constitucional de aplicação em educação".

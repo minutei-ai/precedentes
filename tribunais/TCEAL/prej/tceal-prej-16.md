@@ -186,6 +186,8 @@ de engenharia, e **R$ 35.200,00 (trinta e cinco mil e duzentos reais)**, para ou
 
 
 
+[Nota de transcrição: a tabela original não tem bordas e contém palavras de células adjacentes encostadas ou sobrepostas. A separação em colunas abaixo é interpretação do layout; não representa alteração dos valores impressos.]
+
 **SELEÇÃO DA MODALILADE LICITATÓRIA - LEI 8.666/93**
 
 
