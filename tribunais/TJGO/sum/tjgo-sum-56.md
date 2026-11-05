@@ -32,4 +32,18 @@ Quitação de débito acordado extrajudicialmente, silente o instrumento quando 
 
 [Consultar documento 496589 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/496589)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 496589, com 34,279 bytes. SHA-256 `a1525d38ced9e7132375812427e3edc5d5089f2a8d61d2a9644767dfacba7859`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+Súmula nº 56
+ENUNCIADO: Acordado extrajudicialmente a quitação de débito, silente o instrumento quanto ao ponto, deve-se autorizar o levantamento dos depósitos efetivados em juízo, em favor do consignante.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 17/09/2018.
+PRECEDENTES: AI 91518-26.2015.8.09.0000; AI 235277- 14.2016.8.09.0000; AI 5325074-76.2017.8.09.0000; AC 0032106- 66.2014.8.09.0044; AI 227792- 65.2013.8.09.0000.
+Desembargador GILBERTO MARQUES FILHO
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
