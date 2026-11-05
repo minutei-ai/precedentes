@@ -3070,3 +3070,7 @@ Seis páginas dos DOEs 2019/2022 foram cotejadas em imagem. Variantes dos númer
 ### TRT22 — quatro RAs complementares, 05/11/2026
 
 As RAs57/2007,67/2013,80/2014 e56/2024 somam15 páginas integralmente cotejadas e incorporadas como apoio. Com o lote anterior, são28 páginas de sete documentos. Divergências de publicação, títulos e proposta/aprovado preservadas. A Súmula47 foi aprovada por maioria; IUJs restantes continuam pendentes. Delta zero.
+
+### CGECE — reconciliação das duas edições concluída, 05/11/2026
+
+Os 41 enunciados de2015 e os73 da2ªedição foram integralmente cotejados em imagem, com correções de espaços, parágrafos, referências e páginas de continuação aplicadas. Históricos permanecem separados;12marcas de revisão conferidas. Anexos de terceiros não foram atribuídos à CGE. Ficha catalográfica2015 diz52p.,PDF48p.,sem lacuna numerada1–47: limite explícito, não reconstruído. Escopo documental da issue217 concluído, delta zero, sem vigência ou completude histórica inferida.

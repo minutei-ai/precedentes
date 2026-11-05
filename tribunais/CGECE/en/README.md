@@ -83,3 +83,5 @@ PDF da 2ª edição: 8212602 bytes, SHA-256 `4bd19b87e0a29067cc811da4e056f1d0cd2
 | 73 | [Enunciado 73](cgece-en-73.md) |
 
 A folha de rosto da 2ª edição imprime “Fortaleza, Dezembro/2020”. A disponibilidade arquivada em junho de 2021 não é data de edição nem comprova vigência. Os 73 blocos foram integralmente cotejados em imagem em 05/11/2026; corrigiram-se espaços, quebras de virada de página e uma referência partida. A captura comprovada nos recibos é 20210629122933.
+
+A edição de setembro de 2015 teve os 41 blocos integralmente cotejados nas imagens das pp.8–24. A reconciliação das duas edições está concluída para os documentos capturados, sem novos IDs ou afirmação de vigência atual. A ficha catalográfica de2015 indica52 páginas, enquanto o PDF tem48; esse limite foi preservado.

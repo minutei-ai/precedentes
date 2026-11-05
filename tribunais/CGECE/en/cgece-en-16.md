@@ -24,6 +24,8 @@ O registro do valor do contrato de seguro se dá com base no prêmio pago e, cas
 
 Texto, título e referências transcritos da edição de setembro de 2015 e conferidos visualmente na página impressa 14 do PDF oficial; quebras de linha foram normalizadas. A edição não informa situação atual deste enunciado. Esta ficha registra apenas a edição de 2015; não se presume vigência, efeito vinculante, exaurimento ou completude, e eventuais redações posteriores exigem fonte e conferência próprias. Atos, normas, pareceres, súmulas e decisões apenas citados permanecem referências, sem IDs neste lote.
 
+Conferência independente integral da edição de 2015 concluída em 05/11/2026: corpo dos 41 enunciados e referências nas pp.8–24. Ajustes de espaço, parágrafos de continuação e extensão das páginas foram aplicados. A ficha catalográfica diz “52 p.”, mas o PDF tem 48; não há lacuna na numeração1–47 e a p.48 é contracapa. Isso não permite concluir sobre a extensão da edição física. Anexos de terceiros não geram IDs CGECE.
+
 ## Texto publicado — 2ª edição (Fortaleza, dezembro de 2020)
 
 **Título na 2ª edição:** Registro do valor do contrato de seguro
