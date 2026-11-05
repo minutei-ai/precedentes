@@ -71,10 +71,76 @@ Fui presente: Leandro Maciel do Nascimento — Representante do MPC
 
 Esta página pertence ao Acórdão 600/13, processo 21.251/12, de Campo Grande do Piauí, e não ao Acórdão 430/13 de Marcolândia. O texto correspondente está [na consulta 16802](tcepi-consulta-16802.md). A junção de atos está no próprio PDF; não se atribui este conteúdo à presente consulta.
 
+Transcrição deste exemplar anexado; não se substitui pela reprodução da consulta 16802 nem se atribui ao Acórdão 430/13. As leituras locais e suas ressalvas permanecem próprias deste exemplar.
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
+
+[Carimbo de folha, à direita, com logotipo (estrela sobre arco, "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ") sobreposto:] [TRIB]UNAL DE [CONTAS DO E]STADO DO PIAUÍ / PROC. Nº [manuscrito:] TCE [número encoberto pelo logotipo sobreposto; não lido] FLS. [manuscrito:] 26 / [assinatura manuscrita na linha, não atribuída] / SE[C]RETARIA - FUNC[IONÁRIO] [impressão apagada]
+
+[Carimbo retangular de publicação, à direita, parcialmente apagado:] Publicado no Diár[io Oficial El]etrônico / nº [manuscrito:] 069 [página] [manuscrito, leitura provável:] 17/18 / em [manuscrito, leitura provável:] 10 / 04 / 13 . / [rubrica manuscrita, não atribuída] / SECRET[ARIA DAS SESSÕ]ES [impressão apagada]
+
+**ACORDÃO Nº 600/13**
+
+PROCESSO TC- E Nº 21.251/12
+DECISÃO Nº 271/13
+ASSUNTO: CONSULTA – CÂMARA MUNICIPAL.
+PROCEDÊNCIA: CÂMARA DE CAMPO GRANDE DO PIAUÍ.
+INTERESSADO: ANTÔNIO JOSÉ BEZERRA.
+PROCURADOR (A): RAÏSSA MARIA REZENDE DE DEUS BARBOSA.
+**RELATORA**: CONSª. LILIAN DE ALMEIDA VELOSO NUNES MARTINS
+
+> *Unânime, pelo conhecimento da Consulta, para respondê-la no sentido de que não é cabivel o pagamento dos servidores comissionados com os 30% que restam dos 70% previstos para pagamento da sua receita com folha de pagamento.*
+
+**CONSULTA – CÂMARA MUNICIPAL DE CAMPO GRANDE DO PIAUÍ** - Questionamento sobre a possibilidade do pagamento de funcionários comissionados ser feito fora do limite de 70% previsto na Constituição Federal.
+
+**Vistos**, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, contrário ao Parecer Ministerial, às (fls. 17/19), **conhecer** da presente consulta, para **respondê-la** no sentido de que não é cabivel o pagamento dos servidores comissionados com os 30% que restam dos 70% previstos para pagamento da sua receita com folha de pagamento, de acordo com o art. 29 – A, § 1º da Constituição Federal, nos termos e pelos fundamentos exposados no voto da Relatora, juntado aos autos.
+
+**Ausente**, por motivo justificado, quando da apreciação do presente processo, o Cons. Luciano Nunes Santos.
+
+**Presentes** os Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga (Presidente), Anfrísio Neto Lobão Castelo Branco, Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Lilian de Almeida Veloso Nunes Martins e o Cons. Substituto Delano Carneiro da Cunha Câmara, convocado para substituir o Cons. Olavo Rebêlo de Carvalho Filho (ausente por motivo justificado).
+
+**Representante do Ministério Público de Contas presente**: Sub-Procurador-Geral Leandro Maciel do Nascimento.
+
+[Rubrica manuscrita à direita, acima do rodapé, não atribuída]
+
+[Rodapé:] Gab. Consª Lilian Martins- Acórdão nº 21.251/12 – Consulta [seguido de marcas esmaecidas/ruído ilegíveis após zoom]
+
+
 
 #### Página 3 do PDF oficial
 
 Esta página pertence ao Acórdão 600/13, processo 21.251/12, de Campo Grande do Piauí, e não ao Acórdão 430/13 de Marcolândia. O texto correspondente está [na consulta 16802](tcepi-consulta-16802.md). A junção de atos está no próprio PDF; não se atribui este conteúdo à presente consulta.
+
+Transcrição deste exemplar anexado; não se substitui pela reprodução da consulta 16802 nem se atribui ao Acórdão 430/13. As leituras locais e suas ressalvas permanecem próprias deste exemplar.
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
+
+[Carimbo de folha, à direita, com logotipo (estrela sobre arco, "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ") sobreposto:] TRI[B]UNAL DE CONTAS [DO ES]TADO DO PIAUÍ / PROC. Nº [manuscrito:] TCE 21.25[restante encoberto pelo logotipo] FLS. [manuscrito:] 27 / [assinatura manuscrita na linha, não atribuída] / SECRETARIA [- FUNCIONÁRIO] [impressão apagada]
+
+**ACORDÃO Nº 600/13**
+
+Transcreva-se, Publique-se e Cumpra-se.
+
+Sessão Plenária Ordinária nº 10/13, em Teresina, 21 de março de 2013.
+
+Consª. Waltânia Mª. N. de S. L. Alvarenga [assinatura manuscrita sobre a linha, não atribuída] Presidente
+
+Consª. Lilian de A. V. N. Martins [assinatura manuscrita sobre a linha, não atribuída] Relatora
+
+**Fui presente: Leandro M. do Nascimento** [traços manuscritos esmaecidos sobre a linha, não atribuídos] **Sub-Procurador - Geral MPC-TCE/PI**
+
+[Página sem outro texto até o rodapé — conferido na imagem]
+
+[Rodapé:] Gab. Consª Lilian Martins- Acórdão nº 21.251/12 – Consulta [seguido de marcas esmaecidas/ruído ilegíveis após zoom]
+
 
 ### Documento vinculado pela fonte
 

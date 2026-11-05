@@ -935,7 +935,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:342387603447- 01/06/2018 12
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:[identificador pessoal ocultado]- 01/06/2018 12
            ____________________________________________________________________________________
            Consulta – Câmara Municipal de Betânia do Piauí
 

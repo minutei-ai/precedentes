@@ -686,6 +686,8 @@ Acrescentamos, apenas, no tocante à responsabilização pelo ressarcimento do p
 ---
 Notas: "Lei nº 8.428/92" grafado assim no original; mantido sem correção. **Lacuna real da fonte:** o texto termina no meio da frase ("...responsabilizado pelos") e o PDF tem apenas 2 páginas; a continuação do parecer, a conclusão e o fecho/assinatura do MPC não constam deste arquivo.
 
+Próximo passo documental: localizar ou solicitar ao TCE-PI a continuação do Parecer MPC2012MC0004, processo TC-E-024701/11, após a folha 100; conferir a continuidade com o trecho final existente antes de incorporar qualquer conclusão ou fecho.
+
 ## Ementa
 
 [Acórdão nº 312/13](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Ac%C3%B3rd%C3%A3o-39.pdf)
