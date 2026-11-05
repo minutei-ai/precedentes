@@ -126,190 +126,188 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                        Estado do Piauí
-                        Tribunal de Contas
-                        Gabinete Cons. Abelardo Vilanova
-                                        Processo TC nº 001087/2015
-    
-    PROCESSO TC nº 001087/2015
-    ASSUNTO: Consulta
-    PROCEDÊNCIA: Defensoria Pública do Estado do Piauí
-    INTERESSADO: Norma Brandão de Lavenère Machado Dantas – Defensora-Geral
-    RELATOR: Cons. Abelardo Pio Vilanova e Silva
-    
-    
-    1 RELATÓRIO
-    
-               Tratam os autos de Consulta formulada a esta Corte de Contas pela Defensoria
-    Pública do Estado do Piauí, por intermédio de sua Defensora-Geral, à época, Sra. Norma
-    Brandão de Lavenère Machado Dantas, concernente à vinculação da referida instituição aos
-    limites fiscais impostos ao Poder Executivo quanto às despesas com gasto de pessoal.,
-    conforme quesito a seguir:
-    
-                “ caso o Poder Executivo ultrapasse os limites de gastos com pessoal, aplicam-
-    se à Defensoria Pública do Estado as restrições impostas pela Lei de Responsabilidade
-    Fiscal, quando esta não tenha contribuído para tanto, estando com suas contas em
-    equilíbrio e haja dotação orçamentária e saldo financeiro suficiente para suas próprias
-    despesas?”.
-    
-               Após a constatação dos requisitos essenciais de admissibilidade, nos termos do
-    art. 201 do Regimento Interno do TCE/PI, o feito foi encaminhado à Comissão de
-    Jurisprudência e Regimento para que informasse acerca da existência de prejulgados ou
-    decisão reiterada sobre o tema.
-    
-               A referida Comissão prestou informação no sentido da inexistência de prejulgado
-    ou decisão reiterada sobre a matéria e, dando seguimento, nos termos regimentais, os autos
-    foram encaminhados à unidade técnica competente para a instrução do feito, qual seja, a
-    Diretoria de Fiscalização da Administração Estadual – DFAE.
-    
-               Em seguida, a presente consulta foi submetida ao douto parquet de contas que
-    emitiu parecer no qual coaduna com as conclusões da DFAE, opinando que seja respondida
-    pela não vinculação da Defensoria Pública aos limites fiscais impostos ao Poder Executivo,
-    sendo lícito que aquela aumente suas despesas com pessoal ainda que este tenha
-    ultrapassado o limite prudencial indicado pela Lei de Responsabilidade Fiscal, desde que o
-    faça dentro dos limites estabelecidos na Lei de Diretrizes Orçamentárias.
-    
-               É o relatório.
-    
-    
-                                                                                             1
-    
+[Nota editorial de apresentação: brasão estadual colorido à esquerda e logomarca do Tribunal à direita do cabeçalho. Texto institucional em tipo romano, sem negrito adicional. Desenhos não reproduzidos neste Markdown.]
+
+Estado do Piauí\
+Tribunal de Contas\
+Gabinete Cons. Abelardo Vilanova\
+Processo TC nº 001087/2015
+
+**PROCESSO TC nº 001087/2015**\
+**ASSUNTO:** Consulta\
+**PROCEDÊNCIA:** Defensoria Pública do Estado do Piauí\
+**INTERESSADO:** Norma Brandão de Lavenère Machado Dantas – Defensora-Geral\
+**RELATOR:** Cons. Abelardo Pio Vilanova e Silva
+
+**1 RELATÓRIO**
+
+Tratam os autos de Consulta formulada a esta Corte de Contas pela Defensoria
+Pública do Estado do Piauí, por intermédio de sua Defensora-Geral, à época, Sra. Norma
+Brandão de Lavenère Machado Dantas, concernente à vinculação da referida instituição aos
+limites fiscais impostos ao Poder Executivo quanto às despesas com gasto de pessoal.,
+conforme quesito a seguir:
+
+> “ caso o Poder Executivo ultrapasse os limites de gastos com pessoal, aplicam-
+> se à Defensoria Pública do Estado as restrições impostas pela Lei de Responsabilidade
+> Fiscal, quando esta não tenha contribuído para tanto, estando com suas contas em
+> equilíbrio e haja dotação orçamentária e saldo financeiro suficiente para suas próprias
+> despesas?”.
+
+Após a constatação dos requisitos essenciais de admissibilidade, nos termos do
+art. 201 do Regimento Interno do TCE/PI, o feito foi encaminhado à Comissão de
+Jurisprudência e Regimento para que informasse acerca da existência de prejulgados ou
+decisão reiterada sobre o tema.
+
+A referida Comissão prestou informação no sentido da inexistência de prejulgado
+ou decisão reiterada sobre a matéria e, dando seguimento, nos termos regimentais, os autos
+foram encaminhados à unidade técnica competente para a instrução do feito, qual seja, a
+Diretoria de Fiscalização da Administração Estadual – DFAE.
+
+Em seguida, a presente consulta foi submetida ao douto *parquet* de contas que
+emitiu parecer no qual coaduna com as conclusões da DFAE, opinando que seja respondida
+pela não vinculação da Defensoria Pública aos limites fiscais impostos ao Poder Executivo,
+sendo lícito que aquela aumente suas despesas com pessoal ainda que este tenha
+ultrapassado o limite prudencial indicado pela Lei de Responsabilidade Fiscal, desde que o
+faça dentro dos limites estabelecidos na Lei de Diretrizes Orçamentárias.
+
+É o relatório.
+
+
+1
 
 #### Página 2 do PDF oficial
 
-                          Estado do Piauí
-                          Tribunal de Contas
-                          Gabinete Cons. Abelardo Vilanova
-                                         Processo TC nº 001087/2015
-    
-    2 FUNDAMENTAÇÃO
-    
-                O objeto da presente consulta se refere à vinculação da Defensoria Pública aos
-    limites fiscais impostos ao Poder Executivo, no que concerne às despesas com pessoal.
-    
-                A Diretoria De Fiscalização da Administração Estadual, DFAE, se posiciona na
-    forma a seguir:
-    
-                A Lei nº 101/2000 – Lei de Responsabilidade Fiscal –, traz, no art. 19, os limites
-    globais que podem ser utilizados a título de despesa com pessoal por cada um dos entes
-    federados. Conforme o dispositivo mencionado, os Estados podem gastar até 60%
-    (sessenta por cento) da Receita Corrente Líquida – RCL – com pessoal, devendo, no
-    entanto, obedecer aos limites discriminados para cada Poder e para o Ministério Público
-    constantes do artigo 20 da mesma lei.
-    
-                Pelos limites estabelecidos no referido dispositivo, percebe-se, pois, que a
-    Defensoria do Estado não foi contemplada com um percentual próprio para gastos com
-    pessoal, haja vista que historicamente tem sua gestão orçamentária vinculada ao Poder
-    Executivo, mormente à época de edição da Lei de Responsabilidade Fiscal, obedecendo,
-    portanto, o limite a ele imposto.
-    
-                Com o advento da Emenda Constitucional nº 45/2004, no entanto, o legislador
-    constituinte expressamente assegurou à Defensoria Pública do Estado (e, posteriormente, à
-    Defensoria Pública da União através das EC 74 e 80, ambas de 2013) autonomia funcional
-    e administrativa e a iniciativa de sua proposta orçamentária, consoante disposto na redação
-    atual do art. 134, § 2º, da Constituição da República.
-    
-                Resta claro que, pelas alterações introduzidas através das emendas acima
-    mencionadas, houve uma considerável ampliação das prerrogativas inerentes à Defensoria
-    Pública, passando a gozar, desde então, de independência funcional, administrativa e
-    financeira. A citada independência se materializa, por exemplo, na sua iniciativa de proposta
-    orçamentária própria, além de outras garantias até então só deferidas aos poderes e ao
-    Ministério Público, ou seja, aos órgãos constantes do rol do art. 19 da LRF.
-    
-                Diante das alterações trazidas pelas Emendas Constitucionais referidas acima,
-    evidenciou-se um aparente desacerto entre o texto magno e a norma infraconstitucional
-    (LRF), a qual não foi objeto de reformulação para dar guarida à autonomia orçamentária
-    desde então assegurada à Defensoria Pública, o que supostamente deixa implícita a
-    continuidade da instituição como órgão vinculado ao Poder Executivo e ao seu respectivo
-    limite com pessoal.
-                                                                                                2
-    
+[Nota editorial de apresentação: brasão estadual colorido à esquerda e logomarca do Tribunal à direita do cabeçalho. Texto institucional em tipo romano, sem negrito adicional. Desenhos não reproduzidos neste Markdown.]
+
+Estado do Piauí\
+Tribunal de Contas\
+Gabinete Cons. Abelardo Vilanova\
+Processo TC nº 001087/2015
+
+**2 FUNDAMENTAÇÃO**
+
+O objeto da presente consulta se refere à vinculação da Defensoria Pública aos\
+limites fiscais impostos ao Poder Executivo, no que concerne às despesas com pessoal.
+
+A Diretoria De Fiscalização da Administração Estadual, DFAE, se posiciona na\
+forma a seguir:
+
+A Lei nº 101/2000 – Lei de Responsabilidade Fiscal –, traz, no art. 19, os limites
+globais que podem ser utilizados a título de despesa com pessoal por cada um dos entes
+federados. Conforme o dispositivo mencionado, os Estados podem gastar até 60%
+(sessenta por cento) da Receita Corrente Líquida – RCL – com pessoal, devendo, no
+entanto, obedecer aos limites discriminados para cada Poder e para o Ministério Público
+constantes do artigo 20 da mesma lei.
+
+Pelos limites estabelecidos no referido dispositivo, percebe-se, pois, que a
+Defensoria do Estado não foi contemplada com um percentual próprio para gastos com
+pessoal, haja vista que historicamente tem sua gestão orçamentária vinculada ao Poder
+Executivo, mormente à época de edição da Lei de Responsabilidade Fiscal, obedecendo,
+portanto, o limite a ele imposto.
+
+Com o advento da Emenda Constitucional nº 45/2004, no entanto, o legislador
+constituinte expressamente assegurou à Defensoria Pública do Estado (e, posteriormente, à
+Defensoria Pública da União através das EC 74 e 80, ambas de 2013) autonomia funcional
+e administrativa e a iniciativa de sua proposta orçamentária, consoante disposto na redação
+atual do art. 134, § 2º, da Constituição da República.
+
+Resta claro que, pelas alterações introduzidas através das emendas acima
+mencionadas, houve uma considerável ampliação das prerrogativas inerentes à Defensoria
+Pública, passando a gozar, desde então, de independência funcional, administrativa e
+financeira. A citada independência se materializa, por exemplo, na sua iniciativa de proposta
+orçamentária própria, além de outras garantias até então só deferidas aos poderes e ao
+Ministério Público, ou seja, aos órgãos constantes do rol do art. 19 da LRF.
+
+Diante das alterações trazidas pelas Emendas Constitucionais referidas acima,
+evidenciou-se um aparente desacerto entre o texto magno e a norma infraconstitucional
+(LRF), a qual não foi objeto de reformulação para dar guarida à autonomia orçamentária
+desde então assegurada à Defensoria Pública, o que supostamente deixa implícita a
+continuidade da instituição como órgão vinculado ao Poder Executivo e ao seu respectivo
+limite com pessoal.
+
+2
 
 #### Página 3 do PDF oficial
 
-                          Estado do Piauí
-                          Tribunal de Contas
-                          Gabinete Cons. Abelardo Vilanova
-                                         Processo TC nº 001087/2015
-    
-               Cumpre esclarecer, entretanto, que diante de um aparente conflito normativo
-    envolvendo a legislação infraconstitucional, no caso representada pela Lei Complementar
-    101/2000, e a Constituição Federal, esta última sempre deve prevalecer, haja vista estar no
-    topo da pirâmide normativa, sobrepondo-se de forma absoluta a todas as outras espécies
-    normativas, mesmo porque todas estas têm como fundamento de validade a própria Carta
-    Magna.
-    
-               Outrossim, convém mencionar que das alterações implantadas com o advento
-    das Emendas Constitucionais 45/2004, 74/2013 e 80/2013, extraem-se normas de eficácia
-    plena e aplicabilidade imediata, não dependendo de regulamentação infraconstitucional para
-    que produzam efeitos, conforme tem decido reiteradamente o Excelso Supremo Tribunal
-    Federal.
-    
-               Destarte, ainda que o legislador infraconstitucional tenha se mantido inerte em
-    relação ao dever de adequar as leis aos novos ditames constitucionais, certo é que não há
-    óbice à aplicabilidade direta e imediata das alterações provenientes das Emendas preditas,
-    pois, conforme colacionado acima, trata-se de preceito constitucional de eficácia plena.
-    
-               Sendo assim, é tida como inconstitucional qualquer norma ou ato que disponha
-    em sentido contrário ao disposto no artigo 134 da Constituição Federal, de sorte que,
-    mesmo não havendo previsão legal de limite próprio para as despesas com pessoal da
-    Defensoria Pública, não se pode incluí-la como órgão do Poder Executivo e, menos ainda,
-    vinculá-la a alguma Secretaria de Estado, sendo dever do gestor garantir o orçamento
-    próprio à instituição e compilá-lo nos moldes em que for enviado.
-    
-               Nesse sentido, o Pretório Excelso vem adotando a teoria da intranscendência
-    das sanções, que restringe apenas ao infrator as restrições impostas pelo descumprimento
-    da lei, deixando, assim, de prejudicar os demais órgãos que cuidaram de observar as
-    normas pertinentes.
-    
-               Com efeito, o desequilíbrio de outros poderes ou órgãos dotados de autonomia
-    administrativa e orçamentária não pode ensejar punição à Defensoria Pública, pois esta não
-    tem ingerência sobre as decisões tomadas em outras searas, não tendo contribuído com a
-    ocorrência de irregularidades e nem possuindo competência para saná-las, razão pela qual
-    também não pode ser responsabilizada.
-    
-    
-    
-               O parecer ministerial se posicionou no sentido de acompanhar as conclusões da
-    DFAE, sugerindo que a consulta seja respondida nos termos acima.
-                                                                                               3
-    
+[Nota editorial de apresentação: brasão estadual colorido à esquerda e logomarca do Tribunal à direita do cabeçalho. Texto institucional em tipo romano, sem negrito adicional. Desenhos não reproduzidos neste Markdown.]
+
+Estado do Piauí\
+Tribunal de Contas\
+Gabinete Cons. Abelardo Vilanova\
+Processo TC nº 001087/2015
+
+Cumpre esclarecer, entretanto, que diante de um aparente conflito normativo\
+envolvendo a legislação infraconstitucional, no caso representada pela Lei Complementar\
+101/2000, e a Constituição Federal, esta última sempre deve prevalecer, haja vista estar no\
+topo da pirâmide normativa, sobrepondo-se de forma absoluta a todas as outras espécies\
+normativas, mesmo porque todas estas têm como fundamento de validade a própria Carta\
+Magna.
+
+Outrossim, convém mencionar que das alterações implantadas com o advento
+das Emendas Constitucionais 45/2004, 74/2013 e 80/2013, extraem-se normas de eficácia
+plena e aplicabilidade imediata, não dependendo de regulamentação infraconstitucional para
+que produzam efeitos, conforme tem decido reiteradamente o Excelso Supremo Tribunal
+Federal.
+
+Destarte, ainda que o legislador infraconstitucional tenha se mantido inerte em
+relação ao dever de adequar as leis aos novos ditames constitucionais, certo é que não há
+óbice à aplicabilidade direta e imediata das alterações provenientes das Emendas preditas,
+pois, conforme colacionado acima, trata-se de preceito constitucional de eficácia plena.
+
+Sendo assim, é tida como inconstitucional qualquer norma ou ato que disponha
+em sentido contrário ao disposto no artigo 134 da Constituição Federal, de sorte que,
+mesmo não havendo previsão legal de limite próprio para as despesas com pessoal da
+Defensoria Pública, não se pode incluí-la como órgão do Poder Executivo e, menos ainda,
+vinculá-la a alguma Secretaria de Estado, sendo dever do gestor garantir o orçamento
+próprio à instituição e compilá-lo nos moldes em que for enviado.
+
+Nesse sentido, o Pretório Excelso vem adotando a teoria da intranscendência
+das sanções, que restringe apenas ao infrator as restrições impostas pelo descumprimento
+da lei, deixando, assim, de prejudicar os demais órgãos que cuidaram de observar as
+normas pertinentes.
+
+Com efeito, o desequilíbrio de outros poderes ou órgãos dotados de autonomia
+administrativa e orçamentária não pode ensejar punição à Defensoria Pública, pois esta não
+tem ingerência sobre as decisões tomadas em outras searas, não tendo contribuído com a
+ocorrência de irregularidades e nem possuindo competência para saná-las, razão pela qual
+também não pode ser responsabilizada.
+
+O parecer ministerial se posicionou no sentido de acompanhar as conclusões da
+DFAE, sugerindo que a consulta seja respondida nos termos acima.
+
+3
 
 #### Página 4 do PDF oficial
 
-                                  Estado do Piauí
-                                  Tribunal de Contas
-                                  Gabinete Cons. Abelardo Vilanova
-                                                    Processo TC nº 001087/2015
-    
-           3 VOTO
-    
-                        Diante de todo o exposto, voto, concordando com a manifestação do Ministério
-           Público de Contas, pelo conhecimento da presente consulta e, no mérito, pela resposta à
-           consulente nos termos da manifestação da DFAE e do parecer ministerial, por entender que
-           materializam a compreensão e o posicionamento do TCE/PI acerca da consulta nos termos
-           em que foi formulada.
-    
-                        Voto, ainda, pelo encaminhamento à consulente de cópias da informação da
-           DFAE, do parecer do Ministério Público de Contas e do acórdão do Plenário desta Corte.
-    
-                                              Teresina, 16 de abril de 2015.
-    
-    
-    
-                                      Cons. ABELARDO PIO VILANOVA E SILVA
-                                                    Relator
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 24/04/2015 09:20:19
-    
-    
-    
-    
-                                                                                                                 4
-    
+[Nota editorial de apresentação: brasão estadual colorido à esquerda e logomarca do Tribunal à direita do cabeçalho. Texto institucional em tipo romano, sem negrito adicional. Desenhos não reproduzidos neste Markdown.]
+
+[Nota editorial de apresentação: rodapé e-TCE com prefixo em itálico e sequência de nome/data em negrito. Ocultação pessoal preexistente preservada. A inscrição visível não certifica assinatura ou autenticidade.]
+
+Estado do Piauí\
+Tribunal de Contas\
+Gabinete Cons. Abelardo Vilanova\
+Processo TC nº 001087/2015
+
+**3 VOTO**
+
+Diante de todo o exposto, voto, concordando com a manifestação do Ministério\
+Público de Contas, pelo conhecimento da presente consulta e, no mérito, pela resposta à\
+consulente nos termos da manifestação da DFAE e do parecer ministerial, por entender que\
+materializam a compreensão e o posicionamento do TCE/PI acerca da consulta nos termos\
+em que foi formulada.
+
+Voto, ainda, pelo encaminhamento à consulente de cópias da informação da
+DFAE, do parecer do Ministério Público de Contas e do acórdão do Plenário desta Corte.
+
+Teresina, 16 de abril de 2015.
+
+Cons. **ABELARDO PIO VILANOVA E SILVA**
+Relator
+
+*Assinado Digitalmente pelo sistema e-TCE -* **ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 24/04/2015 09:20:19**
+
+
+4
 
 ### Documento vinculado pela fonte
 

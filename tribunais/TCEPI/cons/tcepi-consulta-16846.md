@@ -22,112 +22,113 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                    Estado do Piauí
-                    Tribunal de Contas
-    
-                                                    Gabinete Conselheira Waltânia Alvarenga
-                                                                  ACÓRDÃO Nº 674/2016
-    
-                                   ACÓRDÃO Nº 674/2016
-    
-    PROCESSO: TC/017.166/2015
-    ASSUNTO: CONSULTA
-    INTERESSADO: CÂMARA MUNICIPAL DE TERESINA
-    PROCURADOR: JOSÉ ARAÚJO PINHEIRO JÚNIOR
-    RELATOR(A): CONSª WALTÂNIA MARIA NOGUEIRA DE SOUSA L. ALVARENGA
-    
-    
-    
-                              SUMÁRIO: CONSULTA. CÂMARA MUNICIPAL DE TERESINA.
-                              REAJUSTAMENTO DOS CONTRATOS ADMINISTRATIVOS DE
-                              SERVIÇOS CONTÍNUOS. APLICAÇÃO DE NORMATIVOS
-                              FEDERAIS NA REPACTUAÇÃO. POSSIBILIDADE COMO
-                              PARÂMETROS. TERMO INICIAL PARA CONTAGEM DO PRAZO
-                              DE UM ANO. A PARTIR DA APRESENTAÇÃO DA PROPOSTA
-                              OU DO ORÇAMENTO CONFORME DEFINIDO NO EDITAL.
-                              CONHECIMENTO.
-    
-    
-    
-    
-          Visto, relatado e discutido o presente processo que trata de Consulta formulada
-    a este Tribunal pelo Sr. Luiz Gonzaga Lobão Castelo Branco, Presidente da Câmara
-    Municipal de Teresina, apresentando questionamentos acerca da repactuação de
-    contrato administrativo que tem como objeto a prestação de serviços de natureza
-    continuada. Considerando a informação da Comissão de Regimento e Jurisprudência
-    – CRJ (peça nº 4), o parecer técnico da II Divisão da Diretoria de Fiscalização da
-    Administração Municipal - DFAM (peça 6), o parecer do Ministério Público de Contas
-    (peça nº 8) e o mais que dos autos consta, decidiu o Plenário, unânime, conhecer da
-    presente Consulta, e, quanto ao mérito, concordando em parte com o parecer emitido
-    pela DFAM, responder ao Consulente, conforme o voto do Relator (peça nº 11) nos
-    seguintes termos: a) em que pese a Lei nº 8.666/93 não tratar de forma expressa da
-    repactuação dos contratos, a normativa federal disposta no Decreto nº 2.271/97 e na
-    Instrução Normativa SLTI/MPGO nº 02/2008 – que disciplina as condições da
-    repactuação - poderá ser utilizada como parâmetro para solução administrativa da
-    Câmara Municipal de Teresina; b) quanto ao prazo para a repactuação, deve ser
-    observado o lapso temporal mínimo de 01 (um) ano para sua realização, e dessa
-    forma, o termo inicial de apuração da variação efetiva do custo de produção é a data
-    da apresentação da proposta ou do orçamento a que esta proposta se referir, nos
-    termos do art. 40, XI, da Lei de Licitações e Contratos; c) em se tratando de contratos
-    de prestação de serviços, em que normalmente o principal custo do contratado é com
-    sua mão de obra, a expressão “orçamento a que esta proposta se referir” pode ser
-    adequadamente interpretada como a data-base para a respectiva categoria, em que
-                                                                                         1
-    TC/017166/2015 – DENÚNCIA – Câmara Municipal de Teresina.
-    
+[Nota editorial de apresentação: brasão estadual colorido à esquerda e logomarca do Tribunal à direita do cabeçalho. Texto institucional em tipo romano, sem negrito adicional. Desenhos não reproduzidos neste Markdown.]
+
+[Nota editorial de apresentação: nome do gabinete em azul escuro e faixa azul-clara delimitada por linhas sob o cabeçalho, com o título do acórdão à direita.]
+
+[Nota editorial de apresentação: rodapé separado por linha horizontal; mantida a inscrição DENÚNCIA, divergente de CONSULTA no corpo.]
+
+Estado do Piauí\
+Tribunal de Contas
+
+**Gabinete Conselheira Waltânia Alvarenga**\
+**ACÓRDÃO Nº 674/2016**
+
+**ACÓRDÃO Nº 674/2016**
+
+**PROCESSO: TC/017.166/2015**\
+**ASSUNTO: CONSULTA**\
+**INTERESSADO: CÂMARA MUNICIPAL DE TERESINA**\
+**PROCURADOR: JOSÉ ARAÚJO PINHEIRO JÚNIOR**\
+**RELATOR(A): CONSª WALTÂNIA MARIA NOGUEIRA DE SOUSA L. ALVARENGA**
+
+**SUMÁRIO:** CONSULTA. CÂMARA MUNICIPAL DE TERESINA.
+REAJUSTAMENTO DOS CONTRATOS ADMINISTRATIVOS DE
+SERVIÇOS CONTÍNUOS. APLICAÇÃO DE NORMATIVOS
+FEDERAIS NA REPACTUAÇÃO. POSSIBILIDADE COMO
+PARÂMETROS. TERMO INICIAL PARA CONTAGEM DO PRAZO
+DE UM ANO. A PARTIR DA APRESENTAÇÃO DA PROPOSTA
+OU DO ORÇAMENTO CONFORME DEFINIDO NO EDITAL.
+CONHECIMENTO.
+
+Visto, relatado e discutido o presente processo que trata de Consulta formulada
+a este Tribunal pelo Sr. Luiz Gonzaga Lobão Castelo Branco, Presidente da Câmara
+Municipal de Teresina, apresentando questionamentos acerca da repactuação de
+contrato administrativo que tem como objeto a prestação de serviços de natureza
+continuada. Considerando a informação da Comissão de Regimento e Jurisprudência
+– CRJ (peça nº 4), o parecer técnico da II Divisão da Diretoria de Fiscalização da
+Administração Municipal - DFAM (peça 6), o parecer do Ministério Público de Contas
+(peça nº 8) e o mais que dos autos consta, decidiu o Plenário, unânime, conhecer da
+presente Consulta, e, quanto ao mérito, concordando em parte com o parecer emitido
+pela DFAM, responder ao Consulente, conforme o voto do Relator (peça nº 11) nos
+seguintes termos: a) em que pese a Lei nº 8.666/93 não tratar de forma expressa da
+repactuação dos contratos, a normativa federal disposta no Decreto nº 2.271/97 e na
+Instrução Normativa SLTI/MPGO nº 02/2008 – que disciplina as condições da
+repactuação - poderá ser utilizada como parâmetro para solução administrativa da
+Câmara Municipal de Teresina; b) quanto ao prazo para a repactuação, deve ser
+observado o lapso temporal mínimo de 01 (um) ano para sua realização, e dessa
+forma, o termo inicial de apuração da variação efetiva do custo de produção é a data
+da apresentação da proposta ou do orçamento a que esta proposta se referir, nos
+termos do art. 40, XI, da Lei de Licitações e Contratos; c) em se tratando de contratos
+de prestação de serviços, em que normalmente o principal custo do contratado é com
+sua mão de obra, a expressão “orçamento a que esta proposta se referir” pode ser
+adequadamente interpretada como a data-base para a respectiva categoria, em que
+
+1
+TC/017166/2015 – DENÚNCIA – Câmara Municipal de Teresina.
 
 #### Página 2 do PDF oficial
 
-                             Estado do Piauí
-                             Tribunal de Contas
-    
-                                                                Gabinete Conselheira Waltânia Alvarenga
-                                                                                  ACÓRDÃO Nº 674/2016
-    
-           deve ocorrer acordo, dissídio ou convenção coletiva, desde que haja previsão
-           expressa no edital. Caso o edital assim não preveja, o termo inicial deve ser a data
-           prevista para apresentação da proposta, nos termos do disposto no art. 40, inciso XI
-           da Lei nº 8.666/93
-    
-                 Presentes: Cons. Luciano Nunes Santos (Presidente), Abelardo Pio Vilanova e
-           Silva, Joaquim Kennedy Nogueira Barros, Lilian de Almeida Veloso Nunes Martins e
-           os Cons. Substitutos Jaylson Fabianh Lopes Campelo, em substituição à Consª.
-           Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de férias), Jackson
-           Nobre Veras, convocado para substituir o Cons. Kleber Dantas Eulálio (ausente por
-           motivo justificado) e Alisson Felipe de Araújo, em substituição ao Cons. Olavo Rebêlo
-           de Carvalho Filho (em gozo de férias).
-    
-               Representante do Ministério Público de Contas: Procurador-Geral Márcio
-           André Madeira de Vasconcelos.
-    
-                 Transcreva-se, publique-se e cumpra-se.
-    
-                 Sessão Plenária nº 007, em Teresina, 10 de março de 2016.
-    
-    
-    
-    
-        (Assinado digitalmente)
-        Conselheiro Luciano Nunes Santos                                                       Presidente
-    
-    
-        (Assinado digitalmente)
-        Conselheiro Substituto Jaylson Fabianh Lopes Campelo                            Relator Substituto
-    
-    
-        (Assinado digitalmente)
-        Fui presente,
-        Procurador-Geral Márcio André Madeira de Vasconcelos                        Representante do MPC
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 21/03/2016 08:38:42
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 21/03/2016 08:03:39
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 22/03/2016 08:16:20
-                                                                                                               2
-           TC/017166/2015 – DENÚNCIA – Câmara Municipal de Teresina.
-    
+[Nota editorial de apresentação: brasão estadual colorido à esquerda e logomarca do Tribunal à direita do cabeçalho. Texto institucional em tipo romano, sem negrito adicional. Desenhos não reproduzidos neste Markdown.]
+
+[Nota editorial de apresentação: nome do gabinete em azul escuro e faixa azul-clara delimitada por linhas sob o cabeçalho, com o título do acórdão à direita.]
+
+[Nota editorial de apresentação: rodapé e-TCE com prefixo em itálico e sequência de nome/data em negrito. Ocultação pessoal preexistente preservada. A inscrição visível não certifica assinatura ou autenticidade.]
+
+[Nota editorial de apresentação: rodapé separado por linha horizontal; mantida a inscrição DENÚNCIA, divergente de CONSULTA no corpo.]
+
+Estado do Piauí\
+Tribunal de Contas
+
+**Gabinete Conselheira Waltânia Alvarenga**\
+**ACÓRDÃO Nº 674/2016**
+
+deve ocorrer acordo, dissídio ou convenção coletiva, desde que haja previsão\
+expressa no edital. Caso o edital assim não preveja, o termo inicial deve ser a data\
+prevista para apresentação da proposta, nos termos do disposto no art. 40, inciso XI\
+da Lei nº 8.666/93
+
+**Presentes:** Cons. Luciano Nunes Santos (Presidente), Abelardo Pio Vilanova e\
+Silva, Joaquim Kennedy Nogueira Barros, Lilian de Almeida Veloso Nunes Martins e
+os Cons. Substitutos Jaylson Fabianh Lopes Campelo, em substituição à Consª.
+Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de férias), Jackson
+Nobre Veras, convocado para substituir o Cons. Kleber Dantas Eulálio (ausente por
+motivo justificado) e Alisson Felipe de Araújo, em substituição ao Cons. Olavo Rebêlo
+de Carvalho Filho (em gozo de férias).
+
+**Representante do Ministério Público de Contas:** Procurador-Geral Márcio
+André Madeira de Vasconcelos.
+
+Transcreva-se, publique-se e cumpra-se.
+
+Sessão Plenária nº 007, em Teresina, 10 de março de 2016.
+
+*(Assinado digitalmente)*\
+Conselheiro Luciano Nunes Santos Presidente
+
+*(Assinado digitalmente)*\
+Conselheiro Substituto Jaylson Fabianh Lopes Campelo Relator Substituto
+
+*(Assinado digitalmente)*\
+Fui presente,
+Procurador-Geral Márcio André Madeira de Vasconcelos Representante do MPC
+
+*Assinado Digitalmente pelo sistema e-TCE -* **LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 21/03/2016 08:38:42**\
+*Assinado Digitalmente pelo sistema e-TCE -* **JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 21/03/2016 08:03:39**\
+*Assinado Digitalmente pelo sistema e-TCE -* **MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 22/03/2016 08:16:20**\
+
+2
+TC/017166/2015 – DENÚNCIA – Câmara Municipal de Teresina.
 
 ### Documento vinculado pela fonte
 

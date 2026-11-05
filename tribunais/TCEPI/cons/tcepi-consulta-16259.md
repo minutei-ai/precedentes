@@ -22,116 +22,112 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                      ESTADO DO PIAUÍ
-                      TRIBUNAL DE CONTAS
-    
-                                          ACÓRDÃO Nº 1.153/2014
-    
-    PROCESSO TC Nº 010.574/14
-    DECISÃO Nº 889/14 (Extra-Pauta)
-    SESSÃO PLENÁRIA ORDINÁRIA Nº 033
-    ASSUNTO: Consulta - Associação Piauiense dos Prefeitos Municipais.
-    Objeto: Cômputo das despesas decorrentes de programas federais no cálculo do limite de
-    despesas de pessoal.
-    RELATOR: Cons. Anfrísio Neto Lobão Castelo Branco
-    CONSULENTE: Arinaldo Antônio Leal – Presidente da APPM.
-    
-                                          Consulta Associação Piauiense dos Prefeitos Municipais.
-                                          Pelo conhecimento da presente consulta para, no mérito,
-                                          respondê-la nos termos do voto do Relator (peça nº 11).
-                                          Decisão Unânime.
-    
-    Visto e relatado o presente processo, na fase de discussão, inicialmente, manifestou-se o procurador
-    da APPM, João Deusdete de Carvalho (OAB nº 195-A/PI), no sentido de que os prefeitos não
-    desejam modificar ou descumprir a Lei de Responsabilidade Fiscal, mas buscar uma interpretação
-    que permita equacionar uma situação recorrente em todo o Brasil, de impossibilidade matemática de
-    os Municípios observarem o limite legal, em razão dos recursos repassados pelo Governo Federal,
-    especialmente na área da saúde. Ressaltou o procurador que se deseja incluir as despesas de
-    pessoal, levadas a efeito com esses programas, numa rubrica diferenciada, e não as excluir do
-    cálculo, tendo sido esta a interpretação dada pelo TCE/PR e TCE/MG. Por fim, argumentou que a Lei
-    de Responsabilidade Fiscal não surgiu para penalizar os prefeitos, nem para impossibilitar o
-    cumprimento dos programas federais, todavia, a situação atual os coloca diante de um dilema: não
-    aceitar os recursos federais e deixar de ter programas essenciais à saúde da população, ou aceitá-los
-    e não atender o limite de despesas de pessoal, sofrendo uma série de ações por parte do Ministério
-    Público. Em seguida, foi passada a palavra ao assessor da APPM, Daniel da Silveira Martins, que
-    solicitou ao TCE/PI uma interpretação razoável, no sentido de que as despesas em questão sejam
-    empenhadas de maneira diferente, alocadas na rubrica Outras despesas de terceiro – pessoa física.
-    Argumentou o assessor que está sendo solicitada apenas a retirada das despesas, mas não das
-    receitas, pois a definição da receita corrente líquida na Lei de Responsabilidade Fiscal é clara e não
-    dá margem a outra interpretação, não ocorrendo o mesmo quanto às despesas. Franqueada a
-    palavra ao representante do Ministério Público de Contas, manifestou-se o Procurador-Geral no
-    sentido de que a APPM deseja alocar as despesas em questão na rubrica Outros serviços de terceiro
-    – pessoa física, todavia, conforme o conceito de tal rubrica, previsto pela Portaria STN nº 163/01, ela
-    refere-se a profissionais que prestam serviços sem vínculo empregatício, sendo necessário, portanto,
-    verificar como os profissionais são contratados pelo Município. Salientou o Procurador-Geral que as
-    despesas com agentes de saúde e agentes de endemias, contratados de maneira permanente, não
-    poderiam ser enquadradas na referida rubrica. Asseverou que outros Tribunais de Contas deram uma
-    interpretação extensiva à Portaria STN nº 163/01, mas que o MPC filia-se a uma interpretação
-    restritiva, tal como a seguida pelos TCE/PE e TCE/ES. Afirmou que, como o TCE/PI está analisando
-    a situação em tese, em sede de consulta, entende não ser possível atender ao pleito, todavia, em
-    cada caso concreto, caso o limite seja ultrapassado, o TCE deverá verificar se o descumprimento
-    decorreu das despesas com os programas federais e se todas as condições apontadas pelo parecer
-    ministerial foram atendidas. Por fim, quanto à exclusão apenas das despesas e não das receitas, o
-    representante do MPC manifestou-se pela impossibilidade, em razão do princípio das partidas
-    dobradas e do princípio do orçamento bruto, reiterando o parecer escrito juntado aos autos, que
-    acompanhou o entendimento da DFAM. Encerrada a discussão, decidiu o Plenário, por
-    unanimidade, em concordância com o MPC, pelo conhecimento da presente consulta para, no
-    mérito, respondê-la nos termos do voto do Relator (peça nº 11): a) Pela impossibilidade de
-    exclusão dos gastos com programas federais do cálculo do índice de despesas com pessoal do
-    Poder Executivo Municipal, previsto na Lei de Responsabilidade Fiscal; b) Não reprovar as contas de
-    governo sob a alegação de que o índice de pessoal do Poder Executivo Municipal, previsto na LRF,
-    foi descumprido, quando for observado que o gestor atendeu às seguintes situações: demonstração
-    
+[Nota editorial de apresentação: brasão colorido do Estado do Piauí à esquerda do cabeçalho; títulos institucionais em negrito. O desenho não é reproduzido neste Markdown.]
+
+**ESTADO DO PIAUÍ**\
+**TRIBUNAL DE CONTAS**
+
+**ACÓRDÃO Nº 1.153/2014**
+
+**PROCESSO TC Nº 010.574/14\
+DECISÃO Nº 889/14 *(Extra-Pauta)*\
+SESSÃO PLENÁRIA ORDINÁRIA Nº 033\
+ASSUNTO: Consulta - Associação Piauiense dos Prefeitos Municipais.\
+Objeto: Cômputo das despesas decorrentes de programas federais no cálculo do limite de\
+despesas de pessoal.\
+RELATOR: Cons. Anfrísio Neto Lobão Castelo Branco\
+CONSULENTE: Arinaldo Antônio Leal – Presidente da APPM.**
+
+***Consulta Associação Piauiense dos Prefeitos Municipais.
+Pelo **conhecimento** da presente consulta para, no mérito,
+respondê-la nos termos do voto do Relator (peça nº 11).
+Decisão Unânime.***
+
+Visto e relatado o presente processo, na fase de discussão, inicialmente, manifestou-se o procurador
+da APPM, João Deusdete de Carvalho (OAB nº 195-A/PI), no sentido de que os prefeitos não
+desejam modificar ou descumprir a Lei de Responsabilidade Fiscal, mas buscar uma interpretação
+que permita equacionar uma situação recorrente em todo o Brasil, de impossibilidade matemática de
+os Municípios observarem o limite legal, em razão dos recursos repassados pelo Governo Federal,
+especialmente na área da saúde. Ressaltou o procurador que se deseja incluir as despesas de
+pessoal, levadas a efeito com esses programas, numa rubrica diferenciada, e não as excluir do
+cálculo, tendo sido esta a interpretação dada pelo TCE/PR e TCE/MG. Por fim, argumentou que a Lei
+de Responsabilidade Fiscal não surgiu para penalizar os prefeitos, nem para impossibilitar o
+cumprimento dos programas federais, todavia, a situação atual os coloca diante de um dilema: não
+aceitar os recursos federais e deixar de ter programas essenciais à saúde da população, ou aceitá-los
+e não atender o limite de despesas de pessoal, sofrendo uma série de ações por parte do Ministério
+Público. Em seguida, foi passada a palavra ao assessor da APPM, Daniel da Silveira Martins, que
+solicitou ao TCE/PI uma interpretação razoável, no sentido de que as despesas em questão sejam
+empenhadas de maneira diferente, alocadas na rubrica Outras despesas de terceiro – pessoa física.
+Argumentou o assessor que está sendo solicitada apenas a retirada das despesas, mas não das
+receitas, pois a definição da receita corrente líquida na Lei de Responsabilidade Fiscal é clara e não
+dá margem a outra interpretação, não ocorrendo o mesmo quanto às despesas. Franqueada a
+palavra ao representante do Ministério Público de Contas, manifestou-se o Procurador-Geral no
+sentido de que a APPM deseja alocar as despesas em questão na rubrica Outros serviços de terceiro
+– pessoa física, todavia, conforme o conceito de tal rubrica, previsto pela Portaria STN nº 163/01, ela
+refere-se a profissionais que prestam serviços sem vínculo empregatício, sendo necessário, portanto,
+verificar como os profissionais são contratados pelo Município. Salientou o Procurador-Geral que as
+despesas com agentes de saúde e agentes de endemias, contratados de maneira permanente, não
+poderiam ser enquadradas na referida rubrica. Asseverou que outros Tribunais de Contas deram uma
+interpretação extensiva à Portaria STN nº 163/01, mas que o MPC filia-se a uma interpretação
+restritiva, tal como a seguida pelos TCE/PE e TCE/ES. Afirmou que, como o TCE/PI está analisando
+a situação em tese, em sede de consulta, entende não ser possível atender ao pleito, todavia, em
+cada caso concreto, caso o limite seja ultrapassado, o TCE deverá verificar se o descumprimento
+decorreu das despesas com os programas federais e se todas as condições apontadas pelo parecer
+ministerial foram atendidas. Por fim, quanto à exclusão apenas das despesas e não das receitas, o
+representante do MPC manifestou-se pela impossibilidade, em razão do princípio das partidas
+dobradas e do princípio do orçamento bruto, reiterando o parecer escrito juntado aos autos, que
+acompanhou o entendimento da DFAM. Encerrada a discussão, **decidiu o Plenário, por
+unanimidade**, em concordância com o MPC, pelo conhecimento da presente consulta para, no
+mérito, **respondê-la nos termos do voto do Relator (peça nº 11)**: a) Pela impossibilidade de
+exclusão dos gastos com programas federais do cálculo do índice de despesas com pessoal do
+Poder Executivo Municipal, previsto na Lei de Responsabilidade Fiscal; b) Não reprovar as contas de
+governo sob a alegação de que o índice de pessoal do Poder Executivo Municipal, previsto na LRF,
+foi descumprido, quando for observado que o gestor atendeu às seguintes situações: demonstração
 
 #### Página 2 do PDF oficial
 
-                            ESTADO DO PIAUÍ
-                            TRIBUNAL DE CONTAS
-    
-                                           ACÓRDÃO Nº 1.153/2014 (fls. 02)
-    
-    
-           cabal de que o índice da despesa de pessoal foi cumprido com a exclusão dos recursos transferidos
-           pelo governo federal para o custeio dos programas com a saúde da apuração da Receita Corrente
-           Líquida e com a retirada dos gastos com os profissionais de saúde custeados por programas federais
-           da despesa de pessoal; demonstração de que foram adotadas todas as providências da Constituição
-           Federal e da Lei de Responsabilidade Fiscal para reduzir a despesa com pessoal; demonstração de
-           que foram adotadas todas as providências cabíveis para otimizar a receita própria do município,
-           demonstração de que, no período em que o índice foi descumprido, o gestor não contratou servidores
-           comissionados ou realizou terceirização ilícita.
-    
-           Presentes os Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga (Presidente), Luciano Nunes
-           Santos, Anfrísio Neto Lobão Castelo Branco, Abelardo Pio Vilanova e Silva, Joaquim Kennedy
-           Nogueira Barros, Olavo Rebêlo de Carvalho Filho, Lilian de Almeida Veloso Nunes Martins e Jackson
-           Nobre Veras.
-    
-           Representante do Ministério Público de Contas presente: Procurador-Geral Márcio André Madeira
-           de Vasconcelos.
-    
-           Publique-se, Cumpra-se e Encaminhe-se.
-    
-           Sessão Plenária Ordinária do Tribunal de Contas do Estado do Piauí, em Teresina, 11 de setembro
-           de 2014.
-    
-    
-    
-           Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga               Presidente
-    
-    
-    
-           Cons. Anfrísio Neto Lobão Castelo Branco                            Relator
-    
-    
-    
-           Fui presente: Márcio André Madeira de Vasconcelos                   Procurador-Geral MPC
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - ANFRISIO NETO LOBAO CASTELO BRANCO: [identificador e-TCE ocultado] - 29/09/2014 11:19:24
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 29/09/2014 12:54:16
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 20/10/2014 09
-    
+[Nota editorial de apresentação: brasão colorido do Estado do Piauí à esquerda do cabeçalho; títulos institucionais em negrito. O desenho não é reproduzido neste Markdown.]
+
+[Nota editorial de apresentação: rodapé e-TCE com prefixo em itálico e sequência de nome/data em negrito. Ocultação pessoal preexistente preservada. A inscrição visível não certifica assinatura ou autenticidade.]
+
+[Nota editorial de apresentação: última linha e-TCE cortada na borda direita após “09”; não se completa a data/hora.]
+
+**ESTADO DO PIAUÍ**\
+**TRIBUNAL DE CONTAS**
+
+**ACÓRDÃO Nº 1.153/2014 (fls. 02)**
+
+cabal de que o índice da despesa de pessoal foi cumprido com a exclusão dos recursos transferidos\
+pelo governo federal para o custeio dos programas com a saúde da apuração da Receita Corrente\
+Líquida e com a retirada dos gastos com os profissionais de saúde custeados por programas federais\
+da despesa de pessoal; demonstração de que foram adotadas todas as providências da Constituição\
+Federal e da Lei de Responsabilidade Fiscal para reduzir a despesa com pessoal; demonstração de\
+que foram adotadas todas as providências cabíveis para otimizar a receita própria do município,\
+demonstração de que, no período em que o índice foi descumprido, o gestor não contratou servidores\
+comissionados ou realizou terceirização ilícita.
+
+**Presentes** os Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga (Presidente), Luciano Nunes
+Santos, Anfrísio Neto Lobão Castelo Branco, Abelardo Pio Vilanova e Silva, Joaquim Kennedy
+Nogueira Barros, Olavo Rebêlo de Carvalho Filho, Lilian de Almeida Veloso Nunes Martins e Jackson
+Nobre Veras.
+
+**Representante do Ministério Público de Contas presente**: Procurador-Geral Márcio André Madeira
+de Vasconcelos.
+
+Publique-se, Cumpra-se e Encaminhe-se.
+
+Sessão Plenária Ordinária do Tribunal de Contas do Estado do Piauí, em Teresina, 11 de setembro
+de 2014.
+
+Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga Presidente
+
+Cons. Anfrísio Neto Lobão Castelo Branco Relator
+
+Fui presente: Márcio André Madeira de Vasconcelos Procurador-Geral MPC
+
+*Assinado Digitalmente pelo sistema e-TCE -* **ANFRISIO NETO LOBAO CASTELO BRANCO: [identificador e-TCE ocultado] - 29/09/2014 11:19:24**\
+*Assinado Digitalmente pelo sistema e-TCE -* **MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 29/09/2014 12:54:16**\
+*Assinado Digitalmente pelo sistema e-TCE -* **WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 20/10/2014 09**
 
 ### Documento vinculado pela fonte
 

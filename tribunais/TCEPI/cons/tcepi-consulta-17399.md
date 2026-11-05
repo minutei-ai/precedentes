@@ -22,115 +22,107 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                            Estado do Piauí
-                            Tribunal de Contas
-                            Gabinete do Conselheiro Substituto
-                            Jackson Nobre Veras
-    
-                                              ACÓRDÃO Nº 193/2018
-    
-    
-    PROCESSO TC/016594/2017
-    DECISÃO Nº 189/18
-    ASSUNTO: CONSULTA – CÂMARA MUNICIPAL DE BURITI DOS LOPES - OBJETO: POSICIONAMENTO
-    DESTA CORTE ACERCA DA RESPONSABILIDADE PELO PAGAMENTO DO SUBSÍDIO DE VEREADOR,
-    NO EXERCÍCIO DO CARGO DE SECRETÁRIO MUNICIPAL, QUE OPTE, COM FUNDAMENTO EM LEI
-    MUNICIPAL, PELA REMUNERAÇÃO DO MANDATO ELETIVO.
-    CONSULENTE: JAQUELINE GONÇALVES CARVALHO DE BRITO - PRESIDENTE.
-    RELATOR: CONSELHEIRO SUBSTITUTO JACKSON NOBRE VERAS
-    PROCURADOR: MÁRCIO ANDRÉ MADEIRA DE VASCONCELOS
-    
-    
-    
-                                                           EMENTA: CONSULTA. CÂMARA MUNICIPAL.
-                                                           PESSOAL.
-                                                           1. Cabe à Lei Orgânica Municipal dispor sobre o
-                                                              ônus do pagamento de vereador licenciado. Em
-                                                              havendo omissão legal sobre o tema, cabe à
-                                                              Câmara Municipal o ônus pelo pagamento da
-                                                              remuneração do Vereador licenciado que optar
-                                                              pelo subsídio do mandato eletivo, conforme
-                                                              entendimento desta Corte de Contas (Resolução
-                                                              TCE/PI nº 484/2005).
-    
-                                                           Sumário: Consulta – Câmara Municipal de Buriti dos
-                                                           Lopes. Exercício Financeiro 2016. Conhecimento.
-                                                           Procedência.
-    
-    
-    
-    Retornam os autos ao Plenário para continuidade do julgamento, com a colheita dos votos remanescentes do
-    Cons. Luciano Nunes Santos e do Cons. Substituto Alisson Felipe de Araújo, após vista ao Cons. Substituto
-    Alisson Felipe de Araújo, nos termos da Decisão Nº 1.729/17 - A (peça nº 12), e em se considerando a Decisão
-    Nº 110/18 - A (peça nº 16). Colhidos os votos do Cons. Luciano Nunes Santos e do Cons. Substituto Alisson
-    Felipe de Araújo, que acompanharam o voto do Relator (peça nº 11), e computados com os demais votos já
-    proferidos, foi concluído o julgamento conforme se segue.
-    
-    
-    Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ (peça nº 4), o parecer da
-    II Divisão Técnica/DFAM (peça nº 5), o parecer do Ministério Público de Contas (peça nº 8), e o mais que dos
-    autos consta, decidiu o Plenário, unânime, em consonância com o parecer ministerial, pelo conhecimento da
-    presente Consulta, e no mérito, respondê-la, aderindo ao posicionamento exarado pelo Ministério Público de
-    Contas, em conformidade e pelos fundamentos expostos na proposta de voto do Relator (peça nº 11), nos
-    termos seguintes: a) O ônus do pagamento de vereador licenciado que opte pela remuneração do mandato
-    eletivo cabe ao Poder Legislativo ou Executivo? Cabe à Lei Orgânica Municipal dispor sobre o ônus do
-    pagamento de vereador licenciado. Em havendo omissão legal sobre o tema, cabe à Câmara Municipal o ônus
-    pelo pagamento da remuneração do Vereador licenciado que optar pelo subsídio do mandato eletivo, conforme
-    entendimento desta Corte de Contas (Resolução TCE/PI nº 484/2005); b) Como fica em relação ao gasto com
-    folha de pagamento de no máximo 70% estabelecido no § 1º, art. 29-A da CF, caso seja de competência da
-    Câmara Municipal arcar com a remuneração do vereador licenciado, este valor será computado no referido
-    
+[Nota editorial de apresentação: brasão estadual colorido à esquerda e logomarca do Tribunal à direita do cabeçalho. Texto institucional em tipo romano, sem negrito adicional. Desenhos não reproduzidos neste Markdown.]
+
+Estado do Piauí\
+Tribunal de Contas\
+Gabinete do Conselheiro Substituto\
+Jackson Nobre Veras
+
+**ACÓRDÃO Nº 193/2018**
+
+**PROCESSO TC/016594/2017**\
+**DECISÃO Nº 189/18**\
+**ASSUNTO:** CONSULTA – CÂMARA MUNICIPAL DE BURITI DOS LOPES - OBJETO: POSICIONAMENTO\
+DESTA CORTE ACERCA DA RESPONSABILIDADE PELO PAGAMENTO DO SUBSÍDIO DE VEREADOR,\
+NO EXERCÍCIO DO CARGO DE SECRETÁRIO MUNICIPAL, QUE OPTE, COM FUNDAMENTO EM LEI\
+MUNICIPAL, PELA REMUNERAÇÃO DO MANDATO ELETIVO.
+**CONSULENTE:** JAQUELINE GONÇALVES CARVALHO DE BRITO - PRESIDENTE.
+**RELATOR:** CONSELHEIRO SUBSTITUTO JACKSON NOBRE VERAS
+**PROCURADOR:** MÁRCIO ANDRÉ MADEIRA DE VASCONCELOS
+
+EMENTA: CONSULTA. CÂMARA MUNICIPAL.
+PESSOAL.
+1. Cabe à Lei Orgânica Municipal dispor sobre o
+ônus do pagamento de vereador licenciado. Em
+havendo omissão legal sobre o tema, cabe à
+Câmara Municipal o ônus pelo pagamento da
+remuneração do Vereador licenciado que optar
+pelo subsídio do mandato eletivo, conforme
+entendimento desta Corte de Contas (Resolução
+TCE/PI nº 484/2005).
+
+*Sumário: Consulta – Câmara Municipal de Buriti dos
+Lopes. Exercício Financeiro 2016. Conhecimento.
+Procedência.*
+
+Retornam os autos ao Plenário para continuidade do julgamento, com a colheita dos votos remanescentes do
+Cons. Luciano Nunes Santos e do Cons. Substituto Alisson Felipe de Araújo, após vista ao Cons. Substituto
+Alisson Felipe de Araújo, nos termos da Decisão Nº 1.729/17 - A (peça nº 12), e em se considerando a Decisão
+Nº 110/18 - A (peça nº 16). Colhidos os votos do Cons. Luciano Nunes Santos e do Cons. Substituto Alisson
+Felipe de Araújo, que acompanharam o voto do Relator (peça nº 11), e computados com os demais votos já
+proferidos, foi concluído o julgamento conforme se segue.
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ (peça nº 4), o parecer da
+II Divisão Técnica/DFAM (peça nº 5), o parecer do Ministério Público de Contas (peça nº 8), e o mais que dos
+autos consta, decidiu o Plenário, unânime, em consonância com o parecer ministerial, pelo conhecimento da
+presente Consulta, e no mérito, respondê-la, aderindo ao posicionamento exarado pelo Ministério Público de
+Contas, em conformidade e pelos fundamentos expostos na proposta de voto do Relator (peça nº 11), nos
+termos seguintes: **a)** O ônus do pagamento de vereador licenciado que opte pela remuneração do mandato
+eletivo cabe ao Poder Legislativo ou Executivo? Cabe à Lei Orgânica Municipal dispor sobre o ônus do
+pagamento de vereador licenciado. Em havendo omissão legal sobre o tema, cabe à Câmara Municipal o ônus
+pelo pagamento da remuneração do Vereador licenciado que optar pelo subsídio do mandato eletivo, conforme
+entendimento desta Corte de Contas (Resolução TCE/PI nº 484/2005); **b)** Como fica em relação ao gasto com
+folha de pagamento de no máximo 70% estabelecido no § 1º, art. 29-A da CF, caso seja de competência da
+Câmara Municipal arcar com a remuneração do vereador licenciado, este valor será computado no referido
 
 #### Página 2 do PDF oficial
 
-                                      Estado do Piauí
-                                      Tribunal de Contas
-                                      Gabinete do Conselheiro Substituto
-                                      Jackson Nobre Veras
-           percentual? Caso não haja previsão na Lei Orgânica Municipal transferindo tal ônus para Poder Executivo
-           municipal, a Câmara de Vereadores continuará responsável pelo pagamento do subsídio de vereador, no
-           exercício de cargo de secretário municipal, que opte pela remuneração do mandato eletivo, e, por conseguinte,
-           tais despesas serão levadas em consideração no cálculo dos gastos com pessoal do Poder Legislativo
-           municipal, estipulados tanto no arts. 29 e 29-A, da CF/88, como nos arts. 18 a 20 da LC nº 101/00; c) Em caso
-           de ser responsabilidade do Poder Legislativo continuar pagando a remuneração do vereador licenciado, caberá
-           ao Poder Executivo indenizar a Câmara Municipal com o valor correspondente a remuneração do suplente que
-           ocupar a vaga, haja vista que o titular da vaga estará exercendo atividades do Poder Executivo? Enquanto não
-           houver previsão na legislação municipal transferindo o ônus para o Executivo Municipal, não há que se falar
-           em indenização no que tange aos gastos com o suplente. d) Se o Poder Executivo repassar ao Legislativo
-           como forma de indenização o valor da remuneração do suplente que assumiu a vaga, esse valor será
-           computado no repasse do duodécimo estabelecido no art. 29-A da CF? O presente questionamento resta
-           prejudicado pela resposta anterior, tendo em vista, principalmente, que os atos da Administração Pública estão
-           adstritos à previsão legal. e) Caso o vereador licenciado já tenha assumido o cargo de Secretário Municipal e
-           recebido a remuneração pelo poder Executivo e a competência de pagamento seja do poder Legislativo, como
-           a Câmara deverá proceder em relação ao mês que já foi pago? Enquanto não houver previsão na Lei Orgânica
-           Municipal, transferindo o ônus para o Executivo Municipal, não há que se falar em responsabilidade do referido
-           Poder. Além do mais, caso a Lei Orgânica Municipal venha a ser alterada, o Poder Executivo somente passará
-           a ser responsável pelo pagamento do subsídio do parlamentar municipal, licenciado para o exercício do cargo
-           de Secretário Municipal, após a alteração legislativa, haja vista a impossibilidade de conceder efeitos
-           retroativos a tal norma.
-    
-    
-           Presentes os Cons. Olavo Rebêlo de Carvalho Filho (Presidente), Luciano Nunes Santos, Abelardo Pio
-           Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Lilian
-           de Almeida Veloso Nunes Martins, Kleber Dantas Eulálio e os Cons. Substitutos Jaylson Fabianh Lopes
-           Campelo, Delano Carneiro da Cunha Câmara, Jackson Nobre Veras e Alisson Felipe de Araújo.
-    
-    
-           Representante do Ministério Público de Contas presente: Procurador-Geral Plínio Valente Ramos Neto.
-    
-    
-           Transcreva-se, Publique-se e Cumpra-se.
-    
-           Sessão Plenária Ordinária, em Teresina, 08 de fevereiro de 2018.
-    
-           (assinado digitalmente)
-           Conselheiro Substituto Jackson Nobre Veras                    Relator
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 23/02/2018 14:08:05
-    
+[Nota editorial de apresentação: brasão estadual colorido à esquerda e logomarca do Tribunal à direita do cabeçalho. Texto institucional em tipo romano, sem negrito adicional. Desenhos não reproduzidos neste Markdown.]
+
+[Nota editorial de apresentação: rodapé e-TCE com prefixo em itálico e sequência de nome/data em negrito. Ocultação pessoal preexistente preservada. A inscrição visível não certifica assinatura ou autenticidade.]
+
+Estado do Piauí\
+Tribunal de Contas\
+Gabinete do Conselheiro Substituto\
+Jackson Nobre Veras\
+percentual? Caso não haja previsão na Lei Orgânica Municipal transferindo tal ônus para Poder Executivo\
+municipal, a Câmara de Vereadores continuará responsável pelo pagamento do subsídio de vereador, no\
+exercício de cargo de secretário municipal, que opte pela remuneração do mandato eletivo, e, por conseguinte,\
+tais despesas serão levadas em consideração no cálculo dos gastos com pessoal do Poder Legislativo\
+municipal, estipulados tanto no arts. 29 e 29-A, da CF/88, como nos arts. 18 a 20 da LC nº 101/00; **c)** Em caso\
+de ser responsabilidade do Poder Legislativo continuar pagando a remuneração do vereador licenciado, caberá\
+ao Poder Executivo indenizar a Câmara Municipal com o valor correspondente a remuneração do suplente que\
+ocupar a vaga, haja vista que o titular da vaga estará exercendo atividades do Poder Executivo? Enquanto não\
+houver previsão na legislação municipal transferindo o ônus para o Executivo Municipal, não há que se falar
+em indenização no que tange aos gastos com o suplente. **d)** Se o Poder Executivo repassar ao Legislativo
+como forma de indenização o valor da remuneração do suplente que assumiu a vaga, esse valor será
+computado no repasse do duodécimo estabelecido no art. 29-A da CF? O presente questionamento resta
+prejudicado pela resposta anterior, tendo em vista, principalmente, que os atos da Administração Pública estão
+adstritos à previsão legal. **e)** Caso o vereador licenciado já tenha assumido o cargo de Secretário Municipal e
+recebido a remuneração pelo poder Executivo e a competência de pagamento seja do poder Legislativo, como
+a Câmara deverá proceder em relação ao mês que já foi pago? Enquanto não houver previsão na Lei Orgânica
+Municipal, transferindo o ônus para o Executivo Municipal, não há que se falar em responsabilidade do referido
+Poder. Além do mais, caso a Lei Orgânica Municipal venha a ser alterada, o Poder Executivo somente passará
+a ser responsável pelo pagamento do subsídio do parlamentar municipal, licenciado para o exercício do cargo
+de Secretário Municipal, após a alteração legislativa, haja vista a impossibilidade de conceder efeitos
+retroativos a tal norma.
+
+**Presentes** os Cons. Olavo Rebêlo de Carvalho Filho (Presidente), Luciano Nunes Santos, Abelardo Pio
+Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Lilian
+de Almeida Veloso Nunes Martins, Kleber Dantas Eulálio e os Cons. Substitutos Jaylson Fabianh Lopes
+Campelo, Delano Carneiro da Cunha Câmara, Jackson Nobre Veras e Alisson Felipe de Araújo.
+
+**Representante do Ministério Público de Contas presente**: Procurador-Geral Plínio Valente Ramos Neto.
+
+Transcreva-se, Publique-se e Cumpra-se.
+
+Sessão Plenária Ordinária, em Teresina, 08 de fevereiro de 2018.
+
+*(assinado digitalmente)*\
+**Conselheiro Substituto Jackson Nobre Veras Relator**
+
+*Assinado Digitalmente pelo sistema e-TCE -* **JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 23/02/2018 14:08:05**
 
 ### Documento vinculado pela fonte
 

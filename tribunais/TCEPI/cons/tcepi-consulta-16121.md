@@ -235,98 +235,97 @@ ato e responsabilização do agente que der causa, de cláusula ou condições q
 
 #### Página 3 do PDF oficial
 
-                     Estado do Piauí
-                     Tribunal de Contas
-                     Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-                             IX- a transferência de recursos para clubes, associações de servidores ou quaisquer
-               entidades congêneres, excetuadas creches e escolas para o atendimento pré-escolar; Grifo nosso.
-    
-                Assim, como fulcro na Instrução Normativa Conjunta SEPLAN/SEFAZ/CGE-PI
-    01/2009, esta Diretoria Técnica não se vislumbra a possibilidade da celebração do convênio.
-    Porém, não se deve esquecer que o Ministério Público possui autonomia administrativa,
-    orçamentária e financeira de acordo com os preceitos constitucionais previstos no art. 127, §
-    2º e §3º da CRFB/88:
-    
-                                          Art. 127. O Ministério Público é instituição permanente,
-                                          essencial à função jurisdicional do Estado, incumbindo-lhe a
-                                          defesa da ordem jurídica, do regime democrático e dos
-                                          interesses sociais e individuais indisponíveis.
-                                          § 1º - São princípios institucionais do Ministério Público a
-                                          unidade, a indivisibilidade e a independência funcional.
-                                          § 2º Ao Ministério Público é assegurada autonomia funcional
-                                          e administrativa, podendo, observado o disposto no art. 169,
-                                          propor ao Poder Legislativo a criação e extinção de seus
-                                          cargos e serviços auxiliares, provendo-os por concurso público
-                                          de provas ou de provas e títulos, a política remuneratória e os
-                                          planos de carreira; a lei disporá sobre sua organização e
-                                          funcionamento. (Redação dada pela Emenda Constitucional nº
-                                          19, de 1998)
-                                          § 3º - O Ministério Público elaborará sua proposta
-                                          orçamentária dentro dos limites estabelecidos na lei de
-                                          diretrizes orçamentárias.
-               Deste modo, não corroborando o entendimento exarado pela DFAE e pelo MPC,
-    entende-se que, sob o enfoque do que determina a Lei de Responsabilidade Fiscal, Lei
-    Complementar nº 101/2000 - uma lei de hierárquica superior a Instrução Normativa citada -,
-    é perfeitamente possível a celebração convênio desde que cumpridas as exigências
-    contidas no art. 26, que determina:
-    
-                                          Art. 26. A destinação de recursos para, direta ou indiretamente,
-                                          cobrir necessidades de pessoas físicas ou déficits de pessoas
-                                          jurídicas deverá ser autorizada por lei específica, atender às
-                                          condições estabelecidas na lei de diretrizes orçamentárias e
-                                          estar prevista no orçamento ou em seus créditos adicionais.
-    
-    3 CONCLUSÃO
-    
-               Em face do exposto, conclui que:
-    
-                a) a apreciação dos termos da minuta do pretenso convênio encontra óbice nos
-    art.202 combinado com art. 203 do Regimento Interno do Tribunal de Constas do Estado do
-    Piauí-PI por versar sobre caso concreto.
-    
-               b) no âmbito do Poder Executivo Federal e Estadual não é possível a realização
-    de convênios cujo objeto seja transferência de recursos para clubes, associações de
-    servidores ou quaisquer entidades congêneres, excetuadas creches e escolas para o
-    
-                                                                                                       3
-    
+Estado do Piauí\
+Tribunal de Contas\
+Gab. Cons. Subs. Delano C. da Cunha Câmara\
+
+> *IX- a transferência de recursos para clubes, **associações de servidores ou quaisquer
+> entidades congêneres**, excetuadas creches e escolas para o atendimento pré-escolar; Grifo nosso.*
+
+Assim, como fulcro na Instrução Normativa Conjunta SEPLAN/SEFAZ/CGE-PI
+01/2009, esta Diretoria Técnica não se vislumbra a possibilidade da celebração do convênio.
+Porém, não se deve esquecer que o Ministério Público possui autonomia administrativa,
+orçamentária e financeira de acordo com os preceitos constitucionais previstos no art. 127, §
+2º e §3º da CRFB/88:
+
+> Art. 127. O Ministério Público é instituição permanente,
+> essencial à função jurisdicional do Estado, incumbindo-lhe a
+> defesa da ordem jurídica, do regime democrático e dos
+> interesses sociais e individuais indisponíveis.\
+> § 1º - São princípios institucionais do Ministério Público a
+> unidade, a indivisibilidade e a independência funcional.\
+> § 2º Ao Ministério Público é assegurada **autonomia funcional
+> e administrativa**, podendo, observado o disposto no art. 169,
+> propor ao Poder Legislativo a criação e extinção de seus
+> cargos e serviços auxiliares, provendo-os por concurso público
+> de provas ou de provas e títulos, a política remuneratória e os
+> planos de carreira; a lei disporá sobre sua organização e
+> funcionamento. (Redação dada pela Emenda Constitucional nº
+> 19, de 1998)\
+> § 3º - O Ministério Público elaborará sua **proposta
+> orçamentária dentro dos limites estabelecidos na lei de
+> diretrizes orçamentárias.**
+
+Deste modo, não corroborando o entendimento exarado pela DFAE e pelo MPC,
+entende-se que, sob o enfoque do que determina a Lei de Responsabilidade Fiscal, Lei
+Complementar nº 101/2000 - uma lei de hierárquica superior a Instrução Normativa citada -,
+é perfeitamente possível a celebração convênio desde que cumpridas as exigências
+contidas no art. 26, que determina:
+
+> Art. 26. A destinação de recursos para, direta ou indiretamente,
+> cobrir necessidades de pessoas físicas ou déficits de pessoas
+> jurídicas deverá ser autorizada por **lei específica**, atender às
+> condições estabelecidas na lei de diretrizes orçamentárias e
+> estar prevista no orçamento ou em seus créditos adicionais.
+
+**3 CONCLUSÃO**
+
+Em face do exposto, conclui que:
+
+a) a apreciação dos termos da minuta do pretenso convênio encontra óbice nos
+art.202 combinado com art. 203 do Regimento Interno do Tribunal de Constas do Estado do
+Piauí-PI por versar sobre caso concreto.
+
+b) no âmbito do Poder Executivo Federal e Estadual não é possível a realização
+de convênios cujo objeto seja transferência de recursos para clubes, associações de
+servidores ou quaisquer entidades congêneres, excetuadas creches e escolas para o
+
+3
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita do cabeçalho; rodapé 3. Sem assinatura ou nota de rodapé visível. Grifos e recuos citacionais reproduzidos; gráficos não fac-similados.]
+
+[Nota de contexto: esta folha não traz número de processo. Gabinete, CNPG/MP e LRF art. 26 são contexto temático; a pertinência processual autônoma permanece não demonstrada. A continuidade entre as páginas 3 e 4 do exemplar não resolve esse vínculo.]
 
 #### Página 4 do PDF oficial
 
-                              Estado do Piauí
-                              Tribunal de Contas
-                              Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-           atendimento pré-escolar, consoante art. 16, IX da IN Conjunta SEPLAN/SEFAZ/CGE-PI
-           01/2009 que ratifica o disposto no art.8º, VIII da IN 01/97 da STN;
-    
-                       c) tendo em vista a autonomia administrativa, orçamentária, financeira e a
-           inexistência de regulamentação própria no âmbito do Ministério Público Estadual, entende-
-           se que só é possível a realização de convênios com o Conselho Nacional dos
-           Procuradores-Gerais do Ministério Público dos Estados e da União (CNPG) se
-           cumpridas às exigências da Lei de Responsabilidade Fiscal, especialmente o que
-           dispões o art. 26 que trata da destinação de recursos, ou seja, será necessária, além
-           das peças orçamentárias, a lei específica. Assim, discordando do entendimento da
-           DFAE e do MPC.
-    
-                       Teresina(PI), 02 de outubro de 2014.
-    
-    
-    
-                                    Delano Carneiro da Cunha Câmara
-                                            RELATOR - TCE/PI
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 03/10/2014 10:21:23
-    
-    
-                                                                                                       4
-    
+Estado do Piauí\
+Tribunal de Contas\
+Gab. Cons. Subs. Delano C. da Cunha Câmara\
+
+atendimento pré-escolar, consoante art. 16, IX da IN Conjunta SEPLAN/SEFAZ/CGE-PI
+01/2009 que ratifica o disposto no art.8º, VIII da IN 01/97 da STN;
+
+c) tendo em vista a autonomia administrativa, orçamentária, financeira e a
+inexistência de regulamentação própria no âmbito do Ministério Público Estadual, **entende-
+se que só é possível a realização de convênios com o Conselho Nacional dos
+Procuradores-Gerais do Ministério Público dos Estados e da União (CNPG) se
+cumpridas às exigências da Lei de Responsabilidade Fiscal, especialmente o que
+dispões o art. 26 que trata da destinação de recursos, ou seja, será necessária, além
+das peças orçamentárias, a lei específica. Assim, discordando do entendimento da
+DFAE e do MPC.**
+
+Teresina(PI), 02 de outubro de 2014.
+
+***Delano Carneiro da Cunha Câmara***\
+**RELATOR - TCE/PI**
+
+*Assinado Digitalmente pelo sistema e-TCE* - **DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 03/10/2014 10:21:23**
+
+4
+
+[Nota editorial de apresentação: Brasão estadual e logomarca TCE no cabeçalho; rodapé 4. Registro digital no pé: prefixo em itálico, nome/data/hora em negrito; ocultação preexistente mantida. Sem nota de rodapé. Não se atesta assinatura.]
+
+[Nota de contexto: esta folha não traz número de processo. Gabinete, CNPG/MP e LRF art. 26 são contexto temático; a pertinência processual autônoma permanece não demonstrada. A continuidade entre as páginas 3 e 4 do exemplar não resolve esse vínculo.]
 
 ### Links presentes no PDF
 
