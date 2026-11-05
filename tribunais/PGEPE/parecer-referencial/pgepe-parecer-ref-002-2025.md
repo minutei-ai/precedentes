@@ -14,7 +14,7 @@
 
 O número 002/2025 e a data de catálogo 19/02/2025 não são o número e a data impressos no parecer. O ato de renumeração não foi verificado. O documento complementa o Parecer Referencial 001/2020, apresentado separadamente no catálogo como 001/2025; não há fusão entre esses registros.
 
-O catálogo vincula a Portaria PGE 30/2021, cuja revisão visual permanece pendente. Na página 14 há assinatura manuscrita em imagem junto ao nome Danilo Almeida Nascimento. Na página 15, o despacho “De acordo. Encaminhe-se. Em” está sem data e sem assinatura visível, embora traga o nome Alexandre Auto de Alencar. O PDF sozinho não comprova a aprovação; não se afirma vigência ou efeito vinculante.
+A [Portaria PGE 30/2021](portarias-30-2021-e-169-2023.md), vinculada pelo catálogo, foi transcrita e cotejada integralmente em imagem: aprova o Parecer 0001/2021. Isso não comprova a renumeração para 002/2025; o nome no fecho e o indicado no carimbo eletrônico divergem e foram preservados no documento de apoio. Na página 14 há assinatura manuscrita em imagem junto ao nome Danilo Almeida Nascimento. Na página 15, o despacho “De acordo. Encaminhe-se. Em” está sem data e sem assinatura visível, embora traga o nome Alexandre Auto de Alencar. O PDF sozinho não comprova a aprovação; não se afirma vigência ou efeito vinculante.
 
 ## Texto do PDF
 

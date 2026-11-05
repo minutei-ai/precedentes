@@ -2998,3 +2998,7 @@ A reconsulta de 05/11/2026 recuperou os três PDFs vinculados às Súmulas 01–
 ## TJMMG — Súmula 5 no Ementário 2014/2015
 
 As cinco citações com enunciado da Súmula 5 foram recuperadas nas páginas físicas 195, 209, 234, 345 e 379 do PDF oficial. A revisão independente cotejou integralmente esses trechos em imagem e leu as páginas 196 e 235 para a identificação dos processos em continuação. O [documento de apoio](tribunais/TJMMG/sum/sumula-5-ementario-2014-2015.md) preserva variantes e corrige as notas de ênfase. Não é o ato formal nem a publicação original de 2009. Restam fontes históricas da issue #187; delta zero.
+
+## PGEPE — portarias dos dois pareceres publicados
+
+As [Portarias 30/2021 e 169/2023](tribunais/PGEPE/parecer-referencial/portarias-30-2021-e-169-2023.md) foram recapturadas em bytes idênticos e tiveram suas duas páginas integralmente cotejadas em imagem. A primeira aprova o Parecer 0001/2021, sem comprovar sua renumeração catalogada como 002/2025; nomes divergentes entre fecho e carimbo são preservados. A segunda aprova o Parecer 4/2023, com nome digitado sem assinatura visível. São documentos de apoio, delta zero. Reconsulta do catálogo: 33 linhas, 32 com links e a 005/2025 sem links, marcada como substituída pela 022/2025. Restam os demais pareceres, portarias e atos de renumeração da issue #264; sem certificação de vigência.
