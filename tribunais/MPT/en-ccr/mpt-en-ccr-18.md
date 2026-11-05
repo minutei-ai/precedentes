@@ -24,3 +24,7 @@ Votaram: Dra. Junia Soares Nader, Dra. Vera Regina Della Pozza Reis, Dra. Edelam
 
 Bloco delimitado na página impressa 77 do DOU nº 58, Seção 1, de 26/03/2015 (continuação da ata da 49ª Sessão Extraordinária da CCR/MPT). PDF oficial obtido em 04/11/2026 via `INPDFViewer` (`jornal=1&pagina=77&data=26/03/2015`), 48909 bytes, SHA-256 `76854e49ad34908b596f70a4408a946ce0ecd74d4d7f5bdff2ebba7241e495cc`. Página renderizada conferida visualmente contra a camada textual; hífens de fim de linha reunidos; hífens vocabulares preservados. Cabeçalho/rodapé gráficos e código de autenticação `00012015032600077` não transcritos. A ausência deste número na página HTML de enunciados de 2026 não foi convertida em cancelamento. Não se inferiu vigência atual nem efeito vinculante. Atos e normas apenas citados não geraram identificadores.
 
+
+## Conferência histórica — 05/11/2026
+
+O bloco completo e suas notas foram cotejados caractere a caractere com a imagem do DOU de 26/03/2015, p.77, em revisão independente, sem divergência textual. A deliberação deste bloco corresponde a 10/03/2015, após a reabertura da sessão. A data de publicação no DOU não foi convertida em data da deliberação ou em vigência.
