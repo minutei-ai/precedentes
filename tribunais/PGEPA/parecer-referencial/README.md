@@ -2,7 +2,7 @@
 
 Inventário do [catálogo oficial de Pareceres Referenciais da PGE/PA](https://www.pge.pa.gov.br/publicacoes/pareceres-referenciais) em 04/11/2026. **50 PDFs** capturados em duplicata com SHA-256 coincidente (HTTP 200). As duas capturas HTML do catálogo são idênticas: 63117 bytes, SHA-256 `077e7c6463675d14b30917e615b6e669980ebda2ccc3e0492e401ba03d9ec9ca`.
 
-**27 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
+**29 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
 
 | Nº (rótulo catálogo) | Arquivo | Páginas | Bytes | SHA-256 | Nota no catálogo |
 | --- | --- | ---: | ---: | --- | --- |
@@ -92,3 +92,5 @@ Capturas privadas em `~/.local/share/minutei/precedentes-coleta-planejamento/pge
 [Índice da PGEPA](../README.md)
 
 [000001/2020](pgepa-parecer-ref-000001-2020.md) e [000006/2020](pgepa-parecer-ref-000006-2020.md): 18 páginas cotejadas integralmente por imagem em revisão independente em 05/11/2026. Identidades, checklist e peças de aprovação permanecem separados conforme cada PDF.
+
+Em 05/11/2026, os lotes 2 e 3 acrescentaram 51 páginas revisadas por imagem nos pareceres [004/2019](pgepa-parecer-ref-004-2019.md), [000003/2020](pgepa-parecer-ref-000003-2020.md), [000002/2022](pgepa-parecer-ref-000002-2022.md) e [000014/2024](pgepa-parecer-ref-000014-2024.md). Dois novos IDs; versões, marcas d’água, checklist e despachos permanecem atribuídos a cada documento. Com o recorte anterior, sete PDFs / 86 páginas têm transcrição visual e revisão independente integral; os demais arquivos do inventário continuam pendentes.
