@@ -3006,3 +3006,7 @@ As [Portarias 30/2021 e 169/2023](tribunais/PGEPE/parecer-referencial/portarias-
 ## TJMMG — redação de 2013 da Súmula 3
 
 A notícia institucional “Atenção à alteração!”, de 10/06/2013, foi recapturada em bytes idênticos e seu texto integral cotejado no HTML oficial. Ela atribui à sessão de 05/06/2013 a mudança de “efetivação” para “ativação da punição” e publica a redação resultante, preservada no [registro 3](tribunais/TJMMG/sum/tjmmg-sum-3.md) separadamente da revisão de 2025. A imagem vinculada é somente ilustração. A notícia não substitui a ata nem a edição de 2009; sem reconstrução por hipótese, delta zero.
+
+## TCEBA — Resolução 112/2008
+
+O texto vinculado à [Súmula 12](tribunais/TCEBA/sum/tceba-sum-12.md) foi substituído pela transcrição integral das duas páginas da cópia arquivada, cotejadas em imagem em revisão independente. A data de 03/02/2009 e a estrutura de artigos antes publicadas eram falsas: a fonte imprime Resolução 112/2008, sessão 18/12/2008, um Considerando e RESOLVEM. O enunciado do verbete coincide com o catálogo. Notas de assinaturas sobrepostas e elementos gráficos foram corrigidas sem atribuir nomes. Fonte arquivada, sem nova disponibilidade oficial presumida; demais itens da #205 pendentes, delta zero.

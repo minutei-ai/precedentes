@@ -18,42 +18,66 @@ Título e grupo no catálogo: Súmula nº 12 — Súmulas Vigentes.
 
 Em 04/11/2026 o portal https://www.tce.ba.gov.br/ respondia com página de manutenção ("Estamos em manutenção"); os endereços diretos dos PDFs e o catálogo de súmulas retornaram HTTP 404. O PDF oficial foi recuperado de capturas Wayback Machine do mesmo endereço (`https://www.tce.ba.gov.br/images/legislacao/112.pdf`), com duas leituras de bytes idênticos (SHA-256 `84e2bcf5bf183618f7aff2146d1d15f8485d5d36473471a8e34eaedb0c911fa1`). A reconsulta ao portal oficial após o fim da manutenção permanece necessária.
 
-#### Página 1 do PDF oficial
+A recaptura do [replay arquivado de 30/06/2024](https://web.archive.org/web/20240630044557id_/https://www.tce.ba.gov.br/images/legislacao/112.pdf), em 05/11/2026, retornou HTTP 200, application/pdf e 51.060 bytes, idênticos às duas cópias locais pelo SHA-256 acima. Esse recibo comprova o vínculo com a captura arquivada do URL oficial; não significa acesso atual ao portal do TCEBA.
 
-Transcrição visual parcial (04/11/2026, Read nativo do PDF Wayback `images/legislacao/112.pdf`). Digitalização degradada; trechos não lidos com segurança marcados como ilegíveis.
+#### Transcrição integral das duas páginas — conferência de 05/11/2026
 
-    TRIBUNAL DE CONTAS DO ESTADO DA BAHIA
+As duas páginas do PDF arquivado foram abertas como imagem e cotejadas integralmente em revisão independente. O corpo abaixo substitui a transcrição anterior, que não correspondia à fonte: a epígrafe real é “RESOLUÇÃO N. 112/2008”, a sessão é de 18/12/2008, há um único Considerando seguido de RESOLVEM e não há os três artigos anteriormente publicados. A divergência com a data de 2009 era erro da transcrição, não variante do documento.
 
-    RESOLUÇÃO Nº 112 DE 03 DE FEVEREIRO DE 2009
+As palavras partidas por hifenização de fim de linha foram reunidas; as linhas da ementa e do título do verbete foram preservadas. Negrito e sublinhado não são reproduzidos nos blocos de texto: cabeçalho, título, ementa e título do verbete estão em negrito; RESOLVEM está em negrito e sublinhado. O fio horizontal sob RELATOR é elemento gráfico. Notas entre colchetes são editoriais e não integram o ato. A data do campo CONFERIDA é impressa, com traços de caneta sobrepostos. Nenhum nome foi atribuído às rubricas e nenhuma assinatura foi autenticada.
 
-    O TRIBUNAL DE CONTAS DO ESTADO DA BAHIA, no uso de suas atribuições
-    [ilegível: complemento da linha de competência],
+##### Página física 1
 
-    CONSIDERANDO [ilegível: texto do 1º considerando];
+```text
+[Número manuscrito no canto superior direito: 01. Logotipo TCE.]
 
-    CONSIDERANDO [ilegível: texto do 2º considerando];
+ASSUNTO: REVISÃO DE VERBETES
+RELATOR: CONS. FILEMON MATOS
 
-    CONSIDERANDO [ilegível: texto do 3º considerando];
+RESOLUÇÃO N. 112/2008
 
-    RESOLVE:
+EMENTA: REVISÃO DO VERBETE 12
+(PRESTAÇÃO DE CONTAS), QUE INTEGRA
+O ATUAL ACERVO DOS VERBETES DO
+TRIBUNAL DE CONTAS DO ESTADO DA
+BAHIA.
 
-    Art. 1º - [ilegível: dispositivo sobre a Súmula nº 12 — verbo e redação integral não lidos com segurança];
+Considerando a necessidade de atualizar o acervo jurisprudencial deste Tribunal de Contas, em face de alterações promovidas na sua Lei Orgânica, através da Lei Complementar n. 27/2006
 
-    Art. 2º - Esta Resolução entra em vigor na data de sua publicação[ilegível: eventual cláusula final];
+RESOLVEM
 
-    Art. 3º - Revogam-se as disposições em contrário.
+os Conselheiros do Tribunal de Contas do Estado da Bahia, reunidos em Sessão Plenária,e por voto de desempate do Exmo. Sr. Conselheiro Presidente, ATUALIZAR O CONTEÚDO DO VERBETE 12, QUE PASSA A TER A SEGUINTE REDAÇÃO:
+```
 
-    Sala das Sessões, 03 de fevereiro de 2009.
+##### Página física 2
 
-    [Assinaturas — nomes não lidos com segurança nesta resolução]
+```text
+[Número manuscrito no canto superior direito: 02. Logotipo TCE.]
 
-Observações da conferência visual: Epígrafe lida como 03 DE FEVEREIRO DE 2009; o catálogo informa 18/12/08 — divergência preservada. Arts. 2º e 3º parcialmente legíveis; considerandos e art. 1º majoritariamente ilegíveis. Página física 1 de 2.
+VERBETE Nº 12
+PRESTAÇÃO DE CONTAS. HIPÓTESE DE RELEVAÇÃO
+DA APLICAÇÃO DE PENALIDADE. A razoável justificativa do responsável por atraso na apresentação de sua prestação de contas poderá ensejar a relevação da aplicação de penalidade por parte do Tribunal.
 
-#### Página 2 do PDF oficial
+Sala das Sessões, 18 de dezembro de 2008
 
-Transcrição visual parcial (04/11/2026, Read nativo). Cabeçalho do TCE/BA confirmado; corpo residual e rubricas [ilegível: digitalização degradada — leitura integral não segura].
+[Sete linhas impressas para assinatura, a primeira rotulada “Presidente” e a segunda “Relator”; as demais sem rótulo. Assinaturas/rubricas manuscritas sobrepostas cobrem as linhas e não permitem associar cada traço a uma linha. Nenhum nome foi atribuído.]
 
-Observações da conferência visual: Página física 2 de 2.
+Presidente
+Relator
+
+CONFERIDA A DECISÃO:
+Sala das Sessões, em 18/12/2008
+
+[Rubrica acima do nome digitado abaixo.]
+JURACI MANOEL DE CARVALHO
+Secretário Geral
+
+Fui Presente
+[Rubrica.]
+Representante do Ministério Público
+```
+
+A revisão confirmou igualdade do enunciado do Verbete nº 12 com o texto do catálogo abaixo. O portal oficial atual não foi declarado acessível: a fonte desta transcrição é a cópia arquivada, cujo hash foi conferido. Não se deduz vigência atual, efeito jurídico ou autenticidade.
 
 As redações, os grupos e as referências são os do catálogo consultado. Os processos e demais atos apenas citados não foram integralmente coletados neste lote.
 
