@@ -1,6 +1,6 @@
 # MPMA · Enunciados do Conselho Superior (revisão de 2022 e nº 24/23)
 
-**24 registros.** [Voltar ao órgão](../) · [catálogo oficial](https://www.mpma.mp.br/enunciados-conselho-superior/)
+**25 registros.** [Voltar ao órgão](../) · [catálogo oficial](https://www.mpma.mp.br/enunciados-conselho-superior/)
 
 Série dos 23 enunciados aprovados pela [Resolução nº 15/2022-CSMP](https://cdn-0.mpma.mp.br/publicacoes/15866/9f4a8ea8ba569e973b688e34b015e9d7.pdf) (revisão dos enunciados, sessão de 05/08/2022) e do Enunciado 24/23, aprovado pela [Resolução nº 16/2023-CSMP](https://cdn-0.mpma.mp.br/publicacoes/16511/bc74dceb3344438c6a23f202d7855abe.pdf) (sessão de 03/03/2023). O texto de cada ficha vem do PDF da resolução, lido na imagem e na camada de texto.
 
@@ -37,3 +37,7 @@ A situação jurídica atual não foi verificada: o catálogo e os PDFs não cla
 ## Resolução nº 16/2023-CSMP
 
 - [Enunciado 24/23](mpma-en-csmp-24-2023.md)
+
+## Complemento de2023
+
+[Enunciado25/23](mpma-en-csmp-25-2023.md), aprovado na Resolução17/2023 e publicado no DOE113/2023, pp.3–4. Corpo e fecho integralmente cotejados em imagem; identidade distinta do histórico25/2022. Esta série passa a25 registros.
