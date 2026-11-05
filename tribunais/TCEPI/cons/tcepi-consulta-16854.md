@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Agente Político. Subsídio dos vereadores. Redução durante a legislatura para adequar aos limites constitucionais. Restabelecimento posterior por ato interno da Câmara. Encargos previdenciários. Escrituração contábil. (2013)
 - **Identificador:** `tcepi-consulta-16854`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 12 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 10 ocorrência(s); vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -251,11 +251,85 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí à esquerda e logotipo do Ministério Público de Contas à direita. No alto à direita: Proc. nº 008817/12 - Fls. 49 (49 manuscrito); rubrica sobre linha de Funcionário - MPC, sem nome atribuído.]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+**Ministério Público de Contas**
+
+Parecer nº 2012PC0005 – Consulta Câmara de Marcolândia.
+
+**Processo** TC-E nº 008817/12.
+**Assunto:** CONSULTA.
+**Interessado** Antônio Carlos Henrique do Nascimento – Presidente da Câmara.
+**Município** Câmara de Marcolândia.
+**Cons.Relator:** Waltânia Maria Nogueira de Sousa Leal.
+**Procurador:** Plínio Valente Ramos Neto.
+
+Senhor Relator,
+
+Trata o presente processo de Consulta formulada pelo senhor Antônio Carlos Henrique do Nascimento, presidente da Câmara do município de Marcolândia, solicitando posicionamento desta Corte de Contas a respeito da legalidade do aumento do subsídio do vereador ao valor estabelecido em lei municipal, embora esta não tenha sido elaborada no exercício imediatamente anterior e qual o tratamento a ser dado em relação aos encargos previdenciários patronais na relação à escrituração contábil e a que recursos que devam ser pagos, com os 70% impostos pelo art. 29-A, §1º da CF/88 ou com os 30% dos recursos restantes.
+
+Submetida à apreciação da relatora, esta consulta foi submetida à apreciação da Corregedoria à fl. 07 que a encaminhou à Consultoria Técnica para que se manifestasse a cerca do assunto. Em seguida, houve o encaminhamento para a manifestação da Diretoria de Fiscalização da Administração Municipal - DFAM que exarou parecer (fls. 010/016) respondendo ao questionamento do consulente.
+
+É o relatório, passa-se a opinar.
+
+##### DO CONHECIMENTO
+
+A consulta atende aos requisitos legais previstos no Regimento Interno (art. 2º, XVI, “b” da Lei nº 5.888/09 c/c art. 337 ao art.339 do RITCE). O Corregedor Geral a encaminhou à Comissão Permanente de Jurisprudência que determinou seu seguimento à unidade técnica compete. Encaminhados os autos à Diretoria de Fiscalização da Administração Municipal – DFAE que exarou parecer (fls. 010/015) respondendo ao questionamento do consulente e elencando os prejulgados já estabelecidos às fls. 010/011.
+
+##### DO MÉRITO
+
+Versa a consulta no seguinte teor:
+
+a) Se há possibilidade de aumento do subsídio dos vereadores ao valor estipulado em lei municipal, mesmo que esta não seja do exercício anterior, uma vez que atualmente os mesmos percebem valor inferior o determinado em lei municipal?
+
+A Câmara deve observar os valores dos subsídios fixados na legislatura anterior, não podendo ser alterados durante os quatro anos seguintes, pois a Constituição Federal no art. 29, VI, impõe que a fixação dos subsídios será feito em cada legislatura para vigorar na subseqüente. Entretanto, durante a legislatura, os vereadores fazem jus a revisão
+
+[Página impressa 1; fio horizontal de rodapé. Títulos DO CONHECIMENTO e DO MÉRITO estão sublinhados na imagem; sublinhado descrito, não reproduzido. Campos do quadro têm fundo cinza e rótulos em negrito; pontilhados de alinhamento suprimidos.]
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí à esquerda e logotipo do Ministério Público de Contas à direita. No alto à direita: Proc. nº 008817/12 - Fls. 50 (50 manuscrito); rubrica sobre linha de Funcionário - MPC, sem nome atribuído.]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+**Ministério Público de Contas**
+
+Parecer nº 2012PC0005 – Consulta Câmara de Marcolândia.
+
+geral anual concedida aos servidores, ocasião em que o reajuste dos subsídios obedecerá ao mesmo índice e no mesmo percentual da revisão geral anual concedida a todos os servidores públicos municipais, conforme previsto no art. 37, X , da Constituição Federal.
+
+b) O termo “folha de pagamento” previsto no art. 29-A da CF/88 alcança ou não os gastos com encargos previdenciários patronais?
+
+O conceito de folha de pagamento abrange os rendimentos do trabalho pago ou creditados, a qualquer título, à pessoa física que lhe preste serviços mesmo sem vínculo empregatício, de acordo com o art. 195, I, “a” da CF/88. Daí que, o conceito de folha de pagamento é referido a algo devido ao empregador ou servidor, o que não ocorre com a Contribuição Previdenciária Patronal, pois a mesma é devida, desde a origem, à União, podendo ser considerada no conceito de despesa de pessoal, mas não incluído no conceito de folha de pagamento.
+
+c) Se há alteração na escrituração contábil, no caso de os encargos previdenciários patronais serem pagos com os 30% restante do limite constitucional de 70% imposto pelo art. 29-A, § 1º, da CF/88?
+
+Endente-se, em relação ao lançamento contábil das despesas patrimoniais, é de que o lançamento desses encargos devem ser registrados na mesma rubrica Obrigações Patronais ( 31.90.13). Não cabe à Câmara Municipal excluir do montante das despesas com pessoal o valor pago a esse título. Essa exclusão será feita por esta Corte no momento oportuno.
+
+##### CONCLUSÃO
+
+Assim, opino, em tese, que:
+
+a) Não é possível o aumento do subsídio dos vereadores ao valor estipulado em lei municipal, devendo ser observados os valores fixados na lei votada na legislatura anterior para viger na legislatura subsequente.
+
+b) Os gastos com encargos previdenciários patronais não alcançam os valores estipulados na folha de pagamento, seu conceito é considerado apenas na despesa de pessoal.
+
+c) O lançamento contábil das despesas patrimoniais deve ser registrado na rubrica “Obrigações Patronais” (31.90.13).
+
+É o posicionamento Ministerial.
+
+Teresina (PI), 05 de novembro de 2012.
+
+[Assinatura/rubrica manuscrita sobre o nome e cargo impressos abaixo; autoria do traço não autenticada.]
+
+**Plínio Valente Ramos Neto**
+**Procurador do MPC- TCE**
+
+[Carimbo no canto inferior direito: “A(o):” seguido de anotação manuscrita de leitura provável “Sra Relatora” (incerta); “Em,” seguido de data manuscrita de leitura provável “05/11/12”; rubrica manuscrita sem nome atribuído; “Apoio/MPC”.]
+
+[Página impressa 2; fio horizontal de rodapé. CONCLUSÃO está sublinhado; sublinhado descrito, não reproduzido.]
 
 ## Ementa
 
@@ -268,3 +342,8 @@ Página sem camada textual extraível; transcrição pendente.
 [Parecer MPC](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Parecer-MPC-40.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+
+## Conferência do parecer do MPC — 05/11/2026
+
+O Parecer 2012PC0005, TC-E 008817/12, foi recapturado pelo endereço HTTPS atual após um retorno 503 transitório: 321.692 bytes, SHA-256 `b1f23c0bd37d99bd1120a24ff1605be9783f1440aaca285bdd634fc6195c1a2a`. As duas páginas foram transcritas diretamente das imagens e cotejadas integralmente por revisão independente, com correções aplicadas. As grafias “compete”, “DFAE” e “Endente-se”, a diferença de trema e as referências divergentes de folhas pertencem à fonte e foram preservadas. Não houve OCR; quebras de justificação, pontilhados e glifos de nº/ordinal foram normalizados, sublinhados e elementos gráficos descritos. Manuscritos têm leitura provável localizada e não autenticada. O parecer é peça de apoio da consulta existente, sem ID novo ou inferência de vigência. Os outros PDFs desta ficha continuam com os limites indicados nas respectivas seções.
