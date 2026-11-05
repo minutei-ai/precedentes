@@ -24,3 +24,19 @@ Os Fundos Públicos, tratados genericamente na Lei Ordinária Nacional n.º 4.32
 ## Conferência e limites
 
 Texto, título e referências transcritos da edição de setembro de 2015 e conferidos visualmente na página impressa 17 do PDF oficial; quebras de linha foram normalizadas. A edição não informa situação atual deste enunciado. Esta ficha registra apenas a edição de 2015; não se presume vigência, efeito vinculante, exaurimento ou completude, e eventuais redações posteriores exigem fonte e conferência próprias. Atos, normas, pareceres, súmulas e decisões apenas citados permanecem referências, sem IDs neste lote.
+
+## Texto publicado — 2ª edição (2021; projeto editorial 2020)
+
+**Título na 2ª edição:** Personalidade jurídica dos fundos públicos
+
+Os fundos públicos, tratados genericamente na Lei Nacional nº 4.320/1964, via de regra, não possuem personalidade jurídica, a menos que a própria lei específica que o tenha instituído disponha o contrário, não podendo o fundo ser titular de bens, direitos e obrigações. Assim, o fato de o fundo público possuir CNPJ não significa que o mesmo tenha personalidade jurídica, pois a inscrição no CNPJ constitui mera obrigação tributária acessória.
+
+### Referências citadas na 2ª edição
+
+- Parecer PGFN/CAF nº 1396/2011 (consulta formulada pela Secretaria do Tesouro Nacional);
+- CECCATO, Deusvaldo Carvalho Márcio. Manual Completo de Contabilidade Pública, 1ª ed., Editora Elsevier, 2011, p. 485;
+- Orientações Técnicas CGE nº 15/2014 e nº 25/2014.
+
+### Conferência da 2ª edição
+
+Texto da 2ª edição obtido do PDF oficial preservado no Wayback Machine (snapshot 20230331193846; URL atual `https://www.cge.ce.gov.br/wp-content/uploads/sites/20/2021/06/Enunciados-CGE-_-2aedicao.pdf`). Arquivo de 90 páginas, 8212602 bytes, SHA-256 `4bd19b87e0a29067cc811da4e056f1d0cd27ae5f1eabc8c022643970554b9eac`. Camada textual extraída com pdftotext; tipografia e hífens de fim de linha normalizados. A consulta direta a www.cge.ce.gov.br em 04/11/2026 falhou na verificação TLS (OpenSSL verify result 20); a cadeia não foi desativada. www5.cge.ce.gov.br permanece acessível para a edição de 2015. Anexos de AGU, TCU, STF e CJF/STJ da 2ª edição não foram atribuídos à CGE/CE. A marca “(revisado)” da edição foi preservada quando impressa. Não se inferiu vigência atual nem efeito vinculante.

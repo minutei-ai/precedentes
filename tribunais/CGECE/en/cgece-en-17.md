@@ -26,3 +26,31 @@ Consideram-se serviços de engenharia, para fins de observância do Decreto Esta
 ## Conferência e limites
 
 Texto, título e referências transcritos da edição de setembro de 2015 e conferidos visualmente na página impressa 14 do PDF oficial; quebras de linha foram normalizadas. A edição não informa situação atual deste enunciado. Esta ficha registra apenas a edição de 2015; não se presume vigência, efeito vinculante, exaurimento ou completude, e eventuais redações posteriores exigem fonte e conferência próprias. Atos, normas, pareceres, súmulas e decisões apenas citados permanecem referências, sem IDs neste lote.
+
+## Texto publicado — 2ª edição (2021; projeto editorial 2020)
+
+**Título na 2ª edição:** Serviços de Engenharia
+
+Consideram-se serviços de engenharia, para fins de observância do Decreto Estadual nº 29.918/2009, da Instrução Normativa CGE/SEINFRA nº 01/2010 e da Instrução Normativa PGE/CGE/SEINFRA nº 01/2011, aqueles cujas atividades requeiram a participação de responsável técnico ou empresa habilitada de engenharia regularmente registrada no Conselho Regional de Engenharia - CREA, excetuando-se dessa observância os serviços técnicos especializados definidos no art. 13 da Lei Nacional nº 8.666/1993.
+
+### Referências citadas na 2ª edição
+
+- Art. 7º da Lei Nacional nº 5.194/1966;
+- Art. 6º, inciso II, e art. 13 da Lei Nacional nº 8.666/1993;
+- Lei Complementar Estadual nº 119/2012, art. 47, parágrafo 2º, alterada pela Lei Complementar nº 178, de 10.05.2018;
+- Art. 1º do Decreto Estadual nº 29.918/2009;
+- Art. 3º, inciso II, da Instrução Normativa CGE/SEINFRA 01/2010;
+- Instrução Normativa Conjunta PGE/CGE/SEINFRA nº 001/2011, DOE de 28.12.2011;
+- Súmula TCU nº 260;
+- Acórdão TCU nº 655/2016 - Plenário;
+- Acórdão TCU nº 2126/2016 - Plenário;
+- Acórdão TCU nº 1357/2018 - Plenário;
+- Acórdão TCU nº 1674/2018 - Plenário;
+- Acórdão TCU nº 2326/2019 - Plenário;
+- Acórdão TCU nº 2472/2019 - Primeira Câmara;
+- Acórdão TCU nº 1849/2019 - Plenário;
+- Orientação Técnica CGE nº 12/2014.
+
+### Conferência da 2ª edição
+
+Texto da 2ª edição obtido do PDF oficial preservado no Wayback Machine (snapshot 20230331193846; URL atual `https://www.cge.ce.gov.br/wp-content/uploads/sites/20/2021/06/Enunciados-CGE-_-2aedicao.pdf`). Arquivo de 90 páginas, 8212602 bytes, SHA-256 `4bd19b87e0a29067cc811da4e056f1d0cd27ae5f1eabc8c022643970554b9eac`. Camada textual extraída com pdftotext; tipografia e hífens de fim de linha normalizados. A consulta direta a www.cge.ce.gov.br em 04/11/2026 falhou na verificação TLS (OpenSSL verify result 20); a cadeia não foi desativada. www5.cge.ce.gov.br permanece acessível para a edição de 2015. Anexos de AGU, TCU, STF e CJF/STJ da 2ª edição não foram atribuídos à CGE/CE. A marca “(revisado)” da edição foi preservada quando impressa. Não se inferiu vigência atual nem efeito vinculante.

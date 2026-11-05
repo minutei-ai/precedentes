@@ -25,3 +25,22 @@ Entende-se que a despesa pública com financiamento de pós-graduação a servid
 ## Conferência e limites
 
 Texto, título e referências transcritos da edição de setembro de 2015 e conferidos visualmente na página impressa 11 do PDF oficial; quebras de linha foram normalizadas. A edição não informa situação atual deste enunciado. Esta ficha registra apenas a edição de 2015; não se presume vigência, efeito vinculante, exaurimento ou completude, e eventuais redações posteriores exigem fonte e conferência próprias. Atos, normas, pareceres, súmulas e decisões apenas citados permanecem referências, sem IDs neste lote.
+
+## Texto publicado — 2ª edição (2021; projeto editorial 2020)
+
+**Título na 2ª edição:** Classificação orçamentária, quanto ao elemento de despesa, da despesa pública com financiamento de pós-graduação a servidores, conforme dispõe a Lei Estadual nº 14.367/2009
+
+Entende-se que a despesa pública com financiamento de pós-graduação a servidores, apesar de vários termos utilizados na Lei Estadual nº 14.367/2009 (indenização, financiamento, incentivo ou auxílio financeiro), será realizada no “elemento de despesa 93 - Indenizações e Restituições”, considerando que a despesa em comento possui essência de indenização, na medida em que busca indenizar parte dos gastos do servidor com os pagamentos de mensalidades à instituição de ensino, dado o interesse do Estado em proporcionar melhores serviços públicos por meio da qualificação do servidor público.
+
+### Referências citadas na 2ª edição
+
+- Lei Nacional nº 4.320, de 17.03.1964;
+- Lei Estadual nº 14.367, de 10.06.2009;
+- Portaria Interministerial STN/SOF nº 163, de 04.05.2001;
+- Instrução Normativa nº 004/2010 - Secretaria de Planejamento e Gestão do Estado do Ceará, DOE de 27.04.2010;
+- Orientação Técnica CGE nº 09/2011;
+- Manual Técnico de Orçamento 2020. Secretaria de Planejamento e Gestão do Estado do Ceará, Agosto/2019.
+
+### Conferência da 2ª edição
+
+Texto da 2ª edição obtido do PDF oficial preservado no Wayback Machine (snapshot 20230331193846; URL atual `https://www.cge.ce.gov.br/wp-content/uploads/sites/20/2021/06/Enunciados-CGE-_-2aedicao.pdf`). Arquivo de 90 páginas, 8212602 bytes, SHA-256 `4bd19b87e0a29067cc811da4e056f1d0cd27ae5f1eabc8c022643970554b9eac`. Camada textual extraída com pdftotext; tipografia e hífens de fim de linha normalizados. A consulta direta a www.cge.ce.gov.br em 04/11/2026 falhou na verificação TLS (OpenSSL verify result 20); a cadeia não foi desativada. www5.cge.ce.gov.br permanece acessível para a edição de 2015. Anexos de AGU, TCU, STF e CJF/STJ da 2ª edição não foram atribuídos à CGE/CE. A marca “(revisado)” da edição foi preservada quando impressa. Não se inferiu vigência atual nem efeito vinculante.
