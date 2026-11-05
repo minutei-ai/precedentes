@@ -12,7 +12,11 @@
 
 Texto integral da linha na [página 1 do catálogo oficial](https://www.trt22.jus.br/index.php/jurisprudencia/sumulas), incluindo os campos “Fonte” e “Publicação no DEJT”. As cinco páginas e os 47 verbetes foram conferidos em duas leituras independentes, em dez capturas. As redações anteriores riscadas, revisões, conversões, datas, grafias e vínculos do glossário foram preservados como apresentados.
 
-As datas permanecem nos textos da fonte e não foram usadas como atualização individual. O catálogo não oferece campo próprio de situação; a presença do verbete e as notas históricas não foram convertidas em indicação de vigência ou cancelamento atual. As resoluções, os acórdãos, as teses prevalecentes e os demais documentos mencionados não foram coletados neste lote.
+As datas permanecem nos textos da fonte e não foram usadas como atualização individual. O catálogo não oferece campo próprio de situação; a presença do verbete e as notas históricas não foram convertidas em indicação de vigência ou cancelamento atual.
+
+## Resolução Administrativa nº 48/2016 recuperada
+
+Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/35740?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-48/2016) coincidem: SHA-256 `e7dcaaf322f7910e8112b605861b8d4ea64f081cd60202f2ee2c1a0fd76f460a`, 102179 bytes, 4 páginas. A RA, no Processo Administrativo nº 110/2007, sessão administrativa de 15/06/2016, revisa a Súmula nº 2 com o enunciado atual do catálogo. O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional. Demais atos e acórdãos citados no catálogo continuam pendentes.
 
 O separador invisível U+FEFF após o trecho riscado foi representado por um espaço para preservar a marcação no Markdown, sem alterar a redação. O HTML original permanece na captura da fonte.
 
