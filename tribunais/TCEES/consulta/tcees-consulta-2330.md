@@ -30,7 +30,7 @@ Os rótulos, datas e anotações do portal foram mantidos sem inferir vigência.
 
 [Consultar o parecer e seus documentos no portal oficial](https://www.tcees.tc.br/biblioteca/ato-normativo/detalhes-ato-nomativo/?id=2330).
 
-**Há páginas sem texto extraível neste registro. O Markdown não garante o conteúdo integral dos arquivos; consulte os PDFs no portal oficial. O texto de uma versão histórica não substitui automaticamente o do arquivo atual.**
+**A página 24 do documento atual 3361706 está em branco, confirmada em imagem em 05/11/2026; não representa texto jurídico pendente. As demais 23 páginas e a versão histórica não foram reabertas nesta conferência. A extração existente não equivale a certificação visual integral.**
 
 ### Arquivo vinculado ao título no portal — documento 3361706
 
@@ -1079,7 +1079,7 @@ Rótulos oficiais: Parecer em Consulta 00014/2019; Versão 2.
 
 #### Página 24 do documento 3361706
 
-Esta página do PDF não forneceu texto na extração. Consulte o documento no portal oficial.
+Página em branco, confirmada pela imagem inteira em 05/11/2026. O PDF atual tem 24 páginas, 388.240 bytes e SHA-256 `20e79ee95b7024b6db55747f30e64661ba359bc84135d103a5bc17f58d261637`. A confirmação desta página não certifica o texto das demais páginas nem substitui a Versão 1 (documento 2358768).
 
 ### Arquivo do histórico de versões — documento 2358768
 
