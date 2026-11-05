@@ -511,7 +511,7 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 
 - PDF vinculado: 3 página(s), 326013 bytes, SHA-256 `7d939f21ddaeb798baa3f194cc166620363e133d05a53c8ab021d0fc1f24a0e2`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
-As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte, sem continuação ou conclusão. A fusão gráfica rn/m permanece incerta no Voto6. O número profissional da OAB permanece ocultado por decisão editorial. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. A fusão gráfica rn/m permanece incerta no Voto6. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
 
 
 
@@ -519,7 +519,7 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 
 - PDF vinculado: 3 página(s), 404282 bytes, SHA-256 `b33de278bfb6cfa926270a9e3d714ada5f0b6ea64772b904acbddb2f332ff267`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
-As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Nos votos, a leitura manuscrita 35.666/11 não foi harmonizada com o impresso25.666/11. O acento em ACACIO/ACÁCIO permanece incerto. Normalizaram-se sinais ° para º e espaços entre numeração e início dos itens 1.1 e 1.2. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
 
 ## Conferência do acórdão por imagens — 05/11/2026
 
