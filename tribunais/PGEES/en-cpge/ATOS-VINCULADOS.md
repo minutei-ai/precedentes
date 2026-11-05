@@ -1177,6 +1177,105 @@ Tel: 27-3636-5050 Fax: 27-3636-5056 e-mail: pge@pge.es.gov.br Website:http://www
 - Arquivos `.doc` e `.rtf` de minuta/lista capturados em 04/11/2026 e mantidos apenas em armazenamento privado.
 - Não foram convertidos em precedentes; são formulários de apoio referidos pelo enunciado.
 
+## Resolução CPGE 354-2024
+
+- **Fonte:** [https://pge.es.gov.br/media/docs/Resolu%C3%A7%C3%B5es%20CPGE/2024/resolu%C3%A7%C3%A3o.CPGE.354-2024%20-%20altera%20enunciado%20administrativo%20n%C2%BA%2053%20e%20edita%20enunciado%20n%C2%BA%2054.pdf](https://pge.es.gov.br/media/docs/Resolu%C3%A7%C3%B5es%20CPGE/2024/resolu%C3%A7%C3%A3o.CPGE.354-2024%20-%20altera%20enunciado%20administrativo%20n%C2%BA%2053%20e%20edita%20enunciado%20n%C2%BA%2054.pdf)
+- **Captura:** HTTP 200 em 04/11/2026; 122879 bytes; SHA-256 `babc67b43752dd949af9c47484a2e9ca92723e999d9f832997b5c8d229f0fff1`
+- **Enunciados afetados (conforme ato):** 53 (alteração), 54 (edição)
+- **Papel documental:** ato do Conselho da PGE que altera, edita ou revoga enunciado(s); não é enunciado autônomo.
+- **Índice de publicação:** [Resoluções CPGE — 2024 (340-354)](https://pge.es.gov.br/GrupodeArquivos/resolucoes-cpge-2024-340-341)
+
+### Texto do PDF
+
+                      ESTADO DO ESPÍRITO SANTO
+              CONSELHO DA PROCURADORIA-GERAL DO ESTADO
+
+
+                Resolução CPGE Nº 354, de 02 de outubro de 2024.
+
+
+                                           Altera o Enunciado Administrativo CPGE Nº 53,
+                                           da Procuradoria-Geral do Estado, publicado
+                                           pela Resolução CPGE Nº. 341, de 11 de janeiro
+                                           de 2024 e edita Enunciado Administrativo da
+                                           Procuradoria-Geral do Estado, de observância
+                                           obrigatória para a Instituição
+
+
+O CONSELHO DA PROCURADORIA-GERAL DO ESTADO, no uso de suas
+atribuições legais e tendo em vista a deliberação aprovada na reunião realizada em
+02 de outubro de 2024,
+
+
+
+RESOLVE:
+
+
+Art. 1º Alterar o Enunciado Administrativo CPGE Nº 53, publicado pela Resolução
+CPGE Nº 341 de 11 de janeiro de 2014, o qual passa a vigorar com a seguinte
+redação:
+
+
+     Enunciado CPGE Nº 53: Dispensa de análise jurídica da Procuradoria-Geral do
+     Estado em contratações diretas em razão do valor e em apostilamentos.
+     I - Fica dispensada a manifestação jurídica da Procuradoria-Geral do Estado, com
+     fundamento no artigo 53, §5º da Lei 14.133/2021, salvo se houver consulta quanto à
+     questão jurídica expressa e especificamente indicada, nas seguintes hipóteses:
+     contratação direta por dispensa de licitação em razão do valor de que trata o art. 75,
+     incisos I e II, da Lei 14.133/2021;
+     contratação direta por inexigibilidade de licitação nas hipóteses em que o valor do
+     contrato não ultrapasse o valor previsto no art. 75, inciso II da Lei 14.133/2021;
+     apostilamento nas hipóteses previstas no artigo 136 da Lei 14.133/2021.
+
+
+                   Conselho da Procuradoria-Geral do Estado do Espírito Santo
+    Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória – ES – Cep: 29057-550
+                                   Fones: 3636.5050 – 3636.5091
+
+                       ESTADO DO ESPÍRITO SANTO
+               CONSELHO DA PROCURADORIA-GERAL DO ESTADO
+
+     II – Nas hipóteses das alíneas “a” e “b” deverão ser integralmente observadas as
+     disposições do artigo 72 da Lei 14.133/2021 e dos artigos 89 e 90 do Decreto Estadual
+     5.352/2023.
+
+
+Art. 2º Editar Enunciado Administrativo da Procuradoria-Geral do Estado, de
+observância obrigatória para a Instituição:
+
+
+     Enunciado CPGE nº 54 – Requisitos para formalização de termo aditivo a Ata de
+     Registro de Preços para remanejamento de quantitativo.
+     I – Para a celebração de termo aditivo a Ata de Registro de Preços - ARP para
+     remanejamento de quantitativo entre órgãos ou entidades participantes do lote,
+     incluindo o gerenciador, quando este for participante, deverão ser atendidos
+     cumulativamente:
+     os requisitos previstos no inciso XIV do art. 7º do Decreto Estadual nº 1.790-R/2007,
+     quando a ARP for regida pela Lei 8.666/93;
+     os requisitos previstos no artigo 40 a 45 do Decreto Estadual n.º 5.354-R/2023, quando
+     a ARP for regida pela Lei 14.133/21;
+     adoção da minuta de Termo Aditivo padronizada pela Procuradoria-Geral do Estado,
+     disponível no sítio eletrônico “www.pge.es.gov.br”, com as adequações necessárias ao
+     caso concreto;
+      II – Os procedimentos administrativos versando sobre a matéria ficam dispensados da
+     análise da Procuradoria-Geral do Estado, desde que atendido rigorosamente o disposto
+     neste Enunciado, ressalvada a análise de consulta quanto à questão jurídica expressa
+     e especificamente indicada.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+
+Art. 4º Esta Resolução entra em vigor na data de sua publicação.
+
+
+                                                                 Vitória, 02 de outubro de 2024.
+
+                  IURI CARLYLE DO AMARAL ALMEIDA MADRUGA
+                            Procurador-geral do Estado
+                    Conselho da Procuradoria-Geral do Estado do Espírito Santo
+     Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória – ES – Cep: 29057-550
+                                    Fones: 3636.5050 – 3636.5091
+
 ## Limites
 
-Resolução 354/2024 permanece citada em fichas individuais quando o catálogo HTML a menciona; se o PDF não estava entre os vínculos diretos recuperados nesta passagem, a recuperação complementar fica pendente. Não se infere vigência pela leitura destes atos.
+Resolução 354/2024 foi recuperada em 04/11/2026 a partir do portal de resoluções do CPGE (ausente dos vínculos diretos da página de enunciados). Demais resoluções históricas publicadoras dos 58 enunciados foram lidas em [ATOS-HISTORICOS.md](ATOS-HISTORICOS.md). Não se infere vigência pela leitura destes atos.
