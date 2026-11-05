@@ -172,7 +172,7 @@ Campo nulo na fonte.
 
 #### Referências documentais do catálogo
 
-[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1660917827.pdf) — A revisão visual das quatro páginas confirmou o número manuscrito 034/2013/DECOR/CGU/AGU. A nota de rodapé 1 da página física 3 está muito apagada e não permite transcrição integral conferida, mesmo em ampliação. O texto permanece retido; a lacuna não foi preenchida a partir dos dispositivos legais citados.
+[Manifestação](https://cgu.agu.gov.br/decor/arquivos/Parecer1660917827.pdf) — A revisão visual das quatro páginas confirmou o número manuscrito 034/2013/DECOR/CGU/AGU. A transcrição integral da nota de rodapé 1 da página física 3 não foi concluída nesta coleta. Há texto legível, inclusive na primeira linha; não se afirma ilegibilidade integral da fonte. O texto permanece retido; a lacuna não foi preenchida a partir dos dispositivos legais citados. Reconsulta 04/11/2026: PDF oficial `Parecer1660917827.pdf` HTTP 200, 149153 bytes, SHA-256 `96c423d293f46831428abdc7ae6f932a5557ab43f37e5c5e2e10606a50c89433` (4 páginas). Renderizações a 200–400 dpi foram preservadas como apoio à leitura ainda pendente. Endereço legado Rede AGU `midia=16911243` (ementário DECOR 2017) respondeu HTTP 404. A ementa do ementário UFSC/DECOR 2017 cobre o dispositivo, sem suprir a nota de rodapé 1. Despachos 102/2013 e CGU 732/2013 permanecem como acolhimento/aprovação do parecer, sem concluir a transcrição da nota.
 
 [Despacho do coordenador](https://cgu.agu.gov.br/decor/arquivos/DespachoCoordenador1660917827.pdf) — Transcrição visual do despacho incorporada abaixo. A íntegra do parecer principal permanece pendente.
 
