@@ -3026,3 +3026,7 @@ Foram incorporadas as 13 páginas da RA 48/2016, RA 116/2023 e acórdão do PROA
 ## TCEBA — sete páginas das Resoluções 024/2007, 086/2007 e 090/2006
 
 As [sete páginas](tribunais/TCEBA/sum/resolucoes-024-086-090.md) foram transcritas das imagens e cotejadas integralmente em revisão independente. Corrigiram-se duas palavras da 086 e notas de rubricas, tipografia, datas e rodapés; lapsos e incertezas reais permanecem explícitos. As transcrições anteriores, que não correspondiam à fonte, foram retiradas das 12 fichas relacionadas e preservadas somente em evidência privada. Os três replays arquivados foram recapturados com hashes idênticos às cópias locais. Somadas às duas páginas da 112, são nove páginas transcritas dos quatro atos; a 078/2018 segue em revisão. Sem novo ID e sem inferência de vigência.
+
+## MPPB — doze enunciados do Conselho Superior
+
+O [PDF condensado do GED](tribunais/MPPB/en-csmp/proveniencia.md), único item da pasta oficial de enunciados, contém 12 blocos de 01 a 12/2015. As três páginas foram cotejadas integralmente em imagem em revisão independente; a continuação do 11 foi reunida sem perda. O título e o preâmbulo integral ficam no apoio da série. Aprovações de 10/06 e 05/11/2015 são atribuídas coletivamente, sem mapa individual; atas e situação atual não certificadas. Propostas noticiadas em 2026 e enunciados de CAOs ficam separados. Delta +12 IDs e +1 órgão: de 43.872/211 para 43.884/212, por deltas conferidos, sem nova recontagem integral. PDFs e evidências brutas privados; somente Markdown público.
