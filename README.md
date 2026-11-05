@@ -2,7 +2,7 @@
 
 Súmulas, temas, consultas, orientações e manifestações de fontes oficiais. Um arquivo Markdown por registro.
 
-**42.977 registros · 187 órgãos · cobertura parcial**
+**Cobertura parcial.** O inventário de 04/11/2026, base `41c32e1`, registrou 42.977 registros em 187 órgãos. As integrações posteriores estão em [reconciliação de cobertura (#239)](https://github.com/minutei-ai/precedentes/issues/239).
 
 
 - [Explorar por órgão](tribunais/)

@@ -1,6 +1,6 @@
 # Cobertura
 
-**42.977 registros de 187 órgãos.** Coleta inicial em 2026-10-21. O objetivo é reunir os precedentes de todo o Brasil; a cobertura ainda é parcial.
+**Inventário-base de 04/11/2026: 42.977 registros em 187 órgãos**, no commit `41c32e1335d42521ccac46bfb80df76c750c27f5`. Esse total antecede as integrações dos PRs #287–348 e não representa uma recontagem da main atual. A reconciliação global continua em [#239](https://github.com/minutei-ai/precedentes/issues/239). Coleta inicial em 2026-10-21; a cobertura nacional ainda é parcial.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -1309,7 +1309,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [MPBA](tribunais/MPBA/) | 10 | MPBA — Súmulas do Conselho Superior no catálogo HTML oficial |
 | [MPMS](tribunais/MPMS/) | 26 | Enunciados do Conselho Superior, 27 documentos e histórico do nº 9 |
 | [MPAC](tribunais/MPAC/) | 17 | MPAC — 16 enunciados e uma decisão colegiada do CSMP |
-| [MPAM](tribunais/MPAM/) | 20 | MPAM — Assentos do Conselho Superior no HTML oficial |
+| [MPAM](tribunais/MPAM/) | 21 | MPAM — 20 assentos e uma Súmula de Entendimento do CSMP, em séries distintas |
 | [MPMA](tribunais/MPMA/) | 48 | MPMA — Enunciados do Conselho Superior: revisão de 2022, nº 24/23 e numeração histórica do catálogo |
 | [MPMG](tribunais/MPMG/) | 68 | MPMG — Enunciados de súmulas do CSMP, 53 textos e 15 avisos de revogação sem corpo |
 | [MPRJ](tribunais/MPRJ/) | 83 | MPRJ — 14 súmulas e 69 enunciados do Conselho Superior |
@@ -2205,7 +2205,16 @@ As três páginas — catálogo, assentos e súmula — tiveram duas capturas HT
 
 A transcrição conserva os nós de texto, inclusive caixa irregular, “PUB¬LICAÇÃO” e “relatança”; não executa a transformação de caixa do CSS `text-transform: uppercase`. Fontes, negrito, itálico, espaços e quebras foram normalizados. O bloco oculto `mcePaste` no fim do contêiner repete a redação do 005/03 e foi excluído, sem anexá-lo ao 002/12 nem gerar outra identidade. Não há CPF, RG, matrícula pessoal ou bloco de autenticação nos vinte corpos. Não houve PDF nem OCR.
 
-A página da súmula de entendimento 001.11.CSMP traz apenas a identificação 001.2011.CSMP no contêiner lido; não há enunciado nem link PDF no HTML capturado. Ficou pendente, sem registro. Outras páginas de assentos do catálogo, resoluções, diários e atos apenas citados permanecem fora deste lote. Sobre a main `f1a2e1faa3c074f1df68abe2178aeaf766ac4d4d` (37.518 registros em 152 órgãos), o delta é de vinte registros e um órgão: 37.538 registros em 153 órgãos. As nove lacunas iniciais do BNP permanecem; evidências privadas, apenas Markdown público e cobertura nacional parcial.
+Na captura HTML de 29/10/2026, a página da súmula de entendimento 001.11.CSMP trazia apenas a identificação 001.2011.CSMP no contêiner lido, sem enunciado nem link PDF. Essa era a lacuna da coleta inicial, posteriormente resolvida pela recuperação do documento descrita abaixo. Outras páginas de assentos do catálogo, resoluções, diários e atos apenas citados permanecem fora deste lote. Sobre a main `f1a2e1faa3c074f1df68abe2178aeaf766ac4d4d` (37.518 registros em 152 órgãos), o delta é de vinte registros e um órgão: 37.538 registros em 153 órgãos. As nove lacunas iniciais do BNP permanecem; evidências privadas, apenas Markdown público e cobertura nacional parcial.
+
+
+## MPAM — recuperação da Súmula de Entendimento 001/11-CSMP
+
+A [Súmula de Entendimento 001/11](tribunais/MPAM/sum-csmp/mpam-sum-csmp-1-2011.md) foi integrada pelo [PR #295](https://github.com/minutei-ai/precedentes/pull/295), resolvendo a lacuna específica de [#211](https://github.com/minutei-ai/precedentes/issues/211). O [PDF oficial do artigo 2459](https://www.mpam.mp.br/images/attachments/article/2459/Súmula%20de%20Entendimento%20nº%20001.11.CSMP.pdf) tem uma página, 132.878 bytes e SHA-256 `d1cfca73398427c2d928c4bdef1df5a8b1a1c258749445a10ace3574bf7cfea2`; as duas capturas de 04/11/2026 são idênticas.
+
+A página inteira foi conferida visualmente contra o registro publicado, incluindo o dispositivo, a aprovação unânime de 29/04/2011 e o signatário. A revisão independente também confirmou a literalidade. Cabeçalho `001/11-CSMP`, parágrafo de aprovação `001/2011-CSMP` e rótulo HTML `001.11.CSMP` permanecem atribuídos às respectivas fontes. Não se inferem vigência atual nem efeito vinculante.
+
+O delta desta recuperação é **uma identidade e nenhum órgão novo**: MPAM passa de 20 para **21 IDs únicos**, sendo 20 assentos e uma súmula de entendimento. O assento 001/2011 não foi fundido com a súmula. Capturas, PDF, imagem e auditoria ficam privados. Esta conferência encerra a lacuna da súmula; não declara exauridos outros atos do MPAM nem antecipa a recontagem global de #239.
 
 ## MPRS — Encontro Estadual da Infância e Juventude de 2005
 
