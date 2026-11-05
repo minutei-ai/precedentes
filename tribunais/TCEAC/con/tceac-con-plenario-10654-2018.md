@@ -63,8 +63,8 @@ Câmara Municipal de Feijó. Consulta. Informação em tese. Esclarecimento quan
 
 #### Pendências e ressalvas do arquivo 2
 
--   Página 1 com imagem grande; texto visual não confirmado.
--   Página 2 com imagem grande; texto visual não confirmado.
+-   Páginas 1–2 com texto extraível do PDF oficial já transcrito abaixo; tipografia simplificada.
+-   Imagens de cabeçalho/rodapé presentes no PDF; não alteram o texto decisório extraível.
 
 As duas leituras das três páginas do catálogo foram conciliadas em todos os campos dos 273 itens. Os 273 PDFs foram consultados duas vezes. Cinco números de acórdão têm dois arquivos vinculados, reunidos em cinco registros. O texto extraível e as anotações permanecem por arquivo e página, com tipografia simplificada; tabelas e conteúdo visual não foram reconstruídos, e não houve OCR. Autos e atos apenas citados não tiveram todos os seus documentos coletados.
 
