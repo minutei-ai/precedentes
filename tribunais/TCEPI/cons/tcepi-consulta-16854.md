@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Agente Político. Subsídio dos vereadores. Redução durante a legislatura para adequar aos limites constitucionais. Restabelecimento posterior por ato interno da Câmara. Encargos previdenciários. Escrituração contábil. (2013)
 - **Identificador:** `tcepi-consulta-16854`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 7 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; páginas do recorte transcritas e cotejadas por imagem; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -308,31 +308,294 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Cabeçalho: brasão do Estado do Piauí à esquerda; logotipo "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ" com estrela à direita]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+
+Processo
+TC-E-008817/12
+Fl. 10
+
+**DIRETORIA DE FISCALIZAÇÃO DA ADMINISTRAÇÃO MUNICIPAL**
+
+> Processo ......... TC-E-008817/12.
+> Assunto .......... Legislação aplicável para alteração dos subsídios dos vereadores.
+> Interessado..... Antonio Carlos Henrique de Nascimento (Presidente da Câmara Municipal de Marcolandia).
+
+**<u>1 RELATÓRIO</u>**
+
+Trata-se de petição direcionada à Presidência desse Tribunal pelo Presidente da Câmara Municipal de Marcolandia solicitando manifestação do Tribunal a respeito do critério legal a ser adotado para atualização dos subsídios dos vereadores da referida Câmara e a forma de lançamento contábil das contribuições patronais.
+
+O consulente suscita manifestação deste Corte de Contas sobre se: a) há possibilidade de aumentar o subsídio dos vereadores ao valor estipulado em Lei municipal, mesmo que esta não seja do exercício imediatamente anterior, visto que o que atualmente recebe é inferior ao determinado por Lei municipal? b) o termo "folha de pagamento" previsto no art. 29-A, §1º, da CF/88, alcança os gastos com encargos previdenciários patronais? c) há alteração na escrituração contábil, no caso dos encargos previdenciários patronais serem pagos com os 30% restantes do limite constitucional de 70% imposto pelo art. 29-A, §1º, da CF/88?
+
+Faz juntada às fls. 03/05 do parecer do órgão de assistência jurídica da Câmara, atendendo o preceituado no §1º do art. 201 do Regimento Interno. No entanto, não foi juntada a cópia da Lei municipal que fixou os subsídios para a legislatura, conforme mencionado na fundamentação do parecer do órgão da Câmara. Mas, compulsando o relatório de prestação de contas do exercício de 2010 (TC-E-021430/11), verificou-se que a Lei nº 187/2008, de 12/09/2008 fixou o subsídio para a legislatura no montante de R$ 1.900,00.
+
+É o relatório.
+
+**<u>2 ANÁLISE TÉCNICA</u>**
+
+Preliminarmente, observa-se que a referida petição preenche os requisitos estatuídos no Regimento Interno do Tribunal, visto que a autoridade consulente tem competência para tanto e a consulta encontra-se instruída com o Parecer Jurídico da Câmara Municipal, atendendo o estabelecido no §1º do art. 201. A ausência da Lei que fixou os subsídios não impede a apreciação da consulta, visto que a análise da questão posta é feita de forma abstrata.
+
+Analisando os prejulgados desta Corte de Contas e, em consonância com o parecer emitido no TC-E-008817/12, verificam-se as seguintes manifestações:
+
+**1. PROCESSO TC-E Nº 010120/06 (fls. 28/29).**
+
+> a) Em relação aos subsídios dos vereadores, mesmo havendo direito à revisão, ou outra qualquer verba recebida a título remuneratório, o pagamento estará restrito aos limites determinados na Constituição Federal – arts. 29, V, VI, VII e 29-A.
+
+[Rubrica manuscrita no rodapé, à direita.]
+
+---
+Notas visuais: carimbo/cabeçalho "Fl. 10" com número em fonte distinta do restante. Bloco de identificação com fundo cinza. Traço manuscrito sob "1.900,00" e sublinhado manuscrito sob "os prejulgados desta Corte de Contas"; não alteram o texto.
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Cabeçalho: brasão do Estado do Piauí à esquerda; logotipo "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ" com estrela à direita]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+
+Processo
+TC-E-008817/12
+Fl. 11
+
+**2. PROCESSO TC-E Nº 19261/06 (fls. 33/36).**
+
+> EMENTA: Possibilidade de reajuste dos Subsídios dos Vereadores. Inconstitucionalidade: art. 29, V e VI da CF/88. O Poder Legislativo não pode editar Lei, nem para reduzir nem para elevar, porém, **pode aplicar o redutor por ato próprio da presidência e retirá-lo quando a receita assim o permitir**. (sem grifo no original).
+
+**3. RESOLUÇÃO Nº 1.455/2003.**
+
+Essa resolução dispõe sobre a fixação dos subsídios dos agentes políticos municipais. Para a análise da consulta destaco os seguintes artigos, *verbis*:
+
+> Art. 2º. Os subsídios do prefeito, vice-prefeito, secretários municipais e vereadores somente poderão ser fixados ou alterados por Lei específica, observada a iniciativa da Câmara Municipal, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices, em relação aos demais servidores públicos municipais.
+>
+> Parágrafo único. O período para a fixação dos subsídios do prefeito, vice-prefeito, secretários municipais e vereadores **se encerrará 15 (quinze) dias antes das respectivas eLeições municipais**.
+>
+> ...
+>
+> Art. 4º. O subsídio dos vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subseqüente, **observado o que dispõe a Constituição Federal e observados os critérios estabelecidos na Lei Orgânica do Município** (...).
+
+Depois de feito o escorço a respeito da manifestação do Tribunal com relação ao tema, passa-se a esclarecer os limites formais e materiais estabelecidos pela Constituição Federal e legislação infraconstitucional relativos aos subsídios dos vereadores.
+
+**2.1 Do total das despesas com subsídios dos Vereadores (respeito ao limite proporcional dos subsídios dos Deputados Estaduais e ao limite de 5% da receita efetiva do Município)**
+
+O primeiro limite constitucional das despesas com subsídio dos vereadores é o subsídio dos Deputados Estaduais que deve ser fixado de acordo com o total de habitantes do Município, variando no percentual de 20% a 75%. Tal apuração se baseia apenas no subsídio único; não agrega verbas indenizatórias recebidas pelo Deputado Estadual (auxílio moradia, ajuda de custo para deslocamento, entre outras).
+
+O Município em análise registra população de 7.812 habitantes, conforme extraído dos dados demográfico divulgado pelo IBGE no ano de 2010. Diante disso, o percentual máximo da remuneração dos vereadores deve ser de 20% em obediência ao estatuído no art. 29, VI, "a" da Constituição Federal.
+
+A Câmara também deve observar que o valor fixado na legislatura anterior não pode ser alterado durante os quatros anos seguintes. Durante a legislatura os vereadores só fazem jus à revisão geral anual do inciso X, art. 37 da Constituição Federal, posto que a vereança está vinculada, de forma literal, irredutível e rigorosa, ao princípio da anterioridade, obedecidos, ainda, todos os limites constitucionais previstos.
+
+[Rubrica manuscrita no rodapé, à direita.]
+
+---
+Notas visuais: "eLeições" grafado assim no original (L maiúsculo), conferido em recorte ampliado. Colchete manuscrito à margem esquerda do último parágrafo.
+
 
 #### Página 3 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Cabeçalho: brasão do Estado do Piauí à esquerda; logotipo "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ" com estrela à direita]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+
+Processo
+TC-E-008817/12
+Fl. 12
+
+O segundo limite das despesas com subsídios dos vereadores está previsto no art. 29, VII da Constituição o qual estabelece que não pode ultrapassar o montante de 5% da receita do Município do exercício em curso.
+
+**2.2 Da despesa total da Câmara Municipal**
+
+A despesa total do Poder Legislativo não pode ultrapassar o percentual de 7% da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159, efetivamente realizados no exercício anterior para Municípios com população de até 100.000 habitantes.
+
+Cabe evidenciar que esse é o limite máximo. A Lei Orçamentária pode fixar valor inferior, de acordo com a decisão política acordada entre o Executivo e o Legislativo.
+
+**2.3 Do limite de despesas com folha de pagamento**
+
+A despesa com folha de pagamento, incluído os gastos com subsídios dos vereadores, da Câmara Municipal não poderá ultrapassar 70% do total repassado para a Câmara durante o exercício, conforme determina o §1º do art. 29-A da Constituição Federal.
+
+**<u>3. RESPOSTA AOS QUESTIONAMENTOS DA CONSULENTE</u>**
+
+A partir dos argumentos acima esposados, passa-se a analisar, de forma individualizada, cada um dos questionamentos levantados na consulta.
+
+**3.1. Possibilidade de pagamento dos subsídios dos vereadores de forma variável com vista a respeitar o limite constitucional.**
+
+A defesa questionou, em síntese, se é possível aumentar o subsídio dos vereadores até o "valor estipulado em Lei municipal, mesmo que esta não seja do exercício imediatamente anterior, visto que o que atualmente recebe é inferior ao determinado por Lei municipal".
+
+Em que pese a atecnia na elaboração da pergunta, o que o consulente pretende saber é se é possível a Câmara municipal pagar subsídios aos vereadores de forma variada durante a legislatura.
+
+A análise do questionamento exige o estudo do art. 29, VI da Constituição (determina que a fixação dos subsídios da legislatura subseqüente deve ser fixada até 15 dias antes das eLeições municipais da legislatura antecedente) em consonância com os limites remuneratórios fixados na própria Constituição à luz do princípio da irredutibilidade dos subsídios (art. 37, XV, CF/88).
+
+De regra, a Lei ordinária não pode reduzir a remuneração/subsídio dos servidores, por expressa vedação do art. 37, XV da Constituição, *verbis*:
+
+> Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
+
+[Rubrica manuscrita no rodapé, à direita.]
+
+---
+Notas visuais: "eLeições" grafado assim no original.
+
 
 #### Página 4 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Cabeçalho: brasão do Estado do Piauí à esquerda; logotipo "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ" com estrela à direita]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+
+Processo
+TC-E-008817/12
+Fl. 13
+
+> (...)
+>
+> XV - **o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis**, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
+
+Como se ver, o próprio inciso faz ressalvas genéricas à irredutibilidade dos vencimentos. Por seu turno, especificamente com relação aos vereadores, os artigos 29 e 29-A trazem outras hipóteses em que pode haver redução dos subsídios para adequação aos limites constitucionais, conforme exposto nos itens anteriores.
+
+Dessa forma, caso a Lei Municipal tenha fixado os subsídios dos vereadores de acordo com os limites constitucionalmente estabelecidos e, posteriormente, em decorrência de fato superveniente, v. g., redução do repasse feito pelo Executivo, os limites venham a ser descumpridos, a Câmara Municipal tem o poder/dever de reduzir os subsídios dos vereadores para se adequar à sistemática constitucional.
+
+Logo, resta demonstrado que é juridicamente possível que durante a legislatura haja redução dos subsídios dos vereadores para adequar aos limites constitucionalmente fixados. Essa conclusão encontra amparo em manifestação desta Corte de Contas, conforme se afere na ementa do acórdão TC-E Nº 19261/06 no item 2 acima mencionado.
+
+Da mesma forma, é possível que, uma vez restabelecida as condições para pagamento dos valores anteriormente fixadas na Lei Municipal, a Câmara, por ato interno, restabelecer os valores dos subsídios dos vereadores. Assim agindo, está sendo respeitado o princípio da irredutibilidade dos subsídios por meio de Lei e os limites constitucionalmente estabelecidos.
+
+**3.2. Abrangência do termo "folha de pagamento" previsto no §1º do art. 29-A da Constituição.**
+
+O consulente indaga se o termo "folha de pagamento" previsto no art. 29-A, §1º, da CF/88, alcança os gastos com encargos previdenciários patronais.
+
+Para o deslinde da questão faz-se necessário analisar o §1º do art. 29-A da Constituição Federal em consonância com o art. 18 da LRF. Os dispositivos trazem a seguinte redação, *verbis*:
+
+> Art. 29-A. O total da despesa do Poder Legislativo Municipal, **incluídos os subsídios dos Vereadores e excluídos os gastos com inativos**, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no §5º do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior:
+>
+> (omissis)
+>
+> §1º A Câmara Municipal **não gastará mais de setenta por cento de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores.** (sem grifo no original)
+>
+> Art. 18 da Lei Complementar n.º 101/2000:
+>
+> "Art. 18. **Para os efeitos desta Lei Complementar**, entende-se como **despesa total de pessoal**: o somatório dos gastos do ente da federação com os ativos, os inativos e os pensionistas, relativos a mandatos eletivos, cargos, funções ou empregos, civis, militares e de membros de Poder, com
+
+[Rubrica manuscrita no rodapé, à direita.]
+
+[Traço tênue a lápis sob “Logo, resta demonstrado que é juridicamente possível que durante a legislatura haja”; texto preservado.]
+
 
 #### Página 5 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Cabeçalho: brasão do Estado do Piauí à esquerda; logotipo "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ" com estrela à direita]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+
+Processo
+TC-E-008817/12
+Fl. 14
+
+> quaisquer espécies remuneratórias, tais como vencimentos e vantagens, fixas e variáveis, subsídios, proventos da aposentadoria, reformas e pensões, inclusive adicionais, gratificações, horas extras e vantagens pessoais de qualquer natureza, bem como encargos sociais e contribuições recolhidas pelo ente às entidades de previdência." (sem grifo no original)
+
+Do exposto acima, constata-se que os conceitos e matérias tratadas são diferentes. O §1º do art. 29-A da Constituição Federal conceitua folha de pagamento e tem como base de cálculo para aferir o cumprimento dos 70% a receita repassada para a Câmara. Por seu turno, o art. 18 da LRF conceitua despesa total com pessoal e tem como base de cálculo a receita corrente líquida do Município. Essa conclusão é corroborada a partir da análise conjunta dos arts. 19 e 20 da LRF, *verbis*:
+
+> Art.19. Para os fins do disposto no caput do art. 169 da Constituição, **a despesa total com pessoal**, em cada período de apuração e em cada ente da Federação, **não poderá exceder os percentuais da receita corrente líquida**, a seguir discriminados:
+>
+> (...)
+>
+> III – Municípios: 60% (sessenta por cento).
+>
+> (...)
+>
+> Art. 20. A repartição dos limites globais do art. 19 não poderá exceder os seguintes percentuais:
+>
+> (...)
+>
+> III – na esfera municipal:
+>
+> a) 6% (seis por cento) para o Legislativo, incluído o Tribunal de Contas do Município, quando houver;
+>
+> b) 54% (cinquenta e quatro por cento) para o Executivo.
+
+A Constituição Federal considera como base de cálculo a receita da Câmara Municipal, composta pelo somatório da receita tributária e das transferências, enquanto que a LRF se vale do conceito de receita corrente líquida, este último correspondendo ao somatório das receitas contínuas arrecadadas durante um ano, compreendendo a arrecadação no mês em referência e nos onze meses anteriores, excluídas as duplicidades. (art. 2º, IV e §§, da LRF)
+
+Essa distinção é reforçada pela conjugação entre o disposto no art. 19, da LRF e o que determina o art. 169, da Constituição Federal/88.
+
+Diz o texto constitucional:
+
+> "Art. 169. **A despesa com pessoal ativo e inativo** da União, dos Estados, do Distrito Federal e dos Municípios **não poderá exceder os limites estabelecidos em Lei complementar.**"
+
+Assim, os conceitos de que trata a Lei de Responsabilidade Fiscal, quais sejam despesa total com pessoal (art. 18, da LRF) e receita corrente líquida (art. 19 c/c art. 2º, IV e §§, da LRF), são maiores que aqueles da Constituição Federal, que compreendem folha de pagamento, em sentido estrito, e receita da Câmara Municipal (§1º, do art. 29-A), composta pelo somatório da receita tributária e das transferências previstas no §5º do art. 153 e nos arts. 158 e 159, da CF/88.
+
+[Rubrica manuscrita no rodapé, à direita.]
+
 
 #### Página 6 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Cabeçalho: brasão do Estado do Piauí à esquerda; logotipo "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ" com estrela à direita]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+
+Processo
+TC-E-008817/12
+Fl. 15
+
+Uma vez delimitados os campos de incidência e apuração dos limites de ambos os ordenamentos, pode-se concluir que, para efeito do disposto no §1º, do art. 29-A, da CF/88, folha de pagamento não inclui as obrigações patronais a cargo da Câmara (parte patronal).
+
+**3.3. Da necessidade de alteração na escrituração contábil, no caso dos encargos previdenciários patronais serem pagos com os 30% restantes do limite constitucional de 70% imposto pelo art. 29-A, §1º, da CF/88.**
+
+O consulente questiona, ainda, se há necessidade de alteração na escrituração contábil, no caso dos encargos previdenciários patronais serem pagos com os 30% restantes do limite constitucional de 70% imposto pelo art. 29-A, §1º, da CF/88.
+
+Com relação ao lançamento contábil das despesas patrimoniais, a orientação desta DFAM é no sentido de que o lançamento deve ser feito na mesma rubrica obrigações patronais (31.90.13). Não cabe à Câmara Municipal excluir do montante das despesas com pessoal o valor pago a título de obrigações patronais. Essa exclusão é feita pelo Tribunal de Contas no momento oportuno.
+
+[Rubrica manuscrita ao centro, abaixo do texto.]
+
+[Restante da página sem texto, conferido na imagem.]
+
+---
+Notas visuais: na margem direita, à altura do primeiro parágrafo, sinal manuscrito tênue semelhante a "?"; registrado como marca, sem atribuição de sentido.
+
 
 #### Página 7 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Cabeçalho: brasão do Estado do Piauí à esquerda; logotipo "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ" com estrela à direita]
+
+**Estado do Piauí**
+**Tribunal de Contas**
+
+Processo
+TC-E-008817/12
+Fl. 16
+
+**<u>4 CONCLUSÃO</u>**
+
+Ante o exposto, em resposta aos questionamentos levantados pela consulente, esta DFAM conclui-se que:
+
+**a)** é possível aumentar os subsídios dos vereadores até o valor fixado em Lei municipal na legislatura antecedente para a legislatura subseqüente, desde que tenha havido redução durante a legislatura para se adequar aos limites constitucionais ou em decorrência do aumento do repasse para a Câmara Municipal;
+
+**b)** o termo "folha de pagamento" previsto no art. 29-A, §1º, da CF/88, **não alcança os gastos com encargos previdenciários patronais**;
+
+**c) não há alteração na escrituração contábil**, no caso dos encargos previdenciários patronais serem pagos com os 30% restantes do limite constitucional de 70% imposto pelo art. 29-A, §1º, da CF/88.
+
+É o parecer.
+
+Teresina (PI), 11 de junho de 2012.
+
+| [assinatura manuscrita sobre a linha] | [manuscrito iniciado por "p/p." seguido de traço de assinatura sobre a linha] |
+|---|---|
+| Edilson Chaves de Freitas | Ednize Oliveira Costa |
+| Assessor Jurídico | Auditora Fiscal de Controle Externo |
+| | Chefa da V Divisão Técnica/DFAM |
+
+**VISTO:**
+
+[assinatura manuscrita sobre a linha]
+Vilmar Barros Miranda
+Auditor Fiscal de Controle Externo
+Diretor da DFAM
+
+[Restante da página sem texto, conferido na imagem.]
+
+---
+Notas visuais: assinaturas registradas de forma neutra; não se atribui autoria dos traços. No campo de Ednize Oliveira Costa, o manuscrito começa por "p/p." (sem interpretação da abreviação); o restante do traço não é transcrito como nome.
 
 ### Documento vinculado pela fonte
 
@@ -446,3 +709,11 @@ O Parecer 2012PC0005, TC-E 008817/12, foi recapturado pelo endereço HTTPS atual
 - PDF vinculado: 3 página(s), 436232 bytes, SHA-256 `6b14afa8b422f2e19b671036320bb2cf01978e3babb2bef4ef9bd03eb96b1037`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Logotipos foram descritos uma única vez e não como selos em relevo. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 7 página(s), 1013329 bytes, SHA-256 `3c1f80151241d234ac47894b55a659a187ef1e1898a416b21a1d9b949bd14cdf`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte, sem continuação ou conclusão. A fusão gráfica rn/m permanece incerta no Voto6. O número profissional da OAB permanece ocultado por decisão editorial. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.

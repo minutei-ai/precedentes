@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Agente político. Pagamento por sessões extraordinárias. Vedação do art. 57, §7º, da Constituição Federal. Ressarcimento de valores pagos indevidamente. Responsabilidade solidária do ordenador de despesa e, em caso de má-fé, do servidor beneficiado. (2013)
 - **Identificador:** `tcepi-consulta-16626`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 2 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; páginas do recorte transcritas e cotejadas por imagem; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -653,11 +653,89 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Página digitalizada invertida (180°) no PDF; leitura feita sobre a imagem girada 180°, sem outro tratamento.]
+
+[Carimbo/campo de protocolo no canto superior direito: "Proc. nº 024701/11 Fls." (manuscrito) "99" / assinatura manuscrita sobre a linha / "Funcionário – MPC"]
+
+[Brasão do Estado do Piauí à esquerda; à direita, selo circular "Ministério Público de Contas – PIAUÍ" (legenda inferior do selo não legível)]
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+
+> **PARECER ............** **2012MC0004**
+> **PROCESSO .........** N. º: TC-E-024701/11
+> **ASSUNTO............** CONSULTA
+> **INTERESSADO.....** FRANCISCO CARLOS AMORIM DO NASCIMENTO
+> **PROCEDÊNCIA ...** PREFEITURA MUNICIPAL DE COLÔNIA DO GURGUÉIA
+> **RELATOR.............** LUCIANO NUNES SANTOS
+
+Exmo. Sr. Relator,
+
+Trata-se de consulta formulada pelo Sr. Francisco Carlos Amorim do Nascimento, na qualidade de Prefeito Municipal de Colônia do Gurguéia, solicitando esclarecimentos desta Corte de Contas acerca da viabilidade jurídica do pagamento de sessão extraordinária a vereadores. Na oportunidade, apresentou os seguintes questionamentos:
+
+1) É possível pedir o ressarcimento no ano de 2011 do pagamento de sessões extraordinárias realizadas em 2009?
+
+2) A quem deve ser solicitado o pagamento indevido: vereadores ou Presidente da Câmara Municipal?
+
+3) A presidência da Câmara deve pagar sessão extraordinária se esta for ressarcida, uma vez que foi convocada pelo Chefe do Poder Executivo Municipal?
+
+4) As sessões extraordinárias convocadas pela presidência da Câmara para deliberarem sobre assuntos relevantes devem ser pagas?
+
+5) A Presidência da Câmara pode convocar sessão extraordinária para apreciar projeto de lei proveniente do Poder Executivo?
+
+Não obstante a falta de atendimento dos requisitos de admissibilidade previstos no art. 201, §1º, do Regimento Interno desta Corte de Contas, o Exmo. Sr. Presidente, em despacho de fl. 03, conheceu liminarmente da Consulta em razão do relevante interesse público a ser considerado, o que encontra respaldo no art. 203 do Regimento Interno.
+
+[Rubrica manuscrita no rodapé, à direita.]
+
+---
+
+*Ministério Público de Contas do Estado do Piauí*
+*Av. Pedro Freitas nº 2100, prédio do TCE-PI, 1º andar, CEP.: 64.018-900, Teresina-PI*
+*Fone: (86) 3215-3882*
+
+---
+Notas visuais: bloco de identificação com fundo cinza. Marcas de furação à margem esquerda. Assinatura no campo do funcionário registrada de forma neutra. O telefone do rodapé é institucional e foi preservado.
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Página digitalizada invertida (180°) no PDF; leitura feita sobre a imagem girada 180°, sem outro tratamento.]
+
+[Carimbo/campo de protocolo no canto superior direito: "Proc. nº 024701/11 Fls." (manuscrito) "100" / assinatura manuscrita sobre a linha / "Funcionário – MPC"]
+
+[Brasão do Estado do Piauí à esquerda; à direita, selo circular "Ministério Público de Contas – PIAUÍ"]
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+
+Encaminhados os autos à Divisão de Fiscalização da Administração Municipal – DFAM, esta, em fundamentada análise (fls. 85-97), responde ao consulente que:
+
+a) O pagamento de sessões extraordinárias está vedado pelo §7º, do art. 57, da Constituição Federal, aplicável, pelo princípio da simetria, ao Parlamento Municipal. É irrelevante a discussão a respeito do período que ocorreu a sessão (período legislativo ou recesso parlamentar) bem como quem realizou a convocação (Presidente da Câmara ou Prefeito Municipal);
+
+b) A convocação pelo Presidente da Câmara para deliberar sobre assuntos relevantes não autoriza dispêndio de natureza indenizatória aos vereadores;
+
+c) O Presidente da Câmara deve atentar à convocação da sessão extraordinária realizada pelo Prefeito para apreciar projeto de lei nas hipóteses de urgência ou interesse público relevante ocorrido durante o recesso parlamentar;
+
+d) É plenamente possível a exigência de ressarcimento dos valores pagos indevidamente no ano de 2009. É que a administração pública tem o prazo de 5 (cinco) anos para anular seus atos eivados de ilegalidade/inconstitucionalidade. Além desse prazo, a administração tem o prazo de 5 (cinco) anos para propor demanda perante o Poder Judiciário, contados a partir do término do mandato do agente político. No que diz respeito especificamente ao dever de ressarcir os danos causados à administração, esse prazo é imprescritível, podendo o agente ser demandado a qualquer tempo;
+
+e) A responsabilidade pelo pagamento indevido realizado de má fé é solidária do ordenador de despesa e do servidor público beneficiado. Caso não haja comprovação de má fé por parte do servidor beneficiado, a responsabilidade é exclusiva do ordenador de despesa, nos termos da Lei nº 8.428/92.
+
+Desta feita, no que se refere às indagações formuladas, por considerar suficientemente fundamentado, o Ministério Público de Contas **ratifica integralmente** o entendimento exarado pela DFAM, adotando como suas as razões do parecer de fls. 85-97.
+
+Acrescentamos, apenas, no tocante à responsabilização pelo ressarcimento do pagamento indevido de sessões extraordinárias, que em tese o próprio Prefeito Municipal pode também ser solidariamente responsabilizado pelos
+
+[Rubrica manuscrita no rodapé, à direita.]
+
+---
+
+*Ministério Público de Contas do Estado do Piauí*
+*Av. Pedro Freitas nº 2100, prédio do TCE-PI, 1º andar, CEP.: 64.018-900, Teresina-PI*
+*Fone: (86) 3215-3882*
+
+---
+Notas: "Lei nº 8.428/92" grafado assim no original; mantido sem correção. **Lacuna real da fonte:** o texto termina no meio da frase ("...responsabilizado pelos") e o PDF tem apenas 2 páginas; a continuação do parecer, a conclusão e o fecho/assinatura do MPC não constam deste arquivo.
 
 ## Ementa
 
@@ -676,3 +754,11 @@ Texto reproduzido de fonte oficial. Confira na origem a situação atual e as re
 - PDF vinculado: 13 página(s), 2222719 bytes, SHA-256 `474dcb75cd434e000895919e47408c951fa82b3d82f3329d25bcad2d6efff10a`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Logotipos foram descritos uma única vez e não como selos em relevo. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 2 página(s), 287185 bytes, SHA-256 `4f97feb303603390897197f8f44abb4b4475a9f0e30185fedf795d55db8fbf72`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte, sem continuação ou conclusão. A fusão gráfica rn/m permanece incerta no Voto6. O número profissional da OAB permanece ocultado por decisão editorial. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.

@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Pessoal. Recebimento cumulativo de remuneração de cargo efetivo com gratificação de cargo em comissão de Secretário. (2010)
 - **Identificador:** `tcepi-consulta-16808`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 6 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 3 ocorrência(s); vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -128,15 +128,96 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo de protocolo no canto superior direito: "TRIBUNAL DE CONTAS DO ESTADO" / "PROC. Nº" (manuscrito) "30.547/10" "FLS." (manuscrito) "8[?]" / assinatura manuscrita no campo / "SECRETARIA - FUNCIONÁRIO"]
+
+[Brasão do Estado do Piauí à esquerda]
+
+Tribunal de Contas do Estado do Piauí
+**Corregedoria Geral**
+
+| |
+|---|
+| **PROCESSO TC-E Nº. 30.547/10** |
+| **CONSULTA FORMULADA AO TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ PELO SECRETÁRIO MUNICIPAL DE EDUCAÇÃO DE BONFIM DO PIAUÍ** |
+| **PROCEDÊNCIA: PREFEITURA MUNICIPAL DE BONFIM DO PIAUÍ** |
+| **INTERESSADO: HUMBERTO FERNANDES VIANA** |
+| **PROCURADOR: PLÍNIO VALENTE RAMOS NETO** |
+| **REVISOR: JAIME AMORIM JÚNIOR** |
+| **RELATOR SUBSTITUTO: CONS. SUBS. ALISSON FELIPE DE ARAÚJO** |
+
+RELATÓRIO PARA SESSÃO DE JULGAMENTO
+
+Tratam os autos do Processo da Consulta formulada ao Tribunal de Contas do Estado do Piauí pela Secretaria Municipal de Educação, Cultura, Desporto e Lazer de Bonfim do Piauí, representada pelo Secretário Municipal, Sr. Humberto Fernandes Viana, pretendendo obter o posicionamento da Corte de Contas sobre a possibilidade de Servidor Efetivo (Professor) investido no Cargo em Comissão de Secretário Municipal, perceber cumulativamente, vencimentos do Cargo Efetivo e gratificação do Cargo em Comissão, e, qual a fonte de recurso utilizada para pagamento de Servidor que se enquadre na situação acima descrita, como se constata pelo conteúdo do TC-N nº 30.547/10 acostado às fls. 02 a 04 dos autos.
+
+A Consulta formulada, através do TC-N Nº. 30.547/10, foi protocolada em 05.07.2010 e submetida à analise preliminar de aferição dos pressupostos essenciais ao seu conhecimento pelo Presidente do TCE-PI, que constatou a satisfação parcial desses pressupostos, porque cumpridos alguns regramentos e outros não, definidos no art. 2º , XVI da Lei nº 5.888/2009 (Lei Orgânica do TCE-PI ) e nos artigos 233 e 234, *caput*, e §§ 1º e 2º da Resolução TCE nº. 1.225/95 (Regimento Interno do TCE-PI). Constatou, ainda, o Presidente do TCE-PI a existência de relevante interesse público a ser considerado na consulta, razão porque, decidiu, liminarmente, pelo
+
+---
+
+Relatório elaborado em 27 de outubro de 2010 — 1 — Sala da Corregedoria Geral do TCE-PI
+
+---
+Notas visuais: carimbo com texto impresso esmaecido; número do processo e de folhas manuscritos. O número de folhas começa por "8" seguido de traço cursivo não identificável com segurança mesmo no recorte ampliado. No campo do funcionário há assinatura/nome manuscrito; registrado de forma neutra, sem transcrição como nome. Na página 2 o mesmo carimbo traz "82"; a sequência não é usada para completar o algarismo desta página. Bloco de identificação em tabela de uma coluna com bordas.
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo de protocolo no canto superior direito, mesmo modelo, texto impresso muito esmaecido: (manuscrito) "30.547/10" (manuscrito) "82" / assinatura manuscrita no campo / "SECRETARIA - FUNCIONÁRIO"]
+
+[Brasão do Estado do Piauí à esquerda]
+
+Tribunal de Contas do Estado do Piauí
+**Corregedoria Geral**
+
+seu conhecimento e por seu deferimento, em cumprimento ao regramento definido no art. 234, § 3º, da Resolução TCE-PI nº 1.225/95, determinando à Diretoria Executiva a proceder à autuação e a dá seguimento à tramitação, encaminhando, inicialmente, os autos do processo à Corregedoria Geral do TCE-PI.
+
+O Corregedor Geral- Relator, para seqüência de tramitação, encaminhou os autos do Processo TC-E nº 30.547/10 à Consultoria Técnica, para análise do mérito e emissão de parecer sobre os quesitos formulados. Determinando, ainda, que na seqüência de tramitação os autos do processo fossem encaminhados ao Ministério Público de Contas, para análise do mérito e emissão de parecer sobre os quesitos formulados, como se constata no despacho prolatado à fl.07 dos autos.
+
+Os quesitos submetidos à análise da Consultoria Técnica e do Ministério Público de Contas foram formulados nos seguintes termos:
+
+1. Há possibilidade de Servidor Efetivo (Professor) investido no Cargo em Comissão de Secretário Municipal, perceber cumulativamente, vencimentos do Cargo Efetivo e gratificação do Cargo em Comissão?
+
+2. Qual deva ser a fonte de recurso utilizada para pagamento de Servidor que se enquadre na situação acima descrita?
+
+Em síntese, a Consultoria Técnica, através do Parecer nº 30/10 acostado às fls. 67/68, subscrito pelo Consultor Técnico Francisco Nunes de Brito Filho, entende que não há possibilidade de perceber cumulativamente vencimentos de Cargo Efetivo com a gratificação do Cargo em Comissão de Secretário Municipal. E, ademais, a matéria já foi objeto de consulta e entendimento desta Corte exarado na Resolução nº 961/05, é no sentido que não há possibilidade de acumulação de subsídio com outro cargo efetivo, conforme art. 39, § 4º da Constituição Federal.
+
+---
+
+Relatório elaborado em 27 de outubro de 2010 — 2 — Sala da Corregedoria Geral do TCE-PI
+
+---
+Notas visuais: no carimbo, os rótulos impressos "TRIBUNAL DE CONTAS DO ESTADO" e "PROC. Nº"/"FLS." estão quase apagados; assinatura no campo do funcionário registrada de forma neutra.
+
 
 #### Página 3 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo de protocolo no canto superior direito, mesmo modelo: "TRIBUNAL DE CONTAS DO ESTADO" / "PROC. Nº" (manuscrito) "30.547/10" "FLS." (manuscrito) "83" / assinatura manuscrita no campo / "SECRETARIA - FUNCIONÁRIO"]
+
+[Brasão do Estado do Piauí à esquerda]
+
+Tribunal de Contas do Estado do Piauí
+**Corregedoria Geral**
+
+No Parecer nº. 2010PC0007 do Ministério Público de Contas, que repousa às fls.71/73, o Procurador Plínio Valente Ramos Neto opina da seguinte forma: 1º) "O cargo de Secretário Municipal pode ser cumulado com o Cargo de Professor Efetivo, desde que haja compatibilidade de horário". 2º) "A despesa com remuneração do servidor efetivo que exerce a função de Secretário deve ser alocada em dotação específica para pagamento de pessoal no orçamento do município, excluída a possibilidade de utilização das receitas do FUNDEB para tal despesa.
+
+O Conselheiro – Revisor Jaime Amorim Júnior manifestou-se com se constata à fl. 74 dos autos.
+
+**Este é o Relatório. Passo ao Voto**
+
+Face ao exposto, e o mais que dos autos consta, voto pelo conhecimento da consulta formulada, pelas razões e fundamentos expostos no despacho prolatado à fl. 05 dos autos, e, quanto ao mérito, em concordância com o Parecer da Consultoria Técnica nº 30/10 (fls. 67/68), ratificando o entendimento desta Corte, já exarado na Resolução nº 961/05, no sentido que não há possibilidade de perceber cumulativamente vencimento do cargo efetivo com a gratificação do cargo em comissão e, consequentemente, pela aprovação do Parecer da Consultoria Técnica que materializa o posicionamento desta Corte de Contas em resposta à consulta formulada pelo Secretário Municipal de Educação, Cultura. Desporto e Lazer de Bonfim do Piauí, Sr. Humberto Fe[rn?]andes Viana, devendo ser encaminhada ao consulente, cópias autênticas do referido Parecer e do Acórdão do Plenário deste Tribunal de Contas, que o aprovou como posicionamento sobre a consulta formulada.
+
+Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina, 25 de novembro de 2010.
+
+[assinatura manuscrita sobreposta ao nome impresso]
+**Cons. Subs. Alisson Felipe de Araújo**
+
+---
+
+Relatório elaborado em 27 de outubro de 2010 — 3 — Sala da Corregedoria Geral do TCE-PI
+
+---
+Notas visuais: aspas de abertura do item 2º sem fechamento correspondente, conforme original. “dotação específica” tem acento; “Cultura. Desporto” tem ponto. A forma Fe[rn?]andes registra a fusão gráfica rn/m nesta página, sem resolver por outras páginas. Assinatura descrita sem autoria atribuída.
+
+[Carimbo: TRIBUNAL DE CONTAS DO ESTADO / PROC. Nº / FLS. 83 (manuscrito) / SECRETARIA - FUNCIONÁRIO; traços manuscritos sem autoria atribuída.]
 
 ### Documento vinculado pela fonte
 
@@ -369,3 +450,11 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 - PDF vinculado: 4 página(s), 560965 bytes, SHA-256 `ea4f010c6f00f73cf324ab79b59f6400355653a68b2bb1154404e2efa1537a8c`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. A Resolução 961/05 anexada é distinta do parecer da Consultoria Técnica. Nessa cópia degradada, algarismos 26/28 e palavras borradas permanecem explicitamente prováveis. Divergências entre os procuradores dos quadros e os presentes na sessão não foram harmonizadas. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 3 página(s), 326013 bytes, SHA-256 `7d939f21ddaeb798baa3f194cc166620363e133d05a53c8ab021d0fc1f24a0e2`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte, sem continuação ou conclusão. A fusão gráfica rn/m permanece incerta no Voto6. O número profissional da OAB permanece ocultado por decisão editorial. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
