@@ -1,11 +1,10 @@
 # PGERS
 
-Procuradoria-Geral do Estado do Rio Grande do Sul. **15 registros.**
-
-Esta série reúne as Súmulas de Jurisprudência Administrativa da Comissão Especial de Advocacia Dativa (CEAD), publicadas no portal da PGE/RS. Não representa a totalidade dos pareceres nem das demais séries da Procuradoria. A CEAD é identificada em cada registro e na série própria.
+Procuradoria-Geral do Estado do Rio Grande do Sul. **23 registros** no acervo local desta integração.
 
 | Espécie | Registros |
 | --- | ---: |
-| [Súmula Administrativa CEAD](sum-cead/) | 15 |
+| [Súmulas CEAD](sum-cead/) | 15 |
+| [Pareceres com caráter jurídico-normativo](par-norm/) | 8 |
 
-Os nove documentos de reunião vinculados pela página da CEAD têm transcrição das 11 páginas, nos registros correspondentes. Documentos compartilhados por vários enunciados aparecem uma vez, com vínculos internos nos demais registros.
+A série CEAD permanece inalterada. Os pareceres com caráter jurídico-normativo vêm da [página oficial](https://www.pge.rs.gov.br/pareceres-da-pge-com-carater-juridico-normativo) consultada em 04/11/2026; 53 vínculos de PDF representam 52 identidades; 8 receberam corpo neste lote e 44 identidades permanecem pendentes. Os dois vínculos do parecer 19861 não são contados como dois pareceres. Não se afirma completude do acervo histórico nem vigência.

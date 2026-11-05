@@ -1,0 +1,87 @@
+# PGEPR · Orientação Administrativa nº 79/PGE
+
+- **Órgão:** Procuradoria-Geral do Estado do Paraná (PGEPR)
+- **Série:** Orientações Administrativas
+- **Espécie:** Orientação Administrativa
+- **Número:** 79
+- **Identificador:** `pgepr-oa-79`
+- **Rótulo no catálogo:** Orientação nº 079/PGE
+- **Situação no catálogo:** PDF (Editado pela Resolução n° 287/2022 - PGE )
+- **Ementa no catálogo:** Fiscalização de Contratos e Convênios
+- **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
+- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm079PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm079PGE.pdf)
+- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
+- **Capturas:** HTTP 200 em 04/11/2026; 143440 bytes; SHA-256 `9625ddff9dafa3ce3622b0ac6bab5af36b8af83811111a34befa247c3112f7ff`
+- **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
+
+## Texto do PDF
+
+### Página física 1
+
+71
+                                                                                                                                                                      15
+
+
+                                                  ORIENTAÇÃO ADMINISTRATIVA N.º 79 – PGE
+
+
+                               A PROCURADORA-GERAL DO ESTADO, no uso das atribuições que lhe
+                     conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de
+                     2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985,
+                     alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987, pela Lei
+                     Complementar nº 195, de 28 de abril de 2016 e pela Lei Complementar nº 246, de
+                     20 de maio de 2022 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de
+                     setembro de 2019, e considerando o que consta no protocolo n° 19.828.404-1, resolve
+                     expedir a seguinte orientação administrativa a todos os órgãos e entidades da
+                     Administração Pública Estadual Direta e Autárquica:
+
+
+                                                           Contratos da Administração
+                     TEMA DE INTERESSE
+                                                           Obras e Serviços de Engenharia
+                                                           Fiscalização de Contratos e Convênios
+
+
+                     1. A atividade de fiscalização das obras e serviços de engenharia e arquitetura objetos de
+                        contratos e convênios firmados pelo Estado do Paraná e demais entidades da
+                        Administração Indireta deverá ser realizada por meio de engenheiros(as) e/ou
+                        arquitetos(as) que sejam servidores públicos efetivos ou empregados públicos
+                        estaduais.
+                     2. Em havendo necessidade de profissionais para assistir e subsidiar o gestor da obra ou
+                        serviço de engenharia e arquitetura, considerando a vultuosidade e a complexidade do
+                        empreendimento, é possível que sejam contratados engenheiros(as) e/ou arquitetos(as)
+                        que não sejam parte do quadro efetivo de servidores estaduais, nem empregados
+                        públicos estaduais, como profissionais auxiliares.
+                     3. As atividades privativas de fiscais deverão, necessariamente, ser executadas pelo fiscal
+                        do contrato ou do convênio, sendo que eventual análise realizada pelo assistente de
+                        fiscalização será meramente suplementar.
+                     4. É permitida a contratação de terceiros para assistir e subsidiar o fiscal do contrato com
+                        informações pertinentes a essa atribuição, porém, o terceiro não poderá exercer
+                        funções privativas de fiscal.
+                     5. Esta Orientação Administrativa substitui a Orientação Administrativa nº 34-PGE, aprovada
+                        pela Resolução nº 106/2019-PGE.
+
+
+                     REFERÊNCIAS: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.
+
+
+                     PUBLIQUE-SE. ANOTE-SE.
+
+
+                                                        Curitiba, datado e assinado digitalmente.
+
+
+                                                                   Leticia Ferreira da Silva
+                                                                 Procuradora-Geral do Estado
+
+                 Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300                                          www.pge.pr.gov.br
+
+
+Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 21/12/2022 18:31. Inserido ao protocolo 19.828.404-1 por: Viviane Maria de Lara da Silva em: 21/12/2022
+18:05. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
+https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento com o código: f5d55b5817031fa50ea941d61fc9581.
+
+
+## Conferência e limites
+
+Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
