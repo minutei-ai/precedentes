@@ -102,9 +102,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 28/05/2014 12:47:29
-    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA:47055499372 - 29/05/2014 10:22:02
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 28/05/2014 12:11:13
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 28/05/2014 12:47:29
+    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA: [identificador e-TCE ocultado] - 29/05/2014 10:22:02
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 28/05/2014 12:11:13
     
            Gab. Consª Lilian Martins- Acórdão nº 568/14 – Consulta
     
@@ -266,7 +266,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 19/05/2014 09:23:33
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 19/05/2014 09:23:33
     
     
     

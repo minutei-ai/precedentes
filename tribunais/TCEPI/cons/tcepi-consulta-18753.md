@@ -110,7 +110,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 15/06/2018 10:25:51
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 15/06/2018 10:25:51
     
     
     
@@ -268,7 +268,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 11/06/2018 10:23:58
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 11/06/2018 10:23:58
     
     
                                                                                                          4

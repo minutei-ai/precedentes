@@ -115,9 +115,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
         (Assinado digitalmente)
         Fui presente, Plínio Valente Ramos Neto                                Representante do MPC.
     
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 09/06/2016 11:38:01
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 09/06/2016 11:53:38
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 09/06/2016 10
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 09/06/2016 11:38:01
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 09/06/2016 11:53:38
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 09/06/2016 10
                                                                                                             2
            TC/005274/2016 – CONSULTA – AMPAR
     

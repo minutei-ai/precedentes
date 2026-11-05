@@ -114,13 +114,13 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE         ARAUJO:02088518444 - 12/05/2015 13:29:47
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE         ARAUJO: [identificador e-TCE ocultado] - 12/05/2015 13:29:47
                                                                     AC nº. 22/2015
                                                            PROCESSO TC nº. 010.674/14
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO       DE    CARVALHO           FILHO:06638023349
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO       DE    CARVALHO           FILHO: [identificador e-TCE ocultado]
                                                       Relator: Conselheiro-Substituto Alisson Araújo         - 13/05/2015 2/2
                                                                                                                           10:34:29
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 13/05/2015 11:37:52
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 13/05/2015 11:37:52
     
 
 ### Documento vinculado pela fonte
@@ -565,7 +565,7 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO:02088518444 - 06/05/2015 11:59:06
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO: [identificador e-TCE ocultado] - 06/05/2015 11:59:06
     
     
                                                                 Processo TC nº. 010.674/14
@@ -917,7 +917,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA:47055499372 - 17/10/2014 12:28:49
+    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA: [identificador e-TCE ocultado] - 17/10/2014 12:28:49
     
 
 ### Links presentes no PDF

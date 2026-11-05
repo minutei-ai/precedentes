@@ -99,9 +99,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 12/05/2015 12:50:51
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 07/05/2015 09:24:34
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 11/05/2015 08:52:04
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 12/05/2015 12:50:51
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 07/05/2015 09:24:34
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 11/05/2015 08:52:04
     
 
 ### Documento vinculado pela fonte
@@ -277,7 +277,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 29/04/2015 08:21:03
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 29/04/2015 08:21:03
     
     
     

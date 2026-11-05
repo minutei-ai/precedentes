@@ -108,7 +108,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 03/04/2018 13
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 03/04/2018 13
     
     
     

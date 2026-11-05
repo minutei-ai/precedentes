@@ -148,7 +148,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 12/04/2018 11:50:57
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 12/04/2018 11:50:57
 
 ## Ementa
 

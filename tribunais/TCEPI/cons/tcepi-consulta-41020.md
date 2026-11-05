@@ -156,7 +156,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA:42232503372 - 16/03/2023 12:29:55
+    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 16/03/2023 12:29:55
     Para validar essa(s) assinatura(s) acesse http://validador.tce.pi.gov.br e insira o codigo - AA9FBCA466AE2BC2AA76607B374FD97C
 
 ## Ementa

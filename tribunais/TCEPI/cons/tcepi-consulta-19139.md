@@ -111,7 +111,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 19/07/2018 10:55:48
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 19/07/2018 10:55:48
 
 ## Ementa
 

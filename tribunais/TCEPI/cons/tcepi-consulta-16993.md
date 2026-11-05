@@ -103,9 +103,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 03/04/2017 11:00:04
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 03/04/2017 10:17:52
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 31/03/2017 11:07:28
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 03/04/2017 11:00:04
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 03/04/2017 10:17:52
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 31/03/2017 11:07:28
 
 ## Ementa
 

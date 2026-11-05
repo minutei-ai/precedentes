@@ -110,9 +110,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 05/05/2015 10:39:30
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 30/04/2015 10:58:48
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 30/04/2015 10:12:32
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 05/05/2015 10:39:30
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 30/04/2015 10:58:48
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 30/04/2015 10:12:32
     
     
                                                                                                                   2
@@ -303,7 +303,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 24/04/2015 09:20:19
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 24/04/2015 09:20:19
     
     
     
@@ -473,7 +473,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 31/03/2015 08:01:42
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 31/03/2015 08:01:42
     
     
     
@@ -880,8 +880,8 @@ O PDF contém 9 página(s). Relatórios, votos e outros atos de contexto permane
     Assinado Digitalmente pelo sistema e-TCE - ANDERSON Diretora
                                                           VIEIRA DA COSTA:98553321304 - 25/03/2015 08:17:16
                                                                   DFAE
-    Assinado Digitalmente pelo sistema e-TCE - JOSE AUGUSTO NUNES SOARES:20170998304 - 25/03/2015 08:18:59
-    Assinado Digitalmente pelo sistema e-TCE - MARIA VALERIA SANTOS LEAL:46435743568 - 25/03/2015 11:27:09
+    Assinado Digitalmente pelo sistema e-TCE - JOSE AUGUSTO NUNES SOARES: [identificador e-TCE ocultado] - 25/03/2015 08:18:59
+    Assinado Digitalmente pelo sistema e-TCE - MARIA VALERIA SANTOS LEAL: [identificador e-TCE ocultado] - 25/03/2015 11:27:09
     
 
 ### Links presentes no PDF

@@ -114,9 +114,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
         (Assinado digitalmente)
         Fui presente, Márcio André Madeira de Vasconcelos                      Representante do MPC.
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 20/05/2016 10:11:40
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 24/05/2016 14
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 23/05/2016 13:02:07
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 20/05/2016 10:11:40
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 24/05/2016 14
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 23/05/2016 13:02:07
                                                                                                             2
            TC/001176/2016 – CONSULTA – Associação Piauiense dos Municípios – APPM
     
@@ -476,7 +476,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 13/05/2016 13
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 13/05/2016 13
                                                                                                              7
     
 

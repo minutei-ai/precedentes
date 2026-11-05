@@ -93,7 +93,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 02/03/2018 11:05:23
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 02/03/2018 11:05:23
     
 
 ### Documento vinculado pela fonte
@@ -251,7 +251,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 16/02/2018 10:54:55
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 16/02/2018 10:54:55
     
     
     

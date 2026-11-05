@@ -76,8 +76,8 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     
                   Cons. Luciano Nunes Santos                                                    Relator
     
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 17/12/2014 12:50:06
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 17/12/2014 09:37:10
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 17/12/2014 12:50:06
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 17/12/2014 09:37:10
           FuiDigitalmente
     Assinado   Presente:pelo
                            Márcio    André
@@ -176,7 +176,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
                                              ___________________________________
                                                   Conselheiro Luciano Nunes Santos
                                                                 Relator
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 16/12/2014 07:50:24
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 16/12/2014 07:50:24
     
     
     
@@ -325,7 +325,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA:47055499372 - 28/10/2014 14:13:18
+    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA: [identificador e-TCE ocultado] - 28/10/2014 14:13:18
              _________________________________________________________________
                                              Ministério Público de Contas
                                                            3
@@ -699,9 +699,9 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ANGELA VILARINHO DA ROCHA:35007621315 - 16/10/2014 10:14:24
-    Assinado Digitalmente pelo sistema e-TCE - FABRICIA BARBOSA DE OLIVEIRA:66369096334 - 15/10/2014 11:50:50
-    Assinado Digitalmente pelo sistema e-TCE - MARTA FERNANDES DE OLIVEIRA COELHO:34929568315 - 17/10/2014 09:18:23
+    Assinado Digitalmente pelo sistema e-TCE - ANGELA VILARINHO DA ROCHA: [identificador e-TCE ocultado] - 16/10/2014 10:14:24
+    Assinado Digitalmente pelo sistema e-TCE - FABRICIA BARBOSA DE OLIVEIRA: [identificador e-TCE ocultado] - 15/10/2014 11:50:50
+    Assinado Digitalmente pelo sistema e-TCE - MARTA FERNANDES DE OLIVEIRA COELHO: [identificador e-TCE ocultado] - 17/10/2014 09:18:23
 
 ## Ementa
 

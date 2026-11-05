@@ -127,7 +127,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 10/01/2022 08:05:31
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 10/01/2022 08:05:31
               TC/016850/2021
     Para validar essa(s) assinatura(s) acesse http://validador.tce.pi.gov.br eACÓRDÃO
                                                                                insira o codigo -Nº 920/2021-SPL

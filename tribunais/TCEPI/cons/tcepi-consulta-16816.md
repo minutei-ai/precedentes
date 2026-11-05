@@ -147,9 +147,9 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 16/06/2016 10:37:06
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 15/06/2016 11:50:14
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 13/06/2016 10:46:14
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 16/06/2016 10:37:06
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 15/06/2016 11:50:14
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 13/06/2016 10:46:14
                                                                                                                   3
     
 
@@ -289,7 +289,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 03/06/2016 10:25:17
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 03/06/2016 10:25:17
     
     
                                                                                                                   3
@@ -588,7 +588,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 18/05/2016 12:26:02
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 18/05/2016 12:26:02
     
 
 ### Links presentes no PDF
@@ -1412,9 +1412,9 @@ O PDF contém 14 página(s). Relatórios, votos e outros atos de contexto perman
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 05/05/2016 12:51:07
-    Assinado Digitalmente pelo sistema e-TCE - DJENANE DE MELO RODRIGUES:39566358334 - 06/05/2016 10:35:07
-    Assinado Digitalmente pelo sistema e-TCE - LAURA DONARYA ALVES DE SA NASCIMENTO:00695755331 - 05/05/2016 12:43:57
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 05/05/2016 12:51:07
+    Assinado Digitalmente pelo sistema e-TCE - DJENANE DE MELO RODRIGUES: [identificador e-TCE ocultado] - 06/05/2016 10:35:07
+    Assinado Digitalmente pelo sistema e-TCE - LAURA DONARYA ALVES DE SA NASCIMENTO: [identificador e-TCE ocultado] - 05/05/2016 12:43:57
     
 
 ### Links presentes no PDF

@@ -124,7 +124,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
            (Assinado digitalmente)
            Consª Waltânia Maria Nogueira de Sousa Leal Alvarenga                                Relatora
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 16/05/2018 14
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 16/05/2018 14
     
     
     
@@ -386,7 +386,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 11/05/2018 12
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 11/05/2018 12
     
                                                                                                            5
            _________________________________________________________________

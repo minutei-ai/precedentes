@@ -101,7 +101,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 18/12/2015 08:30:25
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 18/12/2015 08:30:25
              Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 15/12/2015 13:10:41
     Assinado__________________________________________________________________________________________
     AssinadoConsulta      pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 17/12/2015 12
@@ -371,7 +371,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 10/12/2015 13
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 10/12/2015 13
     
     
     

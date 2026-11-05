@@ -111,9 +111,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 06/07/2015 08:07:07
-    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA:42232503372 - 03/07/2015 11:54:38
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 03/07/2015 10:53:01
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 06/07/2015 08:07:07
+    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 03/07/2015 11:54:38
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 03/07/2015 10:53:01
     
 
 ### Documento vinculado pela fonte
@@ -310,7 +310,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA:42232503372 - 30/06/2015 13:31:04
+    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 30/06/2015 13:31:04
     
     
     

@@ -97,11 +97,11 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 17/11/2015 13:45:43
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 17/11/2015 13:45:43
                                                                                                                1/1
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 17/11/2015 11:23:15
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 17/11/2015 11:23:15
             PROCESSO TC/016049/2015 – ACÓRDÃO Nº 2.504/2015
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 17/11/2015 12:30:33
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 17/11/2015 12:30:33
 
 ## Ementa
 

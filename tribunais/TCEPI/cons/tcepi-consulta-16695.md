@@ -99,9 +99,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 12/05/2015 07:47:54
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 13/05/2015 07:06:47
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 13/05/2015 11:39:00
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 12/05/2015 07:47:54
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 13/05/2015 07:06:47
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 13/05/2015 11:39:00
     
 
 ### Documento vinculado pela fonte
@@ -215,7 +215,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 05/05/2015 09:06:54
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 05/05/2015 09:06:54
     
     
                                                                                                          3
@@ -328,7 +328,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
                                       Raïssa Maria Rezende de Deus Barbosa
                                    Procuradora do Ministério Público de Contas
-    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA:47055499372 - 17/04/2015 09:50:51
+    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA: [identificador e-TCE ocultado] - 17/04/2015 09:50:51
              _________________________________________________________________
                                               Ministério Público de Contas
                                                             2
@@ -663,9 +663,9 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ANDREA FREITAS SILVA:00810019329 - 09/04/2015 08:09:52
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 09/04/2015 10:08:37
-    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA:39508617349 - 09/04/2015 13:10:45   6
+    Assinado Digitalmente pelo sistema e-TCE - ANDREA FREITAS SILVA: [identificador e-TCE ocultado] - 09/04/2015 08:09:52
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 09/04/2015 10:08:37
+    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA: [identificador e-TCE ocultado] - 09/04/2015 13:10:45   6
     
 
 ### Links presentes no PDF

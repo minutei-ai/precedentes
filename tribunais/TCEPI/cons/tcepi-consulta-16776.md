@@ -93,9 +93,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 13/08/2014 10:57:27
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 11/08/2014 08:07:26
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 11/08/2014 13
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 13/08/2014 10:57:27
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 11/08/2014 08:07:26
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 11/08/2014 13
     
 
 ### Documento vinculado pela fonte
@@ -341,7 +341,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 07/08/2014 09:54:13
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 07/08/2014 09:54:13
     
     
                                                                                                          5

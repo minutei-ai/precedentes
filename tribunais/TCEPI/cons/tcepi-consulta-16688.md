@@ -105,9 +105,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 13/10/2014 13:51:55
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 15/10/2014 10:06:48
-    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA:42232503372 - 10/10/2014 10:07:21
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 13/10/2014 13:51:55
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 15/10/2014 10:06:48
+    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 10/10/2014 10:07:21
     
 
 ### Documento vinculado pela fonte
@@ -320,7 +320,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA:42232503372 - 03/10/2014 10:21:23
+    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 03/10/2014 10:21:23
     
     
                                                                                                        4

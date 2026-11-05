@@ -107,7 +107,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS:22802800353 - 02/10/2017 12:25:05
+    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS: [identificador e-TCE ocultado] - 02/10/2017 12:25:05
 
 ## Ementa
 

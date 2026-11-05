@@ -72,10 +72,10 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
                Cons. Olavo Rebêlo de Carvalho Filho_____________________ Presidente em exercício
     
                Cons. Joaquim Kennedy Nogueira Barros __________________ Relator
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 05/05/2015 10:38:12
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 05/05/2015 10:38:12
                    Fui Presente: Plínio Valente Ramos Neto ____________________________ Representante do MPC
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 04/05/2015 12:06:35
-    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS:22802800353 - 04/05/2015 09:54:46
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 04/05/2015 12:06:35
+    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS: [identificador e-TCE ocultado] - 04/05/2015 09:54:46
     
 
 ### Documento vinculado pela fonte
@@ -182,7 +182,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
                                                   Teresina, 16 de abril de 2015.
     
-    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS:22802800353 - 24/04/2015 09:37:02
+    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS: [identificador e-TCE ocultado] - 24/04/2015 09:37:02
     
     
     
@@ -311,7 +311,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 26/02/2015 11:50:07
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 26/02/2015 11:50:07
     
 
 ### Links presentes no PDF
@@ -506,9 +506,9 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 29/01/2015 13:27:47
-    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA:39508617349 - 30/01/2015 12:05:45
-    Assinado Digitalmente pelo sistema e-TCE - LUIS FERNANDO RAMOS RIBEIRO GONCALVES:01327635321 - 29/01/2015 12:23:50
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 29/01/2015 13:27:47
+    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA: [identificador e-TCE ocultado] - 30/01/2015 12:05:45
+    Assinado Digitalmente pelo sistema e-TCE - LUIS FERNANDO RAMOS RIBEIRO GONCALVES: [identificador e-TCE ocultado] - 29/01/2015 12:23:50
 
 ## Ementa
 

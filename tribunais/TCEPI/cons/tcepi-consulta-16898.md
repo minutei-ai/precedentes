@@ -74,7 +74,7 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     
                        Cons. Joaquim Kennedy Nogueira Barros                     Relator
     
-    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS:22802800353 - 26/05/2014 09:01:48
+    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS: [identificador e-TCE ocultado] - 26/05/2014 09:01:48
     AssinadoFui   presente:
              Digitalmente      Procuradora
                           pelo sistema          Raïssa Mª
@@ -83,7 +83,7 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
                                                             REZENDE    DEUSBarbosa   Representante
                                                                             BARBOSA:47055499372        do MPC
                                                                                                  - 26/05/2014 14:38:10
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 26/05/2014 11
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 26/05/2014 11
     
     
     
@@ -223,7 +223,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS:22802800353 - 19/05/2014 10:47:39
+    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS: [identificador e-TCE ocultado] - 19/05/2014 10:47:39
     
     
     

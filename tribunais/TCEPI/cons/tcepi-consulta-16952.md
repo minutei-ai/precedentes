@@ -125,9 +125,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS:20088175391 - 10/05/2017 11:53:09
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 10/05/2017 12:35:12
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 10/05/2017 11:17:25
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 10/05/2017 11:53:09
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 10/05/2017 12:35:12
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 10/05/2017 11:17:25
 
 ## Ementa
 

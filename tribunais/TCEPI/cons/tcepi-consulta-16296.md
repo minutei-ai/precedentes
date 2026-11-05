@@ -79,10 +79,10 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     
                                                           (Assinado digitalmente)
                                            Procurador Geral Márcio André Madeira de Vasconcelos
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE    VERAS:20088175391
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE    VERAS: [identificador e-TCE ocultado]
                                                          Representante do   MPC      - 28/09/2015 14:21:10
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 28/09/2015 12:07:38
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 28/09/2015 12:36:20
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 28/09/2015 12:07:38
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 28/09/2015 12:36:20
     
 
 ### Documento vinculado pela fonte
@@ -216,7 +216,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS:20088175391 - 21/09/2015 10:42:50
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 21/09/2015 10:42:50
     
     
                                                                                     - - - - PÁGINA 3 DE 3
@@ -355,7 +355,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
                          Encaminhem-se os presentes autos ao Sr. Relator.
                                        Teresina-PI, 28 de maio de 2015.
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 28/05/2015 09:55:13
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 28/05/2015 09:55:13
                                                  (assinado digitalmente)
                                               Plínio Valente Ramos Neto
                                     Procurador Ministério Público de Contas -TCE/PI

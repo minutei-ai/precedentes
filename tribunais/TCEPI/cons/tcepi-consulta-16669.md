@@ -104,9 +104,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 15/07/2015 11:08:09
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 15/07/2015 11:15:48
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 15/07/2015 12:48:46
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 15/07/2015 11:08:09
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 15/07/2015 11:15:48
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 15/07/2015 12:48:46
     
 
 ### Documento vinculado pela fonte
@@ -421,7 +421,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 10/07/2015 11:03:08
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 10/07/2015 11:03:08
     
     
            ___________________________________________________________________________________________   7

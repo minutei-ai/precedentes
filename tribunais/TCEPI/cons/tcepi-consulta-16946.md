@@ -102,9 +102,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 13/02/2017 09:44:07
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 13/02/2017 08:34:36
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 09/02/2017 12:31:00
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 13/02/2017 09:44:07
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 13/02/2017 08:34:36
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 09/02/2017 12:31:00
     
                                Gab. Consª Lilian Martins- Acórdão nº 159/17 – Consulta – Câmara Municipal e São Pedro do Piauí
 

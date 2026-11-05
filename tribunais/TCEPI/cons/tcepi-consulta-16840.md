@@ -97,9 +97,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 15/07/2015 11:08:09
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 15/07/2015 11:15:48
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 15/07/2015 12:48:45
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 15/07/2015 11:08:09
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 15/07/2015 11:15:48
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 15/07/2015 12:48:45
     
 
 ### Documento vinculado pela fonte
@@ -283,7 +283,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 13/07/2015 11:14:01
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 13/07/2015 11:14:01
     
     
            ___________________________________________________________________________________________   4
@@ -411,7 +411,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO:81093144300 - 13/05/2015 09:11:24
+    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO: [identificador e-TCE ocultado] - 13/05/2015 09:11:24
     
     
     
@@ -711,8 +711,8 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
          Diretor
     Assinado       da DFAM
              Digitalmente pelo sistema e-TCE - ANDREA FREITAS SILVA:00810019329 - 06/02/2015 09:54:02
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 06/02/2015 11:08:33
-    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA:39508617349 - 06/02/2015 09:55:50
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 06/02/2015 11:08:33
+    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA: [identificador e-TCE ocultado] - 06/02/2015 09:55:50
 
 ## Ementa
 

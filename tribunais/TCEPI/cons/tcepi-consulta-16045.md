@@ -115,9 +115,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 22/06/2015 10:40:26
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 22/06/2015 08:00:15
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 22/06/2015 10:40:34
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 22/06/2015 10:40:26
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 22/06/2015 08:00:15
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 22/06/2015 10:40:34
     
     
                                                                                                                   2
@@ -448,7 +448,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO:81093144300 - 21/05/2015 08:30:40
+    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO: [identificador e-TCE ocultado] - 21/05/2015 08:30:40
     
     
     
@@ -636,9 +636,9 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 13/05/2015 11:28:15
-    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA:39508617349 - 14/05/2015 09:08:24
-    Assinado Digitalmente pelo sistema e-TCE - LUIS FERNANDO RAMOS RIBEIRO GONCALVES:01327635321 - 13/05/2015 08:01:42
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 13/05/2015 11:28:15
+    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA: [identificador e-TCE ocultado] - 14/05/2015 09:08:24
+    Assinado Digitalmente pelo sistema e-TCE - LUIS FERNANDO RAMOS RIBEIRO GONCALVES: [identificador e-TCE ocultado] - 13/05/2015 08:01:42
 
 ## Ementa
 

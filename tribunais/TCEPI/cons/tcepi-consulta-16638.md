@@ -105,9 +105,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO:81093144300 - 05/06/2014 12:02:46
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 05/05/2014 22:30:57
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 05/05/2014 14
+    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO: [identificador e-TCE ocultado] - 05/06/2014 12:02:46
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 05/05/2014 22:30:57
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 05/05/2014 14
     
 
 ### Documento vinculado pela fonte
@@ -437,7 +437,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 25/04/2014 12:28:35
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 25/04/2014 12:28:35
     
     
                                                                                                          7

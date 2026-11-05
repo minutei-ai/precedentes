@@ -118,9 +118,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 15/10/2014 10:09:53
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 30/09/2014 08:51:19
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 20/10/2014 09
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 15/10/2014 10:09:53
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 30/09/2014 08:51:19
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 20/10/2014 09
     
            Gab. Consª Lilian Martins- Acórdão nº 1.188/14 – Consulta - SEMCOM
     
@@ -390,7 +390,7 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
                                         Sala das Sessões, 18 de setembro de 2014.
     
                              _________________________________________________
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 19/09/2014 11:16:56
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 19/09/2014 11:16:56
                                      Lilian de Almeida Veloso Nunes Martins
                                                  Conselheira Relatora
     

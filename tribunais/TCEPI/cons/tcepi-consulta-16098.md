@@ -110,9 +110,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 25/06/2014 10:58:23
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 25/06/2014 10:50:47
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 25/06/2014 12
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 25/06/2014 10:58:23
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 25/06/2014 10:50:47
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 25/06/2014 12
     
            Gab. Consª Lilian Martins- Acórdão nº 711/14 – Consulta
     
@@ -319,7 +319,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 09/06/2014 12:21:58
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 09/06/2014 12:21:58
     
     
     
@@ -459,7 +459,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 06/05/2014 09:01:13
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 06/05/2014 09:01:13
     
     
     
@@ -1467,8 +1467,8 @@ O PDF contém 19 página(s). Relatórios, votos e outros atos de contexto perman
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ELBERT SILVA LUZ ALVARENGA:00094212384 - 15/04/2014 13:09:08
-    Assinado Digitalmente pelo sistema e-TCE - PAULO SERGIO CASTELO BRANCO CARVALHO NEVES:36210552315 - 16/04/2014 12:05:0
+    Assinado Digitalmente pelo sistema e-TCE - ELBERT SILVA LUZ ALVARENGA: [identificador e-TCE ocultado] - 15/04/2014 13:09:08
+    Assinado Digitalmente pelo sistema e-TCE - PAULO SERGIO CASTELO BRANCO CARVALHO NEVES: [identificador e-TCE ocultado] - 16/04/2014 12:05:0
     
 
 ### Links presentes no PDF

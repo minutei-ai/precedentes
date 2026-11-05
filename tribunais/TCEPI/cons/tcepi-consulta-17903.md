@@ -105,10 +105,10 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
            Cons. Abelardo Pio Vilanova e Silva (assinado digitalmente) Presidente em exercício
            Cons.ª Lilian de A. V. N. Martins (assinado digitalmente) Relatora
            Fui presente: Plínio Valente Ramos Neto (assinado digitalmente) Procurador Geral
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 20/06/2017 13:02:44
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 20/06/2017 13:02:44
             MPC-TCE/PI
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 20/06/2017 12:20:17
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 20/06/2017 12:01:19
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 20/06/2017 12:20:17
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 20/06/2017 12:01:19
 
 ## Ementa
 
