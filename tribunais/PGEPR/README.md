@@ -1,9 +1,9 @@
 # PGEPR
 
-Procuradoria-Geral do Estado do Paraná. **80 fichas documentais** nesta integração parcial: 77 com extração textual pendente de conferência integral e 3 com corpo ilegível retido.
+Procuradoria-Geral do Estado do Paraná. **102 fichas de identidade** na série administrativa própria, distinta do TJPR e do TCEPR.
 
 | Espécie | Registros |
 | --- | ---: |
-| [Orientações Administrativas](oa/) | 80 |
+| [Orientações Administrativas](oa/) | 102 |
 
-Série administrativa própria, distinta do TJPR e do TCEPR. O catálogo oficial lista também orientações substituídas, suspensas ou ainda sem PDF próprio recuperado nesta coleta; essas identidades constam do inventário da série. As fichas 31, 32 e 55 preservam metadados de catálogo, mas não publicam o corpo ilegível. A amostra visual de três primeiras páginas não valida integralmente as demais extrações. Não se afirma completude histórica nem vigência.
+O índice reúne as camadas já integradas: 98 arquivos principais com texto e três complementos separados para as orientações 31, 32 e 55; a 98 permanece sem corpo. Essas contagens descrevem disponibilidade, não validação literal ou visual. Notas de substituição, suspensão e versões permanecem atribuídas ao catálogo; não se afirma vigência ou completude histórica. Reconsulta de 05/11/2026: 102 linhas, números 1–99 e 101–103; nº 100 ausente dessa captura. A issue #256 continua aberta pela conferência integral dos documentos.
