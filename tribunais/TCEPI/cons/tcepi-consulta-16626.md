@@ -22,110 +22,59 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-    •    .: :J
-    
-    
-    
-    
-                            Estado do Piauí                                                    ,
-                            Tribunal de Contas                                                      o    ,'u ..ONÂRIO
-    
-    
-                                            ACÓRDÃO N9 31212.013                                   'o OárioOfici&
-                                                                                                          pagin3_       .       .'
-        PROCESSO: T.C. E Ng 024701/2.011.                                                 rï..i(JO7o.f                      ,
-        ÕRGÃO:PM de - COLÓNIA DE DURGUÉIA,
-        RESPONSÁVEL: FRANCISCO CARLOS AMORIM DO NASCIMENTO.
-        RELATOR: CONS. LUCIANO NUNES SANTOS.
-    
-                                                                 Resposta à Consulta a       Sessão Extraordinária a
-                                                                 Vereadores, O Plenário decidiu CONHECER a consulta
-                                                                 e respondê-la em consonância com a manifestação do
-                                                                 Ministério Público e parecer da DFAM. Decisão
-                                                                 unânime.
-    
-    
-    
-                  Vistos, relatados e discutions os pmsentes autos, considerando a manifestação da Comissão de
-        Reaimenlo e Juprjdncia (k. 0809). a informação da Diretoria de Fiscalização da Administração
-        Munrcial - DFAM (is. 85197), o parecer do Ministério Público de Contas (lIs. 99/101), e o mais que dos
-        autos consta. decidiu o Plenário, unãnime, conhecer da presente consulta, para respondê-la em
-        consonância com a manifestação ministerial e com o parecer da DFAM, por entender que materializam a
-        compreensão e o nosicionamento do Tribunal de Contas do Estado do Piaui —TCE/Pl, sobre a consulta,
-        rios seguintes termos' a): O paqamento por Sessões Extraordinárias está vedado pelo § 7 9 do art.. 57. da
-        Ccnsi'rução Feneml. aplicável, neto oíincpio da simelria, ao Parlamento Municipal. E irrelevante a
-        d:scjssão a respr.io do penado que ocorreu a Sessão (período legislativo ou recesso parlamentar: b) A
-        corvocação paro Presnoente ao Câmara para deliberar sobre assuntos relevantes não autoriza o dispêndio
-        de natureza odeninzalõra aos vereadores; C) O Presidente da Câmara deve atender a convocação da
-         Sessào Extraordinária realizada pelo P(efeito, para apreciar um projeto de lei, nas hipóteses de urgência ou
-          nteiesse público relevante ocorrido durante o recesso parlamentar: d) E plenamente possível a exigência
-         ao ressarcimento dos valores paaos indevidamente no ano de 2.009. E que a Administração Pública tem o
-         prazo de 05 (cinco) anos para anular seus atos eivados de ilegalidadeíinconstitucionalidade. Além desse
-         orazo. a Administração tem prazo de 05(cinco) anos para propor o demanda perante o Poder Judiciário,
-         contados a partrr do término do mandato dc agente politico. No que diz respeito especiticamente ao dever
-         mia ressarcir os danos causados à Administração, esse prazo é impnescritivel, podendo o agente ser
-          cenrandado a qualquer tempo: e) A responsabilidade pelo pagamento indevido realizado de má-fé por ë
-          sondada do ordenador de despesa e do servidor público beneficiado. Caso não haja comprovação de fé por
-          gane do servidor beneficiado, a responsabilidade é exclusiva do ordenador de despesa,nos temos da Lei n 2
-          8.428192.
-    
-                  Decidiu o Plenário, ainda. unanimo. encaminhar cópias autênticas dos Pareceres do Ministério
-          Pubhco de Contas e ca Diretoria de Fiscalização da Administração Municipal - DFAM ao consulente, nos
-          re»os ao voto dc' Recitar, juntado aos autos.
-    
-                   Presentes os Conselheiros Waltánia Maria Nogueira de Sousa Leal Alvarenga (Presidente),
-           Lcano Nonos Santos. Abelardo Pro Vinanova e Silva., Joaquim Kennedy Nogueira Barros, Olavo Rebelo de
-           Cravalíio Filho, Lílian de Almeida Veloso Nunes Martins e o Coas. Substituto Delano Carneiro da Cunha
-           Câmara em substituição ao Coas. Anfrisio Neto Lobão Castelo Branco (em gozo de férias regulamentares).
-    
-                   Representante do Ministério Público de Contas, presente: Sub-Procurador Geral Leandro Macid
-           cio Nascmentc.
-    
+[Carimbo de folha, canto superior direito, parcialmente apagado:] [...] ESTADO DO PIAUÍ / [manuscrito, leitura provável:] 24.701/11 FLS. [manuscrito, leitura provável:] 121 / [assinatura manuscrita na linha, não atribuída] / [...] [F]UNCIONÁRIO
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+Estado do Piauí
+Tribunal de Contas
+
+[Carimbo retangular de publicação, à direita, bordas pontilhadas:] Publica[do n]o Diário Oficial Eletrônico / nº [manuscrito:] 045 página [manuscrito:] 01 / em [manuscrito:] 07 / [leitura provável:] 03 / 13 / [rubrica manuscrita, não atribuída] / [SE]CRETA[RIA] [restante apagado]
+
+**ACÓRDÃO Nº 312/2.013**
+
+PROCESSO: T.C. E Nº 024701/2.011.
+ORGÃO:PM de – COLÔNIA DE DURGUÉIA.
+RESPONSÁVEL: FRANCISCO CARLOS AMORIM DO NASCIMENTO.
+RELATOR: CONS. LUCIANO NUNES SANTOS.
+
+> *Resposta à Consulta a  Sessão Extraordinária a Vereadores. O Plenário decidiu CONHECER a consulta e respondê-la em consonância com a manifestação do Ministério Público e parecer da DFAM.  Decisão unânime.*
+
+Vistos, relatados e discuti[d]os os presentes autos, considerando a manifestação da Comissão de Regimento e Jurisprudência (fls. 08/09), a  informação da Diretoria de Fiscalização da Administração Municipal – DFAM (fls. 85/97), o parecer do Ministério Público de Contas (fls. 99/101), e o mais que dos autos consta, decidiu o Plenário, unânime, **conhecer** da presente consulta, para **respondê-la** em consonância com a manifestação ministerial e com o parecer da DFAM, por entender que materializam a compreensão e o posicionamento do Tribunal de Contas do Estado do Piauí –TCE/PI, sobre a consulta, nos seguintes termos: a): O pagamento por Sessões Extraordinárias está vedado pelo § 7º, do art.. 57, da Constituição Federal, aplicável, pelo principio da simetria, ao Parlamento Municipal. É irrelevante a discussão a respeito do periodo que ocorreu a Sessão (período legislativo ou  recesso parlamentar; b) A convocação pelo Presi[d]ente [d]a Câmara para deliberar sobre assuntos relevantes não autoriza o dispêndio de natureza indenizatória aos vereadores; c) O Presidente da Câmara deve atender a convocação da Sessão Extraordinária realizada pelo Prefeito, para apreciar um projeto de lei, nas hipóteses de urgência ou interesse público relevante ocorrido durante o recesso parlamentar;  d) É plenamente possível a exigência do ressarcimento dos valores pagos indevidamente no ano de 2.009. É que a Administração Pública tem o prazo de 05 (cinco) anos para anular seus atos eivados de  ilegalidade/inconstitucionalidade. Além desse prazo, a Administração tem prazo de 05(cinco) anos para propor o demanda perante o Poder Judiciário, contados a partir do término do mandato do agente politico. No que diz respeito especificamente ao dever de ressarcir os danos causados à Administração, esse prazo é imprescritivel,  podendo o agente ser [d]emandado a qualquer tempo; e) A responsabilidade pelo pagamento indevido realizado de má-fé por é so[l]idaria do ordenador de despesa e do servidor público beneficiado. Caso não haja comprovação de fé por parte do servidor beneficiado, a responsabilidade é exclusiva do ordenador de despesa,nos temos da Lei nº 8.428/92.
+
+**Decidiu** o Plenário, ainda, unânime, **encaminhar** cópias autênticas dos Pareceres do Ministério Publico de Contas e [d]a Diretoria de Fiscalização da Administração Municipal – DFAM ao consulente, nos termos do voto do Relator, juntado aos autos.
+
+**Presentes** os Conselheiros Waltânia Maria Nogueira de Sousa Leal Alvarenga (Presidente), Luciano Nunes Santos, Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Olavo Rebelo de Cravalho Filho, Lílian de Almeida Veloso  Nunes Martins e o Cons. Substituto Delano Carneiro da Cunha Câmara em substituição ao Cons. Anfrisio Neto Lobão Castelo Branco (em gozo de férias regulamentares).
+
+Representante do Ministério Público de Contas, **presente:** Sub-Procurador Geral  Leandro Maciel do Nascimento.
+
+[Restante da página sem texto; apenas pontos de digitalização — conferido na imagem]
+
 
 #### Página 2 do PDF oficial
 
-                                                                                                       u STÜC CO PIAUt
-    
-                         Estado do Piau
-                         Tribuna' de Contas
-    
-          Tanscreva-se, Publique-se.e Cumpra-se.                                   1
-          Sessão ?lenMa Ordinária do TTibunal de Contas do Estado do Piaui. Teresina. 21 de fevereiro de,201.
-    
-    
-    
-    
-    Cos. (W                                     Leal Alvarenga                                     Presidente
-    
-    
-    
-    
-           Cone...Luci           Santos                                                                 Relator
-    
-    
-    
-    
-    Fui píesente: Leandro Maciel do Nascinnlo                        Sub- Procuaor Geral do MP de Contas
-                       --                ,1
-    
-    
-    
-    
-                                           E1
-                                            1
-                                                        V 1 A.
-    
-                                                  Aidja ()li%çiia Paiva
-                                                    [)ircwra da I)FA1
-                                                                               -
-    
-    
-                                                                                   1
-    
-    
-    
-                                            L           Iat.: 96.S17X
-    
+[Carimbo de folha, canto superior direito, parcialmente apagado:] [TRI]BUNAL DE CONTAS DO ESTADO DO PIAUÍ / [PROC.] Nº [manuscrito, leitura provável:] 24.701/11 FLS. [manuscrito:] 122 / [assinatura manuscrita na linha, não atribuída] / SECRETARIA - FUNCIONÁRIO
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+Estado do Piauí
+Tribunal de Contas
+
+Transcreva-se, Publique-se e Cumpra-se.
+Sessão Plenária Ordinária do Tribunal de Contas do Estado do Piauí, Teresina, 21 de fevereiro de 2013.
+
+[assinatura manuscrita, não atribuída]
+Consª. Waltânia Maria Nogueira de Sousa Leal Alvarenga — Presidente
+
+[assinatura manuscrita, não atribuída]
+Cons. Luciano Nunes Santos — Relator
+
+[assinatura manuscrita, não atribuída]
+Fui presente: Leandro Maciel do Nascimento — Sub-  Procurador Geral do MP de Contas
+
+[Carimbo retangular, ao centro:] VISTO / [rubrica manuscrita sobreposta, não atribuída] / Andréa Oliveira Paiva / Diretora da DFAM / Mat.: [identificador pessoal ocultado]
+
+[Linha vertical tracejada de dobra/digitalização no meio da página e sujeira na margem direita; restante da página sem texto — conferido na imagem]
 
 ### Documento vinculado pela fonte
 
@@ -762,3 +711,7 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 - PDF vinculado: 2 página(s), 287185 bytes, SHA-256 `4f97feb303603390897197f8f44abb4b4475a9f0e30185fedf795d55db8fbf72`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte, sem continuação ou conclusão. A fusão gráfica rn/m permanece incerta no Voto6. O número profissional da OAB permanece ocultado por decisão editorial. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+## Conferência do acórdão por imagens — 05/11/2026
+
+As páginas do PDF vinculado foram novamente transcritas e cotejadas integralmente em revisão independente por imagens, substituindo a extração textual anterior. Erros impressos e leituras prováveis permanecem indicados; carimbos e traços não foram autenticados. A matrícula funcional no carimbo VISTO foi ocultada onde aparece. Não se infere vigência.
