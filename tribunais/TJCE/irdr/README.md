@@ -17,3 +17,7 @@
 - [IRDR 3010519-33.2026.8.06.0000](tjce-irdr-cnj-30105193320268060000.md) — Situação não informada
 - [IRDR 3017614-51.2025.8.06.0000](tjce-irdr-cnj-30176145120258060000.md) — Situação não informada
 - [IRDR 3020810-29.2025.8.06.0000](tjce-irdr-cnj-30208102920258060000.md) — Situação não informada
+
+## Reconsulta 04/11/2026
+
+Ver nota no README do TJCE. A busca SJURIS retornou HTTP 204; facetas indicam documentos além do lote já publicado.
