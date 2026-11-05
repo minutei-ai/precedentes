@@ -3174,3 +3174,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **TCEAL, complemento de 05/11/2026:** 12 documentos (prej-3, 7, 10, 11, 13, 16, 17, 19, 22, 25, 28 e qo-2), com 25 páginas físicas de trechos pertinentes transcritos por imagem e cotejados integralmente em revisão independente. Sem novos IDs. A terceira página do PDF do prej-13 é de outro processo; matrículas e atos vizinhos ficam fora do texto publicado. Permanecem os limites dos cortes e das leituras incertas.
 
 - **TCEAL, lote 3 de 05/11/2026:** 11 documentos, 25 páginas físicas cotejadas por imagem, com conferência de ênfases e arbitragem de supostas duplicações. Sem novos IDs. Com os lotes anteriores, os 33 PDFs / 77 páginas do inventário foram tratados; o aceite do conjunto publicado ainda será auditado.
+
+- **PGEPR, 05/11/2026:** sete páginas das OA 11, 15, 19 e 21 transcritas por imagem e cotejadas integralmente em revisão independente, mantendo o Despacho 670/2016 separado da OA 11 e as incertezas de glifos. Sem novos IDs; demais itens e aceite da issue #256 continuam pendentes.
