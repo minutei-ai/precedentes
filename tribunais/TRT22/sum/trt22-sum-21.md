@@ -28,3 +28,7 @@ A Fazenda Pública é responsável subsidiária pelo inadimplemento de obrigaç�
 **Publicação no DEJT:** Publicada no DejT nº 1255 de 27.06.2013
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Ato complementar cotejado
+
+As [15 páginas das RAs57/2007,67/2013,80/2014 e56/2024](atos-ra57-2007-ra67-2013-ra80-2014-ra56-2024.md) foram integralmente cotejadas em imagem em05/11/2026. O apoio preserva texto, certidões e divergências frente ao catálogo, sem harmonização ou inferência de vigência.

@@ -51,3 +51,5 @@
 - [SUM 47](trt22-sum-47.md) — Situação não informada
 
 Em 04/11/2026 foram recuperadas, em dupla leitura no portal SGI, a [Resolução Administrativa nº 48/2016](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/35740?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-48/2016) (súmulas 2 e 29) e a [Resolução Administrativa nº 116/2023](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/60652?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-116/2023) (súmula 17), com o acórdão do PROAD nº 3496/2022. Esses atos são documentos de apoio; não geram IDs novos. IUJs e demais atos citados no catálogo permanecem pendentes.
+
+As [quatro RAs complementares](atos-ra57-2007-ra67-2013-ra80-2014-ra56-2024.md),15 páginas, foram integralmente cotejadas em imagem. Com o apoio anterior, somam28 páginas de sete documentos. Divergências de certidão/título/proposta estão atribuídas; IUJs/acórdãos restantes continuam pendentes. Sem novos IDs.

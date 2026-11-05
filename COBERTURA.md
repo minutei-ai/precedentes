@@ -3066,3 +3066,7 @@ Os blocos integrais das Súmulas17/18/26/27 foram conferidos em imagem nas ediç
 ### MPPA — variantes de publicação e alterações, 05/11/2026
 
 Seis páginas dos DOEs 2019/2022 foram cotejadas em imagem. Variantes dos números 1/10/12/13/14 preservadas separadamente do PDF institucional; alterações expressas de 3/4 e cancelamento de 6/7 registrados. Sem retificação ou prevalência inferida. A grafia do nº 5 é idêntica nas fontes. Delta zero neste recorte 1–16; números 36/37 citados no extrato não foram contados como novos IDs.
+
+### TRT22 — quatro RAs complementares, 05/11/2026
+
+As RAs57/2007,67/2013,80/2014 e56/2024 somam15 páginas integralmente cotejadas e incorporadas como apoio. Com o lote anterior, são28 páginas de sete documentos. Divergências de publicação, títulos e proposta/aprovado preservadas. A Súmula47 foi aprovada por maioria; IUJs restantes continuam pendentes. Delta zero.
