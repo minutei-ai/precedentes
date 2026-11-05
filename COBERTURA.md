@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 43.992 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 43.993 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1015 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1016 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -3248,3 +3248,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **TCEPI, apresentação de 14 páginas em 05/11/2026:** cotejo integral Astra e rechecagem das duas máscaras excessivas concluídos; sobrenomes preservados, identificadores ocultos e ressalvas gráficas/contextuais mantidas. Sem alteração lexical dos corpos ou novo ID. A pendência de apresentação do grupo de 19 páginas está concluída; a #201 permanece aberta pelas demais lacunas e filas.
 
 PGEPR, parte 10 em 05/11/2026: vinte páginas de seis PDFs (OA 95–97, 99, 101 e 102) integradas após revisão independente integral Astra. Os recortes revistos alcançam 197 páginas em 88 PDFs disponíveis; peças, glifos e limites preservados, sem novo ID. Aquisição de anexos e recuperação histórica permanecem pendentes na #256; não há aceite global da série.
+
+- **PGEPA, 000001/2023 em 05/11/2026:** 27 páginas do parecer sobre inexigibilidade cotejadas integralmente em revisão independente Astra. Dezenove substituições exatas aplicadas; cabeçalho linearizado com ressalva geométrica explícita, separador sobreposto incerto preservado e nenhuma aprovação ausente inferida. Um novo ID: PGEPA 36, total 43.993 em 212 órgãos. Recortes integrados: 23 PDFs/381 páginas; permanecem 27 PDFs/1.042 páginas do inventário e lacunas locais. #261 aberta.

@@ -2,7 +2,7 @@
 
 Inventário do [catálogo oficial de Pareceres Referenciais da PGE/PA](https://www.pge.pa.gov.br/publicacoes/pareceres-referenciais) em 04/11/2026. **50 PDFs** capturados em duplicata com SHA-256 coincidente (HTTP 200). As duas capturas HTML do catálogo são idênticas: 63117 bytes, SHA-256 `077e7c6463675d14b30917e615b6e669980ebda2ccc3e0492e401ba03d9ec9ca`.
 
-**35 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
+**36 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
 
 | Nº (rótulo catálogo) | Arquivo | Páginas | Bytes | SHA-256 | Nota no catálogo |
 | --- | --- | ---: | ---: | --- | --- |
@@ -114,3 +114,5 @@ Os lotes 7–10 incorporaram 68 páginas após cotejo visual independente integr
 O lote 16 incorporou 20 páginas de 000006/2021 após cotejo visual independente integral Astra e ajustes prescritos. O gráfico ilegível da página 1 e as chamadas 14–16 sem corpos localizados mantêm ressalvas explícitas. Sem novo ID; recortes integrados: 21 PDFs / 327 páginas. Restam outras fontes do inventário e lacunas documentais, sem certificação de completude.
 
 O lote17 incorporou 27 páginas de 000010/2024 após cotejo independente integral Astra/Sol: parecer1–21, ratificação22, despacho de aprovação23, checklist24–26 e folha de assinaturas27. Protocolo do anexo e processo do parecer permanecem distintos; um valor pessoal parcialmente mascarado foi ocultado. Sem novo ID; recortes integrados:22 PDFs/354 páginas. As28 fontes restantes do inventário (1.069 páginas) e as lacunas locais continuam pendentes, sem certificação de completude.
+
+[000001/2023 — inexigibilidade de licitação](pgepa-parecer-ref-000001-2023.md) incorporado com 27 páginas cotejadas integralmente por Astra. Dezenove substituições delimitadas foram aplicadas; cabeçalhos linearizados e limite geométrico mantido. Parecer, fecho e indexação separados de aprovações não presentes. Os recortes integrados alcançam 23 PDFs/381 páginas; restam 27 PDFs/1.042 páginas do inventário, além das lacunas locais. Um novo ID, sem aceite global da #261.
