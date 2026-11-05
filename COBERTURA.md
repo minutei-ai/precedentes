@@ -2982,3 +2982,7 @@ O bloco decisório da certidão, página física 15/16 e folha impressa 44 do PA
 ## TJMRS — diretriz administrativa 01/Adm/2018
 
 A Súmula do Julgamento 01/Adm/2018, Processo Administrativo 000472-0700/17-8, foi incorporada em série própria após leitura integral da imagem de uma página e cotejo independente do texto completo. Contém diretriz geral para classificar RPG, RPP e Conselho de Justificação como de natureza cível. Não foi fundida com a Súmula jurisprudencial 1. Os outros 56 documentos administrativos foram capturados e triados, sem certificação textual integral nem incorporação automática. Declaração de voto e DJE citados permanecem pendentes. Delta +1 registro, zero órgãos; total estrutural por deltas 43.871/211, sem nova recontagem integral. Vigência, efeito vinculante e completude das outras séries não certificados; issue #235 permanece aberta.
+
+## TRF6 — histórico do enunciado 53
+
+A redação anterior do nº 53 foi recuperada no PDF oficial com 63 verbetes, página 4/7, e cotejada integralmente em imagem. A redação atual permanece atribuída à página 3/5 do caderno de abril de 2026. As duas ficam no mesmo ID; delta zero. A descrição genérica das cores foi corrigida: as cores não classificam o estado jurídico, e as notas de alteração do nº 53 são verdes em ambas as apresentações. Ambos os cadernos se apresentam como ANEXO I sem nomear o ato principal. Não se comprovou vínculo do arquivo de 63 verbetes ao anexo do Ofício 39/2025; atas e ato principal permanecem pendentes em #193.
