@@ -9,15 +9,24 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução nº 154/2021 - PGE )
 - **Ementa no catálogo:** LIBERDADE RELIGIOSA - INGRESSO E EXERCÍCIO EM CARGOS PÚBLICOS. Escusa de consciência por força de crença religiosa como justificativa para a realização de etapa de concurso público em horário diverso daquele previsto em edital ou para a fixação de critérios alternativos para o regular exercício dos deveres funcionais inerentes aos cargos públicos. Teses fixadas pelo STF com repercussão geral (Recursos Extraordinários n°s 611.874/DF e 1.099.099/SP).
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa049.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa049.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 174255 bytes; SHA-256 `5854d12455eb51705c5e1b5f9c5c3e166e52aa4da86a5d4c5c723531c7088dd9`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa049.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa049.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol. Os ajustes literais, de carimbo e de descrição de ênfases prescritos foram aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Blocos de autenticação e folhas ePROTOCOLO são peças documentais separadas do corpo. Nomes funcionais, protocolos e códigos documentais foram preservados, sem validação das assinaturas ou dos QR codes.
 
+Descrições gráficas, marcadores de destaque e notas são editoriais. Onde o texto aparece em bloco monoespaçado, as ênfases e cores estão descritas nas notas locais, pois esse formato não as representa. Linhas e hifens de composição foram conservados conforme os candidatos; a representação não equivale a fac-símile.
+
+A página 1 imprime “a Administraçã Pública” na tese citada; preservou-se a palavra truncada, sem completá-la por coerência.
+
+### Documento 1 — SHA-256 `5854d12455eb51705c5e1b5f9c5c3e166e52aa4da86a5d4c5c723531c7088dd9`
+
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa049.pdf)
+
+#### Página física 1
+
+```text
 Editada pela Resolução
                                                                                                                                                               293
                                                                                                                             nº 154/2021 - PGE
@@ -26,7 +35,10 @@ Editada pela Resolução
                                                                                                                                de 19/08/2021
 
 
+
+
                                               Orientação Administrativa n.º 049-PGE
+
 
 
                                           A PROCURADORA-GERAL DO ESTADO, no uso
@@ -73,15 +85,28 @@ Editada pela Resolução
                                                                                1
 
 
+
+
 Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 17/08/2021 15:30. Inserido ao protocolo 17.548.078-1 por: Miriam Lopes Pinheiro em: 17/08/2021
 12:38. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 4474255f7c351e8cc0a691a13219c094.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 2
+Identidade: Orientação Administrativa n.º 049-PGE. Cabeçalho gráfico ausente do rascunho: PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL, com brasão. Quadro Editada pela Resolução nº 154/2021 - PGE; DIOE nº 11002 de 19/08/2021. Carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.293, Mov.16. Tabela com três temas; título, autoridade, TEMA DE INTERESSE e teses desde nos termos até fim dos parágrafos em negrito. No segundo parágrafo a imagem imprime “Administraçã”, sem o final; essa grafia foi preservada conforme a revisão independente. Página termina em desde que, sem completar. Rodapé institucional com faixas azul/verde, página 1, site azul sublinhado e caixa digital integralmente cotejados. Sem leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 2
+
+```text
 294
                                                                                                                                                                 16
+
+
 
 
                   presente a razoabilidade da alteração, não se caracterize o
@@ -134,15 +159,28 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 4474255
                                                                                2
 
 
+
+
 Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 17/08/2021 15:30. Inserido ao protocolo 17.548.078-1 por: Miriam Lopes Pinheiro em: 17/08/2021
 12:38. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 4474255f7c351e8cc0a691a13219c094.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 3
+Sem novo título; início presente e fim do corpo desvirtuamento no mantidos sem completar. Cabeçalho gráfico PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL com brasão. Carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.294, Mov.16. Parágrafo inicial todo em negrito e números 1–5 em negrito; ausência de conjunção entre funções e não acarrete está impressa e foi preservada. Rodapé institucional, faixas azul/verde, página 2 e caixa de assinatura cotejados. Sem leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 3
+
+```text
 295
                                                                                                                                                                 16
+
+
 
 
                              exercício de suas funções e não acarrete ônus desproporcional à
@@ -179,21 +217,36 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 4474255
                                                           Procuradora-Geral do Estado
 
 
+
+
                   Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300                               www.pge.pr.gov.br
 
 
                                                                                3
 
 
+
+
 Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 17/08/2021 15:30. Inserido ao protocolo 17.548.078-1 por: Miriam Lopes Pinheiro em: 17/08/2021
 12:38. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 4474255f7c351e8cc0a691a13219c094.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 4
+Sem novo título, início exercício de suas funções. Cabeçalho gráfico PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL com brasão. Carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.295, Mov.16. Números 6–7, REFERÊNCIAS, PUBLIQUE-SE. ANOTE-SE. e nome funcional em negrito; caput e linha Curitiba, datado e assinado digitalmente. em itálico. Hifens de fim de linha preservados. Rodapé institucional com página 3, faixas azul/verde e caixa de assinatura integralmente cotejados. Sem leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 4
+
+```text
 295a
                                                                                                       16
+
+
 
 
 Documento: 04917.548.0781JULGAMENTOSVINCULANTESDOSTFSOBRELIBERDADERELIGIOSA.pdf.
@@ -205,14 +258,18 @@ Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 17/08/2021 15
 Inserido ao protocolo 17.548.078-1 por: Miriam Lopes Pinheiro em: 17/08/2021 12:38.
 
 
+
+
                         Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021.
 
 
                         A autenticidade deste documento pode ser validada no endereço:
                         https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
                         4474255f7c351e8cc0a691a13219c094.
+```
 
+##### Elementos visuais, cotejo e limites
 
-## Conferência e limites
+Folha de assinatura eProtocolo. Logotipo ePROTOCOLO; carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.295a, Mov.16. Moldura, QR code inferior esquerdo não decodificado e centro vazio conferidos. Arquivo, nomes funcionais, protocolo, URL e código em negrito. Nome do arquivo não tratado como título de ato. Texto integralmente cotejado, sem leitura textual incerta identificada.
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Sem conclusão sobre vigência ou efeito jurídico.

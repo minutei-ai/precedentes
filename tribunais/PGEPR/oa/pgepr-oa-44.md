@@ -9,20 +9,28 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução nº 231/2020-PGE )
 - **Ementa no catálogo:** Concurso Público. Remarcação de teste de aptidão física para candidatas gestantes. STF – Recurso Extraordinário n ° 1058333 (repercussão geral).
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-10/orientacaoadministrativa044.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-10/orientacaoadministrativa044.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 142616 bytes; SHA-256 `ea2eb5e7cb9afe716f0b910b4309443837d969511eba4ecbcb5f043065cded11`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-10/orientacaoadministrativa044.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-10/orientacaoadministrativa044.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol. Os ajustes literais, de carimbo e de descrição de ênfases prescritos foram aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Blocos de autenticação e folhas ePROTOCOLO são peças documentais separadas do corpo. Nomes funcionais, protocolos e códigos documentais foram preservados, sem validação das assinaturas ou dos QR codes.
 
+Descrições gráficas, marcadores de destaque e notas são editoriais. Onde o texto aparece em bloco monoespaçado, as ênfases e cores estão descritas nas notas locais, pois esse formato não as representa. Linhas e hifens de composição foram conservados conforme os candidatos; a representação não equivale a fac-símile.
+
+### Documento 1 — SHA-256 `ea2eb5e7cb9afe716f0b910b4309443837d969511eba4ecbcb5f043065cded11`
+
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-10/orientacaoadministrativa044.pdf)
+
+#### Página física 1
+
+```text
 92
                                         ESTADO DO PARANÁ                                           Editada pela Resolução nº 231/2020 - PGE                     13
                                                                                                      Diário Oficial nº 10791 de 15/10/2020
                                         Procuradoria-Geral do Estado
                                         Gabinete da Procuradora-Geral
+
 
 
                                               ORIENTAÇÃO ADMINISTRATIVA N. 44-PGE
@@ -69,18 +77,30 @@
                     respeitada a ordem de classificação.
 
 
+
+
 Assinado digitalmente por: Leticia Ferreira da Silva em 13/10/2020 17:09. Inserido ao protocolo 16.815.325-2 por: Miriam Lopes Pinheiro em: 13/10/2020 14:34.
 Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 16f2ba829883107c2797807cd806dde7.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 2
+Identidade: ORIENTAÇÃO ADMINISTRATIVA N. 44-PGE. Brasão estadual. Quadro Editada pela Resolução nº 231/2020 - PGE; Diário Oficial nº 10791 de 15/10/2020, separado da identidade. Carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls. 92, Mov. 13. Título, autoridade, dois parágrafos introdutórios após tabela e números 1 a 4 em negrito. Tabela de três temas. Rodapé digital em caixa. Texto e códigos cotejados, sem leitura textual incerta identificada; rótulos do carimbo restituídos nesta nota.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 2
+
+```text
 93
                                         ESTADO DO PARANÁ                                                                                                        13
 
                                         Procuradoria-Geral do Estado
                                         Gabinete da Procuradora-Geral
+
 
 
                     5. O adiamento em razão da gestação se estende pelo período necessário para
@@ -113,15 +133,28 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 16f2ba8
                                                                    Procuradora-Geral do Estado
 
 
+
+
 Assinado digitalmente por: Leticia Ferreira da Silva em 13/10/2020 17:09. Inserido ao protocolo 16.815.325-2 por: Miriam Lopes Pinheiro em: 13/10/2020 14:34.
 Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 16f2ba829883107c2797807cd806dde7.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 3
+Página sem novo título de ato, começa no item 5 e termina com assinatura. Brasão e cabeçalho estadual; carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls. 93, Mov. 13. Números 5–8, REFERÊNCIAS, PUBLIQUE-SE. ANOTE-SE. e nome funcional em negrito. Rodapé digital em caixa. Cotejo integral de itens, referências e rodapé sem leitura textual incerta identificada; sem completar a partir de outra página.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 3
+
+```text
 93a
                                                                                                                  13
+
+
 
 
 D             o             c              u           m            e           n            t           o           :
@@ -135,14 +168,18 @@ Assinado digitalmente por: Leticia Ferreira da Silva em 13/10/2020 17:09.
 Inserido ao protocolo 16.815.325-2 por: Miriam Lopes Pinheiro em: 13/10/2020 14:34.
 
 
+
+
                         Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016.
 
 
                         A autenticidade deste documento pode ser validada no endereço:
                         https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
                         16f2ba829883107c2797807cd806dde7.
+```
 
+##### Elementos visuais, cotejo e limites
 
-## Conferência e limites
+Peça de assinatura eProtocolo. Logotipo ePROTOCOLO; carimbo PROTOCOLO INTEGRADO DO ESTADO, Fls. 93a, Mov. 13. Palavra Documento com espaçamento expandido; arquivo em negrito quebrado antes de .pdf.; nomes, protocolo, URL e código em negrito. Moldura e QR code inferior esquerdo, não decodificado. Toda região central vazia inspecionada. Texto cotejado sem leitura textual incerta identificada; logotipo e rótulos de carimbo restituídos nesta nota.
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Sem conclusão sobre vigência ou efeito jurídico.

@@ -9,20 +9,28 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução nº 254/2020-PGE)
 - **Ementa no catálogo:** Concurso Público. Idoneidade Moral de Candidatos em Concursos Públicos. Inquéritos policiais ou processos penais em curso. STF – Recurso Extraordinário n ° 560.900 (repercussão geral).
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-01/OrientacaoAdministrativa_045PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-01/OrientacaoAdministrativa_045PGE.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 136194 bytes; SHA-256 `2606f1a15eafa1ed5049852294e36f9161a690b7ab0b5144f685271f00679d1e`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-01/OrientacaoAdministrativa_045PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-01/OrientacaoAdministrativa_045PGE.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol. Os ajustes literais, de carimbo e de descrição de ênfases prescritos foram aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Blocos de autenticação e folhas ePROTOCOLO são peças documentais separadas do corpo. Nomes funcionais, protocolos e códigos documentais foram preservados, sem validação das assinaturas ou dos QR codes.
 
+Descrições gráficas, marcadores de destaque e notas são editoriais. Onde o texto aparece em bloco monoespaçado, as ênfases e cores estão descritas nas notas locais, pois esse formato não as representa. Linhas e hifens de composição foram conservados conforme os candidatos; a representação não equivale a fac-símile.
+
+### Documento 1 — SHA-256 `2606f1a15eafa1ed5049852294e36f9161a690b7ab0b5144f685271f00679d1e`
+
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2022-01/OrientacaoAdministrativa_045PGE.pdf)
+
+#### Página física 1
+
+```text
 Editado pela Resolução n. 254/2020 - PGE                  168
                                         ESTADO DO PARANÁ                                              Diário Oficial n. 10.815 de 20/11/2020                    16
 
                                         Procuradoria-Geral do Estado
                                         Gabinete da Procuradora-Geral
+
 
 
                                                ORIENTAÇÃO ADMINISTRATIVA N. 45-PGE
@@ -70,18 +78,30 @@ Editado pela Resolução n. 254/2020 - PGE                  168
                             julgado de sentença penal condenatória ou, ao menos, de forma
 
 
+
+
 Assinado digitalmente por: Leticia Ferreira da Silva em 19/11/2020 10:45. Inserido ao protocolo 16.934.021-8 por: Viviane Maria de Lara da Silva em: 18/11/2020 10:40.
 Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: b8828e40966b2e8233ac7ca086f4f3bd.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 2
+Identidade impressa: ORIENTAÇÃO ADMINISTRATIVA N. 45-PGE. Brasão; quadro Editado pela Resolução n. 254/2020 - PGE; Diário Oficial n. 10.815 de 20/11/2020. Carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls. 168, Mov. 16. Tabela com quatro temas; título, autoridade, TEMA DE INTERESSE e números dos itens em negrito. Item 3 termina literalmente em “de forma”, sem completar. Rodapé digital em caixa. Texto integral e códigos cotejados, sem leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 2
+
+```text
 169
                                         ESTADO DO PARANÁ                                                                                                        16
 
                                         Procuradoria-Geral do Estado
                                         Gabinete da Procuradora-Geral
+
 
 
                               cumulativa, (a) condenação por órgão colegiado ou definitiva e (b)
@@ -117,15 +137,28 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: b8828e4
                                                                     Procuradora-Geral do Estado
 
 
+
+
 Assinado digitalmente por: Leticia Ferreira da Silva em 19/11/2020 10:45. Inserido ao protocolo 16.934.021-8 por: Viviane Maria de Lara da Silva em: 18/11/2020 10:40.
 Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: b8828e40966b2e8233ac7ca086f4f3bd.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 3
+Sem novo título de ato; começa literalmente em cumulativa. Brasão e cabeçalho; carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls. 169, Mov. 16. Números 4–6, REFERÊNCIAS, PUBLIQUE-SE. ANOTE-SE. e nome funcional em negrito. Quebra após cargo existe na fonte. Rodapé digital em caixa. Cotejo integral sem leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 3
+
+```text
 169a
                                                                                                                    16
+
+
 
 
 Documento: 04516.934.0218REMETEARESTRICAOPOSTAAOSCANDQUERESPAPROCCRIMEXISTENCIADEDENUNCIACRIMINALDESP.1.117.pdf.
@@ -137,14 +170,18 @@ Assinado digitalmente por: Leticia Ferreira da Silva em 19/11/2020 10:45.
 Inserido ao protocolo 16.934.021-8 por: Viviane Maria de Lara da Silva em: 18/11/2020 10:40.
 
 
+
+
                         Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016.
 
 
                         A autenticidade deste documento pode ser validada no endereço:
                         https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
                         b8828e40966b2e8233ac7ca086f4f3bd.
+```
 
+##### Elementos visuais, cotejo e limites
 
-## Conferência e limites
+Folha de assinatura eProtocolo; sem novo ato. Logotipo ePROTOCOLO; carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.169a, Mov.16. Arquivo, nomes funcionais, protocolo, URL e código em negrito. Moldura e QR code inferior esquerdo, não decodificado; centro vazio integralmente conferido. Texto e códigos cotejados sem leitura textual incerta identificada.
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Sem conclusão sobre vigência ou efeito jurídico.

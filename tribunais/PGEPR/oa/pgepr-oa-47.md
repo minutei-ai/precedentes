@@ -9,20 +9,28 @@
 - **Situação no catálogo:** ​ PDF (Editado pela Resolução nº 056/2021-PGE ) ​
 - **Ementa no catálogo:** Lei Federal nº 14.133, de 2021. Normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios. Aplicação no âmbito da Administração Pública Direta, Autárquica e Fundacional do Estado do Paraná Momento de adoção da nova Lei.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-04/orientacaoadmnistrativa047.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-04/orientacaoadmnistrativa047.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 97845 bytes; SHA-256 `e74df511863b5aff610ca9625be38ec044ca242971927f5ce944beb86a933f06`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-04/orientacaoadmnistrativa047.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-04/orientacaoadmnistrativa047.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol. Os ajustes literais, de carimbo e de descrição de ênfases prescritos foram aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Blocos de autenticação e folhas ePROTOCOLO são peças documentais separadas do corpo. Nomes funcionais, protocolos e códigos documentais foram preservados, sem validação das assinaturas ou dos QR codes.
 
+Descrições gráficas, marcadores de destaque e notas são editoriais. Onde o texto aparece em bloco monoespaçado, as ênfases e cores estão descritas nas notas locais, pois esse formato não as representa. Linhas e hifens de composição foram conservados conforme os candidatos; a representação não equivale a fac-símile.
+
+### Documento 1 — SHA-256 `e74df511863b5aff610ca9625be38ec044ca242971927f5ce944beb86a933f06`
+
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-04/orientacaoadmnistrativa047.pdf)
+
+#### Página física 1
+
+```text
 Editado pela Resolução n. 56/2021 - PGE                    14
                                        ESTADO DO PARANÁ                                                   Diário Oficial n. 10.912 de 12/04/2021                     8
 
                                        Procuradoria-Geral do Estado
                                        Gabinete da Procuradora-Geral
+
 
 
                                                     ORIENTAÇÃO ADMINISTRATIVA N. 47-PGE
@@ -85,15 +93,28 @@ Editado pela Resolução n. 56/2021 - PGE                    14
                                                                           Procuradora-Geral do Estado
 
 
+
+
 Assinado digitalmente por: Leticia Ferreira da Silva em 08/04/2021 15:02. Inserido ao protocolo 17.509.380-0 por: Viviane Maria de Lara da Silva em: 08/04/2021 12:04.
 Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 9eb3871ea941fef074997491fcf8d8cf.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 2
+Identidade: ORIENTAÇÃO ADMINISTRATIVA N. 47-PGE. Brasão. Quadro Editado pela Resolução n. 56/2021 - PGE; Diário Oficial n. 10.912 de 12/04/2021. Carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.14, Mov.8. Tabela com quatro temas. Título, autoridade, TEMA DE INTERESSE, cada Considerando, ORIENTA, PUBLIQUE-SE. ANOTE-SE. e nome funcional em negrito; datado e assinado digitalmente em itálico. Rodapé digital em caixa. Divergência impressa preservada: corpo 17.509.380-2, rodapé 17.509.380-0; não corrigida por inferência. Cotejo integral, sem outra leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 2
+
+```text
 14a
                                                                                                    8
+
+
 
 
 Documento: 04717.509.3800PARECERREFSOBREDISPDELICPARAAAQ.DEBENSSERV.EINS.pdf.
@@ -105,14 +126,18 @@ Assinado digitalmente por: Leticia Ferreira da Silva em 08/04/2021 15:02.
 Inserido ao protocolo 17.509.380-0 por: Viviane Maria de Lara da Silva em: 08/04/2021 12:04.
 
 
+
+
                         Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016.
 
 
                         A autenticidade deste documento pode ser validada no endereço:
                         https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
                         9eb3871ea941fef074997491fcf8d8cf.
+```
 
+##### Elementos visuais, cotejo e limites
 
-## Conferência e limites
+Peça de assinatura eProtocolo; nome do arquivo não usado como identidade de ato. Logotipo ePROTOCOLO e carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.14a, Mov.8. Moldura e QR code inferior esquerdo não decodificado; centro vazio conferido. Arquivo, nomes, protocolo, URL e código em negrito. Texto cotejado sem leitura textual incerta identificada.
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Sem conclusão sobre vigência ou efeito jurídico.
