@@ -21,3 +21,7 @@ O catálogo em [Súmulas do TRT da 20ª Região](https://www.trt20.jus.br/jurisp
 O enquadramento sindical do empregado decorre da atividade econômica preponderante da empresa. Na hipótese de empresa situada em base territorial diversa da matriz, faz-se o enquadramento sindical levando-se em consideração o âmbito territorial em que ocorre a efetiva prestação de serviço e a atividade econômica preponderante desenvolvida na filial. Exegese dos artigos 511, 570 e 581 da Consolidação das Leis do Trabalho. ([RA Nº 21/2017](https://www.trt20.jus.br/images/RESOLUÇÃO_ADMINISTRATIVA_Nº_020_975555.pdf))
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Divergência no documento vinculado
+
+A íntegra oficial rotula o vínculo como “RA Nº 21/2017”, mas o arquivo associado tem nome 020/97 e metadado interno “RA 020/97”. O rótulo da página foi preservado; esse PDF não foi usado para confirmar a identidade da RA 21/2017. A divergência permanece pendente de esclarecimento pela fonte, sem alteração do corpo da súmula.

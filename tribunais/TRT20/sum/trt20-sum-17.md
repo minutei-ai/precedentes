@@ -21,3 +21,7 @@ O catálogo em [Súmulas do TRT da 20ª Região](https://www.trt20.jus.br/jurisp
 Constatando-se que o Termo Infracional foi lavrado com os requisitos essenciais à validade do Ato, a circunstância de o Auto de Infração Trabalhista ser redigido e assinado fora do local de cometimento da infração não deriva em comprometimento do direito subjetivo à defesa do fiscalizado, considerando que este se inicia com a entrega formal do instrumento, e nessa senda, ainda que desmotivado, tal procedimento não deve ser acoimado de nulidade frente à higidez das garantias constitucionais do fiscalizado. ([RA Nº 21/2017](https://www.trt20.jus.br/images/RESOLUÇÃO_ADMINISTRATIVA_Nº_020_975555.pdf))
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Divergência no documento vinculado
+
+A íntegra oficial rotula o vínculo como “RA Nº 21/2017”, mas o arquivo associado tem nome 020/97 e metadado interno “RA 020/97”. O rótulo da página foi preservado; esse PDF não foi usado para confirmar a identidade da RA 21/2017. A divergência permanece pendente de esclarecimento pela fonte, sem alteração do corpo da súmula.
