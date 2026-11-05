@@ -3157,3 +3157,6 @@ TCEPI: quarto lote de26páginas em8PDFs integrado após transcrição e revisão
 
 
 TCEAL: incorporadas as oito páginas do documento vinculado ao Prejulgado58, após nova transcrição visual e revisão independente, com cobertura ampliada complementar nas páginas2–6. Título catalogado58-2025 separado do Acórdão001/2020 impresso; carimbo com data parcial permanece incerto. Sem novo ID ou certificação de vigência. Os demais documentos da issue202 seguem em reconciliação para publicação seletiva.
+
+
+TCEAL: mais18páginas de9documentos do lote1 incorporadas somente nos intervalos pertinentes delimitados pela revisão e seu complemento. Aplicadas as correções literais Estada do Alagoas, Santana do Ipanema e que não se tenham processado; ajuste do negrito do item29 da Lei Kandir. Matéria alheia, CPFs, matrículas e nomes particulares excluídos. Divergências União dos Palmares/Marechal Deodoro e fecho2019/sessão2018 preservadas. O lote1 totaliza26páginas de10PDFs, incluindo as oito páginas do Prejulgado58 já publicadas. Sem novos IDs ou inferência de vigência.
