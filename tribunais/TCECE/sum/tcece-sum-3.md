@@ -23,7 +23,7 @@ O catálogo apresenta enunciados nas súmulas 1 a 4 e descrições resumidas nas
 
 [Súmula nº 03 - Publicada em 7/4/17](https://www.tce.ce.gov.br/downloads/ASCOM/Pdfs/sumula_03_1.pdf) — 4 páginas. O arquivo pode conter outros atos da mesma publicação, preservados com os respectivos cabeçalhos e páginas; seu conteúdo não foi contado como novas súmulas.
 
-Transcrição do anexo pendente: a fonte incorporada não fornece mapeamento Unicode legível. Duas extrações devolveram códigos de controle ou nomes de glifos. O OCR experimental apresentou erros e não foi publicado como texto oficial. Consulte o PDF original; o enunciado e a data do catálogo permanecem acima.
+Transcrição integral por imagem e revisão independente incorporada em [Resoluções 0601/2017 e 0605/2017](../atos/tcece-res-0601-0605-2017.md). A página compartilhada do DOE está reproduzida uma única vez, com delimitação dos dois atos. Não foram usados os rascunhos anteriormente reprovados.
 
 ### Nota geral datada da página de origem
 
@@ -32,7 +32,3 @@ O Tribunal de Contas do Estado do Ceará não editou enunciados de súmulas de j
 Essa nota informa atualização até agosto de 2023, enquanto o próprio catálogo vincula as súmulas 5 a 7 com publicações de novembro de 2023. As duas informações foram preservadas; a nota não comprova ausência posterior de súmulas. A presença no catálogo não comprova vigência atual. Atos e processos apenas citados continuam pendentes de conciliação.
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
-
-## Revisão documental pendente
-
-A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.
