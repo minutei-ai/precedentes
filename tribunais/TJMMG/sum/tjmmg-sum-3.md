@@ -54,3 +54,13 @@ A ata encerra o enunciado da súmula 3 na captura do desertor; o DJMe e o catál
 
 Texto do catálogo oficial, conferido em duas leituras em 28/10/2026. As referências, datas e notas reproduzem a página, inclusive eventuais divergências e grafias. A atualização editorial da página não foi atribuída como data de aprovação ou publicação desta súmula. Os atos e processos citados não foram incorporados neste lote.
 A ata da 113ª sessão (20/10/2025) e o DJMe nº 224/2025 foram lidos em 04/11/2026. A edição 04122025.pdf (nº 225/2025, divulgação 04/12) não contém as súmulas; a publicação referida no catálogo como “DJMe de 04/12/2025” corresponde à data de publicação do DJMe nº 224/2025 (divulgação 03/12/2025). A redação de 2009 das súmulas 1–5 no “Diário do Judiciário” de 10/09/2009 permanece pendente de recuperação do PDF histórico.
+
+## Redação publicada na notícia oficial de 2013
+
+A notícia institucional [“Atenção à alteração!”](https://tjmmg.jus.br/atencao-a-alteracao/), datada de 10/06/2013, afirma que a Sessão Plenária de 05/06/2013 aprovou a troca de “efetivação da punição” por “ativação da punição”. A fonte publica a seguinte redação, aqui atribuída à notícia e à versão de 2013:
+
+“O prazo prescricional inicia-se na data da transgressão, salvo nos casos de deserção – em que se inicia na data da instauração do procedimento administrativo –, e termina com a ativação da punição, sem causas de interrupção.”
+
+O conteúdo HTML do post foi recapturado pela API oficial em 05/11/2026, HTTP 200, 6.614 bytes, SHA-256 `158ae54ed72ab8c1b7127106e9303ab9fe86d2405fea59431225f998561a8607`, idêntico à captura anterior. O título, os parágrafos e a pontuação foram cotejados; a imagem vinculada foi aberta e contém apenas a ilustração “Súmula n.3”, sem enunciado adicional. A transcrição conserva as aspas curvas, o ponto dentro delas e os travessões do texto oficial.
+
+Essa notícia não é a ata da sessão de 2013 nem o fac-símile do Diário do Judiciário de 10/09/2009. A substituição de duas expressões não foi usada para reconstruir o texto integral de 2009. A versão acima permanece separada da redação de 2025; não se afirma vigência atual nem se cria novo ID.

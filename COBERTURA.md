@@ -3002,3 +3002,7 @@ As cinco citações com enunciado da Súmula 5 foram recuperadas nas páginas f�
 ## PGEPE — portarias dos dois pareceres publicados
 
 As [Portarias 30/2021 e 169/2023](tribunais/PGEPE/parecer-referencial/portarias-30-2021-e-169-2023.md) foram recapturadas em bytes idênticos e tiveram suas duas páginas integralmente cotejadas em imagem. A primeira aprova o Parecer 0001/2021, sem comprovar sua renumeração catalogada como 002/2025; nomes divergentes entre fecho e carimbo são preservados. A segunda aprova o Parecer 4/2023, com nome digitado sem assinatura visível. São documentos de apoio, delta zero. Reconsulta do catálogo: 33 linhas, 32 com links e a 005/2025 sem links, marcada como substituída pela 022/2025. Restam os demais pareceres, portarias e atos de renumeração da issue #264; sem certificação de vigência.
+
+## TJMMG — redação de 2013 da Súmula 3
+
+A notícia institucional “Atenção à alteração!”, de 10/06/2013, foi recapturada em bytes idênticos e seu texto integral cotejado no HTML oficial. Ela atribui à sessão de 05/06/2013 a mudança de “efetivação” para “ativação da punição” e publica a redação resultante, preservada no [registro 3](tribunais/TJMMG/sum/tjmmg-sum-3.md) separadamente da revisão de 2025. A imagem vinculada é somente ilustração. A notícia não substitui a ata nem a edição de 2009; sem reconstrução por hipótese, delta zero.
