@@ -3180,3 +3180,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **TCEPI, residual de 05/11/2026:** dez PDFs / 28 páginas com OCR corrompido substituído por transcrição visual e revisão independente integral, sem novos IDs. Mantidas a separação entre Resolução e voto na ficha 16708 e a incerteza de vínculo da p. 2 do PDF da ficha 16012. O aceite global da issue #201 ainda depende da classificação das demais suspeitas da varredura.
 
 - **PGEPA, lote 1 de 05/11/2026:** 18 páginas dos pareceres 000001/2020 e 000006/2020 transcritas por imagem e cotejadas integralmente em revisão independente; +1 ID para 000006/2020. Checklist do primeiro e ratificação/aprovação do segundo preservados em suas posições. Demais PDFs do inventário continuam pendentes.
+
+- **TCMBA, 05/11/2026:** Parecer Normativo 003/95, duas imagens do DOC oficial cotejadas diretamente em revisão independente; corrigida a atribuição dos nomes e funções no fecho e retirada a falsa lacuna de um conselheiro adicional. Acento parcialmente encoberto mantido incerto. Recaptura HTTP 200 com TLS verificado e bytes idênticos. Sem novos IDs.
