@@ -29,3 +29,23 @@ II- Determinar a devolução dos autos para diligência, quando necessária ao r
 ## Conferência e limites
 
 Texto integral do bloco HTML, com cabeçalho, título, corpo e nota de sessão e publicação. Conferido em duas capturas HTTP 200 de 29/10/2026 com bytes idênticos: SHA-256 `063231f10e29a42db07296f8d5b407b88ec9b0e3868160df88023110d321c007`, 39.097 bytes em cada captura. Espaços, quebras de linha e negrito/itálico foram normalizados. Grafias, números, datas e pontuação da fonte foram preservados. Os diários, resoluções, normas, orientações e julgados apenas citados não foram lidos como documentos autônomos nem geraram novos identificadores. Não houve leitura de PDF nem OCR neste lote.
+
+## Texto histórico — DOU de 26/03/2015
+
+- **Ato em que o trecho está publicado:** Ata da 49ª Sessão Extraordinária da CCR/MPT (continuação; a própria ata registra reabertura em 10/03/2015)
+- **Publicação:** Diário Oficial da União nº 58, Seção 1, 26/03/2015, página impressa 77
+- **Fonte do PDF:** [DOU nº 58, Seção 1, página 77 — INPDFViewer](https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?jornal=1&pagina=77&data=26/03/2015&captchafield=firstAccess)
+- **SHA-256 do arquivo:** `76854e49ad34908b596f70a4408a946ce0ecd74d4d7f5bdff2ebba7241e495cc`
+- **Tamanho:** 48909 bytes
+
+O enunciado começa no fim da página impressa 76 e continua no início da página 77. A íntegra abaixo reúne os dois trechos.
+
+ENUNCIADO Nº 08/CCR
+
+A Câmara de Coordenação e Revisão deliberou, por maioria, editar enunciado com o seguinte teor: "INVESTIGAÇÃO REPETIDA. Por decisão monocrática do Relator, não se conhece da remessa quando o fundamento do arquivamento for a existência de investigação repetida, hipótese em que os autos devem ser remetidos ao Procurador Oficiante no procedimento com idêntico objeto."
+
+Vencido o Dr. Manoel Jorge e Silva Neto quanto à redação do enunciado.
+
+### Conferência e limites do histórico
+
+Bloco delimitado na página impressa 77 do DOU nº 58, Seção 1, de 26/03/2015 (continuação da ata da 49ª Sessão Extraordinária da CCR/MPT). PDF oficial obtido em 04/11/2026 via `INPDFViewer` (`jornal=1&pagina=77&data=26/03/2015`), 48909 bytes, SHA-256 `76854e49ad34908b596f70a4408a946ce0ecd74d4d7f5bdff2ebba7241e495cc`. Página renderizada conferida visualmente contra a camada textual; hífens de fim de linha reunidos; hífens vocabulares preservados. Cabeçalho/rodapé gráficos e código de autenticação `00012015032600077` não transcritos. A ausência deste número na página HTML de enunciados de 2026 não foi convertida em cancelamento. Não se inferiu vigência atual nem efeito vinculante. Atos e normas apenas citados não geraram identificadores.
