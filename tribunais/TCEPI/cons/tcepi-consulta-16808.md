@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Pessoal. Recebimento cumulativo de remuneração de cargo efetivo com gratificação de cargo em comissão de Secretário. (2010)
 - **Identificador:** `tcepi-consulta-16808`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 10 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 6 ocorrência(s); vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -146,19 +146,137 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda] Estado do Piauí
+Tribunal de Contas
+
+[Carimbo, canto superior direito, parcialmente apagado/sobreposto por logotipo do TCE-PI, cortado/empastado, à direita, com preenchimento manuscrito:]
+TRIBUNAL DE CONTAS DO ESTADO [final da palavra "ESTADO" esmaecido]
+PROC. Nº [manuscrito: 030547] FLS. [manuscrito: 67 — grafia tênue; coerente com "68" na página seguinte]
+[assinatura/rubrica manuscrita]
+CONSULTORIA TÉCNICA
+
+PROCESSO Nº TC-E- 030547/10        PARECER CONS.TÉCNICA Nº30/2010
+
+ASSUNTO: CONSULTA
+
+INTERESSADO: HUMBERTO FERNANDES VIANA
+
+Trata-se de consulta formulada pelo Secretário Municipal de Educação e Cultura do Município de Bonfim do Piauí, o senhor HUMBERTO FERNANDES VIANA sobre a possibilidade do professor investido no Cargo em Comissão de Secretário Municipal perceber cumulativamente vencimentos do Cargo efetivo e a gratificação do Cargo em Comissão e a fonte do recurso para efetuar o pagamento.
+
+A matéria ***sub examine*** merece uma sucinta análise e sem maiores questionamentos, visto que a Carta Magna, em seu art.39, § 4º, trata da matéria, confira o seguinte:
+
+> Art.39-A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.
+>
+> (..)
+>
+> §-4º- O membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsidio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, premio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto no art.37, X e XI, CF.
+
+Ademais, a matéria já foi objeto de consulta no processo de nº T-C-E 1826/05, Resolução de nº 961/05 que se manifestou pela impossibilidade de acumulação de subsidio com outro cargo efetivo, tendo em vista o disposto no art.39,§ 4º, Constituição Federal.
+
+No caso em tela, em que pese o Secretário Municipal de Educação ser proveniente do quadro efetivo do Município de Bonfim do Piauí, não há amparo constitucional para acumulação dos vencimentos do Cargo Efetivo e a gratificação do Cargo em Comissão.
+
+[Margem direita, à altura do último parágrafo: rubrica manuscrita]
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda] Estado do Piauí
+Tribunal de Contas
+
+[Carimbo, canto superior direito, parcialmente sobreposto por logotipo do TCE-PI, cortado/empastado, à direita, com preenchimento manuscrito:]
+TRIBUNAL DE CONTAS DO ESTADO
+PROC. Nº [manuscrito: 030547] FLS. [manuscrito: 68]
+[assinatura/rubrica manuscrita]
+CONSULTORIA TÉCNICA
+
+Quanto a dotação Orçamentária para pagamento do subsídio do Cargo de Secretário Municipal de Educação, embora, não esteja nos autos a Lei Orçamentária para o atual exercício financeiro, o pagamento do subsidio deve ser efetivado com recursos destinados a referida Secretaria e que não sejam destinados para despesas do FUNDEB.
+
+Conclui-se que não há possibilidade de perceber cumulativamente vencimentos do Cargo Efetivo com a gratificação do Cargo em Comissão.
+
+Este parecer, salvo melhor juízo.
+
+Com estas considerações encaminhe os autos ao Ministério Público de Contas.
+
+Teresina, 05 de setembro de 2010.
+
+[assinatura manuscrita]
+Francisco Nunes de Brito Filho
+Assessor Jurídico- mat.[matrícula funcional ocultada]
+
+[Metade inferior da página sem texto, conferida em recorte ampliado.]
+
 
 #### Página 3 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda] **Estado do Piaui**
+**Tribunal de Contas**
+
+[Carimbo, canto superior direito, com preenchimento manuscrito:]
+TRIBUNAL DE CONTAS DO ESTADO
+PROC. Nº [manuscrito: 030547] FLS. [manuscrito: 69]
+[assinatura/rubrica manuscrita]
+CONSULTORIA TÉCNICA
+
+[Acima do carimbo: numeração anterior riscada/esmaecida, leitura provável: FLS. 33, e rubrica manuscrita. À direita do carimbo: logotipo do TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ, reproduzido com baixa definição.]
+
+Fls [número não visível na cópia]
+
+**PROCESSO TC-E N. º 018266/05** [leitura provável; impressão borrada]        **RESOLUÇÃO N.º 961/05** [leitura provável; impressão borrada]
+
+> ***EMENTA** – [leitura provável: Acumulação] de [ilegível: borrão de cópia; provavelmente "remuneração"] de vice-prefeito com outro cargo. [ilegível: borrão de cópia; provavelmente "Ilegalidade"], a teor do art. 39, § 4º,CF/88. Pagamento [leitura provável: dos] [ilegível: borrão; provavelmente "subsídios"] do vice-prefeito não pagos em [ilegível: borrão; provavelmente "gestão"] anterior. Possibilidade [leitura provável: legal], [leitura provável: desde] que não cumulativa a remuneração e observado o [ilegível: borrão; provavelmente "disposto"] na LRF, art. 18, § 2º*
+
+O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ, [leitura provável: examinando] o processo TC-E nº 018266/05, em que consta consulta apresentada ao Tribunal de Contas pela [leitura provável: Procuradora Municipal] de Barras, Sra. Maria da Conceição Carcará (fls. 01), onde solicita desta Corte de Contas [leitura provável: esclarecimentos] sobre a possibilidade legal do Prefeito da atual gestão efetuar o pagamento dos [leitura provável: subsídios] do ex-vice-prefeito, não pagos na administração anterior, gestão do então prefeito [leitura provável: Joaquim Lucas] Furtado. É oportuno elucidar, que a citada Procuradora Municipal enviou ofício à respectiva Câmara de Barras com o intuito de obter resposta a tal indagação, onde foi informada que o assunto em questão não é da pertinência daquela Casa Legislativa (fls. 02).
+
+**CONSIDERANDO** que a Corregedoria Geral, em análise preliminar (fls. 16) posicionou-se pelo conhecimento como consulta, tendo em vista a relevância da matéria, [leitura provável: suscitando] ao Plenário os seguintes questionamentos: 1) É lícita a acumulação de qualquer parcela remuneratória aos subsídios de vice-prefeito com a de outro de provimento efetivo em [leitura provável: empresa estatal] ou aplica-se a vice-prefeito a norma inserida no art. 39, § 4º da CF/88; 2)Em sendo lícita a acumulação, pode um prefeito realizar o pagamento independente de sentença judicial [leitura provável: transitada em julgado], de subsídios de vice-prefeito vencidos e não pagos, oriundos de mandato anterior, com recursos do Erário Municipal; 3) Caso seja cabível o ressarcimento acima mencionado, sob o prisma da Lei Orçamentária Anual, há necessidade de previsão para a efetivação de tal despesa; e 4) A referida despesa comporia o limite de gastos com pessoal nos termos do art. 18 da LRF,
+
+**CONSIDERANDO** que o Plenário decidiu, unânime, ouvido o Representante do Ministério Público de Contas, conhecer o referido processo como consulta, encaminhar à Diretoria Executiva para autuar, em seguida à Consultoria Técnica para se manifestar, e após, enviar à Corregedoria Geral;
+
+**CONSIDERANDO** que o parecer da Consultoria Técnica deste Tribunal de Contas (fls 19 a 22), posicionou-se levando em consideração o entendimento do STF, no sentido de que as disposições contidas no art. 38, II da CF/88, relativas a prefeito, aplicam-se, por analogia ao servidor público investido no mandato de vice-prefeito. Lembrou, ainda que a Súmula nº 269 do STF preceitua que "o mandado de segurança não é substitutivo da ação de cobrança". Contudo existe uma hipótese em que é possível o pagamento de vencimentos e vantagens pecuniárias [leitura provável: asseguradas], em sentença concessiva de mandado de segurança a servidor público civil, conforme [leitura provável: dispõe a] Lei nº5021/66. Com relação aos pagamentos atrasados anteriores ao ajuizamento da ação, a Súmula 271, do STF, preceitua que a "concessão de mandados de segurança não produz efeitos patrimoniais, em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria"
+
+[À direita: algarismo impresso "1" (número de página).]
+[assinatura manuscrita, centro; rubrica manuscrita, à direita]
+[Faixa inferior direita: mancha escura de digitalização sobre fio horizontal; sem texto legível.]
+
 
 #### Página 4 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda] **Estado do Piauí** [impressão borrada]
+**Tribunal de Contas**
+
+[Canto superior direito, acima do carimbo: numeração anterior manuscrita/riscada, parcialmente legível — "34" [leitura provável] — com rubrica.]
+
+[Carimbo, com preenchimento manuscrito:]
+TRIBUNAL DE CONTAS DO ESTADO
+PROC. Nº [manuscrito: 030547] FLS. [manuscrito: 70 — leitura provável; coerente com fl. 69 na página anterior]
+[assinatura/rubrica manuscrita]
+CONSULTORIA TÉCNICA
+
+[À direita do carimbo: logotipo do TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ, baixa definição.] Fls. [número não visível na cópia]
+
+**PROCESSO TC-E Nº 018266/05** [leitura provável; últimos algarismos borrados]        **RESOLUÇÃO Nº 961/05** [leitura provável; algarismos borrados]
+
+Ressaltou ainda, que no caso do vice-prefeito optar pelo subsídio do cargo, o pagamento retroativo não deverá ser computado para os efeitos do disposto no *caput* do art. 18 da Lei Complementar nº 101/2000, por força do regrado no § 2º do citado dispositivo, o qual consagra o regime de competência da despesa, eis que o dispêndio em questão não se referirá aos períodos de apuração das despesas com pessoal, correspondendo a exercícios anteriores;
+
+**CONSIDERANDO** que o Representante do Ministério Público de Contas (fls.24 a 28 [leitura provável; algarismo borrado, 26/28]) posicionou-se sob duas vertentes principais, uma no que concerne às implicações na lei de responsabilidade fiscal, entendeu que o pagamento pode ser efetuado desde que observado o disposto nos artigos 18, 19, §1º IV e 20, III, "b" da Lei Complementar nº 101/2000, o que resguarda o gestor da prática de qualquer irregularidade e outra, quanto ao pagamento dos vencimentos em atraso do ex-vice-prefeito, o Município deve pagá-los conforme determinado no Mandado de Segurança nº 28/04 [leitura provável; 26/28], transitado em julgado, obedecidas às regras contidas no art. 100 da Carta Magna;
+
+**D E C I D I U** o Plenário, unânime, responder em tese a presente consulta nos termos do parecer da Consultoria Técnica n. º 54/2005 (fls. 19 a 22), que fará parte integrante desta decisão. Decidiu, ainda, o Plenário, unânime, dar ciência desta decisão ao consulente.
+
+Presentes na Sessão os Conselheiros: José Anchieta Moraes e Silva (Presidente em Exercício), em razão do Cons. Luciano Nunes Santos encontrar-se em gozo de férias, Sabino Paulo Alves Neto, Abelardo Pio Vilanova e Silva, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Cons. substitutos Jaime Amorim Júnior, Jaylson Fabianh Lopes Campelo e Jackson Nobre Veras convocados para substituírem, respectivamente, os Cons. José Anchieta Moraes e Silva (Presidente em Exercício), Anfrísio Neto Lobão Castelo Branco e Joaquim Kennedy Nogueira Barros (ausentes por motivo justificado) e o representante do Ministério Público de Contas, Procurador José Araújo Pinheiro Júnior
+
+Transcreva-se, publique-se e encaminhe-se.
+
+Sala das Sessões do Tribunal de Contas do Estado do Piauí, em Teresina, 09 de novembro de 2005.
+
+[assinatura manuscrita]
+**Conselheiro Luciano Nunes Santos** — **Presidente**
+
+[assinatura manuscrita]
+**Conselheira Waltânia Maria Nogueira de Sousa Leal Alvarenga** — **Relatora**
+
+**Fui presente, Plínio Valente Ramos Neto** — **Procurador junto ao TCE/PI**
+
+[À direita: algarismo impresso "2" (número de página).]
+[Faixa inferior direita: mancha escura de digitalização sobre fio horizontal; sem texto legível.]
 
 ### Documento vinculado pela fonte
 
@@ -243,3 +361,11 @@ Texto reproduzido de fonte oficial. Confira na origem a situação atual e as re
 - PDF vinculado: 1 página(s), 115910 bytes, SHA-256 `2ba871cdc8e63f9f6f1f9dfdf50ba6bf743afc279b48ab5b87608cafdad17557`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Logotipos foram descritos uma única vez e não como selos em relevo. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 4 página(s), 560965 bytes, SHA-256 `ea4f010c6f00f73cf324ab79b59f6400355653a68b2bb1154404e2efa1537a8c`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. A Resolução 961/05 anexada é distinta do parecer da Consultoria Técnica. Nessa cópia degradada, algarismos 26/28 e palavras borradas permanecem explicitamente prováveis. Divergências entre os procuradores dos quadros e os presentes na sessão não foram harmonizadas. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.

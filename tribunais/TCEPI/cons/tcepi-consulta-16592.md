@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Câmara Municipal. Repasse de duodécimo a menor. Procedimentos judiciais e contábeis a adotar. (2012)
 - **Identificador:** `tcepi-consulta-16592`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 9 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 7 ocorrência(s); vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -181,11 +181,78 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda] **Estado do Piauí**
+**Tribunal de Contas**
+[Centro do cabeçalho:] Processo
+TC-N-043712/12
+Fls. 128
+[Logotipo à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ]
+
+**DIRETORIA DE FISCALIZAÇÃO DA ADMINISTRAÇÃO MUNICIPAL**
+
+[Bloco com fundo sombreado:]
+Processo ......... TC-E-043712/12
+Assunto........... Consulta
+Interessado..... Ana Lúcia Policarpo da Cruz Gomes
+Procedência..... Câmara Municipal de Guadalupe
+Relator........... Anfrísio Neto L. Castelo Branco
+Procurador ...... Leandro Maciel do Nascimento
+
+<u>**1 RELATÓRIO**</u>
+
+Trata-se de consulta processada por determinação do Senhor Conselheiro Relator, mediante requerimento apresentado pela Sra. Ana Lúcia Policarpo da Cruz Gomes, Presidenta da Câmara Municipal de Guadalupe, cujo questionamento foi formulado nos seguintes termos:
+
+1 – Quando as dotações orçamentárias destinadas ao Poder Legislativo forem inferiores ao repasse do duodécimo constitucional devidamente regulamentado na LDO do Município e o Chefe do Poder Executivo se recusa a propor a abertura de um crédito suplementar ou especial para corrigir tal falha, o que fazer?
+
+2 – Sabendo-se que não havendo a abertura do crédito suplementar ou especial, as dotações orçamentárias do Poder Legislativo só suportam o empenhamento de despesa até o mês de outubro, inclusive o pagamento das despesas de caráter continuado, como pessoal, obrigações patronais, água, luz, telefone, etc. Pergunta-se: estas despesas devem ser pagas e não empenhadas? E como fazer contabilmente? Podem ser classificadas como despesas a regularizar?
+
+3 – Caso as despesas que não tenham como ser empenhadas no exercício possam ser classificadas como despesas a regularizar, no orçamento do exercício seguinte deve-se propor dotação orçamentária no elemento de despesa (Despesa de Exercício Anterior) para regularizar tais despesas?
+
+4 – Estas despesas serão consideradas na apuração dos limites legais do Poder Legislativo? Em qual exercício? No exercício que foram pagas ou no exercício que foram empenhadas/regularizadas?
+
+<u>**2 ANÁLISE TÉCNICA**</u>
+
+Quanto aos quesitos formulados pelo consulente, o parecer é o seguinte:
+
+1 - A Lei de Responsabilidade Fiscal (LRF), em seu art. 15, estabelece que as despesas sem adequação orçamentária, ou seja, sem dotação suficiente, serão consideradas nulas, irregulares e lesivas ao patrimônio público. O instrumento previsto na lei para evitar que a fixação de despesa fique sem dotação é a abertura de créditos adicionais por meio de decreto do chefe do poder executivo, previsto nos artigos 40 e 42 da Lei n.º 4.320/64. Entretanto, no caso em comento, diante da negativa do Poder Executivo em abrir crédito suplementar para o Poder Legislativo, é imprescíndivel que este Poder, inicialmente, recorra aos meios judiciais cabíveis para tentar uma resolução ao problema.
+
+[À direita, abaixo do último parágrafo: rubrica manuscrita]
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda] **Estado do Piauí**
+**Tribunal de Contas**
+[Centro do cabeçalho:] Processo
+TC-N-043712/12
+Fls. 129
+[Logotipo à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ]
+
+2 - Primeiramente, ressalta-se que, contabilmente, só seria possível empenhar as citadas despesas se houvesse saldo orçamentário na dotação própria. Em segundo, a despesa só poderia ser liquidada e paga se tivesse sido previamente empenhada (art. 60 da Lei nº 4.320/64). Entretanto, como relatado, o processo orçamentário foi interrompido em sua origem. Nesse caso, ausentes todos os pré-requisitos necessários para o empenhamento da despesa e, consequente pagamento, e sabendo-se que o andamento da máquina administrativa não pode parar, entende-se pela possibilidade de que as mesmas devam ser pagas e registradas no grupo Realizável, especificamente na conta Despesas a Regularizar (Conta específica para registrar pagamentos sem créditos atinentes às despesas pagas).
+
+3 - Sim. O empenhamento em Despesa de Exercícios Anteriores possui requisitos, como define o art. 37 da Lei Federal no 4.320/64: "As despesas de exercícios encerrados, para as quais o orçamento respectivo consignava crédito próprio, <u>com saldo suficiente para atendê-las</u>, <u>que não se tenham processado na época própria</u>, bem como os Restos a Pagar com prescrição interrompida e os compromissos reconhecidos após o encerramento do exercício correspondente, poderão ser pagas à conta de <u>dotação específica consignada no orçamento</u>, discriminada por elemento, obedecida, sempre que possível, a ordem cronológica." Assim, é de fundamental importância a proposição de dotação para tal conta na lei orçamentária do exercício seguinte (em que vai ser empenhada a despesa). Dotação esta que comporte o volume das despesas que serão pagas neste exercício e registradas em Despesas a Regularizar.
+
+4 - Legalmente, e dentro de uma situação de normalidade, as despesas seriam consideradas no exercício em que foram empenhadas (art. 35 da Lei nº 4.320/64). Entretanto, nesta caso, as despesas deverão ser consideradas no exercício em que forem pagas. Para tanto, como as mesmas estarão registradas na conta Despesas a Regularizar, é necessário que o ente envie uma Nota Explicativa a esta Corte, explicitando toda situação ocorrida, devidamente acompanhada de documentação comprobatória, e discrimine em um documento apartado todas as despesas pagas e registradas na citada conta, identificando principalmente as despesas com pessoal, para que se possa apurar os limites constitucionais.
+
+<u>**3 CONCLUSÃO**</u>
+
+Ante o exposto, coloca-se essa Diretoria à disposição do Senhor Relator Anfrísio Neto L. Castelo Branco para os esclarecimentos que se fizerem necessários.
+
+Teresina (PI), 12 de novembro de 2012.
+
+[Duas colunas de assinatura:]
+
+| Coluna esquerda | Coluna direita |
+|---|---|
+| [assinatura manuscrita] | [assinatura manuscrita] |
+| Maria da Cruz Rufino Leão | Ednize Costa Oliveira |
+| Auditora Fiscal de Controle Externo | Auditora Fiscal de Controle Externo |
+| | Chefe da V Divisão Técnica/DFAM |
+
+**VISTO:** [assinatura manuscrita]
+Vilmar Barros Miranda
+Auditor Fiscal de Controle Externo
+Diretor da DFAM
 
 ## Ementa
 
@@ -198,3 +265,11 @@ Página sem camada textual extraível; transcrição pendente.
 [Parecer DFAM](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Parecer-DFAM-8.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 2 página(s), 351979 bytes, SHA-256 `0ce40b08abdfd7afe1e43f69f97189f135921adf9dfd4b3bf371c61835976f91`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. A Resolução 961/05 anexada é distinta do parecer da Consultoria Técnica. Nessa cópia degradada, algarismos 26/28 e palavras borradas permanecem explicitamente prováveis. Divergências entre os procuradores dos quadros e os presentes na sessão não foram harmonizadas. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
