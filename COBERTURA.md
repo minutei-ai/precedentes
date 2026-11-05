@@ -2932,3 +2932,8 @@ Integrado o teor das 15 páginas do Acórdão 1108/20, processo 464908/19, sess�
 ## TCEPR — Acórdão 3921/2020 conferido integralmente
 
 Integradas as 12 páginas do Acórdão 3921/20, processo 113617/20, após revisão independente integral das imagens. Corrigidas 25 separações espúrias de palavras, restaurados os 23 sobrescritos e os seis sublinhados da fonte; negrito e itálico transpostos dos estilos do PDF. Notas reunidas ao final, com páginas de origem. Mantidas as datas atribuídas: 14/12/2020 no metadado VIAJuris e 17/12/2020 no fecho do PDF. Nenhum ID ou órgão novo. Com o Acórdão 1108/2020, são 27 páginas de dois documentos integradas do lote de 13; os demais 11 seguem pendentes, sem concluir #194.
+
+
+## TCERN — publicação primária da Decisão 2092/2014 recuperada
+
+Integrado o trecho integral da publicação da Decisão 2092/2014-TC no DOE nº 1297, páginas 12–13: ementa e deliberação sobre o cancelamento da Súmula 24 e a ressalva de efeitos das decisões anteriores. As duas páginas foram conferidas integralmente nas imagens por revisão independente. Sessão 93 de 11/12/2014; disponibilização em 18/12/2014. A redação histórica já recuperada, o campo cadastral inativa=false e o cancelamento documental permanecem atribuídos separadamente, sem inferir vigência atual. A publicação não foi apresentada como voto autônomo ou autos completos. Documento de apoio na ficha existente; zero IDs/órgãos adicionais, TCERN continua com 34 registros. PDFs e revisão permanecem privados. A recuperação supera a pendência documental da #197.
