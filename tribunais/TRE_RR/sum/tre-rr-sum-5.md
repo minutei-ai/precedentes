@@ -14,6 +14,14 @@ Texto da súmula nº 5 conforme a página [Súmulas do TRE-RR](https://www.tre-r
 
 ## Texto disponibilizado pela fonte
 
-Súmula - TRE/RR Nº 5: As decisões interlocutórias proferidas no curso das representações previstas na Lei nº 9.504/1997, cujo processamento é disciplinado pelo Resolução TSE nº 23.547/2017, não são recorríveis de imediato, não precluem e deverão ser novamente analisadas pelo relator por ocasião do julgamento, caso assim o requeiram as partes ou o Ministério Público em suas alegações finais.
+As decisões interlocutórias proferidas no curso das representações previstas na Lei nº 9.504/1997, cujo processamento é disciplinado pelo Resolução TSE nº 23.547/2017, não são recorríveis de imediato, não precluem e deverão ser novamente analisadas pelo relator por ocasião do julgamento, caso assim o requeiram as partes ou o Ministério Público em suas alegações finais.
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Conferência das fontes — 05/11/2026
+
+O texto do índice é o campo descrição da página. O [detalhe arquivado](https://web.archive.org/web/20260410131354/https://www.tre-rr.jus.br/jurisprudencia/sumulas-do-tre-rr-1/sumula-tre-rr-no-5) contém um único parágrafo, com rótulo e enunciado, sem link de PDF/ato, data de sessão, aprovação ou cancelamento. Corpo cotejado integralmente por revisão independente; espaços HTML consecutivos colapsados, sem acrescentar pontuação. SHA-256 do HTML arquivado: `81d2baa97a7d773f358eee29ed84c489a2a21237d815ed60f92cba576aad9954`.
+
+Os acessos diretos atuais retornaram HTTP 403 HTML. A leitura do índice pelo leitor web não é recibo HTTP 200 do portal. As capturas arquivadas dos detalhes datam de novembro de 2025 a abril de 2026; não provam o estado vivo atual nem vigência.
+
+O campo descrição do índice repete o rótulo “Súmula - TRE/RR Nº 5:”. Esse prefixo de navegação foi separado do enunciado, como nos demais registros. A expressão “pelo Resolução” é literal e foi preservada.
