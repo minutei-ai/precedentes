@@ -3141,3 +3141,7 @@ TRE-AL: nove corpos de enunciados incorporados aos IDs existentes após nova tra
 
 
 TCEPI: lote complementar de 27 páginas em oito PDFs incorporado após transcrição visual e revisão independente integral: parecer DFAM da consulta 16626, votos 16802/16854, acórdãos 16926/16959/16996/17015 e parecer MPC 16808. Descrições de logotipos corrigidas, identificadores pessoais de assinatura ocultados e manuscritos incertos preservados. Peças vinculadas permanecem separadas e demais documentos continuam em revisão. Sem novos IDs.
+
+## PGEPE — catálogo 008/2025, impresso 009/2022 v2
+
+Integradas as 46 páginas do [Parecer Padrão 009/2022, versão 2 de março/2024](tribunais/PGEPE/parecer-referencial/pgepe-parecer-ref-008-2025.md), vinculado pelo catálogo como 008/2025. Transcrição visual e cotejo independente integral, com ajustes de formatação aplicados. Recaptura oficial com bytes idênticos. Preservadas a data de 2023 no fecho e as citações posteriores, o despacho sem data/assinatura da página 45 e a aprovação de 04/04/2024 na página 46. Não se comprova ato de renumeração ou vigência. Delta +1 ID, zero órgãos; PGEPE passa a três registros. Demais itens e portarias da issue #264 permanecem pendentes.
