@@ -3010,3 +3010,7 @@ A notícia institucional “Atenção à alteração!”, de 10/06/2013, foi rec
 ## TCEBA — Resolução 112/2008
 
 O texto vinculado à [Súmula 12](tribunais/TCEBA/sum/tceba-sum-12.md) foi substituído pela transcrição integral das duas páginas da cópia arquivada, cotejadas em imagem em revisão independente. A data de 03/02/2009 e a estrutura de artigos antes publicadas eram falsas: a fonte imprime Resolução 112/2008, sessão 18/12/2008, um Considerando e RESOLVEM. O enunciado do verbete coincide com o catálogo. Notas de assinaturas sobrepostas e elementos gráficos foram corrigidas sem atribuir nomes. Fonte arquivada, sem nova disponibilidade oficial presumida; demais itens da #205 pendentes, delta zero.
+
+## PGEPR — reconciliação estrutural das camadas integradas
+
+O [índice da série](tribunais/PGEPR/oa/) foi atualizado de 80 para 102 fichas já existentes, sem novo ID. São 98 arquivos principais com texto publicado e três complementos separados para 31, 32 e 55; a 98 segue sem corpo. Contagem de disponibilidade não certifica fidelidade ou leitura visual integral. A recaptura do catálogo em 05/11/2026 retornou 102 linhas, números 1–99 e 101–103; número 100 ausente dessa fotografia. As linhas, notas e links coincidem com a captura anterior após normalização de espaços e entidades HTML, mas o hash total do HTML mudou. A issue #256 permanece aberta pela conferência documental integral e resoluções vinculadas.

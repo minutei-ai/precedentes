@@ -17,3 +17,7 @@
 ## Texto documental pendente
 
 A camada textual extraída do PDF contém caracteres ilegíveis e não permite validar o corpo. O conteúdo jurídico não é transcrito neste registro; leitura visual integral e transcrição permanecem pendentes. A ementa e a nota acima são atribuídas ao catálogo, não substituem o inteiro teor.
+
+## Complemento documental publicado
+
+O [complemento separado da orientação 55](complementos/pgepr-oa-55-inteiro-teor.md) já contém texto publicado para este mesmo ID. O aviso de pendência acima descreve a retenção do corpo neste arquivo principal; não significa ausência de texto no acervo. Esta ligação não constitui nova certificação do complemento nem cria identificador adicional.
