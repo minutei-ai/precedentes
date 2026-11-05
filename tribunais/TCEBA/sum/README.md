@@ -25,3 +25,7 @@ Em 04/11/2026 o portal `www.tce.ba.gov.br` permanecia em manutenção (catálogo
 - [SUM 19](tceba-sum-19.md) — Cancelada no catálogo oficial
 - [SUM 20](tceba-sum-20.md) — Vigente no catálogo oficial
 - [SUM 21](tceba-sum-21.md) — Vigente no catálogo oficial
+
+## Resolução 112/2008 — correção documental
+
+As [duas páginas vinculadas à Súmula 12](tceba-sum-12.md) foram integralmente transcritas e cotejadas nas imagens da cópia arquivada. Retirou-se a transcrição anterior, que inventava data de 2009, considerandos e artigos. A resolução real é de 18/12/2008; notas de rubricas e limites de proveniência permanecem explícitos. Restam as demais resoluções e a recuperação da 078/2018 na issue #205. Sem novo ID.
