@@ -92,6 +92,8 @@ Procurador Geral do Ministério Público de Contas RAFAEL RODRIGUES DE ALCANTARA
 
 Sala das Sessões do PLENO do TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS, em Maceió, 14___ de __JULHO______ de 2016.
 
+[Nota de transcrição: a numeração impressa salta de 23 para 28 e repete o rótulo IV; esses pontos não foram preenchidos nem renumerados.]
+
 ## Ementa
 
 CONSULTA. DOCUMENTOS QUE DEVEM SER ENCAMINHADOS AO TRIBUNAL DE CONTAS PARA A VERIFICAÇÃO DE REGULARIDADE DE CONTRATAÇÃO. PELO ENVIO NECESSÁRIO DE CÓPIA INTEGRAL DE TODO O PROCESSO ADMINISTRATIVO QUE ORIGINOU O CONTRATO NO PRAZO ESTABELECIDO NO CALENDÁRIO DE OBRIGAÇÕES DO GESTOR. 
