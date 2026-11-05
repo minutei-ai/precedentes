@@ -3022,3 +3022,7 @@ Os sete PDFs já incorporados antes do lote de 78 foram recapturados com hashes 
 ## TRT22 — atos prioritários vinculados às Súmulas 2, 17 e 29
 
 Foram incorporadas as 13 páginas da RA 48/2016, RA 116/2023 e acórdão do PROAD 3496/2022, após cotejo visual integral e aplicação dos dois achados obrigatórios de ordem de assinatura e título. A página 7 do acórdão é branca. Os títulos distintos da Súmula 29, datas de publicação/assinatura e limites de ênfase permanecem atribuídos. São [documentos de apoio](tribunais/TRT22/sum/atos-ra48-2016-ra116-2023-proad3496.md), sem novos IDs. Capturas anteriores íntegras, links SGI atuais HTTP 403; demais atos e IUJs da #247 pendentes.
+
+## TCEBA — sete páginas das Resoluções 024/2007, 086/2007 e 090/2006
+
+As [sete páginas](tribunais/TCEBA/sum/resolucoes-024-086-090.md) foram transcritas das imagens e cotejadas integralmente em revisão independente. Corrigiram-se duas palavras da 086 e notas de rubricas, tipografia, datas e rodapés; lapsos e incertezas reais permanecem explícitos. As transcrições anteriores, que não correspondiam à fonte, foram retiradas das 12 fichas relacionadas e preservadas somente em evidência privada. Os três replays arquivados foram recapturados com hashes idênticos às cópias locais. Somadas às duas páginas da 112, são nove páginas transcritas dos quatro atos; a 078/2018 segue em revisão. Sem novo ID e sem inferência de vigência.

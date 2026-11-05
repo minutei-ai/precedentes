@@ -2,7 +2,7 @@
 
 **21 registros.** [Voltar ao tribunal](../)
 
-Em 04/11/2026 o portal `www.tce.ba.gov.br` permanecia em manutenção (catálogo e PDFs diretos HTTP 404). As Resoluções 024/2007, 086/2007, 112/2008 e 090/2006 foram recuperadas via Wayback Machine dos URLs oficiais (hashes duals idênticos); a transcrição integral das 9 páginas digitalizadas permanece pendente por legibilidade. A Resolução 078/2018 (súmula 16) não tem captura CDX indexada; próximo passo: reconsultar o portal e o e-DOTCE após o fim da manutenção.
+Em 04/11/2026, a coleta registrou manutenção e HTTP 404 no portal e nos PDFs diretos. As cópias arquivadas das Resoluções 024/2007, 086/2007, 112/2008 e 090/2006 foram recuperadas por replay de capturas do URL oficial; as nove páginas estão transcritas, cotejadas em imagem e ligadas abaixo. As alegações anteriores de ilegibilidade geral não correspondiam à fonte e foram corrigidas. A Resolução 078/2018 foi recuperada posteriormente pelo REST oficial, mediante vínculo protocolo/documento, e está em revisão própria antes da publicação. Essas evidências não certificam vigência atual.
 
 - [SUM 1](tceba-sum-1.md) — Vigente no catálogo oficial
 - [SUM 2](tceba-sum-2.md) — Cancelada no catálogo oficial
@@ -29,3 +29,7 @@ Em 04/11/2026 o portal `www.tce.ba.gov.br` permanecia em manutenção (catálogo
 ## Resolução 112/2008 — correção documental
 
 As [duas páginas vinculadas à Súmula 12](tceba-sum-12.md) foram integralmente transcritas e cotejadas nas imagens da cópia arquivada. Retirou-se a transcrição anterior, que inventava data de 2009, considerandos e artigos. A resolução real é de 18/12/2008; notas de rubricas e limites de proveniência permanecem explícitos. Restam as demais resoluções e a recuperação da 078/2018 na issue #205. Sem novo ID.
+
+## Resoluções 024, 086 e 090 — cotejo integral
+
+As [sete páginas das três resoluções](resolucoes-024-086-090.md) foram integralmente cotejadas em imagem. As transcrições incorretas nas fichas foram substituídas pelo apoio compartilhado, preservando lapsos e incertezas locais. Os replays arquivados foram recapturados com hashes idênticos às cópias locais. Com as duas páginas da 112, estão transcritas as nove páginas dos quatro atos; a Resolução 078/2018 segue em revisão própria. Delta zero.
