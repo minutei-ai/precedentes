@@ -3082,3 +3082,7 @@ O [Enunciado25/23](tribunais/MPMA/en-csmp/mpma-en-csmp-25-2023.md) foi recuperad
 ### MPAP — proposta de2024 conciliada, 05/11/2026
 
 A minuta sem número da ata396ª foi vinculada ao Enunciado CSMP008 pelo processo completo, reunião e texto dos três itens; a aprovação formal está na p.26, não na25. Variantes de classes, aspas e datas de criação preservadas na ficha. Com as45 páginas CSMP e as duas do CAO Criminal já cotejadas, o recorte documental da issue271 está reconciliado. Nenhum ID adicional para a minuta; catálogo atual403e limites de vigência/completude explícitos.
+
+### ANS — fac-símiles reais das referências recuperados, 05/11/2026
+
+Três PDFs reais do DOU foram recuperados e cotejados em imagem: p305/31-03-2022, p773/31-12-2020 e p181/20-11-2020. A errataRN462 corrige as referências às Súmulas3 e6; apoio incorporado sem ID. A referência2000 está literalmente confirmada no art59II, mas a identidade com as súmulas1 de2001/2002 continua não demonstrada. Os antigos HTMLs com extensãoPDF não foram usados. Delta zero.

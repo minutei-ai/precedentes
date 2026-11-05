@@ -40,3 +40,7 @@ Diretor-Presidente
 ## Conferência e limites
 
 Duas capturas independentes em 29/10/2026 coincidem em 4599 bytes e no SHA-256 acima. O HTML declara charset latin-1. Foram transcritos o título, os parágrafos, as listas, a tabela quando existe e o fecho. Ficaram de fora a advertência de navegação, o brasão, a legenda institucional e o link Saúde Legis. A BVS do Ministério da Saúde reproduz o Diário Oficial e declara, fora do texto transcrito: "Este texto não substitui o publicado no Diário Oficial da União". O registro atribui esse limite. Quebras de linha de diagramação dentro dos parágrafos foram unidas. A quebra entre o nome e o cargo no fecho foi mantida. Grafias, datas e pontuação da página foram preservadas. Permanecem "SUMULA" sem acento, "Lei no 9.961" e "Lei;resolve". Não há CPF, RG, matrícula, senha nem código de acesso neste HTML. Nomes e funções do fecho permanecem. Resoluções, leis, pareceres e processos apenas citados não geraram registros. A expressão de entendimento usada pelo ato não foi convertida em classificação atual de vigência ou de efeito vinculante. A presença do registro não confirma vigência atual.
+
+## Retificação de referência na RN462/2020
+
+A [retificação no DOU de31/12/2020](retificacao-rn462-2020.md) corrige as referências da RN462: Súmula3 de21/09/2001 para16/05/2003 e Súmula6 de07/02/2004 para27/02/2004. O bloco da errata e a publicação original foram cotejados em imagem. Trata-se da referência usada pela resolução; os registros históricos e as datas de seus atos permanecem separados.
