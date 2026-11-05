@@ -370,40 +370,42 @@ pessoal.
 
 #### Página 2 do PDF oficial
 
+[Nota editorial de apresentação: Título “2 ANÁLISE TÉCNICA” em negrito e sublinhado; cinco marcadores circulares. ORIENTAÇÃO em caixa alta sem negrito. Não há cabeçalho nem fólio nesta folha.]
+
     2 ANÁLISE TÉCNICA
-    
+
             O Regimento Interno do TCE-PI, Resolução nº 13/2009, enumera, nos arts.
     201, II, §§ 1º e 2º, 202 e 203, os seguintes requisitos para a formulação de consultas:
-    
+
     •      ser a autoridade subscrevente legitimada;
-    
+
     •       estar a petição acompanhada de parecer do órgão de assistência técnica ou
     jurídica da autoridade consulente e de cópia da legislação pertinente ao objeto da
     consulta;
-    
+
     •      demonstração da pertinência temática da consulta à área de atribuição e
     competência da instituição representada pelo consulente, salvo em se tratando de
     consulta formulada pelos dirigentes dos Poderes Executivo, Legislativo, Judiciário,
     Procuradoria Geral de Justiça, Procuradoria Geral do Estado e Município, e pela Chefia
     da Defensoria Publica;
-    
+
     •      descrição genérica da hipótese, sem referência a caso concreto;
-    
+
     •      demonstração e fundamentação do relevante interesse público da matéria,
     quando versar sobre dúvida quanto à interpretação e aplicação da legislação em caso
     concreto.
-    
+
             Em sua petição, a Prefeita Municipal intenta provocar esta Corte a se manifestar
     especificamente sobre a aplicabilidade/constitucionalidade da Lei Municipal nº
     250/2014, demanda que não se amolda perfeitamente às hipóteses de consulta
     previstas pelos arts. 202 e 388, da Resolução TCE-PI nº 13/2011, conforme se
     demonstrará a seguir.
-    
+
             No entanto, a despeito da impropriedade identificada acima, a qual, nos termos
     do art. 202, da Resolução nº 13/2011, autoriza, de per si, o arquivamento liminar da
     consulta, apresentar-se-á a seguir ORIENTAÇÃO sobre a matéria ventilada, a partir da
     análise da legislação vigente.
-    
+
              O processo legislativo é regulamento pela Constituição Federal e pelo regimento
     interno da câmara de vereadores. Assim, é preciso que a prefeita comprove que houve
     alguma violação das referidas normas. No caso em análise, houve tão somente a
@@ -419,9 +421,11 @@ pessoal.
     financeiro deve estar presente quando da aprovação das leis orçamentárias, que
     deverão realizar um exercício de previsão de despesa à luz dos novos direitos
     adquiridos pelos professores e as consequentes novas contratações ou demissões.
-    
+
 
 #### Página 3 do PDF oficial
+
+[Nota editorial de apresentação: No último parágrafo, somente HORAS após 40 e HORAS-AULA após 26 estão em negrito; a quebra HORAS-/AULA é de linha. Não há cabeçalho nem fólio.]
 
             É preciso deixar claro que a Lei nº 250/2014 regulamenta os profissionais do
     magistério, prevendo direitos e deveres, tais como carga horaria de trabalho, piso
@@ -433,7 +437,7 @@ pessoal.
     financeiro, não havendo tempo hábil para sua aplicação no referido ano, mas com
     possibilidade de efetiva aplicação para o exercício de 2015, cabendo ao gestor adequar
     as finanças municipais à nova realidade legal.
-    
+
             No que tange ao conteúdo da lei, não cabe ao Tribunal de Contas do Estado do
     Piauí adentrar ao mérito da decisão tomada pelos representantes do povo do município
     de Colônia do Gurguéia, relativa à jornada de trabalho dos profissionais do magistério.
@@ -443,7 +447,7 @@ pessoal.
     fundamento no art. 125, §2º, da Constituição Federal, a representação de
     inconstitucionalidade de leis ou atos normativos municipais em face da Constituição
     Estadual, como forma de controle abstrato de constitucionalidade.
-    
+
             Eventualmente, é possível também o controle de constitucionalidade incidental
     da lei em análise, mas, neste caso, a corte judicial analisa uma demanda concreta e
     verifica a constitucionalidade da norma como fundamento para decisão final. É nesse
@@ -452,7 +456,7 @@ pessoal.
     constitucionalidade das leis e dos atos do Poder Público”, não cabendo, portanto, ao
     TCE-PI analisar, em abstrato, a constitucionalidade da Lei nº 250/2014, pois estaria
     usurpando a competência do Poder Judiciário.
-    
+
            Não obstante o exposto anteriormente, realizando-se uma análise não
     aprofundada do diploma legal, nota-se que as alterações promovidas pela Lei nº
     250/2014, em especial da jornada de trabalho, estão de acordo com Lei Federal nº
@@ -466,40 +470,42 @@ pessoal.
     determina que o limite de tempo de interação com os educandos é de 26 HORAS-
     AULA, sendo que esta corresponde a 50 ou 45 minutos, a depender do horário de
     trabalho (diurno ou noturno).
-    
+
 
 #### Página 4 do PDF oficial
 
+[Nota editorial de apresentação: “3 CONCLUSÃO” em negrito e sublinhado; “VISTO:” em negrito. Fechos de Luis Fernando Ramos Ribeiro Gonçalves e Ednize Oliveira Costa em duas colunas; visto de Vilmar Barros Miranda abaixo à esquerda. Nos três registros e-TCE, fórmula em itálico e nomes/data-hora em negrito; identificadores pessoais ocultados. Sem rubrica manuscrita visível.]
+
            3 CONCLUSÃO
-    
+
                   Ante o exposto, entende-se que não houve comprovação de irregularidade de
            ordem formal no processo de elaboração da Lei nº 250/2014 e, ainda que houvesse
            qualquer vicio formal ou material, o instrumento constitucionalmente previsto não é a
            Consulta ao Tribunal de Contas do Estado do Piauí, mas sim uma ação de controle
            abstrato de constitucionalidade. Dessa forma, a princípio, a lei é valida e eficaz, não
            obstante seja imprecisa sobre a carga horária semanal de trabalho dos professores.
-    
+
                   Coloca-se essa Diretoria à disposição da Presidência, para os esclarecimentos
            que se fizerem necessários.
-    
-    
+
+
                                       Teresina (PI), 30 de Janeiro de 2015.
-    
-    
-    
+
+
+
            Luis Fernando Ramos Ribeiro Gonçalves                     Ednize Oliveira Costa
                      Assessor Jurídico                         Auditora Fiscal de Controle Externo
                                                                 Chefe da II Divisão Técnica/DFAM
-    
-    
+
+
            VISTO:
            Vilmar Barros Miranda
            Auditor Fiscal de Controle Externo
            Diretor da DFAM
-    
-    
-    
-    
+
+
+
+
     Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 29/01/2015 13:27:47
     Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA: [identificador e-TCE ocultado] - 30/01/2015 12:05:45
     Assinado Digitalmente pelo sistema e-TCE - LUIS FERNANDO RAMOS RIBEIRO GONCALVES: [identificador e-TCE ocultado] - 29/01/2015 12:23:50

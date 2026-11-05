@@ -22,14 +22,16 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+[Nota editorial de apresentação: Brasão à esquerda com ESTADO DO PIAUI e logomarca TCE à direita com TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Título e linhas completas DECISÃO/SESSÃO/PROCESSO em negrito, demais rótulos em negrito. Na ementa recuada à direita, EMENTA até BOM JESUS. em negrito e itálico; Pelo conhecimento., Responder e Decisão unânime. em itálico. No corpo, conhecer e responder em negrito.]
+
                      Gabinete Conselheiro Substituto
                             Jaylson Campelo
-    
-    
+
+
                              ACÓRDÃO Nº. 725/2015
-    
-    
-    
+
+
+
     DECISÃO Nº. 317/2015
     SESSÃO PLENÁRIA ORDINÁRIA Nº 13 DE 30 DE ABRIL DE 2015
     PROCESSO TC/004962/2015
@@ -38,9 +40,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     ASSUNTO: Sobre a possibilidade de concessão de férias anuais e pagamento do
     terço constitucional de férias a Secretários Municipais, Procurador Geral e
     Controlador Geral.
-    
-    
-    
+
+
+
                                           EMENTA: CONSULTA – PROCURADORIA GERAL
                                           DO MUNICÍPIO DE BOM JESUS. Pelo conhecimento.
                                           Responder ao consulente nos termos do relatório da
@@ -48,10 +50,10 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
                                           pagamento de terço constitucional de férias a
                                           secretários municipais, procurador geral e controlador
                                           geral. Decisão unânime.
-    
-    
-    
-    
+
+
+
+
                   Vistos, relatados e discutidos os presentes autos, considerando a
     informação da Comissão de Regimento e Jurisprudência (peça nº 4), a
     manifestação da II Divisão da Diretoria de Fiscalização da Administração Municipal
@@ -61,7 +63,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     constitucionalidade da lei que autoriza o pagamento de terço constitucional de
     férias a secretários municipais, procurador geral e controlador geral, em
     conformidade e pelos fundamentos expostos no voto do Relator (peça nº 11).
-    
+
                    Presentes os Cons. Abelardo Pio Vilanova e Silva (Presidente em
     exercício em virtude da ausência justificada do Cons. Luciano Nunes Santos),
     Waltânia Maria Nogueira de Sousa Leal Alvarenga, Lilian de Almeida Veloso Nunes
@@ -72,37 +74,39 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     (ausente por motivo justificado) e Alisson Felipe de Araújo, convocado para
     substituir, nesse processo, o Cons. Olavo Rebêlo de Carvalho Filho (ausente por
     motivo justificado).
-    
+
 
 #### Página 2 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual e logomarca TCE ladeiam o cabeçalho. Rótulo Representante do Ministério Público de Contas presente: em negrito. Nos três fechos, nomes e respectivas introduções Cons., Cons. Subst. e Fui presente: em negrito; cargos após as linhas sem negrito. Fórmula e-TCE em itálico e nomes/datas em negrito, identificadores ocultos. Sem rubricas manuscritas visíveis.]
 
                               Gabinete Conselheiro Substituto
                                      Jaylson Campelo
                        Representante do Ministério Público de Contas presente:
            Procurador-Geral Márcio André Madeira de Vasconcelos.
-    
+
                            Publique-se e Cumpra-se.
-    
+
                           Sessão Plenária Ordinária, em Teresina, 30 de abril de 2015.
-    
-    
-    
+
+
+
         Cons. Abelardo Pio Vilanova e Silva ___________________________________ Presidente em exercício
-    
-    
+
+
         Cons. Subst. Jaylson Fabianh Lopes Campelo ________________________ Relator
-    
-    
+
+
         Fui presente: Márcio André Madeira de Vasconcelos ______________ Procurador Geral do MPC-
           TCE/PI
-    
-    
-    
-    
+
+
+
+
     Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 12/05/2015 07:47:54
     Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 13/05/2015 07:06:47
     Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 13/05/2015 11:39:00
-    
+
 
 ### Documento vinculado pela fonte
 
