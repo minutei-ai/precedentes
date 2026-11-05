@@ -104,16 +104,16 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | 82 | [pgepr-oa-82](pgepr-oa-82.md) | PDF (Editado pela Resolução n° 293/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 83 | [pgepr-oa-83](pgepr-oa-83.md) | PDF (Editado pela Resolução nº 148/2023-PGE) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 84 | [pgepr-oa-84](pgepr-oa-84.md) | PDF (Editado pela Resolução nº 245/2023-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
-| 85 | [pgepr-oa-85](pgepr-oa-85.md) | PDF (Editado pela Resolução nº 059/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 86 | [pgepr-oa-86](pgepr-oa-86.md) | PDF (Editado pela Resolução nº 098/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 87 | [pgepr-oa-87](pgepr-oa-87.md) | PDF (Editado pela Resolução nº 153/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 88 | [pgepr-oa-88](pgepr-oa-88.md) | PDF (Editado pela Resolução nº 154/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 89 | [pgepr-oa-89](pgepr-oa-89.md) | PDF (Editado pela Resolução nº 155/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 90 | [pgepr-oa-90](pgepr-oa-90.md) | PDF (Editado pela Resolução nº 156/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 91 | [pgepr-oa-91](pgepr-oa-91.md) | PDF (Editado pela Resolução nº 157/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 92 | [pgepr-oa-92](pgepr-oa-92.md) | PDF (Editado pela Resolução nº 158/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 93 | [pgepr-oa-93](pgepr-oa-93.md) | PDF (Editado pela Resolução nº 159/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 94 | [pgepr-oa-94](pgepr-oa-94.md) | PDF (Editado pela Resolução nº 160/2024-PGE ) | Texto publicado; conferir limites da ficha |
+| 85 | [pgepr-oa-85](pgepr-oa-85.md) | PDF (Editado pela Resolução nº 059/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 86 | [pgepr-oa-86](pgepr-oa-86.md) | PDF (Editado pela Resolução nº 098/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 87 | [pgepr-oa-87](pgepr-oa-87.md) | PDF (Editado pela Resolução nº 153/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 88 | [pgepr-oa-88](pgepr-oa-88.md) | PDF (Editado pela Resolução nº 154/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 89 | [pgepr-oa-89](pgepr-oa-89.md) | PDF (Editado pela Resolução nº 155/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 90 | [pgepr-oa-90](pgepr-oa-90.md) | PDF (Editado pela Resolução nº 156/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 91 | [pgepr-oa-91](pgepr-oa-91.md) | PDF (Editado pela Resolução nº 157/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 92 | [pgepr-oa-92](pgepr-oa-92.md) | PDF (Editado pela Resolução nº 158/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 93 | [pgepr-oa-93](pgepr-oa-93.md) | PDF (Editado pela Resolução nº 159/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 94 | [pgepr-oa-94](pgepr-oa-94.md) | PDF (Editado pela Resolução nº 160/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 95 | [pgepr-oa-95](pgepr-oa-95.md) | PDF (Editado pela Resolução nº 161/2024-PGE ) | Texto publicado; conferir limites da ficha |
 | 96 | [pgepr-oa-96](pgepr-oa-96.md) | PDF (Editado pela Resolução nº 038/2025-PGE ) | Texto publicado; conferir limites da ficha |
 | 97 | [pgepr-oa-97](pgepr-oa-97.md) | PDF ( Editado pela Resolução nº 134/2025-PGE ) | Texto publicado; conferir limites da ficha |
@@ -121,7 +121,7 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | 99 | [pgepr-oa-99](pgepr-oa-99.md) | ​ PDF (Editado pela Resolução nº 276/2025-PGE ) | Texto publicado; conferir limites da ficha |
 | 101 | [pgepr-oa-101](pgepr-oa-101.md) | PDF (Editada pela Resolução nº 106/2026-PGE ) | Texto publicado; conferir limites da ficha |
 | 102 | [pgepr-oa-102](pgepr-oa-102.md) | PDF (Editada pela Resolução nº 120/2026-PGE ) | Texto publicado; conferir limites da ficha |
-| 103 | [pgepr-oa-103](pgepr-oa-103.md) | PDF (Editada pela Resolução nº 219/2026-PGE ) | Texto publicado; conferir limites da ficha |
+| 103 | [pgepr-oa-103](pgepr-oa-103.md) | PDF (Editada pela Resolução nº 219/2026-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 
 Os lotes remanescentes 1–3 incorporaram 42 páginas de 18 PDFs após revisão independente integral Sol/Astra e dez ajustes. As versões da OA35 e as associações divergentes OA39/48 e OA41/46 permanecem explícitas; a peça de número em branco não recebeu ID. Somados os recortes anteriores, 52 páginas de 23 PDFs receberam cotejo independente. As demais fontes e atos vinculados continuam pendentes na #256.
 
@@ -130,3 +130,5 @@ Os lotes remanescentes 4–6 incorporaram 60 páginas de 25 PDFs, em 25 fichas e
 O lote7 incorporou20 páginas de13 PDFs após revisão independente integral Sol e dois ajustes de negrito nos rodapés da OA68. Sem novo ID; os recortes revistos totalizam132 páginas em61 PDFs. Permanecem65 páginas disponíveis de27 PDFs, além de anexos bloqueados e recuperação histórica, sem certificação das fontes restantes.
 
 O lote 8 incorporou 19 páginas de dez PDFs, referentes às OA 75–84, após revisão independente integral Astra e um ajuste de negrito no preâmbulo da fonte 83. A fonte 84 conserva a resolução e a folha ePROTOCOLO separadas. Sem novo ID; os recortes revistos totalizam 151 páginas em 71 PDFs. Restam 46 páginas disponíveis de 17 PDFs nas partes 9–11, além de pendências de aquisição e recuperação histórica.
+
+As partes 9 e 11 incorporaram 26 páginas de onze PDFs, OA 85–94 e 103, após revisão independente integral Astra. Uma correção literal no nome documental da folha ePROTOCOLO da OA 85 foi aplicada; os originais privados foram preservados. A Resolução 219/2026 e sua folha de assinatura permanecem separadas. Sem novos IDs: os recortes revistos totalizam 177 páginas em 82 PDFs, com vinte páginas disponíveis de seis PDFs da parte 10 ainda pendentes, além das lacunas de aquisição e recuperação histórica.
