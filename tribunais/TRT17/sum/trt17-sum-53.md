@@ -12,9 +12,9 @@
 
 Fonte: [Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas), indicada em [Súmulas](https://www.trt17.jus.br/w/sumulas). Duas capturas em 29/10/2026 têm o mesmo SHA-256 `32055b651824f55a5850d398c85fcc48537af8b49f06464c92790a8a9a48d40f`. O PDF tem 17 páginas. A camada de texto foi extraída e conferida visualmente em cada página. As quebras de linha foram reunidas em parágrafos. Trechos riscados na edição ficam riscados abaixo; a nota de cancelamento ou de revisão não está riscada.
 
-SÚMULA Nº 53 (CANCELADA)
+<u>**SÚMULA Nº 53**</u> **(CANCELADA)**
 
-~~HORAS EXTRAS RECONHECIDAS EM JUÍZO. CRITÉRIO DE DEDUÇÃO DOS VALORES PAGOS DURANTE O CONTRATO DE TRABALHO.~~
+~~**HORAS EXTRAS RECONHECIDAS EM JUÍZO. CRITÉRIO DE DEDUÇÃO DOS VALORES PAGOS DURANTE O CONTRATO DE TRABALHO.**~~
 
 ~~I. Nos contratos de trabalho firmados anteriormente à vigência da Lei nº. 13.467/17, a dedução dos valores comprovadamente pagos pelo labor extraordinário realizado durante o contrato de trabalho deve ser limitada ao respectivo mês de apuração, sendo indevida a dedução pelo valor global de horas extras quitadas relativas a todo o período imprescrito, pois contrária à lógica do artigo 59, §2º, da CLT e da Súmula 85 do TST.~~
 
@@ -24,9 +24,11 @@ SÚMULA Nº 53 (CANCELADA)
 
 O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
+Nota editorial de apresentação: na Consulta Unificada, o rótulo “SÚMULA Nº 53” está em negrito e sublinhado. Apenas o estado entre parênteses está em vermelho e não está sublinhado.
+
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55). Este número não aparece nessa lista. O enunciado acima não foi extraído de um título de catálogo.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53, 55 e 65). Este número não aparece nessa lista. O enunciado acima não foi extraído de um título de catálogo.
 
 ## Página individual do leitor (04/11/2026)
 

@@ -12,15 +12,17 @@
 
 Fonte: [Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas), indicada em [Súmulas](https://www.trt17.jus.br/w/sumulas). Duas capturas em 29/10/2026 têm o mesmo SHA-256 `32055b651824f55a5850d398c85fcc48537af8b49f06464c92790a8a9a48d40f`. O PDF tem 17 páginas. A camada de texto foi extraída e conferida visualmente em cada página. As quebras de linha foram reunidas em parágrafos. Trechos riscados na edição ficam riscados abaixo; a nota de cancelamento ou de revisão não está riscada.
 
-SÚMULA Nº 38
+<u>**SÚMULA Nº 38**</u>
 
-HORAS EXTRAS HABITUAIS. ESCALA 12 X 36. INVALIDAÇÃO. PAGAMENTO DAS HORAS EXCEDENTES DA 8ª DIÁRIA E 44ª SEMANAL COMO EXTRAS. Nos termos da Súmula 444 do E. TST, a jornada de 12 horas de trabalho e 36 horas de descanso, prevista em lei, acordo ou convenção coletiva de trabalho é válida, em caráter excepcional, uma vez garantida a dobra da remuneração do labor em feriados. No entanto, a prestação de horas extraordinárias habituais invalida a escala, caso em que as horas que ultrapassarem a jornada semanal normal, consideradas como tais aquelas que ultrapassarem a 8ª hora diária e 44ª semanal, deverão ser pagas como horas extraordinárias.
+**HORAS EXTRAS HABITUAIS. ESCALA 12 X 36. INVALIDAÇÃO. PAGAMENTO DAS HORAS EXCEDENTES DA 8ª DIÁRIA E 44ª SEMANAL COMO EXTRAS.** Nos termos da Súmula 444 do E. TST, a jornada de 12 horas de trabalho e 36 horas de descanso, prevista em lei, acordo ou convenção coletiva de trabalho é válida, em caráter excepcional, uma vez garantida a dobra da remuneração do labor em feriados. No entanto, a prestação de horas extraordinárias habituais invalida a escala, caso em que as horas que ultrapassarem a jornada semanal normal, consideradas como tais aquelas que ultrapassarem a 8ª hora diária e 44ª semanal, deverão ser pagas como horas extraordinárias.
 
 O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
+Nota editorial de apresentação: na Consulta Unificada, o rótulo “SÚMULA Nº 38” está em negrito e sublinhado. O rótulo está em preto.
+
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53, 55 e 65).
 
 Título indicado: Súmula Nº 38 - HORAS EXTRAS HABITUAIS. ESCALA 12 X 36. INVALIDAÇÃO. PAGAMENTO DAS HORAS EXCEDENTES DA 8ª DIÁRIA E 44ª SEMANAL COMO EXTRAS.
 
