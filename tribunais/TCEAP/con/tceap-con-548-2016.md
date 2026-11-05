@@ -26,9 +26,8 @@ CONSULTA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO INCISO II, DO ART. 104 E §1º D
 
 #### Ressalvas de Decisão
 
--   Página 1 (Decisão 127/2016) conferida visualmente em 04/11/2026 a partir da imagem embutida do PDF oficial (contraste reforçado para leitura).
--   Camada de assinatura digital e-TCE: CPF do signatário ocultado na transcrição.
--   Relatório e Voto 1 permanecem com páginas image-only pendentes.
+-   O número do processo não foi localizado integralmente na extração automática; confira a identidade e o conteúdo visual na fonte
+-   Página 1 com imagem grande; conteúdo visual não confirmado
 
 [Relatório](https://app.tce.ap.gov.br/storage/geral/App.Models.Jurisprudencia.Decisao.anexo_relatorio/38/DEC-127-2016-SESS%C3%83O-283%C2%AA-RELAT%C3%93RIO.pdf): 252350 bytes, HTTP200. Duas leituras documentais com bytes idênticos.
 
@@ -55,66 +54,10 @@ CONSULTA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO INCISO II, DO ART. 104 E §1º D
 
 ##### Página 1
 
-    [Camada de assinatura digital e-TCE — signatário DAMILTON BARBOSA SALOMÃO; CPF ocultado; 13/06/2016 08:05:55]
+    Assinado Digitalmente pelo sistema e-TCE - DAMILTON BARBOSA SALOMAO:21024618234 - 13/06/2016 08:05:55
     Para validar essa(s) assinatura(s) acesse http://validador.tce.ap.gov.br e insira o codigo - 106042CBEAC4AC50E5E0C58EC8541341
 
-                                    TRIBUNAL
-                                   DE CONTAS
-                                   DO ESTADO
-                                   DO AMAPÁ
-
-    DECISÃO N° 127/2016-TCE/AP - PLENO
-    PROCESSO            N° 000548/2016-TCE
-    ORIGEM              Macapá Previdência - MACAPAPREV
-    ASSUNTO             Consulta
-    CONSULENTE          Luiz Carlos Gomes dos Santos Junior - Diretor-Presidente
-                        da Macapá Previdência - MACAPAPREV
-    REPRESENT. DO MPC   Procuradora Geral de Contas Amélia Paula Gurjão Sampaio
-                        Freitas
-    RELATOR             Conselheiro Substituto Antonio Wanderler Colares Távora
-
-    Vistos, relatados e discutidos estes autos que versam sobre consulta formulada
-    pelo Diretor Presidente da Macapá Previdência - MACAPAPREV, Senhor Luiz Carlos Gomes dos
-    Santos Junior, solicitando a manifestação desta Corte de Contas no que tange a como proceder
-    com o valor das verbas que irão compor os proventos de aposentadoria dos servidores que
-    encontram-se com seus salários reduzidos ao teto constitucional, de acordo com a EC n°
-    41/2003.
-
-    Considerando, que a consulta não atende, concomitantemente, as formalidades
-    dos pressupostos de admissibilidade, expressos no art. 104, do Regimento Interno do Tribunal
-    de Contas;
-
-    Considerando tratar-se de assunto que extrapola a competência deste Tribunal,
-    que veda sua manifestação sobre caso concreto;
-
-    DECIDEM os Conselheiros do Tribunal de Contas do Estado do Amapá, reunidos em
-    Sessão do Plenário, com base no que estabelecem os artigos 104, inciso II e 105, § 1º da
-    Resolução Normativa n° 115/2003 (Regimento Interno do Tribunal de Contas do Estado do
-    Amapá), ante as razões expostas pelo Relator, à unanimidade:
-
-    a) Pelo NÃO CONHECIMENTO da presente Consulta por não atender ao requisito
-    de admissibilidade previsto no inciso II do artigo 104 e § 1º do artigo 105, da
-    Resolução Normativa n° 115/2003 - RITCE/AP;
-
-    b) Pelo ARQUIVAMENTO dos presentes autos;
-
-    Dê-se ciência aos interessados do teor da presente decisão.
-
-    Sala das Sessões do Tribunal de Contas do Estado do Amapá, Plenário Conselheiro
-    José Veríssimo Tavares, em Macapá, 283ª Sessão Ordinária realizada em 27 de abril de 2016.
-
-    Conselheira MARIA ELIZABETH CAVALCANTE DE A. PICANÇO
-    Presidente
-
-    Conselheiro Substituto ANTONIO WANDERLER COLARES TÁVORA
-    Relator
-
-    Procuradora Geral de Contas AMÉLIA PAULA GURJÃO SAMPAIO FREITAS
-
-    Foram presentes à Sessão: Conselheiros: Terezinha de Jesus Brito Botelho; José Marcelo de
-    Santana Neto e Pedro Aurélio Penha Tavares.
-
-Inventário visual: 1 imagem nesta página; texto decisório conferido visualmente em 04/11/2026.
+Inventário visual: 1 imagens nesta página; consulte o PDF.
 
 #### Relatório
 
@@ -208,3 +151,7 @@ Inventário visual: 1 imagens nesta página; consulte o PDF.
 Inventário visual: 1 imagens nesta página; consulte o PDF.
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.

@@ -20,386 +20,85 @@ Os documentos reúnem a súmula e materiais de fundamentação ou precedentes, q
 
 ### Pendências documentais
 
--   Páginas 1–11: leitura nativa do PDF oficial (image-only) + strips densos/contraste em 04/11/2026; tipografia simplificada; elipses “(…)” do extrato preservadas.
--   Página 11: faixa inferior em branco no raster; conteúdo útil no topo (fechamento da Decisão do Precedente 06).
--   Inteiros teores dos processos apenas citados no PDF não foram coletados.
+-   Página 1: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 2: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 3: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 4: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 5: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 6: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 7: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 8: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 9: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 10: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 11: Página sem texto extraível; conteúdo visual não transcrito.
 
 ### Documento oficial — página 1
 
-                       SUMULA N° 20
-                       É vedada a autorização para remanejamento, transposição ou
-                       transferência de recursos entre dotações orçamentárias na Lei
-                       Orçamentária Anual – LOA, por ferir o princípio constitucional da
-                       exclusividade, configurando dispositivo estranho à previsão da
-                       receita e fixação da despesa no Orçamento (art. 165, § 8º,
-                       CF/1988).
-    
-    
-    FUNDAMENTAÇÃO LEGAL
-       -   Constituição Federal: art. 165, § 8º.
-    
-    
-    PRECEDENTES NO TCE/MT
-    
-    1) Acórdão n° 136/2014 - Segunda Câmara. Sessão de 16/09/2014. Publicação em
-    09/10/2014. Processo n° 23.401-9/2013. Relator: Conselheiro Substituto Luiz
-    Henrique Lima.
-    
-    2) Acórdão n° 2.852/2014 - Tribunal Pleno. Sessão de 11/12/2014. Publicação em
-    20/01/2015. Processo n° 7.341-5/2013. Relator: Conselheiro Domingos Neto.
-    
-    3) Acórdão n° 3.468/2015 - Tribunal Pleno. Sessão de 06/10/2015. Publicação em
-    03/11/2015. Processo n° 1.797-7/2014. Relator: Conselheiro José Carlos Novelli.
-    
-    4) Acórdão n° 55/2016 - Segunda Câmara. Sessão de 26/04/2016. Publicação em
-    17/05/2016. Processo n° 21.583-5/2015. Relator: Conselheiro Domingos Neto.
-    
-    5) Acórdão n° 76/2016 - Segunda Câmara. Sessão de 14/06/2016. Publicação em
-    30/06/2016. Processo n° 2.052-4/2015. Relator: Conselheiro Substituto João Batista
-    Camargo.
-    
-    6) Acórdão n° 90/2016 - Segunda Câmara. Sessão de 19/07/2016. Publicação em
-    04/08/2016. Processo n° 21.859-1/2015. Relatora: Conselheira Substituta Jaqueline
-    Jacobsen.
-    
-    
-    Precedente 01
-    
-    Acórdão n° 136/2014 - Segunda Câmara.
-    Processo n° 23.401-9/2013.
-    Interessado: Prefeitura Municipal de Cuiabá.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE CUIABÁ. CONTAS ANUAIS DE GESTÃO DO
-    EXERCÍCIO DE 2013. REGULARES, COM DETERMINAÇÕES LEGAIS.
-    [continuação do voto/decisão na página 2 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026.
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 2
 
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo à autorização para remanejamento,
-    transposição ou transferência de recursos entre dotações orçamentárias na LOA.
-    
-    Autorização para remanejamento na LOA. Dispositivo estranho à previsão da receita
-    e fixação da despesa.
-    
-    A Lei Orçamentária Anual do Município de Cuiabá continha dispositivo autorizando
-    o remanejamento, a transposição ou a transferência de recursos entre dotações
-    orçamentárias, em desacordo com o art. 165, § 8º, da Constituição Federal.
-    
-    A Constituição Federal, em seu art. 165, § 8º, estabelece que a lei orçamentária
-    anual não conterá dispositivo estranho à previsão da receita e à fixação da
-    despesa, não se incluindo na proibição a autorização para abertura de créditos
-    suplementares e a contratação de operações de crédito, ainda que por antecipação
-    de receita, nos termos da lei.
-    
-    Assim, a autorização para remanejamento, transposição ou transferência de
-    recursos entre dotações orçamentárias na LOA configura dispositivo estranho à
-    previsão da receita e fixação da despesa, ferindo o princípio constitucional da
-    exclusividade.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro Substituto Luiz Henrique Lima, por unanimidade, em julgar
-    REGULARES COM RESSALVAS as contas anuais de gestão, determinando à atual
-    gestão que observe o disposto no art. 165, § 8º, da Constituição Federal, vedada a
-    autorização para remanejamento, transposição ou transferência de recursos entre
-    dotações orçamentárias na LOA (...)”. (grifou-se).
-    
-    
-    Precedente 02
-    
-    Acórdão n° 2.852/2014 - Tribunal Pleno.
-    Processo n° 7.341-5/2013.
-    Interessado: Prefeitura Municipal de Cuiabá.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE CUIABÁ. CONTAS ANUAIS DE GESTÃO.
-    REGULARES, COM DETERMINAÇÕES LEGAIS.
-    [continuação na página 3 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 3
 
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo à autorização para remanejamento,
-    transposição ou transferência de recursos entre dotações orçamentárias na LOA.
-    
-    A Lei Orçamentária Anual do Município de Cuiabá continha dispositivo autorizando
-    o remanejamento, a transposição ou a transferência de recursos entre dotações
-    orçamentárias, em desacordo com o art. 165, § 8º, da Constituição Federal.
-    
-    A Constituição Federal, em seu art. 165, § 8º, estabelece que a lei orçamentária
-    anual não conterá dispositivo estranho à previsão da receita e à fixação da
-    despesa, não se incluindo na proibição a autorização para abertura de créditos
-    suplementares e a contratação de operações de crédito, ainda que por antecipação
-    de receita, nos termos da lei.
-    
-    Assim, a autorização para remanejamento, transposição ou transferência de
-    recursos entre dotações orçamentárias na LOA configura dispositivo estranho à
-    previsão da receita e fixação da despesa, ferindo o princípio constitucional da
-    exclusividade.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro Domingos Neto, por unanimidade, em julgar REGULARES COM
-    RESSALVAS as contas anuais de gestão, determinando à atual gestão que observe o
-    disposto no art. 165, § 8º, da Constituição Federal, vedada a autorização para
-    remanejamento, transposição ou transferência de recursos entre dotações
-    orçamentárias na LOA (...)”. (grifou-se).
-    
-    
-    Precedente 03
-    
-    Acórdão n° 3.468/2015 - Tribunal Pleno.
-    Processo n° 1.797-7/2014.
-    Interessado: Prefeitura Municipal de Cuiabá.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE CUIABÁ. CONTAS ANUAIS DE GESTÃO.
-    REGULARES, COM DETERMINAÇÕES LEGAIS.
-    [continuação na página 4 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 4
 
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo à autorização para remanejamento,
-    transposição ou transferência de recursos entre dotações orçamentárias na LOA.
-    
-    A Lei Orçamentária Anual do Município de Cuiabá continha dispositivo autorizando
-    o remanejamento, a transposição ou a transferência de recursos entre dotações
-    orçamentárias, em desacordo com o art. 165, § 8º, da Constituição Federal.
-    
-    (... )
-    
-    Assim, a autorização para remanejamento, transposição ou transferência de
-    recursos entre dotações orçamentárias na LOA configura dispositivo estranho à
-    previsão da receita e fixação da despesa, ferindo o princípio constitucional da
-    exclusividade.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro José Carlos Novelli, por unanimidade, em julgar REGULARES
-    COM RESSALVAS as contas anuais de gestão, determinando à atual gestão que
-    observe o disposto no art. 165, § 8º, da Constituição Federal, vedada a autorização
-    para remanejamento, transposição ou transferência de recursos entre dotações
-    orçamentárias na LOA (...)”. (grifou-se).
-    
-    
-    Precedente 04
-    
-    Acórdão n° 55/2016 - Segunda Câmara.
-    Processo n° 21.583-5/2015.
-    Interessado: Prefeitura Municipal de Várzea Grande.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE VÁRZEA GRANDE. CONTAS ANUAIS DE GESTÃO.
-    REGULARES, COM DETERMINAÇÕES LEGAIS.
-    [continuação na página 5 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 5
 
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo à autorização para remanejamento,
-    transposição ou transferência de recursos entre dotações orçamentárias na LOA.
-    
-    A Lei Orçamentária Anual do Município de Várzea Grande continha dispositivo
-    autorizando o remanejamento, a transposição ou a transferência de recursos entre
-    dotações orçamentárias, em desacordo com o art. 165, § 8º, da Constituição Federal.
-    
-    (... )
-    
-    Assim, a autorização para remanejamento, transposição ou transferência de
-    recursos entre dotações orçamentárias na LOA configura dispositivo estranho à
-    previsão da receita e fixação da despesa, ferindo o princípio constitucional da
-    exclusividade.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro Domingos Neto, por unanimidade, em julgar REGULARES COM
-    RESSALVAS as contas anuais de gestão, determinando à atual gestão que observe o
-    disposto no art. 165, § 8º, da Constituição Federal, vedada a autorização para
-    remanejamento, transposição ou transferência de recursos entre dotações
-    orçamentárias na LOA (...)”. (grifou-se).
-    
-    
-    Precedente 05
-    
-    Acórdão n° 76/2016 - Segunda Câmara.
-    Processo n° 2.052-4/2015.
-    Interessado: Prefeitura Municipal de Rondonópolis.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE RONDONÓPOLIS. CONTAS ANUAIS DE GESTÃO.
-    REGULARES, COM DETERMINAÇÕES LEGAIS.
-    [continuação na página 6 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 6
 
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo à autorização para remanejamento,
-    transposição ou transferência de recursos entre dotações orçamentárias na LOA.
-    
-    A Lei Orçamentária Anual do Município de Rondonópolis continha dispositivo
-    autorizando o remanejamento, a transposição ou a transferência de recursos entre
-    dotações orçamentárias, em desacordo com o art. 165, § 8º, da Constituição Federal.
-    
-    (... )
-    
-    Assim, a autorização para remanejamento, transposição ou transferência de
-    recursos entre dotações orçamentárias na LOA configura dispositivo estranho à
-    previsão da receita e fixação da despesa, ferindo o princípio constitucional da
-    exclusividade.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro Substituto João Batista Camargo, por unanimidade, em julgar
-    REGULARES COM RESSALVAS as contas anuais de gestão, determinando à atual
-    gestão que observe o disposto no art. 165, § 8º, da Constituição Federal, vedada a
-    autorização para remanejamento, transposição ou transferência de recursos entre
-    dotações orçamentárias na LOA (...)”. (grifou-se).
-    
-    
-    Precedente 06
-    
-    Acórdão n° 90/2016 - Segunda Câmara.
-    Processo n° 21.859-1/2015.
-    Interessado: Prefeitura Municipal de Sinop.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE SINOP. CONTAS ANUAIS DE GESTÃO.
-    REGULARES, COM DETERMINAÇÕES LEGAIS.
-    
-    
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo à autorização para remanejamento,
-    transposição ou transferência de recursos entre dotações orçamentárias na LOA.
-    [continuação nas páginas 7–11 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 7
 
-    A Lei Orçamentária Anual do Município de Sinop continha dispositivo autorizando
-    o remanejamento, a transposição ou a transferência de recursos entre dotações
-    orçamentárias, em desacordo com o art. 165, § 8º, da Constituição Federal.
-    
-    A Constituição Federal, em seu art. 165, § 8º, estabelece que a lei orçamentária
-    anual não conterá dispositivo estranho à previsão da receita e à fixação da
-    despesa, não se incluindo na proibição a autorização para abertura de créditos
-    suplementares e a contratação de operações de crédito, ainda que por antecipação
-    de receita, nos termos da lei.
-    
-    Assim, a autorização para remanejamento, transposição ou transferência de
-    recursos entre dotações orçamentárias na LOA configura dispositivo estranho à
-    previsão da receita e fixação da despesa, ferindo o princípio constitucional da
-    exclusividade.
-    
-    (... )” . (grifou-se).
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 8
 
-    Continuação do voto condutor (Precedente 06 — Sinop):
-    “(... )
-    No caso concreto, a LOA continha autorização para remanejamento entre dotações,
-    em desacordo com o art. 165, § 8º, da Constituição Federal.
-    
-    (... )
-    
-    É vedada a autorização para remanejamento, transposição ou transferência de
-    recursos entre dotações orçamentárias na Lei Orçamentária Anual – LOA, por ferir
-    o princípio constitucional da exclusividade.
-    
-    (... )” . (grifou-se).
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste). Extrato; elisões “(…)” preservadas. Conferir PDF para densidades tipográficas do voto.
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 9
 
-    Continuação do voto condutor (Precedente 06 — Sinop):
-    “(... )
-    Assim, mantenho a irregularidade, com aplicação de multa à gestora, e determino à
-    atual gestão que observe rigorosamente o disposto no art. 165, § 8º, da Constituição
-    Federal, vedada a autorização para remanejamento, transposição ou transferência
-    de recursos entre dotações orçamentárias na LOA.
-    
-    (... )
-    
-    DISPOSITIVO DO VOTO
-    
-    Ante o exposto, (...) apresento proposta de VOTO no sentido de:
-    
-    (...)
-    
-    II) Aplicar multa (...);
-    
-    III) Determinar à atual gestão que observe o disposto no art. 165, § 8º, da
-    Constituição Federal, vedada a autorização para remanejamento, transposição ou
-    transferência de recursos entre dotações orçamentárias na LOA.
-    
-    (... )” . (grifou-se).
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 10
 
-    Continuação do dispositivo / Decisão (Precedente 06 — Sinop):
-    “(... )
-    Determinando à atual gestão que observe o disposto no art. 165, § 8º, da
-    Constituição Federal, vedada a autorização para remanejamento, transposição ou
-    transferência de recursos entre dotações orçamentárias na LOA.
-    
-    (... )” . (grifou-se).
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste). Extrato; densidades tipográficas do dispositivo conferíveis no PDF.
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 11
 
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto da
-    Relatora, Conselheira Substituta Jaqueline Jacobsen, por unanimidade, em julgar
-    REGULARES COM RESSALVAS as contas anuais de gestão, determinando à atual
-    gestão que observe o disposto no art. 165, § 8º, da Constituição Federal, vedada a
-    autorização para remanejamento, transposição ou transferência de recursos entre
-    dotações orçamentárias na LOA, e aplicando multa à responsável (...)”. (grifou-se).
-    
-    [faixa inferior da página em branco no raster]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
-Páginas 1–11 conferidas por leitura nativa do PDF oficial image-only + strips densos. Os trechos de votos e decisões são extratos do caderno da súmula; os inteiros teores dos processos e demais documentos apenas citados que não estejam incorporados ao PDF não foram coletados. Outras categorias do tribunal e a conciliação nacional permanecem abertas.
+Não houve OCR nem reconstrução de páginas rasterizadas. As páginas sem texto e as imagens grandes permanecem pendentes, sem inferir seu conteúdo a partir de resumos. Os inteiros teores dos processos e demais documentos apenas citados que não estejam incorporados ao PDF não foram coletados. Outras categorias do tribunal e a conciliação nacional permanecem abertas.
 
 ## Texto disponibilizado pela fonte
 
@@ -575,3 +274,7 @@ As páginas de contexto abaixo preservam o texto extraível, inclusive notas de 
                                                                   396
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.

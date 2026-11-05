@@ -39,36 +39,6 @@ Nas licitações, a apuração dos valores estimados será estabelecida tomando 
 
 ## Decisão
 
-### Nota sobre peças associadas (atualização 04/11/2026)
-
-O enunciado da súmula já consta no catálogo e no PDF oficial da súmula (transcrito abaixo a partir do texto extraível do PDF de 1 página). As **peças associadas** listadas a seguir são documentos de contexto dos precedentes; não constituem outra súmula. Páginas dessas peças sem texto extraível permanecem com ressalva de conferência visual; sua ausência de transcrição não afeta a identidade nem o enunciado da súmula.
-
-### Súmula — PDF oficial (1 página)
-
-    TRIBUNAL DE CONTAS DO MUNICÍPIO DO RIO DE ANEIRO
-    Secretaria das Sessões
-
-
-
-                                  Súmula n.° 007
-    Nas licitações, a apuração dos valores estimados será estabelecida tomando
-    por base o menor preço e, nos casos em que a legislação permita a sua não
-    utilização, deverá o órgão justificar o critério escolhido desconsiderando as
-    propostas incompatíveis com a realidade de mercado, em atenção ao Princípio
-    da Economicidade.
-
-    Fundamento Legal
-    - Lei n.° 8666/93, artigos 3.° e 45, §1°, inciso I.
-
-    Precedentes
-    - Processo 040/4107/2000, Sessão de 21/11/2000, Ata n.° 73/2000, “in” DO Rio de 24/11/2000, pág. 50;
-    - Processo 040/1524/2001, Sessão de 24/7/2001, Ata n.° 39/2001, “in” DO Rio de 27/7/2001, pág. 27;
-    - Processo 040/4262/2001, Sessão de 5/4/2006, Ata n.° 21/2006, “in” DO Rio de 11/4/2006, pág. 39;
-    - Processo 040/6277/2003, Sessão de 24/4/2006, Ata n.° 26/2006, “in” DO Rio de 27/4/2006, pág. 53.
-
-    Súmulas nºs 006 a 008, aprovadas na 16ª Sessão Ordinária de 12/03/2012 , publicada
-    no D.O RIO de 20/03/2012
-
 ### Peça associada a precedente
 
 [Abrir documento oficial](https://etcm.tcmrio.tc.br/Processo/ArquivoPublico/Documento_1809434?auid=de237075-484d-4bc3-9c5c-7381984c1df9&cd=attachment&ctid=1809434&s=Documento_1809434). 1033221 bytes; respostas HTTP 200 e 200. Leituras com bytes idênticos: true.
@@ -548,3 +518,7 @@ Inventário visual: 1 imagens nesta página; consulte o PDF.
     no D.O RIO de 20/03/2012
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.

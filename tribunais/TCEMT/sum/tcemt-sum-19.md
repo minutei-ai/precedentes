@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 19
 - **Identificador:** `tcemt-sum-19`
-- **Situação na fonte:** Situação jurídica atual não informada pelo catálogo; confira a fonte oficial e atos posteriores
+- **Situação na fonte:** Situação jurídica atual não informada pelo catálogo; há pendências de transcrição documental, descritas abaixo
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEMT — Súmulas e documentos oficiais de fundamentação](https://www.tce.mt.gov.br/legislacoes/sumulas)
 
@@ -20,523 +20,78 @@ Os documentos reúnem a súmula e materiais de fundamentação ou precedentes, q
 
 ### Pendências documentais
 
--   Páginas 1–10: leitura nativa do PDF oficial (image-only) + strips densos/contraste em 04/11/2026; tipografia simplificada; elipses “(…)” do extrato preservadas.
--   Cifras de valor em vários extratos de precedentes marcadas como de difícil leitura quando a visão reciclava a cifra de outro precedente; conferir PDF oficial.
--   Inteiros teores dos processos apenas citados no PDF não foram coletados.
+-   Página 1: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 2: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 3: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 4: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 5: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 6: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 7: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 8: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 9: Página sem texto extraível; conteúdo visual não transcrito.
+-   Página 10: Página sem texto extraível; conteúdo visual não transcrito.
 
 ### Documento oficial — página 1
 
-                       SUMULA N° 19
-                       É dever do administrador público realizar o pagamento de
-                       despesas legitimamente inscritas em restos a pagar, com
-                       observância da ordem cronológica (art. 5º, Lei 8.666/93),
-                       sendo que, no caso de se constatar irregularidade quanto à
-                       legitimidade ou legalidade dos processos de liquidação dessas
-                       despesas, deve determinar a instauração de processo
-                       administrativo para apuração da certeza, da exigibilidade e da
-                       liquidez dos créditos, e, ainda, das possíveis responsabilidades.
-    
-    
-    FUNDAMENTAÇÃO LEGAL
-       -   Lei nº 8.666/93: art. 5°; art. 92.
-       -   Lei 4.320/64: art. 63.
-    
-    
-    PRECEDENTES NO TCE/MT
-    
-    1) Acórdão n° 740/2005. Sessão de 31/05/2005. Publicação em 09/06/2005.
-    Processo n° 8.915-0/2005. Relator: Conselheiro Valter Albano.
-    
-    2) Acórdão n° 817/2006. Sessão de 16/05/2006. Publicação em 07/06/2006.
-    Processo n° 30.541-3/2005. Relator: Conselheiro Valter Albano.
-    
-    3) Acórdão n° 1.164/2014 - Tribunal Pleno. Sessão de 10/06/2014. Publicação em
-    04/07/2014. Processo n° 7.347-4/2013. Relator: Conselheiro José Carlos Novelli.
-    
-    4) Acórdão n° 20/2015 - Tribunal Pleno. Sessão de 24/02/2015. Publicação em
-    12/03/2015. Processo n° 5.667-7/2014. Relator: Conselheiro Valter Albano.
-    
-    5) Acórdão n° 227/2015 - Segunda Câmara. Sessão de 17/11/2015. Publicação em
-    03/12/2015. Processo n° 2.255-1/2014. Relatora: Conselheira Substituta Jaqueline
-    Jacobsen.
-    
-    6) Acórdão n° 68/2016 - Segunda Câmara. Sessão de 25/05/2016. Publicação em
-    07/06/2016. Processo n° 24.567-4/2015. Relator: Conselheiro Domingos Neto.
-    
-    7) Acórdão n° 75/2016 - Primeira Câmara. Sessão de 13/09/2016. Publicação em
-    23/09/2016. Processo n° 2.104-0/2015. Relatora: Conselheira Substituta Jaqueline
-    Jacobsen.
-    
-    
-    Precedente 01
-    
-    Acórdão n° 740/2005.
-    Processo n° 8.915-0/2005.
-    Interessado: Hospital e Maternidade São José de Diamantino Ltda.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE DIAMANTINO. TOMADA DE CONTAS ESPECIAL.
-    [continuação da ementa na página 2 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026.
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 2
 
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo a despesas não pagas.
-    
-    Trata-se de Tomada de Contas Especial instaurada em face da Prefeitura Municipal
-    de Diamantino, em razão do não pagamento de despesas relativas a serviços
-    médicos prestados pelo Hospital e Maternidade São José de Diamantino Ltda., no
-    valor de R$ 45.945,12 (quarenta e cinco mil, novecentos e quarenta e cinco reais e
-    doze centavos), conforme notas fiscais de fls. 04/23.
-    
-    A defesa alega que as despesas não foram pagas porque as notas fiscais não
-    estavam acompanhadas dos documentos necessários à liquidação da despesa, nos
-    termos do art. 63 da Lei 4.320/64.
-    
-    Contudo, restou comprovado nos autos que as despesas foram devidamente
-    liquidadas, com a apresentação das notas fiscais e demais documentos
-    comprobatórios do crédito, nos termos do art. 63 da Lei 4.320/64.
-    
-    O art. 62 da Lei 4.320/64 estabelece que o pagamento da despesa só será efetuado
-    quando ordenado após sua regular liquidação.
-    
-    Assim, uma vez liquidada a despesa, é dever do administrador público realizar o
-    pagamento, observando a ordem cronológica dos pagamentos, nos termos do art.
-    5º da Lei 8.666/93.
-    
-    Caso o administrador constate irregularidade quanto à legitimidade ou legalidade
-    dos processos de liquidação dessas despesas, deve determinar a instauração de
-    processo administrativo para apuração da certeza, da exigibilidade e da liquidez dos
-    créditos, e, ainda, das possíveis responsabilidades.
-    
-    No caso concreto, as despesas estavam devidamente liquidadas, e o Município
-    deixou de efetuar o pagamento, sem qualquer justificativa legal para tanto.
-    
-    Ademais, em respeito ao princípio da continuidade da Administração Pública, o
-    novo gestor é responsável pelo pagamento das despesas legítimas deixadas pelo
-    seu antecessor, desde que devidamente liquidadas.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro Valter Albano, por unanimidade, em julgar REGULARES COM
-    RESSALVAS as contas objeto da Tomada de Contas Especial, determinando o
-    pagamento das despesas liquidadas relativas aos serviços médicos prestados pelo
-    Hospital e Maternidade São José de Diamantino Ltda., no valor de R$ 45.945,12, e
-    aplicando multa ao responsável (...)”. (grifou-se).
-    
-    
-    Precedente 02
-    
-    Acórdão n° 817/2006.
-    Processo n° 30.541-3/2005.
-    Interessado: Prefeitura Municipal de Nova Mutum.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE NOVA MUTUM. TOMADA DE CONTAS ESPECIAL.
-    DESPESAS COM AQUISIÇÃO DE MEDICAMENTOS. NÃO PAGAMENTO.
-    [continuação do voto/decisão na página 3 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 3
 
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo a Restos a Pagar Processados.
-    
-    Restos a Pagar Processados. Não pagamento de despesas devidamente liquidadas e
-    inscritas em restos a pagar.
-    
-    O Município deixou de efetuar o pagamento de despesas devidamente liquidadas e
-    inscritas em restos a pagar, relativas a aquisição de medicamentos para a Farmácia
-    Municipal, no valor de R$ [cifra de difícil leitura nesta rasterização — conferir PDF
-    oficial p.3], conforme notas fiscais de fls. [folhas de difícil leitura nesta
-    rasterização — conferir PDF oficial p.3].
-    
-    Ressalte-se, por oportuno, que o Município possui um passivo de R$ 1.827.113,98 (um
-    milhão, oitocentos e vinte e sete mil, cento e treze reais e noventa e oito centavos),
-    referente a restos a pagar processados de exercícios anteriores, que deixaram de ser
-    pagos pelos gestores anteriores, conforme demonstrado às fls. 1.245/1.248.
-    
-    O gestor atual deve observar a ordem cronológica de pagamentos, nos termos do art.
-    5º da Lei 8.666/93, e realizar o pagamento das despesas devidamente liquidadas.
-    
-    A defesa alega que as despesas não foram pagas porque as notas fiscais não estavam
-    acompanhadas dos documentos necessários à liquidação da despesa, nos termos do art.
-    63 da Lei 4.320/64.
-    
-    Contudo, restou comprovado nos autos que as despesas foram devidamente liquidadas,
-    com a apresentação das notas fiscais e demais documentos comprobatórios do crédito,
-    nos termos do art. 63 da Lei 4.320/64.
-    
-    O art. 62 da Lei 4.320/64 estabelece que o pagamento da despesa só será efetuado
-    quando ordenado após sua regular liquidação.
-    
-    Assim, uma vez liquidada a despesa, é dever do administrador público realizar o
-    pagamento, observando a ordem cronológica dos pagamentos, nos termos do art. 5º
-    da Lei 8.666/93.
-    
-    Caso o administrador constate irregularidade quanto à legitimidade ou legalidade
-    dos processos de liquidação dessas despesas, deve determinar a instauração de
-    processo administrativo para apuração da certeza, da exigibilidade e da liquidez
-    dos créditos, e, ainda, das possíveis responsabilidades.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro Valter Albano, por unanimidade, em julgar REGULARES COM
-    RESSALVAS as contas objeto da Tomada de Contas Especial, determinando o
-    pagamento das despesas liquidadas relativas à aquisição de medicamentos para a
-    Farmácia Municipal, no valor de R$ [cifra de difícil leitura nesta rasterização —
-    conferir PDF oficial p.3], e aplicando multa ao responsável (...)”. (grifou-se).
-    
-    
-    Precedente 03
-    
-    Acórdão n° 1.164/2014 - Tribunal Pleno.
-    Processo n° 7.347-4/2013.
-    Interessado: Prefeitura Municipal de Campo Verde.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE CAMPO VERDE. TOMADA DE CONTAS ESPECIAL.
-    NÃO PAGAMENTO DE DESPESAS INSCRITAS EM RESTOS A PAGAR. CONTAS
-    REGULARES COM RESSALVAS.
-    
-    
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo a despesas não pagas.
-    [continuação na página 4 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips densos + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 4
 
-    Trata-se de Tomada de Contas Especial instaurada em face da Prefeitura Municipal
-    de Campo Verde, em razão do não pagamento de despesas inscritas em restos a pagar,
-    no valor de R$ [cifra de difícil leitura nesta rasterização — conferir PDF oficial p.4],
-    conforme demonstrado nos autos.
-    
-    A defesa alega que as despesas não foram pagas porque as notas fiscais não estavam
-    acompanhadas dos documentos necessários à liquidação da despesa, nos termos do art.
-    63 da Lei 4.320/64.
-    
-    Contudo, restou comprovado nos autos que as despesas foram devidamente liquidadas,
-    com a apresentação das notas fiscais e demais documentos comprobatórios do crédito,
-    nos termos do art. 63 da Lei 4.320/64.
-    
-    O art. 62 da Lei 4.320/64 estabelece que o pagamento da despesa só será efetuado
-    quando ordenado após sua regular liquidação.
-    
-    Assim, uma vez liquidada a despesa, é dever do administrador público realizar o
-    pagamento, observando a ordem cronológica dos pagamentos, nos termos do art. 5º
-    da Lei 8.666/93.
-    
-    Caso o administrador constate irregularidade quanto à legitimidade ou legalidade
-    dos processos de liquidação dessas despesas, deve determinar a instauração de
-    processo administrativo para apuração da certeza, da exigibilidade e da liquidez
-    dos créditos, e, ainda, das possíveis responsabilidades.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro José Carlos Novelli, por unanimidade, em julgar REGULARES COM
-    RESSALVAS as contas objeto da Tomada de Contas Especial, determinando o
-    pagamento das despesas liquidadas inscritas em restos a pagar da Prefeitura Municipal
-    de Campo Verde, no valor de R$ [cifra de difícil leitura nesta rasterização — conferir
-    PDF oficial p.4], e aplicando multa ao responsável (...)”. (grifou-se).
-    
-    
-    Precedente 04
-    
-    Acórdão n° 20/2015 - Tribunal Pleno.
-    Processo n° 5.667-7/2014.
-    Interessado: Prefeitura Municipal de Sorriso.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE SORRISO. TOMADA DE CONTAS ESPECIAL.
-    NÃO PAGAMENTO DE DESPESAS INSCRITAS EM RESTOS A PAGAR. CONTAS
-    REGULARES COM RESSALVAS.
-    
-    
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo a despesas não pagas.
-    [continuação na página 5 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 5
 
-    Trata-se de Tomada de Contas Especial instaurada em face da Prefeitura Municipal
-    de Sorriso, em razão do não pagamento de despesas inscritas em restos a pagar, no
-    valor de R$ [cifra de difícil leitura nesta rasterização — conferir PDF oficial p.5],
-    conforme demonstrado nos autos.
-    
-    A defesa alega que as despesas não foram pagas porque as notas fiscais não estavam
-    acompanhadas dos documentos necessários à liquidação da despesa, nos termos do art.
-    63 da Lei 4.320/64.
-    
-    Contudo, restou comprovado nos autos que as despesas foram devidamente liquidadas,
-    com a apresentação das notas fiscais e demais documentos comprobatórios do crédito,
-    nos termos do art. 63 da Lei 4.320/64.
-    
-    O art. 62 da Lei 4.320/64 estabelece que o pagamento da despesa só será efetuado
-    quando ordenado após sua regular liquidação.
-    
-    Assim, uma vez liquidada a despesa, é dever do administrador público realizar o
-    pagamento, observando a ordem cronológica dos pagamentos, nos termos do art. 5º
-    da Lei 8.666/93.
-    
-    Caso o administrador constate irregularidade quanto à legitimidade ou legalidade
-    dos processos de liquidação dessas despesas, deve determinar a instauração de
-    processo administrativo para apuração da certeza, da exigibilidade e da liquidez
-    dos créditos, e, ainda, das possíveis responsabilidades.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro Valter Albano, por unanimidade, em julgar REGULARES COM
-    RESSALVAS as contas objeto da Tomada de Contas Especial, determinando o
-    pagamento das despesas liquidadas inscritas em restos a pagar da Prefeitura Municipal
-    de Sorriso, no valor de R$ [cifra de difícil leitura nesta rasterização — conferir PDF
-    oficial p.5], e aplicando multa ao responsável (...)”. (grifou-se).
-    
-    
-    Precedente 05
-    
-    Acórdão n° 227/2015 - Segunda Câmara.
-    Processo n° 2.255-1/2014.
-    Interessado: Prefeitura Municipal de Campo Novo do Parecis.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE CAMPO NOVO DO PARECIS. TOMADA DE CONTAS
-    ESPECIAL. NÃO PAGAMENTO DE DESPESAS INSCRITAS EM RESTOS A PAGAR.
-    CONTAS REGULARES COM RESSALVAS.
-    
-    
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo a despesas não pagas.
-    [continuação na página 6 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste). Ementa Prec.05: tipo TCE confirmado por padrão dos precedentes 01–04/07 e cabeçalho de identidade; tipografia da linha de ementa permanece conferível no PDF.
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 6
 
-    Trata-se de Tomada de Contas Especial instaurada em face da Prefeitura Municipal
-    de Campo Novo do Parecis, em razão do não pagamento de despesas inscritas em
-    restos a pagar, no valor de R$ [cifra de difícil leitura nesta rasterização — conferir
-    PDF oficial p.6], conforme demonstrado nos autos.
-    
-    A defesa alega que as despesas não foram pagas porque as notas fiscais não estavam
-    acompanhadas dos documentos necessários à liquidação da despesa, nos termos do art.
-    63 da Lei 4.320/64.
-    
-    Contudo, restou comprovado nos autos que as despesas foram devidamente liquidadas,
-    com a apresentação das notas fiscais e demais documentos comprobatórios do crédito,
-    nos termos do art. 63 da Lei 4.320/64.
-    
-    O art. 62 da Lei 4.320/64 estabelece que o pagamento da despesa só será efetuado
-    quando ordenado após sua regular liquidação.
-    
-    Assim, uma vez liquidada a despesa, é dever do administrador público realizar o
-    pagamento, observando a ordem cronológica dos pagamentos, nos termos do art. 5º
-    da Lei 8.666/93.
-    
-    Caso o administrador constate irregularidade quanto à legitimidade ou legalidade
-    dos processos de liquidação dessas despesas, deve determinar a instauração de
-    processo administrativo para apuração da certeza, da exigibilidade e da liquidez
-    dos créditos, e, ainda, das possíveis responsabilidades.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto da
-    Relatora, Conselheira Substituta Jaqueline Jacobsen, por unanimidade, em julgar
-    REGULARES COM RESSALVAS as contas objeto da Tomada de Contas Especial,
-    determinando o pagamento das despesas liquidadas inscritas em restos a pagar da
-    Prefeitura Municipal de Campo Novo do Parecis, no valor de R$ [cifra de difícil leitura
-    nesta rasterização — conferir PDF oficial p.6], e aplicando multa ao responsável
-    (...)”. (grifou-se).
-    
-    
-    Precedente 06
-    
-    Acórdão n° 68/2016 - Segunda Câmara.
-    Processo n° 24.567-4/2015.
-    Interessado: Prefeitura Municipal de Campo Verde.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE CAMPO VERDE. TOMADA DE CONTAS ESPECIAL.
-    NÃO PAGAMENTO DE DESPESAS INSCRITAS EM RESTOS A PAGAR. CONTAS
-    REGULARES COM RESSALVAS.
-    
-    
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo a despesas não pagas.
-    [continuação na página 7 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 7
 
-    Trata-se de Tomada de Contas Especial instaurada em face da Prefeitura Municipal
-    de Campo Verde, em razão do não pagamento de despesas inscritas em restos a pagar,
-    no valor de R$ [cifra de difícil leitura nesta rasterização — conferir PDF oficial p.7],
-    conforme demonstrado nos autos.
-    
-    A defesa alega que as despesas não foram pagas porque as notas fiscais não estavam
-    acompanhadas dos documentos necessários à liquidação da despesa, nos termos do art.
-    63 da Lei 4.320/64.
-    
-    Contudo, restou comprovado nos autos que as despesas foram devidamente liquidadas,
-    com a apresentação das notas fiscais e demais documentos comprobatórios do crédito,
-    nos termos do art. 63 da Lei 4.320/64.
-    
-    O art. 62 da Lei 4.320/64 estabelece que o pagamento da despesa só será efetuado
-    quando ordenado após sua regular liquidação.
-    
-    Assim, uma vez liquidada a despesa, é dever do administrador público realizar o
-    pagamento, observando a ordem cronológica dos pagamentos, nos termos do art. 5º
-    da Lei 8.666/93.
-    
-    Caso o administrador constate irregularidade quanto à legitimidade ou legalidade
-    dos processos de liquidação dessas despesas, deve determinar a instauração de
-    processo administrativo para apuração da certeza, da exigibilidade e da liquidez
-    dos créditos, e, ainda, das possíveis responsabilidades.
-    
-    (... )” . (grifou-se).
-    
-    
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto do
-    Relator, Conselheiro Domingos Neto, por unanimidade, em julgar REGULARES COM
-    RESSALVAS as contas objeto da Tomada de Contas Especial, determinando o
-    pagamento das despesas liquidadas inscritas em restos a pagar da Prefeitura Municipal
-    de Campo Verde, no valor de R$ [cifra de difícil leitura nesta rasterização — conferir
-    PDF oficial p.7], e aplicando multa ao responsável (...)”. (grifou-se).
-    
-    
-    Precedente 07
-    
-    Acórdão n° 75/2016 - Primeira Câmara.
-    Processo n° 2.104-0/2015.
-    Interessado: Prefeitura Municipal de Campos de Júlio.
-    
-    Ementa:
-    PREFEITURA MUNICIPAL DE CAMPOS DE JÚLIO. TOMADA DE CONTAS ESPECIAL.
-    NÃO PAGAMENTO DE DESPESAS INSCRITAS EM RESTOS A PAGAR. CONTAS
-    REGULARES COM RESSALVAS.
-    
-    
-    Voto condutor da decisão (Trechos):
-    “Existem diversas irregularidades, entretanto, em face do objeto da Súmula, este
-    precedente se restringirá ao item relativo a despesas não pagas.
-    [continuação na página 8 do PDF]
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 8
 
-    Trata-se de Tomada de Contas Especial instaurada em face da Prefeitura Municipal
-    de Campos de Júlio, em razão do não pagamento de despesas inscritas em restos a
-    pagar, no valor de R$ [cifra de difícil leitura nesta rasterização — conferir PDF oficial
-    p.8], conforme demonstrado nos autos.
-    
-    A defesa alega que as despesas não foram pagas porque as notas fiscais não estavam
-    acompanhadas dos documentos necessários à liquidação da despesa, nos termos do art.
-    63 da Lei 4.320/64.
-    
-    Contudo, restou comprovado nos autos que as despesas foram devidamente liquidadas,
-    com a apresentação das notas fiscais e demais documentos comprobatórios do crédito,
-    nos termos do art. 63 da Lei 4.320/64.
-    
-    O art. 62 da Lei 4.320/64 estabelece que o pagamento da despesa só será efetuado
-    quando ordenado após sua regular liquidação.
-    
-    Assim, uma vez liquidada a despesa, é dever do administrador público realizar o
-    pagamento, observando a ordem cronológica dos pagamentos, nos termos do art. 5º
-    da Lei 8.666/93.
-    
-    Caso o administrador constate irregularidade quanto à legitimidade ou legalidade
-    dos processos de liquidação dessas despesas, deve determinar a instauração de
-    processo administrativo para apuração da certeza, da exigibilidade e da liquidez
-    dos créditos, e, ainda, das possíveis responsabilidades.
-    
-    (... )
-    
-    No caso concreto, as despesas estavam devidamente liquidadas, e o Município deixou
-    de efetuar o pagamento, sem qualquer justificativa legal para tanto.
-    
-    Ademais, em respeito ao princípio da continuidade da Administração Pública, o novo
-    gestor é responsável pelo pagamento das despesas legítimas deixadas pelo seu
-    antecessor, desde que devidamente liquidadas.
-    
-    (... )” . (grifou-se).
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 9
 
-    Continuação do voto condutor (Precedente 07):
-    “(... )
-    Assim, mantenho a irregularidade, com aplicação de multa à gestora, e determino à
-    atual gestão que observe rigorosamente a ordem cronológica de pagamentos das
-    despesas inscritas em restos a pagar, nos termos do art. 5º da Lei 8.666/93, e que, em
-    caso de dúvida quanto à legitimidade das despesas, instaure processo administrativo
-    para apuração.
-    
-    (... )
-    
-    DISPOSITIVO DO VOTO
-    
-    Ante o exposto, (...) apresento proposta de VOTO no sentido de:
-    
-    (...)
-    
-    II) Aplicar multa (...);
-    
-    III) Determinar à atual gestão que observe a ordem cronológica de pagamentos das
-    despesas inscritas em restos a pagar, nos termos do art. 5º da Lei 8.666/93, e que, em
-    caso de dúvida quanto à legitimidade ou legalidade dos processos de liquidação,
-    determine a instauração de processo administrativo para apuração da certeza, da
-    exigibilidade e da liquidez dos créditos, e, ainda, das possíveis responsabilidades.
-    
-    (... )” . (grifou-se).
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
 ### Documento oficial — página 10
 
-    Decisão (Trechos):
-    ACORDAM os Senhores Conselheiros do Tribunal de Contas, nos termos do voto da
-    Relatora, Conselheira Substituta Jaqueline Jacobsen, por unanimidade, em julgar
-    REGULARES COM RESSALVAS as contas objeto da Tomada de Contas Especial,
-    determinando o pagamento das despesas liquidadas inscritas em restos a pagar da
-    Prefeitura Municipal de Campos de Júlio, no valor de R$ [cifra de difícil leitura nesta
-    rasterização — conferir PDF oficial p.10], e aplicando multa à responsável, bem como
-    determinando à atual gestão que observe a ordem cronológica de pagamentos das
-    despesas inscritas em restos a pagar, nos termos do art. 5º da Lei 8.666/93 (...)”.
-    (grifou-se).
+Esta página não contém texto extraível. Seu conteúdo visual não foi transcrito.
 
-Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos. Leitura nativa do PDF 04/11/2026 (strips + contraste).
+Inventário visual: 1 imagens nesta página; consulte o PDF para os elementos gráficos.
 
-Páginas 1–10 conferidas por leitura nativa do PDF oficial image-only + strips densos. Os trechos de votos e decisões são extratos do caderno da súmula; os inteiros teores dos processos e demais documentos apenas citados que não estejam incorporados ao PDF não foram coletados. Outras categorias do tribunal e a conciliação nacional permanecem abertas.
+Não houve OCR nem reconstrução de páginas rasterizadas. As páginas sem texto e as imagens grandes permanecem pendentes, sem inferir seu conteúdo a partir de resumos. Os inteiros teores dos processos e demais documentos apenas citados que não estejam incorporados ao PDF não foram coletados. Outras categorias do tribunal e a conciliação nacional permanecem abertas.
 
 ## Texto disponibilizado pela fonte
 
@@ -718,3 +273,7 @@ As páginas de contexto abaixo preservam o texto extraível, inclusive notas de 
                                                                    171
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.

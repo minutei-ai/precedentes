@@ -26,9 +26,8 @@ CONSULTA. CASO CONCRETO. AUSÊNCIA DOS REQUISITOS DE ADMISSIBILIDADE PREVISTO AR
 
 #### Ressalvas de Decisão
 
--   Página 1 conferida visualmente em 04/11/2026: a imagem embutida do PDF oficial contém apenas a camada de assinatura digital e-TCE; o corpo decisório não aparece no raster (pendente de outra via de captura/render).
--   Camada de assinatura digital e-TCE: CPF do signatário ocultado na transcrição.
--   Relatório já tem texto extraível parcial; Voto 1 permanece image-only pendente.
+-   O número do processo não foi localizado integralmente na extração automática; confira a identidade e o conteúdo visual na fonte
+-   Página 1 com imagem grande; conteúdo visual não confirmado
 
 [Relatório](https://app.tce.ap.gov.br/storage/geral/App.Models.Jurisprudencia.Decisao.anexo_relatorio/4013/CONSULTA-DEC-168-2015-PROC-76-2015-REL.pdf): 242473 bytes, HTTP200. Duas leituras documentais com bytes idênticos.
 
@@ -60,10 +59,8 @@ CONSULTA. CASO CONCRETO. AUSÊNCIA DOS REQUISITOS DE ADMISSIBILIDADE PREVISTO AR
 
 ##### Página 1
 
-    [Camada de assinatura digital e-TCE — signatário DAMILTON BARBOSA SALOMÃO; CPF ocultado; 16/04/2015 11:03:26]
+    Assinado Digitalmente pelo sistema e-TCE - DAMILTON BARBOSA SALOMAO:21024618234 - 16/04/2015 11:03:26
     Para validar essa(s) assinatura(s) acesse http://validador.tce.ap.gov.br e insira o codigo - 663DF531E398E06524EF386CF4051F27
-
-Página conferida visualmente em 04/11/2026: raster da imagem embutida mostra apenas a faixa de assinatura digital; corpo da Decisão 168/2015 não legível nesta captura. Confira o PDF oficial e o Relatório/Voto vinculados.
 
 Inventário visual: 1 imagens nesta página; consulte o PDF.
 
@@ -279,3 +276,7 @@ Inventário visual: 1 imagens nesta página; consulte o PDF.
 Inventário visual: 1 imagens nesta página; consulte o PDF.
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.
