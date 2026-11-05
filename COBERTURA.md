@@ -1,6 +1,6 @@
 # Cobertura
 
-**Inventário estrutural e deltas de 05/11/2026: 43.872 identidades em 211 órgãos.** A última recontagem integral, no commit [`de85dcc94`](https://github.com/minutei-ai/precedentes/commit/de85dcc94b534730c04c706a1b2062ec89eeaaa8), confirmou 43.868 arquivos com Identificador e 43.868 IDs únicos, sem duplicatas. As integrações posteriores do PGEPE 004/2023, do Assento MPAL 008/2019, da Súmula administrativa TJMRS 01/2018 e do Enunciado MPT 23 acrescentaram quatro IDs conferidos como distintos; não houve nova recontagem integral após esses deltas. Documentos complementares com Registro relacionado/Identificador de suporte ficam fora da contagem. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
+**Última recontagem estrutural integral: 43.933 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026, PR [#430](https://github.com/minutei-ai/precedentes/pull/430)).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
 A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta demonstrado é +895 IDs e +24 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
@@ -1260,7 +1260,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT23](tribunais/TRT23/) | 21 | 21 | 21 |
 | [TRT24](tribunais/TRT24/) | 99 | 61 | 61 |
 | [TRE_AC](tribunais/TRE_AC/) | 2 | 0 | 0 |
-| TRE_AL | 0 | 0 | 0 |
+| [TRE_AL](tribunais/TRE_AL/) | 9 | 0 | 0 |
 | TRE_AP | 0 | 0 | 0 |
 | TRE_AM | 0 | 0 | 0 |
 | [TRE_BA](tribunais/TRE_BA/) | 11 | 0 | 0 |
@@ -3163,3 +3163,7 @@ TCEAL: mais18páginas de9documentos do lote1 incorporadas somente nos intervalos
 
 
 TCEPI: seis acórdãos com extrações corrompidas substituídas após transcrição e cotejo independente das13páginas. Onze páginas de texto incorporadas e duas páginas do Acórdão600/13, anexadas ao PDF do430/13, identificadas por remissão à consulta16802, sem fusão. Cinco correções literais aplicadas; matrícula funcional ocultada. Anomalias do Acórdão3.369/11 e lacunas reais preservadas. Sem novos IDs, autenticação ou inferência de vigência.
+
+## TRE-AL — aceite do inventário delimitado
+
+Os nove enunciados do folheto de setembro/2020 estão transcritos e cotejados integralmente em imagem, com contexto comum em documento de apoio e sem IDs duplicados. A investigação do portal distinguiu essa série própria de ementários, revistas, banco geral PAN e links externos do TSE/CNJ. Acesso direto ao portal bloqueado por403 em05/11/2026; classificações apoiadas em capturas arquivadas datadas, sem concluir ausência de outras séries. Não se encontrou declaração de que o tribunal não edita súmulas. Índice Acervo do TRE_AL corrigido para9, sem delta global. Critérios da issue219 atendidos nesse recorte, sem afirmar vigência ou completude universal.
