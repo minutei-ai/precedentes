@@ -3154,3 +3154,6 @@ TCEPI: terceiro lote complementar com 22 páginas novas em sete PDFs, após tran
 
 
 TCEPI: quarto lote de26páginas em8PDFs integrado após transcrição e revisão visual independente. Corrigida a associação do Voto-2: o portal o liga à consulta16236, mas a imagem e a remissão do Acórdão193/12 o vinculam ao processo25.666/11 de PioIX (consulta16320). As seis páginas desse exemplar ficam em documento de apoio separado, sem novo ID; a fonte do voto de Isaías Coelho permanece pendente. Outros sete PDFs somam20páginas integradas nas fichas respectivas. Mantidas incertezas de acentos e manuscritos, sem harmonizar35.666/11 com25.666/11.
+
+
+TCEAL: incorporadas as oito páginas do documento vinculado ao Prejulgado58, após nova transcrição visual e revisão independente, com cobertura ampliada complementar nas páginas2–6. Título catalogado58-2025 separado do Acórdão001/2020 impresso; carimbo com data parcial permanece incerto. Sem novo ID ou certificação de vigência. Os demais documentos da issue202 seguem em reconciliação para publicação seletiva.
