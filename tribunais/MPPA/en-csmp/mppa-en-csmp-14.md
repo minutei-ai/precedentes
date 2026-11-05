@@ -21,3 +21,11 @@ Fundamento: Visar a celeridade processual e economicidade, com base na Portaria 
 ## Conferência e limites
 
 As 4 páginas do PDF foram lidas na imagem renderizada e na camada de texto em 04/11/2026; as duas leituras coincidem neste enunciado. As duas capturas do PDF tiveram HTTP 200, os mesmos 334.902 bytes e o mesmo SHA-256. Cabeçalho repetido, numeração de página e espaços de justificação foram normalizados; grafias, números, datas e pontuação do PDF foram mantidos, inclusive “ADMIINISTRATIVA” no nº 5 e “01/25011” no fundamento do nº 15. O metadado CreationDate 19/06/2019 do arquivo Word não foi convertido em data de aprovação nem em vigência. O PDF não classifica a situação jurídica de cada enunciado; leis, resoluções, RE/STF, ARE e AgInt apenas citados não geraram registros. O MPPA é órgão próprio, distinto do TJPA, do TCEPA, do TCMPA, do PGEPA e do MPF.
+
+## Testemunho de publicação — DOE de 2019
+
+[DOE/PA de 28/06/2019, pp.89–90](https://ioepa.com.br/pages/2019/2019.06.28.DOE.pdf) e [DOE/PA de 26/06/2019, pp.83–84](https://www.ioepa.com.br/pages/2019/2019.06.26.DOE.pdf). Os dois DOEs acrescentam a remissão à Resolução 007/2019-CPJ. Os blocos foram cotejados integralmente nas imagens. A diferença é preservada sem inferir retificação, prevalência ou vigência.
+
+ENUNCIADO 14 – PROCEDIMENTAL. PROMOÇÃO DE ARQUIVAMENTO. SANEAMENTO DE IRREGULARIDADES FORMAIS ANTES DO ENCAMINHAMENTO AO EGRÉGIO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO. Antes do encaminhamento dos autos para análise de arquivamento perante o Conselho Superior do Ministério Público, o membro presidente dos autos deve sanar as irregularidades formais dos autos e determinar a completa e correta numeração das páginas do procedimento, assim como, a cientificação do arquivamento às partes interessadas, nos termos da Resolução n.º 007/2019-CPJ.
+
+Fundamento: Visar a celeridade processual e economicidade, com base na Portaria n.º 6091/2015, republicada no DOE de 05.06.2019, que estabelece medidas de contenção, redução, racionalização, contingenciamento e monitoramento de despesas.

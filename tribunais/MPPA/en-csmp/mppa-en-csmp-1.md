@@ -19,3 +19,9 @@ ENUNCIADO 1 – DUPLICIDADE DE PROCEDIMENTOS. IDENTIFICAÇÃO DA CONTINÊNCIA. T
 ## Conferência e limites
 
 As 4 páginas do PDF foram lidas na imagem renderizada e na camada de texto em 04/11/2026; as duas leituras coincidem neste enunciado. As duas capturas do PDF tiveram HTTP 200, os mesmos 334.902 bytes e o mesmo SHA-256. Cabeçalho repetido, numeração de página e espaços de justificação foram normalizados; grafias, números, datas e pontuação do PDF foram mantidos, inclusive “ADMIINISTRATIVA” no nº 5 e “01/25011” no fundamento do nº 15. O metadado CreationDate 19/06/2019 do arquivo Word não foi convertido em data de aprovação nem em vigência. O PDF não classifica a situação jurídica de cada enunciado; leis, resoluções, RE/STF, ARE e AgInt apenas citados não geraram registros. O MPPA é órgão próprio, distinto do TJPA, do TCEPA, do TCMPA, do PGEPA e do MPF.
+
+## Testemunho de publicação — DOE de 2019
+
+[DOE/PA de 28/06/2019, pp.89–90](https://ioepa.com.br/pages/2019/2019.06.28.DOE.pdf). A ressalva final aparece nesta publicação. O DOE de 26/06 reproduz o texto sem ela, duas vezes na p.83: proposta e enunciado aprovado. Os blocos foram cotejados integralmente nas imagens. A diferença é preservada sem inferir retificação, prevalência ou vigência.
+
+ENUNCIADO 1 – DUPLICIDADE DE PROCEDIMENTOS. IDENTIFICAÇÃO DA CONTINÊNCIA. TRAMITAÇÃO E RESOLUÇÃO CONJUNTA. A duplicidade de procedimentos acerca do mesmo tema não dá ensejo ao arquivamento de um deles. Identificada a continência, os procedimentos deverão ser reunidos para tramitação e resolução conjunta, tendo atribuição o Promotor de Justiça que presidir o procedimento cujo objeto é o mais amplo, ressalvado o § 2º do art. 19 da Resolução n.º 007/2019-CPJ.
