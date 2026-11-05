@@ -21,3 +21,7 @@ O [PDF oficial indicado pelo catálogo](https://digepnac-precedentes.trt5.jus.br
 [Compete à Justiça do Trabalho processar e julgar o pedido de imissão na posse decorrente de suas próprias decisões.](https://digepnac-precedentes.trt5.jus.br/sites/default/files/sumula/09_2020/0009-2010_assinada_oe.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.

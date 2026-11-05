@@ -21,3 +21,7 @@ O [PDF oficial indicado pelo catálogo](https://digepnac-precedentes.trt5.jus.br
 [EMBARGOS À EXECUÇÃO. PRAZO. O art. 4º da MP n. 2.180-35 que dilatou de 05 (cinco) para 30 (trinta) dias o prazo a que alude o art. 884 da CLT, para oposição e Embargos à Execução, aplica-se apenas à Fazenda Pública, não se dirigindo ao devedor comum.](https://digepnac-precedentes.trt5.jus.br/sites/default/files/sumula/09_2020/0050-_2004_enunciado_no_0005_-_prazo_dos_embargos_a_execucao.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.
