@@ -3135,3 +3135,6 @@ PGEPA: integrado Parecer Referencial 000004/2020, processo 2020.02.000493-SAJ/PG
 
 
 TRE-PB: incorporadas as 12 páginas da CTA 279-04.2016 e 7 da CTA 489-55.2016 após nova transcrição por imagem e cotejo integral independente. Corpo dos rascunhos reprovados não reutilizado. Corrigidos glifo literal, leituras de fólio e descrições de traços; preservados votos divergentes, contradições nominais, notas e carimbos. IDs existentes, delta zero e total do tribunal 18. Demais fontes e séries continuam pendentes, sem inferência de vigência.
+
+
+TRE-AL: nove corpos de enunciados incorporados aos IDs existentes após nova transcrição direta das 17 páginas e cotejo integral independente. Folheto completo como documento comum, com expediente, conceitos, acórdãos, citações e referências. A alínea I/l da p.11 permanece marcada como incerta; citações e erros da fonte não completados por coerência jurídica. Sem novos IDs ou inferência de vigência.
