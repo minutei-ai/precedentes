@@ -10,7 +10,7 @@
 
 ## Texto publicado
 
-Nas hipóteses em que negado administrativamente o parcelamento ordinário, nada obsta que se faça o parcelamento judicial fundado no Código de Processo Civil (art. 745-A do CPC/1973 e art. 916 do NCPC). (Redação alternativa ao texto original, aprovada no I FONACOM) Nas hipóteses em que negado administrativamente o parcelamento ordinário, nada obsta que se faça o parcelamento judicial fundado no Código de Processo Civil (art. 745-A do CPC/1973 e art. 916 do NCPC), independente de depósito inicial de 30% do valor da dívida. (Redação aprovada no I FONACOM).
+Nas hipóteses em que negado administrativamente o parcelamento ordinário, nada obsta que se faça o parcelamento judicial fundado no Código de Processo Civil (art. 745-A do CPC/1973 e art. 916 do NCPC). (Redação alternativa ao texto original, aprovada no I FONACOM) ~~Nas hipóteses em que negado administrativamente o parcelamento ordinário, nada obsta que se faça o parcelamento judicial fundado no Código de Processo Civil (art. 745-A do CPC/1973 e art. 916 do NCPC), independente de depósito inicial de 30% do valor da dívida.~~ (Redação aprovada no I FONACOM).
 
 ## Conferência e limites
 

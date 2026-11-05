@@ -16,6 +16,6 @@ Catálogo oficial em [Súmulas do TRT da 19ª Região](https://site.trt19.jus.br
 
 "VPNI/PASSIVO TRABALHISTA. COMPANHIA BRASILEIRA DE TRENS URBANOS - CBTU E FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL - REFER. Os trabalhadores da CBTU e da REFER não fazem jus às diferenças salariais denominadas VPNI/passivo trabalhista decorrentes da quitação do adicional de produtividade previsto na Cláusula 4º do Dissídio Coletivo TST/DC nº 21895/91-4."
 
-Aprovada pela Resolução[Nº 52, de 02 de setembro de 2015](https://asp1.trt19.jus.br/docspdf/rhdocs/RA52.pdf)
+Aprovada pela Resolução [Nº 52, de 02 de setembro de 2015](https://asp1.trt19.jus.br/docspdf/rhdocs/RA52.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -10,7 +10,7 @@
 
 ## Texto publicado
 
-Nas ações de responsabilidade civil, é cabível a realização de audiência de conciliação antes da citação. (Redação alternativa ao texto original, aprovada no I FONACOM). Nas ações de responsabilidade civil, é recomendável a realização de audiência de conciliação antes da citação. (Redação aprovada no I FONACOM).
+Nas ações de responsabilidade civil, é cabível a realização de audiência de conciliação antes da citação. (Redação alternativa ao texto original, aprovada no I FONACOM). ~~Nas ações de responsabilidade civil, é recomendável a realização de audiência de conciliação antes da citação.~~ (Redação aprovada no I FONACOM).
 
 ## Conferência e limites
 

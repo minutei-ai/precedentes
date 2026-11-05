@@ -10,7 +10,7 @@
 
 ## Texto publicado
 
-Em ações de reintegração de posse alusivas ao programa de arrendamento residencial – par, é cabível a designação de audiência prévia de conciliação antes da apreciação do pedido liminar. (Redação alternativa ao texto original, aprovada no I FONACOM) Em ações de reintegração de posse alusivas ao programa de arrendamento residencial – par, é recomendável a designação de audiência prévia de conciliação antes da apreciação do pedido liminar. (Redação aprovada no I FONACOM).
+Em ações de reintegração de posse alusivas ao programa de arrendamento residencial – par, é cabível a designação de audiência prévia de conciliação antes da apreciação do pedido liminar. (Redação alternativa ao texto original, aprovada no I FONACOM) ~~Em ações de reintegração de posse alusivas ao programa de arrendamento residencial – par, é recomendável a designação de audiência prévia de conciliação antes da apreciação do pedido liminar.~~ (Redação aprovada no I FONACOM).
 
 ## Conferência e limites
 

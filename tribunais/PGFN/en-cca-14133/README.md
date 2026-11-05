@@ -8,4 +8,4 @@ Fonte: [PGFN — Enunciados Lei nº 14.133/21](https://www.gov.br/pgfn/pt-br/ass
 - [Enunciado CCA/PGFN Nº 12, de 1º de setembro de 2021.](pgfn-en-cca-12.md)
 - [Enunciado CCA/PGFN nº 13, de 01 de agosto de 2022.](pgfn-en-cca-13.md)
 - [Enunciado CCA/PGFN nº 15, de 19 de outubro de 2022.](pgfn-en-cca-15.md)
-- [Enunciado CCA/PGFN nº 16, de 19 de junho de 2023 (atualizado em 1º de novembro d](pgfn-en-cca-16.md)
+- [Enunciado CCA/PGFN nº 16, de 19 de junho de 2023 (atualizado em 1º de novembro de 2023).](pgfn-en-cca-16.md)
