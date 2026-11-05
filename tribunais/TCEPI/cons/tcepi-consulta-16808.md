@@ -22,103 +22,51 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-         Do
-    
-    
-                 ESTADO DO PIAUI
-                 TRIBUNAL DE CONTAS
-    
-    
-                        ACÓRDÃO n ° 5.02412010
-    
-    
-                        Consulta formulada ao Tribunal de Contas do Estado do
-                        Piauí pelo Secretário Municipal de Educação de Bonfim do
-                        Piauí, Sr. Humberto Fernandes Viana. Possibilidade de
-                        Servidor Efetivo (Professor) investido no Cargo em
-                        Comissão de Secretário Municipal, perceber
-                        cumulativamente, vencimentos do Cargo Efetivo e
-                        gratificação do Cargo em Comissão. Impossibilidade de
-                        perceber cumulativamente vencimento do cargo efetivo
-                        com a gratificação do cargo em comissão. Decisão
-                        Unânime.
-    
-    
-    
-    
-    Processo TC-E N°.   30.547110
-    
-    Decisão n°. 1.339 110
-    
-    Sessão Plenária Ordinária n°. 72
-    
-    RELATOR - SUBSTITUTO: Cons. Subs. Alisson Felipe de Araújo
-    
-    
-    
-                        O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ, examinando
-    o processo TC-E n o . 30.547/10, referentë à consulta formulada pela Secretaria
-    Municipal de Educação, Cultura, Desporto e Lazer de Bonfim do Piauí, rpresentada
-    pelo Secretário Municipal, Sr. Humberto Fernandes Viana, pretendendo obter o
-    posicionamento da Corte de Contas sobre a possibilidade de Servidor Efetivo
-    (Professor) investido no Cargo em Comissão de Secretário Municipal, perceber
-    cumulativamente, vencimentos do Cargo Efetivo e gratificação do Cargo em
-    Comissão, e, qual a fonte de recurso utilizada para pagamento de Servidor que se
-    enquadre na situação acima descrita, como se constata pelo conteúdo do TC-N n°
-    30.547110 acostado às fls. 02 a 04 dos autos.
-    
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+ESTADO DO PIAUÍ
+TRIBUNAL DE CONTAS
+
+ACÓRDÃO nº 5.024/2010
+
+> **Consulta formulada ao Tribunal de Contas do Estado do Piauí pelo Secretário Municipal de Educação de Bonfim do Piauí, Sr. Humberto Fernandes Viana. Possibilidade de Servidor Efetivo (Professor) investido no Cargo em Comissão de Secretário Municipal, perceber cumulativamente, vencimentos do Cargo Efetivo e gratificação do Cargo em Comissão. Impossibilidade de perceber cumulativamente vencimento do cargo efetivo com a gratificação do cargo em comissão. Decisão Unânime.**
+
+**Processo TC-E Nº.  30.547/10**
+**Decisão nº. 1.339 /10**
+**Sessão Plenária Ordinária nº. 72**
+**RELATOR - SUBSTITUTO: Cons. Subs. Alisson Felipe de Araújo**
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ**, examinando o processo TC-E nº.  30.547/10, referente à consulta formulada pela Secretaria Municipal de Educação, Cultura, Desporto e Lazer de Bonfim do Piauí, representada pelo Secretário Municipal, Sr. Humberto Fernandes Viana, pretendendo obter o posicionamento da Corte de Contas sobre a possibilidade de Servidor Efetivo (Professor) investido no Cargo em Comissão de Secretário Municipal, perceber cumulativamente, vencimentos do Cargo Efetivo e gratificação do Cargo em Comissão, e, qual a fonte de recurso utilizada para pagamento de Servidor que se enquadre na situação acima descrita, como se constata pelo conteúdo do TC-N nº 30.547/10 acostado às fls. 02 a 04 dos autos.
+
+[Restante da página sem texto; sem carimbo de folha, carimbo de publicação, assinatura ou rodapé visíveis; linha vertical de digitalização na margem esquerda — conferido na imagem]
+
 
 #### Página 2 do PDF oficial
 
-     rOO Dj
-    
-    
-    
-                   ESTADO DO PIAUl
-                   TRIBUNAL DE CONTAS
-    
-    
-    
-                         ACÓRDÃO n o 5.02412010
-    
-                   Vistos, relatados e discutidos os presentes autos, decidiu o Plenário,
-    unânime, pelo conhecimento da presente consulta, e respondê-la em concordância
-    com o Parecer da Consultoria Técnica n° 30/10 (fls. 67/68), ratificando o entendimento
-    desta Corte, já exarado na Resolução n° 961/05, no sentido que não há possibilidade
-    de perceber cumulativamente vencimento do Cargo Efetivo com a gratificação do
-    cargo em comissão, conforme voto do Relator.
-    
-                 Decidiu, ainda, o Plenário, unânime, por encaminhar ao Consulente,
-    pelo Secretário Municipal, Sr. Humberto Fernandes Viana, cópias autênticas do
-    Parecer da Consultaria Técnica e do Acórdão do Plenário desta Corte de Contas, que
-    os aprovou como posicionamento sobre a Consulta formulada.
-    
-                  Presentes os Conselheiros Abelardo Pio Vilanova e Silva
-    (Presidente), Luciano Nunes Santos, Waltânia Maria Nogueira de Sousa Leal
-    Alvarenga, Guilherme Xavier de Oliveira Neto, os Conselheiros Substitutos Jaylson
-    Fabianft Lopes Campelo, convocado para substituir o Cons.Joaquim Kennedy
-    Nogueira Barros (ausente por motivo justificado) e Jackson Nobre Veras em
-    substituição ao Cons. Anfrísio Neto Lobão Castelo Branco (em gozo de férias), Alisson
-    Felipe de Araújo convocado para substituir o Cons. Olavo Rebêlo de Carvalho Filho
-    (ausente por motivo justificado), e o Auditor Delano Carneiro da Cunha Câmara.
-    
-    
-                   Representante do MP de Contas presente: Procurador Plínio Valente
-     Ramos Neto.
-    
-                   Sala das Sessões do Plenário do Tribunal de Contas do Estado do
-     Piauí, em Teresina, 25 de novembro de 2010.
-    
-    
-    
-     Cons. Abelardo Pio Vilanova e Silva                                       Presidente
-    
-    
-     Cons. Subst. Alisson Felipe de Araújo                            Relator- substituto
-    
-    
-     Representante do MPC: Plínio Valente Ramos Neto                          Procurador
-    
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+ESTADO DO PIAUÍ
+TRIBUNAL DE CONTAS
+
+ACÓRDÃO nº 5.024/2010
+
+Vistos, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, pelo conhecimento da presente consulta, e respondê-la em concordância com o  Parecer da Consultoria Técnica nº 30/10 (fls. 67/68), ratificando o entendimento desta Corte, já exarado na Resolução nº 961/05, no sentido que não há possibilidade de perceber cumulativamente vencimento do Cargo Efetivo com a gratificação do cargo em comissão, conforme voto do Relator.
+
+Decidiu, ainda, o Plenário, unânime, por encaminhar ao Consulente, pelo Secretário Municipal, Sr. Humberto Fernandes Viana, cópias autênticas do Parecer da Consultoria Técnica  e do Acórdão do Plenário desta Corte de Contas, que os aprovou como posicionamento sobre a Consulta formulada.
+
+Presentes os Conselheiros Abelardo Pio Vilanova e Silva (Presidente), Luciano Nunes Santos, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Guilherme Xavier de Oliveira Neto, os Conselheiros Substitutos Jaylson Fabianh Lopes Campelo, convocado para substituir o Cons.Joaquim Kennedy Nogueira Barros (ausente por motivo justificado) e Jackson Nobre Veras em substituição ao Cons. Anfrísio Neto Lobão Castelo Branco (em gozo de férias), Alisson Felipe de Araújo convocado para substituir o Cons. Olavo Rebêlo de Carvalho Filho (ausente por motivo justificado), e o Auditor Delano Carneiro da Cunha Câmara.
+
+Representante do MP de Contas presente: Procurador Plínio Valente Ramos Neto.
+
+Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina, 25 de novembro de 2010.
+
+**Cons. Abelardo Pio Vilanova e Silva** — **Presidente**
+
+**Cons. Subst.  Alisson Felipe de Araújo** — **Relator- substituto**
+
+**Representante do MPC: Plínio Valente Ramos Neto** — **Procurador**
+
+[Nenhuma assinatura manuscrita, carimbo ou rodapé visível nesta cópia digitalizada; restante da página sem texto — conferido na imagem]
 
 ### Documento vinculado pela fonte
 
@@ -572,3 +520,7 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 - PDF vinculado: 3 página(s), 404282 bytes, SHA-256 `b33de278bfb6cfa926270a9e3d714ada5f0b6ea64772b904acbddb2f332ff267`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Nos votos, a leitura manuscrita 35.666/11 não foi harmonizada com o impresso25.666/11. O acento em ACACIO/ACÁCIO permanece incerto. Normalizaram-se sinais ° para º e espaços entre numeração e início dos itens 1.1 e 1.2. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+## Conferência do acórdão por imagens — 05/11/2026
+
+As páginas do PDF vinculado foram novamente transcritas e cotejadas integralmente em revisão independente por imagens, substituindo a extração textual anterior. Erros impressos e leituras prováveis permanecem indicados; carimbos e traços não foram autenticados. A matrícula funcional no carimbo VISTO foi ocultada onde aparece. Não se infere vigência.

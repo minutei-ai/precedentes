@@ -22,116 +22,64 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                                                  • .:   •;ï
-    
-    
-    
-    
-                  ESTADO DO PIAU.t
-                  TRIBUNAL DE CONTAS
-                                                              ;
-    
-                                                              : Ublicado no Drtrro Oficlai Eletro'-o
-                                                               n°
-                                                                         em    /
-                                  ACÕRDÃONO2 . 538/2012
-    
-                                                              L_r; , r. •-
-    PROCESSO TC-E N° 43.712112
-    DECISÃO N ° 1.574112
-    Assunto: Consulta - Câmara Municipal de Guadalupe/PI.
-    OBJETO: Quest:onamento acerca do repasse do duodécimo e da contabihzação de
-    despesas da Câmara
-    CONSULENTE: Ana Lúcia Policarpo da Cruz Gomos
-    RELATOR: Dons. Anfrisio Neto Lobão Castelo Branco
-    
-    
-                                     EMENTA:   Consulta formulada ao Tribunal de Contas do
-                                     Estado do Piaui pela Câmara Municipal de Guadalupe/PI.
-                                     Pelo conhecimento e encaminhamento à consulente de
-                                     cópias autênticas dos referidos Pareceres (DFAM e MPC) e
-                                     do Acórdão do TCE. Decisão unânime.
-    
-    
-    
-           Vistos. 'datados e disçj1idO os presentes autos, considerando a informação da
-    Comrssão de Reqirnento e Jurisprudência (fls. 1221127), a informação da \/ Divisão de
-    Fiscalbiação da Adrninisração Municrpai - DFAM (fls. 1281129). a manifestação do
-    Ministério Público de Contas (fis. 133/135), e o mais que dos autos consta, decidiu o
-    Plenário, unânime, conhecer da presente consulta, vez que a requerente possui
-    egitimídede ativa e dada a relevância e o interesse público, para respondê-la em
-    cunlarmidade corri os Relator ics emitidos pela DFAM e pelo Ministério Público de Contas.
-    nas seguintes termos: 1) No caso em comento, diante da negativa do Poder Executivo
-    em abrir crédito suplementar para o Poder Legislativo, é imprescindivel que este
-    poder, inicialmente, recorra aos meios judiciais cabiveis para tentar urna resolução do
-    problema: 2) O processo orçamentário, neste caso, foi interrompido em sua origem.
-    ausente de todos os pré-requisitos necessários para o empenho da despesa e do
-    conseqUente pagamento. Sabendo-se que o andamento da mâquina administrativa
-    não pode parar, entende-se pela possibilidade de que as mesmas devem ser pagas e
-     registradas no grupo Realizável, especificamente na conta Despesas a Regularizar
-    (Conta especifica para registrar pagamentos sem créditos atinentes às despesas
-     pagas): 3) O empenhamento em Despesa de Exercicios Anteriores possui requisitos,
-     como define o art. 37 da Lei Federal n 4.320/64. Assim. é de fundamental importância
-     a proposição de dotação especifica consignada na lei orçamentária do exercicio,
-     dotação esta que comporte o volume das despesas que serão pagas neste exercicio e
-     registradas em Despesas a Regularizar: 4) As despesas, neste caso, deverão ser
-     consideradas no exercicio em que forem pagas. Para tanto, como as mesmas estarão
-     registradas na conta Despesas a Regularizar, é necessário que o ente envie uma Nota
-      Explicativa a esta Corte, explicitando toda a situação ocorrida, devidamente
-     acompanhada de documentação comprobatária, e discrimine em um documento
-      apartado todas as despesas pagas e registradas na citada conta, identificando
-      principalmente as despesas com pessoal, para que possa apurar os limites
-      constitucionais. Deocjij. Cinia. o Pienãno, unânime, pelo encaminhamento á Consulente.
-      Sra Ana Lúcia Policarpo da Cruz Gemes - Presidente da Câmara Municipal de
-      Guadaluse, de cópias autênticas dos referidos pareceres (DFAM e MPC) e do Acôrdo
-      Plenário deste Tribunal de Conta      9 nos termos devoto do Relator, àsfls. 139/142.\\k\
-    
-                                     7...'
-    
+[Carimbo de folha, canto superior direito, parcialmente apagado:] [TRIB]UNAL DE CONTAS DO ESTADO [D]O PIAUÍ / PROC. Nº [manuscrito:] TCE 43.712 FLS. [manuscrito:] 148 / [assinatura manuscrita na linha, não atribuída] / [SE]CRETARIA - [FUNCIONÁRIO] [impressão apagada]
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+ESTADO DO PIAUÍ
+TRIBUNAL DE CONTAS
+
+[Carimbo retangular de publicação, à direita:] Publicado no Diário Oficial Eletrônico / nº [manuscrito, leitura provável:] 037 página [manuscrito:] 07/08, / em [manuscrito, leitura provável:] 25 / 02 / 13 . / [rubrica manuscrita, não atribuída] / SECRETARIA DAS SESSÕES [impressão parcialmente falhada]
+
+**ACÓRDÃO Nº 2.538/2012**
+
+PROCESSO TC-E Nº 43.712/12
+DECISÃO Nº 1.574/12
+**Assunto:** Consulta – Câmara Municipal de Guadalupe/PI.
+**OBJETO:** Questionamento acerca do repasse do duodécimo e da contabilização de despesas da Câmara.
+**CONSULENTE:** Ana Lúcia Policarpo da Cruz Gomes
+**RELATOR:** Cons. Anfrísio Neto Lobão Castelo Branco
+
+> *EMENTA: Consulta formulada ao Tribunal de Contas do Estado do Piauí pela Câmara Municipal de Guadalupe/PI. Pelo conhecimento e encaminhamento à consulente de cópias autênticas dos referidos Pareceres (DFAM e MPC) e do Acórdão do TCE. Decisão unânime.*
+
+**Vistos**, relatados e discutidos os presentes autos, considerando a informação da Comissão de Regimento e Jurisprudência (fls. 122/127), a informação da V Divisão de Fiscalização da Administração Municipal – DFAM (fls. 128/129), a manifestação do Ministério Público de Contas (fls. 133/135), e o mais que dos autos consta, decidiu o Plenário, unânime, **conhecer** da presente consulta, vez que a requerente possui legitimidade ativa e dada à relevância e o interesse público, para **respondê-la** em conformidade com os Relatórios emitidos pela DFAM e pelo Ministério Público de Contas, nos seguintes termos: 1) **No caso em comento, diante da negativa do Poder Executivo em abrir crédito suplementar para o Poder Legislativo, é imprescindivel que este poder, inicialmente, recorra aos meios judiciais cabiveis para tentar uma resolução do problema: 2) O processo orçamentário, neste caso, foi interrompido em sua origem, ausente de todos os pré-requisitos necessários para o empenho da despesa e do conseqüente pagamento. Sabendo-se que o andamento da máquina administrativa não pode parar, entende-se pela possibilidade de que as mesmas devem ser pagas e registradas no grupo Realizável, especificamente na conta Despesas a Regularizar (Conta especifica para registrar pagamentos sem créditos atinentes às despesas pagas); 3) O empenhamento em Despesa de Exercícios Anteriores possui requisitos, como define o art. 37 da Lei Federal nº 4.320/64. Assim, é de fundamental importância a proposição de dotação especifica consignada na lei orçamentária do exercício, dotação esta que comporte o volume das despesas que serão pagas neste exercicio e registradas em Despesas a Regularizar; 4) As despesas, neste caso, deverão ser consideradas no exercício em que forem pagas. Para tanto, como as mesmas estarão registradas na conta Despesas a Regularizar, é necessário que o ente envie uma Nota Explicativa a esta Corte, explicitando toda a situação ocorrida, devidamente acompanhada de documentação comprobatória, e discrimine em um documento apartado todas as despesas pagas e registradas na citada conta, identificando principalmente as despesas com pessoal, para que possa apurar os limites constitucionais**. Decidiu, ainda, o Plenário, unânime, pelo **encaminhamento** à Consulente, Sra  **Ana Lúcia Policarpo da Cruz Gomes** - Presidente da Câmara Municipal de Guadalupe, de cópias autênticas dos referidos pareceres (DFAM e MPC) e do Acórdão do Plenário deste Tribunal de Contas, todo nos termos do voto do Relator, às fls. 139/142.
+
+[Rubrica manuscrita sobre "todo", não atribuída] [Rubrica manuscrita após "139/142.", não atribuída]
+
+[Restante da página sem texto — conferido na imagem]
+
 
 #### Página 2 do PDF oficial
 
-    1
-    
-    
-    
-    
-                       ES'I'.ADO DO PIAUÍ
-                       TRIBUN\1 DECONT\S
-    
-                                    ACÓRDÃO N°2.538/2012 (fis. 02)
-    
-    
-              Ábsteve-se de votar o Cons. Jackson Nobre Veras, por não estar presente no
-        mome O do eato do   rosen processo
-    
-               Presentes os Cons. Joaquim Kenriedy Nogueira Barros (Prsidente), Anírisio Neto
-        Lobão Castelo Branco, Abelardo Pio Vilanova e Silva, Olavo Rebêlo d.e Carvalho Filho, Lilian
-        de Atrneida Velas Nunes Malins e os Cons. Substitutos Delano Carneiro da Cunha Câmara,
-        convocado para substituir a Coos. Waltània Maria Nogueira de Sousa Leal Alvarenga
-        (ausente por motivo justificado) e Jackson Nobre Veras, convocadopara substituir o Cons.
-        Lccano Nunes Santos (ausente por motivo justiíicado).
-    
-               Representante do Ministério Público de Contas presente: Procuradora-Geral
-        Ra'iss Maria Rezende de Deus Barbosa.
-    
-               Pubhque-se. Cumpra-se e Encaminhe-se.
-    
-               Sessão Plenária Ordinária n° 052, do Tribunal de Contas do Estado do Piaui, em
-        Teresina. 10 de dezembro de 2012.
-    
-    
-    
-    
-        Ce   s Joaquim K:nJdy Noguci a Barios                            Presidente
-    
-    
-    
-         Cons. An/isio teti - Ltobao Castelo Brarco                      Relator
-    
-                                                           /
-         Fui presente: Raissa Mra Rk ezende de Deus Ba(bosa              Procuradora-Geral MPC
-    
+[Carimbo de folha, canto superior direito, impressão apagada:] [TRI]BUNAL DE CONTAS DO ESTADO DO PIAUÍ / PROC. Nº [manuscrito:] TCE 43.712 FLS. [manuscrito:] 149 / [assinatura manuscrita na linha, não atribuída] / SECRETAR[IA - FUNCION]ÁRIO [impressão apagada]
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+ESTADO DO PIAUÍ
+TRIBUNAL DE CONTAS
+
+ACÓRDÃO Nº 2.538/2012 (fls. 02)
+
+**Absteve-se** de votar o Cons. Jackson Nobre Veras, por não estar presente no momento do relato do presente processo.
+
+**Presentes** os Cons. Joaquim Kennedy Nogueira Barros (Presidente), Anfrisio Neto Lobão Castelo Branco, Abelardo Pio Vilanova e Silva, Olavo Rebêlo de Carvalho Filho, Lilian de Almeida Velos Nunes Martins e os Cons. Substitutos Delano Carneiro da Cunha Câmara, convocado para substituir a Cons.ª Waltânia Maria Nogueira de Sousa Leal Alvarenga (ausente por motivo justificado) e Jackson Nobre Veras, convocado para substituir o Cons. Luciano Nunes Santos (ausente por motivo justificado).
+
+**Representante do Ministério Público de Contas presente**: Procuradora-Geral Raïssa Maria Rezende de Deus Barbosa.
+
+Publique-se, Cumpra-se e Encaminhe-se.
+
+Sessão Plenária Ordinária nº 052, do Tribunal de Contas do Estado do Piauí, em Teresina, 10 de dezembro de 2012.
+
+[assinatura manuscrita, não atribuída]
+Cons. Joaquim Kennedy Nogueira Barros — Presidente
+
+[assinatura manuscrita, não atribuída]
+Cons. Anfrísio Neto Lobão Castelo Branco — Relator
+
+[assinatura manuscrita, não atribuída]
+Fui presente: Raïssa Maria Rezende de Deus Barbosa — Procuradora-Geral MPC
+
+[Linha vertical tracejada de digitalização à direita; restante da página sem texto — conferido na imagem]
 
 ### Documento vinculado pela fonte
 
@@ -490,3 +438,7 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 - PDF vinculado: 3 página(s), 374612 bytes, SHA-256 `eda3de3c0b5e87dbb8f5adbcbdf97c1abe6396c614d6431d70845618d2d8a0c7`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Nos votos, a leitura manuscrita 35.666/11 não foi harmonizada com o impresso25.666/11. O acento em ACACIO/ACÁCIO permanece incerto. Normalizaram-se sinais ° para º e espaços entre numeração e início dos itens 1.1 e 1.2. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+## Conferência do acórdão por imagens — 05/11/2026
+
+As páginas do PDF vinculado foram novamente transcritas e cotejadas integralmente em revisão independente por imagens, substituindo a extração textual anterior. Erros impressos e leituras prováveis permanecem indicados; carimbos e traços não foram autenticados. A matrícula funcional no carimbo VISTO foi ocultada onde aparece. Não se infere vigência.

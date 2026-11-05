@@ -22,103 +22,64 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                             DO
-    
-    
-    
-                                  ESTADO DO PIAUÍ
-                                  TRIBUNAL DE CONTAS
-    
-              n' .r):,r,,,                                -
-    PuhIiCat0 •
-                                                 ACORDAO N° 19312012
-    
-    
-    
-                  PROCESSO TC-E N° 25666/11
-                  DECISÃO N ° 71/12
-                  SESSÃO PLENÁRIA ORDINÁRIA N° 003
-                  RELATOR: Cons. Anfrísio Neto Lobão Castelo Branco
-                  INTERESSADO: Acácio José Antão de Alencar - Presidente
-                  PROCEDENCIA: Câmara Municipal de Pio IX
-    
-    
-    
-                                                 Consulta formulada ao Tribunal de Contas do
-                                                 Estado do Piauí pelo Presidente da Câmara
-                                                 Municipal de Pio IX, Dr. Acácio José Antão de
-                                                 Alencar. Posicionamento do TCE a respeito da
-                                                 legalidade do pagamento de diferença de
-                                                 subsídio de vereador com a finalidade de
-                                                 adequar ao limite de 70% com gastos de pessoal
-                                                 da Câmara. Decisão Unânime.
-    
-    
-    
-    
-                                   Vistos, relatados e discutidos os presentes autos, decidiu o
-                  Plenàrio, unãnime. de acordo com o Parecer do Ministério Público de Contas, às fls.
-                  19/21, conhecer da presente consulta, para respondê-la, informando que a
-                  Constituição Federal no art. 29, VI, impõe que a fixação dos subsídios será feita em
-                  cada legislatura para vigorar na subseqüente, e que, em razão do principio da
-                  irretroatividade das leis, art. 5°, XXXVI, CF, as leis e resoluções são votadas para
-                  viger no futuro, não sendo possível a retroatividade dos efeitos de uma lei que
-                  aumente subsídios de vereadores, destacando, ainda, que caso fosse possível o
-                  pagamento de subsídios de vereadores retroativos, não seria admissível extrapolar
-                  os limites legais e constitucionais, nos termos do voto do Relator, às fis. 24/29.
-    
-                                  Decidiu, ainda, o Plenário, unânime, encaminhar ao consulente
-                   cópias autënticas do referido Parecer e do Acórdão do Plenário, desta Corte de
-                   Contas.
-    
-                                   Presentes os Conselheiros Joaquim Kennedy Nogueira Barros
-                   (Presidente), Luciano Nunes Santos, Anfrísio Neto Lobão Castelo Branco, Abelardo
-                   Pio Vilanova e Silva, Guilherme Xavier de Oliveira Neto, os Cons. Substitutos Delano
-                   Carneiro da Cunha Câmara, em substituição à Cons 8 . Waltãnia Maria Nogueira de
-                   Sousa Leal Alvarenga (em gozo de férias), Jackson Nobre Veras, em substituição
-                   Cons. Olavo Rebêlo de Carvalho Filho (em gozo de férias), e o Auditor Ja,loL.
-                   Fabianh Lopes Campelo.
-    
-                                                                                              /•
-    
+[Carimbo de folha, canto superior direito, moldura impressa quase apagada; manuscrito:] 25.666/11 — [folha, leitura provável:] 32 — [rubrica manuscrita, não atribuída]
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+ESTADO DO PIAUÍ
+TRIBUNAL DE CONTAS
+
+[Carimbo retangular de publicação, à esquerda, impressão falhada; leitura parcial:] Publicado no Di[ário] [Ofi]c[ia]l Eletrônico / nº [em branco ou ilegível] página [em branco ou ilegível] / [linha com traço manuscrito ilegível] / SECRETA[RIA] DAS [SE]SSÕES
+
+**ACÓRDÃO Nº 193/2012**
+
+PROCESSO TC-E Nº 25.666/11
+DECISÃO Nº 71/12
+SESSÃO PLENÁRIA ORDINÁRIA Nº 003
+RELATOR: Cons. Anfrísio Neto Lobão Castelo Branco
+INTERESSADO: Acácio José Antão de Alencar – Presidente
+PROCEDÊNCIA: Câmara Municipal de Pio IX
+
+> **Consulta formulada ao Tribunal de Contas do Estado do Piauí pelo Presidente da Câmara Municipal de Pio IX, Dr. Acácio José Antão de Alencar. Posicionamento do TCE a respeito da legalidade do pagamento de diferença de subsídio de vereador com a finalidade de adequar ao limite de 70% com gastos de pessoal da Câmara. Decisão Unânime.**
+
+**Vistos**, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, de acordo com o Parecer do Ministério Público de Contas, às fls. 19/21, **conhecer** da presente consulta, para **respondê-la**, informando que a Constituição Federal no art. 29, VI, impõe que a fixação dos subsídios será feita em cada legislatura para vigorar na subseqüente, e que, em razão do principio da irretroatividade das leis, art. 5°, XXXVI, CF, as leis e resoluções são votadas para viger no futuro, não sendo possivel a retroatividade dos efeitos de uma lei que aumente subsidios de vereadores, destacando, ainda, que caso fosse possível o pagamento de subsídios de vereadores retroativos, não seria admissível extrapolar os limites legais e constitucionais, nos termos do voto do Relator, às fls. 24/29.
+
+**Decidiu**, ainda, o Plenário, unânime, encaminhar ao consulente cópias autênticas do referido Parecer e do Acórdão do Plenário desta Corte de Contas.
+
+**Presentes os Conselheiros** Joaquim Kennedy Nogueira Barros (Presidente), Luciano Nunes Santos, Anfrisio Neto Lobão Castelo Branco, Abelardo Pio Vilanova e Silva, Guilherme Xavier de Oliveira Neto, os Cons. Substitutos Delano Carneiro da Cunha Câmara, em substituição à Consª. Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de férias), Jackson Nobre Veras, em substituição ao Cons. Olavo Rebêlo de Carvalho Filho (em gozo de férias), e o Auditor Jaylson Fabianh Lopes Campelo.
+
+[Rubrica manuscrita ao pé, à esquerda do centro, não atribuída] [Rubrica manuscrita à direita, sobreposta ao final de "Jaylson", não atribuída]
+
+[Restante da página sem texto; apenas sombras de digitalização nas bordas — conferido na imagem]
+
 
 #### Página 2 do PDF oficial
 
-    14.
-    
-    
-    
-    
-                                                                                  lv
-                       ESTADO DO PIAUÍ
-                       TRIBUNAL DE CONTAS
-    
-    
-                                ACÓRDÃO N° 19312012 fis. 02
-    
-    
-    
-                        Representante do Ministério Público de Contas presente: Sub-
-          Procurador-Geral Márcio André Madeira de Vasconcelos.
-    
-          Publique-se, Cumpra-se e Encaminhe-se.
-    
-          Sessáo Plenária Ordinária do Tribunal de Contas do Estado do Piaui, em Teresina,
-          19dejaneirode2012.
-    
-    
-    
-          Cons. Joaquim Keney Nôgueira Barros                                   Presidente
-    
-    
-    
-                          /              JL
-          Cons. Anfriio N Tí'Lôbão Cástelo Branco                                  Relator
-    
-    
-                                     u
-          Fui presente: Márcio André M de Vasconcelos           Sub-Procurador-Geral MPC
-    
+[Carimbo de folha, canto superior direito, moldura impressa quase apagada; manuscrito:] 25.666/11 — [folha, leitura provável:] 33 — [rubrica manuscrita, não atribuída]
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+ESTADO DO PIAUÍ
+TRIBUNAL DE CONTAS
+
+ACÓRDÃO Nº 193/2012 fls. 02
+
+**Representante do Ministério Público de Contas presente**: Sub-Procurador-Geral Márcio André Madeira de Vasconcelos.
+
+Públique-se. Cumpra-se e Encaminhe-se.
+
+Sessão Plenária Ordinária do Tribunal de Contas do Estado do Piaui, em Teresina, 19 de janeiro de 2012.
+
+[assinatura manuscrita, não atribuída]
+**Cons. Joaquim Kennedy Nogueira Barros** — Presidente
+
+[assinatura manuscrita, não atribuída]
+**Cons. Anfrísio Neto Lobão Castelo Branco** — Relator
+
+[assinatura manuscrita, não atribuída]
+**Fui presente: Márcio André M de Vasconcelos** — Sub-Procurador-Geral MPC
+
+[Restante da página sem texto; apenas sombras de digitalização nas bordas — conferido na imagem]
 
 ### Documento vinculado pela fonte
 
@@ -313,3 +274,7 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 ## Outro exemplar do relatório e voto
 
 O [exemplar Voto-2](documento-voto-pio-ix-exemplar-voto-2.md) reproduz as folhas24–29 do processo25.666/11 de PioIX, referidas no Acórdão193/12. O portal o vinculou à consulta16236, de outro caso; a divergência está registrada. Voto-2 e Voto-3 permanecem fontes separadas, sem novo ID.
+
+## Conferência do acórdão por imagens — 05/11/2026
+
+As páginas do PDF vinculado foram novamente transcritas e cotejadas integralmente em revisão independente por imagens, substituindo a extração textual anterior. Erros impressos e leituras prováveis permanecem indicados; carimbos e traços não foram autenticados. A matrícula funcional no carimbo VISTO foi ocultada onde aparece. Não se infere vigência.

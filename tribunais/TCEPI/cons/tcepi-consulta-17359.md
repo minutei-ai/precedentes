@@ -22,101 +22,56 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                  ESTADO DO PIAUÍ
-                  TRiBUNAL DE CONTAS
-    
-    
-                                      ACÓRDÃO N°3.369/11
-    
-    PROCESSO TC-E N° 13.726/11
-    DECISÃO N 0 1.128/11
-    SESSÃO PLENÁRIA ORDINÁRIA N° 53
-    RELATOR: Cons. Anfrísio Neto Lobão Castelo Branco
-    INTERESSADO: João Luiz Lopes de Souza
-    PROCEDENCIA: Prefeitura Municipal de Agua Branca
-    
-    
-    
-    
-                                      Consulta formulada ao Tribunal de Contas do
-                                      Estado do Piauí pelo Prefeito Municipal de Agua
-                                      Branca, Dr. João Luiz Lopes de Souza.
-                                      Posicionamento sobre aplicação de alguns dos
-                                      dispositivos legais, da lei 11494 de 20 de junho
-                                      de 2007, que regulamenta o Fundo de
-                                      Manutenção e Desenvolvimento da Educação
-                                      Básica e de Valorização dos Profissionais da
-                                      Educação - FUNDEB, especiàlmente no tocante
-                                      ao art. 8 0 , § 1 0 20 3 1 e 41 Decisão Unânime,
-                                                     ,   ,      .
-    
-    
-    
-    
-                     O TRIBUNAL DE CONTAS DO ESTADO DO PIÀUÍ, examinando o
-    processo TC-E n° 13.726/11 referente à consulta formulada pelo Prefeito Municipal de
-    Agua Branca, Dr. João Luiz Lopes de Souza, pretendendo obter o posicionamento
-    desta Corte de Contas sobre a possibilidade sobre aplicação de alguns dos
-    dispositivos legais, da lei ii .494 de 20 de junho de 2007, que regulmenta o Fundo de
-    Manutenção e Desenvolvimento da Educação Básica e de Valorização dos
-    Profissionais da Educação - FUNDEB, especialmente no tocante ao art. 8 0 , § 1°, 2 0 30
-                                                                                        ,
-    
-    
-    
-    e 4°.
-                     Vistos, relatados e discutidos os presentes autos, decidiu o Plenário,
-    unânime, de acordo com a manifestação do Ministério Público de Contas, à fI. 16/18,
-    conhecer da presente consulta, para, no mérito, respondê -la, em concordância com
-    o Parecer da Ministério Público de Contas, à fI. 16/18, e nos termos do voto do Relator
-    às fls. 21/23, como o posicionamento desta Corte de Contas em resposta a consulta
-    formulada.
-                     Decidiu, ainda, o Plenário, unânime, encaminhar
-    
-                      Vencidos os Cons. Substitutos Jaylson Fabianh Lopes Campelo, que
-     votou pela possibilidade do custeio, desde que atendidas as determinações constantes
-     do art. 62 da Lei de Responsabilidade Fiscal - LRF, e Jackson Nobre: Veras, que votou
-     pela possibilidade do custeio por haver previsão na Lei Complmentar n° 101,
-     guardadas as devidas balisas ali indicadas, e, a.inda, pelo fato de os Estados do Piauí
-    
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+
+ESTADO DO PIAUÍ
+TRIBUNAL DE CONTAS
+
+**ACÓRDÃO Nº 3.369/11**
+
+PROCESSO TC-E Nº 13.726/11
+DECISÃO Nº1.128/11
+SESSÃO PLENÁRIA ORDINÁRIA Nº 53
+RELATOR: Cons. Anfrísio Neto Lobão Castelo Branco
+INTERESSADO: João Luiz Lopes de Souza
+PROCEDÊNCIA: Prefeitura Municipal de Água Branca
+
+> **Consulta formulada ao Tribunal de Contas do Estado do Piauí pelo Prefeito Municipal de Água Branca, Dr. João Luiz Lopes de Souza. Posicionamento sobre aplicação de alguns dos dispositivos legais, da lei 11.494 de 20 de junho de 2007, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – FUNDEB, especialmente no tocante ao art. 8º, § 1º, 2º, 3º e 4º. Decisão Unânime.**
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ**, examinando o processo TC-E nº 13.726/11 referente à consulta formulada pelo Prefeito Municipal de Água Branca, Dr. João Luiz Lopes de Souza, pretendendo obter o posicionamento desta Corte de Contas sobre a possibilidade sobre aplicação de alguns dos dispositivos legais, da lei 11.494 de 20 de junho de 2007, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – FUNDEB, especialmente no tocante ao art. 8º, § 1º, 2º, 3º e 4º.
+
+Vistos, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, de acordo com a manifestação do Ministério Público de Contas, à fl. 16/18, **conhecer** da presente consulta, para, no mérito, **respondê-la**, em concordância com o Parecer da Ministério Público de Contas, à fl. 16/18, e nos termos do voto do Relator às fls. 21/23, como o posicionamento desta Corte de Contas em resposta a consulta formulada.
+
+Decidiu, ainda, o Plenário, unânime, encaminhar
+
+**Vencidos** os Cons. Substitutos Jaylson Fabianh Lopes Campelo, que votou pela possibilidade do custeio, desde que atendidas as determinações constantes do art. 62 da Lei de Responsabilidade Fiscal – LRF, e Jackson Nobre Veras, que votou pela possibilidade do custeio por haver previsão na Lei Complementar nº 101, guardadas as devidas balisas ali indicadas, e, ainda, pelo fato de os Estados do Piauí
+
+[Texto continua na página 2. Sem carimbo de folha, carimbo de publicação, assinatura ou rodapé visíveis nesta página — conferido na imagem]
+
 
 #### Página 2 do PDF oficial
 
-    e Ceará apresentarem áreas de conflito, e nestas aplicarem recursos, e a situação não
-    ser considerada quando do julgamento das contas do Governo do Estado.
-    
-                    Decidiu, ainda, o Plenário, unânime, encaminhar ao Consulente,
-    cópias autênticas do Parecer do Ministério Público de Contas e do Acórdão do
-    Plenário deste Tribunal, que materializam o posicionamento desta Corte de Contas
-    sobre a consulta formulada.
-    
-                    Presentes os Conselheiros Joaquim Kennedy Nogueira Barros
-    (Presidente), Anfrísio Neto Lobão Castelo Branco, Waltânia Maria Nogueira de Sousa
-    Leal Alvarenga, Guilherme Xavier de Oliveira Neto, e os Conselheiros Substitutos
-    Jaylson Fabianh Lopes Campelo convocado para substituir o Cons. Olavo Rebêlo de
-    Carvalho Filho (ausente por motivo justificado), Jaime Amorim Júnior, em substituição
-    ao Cons. Abelardo Pio Vilanova e Silva (em gozo de licença médica), e os Auditores e
-    Jackson Nobre Veras e Alisson Felipe de Araújo.
-    
-                     Representante do MP de Contas presente: Procurador - Geral José
-    Araújo Pinheiro Júnior.
-    
-    Publique-se, Cumpra-se e Encaminhe-se.
-    
-     Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina,
-     08 de outubro de 2011.
-    
-    
-    
-     Cons. Joaquim Kennedy Nogueira Barros                                     Presidente
-    
-    
-    
-     Cons. Anfrísio Neto Lobão Castelo Branco                                    Relator
-    
-    
-     Representante do MPC: José Araújo Pinheiro Júnior                   Procurador-Geral
-    
+[Sem cabeçalho/brasão nesta página]
+
+e Ceará apresentarem áreas de conflito, e nestas aplicarem recursos, e a situação não ser considerada quando do julgamento das contas do Governo do Estado.
+
+Decidiu, ainda, o Plenário, unânime, encaminhar ao Consulente, cópias autênticas do Parecer do Ministério Público de Contas e do Acórdão do Plenário deste Tribunal, que materializam o posicionamento desta Corte de Contas sobre a consulta formulada.
+
+**Presentes os Conselheiros** Joaquim Kennedy Nogueira Barros (Presidente), Anfrísio Neto Lobão Castelo Branco, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Guilherme Xavier de Oliveira Neto, e os Conselheiros Substitutos Jaylson Fabianh Lopes Campelo convocado para substituir o Cons. Olavo Rebêlo de Carvalho Filho (ausente por motivo justificado), Jaime Amorim Júnior, em substituição ao Cons. Abelardo Pio Vilanova e Silva (em gozo de licença médica), e os Auditores e Jackson Nobre Veras e Alisson Felipe de Araújo.
+
+**Representante do MP de Contas presente**: Procurador - Geral José Araújo Pinheiro Júnior.
+
+Publique-se, Cumpra-se e Encaminhe-se.
+
+Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina, 08 de outubro de 2011.
+
+**Cons. Joaquim Kennedy Nogueira Barros** — Presidente
+
+**Cons. Anfrísio Neto Lobão Castelo Branco** — Relator
+
+**Representante do MPC: José Araújo Pinheiro Júnior** — Procurador-Geral
+
+[Nenhuma assinatura manuscrita, carimbo ou rodapé visível nesta cópia digitalizada; restante da página sem texto — conferido na imagem]
 
 ### Documento vinculado pela fonte
 
@@ -410,3 +365,7 @@ Texto reproduzido de fonte oficial. Confira na origem a situação atual e as re
 - PDF vinculado: 8 página(s), 1087011 bytes, SHA-256 `84a97dde7cde782907a1a7ca800fe097c1396c5f96ec9cc7192186e1e142cbf7`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. A Resolução 961/05 anexada é distinta do parecer da Consultoria Técnica. Nessa cópia degradada, algarismos 26/28 e palavras borradas permanecem explicitamente prováveis. Divergências entre os procuradores dos quadros e os presentes na sessão não foram harmonizadas. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+## Conferência do acórdão por imagens — 05/11/2026
+
+As páginas do PDF vinculado foram novamente transcritas e cotejadas integralmente em revisão independente por imagens, substituindo a extração textual anterior. Erros impressos e leituras prováveis permanecem indicados; carimbos e traços não foram autenticados. A matrícula funcional no carimbo VISTO foi ocultada onde aparece. Não se infere vigência.
