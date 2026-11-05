@@ -11,6 +11,6 @@
 
 ## Texto documental pendente
 
-Transcrição e enquadramento anteriores retirados após revisão independente do Opus 5.5: foram encontrados trechos inventados e conclusões incompatíveis com o PDF. A fonte é legível; nova transcrição integral e revisão permanecem pendentes.
+Transcrição e enquadramento anteriores retirados após revisão independente do Opus 5.5: foram encontrados trechos inventados e conclusões incompatíveis com o PDF. A fonte é legível. Nova transcrição por imagem e revisão integral independente foram integradas pela PR #427 na [ficha canônica](../tre-pb-cta-4895520166150000.md). Este documento conserva o histórico de retirada; não constitui nova transcrição nem novo ID.
 
 Refs #226.
