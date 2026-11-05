@@ -22,20 +22,28 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-GABINETE CONSELHEIRO ABELARDO VILANOVA
+[Nota editorial de apresentação: logomarca com a inscrição Tribunal de Contas do Estado do Piauí à esquerda, linha vertical, nome do gabinete em negrito e brasão à direita. A ementa e as seções I–II ocupam a coluna direita; o desenho e a geometria não são reproduzidos.]
+
+**GABINETE CONSELHEIRO ABELARDO VILANOVA**
 
 
 
-ACÓRDÃO Nº 394-A/2026-PLENO.
+**ACÓRDÃO Nº 394-A/2026-PLENO.**
 
-PROCESSO- TC/007773/2026
-NATUREZA: CONSULTA
-UNIDADE JURISDICIONADA: MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ
-INTERESSADO: CLAÚDIA PESSOA MARQUES DA ROCHA SEABRA – PROCURADORA
+**PROCESSO- TC/007773/2026**
+
+**NATUREZA:** CONSULTA
+
+**UNIDADE JURISDICIONADA:** MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ
+
+**INTERESSADO:** CLAÚDIA PESSOA MARQUES DA ROCHA SEABRA – PROCURADORA
 GERAL DE JUSTIÇA
-PROCURADOR (A): MÁRCIO ANDRÉ MADEIRA DE VASCONCELOS
-RELATOR: CONS. ABELARDO PIO VILANOVA E SILVA
-SESSÃO ORDINÁRIA VIRTUAL DO PLENO: 10 A 14 DE AGOSTO DE 2026.
+
+**PROCURADOR (A):** MÁRCIO ANDRÉ MADEIRA DE VASCONCELOS
+
+**RELATOR:** CONS. ABELARDO PIO VILANOVA E SILVA
+
+**SESSÃO ORDINÁRIA VIRTUAL DO PLENO:** 10 A 14 DE AGOSTO DE 2026.
 
 
 **EMENTA:**     CONTROLE     EXTERNO.    DIREITO
@@ -58,6 +66,7 @@ DOS LIMITES DE ADESÃO. EFEITOS PROSPECTIVOS
 DA DECISÃO CONSULTIVA.
 
 **I-        CASO EM EXAME**
+
 1 - Trata-se de Consulta formulada pelo Ministério Público do
 Estado do Piauí, por intermédio do Subprocurador de Justiça
 Administrativo, Sr. Plínio Fabrício de Carvalho Fontes, no
@@ -69,6 +78,7 @@ da vigência das Atas de Registro de Preços e à possibilidade
 de renovação dos quantitativos originalmente registrados.
 
 **II. QUESTÃO EM DISCUSSÃO**
+
 2 – O consulente submeteu à apreciação desta Corte os
 seguintes questionamentos, formulados em tese: a) se a
 prorrogação da vigência da Ata de Registro de Preços, prevista
@@ -78,11 +88,19 @@ eventual renovação dos quantitativos depende de previsão na
 fase de planejamento da contratação e no instrumento
 convocatório; c) se, inexistindo tal previsão, seria possível a
 
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
+[Rodapé institucional; espaçamento de composição não reproduzido. Ícones acompanham endereço, telefone e e-mail; redes sociais e inscrição TCEPIAUI à direita.]
+
+Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900\
+(86) 3215-3800 | CNPJ: 05.818.935/0001-01\
+tce@tce.pi.gov.br\
+TCEPIAUI
+
 
 #### Página 2 do PDF oficial
 
-GABINETE CONSELHEIRO ABELARDO VILANOVA
+[Nota editorial de apresentação: logomarca com a inscrição Tribunal de Contas do Estado do Piauí à esquerda, linha vertical, nome do gabinete em negrito e brasão à direita. A continuação e a seção III ocupam a coluna direita; o desenho e a geometria não são reproduzidos.]
+
+**GABINETE CONSELHEIRO ABELARDO VILANOVA**
 
 
 
@@ -101,6 +119,7 @@ prorrogação de atas celebrados anteriormente à decisão desta
 consulta.
 
 **III. RAZÕES DE DECIDIR**
+
 3     - A controvérsia jurídica submetida à apreciação desta
 Corte decorre da ausência de previsão expressa, na Lei nº
 14.133/2021, acerca dos efeitos da prorrogação da vigência da
@@ -145,11 +164,19 @@ renovação desses limites.
 9     Por fim, as decisões proferidas em processos de consulta
 possuem caráter normativo e constituem prejulgamento da
 
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
+[Rodapé institucional; espaçamento de composição não reproduzido. Ícones acompanham endereço, telefone e e-mail; redes sociais e inscrição TCEPIAUI à direita.]
+
+Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900\
+(86) 3215-3800 | CNPJ: 05.818.935/0001-01\
+tce@tce.pi.gov.br\
+TCEPIAUI
+
 
 #### Página 3 do PDF oficial
 
-GABINETE CONSELHEIRO ABELARDO VILANOVA
+[Nota editorial de apresentação: logomarca com a inscrição Tribunal de Contas do Estado do Piauí à esquerda, linha vertical, nome do gabinete em negrito e brasão à direita. O término da ementa e as referências ocupam a coluna direita; o dispositivo ocupa a largura inferior. Gráficos e geometria descritos, não reproduzidos.]
+
+**GABINETE CONSELHEIRO ABELARDO VILANOVA**
 
 
 
@@ -157,7 +184,8 @@ tese, produzindo efeitos prospectivos (*ex nunc*), sem implicar
 a invalidação automática de atos praticados anteriormente sob
 interpretação jurídica razoável e de boa-fé.
 
-IV. DISPOSITIVO
+**IV. DISPOSITIVO**
+
 10 Conhecimento. Respondê-la. Decisão Unânime.
 _________________
 *Dispositivos relevantes citados:* art. 201, inciso I, alínea f, do
@@ -170,8 +198,10 @@ Pernambuco e Santa Catarina; §§ 2º e 3º do art. 86 da Lei nº
 23 e 24 da Lei de Introdução às Normas do Direito Brasileiro
 (LINDB).
 
-Sumário: Consulta. Ministério Público do Estado do Piauí.
-Conhecimento. Respondê-la. Decisão unânime.
+***Sumário:*** *Consulta. Ministério Público do Estado do Piauí.
+Conhecimento. Respondê-la. Decisão unânime.*
+
+[Nota editorial de apresentação: o ponto final do Sumário está vermelho na fonte; não se atribui significado jurídico à cor.]
 
 
 Vistos, relatados e discutidos os presentes, referentes a Consulta, considerando a petição
@@ -181,109 +211,147 @@ Contas (peça nº 5), o relatório de consulta da Diretoria de Fiscalização de
 relator (peça nº 12) e o mais que dos autos consta, decidiu o Pleno, em sessão virtual, por
 **unanimidade,** nos termos e pelos fundamentos expostos no voto do Relator (peça nº 12), pelo
 **Conhecimento** da presente Consulta e, no mérito, por sua **Resposta,** nos seguintes termos:
-1. Questionamento: Embora o art. 84 da Lei nº 14.133/2021 preveja expressamente a
+
+**1. Questionamento:** Embora o art. 84 da Lei nº 14.133/2021 preveja expressamente a
 possibilidade de prorrogação do prazo de vigência da ata de registro de preços por igual período,
 sem mencionar de forma expressa a renovação dos quantitativos registrados, é juridicamente
 possível interpretar que a prorrogação da vigência da ARP, formalizada por termo aditivo, implica,
 por si só, a renovação automática e integral dos quantitativos originalmente registrados?
-Resposta: A prorrogação da vigência da ARP, formalizada por termo aditivo, **não implica,** por si
+
+**Resposta:** A prorrogação da vigência da ARP, formalizada por termo aditivo, **não implica,** por si
 só, a renovação automática e integral dos quantitativos originalmente registrados. Embora seja
 juridicamente possível que a prorrogação promova a renovação integral dos quantitativos, esta se
 encontra vinculada à análise técnica fundamentada da demanda na fase de planejamento, à
 comprovação da manutenção do preço vantajoso, à previsão expressa no ato convocatório e na ata,
 e à formalização por termo aditivo celebrado dentro da vigência original, devendo o ato consignar
 expressamente o quantitativo renovado.
-2. Questionamento: A eventual renovação dos quantitativos registrados em ata de registro
+
+**2. Questionamento:** A eventual renovação dos quantitativos registrados em ata de registro
 de preços, por ocasião da prorrogação de sua vigência, depende de previsão expressa no
 
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
+[Rodapé institucional; espaçamento de composição não reproduzido. Ícones acompanham endereço, telefone e e-mail; redes sociais e inscrição TCEPIAUI à direita.]
+
+Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900\
+(86) 3215-3800 | CNPJ: 05.818.935/0001-01\
+tce@tce.pi.gov.br\
+TCEPIAUI
+
 
 #### Página 4 do PDF oficial
 
-GABINETE CONSELHEIRO ABELARDO VILANOVA
+[Nota editorial de apresentação: logomarca institucional e inscrição Tribunal de Contas do Estado do Piauí à esquerda, nome do gabinete em negrito e brasão à direita. Perguntas, respostas e trechos de resposta destacados como na página; desenho e geometria não reproduzidos.]
+
+**GABINETE CONSELHEIRO ABELARDO VILANOVA**
 
 
 
 planejamento da contratação, no estudo técnico preliminar, no termo de referência, no edital ou no
 instrumento convocatório?
-Resposta: A renovação dos quantitativos registrados, por ocasião da prorrogação da vigência,
+
+**Resposta:** A renovação dos quantitativos registrados, por ocasião da prorrogação da vigência,
 **depende de previsão expressa** no planejamento da contratação, exigindo-se fundamentação técnica
 prévia no Estudo Técnico Preliminar e no Termo de Referência, bem como a inclusão de cláusulas
 expressas, claras e objetivas no edital e na respectiva ata, em observância ao princípio da vinculação
 ao instrumento convocatório.
-3. Questionamento: Na hipótese de ausência de previsão expressa no planejamento da
+
+**3. Questionamento:** Na hipótese de ausência de previsão expressa no planejamento da
 contratação e no instrumento convocatório quanto à possibilidade de renovação dos quantitativos
 registrados, é juridicamente possível renovar tais quantitativos por ocasião da prorrogação de
 vigência da ARP?
-Resposta: Na ausência de previsão expressa na fase de planejamento e no instrumento convocatório,
+
+**Resposta:** Na ausência de previsão expressa na fase de planejamento e no instrumento convocatório,
 **não é juridicamente possível** renovar os quantitativos por ocasião da prorrogação, ficando esta
 limitada estritamente à fruição do saldo remanescente não utilizado no período anterior.
-4. Questionamento: Caso a prorrogação de vigência da ARP seja formalizada sem
+
+**4. Questionamento:** Caso a prorrogação de vigência da ARP seja formalizada sem
 renovação dos quantitativos registrados, permanecendo disponíveis apenas as quantidades
 remanescentes não contratadas durante o primeiro período de vigência, os limites para adesão
 previstos no art. 86 da Lei nº 14.133/2021 devem incidir sobre os quantitativos originalmente
 registrados na ata ou apenas sobre os saldos remanescentes consignados no termo aditivo de
 prorrogação?
-Resposta: Os limites para adesão previstos no art. 86 da Lei nº 14.133/2021 devem incidir sobre os
+
+**Resposta:** Os limites para adesão previstos no art. 86 da Lei nº 14.133/2021 devem incidir sobre os
 **quantitativos originalmente registrados** na ata, e não sobre os saldos remanescentes consignados
 no termo aditivo de prorrogação, tenham sido eles renovados ou não. Os saldos remanescentes e os
 quantitativos renovados destinam-se exclusivamente à execução das contratações do órgão
 gerenciador e dos órgãos participantes, sendo vedada sua utilização para ampliar as adesões por
 órgãos ou entidades não participantes.
-5. Questionamento: Na hipótese de, durante o primeiro período de vigência da ARP, já
+
+**5. Questionamento:** Na hipótese de, durante o primeiro período de vigência da ARP, já
 terem sido atingidos os limites legais para contratações decorrentes de adesão por órgãos ou
 entidades não participantes, a posterior prorrogação da vigência da ata, acompanhada de eventual
 renovação dos quantitativos registrados, autoriza nova utilização da ata por órgãos ou entidades não
 participantes até os limites previstos no art. 86 da Lei nº 14.133/2021?
 
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
+[Rodapé institucional; espaçamento de composição não reproduzido. Ícones acompanham endereço, telefone e e-mail; redes sociais e inscrição TCEPIAUI à direita.]
+
+Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900\
+(86) 3215-3800 | CNPJ: 05.818.935/0001-01\
+tce@tce.pi.gov.br\
+TCEPIAUI
+
 
 #### Página 5 do PDF oficial
 
-GABINETE CONSELHEIRO ABELARDO VILANOVA
+[Nota editorial de apresentação: logomarca institucional e inscrição Tribunal de Contas do Estado do Piauí à esquerda, nome do gabinete em negrito e brasão à direita. Rótulos de presença e fecho tipográfico destacados; não há assinatura manuscrita nesta folha. A expressão assinado digitalmente é texto da fonte, não autenticação.]
+
+**GABINETE CONSELHEIRO ABELARDO VILANOVA**
 
 
 
-Resposta: Restando exauridos os limites de adesão previstos no art. 86, §§ 2º e 3º, da Lei nº
+
+**Resposta:** Restando exauridos os limites de adesão previstos no art. 86, §§ 2º e 3º, da Lei nº
 14.133/2021 durante o período de vigência originária da ata, a subsequente prorrogação temporal,
 ainda que acompanhada do restabelecimento dos quantitativos, **não opera efeito renovador** nem
 autoriza nova utilização da ata por órgãos ou entidades não participantes, operando-se verdadeira
 preclusão quantitativa.
-6. Questionamento: Em caso de resposta positiva ao quesito anterior, os limites legais para
+
+**6. Questionamento:** Em caso de resposta positiva ao quesito anterior, os limites legais para
 contratações por adesão — inclusive o limite individual de 50% por órgão ou entidade não
 participante e o limite global correspondente ao dobro do quantitativo de cada item registrado —
 seriam igualmente renovados por ocasião da prorrogação da ARP, mesmo diante da ausência de
 previsão legal expressa nesse sentido?
-Resposta: Quesito **prejudicado,** em razão da resposta ao questionamento anterior.
-7. Questionamento: As orientações firmadas por esse Tribunal de Contas em resposta à
+
+**Resposta:** Quesito **prejudicado,** em razão da resposta ao questionamento anterior.
+
+**7. Questionamento:** As orientações firmadas por esse Tribunal de Contas em resposta à
 presente consulta poderão ser aplicadas aos termos aditivos de prorrogação de vigência de atas de
 registro de preços celebrados anteriormente à decisão da consulta, especialmente para fins de
 interpretação, controle, correção de procedimentos ou prevenção de novas contratações em
 desacordo com o entendimento firmado?
-Resposta: A Administração deve absorver as orientações firmadas por esse Tribunal de Contas em
+
+**Resposta:** A Administração deve absorver as orientações firmadas por esse Tribunal de Contas em
 resposta à presente consulta para fins de interpretação e conformidade institucional, adaptando os
 procedimentos em curso e readequando o planejamento das próximas prorrogações ou licitações.
 
-Presidente: Cons. Joaquim Kennedy Nogueira Barros
+**Presidente:** Cons. Joaquim Kennedy Nogueira Barros
 
-Votantes: Cons. Abelardo Pio Vilanova e Silva, Waltânia Maria Nogueira de Sousa Leal
+**Votantes:** Cons. Abelardo Pio Vilanova e Silva, Waltânia Maria Nogueira de Sousa Leal
 Alvarenga, Lilian de Almeida Veloso Nunes Martins, Kleber Dantas Eulálio, Flora Izabel Nobre
 Rodrigues e Rejane Ribeiro Sousa Dias
 
-Conselheiro(s) Substituto(s) presente(s) nesta sessão: Jaylson Fabianh Lopes Campelo,
+**Conselheiro(s) Substituto(s) presente(s) nesta sessão:** Jaylson Fabianh Lopes Campelo,
 Delano Carneiro da Cunha Câmara, Jackson Nobre Veras e Alisson Felipe de Araújo.
 
-Representante do Ministério Público de Contas presente: Procurador-Geral Leandro
+**Representante do Ministério Público de Contas presente:** Procurador-Geral Leandro
 Maciel do Nascimento.
 
 Publique-se e cumpra-se.
 Sessão Ordinária do Pleno Virtual de 14 de agosto de 2026.
 
 *(assinado digitalmente)*
-Conselheiro Abelardo Pio Vilanova e Silva
-Relator
 
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
+**Conselheiro Abelardo Pio Vilanova e Silva**
+
+**Relator**
+
+[Rodapé institucional; espaçamento de composição não reproduzido. Ícones acompanham endereço, telefone e e-mail; redes sociais e inscrição TCEPIAUI à direita.]
+
+Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900\
+(86) 3215-3800 | CNPJ: 05.818.935/0001-01\
+tce@tce.pi.gov.br\
+TCEPIAUI
+
 
 #### Página 6 do PDF oficial
 
