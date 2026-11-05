@@ -33,3 +33,7 @@ As [duas páginas vinculadas à Súmula 12](tceba-sum-12.md) foram integralmente
 ## Resoluções 024, 086 e 090 — cotejo integral
 
 As [sete páginas das três resoluções](resolucoes-024-086-090.md) foram integralmente cotejadas em imagem. As transcrições incorretas nas fichas foram substituídas pelo apoio compartilhado, preservando lapsos e incertezas locais. Os replays arquivados foram recapturados com hashes idênticos às cópias locais. Com as duas páginas da 112, estão transcritas as nove páginas dos quatro atos; a Resolução 078/2018 segue em revisão própria. Delta zero.
+
+## Resolução 078/2018 recuperada — 05/11/2026
+
+As [duas páginas do ato e do quadro de assinaturas](resolucao-078-2018.md) foram recuperadas pelo REST oficial e integralmente cotejadas em imagem. Com os quatro atos anteriores, estão incorporadas as onze páginas dos cinco documentos do escopo da issue #205. Sem novo ID; edição do diário e autenticação externa não verificadas. As pendências de recuperação mencionadas acima são históricas.
