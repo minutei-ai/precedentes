@@ -16,7 +16,7 @@ Data apresentada na ficha: 9 de março de 2018 11:00. O título e o identificado
 
 ### Documento vinculado pela fonte
 
-[Abrir o documento oficial](https://www.tcepi.tc.br/wp-content/uploads/2024/11/consulta-tc-9383109-resolucao-485-2009_ocred.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.
+[consulta – tc – 9383109 (resolução 485-2009)_ocred](https://www.tcepi.tc.br/wp-content/uploads/2024/11/consulta-tc-9383109-resolucao-485-2009_ocred.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.
 
 O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
