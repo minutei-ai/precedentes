@@ -3170,3 +3170,5 @@ Os nove enunciados do folheto de setembro/2020 estão transcritos e cotejados in
 
 
 PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura direta e cotejo independente integral de duas páginas. Duas URLs e rótulos divergentes do mesmo arquivo reunidos em uma identidade, sem duplicação por origem catalográfica. Dia da aprovação ilegível e captura com TLS não verificado explicitados. Delta+1ID, zero órgãos; PGECE3registros. Demais atos legados permanecem em reconciliação.
+
+- **TCEAL, complemento de 05/11/2026:** 12 documentos (prej-3, 7, 10, 11, 13, 16, 17, 19, 22, 25, 28 e qo-2), com 25 páginas físicas de trechos pertinentes transcritos por imagem e cotejados integralmente em revisão independente. Sem novos IDs. A terceira página do PDF do prej-13 é de outro processo; matrículas e atos vizinhos ficam fora do texto publicado. Permanecem os limites dos cortes e das leituras incertas.
