@@ -2,10 +2,10 @@
 
 Súmulas, temas, consultas, orientações e manifestações de fontes oficiais. Um arquivo Markdown por registro.
 
-**Cobertura parcial.** O inventário de 04/11/2026, base `41c32e1`, registrou 42.977 registros em 187 órgãos. As integrações posteriores estão em [reconciliação de cobertura (#239)](https://github.com/minutei-ai/precedentes/issues/239).
+**Cobertura parcial.** O inventário estrutural de 05/11/2026 registra **43.868 identidades em 211 órgãos**, sem IDs duplicados. Inclui históricos, cancelados e registros com texto pendente; contagem não certifica integralidade textual ou vigência. [Método e limites](COBERTURA.md) · [Acompanhamento das lacunas (#239)](https://github.com/minutei-ai/precedentes/issues/239).
 
 
-- [Explorar por órgão](tribunais/)
+- [Explorar por órgão](tribunais/README.md)
 - [Fontes, cobertura e pendências](COBERTURA.md)
 - [Baixar ZIP](https://github.com/minutei-ai/precedentes/archive/refs/heads/main.zip)
 - [Sugerir correção ou fonte oficial](https://github.com/minutei-ai/precedentes/issues/new)
