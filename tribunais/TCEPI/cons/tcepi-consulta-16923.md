@@ -22,6 +22,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+
+[Cabeçalho do Diário em faixa verde com símbolos gráficos nas extremidades. Trecho inicial é continuação de outra consulta, sem número visível nesta página. O Acórdão nº 386/15 começa apenas no título próprio. Negritos no trecho anterior: conhecer, responder, Vencidos, encaminhar, Presentes. Ementa do Ac386 em itálico, com Conhecimento, Constitucionalidade, Remuneratória e Não submissão em negrito. Título e rótulos de identificação em negrito. S de CS está subscrito na linha do processo.]
+
                                     DIÁRIO OFICIAL ELETRÔNICO Nº 79/15
                                   TERESINA - PI - Terça-feira, 05 de maio de 2015
     
@@ -84,6 +87,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 2 do PDF oficial
 
+
+[Cabeçalho em faixa verde. Negritos no trecho do acórdão: conhecimento, responder, constitucionalidade, natureza remuneratória, teto, Ata, Presentes:, Representante do MPC presente: e linhas do fecho. DECISÕES MONOCRÁTICAS em negrito e sublinhado inicia peça distinta, TC 005677/2015; identificação e I. RELATÓRIO em negrito. INAUDITA ALTEREA PARS em itálico nas duas ocorrências, proibição de contratar em negrito. Não se atribui essa representação ao Acórdão 386/15; continuação externa não suprida.]
+
                                      DIÁRIO OFICIAL ELETRÔNICO Nº 79/15
                                    TERESINA - PI - Terça-feira, 05 de maio de 2015
     
@@ -135,7 +141,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
                     Trata-se de PROCESSO DE REPRESENTAÇÃO COM PEDIDO DE MEDIDA CAUTELAR INAUDITA
     ALTEREA PARS, proposto pelo MINISTÉRIO PÚBLICO DE CONTAS em face de decisão da Justiça Federal, transitada em
-    julgado em 28/01/2014, condenando, em uma ação cível, o Sr. Flávio Henrique Rocha Aguiar, CPF n° 239.432.463-53, por
+    julgado em 28/01/2014, condenando, em uma ação cível, o Sr. Flávio Henrique Rocha Aguiar, CPF n° [CPF ocultado], por
     ato de improbidade administrativa, bem como pela proibição de contratar com o Poder Público ou receber incentivos fiscais
     ou creditícios, direta ou indiretamente, pelo prazo de cinco anos, ainda que por intermédio de pessoa jurídica da qual seja
     sócio majoritário.

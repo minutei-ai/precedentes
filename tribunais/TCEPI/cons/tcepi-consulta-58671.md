@@ -22,6 +22,12 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+
+    Tribunal de Contas
+    do Estado do Piauí
+
+    GABINETE DA CONS.ª FLORA IZABEL
+
                         ACÓRDÃO Nº 383/2025 – PLENO
     
     Nº PROCESSO: TC/006260/2025
@@ -78,6 +84,12 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 2 do PDF oficial
 
+
+    Tribunal de Contas
+    do Estado do Piauí
+
+    GABINETE DA CONS.ª FLORA IZABEL
+
                                                   legislatura, para evitar responsabilizações da gestão
                                                   vigente.
     
@@ -125,6 +137,12 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 3 do PDF oficial
 
+
+    Tribunal de Contas
+    do Estado do Piauí
+
+    GABINETE DA CONS.ª FLORA IZABEL
+
                3. Como proceder em relação aos pagamentos já efetuados com base na lei
                sancionada irregularmente, caso existam?
                           Resposta: Os pagamentos acaso feitos com base em ato fixador
@@ -167,6 +185,12 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 4 do PDF oficial
 
+
+    Tribunal de Contas
+    do Estado do Piauí
+
+    GABINETE DA CONS.ª FLORA IZABEL
+
     Sessão Virtual do Pleno, em 3 de outubro de 2025.
     
                 (assinado digitalmente)
@@ -175,6 +199,10 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
 
 #### Página 5 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                                  ASSINATURA DIGITAL
     
@@ -186,7 +214,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
            CPF/CNPJ                                         Nome                                       Data e hora
     
-         22*.***-**3-20                 FLORA IZABEL NOBRE RODRIGUES                              08/10/2025 11:31:15
+         [identificador pessoal omitido]                 FLORA IZABEL NOBRE RODRIGUES                              08/10/2025 11:31:15
     
     
     

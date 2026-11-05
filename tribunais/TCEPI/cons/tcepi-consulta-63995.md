@@ -22,6 +22,10 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+
+    Tribunal de Contas
+    do Estado do Piauí
+
                              GABINETE DA CONSELHEIRA REJANE DIAS
     
     
@@ -80,7 +84,16 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
                                     Interno do TCE/PI, razão pela qual deve ser conhecida.
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 2 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
     GABINETE DA CONSELHEIRA REJANE DIAS
           4. A Lei Federal nº 11.788/2008 disciplina o instituto do
@@ -146,7 +159,16 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
           da Lei Federal nº 11.445/2007; art. 12, § 1º, da Lei
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 3 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                           GABINETE DA CONSELHEIRA REJANE DIAS
                                                     Federal nº 11.788/2008; Lei Municipal nº 3.600/2006 e
@@ -190,7 +212,16 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     especial, dotada de autonomia administrativa, funcional, orçamentária e financeira, na forma
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 4 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                           GABINETE DA CONSELHEIRA REJANE DIAS
     da Lei Municipal nº 3.600/2006, possui a ARSETE competência legal para regulamentar
@@ -229,7 +260,16 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     proceder uma vez que: (i) a criação de um programa de estágio próprio gera despesa para o
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 5 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                         GABINETE DA CONSELHEIRA REJANE DIAS
     poder público, o que demandaria recursos orçamentários para suportar as despesas com as
@@ -269,7 +309,16 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
             Conselheiro(s) Substituto(s) presente(s): Jackson Nobre Veras.
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 6 do PDF oficial
+
+
+    Tribunal de Contas do Estado do Piauí
+    [brasão: ESTADO DO PIAUÍ; microlegendas inferiores ilegíveis no raster disponível]
 
                                       GABINETE DA CONSELHEIRA REJANE DIAS
            Ausente(s): Cons.ª Lilian de Almeida Veloso Nunes Martins (Portaria n° 577/2026 –
@@ -286,7 +335,16 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
                                           Relatora
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 7 do PDF oficial
+
+
+    Tribunal de Contas do Estado do Piauí
+    [brasão: ESTADO DO PIAUÍ; microlegendas inferiores ilegíveis no raster disponível]
 
                                                  ASSINATURA DIGITAL
     
@@ -298,7 +356,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
            CPF/CNPJ                                         Nome                                       Data e hora
     
-         ***.*55.603-**                     REJANE RIBEIRO SOUSA DIAS                             20/10/2026 09:11:06
+         [CPF suprimido]                     REJANE RIBEIRO SOUSA DIAS                             20/10/2026 09:11:06
     
     
     
