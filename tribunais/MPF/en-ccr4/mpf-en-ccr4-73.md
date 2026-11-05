@@ -5,7 +5,7 @@
 - **Identificador:** `mpf-en-ccr4-73`
 - **Situação na fonte:** Texto atual na página; redação anterior recuperada do PDF vinculado
 - **Fonte:** [Enunciados da 4ª CCR](https://www.mpf.mp.br/atuacao/ccr4/enunciados)
-- **Fonte do texto histórico:** [Enunciado nº 73 (anterior)](https://www.mpf.mp.br/atuacao/ccr4/enunciados-1/ENUNCIADO4CCRN.73.pdf)
+- **Fonte do texto histórico:** [Enunciado nº 73 (anterior)](https://www.mpf.mp.br/atuacao/meio-ambiente-e-patrimonio-historico/legislacao/enunciados/ENUNCIADO4CCRN.73.pdf/@@download/file)
 
 ## Texto publicado
 
@@ -51,9 +51,15 @@ Coordenador Executivo da 4ª CCR-MPF
 
 Vínculos da página:
 
-- [ENUNCIADO 73 - 4ªCCR](https://www.mpf.mp.br/atuacao/ccr4/enunciados/enunciado-4a-ccr-no-73.pdf) — PDF da redação atual, duas capturas HTTP 200 de 04/11/2026 via `@@download/file`, 62.934 bytes, SHA-256 `840589c92ef2838b36fba757726b0206cdca5b3c513d10a7545a69c44a7bec4d`; duas páginas físicas lidas na imagem e na camada textual. Cabeçalho PGR-00265373/2024. O PDF atual acrescenta o rótulo “CRIMINAL.” na ementa, grafa “necessidade instauração” sem “de”, registra aprovação na 40ª Sessão de Coordenação de 04/07/2024 e lista precedentes da 4ª e da 2ª CCR; o corpo HTML acima permanece o da página.
-- [Enunciado nº 73 (anterior)](https://www.mpf.mp.br/atuacao/ccr4/enunciados-1/ENUNCIADO4CCRN.73.pdf) — texto histórico acima.
+- [ENUNCIADO 73 - 4ªCCR](https://www.mpf.mp.br/atuacao/meio-ambiente-e-patrimonio-historico/legislacao/enunciados/enunciado-4a-ccr-no-73.pdf/@@download/file) — PDF da redação atual, duas capturas HTTP 200 de 04/11/2026 via `@@download/file`, 62.934 bytes, SHA-256 `840589c92ef2838b36fba757726b0206cdca5b3c513d10a7545a69c44a7bec4d`; duas páginas físicas lidas na imagem e na camada textual. Cabeçalho PGR-00265373/2024. O PDF atual acrescenta o rótulo “CRIMINAL.” na ementa, grafa “necessidade instauração” sem “de”, registra aprovação na 40ª Sessão de Coordenação de 04/07/2024 e lista precedentes da 4ª e da 2ª CCR; o corpo HTML acima permanece o da página.
+- [Enunciado nº 73 (anterior)](https://www.mpf.mp.br/atuacao/meio-ambiente-e-patrimonio-historico/legislacao/enunciados/ENUNCIADO4CCRN.73.pdf/@@download/file) — texto histórico acima.
 
 Texto, notas, referências e riscos conferidos no HTML oficial em duas capturas HTTP 200 de 29/10/2026 com os mesmos bytes. Espaços, quebras de linha, negrito e itálico foram normalizados; riscos foram preservados. O conjunto dos caracteres não brancos do corpo do artigo foi reconstituído. A chave de autenticidade e o bloco de assinatura eletrônica da margem dos PDFs foram omitidos; nomes e funções públicas permanecem. Atas, deliberações, diários, processos, orientações e atos apenas citados ou apenas vinculados não tiveram inteiro teor incorporado e não geraram novos registros, salvo o texto histórico expressamente transcrito neste arquivo. Datas, adequações e a ausência de nota não confirmam vigência atual nem efeito vinculante. Esta série é própria da 4ª CCR e não esgota as outras séries do MPF.
 
 A grafia “necessidade instauração”, sem “de”, é a do PDF anterior e também aparece no PDF atual; o HTML da página traz “necessidade de instauração”. As duas formas foram preservadas nos respectivos blocos. A versão anterior trata só da morte do agente; a atual acrescenta a prescrição. Não há ID novo para a versão anterior.
+
+## Cotejo dos dois PDFs —05/11/2026
+
+As páginas1 da versão anterior e1–2 da atual foram integralmente cotejadas nas imagens por revisão independente. A versão anterior trata só da morte do agente; a atual abrange morte e prescrição. Notas, precedentes, datas e a grafia “necessidade instauração” conferem. O PDF atual traz “Alteração do Enunciado4ªCCR nº73”, aprovação na40ª Sessão de04/07/2024, fecho de04/07/2024 e nome de Luiza Cristina Fonseca Frischeisen, Coordenadora da4ªCCR-MPF. O corpo HTML acima continua atribuído à página, sem substituição silenciosa.
+
+Os downloads canônicos foram recapturados em05/11: anterior46.904 bytes, SHA-256 `404c342dad49490d46db0559cdcbac123367263349c19a79614733d207e2725d`; atual62.934 bytes, SHA-256 `840589c92ef2838b36fba757726b0206cdca5b3c513d10a7545a69c44a7bec4d`; ambosHTTP200application/pdf e idênticos às cópias revisadas. Assinaturas e chaves de margem não foram autenticadas. Sem novo ID ou inferência de vigência.

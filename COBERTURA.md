@@ -3086,3 +3086,7 @@ A minuta sem número da ata396ª foi vinculada ao Enunciado CSMP008 pelo process
 ### ANS — fac-símiles reais das referências recuperados, 05/11/2026
 
 Três PDFs reais do DOU foram recuperados e cotejados em imagem: p305/31-03-2022, p773/31-12-2020 e p181/20-11-2020. A errataRN462 corrige as referências às Súmulas3 e6; apoio incorporado sem ID. A referência2000 está literalmente confirmada no art59II, mas a identidade com as súmulas1 de2001/2002 continua não demonstrada. Os antigos HTMLs com extensãoPDF não foram usados. Delta zero.
+
+### MPF — histórico73/4ªCCR e fundamentação50/6ªCCR, 05/11/2026
+
+Quatro páginas dos três PDFs foram integralmente cotejadas em imagem:73anterior(1),73atual(2),fundamentação50(1). Downloads canônicos recapturadosHTTP200comhashesidênticos; URL mal resolvida do50 corrigida e vínculos73 atualizados. Histórico sómorte/atualmorteeprescrição separados. Delta zero. A identidade do bloco conjunto2009/09 continua sem prova formal e não foi fundida.
