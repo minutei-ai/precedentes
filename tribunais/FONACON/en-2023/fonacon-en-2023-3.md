@@ -9,10 +9,10 @@
 - **Captura:** 04/11/2026; HTTP 200, 4254334 bytes, SHA-256 `bce4e8f1cd064c6910ab1472317655acc067a9fd807b89699b318b74fea88be0`
 - **Espelho conferido:** [PGE/RO — mesmo PDF](https://pge.ro.gov.br/wp-content/uploads/2024/08/FONACON_ENUNCIADOS_APROVADOS-1.pdf)
 
-## Texto publicado
 
-A advocacia pública dos Estados e Distrito Federal pode, respeitadas normas de organização interna, editar orientações administrativas, com vistas a uniformizar e racionalizar os procedimentos dos órgãos da Administração Pública em matéria de contratações públicas, bem como ainda editar enunciados, com base em seus precedentes, para a orientação das unidades de assessoramento jurídico.
+- **Edição:** Enunciados Aprovados 2023 — I Seminário do FONACON
+- **Localização:** página física 5, impressa 04
 
-## Conferência e limites
+## Enunciado
 
-Texto conferido visualmente nas páginas rasterizadas do PDF oficial hospedado pela PGE/AM (espelho idêntico na PGE/RO). A camada textual do PDF foi usada como apoio e corrigida contra a imagem quando havia artefato de OCR. Aspas tipográficas de abertura/fechamento da fonte foram normalizadas apenas na delimitação do corpo; o conteúdo interno permanece literal. Menções a orientações estaduais que citam o FONACON não geram adoções locais como identidades próprias. Não se infere vigência, força vinculante ou completude histórica além do documento de 2023. O FONACON é distinto do FONACOM e da AJUFE.
+"A advocacia pública dos Estados e Distrito Federal pode, respeitadas normas de organização interna, editar orientações administrativas, com vistas a uniformizar e racionalizar os procedimentos dos órgãos da Administração Pública em matéria de contratações públicas, bem como ainda editar enunciados, com base em seus precedentes, para a orientação das unidades de assessoramento jurídico."

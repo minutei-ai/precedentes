@@ -4,7 +4,7 @@
 
 Fonte: [PGE/AM — PDF](https://www.pge.am.gov.br/wp-content/uploads/2024/03/FONACON-ENUNCIADOS-APROVADOS.pdf) (espelho PGE/RO com o mesmo SHA-256 `bce4e8f1cd064c6910ab1472317655acc067a9fd807b89699b318b74fea88be0`).
 
-As sete páginas foram rasterizadas e conferidas visualmente. Os enunciados 17 e 18 aparecem truncados no próprio PDF oficial; a transcrição preserva apenas o trecho publicado e registra o truncamento. Não foram somadas adoções estaduais nem citações em orientações de PGEs. Nenhuma vigência ou vinculação foi inferida.
+A leitura visual integral da edição foi confrontada com os 18 corpos. Os enunciados 17 e 18 estão completos. Preservam-se aspas incomuns, ordinais e a grafia “contração” no nº 11; apenas quebras de linha foram reunidas em parágrafos. A fonte não informa data de sessão ou aprovação individual. Não foram somadas adoções estaduais nem citações em orientações de PGEs. Nenhuma vigência ou vinculação foi inferida.
 
 - [Enunciado 1](fonacon-en-2023-1.md)
 - [Enunciado 2](fonacon-en-2023-2.md)
