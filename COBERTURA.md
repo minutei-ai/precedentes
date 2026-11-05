@@ -3148,3 +3148,6 @@ Integradas as 46 páginas do [Parecer Padrão 009/2022, versão 2 de março/2024
 
 
 TCEPI: segundo lote complementar de 26 páginas em oito PDFs incorporado após transcrição visual e revisão independente integral: parecer e voto da consulta17359, parecer da Consultoria Técnica16808 com cópia da Resolução961/05, parecer DFAM16592, Resolução1054/05 e quatro acórdãos de2017. Descrições de logotipos corrigidas, identificadores pessoais de assinatura ocultados e manuscritos incertos preservados. Peças vinculadas permanecem separadas e demais documentos continuam em revisão. Sem novos IDs.
+
+
+TCEPI: terceiro lote complementar com 22 páginas novas em sete PDFs, após transcrição visual e cotejo independente integral. Quatro páginas do Acórdão2207/17 repetidas no lote já estavam integradas e não foram duplicadas. Incorporados parecer DFAM16854, voto16592, voto16808, parecer MPC16626 e acórdãos16940/16980/17022. Correções de acento e itálico aplicadas; fusão rn/m e folha8[?] preservadas como incertas. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte. Sem novos IDs; demais peças continuam em revisão.
