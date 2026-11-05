@@ -22,102 +22,57 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-             /
-    
-    
-    
-                   ESTADO DO PIAUÍ
-                   TRIBUNAL DE CONTAS
-    
-    
-                          Acórdão n o 1.58612009
-    
-    
-    
-                                          Consulta formulada ao Tribunal de Contas do
-                                          Estado do Piauí pelo Presidente da Câmara
-                                          Municipal de Teresina, Sr. Renato Pires Berger.
-                                          Contratação de mão-de-obra terceirizada.
-                                          Cálculos dos valores resultantes dos
-                                          pagamentos aos agentes de fato integram
-                                          despesa total com pessoal, na forma prevista no
-                                          art. 18, caput da Lei Complementar n° 10112000,
-                                          parã fins de cálculos dos limites previstos no art.
-                                          19 do referido diploma legal. Decisão unânime.
-    
-    
-    
-    Processo TC-E NÕ. 23.807109
-    
-    Decisão n°. 815 109
-    
-    Sessão Plenária Ordinária n°. 42
-    
-    RELATOR: Olavo Rebêlo de Carvalho Filho
-    
-    
-    
-    
-                      O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ, examinando o
-    processo TC-E no. 23.807/09 referente à consulta formulada pelo Presidente da
-    Câmara Municipal de Teresina, Sr. Renato Pires Berger, pretendendo obter o
-    posicionamento da Corte de Contas sobre qual deva ser os vlores relativos à
-    contratação de mão-de-obra terceirizada e se os valores resultantes dos pagamentos
-    aos agentes de fato deverão ser somados à despesa total com pessoal, prevista no
-     art.18, caput da Lei Complementar n° 101/2000, para fins de cálculos dos limites
-     previstos no art. 19 do mesmo diploma, como se constata pelo conteúdo do TC-N n°.
-     23.807/09 acostado às (fis. 02/04) dos autos.
-    
+**ESTADO DO PIAUÍ**
+
+**TRIBUNAL DE CONTAS**
+
+[Nota editorial: brasão com inscrição ESTADO DO PIAUÍ.]
+
+**Acórdão nº 1.586/2009**
+
+**Consulta formulada ao Tribunal de Contas do Estado do Piauí pelo Presidente da Câmara Municipal de Teresina, Sr. Renato Pires Berger. Contratação de mão-de-obra terceirizada. Cálculos dos valores resultantes dos pagamentos aos agentes de fato integram despesa total com pessoal, na forma prevista no art. 18, caput da Lei Complementar nº 101/2000, para fins de cálculos dos limites previstos no art. 19 do referido diploma legal. Decisão unânime.**
+
+Processo TC-E Nº. 23.807/09
+
+Decisão nº. 815 /09
+
+Sessão Plenária Ordinária nº. 42
+
+RELATOR: Olavo Rebêlo de Carvalho Filho
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ**, examinando o processo TC-E nº. 23.807/09 referente à consulta formulada pelo Presidente da Câmara Municipal de Teresina, Sr. Renato Pires Berger, pretendendo obter o posicionamento da Corte de Contas sobre qual deva ser os valores relativos à contratação de mão-de-obra terceirizada e se os valores resultantes dos pagamentos aos agentes de fato deverão ser somados à despesa total com pessoal, prevista no art.18, caput da Lei Complementar nº 101/2000, para fins de cálculos dos limites previstos no art. 19 do mesmo diploma, como se constata pelo conteúdo do TC-N nº. 23.807/09 acostado às (fls. 02/04) dos autos.
+
+[Nota de cotejo: transcrição desta página conferida integralmente em revisão independente por imagem. Preservadas as variantes da fonte; assinaturas não autenticadas.]
 
 #### Página 2 do PDF oficial
 
-          00
-    
-    
-    
-               • ESTADO DO PIAUÍ
-                  TRIBUNAL DE CONTAS
-    
-    
-                          Acórdão n°        1.58612009
-                      Vistos, relatados e discutidos os presentes autos, decidiu o Plenário,
-    unânime, nos termos do voto do Relator (fls.15/18), pelo conhecimento da presente
-    consulta, pélas razões e fundamentos expostos no despacho do Presidente, prolatado
-    à fI. (05), e, quanto ao mérito, contrário ao Parecer da Consultoria Técnica n° 35109
-    (fls.08/11) e ao Parecer do Ministério Público de Contas (fI. 13), devendo ser
-    considerada como decisão aplicada à presente consulta a Resolução TCE n° 49108 de
-    17/01/08, publicada no Diário da Justiça n° 6.026, de 25 de janeiro de 2008.
-    
-                   Decidiu, ainda, o Plenário, unânime, por encaminhar ao Consulente,
-    Presidente da Câmara Municipal de Teresina, Sr. Renato Pires Berger, cópia autêntica
-    da referida Resolução e do Acórdão desta Corte de Contas, que a aprovou como
-    posicionamento sobre a consulta formulada.
-    
-    
-                     Presentes os Conselheiros Abelardo Pio Vilanova e Silva
-    (Presidente), Luciano Nunes Santos, Joaquim Kennedy Nogueira Barros, Waltânia
-    Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho, e o Cons.
-    Substituto Alisson Felipe de Araújo, convocado para substituir o Conselheiro Anfrísio
-    Neto Lobão Castelo Branco(ausente por motivo justificado).
-    
-                    Representante do MP de Contas presente:                Procurador-Geral
-     Leandro Maciel do Nascimento.
-    
-    Transcreva-se, Publique-se, Cumpra-se e Encaminhe-se.
-    
-     Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina,
-     10 de setembro de 2009.
-    
-    
-    
-     Cons. Abelardo Pio Vilanova e Silva                                         Presidente
-    
-    
-     Cons. Olavo Rebêlo de Carvalho Filho                                            Relator
-    
-    
-     Representante do MP de Contas: Leandro Maciel do Nascimento              Procurador -
-     Geral do TCE/Pl
+**ESTADO DO PIAUÍ**
+
+**TRIBUNAL DE CONTAS**
+
+[Nota editorial: brasão com inscrição ESTADO DO PIAUÍ.]
+
+**Acórdão nº 1.586/2009**
+
+Vistos, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, nos termos do voto do Relator (fls.15/18), pelo **conhecimento** da presente consulta, pelas razões e fundamentos expostos no despacho do Presidente, prolatado à fl. (05), e, quanto ao mérito, contrário ao Parecer da Consultoria Técnica n° 35/09 (fls.08/11) e ao Parecer do Ministério Público de Contas (fl. 13), devendo ser considerada como decisão aplicada à presente consulta a Resolução TCE n° 49/08 de 17/01/08, publicada no Diário da Justiça n° 6.026, de 25 de janeiro de 2008.
+
+Decidiu, ainda, o Plenário, unânime, por encaminhar ao Consulente, Presidente da Câmara Municipal de Teresina, Sr. Renato Pires Berger, cópia autêntica da referida Resolução e do Acórdão desta Corte de Contas, que a aprovou como posicionamento sobre a consulta formulada.
+
+**Presentes os Conselheiros** Abelardo Pio Vilanova e Silva (Presidente), Luciano Nunes Santos, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho, e o Cons. Substituto Alisson Felipe de Araújo, convocado para substituir o Conselheiro Anfrísio Neto Lobão Castelo Branco(ausente por motivo justificado).
+
+**Representante do MP de Contas presente**: Procurador-Geral Leandro Maciel do Nascimento.
+
+Transcreva-se, Publique-se, Cumpra-se e Encaminhe-se.
+
+Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina, 10 de setembro de 2009.
+
+Cons. **Abelardo Pio Vilanova e Silva** Presidente
+
+Cons. **Olavo Rebêlo de Carvalho Filho** Relator
+
+Representante do MP de Contas: **Leandro Maciel do Nascimento** Procurador - Geral do TCE/PI
+
+[Nota de cotejo: transcrição desta página conferida integralmente em revisão independente por imagem. Preservadas as variantes da fonte; assinaturas não autenticadas.]
 
 ## Ementa
 

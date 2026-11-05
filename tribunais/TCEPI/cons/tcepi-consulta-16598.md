@@ -685,54 +685,33 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 3 do PDF oficial
 
-                          Estado do Piauí
-                          Tribunal de Contas
-                          Ministério Público de Contas
-    
-    
-    
-    
-                                         dela decorrentes; (Incluído pela Emenda Constitucional nº 19,
-                                         de 1998)
-                                         II - se houver autorização específica na lei de diretrizes
-                                         orçamentárias, ressalvadas as empresas públicas e as
-                                         sociedades de economia mista. (Incluído pela Emenda
-                                         Constitucional nº 19, de 1998)
-    
-    
-                            A norma constitucional acima reproduzida ainda dita regras
-    (parágrafos 2º ao 7º) para a adaptação dos gastos com despesas de pessoal, vez que possui
-    como finalidade primordial a busca por uma gestão governamental mais responsável,
-    controlada e comedida, buscando impor limites à Administração Pública, objetivando evitar
-    futuros problemas financeiros, isto porque a despesa de pessoal é uma despesa corrente de
-    caráter continuado, que pode onerar as finanças públicas periódica e continuamente por um
-    período indeterminado, logo, merece um maior zelo no seu controle.
-                            A Carta Magna menciona que os limites de despesa com pessoal
-    serão estabelecidos por uma lei complementar. Para tanto foi editada a Lei Complementar nº
-    101/00, nacionalmente conhecida como a Lei de Responsabilidade Fiscal e que tem como um
-    seus principais pilares o planejamento, a prudência fiscal, o controle, a transparência e a
-    responsabilização.
-                            O controle é vislumbrado tanto no tocante à arrecadação das receitas
-    quanto na aplicação das despesas públicas, visando à construção de uma Administração
-    Pública pautada na gestão financeira responsável e sadia. Com intuito de garantir essa saúde
-    financeira, bem como regulamentar o transcrito artigo 169 da Constituição Federal, a LRF
-    estabeleceu os limites de endividamento com pessoal em seus artigos 18, 19 e 20, definindo o
-    que é despesa com pessoal e quais despesas não se enquadram neste conceito. Além disto,
-    fixou o teto máximo de gastos desta natureza e estatuiu os casos de nulidade dos atos, ao
-    definir no art. 21:
-                                         Art. 21. É nulo de pleno direito o ato que provoque aumento da
-                                         despesa com pessoal e não atenda:
-                                         I - as exigências dos arts. 16 e 17 desta Lei Complementar, e o
-                                                                                        o
-                                         disposto no inciso XIII do art. 37 e no § 1 do art. 169 da
-                                         Constituição;
-                                         II - o limite legal de comprometimento aplicado às despesas
-                                         com pessoal inativo.
-                                         Parágrafo único. Também é nulo de pleno direito o ato de que
-                                         resulte aumento da despesa com pessoal expedido nos cento e
-                                         oitenta dias anteriores ao final do mandato do titular do
-                                         respectivo Poder ou órgão referido no art. 20.
-    
+Estado do Piauí
+
+Tribunal de Contas
+
+Ministério Público de Contas
+
+[Nota editorial: brasão com inscrição ESTADO DO PIAUÍ e emblema com legenda Ministério Público de Contas do Piauí.]
+
+dela decorrentes; <u>(Incluído pela Emenda Constitucional nº 19, de 1998)</u>
+
+II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista. <u>(Incluído pela Emenda Constitucional nº 19, de 1998)</u>
+
+A norma constitucional acima reproduzida ainda dita regras (parágrafos 2º ao 7º) para a adaptação dos gastos com despesas de pessoal, vez que possui como finalidade primordial a busca por uma gestão governamental mais responsável, controlada e comedida, buscando impor limites à Administração Pública, objetivando evitar futuros problemas financeiros, isto porque a despesa de pessoal é uma despesa corrente de caráter continuado, que pode onerar as finanças públicas periódica e continuamente por um período indeterminado, logo, merece um maior zelo no seu controle.
+
+A Carta Magna menciona que os limites de despesa com pessoal serão estabelecidos por uma lei complementar. Para tanto foi editada a Lei Complementar nº 101/00, nacionalmente conhecida como a Lei de Responsabilidade Fiscal e que tem como um seus principais pilares o planejamento, a prudência fiscal, o controle, a transparência e a responsabilização.
+
+O controle é vislumbrado tanto no tocante à arrecadação das receitas quanto na aplicação das despesas públicas, visando à construção de uma Administração Pública pautada na gestão financeira responsável e sadia. Com intuito de garantir essa saúde financeira, bem como regulamentar o transcrito artigo 169 da Constituição Federal, a LRF estabeleceu os limites de endividamento com pessoal em seus artigos 18, 19 e 20, definindo o que é despesa com pessoal e quais despesas não se enquadram neste conceito. Além disto, fixou o teto máximo de gastos desta natureza e estatuiu os casos de nulidade dos atos, ao definir no art. 21:
+
+Art. 21. É nulo de pleno direito o ato que provoque aumento da despesa com pessoal e não atenda:
+
+I - as exigências dos arts. 16 e 17 desta Lei Complementar, e o disposto no inciso XIII do art. 37 e no § 1º do art. 169 da Constituição;
+
+II - o limite legal de comprometimento aplicado às despesas com pessoal inativo.
+
+<u>Parágrafo único</u>. Também é nulo de pleno direito o ato de que resulte aumento da despesa com pessoal expedido nos cento e oitenta dias anteriores ao final do mandato do titular do respectivo Poder ou órgão referido no art. 20.
+
+[Nota de cotejo: transcrição desta página conferida integralmente em revisão independente por imagem. Preservadas as variantes da fonte; assinaturas não autenticadas. Esta folha não traz identificação processual autônoma. A identificação do Parecer 2014RC0002 e do processo TC/010674/2014 é expressa na página 1 examinada no cotejo anterior; o cotejo independente desta folha não revalida essa página. Não se completa identificação pelo número físico ou pela sequência.]
 
 #### Página 4 do PDF oficial
 
@@ -832,52 +811,29 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 6 do PDF oficial
 
-                            Estado do Piauí
-                            Tribunal de Contas
-                            Ministério Público de Contas
-    
-    
-    
-    
-    novas despesas sem contrapartida dos recursos correspondentes, criada no final de uma
-    administração e que para atendimento de interesses próprios venha onerar exercícios
-    financeiros de responsabilidade de outro mandatário. Mas todas convergem para o
-    atendimento       aos   princípios   constitucionais   da    moralidade,   da    razoabilidade    e
-    proporcionalidade.
-                               Cumpre observar que a LRF ao ser editada e publicada revogou, em
-                                                                 o
-    seu art. 75, apenas as disposições da Lei Complementar n 96/99 que disciplinava os limites de
-    despesa com pessoal e também não trazia exceções em seu texto, sem revogar ou fazer
-    referência a qualquer outro dispositivo de lei que trouxesse ressalvas às proibições nela
-    contidas, como é o caso das exceções do inciso V, art. 73, da Lei nº 9.504/97. Desta forma,
-    com a interpretação sistêmica e teleológica, abrangendo as normas e princípios da
-    Constituição Federal e a legislação eleitoral, as vedações contidas no parágrafo único do art.
-    21 da LRF esbarram nas exceções detalhadas no inciso V, do art. 73 da Lei nº 9.504/97, acima
-    transcritas, desde que cumpridas as exigências do inciso I do art. 21 da LRF, ou seja, se dado
-                                                                                              o
-    cumprimento aos arts. 16 e 17 da LRF, ao disposto no inciso XIII do art. 37 e no § 1 do art.
-    169 da Constituição; e em caso de nomeação de cargos por concurso público, se este foi
-    homologado até três meses antes do pleito.
-                               Desse     modo,    para     dar   atendimento   aos     princípios    da
-    indisponibilidade do interesse público, da eficiência e da continuidade do serviço público, nada
-    obsta a nomeação nas hipóteses excepcionadas pelo art. V do Art. 73 da Lei 9.504/97, pois a
-    Lei de Responsabilidade Fiscal, a Constituição Federal e a Lei nº 9.504/97 não têm por
-    finalidade vedar todo e qualquer ato, mas tão somente aquele influenciado com a imoralidade
-    administrativa.
-    
-    
-    4. CONCLUSÃO
-                               Mediante o exposto, opina o Ministério Público de Contas:
-    
-    
-                               a) Pelo conhecimento da presente consulta, por estarem atendidos
-    os requisitos encartados no art. 201, I, “d”, e § 1º, do Regimento Interno desta Corte;
-                               b) Pela resposta positiva ao questionamento de que frente ao
-    disposto no art. 21, parágrafo único da LC n° 101/00, respeitando as exigências dos arts. 16 e
-    17 da mesma Lei e o disposto no inciso XIII do art. 37 e no §1° do art. 169 da Constituição,
-    pode haver, nos 180 dias anteriores ao final do mandato do titular do respectivo Poder ou
-    Órgão referido no art. 20, pode haver nomeação ou exoneração dos cargos em comissão e
-    
+Estado do Piauí
+
+Tribunal de Contas
+
+Ministério Público de Contas
+
+[Nota editorial: brasão com inscrição ESTADO DO PIAUÍ e emblema com legenda Ministério Público de Contas do Piauí.]
+
+novas despesas sem contrapartida dos recursos correspondentes, criada no final de uma administração e que para atendimento de interesses próprios venha onerar exercícios financeiros de responsabilidade de outro mandatário. Mas todas convergem para o atendimento aos princípios constitucionais da moralidade, da razoabilidade e proporcionalidade.
+
+Cumpre observar que a LRF ao ser editada e publicada revogou, em seu art. 75, apenas as disposições da Lei Complementar nº 96/99 que disciplinava os limites de despesa com pessoal e também não trazia exceções em seu texto, sem revogar ou fazer referência a qualquer outro dispositivo de lei que trouxesse ressalvas às proibições nela contidas, como é o caso das exceções do inciso V, art. 73, da Lei nº 9.504/97. Desta forma, com a interpretação sistêmica e teleológica, abrangendo as normas e princípios da Constituição Federal e a legislação eleitoral, as vedações contidas no parágrafo único do art. 21 da LRF esbarram nas exceções detalhadas no inciso V, do art. 73 da Lei nº 9.504/97, acima transcritas, **desde que** cumpridas as exigências do inciso I do art. 21 da LRF, ou seja, se dado cumprimento aos arts. 16 e 17 da LRF, ao disposto no inciso XIII do art. 37 e no § 1º do art. 169 da Constituição; e em caso de nomeação de cargos por concurso público, se este foi homologado até três meses antes do pleito.
+
+Desse modo, para dar atendimento aos princípios da indisponibilidade do interesse público, da eficiência e da continuidade do serviço público, nada obsta a nomeação nas hipóteses excepcionadas pelo art. V do Art. 73 da Lei 9.504/97, pois a Lei de Responsabilidade Fiscal, a Constituição Federal e a Lei nº 9.504/97 não têm por finalidade vedar todo e qualquer ato, mas tão somente aquele influenciado com a imoralidade administrativa.
+
+**4. CONCLUSÃO**
+
+Mediante o exposto, opina o Ministério Público de Contas:
+
+a) Pelo **conhecimento** da presente consulta, por estarem atendidos os requisitos encartados no art. 201, I, “d”, e § 1º, do Regimento Interno desta Corte;
+
+b) Pela **resposta positiva** ao questionamento de que frente ao disposto no art. 21, parágrafo único da LC n° 101/00, respeitando as exigências dos arts. 16 e 17 da mesma Lei e o disposto no inciso XIII do art. 37 e no §1° do art. 169 da Constituição, pode haver, nos 180 dias anteriores ao final do mandato do titular do respectivo Poder ou Órgão referido no art. 20, pode haver nomeação ou exoneração dos cargos em comissão e
+
+[Nota de cotejo: transcrição desta página conferida integralmente em revisão independente por imagem. Preservadas as variantes da fonte; assinaturas não autenticadas. Esta folha não traz identificação processual autônoma. A identificação do Parecer 2014RC0002 e do processo TC/010674/2014 é expressa na página 1 examinada no cotejo anterior; o cotejo independente desta folha não revalida essa página. Não se completa identificação pelo número físico ou pela sequência.]
 
 #### Página 7 do PDF oficial
 

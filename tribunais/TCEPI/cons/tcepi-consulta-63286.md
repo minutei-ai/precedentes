@@ -282,29 +282,28 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 6 do PDF oficial
 
-                                                 ASSINATURA DIGITAL
-    
-    
-    
-    Certificamos que a peça nº 16 está assinada digitalmente por:
-    
-                                       IDENTIFICAÇÃO DO(S) ASSINANTE(S)
-    
-           CPF/CNPJ                                         Nome                                       Data e hora
-    
-         ***.*96.215-**                  ABELARDO PIO VILANOVA E SILVA                            20/08/2026 10:51:48
-    
-    
-    
-    
-    Protocolo: 007773/2026
-    Código de verificação: 00884077-0759-4A7C-B8F3-5CDECDD4F01C
-    Portal de validação: https://portal.tce.pi.gov.br/eprocesso/validador/documento
-    
-    
-    
-    A validade deste documento está sujeita à comprovação de sua autenticidade no respectivo portal de validação, por meio de
-                         leitura do qrCode ou código de verificação acima. Gerado em 24/08/2026 09:18
+[Logomarca Tribunal de Contas do Estado do Piauí e brasão]
+
+**ASSINATURA DIGITAL**
+
+Certificamos que a peça nº 16 está assinada digitalmente por:
+
+**IDENTIFICAÇÃO DO(S) ASSINANTE(S)**
+
+| CPF/CNPJ | Nome | Data e hora |
+| --- | --- | --- |
+| [CPF ocultado] | ABELARDO PIO VILANOVA E SILVA | 20/08/2026 10:51:48 |
+
+**Protocolo:** 007773/2026
+**Código de verificação:** 00884077-0759-4A7C-B8F3-5CDECDD4F01C
+**Portal de validação:** https://portal.tce.pi.gov.br/eprocesso/validador/documento
+
+[QR code à direita; não decodificado]
+
+A validade deste documento está sujeita à comprovação de sua autenticidade no respectivo portal de validação, por meio de
+leitura do qrCode ou código de verificação acima. Gerado em 24/08/2026 09:18
+
+[Nota de cotejo: transcrição desta página conferida integralmente em revisão independente por imagem. Preservadas as variantes da fonte; assinaturas não autenticadas. Folha de ASSINATURA DIGITAL do exemplar vinculado. Não nomeia autonomamente o acórdão; o vínculo com ato específico não foi demonstrado nesta folha. CPF ocultado integralmente. Declarações de certificação são texto da fonte; assinatura e QR não foram validados.]
 
 ## Ementa
 
