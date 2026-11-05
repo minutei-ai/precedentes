@@ -8,7 +8,7 @@ Foram reconsultadas as 215 fichas que tinham eventos históricos com `idDocument
 
 Dessas fichas, 210 aparecem nos resultados atuais da busca. As fichas [1854](https://www.tcees.tc.br/biblioteca/ato-normativo/detalhes-ato-nomativo/?id=1854), [1861](https://www.tcees.tc.br/biblioteca/ato-normativo/detalhes-ato-nomativo/?id=1861), [1910](https://www.tcees.tc.br/biblioteca/ato-normativo/detalhes-ato-nomativo/?id=1910), [1958](https://www.tcees.tc.br/biblioteca/ato-normativo/detalhes-ato-nomativo/?id=1958) e [1990](https://www.tcees.tc.br/biblioteca/ato-normativo/detalhes-ato-nomativo/?id=1990) continuam acessíveis pelo detalhe direto. A ausência na busca não foi interpretada como exclusão ou revogação.
 
-Esta conferência abrange metadados, vínculos e identidade dos documentos, não leitura dos 215 corpos. A consulta 2330 teve somente a página 24 do documento atual 3361706 reaberta em imagem e confirmada em branco. O documento 3361135, da consulta 1720, continua com revisão textual pendente. Delta de registros: zero.
+Esta conferência abrange metadados, vínculos e identidade dos documentos, não leitura dos 215 corpos. A consulta 2330 teve somente a página 24 do documento atual 3361706 reaberta em imagem e confirmada em branco. O documento 3361135, da consulta 1720, teve suas oito páginas transcritas e conferidas em imagem; a V1 continua separada. Delta de registros: zero.
 
 - [CONSULTA 00002/2006](tcees-consulta-1466.md) — Situação não informada
 - [CONSULTA 00003/2008](tcees-consulta-1467.md) — Situação não informada
