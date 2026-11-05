@@ -28,15 +28,16 @@ II- Determinar a devolução dos autos para diligência, quando necessária ao r
 
 ## Conferência e limites
 
-Texto integral do bloco HTML, com cabeçalho, título, corpo e nota de sessão e publicação. Conferido em duas capturas HTTP 200 de 29/10/2026 com bytes idênticos: SHA-256 `063231f10e29a42db07296f8d5b407b88ec9b0e3868160df88023110d321c007`, 39.097 bytes em cada captura. Espaços, quebras de linha e negrito/itálico foram normalizados. Grafias, números, datas e pontuação da fonte foram preservados. Os diários, resoluções, normas, orientações e julgados apenas citados não foram lidos como documentos autônomos nem geraram novos identificadores. Não houve leitura de PDF nem OCR neste lote.
+Texto integral do bloco HTML, com cabeçalho, título, corpo e nota de sessão e publicação. Conferido em duas capturas HTTP 200 de 29/10/2026 com bytes idênticos: SHA-256 `063231f10e29a42db07296f8d5b407b88ec9b0e3868160df88023110d321c007`, 39.097 bytes em cada captura. Espaços, quebras de linha e negrito/itálico foram normalizados. Grafias, números, datas e pontuação da fonte foram preservados. Os diários, resoluções, normas, orientações e julgados apenas citados não foram lidos como documentos autônomos nem geraram novos identificadores. Não houve leitura de PDF nem OCR naquele lote HTML; a seção histórica abaixo teve conferência própria nas imagens do DOU.
 
 ## Texto histórico — DOU de 26/03/2015
 
 - **Ato em que o trecho está publicado:** Ata da 49ª Sessão Extraordinária da CCR/MPT (continuação; a própria ata registra reabertura em 10/03/2015)
-- **Publicação:** Diário Oficial da União nº 58, Seção 1, 26/03/2015, página impressa 77
+- **Publicação:** Diário Oficial da União nº 58, Seção 1, 26/03/2015, páginas impressas 76–77
 - **Fonte do PDF:** [DOU nº 58, Seção 1, página 77 — INPDFViewer](https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?jornal=1&pagina=77&data=26/03/2015&captchafield=firstAccess)
 - **SHA-256 do arquivo:** `76854e49ad34908b596f70a4408a946ce0ecd74d4d7f5bdff2ebba7241e495cc`
 - **Tamanho:** 48909 bytes
+- **Início na página 76:** [PDF oficial do INPDFViewer](https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?jornal=1&pagina=76&data=26%2F03%2F2015&captchafield=firstAccess), 55.298 bytes, SHA-256 `187c394ba9fd62d4d1b6262c0acc70b538131b1349529d05bb9fd3261d7f131e`. Recapturado em 05/11/2026, HTTP 200, com bytes idênticos ao arquivo usado no cotejo.
 
 O enunciado começa no fim da página impressa 76 e continua no início da página 77. A íntegra abaixo reúne os dois trechos.
 
@@ -48,4 +49,6 @@ Vencido o Dr. Manoel Jorge e Silva Neto quanto à redação do enunciado.
 
 ### Conferência e limites do histórico
 
-Bloco delimitado na página impressa 77 do DOU nº 58, Seção 1, de 26/03/2015 (continuação da ata da 49ª Sessão Extraordinária da CCR/MPT). PDF oficial obtido em 04/11/2026 via `INPDFViewer` (`jornal=1&pagina=77&data=26/03/2015`), 48909 bytes, SHA-256 `76854e49ad34908b596f70a4408a946ce0ecd74d4d7f5bdff2ebba7241e495cc`. Página renderizada conferida visualmente contra a camada textual; hífens de fim de linha reunidos; hífens vocabulares preservados. Cabeçalho/rodapé gráficos e código de autenticação `00012015032600077` não transcritos. A ausência deste número na página HTML de enunciados de 2026 não foi convertida em cancelamento. Não se inferiu vigência atual nem efeito vinculante. Atos e normas apenas citados não geraram identificadores.
+Bloco distribuído entre as páginas impressas 76 e 77 do DOU nº 58, Seção 1, de 26/03/2015 (continuação da ata da 49ª Sessão Extraordinária da CCR/MPT). PDF oficial obtido em 04/11/2026 via `INPDFViewer` (`jornal=1&pagina=77&data=26/03/2015`), 48909 bytes, SHA-256 `76854e49ad34908b596f70a4408a946ce0ecd74d4d7f5bdff2ebba7241e495cc`. Página renderizada conferida visualmente contra a camada textual; hífens de fim de linha reunidos; hífens vocabulares preservados. Cabeçalho/rodapé gráficos e códigos de autenticação `00012015032600076` e `00012015032600077` não transcritos. A ausência deste número na página HTML de enunciados de 2026 não foi convertida em cancelamento. Não se inferiu vigência atual nem efeito vinculante. Atos e normas apenas citados não geraram identificadores.
+
+A revisão independente de 05/11/2026 confrontou integralmente as duas partes do bloco e sua nota de voto vencido com as imagens. A junção entre as páginas não perde nem duplica texto. A deliberação do nº 8 está no trecho da sessão de 25/02/2015; a reabertura em 10/03/2015 é outro momento da ata, não data atribuída a este bloco. As duas referências de publicação acima identificam os arquivos distintos das páginas 76 e 77.

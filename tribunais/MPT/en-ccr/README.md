@@ -1,6 +1,6 @@
 # MPT · Enunciados da CCR
 
-35 registros: 29 da [página oficial de enunciados](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) (capturas 29/10/2026 e 04/11/2026 idênticas) e seis históricos recuperados no DOU de 2015. Os nºs 1, 2 e 5 aparecem abaixo como textos históricos, sem situação posterior comprovada. Os nºs 9, 10 e 18 foram recuperados na página impressa 77 do DOU de 26/03/2015; o nº 23 continua sem texto recuperado. A ausência no HTML não comprova cancelamento nem inexistência. Os nºs 3, 4, 6, 7 e 8 também conservam a redação histórica e as votações publicadas em 2015, junto ao texto da página de 2026 quando existir. Outras redações e séries permanecem pendentes.
+36 registros: 29 da [página oficial de enunciados](https://mpt.mp.br/pgt/ccr/enunciados-da-ccr-mpt) (capturas 29/10/2026 e 04/11/2026 idênticas) e sete históricos recuperados no DOU (seis em 2015 e o nº 23 em 2018). Os nºs 1, 2 e 5 aparecem abaixo como textos históricos, sem situação posterior comprovada. Os nºs 9, 10 e 18 foram recuperados na página impressa 77 do DOU de 26/03/2015; o nº 23 foi recuperado na página 263 do DOU de 30/11/2018. A ausência no HTML não comprova cancelamento nem inexistência. Os nºs 3, 4, 6, 7 e 8 também conservam a redação histórica e as votações publicadas em 2015, junto ao texto da página de 2026 quando existir. Outras redações e séries permanecem pendentes.
 
 | Número | Título publicado |
 | --- | --- |
@@ -48,5 +48,8 @@
 | [9](mpt-en-ccr-9.md) | Notícia de fato inepta / omissão do denunciante — redação publicada em 2015 |
 | [10](mpt-en-ccr-10.md) | Celebração de TAC / não conhecimento da remessa — redação publicada em 2015 |
 | [18](mpt-en-ccr-18.md) | Conflito negativo de atribuições / prazo art. 12 Res. 69 — redação publicada em 2015 |
+| [23](mpt-en-ccr-23.md) | Rito procedimental e arquivamento parcial — redação publicada em 2018 |
 
 A página impressa 76 (Biblioteca do MPF) cobre os nºs 1–7 e o início do 8. A página 77 foi recuperada em 04/11/2026 via `INPDFViewer` do Imprensa Nacional (48909 bytes, SHA-256 `76854e49ad34908b596f70a4408a946ce0ecd74d4d7f5bdff2ebba7241e495cc`) e completa o nº 8 e os nºs 9–19 da ata. O nº 23 não aparece nessa página. A consulta `pesquisa.in.gov.br/.../visualiza/index.jsp` para a página 77 devolveu HTML mínimo (≈1 KB) e não substitui o PDF do servlet.
+
+O nº 23 pertence à Ata da 264ª Sessão Ordinária de 27/11/2018 e foi publicado em 30/11/2018, p.263. A ausência na captura HTML não foi presumida como cancelamento. Para o início do nº 8, o PDF do INPDFViewer da p.76 foi recapturado em 05/11/2026, com hash idêntico ao arquivo cotejado; a fonte da página não fica limitada à cópia da Biblioteca do MPF.

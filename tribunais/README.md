@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Inventário estrutural e deltas de 05/11/2026: 43.871 identidades em 211 órgãos.** A última recontagem integral, no commit [`de85dcc94`](https://github.com/minutei-ai/precedentes/commit/de85dcc94b534730c04c706a1b2062ec89eeaaa8), confirmou 43.868 arquivos com Identificador e 43.868 IDs únicos, sem duplicatas. As integrações posteriores do PGEPE 004/2023, do Assento MPAL 008/2019 e da Súmula administrativa TJMRS 01/2018 acrescentaram três IDs conferidos como distintos; não houve nova recontagem integral após esses deltas. Documentos complementares com Registro relacionado/Identificador de suporte ficam fora da contagem. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
+**Inventário estrutural e deltas de 05/11/2026: 43.872 identidades em 211 órgãos.** A última recontagem integral, no commit [`de85dcc94`](https://github.com/minutei-ai/precedentes/commit/de85dcc94b534730c04c706a1b2062ec89eeaaa8), confirmou 43.868 arquivos com Identificador e 43.868 IDs únicos, sem duplicatas. As integrações posteriores do PGEPE 004/2023, do Assento MPAL 008/2019, da Súmula administrativa TJMRS 01/2018 e do Enunciado MPT 23 acrescentaram quatro IDs conferidos como distintos; não houve nova recontagem integral após esses deltas. Documentos complementares com Registro relacionado/Identificador de suporte ficam fora da contagem. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -71,7 +71,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [MPSC](MPSC/) | 25 |
 | [MPSE](MPSE/) | 54 |
 | [MPSP](MPSP/) | 80 |
-| [MPT](MPT/) | 35 |
+| [MPT](MPT/) | 36 |
 | [PGDF](PGDF/) | 18 |
 | [PGEAL](PGEAL/) | 43 |
 | [PGEAP](PGEAP/) | 18 |
@@ -217,4 +217,4 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TRT24](TRT24/) | 99 |
 | [TSE](TSE/) | 73 |
 | [TST](TST/) | 1.613 |
-| **Total** | **43.871** |
+| **Total** | **43.872** |
