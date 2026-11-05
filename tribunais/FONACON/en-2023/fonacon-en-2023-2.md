@@ -6,6 +6,10 @@
 - **Identificador:** `fonacon-en-2023-2`
 - **Fonte:** [PGE/AM — FONACON Enunciados Aprovados 2023 (PDF, 7 p.)](https://www.pge.am.gov.br/wp-content/uploads/2024/03/FONACON-ENUNCIADOS-APROVADOS.pdf)
 
-## Revisão documental pendente
 
-A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.
+- **Edição:** Enunciados Aprovados 2023 — I Seminário do FONACON
+- **Localização:** página física 5, impressa 04
+
+## Enunciado
+
+"É ilegal a inclusão no edital de cláusula que impeça a participação de empresas que estejam em recuperação judicial, das quais poderá ser exigida a apresentação, durante a fase de habilitação, do Plano de Recuperação Judicial já homologado pelo juízo competente e em pleno vigor, sem prejuízo do atendimento de todos os demais requisitos de habilitação econômico-financeira estabelecidos no edital.”

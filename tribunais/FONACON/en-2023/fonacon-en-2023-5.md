@@ -6,6 +6,10 @@
 - **Identificador:** `fonacon-en-2023-5`
 - **Fonte:** [PGE/AM — FONACON Enunciados Aprovados 2023 (PDF, 7 p.)](https://www.pge.am.gov.br/wp-content/uploads/2024/03/FONACON-ENUNCIADOS-APROVADOS.pdf)
 
-## Revisão documental pendente
 
-A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.
+- **Edição:** Enunciados Aprovados 2023 — I Seminário do FONACON
+- **Localização:** página física 5, impressa 04
+
+## Enunciado
+
+"As condições para alteração e atualização periódica dos preços registrados, conforme exige o art. 82 da Lei Federal nº 14.133/2021, deverão estar previstas no edital de licitação, em conformidade com o regulamento editado pelo respectivo ente federativo."

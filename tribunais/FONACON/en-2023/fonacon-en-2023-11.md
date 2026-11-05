@@ -6,6 +6,12 @@
 - **Identificador:** `fonacon-en-2023-11`
 - **Fonte:** [PGE/AM — FONACON Enunciados Aprovados 2023 (PDF, 7 p.)](https://www.pge.am.gov.br/wp-content/uploads/2024/03/FONACON-ENUNCIADOS-APROVADOS.pdf)
 
-## Revisão documental pendente
 
-A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.
+- **Edição:** Enunciados Aprovados 2023 — I Seminário do FONACON
+- **Localização:** página física 6, impressa 05
+
+## Enunciado
+
+“A competência atribuída à comissão de licitação referida no art. 64, §1o, da Lei Federal nº 14.133/2021 será exercida pelo agente de contração ou comissão de contratação, conforme o caso.”
+
+Nota editorial: “contração” consta na fonte.
