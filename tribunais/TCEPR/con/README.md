@@ -935,3 +935,8 @@
 - [CON 1080/2009](tcepr-con-ref-8a91494299061b7e0199063ba6b51293.md) — Situação não informada
 - [CON 1855/2011](tcepr-con-ref-8a91494299061b7e0199063d7c7828cf.md) — Situação não informada
 - [CON 1294/2019](tcepr-con-ref-8a91494299061b7e0199063d7c9028e7.md) — Situação não informada
+
+
+## Acórdão 1108/2020 — inteiro teor recuperado e conferido
+
+O [registro 1108/2020](tcepr-con-ref-8a91494299061b7e01990624e2633808.md) inclui agora a transcrição das 15 páginas do documento principal, com revisão visual integral e notas 1–6 separadas do corpo. ID e contagem permanecem inalterados. A recuperação não certifica os outros 12 candidatos do lote nem a completude histórica da série (#194).

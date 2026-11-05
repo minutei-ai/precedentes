@@ -2922,3 +2922,8 @@ TCERN: redação histórica da Súmula 24 recuperada e conferida no PDF oficial,
 ## MPAL — Assento 008/2019 recuperado no arquivo oficial
 
 A enumeração das edições setembro–dezembro de 2019 do DOE (80 PDFs baixados e extraídos) localizou a publicação individual do Assento 008/2019 na edição 085, disponibilizada em 06/12/2019, p. 15. A edição 090, de 13/12/2019, p. 9, publica o Assento 009/2019 com revogação expressa. Os dois blocos foram conferidos nas imagens por revisão independente. Não se atribuem ao assento a data/assinatura do edital anterior; disponibilização não foi tratada como aprovação ou eficácia. Apenas o 008/2019 recebeu ID histórico novo, mantendo 17 rótulos de 2026 e 80 transcrições de compilações. MPAL 17→18, delta +1 ID/zero órgãos, total estrutural 43.870/211 por deltas após a última recontagem integral. Fontes e revisão privadas; não se afirma vigência ou completude histórica.
+
+
+## TCEPR — Acórdão 1108/2020 conferido integralmente
+
+Integrado o teor das 15 páginas do Acórdão 1108/20, processo 464908/19, sessão de 10/06/2020, sob o ID já existente. Revisão independente leu todas as páginas; aplicadas a correção de aspas, os seis marcadores de nota e a separação da nota 5 que continua na página 8. Negrito e itálico preservados; omissões editoriais de cabeçalho/rodapé repetidos e caminho interno de rede declaradas. Não há novo ID ou órgão. Os outros 12 documentos recuperados do lote de 13 seguem com revisão/integração pendentes; #194 permanece aberta.
