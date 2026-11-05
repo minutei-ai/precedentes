@@ -3145,3 +3145,6 @@ TCEPI: lote complementar de 27 páginas em oito PDFs incorporado após transcri�
 ## PGEPE — catálogo 008/2025, impresso 009/2022 v2
 
 Integradas as 46 páginas do [Parecer Padrão 009/2022, versão 2 de março/2024](tribunais/PGEPE/parecer-referencial/pgepe-parecer-ref-008-2025.md), vinculado pelo catálogo como 008/2025. Transcrição visual e cotejo independente integral, com ajustes de formatação aplicados. Recaptura oficial com bytes idênticos. Preservadas a data de 2023 no fecho e as citações posteriores, o despacho sem data/assinatura da página 45 e a aprovação de 04/04/2024 na página 46. Não se comprova ato de renumeração ou vigência. Delta +1 ID, zero órgãos; PGEPE passa a três registros. Demais itens e portarias da issue #264 permanecem pendentes.
+
+
+TCEPI: segundo lote complementar de 26 páginas em oito PDFs incorporado após transcrição visual e revisão independente integral: parecer e voto da consulta17359, parecer da Consultoria Técnica16808 com cópia da Resolução961/05, parecer DFAM16592, Resolução1054/05 e quatro acórdãos de2017. Descrições de logotipos corrigidas, identificadores pessoais de assinatura ocultados e manuscritos incertos preservados. Peças vinculadas permanecem separadas e demais documentos continuam em revisão. Sem novos IDs.
