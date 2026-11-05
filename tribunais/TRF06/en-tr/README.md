@@ -80,3 +80,10 @@ Série das Turmas Recursais reunidas dos Juizados Especiais Federais da 6ª Regi
 O PDF do ANEXO I permanece disponível e idêntico (292.358 bytes; SHA-256 `0594e36e0f1c8c86abdf49e11672e53d85b08e4d123056be3866cd08dd6a3f4c`). A página [Atos Normativos - TR](https://portal.trf6.jus.br/atos-normativos-tr/) (HTTP 200) lista portarias e regimentos de organização das turmas (sessão virtual, secretaria única, NUTUR, Resolução Presi 33/2021 etc.); nenhum desses atos identifica-se como o ato principal a que o ANEXO I pertence, nem publica atas ou diários de aprovação dos enunciados. O caderno interno continua sem apontar o ato-mãe. Próximo passo verificável: localizar, no portal ou no SEI/DJ eletrônicos do TRF6/SJMG, o ato (portaria/resolução) que aprova o caderno de enunciados e as atas das sessões de 07.11.2014, 02.04.2018, 10.12.2025 e 15.04.2026 citadas nas notas. Capturas privadas em `lote-191-251-20261104/trf06-en-tr-ato/`.
 
 O [enunciado 53](trf06-en-tr-53.md) conserva também a redação anterior do caderno oficial com 63 verbetes, conferida na página 4 de 7. Não gera outro ID. O ato principal dos anexos e as atas citadas continuam pendentes em #193.
+
+
+## Comunicação e procedimento organizativo
+
+O [Ofício SJMG-SECTR 39/2025](apoio/oficio-sjmg-sectr-39-2025.md), reproduzido no portal da OAB/MG, comunica edição, revisão e/ou cancelamento de enunciados e remete a documento anexo que não integra seu PDF. A [Portaria Cojef 7/2025](apoio/portaria-cojef-7-2025.md) contém regras de procedimento. As quatro páginas dessas peças foram transcritas e revisadas integralmente em imagem. Foram preservadas a qualificação “Juíza Federal” junto a Ronaldo na declaração eletrônica do ofício e a qualificação do fecho, sem harmonização.
+
+As peças permanecem separadas dos enunciados e não comprovam o ato principal dos cadernos, a identidade do anexo mencionado ou as atas das deliberações. Nenhum ID novo; a pendência da issue #193 permanece aberta.
