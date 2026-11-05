@@ -26,4 +26,4 @@ Texto reproduzido do catálogo oficial e confirmado no art. 1º da Resolução n
 
 ## Conferência da Resolução nº 2.240/2018
 
-O PDF oficial aprova o enunciado nos termos acima (art. 1º) e declara vigência na data da publicação (art. 2º). O relatório, o voto, o voto-vista e o extrato da ata da sessão de 12/12/2018 acompanham o ato e permanecem como documentação de apoio, sem IDs próprios. Precedentes e julgados citados no relatório/voto não receberam identificadores adicionais. Capturas privadas em `lote-191-251-20261104/tre-mt-res-2240/`.
+O PDF oficial aprova o enunciado nos termos acima (art. 1º) e declara vigência na data da publicação (art. 2º). O relatório, o voto, o voto-vista e o extrato da ata da sessão de 12/12/2018 acompanham o ato e permanecem como documentação de apoio, sem IDs próprios. Precedentes e julgados citados no relatório/voto não receberam identificadores adicionais. As capturas e a documentação de apoio permanecem privadas.
