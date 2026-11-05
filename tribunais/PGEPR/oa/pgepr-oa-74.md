@@ -9,66 +9,84 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução n° 282/2022 - PGE )
 - **Ementa no catálogo:** Contratações Emergenciais de Obras e Serviços de Engenharia. Requisitos
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm074PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm074PGE.pdf)
-- **Páginas do PDF:** 1; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 157650 bytes; SHA-256 `fa9c55bcae46182ab88388630c1070390f0647228a2ba4b813634c957a7a7e98`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm074PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm074PGE.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+O documento abaixo foi transcrito integralmente de imagens e cotejado por revisão independente GPT-6.1 Sol. Identidade impressa e rótulos do catálogo permanecem distintos; não se inferem vigência, efeitos ou autenticidade de assinatura. Nomes funcionais, protocolos e códigos documentais foram preservados; não foram identificados valores de CPF ou matrícula pessoal nas páginas deste recorte.
 
-61
-                                                                                                                                                             10
+Quebras e hifens de composição foram conservados conforme o candidato. Descrições gráficas, notas de carimbos, marcas e assinatura são editoriais. Declarações eletrônicas foram transcritas, sem validar assinatura ou QR.
 
+### Documento — SHA-256 `fa9c55bcae46182ab88388630c1070390f0647228a2ba4b813634c957a7a7e98`
 
-                                               ORIENTAÇÃO ADMINISTRATIVA N.º 74 – PGE
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm074PGE.pdf)
 
+#### Página física 1
 
-                              A PROCURADORA-GERAL DO ESTADO, no uso das atribuições que lhe
-                    conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485, de 03 de junho
-                    de 1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26, de 30 de dezembro de
-                    1985, resolve expedir a seguinte orientação administrativa a todos os órgãos e
-                    entidades da Administração Pública Estadual Direta e Autárquica:
+[Marca e brasão: PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL. Carimbo: PROTOCOLO INTEGRADO DO ESTADO; Fls. 61; Mov. 10.]
 
 
-                                       Licitações e Contratos
-                     TEMA DE INTERESSE Lei Federal nº 14.133, de 1º de abril de 2021;
-                                       Decreto Estadual nº 10.086, de 17 de janeiro de 2022.
-                                                          Contratações Emergenciais de Obras e Serviços de
-                                                          Engenharia. Requisitos
 
 
-                    1. Para a dispensa da licitação com base em situação caracterizada como de
-                       emergência ou calamidade pública: 2. Deve estar caracterizada urgência de
-                       atendimento de situação; 3. A situação possa: 1.1. ocasionar prejuízo ou; 1.2.
-                       comprometer a segurança: 1.2.1. de pessoas; ou 1.2.2. obras; ou 1.2.3. serviços; ou
-                       1.2.4. equipamentos; ou 1.2.5. de outros bens. 2. Somente para os bens necessários
-                       ao atendimento da situação emergencial ou calamitosa;
-                    2. Esta Orientação Administrativa substitui a Orientação Administrativa nº 007-PGE, de
-                       2016.
+**ORIENTAÇÃO ADMINISTRATIVA N.º 74 – PGE**
 
 
-                    REFERÊNCIAS: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.
-
-                    PUBLIQUE-SE. ANOTE-SE.
-
-
-                                                     Curitiba, datado e assinado digitalmente.
-
-
-                                                               Leticia Ferreira da Silva
-                                                             Procuradora-Geral do Estado
+**A PROCURADORA-GERAL DO ESTADO,** no uso das atribuições que lhe
+conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485, de 03 de junho
+de 1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26, de 30 de dezembro de
+1985, resolve expedir a seguinte orientação administrativa a todos os órgãos e
+entidades da Administração Pública Estadual Direta e Autárquica:
 
 
-              Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300                                        www.pge.pr.gov.br
+**TEMA DE INTERESSE**
+
+Licitações e Contratos
+
+Lei Federal nº 14.133, de 1º de abril de 2021; Decreto Estadual nº 10.086, de 17 de janeiro de 2022.
+
+Contratações Emergenciais de Obras e Serviços de Engenharia. Requisitos
 
 
-Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 21/12/2022 18:31. Inserido ao protocolo 19.828.404-1 por: Viviane Maria de Lara da Silva em:
+1. Para a dispensa da licitação com base em situação caracterizada como de
+emergência ou calamidade pública: 2. Deve estar caracterizada urgência de
+atendimento de situação; 3. A situação possa: 1.1. ocasionar prejuízo ou; 1.2.
+comprometer a segurança: 1.2.1. de pessoas; ou 1.2.2. obras; ou 1.2.3. serviços; ou
+1.2.4. equipamentos; ou 1.2.5. de outros bens. 2. Somente para os bens necessários
+ao atendimento da situação emergencial ou calamitosa;
+2. Esta Orientação Administrativa substitui a Orientação Administrativa nº 007-PGE, de
+2016.
+
+
+**REFERÊNCIAS:** Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+
+Curitiba, *datado e assinado digitalmente.*
+
+
+**Leticia Ferreira da Silva**
+Procuradora-Geral do Estado
+
+
+
+
+##### Endereço no rodapé
+
+Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300 www.pge.pr.gov.br
+
+
+
+
+##### Declaração impressa de assinatura no rodapé
+
+Assinatura Qualificada realizada por: **Leticia Ferreira da Silva** em 21/12/2022 18:31. Inserido ao protocolo **19.828.404-1** por: **Viviane Maria de Lara da Silva** em:
 21/12/2022 18:04. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
-https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento com o código: 3df9ba5ab64aaac78c861696e651038e.
+**https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento** com o código: **3df9ba5ab64aaac78c861696e651038e**.
 
+##### Notas de leitura visual
 
-## Conferência e limites
+Leitura integral da página e de todas as faixas ampliadas; sem OCR. Camada nativa usada apenas como rascunho, conferida pela imagem. Numeração interna do item 1 preservada, inclusive “2.” e “3.” antes de “1.1.” e novo “2. Somente”. Sem reorganizar a enumeração. Data em cinza; faixas azul e verde.
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Marcas visuais: brasão colorido; carimbo circular cinza. A declaração de assinatura tem nomes funcionais, protocolo, URL e código em negrito. Não se atribui autenticidade à declaração. Não foram identificados valores de CPF ou matrícula pessoal nesta página; não houve ocultação necessária.
