@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Agente Político. Subsídio de Vereadores. Reajuste. Períodos que pode abranger. (2017)
 - **Identificador:** `tcepi-consulta-17015`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 1 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; páginas do recorte transcritas e cotejadas por imagem; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -22,7 +22,47 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página com codificação textual inválida; transcrição pendente. O texto corrompido não foi convertido em redação jurídica.
+[Brasão do Estado do Piauí, à esquerda; logotipo do Tribunal de Contas do Estado do Piauí, à direita.]
+
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Abelardo Vilanova
+
+
+**ACÓRDÃO Nº 698/2017**
+
+**PROCESSO TC Nº 008025/2017**
+**ASSUNTO**: Consulta
+**PROCEDÊNCIA**: CÂMARA MUNICIPAL DE SÃO RAIMUNDO NONATO.
+**CONSULENTE**: Eumadeus Pereira Ferreira – Presidente
+**OBJETO DA CONSULTA**: Possibilidade de reajuste de subsídios de vereadores. Relator: Cons. Abelardo Pio Vilanova e Silva
+**RELATOR**: CONS. ABELARDO PIO VILANOVA E SILVA
+
+> **CONSULTA. Câmara Municipal de São Raimundo Nonato.** Conhecimento e Resposta à consulente, nos termos do parecer do MPC. Decisão unânime.
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ (peça nº 4), o parecer técnico da DFAM (peça nº 5), o parecer do Ministério Público de Contas (peça nº 8), e o mais que dos autos consta, decidiu o Plenário, à unanimidade, em consonância com o parecer ministerial e corroborando o relatório técnico da DFAM, conhecer da Consulta, e respondê-la no sentido de que é possível a pretendida atualização dos subsídios, nos termos e pelos fundamentos expostos no voto do Relator (peça nº 11).
+
+Decidiu, também, o Plenário, à unanimidade, encaminhar ao consulente de cópias do parecer técnico da DFAM, do parecer do Ministério Público de Contas e do acórdão do Plenário desta Corte, nos termos do voto do Relator (peça nº 11).
+
+Ausente por motivo justificado quando da apreciação do presente processo, o Cons. Substituto Jackson Nobre Veras, que atuaria em substituição ao Cons. Joaquim Kennedy Nogueira Barros (em gozo de férias).
+
+**Presentes** os Cons. Olavo Rebêlo de Carvalho Filho (Presidente), Abelardo Pio Vilanova e Silva, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Lilian de Almeida Veloso Nunes Martins e os Cons. Substitutos Delano Carneiro da Cunha Câmara, convocado para substituir, nesse processo, o Cons. Luciano Nunes Santos (ausente por motivo justificado) e Alisson Felipe de Araújo, em substituição ao Cons. Kléber Dantas Eulálio (em gozo de férias).
+
+**Representante do Ministério Público de Contas presente:** Procurador-Geral Plínio Valente Ramos Neto.
+
+Sessão Plenária Ordinária nº 17, em Teresina, 25 de maio de 2017
+
+| | |
+|---|---|
+| *(assinado digitalmente)* **Cons. Olavo Rebêlo de Carvalho Filho** | **Presidente** |
+| *(assinado digitalmente)* **Cons. Abelardo Pio Vilanova e Silva** | **Relator** |
+| *(assinado digitalmente)* **Fui Presente: Plínio Valente Ramos Neto** | **Procurador-Geral do MPC-TCE/PI** |
+
+*Assinado Digitalmente pelo sistema e-TCE* -**PLINIO VALENTE RAMOS NETO:[identificador numérico pessoal ocultado] - 05/06/2017 12:03:05**
+*Assinado Digitalmente pelo sistema e-TCE* -**OLAVO REBELO DE CARVALHO FILHO:[identificador numérico pessoal ocultado] - 05/06/2017 12:22:38**
+*Assinado Digitalmente pelo sistema e-TCE* -**ABELARDO PIO VILANOVA E SILVA:[identificador numérico pessoal ocultado] - 05/06/2017 09:37:20**
+
+[Número de página, canto inferior direito:] 1
 
 ### Documento vinculado pela fonte
 
@@ -173,3 +213,11 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 [Voto do Relator](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Reajuste-subs%C3%ADdios-vereadores-quantidade-de-per%C3%ADodos-pode-abranger-VOTO-RELATOR.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 1 página(s), 110830 bytes, SHA-256 `703ce4106cefa6a55278ad4f48f3029408f5df61910074d2424b7d827e3abfca`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Logotipos foram descritos uma única vez e não como selos em relevo. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.

@@ -3138,3 +3138,6 @@ TRE-PB: incorporadas as 12 páginas da CTA 279-04.2016 e 7 da CTA 489-55.2016 ap
 
 
 TRE-AL: nove corpos de enunciados incorporados aos IDs existentes após nova transcrição direta das 17 páginas e cotejo integral independente. Folheto completo como documento comum, com expediente, conceitos, acórdãos, citações e referências. A alínea I/l da p.11 permanece marcada como incerta; citações e erros da fonte não completados por coerência jurídica. Sem novos IDs ou inferência de vigência.
+
+
+TCEPI: lote complementar de 27 páginas em oito PDFs incorporado após transcrição visual e revisão independente integral: parecer DFAM da consulta 16626, votos 16802/16854, acórdãos 16926/16959/16996/17015 e parecer MPC 16808. Descrições de logotipos corrigidas, identificadores pessoais de assinatura ocultados e manuscritos incertos preservados. Peças vinculadas permanecem separadas e demais documentos continuam em revisão. Sem novos IDs.

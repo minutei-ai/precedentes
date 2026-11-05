@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Agente Político. Subsídio dos vereadores. Redução durante a legislatura para adequar aos limites constitucionais. Restabelecimento posterior por ato interno da Câmara. Encargos previdenciários. Escrituração contábil. (2013)
 - **Identificador:** `tcepi-consulta-16854`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 10 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 7 ocorrência(s); vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -199,15 +199,106 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda.]
+
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Kennedy Barros
+
+[Carimbo, canto superior direito: T[R]IBUNAL DE CONTAS DO ESTADO / Proc. Nº [ms.: 08.817/12] Fls. [ms.: 54] / rubrica não atribuída / Secre[taria] das Sessões / Funcionário (parcialmente encoberto) — sobreposto logotipo impresso: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+**PROCESSO**: TC-E nº 008817/12
+**ASSUNTO:** Consulta
+**PROCEDÊNCIA**: Câmara Municipal de Marcolândia
+**INTERESSADO**: Antônio Carlos Henrique do Nascimento
+**PROCURADOR:** Plínio Valente Ramos Neto
+**RELATOR:** Cons. Joaquim Kennedy Nogueira Barros
+
+1. RELATÓRIO
+
+Tratam os autos do Processo de Consulta formulada ao Tribunal de Contas do Estado do Piauí pela Câmara Municipal de Marcolândia, representada pelo seu Presidente, Sr. Antônio Carlos Henrique do Nascimento, oportunidade em que faz as seguintes indagações:
+
+a) Há possibilidade de se aumentar o subsídio de vereadores ao valor estipulado em lei municipal, mesmo que esta não seja do exercício imediatamente anterior, visto que, o que atualmente se percebe é inferior ao determinado por lei municipal?
+
+b) O termo "folha de pagamento" previsto no art. 29-A, § 1º, da CF/88, alcança os gastos com encargos previdenciários patronais?
+
+c) Há alteração na escrituração contábil, no caso de os encargos previdenciários patronais serem pagos com os 30% (trinta por cento) restantes do limite constitucional de 70% (setenta por cento) imposta pelo art. 29-A, § 1º, da CF/88?
+
+Após autuado o processo de consulta, a relatora originária encaminhou os autos à Corregedoria, fls. 07, e logo após, nos termos do art. 337, do Regimento Interno deste Tribunal de Contas, à Diretoria de Fiscalização da Administração Municipal para análise e instrução, fls. 09.
+
+Instada a se manifestar, a DFAM, às fls. 10/16, emitiu parecer, onde elencou os prejulgados desta Corte de Contas acerca da matéria analisada, às fls. 19/45, e quanto aos questionamentos da consulente, concluiu que:
+
+a) é juridicamente possível que durante a legislatura haja redução dos subsídios dos vereadores para adequar aos limites constitucionais fixados, a exemplo do prejulgado contido no TC-E 1961/06. De outro lado, é possível que, uma vez restabelecidas as condições para pagamento dos valores anteriormente fixadas na Lei Municipal, a Câmara, por ato interno, restabeleça os valores dos subsídios dos vereadores;
+
+b) o termo "folha de pagamento" previsto no art. 29-A, § 1º, da CF/88, não alcança os gastos com encargos previdenciários patronais;
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda.]
+
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Kennedy Barros
+
+[Carimbo, canto superior direito: T[RI]BUNAL DE CONTAS DO ESTADO / Proc. Nº [ms.: 08.817/12, traçado parcialmente apagado] Fls. [ms.: 55] / rubrica não atribuída / [Secretaria das Sessões] / Funcionário (trecho encoberto pelo selo) — sobreposto logotipo impresso: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+c) não há alteração na escrituração contábil, no caso dos encargos previdenciários patronais serem pagos com os 30% restantes do limite constitucional de 70% imposto pelo art. 29-A, § 1º, da CF/88. Com relação ao lançamento contábil, a DFAM orienta no sentido de que o lançamento deve ser feito na mesma rubrica das obrigações patronais (31.90.13).
+
+Ato contínuo, a relatora originária, em despacho de fls. 46/47, decidiu pelo CONHECIMENTO do presente processo de consulta, em face do atendimento dos pressupostos de admissibilidade exigidos pela Resolução 13, de 26 de agosto de 2011(Regimento Interno), uma vez que foi formulada por autoridade legítima e encontra-se instruída com parecer do órgão de assistência técnica ou jurídica (art. 201 e § 1º), bem como não se refere a caso concreto (art. 202).
+
+Por seu turno, o Ministério Público de Contas, às fls. 49/50, entendeu que a consulta atendeu aos requisitos legais previstos no Regimento Interno, e concluiu o seguinte:
+
+a) Não é possível o aumento do subsídio dos vereadores ao valor estipulado em lei municipal, devendo ser observados os valores fixados na lei votada na legislatura anterior para viger na legislatura subsequente;
+
+b) Os gatos com encargos previdenciários patronais não alcançam os valores estipulados na folha de pagamento, seu conceito é considerado apenas na despesa de pessoal;
+
+c) O lançamento contábil das despesas patrimoniais deve ser registrado na rubrica "Obrigações Patronais" (31.90.13).
+
+**É o Relatório. Passo ao Voto.**
+
+2. FUNDAMENTAÇÃO
+
+Preliminarmente, cumpre analisar o cabimento da espécie processual à luz da legislação que rege a matéria.
+
+Nesse sentido, o juízo de admissibilidade realizado pela relatora originária às fls. 46/47, é conclusivo, haja vista a presença dos requisitos de admissibilidade esculpidos no art. 201 e seguintes, da Resolução TCE 13/11( Regimento Interno TCE/PI).
+
+Portanto, a presente consulta deve ser **conhecida**.
+
+Quanto ao mérito, deve ser adotado o posicionamento expressado pelo parecer da DFAM, exarado às fls. 10/16, que traz um relato minucioso dos questionamentos
+
 
 #### Página 3 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí, à esquerda.]
+
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Kennedy Barros
+
+[Carimbo, canto superior direito: T[RI]BUNAL DE CONTAS DO ESTADO / Proc. Nº [ms.: 08.817/12, traçado parcialmente apagado] Fls. [ms.: 56] / rubrica não atribuída / Secre[taria das Sessões] / Funcionário (trecho encoberto pelo selo) — sobreposto logotipo impresso: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+levantados pelo consulente, acompanhado de uma análise individualizada para cada uma das indagações, fundamentada na melhor legislação acerca do assunto e em alguns prejulgados deste Tribunal.
+
+3. VOTO
+
+Diante de todo o exposto, voto, de acordo com ao parecer da DFAM, pelo conhecimento da presente consulta e, no mérito, pela resposta ao consulente nos seguintes termos:
+
+a) é juridicamente possível que durante a legislatura haja redução dos subsídios dos vereadores para adequar aos limites constitucionais fixados, a exemplo do prejulgado contido no processo TC-E 1961/06. De outro lado, é possível que, uma vez restabelecidas as condições para pagamento dos valores anteriormente fixados na Lei Municipal, a Câmara, por ato interno, restabeleça os valores dos subsídios dos vereadores;
+
+b) o termo "folha de pagamento" previsto no art. 29-A, § 1º, da CF/88, não alcança os gastos com encargos previdenciários patronais;
+
+c) não há alteração na escrituração contábil, no caso dos encargos previdenciários patronais serem pagos com os 30% restantes do limite constitucional de 70% imposto pelo art. 29-A, § 1º, da CF/88. Com relação ao lançamento contábil, sigo orientação da DFAM no sentido de que o lançamento deve ser feito na mesma rubrica das obrigações patronais (31.90.13).
+
+Voto, ainda, pelo encaminhamento ao consulente, Sr. Antônio Carlos Henrique do Nascimento – Presidente da Câmara Municipal de Marcolândia, de cópias autênticas do referido parecer e do acórdão do Plenário deste Tribunal de Contas.
+
+Teresina, 20 de fevereiro de 2013.
+
+[Assinatura manuscrita, sem autoria atribuída ao traço]
+Cons. **JOAQUIM KENNEDY NOGUEIRA BARROS**
+Relator
+
+[Restante da página em branco após verificação da imagem.]
 
 ### Documento vinculado pela fonte
 
@@ -347,3 +438,11 @@ Texto reproduzido de fonte oficial. Confira na origem a situação atual e as re
 ## Conferência do parecer do MPC — 05/11/2026
 
 O Parecer 2012PC0005, TC-E 008817/12, foi recapturado pelo endereço HTTPS atual após um retorno 503 transitório: 321.692 bytes, SHA-256 `b1f23c0bd37d99bd1120a24ff1605be9783f1440aaca285bdd634fc6195c1a2a`. As duas páginas foram transcritas diretamente das imagens e cotejadas integralmente por revisão independente, com correções aplicadas. As grafias “compete”, “DFAE” e “Endente-se”, a diferença de trema e as referências divergentes de folhas pertencem à fonte e foram preservadas. Não houve OCR; quebras de justificação, pontilhados e glifos de nº/ordinal foram normalizados, sublinhados e elementos gráficos descritos. Manuscritos têm leitura provável localizada e não autenticada. O parecer é peça de apoio da consulta existente, sem ID novo ou inferência de vigência. Os outros PDFs desta ficha continuam com os limites indicados nas respectivas seções.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 3 página(s), 436232 bytes, SHA-256 `6b14afa8b422f2e19b671036320bb2cf01978e3babb2bef4ef9bd03eb96b1037`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Logotipos foram descritos uma única vez e não como selos em relevo. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
