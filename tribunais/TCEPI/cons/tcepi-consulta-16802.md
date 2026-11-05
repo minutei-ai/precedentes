@@ -212,3 +212,5 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
 
 O Acórdão 600/13 também aparece anexado nas páginas 2–3 do PDF vinculado à [consulta 16854](tcepi-consulta-16854.md), que começa com outro acórdão. A separação dos atos foi preservada.
+
+Há outro exemplar do Acórdão 600/13 anexado ao arquivo Acórdão-66.pdf, transcrito e identificado como ato distinto [na ficha 16854](tcepi-consulta-16854.md). Leituras de carimbos e grafias permanecem atribuídas a cada exemplar, sem harmonização.

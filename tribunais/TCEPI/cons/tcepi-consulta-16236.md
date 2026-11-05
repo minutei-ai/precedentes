@@ -85,6 +85,8 @@ Procuradora - Geral MPC-TCE/PI
 
 O link rotulado “Voto da Relatora” conduz ao Voto-2.pdf, mas o documento é o relatório e voto do processo25.666/11 de PioIX, folhas24–29, e não deste processo de Isaías Coelho. O exemplar foi [transcrito separadamente](documento-voto-pio-ix-exemplar-voto-2.md), com a associação sustentada pelo Acórdão193/12 da consulta16320. O voto da relatora deste caso, referido no acórdão às folhas44/48, continua sem fonte correspondente recuperada.
 
+Próximo passo documental: localizar ou solicitar ao TCE-PI as folhas 44/48 do processo TC-E 8.574/12, identificar o voto da relatora e cotejar integralmente a peça recebida antes de substituir esta ressalva. O Voto-2.pdf não supre essa falta.
+
 ## Ementa
 
 [Acórdão nº 2.549/12](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Ac%C3%B3rd%C3%A3o-16.pdf)

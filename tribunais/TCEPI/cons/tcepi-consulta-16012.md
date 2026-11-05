@@ -62,6 +62,8 @@ O Plenário decidiu, ainda, por **unanimidade**, **encaminhar** ao consulente c�
 
 **Vínculo não comprovado:** esta página não imprime número de ato e não continua frase da página 1. O cabeçalho de gabinete, o modelo do carimbo, a folha manuscrita seguinte e nomes do fecho são apenas indícios. Os números manuscritos do processo estão degradados; sua igualdade não é verificável. A página é apresentada como parte do arquivo disponibilizado, sem afirmar que seja fecho do Acórdão 601/12.
 
+Próximo passo documental: obter exemplar oficial mais legível ou a sequência correspondente do processo TC-E 48.923/11 e comparar a página 2 com o Acórdão 601/12 por identificação verificável. Até essa conferência, manter o vínculo não comprovado; a sequência física do arquivo não resolve a identidade.
+
 [margem superior direita: carimbo «TRIBUNAL DE CONTAS DO ESTADO / Proc. Nº [manuscrito degradado: 4[?] 9[?]3/11 [?]] Fls. [manuscrito: 28 [?]]»; rubrica manuscrita sobre linha; «Secretaria das Sessões / Funcionário» (parcialmente encoberto pelo logotipo com estrela «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ»)]
 
 [cabeçalho, à esquerda: brasão do Estado do Piau[í?]]

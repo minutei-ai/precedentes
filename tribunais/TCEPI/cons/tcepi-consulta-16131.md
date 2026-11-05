@@ -453,7 +453,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:342387603447- 02/06/2016 13
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:[identificador pessoal ocultado]- 02/06/2016 13
            _________________________________________________________________________________________
            TC/005274 – CONSULTA AMPAR
 
