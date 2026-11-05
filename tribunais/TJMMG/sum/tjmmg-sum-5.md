@@ -21,3 +21,7 @@ Precedente: Embargos Infringentes n. 06
 ## Limites da coleta
 
 Texto do catálogo oficial, conferido em duas leituras em 28/10/2026. As referências, datas e notas reproduzem a página, inclusive eventuais divergências e grafias. A atualização editorial da página não foi atribuída como data de aprovação ou publicação desta súmula. Os atos e processos citados não foram incorporados neste lote.
+
+## Citações na edição 2014/2015
+
+As [cinco citações da Súmula 5 no ementário oficial de 2014/2015](sumula-5-ementario-2014-2015.md) foram transcritas e cotejadas em imagem. O miolo coincide com o texto do catálogo acima; caixa, aspas, pontuação e referência numérica variam entre os julgados e ficam preservadas no documento de apoio. Essa edição não substitui a recuperação da publicação de 2009 ou do ato formal. Delta zero.

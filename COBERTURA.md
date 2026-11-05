@@ -2994,3 +2994,7 @@ Os blocos históricos 8, 9, 10 e 18 foram cotejados integralmente com as imagens
 ## CCMG — atos de aprovação, divulgação e revogação
 
 A reconsulta de 05/11/2026 recuperou os três PDFs vinculados às Súmulas 01–07 com bytes idênticos aos anteriores. As sete páginas da Deliberação 02/01 e das Portarias 04 e 05/2020, incluindo anexos, foram cotejadas integralmente em imagem e incorporadas como apoio compartilhado. A Portaria 04 divulga a revogação das Súmulas 02–06 decidida pela Deliberação 01/2020, sem mencionar a 01. A nota de conformidade à Portaria 07/01 nas Súmulas 03 e 04 foi preservada; esse ato e a redação anterior não foram recuperados. Sessão em 09/11/2020 e fecho em 16/11/2020 não foram confundidos com publicação, cuja data não foi recuperada. Os sete blocos e três links do catálogo continuam iguais, mas o HTML integral tem outro hash. Delta zero, sete registros, sem certificação de vigência ou autenticidade de assinatura.
+
+## TJMMG — Súmula 5 no Ementário 2014/2015
+
+As cinco citações com enunciado da Súmula 5 foram recuperadas nas páginas físicas 195, 209, 234, 345 e 379 do PDF oficial. A revisão independente cotejou integralmente esses trechos em imagem e leu as páginas 196 e 235 para a identificação dos processos em continuação. O [documento de apoio](tribunais/TJMMG/sum/sumula-5-ementario-2014-2015.md) preserva variantes e corrige as notas de ênfase. Não é o ato formal nem a publicação original de 2009. Restam fontes históricas da issue #187; delta zero.
