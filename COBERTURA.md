@@ -3129,3 +3129,6 @@ PGECE: acrescentado o Parecer Referencial 05/2026, processo 31022.000829/2026-25
 
 
 MPMG: integrado o nº 69 da compilação oficial de seis páginas vinculada como atualizada em 06/10/2026, após cotejo integral do bloco por imagem e revisão independente. Datas de aprovação/publicação atribuídas à nota, não verificadas em ata/diário. Rótulos de revogação dos nºs 37 e 53 acrescentados como variantes de 2026, sem apagar as redações de 2024 ou inferir substituição. +1 ID, MPMG passa a 69; permanece fora deste cotejo o restante dos corpos da nova compilação.
+
+
+PGEPA: integrado Parecer Referencial 000004/2020, processo 2020.02.000493-SAJ/PGE (2020/258513), em 17 páginas transcritas diretamente das imagens e cotejadas integralmente por revisão independente. Seis notas, grifos, citações, carimbo lateral e proposta de indexação preservados, sem rótulo EMENTA inventado ou despacho de aprovação não fornecido. Recaptura HTTP 200/PDF idêntica ao hash revisado. +1 ID; PGEPA passa de 25 para 26 fichas, sem certificar o inteiro teor das demais nem a completude dos 50 PDFs inventariados.
