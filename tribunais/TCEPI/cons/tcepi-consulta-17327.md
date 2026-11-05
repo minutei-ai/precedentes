@@ -20,143 +20,75 @@ Data apresentada na ficha: 8 de março de 2018 13:40. O título e o identificado
 
 O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
+### Conferência visual do documento
+
+O texto corrompido da extração anterior foi substituído por transcrição direta das imagens, cotejada integralmente em revisão independente. Preservam-se grafias, sinais e leituras degradadas, sem completar por coerência. Os nomes de arquivo do portal não substituem os números impressos. Assinaturas e carimbos são descritos sem autenticação; não se infere vigência. As páginas seguintes correspondem à captura oficial com SHA-256 `1c32530e591aedb1b969e9ff49d2bca6069077083f0b252ff83b2f43add0ecc0`.
+
+O número da Resolução permanece degradado na página 1 (“0[4?][9?]/0[8?]”); o nome da URL não resolve essa leitura. A página 2 conserva sua leitura própria.
+
 #### Página 1 do PDF oficial
 
-                                                         poc.
-          iDo
-    
-    
-    
-                     Estado do Piaui
-                                                                                                cy
-                     Tribunal de Contas                                                         ii riitu
-                                                                                                 rir,
-    
-    
-                                                                                                        F. 21
-    
-                                                                                       RELUÂO V
-    PROCL5$0 TC-E W 0129T1
-    
-    
-    
-    
-                                                                   EMVTA Ww pag'        •
-                                                                   Tv&itr.ção .*      k ARÉD< ~
-                                                                                          fl                 -
-    
-    
-                                                                   Ag~ de h= N& ámc~ no cdkuki
-                                                                   dm despei fGW vam -.
-    
-    
-    
-    
-                      O TPJU$M. CL C»iTAS CO 3TALO DO PtAUI eurfliswC o Pr$O TC-E
-    1297108 eru qUE r.on&ta ca,utl ?P~MaCI 13 pdo 0ut1c Themls~ de 5~ Pemim Filho -
-                                                                          7ribunâ awr" do
-    Presidente da Aa Le lertwn da E=du do PiJ1 soficillarwJ0 o pi&diiiSib
-     e'jiflIe q~cwrnentQ Sobm a    iricius, para efe1c do c~ da despeu •'       T
-    pagos roa con~i0D do r          bra Lermirizada e &2 val«e%                  1         1i$ i 03).
-    
-    
-    
-                         CONLpt'ILANDO que não obite a ariá1ie preli -nhlar da CTeJ
-     erifIcrJo jLm a perte ooneula no aeriiietz OB eirdas rriínims c1iÇ        rc art 4, do Rçimen10
-    Irrterrn dete Tribi.jial (RBsaIUa ii' 1.22 1 inormere au -quE dkr r!pe1tT3                 rldix oa
-      idade r'l1tf (i) a CorTeedorla rugejiu o 5eu in             ier rri Xse no 11t 1            r, dM
-    Re&duç& n i 02I07 que glÊna o R!rnento lniefll) des;ia Corte de Ciflt            : Dc h~~ de ri&ia de
-     are r~am i;
-     -
-    
-    
-    
-    
-                     CONSIDERANDO que o parr da Aitçi2 cnJuIii quim cs ~ ~ I& a liliJo de
-               d'e    --ota, b, comc os       perld cum os           (elo rki 9~ aINoidos oruo
-    [luras despesau cern psaI e no &effiç> omck' à detpeow toII ttm rido Ci. c     qu e) re11
-    - a abvidíodeu riB1i                 irriro1aI    .J 7rr      mrtafeg,   s               4Jeir óre
-    competênrÃu IeaI <li> ôrq,o ou enÜda; b) n s11 ireients as catçri kni~ ab~15 pe) PII 1
-    de   rI9 de orqo 04J errtJde CI. (]6 a 12)
-    
-    
-    
-                        cQ1SIRM4CO o reç fl°            da Conutti3 Té=ka d~ Tr'iri Cc'nta (t.
-    14 a IB), an inaliLar a mérito da =uuMa cncluIu que na a~ =mider3d 05 diOs~ dEsa1 m de
-                que r.o etewm fDffinalffimio pretos cm can.Im 'e errrego no cpiidro da p~ tO erte ou
-     rIidacle @ quL. ç,uIEINamer1!'e. s'ejem libv i~È0 rtit s ai Uacte - ru&C. IPi v~ em qUlqLLf
-    caso a terceiwçu le a9vida s hdeieÓvCiÊ, rprlas do enL2 ou mntidado relafiVES á9 eii tÓes - rlrr
-    
-    
-                      CONSIDEPANDO que o Mini$rio Púbio de Cci1a 1. 2), reewtta pela
-    P.aFssa hlria R2ad$ d'e De          E3rbDa. maniegIj-e v -baIrii'ente ern~ IJ                   P* n
-    crir,tb3 do cori4JIte. pLfn1, caso se adeirtie o MilD, e*ricerchs ocm o Pir CALUtCi*                   a 1
-    atti'ntarido que, ns troIrraçi, gejam h9dsdí:k>s csdiitivc!. IeIJMS a anii.r1rieia
-    
+[margem superior direita: carimbo «PROC. Nº [manuscrito: 1297/08 [?]] FLS. [manuscrito: 21]»; assinatura/rubrica manuscrita sobre linha; «CORREGEDORIA»]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ»]
+
+**Fls. 21**
+
+**PROCESSO TC-E Nº 001297/08** — **RESOLUÇÃO Nº 0[4?][9?]/0[8?]**
+
+***EMENTA:** Valores pagos a título de Terceirização de mão-de-obra e aos Agentes de fato. Não inclusão no cálculo da despesa total com pessoal.*
+
+[margem esquerda: traço vertical tracejado e marca de furação]
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ**, examinando o Processo TC-E N.º 1297/08 em que consta consulta apresentada pelo Deputado Themistocles de Sampaio [?] Pereira Filho – Presidente da Assembléia Legislativa do Estado do Piauí solicitando o posicionamento deste Tribunal acerca do seguinte questionamento: Sobre a inclusão, para efeito do cálculo da despesa total com pessoal, dos valores pagos na contratação de mão-de-obra terceirizada e dos valores pagos aos agentes de fato (fls. 01 a 03).
+
+**CONSIDERANDO** que não obstante a análise preliminar da Corregedoria (fls. 04) ter verificado que a presente consulta não atendeu as exigências mínimas dispostas no art. 234, do Regimento Interno deste Tribunal (Resolução nº 1.225/1995), mormente ao que diz respeito ao parecer técnico ou jurídico da entidade consulente (§1º) a Corregedoria sugeriu o seu conhecimento, com base no art. 1º, §§ 6º e 7º, da Resolução nº 1.042/07 [?] que altera o Regimento Interno desta Corte de Contas, por tratar-se de matéria de grande relevância;
+
+**CONSIDERANDO** que o parecer da Auditoria concluiu que os valores pagos a título de terceirização de mão-de-obra, bem como os despendidos com os agentes de fato não serão classificados como outras despesas com pessoal e não serão somados à despesa total com pessoal do órgão, desde que a) refiram -se a atividades materiais acessórias, instrumentais ou complementares aos assuntos que constituem área de competência legal do órgão ou entidade; b) não sejam inerentes as categorias funcionais abrangidas pelo plano de cargos do órgão ou entidade (fls. 06 a 12)
+
+**CONSIDERANDO** o parecer nº 08/08 da Consultoria Técnica deste Tribunal de Contas (fls. 14 a 18 [?]), ao analisar o mérito da consulta concluiu que não serão consideradas despesas de pessoal as de terceirização que não estejam formalmente previstos os cargos e empregos no quadro de pessoal do ente ou entidade e que cumulativamente, sejam atividades restritas às atividades - meio, sendo vedada em qualquer caso a terceirização de atividades indelegáveis, próprias do ente ou entidade relativas às suas atividades – fim;
+
+**CONSIDERANDO** que o Ministério Público de Contas (fl. 20), representado pela Procuradora Raíssa [?] Maria Rezende de Deus Barbosa, manifestou-se verbalmente emitindo seu parecer, pelo não conhecimento da consulta, porém, caso se adentre ao mérito, concorda com o Parecer da Auditoria (fls. 06 a 12), acrescentando que, nas terceirizações, sejam obedecidos os dispositivos legais e constitucionais que regem a matéria;
+
+[à direita, sobre o último parágrafo: rubrica manuscrita sobreposta ao texto, encobrindo parcialmente «Procuradora», «pelo não», «fls. 06 a 12» e «que regem a»; margem direita: pequena marca manuscrita]
+
+[restante inferior da página em branco; rodapé: linha horizontal; sem texto de rodapé legível]
 
 #### Página 2 do PDF oficial
 
-                                                                              oc N             FLS.
-    
-            20 L)D
-                        çi..                                                         ÇOR     DORA           —
-    
-    
-    
-    
-                               Estado do Piaui
-                               Tribunal deContas                                                                  IE     IM
-                                                                                                                 Dowr,kLwj
-                                                                                                                  II.0 rdIJ
-    
-    
-    
-    
-    r                                                                                                                    F1.22
-    
-        PRE5$O TC              W 01297Ie                                                              RFOLUGAO H 491
-    
-    
-    
-    
-                                 E C 1 D 1 U o Plemri, unrirrw, em 6ássào Par               Õre r         de 17 de 18~ d
-         OUB   (.
-                    20) mrgIdançk i€ pêr&c         çla P'ijdit    (fiãi. C   & li) o da Corutciia Tci    n 08lOfi (Na.        l)
-         a miiftao vertial Éla RepreEenlânw do Mrèno PúbíiG0 dfi Cont.a, rwp~ a pn~ wne.UlÉá rwu
-           irs dos pa1-eçr da AudrLa 9 da Cntóda Tnia,       rn jurtn wm o Qr  MIIDç,     uHrwicJ-
-        ç rscirro1ei. É encamirih azidõ ao e                         pies dos ritordos p~p!rm
-    
-    
-    
-                     Pre!iEmMa na $6eo Ds Coo: ÂnIrIsI Meio LDbAÕ C««~ Brar=Cprsr
-        ALardo Po Vilanava      JoaqLdmi Kenrd Nowe P,rros MIOnia Maria Nra de SÀouM LeI
-         Jurng, O&r R~Iu de CaIho F1IhD e os Cçn    irv SjLüro Jb A~ Júnior e Del a rfio
-        C.anrc da Cunha                   i 5ubotNIÇAO rspe            iiort, aEir. Cis. LucnD Nunew Santnn í Sro P'O
-        Aves M. ams çn                  de rja.
-    
-                                Rp1nt do MInlIr% PuNico d                        Crj,,t    prerit: Prbe~O RaIa )Ii
-        Rexenciede Deui BG rti QS a ;
-    
-    
-                               Tífla-5.                    e em u3~he.
-    
-                               Sala das Sess      do TriunaI de Cne W ERIadu cirj PIa.d. cpi                  17 du JarI'o de
-    
-    
-    
-    
-                                                                                                                       RId ente
-    
-    
-                                                                                                                         Rr
-    
-    
-        Fui prnmmim, Rie                                         .rbi                           F'rc*j,vdi-a j untc> ao TCEIPI
-    
-    
-    
-    
-                                                                                                                                 2
+[margem superior direita: carimbo «PROC. Nº [manuscrito: 1297/08 [?]] FLS. [manuscrito: 22]»; assinatura/rubrica manuscrita sobre linha; «CORREGEDORIA» (parcialmente encoberto)]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ»]
+
+**Fls. 22**
+
+**PROCESSO TC-E Nº 001297/08** — **RESOLUÇÃO Nº 049/08 [?]**
+
+**D E C I D I U** o Plenário, unânime, em Sessão Plenaria Ordinária nº 0[1?] de 17 de janeiro de 2008 (fl. 20) considerando os pareceres da Auditoria (fls. 06 a 12) e da Consultoria Técnica nº 08/08 (fls.14 a 1[9?]) e a manifestação verbal da Representante do Ministério Público de Contas, responder a presente consulta nos termos dos pareceres da Auditoria e da Consultoria Técnica, e em parte com o Órgão Ministerial, excetuando-se o acréscimo feito. E encaminhando ao consulente as cópias dos citados pareceres.
+
+**Presentes** na Sessão os Conselheiros: Anfrisio Neto Lobão Castelo Branco (presidente), Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho e os Conselheiros Substitutos Jaime Amorim Júnior e Delano Carneiro da Cunha Câmara, em substituição respectivamente, aos Cons. Luciano Nunes Santos e Sabino Paulo Alves Neto, ambos em gozo de férias.
+
+**Representante do Ministério Público de Contas presente:** Procuradora [?] Raíssa Maria Rezende de Deus Barbosa.
+
+Transcreva-se, publique-se e encaminhe-se.
+
+Sala das Sessões do Tribunal de Contas do Estado do Piauí, em Teresina, 17 de janeiro de 200[8?].
+
+[assinaturas manuscritas sobrepostas às linhas de identificação abaixo]
+
+**Cons. A[encoberto]rísio [?] Neto [encoberto] Castelo [?] Branco [?]** — Presidente
+
+**Conselheiro Joaquim Kennedy [?] Nogueira [?] Barros** — Relator
+
+**Fui presente, Raíssa [?] Maria [?] Rezende de Deus [?] Barbosa** — Procuradora junto ao TCE/PI
+
+[margem esquerda: traço vertical tracejado e marcas de furação]
+
+[margem inferior direita: algarismo «2» impresso; rodapé: linha horizontal com pequenas manchas de digitalização; sem outro texto de rodapé legível]
 
 ## Ementa
 

@@ -20,167 +20,97 @@ Data apresentada na ficha: 8 de março de 2018 10:54. O título e o identificado
 
 O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
+### Conferência visual do documento
+
+O texto corrompido da extração anterior foi substituído por transcrição direta das imagens, cotejada integralmente em revisão independente. Preservam-se grafias, sinais e leituras degradadas, sem completar por coerência. Os nomes de arquivo do portal não substituem os números impressos. Assinaturas e carimbos são descritos sem autenticação; não se infere vigência. As páginas seguintes correspondem à captura oficial com SHA-256 `ee19457d772e50ce6598d4799ccdd496052a9ff0a1b33dff5a9f1601611ee522`.
+
 #### Página 1 do PDF oficial
 
-           Do
-    
-    
-                    Estado do Piaui                                                  op~; -
-                                                                                              *
-                    Tribunal de Contas
-                                                                                                      —
-    
-                                                                                         V
-                                                                                         DC) ET.flO
-                                                                                          lO I)ALJI
-    
-    
-    
-    
-                                                                                   319. 162
-    
-    PROCESSO TCE N 1M462fl                                       RL5OLUÇÂON 41
-    
-    
-    
-    
-                                                  EMENTA: P?cedha q~udo d
-                                              Ai*c de Lei Orç~~Aflud em pgzjo
-                                                  do Fd9 dc LOA ~ £ff ~ v~ pela
-                                              -   Cb~ Miakip.L Otfreck ao P*rgnifo
-                                                  á*w do wt J4 CoiçIo E,a4i..L
-    
-    
-                       O TRIBUNAL DE CONTAS DO LWADO DO PIAUL e,cminwo o
-    processo IC-E n 006462A), eul que consb a em~ 8preseu lada pdo Sr ArWn Luís
-    Vasconceks Feibsa Vereador da Câmara Municipal do Sk Pedro do Piaui, so beitan do
-                       -
-    
-    
-    
-    pOSJCIOnaI11CtO desta Corte de Contw a &iq                      .     adois para
-    regularizar a ausàcia de orç.ami1 pan o eccrcicio de 2009 em rilz& do Projrtu de Lei
-    Oramtánano Ver ovoladope1CâmazMurncipeI (lis 01 a I52).
-    
-                     CONSIDERANDO que a Corrteclona, ap& snhlise (fl 153) dei iru peso
-    seu coiiheiimerno conx, coniuIbi com flindamento ix ait I, fi 65 e 7° da RPuçào TCE/P!
-       1 04212007, sugertndo a seguinte cndagaç 1) Quais as medidas que a Càmara Mim .cipa
-    deve atar para regulanzar a ausôica da Lei OrçamnenLána Anual quando o projeta da
-    refendaiei n& for vora£lu pd a C imwm MiniicrpuI?
-    
-                      CONSIDERANDO qUe o parecer n° 21108 da Consultuna Técrnca deste
-    Tribuna! dv Cn1a3 (11 155). representada pelo Consultor Tciico Igleslas Ribeim, cm seu
-    p&cer ressaltou em sinhesé que
-    
-                     1) A Càmar Mimicipal ao     arar-se axn a iIuçr.n dicnla deve aplicar
-    o que dispõe o P~afo unuco do ou. 34 da ConstiCiiição EIua1
-    
-                    Ait. 34
-                     P.rêgr. s (ilcü NO O 6 O Pi dUt iO awier = LIIlt1
-                     Munidp.11 no prazo 1, os P14*ut4 dW Wi 40 OT!flttU r do
-                     p4ano pludanllel e ~ dIrrI~ orçementírla., a CI mera
-                      iotarà a Id •riI&'I e m vlor o mo
-                     irflr4uridq - ltpspas ii*c.ir.L La. E k'a. e .Jor.ndo, a
-                     prtir d, novo OrÇamtt            a, qu.rIo cab1veI o plano
-                     phiranuar .
-    
-    
-    
-    
-                                                           1   d000"
-                                                                   "
-    
+[margem superior direita: carimbo «FLS.» com numeração manuscrita «163 [?]» e rubrica manuscrita]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ»]
+
+**Fls. 162**
+
+**PROCESSO TCE Nº 006462/08** — **RESOLUÇÃO Nº 418/08**
+
+***EMENTA:** Procedimentos quando da Ausência de Lei Orçamentária Anual em razão do Projeto de LOA não ter sido votado pela Câmara Municipal. Obediência ao Parágrafo único do art.34, da Constituição Estadual.*
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ**, examinando o processo TC-E nº 006462/08, em que consta a consulta apresentada pelo Sr. Aírton Luís Vasconcelos Feitosa – Vereador da Câmara Municipal de São Pedro do Piauí, solicitando posicionamento desta Corte de Contas acerca dos procedimentos a serem adotados para regularizar a ausência de orçamento para o exercício de 2008, em razão do Projeto de Lei Orçamentária não ter sido votado pela Câmara Municipal (Fls 01 a 152).
+
+**CONSIDERANDO** que a Corregedoria, após análise (fl. 153) deliberou pelo seu conhecimento como consulta com fundamento no art. 1º, §§ 6º e 7º da Resolução TCE/PI nº 1.042/2007, sugerindo a seguinte indagação: 1) Quais as medidas que a Câmara Municipal deve adotar para regularizar a ausência de Lei Orçamentária Anual quando o projeto da referida lei não for votado pela Câmara Municipal?
+
+**CONSIDERANDO** que o parecer nº 21/08 da Consultoria Técnica deste Tribunal de Contas (fl. 155), representada pelo Consultor Técnico Iglesias Ribeiro, em seu parecer ressaltou em síntesé [?] que
+
+1) A Câmara Municipal ao deparar-se com a situação descrita, deve aplicar o que dispõe o Parágrafo unico do art. 34 da Constituição Estadual
+
+**Art. 34 ...**
+
+**Parágrafo único: "No caso de o Prefeito não enviar ao Legislativo Municipal, no prazo legal, os projetos de lei do orçamento, do plano plurianual e das diretrizes orçamentárias, a Câmara adotará a lei orçamentária em vigor como proposta, introduzindo-lhes as necessárias alterações e elaborando, a partir daí, novo orçamento e, quando cabível, o plano plurianual".**
+
+[abaixo, à direita: duas rubricas manuscritas, uma vertical e outra em forma de laço]
+
+[rodapé: linha horizontal; sem texto de rodapé legível]
 
 #### Página 2 do PDF oficial
 
-                                                                                  FLS._____
-    
-    
-    1                                                                                     'j   eO-
-               00
-    
-    
-                        Estado do Ptaui                                                          1Rj]AP.
-    
-                        Tribunal de Contas                                                    1) CC•ÇPI
-                                                                                              110 ETADÚ
-                                                                                               DO PIAII
-    
-    
-    
-    
-                                                                                    Fls.163
-    
-    
-        PROCESSO TCE Y 06462                                        RESOLUÇÃO N 41MIS
-    
-    
-    
-                           CONSLDERANLX) que o MLSTédO P(Iico dc Contas (ís,l57),
-        repre s;~nUdo pela Procura dbra Raisa Mia Remnde de D~ Barboa, em seu parecer
-        ressaliou que
-    
-                           A psernc ç cmsáta ~ ~e ~-~s~ prevtsto no Regimento
-        Interno, mormito . Falia de ~midak s            a amín cia doparecr do órgo de
-         sSfla jurdica, bem corc tratar de c~ cobcreK, cw~mdc> o diq~ no art.234, §
-        1°c 2 3 da Lei 1 225/5.
-    
-                          A consulta ri& de~ se ir conhecida (outudo se lbr a&muda, no ménto
-        seja re,ondido nos térits cb parr da Coiftca Tnica
-    
-    
-                        CONSWPRANDo que o Vom do RIabr (fts. 158 a 160), raficou o
-        posIc1cniento da Consu1toriaTiiica ( 155).
-    
-    
-        06 de març* de 200 (0 161) rponcr a preite cnrn1ta nos ter~ clo voto do Relator
-        ffis 158 a 160) rutflcank o parerda Ccnail,ria Téoucanu 2108 (ff155).
-    
-                         Pmw~ na S& os Conflieus: Anfrísio Neto Lobo Castelo Brco
-        (Presidente), Sabino Paulo Ajves Neto Abet   o ViI,va e Si1, Joaquim kÇenny
-        Nogueira Barros, Wl1ân,a M&ia Nogueira de Sou Leal Alvarenga e O1a'o Rdê(o dc
-        Caivalho Filho
-    
-                          Aigta por m~ justifico, quk da a~ ação do presente processo, o
-        'Conselheiro Luciio Nunes Si1os
-                           Rae1iit do M1              Páb& ifr Cea p~ fr: Procurador
-        Geral José Araíijo Pinheiro Júnior
-    
+[margem superior direita: carimbo «FLS.» com numeração manuscrita «164 [?]» e rubrica manuscrita]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ»]
+
+**Fls.163**
+
+**PROCESSO TCE Nº 006462/08** — **RESOLUÇÃO Nº 418/08**
+
+**CONSIDERANDO** que o Ministério Público de Contas (fls.157), representado pela Procuradora Ra[ï?]ssa Maria Rezende de Deus Barbosa, em seu parecer ressaltou que
+
+01) A presente consulta não atende aos requisitos previstos no Regimento Interno, mormente a falta de legitimidade do consulente, a ausência do parecer do órgão de assessoria jurídica, bem como tratar de caso concreto, contrariando o disposto no art.234, §§ 1ºe 2º, da Lei 1.225/95,
+
+02) A consulta não deverá ser conhecida. Contudo, se for admitida, no mérito seja respondido nos termos do parecer da Consultoria Técnica,
+
+**CONSIDERANDO** que o Voto do Relator (fls. 158 a 160), ratificou o posicionamento da Consultoria Técnica (fl. 155).
+
+**D E C I D I U** o Plenário, unânime, em Sessão Plenária Ordinária nº 09 de 06 de março de 2008 (fl. 161) responder a presente consulta nos termos do voto do Relator (fls 158 a 160) ratificando o parecer da Consultoria Técnica nº 21/08 (fl.155).
+
+**Presentes** na Sessão os Conselheiros: Anfrísio Neto Lobão Castelo Branco (Presidente), Sabino Paulo Alves Neto, Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga e Olavo Rebêlo de Carvalho Filho
+
+**Ausente** por motivo justificado, quando da apreciação do presente processo, o Conselheiro Luciano Nunes Santos
+
+**Representante do Ministério Público de Contas presente:** Procurador Geral José Araújo Pinheiro Júnior
+
+[abaixo, à direita: duas rubricas manuscritas, uma vertical e outra em forma de laço]
+
+[rodapé: linha horizontal tracejada; sem texto de rodapé legível]
 
 #### Página 3 do PDF oficial
 
-          JJo
-    
-    
-    
-                      Estado do Piaui
-                      Tribunal de Contas                                                1T•
-                                                                                 DO E5TÁDO
-                                                                                  1)o PtAI!I
-    
-    
-    
-    
-    PROCESSO TeK N W462M                                     RLSOLUÇÁO N' 41a/D8
-    
-    
-    
-    
-                      Tran siv-!e, pub1iqu-sc e encamLdww.
-    
-                      S1a ds 5~ do 1Tnbia! dé Cuits b Estado do Pui, em Tepmna, 06
-    de marçõ de 200
-    
-    
-    
-    
-                                                                         Piidnt
-    
-    
-                                                                           Keluto r
-    
-    
-    Fi preii, José                    JnIer           Prt'adr GeFII jM ao TCFJPI
+[margem superior direita: carimbo «FLS.» com numeração manuscrita «165 [?]» e rubrica manuscrita]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ»]
+
+**Fls. 164**
+
+**PROCESSO TCE Nº 006462/08** — **RESOLUÇÃO Nº 418/08**
+
+Transcreva-se, publique-se e encaminhe-se.
+
+Sala das Sessões do Tribunal de Contas do Estado do Piauí, em Teresina, 06 de março de 2008
+
+[assinaturas manuscritas sobrepostas às linhas de identificação abaixo]
+
+**Cons. A[encoberto]rísio [?] Neto Lobão [encoberto]astelo Branco** — **Presidente**
+
+**Conselheiro Sabino [?] Paulo Alves Neto [?]** — **Relator**
+
+**Fui presente, José Ar[encoberto] Pinheiro [?] Júnior** — **Procurador Geral junto ao TCE/PI**
+
+[restante da página em branco; rodapé: traço horizontal curto à direita; sem texto de rodapé legível]
 
 ## Ementa
 

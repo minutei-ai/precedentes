@@ -20,178 +20,102 @@ Data apresentada na ficha: 8 de março de 2018 13:27. O título e o identificado
 
 O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
+### Conferência visual do documento
+
+O texto corrompido da extração anterior foi substituído por transcrição direta das imagens, cotejada integralmente em revisão independente. Preservam-se grafias, sinais e leituras degradadas, sem completar por coerência. Os nomes de arquivo do portal não substituem os números impressos. Assinaturas e carimbos são descritos sem autenticação; não se infere vigência. As páginas seguintes correspondem à captura oficial com SHA-256 `9c4c19ce4f42a8cf16ebf84358c020061b0bbd99313dee2f78df383341e56760`.
+
+O documento é uma Resolução. O nome do município aparenta “Parnalba” na impressão degradada e não foi normalizado; as ênfases desta digitalização também têm leitura limitada.
+
 #### Página 1 do PDF oficial
 
-                                                                                             erã"'i
-                          Estado do Piauí
-                          Tribunal de Contas
-                                                                                                   OroDï
-                                                                                                      LH.
-                                                                                                                    1
-    
-    
-    
-    
-    1
-                                                                                                         Ix•J P1l
-    
-    
-    
-    
-                                                                                                 FhL Ib
-    
-        PROUiSS() TC) ND 03/IJ                                               RfCL üçÁo W 287iV
-    
-    
-    
-    
-    )                                                  /MET4- RedNqii du vpu' do Pt,'4ei
-                                                                 Câtii Mc/jwI — w~ d
-                                                             de r rwAaçãu de v Tti41 IIII1eaÍL
-                                                       fY1u'4cí à Lei              A,n,iiL ,4rt 9
-                                                       A 2,I1Idz CFWL
-    
-    
-    
-                              O TJH1rNAL LW CONTAS EH) ISTADO I) PIAUI, axemir=ido
-        u proc.ci 1C-     rf 00I64f0X b en qut cria aCM SUk8 L)T ikjk Sr 305é Hmn11ori
-        Fiii1ack Çik Branco         I'ie[ètlo Munucipu] de Paniib solai Lando          arjmen      dta
-        Corw de CorLias wibreo'akr diu reps           Fundri de Paikcipi        "i~s pa
-        (:úinnra Mui, rii r&zão da      ]flhçaLIif   nduç. de iece'tt uic-sicíJg pe la qde rio
-        ind ice de rLv3nço hiido dç l'a~I Lcipwiío do Municip]o 1PM. Fi, (01 ia 1)1)
-                                                                     -
-    
-    
-    
-    
-                             :O!iSIDjRAM)O qup, ii Çoffekk ria, (ft.O, venf        que ii presene
-        çnuftj atideu           req1jsiL &otos no agt 234 <jo ftgirrito Iiuerrg, do Lribunal de
-        Cons para reebunlLIIIr de ~ Suluis . quoq sej wn Leimid          (cil), pw-&z t&mcu ou
-        1widi    da  erihdiuie conijIertte ( 1 °) e m cps 1b[rr1IIa5 ecr cese (     is &w,
-        sigiflu O çujibecimeri       priile corLliMl cri ria gi.un  ucid
-    
-                                            J)flD)jpi( tih a sms rw.os do JFPM rèxii&s in r&zãc d3
-        queda k' numero & habes cFome Qmso do 1IG, e ifrnào ri.ejxIpto c'iinugiat
-        nbngedo a iepaar a (irnra tis vaIors              i ~JDs I,aa o olçarberico ck) exrcÍio Seiiui1e.
-                em eoru(,mudade rom Qb vaioresdo repas              iara os ('iLmarZ czm bs n& reib
-        eiLiva do eXeRiçLO anEeIlor Ou ckrd eompaúódizat os repe
-        1irnit in ~ ximo ih 70/t, (seu, por cent) da efetiu receiva xi eercIoo ini1'
-    
-                           2) Fm c~ de rpos L ahrna&ti i.a        qud o prucíJ 1           orre p ara
-        M eri dier os IgIÏi]Ts i rnpoçtós pI a Li dc 9 e~ sbi 1 i~e FaI"
-    
+[Carimbo/anotação, canto superior direito:] FLS. [rubrica manuscrita sobre a linha; número não legível]
+
+[Cabeçalho: brasão à esquerda] Estado do Piauí
+Tribunal de Contas
+[Logotipo à direita:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+Fls. 16
+
+**PROCESSO TCE Nº 001643/08**                    ***RESOLUÇÃO Nº 287/08***
+
+***EMENTA: Redução do repasse do Poder Executivo à Câmara Municipal em virtude de queda de arrecadação de receitas municipais. Obediência à Lei Orçamentária Anual. Art. 29-A, § 2º, III da CF/88.***
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ**, examinando o processo TC-E nº 001643/08, em que consta a consulta apresentada pelo Sr. José Hamilton Furtado Castelo Branco [traço ilegível] Prefeito Municipal de Parnalba[leitura degradada; grafia conforme aparente na impressão, não normalizada], solicitando esclarecimento desta Corte de Contas sobre o valor do repasse do Fundo de Participação dos Municípios para Câmaras Municipais, em razão da significativa redução de receitas ocasionada pela queda no índice de repartição do Fundo de Participação do Município – FPM. Fls. (01 a 04)
+
+**CONSIDERANDO** que a Corregedoria, (fl.05), verificou que a presente consulta atendeu aos requisitos dispostos no art. 234 do Regimento Interno do Tribunal de Contas para recebimento de consultas, quais sejam: legitimidade (caput), parecer técnico ou jurídico da entidade consulente (§ 1º) e a casos formulados em tese (§ 2º). *Dessa forma*, sugeriu o conhecimento da presente consulta com as seguintes indagações
+
+*1)* Caso um município tenha seus recursos do FPM reduzidos em razão da queda do número de habitantes, conforme Censo do IBGE, o referido município continuará obrigado a repassar a[crase não visível] Câmara os valores estimados para o orçamento do exercício seguinte. Feitos[leitura degradada] em conformidade com os valores dos repasses para as Câmaras com base na receita efetiva do exercício anterior? Ou deverá compatibilizar *os repasses de forma a obedecer ao* limite máximo de 7% (sete por cento) da efetiva receita do exercício atual[leitura degradada: "atual" ou "anual"]?
+
+2) Em caso de resposta afirmativa, qual o procedimento correto para atender os limites impostos pela Lei de Responsabilidade Fiscal?
+
+[Rubrica manuscrita abaixo, ao centro-direita]
+
+[Rodapé: linha horizontal; à direita, marca fragmentada, ilegível (aparenta "2 16" ou similar)]
 
 #### Página 2 do PDF oficial
 
-                                                                                                 à ;r
-    4'
-    
-    
-    
-    
-                            Estado do Piaui
-                            Tribunal de Contas
-                                                                                                    *     J)I!
-                                                                                                                 '
-    
-    
-    
-    
-                                                                                                           rr
-    
-    
-    
-    
-                                                                                                      Ij1_1 7
-    
-         PROCFSSO T(. fr NP 001643M                                                 SOLIJÇÃO rir 297/t
-    
-    
-                           CONSIDERANDO que o piecr riTM 1 1               da Consultona Tcanic. deste.
-         rnbwr,J de Conas (lis. 07 ii 10). ftpreserlL.a pe l,> (),nsultor Tiico Fiinik1 SoRres Paulo,
-         w-n u par€cer ressaltot.i qJ:
-    
-    
-                                Couftnii, o arL.29A da Con1itu'ç0 FederI, rntrdik pe la EC nÕ
-         25'2000, as despesas Loi        Pxhr [iIanvo deverão 51iiar-seetireo pataiva.Y de 5, e %
-         ias receita5 lributrias e feiLvam eate rgal i. zúdas no exercido u nLonor, previístas rio          ck
-         an153 e nos arbgos I        1S9daCaiiaMana;
-                                A Lei Orçaúieti1an Anua] (LOA) en v iada pelo Pr Eeiuirvo e
-         aprcrada pb Podei IÊffl ~ ]anvo contém s YaJores de reP aiísses mOfi sm para B Cânnam
-         M.wlIcl[P21 que no dcvcra u]Lrp saz os limitw peri.iuIu6Is &i ai129-A da CF, uillizanào
-         cjro clçulo o S OFOMóno di riçe'1i ir,huraiia e dm triuisíriiias prevlDO 5do n 153 e
-         no ailigos lR e 15 9 ,    fivmaizdO no exerricio antenor;
-                                o Poder Executi'ru Munuctpai deve ~c r er ao9 dispo w~ da LOA e
-         c12h Lei de Direinz C iirriiLiria (lix).
-                            4)De ardo iom a Lei Comp]emerir r' 59.19 8 8 , a re visãu das qML do
-         Fimdo k. PHJcIpç -J                                 be e m da105 oliciws        populaçãu prvdiizido.
-         pel3 Furdaço IDs a w Èu 1rjvuIeiro te Geo -gafia e de        '.stalislica (IBGE).  cXrrer4o arern
-         pLacr, o 1 nhuri1 d             C o nLus drL    jíLião   e rmaik          rEkLa o cicuJc   d4z 'tovo
-         cxir1e' prOdtLfluldO ekito5 fin RnIrW            a pam r du 3.ru  SCuLtie.
-    
-                             A €ojtsultoni em se u paI- T ixicluiu que o art-29-A da Conshço
-         Feulcral c ipeíis um limuce para a dc4)ea do 1"1er gikLr        M.niipã, que duveTá ser
-         ci1cuhdo com o iurri1iuio da reula lnbutianu e    níéJérlcL    ~  ti tocioriffi- 5 efenvam€tLi
-                     rn exercuao wUifior de'eridn obedtr aO€ di'ofItivos dALct   OrçnieiLan a Anual
-         eIL.ci dc 91re1riies (Jrçamentaiiaa
-    
-                             CONS1IJFR4NX)                 o Mtniteno ibLiix de Co~ (II. ii).
-         reprcseniado pelo     ProGur9dor PLinrn   Valente   Ranios NICIO DOU pelo «mbIrnerLto da
-         coo .il i por ai, der aos requii    ex i gidoi pelo  Ragimeiia In iemo ~ Tnbianú em seu ar.
-         234 1 rnt>rmen Ée ao   pareer r&mc»      ou jun  d icn da en~ ~ s ulonio e a
-           TrniJtadÚS em tcs (21 doi ke1uç              1 225 e por tra m-r-se de jr nat éyla de  de
-         re1vricIa (ari 2° 611).
-    
+[Carimbo/anotação, canto superior direito, empastado:] Fl[ilegível] [manuscrito: número ilegível] / [rubrica manuscrita]
+
+[Cabeçalho: brasão à esquerda] Estado do Piauí
+Tribunal de Contas
+[Logotipo à direita:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+Fls.17
+
+**PROCESSO TCE Nº 001643/08**                    **RESOLUÇÃO Nº 287/08**
+
+**CONSIDERANDO** que o parecer nº 11/08 da Consultoria Tecnica deste Tribunal de Contas (fls. 07 a 10), representada pelo Consultor Técnico Firmino Soares Paulo, em seu parecer ressaltou que:
+
+1) Conforme o art.29-A da Constituição Federal, introduzido pela EC nº 25/2000, as despesas totais do Poder Legislativo deverão situar-se entre o patamar de 5% e 8% das receitas tributárias efetivamente realizades[leitura degradada; não normalizado] no exercício anterior, previstas no § 5º, do art.153 e nos artigos 158 e 159 da Carta Magna;
+
+2) A Lei Orçamentária Anual (LOA) enviada pelo Poder Executivo e aprovada pelo Poder Legislativo contém os valores de repasses mensais para a Câmara Municipal que não deverá ultrapassar os limites percentuais do art.29-A da CF, utilizando como cálculo o somatório da receita tributária e das transferências previstas no §5º do art.153 e nos artigos 158 e 159, efetivamente realizado no exercício anterior;
+
+3) O Poder Executivo Municipal deve obedecer aos dispositivos da LOA e da Lei de Diretrizes Orçamentária (LDO).
+
+4)De acordo com a Lei Complementar nº 59/1988, a revisão das quotas do Fundo de Participação é feita anualmente com base em dados oficiais de população produzidos pela Fundação Instituto Brasileiro de Geografia e de Estatística (IBGE). Ocorrendo alteração populacional, o Tribunal de Contas da União é informado e realiza o cálculo dos novos coeficientes, produzindo efeitos financeiros a partir do ano seguinte.
+
+A Consultoria em seu parecer concluiu que o art.29-A da Constituição Federal é apenas um limite para a despesa do Poder Legislativo Municipal, que deverá ser calculado com o somatório da receita tributária e transferências constitucionais efetivamente realizadas no exercício anterior devendo obedecer aos dispositivos da Lei Orçamentária Anual e Lei de Diretrizes Orçamentárias.
+
+**CONSIDERANDO** que o Ministério Público de Contas (fl. 11), representado pelo Procurador Plínio Valente Ramos Neto opinou pelo conhecimento da consulta por atender aos requisitos exigidos pelo Regimento Interno deste Tribunal em seu art. 234, mormente ao parecer técnico ou jurídico da entidade consulente (§1º) e a casos formulados em tese (§2º) da Resolução 1[separador ilegível]225/95, e por tratar-se de matéria de grande relevância (art. 2º, § 6º).
+
+[Rubrica manuscrita abaixo, à direita, com pequena marca adicional]
+
+[Rodapé: linha horizontal; à direita, marca fragmentada, ilegível]
 
 #### Página 3 do PDF oficial
 
-                         Estado do Piauí
-                                                                                                   *
-                         Trjbunal de Contas                                                       1.J ElT.I)
-                                                                                                   10
-    
-    
-    
-    
-        PROC[SSO T(.):                                                   KSiOLUÇÃO N' 297J
-    
-    
-    
-    
-                           Nu ,ïno, o MR'fTC., esLá d              irdo cüm i r~ cii0 par da
-    J   C'onsultoTla Ic.nucad      Corte              fl. 07 10 R
-                                                              a            arnik,
-        que o Prfi ki     pciiiera dernninw- repe tuíDrior x     pTevis tu na Lei Oramii(i Ar ual se
-        reLa ou ria LL de Dire-m= ofç~cnirárias        huuver   au[onzaçãD  pm  tal pro'vidiici, cern
-         chniç.k dos cnieno o    parãrn~ig q tw pcimL   fl1 a muáw4o   disa mbdL
-    
-                           1) E C 1 D 1 l Menno     juie, em São P1enna QrdíiWi. nA 06 de
-        21 de íevereiro & 2009 (fl 15) rondr a prete çonsul ia rios l=eis dD .0 hD do Rc1toT
-         fls. 12 a I') e de aor&' cuim o parrdo Miitno ]'lioi de Cii ms (fi. li) o o pareri da
-        cn1tonTiiici 1 I! (fl 073 ID).
-    
-                          Prçnks ri          m CouIkuir*is Abelardo Pio Vibnova r Silv4)
-        pTI4.k(C eIli XeicLCi    m vinude da MânCLO jutiicada do Çol1eLb0uv An&íio No
-        LÁ,ãO CIe]o Briic), Saimo Pwilo Mve Nem, 1.w~ Nires Swilii. Icaipiim kemedy
-        Nogucira Barros. WWLátima Mana Noti e ra de Sou.çig, Ua1 ALvwwiga, ~o Rebc k
-        Caaflio E]Lho
-    
-                         Rpnn1aIe dó Muiwtério Púbfico ifr Crrnt.i              pr1-te. Pm.cur]or
-        Geral Jui AraJio Pinhle]ru Juri iõir
-    
-                          Trreva-. publi uï-se e encwiuiihese.
-    
-                          Sel-à d mi          Tnbur»d de CnIa do Vn do Piajjf, e[D Terema, 21
-        de           de 20
-                                       1
-         C0n5. Abe      o io    r
-                                                                              PredenLe em Exrcio
-    
-    
-         (in.dbeiru Joqu            eu4               WIiu.                                  Relator
-    
-    
-         FII pr   nL 1 Jesé Aa         1nero Jtiwur                PricuorleiIJurnO aoTCEJPI
+[Canto superior direito: rubrica manuscrita parcialmente coberta por área escura; carimbo de folha não legível]
+
+[Cabeçalho: brasão à esquerda] Estado do Piauí
+Tribunal de Contas
+[Logotipo à direita:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+Fls.18
+
+**PROCESSO TCE Nº 001643/08**                    **RESOLUÇÃO Nº 287/08**[ano com leitura degradada]
+
+No mérito, o MPC/TCE, está de acordo com as razões do parecer da Consultoria Técnica desta Corte de Contas de fls. 07 a 10. Resumidamente, tem-se a esclarecer que o Prefeito só poderá determinar repasse inferior ao previsto na Lei Orçamentária Anual se nela ou na Lei de Diretrizes Orçamentárias houver autorização para tal providência, com definição dos critérios e parâmetros que permitam a utilização dessa medida.
+
+**D E C I D I U** o Plenário, unânime, em Sessão Plenária Ordinária nº 06 de 21 de fevereiro de 2008 (fl. 15) responder a presente consulta nos termos do voto do Relator (fls.12 a 14) e de acordo com o parecer do Ministério Público de Contas (fl. 11) e o parecer da Consultoria Técnica nº 11/08 (fls 07 a 10).
+
+**Presentes** na Sessão os Conselheiros: Abelardo Pio Vilanova e Silva (presidente em exercício em virtude da ausência justificada do Conselheiro Anfrísio Neto Lobão Castelo Branco), Sabino Paulo Alves Neto, Luciano Nunes Santos, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho
+
+**Representante do Ministério Público de Contas** presente: Procurador Geral José Araujo Pinheiro Junior
+
+Transcreva-se, publique-se e encaminhe-se.
+
+Sala das Sessões do Tribunal de Contas do Estado do Piauí, em Teresina, 21 de fevereiro de 2008
+
+[assinatura manuscrita sobre o nome]
+**Cons. Abelardo Pio Vilanova e Silva**                    Presidente em Exercício
+
+[assinatura manuscrita sobre o nome]
+**Conselheiro Joaquim Kennedy Nogueira Barros**                    **Relator**
+
+[assinatura manuscrita sobre o nome]
+**Fui presente, José Araújo Pinheiro Júnior**                    Procurador Geral junto ao TCE/PI
+
+[Rodapé: linha horizontal; marcas fragmentadas ilegíveis à direita]
 
 ## Ementa
 

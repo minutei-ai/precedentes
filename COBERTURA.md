@@ -3176,3 +3176,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **TCEAL, lote 3 de 05/11/2026:** 11 documentos, 25 páginas físicas cotejadas por imagem, com conferência de ênfases e arbitragem de supostas duplicações. Sem novos IDs. Com os lotes anteriores, os 33 PDFs / 77 páginas do inventário foram tratados; o aceite do conjunto publicado ainda será auditado.
 
 - **PGEPR, 05/11/2026:** sete páginas das OA 11, 15, 19 e 21 transcritas por imagem e cotejadas integralmente em revisão independente, mantendo o Despacho 670/2016 separado da OA 11 e as incertezas de glifos. Sem novos IDs; demais itens e aceite da issue #256 continuam pendentes.
+
+- **TCEPI, residual de 05/11/2026:** dez PDFs / 28 páginas com OCR corrompido substituído por transcrição visual e revisão independente integral, sem novos IDs. Mantidas a separação entre Resolução e voto na ficha 16708 e a incerteza de vínculo da p. 2 do PDF da ficha 16012. O aceite global da issue #201 ainda depende da classificação das demais suspeitas da varredura.
