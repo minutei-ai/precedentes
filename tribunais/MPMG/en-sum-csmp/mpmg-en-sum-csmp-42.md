@@ -5,7 +5,7 @@
 - **Espécie:** Enunciado de súmula
 - **Número:** 42
 - **Identificador:** `mpmg-en-sum-csmp-42`
-- **Situação atribuída à fonte:** O caderno publica somente “REVOGADO”; o enunciado anterior não está reproduzido nem foi reconstruído.
+- **Situação atribuída à fonte:** O caderno publica “REVOGADO”. Uma redação histórica recuperada em outra fonte está transcrita separadamente abaixo.
 - **Fonte:** [Compilação oficial](https://www.mpmg.mp.br/data/files/EC/C7/D3/32/70CF191041383A19760849A8/Enunciados-sum-CSMP-Geral.pdf#page=5)
 - **Capturas:** 29/10/2026, duas respostas HTTP 200 idênticas, 170.417 bytes cada.
 - **SHA-256 do PDF:** `689f92659b53e4299a6fd04633cb5143bb2358d46d13dfd354d02b99b49d0dab`.
@@ -22,3 +22,15 @@ ENUNCIADO Nº 42: REVOGADO
 ## Conferência e limites
 
 Texto e notas conferidos nas imagens das páginas indicadas e na camada extraível. Não houve OCR. Espaços, quebras, negrito, itálico e sublinhado foram normalizados; asteriscos literais escapados em Markdown. A cor vermelha de “REVOGADO” foi reduzida a texto; não se adicionou risco ausente. A numeração de página e o caminho local impresso no rodapé foram omitidos. A página final identifica Diretoria Executiva do CSMP e 11/09/2024, reproduzidos no índice sem inferir data de aprovação de todos os verbetes. Notas de aprovação, reforma e republicação são atribuídas à fonte. Redações anteriores ausentes não foram reconstruídas; não há confirmação independente de vigência atual ou efeito vinculante. Atos, diários, normas e processos apenas citados não geraram identificadores.
+
+## Redação histórica recuperada — versão 2024
+
+[Fonte oficial](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D71D-28-aviso_csmp_11_09_2024.pdf), página(s) 1; SHA-256 `78029f2b618285e2a73a9410e6abe7d21b3853ec701dc0a2e53fac5fa960f6e9`.
+
+“Quando a vaga decorrente de remoção for provida por remoção interna e for esgotada a respectiva sequência de remoções internas, a vaga remanescente será preenchida conforme o critério do parágrafo único do art.183 da Lei Complementar nº 34/94.”
+
+### Proveniência desta versão
+
+A fonte é reprodução DIC/CEAF intitulada “AVISO CSMP, DE 2024”, sem dia, com indicação do Diário Oficial Eletrônico de 11.09.2024. Comunica revogação na 16ª Sessão Ordinária de 09/09/2024, PAI 111/2024, SEI 19.16.0961.0095892/2024-60. A nota sobre ementa criada pela DIC refere-se ao aviso, não ao enunciado. A compilação de 2021, p. 6, reproduz o mesmo corpo, inclusive “art.183”.
+
+Bloco completo cotejado por imagem e revisão independente em 05/11/2026, com as correções de grafia e glifo aplicadas. Tipografia e espaços de justificação simplificados; erros impressos preservados. Esta versão histórica permanece separada do rótulo REVOGADO da compilação, sem inferir vigência atual.
