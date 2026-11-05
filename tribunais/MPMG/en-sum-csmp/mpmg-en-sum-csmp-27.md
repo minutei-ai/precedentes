@@ -11,7 +11,7 @@
 - **SHA-256 do PDF:** `689f92659b53e4299a6fd04633cb5143bb2358d46d13dfd354d02b99b49d0dab`.
 - **Páginas físicas conferidas deste registro:** 3 de 9.
 
-Aviso posterior (leitura textual oficial): comunica revogação. [aviso de 05/11/2025](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D87D-28-aviso_csmp_07_11_2025.pdf). Conferência textual externa; captura local do PDF indisponível. [Limites](README.md#avisos-posteriores).
+Aviso posterior: comunica revogação na 31ª Sessão Ordinária de 03/11/2025, com menção de que o teor passou a integrar o Regimento Interno. Fontes conferidas em 04/11/2026: [aviso mpnormas](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D87D-28-aviso_csmp_07_11_2025.pdf) (HTTP 200 dual, 368.438 bytes, SHA-256 `85d217a15788b5d3622e123cf5a5c49f4c4eb84ecce0905acf74dcb93212296d`, 1 página; o PDF rotula “5 de novembro de 2025”) e [Diário Oficial de 07/11/2025, p. 5](https://www.mpmg.mp.br/diariooficial/DO-20251107.PDF) (HTTP 200 dual, 448.566 bytes, SHA-256 `13f5dbc8aa076f78d3dbbe634f8d8c7e16d57c261c3a3a31997c2b352a5ed15c`). O texto do caderno permanece; a revogação é atribuída ao aviso/DO, sem ID novo. Não se extraiu o teor como “ENUNCIADO” no Regimento Interno nesta consulta. [Limites](README.md#avisos-posteriores).
 
 ## Texto documental
 
