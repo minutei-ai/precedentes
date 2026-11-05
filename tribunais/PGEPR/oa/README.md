@@ -114,13 +114,13 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | 92 | [pgepr-oa-92](pgepr-oa-92.md) | PDF (Editado pela Resolução nº 158/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 93 | [pgepr-oa-93](pgepr-oa-93.md) | PDF (Editado pela Resolução nº 159/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 94 | [pgepr-oa-94](pgepr-oa-94.md) | PDF (Editado pela Resolução nº 160/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
-| 95 | [pgepr-oa-95](pgepr-oa-95.md) | PDF (Editado pela Resolução nº 161/2024-PGE ) | Texto publicado; conferir limites da ficha |
-| 96 | [pgepr-oa-96](pgepr-oa-96.md) | PDF (Editado pela Resolução nº 038/2025-PGE ) | Texto publicado; conferir limites da ficha |
-| 97 | [pgepr-oa-97](pgepr-oa-97.md) | PDF ( Editado pela Resolução nº 134/2025-PGE ) | Texto publicado; conferir limites da ficha |
+| 95 | [pgepr-oa-95](pgepr-oa-95.md) | PDF (Editado pela Resolução nº 161/2024-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 96 | [pgepr-oa-96](pgepr-oa-96.md) | PDF (Editado pela Resolução nº 038/2025-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 97 | [pgepr-oa-97](pgepr-oa-97.md) | PDF ( Editado pela Resolução nº 134/2025-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 98 | [pgepr-oa-98](pgepr-oa-98.md) | PDF (Editado pela Resolução nº 206/2025-PGE ) | Corpo em três páginas cotejadas em imagem; revisão documentada na ficha |
-| 99 | [pgepr-oa-99](pgepr-oa-99.md) | ​ PDF (Editado pela Resolução nº 276/2025-PGE ) | Texto publicado; conferir limites da ficha |
-| 101 | [pgepr-oa-101](pgepr-oa-101.md) | PDF (Editada pela Resolução nº 106/2026-PGE ) | Texto publicado; conferir limites da ficha |
-| 102 | [pgepr-oa-102](pgepr-oa-102.md) | PDF (Editada pela Resolução nº 120/2026-PGE ) | Texto publicado; conferir limites da ficha |
+| 99 | [pgepr-oa-99](pgepr-oa-99.md) | ​ PDF (Editado pela Resolução nº 276/2025-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 101 | [pgepr-oa-101](pgepr-oa-101.md) | PDF (Editada pela Resolução nº 106/2026-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 102 | [pgepr-oa-102](pgepr-oa-102.md) | PDF (Editada pela Resolução nº 120/2026-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 103 | [pgepr-oa-103](pgepr-oa-103.md) | PDF (Editada pela Resolução nº 219/2026-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 
 Os lotes remanescentes 1–3 incorporaram 42 páginas de 18 PDFs após revisão independente integral Sol/Astra e dez ajustes. As versões da OA35 e as associações divergentes OA39/48 e OA41/46 permanecem explícitas; a peça de número em branco não recebeu ID. Somados os recortes anteriores, 52 páginas de 23 PDFs receberam cotejo independente. As demais fontes e atos vinculados continuam pendentes na #256.
@@ -132,3 +132,5 @@ O lote7 incorporou20 páginas de13 PDFs após revisão independente integral Sol
 O lote 8 incorporou 19 páginas de dez PDFs, referentes às OA 75–84, após revisão independente integral Astra e um ajuste de negrito no preâmbulo da fonte 83. A fonte 84 conserva a resolução e a folha ePROTOCOLO separadas. Sem novo ID; os recortes revistos totalizam 151 páginas em 71 PDFs. Restam 46 páginas disponíveis de 17 PDFs nas partes 9–11, além de pendências de aquisição e recuperação histórica.
 
 As partes 9 e 11 incorporaram 26 páginas de onze PDFs, OA 85–94 e 103, após revisão independente integral Astra. Uma correção literal no nome documental da folha ePROTOCOLO da OA 85 foi aplicada; os originais privados foram preservados. A Resolução 219/2026 e sua folha de assinatura permanecem separadas. Sem novos IDs: os recortes revistos totalizam 177 páginas em 82 PDFs, com vinte páginas disponíveis de seis PDFs da parte 10 ainda pendentes, além das lacunas de aquisição e recuperação histórica.
+
+A parte 10 incorporou vinte páginas de seis PDFs, OA 95–97, 99, 101 e 102, após revisão independente integral Astra, sem substituições necessárias. A folha 4 da OA 101 é continuação e fecho, não folha ePROTOCOLO autônoma. Os recortes revistos totalizam 197 páginas em 88 PDFs disponíveis. Essa cobertura não encerra as pendências de aquisição de anexos e recuperação histórica da #256. Nenhum ID novo.
