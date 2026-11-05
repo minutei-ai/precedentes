@@ -13,3 +13,7 @@ Em 20/10/2025 o Tribunal Pleno aprovou a alteração dos enunciados das súmulas
 ## Testemunhos da Súmula 5 no ementário 2014/2015
 
 Cinco citações foram recuperadas e [conferidas nas imagens da edição oficial](sum/sumula-5-ementario-2014-2015.md), com variantes de caixa, pontuação e ênfase preservadas. São citações em julgados, sem novo ID; a publicação original de 2009 continua pendente.
+
+## Redação de 2013 da Súmula 3
+
+A [notícia oficial de 10/06/2013](sum/tjmmg-sum-3.md#redação-publicada-na-notícia-oficial-de-2013) publica a redação após a substituição de “efetivação” por “ativação da punição”, atribuída à sessão de 05/06/2013. Esse testemunho foi preservado como versão de 2013, sem reconstruir a edição de 2009 nem substituir a ata primária. Delta zero.
