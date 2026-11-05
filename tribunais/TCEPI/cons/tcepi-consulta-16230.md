@@ -77,6 +77,101 @@ Procurador do MPC-TCE/PI
 [Não há número nem rodapé impresso. Traço descendente da linha da Presidente atravessa a linha do Relator; não é possível afirmar assinatura distinta do Relator. Há rubrica na linha do Procurador, sem nome legível ou autoria atribuída.]
 
 
+
+## Voto vinculado — processo 45.472/12
+
+[Fonte oficial](https://www.tcepi.tc.br/wp-content/uploads/2018/03/Voto-1.pdf); três páginas; SHA-256 `7d0849310ab92fb7b478c456285899173d2e6baee5e41539be851105bea90ec0`. As três páginas foram transcritas de imagens e cotejadas integralmente em revisão independente por GPT-6 Astra na página 1 e GPT-6.1 Sol nas páginas 2–3, com os ajustes prescritos aplicados. O processo e o assunto impressos conferem com o acórdão acima; a associação não decorre apenas do nome do arquivo ou da posição do link. O voto permanece separado do acórdão e das citações internas de outros atos.
+
+As leituras de carimbos e traços manuscritos mantêm as incertezas locais. Assinaturas não foram autenticadas. Notas entre colchetes descrevem formato, marcas e destaques; não integram a redação jurídica. Não se inferem vigência ou efeito atual.
+
+### Voto — página física 1
+
+[Cabeçalho com brasão (inscrição legível: ESTADO DO PIAUÍ) e logomarca à direita (TRIBUNAL / DE CONTAS / DO ESTADO / DO PIAUÍ). Não reconstruir microtexto do brasão. Bloco PROCESSO até PROCURADOR e títulos 1. RELATÓRIO, 2. FUNDAMENTAÇÃO e 2.1 Do Conhecimento em negrito.]
+Gabinete Conselheiro Substituto
+Jaylson Campelo
+
+PROCESSO: TC-E-45.472/12
+ASSUNTO: Consulta sobre a possibilidade de implementação imediata ou não da gratificação de produtividade operacional no período que antecede o final do mandato
+CONSULENTE: Edvaldo Marques Lopes – Presidente da Câmara Municipal de Teresina
+RELATOR: Jaylson Fabianh Lopes Campelo
+PROCURADOR: Márcio André Madeira de Vasconcelos
+
+1. RELATÓRIO
+
+Versam os autos sobre consulta formulada pelo presidente da Câmara Municipal de Teresina, com vistas a dirimir dúvida quanto à possibilidade de implementação imediata da gratificação de produtividade operacional no período que antecede o final do mandato. O consulente colacionou parecer do órgão de assistência jurídica da Câmara, no qual defende a legalidade da implantação da medida, desde que em período não coincidente com o final do mandato do Presidente.
+
+Os autos foram à Diretoria de Fiscalização Municipal que se posiciona no sentido da impossibilidade da implantação, posto que tal medida implicaria, ainda que indiretamente, aumento de vencimentos e, por conseqüência, aumento de despesa de pessoal, vedado pelo art. 21, § único da LRF.
+
+O Ministério Público de Contas, em circunstanciado parecer, opina no mesmo sentido da vedação de aumento de vencimentos nos 180 dias anteriores ao final do mandato.
+
+É o relatório.
+
+2. FUNDAMENTAÇÃO
+
+2.1 Do Conhecimento
+
+O consulente tem legitimidade para indagar do Tribunal, nos termos do art. 201, II, do Regimento Interno, bem como a consulta contém indicação precisa e analítica de seu objeto e está devidamente instruída com parecer do órgão de assistência jurídica da autoridade consulente, razão por que dela conheço.
+
+[Carimbo superior direito: TRIBUNAL DE CONTAS DO ESTADO / Proc. Nº [ms.: 45.472/12] Fls. [ms.: 71, leitura provável]; rubrica não atribuída; Secretaria das Sessões / Funcionário parcialmente sobreposta pela logomarca.]
+[Marca manuscrita não atribuída junto à margem inferior direita. Sem rodapé textual legível. Não há fecho nesta página; páginas 2 e 3 fora do escopo.]
+
+### Voto — página física 2
+
+[Brasão: ESTADO DO PIAUÍ. Logotipo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Gabinete Conselheiro Substituto
+Jaylson Campelo
+
+[Carimbo superior direito, esmaecido: TRIBUNAL DE CONTAS DO ESTADO / Proc. Nº [manuscrito: 45.472/12] Fls. [manuscrito: 72] / Secretaria [trecho esmaecido/encoberto] / Funcionário; rubrica não atribuída.]
+
+**2.2 Do Mérito**
+
+A questão não é de difícil deslinde. Preliminarmente, cabe assentar que a verba *gratificação de produtividade*, segundo pacífico entendimento do STJ, constitui-se remuneração dos servidores devendo, por isso mesmo, ser devidamente considerada para fins do teto estabelecido no art. 37 da Constituição Federal. Por conseqüência, a verba de produtividade é, induvidosamente, despesa de pessoal.
+
+Lado outro, as despesas de pessoal são disciplinadas na Lei de Responsabilidade Fiscal, que impõe uma série de restrições à sua realização, calhando mencionar a constante do art. 21:
+
+> Art. 21 É nulo de pleno direito o ato que provoque aumento da despesa com pessoal e não atenda:
+>
+> I- ...
+>
+> II- ...
+>
+> Parágrafo único - Também **é** ***nulo de pleno direito o ato de que resulte aumento de despesa com pessoal expedido nos*** **180 (cento e oitenta) dias anteriores ao final do mandato** do titular do respectivo Poder ou órgão referido no art. 20. (Destaquei)
+
+Como se nota, a regra é clara, não sendo possível às Câmaras Municipais, nos últimos 180 dias do mandato de seu Presidente, como é o caso, conceder qualquer aumento aos seus servidores, seja a que título for. Vai além a legislação, vez que a Lei 10.028/2000 tipifica como crime aumentar despesa com pessoal em desacordo com a Lei de Responsabilidade Fiscal:
+
+> Art. 2º ...
+> Expedir ato que provoque aumento da Despesa com Pessoal em desacordo com a lei.
+> Pena - Reclusão de um a quatro anos.
+
+Assim, a resposta há de ser no sentido da impossibilidade de implantação da gratificação de produtividade nos últimos 180 dias do mandato do Presidente da Câmara Municipal, razão por que concordo com o posicionamento da DFAM e do Ministério Público de Contas.
+
+[Traços manuscritos abaixo do corpo, à direita; autoria não atribuída. Sem número de página ou rodapé impresso.]
+
+### Voto — página física 3
+
+[Brasão: ESTADO DO PIAUÍ. Logotipo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Gabinete Conselheiro Substituto
+Jaylson Campelo
+
+[Carimbo superior direito, esmaecido: TRIBUNAL DE CONTAS DO ESTADO / Proc. Nº [manuscrito: 45.472/12] Fls. [manuscrito: 73] / Secretaria [trecho esmaecido/encoberto] / Funcionário; rubrica não atribuída.]
+
+**3. VOTO**
+
+Ante o exposto, concluo pela vedação da fixação da gratificação de produtividade operacional nos últimos 180 dias do mandato do Presidente da Câmara Municipal.
+
+Encaminhe-se ao consulente e à AVEP cópia do parecer das fls. 59 a 65.
+
+***Teresina, 31 de janeiro de 2013.***
+
+[Traços manuscritos sobre e ao redor da linha do nome; autoria não autenticada.]
+
+***JAYLSON FABIANH LOPES CAMPELO***
+\- Relator –
+
+[Metade inferior sem texto; sem número de página ou rodapé impresso.]
+
 ## Ementa
 
 [Acórdão nº 153/13](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Ac%C3%B3rd%C3%A3o-15.pdf)
