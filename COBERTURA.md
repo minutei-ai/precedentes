@@ -2937,3 +2937,8 @@ Integradas as 12 páginas do Acórdão 3921/20, processo 113617/20, após revis�
 ## TCERN — publicação primária da Decisão 2092/2014 recuperada
 
 Integrado o trecho integral da publicação da Decisão 2092/2014-TC no DOE nº 1297, páginas 12–13: ementa e deliberação sobre o cancelamento da Súmula 24 e a ressalva de efeitos das decisões anteriores. As duas páginas foram conferidas integralmente nas imagens por revisão independente. Sessão 93 de 11/12/2014; disponibilização em 18/12/2014. A redação histórica já recuperada, o campo cadastral inativa=false e o cancelamento documental permanecem atribuídos separadamente, sem inferir vigência atual. A publicação não foi apresentada como voto autônomo ou autos completos. Documento de apoio na ficha existente; zero IDs/órgãos adicionais, TCERN continua com 34 registros. PDFs e revisão permanecem privados. A recuperação supera a pendência documental da #197.
+
+
+## TCEPR — cinco documentos e 27 páginas adicionais conferidos
+
+Integrados os Acórdãos 2672/2010, 1145/2016, 1903/2011, 1850/2011 e 1080/2009, 27 páginas abertas integralmente por revisão independente. Aplicadas as correções de espaços, carimbo/processo e notas; preservados os destaques e as ressalvas da fonte. A redação original do 1145 não foi fundida com a redação dos embargos citada no catálogo. A etapa soma sete documentos/54 páginas integrados entre os 13 documentos/102 páginas recuperados. Outros seis seguem pendentes, sem concluir #194. IDs existentes, zero delta de registros/órgãos.

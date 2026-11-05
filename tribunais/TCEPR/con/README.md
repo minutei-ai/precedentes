@@ -945,3 +945,8 @@ O [registro 1108/2020](tcepr-con-ref-8a91494299061b7e01990624e2633808.md) inclui
 ## Acórdão 3921/2020 — inteiro teor recuperado e conferido
 
 O [registro 3921/2020](tcepr-con-ref-4936b6209ab75906019abcc93f046de2.md) inclui a transcrição das 12 páginas do documento principal, com revisão visual integral, notas 1–23 separadas do corpo e destaques preservados. Os metadados do VIAJuris (14/12/2020) e o fecho do PDF (17/12/2020) permanecem atribuídos. Sem novo ID. Do lote de 13 documentos recuperados, 1108 e 3921 estão integrados; os demais 11 seguem pendentes de revisão/integração (#194).
+
+
+## Cinco documentos principais adicionais — revisão integral
+
+Integrados os Acórdãos 2672/2010 (5 páginas), 1145/2016 (6), 1903/2011 (5), 1850/2011 (5) e 1080/2009 (6), sob os IDs existentes. As 27 páginas foram conferidas integralmente nas imagens por revisão independente. Corrigidos a fusão de carimbo/processo do 2672, os espaços espúrios do 1145 e os marcadores de notas; preservadas as ressalvas de carimbos recortados, marca d’água, estilo e redação original distinta dos embargos no 1145. Com 1108/2020 e 3921/2020, são sete dos 13 documentos recuperados já integrados (54 páginas); os outros seis seguem pendentes de revisão/integração. Nenhum ID novo; #194 continua aberta.
