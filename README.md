@@ -2,7 +2,7 @@
 
 Súmulas, temas, consultas, orientações e manifestações de fontes oficiais. Um arquivo Markdown por registro.
 
-**Cobertura parcial.** O inventário estrutural de 05/11/2026 registra **43.868 identidades em 211 órgãos**, sem IDs duplicados. Inclui históricos, cancelados e registros com texto pendente; contagem não certifica integralidade textual ou vigência. [Método e limites](COBERTURA.md) · [Acompanhamento das lacunas (#239)](https://github.com/minutei-ai/precedentes/issues/239).
+**Cobertura parcial.** O inventário estrutural e os deltas conferidos de 05/11/2026 registram **43.869 identidades em 211 órgãos**. A última recontagem integral tinha 43.868 IDs únicos, sem duplicatas; o parecer PGEPE 004/2023 acrescentou uma identidade distinta. Inclui históricos, cancelados e registros com texto pendente; contagem não certifica integralidade textual ou vigência. [Método e limites](COBERTURA.md) · [Acompanhamento das lacunas (#239)](https://github.com/minutei-ai/precedentes/issues/239).
 
 
 - [Explorar por órgão](tribunais/README.md)

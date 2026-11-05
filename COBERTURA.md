@@ -1,8 +1,8 @@
 # Cobertura
 
-**Inventário estrutural de 05/11/2026: 43.868 identidades com campo Identificador em 211 órgãos**, conferido no commit [`de85dcc94`](https://github.com/minutei-ai/precedentes/commit/de85dcc94b534730c04c706a1b2062ec89eeaaa8) e integrado à main. São 43.868 arquivos de registro e 43.868 IDs únicos, sem duplicatas. Documentos complementares com campo Registro relacionado/Identificador de suporte ficam fora dessa contagem. O inventário inclui metadados, históricos, cancelados e textos pendentes; não mede integralidade, revisão visual ou vigência.
+**Inventário estrutural e deltas de 05/11/2026: 43.869 identidades em 211 órgãos.** A última recontagem integral, no commit [`de85dcc94`](https://github.com/minutei-ai/precedentes/commit/de85dcc94b534730c04c706a1b2062ec89eeaaa8), confirmou 43.868 arquivos com Identificador e 43.868 IDs únicos, sem duplicatas. A integração posterior do PGEPE 004/2023 acrescentou um ID conferido como distinto; não houve nova recontagem integral após esse delta. Documentos complementares com Registro relacionado/Identificador de suporte ficam fora da contagem. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta demonstrado é +891 IDs e +24 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta demonstrado é +892 IDs e +24 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -2908,3 +2908,7 @@ Integrados quatro corpos do catálogo oficial de Teses Prevalecentes, com notas,
 ## Documentos complementares e identidade do registro
 
 Vinte e um documentos complementares TRE-MS/TRE-PB repetiam o campo Identificador da ficha principal. O campo passa a Registro relacionado, com link para a ficha canônica. Nenhum conteúdo foi removido nem houve novo ID; documentos de apoio não são precedentes adicionais. A recontagem por IDs únicos distingue esse ajuste de marcador dos quatro registros novos TRT23.
+
+## PGEPE — Parecer Referencial 004/2023
+
+Integrado o parecer impresso 0004/2023, catálogo 004/2023, em 17 páginas conferidas visualmente por revisão independente. Aplicadas as 24 restaurações de traços e os quatro pares de marcadores de notas indicados pela revisão; comparação posterior preserva todas as palavras, pontuação e hífens da camada nativa. Assinatura em imagem e despacho sem assinatura/data anotados; perda de ênfases declarada. Aprovação formal depende da Portaria 169/2023 ainda não revisada. Delta +1 ID, zero órgãos; PGEPE 2 registros, total estrutural 43.869/211 derivado da recontagem anterior e deste delta. Restante do catálogo permanece em #264.
