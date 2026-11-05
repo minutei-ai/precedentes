@@ -3184,3 +3184,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **TCMBA, 05/11/2026:** Parecer Normativo 003/95, duas imagens do DOC oficial cotejadas diretamente em revisão independente; corrigida a atribuição dos nomes e funções no fecho e retirada a falsa lacuna de um conselheiro adicional. Acento parcialmente encoberto mantido incerto. Recaptura HTTP 200 com TLS verificado e bytes idênticos. Sem novos IDs.
 
 - **PGEPA, lotes 2–3 de 05/11/2026:** quatro PDFs / 51 páginas cotejadas integralmente por GPT-6.1 Sol; +2 IDs (004/2019 e 000003/2020), com atualização de 000002/2022 e 000014/2024. Despachos separados, checklist integrado ao corpo, marcas d’água sem inferência de efeito e sinal encoberto mantido incerto. Demais arquivos do inventário seguem pendentes.
+
+- **PGEPA, lote 4 de 05/11/2026:** 28 páginas de 006/2019 e 000002/2020 cotejadas integralmente por GPT-6 Astra, com correções aplicadas, peças separadas, tabela não preenchida e dúvidas remanescentes preservadas. Sem novos IDs; os nove PDFs já tratados somam 114 páginas, sem certificar o restante do inventário.
