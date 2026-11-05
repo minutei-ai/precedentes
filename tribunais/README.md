@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Recontagem integral de 05/11/2026: 43.887 identidades únicas em 212 órgãos, sem duplicatas.** Base [`4abb1ec88`](https://github.com/minutei-ai/precedentes/commit/4abb1ec88eae7121d23e64435a618a7830d9de21). Foram contados os campos “Identificador” das fichas Markdown; documentos complementares com Registro relacionado/Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
+**Recontagem integral e delta conferido de 05/11/2026: 43.888 identidades únicas em 212 órgãos, sem duplicatas.** A base [`4abb1ec88`](https://github.com/minutei-ai/precedentes/commit/4abb1ec88eae7121d23e64435a618a7830d9de21) tinha 43.887 IDs; o Enunciado MPMA 25/23 acrescenta um ID distinto. Foram contados os campos “Identificador” das fichas Markdown; documentos complementares com Registro relacionado/Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -58,7 +58,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [MPF](MPF/) | 430 |
 | [MPGO](MPGO/) | 84 |
 | [MPM](MPM/) | 73 |
-| [MPMA](MPMA/) | 48 |
+| [MPMA](MPMA/) | 49 |
 | [MPMG](MPMG/) | 68 |
 | [MPMS](MPMS/) | 26 |
 | [MPMT](MPMT/) | 20 |
@@ -218,4 +218,6 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TRT24](TRT24/) | 99 |
 | [TSE](TSE/) | 73 |
 | [TST](TST/) | 1.613 |
-| **Total** | **43.887** |
+| **Total** | **43.888** |
+
+O Enunciado MPMA25/23 acrescenta um ID à recontagem integral de43.887, sem novo órgão. Não houve nova recontagem integral após esse delta.
