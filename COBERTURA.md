@@ -3074,3 +3074,7 @@ As RAs57/2007,67/2013,80/2014 e56/2024 somam15 páginas integralmente cotejadas 
 ### CGECE — reconciliação das duas edições concluída, 05/11/2026
 
 Os 41 enunciados de2015 e os73 da2ªedição foram integralmente cotejados em imagem, com correções de espaços, parágrafos, referências e páginas de continuação aplicadas. Históricos permanecem separados;12marcas de revisão conferidas. Anexos de terceiros não foram atribuídos à CGE. Ficha catalográfica2015 diz52p.,PDF48p.,sem lacuna numerada1–47: limite explícito, não reconstruído. Escopo documental da issue217 concluído, delta zero, sem vigência ou completude histórica inferida.
+
+### MPAP — proposta de2024 conciliada, 05/11/2026
+
+A minuta sem número da ata396ª foi vinculada ao Enunciado CSMP008 pelo processo completo, reunião e texto dos três itens; a aprovação formal está na p.26, não na25. Variantes de classes, aspas e datas de criação preservadas na ficha. Com as45 páginas CSMP e as duas do CAO Criminal já cotejadas, o recorte documental da issue271 está reconciliado. Nenhum ID adicional para a minuta; catálogo atual403e limites de vigência/completude explícitos.
