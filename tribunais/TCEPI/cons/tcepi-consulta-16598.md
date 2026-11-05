@@ -131,11 +131,13 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+[Nota editorial de apresentação: Brasão à esquerda com ESTADO DO PIAUI e logomarca à direita com TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Rótulos de identificação e “1. RELATÓRIO” em negrito; ementa à direita em itálico. Na sigla final do ato, S está subscrito a C. Rodapé em cinza, duas linhas.]
+
                            Estado do Piauí
                            Tribunal de Contas
                            Gabinete do Cons. Subs. Alisson Araújo
-    
-    
+
+
     ATO PROCESSUAL: PV nº. 00.002/15 - CS
     PROCESSO: TC nº. 010.674/14 – Processo de Consulta
     CONSULENTE: Srª. Waltânia Maria Nogueira de Sousa Alvarenga – Conselheira Presidente do Tribunal de Contas do
@@ -143,154 +145,158 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
     UNIDADE JURISDICIONADA: Tribunal de Contas do Estado do Piauí
     RELATOR: Conselheiro Substituto Alisson Felipe de Araújo
     PROCURADOR: Raïssa Maria Rezende de Deus Barbosa
-    
-    
-    
-    
+
+
+
+
                                                                                          Consulta. Tribunal de Contas do Estado do Piauí. Análise
                                                                                          técnica circunstanciada. Admissibilidade e Resposta aos
                                                                                          quesitos formulados. Possibilidade de provimento de cargo
                                                                                          público, admissão ou contratação de pessoal a qualquer
                                                                                          título, nos 180 (cento e oitenta) dias anteriores ao final do
                                                                                          mandato do titular do respectivo Poder ou Órgão.
-    
-    
-    
-    
+
+
+
+
            1. RELATÓRIO
-    
-    
+
+
            Trata-se de Consulta formulada pelo Tribunal de Contas do Estado do Piauí, representado, neste ato, pela Srª.
     Waltânia Maria Nogueira de Sousa Alvarenga, Presidente do referido órgão.
-    
+
            Indaga a consulente sobre os seguintes pontos:
-    
+
                1) Frente ao disposto no art. 21, parágrafo único da Lei Complementar nº. 101/2000, e respeitando as exigências
                    dos arts. 16 e 17 desta Lei Complementar e o disposto no art. 37, XIII e no art. 169, § 1º da Constituição
                    Federal, pode haver, nos 180 (cento e oitenta) dias anteriores ao final do mandato do titular do respectivo
                    Poder ou Órgão referido no art. 20:
-    
+
                       1.1. Nomeação ou exoneração de cargos em comissão e designação ou dispensa de funções de
                             confiança?
-    
+
                       1.2. Nomeação para cargos dos Poderes Executivo, Legislativo, Judiciário e órgãos do Estado do Piauí?
-    
+
                       1.3. Nomeação de servidores aprovados em concursos públicos homologados até o início daquele prazo?
-    
-    
-    
-    
+
+
+
+
                                                        Processo TC nº. 010.674/14
                                              Gabinete do Conselheiro Substituto Alisson Araujo
-    
+
 
 #### Página 2 do PDF oficial
+
+[Nota editorial de apresentação: Brasão à esquerda e logomarca à direita, com legendas ESTADO DO PIAUI e TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. “ex officio” e “Parquet de Contas” em itálico; “Preliminarmente”, “Conhecimento” e “no Mérito” em negrito. Rodapé em cinza, duas linhas.]
 
                             Estado do Piauí
                             Tribunal de Contas
                             Gabinete do Cons. Subs. Alisson Araújo
-    
+
                        1.4. Nomeação ou contratação necessária à instalação ou ao funcionamento inadiável de serviços
                              públicos essenciais, com prévia e expressa autorização do Chefe do Poder Executivo?
-    
+
                        1.5. Transferência ou remoção ex officio de militares, policiais civis e de agentes penitenciários?
-    
+
            Devidamente autuada, a consulta foi distribuída ao Conselheiro Substituto Alisson Araújo e, após análise inicial de
     admissibilidade, nos termos do art. 201, §1º, do RI TCE PI, os autos foram remetidos a Comissão de Regimento e
     Jurisprudência desta Corte de Contas para que informasse sobre a existência de precedentes sobre a matéria.
-    
+
            A Comissão de Regimento e Jurisprudência, por sua vez, informou não existir, no âmbito, desta Corte, nenhum
     precedente sobre a referida matéria.
-    
+
            Determinou o relator, em seguida, a manifestação técnica do órgão competente da Secretaria do Tribunal o qual
     apresentou relatório contendo a seguinte conclusão:
-    
+
                -   o art. 21, parágrafo único da LRF deve ser interpretado sistemática e teleologicamente, de modo a se aplicar a
                    ele as mesmas exceções previstas no inciso V do art. 73 da Lei nº. 9.504/97, possibilitando, desde que
                    observadas as exigências dos arts. 16 e 17 da LRF, e o disposto no inciso XIII do art. 37 e no § 1º do art. 169
                    da CF, a realização de:
-    
+
                            a) nomeação ou exoneração dos cargos em comissão e designação ou dispensa de funções de
                                confiança;
-    
+
                            b) nomeação para cargos do Poder Judiciário, do Tribunal de Contas do Estado do Piauí e dos órgãos
                                autônomos do Governo do Estado do Piauí;
-    
+
                            c) nomeação dos aprovados em concursos públicos até os três meses antecedentes ao pleito.
-    
+
             Ato contínuo, os autos foram encaminhados ao Ministério Público de Contas e este, após análise, opinou nos
     seguintes termos:
-    
-    
+
+
                -   Preliminarmente, sugeriu o órgão ministerial o Conhecimento da presente consulta, tendo em vista o
                    atendimento dos requisitos encartados no art. 201, I, “d”, e § 1º do Regimento Interno desta Corte;
-    
+
                -   no Mérito, manifestou-se o Parquet de Contas pela possibilidade de nomeação ou exoneração de cargos em
                    comissão e designação ou dispensa de funções de confiança; nomeação para cargos do Poder Judiciário, do
                    Tribunal de Contas do Estado do Piauí e dos Órgãos autônomos do Governo do Estado do Piauí; e nomeação
                    de aprovados em concursos públicos homologados até os três meses antecedentes ao pleito, desde que
                    respeitadas as exigências dos arts. 16 e 17 desta Lei Complementar e o disposto no art. 37, XIII e no art. 169,
                    § 1º da Constituição Federal e que se demonstre, em todos os casos:
-    
+
                            a) o atendimento ao disposto nos arts. 16 e 17 da LRF, ao art. 37, XIII e art. 169, § 1º da
                                Constituição Federal;
-    
+
                            b) o não comprometimento do índice da despesa de pessoal;
-    
-    
-    
-    
+
+
+
+
                                                         Processo TC nº. 010.674/14
                                               Gabinete do Conselheiro Substituto Alisson Araujo
-    
+
 
 #### Página 3 do PDF oficial
+
+[Nota editorial de apresentação: Brasão à esquerda e logomarca à direita com legendas ESTADO DO PIAUI e TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. “2. PREMILINAR”, “3. MÉRITO” e “EM TESE” em negrito. Citação de O somatório até natureza, em itálico e recuada à direita. Rodapé cinza em duas linhas.]
 
                             Estado do Piauí
                             Tribunal de Contas
                             Gabinete do Cons. Subs. Alisson Araújo
-    
+
                            c) a existência de dotação orçamentária suficiente para atender as projeções de despesas, de forma a
                                não comprometer o mandato subsequente;
                            d) o enquadramento, exclusivo e rigoroso, dos casos de nomeação/exoneração ocorridos dentro dos
                                180 dias anteriores ao término do mandato nas exceções contidas no inciso V, art. 73 da Lei nº.
                                9.504/97, e tão somente pelos órgãos ali enumerados.
-    
+
            É, em síntese, o relatório.
-    
-    
-    
-    
+
+
+
+
            2. PREMILINAR
-    
-    
+
+
            Verificamos, nos termos constantes da petição inicial, ser a consulente parte legítima para formular a presente
     consulta e o seu objeto refere-se à matéria de competência desta Corte de Contas, nos termos dos art. 201, do RI TCE PI.
-    
+
            Verificamos, ainda, o atendimento dos requisitos constantes no art. 201 do RI TCE PI.
-    
+
            Por fim, constatamos, também, a pertinência temática da consulta às respectivas áreas de atribuição e competência do
     órgão consulente, conforme estabelece o § 2º, do art. 201, do RI TCE PI.
-    
+
            Desse modo, conheço desta consulta para respondê-la EM TESE.
-    
-    
-    
-    
+
+
+
+
            3. MÉRITO
-    
-    
+
+
            De início, cumpre esclarecer que a consulente, com seus questionamentos, deseja saber se é possível proceder à
     nomeações ou designações para cargo em comissão ou funções de confiança, respectivamente, nos 180 (cento e oitenta) dias
     anteriores ao final do mandato do titular do respectivo Poder ou Órgão.
-    
+
            Neste questionamento, a consulente se refere à alteração de gastos com pessoal, tema tratado pela Lei Complementar
     nº. 101/2000 como meio essencial para o alcance do equilíbrio das contas públicas. A princípio, faz-se necessária a
     conceituação de despesa com pessoal, a qual se encontra nos arts. 18, 19 e 20 da lei retromencionada e segundo os quais se
     entende como despesa total com pessoal:
-    
-    
-    
+
+
+
                                                                             O somatório dos gastos do ente da Federação com os
                                                                             ativos, os inativos e os pensionistas, relativos a mandatos
                                                                             eletivos, cargos, funções ou empregos, civis, militares e de
@@ -299,30 +305,32 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
                                                                             e variáveis, subsídios, proventos da aposentadoria,
                                                                             reformas e pensões, inclusive adicionais, gratificações,
                                                                             horas extras e vantagens pessoais de qualquer natureza,
-    
-    
-    
-    
+
+
+
+
                                                         Processo TC nº. 010.674/14
                                               Gabinete do Conselheiro Substituto Alisson Araujo
-    
+
 
 #### Página 4 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com suas legendas institucionais. Continuação inicial de bem como até previdência. em itálico; citação Art. 169 até 1998). em itálico e recuada à direita. Rodapé cinza em duas linhas.]
 
                             Estado do Piauí
                             Tribunal de Contas
                             Gabinete do Cons. Subs. Alisson Araújo
-    
+
                                                                             bem como encargos sociais e contribuições recolhidas
                                                                             pelo ente às entidades de previdência.
-    
+
     Além disso, a Constituição Federal Brasileira, ao tratar “Das Finanças Públicas”, impõe no seu artigo 169:
-    
+
                                                                             Art. 169. A despesa com pessoal ativo e inativo da União,
                                                                             dos Estados, do Distrito Federal e dos Municípios não
                                                                             poderá      exceder   os   limites   estabelecidos   em   lei
                                                                             complementar.
-    
+
                                                                             § 1º A concessão de qualquer vantagem ou aumento de
                                                                             remuneração, a criação de cargos, empregos e funções ou
                                                                             alteração de estrutura de carreiras, bem como a admissão
@@ -331,81 +339,83 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
                                                                             fundações instituídas e mantidas pelo poder público, só
                                                                             poderão ser feitas: (Renumerado do parágrafo único, pela
                                                                             Emenda Constitucional nº 19, de 1998);
-    
+
                                                                             I - se houver prévia dotação orçamentária suficiente para
                                                                             atender às projeções de despesa de pessoal e aos
                                                                             acréscimos dela decorrentes; (Incluído pela Emenda
                                                                             Constitucional nº 19, de 1998);
-    
+
                                                                             II - se houver autorização específica na lei de diretrizes
                                                                             orçamentárias, ressalvadas as empresas públicas e as
                                                                             sociedades de economia mista. (Incluído pela Emenda
                                                                             Constitucional nº 19, de 1998).
-    
+
            A norma constitucional acima reproduzida ainda dita regras (parágrafos 2º ao 7º) para a adequação das despesas de
     pessoal, vez que possui como finalidade primordial a busca por uma gestão governamental mais responsável, controlada e
     comedida, buscando impor limites à Administração Pública e objetivando evitar futuros problemas financeiros, isto porque a
     despesa de pessoal é uma despesa corrente de caráter continuado, que pode onerar as finanças públicas periódica e
     continuamente por um período indeterminado; logo, merece um maior zelo no seu controle.
-    
+
            A Carta Magna menciona que os limites de despesa com pessoal serão estabelecidos por uma lei complementar. Para
     tanto foi editada a Lei Complementar nº 101/00, nacionalmente conhecida como a Lei de Responsabilidade Fiscal e que tem
     como um de seus principais pilares o planejamento, a prudência fiscal, o controle, a transparência e a responsabilização.
-    
+
            O controle é vislumbrado tanto no tocante à arrecadação das receitas quanto na aplicação das despesas públicas,
     visando à construção de uma Administração Pública pautada na gestão financeira responsável e sadia. Com intuito de garantir
     essa saúde financeira, bem como regulamentar o transcrito artigo 169 da Constituição Federal, a LRF estabeleceu os limites
     de endividamento com pessoal em seus artigos 18, 19 e 20, definindo o que é despesa com pessoal e quais despesas não se
-    
-    
-    
+
+
+
                                                         Processo TC nº. 010.674/14
                                               Gabinete do Conselheiro Substituto Alisson Araujo
-    
+
 
 #### Página 5 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com legendas institucionais. Citação Art. 21 até art. 20. em itálico e recuada à direita. Citação A intenção até entendido como em itálico e recuada à direita; dentro dela, “O dispositivo, se fosse entendido como” também em negrito. Rodapé cinza em duas linhas.]
 
                              Estado do Piauí
                              Tribunal de Contas
                              Gabinete do Cons. Subs. Alisson Araújo
-    
+
     enquadram neste conceito. Além disto, fixou o teto máximo de gastos desta natureza e estatuiu os casos de nulidade dos atos,
     ao definir no art. 21:
-    
+
                                                                              Art. 21. É nulo de pleno direito o ato que provoque
                                                                              aumento da despesa com pessoal e não atenda:
-    
+
                                                                              I - as exigências dos arts. 16 e 17 desta Lei
                                                                              Complementar, e o disposto no inciso XIII do art. 37 e no
                                                                              § 1o do art. 169 da Constituição;
-    
+
                                                                              II - o limite legal de comprometimento aplicado às
                                                                              despesas com pessoal inativo.
-    
+
                                                                              Parágrafo único. Também é nulo de pleno direito o ato de
                                                                              que resulte aumento da despesa com pessoal expedido nos
                                                                              cento e oitenta dias anteriores ao final do mandato do
                                                                              titular do respectivo Poder ou órgão referido no art. 20.
-    
+
             Como visto, o dispositivo retro transcrito impôs um limite de ordem temporal às despesas com pessoal, a ser
     observado pelo titular de Poder ou órgão em final de mandato.
-    
+
             A Lei Complementar nº. 101/2000 não traz expressamente exceções à regra imposta no art. 21. Trata-se, portanto, de
     uma norma genérica, cuja interpretação literal nos levaria à conclusão da proibição da prática de todo e qualquer ato que
     acarrete aumento de despesa com pessoal nos últimos 180 dias do mandato do gestor público. Não nos parece ser essa a
     melhor interpretação.
-    
+
             Para alcançar a sua finalidade, a referida norma deve ser interpretada partindo do objetivo primordial do diploma
     legal no qual está inserido, isto é, a instituição de um regime de gestão fiscal responsável. Neste ínterim, pode-se dizer que o
     objetivo da norma em questão é evitar o favorecimento indevido em final de mandato e o uso privado de bens públicos, bem
     como o crescimento da despesa com pessoal e a consequente legação leviana de dívidas públicas para as gestões posteriores.
-    
+
             A nulidade prevista no parágrafo único do art. 21 da LRF deve ser examinada consoante o princípio constitucional da
     proporcionalidade, de modo que somente devem ser alcançadas pela vedação legal as elevações de despesa com pessoal
     destoantes dos objetivos políticos da norma.
-    
+
             Nesse sentido, vale destacar o entendimento de Maria Sylvia Zanella Di Pietro:
-    
+
                                                                              A intenção do legislador com a norma do parágrafo único
                                                                              foi impedir que, em fim de mandado, o governante
                                                                              pratique atos que aumentem o total da despesa com
@@ -413,20 +423,22 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
                                                                              mesmo superando o limite imposto pela lei, deixando para
                                                                              o sucessor o ônus de adotar as medidas cabíveis para
                                                                              alcançar o ajuste. O dispositivo, se fosse entendido como
-    
-    
-    
-    
+
+
+
+
                                                          Processo TC nº. 010.674/14
                                                Gabinete do Conselheiro Substituto Alisson Araujo
-    
+
 
 #### Página 6 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com legendas institucionais. Citação inicial até p. 155). em itálico e recuada à direita. Negrito em “proibição indiscriminada de qualquer ato de aumento de despesa,” e de “poderia criar” até “Constituição.”; “inclusive atos de provimento,” permanece só em itálico. Rodapé cinza em duas linhas.]
 
                                Estado do Piauí
                                Tribunal de Contas
                                Gabinete do Cons. Subs. Alisson Araújo
-    
+
                                                                             proibição indiscriminada de qualquer ato de aumento de
                                                                             despesa, inclusive atos de provimento, poderia criar
                                                                             situações insustentáveis e impedir a consecução de fins
@@ -435,63 +447,65 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
                                                                             28, in Comentários à Lei de Responsabilidade Fiscal.
                                                                             Organizadores: Ives Gandra Da Silva Martins e Carlos
                                                                             Valder Do Nascimento. São Paulo: Saraiva, 2001, p. 155).
-    
+
             Sendo assim, na prática, o que balizará a subsunção ou não do ato administrativo na vedação perpetrada no
     dispositivo em comento será a urgente satisfação do interesse público, o que compreende, também, a continuidade dos
     serviços prestados pelo órgão ou Poder.
-    
+
             Diante da necessidade de pessoal para prestação de serviço público (caput, do art. 175, CF/88), com previsão
     orçamentária para tanto, não seria razoável a vedação à nomeação pura e simplesmente à luz da disposição do parágrafo
     único do art. 21 da LRF.
-    
+
             A interpretação literal do preceito poderia provocar situações caóticas, violando, inclusive, o princípio da
     continuidade dos serviços públicos.
-    
+
             O dispositivo em comento deve, por todo o exposto, ser interpretado de forma sistemática e teleológica, integrado
     com os valores constitucionais, em especial os princípios da razoabilidade e proporcionalidade, legalidade, legitimidade e
     eficiência.
-    
+
             No que se refere à vedação do art. 73 da Lei nº. 9.504/97 (dispõe acerca das condutas vedadas durante os pleitos
     eleitorais), entende-se ser objetivo da mesma atender aos princípios da moralidade e igualdade entre os candidatos, tentando
     evitar a utilização, pelos mesmos, do final do mandato para imprimir vontade pessoal e eleitoreira. Tal vedação, contudo, não
     se estende à nomeação ou exoneração de cargos em comissão e designação ou dispensa de funções de confiança, à nomeação
     para cargos nos Poderes Executivo, Legislativo, Judiciário e órgãos autônomos e à nomeação dos aprovados em concursos
     públicos, desde que homologados até três meses antes do pleito eleitoral.
-    
+
             Fazendo-se uma interpretação sistemática do dispositivo acima citado juntamente ao art. 21, parágrafo único da Lei
     Complementar 101/2000, pode-se afirmar que todas as exceções do inciso V do art. 73 da Lei nº. 9.504/97, cumpridas as
     exigências do inciso I do art. 21 da LRF, se aplicam ao parágrafo único do mesmo art. 21. Isso porque, caso contrário, a
     vedação genérica do parágrafo único do art. 21 da LRF inviabilizaria, sem razão justificável, as exceções previstas na
     legislação eleitoral, tendo em vista que ambas as legislações dispõem sobre vedações no segundo semestre do ano eleitoral.
-    
+
             Assim sendo, tem-se que, no segundo semestre do ano eleitoral, atendido o art. 21, I da LRF, é permitida a nomeação
     de cargos em comissão e designação de funções de confiança; para cargos do Poder Judiciário, do Ministério Público, dos
     Tribunais ou Conselhos de Contas e dos órgãos do Poder Executivo; dos aprovados em concursos públicos homologados até
     três meses antes do pleito.
-    
-    
-    
-    
+
+
+
+
                                                         Processo TC nº. 010.674/14
                                               Gabinete do Conselheiro Substituto Alisson Araujo
-    
+
 
 #### Página 7 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com legendas institucionais. Citação Assim, nada impede até p. 156). em itálico e recuada à direita. “4. PROPOSTA DE DECISÃO”, “Conhecimento” e “Mérito” em negrito; marcador quadrado antes de É possível. Rodapé cinza em duas linhas.]
 
                             Estado do Piauí
                             Tribunal de Contas
                             Gabinete do Cons. Subs. Alisson Araújo
-    
+
            Nos dizeres de Manoel José de Paula Filho, é importante distinguir duas hipóteses de nomeações: sem aumento de
     pessoal e despesa, e com aumento de pessoal e, por óbvio, de despesa. A primeira trata-se de mera reposição, restauração,
     enfim, restabelecimento do status a quo, a exemplo da nomeação no caso de exoneração de cargo de nível inicial. Tal
     hipótese não é abrangida pela vedação da LRF, tendo em vista que, se o orçamento era suficiente para despesa com o
     exonerado, também o será com a despesa do substituinte, não havendo qualquer impedimento legal à luz dos princípios da
     indisponibilidade do interesse público, da eficiência e da continuidade do serviço público.
-    
+
            Ainda de acordo com Manoel José da Paula Filho, há casos em que, mesmo existindo aumento de despesas, serão
     lícitas as nomeações, como aduz Maria Sylvia Zanella Di Pietro na análise do parágrafo único do art. 21 da LRF:
-    
+
                                                                              Assim, nada impede que os atos de investidura sejam
                                                                              praticados ou vantagens pecuniárias sejam outorgadas,
                                                                              desde que haja aumento da receita que permita manter o
@@ -502,75 +516,77 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
                                                                              Comentários           à   Lei   de   Responsabilidade   Fiscal.
                                                                              Organizadores: Ives Gandra Da Silva Martins e Carlos
                                                                              Valder Do Nascimento. São Paulo: Saraiva, 2001, p. 156).
-    
+
            Observa-se que as leis em comento não têm por finalidade vedar todo e qualquer ato de provimento de cargos ou
     designação para o exercício de funções de confiança, mas tão somente aqueles que não atendam ao interesse público e afetem
     o equilíbrio das contas públicas dos entes federados.
-    
-    
-    
-    
+
+
+
+
            4. PROPOSTA DE DECISÃO
-    
-    
+
+
            Ante o exposto, recomendo ao Plenário desta Corte de Contas:
-    
+
                -   Preliminarmente, o Conhecimento da presente consulta, e;
-    
+
                -   no Mérito, a resposta à indagação da consulente nos seguintes termos:
-    
+
                          É possível, nos 180 (cento e oitenta) dias anteriores ao final do mandato do titular Poder ou Órgão, a
                            nomeação ou exoneração de cargos em comissão e a designação ou dispensa de funções de confiança,
                            e a nomeação para o provimento de cargos efetivos, desde que:
-    
-    
+
+
                                1. haja comprovação cabal do atendimento ao disposto nos arts. 16 e 17 da LRF, ao art. 37, XIII
                                e art. 169, § 1º da Constituição Federal;
-    
+
                                2. seja demonstrado, de maneira inequívoca, que o índice da despesa com pessoal não restará
                                comprometido;
-    
-    
-    
+
+
+
                                                          Processo TC nº. 010.674/14
                                                Gabinete do Conselheiro Substituto Alisson Araujo
-    
+
 
 #### Página 8 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com legendas institucionais. Dois marcadores de visto antes de Enviar e Encerrar. Linha pontilhada e fecho Conselheiro-Substituto Alisson F. de Araújo / Relator em negrito. Registro e-TCE com fórmula em itálico, nome e data-hora em negrito; identificador oculto. Rodapé cinza em duas linhas.]
 
                                   Estado do Piauí
                                   Tribunal de Contas
                                   Gabinete do Cons. Subs. Alisson Araújo
-    
+
                                      3. seja demonstrada a existência de dotação orçamentária suficiente para atender as projeções de
                                      despesas, de forma a não comprometer o mandato subsequente;
-    
+
                                      4. sejam os casos de nomeação/exoneração por ventura ocorridos dentro dos 180 (cento e
                                      oitenta) dias antes do término do mandato, encaixados, exclusiva e rigorosamente, nas exceções
                                      contidas no inciso V, art. 73 da Lei nº. 9.504/97, e tão somente pelos órgãos ali enumerados.
-    
+
                   Adote, a Secretaria das Sessões, as seguintes providências:
-    
+
                       Enviar cópia do voto e da decisão a Comissão de Regimento e Jurisprudência;
-    
+
                       Encerrar a tramitação processual.
-    
+
                   Sala das Sessões do Tribunal de Contas do Estado do Piauí, na Sessão Plenária Ordinária nº. 006, em 05/03/2015.
-    
-    
+
+
                                                  .............................................................................
                                                   Conselheiro-Substituto Alisson F. de Araújo
                                                                                  Relator
-    
-    
-    
-    
+
+
+
+
     Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO: [identificador e-TCE ocultado] - 06/05/2015 11:59:06
-    
-    
+
+
                                                                 Processo TC nº. 010.674/14
                                                       Gabinete do Conselheiro Substituto Alisson Araujo
-    
+
 
 ### Documento vinculado pela fonte
 

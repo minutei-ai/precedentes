@@ -22,15 +22,17 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com legendas institucionais. Título ACORDÃO Nº 1.188/14, linhas completas PROCESSO/DECISÃO e demais rótulos em negrito. Ementa à direita em itálico. CONSULTA até SEMCOM e travessão seguinte em negrito; no dispositivo, “Plenário, unânime, divergindo do parecer ministerial, conhecer” e “mérito, responder” em negrito. Rodapé sobre faixa cinza.]
+
                           Estado do Piauí
                           Tribunal de Contas
                           Gab. Consª. Lilian Martins
-    
-    
+
+
                                                   ACORDÃO Nº 1.188/14
-    
-    
-    
+
+
+
     PROCESSO TC Nº 012555/13
     DECISÃO Nº 912/14
     ASSUNTO: CONSULTA.
@@ -38,23 +40,23 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     INTERESSADO: CLÁUDIA BRANDÃO DE OLIVEIRA.
     PROCURADOR: LEANDRO MACIEL DO NASCIMENTO.
     RELATORA: LILIAN DE ALMEIDA VELOSO NUNES MARTINS.
-    
-    
-    
+
+
+
                                                                          Unânime e em dissonância com o parecer
                                                                          ministerial, pelo conhecimento da presente Consulta
                                                                          para, no mérito, responder que é possível a
                                                                          subcontratação parcial e a realização de
                                                                          pagamentos diretos aos subcontratados para
                                                                          execução de serviços de veiculação publicitária.
-    
-    
-    
+
+
+
     CONSULTA – SECRETARIA DE COMUNICAÇÃO DE TERESINA - SEMCOM – referente ao
     posicionamento desta Corte de Contas sobre o pagamento realizado aos veículos de comunicação para
     veiculação de anúncios publicitários da Prefeitura Municipal de Teresina.
-    
-    
+
+
     Vistos, relatados e discutidos os presentes autos, considerando o parecer técnico da Diretoria
     de Fiscalizações Especializadas – DFESP, Divisão de Acompanhamento Concomitante de
     Licitações e Contratos – DALC (peça nº 5), as manifestações do Ministério Público de Contas
@@ -67,63 +69,65 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     que fique comprovado a motivação formal na licitação e contrato, descrevendo as razões de
     ordem técnica e ou econômica, justificando o não parcelamento do objeto, cumprindo
     registrar, entretanto, que apesar do posicionamento favorável à contratação e pagamento
-    
-    
+
+
     Gab. Consª Lilian Martins- Acórdão nº 1.188/14 – Consulta - SEMCOM
-    
+
 
 #### Página 2 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita. ACORDÃO Nº 1.188/14, Ausente, Presentes, rótulo Representante do Ministério Público de Contas presente: e três linhas de fecho em negrito. Fórmulas e-TCE em itálico, nomes/datas em negrito; terceiro registro cortado fisicamente na margem direita após 09, sem completar horário. Rodapé em faixa cinza.]
 
                                  Estado do Piauí
                                  Tribunal de Contas
                                  Gab. Consª. Lilian Martins
-    
-    
+
+
                                                          ACORDÃO Nº 1.188/14
-    
+
            direto pela Administração aos veículos de divulgação, não implica na indicação de
            regularidade de toda e qualquer permissão de subcontratação realizada pela Administração,
            cabendo a este Tribunal analisar cada caso, verificando o atendimento dos requisitos legais,
            mormente os atinentes ao não parcelamento do objeto, nos termos e pelos fundamentos
            expostos no voto da Relatora (peça nº 20).
-    
-    
+
+
            Ausente por motivo justificado, quando da apreciação do presente processo, o Cons. Joaquim
            Kennedy Nogueira Barros.
-    
-    
+
+
            Presentes os Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga (Presidente), Luciano
            Nunes Santos, Abelardo Pio Vilanova e Silva, Olavo Rebêlo de Carvalho Filho, Lilian de
            Almeida Veloso Nunes Martins e o Cons. Substituto Jackson Nobre Veras, convocado para
            substituir, nesse processo, o Cons. Anfrísio Neto Lobão Castelo Branco (ausente por motivo
            justificado).
-    
-    
+
+
            Representante do Ministério Público de Contas presente: Subprocurador-Geral José
            Araújo Pinheiro Júnior.
-    
-    
+
+
            Transcreva-se, Publique-se e Cumpra-se.
            Sessão Plenária nº 034/14, em Teresina, 18 de setembro de 2014.
-    
-    
+
+
            Cons.ª Waltânia M.ª N. de S. L. Alvarenga ____________Presidente
-    
-    
+
+
            Cons.ª Lilian de A. V. N. Martins ____________________Relatora
-    
-    
+
+
            Fui presente: José Araújo Pinheiro Júnior ____________Procurador - MPC-TCE/PI
-    
-    
-    
-    
+
+
+
+
     Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 15/10/2014 10:09:53
     Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 30/09/2014 08:51:19
     Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 20/10/2014 09
-    
+
            Gab. Consª Lilian Martins- Acórdão nº 1.188/14 – Consulta - SEMCOM
-    
+
 
 ### Documento vinculado pela fonte
 

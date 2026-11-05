@@ -427,24 +427,26 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+[Nota editorial de apresentação: Brasão estadual à esquerda com ESTADO DO PIAUI; símbolo MPC à direita com Ministério Público de Contas do Piauí; filete inferior. Quadro de identificação cinza com rótulos e pontilhados em negrito. Quesito de é legal até municípios? em itálico; duas ocorrências Parquet em itálico. Item A) recuado. Fólio 1 centralizado, itálico e sublinhado sob filete.]
+
                            Estado do Piauí
                            Ministério Público de Contas
-    
-    
-    
+
+
+
     PARECER..............Nº 2015JC0003
     PROCESSO ............TC/003636/2015
     ASSUNTO...............CONSULTA
     INTERESSADO.... ASSOCIAÇÃO DOS MUNICÍPIOS DO MÉDIO PARNAÍBA - AMPAR
     RELATOR..............LÍLIAN DE ALMEIDA VELOSO NUNES MARTINS
-    
-    
-    
+
+
+
                Versam os autos sobre Consulta a esta Corte de Contas, formulada pelo Sr. Hélio
     Rodrigues Alves, na condição de Presidente da Associação dos Municípios da Microrregião do
     Médio Parnaíba – AMPAR, acerca da seguinte questão: é legal e de que forma pode ser feita a
     desoneração de verbas indenizatórias do INSS da folha de pagamentos dos municípios?
-    
+
                Em sede de juízo de admissibilidade, Peça nº 03, a Conselheira Relatora constatou
     que o pleito preenche os requisitos necessários para que seja admitido como Consulta, nos
     termos do art. 201 do Regimento Interno, uma vez que o consulente possui legitimidade e
@@ -452,60 +454,62 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     determinou o seu envio à Comissão de Regimento e Jurisprudência para que informasse acerca
     da existência de prejulgado ou de decisão reiterada sobre o tema com a subsequente remessa à
     unidade técnica competente para a instrução, nos termos do art. 328 do Regimento Interno.
-    
+
                Após análise, a Comissão de Regimento e Jurisprudência desta Corte informou a
     inexistência de prejulgado ou decisão reiterada sobre o tema (Peça nº 04). Em seguida, foram os
     autos encaminhados à DFAM para instrução. Ato contínuo, foram os autos remetidos a este
     Parquet para análise e manifestação.
-    
+
                A Diretoria de Fiscalização da Administração Municipal – DFAM desta Corte de
     Contas exarou parecer à peça eletrônica nº 05 do processo, em resposta às indagações elencadas
     pelo consulente. Diante disso, quanto ao mérito, este Parquet comunga do mesmo entendimento
     proferido pela Consultoria Técnica desta Corte de Contas, qual seja:
-    
+
                            A) Não há incidência de contribuição previdenciária sobre as parcelas de
                            caráter indenizatório, contudo é imprescindível verificar se a verba paga,
                            de fato, possui como finalidade a reparação de ato ilícito ou
                            ressarcimento de algum prejuízo sofrido pelo agente, pois, caso contrário,
                            ela terá natureza remuneratória, dando ensejo à incidência tributária.
-    
-    
+
+
                                                     1
-    
+
 
 #### Página 2 do PDF oficial
 
+[Nota editorial de apresentação: Brasão estadual à esquerda e símbolo MPC à direita com respectivas legendas; filete inferior ao cabeçalho. Item B) recuado. Fórmula e-TCE em itálico; nome/data-hora em negrito; identificador pessoal oculto. Fólio 2 centralizado em itálico e sublinhado sob filete; sem rubrica manuscrita visível.]
+
                                   Estado do Piauí
                                   Ministério Público de Contas
-    
-    
-    
-    
+
+
+
+
                                   B) Pode e deve haver a revisão dos contratos administrativos que
                                   efetivamente forem afetados pela desoneração da folha de pagamento
                                   promovida pela Lei 12.546/11, a fim de que se mantenha o equilíbrio
                                   econômico-financeiro dos ajustes e não haja enriquecimento sem causa
                                   por parte dos fornecedores que possuam contrato administrativo com a
                                   Administração Pública.
-    
+
                      Assim sendo, opina este Ministério Público de Contas no sentido de que a Consulta
         seja respondida nos termos do relatório técnico da DFAM, acostado à Peça nº 05 do presente
         processo eletrônico.
-    
+
                      É o parecer.
-    
+
                                              Teresina, 15 de Abril de 2015.
-    
-    
-    
-    
+
+
+
+
     Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 15/04/2015 13:36:45
-    
-    
-    
-    
+
+
+
+
                                                              2
-    
+
 
 ### Documento vinculado pela fonte
 

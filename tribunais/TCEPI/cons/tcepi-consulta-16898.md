@@ -99,25 +99,27 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com legendas institucionais. Rótulos de identificação, 1. RELATÓRIO, 2. FUNDAMENTAÇÃO, Sra. Norma Brandão de Lavenere M. Dantas, não conhecimento, mérito, e É o Relatório. em negrito. Fólio 1 no canto inferior direito.]
+
                         Estado do Piauí
                         Tribunal de Contas
                         Gabinete Cons. Kennedy Barros
-    
+
     PROCESSO: TC-E nº 017.163/12
     ASSUNTO: Consulta
     PROCEDÊNCIA: Defensoria Pública do Estado
     INTERESSADO: Norma Brandão de Lavenere Machado Dantas
     PROCURADOR: Leandro Maciel do Nascimento
     RELATOR: Cons. Joaquim Kennedy Nogueira Barros
-    
-    
+
+
            1. RELATÓRIO
-    
+
            Tratam os autos do processo de Consulta formulada ao Tribunal de Contas do
     Estado do Piauí pela Sra. Norma Brandão de Lavenere M. Dantas, Defensora Pública-
     Geral, oportunidade em que solicita orientação para aquisição de veículo por meio de
     Leasing ou Arrendamento Mercantil.
-    
+
            Decidiu o Tribunal de Contas do Estado do Piauí, através da Decisão nº 588/12 -
     Sessão Plenária Ordinária nº 018, de 19 de abril de 2012, pela autuação do presente
     processo como consulta.
@@ -131,46 +133,48 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     opinou pelo não conhecimento da consulta e quanto ao mérito, mesmo que a consulta
     seja conhecida, que há impedimento constitucional para manifestação, nos termos do art.
     129, IX, da Constituição Federal.
-    
-    
-    
+
+
+
            É o Relatório.
-    
-    
-    
+
+
+
            2. FUNDAMENTAÇÃO
-    
+
                Preliminarmente, cumpre analisar o cabimento da espécie processual à luz da
     legislação que rege a matéria.
-    
+
                Com efeito, o expediente em questão, foi levado ao Plenário desta Corte, que
     através da Decisão nº 588/12 - Sessão Plenária Ordinária nº 018, de 19 de abril de 2012,
-    
-    
+
+
                                                                                             1
-    
+
 
 #### Página 2 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com legendas institucionais. conhecida, 3. VOTO e pelo conhecimento em negrito; fólio 2 no canto inferior direito. Cabeçalho sem destaque adicional nos três dizeres centrais.]
 
                          Estado do Piauí
                          Tribunal de Contas
                          Gabinete Cons. Kennedy Barros
-    
+
     decidiu pela autuação do presente processo como consulta, não cabendo a esse relator
     tecer qualquer comentário a esse respeito.
-    
+
                  Ademais, o juízo de admissibilidade realizado pela relatora originária, através do
     despacho exarado às fls. 05 a 06 – peça 2, é conclusivo, haja vista a presença dos
     requisitos de admissibilidade esculpidos no art. 201 e seguintes, da Resolução TCE 13/11
     (Regimento Interno TCE/PI).
-    
+
                  Portanto, a presente consulta deve ser conhecida.
-    
+
                  Com relação ao mérito, a DFAE emitiu parecer quanto ao questionamento do
     consulente, à peça 3, onde informa que é juridicamente viável à Administração Pública
     celebrar, na condição de arrendatária, contrato de leasing que tenha por objeto veículos,
     desde que:
-    
+
            a) seja realizado procedimento licitatório para a seleção da empresa de leasing
     arrendadora de veículos, devendo ser observada a Lei nº 8.666/1993.
            b) as despesas envolvidas na operação, referentes às contraprestações pelo
@@ -190,46 +194,48 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     o posicionamento expresso no parecer da DFAE, que analisou detalhadamente cada
     quesito, respondendo-o, de forma clara e objetiva, inclusive com base em julgados do STF e
     do TCE/MG.
-    
-    
+
+
            3. VOTO
-    
+
                  Diante de todo o exposto, voto, contrário à manifestação do Ministério Público de
     Contas, pelo conhecimento da presente consulta e, no mérito, pela resposta à consulente
     nos termos da manifestação da DFAE.
                                                                                                   2
-    
+
 
 #### Página 3 do PDF oficial
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e logomarca TCE à direita com legendas institucionais. Somente JOAQUIM KENNEDY NOGUEIRA BARROS em negrito no fecho; Cons. e Relator sem negrito. Fórmula e-TCE em itálico, nome/data-hora em negrito e identificador pessoal oculto. Fólio 3 no canto inferior direito.]
 
                                  Estado do Piauí
                                  Tribunal de Contas
                                  Gabinete Cons. Kennedy Barros
-    
+
                        Voto, ainda, pelo encaminhamento à consulente, Sra. Norma Brandão de
            Lavenere M. Dantas, de cópias autênticas do referido parecer e do acórdão do Plenário
            deste Tribunal de Contas.
-    
-    
-    
+
+
+
                                                   Teresina, 05 de maio de 2014.
-    
-    
-    
-    
+
+
+
+
                                            Cons. JOAQUIM KENNEDY NOGUEIRA BARROS
                                                             Relator
-    
-    
-    
-    
+
+
+
+
     Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS: [identificador e-TCE ocultado] - 19/05/2014 10:47:39
-    
-    
-    
-    
+
+
+
+
                                                                                                               3
-    
+
 
 ### Documento vinculado pela fonte
 
