@@ -3042,3 +3042,7 @@ Os cinco atos vinculados no escopo da issue #205 (024/2007, 086/2007, 090/2006, 
 ### PGECE — parecer NUP 22001.046773/2024-41, 05/11/2026
 
 As [23 páginas do documento localizado](tribunais/PGECE/parecer-referencial/pgece-parecer-ref-nup-22001-046773-2024-41.md) foram cotejadas integralmente em imagem e incorporadas com carimbo de margem separado, chamadas de nota e checklist restaurados. A p.23 imprime aprovação de 08/04/2024. Número do parecer em branco; catálogo mais amplo ainda pendente. Sem autenticação de códigos ou inferência de vigência. Delta zero.
+
+### MPAP — CAO Criminal, 05/11/2026
+
+O [Ato 006/2011-GAB/PGJ](tribunais/MPAP/en-cao-criminal/ato-006-2011.md) publica três enunciados aprovados no CAOPCRIM em 19/08/2011. Duas páginas cotejadas integralmente em imagem; carimbo e rubricas registrados, dúvida no acento da signatária explícita. Três IDs novos, separados do CSMP. E-Diário 133/11 não recuperado e vigência não inferida.
