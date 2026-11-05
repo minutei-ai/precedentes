@@ -118,118 +118,120 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                     Estado do Piauí
-                     Tribunal de Contas
-                     Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-    PROCESSO: TC 01915/2013
-    ÓRGÃO/ENTIDADE: Procuradoria Geral de Justiça do Piauí
-    EXERCÍCIO: 2012
-    ASSUNTO: Consulta quanto à possibilidade de convênio entre a Procuradoria Geral de
-    Justiça do Piauí e o Conselho Nacional Procuradores Gerais (CNPG)
-    CONSULENTE: Zélia Saraiva Lima
-    RELATOR: Delano Carneiro da Cunha Câmara
-    PROCURADOR: José Araújo Pinheiro Júnior
-    
-    
-    
-    1 RELATÓRIO
-    
-                Os presentes autos referem-se à consulta formulada pela Procuradoria Geral de
-    Justiça do Estado do Piauí na pessoa da Sra. Zélia Saraiva Lima, acerca da possibilidade de
-    celebração de convenio entre o Ministério Público do Estado do Piauí e o Conselho Nacional
-    de Procuradores Gerais (CNPG).
-    
-                Feita análise de admissibilidade constatou que a consulta apresentou os
-    requisitos necessários para admissão da consulta, nos termos do art. 201 do Regimento
-    Interno, considerando que a consulente possui legitimidade e procedeu a instrução exigida.
-    Assim, a referida foi encaminhada à Comissão de Regimento e Jurisprudência para fins de
-    cumprimento do art. 308 do Regimento Interno.
-    
-                A Comissão de Regimento e Jurisprudência (pág. 1 de Peça nº 06), por sua vez,
-    encaminhou os autos à Diretoria de Fiscalização da Administração Estadual no supedâneo
-    no art. 337 do Regimento Interno do Tribunal de Contas do Estado do Piauí.
-    
-               A DFAE emitiu o seu parecer de acordo com a Peça 7, fls. 2 a 7, seguindo a
-    tramitação normal, os autos foram remetidos ao Ministério Público de Contas o se
-    pronunciou compartilhando o entendimento da DFAE, conforme Peça 10, fls. 1 a 2.
-    
-               È, em síntese, o relatório.
-    
-    2 FUNDAMENTAÇÃO
-    
-    2.1 Do conhecimento
-    
-               A citada consulta foi conhecida por se entender que ela preenchia os requisitos
-    de admissibilidades, considerando que foi formulada por autoridade competente com
-    instrução de parecer jurídico acerca da matéria e o envio de cópia da legislação pertinente
-    ao objeto da consulta. Destarte, atendendo o art. 201 da Resolução TCE/PI nº 13/11, de 26
-    de agosto de 2011.
-    
-    
-    
-    
-                                                                                        1
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Delano C. da Cunha Câmara
+
+
+PROCESSO: TC 01915/2013
+ÓRGÃO/ENTIDADE: Procuradoria Geral de Justiça do Piauí
+EXERCÍCIO: 2012
+ASSUNTO: Consulta quanto à possibilidade de convênio entre a Procuradoria Geral de
+Justiça do Piauí e o Conselho Nacional Procuradores Gerais (CNPG)
+CONSULENTE: Zélia Saraiva Lima
+RELATOR: Delano Carneiro da Cunha Câmara
+PROCURADOR: José Araújo Pinheiro Júnior
+
+
+
+**1 RELATÓRIO**
+
+Os presentes autos referem-se à consulta formulada pela Procuradoria Geral de
+Justiça do Estado do Piauí na pessoa da Sra. Zélia Saraiva Lima, acerca da possibilidade de
+celebração de convenio entre o Ministério Público do Estado do Piauí e o Conselho Nacional
+de Procuradores Gerais (CNPG).
+
+Feita análise de admissibilidade constatou que a consulta apresentou os
+requisitos necessários para admissão da consulta, nos termos do art. 201 do Regimento
+Interno, considerando que a consulente possui legitimidade e procedeu a instrução exigida.
+Assim, a referida foi encaminhada à Comissão de Regimento e Jurisprudência para fins de
+cumprimento do art. 308 do Regimento Interno.
+
+A Comissão de Regimento e Jurisprudência (pág. 1 de Peça nº 06), por sua vez,
+encaminhou os autos à Diretoria de Fiscalização da Administração Estadual no supedâneo
+no art. 337 do Regimento Interno do Tribunal de Contas do Estado do Piauí.
+
+A DFAE emitiu o seu parecer de acordo com a Peça 7, fls. 2 a 7, seguindo a
+tramitação normal, os autos foram remetidos ao Ministério Público de Contas o se
+pronunciou compartilhando o entendimento da DFAE, conforme Peça 10, fls. 1 a 2.
+
+È, em síntese, o relatório.
+
+**2 FUNDAMENTAÇÃO**
+
+**2.1 Do conhecimento**
+
+A citada consulta foi conhecida por se entender que ela preenchia os requisitos
+de admissibilidades, considerando que foi formulada por autoridade competente com
+instrução de parecer jurídico acerca da matéria e o envio de cópia da legislação pertinente
+ao objeto da consulta. Destarte, atendendo o art. 201 da Resolução TCE/PI nº 13/11, de 26
+de agosto de 2011.
+
+
+
+
+1
+
+[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
 
 #### Página 2 do PDF oficial
 
-                      Estado do Piauí
-                      Tribunal de Contas
-                      Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-    2.2 Do Mérito
-    
-               Na consulta, foram realizados 2 (dois) questionamentos:
-    
-             a) É possível a celebração de convênio nos termos de minuta inclusa entre
-    CNPG e Ministério Público do Estado do Piauí?
-    
-               Quanto ao questionamento, constata-se a impossibilidade da apreciação do
-    termo da minuta do convênio com fundamento no art. 202 c/c 203 do RITCE-PI, visto que
-    não cabe a esta Corte de Conta conhecer a consulta que versar sobre caso concreto, bem
-    como a decisão proferida pelo Tribunal será sempre em tese, o que não comporta a análise
-    dos termos de minuta inclusa entre CNPG e Ministério Público do Estado do Piauí.
-    
-               b) É possível a transferência de recursos do Ministério Público do Estado
-    do Piauí para o Conselho Nacional de Procuradores-Gerais (CNPG) para a consecução
-    do objeto do convênio em foco?
-    
-                A DFAE constatou que, de acordo com o art. 1º do seu estatuto, o CNMP é uma
-    associação, de âmbito nacional, sem fins lucrativos, integrada pelos Procuradores - Gerais
-    do Ministério Público dos Estados e da União.
-    
-                Considerando que as despesas com aplicação de recursos repassados por meio
-    de convênio devem obedecer aos ditames da Lei nº 8.666/93. Ademais, no que concerne à
-    regulamentação, a DFAE verificou, no tocante a União, que a matéria encontrar-se
-    regulamentada pela Instrução Normativa da Secretaria do Tesouro Nacional (STN) nº 01/97
-    e no Estado do Piauí pela Instrução Normativa conjunta SEPLAN/SEFAZ/CGE-PI nº
-    01/2009. Contudo, no que diz respeito ao Ministério Público, não foi localizada a
-    regulamentação que tratasse da matéria em consulta, ressaltando a sua autonomia
-    administrativa, financeira e orçamentária esculpida pelo art. 127, §2º e 3º, da Constituição
-    Federal.
-    
-               O MPC, conforme Peça 10, ratificou o entendimento proferido pela Consultoria
-    Técnica desta Corte de Contas.
-    
-                No entendimento da DFAE, diante da ausência de regulamentação e
-    formalização de convênio no âmbito do Ministério Público do Estado, a priori, caberia a
-    aplicação subsidiaria da Instrução Normativa Conjunta SEPLAN/SEFAZ/CGE do Estado do
-    Piauí nº 01/2009, de 04 de dezembro de 2009 e da Instrução Normativa da Secretaria do
-    Tesouro Nacional nº 01/97, de 15 de janeiro de 1997, as quais vedam expressamente a
-    possibilidade de transferência de recursos para associação de serviços, in verbis:
-    
-               Instrução Normativa Conjunta SEPLAN/SEFAZ/CGE-PI 01/2009:
-    
-               Art. 16: É vedada a inclusão, tolerância ou admissão, no instrumento do Convênio, sob pena de nulidade do
-               ato e responsabilização do agente que der causa, de cláusula ou condições que prevejam ou permitam:
-                              (...)
-    
-    
-                                                                                                                2
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Delano C. da Cunha Câmara
+
+
+**2.2 Do Mérito**
+
+Na consulta, foram realizados 2 (dois) questionamentos:
+
+a) É possível a celebração de convênio nos termos de minuta inclusa entre
+CNPG e Ministério Público do Estado do Piauí?
+
+Quanto ao questionamento, constata-se a impossibilidade da apreciação do
+termo da minuta do convênio com fundamento no art. 202 c/c 203 do RITCE-PI, visto que
+não cabe a esta Corte de Conta conhecer a consulta que versar sobre caso concreto, bem
+como a decisão proferida pelo Tribunal será sempre em tese, o que não comporta a análise
+dos termos de minuta inclusa entre CNPG e Ministério Público do Estado do Piauí.
+
+b) É possível a transferência de recursos do Ministério Público do Estado
+do Piauí para o Conselho Nacional de Procuradores-Gerais (CNPG) para a consecução
+do objeto do convênio em foco?
+
+A DFAE constatou que, de acordo com o art. 1º do seu estatuto, o CNMP é uma
+associação, de âmbito nacional, sem fins lucrativos, integrada pelos Procuradores - Gerais
+do Ministério Público dos Estados e da União.
+
+Considerando que as despesas com aplicação de recursos repassados por meio
+de convênio devem obedecer aos ditames da Lei nº 8.666/93. Ademais, no que concerne à
+regulamentação, a DFAE verificou, no tocante a União, que a matéria encontrar-se
+regulamentada pela Instrução Normativa da Secretaria do Tesouro Nacional (STN) nº 01/97
+e no Estado do Piauí pela Instrução Normativa conjunta SEPLAN/SEFAZ/CGE-PI nº
+01/2009. Contudo, no que diz respeito ao Ministério Público, não foi localizada a
+regulamentação que tratasse da matéria em consulta, ressaltando a sua autonomia
+administrativa, financeira e orçamentária esculpida pelo art. 127, §2º e 3º, da Constituição
+Federal.
+
+O MPC, conforme Peça 10, ratificou o entendimento proferido pela Consultoria
+Técnica desta Corte de Contas.
+
+No entendimento da DFAE, diante da ausência de regulamentação e
+formalização de convênio no âmbito do Ministério Público do Estado, *a priori*, caberia a
+aplicação subsidiaria da Instrução Normativa Conjunta SEPLAN/SEFAZ/CGE do Estado do
+Piauí nº 01/2009, de 04 de dezembro de 2009 e da Instrução Normativa da Secretaria do
+Tesouro Nacional nº 01/97, de 15 de janeiro de 1997, as quais vedam expressamente a
+possibilidade de transferência de recursos para associação de serviços, *in verbis:*
+
+Instrução Normativa Conjunta SEPLAN/SEFAZ/CGE-PI 01/2009:
+
+Art. 16: É vedada a inclusão, tolerância ou admissão, no instrumento do Convênio, sob pena de nulidade do
+ato e responsabilização do agente que der causa, de cláusula ou condições que prevejam ou permitam:
+(...)
+
+
+2
+
+[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
 
 #### Página 3 do PDF oficial
 
