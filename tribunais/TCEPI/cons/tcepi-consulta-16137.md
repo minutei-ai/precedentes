@@ -228,36 +228,30 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Proc. TC – 2.115/2013 Fls. _____
+[Apresentação gráfica: brasão estadual à esquerda, inscrição ESTADO DO PIAUÍ; brasão vermelho com balança à direita, inscrições Ministério Público de Contas e PIAUÍ. Inscrição diminuta na faixa inferior do brasão: leitura não segura nesta imagem. Campo de controle no alto à direita em itálico, Fls. e linha de funcionário sem preenchimento; processo repetido em itálico acima de linha horizontal. Rodapé somente com linha horizontal, sem fólio impresso. Corpo justificado, primeiras linhas recuadas.]
 
+[Apresentação gráfica: endereçamento em negrito; grande espaço em branco antes da identificação, esta em negrito e itálico.]
+
+*Proc. TC – 2.115/2013 Fls. _____*
 
 _________________________________
-Funcionário – MPC
-
+*Funcionário – MPC*
 
 Estado do Piauí
 Tribunal de Contas
 Ministério Público de Contas
 
-Proc. TC – 2.115/2013
+*Proc. TC – 2.115/2013*
 
+**EXMO. SR. RELATOR CONSELHEIRO JOAQUIM KENNEDYNOGUEIRA BARROS**
 
-EXMO. SR. RELATOR CONSELHEIRO JOAQUIM KENNEDYNOGUEIRA BARROS
-
-
-
-
-Processo: TC - 02115/2013
+***Processo: TC - 02115/2013
 Assunto: Consulta
 Interessado: Gustavo Barbosa Nunes – Chefe da Assessoria Jurídica da Prefeitura Municipal de São
 João do Piauí
-Parecer nº 2013LC0002
-
-
-
+Parecer nº 2013LC0002***
 
 **1 RELATÓRIO**
-
 
 Trata-se de consulta formulada pelo Sr. Gustavo Barbosa Nunes, Chefe da Assessoria
 Jurídica da Prefeitura Municipal de São João do Piauí, acerca da interpretação/aplicação da Lei
@@ -265,42 +259,35 @@ Municipal n.º 085/2001, que autoriza o poder público a custear despesas de alu
 logístico da residência oficial do Prefeito Municipal, em especial, no tocante à expressão: “APOIO
 LOGÍSTICO”, e que despesas tal apoio abrangeria (Peça 8 - fls. 01/02).
 
-
 Após a autuação, o requerimento foi conhecido pelo Relator como Consulta, em
 obediência os requisitos de admissibilidade regimentais (Peça 3 – fls. 1/2), encaminhando o
 expediente, nos termos do art. 338 do RITCE/PI, à Comissão de Regimento e Jurisprudência para
 promover a juntada de informação de pré-julgado ou decisão reiterada sobre o tema analisado.
 
-
 A Comissão se manifestou pela ausência de pré-julgado ou decisão reiterada sobre o
 tema (Peça 4 – fls. 1/2), despachando os autos à DFAM para instruir a consulta, por ser a unidade
 técnica competente da matéria questionada, nos termos do art. 337 do RITCE/PI.
-
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
-
 #### Página 2 do PDF oficial
 
-Proc. TC – 2.115/2013 Fls. _____
+[Apresentação gráfica: brasão estadual à esquerda, inscrição ESTADO DO PIAUÍ; brasão vermelho com balança à direita, inscrições Ministério Público de Contas e PIAUÍ. Inscrição diminuta na faixa inferior do brasão: leitura não segura nesta imagem. Campo de controle no alto à direita em itálico, Fls. e linha de funcionário sem preenchimento; processo repetido em itálico acima de linha horizontal. Rodapé somente com linha horizontal, sem fólio impresso. Corpo justificado, primeiras linhas recuadas.]
 
+[Apresentação gráfica: citação de Faço crer até percebe mensalmente em corpo menor, itálico e recuo à esquerda; Parquet em itálico nas duas ocorrências.]
+
+*Proc. TC – 2.115/2013 Fls. _____*
 
 _________________________________
-Funcionário – MPC
-
+*Funcionário – MPC*
 
 Estado do Piauí
 Tribunal de Contas
 Ministério Público de Contas
 
-Proc. TC – 2.115/2013
-
+*Proc. TC – 2.115/2013*
 
 A DFAM analisou a consulta e emitiu relatório (Peça 5 - fls. 01/04). Após, os autos foram
 enviados a este *Parquet* para manifestação.
 
-
 Relatado, opina-se.
-
-
 
 **2 FUNDAMENTO**
 
@@ -319,39 +306,36 @@ gestão pública.
 
 Desta forma, posicionou-se aquela Diretoria:
 
-Faço crer que na gestação do projeto de lei, a ideia inicial que se tinha de “apoio
-logístico”, era atrelada às despesas do gabinete do Prefeito, tais como: cerimônias,
-atos sociais, recepções e reuniões com a equipe técnica ou terceiros, ou seja,
-vinculadas ao desempenho de suas funções institucionais, e não, relacionadas com
-a residência oficial do Prefeito.
-No que diz respeito à despesa com aluguel da residência oficial, sugerimos – em
-homenagem ao princípio da moralidade administrativa – que o gestor arque com o
-próprio subsídio que percebe mensalmente.
-
+> *Faço crer que na gestação do projeto de lei, a ideia inicial que se tinha de “apoio
+> logístico”, era atrelada às despesas do gabinete do Prefeito, tais como: cerimônias,
+> atos sociais, recepções e reuniões com a equipe técnica ou terceiros, ou seja,
+> vinculadas ao desempenho de suas funções institucionais, e não, relacionadas com
+> a residência oficial do Prefeito.
+> No que diz respeito à despesa com aluguel da residência oficial, sugerimos – em
+> homenagem ao princípio da moralidade administrativa – que o gestor arque com o
+> próprio subsídio que percebe mensalmente.*
 
 Este *Parquet* compartilha da posição da DFAM, enfatizando que os princípios
 constitucionais estabelecidos no art. 37 da Carta Magna, acima expostos, não podem ser
 desconsiderados no momento da elaboração das peças legislativas, como é o caso em tela, pois a
 concretização de tais despesas configuraria a afronta aos cofres públicos, que tem como objetivo o
 financiamento das necessidades públicas de toda coletividade.
-
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
-
 #### Página 3 do PDF oficial
 
-Proc. TC – 2.115/2013 Fls. _____
+[Apresentação gráfica: brasão estadual à esquerda, inscrição ESTADO DO PIAUÍ; brasão vermelho com balança à direita, inscrições Ministério Público de Contas e PIAUÍ. Inscrição diminuta na faixa inferior do brasão: leitura não segura nesta imagem. Campo de controle no alto à direita em itálico, Fls. e linha de funcionário sem preenchimento; processo repetido em itálico acima de linha horizontal. Rodapé somente com linha horizontal, sem fólio impresso. Corpo justificado, primeiras linhas recuadas.]
 
+[Apresentação gráfica: título, marcadores 1) e 2) e nome em negrito; marcadores também sublinhados. Data, nome e cargo centralizados. Sem assinatura manuscrita; grande área restante em branco.]
+
+*Proc. TC – 2.115/2013 Fls. _____*
 
 _________________________________
-Funcionário – MPC
-
+*Funcionário – MPC*
 
 Estado do Piauí
 Tribunal de Contas
 Ministério Público de Contas
 
-Proc. TC – 2.115/2013
-
+*Proc. TC – 2.115/2013*
 
 **3 CONCLUSÃO**
 
@@ -363,21 +347,16 @@ consulta, tendo em vista o consulente não ser parte legítima e não estar corr
 
 Teresina, 25 de junho de 2013.
 
-
-
-
 **LEANDRO MACIEL DO NASCIMENTO**
 Procurador do Ministério Público de Contas-PI
-
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
-
 #### Página 4 do PDF oficial
+
+[Apresentação gráfica: somente legenda e-TCE em itálico e nome em negrito, à esquerda na metade inferior. Restante da folha em branco, sem cabeçalho, rodapé, fólio ou assinatura manuscrita.]
+
+[Nota de contexto: esta folha imprime apenas legenda e-TCE e nome, sem processo, parecer ou assunto. Conservada como folha física do exemplar, com vínculo jurídico autônomo não demonstrado; a proximidade não comprova pertinência.]
 
 *Assinado Digitalmente pelo sistema e-TCE*
 **LEANDRO MACIEL DO NASCIMENTO**
-
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral. Esta folha imprime apenas legenda e-TCE e nome, sem processo, parecer ou assunto. Conservada como folha física do exemplar, com vínculo jurídico autônomo não demonstrado; a proximidade não comprova pertinência.]
-
 ### Documento vinculado pela fonte
 
 [Abrir o documento oficial](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Parecer-DFAM.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.

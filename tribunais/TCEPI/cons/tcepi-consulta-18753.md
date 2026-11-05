@@ -22,44 +22,42 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+[Apresentação gráfica: brasão estadual à esquerda, com ESTADO DO PIAUÍ; logomarca à direita, estrela azul e faixas verde e amarela, com TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Cabeçalho centralizado, sem negrito. Rodapé em negrito com processo à esquerda, acórdão ao centro e fólio 1/1 à direita.]
+
+[Apresentação gráfica: título centralizado em negrito; ementa e sumário em itálico, com recuo à esquerda, e aberturas em negrito. Corpo justificado e primeira linha recuada.]
+
 Estado do Piauí
 Tribunal de Contas
 Gab. Cons. Subs. Jaylson Campelo
 
+**ACÓRDÃO Nº 976/2018**
 
-ACÓRDÃO Nº 976/2018
-
-PROCESSO: TC/003617/2018.
-DECISÃO Nº 665/2018.
-ASSUNTO: CONSULTA – CÂMARA MUNICIPAL DE MIGUEL ALVES
-CONSULENTE: JOÃO DE DEUS SOUSA RAMOS – PRESIDENTE.
-OBJETO: PROPOSIÇÃO QUE DISPÕE SOBRE PAGAMENTO DE VERBA
+**PROCESSO: TC/003617/2018.**
+**DECISÃO Nº 665/2018.**
+**ASSUNTO:** CONSULTA – CÂMARA MUNICIPAL DE MIGUEL ALVES
+**CONSULENTE:** JOÃO DE DEUS SOUSA RAMOS – PRESIDENTE.
+**OBJETO:** PROPOSIÇÃO QUE DISPÕE SOBRE PAGAMENTO DE VERBA
 INDENIZATÓRIA.
-ADVOGADO: WALBER COELHO DE ALMEIDA RODRIGUES – OAB/PI Nº 5.457
+**ADVOGADO:** WALBER COELHO DE ALMEIDA RODRIGUES – OAB/PI Nº 5.457
 (ASSESSOR JURÍDICO DO MUNICÍPIO).
-RELATOR: JAYLSON FABIANH LOPES CAMPELO.
-PROCURADOR: LEANDRO MACIEL DO NASCIMENTO.
+**RELATOR:** JAYLSON FABIANH LOPES CAMPELO.
+**PROCURADOR:** LEANDRO MACIEL DO NASCIMENTO.
 
+> ***EMENTA: DESPESA. PAGAMENTO DE DÉCIMO
+> TERCEIRO SALÁRIO E TERÇO DE FÉRIAS PARA
+> VEREADORES. POSSIBILIDADE.**
+> 1.Em consulta com idêntico objeto, esta Corte de Contas
+> (Acórdão nº 174/2018), referente TC/012278/2017,
+> publicado no D.E. do TCE/PI nº 031, de 19/02/2018,
+> decidiu que é possível a concessão de “verba
+> indenizatória” aos Vereadores, por meio de lei (art. 37, §
+> II da CF/88 ).*
 
-
-EMENTA: DESPESA. PAGAMENTO DE DÉCIMO
-TERCEIRO SALÁRIO E TERÇO DE FÉRIAS PARA
-VEREADORES. POSSIBILIDADE.
-1.Em consulta com idêntico objeto, esta Corte de Contas
-(Acórdão nº 174/2018), referente TC/012278/2017,
-publicado no D.E. do TCE/PI nº 031, de 19/02/2018,
-decidiu que é possível a concessão de “verba
-indenizatória” aos Vereadores, por meio de lei (art. 37, §
-II da CF/88 ).
-
-
-SUMÁRIO: CONSULTA – CÂMARA MUNICIPAL
-DE MIGUEL ALVES. Pelo conhecimento da presente
-consulta. No mérito, para respondê-la em conformidade
-e pelos fundamentos expostos no do voto do Relator
-(peça nº 12), Decisão unânime.
-
-
+> ***SUMÁRIO: CONSULTA – CÂMARA MUNICIPAL
+> DE MIGUEL ALVES.** Pelo conhecimento da presente
+> consulta. No mérito, para respondê-la em conformidade
+> e pelos fundamentos expostos no do voto do Relator
+> (peça nº 12), Decisão unânime.*
 
 Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ
 (peça nº 4), o parecer da II Divisão Técnica/DFAM (peça nº 5), o parecer do Ministério Público de
@@ -72,14 +70,12 @@ ou não podem ser enquadradas, além de conferir ampla transparência e irrestri
 processos por qualquer interessado, tudo a ser devida e oportunamente analisado pelo controle
 interno das Câmaras Municipais.
 
-
-
-
-TC/003617/2018                          ACÓRDÃO Nº 976/2018                         1/1
-
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
-
+**TC/003617/2018                          ACÓRDÃO Nº 976/2018                         1/1**
 #### Página 2 do PDF oficial
+
+[Apresentação gráfica: brasão colorido à esquerda, com inscrição ESTADO DO PIAUÍ; à direita, estrela azul sobre faixas verde e amarela e inscrição TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. As inscrições diminutas nas fitas inferiores do brasão não têm leitura segura nesta imagem e não são reconstruídas. A disposição e os espaços são descritos; esta transcrição não é fac-símile.]
+
+[Apresentação gráfica: cabeçalho centralizado sem negrito; corpo justificado, com primeiras linhas recuadas. Ausente, Presentes: e o rótulo Representante do Ministério Público de Contas presente: em negrito; Procurador-Geral e Leandro Maciel do Nascimento sem negrito. O nome Jaylson Fabianh Lopes Campelo na lista de presentes não tem itálico. No bloco de assinatura, (assinado digitalmente) em itálico; Cons. Subst. em negrito, nome em negrito e itálico e Relator à direita sem destaque. Sem assinatura manuscrita. Ampla área em branco. Legenda e-TCE com abertura em itálico e nome/data em negrito, identificador pessoal ocultado. Rodapé em negrito: processo à esquerda, acórdão ao centro, fólio 1/1 à direita, preservado como impresso nesta segunda folha física.]
 
 Estado do Piauí
 Tribunal de Contas
@@ -97,7 +93,7 @@ Cons. Luciano Nunes Santos (ausente por motivo justificado) e Alisson Felipe de 
 convocado para substituir, nesse processo, o Cons. Abelardo Pio Vilanova e Silva (no exercício da
 Presidência).
 
-Representante do Ministério Público de Contas presente: Procurador-Geral
+**Representante do Ministério Público de Contas presente:** Procurador-Geral
 Leandro Maciel do Nascimento
 
 Publique-se. Cumpra-se.
@@ -106,20 +102,17 @@ Sessão Plenária Ordinária nº 017, em Teresina, 07 de junho de 2018.
 
 
 *(assinado digitalmente)*
-Cons. Subst. Jaylson Fabianh Lopes Campelo                                  Relator
+**Cons. Subst. *Jaylson Fabianh Lopes Campelo***                                  Relator
 
 
 
 
-Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 15/06/2018 10:25:51
+*Assinado Digitalmente pelo sistema e-TCE* - **JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 15/06/2018 10:25:51**
 
 
 
 
-TC/003617/2018                             ACÓRDÃO Nº 976/2018                               1/1
-
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
-
+**TC/003617/2018                             ACÓRDÃO Nº 976/2018                               1/1**
 ### Documento vinculado pela fonte
 
 [Abrir o documento oficial](http://www.tce.pi.gov.br/wp-content/uploads/2018/07/Voto-do-Relator-1.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.
