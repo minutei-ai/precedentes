@@ -12,15 +12,17 @@
 
 Fonte: [Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas), indicada em [Súmulas](https://www.trt17.jus.br/w/sumulas). Duas capturas em 29/10/2026 têm o mesmo SHA-256 `32055b651824f55a5850d398c85fcc48537af8b49f06464c92790a8a9a48d40f`. O PDF tem 17 páginas. A camada de texto foi extraída e conferida visualmente em cada página. As quebras de linha foram reunidas em parágrafos. Trechos riscados na edição ficam riscados abaixo; a nota de cancelamento ou de revisão não está riscada.
 
-SÚMULA Nº 56
+<u>**SÚMULA Nº 56**</u>
 
-VALE S/A. TRANSPORTE FERROVIÁRIO DE PASSAGEIROS. LOCAÇÃO DE VAGÕES PARA FORNECIMENTO DE REFEIÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. ARTIGOS 7º E 39 DO DECRETO N. 1.832/1996. Empresa atuante na área de transporte ferroviário de passageiros que realiza a locação de vagão para fornecimento de refeições é subsidiariamente responsável pelos créditos trabalhistas devidos aos empregados da locatária (empresa do ramo de alimentação), quando demonstrado o desvirtuamento do contrato de locação pela ingerência da locadora em relação aos serviços e/ou aos empregados da locatária, ainda que o objeto da contratação entre as empresas seja denominado como simples locação de carros/vagões. Inteligência dos artigos 7º e 39 do Decreto Nº 1.832/1996 c/c a ADPF 324 e o Tema 725.
+**VALE S/A. TRANSPORTE FERROVIÁRIO DE PASSAGEIROS. LOCAÇÃO DE VAGÕES PARA FORNECIMENTO DE REFEIÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. ARTIGOS 7º E 39 DO DECRETO N. 1.832/1996.** Empresa atuante na área de transporte ferroviário de passageiros que realiza a locação de vagão para fornecimento de refeições é subsidiariamente responsável pelos créditos trabalhistas devidos aos empregados da locatária (empresa do ramo de alimentação), quando demonstrado o desvirtuamento do contrato de locação pela ingerência da locadora em relação aos serviços e/ou aos empregados da locatária, ainda que o objeto da contratação entre as empresas seja denominado como simples locação de carros/vagões. Inteligência dos artigos 7º e 39 do Decreto Nº 1.832/1996 c/c a ADPF 324 e o Tema 725.
 
 O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
+Nota editorial de apresentação: na Consulta Unificada, o rótulo “SÚMULA Nº 56” está em negrito e sublinhado. O rótulo está em preto.
+
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53, 55 e 65).
 
 Título indicado: SÚMULA Nº 56 - VALE S/A. TRANSPORTE FERROVIÁRIO DE PASSAGEIROS. LOCAÇÃO DE VAGÕES PARA FORNECIMENTO DE REFEIÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. ARTIGOS 7º E 39 DO DECRETO N. 1.832/1996.
 

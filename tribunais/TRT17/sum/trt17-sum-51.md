@@ -12,15 +12,17 @@
 
 Fonte: [Consulta Unificada de Súmulas](https://www.trt17.jus.br/documents/d/guest/consulta-unificada-de-sumulas), indicada em [Súmulas](https://www.trt17.jus.br/w/sumulas). Duas capturas em 29/10/2026 têm o mesmo SHA-256 `32055b651824f55a5850d398c85fcc48537af8b49f06464c92790a8a9a48d40f`. O PDF tem 17 páginas. A camada de texto foi extraída e conferida visualmente em cada página. As quebras de linha foram reunidas em parágrafos. Trechos riscados na edição ficam riscados abaixo; a nota de cancelamento ou de revisão não está riscada.
 
-SÚMULA Nº 51
+<u>**SÚMULA Nº 51**</u>
 
-FUNDAÇÃO CECILIANO ABEL DE ALMEIDA (FCAA). LIQUIDAÇÃO JUDICIAL. Em observância às garantias constitucionais da razoável duração do processo e da celeridade de tramitação (art. 5º, inciso LXXVIII, da CRFB/1988), a citação da Fundação Ceciliano Abel de Almeida, em liquidação judicial, será realizada na pessoa do Magnífico Reitor da Universidade Federal do Espírito Santo (UFES) até ser formalizada a designação do administrador judicial nos autos do processo de extinção e liquidação da fundação.
+**FUNDAÇÃO CECILIANO ABEL DE ALMEIDA (FCAA). LIQUIDAÇÃO JUDICIAL.** Em observância às garantias constitucionais da razoável duração do processo e da celeridade de tramitação (art. 5º, inciso LXXVIII, da CRFB/1988), a citação da Fundação Ceciliano Abel de Almeida, em liquidação judicial, será realizada na pessoa do Magnífico Reitor da Universidade Federal do Espírito Santo (UFES) até ser formalizada a designação do administrador judicial nos autos do processo de extinção e liquidação da fundação.
 
 O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
+Nota editorial de apresentação: na Consulta Unificada, o rótulo “SÚMULA Nº 51” está em negrito e sublinhado. O rótulo está em preto.
+
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53, 55 e 65).
 
 Título indicado: SÚMULA Nº 51 - FUNDAÇÃO CECILIANO ABEL DE ALMEIDA (FCAA). LIQUIDAÇÃO JUDICIAL.
 
