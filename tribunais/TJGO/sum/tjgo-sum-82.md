@@ -53,7 +53,17 @@ Sessão do Órgão Especial de 26/06/2024
 
 Desembargador AMARAL WILSON DE OLIVEIRA Vice-Presidente no exercício da Presidência
 
-Assinado digitalmente por: AMARAL WILSON DE OLIVEIRA, DESEMBARGADOR, em 27/06/2024 às 15:01. Para validar este Documento          documento Assinado        informe o código 882036970224 no DJ Digitalmente                          endereço https://proad-v2.tjgo.jus.br/proad/publico/validacaoDocumento Eletrônico - Acesse: tjgo.jus.br                                                       2 de 167
+Assinado digitalmente por: AMARAL WILSON DE OLIVEIRA, DESEMBARGADOR, em 27/06/2024 às 15:01.
+
+[Nota editorial: as linhas do carimbo PROAD e do rodapé do DJe estão sobrepostas na página 1. A separação abaixo usa a camada nativa e a repetição legível da frase PROAD, com o mesmo código, na página 2; os trechos sob a sobreposição não foram lidos isoladamente na imagem.]
+
+Para validar este documento informe o código 882036970224 no endereço https://proad-v2.tjgo.jus.br/proad/publico/validacaoDocumento
+
+Documento Assinado Digitalmente
+
+DJ Eletrônico - Acesse: tjgo.jus.br
+
+2 de 167
 
 ### Texto do PDF — página 2
 
@@ -66,3 +76,7 @@ AMARAL WILSON DE OLIVEIRA DESEMBARGADOR VICE-PRESIDENCIA Assinatura CONFIRMADA e
 Documento Assinado Digitalmente                                  DJ Eletrônico - Acesse: tjgo.jus.br                                                       3 de 167
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Conferência documental complementar — 05/11/2026
+
+As duas páginas foram cotejadas integralmente com imagens do PDF em revisão independente. Aplicaram-se a separação do rodapé sobreposto e, quando indicado, a reunião de número CNJ partido na quebra de linha. Brasão e QR code são imagens e não foram transcritos nem decodificados. A extração não reproduz sistematicamente negrito e cores; os carimbos azuis foram transcritos como texto. Assinaturas e códigos não foram autenticados.

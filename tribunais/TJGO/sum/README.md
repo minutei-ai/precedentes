@@ -87,3 +87,7 @@
 - [SUM 82](tjgo-sum-82.md) — Vigente
 - [SUM 83](tjgo-sum-83.md) — Vigente
 - [SUM 84](tjgo-sum-84.md) — Vigente
+
+## Conferência dos arquivos oficiais — 05/11/2026
+
+O lote de 78 arquivos foi conciliado com os documentos do catálogo atual: 71 ODTs comparados integralmente com seu XML e sete PDFs com as 14 páginas cotejadas em imagem. A comparação dos ODTs preserva o tachado ativo do nº 36 e não equivale a leitura visual de páginas renderizadas. O PDF 650217 contém o original de 2022 em escala mínima; sua transcrição ampliada está separada do HTML consolidado revisado em 2024 no registro 76. Nos cinco PDFs do DJe, os rodapés sobrepostos são apresentados com a limitação e o apoio da página 2 declarados. Nenhum novo identificador foi criado. A reconsulta da API retornou os mesmos 85 IDs e metadados; a interface respondeu HTTP 404. Não se certifica vigência ou autenticidade das assinaturas.

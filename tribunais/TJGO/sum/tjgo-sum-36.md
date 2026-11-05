@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 36
 - **Identificador:** `tjgo-sum-36`
-- **Situação na fonte:** Vigente
+- **Situação no BNP:** Vigente
 - **Atualização informada pela fonte:** 04/10/2024
 - **Fonte:** [Pangea/BNP — CNJ](https://bnp.pdpj.jus.br/pesquisa?orgao=tjgo&tipo=SUM&nr=36)
 
@@ -40,12 +40,14 @@ Arquivo OpenDocument Text (ODT) do documento 435170, com 67,881 bytes. SHA-256 `
 
 ### Texto do ODT
 
-Súmula nº 36
-ENUNCIADO: É devida a extensão dos direitos sociais previstos no artigo 7º, da Carta Magna, a servidor contratado temporariamente, nos moldes do artigo 37, inciso IX, da Carta da República.
-DATA DA APROVAÇÃO:
-Sessão da Corte Especial de 19/09/2016.
-PRECEDENTES: AC n.º 8391-82.2011.8.09.0146; AC n.º 346725-49.2010.8.09.0146; AC n.º 34279-94.2015.8.09.0087; DGJ n.º 408217-78.2013.8.09.0100; DGJ n.º 387059-79.2009.8.09.0011; AC n.º 265748-14.2014.8.09.0087.
+~~Súmula nº 36~~
+~~ENUNCIADO: É devida a extensão dos direitos sociais previstos no artigo 7º, da Carta Magna, a servidor contratado temporariamente, nos moldes do artigo 37, inciso IX, da Carta da República.~~
+~~DATA DA APROVAÇÃO:~~
+~~Sessão da Corte Especial de 19/09/2016.~~
+~~PRECEDENTES: AC n.º 8391-82.2011.8.09.0146; AC n.º 346725-49.2010.8.09.0146; AC n.º 34279-94.2015.8.09.0087; DGJ n.º 408217-78.2013.8.09.0100; DGJ n.º 387059-79.2009.8.09.0011; AC n.º 265748-14.2014.8.09.0087.~~
 Desembargador LEOBINO VALENTE CHAVES
 Presidente
+
+[Nota editorial: os riscos acima reproduzem os estilos ativos de tachado do content.xml do ODT oficial, preservados após conferência estrutural do arquivo. As duas linhas do presidente não estão riscadas. Não se deduz cancelamento apenas dessa formatação; as situações e a descrição do catálogo permanecem atribuídas separadamente.]
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
