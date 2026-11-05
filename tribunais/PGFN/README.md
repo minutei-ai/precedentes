@@ -10,3 +10,5 @@ Procuradoria-Geral da Fazenda Nacional. **20 registros em quatro séries de enun
 | [Enunciados CCA revogados](en-revogados/) | 2 |
 
 Fonte primária: [catálogo oficial de enunciados](https://www.gov.br/pgfn/pt-br/assuntos/consultoria-administrativa/copy_of_enunciados-1/enunciados), com três coleções. Números CCA e CGCP não foram fundidos. Revogados preservam o ID original. A atualização de 1º/11/2023 do enunciado CCA nº 16 não criou registro adicional. Capturas de 04/11/2026 permanecem privadas. Não se infere vigência, vinculação ou completude além do publicado.
+
+Metadado da página da coleção Lei 14.133/21: “Atualizado em 28/10/2025 11h41”, conforme captura de 04/11/2026. Essa atualização da página não é data de revisão de cada enunciado; o CCA16 traz atualização própria de 01/11/2023. As páginas Lei8.666/93 e revogados informam publicação em21/11/2024.

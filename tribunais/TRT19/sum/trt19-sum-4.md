@@ -24,6 +24,6 @@ Precedentes Jurisprudenciais:
 
 	- RO nº 0010866-45.2013.5.19.0006 (PJE) - Rel. Des. João Leite - DEJT - Publicação: 05/03/2015
 
-Aprovada pela Resolução[Nº 51, de 29 de julho de 2015](https://asp1.trt19.jus.br/docspdf/rhdocs/BOLETIM_20180131163658975.PDF)
+Aprovada pela Resolução [Nº 51, de 29 de julho de 2015](https://asp1.trt19.jus.br/docspdf/rhdocs/BOLETIM_20180131163658975.PDF)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

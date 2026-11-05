@@ -1124,9 +1124,9 @@ O TRT da 15ª Região inclui 146 números de súmula. A edição com processos r
 
 O catálogo do TRT da 18ª Região trouxe 69 súmulas consecutivas: 67 novas no acervo e duas já representadas no BNP como súmulas vinculantes (números 21 e 66). A correspondência foi conferida pelo órgão, número e texto integral do BNP contido no catálogo; preservamos os identificadores existentes e atribuímos separadamente a descrição do tribunal. Foram mantidos todos os textos, as referências, os links e as redações riscadas. Os avisos de cancelamento incluem a Súmula 14 pela RA nº 82/2025 e a Súmula 66 pela RA nº 81/2025, ambas com publicação indicada em 01/07/2025. Os limites de cada verbete foram conferidos mesmo nos trechos com marcação HTML aninhada; a página não comprova cobertura de todas as categorias de precedentes do tribunal.
 
-O TRT da 19ª Região inclui as redações originais das súmulas 1 a 7 instituídas pela Resolução nº 51, de 29/07/2015, com os precedentes e dados de publicação preservados. O catálogo atual de súmulas respondeu HTTP 503 nas tentativas diretas e no coletor nativo; sua conciliação continua pendente. A resolução histórica não comprova a vigência atual nem a cobertura das súmulas posteriores.
+O TRT da 19ª Região inclui oito súmulas do catálogo oficial, reconsultado em 05/11/2026 com HTTP 200. Preservadas as redações 1–7 da RA 51/2015, a nº 8 da RA 52/2015 e a revisão da nº 7 pela RA 118/2017, com redação anterior riscada e precedentes. O 503 da coleta inicial não descreve essa reconsulta. A conciliação não certifica vigência atual nem completude histórica fora dessas fontes.
 
-O TRT da 20ª Região inclui 25 súmulas com corpo recuperado na página oficial de íntegra id 9330, consultada em 04/11/2026 pela rota sem extensão. A rota com `.html` respondeu 404 naquela coleta. Preservado o cancelamento da nº 10 pela RA nº 25/2017. Os 25 blocos foram confrontados com o HTML, com limites individuais corrigidos. Nas nºs 17–19, o vínculo rotulado RA 21/2017 leva a arquivo com metadado 020/97; a divergência está documentada e não foi usada para alterar os enunciados. Os inventários do BNP desses dois tribunais não contêm registros de súmula ou súmula vinculante; os 32 identificadores não duplicam essas espécies no BNP.
+O TRT da 20ª Região inclui 25 súmulas com corpo recuperado na página oficial de íntegra id 9330, consultada em 04/11/2026 pela rota sem extensão. A rota com `.html` respondeu 404 naquela coleta. Preservado o cancelamento da nº 10 pela RA nº 25/2017. Os 25 blocos foram confrontados com o HTML, com limites individuais corrigidos. Nas nºs 17–19, o vínculo rotulado RA 21/2017 leva a arquivo com metadado 020/97; a divergência está documentada e não foi usada para alterar os enunciados. Os inventários do BNP desses dois tribunais não contêm registros de súmula ou súmula vinculante; os 33 identificadores dessas duas séries (TRT19: 8; TRT20: 25) não duplicam essas espécies no BNP.
 
 O TRT da 24ª Região inclui os 38 verbetes do livro atualizado em março de 2026, disponibilizado no portal em 17/03/2026. A numeração do texto foi conferida contra o sumário; as entradas do índice não contam novamente. Mantemos as redações e os processos de origem, os oito avisos de cancelamento, a suspensão da nº 14 e as alterações das nºs 17 e 23. A edição registra cancelamentos de 2025, incluindo os de 25/11/2025 e o da nº 30 em 26/06/2025. O BNP desse órgão não contém súmulas sob as espécies SUM ou SV; os 38 verbetes são novos no acervo. O livro não comprova a cobertura de todas as categorias do tribunal ou das publicações posteriores à edição.
 
@@ -1232,7 +1232,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TJSC](tribunais/TJSC/) | 299 | 91 | 91 |
 | [TJSP](tribunais/TJSP/) | 397 | 237 | 237 |
 | [TJSE](tribunais/TJSE/) | 36 | 22 | 22 |
-| [TJTO](tribunais/TJTO/) | 37 | 37 | 37 |
+| [TJTO](tribunais/TJTO/) | 61 | 37 | 37 |
 | [TRT01](tribunais/TRT01/) | 153 | 76 | 76 |
 | [TRT02](tribunais/TRT02/) | 235 | 69 | 69 |
 | [TRT03](tribunais/TRT03/) | 214 | 72 | 72 |
@@ -1251,7 +1251,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TRT16](tribunais/TRT16/) | 22 | 18 | 18 |
 | [TRT17](tribunais/TRT17/) | 105 | 40 | 40 |
 | [TRT18](tribunais/TRT18/) | 140 | 73 | 73 |
-| [TRT19](tribunais/TRT19/) | 44 | 37 | 37 |
+| [TRT19](tribunais/TRT19/) | 45 | 37 | 37 |
 | [TRT20](tribunais/TRT20/) | 59 | 34 | 34 |
 | [TRT21](tribunais/TRT21/) | 36 | 27 | 27 |
 | [TRT22](tribunais/TRT22/) | 86 | 39 | 39 |
@@ -2876,3 +2876,19 @@ TRT20: os 25 corpos das súmulas foram recuperados na íntegra oficial id 9330. 
 ## MPPI — deliberação de suspensão da Súmula 01
 
 A ata da 1272ª sessão ordinária, 18/04/2018, contém na página física 4 o item impresso 3.2.2: fundamentação no RE 852.475/SP, Tema 897, e decisão de suspender a aplicação da Súmula 01 enquanto se aguardava o julgamento. O número seguinte é 3.1.3; não se corrigiu a numeração da fonte. Corpo e localização conferidos na imagem e na camada textual, PDF SHA-256 `ea9f7cc3f2fab2dc73988c9ffa5a2f5e93ac8d55952767749970b3774dc57ccf`. Corrigidas as referências anteriores a item3.1.2/páginas3–4. A redação histórica de2017 e a suspensão permanecem separadas; eventual redação posterior e vigência atual não certificadas. Delta zero IDs/órgãos; ata como apoio ao registro existente.
+
+## FONACRE — edições I–III e compilação reconciliadas
+
+Os 29 corpos publicados correspondem aos HTMLs oficiais das edições I (1–7), II (8–22) e III (23–29), com whitespace normalizado. O PDF oficial de compilação, recuperado em 05/11/2026, reúne apenas I e II, números 1–22, em 6 páginas; capa, corpos e notas conferidos nas imagens. SHA-256 `61b5e474557ec4c28c90b1ff7691d84edff6850a8072e17789d59b462a60ab38`. Seis variantes de pontuação foram preservadas nas fichas, sem harmonizar com o HTML. Rejeição do nº 3 e identidades distintas 21/22, mesmo com corpo repetido, mantidas. Rodapé “FONACOM” atribuído ao PDF, sem confundir o fórum com outra série. Delta de revisão zero: 29 IDs, 1 órgão FONACRE já integrado. Fontes e imagens privadas; apenas Markdown público.
+
+## FONACOM e PGFN — auditoria das integrações
+
+FONACOM: 76 identidades 1–76 nas edições I–V (13/29/11/13/10), com corpos e notas confrontados com os HTMLs oficiais. Restaurado o risco da fonte nas variantes 7, 9, 12 e 13, incluindo a fronteira interna da palavra no 7. Compilação, menus e sobreposições da paginação não geram IDs. Delta da integração: +76 registros/+1 órgão; esta revisão não soma novamente esses IDs.
+
+PGFN: 20 identidades nas três páginas oficiais de coleções (9 CCA Lei 8.666/93; 5 CCA e 4 CGCP/PGAD Lei 14.133/21; 2 CCA revogados). Corpos, notas de atualização e revogação preservados; CCA 16 atualizado permanece um ID. Corrigido seu rótulo truncado no índice. Delta da integração: +20 registros/+1 órgão. Não se reclassificou coleção pelo regime legal citado no corpo, nem se converteu a atualização da página em data de cada enunciado.
+
+Esses deltas são locais às integrações, não uma soma sobre o total nacional histórico 42.977/187. A recontagem global permanece em #239. Capturas e auditorias privadas; não se certificam vigência, efeito vinculante nem completude histórica fora das páginas examinadas.
+
+## TRT19 — oito súmulas reconciliadas
+
+Reconsulta ao catálogo oficial em 05/11/2026 confirma oito verbetes. Súmulas 1–7 atribuídas à RA 51/2015; 8 à RA 52/2015. A 7 conserva a redação revista pela RA 118/2017 e a anterior riscada, com precedentes e notas. Os oito corpos foram confrontados com o catálogo; corrigidos quatro espaços junto a links de resoluções. Delta da integração anterior:+1 (súmula 8), TRT19 44→45; nesta revisão, zero IDs. Sem inferir vigência atual ou completude histórica além das fontes capturadas.

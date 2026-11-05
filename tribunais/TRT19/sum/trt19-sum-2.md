@@ -22,6 +22,6 @@ Precedentes Jurisprudenciais:
 
 	- RO nº 0000990-69.2013.5.19.0005 (FÍSICO) - Rel. Des. Eliane Arôxa - DEJT - Publicação: 24/10/2014
 
-Aprovada pela[Resolução Nº 51, de 29 de julho de 2015](https://asp1.trt19.jus.br/docspdf/rhdocs/BOLETIM_20180131163658975.PDF)
+Aprovada pela [Resolução Nº 51, de 29 de julho de 2015](https://asp1.trt19.jus.br/docspdf/rhdocs/BOLETIM_20180131163658975.PDF)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
