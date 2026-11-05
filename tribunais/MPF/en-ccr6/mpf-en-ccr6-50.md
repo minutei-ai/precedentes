@@ -5,7 +5,7 @@
 - **Identificador:** `mpf-en-ccr6-50`
 - **Situação na fonte:** Sem nota expressa de revogação neste verbete; não confirma vigência atual
 - **Fonte:** [Enunciados publicados pela 6ª CCR](https://www.mpf.mp.br/atuacao/ccr6/enunciados)
-- **Fonte da fundamentação:** [Fundamentação](https://www.mpf.mp.br/dados-da-atuacao/atos-do-colegiado/reunioes-ordinarias/fundamentacao-enunciado-50-6ccr.pdf)
+- **Fonte da fundamentação:** [Fundamentação](https://www.mpf.mp.br/atuacao/populacoes-indigenas-e-comunidades-tradicionais/copy_of_sobre/dados-da-atuacao/atos-do-colegiado/reunioes-ordinarias/fundamentacao-enunciado-50-6ccr.pdf/@@download/file)
 
 ## Texto publicado
 
@@ -33,6 +33,8 @@ Em situações de eventual conflito entre diferentes titularidades coletivas sob
 
 Vínculos da página:
 
-- [Fundamentação](https://www.mpf.mp.br/dados-da-atuacao/atos-do-colegiado/reunioes-ordinarias/fundamentacao-enunciado-50-6ccr.pdf)
+- [Fundamentação](https://www.mpf.mp.br/atuacao/populacoes-indigenas-e-comunidades-tradicionais/copy_of_sobre/dados-da-atuacao/atos-do-colegiado/reunioes-ordinarias/fundamentacao-enunciado-50-6ccr.pdf/@@download/file)
 
 Texto, notas, referências e riscos conferidos no HTML oficial em duas capturas HTTP 200 de 29/10/2026 com bytes idênticos. Espaços, quebras de linha, negrito e itálico foram normalizados; riscos e os rótulos de nova redação foram preservados. A fundamentação acima é documento de apoio do mesmo enunciado e não gera ID novo. A grafia “Nº50” e “6ªCCR”, sem espaço, é a do PDF. Datas e reuniões são as declaradas pelas fontes; não confirmam vigência atual nem efeito vinculante. A página não esgota as séries do MPF.
+
+A fundamentação teve sua página integralmente cotejada em imagem por revisão independente em05/11/2026. O download canônico acima respondeu200application/pdf,87.190 bytes, com o mesmo SHA-256 `c395ea3736121146ad3eb380463c340c02ae9c03579327fbfc50d80aedf18456`. A URL anterior havia sido resolvida incorretamente a partir de vínculo relativo e foi corrigida. A página de visualização é HTML; o sufixo@@download/file recupera o PDF. Os atos das reuniões502ª/504ª estão apenas vinculados, não incorporados ou autenticados por esta conferência.
