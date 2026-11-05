@@ -12,10 +12,10 @@
 
 ### Texto e referências do catálogo
 
-[Súmula nº 03 - Publicada em 7/4/17](https://www.tce.ce.gov.br/downloads/ASCOM/Pdfs/sumula_03_1.pdf)  
-  
-Restringe a competitividade do certame licitatório destinado à contratação de obras e serviços de engenharia, cláusula editalícia que afaste o prestador de serviços do conceito de quadro permanente da licitante para efeito de qualificação técnico-profissional.  
-   
+[Súmula nº 03 - Publicada em 7/4/17](https://www.tce.ce.gov.br/downloads/ASCOM/Pdfs/sumula_03_1.pdf)
+
+Restringe a competitividade do certame licitatório destinado à contratação de obras e serviços de engenharia, cláusula editalícia que afaste o prestador de serviços do conceito de quadro permanente da licitante para efeito de qualificação técnico-profissional.
+
 
 O catálogo apresenta enunciados nas súmulas 1 a 4 e descrições resumidas nas súmulas 5 a 7; essas descrições não foram tratadas como transcrições integrais dos enunciados.
 
@@ -32,3 +32,7 @@ O Tribunal de Contas do Estado do Ceará não editou enunciados de súmulas de j
 Essa nota informa atualização até agosto de 2023, enquanto o próprio catálogo vincula as súmulas 5 a 7 com publicações de novembro de 2023. As duas informações foram preservadas; a nota não comprova ausência posterior de súmulas. A presença no catálogo não comprova vigência atual. Atos e processos apenas citados continuam pendentes de conciliação.
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.

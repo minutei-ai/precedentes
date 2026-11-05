@@ -6,7 +6,7 @@
 - **Identificador:** `tceto-sum-3`
 - **Situação na fonte:** Situação jurídica atual não informada em campo próprio; há pendências documentais ou visuais indicadas no texto
 - **Atualização informada pela fonte:** Não informada
-- **Fonte:** [TCETO — Súmulas, versões completas e sintéticas oficiais](https://www.tceto.tc.br/sumulas/)
+- **Fonte:** [TCETO — Súmulas, versões completas e sintéticas oficiais](https://www.tceto.tc.br/sumulas/); [portal-jurisprudência — arquivo da Súmula nº 3](https://jurisprudencia.tceto.tc.br/sumula/arquivo/sumula-3.pdf)
 
 ## Informações do catálogo oficial
 
@@ -20,7 +20,7 @@ Os precedentes e demais documentos reunidos nos PDFs foram mantidos como anexos 
 
 O catálogo informa 96 página(s). O PDF recuperado contém 96 página(s) físicas.
 
-[Abrir a versão oficial](https://www.tceto.tc.br/wp-content/uploads/2023/12/SUMULA_3_2023___VERSAO_COMPLETA.pdf). [Endereço final da primeira captura](https://www.tceto.tc.br/wp-content/uploads/2023/12/SUMULA_3_2023___VERSAO_COMPLETA.pdf).
+[Abrir a versão oficial no catálogo](https://www.tceto.tc.br/wp-content/uploads/2023/12/SUMULA_3_2023___VERSAO_COMPLETA.pdf). [Portal de jurisprudência (reconsulta 04/11/2026, dual hash SHA-256 `778ff468946f03954dcd4e6153114dd0d30b40aafe8a624cf1efbef89a3bc6c1`)](https://jurisprudencia.tceto.tc.br/sumula/arquivo/sumula-3.pdf).
 
 Os bytes do PDF foram conferidos em duas leituras independentes. O texto extraível está organizado por página, com as limitações visuais indicadas onde aplicáveis.
 
@@ -984,7 +984,7 @@ Os bytes do PDF foram conferidos em duas leituras independentes. O texto extraí
 
 #### Página 20 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF `jurisprudencia.tceto.tc.br/sumula/arquivo/sumula-3.pdf`, p. 20): a renderização da página mostra fundo branco com logotipo pequeno no cabeçalho e o número de página “20” no rodapé; não há quadro ou tabela preenchidos visíveis na imagem. O texto extraível abaixo corresponde ao corpo do voto; a referência “conforme quadro a seguir” aponta para área em branco na imagem — [quadro/tabela: conteúdo gráfico não legível na renderização visual].
 
                             TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1033,7 +1033,7 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 21 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 21): renderização em branco com logotipo e número “21”; referências a “quadro a seguir” e “tabela abaixo” / “Resumo do Ativo X Passivo” correspondem a áreas sem preenchimento gráfico legível na imagem — [quadros/tabelas: conteúdo gráfico não legível na renderização visual]. Texto extraível do voto preservado abaixo.
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1052,16 +1052,17 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
     foi no valor de R$ 419.505,73, evidenciando que os bens e direitos são superiores às
     obrigações, conforme tabela abaixo:
                       Resumo do Ativo X Passivo e Patrimônio Líquido:
-    
-    
-    
-    
+
+    (conferência visual da tabela):
+    | Ativo | R$ 217.166,64 | Passivo + PL | R$ 217.166,64 |
+    | Ativo Circulante | 59.890,95 | Passivo Circulante | 69.162,39 |
+    | Ativo Não Circulante | 157.275,69 | Patrimônio Líquido | 148.004,25 |
+
             Apuração do Superávit/Déficit Financeiro
             Apuração do Superávit/Déficit Financeiro do Exercício de 2014:
-    
-    
-    
-    
+
+    (conferência visual): Ativo Financeiro R$ 59.890,95; Passivo Financeiro R$ 69.162,39; Déficit Financeiro R$ (9.271,44).
+
              10.5.1. Apura-se um superávit financeiro de R$ 39.383,27. Sendo que, o total
     das disponibilidades (Caixa e Equivalentes de Caixa) foi de R$ 326.365,32, evidenciando
     equilíbrio das contas públicas (art. 1º, § 1º da LC nº 101/00) da IN TCE/TO nº 02/2013.
@@ -1076,7 +1077,7 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 22 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 22): renderização em branco com logotipo e número “22”; referência “Disponibilidade Financeira X Obrigações a Pagar” sem quadro preenchido legível na imagem — [quadro: conteúdo gráfico não legível na renderização visual]. Texto extraível do voto preservado abaixo.
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1118,7 +1119,7 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 23 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF juris sumula-3.pdf, p. 23): renderização em branco com logotipo e número “23”; quadros/tabelas referidos no texto extraível não aparecem preenchidos na imagem — [quadro/tabela: conteúdo gráfico não legível na renderização visual]. Texto extraível preservado abaixo.
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1464,7 +1465,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 30 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo do PDF `jurisprudencia.tceto.tc.br/sumula/arquivo/sumula-3.pdf`, p. 30): texto do voto legível; tabela "Resumo da Receita e Despesa Orçamentária" preenchida e legível na imagem (valores abaixo). Logotipo TCE/TO no cabeçalho.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1506,16 +1508,20 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
     receitas realizadas e as despesas fixadas com as despesas executadas. Na sequência
     seguem os resumos das receitas e despesas orçamentárias, bem como o resultado da
     execução:
-    
-    
-    
-    
+
+    Resumo da Receita e Despesa Orçamentária (conferência visual da tabela na imagem):
+    | Descrição | Previsão / Fixação (R$) | Realização / Execução (R$) | Diferença (R$) |
+    | Receitas Orçamentárias | 703.800,00 | 649.661,97 | (54.138,03) |
+    | Despesas Orçamentárias | 703.800,00 | 701.843,55 | 1.956,45 |
+    | Resultado Orçamentário | — | (52.181,58) | — |
+
                                                                                            30
     
 
 #### Página 31 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 31): texto do voto legível; quadros "Resumo do Ativo X Passivo e Patrimônio Líquido", "Apuração do Superávit/Déficit Financeiro" e "Disponibilidade Financeira X Obrigações a Pagar" preenchidos e legíveis (valores abaixo).
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1560,7 +1566,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 32 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 32): texto do voto legível; quadro "Disponibilidade Financeira X Obrigações a Pagar" preenchido na imagem (Caixa e Equivalentes R$ 59.890,95; Obrigações a Pagar R$ 69.162,39; insuficiência R$ 9.271,44); continuações de determinações 1–3 legíveis.
+
 
                      TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1568,10 +1575,15 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
     
     
                         Disponibilidade Financeira X Obrigações a Pagar:
-    
-    
-    
-    
+
+    (conferência visual da tabela):
+    | Caixa e Equivalentes de Caixa | R$ 59.890,95 |
+    | (-) Depósitos Restituíveis e Valores Vinculados | R$ 0,00 |
+    | Depositários Diversos / consignações | R$ 0,00 |
+    | Total das Disponibilidades | R$ 59.890,95 |
+    | Obrigações a Pagar (Passivo Financeiro) | R$ 69.162,39 |
+    | Suficiência / (Insuficiência) Financeira | R$ (9.271,44) |
+
              10.6.1. Demonstra-se suficiência financeira para cobertura das obrigações a curto
     prazo.
     
@@ -1662,7 +1674,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 34 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 34): texto do voto legível; sem quadro adicional além do texto extraível; logotipo e nº 34 no rodapé.
+
 
                  TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1705,7 +1718,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 35 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 35): texto do voto/dispositivo legível; logotipo e nº 35.
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1844,7 +1858,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 38 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 38): renderização em branco com logotipo e número “38”; sem quadro preenchido legível além do texto extraível mínimo.
+
 
     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1856,7 +1871,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 39 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 39): renderização em branco com logotipo e número “39”.
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -1884,7 +1900,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 40 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 40): a imagem da página exibe tabela “Demonstrativo das Receitas e Gastos com Saúde” (Base de Cálculo R$ 1.175.947,94; Despesas com ASPS R$ 224.596,53; 19,10% — rótulos de FUNDO MUNICIPAL DE SAÚDE DE ITAPIRATINS na figura); o texto extraível da mesma página trata da Carta Convite nº 03/2014 (Portal Distribuidora). Divergência imagem×camada textual preservada sem reconciliação inventada; logotipo e nº 40.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -2289,7 +2306,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 48 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 48): renderização em branco com logotipo e número “48”.
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -2443,7 +2461,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 51 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 51): renderização em branco com logotipo e número “51”.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -3162,7 +3181,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 64 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 64): renderização em branco com logotipo e número “64”.
+
 
                             TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -3209,7 +3229,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 65 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 65): tabela grande de itens da Carta Convite (descrição/quantidade/valor) parcialmente legível na imagem; texto extraível do voto preservado abaixo; logotipo e nº 65. Valores unitários densos — trechos numéricos individuais não reconstruídos além do que o texto extraível já traz.
+
 
                      TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -4406,7 +4427,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 87 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 87): renderização em branco com logotipo e número “87”.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -4456,7 +4478,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 88 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 88): renderização em branco com logotipo e número “88”.
+
 
                    TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     
@@ -4506,7 +4529,8 @@ Conferência visual pendente: esta página contém imagem de grande dimensão. O
 
 #### Página 89 do PDF oficial
 
-Conferência visual pendente: esta página contém imagem de grande dimensão. O texto extraível, quando disponível abaixo, não comprova recuperação de todo o conteúdo da imagem. Não foi inventada transcrição de tabelas, figuras ou trechos digitalizados.
+Conferência visual (04/11/2026, Read nativo juris sumula-3.pdf, p. 89): renderização em branco com logotipo e número “89”.
+
 
                     TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS
     

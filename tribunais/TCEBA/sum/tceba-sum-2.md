@@ -21,15 +21,44 @@ Resolução n° 031/93. Sessão Plenária de 11/05/93. DOE de 21/05/93.
 
 [PDF oficial](https://www.tce.ba.gov.br/images/legislacao/090.pdf) — 2 páginas.
 
-Há páginas sem texto extraível neste PDF. A transcrição do anexo permanece pendente; consulte o arquivo oficial. O enunciado e as referências do catálogo foram mantidos.
+Em 04/11/2026 o portal https://www.tce.ba.gov.br/ respondia com página de manutenção ("Estamos em manutenção"); os endereços diretos dos PDFs e o catálogo de súmulas retornaram HTTP 404. O PDF oficial foi recuperado de capturas Wayback Machine do mesmo endereço (`https://www.tce.ba.gov.br/images/legislacao/090.pdf`), com duas leituras de bytes idênticos (SHA-256 `4d379dcc0519e59f89383b349ba7ed3d959477bf92ef0e45c3b2cb8d75145412`). A reconsulta ao portal oficial após o fim da manutenção permanece necessária.
 
 #### Página 1 do PDF oficial
 
-A extração não forneceu texto desta página.
+Transcrição visual parcial (04/11/2026, Read nativo do PDF Wayback `images/legislacao/090.pdf`). Digitalização degradada.
+
+    TRIBUNAL DE CONTAS DO ESTADO DA BAHIA
+
+    RESOLUÇÃO Nº 090 DE 10 DE OUTUBRO DE 2006
+
+    O TRIBUNAL DE CONTAS DO ESTADO DA BAHIA, no uso de suas atribuições
+    [ilegível: complemento da linha de competência],
+
+    CONSIDERANDO [ilegível: texto do 1º considerando];
+
+    CONSIDERANDO [ilegível: texto do 2º considerando];
+
+    CONSIDERANDO [ilegível: texto do 3º considerando];
+
+    RESOLVE:
+
+    Art. 1º - [ilegível: dispositivo de cancelamento de súmula(s) — redação integral não segura; catálogo indica cancelamento];
+
+    Art. 2º - Esta Resolução entra em vigor na data de sua publicação[ilegível: eventual cláusula final];
+
+    Art. 3º - Revogam-se as disposições em contrário.
+
+    Sala das Sessões, 10 de outubro de 2006.
+
+    [Assinaturas — nomes não lidos com segurança]
+
+Observações da conferência visual: Epígrafe “RESOLUÇÃO Nº 090 DE 10 DE OUTUBRO DE 2006” lida; arts. 2º e 3º parcialmente legíveis; considerandos e art. 1º majoritariamente ilegíveis. Página física 1 de 2.
 
 #### Página 2 do PDF oficial
 
-A extração não forneceu texto desta página.
+Transcrição visual parcial (Read nativo): cabeçalho TCE/BA confirmado; corpo residual/rubricas [ilegível: digitalização degradada — leitura integral não segura].
+
+Observações da conferência visual: Página física 2 de 2.
 
 As redações, os grupos e as referências são os do catálogo consultado. Os processos e demais atos apenas citados não foram integralmente coletados neste lote.
 

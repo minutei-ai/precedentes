@@ -4,7 +4,7 @@
 - **Espécie:** Prejulgado
 - **Número:** 11
 - **Identificador:** `tceal-prej-11`
-- **Situação na fonte:** Revogação informada no catálogo pelo Prejulgado nº 40
+- **Situação na fonte:** Disponível no catálogo; leitura visual nativa em 04/11/2026 com renderização insuficiente — corpo marcado ilegível; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEAL — Prejulgado e julgados de referência](https://www.tceal.tc.br//view/publicacao_sumulas.php?cc=MTY=&td=NTQ=)
 
@@ -18,15 +18,21 @@ Campo literal de data no catálogo: Data Publicação Diário: 23/08/2017. Esse 
 
 [Abrir o PDF oficial](https://www.tceal.tc.br//view/documentos/doc290520192035140000005ceeed0254618.pdf), 2 página(s). O portal vincula este documento à ficha; o conteúdo pode incluir relatório, voto, proposta de súmula, publicação no Diário e outros atos da mesma página. Esses trechos são contexto documental, não enunciados adicionais.
 
-Inteiro teor documental pendente em 2 página(s) sem camada textual extraível. O resumo e as notas do catálogo permanecem abaixo, sem reconstruir o texto das imagens.
+Reconsulta e leitura visual nativa em 04/11/2026: PDF oficial HTTP 200 (2 página(s); SHA-256 `ce3b51e0d6637d308e846e20795eacd93bfbd9ae16339b248df2972b4be526fd`). Read(PDF) nativo: renderização predominantemente em branco (apenas logotipo residual); sem transcrição segura linha a linha. Ementa do catálogo preservada abaixo, sem reconstrução.
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS
+    [logotipo DOE visível]
+    [ilegível: corpo do Prejulgado n. 11 — Read(PDF) renderizou página predominantemente em branco]
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+    TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS
+    [logotipo DOE visível]
+    [ilegível: corpo do Prejulgado n. 11 — Read(PDF) renderizou página predominantemente em branco]
+
+Observações da conferência visual: Páginas físicas 1–2 de 2.
 
 ## Ementa
 

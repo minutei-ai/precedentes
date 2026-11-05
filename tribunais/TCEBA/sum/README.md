@@ -2,6 +2,8 @@
 
 **21 registros.** [Voltar ao tribunal](../)
 
+Em 04/11/2026 o portal `www.tce.ba.gov.br` permanecia em manutenção (catálogo e PDFs diretos HTTP 404). As Resoluções 024/2007, 086/2007, 112/2008 e 090/2006 foram recuperadas via Wayback Machine dos URLs oficiais (hashes duals idênticos); a transcrição integral das 9 páginas digitalizadas permanece pendente por legibilidade. A Resolução 078/2018 (súmula 16) não tem captura CDX indexada; próximo passo: reconsultar o portal e o e-DOTCE após o fim da manutenção.
+
 - [SUM 1](tceba-sum-1.md) — Vigente no catálogo oficial
 - [SUM 2](tceba-sum-2.md) — Cancelada no catálogo oficial
 - [SUM 3](tceba-sum-3.md) — Vigente no catálogo oficial

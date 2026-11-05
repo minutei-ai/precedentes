@@ -4,8 +4,8 @@
 
 - [SUM 1](tcece-sum-1.md) — Situação não informada
 - [SUM 2](tcece-sum-2.md) — Situação não informada
-- [SUM 3](tcece-sum-3.md) — Situação não informada
-- [SUM 4](tcece-sum-4.md) — Situação não informada
+- [SUM 3](tcece-sum-3.md) — Situação não informada; 4 páginas do DOE transcritas visualmente em 04/11/2026 (Unicode inválido; código de autenticação ainda pendente)
+- [SUM 4](tcece-sum-4.md) — Situação não informada; 4 páginas do DOE transcritas visualmente em 04/11/2026 (Unicode inválido; código de autenticação ainda pendente)
 - [SUM 5](tcece-sum-5.md) — Situação não informada
 - [SUM 6](tcece-sum-6.md) — Situação não informada
 - [SUM 7](tcece-sum-7.md) — Situação não informada
