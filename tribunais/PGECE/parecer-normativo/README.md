@@ -1,6 +1,6 @@
 # PGECE · Pareceres normativos
 
-Vinte identidades documentais integradas após transcrição e cotejo visual independente. Rótulos de catálogo, processos e versões permanecem separados; não se certifica vigência ou completude.
+Vinte e duas identidades documentais integradas após transcrição e cotejo visual independente. Rótulos de catálogo, processos e versões permanecem separados; não se certifica vigência ou completude.
 
 - [003/96, processo 0415/96](pgece-par-norm-003-1996.md)
 
@@ -26,4 +26,9 @@ Históricos reconciliados em 05/11/2026, com textos disponíveis e limites atrib
 - [004/2005 — PRESENTE_ASSOCIACAO_DA_APROVACAO_LIMITADA](pgece-par-norm-004-2005.md)
 - [001/2006 — PRESENTE_MANUSCRITOS_PARCIAIS](pgece-par-norm-001-2006.md)
 
-Continuam pendentes o número de leitura insegura do recorte de 10/03/1992, o início ainda não transcrito do 002/2001, o recorte sem identidade impressa catalogado como 002/2000 e a classificação do Parecer 177/87, que não imprime “Normativo”. Nenhum deles recebeu ID nesta etapa.
+Recuperações adicionais, com cotejo independente integral do intervalo:
+
+- [002/2000 — início recuperado e continuidade até o fecho](pgece-par-norm-002-2000.md)
+- [002/2001 — fragmento de 35 linhas; continuação, corpo e fecho não recuperados](pgece-par-norm-002-2001.md)
+
+Continuam pendentes a continuação do PN 002/2001, o número de leitura insegura do recorte de 10/03/1992 e a classificação do Parecer 177/87, que não imprime “Normativo”. Estes dois últimos não receberam ID.
