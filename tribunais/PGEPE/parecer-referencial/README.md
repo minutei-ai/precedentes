@@ -1,6 +1,8 @@
 # PGEPE · Pareceres referenciais
 
-3 registros com corpo publicado:
+4 registros com corpo publicado:
+
+- [001/2025 do catálogo, impresso 0001/2020](pgepe-parecer-ref-001-2025.md)
 
 - [002/2025 do catálogo, impresso 0001/2021](pgepe-parecer-ref-002-2025.md)
 - [004/2023 do catálogo, impresso 0004/2023](pgepe-parecer-ref-004-2023.md)

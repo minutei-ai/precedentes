@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Recontagem estrutural de 05/11/2026: 43.987 IDs únicos em 212 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
+**Recontagem estrutural de 05/11/2026: 43.988 IDs únicos em 212 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -83,7 +83,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [PGEMT](PGEMT/) | 49 |
 | [PGEPA](PGEPA/) | 35 |
 | [PGEPB](PGEPB/) | 3 |
-| [PGEPE](PGEPE/) | 3 |
+| [PGEPE](PGEPE/) | 4 |
 | [PGEPI](PGEPI/) | 66 |
 | [PGEPR](PGEPR/) | 102 |
 | [PGERJ](PGERJ/) | 55 |
