@@ -106,3 +106,5 @@ Os lotes 12 e 14 receberam cotejo visual independente integral em 05/11/2026: 38
 Novos registros com cotejo integral: [000003/2023 — pregão](pgepa-parecer-ref-000003-2023.md) e [000010/2023 — isenção de imposto de renda](pgepa-parecer-ref-000010-2023.md).
 
 O lote 15 incorporou 20 páginas de 009/2019 após revisão visual independente integral por GPT-6.1 Sol: parecer, ratificação e aprovação separados. Metadados antigos de nome e processo foram corrigidos pela peça; o número manuscrito da página 1 mantém ressalva. Sem novo ID; os recortes integrados somam 15 PDFs / 221 páginas, com o restante do inventário pendente.
+
+O lote 13 incorporou 18 páginas de 008/2019 após cotejo visual independente integral por GPT-6.1 Sol e cinco ajustes. Metadados antigos de processo, ratificação e data foram corrigidos pela peça; códigos divergentes e limites manuscritos permanecem. Sem novo ID; os recortes integrados somam 16 PDFs / 239 páginas, com o restante do inventário pendente.
