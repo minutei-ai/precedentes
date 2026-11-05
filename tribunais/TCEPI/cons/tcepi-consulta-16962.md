@@ -111,13 +111,13 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE         ARAUJO:02088518444 - 26/04/2016 12:30:36
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE         ARAUJO: [identificador e-TCE ocultado] - 26/04/2016 12:30:36
                                                                     AC nº. 743/2016
                                                            PROCESSO TC nº. 018.711/15
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO       DE    CARVALHO           FILHO:06638023349
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO       DE    CARVALHO           FILHO: [identificador e-TCE ocultado]
                                                       Relator: Conselheiro-Substituto Alisson Araújo         - 25/04/2016 2/2
                                                                                                                           09:26:03
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 25/04/2016 08:57:13
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 25/04/2016 08:57:13
 
 ## Ementa
 

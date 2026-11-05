@@ -105,7 +105,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS:20088175391 - 05/09/2018 09:57:02
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 05/09/2018 09:57:02
 
 ## Ementa
 

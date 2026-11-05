@@ -119,7 +119,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     Assinado Digitalmente pelo sistema e-TCE - ALISSONRelator:
                                                         FELIPE     DE    ARAUJO:02088518444
                                                                Conselheiro-Substituto Alisson Araújo - 26/08/2015 11:09:47 2/2
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 30/08/2015 19:03:22
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 30/08/2015 19:03:22
     
 
 ### Documento vinculado pela fonte
@@ -407,7 +407,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO:02088518444 - 21/08/2015 13:46:40
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO: [identificador e-TCE ocultado] - 21/08/2015 13:46:40
     
     
                                                                  Processo TC nº. 007.034/15

@@ -147,9 +147,9 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 07/07/2015 09:11:54
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 06/07/2015 11:37:23
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 06/07/2015 12:41:27
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 07/07/2015 09:11:54
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 06/07/2015 11:37:23
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 06/07/2015 12:41:27
     
                                Gab. Consª Lilian Martins- Acórdão nº 1.094/15 – Consulta – P.M de Miguel Alves
     
@@ -645,7 +645,7 @@ O PDF contém 11 página(s). Relatórios, votos e outros atos de contexto perman
                                                     Lilian de Almeida Veloso Nunes Martins
                                                               Conselheira Relatora
     
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 26/06/2015 11:33:33
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 26/06/2015 11:33:33
     
     
     

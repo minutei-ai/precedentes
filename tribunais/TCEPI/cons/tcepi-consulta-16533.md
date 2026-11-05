@@ -113,9 +113,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 20/05/2015 12:11:12
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 20/05/2015 12:02:10
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 20/05/2015 12:20:12
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 20/05/2015 12:11:12
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 20/05/2015 12:02:10
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 20/05/2015 12:20:12
     
                                Gab. Consª Lilian Martins- Acórdão nº 759/15 – Consulta – AMPAR
     
@@ -411,7 +411,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 14/05/2015 09:18:29
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 14/05/2015 09:18:29
     
     
     
@@ -499,7 +499,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 15/04/2015 13:36:45
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 15/04/2015 13:36:45
     
     
     
@@ -757,9 +757,9 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 10/04/2015 12:03:30
-    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA:39508617349 - 10/04/2015 11:53:48
-    Assinado Digitalmente pelo sistema e-TCE - LUIS FERNANDO RAMOS RIBEIRO GONCALVES:01327635321 - 10/04/2015 11:38:56
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 10/04/2015 12:03:30
+    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA: [identificador e-TCE ocultado] - 10/04/2015 11:53:48
+    Assinado Digitalmente pelo sistema e-TCE - LUIS FERNANDO RAMOS RIBEIRO GONCALVES: [identificador e-TCE ocultado] - 10/04/2015 11:38:56
 
 ## Ementa
 

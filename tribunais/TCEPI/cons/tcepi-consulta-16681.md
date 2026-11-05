@@ -110,9 +110,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 25/02/2016 11:23:28
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 26/02/2016 10:43:10
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 26/02/2016 12:36:17
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 25/02/2016 11:23:28
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 26/02/2016 10:43:10
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 26/02/2016 12:36:17
     
 
 ### Documento vinculado pela fonte
@@ -339,7 +339,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 19/02/2016 09:53:58
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 19/02/2016 09:53:58
     
     
            ___________________________________________________________________________________________   5

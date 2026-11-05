@@ -71,7 +71,7 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     Cons. Subst. Jaylson Fabianh Lopes Campelo_____________________________________________Relator
     
                                                             (assinado digitalmente)
-     Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 17/02/2017 13:01:02
+     Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 17/02/2017 13:01:02
     Fui presente:
      Assinado         Plínio
               Digitalmente    Valentee-TCE
@@ -80,7 +80,7 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
                                                                                  FILHO:06638023349 - 20/02/2017 Geral
                                                                                                                  10:20:38do MPC-
           TCE/PI
-     Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 17/02/2017 09:01:55
+     Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 17/02/2017 09:01:55
     
     
             TC/020326/2016                                ACÓRDÃO Nº. 263/2017                              1/1

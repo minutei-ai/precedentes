@@ -85,10 +85,10 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     
     
                                 Fui presente Procurador-Geral Márcio André Madeira de Vasconcelos
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE  VERAS:20088175391 - 18/08/2014 11:00:01
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE  VERAS: [identificador e-TCE ocultado] - 18/08/2014 11:00:01
                                                                 MPC
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 18/08/2014 10:58:07
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 18/08/2014 12:16:51
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 18/08/2014 10:58:07
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 18/08/2014 12:16:51
     
 
 ### Documento vinculado pela fonte
@@ -245,7 +245,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS:20088175391 - 29/06/2014 09:31:21
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 29/06/2014 09:31:21
     
     
                                                                                     - - - - PÁGINA 3 DE 3

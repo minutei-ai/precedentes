@@ -110,9 +110,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 30/06/2014 09:59:32
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 01/07/2014 12:48:24
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 30/06/2014 11
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 30/06/2014 09:59:32
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 01/07/2014 12:48:24
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 30/06/2014 11
     
 
 ### Documento vinculado pela fonte
@@ -532,7 +532,7 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO:35109351368 - 24/06/2014 11:49:10
+    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 24/06/2014 11:49:10
     
     
                                                                                                          8
@@ -645,7 +645,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO:81093144300 - 05/06/2014 10:04:01
+    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO: [identificador e-TCE ocultado] - 05/06/2014 10:04:01
     
 
 ### Documento vinculado pela fonte
@@ -757,9 +757,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 23/05/2014 12:13:46
-    Assinado Digitalmente pelo sistema e-TCE - ANDREA DE OLIVEIRA PAIVA:53720008304 - 23/05/2014 09:00:56
-    Assinado Digitalmente pelo sistema e-TCE - MARIA DA CRUZ RUFINO LEAO:41186680334 - 23/05/2014 08:29:54
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 23/05/2014 12:13:46
+    Assinado Digitalmente pelo sistema e-TCE - ANDREA DE OLIVEIRA PAIVA: [identificador e-TCE ocultado] - 23/05/2014 09:00:56
+    Assinado Digitalmente pelo sistema e-TCE - MARIA DA CRUZ RUFINO LEAO: [identificador e-TCE ocultado] - 23/05/2014 08:29:54
 
 ## Ementa
 

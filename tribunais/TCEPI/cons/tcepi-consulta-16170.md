@@ -70,7 +70,7 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     
            Fui presente:           _______________________________________________________________
                                                Subprocurador-Geral Leandro Maciel do Nascimento
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO:02088518444 - 12/05/2014 10:13:26
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO: [identificador e-TCE ocultado] - 12/05/2014 10:13:26
     
     
                                                                 PROCESSO TC nº. 02.136/13
@@ -318,7 +318,7 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO:02088518444 - 02/05/2014 12:42:02
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO: [identificador e-TCE ocultado] - 02/05/2014 12:42:02
     
     
                                                             Processo TC nº. 02.136/13                               5/5

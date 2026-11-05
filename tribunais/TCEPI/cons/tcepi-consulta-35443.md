@@ -84,7 +84,7 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS:20088175391 - 18/01/2022 12:32:05
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 18/01/2022 12:32:05
     Para validar essa(s) assinatura(s) acesse http://validador.tce.pi.gov.br e insira o codigo - 3C9428AECAAF01647BA75B46BF772B94
 
 ## Ementa

@@ -100,7 +100,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS:07756518349 - 23/03/2023 08:33:42
+    Assinado Digitalmente pelo sistema e-TCE - LILIAN DE ALMEIDA VELOSO NUNES MARTINS: [identificador e-TCE ocultado] - 23/03/2023 08:33:42
     Para validar essa(s) assinatura(s) acesse http://validador.tce.pi.gov.br e insira o codigo - 34A7C953C6D10410FE9C1A72C2262050
 
 ## Ementa

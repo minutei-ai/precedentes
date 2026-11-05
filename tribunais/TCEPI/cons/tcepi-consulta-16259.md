@@ -128,9 +128,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ANFRISIO NETO LOBAO CASTELO BRANCO:01077392320 - 29/09/2014 11:19:24
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 29/09/2014 12:54:16
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 20/10/2014 09
+    Assinado Digitalmente pelo sistema e-TCE - ANFRISIO NETO LOBAO CASTELO BRANCO: [identificador e-TCE ocultado] - 29/09/2014 11:19:24
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 29/09/2014 12:54:16
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 20/10/2014 09
     
 
 ### Documento vinculado pela fonte
@@ -536,7 +536,7 @@ O PDF contém 10 página(s). Relatórios, votos e outros atos de contexto perman
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ANFRISIO NETO LOBAO CASTELO BRANCO:01077392320 - 17/09/2014 10:27:39
+    Assinado Digitalmente pelo sistema e-TCE - ANFRISIO NETO LOBAO CASTELO BRANCO: [identificador e-TCE ocultado] - 17/09/2014 10:27:39
     
     
     

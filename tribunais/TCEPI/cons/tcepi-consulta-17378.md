@@ -116,7 +116,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
             (assinado digitalmente)
            Cons. Substituto Alisson Felipe de Araújo                          Relator Substituto
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO:02088518444 - 20/03/2018 12:03:09
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO: [identificador e-TCE ocultado] - 20/03/2018 12:03:09
     
 
 ### Documento vinculado pela fonte
@@ -480,7 +480,7 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
                                                       Alisson Felipe de Araújo
                                                        Conselheiro Substituto
     
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO:02088518444 - 12/03/2018 10:41:58
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO: [identificador e-TCE ocultado] - 12/03/2018 10:41:58
     
     
     

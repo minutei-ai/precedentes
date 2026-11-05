@@ -108,7 +108,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
            (Assinado Digitalmente)
            Cons. Substituto Delano Carneiro da Cunha Câmara
     
-    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA:42232503372 - 29/09/2017 08:00:51
+    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 29/09/2017 08:00:51
 
 ## Ementa
 

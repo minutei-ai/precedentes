@@ -72,9 +72,9 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
                    (assinado digitalmente)
            Cons. Luciano Nunes Santos                                                                Presidente
                    (assinado digitalmente)
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 20/06/2016 10:53:59
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 20/06/2016 10:53:59
             Cons. Abelardo Pio Vilanova e Silva
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 20/06/2016 07:30:09
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 20/06/2016 07:30:09
                                                                                                            Relator
                      (assinado
     Assinado Digitalmente          digitalmente)
@@ -269,7 +269,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA:18049621553 - 10/06/2016 09:18:58
+    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 10/06/2016 09:18:58
     
     
     
@@ -405,7 +405,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 16/05/2016 13:22:08
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 16/05/2016 13:22:08
     
     
     
@@ -2056,9 +2056,9 @@ O PDF contém 28 página(s). Relatórios, votos e outros atos de contexto perman
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 05/05/2016 11:03:26
-    Assinado Digitalmente pelo sistema e-TCE - DJENANE DE MELO RODRIGUES:39566358334 - 05/05/2016 09:43:12
-    Assinado Digitalmente pelo sistema e-TCE - LAURA DONARYA ALVES DE SA NASCIMENTO:00695755331 - 05/05/2016 09:07:58
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 05/05/2016 11:03:26
+    Assinado Digitalmente pelo sistema e-TCE - DJENANE DE MELO RODRIGUES: [identificador e-TCE ocultado] - 05/05/2016 09:43:12
+    Assinado Digitalmente pelo sistema e-TCE - LAURA DONARYA ALVES DE SA NASCIMENTO: [identificador e-TCE ocultado] - 05/05/2016 09:07:58
     
 
 ### Links presentes no PDF

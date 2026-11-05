@@ -157,9 +157,9 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 25/04/2016 11:33:02
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 25/04/2016 12:28:20
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 26/04/2016 14
+    Assinado Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR: [identificador e-TCE ocultado] - 25/04/2016 11:33:02
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 25/04/2016 12:28:20
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 26/04/2016 14
                                                                                                            3
            TC/002561/2016 – CONSULTA – Prefeitura Municipal de Luis Correia
     
@@ -774,7 +774,7 @@ O PDF contém 12 página(s). Relatórios, votos e outros atos de contexto perman
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 19/04/2016 12
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 19/04/2016 12
                                                                                                           12
     
 
@@ -940,7 +940,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA:47055499372 - 15/03/2016 13:54:25
+    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA: [identificador e-TCE ocultado] - 15/03/2016 13:54:25
              _________________________________________________________________
                                                        Ministério Público de Contas
                                                                      3
@@ -1411,9 +1411,9 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
            Auditor de Controle Externo
            Diretor da DFAM
     
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 10/03/2016 13:05:29
-    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA LAGES:39508617349 - 10/03/2016 12:06:55
-    Assinado Digitalmente pelo sistema e-TCE - CAROLINE DE CARVALHO LEITAO:00135138345 - 10/03/2016 10:50:26
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 10/03/2016 13:05:29
+    Assinado Digitalmente pelo sistema e-TCE - EDNIZE OLIVEIRA COSTA LAGES: [identificador e-TCE ocultado] - 10/03/2016 12:06:55
+    Assinado Digitalmente pelo sistema e-TCE - CAROLINE DE CARVALHO LEITAO: [identificador e-TCE ocultado] - 10/03/2016 10:50:26
 
 ## Ementa
 

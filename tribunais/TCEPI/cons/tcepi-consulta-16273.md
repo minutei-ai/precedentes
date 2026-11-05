@@ -122,7 +122,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
            Cons. Olavo Rebêlo de Carvalho Filho                                   Relator
     
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS:01828630349 - 02/03/2015 09:31:01
+    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 02/03/2015 09:31:01
              Digitalmente pelo sistema
     AssinadoRepresentante       do MPC:e-TCE - OLAVO
                                           Proc.      REBELO
@@ -131,7 +131,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
                                                                       de Vasconcelos                     09:28:01
                                                                                              - 24/02/2015do
                                                                                        Procurador-Geral     TCE/PI
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 03/03/2015 11:47:06
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 03/03/2015 11:47:06
                                                                                                              2
     
 
@@ -268,7 +268,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 12/02/2015 10:37:49
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 12/02/2015 10:37:49
 
 ## Ementa
 

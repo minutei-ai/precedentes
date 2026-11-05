@@ -112,7 +112,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
            Consª. Waltânia Maria Nogueira de Sousa Leal Alvarenga                     Relatora
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 24/02/2015 14
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 24/02/2015 14
            Fui Presente: Márcio André Madeira de Vasconcelos                         Procurador do MPC
                                                                                                            2
     
@@ -834,7 +834,7 @@ O PDF contém 17 página(s). Relatórios, votos e outros atos de contexto perman
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 10/02/2015 12
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 10/02/2015 12
 
 ## Ementa
 

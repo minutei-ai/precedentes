@@ -78,9 +78,9 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
            (assinado digitalmente pelo sistema e-TCE)
            Fui presente: Márcio André Madeira de Vasconcelos __________ Procurador-Geral do MPC
     
-    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO:06638023349 - 09/05/2016 09:04:59
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 06/05/2016 09:52:18
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 06/05/2016 12:34:16
+    Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 09/05/2016 09:04:59
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 06/05/2016 09:52:18
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 06/05/2016 12:34:16
     
 
 ### Documento vinculado pela fonte
@@ -269,7 +269,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 29/04/2016 10:39:42
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 29/04/2016 10:39:42
     
     
     
@@ -437,7 +437,7 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
                                                         (Assinado digitalmente)
     
     
-    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO:81093144300 - 11/04/2016 11:16:14
+    Assinado Digitalmente pelo sistema e-TCE - LEANDRO MACIEL DO NASCIMENTO: [identificador e-TCE ocultado] - 11/04/2016 11:16:14
     
 
 ### Documento vinculado pela fonte
@@ -687,8 +687,8 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
                Assessor Jurídico - DFAP                               Assessor Jurídico – Diretor da DFAP
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ALEX SANDRO LIAL SERTAO:42905087315 - 01/04/2016 09:28:17
-    Assinado Digitalmente pelo sistema e-TCE - FRANCISCO DE ASSIS DA SILVA JUNIOR:52110796391 - 01/04/2016 09:30:00
+    Assinado Digitalmente pelo sistema e-TCE - ALEX SANDRO LIAL SERTAO: [identificador e-TCE ocultado] - 01/04/2016 09:28:17
+    Assinado Digitalmente pelo sistema e-TCE - FRANCISCO DE ASSIS DA SILVA JUNIOR: [identificador e-TCE ocultado] - 01/04/2016 09:30:00
 
 ## Ementa
 

@@ -85,9 +85,9 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
                                 Fui presente Procurador-Geral Márcio André Madeira de Vasconcelos
                                                               MPC
     
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS:20088175391 - 02/03/2015 08:52:03
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS:63223279334 - 03/03/2015 11:48:20
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 27/02/2015 12
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 02/03/2015 08:52:03
+    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 03/03/2015 11:48:20
+    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 27/02/2015 12
     
 
 ### Documento vinculado pela fonte
@@ -131,7 +131,7 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS:20088175391 - 27/01/2015 09:11:04
+    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 27/01/2015 09:11:04
     
     
                                                                                     - - - - PÁGINA 1 DE 1
@@ -404,7 +404,7 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO:20171866860 - 30/09/2014 09:55:15
+    Assinado Digitalmente pelo sistema e-TCE - PLINIO VALENTE RAMOS NETO: [identificador e-TCE ocultado] - 30/09/2014 09:55:15
     
 
 ### Documento vinculado pela fonte
@@ -679,9 +679,9 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA:36212849315 - 12/09/2014 12:08:04
-    Assinado Digitalmente pelo sistema e-TCE - ANDREA DE OLIVEIRA PAIVA:53720008304 - 12/09/2014 12:25:30
-    Assinado Digitalmente pelo sistema e-TCE - DJENANE DE MELO RODRIGUES:39566358334 - 12/09/2014 11:59:50
+    Assinado Digitalmente pelo sistema e-TCE - VILMAR BARROS MIRANDA: [identificador e-TCE ocultado] - 12/09/2014 12:08:04
+    Assinado Digitalmente pelo sistema e-TCE - ANDREA DE OLIVEIRA PAIVA: [identificador e-TCE ocultado] - 12/09/2014 12:25:30
+    Assinado Digitalmente pelo sistema e-TCE - DJENANE DE MELO RODRIGUES: [identificador e-TCE ocultado] - 12/09/2014 11:59:50
 
 ## Ementa
 

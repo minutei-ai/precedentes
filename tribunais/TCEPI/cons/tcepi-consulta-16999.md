@@ -86,7 +86,7 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
     Assinado Digitalmente pelo sistema e-TCE - OLAVO REBELO ___________________ Procurador-Geral
                                                                DE CARVALHO FILHO:06638023349      do MPC14:26:55
                                                                                              - 03/05/2017
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO:09601732349 - 04/05/2017 08:35:45
+    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 04/05/2017 08:35:45
 
 ## Ementa
 

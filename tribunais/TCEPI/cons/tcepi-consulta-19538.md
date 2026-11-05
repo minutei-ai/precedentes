@@ -107,7 +107,7 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
     
     
     
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO:02088518444 - 17/09/2018 09:35:52
+    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO: [identificador e-TCE ocultado] - 17/09/2018 09:35:52
             TC/011058/2018 - CONSULTA – Secretaria de Administração e Previdência.                                                  2
 
 ## Ementa
