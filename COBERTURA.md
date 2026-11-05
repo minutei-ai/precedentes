@@ -3034,3 +3034,7 @@ O [PDF condensado do GED](tribunais/MPPB/en-csmp/proveniencia.md), único item d
 ## PGEPR — corpo da Orientação Administrativa 98
 
 A [orientação 98](tribunais/PGEPR/oa/pgepr-oa-98.md) foi transcrita diretamente das três imagens, cotejada integralmente em revisão independente e corrigida na descrição do carimbo. O PDF recapturado em HTTP 200 é idêntico à cópia anterior. Não é a Resolução 206/2025; esse vínculo permanece do catálogo. Preservam-se número sem ano impresso, grafias, pontuação e referências; CPF parcial foi omitido com marcador editorial. O índice agora distingue 99 corpos em arquivos principais e três em complementos, 102 identidades com algum texto publicado, sem certificar as demais por contagem. Revisão integral do restante da série continua na #256. Delta zero.
+
+### TCEBA — complemento documental de 05/11/2026
+
+Os cinco atos vinculados no escopo da issue #205 (024/2007, 086/2007, 090/2006, 112/2008 e 078/2018) somam onze páginas incorporadas após cotejo integral em imagem. A [078/2018](tribunais/TCEBA/sum/resolucao-078-2018.md) foi recuperada pelo REST oficial, com margem e quadro de assinaturas separados. Delta zero. Diário e autenticação externa não verificados; avisos anteriores de recuperação pendente ficam superados para esses cinco documentos.
