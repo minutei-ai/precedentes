@@ -22,6 +22,10 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+
+    Tribunal de Contas
+    do Estado do Piauí
+
                                 GABINETE DA CONSELHEIRA REJANE DIAS
     
     
@@ -82,7 +86,16 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
                                        inadimplemento passível de sanções.
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 2 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                         GABINETE DA CONSELHEIRA REJANE DIAS
     
@@ -145,7 +158,16 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
     do Ministério Público de Contas (peça 12), o voto da Relatora (peça 15) e o mais que dos
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 3 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                         GABINETE DA CONSELHEIRA REJANE DIAS
     autos consta, o Pleno, em sessão virtual, por unanimidade dos votos, em consonância com o
@@ -184,7 +206,16 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
     responsabilização do gestor municipal pela realização de tais pagamentos. Pretende-se
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 4 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                           GABINETE DA CONSELHEIRA REJANE DIAS
     esclarecer se a utilização de recursos públicos para o pagamento de verbas remuneratórias
@@ -223,7 +254,16 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
     Estatal, pessoa jurídica de direito público interno, o dever do cumprimento da obrigação.
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 5 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                           GABINETE DA CONSELHEIRA REJANE DIAS
     Consoante norteia o princípio da impessoalidade, os atos praticados pela Administração
@@ -262,7 +302,16 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
              Resposta: Por todo o exposto, pode-se responder ao quinto questionamento do
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 6 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                           GABINETE DA CONSELHEIRA REJANE DIAS
     Consulente no seguinte sentido: A regra matriz para o ingresso na Administração Pública é a
@@ -303,7 +352,16 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
      Carneiro da Cunha Câmara, Jackson Nobre Veras e Alisson Felipe de Araújo.
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 7 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                       GABINETE DA CONSELHEIRA REJANE DIAS
           Representante do Ministério Público de Contas presente: Procurador-Geral Plinio
@@ -317,7 +375,16 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
                                           Relatora
     
 
+    Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+    (86) 3215-3800 | CNPJ: 05.818.935/0001-01
+    tce@tce.pi.gov.br
+    TCEPIAUI
+
 #### Página 8 do PDF oficial
+
+
+    Tribunal de Contas
+    do Estado do Piauí
 
                                                  ASSINATURA DIGITAL
     
@@ -329,7 +396,7 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
     
            CPF/CNPJ                                         Nome                                       Data e hora
     
-         ***.*55.603-**                     REJANE RIBEIRO SOUSA DIAS                             06/05/2026 12:53:39
+         [identificador pessoal omitido]                     REJANE RIBEIRO SOUSA DIAS                             06/05/2026 12:53:39
     
     
     
@@ -355,7 +422,7 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
 
 ## Ementa
 
-CONTROLE EXTERNO. DIREITO ADMINISTRATIVO. CONSULTA. CONTRATAÇÃO TEMPORÁRIA. VÍNCULO NULO. VERBAS REMUNERATÓRIAS. RESPONSABILIZAÇÃO. TERCEIRIZAÇÃO. ORIENTAÇÃO AO JURISDICIONADO
+CONTROLE EXTERNO. DIREITO ADMINISTRATIVO. CONSULTA. CONTRATAÇÃO TEMPORÁRIA. VÍNCULO NULO. VERBAS REMUNERATÓRIAS. RESPONSABILIZAÇÃO. TERCEIRIZAÇÃO. ORIENTAÇÃO AO JURISDICIONADO.
 
 [014843-2025](https://www.tcepi.tc.br/wp-content/uploads/2026/05/014843-2025.pdf)
 

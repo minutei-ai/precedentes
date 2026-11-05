@@ -22,6 +22,9 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+
+[Cabeçalho: logotipo Tribunal de Contas do Estado do Piauí à esquerda e brasão à direita. Em negrito: título do acórdão, PROCESSO TC/003371/2025, rótulos de identificação até SESSÃO ORDINÁRIA VIRTUAL, EMENTA: e títulos I, II e III. Mantida a divergência impressa Tanque do Piauí/Campinas do Piauí-PI.]
+
                              GABINETE DA CONSELHEIRA REJANE DIAS
     
     
@@ -85,6 +88,9 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
 
 #### Página 2 do PDF oficial
+
+
+[Cabeçalho: logotipo Tribunal de Contas do Estado do Piauí à esquerda e brasão à direita. IV. DISPOSITIVO em negrito.]
 
     GABINETE DA CONSELHEIRA REJANE DIAS
     
@@ -153,6 +159,9 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 3 do PDF oficial
 
+
+[Cabeçalho: logotipo Tribunal de Contas do Estado do Piauí à esquerda e brasão à direita. Dispositivos relevantes citados e SUMÁRIO em itálico; referências às peças em azul e sublinhadas; unânime, consonância e conhecimento em negrito. Mantido Exercício Financeiro de 2024 tal como impresso.]
+
                                        GABINETE DA CONSELHEIRA REJANE DIAS
     
     
@@ -214,6 +223,9 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 4 do PDF oficial
 
+
+[Cabeçalho: logotipo Tribunal de Contas do Estado do Piauí à esquerda e brasão à direita. Questões a) e b) integralmente em negrito e itálico; respostas em itálico, inclusive a continuação na página seguinte.]
+
                                          GABINETE DA CONSELHEIRA REJANE DIAS
     
     
@@ -255,6 +267,9 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
 
 #### Página 5 do PDF oficial
+
+
+[Cabeçalho: logotipo Tribunal de Contas do Estado do Piauí à esquerda e brasão à direita. Continuação inicial e resposta c) em itálico; pergunta c) em negrito e itálico. Rótulos Presidente:, Votantes:, Conselheiro(s) Substituto(s) presente(s):, Ausente(s):, Representante do Ministério Público de Contas presente: e Publique-se e Cumpra-se. em negrito.]
 
                                          GABINETE DA CONSELHEIRA REJANE DIAS
     
@@ -300,6 +315,10 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 6 do PDF oficial
 
+
+    Tribunal de Contas
+    do Estado do Piauí
+
                                        GABINETE DA CONSELHEIRA REJANE DIAS
     
     
@@ -320,6 +339,10 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 7 do PDF oficial
 
+
+    Tribunal de Contas
+    do Estado do Piauí
+
                                                  ASSINATURA DIGITAL
     
     
@@ -330,7 +353,7 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
     
            CPF/CNPJ                                         Nome                                       Data e hora
     
-         42*.***-**3-34                     REJANE RIBEIRO SOUSA DIAS                             14/07/2025 13:10:23
+         [identificador pessoal omitido]                     REJANE RIBEIRO SOUSA DIAS                             14/07/2025 13:10:23
     
     
     

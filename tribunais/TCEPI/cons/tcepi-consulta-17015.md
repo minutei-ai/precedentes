@@ -72,6 +72,9 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+
+[Brasão com inscrição ESTADO DO PIAUÍ e logotipo à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Identificação do processo, rótulos ASSUNTO:, ENTE:, INTERESSADO:, RELATOR: e 1 RELATÓRIO em negrito.]
+
                         Estado do Piauí
                         Tribunal de Contas
                         Gabinete Cons. Abelardo Vilanova
@@ -122,6 +125,9 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
 
 #### Página 2 do PDF oficial
+
+
+[Brasão com inscrição ESTADO DO PIAUÍ e logotipo à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. 2 VOTO em negrito.]
 
                           Estado do Piauí
                           Tribunal de Contas
@@ -174,6 +180,9 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
     
 
 #### Página 3 do PDF oficial
+
+
+[Brasão com inscrição ESTADO DO PIAUÍ e logotipo à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. (assinado digitalmente) em itálico cinza; nome do relator em negrito. Linha e-TCE com prefixo em itálico e dados seguintes em negrito; identificador pessoal ocultado.]
 
                                   Estado do Piauí
                                   Tribunal de Contas

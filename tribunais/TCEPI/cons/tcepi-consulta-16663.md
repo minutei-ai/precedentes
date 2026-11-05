@@ -22,6 +22,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+
+[Brasão com inscrição ESTADO DO PIAUÍ. Quadro de identificação em fundo cinza. Negritos: título do acórdão, quadro de identificação, conhecer, responder, 1), 2), Presentes, Representante do Ministério Público de Contas presente: e Presidente em exercício. Itálico: a posteriori.]
+
                     Estado do Piauí
                     Tribunal de Contas
                                            ACÓRDÃO Nº 917/14
@@ -81,6 +84,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 2 do PDF oficial
 
+
+[Brasão com inscrição ESTADO DO PIAUÍ. Cargos das linhas de assinatura em negrito. Nas três linhas e-TCE, Assinado Digitalmente pelo sistema e-TCE em itálico e dados seguintes em negrito. A terceira linha está cortada na borda após 13; não se completa a hora.]
+
                       Estado do Piauí
                       Tribunal de Contas
     
@@ -106,6 +112,9 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
 #### Página 1 do PDF oficial
+
+
+[Brasão com inscrição ESTADO DO PIAUÍ. Quadro de identificação cinza e em negrito; RELATÓRIO em negrito; a posteriori em itálico.]
 
                     Estado do Piauí
                     Tribunal de Contas
@@ -162,6 +171,9 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 2 do PDF oficial
 
+
+[Brasão com inscrição ESTADO DO PIAUÍ. FUNDAMENTOS em negrito. A citação iniciada por RECURSO EXTRAORDINÁRIO está recuada.]
+
                     Estado do Piauí
                     Tribunal de Contas
                 Os autos foram remetidos ao Ministério Público de Contas, que opinou pelo
@@ -215,6 +227,9 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
     
 
 #### Página 3 do PDF oficial
+
+
+[Brasão com inscrição ESTADO DO PIAUÍ. Na citação, negritos de O dever de boa-fé da Administração Pública até princípio de proteção à confiança. e de Isso quer dizer, em outros termos, que o comportamento da Administração Pública até por todos os cidadãos. Itálicos: princípio da proteção da confiança e in verbis.]
 
                    Estado do Piauí
                    Tribunal de Contas
@@ -276,6 +291,9 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 4 do PDF oficial
 
+
+[Brasão com inscrição ESTADO DO PIAUÍ. Na primeira citação, negritos de Inconstitucionalidade reconhecida. até de lotes. e de Situação factual consolidada. até acarretaria. Itálico: a consolidação da situação no tempo e a ocorrência de consequências desastrosas em caso de anulação do ato. Sublinhado: marco temporal. Na última citação, negrito de A aplicação da "a teoria do fato consumado" até se perdurou ao longo do tempo, sem incluir dada a relevância.]
+
                     Estado do Piauí
                     Tribunal de Contas
                           ATO ADMINISTRATIVO. Terras públicas estaduais. Concessão de domínio para fins de
@@ -335,6 +353,9 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 5 do PDF oficial
 
+
+[Brasão com inscrição ESTADO DO PIAUÍ. Citação inicial recuada; sem grifos no corpo desta página.]
+
                     Estado do Piauí
                     Tribunal de Contas
                            longo de vários anos, dada a demora da prestação jurisdicional e a inércia da Administração.
@@ -388,6 +409,9 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
     
 
 #### Página 6 do PDF oficial
+
+
+[Brasão com inscrição ESTADO DO PIAUÍ. Itálicos: sub examine, a posteriori nas duas ocorrências e Ex positis. Negritos: CONCLUSÃO, Conheço, a), b), data e nome do relator; nome também sublinhado. Linha e-TCE sobreposta à linha do nome; autoria não autenticada.]
 
                       Estado do Piauí
                       Tribunal de Contas
