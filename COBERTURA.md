@@ -3132,3 +3132,6 @@ MPMG: integrado o nº 69 da compilação oficial de seis páginas vinculada como
 
 
 PGEPA: integrado Parecer Referencial 000004/2020, processo 2020.02.000493-SAJ/PGE (2020/258513), em 17 páginas transcritas diretamente das imagens e cotejadas integralmente por revisão independente. Seis notas, grifos, citações, carimbo lateral e proposta de indexação preservados, sem rótulo EMENTA inventado ou despacho de aprovação não fornecido. Recaptura HTTP 200/PDF idêntica ao hash revisado. +1 ID; PGEPA passa de 25 para 26 fichas, sem certificar o inteiro teor das demais nem a completude dos 50 PDFs inventariados.
+
+
+TRE-PB: incorporadas as 12 páginas da CTA 279-04.2016 e 7 da CTA 489-55.2016 após nova transcrição por imagem e cotejo integral independente. Corpo dos rascunhos reprovados não reutilizado. Corrigidos glifo literal, leituras de fólio e descrições de traços; preservados votos divergentes, contradições nominais, notas e carimbos. IDs existentes, delta zero e total do tribunal 18. Demais fontes e séries continuam pendentes, sem inferência de vigência.
