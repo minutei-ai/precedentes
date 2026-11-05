@@ -22,71 +22,49 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                 Estado do Piauí
-                                 Tribunal de Contas
-                                            ACÓRDÃO Nº 1.602/2014
-    
-    
-         PROCESSO TC/015674/2014.
-         ÓRGÃO: CONSULTA – SECRETARIA ESTADUAL DE FAZENDA - SEFAZ, EXERCÍCIO 2014.
-         CONSULENTE: RAIMUNDO NETO DE CARVALHO.
-         RELATOR: CONSELHEIRO LUCIANO NUNES SANTOS.
-    
-                                                       EMENTA: Consulta. Secretaria de Fazenda do Estado do
-                                                       Piauí. Possibilidade de uso de chancela eletrônica.
-                                                       Conhecimento.
-    
-                    Vistos, relatados e discutidos os presentes autos, considerando a informação da Diretoria de
-         Fiscalização da Administração Estadual – DFAE, (Peça 05), o parecer do Ministério Público de Contas
-         (Peça 08) e o mais que dos autos consta, DECIDIU o Plenário, por unanimidade, em consonância com
-         a manifestação ministerial, pelo conhecimento da presente consulta, para que seja respondida de
-         acordo com o que foi expresso no relatório da DFAE, pela possibilidade de adoção da chancela
-         eletrônica, desde que seja instituída por ato normativo próprio, a ser regulamentado pelo Poder
-         Executivo, de modo a permitir o seu uso em documentos afetos a sua Administração, dentro dos limites
-         de sua autonomia administrativa e desde que não haja conflito com eventual legislação federal (de
-         caráter nacional) que preveja formalidades que não permitam o seu uso, nos termos do voto do Relator
-         (peça nº 13).
-    
-                 Decidiu ainda o Plenário, por unanimidade, pelo encaminhamento de peças autênticas do
-         parecer do MPC e do relatório da DFAE ao consulente, nos termos do voto do Relator (peça nº 13).
-    
-    
-                 Presentes os Cons. Abelardo Pio Vilanova e Silva (presidente em exercício, em razão da
-         ausência justificada da Cons.ª Waltânia Maria Nogueira de Sousa Leal Alvarenga), Luciano Nunes
-         Santos, Joaquim Kennedy Nogueira Barros, Olavo Rebêlo de Carvalho Filho e os Cons. Substitutos
-         Jaylson Fabianh Lopes Campelo, em substituição ao Cons. Anfrísio Neto Lobão Castelo Branco (em
-         razão do pedido de aposentadoria voluntária - Portaria nº 554/14), Delano Carneiro da Cunha Câmara,
-         convocado para substituir, nesse processo, o Cons. Abelardo Pio Vilanova e Silva (no exercício da
-         Presidência) e Alisson Felipe de Araújo. Não houve substituto para a Cons.ª Lilian de Almeida Veloso
-         Nunes Martins (em gozo de férias).
-    
-                Representante do Ministério Público de Contas presente: Procurador Geral Márcio André
-         Madeira de Vasconcelos.
-    
-                      Transcreva-se, Publique-se e Cumpra-se.
-    
-                     Sessão Plenária Ordinária, decisão nº 047/2014, em Teresina, 12 de dezembro de 2.014.
-    
-    
-    
-    
-                 Cons. Abelardo Pio Vilanova e Silva                                     Presidente em exercício
-    
-    
-    
-                  Cons. Luciano Nunes Santos                                                    Relator
-    
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 17/12/2014 12:50:06
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 17/12/2014 09:37:10
-          FuiDigitalmente
-    Assinado   Presente:pelo
-                           Márcio    André
-                               sistema      Madeira
-                                       e-TCE - MARCIOdeANDRE
-                                                        Vasconcelos                    Procurador do- MP
-                                                             MADEIRA DE VASCONCELOS:63223279334           de Contas
-                                                                                                      06/01/2015 08:46:23
-    
+Estado do Piauí
+
+Tribunal de Contas
+
+[Nota editorial: brasão e logomarca Tribunal de Contas do Estado do Piauí, 107 anos, 1899–2006, Teresina-PI.]
+
+**ACÓRDÃO Nº 1.602/2014**
+
+**PROCESSO TC/015674/2014.**
+
+**ÓRGÃO: CONSULTA – SECRETARIA ESTADUAL DE FAZENDA - SEFAZ, EXERCÍCIO 2014.**
+
+**CONSULENTE: RAIMUNDO NETO DE CARVALHO.**
+
+**RELATOR: CONSELHEIRO LUCIANO NUNES SANTOS.**
+
+**EMENTA: Consulta.** Secretaria de Fazenda do Estado do Piauí. Possibilidade de uso de chancela eletrônica. Conhecimento.
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação da Diretoria de Fiscalização da Administração Estadual – DFAE, (Peça 05), o parecer do Ministério Público de Contas (Peça 08) e o mais que dos autos consta, DECIDIU o Plenário, por **unanimidade**, em consonância com a manifestação ministerial, pelo **conhecimento** da presente consulta, para que seja respondida de acordo com o que foi expresso no relatório da DFAE, pela possibilidade de adoção da chancela eletrônica, desde que seja instituída por ato normativo próprio, a ser regulamentado pelo Poder Executivo, de modo a permitir o seu uso em documentos afetos a sua Administração, dentro dos limites de sua autonomia administrativa e desde que não haja conflito com eventual legislação federal (de caráter nacional) que preveja formalidades que não permitam o seu uso, nos termos do voto do Relator (peça nº 13).
+
+**Decidiu** ainda o Plenário, por unanimidade, pelo **encaminhamento** de peças autênticas do parecer do MPC e do relatório da DFAE ao consulente, nos termos do voto do Relator (peça nº 13).
+
+**Presentes** os Cons. Abelardo Pio Vilanova e Silva (presidente em exercício, em razão da ausência justificada da Cons.ª Waltânia Maria Nogueira de Sousa Leal Alvarenga), Luciano Nunes Santos, Joaquim Kennedy Nogueira Barros, Olavo Rebêlo de Carvalho Filho e os Cons. Substitutos Jaylson Fabianh Lopes Campelo, em substituição ao Cons. Anfrísio Neto Lobão Castelo Branco (em razão do pedido de aposentadoria voluntária - Portaria nº 554/14), Delano Carneiro da Cunha Câmara, convocado para substituir, nesse processo, o Cons. Abelardo Pio Vilanova e Silva (no exercício da Presidência) e Alisson Felipe de Araújo. Não houve substituto para a Cons.ª Lilian de Almeida Veloso Nunes Martins (em gozo de férias).
+
+**Representante do Ministério Público de Contas presente**: Procurador Geral Márcio André Madeira de Vasconcelos.
+
+Transcreva-se, Publique-se e Cumpra-se.
+
+Sessão Plenária Ordinária, decisão nº 047/2014, em Teresina, 12 de dezembro de 2.014.
+
+Cons. Abelardo Pio Vilanova e Silva Presidente em exercício
+
+Cons. Luciano Nunes Santos Relator
+
+Fui Presente: Márcio André Madeira de Vasconcelos  Procurador do MP de Contas [linha sobreposta pelo terceiro registro digital; leitura conferida em ampliação, sem validação de assinatura].
+
+*Assinado Digitalmente pelo sistema e-TCE* - **LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 17/12/2014 12:50:06**
+
+*Assinado Digitalmente pelo sistema e-TCE* - **ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 17/12/2014 09:37:10**
+
+*Assinado Digitalmente pelo sistema e-TCE* - **MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 06/01/2015 08:46:23** [registro sobreposto].
+
+[Nota de cotejo: transcrição desta página conferida integralmente em revisão independente por imagem. Preservadas as variantes da fonte; assinaturas não autenticadas. Preservada a sobreposição e a incerteza de leitura registradas no aparato desta folha; não se reconstrói o trecho encoberto nem se funde o fecho com outro ato.]
 
 ### Documento vinculado pela fonte
 
