@@ -3050,3 +3050,7 @@ O [Ato 006/2011-GAB/PGJ](tribunais/MPAP/en-cao-criminal/ato-006-2011.md) publica
 ### Recontagem estrutural — 05/11/2026, base 4abb1ec88
 
 Recontagem integral dos campos “Identificador” em Markdown: 43.887 ocorrências, 43.887 IDs únicos, 212 órgãos e nenhuma duplicata. Excluídos os campos de suporte. Confirma os deltas incorporados desde a recontagem anterior; não certifica literalidade, completude documental ou vigência.
+
+### MPAP — CSMP, cotejo de 45 páginas em 05/11/2026
+
+As 45 páginas dos 14 documentos CSMP capturados foram integralmente cotejadas em imagem. Notas nas fichas distinguem anotação posterior e tachado do nº 002, trecho do nº 004 oculto no raster e divergências internas de procedimentos. O recorte público dos enunciados foi preservado; não se afirma vigência ou completude atual do catálogo, cuja reconsulta retornou 403. Corrigida a alegação falsa de que o Ato CAO 006/2011 não continha enunciados. Delta zero.
