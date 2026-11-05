@@ -118,21 +118,22 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
+[Apresentação gráfica: brasão estadual à esquerda com ESTADO DO PIAUÍ; logomarca à direita, estrela azul e faixas verde e amarela, com TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Cabeçalho entre os símbolos, alinhado à esquerda, sem negrito. Corpo justificado, primeiras linhas recuadas; títulos em negrito. Fólio no canto inferior direito.]
+
+[Apresentação gráfica: rótulos da identificação em negrito; sem assinatura nesta folha.]
+
 Estado do Piauí
 Tribunal de Contas
 Gab. Cons. Subs. Delano C. da Cunha Câmara
 
-
-PROCESSO: TC 01915/2013
-ÓRGÃO/ENTIDADE: Procuradoria Geral de Justiça do Piauí
-EXERCÍCIO: 2012
-ASSUNTO: Consulta quanto à possibilidade de convênio entre a Procuradoria Geral de
+**PROCESSO:** TC 01915/2013
+**ÓRGÃO/ENTIDADE:** Procuradoria Geral de Justiça do Piauí
+**EXERCÍCIO:** 2012
+**ASSUNTO:** Consulta quanto à possibilidade de convênio entre a Procuradoria Geral de
 Justiça do Piauí e o Conselho Nacional Procuradores Gerais (CNPG)
-CONSULENTE: Zélia Saraiva Lima
-RELATOR: Delano Carneiro da Cunha Câmara
-PROCURADOR: José Araújo Pinheiro Júnior
-
-
+**CONSULENTE:** Zélia Saraiva Lima
+**RELATOR:** Delano Carneiro da Cunha Câmara
+**PROCURADOR:** José Araújo Pinheiro Júnior
 
 **1 RELATÓRIO**
 
@@ -167,26 +168,23 @@ instrução de parecer jurídico acerca da matéria e o envio de cópia da legis
 ao objeto da consulta. Destarte, atendendo o art. 201 da Resolução TCE/PI nº 13/11, de 26
 de agosto de 2011.
 
-
-
-
 1
-
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
-
 #### Página 2 do PDF oficial
+
+[Apresentação gráfica: brasão estadual à esquerda com ESTADO DO PIAUÍ; logomarca à direita, estrela azul e faixas verde e amarela, com TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Cabeçalho entre os símbolos, alinhado à esquerda, sem negrito. Corpo justificado, primeiras linhas recuadas; títulos em negrito. Fólio no canto inferior direito.]
+
+[Apresentação gráfica: perguntas a) e b) em negrito e itálico; somente uma associação em negrito no parágrafo seguinte. Título da instrução em negrito, recuado; art. 16 em corpo menor e itálico, com (...) em linha própria e recuo adicional. Citação termina em (...) nesta folha; continuação fora do escopo.]
 
 Estado do Piauí
 Tribunal de Contas
 Gab. Cons. Subs. Delano C. da Cunha Câmara
 
-
 **2.2 Do Mérito**
 
 Na consulta, foram realizados 2 (dois) questionamentos:
 
-a) É possível a celebração de convênio nos termos de minuta inclusa entre
-CNPG e Ministério Público do Estado do Piauí?
+***a) É possível a celebração de convênio nos termos de minuta inclusa entre
+CNPG e Ministério Público do Estado do Piauí?***
 
 Quanto ao questionamento, constata-se a impossibilidade da apreciação do
 termo da minuta do convênio com fundamento no art. 202 c/c 203 do RITCE-PI, visto que
@@ -194,12 +192,12 @@ não cabe a esta Corte de Conta conhecer a consulta que versar sobre caso concre
 como a decisão proferida pelo Tribunal será sempre em tese, o que não comporta a análise
 dos termos de minuta inclusa entre CNPG e Ministério Público do Estado do Piauí.
 
-b) É possível a transferência de recursos do Ministério Público do Estado
+***b) É possível a transferência de recursos do Ministério Público do Estado
 do Piauí para o Conselho Nacional de Procuradores-Gerais (CNPG) para a consecução
-do objeto do convênio em foco?
+do objeto do convênio em foco?***
 
-A DFAE constatou que, de acordo com o art. 1º do seu estatuto, o CNMP é uma
-associação, de âmbito nacional, sem fins lucrativos, integrada pelos Procuradores - Gerais
+A DFAE constatou que, de acordo com o art. 1º do seu estatuto, o CNMP é **uma
+associação**, de âmbito nacional, sem fins lucrativos, integrada pelos Procuradores - Gerais
 do Ministério Público dos Estados e da União.
 
 Considerando que as despesas com aplicação de recursos repassados por meio
@@ -222,17 +220,13 @@ Piauí nº 01/2009, de 04 de dezembro de 2009 e da Instrução Normativa da Secr
 Tesouro Nacional nº 01/97, de 15 de janeiro de 1997, as quais vedam expressamente a
 possibilidade de transferência de recursos para associação de serviços, *in verbis:*
 
-Instrução Normativa Conjunta SEPLAN/SEFAZ/CGE-PI 01/2009:
+**Instrução Normativa Conjunta SEPLAN/SEFAZ/CGE-PI 01/2009:**
 
-Art. 16: É vedada a inclusão, tolerância ou admissão, no instrumento do Convênio, sob pena de nulidade do
-ato e responsabilização do agente que der causa, de cláusula ou condições que prevejam ou permitam:
-(...)
-
+> *Art. 16: É vedada a inclusão, tolerância ou admissão, no instrumento do Convênio, sob pena de nulidade do
+> ato e responsabilização do agente que der causa, de cláusula ou condições que prevejam ou permitam:
+> (...)*
 
 2
-
-[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
-
 #### Página 3 do PDF oficial
 
 Estado do Piauí\
