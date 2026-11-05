@@ -29,3 +29,17 @@ As 4 páginas do PDF foram lidas na imagem renderizada e na camada de texto em 0
 ENUNCIADO 12 - DILIGÊNCIAS REQUERIDAS PELO ÓRGÃO COLEGIADO. MANDATO ENCERRADO. CONSELHEIROS EM NOVOS MANDATOS. O Conselho Superior do Ministério Público não homologará promoção de arquivamento de procedimentos cujas diligências requeridas pelo Colegiado não foram cumpridas, a menos que haja superveniência de fatos e/ou novos documentos, com as devidas razões de arquivamento do presidente dos autos, ainda que tais diligências tenham sido requeridas por Conselheiros com mandatos encerrados.
 
 Fundamento: Se, em virtude da conversão do julgamento em diligência, surgirem novas provas, o mesmo membro do Ministério Público que tinha promovido o arquivamento do inquérito civil não estará impedido de reapreciar o inquérito civil, podendo tanto propor a ACP, se estiver convencido de seu cabimento, como insistir no arquivamento, em caso contrário.
+
+## Texto da compilação — Vade Mecum MPPA 2025
+
+[Fonte oficial](https://www2.mppa.mp.br/data/files/C6/80/F4/9D/67745910FB167459180808FF/VADE%20MECUM%202025.pdf), páginas PDF 93 (impressas 91).
+
+ENUNCIADO 12 - PROCEDIMENTAL. DILIGÊNCIAS REQUERIDAS PELO ÓRGÃO COLEGIADO. MANDATO ENCERRADO. CONSELHEIROS EM NOVOS MANDATOS. O Conselho Superior do Ministério Público não homologará promoção de arquivamento de procedimentos cujas diligências requeridas pelo Colegiado não foram cumpridas, a menos que haja superveniência de fatos e/ou novos documentos, com as devidas razões de arquivamento do presidente dos autos, ainda que tais diligências tenham sido requeridas por Conselheiros com mandatos encerrados.
+
+Fundamento: Se, em virtude da conversão do julgamento em diligência, surgirem novas provas, o mesmo membro do Ministério Público que tinha promovido o arquivamento do inquérito civil não estará impedido de reapreciar o inquérito civil, podendo tanto propor a ACP, se estiver convencido de seu cabimento, como insistir no arquivamento, em caso contrário.
+
+### Notas da compilação
+
+Enunciados 01 a 16 APROVADOS na 2ª Sessão Extraordinária, realizada em 19.06.2019 – DOE 26.06.2019. A nota de grupo encontra-se na página PDF 94.
+
+PDF de 5.445.016 bytes, SHA-256 `73053bd2329d2344b97030c6d3b57c8a6ed9619e2d7ff2a3fb7d828c16be15c5`. Todos os 37 blocos foram cotejados integralmente nas imagens das páginas PDF92–97 por revisão independente. Acentos, grafias e erros do impresso foram preservados, inclusive “EXTRAJUDIAIS”. Ajustes declarados: espaços de justificação e quebras de linha normalizados; marcador do bloco seguinte retirado do10; glifo não renderizado no26 marcado sem reconstrução; notas de alteração/grupo separadas do corpo. Ênfases tipográficas não integralmente reproduzidas. A compilação é testemunho próprio; não substitui silenciosamente o PDF institucional ou os DOEs anteriores nem prova vigência atual, prevalência ou completude histórica.
