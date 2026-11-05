@@ -2942,3 +2942,8 @@ Integrado o trecho integral da publicação da Decisão 2092/2014-TC no DOE nº 
 ## TCEPR — cinco documentos e 27 páginas adicionais conferidos
 
 Integrados os Acórdãos 2672/2010, 1145/2016, 1903/2011, 1850/2011 e 1080/2009, 27 páginas abertas integralmente por revisão independente. Aplicadas as correções de espaços, carimbo/processo e notas; preservados os destaques e as ressalvas da fonte. A redação original do 1145 não foi fundida com a redação dos embargos citada no catálogo. A etapa soma sete documentos/54 páginas integrados entre os 13 documentos/102 páginas recuperados. Outros seis seguem pendentes, sem concluir #194. IDs existentes, zero delta de registros/órgãos.
+
+
+## ANTT — nota Veja Também da Súmula 9 e Deliberação 18 recuperadas
+
+Integrado o corpo integral da Deliberação 18/2021, identificado pela nota oficial da Súmula 9 e pelo Processo 50500.103155/2020-96. Duas respostas HTML oficiais contêm o mesmo bloco legal, conferido integralmente; art. 1º aprova a edição da súmula. A fonte informa publicação interna em 01/02/2021, sem conversão para DOU. Reuniões 878/883/884/886 documentam retirada, vista, prorrogação e aprovação, separadas de redações do enunciado. A classe nota-revogado não foi usada como prova de revogação. Reconsultas de histórico e SAM 15/16 geraram capturas retidas de casca/erro, sem provar inexistência ou criar registros. Apoio na ficha existente, zero IDs/órgãos adicionais; histórico de redações permanece inconclusivo (#252).
