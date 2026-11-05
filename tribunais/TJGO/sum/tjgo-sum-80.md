@@ -53,7 +53,17 @@ Sessão do Órgão Especial de 25/10/2023
 
 Desembargador CARLOS ALBERTO FRANÇA Presidente
 
-Assinado digitalmente por: CARLOS ALBERTO FRANÇA, PRESIDENTE, em 26/10/2023 às 08:03. Documento Para        Assinado validar este     Digitalmente documento informe o código 756951811226 no DJ   eletrônico - Acesse: tjgo.jus.br endereço https://proad-v2.tjgo.jus.br/proad/publico/validacaoDocumento                      4 de 6580
+Assinado digitalmente por: CARLOS ALBERTO FRANÇA, PRESIDENTE, em 26/10/2023 às 08:03.
+
+[Nota editorial: as linhas do carimbo PROAD e do rodapé do DJe estão sobrepostas na página 1. A separação abaixo usa a camada nativa e a repetição legível da frase PROAD, com o mesmo código, na página 2; os trechos sob a sobreposição não foram lidos isoladamente na imagem.]
+
+Para validar este documento informe o código 756951811226 no endereço https://proad-v2.tjgo.jus.br/proad/publico/validacaoDocumento
+
+Documento Assinado Digitalmente
+
+DJ eletrônico - Acesse: tjgo.jus.br
+
+4 de 6580
 
 ### Texto do PDF — página 2
 
@@ -66,3 +76,7 @@ CARLOS ALBERTO FRANÇA PRESIDENTE PRESIDENCIA Assinatura CONFIRMADA em 26/10/202
 Documento Assinado Digitalmente                                  DJ eletrônico - Acesse: tjgo.jus.br                                                      5 de 6580
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Conferência documental complementar — 05/11/2026
+
+As duas páginas foram cotejadas integralmente com imagens do PDF em revisão independente. Aplicaram-se a separação do rodapé sobreposto e, quando indicado, a reunião de número CNJ partido na quebra de linha. Brasão e QR code são imagens e não foram transcritos nem decodificados. A extração não reproduz sistematicamente negrito e cores; os carimbos azuis foram transcritos como texto. Assinaturas e códigos não foram autenticados.

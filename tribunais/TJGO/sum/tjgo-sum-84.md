@@ -53,7 +53,17 @@ Sessão do Órgão Especial de 22/07/2026 (Proad nº 202604000736304)
 
 Desembargador LEANDRO CRISPIM Presidente
 
-Assinado digitalmente por: GERALDO LEANDRO SANTANA CRISPIM PRESIDENTE • 28/07/2026 às 17:56 Documento Para        Assinado validar este      Digitalmente documento  informe o código 130072191366 no DJ   Eletrônico - Acesse: tjgo.jus.br endereço https://proad-v2.tjgo.jus.br/proad/publico/validacaoDocumento                       4 de 305
+Assinado digitalmente por: GERALDO LEANDRO SANTANA CRISPIM PRESIDENTE • 28/07/2026 às 17:56
+
+[Nota editorial: as linhas do carimbo PROAD e do rodapé do DJe estão sobrepostas na página 1. A separação abaixo usa a camada nativa e a repetição legível da frase PROAD, com o mesmo código, na página 2; os trechos sob a sobreposição não foram lidos isoladamente na imagem.]
+
+Para validar este documento informe o código 130072191366 no endereço https://proad-v2.tjgo.jus.br/proad/publico/validacaoDocumento
+
+Documento Assinado Digitalmente
+
+DJ Eletrônico - Acesse: tjgo.jus.br
+
+4 de 305
 
 ### Texto do PDF — página 2
 
@@ -66,3 +76,7 @@ GERALDO LEANDRO SANTANA CRISPIM PRESIDENTE PRESIDÊNCIA Assinatura CONFIRMADA em
 Documento Assinado Digitalmente                                  DJ Eletrônico - Acesse: tjgo.jus.br                                                       5 de 305
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Conferência documental complementar — 05/11/2026
+
+As duas páginas foram cotejadas integralmente com imagens do PDF em revisão independente. Aplicaram-se a separação do rodapé sobreposto e, quando indicado, a reunião de número CNJ partido na quebra de linha. Brasão e QR code são imagens e não foram transcritos nem decodificados. A extração não reproduz sistematicamente negrito e cores; os carimbos azuis foram transcritos como texto. Assinaturas e códigos não foram autenticados.
