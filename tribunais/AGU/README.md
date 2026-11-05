@@ -26,3 +26,5 @@ Advocacia-Geral da União. **2.116 registros.**
 | [Orientação Normativa do NAJ-MG](onnajmg/) | 3 |
 | [Parecer aprovado da CPLC/PGF](pcplc/) | 1 |
 | [Súmula da AGU](sum/) | 87 |
+
+O [Parecer 034/2013/DECOR](mconuni/agu-conuni-724.md) contém transcrição das quatro páginas conferidas por imagem e revisão independente. Lacunas curtas da nota 1 decorrem de perda de tinta no scan e permanecem marcadas; não foram reconstruídas. Os despachos vinculados são documentos separados. Sem alteração da contagem.
