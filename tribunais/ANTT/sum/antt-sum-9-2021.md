@@ -40,7 +40,7 @@ Em 04/11/2026, com sessão HTTP da página `abrirTextoAto` e cabeçalhos `X-Requ
 <p class="titulo"><b><a href="javascript:LinkTexto('DLB','00000018','ATT','2021','DG/ANTT/MI','','','')">Deliberação 18/2021/DG/ANTT/MI</a></b></p></div>
 ```
 
-O rótulo visível da nota é **Deliberação 18/2021/DG/ANTT/MI**. A classe CSS é `nota-revogado`. A função `LinkNota` embutida na página continua retornando `false`; o texto da nota não está no HTML estático do ato. A Deliberação é ato de apoio citado pelo controle; não recebeu identificador novo neste acervo. Tentativas de `abrirTextoAto` para `tipo=DLB`, `numeroAto=00000018`, `seqAto=ATT`, `orgao=DG/ANTT/MI` e variantes devolvem a casca AMP do ANTTlegis sem o corpo da Deliberação; a íntegra desse ato de apoio permanece pendente de captura válida.
+O rótulo visível da nota é **Deliberação 18/2021/DG/ANTT/MI**. A classe CSS é `nota-revogado`. A função `LinkNota` embutida na página continua retornando `false`; o texto da nota não está no HTML estático do ato. A Deliberação é ato de apoio citado pelo controle; não recebeu identificador novo neste acervo. Na coleta anterior, tentativas de abrir a Deliberação devolviam apenas a casca AMP. Em 05/11/2026, duas respostas oficiais passaram a fornecer o mesmo corpo integral, transcrito na seção de apoio abaixo. A recuperação supera a limitação de captura anterior; não atribui efeito de revogação à classe CSS.
 
 ## Conferência e limites
 
@@ -52,8 +52,51 @@ A página HTML não é o Diário Oficial certificado. A linha de publicação é
 
 A URL de compartilhamento `UrlPublicasAction`, ação `abrirAtoPublico`, devolveu uma casca intitulada ANTTlegis, sem o corpo da súmula. Essa casca não entrou como segunda cópia do texto.
 
-Não há CPF, RG, matrícula, carimbo pessoal nem código de autenticação no corpo. Nome e função pública permanecem. A série não esgota o acervo da ANTT. Evidências privadas da nota e dos probes em `/home/yorizel/.local/share/minutei/precedentes-coleta-planejamento/antt-20261104/`.
+Não há CPF, RG, matrícula, carimbo pessoal nem código de autenticação no corpo. Nome e função pública permanecem. A série não esgota o acervo da ANTT. Capturas brutas, evidências da nota e sondagens de histórico permanecem privadas.
 
 A cotemática `13446818` (rodovias; a pasta do catálogo grafa Reequilibro) repete o mesmo corpo legal no bloco `#detalharAto` de [abrirVinculos](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirVinculos&cod_menu=8721&cod_modulo=618&cotematica=13446818). As duas capturas dessa página têm 24.209 bytes e SHA-256 `e7e16c91495831ba9de67f05515c827fed0df108c45abae61dee31681988ceb8`. Esse bloco traz os mesmos parágrafos legais e não inclui o aviso final.
 
 A cotemática `13441987` (passageiros; a pasta grafa Reequilíbrio) repete o mesmo corpo legal no bloco `#detalharAto` de [abrirVinculos](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirVinculos&cod_menu=8721&cod_modulo=618&cotematica=13441987). As duas capturas dessa página têm 24.214 bytes e SHA-256 `557217779dd47be9f250c9c7d6d44a46553a86e3e555e816554d32ff0655de0e`. Esse bloco traz os mesmos parágrafos legais e não inclui o aviso final.
+
+## Ato de apoio recuperado — Deliberação 18/2021
+
+A nota “Veja Também” de SAM 9/2021 identifica a [Deliberação 18/2021/DG/ANTT/MI](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=DLB&numeroAto=00000018&seqAto=ATT&valorAno=2021&orgao=DG%2FANTT%2FMI&cod_modulo=618&cod_menu=8721). O art. 1º e o Processo 50500.103155/2020-96 permitem atribuir o ato de aprovação à formação da súmula, sem fundir os dois textos ou criar outra identidade no acervo.
+
+Conferência de 05/11/2026: bloco legal completo lido em duas respostas HTML oficiais distintas, idêntico após decodificação de ISO-8859-1/entidades HTML e normalização de whitespace. Captura abrirTextoAto: 27.706 bytes, SHA-256 `58780daba3647adab2a78cc9c3372cdd793909d2e73a721d05d5bdc9e7c520fb`; captura [abrirVinculos, cotemática 18142038](https://anttlegis.antt.gov.br/action/TematicaAction.php?acao=abrirVinculos&cod_menu=8721&cod_modulo=618&cotematica=18142038): 24.555 bytes, SHA-256 `93df0007755070c428db410e5af065a3d8ea0837cfb6a2a7774275a6a4ceebe7`. Controles de navegação “Veja Também” foram excluídos do corpo, mantendo o conteúdo legal e a linha de publicação informada. A fonte declara publicação interna; não foi convertida em publicação no DOU.
+
+### Texto da Deliberação na fonte ANTTlegis
+
+MINISTÉRIO DA INFRAESTRUTURA
+
+AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES
+
+DIRETORIA COLEGIADA
+
+DELIBERAÇÃO Nº 18, DE 28 DE JANEIRO DE 2021
+
+A Diretoria Colegiada da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições, fundamentada no Voto DEM - 015, de 8 de novembro de 2020, e no que consta do Processo nº 50500.103155/2020-96, DELIBERA:
+
+Art. 1º Aprovar a edição de Súmula que tem por objeto tornar claro e público o entendimento da ANTT de que pleitos anteriormente decididos pela Diretoria Colegiada no âmbito de processos revisionais não serão admitidos em revisões subsequentes, caso sejam reapresentados pelas concessionárias de rodovias, salvo quando acompanhados da demonstração da ocorrência de fatos que sejam suficientemente relevantes para alterar o entendimento anterior.
+
+Art. 2º Esta Deliberação entra em vigor na data de sua publicação.
+
+MARCELO VINAUD PRADO
+
+Diretor-Geral, em Exercício
+
+Publicado Internamente pela ANTT em 01/02/2021
+
+## Histórico procedimental documentado
+
+As páginas oficiais de reuniões registram o mesmo Processo 50500.103155/2020-96 e o objeto da proposta de súmula. Os estados abaixo são os rótulos publicados; não constituem redações históricas da súmula:
+
+| Reunião | Registro do processo na fonte |
+| --- | --- |
+| [878ª](https://portal.antt.gov.br/reuniao/-/asset_publisher/9NmL6MbUt7f1/content/id/2019490/878-reuniao-de-diretoria) | RETIRADO DE PAUTA |
+| [883ª](https://portal.antt.gov.br/reuniao/-/asset_publisher/9NmL6MbUt7f1/content/id/2106789/883-reuniao-de-diretoria) | VISTA COLETIVA AOS DIRETORES |
+| [884ª](https://portal.antt.gov.br/reuniao/-/asset_publisher/9NmL6MbUt7f1/content/id/2118847/884-reuniao-de-diretoria) | PEDIDO DE PRORROGAÇÃO DA VISTA COLETIVA |
+| [886ª](https://portal.antt.gov.br/reuniao/-/asset_publisher/9NmL6MbUt7f1/content/id/2194467/886-reuniao-de-diretoria) | APROVADO; vincula a Deliberação 18, de 28/01/2021, e o anexo rotulado Voto DEM 015-2021 |
+
+O preâmbulo da Deliberação escreve literalmente “Voto DEM - 015, de 8 de novembro de 2020”; não foi harmonizado com o rótulo do anexo na página da reunião. Voto instrutório, Deliberação e Súmula são documentos distintos. Argumentos, normas citadas e analogias do voto não foram incorporados ao enunciado.
+
+A reconsulta de 05/11/2026 ao histórico da SAM 9 continuou retornando casca de árvore sem redações. As sondagens de SAM 15/16, anos 2021–2026, sequências 000/001, retornaram cascas ou erros com HTTP 200; as capturas foram retidas, sem registrar atos novos nem afirmar inexistência. A verificação confirma a limitação de acesso da coleta, não exaustividade histórica. Próximo passo para ampliar versões: obter resposta oficial com corpo/versionamento ou ato modificador identificável. A busca dirigida nas páginas 84–92 do DOU de 01/02/2021 encontrou a publicação da Súmula 9 na página 89, mas não confirmou publicação da própria Deliberação 18 nesse diário; ausência nessa busca não prova que nunca tenha sido publicada.
