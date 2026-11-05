@@ -580,108 +580,110 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                          Estado do Piauí
-                          Tribunal de Contas
-                          Ministério Público de Contas
-    
-    
-    
-    Parecer nº 2014RC0002
-    PROCESSO ........... TC/010674/2014
-    ASSUNTO............... CONSULTA
-    INTERESSADO...... TRIBUNAL DE CONTAS DO ESTADO DO PIAUI
-    RELATOR................ ALISSON FELIPE DE ARAÚJO
-    
-    
-                                                  EMENTA: CONSULTA. TRIBUNAL DE CONTAS DO
-                                                 ESTADO DO PIAUÍ – TCE. Questionamento sobre a
-                                                 regularidade de Ato Administrativo exarado nos cento e
-                                                 oitenta dias anteriores ao término do mandato do titular do
-                                                 Órgão, tendo em vista o regramento contido no parágrafo
-                                                 único do art. 21 da LRF em confronto com as exceções
-                                                 previstas no inciso V, art. 73, da Lei nº 9.504/97.
-                                                 POSSIBILIDADE, desde que atenda ao disposto nos arts.
-                                                 16 e 17 da LRF, ao art. 37, XIII, e art. 169, § 1º da
-                                                 Constituição Federal.
-    
-    
-    
-    
-    Excelentíssimo Sr. Relator,
-    
-    
-    1 RELATÓRIO
-                              Trata os autos de consulta (peça 02) formulada pelo Tribunal de
-    Contas do Estado do Piauí – TCE, por sua Conselheira Presidente Waltânia Maria Nogueira de
-    Sousa Alvarenga, acerca da possibilidade de nomeação ou exoneração de servidores
-    ocupantes de cargo efetivo ou em comissão e designação ou dispensa de funções de
-    confiança; nomeação para cargos nos poderes Executivo, Legislativo e Judiciário e órgãos
-    autônomos do Estado do Piauí; bem como a nomeação dos aprovados em concursos públicos
-    homologados até os três meses que antecederam o pleito eleitoral, nos últimos 180 (cento e
-    oitenta) dias que antecedem o final do mandato, à luz do que dispõe o art. 21, parágrafo único
-    da Lei Complementar nº 101/2000, respeitadas as exigências dos arts. 16 e 17 da referida lei
-    complementar, assim como do disposto no inciso XIII do art. 37 e no § 1º do art. 169 da CF, e
-    tendo em vista o art. 73, incisos I a V da Lei nº 9.504/97.
-                              Em razão do atendimento ao art. 201, I, “d”, §§ 1º e 2º, e do art. 202
-    do Regimento Interno desta Corte de Contas, o Conselheiro relator, em análise preliminar
-    (peça 13), conheceu da consulta e determinou o encaminhamento dos autos à Comissão de
-    Regimento e Jurisprudência, que informou a ausência de prejulgado ou decisão sobre tema.
-    Em seguida, os autos foram encaminhados à DFAE, tendo esta apresentado seu
-    posicionamento no relatório de peça 15.
-                              Após, vieram os autos ao MPC para manifestação.
-                              É o relatório.
-    
+Estado do Piauí\
+Tribunal de Contas\
+Ministério Público de Contas\
+
+**Parecer nº 2014RC0002**\
+**PROCESSO ...........** TC/010674/2014\
+**ASSUNTO...............** CONSULTA\
+**INTERESSADO......** TRIBUNAL DE CONTAS DO ESTADO DO PIAUI\
+**RELATOR................** ALISSON FELIPE DE ARAÚJO
+
+**EMENTA: CONSULTA. TRIBUNAL DE CONTAS DO
+ESTADO DO PIAUÍ – TCE.** Questionamento sobre a
+regularidade de Ato Administrativo exarado nos cento e
+oitenta dias anteriores ao término do mandato do titular do
+Órgão, tendo em vista o regramento contido no parágrafo
+único do art. 21 da LRF em confronto com as exceções
+previstas no inciso V, art. 73, da Lei nº 9.504/97.
+**POSSIBILIDADE**, desde que atenda ao disposto nos arts.
+16 e 17 da LRF, ao art. 37, XIII, e art. 169, § 1º da
+Constituição Federal.
+
+Excelentíssimo Sr. Relator,
+
+**1 RELATÓRIO**
+
+Trata os autos de consulta (peça 02) formulada pelo Tribunal de
+Contas do Estado do Piauí – TCE, por sua Conselheira Presidente Waltânia Maria Nogueira de
+Sousa Alvarenga, acerca da possibilidade de nomeação ou exoneração de servidores
+ocupantes de cargo efetivo ou em comissão e designação ou dispensa de funções de
+confiança; nomeação para cargos nos poderes Executivo, Legislativo e Judiciário e órgãos
+autônomos do Estado do Piauí; bem como a nomeação dos aprovados em concursos públicos
+homologados até os três meses que antecederam o pleito eleitoral, nos últimos 180 (cento e
+oitenta) dias que antecedem o final do mandato, à luz do que dispõe o art. 21, parágrafo único
+da Lei Complementar nº 101/2000, respeitadas as exigências dos arts. 16 e 17 da referida lei
+complementar, assim como do disposto no inciso XIII do art. 37 e no § 1º do art. 169 da CF, e
+tendo em vista o art. 73, incisos I a V da Lei nº 9.504/97.
+
+Em razão do atendimento ao art. 201, I, “d”, §§ 1º e 2º, e do art. 202
+do Regimento Interno desta Corte de Contas, o Conselheiro relator, em análise preliminar
+(peça 13), conheceu da consulta e determinou o encaminhamento dos autos à Comissão de
+Regimento e Jurisprudência, que informou a ausência de prejulgado ou decisão sobre tema.
+Em seguida, os autos foram encaminhados à DFAE, tendo esta apresentado seu
+posicionamento no relatório de peça 15.
+
+Após, vieram os autos ao MPC para manifestação.
+
+É o relatório.
+
+[Nota editorial de apresentação: Brasão estadual à esquerda e emblema MPC à direita, traço horizontal sob cabeçalho. Identificação em quadro cinza, somente Parecer e rótulos em negrito; valores sem negrito. Ementa recuada à direita. Sem rodapé numérico, nota ou assinatura visível. Quadro/recuo descritos sem simulação fac-similar.]
 
 #### Página 2 do PDF oficial
 
-                         Estado do Piauí
-                         Tribunal de Contas
-                         Ministério Público de Contas
-    
-    
-    
-    
-    2. DO CONHECIMENTO
-                               A presente consulta merece ser conhecida vez que a mesma foi
-    formulada por parte legítima, como previsto no art. 201, I, “d”, do Regimento Interno desta
-    Corte, apresentou questionamentos em tese, e também atendeu à exigência regimental no
-    tocante ao parecer de órgão de assistência técnica ou jurídica da entidade consulente (art. 201,
-    §1º do Regimento Interno desta Corte), o qual se encontra anexado às fls. 05/18, peça 02.
-    
-    
-    3. DA FUNDAMENTAÇÃO
-                               A Consulta formulada visa obter resposta do Conselho desta Corte de
-    Contas sobre os seguintes quesitos:
-                               “a) frente ao que dispõe o art. 21, parágrafo único da Lei
-    Complementar n° 101/2000, e respeitando as exigências dos arts. 16 e 17 desta Lei
-    Complementar, e o disposto no inciso XIII do art. 37 e no §1° do art. 169 da Constituição, nos
-    180 (cento e oitenta) dias anteriores ao final do mandato do titular do respectivo Poder ou
-    órgão referido no art. 20 pode haver:
-                               a.1) a nomeação ou exoneração de cargos em comissão e
-    designação ou dispensa de funções de confiança?
-                               a.2) a nomeação para cargos nos poderes Executivo, Legislativo,
-    Judiciário e órgãos autônomos do Estado do Piauí?
-                               a.3) a nomeação dos aprovados em concursos públicos homologados
-    até o início daquele prazo?”.
-    
-    
-    3.1. A despesa com pessoal e o ordenamento jurídico
-                               A Constituição Federal Brasileira, ao tratar “Das Finanças Públicas”,
-    impõe no seu artigo 169:
-                                            Art. 169. A despesa com pessoal ativo e inativo da União, dos
-                                            Estados, do Distrito Federal e dos Municípios não poderá
-                                            exceder os limites estabelecidos em lei complementar.
-                                            § 1º A concessão de qualquer vantagem ou aumento de
-                                            remuneração, a criação de cargos, empregos e funções ou
-                                            alteração de estrutura de carreiras, bem como a admissão ou
-                                            contratação de pessoal, a qualquer título, pelos órgãos e
-                                            entidades da administração direta ou indireta, inclusive
-                                            fundações instituídas e mantidas pelo poder público, só
-                                            poderão ser feitas: (Renumerado do parágrafo único, pela
-                                            Emenda Constitucional nº 19, de 1998)
-                                            I - se houver prévia dotação orçamentária suficiente para
-                                            atender às projeções de despesa de pessoal e aos acréscimos
-    
+Estado do Piauí\
+Tribunal de Contas\
+Ministério Público de Contas\
+
+**2. DO CONHECIMENTO**
+
+
+A presente consulta **merece ser conhecida** vez que a mesma foi
+formulada por parte legítima, como previsto no art. 201, I, “d”, do Regimento Interno desta
+Corte, apresentou questionamentos em tese, e também atendeu à exigência regimental no
+tocante ao parecer de órgão de assistência técnica ou jurídica da entidade consulente (art. 201,
+§1º do Regimento Interno desta Corte), o qual se encontra anexado às fls. 05/18, peça 02.
+
+**3. DA FUNDAMENTAÇÃO**
+
+
+A Consulta formulada visa obter resposta do Conselho desta Corte de
+Contas sobre os seguintes quesitos:
+
+> *“**a)** frente ao que dispõe o art. 21, parágrafo único da Lei
+> Complementar n° 101/2000, e respeitando as exigências dos arts. 16 e 17 desta Lei
+> Complementar, e o disposto no inciso XIII do art. 37 e no §1° do art. 169 da Constituição, nos
+> 180 (cento e oitenta) dias anteriores ao final do mandato do titular do respectivo Poder ou
+> órgão referido no art. 20 pode haver:\
+> **a.1)** a nomeação ou exoneração de cargos em comissão e
+> designação ou dispensa de funções de confiança?\
+> **a.2)** a nomeação para cargos nos poderes Executivo, Legislativo,
+> Judiciário e órgãos autônomos do Estado do Piauí?\
+> **a.3)** a nomeação dos aprovados em concursos públicos homologados
+> até o início daquele prazo?”*.
+
+**3.1. A despesa com pessoal e o ordenamento jurídico**
+
+
+A Constituição Federal Brasileira, ao tratar “Das Finanças Públicas”,
+impõe no seu artigo 169:
+
+> Art. 169. A despesa com pessoal ativo e inativo da União, dos
+> Estados, do Distrito Federal e dos Municípios não poderá
+> exceder os limites estabelecidos em lei complementar.\
+> § 1º A concessão de qualquer vantagem ou aumento de
+> remuneração, a criação de cargos, empregos e funções ou
+> alteração de estrutura de carreiras, bem como a admissão ou
+> contratação de pessoal, a qualquer título, pelos órgãos e
+> entidades da administração direta ou indireta, inclusive
+> fundações instituídas e mantidas pelo poder público, só
+> poderão ser feitas: <u>(Renumerado do parágrafo único, pela
+> Emenda Constitucional nº 19, de 1998)</u>
+> I - se houver prévia dotação orçamentária suficiente para
+> atender às projeções de despesa de pessoal e aos acréscimos
+
+[Nota editorial de apresentação: Brasão estadual e emblema MPC, traço sob cabeçalho. Quesitos citados em itálico, rótulos em negrito; ponto após aspas final fora do itálico. Art.169 em recuo citacional com trecho parentético sublinhado. Sem rodapé numérico, nota ou assinatura visível.]
 
 #### Página 3 do PDF oficial
 
@@ -715,99 +717,102 @@ II - o limite legal de comprometimento aplicado às despesas com pessoal inativo
 
 #### Página 4 do PDF oficial
 
-                           Estado do Piauí
-                           Tribunal de Contas
-                           Ministério Público de Contas
-    
-    
-    
-    
-                              Como visto, o dispositivo retro transcrito impôs um limite de ordem
-    temporal às despesas com pessoal, a ser observado pelo titular de Poder ou órgão em final de
-    mandato.
-                              A interpretação literal do artigo da lei nos levaria à conclusão da
-    proibição da prática de todo e qualquer ato que acarrete aumento de despesa com pessoal nos
-    últimos 180 dias do mandato do gestor público, o que eliminaria toda a indagação crítica do
-    aplicador do Direito e não se alcançaria a finalidade da lei.
-                              A LRF não traz expressamente exceções à regra imposta no art. 21.
-    Trata-se, portanto, de uma norma genérica que deve ser interpretada de modo sistemático,
-    compreendendo os demais dispositivos da LRF, abrangendo a Constituição Federal, assim
-    como a legislação eleitoral, e teleológica.
-    
-    
-    3.2. Da interpretação sistemática e teleológica do Parágrafo único do art. 21 da LRF
-                              Na interpretação sistemática deve ser afastada a análise isolada dos
-    dispositivos legais, pois não se pode prender apenas à literal letra da lei, mas verificar o
-    contexto em que está inserida, priorizando-se a intenção prática pretendida. Já a interpretação
-    teleológica busca compreender a finalidade política para a qual a norma foi editada, no caso da
-    Lei de Responsabilidade Fiscal, apregoa a instituição de um regime de gestão fiscal
-    responsável.
-                              Mas a interpretação sistemática e teleológica não pode ser afastada
-    dos princípios da moralidade, eficiência e legitimidade, elencados no Art. 37, caput, da
-    Constituição Federal, nem tampouco da supremacia do interesse público, pois o alvo do
-    legislador é a despesa nova, sem contrapartida de novos recursos, criada no apagar das luzes
-    de uma administração e que imprudentemente onera exercícios financeiros futuros,
-    responsabilidade de outro mandatário.
-                               Se analisada a norma em consonância com o principio da
-    proporcionalidade, chega-se ao entendimento de que somente devem ser alcançadas pela
-    vedação legal as elevações da despesa com pessoal que destoem dos objetivos políticos da
-    norma. Este é o entendimento de vários mestres doutrinadores, como é o caso de Maria Sylvia
-    Zanella Di Pietro, em seu livro Comentários à Lei de Responsabilidade Fiscal, ed. 2001, p. 155,
-    que defende a tese de que a rigorosidade da proibição compromete a consecução dos
-    interesses públicos.
-                              Como visto o que afasta o ato administrativo da vedação do parágrafo
-    único do art. 21 da LRF é a urgente satisfação do interesse público, que compreende, também,
-    
+Estado do Piauí\
+Tribunal de Contas\
+Ministério Público de Contas\
+
+Como visto, o dispositivo retro transcrito impôs um limite de ordem
+temporal às despesas com pessoal, a ser observado pelo titular de Poder ou órgão em final de
+mandato.
+
+A interpretação literal do artigo da lei nos levaria à conclusão da
+proibição da prática de todo e qualquer ato que acarrete aumento de despesa com pessoal nos
+últimos 180 dias do mandato do gestor público, o que eliminaria toda a indagação crítica do
+aplicador do Direito e não se alcançaria a finalidade da lei.
+
+A LRF não traz expressamente exceções à regra imposta no art. 21.
+Trata-se, portanto, de uma norma genérica que deve ser interpretada de modo sistemático,
+compreendendo os demais dispositivos da LRF, abrangendo a Constituição Federal, assim
+como a legislação eleitoral, e teleológica.
+
+**3.2. Da interpretação sistemática e teleológica do Parágrafo único do art. 21 da LRF**
+
+
+Na interpretação sistemática deve ser afastada a análise isolada dos
+dispositivos legais, pois não se pode prender apenas à literal letra da lei, mas verificar o
+contexto em que está inserida, priorizando-se a intenção prática pretendida. Já a interpretação
+teleológica busca compreender a finalidade política para a qual a norma foi editada, no caso da
+Lei de Responsabilidade Fiscal, apregoa a instituição de um regime de gestão fiscal
+responsável.
+
+Mas a interpretação sistemática e teleológica não pode ser afastada
+dos princípios da moralidade, eficiência e legitimidade, elencados no Art. 37, caput, da
+Constituição Federal, nem tampouco da supremacia do interesse público, pois o alvo do
+legislador é a despesa nova, sem contrapartida de novos recursos, criada no apagar das luzes
+de uma administração e que imprudentemente onera exercícios financeiros futuros,
+responsabilidade de outro mandatário.
+
+Se analisada a norma em consonância com o principio da
+proporcionalidade, chega-se ao entendimento de que somente devem ser alcançadas pela
+vedação legal as elevações da despesa com pessoal que destoem dos objetivos políticos da
+norma. Este é o entendimento de vários mestres doutrinadores, como é o caso de Maria Sylvia
+Zanella Di Pietro, em seu livro *Comentários à Lei de Responsabilidade Fiscal*, ed. 2001, p. 155,
+que defende a tese de que a rigorosidade da proibição compromete a consecução dos
+interesses públicos.
+
+Como visto o que afasta o ato administrativo da vedação do parágrafo
+único do art. 21 da LRF é a urgente satisfação do interesse público, que compreende, também,
+
+[Nota editorial de apresentação: Brasão estadual e emblema MPC; traço horizontal sob cabeçalho. Corpo sem citação destacada em recuo; título 3.2 em negrito e título bibliográfico em itálico. Sem rodapé numérico, notas ou assinaturas visíveis.]
 
 #### Página 5 do PDF oficial
 
-                         Estado do Piauí
-                         Tribunal de Contas
-                         Ministério Público de Contas
-    
-    
-    
-    
-    a continuidade dos serviços prestados pelo Órgão ou Poder, pois estando a Administração a
-    necessitar de pessoal para a prestação de serviço (art. 175, caput, da CF/88), havendo
-    dotação orçamentária para tanto e ainda não extrapolando os limites das despesas com
-    pessoal nem prejudicando orçamentos futuros, não há porque ser barrada pela vedação da
-    norma e ainda isentará a responsabilidade do gestor.
-                             Assim, o dispositivo em comento deve ser interpretado de forma
-    sistêmica e teleológica, sem que se afaste dos valores constitucionais.
-    
-    
-    3.3. Das exceções contidas no art. 73 da Lei nº 9.504/97 aplicadas ao Parágrafo único do
-    art. 21 da LRF
-                             Como já frisado, a Lei de Responsabilidade Fiscal não traz de
-    expressamente nenhuma exceção para a regra do parágrafo único do seu art.21, por outro
-    lado, o art. 73 da Lei 9.504/97, que dispõe sobre condutas vedadas durante os pleitos eleitorais
-    a fim de evitar a desigualdade de oportunidades entre candidatos e que, portanto, trás em seu
-    conteúdo o mesmo objetivo, a mesma intenção do legislador que abrigou as vedações do
-    parágrafo único do art. 21 da LRF, estabelece em seu inciso V que é proibido nomear,
-    contratar, admitir, demitir sem justa causa, suprimir ou readaptar vantagens, dificultar ou
-    impedir o exercício funcional ou remover, transferir, exonerar servidor público, nos três meses
-    que o antecedem ao término do mandato, até a posse dos eleitos, exceto:
-                                          “a) a nomeação ou exoneração de cargos em comissão
-                                              e designação ou dispensa de funções de confiança;
-                                          b) a nomeação para cargos do Poder Judiciário, do
-                                              Ministério Público, dos Tribunais ou Conselhos de
-                                              Contas e dos órgãos da Presidência da República;
-                                          c) a nomeação dos aprovados em concursos públicos
-                                              homologados até o início daquele prazo;
-                                          d) a nomeação ou contratação necessária à instalação
-                                              ou ao funcionamento inadiável de serviços públicos
-                                              essenciais, com prévia e expressa autorização do
-                                              Chefe do Poder Executivo;
-                                          e) a transferência ou remoção ex officio de militares,
-                                              policiais civis e de agentes penitenciários;"
-    
-    
-                             As proibições elencadas pela lei têm os mesmos objetivos e
-    finalidades das vedações da LRF que buscam a construção de uma Administração Pública
-    pautada numa gestão responsável, a Lei Eleitoral (nº 9.504/97) buscando a igualdade de
-    oportunidades entre candidatos; a de Responsabilidade Fiscal (nº 101/00) aspirando evitar
-    
+Estado do Piauí\
+Tribunal de Contas\
+Ministério Público de Contas\
+
+a continuidade dos serviços prestados pelo Órgão ou Poder, pois estando a Administração a
+necessitar de pessoal para a prestação de serviço (art. 175, *caput*, da CF/88), havendo
+dotação orçamentária para tanto e ainda não extrapolando os limites das despesas com
+pessoal nem prejudicando orçamentos futuros, não há porque ser barrada pela vedação da
+norma e ainda isentará a responsabilidade do gestor.
+
+Assim, o dispositivo em comento deve ser interpretado de forma
+sistêmica e teleológica, sem que se afaste dos valores constitucionais.
+
+**3.3. Das exceções contidas no art. 73 da Lei nº 9.504/97 aplicadas ao Parágrafo único do
+art. 21 da LRF**
+
+Como já frisado, a Lei de Responsabilidade Fiscal não traz de
+expressamente nenhuma exceção para a regra do parágrafo único do seu art.21, por outro
+lado, o art. 73 da Lei 9.504/97, que dispõe sobre condutas vedadas durante os pleitos eleitorais
+a fim de evitar a desigualdade de oportunidades entre candidatos e que, portanto, trás em seu
+conteúdo o mesmo objetivo, a mesma intenção do legislador que abrigou as vedações do
+parágrafo único do art. 21 da LRF, estabelece em seu inciso V que **é proibido nomear**,
+contratar, admitir, demitir sem justa causa, suprimir ou readaptar vantagens, dificultar ou
+impedir o exercício funcional ou remover, transferir, exonerar servidor público, nos três meses
+que o antecedem ao término do mandato, até a posse dos eleitos, **exceto:**
+
+> *“a) a nomeação ou exoneração de cargos em comissão
+> e designação ou dispensa de funções de confiança;
+> b) a nomeação para cargos do Poder Judiciário, do
+> Ministério Público, dos Tribunais ou Conselhos de
+> Contas e dos órgãos da Presidência da República;
+> c) a nomeação dos aprovados em concursos públicos
+> homologados até o início daquele prazo;
+> d) a nomeação ou contratação necessária à instalação
+> ou ao funcionamento inadiável de serviços públicos
+> essenciais, com prévia e expressa autorização do
+> Chefe do Poder Executivo;
+> e) a transferência ou remoção ex officio de militares,
+> policiais civis e de agentes penitenciários;"*
+
+As proibições elencadas pela lei têm os mesmos objetivos e
+finalidades das vedações da LRF que buscam a construção de uma Administração Pública
+pautada numa gestão responsável, a Lei Eleitoral (nº 9.504/97) buscando a igualdade de
+oportunidades entre candidatos; a de Responsabilidade Fiscal (nº 101/00) aspirando evitar
+
+[Nota editorial de apresentação: Brasão estadual e emblema MPC; traço horizontal sob cabeçalho. A palavra caput no primeiro parágrafo é itálica; o parágrafo de introdução às exceções não está todo em itálico. Citação a)–e) recuada e itálica, aspas preservadas como na fonte. Sem rodapé numérico, nota ou assinatura visível.]
 
 #### Página 6 do PDF oficial
 
@@ -837,44 +842,41 @@ b) Pela **resposta positiva** ao questionamento de que frente ao disposto no art
 
 #### Página 7 do PDF oficial
 
-                                 Estado do Piauí
-                                 Tribunal de Contas
-                                 Ministério Público de Contas
-    
-    
-    
-    
-           designação ou dispensa de funções de confiança; nomeação para cargos do Poder Judiciário,
-           do Tribunal de Contas do Estado do Piauí e dos órgãos autônomos do Governo do Estado do
-           Piauí; e nomeação de aprovados em concursos públicos homologados até os três meses que
-           antecedem o pleito; desde que:
-                                      Seja cabalmente demonstrado o atendimento ao disposto nos arts.
-           16 e 17 da LRF, ao art. 37, XIII, e art. 169, § 1º da Constituição Federal;
-                                      Demonstração inequívoca de que o índice da despesa de pessoal
-           não restará comprometido;
-                                      Demonstração da existência de dotação orçamentária suficiente
-           para atender as projeções de despesas, de forma a não comprometer o mandato subsequente;
-                                      Que os casos de nomeação/exoneração por ventura ocorridos
-           dentro dos 180 dias antes do término do mandato, se encaixem exclusiva e rigorosamente
-           nas exceções contidas no inciso V, art. 73, da Lei nº 9.504/97, e tão somente pelos Órgãos ali
-           enumerados.
-                                     É o parecer.
-                                     Encaminhem-se os presentes autos ao Cons. Relator.
-    
-    
-                                        Teresina (PI), 17 de outubro de 2014.
-    
-    
-    
-    
-                                                Raïssa Maria Rezende de Deus Barbosa
-                                              Procuradora do Ministério Público de Contas
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - RAISSA MARIA REZENDE DE DEUS BARBOSA: [identificador e-TCE ocultado] - 17/10/2014 12:28:49
-    
+Estado do Piauí\
+Tribunal de Contas\
+Ministério Público de Contas\
+
+designação ou dispensa de funções de confiança; nomeação para cargos do Poder Judiciário,
+do Tribunal de Contas do Estado do Piauí e dos órgãos autônomos do Governo do Estado do
+Piauí; e nomeação de aprovados em concursos públicos homologados até os três meses que
+antecedem o pleito; **desde que:**
+
+• Seja cabalmente demonstrado o atendimento ao disposto nos arts.
+16 e 17 da LRF, ao art. 37, XIII, e art. 169, § 1º da Constituição Federal;
+
+• Demonstração inequívoca de que o índice da despesa de pessoal
+não restará comprometido;
+
+• Demonstração da existência de dotação orçamentária suficiente
+para atender as projeções de despesas, de forma a não comprometer o mandato subsequente;
+
+• Que os casos de nomeação/exoneração por ventura ocorridos
+dentro dos 180 dias antes do término do mandato, **se encaixem exclusiva e rigorosamente**
+nas exceções contidas no inciso V, art. 73, da Lei nº 9.504/97, e tão somente pelos Órgãos ali
+enumerados.
+
+É o parecer.
+
+Encaminhem-se os presentes autos ao Cons. Relator.
+
+Teresina (PI), 17 de outubro de 2014.
+
+**Raïssa Maria Rezende de Deus Barbosa**\
+**Procuradora do Ministério Público de Contas**
+
+*Assinado Digitalmente pelo sistema e-TCE* - **RAISSA MARIA REZENDE DE DEUS BARBOSA: [identificador e-TCE ocultado] - 17/10/2014 12:28:49**
+
+[Nota editorial de apresentação: Brasão estadual, emblema MPC e traço sob cabeçalho. Quatro marcadores redondos representados por • em parágrafos separados; substituição gráfica do PUA explicitada no patch. Fecho/nome/cargo e registro digital com ocultação preexistente mantidos. Sem rodapé numérico ou notas visíveis; sem autenticação.]
 
 ### Links presentes no PDF
 

@@ -327,52 +327,46 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                   Estado do Piauí                         Processo
-                   Tribunal de Contas                     TC-019815/14
-    
-    
-    
-    
-           DIRETORIA DE FISCALIZAÇÃO DA ADMINISTRAÇÃO MUNICIPAL
-    
-    
-    
-    Processo ......... TC-019815/2014
-    Assunto ........... Lei nº 250/2014 – Altera o Plano de Cargos e Carreira do Magistério
-    Interessada ..... Lisiane Franco Rocha Araújo (Prefeita do Município de Colônia do
-    Gurguéia)
-    
-    
-    
-    
-    1 RELATÓRIO
-    
-    
-          Trata-se de consulta formulada ao Tribunal de Contas do Estado do Piauí, pela
-    qual o consulente solicita à Corte manifestação sobre a aplicabilidade da Lei nº
-    250/2014, que alterou o Plano de Cargos e Carreira do Magistério.
-    
-            A interessada informa que durante o período que esteve afastada da prefeitura
-    a referida lei foi aprovada em um processo legislativo eivado de irregularidades, pois
-    não houve estudo de impacto financeiro, tampouco audiência pública com os
-    professores. Afirma ainda que o projeto de lei tramitou de forma muito rápida, vindo a
-    ser aprovado em apenas 05 dias, pois os adversários políticos da prefeita sabiam do
-    seu futuro retorno ao cargo.
-    
-            A prefeita afirma que a alteração legislativa implementada trouxe novos
-    parâmetros para a educação municipal, sendo o principal a forma de aplicação da
-    jornada de trabalho dos profissionais do magistério, o que implicará a imediata
-    contratação de novos profissionais do magistério, aumentando sobremaneira os gastos
-    com pessoal. Nesse sentido, argumenta que os cálculos realizados indicam que a folha
-    de pagamento da educação terá um aumento de 13,58%, o que geraria um aumento
-    dos gastos com pessoal, cujo índice passaria para 54,42%, ou seja, extrapolaria os
-    limites impostos pela Lei de Responsabilidade Fiscal.
-    
-           Em suma, a consulta tem por objetivo obter esclarecimentos sobre a aplicação
-    da Lei nº 250/2014 em razão da repercussão administrativa e financeira que a mesma
-    representa, principalmente no tocante ao aumento da contratação e de gasto com
-    pessoal.
-    
+[Nota editorial de apresentação: brasão estadual à esquerda e logomarca do Tribunal à direita; cabeçalho institucional e identificação superior do processo em negrito. Quadro de identificação sobre fundo cinza; fundo e desenhos descritos, não reproduzidos.]
+
+[Nota editorial de limite: somente esta primeira folha do relatório DFAM foi atribuída; nenhuma conclusão sobre as demais folhas.]
+
+**Estado do Piauí Processo**\
+**Tribunal de Contas TC-019815/14**
+
+**DIRETORIA DE FISCALIZAÇÃO DA ADMINISTRAÇÃO MUNICIPAL**
+
+Processo ......... TC-019815/2014\
+Assunto ........... Lei nº 250/2014 – Altera o Plano de Cargos e Carreira do Magistério\
+Interessada ..... Lisiane Franco Rocha Araújo (Prefeita do Município de Colônia do\
+Gurguéia)
+
+**<u>1 RELATÓRIO</u>**
+
+Trata-se de consulta formulada ao Tribunal de Contas do Estado do Piauí, pela
+qual o consulente solicita à Corte manifestação sobre a aplicabilidade da Lei nº
+250/2014, que alterou o Plano de Cargos e Carreira do Magistério.
+
+A interessada informa que durante o período que esteve afastada da prefeitura
+a referida lei foi aprovada em um processo legislativo eivado de irregularidades, pois
+não houve estudo de impacto financeiro, tampouco audiência pública com os
+professores. Afirma ainda que o projeto de lei tramitou de forma muito rápida, vindo a
+ser aprovado em apenas 05 dias, pois os adversários políticos da prefeita sabiam do
+seu futuro retorno ao cargo.
+
+A prefeita afirma que a alteração legislativa implementada trouxe novos
+parâmetros para a educação municipal, sendo o principal a forma de aplicação da
+jornada de trabalho dos profissionais do magistério, o que implicará a imediata
+contratação de novos profissionais do magistério, aumentando sobremaneira os gastos
+com pessoal. Nesse sentido, argumenta que os cálculos realizados indicam que a folha
+de pagamento da educação terá um aumento de 13,58%, o que geraria um aumento
+dos gastos com pessoal, cujo índice passaria para 54,42%, ou seja, extrapolaria os
+limites impostos pela Lei de Responsabilidade Fiscal.
+
+Em suma, a consulta tem por objetivo obter esclarecimentos sobre a aplicação
+da Lei nº 250/2014 em razão da repercussão administrativa e financeira que a mesma
+representa, principalmente no tocante ao aumento da contratação e de gasto com
+pessoal.
 
 #### Página 2 do PDF oficial
 

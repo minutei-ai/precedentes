@@ -22,98 +22,94 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                     Estado do Piauí
-                     Tribunal de Contas
-                     Gabinete Cons. Kleber Eulálio
-    
-                                           ACÓRDÃO Nº 419-A/16
-    
-    
-    PROCESSO TC Nº 019998/2015.
-    DECISÃO Nº 151/16.
-    SESSÃO PLENÁRIA ORDINÁRIA Nº 04.
-    ASSUNTO: POSSIBILIDADE DE AUMENTO, POR PARTE DO PODER EXECUTIVO E ATRAVÉS
-    DE LEI MUNICIPAL, DA JORNADA DE TRABALHO DE CARGOS PÚBLICOS QUE CUMPREM
-    JORNADA INFERIOR.
-    CONSULENTE: GUSTAVO BARBOSA NUNES - PROCURADOR-GERAL DO MUNICÍPIO DE SÃO
-    JOÃO DO PIAUÍ.
-    RELATOR: CONS. KLEBER DANTAS EULÁLIO.
-    PROCURADOR: PLÍNIO VALENTE RAMOS NETO.
-    
-    
-                                                          Consulta do Procurador–Geral do Município
-                                                          de São João do Piauí, acerca da
-                                                          possibilidade de aumento da jornada de
-                                                          trabalho    de  cargos   públicos.    Pelo
-                                                          conhecimento, para no mérito, respondê-la
-                                                          nos termos do voto do Relator (Peça nº 11).
-                                                          Decisão Unânime.
-    
-    
-     Vistos, relatados e discutidos os presentes autos, considerando a informação da Comissão de
-    Regimento e Jurisprudência – CRJ (peça nº 4), o parecer técnico da II Divisão da Diretoria de
-    Fiscalização da Administração Municipal - DFAM (peça nº 5), o parecer do Ministério Público de
-    Contas (peça nº 8) e o mais que dos autos consta, decidiu o Plenário, unânime, conhecer da
-    presente Consulta, por considerar o relevante interesse público da matéria, e quanto ao mérito,
-    adotando as respostas emitidas no parecer ministerial, conforme o voto do Relator (peça nº 11),
-    responder ao Consulente nos seguintes termos: a) pela possibilidade de o Poder Executivo
-    aumentar, por meio de Lei Municipal, horas semanais, a jornada de trabalho de cargos públicos que
-    foram criados e providos para cumprirem um período laboral inferior, contanto que a Lei Municipal
-    observe o que reza o art. 169, § 1º da CF/88, bem como o art. 21 e incisos da Lei de
-    Responsabilidade Fiscal, em especial a prévia dotação orçamentária e autorização específica na
-    LDO, sob pena de ser considerada inconstitucional; b) que sejam adequados os vencimentos dos
-    servidores de maneira proporcional ao aumento da jornada de trabalho, tendo em vista a vedação da
-    irredutibilidade salarial, assegurada pelo art. 37, XV da CF/88; c) que a aposentadoria siga os ditames
-    constitucionais e legais, conforme art. 40, §§ 3º e 17º da CF/88 e Leis 8.212/91 e 10.887/2004.
-    Quando da emissão do seu voto, o Cons. Substituto Alisson Felipe de Araújo ressaltou a necessidade
-    da observância do art. 20 da Lei de Responsabilidade Fiscal, no cumprimento das providências aqui
-    elencadas.
-    
-    Decidiu, também, o Plenário, unânime, encaminhar ao Consulente, Sr. Gustavo Barbosa Nunes –
-    Procurador-Geral do Município de São João do Piauí/PI, cópia do Relatório da DFAM e do Acórdão do
-    Plenário deste Tribunal de Contas, nos termos do voto do Relator (peça nº 11).
-    
-    Presentes os Cons. Abelardo Pio Vilanova e Silva (Presidente em exercício em virtude da ausência
-    justificada do Cons. Luciano Nunes Santos), Joaquim Kennedy Nogueira Barros, Lilian de Almeida
-    Veloso Nunes Martins, Kleber Dantas Eulálio e os Cons. Substitutos Jaylson Fabianh Lopes Campelo,
-    em substituição à Cons.ª Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de férias),
-    Delano Carneiro da Cunha Câmara, convocado para substituir, nesse processo, o Cons. Abelardo Pio
-    Vilanova e Silva (no exercício da Presidência) e Alisson Felipe de Araújo, em substituição ao Cons.
-    Olavo Rebêlo de Carvalho Filho (em gozo de férias).
-    
+Estado do Piauí\
+Tribunal de Contas\
+Gabinete Cons. Kleber Eulálio\
+
+**ACÓRDÃO Nº 419-A/16**
+
+**PROCESSO TC Nº 019998/2015.
+DECISÃO Nº 151/16.
+SESSÃO PLENÁRIA ORDINÁRIA Nº 04.\
+ASSUNTO: POSSIBILIDADE DE AUMENTO, POR PARTE DO PODER EXECUTIVO E ATRAVÉS
+DE LEI MUNICIPAL, DA JORNADA DE TRABALHO DE CARGOS PÚBLICOS QUE CUMPREM
+JORNADA INFERIOR.
+CONSULENTE: GUSTAVO BARBOSA NUNES - PROCURADOR-GERAL DO MUNICÍPIO DE SÃO
+JOÃO DO PIAUÍ.\
+RELATOR: CONS. KLEBER DANTAS EULÁLIO.\
+PROCURADOR: PLÍNIO VALENTE RAMOS NETO.**
+
+***Consulta do Procurador–Geral do Município
+de São João do Piauí, acerca da
+possibilidade de aumento da jornada de
+trabalho    de  cargos   públicos.    Pelo
+conhecimento, para no mérito, respondê-la
+nos termos do voto do Relator (Peça nº 11).
+Decisão Unânime.***
+
+**Vistos**, relatados e discutidos os presentes autos, considerando a informação da Comissão de
+Regimento e Jurisprudência – CRJ (peça nº 4), o parecer técnico da II Divisão da Diretoria de
+Fiscalização da Administração Municipal - DFAM (peça nº 5), o parecer do Ministério Público de
+Contas (peça nº 8) e o mais que dos autos consta, decidiu o Plenário, unânime, **conhecer** da
+presente Consulta, por considerar o relevante interesse público da matéria, e quanto ao mérito,
+adotando as respostas emitidas no parecer ministerial, conforme o voto do Relator (peça nº 11),
+**responder** ao Consulente nos seguintes termos: **a)** pela possibilidade de o Poder Executivo
+aumentar, por meio de Lei Municipal, horas semanais, a jornada de trabalho de cargos públicos que
+foram criados e providos para cumprirem um período laboral inferior, contanto que a Lei Municipal
+observe o que reza o art. 169, § 1º da CF/88, bem como o art. 21 e incisos da Lei de
+Responsabilidade Fiscal, em especial a prévia dotação orçamentária e autorização específica na
+LDO, sob pena de ser considerada inconstitucional; **b)** que sejam adequados os vencimentos dos
+servidores de maneira proporcional ao aumento da jornada de trabalho, tendo em vista a vedação da
+irredutibilidade salarial, assegurada pelo art. 37, XV da CF/88; **c)** que a aposentadoria siga os ditames
+constitucionais e legais, conforme art. 40, §§ 3º e 17º da CF/88 e Leis 8.212/91 e 10.887/2004.
+Quando da emissão do seu voto, o Cons. Substituto Alisson Felipe de Araújo ressaltou a necessidade
+da observância do art. 20 da Lei de Responsabilidade Fiscal, no cumprimento das providências aqui
+elencadas.
+
+**Decidiu**, também, o Plenário, unânime, **encaminhar** ao Consulente, Sr. Gustavo Barbosa Nunes –
+Procurador-Geral do Município de São João do Piauí/PI, cópia do Relatório da DFAM e do Acórdão do
+Plenário deste Tribunal de Contas, nos termos do voto do Relator (peça nº 11).
+
+**Presentes** os Cons. Abelardo Pio Vilanova e Silva (Presidente em exercício em virtude da ausência
+justificada do Cons. Luciano Nunes Santos), Joaquim Kennedy Nogueira Barros, Lilian de Almeida
+Veloso Nunes Martins, Kleber Dantas Eulálio e os Cons. Substitutos Jaylson Fabianh Lopes Campelo,
+em substituição à Cons.ª Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de férias),
+Delano Carneiro da Cunha Câmara, convocado para substituir, nesse processo, o Cons. Abelardo Pio
+Vilanova e Silva (no exercício da Presidência) e Alisson Felipe de Araújo, em substituição ao Cons.
+Olavo Rebêlo de Carvalho Filho (em gozo de férias).
+
+[Nota editorial de apresentação: Brasão estadual à esquerda, logomarca TCE à direita. Ementa recuada à direita em negrito e itálico. Sem rodapé numérico, nota ou assinatura visível nesta folha; recuo da ementa não é citação literal de outro ato.]
 
 #### Página 2 do PDF oficial
 
-                             Estado do Piauí
-                             Tribunal de Contas
-                             Gabinete Cons. Kleber Eulálio
-    
-                                               ACÓRDÃO Nº 419-A/16 (FLS. 02)
-    
-    
-           Representante do Ministério Público de Contas presente: Procurador-Geral Márcio André Madeira
-           de Vasconcelos.
-    
-           Transcreva-se, Publique-se e Cumpra-se.
-           Sessão Plenária Ordinária nº 04, do Tribunal de Contas do Piauí, em Teresina, 18 de fevereiro de
-           2016.
-    
-           (assinado digitalmente pelo sistema e-TCE)
-           Cons. Abelardo Pio Vilanova e Silva____________________ Presidente em exercício
-    
-           (assinado digitalmente pelo sistema e-TCE)
-           Cons. Kleber Dantas Eulálio______________________________ Relator
-    
-           (assinado digitalmente pelo sistema e-TCE)
-           Fui presente: Márcio André Madeira de Vasconcelos __________ Procurador-Geral do MPC-TCE/PI
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 25/02/2016 11:23:28
-    Assinado Digitalmente pelo sistema e-TCE - ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 26/02/2016 10:43:10
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 26/02/2016 12:36:17
-    
+Estado do Piauí\
+Tribunal de Contas\
+Gabinete Cons. Kleber Eulálio\
+
+**ACÓRDÃO Nº 419-A/16 (FLS. 02)**
+
+**Representante do Ministério Público de Contas presente:** Procurador-Geral Márcio André Madeira
+de Vasconcelos.
+
+Transcreva-se, Publique-se e Cumpra-se.
+
+Sessão Plenária Ordinária nº 04, do Tribunal de Contas do Piauí, em Teresina, 18 de fevereiro de
+2016.
+
+*(assinado digitalmente pelo sistema e-TCE)*\
+Cons. Abelardo Pio Vilanova e Silva____________________ Presidente em exercício
+
+*(assinado digitalmente pelo sistema e-TCE)*\
+Cons. Kleber Dantas Eulálio______________________________ Relator
+
+*(assinado digitalmente pelo sistema e-TCE)*\
+Fui presente: Márcio André Madeira de Vasconcelos __________ Procurador-Geral do MPC-TCE/PI
+
+*Assinado Digitalmente pelo sistema e-TCE* - **KLEBER DANTAS EULALIO: [identificador e-TCE ocultado] - 25/02/2016 11:23:28**\
+*Assinado Digitalmente pelo sistema e-TCE* - **ABELARDO PIO VILANOVA E SILVA: [identificador e-TCE ocultado] - 26/02/2016 10:43:10**\
+*Assinado Digitalmente pelo sistema e-TCE* - **MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 26/02/2016 12:36:17**
+
+[Nota editorial de apresentação: Brasão estadual e logomarca TCE no cabeçalho. Três linhas gráficas de assinatura mantidas como sublinhados; não são palavras sublinhadas. Três avisos parentéticos em itálico, registros no pé com prefixo itálico e nome/data/hora em negrito. Ocultações preservadas. Sem nota ou rodapé numérico visível; sem autenticação.]
 
 ### Documento vinculado pela fonte
 

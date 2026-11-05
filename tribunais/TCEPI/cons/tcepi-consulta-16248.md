@@ -112,178 +112,171 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                   Estado do Piauí
-                   Tribunal de Contas
-                   Gab. Cons. em Exercício Jaylson Campelo
-    
-    
-    PROCESSO TC/018088/2013
-    ASSUNTO: CONSULTA FORMULADA AO TRIBUNAL DE CONTAS DO ESTADO DO
-    PIAUÍ
-    PROCEDÊNCIA: PREFEITURA MUNICIPAL DE FLORIANO
-    INTERESSADO: GILBERTO CARVALHO GUERRA JÚNIOR
-    RELATOR: JAYLSON FABIANH LOPES CAMPELO (Conselheiro em Exercício)
-    PROCURADOR: LEANDRO MACIEL DO NASCIMENTO
-    
-    
-    
-                        RELATÓRIO PARA SESSÃO DE JULGAMENTO
-    
-                Tratam os autos da Consulta formulada ao Tribunal de Contas do Estado
-    do Piauí pela Prefeitura Municipal de Floriano, representada pelo prefeito, Sr.
-    Gilberto Carvalho Guerra Junior, pretendendo obter o posicionamento desta Corte de
-    Contas, acerca da correta aplicação dos recursos do FUNDEB provenientes da
-    complementação da União, nos termos do art. 6º, §2º da Lei nº 11.494/07.
-                O Conselheiro Relator, em analise preliminar de aferição dos
-    pressupostos essenciais ao conhecimento da consulta, decidiu, liminarmente, pelo seu
-    conhecimento, por atender os requisitos legais previstos no Regimento Interno desta
-    Corte de Contas, encaminhando, inicialmente, os autos à Comissão Permanente de
-    Regimento e Jurisprudência do TCE-PI para verificação dos quesitos formulados, nos
-    seguintes termos:
-                 a) Há violação ao art. 22, da Lei n° 11.494/2007, à Súmula n° 09 deste
-    TCE ou à Decisão Plenária Ordinária n° 53 (05/10/2011), no caso do Município
-    perceber recursos extraordinários do FUNDEB, sob rubricas de AJUSTE ou de
-    COMPLEMENTO DE PISO, e não transferir o percentual mínimo de 60% destes
-    recursos aos profissionais do Magistério Municipal, caso já tenha, considerando a
-    integralidade do exercício financeiro, alcançado índice superior?
-                b) Caso o Município receba em exercício atual, recursos do FUNDEB, a
-    título de AJUSTE ou de COMPLEMENTO DE PISO SALARIAL de exercícios anteriores e,
-    já alcançando índice superior a 60% com pagamento de remuneração do magistério,
-    é obrigatório o pagamento a essa categoria, por meio de abono, desses recursos
-    extraordinários dos exercícios anteriores?
-                                                                                       1
-    
+Estado do Piauí\
+Tribunal de Contas\
+**Gab. Cons. em Exercício Jaylson Campelo**\
+
+**PROCESSO TC/018088/2013\
+ASSUNTO: CONSULTA FORMULADA AO TRIBUNAL DE CONTAS DO ESTADO DO
+PIAUÍ\
+PROCEDÊNCIA: PREFEITURA MUNICIPAL DE FLORIANO\
+INTERESSADO: GILBERTO CARVALHO GUERRA JÚNIOR\
+RELATOR: JAYLSON FABIANH LOPES CAMPELO (Conselheiro em Exercício)\
+PROCURADOR: LEANDRO MACIEL DO NASCIMENTO**
+
+**RELATÓRIO PARA SESSÃO DE JULGAMENTO**
+
+Tratam os autos da Consulta formulada ao Tribunal de Contas do Estado
+do Piauí pela Prefeitura Municipal de Floriano, representada pelo prefeito, Sr.
+Gilberto Carvalho Guerra Junior, pretendendo obter o posicionamento desta Corte de
+Contas, acerca da correta aplicação dos recursos do FUNDEB provenientes da
+complementação da União, nos termos do art. 6º, §2º da Lei nº 11.494/07.
+
+O Conselheiro Relator, em analise preliminar de aferição dos
+pressupostos essenciais ao conhecimento da consulta, decidiu, liminarmente, pelo seu
+conhecimento, por atender os requisitos legais previstos no Regimento Interno desta
+Corte de Contas, encaminhando, inicialmente, os autos à Comissão Permanente de
+Regimento e Jurisprudência do TCE-PI para verificação dos quesitos formulados, nos
+seguintes termos:
+
+a) Há violação ao art. 22, da Lei n° 11.494/2007, à Súmula n° 09 deste
+TCE ou à Decisão Plenária Ordinária n° 53 (05/10/2011), no caso do Município
+perceber recursos extraordinários do FUNDEB, sob rubricas de AJUSTE ou de
+COMPLEMENTO DE PISO, e não transferir o percentual mínimo de 60% destes
+recursos aos profissionais do Magistério Municipal, caso já tenha, considerando a
+integralidade do exercício financeiro, alcançado índice superior?
+
+b) Caso o Município receba em exercício atual, recursos do FUNDEB, a
+título de AJUSTE ou de COMPLEMENTO DE PISO SALARIAL de exercícios anteriores e,
+já alcançando índice superior a 60% com pagamento de remuneração do magistério,
+é obrigatório o pagamento a essa categoria, por meio de abono, desses recursos
+extraordinários dos exercícios anteriores?
+
+1
+
+[Nota editorial de apresentação: Brasão estadual e logomarca TCE no cabeçalho, nome do gabinete em negrito. Quadro cinza com seis linhas de identificação, integralmente em negrito; título centralizado em negrito. Rodapé 1. Quesitos a/b são transcrição introduzida por nos seguintes termos, sem itálico ou negrito adicional. Sem notas/assinaturas visíveis.]
 
 #### Página 2 do PDF oficial
 
-                   Estado do Piauí
-                   Tribunal de Contas
-                   Gab. Cons. em Exercício Jaylson Campelo
-    
-    
-                 A Comissão de Regimento e Jurisprudência informou a ausência de
-    prejulgado ou decisão reiterada sobre o tema (peça 04) e, na sequência, encaminhou
-    os autos à DFAM por ser a unidade técnica competente da matéria questionada.
-                 Preliminarmente, quanto ao atendimento dos requisitos regimentais
-    exigidos para a formulação de consultas a esta Corte, a DFAM observou que o parecer
-    do órgão de assistência técnica da autoridade consulente não foi devidamente
-    instruído, e, tendo em vista que o tema foi objeto de deliberação plenária por parte
-    desta Corte, demonstrando o relevante interesse público da matéria, considerou que
-    os requisitos de admissibilidade regimentais foram atendidos.
-                 Em síntese, a DFAM, através do relatório acostado (peça 05), opinou
-    sobre a Consulta formulada, respondendo aos quesitos, conforme segue:
-                 1) Considerando que às receitas públicas aplica-se o regime de caixa, o
-    ajuste deve ser apropriado como receita a ser contabilizada no exercício em que
-    ocorreu a entrada dos recursos. Portanto, os valores correspondentes ao ajuste da
-    distribuição dos recursos do FUNDEB farão parte do total de 100% das verbas
-    recebidas durante o exercício financeiro em que foram creditados, para fins de
-    apuração dos gastos anuais por esta Corte de Contas. Em outras palavras, o valor do
-    ajuste deverá compor os índices aplicados no ano do seu recebimento, e não no
-    exercício anterior.
-                 2) Quanto à contabilização desses recursos, recomenda-se a observância
-    da Nota Técnica n.º 040/2013, oriunda da Confederação Nacional de Municípios
-    (www.cnm.org.br), que regula o tratamento contábil da complementação da União ao
-    FUNDEB.
-                 No Parecer nº 2014LC0002, o Ministério Público de Contas (peça 08)
-    adere às conclusões emitidas pela DFAM e opina para que a consulta seja respondida
-    nos termos do Parecer Ministerial.
-    
-                 Na Sessão Plenária Ordinária nº 08, de 27 de fevereiro de 2014, o
-    Plenário decidiu pelo adiamento da apreciação do presente processo, atendendo
-    pedido de vistas da Cons. Lilian de Almeida Veloso Nunes Martins.
-    
-    
-                                                                                       2
-    
+Estado do Piauí\
+Tribunal de Contas\
+**Gab. Cons. em Exercício Jaylson Campelo**\
+
+A Comissão de Regimento e Jurisprudência informou a ausência de
+prejulgado ou decisão reiterada sobre o tema (peça 04) e, na sequência, encaminhou
+os autos à DFAM por ser a unidade técnica competente da matéria questionada.
+
+Preliminarmente, quanto ao atendimento dos requisitos regimentais
+exigidos para a formulação de consultas a esta Corte, a DFAM observou que o parecer
+do órgão de assistência técnica da autoridade consulente não foi devidamente
+instruído, e, tendo em vista que o tema foi objeto de deliberação plenária por parte
+desta Corte, demonstrando o relevante interesse público da matéria, considerou que
+os requisitos de admissibilidade regimentais foram atendidos.
+
+Em síntese, a DFAM, através do relatório acostado (peça 05), opinou
+sobre a Consulta formulada, respondendo aos quesitos, conforme segue:
+
+1) Considerando que às receitas públicas aplica-se o regime de caixa, o
+ajuste deve ser apropriado como receita a ser contabilizada no exercício em que
+ocorreu a entrada dos recursos. Portanto, os valores correspondentes ao ajuste da
+distribuição dos recursos do FUNDEB farão parte do total de 100% das verbas
+recebidas durante o exercício financeiro em que foram creditados, para fins de
+apuração dos gastos anuais por esta Corte de Contas. Em outras palavras, o valor do
+ajuste deverá compor os índices aplicados no ano do seu recebimento, e não no
+exercício anterior.
+
+2) Quanto à contabilização desses recursos, recomenda-se a observância
+da Nota Técnica n.º 040/2013, oriunda da Confederação Nacional de Municípios
+(www.cnm.org.br), que regula o tratamento contábil da complementação da União ao
+FUNDEB.
+
+No Parecer nº 2014LC0002, o Ministério Público de Contas (peça 08)
+adere às conclusões emitidas pela DFAM e opina para que a consulta seja respondida
+nos termos do Parecer Ministerial.
+
+Na Sessão Plenária Ordinária nº 08, de 27 de fevereiro de 2014, o
+Plenário decidiu pelo adiamento da apreciação do presente processo, atendendo
+pedido de vistas da Cons. Lilian de Almeida Veloso Nunes Martins.
+
+2
+
+[Nota editorial de apresentação: Brasão estadual, logomarca TCE e gabinete em negrito no cabeçalho; rodapé 2. Corpo sem ênfase adicional; itens 1/2 introduzidos como resposta da DFAM, sem recuo citacional especial. Sem notas ou assinaturas visíveis.]
 
 #### Página 3 do PDF oficial
 
-                    Estado do Piauí
-                    Tribunal de Contas
-                    Gab. Cons. em Exercício Jaylson Campelo
-    
-    
-                 Os autos retornaram ao Pleno na Sessão Ordinária nº 12, de 27 de março
-    de 2014, onde, após vista dos autos pela Consª. Lilian de Almeida Veloso Nunes
-    Martins, a qual apresentou estudo realizado acerca da matéria em comento, foi
-    concedido vista dos autos ao Cons. Substituto Alisson Felipe de Araújo para inteirar-
-    se do tema, tendo a Consª. Lilian disponibilizado o seu estudo como forma de
-    subsidiar a análise.
-                 Na sequência, em Sessão Plenária Ordinária nº 15, de 24 de abril de
-    2014, decidiu o Plenário, unânime, ouvido o Representante do Ministério Público de
-    Contas, encaminhar a consulta à Comissão de Regimento e Jurisprudência - CRJ para
-    aguardar Instrução Normativa sobre a matéria, a qual está em discussão naquele
-    setor.
-                 Instada a se manifestar, a Comissão de Regimento e Jurisprudência fez
-    juntar aos autos a Decisão CRJ nº 20/2014, que deliberou, por unanimidade: “admitir
-    a possibilidade dos gestores municipais utilizarem o crédito do FUNDEB decorrente da
-    complementação da União referente ao exercício financeiro anterior para pagamento
-    de pessoal do exercício seguinte ainda não processado, desde que comprove perante este
-    Tribunal que realizou todas as medidas judiciais cabíveis contra o gestor inadimplente,
-    bem como, encaminhar esta decisão da CRJ para deliberação do Plenário, de acordo
-    com a art. 74, XXIII do Regimento Interno”.
-                 Observe-se que, nos autos do TC/009307/2013, na Sessão Plenária
-    Ordinária nº 42, de 13 de novembro de 2014, o Plenário decidiu, por unanimidade,
-    responder o questionamento da DFAM, nos termos da Decisão CRJ nº 20/14.
-                 Por fim, o Ministério Público de Contas, no Parecer nº 2014LC0014 (peça
-    20), se manifestou pela adesão ao posicionamento da Comissão de Regimento e
-    Jurisprudência do TCE/PI, nos termos da Decisão CRJ n° 20/2014 (Peça 18), em
-    respeito à Decisão n° 413/14, do Plenário desta Corte (Peça 17).
-    
-    
-                 Este é o Relatório.
-    
-    
-    
-    
-                                                                                         3
-    
+Estado do Piauí\
+Tribunal de Contas\
+**Gab. Cons. em Exercício Jaylson Campelo**\
+
+Os autos retornaram ao Pleno na Sessão Ordinária nº 12, de 27 de março
+de 2014, onde, após vista dos autos pela Consª. Lilian de Almeida Veloso Nunes
+Martins, a qual apresentou estudo realizado acerca da matéria em comento, foi
+concedido vista dos autos ao Cons. Substituto Alisson Felipe de Araújo para inteirar-
+se do tema, tendo a Consª. Lilian disponibilizado o seu estudo como forma de
+subsidiar a análise.
+
+Na sequência, em Sessão Plenária Ordinária nº 15, de 24 de abril de
+2014, decidiu o Plenário, unânime, ouvido o Representante do Ministério Público de
+Contas, encaminhar a consulta à Comissão de Regimento e Jurisprudência - CRJ para
+aguardar Instrução Normativa sobre a matéria, a qual está em discussão naquele
+setor.
+
+Instada a se manifestar, a Comissão de Regimento e Jurisprudência fez
+juntar aos autos a Decisão CRJ nº 20/2014, que deliberou, por unanimidade: *“admitir
+a possibilidade dos gestores municipais utilizarem o crédito do FUNDEB decorrente da
+complementação da União referente ao exercício financeiro anterior para pagamento
+de pessoal do exercício seguinte ainda não processado, desde que comprove perante este
+Tribunal que realizou todas as medidas judiciais cabíveis contra o gestor inadimplente,
+bem como, encaminhar esta decisão da CRJ para deliberação do Plenário, de acordo
+com a art. 74, XXIII do Regimento Interno”*.
+
+Observe-se que, nos autos do TC/009307/2013, na Sessão Plenária
+Ordinária nº 42, de 13 de novembro de 2014, o Plenário decidiu, por unanimidade,
+responder o questionamento da DFAM, nos termos da Decisão CRJ nº 20/14.
+
+Por fim, o Ministério Público de Contas, no Parecer nº 2014LC0014 (peça
+20), se manifestou pela adesão ao posicionamento da Comissão de Regimento e
+Jurisprudência do TCE/PI, nos termos da Decisão CRJ n° 20/2014 (Peça 18), em
+respeito à Decisão n° 413/14, do Plenário desta Corte (Peça 17).
+
+**Este é o Relatório.**
+
+3
+
+[Nota editorial de apresentação: Brasão estadual, logomarca TCE e gabinete em negrito; rodapé 3. Citação da Decisão CRJ 20/2014 é inline, em itálico entre aspas, sem ampliar destaque ao texto introdutório ou ao parágrafo seguinte. Fecho em negrito. Sem notas/assinaturas visíveis.]
 
 #### Página 4 do PDF oficial
 
-                            Estado do Piauí
-                            Tribunal de Contas
-                            Gab. Cons. em Exercício Jaylson Campelo
-    
-    
-    
-    
-                                                        VOTO:
-    
-    
-    
-                           Diante do exposto, e o mais que dos autos consta, voto, pelo
-           conhecimento da consulta formulada, por atender os requisitos legais previstos no
-           Regimento Interno desta Corte de Contas.
-    
-                           E, quanto ao mérito, esta Relatoria, de acordo com a manifestação do
-           Ministério Público de Contas (Peça 20), adota as respostas emitidas pela Comissão de
-           Regimento e Jurisprudência do TCE/PI, nos termos da Decisão CRJ n° 20/2014 (Peça
-           18).
-                           Voto ainda pelo encaminhamento ao Consulente, Sr. Gilberto Carvalho
-           Guerra Junior – Prefeito do Município de Floriano/PI, da cópia da Decisão CRJ n°
-           20/2014 e do Acórdão do Plenário deste Tribunal de Contas.
-    
-    
-                           Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí,
-           em Teresina, 16 de abril de 2015.
-    
-    
-    
-    
-                                             Cons. Jaylson Fabianh Lopes Campelo
-                                                    Conselheiro em Exercício
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 29/04/2015 08:21:03
-    
-    
-    
-    
-                                                                                                            4
-    
+Estado do Piauí\
+Tribunal de Contas\
+**Gab. Cons. em Exercício Jaylson Campelo**\
+
+**VOTO:**
+
+Diante do exposto, e o mais que dos autos consta, voto, pelo
+conhecimento da consulta formulada, por atender os requisitos legais previstos no
+Regimento Interno desta Corte de Contas.
+
+E, quanto ao mérito, esta Relatoria, de acordo com a manifestação do
+Ministério Público de Contas (Peça 20), adota as respostas emitidas pela Comissão de
+Regimento e Jurisprudência do TCE/PI, nos termos da Decisão CRJ n° 20/2014 (Peça
+18).
+
+Voto ainda pelo encaminhamento ao Consulente, Sr. Gilberto Carvalho
+Guerra Junior – Prefeito do Município de Floriano/PI, da cópia da Decisão CRJ n°
+20/2014 e do Acórdão do Plenário deste Tribunal de Contas.
+
+Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí,
+em Teresina, 16 de abril de 2015.
+
+**Cons. Jaylson Fabianh Lopes Campelo**\
+**Conselheiro em Exercício**
+
+*Assinado Digitalmente pelo sistema e-TCE* - **JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 29/04/2015 08:21:03**
+
+4
+
+[Nota editorial de apresentação: Brasão estadual e logomarca TCE, gabinete em negrito no cabeçalho. VOTO, nome e cargo em negrito, centralizados no original. Registro digital no pé com prefixo itálico e nome/data/hora em negrito; ocultação preservada. Rodapé 4; sem notas/carimbo visíveis; sem autenticação.]
 
 ### Documento vinculado pela fonte
 
