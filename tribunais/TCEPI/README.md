@@ -1,10 +1,10 @@
 # TCEPI
 
-Tribunal de Contas do Estado do Piauí. **417 registros.**
+Tribunal de Contas do Estado do Piauí. **419 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
-| [Consulta](cons/) | 387 |
+| [Consulta](cons/) | 389 |
 | [Prejulgado](prej/) | 3 |
 | [Procedimento de uniformização](pu/) | 8 |
 | [Súmula](sum/) | 19 |
@@ -42,3 +42,5 @@ Em 05/11/2026, onze páginas dos exemplares vinculados às fichas 63286, 16255, 
 A primeira parte dos ajustes de apresentação de outras 19 páginas foi integrada nas fichas 63286, 16695, 16137, 18753 e 16121: negritos, itálicos e sublinhados pontuais delimitados pelo cotejo por imagem, com texto verbal preservado. A reprodução dos demais destaques e do aparato gráfico continua pendente, explicitada em cada página; o recorte não constitui aceite tipográfico integral. A folha de assinatura sem identificação processual autônoma da ficha 16137 conserva sua ressalva de pertinência. Nenhum ID novo.
 
 O [exemplar de relatório disponibilizado no protocolo 001812/2025](cons/complementos/exemplar-relatorio-001812-2025.md), vinculado pela ficha 55084, tem 17 páginas transcritas e cotejadas em revisão independente integral. A capa/identificação/folha de assinatura e os rodapés do corpo apresentam números processuais diferentes, preservados sem conciliação. O relatório e a folha de assinatura permanecem separados do acórdão; não geram ID novo. Matrículas e CPF/CNPJ pessoais ocultados integralmente. A publicação documenta o exemplar, sem resolver o vínculo entre os números ou validar a decisão e os autos.
+
+Dois posts novos do catálogo, 64041 e 64193, foram integrados após cotejo independente dos HTML e de onze páginas PDF (6 + 5). São os Acórdãos 522/2026-PLENO e 513/2026-PLENO nos respectivos exemplares, sem incorporar automaticamente as peças citadas. O órgão passa a 419 IDs, dos quais 389 consultas; o alias 17231 permanece na ficha 16118, sem duplicação. O catálogo capturado tem 39 páginas e 390 posts distintos, estado que não certifica exaustividade histórica. A união estrutural das capturas passa a 492 PDFs/2.127 páginas físicas; isso não equivale a revisão ou aceite de todas essas páginas. #201 aberta.

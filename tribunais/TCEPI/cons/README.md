@@ -1,6 +1,6 @@
 # TCEPI · Consulta
 
-**387 registros.** [Voltar ao tribunal](../)
+**389 registros.** [Voltar ao tribunal](../)
 
 - [CONS Planejamento. Abertura de créditos extraordinários para cobrir despesas correntes ou de capital do município. (2012)](tcepi-consulta-15961.md) — Disponível no catálogo; situação jurídica atual não informada em campo próprio
 - [CONS Planejamento. Abertura de créditos extraordinários até a apreciação dos projetos de leis orçamentárias (LDO e LOA). (2016)](tcepi-consulta-15964.md) — Disponível no catálogo; acórdão vinculado cotejado nas duas páginas por imagem e revisão independente; vigência não inferida
@@ -389,7 +389,11 @@
 - [CONS Licitação. Alienação direta. Bens móveis inservíveis. Bens antieconômicos ou irrecuperáveis. Doação. Requisitos](tcepi-consulta-62882.md) — Disponível no catálogo; situação jurídica atual não informada em campo próprio
 - [CONS Licitação. Ata de Registro de Preço. Termo Aditivo.](tcepi-consulta-63286.md) — Disponível no catálogo; situação jurídica atual não informada em campo próprio
 - [CONS Pessoal. Estágio. Regulamentação do programa de estágio. Edição de atos normativos internos.](tcepi-consulta-63995.md) — Disponível no catálogo; situação jurídica atual não informada em campo próprio
+- [CONS Pessoal. Aumento de despesa. Reestruturação remuneratória no âmbito do Poder Legislativo Municipal. Eleição federal e estadual.](tcepi-consulta-64041.md) — Ficha HTML e PDF cotejados integralmente; assinaturas não autenticadas e vigência não inferida
+- [CONS Pessoal. Possibilidade de pagamento de gratificação de presença (jeton) em favor dos membros dos conselhos deliberativo e fiscal do RPPS. Requisitos e condições.](tcepi-consulta-64193.md) — Ficha HTML e PDF cotejados integralmente; assinaturas não autenticadas e vigência não inferida
 
 Em 05/11/2026, a classificação contextual dos 98 flags restantes separou 88 falsos positivos, nove ocorrências de corrupção lexical e uma suspeita. Os nove PDFs envolvidos (24 páginas documentais, não 24 páginas necessariamente corrompidas) foram transcritos por imagem e cotejados integralmente por GPT-6 Astra. As fichas 16025, 16151, 16860, 16869, 16309, 16654, 16306, 16021 e 59065 receberam o texto revisado; CPF permanece ocultado e códigos documentais preservados. Sem novos IDs. A classificação não certifica as páginas sem flag nem encerra automaticamente o aceite global da issue #201.
 
 [Recortes contextuais da compilação até 2007](complementos/compilacao-ate-2007-recortes.md): páginas 2–5, 7–12 e 14–16 cotejadas integralmente, sem criação de consultas ou atribuição automática dos quadros às fichas que compartilham o PDF. Os votos de 15976 e 16230 têm três páginas incorporadas em cada ficha, separadas dos respectivos acórdãos. Demais fontes e atos continuam pendentes.
+
+Dois posts adicionais foram identificados na paginação capturada do catálogo em 05/11/2026: 64041 e 64193. Os respectivos HTML e onze páginas PDF (6 + 5) foram transcritos e revisados integralmente por imagem, preservadas variantes, peças e ocultações pessoais. A captura de 39 páginas contém 390 posts distintos: 389 consultas com ID e o alias 17231 já vinculado à ficha 16118, sem criar ID para esse alias. Essa enumeração é delimitada à captura e não certifica completude histórica ou as demais fontes.
