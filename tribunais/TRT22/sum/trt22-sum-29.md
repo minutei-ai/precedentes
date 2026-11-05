@@ -30,3 +30,9 @@ A publicação de lei municipal instituidora de regime jurídico único, mediant
 **Publicação no DEJT:** Publicada no DEJT nº 2003 de 20.06.2016
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Inteiro teor dos atos de apoio
+
+As [resoluções e o acórdão de apoio](atos-ra48-2016-ra116-2023-proad3496.md) foram incorporados após cotejo integral das 13 páginas em imagem, com correções de ordem de assinatura e título aplicadas. São documentos compartilhados, sem novo ID. As demais referências apenas citadas continuam com os limites descritos acima.
+
+O título da RA 48 começa com “LEI MUNICIPAL. …”, enquanto o título do catálogo acima começa com “VALIDADE E EFICÁCIA DE LEI MUNICIPAL. …”. O corpo coincide, mas os títulos não foram uniformizados.

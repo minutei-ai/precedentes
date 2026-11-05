@@ -3018,3 +3018,7 @@ O [índice da série](tribunais/PGEPR/oa/) foi atualizado de 80 para 102 fichas 
 ## TJGO — conclusão da reconciliação documental da issue #184
 
 Os sete PDFs já incorporados antes do lote de 78 foram recapturados com hashes idênticos às fichas e tiveram as 13 páginas integralmente cotejadas em imagem, sem correção textual obrigatória. Com o lote complementar, ficam reconciliados os 85 documentos do catálogo: 71 ODTs pelo XML integral e recursos gráficos inventariados, mais 14 PDFs com 27 páginas lidas em imagem. A comparação ODT não certifica paginação renderizada; limites de ênfase, imagens e rodapés sobrepostos estão declarados. Preservam-se as identidades 1-A/1 histórica, o original de 2022 e a revisão de 2024 da 76, as atribuições de cancelamento e os tamanhos divergentes do catálogo. A issue trata desse recorte documental, sem afirmar exaustividade histórica ou vigência. [Índice e limites](tribunais/TJGO/sum/). Delta zero.
+
+## TRT22 — atos prioritários vinculados às Súmulas 2, 17 e 29
+
+Foram incorporadas as 13 páginas da RA 48/2016, RA 116/2023 e acórdão do PROAD 3496/2022, após cotejo visual integral e aplicação dos dois achados obrigatórios de ordem de assinatura e título. A página 7 do acórdão é branca. Os títulos distintos da Súmula 29, datas de publicação/assinatura e limites de ênfase permanecem atribuídos. São [documentos de apoio](tribunais/TRT22/sum/atos-ra48-2016-ra116-2023-proad3496.md), sem novos IDs. Capturas anteriores íntegras, links SGI atuais HTTP 403; demais atos e IUJs da #247 pendentes.
