@@ -1,6 +1,6 @@
 # MPMG · Enunciados de súmulas do CSMP
 
-**68 identidades**, números 1 a 68. [Voltar ao órgão](../)
+**69 identidades**, números 1 a 69. [Voltar ao órgão](../)
 
 O caderno identificado pela Diretoria Executiva do CSMP em 11/09/2024 contém 53 registros com texto e 15 somente com “REVOGADO”: 1, 9, 11, 12, 14, 18, 21, 28, 34, 35, 38, 42, 48, 54, 60. Na coleta inicial, esses quinze foram mantidos como avisos, sem reconstrução. Em 05/11/2026, os quinze registros receberam redações históricas de fontes separadas, cotejadas integralmente por imagem e revisão independente; as variantes e os limites de cada testemunho estão nas fichas. As nove páginas foram lidas na imagem e na camada textual. A página 9 contém apenas “Diretoria Executiva do CSMP 11/09/2024”. O caminho local impresso no rodapé não foi publicado. Não houve OCR.
 
@@ -72,6 +72,7 @@ O caderno identificado pela Diretoria Executiva do CSMP em 11/09/2024 contém 53
 - [Enunciado 66](mpmg-en-sum-csmp-66.md)
 - [Enunciado 67](mpmg-en-sum-csmp-67.md)
 - [Enunciado 68](mpmg-en-sum-csmp-68.md)
+- [Enunciado 69](mpmg-en-sum-csmp-69.md)
 
 ## Fontes e limites
 
@@ -153,3 +154,8 @@ REF: 16ª SESSÃO ORDINÁRIA - Exercício 2024
 Ementa: Revogação e alteração de Enunciados de Súmulas - Ata publicada no DOMP/MG em 08/10/2024.
 
 “Em prosseguimento, a Presidência submeteu à apreciação o Procedimento Administrativo Interno nº 111/2024, SEI nº 19.16.0961.0095892/2024-60, relacionado à proposta de alteração/revogação de súmulas do Conselho Superior, tendo em vista as alterações legislativas introduzidas pela Lei Complementar Estadual n.º 163/2021 na Lei Orgânica do Ministério Público do Estado de Minas Gerais, apresentada pelo Superintendente dos Órgãos Colegiados, Alexandre Carlos Botrel. A Conselheira- Relatora Ana Luiza de Abreu Moreira proferiu o seu voto e concluiu pela revogação dos Enunciados nºs 18, 21 e 42, e pela reformulação do Enunciado nº 32, que passará a ter a seguinte redação: “Em relação ao exercício do direito assegurado no § 1º do artigo 177 da Lei Complementar nº 34/1994, a vaga decorrente da remoção posterior será provida segundo os idênticos critérios e preferências legais estabelecidos originariamente”. O voto da Conselheira-Relatora foi acolhido por todos.”
+
+
+## Compilação atualizada em 06/10/2026
+
+O [arquivo oficial de seis páginas](https://www.mpmg.mp.br/data/files/B0/84/1F/E4/6E211A109C4C4F0A89A8F9C2/02%20-Enunciados-sum-CSMP-Geral%20%2006.10.pdf), recapturado em 05/11/2026, tem 265.184 bytes e SHA-256 `851533e6e7b364669cc54f39bd5dafd9eeec48851b60df23e161aee3214b3042`. Não substitui documentalmente o testemunho de nove páginas de 2024: os nºs 37 e 53 ficam só como REVOGADO e o nº 69 é acrescentado. Os três blocos foram cotejados integralmente por imagem e revisão independente. Não se verificaram todos os demais corpos dessa nova compilação. Aprovação/publicação do nº 69 permanecem informações da nota, cujas datas de publicação são posteriores à criação técnica e à atualização indicada pelo catálogo. Não se inferiu vigência, ato de revogação ou relação de substituição entre os três números.

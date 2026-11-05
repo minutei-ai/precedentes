@@ -3126,3 +3126,6 @@ No recorte da issue215, os quinze históricos do MPMG e os avisos de revisão ci
 
 
 PGECE: acrescentado o Parecer Referencial 05/2026, processo 31022.000829/2026-25, UVA/PROGEP. As 16 páginas foram cotejadas integralmente por imagem, com correções estruturais dos deltas aplicadas: parecer 1–12, checklist 13–14, aprovação 15 e IN 02/2024/Anexo na 16. Rótulo do portal (Normativo/UECE) separado da identidade impressa. A captura tem TLS não verificado; não autentica assinatura ou efeito jurídico. +1 ID, PGECE passa a 2. PDFs e intermediários privados, somente Markdown público; inventário histórico maior continua em revisão.
+
+
+MPMG: integrado o nº 69 da compilação oficial de seis páginas vinculada como atualizada em 06/10/2026, após cotejo integral do bloco por imagem e revisão independente. Datas de aprovação/publicação atribuídas à nota, não verificadas em ata/diário. Rótulos de revogação dos nºs 37 e 53 acrescentados como variantes de 2026, sem apagar as redações de 2024 ou inferir substituição. +1 ID, MPMG passa a 69; permanece fora deste cotejo o restante dos corpos da nova compilação.
