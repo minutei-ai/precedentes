@@ -2,7 +2,7 @@
 
 **68 identidades**, números 1 a 68. [Voltar ao órgão](../)
 
-O caderno identificado pela Diretoria Executiva do CSMP em 11/09/2024 contém 53 registros com texto e 15 somente com “REVOGADO”: 1, 9, 11, 12, 14, 18, 21, 28, 34, 35, 38, 42, 48, 54, 60. Esses quinze não foram apresentados como enunciados integrais. O corpo antigo não foi reconstruído. As nove páginas foram lidas na imagem e na camada textual. A página 9 contém apenas “Diretoria Executiva do CSMP 11/09/2024”. O caminho local impresso no rodapé não foi publicado. Não houve OCR.
+O caderno identificado pela Diretoria Executiva do CSMP em 11/09/2024 contém 53 registros com texto e 15 somente com “REVOGADO”: 1, 9, 11, 12, 14, 18, 21, 28, 34, 35, 38, 42, 48, 54, 60. Na coleta inicial, esses quinze foram mantidos como avisos, sem reconstrução. Em 05/11/2026, os quinze registros receberam redações históricas de fontes separadas, cotejadas integralmente por imagem e revisão independente; as variantes e os limites de cada testemunho estão nas fichas. As nove páginas foram lidas na imagem e na camada textual. A página 9 contém apenas “Diretoria Executiva do CSMP 11/09/2024”. O caminho local impresso no rodapé não foi publicado. Não houve OCR.
 
 - [Enunciado 1](mpmg-en-sum-csmp-1.md)
 - [Enunciado 2](mpmg-en-sum-csmp-2.md)
@@ -86,7 +86,7 @@ Em 04/11/2026 os dois avisos mpnormas e as edições correspondentes do Diário 
 - [Aviso de 05/08/2025](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D827-28-aviso_csmp_05_08_2025.pdf): 371.208 bytes, SHA-256 `de6de37b8a5c7d9b0a98426e2bda58e8fe640ad8f7b7e89d771210cd5895c821`, 1 página. Comunica revogação de 30, 41 e 44 na 20ª Sessão Ordinária de 04/08/2025 e reproduz os três textos. Conferência cruzada com o [DO de 05/08/2025, p. 3](https://www.mpmg.mp.br/diariooficial/DO-20250805.PDF) (355.757 bytes, SHA-256 `e5edcc298f7c2c3f915eb37844cded580a214754a7d94b77fac75dd1a222c0df`).
 - [Aviso rotulado 05/11/2025 no arquivo `aviso_csmp_07_11_2025.pdf`](https://mpnormas.mpmg.mp.br/files/1/1/1-1-D87D-28-aviso_csmp_07_11_2025.pdf): 368.438 bytes, SHA-256 `85d217a15788b5d3622e123cf5a5c49f4c4eb84ecce0905acf74dcb93212296d`, 1 página. Comunica revogação de 20, 26, 27, 31, 32, 36, 40, 43, 45, 46, 47, 49 e 57 na 31ª Sessão Ordinária de 03/11/2025 e informa que o teor passou a integrar o Regimento Interno. O PDF data “Belo Horizonte, 5 de novembro de 2025”. Conferência cruzada com o [DO de 07/11/2025, p. 5](https://www.mpmg.mp.br/diariooficial/DO-20251107.PDF) (448.566 bytes, SHA-256 `13f5dbc8aa076f78d3dbbe634f8d8c7e16d57c261c3a3a31997c2b352a5ed15c`). Nesta consulta, a extração do Regimento Interno anexo ao DO não isolou blocos “ENUNCIADO nº …” para esses números.
 
-Os quinze registros do caderno de 11/09/2024 que trazem só “REVOGADO” (1, 9, 11, 12, 14, 18, 21, 28, 34, 35, 38, 42, 48, 54, 60) continuam sem corpo histórico recuperado. Nenhuma ausência de nota no caderno foi classificada como vigência atual.
+Os quinze registros do caderno de 11/09/2024 que trazem só “REVOGADO” (1, 9, 11, 12, 14, 18, 21, 28, 34, 35, 38, 42, 48, 54, 60) agora preservam também redações históricas recuperadas. O nº 54 mantém original e republicação de 2015 como testemunhos distintos; os demais indicam as respectivas fontes e limites. Isso não comprova a recuperação de toda versão intermediária. Nenhuma ausência de nota no caderno foi classificada como vigência atual.
 
 ## Deliberacoes documento comum
 
