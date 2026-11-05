@@ -50,3 +50,7 @@
 - [Processo 0001772-54.2016.8.04.0000](tjam-irdr-proc-00017725420168040000.md) — Não Admitido, conforme o catálogo próprio
 
 O catálogo próprio publica 32 fichas, conciliadas em 35 registros do acervo: 33 legados do BNP e dois identificados por processo. Uma ficha corresponde ao conteúdo repetido nos quatro cadastros BNP 310, 410, 510 e 610, mantidos sem fusão. As oito lacunas cadastrais 6010 a 6610 e 7010 não foram resolvidas por essa conciliação.
+
+## Reconsulta das lacunas BNP 6010–7010 — 04/11/2026
+
+A leitura integral do catálogo NUGEP/TJAM (`irdr-nugep?showall=1`) não localizou os identificadores 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 nem o paradigma BNP `00017771720198043801`. A API Pangea/BNP respondeu HTTP 500. Os oito registros legados permanecem no acervo sem teor de questão/tese; ver notas em cada ficha. Evidências privadas em `/home/yorizel/.local/share/precedentes-coleta-planejamento/tjam-irdr-20261104/`.
