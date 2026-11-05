@@ -2954,3 +2954,8 @@ Integrado o corpo integral da Deliberação 18/2021, identificado pela nota ofic
 Integrados os Acórdãos 5530/2015, 1854/2011, 1855/2011 e 462/2007 após revisão independente das 24 páginas integrais. Corrigidos artefatos de espaçamento e marcadores, restaurados sobrescritos/destaques e notas separadas do corpo. Marca d’água, carimbos recortados, seção vazia, numeração repetida e votação por maioria permanecem atribuídos à fonte. Matrícula na nota do 5530 omitida com aviso, preservando nome/função. Total do lote recuperado: onze de 13 documentos/78 de 102 páginas integrados. Os dois restantes seguem pendentes; #194 permanece aberta. Zero IDs/órgãos novos.
 
 No Acórdão 462/2007, a reconsulta confirmou resumo Lumis sobre pregão pertencente ao Acórdão 423/07, conforme página temática e PDF próprios. O título/processo do 462 e o documento principal de previdência permanecem preservados; o resumo cruzado e o DOC de outro ato são atribuídos separadamente.
+
+
+## TRT05 — duas páginas digitalizadas transcritas e conferidas
+
+Integrados os atos das Súmulas 5 e 10: Resoluções 50/2004 e TRT05 009/2010, uma página cada, por leitura direta seguida de revisão independente integral das imagens e ampliações. Corrigidos “edição” e “Suzana Pereira” na certidão da nº 10; notas preservam a sobreposição por rubrica, recorte da certidão da nº 5 e protocolo omitido. Datas de sessão/fecho/publicação, grafias, aspas e diferenças com o catálogo mantidas por fonte. O 403 da reconsulta atual foi documentado sem invalidar os PDFs oficiais previamente capturados e conferidos. A pendência de transcrição das duas imagens está resolvida; acórdãos de mérito vinculados não foram tratados como coletados. Zero IDs/órgãos adicionais (#188).

@@ -87,3 +87,8 @@
 - [SUM 83](trt05-sum-83.md) — Situação não informada
 - [SUM 84](trt05-sum-84.md) — Situação não informada
 - [SUM 85](trt05-sum-85.md) — Cancelada
+
+
+## Resoluções das Súmulas 5 e 10 — páginas digitalizadas conferidas
+
+As fichas [5](trt05-sum-5.md) e [10](trt05-sum-10.md) incluem as páginas integrais das Resoluções 50/2004 e TRT05 009/2010, com certidões e ressalvas sobre recorte/rubrica. Revisão independente cobriu as duas imagens inteiras; variantes do catálogo e do PDF ficaram separadas. Não foram inferidos vigência ou teor dos acórdãos de mérito vinculados. Sem novo ID ou mudança de contagem.
