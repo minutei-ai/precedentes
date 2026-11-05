@@ -3117,3 +3117,6 @@ Cinco súmulas regionais (1–5) já integradas foram cotejadas integralmente co
 
 
 A recuperação MPMG foi completada no recorte dos quinze históricos em 05/11/2026: o nº 54 recebeu duas reproduções CEAF/DIC do MP Normas, original de 17/06/2015 e republicação de 27/06/2015, cotejadas integralmente por imagem e revisão independente. Variantes e notas preservadas separadamente, sem inferir prevalência ou vigência. Avisos de 2018 não foram confundidos com corpos históricos, e a nota de vínculo com a 12ª Sessão foi atribuída à reprodução, não à página 4 do Diário. Os quinze corpos anteriores estão documentados; não significa recuperação de todos os atos de origem ou de toda versão intermediária. Total MPMG permanece 68 IDs.
+
+
+TCEPI: o parecer do MPC 2012PC0005, TC-E008817/12, ligado à consulta16854 de Marcolândia, recebeu duas páginas transcritas e cotejadas integralmente por imagem e revisão independente em05/11/2026. Erros e incoerências da fonte preservados, carimbo manuscrito com leitura provável. Peça de apoio no ID existente, sem aumento da contagem; demais peças seguem em conferência.
