@@ -47,3 +47,7 @@
 - [SUM 43](trt13-sum-43.md) — Situação não informada
 - [SUM 44](trt13-sum-44.md) — alterada
 - [SUM 45](trt13-sum-45.md) — Situação não informada
+
+## Apoio documental DJEN —05/11/2026
+
+As súmulas22 e36 receberam notas sobre quatro certidões oficiais DJEN, com seis páginas cotejadas integralmente por revisão independente Astra. O campo Tipo de documento da comunicação não converte a certidão em inteiro teor do acórdão. Datas de disponibilização, publicações citadas pelo histórico, destinatários e códigos conservam suas fontes próprias, sem inferência de republicação ou cancelamento. Íntegras e demais atos de apoio continuam pendentes na #243; as45 identidades sumulares permanecem.
