@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Inventário estrutural e deltas de 05/11/2026: 43.887 identidades em 212 órgãos.** A última recontagem integral, no commit [`de85dcc94`](https://github.com/minutei-ai/precedentes/commit/de85dcc94b534730c04c706a1b2062ec89eeaaa8), confirmou 43.868 arquivos com Identificador e 43.868 IDs únicos, sem duplicatas. As integrações posteriores do PGEPE 004/2023, do Assento MPAL 008/2019, da Súmula administrativa TJMRS 01/2018 e do Enunciado MPT 23 acrescentaram quatro IDs conferidos como distintos. Os 12 enunciados do CSMP-MPPB acrescentam 12 IDs e um órgão; não houve nova recontagem integral após esses deltas. Documentos complementares com Registro relacionado/Identificador de suporte ficam fora da contagem. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
+**Recontagem integral de 05/11/2026: 43.887 identidades únicas em 212 órgãos, sem duplicatas.** Base [`4abb1ec88`](https://github.com/minutei-ai/precedentes/commit/4abb1ec88eae7121d23e64435a618a7830d9de21). Foram contados os campos “Identificador” das fichas Markdown; documentos complementares com Registro relacionado/Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -219,5 +219,3 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TSE](TSE/) | 73 |
 | [TST](TST/) | 1.613 |
 | **Total** | **43.887** |
-
-A integração dos três enunciados do CAO Criminal/MPAP acrescenta três IDs aos deltas acima, sem novo órgão e sem recontagem integral.
