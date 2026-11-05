@@ -16,7 +16,7 @@ Data apresentada na ficha: 8 de março de 2018 10:54. O título e o identificado
 
 ### Documento vinculado pela fonte
 
-[Abrir o documento oficial](https://www.tcepi.tc.br/wp-content/uploads/2024/11/consulta-tc-006462-08-resolucao-418-08_ocred.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.
+[consulta – tc – 006462-08 (resolução 418-08)_ocred](https://www.tcepi.tc.br/wp-content/uploads/2024/11/consulta-tc-006462-08-resolucao-418-08_ocred.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.
 
 O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
