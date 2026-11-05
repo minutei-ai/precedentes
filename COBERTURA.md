@@ -2974,3 +2974,7 @@ Integrados os últimos documentos, Acórdãos 1294/2019 (15 páginas) e 3295/201
 ## TRF02 — atribuição da publicação do cancelamento das Súmulas 19/33
 
 Recapturado o PDF do PA 2016.02.01.900166-9 em três downloads idênticos; páginas decisórias 1, 2, 14 e 15 inspecionadas para identidade e escopo. A certidão confirma cancelamento somente de 19 e 33, no julgamento de 03/08/2017; o cancelamento da nº 5 pertence a processo distinto indicado no catálogo. O rótulo PA 2001 no link permanece separado do número 2016 impresso. Corrigida a atribuição da referência e-DJE2R de 14/08/2017 p. 9: é informação da página oficial, sem conferência autônoma do caderno nesta coleta, cujo portal legado/API permaneceu bloqueado. Ato primário recuperado, transcrição do trecho decisório em revisão; #249 permanece aberta. Zero novos IDs/órgãos.
+
+## TRF2 — certidão do cancelamento das Súmulas 19 e 33
+
+O bloco decisório da certidão, página física 15/16 e folha impressa 44 do PA 2016.02.01.900166-9, foi transcrito integralmente e conferido em imagem, com leitura das páginas 1, 2 e 14 para contexto. Cancela somente as Súmulas 19 e 33, em julgamento de 03/08/2017. O rótulo PA 2001 do catálogo continua atribuído separadamente. A disponibilização de 14/08/2017 no e-DJE2R, p.9, é referência do catálogo, sem caderno recuperado. O relatório/voto das demais páginas não foi transcrito neste complemento. Documento de apoio compartilhado, delta zero.
