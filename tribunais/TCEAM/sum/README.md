@@ -31,3 +31,8 @@
 - [SUM 28](tceam-sum-28.md) — Situação jurídica atual não informada em campo próprio; há pendências ou divergências documentais indicadas no texto
 - [SUM 29](tceam-sum-29.md) — Situação jurídica atual não informada em campo próprio; confira os documentos e suas ressalvas
 - [SUM 30](tceam-sum-30.md) — Situação jurídica atual não informada em campo próprio; confira os documentos e suas ressalvas
+
+
+## Súmula 21 — publicação primária alternativa recuperada
+
+A [ficha da nº 21](tceam-sum-21.md) inclui o bloco integral do Processo 059/2008 no DOE 553, p. 53, que adota a proposta de súmula. Revisão independente conferiu toda a página-alvo e o limite na página 54; não há continuação do bloco. O número da Súmula 21, Decisão 373/2012 e sessão de 13/12/2012 permanece atribuído ao post oficial de 2013, sem projetá-lo no texto do DOE. Variantes preservadas; downloads wpfd divergentes não foram tratados como corrigidos. Mesmo ID, contagem inalterada.

@@ -2959,3 +2959,8 @@ No Acórdão 462/2007, a reconsulta confirmou resumo Lumis sobre pregão pertenc
 ## TRT05 — duas páginas digitalizadas transcritas e conferidas
 
 Integrados os atos das Súmulas 5 e 10: Resoluções 50/2004 e TRT05 009/2010, uma página cada, por leitura direta seguida de revisão independente integral das imagens e ampliações. Corrigidos “edição” e “Suzana Pereira” na certidão da nº 10; notas preservam a sobreposição por rubrica, recorte da certidão da nº 5 e protocolo omitido. Datas de sessão/fecho/publicação, grafias, aspas e diferenças com o catálogo mantidas por fonte. O 403 da reconsulta atual foi documentado sem invalidar os PDFs oficiais previamente capturados e conferidos. A pendência de transcrição das duas imagens está resolvida; acórdãos de mérito vinculados não foram tratados como coletados. Zero IDs/órgãos adicionais (#188).
+
+
+## TCEAM — Processo 059/2008 e proposta vinculada à Súmula 21
+
+Recuperada publicação primária alternativa no DOE nº 553 de 20/12/2012, p. 53: bloco integral do Processo 059/2008, com decisão que adota proposta de súmula no item 3.5. Revisão independente conferiu palavra a palavra as duas colunas e abriu p. 54 para confirmar que não há continuação. O post institucional de 22/05/2013 é a fonte da atribuição Súmula 21/Decisão 373/2012/sessão de 13/12/2012; o bloco do DOE não imprime esses campos. Mantidas redações distintas do DOE e do post, inclusive CELETISTA/CELESTISTA e numeração I/l. Downloads wpfd continuam divergentes nas capturas, sem afirmar correção do portal ou vigência atual. Publicação do processo é apoio à ficha existente; zero IDs/órgãos novos (#199).
