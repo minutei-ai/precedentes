@@ -29,7 +29,7 @@ O PROCURADOR-GERAL DO ESTADO, no uso das atribuições que lhe conferem o inciso
 TEMA DE INTERESSE
 Parcerias entre a administração pública e as organizações da sociedade civil.
 Interpretação do artigo 83, § 2º, da Lei n° 13.019/2014.
-Substituição do instrumento das parcerias firmadas antes da entrada em vigor da Lei 13.019/2014.
+Substituição do instrumento das parcerias firmadas antes entrada em vigor da Lei 13.019/2014.
 
 As parcerias de que trata o § 2º do art. 83 da Lei 13.019/2014 deverão ser substituídas, até 23 de janeiro de 2017, por termo de fomento ou termo de colaboração, conforme o caso, independentemente da realização de procedimento de seleção do parceiro, quando este tenha sido escolhido na forma da legislação de regência da época da celebração, mantidas as condições originais que forem compatíveis com a referida lei, acrescidas das cláusulas essenciais exigidas pelo art. 42 e adotadas as providências para monitoramento, avaliação e prestação de contas, sendo vedada sua prorrogação. (redação dada pelo Despacho n° 09/2017-PGE)
 
