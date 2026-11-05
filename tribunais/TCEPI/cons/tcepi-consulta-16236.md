@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Agente Político. Subsídio dos vereadores. Aumento para vigorar na mesma legislatura. Vinculo à revisão geral anual do funcionalismo público municipal. Índice oficial a ser observado. (2012)
 - **Identificador:** `tcepi-consulta-16236`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 6 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; acórdão vinculado cotejado nas duas páginas por imagem e revisão independente; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -14,139 +14,72 @@ Título literal da publicação: Agente Político. Subsídio dos vereadores. Aum
 
 Data apresentada na ficha: 12 de março de 2018 14:10. O título e o identificador da publicação não foram convertidos em número de processo. Datas de página, julgamento e publicação nos documentos permanecem distintas; a presença no catálogo não comprova vigência.
 
-### Documento vinculado pela fonte
+### Documento vinculado pela fonte — acórdão conferido
 
-[Abrir o documento oficial](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Ac%C3%B3rd%C3%A3o-16.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.
+[PDF oficial](https://www.tcepi.tc.br/wp-content/uploads/2018/03/Ac%C3%B3rd%C3%A3o-16.pdf), duas páginas, SHA-256 `16427bbf11923066dc02e1d8f55ab8b7c7bb103979b832a7def1744b0e116a72`. Recaptura de 05/11/2026: HTTP 200, PDF real e bytes idênticos ao exemplar anterior.
 
-O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
+Oito páginas dos quatro acórdãos cotejadas integralmente por imagem e revisão independente; os trechos corrigidos tiveram rechecagem de delta. A palavra “em” na data da consulta 15976 foi restaurada e conferida na imagem. Não são páginas em branco. Erros impressos, grafias divergentes e leituras incertas locais foram preservados; não se completaram a ementa truncada ou a hora cortada. Colchetes descrevem elementos gráficos/manuscritos, sem atribuir rubricas por linha. Tipografia e disposição de assinatura simplificadas; identificadores pessoais nas linhas e-TCE ocultados. Não se autenticam assinaturas nem se infere vigência.
 
-#### Página 1 do PDF oficial
+#### Página física 1 de 2
 
-    Fí
-                              Estado do Piauí                                                     BUNL )E CC
-                                                                                                                                STADL 0 PIAUi
-                              Tribunal de Contas           °iOC                                        N          i         fs
-                              Gab. C onsa . Lilian Martins                                                  -
-    
-                                                                                                   SECRETÁRtA              9i    ONÁRIo
-                                                                                            .? ~ blic ad   % no                  E le
-                                                         ACORDÃo          N' 2.549/12
-                                                                                                   em
-    
-         PROCESSO TC- E N°8. 5 7411 2
-                                                                                                  SECRET.fESESSÕES
-         l)E(ISÃ(.) N' I.56112
-    
-         ASSUNTO: CONSI)LFA —CÂMARA MUNICIPAL DE [SAÍAS COELHO.
-         INTERESSADA; FRANCISCO JOSÉ DE AZEVEDO.
-    
-         l'ROCURÀI)OR (A): R.AÏSSA MARIA REZENDE l)E DEUS BARBOSA.
-         RELÁFORÀ: CONS. LILIÁN DE ALMEIDA VELOSO NUNES MARTFNS
-    
-                                                                                   inóninie, pelo cónhecinusniu da Consulta. 0 'do é
-                                                                                   passivei a vOt(ç'ão d fs-rye(a dc revisão do subsidw
-                                                                                   cklro ria legislatura parei vigorar           no mesmo
-                                                                                   pc'ri uda, poiS ci ('ons/iluição Federal no ari. 29, VI,
-                                                                                   iulpi)i' que a jismmçàa dos subsidios serd ftuo cai
-                                                                                   (:a(ha legisla fura parei vigorar na subseqüente: 2) E
-                                                                                   vianda ei vineulaçho da reajuste dos subsidias dos
-                                                                                                ii rmvsão geral anual do         nc,onaIisma
-                                                                                   1,,ih/ico iriunicipol; 3) Não cabe à Corte de Conta
-                                                                                   indicar indice oficial a Ser observado, una ve: que
-                                                                                   se traia mie decisão politica de cada federal
-    
-    
-    
-    
-          C()NSU1JFA          -    CAMARA          MUNICIPAL DE ISAÍAS COELI-LO                         -   Questionamento sobre a
-    
-           ossibilidadc da         Cámara      Municipal promover revisão OU              atUal)7..aÇãO      anual dos subsídios dc
-    
-          t.cieinlores t.IC!ttru tia mesma Icuisltitura.
-    
-    
-    
-          \'iStOs.   relatados e di s cillidos os presentes autos. considerando a infoririação                            da V Divisão de
-    
-          Fiscaliiaçãtm da Adm iuitração               'vi linicipal     DFAM (fis.     711 1), a informaçào da Comissão ele
-    
-          Recimemo e Jurisprudencia ( (is. 14). a msnit'estaç.ão do Ministério I'úhiico de Contas ((is. 37/39) e o
-    
-          mais que dos autos consta, decidiu o Plenário. unãnime, contrário à manifestação ministerial.
-    
-            onliecei'   da presente consul(a dada a relevãncia e o interesse pi'iblico que envolve a questão, para
-    
-           respondê-la nos seguin(es termos: 1) Não é possível a volação dc projeto dc revisão do SUl)SídiO
-           dentro da legislatura para vigorar no mesmo período, i.1t)iS a Coiisti:tuição Federal nO art. 29, VI,
-    
-           iiiipõc t iie :i fixação dos sul,siilins scri feita cm cada legislatura para vigorar na subseqüente 2)
-    
-           E ve'dacla     i       iriculação do reajuste elos subsídios (los verea(iores à revisão geral anual do
-    
-           funcionalismo público municipal;                  3) Não cabe à Corte de Contas indicar índice oficial a ser
-           observado, urna vez que se trata de decisão política de cada ente da federação. Tudo nos termos
-    
-           do voto da Relatora. (is. 44/4.
-    
-    
-    
-           Presentes: Cons Joaquim               Kenocd' Nogueira Rarros (Presidente), Abelardo Pio Vilanova e Silva,
-           O!;imm    Rhàlu de Carvalho 1-i111a, l li:ui de Almeida \1 eloso Nijues Martins e os Cons. Substitutos
-                                                                                                                                                /.
-           G'ib Cøns 1 itian \lirtmns \çorcflo til 2, 549112 —Consutma         "                                      .
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
 
-#### Página 2 do PDF oficial
+ACORDÃO Nº 2.549/12
 
-    vI   t
-    
-                Ç)O   n0
-                              Estado do Piauí                                                 DE
-                                                                                                              TADO DO PIAUÍ
-                              Tribunal de Contas
-                              (-'Jab. Consa. Lilian Martins
-             l)e.lano Carneiro da Cunha Cimara_ convocado liara substituir o Cons. Anfrísio Ncto Lobão Castelo
-    
-             íraico (ausente por motivo justificado), Juckson Nobre \'eras, convocado para substituir o Cons.
-    
-             Lucimio Nuue Santos (ausente por motivo justificado) e Altsson Felipe de Arnújo. convocado para
-    
-             substituir a ( ous' Walttnia Maria No neira de Sonsa 1 .eal Alvarenga (auseme por motivo justificado).
-    
-    
-    
-             Represeiitante do Ministerio l'uh)icn de Contas presente: Procuradora - Geral Raïssa Maria
-    
-             Rcscnde dc Deus l3arbosa.
-    
-    
-    
-             Transcreva-se. Publique-se e Cumpra-se.
-    
-             Sessão Picruiria n' 52/12. cm Teresina. 10 de dezembro d 20 12.
-                                                                 /1      !
-                                                                    1/                 f
-    
-    
-    
-    
-             ( uns lu iquirii kenitids    oguii i 13 irius                      Prscnti
-    
-    
-    
-              Cons. Lilian de A. V. N. Martins
-    
-    
-    
-              Fui presente: Raïssn M. R. de 1). Barbosa                        ProcuracIor - Geral MPC-TCEíP]
-    
-    
-    
-    
-                (ian' Otii'Mtns;;
-    
-                                                                                                                              II
-    
+PROCESSO TC- E Nº 8.574/12
+DECISÃO Nº 1.586/12
+ASSUNTO: CONSULTA - CÂMARA MUNICIPAL DE ISAÍAS COELHO.
+INTERESSADA: FRANCISCO JOSÉ DE AZEVEDO.
+PROCURADOR (A): RAÏSSA MARIA REZENDE DE DEUS BARBOSA.
+RELATORA: CONSª. LILIAN DE ALMEIDA VELOSO NUNES MARTINS
+
+[Carimbo: [T]RIBUNAL DE CONTAS DO ESTADO DO PIAUÍ / PROC Nº [ms.: 8.5?? parcialmente encoberto pelo logotipo] FLS. [ms.: 51] / rubrica não atribuída / SECRETÁRIA - FUNCIONÁRIO.]
+[Carimbo: Publicado no Diário Oficial Eletrônico / nº [ms.: 036] página [ms.: 03] / em [ms.: ?2/02/13, primeiro dígito incerto] / rubrica não atribuída / SECRETARIA DAS SESSÕES.]
+
+Unânime, pelo conhecimento da Consulta. 1) Não é possível a votação de projeto de revisão do subsídio dentro da legislatura para vigorar no mesmo período, pois a Constituição Federal no art. 29, VI, impõe que a fixação dos subsídios será feita em cada legislatura para vigorar na subseqüente; 2) É vedada a vinculação do reajuste dos subsídios dos vereadores à revisão geral anual do funcionalismo público municipal; 3) Não cabe à Corte de Contas indicar índice oficial a ser observado, uma vez que se trata de decisão política de cada federal
+
+CONSULTA - CÂMARA MUNICIPAL DE ISAÍAS COELHO - Questionamento sobre a possibilidade da Câmara Municipal promover revisão ou atualização anual dos subsídios de vereadores dentro da mesma legislatura.
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação da V Divisão de Fiscalização da Administração Municipal  DFAM (fls. 7/11), a informação da Comissão de Regimento e Jurisprudência (fls. 14), a manifestação do Ministério Público de Contas (fls. 37/39) e o mais que dos autos consta, decidiu o Plenário, unânime, contrário à manifestação ministerial, conhecer da presente consulta dada a relevância e o interesse público que envolve a questão, para respondê-la nos seguintes termos: 1) Não é possível a votação de projeto de revisão do subsídio dentro da legislatura para vigorar no mesmo período, pois a Constituição Federal no art. 29, VI, impõe que a fixação dos subsídios será feita em cada legislatura para vigorar na subseqüente; 2) É vedada a vinculação do reajuste dos subsídios dos vereadores à revisão geral anual do funcionalismo público municipal; 3) Não cabe à Corte de Contas indicar índice oficial a ser observado, uma vez que se trata de decisão política de cada ente da federação. Tudo nos termos do voto da Relatora, fls. 44/48.
+
+Presentes: Cons. Joaquim Kennedy Nogueira Barros (Presidente), Abelardo Pio Vilanova e Silva, Olavo Rebêlo de Carvalho Filho, Lilian de Almeida Veloso Nunes Martins e os Cons. Substitutos
+
+[continua na página 2]
+
+Rubrica manuscrita e traços de protocolo aparecem ao lado da lista “Presentes”; a autoria da rubrica não é identificada.
+
+[Rodapé:] Gab. Consª Lilian Martins- Acórdão nº 2.549/12 – Consulta [trecho final degradado ilegível].
+[Nota: a ementa impressa termina truncada em “de cada federal”; não foi completada com a redação do corpo.]
+
+#### Página física 2 de 2
+
+Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
+
+[continuação dos conselheiros presentes:] Delano Carneiro da Cunha Câmara, convocado para substituir o Cons. [Anfrisio?, acento incerto] Neto Lobão Castelo Branco (ausente por motivo justificado), Jackson Nobre Veras, convocado para substituir o Cons. Luciano Nunes Santos (ausente por motivo justificado) e Alisson Felipe de Araújo, convocado para substituir a Consª Waltânia Maria Nogueira de Sousa Leal Alvarenga (ausente por motivo justificado).
+
+Representante do Ministério Público de Contas presente: Procuradora – Geral Raïssa Maria Resende de Deus Barbosa.
+
+Transcreva-se. Publique-se e Cumpra-se.
+
+Sessão Plenária nº 52/12, em Teresina, 10 de dezembro de 2012.
+
+Cons. Joaquim Kennedy Nogueira Barros [traços manuscritos sobre ou cruzando a linha; autoria não atribuível]
+Presidente
+
+Consª. Lilian de A. V. N. Martins [traços manuscritos sobre ou cruzando a linha; autoria não atribuível]
+Relatora
+
+Fui presente: Raïssa Mª. R. de D. Barbosa [traços manuscritos sobre ou cruzando a linha; autoria não atribuível]
+Procuradora - Geral MPC-TCE/PI
+
+[Carimbo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ / PROC Nº [ms.: 8.5?? encoberto] FLS. [ms.: 52] / rubrica não atribuída / SECRETÁRIA - FUNCIONÁRIO.]
+[Rodapé:] Gab. Consª Lilian Martins- Acórdão nº 2.549/12 – Consulta [trecho final degradado].
+[As rubricas e traços cruzam linhas; não se atribuiu autoria a cada linha. A grafia “Resende” nesta página difere de “REZENDE” na página 1.]
+
 
 ### Documento vinculado pela fonte
 

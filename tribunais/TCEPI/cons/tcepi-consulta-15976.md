@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Previdência. Acumulação de proventos de aposentadoria de cargo de professor em regime de dedicação exclusiva com outro cargo de professor em dedicação exclusiva no mesmo órgão. (2013)
 - **Identificador:** `tcepi-consulta-15976`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental parcial em 04/11/2026 (leitura visual nativa; glifos degradados marcados); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; acórdão vinculado cotejado nas duas páginas por imagem e revisão independente; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -14,43 +14,68 @@ Título literal da publicação: Previdência. Acumulação de proventos de apos
 
 Data apresentada na ficha: 13 de março de 2018 09:49. O título e o identificador da publicação não foram convertidos em número de processo. Datas de página, julgamento e publicação nos documentos permanecem distintas; a presença no catálogo não comprova vigência.
 
-### Documento vinculado pela fonte
+### Documento vinculado pela fonte — acórdão conferido
 
-[Abrir o documento oficial](http://www.tce.pi.gov.br/wp-content/uploads/2018/02/Ac%C3%B3rd%C3%A3o-3.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.
+[PDF oficial](https://www.tcepi.tc.br/wp-content/uploads/2018/02/Ac%C3%B3rd%C3%A3o-3.pdf), duas páginas, SHA-256 `68f61b59fab75225e20f8f43426ae40dc9a21b52b81e6405c98ee541f2cd6ab0`. Recaptura de 05/11/2026: HTTP 200, PDF real e bytes idênticos ao exemplar anterior.
 
-O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
+Oito páginas dos quatro acórdãos cotejadas integralmente por imagem e revisão independente; os trechos corrigidos tiveram rechecagem de delta. A palavra “em” na data da consulta 15976 foi restaurada e conferida na imagem. Não são páginas em branco. Erros impressos, grafias divergentes e leituras incertas locais foram preservados; não se completaram a ementa truncada ou a hora cortada. Colchetes descrevem elementos gráficos/manuscritos, sem atribuir rubricas por linha. Tipografia e disposição de assinatura simplificadas; identificadores pessoais nas linhas e-TCE ocultados. Não se autenticam assinaturas nem se infere vigência.
 
-#### Página 1 do PDF oficial
+#### Página física 1 de 2
 
-Transcrição visual parcial (04/11/2026, Read nativo do PDF oficial `Acórdão-3.pdf`, 86.840 bytes, SHA-256 `68f61b59fab75225…`). Scan rotacionado/sem camada textual confiável. Trechos lidos com segurança:
+Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
 
-    TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
-    [cabeçalho / Gab. Cons. Lilian Martins — confirmado visualmente]
-    ACÓRDÃO Nº 249/13
-    [metadados de processo/decisão parcialmente legíveis; valores exatos com ambiguidade tipográfica na digitalização]
-    ASSUNTO: CONSULTA
-    PROCEDÊNCIA: FUESPI — FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUÍ
-    [ilegível: campos de interessado/procurador/relatora com glifos degradados]
+ACORDÃO Nº 249/13
 
-    [corpo do acórdão — leitura parcial:] consulta sobre possibilidade de professor aposentado na FUESPI, em regime de dedicação exclusiva (DE), acumular os proventos de aposentadoria com outros, também DE, em decorrência de aprovação em concurso público, na mesma Universidade.
-    [ilegível: trechos intermediários do relatório/voto com degradação tipográfica]
-    Decisão plenária no sentido da possibilidade da acumulação de proventos com vencimentos referentes a dois cargos de professor com regime de dedicação exclusiva, desde que aposentado em um deles, com compatibilidade de horários (art. 37, XVI e § 10, CF/88); quanto aos proventos para possível aposentadoria, [trecho sobre 20 horas / LC nº 84/07 — parcialmente legível, números e símbolos tipográficos degradados].
-    [lista de Conselheiros presentes — nomes com glifos parcialmente ilegíveis nesta passagem]
+PROCESSO TC- E Nº 47.452/11
+DECISÃO Nº 79 /12
+ASSUNTO: CONSULTA.
+PROCEDÊNCIA: FUESPI   FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUÍ [trecho final sobreposto por carimbo]
+INTERESSADO: CARLOS ALBERTO PEREIRA DA SILVA.
+PROCURADOR (A): PLÍNIO VALENTE RAMOS NETO.
+RELATORA: CONSª. LILIAN DE ALMEIDA VELOSO NUNES MARTINS.
 
-Observações da conferência visual: Página física 1 de 2. A camada textual prévia no Markdown continha OCR/extração corrompida e foi substituída por esta leitura visual parcial, sem reconstruir glifos inseguros. Página física 1 de 2.
+[Carimbo: [T]RIBUNAL DE CONTAS DO ESTADO DO PIA[UÍ] / PROC Nº [ms.: 47.452/11] FLS. [ms.: 37] / rubrica não atribuída / SECRETÁRIA - FUNCIONÁRIO.]
+[Carimbo: …eletrônico / em [ms.: 07/03/13, leitura provável] / rubrica não atribuída / SECRETARIA DAS SESSÕES. Demais linhas ilegíveis.]
 
-#### Página 2 do PDF oficial
+Unânime, pelo conhecimento da Consulta. Para responder no sentido da possibilidade.
 
-Transcrição visual parcial (Read nativo):
+CONSULTA - FUESPI - FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUÍ - Posicionamento do TCE acerca da possibilidade de professor aposentado na UESPI, em regime de dedicação exclusiva (DE), acumular os proventos de aposentadoria com outros, também DE, em decorrência de aprovação em concurso público, na mesma Universidade.
 
-    TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
-    ACÓRDÃO Nº 249/13
-    [representante do MPC — nome parcialmente legível]
-    Transcreva-se. Publique-se e Cumpra-se.
-    Sessão Plenária nº 04/13, em Teresina, 07 de fevereiro de 2013.
-    [assinaturas — leitura integral dos nomes não segura]
+Vistos, relatados e discutidos os presentes autos, considerando a informação da Divisão de Aposentadoria - DAP (fls. 04/06), o parecer do Ministério Público de Contas (fls. 29/30), e o mais que dos autos consta, decidiu o Plenário, unânime, conhecer da presente consulta, dada a relevância e o interesse público que envolve a questão, para responder no sentido da possibilidade da acumulação de proventos com vencimentos referentes a dois cargos de professor com regime de dedicação exclusiva, desde que o mesmo seja aposentado em um deles, pois, neste caso, haverá compatibilidade de horários, como versa o art. 37, inciso XVI c/c § 10 da CF/88, e quanto aos proventos para uma possível aposentadoria, esta deverá ser de 20 horas semanais, em conformidade com a Lei Complementar nº 84/07, art. 139, § 3º, nos termos e pelos fundamentos expostos no voto da Relatora, juntado aos autos.
 
-Observações da conferência visual: Página física 2 de 2. Fecho de publicação lido; rubricas marcadas onde ilegíveis.
+Presentes: os Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga (Presidente), Luciano Nunes Santos, Anfrísio Neto Lobão Castelo Branco, Olavo Rebêlo de Carvalho Filho, Lilian de Almeida Veloso Nunes Martins e os Cons. Substitutos Jaylson Fabianh Lopes Campelo, em Substituição ao Cons. Joaquim Kennedy Nogueira Barros (em gozo de férias) e Delano Carneiro da Cunha Câmara, convocado para substituir, nesse processo, o Cons. Abelardo Pio Vilanova e Silva (ausente por motivo justificado).
+
+[Rodapé:] Gab. Consª Lilian Martins- Acórdão nº 249/13 – Consulta - [glifo final ilegível]
+[Pequena mancha/carimbo após o rodapé e traços manuscritos grandes à direita, sem autoria atribuída.]
+
+#### Página física 2 de 2
+
+Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
+
+ACORDÃO Nº 249/13
+
+Representante do Ministério Público de Contas presente: Procurador - José Araújo Pinheiro Júnior.
+
+Transcreva-se[,/;] Publique-se e Cumpra-se.
+
+Sessão Plenária nº 04/13, em Teresina[.?, pontuação degradada] 07 de fevereiro de 2013.
+
+Cons. Waltânia Mª. N. de S. L. Alvarenga [traços manuscritos sobre a linha; autoria não atribuível]
+Presidente
+
+Consª. Lilian de A. V. N. Martins [traços manuscritos sobre a linha; autoria não atribuível]
+Relatora
+
+Fui presente: José A. P. Júnior [traços manuscritos sobre a linha; autoria não atribuível]
+Procurador - MPC-TCE/PI
+
+[Carimbo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ / PROC Nº [ms.: 47.45?/11] FLS. [ms.: 38] / rubrica não atribuída / SECRETÁRIA - FUNCIONÁRIO.]
+[Rodapé:] Gab. Consª Lilian Martins- Acórdão nº 249/13 – Consulta [trecho final degradado].
+[Traços manuscritos da área da Relatora cruzam a linha do Procurador; não é possível afirmar assinatura distinta nessa linha.]
 
 
 ## Ementa
