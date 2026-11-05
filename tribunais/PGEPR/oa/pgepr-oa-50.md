@@ -9,21 +9,30 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução nº 194/2021 - PGE )
 - **Ementa no catálogo:** COBRANÇA POR MUNICÍPIO DE TAXA DE COLETA DE LIXO DE IMÓVEL. A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal. Tese fixada pelo STF por meio da Súmula Vinculante nº 19.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/orientacaoadministrativa050.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/orientacaoadministrativa050.pdf)
-- **Páginas do PDF:** 3; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 252945 bytes; SHA-256 `441637ab6e8a49f5bd86d721cc96fbe8b159ed279d23fc9c0fb2d831d533a557`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/orientacaoadministrativa050.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/orientacaoadministrativa050.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol. Os ajustes literais, de carimbo e de descrição de ênfases prescritos foram aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Blocos de autenticação e folhas ePROTOCOLO são peças documentais separadas do corpo. Nomes funcionais, protocolos e códigos documentais foram preservados, sem validação das assinaturas ou dos QR codes.
 
+Descrições gráficas, marcadores de destaque e notas são editoriais. Onde o texto aparece em bloco monoespaçado, as ênfases e cores estão descritas nas notas locais, pois esse formato não as representa. Linhas e hifens de composição foram conservados conforme os candidatos; a representação não equivale a fac-símile.
+
+### Documento 1 — SHA-256 `441637ab6e8a49f5bd86d721cc96fbe8b159ed279d23fc9c0fb2d831d533a557`
+
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/orientacaoadministrativa050.pdf)
+
+#### Página física 1
+
+```text
 Editada pela Resolução
                                                                                                                                                             156
                                                                                                                           nº 194/2021 - PGE
                                                                                                                             DIOE nº 11033                    37
 
                                                                                                                              de 06/10/2021
+
+
 
 
                                            Orientação Administrativa n.º 050-PGE
@@ -72,18 +81,30 @@ Editada pela Resolução
                     de coleta de lixo de imóvel estadual, quando notificado o Estado pelo
 
 
+
                                                                               1
 
 
 Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 04/10/2021 18:17. Inserido ao protocolo 15.687.356-0 por: Viviane Maria de Lara da Silva em:
 04/10/2021 17:11. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 449022fd99a4c915c3ac9c7292d3ac7d.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 2
+Identidade: Orientação Administrativa n.º 050-PGE. Elementos ausentes do rascunho: cabeçalho PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL com brasão; rodapé Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300; www.pge.pr.gov.br. Faixas azul/verde e página 1. Quadro Editada pela Resolução nº 194/2021 - PGE; DIOE nº 11033 de 06/10/2021. Carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.156, Mov.37. Tabela com três temas. Título, autoridade e número 1 em negrito; duas citações entre aspas em itálico. Corpo termina em pelo, sem completar. Rodapé de assinatura em caixa integralmente cotejado. Sem leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 2
+
+```text
 157
                                                                                                                                                              37
+
+
 
 
                     Município e desde que a taxa cobrada possua previsão legal, não haja
@@ -115,8 +136,11 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 449022f
                                             Curitiba, datado e assinado digitalmente.
 
 
+
                                                          Letícia Ferreira da Silva
                                                        Procuradora-Geral do Estado
+
+
 
 
                                                                               2
@@ -125,12 +149,23 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 449022f
 Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 04/10/2021 18:17. Inserido ao protocolo 15.687.356-0 por: Viviane Maria de Lara da Silva em:
 04/10/2021 17:11. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 449022fd99a4c915c3ac9c7292d3ac7d.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 3
+Sem título de novo ato; começa Município. Elementos ausentes do rascunho: cabeçalho PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL com brasão; rodapé Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300; www.pge.pr.gov.br. Faixas azul/verde e página 2. Carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.157, Mov.37. Números 2–4, REFERÊNCIAS, PUBLIQUE-SE. ANOTE-SE. e nome funcional em negrito. caput e datado e assinado digitalmente em itálico. Letícia no corpo e Leticia no rodapé preservados como impressos. Cotejo integral, sem leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 3
+
+```text
 157a
                                                                                                                    37
+
+
 
 
 Documento: 05015.687.3560PAGAMENTODETAXADECOLETADELIXOIMOVEISESTADUAIS.OBRIGATORIEDADE.SUMULAVINCULANTEN19..pdf.
@@ -142,14 +177,18 @@ Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 04/10/2021 18
 Inserido ao protocolo 15.687.356-0 por: Viviane Maria de Lara da Silva em: 04/10/2021 17:11.
 
 
+
+
                         Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021.
 
 
                         A autenticidade deste documento pode ser validada no endereço:
                         https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
                         449022fd99a4c915c3ac9c7292d3ac7d.
+```
 
+##### Elementos visuais, cotejo e limites
 
-## Conferência e limites
+Folha de assinatura eProtocolo; nome de arquivo mantido como documento, não identidade de ato. Logotipo ePROTOCOLO; carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.157a, Mov.37. Moldura, QR code inferior esquerdo não decodificado e centro vazio integralmente conferidos. Arquivo, nomes, protocolo, URL e código em negrito. Texto integralmente cotejado sem leitura textual incerta identificada.
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Sem conclusão sobre vigência ou efeito jurídico.

@@ -9,20 +9,28 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução nº 183/2020-PGE )
 - **Ementa no catálogo:** Transferências Voluntárias. Licitações. Pregão Eletrônico. nº
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-08/orientacaoadministrativa042de2020.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-08/orientacaoadministrativa042de2020.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 140341 bytes; SHA-256 `ac930d47ecb39a198bb1c8ad9d11befcd06f00c413c76e71f84f43e8e92b2e4d`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-08/orientacaoadministrativa042de2020.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-08/orientacaoadministrativa042de2020.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol. Os ajustes literais, de carimbo e de descrição de ênfases prescritos foram aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Blocos de autenticação e folhas ePROTOCOLO são peças documentais separadas do corpo. Nomes funcionais, protocolos e códigos documentais foram preservados, sem validação das assinaturas ou dos QR codes.
 
+Descrições gráficas, marcadores de destaque e notas são editoriais. Onde o texto aparece em bloco monoespaçado, as ênfases e cores estão descritas nas notas locais, pois esse formato não as representa. Linhas e hifens de composição foram conservados conforme os candidatos; a representação não equivale a fac-símile.
+
+### Documento 1 — SHA-256 `ac930d47ecb39a198bb1c8ad9d11befcd06f00c413c76e71f84f43e8e92b2e4d`
+
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-08/orientacaoadministrativa042de2020.pdf)
+
+#### Página física 1
+
+```text
 Editado pela Resolução nº 183/2020 - PGE                    11
                                         ESTADO DO PARANÁ                                              Diário Oficial nº 10758 de 26/08/2020                      6
 
                                         Procuradoria-Geral do Estado
                                         Gabinete da Procuradora-Geral
+
 
 
                                                  ORIENTAÇÃO ADMINISTRATIVA N. 42-PGE
@@ -73,15 +81,28 @@ Editado pela Resolução nº 183/2020 - PGE                    11
                                                                      Procuradora-Geral do Estado
 
 
+
+
 Assinado digitalmente por: Leticia Ferreira da Silva em 25/08/2020 11:11. Inserido ao protocolo 16.833.444-3 por: Miriam Lopes Pinheiro em: 24/08/2020 17:24.
 Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 64dd6d1d3d1e681b02c7a9a86405f407.
+```
 
+##### Elementos visuais, cotejo e limites
 
-### Página física 2
+Identidade impressa: ORIENTAÇÃO ADMINISTRATIVA N. 42-PGE. Brasão estadual no cabeçalho. Quadro: Editado pela Resolução nº 183/2020 - PGE; Diário Oficial nº 10758 de 26/08/2020. Carimbo circular PROTOCOLO INTEGRADO DO ESTADO, Fls. 11, Mov. 6 (os rótulos do carimbo faltam na camada nativa e são restituídos aqui). Título, autoridade, TEMA DE INTERESSE, REFERÊNCIAS, PUBLIQUE-SE. ANOTE-SE. e nome da signatária em negrito; temas em três linhas de tabela. Rodapé de assinatura digital em caixa, sem assinatura manuscrita. Texto, datas e código documental cotejados integralmente; nenhuma leitura textual incerta identificada.
 
+Sem conclusão sobre vigência ou efeito jurídico.
+
+[Nota editorial da revisão independente:] No rodapé digital em caixa estão em negrito o nome da signatária, o número do protocolo, o nome de quem inseriu, a URL de validação e o código documental; os demais dizeres e datas estão em peso normal.
+
+#### Página física 2
+
+```text
 11a
                                                                                                    6
+
+
 
 
 Documento: 04216.833.4443TransferenciasVoluntarias.Licitacoes.PregaoEletronico..pdf.
@@ -93,14 +114,18 @@ Assinado digitalmente por: Leticia Ferreira da Silva em 25/08/2020 11:11.
 Inserido ao protocolo 16.833.444-3 por: Miriam Lopes Pinheiro em: 24/08/2020 17:24.
 
 
+
+
                         Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016.
 
 
                         A autenticidade deste documento pode ser validada no endereço:
                         https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
                         64dd6d1d3d1e681b02c7a9a86405f407.
+```
 
+##### Elementos visuais, cotejo e limites
 
-## Conferência e limites
+Peça de assinatura eProtocolo, não novo ato. Logotipo ePROTOCOLO; carimbo PROTOCOLO INTEGRADO DO ESTADO, Fls. 11a, Mov. 6. Moldura retangular integral; QR code no canto inferior esquerdo, não decodificado. Nome de arquivo, nomes funcionais, protocolo e URL/código em negrito. Região central vazia conferida. Camada nativa não traz logotipo nem rótulos do carimbo, registrados aqui. Nenhuma leitura textual incerta identificada.
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Sem conclusão sobre vigência ou efeito jurídico.
