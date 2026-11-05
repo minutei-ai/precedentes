@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Agente Político. Subsídio de Prefeitos e vereadores. Competências. Iniciativa. Prazo. (2017)
 - **Identificador:** `tcepi-consulta-16971`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 4 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; PDF idêntico ao da consulta 16974, transcrito e cotejado por imagem naquela ficha; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -22,19 +22,19 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página com codificação textual inválida; transcrição pendente. O texto corrompido não foi convertido em redação jurídica.
+Página idêntica à página 1 do mesmo PDF vinculado à [consulta 16974](tcepi-consulta-16974.md), SHA-256 `a509135bf20b5e811f894ff3a7e85f87f2e766cf205923f60e0beeb5bf074d69`, onde está transcrita e cotejada por imagem e revisão independente. O texto não é duplicado aqui; a ficha e o título desta publicação permanecem distintos.
 
 #### Página 2 do PDF oficial
 
-Página com codificação textual inválida; transcrição pendente. O texto corrompido não foi convertido em redação jurídica.
+Página idêntica à página 2 do mesmo PDF vinculado à [consulta 16974](tcepi-consulta-16974.md), SHA-256 `a509135bf20b5e811f894ff3a7e85f87f2e766cf205923f60e0beeb5bf074d69`, onde está transcrita e cotejada por imagem e revisão independente. O texto não é duplicado aqui; a ficha e o título desta publicação permanecem distintos.
 
 #### Página 3 do PDF oficial
 
-Página com codificação textual inválida; transcrição pendente. O texto corrompido não foi convertido em redação jurídica.
+Página idêntica à página 3 do mesmo PDF vinculado à [consulta 16974](tcepi-consulta-16974.md), SHA-256 `a509135bf20b5e811f894ff3a7e85f87f2e766cf205923f60e0beeb5bf074d69`, onde está transcrita e cotejada por imagem e revisão independente. O texto não é duplicado aqui; a ficha e o título desta publicação permanecem distintos.
 
 #### Página 4 do PDF oficial
 
-Página com codificação textual inválida; transcrição pendente. O texto corrompido não foi convertido em redação jurídica.
+Página idêntica à página 4 do mesmo PDF vinculado à [consulta 16974](tcepi-consulta-16974.md), SHA-256 `a509135bf20b5e811f894ff3a7e85f87f2e766cf205923f60e0beeb5bf074d69`, onde está transcrita e cotejada por imagem e revisão independente. O texto não é duplicado aqui; a ficha e o título desta publicação permanecem distintos.
 
 ## Ementa
 

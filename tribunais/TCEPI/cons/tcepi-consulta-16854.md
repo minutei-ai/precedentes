@@ -601,7 +601,7 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 
 - PDF vinculado: 7 página(s), 1013329 bytes, SHA-256 `3c1f80151241d234ac47894b55a659a187ef1e1898a416b21a1d9b949bd14cdf`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
-As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte, sem continuação ou conclusão. A fusão gráfica rn/m permanece incerta no Voto6. O número profissional da OAB permanece ocultado por decisão editorial. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
 
 ## Conferência do acórdão por imagens — 05/11/2026
 
