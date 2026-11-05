@@ -81,19 +81,19 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | 59 | [pgepr-oa-59](pgepr-oa-59.md) | PDF (Editado pela Resolução° 262/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 60 | [pgepr-oa-60](pgepr-oa-60.md) | PDF (Editado pela Resolução° 263/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 61 | [pgepr-oa-61](pgepr-oa-61.md) | PDF (Editado pela Resolução° 264/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
-| 62 | [pgepr-oa-62](pgepr-oa-62.md) | PDF (Editado pela Resolução° 265/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 63 | [pgepr-oa-63](pgepr-oa-63.md) | PDF (Editado pela Resolução° 266/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 64 | [pgepr-oa-64](pgepr-oa-64.md) | PDF (Editado pela Resolução° 267/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 65 | [pgepr-oa-65](pgepr-oa-65.md) | PDF (Editado pela Resolução° 268/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 66 | [pgepr-oa-66](pgepr-oa-66.md) | PDF (Editado pela Resolução° 269/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 67 | [pgepr-oa-67](pgepr-oa-67.md) | PDF (Editado pela Resolução° 270/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 68 | [pgepr-oa-68](pgepr-oa-68.md) | PDF (Editado pela Resolução n° 276/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 69 | [pgepr-oa-69](pgepr-oa-69.md) | PDF (Editado pela Resolução n° 277/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 70 | [pgepr-oa-70](pgepr-oa-70.md) | PDF (Editado pela Resolução n° 278/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 71 | [pgepr-oa-71](pgepr-oa-71.md) | PDF (Editado pela Resolução n° 279/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 72 | [pgepr-oa-72](pgepr-oa-72.md) | PDF (Editado pela Resolução n° 280/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 73 | [pgepr-oa-73](pgepr-oa-73.md) | PDF (Editado pela Resolução n° 281/2022 - PGE ) | Texto publicado; conferir limites da ficha |
-| 74 | [pgepr-oa-74](pgepr-oa-74.md) | PDF (Editado pela Resolução n° 282/2022 - PGE ) | Texto publicado; conferir limites da ficha |
+| 62 | [pgepr-oa-62](pgepr-oa-62.md) | PDF (Editado pela Resolução° 265/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 63 | [pgepr-oa-63](pgepr-oa-63.md) | PDF (Editado pela Resolução° 266/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 64 | [pgepr-oa-64](pgepr-oa-64.md) | PDF (Editado pela Resolução° 267/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 65 | [pgepr-oa-65](pgepr-oa-65.md) | PDF (Editado pela Resolução° 268/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 66 | [pgepr-oa-66](pgepr-oa-66.md) | PDF (Editado pela Resolução° 269/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 67 | [pgepr-oa-67](pgepr-oa-67.md) | PDF (Editado pela Resolução° 270/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 68 | [pgepr-oa-68](pgepr-oa-68.md) | PDF (Editado pela Resolução n° 276/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 69 | [pgepr-oa-69](pgepr-oa-69.md) | PDF (Editado pela Resolução n° 277/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 70 | [pgepr-oa-70](pgepr-oa-70.md) | PDF (Editado pela Resolução n° 278/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 71 | [pgepr-oa-71](pgepr-oa-71.md) | PDF (Editado pela Resolução n° 279/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 72 | [pgepr-oa-72](pgepr-oa-72.md) | PDF (Editado pela Resolução n° 280/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 73 | [pgepr-oa-73](pgepr-oa-73.md) | PDF (Editado pela Resolução n° 281/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
+| 74 | [pgepr-oa-74](pgepr-oa-74.md) | PDF (Editado pela Resolução n° 282/2022 - PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 75 | [pgepr-oa-75](pgepr-oa-75.md) | PDF (Editado pela Resolução n° 283/2022 - PGE ) | Texto publicado; conferir limites da ficha |
 | 76 | [pgepr-oa-76](pgepr-oa-76.md) | PDF (Editado pela Resolução n° 284/2022 - PGE ) | Texto publicado; conferir limites da ficha |
 | 77 | [pgepr-oa-77](pgepr-oa-77.md) | PDF (Editado pela Resolução n° 285/2022 - PGE ) | Texto publicado; conferir limites da ficha |
@@ -126,3 +126,5 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 Os lotes remanescentes 1–3 incorporaram 42 páginas de 18 PDFs após revisão independente integral Sol/Astra e dez ajustes. As versões da OA35 e as associações divergentes OA39/48 e OA41/46 permanecem explícitas; a peça de número em branco não recebeu ID. Somados os recortes anteriores, 52 páginas de 23 PDFs receberam cotejo independente. As demais fontes e atos vinculados continuam pendentes na #256.
 
 Os lotes remanescentes 4–6 incorporaram 60 páginas de 25 PDFs, em 25 fichas existentes, após revisão independente integral Sol. Preservados carimbos, peças ePROTOCOLO e a Resolução 150/2022-PGE da ficha 57. Os lotes revistos totalizam 112 páginas em 48 PDFs; as demais fontes continuam pendentes. Sem novo ID.
+
+O lote7 incorporou20 páginas de13 PDFs após revisão independente integral Sol e dois ajustes de negrito nos rodapés da OA68. Sem novo ID; os recortes revistos totalizam132 páginas em61 PDFs. Permanecem65 páginas disponíveis de27 PDFs, além de anexos bloqueados e recuperação histórica, sem certificação das fontes restantes.

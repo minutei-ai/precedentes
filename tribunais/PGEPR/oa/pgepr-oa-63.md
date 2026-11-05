@@ -9,84 +9,120 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução° 266/2022 - PGE )
 - **Ementa no catálogo:** Justificativa de Preços. Contratação Direta
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm063PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm063PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 186994 bytes; SHA-256 `41c18c5b0b9f956d7641b4181532da8e51437424572cf43f7d05cd05b3ab345e`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm063PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm063PGE.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+O documento abaixo foi transcrito integralmente de imagens e cotejado por revisão independente GPT-6.1 Sol. Identidade impressa e rótulos do catálogo permanecem distintos; não se inferem vigência, efeitos ou autenticidade de assinatura. Nomes funcionais, protocolos e códigos documentais foram preservados; não foram identificados valores de CPF ou matrícula pessoal nas páginas deste recorte.
 
-31
-                                                                                                                                                              8
+Quebras e hifens de composição foram conservados conforme o candidato. Descrições gráficas, notas de carimbos, marcas e assinatura são editoriais. Declarações eletrônicas foram transcritas, sem validar assinatura ou QR.
 
+A página2 é continuação com nome/cargo e rodapés; não foi transformada em ato autônomo.
 
-                                              ORIENTAÇÃO ADMINISTRATIVA N.º 63 – PGE
+### Documento — SHA-256 `41c18c5b0b9f956d7641b4181532da8e51437424572cf43f7d05cd05b3ab345e`
 
-                              A PROCURADORA-GERAL DO ESTADO, no uso das atribuições que lhe
-                    conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio
-                    de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro
-                    de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987, pela
-                    Lei Complementar nº 195, de 28 de abril de 2016 e pela Lei Complementar nº
-                    246, de 20 de maio de 2022 e inciso X do art. 21 do Decreto Estadual nº 2709, de
-                    10 de setembro de 2019, e considerando o que consta no protocolo n° 19.837.873-9,
-                    resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades
-                    da Administração Pública Estadual Direta e Autárquica:
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-01/Orient-adm063PGE.pdf)
 
-                                                         Direito Administrativo
-                                                         Licitações e Contratos
-                     TEMA DE INTERESSE
-                                                         Justificativa de Preços. Contratação Direta
+#### Página física 1
+
+[Marca e brasão: PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL. Carimbo: PROTOCOLO INTEGRADO DO ESTADO; Fls. 31; Mov. 8.]
 
 
-                    1. Na contratação direta por inexigibilidade ou por dispensa de licitação, quando não for
-                      possível estimar o valor do objeto na forma estabelecida no art. 23 da Lei Federal nº
-                      14.133, de 2021, o contratado deverá comprovar previamente que os preços estão em
-                      conformidade com os praticados em contratações semelhantes de objetos de mesma
-                      natureza, por meio da apresentação de notas fiscais emitidas para outros contratantes no
-                      período de até 1 (um) ano anterior à data da contratação pela Administração, ou por outro
-                      meio idôneo.
 
 
-                    2. Esta Orientação Administrativa substitui o Enunciado de Súmula nº 005-PGE.
+**ORIENTAÇÃO ADMINISTRATIVA N.º 63 – PGE**
+
+**A PROCURADORA-GERAL DO ESTADO,** no uso das atribuições que lhe
+conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio
+de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro
+de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987, pela
+Lei Complementar nº 195, de 28 de abril de 2016 e pela Lei Complementar nº
+246, de 20 de maio de 2022 e inciso X do art. 21 do Decreto Estadual nº 2709, de
+10 de setembro de 2019, e considerando o que consta no protocolo n° 19.837.873-9,
+resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades
+da Administração Pública Estadual Direta e Autárquica:
+
+**TEMA DE INTERESSE**
+
+Direito Administrativo
+
+Licitações e Contratos
+
+Justificativa de Preços. Contratação Direta
 
 
-                    REFERÊNCIAS: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.
+
+1. Na contratação direta por inexigibilidade ou por dispensa de licitação, quando não for
+possível estimar o valor do objeto na forma estabelecida no art. 23 da Lei Federal nº
+14.133, de 2021, o contratado deverá comprovar previamente que os preços estão em
+conformidade com os praticados em contratações semelhantes de objetos de mesma
+natureza, por meio da apresentação de notas fiscais emitidas para outros contratantes no
+período de até 1 (um) ano anterior à data da contratação pela Administração, ou por outro
+meio idôneo.
 
 
-                    PUBLIQUE-SE. ANOTE-SE.
+2. Esta Orientação Administrativa substitui o Enunciado de Súmula nº 005-PGE.
 
 
-                                                       Curitiba, datado e assinado digitalmente.
+**REFERÊNCIAS:** Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.
 
 
-                  Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300                               www.pge.pr.gov.br
+**PUBLIQUE-SE. ANOTE-SE.**
 
 
-Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 21/12/2022 11:33. Inserido ao protocolo 19.837.873-9 por: Viviane Maria de Lara da Silva em:
+Curitiba, *datado e assinado digitalmente.*
+
+
+
+
+##### Endereço no rodapé
+
+Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300 www.pge.pr.gov.br
+
+
+
+
+##### Declaração impressa de assinatura no rodapé
+
+Assinatura Qualificada realizada por: **Leticia Ferreira da Silva** em 21/12/2022 11:33. Inserido ao protocolo **19.837.873-9** por: **Viviane Maria de Lara da Silva** em:
 21/12/2022 10:59. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
-https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento com o código: e195a2d3be6053a0b13238df2896419a.
+**https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento** com o código: **e195a2d3be6053a0b13238df2896419a**.
+
+##### Notas de leitura visual
+
+Leitura integral da página e de todas as faixas ampliadas; sem OCR. Camada nativa usada apenas como rascunho, conferida pela imagem. Faixas azul e verde no rodapé. Não há nome de signatária no espaço do corpo após a data; declaração de assinatura no rodapé.
+
+Marcas visuais: brasão colorido; carimbo circular cinza. A declaração de assinatura tem nomes funcionais, protocolo, URL e código em negrito. Não se atribui autenticidade à declaração. Não foram identificados valores de CPF ou matrícula pessoal nesta página; não houve ocultação necessária.
+
+#### Página física 2
+
+[Marca e brasão: PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL. Carimbo: PROTOCOLO INTEGRADO DO ESTADO; Fls. 32; Mov. 8.]
 
 
-### Página física 2
-
-32
-                                                                                                                                                              8
 
 
-                                                           Leticia Ferreira da Silva
-                                                           Procuradora-Geral do Estado
+Leticia Ferreira da Silva
+Procuradora-Geral do Estado
 
 
-                  Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300                               www.pge.pr.gov.br
 
 
-Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 21/12/2022 11:33. Inserido ao protocolo 19.837.873-9 por: Viviane Maria de Lara da Silva em:
+##### Endereço no rodapé
+
+Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300 www.pge.pr.gov.br
+
+
+
+
+##### Declaração impressa de assinatura no rodapé
+
+Assinatura Qualificada realizada por: **Leticia Ferreira da Silva** em 21/12/2022 11:33. Inserido ao protocolo **19.837.873-9** por: **Viviane Maria de Lara da Silva** em:
 21/12/2022 10:59. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
-https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento com o código: e195a2d3be6053a0b13238df2896419a.
+**https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento** com o código: **e195a2d3be6053a0b13238df2896419a**.
 
+##### Notas de leitura visual
 
-## Conferência e limites
+Leitura integral da página e de todas as faixas ampliadas; sem OCR. Camada nativa usada apenas como rascunho, conferida pela imagem. Centro da página em branco; nome e função no alto, endereço e declaração de assinatura no rodapé; faixas azul e verde.
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Marcas visuais: brasão colorido; carimbo circular cinza. A declaração de assinatura tem nomes funcionais, protocolo, URL e código em negrito. Não se atribui autenticidade à declaração. Não foram identificados valores de CPF ou matrícula pessoal nesta página; não houve ocultação necessária.
