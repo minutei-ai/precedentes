@@ -3054,3 +3054,7 @@ Recontagem integral dos campos “Identificador” em Markdown: 43.887 ocorrênc
 ### MPAP — CSMP, cotejo de 45 páginas em 05/11/2026
 
 As 45 páginas dos 14 documentos CSMP capturados foram integralmente cotejadas em imagem. Notas nas fichas distinguem anotação posterior e tachado do nº 002, trecho do nº 004 oculto no raster e divergências internas de procedimentos. O recorte público dos enunciados foi preservado; não se afirma vigência ou completude atual do catálogo, cuja reconsulta retornou 403. Corrigida a alegação falsa de que o Ato CAO 006/2011 não continha enunciados. Delta zero.
+
+### CGECE — 2ª edição integralmente cotejada, 05/11/2026
+
+Os 73 enunciados próprios da 2ª edição foram integralmente cotejados nas imagens das pp.16–51. Numeração, títulos, textos, referências e as 12 marcas de revisão conferem, com ajustes de espaços e quebras aplicados. Edição impressa: Fortaleza, dezembro de 2020; captura Wayback comprovada: 29/06/2021, não a captura de 2023 antes citada. Edição2015 preservada; seu cotejo independente está em curso. Anexos de terceiros não geram IDs CGECE. Delta zero, sem inferência de vigência.

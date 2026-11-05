@@ -1,6 +1,6 @@
 # CGE/CE — Enunciados próprios
 
-**73 registros nesta série.** Edição de setembro de 2015 (nºs 1–41) e 2ª edição (nºs 1–73; lançamento público em 2021, arquivo interno CACI_0120_20).
+**73 registros nesta série.** Edição de setembro de 2015 (nºs 1–41) e 2ª edição (nºs 1–73; disponibilidade arquivada em junho de 2021, arquivo interno CACI_0120_20).
 
 A 2ª edição marca como “(revisado)” os nºs 1, 5, 6, 7, 11, 14, 18, 22, 28, 29, 37, 38. Os textos de 2015 dos nºs 1–41 foram preservados; a 2ª edição aparece em seção própria. Os nºs 42–73 existem somente na 2ª edição neste acervo.
 
@@ -81,3 +81,5 @@ PDF da 2ª edição: 8212602 bytes, SHA-256 `4bd19b87e0a29067cc811da4e056f1d0cd2
 | 71 | [Enunciado 71](cgece-en-71.md) |
 | 72 | [Enunciado 72](cgece-en-72.md) |
 | 73 | [Enunciado 73](cgece-en-73.md) |
+
+A folha de rosto da 2ª edição imprime “Fortaleza, Dezembro/2020”. A disponibilidade arquivada em junho de 2021 não é data de edição nem comprova vigência. Os 73 blocos foram integralmente cotejados em imagem em 05/11/2026; corrigiram-se espaços, quebras de virada de página e uma referência partida. A captura comprovada nos recibos é 20210629122933.
