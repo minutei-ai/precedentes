@@ -988,7 +988,7 @@ O TRE-RJ acrescenta as 27 súmulas listadas na tabela oficial, com número, data
 
 O catálogo do TRE-RJ não contém vínculos para documentos individuais nem coluna de situação. A tabela foi capturada e relida pelo navegador integrado após HTTP 403 nos acessos direto e nativo, sem alteração no conteúdo dos registros. Não foi inferida vigência atual. Os julgados e atos mencionados e as demais categorias de precedentes do TRE-RJ permanecem pendentes.
 
-O TRE-MS permanece pendente: a página oficial de jurisprudência consultada em 21/10/2026 apresenta pesquisa unificada, coletâneas por assunto e publicações, sem listar súmulas regionais. Isso não comprova inexistência de súmulas ou de outras categorias de precedentes. A página foi capturada pelo navegador integrado após HTTP 403 nas consultas direta e nativa.
+O TRE-MS tem três registros de Consultas do catálogo oficial capturado em 04/11/2026 e três documentos complementares dos PDFs capturados privadamente. Dois registros são de não conhecimento e um é de consulta parcialmente respondida. A conferência da camada textual não certifica revisão visual integral. Demais temas de jurisprudência por assunto e publicações seguem em investigação; falhas de acesso e ausência de heading não provam inexistência de séries próprias.
 
 O TRE-MT acrescenta a única súmula listada em seu catálogo regional, com o enunciado e as referências ao ato de aprovação e à regulamentação da edição de súmulas. A página foi relida e permaneceu estável. As ligações para súmulas do TSE, STJ e STF não foram incorporadas como produção regional. A captura do catálogo usou o navegador integrado após HTTP 403 nas consultas direta e nativa.
 
@@ -1270,10 +1270,10 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | TRE_GO | 0 | 0 | 0 |
 | [TRE_MA](tribunais/TRE_MA/) | 1 | 0 | 0 |
 | [TRE_MT](tribunais/TRE_MT/) | 1 | 0 | 0 |
-| TRE_MS | 0 | 0 | 0 |
+| [TRE_MS](tribunais/TRE_MS/) | 3 | 0 | 0 |
 | [TRE_MG](tribunais/TRE_MG/) | 51 | 0 | 0 |
 | [TRE_PA](tribunais/TRE_PA/) | 10 | 0 | 0 |
-| TRE_PB | 0 | 0 | 0 |
+| [TRE_PB](tribunais/TRE_PB/) | 18 | 0 | 0 |
 | TRE_PR | 0 | 0 | 0 |
 | [TRE_PE](tribunais/TRE_PE/) | 26 | 0 | 0 |
 | TRE_PI | 0 | 0 | 0 |
@@ -3198,3 +3198,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **PGEPA, lote 15 de 05/11/2026:** 20 páginas de 009/2019 cotejadas integralmente por GPT-6.1 Sol; parecer de Carolina Ormanes Massoud, processo 201900026127, com ratificação e aprovação em peças distintas. Corrigidos metadados antigos, preservada dúvida local do número manuscrito. Sem novo ID; 15 PDFs / 221 páginas nos recortes integrados, sem afirmar completude da série.
 
 - **PGEPA, lote 13 de 05/11/2026:** 18 páginas de 008/2019 cotejadas integralmente por GPT-6.1 Sol, cinco ajustes aplicados e metadados antigos corrigidos. Parecer, checklist e despachos separados; códigos e assuntos divergentes preservados, sem deduzir efeito da marca gráfica. Sem novo ID; 16 PDFs / 239 páginas nos recortes integrados, sem afirmar completude da série.
+
+- **TRE-MS e TRE-PB, reconciliação de 05/11/2026:** auditoria documental Sol corrigiu a tabela de acervo para 3 e 18 IDs, sem alterar contagens do BNP ou criar registros. Atualizadas notas de captura, remissões aos documentos complementares e referência editorial da PB279. O cotejo visual dos demais PDFs e a classificação das outras fontes do portal continuam pendentes nas issues #225 e #226; 403 não comprova ausência.
