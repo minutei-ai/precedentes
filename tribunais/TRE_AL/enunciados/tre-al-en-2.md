@@ -7,8 +7,10 @@
 - **Fonte:** [Folder oficial Setembro/2020](https://static.tre-al.jus.br/portal/jurisprudencia/tre-al-enunciados-orientativos-eleicoes-2020.pdf)
 - **SHA-256 PDF:** `3affc356c722e8e486cbd2c78719d2ff07c140f62835cbd6a6eeb0fb95a94f4d`
 
-## Texto documental pendente
+## Texto documental
 
-A proposta anterior foi reprovada na revisão independente do Opus 5.5 por divergência com a fonte. O PDF é legível; a transcrição literal e sua revisão permanecem pendentes.
+*“A veiculação de matéria <mark>com insinuações que têm o condão de influenciar o eleitor ou mesmo desequilibrar o pleito em disputa caracteriza conduta irregular hábil a macular o processo eleitoral. Motivo que, per si, justifica a concessão de provimento judicial de caráter preventivo, qual seja a concessão de direito de resposta</mark>”.*
 
-Refs #219.
+## Contexto e limites
+
+O texto está na página física 6 do [folheto integral transcrito](documento-folheto-setembro-2020.md), que conserva expediente, conceitos, acórdãos e referências como documento comum. Enunciado e contexto foram cotejados integralmente em imagem e revisão independente, com correções aplicadas. Não se infere vigência ou efeito vinculante.
