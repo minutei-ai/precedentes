@@ -20,3 +20,8 @@
 - [CTA 489-55.2016.6.15.0000](tre-pb-cta-4895520166150000.md) — Consulta conhecida
 - [CTA 279-04.2016.6.15.0000](tre-pb-cta-2790420166150000.md) — Consulta conhecida
 - [CTA 467-94.2016.6.15.0000](tre-pb-cta-4679420166150000.md) — Consulta conhecida
+
+
+## PDFs cotejados em 05/11/2026
+
+As consultas 279-04.2016 e 489-55.2016 preservam agora 12 e 7 páginas do PDF, incluindo certidões, relatórios, votos, notas e carimbos, com revisão independente e correções aplicadas. Mantidas as ementas do catálogo em seções próprias; não foram criados novos IDs. Fólios e traços incertos permanecem marcados. A conferência não se estende aos demais PDFs nem prova vigência ou autenticidade.
