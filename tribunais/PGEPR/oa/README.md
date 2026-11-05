@@ -4,8 +4,8 @@
 
 ## Estado da publicação
 
-- 98 fichas principais têm seção de texto publicado. As fichas 31, 32, 55 e 98 mantêm texto pendente em seu arquivo principal.
-- As orientações 31, 32 e 55 têm texto em complementos separados, ligados na tabela e nas fichas. Portanto, há texto publicado em algum arquivo para 101 identidades; a 98 permanece sem corpo. Disponibilidade textual não comprova fidelidade, revisão visual integral, aprovação ou vigência.
+- 99 fichas principais têm seção de texto publicado. As fichas 31, 32 e 55 mantêm texto pendente em seu arquivo principal.
+- As orientações 31, 32 e 55 têm texto em complementos separados, ligados na tabela e nas fichas. Portanto, há texto publicado em algum arquivo para as 102 identidades. A orientação 98 foi incorporada após cotejo das três páginas em imagem. Disponibilidade textual não comprova fidelidade, revisão visual integral, aprovação ou vigência.
 - O índice anterior de 80 fichas refletia apenas a primeira camada da integração. A reconciliação reúne as camadas posteriores sem criar ou duplicar IDs.
 - As linhas 57 e 58 estão presentes no catálogo e já têm fichas. Sua omissão no manifesto inicial era falha de enumeração, não ausência na fonte.
 - As ressalvas de extração, revisão, substituição e suspensão permanecem em cada registro. Esta atualização estrutural não aprova os corpos por amostra e não fecha a issue #256.
@@ -117,7 +117,7 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | 95 | [pgepr-oa-95](pgepr-oa-95.md) | PDF (Editado pela Resolução nº 161/2024-PGE ) | Texto publicado; conferir limites da ficha |
 | 96 | [pgepr-oa-96](pgepr-oa-96.md) | PDF (Editado pela Resolução nº 038/2025-PGE ) | Texto publicado; conferir limites da ficha |
 | 97 | [pgepr-oa-97](pgepr-oa-97.md) | PDF ( Editado pela Resolução nº 134/2025-PGE ) | Texto publicado; conferir limites da ficha |
-| 98 | [pgepr-oa-98](pgepr-oa-98.md) | PDF (Editado pela Resolução nº 206/2025-PGE ) | Metadados; texto pendente |
+| 98 | [pgepr-oa-98](pgepr-oa-98.md) | PDF (Editado pela Resolução nº 206/2025-PGE ) | Corpo em três páginas cotejadas em imagem; revisão documentada na ficha |
 | 99 | [pgepr-oa-99](pgepr-oa-99.md) | ​ PDF (Editado pela Resolução nº 276/2025-PGE ) | Texto publicado; conferir limites da ficha |
 | 101 | [pgepr-oa-101](pgepr-oa-101.md) | PDF (Editada pela Resolução nº 106/2026-PGE ) | Texto publicado; conferir limites da ficha |
 | 102 | [pgepr-oa-102](pgepr-oa-102.md) | PDF (Editada pela Resolução nº 120/2026-PGE ) | Texto publicado; conferir limites da ficha |

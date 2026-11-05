@@ -3030,3 +3030,7 @@ As [sete páginas](tribunais/TCEBA/sum/resolucoes-024-086-090.md) foram transcri
 ## MPPB — doze enunciados do Conselho Superior
 
 O [PDF condensado do GED](tribunais/MPPB/en-csmp/proveniencia.md), único item da pasta oficial de enunciados, contém 12 blocos de 01 a 12/2015. As três páginas foram cotejadas integralmente em imagem em revisão independente; a continuação do 11 foi reunida sem perda. O título e o preâmbulo integral ficam no apoio da série. Aprovações de 10/06 e 05/11/2015 são atribuídas coletivamente, sem mapa individual; atas e situação atual não certificadas. Propostas noticiadas em 2026 e enunciados de CAOs ficam separados. Delta +12 IDs e +1 órgão: de 43.872/211 para 43.884/212, por deltas conferidos, sem nova recontagem integral. PDFs e evidências brutas privados; somente Markdown público.
+
+## PGEPR — corpo da Orientação Administrativa 98
+
+A [orientação 98](tribunais/PGEPR/oa/pgepr-oa-98.md) foi transcrita diretamente das três imagens, cotejada integralmente em revisão independente e corrigida na descrição do carimbo. O PDF recapturado em HTTP 200 é idêntico à cópia anterior. Não é a Resolução 206/2025; esse vínculo permanece do catálogo. Preservam-se número sem ano impresso, grafias, pontuação e referências; CPF parcial foi omitido com marcador editorial. O índice agora distingue 99 corpos em arquivos principais e três em complementos, 102 identidades com algum texto publicado, sem certificar as demais por contagem. Revisão integral do restante da série continua na #256. Delta zero.
