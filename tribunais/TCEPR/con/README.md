@@ -940,3 +940,8 @@
 ## Acórdão 1108/2020 — inteiro teor recuperado e conferido
 
 O [registro 1108/2020](tcepr-con-ref-8a91494299061b7e01990624e2633808.md) inclui agora a transcrição das 15 páginas do documento principal, com revisão visual integral e notas 1–6 separadas do corpo. ID e contagem permanecem inalterados. A recuperação não certifica os outros 12 candidatos do lote nem a completude histórica da série (#194).
+
+
+## Acórdão 3921/2020 — inteiro teor recuperado e conferido
+
+O [registro 3921/2020](tcepr-con-ref-4936b6209ab75906019abcc93f046de2.md) inclui a transcrição das 12 páginas do documento principal, com revisão visual integral, notas 1–23 separadas do corpo e destaques preservados. Os metadados do VIAJuris (14/12/2020) e o fecho do PDF (17/12/2020) permanecem atribuídos. Sem novo ID. Do lote de 13 documentos recuperados, 1108 e 3921 estão integrados; os demais 11 seguem pendentes de revisão/integração (#194).

@@ -2927,3 +2927,8 @@ A enumeração das edições setembro–dezembro de 2019 do DOE (80 PDFs baixado
 ## TCEPR — Acórdão 1108/2020 conferido integralmente
 
 Integrado o teor das 15 páginas do Acórdão 1108/20, processo 464908/19, sessão de 10/06/2020, sob o ID já existente. Revisão independente leu todas as páginas; aplicadas a correção de aspas, os seis marcadores de nota e a separação da nota 5 que continua na página 8. Negrito e itálico preservados; omissões editoriais de cabeçalho/rodapé repetidos e caminho interno de rede declaradas. Não há novo ID ou órgão. Os outros 12 documentos recuperados do lote de 13 seguem com revisão/integração pendentes; #194 permanece aberta.
+
+
+## TCEPR — Acórdão 3921/2020 conferido integralmente
+
+Integradas as 12 páginas do Acórdão 3921/20, processo 113617/20, após revisão independente integral das imagens. Corrigidas 25 separações espúrias de palavras, restaurados os 23 sobrescritos e os seis sublinhados da fonte; negrito e itálico transpostos dos estilos do PDF. Notas reunidas ao final, com páginas de origem. Mantidas as datas atribuídas: 14/12/2020 no metadado VIAJuris e 17/12/2020 no fecho do PDF. Nenhum ID ou órgão novo. Com o Acórdão 1108/2020, são 27 páginas de dois documentos integradas do lote de 13; os demais 11 seguem pendentes, sem concluir #194.
