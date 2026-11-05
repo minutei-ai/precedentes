@@ -16,3 +16,7 @@ Os cinco parágrafos jurídicos foram lidos integralmente em duas capturas HTML 
 - [Súmula 003/2016](mpes-sum-copj-3-2016.md)
 - [Súmula 004/2016](mpes-sum-copj-4-2016.md)
 - [Súmula 005/2018](mpes-sum-copj-5-2018.md)
+
+## Publicações oficiais alternativas
+
+Os cinco atos de criação foram recuperados nos diários oficiais e cotejados integralmente por revisão independente Sol: Resoluções 005, 006 e 007/2016 (IOES3397, página física64, impressa12), 012/2016 (IOES3476, física83, impressa31) e 026/2018 (IOES4257, física74, impressa14). As transcrições estão nas cinco fichas. Os cinco anexos UUID antigos continuam não recuperados; os diários não foram tratados como os mesmos arquivos. A Súmula004 conserva a variante do diário “decisão Corregedor-Geral” e a do catálogo “decisão do Corregedor-Geral”, sem harmonização. Sem novo ID e sem aceite integral da #254.
