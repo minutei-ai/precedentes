@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 43.988 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 43.990 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1011 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1013 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -3216,3 +3216,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **CNPG/COPEDS, reprodução EJEF/TJMG de 05/11/2026:** 25 IDs, números 1–25, com parágrafos e notas cotejados integralmente por GPT-6 Astra contra o HTML oficial. Cabeçalhos e reuniões de 2011 atribuídos à reprodução; não se certifica ata/ato original nem atualização por notícia contraditória de outubro/2026. COPEDS separada de COPEVID, GNDH 01/2018 e GNCCRIM. Demais séries e fontes da #270 permanecem pendentes.
 
 - **PGEPE, catálogo 001/2025, 05/11/2026:** integradas 27 páginas do Parecer impresso nº 0001/2020 e do bloco nominal/despacho separado na página 27, após cotejo independente integral Astra/Sol. Aplicados sete ajustes de segmentação de citações, sem alteração lexical. O despacho tem data não preenchida e não apresenta assinatura visível no bloco. O rótulo 001/2025 não comprova renumeração; demais fontes da #264 permanecem pendentes.
+
+- **PGECE, recuperações de 05/11/2026:** dois novos IDs. PN 002/2000 com início recuperado no DOE oficial e continuidade até o fecho nas páginas 5–9, cotejadas integralmente por Sol. PN 002/2001 com 35 linhas iniciais cotejadas integralmente por Astra; a ementa termina no limite do arquivo e faltam continuação, corpo e fecho. Proveniência mista e ausência de validação TLS das capturas legadas preservadas. O número do parecer de 10/03/1992 continua incerto; sem resolução integral da #269.

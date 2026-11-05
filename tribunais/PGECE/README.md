@@ -1,11 +1,11 @@
 # PGECE
 
-Procuradoria-Geral do Estado do Ceará. **22 registros** nesta integração parcial.
+Procuradoria-Geral do Estado do Ceará. **24 registros** nesta integração parcial.
 
 | Espécie | Registros |
 | --- | ---: |
 | [Parecer Referencial](parecer-referencial/) | 2 |
-| [Parecer Normativo](parecer-normativo/) | 20 |
+| [Parecer Normativo](parecer-normativo/) | 22 |
 
 Documento localizado via índice do portal de compras / Wayback (NUP 22001.046773/2024-41; número impresso em branco). URL viva inacessível em 04/11/2026; captura dual do PDF Wayback com SHA-256 coincidente. A localização inicial do catálogo mais amplo foi superada pelo inventário de 05/11/2026, ainda não integralmente transcrito ou revisado. Não se infere vigência, vinculação ou completude.
 
@@ -17,3 +17,5 @@ O Parecer Referencial 05/2026, UVA/PROGEP, teve 16 páginas cotejadas por imagem
 O Parecer Normativo003/96, processo0415/96, teve duas páginas transcritas e cotejadas integralmente. A origem impressa é Administração, divergente de um dos rótulos do portal. O dia da aprovação permanece parcialmente ilegível; não se afirma vigência ou autenticação. Demais históricos seguem em reconciliação.
 
 Dezenove identidades históricas adicionais foram reconciliadas com transcrições e cotejos independentes de fonte, preservando aliases, versões e ressalvas. A preparação Sol/Astra reaproveitou cotejos visuais anteriores; não se anuncia novo cotejo integral de todos os PDFs nessa preparação. Consultar o [índice dos históricos](parecer-normativo/) para limites e exclusões. A investigação do catálogo permanece aberta na #269.
+
+Recuperado o início do PN 002/2000, com identidade impressa e continuidade cotejada até o fecho. O PN 002/2001 recebeu registro parcial de 35 linhas, com ementa interrompida e continuação não recuperada. Capturas novas e legadas conservam seus limites próprios.
