@@ -3046,3 +3046,7 @@ As [23 páginas do documento localizado](tribunais/PGECE/parecer-referencial/pge
 ### MPAP — CAO Criminal, 05/11/2026
 
 O [Ato 006/2011-GAB/PGJ](tribunais/MPAP/en-cao-criminal/ato-006-2011.md) publica três enunciados aprovados no CAOPCRIM em 19/08/2011. Duas páginas cotejadas integralmente em imagem; carimbo e rubricas registrados, dúvida no acento da signatária explícita. Três IDs novos, separados do CSMP. E-Diário 133/11 não recuperado e vigência não inferida.
+
+### Recontagem estrutural — 05/11/2026, base 4abb1ec88
+
+Recontagem integral dos campos “Identificador” em Markdown: 43.887 ocorrências, 43.887 IDs únicos, 212 órgãos e nenhuma duplicata. Excluídos os campos de suporte. Confirma os deltas incorporados desde a recontagem anterior; não certifica literalidade, completude documental ou vigência.
