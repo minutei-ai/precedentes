@@ -16,14 +16,44 @@ SÚMULA Nº 60
 
 SINDICATO. SUBSTITUIÇÃO PROCESSUAL. GRATUIDADE DE JUSTIÇA. Ao sindicato, quando atua como substituto processual em defesa de interesses e direitos coletivos lato sensu, aplicam-se as normas relativas às ações coletivas, concedendo-se a gratuidade de justiça nos termos dos artigos 87 da Lei 8.078/90 e 18 da Lei 7.347/85. A condenação ao pagamento de honorários e demais despesas processuais condiciona-se a comprovação da má-fé da entidade sindical.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: SÚMULA Nº 60 - SINDICATO. SUBSTITUIÇÃO PROCESSUAL. GRATUIDADE DE JUSTIÇA
 
 Data indicada: 24/05/2022
 
-Página individual: [leitor 913238038](https://app.trt17.jus.br/principal/publicacoes/leitor/913238038?Formato=pdf), formato pdf. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 913238038](https://app.trt17.jus.br/principal/publicacoes/leitor/913238038?Formato=pdf), formato pdf.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `913238038`](https://app.trt17.jus.br/principal/publicacoes/leitor/913238038?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+```
+SÚMULA Nº 60 DO TRT DA 17ª REGIÃO
+
+ 
+
+"SINDICATO. SUBSTITUIÇÃO PROCESSUAL. GRATUIDADE DE JUSTIÇA. Ao sindicato, quando atua como substituto processual em defesa de interesses e direitos coletivos lato sensu, aplicam-se as normas relativas às ações coletivas, concedendo-se a gratuidade de justiça nos termos dos artigos 87 da Lei 8.078/90 e 18 da Lei 7.347/85. A condenação ao pagamento de honorários e demais despesas processuais condiciona-se a comprovação da má-fé da entidade sindical”.
+
+ 
+
+ 
+
+ 
+
+ 
+
+IRDR n.º 0000762-22.2020.5.17.0000: acórdão referente à Súmula nº 60, disponibilizado no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 3461/2022, no dia 29 de abril de 2022, considerando-se publicado em 2 de maio de 2022.
+
+ 
+
+Disponibilizada no Caderno Administrativo do Tribunal Regional do Trabalho da 17ªRegião – Diário Eletrônico da Justiça do Trabalho nº 3467, 3468 e 3469, às páginas 7, 1 e 3-4, nos dias 9, 10 e 11 de maio de 2022, respectivamente.
+
+ 
+
+Disponibilizada no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 3467, 3468 e 3469, às páginas 3, 5 e 2-3, nos dias 9, 10 e 11 de maio de 2022, respectivamente.
+```

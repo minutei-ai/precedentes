@@ -16,14 +16,27 @@ SÚMULA Nº 3
 
 MULTAS ADMINISTRATIVAS. PRESCRIÇÃO. As multas aplicadas por infração administrativa pela Superintendência Regional do Trabalho e Emprego são de natureza não-tributária. Diante da lacuna de legislação específica, aplica-se o prazo prescricional quinquenal de que trata o art. 1º da Lei 9.873/99 e Decreto 20.910/1932.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: Súmula Nº 03 - MULTAS ADMINISTRATIVAS. PRESCRIÇÃO
 
 Data indicada: 22/09/2010
 
-Página individual: [leitor 987301502](https://app.trt17.jus.br/principal/publicacoes/leitor/987301502?Formato=html), formato html. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 987301502](https://app.trt17.jus.br/principal/publicacoes/leitor/987301502?Formato=html), formato html.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `987301502`](https://app.trt17.jus.br/principal/publicacoes/leitor/987301502?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+```
+SÚMULA Nº 3 DO TRT DA 17ª REGIÃO
+
+
+MULTAS ADMINISTRATIVAS. PRESCRIÇÃO. As multas aplicadas por infração administrativa pela Superintendência Regional do Trabalho e Emprego são de natureza não-tributária. Diante da lacuna de legislação específica, aplica-se o prazo prescricional quinquenal de que trata o art. 1º da Lei 9.873/99 e Decreto 20.910/1932.
+               Publicado no Diário Oficial do Tribunal Regional do Trabalho da 17ª Região de n.º 569, 570 e 571, às páginas 01, 01, 01, nos dias 18/10/2010, 19/10/2010 e 20/10/2010, respectivamente.
+               Publicado no Diário Eletrônico da Justiça do Trablho de n.º 586, 587 e 588, às páginas 01, 02, 02, nos dias 18/10/2010, 19/10/2010 e 20/10/2010, respectivamente.
+```

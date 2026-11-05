@@ -16,14 +16,32 @@ SÚMULA Nº 16
 
 ASSISTÊNCIA JUDICIÁRIA GRATUITA AO EMPREGADOR PESSOA FÍSICA. DESERÇÃO. Conceder-se-á o benefício da assistência judiciária gratuita ao empregador pessoa física que declarar, sob as penas da lei, não possuir recursos para o pagamento das custas e do depósito recursal, sem prejuízo do sustento próprio ou de sua família. Inteligência do art. 5º, LXXIV, da Constituição Federal e do art. 3º, I e VII, da Lei 1.060, de 5 de fevereiro de 1950.”
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: Súmula Nº 16 - ASSISTÊNCIA JUDICIÁRIA GRATUITA AO EMPREGADOR PESSOA FÍSICA. DESERÇÃO.
 
 Data indicada: 28/05/2013
 
-Página individual: [leitor 266243708](https://app.trt17.jus.br/principal/publicacoes/leitor/266243708?Formato=html), formato html. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 266243708](https://app.trt17.jus.br/principal/publicacoes/leitor/266243708?Formato=html), formato html.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `266243708`](https://app.trt17.jus.br/principal/publicacoes/leitor/266243708?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+```
+SÚMULA Nº 16 DO TRT DA 17ª REGIÃO
+
+ 
+
+“ASSISTÊNCIA JUDICIÁRIA GRATUITA AO EMPREGADOR PESSOA FÍSICA. DESERÇÃO. Conceder-se-á o benefício da assistência judiciária gratuita ao empregador pessoa física que declarar, sob as penas da lei, não possuir recursos para o pagamento das custas e do depósito recursal, sem prejuízo do sustento próprio ou de sua família. Inteligência do art. 5º, LXXIV, da Constituição Federal e do art. 3º, I e VII, da Lei 1.060, de 5 de fevereiro de 1950.”
+
+ 
+
+Publicada no Diário Oficial do Tribunal Regional do Trabalho da 17ª Região nº 1081, 1082 e 1083, às páginas 01, 01/02 e 01, nos dias 25, 28 e 29/01/2013, respectivamente.
+
+Disponibilizada no Diário Eletrônico da Justiça do Trabalho nº 1154, 1155 e 1156, às páginas 42/43, 162 e 173, nos dias 28, 29 e 30/01/2013, respectivamente.
+```

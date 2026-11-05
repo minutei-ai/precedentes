@@ -22,8 +22,12 @@ SÚMULA Nº 53 (CANCELADA)
 
 *Cancelada em razão do julgamento da PetCiv n° 0000451-89.2024.5.17.0000, na 2ª Sessão Ordinária Virtual do Tribunal Pleno, com início em 13/12/2024 e término em 18/12/2024.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista. Este número não aparece nessa lista. O enunciado acima não foi extraído de um título de catálogo.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55). Este número não aparece nessa lista. O enunciado acima não foi extraído de um título de catálogo.
+
+## Página individual do leitor (04/11/2026)
+
+Reconsulta do catálogo do leitor em 04/11/2026: a súmula nº 53 **não consta** da lista de 62 fichas (com a nº 55 e a nº 65, forma o trio ausente da lista). Não há URL de ficha individual a reconciliar nesta coleta. A Consulta Unificada acima permanece a apresentação com corpo e nota de cancelamento PetCiv. Não se inferiu motivo da ausência além do fato observado na lista; não se atribuiu vigência nem se inventou status a partir da falta de ficha.

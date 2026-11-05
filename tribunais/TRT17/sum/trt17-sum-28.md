@@ -16,14 +16,35 @@ SÚMULA Nº 28
 
 RECONHECIMENTO DO CRÉDITO DO EXEQUENTE POR PARTE DO EXECUTADO. PARCELAMENTO DO ART. 745-A DO CÓDIGO DE PROCESSO CIVIL. É compatível com o Processo do Trabalho o parcelamento previsto na norma do art. 745-A do Código de Processo Civil.
 
-O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026. O caderno aberto pelo leitor do portal e as páginas individuais continuam sem texto nesta coleta.
+O texto acima reproduz a coletânea, inclusive grafias, aspas soltas e a numeração do processo como impressa. A ausência de nota de cancelamento não comprova vigência posterior a maio de 2026.
 
 ## Catálogo do portal
 
-Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Duas leituras em 29/10/2026 coincidem no conteúdo da lista.
+Fonte: [Súmulas — Portal do TRT-17](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas). Leituras em 29/10/2026 e 04/11/2026 coincidem no conteúdo da lista (62 fichas + caderno; ausentes na lista as nº 53 e 55).
 
 Título indicado: Súmula Nº 28 - RECONHECIMENTO DO CRÉDITO DO EXEQUENTE POR PARTE DO EXECUTADO. PARCELAMENTO DO ART. 745-A DO CÓDIGO DE PROCESSO CIVIL.
 
 Data indicada: 29/04/2015
 
-Página individual: [leitor 354792857](https://app.trt17.jus.br/principal/publicacoes/leitor/354792857?Formato=html), formato html. A página retornou o desafio Cloudflare Turnstile, sem o texto do verbete. O título indicado não foi usado como enunciado.
+Página individual: [leitor 354792857](https://app.trt17.jus.br/principal/publicacoes/leitor/354792857?Formato=html), formato html.
+
+## Página individual do leitor (04/11/2026)
+
+No navegador integrado, a ficha HTML do [leitor `354792857`](https://app.trt17.jus.br/principal/publicacoes/leitor/354792857?Formato=html) exibiu o texto abaixo (literal). O título do catálogo e as datas de publicação do leitor não substituem o enunciado da Consulta Unificada.
+
+```
+SÚMULA Nº 28 DO TRT DA 17ª REGIÃO
+
+ 
+
+“RECONHECIMENTO DO CRÉDITO DO EXEQUENTE POR PARTE DO EXECUTADO. PARCELAMENTO DO ART. 745-A DO CÓDIGO DE PROCESSO CIVIL. É compatível com o Processo do Trabalho o parcelamento previsto na norma do art. 745-A do Código de Processo Civil.”
+
+ 
+
+Disponibilizada no Caderno Administrativo do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 1716, 1717 e 1718, às páginas 07/09, 02/04 e 08/09, nos dias 29 e 30 de abril de 2015 e 04 de maio de 2015, respectivamente, considerando-se publicada no dia 30 de abril de 2015.
+
+
+
+
+Disponibilizada no Caderno Judiciário do Tribunal Regional do Trabalho da 17ª Região – Diário Eletrônico da Justiça do Trabalho nº 1716, 1717 e 1718, às páginas 93/95, 12/14 e 89/91, nos dias 29 e 30 de abril de 2015 e 04 de maio de 2015, respectivamente, considerando-se publicada no dia 30 de abril de 2015.
+```
