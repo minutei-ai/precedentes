@@ -224,6 +224,11 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 -   Página 2: [https://sistemas.tce.pi.gov.br/eprocesso/tce-viewer/protocolo/view?numero=001812%2F2025&tab=0&peca=C74880DE-ED35-473B-93C8-D4F3D4BC1761](https://sistemas.tce.pi.gov.br/eprocesso/tce-viewer/protocolo/view?numero=001812%2F2025&tab=0&peca=C74880DE-ED35-473B-93C8-D4F3D4BC1761)
 -   Página 2: [https://sistemas.tce.pi.gov.br/eprocesso/tce-viewer/protocolo/view?numero=001812%2F2025&tab=0&peca=7104A8A8-C366-4BDC-A28F-A2B8D0D41646](https://sistemas.tce.pi.gov.br/eprocesso/tce-viewer/protocolo/view?numero=001812%2F2025&tab=0&peca=7104A8A8-C366-4BDC-A28F-A2B8D0D41646)
 
+
+## Relatório de instrução recuperado do viewer
+
+O [exemplar de 17 páginas da peça 11](complementos/exemplar-relatorio-001812-2025.md) foi recuperado do viewer já vinculado acima e transcrito com revisão independente integral por imagem. Capa, identificação e folha de assinatura imprimem 001812/2025; os rodapés do corpo imprimem TC/013370/2024. A divergência permanece sem conciliação. O complemento documenta o arquivo disponibilizado, sem resolver a identidade entre processos, autenticar assinaturas ou transformar o relatório em decisão. A folha de assinatura fica separada do corpo; matrículas e CPF/CNPJ pessoais foram ocultados. Esta incorporação não revalida as quatro páginas do acórdão acima.
+
 ## Ementa
 
 Agente político. Subsídio dos vereadores.  Ato normativo sem validez
