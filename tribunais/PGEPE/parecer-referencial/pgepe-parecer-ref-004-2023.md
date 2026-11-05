@@ -15,7 +15,7 @@
 
 ## Identidade e limites documentais
 
-O catálogo remete à [Portaria PGE 169/2023](https://www.pge.pe.gov.br/App_Themes/Portaria%20PGE%20169%202023.pdf), documento separado cuja revisão permanece pendente. O PDF do parecer não comprova sua aprovação formal. Na página 16 há assinatura manuscrita em imagem de Marcos André Couto Santos. A página 17 traz “De acordo” e o nome de Danilo Almeida Nascimento, mas está sem assinatura e com a data em branco. Não se afirma adoção, vigência ou efeito vinculante.
+A [Portaria PGE 169/2023](portarias-30-2021-e-169-2023.md), documento separado vinculado pelo catálogo, foi transcrita e cotejada integralmente em imagem: seu art. 1º aprova o Parecer Referencial 4/2023. O nome de Bianca Ferreira Teixeira é digitado, sem assinatura visível nesse PDF. O PDF do parecer não comprova sua aprovação formal. Na página 16 há assinatura manuscrita em imagem de Marcos André Couto Santos. A página 17 traz “De acordo” e o nome de Danilo Almeida Nascimento, mas está sem assinatura e com a data em branco. Não se afirma adoção, vigência ou efeito vinculante.
 
 ## Texto do PDF e normalizações
 
