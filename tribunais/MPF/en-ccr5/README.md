@@ -65,3 +65,7 @@ Orientações citadas, inclusive as nºs 3 e 8, votos, atas, processos e o intei
 - [Enunciado 55](mpf-en-ccr5-55.md)
 - [Enunciado 56](mpf-en-ccr5-56.md)
 - [Enunciado 57](mpf-en-ccr5-57.md)
+
+## Anexo conjunto conciliado —05/11/2026
+
+A coleção oficial da6ªCCR fornece o scan do ato conjunto de12/08/2009 sob o mesmo nome de arquivo ligado ao nº09 pelo catálogo. O vínculo é registrado como associação declarada pela página, não como número impresso no PDF. As seis páginas do scan e quatro da redigitação da5ªCCR foram integralmente cotejadas; variantes de timbre, título, considerandos e atendimento/entendimento permanecem atribuídas na [ficha conjunta9](../en-conj-ccr5-ccr6/mpf-en-conj-ccr5-ccr6-9.md). As observações históricas acima de identidade não comprovada ficam superadas apenas nesse limite de associação documental, sem comprovar quando o número foi dado. Sem novo ID.
