@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 43.935 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 43.937 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +958 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +960 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -3182,3 +3182,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **PGEPA, lote 1 de 05/11/2026:** 18 páginas dos pareceres 000001/2020 e 000006/2020 transcritas por imagem e cotejadas integralmente em revisão independente; +1 ID para 000006/2020. Checklist do primeiro e ratificação/aprovação do segundo preservados em suas posições. Demais PDFs do inventário continuam pendentes.
 
 - **TCMBA, 05/11/2026:** Parecer Normativo 003/95, duas imagens do DOC oficial cotejadas diretamente em revisão independente; corrigida a atribuição dos nomes e funções no fecho e retirada a falsa lacuna de um conselheiro adicional. Acento parcialmente encoberto mantido incerto. Recaptura HTTP 200 com TLS verificado e bytes idênticos. Sem novos IDs.
+
+- **PGEPA, lotes 2–3 de 05/11/2026:** quatro PDFs / 51 páginas cotejadas integralmente por GPT-6.1 Sol; +2 IDs (004/2019 e 000003/2020), com atualização de 000002/2022 e 000014/2024. Despachos separados, checklist integrado ao corpo, marcas d’água sem inferência de efeito e sinal encoberto mantido incerto. Demais arquivos do inventário seguem pendentes.
