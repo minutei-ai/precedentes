@@ -16,7 +16,7 @@ As datas permanecem nos textos da fonte e não foram usadas como atualização i
 
 ## Resolução Administrativa nº 56/2024 recuperada
 
-Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/64552?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-56/2024) coincidem: SHA-256 `3528cbfab30fe4ce6b8459213ceba55230b221d0f746a38422b5ac493612b25a`, 97433 bytes. A RA (PROAD nº 1780/2024, Sessão Administrativa de 07/08/2024) trata da proposição de enunciado de súmula sobre prescrição intercorrente vinculada a este verbete no catálogo. O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional. 7 páginas (pdftotext nativo página a página na evidência privada `trt22/ras/transcricao-nativa/ra56-p0N.txt`).
+Duas capturas em 04/11/2026 do PDF oficial no [portal SGI de atos e resoluções](https://sgi.trt22.jus.br/transparencia/documentoportal/sgi/64552?fileName=Resolu%C3%A7%C3%A3o%20Administrativa-56/2024) coincidem: SHA-256 `3528cbfab30fe4ce6b8459213ceba55230b221d0f746a38422b5ac493612b25a`, 97433 bytes. A RA (PROAD nº 1780/2024, Sessão Administrativa de 07/08/2024) aprova, por maioria, a edição da Súmula47 sobre prescrição intercorrente. O PDF permanece privado; a resolução é documento de apoio e não gera registro adicional. 7 páginas (pdftotext nativo página a página na evidência privada `trt22/ras/transcricao-nativa/ra56-p0N.txt`).
 
 ## Texto disponibilizado pela fonte
 
@@ -33,3 +33,7 @@ III. Iniciada a execução, não localizado o executado ou não encontrados bens
 **Publicação no DEJT:** Disponibilizada no DEJT nº 4036 de 14.08.2024
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Ato complementar cotejado
+
+As [15 páginas das RAs57/2007,67/2013,80/2014 e56/2024](atos-ra57-2007-ra67-2013-ra80-2014-ra56-2024.md) foram integralmente cotejadas em imagem em05/11/2026. O apoio preserva texto, certidões e divergências frente ao catálogo, sem harmonização ou inferência de vigência.

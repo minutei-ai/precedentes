@@ -40,3 +40,7 @@ Texto reproduzido de fonte oficial. Confira na origem a situação atual e as re
 ## Inteiro teor dos atos de apoio
 
 As [resoluções e o acórdão de apoio](atos-ra48-2016-ra116-2023-proad3496.md) foram incorporados após cotejo integral das 13 páginas em imagem, com correções de ordem de assinatura e título aplicadas. São documentos compartilhados, sem novo ID. As demais referências apenas citadas continuam com os limites descritos acima.
+
+## Ato complementar cotejado
+
+As [15 páginas das RAs57/2007,67/2013,80/2014 e56/2024](atos-ra57-2007-ra67-2013-ra80-2014-ra56-2024.md) foram integralmente cotejadas em imagem em05/11/2026. O apoio preserva texto, certidões e divergências frente ao catálogo, sem harmonização ou inferência de vigência.

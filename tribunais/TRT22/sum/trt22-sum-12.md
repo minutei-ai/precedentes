@@ -28,3 +28,7 @@ O ajuizamento de [ação](https://www.trt22.jus.br/governanca-estrategia/guia-ci
 **Publicação no DEJT:** Publicada no DejT nºs 917, 918 e 919 de 21, 22 e 23.06.2007
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Ato complementar cotejado
+
+As [15 páginas das RAs57/2007,67/2013,80/2014 e56/2024](atos-ra57-2007-ra67-2013-ra80-2014-ra56-2024.md) foram integralmente cotejadas em imagem em05/11/2026. O apoio preserva texto, certidões e divergências frente ao catálogo, sem harmonização ou inferência de vigência.
