@@ -20,3 +20,19 @@ Em 05/11/2026, uma auditoria encontrou OCR residual corrompido em dez fichas (16
 Em 05/11/2026, a classificação contextual dos 98 flags restantes separou 88 falsos positivos, nove ocorrências de corrupção lexical e uma suspeita. Os nove PDFs envolvidos (24 páginas documentais, não 24 páginas necessariamente corrompidas) foram transcritos por imagem e cotejados integralmente por GPT-6 Astra. As fichas 16025, 16151, 16860, 16869, 16309, 16654, 16306, 16021 e 59065 receberam o texto revisado; CPF permanece ocultado e códigos documentais preservados. Sem novos IDs. A classificação não certifica as páginas sem flag nem encerra automaticamente o aceite global da issue #201.
 
 Em 05/11/2026, outras 19 páginas receberam integração após cotejo independente integral Astra/Sol: seis páginas de votos dos processos 47.452/11 e 45.472/12 nas fichas 15976 e 16230, e [13 páginas contextuais da compilação até 2007](cons/complementos/compilacao-ate-2007-recortes.md) em complemento separado. O PDF compartilhado não vincula todos os quadros às fichas que o apontam. Sem novos IDs; a matriz exaustiva e o aceite integral da #201 permanecem abertos.
+
+## Reconciliação das fontes e trabalho restante
+
+Inventário físico reconciliado em 05/11/2026, com integração verificada até a PR #467. Os 72 PDFs/238 páginas do lote anterior e os 393 PDFs/1.426 páginas das novas capturas compartilham um PDF de 16 páginas: a compilação de consultas. A união é de **464 PDFs distintos por bytes e 1.648 páginas físicas**. As 476 URLs PDF capturadas não representam 476 atos novos; aliases e contextos de ficha permanecem separados.
+
+| Estado físico na cadeia examinada | Páginas |
+| --- | ---: |
+| Com prova visual herdada atribuída às revisões identificadas | 238 |
+| Disponíveis, sem revisão visual comprovada nessa cadeia | 1.410 |
+| Total físico da união capturada | 1.648 |
+
+A prova visual herdada não foi refeita na reconciliação. As 19 páginas integradas pela PR #467 estão incluídas nas 238, sem nova soma. As 13 páginas da compilação foram publicadas como contexto; isso não comprova o vínculo de cada quadro a todas as fichas que compartilham o PDF. Essas 13 páginas e outras quatro páginas já lidas conservam trabalho de relação documental/contextual. O vínculo da página 2 do exemplar do Acórdão 601/12 continua não comprovado; não deve ser resolvido pela posição física.
+
+O inventário preserva 556 ocorrências documentais e 2.941 contextos de página, vinculados às 387 consultas e à ficha de apoio. Contextos não são páginas físicas distintas nem novos precedentes. A fila restante separa 1.410 páginas para primeiro cotejo visual, 429 URLs HTML ainda sem captura/revisão, 38 links embutidos com pertinência/extensão por verificar e três lacunas documentais. As quantidades de páginas dos exemplares capturados não provam completude dos atos nem das fontes ainda indisponíveis.
+
+Permanecem individualizadas as folhas 44/48 do voto de Isaías Coelho, a continuação do Parecer MPC2012MC0004 após a folha 100 e o vínculo não comprovado da folha interna atribuída ao Acórdão 601/12. Os exemplares e variantes do Acórdão-66 não foram fundidos. Matrizes, recibos, atribuições de revisão, hashes e fila com ownership exclusivo ficam privados. O inventário deriva do acervo e das capturas examinadas, sem afirmar exaustividade do portal vivo. A [issue #201](https://github.com/minutei-ai/precedentes/issues/201) permanece aberta.
