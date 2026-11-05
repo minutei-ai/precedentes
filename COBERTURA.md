@@ -2969,3 +2969,8 @@ Recuperada publicação primária alternativa no DOE nº 553 de 20/12/2012, p. 5
 ## TCEPR — lote de 13 documentos principais concluído
 
 Integrados os últimos documentos, Acórdãos 1294/2019 (15 páginas) e 3295/2013 (9), após conferência visual independente integral e aplicação de correções de sobrescritos, notas continuadas, tabela e destaques. O resumo Lumis de Novo Itacolomi no 1294 foi conciliado com fontes próprias do 1299, sem atribuí-lo ao PDF correto de Ibaiti. Com as etapas anteriores, são 13 de 13 documentos/102 de 102 páginas integrados sob os IDs existentes. Notas e recortes, votação, seções vazias, variantes e inconsistências da fonte foram preservados. Zero delta de IDs/órgãos. A lacuna documental da #194 está atendida; isso não certifica vigência, efeito vinculante ou completude histórica de toda a série TCEPR.
+
+
+## TRF02 — atribuição da publicação do cancelamento das Súmulas 19/33
+
+Recapturado o PDF do PA 2016.02.01.900166-9 em três downloads idênticos; páginas decisórias 1, 2, 14 e 15 inspecionadas para identidade e escopo. A certidão confirma cancelamento somente de 19 e 33, no julgamento de 03/08/2017; o cancelamento da nº 5 pertence a processo distinto indicado no catálogo. O rótulo PA 2001 no link permanece separado do número 2016 impresso. Corrigida a atribuição da referência e-DJE2R de 14/08/2017 p. 9: é informação da página oficial, sem conferência autônoma do caderno nesta coleta, cujo portal legado/API permaneceu bloqueado. Ato primário recuperado, transcrição do trecho decisório em revisão; #249 permanece aberta. Zero novos IDs/órgãos.
