@@ -1,11 +1,12 @@
 # MPAL
 
-Ministério Público do Estado de Alagoas. **17 registros** do Conselho Superior do Ministério Público (CSMP): assentos 001–016/2026 e Súmula 001/2026. O [arquivo histórico](assentos-csmp/historico/README.md) preserva 80 transcrições das edições de 2016 a 2024, sem contá-las como registros enquanto a associação a atos individuais estiver pendente.
+Ministério Público do Estado de Alagoas. **18 registros** do Conselho Superior do Ministério Público (CSMP): 17 rótulos da edição de 2026 (assentos 001–016 e Súmula 001) e o Assento histórico 008/2019, com origem individual recuperada. O [arquivo histórico](assentos-csmp/historico/README.md) preserva 80 transcrições das edições de 2016 a 2024, sem contá-las como registros enquanto a associação a atos individuais estiver pendente.
 
 | Espécie | Registros |
 | --- | ---: |
 | [Assentos do CSMP](assentos-csmp/) | 16 |
 | [Súmula do CSMP](assentos-csmp/mpal-csmp-sumula-001-2026.md) | 1 |
+| [Assento histórico 008/2019](assentos-csmp/historico/mpal-csmp-assento-008-2019.md) | 1 |
 | [Transcrições históricas com associação pendente](assentos-csmp/historico/README.md) | — |
 
 ## Série de 2026

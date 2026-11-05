@@ -16,3 +16,7 @@ A [edição de 2025](https://www.mpal.mp.br/wp-content/uploads/2025/05/Assentos-
 As edições históricas foram capturadas duas vezes em respostas HTTP 200 idênticas por bytes e SHA-256. As 14 páginas físicas únicas foram lidas visualmente. Os avisos 004/2020–004/2024 e 008/2020–008/2024 permanecem literais; o texto histórico 004/2016 e 004/2019 foi conferido diretamente; 008/2019 segue sem texto disponível nas edições capturadas. Nenhuma ausência de texto antigo foi usada para reconstruir a edição de 2026.
 
 Catálogo e edições não demonstram vigência atual, efeito vinculante, completude da série ou ausência de outros atos. Normas citadas não recebem identificadores. Nomes e funções públicas foram preservados; dados pessoais de identificação e códigos de autenticação foram excluídos. Apenas Markdown é público; capturas, recibos, PDFs, imagens e scripts permanecem privados.
+
+## Assento histórico com publicação individual recuperada
+
+[008/2019](historico/mpal-csmp-assento-008-2019.md): corpo recuperado no DOE nº 085 de 06/12/2019, p. 15, com revogação literal do Assento 009/2019, DOE nº 090 de 13/12/2019, p. 9. É uma identidade histórica adicional, distinta dos 17 rótulos da edição 2026 e das 80 transcrições de compilações sem associação individual. A recuperação posterior supera a lacuna descrita nas seções históricas, sem alterar o conteúdo das compilações.
