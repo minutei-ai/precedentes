@@ -2862,3 +2862,7 @@ No lote das dez primeiras identidades não foram lidos os diários, atas, estudo
 
 - FONACON: 18 identidades existentes, agora com os 18 corpos conferidos na edição *Enunciados Aprovados 2023*, I Seminário. Enunciados 17 e 18 completos; corrigida a nota de truncamento. Delta de registros: 0; 16 corpos antes retidos recuperados. Aspas e grafias da fonte preservadas; sem inferir adoção estadual ou vigência.
 - [PGEPE](tribunais/PGEPE/): +1 órgão e +1 registro, Parecer Referencial 002/2025 do catálogo, impresso 0001/2021. Quinze páginas conferidas; assinatura em imagem, despacho sem data/assinatura e perda de ênfases descritos na ficha. Restante do catálogo e atos permanecem pendentes (#264). Este delta não substitui a recontagem global de #239.
+
+## TRE-MT — resolução da súmula 1 recuperada
+
+A Resolução 2.240/2018 foi recuperada no SJUR/TSE e conferida com a ficha da súmula 1: art. 1º contém seu enunciado, sessão de 12/12/2018, PJe 600187-17.2018.6.11.0000. PDF de 40.546 bytes, SHA-256 `5a05fdd17687007a9b233c18fbc477123de8724657a42a0ae430db61bbb25111`. O vínculo divergente para a Resolução 2.231/2018 é preservado e atribuído: esse ato trata de recesso e prazos, não da súmula. O catálogo respondeu 403 na coleta de 04/11/2026; não se infere inexistência ou vigência atual. Texto e referências em [súmula 1](tribunais/TRE_MT/sum/tre-mt-sum-1.md); PDFs e revisão privados. Delta: zero IDs e zero órgãos, TRE-MT permanece com 1 registro.
