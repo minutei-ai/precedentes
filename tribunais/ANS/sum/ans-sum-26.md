@@ -19,7 +19,6 @@
 SÚMULA NORMATIVA Nº 26, DE 27 DE FEVEREIRO DE 2015
 (Revogado pela RN nº 615, de 03/10/2024)
 
-  [Correlações]
 
 A Diretoria Colegiada da Agência Nacional de Saúde Suplementar - ANS, em vista do que dispõem o artigo 3º e o inciso II, do artigo 4º, cumulados com o inciso II do artigo 10, todos da Lei nº 9.961, de 28 de janeiro de 2000; em conformidade com o disposto no inciso III do artigo 6º e no inciso III do artigo 86, ambos da Resolução Normativa - RN n° 197, de 16 de julho de 2009;
 
@@ -70,3 +69,7 @@ Duas capturas HTTP independentes em 04/11/2026 do endpoint `TextoLei&format=raw`
 ## Ato posterior — RN 615/2024
 
 O art. 1º da [RN ANS 615, de 03/10/2024](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2024/res0615_07_10_2024.html), em texto oficial da BVS/MS consultado em 05/11/2026, declara expressamente a revogação da Súmula Normativa 26, de 27/02/2015, qualificada nesse dispositivo como já revogada tacitamente e com efeitos exauridos. A referência pertence a esse ato posterior; o corpo histórico acima foi preservado. O art. 2º prevê entrada em vigor na publicação, sem que esta nota determine por conta própria uma data anterior de revogação tácita. A página adverte que não substitui o DOU. Nenhum ID adicional foi criado para a resolução citada.
+
+## Cotejo com o Diário Oficial — 05/11/2026
+
+DOU nº 40, de 02/03/2015, Seção 1, p.31: o diário usa hífen onde o HTML usa travessão. O controle de navegação “[Correlações]” foi retirado do corpo, preservando o bloco textual de correlações do HTML. Os blocos integrais foram cotejados nas imagens por revisão independente; variantes de apresentação não foram usadas para reescrever silenciosamente o testemunho HTML. Datas do ato e da publicação permanecem distintas. Não foram autenticadas assinaturas nem inferida vigência.
