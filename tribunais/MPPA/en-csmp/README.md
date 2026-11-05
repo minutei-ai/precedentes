@@ -22,3 +22,7 @@ Documento: [Enunciados aprovados na 2ª Sessão Extraordinária CSMP/PA](https:/
 - [Enunciado 16](mppa-en-csmp-16.md)
 
 Atualizações posteriores à 2ª Sessão Extraordinária e outros atos do CSMP/PA não foram lidos neste lote e permanecem pendentes. A data impressa no nome do arquivo e no metadado CreationDate não fecha a série nem certifica ausência de redações posteriores.
+
+## Reconciliação dos DOEs — 05/11/2026
+
+As publicações de 26/06/2019(pp.83–84),28/06/2019(pp.89–90) e16/03/2022(pp.110–111) foram cotejadas integralmente em imagem. As fichas 1/10/12/13/14 preservam variantes dos DOEs em seções próprias;3/4 receberam a redação expressamente alterada em 2022; 6/7 receberam nota do cancelamento expresso. A grafia “ADMIINISTRATIVA” do nº 5 coincide nas fontes; a hipótese de divergência foi descartada. Nenhum ID novo. A compilaçãoVade 2025 ainda não foi revisada integralmente em imagem; não se afirma completude histórica nem vigência.

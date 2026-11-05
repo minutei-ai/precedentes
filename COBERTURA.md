@@ -3062,3 +3062,7 @@ Os 73 enunciados próprios da 2ª edição foram integralmente cotejados nas ima
 ### ANS — quatro blocos DOU cotejados, 05/11/2026
 
 Os blocos integrais das Súmulas17/18/26/27 foram conferidos em imagem nas edições72/2011p83,140/2011p72,40/2015p31 e109/2015p26. As fichas mantêm o testemunho HTML e anotam suas diferenças do diário. Retirado controle de navegação da26. Os arquivos locais rotulados como PDFs da RN483 e da RN462/errata são HTML, sem valor de prova de fac-símile; a divergência SN1/2000 e a errata SN3 exigem recuperação dos PDFs reais. Delta zero.
+
+### MPPA — variantes de publicação e alterações, 05/11/2026
+
+Seis páginas dos DOEs 2019/2022 foram cotejadas em imagem. Variantes dos números 1/10/12/13/14 preservadas separadamente do PDF institucional; alterações expressas de 3/4 e cancelamento de 6/7 registrados. Sem retificação ou prevalência inferida. A grafia do nº 5 é idêntica nas fontes. Delta zero neste recorte 1–16; números 36/37 citados no extrato não foram contados como novos IDs.

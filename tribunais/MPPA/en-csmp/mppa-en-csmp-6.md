@@ -19,3 +19,7 @@ ENUNCIADO 6 – IMPROBIDADE ADMINISTRATIVA. CONTAGEM DE PRESCRIÇÃO. A contagem
 ## Conferência e limites
 
 As 4 páginas do PDF foram lidas na imagem renderizada e na camada de texto em 04/11/2026; as duas leituras coincidem neste enunciado. As duas capturas do PDF tiveram HTTP 200, os mesmos 334.902 bytes e o mesmo SHA-256. Cabeçalho repetido, numeração de página e espaços de justificação foram normalizados; grafias, números, datas e pontuação do PDF foram mantidos, inclusive “ADMIINISTRATIVA” no nº 5 e “01/25011” no fundamento do nº 15. O metadado CreationDate 19/06/2019 do arquivo Word não foi convertido em data de aprovação nem em vigência. O PDF não classifica a situação jurídica de cada enunciado; leis, resoluções, RE/STF, ARE e AgInt apenas citados não geraram registros. O MPPA é órgão próprio, distinto do TJPA, do TCEPA, do TCMPA, do PGEPA e do MPF.
+
+## Cancelamento registrado em 2022
+
+O [DOE/PA de 16/03/2022, p.110](https://www.ioepa.com.br/pages/2022/2022.03.16.DOE.pdf) registra que o Conselho, por unanimidade, “CANCELOU os enunciados 6 e 7”. A passagem foi conferida em imagem; o texto de 2019 permanece como histórico. Não se infere outro ato, data de publicação autônoma ou situação jurídica além do registro documental.

@@ -19,3 +19,9 @@ ENUNCIADO 3 – IMPROBIDADE ADMINISTRATIVA. INSUFICIÊNCIA DE PROVAS DE ATOS DE 
 ## Conferência e limites
 
 As 4 páginas do PDF foram lidas na imagem renderizada e na camada de texto em 04/11/2026; as duas leituras coincidem neste enunciado. As duas capturas do PDF tiveram HTTP 200, os mesmos 334.902 bytes e o mesmo SHA-256. Cabeçalho repetido, numeração de página e espaços de justificação foram normalizados; grafias, números, datas e pontuação do PDF foram mantidos, inclusive “ADMIINISTRATIVA” no nº 5 e “01/25011” no fundamento do nº 15. O metadado CreationDate 19/06/2019 do arquivo Word não foi convertido em data de aprovação nem em vigência. O PDF não classifica a situação jurídica de cada enunciado; leis, resoluções, RE/STF, ARE e AgInt apenas citados não geraram registros. O MPPA é órgão próprio, distinto do TJPA, do TCEPA, do TCMPA, do PGEPA e do MPF.
+
+## Alteração expressa no extrato da sessão de 14/03/2022
+
+O [DOE/PA de 16/03/2022, p.110](https://www.ioepa.com.br/pages/2022/2022.03.16.DOE.pdf) registra, por unanimidade, “ALTEROU os enunciados 3 e 4, que passarão a vigorar com o seguinte texto”. A redação histórica acima foi preservada. A deliberação foi cotejada em imagem; não se afirma que não existam alterações posteriores.
+
+ENUNCIADO 3 - IMPROBIDADE ADMINISTRATIVA. INSUFICIÊNCIA DE PROVAS DE ATOS DE IMPROBIDADE ADMINISTRATIVA E AUSÊNCIA OU IMPOSSIBILIDADE DE COMPROVAÇÃO DE DANOS AO ERÁRIO. Merece homologação a promoção de arquivamento de inquérito civil ou de procedimento preparatório para apurar improbidade administrativa se, no curso da investigação, restar comprovada a insuficiência de provas da prática de atos de improbidade tipificados nos artigos 9º, 10 e 11 da Lei Federal nº. 8.429/92, com as alterações da Lei 14.230/2021 e a ausência ou impossibilidade de comprovação de danos ao erário.
