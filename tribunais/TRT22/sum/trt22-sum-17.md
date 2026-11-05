@@ -36,3 +36,7 @@ c) a partir de 30 de junho de 2009, atualizam-se os débitos trabalhistas da Faz
 **Publicação no DEJT:** Publicada nos DEJTs de 27/10, 30/10 e 31/10/2023 nºs 3838, 3839 e 3840/2023
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Inteiro teor dos atos de apoio
+
+As [resoluções e o acórdão de apoio](atos-ra48-2016-ra116-2023-proad3496.md) foram incorporados após cotejo integral das 13 páginas em imagem, com correções de ordem de assinatura e título aplicadas. São documentos compartilhados, sem novo ID. As demais referências apenas citadas continuam com os limites descritos acima.

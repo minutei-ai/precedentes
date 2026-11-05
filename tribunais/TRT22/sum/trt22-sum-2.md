@@ -32,3 +32,7 @@ O empregado eletricitário, admitido sob a égide da Lei nº 7.369/1985, faz jus
 **Publicação no DEJT:** Publicada no DeJT nº 2003 de 20.06.2016
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+## Inteiro teor dos atos de apoio
+
+As [resoluções e o acórdão de apoio](atos-ra48-2016-ra116-2023-proad3496.md) foram incorporados após cotejo integral das 13 páginas em imagem, com correções de ordem de assinatura e título aplicadas. São documentos compartilhados, sem novo ID. As demais referências apenas citadas continuam com os limites descritos acima.
