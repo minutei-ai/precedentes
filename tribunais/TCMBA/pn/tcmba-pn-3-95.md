@@ -25,7 +25,7 @@ Identificação literal no catálogo: 003/95.
 Pareceres prévios - Pareceres prévios (câmaras municipais não podem excluir ressalvas ao aprovar ou rejeitar pareceres prévios do TCM)
 
 
-[Arquivo vinculado no catálogo oficial](https://www.tcm.ba.gov.br/wp-content/uploads/arquivos_antigos/Pareces%20Normativos%20Internet/pn03-95.doc). Duas leituras HTTP 200; respostas com bytes idênticos.
+[Arquivo vinculado no catálogo oficial](https://www.tcm.ba.gov.br/wp-content/uploads/arquivos_antigos/Pareces%20Normativos%20Internet/pn03-95.doc). Duas leituras HTTP 200; respostas com bytes idênticos. Nova captura com TLS verificado em 05/11/2026: HTTP 200, 634880 bytes, SHA-256 `51075efcbfb1ed584ab98d7336039e70958988065c6b909f8ecacc4f677f9e56`, idêntica ao DOC privado anterior.
 
 
 O ano do rótulo foi mantido literalmente, inclusive quando tem dois algarismos. Datas do documento não foram substituídas por datas de captura, pasta ou conversão.
@@ -37,18 +37,22 @@ O original é um arquivo DOC com duas imagens embutidas (sem texto selecionável
 ### Pendências e ressalvas documentais
 
 
--   Um nome de conselheiro na página 2 permanece parcialmente ilegível na assinatura/carimbo.
+-   Na página 2, o acento final de “MARACAJ[Á?]” está parcialmente encoberto por um traço; não foi completado por conhecimento do nome.
 
--   Diacríticos e maiúsculas de ênfase tipográfica do original escaneado foram restaurados na conferência visual; OCR foi apenas apoio privado.
+-   Nova conferência visual independente em 05/11/2026 corrigiu a atribuição de nomes e funções no fecho. O texto foi comparado diretamente com as duas imagens incorporadas ao DOC, sem OCR nesta revisão.
 
 
-Texto visual conferido por página, com tipografia simplificada. Tabelas e imagens não foram reconstruídas graficamente. CPF, RG e contas bancárias encontrados foram ocultados; originais privados. Outros pareceres, decisões, atos e processos apenas citados, demais bases e a conciliação nacional permanecem abertos.
+Texto visual conferido por página, com tipografia simplificada. Tabelas e imagens não foram reconstruídas graficamente. Não há CPF, RG ou conta bancária nas duas imagens deste documento. Outros pareceres, decisões, atos e processos apenas citados, demais bases e a conciliação nacional permanecem abertos.
 
 
 ## Decisão
 
 
 ### Documento vinculado — página 1
+
+[Logotipo TCM; timbre:] TRIBUNAL DE CONTAS DOS MUNICÍPIOS DO ESTADO DA BAHIA
+
+[Traços manuscritos cortados na margem superior; sem leitura.]
 
 
                                     PARECER NORMATIVO Nº 003/95
@@ -150,6 +154,8 @@ Inventário visual: 1 imagem embutida nesta página do DOC; texto conferido visu
 
 ### Documento vinculado — página 2
 
+[Logotipo TCM; timbre:] TRIBUNAL DE CONTAS DOS MUNICÍPIOS DO ESTADO DA BAHIA
+
 
     cont. do p.n. n. 003/95
 
@@ -173,18 +179,20 @@ Inventário visual: 1 imagem embutida nesta página do DOC; texto conferido visu
 
     JORGE DOS SANTOS PEREIRA — Conselheiro
 
-    [nome de conselheiro parcialmente ilegível na assinatura/carimbo]
-
     JOÃO LESSA RIBEIRO — Conselheiro
 
     PLÍNIO CARNEIRO DA SILVA — Conselheiro
 
-    PAULO VIRGÍLIO MARACAJÁ — Conselheiro
+    CARLOS ARAÚJO –
 
-    CARLOS ARAÚJO PEREIRA — Conselheiro-Relator
+    Conselheiro
+
+    PAULO VIRGILIO MARACAJ[Á?] PEREIRA
+
+    Conselheiro - Relator
 
 
-Inventário visual: 1 imagem embutida nesta página do DOC; texto conferido visualmente, com a ressalva do nome ilegível.
+Inventário visual: 1 imagem embutida nesta página do DOC; texto conferido visualmente, com a ressalva do acento parcialmente encoberto.
 
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
