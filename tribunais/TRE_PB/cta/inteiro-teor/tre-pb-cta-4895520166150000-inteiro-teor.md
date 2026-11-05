@@ -3,7 +3,7 @@
 - **Órgão:** TRE_PB
 - **Espécie:** Consulta
 - **Número:** 489-55.2016.6.15.0000
-- **Identificador:** `tre-pb-cta-4895520166150000`
+- **Registro relacionado:** [tre-pb-cta-4895520166150000](../tre-pb-cta-4895520166150000.md)
 - **Fonte catálogo:** [Respostas às consultas eleitorais](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/respostas-as-consultas)
 - **Pasta:** [489-55.2016.6.15.0000](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/arquivos/tre-pb-489-55-2016-6-15.0000)
 - **PDF (@@display-file):** [tre-pb-489-55-2016-6-15.0000.pdf](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/arquivos/tre-pb-489-55-2016-6-15.0000/@@display-file/file/tre-pb-489-55-2016-6-15.0000.pdf)

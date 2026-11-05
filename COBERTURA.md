@@ -2898,3 +2898,11 @@ Reconsulta ao catálogo oficial em 05/11/2026 confirma oito verbetes. Súmulas 1
 TJMRS: a Súmula 1 publicada foi corroborada pelo PDF oficial reconsultado, SHA-256 `4efe67518c6ad0fa2bdd14f6c759afab1b1df0e6689f7400dcc835078d94ecee`. A integração anterior acrescentou 1 registro e 1 órgão; esta auditoria não soma novo ID. O catálogo apresenta mais 57 documentos rotulados administrativos, sem classificação/leitura integral nesta auditoria. A busca oficial de outras espécies exige reCAPTCHA; inventário dessas séries permanece pendente (#235), sem inferência de ausência. O valor BNP 0 continua medindo apenas aquela fonte.
 
 MPMA: as duas páginas do catálogo responderam 410 na reconsulta. Resoluções 13/2022, 15/2022 e 16/2023 sustentam a distinção entre 25/2022, o texto histórico 24/CSMP mapeado a 23/22 e o 24/23 posterior, de outro conteúdo. Nenhum ato localizado determina renumeração/destino posterior do 25; questão permanece aberta (#253). Delta zero de IDs e órgãos. Capturas e auditorias privadas.
+
+## TRT23 — Teses Jurídicas Prevalecentes
+
+Integrados quatro corpos do catálogo oficial de Teses Prevalecentes, com notas, referências e riscos das nºs 01 e 02 canceladas conforme a página. Captura HTTP 200 de 05/11/2026, SHA-256 `aeaef5f6abc662f38632272ad97766548b627eb5db8e4da6999aeaba10f8da01`. O vínculo PJe do cancelamento da nº02 respondeu403; a nota do catálogo não foi usada para reconstruir o acórdão. Delta +4 IDs, zero órgãos: TRT23 69→73 (48 súmulas,4TP,21registros BNP). Leitura dos demais atos/documentos vinculados e conciliação integral da série de súmulas permanecem em #248. Não se afirma vigência ou exaustividade histórica.
+
+## Documentos complementares e identidade do registro
+
+Vinte e um documentos complementares TRE-MS/TRE-PB repetiam o campo Identificador da ficha principal. O campo passa a Registro relacionado, com link para a ficha canônica. Nenhum conteúdo foi removido nem houve novo ID; documentos de apoio não são precedentes adicionais. A recontagem por IDs únicos distingue esse ajuste de marcador dos quatro registros novos TRT23.
