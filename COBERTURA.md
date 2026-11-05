@@ -3194,3 +3194,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **PGEPA, lote 11 de 05/11/2026:** 18 páginas de 000003/2022 receberam transcrição visual e revisão independente Sol, com ajustes aplicados e limites gráficos preservados. Sem novos IDs; 12 PDFs / 163 páginas tratados nos recortes integrados, sem declarar completude da série.
 
 - **PGEPA, lotes 12 e 14 de 05/11/2026:** 38 páginas de dois novos registros receberam transcrição visual e revisão independente Sol/Astra, com ajustes aplicados e limites gráficos/tipográficos preservados. Dois novos IDs; 14 PDFs / 201 páginas tratados nos recortes integrados, sem declarar completude da série.
+
+- **PGEPA, lote 15 de 05/11/2026:** 20 páginas de 009/2019 cotejadas integralmente por GPT-6.1 Sol; parecer de Carolina Ormanes Massoud, processo 201900026127, com ratificação e aprovação em peças distintas. Corrigidos metadados antigos, preservada dúvida local do número manuscrito. Sem novo ID; 15 PDFs / 221 páginas nos recortes integrados, sem afirmar completude da série.
