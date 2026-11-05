@@ -273,3 +273,7 @@ Classif. documental   018.02.02.033
 
 Assinado com senha por FABIO HENRIQUE BORDINI CRUZ - 26/06/20 às 09:31:44.
 ```
+
+## Revisão documental pendente
+
+A transcrição adicional proposta neste lote foi retirada após revisão independente do Opus 5.5 identificar divergências materiais com a fonte. A retirada não indica ausência ou ilegibilidade do documento oficial. Nova leitura e revisão pendentes; sem certificação de integralidade.
