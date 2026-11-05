@@ -9,25 +9,30 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução nº 007/2021-PGE )
 - **Ementa no catálogo:** Medida Provisória nº 1.206, de 6 de janeiro de 2021. Contratos Administrativos. Medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra a covid-19. Suspensão da Orientação Administrativa nº41-PGE.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf)
-- **Páginas do PDF:** 4; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 152074 bytes; SHA-256 `c4360f3123d1b9b92754b0206e70d35218a8fc52a841fa343ce0f254254f9c7f`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol ou GPT-6 Astra, com os ajustes prescritos aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Descrições gráficas, marcadores de destaque e notas são editoriais; diagramação e quebras foram adaptadas ao Markdown. Documentos e versões estão separados por arquivo e hash.
 
+O mesmo arquivo também esteve associado à ficha 41 pelo portal. Seu título impresso é OA46 e a página 4 é folha ePROTOCOLO, distinta do corpo.
+
+### Documento 1 — SHA-256 `c4360f3123d1b9b92754b0206e70d35218a8fc52a841fa343ce0f254254f9c7f`
+
+- [Fonte oficial](http://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf)
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-01/orientacaoadministrativa046.pdf)
+
+#### Página física 1
+
+[Carimbo] PROTOCOLO INTEGRADO DO ESTADO — Fls. 9; Mov. 5
+
+```text
 Editada pela Resolução nº 007/2021 - PGE                  9
                                        ESTADO DO PARANÁ                                                  Diário Oficial nº 10849 de 12/01/2021                    5
-
                                        Procuradoria-Geral do Estado
                                        Gabinete da Procuradora-Geral
-
-
                                                    ORIENTAÇÃO ADMINISTRATIVA N. 46-PGE
-
-
                                          A PROCURADORA-GERAL DO ESTADO, no uso das atribuições
                     que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de
                     maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro
@@ -36,7 +41,6 @@ Editada pela Resolução nº 007/2021 - PGE                  9
                     que consta no protocolo n° 17.227.913-9, resolve expedir a seguinte orientação
                     administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta
                     e Autárquica:
-
                                                               Medida Provisória nº 1.026, de 6 de janeiro de 2021
                                                               Contratos Administrativos
                                                               Medidas excepcionais relativas à aquisição de vacinas,
@@ -44,21 +48,16 @@ Editada pela Resolução nº 007/2021 - PGE                  9
                         TEMA DE INTERESSE                     informação e comunicação, comunicação social e
                                                               publicitária e treinamentos destinados à vacinação contra
                                                               a covid-19
-
                                                               Suspensão da Orientação Administrativa nº 41-PGE
-
-
                     1. A Medida Provisória nº 1.026, de 6 de janeiro de 2021 tem abrangência a todos os
                        entes federativos, de todos os Poderes e órgãos constitucionalmente autônomos,
                        aplica‐se, portanto, à União, Estados, Distrito Federal e Municípios, a todos os
                        Poderes destes entes (executivo, legislativo e judiciário) e aos órgãos
                        constitucionalmente autônomos (ministério público, tribunais de contas e defensorias
                        públicas).
-
                     2. A Medida Provisória nº 1.026, de 2021, se aplica aos atos praticados e aos contratos
                        ou instrumentos congêneres firmados até 31 de julho de 2021, independentemente
                        do seu prazo de execução ou de suas prorrogações.
-
                     3. A Medida Provisória nº 1.026, de 2021, AUTORIZA a administração pública direta e
                        indireta a celebrar contratos ou outros instrumentos congêneres, com DISPENSA DE
                        LICITAÇÃO exclusivamente para a implementação da vacinação contra a COVID-19,
@@ -68,7 +67,6 @@ Editada pela Resolução nº 007/2021 - PGE                  9
                             emergencial pela ANVISA;
                        3.2. a contratação de bens e serviços de logística, tecnologia da informação;
                        3.3. comunicação social e publicitária, treinamentos e outros bens e serviços.
-
                     4. A Medida Provisória nº 1.026, de 2021, ainda:
                        4.1. não afasta a necessidade de processo administrativo com os elementos técnicos
                             referentes à escolha da opção de contratação e à justificativa de preços;
@@ -82,22 +80,25 @@ Editada pela Resolução nº 007/2021 - PGE                  9
                        4.4. para dispensa de licitação de que trata a Medida Provisória nº 1.026, de 2021,
                             quando se tratar de compra ou de contratação por mais de um órgão ou entidade,
                             poderá ser utilizado o sistema de registro de preços e, neste caso:
-
-
 Assinado digitalmente por: Leticia Ferreira da Silva em 11/01/2021 11:52. Inserido ao protocolo 17.227.913-9 por: Miriam Lopes Pinheiro em: 11/01/2021 11:47. Documento
 assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 319193bd5f5f788142a1ec5b62a6f5bd.
+```
 
+#### Notas locais de transcrição
 
-### Página física 2
+Identidade impressa OA46, apesar do nome orientacao-041 e vínculos OA41/OA46. Nota 007/2021 preservada. Mantidos “contrato.;” e “destinados a vacinação”.
 
-10
-                                       ESTADO DO PARANÁ                                                                                                           5
+Nenhuma lacuna textual ilegível remanescente identificada nesta leitura.  Brasões/logomarcas registrados pelo texto que exibem; detalhes heráldicos não transcritos.
 
+#### Página física 2
+
+[Carimbo] PROTOCOLO INTEGRADO DO ESTADO — Fls. 10; Mov. 5
+
+```text
+ESTADO DO PARANÁ                                                                                                           5
                                        Procuradoria-Geral do Estado
                                        Gabinete da Procuradora-Geral
-
-
                              4.4.1. o órgão ou entidade gerenciador da compra estabelecerá prazo de dois a
                                   oito dias úteis, contado da data de divulgação da intenção de registro de
                                   preço, para que outros órgãos e entidades manifestem interesse em participar
@@ -157,30 +158,31 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 319193b
                               inexecução do objeto, atualizado monetariamente pelo INPC amplo – IPCA ou
                               índice que venha a substituí-lo, desde a data do pagamento da antecipação até a
                               data da devolução, exceto na hipótese de perda do pagamento antecipado;
-
-
 Assinado digitalmente por: Leticia Ferreira da Silva em 11/01/2021 11:52. Inserido ao protocolo 17.227.913-9 por: Miriam Lopes Pinheiro em: 11/01/2021 11:47. Documento
 assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 319193bd5f5f788142a1ec5b62a6f5bd.
+```
 
+#### Notas locais de transcrição
 
-### Página física 3
+Faixas ampliadas superior e inferior cobrem integralmente a página com sobreposição. Preservados “1.206” nos itens 4.12 e 4.13 e “INPC amplo – IPCA”, sem correção normativa.
 
-11
-                                       ESTADO DO PARANÁ                                                                                                           5
+Nenhuma lacuna textual ilegível remanescente identificada nesta leitura.  Brasões/logomarcas registrados pelo texto que exibem; detalhes heráldicos não transcritos.
 
+#### Página física 3
+
+[Carimbo] PROTOCOLO INTEGRADO DO ESTADO — Fls. 11; Mov. 5
+
+```text
+ESTADO DO PARANÁ                                                                                                           5
                                        Procuradoria-Geral do Estado
                                        Gabinete da Procuradora-Geral
-
-
                          4.18.     a administração pública deverá prever cautelas aptas a reduzir o risco de
                              inadimplemento contratual na forma prevista na Medida Provisória nº 1.026, de
                              2021;
-
                     5. Fica suspensa a Orientação Administrativa nº 41/2020-PGE, tendo em vista que o
                        Decreto Legislativo nº 6, de 20 de março de 2020, vigeu até o dia 31 de dezembro de
                        2020. Assim:
-
                     6. Considerando o fim da vigência do Decreto Legislativo nº 6, de 20 de março de 2020:
                        6.1. é defesa a realização de novas contratações pelos meios previstos na Lei Federal
                             n.º 13.979, de 2020 e Decreto Estadual n.º 4.315, de 2020;
@@ -189,49 +191,45 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 319193b
                        6.3. os contratos ainda vigentes firmados com fundamento na Lei Federal n.º 13.979,
                             de 2020, terão seus prazos pactuados respeitados e poderão ser executados até
                             o término da vigência estabelecida.
-
                     7. Esta Orientação Administrativa não dispensa a leitura atenta da Medida Provisória nº
                        1026, de 2021, onde se encontram outros detalhes a serem observados.
-
                     REFERÊNCIAS: Constituição Federal, artigos 37, inciso XXI; Medida Provisória nº 1026,
                     de 2021; Lei nº 8666, de 1993, Lei Estadual nº. 15.608, de 2007.
-
                     PUBLIQUE-SE. ANOTE-SE.
-
                                                                      Curitiba, 11 de janeiro de 2021.
-
                                                                          Leticia Ferreira da Silva
                                                                        Procuradora-Geral do Estado
-
-
 Assinado digitalmente por: Leticia Ferreira da Silva em 11/01/2021 11:52. Inserido ao protocolo 17.227.913-9 por: Miriam Lopes Pinheiro em: 11/01/2021 11:47. Documento
 assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 319193bd5f5f788142a1ec5b62a6f5bd.
+```
 
+#### Notas locais de transcrição
 
-### Página física 4
+Continuação OA46. Preservado “Assim:” no fim do item 5, seguido de item 6, sem completar. Cabeçalho e rodapé confirmados em ampliações.
 
-11a
-                                                                                                       5
+Nenhuma lacuna textual ilegível remanescente identificada nesta leitura.  Brasões/logomarcas registrados pelo texto que exibem; detalhes heráldicos não transcritos.
 
+#### Página física 4
+
+[Carimbo] PROTOCOLO INTEGRADO DO ESTADO — Fls. 11a; Mov. 5
+
+```text
+ePROTOCOLO
 
 Documento: 04617.227.9139EDICAODAMEDIDAPROVISORIAN1.206DE2021EOFIMDAVIGENCIADALEIN13.979DE2020.pdf.
-
-
 Assinado digitalmente por: Leticia Ferreira da Silva em 11/01/2021 11:52.
-
-
 Inserido ao protocolo 17.227.913-9 por: Miriam Lopes Pinheiro em: 11/01/2021 11:47.
-
-
                         Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016.
-
-
                         A autenticidade deste documento pode ser validada no endereço:
                         https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
                         319193bd5f5f788142a1ec5b62a6f5bd.
 
+[QR code de validação no canto inferior esquerdo; elemento gráfico não decodificado.]
+```
 
-## Conferência e limites
+#### Notas locais de transcrição
 
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+Peça distinta: comprovante ePROTOCOLO, com nome documental próprio, assinatura, inserção, validação e QR. Não tratado como corpo adicional da OA.
+
+Nenhuma lacuna textual ilegível remanescente identificada nesta leitura.  Brasões/logomarcas registrados pelo texto que exibem; detalhes heráldicos não transcritos.
