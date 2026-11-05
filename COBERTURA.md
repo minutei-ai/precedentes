@@ -2964,3 +2964,8 @@ Integrados os atos das Súmulas 5 e 10: Resoluções 50/2004 e TRT05 009/2010, u
 ## TCEAM — Processo 059/2008 e proposta vinculada à Súmula 21
 
 Recuperada publicação primária alternativa no DOE nº 553 de 20/12/2012, p. 53: bloco integral do Processo 059/2008, com decisão que adota proposta de súmula no item 3.5. Revisão independente conferiu palavra a palavra as duas colunas e abriu p. 54 para confirmar que não há continuação. O post institucional de 22/05/2013 é a fonte da atribuição Súmula 21/Decisão 373/2012/sessão de 13/12/2012; o bloco do DOE não imprime esses campos. Mantidas redações distintas do DOE e do post, inclusive CELETISTA/CELESTISTA e numeração I/l. Downloads wpfd continuam divergentes nas capturas, sem afirmar correção do portal ou vigência atual. Publicação do processo é apoio à ficha existente; zero IDs/órgãos novos (#199).
+
+
+## TCEPR — lote de 13 documentos principais concluído
+
+Integrados os últimos documentos, Acórdãos 1294/2019 (15 páginas) e 3295/2013 (9), após conferência visual independente integral e aplicação de correções de sobrescritos, notas continuadas, tabela e destaques. O resumo Lumis de Novo Itacolomi no 1294 foi conciliado com fontes próprias do 1299, sem atribuí-lo ao PDF correto de Ibaiti. Com as etapas anteriores, são 13 de 13 documentos/102 de 102 páginas integrados sob os IDs existentes. Notas e recortes, votação, seções vazias, variantes e inconsistências da fonte foram preservados. Zero delta de IDs/órgãos. A lacuna documental da #194 está atendida; isso não certifica vigência, efeito vinculante ou completude histórica de toda a série TCEPR.
