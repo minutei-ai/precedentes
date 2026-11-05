@@ -1,8 +1,8 @@
 # MPPA · Enunciados do CSMP
 
-**37 registros.** [Voltar ao órgão](../)
+**57 registros.** [Voltar ao órgão](../)
 
-Documento: [Enunciados aprovados na 2ª Sessão Extraordinária CSMP/PA](https://www2.mppa.mp.br/data/files/92/E1/9C/78/3517B610DE5A9EA6180808FF/ENUNCIADOS%20APROVADOS%20-%202%20Sessao%20Extraordinaria%20-%2019-06-19.pdf) (PDF de 4 páginas; capturas HTTP 200 de 04/11/2026; SHA-256 `305796b1a9e7ed99a0011c9dd060428f53631a26d297979d886f663b9095878a`).
+A série reúne os testemunhos do PDF institucional de 2019, dos DOEs de 2019/2022 e da compilação Vade Mecum 2025. Versões e notas posteriores ficam separadas, sem inferir vigência ou prevalência.
 
 - [Enunciado 1](mppa-en-csmp-1.md)
 - [Enunciado 2](mppa-en-csmp-2.md)
@@ -20,13 +20,54 @@ Documento: [Enunciados aprovados na 2ª Sessão Extraordinária CSMP/PA](https:/
 - [Enunciado 14](mppa-en-csmp-14.md)
 - [Enunciado 15](mppa-en-csmp-15.md)
 - [Enunciado 16](mppa-en-csmp-16.md)
+- [Enunciado 17](mppa-en-csmp-17.md)
+- [Enunciado 18](mppa-en-csmp-18.md)
+- [Enunciado 19](mppa-en-csmp-19.md)
+- [Enunciado 20](mppa-en-csmp-20.md)
+- [Enunciado 21](mppa-en-csmp-21.md)
+- [Enunciado 22](mppa-en-csmp-22.md)
+- [Enunciado 23](mppa-en-csmp-23.md)
+- [Enunciado 24](mppa-en-csmp-24.md)
+- [Enunciado 25](mppa-en-csmp-25.md)
+- [Enunciado 26](mppa-en-csmp-26.md)
+- [Enunciado 27](mppa-en-csmp-27.md)
+- [Enunciado 28](mppa-en-csmp-28.md)
+- [Enunciado 29](mppa-en-csmp-29.md)
+- [Enunciado 30](mppa-en-csmp-30.md)
+- [Enunciado 31](mppa-en-csmp-31.md)
+- [Enunciado 32](mppa-en-csmp-32.md)
+- [Enunciado 33](mppa-en-csmp-33.md)
+- [Enunciado 34](mppa-en-csmp-34.md)
+- [Enunciado 35](mppa-en-csmp-35.md)
+- [Enunciado 36](mppa-en-csmp-36.md)
+- [Enunciado 37](mppa-en-csmp-37.md)
+- [Enunciado 38](mppa-en-csmp-38.md)
+- [Enunciado 39](mppa-en-csmp-39.md)
+- [Enunciado 40](mppa-en-csmp-40.md)
+- [Enunciado 41](mppa-en-csmp-41.md)
+- [Enunciado 42](mppa-en-csmp-42.md)
+- [Enunciado 43](mppa-en-csmp-43.md)
+- [Enunciado 44](mppa-en-csmp-44.md)
+- [Enunciado 45](mppa-en-csmp-45.md)
+- [Enunciado 46](mppa-en-csmp-46.md)
+- [Enunciado 47](mppa-en-csmp-47.md)
+- [Enunciado 48](mppa-en-csmp-48.md)
+- [Enunciado 49](mppa-en-csmp-49.md)
+- [Enunciado 50](mppa-en-csmp-50.md)
+- [Enunciado 51](mppa-en-csmp-51.md)
+- [Enunciado 52](mppa-en-csmp-52.md)
+- [Enunciado 53](mppa-en-csmp-53.md)
+- [Enunciado 54](mppa-en-csmp-54.md)
+- [Enunciado 55](mppa-en-csmp-55.md)
+- [Enunciado 56](mppa-en-csmp-56.md)
+- [Enunciado 57](mppa-en-csmp-57.md)
 
-Atualizações posteriores à 2ª Sessão Extraordinária e outros atos do CSMP/PA não foram lidos neste lote e permanecem pendentes. A data impressa no nome do arquivo e no metadado CreationDate não fecha a série nem certifica ausência de redações posteriores.
+## Fontes e cobertura
 
-## Reconciliação dos DOEs — 05/11/2026
+O [PDF da 2ª Sessão Extraordinária de 2019](https://www2.mppa.mp.br/data/files/92/E1/9C/78/3517B610DE5A9EA6180808FF/ENUNCIADOS%20APROVADOS%20-%202%20Sessao%20Extraordinaria%20-%2019-06-19.pdf), de quatro páginas, permanece fonte dos números 1–16; SHA-256 `305796b1a9e7ed99a0011c9dd060428f53631a26d297979d886f663b9095878a`.
 
-As publicações de 26/06/2019(pp.83–84),28/06/2019(pp.89–90) e16/03/2022(pp.110–111) foram cotejadas integralmente em imagem. As fichas 1/10/12/13/14 preservam variantes dos DOEs em seções próprias;3/4 receberam a redação expressamente alterada em 2022; 6/7 receberam nota do cancelamento expresso. A grafia “ADMIINISTRATIVA” do nº 5 coincide nas fontes; a hipótese de divergência foi descartada. Nenhum ID novo. A compilaçãoVade 2025 ainda não foi revisada integralmente em imagem; não se afirma completude histórica nem vigência.
+Publicações de 26/06/2019 (pp. 83–84), 28/06/2019 (pp. 89–90) e 16/03/2022 (pp. 110–111) foram cotejadas integralmente por imagem. Variantes dos números 1, 10, 12, 13 e 14, alterações expressas dos 3 e 4 e cancelamento dos 6 e 7 estão atribuídos às fontes nas fichas. O DOE de 22/11/2019, pp. 106–107, forneceu históricos separados dos números 27, 33, 34 e 35, também cotejados integralmente.
 
-## Compilação de2025 cotejada
+A [compilação Vade Mecum 2025](https://www2.mppa.mp.br/data/files/C6/80/F4/9D/67745910FB167459180808FF/VADE%20MECUM%202025.pdf), SHA-256 `73053bd2329d2344b97030c6d3b57c8a6ed9619e2d7ff2a3fb7d828c16be15c5`, teve os blocos 1–37 cotejados nas páginas PDF 92–97 e os 38–57 nas páginas 97–101. A página 102 inicia “Outras Normas”, que não foi atribuída ao CSMP. Notas de grupo, aprovação, alteração e cancelamento permanecem atribuídas à compilação; atos originais posteriores ainda não recuperados não foram reconstruídos.
 
-Os37blocos da compilação institucional foram cotejados integralmente nas seis páginas PDF92–97. Os números1–16 mantêm os testemunhos anteriores em seções separadas;17–37 acrescentam21identidades. Os cancelamentos27/33 são publicados como anotações sem reconstruir seus corpos históricos. Datas de grupo e alterações posteriores ficam atribuídas às notas da compilação; os atos originais correspondentes continuam em recuperação. Total da série:37IDs.
+As incorporações acrescentaram 21 IDs (17–37) e depois 20 IDs (38–57), preservando os 16 iniciais. Documentos de apoio e variantes não criam novos IDs. Contagem não certifica completude histórica nem vigência.
