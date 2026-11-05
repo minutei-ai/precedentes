@@ -1,5 +1,10 @@
 # MPAL — transcrições históricas de assentos e súmulas do CSMP
 
+## Recuperação individual posterior
+
+O [Assento 008/2019](mpal-csmp-assento-008-2019.md) tem agora corpo e revogação recuperados em suas publicações oficiais de 2019, conferidos nas imagens. É 1 registro histórico identificado além dos 80 trechos de compilações abaixo. As descrições de lacuna no arquivo refletem a coleta anterior; os textos das edições não foram reconstruídos nem alterados.
+
+
 Este arquivo preserva 80 transcrições dos documentos oficiais de 2016 a 2024. As fontes não atribuem título individual além da espécie e do número/ano impressos; nenhum título foi inventado. Elas não são contabilizadas como 80 registros do acervo: as publicações imprimem números e anos em listagens anuais, mas as cópias disponíveis não incluem as atas ou deliberações individuais necessárias para determinar se cada item corresponde a ato autônomo, republicação ou compilação de ato anterior. A associação jurídica permanece pendente. Corpos repetidos não foram fundidos nem usados para presumir identidade.
 
 Os 17 registros da edição de 2026 permanecem no catálogo principal. As edições de 2025 e 2026 foram comparadas separadamente; quinze corpos coincidem, sem que isso demonstre identidade ou relação jurídica. Avisos sem enunciado e a lacuna do Assento 008/2019 são mantidos como publicados e pendentes.

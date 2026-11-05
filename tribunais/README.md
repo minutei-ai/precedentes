@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Inventário estrutural e deltas de 05/11/2026: 43.869 identidades em 211 órgãos.** A última recontagem integral, no commit [`de85dcc94`](https://github.com/minutei-ai/precedentes/commit/de85dcc94b534730c04c706a1b2062ec89eeaaa8), confirmou 43.868 arquivos com Identificador e 43.868 IDs únicos, sem duplicatas. A integração posterior do PGEPE 004/2023 acrescentou um ID conferido como distinto; não houve nova recontagem integral após esse delta. Documentos complementares com Registro relacionado/Identificador de suporte ficam fora da contagem. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
+**Inventário estrutural e deltas de 05/11/2026: 43.870 identidades em 211 órgãos.** A última recontagem integral, no commit [`de85dcc94`](https://github.com/minutei-ai/precedentes/commit/de85dcc94b534730c04c706a1b2062ec89eeaaa8), confirmou 43.868 arquivos com Identificador e 43.868 IDs únicos, sem duplicatas. As integrações posteriores do PGEPE 004/2023 e do Assento MPAL 008/2019 acrescentaram dois IDs conferidos como distintos; não houve nova recontagem integral após esses deltas. Documentos complementares com Registro relacionado/Identificador de suporte ficam fora da contagem. Incluem-se históricos, cancelados, metadados e textos pendentes; o total não certifica completude textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -47,7 +47,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [FONEF](FONEF/) | 69 |
 | [FORUMEXECFISCAL](FORUMEXECFISCAL/) | 25 |
 | [MPAC](MPAC/) | 17 |
-| [MPAL](MPAL/) | 17 |
+| [MPAL](MPAL/) | 18 |
 | [MPAM](MPAM/) | 21 |
 | [MPAP](MPAP/) | 14 |
 | [MPBA](MPBA/) | 10 |
@@ -217,4 +217,4 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TRT24](TRT24/) | 99 |
 | [TSE](TSE/) | 73 |
 | [TST](TST/) | 1.613 |
-| **Total** | **43.869** |
+| **Total** | **43.870** |
