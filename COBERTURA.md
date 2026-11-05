@@ -3123,3 +3123,6 @@ TCEPI: o parecer do MPC 2012PC0005, TC-E008817/12, ligado à consulta16854 de Ma
 
 
 No recorte da issue215, os quinze históricos do MPMG e os avisos de revisão citados foram conferidos e integrados. A revisão final distinguiu o aviso sem dia impresso (“AVISO CSMP, DE2025”) da data do Diário de05/08/2025 e atribuiu as ementas das reproduções à Diretoria de Informação e Conhecimento. O quadro de2026 confirma apenas os rótulos de revogação desses quinze, não seus corpos. As indicações adicionais de37/53 e o nº69 da compilação de2026 ficaram para conciliação própria, sem serem tratados como parte já integrada nesta contagem.
+
+
+PGECE: acrescentado o Parecer Referencial 05/2026, processo 31022.000829/2026-25, UVA/PROGEP. As 16 páginas foram cotejadas integralmente por imagem, com correções estruturais dos deltas aplicadas: parecer 1–12, checklist 13–14, aprovação 15 e IN 02/2024/Anexo na 16. Rótulo do portal (Normativo/UECE) separado da identidade impressa. A captura tem TLS não verificado; não autentica assinatura ou efeito jurídico. +1 ID, PGECE passa a 2. PDFs e intermediários privados, somente Markdown público; inventário histórico maior continua em revisão.
