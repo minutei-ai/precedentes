@@ -1,6 +1,6 @@
 # TRT23
 
-Tribunal Regional do Trabalho da 23ª Região. **69 registros.**
+Tribunal Regional do Trabalho da 23ª Região. **73 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -8,3 +8,4 @@ Tribunal Regional do Trabalho da 23ª Região. **69 registros.**
 | [Incidente de Resolução de Demandas Repetitivas](irdr/) | 7 |
 | [Nota Técnica](nt/) | 11 |
 | [Súmula](sum/) | 48 |
+| [Tese Jurídica Prevalecente](tp/) | 4 |

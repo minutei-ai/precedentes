@@ -3,7 +3,7 @@
 - **Órgão:** TRE_PB
 - **Espécie:** Consulta
 - **Número:** 467-94.2016.6.15.0000
-- **Identificador:** `tre-pb-cta-4679420166150000`
+- **Registro relacionado:** [tre-pb-cta-4679420166150000](../tre-pb-cta-4679420166150000.md)
 - **Documento complementar:** extrato SJUR / ementa+dispositivo (depende do registro de ementa em PR #305)
 - **Situação na fonte:** Consulta conhecida e respondida
 - **Fonte catálogo:** [Respostas às consultas eleitorais](https://www.tre-pb.jus.br/jurisprudencia/respostas-as-consultas-1/respostas-as-consultas)
