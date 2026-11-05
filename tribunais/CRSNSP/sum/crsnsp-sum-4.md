@@ -4,9 +4,35 @@
 - **Espécie:** Súmula administrativa
 - **Identificador:** `crsnsp-sum-4`
 - **Fonte oficial:** [Legislação do CRSNSP](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsnsp/acesso-a-informacao/legislacao/legislacao)
-- **Referência da edição:** A página oficial lista como Enunciado nº 4 na seção “Súmulas do CRSNSP” e acrescenta a nota “retificação da súmula nº 4”, com link para publicação no DOU. Foi incorporada a redação exibida no catálogo; a versão anterior e o texto do ato retificador não foram recuperados.
-- **Situação:** A página oficial consultada lista este enunciado na seção de súmulas; ausência de nota não comprova vigência atual.
+- **Referência da edição:** A página oficial lista como Enunciado nº 4 na seção “Súmulas do CRSNSP” e acrescenta a nota “[retificação da súmula nº 4](https://www.in.gov.br/web/dou/-/retificacao-358997839)”, com link para publicação no DOU. A redação atual do catálogo coincide com o “Leia-se” da retificação (Circular Susep n° 234/2003). A redação anterior (Circular Susep n° 234/2011) e o ato retificador foram recuperados em 04/11/2026.
+- **Situação:** A página oficial consultada lista este enunciado na seção de súmulas; ausência de nota de revogação não comprova vigência atual.
 
-## Texto publicado
+## Texto publicado (redação atual do catálogo)
 
 O diretor designado responsável pelas relações com a SUSEP, nos termos do art. 1º, I da Circular Susep n° 234/2003, não responde pelo descumprimento de obrigações atinentes às competências de outros diretores, mesmo quando a intimação tenha se dado em seu nome (diretor responsável pelas relações com a SUSEP).
+
+## Redação anterior
+
+Publicação SEI do Enunciado nº 4, Processo nº 10132.100287/2021-68, documento SEI nº 18565139, [controlador_publicacoes id_documento=20901797](https://colaboragov.sei.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=20901797&id_orgao_publicacao=0), capturada em 04/11/2026. Aprovação informada: Sessão Administrativa de 25 de agosto de 2021, por videoconferência. Fonte de publicação informada: Diário Eletrônico do SEI/ME, de 10/09/2021. Assinatura eletrônica de Adriana Teixeira de Toledo, Presidente do CRSNSP, em 09/09/2021. O texto SEI escreve Circular Susep n° 234/2011:
+
+O diretor designado responsável pelas relações com a SUSEP, nos termos do art. 1º, I da Circular Susep n° 234/2011, não responde pelo descumprimento de obrigações atinentes às competências de outros diretores, mesmo quando a intimação tenha se dado em seu nome (diretor responsável pelas relações com a SUSEP).
+
+A mesma redação com “234/2011” aparece no “Onde se lê” da retificação do DOU. Não foi criada identidade separada para a versão anterior; a divergência permanece neste registro.
+
+## Ato de retificação
+
+[RETIFICAÇÃO](https://www.in.gov.br/web/dou/-/retificacao-358997839), Diário Oficial da União, publicado em 11/11/2021, Edição 212, Seção 1, página 132, órgão Ministério da Economia/Conselho de Recursos do Sistema Nacional de Seguros Privados, de Previdência Privada Aberta e de Capitalização. Versão certificada apontada pela página: [DOU de 11/11/2021, jornal 515, página 132](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=11/11/2021&jornal=515&pagina=132). Captura HTML da página pública em 04/11/2026.
+
+Texto publicado na página do DOU:
+
+RETIFICAÇÃO
+
+Na Súmula CRSNSP nº 4, de 09 de setembro de 2021, publicada no Diário Oficial da União de 10 de setembro de 2021, Seção 1, página 25.
+
+Onde se lê: "O diretor designado responsável pelas relações com a SUSEP, nos termos do art. 1º, I da Circular Susep n° 234/2011, não responde pelo descumprimento de obrigações atinentes às competências de outros diretores, mesmo quando a intimação tenha se dado em seu nome (diretor responsável pelas relações com a SUSEP)."
+
+Leia-se: "O diretor designado responsável pelas relações com a SUSEP, nos termos do art. 1º, I da Circular Susep n° 234/2003, não responde pelo descumprimento de obrigações atinentes às competências de outros diretores, mesmo quando a intimação tenha se dado em seu nome (diretor responsável pelas relações com a SUSEP)."
+
+Ref. Processo SEI nº 10132.100287/2021-68
+
+A página do DOU declara que o conteúdo não substitui o publicado na versão certificada. O ato de retificação não gerou identificador próprio. Acórdãos e normas apenas citados no SEI não geraram registros.

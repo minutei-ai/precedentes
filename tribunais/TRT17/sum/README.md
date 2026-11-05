@@ -67,3 +67,8 @@
 - [SUM 63](trt17-sum-63.md) — Sem classificação expressa de vigência
 - [SUM 64](trt17-sum-64.md) — Sem classificação expressa de vigência
 - [SUM 65](trt17-sum-65.md) — Sem classificação expressa de vigência
+
+
+## Leitor do portal (atualização 04/11/2026)
+
+Inventário no [catálogo do leitor](https://app.trt17.jus.br/principal/atividade-judiciaria/jurisprudencia/sumulas): **62 fichas** individuais + [caderno PDF](https://app.trt17.jus.br/principal/publicacoes/leitor/585769318?formato=pdf). A lista do leitor não exibe as nº 53 e 55. Amostras conciliadas com a Consulta Unificada: nº 1 (enunciado idêntico; publicações extras no leitor), nº 2 e nº 21 (leitor sem as notas de cancelamento SEI 2025 da Unificada). Demais fichas e o binário do caderno permanecem pendentes. Sem novos IDs.

@@ -1,6 +1,6 @@
 # Súmulas do Conselho Superior do MPPI
 
-Doze registros do catálogo: [01](mppi-sum-csmp-1.md), [02](mppi-sum-csmp-2.md), [03](mppi-sum-csmp-3.md), [04](mppi-sum-csmp-4.md), [05](mppi-sum-csmp-5.md), [06](mppi-sum-csmp-6.md), [07](mppi-sum-csmp-7.md), [08](mppi-sum-csmp-8.md), [09](mppi-sum-csmp-9.md), [10](mppi-sum-csmp-10.md), [11](mppi-sum-csmp-11.md), [12](mppi-sum-csmp-12.md). O catálogo identifica a Súmula 01 como suspensa, sem texto; o registro agora também traz a redação histórica aprovada na ata de 2017, mantendo a indicação de suspensão. As versões dos catálogos e as redações aprovadas permanecem nas fichas.
+Doze registros do catálogo: [01](mppi-sum-csmp-1.md), [02](mppi-sum-csmp-2.md), [03](mppi-sum-csmp-3.md), [04](mppi-sum-csmp-4.md), [05](mppi-sum-csmp-5.md), [06](mppi-sum-csmp-6.md), [07](mppi-sum-csmp-7.md), [08](mppi-sum-csmp-8.md), [09](mppi-sum-csmp-9.md), [10](mppi-sum-csmp-10.md), [11](mppi-sum-csmp-11.md), [12](mppi-sum-csmp-12.md). O catálogo identifica a Súmula 01 como suspensa, sem texto; o registro traz a redação histórica aprovada na ata de 2017 e a deliberação de suspensão da [1272ª sessão ordinária de 18/04/2018](https://www.mppi.mp.br/internet/wp-content/uploads//2018/05/ata%201272%20-%2018-04-2018.pdf) (item 3.1.2, páginas físicas 3–4). As versões dos catálogos e as redações aprovadas permanecem nas fichas.
 
 <a id="documento-comum-sumulas-04-08"></a>
 

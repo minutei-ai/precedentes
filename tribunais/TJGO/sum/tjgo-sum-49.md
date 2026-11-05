@@ -32,4 +32,18 @@ Cumulação de ação revisional com pleito consignatório - Ausência de depós
 
 [Consultar documento 496582 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/496582)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 496582, com 35,946 bytes. SHA-256 `30d1df8c76ecd1a5511932ee73ee31d884ef36bb283d09ee79a9fe187e3009ae`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+Súmula nº 49
+ENUNCIADO: Em caso de cumulação de ação revisional com pleito consignatório, a ausência de depósito dos valores a serem consignados não acarreta a extinção de todo o processo, mas apenas torna prejudicado o pleito consignatório, devendo ser apreciado o mérito do pleito revisional, se for o caso.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 17/09/2018.
+PRECEDENTES: AC 0050878-85.2016.8.09.0051; AC 0387751-44.2016.8.09.0137; AC 0152519-19.2016.8.09.0051; AC 0353334-76.2009.8.09.0051; AC 5045796- 51.2017.8.09.0051; AC 0261096-28.2015.8.09.0051.
+Desembargador GILBERTO MARQUES FILHO
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

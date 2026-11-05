@@ -30,4 +30,17 @@ Responsabilidade solidária entre fabricante e comerciante na venda de veículo 
 
 [Consultar documento 500557 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/500557)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 500557, com 67,658 bytes. SHA-256 `a3b5144c66a877260d04ea1fca442195ee67cce5d390cd0c034004438a477f4e`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+REVISÃO DE TESE
+SUMULA 17 -Há responsabilidade solidária entre fabricante e comerciante, bem como daqueles que fazem parte da cadeia de consumo como fornecedores, na venda de veículo novo que apresenta vício de qualidade do produto.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 17/09/2018.
+Desembargador GILBERTO MARQUES FILHO
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

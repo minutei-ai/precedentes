@@ -30,4 +30,19 @@ Alteração dos honorários advocatícios de sucumbência - Revisão de tese.Pub
 
 [Consultar documento 500559 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/500559)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 500559, com 30,272 bytes. SHA-256 `72d90efbe0d08dd3bb21c17d7b173324c2af452549c51c3ef55100c5f652ed6d`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+Alteração dos honorários advocatícios de sucumbência - Revisão de tese
+ORGÃO ESPECIAL
+REVISÃO DE TESE
+SUMULA 27 - Não merece ser conhecido o pedido de alteração dos honorários advocatícios de sucumbência, quando formulado em sede de contrarrazões à apelação, ante a inadequação da via eleita, ressalvada a hipótese de majoração da verba honorária em grau recursal, ou de postulação de condenação da parte contrária por litigância de má-fé quando objeto de decisão anterior à sentença.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 17/09/2018.
+Desembargador GILBERTO MARQUES FILHO
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -32,4 +32,18 @@ Faz jus à gratuidade da justiça a pessoa, natural ou jurídica, que comprovar 
 
 [Consultar documento 435159 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/435159)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 435159, com 60,609 bytes. SHA-256 `eea35ffaf47ed9904257110ffbf546b397267304c38b7d538aa207b56b7459bc`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+Súmula nº 25
+ENUNCIADO: Faz jus à gratuidade da justiça a pessoa, natural ou jurídica, que comprovar sua impossibilidade de arcar com os encargos processuais.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 19/09/2016.
+PRECEDENTES: AI n.º 131094-89.2016.8.09.0000; AI n.º 105386-37.2016.8.09.0000; AI n.º 125100-80.2016.8.09.0000; AI n.º 3986-77.2016.8.09.0000.
+Desembargador LEOBINO VALENTE CHAVES
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

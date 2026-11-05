@@ -32,4 +32,18 @@ Validade de exame psicotécnico em concurso público. Publicada no Diário de Ju
 
 [Consultar documento 435175 no TJDocs](https://tjdocs.tjgo.jus.br/documentos/435175)
 
+### Documento oficial
+
+Arquivo OpenDocument Text (ODT) do documento 435175, com 61,402 bytes. SHA-256 `26dcb5ad23806fe5ed78fe003f76f6d71257562659173e905e2e3660e2d3f178`. Em 04/11/2026 o download autenticado pelo TJDocs retornou `application/vnd.oasis.opendocument.text`. A visualização HTML consolidada (`conteudo-html?tipoChave=consolidado`) respondeu HTTP 200 com `conteudoHtml` vazio. O texto abaixo foi lido de `content.xml` do ODT oficial. As quebras de linha dos campos curtos foram preservadas; listas de precedentes mantêm a ordem impressa. O texto do BNP, quando existir, permanece na seção própria. Os precedentes citados não foram coletados como novos registros.
+
+### Texto do ODT
+
+Súmula nº 41
+ENUNCIADO: A validade de exame psicotécnico em concurso público está ligada à previsão em Lei e no Edital de abertura do certame, bem como a utilização de critérios objetivos, com possibilidade de recurso, com resultados devidamente fundamentados e publicados.
+DATA DA APROVAÇÃO:
+Sessão da Corte Especial de 19/09/2016.
+PRECEDENTES: DGJ n.º 44865-80.2010.8.09.0051; AC n.º 255184-26.2010.8.09.0051; AC n.º 358744-47.2011.8.09.0051; MS n.º 388640-55.2015.8.09.0000; MS n.º 405674-43.2015.8.09.0000.
+Desembargador LEOBINO VALENTE CHAVES
+Presidente
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
