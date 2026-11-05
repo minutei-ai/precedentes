@@ -20,3 +20,8 @@
 ## Conferência e limites
 
 Texto e notas conferidos nas imagens das páginas indicadas e na camada extraível. Não houve OCR. Espaços, quebras, negrito, itálico e sublinhado foram normalizados; asteriscos literais escapados em Markdown. A cor vermelha de “REVOGADO” foi reduzida a texto; não se adicionou risco ausente. A numeração de página e o caminho local impresso no rodapé foram omitidos. A página final identifica Diretoria Executiva do CSMP e 11/09/2024, reproduzidos no índice sem inferir data de aprovação de todos os verbetes. Notas de aprovação, reforma e republicação são atribuídas à fonte. Redações anteriores ausentes não foram reconstruídas; não há confirmação independente de vigência atual ou efeito vinculante. Atos, diários, normas e processos apenas citados não geraram identificadores.
+
+
+## Variante da compilação de 2026
+
+A [compilação vinculada pelo catálogo como atualizada em 06/10/2026](https://www.mpmg.mp.br/data/files/B0/84/1F/E4/6E211A109C4C4F0A89A8F9C2/02%20-Enunciados-sum-CSMP-Geral%20%2006.10.pdf), página 3 de 6, publica somente `ENUNCIADO Nº 37: REVOGADO`, com o rótulo em vermelho. SHA-256 `851533e6e7b364669cc54f39bd5dafd9eeec48851b60df23e161aee3214b3042`; recaptura de 05/11/2026 idêntica ao PDF cotejado por revisão independente. O bloco não informa ato, sessão, data ou nota de revogação. A redação atribuída à compilação de 2024 foi mantida acima como testemunho separado. O nº 69 não foi interpretado como substituição deste registro. Não se infere vigência ou efeito jurídico dos rótulos.
