@@ -955,3 +955,26 @@ Integrados os Acórdãos 2672/2010 (5 páginas), 1145/2016 (6), 1903/2011 (5), 1
 ## Quatro documentos adicionais — 24 páginas conferidas
 
 Integrados os Acórdãos 5530/2015 (7 páginas), 1854/2011 (7), 1855/2011 (7) e 462/2007 (3) após revisão visual integral. Corrigidos os espaços espúrios, marcadores e sobrescritos; preservados destaques, notas, carimbos recortados com atribuição e seções vazias da fonte. O 1855 foi aprovado por maioria absoluta, com voto vencido; isso não foi convertido em unanimidade. IDs existentes, sem novo registro. São onze de 13 documentos/78 de 102 páginas integrados; os Acórdãos 1294/2019 e 3295/2013 seguem pendentes (#194).
+
+
+## Lote de 13 documentos principais — recuperação concluída
+
+Os 13 documentos principais antes ausentes foram recuperados por acórdão/processo no VIAJuris e integrados sob os IDs existentes. Todas as 102 páginas foram abertas como imagem e confrontadas integralmente por revisão independente; correções de extração, notas e estilos foram aplicadas com registro privado. A conclusão se limita a esse lote da #194, sem certificar a completude histórica das 933 consultas ou a vigência dos entendimentos. Os resumos cruzados do catálogo Lumis nos Acórdãos 462 e 1294 permanecem atribuídos separadamente dos documentos corretos. A redação original do 1145 não foi fundida com os embargos citados pelo catálogo.
+
+| Acórdão | Processo esperado/atribuído | Páginas do documento integrado |
+| --- | --- | ---: |
+| [462/2007](tcepr-con-ref-8a91494299061b7e01990627d5525775.md) | 602467/2006 | 3 |
+| [1080/2009](tcepr-con-ref-8a91494299061b7e0199063ba6b51293.md) | 279195/2009 | 6 |
+| [2672/2010](tcepr-con-ref-8a91494299061b7e01990626c8774be4.md) | 472785/2009 | 5 |
+| [1850/2011](tcepr-con-ref-8a91494299061b7e0199062fdfc53759.md) | 633428/2010 | 5 |
+| [1854/2011](tcepr-con-ref-8a91494299061b7e019906372892749c.md) | 259747/2010 | 7 |
+| [1855/2011](tcepr-con-ref-8a91494299061b7e0199063d7c7828cf.md) | 363017/2011 | 7 |
+| [1903/2011](tcepr-con-ref-8a91494299061b7e0199062ecb982b87.md) | 547025/2010 | 5 |
+| [3295/2013](tcepr-con-ref-8a91494299061b7e01990633476d5a65.md) | 351732/2010 | 9 |
+| [5530/2015](tcepr-con-ref-8a91494299061b7e01990631a41c489e.md) | 10762/2015 | 7 |
+| [1145/2016](tcepr-con-ref-8a91494299061b7e0199062856716247.md) | 1020886/2014 | 6 |
+| [1294/2019](tcepr-con-ref-8a91494299061b7e0199063d7c9028e7.md) | 434754/2018 | 15 |
+| [1108/2020](tcepr-con-ref-8a91494299061b7e01990624e2633808.md) | 464908/2019 | 15 |
+| [3921/2020](tcepr-con-ref-4936b6209ab75906019abcc93f046de2.md) | 113617/2020 | 12 |
+
+Sem novos IDs ou órgãos; contagens inalteradas. A coluna de processo da tabela é a identificação do registro/resultado oficial; notas nas fichas preservam campos vazios, deslocados ou recortados do documento impresso.
