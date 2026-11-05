@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 43.940 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 43.943 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +963 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +966 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -3200,3 +3200,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **PGEPA, lote 13 de 05/11/2026:** 18 páginas de 008/2019 cotejadas integralmente por GPT-6.1 Sol, cinco ajustes aplicados e metadados antigos corrigidos. Parecer, checklist e despachos separados; códigos e assuntos divergentes preservados, sem deduzir efeito da marca gráfica. Sem novo ID; 16 PDFs / 239 páginas nos recortes integrados, sem afirmar completude da série.
 
 - **TRE-MS e TRE-PB, reconciliação de 05/11/2026:** auditoria documental Sol corrigiu a tabela de acervo para 3 e 18 IDs, sem alterar contagens do BNP ou criar registros. Atualizadas notas de captura, remissões aos documentos complementares e referência editorial da PB279. O cotejo visual dos demais PDFs e a classificação das outras fontes do portal continuam pendentes nas issues #225 e #226; 403 não comprova ausência.
+
+- **PGEPA, lotes 7–10 de 05/11/2026:** 68 páginas de quatro PDFs cotejadas integralmente por Sol/Astra, com 22 ajustes aplicados. Três novos IDs; autoria e processo antigos de 003/2019 corrigidos. Pareceres, checklists e despachos distintos; ressalvas gráficas e fontes substituídas preservadas. Vinte PDFs / 307 páginas nos recortes integrados; restante do inventário pendente.

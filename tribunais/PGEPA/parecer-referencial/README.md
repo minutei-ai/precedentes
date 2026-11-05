@@ -2,7 +2,7 @@
 
 Inventário do [catálogo oficial de Pareceres Referenciais da PGE/PA](https://www.pge.pa.gov.br/publicacoes/pareceres-referenciais) em 04/11/2026. **50 PDFs** capturados em duplicata com SHA-256 coincidente (HTTP 200). As duas capturas HTML do catálogo são idênticas: 63117 bytes, SHA-256 `077e7c6463675d14b30917e615b6e669980ebda2ccc3e0492e401ba03d9ec9ca`.
 
-**32 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
+**35 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
 
 | Nº (rótulo catálogo) | Arquivo | Páginas | Bytes | SHA-256 | Nota no catálogo |
 | --- | --- | ---: | ---: | --- | --- |
@@ -108,3 +108,5 @@ Novos registros com cotejo integral: [000003/2023 — pregão](pgepa-parecer-ref
 O lote 15 incorporou 20 páginas de 009/2019 após revisão visual independente integral por GPT-6.1 Sol: parecer, ratificação e aprovação separados. Metadados antigos de nome e processo foram corrigidos pela peça; o número manuscrito da página 1 mantém ressalva. Sem novo ID; os recortes integrados somam 15 PDFs / 221 páginas, com o restante do inventário pendente.
 
 O lote 13 incorporou 18 páginas de 008/2019 após cotejo visual independente integral por GPT-6.1 Sol e cinco ajustes. Metadados antigos de processo, ratificação e data foram corrigidos pela peça; códigos divergentes e limites manuscritos permanecem. Sem novo ID; os recortes integrados somam 16 PDFs / 239 páginas, com o restante do inventário pendente.
+
+Os lotes 7–10 incorporaram 68 páginas após cotejo visual independente integral Sol/Astra e 22 ajustes: [000007/2020](pgepa-parecer-ref-000007-2020.md), [001/2019](pgepa-parecer-ref-000001-2019.md), [003/2019](pgepa-parecer-ref-000003-2019.md) e [000002/2024](pgepa-parecer-ref-000002-2024.md). Três novos IDs; processo e autoria antigos de 003/2019 corrigidos pelo impresso. Os recortes integrados somam 20 PDFs / 307 páginas; os demais arquivos do inventário continuam pendentes.
