@@ -20,110 +20,64 @@ Data apresentada na ficha: 10 de março de 2018 10:56. O título e o identificad
 
 O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
+### Conferência visual do documento
+
+O texto corrompido da extração anterior foi substituído por transcrição direta das imagens, cotejada integralmente em revisão independente. Preservam-se grafias, sinais e leituras degradadas, sem completar por coerência. Os nomes de arquivo do portal não substituem os números impressos. Assinaturas e carimbos são descritos sem autenticação; não se infere vigência. As páginas seguintes correspondem à captura oficial com SHA-256 `e4124fb6e6ceac85dbe2234f816b1c534432c8a276af7f804ee574ad49f27cab`.
+
 #### Página 1 do PDF oficial
 
-                                                                                     C)
-      • ) Do                                                             •:í"/4,o
-                    Estado do Piaui
-                    Tribunal de Contas                                              *.         iu0LlNAI.
-    
-                    Gabinete do Relator                                                      DE ( )N•fiS
-                                                                                             DO ESTADO
-                                                                                              DO PIAUI
-    
-    
-                                             ACÓRDÃO N 2 1.884/10
-    
-    
-    
-                               5       5                               °roccsso de consulh A/E 0 CC ;
-                                                                       58109. Disposições aplicáveis a parlii de
-                            ..., •j    ( 7     ei i,,) jeneiro/20 tO. Aplicaçõo dos novos limites
-                                                                       de despesas cio Poder LeOISI13IIV0
-                                                                       Municipol. Obsetvôncia dos limites
-                                                                       Canslilucionais.
-    
-    
-    
-    
-    PROCESSO: TC-E n° 003.151110 - Procêsso do Cohsulta - Aplicação dos novos limites de
-    despesas do Poder Legislativo Municipal.
-    CONSULENTE: José Antônio Souza e Silva Filho - Presidente da União das Câmaras
-    Municipais do Estado do Piauí - AVEP
-    RELATOR: Conselheiro Substituto Alisson Felipe de Araújo
-    
-    
-       Vistos, relatados e discutidos estes autos, considerando as•inforrnaões da Cõnsultoria
-    Técnica, responsãvel pela anãiise e emissão de parecer sobre& os quesitos formulados e
-    tendo em vista a manifestação do Ministério Público de Contas, acordam os Conselheiros,
-    nos termos do voto proferido pelo Relator. conhecer da consulta para respondê-la, bem
-    como encaminhar ao consulente cópia autêntica do referido voto e deste acórdão.
-    
-    
-    Atada Sessão Plenária Ordinária n°27. de 15 de abril de 2010.
-    
-    
-     Presentes: Conselheiros Luciano         NUnCS   Santos (,Presidente em exercício em virtude da
-     ausência justi[cada do Conselheiro Abelardo Pio Vilanova e Silva). Wattãnia Maria Nogueira
-     de Sousa Leal Alvarenga, Otavo Rebêlo de Carvalho Filho., e os Çonselheiros Substitutos:
-     Jaylson Fabianh Lopes Campelo, convocado para substituir' o Conselheiro . J'oaiqiini
-     Kennedy Nogueira Barros, por motivo de férias, Jackson Nobre Veras, convocado para
-     substituir o Conselheiro Luciano Nunes Santos (no exercício da Presidência), e Alisson
-     Felipe de Araijo. convocado para substituir o Conselheiro Substituto Jaime Amorim Júnior,
-     cue estaria substituindo o Conselheiro Anfrisio Neto Lobão Castelo Branco (em licença
-     médica). Não houve substituto para o Conselheiro Sabino Paulo Alvrs Neto, ausente por
-     motivo justificado,
-    
-                                  ,1
-    
-                                                t'iioçESSOTO-E ,"cOi SI/iS
-                                                     Coes. £uhs Msio es
-    
+[Cabeçalho: brasão à esquerda] Estado do Piauí
+Tribunal de Contas
+Gabinete do Relator
+[Logotipo à direita:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+[Carimbo sobre o logotipo, canto superior direito:] TRIBUNAL DE CONTAS DO ESTADO / PROC. [ilegível] [manuscrito:] 3151/10 [ilegível] [manuscrito:] 39 / [assinatura manuscrita sobre linha] / [ilegível] FUNCIONÁRIO[leitura incerta]
+
+**ACÓRDÃO Nº 1.884/10**
+
+[Carimbo/anotação manuscrita à esquerda, com borda pontilhada parcialmente apagada:] [manuscrito:] 6575   3.2 / 27 05 10 / [assinatura manuscrita]
+
+*Processo de consulta. AVEP. EC nº 58/09. Disposições aplicáveis a partir de janeiro/2010. Aplicação dos novos limites de despesas do Poder Legislativo Municipal. Observância dos limites constitucionais.*
+
+**PROCESSO**: TC-E nº 003.151/10 - Processo de Consulta - Aplicação dos novos limites de despesas do Poder Legislativo Municipal.
+**CONSULENTE**: José Antônio Souza e Silva Filho - Presidente da União das Câmaras Municipais do Estado do Piauí - AVEP
+**RELATOR**: Conselheiro Substituto Alisson Felipe de Araújo
+
+Vistos, relatados e discutidos estes autos, considerando as informações da Consultoria Técnica, responsável pela análise e emissão de parecer sobre os quesitos formulados e tendo em vista a manifestação do Ministério Público de Contas, acordam os Conselheiros, nos termos do voto proferido pelo Relator, conhecer da consulta para respondê-la, bem como encaminhar ao consulente cópia autêntica do referido voto e deste acórdão.
+
+**Ata** da Sessão Plenária Ordinária nº 27, de 15 de abril de 2010.
+
+**Presentes**: Conselheiros Luciano Nunes Santos (Presidente em exercício em virtude da ausência justificada do Conselheiro Abelardo Pio Vilanova e Silva), Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho, e os Conselheiros Substitutos Jaylson Fabianh Lopes Campelo, convocado para substituir o Conselheiro Joaquim Kennedy Nogueira Barros, por motivo de férias, Jackson Nobre Veras, convocado para substituir o Conselheiro Luciano Nunes Santos (no exercicio da Presidência), e Alisson Felipe de Araújo, convocado para substituir o Conselheiro Substituto Jaime Amorim Júnior, que estaria substituindo o Conselheiro Anfrísio Neto Lobão Castelo Branco (em licença médica). Não houve substituto para o Conselheiro Sabino Paulo Alves Neto, ausente por motivo justificado.
+
+[Pequena marca manuscrita após o parágrafo e traço manuscrito abaixo]
+
+[Rodapé, em corpo pequeno, centralizado:] PROCESSO TC-E nº 003.151/10
+Relator: Cons. Subs. Alisson F. de Araújo
 
 #### Página 2 do PDF oficial
 
-                                                                                        ESTA[)O
-    
-    
-    
-                      Estado do Piaui
-                      Tribunal de Contas
-                                                                                                   (o\r\s
-                      Gabinete do Relator                                                     DI
-    
-    
-    
-    
-    Decisão tomada: por unanimidade,.
-    
-    
-    
-    Representante do MPC presente: Procu alor Lesndo Maciel do Nascirneito.
-    
-    
-    
-    
-                          -Caris. Luciano NunesSântb5                 te.em exercicio
-    
-    
-    
-                                                   /
-                                    ---------  •_-i
-                               Coas. S bs. AIÍÓ Fel ip.e de Araúlo - Relator
-    
-    
-    
-    
-     Fui presente:
-                                        4
-    
-                                 Procurador Leandro Maciel do Nascimento
-    
-    
-    
-    
-                                               PROCESSO f c.    c C5ifC
-                                            Ra:Q: Ccn. Sub. Aissc 1.. AuD
+[Cabeçalho: brasão à esquerda] Estado do Piauí
+Tribunal de Contas
+Gabinete do Relator
+[Logotipo à direita:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+[Carimbo, canto superior direito, parcialmente apagado:] T[ilegível]IBUN[ilegível] [ilegível] ESTADO / P[ilegível] [manuscrito:] 3151/10 [ilegível] [manuscrito, leitura incerta:] 35 / [assinatura manuscrita sobre linha] / [ilegível]NCIONÁRIO
+
+Decisão tomada: por unanimidade.
+
+Representante do MPC presente: Procurador Leandro Maciel do Nascimento.
+
+[assinatura manuscrita sobre linha]
+Cons. Luciano Nunes Santos - Presidente em exercício
+
+[assinatura manuscrita sobre linha]
+Cons. Subs. Alisson Felipe de Araújo - Relator
+
+Fui presente: [assinatura manuscrita sobre linha]
+Procurador Leandro Maciel do Nascimento
+
+[Rodapé, em corpo pequeno, centralizado:] PROCESSO TC-E nº 003.151/10
+Relator: Cons. Subs. Alisson F. de Araújo
 
 ## Ementa
 

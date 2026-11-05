@@ -20,251 +20,142 @@ Data apresentada na ficha: 8 de março de 2018 13:30. O título e o identificado
 
 O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
+### Conferência visual do documento
+
+O texto corrompido da extração anterior foi substituído por transcrição direta das imagens, cotejada integralmente em revisão independente. Preservam-se grafias, sinais e leituras degradadas, sem completar por coerência. Os nomes de arquivo do portal não substituem os números impressos. Assinaturas e carimbos são descritos sem autenticação; não se infere vigência. As páginas seguintes correspondem à captura oficial com SHA-256 `331adcbeb508cbce9c2caa8fb2df2dade17a16181cf2451b33bb60bde197afa2`.
+
 #### Página 1 do PDF oficial
 
-                                                                                    LL
-                                                                            1 LPMíIr     L,rICLÇ.   -.I'
-    
-    
-    
-    
-               Or
-    
-    
-                         Estado do Piauí
-                                                                                                    t
-                         Tribunal de Contas                                                             %)Z Q4T1
-                                                                                                        tlCl
-                                                                                                          LXI -'III
-    
-    
-    
-    
-                                                                                               IFLL 1!?
-    
-         rROCES8cI ÍC      N' (1O1fll9X                                    RF.SOLUÇÁO W 4 17I
-    
-    
-    
-                                                    EME 1 M! MusiN uídade de COfl#1IiD
-                                                    1krofe ifurm MrLflIL'ÍÇUiJ e
-                                                    Regwt1 do PoL&ia R.1twié*
-                                                                          e ~ !e aMisü soft
-    c                                                Io IaNgo de mNUf(4kFIfl1 f ~P4 MWar de
-                                                    JceW      ao    mw,kipIis cwi&s.
-                                                    1 egaMm de, ArL 37 II e L CF, Le NU
-                                                    3,1W6,V3 e t62dLCN18JJ2ø..
-    
-    
-    
-    
-                              O TRIBUNAL DE COf4TAS DO ESTADO DO FIkUI. eamittdo o
-         p rooe wsu TC-h C 00209. era 4ue cciti a cniILa apresent ad a pe[ci Si Bernartk ju sé-
-         (' a.rvalbo VI Supinntendeiiie Regon1 d. oIicia Roviín Fed1, OlIaLandc
-               ilamea Jta Corte de Coiits rrca                  ffi ihJ@de legat do caIizo de
-         convigo com PieeiIura Mun icipws vimnão à ~~ mua ~ o~csc
-         rdhimento. remoçi e dpsaio de a nirriais oIic Igo dz nuvi edeiais e vi as
-         púb 1     õe acesso ao mu nwipicn crwni ados p BM evir          de triIo. (F}N 01 a 04).
-    
-                             (ONSIDERÀNE$) que á Conigún aps málise (fl 05) Iiet pelo
-             u conIi.inienta COlri) comulta çjm fundrno no art. 1, §§ U e 7' dii Amu Jação TCELk'I
-    
-    c,
-         flU
-               (42/2)7, surundo a sgume ndauç: 1) E IeaJ a rcedLrjção d
-         ?re í~ ]h UraS Mun IC É Pffis e a SweMwn&ência Rciqnal i4 P(ici& R~ína Jede.r1
-         olJ]CIIvudo ii rcnjNãu u suarda dc an iniw 5obos w LOJLgI das ~ijw ~is e vias
-         pubhca di acesso            Til uri uctp1Q c<wivenia pa ikr.CkIt dc Lii7
-    
-                           cONSLtWRANDO que o pic.cer do l 'VOZ da C hriTéaiic deste
-         TflbLjfli de ConLsÉ (fis 07 [19), r~mLadapek CowIi T!xnv Fiu SoriiIo,
-         em s eu puír res.aIbDu que                                    .
-    
-    
-    
-    
-                           ) A Poriana n 1 35, Ri--gp mmw lnLcíno da P*licrü Ro &» 4 4ra1r
-         u. íjrxiia do Mii,     bkce      podrc urierit a itoiiak           Iriii   4    I* açuw
-         em eu ar    r
-    
+[margem superior direita: carimbo de protocolo, parcialmente legível: «25[0?][3?/9?]/[08?] FLS 20[?]»; sobre linha, assinatura manuscrita; abaixo, texto do carimbo: «[ilegível] CÂMARA [?] - FUNCIONÁRIO [?]»]
+
+[margem superior esquerda: pequenas manchas de digitalização]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ» (letras pequenas, leitura parcial)]
+
+**Fls. 19**
+
+**PROCESSO TCE Nº 002509/08** — **RESOLUÇÃO Nº 417/08**
+
+***EMENTA:** Possibilidade de convênio entre as Prefeituras Municipais e a Superintendência Regional da Polícia Rodoviária [?] Federal, visando à remoção e guarda de animais soltos ao longo de rodovias federais e vias públicas de acesso aos municípios conveniados. Legalidade. Art. 37, II e IX da CF; Lei Nº 8.666/93 e o art. 62 da LC Nº 101/2000.*
+
+[margem esquerda: marcas de furação de arquivo («C»)]
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ**, examinando o processo TC-E nº 002509/08, em que consta a consulta apresentada pelo Sr. Bernardo José Carvalho Val - Superintendente Regional da Polícia Rodoviária Federal, solicitando posicionamento desta Corte de Contas acerca da possibilidade legal da realização de convênios com as Prefeituras Municipais visando à cooperação mútua para operações de recolhimento, remoção e depósito de animais soltos ao longo das rodovias federais e vias públicas de acesso aos municípios conveniados para evitar acidentes de trânsito. (Fls.01 a 04).
+
+**CONSIDERANDO** que a Corregedoria, após análise (fl. 05) deliberou pelo seu conhecimento como consulta com fundamento no art. 1º, §§ 6º e 7º da Resolução TCE/PI nº 1.042/2007, sugerindo a seguinte indagação: 1) É legal a realização de convênio entre as Prefeituras Municipais e a Superintendência Regional da Polícia Rodoviária Federal objetivando a remoção e guarda de animais soltos ao longo das rodovias federais e vias públicas de acesso aos municípios conveniados para evitar acidentes de trânsito?
+
+**CONSIDERANDO** que o parecer nº 17/08 da Consultoria Técnica deste Tribunal de Contas (fls. 07 a 09), representada pelo Consultor Técnico Firmino Soares Paulo, em seu parecer ressaltou que
+
+1) A Portaria nº 1.375, Regimento Interno da Polícia Rodoviária Federal, na forma do Anexo, estabelece os poderes inerentes à autoridade de trânsito, dentre as quais em seu art. 1º, II, "b"
+
+[sobre o fim do parágrafo, à direita: rubrica manuscrita sobreposta ao texto]
+[abaixo, ao centro: rubrica manuscrita em forma de laço]
+
+[rodapé: linha horizontal tracejada; margem esquerda com traços verticais de digitalização; sem texto de rodapé legível]
 
 #### Página 2 do PDF oficial
 
-                                                                                                                             ç, ji li.
-        1   .
-                                                                                                i!Ç
-                                                                                                      Z5i.c           !
-                                                                                                            rt.
-    
-    
-    
-    
-                          Í1C)
-    
-    
-    
-    
-                                     Estado dó Piauí
-                                     Tribunal dé Contas                                                               ,IJo
-                                                                                                                                •   1
-    
-    
-    
-    
-                                                                                                                  F'i. 20
-    
-                    PROCFSO T('E !                5OR                                 RLSOLUÇÃD r(' 4I7/L1
-    
-    
-                                     AL-t. 1'
-    
-    
-                e                     I      ()
-                                      11 -
-    
-                                      h)-     -
-    
-    
-    
-    
-                                      b) cflhrar e irr€.iiar .ntis. iai.» e v1Ur, eÈn ro iii prtnçâo
-                                      dow servkOSi de apreeofl    Mu~ e esidi tk vekiiIa ,b$tos e
-                                               Ilur c rntOLICME irr~larnw~ I$ÈS hiao k domidio dm
-                                      rudovi fetkrw, podendo prDvMuiar a ÉS~O dq
-                                      iLmdo.na Inrna
-    
-                                       2) Di ac.oiïk çoni o an37, II, * tI-', inda e quakiIzer invchhdvmem cargo
-                    ou emnprea pbhco do«de de pte,a apã~ em ccui p'I Todavia, a
-                    ConL Luiç     24rrn LC a em~ho LnXraíl a um sItU-~ e%CCLC1s ffique&LvCIS no
-                    irtciu IX. do &t 37 da CF
-    
-                                      A ('onuliona Teçn iça conc[wu-se pela IcuIit     k eonviio en -e o
-                      nifo e o Muiiiip'o. ResJ taiióo que se Dcorrr a nec=dL-i& da   ~~  de pessoal
-                    devLrd obedecbÉ sdirarnes (kj w1 37 II e EX da Cnn uiç. [- edemi & 19.
-    
-    
-    
-                    ropresnado pela Prcxiirr Marcio Midi
-                    riILciuqU
-                                                                    ~, T-
-                                  CONS]LWRANDO que o Muru'eno Pübiwc de (oot (fis. 11 a
-                                                          4 de V~ncáUs, ciii seu parer
-    
-    
-                                      1) Cijr.sLLió o urneïese cornvrxd€o ser ccIcbiUri) I9J4flhI)li eirtre
-                    cnks publiccs, desde que obseN-adeis icxs us 1XlUiSIIs Iegs. A           iia jtridica
-                    rgulwT±.rlEaque a cetebraç 114 COr1'ViiiO! esta prVJSl$ iw arr 1 16 d Li
-                                                                                                        1
-    
-    
-    
-    
-    d
-    
+[margem superior direita: carimbo de protocolo, parcialmente legível: «[ilegível] Nº 2509/08 [?] [FLS?] 21 [?]»; sobre linha, assinatura manuscrita; abaixo, texto do carimbo: «CÂMARA [?] - FUNCIONÁRIA [?]»]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ» (letras pequenas, leitura parcial)]
+
+**Fls. 20**
+
+**PROCESSO TCE Nº 002509/08** — **RESOLUÇÃO Nº 417/08**
+
+Art. 1º (...)
+
+I - ( )
+
+II - (...)
+
+a) [?] - (...)
+
+**b) cobrar e arrecadar multas, taxas e valores, em razão da prestação dos serviços de apreensão, remoção e estadia de veículos, objetos e animais, que se encontrem irregularmente nas faixas de domínio das rodovias federais, podendo providenciar a alienação daqueles não reclamados, na forma da legislação em vigor;**
+
+2) De acordo com o art.37, II, da C.F, toda e qualquer investidura em cargo ou emprego público depende de prévia aprovação em concurso público. Todavia, a Constituição admite a contratação temporária nas situações excepcionais enquadráveis no inciso IX, do art. 37 da CF
+
+A Consultoria Técnica concluiu-se pela legalidade do convênio entre a União e os Municípios. Ressaltando que se ocorrer a necessidade da contratação de pessoal deverá obedecer aos ditames do art 37, II e IX da Constituição Federal de 1988.
+
+[margem esquerda: marcas de furação de arquivo («C»)]
+
+**CONSIDERANDO** que o Ministério Público de Contas (fls. 11 a 13), representado pelo Procurador Márcio André Madeira de Vasconcelos, em seu parecer ressaltou que
+
+1) Constatado o interesse comum, poderão ser celebrados convênios entre entes públicos, desde que observados todos os requisitos legais. A disciplina [?] jurídica regulamenta que a celebração de convênios está prevista no art. 116 da Lei 8.6[?]6/9[?].
+
+[trecho final do parágrafo, à direita, parcialmente encoberto por rubrica manuscrita sobreposta]
+[abaixo, ao centro: rubrica manuscrita em forma de laço]
+
+[rodapé: linha horizontal; sem texto de rodapé legível]
 
 #### Página 3 do PDF oficial
 
-                                                                              •i•íi'i   u    rpl;   ri .i 1   I- II f[lJi 1
-    
-    
-    
-                                                                                    i       r1&r     rLi
-    
-    
-    
-    
-                                Estado do Piaui
-                                                                                                                    *
-                                Trjbunal deContas                                                                  &E
-                                                                                                                   th:
-    
-    
-    
-    
-                                                                                                                  ã1L
-    
-        PROCESSO TC[ Nt' 1X112P/O*                                             14[SOUFÇÃÓ 74D 417Am
-    
-    
-    
-                                   A       iíflu tas dos cor.ên  de~n' wr previamenle om=iiiidw e
-        prI)-EiLJas ix               a j iiin dicá da admmirç, rwiç CTITS dó FT4JJ0 (ZLCO1 an. 3€, di
-        Leu n
-    
-                                  Cash haja        nrêncta de rex;uIWS Cnnceuro mtm w eii. deve:ra
-        seç oberv1c, ainda o dipcsto no                  a f' dõ art. L 16 da Le n .fí.Mi)3 be m cDrr» D
-        diosro W ali. 62 da Lu de: Kpurisubt1dade Fi,
-    C
-                              No Iocantc á     uç do trabho3, a ad!nmr          flbULaI devm
-        uniu rpeoa1 dQ      CL1 QUUdffl erecivo de  ure.   (.ii ee e ntr   u  uite,  xii&aa
-        Adriurtisiiação, nos L-mçys d< arL17 LX, da Cariri Magxua 4k5(Ie que ruL i tdu Vor ki
-        muniipaL c.i(raiar pe.soaI iXb[            mpo dtrminado para aLendr recew~ temporarin d41
-        CACLJIJOr] uieree pubhco
-    
-    
-                           Pôr Sitiiii o sLnL Piihlco de Contas nt -kde er ~W1 a çeiebt~
-        k cinvnto *1re i Superintendência tb Puhcia todoina Fcdri1 e m div'erw Murncipio
-        do ELaJo com visW. à r moção e guarda do iuriai eiu rodovias (dTBJ$ I dias& que sejam
-        atendidos 05 rcquusLt(s logW CLL]S acima.
-    
-    
-                                CO NSLI) E1ANDO qu         o Voco do Relator (fl. 14                17 adotou o
-        pOSiCiOLiieiiio da Consvltona Tn.ca (0s07 a 09), bern CX)IFL1, ár> MifioliéiiiK                ?ibIicõ de:
-        Conia.(t1s.11 a 11):
-    
-    
-    C                   1) E C 1 1) 1 Ii o P]enano, i1ni1irn ri Sessão IEIlai1 Oiiár a
-        06 dc mww do 2(O (11 1 € ) reoridor a p rene c nsulta rx.s Iernio ck wqd4 RjaLo
-                                                                                         9 de
-    
-        (íls14 1711 rair1ícani iy pâr&üeires da CosisuIkini [nica (fl07 a         4    rnino
-        Pub li cci de (:rirLL   (fts. 11 a 1   ,
-    
+[margem superior direita: carimbo de protocolo: «TRIBUNAL DE CONTAS DO ESTADO [?]» / «[ilegível] Nº 2509/08 [FLS?] 22»; sobre linha, assinatura manuscrita; abaixo, texto do carimbo parcialmente legível: «[ilegível] CÂMARA [?] - FUNCIONÁRIO [?]»]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ»]
+
+**Fls.21**
+
+**PROCESSO TCE Nº 002509/08** — **RESOLUÇÃO Nº 417/08**
+
+2) As minutas dos convênios devem ser previamente examinadas e aprovadas por assessoria jurídica da administração, nos termos do **Parágrafo** único, art. 38, da Lei nº 8.666/93,
+
+3) Caso haja a transferência de recursos financeiros entre os entes, deverá ser observado ainda o disposto nos §§ 2º a 6º do art. 116 da Lei nº 8.666/93, bem como o disposto no art. 62 da Lei de Responsabilidade Fiscal,
+
+4) No tocante à execução dos trabalhos, a administração municipal deverá utilizar pessoal do seu quadro efetivo de servidores. Caso este se mostre insuficiente, poderá a Administração, nos termos do art.37, IX, da Carta Magna, desde que regulamentado por lei municipal, contratar pessoal por tempo determinado para atender necessidade temporária de excepcional interesse público
+
+Por fim o Ministério Público de Contas entende ser possível a celebração de convênio entre a Superintendência da Polícia Rodoviária Federal e os diversos Municípios do Estado com vistas à *remoção* e guarda de animais em rodovias federais, desde que sejam atendidos os requisitos legais citados acima.
+
+**CONSIDERANDO** que o Voto do Relator (fls.14 a 17), adotou o posicionamento da Consultoria Técnica (fls.07 a 09), bem como, do Ministério Público de Contas (fls.11 a 13):
+
+[margem esquerda: marcas de furação de arquivo («C»)]
+
+**D E C I D I U** o Plenário, unânime, em Sessão Plenária Ordinária nº [0?]9 de 06 de março de 2008 (fl. 18) responder a presente consulta nos termos do voto do Relator (fls.14 a 17) ratificando os pareceres da Consultoria Técnica (fls.07 a 09) e do [?] Ministério Público de Contas (fls. 11 a 13).
+
+[à direita, sobre o último parágrafo: rubrica manuscrita sobreposta ao texto, encobrindo parcialmente «nº [0?]9», «voto do» e «do Ministério»]
+[abaixo, ao centro: rubrica manuscrita em forma de laço]
+
+[rodapé: linha horizontal; sem texto de rodapé legível]
 
 #### Página 4 do PDF oficial
 
-                                                                           -               'I 1
-    
-    
-    
-    
-                   Estado do Piaui
-                   Tribunal de Contas
-                                                                                          *
-                                                                                         i.c V.iT.k
-                                                                                         TIO Fi.111
-    
-    
-    
-    
-    PROCESSO TCE NV                                           JU(SOItiÇLO N4I7JU
-    
-    
-    
-                    1 mpcdmdo de votrn ( rnIheiro Sabiio Paulo ÂJi.es N.
-    
-                                  n       o COneherO5 Arftito Nio Labãu Cl!tek Brancu
-    (Preiderre), Sabtno Pau'o Alve- iklo, Luciunu Nunes SmL, Abeli& Pio ViIarwae Sivi
-    Jozqwrn Kertiedy Noguira ii am, W iI ui i F'i4&i Noguem de     usa Le AJvarenga e
-    Oliwo RebL, de C.arv.aflio Filho
-    
-                    Represcm[ante 4n Minisino Pibru de Centm peseii            Pni r10
-    (krJ      Arujo Prnhiro Jtwjor
-    
-    
-                    raricra-se, pub1]qL-e e eneniiiih&e.
-    
-                      SI A da Sslo Ttirid d (oIus &i Isru* do Piaui, em Tïan. O
-    de flUItÇU dç 2003
-    
-    
-    
-    
-           ".È à                    Br=                                        re -idi
-    
-    C0IhL0 Joqni                                                                 R]attr
-    
-    Foi prt.en, Jose A           ro Jwiior            ProcLLra&r CnraI jintb m TCEPI
+[margem superior direita: carimbo de protocolo parcialmente legível: «[ilegível] CONTAS DO [?] [ilegível]» / «[ilegível] 2509/08 [FLS?] 23»; sobre linha, assinatura manuscrita; abaixo, texto do carimbo: «CÂMARA [?] - FUNCIONÁ[RIO?]»]
+
+[cabeçalho: brasão do Estado do Piauí com legenda circular «ESTADO DO PIAUÍ»] **Estado do Piauí**
+**Tribunal de Contas**
+[à direita: logotipo com estrela e legenda «TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ»]
+
+**Fls. 22**
+
+**PROCESSO TCE Nº 002509/08** — **RESOLUÇÃO Nº 417/08**
+
+**Impedido** de votar o Conselheiro Sabino Paulo Alves Neto.
+
+**Presentes** na Sessão os Conselheiros: Anfrísio [?] Neto **Lobão** Castelo Branco (Presidente), Sabino Paulo Alves Neto, Luciano [?] Nunes Santos, Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Waltânia [?] Maria Nogueira de Sousa **Leal** Alvarenga e Olavo Rebêlo de Carvalho Filho
+
+**Representante do Ministério Público de Contas presente:** Procurador Geral José Ara[ú?]jo Pinheiro J[ú?]nior
+
+Transcreva-se, publique-se e encaminhe-se.
+
+Sala das Sessões do Tribunal de Contas do Estado do Piauí, em Teresina, 06 de março de 2008
+
+[assinaturas manuscritas sobrepostas às linhas de identificação abaixo]
+
+**Cons. A[encoberto] Neto [encoberto] Castelo Branco** — Presidente
+
+**Conselheiro Joaquim Kennedy [?] Nogueira Barros** — Relator
+
+**Fui presente, José A[encoberto] Pinheiro Júnior** — Procurador Geral junto ao TCE/PI
+
+[margem esquerda: marcas de furação de arquivo («C»)]
+
+[restante da página em branco; rodapé: linha horizontal; sem texto de rodapé legível]
 
 ## Ementa
 

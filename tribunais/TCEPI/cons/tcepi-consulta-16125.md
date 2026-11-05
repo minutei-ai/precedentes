@@ -20,122 +20,65 @@ Data apresentada na ficha: 12 de março de 2018 13:06. O título e o identificad
 
 O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
+### Conferência visual do documento
+
+O texto corrompido da extração anterior foi substituído por transcrição direta das imagens, cotejada integralmente em revisão independente. Preservam-se grafias, sinais e leituras degradadas, sem completar por coerência. Os nomes de arquivo do portal não substituem os números impressos. Assinaturas e carimbos são descritos sem autenticação; não se infere vigência. As páginas seguintes correspondem à captura oficial com SHA-256 `ea7415db81d5b28ccd75c3f518caaff5cce8a765bd1c0863f198ad3177ef76d4`.
+
 #### Página 1 do PDF oficial
 
-                                 Lstado do Piaui
-                                                                                                                                          21
-                                 Tribunal de. Contas                                                               :
-    
-    
-    
-    
-                                 Gab (on LI11dnM1It1I1s
-                                                                                                           (
-    
-    
-    
-    
-                                                                   ACORDÃO N ° 2.200/12
-                                                                                                              - sc rpT-T
-    
-                                                                                               :' r u/:o - f'/nloi(ui'' /1 ízn ,ij'o' L'
-                                                                                             oo I'iouj Podido. cu/:'.vlid;?/c: .i-íoo                    /OímdJ
-    
-                                                                                             IdUJi /0 íir1llCir0            -      /rd/;d10       LJcdJiu        O
-                                                                                             PlOuári(),        (t70)020.        ;•'&'fl   CO!I/lOCifliOItt(i     e
-                                                                                             re.po)r(1L'r o
-    
-    
-    
-    
-     ICLSO    FC-E                          45.29fl 1
-    
-    Dcciso n. 1.333112
-    
-     essao Plcnrria O rd n6rin o ° . 04(I201 2.
-    
-    IiIatíira: Lilian dc Almeida Vcinso Nuncs Martins.
-    
-    
-    
-    
-    \ istn. r nados e di ,zCuWWs os presentes autos, considerando a intorrnaçca da \T diviso de
-    
-                        da .\diuin                   1ia    o :\ 1 w1Icpal           L)F\ 1, Ss Os. 05/09. da ComissOo dc Regimento
-    
-                                             k           ti 4 o 1                    o Mi ukuo Publi0o de Eontis                            fIs. 1618,o
-    
-                  LIL1 1 (3 ':    consta, decidiu o Plen6rio, unânime. conhecer dapresente çonsul:i. para
-    
-    respondê-la, no cntido dc que é vedada a real izaçe dc: convénio dc cooperaçOo entre o
-    
-    1 nacu do Piaid e .V1uici1io respectivos.. etito i)blCn)                                     SLa      o pagamento de gnli licações a
-    
-    pol1cinis liii Piamos oro rai.Oo do piesiuçõn dc serviços cio municipal idade. diversa daquela em
-    
-    nuo ctcj.i ioiad o miii mar. a CXCCÇSÚ das verbas dc caráter indemuzatório, nos termos pelos
-    
-    õindaoientos cxnsados no voto da Rc.laiora, às fis. 22127.
-    
-    
-    
-    Prcentcs os Conselheiros (as): os Cons Anir 1510 Neto Lobõo Castelo Branco (presidente
-    
-    010   L\erJO0:.                    iI    \ irumide do ausência ustiícada do                    (.. nos. Joaquim K.enncdv Nogueira
-    
-          o   i     li             1             1   4        o ilO           dlii    1 iii iii d. \lmcid i \ closo "moes Mornos                               t o"
-    
-    Coiislhcir o                 Lil         iuii5       bolsou       Hbanh l..opes Caunpclo convocado para substituir o Cons.
-    
-     \bclardo Pio \'iionovac                                  i.lva (ausente por motivo ustificado). Jackson Nobre Veras.
-    
-    coiisocado para suistiluir a (os \Valt5nia Mana Nouuoira de Sousa                                                                       cal /\lvUrCi]ga
-    
-     1;iiiCiite pur 11005                        iiStiiftad?0 e Alisson [cOne de ;\rouo convocado para substituir c.0 Cons.
-    
-     1 .iiCi000 Nl.ii1CS 501)105 (ausente nor motive justiflcadn
-    
-    
-    
-    
-                  uSo                       -çeóid    ot'2T2.ÕO!12'-..(õS..                                                irmelSi r ,r
-    
+[Cabeçalho: brasão à esquerda] Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
+
+[Carimbo, canto superior direito, sobreposto a logotipo e rubrica, em grande parte ilegível:] [ilegível]NAL DE CO[ilegível]AS [ilegível] PIAUÍ / [ilegível] / [ilegível] Nº [manuscrito, parcialmente legível: "45.289/11"?] / [ilegível] / [manuscrito:] 30 / [ilegível]
+
+[Carimbo retangular:] Publicado no Diário Oficial Eletrônico nº [manuscrito:] 174 página [manuscrito:] 03/04, em [manuscrito:] 28 / 11 / 12 . [rubrica manuscrita] SECRETA[ilegível] [ilegível]SSÕES
+
+**ACORDÃO Nº 2.200/12**
+
+*Consulta - Prefeitura Municipal de Santa Rosa do Piauí Pedido. Consulente: Maria Telma Tenório Pinheiro – Prefeita. Decidiu o Plenário, unânime, pelo conhecimento e responder a consulta.*
+
+Processo TC-E Nº 45.289/11
+
+Decisão nº. 1.333/12
+
+Sessão Plenária Ordinária nº. 046/2012.
+
+Relatora: Lilian de Almeida Veloso Nunes Martins.
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação da V divisão de Fiscalização da Administração Municipal - DFAM, às fls. 05/09, da Comissão de Regimento e Jurisprudência - CRJ, à fl. 14, o Parecer do Ministério Público de Contas, às fls. 16/18, e o mais dos autos consta, decidiu o Plenário, unânime, **conhecer** da presente consulta, para **respondê-la**, no sentido de que é vedada a realização de convênio de cooperação entre o Estado do Piauí e Município respectivos, cujo objeto seja o pagamento de gratificações a policiais militares em razão da prestação de serviços em municipalidade diversa daquela em que esteja lotado o militar, a exceção das verbas de caráter indenizatório, nos termos pelos fundamentos expostos no voto da Relatora, às fls. 22/27.
+
+**Presentes os Conselheiros (as):** os Cons. Anfrísio Neto Lobão Castelo Branco (presidente em exercício, em virtude da ausência justificada do Cons. Joaquim Kennedy Nogueira Barros), Olavo Rebêlo de Carvalho Filho, Lilian de Almeida Veloso Nunes Martins e os Conselheiros Substitutos Jaylson Fabianh Lopes Campelo convocado para substituir o Cons. Abelardo Pio Vilanova e Silva (ausente por motivo justificado), Jackson Nobre Veras, convocado para substituir a Consª Waltânia Maria Nogueira de Sousa Leal Alvarenga (ausente por motivo justificado) e Alisson Felipe de Araújo convocado para substituir o Cons. Luciano Nunes Santos (ausente por motivo justificado).
+
+[Rubrica manuscrita à direita, após o parágrafo]
+
+[Rodapé, texto pontilhado/esmaecido:] Gab. Consª. Lilian Martins- Acórdão nº 2.200/12 – Consulta – P. M. de Santa Rosa do Piauí – Sra. Maria Telma Tenório Pinheiro - Prefeita
 
 #### Página 2 do PDF oficial
 
-               A
-                            Estado do Piaui                                               F.
-    
-                            Tribunal de Contas
-                            Ga.b. Coilsa. Lilian Madins                               )
-    
-    
-    
-    
-                                           ÁCORI)ÃO NNO 2.200/12
-    
-    Iepreseu(antc do M P de CunÉus presente: Procurador Lcandr.sMaciel do NascmenIo.
-    
-    
-    
-    
-     esso PIcn ~ ri: ()rdind.ri. em leresina. 2 de outubro de 2012.
-    
-    
-    
-                        .
-                    À         1   \_.j
-    (uns. !\]1'fH           Lfh Loba h Castelo Bron co      Presidente cm exercício
-    
-    
-    
-    
-    (uns 3 . Lilian dc. Almeida \'elou i\uncs M.artins      Relatora
-    
-    
-    
-    
-         p.tIii         1 .&nudro \Iicil cIo Nascimento     Procuradu M I'Ci'CE/ll
+[Cabeçalho: brasão à esquerda] Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
+
+[Carimbo, canto superior direito, parcialmente sobreposto por rubrica e logotipo:] T[ilegível]IBUNAL DE CONTAS DO ESTA[ilegível] / PROC. Nº [manuscrito, parcialmente rasurado:] 45.2[ilegível]/11 Fl. [manuscrito:] 31 / SE[ilegível]
+
+**ACORDÃO Nº 2.200/12**
+
+**Representante do MP de Contas presente:** Procurador Leandro Maciel do Nascimento.
+
+Transcreva-se, Publique-se e Cumpra-se.
+
+Sessão Plenária Ordinária, em Teresina, 25 de outubro de 2012.
+
+[assinatura manuscrita sobre o nome]
+Cons. Anfrísio Neto Lobão Castelo Branco                    Presidente em exercício
+
+[assinatura manuscrita sobre o nome]
+Consª. Lilian de Almeida Veloso Nunes Martins                    Relatora
+
+Fui presente: Leandro Maciel do Nascimento                    Procurador MPC-TCE/PI
+
+[Rodapé, texto pontilhado/esmaecido:] Gab. Consª. Lilian Martins- Acórdão nº 2.200/12 – Consulta – P. M. de Santa Rosa do Piauí – Sra. Maria Telma Tenório Pinheiro - Prefeita
 
 ## Ementa
 

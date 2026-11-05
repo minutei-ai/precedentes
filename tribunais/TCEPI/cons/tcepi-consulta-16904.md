@@ -20,104 +20,64 @@ Data apresentada na ficha: 12 de março de 2018 14:31. O título e o identificad
 
 O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
+### Conferência visual do documento
+
+O texto corrompido da extração anterior foi substituído por transcrição direta das imagens, cotejada integralmente em revisão independente. Preservam-se grafias, sinais e leituras degradadas, sem completar por coerência. Os nomes de arquivo do portal não substituem os números impressos. Assinaturas e carimbos são descritos sem autenticação; não se infere vigência. As páginas seguintes correspondem à captura oficial com SHA-256 `fafa080dc39f5d6b4eb8d0a3e777ab62100b74a9816fc5fdf493c6f77e15da2c`.
+
 #### Página 1 do PDF oficial
 
-    1'."
-    
-                                                                                      TRIBUNAL DE CONTAS DO ESTADO
-                                                                                      Proc.N'                Fis,
-                 DQ -.
-                                                                                       Secretría d3s Sóssôes Funcionário
-                           ESTADO DO PIAUI
-                           TRIBUNAL DE CONTAS                               Publicado no ,DIrf o Oficial Eletrõnjco
-                    jr                                                           em             /
-                                            ACÕRDÃO N° 763/2012
-                                                                                SECRETARIA DAS, ESÍÔES
-    
-    
-           PROCESSO TC-E N° 148112
-           DECISÃO N° 421/12
-           SESSÃO PLENÁRIA ORDINÁRIA N°014
-           INTERESSADO: Francisco José de Sousa * Secretário Municipal de Administração
-           OBJETO: Solicitação de posicionamento deste Tribunal acerca da viabilidade de "ascensão"
-           de servidora pública do cargo de auxiliar de enfermagem para enfermeira
-           PROCEDENCIA: Prefeitura Municipal de Campo Maior/Pl.
-           RELATOR: Cons. Anfrísio Neto Lobão Castelo Branco
-    
-    
-    
-                                              Consulta formulada ao Tribunal de Contas do Estado
-                                              do Piauí pelo Secretário Municipal de Administração
-                                              da Prefeitura Municipal de Campo MaiorlPl.
-                                              Posicionamento do TCE: o simples fato de servidor
-                                              obter graduação em curso Superior não viabiliza o
-                                              acesso a cargos na Administração Pública, que
-                                              requer a submissão a concurso Público. Decisão
-                                              Unânime.
-    
-    
-    
-           Vistos, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, contrário à
-           manifestação do Ministéno Público de Contas, às fls. 17121, conhecer da presente consulta,
-           dada a relevância e o interesse público, nos termos do voto do Relator, às fls. 23125. Quanto
-           ao mérito, decidiu o Plenário, unânime, concordando com a manifestação do Ministério
-           Público de Contas, respondê-la, em conformidade com o Parecer da Consultoria Técnica n°
-           17112, às fis. 13115, no sentido de que o simples fato de servidor obter graduação em curso
-           de ensino superior, ou qualquer outro que apresente requisitos de investidura diversos,
-           custeado ou não pelo este público a que o mesmo é vinculado, não autoriza qualquer
-           medida tendente a viabilizar o acesso a cargos na Administração Pública, que requer a
-           submissão ao concurso público, conforme prevê o art. 37, II, da CF188, nos termos do voto
-           do Relator, às fls. 23125.
-    
-           Decidiu, ainda, o Plenário, unãnime, encaminhar ao consulente, Sr. Francisco José de
-           Sousa - Secretário Municipal de Administração de Campo Maior, cópias autênticas dos
-           Pareceres da Consultoria Técnica e do Ministério Público de Contas, e do Acórdão do
-           Plenário deste Tribunal de Contas.
-    
-           Ausente, por motivo justificado, quando da apreciação do presente processo, o Cons.
-           Abelardo Pio Vilanova e Silva.
-    
-           Presentes os Cons: Joaquim Kennedy Nogueira Barros (Presidente), Luciano Nunes
-           Santos, Anfrísio Neto Lobão Castelo Branco, Waltânia Maria Nogueira de Sousa Leal
-           Alvarenga, o Cons. em Exercício Jaylson Fabianh Lopes Campelo e o Cons. Subituto
-           Alisson Felipe de Araújo, convocado para substituir o Cons. Olavo Rebêlo de CarvalI Filo
-           (ausente por motivo justificado).
-    
+[Carimbo, canto superior direito:] TRIBUNAL DE CONTAS DO ESTADO / Proc. Nº [manuscrito:] 00.148/12 Fls. [manuscrito, esmaecido; primeiro dígito "2", segundo incerto (aparenta "8")] / [rubrica manuscrita sobre linha] / Secretaria das Sessões / Funcionário
+
+[Cabeçalho: brasão à esquerda] **ESTADO DO PIAUÍ**
+**TRIBUNAL DE CONTAS**
+
+[Carimbo retangular:] Publicado no Diário Oficial Eletrônico nº [manuscrito, esmaecido:] 55/12 página [manuscrito, ilegível], em [manuscrito, esmaecido; leitura incerta:] 30 / 04 / 12. SECRETARIA DAS SESSÕES
+
+**ACÓRDÃO Nº 763/2012**
+
+PROCESSO TC-E Nº 148/12
+DECISÃO Nº 421/12
+SESSÃO PLENÁRIA ORDINÁRIA Nº 014
+INTERESSADO: Francisco José de Sousa – Secretário Municipal de Administração
+OBJETO: Solicitação de posicionamento deste Tribunal acerca da viabilidade de "ascensão" de servidora pública do cargo de auxiliar de enfermagem para enfermeira
+PROCEDÊNCIA: Prefeitura Municipal de Campo Maior/PI.
+RELATOR: Cons. Anfrísio Neto Lobão Castelo Branco
+
+**Consulta formulada ao Tribunal de Contas do Estado do Piauí pelo Secretário Municipal de Administração da Prefeitura Municipal de Campo Maior/PI. Posicionamento do TCE: o simples fato de servidor obter graduação em curso Superior não viabiliza o acesso a cargos na Administração Pública, que requer a submissão a concurso Público. Decisão Unânime.**
+
+**Vistos**, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, contrário à manifestação do Ministério Público de Contas, às fls. 17/21, **conhecer** da presente consulta, dada a relevância e o interesse público, nos termos do voto do Relator, às fls. 23/25. Quanto ao mérito, decidiu o Plenário, unânime, concordando com a manifestação do Ministério Público de Contas, **respondê-la**, em conformidade com o Parecer da Consultoria Técnica nº 17/12, às fls. 13/15, no sentido de que o simples fato de servidor obter graduação em curso de ensino superior, ou qualquer outro que apresente requisitos de investidura diversos, custeado ou não pelo este público a que o mesmo é vinculado, não autoriza qualquer medida tendente a viabilizar o acesso a cargos na Administração Pública, que requer a submissão ao concurso público, conforme prevê o art. 37, II, da CF/88, nos termos do voto do Relator, às fls. 23/25.
+
+**Decidiu**, ainda, o Plenário, unânime, **encaminhar** ao consulente, Sr. Francisco José de Sousa - Secretário Municipal de Administração de Campo Maior, cópias autênticas dos Pareceres da Consultoria Técnica e do Ministério Público de Contas, e do Acórdão do Plenário deste Tribunal de Contas.
+
+**Ausente**, por motivo justificado, quando da apreciação do presente processo, o Cons. Abelardo Pio Vilanova e Silva.
+
+**Presentes** os Cons. Joaquim Kennedy Nogueira Barros (Presidente), Luciano Nunes Santos, Anfrísio Neto Lobão Castelo Branco, Waltânia Maria Nogueira de Sousa Leal Alvarenga, o Cons. em Exercício Jaylson Fabianh Lopes Campelo e o Cons. Substituto Alisson Felipe de Araújo, convocado para substituir o Cons. Olavo Rebêlo de Carvalho Filho (ausente por motivo justificado).
+
+[Rubrica manuscrita abaixo, ao centro; outra rubrica manuscrita à direita, sobre o fim do parágrafo]
 
 #### Página 2 do PDF oficial
 
-                                                                          TR8UNAL DE CONTAS DO ESTADO
-                                                                          Proc. _J)O.        Fls
-          DO
-    
-    
-                    ESTADO DO PIAUÍ
-                    TRIBUNAL DE CONTAS
-    
-                                Acórdão n° 76312012 - fs. 02
-    
-    
-    Representante do MP de Contas presente: Procurador-Geral José Araújo Pinheiro Júnior.
-    
-    Publique-se, Cumpra-se e Encaminhe-se.
-    
-    
-    
-    
-                            7(
-    Sessão Plenária OrdináTiaT ibunal de Contas do Estado do Piauí, em Teresina, 29 de
-    março de 2012.
-    
-    
-    
-    Cons. Joaquim Kenne y Nogueira Barros                       Presidente
-               /\                    A
-    
-    Cons. Ant9ubNe (b1óCas tIo Branco                           Relator
-    
-    
-    
-    Fui preente Jose             hrounuor                       Procurador-Geral do MPC
+[Carimbo, canto superior direito:] TRIBUNAL DE CONTAS DO ESTADO / Proc. Nº [manuscrito:] 00.148/1[2?] Fls. [manuscrito:] 29 / [rubrica manuscrita sobre linha] / Secretaria das Sessões / Funcionário
+
+[Cabeçalho: brasão à esquerda] **ESTADO DO PIAUÍ**
+**TRIBUNAL DE CONTAS**
+
+**Acórdão nº 763/2012 – fls. 02**
+
+**Representante do MP de Contas presente**: Procurador-Geral José Araújo Pinheiro Júnior.
+
+Publique-se, Cumpra-se e Encaminhe-se.
+
+Sessão Plenária Ordinária do Tribunal de Contas do Estado do Piauí, em Teresina, 29 de março de 2012.
+
+[assinatura manuscrita sobre o nome]
+**Cons. Joaquim Kennedy Nogueira Barros**                    Presidente
+
+[assinatura manuscrita sobre o nome]
+**Cons. Anfrísio Neto Lobão Castelo Branco**                    Relator
+
+[assinatura manuscrita sobre o nome]
+**Fui presente: José Araújo Pinheiro Júnior**                    Procurador-Geral do MPC
 
 ## Ementa
 
