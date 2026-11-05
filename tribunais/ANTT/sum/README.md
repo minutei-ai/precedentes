@@ -12,7 +12,7 @@ O selo é o da página `abrirTextoAto` consultada em 29/10/2026. A ausência de 
 - [Súmula nº 6/2020](antt-sum-6-2020.md) — Selo: Vigente
 - [Súmula nº 7/2020](antt-sum-7-2020.md) — Selo: Vigente
 - [Súmula nº 8/2020](antt-sum-8-2020.md) — Selo: Vigente
-- [Súmula nº 9/2021](antt-sum-9-2021.md) — Selo: Vigente
+- [Súmula nº 9/2021](antt-sum-9-2021.md) — Selo: Vigente; nota “Veja Também” = Deliberação 18/2021/DG/ANTT/MI (`nota-revogado`; ato de apoio, sem ID novo)
 - [Súmula nº 10/2021](antt-sum-10-2021.md) — Selo: Vigente
 - [Súmula nº 11/2021](antt-sum-11-2021.md) — Selo: Revogado; nota da Resolução nº 6.074, de 17 de dezembro de 2025
 - [Súmula nº 12/2021](antt-sum-12-2021.md) — Selo: Vigente

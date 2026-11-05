@@ -31,17 +31,28 @@ D.O.U., 01/02/2021 - Seção 1
 
 *Este texto não substitui a Publicação Oficial.*
 
+## Nota “Veja Também”
+
+Em 04/11/2026, com sessão HTTP da página `abrirTextoAto` e cabeçalhos `X-Requested-With: XMLHttpRequest`, a ação `detalharNotaAjax` com `tipo=SAM` (o controle HTML chama `LinkNota` com `tipo=SUM`, que devolve poço vazio) retornou 216 bytes, SHA-256 `8cf1dc8b4b69c8569793b5add25073ba1817e4a6f37cc6d1214e000ee5d1345a`:
+
+```html
+<div class="well nota-revogado SAM000000090002021DGANTTMIA01">
+<p class="titulo"><b><a href="javascript:LinkTexto('DLB','00000018','ATT','2021','DG/ANTT/MI','','','')">Deliberação 18/2021/DG/ANTT/MI</a></b></p></div>
+```
+
+O rótulo visível da nota é **Deliberação 18/2021/DG/ANTT/MI**. A classe CSS é `nota-revogado`. A função `LinkNota` embutida na página continua retornando `false`; o texto da nota não está no HTML estático do ato. A Deliberação é ato de apoio citado pelo controle; não recebeu identificador novo neste acervo. Tentativas de `abrirTextoAto` para `tipo=DLB`, `numeroAto=00000018`, `seqAto=ATT`, `orgao=DG/ANTT/MI` e variantes devolvem a casca AMP do ANTTlegis sem o corpo da Deliberação; a íntegra desse ato de apoio permanece pendente de captura válida.
+
 ## Conferência e limites
 
-O corpo exibe o controle “Veja Também”, com `javascript:LinkNota('SUM','00000009','000','2021','DG/ANTT/MI','A','0','1')`. A função `LinkNota` na página retorna falso e o texto da nota não está no HTML. O controle não entrou no enunciado. A nota apontada permanece pendente. A assinatura separa “Diretor-Geral” e “Em exercício”. A mesma súmula aparece em duas cotemáticas; é um ato só. A página de rodovias do gov.br publica um objeto desta súmula; o objeto não é a transcrição.
+O corpo exibe o controle “Veja Também”, com `javascript:LinkNota('SUM','00000009','000','2021','DG/ANTT/MI','A','0','1')`. A função `LinkNota` na página retorna falso e o texto da nota não está no HTML estático. Em 04/11/2026 a nota foi lida via `detalharNotaAjax` com `tipo=SAM`, conforme a seção acima. A assinatura separa “Diretor-Geral” e “Em exercício”. A mesma súmula aparece em duas cotemáticas; é um ato só. A página de rodovias do gov.br publica um objeto desta súmula; o objeto não é a transcrição.
 
 Duas capturas HTTP 200 de `abrirTextoAto`, em 29/10/2026, são idênticas em bytes e no SHA-256 acima. O corpo foi lido em ISO-8859-1, apesar da declaração UTF-8. As entidades HTML foram decodificadas. O primeiro parágrafo do cabeçalho não se fecha antes do seguinte; ministério e agência ficam em linhas separadas. Quebras de linha dentro do mesmo parágrafo foram reduzidas a espaço. O aviso final está em itálico vermelho, 8pt, Verdana; a transcrição conserva o itálico e omite a cor vermelha, o tamanho de 8pt e a família Verdana.
 
-A página HTML não é o Diário Oficial certificado. A linha de publicação é a do ato. A data da consulta não é a data do ato. O bloco de histórico da página não trouxe redação anterior. Não há captura retida que comprove redação de outra sequência; essa recuperação permanece pendente.
+A página HTML não é o Diário Oficial certificado. A linha de publicação é a do ato. A data da consulta não é a data do ato. O bloco de histórico da página não trouxe redação anterior. Em 04/11/2026, `abrirHistoricoAto` devolveu apenas a casca de árvore (1.846 bytes) sem lista de redações; `abrirTextoAto` com `seqAto=001` da súmula 9 e os números SAM 15 e 16 (anos 2021–2026 e sequência 000/001) devolveram páginas de erro/casca (~25.799 bytes) sem corpo de súmula. Essa ausência de captura válida não prova inexistência de outros atos; a recuperação de histórico e de eventuais nºs 15/16 permanece pendente de fonte com texto.
 
 A URL de compartilhamento `UrlPublicasAction`, ação `abrirAtoPublico`, devolveu uma casca intitulada ANTTlegis, sem o corpo da súmula. Essa casca não entrou como segunda cópia do texto.
 
-Não há CPF, RG, matrícula, carimbo pessoal nem código de autenticação no corpo. Nome e função pública permanecem. A série não esgota o acervo da ANTT.
+Não há CPF, RG, matrícula, carimbo pessoal nem código de autenticação no corpo. Nome e função pública permanecem. A série não esgota o acervo da ANTT. Evidências privadas da nota e dos probes em `/home/yorizel/.local/share/minutei/precedentes-coleta-planejamento/antt-20261104/`.
 
 A cotemática `13446818` (rodovias; a pasta do catálogo grafa Reequilibro) repete o mesmo corpo legal no bloco `#detalharAto` de [abrirVinculos](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirVinculos&cod_menu=8721&cod_modulo=618&cotematica=13446818). As duas capturas dessa página têm 24.209 bytes e SHA-256 `e7e16c91495831ba9de67f05515c827fed0df108c45abae61dee31681988ceb8`. Esse bloco traz os mesmos parágrafos legais e não inclui o aviso final.
 
