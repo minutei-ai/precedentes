@@ -20,129 +20,83 @@ Data apresentada na ficha: 9 de março de 2018 11:00. O título e o identificado
 
 O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
 
+### Transcrição visual e revisão independente
+
+O texto documental foi substituído por leitura integral das imagens, sem OCR, com revisão independente por GPT-6 Astra e correções pontuais aplicadas. Preservam-se glifos, erros impressos, numeração, lacunas e traços cortados. Colchetes e “coluna de cargo” são descrições editoriais; não foram acrescentados travessões como se impressos. Quebras necessárias são representadas pela marcação Markdown. Assinaturas e carimbos não foram autenticados; não se infere vigência.
+
+Relação com a ficha e limites de identidade: 485/2009 impresso corresponde à resolução nomeada no link local; processo 9.383/09 não é substituído pela grafia corrompida do nome de arquivo.
+
+SHA-256 da captura: `3a7f03e46a33ac41a9c8c0a1d5add3f277ecc2512ac52ee53f8e0465cc65a77f`. O hash identifica o arquivo, sem substituir o cotejo visual.
+
 #### Página 1 do PDF oficial
 
-    Ik
-    
-         T;.       4 TRIBUNAL DE CONTAS
-                      DO ESTADO DO PIAUI
-    
-                                     Résoução n°. 48512009
-    
-    
-                                                     Consulta formLflada ao Tribunal de Contas dõ Estadõ dõ
-                                                     Piaui pelo Presidente da Câmara Municipal de Santa Cruz
-                                                     dos Milagres, Sr. Ericio Araújo de Aquino. Impossibilidade.
-                                                     AIteraçio, na mesma legislatura, para vigorar no curso desta,
-                                                     os subsídios de Prefeito. Vice-Prefeito e Vereadores, por
-                                                     inobservância, aos princípios da anterioridade, moralidade e
-                                                     inalterabilidade, inscritos na ConstituiçàoFederal, Estadual e
-                                                     Lei Orgânica Municipal. Aprovação do Parecer Cosultoria
-                                                     Técnica n°. 15/09. ratificado pelo voto do Relator, como
-                                                     posicionamento do TCE/PI à consulta formulada. Decisão
-                                                     unã nirnu.
-    
-    
-    
-    
-               Processo TC-E N°. 9.383109
-               Decisão n°. 463109
-               Sessão Plenária Ordinária n°. 26
-    
-               RELATOR: Olavo Rebêlo de Carvalho Filho
-    
-    
-    
-    
-                                   O TRIBUNAL DE CONTAS DO ESTADO DO PtAUi. examinando o processo TC-
-               E n°. 9.383/09 referente /j Consulta fomuitada pelo Presidente da Câmara Municipal de Santa Cruz
-    
-               dos Milagres. Si. Ericio Araújo de Aquino. pretendendo obter o posicionamento da Corte de Contas
-               'wbre a base legal do aumento do subsidio do Prefeito. Vice-Prefeito e Vereadores, para a nova
-               legislatura como se constata pelo conteúdo do TC-N N°. 9.383109. acostado às (íls. 01109) dos aulos.
-    
-    
-                                   CONSIDERANDO iti.            Pesidente do TCE-Pl. apos análise. pi, elintinar da
-               arenã '•i)s :i'''..' i!i CIr; 1 IEC'',rilICS ,t, coi'ihe.ç:in'ie.nio dI conSulta (on'nulactn. Constatou a
-               sarislação desses pressupostos, porque cuit.ipridos os regmamentos d(- ,finidos no ad. 2, VII. '1)" da
-               Lei n°. 4.721[94 (Lei Orgânica do Tribunal de Contas do Estado do Piaui) e nos aris. 233 e 234,
-               capo!, e §§ 1 0 e 20 d'a ResotuCão TCE n°. 1.225195 (Regimento Interno do Tribunal de Contas do
-               Estado do Piauí) Constatou. ainda, o Presidente do TCE-PI a existência de relevante interesse
-               piblico a ser considerado na Consulta formulada, razão porque, decidiu. iminarmenle. pelo seu
-               conhecmento e por seu ctefesimeuto em cuinpnmenlo ao mearanmnto definido no ao. 234. § 3 0 . da
-               Rrrsnhjçàn TCE-Pi n° 1 225(95.
-    
-                                               ''/       U
-    
+[Brasão: ESTADO DO PIAUÍ.]
+
+TRIBUNAL DE CONTAS\
+DO ESTADO DO PIAUÍ
+
+[Carimbo superior direito muito apagado; segmentos impressos superiores ilegíveis. Preenchimento manuscrito:]\
+9383/09 — 43\
+[Assinatura/rubrica, sem atribuição.]\
+SECRETARIA - FUNCIONÁRIO [parcialmente apagado]
+
+Resolução nº. 485/2009
+
+Consulta formulada ao Tribunal de Contas do Estado do Piauí pelo Presidente da Câmara Municipal de Santa Cruz dos Milagres, Sr. Erício Araújo de Aquino. Impossibilidade. Alteração, na mesma legislatura, para vigorar no curso desta, os subsídios de Prefeito. Vice-Prefeito e Vereadores, por inobservância, aos princípios da anterioridade, moralidade e inalterabilidade, inscritos na Constituição Federal, Estadual e Lei Orgânica Municipal. Aprovação do Parecer Consultoria Técnica nº. 15/09, ratificado pelo voto do Relator, como posicionamento do TCE/PI à consulta formulada. Decisão unânime.
+
+Processo TC-E Nº. 9.383/09\
+Decisão nº. 463/09\
+Sessão Plenária Ordinária nº. 26
+
+RELATOR: Olavo Rebêlo de Carvalho Filho
+
+O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ, examinando o processo TC-E nº. 9.383/09 referente à consulta formulada pelo Presidente da Câmara Municipal de Santa Cruz dos Milagres, Sr. Erício Araújo de Aquino, pretendendo obter o posicionamento da Corte de Contas sobre a base legal do aumento do subsídio do Prefeito, Vice-Prefeito e Vereadores, para a nova legislatura como se constata pelo conteúdo do TC-N Nº. 9.383/09, acostado às (fls. 01/09) dos autos.
+
+CONSIDERANDO que o Presidente do TCE-PI, após análise preliminar da aferição dos pressupostos necessários ao conhecimento da consulta formulada, constatou a satisfação desses pressupostos, porque cumpridos os regramentos definidos no art. 2º, VII, “b” da Lei nº. 4.721/94 (Lei Orgânica do Tribunal de Contas do Estado do Piauí) e nos arts. 233 e 234, *caput*, e §§ 1º e 2º da Resolução TCE nº. 1.225/95 (Regimento Interno do Tribunal de Contas do Estado do Piauí). Constatou, ainda, o Presidente do TCE-PI a existência de relevante interesse público a ser considerado na consulta formulada, razão porque, decidiu, liminarmente, pelo seu conhecimento e por seu deferimento em cumprimento ao regramento definido no art. 234, § 3º, da Resolução TCE-PI nº 1.225/95.
+
+[Dois traços/rubricas ao fim do parágrafo, sem atribuição. Espaço inferior sem texto; marcas de escaneamento nas margens.]
 
 #### Página 2 do PDF oficial
 
-    Içk
-                                                                               -
-    
-    
-    
-    
-                    TRIBUNAL DE CONTAS
-             -
-                    DO ESTADO DO PIAUI
-    
-                                    CONSIDERANDO a manifestação da Consultoria Técnica, materializada
-          a;ives rir) Pairo C.onsutiona Técnica n°. 15/09. subscrito pelo Consultor Técnico Cteto de Oliveira
-          P;res Lanrirro (jue íef)OIJSa as 13 1 32) dos aulos CIO proces5õ
-    
-    
-    
-    
-      1                            CONSIDERANDO a manifestacão do Ministério Público cIo Contas,
-          materializada através do Parecer iil 2009JC0001. subscrito pelo Procurador do MPCITCE, José
-          Araujo Pinheiro Jurrior. que ICPOUS3 a 11s.33/34) dos autos do processo:
-                                                   (1
-    
-    
-    
-    
-                                    CONSIDERANDO a manifestação do Revisor Jaime Amorim Júnior, que
-          repousa às (f15.35). e
-    
-                                CONSIDERANDO o volo CIO Retator às (fls.38/40), que ratificou o Parecer
-          Consulforia Técnica n 1 5109, sugeruicro que a consulta seja respondida nos termos do referido
-          Paecei
-    
-                                    \Iistos, relatados e discutidos os presentes autos, decidiu o Plenário, unânime
-          rios lermos cio voto do Relator (íls.38/40), pelo conhecimento da consulta, pelas razões e
-          fundamentos expostos no despacho profatado às tts.(101;11), e. quanto ao mérito, responder, rios
-           ermos do Voto do Relator (t15.38!40). ratificando o Parecer da Consultoria Técnica                 O 15/09
-          (Os 13 132). a consulta formulada p011) Presidente da Câmara Municipal de Santa Cruz dos Milagres.
-          Si Errcro Ararrlo de Aqr.rrno, deve.nrlo ser encaminhada ao Consulerrte cÕpia autênhica do referido
-          Par'er.:ei e da Rntuçãcj desta Corlc de Contas que o aprovou como posicionamento sobre a consulta
-          1 no n rI ad a
-    
-    
-                                 Ausente, por motivo justificado, quando da apreciação do presente processo,
-           o Cons. Luciano Nunes Sanios
-    
-                                     Presentes os Conselheiros Joaquim Kennedy Nogueira Barros (Presidente
-           em exercicio) em viriLrde rIa ausõncia juslificada do Cons Abelardo Pio Vilanova e Silva, Sabino
-           Paulo AlvOs Neto. Anírisio Neto Lobão Castelo Branco, Olavo RebOlo de Carvalho Fithü, e o Cons.
-           SublrtuiO JrirTie Amorir'n Jrnior ConvOcadO para substituir a Cons. Wattànra Maria Nogueira dc-
-           Srrr rSa Leal Alvar e;rcm (ausentes por motivo justificado)
-    
-                                        Representante do MP de Contas presente. Procurador-Geral Leandro
-           MaceI do Nasc.rnierito
-    
-           Transcreva-se.                               e Encaminhe-se.
-    
-           Saia das Sessões do iei4ri . cIo krit)unal de Contas do Estado do Piaui, em Teresina. 21 de maio de
-           2009
-                                    1
-           Cros Joaquini Kenp             Nogueira Bárros'                             Presidente em exercicio
-    
-                                           /.
-           Cons. Ol          blo de Carvaio Filho                                                          Relator
-                                                  ré
-    
-           Rc;preserriarrre rio MP de Contas. t_eandro Maciel do Nascimento         Procurador-Geral cIo TCE/Pl
+[Brasão: ESTADO DO PIAUÍ, inscrição parcialmente apagada.]
+
+TRIBUNAL DE CONTAS\
+DO ESTADO DO PIAUÍ
+
+[Carimbo superior direito muito apagado, texto impresso ilegível. Preenchimento manuscrito:]\
+9383/09 — 44\
+[Assinatura/rubrica, sem atribuição.]
+
+CONSIDERANDO a manifestação da Consultoria Técnica, materializada através do Parecer Consultoria Técnica nº. 15/09, subscrito pelo Consultor Técnico Cleto de Oliveira Paes Landim, que repousa às (fls.13/32) dos autos do processo
+
+CONSIDERANDO a manifestação do Ministério Público de Contas, materializada através do Parecer nº 2009JC0001, subscrito pelo Procurador do MPC/TCE, José Araújo Pinheiro Júnior, que repousa à (fls.33/34) dos autos do processo;
+
+CONSIDERANDO a manifestação do Revisor Jaime Amorim Júnior, que repousa às (fls.35), e
+
+CONSIDERANDO o voto do Relator às (fls.38/40), que ratificou o Parecer Consultoria Técnica nº. 15/09, sugerindo que a consulta seja respondida nos termos do referido Parecer
+
+Vistos, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, nos termos do voto do Relator (fls.38/40), pelo **conhecimento** da consulta, pelas razões e fundamentos expostos no despacho prolatado às fls.(10/11), e, quanto ao mérito, **responder**, nos termos do voto do Relator (fls.38/40), ratificando o Parecer da Consultoria Técnica nº 15/09 (fls.13/32), a consulta formulada pelo Presidente da Câmara Municipal de Santa Cruz dos Milagres, Sr. Erício Araújo de Aquino, devendo ser encaminhada ao Consulente cópia autêntica do referido Parecer e da Resolução desta Corte de Contas que o aprovou como posicionamento sobre a consulta formulada
+
+**Ausente**, por motivo justificado, quando da apreciação do presente processo, o Cons. Luciano Nunes Santos
+
+**Presentes os Conselheiros** Joaquim Kennedy Nogueira Barros (Presidente em exercício) em virtude da ausência justificada do Cons. Abelardo Pio Vilanova e Silva, Sabino Paulo Alves Neto, Anfrísio Neto Lobão Castelo Branco, Olavo Rebêlo de Carvalho Filho, e o Cons. Substituto Jaime Amorim Júnior, convocado para substituir a Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga (ausentes por motivo justificado)
+
+**Representante do MP de Contas presente.** Procurador-Geral Leandro Maciel do Nascimento
+
+Transcreva-se, Publique-se, Cumpra-se e Encaminhe-se.
+
+Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina, 21 de maio de 2009
+
+[Traços de assinatura que atravessam o fecho e a primeira linha nominal, sem atribuição.]\
+Cons. Joaquim Kennedy Nogueira Barros [coluna de cargo:] Presidente em exercício
+
+[Traços de assinatura acima e sobre a segunda linha nominal, sem atribuição.]\
+Cons. Olavo Rebêlo de Carvalho Filho [coluna de cargo:] Relator
+
+[Traços de assinatura acima da terceira linha nominal, sem atribuição.]\
+Representante do MP de Contas. Leandro Maciel do Nascimento [coluna de cargo:] Procurador-Geral do TCE/PI
+
+[Restante inferior sem texto; marcas de escaneamento nas margens.]
 
 ## Ementa
 

@@ -3188,3 +3188,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **PGEPA, lote 4 de 05/11/2026:** 28 páginas de 006/2019 e 000002/2020 cotejadas integralmente por GPT-6 Astra, com correções aplicadas, peças separadas, tabela não preenchida e dúvidas remanescentes preservadas. Sem novos IDs; os nove PDFs já tratados somam 114 páginas, sem certificar o restante do inventário.
 
 - **PGEPA, lotes 5–6 de 05/11/2026:** 31 páginas de 000001/2024 e 000004/2021 cotejadas integralmente por GPT-6.1 Sol; +1 ID para 000001/2024. Checklist, despachos e minuta de TAD mantidos em suas peças, sem preencher campos nem inferir efeito da marca d’água. Onze PDFs / 145 páginas tratados; inventário remanescente pendente.
+
+- **TCEPI, novas fontes residuais de 05/11/2026:** nove PDFs / 24 páginas transcritas por imagem e revistas integralmente por GPT-6 Astra, com correções aplicadas e limites de identidade explícitos. As 98 suspeitas da varredura foram classificadas; falsos positivos não se tornaram prova de fidelidade de páginas inteiras. Nenhum novo ID. Aceite global da issue #201 ainda pendente.
