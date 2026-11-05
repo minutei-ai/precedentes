@@ -9,94 +9,77 @@
 - **Situação no catálogo:** PDF (Editado pela Resolução nº 161/2024-PGE )
 - **Ementa no catálogo:** Alteração bilateral dos contratos administrativos.
 - **Fonte:** [PGE/PR — Orientações Administrativas](https://www.pge.pr.gov.br/Pagina/Orientacoes-Administrativas)
-- **Fonte documental:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm095PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm095PGE.pdf)
-- **Páginas do PDF:** 2; camada textual extraída do PDF oficial (pdftotext); sem conferência visual individual documentada neste lote; conferência integral pendente
-- **Capturas:** HTTP 200 em 04/11/2026; 951392 bytes; SHA-256 `224544dbd49272855dd3f648945520b668c80a11e0bbe3c1ff50ee71dec3ebe6`
+- **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm095PGE.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm095PGE.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto do PDF
+## Transcrição visual e revisão independente
 
-### Página física 1
+As páginas abaixo foram transcritas de imagens e cotejadas integralmente em revisão independente Astra. Identidade impressa e rótulos do catálogo ficam separados. As resoluções que editam orientações e as folhas ePROTOCOLO são peças distintas no exemplar, sem criação de novos IDs. CPF pessoal ocultado integralmente; nomes funcionais, protocolos e códigos documentais mantidos. Declarações eletrônicas e referências a autenticidade são texto da fonte, sem validação de assinatura ou QR. Não se inferem vigência, efeito ou completude histórica.
 
-Publicação em Diário Oficial
-                                                                                                                 Edição nº 11704 de 18/07/2024
+Brasão, logomarca, molduras, cores e alinhamento foram observados nas imagens; são aparato gráfico sem reprodução fac-similar. Glifos equivalentes visualmente não certificam o código Unicode do PDF. Descrições entre colchetes são editoriais e não integram a redação jurídica.
 
-                                                                                                                                                        41
-                                                                                                                                                         31
+### Documento — SHA-256 `224544dbd49272855dd3f648945520b668c80a11e0bbe3c1ff50ee71dec3ebe6`
 
+- [Fonte oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-07/Orient-adm095PGE.pdf)
 
-                                                       Resolução nº 161/2024-PGE
+#### Página física 1
 
+[Quadro] Publicação em Diário Oficial\
+Edição nº 11704 de 18/07/2024
 
-                    Edita Orientação Administrativa nº 95-PGE
+[Carimbo circular: PROTOCOLO INTEGRADO DO ESTADO — Fls. 41 — Mov. 31]
 
+[Brasão] **PARANÁ**\
+GOVERNO DO ESTADO\
+**PROCURADORIA-GERAL**
 
-                           O PROCURADOR-GERAL DO ESTADO, no uso das atribuições que lhe
-                    conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485/1987, e o
-                    artigo 5º, inciso XXI, da Lei Complementar n.º 26/1985, e considerando o que
-                    consta no protocolo n° 22.442.725-5, resolve expedir a seguinte orientação
-                    administrativa a todos os órgãos e entidades da Administração Pública Estadual
-                    Direta e Autárquica:
+# Resolução nº 161/2024-PGE
 
+Edita Orientação Administrativa nº 95-PGE
 
-                                                      Lei Federal nº 14.133, de 1º de abril de 2021.
-                                                      Alteração bilateral dos contratos administrativos.
-                            TEMA DE                   Hipóteses de substituição do instrumento contratual (em
-                           INTERESSE                  sentido estrito) por outros instrumentos hábeis.
-                                                      Interpretação do art. 124, inciso II, alíneas "a", "b", "c" e
-                                                      "d" da Lei Federal n.º 14.133, de 1º de abril de 2021.
+**O PROCURADOR-GERAL DO ESTADO**, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485/1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26/1985, e considerando o que consta no protocolo nº 22.442.725-5, **resolve** expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
 
+<table>
+<tr><th rowspan="4">TEMA DE INTERESSE</th><td>Lei Federal nº 14.133, de 1º de abril de 2021.</td></tr>
+<tr><td>Alteração bilateral dos contratos administrativos.</td></tr>
+<tr><td>Hipóteses de substituição do instrumento contratual (em sentido estrito) por outros instrumentos hábeis.</td></tr>
+<tr><td>Interpretação do art. 124, inciso II, alíneas "a", "b", "c" e "d" da Lei Federal n.º 14.133, de 1º de abril de 2021.</td></tr>
+</table>
 
-                    1. As hipóteses de alteração bilateral dos contratos administrativos, dispostas no art.
-                    124, inciso Il, alíneas "a", "b", "c" e "d", da Lei Federal nº 14.133/2021, não compõem
-                    um rol taxativo, de modo que é possível que a Administração Pública, em comum
-                    acordo com o contratado, promova outras modificações contratuais adequadas ao
-                    interesse público, desde que não haja transfiguração do objeto .
+**1.** As hipóteses de alteração bilateral dos contratos administrativos, dispostas no art. 124, inciso II, alíneas "a", "b", "c" e "d", da Lei Federal nº 14.133/2021, não compõem um rol taxativo, de modo que é possível que a Administração Pública, em comum acordo com o contratado, promova outras modificações contratuais adequadas ao interesse público, desde que não haja transfiguração do objeto.
 
+**REFERÊNCIAS:** Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.
 
-                    REFERÊNCIAS: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.
+**PUBLIQUE-SE. ANOTE-SE.**
 
-                    PUBLIQUE-SE. ANOTE-SE.
+Curitiba, datado e assinado digitalmente.
 
+**Luciano Borges dos Santos**\
+Procurador-Geral do Estado
 
-                                                 Curitiba, datado e assinado digitalmente.
+Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300\
+www.pge.pr.gov.br
 
+1
 
-                                                         Luciano Borges dos Santos
-                                                          Procurador-Geral do Estado
+[Rodapé em caixa] Assinatura Avançada realizada por: **Luciano Borges dos Santos ([CPF OCULTO])** em 17/07/2024 11:36 Local: PGE/GAB/PROC. Inserido ao protocolo **22.442.725-5** por: **Miriam Lopes Pinheiro** em: 17/07/2024 11:23. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço: **https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento** com o código: **453f27a3bb84c1d1260b27f2875c8fd9**.
 
+#### Página física 2
 
-                                                                               1
+[Logotipo ePROTOCOLO]
 
+[Carimbo circular: PROTOCOLO INTEGRADO DO ESTADO — Fls. 41a — Mov. 31]
 
-Assinatura Avançada realizada por: Luciano Borges dos Santos (XXX.907.759-XX) em 17/07/2024 11:36 Local: PGE/GAB/PROC. Inserido ao protocolo 22.442.725-5 por:
-Miriam Lopes Pinheiro em: 17/07/2024 11:23. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser
-validada no endereço: https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento com o código: 453f27a3bb84c1d1260b27f2875c8fd9.
+Documento: **16122.442.7255EditaOrientacaoAdm95PGElicitacoesecontratosFONACONCCONDESP.893.pdf**.
 
+Assinatura Avançada realizada por: **Luciano Borges dos Santos ([CPF OCULTO])** em 17/07/2024 11:36 Local: PGE/GAB/PROC.
 
-### Página física 2
+Inserido ao protocolo **22.442.725-5** por: **Miriam Lopes Pinheiro** em: 17/07/2024 11:23.
 
-41a
-                                                                                                                          31
+[Área central sem texto; moldura retangular. QR code no canto inferior esquerdo, não decodificado.]
 
+Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021.
 
-Documento: 16122.442.7255EditaOrientacaoAdm95PGElicitacoesecontratosFONACONCCONDESP.893.pdf.
-
-
-Assinatura Avançada realizada por: Luciano Borges dos Santos (XXX.907.759-XX) em 17/07/2024 11:36 Local: PGE/GAB/PROC.
-
-
-Inserido ao protocolo 22.442.725-5 por: Miriam Lopes Pinheiro em: 17/07/2024 11:23.
-
-
-                       Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021.
-
-
-                       A autenticidade deste documento pode ser validada no endereço:
-                       https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento com o código:
-                       453f27a3bb84c1d1260b27f2875c8fd9.
-
-
-## Conferência e limites
-
-Texto da camada textual (pdftotext) do PDF oficial capturado em 04/11/2026. Amostras de páginas foram rasterizadas para checagem; OCR integral página a página dos PDFs digitalizados 11, 15, 19, 21 e 98 permanece pendente. Espaços de justificação e quebras de linha foram normalizados; hifenização de fim de linha não foi reunida automaticamente quando ambígua. A nota de substituição/alteração do catálogo, quando existe, permanece atribuída à linha oficial e não foi convertida em juízo de vigência. Resoluções de edição apenas citadas não geraram IDs próprios neste lote. Nomes e cargos permanecem. Não há publicação de PDF, HTML bruto ou scripts no repositório.
+A autenticidade deste documento pode ser validada no endereço:\
+**https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento** com o código:\
+**453f27a3bb84c1d1260b27f2875c8fd9**.
