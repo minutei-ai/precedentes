@@ -3058,3 +3058,7 @@ As 45 páginas dos 14 documentos CSMP capturados foram integralmente cotejadas e
 ### CGECE — 2ª edição integralmente cotejada, 05/11/2026
 
 Os 73 enunciados próprios da 2ª edição foram integralmente cotejados nas imagens das pp.16–51. Numeração, títulos, textos, referências e as 12 marcas de revisão conferem, com ajustes de espaços e quebras aplicados. Edição impressa: Fortaleza, dezembro de 2020; captura Wayback comprovada: 29/06/2021, não a captura de 2023 antes citada. Edição2015 preservada; seu cotejo independente está em curso. Anexos de terceiros não geram IDs CGECE. Delta zero, sem inferência de vigência.
+
+### ANS — quatro blocos DOU cotejados, 05/11/2026
+
+Os blocos integrais das Súmulas17/18/26/27 foram conferidos em imagem nas edições72/2011p83,140/2011p72,40/2015p31 e109/2015p26. As fichas mantêm o testemunho HTML e anotam suas diferenças do diário. Retirado controle de navegação da26. Os arquivos locais rotulados como PDFs da RN483 e da RN462/errata são HTML, sem valor de prova de fac-símile; a divergência SN1/2000 e a errata SN3 exigem recuperação dos PDFs reais. Delta zero.
