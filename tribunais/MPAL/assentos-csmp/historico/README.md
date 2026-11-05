@@ -4,6 +4,10 @@ Este arquivo preserva 80 transcrições dos documentos oficiais de 2016 a 2024. 
 
 Os 17 registros da edição de 2026 permanecem no catálogo principal. As edições de 2025 e 2026 foram comparadas separadamente; quinze corpos coincidem, sem que isso demonstre identidade ou relação jurídica. Avisos sem enunciado e a lacuna do Assento 008/2019 são mantidos como publicados e pendentes.
 
+### Reconsulta 04/11/2026 — Assento 008/2019
+
+A edição de 2019 do catálogo ([Assentos e Súmula 2019](https://www.mpal.mp.br/?page_id=15693), PDF capturado em par HTTP 200, 274.769 bytes) lista Assentos 001–006/2019 e Súmula 001/2019; **não imprime Assento 008/2019**. As edições 2020–2024 e 2026 trazem só o aviso de revogação (“Fica revogado o Assento nº 008/2019, do CSMP”), sem o corpo. HTTP vazio/ausência na edição de 2019 não prova que o ato nunca existiu; o próximo passo verificável é localizar a publicação original no DOE/ata do CSMP de 2019 que tenha trazido o texto integral, se houver.
+
 As 14 páginas físicas históricas listadas abaixo foram lidas visualmente. Páginas adjacentes com atas, pautas, listas de processos, editais ou atos administrativos foram excluídas. Cada par de capturas HTTP do PDF respondeu 200 e coincidiu em bytes e SHA-256; recibos, arquivos e imagens permanecem privados.
 
 ## Edição 2016
