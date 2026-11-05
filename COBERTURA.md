@@ -3094,3 +3094,7 @@ Quatro páginas dos três PDFs foram integralmente cotejadas em imagem:73anterio
 ### MPPA — compilação2025,37blocos cotejados em05/11/2026
 
 Seis páginas PDF92–97 do Vade Mecum tiveram os37blocos integralmente cotejados em imagem. Testemunho acrescentado aos1–16 sem fusão,21IDs novos17–37;27/33publicam cancelamentos com corpos históricos pendentes. Notas de grupo/alterações separadas, glifo não renderizado no26marcado,37preserva também o DOE2022. Datas posteriores atribuídas à compilação; atos originais em recuperação. Sem vigência ou completude histórica inferida.
+
+### MPF — associação documental do anexo ao conjunto09,05/11/2026
+
+Recuperado o scan de seis páginas do ato de2009 na coleção oficial da6ªCCR, sob o nome de arquivo vinculado ao nº09 no catálogo. Cotejo independente das dez páginas confirma mesmo ato/dispositivo/data/signatários, com variantes de redigitação, não espelho literal. Associação declarada pela página preservada; PDF não imprime número9 e ata2014não recuperada. Corrigida a explicação falsa sobre “todas as medidas”. Dispositivo citado na ficha9, sem novo ID ou vigência inferida.
