@@ -22,101 +22,103 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                          Estado do Piauí
-                                         Tribunal de Contas
-                                  Gab. Cons. Subs. Jaylson Campelo
-    
-    
-                                      ACÓRDÃO Nº 976/2018
-    
-    PROCESSO: TC/003617/2018.
-    DECISÃO Nº 665/2018.
-    ASSUNTO: CONSULTA – CÂMARA MUNICIPAL DE MIGUEL ALVES
-    CONSULENTE: JOÃO DE DEUS SOUSA RAMOS – PRESIDENTE.
-    OBJETO: PROPOSIÇÃO QUE DISPÕE SOBRE PAGAMENTO DE VERBA
-    INDENIZATÓRIA.
-    ADVOGADO: WALBER COELHO DE ALMEIDA RODRIGUES – OAB/PI Nº 5.457
-    (ASSESSOR JURÍDICO DO MUNICÍPIO).
-    RELATOR: JAYLSON FABIANH LOPES CAMPELO.
-    PROCURADOR: LEANDRO MACIEL DO NASCIMENTO.
-    
-    
-    
-                                             EMENTA: DESPESA. PAGAMENTO DE DÉCIMO
-                                             TERCEIRO SALÁRIO E TERÇO DE FÉRIAS PARA
-                                             VEREADORES. POSSIBILIDADE.
-                                             1.Em consulta com idêntico objeto, esta Corte de Contas
-                                             (Acórdão nº 174/2018), referente TC/012278/2017,
-                                             publicado no D.E. do TCE/PI nº 031, de 19/02/2018,
-                                             decidiu que é possível a concessão de “verba
-                                             indenizatória” aos Vereadores, por meio de lei (art. 37, §
-                                             II da CF/88 ).
-    
-    
-                                             SUMÁRIO: CONSULTA – CÂMARA MUNICIPAL
-                                             DE MIGUEL ALVES. Pelo conhecimento da presente
-                                             consulta. No mérito, para respondê-la em conformidade
-                                             e pelos fundamentos expostos no do voto do Relator
-                                             (peça nº 12), Decisão unânime.
-    
-    
-    
-                    Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ
-    (peça nº 4), o parecer da II Divisão Técnica/DFAM (peça nº 5), o parecer do Ministério Público de
-    Contas (peça nº 8), e o mais que dos autos consta, decidiu o Plenário, à unanimidade, consoante o
-    parecer ministerial, conhecer da presente Consulta, e no mérito, respondê-la, em conformidade e
-    pelos fundamentos expostos no voto do Relator (peça nº 12), pela possibilidade de concessão de
-    “verba indenizatória” aos Vereadores, por meio de lei (art. 37, § 11, da CF/88) em sentido estrito e
-    específico, seguida de regulamentação pelo próprio parlamento a respeito das despesas que podem
-    ou não podem ser enquadradas, além de conferir ampla transparência e irrestrito acesso aos
-    processos por qualquer interessado, tudo a ser devida e oportunamente analisado pelo controle
-    interno das Câmaras Municipais.
-    
-    
-    
-    
-               TC/003617/2018                          ACÓRDÃO Nº 976/2018                         1/1
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Jaylson Campelo
+
+
+ACÓRDÃO Nº 976/2018
+
+PROCESSO: TC/003617/2018.
+DECISÃO Nº 665/2018.
+ASSUNTO: CONSULTA – CÂMARA MUNICIPAL DE MIGUEL ALVES
+CONSULENTE: JOÃO DE DEUS SOUSA RAMOS – PRESIDENTE.
+OBJETO: PROPOSIÇÃO QUE DISPÕE SOBRE PAGAMENTO DE VERBA
+INDENIZATÓRIA.
+ADVOGADO: WALBER COELHO DE ALMEIDA RODRIGUES – OAB/PI Nº 5.457
+(ASSESSOR JURÍDICO DO MUNICÍPIO).
+RELATOR: JAYLSON FABIANH LOPES CAMPELO.
+PROCURADOR: LEANDRO MACIEL DO NASCIMENTO.
+
+
+
+EMENTA: DESPESA. PAGAMENTO DE DÉCIMO
+TERCEIRO SALÁRIO E TERÇO DE FÉRIAS PARA
+VEREADORES. POSSIBILIDADE.
+1.Em consulta com idêntico objeto, esta Corte de Contas
+(Acórdão nº 174/2018), referente TC/012278/2017,
+publicado no D.E. do TCE/PI nº 031, de 19/02/2018,
+decidiu que é possível a concessão de “verba
+indenizatória” aos Vereadores, por meio de lei (art. 37, §
+II da CF/88 ).
+
+
+SUMÁRIO: CONSULTA – CÂMARA MUNICIPAL
+DE MIGUEL ALVES. Pelo conhecimento da presente
+consulta. No mérito, para respondê-la em conformidade
+e pelos fundamentos expostos no do voto do Relator
+(peça nº 12), Decisão unânime.
+
+
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ
+(peça nº 4), o parecer da II Divisão Técnica/DFAM (peça nº 5), o parecer do Ministério Público de
+Contas (peça nº 8), e o mais que dos autos consta, decidiu o Plenário, à unanimidade, consoante o
+parecer ministerial, **conhecer** da presente Consulta, e no mérito, **respondê-la,** em conformidade e
+pelos fundamentos expostos no voto do Relator (peça nº 12), pela possibilidade de concessão de
+“verba indenizatória” aos Vereadores, por meio de lei (art. 37, § 11, da CF/88) em sentido estrito e
+específico, seguida de regulamentação pelo próprio parlamento a respeito das despesas que podem
+ou não podem ser enquadradas, além de conferir ampla transparência e irrestrito acesso aos
+processos por qualquer interessado, tudo a ser devida e oportunamente analisado pelo controle
+interno das Câmaras Municipais.
+
+
+
+
+TC/003617/2018                          ACÓRDÃO Nº 976/2018                         1/1
+
+[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
 
 #### Página 2 do PDF oficial
 
-                                                 Estado do Piauí
-                                                Tribunal de Contas
-                                         Gab. Cons. Subs. Jaylson Campelo
-    
-                       Ausente por motivo justificado quando da apreciação do presente processo, o
-        Cons. Substituto Jackson Nobre Veras, atuando em substituição à Consª. Lilian de Almeida Veloso
-        Nunes Martins (em gozo de férias).
-    
-                      Presentes: os Cons. Abelardo Pio Vilanova e Silva (Presidente em exercício em
-        virtude da ausência justificada do Cons. Olavo Rebêlo de Carvalho Filho), Joaquim Kennedy
-        Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Kleber Dantas Eulálio e os
-        Cons. Substitutos Jaylson Fabianh Lopes Campelo, convocado para substituir, nesse processo, o
-        Cons. Luciano Nunes Santos (ausente por motivo justificado) e Alisson Felipe de Araújo,
-        convocado para substituir, nesse processo, o Cons. Abelardo Pio Vilanova e Silva (no exercício da
-        Presidência).
-    
-                  Representante do Ministério Público de Contas presente: Procurador-Geral
-        Leandro Maciel do Nascimento
-    
-                     Publique-se. Cumpra-se.
-    
-                     Sessão Plenária Ordinária nº 017, em Teresina, 07 de junho de 2018.
-    
-    
-               (assinado digitalmente)
-        Cons. Subst. Jaylson Fabianh Lopes Campelo                                  Relator
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 15/06/2018 10:25:51
-    
-    
-    
-    
-                    TC/003617/2018                             ACÓRDÃO Nº 976/2018                               1/1
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Jaylson Campelo
+
+**Ausente** por motivo justificado quando da apreciação do presente processo, o
+Cons. Substituto Jackson Nobre Veras, atuando em substituição à Consª. Lilian de Almeida Veloso
+Nunes Martins (em gozo de férias).
+
+**Presentes:** os Cons. Abelardo Pio Vilanova e Silva (Presidente em exercício em
+virtude da ausência justificada do Cons. Olavo Rebêlo de Carvalho Filho), Joaquim Kennedy
+Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Kleber Dantas Eulálio e os
+Cons. Substitutos Jaylson Fabianh Lopes Campelo, convocado para substituir, nesse processo, o
+Cons. Luciano Nunes Santos (ausente por motivo justificado) e Alisson Felipe de Araújo,
+convocado para substituir, nesse processo, o Cons. Abelardo Pio Vilanova e Silva (no exercício da
+Presidência).
+
+Representante do Ministério Público de Contas presente: Procurador-Geral
+Leandro Maciel do Nascimento
+
+Publique-se. Cumpra-se.
+
+Sessão Plenária Ordinária nº 017, em Teresina, 07 de junho de 2018.
+
+
+*(assinado digitalmente)*
+Cons. Subst. Jaylson Fabianh Lopes Campelo                                  Relator
+
+
+
+
+Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 15/06/2018 10:25:51
+
+
+
+
+TC/003617/2018                             ACÓRDÃO Nº 976/2018                               1/1
+
+[Nota de cotejo: corpo verbal desta página conferido integralmente em imagem. Os destaques marcados aqui correspondem aos ajustes pontuais delimitados na revisão; a reprodução de outros destaques, cabeçalhos gráficos e rodapés permanece pendente. Não se afirma preservação tipográfica integral.]
 
 ### Documento vinculado pela fonte
 
