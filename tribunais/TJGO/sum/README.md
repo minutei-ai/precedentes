@@ -2,6 +2,8 @@
 
 **85 registros.** [Voltar ao tribunal](../)
 
+Os rótulos de situação na lista são informações das fontes, sem certificação independente de vigência. Os IDs preservam a distinção entre a súmula chamada 1-A no catálogo e a súmula histórica de 2010 sobre penhora salarial, também numerada 1 no documento.
+
 - [SUM 1](tjgo-sum-1.md) — Vigente
 - [SUM 1](tjgo-tjdocs-915155.md) — Exaurido
 - [SUM 2](tjgo-sum-2.md) — Vigente
@@ -91,3 +93,11 @@
 ## Conferência dos arquivos oficiais — 05/11/2026
 
 O lote de 78 arquivos foi conciliado com os documentos do catálogo atual: 71 ODTs comparados integralmente com seu XML e sete PDFs com as 14 páginas cotejadas em imagem. A comparação dos ODTs preserva o tachado ativo do nº 36 e não equivale a leitura visual de páginas renderizadas. O PDF 650217 contém o original de 2022 em escala mínima; sua transcrição ampliada está separada do HTML consolidado revisado em 2024 no registro 76. Nos cinco PDFs do DJe, os rodapés sobrepostos são apresentados com a limitação e o apoio da página 2 declarados. Nenhum novo identificador foi criado. A reconsulta da API retornou os mesmos 85 IDs e metadados; a interface respondeu HTTP 404. Não se certifica vigência ou autenticidade das assinaturas.
+
+## Conferência dos sete PDFs anteriores ao lote de 78
+
+Os documentos 412255, 915155, 578063, 578064, 650218, 650224 e 650225 já estavam incorporados antes do lote complementar de 78. Foram recapturados no backend público em 05/11/2026: sete respostas PDF, HTTP 200, com SHA-256 idêntico ao registrado nas fichas. As 13 páginas foram cotejadas integralmente em imagem em revisão independente, sem correções textuais obrigatórias. A página 2 de 412255 é branca, com marcas de margem e furos, sem letras ou microtexto identificados. As outras páginas de assinaturas foram igualmente cotejadas, sem autenticação.
+
+Os textos preservam grafias anômalas e diferenças entre o impresso e o catálogo. “Exaurido” da peça histórica e o cancelamento da 78 são atribuições do catálogo, não inscrições nos PDFs. Os tamanhos declarados para 578064 e 650224 divergem dos corpos recapturados, cujos hashes coincidem; a causa não foi inferida. Negritos, sublinhado de ÓRGÃO ESPECIAL e logotipos não são reproduzidos sistematicamente; parágrafos de precedentes podem reunir linhas do impresso, sem perda de palavras.
+
+A reconciliação da issue #184 abrange os 85 documentos: 71 ODTs pelo conteúdo XML integral e recursos gráficos inventariados, mais 14 PDFs com 27 páginas lidas em imagem nos dois conjuntos. Os 71 ODTs não recebem por isso certificação visual de paginação renderizada. Fontes, versões e limites permanecem atribuídos nas fichas; não se afirma completude histórica ou vigência atual. Nenhum novo identificador foi criado.
