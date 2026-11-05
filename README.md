@@ -2,7 +2,7 @@
 
 Súmulas, temas, consultas, orientações e manifestações de fontes oficiais. Um arquivo Markdown por registro.
 
-**Cobertura parcial.** **Recontagem estrutural de 05/11/2026: 43.938 IDs únicos em 212 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência. [Método e limites](COBERTURA.md) · [Acompanhamento das lacunas (#239)](https://github.com/minutei-ai/precedentes/issues/239).
+**Cobertura parcial.** **Recontagem estrutural de 05/11/2026: 43.940 IDs únicos em 212 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência. [Método e limites](COBERTURA.md) · [Acompanhamento das lacunas (#239)](https://github.com/minutei-ai/precedentes/issues/239).
 
 
 - [Explorar por órgão](tribunais/README.md)

@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 43.938 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 43.940 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +961 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +963 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -3192,3 +3192,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **TCEPI, novas fontes residuais de 05/11/2026:** nove PDFs / 24 páginas transcritas por imagem e revistas integralmente por GPT-6 Astra, com correções aplicadas e limites de identidade explícitos. As 98 suspeitas da varredura foram classificadas; falsos positivos não se tornaram prova de fidelidade de páginas inteiras. Nenhum novo ID. Aceite global da issue #201 ainda pendente.
 
 - **PGEPA, lote 11 de 05/11/2026:** 18 páginas de 000003/2022 receberam transcrição visual e revisão independente Sol, com ajustes aplicados e limites gráficos preservados. Sem novos IDs; 12 PDFs / 163 páginas tratados nos recortes integrados, sem declarar completude da série.
+
+- **PGEPA, lotes 12 e 14 de 05/11/2026:** 38 páginas de dois novos registros receberam transcrição visual e revisão independente Sol/Astra, com ajustes aplicados e limites gráficos/tipográficos preservados. Dois novos IDs; 14 PDFs / 201 páginas tratados nos recortes integrados, sem declarar completude da série.

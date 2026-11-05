@@ -2,7 +2,7 @@
 
 Inventário do [catálogo oficial de Pareceres Referenciais da PGE/PA](https://www.pge.pa.gov.br/publicacoes/pareceres-referenciais) em 04/11/2026. **50 PDFs** capturados em duplicata com SHA-256 coincidente (HTTP 200). As duas capturas HTML do catálogo são idênticas: 63117 bytes, SHA-256 `077e7c6463675d14b30917e615b6e669980ebda2ccc3e0492e401ba03d9ec9ca`.
 
-**30 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
+**32 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
 
 | Nº (rótulo catálogo) | Arquivo | Páginas | Bytes | SHA-256 | Nota no catálogo |
 | --- | --- | ---: | ---: | --- | --- |
@@ -100,3 +100,7 @@ O lote 4, cotejado integralmente por GPT-6 Astra em 05/11/2026, atualizou as 28 
 Os lotes 5–6, revisados integralmente por GPT-6.1 Sol em 05/11/2026, incorporaram 31 páginas: novo registro 000001/2024, com checklist, ratificação e aprovação, e atualização de 000004/2021, com minuta de TAD não preenchida. Somados os recortes descritos, onze PDFs / 145 páginas receberam transcrição visual e revisão independente; demais arquivos do inventário continuam pendentes.
 
 O lote 11 recebeu cotejo visual independente integral por GPT-6.1 Sol em 05/11/2026: 18 páginas de 000003/2022, sem novos IDs. Os limites de leitura permanecem na ficha. Somados os recortes integrados, são 12 PDFs / 163 páginas; os demais arquivos do inventário continuam pendentes.
+
+Os lotes 12 e 14 receberam cotejo visual independente integral em 05/11/2026: 38 páginas de 000003/2023 e 000010/2023, com dois novos IDs. Os limites de leitura e de fontes substituídas permanecem nas fichas. Somados os recortes integrados, são 14 PDFs / 201 páginas; os demais arquivos do inventário continuam pendentes.
+
+Novos registros com cotejo integral: [000003/2023 — pregão](pgepa-parecer-ref-000003-2023.md) e [000010/2023 — isenção de imposto de renda](pgepa-parecer-ref-000010-2023.md).
