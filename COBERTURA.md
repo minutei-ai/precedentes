@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 43.990 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 43.992 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1013 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1015 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -1378,7 +1378,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEMS](tribunais/TCEMS/) | 91 | TCEMS — Súmulas e PDFs oficiais |
 | [TCEPB](tribunais/TCEPB/) | 2 | TCEPB — Resoluções sumulares e documentos oficiais |
 | [TCEPE](tribunais/TCEPE/) | 100 | TCEPE — Enunciados de Prejulgados; TCEPE — Rol oficial de súmulas e nota do catálogo; TCEPE — Teses de Uniformização de Jurisprudência |
-| [TCEPI](tribunais/TCEPI/) | 417 | TCEPI — Consultas, fichas temáticas e documentos oficiais; TCEPI — Prejulgado e documentos oficiais; TCEPI — Procedimento de uniformização e documentos oficiais; TCEPI — Súmula e documentos oficiais |
+| [TCEPI](tribunais/TCEPI/) | 419 | TCEPI — Consultas, fichas temáticas e documentos oficiais; TCEPI — Prejulgado e documentos oficiais; TCEPI — Procedimento de uniformização e documentos oficiais; TCEPI — Súmula e documentos oficiais |
 | [TCEPR](tribunais/TCEPR/) | 1.028 | TCEPR — Consultas com força normativa e anexos oficiais; TCEPR — Incidentes de inconstitucionalidade e PDFs oficiais; TCEPR — Uniformizações de jurisprudência e PDFs oficiais; TCEPR — Prejulgados e PDFs oficiais; TCEPR — Súmulas e PDFs oficiais |
 | [TCERJ](tribunais/TCERJ/) | 614 | TCE-RJ — Consultas, ementas e documentos vinculados; TCE-RJ — Súmulas, fichas e acórdãos das propostas |
 | [TCERN](tribunais/TCERN/) | 34 | TCERN — Súmulas e PDFs oficiais |
@@ -3240,3 +3240,5 @@ PGECE: acrescentado o Parecer Normativo003/96, processo0415/96, após leitura di
 - **PGEPR, lote7 de05/11/2026:**20 páginas de13 PDFs, OAs62–74, incorporadas após cotejo independente integral Sol; dois ajustes de negrito da OA68 aplicados. Sem novo ID;132 páginas em61 PDFs nos recortes revistos, com65 páginas disponíveis de27 PDFs ainda pendentes, além de anexos bloqueados e recuperação histórica. #256 aberta.
 
 - **PGEPR, lote 8 de 05/11/2026:** 19 páginas de dez PDFs, OA 75–84, integradas após revisão independente integral Astra e um ajuste de negrito. Peças e variantes preservadas. Nenhum ID novo; 151 páginas em 71 PDFs nos recortes revistos, com 46 páginas disponíveis de 17 PDFs nas partes 9–11 ainda pendentes, além de anexos bloqueados e recuperação histórica. #256 aberta.
+
+- **TCEPI, dois posts adicionais em 05/11/2026:** 64041 e 64193 integrados com seus HTML e onze páginas PDF após revisão independente integral; nota de cor preservada, códigos documentais conferidos em recortes próprios e CPF/CNPJ pessoais ocultos. Delta de dois IDs, sem duplicar o alias 17231. O catálogo capturado contém 390 posts em 39 páginas, delimitado à captura; a união estrutural é de 492 PDFs/2.127 páginas, sem aceite global da #201.
