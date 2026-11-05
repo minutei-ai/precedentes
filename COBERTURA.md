@@ -2947,3 +2947,10 @@ Integrados os Acórdãos 2672/2010, 1145/2016, 1903/2011, 1850/2011 e 1080/2009,
 ## ANTT — nota Veja Também da Súmula 9 e Deliberação 18 recuperadas
 
 Integrado o corpo integral da Deliberação 18/2021, identificado pela nota oficial da Súmula 9 e pelo Processo 50500.103155/2020-96. Duas respostas HTML oficiais contêm o mesmo bloco legal, conferido integralmente; art. 1º aprova a edição da súmula. A fonte informa publicação interna em 01/02/2021, sem conversão para DOU. Reuniões 878/883/884/886 documentam retirada, vista, prorrogação e aprovação, separadas de redações do enunciado. A classe nota-revogado não foi usada como prova de revogação. Reconsultas de histórico e SAM 15/16 geraram capturas retidas de casca/erro, sem provar inexistência ou criar registros. Apoio na ficha existente, zero IDs/órgãos adicionais; histórico de redações permanece inconclusivo (#252).
+
+
+## TCEPR — mais quatro documentos e 24 páginas conferidos
+
+Integrados os Acórdãos 5530/2015, 1854/2011, 1855/2011 e 462/2007 após revisão independente das 24 páginas integrais. Corrigidos artefatos de espaçamento e marcadores, restaurados sobrescritos/destaques e notas separadas do corpo. Marca d’água, carimbos recortados, seção vazia, numeração repetida e votação por maioria permanecem atribuídos à fonte. Matrícula na nota do 5530 omitida com aviso, preservando nome/função. Total do lote recuperado: onze de 13 documentos/78 de 102 páginas integrados. Os dois restantes seguem pendentes; #194 permanece aberta. Zero IDs/órgãos novos.
+
+No Acórdão 462/2007, a reconsulta confirmou resumo Lumis sobre pregão pertencente ao Acórdão 423/07, conforme página temática e PDF próprios. O título/processo do 462 e o documento principal de previdência permanecem preservados; o resumo cruzado e o DOC de outro ato são atribuídos separadamente.

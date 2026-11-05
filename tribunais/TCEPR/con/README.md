@@ -950,3 +950,8 @@ O [registro 3921/2020](tcepr-con-ref-4936b6209ab75906019abcc93f046de2.md) inclui
 ## Cinco documentos principais adicionais — revisão integral
 
 Integrados os Acórdãos 2672/2010 (5 páginas), 1145/2016 (6), 1903/2011 (5), 1850/2011 (5) e 1080/2009 (6), sob os IDs existentes. As 27 páginas foram conferidas integralmente nas imagens por revisão independente. Corrigidos a fusão de carimbo/processo do 2672, os espaços espúrios do 1145 e os marcadores de notas; preservadas as ressalvas de carimbos recortados, marca d’água, estilo e redação original distinta dos embargos no 1145. Com 1108/2020 e 3921/2020, são sete dos 13 documentos recuperados já integrados (54 páginas); os outros seis seguem pendentes de revisão/integração. Nenhum ID novo; #194 continua aberta.
+
+
+## Quatro documentos adicionais — 24 páginas conferidas
+
+Integrados os Acórdãos 5530/2015 (7 páginas), 1854/2011 (7), 1855/2011 (7) e 462/2007 (3) após revisão visual integral. Corrigidos os espaços espúrios, marcadores e sobrescritos; preservados destaques, notas, carimbos recortados com atribuição e seções vazias da fonte. O 1855 foi aprovado por maioria absoluta, com voto vencido; isso não foi convertido em unanimidade. IDs existentes, sem novo registro. São onze de 13 documentos/78 de 102 páginas integrados; os Acórdãos 1294/2019 e 3295/2013 seguem pendentes (#194).
