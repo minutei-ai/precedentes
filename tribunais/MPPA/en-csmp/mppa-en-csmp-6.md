@@ -23,3 +23,15 @@ As 4 páginas do PDF foram lidas na imagem renderizada e na camada de texto em 0
 ## Cancelamento registrado em 2022
 
 O [DOE/PA de 16/03/2022, p.110](https://www.ioepa.com.br/pages/2022/2022.03.16.DOE.pdf) registra que o Conselho, por unanimidade, “CANCELOU os enunciados 6 e 7”. A passagem foi conferida em imagem; o texto de 2019 permanece como histórico. Não se infere outro ato, data de publicação autônoma ou situação jurídica além do registro documental.
+
+## Texto da compilação — Vade Mecum MPPA 2025
+
+[Fonte oficial](https://www2.mppa.mp.br/data/files/C6/80/F4/9D/67745910FB167459180808FF/VADE%20MECUM%202025.pdf), páginas PDF 92 (impressas 90).
+
+ENUNCIADO 6 - CANCELADO na 5ª Sessão Ordinária, realizada em 14.03.2022
+
+### Notas da compilação
+
+Enunciados 01 a 16 APROVADOS na 2ª Sessão Extraordinária, realizada em 19.06.2019 – DOE 26.06.2019. A nota de grupo encontra-se na página PDF 94.
+
+PDF de 5.445.016 bytes, SHA-256 `73053bd2329d2344b97030c6d3b57c8a6ed9619e2d7ff2a3fb7d828c16be15c5`. Todos os 37 blocos foram cotejados integralmente nas imagens das páginas PDF92–97 por revisão independente. Acentos, grafias e erros do impresso foram preservados, inclusive “EXTRAJUDIAIS”. Ajustes declarados: espaços de justificação e quebras de linha normalizados; marcador do bloco seguinte retirado do10; glifo não renderizado no26 marcado sem reconstrução; notas de alteração/grupo separadas do corpo. Ênfases tipográficas não integralmente reproduzidas. A compilação é testemunho próprio; não substitui silenciosamente o PDF institucional ou os DOEs anteriores nem prova vigência atual, prevalência ou completude histórica.

@@ -29,3 +29,19 @@ O [DOE/PA de 16/03/2022, p.110](https://www.ioepa.com.br/pages/2022/2022.03.16.D
 ENUNCIADO 4 - IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO. Merece homologação a promoção de arquivamento de inquérito civil ou de procedimento preparatório para apurar improbidade administrativa se, no curso da investigação, ficar comprovada a prescrição da ação, regulada pelo art. 23 da Lei nº. 8.429/92, ressalvados os casos em que haja comprovação de prática dolosa que cause danos ao erário, que é imprescritível e demanda o prosseguimento do feito.
 
 Fundamento: art. 37, § 5º da CF. RE/STF 852.475.
+
+## Texto da compilação — Vade Mecum MPPA 2025
+
+[Fonte oficial](https://www2.mppa.mp.br/data/files/C6/80/F4/9D/67745910FB167459180808FF/VADE%20MECUM%202025.pdf), páginas PDF 92 (impressas 90).
+
+ENUNCIADO 4 - IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO. Merece homologação a promoção de arquivamento de inquérito civil ou de procedimento preparatório para apurar improbidade administrativa se, no curso da investigação, ficar comprovada a prescrição da ação, regulada pelo art. 23 da Lei nº. 8.429/92, ressalvados os casos em que haja comprovação de prática dolosa que cause danos ao erário, que é imprescritível e demanda o prosseguimento do feito.
+
+Fundamento: art. 37, § 5º da CF. RE/STF 852.475.
+
+### Notas da compilação
+
+Enunciados 01 a 16 APROVADOS na 2ª Sessão Extraordinária, realizada em 19.06.2019 – DOE 26.06.2019.
+
+Alterado na 5ª Sessão Ordinária, realizada em 14.03.2022 A nota de grupo encontra-se na página PDF 94.
+
+PDF de 5.445.016 bytes, SHA-256 `73053bd2329d2344b97030c6d3b57c8a6ed9619e2d7ff2a3fb7d828c16be15c5`. Todos os 37 blocos foram cotejados integralmente nas imagens das páginas PDF92–97 por revisão independente. Acentos, grafias e erros do impresso foram preservados, inclusive “EXTRAJUDIAIS”. Ajustes declarados: espaços de justificação e quebras de linha normalizados; marcador do bloco seguinte retirado do10; glifo não renderizado no26 marcado sem reconstrução; notas de alteração/grupo separadas do corpo. Ênfases tipográficas não integralmente reproduzidas. A compilação é testemunho próprio; não substitui silenciosamente o PDF institucional ou os DOEs anteriores nem prova vigência atual, prevalência ou completude histórica.

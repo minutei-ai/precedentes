@@ -3090,3 +3090,7 @@ Três PDFs reais do DOU foram recuperados e cotejados em imagem: p305/31-03-2022
 ### MPF — histórico73/4ªCCR e fundamentação50/6ªCCR, 05/11/2026
 
 Quatro páginas dos três PDFs foram integralmente cotejadas em imagem:73anterior(1),73atual(2),fundamentação50(1). Downloads canônicos recapturadosHTTP200comhashesidênticos; URL mal resolvida do50 corrigida e vínculos73 atualizados. Histórico sómorte/atualmorteeprescrição separados. Delta zero. A identidade do bloco conjunto2009/09 continua sem prova formal e não foi fundida.
+
+### MPPA — compilação2025,37blocos cotejados em05/11/2026
+
+Seis páginas PDF92–97 do Vade Mecum tiveram os37blocos integralmente cotejados em imagem. Testemunho acrescentado aos1–16 sem fusão,21IDs novos17–37;27/33publicam cancelamentos com corpos históricos pendentes. Notas de grupo/alterações separadas, glifo não renderizado no26marcado,37preserva também o DOE2022. Datas posteriores atribuídas à compilação; atos originais em recuperação. Sem vigência ou completude histórica inferida.

@@ -29,3 +29,17 @@ As 4 páginas do PDF foram lidas na imagem renderizada e na camada de texto em 0
 ENUNCIADO 14 – PROCEDIMENTAL. PROMOÇÃO DE ARQUIVAMENTO. SANEAMENTO DE IRREGULARIDADES FORMAIS ANTES DO ENCAMINHAMENTO AO EGRÉGIO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO. Antes do encaminhamento dos autos para análise de arquivamento perante o Conselho Superior do Ministério Público, o membro presidente dos autos deve sanar as irregularidades formais dos autos e determinar a completa e correta numeração das páginas do procedimento, assim como, a cientificação do arquivamento às partes interessadas, nos termos da Resolução n.º 007/2019-CPJ.
 
 Fundamento: Visar a celeridade processual e economicidade, com base na Portaria n.º 6091/2015, republicada no DOE de 05.06.2019, que estabelece medidas de contenção, redução, racionalização, contingenciamento e monitoramento de despesas.
+
+## Texto da compilação — Vade Mecum MPPA 2025
+
+[Fonte oficial](https://www2.mppa.mp.br/data/files/C6/80/F4/9D/67745910FB167459180808FF/VADE%20MECUM%202025.pdf), páginas PDF 94 (impressas 92).
+
+ENUNCIADO 14 - PROCEDIMENTAL. PROMOÇÃO DE ARQUIVAMENTO. SANEAMENTO DE IRREGULARIDADES FORMAIS ANTES DO ENCAMINHAMENTO AO EGRÉGIO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO. Antes do encaminhamento dos autos para análise de arquivamento perante o Conselho Superior do Ministério Público, o membro presidente dos autos deve sanar as irregularidades formais dos autos e determinar a completa e correta numeração das páginas do procedimento, assim como, a cientificação do arquivamento às partes interessadas, nos termos da Resolução n.º 007/2019-CPJ.
+
+Fundamento: Visar a celeridade processual e economicidade, com base na Portaria n.º 6091/2015, republicada no DOE de 05.06.2019, que estabelece medidas de contenção, redução, racionalização, contingenciamento e monitoramento de despesas.
+
+### Notas da compilação
+
+Enunciados 01 a 16 APROVADOS na 2ª Sessão Extraordinária, realizada em 19.06.2019 – DOE 26.06.2019. A nota de grupo encontra-se na página PDF 94.
+
+PDF de 5.445.016 bytes, SHA-256 `73053bd2329d2344b97030c6d3b57c8a6ed9619e2d7ff2a3fb7d828c16be15c5`. Todos os 37 blocos foram cotejados integralmente nas imagens das páginas PDF92–97 por revisão independente. Acentos, grafias e erros do impresso foram preservados, inclusive “EXTRAJUDIAIS”. Ajustes declarados: espaços de justificação e quebras de linha normalizados; marcador do bloco seguinte retirado do10; glifo não renderizado no26 marcado sem reconstrução; notas de alteração/grupo separadas do corpo. Ênfases tipográficas não integralmente reproduzidas. A compilação é testemunho próprio; não substitui silenciosamente o PDF institucional ou os DOEs anteriores nem prova vigência atual, prevalência ou completude histórica.
