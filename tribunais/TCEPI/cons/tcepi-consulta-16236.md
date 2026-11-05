@@ -81,35 +81,9 @@ Procuradora - Geral MPC-TCE/PI
 [As rubricas e traços cruzam linhas; não se atribuiu autoria a cada linha. A grafia “Resende” nesta página difere de “REZENDE” na página 1.]
 
 
-### Documento vinculado pela fonte
+### Arquivo vinculado pelo portal — associação divergente
 
-[Abrir o documento oficial](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Voto-2.pdf). As peças de contexto e os processos apenas citados não foram contados como registros adicionais.
-
-O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permanecem identificados como conteúdo do documento vinculado.
-
-#### Página 1 do PDF oficial
-
-Página sem camada textual extraível; transcrição pendente.
-
-#### Página 2 do PDF oficial
-
-Página sem camada textual extraível; transcrição pendente.
-
-#### Página 3 do PDF oficial
-
-Página sem camada textual extraível; transcrição pendente.
-
-#### Página 4 do PDF oficial
-
-Página sem camada textual extraível; transcrição pendente.
-
-#### Página 5 do PDF oficial
-
-Página sem camada textual extraível; transcrição pendente.
-
-#### Página 6 do PDF oficial
-
-Página sem camada textual extraível; transcrição pendente.
+O link rotulado “Voto da Relatora” conduz ao Voto-2.pdf, mas o documento é o relatório e voto do processo25.666/11 de PioIX, folhas24–29, e não deste processo de Isaías Coelho. O exemplar foi [transcrito separadamente](documento-voto-pio-ix-exemplar-voto-2.md), com a associação sustentada pelo Acórdão193/12 da consulta16320. O voto da relatora deste caso, referido no acórdão às folhas44/48, continua sem fonte correspondente recuperada.
 
 ## Ementa
 

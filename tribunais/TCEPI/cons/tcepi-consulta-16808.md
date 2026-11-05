@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Pessoal. Recebimento cumulativo de remuneração de cargo efetivo com gratificação de cargo em comissão de Secretário. (2010)
 - **Identificador:** `tcepi-consulta-16808`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 3 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; páginas do recorte transcritas e cotejadas por imagem; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -367,15 +367,121 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo/linha de folha, canto superior direito, impresso com preenchimento manuscrito:] Proc. nº 030547/10 - Fls. [manuscrito, leitura provável:] 71 / [rubrica manuscrita sobre a linha, não atribuída] / Funcionário – MPC [Brasão "Ministério Público de Contas — PIAUÍ"]
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"] **Estado do Piauí** / **Tribunal de Contas** / **Ministério Público de Contas**
+
+Parecer nº 2010PC0007 Prefeitura de Bonfim do Piauí.
+
+[Bloco com fundo cinza:]
+**Processo** TC-E nº 030547/10.
+**Assunto:..........CONSULTA**.
+**Interessado........ Humberto Fernandes Viana** – Prefeitura de Bonfim do Piauí.
+**Cons.Relator**:......Olavo Rebêlo de Carvalho Filho.
+**Procurador**: ...........Plínio Valente Ramos Neto.
+
+Senhor Relator,
+
+Trata o presente processo de Consulta formulada pelo senhor Humberto Fernandes Viana, Secretário Municipal de Educação do município de Bonfim do Piauí, solicitando posicionamento desta Corte de Contas a respeito da legalidade de acumulação de remuneração de cargo de secretário com o cargo efetivo de professor.
+
+O Presidente desta Corte de Contas despachou a presente consulta (fl. 05). Submetida à apreciação da Corregedoria, foi recebida a consulta para resposta aos seguintes questionamentos (fl. 07):
+
+> a) Há possibilidade de acumulação de remuneração de cargo de secretário com o cargo efetivo de professor?
+>
+> b) Em qual fonte de recurso deve ser alocado o pagamento de servidor efetivo que exerce função de secretário?
+
+A consulta foi encaminhada à Consultoria Técnica deste Tribunal, que exarou parecer (fls. 67/68) respondendo ao consulente que não há amparo constitucional para acumulação dos vencimentos de cargo efetivo e a gratificação do cargo comissionado (art. 39, § 4º da CF/88) e que a matéria já foi objeto de consulta no processo TC e nº 1.826/05, Resolução nº 961/05. A resposta ao segundo questionamento foi de que o pagamento deveria ser feito com recursos que foram alocados à Secretaria de Educação que não sejam destinados para as despesas do FUNDEB.
+
+É o relatório, passa-se a opinar.
+
+<u>**DO CONHECIMENTO**</u>
+
+A consulta não atende aos requisitos legais previstos no Regimento Interno para ser acolhido como consulta, mormente por não se fazer acompanhar de pareceres do órgão técnico e jurídico da entidade consulente e ainda versar sobre fato concreto. Entretanto, opinamos pelo conhecimento em razão da relevância da presente questão (art. 234, §§1º e 2º do RITCE).
+
+<u>**DO MÉRITO**</u>
+
+Versa a consulta no seguinte teor:
+
+> ***1. Quanto à acumulação de cargo de Secretário Municipal de Educação com o de professor, questiona o consulente:***
+>
+> > *1.1 Tenho direito de receber a remuneração do meu cargo de professor, em que sou efetivo?*
+
+---
+[Rodapé:] 1
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo/linha de folha, canto superior direito, impresso com preenchimento manuscrito:] Proc. nº 030547/10 - Fls. [manuscrito:] 72 / [rubrica manuscrita sobre a linha, não atribuída] / Funcionário – MPC [Brasão "Ministério Público de Contas — PIAUÍ"]
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"] **Estado do Piauí** / **Tribunal de Contas** / **Ministério Público de Contas**
+
+> > *1.2 A Secretaria é conjunta com a Cultura, o Desporto e o Lazer e sabe-se que, por esse motivo não pode ser paga pelo FUNDEB, então de qual fonte deve ser pago esse direito?*
+
+Em resposta ao questionamento apresentado pelo consulente, este Ministério Público de Contas opina no sentido de que:
+
+1- Quanto à acumulação das funções de secretário e professor, tem-se a esclarecer preliminarmente que o art. 37, XVI da CF/88 permite a acumulação remunerada quando houver compatibilidade de horário, desde que seja acúmulo de um cargo de professor com outro, técnico ou científico.
+
+1.1. O conceito de cargo técnico é um conceito jurídico indeterminado.
+
+1.2. Há uma construção jurisprudencial do STJ que estabelece contornos para este conceito de cargo técnico ou científico: "aquele para cujo exercício sejam indispensável e predominante a aplicação de conhecimentos científicos ou artísticos de nível superior de ensino" (RMS 7006/DF).
+
+1.3. Entretanto, essa construção jurisprudencial não é suficiente para estabelecer o alcance da norma jurídica excepcional.
+
+1.4. Quanto ao elemento "requisitos para provimento no cargo público", este não é <u>suficiente</u> para estabelecer a natureza técnica ou não técnica do cargo, já que há cargos burocráticos que exigem formação em nível superior.
+
+1.5. Além disso, o elemento "requisitos para provimento no cargo público" não é <u>necessário</u> para caracterizar a natureza técnica ou não técnica do cargo, pois há cargos de provimento em comissão, que possuem natureza técnica, sem exigência de requisitos legais de conhecimento técnico.
+
+1.6. Dessa forma, o caráter "técnico" do cargo deve ser buscado em suas próprias atribuições legais.
+
+1.7. Apesar do cargo de Secretário municipal poder ser ocupado por pessoas sem qualquer formação técnica, isso não exclui por si só, sua natureza técnica.
+
+1.8. A liberdade de nomeação do Prefeito existe para que este possa ter auxiliares que sejam fiéis a uma orientação política centralizada. Isso não quer dizer que o prefeito pode nomear pessoas sem capacidade nenhuma para exercer função tão importante.
+
+1.9. O cargo de Secretário Municipal possui como funções básicas de administrar bens e pessoas, fiscalizar a execução do serviço público e cumprir as determinações do gestor, caracterizando-se, assim, como funções predominante técnicas.
+
+1.10. Dessa forma, o cargo de Secretário municipal pode ser cumulado com o cargo de professor efetivo.
+
+2- Quanto à fonte de recursos para o pagamento de despesa com remuneração de secretário municipal, entendemos que esta fonte não é específica.
+
+---
+[Rodapé:] 2
+
 
 #### Página 3 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo/linha de folha, canto superior direito, impresso com preenchimento manuscrito:] Proc. nº 030547/10 - Fls. [manuscrito:] 73 / [rubrica manuscrita sobre a linha, não atribuída] / Funcionário – MPC [Brasão "Ministério Público de Contas — PIAUÍ"]
+
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"] **Estado do Piauí** / **Tribunal de Contas** / **Ministério Público de Contas**
+
+2.1 Na verdade, não há um vínculo direto entre espécies de receita e espécies de despesa. A receita tributária, por exemplo, pode ser utilizada em uma grande série de despesas.
+
+2.2 Entretanto, às vezes, há limitações constitucionais em relação a determinadas receitas, v.g., a receita do FUNDEB deve ser utilizada em despesas relativas à manutenção e desenvolvimento do ensino.
+
+2.3 Assim, exceto as receitas vinculadas constitucionalmente, não há fonte específica de recurso para a despesa com remuneração de Secretário Municipal.
+
+<u>CONCLUSÃO</u>
+
+Em resposta às indagações do consulente, pode-se aduzir que:
+
+1- O cargo de Secretário municipal pode ser cumulado com o cargo de professor efetivo, desde que haja compatibilidade de horário e;
+
+2 – A despesa com a remuneração do servidor efetivo que exerce função de secretário deve ser alocada em dotação específica para pagamento de pessoal no orçamento do município, excluída a possibilidade de utilização das receitas do FUNDEB para tal despesa.
+
+É o posicionamento Ministerial.
+
+Teresina (PI), 15 de outubro de 2010.
+
+[Assinatura manuscrita sobre o nome impresso; traço não atribuído]
+**Plínio Valente Ramos Neto**
+**Procurador do MPC- TCE**
+
+[Carimbo retangular, à esquerda, com preenchimento manuscrito:] A(o): [manuscrito:] Executiva, [continuação manuscrita em duas linhas, de leitura incerta mesmo no crop ampliado; não completada] / Em, [manuscrito:] 15 / 10 / 10 / [rubrica manuscrita, não atribuída] / Apoio/MPC
+
+[Carimbo retangular, à direita, esmaecido e não preenchido; apenas "[...]PC" e linhas com "/" visíveis]
+
+---
+[Rodapé:] 3
 
 ### Documento vinculado pela fonte
 
@@ -458,3 +564,11 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 - PDF vinculado: 3 página(s), 326013 bytes, SHA-256 `7d939f21ddaeb798baa3f194cc166620363e133d05a53c8ab021d0fc1f24a0e2`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte, sem continuação ou conclusão. A fusão gráfica rn/m permanece incerta no Voto6. O número profissional da OAB permanece ocultado por decisão editorial. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 3 página(s), 404282 bytes, SHA-256 `b33de278bfb6cfa926270a9e3d714ada5f0b6ea64772b904acbddb2f332ff267`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Nos votos, a leitura manuscrita 35.666/11 não foi harmonizada com o impresso25.666/11. O acento em ACACIO/ACÁCIO permanece incerto. Normalizaram-se sinais ° para º e espaços entre numeração e início dos itens 1.1 e 1.2. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.

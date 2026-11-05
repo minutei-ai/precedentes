@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Câmara Municipal. Repasse de duodécimo a menor. Procedimentos judiciais e contábeis a adotar. (2012)
 - **Identificador:** `tcepi-consulta-16592`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 3 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; páginas do recorte transcritas e cotejadas por imagem; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -280,15 +280,99 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo/linha de folha, canto superior direito, impresso em itálico com preenchimento manuscrito:] *Proc. nº TC-E 43.712/12 fls.* [manuscrito:] 133 / [rubrica manuscrita sobre a linha, não atribuída] / *Funcionário – MPC*
+
+[Brasão do Estado do Piauí, à esquerda] Estado do Piauí / Tribunal de Contas / Ministério Público de Contas [Brasão "Ministério Público de Contas — PIAUÍ", à direita]
+
+*Proc. TC-E nº 43.712/12*
+
+---
+
+**EXMO. SR. RELATOR CONSELHEIRO ANFRÍSIO NETO L. CASTELO BRANCO**
+
+*Processo: TC-E nº 43.712/12*
+*Assunto: Consulta*
+*Interessado: Ana Lúcia Policarpo da Cruz Gomes*
+*Parecer nº 2012LC0003*
+
+**1 RELATÓRIO**
+
+Trata-se de consulta formulada pela Sra. Ana Lúcia Policarpo da Cruz Gomes, Presidente da Câmara do Município de Guadalupe/PI, a formular questionamentos a respeito do repasse do duodécimo e da contabilização de despesas na Câmara.
+
+Após autuada, conforme trâmite interno processual, os autos foram encaminhados à unidade técnica competente (DFAM) para instrução.
+
+Devidamente realizado todo o trâmite processual necessário à correta instrução do feito, retornaram os autos a este P*arquet* para manifestação.
+
+Relatado, opina-se.
+
+**2 FUNDAMENTO**
+
+A consulta foi elaborada nos seguintes termos, fls. 02/03: ***1)*** *Quando as dotações orçamentárias do Poder Legislativo forem inferiores ao repasse do duodécimo constitucional devidamente regulamentado na LDO do Município e o Chefe do Poder Executivo se recusa a propor a abertura de um crédito suplementar ou especial para corrigir tal falha, o que fazer?* ***2)*** *Sabendo-se que não havendo a abertura do crédito suplementar ou especial, as dotações*
+
+[Rubrica manuscrita junto à margem inferior direita, sobre "especial", não atribuída]
+
+---
+
+[Área em branco na página, conforme imagem; não indica página ausente.]
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo/linha de folha, canto superior direito, impresso em itálico com preenchimento manuscrito:] *Proc. nº TC-E 43.712/12 fls.* [manuscrito, leitura provável:] 134 / [rubrica manuscrita sobre a linha, não atribuída] / *Funcionário – MPC*
+
+[Brasão do Estado do Piauí, à esquerda] Estado do Piauí / Tribunal de Contas / Ministério Público de Contas [Brasão "Ministério Público de Contas — PIAUÍ", à direita]
+
+*Proc. TC-E nº 43.712/12*
+
+---
+
+*orçamentárias do Poder Legislativo só suportam o empenhamento de despesa até o mês de outubro, inclusive o pagamento das despesas de caráter continuado, como pessoal, obrigações patronais, água, luz, telefone, etc. Pergunta-se: estas despesas devem ser pagas e não empenhadas? E como fazer contabilmente? Podem ser classificadas como despesas a regularizar?* ***3)*** *Caso as despesas que não tenham como ser empenhadas no exercício possam ser classificadas como despesas a regularizar, no orçamento do exercício seguinte deve-se propor dotação orçamentária no elemento de despesa (Despesa de Exercício Anterior) para regularizar tais despesas?* ***4)*** *Estas despesas serão consideradas na apuração dos limites legais do Poder Legislativo? Em qual exercício? No exercício que foram pagas ou no exercício que foram empenhadas/regularizadas?"*
+
+Em sua manifestação às fls. 128/129, a Divisão de Fiscalização da Administração Municipal – DFAM se posicionou nos seguintes termos:
+
+> *1 - A Lei de Responsabilidade Fiscal (LRF), em seu art. 15, estabelece que as despesas sem adequação orçamentária, ou seja, sem dotação suficiente, serão consideradas nulas, irregulares e lesivas ao patrimônio público. O instrumento previsto na lei para evitar que a fixação de despesa fique sem dotação é a abertura de créditos adicionais por meio de decreto do chefe do poder executivo, previsto nos artigos 40 e 42 da Lei n.º 4.320/64. Entretanto, no caso em comento, diante da negativa do Poder Executivo em abrir crédito suplementar para o Poder Legislativo, é imprescindível que este Poder, inicialmente, recorra aos meios judiciais cabíveis para tentar uma resolução ao problema.*
+>
+> *2 - Primeiramente, ressalta-se que, contabilmente, só seria possível empenhar as citadas despesas se houvesse saldo orçamentário na dotação própria. Em segundo, a despesa só poderia ser liquidada e paga se tivesse sido previamente empenhada (art. 60 da Lei nº 4.320/64). Entretanto, como relatado, o processo orçamentário foi interrompido em sua origem. Nesse caso, ausentes todos os pré-requisitos necessários para o empenhamento da despesa e, consequente pagamento, e sabendo-se que o andamento da máquina administrativa não pode parar, entende-se pela possibilidade de que as mesmas devam ser pagas e registradas no grupo Realizável, especificamente na conta Despesas a Regularizar (Conta específica para registrar pagamentos sem créditos atinentes às despesas pagas).*
+>
+> *3 - Sim. O empenhamento em Despesa de Exercícios Anteriores possui requisitos, como define o art. 37 da Lei Federal no 4.320/64: "As despesas de exercícios encerrados, para as quais o orçamento respectivo consignava crédito próprio, <u>com saldo suficiente para atendê-las</u>, <u>que não se tenham processado na época própria</u>, bem como os Restos a Pagar com prescrição interrompida e os compromissos reconhecidos após o encerramento do exercício correspondente, poderão ser pagas à conta de <u>dotação específica consignada no orçamento</u>, discriminada por elemento, obedecida, sempre que possível, a ordem cronológica." Assim, é de fundamental importância a proposição de dotação para tal conta na lei orçamentária do exercício seguinte (em que vai ser empenhada a despesa). Dotação esta que*
+
+[Rubrica manuscrita junto à margem inferior, sobre "empenhada", não atribuída]
+
+---
+
 
 #### Página 3 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Carimbo/linha de folha, canto superior direito, impresso em itálico com preenchimento manuscrito:] *Proc. nº TC-E 43.712/12 fls.* [manuscrito, leitura provável:] 135 / [rubrica manuscrita sobre a linha, não atribuída] / *Funcionário – MPC*
+
+[Brasão do Estado do Piauí, à esquerda] Estado do Piauí / Tribunal de Contas / Ministério Público de Contas [Brasão "Ministério Público de Contas — PIAUÍ", à direita]
+
+*Proc. TC-E nº 43.712/12*
+
+---
+
+> *comporte o volume das despesas que serão pagas neste exercício e registradas em Despesas a Regularizar.*
+>
+> *4 - Legalmente, e dentro de uma situação de normalidade, as despesas seriam consideradas no exercício em que foram empenhadas (art. 35 da Lei nº 4.320/64). Entretanto, nesta caso, as despesas deverão ser consideradas no exercício em que forem pagas. Para tanto, como as mesmas estarão registradas na conta Despesas a Regularizar, é necessário que o ente envie uma Nota Explicativa a esta Corte, explicitando toda situação ocorrida, devidamente acompanhada de documentação comprobatória, e discrimine em um documento apartado todas as despesas pagas e registradas na citada conta, identificando principalmente as despesas com pessoal, para que se possa apurar os limites constitucionais.*
+
+**3 CONCLUSÃO**
+
+Diante do exposto, o Ministério Público de Contas adere às conclusões emitidas pela DFAM, e opina para que a Consulta seja respondida nos termos por ela expostos.
+
+É o parecer.
+
+Teresina, 16 de novembro de 2012.
+
+[Assinatura manuscrita sobre o nome impresso; traço não atribuído]
+Leandro Maciel do Nascimento
+Procurador Ministério Publico de Contas
+TCE-PI
+
+[Bloco de assinatura impresso em tom esmaecido na reprodução.]
+
+[Carimbo retangular inclinado, com preenchimento manuscrito:] A(o): [manuscrito:] Relator / Em, [manuscrito:] 16 / 11 / 12 / [rubrica manuscrita, não atribuída] / Apoio MPC
+
+[Restante da página sem texto, conferido na imagem; linha horizontal de rodapé sem texto.]
 
 ### Documento vinculado pela fonte
 
@@ -398,3 +482,11 @@ As transcrições substituem apenas os avisos das peças identificadas acima. N�
 - PDF vinculado: 4 página(s), 497479 bytes, SHA-256 `7e40cdbeb2bd91655d01d8ab0049f4ac389fe4dd84b939ea355b4a528466ccbf`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte, sem continuação ou conclusão. A fusão gráfica rn/m permanece incerta no Voto6. O número profissional da OAB permanece ocultado por decisão editorial. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 3 página(s), 374612 bytes, SHA-256 `eda3de3c0b5e87dbb8f5adbcbdf97c1abe6396c614d6431d70845618d2d8a0c7`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Nos votos, a leitura manuscrita 35.666/11 não foi harmonizada com o impresso25.666/11. O acento em ACACIO/ACÁCIO permanece incerto. Normalizaram-se sinais ° para º e espaços entre numeração e início dos itens 1.1 e 1.2. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.

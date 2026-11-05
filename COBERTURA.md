@@ -3151,3 +3151,6 @@ TCEPI: segundo lote complementar de 26 páginas em oito PDFs incorporado após t
 
 
 TCEPI: terceiro lote complementar com 22 páginas novas em sete PDFs, após transcrição visual e cotejo independente integral. Quatro páginas do Acórdão2207/17 repetidas no lote já estavam integradas e não foram duplicadas. Incorporados parecer DFAM16854, voto16592, voto16808, parecer MPC16626 e acórdãos16940/16980/17022. Correções de acento e itálico aplicadas; fusão rn/m e folha8[?] preservadas como incertas. O Parecer MPC2012MC0004 termina no meio de frase na própria fonte. Sem novos IDs; demais peças continuam em revisão.
+
+
+TCEPI: quarto lote de26páginas em8PDFs integrado após transcrição e revisão visual independente. Corrigida a associação do Voto-2: o portal o liga à consulta16236, mas a imagem e a remissão do Acórdão193/12 o vinculam ao processo25.666/11 de PioIX (consulta16320). As seis páginas desse exemplar ficam em documento de apoio separado, sem novo ID; a fonte do voto de Isaías Coelho permanece pendente. Outros sete PDFs somam20páginas integradas nas fichas respectivas. Mantidas incertezas de acentos e manuscritos, sem harmonizar35.666/11 com25.666/11.

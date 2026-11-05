@@ -4,7 +4,7 @@
 - **Espécie:** Consulta
 - **Identificação na fonte:** Câmara Municipal. Pagamento de servidores comissionados. Limite do art. 29-A, §1º da Constituição Federal. (2013)
 - **Identificador:** `tcepi-consulta-16802`
-- **Situação na fonte:** Disponível no catálogo; transcrição documental pendente em 2 ocorrência(s); vigência não inferida
+- **Situação na fonte:** Disponível no catálogo; páginas do recorte transcritas e cotejadas por imagem; vigência não inferida
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEPI — Consultas, fichas temáticas e documentos oficiais](https://www.tcepi.tc.br/category/legislacao/consultas/)
 
@@ -22,11 +22,68 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
+
+**ACORDÃO Nº 600/13**
+
+[Coluna direita, carimbos sobrepostos:]
+[Logotipo com estrela, impresso]
+[Carimbo:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ / PROC Nº [manuscrito:] TCE [número manuscrito encoberto por carimbo pequeno sobreposto "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ"; não lido com segurança mesmo ampliado] FLS. [manuscrito:] 26 / [assinatura manuscrita sobre a linha, não atribuída] / SECRETÁRIA - FUNCIONÁRIO
+[Carimbo retangular com preenchimento manuscrito:] Publicado no Diário Oficial Eletrônico nº [manuscrito:] 069 página [manuscrito:] 17/18, em [manuscrito:] 12 / 04 / 13. / [rubrica manuscrita, não atribuída] / SECRETA[RIA DAS SESSÕES — trecho esmaecido; leitura parcial]
+
+**PROCESSO TC- E Nº 21.251/12**
+**DECISÃO Nº 271/13**
+**ASSUNTO:** CONSULTA – CÂMARA MUNICIPAL.
+**PROCEDÊNCIA:** CÂMARA DE CAMPO GRANDE DO PIAUÍ.
+**INTERESSADO:** ANTÔNIO JOSÉ BEZERRA.
+**PROCURADOR (A):** RAÏSSA MARIA REZENDE DE DEUS BARBOSA.
+**RELATORA:** CONSª. LILIAN DE ALMEIDA VELOSO NUNES MARTINS
+
+> *Unânime, pelo conhecimento da Consulta, para respondê-la no sentido de que não é cabível o pagamento dos servidores comissionados com os 30% que restam dos 70% previstos para pagamento da sua receita com folha de pagamento.*
+
+**CONSULTA – CÂMARA MUNICIPAL DE CAMPO GRANDE DO PIAUÍ** - Questionamento sobre a possibilidade do pagamento de funcionários comissionados ser feito fora do limite de 70% previsto na Constituição Federal.
+
+**Vistos**, relatados e discutidos os presentes autos, decidiu o Plenário, unânime, contrário ao Parecer Ministerial, às (fls. 17/19), **conhecer** da presente consulta, para **respondê-la** no sentido de que não é cabível o pagamento dos servidores comissionados com os 30% que restam dos 70% previstos para pagamento da sua receita com folha de pagamento, de acordo com o art. 29 – A, § 1º da Constituição Federal, nos termos e pelos fundamentos exposados no voto da Relatora, juntado aos autos.
+
+**Ausente,** por motivo justificado, quando da apreciação do presente processo, o Cons. Luciano Nunes Santos.
+
+**Presentes** os Cons. Waltânia Maria Nogueira de Sousa Leal Alvarenga (Presidente), Anfrísio Neto Lobão Castelo Branco, Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Lilian de Almeida Veloso Nunes Martins e o Cons. Substituto Delano Carneiro da Cunha Câmara, convocado para substituir o Cons. Olavo Rebêlo de Carvalho Filho (ausente por motivo justificado).
+
+**Representante do Ministério Público de Contas presente**: Sub-Procurador-Geral Leandro Maciel do Nascimento.
+
+[Rubrica manuscrita na margem inferior direita, sobre a faixa do rodapé, não atribuída]
+
+---
+[Rodapé, em faixa sombreada:] Gab. Consª Lilian Martins- Acórdão nº 21.251/12 – Consulta
+
 
 #### Página 2 do PDF oficial
 
-Página sem camada textual extraível; transcrição pendente.
+[Brasão do Estado do Piauí — "ESTADO DO PIAUÍ"]
+Estado do Piauí
+Tribunal de Contas
+Gab. Consª. Lilian Martins
+
+**ACORDÃO Nº 600/13**
+
+[Coluna direita, carimbos sobrepostos:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ [parcialmente encoberto por logotipo com estrela] / PROC Nº [manuscrito:] TCE 21.2[...] [final encoberto pelo logotipo] FLS. [manuscrito:] 27 / [assinatura manuscrita sobre a linha, não atribuída] / SECRETARIA - FUNCIONÁRIO [parcialmente encoberto por carimbo pequeno "TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ"]
+
+Transcreva-se, Publique-se e Cumpra-se.
+Sessão Plenária Ordinária nº 10/13, em Teresina, 21 de março de 2013.
+
+| | | |
+|---|---|---|
+| **Consª. Waltânia Mª. N. de S. L. Alvarenga** | [assinatura manuscrita, não atribuída] | **Presidente** |
+| **Consª. Lilian de A. V. N. Martins** | [assinatura manuscrita, não atribuída] | **Relatora** |
+| **Fui presente: Leandro M. do Nascimento** | [assinatura manuscrita, não atribuída] | **Sub-Procurador - Geral MPC-TCE/PI** |
+
+[Restante da página sem texto, conferido na imagem.]
+
+---
+[Rodapé, em faixa sombreada:] Gab. Consª Lilian Martins- Acórdão nº 21.251/12 – Consulta
 
 ### Documento vinculado pela fonte
 
@@ -145,3 +202,11 @@ Texto reproduzido de fonte oficial. Confira na origem a situação atual e as re
 - PDF vinculado: 3 página(s), 387123 bytes, SHA-256 `1a7b85853e8c20d82d13665ded5ac5a2ffab740838bd2e7c0ec2a0189fd2a9f5`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
 
 As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Logotipos foram descritos uma única vez e não como selos em relevo. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
+
+
+
+## Conferência das fontes recuperadas — 05/11/2026
+
+- PDF vinculado: 2 página(s), 245213 bytes, SHA-256 `b5dadc7245b6921466e5c345a924ee2c1a6fac637a9346f5366ab3f60c3e3676`; capturado como HTTP 200/PDF no endereço HTTPS atual e cotejado integralmente por imagens próprias e revisão independente.
+
+As transcrições substituem apenas os avisos das peças identificadas acima. Não houve OCR ou uso da camada textual como autoridade. Nos votos, a leitura manuscrita 35.666/11 não foi harmonizada com o impresso25.666/11. O acento em ACACIO/ACÁCIO permanece incerto. Normalizaram-se sinais ° para º e espaços entre numeração e início dos itens 1.1 e 1.2. Leituras manuscritas permanecem prováveis e localizadas; não se completaram glifos pela sequência. Identificadores pessoais e-TCE foram ocultados, mantendo nomes públicos, datas, horários e texto institucional. As divergências de grafia, datas, numeração e erros da fonte foram preservadas. Não se autenticaram assinaturas nem se infere vigência. Outras peças desta ficha conservam seus limites próprios; PDFs, imagens e revisões permanecem privados.
