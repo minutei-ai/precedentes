@@ -2977,7 +2977,7 @@ Recapturado o PDF do PA 2016.02.01.900166-9 em três downloads idênticos; pági
 
 ## TRF2 — certidão do cancelamento das Súmulas 19 e 33
 
-O bloco decisório da certidão, página física 15/16 e folha impressa 44 do PA 2016.02.01.900166-9, foi transcrito integralmente e conferido em imagem, com leitura das páginas 1, 2 e 14 para contexto. Cancela somente as Súmulas 19 e 33, em julgamento de 03/08/2017. O rótulo PA 2001 do catálogo continua atribuído separadamente. A disponibilização de 14/08/2017 no e-DJE2R, p.9, é referência do catálogo, sem caderno recuperado. O relatório/voto das demais páginas não foi transcrito neste complemento. Documento de apoio compartilhado, delta zero.
+O bloco decisório da certidão, página física 15/16 e folha impressa 44 do PA 2016.02.01.900166-9, foi transcrito integralmente e conferido em imagem, com leitura das páginas 1, 2 e 14 para contexto. Cancela somente as Súmulas 19 e 33, em julgamento de 03/08/2017. O rótulo PA 2001 do catálogo continua atribuído separadamente. A disponibilização de 14/08/2017 no e-DJE2R, p.9, é referência do catálogo, sem caderno recuperado. O [relatório, voto e certidão completos nas 16 páginas](tribunais/TRF02/sum/pa-cancelamento-sumulas-19-33-2017.md) foram incorporados em complemento posterior: revisão independente de todas as imagens e aplicação dos achados pelo coordenador, com brancos e variantes preservados. Documento de apoio compartilhado, delta zero.
 
 ## TJMRS — diretriz administrativa 01/Adm/2018
 
