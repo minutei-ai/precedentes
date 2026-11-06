@@ -193,3 +193,189 @@ Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <p style="font-weight: bold; background-color: #d3d3d3"></p>
 <hr/>
 <p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
+
+## Anexo oficial cotejado — SHA-256 58f496db0f3a
+
+- **Fonte:** [anexo oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=abrirAnexo&codArquivoAnexado=59980).
+- **Arquivo:** 4 páginas físicas, 209819 bytes; SHA-256 `58f496db0f3a642add0a71e90eadb2715f57c1be13cf5c2521f915808f671f50`.
+
+Transcrição visual pessoal Sol e revisão independente integral Sol em nova execução, abrangendo cada página inteira e três faixas próprias. Vinte e uma substituições delimitadas foram aplicadas nas cópias dos três anexos, com reversão byte a byte conferida. A sequência por página é mantida, mas a disposição interna, os alinhamentos, a ordem de selos/rodapés e as quebras de linha não são diplomáticos. As descrições gráficas abaixo complementam o texto; não são palavras acrescentadas ao ato.
+
+Físicas 1–3: título impresso “Orientação Administrativa n.º 048/2021-PGE”. Física 4: folha eProtocolo. O portal associa o arquivo aos contextos 39 e 48; o carimbo menciona OA39 e o nome documental contém N39. Esses rótulos são preservados separadamente e não transformam o título impresso 048 em OA39. O traço depois de Paraná na física 3 continua ambíguo entre I/l.
+
+Os recibos originais registram HTTP 200, HTTPS e TLS padrão, com bytes e hashes conferidos. Recaptura posterior retornou 403 e não invalida esses recibos. Nenhuma captura comprova autenticidade documental ou assinatura. Inscrições de edição/revogação, nomes, datas, protocolos e códigos de validação permanecem como dizeres da fonte; QR e destinos de validação não foram acessados. Não se inferem vigência, pertinência, identidade jurídica, revogação ou efeitos. Regiões de glifo incerto permanecem ressalvadas.
+
+### Página física 1
+
+**Descrição editorial de elementos gráficos e limites:** Cabeçalho gráfico: PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL. Título em negrito: Orientação Administrativa n.º 048/2021-PGE. Carimbo vermelho no alto: “Despacho n° 872/2021-PGE / Revoga a Orientação / Administrativa n° 39, editada pela / Resolução n. 035/2020-PGE”. Selo circular: PROTOCOLO / Fls. 5 / Mov. 5 / INTEGRADO DO ESTADO. Não equiparar o título 048 ao alias 39. Quadro com célula esquerda TEMA DE INTERESSE em negrito, células direitas MILITARES; Promoção na carreira; dois parágrafos. Numerais 1., 2., 3. em negrito. Item 3 interrompido em “quaisquer”, continua na página seguinte. Rodapé institucional, número impresso 1 e caixa de assinatura; nomes funcionais em negrito na caixa. Código da caixa é documental, não serial individual de certificado.
+
+Rua Paula Gomes, 145 - São Francisco - 80510-070  - Curitiba - PR - 41 3281-6300                              www.pge.pr.gov.br
+
+
+1
+
+Orientação Administrativa n.º 048/2021-PGE
+
+
+A **PROCURADORA-GERAL DO ESTADO**, no uso das
+atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n°
+19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26,
+de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de de-
+zembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de  10 de setem-
+bro de 2019, e considerando o que consta no protocolo n° 17.954.732-5, resolve
+expedir a seguinte orientação administrativa a todos os órgãos e entidades da Ad-
+ministração Pública Estadual Direta e Autárquica:
+
+
+
+
+
+
+**TEMA DE INTERESSE**
+MILITARES
+Promoção na carreira
+O ato administrativo funcional de promoção só
+se perfectibiliza com o preenchimento de todos
+os requisitos legais, pressupondo a existência de
+vagas na classe superior e a respectiva
+disponibilidade orçamentária e financeira.
+Os efeitos funcionais e financeiros da promoção
+só têm início com a publicação do ato de
+concessão na imprensa oficial (Diário Oficial do
+Estado do Paraná), sendo vedada a atribuição
+de efeitos retroativos, nos termos da Lei
+Complementar Estadual nº 231/2020.
+
+**1.** A promoção na carreira depende da edição de ato administrativo
+concessivo, além de pressupor o preenchimento de todos os requisitos legais
+e a respectiva disponibilidade orçamentária e financeira, vedada a atribuição
+de efeitos retroativos, nos termos da Constituição Federal, da Lei
+Complementar Federal nº 101/2000 (Lei de Responsabilidade Fiscal), da Lei
+Complementar Estadual nº 231/2020 e do Decreto Estadual nº 3.169/2019.
+
+**2.** Os militares, nas hipóteses específicas nas quais havia previsão legal de
+efeitos retroativos, que, de fato, preencheram todos os requisitos legais para
+tanto antes da entrada em vigor da Lei Complementar Estadual nº 231/2020,
+poderão ter seus desenvolvimentos funcionais implementados nos termos da
+legislação anteriormente vigente, desde que se trate de mera inclusão em
+folha de pagamentos.
+
+**3.** Depende da observância prévia ao disposto no art. 33, do Decreto Estadual
+nº 3.169/2019, a realização de despesas com promoções, de quaisquer
+5
+5
+Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 13/08/2021 09:44. Inserido ao protocolo 17.954.732-5 por: Miriam Lopes Pinheiro em: 11/08/2021
+18:50. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
+https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 3001f9978b1f278512a88ce72ebb5ff6.
+
+### Página física 2
+
+**Descrição editorial de elementos gráficos e limites:** Cabeçalho gráfico PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL. Selo PROTOCOLO / Fls. 6 / Mov. 5 / INTEGRADO DO ESTADO. Continuação do item 3 iniciada por “naturezas”. Itens 4. a 9., numerais em negrito. Itálicos: caput no item 4; post-mortem no item 6; caput no item 7. Preservar “promoção do ato de bravura” (item 5), sem emendar para por. Número impresso 2. Rodapé institucional e caixa de assinatura com nomes funcionais em negrito.
+
+Rua Paula Gomes, 145 - São Francisco - 80510-070  - Curitiba - PR - 41 3281-6300                              www.pge.pr.gov.br
+
+
+2
+naturezas, independentemente do valor. Uma vez observado todo o rito
+estabelecido no referido dispositivo, o expediente estará apto a ser
+encaminhado ao Chefe do Poder Executivo para a elaboração e publicação
+de decreto, o qual configura o ato concessivo da promoção.
+
+**4.** Os efeitos funcionais e financeiros da promoção só têm início com a
+publicação do ato concessivo na imprensa oficial (Diário Oficial do Estado do
+Paraná), nos termos do art. 37, *caput*, da Constituição Federal, da Lei
+Complementar Estadual nº 231/2020 e da Lei Estadual nº 20.385/2020, sendo
+vedada a atribuição de efeitos retroativos. Por esta razão, quaisquer atos de
+comunicação ou divulgação interna (como boletins, por exemplo) não podem
+veicular conteúdo decisório ou declaratório de promoção, sendo vedada a
+utilização de verbos como “promovo” ou “concedo”, os quais só poderão
+constar do ato concessivo.
+
+**5.** A promoção do ato de bravura, prevista nos arts. 49 e 50, da Lei Estadual
+nº 5.940/1969, depende do reconhecimento do ato de bravura, cuja análise é
+discricionária, gerando efeitos funcionais e financeiros prospectivos a partir da
+publicação do ato concessivo no Diário Oficial.
+
+**6.** A promoção *post-mortem*, prevista no art. 52, da Lei Estadual nº 5.940/1969,
+como hipótese de avanço funcional, subsiste apenas nos casos dos itens 1 e
+2 do referido artigo, oportunidade em que gerará efeitos previdenciários, os
+quais têm início a partir da data da instituição da pensão.
+
+**7.** A promoção prevista no artigo 44-A, da Lei Estadual nº 5.940/1969, de
+natureza discricionária, deve ocorrer dentro dos 6 (seis) meses mencionados
+no *caput* do dispositivo, gerando efeitos prospectivos a partir da publicação do
+ato concessivo no Diário Oficial.
+
+**8.** A promoção em ressarcimento de preterição não se constitui como uma
+nova modalidade de promoção, mas sim uma via de correção administrativa
+de eventuais ilegalidades ou irregularidades ocorridas no curso do
+procedimento de promoção. Como uma expressão do dever de autotutela
+administrativa, essa denominada promoção dá-se, necessariamente, com
+efeitos retroativos que alcancem o momento da ilegalidade/irregularidade, a
+fim de compensar o servidor pelo ato ilegal/irregular.
+
+**9.** O art. 7º, da Lei Estadual nº 17.169/2012, veda expressamente a
+concessão de promoções aos inativos. No entanto, uma vez editado o ato
+concessório da promoção na atividade, seus efeitos deverão ser
+implementados, ainda que após a edição de tal ato o servidor tenha se
+aposentado.
+
+6
+5
+Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 13/08/2021 09:44. Inserido ao protocolo 17.954.732-5 por: Miriam Lopes Pinheiro em: 11/08/2021
+18:50. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
+https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 3001f9978b1f278512a88ce72ebb5ff6.
+
+### Página física 3
+
+**Descrição editorial de elementos gráficos e limites:** Cabeçalho PARANÁ / GOVERNO DO ESTADO / PROCURADORIA-GERAL. Selo PROTOCOLO / Fls. 7 / Mov. 5 / INTEGRADO DO ESTADO. Item 10. (numeral em negrito). Referências mantêm Lei Estadual nº 5.944/1969, embora corpo da página 2 use 5.940/1969: variante impressa, não corrigir. No fim da referência lê-se visualmente “do Paraná I.” (traço vertical antes do ponto; rascunho nativo o representa como l). Primeiro caput em referências em itálico. PUBLIQUE-SE. ANOTE-SE. em negrito. Data “Curitiba, datado e assinado digitalmente.” em itálico. Nome Leticia Ferreira da Silva em negrito, cargo normal. Número impresso 3, rodapé institucional e caixa de assinatura integral.
+
+Rua Paula Gomes, 145 - São Francisco - 80510-070  - Curitiba - PR - 41 3281-6300                              www.pge.pr.gov.br
+
+
+3
+**10.** A inobservância aos requisitos legais para a concessão do ato
+administrativo funcional de promoção acarretará a apuração da
+responsabilidade administrativa da autoridade competente para a prática do
+ato e a imposição das penalidades eventualmente cabíveis.
+
+
+**REFERÊNCIAS:** Constituição Federal, art. 37, *caput*; art. 42, § 1º; art. 169, §
+1º, inciso I; Lei Complementar Federal nº 101/2000, arts. 18 e 21; Lei Com-
+plementar Estadual nº 231/2020, art. 13, caput, e parágrafo único; Lei Estadu-
+al nº 20.385/2020, art. 1º, parágrafo único; Decreto Estadual nº 3.169/2019,
+art. 33; Decreto Estadual nº 4.189/2016, art. 1º, inciso I; Lei Estadual nº
+5.944/1969, arts. 40, 44-A, 49 a 52; Lei Estadual nº 17.169/2012, art. 7º; art.
+2º, alínea “a”, Pareceres nºs 22/2018, 01/2019, 13/2021 e 14/2021 - PGE; au-
+tos 0027433-67.2018.8.16.0182 - 4ª Turma Recursal dos Juizados Especiais
+do Paraná I.
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+
+*Curitiba, datado e assinado digitalmente.*
+
+
+**Leticia Ferreira da Silva**
+Procuradora-Geral do Estado
+
+
+7
+5
+Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 13/08/2021 09:44. Inserido ao protocolo 17.954.732-5 por: Miriam Lopes Pinheiro em: 11/08/2021
+18:50. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço:
+https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: 3001f9978b1f278512a88ce72ebb5ff6.
+
+### Página física 4
+
+**Descrição editorial de elementos gráficos e limites:** Peça acessória: folha ePROTOCOLO, moldura retangular, amplo branco central, QR no canto inferior esquerdo (não decodificado). Selo PROTOCOLO / Fls. 7a / Mov. 5 / INTEGRADO DO ESTADO. Campo Documento em negrito: 04817.954.7325REVISAODAORIENTACAOADMINISTRATIVAN39PGEDESP872RES.152.pdf. Nomes funcionais Leticia Ferreira da Silva e Miriam Lopes Pinheiro, protocolo, URL e código documental em negrito; demais rótulos normais. O nome do arquivo remete a N39, DESP872, RES.152; não substituir o título 048/2021-PGE. Nenhuma consulta de validação de assinatura realizada.
+
+7a
+5
+Documento: 04817.954.7325REVISAODAORIENTACAOADMINISTRATIVAN39PGEDESP872RES.152.pdf.
+Assinatura Qualificada realizada por: Leticia Ferreira da Silva em 13/08/2021 09:44.
+Inserido ao protocolo 17.954.732-5 por: Miriam Lopes Pinheiro em: 11/08/2021 18:50.
+Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021.
+A autenticidade deste documento pode ser validada no endereço:
+https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
+3001f9978b1f278512a88ce72ebb5ff6.
