@@ -23,4 +23,4 @@ Na [captura institucional histórica do MPPR](https://site.mppr.mp.br/saude/Pagi
 
 <p><strong>Enunciado nº 10: </strong>“Caso o ente público invista, em saúde pública, percentual inferior ao previsto na lei orçamentária anual, o Ministério Público adotará providências para a devida compensação nos exercícios subsequentes”.</p>
 
-Em outro bloco da mesma captura, o nº 25 termina em “nos exercícios”, sem continuação capturada; o texto completo acima pertence ao testemunho EJEF/TJMG.
+O texto principal desta ficha reproduz o nº 25 da EJEF/TJMG. O parágrafo nº 10 do bloco Integralidade do MPPR, reproduzido imediatamente acima, está completo na captura. Em outro bloco do MPPR, o nº 25 reproduz literalmente o prefixo do nº 25 da EJEF/TJMG, mas termina em “nos exercícios”, sem nota de reunião ou continuação antes do fechamento do painel. A correspondência textual não certifica identidade documental e não autoriza completar a ocorrência truncada com outro testemunho.
