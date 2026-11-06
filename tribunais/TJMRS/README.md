@@ -16,3 +16,5 @@ Reconsulta de 05/11/2026 ao catálogo e ao PDF da Súmula 1 corroborou o registr
 ## Apoio documental adicional
 
 [Quatro atas de sessão e uma ata de comissão](complementos/) foram incorporadas após revisão independente integral: seis registros HTML delimitados e uma página PDF. As divergências de datas, número de sessão e classe foram mantidas. Não são inteiros teores dos acórdãos; nenhuma nova tese ou ID foi criado. A investigação e as íntegras da #235 continuam pendentes.
+
+TJMRS, faixa P01: quinze páginas de oito PDFs cotejadas integralmente por Astra; treze páginas de seis documentos incorporadas como apoio de organização e procedimentos, sem novos IDs. As duas deliberações de gestão concreta ficaram fora da publicação. Identificado Ato Normativo 002/TJM republicado no arquivo rotulado Resolução 204; a íntegra dessa resolução permanece pendente. Datas divergentes preservadas; #235 aberta.

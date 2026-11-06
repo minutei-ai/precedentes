@@ -3264,3 +3264,5 @@ PGEPR, vinte páginas históricas em 05/11/2026: sete PDFs próprios das OA 3, 6
 PGEPR: quatro blocos HTML oficiais das Resoluções 191/2017 (OA 12), 051/2026 (OA 16), 024/2019 (OA 29) e 025/2019 (OA 30) incorporados após revisão independente integral Sol. Minuta DOCX da OA 16 mantida separada, republicação da OA 29 e chamada de nota sem corpo da OA 30 preservadas. Sem novos IDs ou soma de páginas PDF; pendências da #256 permanecem abertas.
 
 TJMRS: seis registros delimitados de quatro atas HTML e uma página de comissão regimental incorporados após revisão independente integral Astra. Evidência de tramitação e discussão de minuta, sem certificação de acórdãos, instauração de IRDR ou aprovação regimental. Dois IDs mantidos; #235 aberta.
+
+TJMRS, faixa P01: quinze páginas de oito PDFs cotejadas integralmente por Astra; treze páginas de seis documentos incorporadas como apoio de organização e procedimentos, sem novos IDs. As duas deliberações de gestão concreta ficaram fora da publicação. Identificado Ato Normativo 002/TJM republicado no arquivo rotulado Resolução 204; a íntegra dessa resolução permanece pendente. Datas divergentes preservadas; #235 aberta.
