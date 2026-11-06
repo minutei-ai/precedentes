@@ -12,6 +12,10 @@
 - **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-03/orientacaoadministrativa040.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-03/orientacaoadministrativa040.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
+## Ocorrência no Diário Oficial
+
+A [edição nº 10643 de 11/03/2020](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=10561&numero=10643), página física 5 do PDF, contém a Resolução nº 047/2020-PGE. O bloco da orientação e seu fecho foram lidos visualmente em recortes da edição; esta ocorrência é distinta das peças transcritas abaixo. No item 3 do diário, “que” está em peso regular e o negrito começa em “tenha”, terminando antes do ponto e vírgula; o HTML abaixo atribui realce diferente à sua própria ocorrência. A leitura não abrange o diário inteiro nem estabelece autenticidade, vigência ou efeitos.
+
 ## Transcrição visual e revisão independente
 
 Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol. Os ajustes literais, de carimbo e de descrição de ênfases prescritos foram aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Blocos de autenticação e folhas ePROTOCOLO são peças documentais separadas do corpo. Nomes funcionais, protocolos e códigos documentais foram preservados, sem validação das assinaturas ou dos QR codes.

@@ -12,6 +12,10 @@
 - **Vínculo documental do catálogo na captura inicial:** [https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa039.pdf](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-10/OrientacaoAdministrativa039.pdf)
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
+## Ocorrência no Diário Oficial
+
+A [edição nº 10636 de 02/03/2020](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=10554&numero=10636), página física 14–15 do PDF, contém a Resolução nº 035/2020-PGE. O bloco da orientação e seu fecho foram lidos visualmente em recortes da edição; esta ocorrência é distinta das peças transcritas abaixo. A leitura não abrange o diário inteiro nem estabelece autenticidade, vigência ou efeitos.
+
 ## Transcrição visual e revisão independente
 
 Os documentos abaixo foram transcritos por imagem e cotejados integralmente em revisão independente por GPT-6.1 Sol ou GPT-6 Astra, com os ajustes prescritos aplicados. Rótulos do catálogo e inscrições de edição, suspensão ou revogação permanecem atribuídos à fonte; não se inferem vigência, efeito jurídico ou validade de assinatura. Descrições gráficas, marcadores de destaque e notas são editoriais; diagramação e quebras foram adaptadas ao Markdown. Documentos e versões estão separados por arquivo e hash.
