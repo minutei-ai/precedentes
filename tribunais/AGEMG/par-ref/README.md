@@ -4,38 +4,54 @@ Catálogo oficial [Pareceres Referenciais](https://advocaciageral.mg.gov.br/legi
 
 - Identidades de páginas de ato enumeradas: 50.
 - Páginas com PDF linkado: 42.
-- Publicados com corpo textual curto neste lote: 26.
+- Fichas presentes na árvore atual: 42; 40 com corpo textual herdado e duas com transcrição retirada após reprovação independente. Esses estados não equivalem a cotejo visual integral.
 
-## Registros publicados
+## Registros presentes
 
-| Identificador | Rótulo | Páginas |
-| --- | --- | ---: |
-| [`agemg-par-ref-16-121`](agemg-par-ref-16-121.md) | Parecer 16.121 | 9 |
-| [`agemg-par-ref-16-145`](agemg-par-ref-16-145.md) | Parecer 16.145 | 15 |
-| [`agemg-par-ref-16-146`](agemg-par-ref-16-146.md) | Parecer 16.146 | 7 |
-| [`agemg-par-ref-16-198`](agemg-par-ref-16-198.md) | Parecer 16.198 | 13 |
-| [`agemg-par-ref-16-212`](agemg-par-ref-16-212.md) | Parecer 16.212 | 8 |
-| [`agemg-par-ref-16-254`](agemg-par-ref-16-254.md) | Parecer 16.254 | 6 |
-| [`agemg-par-ref-16-330`](agemg-par-ref-16-330.md) | Parecer 16.330 | 15 |
-| [`agemg-par-ref-16-643`](agemg-par-ref-16-643.md) | Parecer 16.643 | 9 |
-| [`agemg-par-ref-16-653`](agemg-par-ref-16-653.md) | Parecer 16.653 | 8 |
-| [`agemg-par-ref-16-660`](agemg-par-ref-16-660.md) | Parecer 16.660 | 13 |
-| [`agemg-par-ref-16-674`](agemg-par-ref-16-674.md) | Parecer 16.674 | 9 |
-| [`agemg-par-ref-16-676`](agemg-par-ref-16-676.md) | Parecer 16.676 | 12 |
-| [`agemg-par-ref-16-682`](agemg-par-ref-16-682.md) | Parecer 16.682 | 14 |
-| [`agemg-par-ref-16-683`](agemg-par-ref-16-683.md) | Parecer 16.683 | 15 |
-| [`agemg-par-ref-16-693`](agemg-par-ref-16-693.md) | Parecer 16.693 | 13 |
-| [`agemg-par-ref-16-698`](agemg-par-ref-16-698.md) | Parecer 16.698 | 11 |
-| [`agemg-par-ref-16-729`](agemg-par-ref-16-729.md) | Parecer 16.729 | 3 |
-| [`agemg-par-ref-16-730`](agemg-par-ref-16-730.md) | Parecer 16.730 | 13 |
-| [`agemg-par-ref-16-747`](agemg-par-ref-16-747.md) | Parecer 16.747 | 12 |
-| [`agemg-par-ref-16-749`](agemg-par-ref-16-749.md) | Parecer 16.749 | 13 |
-| [`agemg-par-ref-16-761`](agemg-par-ref-16-761.md) | Parecer 16.761 | 10 |
-| [`agemg-par-ref-16-754`](agemg-par-ref-16-754.md) | Parecer 16.754 | 9 |
-| [`agemg-par-ref-16-789`](agemg-par-ref-16-789.md) | Parecer 16.789 | 9 |
-| [`agemg-par-ref-16-794`](agemg-par-ref-16-794.md) | Parecer 16.794 | 12 |
-| [`agemg-par-ref-16-715`](agemg-par-ref-16-715.md) | Parecer 16.715 | 9 |
-| [`agemg-par-ref-16-726`](agemg-par-ref-16-726.md) | Parecer 16.726 | 12 |
+| Identificador | Rótulo | Páginas da fonte | Estado do corpo |
+| --- | --- | ---: | --- |
+| [agemg-par-ref-15-722](agemg-par-ref-15-722.md) | Parecer 15.722 | 14 | Nova transcrição pendente |
+| [agemg-par-ref-15-823](agemg-par-ref-15-823.md) | Parecer 15.823 | 7 | Nova transcrição pendente |
+| [agemg-par-ref-16-121](agemg-par-ref-16-121.md) | Parecer 16.121 | 9 | Corpo textual herdado |
+| [agemg-par-ref-16-145](agemg-par-ref-16-145.md) | Parecer 16.145 | 15 | Corpo textual herdado |
+| [agemg-par-ref-16-146](agemg-par-ref-16-146.md) | Parecer 16.146 | 7 | Corpo textual herdado |
+| [agemg-par-ref-16-198](agemg-par-ref-16-198.md) | Parecer 16.198 | 13 | Corpo textual herdado |
+| [agemg-par-ref-16-200](agemg-par-ref-16-200.md) | Parecer 16.200 | 21 | Corpo textual herdado |
+| [agemg-par-ref-16-212](agemg-par-ref-16-212.md) | Parecer 16.212 | 8 | Corpo textual herdado |
+| [agemg-par-ref-16-213](agemg-par-ref-16-213.md) | Parecer 16.213 | 21 | Corpo textual herdado |
+| [agemg-par-ref-16-214](agemg-par-ref-16-214.md) | Parecer 16.214 | 40 | Corpo textual herdado |
+| [agemg-par-ref-16-254](agemg-par-ref-16-254.md) | Parecer 16.254 | 6 | Corpo textual herdado |
+| [agemg-par-ref-16-268](agemg-par-ref-16-268.md) | Parecer 16.268 | 27 | Corpo textual herdado |
+| [agemg-par-ref-16-307](agemg-par-ref-16-307.md) | Parecer 16.307 | 20 | Corpo textual herdado |
+| [agemg-par-ref-16-330](agemg-par-ref-16-330.md) | Parecer 16.330 | 15 | Corpo textual herdado |
+| [agemg-par-ref-16-456](agemg-par-ref-16-456.md) | Parecer 16.456 | 19 | Corpo textual herdado |
+| [agemg-par-ref-16-541](agemg-par-ref-16-541.md) | Parecer 16.541 | 21 | Corpo textual herdado |
+| [agemg-par-ref-16-573](agemg-par-ref-16-573.md) | Parecer 16.573 | 18 | Corpo textual herdado |
+| [agemg-par-ref-16-643](agemg-par-ref-16-643.md) | Parecer 16.643 | 9 | Corpo textual herdado |
+| [agemg-par-ref-16-651](agemg-par-ref-16-651.md) | Parecer 16.651 | 46 | Corpo textual herdado |
+| [agemg-par-ref-16-653](agemg-par-ref-16-653.md) | Parecer 16.653 | 8 | Corpo textual herdado |
+| [agemg-par-ref-16-660](agemg-par-ref-16-660.md) | Parecer 16.660 | 13 | Corpo textual herdado |
+| [agemg-par-ref-16-665](agemg-par-ref-16-665.md) | Parecer 16.665 | 16 | Corpo textual herdado |
+| [agemg-par-ref-16-674](agemg-par-ref-16-674.md) | Parecer 16.674 | 9 | Corpo textual herdado |
+| [agemg-par-ref-16-676](agemg-par-ref-16-676.md) | Parecer 16.676 | 12 | Corpo textual herdado |
+| [agemg-par-ref-16-682](agemg-par-ref-16-682.md) | Parecer 16.682 | 14 | Corpo textual herdado |
+| [agemg-par-ref-16-683](agemg-par-ref-16-683.md) | Parecer 16.683 | 15 | Corpo textual herdado |
+| [agemg-par-ref-16-693](agemg-par-ref-16-693.md) | Parecer 16.693 | 13 | Corpo textual herdado |
+| [agemg-par-ref-16-698](agemg-par-ref-16-698.md) | Parecer 16.698 | 11 | Corpo textual herdado |
+| [agemg-par-ref-16-705](agemg-par-ref-16-705.md) | Parecer 16.705 | 24 | Corpo textual herdado |
+| [agemg-par-ref-16-708](agemg-par-ref-16-708.md) | Parecer 16.708 | 30 | Corpo textual herdado |
+| [agemg-par-ref-16-714](agemg-par-ref-16-714.md) | Parecer 16.714 | 30 | Corpo textual herdado |
+| [agemg-par-ref-16-715](agemg-par-ref-16-715.md) | Parecer 16.715 | 9 | Corpo textual herdado |
+| [agemg-par-ref-16-726](agemg-par-ref-16-726.md) | Parecer 16.726 | 12 | Corpo textual herdado |
+| [agemg-par-ref-16-729](agemg-par-ref-16-729.md) | Parecer 16.729 | 3 | Corpo textual herdado |
+| [agemg-par-ref-16-730](agemg-par-ref-16-730.md) | Parecer 16.730 | 13 | Corpo textual herdado |
+| [agemg-par-ref-16-747](agemg-par-ref-16-747.md) | Parecer 16.747 | 12 | Corpo textual herdado |
+| [agemg-par-ref-16-749](agemg-par-ref-16-749.md) | Parecer 16.749 | 13 | Corpo textual herdado |
+| [agemg-par-ref-16-754](agemg-par-ref-16-754.md) | Parecer 16.754 | 9 | Corpo textual herdado |
+| [agemg-par-ref-16-761](agemg-par-ref-16-761.md) | Parecer 16.761 | 10 | Corpo textual herdado |
+| [agemg-par-ref-16-769](agemg-par-ref-16-769.md) | Parecer 16.769 | 20 | Corpo textual herdado |
+| [agemg-par-ref-16-789](agemg-par-ref-16-789.md) | Parecer 16.789 | 9 | Corpo textual herdado |
+| [agemg-par-ref-16-794](agemg-par-ref-16-794.md) | Parecer 16.794 | 12 | Corpo textual herdado |
 
 ## Inventário do catálogo (04/11/2026)
 
@@ -95,3 +111,9 @@ Catálogo oficial [Pareceres Referenciais](https://advocaciageral.mg.gov.br/legi
 ## Limites
 
 SSL verify falhou sem `-k` nesta coleta; hashes referem os bytes obtidos com `-k`. CGEMG é outra instituição. Corpos longos ou sem camada textual adequada permanecem pendentes.
+
+## Reconciliação estrutural posterior
+
+Conferidos 42 campos Identificador e os hashes dos 42 PDFs locais vinculados ao inventário preservado de 50 páginas de ato; oito linhas não tinham PDF linkado na captura. Os 42 PDFs somam 653 páginas e foram divididos em 52 intervalos exclusivos de até vinte páginas para novo cotejo visual e revisão independente. Não foram reutilizadas as transcrições reprovadas de 15.722/15.823. Nenhuma página foi certificada visualmente por essa validação estrutural.
+
+Nova tentativa dos cinco caminhos do catálogo com TLS padrão falhou por SSLError; não houve desativação de verificação nesta retomada. As capturas anteriores com -k mantêm seu limite de proveniência e não foram promovidas a autenticadas. O total atual é estrutural; enumeração atual do portal, íntegra, notas e versões continuam pendentes na #259.
