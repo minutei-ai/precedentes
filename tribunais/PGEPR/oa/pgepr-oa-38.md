@@ -144,3 +144,44 @@ Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <p style="font-weight: bold; background-color: #d3d3d3"></p>
 <hr/>
 <p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
+
+## Reprodução no Diário — física 5; revisão de 06/11/2026
+
+Fonte: [Diário oficial, edição 10458](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9775&numero=10458). PDF local de 62 páginas, 8.023.967 bytes, SHA-256 `2336b1664989019a610645dda6ffda9f5cd9af7f7c394e681f614a3640f9b061`, conferido contra os recibos de aquisição. Integridade e resposta HTTP não autenticam o ato.
+
+A transcrição Sol recebeu novo cotejo visual independente Astra das áreas sanitizadas da física 5. Aplicadas duas correções exatas na OA38, com reversão byte a byte em cópia privada: retirada de vírgula no preâmbulo e restituição de “Constituição Federal, e constitui norma”. O título impresso identifica a Resolução 138/2019-PGE e a OA38. Referências e fecho continuam da coluna esquerda ao topo da direita na mesma página. O quadro de tema foi representado em parágrafos: palavras conferidas, geometria tabular não preservada. Não se certificam os codepoints dos glifos ordinais ou toda a tipografia.
+
+Resoluções 153/2019 e 151/2019 são blocos distintos de controle de delimitação; não foram incorporadas como OA38 ou novos precedentes. Duas menções institucionais na física 42 permanecem inconclusivas pelo contexto coberto, sem alegação de ausência. Cabeçalho geral, rodapés e atos vizinhos não foram integralmente lidos. O incidente de máscara inicialmente sobreposta à palavra “para”, corrigido para releitura, permanece no histórico privado. Sem OCR ou camada nativa como autoridade textual. Sem certificação de autenticidade, assinatura, vigência, efeitos ou completude da série. O texto anterior foi preservado como ocorrência própria, sem conciliar variantes por coerência.
+
+### Resolução 138/2019-PGE — texto no recorte
+
+Resolução 138/2019-PGE
+
+Edita Orientação Administrativa N.º 38-PGE
+
+A PROCURADORA-GERAL DO ESTADO, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n° 40, de 08 de dezembro de 1987, o art. 8º e inciso X do art. 20, ambos do Decreto Estadual n° 2.137, de 12 de agosto de 2015, e considerando o que consta no protocolo n° 15.728.909-8, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
+
+TEMA DE INTERESSE
+
+Abono de permanência.
+
+Observância ao regramento constitucional.
+
+O termo inicial para o pagamento do abono de permanência é a data do implemento dos requisitos para a concessão da aposentadoria voluntária.
+
+1. O abono de permanência está previsto no art. 40, § 19, da Constituição Federal, e constitui norma de reprodução obrigatória, não sendo possível ao legislador estadual instituir regramento diverso do estabelecido no texto constitucional.
+
+2. De acordo com a interpretação da jurisprudência pátria, o servidor ocupante de cargo efetivo adquire o direito ao abono de permanência com o preenchimento dos requisitos para a concessão da aposentadoria voluntária.
+
+3. Não se revela necessária nenhuma medida administrativa para que o servidor tenha reconhecido o seu direito ao abono de permanência.
+
+REFERÊNCIAS: Constituição Federal, art. 40, § 19; Lei Federal n° 10.887/04, art. 7°; STF, ADI 369; STF, ADI 178; STF, ADI 101; STF, RE 648727; STF, ARE 825334; TJPR - 4ª Turma Recursal dos Juizados Especiais - 0000500-34.2016.8.16.0180; TJPR - 7ª C.Cível - ACR - 1346626-7; TJPR - 6ª C.Cível - AC - 1133929-4; TCE-PR, Acórdão n° 129/08; TCE-PR, Acórdão n° 473/08; TCE-PR, Acórdão n° 1790/18; TCE-PR, Acórdão n° 3657/18; TCE-PR, Acórdão n° 36/19; TCE-PR, Acórdão n° 212/19.
+
+PUBLIQUE-SE. ANOTE-SE.
+
+Curitiba, 28 de maio de 2019
+
+Letícia Ferreira da Silva
+Procuradora-Geral do Estado
+
+55333/2019
