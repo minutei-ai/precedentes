@@ -1,10 +1,10 @@
 # PGEPA
 
-Procuradoria-Geral do Estado do Pará. **37 fichas** de Pareceres Referenciais no acervo e inventário parcial de **50 PDFs**. A contagem de fichas não certifica seus corpos. Nesta etapa, o nº 000004/2020 recebeu 17 páginas de transcrição visual integral aprovada por revisão independente.
+Procuradoria-Geral do Estado do Pará. **38 fichas** de Pareceres Referenciais no acervo e inventário parcial de **50 PDFs**. A contagem de fichas não certifica seus corpos. Nesta etapa, o nº 000004/2020 recebeu 17 páginas de transcrição visual integral aprovada por revisão independente.
 
 | Espécie | Fichas no acervo | Inventariados (PDF) |
 | --- | ---: | ---: |
-| [Parecer Referencial](parecer-referencial/) | 37 | 50 |
+| [Parecer Referencial](parecer-referencial/) | 38 | 50 |
 
 Fonte: [Pareceres Referenciais — PGE/PA](https://www.pge.pa.gov.br/publicacoes/pareceres-referenciais). O catálogo traz notas explícitas de superação/revisão (ex.: 13/2024 supera 10/2019 e a cadeia 7/2021–6/2023). Identidades e versões foram preservadas no inventário; a leitura visual integral do inventário permanece pendente, salvo os recortes documentados nas fichas. Não se infere vigência, vinculação ou completude.
 
@@ -38,3 +38,5 @@ O lote17 incorporou 27 páginas de 000010/2024 após cotejo independente integra
 [000001/2023 — inexigibilidade de licitação](parecer-referencial/pgepa-parecer-ref-000001-2023.md) incorporado com 27 páginas cotejadas integralmente por Astra. Dezenove substituições delimitadas foram aplicadas; cabeçalhos linearizados e limite geométrico mantido. Parecer, fecho e indexação separados de aprovações não presentes. Os recortes integrados alcançam 23 PDFs/381 páginas; restam 27 PDFs/1.042 páginas do inventário, além das lacunas locais. Um novo ID, sem aceite global da #261.
 
 [000006/2022 — fase preparatória das contratações](parecer-referencial/pgepa-parecer-ref-000006-2022.md) integrado com 28 páginas cotejadas integralmente em revisão independente Astra e cinco ajustes de ênfase/estrutura. Fecho de 22/01/2023 e marca diagonal de superação preservados como impressos, sem inferir efeito. Os recortes integrados alcançam 24 PDFs/409 páginas; restam 26 PDFs/1.014 páginas do inventário, além das lacunas locais. Um novo ID; #261 aberta.
+
+[000007/2023 — Programa Forma Pará](parecer-referencial/pgepa-parecer-ref-000007-2023.md) integrado com 28 páginas cotejadas integralmente por Astra, incluindo três anexos-modelo separados do parecer. Dezesseis ajustes finais de representação/incerteza aplicados; campos vazios e sobreposição na página 25 preservados. Recortes integrados: 25 PDFs/437 páginas; restam 25 PDFs/986 páginas do inventário, além das lacunas locais. Um novo ID; #261 aberta.
