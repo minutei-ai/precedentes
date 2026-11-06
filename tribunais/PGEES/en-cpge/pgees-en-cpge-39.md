@@ -47,3 +47,7 @@ Procurador-Geral do Estado
 ## Conferência e limites
 
 Transcrição do bloco numerado da página oficial, incluindo o cabeçalho literal, as notas e os fechos quando publicados. Normalizaram-se espaços, quebras de linha e apresentação: negrito e itálico foram reduzidos a texto; quebras `br` e parágrafos foram separados por linha em branco; marcadores de listas HTML foram explicitados. Tags inline foram concatenadas sem inserir espaços inexistentes. Os vínculos do bloco, quando presentes, são listados separadamente; seus documentos não foram lidos nesta coleta. Não houve PDF ou OCR usado na transcrição. Referências normativas não foram atualizadas. Ausência de nota não confirma vigência, força vinculante ou exaustividade.
+
+## Documento associado
+
+A [Resolução CPGE 314/2020](ATOS-VINCULADOS.md#resolução-cpge-314-2020--documento-associado-ao-enunciado-39), transcrita a partir de duas páginas derivadas do DOC, apresenta o ato e o enunciado com estilos e fecho próprios. A transcrição do catálogo acima permanece preservada.

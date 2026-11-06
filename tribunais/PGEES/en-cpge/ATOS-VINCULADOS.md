@@ -1279,3 +1279,83 @@ Art. 4º Esta Resolução entra em vigor na data de sua publicação.
 ## Limites
 
 Resolução 354/2024 foi recuperada em 04/11/2026 a partir do portal de resoluções do CPGE (ausente dos vínculos diretos da página de enunciados). Demais resoluções históricas publicadoras dos 58 enunciados foram lidas em [ATOS-HISTORICOS.md](ATOS-HISTORICOS.md). Não se infere vigência pela leitura destes atos.
+
+## Resolução CPGE 314-2020 — documento associado ao enunciado 39
+
+- **Fonte:** [Resolução CPGE 314/2020 — DOC disponibilizado pela PGE/ES](https://pge.es.gov.br/media/docs/Resolu%C3%A7%C3%B5es%20CPGE/2020/resolu%C3%A7%C3%A3o.CPGE.314-2020%20-%20alterar%20enunciado%20administrativo%2039.%20.doc)
+- **Documento capturado:** SHA-256 `65f5f3702e6958495bf178df37d2bc759228c39266c22cae32701f47591bfee2`; PDF derivado por LibreOffice, SHA-256 `e936233b6d1001a33341209fb6fc5fa567d65529a4c022c4bac5eb7a272f48d3`, duas páginas. A paginação abaixo pertence ao derivado.
+- **Cotejo:** leitura visual das duas páginas derivadas. O texto do enunciado I–IV corresponde ao bloco do catálogo na ficha 39, com diferenças de estilo e de grafia do cargo no fecho. A transcrição abaixo mantém o documento e não altera a ficha. Os atos históricos e vinculados existentes não contêm ocorrência da resolução 314 ou do enunciado 39. Não se cria novo ID.
+
+### Transcrição do derivado
+
+*[Página 1 do derivado; brasão]*
+
+**ESTADO DO ESPÍRITO SANTO**
+
+**CONSELHO DA PROCURADORIA GERAL DO ESTADO**
+
+**Resolução CPGE Nº. 314, de 17 de julho de 2020**
+
+Altera o Enunciado Administrativo CPGE Nº 39, publicado pela Resolução nº 313, de 30 de junho de 2020,
+
+O **CONSELHO DA PROCURADORIA GERAL DO ESTADO**, no uso de suas atribuições legais e tendo em vista a deliberação aprovada na reunião realizada em 07 de julho de 2020 e o disposto nos arts. 51 e 51- A da Lei Complementar nº 88/96, alterados pela Lei Complementar nº 666/2012,
+
+**RESOLVE:**
+
+Art. 1º - Enunciado Administrativo CPGE Nº 39, publicado pela Resolução nº 313, passa a vigorar com a seguinte redação:
+
+**Enunciado CPGE nº 39 - Requisitos para formalização de termo aditivo de diminuição de valor dos contratos, com fundamento no artigo 4º, inciso II, do Decreto Estadual n. 4662-R, de 02 de junho de 2020, para enfrentamento da calamidade de saúde pública e estado de emergência decorrentes do novo coronavírus (COVID-19).**
+
+I - Para celebração de termo aditivo que vise a diminuição do valor original do contrato atualizado, mediante a supressão dos quantitativos e\ou redução dos preços, conforme previsão do artigo 4º, inciso II, alíneas “a”, “b” e “c”, do **Decreto Estadual n. 4662-R/2020,** deverá ser observado o cumprimento cumulativo dos seguintes requisitos:
+
+a) contrato em vigor;
+
+b) justificativa técnica favorável prestada nos autos;
+
+c) comprovação da não ocorrência do aumento de preços unitários, redução de qualidade de bens e serviços ou outras modificações contrárias ao interesse público;
+
+*[Rodapé da página 1 do derivado]*
+
+**Conselho da Procuradoria Geral do Estado do Espírito Santo**
+
+Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória – ES – Cep: 29057-550
+
+Fones: 3636.5050 – 3636.5091
+
+*[Continuação na página 2 do derivado; brasão]*
+
+**ESTADO DO ESPÍRITO SANTO**
+
+**CONSELHO DA PROCURADORIA GERAL DO ESTADO**
+
+d) anuência da contratada, formalizada nos autos, para supressão que superar 25% (vinte e cinco por cento) do valor original do contrato atualizado;
+
+e) comprovação da manutenção dos requisitos de habilitação;
+
+f) adoção da minuta de Termo Aditivo padronizada pela Procuradoria Geral do Estado, disponível no sítio eletrônico “www.pge.es.gov.br”, com as adequações necessárias ao caso concreto, devendo constar do instrumento a especificação dos cálculos da diminuição do valor contratual, considerando separadamente a supressão do objeto ou quantitativa e a redução de preços;
+
+g) autorização do ordenador de despesa;
+
+h) cumprimento dos demais requisitos previstos no Decreto Estadual n. 4662/2020;
+
+i) publicação do termo aditivo no Diário Oficial do Estado e em sítio oficial específico na rede mundial de computadores (internet);
+
+II – Desde que atendidas rigorosamente as disposições acima, estão dispensados de manifestação da Procuradoria Geral do Estado os procedimentos administrativos versando sobre a matéria, ressalvada a análise de consulta quanto à questão jurídica expressa e especificamente indicada.
+
+III – Desde que adotadas minutas padronizadas e observadas as orientações e normas de procedimento da Secretaria de Estado de Gestão e Recursos Humanos específicas sobre as matérias, estão dispensadas de manifestação da Procuradoria Geral do Estado as medidas de suspensão, rescisão antecipada, alteração temporária dos contratos e realocação ou sub-rogação de quantitativos, previstas nos artigos 4º, incisos I e III, e 6º do **Decreto Estadual n. 4662-R/2020,** ressalvada a análise de consulta quanto à questão jurídica expressa e especificamente indicada.
+
+IV – O presente enunciado vigorará enquanto perdurar o estado de calamidade e emergência de saúde internacional decorrente do novo coronavírus (COVID-19).
+
+Vitória, 17 de julho de 2020.
+
+**RODRIGO FRANCISCO DE PAULA**
+
+Procurador Geral do Estado
+
+*[Rodapé da página 2 do derivado]*
+
+**Conselho da Procuradoria Geral do Estado do Espírito Santo**
+
+Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória – ES – Cep: 29057-550
+
+Fones: 3636.5050 – 3636.5091
