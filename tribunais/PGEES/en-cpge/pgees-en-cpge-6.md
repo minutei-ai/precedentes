@@ -15,3 +15,7 @@ Enunciado CPGE nº 06– Tendo o acórdão regional sido proferido no sentido 14
 ## Conferência e limites
 
 Transcrição do bloco numerado da página oficial, incluindo o cabeçalho literal, as notas e os fechos quando publicados. Normalizaram-se espaços, quebras de linha e apresentação: negrito e itálico foram reduzidos a texto; quebras `br` e parágrafos foram separados por linha em branco; marcadores de listas HTML foram explicitados. Tags inline foram concatenadas sem inserir espaços inexistentes. Os vínculos do bloco, quando presentes, são listados separadamente; seus documentos não foram lidos nesta coleta. Não houve PDF ou OCR usado na transcrição. Referências normativas não foram atualizadas. Ausência de nota não confirma vigência, força vinculante ou exaustividade.
+
+## Histórico documental
+
+A [Resolução CPGE 241/2010](ATOS-HISTORICOS.md#resolução-cpge-2412010), art. 1.º, declara cancelar o verbete 06 editado pela Resolução CPGE 235/2010 e apresenta orientação sobre impugnação de decisões. O texto acima permanece atribuído ao catálogo HTML; a página da Resolução 235 não foi cotejada visualmente nesta rodada. Não se infere vigência.

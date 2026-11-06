@@ -3785,3 +3785,98 @@ A disponibilidade do documento pode ser conferida pelo link: https://e-docs.es.g
 ## Limites
 
 A Resolução 354/2024 foi recuperada do portal de resoluções do CPGE (não constava entre os vínculos diretos da página de enunciados). Redações históricas anteriores comprovadas estão nos PDFs das resoluções publicadoras listadas acima; a presença no catálogo HTML atual não prova vigência. O PDF da Resolução 235/2010 (enunciados 01–07) é página única de Diário Oficial com layout em colunas; a camada textual mistura matérias adjacentes e exige leitura contextual.
+
+
+## Resolução CPGE 241/2010
+
+- **Fonte:** [PDF da Resolução CPGE 241/2010](https://pge.es.gov.br/media/docs/Resolu%C3%A7%C3%B5es%20CPGE/2010/resolucao.CPGE.241-2010%20-%2009.12.2010%20-%20Cancela%20verbete%20n%2006.pdf)
+- **Identidade da captura:** SHA-256 `72f2a45c3c692cb7d771b5b364ea15491155a4af2b8e783f7417dbac2f456b2c`, duas páginas físicas.
+- **Cotejo:** páginas 1 e 2 lidas em imagem em 06/11/2026; revisão independente pendente. A referência ao verbete 06 não cria novo ID.
+
+### Texto do PDF
+
+#### Página física 1
+
+```text
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+                           PROCURADORIA GERAL DO ESTADO
+
+
+
+               Resolução CPGE nº. 241/2010, de 09 de dezembro de 2010.
+
+                                                   Cancela o verbete n.º 06, editado pela Resolução CPGE
+                                                   n.º 235/2010, de modo que todas as decisões
+                                                   condenatórias da Justiça do Trabalho fundadas no item
+                                                   IV da Súmula 331 do TST devem ser impugnadas,
+                                                   inclusive mediante interposição de recurso de revista e
+                                                   recurso extraordinário.
+
+
+
+                  O CONSELHO DA PROCURADORIA GERAL DO ESTADO, com
+fundamento no artigo 3º, incisos X e XII, da LC nº 88/96
+
+                  Considerando que lhe compete fixar administrativamente a interpretação
+da Constituição, das leis, decretos, ajustes, contratos e atos normativos em geral, a ser
+uniformemente observada pelos órgãos e entidades da Administração Estadual;
+
+                   Considerando que ao apreciar o Recurso Extraordinário n.º 603397,
+relatado pela Ministra Ellen Gracie, o Supremo Tribunal Federal reconheceu a existência de
+repercussão geral do tema da responsabilidade subsidiária da Administração Pública por
+encargos trabalhistas em face do inadimplemento de empresa prestadora de serviço;
+
+                  Considerando que o Plenário do Supremo Tribunal Federal julgou
+procedente a Ação Declaratória de Constitucionalidade - ADC nº 16/DF, na qual se buscava a
+declaração de constitucionalidade do parágrafo 1º do artigo 71 da Lei nº 8.666/93 (Sessão do
+dia 24/11/10);
+
+                   Considerando que há precedentes do Supremo Tribunal Federal
+sufragando entendimento segundo o qual as decisões proferidas pelo Tribunal Superior do
+Trabalho, ao afastarem a incidência do art. 71, § 1º, da Lei n.º 8.666/93, com base no item IV
+da Súmula n.º 331 daquela mesma Corte, sem que tenha sido formalizado anteriormente o
+incidente de inconstitucionalidade, atraem a incidência do Verbete Vinculante n.º 10 da
+Súmula do STF;
+
+                   Considerando que os enunciados do Conselho da PGE são de observância
+obrigatória para a Instituição, não podendo os Procuradores do Estado contrariá-los (art. 4.º,
+caput, da Resolução CPGE n.º 234/2010);
+
+                    Considerando, por fim, as projeções do princípio da indisponibilidade do
+interesse público sobre o contencioso judicial do Estado;
+
+                         Procuradoria Geral do Estado do Espírito Santo
+             Av. Governador Bley, 236 – 11o andar – Centro – Vitória – ES – Cep: 29010-150
+```
+
+#### Página física 2
+
+```text
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+                          PROCURADORIA GERAL DO ESTADO
+
+
+                  RESOLVE
+
+                    Art. 1.º - Cancelar o verbete n.º 06, editado pela Resolução CPGE n.º
+235/2010, de modo que todas as decisões condenatórias da Justiça do Trabalho fundadas no
+item IV da Súmula 331 do TST devem ser impugnadas, inclusive mediante interposição de
+recurso de revista e recurso extraordinário.
+
+                  Cumpra-se.
+
+                  Vitória, 09 de dezembro de 2010
+
+
+
+                              RODRIGO RABELLO VIEIRA
+                               PROCURADOR GERAL DO ESTADO
+
+
+
+
+                        Procuradoria Geral do Estado do Espírito Santo
+            Av. Governador Bley, 236 – 11o andar – Centro – Vitória – ES – Cep: 29010-150
+```
+
+A Resolução 241 declara o cancelamento do verbete 06 da Resolução 235/2010. A ficha preserva a redação do catálogo HTML como testemunho separado; a página da Resolução 235 ainda não foi cotejada visualmente nesta rodada. Não se infere situação jurídica atual.

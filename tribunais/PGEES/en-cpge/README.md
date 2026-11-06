@@ -74,3 +74,7 @@ As notas de alteração permanecem atribuídas à página, inclusive as Resoluç
 ## Atos vinculados lidos em 04/11/2026
 
 As Resoluções CPGE 324/2022, 353/2024, 355/2025 e 358/2025, o Parecer PGE/PCA nº 01785/2016 e os arquivos de minuta/lista do enunciado 31 foram lidos. A transcrição desses atos de apoio está em [ATOS-VINCULADOS.md](ATOS-VINCULADOS.md). Eles **não** geram novos IDs de enunciado. O cotejo confirma as notas de alteração/revogação já apontadas nas fichas; redações anteriores integrais anteriores às resoluções continuam dependentes dos PDFs históricos das resoluções publicadoras originais quando não reproduzidos nos atos de alteração.
+
+## Lote 241/2010 — 06/11/2026
+
+A [Resolução 241/2010](ATOS-HISTORICOS.md#resolução-cpge-2412010), duas páginas, foi transcrita com leitura visual; revisão independente pendente. Seu art. 1.º refere o [verbete 06](pgees-en-cpge-6.md). O PDF 235/2010 ainda exige cotejo visual; demais atos e a issue #255 permanecem pendentes. Nenhum ID novo.
