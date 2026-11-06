@@ -2046,7 +2046,7 @@ Sobre a main `82dd278e86cb99169d1d252cd6421cda98b4b3ab`, com 37.030 registros em
 
 ## MPSC — enunciados da Câmara Revisora Criminal
 
-A página oficial publica 17 enunciados, numerados de 1 a 17, sem lacuna. Foram lidos os títulos e todos os parágrafos, inclusive os itens de fundamentação das nºs 12, 15 e 16. Duas capturas HTTP 200 de 29/10/2026 têm 329.651 bytes cada e hashes brutos diferentes (`a0681d8448c3ee381b514c9027b807e8ffc53798cb37f4a8fa4037ff23afea7a` e `60a83e1eba3e39963c76b6c8649b957c6e75000377a98e4dfbf9443ff6f5f32c`); os 17 títulos e seus blocos HTML coincidem. Não foi afirmada igualdade dos arquivos completos.
+A página oficial publica 17 enunciados, numerados de 1 a 17, sem lacuna. Foram lidos os títulos e todos os parágrafos, inclusive os itens de fundamentação das nºs 12, 15 e 16. Duas capturas HTTP 200 de 29/10/2026 têm 329.651 bytes cada e hashes brutos diferentes (`a0681d8448c3ee381b514c9027b807e8ffc53798cb37f4a8fa4037ff23afea7a` e `60a83e1eba3e 39963c76b6c8649b957c6e75000377a98e4dfbf9443ff6f5f32c`); os 17 títulos e seus blocos HTML coincidem. Não foi afirmada igualdade dos arquivos completos.
 
 Os nºs 1 a 11 trazem aprovação em 8/8/24 e publicação em 12/8/24; os nºs 12 a 14 trazem aprovação em 8/8/24, renumeração e republicação em 8/10/24. As nºs 15 e 16 não trazem nota de sessão no bloco. A nº 17 traz aprovação em 26/11/25 e publicação em 28/11/25. Essas informações são atribuídas à página, sem inferência de vigência atual ou efeito vinculante. Redações ou números anteriores não publicados na página não foram reconstruídos. Foram preservadas grafias como “evidência sua ausência volitiva”, “latu senso”, além de “o prazo 30 (trinta) dias” e “art. 19- H”.
 
@@ -2597,7 +2597,7 @@ Os IDs seguem a ordem das 257 ocorrências; os números exibidos foram preservad
 
 Sessões, proponentes, corpos e votação preservados. 078 e 093 trazem aprovação por aclamação. 107 conserva “Enunciado 259.” dentro da proposta. O item 131 propõe alteração da pena do art. 241-B do ECA; foi preservado em documento comum sem criar ID interpretativo nem afirmar alteração da lei. Cabeçalhos e brasões repetidos omitidos; brancos normalizados, itálicos reduzidos a texto e quatro hífens lexicais de quebra reunidos. Sem inferência de vigência, vinculação, exaustividade ou titularidade atual. Atos citados não geraram IDs. Evidências privadas, somente Markdown público.
 
-Delta sobre a main `e391491c` (40.733 registros em 164 órgãos; STJ 3.427 e CJF 1.872): 130 registros e nenhum órgão, total esperado de 40.863 registros em 164 órgãos e STJ 3.557. Os 257 enunciados do Congresso STJ da Primeira Instância e os 126 do 2º Congresso da Segunda Instância já estão na base e não são contados novamente. As nove lacunas iniciais do BNP permanecem.
+Delta sobre a main `e 391491c` (40.733 registros em 164 órgãos; STJ 3.427 e CJF 1.872): 130 registros e nenhum órgão, total esperado de 40.863 registros em 164 órgãos e STJ 3.557. Os 257 enunciados do Congresso STJ da Primeira Instância e os 126 do 2º Congresso da Segunda Instância já estão na base e não são contados novamente. As nove lacunas iniciais do BNP permanecem.
 
 ## CJF — X Jornada de Direito Civil
 
@@ -2824,7 +2824,7 @@ Sobre a main atual `b6f29218c3f0`, cujo README registra 42.377 registros e 180 �
 
 O catálogo oficial liga três PDFs sob “Súmulas Vinculantes”. As duas capturas HTML são idênticas, HTTP 200, 1.670.179 bytes, SHA-256 `b651d7567de4decd8c537a55a41317376176581733e805ebb0400b20b9295b9d`. Cada PDF foi capturado em duas respostas HTTP 200 idênticas; bytes e hashes individuais estão nas fichas. Li visualmente as três páginas físicas, uma por PDF. O nº 1 foi cotejado com a camada textual; os nºs 2 e 3 foram transcritos manualmente das imagens, sem OCR. Preservados o título 01/2019, os títulos 02 e 03 sem ano, os fechos de 2019 e 2020, o fecho sem ponto dos nºs 2 e 3, a aspa final do corpo do nº 1 e o plural “PAGAMENTOS” do nº 2. Cabeçalhos, brasões e rodapés de contato/código de arquivo ficaram de fora; nomes e funções públicas permanecem.
 
-Sobre a main `669cf364adfa339c027e39d49f16e421781fba7c`, 42.563 registros em 181 órgãos, o delta é +3 registros e +1 órgão: projeção de 42.566 registros em 182 órgãos, sem nova auditoria global. As nove lacunas iniciais do BNP permanecem. Outras versões e normas apenas citadas continuam pendentes. “Vinculante” é denominação da fonte; não se inferiu efeito independente, vigência ou completude. Somente Markdown é publicado; PDFs, imagens e recibos permanecem privados.
+Sobre a main `669cf364adfa339c027e 39d49f16e421781fba7c`, 42.563 registros em 181 órgãos, o delta é +3 registros e +1 órgão: projeção de 42.566 registros em 182 órgãos, sem nova auditoria global. As nove lacunas iniciais do BNP permanecem. Outras versões e normas apenas citadas continuam pendentes. “Vinculante” é denominação da fonte; não se inferiu efeito independente, vigência ou completude. Somente Markdown é publicado; PDFs, imagens e recibos permanecem privados.
 
 ## PGE/GO — 27 despachos referenciais de 2021
 
@@ -3286,3 +3286,5 @@ AGE/MG (#259): índices reconciliados aos 42 IDs já existentes, sem acréscimo 
 - **AGEMG, 15.823:** sete páginas físicas transcritas de novo por Sol e cotejadas integralmente por Astra. Rodapés 1–6,8, salto 25→32 e datas divergentes preservados; página impressa 7 não recuperada. Origem não autenticada pela captura histórica com TLS contornado, e reconsulta padrão falhou. Sem novo ID; sete de 653 páginas desta nova fila revisadas, 646 ainda pendentes; #259 aberta.
 
 - **AGEMG, 15.722:** 14 páginas novamente transcritas por Sol e cotejadas integralmente por Astra. Seis ajustes editoriais de carimbos aplicados, sem mudança lexical no corpo impresso. Dúvida manuscrita, datas e atos separados, ocultações e limite TLS preservados. Sem novo ID. Nova fila AGE/MG: 21/653 páginas cotejadas; 632 ainda pendentes e #259 aberta.
+
+- **TJMRS, P04:** vinte ocorrências cotejadas por Astra (dezenove páginas únicas e um alias), sem substituições textuais necessárias. Dezoito casos de gestão e dois normativos administrativos, sem julgamento judicial demonstrado. Cadeia administrativa cobre 57/57 ocorrências, com aliases preservados; inteiros teores apenas referidos e investigação judicial pendentes. Sem novo ID ou fechamento da #235.
