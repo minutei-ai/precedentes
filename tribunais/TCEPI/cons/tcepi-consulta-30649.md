@@ -22,88 +22,90 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                               ACÓRDÃO Nº 1.185/2020.
-    
-    PROCESSO TC/003855/2020
-    DECISÃO: Nº 689/2020.
-    ASSUNTO: Consulta – Câmara de Barras.
-    REPRESENTADOS: Emília Maria Costa Maciel – Presidente.
-    RELATOR: Cons. Luciano Nunes Santos.
-    PROCURADOR: Márcio André Madeira de Vasconcelos
-    
-                                           EMENTA:    CONSULTA.    CÂMARA
-                                           MUNICIPAL.   POSSIBILIDADE   DE
-                                           UTILIZAÇÃO    DE   SALDOS    DE
-                                           RECURSOS     FINANCEIROS     DE
-                                           EXERCÍCIOS         ENCERRADOS.
-                                           NECESSIDADE DE ABERTURA DE
-                                           CRÉDITO ADICIONAL EM FAVOR DA
-                                           CÂMARA MUNICIPAL. CÔMPUTO DAS
-                                           DESPESAS ORIUNDAS DE SALDOS
-                                           FINANCEIROS    DE    EXERCÍCIOS
-                                           ANTERIORES NO TOTAL DA DESPESA
-                                           DA CÂMARA MUNICIPAL.
-    
-                                           1. Ao fim do exercício financeiro, recursos não
-                                           utilizados ou aquele numerário objeto de
-                                           economia realizada pela Câmara devem ser
-                                           restituídos à Prefeitura, a não ser que o recurso
-                                           se enquadre nos incisos do art. 17 da IN nº
-                                           01/2014. A Câmara Municipal não gera receita
-                                           pública,     somente      administra     repasses
-                                           recebidos, mensalmente, na condição de
-                                           duodécimo, do Poder Executivo Municipal
-                                           (Art. 168 da CF/88). Considerando que o
-                                           objeto desta Consulta resta exaurido perante
-                                           esta Corte, responde-se ao Órgão Consulente
-                                           que este deverá aplicar conforme as
-                                           orientações constantes na INSTRUÇÃO
-                                           NORMATIVA DE Nº 01, de 20 de MARÇO
-                                           de 2014, atualizada pela IN nº 04/2014, deste
-                                           Tribunal.
-    
-                                           Sumário: Consulta – Câmara de Barras/PI,
-                                           exercício 2020. Conhecimento da presente
-                                           Consulta e, no mérito, considerando que seu
-                                           objeto resta exaurido perante esta Corte,
-    
+Estado do Piauí
+Tribunal de Contas do Estado do Piauí
+Gabinete Conselheiro Luciano Nunes Santos
+
+**ACÓRDÃO Nº 1.185/2020.**
+
+**PROCESSO** TC/003855/2020
+**DECISÃO:** Nº 689/2020.
+**ASSUNTO:** Consulta – Câmara de Barras.
+**REPRESENTADOS:** Emília Maria Costa Maciel – Presidente.
+**RELATOR:** Cons. Luciano Nunes Santos.
+**PROCURADOR:** Márcio André Madeira de Vasconcelos
+
+**EMENTA: CONSULTA. CÂMARA
+MUNICIPAL. POSSIBILIDADE DE
+UTILIZAÇÃO DE SALDOS DE
+RECURSOS FINANCEIROS DE
+EXERCÍCIOS ENCERRADOS.
+NECESSIDADE DE ABERTURA DE
+CRÉDITO ADICIONAL EM FAVOR DA
+CÂMARA MUNICIPAL. CÔMPUTO DAS
+DESPESAS ORIUNDAS DE SALDOS
+FINANCEIROS DE EXERCÍCIOS
+ANTERIORES NO TOTAL DA DESPESA
+DA CÂMARA MUNICIPAL.**
+
+**1.** Ao fim do exercício financeiro, recursos não
+utilizados ou aquele numerário objeto de
+economia realizada pela Câmara devem ser
+restituídos à Prefeitura, a não ser que o recurso
+se enquadre nos incisos do art. 17 da IN nº
+01/2014. A Câmara Municipal não gera receita
+pública, somente administra repasses
+recebidos, mensalmente, na condição de
+duodécimo, do Poder Executivo Municipal
+(Art. 168 da CF/88). Considerando que o
+objeto desta Consulta resta exaurido perante
+esta Corte, responde-se ao Órgão Consulente
+que este deverá aplicar conforme as
+orientações constantes na INSTRUÇÃO
+NORMATIVA DE Nº 01, de 20 de MARÇO
+de 2014, atualizada pela IN nº 04/2014, deste
+Tribunal.
+
+***Sumário:*** *Consulta – Câmara de Barras/PI,
+exercício 2020. Conhecimento da presente
+Consulta e, no mérito, considerando que seu
+objeto resta exaurido perante esta Corte,*
 
 #### Página 2 do PDF oficial
 
-                                                  responder ao Órgão Consulente que o mesmo
-                                                  aplique as orientações constantes na Instrução
-                                                  Normativa de Nº 01, de 20 de março de 2014,
-                                                  atualizada pela IN nº 04/2014, deste Tribunal,
-                                                  conforme e pelos fundamentos expostos no voto do
-                                                  Relator (peça nº 13). Decisão unânime.
-    
-    Visto, relatado e discutido o presente processo, considerando a informação da CRJ (peça nº
-    4), o parecer técnico da DAJUR (peça nº 5), o parecer do Ministério Público de Contas (peça
-    nº 8), e o mais que dos autos consta, decidiu o Plenário, à unanimidade, em consonância
-    parcial com o parecer ministerial, pelo conhecimento da Consulta, para, no mérito,
-    considerando que seu objeto resta exaurido perante esta Corte, responder ao Órgão
-    Consulente que o mesmo aplique as orientações constantes na Instrução Normativa de Nº 01,
-    de 20 de março de 2014, atualizada pela IN nº 04/2014, deste Tribunal, conforme e pelos
-    fundamentos expostos no voto do Relator (peça nº 13).
-    
-    Presentes: os Cons. Abelardo Pio Vilanova e Silva (Presidente), Luciano Nunes Santos,
-    Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho, Lilian
-    de Almeida Veloso Nunes Martins, Kleber Dantas Eulálio e os Cons. Substitutos Jaylson
-    Fabianh Lopes Campelo, convocado para substituir, nessa sessão, o Cons. Joaquim Kennedy
-    Nogueira Barros (ausente por motivo justificado), Delano Carneiro da Cunha Câmara,
-    Jackson Nobre Veras e Alisson Felipe de Araújo.
-    
-    Representante do Ministério Público de Contas presente: Procurador-Geral José Araújo
-    Pinheiro Júnior.
-    
-    Publique-se e Cumpra-se.
-    
-    Sessão Plenária Ordinária Virtual nº 025, em Teresina, 30 de julho de 2020.
-    
-                                  (assinado digitalmente)
-                                Cons. Luciano Nunes Santos
-                                          Relator
-    
+*responder ao Órgão Consulente que o mesmo
+aplique as orientações constantes na Instrução
+Normativa de Nº 01, de 20 de março de 2014,
+atualizada pela IN nº 04/2014, deste Tribunal,
+conforme e pelos fundamentos expostos no voto do
+Relator (peça nº 13). Decisão unânime.*
+
+Visto, relatado e discutido o presente processo, considerando a informação da CRJ (peça nº
+4), o parecer técnico da DAJUR (peça nº 5), o parecer do Ministério Público de Contas (peça
+nº 8), e o mais que dos autos consta, decidiu o Plenário, à unanimidade, em consonância
+parcial com o parecer ministerial, pelo conhecimento da Consulta, para, no mérito,
+considerando que seu objeto resta exaurido perante esta Corte, responder ao Órgão
+Consulente que o mesmo aplique as orientações constantes na Instrução Normativa de Nº 01,
+de 20 de março de 2014, atualizada pela IN nº 04/2014, deste Tribunal, conforme e pelos
+fundamentos expostos no voto do Relator (peça nº 13).
+
+**Presentes:** os Cons. Abelardo Pio Vilanova e Silva (Presidente), Luciano Nunes Santos,
+Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho, Lilian
+de Almeida Veloso Nunes Martins, Kleber Dantas Eulálio e os Cons. Substitutos Jaylson
+Fabianh Lopes Campelo, convocado para substituir, nessa sessão, o Cons. Joaquim Kennedy
+Nogueira Barros (ausente por motivo justificado), Delano Carneiro da Cunha Câmara,
+Jackson Nobre Veras e Alisson Felipe de Araújo.
+
+**Representante do Ministério Público de Contas presente:** Procurador-Geral José Araújo
+Pinheiro Júnior.
+
+Publique-se e Cumpra-se.
+
+Sessão Plenária Ordinária Virtual nº 025, em Teresina, 30 de julho de 2020.
+
+*(assinado digitalmente)*
+Cons. Luciano Nunes Santos
+Relator
 
 #### Página 3 do PDF oficial
 
@@ -119,3 +121,5 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 [ACO003855-2020](https://www.tce.pi.gov.br/wp-content/uploads/2021/02/ACO003855-2020.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional das páginas 001/p0001, 001/p0002 (documento/página): transcrição visual Sol e revisão independente integral Astra. Apresentação em Markdown, sem fac-símile; grafias, lacunas e ocultações preservadas. O caminho de upload vincula as capturas aos recortes, sem certificar equivalência histórica de domínios ou pertinência autônoma de folhas sem identificação. Ressalvas documentais anteriores permanecem.
