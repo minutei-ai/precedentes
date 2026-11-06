@@ -22,118 +22,63 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                    Estado do Piauí
-                    Tribunal de Contas
-                                    ACÓRDÃO Nº. 309/2015
-                                                  Consulta formulada ao Tribunal de Contas do Estado do Piauí
-                                                  pela Promotora de Justiça do Estado do Piauí, Srª. Cláudia
-                                                  Pessoa Marques da Rocha Seabra. Decidiu esta Corte de
-                                                  Contas, conhecer da presente Consulta. No mérito, pela
-                                                  impossibilidade de inclusão das despesas com construção de
-                                                  Sistema de Abastecimento de Água (SAA), Módulos Sanitários
-                                                  Domiciliares (MSD), bem como Matadouros Públicos, no cômputo
-                                                  do percentual constitucional do orçamento com ações e serviços
-                                                  públicos de saúde pelo Estado, por se tratarem de obras de
-                                                  infraestrutura, incorrendo na vedação do art. 4º, IX da LC nº
-                                                  141/2012, nos termos e pelos fundamentos expostos no voto
-                                                  do Relator (peça nº 11). Decisão unânime. Encaminhamento do
-                                                  Relatório (peça nº 5) emitido pela DFAE e do Parecer do
-                                                  Ministério Público de Contas (peça nº 8) à Consulente, à
-                                                  Secretaria Estadual de Saúde e ao Conselho Estadual de
-                                                  Saúde, por entender que materializam a compreensão e o
-                                                  posicionamento do TCE/PI acerca da consulta, nos termos em que
-                                                  foi formulada, em conformidade com o voto do Relator (peça nº 11).
-                                                  Decisão unânime.
-    
-    
-    
-    
-    Processo TC nº. 19.341/2014
-    Órgão de Deliberação: Plenário
-    Decisão nº. 105/15
-    Sessão Ordinária nº. 04, de 12 de fevereiro de 2015
-    Relator: Cons. Olavo Rebêlo de Carvalho Filho
-    Procurador: José Araujo Pinheiro Júnior
-    
-    
-    Consulente: Srª. Cláudia Pessoa Marques da Rocha Seabra, Promotora de Justiça do Estado do Piauí.
-    
-    
-    Objeto: Legalidade da inclusão das despesas com construção de Sistema de Abastecimento de Água
-    (SAA), Módulos Sanitários Domiciliares (MSD), bem como Matadouros Públicos no cômputo do
-    percentual constitucional do orçamento com ações e serviços públicos de saúde pelo Estado.
-    
-    
-    O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ examinou o Processo TC nº. 19.341/2014
-    referente à consulta formulada pela Promotora de Justiça do Estado do Piauí, Srª. Cláudia Pessoa
-    Marques da Rocha Seabra, pretendendo obter o posicionamento desta Corte de Contas sobre a
-    Legalidade da inclusão das despesas com construção de Sistema de Abastecimento de Água (SAA),
-    Módulos Sanitários Domiciliares (MSD), bem como Matadouros Públicos no cômputo do percentual
-    constitucional do orçamento com ações e serviços públicos de saúde pelo Estado.
-    
-                                                                                                                  1
-    
+Estado do Piauí Tribunal de Contas
+
+[Insígnia: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ] **ACÓRDÃO Nº. 309/2015**
+
+***Consulta formulada ao Tribunal de Contas do Estado do Piauí pela Promotora de Justiça do Estado do Piauí, Srª. Cláudia Pessoa Marques da Rocha Seabra.** Decidiu esta Corte de Contas, **conhecer** da presente Consulta. No mérito, pela **impossibilidade de inclusão** das despesas com construção de Sistema de Abastecimento de Água (SAA), Módulos Sanitários Domiciliares (MSD), bem como Matadouros Públicos, no cômputo do percentual constitucional do orçamento com ações e serviços públicos de saúde pelo Estado, **por se tratarem de obras de infraestrutura, incorrendo na vedação do art. 4º, IX da LC nº 141/2012, nos termos e pelos fundamentos expostos no voto do Relator (peça nº 11). Decisão unânime. Encaminhamento do Relatório (peça nº 5) emitido pela DFAE e do Parecer do Ministério Público de Contas** (peça nº 8) **à Consulente, à Secretaria Estadual de Saúde e ao Conselho Estadual de Saúde,** por entender que materializam a compreensão e o posicionamento do TCE/PI acerca da consulta, nos termos em que foi formulada, em conformidade com o voto do Relator (peça nº 11). **Decisão unânime.***
+
+**Processo TC nº. 19.341/2014**
+
+**Órgão de Deliberação: Plenário**
+
+**Decisão nº. 105/15**
+
+**Sessão Ordinária nº. 04, de 12 de fevereiro de 2015**
+
+**Relator: Cons. Olavo Rebêlo de Carvalho Filho**
+
+**Procurador: José Araujo Pinheiro Júnior**
+
+**Consulente: Srª. Cláudia Pessoa Marques da Rocha Seabra,** Promotora de Justiça do Estado do Piauí.
+
+**Objeto:** Legalidade da inclusão das despesas com construção de Sistema de Abastecimento de Água (SAA), Módulos Sanitários Domiciliares (MSD), bem como Matadouros Públicos no cômputo do percentual constitucional do orçamento com ações e serviços públicos de saúde pelo Estado.
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ** examinou o Processo TC nº. 19.341/2014 referente à consulta formulada pela Promotora de Justiça do Estado do Piauí, Srª. **Cláudia Pessoa Marques da Rocha Seabra,** pretendendo obter o posicionamento desta Corte de Contas sobre a Legalidade da inclusão das despesas com construção de Sistema de Abastecimento de Água (SAA), Módulos Sanitários Domiciliares (MSD), bem como Matadouros Públicos no cômputo do percentual constitucional do orçamento com ações e serviços públicos de saúde pelo Estado.
+
+1
 
 #### Página 2 do PDF oficial
 
-                             Estado do Piauí
-                             Tribunal de Contas
-                                               ACÓRDÃO Nº. 309/2015
-    
-           Vistos, relatados e discutidos os presentes autos, considerando a informação da Comissão de
-           Regimento e Jurisprudência (peça nº 4), a manifestação da IV Diretoria de Fiscalização da
-           Administração Estadual - DFAE (peça nº 5), o parecer do Ministério Público de Contas (peça nº 8), e
-           o mais que dos autos consta, decidiu o Plenário, unânime, em concordância com o parecer
-           ministerial, conhecer da presente consulta, para, no mérito, responder ao consulente pela
-           impossibilidade de inclusão das despesas com construção de Sistema de Abastecimento de Água
-           (SAA), Módulos Sanitários Domiciliares (MSD), bem como Matadouros Públicos, no cômputo do
-           percentual constitucional do orçamento com ações e serviços públicos de saúde pelo Estado, por se
-           tratarem de obras de infraestrutura, incorrendo na vedação do art. 4º, IX da LC nº 141/2012, nos
-           termos e pelos fundamentos expostos no voto do Relator (peça nº 11).
-    
-    
-           Decidiu, também, o Plenário, unânime, encaminhar à consulente, à Secretaria Estadual de Saúde e
-           ao Conselho Estadual de Saúde cópias autênticas da manifestação da IV DFAE (peça nº 5) e do
-           parecer do Ministério Público de Contas (peça nº 8), por entender que materializam a compreensão e
-           o posicionamento do TCE/PI acerca da consulta, nos termos em que foi formulada, em conformidade
-           com o voto do Relator (peça nº 11).
-    
-    
-           Presentes os Cons. Luciano Nunes Santos (Presidente), Abelardo Pio Vilanova e Silva, Joaquim
-           Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de
-           Carvalho Filho e Lilian de Almeida Veloso Nunes Martins e os Cons. Substitutos Jaylson Fabianh
-           Lopes Campelo - em substituição ao Cons. Anfrísio Neto Lobão Castelo Branco em razão do pedido
-           de aposentadoria voluntária - Portaria nº 554/14, Delano Carneiro da Cunha Câmara, Jackson Nobre
-           Veras e Alisson Felipe de Araújo.
-    
-           Representante do Ministério Público de Contas presente: Procurador-Geral Márcio André Madeira
-           de Vasconcelos.
-    
-    
-           Publique-se e Cumpra-se.
-    
-    
-           Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina, 12 de
-           fevereiro de 2015.
-    
-    
-           Cons. Luciano Nunes Santos                                             Presidente
-    
-    
-           Cons. Olavo Rebêlo de Carvalho Filho                                   Relator
-    
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 02/03/2015 09:31:01
-             Digitalmente pelo sistema
-    AssinadoRepresentante       do MPC:e-TCE - OLAVO
-                                          Proc.      REBELO
-                                                 Márcio AndréDE CARVALHO
-                                                              Madeira      FILHO:06638023349
-                                                                      de Vasconcelos                     09:28:01
-                                                                                             - 24/02/2015do
-                                                                                       Procurador-Geral     TCE/PI
-    Assinado Digitalmente pelo sistema e-TCE - MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 03/03/2015 11:47:06
-                                                                                                             2
-    
+Estado do Piauí Tribunal de Contas
+
+[Insígnia: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ] **ACÓRDÃO Nº. 309/2015**
+
+**Vistos**, relatados e discutidos os presentes autos, considerando a informação da Comissão de Regimento e Jurisprudência (peça nº 4), a manifestação da IV Diretoria de Fiscalização da Administração Estadual - DFAE (peça nº 5), o parecer do Ministério Público de Contas (peça nº 8), e o mais que dos autos consta, decidiu o Plenário, unânime, em concordância com o parecer ministerial, **conhecer** da presente consulta, para, no mérito, **responder** ao consulente pela impossibilidade de inclusão das despesas com construção de Sistema de Abastecimento de Água (SAA), Módulos Sanitários Domiciliares (MSD), bem como Matadouros Públicos, no cômputo do percentual constitucional do orçamento com ações e serviços públicos de saúde pelo Estado, por se tratarem de obras de infraestrutura, incorrendo na vedação do art. 4º, IX da LC nº 141/2012, nos termos e pelos fundamentos expostos no voto do Relator (peça nº 11).
+
+**Decidiu**, também, o Plenário, unânime, **encaminhar** à consulente, à Secretaria Estadual de Saúde e ao Conselho Estadual de Saúde cópias autênticas da manifestação da IV DFAE (peça nº 5) e do parecer do Ministério Público de Contas (peça nº 8), por entender que materializam a compreensão e o posicionamento do TCE/PI acerca da consulta, nos termos em que foi formulada, em conformidade com o voto do Relator (peça nº 11).
+
+**Presentes** os Cons. Luciano Nunes Santos (Presidente), Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho e Lilian de Almeida Veloso Nunes Martins e os Cons. Substitutos Jaylson Fabianh Lopes Campelo - em substituição ao Cons. Anfrísio Neto Lobão Castelo Branco em razão do pedido de aposentadoria voluntária - Portaria nº 554/14, Delano Carneiro da Cunha Câmara, Jackson Nobre Veras e Alisson Felipe de Araújo.
+
+**Representante do Ministério Público de Contas presente:** Procurador-Geral Márcio André Madeira de Vasconcelos.
+
+Publique-se e Cumpra-se.
+
+Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina, 12 de fevereiro de 2015.
+
+Cons. Luciano Nunes Santos                                             Presidente
+
+Cons. **Olavo Rebêlo de Carvalho Filho**                                   Relator
+
+Representante do M.P.C.: Proc. Márcio André Madeira de Vasconcelos — Procurador-Geral do TCE/PI [linha sobreposta às assinaturas]
+
+*Assinado Digitalmente pelo sistema e-TCE* - **LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 02/03/2015 09:31:01**
+
+*Assinado Digitalmente pelo sistema e-TCE* - **OLAVO REBELO DE CARVALHO FILHO: [identificador e-TCE ocultado] - 24/02/2015 09:28:01**
+
+*Assinado Digitalmente pelo sistema e-TCE* - **MARCIO ANDRE MADEIRA DE VASCONCELOS: [identificador e-TCE ocultado] - 03/03/2015 11:47:06**
+
+2
 
 ### Documento vinculado pela fonte
 
@@ -277,3 +222,5 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 [Voto do Relator](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/voto-do-relator.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next008: transcrição/cotejo visual Sol e revisão independente integral Astra dos recortes indicados. Documento 1, páginas 1–2: Acórdão 309/2015. A sobreposição real na linha do representante do MPC impede certificar a pontuação encoberta; não foi reconstruída por outras ocorrências. A apresentação em Markdown não é fac-símile; microinscrições heráldicas, assinatura, QR e autenticidade não foram certificados. Identificadores pessoais ocultos; códigos documentais e nomes funcionais preservados. Os vínculos de contexto do portal não substituem a identidade impressa. Ressalvas anteriores permanecem.
