@@ -105,175 +105,106 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                          Gabinete Conselheiro Substituto
-                                 Jaylson Campelo
-    
-    
-    TC/ 4.426/2013
-    ASSUNTO: CONSULTA
-    INTERESSADO: INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE PIRIPIRI - PI
-    RELATOR: JAYLSON FABIANH LOPES CAMPELO
-    PROCURADOR: JOSÉ ARAÚJO PINHEIRO JÚNIOR
-    
-    
-    
-    
-    1. RELATÓRIO
-    
-    
-    
-               Versam os autos sobre consulta formulada pelo INSTITUTO DE
-    PREVIDÊNCIA MUNICIPAL DE PIRIPIRI-PI acerca da forma de pagamento de parte
-    da folha de inativos custeada por recursos repassados pelo Tesouro Municipal,
-    visto tratar-se de inativos e pensionistas que não contribuíram e nem se
-    aposentaram pelo Regime Próprio do Município de Piripiri.
-    
-               Conforme consta nos autos, houve recomendação da Secretaria de
-    Administração para que a Prefeitura Municipal repassasse os pagamentos diretos
-    da folha de inativos do Tesouro Nacional para o Instituto de Previdência de
-    Piripiri, cabendo a este fazer o repasse do pagamento destes inativos e
-    pensionistas.
-    
-               Instada a se manifestar, recomendou a DAAP – DIVISÃO DE
-    ADMISSÕES, APOSENTADORIAS E PENSÕES, PEÇA 05, que o Tesouro Municipal
-    repassasse, mensalmente, os valores ao RPPS, para que este efetivasse o
-    pagamento, permanecendo o TESOURO MUNICIPAL DE PIRIPIRI como responsável
-    pelo custeio desses benefícios, tendo em vista não terem os inativos/pensionistas
-    contribuído para o REGIME GERAL ou REGIME PRÓPRIO.
-    
-               O MINISTÉRIO PÚBLICO DE CONTAS, PEÇA 11, opinou pela
-    inadmissibilidade da consulta, mas ressaltou que, acaso se entenda de modo
-    contrário, que seja a consulta respondida nos termos da informação prestada pela
-    DAAP.
-    
-               É o relatório.
-                                                                                   1
-    
+[Brasão colorido com ESTADO DO PIAUÍ; microtexto do listel não resolvido.]
+Gabinete Conselheiro Substituto
+Jaylson Campelo
+[Logotipo colorido estrela/arcos:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+**TC/ 4.426/2013**
+**ASSUNTO:** CONSULTA
+**INTERESSADO:** INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE PIRIPIRI - PI
+**RELATOR:** JAYLSON FABIANH LOPES CAMPELO
+**PROCURADOR:** JOSÉ ARAÚJO PINHEIRO JÚNIOR
+
+**1. RELATÓRIO**
+
+Versam os autos sobre consulta formulada pelo INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE PIRIPIRI-PI acerca da forma de pagamento de parte da folha de inativos custeada por recursos repassados pelo Tesouro Municipal, visto tratar-se de inativos e pensionistas que não contribuíram e nem se aposentaram pelo Regime Próprio do Município de Piripiri.
+
+Conforme consta nos autos, houve recomendação da Secretaria de Administração para que a Prefeitura Municipal repassasse os pagamentos diretos da folha de inativos do Tesouro Nacional para o Instituto de Previdência de Piripiri, cabendo a este fazer o repasse do pagamento destes inativos e pensionistas.
+
+Instada a se manifestar, recomendou a DAAP – DIVISÃO DE ADMISSÕES, APOSENTADORIAS E PENSÕES, PEÇA 05, que o Tesouro Municipal repassasse, mensalmente, os valores ao RPPS, para que este efetivasse o pagamento, permanecendo o TESOURO MUNICIPAL DE PIRIPIRI como responsável pelo custeio desses benefícios, tendo em vista não terem os inativos/pensionistas contribuído para o REGIME GERAL ou REGIME PRÓPRIO.
+
+O MINISTÉRIO PÚBLICO DE CONTAS, PEÇA 11, opinou pela inadmissibilidade da consulta, mas ressaltou que, acaso se entenda de modo contrário, que seja a consulta respondida nos termos da informação prestada pela DAAP.
+
+É o relatório.
+
+[Rodapé à direita:] 1
 
 #### Página 2 do PDF oficial
 
-                        Gabinete Conselheiro Substituto
-                               Jaylson Campelo
-    
-    
-    2. FUNDAMENTAÇÃO
-    
-    
-    
-               A SEGURIDADE SOCIAL tem três pilastras: SAÚDE, ASSISTÊNCIA e
-    PREVIDÊNCIA SOCIAL, diferenciando-se esta das demais pelo seu caráter
-    contributivo-solidário. Em outros termos, cada “filiado” contribui para a
-    Previdência como um todo, de modo que cada contribuição individual
-    colaborará para o pagamento dos benefícios aos demais e vice versa, primando-
-    se, sempre, pelo equilíbrio financeiro e atuarial, indispensável para que o
-    sistema continue funcionando.
-    
-               Nesse sentido, explica Frederico Amado, em “Direito Previdenciário”,
-    Editora JusPodivm, 2013, fl. 25:
-    
-    
-    
-                             Deveras, dentro da seguridade social coexistem dois subsistemas:
-                             de um lado, o subsistema contributivo, formada pela previdência
-                             social, que pressupõe o pagamento (real ou presumido) de
-                             contribuições previdenciárias dos segurados para a sua
-                             cobertura previdenciária e dos seus dependentes.
-                             Do outro, o subsistema não contributivo, integrado pela saúde
-                             pública e pela assistência social, pois ambas são custeadas pelos
-                             tributos em geral (especialmente as contribuições destinadas ao
-                             custeio da seguridade social) e disponíveis a todas as pessoas que
-                             delas necessitarem, inexistindo a exigência de pagamento de
-                             contribuições específicas dos usuários para o gozo dessas
-                             atividades públicas.
-    
-    
-    
-               No caso em comento, trata-se de situação atípica, na qual a
-    PREFEITURA MUNICIPAL DE PIRIPIRI, por meio do FUNDO MUNICIPAL, concede
-    aposentadoria e pensão a servidores que não contribuíram para qualquer
-    Regime Previdenciário, mas que, sob o manto do direito adquirido,
-    permaneceram acobertados por esses benefícios.
-    
-               Nesse sentido, esclarece a DAAP, às fls. 03, PEÇA 05: “Quanto aos servidores
-    envolvidos, nos parece claro que os mesmo devem ter suas aposentadorias
-    
-                                                                                             2
-    
+[Brasão colorido: ESTADO DO PIAUÍ; microtexto do listel não resolvido.]
+Gabinete Conselheiro Substituto
+Jaylson Campelo
+[Logotipo colorido estrela/arcos:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+**2. FUNDAMENTAÇÃO**
+
+**A SEGURIDADE SOCIAL tem três pilastras: SAÚDE, ASSISTÊNCIA e PREVIDÊNCIA SOCIAL, diferenciando-se esta das demais pelo seu caráter contributivo-solidário. Em outros termos, cada “filiado” contribui para a Previdência como um todo, de modo que cada contribuição individual colaborará para o pagamento dos benefícios aos demais e vice versa, primando-se, sempre, pelo equilíbrio financeiro e atuarial, indispensável para que o sistema continue funcionando.**
+
+Nesse sentido, explica Frederico Amado, em “Direito Previdenciário”, Editora JusPodivm, 2013, fl. 25:
+
+[Recuo à direita; integralmente em itálico:]
+*Deveras, dentro da seguridade social coexistem dois subsistemas: de um lado, o subsistema contributivo, formada pela previdência social, que pressupõe o pagamento (real ou presumido) de contribuições previdenciárias dos segurados para a sua cobertura previdenciária e dos seus dependentes.*
+
+*Do outro, o subsistema não contributivo, integrado pela saúde pública e pela assistência social, pois ambas são custeadas pelos tributos em geral (especialmente as contribuições destinadas ao custeio da seguridade social) e disponíveis a todas as pessoas que delas necessitarem, inexistindo a exigência de pagamento de contribuições específicas dos usuários para o gozo dessas atividades públicas.*
+
+**No caso em comento, trata-se de situação atípica, na qual a PREFEITURA MUNICIPAL DE PIRIPIRI, por meio do FUNDO MUNICIPAL, concede aposentadoria e pensão a servidores que não contribuíram para qualquer Regime Previdenciário, mas que, sob o manto do direito adquirido, permaneceram acobertados por esses benefícios.**
+
+Nesse sentido, esclarece a DAAP, às fls. 03, PEÇA 05: “Quanto aos servidores envolvidos, nos parece claro que os mesmo devem ter suas aposentadorias
+
+[Rodapé à direita:] 2
 
 #### Página 3 do PDF oficial
 
-                         Gabinete Conselheiro Substituto
-                                Jaylson Campelo
-    
-    
-    preservadas, visto que estão acobertadas pelo manto do Direito Adquirido, não
-    cabendo mais questionar sobre a legalidade de suas concessões”.
-    
-               A qual ente, então, caberia o pagamento de tais benefícios, visto que
-    não existe qualquer contribuição desses servidores junto ao RGPS e ao RPPS?
-    
-               Conforme foi informado na consulta, o INSTITUTO DE PREVIDÊNCIA
-    MUNICIPAL DE PIRIPIRI foi criado pela Lei nº 686, de 15 de agosto de 2011. Assim, em
-    regra, como não existia RPPS, os servidores deveriam estar vinculados ao RGPS, sendo
-    as contribuições previdenciárias revertidas ao INSS.
-    
-               Ocorre que, como dito, tais servidores nunca contribuíram para esse regime,
-    não podendo haver a concessão de benefícios sem a precedência de fonte de custeio,
-    posto que colocaria em risco o equilíbrio do RGPS. Da mesma forma, não pode o RPPS
-    ser compelido a realizar o referido pagamento, acrescentando-se ainda que, à época,
-    sequer existia.
-    
-               Dessa forma, conclui a DAAP pela responsabilidade do TESOURO
-    MUNICIPAL em arcar com o pagamento das aposentadorias – e, acrescentem-se,
-    pensões. Devendo, no entanto, ser feito o repasse ao RPPS para que este efetive o
-    pagamento.
-    
-    
-    
-    3. CONCLUSÃO
-    
-    
-    
-                  Diante do exposto, concluo pela:
-    
-                  a) Responsabilidade do Tesouro Municipal pelo pagamento dos
-                      benefícios àqueles servidores que não contribuíram para os
-                      regimes de previdência;
-                  b) Responsabilidade do Tesouro Municipal em realizar o repasse de
-                      tais verbas ao RPPS;
-    
-    
-    
-                                                                                    3
-    
+[Brasão colorido: ESTADO DO PIAUÍ; microtexto do listel não resolvido.]
+Gabinete Conselheiro Substituto
+Jaylson Campelo
+[Logotipo colorido estrela/arcos:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+preservadas, visto que estão acobertadas pelo manto do Direito Adquirido, não cabendo mais questionar sobre a legalidade de suas concessões”.
+
+**A qual ente, então, caberia o pagamento de tais benefícios, visto que não existe qualquer contribuição desses servidores junto ao RGPS e ao RPPS?**
+
+Conforme foi informado na consulta, o INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE PIRIPIRI foi criado pela Lei nº 686, de 15 de agosto de 2011. Assim, em regra, como não existia RPPS, os servidores deveriam estar vinculados ao RGPS, sendo as contribuições previdenciárias revertidas ao INSS.
+
+Ocorre que, como dito, tais servidores nunca contribuíram para esse regime, não podendo haver a concessão de benefícios sem a precedência de fonte de custeio, posto que colocaria em risco o equilíbrio do RGPS. Da mesma forma, não pode o RPPS ser compelido a realizar o referido pagamento, acrescentando-se ainda que, à época, sequer existia.
+
+**Dessa forma, conclui a DAAP pela responsabilidade do TESOURO MUNICIPAL em arcar com o pagamento das aposentadorias – e, acrescentem-se, pensões. Devendo, no entanto, ser feito o repasse ao RPPS para que este efetive o pagamento.**
+
+**3. CONCLUSÃO**
+
+Diante do exposto, concluo pela:
+
+a) Responsabilidade do Tesouro Municipal pelo pagamento dos benefícios àqueles servidores que não contribuíram para os regimes de previdência;
+b) Responsabilidade do Tesouro Municipal em realizar o repasse de tais verbas ao RPPS;
+
+[Rodapé à direita:] 3
 
 #### Página 4 do PDF oficial
 
-                                  Gabinete Conselheiro Substituto
-                                         Jaylson Campelo
-    
-    
-                           c) Responsabilidade do RPPS em realizar o pagamento como “mero
-                               agente pagador”, utilizando dos repasses feitos pelo Tesouro
-                               Municipal.
-    
-    
-    
-                                         Teresina, 23 de julho de 2014.
-    
-    
-    
-                                       Jaylson Fabianh Lopes Campelo
-    
-                                                      Relator
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - JAYLSON FABIANH LOPES CAMPELO: [identificador e-TCE ocultado] - 07/08/2014 09:54:14
-    
-    
-                                                                                                         4
+[Brasão colorido: ESTADO DO PIAUÍ; microtexto do listel não resolvido.]
+Gabinete Conselheiro Substituto
+Jaylson Campelo
+[Logotipo colorido estrela/arcos:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+
+c) Responsabilidade do RPPS em realizar o pagamento como “mero agente pagador”, utilizando dos repasses feitos pelo Tesouro Municipal.
+
+Teresina, 23 de julho de 2014.
+
+**Jaylson Fabianh Lopes Campelo**
+
+**Relator**
+
+[Tarja inferior:]
+*Assinado Digitalmente pelo sistema e-TCE -* **JAYLSON FABIANH LOPES CAMPELO:███████████ - 07/08/2014 09:54:14**
+
+[Rodapé à direita:] 4
+
+
+[Limite da revisão independente Astra: O fim do nome e a pontuação contígua na tarja estão sob máscara. Os dois-pontos representados pela candidata não tiveram confirmação visual independente.]
+
+[Representação herdada nas regiões encobertas: os fragmentos de nomes, pontuação e código documental abrangidos pela máscara não são transcrição confirmada pela revisão independente; devem ser lidos com a ressalva acima.]
+
 
 ## Ementa
 
@@ -282,3 +213,5 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 [Voto do Relator](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Voto-do-Relator-29.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next012: páginas deste recorte lidas visualmente por Sol e comparadas integralmente em revisão independente Astra. Ênfases e elementos institucionais foram restituídos nas áreas visíveis; microlendas dos brasões e regiões mascaradas permanecem sem leitura literal segura. As ressalvas locais distinguem representação herdada e confirmação independente. Vínculos fonte/contexto são os atribuídos pelo inventário, sem comprovação externa de pertinência, autenticidade, assinatura válida, vigência ou efeitos. Notas e limites anteriores preservados.

@@ -100,72 +100,61 @@ Processo n.º 011.892/2025
 
 #### Página 4 do PDF oficial
 
-                                                    GABINETE DO CONSELHEIRO SUBSTITUTO
-                                                    Alisson Felipe de Araújo
-    
-    
-    
-    
-          Votantes: Conselheiros Waltânia Maria Nogueira de Sousa Leal Alvarenga, Lilian de
-          Almeida Veloso Nunes Martins, Kleber Dantas Eulálio, Flora Izabel Nobre Rodrigues,
-          Rejane Ribeiro de Sousa Dias e o Conselheiro Substituto Alisson Felipe de Araújo, em
-          substituição ao Conselheiro Abelardo Pio Vilanova e Silva - Portaria n.º 806/2025.
-          Conselheiro(s) Substituto(s) presente(s): Jaylson Fabianh Lopes Campelo e Jackson
-          Nobre Veras.
-          Ausente(s): Conselheiro Abelardo Pio Vilanova e Silva (Portaria n.º 806/2025) e
-          Conselheiro Substituto Delano Carneiro da Cunha Câmara (Portaria n.º 136/2025).
-    
-    
-          Representante do Ministério Público de Contas presente: Procurador-Geral Plínio
-          Valente Ramos Neto.
-    
-    
-          Publique-se. Cumpra-se.
-    
-    
-          Sessão Virtual de Julgamento do Pleno do Tribunal de Contas do Estado do Piauí, de 9
-    a 15 de dezembro de 2025.
-    
-    
-                                       assinado digitalmente
-                         Conselheiro Substituto Alisson Felipe de Araújo
-                                                     Relator
-    
-    
-    
-    
-                                              ACÓRDÃO n.º 520/2025 – PLENO
-                                     Gabinete do Conselheiro Substituto Alisson Araújo
-                                                 Processo n.º 011.892/2025
-                                                            4/4
-    
+[Logotipo colorido: estrela azul sobre arcos verde e amarelo.] Tribunal de Contas do Estado do Piauí
+
+GABINETE DO CONSELHEIRO SUBSTITUTO
+Alisson Felipe de Araújo
+
+[Brasão colorido; inscrição superior ESTADO DO PIAUÍ; microtexto do listel não resolvido.]
+
+**Votantes:** Conselheiros Waltânia Maria Nogueira de Sousa Leal Alvarenga, Lilian de Almeida Veloso Nunes Martins, Kleber Dantas Eulálio, Flora Izabel Nobre Rodrigues, Rejane Ribeiro de Sousa Dias e o Conselheiro Substituto Alisson Felipe de Araújo, em substituição ao Conselheiro Abelardo Pio Vilanova e Silva - Portaria n.º 806/2025.
+**Conselheiro(s) Substituto(s) presente(s):** Jaylson Fabianh Lopes Campelo e Jackson Nobre Veras.
+**Ausente(s):** Conselheiro Abelardo Pio Vilanova e Silva (Portaria n.º 806/2025) e Conselheiro Substituto Delano Carneiro da Cunha Câmara (Portaria n.º 136/2025).
+
+**Representante do Ministério Público de Contas presente:** Procurador-Geral Plínio Valente Ramos Neto.
+
+Publique-se. Cumpra-se.
+
+Sessão Virtual de Julgamento do Pleno do Tribunal de Contas do Estado do Piauí, de 9 a 15 de dezembro de 2025.
+
+***assinado digitalmente*** [cinza]
+***Conselheiro Substituto Alisson Felipe de Araújo***
+***Relator***
+
+[Rodapé, tipografia estreita/sobreposta:]
+ACÓRDÃO n.º 520/2025 – PLENO
+Gabinete do Conselheiro Substituto Alisson Araújo
+Processo n.º 011.892/2025
+4/4
 
 #### Página 5 do PDF oficial
 
-                                                 ASSINATURA DIGITAL
-    
-    
-    
-    Certificamos que a peça nº 27 está assinada digitalmente por:
-    
-                                       IDENTIFICAÇÃO DO(S) ASSINANTE(S)
-    
-           CPF/CNPJ                                         Nome                                       Data e hora
-    
-         02*.***-**4-44                      ALISSON FELIPE DE ARAUJO                             16/12/2025 11:39:04
-    
-    
-    
-    
-    Protocolo: 011892/2025
-    Código de verificação: 56862DB6-9C5A-4793-867E-EDBD370243D1
-    Portal de validação:
-    https://sistemas.tce.pi.gov.br/eprocesso/validador/documento
-    
-    
-    A validade deste documento está sujeita à comprovação de sua autenticidade no respectivo portal de validação, por meio de
-                         leitura do qrCode ou código de verificação acima. Gerado em 13/01/2026 09:29
-    
+[Logotipo colorido: estrela azul, arcos verde e amarelo.] Tribunal de Contas do Estado do Piauí
+[Brasão colorido; ESTADO DO PIAUÍ; microtexto do listel não resolvido.]
+
+**ASSINATURA DIGITAL**
+
+Certificamos que a peça nº 27 está assinada digitalmente por:
+
+**IDENTIFICAÇÃO DO(S) ASSINANTE(S)**
+
+| CPF/CNPJ | Nome | Data e hora |
+| --- | --- | --- |
+| [campo pessoal integralmente ocultado; forma e pontuação não verificadas] | ALISSON FELIPE DE ARAUJO | 16/12/2025 11:39:04 |
+
+[Campo pessoal integralmente ocultado nesta revisão; asteriscos e pontuação não confirmados.]
+
+**Protocolo:** 011892/2025
+**Código de verificação:** 56862DB6-9C5A-4793-867E-EDBD370243D1
+**Portal de validação:**
+https://sistemas.tce.pi.gov.br/eprocesso/validador/documento
+
+[qrCode quadrado, preto e branco, à direita; não decodificado.]
+
+A validade deste documento está sujeita à comprovação de sua autenticidade no respectivo portal de validação, por meio de leitura do qrCode ou código de verificação acima. Gerado em 13/01/2026 09:29
+
+
+[Limite da revisão independente Astra: Campo pessoal integralmente ocultado na revisão independente; forma, asteriscos e pontuação não confirmados. O vínculo desta folha de assinatura permanece atribuído ao inventário, sem prova autônoma de pertinência ou assinatura válida.]
 
 ### Links presentes no PDF
 
@@ -183,3 +172,5 @@ CONTROLE EXTERNO E DIREITO ADMINISTRATIVO. CONSULTA. CONTRATOS DE GESTÃO. CONHE
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
 
 Cotejo adicional — next011: vinte físicas/contextos no conjunto, com leitura visual Sol e revisão independente integral Astra. Documento 1, físicas 1–3: corpo e referências cotejados até a continuação fora do escopo. S maiúsculo rebaixado representado por marca sub; destinos das referências não consultados. Logotipos foram descritos textualmente; microlendas ilegíveis, geometria e ênfases não decidíveis não são fac-símile. Vínculos de fonte/contexto continuam atribuídos ao inventário, sem prova autônoma de identidade jurídica. Não se certificam autenticidade, assinatura válida, vigência ou efeitos. Ressalvas anteriores preservadas.
+
+Cotejo adicional — next012: páginas deste recorte lidas visualmente por Sol e comparadas integralmente em revisão independente Astra. Ênfases e elementos institucionais foram restituídos nas áreas visíveis; microlendas dos brasões e regiões mascaradas permanecem sem leitura literal segura. As ressalvas locais distinguem representação herdada e confirmação independente. Vínculos fonte/contexto são os atribuídos pelo inventário, sem comprovação externa de pertinência, autenticidade, assinatura válida, vigência ou efeitos. Notas e limites anteriores preservados.
