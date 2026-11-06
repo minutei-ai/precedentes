@@ -191,8 +191,8 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 ## Ementa
 
-CONSTITUCIONAL, ADMINISTRATIVO E FINANCEIRO. CÂMARA MUNICIPAL. VERBAS INDENIZATÓRIAS. CLASSIFICAÇÃO CONTÁBIL. RUBRICA 33.90.93 – INDENIZAÇÕES E RESTITUIÇÕES. ADESÃO AO ENTENDIMENTO TÉCNICO.  
-  
+CONSTITUCIONAL, ADMINISTRATIVO E FINANCEIRO. CÂMARA MUNICIPAL. VERBAS INDENIZATÓRIAS. CLASSIFICAÇÃO CONTÁBIL. RUBRICA 33.90.93 – INDENIZAÇÕES E RESTITUIÇÕES. ADESÃO AO ENTENDIMENTO TÉCNICO.<br>
+<br>
 [004699-2025](https://www.tcepi.tc.br/wp-content/uploads/2025/11/004699-2025.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
