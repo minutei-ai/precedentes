@@ -475,3 +475,52 @@ Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <p style="font-weight: bold; background-color: #d3d3d3">Observação reproduzida de acordo com o despacho de folha 29 do protocolado: Onde se lê "súmula 387 STF", leia-se "súmula 378 STJ".</p>
 <hr/>
 <p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
+
+
+## Reprodução adicional — edição 10438 do Diário Oficial
+
+Fonte: [Diário Oficial do Paraná, edição 10438, de 17/05/2019](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9670&numero=10438). Captura oficial com TLS padrão, HTTP 200 e conteúdo PDF; SHA-256 `3da2cafd5025ed356e14b33456fe77a5adeb31768f1f41097451137db7f4262b`, 8.600.928 bytes, 171 páginas estruturais. A cobertura visual deste acréscimo limita-se aos blocos pertinentes das físicas 5–6; não às demais matérias ou páginas do diário.
+
+### Física 5 — Resolução nº 116/2019-PGE
+
+Procuradoria Geral do Estado
+
+**RESOLUÇÃO Nº 116/2019-PGE**
+
+Edita a Orientação Administrativa nº 35-PGE.
+
+**A PROCURADORA-GERAL DO ESTADO**, com fundamento no artigo 14 da Lei 19.848, de 03 de maio de 2019, e no uso das atribuições que lhe conferem a Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n° 40, de 08 de dezembro de 1987; o art. 8° e inciso X do art. 20, ambos do Decreto Estadual n°2.137, de 12 de agosto de 2015; e considerando o que consta no protocolo [MÁSCARA CONSERVADA] resolve expedir a seguinte orientação administrativa de caráter obrigatório a todos os órgãos e entidades da Administração Pública estadual, Direta e Autárquica:
+
+**TEMA DE INTERESSE**
+
+- Assessoramento Jurídico da Administração Direta e Autárquica do Estado do Paraná.
+- Prerrogativa privativa da Procuradoria-Geral do Estado e da Carreira Especial de Advogado do Estado do Paraná.
+- Impossibilidade de existência na estrutura organizacional da Administração Direta e das autarquias estaduais, de “assessoria jurídica” que não seja composta por Procuradores do Estado do Paraná ou Advogados do Estado do Paraná.
+- Responsabilização da autoridade que permitir o desvio funcional.
+
+**1.** A representação judicial e extrajudicial do Estado do Paraná, assim como sua consultoria jurídica, estão a cargo da Procuradoria-Geral do Estado, ressalvada apenas a atuação da Carreira Especial de Advogado do Estado do Paraná (carreira em extinção) no que se refere ao assessoramento jurídico ao Poder Executivo e à representação judicial das autarquias;
+
+**2.** A interpretação da legislação e a tomada de providências judiciais e extrajudiciais conferidas com exclusividade às Procuradorias dos Estados e aos Advogados do Estado não pode ser descentralizada a outros órgãos, não se revelando possível a emissão de pareceres, celebração de acordos, ajuizamento de demandas judiciais ou apresentação de defesa, dentre outros atos privativos, com aposição de assinatura e indicação de número de inscrição na OAB, a quem não integra as respectivas carreiras;
+
+**3.** As hipóteses previstas na legislação que exigem manifestação jurídica prévia como condição para a validade do ato a ser praticado estão a cargo dos Procuradores do Estado ou dos Advogados do Estado em exercício, nos termos da legislação em vigor;
+
+**4.** As secretarias de Estado da Administração Direta, assim como as autarquias estaduais, não podem conter em sua estrutura organizacional “assessoria jurídica” ou qualquer outro órgão que desempenhe funções atribuídas, com exclusividade, à Procuradoria-Geral do Estado ou à Carreira Especial de Advogados do Estado, a não ser que tais assessorias sejam integradas por membros das referidas carreiras;
+
+**5.** A mera aplicação da legislação decorre de princípio da Administração Pública e não representa, por si só, manifestação jurídica.
+
+**6.** A inobservância às competências privativas conferidas à PGE e à Carreira Especial de Advogados do Estado implicará a responsabilização [continua na coluna direita, mesma física] da autoridade que permitir o desvio funcional.
+
+**REFERÊNCIAS:**
+Constituição Federal, art. 132; Constituição Estadual, art. 124; Lei Complementar Estadual 26/85, Lei Estadual nº 9.422/90; art.1º; Decreto Estadual nº 2.137/15, “anexo único”: Lei Estadual nº 6.174/70, art. 64; súmula 387 STF; autos [MÁSCARA CONSERVADA] - 2ª Vara da Fazenda Pública de Curitiba.
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+Curitiba, 07 de maio de 2019.
+
+Leticia Ferreira da Silva
+
+**Procuradora-Geral do Estado**
+
+[Lacuna: código de publicação coberto pela máscara; não recuperado. Grafia de Leticia conforme imagem, sem acrescentar acento.]
+
+[Limites do cotejo: leitura visual Sol e revisão independente integral Astra nas regiões pertinentes sanitizadas. Quebras corridas recompostas e tabela representada em lista, sem reprodução fac-similar. Máscaras também cobrem códigos documentais e caracteres adjacentes: nenhuma porção encoberta é confirmada, mesmo se a representação herdada for plausível. O marcador MÁSCARA CONSERVADA indica lacuna editorial. Não há autenticação do diário, assinatura, vigência ou efeitos certificados. Variantes e fontes anteriores preservadas.]

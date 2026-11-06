@@ -203,3 +203,48 @@ Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <p>Aplicação suspensa pela Resolução n. 131/2019 - PGE.</p>
 <hr/>
 <p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
+
+
+## Reprodução adicional — edição 10438 do Diário Oficial
+
+Fonte: [Diário Oficial do Paraná, edição 10438, de 17/05/2019](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9670&numero=10438). Captura oficial com TLS padrão, HTTP 200 e conteúdo PDF; SHA-256 `3da2cafd5025ed356e14b33456fe77a5adeb31768f1f41097451137db7f4262b`, 8.600.928 bytes, 171 páginas estruturais. A cobertura visual deste acréscimo limita-se aos blocos pertinentes das físicas 5–6; não às demais matérias ou páginas do diário.
+
+### Física 5 — Resolução nº 122/2019-PGE
+
+**RESOLUÇÃO Nº 122/2019-PGE**
+
+Edita a Orientação Administrativa nº 36-PGE.
+
+**A PROCURADORA-GERAL DO ESTADO**, com fundamento no artigo 14 da Lei 19.848, de 03 de maio de 2019, e no uso das atribuições que lhe conferem a Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n° 40, de 08 de dezembro de 1987; o art. 8° e inciso X do art. 20, ambos do Decreto Estadual n°2.137, de 12 de agosto de 2015, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
+
+**TEMA DE INTERESSE**
+
+- Processo Seletivo Simplificado - PSS para a contratação de pessoal por tempo determinado (Lei Complementar 108/2005).
+- Prazo máximo de contratação.
+- Proibição de recontratação de pessoa que já tenha sido contratada antes de decorridos 12 meses do encerramento do contrato anterior.
+- Análise prévia da minuta do edital pela Procuradoria-Geral do Estado.
+
+**1.** As contratações fundamentadas na Lei Complementar 108/2005 deverão ser realizadas pelos prazos máximos previstos no seu artigo 5º.
+O período total do contrato, incluídas eventuais prorrogações, não poderá, em hipótese alguma, ultrapassar o limite de dois anos;
+
+**2.** Os editais dos Processos Seletivos Simplificados - PSS deverão conter cláusula que proíba a recontratação de pessoa que já tenha sido contratada com fundamento na Lei Complementar 108/2005 antes de decorridos 12 meses do encerramento do contrato anterior;
+
+**3.** As minutas dos editais de Processos Seletivos Simplificados - PSS deverão ser previamente submetidas à Procuradoria-Geral do Estado para análise jurídica.
+
+**REFERÊNCIAS:** Constituição Federal, art. 37, II, IX e § 2o; Constituição Estadual, art. 27,IX; Lei Complementar Estadual 108/2005, art. 5o; Lei Federal 8.030/1990, art. 19-A; STF, RE 765.320 e 635.648; TJPR – 4ª Turma Recursal, [MÁSCARA CONSERVADA] e 0019150-[MÁSCARA CONSERVADA]
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+[Nota editorial: esta física não imprime data e fecho na região final do bloco. A referência foi relida como “art. 5o”, com o redondo na linha de base; não se infere o código Unicode original. “8.030/1990” foi preservado conforme a imagem, sem correção jurídica. Referências processuais são códigos documentais pertinentes, mas máscaras impedem sua leitura integral.]
+
+### Física 6 — fecho de vinculação editorial candidata
+
+Curitiba, 10 de maio de 2019.
+
+Leticia Ferreira da Silva
+
+**Procuradora-Geral do Estado**
+
+[Lacuna: código de publicação coberto pela máscara conservadora. Não há inferência de assinatura válida. A vinculação do fecho permanece candidata por continuidade editorial após o PUBLIQUE-SE. ANOTE-SE. da física 5, mesmo após a revisão independente: número de resolução e OA não estão impressos neste fecho.]
+
+[Limites do cotejo: leitura visual Sol e revisão independente integral Astra nas regiões pertinentes sanitizadas. Quebras corridas recompostas e tabela representada em lista, sem reprodução fac-similar. Máscaras também cobrem códigos documentais e caracteres adjacentes: nenhuma porção encoberta é confirmada, mesmo se a representação herdada for plausível. O marcador MÁSCARA CONSERVADA indica lacuna editorial. Não há autenticação do diário, assinatura, vigência ou efeitos certificados. Variantes e fontes anteriores preservadas.]
