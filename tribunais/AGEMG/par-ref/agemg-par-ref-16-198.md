@@ -8,213 +8,133 @@
 - **Fonte:** [AGE/MG — Pareceres Referenciais](https://advocaciageral.mg.gov.br/legislacoes/pareceres-referenciais/)
 - **Página do ato:** https://advocaciageral.mg.gov.br/legislacao/parecer-16-198-aprovado-pelo-advogado-geral-de-22-03-2020/
 - **Fonte documental:** [https://advocaciageral.mg.gov.br/wp-content/uploads/2020/09/parecer-16.198.pdf](https://advocaciageral.mg.gov.br/wp-content/uploads/2020/09/parecer-16.198.pdf)
-- **Páginas do PDF:** 13; camada textual extraída (pdftotext)
+- **Páginas do PDF:** 13; físicas 1–3 recotejadas visualmente nesta rodada; físicas 4–13 mantidas da camada textual anterior, sem novo cotejo visual
 - **Capturas:** HTTP 200 em 04/11/2026 (TLS com verificação de emissor contornada por falta da cadeia local); 294010 bytes; SHA-256 `23ea0cd2fd23b08350eb808412d428ed31db2e38fa60754ce9dac284ef7a64ae`
+
+## Recotejo parcial — 06/11/2026
+
+Somente as físicas 1–3 foram transcritas por Sol e comparadas integralmente pelo pai Sol, independente do escritor, em render próprio de páginas sanitizadas inteiras e nove faixas ampliadas. Duas propostas aplicadas em cópias privadas reversíveis: descrição de dois pequenos sinais na árvore documental da física 1 e chamada azul/sublinhada na física 3. O destino da chamada não foi consultado. Erros e variantes visíveis como “mundia”, “referencias” e “SEI!” permanecem literais.
+
+Números SEI sob máscaras preventivas não são confirmados por outra ocorrência na árvore. Pequenas legendas, codepoints, reticências e desenho de fontes não recebem certificação integral; recuos e quebras foram linearizados. Citações legais, doutrinárias e de acórdãos integram o parecer, sem novos registros ou validação das fontes citadas.
+
+Físicas 4–13 não foram lidas nem revistas nesta rodada: seu texto anterior foi preservado byte a byte e continua sem validação visual nova. Três execuções de continuação terminaram com bloqueio de fluxo pelo plugin, sem entregar as dez transcrições; não foram convertidas em trabalho concluído nem repetidas como prova. Este recorte não certifica a íntegra das treze páginas ou o fecho. A revisão própria não transforma a primeira entrega parcial em execução 13/13.
+
+A captura histórica do PDF empregou curl-k: permanece o limite TLS, sem autenticar a origem histórica. Hashes conferem arquivos, não autenticidade, vigência, efeitos ou assinatura. Não se certifica ausência universal de dados pessoais pelo fato de nenhum identificador individual ter sido observado no conteúdo pertinente exibido. Brutos dos renders somente em memória; evidências sanitizadas e hashes privados. Sem OCR ou camada nativa como autoridade textual. Issue #259 aberta; sem aceite integral.
 
 ## Texto do PDF
 
 ### Página física 1
 
 GOVERNO DO ESTADO DE MINAS GERAIS
+SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTÃO
 
-               SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTÃO
+**Procedência:** Central de Compras do Centro de Serviços Compartilhados – CSC/SEPLAG
+**Interessado:** Secretaria de Estado de Saúde – SES/MG
+**Número: 16.198**
+**Data:** 22/03/2020
+**PROCESSO SEI nº:** [OCULTADO]
+**Classificação Temática:** Dispensa de licitação – Coronavírus.
+**Referência:** Parecer Referencial ESP/MG nº 01/2020; Parecer Referencial n. 00011/2020/CONJUR-MS/CGU/AGU.
 
+**DIREITO ADMINISTRATIVO – LICITAÇÕES E CONTRATOS – DISPENSA DE LICITAÇÃO – AQUISIÇÃO DE BENS E INSUMOS DE SAÚDE – CORONAVÍRUS – ART. 4º DA LEI 13.979/2020 (COM REDAÇÃO PELA MEDIDA PROVISÓRIA Nº 926, DE 20 DE MARÇO DE 2020) – PANDEMIA – PARECER REFERENCIAL.**
 
-Procedência: Central de Compras do Centro de Serviços Compartilhados – CSC/SEPLAG
-Interessado: Secretaria de Estado de Saúde – SES/MG
-Número: 16.198
-Data: 22/03/2020
-PROCESSO SEI nº: 1500.01.0014225/2020-94
-Classificação Temática: Dispensa de licitação – Coronavírus.
-Referência: Parecer Referencial        ESP/MG      nº   01/2020;    Parecer    Referencial   n.
-00011/2020/CONJUR-MS/CGU/AGU.
-DIREITO ADMINISTRATIVO – LICITAÇÕES E CONTRATOS – DISPENSA DE LICITAÇÃO
-– AQUISIÇÃO DE BENS E INSUMOS DE SAÚDE – CORONAVÍRUS – ART. 4º DA LEI
-13.979/2020 (COM REDAÇÃO PELA MEDIDA PROVISÓRIA Nº 926, DE 20 DE MARÇO DE
-2020) – PANDEMIA – PARECER REFERENCIAL.
+**<u>CONSULTA</u>**
 
+1. Por meio do Memorando.SEPLAG/CECOMP.nº 52/2020 (12589866), a Superintendência Central de Compras Governamentais submeteu, a este Núcleo de Assessoramento Jurídico, consulta acerca do ‘processo para compra direta de Equipamentos de Proteção Individual de agentes públicos para enfrentamento ao COVID-19, em atendimento à demanda de vários órgãos e entidades que repassaram suas demandas ao Comitê Extraordinário COVID-19’.
+2. A área técnica solicitou, ainda, “emissão de parecer jurídico referencial junto à Advocacia Geral do Estado de Minas Gerais, para tratar demandas e entregas como a constante no processo SEI! [OCULTADO] uma vez que para garantir a proteção dos profissionais agentes públicos envolvidos no combate ao coronavírus e levando em conta à atual oferta reduzida de produtos no mercado, serão necessários recorrentes processos por dispensa enquanto persistir a pandemia mundia de COVID-19. Ressalta-se que tal parecer ainda neste processo deve ser avaliado quanto à tempestividade que o caso requer, de real risco de morte aos cidadãos mineiros.”.
+3. Os autos estão instruídos com os seguintes documentos:
 
-                                        CONSULTA
+[Captura de árvore documental incorporada; ícones de documentos/pastas. Ao lado do número do processo aparecem um pequeno quadrado com “B” e um ícone circular vermelho. Texto visual:]
 
+1500.01.0014225/2020-94
+I
+Lei Federal 13.979/2020 (12589233) SEPLAG/CECONT
+Decreto NE Nº 113, DE 12 DE MARÇO DE 2020 (12587878) SEPLAG/CECOMP
+Demonstrativo de EPIs demandados por órgãos e entidades de MG (12588068) SEPLAG/CECOMP
+Comprovante de falta de EPIs no mercado (12587731) SEPLAG/CECOMP
+Comprovante da alta de preços de EPIs (12588665) SEPLAG/CECOMP
+Cotação com negativa Atuante (12587890) SEPLAG/CECOMP
+Cotação com negativa Biohosp (12587724) SEPLAG/CECOMP
+Cotação com negativa Difarmig (12587945) SEPLAG/CECOMP
+Resolução SES/MG 6794 de 2019 - Delegação de Competências (12588990) SEPLAG/CECOMP
+PADRÃO - Termo de Referência de Bem SEPLAG/CECOMP 12586008 SEPLAG/CECOMP
+[Seleção azul:] PADRÃO - Contrato de Bem SEPLAG/CECOMP 12586018 SEPLAG/CECOMP
+Termo de Designação de Fiscal e Gestor de Contrato SEPLAG/CECOMP 12587217 SEPLAG/CECOMP
+Proposta Empresa DCB - Entrega Imediata (12587620) SEPLAG/CECOMP
+Proposta Empresa DCB - Entrega Parcelada (12587622) SEPLAG/CECOMP
+Certificado de Regularidade do FGTS - CRF DCB (12589343) SEPLAG/CECONT
+Certidão regularidade fiscal Receita Federal (12589238) SEPLAG/CECONT
+Certificado de Registro Cadastral do Fornecedor-CRC (12587434) SEPLAG/CECOMP
+Planilha DCB Quantitativos e Valores (12588283) SEPLAG/CECOMP
+Memorando 229 (12588739) SES/SUBVS
+Declaração de Disponibilidade Orçamentária SES/DPO 12589114 SES/DPO
+II
+Memorando 52 (12589866) SEPLAG/CECOMP
+Minuta de Contrato SEPLAG/CECONT 12591357 SEPLAG/CECONT
+Consultar Andamento
 
- 1. Por meio do Memorando.SEPLAG/CECOMP.nº 52/2020 (12589866), a Superintendência
-    Central de Compras Governamentais submeteu, a este Núcleo de Assessoramento
-    Jurídico, consulta acerca do ‘processo para compra direta de Equipamentos de Proteção
-    Individual de agentes públicos para enfrentamento ao COVID-19, em atendimento à
-    demanda de vários órgãos e entidades que repassaram suas demandas ao Comitê
-    Extraordinário COVID-19’.
- 2. A área técnica solicitou, ainda, “emissão de parecer jurídico referencial junto à Advocacia
-    Geral do Estado de Minas Gerais, para tratar demandas e entregas como a constante no
-    processo SEI! 1500.01.0014225/2020-94, uma vez que para garantir a proteção dos
-    profissionais agentes públicos envolvidos no combate ao coronavírus e levando em conta
-    à atual oferta reduzida de produtos no mercado, serão necessários recorrentes processos
-    por dispensa enquanto persistir a pandemia mundia de COVID-19. Ressalta-se que tal
-    parecer ainda neste processo deve ser avaliado quanto à tempestividade que o caso
-    requer, de real risco de morte aos cidadãos mineiros.”.
- 3. Os autos estão instruídos com os seguintes documentos:
+4. Salientamos que a presente manifestação diz respeito tão somente às hipóteses de aquisição de bens e insumos de saúde, destinados ao atendimento da emergência prevista na Lei nº 13.979, de 6 de fevereiro de 2020, não abrangendo a prestação de
 
-
- 4. Salientamos que a presente manifestação diz respeito tão somente às hipóteses de
-    aquisição de bens e insumos de saúde, destinados ao atendimento da emergência
-    prevista na Lei nº 13.979, de 6 de fevereiro de 2020, não albergando a prestação de
-
-
-                 Parecer Jurídico 16.198/2020 (12592235)             SEI 1500.01.0014225/2020-94 / pg. 1
-
+[Rodapé cinza:] Parecer Jurídico 16.198/2020 (12592235) SEI [OCULTADO] / pg. 1
 
 ### Página física 2
 
-serviços. Caso a área técnica tenha interesse na emissão de parecer referencial que trate
-     de serviços, deverá enviar processo específico com esse objeto.
- 5. É o relatório, no essencial.
+serviços. Caso a área técnica tenha interesse na emissão de parecer referencial que trate de serviços, deverá enviar processo específico com esse objeto.
 
+5. É o relatório, no essencial.
 
-           DO ÂMBITO DE ATRIBUIÇÃO DO ASSESSORAMENTO JURÍDICO
+**<u>DO ÂMBITO DE ATRIBUIÇÃO DO ASSESSORAMENTO JURÍDICO</u>**
 
+6. Nos termos do art. 17, §3º, da Resolução AGE n. 26, de 23 de junho de 2017, a nota jurídica ou parecer jurídico deve se restringir à análise jurídica da questão submetida à consulta, sem adentrar em análises de cunho técnico, financeiro ou econômico. Vejamos:
 
- 6. Nos termos do art. 17, §3º, da Resolução AGE n. 26, de 23 de junho de 2017, a nota
-    jurídica ou parecer jurídico deve se restringir à análise jurídica da questão submetida à
-    consulta, sem adentrar em análises de cunho técnico, financeiro ou econômico. Vejamos:
+> **Art. 17** - As minutas de editais de licitação, bem como as de contratos, convênios, parcerias, acordos ou ajustes sujeitas ao exame da Consultoria Jurídica ou de assessorias e procuradorias jurídicas do Estado, devem ser encaminhadas com, no mínimo, 12 (doze) dias de antecedência em relação à data preestabelecida para sua publicação ou celebração, nos termos do Decreto nº 43.224, de 21 de março de 2003.
+>
+> (...)
+>
+> **§ 3º** - <u>A nota jurídica ou parecer jurídico deve se restringir à análise jurídica da questão submetida à consulta, sendo defeso ao Procurador adentrar na análise de aspectos técnicos, econômicos e financeiros, bem como nas questões adstritas ao exercício da competência e da discricionariedade administrativa, a cargo das autoridades competentes</u>.
 
-                     Art. 17 - As minutas de editais de licitação, bem como as de contratos,
-                     convênios, parcerias, acordos ou ajustes sujeitas ao exame da Consultoria
-                     Jurídica ou de assessorias e procuradorias jurídicas do Estado, devem ser
-                     encaminhadas com, no mínimo, 12 (doze) dias de antecedência em
-                     relação à data preestabelecida para sua publicação ou celebração, nos
-                     termos do Decreto nº 43.224, de 21 de março de 2003.
-                     (...)
-                     § 3º - A nota jurídica ou parecer jurídico deve se restringir à análise jurídica
-                     da questão submetida à consulta, sendo defeso ao Procurador adentrar na
-                     análise de aspectos técnicos, econômicos e financeiros, bem como nas
-                     questões adstritas ao exercício da competência e da discricionariedade
-                     administrativa, a cargo das autoridades competentes.
+7. Nessa linha, não compete ao órgão de assessoria e consultoria jurídica apontar ou definir a medida administrativa a ser adotada em cada caso concreto, sob pena de adentrar nas razões de conveniência e oportunidade do gestor e interferir, indevidamente, no mérito dos atos administrativos de sua competência.
+8. Por exemplo, a presente licitação dispensável possui como pressuposto a sua utilização de modo subsidiário, ou seja, se houver outros meios possíveis para solução do problema, estes deverão ser utilizados primariamente. Ora, cabe exclusivamente à área técnica tal consideração. E mais, se a área não está diligenciando de modo suficiente na busca de novos meios, a única atribuição do assessoramento jurídico é recomendar melhor empenho. Essa Assessoria Jurídica não tem capacidade técnica para realizar esta verificação, cabe exclusivamente à área técnica verificar a existência de outras opções.
+9. Esclarece-se, assim, que <u>a presente manifestação é dotada de caráter eminentemente opinativo</u>, a refletir uma opinião jurídica que se ampara, sobretudo, na presunção de veracidade e idoneidade das informações técnicas subscritas pelas autoridades competentes, e, como tal, <u>não pode ser concebida como um ato administrativo de gestão ou mesmo um ato decisório</u>.
 
- 7. Nessa linha, não compete ao órgão de assessoria e consultoria jurídica apontar ou definir
-    a medida administrativa a ser adotada em cada caso concreto, sob pena de adentrar nas
-    razões de conveniência e oportunidade do gestor e interferir, indevidamente, no mérito
-    dos atos administrativos de sua competência.
- 8. Por exemplo, a presente licitação dispensável possui como pressuposto a sua utilização
-    de modo subsidiário, ou seja, se houver outros meios possíveis para solução do
-    problema, estes deverão ser utilizados primariamente. Ora, cabe exclusivamente à área
-    técnica tal consideração. E mais, se a área não está diligenciando de modo suficiente na
-    busca de novos meios, a única atribuição do assessoramento jurídico é recomendar
-    melhor empenho. Essa Assessoria Jurídica não tem capacidade técnica para realizar esta
-    verificação, cabe exclusivamente à área técnica verificar a existência de outras opções.
- 9. Esclarece-se, assim, que a presente manifestação é dotada de caráter eminentemente
-    opinativo, a refletir uma opinião jurídica que se ampara, sobretudo, na presunção de
-    veracidade e idoneidade das informações técnicas subscritas pelas autoridades
-    competentes, e, como tal, não pode ser concebida como um ato administrativo de gestão
-    ou mesmo um ato decisório.
+**<u>DA ANÁLISE JURÍDICA</u>**
 
-
-                                   DA ANÁLISE JURÍDICA
-
-
-10. Acerca da possibilidade de se adotar manifestações referenciais, tem-se que, com
-    fundamento nos Princípios da Eficiência e Proporcionalidade, são um instrumento
-    facilitador da atividade gerencial no âmbito da Administração Pública, encontrando
-    guarida em normas e precedentes do TCU.
-11. Sendo previamente examinadas e aprovadas pela Assessoria Jurídica do órgão, a
-    aplicação das minutas padronizadas é recomendada, com as devidas cautelas, nos
-    procedimentos rotineiros, sem variações, que não exijam tratamento diferenciado.
-12. Nesta acepção, a Corte de Contas Federal manifestou-se favoravelmente à viabilidade de
-    manifestações padronizadas em caso de procedimentos licitatórios idênticos, cabendo ao
-    gestor a verificação da conformidade entre o procedimento em curso e aquele já
-    albergado por manifestação jurídica referencial:
+10. Acerca da possibilidade de se adotar manifestações referenciais, tem-se que, com fundamento nos Princípios da Eficiência e Proporcionalidade, são um instrumento facilitador da atividade gerencial no âmbito da Administração Pública, encontrando guarida em normas e precedentes do TCU.
+11. Sendo previamente examinadas e aprovadas pela Assessoria Jurídica do órgão, a aplicação das minutas padronizadas é recomendada, com as devidas cautelas, nos procedimentos rotineiros, sem variações, que não exijam tratamento diferenciado.
+12. Nesta acepção, a Corte de Contas Federal manifestou-se favoravelmente à viabilidade de manifestações padronizadas em caso de procedimentos licitatórios idênticos, cabendo ao gestor a verificação da conformidade entre o procedimento em curso e aquele já albergado por manifestação jurídica referencial:
 13. Em seu voto, discorreu o Ministro Relator Walton Rodrigues:
 
-                     “A ssi m, admitindo-se a existência de procedimentos licitatórios
-                     idênticos tanto em relação ao objeto quanto em relação às quantidades
-                     ou, então, quanto à modalidade licitatória, a utilização de minutas-
-                     padrão não fere o dispositivo legal que impõe a prévia manifestação da
-                     assessoria jurídica sobre a regularidade das minutas dos editais e dos
-                     contratos. (...)
-                     Dessa forma, ao aprovar minutas-padrão de editais e/ou contratos, a
-                     assessoria jurídica mantém sua responsabilidade normativa sobre
-                     procedimentos licitatórios em que tenham sido utilizadas. Ao gestor
-                     caberá a responsabilidade da verificação da conformidade entre a
+> “Assim, **admitindo-se a existência de procedimentos licitatórios idênticos** tanto em relação ao objeto quanto em relação às quantidades ou, então, quanto à modalidade licitatória, **a utilização de minutas-padrão não fere o dispositivo legal** que impõe a prévia manifestação da assessoria jurídica sobre a regularidade das minutas dos editais e dos contratos. (...)
+>
+> Dessa forma, **ao aprovar minutas-padrão de editais e/ou contratos, a assessoria jurídica mantém sua responsabilidade normativa sobre procedimentos licitatórios em que tenham sido utilizadas. Ao gestor caberá a responsabilidade da verificação da conformidade entre a**
 
-                 Parecer Jurídico 16.198/2020 (12592235)                SEI 1500.01.0014225/2020-94 / pg. 2
-
+[Rodapé cinza:] Parecer Jurídico 16.198/2020 (12592235) SEI [OCULTADO] / pg. 2
 
 ### Página física 3
 
-licitação que pretende realizar e a minuta-padrão previamente
-                    examinada e aprovada pela assessoria jurídica. Por prudência,
-                    havendo dúvida da perfeita identidade, deve-se requerer a manifestação
-                    da assessoria jurídica, em vista das peculiaridades de cada caso
-                    concreto.
-                    A despeito de haver decisões do TCU que determinam a atuação da
-                    assessoria jurídica em cada procedimento licitatório, o texto legal -
-                    parágrafo único do art. 38 da Lei 8.666/93 - não é expresso quanto a essa
-                    obrigatoriedade. Assim, a utilização de minutas-padrão, guardadas as
-                    necessárias cautelas, em que, como assevera o recorrente (fl. 8/9 do
-                    anexo 1), limita-se ao preenchimento das quantidades de bens e
-                    serviços, unidades favorecidas, local de entrega dos bens ou
-                    prestação dos serviços, sem alterar quaisquer das cláusulas desses
-                    instrumentos previamente examinados pela assessoria jurídica,
-                    atende aos princípios da legalidade e também da eficiência e da
-                    proporcionalidade.”(Acórdão 1.504/2005 – TCU – Plenário) (g.n)
+> **licitação que pretende realizar e a minuta-padrão previamente examinada e aprovada pela assessoria jurídica.** Por prudência, havendo dúvida da perfeita identidade, deve-se requerer a manifestação da assessoria jurídica, em vista das peculiaridades de cada caso concreto.
+>
+> A despeito de haver decisões do TCU que determinam a atuação da assessoria jurídica em cada procedimento licitatório, o texto legal - parágrafo único do art. 38 da Lei 8.666/93 - não é expresso quanto a essa obrigatoriedade. **Assim, a utilização de minutas-padrão, guardadas as necessárias cautelas, em que, como assevera o recorrente (fl. 8/9 do anexo 1), limita-se ao preenchimento das quantidades de bens e serviços, unidades favorecidas, local de entrega dos bens ou prestação dos serviços, sem alterar quaisquer das cláusulas desses instrumentos previamente examinados pela assessoria jurídica, atende aos princípios da legalidade e também da eficiência e da proporcionalidade.**”(Acórdão 1.504/2005 – TCU – Plenário) (g.n)
 
-14. Apesar de admitir a utilização de documentos referenciais, o Relator manteve intacta a
-    responsabilidade normativa de aprovação do instrumento pela Assessoria Jurídica do
-    órgão (desde que, evidentemente, não haja alteração na minuta previamente aprovada
-    nem existam outras questões específicas a serem analisadas). Incumbiu ao gestor público
-    a responsabilidade de adequação do caso concreto ao instrumento padrão.
-15. A despeito de o Acórdão em comento se referir aos procedimentos licitatórios, não há
-    óbice para sua aplicação, mutatis mutandis, à demanda sob análise, a qual trata de
-    licitação dispensável.
-16. Ademais, guardam especial semelhança quanto à natureza corriqueira das circunstâncias
-    de aplicação, restringindo o preenchimento pelo gestor público aos itens como
-    qualificação das partes, objeto da dispensa, razão de escolha do fornecedor, pesquisa de
-    preços, entre outros requisitos que serão abaixo explorados.
+14. Apesar de admitir a utilização de documentos referenciais, o Relator manteve intacta a responsabilidade normativa de aprovação do instrumento pela Assessoria Jurídica do órgão (desde que, evidentemente, não haja alteração na minuta previamente aprovada nem existam outras questões específicas a serem analisadas). Incumbiu ao gestor público a responsabilidade de adequação do caso concreto ao instrumento padrão.
+15. A despeito de o Acórdão em comento se referir aos procedimentos licitatórios, não há óbice para sua aplicação, *mutatis mutandis*, à demanda sob análise, a qual trata de licitação dispensável.
+16. Ademais, guardam especial semelhança quanto à natureza corriqueira das circunstâncias de aplicação, restringindo o preenchimento pelo gestor público aos itens como qualificação das partes, objeto da dispensa, razão de escolha do fornecedor, pesquisa de preços, entre outros requisitos que serão abaixo explorados.
 17. Neste sentido, temos ainda:
 
-                    “(...) Desse modo, a despeito de não pairar obscuridade sobre o acórdão
-                    ora embargado, pode-se esclarecer à AGU que o entendimento do TCU
-                    referenciado nos Acórdãos 748/2011 e 1.944/2014, ambos prolatados por
-                    este Plenário, não impede a utilização, pelos órgãos e entidades da
-                    administração pública federal, de um mesmo parecer jurídico em
-                    procedimentos licitatórios diversos, desde que envolvam matéria
-                    comprovadamente idêntica e sejam completos, amplos e abranjam
-                    todas as questões jurídicas pertinentes.” (Acórdão 2.674/2014, TCU –
-                    Plenário)
-                    “(...) a sistemática consistente na aprovação prévia de minutas-
-                    padrão por parte de assessoria jurídica somente é admitida em
-                    caráter de exceção, em se tratando de licitações ou contratações de
-                    objetos idênticos, corriqueiramente conduzidas pela entidade. As
-                    alterações permitidas são aquelas estritamente necessárias à adequação
-                    formal do objeto (v.g. quantidades, nomes dos contratantes, local de
-                    entrega do produto ou de prestação do serviço), em cada caso concreto,
-                    às cláusulas predefinidas e aprovadas pela correspondente área jurídica.
-                    Em tais hipóteses, há de se convir que o gestor público assume
-                    responsabilidade maior quando comparada com aquela advinda da
-                    regra elucidada em linhas anteriores, notadamente porque dele
-                    demandar-se-á avaliação inequívoca acerca da adequação das
-                    cláusulas exigidas no edital de licitação e no contrato pretendido às
-                    cláusulas previamente estabelecidas nas minutas-padrão. Qualquer
-                    dúvida sobre a aplicabilidade da minuta padronizada deve ensejar a
-                    submissão da matéria à assessoria jurídica da entidade, sob pena de a
-                    condução do procedimento resultar em violação ao parágrafo único do art.
-                    38 da Lei de Licitações”. (Acórdão 3.014/2010, TCU – Plenário)
+> “(...) Desse modo, a despeito de não pairar obscuridade sobre o acórdão ora embargado, pode-se esclarecer à AGU que o entendimento do TCU referenciado nos Acórdãos 748/2011 e 1.944/2014, ambos prolatados por este Plenário, **não impede a utilização, pelos órgãos e entidades da administração pública federal, de um mesmo parecer jurídico em procedimentos licitatórios diversos, desde que envolvam matéria comprovadamente idêntica e sejam completos, amplos e abranjam todas as questões jurídicas pertinentes.**” (Acórdão 2.674/2014, TCU – Plenário)
+>
+> “(…) **a sistemática consistente na aprovação prévia de minutas-padrão por parte de assessoria jurídica somente é admitida em caráter de exceção, em se tratando de licitações ou contratações de objetos idênticos, corriqueiramente conduzidas pela entidade.** As alterações permitidas são aquelas estritamente necessárias à adequação formal do objeto (v.g. quantidades, nomes dos contratantes, local de entrega do produto ou de prestação do serviço), em cada caso concreto, às cláusulas predefinidas e aprovadas pela correspondente área jurídica. Em tais hipóteses, há de se convir que **o gestor público assume responsabilidade maior quando comparada com aquela advinda da regra elucidada em linhas anteriores, notadamente porque dele demandar-se-á avaliação inequívoca acerca da adequação das cláusulas exigidas no edital de licitação e no contrato pretendido às cláusulas previamente estabelecidas nas minutas-padrão.** Qualquer dúvida sobre a aplicabilidade da minuta padronizada deve ensejar a submissão da matéria à assessoria jurídica da entidade, sob pena de a condução do procedimento resultar em violação ao parágrafo único do art. 38 da Lei de Licitações”. (Acórdão 3.014/2010, TCU – Plenário)
 
-18. A Advocacia-Geral da União, de há muito, vem adotando as manifestações referencias,
-    prática consolidada a partir da edição da Orientação Normativa nº 55, de 23 de maio de
-    2014[1].
-19. No âmbito do Estado de Minas Gerais, o artigo 12, da Resolução AGE nº 26, de 23 de
-    junho de 2017, que dispõe sobre a organização, competências e procedimentos da
-    Consultoria Jurídica da Advocacia-Geral do Estado, autoriza a adoção de pareceres
-    referenciais, escusando nova análise jurídica desde que a área técnica ateste que o caso
-    concerto se amolda aos termos da prévia manifestação, senão vejamos:
+18. A Advocacia-Geral da União, de há muito, vem adotando as manifestações referencias, prática consolidada a partir da edição da Orientação Normativa nº 55, de 23 de maio de 2014<u style="color:blue">[1]</u>.
+19. No âmbito do Estado de Minas Gerais, o artigo 12, da Resolução AGE nº 26, de 23 de junho de 2017, que dispõe sobre a organização, competências e procedimentos da Consultoria Jurídica da Advocacia-Geral do Estado, **autoriza a adoção de pareceres referenciais**, escusando nova análise jurídica desde que a área técnica ateste que o caso concreto se amolda aos termos da prévia manifestação, senão vejamos:
 
-                    Art. 4º - Para fins desta Resolução considera-se:
-                    IV - parecer referencial: parecer do NCCJ, aprovado pelo Advogado-Geral
-                    do Estado, que visa analisar todas as questões jurídicas que envolvam
-                    matérias idênticas e recorrentes dos órgãos e entidades estaduais.
-                    (...)
+> **Art. 4º** - Para fins desta Resolução considera-se:
+>
+> IV - parecer referencial: parecer do NCCJ, aprovado pelo Advogado-Geral do Estado, que visa analisar todas as questões jurídicas que envolvam matérias idênticas e recorrentes dos órgãos e entidades estaduais.
+>
+> (...)
 
-                Parecer Jurídico 16.198/2020 (12592235)            SEI 1500.01.0014225/2020-94 / pg. 3
-
+[Rodapé cinza:] Parecer Jurídico 16.198/2020 (12592235) SEI [OCULTADO] / pg. 3
 
 ### Página física 4
 
@@ -942,4 +862,4 @@ Referência: Processo nº 1500.01.0014225/2020-94                               
 
 ## Conferência e limites
 
-Texto da camada textual (pdftotext) do PDF oficial. A AGE/MG é distinta da CGE/MG e do TJMG. A consulta às páginas 1–5 do catálogo em 04/11/2026 enumerou identidades; este lote publica apenas PDFs textuais curtos. Não se infere vigência nem completude. PDFs e capturas permanecem privados.
+Físicas 1–3: texto após transcrição e novo cotejo visual parcial descritos acima. Físicas 4–13: texto anterior da camada textual (pdftotext) do PDF oficial, sem novo cotejo visual. A AGE/MG é distinta da CGE/MG e do TJMG. A consulta às páginas 1–5 do catálogo em 04/11/2026 enumerou identidades; este lote publica apenas PDFs textuais curtos. Não se infere vigência nem completude. PDFs e capturas permanecem privados.
