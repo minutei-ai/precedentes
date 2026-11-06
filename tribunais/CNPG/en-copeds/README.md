@@ -43,3 +43,5 @@ COPEDS é separada de COPEVID, GNDH 01/2018 e GNCCRIM. As demais séries, notas 
 | 23 | [cnpg-en-copeds-23](cnpg-en-copeds-23.md) |
 | 24 | [cnpg-en-copeds-24](cnpg-en-copeds-24.md) |
 | 25 | [cnpg-en-copeds-25](cnpg-en-copeds-25.md) |
+
+Os [painéis MPPR de 2022 e 2023](mppr-2022-2023.md) são preservados como apoio documental separado, sem alteração da contagem da série EJEF/TJMG.
