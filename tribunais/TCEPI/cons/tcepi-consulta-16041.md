@@ -22,92 +22,66 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                 Estado do Piauí
-                                 Tribunal de Contas
-                                                                               Acórdão 2710/15
-                                     ACÓRDÃO nº 2.710/15
-    PROCESSO:             TC Nº 012501/2015
-    ASSUNTO:              CONSULTA
-    PROCEDÊNCIA:          PREFEITURA MUNICIPAL DE SÃO JOÃO DA FRONTEIRA
-    INTERESSADO:          ANTONIO ERIVAN RODRIGUES FERNANDES
-    RELATORA:             CONSELHEIRA WALTÂNIA MARIA N. DE SOUSA LEAL
-                          ALVARENGA
-    PROCURADOR:           JOSÉ ARAÚJO PINHEIRO JÚNIOR
-    
-    
-                                        EMENTA: Consulta. Admissibilidade. Concessão de
-                                        licença saúde a exercente de mandato eletivo. Legislação
-                                        a ser aplicada, depende do regime previdenciário a que o
-                                        servidor é vinculado. Observância da Lei Orgânica do
-                                        Município.
-    
-    
-    Vistos, relatados e discutidos os presentes autos, que tratam de consulta formulada
-    prefeito do Município de São João da Fronteira, Sr. Antônio Erivan Rodrigues
-    Fernandes, apresentando indagações acerca de procedimentos a serem adotados
-    em eventual necessidade do exercente de mandato eletivo de prefeito necessitar de
-    afastamento para tratamento de saúde, considerando a informação apresentada
-    pela da I Divisão de Fiscalização da Administração Municipal – DFAM (peça nº 5), o
-    parecer do Ministério Público de Contas (peça nº 8), e o mais que dos autos consta,
-    decidiu o Plenário, unânime, em concordância com a manifestação ministerial,
-    conhecer da presente consulta, para no mérito, responder em tese ao consulente,
-    nos termos do voto da Relatora (peça 12): a) a legislação a ser aplicada ao caso
-    depende do regime previdenciário a que o servidor seja vinculado, se ao Regime
-    Geral de Previdência Social ou ao Regime Próprio de Previdência Social, devendo,
-    ainda, serem observados os critérios estabelecidos pela Lei Orgânica do Município;
-    b) em relação à remuneração, durante o período do afastamento do prefeito por
-    motivo de doença, dependerá de o mesmo ter feito ou não a opção pela
-    remuneração do cargo do serviço público. Caso tenha optado pelo recebimento do
-    subsídio do cargo eletivo, continuará percebendo esse valor enquanto durar a
-    licença médica; c) quanto ao período do afastamento será definido por perícia
-    médica.
-    
-    (inteiro teor do processo no sítio eletrônico http://www.tce.pi.gov.br)
-    
-    Transcreva-se, Publique-se e Cumpra-se.
-    
-    
-    __________________________________________________________________________________________
-    Consulta – TC/012501/2015
-    
+[Brasão colorido: ESTADO DO PIAUÍ; microtexto do listel não resolvido.]
+Estado do Piauí
+Tribunal de Contas
+[Logotipo colorido de estrela/arcos:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+[Azul:] Acórdão 2710/15
+
+ACÓRDÃO nº 2.710/15
+
+**PROCESSO:** TC Nº 012501/2015
+**ASSUNTO:** CONSULTA
+**PROCEDÊNCIA:** PREFEITURA MUNICIPAL DE SÃO JOÃO DA FRONTEIRA
+**INTERESSADO:** ANTONIO ERIVAN RODRIGUES FERNANDES
+**RELATORA:** CONSELHEIRA WALTÂNIA MARIA N. DE SOUSA LEAL ALVARENGA
+**PROCURADOR:** JOSÉ ARAÚJO PINHEIRO JÚNIOR
+
+[Bloco à direita:] EMENTA: Consulta. Admissibilidade. Concessão de licença saúde a exercente de mandato eletivo. Legislação a ser aplicada, depende do regime previdenciário a que o servidor é vinculado. Observância da Lei Orgânica do Município.
+
+Vistos, relatados e discutidos os presentes autos, que tratam de consulta formulada prefeito do Município de São João da Fronteira, Sr. Antônio Erivan Rodrigues Fernandes, apresentando indagações acerca de procedimentos a serem adotados em eventual necessidade do exercente de mandato eletivo de prefeito necessitar de afastamento para tratamento de saúde, considerando a informação apresentada pela da I Divisão de Fiscalização da Administração Municipal – DFAM (peça nº 5), o parecer do Ministério Público de Contas (peça nº 8), e o mais que dos autos consta, decidiu o Plenário, unânime, em concordância com a manifestação ministerial, **conhecer** da presente consulta, para no mérito, responder em tese ao consulente, nos termos do voto da Relatora (peça 12): a) a legislação a ser aplicada ao caso depende do regime previdenciário a que o servidor seja vinculado, se ao Regime Geral de Previdência Social ou ao Regime Próprio de Previdência Social, devendo, ainda, serem observados os critérios estabelecidos pela Lei Orgânica do Município; b) em relação à remuneração, durante o período do afastamento do prefeito por motivo de doença, dependerá de o mesmo ter feito ou não a opção pela remuneração do cargo do serviço público. Caso tenha optado pelo recebimento do subsídio do cargo eletivo, continuará percebendo esse valor enquanto durar a licença médica; c) quanto ao período do afastamento será definido por perícia médica.
+
+*(inteiro teor do processo no sítio eletrônico http://www.tce.pi.gov.br)*
+
+Transcreva-se, Publique-se e Cumpra-se.
+
+[Rodapé sob linha:] Consulta – TC/012501/2015
 
 #### Página 2 do PDF oficial
 
-                                        Estado do Piauí
-                                        Tribunal de Contas
-                                                                                          Acórdão 2710/15
-           Sessão Plenária Ordinária, em Teresina, 26 de novembro de 2015.
-    
-           Presentes os Cons. Luciano Nunes Santos (Presidente), Waltânia Maria Nogueira
-           de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho, Lilian de Almeida Veloso
-           Nunes Martins, Kleber Dantas Eulálio e o Cons. Substituto Jaylson Fabianh Lopes
-           Campelo, em substituição ao Cons. Abelardo Pio Vilanova e Silva (ausente por
-           motivo de licença médica).
-           Ausente, por motivo justificado, quando da apreciação do processo, o Cons.
-           Joaquim Kennedy Nogueira Barros.
-    
-           Representante do Ministério Público de Contas presente: Subprocurador-Geral
-           José Araújo Pinheiro Júnior.
-    
-           (assinado digitalmente)
-           Cons. Luciano Nunes Santos                                                  Presidente
-    
-           (assinado digitalmente)
-           Consª. Waltânia Maria Nogueira de Sousa Leal Alvarenga                      Relatora
-    
-           (assinado digitalmente)
-           Fui Presente: José Araújo Pinheiro Júnior                           Procurador do MPC
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - LUCIANO NUNES SANTOS: [identificador e-TCE ocultado] - 18/12/2015 08:30:25
-             Digitalmente pelo sistema e-TCE - JOSE ARAUJO PINHEIRO JUNIOR:28815718320 - 15/12/2015 13:10:41
-    Assinado__________________________________________________________________________________________
-    AssinadoConsulta      pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:34238760344 - 17/12/2015 12
-                       – TC/012501/2015
-             Digitalmente
-    
+[Brasão colorido: ESTADO DO PIAUÍ; microtexto do listel não resolvido.]
+Estado do Piauí
+Tribunal de Contas
+[Logotipo estrela azul/arcos verde-amarelo:] TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ
+[Azul:] Acórdão 2710/15
+
+Sessão Plenária Ordinária, em Teresina, 26 de novembro de 2015.
+
+**Presentes** os Cons. Luciano Nunes Santos (Presidente), Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho, Lilian de Almeida Veloso Nunes Martins, Kleber Dantas Eulálio e o Cons. Substituto Jaylson Fabianh Lopes Campelo, em substituição ao Cons. Abelardo Pio Vilanova e Silva (ausente por motivo de licença médica).
+Ausente, por motivo justificado, quando da apreciação do processo, o Cons. Joaquim Kennedy Nogueira Barros.
+
+**Representante do Ministério Público de Contas presente:** Subprocurador-Geral José Araújo Pinheiro Júnior.
+
+*(assinado digitalmente)*
+Cons. Luciano Nunes Santos [à direita:] Presidente
+
+*(assinado digitalmente)*
+Cons[ª sobrescrita]. Waltânia Maria Nogueira de Sousa Leal Alvarenga [à direita:] Relatora
+
+*(assinado digitalmente)*
+Fui Presente: José Araújo Pinheiro Júnior [à direita:] Procurador do MPC
+
+[Rodapé com linha e sobreposição das três tarjas:]
+Consulta – TC/012501/2015
+
+*Assinado Digitalmente pelo sistema e-TCE -* **LUCIANO NUNES SANTOS:███████████ - 18/12/2015 08:30:25**
+*Assinado Digitalmente pelo sistema e-TCE -* **JOSE ARAUJO PINHEIRO JUNIOR:███████████ - 15/12/2015 13:10:41**
+*Assinado Digitalmente pelo sistema e-TCE -* **WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA[limite da máscara: pontuação contígua não resolvida]███████████ - 17/12/2015 1[restante cortado no limite direito da página]**
+
+
+[Limite da revisão independente Astra: As tarjas se sobrepõem ao rodapé. Nomes e pontuação contíguos sob máscara não tiveram confirmação independente. A terceira hora está cortada pela borda direita: nenhum dígito adicional do snapshot foi usado para completá-la.]
+
+[Representação herdada nas regiões encobertas: os fragmentos de nomes, pontuação e código documental abrangidos pela máscara não são transcrição confirmada pela revisão independente; devem ser lidos com a ressalva acima.]
 
 ### Documento vinculado pela fonte
 
@@ -385,3 +359,5 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 [Voto da Relatora](http://www.tce.pi.gov.br/wp-content/uploads/2018/02/Voto-do-relator.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next012: páginas deste recorte lidas visualmente por Sol e comparadas integralmente em revisão independente Astra. Ênfases e elementos institucionais foram restituídos nas áreas visíveis; microlendas dos brasões e regiões mascaradas permanecem sem leitura literal segura. As ressalvas locais distinguem representação herdada e confirmação independente. Vínculos fonte/contexto são os atribuídos pelo inventário, sem comprovação externa de pertinência, autenticidade, assinatura válida, vigência ou efeitos. Notas e limites anteriores preservados.
