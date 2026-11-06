@@ -49,3 +49,5 @@ O [testemunho institucional histórico do MPPR](https://site.mppr.mp.br/saude/Pa
 Os [painéis MPPR de 2022 e 2023](mppr-2022-2023.md) são preservados como apoio documental separado, sem alteração da contagem da série EJEF/TJMG.
 
 O [painel MPPR de 2014](mppr-2014.md) conserva dois blocos distintos e três ocorrências como apoio documental, sem alterar a contagem da série EJEF/TJMG.
+
+O [painel MPPR de 2013](mppr-2013.md) é preservado como apoio documental separado, incluindo a repetição interna do terceiro parágrafo, sem alteração da contagem da série EJEF/TJMG.
