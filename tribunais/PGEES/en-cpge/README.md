@@ -8,7 +8,7 @@ A observação final do catálogo foi conservada aqui, sem anexá-la ao nº 58:
 
 > OBS: enunciados de 1 a 7 (publicação em 20/5/2010); de 8 a 18 (publicação em 12/03/2012); de 19 a 22 (publicação em 12/09/2013).
 
-As notas de alteração permanecem atribuídas à página, inclusive as Resoluções 353/2024, 354/2024, 355/2025 e 358/2025. As resoluções, minutas, lista de checagem e parecer vinculados não foram lidos e seguem pendentes, inclusive para cotejo de histórico e revogações. Não se presume vigência atual, força vinculante ou completude histórica. O Conselho da Procuradoria-Geral do Estado é mencionado na própria página; a série é administrativa da PGE/ES, distinta do TJES e do TCEES. Normas, acórdãos e outros órgãos citados não receberam IDs.
+As notas de alteração permanecem atribuídas à página, inclusive as Resoluções 353/2024, 354/2024, 355/2025 e 358/2025. Há transcrições de atos de apoio em arquivos próprios, com conferência visual ainda pendente para parte deles. A [Resolução 241/2010](ATOS-HISTORICOS.md#resolução-cpge-2412010), conferida nas duas páginas, declara cancelar o verbete 06 da Resolução 235/2010, embora o catálogo conserve seu texto. Permanecem pendentes outros cotejos de histórico e revogações. Não se presume vigência atual, força vinculante ou completude histórica. O Conselho da Procuradoria-Geral do Estado é mencionado na própria página; a série é administrativa da PGE/ES, distinta do TJES e do TCEES. Normas, acórdãos e outros órgãos citados não receberam IDs.
 
 | Enunciado |
 | --- |
@@ -71,6 +71,6 @@ As notas de alteração permanecem atribuídas à página, inclusive as Resoluç
 | [57](pgees-en-cpge-57.md) |
 | [58](pgees-en-cpge-58.md) |
 
-## Atos vinculados lidos em 04/11/2026
+## Atos vinculados transcritos em 04/11/2026
 
-As Resoluções CPGE 324/2022, 353/2024, 355/2025 e 358/2025, o Parecer PGE/PCA nº 01785/2016 e os arquivos de minuta/lista do enunciado 31 foram lidos. A transcrição desses atos de apoio está em [ATOS-VINCULADOS.md](ATOS-VINCULADOS.md). Eles **não** geram novos IDs de enunciado. O cotejo confirma as notas de alteração/revogação já apontadas nas fichas; redações anteriores integrais anteriores às resoluções continuam dependentes dos PDFs históricos das resoluções publicadoras originais quando não reproduzidos nos atos de alteração.
+As Resoluções CPGE 324/2022, 353/2024, 355/2025 e 358/2025, o Parecer PGE/PCA nº 01785/2016 e referências aos arquivos de minuta/lista do enunciado 31 foram integrados. A cadeia de revisão localizada não demonstra conferência visual independente desses documentos. A transcrição desses atos de apoio está em [ATOS-VINCULADOS.md](ATOS-VINCULADOS.md). Eles **não** geram novos IDs de enunciado. As transcrições registram as notas de alteração/revogação apontadas nas fichas; redações anteriores integrais anteriores às resoluções continuam dependentes dos PDFs históricos das resoluções publicadoras originais quando não reproduzidos nos atos de alteração.

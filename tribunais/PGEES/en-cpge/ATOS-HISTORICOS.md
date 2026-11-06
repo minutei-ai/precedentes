@@ -282,150 +282,81 @@ PROCURADOR GERAL DO ESTADO
 - **Captura:** HTTP 200 em 04/11/2026; 621410 bytes; SHA-256 `448f22b205eb5594a5940fb80ae988b40c9168c0d13ad27e72a4a66c32962917`; 1 página(s) no PDF
 - **Papel documental:** ato do Conselho da PGE que edita, altera ou revoga enunciado(s); não é enunciado autônomo.
 
-### Texto do PDF
+### Transcrição da página física 1
 
-#### Página física 1
+O ato ocupa duas colunas de página do Diário; a transcrição abaixo isola seu corpo das matérias adjacentes. Os números soltos impressos foram preservados.
 
-      DIÁRIO OFICIAL DOS PODERES DO ESTADO                               EXECUTIVO
+**Resolução CPGE nº. 235/2010, de 20 de maio de 2010.**
 
-4                                                                                                                    Vitória (ES), Sexta-feira, 21 de Maio de 2010
-valores estejam sendo discutidos judicialmente, desde que fundamentada          O.S. Nº 123-S, de 11 de maio de               para fins de conclusão do ensino médio.
-em manifestação contemporânea da Contadoria desta PGE.                          2010.
-                                                                                                                              Enunciado CPGE nº 05 - Fica
-Art. 7º. Fica autorizado ao Procurador vinculado ao feito o não ajuizamento     CONCEDER 12 (doze) dias restantes             dispensada a interposição de recurso
-de ações, para cobrança de créditos do Estado, das autarquias e fundações       de férias regulamentares, referentes          nos processos em que haja decisões
-públicas, de valor igual ou inferior a 2.000,00 VRTE´s.                         ao exercício de 2010, a servidora             requisitórias de pagamento de créditos
-                                                                                CRISTIANE LOPES SARMENTO, no                  de pequeno valor, desde que o valor do
-Parágrafo único. A autorização a que se refere este artigo não abrange os       período de 21/05/2010 a 01/06/2010.           135 crédito esteja correto, consoante
-créditos decorrentes de decisões proferidas pelo Tribunal de Contas e de                                                      laudo contábil expedido pela Gerência
-multas penais eventualmente arbitradas.                                             Vitória, 11 de maio de 2010.              de Cálculos e Perícias da Procuradoria
-                                                                                  CLARA MARIA BONNEMASOU                      Geral do Estado – GCP/PGE, e esteja
-Art. 8º. Fica DELEGADA ao Subprocurador Geral para Assuntos Jurídicos, a              MONTEIRO DE BARROS                      dentro dos l imites previstos na
-competência específica para apreciar e decidir sobre os pedidos de:                Gerente Administrativo - GEAD              legislação estadual que define as
-                                                                                                    Protocolo 28804           Obrigações de Pequeno Valor – OPV’s.
-I – não propositura de Ações ou desistência de ações ajuizadas;                 = =
-                                                                                 =====
-                                                                                     ====
-                                                                                        ====
-                                                                                           ====
-                                                                                              ====
-                                                                                                 =====
-                                                                                                     ===
-                                                                                                       ===
-                                                                                                         == =
-                                                                                                           =====
-                                                                                                               ====
-                                                                                                                  ====
-                                                                                                                     =
-                                                                                O.S. Nº 127-S, de 20 de maio de               Enunciado CPGE nº 06 – Tendo o
-II – composição amigável em processos judiciais;                                2010.                                         acórdão regional sido proferido no
-                                                                                                                              sentido 145 de que o inadimplemento
-III – dispensa ou desistência de recursos;                                      CONCEDER 10 (dez) dias de férias              das obri gações trabal hi stas, por
-                                                                                regulamentares, referentes ao exercício       parte das prestadoras de servi ço
-IV – dispensa de apresentação de defesa ou elaboração de minuta de              de 2010, a servi dora MARINA                  contratad as p el a Ad mi ni stração
-informações.                                                                    NASCIMENTO LACERDA, no período                Estadual, implica na responsabilidade
-                                                                                de 20/05/2010 a 29/05/2010.                   subsi diária do Estado do Espíri to
-Art. 9º. Fica DELEGADA ao Procurador-Chefe a competência específica para                                                      Santo, na qualidade de tomador dos
-decidir sobre:                                                                     Vitória, 20 de maio de 2010.               serviços, quanto àquelas obrigações,
-                                                                                  CLARA MARIA BONNEMASOU                      fica dispensada a interposi ção do
-I – processos relativos a termos aditivos a contratos e convênios que tenham         MONTEIRO DE BARROS                       recurso d e revi sta (i tem I V d a
-por objeto a dilação do prazo original, desde que esta seja deferida;             Gerente Administrativo - GEAD               Súmula nº 331 TST), desde que não
-                                                                                                   Protocolo 29835            haja outra matéri a suscetí vel de
-II – matérias idênticas às já decididas no âmbito do Conselho da Procuradoria   =
-                                                                                ===
-                                                                                  ===
-                                                                                    ===
-                                                                                      ===
-                                                                                        ===
-                                                                                          ===
-                                                                                            ===
-                                                                                              ===
-                                                                                                ===
-                                                                                                  ===
-                                                                                                    ===
-                                                                                                      ===
-                                                                                                        ===
-                                                                                                          ===
-                                                                                                            ===
-                                                                                                              ===
-                                                                                                                ===
-                                                                                                                  ===
-                                                                                                                    ===       i mpugnação. A 150 di spensa de
-Geral do Estado;                                                                Resolução CPGE nº. 235/2010,                  recurso de revista fica caracterizada
-                                                                                de 20 de maio de 2010.                        ainda que a condenação subsidiária
-III – pedido de dispensa de adoção de medidas judiciais nas ações de                                                          do tomador dos serviços abranja as
-execução contra o Estado do Espírito Santo quando a diferença entre os          Edita os enunciados administrativos da        multas previstas nos artigos 467 e
-valores executados e aqueles apurados pelo Setor de Perícia Contábil da         Procuradoria Geral do Estado, de              477, par. 8, da CLT.
-Procuradoria do Estado do Espírito Santo não for superior a 500 (quinhentos)    observância obrigatória para a Instituição:
-VRTE’s;                                                                                                                       Enunciado CPGE nº 07 – O artigo
-                                                                                O Conselho da Procuradoria-Geral do           1°-F d a Lei n° 9. 494/1997, na
-IV – pedido de dispensa de adoção de medidas judiciais nas sentenças que        Estado no exercício da competência            redação original dada pela Medida
-arbitram honorários advocatícios em favor do defensor dativo quando os          que lhe é atribuída pelo art.3º, incisos      Provi sóri a 2180-35/2001, é 155
-valores arbitrados forem superiores a 500 (quinhentos) VRTE’s;                  X e XII, da LC nº 88/96, resolve              i nap l i cável na      cond enação
-                                                                                                                              meramente subsidiária (Súmula 331
-V – pedido de dispensa de interposição de recurso nas matérias objeto de        Editar os enunciados administrativos          do C. TST), restri ngi ndo-se sua
-súmula ou orientação jurisprudencial dos Tribunais Superiores;                  da Procuradoria Geral do Estado em            incidência às hipóteses em que a
-                                                                                vi gor nesta data, de observância             Fazend a Púb l i ca fi gura co mo
-VI – pedido de dispensa de interposição de recurso nos processos em que         obrigatória para a Instituição:               devedo ra pri nci p al dos crédi tos
-o objeto do litígio seja a apreensão de mercadorias como meio coercitivo                                                      trab al hi stas reco nheci d os    a
-para pagamento de tributos;                                                     Enunciado CPGE nº 01 – F i ca                 servidores e empregados públicos.
-                                                                                dispensada a apresentação de defesa
-VII – pedido de dispensa de interposição de recurso nos processos em que        e a i nterposi ção de recurso nos             Vitória/ES, em 20 de maio de 2010.
-o objeto do litígio seja a autorização para impressão de documentos fiscais     processos em que o objeto do litígio             RODRIGO RABELLO VIEIRA
-indeferida pela Secretaria da Fazenda em razão da existência de débito do       seja a responsabilidade 110 de sócio           PROCURADOR GERAL DO ESTADO
-contribuinte;                                                                   que, embora não integrasse o quadro                               Protocolo 29874
-                                                                                social no momento da ocorrência do            =
-                                                                                                                              ====
-                                                                                                                                 ===
-                                                                                                                                   ===
-                                                                                                                                     ===
-                                                                                                                                       ===
-                                                                                                                                         ===
-                                                                                                                                           ===
-                                                                                                                                             ===
-                                                                                                                                               ====
-                                                                                                                                                  ===
-                                                                                                                                                    ===
-                                                                                                                                                      ===
-                                                                                                                                                        ===
-                                                                                                                                                          ===
-                                                                                                                                                            ===
-                                                                                                                                                              ===
-                                                                                                                                                                ===
-                                                                                                                                                                  ===
-                                                                                                                                                                    =
-VIII – pedido de dispensa de interposição de recurso nos processos em           fato g erad o r, teve o seu no me             Portaria PGE nº. 35/2010, de 20
-que o objeto do litígio seja a suspensão de inscrição estadual pelo não         incluído na Certidão de Dívida Ativa.         de maio de 2010.
-pagamento de ICMS;
-                                                                                Enunciado CPGE nº 02 - Fica                   Institui o Programa de Prevenção e
-IX – pedido de dispensa de interposição de recurso nos processos em que         dispensada a apresentação de defesa e         Redução de Demandas Judiciais no
-o objeto do litígio seja o fornecimento de medicamentos de alto custo, a        a interposição de recurso nos processos       âmbito da Procuradori a Geral do
-realização de exames auxili ares de di agnósti co, de internações e de          em que o objeto do litígio seja a penhora     Estado do Espírito Santo.
-procedimentos cirúrgicos.                                                       115 realizada sobre bem imóvel objeto
-                                                                                de compromisso de compra e venda              Art. 1º. Fica instituído o Programa de
-Art. 10. Os Enunciados Administrativos serão publicados no Diário Oficial e     veiculado em instrumento público, ainda       Prevenção e Redução de Demandas
-no sítio oficial da Procuradoria Geral do Estado na Internet, sem prejuízo de   que não registrado, ressalvada as             Judi ci ai s do, co m o objeti vo de
-outras medidas que homenageiem o princípio da publicidade.                      hipóteses de fraude à execução e de           prevenir e reduzir as ações ajuizadas
-                                                                                fraude contra credores.                       contra o Estado do Espírito Santo.
-Art. 11. Esta Portaria entra em vigor na data de sua publicação.
-                                                                                Enun ciado C PGE nº 03 - Fi ca                Parágrafo único. O Programa de
-Art. 12. Ficam revogadas as disposições em contrário, especialmente a           dispensada a apresentação de defesa           q ue trata o cap ut d este arti g o
-Portaria 13-S de 15 de fevereiro de 2006 e a Portaria 099-S de 04 de            e a i nterposi ção de recurso nos             co nsi sti rá na i d enti fi cação d e
-Dezembro de 2009.                                                               processos em que o objeto do litígio          conflitos jurídicos em matérias da
-                                                                                seja a cobrança da contri bui ção             área de atuação da Procuradori a
-                   Vitória/ES, em 20 de maio de 2010.                           previdenciária: / I - de 10% (dez por         Geral do Estado do Espírito Santo,
-                                                                                cento) instituída pela já revogada Lei        havidos em sede administrativa ou
-                      RODRIGO RABELLO VIEIRA                                    Complementar Estadual nº 109, de              judicial que possam ser objeto de
-                    PROCURADOR GERAL DO ESTADO                                  18 de dezembro de 1997; / II -                resolução administrativa.
-                                                         Protocolo 29870        q uand o os p rovento s 125 d o s
-                                                                                inativos sejam i nferiores ao teto            Art. 2º O Programa de que trata o
-                                                                                estabelecido pela EC 41/2003.                 caput do art. 1º desta Portaria será
-                                                                                                                              executado p o r uma Co mi ssão
-                                                                                Enunciado CPGE nº 04 - Fi ca                  Permanente       co mp osta      por
-                                                                                dispensada a interposição de recurso          Procuradores designados em ato do
-                                                                                nos processos em que o objeto do litígio      Procurador Geral do Estado.
-                                                                                seja a submissão de menores de 18
-                                                                                (dezoito) anos ao exame supletivo,            Parágrafo      ú n i co .   Cab erá   à
+Edita os enunciados administrativos da Procuradoria Geral do Estado, de observância obrigatória para a Instituição:
+
+O Conselho da Procuradoria-Geral do Estado no exercício da competência que lhe é atribuída pelo art.3º, incisos X e XII, da LC nº 88/96, resolve
+
+Editar os enunciados administrativos da Procuradoria Geral do Estado em vigor nesta data, de observância obrigatória para a Instituição:
+
+**Enunciado CPGE nº 01** – Fica dispensada a apresentação de defesa e a interposição de recurso nos processos em que o objeto do litígio seja a responsabilidade 110 de sócio que, embora não integrasse o quadro social no momento da ocorrência do fato gerador, teve o seu nome incluído na Certidão de Dívida Ativa.
+
+**Enunciado CPGE nº 02** - Fica dispensada a apresentação de defesa e a interposição de recurso nos processos em que o objeto do litígio seja a penhora 115 realizada sobre bem imóvel objeto de compromisso de compra e venda veiculado em instrumento público, ainda que não registrado, ressalvadas as hipóteses de fraude à execução e de fraude contra credores.
+
+**Enunciado CPGE nº 03** - Fica dispensada a apresentação de defesa e a interposição de recurso nos processos em que o objeto do litígio seja a cobrança da contribuição previdenciária: / I - de 10% (dez por cento) instituída pela já revogada Lei Complementar Estadual nº 109, de 18 de dezembro de 1997; / II - quando os proventos 125 dos inativos sejam inferiores ao teto estabelecido pela EC 41/2003.
+
+**Enunciado CPGE nº 04** - Fica dispensada a interposição de recurso nos processos em que o objeto do litígio seja a submissão de menores de 18 (dezoito) anos ao exame supletivo, para fins de conclusão do ensino médio.
+
+**Enunciado CPGE nº 05** - Fica dispensada a interposição de recurso nos processos em que haja decisões requisitórias de pagamento de créditos de pequeno valor, desde que o valor do 135 crédito esteja correto, consoante laudo contábil expedido pela Gerência de Cálculos e Perícias da Procuradoria Geral do Estado – GCP/PGE, e esteja dentro dos limites previstos na legislação estadual que define as Obrigações de Pequeno Valor – OPV’s.
+
+**Enunciado CPGE nº 06** – Tendo o acórdão regional sido proferido no sentido 145 de que o inadimplemento das obrigações trabalhistas, por parte das prestadoras de serviço contratadas pela Administração Estadual, implica na responsabilidade subsidiária do Estado do Espírito Santo, na qualidade de tomador dos serviços, quanto àquelas obrigações, fica dispensada a interposição do recurso de revista (item IV da Súmula nº 331 TST), desde que não haja outra matéria suscetível de impugnação. A 150 dispensa de recurso de revista fica caracterizada ainda que a condenação subsidiária do tomador dos serviços abranja as multas previstas nos artigos 467 e 477, par. 8, da CLT.
+
+**Enunciado CPGE nº 07** – O artigo 1°-F da Lei n° 9.494/1997, na redação original dada pela Medida Provisória 2180-35/2001, é 155 inaplicável na condenação meramente subsidiária (Súmula 331 do C. TST), restringindo-se sua incidência às hipóteses em que a Fazenda Pública figura como devedora principal dos créditos trabalhistas reconhecidos a servidores e empregados públicos.
+
+Vitória/ES, em 20 de maio de 2010.
+
+RODRIGO RABELLO VIEIRA
+PROCURADOR GERAL DO ESTADO
+
+Protocolo 29874
+
+
+## Resolução CPGE 241/2010
+
+- **Fonte:** [Resolução CPGE 241/2010](https://pge.es.gov.br/media/docs/Resolu%C3%A7%C3%B5es%20CPGE/2010/resolucao.CPGE.241-2010%20-%2009.12.2010%20-%20Cancela%20verbete%20n%2006.pdf)
+- **Captura:** HTTP 200; 52.559 bytes; SHA-256 `72f2a45c3c692cb7d771b5b364ea15491155a4af2b8e783f7417dbac2f456b2c`; duas páginas físicas, conferidas visualmente.
+- **Relação:** artigo 1º declara cancelar o verbete 06 da Resolução 235/2010; o catálogo mantém texto para o [nº 06](pgees-en-cpge-6.md). A presença das duas fontes não resolve a situação jurídica atual.
+
+### Transcrição
+
+GOVERNO DO ESTADO DO ESPÍRITO SANTO
+PROCURADORIA GERAL DO ESTADO
+
+**Resolução CPGE nº. 241/2010, de 09 de dezembro de 2010.**
+
+Cancela o verbete n.º 06, editado pela Resolução CPGE n.º 235/2010, de modo que todas as decisões condenatórias da Justiça do Trabalho fundadas no item IV da Súmula 331 do TST devem ser impugnadas, inclusive mediante interposição de recurso de revista e recurso extraordinário.
+
+O CONSELHO DA PROCURADORIA GERAL DO ESTADO, com fundamento no artigo 3º, incisos X e XII, da LC nº 88/96
+
+Considerando que lhe compete fixar administrativamente a interpretação da Constituição, das leis, decretos, ajustes, contratos e atos normativos em geral, a ser uniformemente observada pelos órgãos e entidades da Administração Estadual;
+
+Considerando que ao apreciar o Recurso Extraordinário n.º 603397, relatado pela Ministra Ellen Gracie, o Supremo Tribunal Federal reconheceu a existência de repercussão geral do tema da responsabilidade subsidiária da Administração Pública por encargos trabalhistas em face do inadimplemento de empresa prestadora de serviço;
+
+Considerando que o Plenário do Supremo Tribunal Federal julgou procedente a Ação Declaratória de Constitucionalidade - ADC nº 16/DF, na qual se buscava a declaração de constitucionalidade do parágrafo 1º do artigo 71 da Lei nº 8.666/93 (Sessão do dia 24/11/10);
+
+Considerando que há precedentes do Supremo Tribunal Federal sufragando entendimento segundo o qual as decisões proferidas pelo Tribunal Superior do Trabalho, ao afastarem a incidência do art. 71, § 1º, da Lei n.º 8.666/93, com base no item IV da Súmula n.º 331 daquela mesma Corte, sem que tenha sido formalizado anteriormente o incidente de inconstitucionalidade, atraem a incidência do Verbete Vinculante n.º 10 da Súmula do STF;
+
+Considerando que os enunciados do Conselho da PGE são de observância obrigatória para a Instituição, não podendo os Procuradores do Estado contrariá-los (art. 4.º, *caput*, da Resolução CPGE n.º 234/2010);
+
+Considerando, por fim, as projeções do princípio da indisponibilidade do interesse público sobre o contencioso judicial do Estado;
+
+**RESOLVE**
+
+**Art. 1.º** - Cancelar o verbete n.º 06, editado pela Resolução CPGE n.º 235/2010, de modo que todas as decisões condenatórias da Justiça do Trabalho fundadas no item IV da Súmula 331 do TST devem ser impugnadas, inclusive mediante interposição de recurso de revista e recurso extraordinário.
+
+Cumpra-se.
+
+Vitória, 09 de dezembro de 2010
+
+RODRIGO RABELLO VIEIRA
+PROCURADOR GERAL DO ESTADO
+
+---
 
 ## Resolução CPGE 246
 
@@ -3784,4 +3715,4 @@ A disponibilidade do documento pode ser conferida pelo link: https://e-docs.es.g
 
 ## Limites
 
-A Resolução 354/2024 foi recuperada do portal de resoluções do CPGE (não constava entre os vínculos diretos da página de enunciados). Redações históricas anteriores comprovadas estão nos PDFs das resoluções publicadoras listadas acima; a presença no catálogo HTML atual não prova vigência. O PDF da Resolução 235/2010 (enunciados 01–07) é página única de Diário Oficial com layout em colunas; a camada textual mistura matérias adjacentes e exige leitura contextual.
+A Resolução 354/2024 foi recuperada do portal de resoluções do CPGE (não constava entre os vínculos diretos da página de enunciados). Redações históricas foram transcritas a partir dos PDFs listados acima, mas a cadeia localizada não demonstra conferência visual independente de todos eles; a presença no catálogo HTML atual não prova vigência. O PDF da Resolução 235/2010 (enunciados 01–07) é página única de Diário Oficial em colunas; seu ato foi isolado e conferido visualmente, pois a camada textual mistura matérias adjacentes.
