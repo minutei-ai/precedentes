@@ -249,3 +249,129 @@ Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <p style="font-weight: bold; background-color: #d3d3d3"></p>
 <hr/>
 <p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
+
+## Anexo oficial cotejado — SHA-256 85b8f8a12971
+
+- **Fonte:** [anexo oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=abrirAnexo&codArquivoAnexado=56531).
+- **Arquivo:** 3 páginas físicas, 136725 bytes; SHA-256 `85b8f8a12971bf55d8ed94142d6a4575a213c2f69d869d771be93342186daa1d`.
+
+Transcrição visual pessoal Sol e revisão independente integral Sol em nova execução, abrangendo cada página inteira e três faixas próprias. Vinte e uma substituições delimitadas foram aplicadas nas cópias dos três anexos, com reversão byte a byte conferida. A sequência por página é mantida, mas a disposição interna, os alinhamentos, a ordem de selos/rodapés e as quebras de linha não são diplomáticos. As descrições gráficas abaixo complementam o texto; não são palavras acrescentadas ao ato.
+
+Físicas 1–2: ORIENTAÇÃO ADMINISTRATIVA N. 45-PGE; física 3: folha eProtocolo. A caixa da física 1 diz Diário Oficial n. 10.10815 de 20/11/2020; o número peculiar permanece sem correção por coerência.
+
+Os recibos originais registram HTTP 200, HTTPS e TLS padrão, com bytes e hashes conferidos. Recaptura posterior retornou 403 e não invalida esses recibos. Nenhuma captura comprova autenticidade documental ou assinatura. Inscrições de edição/revogação, nomes, datas, protocolos e códigos de validação permanecem como dizeres da fonte; QR e destinos de validação não foram acessados. Não se inferem vigência, pertinência, identidade jurídica, revogação ou efeitos. Regiões de glifo incerto permanecem ressalvadas.
+
+### Página física 1
+
+**Descrição editorial de elementos gráficos e limites:** Brasão e cabeçalho institucional. Título em negrito ORIENTAÇÃO ADMINISTRATIVA N. 45-PGE. Caixa superior: Editado pela Resolução n. 254/2020 - PGE / Diário Oficial n. 10.10815 de 20/11/2020. Preservar 10.10815 como impresso, sem corrigir o número. Selo PROTOCOLO / Fls. 168 / Mov. 16 / INTEGRADO DO ESTADO. Quadro TEMA DE INTERESSE em negrito à esquerda, quatro células à direita: Concurso Público; Idoneidade Moral de Candidatos em Concursos Públicos; Inquéritos policiais ou processos penais em curso; STF – Recurso Extraordinário n ° 560.900 (repercussão geral). Itens 1. a 3. com numerais em negrito. Item 3 interrompido em “de forma”, continua na página seguinte. Caixa inferior com nomes funcionais, protocolo, URL e código documental em negrito.
+
+ESTADO DO PARANÁ
+Procuradoria-Geral do Estado
+Gabinete da Procuradora-Geral
+
+ORIENTAÇÃO ADMINISTRATIVA N. 45-PGE
+
+
+A **PROCURADORA-GERAL DO ESTADO**, no uso das
+atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual
+n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar
+n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de
+08 de dezembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de
+10 de setembro de 2019, e considerando o que consta no protocolo n°
+16.934.021-8, resolve expedir a seguinte orientação administrativa a todos os
+órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
+
+**TEMA DE INTERESSE**
+Concurso Público
+Idoneidade Moral de Candidatos em Concursos
+Públicos
+Inquéritos policiais ou processos penais em curso
+STF – Recurso Extraordinário n ° 560.900
+(repercussão geral)
+
+Conforme decidiu o Supremo Tribunal Federal no
+julgamento do Recurso Extraordinário n° 560.900/DF, em 06.02.2020, com
+repercussão geral reconhecida, “Sem previsão constitucionalmente adequada
+e instituída por lei, não é legítima a cláusula de edital de concurso público que
+restrinja a participação de candidato pelo simples fato de responder a inquérito
+ou ação penal.”
+
+Diante desse entendimento jurisprudencial
+consolidado, orienta-se a Administração Pública estadual no sentido de que:
+
+**1.** O edital do concurso, por si só, não se revela suficiente à restrição de
+acesso a cargos públicos, devendo refletir o que está previsto na
+Constituição Federal e em eventual lei editada com tal finalidade.
+
+**2.** Em razão do princípio da presunção de inocência, é inconstitucional a
+inclusão de cláusula no edital do concurso público que restrinja a
+participação de candidato pela mera condição de investigado em
+inquérito policial, ou processado, em processo criminal.
+
+**3.** Por aplicação direta do princípio da moralidade administrativa, admite-se
+a eliminação de candidatos em concursos públicos se houver trânsito em
+julgado de sentença penal condenatória ou, ao menos, de forma
+168
+16
+Assinado digitalmente por: Leticia Ferreira da Silva em 19/11/2020 10:45. Inserido ao protocolo 16.934.021-8 por: Viviane Maria de Lara da Silva em: 18/11/2020 10:40.
+Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
+https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: b8828e40966b2e8233ac7ca086f4f3bd.
+
+### Página física 2
+
+**Descrição editorial de elementos gráficos e limites:** Brasão e cabeçalho institucional. Selo PROTOCOLO / Fls. 169 / Mov. 16 / INTEGRADO DO ESTADO. Continuação do item 3 iniciada “cumulativa, (a)”. Quebra após “atribuições do cargo” preservada, antes de “concretamente pretendido”. Itens 4. a 6. com numerais em negrito. REFERÊNCIAS e PUBLIQUE-SE. ANOTE-SE. em negrito; caput normal nesta peça. Data Curitiba, 17 de novembro de 2020. Nome Leticia Ferreira da Silva em negrito, cargo normal. Caixa inferior de assinatura integral; data própria do ato não substituída pela data da assinatura.
+
+ESTADO DO PARANÁ
+Procuradoria-Geral do Estado
+Gabinete da Procuradora-Geral
+
+cumulativa, (a) condenação por órgão colegiado ou definitiva e (b)
+relação de incompatibilidade entre a natureza do crime supostamente
+praticado e as atribuições do cargo
+concretamente pretendido, cabendo à autoridade competente a
+demonstração de forma motivada no caso concreto.
+
+**4.** Submete-se à reserva legal (lei em sentido estrito) a instituição de
+requisitos mais rigorosos para determinados cargos, em razão da
+relevância das atribuições envolvidas, sendo vedada, em qualquer caso,
+a valoração negativa de simples inquérito ou processo em andamento,
+salvo situações excepcionalíssimas e de indiscutível gravidade.
+
+**5.** Ao candidato eliminado deve ser garantida a possibilidade de apresentar
+recurso, ainda no decorrer do concurso, em atenção à ampla defesa e ao
+contraditório, cuja resposta deverá ser motivada pela autoridade
+responsável pelo certame.
+
+**6.** Por força do princípio da segurança jurídica, a orientação firmada não se
+aplica a certames já realizados e que não tenham sido objeto de
+impugnação até a data do trânsito em julgado do RE n° 560.900
+(01.09.2020).
+
+**REFERÊNCIAS:** Constituição Federal, art. 5°, XIII c/c LVII; art. 37, caput c/c I e
+II; Recurso Extraordinário n° 560.900 (STF, repercussão geral).
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+Curitiba, 17 de novembro de 2020.
+
+**Leticia Ferreira da Silva**
+Procuradora-Geral do Estado
+169
+16
+Assinado digitalmente por: Leticia Ferreira da Silva em 19/11/2020 10:45. Inserido ao protocolo 16.934.021-8 por: Viviane Maria de Lara da Silva em: 18/11/2020 10:40.
+Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016. A autenticidade deste documento pode ser validada no endereço:
+https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: b8828e40966b2e8233ac7ca086f4f3bd.
+
+### Página física 3
+
+**Descrição editorial de elementos gráficos e limites:** Peça acessória ePROTOCOLO; moldura retangular, branco central e QR inferior esquerdo não decodificado. Selo PROTOCOLO / Fls. 169a / Mov. 16 / INTEGRADO DO ESTADO. Documento em negrito: 04516.934.0218REMETEARESTRICAOPOSTAAOSCANDQUERESPAPROCCRIMEXISTENCIADEDENUNCIACRIMINALDESP.1.117.pdf. Nome Leticia Ferreira da Silva em negrito; assinatura em 19/11/2020 10:45. Protocolo 16.934.021-8 e nome Viviane Maria de Lara da Silva em negrito; inserção em 18/11/2020 10:40. URL e código documental em negrito no rodapé. Nenhuma validação de assinatura realizada.
+
+169a
+16
+Documento: 04516.934.0218REMETEARESTRICAOPOSTAAOSCANDQUERESPAPROCCRIMEXISTENCIADEDENUNCIACRIMINALDESP.1.117.pdf.
+Assinado digitalmente por: Leticia Ferreira da Silva em 19/11/2020 10:45.
+Inserido ao protocolo 16.934.021-8 por: Viviane Maria de Lara da Silva em: 18/11/2020 10:40.
+Documento assinado nos termos do art. 18 do Decreto Estadual 5389/2016.
+A autenticidade deste documento pode ser validada no endereço:
+https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
+b8828e40966b2e8233ac7ca086f4f3bd.
