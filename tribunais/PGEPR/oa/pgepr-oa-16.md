@@ -14,7 +14,11 @@
 - **Capturas:** HTTP 200 em 04/11/2026; 24957052 bytes; SHA-256 `01cd0ecae6e52907e6a2901d69a2198147c01ca9f943dc703689471c9fbc6ec0`
 - **Captura do catálogo:** HTTP 200; 176692 bytes; SHA-256 `dca05a584057cdec29ee9a062ae6782487f7772f65db79a7e9bef12b59193b17`
 
-## Texto da Orientação (Resolução PGE 051/2026 / anexo DOCX)
+## Minuta DOCX separada da redação atribuída à Resolução
+
+A [minuta DOCX foi transcrita e cotejada em duas páginas locais](complementos/minuta-oa16-2026.md), mantendo os campos de dia, mês e signatário em branco. O novo cotejo não preenche esses campos a partir da Resolução 051/2026. A redação abaixo foi atribuída à resolução na captura anterior; não recebeu novo cotejo integral dessa fonte nesta etapa. O fecho abaixo não pertence à minuta em branco.
+
+## Redação atribuída à Resolução na captura anterior
 
 ORIENTAÇÃO ADMINISTRATIVA N.º 16 - PGE
 

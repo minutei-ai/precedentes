@@ -21,7 +21,7 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | Nº | Registro | Nota do catálogo | Disponibilidade textual |
 | ---: | --- | --- | --- |
 | 1 | [pgepr-oa-1](pgepr-oa-1.md) | Substituída pela Orientação n° 068/2022-PGE | Texto publicado; conferir limites da ficha |
-| 2 | [pgepr-oa-2](pgepr-oa-2.md) | Substituída pela Orientação n° 069/2022-PGE | Texto publicado; conferir limites da ficha |
+| 2 | [pgepr-oa-2](pgepr-oa-2.md) | Substituída pela Orientação n° 069/2022-PGE | Corpo histórico 002/2016 em três páginas cotejadas |
 | 3 | [pgepr-oa-3](pgepr-oa-3.md) | Substituída pela Orientação n° 070/2022-PGE Substituída pela Orientação n° 071/PGE | Texto publicado; conferir limites da ficha |
 | 4 | [pgepr-oa-4](pgepr-oa-4.md) | PDF | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 5 | [pgepr-oa-5](pgepr-oa-5.md) | Substituída pela Orientação n° 072/2022-PGE | Texto publicado; conferir limites da ficha |
@@ -134,3 +134,5 @@ O lote 8 incorporou 19 páginas de dez PDFs, referentes às OA 75–84, após re
 As partes 9 e 11 incorporaram 26 páginas de onze PDFs, OA 85–94 e 103, após revisão independente integral Astra. Uma correção literal no nome documental da folha ePROTOCOLO da OA 85 foi aplicada; os originais privados foram preservados. A Resolução 219/2026 e sua folha de assinatura permanecem separadas. Sem novos IDs: os recortes revistos totalizam 177 páginas em 82 PDFs, com vinte páginas disponíveis de seis PDFs da parte 10 ainda pendentes, além das lacunas de aquisição e recuperação histórica.
 
 A parte 10 incorporou vinte páginas de seis PDFs, OA 95–97, 99, 101 e 102, após revisão independente integral Astra, sem substituições necessárias. A folha 4 da OA 101 é continuação e fecho, não folha ePROTOCOLO autônoma. Os recortes revistos totalizam 197 páginas em 88 PDFs disponíveis. Essa cobertura não encerra as pendências de aquisição de anexos e recuperação histórica da #256. Nenhum ID novo.
+
+A OA 002/2016 teve seu corpo histórico próprio recuperado em três páginas e cotejado em revisão independente Astra. A minuta DOCX vinculada à OA 16 recebeu transcrição e revisão independente em duas páginas locais, separada da redação atribuída à Resolução 051/2026 e mantendo os campos em branco. Os recortes revistos somam 200 páginas de 89 PDFs distintos, além desse DOCX com duas páginas de renderização local. Fontes históricas recém-capturadas e demais atos/anexos continuam em revisão; não há aceite global da #256 ou novo ID.
