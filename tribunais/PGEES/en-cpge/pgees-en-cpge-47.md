@@ -51,3 +51,7 @@ Procurador-Geral do Estado
 ## Conferência e limites
 
 Transcrição do bloco numerado da página oficial, incluindo o cabeçalho literal, as notas e os fechos quando publicados. Normalizaram-se espaços, quebras de linha e apresentação: negrito e itálico foram reduzidos a texto; quebras `br` e parágrafos foram separados por linha em branco; marcadores de listas HTML foram explicitados. Tags inline foram concatenadas sem inserir espaços inexistentes. Os vínculos do bloco, quando presentes, são listados separadamente; seus documentos não foram lidos nesta coleta. Não houve PDF ou OCR usado na transcrição. Referências normativas não foram atualizadas. Ausência de nota não confirma vigência, força vinculante ou exaustividade.
+
+## Ato de edição em documento separado
+
+A [Resolução CPGE nº 331/2023](resolucao-cpge-331-2023.md) traz o ato de edição e o enunciado em documento DOC, com apresentação e fecho próprios. O texto do catálogo HTML acima permanece preservado.
