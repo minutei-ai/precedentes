@@ -370,3 +370,57 @@ Publicado no <a href='https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <hr/>
 
 <p style="color:red; font-style:italic">Este texto n&atilde;o substitui o publicado no Di&aacute;rio Oficial do Estado</p>
+
+## Recorte do diário — Resolução nº 191/2017-PGE, SHA-256 f6c705902896
+
+- **Fonte:** [diário oficial](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=7783&numero=9962).
+- **Recorte:** página física 5 de PDF com 68 páginas; SHA-256 `f6c705902896f21b48d6acff5506c45fa6ff1d2b22d88c21a63fde42846cd810`; 5823257 bytes.
+
+Transcrição visual pessoal Sol e revisão independente integral Astra do bloco pertinente, com imagens próprias e faixas ampliadas. Doze substituições foram aplicadas no conjunto das cinco resoluções, com reversão conferida. Tabelas representam células mescladas, sem certificar dimensões, alinhamentos ou desenho de fontes. Quebras e disposição não são diplomáticas. Rótulos Código impresso e suas pontuações de identificação são editoriais; o valor e seu destaque foram cotejados. Glifos elevados foram inspecionados visualmente, sem certificar identidade de codepoints º/°/o.
+
+Resolução nº 191/2017-PGE, que imprime a Orientação Administrativa nº 12. O trecho pertinente termina no topo da coluna direita da mesma física. As áreas alheias ocultadas não foram revalidadas como atos ou nomes de órgãos. A aspas inicial em TEMA DE INTERESSE e as grafias das referências permanecem.
+
+Recibos originais HTTP200/HTTPS/TLS padrão, bytes e hashes correspondentes foram conferidos, sem nova conexão. Isso documenta integridade da captura e não autentica juridicamente documento ou assinatura. Dizeres de edição, publicação, republicação e vigor são transcrição, sem inferência própria de vigência ou efeito. Referências externas não foram seguidas. Não se afirma conteúdo das áreas ocultadas ou ausência de ato em toda a página.
+
+### Resolução nº 191/2017-PGE
+
+Altera a redação dos itens b.3 e b.4 da Orientação Administrativa nº 12.
+
+O **PROCURADOR-GERAL DO ESTADO**, no uso das atribuições que lhe conferem o inciso VI, do artigo 44, da Lei nº 8.485, de 3 de junho de 1987; a Lei Complementar nº 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987; o art. 8° e inciso X do art. 20, ambos do Decreto Estadual n° 2.137, de 12 de agosto de 2015; considerando o que consta no processo n° 14.264.564-5,
+
+**RESOLVE:**
+
+**Art. 1º.** Alterar a redação dos itens b.3 e b.4 da Orientação Administrativa nº 12, conforme transcrita integralmente abaixo:
+
+<table>
+<tr><th rowspan="3">"TEMA DE INTERESSE</th><td>Servidores públicos</td></tr>
+<tr><td>Licença especial não gozada</td></tr>
+<tr><td>Direito dos servidores inativos ao recebimento em pecúnia de licenças especiais não gozadas em atividade</td></tr>
+</table>
+
+a) O servidor público inativo tem direito a ser indenizado mediante conversão em pecúnia da licença especial não gozada enquanto em atividade, independente de previsão legal, sob pena de restar caracterizado o enriquecimento ilícito do Estado.
+
+b) Em respeito aos princípios da legalidade, impessoalidade, eficiência e economicidade, a fim de assegurar o respeito à lei e aos direitos dos servidores e de evitar a incidência de juros de mora e outros encargos, com o consequente incremento do passivo judicial do Estado do Paraná, orienta-se a Administração Pública estadual a adotar as seguintes medidas:
+
+b. 1) É recomendável que no início de cada ano as unidades gestoras de recursos humanos da Administração estadual elaborem um planejamento para a concessão de licenças especiais aos servidores que irão preencher os requisitos para a aposentadoria voluntária ou compulsória nos 05 (cinco) anos seguintes.
+
+b.2) As unidades gestoras de recursos humanos da Administração estadual deverão adotar todas as medidas à sua disposição, observado o interesse público e as necessidades do serviço, a fim de assegurar a fruição tempestiva das licenças especiais adquiridas pelos servidores públicos.
+
+b.3) Verificada a existência de licença especial não gozada, a Administração estadual tem a obrigação, quando da passagem do servidor titular de cargo público efetivo para a inatividade, **observada a existência de disponibilidade orçamentária e financeira,** de pagar ao servidor o valor correspondente em pecúnia, a título indenizatório.
+
+b.4) Os órgãos da Administração estadual responsáveis pelo planejamento e execução orçamentária e as unidades gestoras de recursos humanos deverão adotar as medidas necessárias, **observada a disponibilidade orçamentária e financeira existente,** a que o pagamento mencionado no item b.3 ocorra no mesmo exercício financeiro em que ocorrer a passagem do servidor para a inatividade.
+
+**REFERÊNCIAS:** Constituição Federal, art. 37; Constituição Estadual, art. 27; Lei Estadual nº 6.174/1970; Código Civil, art. 884; STF, Ag. Reg. no Recurso Extraordinário com Agravo nº 832.331/RS, 1ª Turma, Rel. Rosa Weber. j. 04.11.2014; TJPR, AC 1415020-4, Rel.: Salvatore Antonio Astuti, J. 01.03.2016; TJPR, AC 1474120-3, Rel.: Fabio Andres Santos Muniz, J. 23.02.2016; TJPR, ACR 1387632-1, Rel.: Ruy Cunha Sobrinho, J. 16.02.2016; TJPR, ACR 1398770-3, Rel.: Guimarães da Costa, J. 23.02.2016; TJPR - 3ª Turma Recursal, 0019149-75.2015.8.16.0182/0, Rel.: Daniel Tempski Ferreira da Costa, J. 19.02.2016; TJPR - 3ª Turma Recursal, 0010908-15.2015.8.16.0182/0, Rel.: GIANI MARIA MORESCHI, J. 18.02.2016."
+
+[Continua no topo da coluna direita da mesma física.]
+
+**Art. 2º.** Esta Resolução entrará em vigor na data de sua publicação.
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+Curitiba, 05 de junho de 2017.
+
+Paulo Sérgio Rosso\
+**Procurador-Geral do Estado**
+
+Código impresso: **49959/2017**.

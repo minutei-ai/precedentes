@@ -110,3 +110,43 @@ Publicado no <a href='https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <hr/>
 
 <p style="color:red; font-style:italic">Este texto n&atilde;o substitui o publicado no Di&aacute;rio Oficial do Estado</p>
+
+## Recorte do diário — Resolução nº 051/2026-PGE, SHA-256 57fd9bf06072
+
+- **Fonte:** [diário oficial](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=16661&numero=12097).
+- **Recorte:** página física 7 de PDF com 105 páginas; SHA-256 `57fd9bf0607238eefabff5bac4b1bdea8a0cc5a6cf3d943171f9f8ca5a0e42b5`; 16913750 bytes.
+
+Transcrição visual pessoal Sol e revisão independente integral Astra do bloco pertinente, com imagens próprias e faixas ampliadas. Doze substituições foram aplicadas no conjunto das cinco resoluções, com reversão conferida. Tabelas representam células mescladas, sem certificar dimensões, alinhamentos ou desenho de fontes. Quebras e disposição não são diplomáticas. Rótulos Código impresso e suas pontuações de identificação são editoriais; o valor e seu destaque foram cotejados. Glifos elevados foram inspecionados visualmente, sem certificar identidade de codepoints º/°/o.
+
+Resolução nº 051/2026-PGE, com OA 16 e cinco itens. A Portaria 011 e a Resolução 50 vizinhas foram delimitadas, sem transcrição integral de seus conteúdos. O fechamento desta resolução foi recuperado e cotejado em nova imagem. Não se certificam os campos pessoais ocultados de atos alheios.
+
+Recibos originais HTTP200/HTTPS/TLS padrão, bytes e hashes correspondentes foram conferidos, sem nova conexão. Isso documenta integridade da captura e não autentica juridicamente documento ou assinatura. Dizeres de edição, publicação, republicação e vigor são transcrição, sem inferência própria de vigência ou efeito. Referências externas não foram seguidas. Não se afirma conteúdo das áreas ocultadas ou ausência de ato em toda a página.
+
+### Resolução nº 051/2026-PGE
+
+Dá nova redação à Orientação Administrativa n.º 16
+
+**O PROCURADOR-GERAL DO ESTADO**, no uso das atribuições que lhe conferem o inciso VI do art. 44 da Lei n.º 8.485, de 3 de junho de 1987; a Lei Complementar n.º 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n.º 40, de 8 de dezembro de 1987; o art. 8.º e o inciso X do art. 20, ambos do Decreto Estadual n.º 2.137, de 12 de agosto de 2015; resolve expedir a seguinte Orientação Administrativa a todos os órgãos e entidades da Administração Pública estadual, Direta e Autárquica:
+
+<table>
+<tr><th rowspan="3">TEMA DE INTERESSE</th><td>Sigilo Fiscal</td></tr>
+<tr><td>Sigilo Fiscal e acesso à informação</td></tr>
+<tr><td>Situações que configuram ou não violação ao dever de sigilo fiscal</td></tr>
+</table>
+
+1. Não configura violação ao dever de sigilo fiscal o fornecimento, por agente da Administração Tributária, mediante pedido fundamentado, de todas as informações referentes à dívida ativa inscrita em nome de determinado sujeito passivo, incluindo-se, aqui, o nome completo do devedor e o número de inscrição no CPF ou no CNPJ.
+2. Não configura violação ao dever de sigilo fiscal o fornecimento, por agente da Administração Tributária, de Termo de Compromisso de Benefício Fiscal ou instrumento congênere, ressalvado o direito à ocultação das eventuais cláusulas que possibilitem o conhecimento acerca da situação econômica ou financeira do devedor ou de terceiros e a natureza e o estado de seus negócios ou atividades.
+3. Não configura violação ao dever de sigilo fiscal o fornecimento, a pedido da Presidência do Tribunal Regional Eleitoral, de notas fiscais (físicas ou eletrônicas) emitidas por sujeito passivo de alguma maneira relacionado ao pleito eleitoral, desde que o pedido seja feito em conformidade com o previsto no art. 94, § 3.º, da Lei Federal n.º 9.504, de 30 de setembro de 1997.
+4. Não configura violação ao dever de sigilo fiscal o fornecimento, por agente da Administração Tributária, de notas fiscais (físicas ou eletrônicas) relativas às compras públicas realizadas pelo Estado.
+5. Os atos praticados no curso de Processo Administrativo Fiscal, independentemente do valor discutido no feito, são públicos, resguardado o sigilo dos atos e documentos que digam respeito à situação econômica ou financeira do sujeito passivo ou de terceiros e à natureza e ao estado de seus negócios ou atividades.
+
+**REFERÊNCIAS:** Constituição Federal, art. 37; Código Tributário Nacional, art. 198; Lei Federal n.º 12.527/2011; Lei Federal n.º 9.504/1997; Lei Federal n.º 8.666/1993; Lei Complementar Estadual n.º 107/2005; Lei Estadual n.º 15.608/2007.
+
+**PUBLIQUE-SE. ANOTE-SE**
+
+Curitiba, *datado e assinado eletronicamente*.
+
+**Luciano Borges dos Santos**\
+Procurador-Geral do Estado
+
+Código impresso: **24220/2026**. A ausência de ponto final depois de ANOTE-SE foi mantida.
