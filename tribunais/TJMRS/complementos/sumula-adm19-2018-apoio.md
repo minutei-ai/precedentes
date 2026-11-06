@@ -56,3 +56,5 @@ O Tribunal aprova, por unanimidade, a Resolução nº 204, de 06 de junho de 201
 **Presidente**
 
 Avenida Praia de Belas nº 799, Porto Alegre/RS, CEP 90110-001, fone 3214-1000 – www.tjm.rs.gov.br
+
+Atualização documental: a [Resolução 204/2018 foi recuperada separadamente em duas páginas](resolucao204-2018-eproc.md), após transcrição visual e revisão independente integral. Este documento permanece peça distinta.

@@ -21,4 +21,11 @@ Treze páginas de seis PDFs foram integradas após cotejo independente integral 
 - [Ato Normativo 002/TJM republicado: cadastro eproc](ato002-tjm-res204-2018-republicado.md).
 - [Resolução 209/2018: apreendidos](resolucao209-2018-apreendidos.md).
 
-As duas páginas restantes da faixa, 36/Adm/2018 (próxima vaga de concurso) e 24/Adm/2018 (pagamento ao IPERGS), foram revistas integralmente e classificadas como gestão concreta; não foram publicadas como precedentes ou apoio de série jurisprudencial. A ADI apenas citada na 24 não foi recuperada por essa menção. O inteiro teor da Resolução 204 continua pendente: seu arquivo associado contém ato distinto.
+As duas páginas restantes da faixa, 36/Adm/2018 (próxima vaga de concurso) e 24/Adm/2018 (pagamento ao IPERGS), foram revistas integralmente e classificadas como gestão concreta; não foram publicadas como precedentes ou apoio de série jurisprudencial. A ADI apenas citada na 24 não foi recuperada por essa menção. Na integração de P01, o arquivo associado à Resolução 204 continha ato distinto; a recuperação posterior da resolução está documentada abaixo.
+
+## Resolução recuperada e classificação adicional
+
+- [Resolução 204/2018: implantação do eproc, duas páginas](resolucao204-2018-eproc.md), distinta do Ato 002.
+- [Classificação de onze registros administrativos da faixa P02](classificacao-p02.md), sem promoção a precedentes e com atos integrais referidos ainda pendentes.
+
+No catálogo de 57 documentos administrativos, 17 páginas estão cotejadas nesta cadeia (uma anterior, cinco de P01 e onze de P02); 40 entradas de gestão permanecem sem cotejo integral. A classificação não encerra o inventário judicial nem a #235.

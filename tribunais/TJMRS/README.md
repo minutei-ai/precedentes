@@ -11,7 +11,9 @@ Séries próprias do tribunal, distintas do TJRS, do TJMSP, do TJMMG e do STM. A
 
 ## Limites do inventário
 
-Reconsulta de 05/11/2026 ao catálogo e ao PDF da Súmula 1 corroborou o registro publicado. Os 57 documentos administrativos do catálogo foram capturados, extraídos e triados por assunto. Apenas a Súmula 01/Adm/2018, que contém diretriz procedimental geral, teve uma página integralmente cotejada em imagem e foi integrada na série administrativa. As outras 56 entradas não foram somadas como precedentes nem certificadas palavra por palavra. A busca de jurisprudência anuncia arguição de inconstitucionalidade, IAC, súmula e uniformização, mas exige reCAPTCHA e não forneceu inventário de resultados na resposta GET. Não se afirma ausência dessas séries. A enumeração oficial dos resultados e a leitura dos documentos identificados permanecem em #235.
+Reconsulta ao catálogo e ao PDF da Súmula 1 corroborou o registro publicado. Dos 57 documentos administrativos capturados, 17 páginas foram cotejadas integralmente nesta cadeia: a 01/Adm/2018 integrada como diretriz procedimental, cinco páginas da faixa P01 e onze da P02. P01 contém apoio processual e duas decisões de gestão concreta; P02 contém registros administrativos de normas, sem julgamento judicial demonstrado. As outras 40 entradas, triadas como gestão, permanecem sem cotejo integral. Não foram somadas como precedentes. [Classificação e fontes delimitadas](complementos/classificacao-p02.md).
+
+A [Resolução 204/2018 foi recuperada e cotejada em duas páginas](complementos/resolucao204-2018-eproc.md), separada do Ato Normativo 002/TJM republicado. Registros de aprovação dos demais atos não substituem suas íntegras. A busca de jurisprudência exige reCAPTCHA e não forneceu enumeração completa na resposta GET; não se afirma ausência de séries judiciais. As íntegras processuais, fontes vinculadas e demais faixas da #235 continuam pendentes.
 
 ## Apoio documental adicional
 

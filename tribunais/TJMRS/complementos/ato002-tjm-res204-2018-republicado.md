@@ -80,3 +80,5 @@ Disponibilizada no Diário da Justiça Eletrônico n.º 6.359, de 01 de outubro 
 **100 anos do TJM – 170 da JME**
 
 [Logomarca: Justiça Militar]
+
+Atualização documental: a [Resolução 204/2018 foi recuperada separadamente em duas páginas](resolucao204-2018-eproc.md), após transcrição visual e revisão independente integral. Este documento permanece peça distinta.
