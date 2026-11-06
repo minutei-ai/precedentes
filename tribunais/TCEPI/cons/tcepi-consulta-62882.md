@@ -298,4 +298,8 @@ CONTROLE EXTERNO. DIREITO ADMINISTRATIVO. CONSULTA. CONSULTA ACERCA DA POSSIBILI
 
 [003509-2026](https://www.tcepi.tc.br/wp-content/uploads/2026/08/003509-2026.pdf)
 
+[Acordão 515-2026 – TC-010182-2026 – EMBARGOS DE DECLARAÇÃO DE CONSULTA](https://www.tcepi.tc.br/wp-content/uploads/2026/08/Acordao-515-2026-TC-010182-2026-EMBARGOS-DE-DECLARACAO-DE-CONSULTA.pdf)
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Nota documental: o segundo link acima, com o rótulo literal de embargos, foi conferido no HTML capturado do catálogo. O teor desse PDF e seus efeitos não foram cotejados por esta revisão de campos HTML. A referência não acrescenta novo precedente ou ID.

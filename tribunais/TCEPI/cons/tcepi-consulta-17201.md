@@ -10,7 +10,7 @@
 
 ## Informações do catálogo oficial
 
-Título literal da publicação: Câmara Municipal. Ônus com pagamento de vereador licenciado para exercer o cargo de secretário municipal. (2005). Identificador da publicação no portal: post-17201. [Abrir a ficha oficial](https://www.tcepi.tc.br/camara-municipal-onus-com-pagamento-de-vereador-licenciado-para-exercer-o-cargo-de-secretario-municipal-2005/).
+Título literal da publicação: Câmara Municipal. Ônus  com pagamento de vereador licenciado para exercer o cargo de secretário municipal. (2005). Identificador da publicação no portal: post-17201. [Abrir a ficha oficial](https://www.tcepi.tc.br/camara-municipal-onus-com-pagamento-de-vereador-licenciado-para-exercer-o-cargo-de-secretario-municipal-2005/).
 
 Data apresentada na ficha: 5 de março de 2018 11:45. O título e o identificador da publicação não foram convertidos em número de processo. Datas de página, julgamento e publicação nos documentos permanecem distintas; a presença no catálogo não comprova vigência.
 

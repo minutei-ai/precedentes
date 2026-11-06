@@ -397,3 +397,11 @@ Em 05/11/2026, a classificação contextual dos 98 flags restantes separou 88 fa
 [Recortes contextuais da compilação até 2007](complementos/compilacao-ate-2007-recortes.md): páginas 2–5, 7–12 e 14–16 cotejadas integralmente, sem criação de consultas ou atribuição automática dos quadros às fichas que compartilham o PDF. Os votos de 15976 e 16230 têm três páginas incorporadas em cada ficha, separadas dos respectivos acórdãos. Demais fontes e atos continuam pendentes.
 
 Dois posts adicionais foram identificados na paginação capturada do catálogo em 05/11/2026: 64041 e 64193. Os respectivos HTML e onze páginas PDF (6 + 5) foram transcritos e revisados integralmente por imagem, preservadas variantes, peças e ocultações pessoais. A captura de 39 páginas contém 390 posts distintos: 389 consultas com ID e o alias 17231 já vinculado à ficha 16118, sem criar ID para esse alias. Essa enumeração é delimitada à captura e não certifica completude histórica ou as demais fontes.
+
+## Cotejo dos campos HTML da captura individual
+
+Foram lidos integralmente e submetidos a revisão independente Sol os campos de 389 posts individuais da captura anterior: título, data, todos os parágrafos/divs do corpo e rótulos/destinos das âncoras. Os recortes incluem 387 posts de consultas, o alias 17231 já mantido na ficha 16118 e a Nota Técnica 01/2023 relacionada (41779), sem ficha de consulta autônoma. Os dois posts adicionais 64041/64193 foram tratados em integração própria; esta contagem não é intercambiável com a lista de categoria de outra captura.
+
+Aplicados quatro ajustes públicos delimitados: espaço duplo do título literal de 17201, retirada de ponto acrescentado na ementa de 61717, duas quebras de linha explícitas da 59062 e segundo link de embargos da 62882. Dois ajustes de apresentação de candidatas privadas ficaram apenas em cópias de exportação; fontes e candidatas originais foram preservadas. Grafias do catálogo e avisos de suspensão/prejuízo continuam atribuídos à fonte, sem harmonizar com identidade ou teor de PDFs.
+
+O cotejo de HTML não certifica corpos PDF, DOCX ou atos vinculados, pertinência de folhas, vigência ou completude do portal. As filas documentais e lacunas da #201 permanecem abertas. Nenhum novo ID.
