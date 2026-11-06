@@ -379,3 +379,78 @@ Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021.
 A autenticidade deste documento pode ser validada no endereço:
 https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código:
 3001f9978b1f278512a88ce72ebb5ff6.
+
+## Reprodução no Diário — físicas 6–7; revisão de 06/11/2026
+
+Fonte: [Diário oficial, edição 10999](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=12063&numero=10999). PDF local de 90 páginas, 10.030.056 bytes, SHA-256 `7fe24b08982ac520f9f5ccbc6cc4b4814cc2e8909302d045fac3994644a4a190`, conferido com recibos HTTP 200/TLS padrão. Aquisição e integridade não autenticam o ato.
+
+A física 6 imprime Resolução nº 152/2021-PGE e OA48. O item 4 continua na coluna esquerda da física 7: “Por esta razão,” / “quaisquer atos de comunicação”. Referências, artigo 2º e fecho foram lidos nessa continuação. O fecho imprime “Curitiba, datado e assinado digitalmente.”, sem data explícita; nenhuma data foi completada pelo catálogo. A revogação da Resolução 035/2020-PGE é redação transcrita, sem conclusão própria sobre sua eficácia. O vínculo do portal também com OA39 não atribui esta publicação àquela orientação.
+
+Transcrição pessoal do pai seguida de nova revisão independente Astra em recortes contínuos de toda a tinta dos dois blocos, com páginas sanitizadas inteiras e faixas ampliadas. Corrigidas quatro leituras: art. 37 no item 4, inciso I em duas referências e o traço “I” antes do ponto final das referências. Acrescidos três negritos confirmados. Sete propostas aplicadas em duas cópias privadas reversíveis. A leitura de “I” preserva tinta observada, sem certificar codepoint ou significado. A diferença 5.940 no corpo/5.944 nas referências e “promoção do ato de bravura” foram mantidas.
+
+O quadro de tema foi linearizado; palavras conferidas, geometria de duas colunas e bordas não reproduzida. Títulos, marcadores e ênfases foram cotejados, sem equivalência de fac-símile, desenho de fontes ou codepoints ordinais. A primeira leitura do pai usou caixas de palavras e omitiu parte dos inícios na física 7; janela ampliada e relida antes de gravar. Na física 6, máscara inicial suprimiu números documentais, recuperados após delimitação do bloco. Falhas de leitura e delimitação preservadas. A revisão independente usou regiões contínuas; não há alegação de toda a tinta do Diário lida.
+
+Somente físicas 6–7 examinadas neste acréscimo. Localizadores 65, 70 e 90 permanecem pendentes; navegação nativa posterior não é prova de classificação nem ausência. Atos vizinhos excluídos, sem novos IDs. Nome/cargo funcional e código de publicação foram mantidos no contexto impresso, sem validar assinatura. Sem OCR ou camada nativa como autoridade textual. Não se certificam autenticidade, vigência, revogação efetiva, efeitos jurídicos, completude da série ou identidade geral impressa do Diário. Texto anterior mantido como ocorrência própria, sem conciliar variantes.
+
+### Física 6 — início
+
+**Procuradoria Geral do Estado**
+
+**Resolução nº 152/2021-PGE**
+
+Edita a Orientação Administrativa nº 48/PGE e Revoga a Resolução 035/2020-PGE
+
+A **PROCURADORA-GERAL DO ESTADO**, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual nº 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar nº 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987 e inciso IX do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo nº 17.954.732-5,
+
+**RESOLVE:**
+
+**Art. 1.º** Expedir a Orientação Administrativa n.º 48/PGE a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
+
+**TEMA DE INTERESSE**
+
+MILITARES
+
+Promoção na carreira
+
+O ato administrativo funcional de promoção só se perfectibiliza com o preenchimento de todos os requisitos legais, pressupondo a existência de vagas na classe superior e a respectiva disponibilidade orçamentária e financeira.
+
+Os efeitos funcionais e financeiros da promoção só têm início com a publicação do ato de concessão na imprensa oficial (Diário Oficial do Estado do Paraná), sendo vedada a atribuição de efeitos retroativos, nos termos da Lei Complementar Estadual nº 231/2020.
+
+**1.** A promoção na carreira depende da edição de ato administrativo concessivo, além de pressupor o preenchimento de todos os requisitos legais e a respectiva disponibilidade orçamentária e financeira, vedada a atribuição de efeitos retroativos, nos termos da Constituição Federal, da Lei Complementar Federal nº 101/2000 (Lei de Responsabilidade Fiscal), da Lei Complementar Estadual nº 231/2020 e do Decreto Estadual nº 3.169/2019.
+
+**2.** Os militares, nas hipóteses específicas nas quais havia previsão legal de efeitos retroativos, que, de fato, preencheram todos os requisitos legais para tanto antes da entrada em vigor da Lei Complementar Estadual nº 231/2020, poderão ter seus desenvolvimentos funcionais implementados nos termos da legislação anteriormente vigente, desde que se trate de mera inclusão em folha de pagamentos.
+
+**3.** Depende da observância prévia ao disposto no art. 33, do Decreto Estadual nº 3.169/2019, a realização de despesas com promoções, de quaisquer naturezas, independentemente do valor. Uma vez observado todo o rito estabelecido no referido dispositivo, o expediente estará apto a ser encaminhado ao Chefe do Poder Executivo para elaboração e publicação de decreto, o qual configura o ato concessivo da promoção.
+
+**4.** Os efeitos funcionais e financeiros da promoção só têm início com a publicação do ato concessivo na imprensa oficial (Diário Oficial do Estado do Paraná), nos termos do art. 37, *caput*, da Constituição Federal, da Lei Complementar Estadual nº 231/2020 e da Lei Estadual nº 20.385/2020, sendo vedada a atribuição de efeitos retroativos. Por esta razão,
+
+[O item 4 continua na física 7, sem acréscimo de palavras na emenda.]
+
+### Física 7 — continuação e fecho
+
+quaisquer atos de comunicação ou divulgação interna (como boletins, por exemplo) não podem veicular conteúdo decisório ou declaratório de promoção, sendo vedada a utilização de verbos como “promovo” ou “concedo”, os quais só poderão constar do ato concessivo.
+
+**5.** A promoção do ato de bravura, prevista nos arts. 49 e 50, da Lei Estadual nº 5.940/1969, depende do reconhecimento do ato de bravura, cuja análise é discricionária, gerando efeitos funcionais e financeiros prospectivos a partir da publicação do ato concessivo no Diário Oficial.
+
+**6.** A promoção *post-mortem*, prevista no art. 52, da Lei Estadual nº 5.940/1969, como hipótese de avanço funcional, subsiste apenas nos casos dos itens 1 e 2 do referido artigo, oportunidade em que gerará efeitos previdenciários, os quais têm início a partir da data da instituição da pensão.
+
+**7.** A promoção prevista no artigo 44-A, da Lei Estadual nº 5.940/1969, de natureza discricionária, deve ocorrer dentro dos 6 (seis) meses mencionados no *caput* do dispositivo, gerando efeitos prospectivos a partir da publicação do ato concessivo no Diário Oficial.
+
+**8.** A promoção em ressarcimento de preterição não se constitui como uma nova modalidade de promoção, mas sim uma via de correção administrativa de eventuais ilegalidades ou irregularidades ocorridas no curso do procedimento de promoção. Como uma expressão do dever de autotutela administrativa, essa denominada promoção dá-se, necessariamente, com efeitos retroativos que alcancem o momento da ilegalidade/irregularidade, a fim de compensar o servidor pelo ato ilegal/irregular.
+
+**9.** O art. 7º, da Lei Estadual nº 17.169/2012, veda expressamente a concessão de promoções aos inativos. No entanto, uma vez editado o ato concessório da promoção na atividade, seus efeitos deverão ser implementados, ainda que após a edição de tal ato o servidor tenha se aposentado.
+
+**10.** A inobservância aos requisitos legais para a concessão do ato administrativo funcional de promoção acarretará a apuração da responsabilidade administrativa da autoridade competente para a prática do ato e a imposição das penalidades eventualmente cabíveis.
+
+**REFERÊNCIAS:** Constituição Federal, art. 37, *caput*; art. 42, § 1º; art. 169, § 1º, inciso I; Lei Complementar Federal nº 101/2000, arts. 18 e 21; Lei Complementar Estadual nº 231/2020, art. 13, caput, e parágrafo único; Lei Estadual nº 20.385/2020, art. 1º, parágrafo único; Decreto Estadual nº 3.169/2019, art. 33; Decreto Estadual nº 4.189/2016, art. 1º, inciso I; Lei Estadual nº 5.944/1969, arts. 40, 44-A, 49 a 52; Lei Estadual nº 17.169/2012, art. 7º; art. 2º, alínea “a”, Pareceres nºs 22/2018, 01/2019, 13/2021 e 14/2021 - PGE; autos 0027433-67.2018.8.16.0182 - 4ª Turma Recursal dos Juizados Especiais do Paraná I.
+
+**Art. 2.º** Revogar a Resolução 035/2020-PGE.
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+*Curitiba, datado e assinado digitalmente.*
+
+**Leticia Ferreira da Silva**
+Procuradora-Geral do Estado
+
+**1241252021**
