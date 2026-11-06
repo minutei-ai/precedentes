@@ -22,77 +22,82 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                                        Gabinete Conselheiro Substituto
-                                                        Jackson Veras
-    
-    
-    
-    
-                                                  ACÓRDÃO Nº 335/2022-SPL
-    
-     PROCESSO: TC/016994/2021
-     DECISÃO: Nº 665/2022
-     ASSUNTO: CONSULTA - PREFEITURA MUNICIPAL DE INHUMAS-PI
-     OBJETO: POSSIBILIDADE DE APRESENTAR PROJETO DE EMENDA, NO EXERCÍCIO DE 2021, MAS COM
-     VIGÊNCIA PARA O EXERCÍCIO DE 2022, À LEI ORGÂNICA DO MUNICÍPIO, MODIFICANDO OS ÓRGÃOS QUE
-     COMPÕEM A ADMINISTRAÇÃO MUNICIPAL
-     CONSULENTE: HELBERT HOLANDA MOURA – PREFEITO MUNICIPAL DE INHUMAS-PI
-     RELATOR: JACKSON NOBRE VERAS
-     ADVOGADO DO CONSULENTE: GELSIMAR ANTÔNIO DA SILVA PINHEIRO ARAÚJO (OAB Nº 15.606), ANTÔNIO
-     JOSÉ DE MOURA JÚNIOR (OAB Nº 18941) E PEDRO PAULO RODRIGUES DE MOURA (OAB Nº 19.420)
-    
-                                                                     EMENTA:    CONSULTA.     APRESENTAÇÃO DE
-                                                                     PROJETO DE EMENDA À LEI ORGÂNICA
-                                                                     MUNICIPAL. POSSIBILIDADE.
-    
-                                                                     É possível apresentar projeto de emenda a Lei Orgânica
-                                                                     do Município, desde que as readequações e/ou
-                                                                     modificações não resultem em efetivo acréscimo de
-                                                                     gastos públicos, ou seja, não impliquem em aumento da
-                                                                     despesa a elas relacionadas, independente do exercício
-                                                                     que será implementado, tendo em vista que o legislador
-                                                                     não acrescentou nenhuma ressalva ou exceção à
-                                                                     criação de despesas a serem implementadas
-                                                                     futuramente, mas vedou a criação de despesas até 31
-                                                                     de dezembro de 2021.
-    
-                                                                     Sumário:     CONSULTA.      P.   M.    Inhumas-Piauí.
-                                                                     Possibilidade.
-    
-            Vistos, relatados e discutidos os presentes autos, considerando a informação da Comissão de Regimento e
-            Jurisprudência – CRJ (peça 10), o parecer técnico da Divisão de Apoio ao Jurisdicionado/DAJUR (peça 16), o
-            parecer do Ministério Público de Contas (peça 19), e o mais que dos autos consta, decidiu o Plenário, unânime,
-            consoante o parecer ministerial, pelo conhecimento da Consulta, e no mérito, por respondê-la nos termos do
-            parecer técnico, corroborado pelo parecer ministerial, conforme e pelos fundamentos expostos no voto do
-            Relator Substituto (peça 23), nos termos seguintes: É possível apresentar projeto de emenda a Lei Orgânica do
-            Município, no exercício de 2021, desde que as readequações e/ou modificações não resultem em efetivo
-            acréscimo de gastos públicos, ou seja, que não impliquem em aumento da despesa a elas relacionadas,
-            independente do exercício que será implementado, tendo em vista que o legislador não acrescentou nenhuma
-            ressalva ou exceção à criação de despesas a serem implementadas futuramente, mas sim vedou a criação de
-            despesas até 31 de dezembro de 2021.
-    
-            Impedida/Suspeita de atuar no feito a Consª. Waltânia Maria Nogueira de Sousa Leal Alvarenga.
-    
-            Presentes: Conselheiros (as) Kleber Dantas Eulálio (Presidente em exercício em virtude da ausência justificada
-            da Consª. Lilian de Almeida Veloso Nunes Martins), Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira
-            Barros, Flora Izabel Nobre Rodrigues e os Cons. Substitutos Jaylson Fabianh Lopes Campelo, convocado para
-            substituir, nesse processo, o Cons. Kleber Dantas Eulálio (no exercício da Presidência) e Jackson Nobre Veras,
-            em substituição ao Cons. Olavo Rebêlo de Carvalho Filho (em gozo de licença médica).
-    
-            Representante do Ministério Público de Contas presente: Subprocurador José Araújo Pinheiro Júnior.
-    
-            Sessão Plenária Ordinária, em 30 de junho de 2022.
-    
-            Transcreva-se, Publique-se e Cumpra-se.
-    
-            Conselheiro Substituto Jackson Nobre Veras                     Relator
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS - 27/07/2022 11:55:33
+[BANNER SUPERIOR OCULTO PREVENTIVAMENTE; LACUNA LOCAL NÃO COMPLETADA]
+
+
+
+
+<b>ACÓRDÃO Nº 335/2022-SPL</b>
+
+<b>PROCESSO:</b> TC/016994/2021
+<b>DECISÃO:</b> Nº 665/2022
+<b>ASSUNTO:</b> CONSULTA - PREFEITURA MUNICIPAL DE INHUMAS-PI
+<b>OBJETO:</b> POSSIBILIDADE DE APRESENTAR PROJETO DE EMENDA, NO EXERCÍCIO DE 2021, MAS COM
+VIGÊNCIA PARA O EXERCÍCIO DE 2022, À LEI ORGÂNICA DO MUNICÍPIO, MODIFICANDO OS ÓRGÃOS QUE
+COMPÕEM A ADMINISTRAÇÃO MUNICIPAL
+<b>CONSULENTE:</b> HELBERT HOLANDA MOURA – PREFEITO MUNICIPAL DE INHUMAS-PI
+<b>RELATOR:</b> JACKSON NOBRE VERAS
+[LINHA COM IDENTIFICADOR OCULTA]
+[LINHA COM IDENTIFICADOR OCULTA]
+
+<b>EMENTA:</b>    CONSULTA.     APRESENTAÇÃO DE
+PROJETO DE EMENDA À LEI ORGÂNICA
+MUNICIPAL. POSSIBILIDADE.
+
+É possível apresentar projeto de emenda a Lei Orgânica
+do Município, desde que as readequações e/ou
+modificações não resultem em efetivo acréscimo de
+gastos públicos, ou seja, não impliquem em aumento da
+despesa a elas relacionadas, independente do exercício
+que será implementado, tendo em vista que o legislador
+não acrescentou nenhuma ressalva ou exceção à
+criação de despesas a serem implementadas
+futuramente, mas vedou a criação de despesas até 31
+de dezembro de 2021.
+
+<i>Sumário:     CONSULTA.      P.   M.    Inhumas-Piauí.
+Possibilidade.</i>
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação da Comissão de Regimento e
+Jurisprudência – CRJ (peça 10), o parecer técnico da Divisão de Apoio ao Jurisdicionado/DAJUR (peça 16), o
+parecer do Ministério Público de Contas (peça 19), e o mais que dos autos consta, decidiu o Plenário, unânime,
+consoante o parecer ministerial, pelo conhecimento da Consulta, e no mérito, por respondê-la nos termos do
+parecer técnico, corroborado pelo parecer ministerial, conforme e pelos fundamentos expostos no voto do
+Relator Substituto (peça 23), nos termos seguintes: É possível apresentar projeto de emenda a Lei Orgânica do
+Município, no exercício de 2021, desde que as readequações e/ou modificações não resultem em efetivo
+acréscimo de gastos públicos, ou seja, que não impliquem em aumento da despesa a elas relacionadas,
+independente do exercício que será implementado, tendo em vista que o legislador não acrescentou nenhuma
+ressalva ou exceção à criação de despesas a serem implementadas futuramente, mas sim vedou a criação de
+despesas até 31 de dezembro de 2021.
+
+<b>Impedida/Suspeita</b> de atuar no feito a Consª. Waltânia Maria Nogueira de Sousa Leal Alvarenga.
+
+<b>Presentes:</b> Conselheiros (as) Kleber Dantas Eulálio (Presidente em exercício em virtude da ausência justificada
+da Consª. Lilian de Almeida Veloso Nunes Martins), Abelardo Pio Vilanova e Silva, Joaquim Kennedy Nogueira
+Barros, Flora Izabel Nobre Rodrigues e os Cons. Substitutos Jaylson Fabianh Lopes Campelo, convocado para
+substituir, nesse processo, o Cons. Kleber Dantas Eulálio (no exercício da Presidência) e Jackson Nobre Veras,
+em substituição ao Cons. Olavo Rebêlo de Carvalho Filho (em gozo de licença médica).
+
+<b>Representante do Ministério Público de Contas presente:</b> Subprocurador José Araújo Pinheiro Júnior.
+
+<b>Sessão Plenária Ordinária, em 30 de junho de 2022.</b>
+
+<b>Transcreva-se, Publique-se e Cumpra-se.</b>
+
+<b>Conselheiro Substituto Jackson Nobre Veras                     Relator</b>
+
+
+
+[LINHA COM IDENTIFICADOR OCULTA]
+
+[Limites da revisão independente: Emblemas/material gráfico externo e margens preventivamente ocultos; não interpretados.; Glifo visível não identifica inequivocamente codepoint interno do PDF; camada nativa não foi autoridade textual.; Banner superior e material raster inferior ocultos; texto do snapshot não completa essas áreas.; Duas linhas após relatoria e linha inferior de validação não recuperadas.; I-001 limita rastreabilidade das versões preliminares de SOL. Não se certificam regiões cobertas, desenho tipográfico ou codepoints. Descrições gráficas e máscaras são editoriais.]
 
 ## Ementa
 
 [TC-016994-2021](https://www.tce.pi.gov.br/wp-content/uploads/2022/09/TC-016994-2021.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next015: vinte físicas/contextos no conjunto, com transcrição Sol e revisão independente Astra de páginas inteiras e oitenta faixas. No documento 004 da consulta 16098 foram cotejadas as dezenove físicas; na consulta 38110, somente a física 1 do documento 001. Treze propostas aplicadas: dez códigos documentais contextualizados em citações AIRR/RO recuperados da imagem e três ajustes de ênfase. Candidatas e blocos públicos reversíveis, IDs preservados. Identificadores individuais e tinta sob máscaras não foram completados. Folhas/indicações de assinatura não demonstram vínculo autônomo ou autenticação.
+
+Histórico preservado: versões preliminares sanitizadas do ordinal 20 foram sobrescritas sem hash prévio, não exibidas segundo o escritor; a revisão não atesta retroativamente essa ausência de exibição. O revisor exibiu duas linhas do banner individual em leitura textual antes da máscara preventiva específica; falha não desfeita por correção posterior. Máscaras inicialmente excessivas sobre prosa/códigos e parte do título 18 foram corrigidas em novas vistas. Não se inventaram hashes perdidos nem se declara execução sem falhas de privacidade. Margens, glifos, disposição gráfica e regiões ocultas permanecem limitados. Sem OCR ou camada nativa como autoridade; sem autenticidade, assinatura válida, vigência, efeitos ou completude certificados.
