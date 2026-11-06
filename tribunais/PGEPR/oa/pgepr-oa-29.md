@@ -150,3 +150,194 @@ acesse: http://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura.do e informe o 
 ##### Elementos visuais, confronto e incertezas
 
 Peça autônoma: RESOLUÇÃO Nº 024/2019-PGE. Rótulo em caixa: Publicação em Diário Oficial / Edição nº 10.360 / Data: 23/01/2019. Brasão; carimbo circular PROTOCOLO / Fls. 16 / INTEGRADO DO ESTADO. REPUBLICADA POR INCORREÇÃO. em negrito, preservado. Quadro com três temas; título, autoridade, rótulos, números dos itens e cargo em negrito. Rodapé eletrônico integral conferido. Sem assinatura manuscrita e sem lacuna textual identificada.
+
+## Resolução no HTML oficial — bloco integral cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=214922&indice=1&totalRegistros=25&anoSpan=2019&anoSelecionado=2019&mesSelecionado=0&isPaginado=true); SHA-256 da captura `cc55afddb260bae9efae6b44447390f32df7107abdfdfe1c1ccaf1ba90ba1f9c`.
+
+Bloco integral do cabeçalho ao aviso final do Diário Oficial, lido e cotejado em revisão independente Sol. O HTML nativo não tem paginação física fixa. Links relativos foram tornados absolutos no domínio oficial, com texto e marcações preservados. A transcrição de datas, republicação ou dispositivos de vigência não constitui conclusão própria sobre efeitos jurídicos. Os destinos dos links não foram cotejados nesta revisão.
+
+Mantida a inscrição “REPUBLICADA POR INCORREÇÃO”. O bloco não imprime nome de signatário; nenhum nome foi acrescentado por comparação com outra resolução.
+
+<h3>Resolução PGE 024 - 21 de Janeiro de 2019</h3>
+<br/>
+
+Publicado no <a href='https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9350&numero=10360'>Di&aacute;rio Oficial n&ordm;. 10360</a> de 23 de Janeiro de 2019
+<br/><br/>
+
+
+
+
+
+<p>
+<b class="labelAto">Súmula:</b>
+
+
+
+<a id='1339135'>Edita a Orienta&ccedil;&atilde;o Administrativa n&ordm; 029-PGE.</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339136'>A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribui&ccedil;&otilde;es que lhe conferem o artigo 44, inciso VI, da Lei Estadual n&ordm; 8.485, de 03 de junho de 1987; o artigo 5&ordm;, da Lei Complementar n&ordm; 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n&deg; 40, de 08 de dezembro de 1987; e o artigo 8&deg; e inciso X do artigo 20, ambos do anexo ao Decreto Estadual n&deg; 2.137, de 12 de agosto de 2015, resolve expedir a seguinte Orienta&ccedil;&atilde;o Administrativa a todos os &oacute;rg&atilde;os e entidades da Administra&ccedil;&atilde;o P&uacute;blica Estadual Direta e Aut&aacute;rquica:<br /><br />
+<TABLE class="tbato" style="width: 625.333px;">
+<tbody>
+<tr>
+<td rowspan="3" style="width: 180px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 448.333px;">ART. 20 DA LEI DE INTRODU&Ccedil;&Atilde;O &Agrave;S NORMAS DO DIREITO BRASILEIRO, INSERIDO PELA LEI N&ordm; 13.655/2018</td>
+</tr>
+<tr>
+<td style="width: 448.333px;">OBRIGATORIEDADE DE MOTIVA&Ccedil;&Atilde;O QUE CONSIDERE AS CONSEQU&Ecirc;NCIAS PR&Aacute;TICAS DE ATOS ADMINISTRATIVOS</td>
+</tr>
+<tr>
+<td style="width: 448.333px;">DEVER DE DEMONSTRAR A RELA&Ccedil;&Atilde;O DE ADEQUA&Ccedil;&Atilde;O-NECESSIDADE DOS ATOS EM COMPARA&Ccedil;&Atilde;O COM AS ALTERNATIVAS EXISTENTES</td>
+</tr>
+</tbody>
+</table></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339143'><strong>1.</strong> Os atos administrativos fundamentados em princ&iacute;pios jur&iacute;dicos ou outras normas abertas devem trazer, no &acirc;mbito de sua motiva&ccedil;&atilde;o, considera&ccedil;&otilde;es sobre as consequ&ecirc;ncias pr&aacute;ticas da decis&atilde;o.</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339144'><strong>2.</strong> Tais considera&ccedil;&otilde;es devem demonstrar que:</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339145'><strong>a)</strong> a medida adotada &eacute; adequada para dar, no respectivo caso concreto, a solu&ccedil;&atilde;o prescrita pela legisla&ccedil;&atilde;o em que se fundamenta o ato;</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339146'><strong>b)</strong> a medida limita-se ao estritamente necess&aacute;rio para dar a solu&ccedil;&atilde;o extra&iacute;da da legisla&ccedil;&atilde;o que<br />embasa a a&ccedil;&atilde;o administrativa; e</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339147'><strong>c)</strong> n&atilde;o h&aacute; alternativa menos gravosa para as pessoas atingidas.</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339148'><strong>3.</strong> No &acirc;mbito do ato de motiva&ccedil;&atilde;o devem ser mencionadas as alternativas &agrave; medida adotada, incluindo a manuten&ccedil;&atilde;o da situa&ccedil;&atilde;o atual, se cab&iacute;vel, demonstrando-se a melhor rela&ccedil;&atilde;o de adequa&ccedil;&atilde;o - necessidade da solu&ccedil;&atilde;o escolhida em compara&ccedil;&atilde;o com as demais possibilidades, seguindo a f&oacute;rmula descrita no item anterior.</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339149' target='_blank' target='_blank' target='_blank'><strong>REFER&Ecirc;NCIAS</strong>: <a href="http://www.planalto.gov.br/ccivil_03/decreto-lei/Del4657.htm">Art. 20 do Decreto-Lei n&deg; 4.657/1942, inserido pela Lei n&deg; 13.655/2018</a>; <a href="http://antonioanastasia.com.br/projetos/PLS349-2015.pdf">Projeto de Lei do Senado n&deg;349/2015 (com justificativa do autor da proposta)</a>; Resposta aos coment&aacute;rios tecidos pela Consultoria Jur&iacute;dica do TCU ao PL n&deg; 7.448/2017 - parecer de grupo de juristas dispon&iacute;vel em: &lt;<a href='https://www.conjur.com.br/dl/parecer-juristas-rebatem-criticas.pdf' target='_blank' >https://www.conjur.com.br/dl/parecer-juristas-rebatem-criticas.pdf</a>&gt;.</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339150'><strong>REPUBLICADA POR INCORRE&Ccedil;&Atilde;O.</strong></a>
+
+
+</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>&nbsp;</p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+
+
+<hr/>
+
+<p style="color:red; font-style:italic">Este texto n&atilde;o substitui o publicado no Di&aacute;rio Oficial do Estado</p>
