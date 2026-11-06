@@ -15,3 +15,5 @@ A cobertura da série GNCCRIM abrange somente os números 41–44 da notícia de
 Reconsulta 04/11/2026: o PDF das redações revisadas 1–40 ligado na notícia MPPR permanece HTTP 404; ver [en-gnccrim/README.md](en-gnccrim/README.md).
 
 Foram incorporados 25 enunciados COPEDS reproduzidos pela EJEF/TJMG, com notas de reuniões de 2011, após cotejo independente integral do HTML. As atribuições e limites da reprodução são preservados; não se inferiu atualização pela notícia de outubro/2026. A investigação GNDH permanece aberta.
+
+Como apoio documental separado e sem novos registros contados, o MPPR reproduz [três ocorrências COPEDS no painel 2014](en-copeds/mppr-2014.md) e [COPEMA 04/2016 no painel 2016](en-copema/mppr-2016.md).
