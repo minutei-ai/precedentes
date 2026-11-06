@@ -42,7 +42,7 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | 20 | [pgepr-oa-20](pgepr-oa-20.md) | PDF | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 21 | [pgepr-oa-21](pgepr-oa-21.md) | PDF | Texto publicado; conferir limites da ficha |
 | 22 | [pgepr-oa-22](pgepr-oa-22.md) | PDF | Texto cotejado integralmente por imagem; versões e limites na ficha |
-| 23 | [pgepr-oa-23](pgepr-oa-23.md) | Substituída pela Orientação n°77/PGE | Texto publicado; conferir limites da ficha |
+| 23 | [pgepr-oa-23](pgepr-oa-23.md) | Substituída pela Orientação n°77/PGE | Corpo histórico HTML cotejado integralmente; DOE/anexos pendentes |
 | 24 | [pgepr-oa-24](pgepr-oa-24.md) | PDF | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 25 | [pgepr-oa-25](pgepr-oa-25.md) | PDF | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 26 | [pgepr-oa-26](pgepr-oa-26.md) | PDF | Texto cotejado integralmente por imagem; peças e limites na ficha |
@@ -52,11 +52,11 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | 30 | [pgepr-oa-30](pgepr-oa-30.md) | PDF (Editado pela Resolução n°25/2019-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 31 | [pgepr-oa-31](pgepr-oa-31.md) | PDF (Editado pela Resolução n° 37/2019-PGE) | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 32 | [pgepr-oa-32](pgepr-oa-32.md) | PDF (Editado pela Resolução n° 44/2019-PGE ) | Texto cotejado integralmente por imagem; versões e limites na ficha |
-| 33 | [pgepr-oa-33](pgepr-oa-33.md) | Substituída pela Orientação n° 078/PGE | Texto publicado; conferir limites da ficha |
-| 34 | [pgepr-oa-34](pgepr-oa-34.md) | Substituída pela Orientação n° 079/PGE | Texto publicado; conferir limites da ficha |
+| 33 | [pgepr-oa-33](pgepr-oa-33.md) | Substituída pela Orientação n° 078/PGE | Corpo histórico HTML cotejado integralmente; DOE/anexos pendentes |
+| 34 | [pgepr-oa-34](pgepr-oa-34.md) | Substituída pela Orientação n° 079/PGE | Corpo histórico HTML cotejado integralmente; DOE/anexos pendentes |
 | 35 | [pgepr-oa-35](pgepr-oa-35.md) | PDF (Editado pela Resolução n° 116/2019-PGE ) | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 36 | [pgepr-oa-36](pgepr-oa-36.md) | PDF (Editado pela Resolução n° 122/2019-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
-| 37 | [pgepr-oa-37](pgepr-oa-37.md) | Substituída pela Orientação n° 080/PGE | Texto publicado; conferir limites da ficha |
+| 37 | [pgepr-oa-37](pgepr-oa-37.md) | Substituída pela Orientação n° 080/PGE | Corpo histórico HTML cotejado integralmente; DOE/anexos pendentes |
 | 38 | [pgepr-oa-38](pgepr-oa-38.md) | PDF (Editado pela Resolução n° 138/2019-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 39 | [pgepr-oa-39](pgepr-oa-39.md) | PDF (Editada pela Resolução nº 35/2020-PGE ) | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 40 | [pgepr-oa-40](pgepr-oa-40.md) | PDF (Editado pela Resolução n° 047/2020-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
@@ -136,3 +136,5 @@ As partes 9 e 11 incorporaram 26 páginas de onze PDFs, OA 85–94 e 103, após 
 A parte 10 incorporou vinte páginas de seis PDFs, OA 95–97, 99, 101 e 102, após revisão independente integral Astra, sem substituições necessárias. A folha 4 da OA 101 é continuação e fecho, não folha ePROTOCOLO autônoma. Os recortes revistos totalizam 197 páginas em 88 PDFs disponíveis. Essa cobertura não encerra as pendências de aquisição de anexos e recuperação histórica da #256. Nenhum ID novo.
 
 A OA 002/2016 teve seu corpo histórico próprio recuperado em três páginas e cotejado em revisão independente Astra. A minuta DOCX vinculada à OA 16 recebeu transcrição e revisão independente em duas páginas locais, separada da redação atribuída à Resolução 051/2026 e mantendo os campos em branco. Os recortes revistos somam 200 páginas de 89 PDFs distintos, além desse DOCX com duas páginas de renderização local. Fontes históricas recém-capturadas e demais atos/anexos continuam em revisão; não há aceite global da #256 ou novo ID.
+
+Os corpos históricos das OA 23, 33, 34 e 37 foram incorporados do HTML oficial após revisão independente integral Sol. Mantidas notas repetidas, riscados, grafias e ordem de itens; DOEs/anexos não cotejados e PDFs históricos de 33/34 sem comparação nesta etapa. Nenhum novo ID; esses quatro HTML não são somados como páginas PDF. As pendências históricas e de aquisição permanecem na #256.
