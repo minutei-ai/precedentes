@@ -397,3 +397,81 @@ Inserido ao protocolo 15.743.367-9 por: Luciana Da Cunha em: 27/05/2019 16:11.
 Peça distinta com número em branco, mantido sem atribuir OA. Destaque amarelo sobre “súmula 378 STJ”. Nome da assinatura lido da imagem como Letícia. Não inferida data ausente.
 
 Nenhuma lacuna textual ilegível remanescente identificada nesta leitura.  Brasões/logomarcas registrados pelo texto que exibem; detalhes heráldicos não transcritos.
+
+## Resolução PGE 116 - 15 de Maio de 2019 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=220264&indice=1&totalRegistros=119&anoSpan=2019&anoSelecionado=2019&mesSelecionado=0&isPaginado=true); SHA-256 da captura `ce4c84c32bbff8e3221e3e20559796c2e2de75bb7fcfd793a056b4cf081b6d8a`.
+
+Bloco nativo integral do cabeçalho ao aviso final do Diário Oficial, cotejado pessoalmente em revisão independente Sol. O HTML não tem paginação física fixa. Links relativos foram tornados absolutos; espaços de indentação do código foram removidos, com invariância do texto renderizado conferida. Atributos, fontes e estilos não constituem fac-símile nem prova de autenticidade. Destinos de links, edições de diário e outros atos apenas citados não foram cotejados neste acréscimo. Dizeres de aprovação, suspensão, revogação e vigência são texto da fonte, sem conclusão própria sobre efeitos jurídicos.
+
+Preservadas a referência a súmula 378 STJ e a observação separada de correção de “súmula 387 STF” para “súmula 378 STJ”. A folha 29 referida não foi lida neste bloco.
+
+<h3>Resolução PGE 116 - 15 de Maio de 2019</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=9670&amp;numero=10438">Diário Oficial nº. 10438</a> de 17 de Maio de 2019
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1373238">Edita a Orientação Administrativa n° 35-PGE.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373239">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, com fundamento no artigo 14 da Lei 19.848, de 03 de maio de 2019, e no uso das atribuições que lhe conferem a Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n° 40, de 08 de dezembro de 1987; o art. 8° e inciso X do art. 20, ambos do Decreto Estadual n° 2.137, de 12 de agosto de 2015; e considerando o que consta no protocolo n°15.743.367-9, resolve expedir a seguinte orientação administrativa de caráter obrigatório a todos os órgãos e entidades da Administração Pública estadual, Direta e Autárquica:<br/><br/>
+<table class="tbato" style="width: 682px;">
+<tbody>
+<tr style="height: 18px;">
+<td rowspan="4" style="width: 106px; height: 64.1px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 560px; height: 18px;">Assessoramento Jurídico da Administração Direta e Autárquica do Estado do Paraná.</td>
+</tr>
+<tr style="height: 10.1px;">
+<td style="width: 560px; height: 10.1px;">Prerrogativa privativa da Procuradoria-Geral do Estado e da Carreira Especial de Advogado do Estado do Paraná.</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 560px; height: 18px;">Impossibilidade de existência na estrutura organizacional da Administração Direta e das autarquias estaduais, de "assessoria jurídica" que não seja composta por Procuradores do Estado do Paraná ou Advogados do Estado do Paraná.</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 560px; height: 18px;">Responsabilização da autoridade que permitir o desvio funcional.</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373240"><strong>1.</strong> A representação judicial e extrajudicial do Estado do Paraná, assim como sua consultoria jurídica, estão a cargo da Procuradoria-Geral do Estado, ressalvada apenas a atuação da Carreira Especial de Advogado do Estado do Paraná (carreira em extinção) no que se refere ao assessoramento jurídico ao Poder Executivo e à representação judicial das autarquias;</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373241"><strong>2.</strong> A interpretação da legislação e a tomada de providências judiciais e extrajudiciais conferidas com exclusividade aos Procuradores dos Estados e aos Advogados do Estado não pode ser descentralizada a outros órgãos, não se revelando possível a emissão de pareceres, celebração de acordos, ajuizamento de demandas judiciais ou apresentação de defesa, dentre outros atos privativos, com aposição de assinatura e indicação de número de inscrição na OAB, a quem não integra as respectivas carreiras;</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373242"><strong>3.</strong> As hipóteses previstas na legislação que exigem manifestação jurídica prévia como condição para a validade do ato a ser praticado estão a cargo dos Procuradores do Estado ou dos Advogados do Estado em exercício, nos termos da legislação em vigor;</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373243"><strong>4.</strong> As secretarias de Estado da Administração Direta, assim como as autarquias estaduais, não podem conter em sua estrutura organizacional "assessoria jurídica" ou qualquer outro órgão que desempenhe funções atribuídas, com exclusividade, à Procuradoria-Geral do Estado ou à Carreira Especial de Advogados do Estado, a não ser que tais assessorias sejam integradas por membros das referidas carreiras;</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373244"><strong>5.</strong> A mera aplicação da legislação decorre de princípio da Administração Pública e não representa, por si só, manifestação jurídica.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373245"><strong>6.</strong> A inobservância às competências privativas conferidas à PGE e à Carreira Especial de Advogado do Estado implicará a responsabilização da autoridade que permitir o desvio funcional.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373246"><strong>REFERÊNCIAS:</strong><br/>Constituição Federal, art. 132; Constituição Estadual, art. 124; Lei Complementar Estadual 26/85, Lei Estadual n° 9.422/90; art.1° ; Decreto Estadual n° 2.137/15, "anexo único"; Lei Estadual n° 6.174/70, art. 64; súmula 378 STJ; autos 0009814-91.2009.8.16.0004 - 2ª Vara da Fazenda Pública de Curitiba.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373247"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3">Observação reproduzida de acordo com o despacho de folha 29 do protocolado: Onde se lê "súmula 387 STF", leia-se "súmula 378 STJ".</p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
