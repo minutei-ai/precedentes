@@ -116,3 +116,44 @@ Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <p style="font-weight: bold; background-color: #d3d3d3"></p>
 <hr/>
 <p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
+
+## Recorte do diário — RESOLUÇÃO Nº 037/2019-PGE, SHA-256 9392b7d58daf
+
+- **Fonte:** [diário oficial](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9440&numero=10367).
+- **Recorte:** página física 5 de PDF com 71 páginas; SHA-256 `9392b7d58dafa6e1a9a9259143704d5da85a9e2bccf91553037dc2b36e484083`; 6875203 bytes.
+
+Transcrição visual pessoal Sol e revisão independente integral Astra do bloco pertinente, com imagens próprias e faixas ampliadas. Doze substituições foram aplicadas no conjunto das cinco resoluções, com reversão conferida. Tabelas representam células mescladas, sem certificar dimensões, alinhamentos ou desenho de fontes. Quebras e disposição não são diplomáticas. Rótulos Código impresso e suas pontuações de identificação são editoriais; o valor e seu destaque foram cotejados. Glifos elevados foram inspecionados visualmente, sem certificar identidade de codepoints º/°/o.
+
+Resolução nº 037/2019-PGE, com OA 31. O cabeçalho PGE foi recuperado e relido; as áreas alheias cobertas e o cabeçalho editorial do diário não tiveram certificação visual integral nesta revisão. Preservados aprovados, através e a minúscula em orientação administrativa; a Resolução 036 apenas citada e a obra referenciada não foram consultadas.
+
+Recibos originais HTTP200/HTTPS/TLS padrão, bytes e hashes correspondentes foram conferidos, sem nova conexão. Isso documenta integridade da captura e não autentica juridicamente documento ou assinatura. Dizeres de edição, publicação, republicação e vigor são transcrição, sem inferência própria de vigência ou efeito. Referências externas não foram seguidas. Não se afirma conteúdo das áreas ocultadas ou ausência de ato em toda a página.
+
+### RESOLUÇÃO Nº 037/2019-PGE
+
+Edita a Orientação Administrativa nº 31-PGE.
+
+A **PROCURADORA-GERAL DO ESTADO**, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485, de 03 de junho de 1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26, de 30 de dezembro de 1985, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
+
+<table>
+<tr><th rowspan="4">TEMA DE INTERESSE</th><td>LICITAÇÃO DISPENSADA (ART. 8º, INC. II, ALÍNEA “A”, DA LEI ESTADUAL Nº 15.608/2007)</td></tr>
+<tr><td>DOAÇÃO DE BENS MÓVEIS INSERVÍVEIS E/OU DESNECESSÁRIOS PARA FINS E USO DE INTERESSE SOCIAL</td></tr>
+<tr><td>DESNECESSIDADE DE PARECER DO ÓRGÃO DE ASSESSORIA JURÍDICA</td></tr>
+<tr><td>ADOÇÃO DA MINUTA DE EDITAL DE CHAMAMENTO PÚBLICO E DA RESPECTIVA LISTA DE VERIFICAÇÃO PADRONIZADAS</td></tr>
+</table>
+
+**1.** Nas hipóteses de licitação dispensada para a doação de bens móveis inservíveis e/ou desnecessários para fins e uso de interesse social (art. 8º, inc. II, alínea “a”, da Lei Estadual n.º 15.608/2007), não é necessário parecer jurídico, desde que haja minuta padronizada de edital de chamamento público, contendo como anexo o termo de doação, e que seja observada a respectiva lista de verificação.
+
+**2.** Compete ao Administrador adotar as minutas de edital de chamamento público e de termo de doação, aprovados pela Procuradora-Geral do Estado através da Resolução 036/2019-PGE, realizando o correto preenchimento, bem como instruir adequadamente o protocolado com os documentos exigidos na lista de verificação respectiva e no próprio edital de chamamento público, com vistas ao cumprimento dos requisitos legais correspondentes.
+
+**REFERÊNCIAS:** Lei Federal nº 8.666/1993; Lei Estadual nº 15.608/2007; Lei Estadual nº 5.406/1966; Lei Estadual nº 19.322/2017; Decreto Estadual nº 4.336/2009; Decreto Estadual nº 8.561/2017; Decreto Estadual nº 3.203/2015; Jacoby Fernandes, J. U. *Contratação direta sem licitação: dispensa de licitação: inexigibilidade de licitação; comentários às modalidades de licitação, inclusive o pregão: procedimentos exigidos para a regularidade da contratação direta*. 9ª ed. Belo Horizonte: Fórum, 2011. p. 178.
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+Curitiba, 29 de janeiro de 2019.
+
+Leticia Ferreira da Silva\
+**Procuradora-Geral do Estado**
+
+Código impresso: **7835/2019**.
+
+Nota editorial: preservados «aprovados», «através» e a minúscula em «orientação administrativa» no preâmbulo; não foi completada a resolução 036 citada nem consultada a obra referenciada.

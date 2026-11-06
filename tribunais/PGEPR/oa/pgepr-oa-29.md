@@ -341,3 +341,49 @@ Publicado no <a href='https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <hr/>
 
 <p style="color:red; font-style:italic">Este texto n&atilde;o substitui o publicado no Di&aacute;rio Oficial do Estado</p>
+
+## Recorte do diário — RESOLUÇÃO Nº 024/2019-PGE, SHA-256 d1703ad00cbf
+
+- **Fonte:** [diário oficial](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9350&numero=10360).
+- **Recorte:** página física 11 de PDF com 76 páginas; SHA-256 `d1703ad00cbfc476ca595906972b13235842d8aaa7e0e6a5bc9eb91dde6b6268`; 5373146 bytes.
+
+Transcrição visual pessoal Sol e revisão independente integral Astra do bloco pertinente, com imagens próprias e faixas ampliadas. Doze substituições foram aplicadas no conjunto das cinco resoluções, com reversão conferida. Tabelas representam células mescladas, sem certificar dimensões, alinhamentos ou desenho de fontes. Quebras e disposição não são diplomáticas. Rótulos Código impresso e suas pontuações de identificação são editoriais; o valor e seu destaque foram cotejados. Glifos elevados foram inspecionados visualmente, sem certificar identidade de codepoints º/°/o.
+
+Resolução nº 024/2019-PGE, que imprime OA 029. O bloco continua do pé esquerdo ao topo direito da mesma física com REPUBLICADA POR INCORREÇÃO, data, nome e código. Não há fórmula PUBLIQUE-SE no fechamento visível deste bloco; não foi transferida a fórmula do ato seguinte. A referência externa conserva sinais angulares, sem acrescentar sublinhado.
+
+Recibos originais HTTP200/HTTPS/TLS padrão, bytes e hashes correspondentes foram conferidos, sem nova conexão. Isso documenta integridade da captura e não autentica juridicamente documento ou assinatura. Dizeres de edição, publicação, republicação e vigor são transcrição, sem inferência própria de vigência ou efeito. Referências externas não foram seguidas. Não se afirma conteúdo das áreas ocultadas ou ausência de ato em toda a página.
+
+### RESOLUÇÃO Nº 024/2019-PGE
+
+Edita a Orientação Administrativa nº 029-PGE.
+
+A **PROCURADORA-GERAL DO ESTADO**, no uso das atribuições que lhe conferem o artigo 44, inciso VI, da Lei Estadual nº 8.485, de 03 de junho de 1987; o artigo 5º, da Lei Complementar nº 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987; e o artigo 8° e inciso X do artigo 20, ambos do anexo ao Decreto Estadual n° 2.137, de 12 de agosto de 2015, resolve expedir a seguinte Orientação Administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
+
+<table>
+<tr><th rowspan="3">TEMA DE INTERESSE</th><td>ART. 20 DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO, INSERIDO PELA LEI Nº 13.655/2018</td></tr>
+<tr><td>OBRIGATORIEDADE DE MOTIVAÇÃO QUE CONSIDERE AS CONSEQUÊNCIAS PRÁTICAS DE ATOS ADMINISTRATIVOS</td></tr>
+<tr><td>DEVER DE DEMONSTRAR A RELAÇÃO DE ADEQUAÇÃO-NECESSIDADE DOS ATOS EM COMPARAÇÃO COM AS ALTERNATIVAS EXISTENTES</td></tr>
+</table>
+
+**1.** Os atos administrativos fundamentados em princípios jurídicos ou outras normas abertas devem trazer, no âmbito de sua motivação, considerações sobre as consequências práticas da decisão.
+
+**2.** Tais considerações devem demonstrar que:
+
+a) a medida adotada é adequada para dar, no respectivo caso concreto, a solução prescrita pela legislação em que se fundamenta o ato;\
+b) a medida limita-se ao estritamente necessário para dar a solução extraída da legislação que embasa a ação administrativa; e\
+c) não há alternativa menos gravosa para as pessoas atingidas.
+
+**3.** No âmbito do ato de motivação devem ser mencionadas as alternativas à medida adotada, incluindo a manutenção da situação atual, se cabível, demonstrando-se a melhor relação de adequação-necessidade da solução escolhida em comparação com as demais possibilidades, seguindo a fórmula descrita no item anterior.
+
+**REFERÊNCIAS:** Art. 20 do Decreto-Lei nº 4.657/1942, inserido pela Lei nº 13.655/2018; Projeto de Lei do Senado nº 349/2015 (com justificativa do autor da proposta); Resposta aos comentários tecidos pela Consultoria Jurídica do TCU ao PL nº 7.448/2017 – parecer de grupo de juristas disponível em: &lt;https://www.conjur.com.br/dl/parecer-juristas-rebatem-criticas.pdf&gt;.
+
+[Continuação no topo da coluna direita, mesma física. URL apenas transcrita; não acessada.]
+
+**REPUBLICADA POR INCORREÇÃO.**
+
+Curitiba, 21 de janeiro de 2019.
+
+Izabel Cristina Marques\
+**Procuradora-Geral do Estado, em exercício**
+
+Código impresso: **4783/2019**.

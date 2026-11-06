@@ -375,3 +375,51 @@ Publicado no <a href='https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <hr/>
 
 <p style="color:red; font-style:italic">Este texto n&atilde;o substitui o publicado no Di&aacute;rio Oficial do Estado</p>
+
+## Recorte do diário — RESOLUÇÃO Nº 025/2019-PGE, SHA-256 d1703ad00cbf
+
+- **Fonte:** [diário oficial](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9350&numero=10360).
+- **Recorte:** página física 11 de PDF com 76 páginas; SHA-256 `d1703ad00cbfc476ca595906972b13235842d8aaa7e0e6a5bc9eb91dde6b6268`; 5373146 bytes.
+
+Transcrição visual pessoal Sol e revisão independente integral Astra do bloco pertinente, com imagens próprias e faixas ampliadas. Doze substituições foram aplicadas no conjunto das cinco resoluções, com reversão conferida. Tabelas representam células mescladas, sem certificar dimensões, alinhamentos ou desenho de fontes. Quebras e disposição não são diplomáticas. Rótulos Código impresso e suas pontuações de identificação são editoriais; o valor e seu destaque foram cotejados. Glifos elevados foram inspecionados visualmente, sem certificar identidade de codepoints º/°/o.
+
+Resolução nº 025/2019-PGE, que imprime OA 30, em bloco separado na mesma física da OA 029. Preservados item 1.1 sem ponto final em equânime, a sua sem crase no item 2.b e com as quais ... terão que suportar. A URL externa conserva sublinhado e sinais angulares, sem ponto final. A nota 1 foi mantida separada do dispositivo.
+
+Recibos originais HTTP200/HTTPS/TLS padrão, bytes e hashes correspondentes foram conferidos, sem nova conexão. Isso documenta integridade da captura e não autentica juridicamente documento ou assinatura. Dizeres de edição, publicação, republicação e vigor são transcrição, sem inferência própria de vigência ou efeito. Referências externas não foram seguidas. Não se afirma conteúdo das áreas ocultadas ou ausência de ato em toda a página.
+
+### RESOLUÇÃO Nº 025/2019-PGE
+
+Edita a Orientação Administrativa nº 30-PGE.
+
+A **PROCURADORA-GERAL DO ESTADO**, no uso das atribuições que lhe conferem o artigo 44, inciso VI, da Lei Estadual nº 8.485, de 03 de junho de 1987; o artigo 5º, da Lei Complementar nº 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987; e o artigo 8° e inciso X do artigo 20, ambos do anexo ao Decreto Estadual n° 2.137, de 12 de agosto de 2015, resolve expedir a seguinte Orientação Administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
+
+<table>
+<tr><th rowspan="3">TEMA DE INTERESSE</th><td>ART. 21 DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO, INSERIDO PELA LEI Nº 13.655/2018</td></tr>
+<tr><td>OBRIGATORIEDADE DE MOTIVAÇÃO DAS DECISÕES ADMINISTRATIVAS DE DECRETAÇÃO DE INVALIDADE DE ATO, AJUSTE, PROCESSO OU NORMA ADMINISTRATIVA, CONSIDERANDO AS CONSEQUÊNCIAS JURÍDICAS E ADMINISTRATIVAS DESSES ATOS E CUJOS EFEITOS PRÁTICOS SEJAM PROPORCIONAIS, EQUÂNIMES E SEM PREJUÍZOS EXCESSIVOS AOS SUJEITOS PORVENTURA ATINGIDOS</td></tr>
+<tr><td>NO CASO DE POSSIBILIDADE DE CONVALIDAÇÃO/SANEAMENTO DE ATO, AJUSTE, PROCESSO OU NORMA ADMINISTRATIVA, A OBRIGATORIEDADE DE INDICAR EXPRESSAMENTE O MODO DE SUA REGULARIZAÇÃO</td></tr>
+</table>
+
+**1.** A decisão que na esfera administrativa decretar a invalidade de ato, contrato, ajuste, processo ou norma administrativa deverá analisar e indicar de modo expresso as consequências jurídicas (plano jurídico) e administrativas (plano prático) deste ato.
+
+1.1. Em havendo a possibilidade de convalidação/saneamento, a decisão administrativa deverá indicar expressamente as condições para que o administrado possa regularizar o ato, contrato, ajuste, processo ou norma administrativa, não podendo impor aos sujeitos envolvidos prejuízos excessivos ou anormais. Para tanto tais condições devem atingir todos os envolvidos de forma proporcional e equânime
+
+**2.** Assim, para efetivo atendimento do contido no art. 21, da Lei de Introdução às Normas do Direito Brasileiro, a decisão administrativa:
+
+a) que decretar a invalidade de ato, contrato, ajuste, processo ou norma administrativa deve demonstrar, com base nos elementos trazidos aos autos, que a medida legal adotada é a mais adequada ao caso concreto¹, considerando as consequências jurídicas e práticas futuras com as quais o administrador e as partes envolvidas terão que suportar;
+
+b) em caso de convalidação/saneamento de ato, contrato, ajuste, processo ou norma administrativa, deve indicar as condições e os atos necessários a sua regularização, sempre com a necessária proporcionalidade e adequação entre a medida adotada e a intervenção em direitos, de modo a minorar e evitar prejuízos excessivos ou anormais, em função das peculiaridades do caso.
+
+**REFERÊNCIAS:** Art. 21 do Decreto-Lei nº 4.657/1942, inserido pela Lei nº 13.655/2018; Projeto de Lei do Senado nº 349/2015 (com justificativa do autor da proposta); Resposta aos comentários tecidos pela Consultoria Jurídica do TCU ao PL nº 7.448/2017 – parecer de grupo de juristas disponível em: &lt;<u>https://www.conjur.com.br/dl/parecer-juristas-rebatem-criticas.pdf</u>&gt;
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+Curitiba, 21 de janeiro de 2019.
+
+Izabel Cristina Marques\
+**Procuradora-Geral do Estado, em exercício**
+
+[Nota de rodapé, separada por traço na imagem:]
+
+1. **Aqui em conjugação com o contido no art. 20 da Lei nº 13.655/2018.**
+
+Código impresso: **4806/2019**.
