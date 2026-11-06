@@ -123,3 +123,5 @@ Nova tentativa dos cinco caminhos do catálogo com TLS padrão falhou por SSLErr
 [15.722](agemg-par-ref-15-722.md): nova transcrição visual de 14 páginas cotejada integralmente por Astra; seis qualificações de incerteza nos carimbos aplicadas. Datas, atos separados e dúvida manuscrita mantidos. Limite TLS histórico preservado; sem novo ID.
 
 [16.121](agemg-par-ref-16-121.md): nove páginas com duas transcrições novas e cotejo comparativo visual integral; correções pontuais, sublinhados e ocultação do serial individual aplicados. Parecer e minuta separados, campos vazios, variantes e limite TLS histórico preservados. Nova fila: 30/653 páginas cotejadas; 623 pendentes. Sem novo ID; #259 aberta.
+
+[16.145](agemg-par-ref-16-145.md): quinze páginas novamente transcritas por Sol e cotejadas integralmente por Astra, com ajuste tipográfico e pontuação junto à máscara do MASP qualificada como não confirmada. Blocos eletrônicos, datas, ocultações e limite TLS histórico preservados. Nova fila: 45/653 páginas cotejadas; 608 pendentes. Sem novo ID; #259 aberta.
