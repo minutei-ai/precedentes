@@ -120,3 +120,58 @@ Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.d
 <p style="font-weight: bold; background-color: #d3d3d3"></p>
 <hr/>
 <p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
+
+
+## Reprodução adicional — Resolução nº 044/2019-PGE no diário
+
+Fonte: [Diário Oficial do Paraná, edição 10373, de 11/02/2019](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9446&numero=10373). Arquivo cotejado: SHA-256 `cce79a8e297d33bcd763ac190e23683e1cf44b8490118e092aa1d5b41cdd359b`, 12.409.228 bytes, 249 páginas estruturais. Captura HTTP 200 com TLS padrão; MIME e magic PDF conferidos com o recibo. Isso não autentica a publicação histórica. A cobertura deste acréscimo limita-se ao bloco da OA32 nas físicas 168–169.
+
+### Física 168 — início do bloco, coluna direita
+
+**RESOLUÇÃO Nº 044/2019-PGE**
+
+Edita a Orientação Administrativa nº 32-PGE.
+
+A **PROCURADORA-GERAL DO ESTADO**, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485, de 03 de junho de 1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26, de 30 de dezembro de 1985, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:
+
+**TEMA DE INTERESSE**
+
+*Caput* do art. 3º do Decreto Estadual nº 5.492, de 2016.
+
+Ausência de prescrição da pretensão de ressarcimento, administrativo ou judicial, da verbas pagas indevidamente a servidores.
+
+Geração, em tese, de responsabilização do servidor/responsável pela unidade de recursos humanos que, ciente do pagamento indevido percebido por outrem, não dá início ao processo descrito no Decreto Estadual nº 5.492, de 2016.
+
+**1.** O Decreto Estadual nº 5.492, de 2016 trata de um prazo dirigido à Unidade de Recursos Humanos do órgão de origem do servidor contemplado com pagamento indevido, prazo este estabelecido para impor à tal Unidade o dever de dar início ao processo previsto no referido Decreto;
+
+**2.** A norma do citado art. 3º não impõem um limite à atuação estatal, não estabelece regra de prescrição ou decadência, e seu desrespeito pode gerar, em tese, responsabilização do servidor/responsável pela Unidade de recursos Humanos que, ciente do pagamento indevido percebido por outrem, não dá início ao processo previsto no Decreto Estadual nº 5.492, de 2016;
+
+[O bloco alcança o limite inferior desta física após o item 2. O item 3 e o fecho estão na física 169; passagem 168/169 conferida em revisão independente limitada, sem completar esta página por coerência.]
+
+### Física 169 — continuação do bloco, coluna esquerda
+
+**3.** No caso de não pagamento pela via administrativa é cabível a inscrição em dívida ativa, como previsto no Decreto Estadual nº 5.492, de 2016;
+
+**4.** Uma vez inscrito o débito apurado administrativamente, a cobrança se dará pela via de execução fiscal.
+
+**REFERÊNCIAS:** Decreto Estadual nº 5.492, de 2016; Informação nº 438/2018 – PRA/PGE; Recurso Especial nº 1.109.941 – PR (2008/02712086-0); Despacho da Coordenadoria Judicial (fls. 17 – SID 15.259.232-9)
+
+**PUBLIQUE-SE. ANOTE-SE.**
+
+Curitiba, 05 de fevereiro de 2019.
+
+Leticia Ferreira da Silva
+
+**Procuradora-Geral do Estado**
+
+**10266/2019**
+
+### Cotejo e limites deste acréscimo
+
+A física 168 recebeu transcrição visual Sol; a física 169, transcrição pessoal do pai. Revisão independente Astra comparou os dois corpos integrais nas regiões sanitizadas e a passagem editorial 168/169. Nenhuma substituição de corpo proposta. Resolução 044/2019-PGE e OA32 aparecem apenas na física 168; não são atribuídas como título reimpresso na 169. Datas, referências, código de publicação e nome funcional Leticia sem acento preservados como vistos; destinos citados não consultados.
+
+Preservadas “da verbas”, “não impõem”, “à tal Unidade” e a capitalização “recursos Humanos”. Tabela linearizada em sequência e quebras corridas refluídas, sem fac-símile; codepoints de ordinal/grau e espaçamento não certificados. A descrição do selo do diário não constitui autenticação.
+
+As demais matérias foram cobertas e não lidas. No histórico de delimitação houve janela adjacente na triagem de outro alvo, máscaras excessivas corrigidas, intermediários sem todos os hashes e falhas de sanitização registradas na revisão anterior; na continuação 169, uma janela inicialmente alcançou o topo de cabeçalho institucional vizinho, depois coberto antes da releitura final. Essas falhas não foram apagadas pela confirmação posterior dos corpos pertinentes. Nenhum conteúdo alheio foi transcrito neste acréscimo. Regiões ocultas não recebem confirmação literal.
+
+Esta reprodução preserva fontes e variantes anteriores; não certifica autenticidade, assinatura válida, identidade jurídica, vigência, efeitos ou completude histórica do acervo.
