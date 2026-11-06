@@ -55,7 +55,7 @@ Vitória, 14 de fevereiro de 2023.
 Procurador Geral do Estado
 
 
-### Rodapé da página 1 do derivado
+### Rodapé repetido nas páginas 1 e 2 do derivado
 
 **Conselho da Procuradoria Geral do Estado do Espírito Santo**
 Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória – ES – Cep: 29057-550
