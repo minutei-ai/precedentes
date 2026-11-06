@@ -77,87 +77,50 @@ Relator: Cons. Subs. Alisson Araújo
 
 #### Página 2 do PDF oficial
 
-                    Estado do Piauí
-                    Tribunal de Contas
-                    Gabinete Cons. Subst. Alisson Araújo
-    
-                                                          COVID-19. Aproveitamento do atual teste seletivo
-                                                          apenas enquanto estiver vigente e existirem
-                                                          classificados ainda não convocados.
-    
-    
-    
-    
-    Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ (peça nº
-    6), a informação da DFAP (peça nº 10), o parecer do Ministério Público de Contas (peça nº
-    11), a proposta de voto do Relator (peça nº. 15), e o mais que dos autos consta, acordam, os
-    Conselheiros, unânimes, consoante o parecer ministerial, em Conhecer da Consulta, para, no
-    mérito, respondê-la conforme proposto pela DFAP, nos termos seguintes: a) não é possível
-    suspender os contratos temporários regidos pelo art. 37, inciso IX da Constituição Federal,
-    ainda que em razão da situação excepcional de crise na saúde pública provocada pela
-    COVID-19. Existem, contudo, medidas alternativas que são condizentes com a manutenção
-    dos serviços educacionais, como atividade remota e utilização de banco de horas para futura
-    compensação; b) é possível, a princípio, a rescisão contratual antecipada por causa da
-    suspensão das atividades pelo advento da pandemia de COVID-19. Entretanto, tendo em vista
-    que os contratados não deram causa para o termo contratual, é devida indenização
-    proporcional ao tempo de contrato restante, caso haja previsão no respectivo instrumento,
-    podendo adotar-se como parâmetro para definir o valor o mesmo critério disposto na Lei n.º
-    8.745/1993, salvo entendimento diverso disposto em norma municipal; c) com o retorno das
-    atividades escolares, o atual teste seletivo somente poderá ser aproveitado enquanto estiver
-    vigente e existirem classificados ainda não convocados. Sobre a necessidade de realizar outro
-    teste seletivo, se é reconhecido, desde já, que a demanda da unidade não é transitória, a
-    contratação deveria ocorrer na forma prevista no art. 37, inciso II da Constituição Federal,
-    cabendo ao gestor adotar as providências voltadas ao planejamento do concurso público, em
-    cumprimento ao disposto no art. 206, V, da Constituição Federal.
-    
-    
-    Presentes: os Conselheiros Lilian de Almeida Veloso Nunes Martins (Presidente em
-    exercício em virtude da ausência justificada do Cons. Abelardo Pio Vilanova e Silva),
-    
-    
-                                           ACÓRDÃO N.º 1.929/20
-                                          Processo TC nº 005.970/20
-                                      Relator: Cons. Subs. Alisson Araújo
-                                                      2/3
-    
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Subst. Alisson Araújo
+
+*COVID-19. Aproveitamento do atual teste seletivo apenas enquanto estiver vigente e existirem classificados ainda não convocados.*
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ (peça nº 6), a informação da DFAP (peça nº 10), o parecer do Ministério Público de Contas (peça nº 11), a proposta de voto do Relator (peça nº. 15), e o mais que dos autos consta, acordam, os Conselheiros, unânimes, consoante o parecer ministerial, em Conhecer da Consulta, para, no mérito, respondê-la conforme proposto pela DFAP, nos termos seguintes: a) não é possível suspender os contratos temporários regidos pelo art. 37, inciso IX da Constituição Federal, ainda que em razão da situação excepcional de crise na saúde pública provocada pela COVID-19. Existem, contudo, medidas alternativas que são condizentes com a manutenção dos serviços educacionais, como atividade remota e utilização de banco de horas para futura compensação; b) é possível, a princípio, a rescisão contratual antecipada por causa da suspensão das atividades pelo advento da pandemia de COVID-19. Entretanto, tendo em vista que os contratados não deram causa para o termo contratual, é devida indenização proporcional ao tempo de contrato restante, caso haja previsão no respectivo instrumento, podendo adotar-se como parâmetro para definir o valor o mesmo critério disposto na Lei n.º 8.745/1993, salvo entendimento diverso disposto em norma municipal; c) com o retorno das atividades escolares, o atual teste seletivo somente poderá ser aproveitado enquanto estiver vigente e existirem classificados ainda não convocados. Sobre a necessidade de realizar outro teste seletivo, se é reconhecido, desde já, que a demanda da unidade não é transitória, a contratação deveria ocorrer na forma prevista no art. 37, inciso II da Constituição Federal, cabendo ao gestor adotar as providências voltadas ao planejamento do concurso público, em cumprimento ao disposto no art. 206, V, da Constituição Federal.
+
+**Presentes:** os Conselheiros Lilian de Almeida Veloso Nunes Martins (Presidente em exercício em virtude da ausência justificada do Cons. Abelardo Pio Vilanova e Silva),
+
+ACÓRDÃO N.º 1.929/20
+Processo TC nº 005.970/20
+Relator: Cons. Subs. Alisson Araújo
+2/3
+
+[Descrição gráfica atribuída à revisão Astra: o logotipo contém os dizeres TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Microlendas internas não tiveram leitura literal segura e não foram reconstruídas.]
 
 #### Página 3 do PDF oficial
 
-                                Estado do Piauí
-                                Tribunal de Contas
-                                Gabinete Cons. Subst. Alisson Araújo
-    
-            Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho e os
-            Conselheiros Substitutos Jaylson Fabianh Lopes Campelo, atuando em substituição ao
-            Conselheiro Kleber Dantas Eulálio (em gozo de férias), Delano Carneiro da Cunha Câmara,
-            convocado para substituir, nesse processo, o Conselheiro Joaquim Kennedy Nogueira Barros
-            (ausente na Sessão, por motivo justificado) e Jackson Nobre Veras, em substituição ao
-            Conselheiro Luciano Nunes Santos (em gozo de licença prêmio).
-    
-    
-            Representante do Ministério Público de Contas presente: Procurador-Geral José Araújo
-            Pinheiro Júnior.
-    
-    
-            Publique-se. Cumpra-se.
-    
-    
-            Ata da Sessão Plenária Ordinária Virtual n.º 038, de 5 de novembro de 2020. Teresina - PI.
-    
-    
-                                                     ASSINADO DIGITALMENTE
-                                             Conselheiro Substituto Alisson Felipe de Araújo
-                                                                      Relator
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO - 18/12/2020 10:13:27
-    
-                                                            ACÓRDÃO N.º 1.929/20
-                                                           Processo TC nº 005.970/20
-                                                       Relator: Cons. Subs. Alisson Araújo
-                                                                       3/3
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Subst. Alisson Araújo
+
+Waltânia Maria Nogueira de Sousa Leal Alvarenga, Olavo Rebêlo de Carvalho Filho e os Conselheiros Substitutos Jaylson Fabianh Lopes Campelo, atuando em substituição ao Conselheiro Kleber Dantas Eulálio (em gozo de férias), Delano Carneiro da Cunha Câmara, convocado para substituir, nesse processo, o Conselheiro Joaquim Kennedy Nogueira Barros (ausente na Sessão, por motivo justificado) e Jackson Nobre Veras, em substituição ao Conselheiro Luciano Nunes Santos (em gozo de licença prêmio).
+
+**Representante do Ministério Público de Contas presente:** Procurador-Geral José Araújo Pinheiro Júnior.
+
+Publique-se. Cumpra-se.
+
+**Ata** da Sessão Plenária Ordinária Virtual n.º 038, de 5 de novembro de 2020. Teresina - PI.
+
+***ASSINADO DIGITALMENTE***
+***Conselheiro Substituto Alisson Felipe de Araújo***
+***Relator***
+
+Assinado Digitalmente pelo sistema e-TCE - ALISSON FELIPE DE ARAUJO - 18/12/2020 10:13:27
+
+ACÓRDÃO N.º 1.929/20
+Processo TC nº 005.970/20
+Relator: Cons. Subs. Alisson Araújo
+3/3
+
+[Descrição gráfica atribuída à revisão Astra: o logotipo contém os dizeres TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Microlendas internas não tiveram leitura literal segura e não foram reconstruídas.]
+
 
 ## Ementa
 
@@ -166,3 +129,5 @@ Relator: Cons. Subs. Alisson Araújo
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
 
 Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 1, física 1: recorte conferido no visível, sem completar a continuação fora do escopo. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
+
+Cotejo adicional — next011: vinte físicas/contextos no conjunto, com leitura visual Sol e revisão independente integral Astra. Documento1, físicas2–3: continuação e presentes; grafia Fabianh restituída conforme a imagem, sem completar página externa. Logotipos foram descritos textualmente; microlendas ilegíveis, geometria e ênfases não decidíveis não são fac-símile. Vínculos de fonte/contexto continuam atribuídos ao inventário, sem prova autônoma de identidade jurídica. Não se certificam autenticidade, assinatura válida, vigência ou efeitos. Ressalvas anteriores preservadas.
