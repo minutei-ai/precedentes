@@ -9,3 +9,16 @@ Recortes de quatro atas de sessão, com seis registros selecionados, e uma ata d
 - [Comissão regimental de 24/08/2020: discussão sobre IRDR](ata-comissao-irdr-p0001.md).
 
 Datas divergentes e número de sessão repetido foram preservados. A Petição Cível 0090091-25.2025.9.21.0000 é descrita como arguição nos registros; as íntegras processuais continuam pendentes. A ata de comissão discute minuta, sem comprovar aprovação normativa ou instauração de IRDR. A #235 permanece aberta.
+
+## Organização e procedimentos — fontes de apoio da faixa P01
+
+Treze páginas de seis PDFs foram integradas após cotejo independente integral Astra. Não foram somadas como precedentes judiciais ou novos IDs.
+
+- [54/Adm/2018: aprovação de suspensão de prazos](sumula-adm54-2018-apoio.md).
+- [47/Adm/2018: aprovação da Resolução 209](sumula-adm47-2018-apoio.md).
+- [19/Adm/2018: aprovação de implantação do eproc](sumula-adm19-2018-apoio.md).
+- [Resolução 151/2015: NURER](resolucao151-2015-nurer.md).
+- [Ato Normativo 002/TJM republicado: cadastro eproc](ato002-tjm-res204-2018-republicado.md).
+- [Resolução 209/2018: apreendidos](resolucao209-2018-apreendidos.md).
+
+As duas páginas restantes da faixa, 36/Adm/2018 (próxima vaga de concurso) e 24/Adm/2018 (pagamento ao IPERGS), foram revistas integralmente e classificadas como gestão concreta; não foram publicadas como precedentes ou apoio de série jurisprudencial. A ADI apenas citada na 24 não foi recuperada por essa menção. O inteiro teor da Resolução 204 continua pendente: seu arquivo associado contém ato distinto.
