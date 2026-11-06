@@ -246,216 +246,219 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                            Estado do Piauí
-                            Tribunal de Contas
-                            Ministério Público de Contas
-    
-    
-    EXMO. SR. CONSELHEIRO RELATOR OLAVO REBELO DE CARVALHO FILHO
-    
-    
-    
-    
-    PARECER................Nº 2013JC0004
-    PROCESSO ........... TC-E – 01635/13
-    ASSUNTO............... CONSULTA
-    INTERESSADO...... PREFEITURA MUNCICIPAL DE MIGUEL LEÃO
-    RELATOR................OLAVO REBELO DE CARVALHO FILHO
-    
-    
-    
-    
-       1. RELATÓRIO
-    
-           Versa a presente manifestação de consulta formulada pela Prefeitura Municipal de
-    Miguel Leão, representada pelo prefeito, o Sr. Joel de Lima.
-           Indaga o Consulente:
-    
-    
-                                          É possível alterar/atualizar, com base nos índices da
-                                           inflação, o subsídio do Prefeito Municipal de Miguel Leão-
-                                           PI, fixado e não mais atualizado desde o ano de 2002?
-    
-    
-           Verifica-se que a presente consulta foi admitida pelo Conselheiro Relator (peça
-    eletrônica nº5), porque satisfeitos os requisitos de admissibilidade fixados no art. 201, II, ”a”, e
-    §§ 1º e 2º do Regimento Interno do TCE/PI.
-           A Comissão de Regimento e Jurisprudência noticiou a ausência de prejulgado ou
-    decisão reiterada sobre o tema, conforme determina o art. 338 do RITCE/PI (peça nº6).
-           A Diretoria de Fiscalização da Administração Municipal-DFAM desta Corte de Contas
-    exarou parecer à peça eletrônica nº 7 do processo, opinando no sentido de ser possível ao
-    Prefeito Municipal encaminhar à Câmara, projeto de lei de reajustamento de seu subsídio.
-           Em seguida, os autos foram encaminhados a este Ministério Público de Contas para
-    emissão de parecer.
-           É o que há para relatar.
-    
-    
-    
-                                                     1
-    
+[Marcas gráficas: brasão com “ESTADO DO PIAUÍ”; “Ministério Público de Contas do Piauí”]
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+
+
+**EXMO. SR. CONSELHEIRO RELATOR OLAVO REBELO DE CARVALHO FILHO**
+
+
+
+
+**PARECER**................Nº 2013JC0004
+**PROCESSO** ........... TC-E – 01635/13
+**ASSUNTO**............... CONSULTA
+**INTERESSADO**...... PREFEITURA MUNCICIPAL DE MIGUEL LEÃO
+**RELATOR**................OLAVO REBELO DE CARVALHO FILHO
+
+
+
+
+**1. RELATÓRIO**
+
+Versa a presente manifestação de consulta formulada pela Prefeitura Municipal de
+Miguel Leão, representada pelo prefeito, o Sr. Joel de Lima.
+Indaga o Consulente:
+
+
+•   É possível alterar/atualizar, com base nos índices da
+inflação, o subsídio do Prefeito Municipal de Miguel Leão-
+PI, fixado e não mais atualizado desde o ano de 2002?
+
+
+Verifica-se que a presente consulta foi admitida pelo Conselheiro Relator (peça
+eletrônica nº5), porque satisfeitos os requisitos de admissibilidade fixados no art. 201, II, ”a”, e
+§§ 1º e 2º do Regimento Interno do TCE/PI.
+A Comissão de Regimento e Jurisprudência noticiou a ausência de prejulgado ou
+decisão reiterada sobre o tema, conforme determina o art. 338 do RITCE/PI (peça nº6).
+A Diretoria de Fiscalização da Administração Municipal-DFAM desta Corte de Contas
+exarou parecer à peça eletrônica nº 7 do processo, opinando no sentido de ser possível ao
+Prefeito Municipal encaminhar à Câmara, projeto de lei de reajustamento de seu subsídio.
+Em seguida, os autos foram encaminhados a este Ministério Público de Contas para
+emissão de parecer.
+É o que há para relatar.
+
+
+
+<u><i>1</i></u>
 
 #### Página 2 do PDF oficial
 
-                           Estado do Piauí
-                           Tribunal de Contas
-                           Ministério Público de Contas
-    
-    
-    
-    2.FUNDAMENTAÇÃO
-    
-    
-    2.1 Da admissibilidade
-           Na disposição normativa a respeito das Consultas, determinam os art. 201 §1, 202 e
-    203 do Regimento Interno TCE-PI.
-    
-                         §1ºAs consultas formuladas deverão conter a indicação precisa e analítica de
-                         seu objeto e serão instruídas com parecer do órgão de assistência técnica ou
-                         jurídica da autoridade consulente, e constando, ainda, cópia da legislação
-                         pertinente ao objeto da consulta.
-                         Art. 202. O Tribunal não conhecerá de consulta formulada em desacordo com as
-                         disposições do artigo anterior ou que verse apenas sobre caso concreto,
-                         sendo liminarmente arquivada.
-                         Art. 203. A consulta que versar sobre dúvida quanto à interpretação e aplicação
-                         da legislação em caso concreto, obriga ao consulente demonstrar e fundamentar
-                         o relevante interesse público da matéria, e somente será recebida mediante
-                         decisão fundamentada do relator, sendo que a decisão proferida pelo Tribunal
-                         será sempre em tese.
-    
-    
-           Constata-se que além de não instruída com a lei mencionada no questionamento (Lei
-    Municipal nº 185/2002), a consulta não contém descrição genérica da hipótese. O Prefeito
-    Municipal intenta provocar esta Corte a manifestar-se especificamente sobre a possibilidade de
-    alteração/reajuste de seu próprio subsídio, terminando por vincular a consulta à análise de
-    caso concreto, procedimento vedado pelos arts. 202 e 388, da Resolução nº 13/2011.
-    Entretanto, o Conselheiro Relator entendeu razoável receber a consulta (peça eletrônica nº5).
-    
-    
-    2.2 Da possibilidade de reajustamento do subsídio
-    
-    
-           A Constituição do Estado do Piauí, no art. 31, dispõe que:
-    
-    
-                                 Art. 31 – A remuneração do Prefeito, a do Vice–Prefeito e a do Vereador
-                                 serão fixadas pela Câmara Municipal, em cada legislatura para a
-                                 subsequente, observado o que dispõem a Constituição Federal, arts.
-                                 37, XI, 150, II, 153, III e 153, § 2º, I, e esta Constituição.
-    
-    
-           Como denota o próprio texto legal, verifica-se que a remuneração do Prefeito e Vice-
-    Prefeito submete-se ao postulado constitucional da reserva absoluta de lei - Reserva Legal,
-    somente podendo ser fixada ou alterada por meio de lei, em sentido formal, de iniciativa da
-    Câmara, editada na legislatura anterior àquela na qual vigerá.
-    
-    
-                                                    2
-    
+[Marcas gráficas: brasão com “ESTADO DO PIAUÍ”; “Ministério Público de Contas do Piauí”]
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+
+
+
+**2.FUNDAMENTAÇÃO**
+
+
+**2.1 Da admissibilidade**
+Na disposição normativa a respeito das Consultas, determinam os art. 201 §1, 202 e
+203 do Regimento Interno TCE-PI.
+
+**§1º**As consultas formuladas deverão conter a indicação precisa e analítica de
+seu objeto e serão instruídas com parecer do órgão de assistência técnica ou
+jurídica da autoridade consulente, e constando, ainda, **cópia da legislação
+pertinente ao objeto da consulta.**
+**Art. 202.** O Tribunal não conhecerá de consulta formulada em desacordo com as
+disposições do artigo anterior ou **que verse apenas sobre caso concreto**,
+sendo liminarmente arquivada.
+**Art. 203.** A consulta que versar sobre dúvida quanto à interpretação e aplicação
+da legislação em caso concreto, obriga ao consulente demonstrar e fundamentar
+o **relevante interesse público da matéria**, e somente será recebida mediante
+decisão fundamentada do relator, sendo que a decisão proferida pelo Tribunal
+será sempre em tese.
+
+
+Constata-se que além de não instruída com a lei mencionada no questionamento (Lei
+Municipal nº 185/2002), a consulta não contém descrição genérica da hipótese. O Prefeito
+Municipal intenta provocar esta Corte a manifestar-se especificamente sobre a possibilidade de
+alteração/reajuste de seu próprio subsídio, terminando por vincular a consulta à análise de
+caso concreto, procedimento vedado pelos arts. 202 e 388, da Resolução nº 13/2011.
+Entretanto, o Conselheiro Relator entendeu razoável receber a consulta (peça eletrônica nº5).
+
+
+**2.2 Da possibilidade de reajustamento do subsídio**
+
+
+A Constituição do Estado do Piauí, no art. 31, dispõe que:
+
+
+Art. 31 – A remuneração do Prefeito, a do Vice–Prefeito e a do Vereador
+serão fixadas pela Câmara Municipal, **em cada legislatura para a
+subsequente**, observado o que dispõem a Constituição Federal, arts.
+37, XI, 150, II, 153, III e 153, § 2º, I, e esta Constituição.
+
+
+Como denota o próprio texto legal, verifica-se que a remuneração do Prefeito e Vice-
+Prefeito submete-se ao postulado constitucional da reserva absoluta de lei - Reserva Legal,
+somente podendo ser fixada ou alterada por meio de lei, em sentido formal, de iniciativa da
+Câmara, editada na legislatura anterior àquela na qual vigerá.
+
+
+<u>2</u>
 
 #### Página 3 do PDF oficial
 
-                           Estado do Piauí
-                           Tribunal de Contas
-                           Ministério Público de Contas
-    
-    
-           A não observância dos requisitos acima dispostos acarretaria na inconstitucionalidade
-    da percepção dos valores.
-           Ressalta-se que apesar de a Emenda Constitucional nº 19, de 04 de junho de 1998, ter
-    alterado a redação do inciso V, do art. 29 da Constituição Federal de 1988, removendo a
-    previsão expressa da exigência de fixação da remuneração do Prefeito em legislatura anterior
-    à de início de sua vigência, a jurisprudência pátria, cito o Supremo Tribunal Federal - STF
-    reafirma o entendimento pacífico de que para a fixação dos subsídios de Prefeitos e Vice-
-    prefeitos é necessário, além de lei de iniciativa da Câmara, o atendimento ao princípio da
-    anterioridade. Em consonância com o exposto, segue entendimento do Ministro Gilmar
-    Mendes:
-                                 EMENTA: Agravo regimental em agravo de instrumento. 2.
-                         Constitucional. Prefeito, Vice-Prefeito e vereadores. Fixação da remuneração.
-                         Obrigatoriedade de ser feita na legislatura anterior para vigorar na subsequente.
-                         Princípio da anterioridade. Precedentes. 3. Ausência de argumentos suficientes
-                         para infirmar a decisão recorrida. 4. Agravo regimental a que se nega
-                         provimento. (AI 843.758-AgR, Rel. Min. Gilmar Mendes, julgamento em 28-2-
-                         2012, Segunda Turma, DJE de 13-3-2012).
-    
-    
-           Entretanto, como demonstrou a DFAM, o mero reajuste da remuneração, por se tratar
-    de instrumento repositor da perda inflacionária, poderá ser realizado na mesma legislatura, não
-    tendo aplicação, neste caso, o princípio da anterioridade. No entanto, tal reajuste somente
-    poderá ser veiculado por meio de lei em sentido estrito, tendo em conta que, em matéria de
-    remuneração de servidores públicos em geral, o único instrumento cabível é a lei. Assim é
-    pacificada a questão na Suprema Corte brasileira:
-    
-    
-                         O tema concernente à disciplina jurídica da remuneração funcional, vedando-se,
-                         em consequência, a intervenção de outros atos estatais revestidos de menor
-                         positividade jurídica, emanados de fontes normativas que se revelem estranhas,
-                         quanto à sua origem institucional, ao âmbito de atuação do Poder Legislativo
-                         (...). Não cabe ao Poder Executivo em tema regido pelo postulado da reserva de
-                         lei, atuar na anômala (e inconstitucional) condição de legislador, para, em assim
-                         agindo, proceder à imposição de seus próprios critérios, afastando, desse modo,
-                         os fatores que, no âmbito de nosso sistema constitucional, só podem ser
-                         legitimamente definidos pelo Parlamento. É que, se tal fosse possível, o Poder
-                         Executivo passaria a desempenhar atribuição que lhe é institucionalmente
-                         estranha (a de legislador), usurpando, desse modo, no contexto de um sistema
-                         de poderes essencialmente limitados, competência que não lhe pertence, com
-                         evidente transgressão ao princípio constitucional da separação de poderes." (ADI
-                         2.075-MC, Rel. Min. Celso de Mello, julgamento em 7-2-2001, Plenário, DJ de
-                         27-6-2003.)
-    
-                         Em tema de remuneração dos servidores públicos, estabelece a Constituição o
-                         princípio da reserva de lei. É dizer, em tema de remuneração dos servidores
-    
-    
-                                                     3
-    
+[Marcas gráficas: brasão com “ESTADO DO PIAUÍ”; “Ministério Público de Contas do Piauí”]
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+
+
+A não observância dos requisitos acima dispostos acarretaria na inconstitucionalidade
+da percepção dos valores.
+Ressalta-se que apesar de a Emenda Constitucional nº 19, de 04 de junho de 1998, ter
+alterado a redação do inciso V, do art. 29 da Constituição Federal de 1988, removendo a
+previsão expressa da exigência de fixação da remuneração do Prefeito em legislatura anterior
+à de início de sua vigência, a jurisprudência pátria, cito o Supremo Tribunal Federal - STF
+reafirma o entendimento pacífico de que para a fixação dos subsídios de Prefeitos e Vice-
+prefeitos é necessário, além de lei de iniciativa da Câmara, o atendimento ao princípio da
+anterioridade. Em consonância com o exposto, segue entendimento do Ministro Gilmar
+Mendes:
+EMENTA: Agravo regimental em agravo de instrumento. 2.
+Constitucional. Prefeito, Vice-Prefeito e vereadores. Fixação da remuneração.
+Obrigatoriedade de ser feita na legislatura anterior para vigorar na subsequente.
+Princípio da anterioridade. Precedentes. 3. Ausência de argumentos suficientes
+para infirmar a decisão recorrida. 4. Agravo regimental a que se nega
+provimento. (AI 843.758-AgR, Rel. Min. Gilmar Mendes, julgamento em 28-2-
+2012, Segunda Turma, DJE de 13-3-2012).
+
+
+Entretanto, como demonstrou a DFAM, o mero reajuste da remuneração, por se tratar
+de instrumento repositor da perda inflacionária, poderá ser realizado na mesma legislatura, não
+tendo aplicação, neste caso, o princípio da anterioridade. No entanto, tal reajuste somente
+poderá ser veiculado por meio de lei em sentido estrito, tendo em conta que, em matéria de
+remuneração de servidores públicos em geral, o único instrumento cabível é a lei. Assim é
+pacificada a questão na Suprema Corte brasileira:
+
+
+O tema concernente à disciplina jurídica da remuneração funcional, vedando-se,
+em consequência, a intervenção de outros atos estatais revestidos de menor
+positividade jurídica, emanados de fontes normativas que se revelem estranhas,
+quanto à sua origem institucional, ao âmbito de atuação do Poder Legislativo
+(...). Não cabe ao Poder Executivo em tema regido pelo postulado da reserva de
+lei, atuar na anômala (e inconstitucional) condição de legislador, para, em assim
+agindo, proceder à imposição de seus próprios critérios, afastando, desse modo,
+os fatores que, no âmbito de nosso sistema constitucional, só podem ser
+legitimamente definidos pelo Parlamento. É que, se tal fosse possível, o Poder
+Executivo passaria a desempenhar atribuição que lhe é institucionalmente
+estranha (a de legislador), usurpando, desse modo, no contexto de um sistema
+de poderes essencialmente limitados, competência que não lhe pertence, com
+evidente transgressão ao princípio constitucional da separação de poderes." (ADI
+2.075-MC, Rel. Min. Celso de Mello, julgamento em 7-2-2001, Plenário, DJ de
+27-6-2003.)
+
+Em tema de remuneração dos servidores públicos, estabelece a Constituição o
+princípio da reserva de lei. É dizer, em tema de remuneração dos servidores
+
+
+<u>3</u>
 
 #### Página 4 do PDF oficial
 
-                              Estado do Piauí
-                              Tribunal de Contas
-                              Ministério Público de Contas
-    
-    
-                          públicos, nada será feito senão mediante lei, lei específica. CF, art. 37, X; art. 51,
-                          IV; art. 52, XIII. Inconstitucionalidade formal do Ato Conjunto 1, de 5-11-2004,
-                          das Mesas do Senado Federal e da Câmara dos Deputados. Cautelar deferida.
-                          (ADI 3.369-MC, Rel. Min. Carlos Velloso, julgamento em 16-12-2004, Plenário,
-                          DJ de 1º-2-2005.)
-    
-    
-           Na ausência de expressa previsão constitucional e legal restritiva e por se tratar o
-    reajuste de mera atualização do valor da remuneração diante da perda inflacionária,
-    desprovido de caráter alterador, portanto, entende-se que poderá ser exercida pelo próprio
-    Prefeito Municipal, por meio de projeto de lei encaminhado à Câmara Municipal. Lembrando-se
-    que deve ser utilizado o índice de reajuste oficial, sob pena de uso do instituto como meio de
-    alterar o valor real da remuneração, recaindo consequentemente no art.31 da Constituição
-    Estadual e sendo obrigatório o respeito ao Princípio da Anterioridade.
-    
-    
-    3.CONCLUSÃO
-    
-    
-           No exposto, este Órgão Ministerial, após exame dos autos, manifesta-se pela
-    possibilidade de reajustamento do subsídio do Prefeito Municipal na mesma legislatura, por
-    meio de lei e com base nos índices de reajuste oficial, por se tratar de instrumento repositor
-    da perda inflacionária.
-    
-    
-           É o parecer.
-    
-                                      Teresina, 28 de junho de 2013.
-    
-    
-    
-    
-                                                       4
-    
+[Marcas gráficas: brasão com “ESTADO DO PIAUÍ”; “Ministério Público de Contas do Piauí”]
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+
+
+públicos, nada será feito senão mediante lei, lei específica. CF, art. 37, X; art. 51,
+IV; art. 52, XIII. Inconstitucionalidade formal do Ato Conjunto 1, de 5-11-2004,
+das Mesas do Senado Federal e da Câmara dos Deputados. Cautelar deferida.
+(ADI 3.369-MC, Rel. Min. Carlos Velloso, julgamento em 16-12-2004, Plenário,
+DJ de 1º-2-2005.)
+
+
+Na ausência de expressa previsão constitucional e legal restritiva e por se tratar o
+reajuste de mera atualização do valor da remuneração diante da perda inflacionária,
+desprovido de caráter alterador, portanto, entende-se que poderá ser exercida pelo próprio
+Prefeito Municipal, por meio de projeto de lei encaminhado à Câmara Municipal. Lembrando-se
+que deve ser utilizado o índice de reajuste oficial, sob pena de uso do instituto como meio de
+alterar o valor real da remuneração, recaindo consequentemente no art.31 da Constituição
+Estadual e sendo obrigatório o respeito ao Princípio da Anterioridade.
+
+
+**3.CONCLUSÃO**
+
+
+No exposto, este Órgão Ministerial, após exame dos autos, manifesta-se pela
+**possibilidade de reajustamento** do subsídio do Prefeito Municipal na mesma legislatura, por
+meio de **lei** e com base **nos índices de reajuste oficial**, por se tratar de instrumento repositor
+da perda inflacionária.
+
+
+É o parecer.
+
+Teresina, 28 de junho de 2013.
+
+
+
+
+<u><i>4</i></u>
 
 #### Página 5 do PDF oficial
 
-    Assinado Digitalmente pelo sistema e-TCE
-    JOS ARAJO PINHEIRO JNIOR
-    
+*Assinado Digitalmente pelo sistema e-TCE*
+**JOS ARAJO PINHEIRO JNIOR**
 
 ### Documento vinculado pela fonte
 
@@ -730,3 +733,5 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 [Parecer DFAM](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Parecer-DFAM-14.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 3, físicas 1–5: preservadas grafias e citações; marcador gráfico e destaques da paginação ajustados conforme imagem. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.

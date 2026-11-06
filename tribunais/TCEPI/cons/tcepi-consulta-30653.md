@@ -22,57 +22,58 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                 Estado do Piauí
-                 Tribunal de Contas
-                 Gabinete Cons. Subst. Alisson Araújo
-    
-    
-                                       ACÓRDÃO N.º 1.929/20
-    
-    
-    PROCESSO: TC N.º 005.970/20
-    DECISÃO N.º 1.036/20
-    ASSUNTO: Consulta - Município de Lagoa Alegre - Prefeitura Municipal - Exercício
-                financeiro de 2020
-    RELATOR:         Conselheiro Substituto Alisson Felipe de Araújo
-    PROCURADOR: Leandro Maciel do Nascimento
-    CONSULENTE:      Sr. Carlos Magno Fortes Machado - Prefeito Municipal
-    ADVOGADO:        Sem representação nos autos
-    
-    
-    
-    
-                                                         EMENTA: CONSULTA. PROCEDIMENTO A
-                                                         SER ADOTADO EM RELAÇÃO AOS
-                                                         CONTRATOS TEMPORÁRIOS DO MUNICÍPIO
-                                                         EM MEIO À SUSPENSÃO DAS ATIVIDADES
-                                                         EM RAZÃO DA PANDEMIA DA COVID-19.
-    
-                                                         A consulta, que visa dirimir dúvidas acerca de
-                                                         procedimentos a serem adotados em relação as
-                                                         contratações temporárias do município em meio à
-                                                         suspenção das atividades em razão da pandemia da
-                                                         Covid-19, deve ser respondida nos termos das
-                                                         manifestações presentes nos autos.
-    
-                                                         Sumário. Município de Lagoa Alegre. Prefeitura
-                                                         Municipal. Exercício Financeiro de 2020. Análise
-                                                         técnica circunstanciada. Resposta aos quesitos
-                                                         formulados pelo consulente nos seguintes termos:
-                                                         Impossibilidade de suspensão dos contratos
-                                                         temporários regidos pelo art. 37, inciso IX da
-                                                         CF/88, ainda que em razão da situação
-                                                         excepcional de crise na saúde pública provocada
-                                                         pela COVD-19. Possibilidade de rescisão
-                                                         contratual antecipada decorrente da suspensão
-                                                         das atividades pelo advento da pandemia de
-    
-    
-                                          ACÓRDÃO N.º 1.929/20
-                                         Processo TC nº 005.970/20
-                                     Relator: Cons. Subs. Alisson Araújo
-                                                     1/3
-    
+[Marcas gráficas: brasão com “ESTADO DO PIAUÍ”; “TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ”]
+
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Subst. Alisson Araújo
+
+
+**ACÓRDÃO N.º 1.929/20**
+
+
+**PROCESSO: TC N.º 005.970/20**
+**DECISÃO N.º 1.036/20**
+**ASSUNTO:** Consulta - Município de Lagoa Alegre - Prefeitura Municipal - Exercício
+financeiro de 2020
+**RELATOR:**         Conselheiro Substituto Alisson Felipe de Araújo
+**PROCURADOR:** Leandro Maciel do Nascimento
+**CONSULENTE:**      Sr. Carlos Magno Fortes Machado - Prefeito Municipal
+**ADVOGADO:**        Sem representação nos autos
+
+
+
+
+EMENTA: CONSULTA. PROCEDIMENTO A
+SER ADOTADO EM RELAÇÃO AOS
+CONTRATOS TEMPORÁRIOS DO MUNICÍPIO
+EM MEIO À SUSPENSÃO DAS ATIVIDADES
+EM RAZÃO DA PANDEMIA DA COVID-19.
+
+A consulta, que visa dirimir dúvidas acerca de
+procedimentos a serem adotados em relação as
+contratações temporárias do município em meio à
+suspenção das atividades em razão da pandemia da
+Covid-19, deve ser respondida nos termos das
+manifestações presentes nos autos.
+
+*Sumário. Município de Lagoa Alegre. Prefeitura
+Municipal. Exercício Financeiro de 2020. Análise
+técnica circunstanciada. Resposta aos quesitos
+formulados pelo consulente nos seguintes termos:
+Impossibilidade de suspensão dos contratos
+temporários regidos pelo art. 37, inciso IX da
+CF/88, ainda que em razão da situação
+excepcional de crise na saúde pública provocada
+pela COVD-19. Possibilidade de rescisão
+contratual antecipada decorrente da suspensão
+das atividades pelo advento da pandemia de*
+
+
+ACÓRDÃO N.º 1.929/20
+Processo TC nº 005.970/20
+Relator: Cons. Subs. Alisson Araújo
+1/3
 
 #### Página 2 do PDF oficial
 
@@ -163,3 +164,5 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 [ACO005970-2020](https://www.tce.pi.gov.br/wp-content/uploads/2021/02/ACO005970-2020.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 1, física 1: recorte conferido no visível, sem completar a continuação fora do escopo. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
