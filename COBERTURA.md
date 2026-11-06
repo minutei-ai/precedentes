@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 43.993 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 43.994 IDs únicos em 212 órgãos, sem duplicatas (05/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1016 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1017 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -3256,3 +3256,5 @@ PGEPR, parte 10 em 05/11/2026: vinte páginas de seis PDFs (OA 95–97, 99, 101 
 PGEPR, recuperação histórica e minuta em 05/11/2026: OA 002/2016 publicada em três páginas após revisão independente integral Astra; quatro ajustes de apresentação aplicados. Minuta DOCX da OA 16 cotejada em duas páginas locais, com campos em branco e duas notas de cor corrigidas, separada da redação da resolução. Nenhum ID novo; 200 páginas de 89 PDFs nos recortes revistos, mais um DOCX/duas páginas locais. Anexos, outras fontes históricas e lacunas permanecem na #256.
 
 PGEPR, quatro HTML históricos em 05/11/2026: corpos próprios das OA 23, 33, 34 e 37 cotejados integralmente por Sol e publicados com notas e variantes do portal. Não houve conciliação das notas de revogação nem preenchimento por orientações substitutas; DOE/anexos bloqueados continuam pendentes. Quatro HTML são suportes distintos de PDF, sem soma de páginas ou novos IDs. #256 aberta.
+
+- **PGEPA, 000006/2022 em 05/11/2026:** 28 páginas cotejadas integralmente por Astra e cinco ajustes exatos de ênfase/estrutura aplicados. Cabeçalho editorial não impresso removido; fecho de 22/01/2023 e marca diagonal preservados sem inferir efeito. Um novo ID: PGEPA 37, total 43.994 em 212 órgãos. Recortes integrados: 24 PDFs/409 páginas; permanecem 26 PDFs/1.014 páginas e lacunas locais. #261 aberta.
