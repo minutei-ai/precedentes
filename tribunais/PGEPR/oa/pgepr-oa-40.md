@@ -14,7 +14,7 @@
 
 ## Ocorrência no Diário Oficial
 
-A [edição nº 10643 de 11/03/2020](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=10561&numero=10643), página física 5 do PDF, contém a Resolução nº 047/2020-PGE. O bloco da orientação e seu fecho foram lidos visualmente em recortes da edição; esta ocorrência é distinta das peças transcritas abaixo. No item 3 do diário, “que” está em peso regular e o negrito começa em “tenha”, terminando antes do ponto e vírgula; o HTML abaixo atribui realce diferente à sua própria ocorrência. A leitura não abrange o diário inteiro nem estabelece autenticidade, vigência ou efeitos.
+A [edição nº 10643 de 11/03/2020](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=10561&numero=10643), página física 5 do PDF, contém a Resolução nº 047/2020-PGE. O bloco da orientação e seu fecho foram lidos visualmente em recortes da edição; esta ocorrência é distinta das peças transcritas abaixo. A leitura não abrange o diário inteiro nem estabelece autenticidade, vigência ou efeitos.
 
 ## Transcrição visual e revisão independente
 
