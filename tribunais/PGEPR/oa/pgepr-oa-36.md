@@ -85,3 +85,121 @@ acesse: http://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura.do e informe o 
 ##### Elementos visuais, confronto e incertezas
 
 Identidade impressa: ORIENTAÇÃO ADMINISTRATIVA N.º 36–PGE. Rótulo em caixa vermelha SUSPENSA PELA / RESOLUÇÃO 131/2019-PGE e marca d’água diagonal cinza SUSPENSA (ausente da camada nativa), registrados sem inferir efeito jurídico. Carimbo PROTOCOLO / Fls. 14 / Mov. 7 / INTEGRADO DO ESTADO. Brasão; quatro temas no quadro. Negritos no cabeçalho, título, autoridade, rótulos, números dos itens e cargo. Preservadas as referências impressas 8.030/1990, § 2o e art. 5o, sem correção jurídica. A marca d’água não impede a leitura do corpo. Sem assinatura manuscrita ou lacuna textual identificada.
+
+## Resolução PGE 131 - 23 de Maio de 2019 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=220465&indice=4&totalRegistros=319&anoSpan=2021&anoSelecionado=2019&mesSelecionado=0&isPaginado=true); SHA-256 da captura `b8f65c8daba7a3818b9f6d4935e686ebee1e863fc7dff2e72ba48af4d059f577`.
+
+Bloco nativo integral do cabeçalho ao aviso final do Diário Oficial, cotejado pessoalmente em revisão independente Sol. O HTML não tem paginação física fixa. Links relativos foram tornados absolutos; espaços de indentação do código foram removidos, com invariância do texto renderizado conferida. Atributos, fontes e estilos não constituem fac-símile nem prova de autenticidade. Destinos de links, edições de diário e outros atos apenas citados não foram cotejados neste acréscimo. Dizeres de aprovação, suspensão, revogação e vigência são texto da fonte, sem conclusão própria sobre efeitos jurídicos.
+
+As Resoluções 122/2019 e 131/2019 são atos distintos, reproduzidos em blocos separados. Rótulos duplicados de artigos e notas de suspensão não foram fundidos ou convertidos em conclusão de vigência.
+
+<h3>Resolução PGE 131 - 23 de Maio de 2019</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=9675&amp;numero=10443">Diário Oficial nº. 10443</a> de 24 de Maio de 2019
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1374881">Suspender a aplicação da Resolução n. 122/2019 - PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1374882">A<strong> PROCURADORA-GERAL DO ESTADO</strong>, com fundamento no artigo 14 da Lei 19.848, de 03 de maio de 2019, e no uso das atribuições que lhe conferem a Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n° 40, de 08 de dezembro de 1987, <br/><br/><strong>RESOLVE</strong></a>
+</p>
+<p>
+<b class="labelAto">Art. 1°</b>
+<a id="1374883"><a id="1374883"></a><strong>Art. 1º</strong> Suspender a aplicação da<a href="https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&amp;codAto=220287&amp;codItemAto=1373473#1373473"> Resolução n. 122/2019</a>, diante da notícia de que a Turma Recursal suscitará Incidente de Resolução de Demandas Repetitivas relativamente à contratação temporária de professores.</a>
+</p>
+<p>
+<b class="labelAto">Art. 2°</b>
+<a id="1374884"><strong>Art. 2º</strong> Esta Resolução entrará em vigor na data de sua publicação.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1374885"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
+
+## Resolução PGE 122 - 10 de Maio de 2019 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=220287&codItemAto=1373473#1373473); SHA-256 da captura `45364e5d6f0cd7e957c4c057081c02fc7aa568997750141f4790e0fb79b58f29`.
+
+Bloco nativo integral do cabeçalho ao aviso final do Diário Oficial, cotejado pessoalmente em revisão independente Sol. O HTML não tem paginação física fixa. Links relativos foram tornados absolutos; espaços de indentação do código foram removidos, com invariância do texto renderizado conferida. Atributos, fontes e estilos não constituem fac-símile nem prova de autenticidade. Destinos de links, edições de diário e outros atos apenas citados não foram cotejados neste acréscimo. Dizeres de aprovação, suspensão, revogação e vigência são texto da fonte, sem conclusão própria sobre efeitos jurídicos.
+
+As Resoluções 122/2019 e 131/2019 são atos distintos, reproduzidos em blocos separados. Rótulos duplicados de artigos e notas de suspensão não foram fundidos ou convertidos em conclusão de vigência.
+
+<h3>Resolução PGE 122 - 10 de Maio de 2019</h3>
+<br/>
+
+
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=9670&amp;numero=10438">Diário Oficial nº. 10438</a> de 17 de Maio de 2019
+
+
+
+
+<br/>
+<br/>
+<p>
+<b class="labelAto"></b>
+<a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&amp;codAto=220465&amp;codItemAto=1374883#1374883"> (vide Resolução 131 de 23/05/2019)</a>
+</p>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1373473">Edita a Orientação Administrativa nº 36-PGE.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373513">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, com fundamento no artigo 14 da Lei 19.848, de 03 de maio de 2019, e no uso das atribuições que lhe conferem a Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n° 40, de 08 de dezembro de 1987; o art. 8° e inciso X do art. 20, ambos do Decreto Estadual n°2.137, de 12 de agosto de 2015, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:<br/><br/>
+<table class="tbato" height="130" style="width: 714px;">
+<tbody>
+<tr>
+<td rowspan="4" style="width: 125.9px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 571.1px;">Processo Seletivo Simplificado - PSS para a contratação de pessoal por tempo determinado (Lei Complementar 108/2005).</td>
+</tr>
+<tr>
+<td style="width: 571.1px;">Prazo máximo de contratação.</td>
+</tr>
+<tr>
+<td style="width: 571.1px;">Proibição de recontratação de pessoa que já tenha sido contratada antes de decorridos 12 meses do encerramento do contrato anterior.</td>
+</tr>
+<tr>
+<td style="width: 571.1px;">Análise prévia da minuta do edital pela Procuradoria-Geral do Estado.</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373516"><strong>1.</strong> As contratações fundamentadas na Lei Complementar 108/2005 deverão ser realizadas pelos prazos máximos previstos no seu artigo 5º. O período total do contrato, incluídas eventuais prorrogações, não poderá, em hipótese alguma, ultrapassar o limite de dois anos;</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373518"><strong>2.</strong> Os editais dos Processos Seletivos Simplificados - PSS deverão conter cláusula que proíba a recontratação de pessoa que já tenha sido contratada com fundamento na Lei Complementar 108/2005 antes de decorridos 12 meses do encerramento do contrato anterior;</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373521"><strong>3.</strong> As minutas dos editais de Processos Seletivos Simplificados - PSS deverão ser previamente submetidas à Procuradoria-Geral do Estado para análise jurídica.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373530"><strong>REFERÊNCIAS:</strong> Constituição Federal, art. 37, II, IX e § 2º; Constituição Estadual, art. 27, IX; Lei Complementar Estadual 108/2005, art. 5º; Lei Federal 8.030/1990, art. 19-A; STF, RE 765.320 e 635.648; TJPR – 4ª Turma Recursal, 0022945-69.2018.8.16.0182 e 0019150-53.2018.8.16.0021.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1373531"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p>Aplicação suspensa pela Resolução n. 131/2019 - PGE.</p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

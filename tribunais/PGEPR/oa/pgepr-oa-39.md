@@ -132,3 +132,61 @@ b9238192ff4a749031a154aee8a3308c
 Continuação da OA39. Cabeçalho, protocolo e rodapé confirmados também em ampliações. Marca d’água REVOGADO. Mantido ponto isolado após PUBLIQUE-SE. ANOTE-SE.
 
 Nenhuma lacuna textual ilegível remanescente identificada nesta leitura.  Brasões/logomarcas registrados pelo texto que exibem; detalhes heráldicos não transcritos.
+
+## Resolução PGE 035 - 19 de Fevereiro de 2020 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=232569&indice=1&totalRegistros=307&anoSpan=2021&anoSelecionado=2020&mesSelecionado=0&isPaginado=false); SHA-256 da captura `2c8f890358c76f60240dca857079fc655a9b8d3372035294b942d3deda86ce4c`.
+
+Bloco nativo integral do cabeçalho ao aviso final do Diário Oficial, cotejado pessoalmente em revisão independente Sol. O HTML não tem paginação física fixa. Links relativos foram tornados absolutos; espaços de indentação do código foram removidos, com invariância do texto renderizado conferida. Atributos, fontes e estilos não constituem fac-símile nem prova de autenticidade. Destinos de links, edições de diário e outros atos apenas citados não foram cotejados neste acréscimo. Dizeres de aprovação, suspensão, revogação e vigência são texto da fonte, sem conclusão própria sobre efeitos jurídicos.
+
+Mantidos cabeçalho 19/02/2020, fecho 19/02/2019 e nota de errata com a forma “196 de fevereiro de 2019”, sem conciliar os três dizeres. Rasuras do HTML preservadas. A Resolução 152/2021, que imprime OA48, permanece na ficha própria.
+
+<h3>Resolução PGE 035 - 19 de Fevereiro de 2020</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=10554&amp;numero=10636">Diário Oficial nº. 10636</a> de 2 de Março de 2020
+<br/><br/>
+<p>
+<b class="labelAto"></b>
+<a href="https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&amp;codAto=251829&amp;codItemAto=1582717#1582717"> (Revogado pela Resolução 152 de 13/08/2021)</a>
+</p>
+<p>
+<b class="labelAto"><strike>Súmula:</strike></b>
+<strike><a id="1444226">Edita a Orientação Administrativa n.º 039/PGE</a></strike>
+</p>
+<p>
+<b class="labelAto"><strike></strike></b>
+<strike><a id="1444228">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n. 8.485, de 03 de junho de 1987, e o artigo 5º, inciso XXI, da Lei Complementar n. 26, de 30 de dezembro de 1985, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</a></strike>
+</p>
+<p>
+<b class="labelAto"><strike></strike></b>
+<strike><a id="1444241"><table class="tbato" height="225" style="width: 732.683px;">
+<tbody>
+<tr>
+<td rowspan="4" style="width: 198px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 516.683px;">MILITARES</td>
+</tr>
+<tr>
+<td style="width: 516.683px;">Promoção na carreira</td>
+</tr>
+<tr>
+<td style="width: 516.683px;">O ato administrativo funcional de promoção só se perfectibiliza com o preenchimento de todos os requisitos legais, pressupondo a existência de vagas na classe superior e a respectiva disponibilidade orçamentária e financeira.</td>
+</tr>
+<tr>
+<td style="width: 516.683px;">Os efeitos funcionais e financeiros da promoção só têm início com a publicação do ato de concessão na imprensa oficial (Diário Oficial do Estado do Paraná), sendo vedada a atribuição de efeitos retroativos, ressalvadas hipóteses específicas nas quais haja previsão legal e motivação expressa para tal finalidade.</td>
+</tr>
+</tbody>
+</table>
+<br/><strong>1.</strong> A promoção na carreira depende da edição de ato administrativo concessivo, além de pressupor o preenchimento de todos os requisitos legais e a respectiva disponibilidade orçamentária e financeira, nos termos da Constituição Federal, da Lei Complementar Federal nº 101/2000 (Lei de Responsabilidade Fiscal) e do Decreto Estadual nº 2.879/2015.<br/><br/><strong>2.</strong> Depende de prévia e expressa autorização da Comissão de Política Salarial e do Chefe do Poder Executivo, a realização de despesas com promoções, de quaisquer naturezas, independentemente do valor, nos termos do art. 1º, inciso I, c/c § 1º, inciso II, do Decreto Estadual nº 4.189/2016;<br/><br/><strong>3.</strong> Uma vez concluído o procedimento de promoção, o ato concessivo deverá será publicado, para fins de publicidade administrativa, nos termos do ar. 37, caput, da Constituição Federal, e do art. 2º, alínea “a”, da Lei Estadual nº 5.970/69, no Diário Oficial do Estado do Paraná, editado pelo Departamento de Imprensa Oficial do Estado – DIOE, considerando-se esta data o termo inicial dos efeitos funcionais e financeiros, ressalvadas hipóteses específicas nas quais haja previsão legal e motivação expressa de retroatividade.<br/><br/><strong>4.</strong> No caso da promoção por antiguidade e merecimento, as datas previstas nos arts. 40 da Lei Estadual nº 5.940/1969 e 42 da Lei Estadual nº 5.944/1969 dizem respeito ao início do procedimento, efetivando-se a promoção apenas com o ato final praticado pela autoridade que detém competência para a sua concessão (Governador do Estado, para os oficiais, e Comandante Geral, para os praças), sendo vedada a atribuição de efeitos retroativos.<br/><br/><strong>5.</strong> O art. 7º da Lei Estadual nº 17.169/2012 veda expressamente a concessão de promoções aos inativos. No entanto, uma vez editado o ato concessório da promoção na atividade, seus efeitos deverão ser implementados, ainda que após a edição de tal ato o servidor tenha se aposentado. <br/><br/><strong>6.</strong> A inobservância aos requisitos legais para a concessão do ato administrativo funcional de promoção acarretará a apuração da responsabilidade administrativa da autoridade competente para a prática do ato e a imposição das penalidades eventualmente cabíveis. <br/><br/><br/><strong>REFERÊNCIAS:</strong> Constituição Federal, art. 37, caput; art. 42, § 1º; art. 169, § 1º, inciso I; Lei Complementar Federal nº 101/2000, arts. 18 e 21; Lei Estadual nº 5.940/1969, art. 40; Lei Estadual nº 5.944/1969, art. 42; Lei Estadual nº 17.169/2012, art. 7º; art. 2º, alínea “a”, Lei Estadual nº 5.970/69; Decreto Estadual nº 2.879/2015, art. 33; Decreto Estadual nº 4.189/2016, art. 1º, inciso I, c/c § 1º; Pareceres nºs 22/2018-PGE e 01/2019-PGE; autos 0027433-67.2018.8.16.0182 - 4ª Turma Recursal dos Juizados Especiais do Paraná.</a></strike>
+</p>
+<p>
+<b class="labelAto"><strike></strike></b>
+<strike><a id="1444242"><strong>PUBLIQUE-SE. ANOTE-SE.</strong><br/><br/>Curitiba, 19 de fevereiro de 2019.</a></strike>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3">Onde se lê "Curitiba, 196 de fevereiro de 2019", leia-se "Curitiba, 19 de fevereiro de 2020". (Texto reproduzido de acordo com a errata publicada no DIOE n. 10827 de 08/12/2020) </p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

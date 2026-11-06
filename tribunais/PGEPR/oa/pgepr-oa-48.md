@@ -132,3 +132,64 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura com o código: **3001f
 Texto transcrito a partir da imagem desta página e cotejado com suas faixas.  Referências imprimem “5.944/1969”, enquanto a página 2 imprime “5.940/1969”; nenhum número foi corrigido. O caractere depois de “Paraná” foi registrado como I e mantém ressalva local de leitura.
 
 Não se consultaram corpos públicos nem candidatos antigos. Marcadores entre colchetes são editoriais. Brasão, barras decorativas e linhas de quadro não foram convertidos em texto. Não se inferem vigência, efeito jurídico ou equivalência entre versões. Não foram observados CPF, matrícula ou eTCE pessoal nesta página.
+
+## Resolução PGE 152 - 13 de Agosto de 2021 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=251829&indice=1&totalRegistros=149&anoSpan=2021&anoSelecionado=2021&mesSelecionado=0&isPaginado=true); SHA-256 da captura `e958d831c4f8ed721201a98f0b9d91c5010643bdfeab2bae084c48ea9baf4ca1`.
+
+Bloco nativo integral do cabeçalho ao aviso final do Diário Oficial, cotejado pessoalmente em revisão independente Sol. O HTML não tem paginação física fixa. Links relativos foram tornados absolutos; espaços de indentação do código foram removidos, com invariância do texto renderizado conferida. Atributos, fontes e estilos não constituem fac-símile nem prova de autenticidade. Destinos de links, edições de diário e outros atos apenas citados não foram cotejados neste acréscimo. Dizeres de aprovação, suspensão, revogação e vigência são texto da fonte, sem conclusão própria sobre efeitos jurídicos.
+
+O bloco imprime OA48, embora esteja também ligado ao contexto da OA39 no mapa de origem. Mantidos junções, hifenizações e “Paranál”; não foi fundido com a Resolução 035/2020.
+
+<h3>Resolução PGE 152 - 13 de Agosto de 2021</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=12063&amp;numero=10999">Diário Oficial nº. 10999</a> de 16 de Agosto de 2021
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1582703">Edita a Orientação Administrativa n° 48/PGEe Revoga a Resolução 035/2020-PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1582707"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de de-zembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setem-bro de 2019, e considerando o que consta noprotocolo n° 17.954.732-5,</div>
+<br/>
+<div style="text-align: center;"><strong>RESOLVE:</strong></div></a>
+</p>
+<p>
+<b class="labelAto">Art. 1.º</b>
+<a id="1582716">Expedir a Orientação Administrativa n.º 48/PGEa todos os órgãos e entida-des da Administração Pública Estadual Direta e Autárquica:<br/><br/><br/>
+<table class="tbato" height="122" style="width: 691.55px;">
+<tbody>
+<tr>
+<td rowspan="4" style="width: 184px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 490.55px;">MILITARES</td>
+</tr>
+<tr>
+<td style="width: 490.55px;">Promoção na carreira</td>
+</tr>
+<tr>
+<td style="width: 490.55px;">O ato administrativo funcional de promoção só se  perfectibiliza com o preenchimento de todos os requisitos legais, pressupondo a existência de vagas na classe superior e a respectiva disponibilidade orçamentária e financeira.</td>
+</tr>
+<tr>
+<td style="width: 490.55px;">Os efeitos funcionais e financeiros da promoção só têm início com a publicação do ato de concessão na imprensa oficial (Diário Oficial do Estado do Paraná), sendo vedada a atribuição de efeitos retroativos, nos termos da Lei Complementar Estadual nº 231/2020.</td>
+</tr>
+</tbody>
+</table>
+<br/><br/><strong>1.</strong> A promoçãona carreira depende da edição de ato administrativo concessivo, além de pressupor o preenchimento de todos os requisitos legais e a respectiva disponibilidade orçamentária e financeira, vedada a atribuição de efeitos retroativos, nos termos da Constituição Federal, da Lei Complementar Federal nº 101/2000 (Lei de Responsabilidade Fiscal), da Lei Complementar Estadual nº 231/2020 e do Decreto Estadual nº 3.169/2019.<br/><br/><strong>2.</strong> Os militares, nas hipóteses específicas nas quais havia previsão legal de efeitos retroativos, que, de fato, preencheram todos os requisitos legais para tanto antes da entrada em vigor da Lei Complementar Estadual nº 231/2020, poderão ter seus desenvolvimentos funcionais implementados nos termos da legislação anteriormente vigente, desde que se trate de mera inclusão em folha de pagamentos.<br/><br/><strong>3.</strong> Depende da observância prévia ao disposto no art. 33, do Decreto Estadual nº 3.169/2019, a realização de despesas com promoções, de quaisquer naturezas, independentemente do valor. Uma vez observado todo o rito estabelecido no referido dispositivo, o expediente estará apto a ser encaminhado ao Chefe do Poder Executivo para a elaboração e publicação de decreto, o qual configura o ato concessivo da promoção.<br/><br/><strong>4. </strong>Os efeitos funcionais e financeiros da promoção só têm início com a publicação do ato concessivo na imprensa oficial (Diário Oficial do Estado do Paraná), nos termos do art. 37, caput, da Constituição Federal, da Lei Complementar Estadual nº 231/2020 e da Lei Estadual nº 20.385/2020, sendo vedada a atribuição de efeitos retroativos. Por esta razão, quaisquer atos de comunicação ou divulgação interna (como boletins, por exemplo) não podem veicular conteúdo decisório ou declaratório de promoção, sendo vedada a utilização de verbos como “promovo” ou “concedo”, os quais só poderãoconstar do ato concessivo.<br/><br/><strong>5.</strong> A promoção do ato de bravura, prevista nos arts. 49 e 50, da Lei Estadual nº 5.940/1969, depende do reconhecimento do ato de bravura, cuja análise é discricionária, gerando efeitos funcionais e financeiros prospectivos a partir da publicação do ato concessivo no Diário Oficial.<br/><br/><strong>6.</strong> A promoção post-mortem, prevista no art. 52, da Lei Estadual nº 5.940/1969, como hipótese de avanço funcional, subsiste apenas nos casos dos itens 1 e 2 do referido artigo, oportunidade em que gerará efeitos previdenciários, os quais têm início a partir da data da instituição da pensão. <br/><br/><strong>7.</strong> A promoção prevista no artigo 44-A, da Lei Estadual nº 5.940/1969, de natureza discricionária, deve ocorrer dentro dos 6 (seis) meses mencionados no caputdo dispositivo, gerando efeitos prospectivos a partir da publicação do ato concessivo no Diário Oficial.<br/><br/><strong>8.</strong> A promoção em ressarcimento de preterição não se constitui como uma nova modalidade de promoção, mas sim uma via de correção administrativa de eventuaisilegalidades ou irregularidades ocorridas no curso do procedimento de promoção. Como uma expressão do dever de autotutela administrativa, essa denominada promoção dá-se, necessariamente, com efeitos retroativos que alcancem o momento da ilegalidade/irregularidade, a fim de compensar o servidor pelo ato ilegal/irregular.<br/><br/><strong>9.</strong> O art. 7º, da Lei Estadual nº 17.169/2012, veda expressamente a concessão de promoções aos inativos. No entanto, uma vez editado o ato concessório da promoção na atividade, seus efeitosdeverão ser implementados, ainda que após a edição de tal ato o servidor tenha se aposentado. <br/><br/><strong>10.</strong> A inobservância aos requisitos legais para a concessão do ato administrativo funcional de promoção acarretará a apuração da responsabilidade administrativa da autoridade competente para a prática do ato e a imposição das penalidades eventualmente cabíveis.<br/><br/><strong>REFERÊNCIAS</strong>: Constituição Federal, art. 37, caput; art.42, § 1º; art. 169, § 1º, inciso I; Lei Complementar Federal nº 101/2000, arts. 18 e 21; Lei Com-plementar Estadual nº 231/2020, art. 13, caput, e parágrafo único; Lei Estadu-al nº 20.385/2020, art. 1º, parágrafo único;Decreto Estadual nº 3.169/2019, art. 33; Decreto Estadual nº 4.189/2016, art. 1º, inciso I; Lei Estadual nº 5.944/1969, arts. 40, 44-A,49 a 52; Lei Estadual nº 17.169/2012, art. 7º; art. 2º, alínea “a”, Pareceres nºs 22/2018, 01/2019, 13/2021 e 14/2021 -PGE; au-tos 0027433-67.2018.8.16.0182 -4ª Turma Recursal dos Juizados Especiais do Paranál.</a>
+</p>
+<p>
+<b class="labelAto">Art. 2.º</b>
+<a id="1582717"><a id="1582717"></a><a href="https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&amp;codAto=232569&amp;codItemAto=1444226#1444226">Revogar a Resolução 035/2020-PGE.</a></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1582718"><strong>PUBLIQUE-SE. ANOTE-SE.</strong><br/><br/><em>Curitiba, datado e assinado digitalmente</em></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
