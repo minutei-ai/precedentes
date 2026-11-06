@@ -11,3 +11,5 @@ Catálogo oficial consultado em 04/11/2026. Distinta da CGE/MG. O índice foi re
 [15.823](par-ref/agemg-par-ref-15-823.md): sete páginas físicas transcritas de novo e cotejadas integralmente por Astra. Rodapés 1–6,8 e salto 25→32 preservados; página impressa 7 não recuperada. Nesta nova fila, sete de 653 páginas cotejadas; 646 ainda sem revisão concluída. Limitação TLS histórica mantida; sem novo ID ou aceite global da #259.
 
 [15.722](par-ref/agemg-par-ref-15-722.md): 14 páginas novamente transcritas e cotejadas integralmente por Astra, com seis ressalvas editoriais de carimbos e dúvida manuscrita preservada. Nesta nova fila, 21 de 653 páginas cotejadas; 632 ainda sem revisão concluída. Sem novo ID ou aceite global da #259.
+
+[16.121](par-ref/agemg-par-ref-16-121.md): nove páginas com duas transcrições novas e cotejo comparativo visual integral; correções pontuais, sublinhados e ocultação do serial individual aplicados. Parecer e minuta separados, campos vazios, variantes e limite TLS histórico preservados. Nova fila: 30/653 páginas cotejadas; 623 pendentes. Sem novo ID; #259 aberta.
