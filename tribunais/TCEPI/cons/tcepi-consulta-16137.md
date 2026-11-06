@@ -365,107 +365,97 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                    Estado do Piauí                        Processo
-                    Tribunal de Contas                   TC-02115/2013
-    
-    
-    
-              DIRETORIA DE FISCALIZAÇÃO DA ADMINISTRAÇÃO MUNICIPAL
-    
-    
-    Processo .......... TC-02115/2013
-    Assunto ........... Consulta a cerca da interpretação da Lei Municipal n.º 085/2001, que
-    autoriza o poder público a custear despesas de aluguel e de apoio logístico da residência
-    oficial do Prefeito Municipal.
-    Interessado ..... Gustavo Barbosa Nunes (Chefe da Assessoria Jurídica da Prefeitura Municipal
-    de São João do Piauí).
-    Relator: Cons. Joaquim Kennedy Nogueira Barros
-    
-    
-    1 RELATÓRIO
-    
-    Trata-se de consulta formulada ao Tribunal de Contas do Estado do Piauí, pela qual o
-    consulente solicita à Corte manifestação a respeito da interpretação/aplicação da Lei
-    Municipal n.º 085/2001, que autoriza o poder público a custear despesas de aluguel e de
-    apoio logístico da residência oficial do Prefeito Municipal, em especial, no tocante à
-    expressão: “APOIO LOGÍSTICO”, e que despesas tal apoio abrangeria.
-    
-    O relator da consulta, Cons. Joaquim Kennedy Nogueira Barros, tendo em vista a
-    observância dos requisitos de admissibilidade regimentais, CONHECEU o presente
-    requerimento como CONSULTA (vide pasta 3 – fl.1/2), encaminhando o expediente, nos
-    termos do art. 338 do RITCE/PI, à Comissão de Regimento e Jurisprudência para, no prazo
-    de 05 (cinco) dias, promover a juntada de informação de pré-julgado ou decisão reiterada
-    sobre o tema analisado. A Comissão se manifestou pela ausência de pré-julgado ou decisão
-    reiterada sobre o tema (vide pasta 4 – fl.1/2), despachando os autos à DFAM para instruir a
-    consulta, por ser a unidade técnica competente da matéria questionada, nos termos do art.
-    337 do RITCE/PI.
-    
-    É o relatório. Passa-se à análise.
-    
-    2. ANÁLISE TÉCNICA
-    
-    A Lei n.º 085/2001, prevê em seu 2.º que: “Fica o Poder Executivo autorizado a realizar
-    despesas com aluguel e apoio logístico da residência oficial do Prefeito Municipal”. Da análise
-    literal do dispositivo entende-se que em tese, a expressão “apoio logístico”, busca se referir
-    as despesas com alimentação, manutenção, conservação e segurança da residência oficial do
-    Prefeito Municipal.
-    
-    No entanto, sabemos que o Administrador Público está incumbido de zelar pelos princípios
-    previstos no art. 37 da Constituição da República, quais sejam: legalidade, impessoalidade,
-    moralidade, publicidade e eficiência. E que, de acordo com essa interpretação, há uma clara
-    ofensa ao princípio republicano da impessoalidade na gestão pública.
-    
+**Estado do Piauí** **Processo**
+**Tribunal de Contas** **TC-02115/2013**
+
+**DIRETORIA DE FISCALIZAÇÃO DA ADMINISTRAÇÃO MUNICIPAL**
+
+Processo .......... TC-02115/2013
+Assunto ........... Consulta a cerca da interpretação da Lei Municipal n.º 085/2001, que
+autoriza o poder público a custear despesas de aluguel e de apoio logístico da residência
+oficial do Prefeito Municipal.
+Interessado ..... Gustavo Barbosa Nunes (Chefe da Assessoria Jurídica da Prefeitura Municipal
+de São João do Piauí).
+Relator: Cons. Joaquim Kennedy Nogueira Barros
+
+<u>**1 RELATÓRIO**</u>
+
+Trata-se de consulta formulada ao Tribunal de Contas do Estado do Piauí, pela qual o
+consulente solicita à Corte manifestação a respeito da interpretação/aplicação da Lei
+Municipal n.º 085/2001, que autoriza o poder público a custear despesas de aluguel e de
+apoio logístico da residência oficial do Prefeito Municipal, em especial, no tocante à
+expressão: “APOIO LOGÍSTICO”, e que despesas tal apoio abrangeria.
+
+O relator da consulta, Cons. Joaquim Kennedy Nogueira Barros, tendo em vista a
+observância dos requisitos de admissibilidade regimentais, CONHECEU o presente
+requerimento como CONSULTA (vide pasta 3 – fl.1/2), encaminhando o expediente, nos
+termos do art. 338 do RITCE/PI, à Comissão de Regimento e Jurisprudência para, no prazo
+de 05 (cinco) dias, promover a juntada de informação de pré-julgado ou decisão reiterada
+sobre o tema analisado. A Comissão se manifestou pela ausência de pré-julgado ou decisão
+reiterada sobre o tema (vide pasta 4 – fl.1/2), despachando os autos à DFAM para instruir a
+consulta, por ser a unidade técnica competente da matéria questionada, nos termos do art.
+337 do RITCE/PI.
+
+É o relatório. Passa-se à análise.
+
+<u>**2. ANÁLISE TÉCNICA**</u>
+
+A Lei n.º 085/2001, prevê em seu 2.º que: “*Fica o Poder Executivo autorizado a realizar
+despesas com aluguel e apoio logístico da residência oficial do Prefeito Municipal*”. Da análise
+literal do dispositivo entende-se que em tese, a expressão “apoio logístico”, busca se referir
+as despesas com alimentação, manutenção, conservação e segurança da residência oficial do
+Prefeito Municipal.
+
+No entanto, sabemos que o Administrador Público está incumbido de zelar pelos princípios
+previstos no art. 37 da Constituição da República, quais sejam: legalidade, impessoalidade,
+moralidade, publicidade e eficiência. E que, de acordo com essa interpretação, há uma clara
+ofensa ao princípio republicano da impessoalidade na gestão pública.
 
 #### Página 2 do PDF oficial
 
-    Faço crer que na gestação do projeto de lei, a ideia inicial que se tinha de “apoio logístico”,
-    era atrelada às despesas do gabinete do Prefeito, tais como: cerimônias, atos sociais,
-    recepções e reuniões com a equipe técnica ou terceiros, ou seja, vinculadas ao desempenho
-    de suas funções institucionais, e não, relacionadas com a residência oficial do Prefeito.
-    
-    No que diz respeito à despesa com aluguel da residência oficial, sugerimos – em
-    homenagem ao princípio da moralidade administrativa – que o gestor arque com o próprio
-    subsídio que percebe mensalmente.
-    
-    S.M.J., é o parecer.
-    
-    
-    3. CONCLUSÃO
-    
-    
-    Ante o exposto, coloca-se essa Diretoria à disposição do Relator, para os esclarecimentos
-    que se fizerem necessários.
-    
-    
-    Teresina (PI), 06 de junho de 2013.
-    
-    
-    
-    _______________________________                  _______________________________
-    Arquimedes de Figueiredo Ribeiro                       Vilmar Barros Miranda
-    Auditor Fiscal de Controle Externo                  Auditor Fiscal de Controle Externo
-                                                      Chefe da II Divisão Técnica/DFAM
-    
-    
-    
-    
-    VISTO:
-    _________________________________
-    Andréa de Oliveira Paiva
-    Auditora Fiscal de Controle Externo
-    Diretora da DFAM
-    
+Faço crer que na gestação do projeto de lei, a ideia inicial que se tinha de “*apoio logístico*”,
+era atrelada às despesas do gabinete do Prefeito, tais como: cerimônias, atos sociais,
+recepções e reuniões com a equipe técnica ou terceiros, ou seja, vinculadas ao desempenho
+de suas funções institucionais, e não, relacionadas com a residência oficial do Prefeito.
+
+No que diz respeito à despesa com aluguel da residência oficial, sugerimos – em
+homenagem ao princípio da moralidade administrativa – que o gestor arque com o próprio
+subsídio que percebe mensalmente.
+
+S.M.J., é o parecer.
+
+<u>**3. CONCLUSÃO**</u>
+
+Ante o exposto, coloca-se essa Diretoria à disposição do Relator, para os esclarecimentos
+que se fizerem necessários.
+
+Teresina (PI), 06 de junho de 2013.
+
+[Linha de assinatura em branco — coluna esquerda]
+Arquimedes de Figueiredo Ribeiro
+Auditor Fiscal de Controle Externo
+
+[Linha de assinatura em branco — coluna direita]
+Vilmar Barros Miranda
+Auditor Fiscal de Controle Externo
+Chefe da II Divisão Técnica/DFAM
+
+**VISTO:**
+[Linha de assinatura em branco]
+Andréa de Oliveira Paiva
+Auditora Fiscal de Controle Externo
+Diretora da DFAM
 
 #### Página 3 do PDF oficial
 
-    Assinado Digitalmente pelo sistema e-TCE
-    ANDREA DE OLIVEIRA PAIVA
-    
+*Assinado Digitalmente pelo sistema e-TCE*
+**ANDREA DE OLIVEIRA PAIVA**
 
 #### Página 4 do PDF oficial
 
-    Assinado Digitalmente pelo sistema e-TCE
-    VILMAR BARROS MIRANDA
+*Assinado Digitalmente pelo sistema e-TCE*
+**VILMAR BARROS MIRANDA**
+
 
 ## Ementa
 
@@ -478,3 +468,5 @@ O PDF contém 4 página(s). Relatórios, votos e outros atos de contexto permane
 [Parecer DFAM](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Parecer-DFAM.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional das páginas 004/p0001, 004/p0002, 004/p0003, 004/p0004 (documento/página): transcrição visual Sol e revisão independente integral Astra. Apresentação em Markdown, sem fac-símile; grafias, lacunas e ocultações preservadas. O caminho de upload vincula as capturas aos recortes, sem certificar equivalência histórica de domínios ou pertinência autônoma de folhas sem identificação. Ressalvas documentais anteriores permanecem.

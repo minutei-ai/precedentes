@@ -22,117 +22,113 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                     GABINETE CONSELHEIRO KLEBER DANTAS EULÁLIO
-    
-    
-    
-    
-                           ACÓRDÃO Nº 370/2022 - SPL
-    
-    
-    
-    PROCESSO TC/008902/2022.
-    DECISÃO Nº 734/2022.
-    ASSUNTO: CONSULTA.
-    OBJETO: POSSIBILIDADE DE REVOGAÇÃO DA LICENÇA-PRÊMIO POR
-    ASSIDUIDADE DOS SERVIDORES MUNICIPAIS, DIANTE DA PREVISÃO
-    NORMATIVA NOS ARTIGOS 96, 97, 98, 99 DA LEI COMPLEMENTAR
-    001/2011 (ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE
-    ISAÍAS COELHO).
-    PROCEDÊNCIA: PREFEITURA MUNICIPAL DE ISAÍAS COELHO.
-    CONSULENTE: FRANCISCO EUDES CASTELO BRANCO NUNES –
-    PREFEITO.
-    RELATOR: CONS. KLEBER DANTAS EULÁLIO.
-    PROCURADORA: RAISSA MARIA REZENDE DE DEUS BARBOSA.
-    
-    
-                           EMENTA. CONSULTA. PESSOAL. INDAGAÇÃO
-                           ACERCA DA POSSIBILIDADE DE REVOGAÇÃO DA
-                           LICENÇA-PRÊMIO        POR     ASSIDUIDADE      DOS
-                           SERVIDORES MUNICIPAIS, DIANTE DA PREVISÃO
-                           NORMATIVA NOS ARTIGOS 96, 97, 98, 99 DA LEI
-                           COMPLEMENTAR 001/2011 (ESTATUTO DOS
-                           SERVIDORES PÚBLICOS DO MUNICÍPIO DE ISAÍAS
-                           COELHO). CONHECIMENTO.
-                           Não compete a esta Corte de Contas manifestar-se no
-                           caso concreto para sugerir ao gestor municipal qual
-                           medida administrativa deve ser adotada em relação
-                           aos servidores municipais, cabendo ao Tribunal de
-                           Contas apenas a via própria para análise, quando da
-                           emissão de Parecer Prévio das Contas de Governo
-                           e/ou julgamento das Contas de Gestão.
-    
-    
-                           Sumário: Consulta. Prefeitura Municipal de Isaías
-                           Coelho.   Exercício  2022.    Conhecimento.    Não
-                           competência do TCE-PI para análise do caso concreto.
-                           Decisão Unânime.
-    
-    
-    
-    Vistos, relatados e discutidos os presentes autos, considerando a informação
-    da Comissão de Regimento e Jurisprudência – CRJ (peça 7), o relatório da
-    Divisão de Apoio ao Jurisdicionado/DAJUR (peça 8), o parecer do Ministério
-    Público de Contas (peça 1), e o mais que dos autos consta, decidiu o Plenário,
-    unânime, divergindo do parecer ministerial, pelo conhecimento da presente
-    Consulta, e no mérito, conforme e pelos fundamentos expostos no voto do
-    
+Tribunal de Contas do Estado do Piauí
+GABINETE CONSELHEIRO KLEBER DANTAS EULÁLIO
+
+**ACÓRDÃO Nº 370/2022 - SPL**
+
+**PROCESSO TC/008902/2022.**
+**DECISÃO Nº 734/2022.**
+**ASSUNTO:** CONSULTA.
+**OBJETO:** POSSIBILIDADE DE REVOGAÇÃO DA LICENÇA-PRÊMIO POR
+ASSIDUIDADE DOS SERVIDORES MUNICIPAIS, DIANTE DA PREVISÃO
+NORMATIVA NOS ARTIGOS 96, 97, 98, 99 DA LEI COMPLEMENTAR
+001/2011 (ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE
+ISAÍAS COELHO).
+**PROCEDÊNCIA:** PREFEITURA MUNICIPAL DE ISAÍAS COELHO.
+**CONSULENTE:** FRANCISCO EUDES CASTELO BRANCO NUNES –
+PREFEITO.
+**RELATOR:** CONS. KLEBER DANTAS EULÁLIO.
+**PROCURADORA:** RAISSA MARIA REZENDE DE DEUS BARBOSA.
+
+EMENTA. CONSULTA. PESSOAL. INDAGAÇÃO
+ACERCA DA POSSIBILIDADE DE REVOGAÇÃO DA
+LICENÇA-PRÊMIO POR ASSIDUIDADE DOS
+SERVIDORES MUNICIPAIS, DIANTE DA PREVISÃO
+NORMATIVA NOS ARTIGOS 96, 97, 98, 99 DA LEI
+COMPLEMENTAR 001/2011 (ESTATUTO DOS
+SERVIDORES PÚBLICOS DO MUNICÍPIO DE ISAÍAS
+COELHO). CONHECIMENTO.
+Não compete a esta Corte de Contas manifestar-se no
+caso concreto para sugerir ao gestor municipal qual
+medida administrativa deve ser adotada em relação
+aos servidores municipais, cabendo ao Tribunal de
+Contas apenas a via própria para análise, quando da
+emissão de Parecer Prévio das Contas de Governo
+e/ou julgamento das Contas de Gestão.
+
+Sumário: Consulta. Prefeitura Municipal de Isaías
+Coelho. Exercício 2022. Conhecimento. Não
+competência do TCE-PI para análise do caso concreto.
+Decisão Unânime.
+
+Vistos, relatados e discutidos os presentes autos, considerando a informação
+da Comissão de Regimento e Jurisprudência – CRJ (peça 7), o relatório da
+Divisão de Apoio ao Jurisdicionado/DAJUR (peça 8), o parecer do Ministério
+Público de Contas (peça 1), e o mais que dos autos consta, decidiu o Plenário,
+unânime, divergindo do parecer ministerial, pelo **conhecimento** da presente
+Consulta, e no mérito, conforme e pelos fundamentos expostos no voto do
+
+Rodapé institucional: Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+(86) 3215-3800 | CNPJ: 05.818.935/0001-01
+tce@tce.pi.gov.br
+TCEPIAUI
 
 #### Página 2 do PDF oficial
 
-                                                          GABINETE CONSELHEIRO KLEBER DANTAS EULÁLIO
-    
-    
-    
-    
-            Relator (peça 15), ratifica-se o entendimento constante no parecer técnico da
-            DAJUR e parecer ministerial de que não compete a esta Corte de Contas
-            manifestar-se no caso concreto para sugerir ao gestor municipal qual medida
-            administrativa deve ser adotada em relação aos servidores municipais do
-            Município de Isaías Coelho, mesmo que o Parecer Jurídico (peça 2) tenha se
-            manifestado pela necessidade de revogação dos arts. 96, 97, 98 e 99 da
-            mencionada Lei Complementar nº 001/2011, cabendo ao Tribunal de Contas
-            apenas a via própria para análise, quando da emissão de Parecer Prévio das
-            Contas de Governo e/ou julgamento das Contas de Gestão.
-    
-            Absteve-se de votar o Cons. Substituto Alisson Felipe de Araújo, atuando em
-            substituição ao Cons. Abelardo Pio Vilanova e Silva (em gozo de férias), por
-            não ter acompanhado o relato do processo.
-    
-            Para efeito de composição de quórum, foi computado o voto do Presidente no
-            presente processo, em conformidade com o que dispõe o art. 380 c/c o art. 44,
-            inciso XIII, alínea “d”, do RI-TCE.
-    
-            Presentes os(as) Conselheiros(as) Olavo Rebêlo de Carvalho Filho
-            (Presidente em exercício em virtude da ausência justificada da Consª. Lilian de
-            Almeida Veloso Nunes Martins), Kleber Dantas Eulálio e os Cons. Substitutos
-            Jaylson Fabianh Lopes Campelo, em substituição ao Cons. Joaquim Kennedy
-            Nogueira Barros (em gozo de férias), Delano Carneiro da Cunha Câmara,
-            convocado para substituir a Consª. Flora Izabel Nobre Rodrigues (ausente na
-            sessão por motivo justificado) e Jackson Nobre Veras, em substituição à
-            Cons.ª Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de férias).
-    
-            Representante do Ministério Público de Contas presente: Procurador-Geral
-            Márcio André Madeira de Vasconcelos.
-    
-    
-            Publique-se. Cumpra-se.
-    
-            Sessão Plenária Ordinária nº 024, em Teresina, 28 de julho de 2022.
-    
-    
-    
-            (assinado digitalmente)
-    
-            Cons. Kleber Dantas Eulálio                                                                Relator
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULÁLIO - 03/08/2022 09:52:41
+Tribunal de Contas do Estado do Piauí
+GABINETE CONSELHEIRO KLEBER DANTAS EULÁLIO
+
+Relator (peça 15), ratifica-se o entendimento constante no parecer técnico da
+DAJUR e parecer ministerial de que **não compete a esta Corte de Contas
+manifestar-se no caso concreto** para sugerir ao gestor municipal qual medida
+administrativa deve ser adotada em relação aos servidores municipais do
+Município de Isaías Coelho, mesmo que o Parecer Jurídico (peça 2) tenha se
+manifestado pela necessidade de revogação dos arts. 96, 97, 98 e 99 da
+mencionada Lei Complementar nº 001/2011, cabendo ao Tribunal de Contas
+apenas a via própria para análise, quando da emissão de Parecer Prévio das
+Contas de Governo e/ou julgamento das Contas de Gestão.
+
+**Absteve-se** de votar o Cons. Substituto Alisson Felipe de Araújo, atuando em
+substituição ao Cons. Abelardo Pio Vilanova e Silva (em gozo de férias), por
+não ter acompanhado o relato do processo.
+
+Para efeito de composição de quórum, foi computado o voto do Presidente no
+presente processo, em conformidade com o que dispõe o art. 380 c/c o art. 44,
+inciso XIII, alínea “d”, do RI-TCE.
+
+**Presentes** os(as) Conselheiros(as) Olavo Rebêlo de Carvalho Filho
+(Presidente em exercício em virtude da ausência justificada da Consª. Lilian de
+Almeida Veloso Nunes Martins), Kleber Dantas Eulálio e os Cons. Substitutos
+Jaylson Fabianh Lopes Campelo, em substituição ao Cons. Joaquim Kennedy
+Nogueira Barros (em gozo de férias), Delano Carneiro da Cunha Câmara,
+convocado para substituir a Consª. Flora Izabel Nobre Rodrigues (ausente na
+sessão por motivo justificado) e Jackson Nobre Veras, em substituição à
+Cons.ª Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de férias).
+
+**Representante do Ministério Público de Contas presente:** Procurador-Geral
+Márcio André Madeira de Vasconcelos.
+
+Publique-se. Cumpra-se.
+
+Sessão Plenária Ordinária nº 024, em Teresina, 28 de julho de 2022.
+
+*(assinado digitalmente)*
+
+Cons. Kleber Dantas Eulálio Relator
+
+Assinado Digitalmente pelo sistema e-TCE - KLEBER DANTAS EULÁLIO - 03/08/2022 09:52:41
+
+Rodapé institucional: Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+(86) 3215-3800 | CNPJ: 05.818.935/0001-01
+tce@tce.pi.gov.br
+TCEPIAUI
+
 
 ## Ementa
 
 [TC-008902-2022](https://www.tce.pi.gov.br/wp-content/uploads/2022/09/TC-008902-2022.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional das páginas 001/p0001, 001/p0002 (documento/página): transcrição visual Sol e revisão independente integral Astra. Apresentação em Markdown, sem fac-símile; grafias, lacunas e ocultações preservadas. O caminho de upload vincula as capturas aos recortes, sem certificar equivalência histórica de domínios ou pertinência autônoma de folhas sem identificação. Ressalvas documentais anteriores permanecem.
