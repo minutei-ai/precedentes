@@ -6,7 +6,7 @@ As duas capturas HTML do catálogo retornaram HTTP 200 (166659 bytes cada). Os S
 
 | Parecer | Páginas do PDF | Bytes | SHA-256 | Situação nesta PR |
 | --- | ---: | ---: | --- | --- |
-| [02/2026](pgepb-parecer-ref-02-2026.md) | 8 | 591157 | `294bf9a06cdfcaed8654dd3d9065a764811b68bd2ff09ed1c294b45948968e0d` | Texto publicado; 8/8 páginas lidas visualmente |
+| [02/2026](pgepb-parecer-ref-02-2026.md) | 8 | 591157 | `294bf9a06cdfcaed8654dd3d9065a764811b68bd2ff09ed1c294b45948968e0d` | Texto recotejado em oito páginas, com revisão independente e ressalvas de selos/fecho |
 | [03/2026](pgepb-parecer-ref-03-2026.md) | 9 | 740108 | `03ee6f5989c91f60d007dd245f7fa92548d19fb89263348165c56f4a97331976` | Texto recotejado em nove páginas, com revisão independente e limites expressos na ficha |
 | 01/2026 (rótulo catálogo) | 35 | 4431413 | `48b4e5e60096b525d4bf9770e193d4321ecf8425c1a3e61b7e79346eed77cf83` | Captura dual OK; capa imprime `n. ____/2026` (número em branco); leitura visual integral pendente |
 | [0004/2025](pgepb-parecer-ref-0004-2025.md) | 20 | 1345192 | `465f30b2b841b8591f798753c0e7aeabdde0cc385ef8a0ce1958098aa332d67f` | Texto publicado; 20/20 páginas lidas visualmente |
@@ -27,3 +27,5 @@ Anexos de Diário Oficial colados ao final dos PDFs 02/2026 e 03/2026 trazem a p
 [Índice da PGEPB](../README.md)
 
 PGEPB, recotejo do registro 03/2026: nove físicas do mesmo PDF conferidas por Sol/Astra, com 21 propostas aplicadas e complementos pessoais do pai em duas páginas. Corrigida a atribuição do número à Portaria anexa, sem ratificar a afirmação anterior sobre o cabeçalho da página 1. Parecer, bloco Aprovo e Portaria 139/2026 separados; referências citadas não geram IDs. Margens, validação, cabeçalho do Diário não recertificado e incidentes históricos preservados como limites. Mesmo ID. A rodada capturou seis PDFs/168 páginas; 159 páginas ficam fora deste cotejo, o que não revoga nem certifica leituras de etapas anteriores. #263 aberta.
+
+PGEPB, recotejo do registro 02/2026: oito físicas do mesmo PDF com revisão independente Astra, duas propostas exatas aplicadas e atribuição numérica corrigida para a Portaria anexa. Parecer, Aprovo e Portaria 123/2026 separados; corpo legível correspondente, com selos parciais e fecho/carimbo da física 8 não confirmados na revisão. Limites e incidentes históricos expressos; mesmo ID. As duas rodadas adicionais de 03/2026 e 02/2026 abrangem 17 páginas, sem recertificar os outros 151 fólios dos seis PDFs/168 páginas ou leituras anteriores. #263 aberta, sem aceite global.
