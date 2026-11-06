@@ -14,6 +14,10 @@
 
 - **Fonte do corpo histórico:** [PDF oficial](https://www.pge.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-08/orientacaoadministrativa043de2020.pdf); SHA-256 `49cbbbef7279db58c9a96368c9ded7fc39f089a3ea98dfc149f71e03159918bc`; 3 páginas.
 
+## Ocorrência no Diário Oficial
+
+A [edição nº 10758 de 26/08/2020](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=11013&numero=10758), página física 5 do PDF, contém a Resolução nº 184/2020-PGE. O bloco da orientação e seu fecho foram lidos visualmente em recortes da edição; esta ocorrência é distinta das peças transcritas abaixo. A leitura não abrange o diário inteiro nem estabelece autenticidade, vigência ou efeitos.
+
 ## Corpo histórico e peças do exemplar
 
 As páginas abaixo foram transcritas visualmente e cotejadas integralmente em revisão independente Astra. Ajustes delimitados de quadros, negrito, aspas e descrição gráfica foram aplicados às cópias de exportação; os candidatos originais permanecem privados e inalterados. A célula TEMA DE INTERESSE dos quadros foi representada com extensão vertical, sem promover a primeira linha direita a cabeçalho.
