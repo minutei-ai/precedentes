@@ -105,115 +105,125 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                         Estado do Piauí
-                         Tribunal de Contas
-                         Gabinete Cons. Abelardo Vilanova
-                                        Processo TC nº 03808/2013
-    
-    PROCESSO TC nº 03808/2013
-    ASSUNTO: Consulta
-    PROCEDÊNCIA: Procuradoria Geral de Justiça
-    INTERESSADO: Zélia Saraiva Lima – Procuradora-Geral
-    RELATOR SUBSTITUTO: Cons. Subst. Jackson Nobre Veras
-    
-    
-    1 RELATÓRIO
-    
-               Tratam os autos de Consulta formulada a esta Corte de Contas pela
-    Procuradoria Geral de Justiça, por intermédio de sua Procuradora-Geral Zélia Saraiva Lima,
-    no intuito de dirimir dúvidas acerca da contagem de tempo de serviço público, conforme os
-    quesitos a seguir:
-    
-               a) a possibilidade de contagem de tempo de serviço na advocacia privada como
-               tempo de efetivo serviço público;
-    
-               b) o marco inicial de entrada do servidor no serviço público quando houver
-               ingresso, interrupção e posterior reingresso do interessado no serviço público.
-    
-               Após a constatação dos requisitos essenciais de admissibilidade, nos termos do
-    art. 201 do Regimento Interno do TCE/PI, o feito foi encaminhado à Comissão de
-    Jurisprudência e Regimento para que informasse acerca da existência de prejulgados ou
-    decisão reiterada sobre o tema.
-    
-               A referida Comissão prestou informação no sentido da inexistência de prejulgado
-    ou decisão reiterada sobre a matéria e, dando seguimento, nos termos regimentais, os autos
-    foram encaminhados à unidade técnica competente para a instrução do feito, qual seja, a
-    Divisão de Admissões, Aposentadorias e Pensões - DAAP.
-    
-               Em seguida, a presente consulta foi submetida ao douto parquet de contas que
-    emitiu parecer no qual coaduna com as conclusões da DAAP, opinando que seja respondida
-    nos termos expostos.
-    
-               É o relatório.
-    
-    2 FUNDAMENTAÇÃO
-    
-               O objeto da presente consulta se refere à contagem de tempo de serviço
-    público, conforme os quesitos formulados a seguir:
-    
-    a) Considerando o disposto no art. 117 da Lei Complementar nº 12/93 (Lei Orgânica do
-    
-    
-                                                                                                 1
-    
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Abelardo Vilanova
+Processo TC nº 03808/2013
+
+**PROCESSO TC nº 03808/2013**
+**ASSUNTO:** Consulta
+**PROCEDÊNCIA:** Procuradoria Geral de Justiça
+**INTERESSADO:** Zélia Saraiva Lima – Procuradora-Geral
+**RELATOR SUBSTITUTO:** Cons. Subst. Jackson Nobre Veras
+
+
+**1 RELATÓRIO**
+
+Tratam os autos de Consulta formulada a esta Corte de Contas pela
+Procuradoria Geral de Justiça, por intermédio de sua Procuradora-Geral Zélia Saraiva Lima,
+no intuito de dirimir dúvidas acerca da contagem de tempo de serviço público, conforme os
+quesitos a seguir:
+
+a) a possibilidade de contagem de tempo de serviço na advocacia privada como
+tempo de efetivo serviço público;
+
+b) o marco inicial de entrada do servidor no serviço público quando houver
+ingresso, interrupção e posterior reingresso do interessado no serviço público.
+
+Após a constatação dos requisitos essenciais de admissibilidade, nos termos do
+art. 201 do Regimento Interno do TCE/PI, o feito foi encaminhado à Comissão de
+Jurisprudência e Regimento para que informasse acerca da existência de prejulgados ou
+decisão reiterada sobre o tema.
+
+A referida Comissão prestou informação no sentido da inexistência de prejulgado
+ou decisão reiterada sobre a matéria e, dando seguimento, nos termos regimentais, os autos
+foram encaminhados à unidade técnica competente para a instrução do feito, qual seja, a
+Divisão de Admissões, Aposentadorias e Pensões - DAAP.
+
+Em seguida, a presente consulta foi submetida ao douto *parquet* de contas que
+emitiu parecer no qual coaduna com as conclusões da DAAP, opinando que seja respondida
+nos termos expostos.
+
+É o relatório.
+
+**2 FUNDAMENTAÇÃO**
+
+O objeto da presente consulta se refere à contagem de tempo de serviço
+público, conforme os quesitos formulados a seguir:
+
+a) Considerando o disposto no art. 117 da Lei Complementar nº 12/93 (Lei Orgânica do
+
+
+1
+
+[Brasão superior esquerdo: ESTADO DO PIAUÍ. Logotipo superior direito: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Rodapé: 1. Última frase termina em “Lei Orgânica do”, sem completar.]
+
+[Limites do cotejo independente: Somente documento 002/página 1 atribuído: TC 03808/2013, relatório, quesitos, fundamentação e rodapé 1 cotejados. parquet em itálico. Bloco externo do incidente não consultado nem usado como prova. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 2 do PDF oficial
 
-                        Estado do Piauí
-                        Tribunal de Contas
-                        Gabinete Cons. Abelardo Vilanova
-                                         Processo TC nº 03808/2013
-    
-    Ministério Público do Estado do Piauí), o tempo de exercício da advocacia privada poderá
-    ser considerado, para fins de aposentadoria do membro, no cálculo do seu “efetivo tempo de
-    serviço público”?
-    
-    b) Havendo ingresso no serviço público, interrupção e posterior reingresso neste, qual o
-    marco inicial de entrada no serviço público para fins de aplicação das regras de
-    aposentadoria?
-    
-               A análise da DAAP resultou nas seguintes conclusões:
-    
-               “1) O tempo de serviço exercido na advocacia privada não pode ser considerado
-    como tempo de efetivo exercício no serviço público para fins de aposentadoria na forma do
-    que estabelece os artigos 40, § 1º, III da CF/88; 6º da EC nº 41/03 e 3º da EC nº 47/05, pois
-    trata-se de um munus de caráter privado, inconfundível com o serviço público;”
-    
-               2) Havendo quebra do vínculo com o serviço público, solução de continuidade
-    entre as datas de ingresso e reingresso, deve ser considerado como marco inicial para fins
-    de enquadramento em regras de aposentadoria, o ingresso mais recente.”
-    
-               O parecer ministerial se posicionou no sentido de acompanhar as conclusões da
-    DAAP, sugerindo que a consulta seja respondida nos termos acima.
-    
-    3 VOTO
-    
-               Diante de todo o exposto, voto, concordando com a manifestação do Ministério
-    Público de Contas, pelo conhecimento da presente consulta e, no mérito, pela resposta ao
-    consulente nos termos da manifestação da DAAP e do parecer ministerial, por entender que
-    materializam a compreensão e o posicionamento do TCE/PI acerca da consulta nos termos
-    em que foi formulada.
-    
-               Voto, ainda, pelo encaminhamento à consulente, Sra. Zélia Saraiva Lima,
-    Procuradora-Geral de Justiça, de cópias autênticas da informação da DAAP, do parecer do
-    Ministério Público de Contas e do acórdão do Plenário desta Corte.
-    
-                                  Teresina, 30 de janeiro de 2014.
-    
-                                    JACKSON NOBRE VERAS
-                                       Relator Substituto
-    
-    
-    
-    
-                                                                                                2
-    
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Abelardo Vilanova
+Processo TC nº 03808/2013
+
+Ministério Público do Estado do Piauí), o tempo de exercício da advocacia privada poderá
+ser considerado, para fins de aposentadoria do membro, no cálculo do seu “efetivo tempo de
+serviço público”?
+
+b) Havendo ingresso no serviço público, interrupção e posterior reingresso neste, qual o
+marco inicial de entrada no serviço público para fins de aplicação das regras de
+aposentadoria?
+
+A análise da DAAP resultou nas seguintes conclusões:
+
+“1) O tempo de serviço exercido na advocacia privada não pode ser considerado
+como tempo de efetivo exercício no serviço público para fins de aposentadoria na forma do
+que estabelece os artigos 40, § 1º, III da CF/88; 6º da EC nº 41/03 e 3º da EC nº 47/05, pois
+trata-se de um *munus* de caráter privado, inconfundível com o serviço público;”
+
+2) Havendo quebra do vínculo com o serviço público, solução de continuidade
+entre as datas de ingresso e reingresso, deve ser considerado como marco inicial para fins
+de enquadramento em regras de aposentadoria, o ingresso mais recente.”
+
+O parecer ministerial se posicionou no sentido de acompanhar as conclusões da
+DAAP, sugerindo que a consulta seja respondida nos termos acima.
+
+**3 VOTO**
+
+Diante de todo o exposto, voto, concordando com a manifestação do Ministério
+Público de Contas, pelo conhecimento da presente consulta e, no mérito, pela resposta ao
+consulente nos termos da manifestação da DAAP e do parecer ministerial, por entender que
+materializam a compreensão e o posicionamento do TCE/PI acerca da consulta nos termos
+em que foi formulada.
+
+Voto, ainda, pelo encaminhamento à consulente, Sra. Zélia Saraiva Lima,
+Procuradora-Geral de Justiça, de cópias autênticas da informação da DAAP, do parecer do
+Ministério Público de Contas e do acórdão do Plenário desta Corte.
+
+Teresina, 30 de janeiro de 2014.
+
+**JACKSON NOBRE VERAS**
+Relator Substituto
+
+
+
+
+2
+
+[Brasão superior esquerdo: ESTADO DO PIAUÍ. Logotipo superior direito: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Rodapé: 2. Sem notas adicionais visíveis.]
+
+[Limites do cotejo independente: Documento 002/página 2: continuação, quesito b, duas conclusões, munus em itálico, voto, encaminhamento, data e fecho cotejados. Aspas assimétricas preservadas. Rodapé 2 conferido. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 3 do PDF oficial
 
-    Assinado Digitalmente pelo sistema e-TCE
-    JACKSON NOBRE VERAS
-    
+[LACUNA DE PRIVACIDADE: linha horizontal na região inferior esquerda integralmente mascarada; não reconstruída.]
+
+**[LACUNA: início do nome e fragmento cortado pela margem esquerda; não reconstruídos] KSON NOBRE VERAS**
+
+[Demais áreas visíveis em branco; sem cabeçalho, logotipos, notas, rodapé ou numeração visíveis nesta página. O nome completo presente no snapshot não foi usado para completar a área oculta na imagem sanitizada.]
+
+[Limites do cotejo independente: Página quase vazia, faixa mascarada e fragmento nominal na margem esquerda cotejados. KSON NOBRE VERAS está legível; fragmento anterior cortado não completado pelo snapshot, página anterior ou semelhança. Sem vínculo autônomo de assinatura. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 ### Documento vinculado pela fonte
 
@@ -712,3 +722,5 @@ O PDF contém 10 página(s). Relatórios, votos e outros atos de contexto perman
 [Parecer DAAP](http://www.tce.pi.gov.br/wp-content/uploads/2018/02/Parecer-DAAP.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next014: este recorte integra vinte físicas e vinte contextos de sete fichas após leitura visual Sol e novo cotejo pessoal Astra das páginas inteiras e oitenta faixas. Candidatas e blocos públicos passaram por reversão byte a byte. Uma nota foi ajustada para explicitar a máscara do QR. Nomes/cargos funcionais e códigos documentais visíveis foram preservados; linhas, pontuação e traços sob máscara não foram completados. A folha quase vazia com fragmento nominal não demonstra vínculo autônomo de assinatura. O escritor registrou exibição de bloco externo sanitizado, excluído da prova, e perda do hash temporário inicial do ordinal 01; o novo render não supre esse hash histórico. A revisão expôs indevidamente QR no ordinal 02, corrigiu a máscara e releu cinco vistas. Não se declara execução sem falhas de privacidade. Sem OCR ou camada nativa como autoridade; sem equivalência de diagramação, autenticação, vigência, efeitos ou completude.

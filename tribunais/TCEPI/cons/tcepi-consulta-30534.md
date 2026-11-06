@@ -22,132 +22,144 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                  Estado do Piauí
-                  Tribunal de Contas
-                  Gab. Cons. Kennedy Barros
-                                   ACÓRDÃO Nº 447/2020
-    
-    DECISÃO Nº 340/2020
-    PROCESSO TC/010458/2019 – Consulta
-    INTERESSADO: Ricardo de Almeida Santos - Procurador Geral do Município de Teresina/PI
-    RELATOR: Cons. Joaquim Kennedy Nogueira Barros
-    PROCURADOR: José Araújo Pinheiro Junior
-    
-    
-                                        EMENTA. CONSULTA. POSSIBILIDADE DE A
-                                        ADMINISTRAÇÃO PÚBLICA EFETUAR PAGAMENTO
-                                        PROPORCIONAL DO ITEM “ADMINISTRAÇÃO
-                                        LOCAL”    AOS   SERVIÇOS    EFETIVAMENTE
-                                        EXECUTADOS PELO CONTRATADO. LEGALIDADE.
-                                        NECESSIDADE DE OBSERVÂNCIA AOS CRITÉRIOS
-                                        OBJETIVOS   NO   EDITAL   DA   LICITAÇÃO.
-                                        PAGAMENTO AMPARADO POR RELATÓRIO DE
-                                        MEDIÇÃO LAVRADO PELA FISCALIZAÇÃO DO
-                                        CONTRATO.
-    
-                                        1. É possível o pagamento do item Administração Local
-                                        proporcional à execução de serviços realizados mediante
-                                        execução indireta sob o regime de empreitada por preço
-                                        unitário, não configurando, portanto, enriquecimento sem
-                                        causa da Administração Pública, desde que haja previsão
-                                        para tal no instrumento convocatório e medição mediante
-                                        critérios objetivos de mensuração dos insumos e mão de
-                                        obra, expressos na composição analítica do orçamento-base
-                                        da obra ou serviço, e efetivamente empregados na prestação
-                                        do objeto contratado, nos termos das normas do art. 30, §6º
-                                        c/c art. 40, XIII e art. 55, III, da Lei nº 8.666/93.
-    
-                                        2. As supressões contratuais, salvo se decorrente de acordo
-                                        entre as partes, não podem ultrapassar o limite de 25% (vinte
-                                        e cinco por cento), em razão da taxatividade da norma do art.
-                                        65, §§ 1º e 2º, II, da Lei nº 8.666/93.
-    
-                                        Sumário: Consulta. Procuradoria Geral do Município de
-                                        Teresina/PI. Exercício Financeiro de 2019. Conhecimento.
-                                        Resposta ao consulente nos termos expostos no voto do
-                                        Relator. Unânime.
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Kennedy Barros
+**ACÓRDÃO Nº 447/2020**
+
+**DECISÃO Nº 340/2020**
+**PROCESSO TC/010458/2019 – Consulta**
+**INTERESSADO:** Ricardo de Almeida Santos - Procurador Geral do Município de Teresina/PI
+**RELATOR:** Cons. Joaquim Kennedy Nogueira Barros
+**PROCURADOR:** José Araújo Pinheiro Junior
+
+
+EMENTA. CONSULTA. POSSIBILIDADE DE A
+ADMINISTRAÇÃO PÚBLICA EFETUAR PAGAMENTO
+PROPORCIONAL DO ITEM “ADMINISTRAÇÃO
+LOCAL”    AOS   SERVIÇOS    EFETIVAMENTE
+EXECUTADOS PELO CONTRATADO. LEGALIDADE.
+NECESSIDADE DE OBSERVÂNCIA AOS CRITÉRIOS
+OBJETIVOS   NO   EDITAL   DA   LICITAÇÃO.
+PAGAMENTO AMPARADO POR RELATÓRIO DE
+MEDIÇÃO LAVRADO PELA FISCALIZAÇÃO DO
+CONTRATO.
+
+1. É possível o pagamento do item Administração Local
+proporcional à execução de serviços realizados mediante
+execução indireta sob o regime de empreitada por preço
+unitário, não configurando, portanto, enriquecimento sem
+causa da Administração Pública, desde que haja previsão
+para tal no instrumento convocatório e medição mediante
+critérios objetivos de mensuração dos insumos e mão de
+obra, expressos na composição analítica do orçamento-base
+da obra ou serviço, e efetivamente empregados na prestação
+do objeto contratado, nos termos das normas do art. 30, §6º
+c/c art. 40, XIII e art. 55, III, da Lei nº 8.666/93.
+
+2. As supressões contratuais, salvo se decorrente de acordo
+entre as partes, não podem ultrapassar o limite de 25% (vinte
+e cinco por cento), em razão da taxatividade da norma do art.
+65, §§ 1º e 2º, II, da Lei nº 8.666/93.
+
+**Sumário:** Consulta. Procuradoria Geral do Município de
+Teresina/PI. Exercício Financeiro de 2019. **Conhecimento.
+Resposta ao consulente nos termos expostos no voto do
+Relator.** Unânime.
+
+[Brasão superior esquerdo: ESTADO DO PIAUÍ. Logotipo superior direito: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Sem rodapé, notas ou fecho nesta página.]
+
+[Limites do cotejo independente: Identidade 447/2020 e 340/2020, ementa regular, dois itens e sumário com negritos seletivos cotejados. Prosa LEGALIDADE preservada, sem supressão por substring RG. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 2 do PDF oficial
 
-                      Estado do Piauí
-                      Tribunal de Contas
-                      Gab. Cons. Kennedy Barros
-                Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ
-    (peça nº 4), o parecer técnico da DAJUR (peça nº 5), o parecer do Ministério Público de Contas
-    (peça nº 7), e o mais que dos autos consta, decidiu o Plenário, à unanimidade, conhecer da
-    Consulta, para no mérito, respondê-la, consoante a manifestação ministerial, corroborando com
-    o entendimento da DAJUR, conforme e pelos fundamentos expostos na proposta de voto do
-    Relator (peça nº 11), nos seguintes termos:
-    
-                 1ª Questão - Considerando o teor dos dispositivos da Lei n° 8.666/93 e da
-    jurisprudência do TCU mencionados anteriormente, o pagamento referente ao item denominado
-    "administração local" em contrato sob o regime de empreitada por preço unitário, no tocante à
-    execução de contratos de serviços públicos (exemplo: serviços de limpeza e conservação da
-    cidade), deve ser efetuado de forma fixa ou de modo proporcional aos serviços que foram
-    efetivamente executados pelo contratado? Resposta: O pagamento do item Administração Local
-    deve ser pago de modo proporcional aos serviços efetivamente executados pelo contratado,
-    inclusive em contratações sob o regime de execução indireta de empreitada por preço unitário,
-    haja vista que este constitui componente de custo direto, cuja discriminação e quantificação
-    devem ser apuradas mediante critérios objetivos de medição devidamente fixados no instrumento
-    convocatório, sob pena de acarretar em distorções e desequilíbrios econômico-financeiros no
-    contrato, haja vista que pagamentos efetuados em dissonância do objeto efetivamente realizado
-    constituiriam dispêndio de recursos públicos em algo que não se reverteu em benefício à
-    população; 2ª Questão - O pagamento proporcional ao contratado pelo serviço público prestado
-    referente ao item administração local, na contratação sob o regime de empreitada por preço
-    unitário, com previsão expressa no edital de licitação quanto à forma de pagamento deste serviço,
-    figura como ato legal? Resposta: É legal o pagamento proporcional do item Administração
-    Local, desde que sua mensuração esteja adequadamente prevista mediante critérios objetivos no
-    edital da licitação e, quando de sua liquidação e pagamento, seja amparada por relatório de
-    medição lavrado pela fiscalização do contrato, nos termos da inteligência conjugada das normas
-    do art. 6º, IX, f; art. 7º, §2º, II; art. 30, §6º; art. 40, XIII; art. 55, III; e art. 67 da Lei nº 8.666/93 e
-    art. 63 da Lei nº 4.320/64; 3ª Questão - Essa forma de pagamento em tela, quando se trata de
-    serviços públicos de natureza contínua, configura ou não enriquecimento ilícito da Administração
-    Pública? Resposta: O pagamento do item Administração Local proporcional à execução de
-    serviços realizados mediante execução indireta sob o regime de empreitada por preço unitário não
-    configura enriquecimento sem causa da Administração Pública, desde que haja previsão para tal
-    no instrumento convocatório e medição mediante critérios objetivos de mensuração dos insumos
-    e mão de obra, expressos na composição analítica do orçamento-base da obra ou serviço, e
-    efetivamente empregados na prestação do objeto contratado, nos termos das normas do art. 30,
-    §6º c/c art. 40, XIII e art. 55, III, da Lei nº 8.666/93; 4ª Questão - Existe a possibilidade de o
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Kennedy Barros
+Vistos, relatados e discutidos os presentes autos, considerando a informação da CRJ
+(peça nº 4), o parecer técnico da DAJUR (peça nº 5), o parecer do Ministério Público de Contas
+(peça nº 7), e o mais que dos autos consta, decidiu o Plenário, à unanimidade, **conhecer** da
+Consulta, para no mérito, **respondê-la**, consoante a manifestação ministerial, corroborando com
+o entendimento da DAJUR, conforme e pelos fundamentos expostos na proposta de voto do
+Relator (peça nº 11), nos seguintes termos:
+
+**1ª Questão** - Considerando o teor dos dispositivos da Lei n° 8.666/93 e da
+jurisprudência do TCU mencionados anteriormente, o pagamento referente ao item denominado
+"administração local" em contrato sob o regime de empreitada por preço unitário, no tocante à
+execução de contratos de serviços públicos (exemplo: serviços de limpeza e conservação da
+cidade), deve ser efetuado de forma fixa ou de modo proporcional aos serviços que foram
+efetivamente executados pelo contratado? **Resposta:** O pagamento do item Administração Local
+deve ser pago de modo proporcional aos serviços efetivamente executados pelo contratado,
+inclusive em contratações sob o regime de execução indireta de empreitada por preço unitário,
+haja vista que este constitui componente de custo direto, cuja discriminação e quantificação
+devem ser apuradas mediante critérios objetivos de medição devidamente fixados no instrumento
+convocatório, sob pena de acarretar em distorções e desequilíbrios econômico-financeiros no
+contrato, haja vista que pagamentos efetuados em dissonância do objeto efetivamente realizado
+constituiriam dispêndio de recursos públicos em algo que não se reverteu em benefício à
+população; **2ª Questão** - O pagamento proporcional ao contratado pelo serviço público prestado
+referente ao item administração local, na contratação sob o regime de empreitada por preço
+unitário, com previsão expressa no edital de licitação quanto à forma de pagamento deste serviço,
+figura como ato legal? **Resposta:** É legal o pagamento proporcional do item Administração
+Local, desde que sua mensuração esteja adequadamente prevista mediante critérios objetivos no
+edital da licitação e, quando de sua liquidação e pagamento, seja amparada por relatório de
+medição lavrado pela fiscalização do contrato, nos termos da inteligência conjugada das normas
+do art. 6º, IX, f; art. 7º, §2º, II; art. 30, §6º; art. 40, XIII; art. 55, III; e art. 67 da Lei nº 8.666/93 e
+art. 63 da Lei nº 4.320/64; **3ª Questão** - Essa forma de pagamento em tela, quando se trata de
+serviços públicos de natureza contínua, configura ou não enriquecimento ilícito da Administração
+Pública? **Resposta:** O pagamento do item Administração Local proporcional à execução de
+serviços realizados mediante execução indireta sob o regime de empreitada por preço unitário não
+configura enriquecimento sem causa da Administração Pública, desde que haja previsão para tal
+no instrumento convocatório e medição mediante critérios objetivos de mensuração dos insumos
+e mão de obra, expressos na composição analítica do orçamento-base da obra ou serviço, e
+efetivamente empregados na prestação do objeto contratado, nos termos das normas do art. 30,
+§6º c/c art. 40, XIII e art. 55, III, da Lei nº 8.666/93; **4ª Questão** - Existe a possibilidade de o
+
+[Brasão: ESTADO DO PIAUÍ. Logotipo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Sem rodapé ou notas visíveis. Questão final termina em “possibilidade de o”; não completada.]
+
+[Limites do cotejo independente: Corpo, questões 1 a 3/respostas e início da quarta cotejados. Ênfases seletivas, referências e aspas mantidas. Limite possibilidade de o não completado. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 3 do PDF oficial
 
-                               Estado do Piauí
-                               Tribunal de Contas
-                               Gab. Cons. Kennedy Barros
-            pagamento proporcional aos serviços executados resultar em uma supressão superior a 25%
-            (vinte e cinco por cento) do objeto contratual? Diante da inexistência de posicionamento
-            doutrinário e jurisprudencial acerca dessa matéria, qual é o posicionamento a ser adotado pela
-            Administração Pública? Resposta: As supressões contratuais, salvo se decorrente de acordo entre
-            as partes, não podem ultrapassar o limite de 25% (vinte e cinco por cento), em razão da
-            taxatividade da norma do art. 65, §§ 1º e 2º, II, da Lei nº 8.666/93.
-    
-                       Presentes os Cons. Abelardo Pio Vilanova e Silva (Presidente), Luciano Nunes
-            Santos, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga,
-            Olavo Rebêlo de Carvalho Filho, Kleber Dantas Eulálio e os Cons. Substitutos Jaylson Fabianh
-            Lopes Campelo, convocado para substituir, nesse processo, à Consª. Lilian de Almeida Veloso
-            Nunes Martins (ausente por motivo justificado), Delano Carneiro da Cunha Câmara, Jackson
-            Nobre Veras e Alisson Felipe de Araújo.
-    
-                      Representante do Ministério Público de Contas presente: Procurador-Geral
-            Leandro Maciel do Nascimento.
-    
-                          Publique-se. Cumpra-se.
-    
-                          Sessão Plenária Ordinária, em Teresina, 14 de maio de 2020.
-    
-                                    (Assinado Digitalmente)
-                            Cons. Joaquim Kennedy Nogueira Barros                                      Relator
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS - 28/05/2020 12:25:36
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Kennedy Barros
+pagamento proporcional aos serviços executados resultar em uma supressão superior a 25%
+(vinte e cinco por cento) do objeto contratual? Diante da inexistência de posicionamento
+doutrinário e jurisprudencial acerca dessa matéria, qual é o posicionamento a ser adotado pela
+Administração Pública? **Resposta:** As supressões contratuais, salvo se decorrente de acordo entre
+as partes, não podem ultrapassar o limite de 25% (vinte e cinco por cento), em razão da
+taxatividade da norma do art. 65, §§ 1º e 2º, II, da Lei nº 8.666/93.
+
+**Presentes** os Cons. Abelardo Pio Vilanova e Silva (Presidente), Luciano Nunes
+Santos, Joaquim Kennedy Nogueira Barros, Waltânia Maria Nogueira de Sousa Leal Alvarenga,
+Olavo Rebêlo de Carvalho Filho, Kleber Dantas Eulálio e os Cons. Substitutos Jaylson Fabianh
+Lopes Campelo, convocado para substituir, nesse processo, à Consª. Lilian de Almeida Veloso
+Nunes Martins (ausente por motivo justificado), Delano Carneiro da Cunha Câmara, Jackson
+Nobre Veras e Alisson Felipe de Araújo.
+
+**Representante do Ministério Público de Contas presente:** Procurador-Geral
+Leandro Maciel do Nascimento.
+
+Publique-se. Cumpra-se.
+
+Sessão Plenária Ordinária, em Teresina, **14 de maio de 2020.**
+
+[LACUNA DE PRIVACIDADE: linha integral suprimida; não reconstruída.]
+Cons. Joaquim Kennedy Nogueira Barros                                      Relator
+
+
+
+
+[LACUNA DE PRIVACIDADE: linha integral suprimida; não reconstruída.]
+
+[Brasão: ESTADO DO PIAUÍ. Logotipo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Lacunas exatas: linha acima do nome do relator; autenticação inferior. Ambas mascaradas integralmente, não reconstruídas.]
+
+[Limites do cotejo independente: Continuação da quarta questão, resposta, presentes, representante, data destacada e fecho cotejados. Duas lacunas de autenticação não reconstruídas. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 ## Ementa
 
 [ACO-010458-19](https://www.tce.pi.gov.br/wp-content/uploads/2021/02/ACO-010458-19.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next014: este recorte integra vinte físicas e vinte contextos de sete fichas após leitura visual Sol e novo cotejo pessoal Astra das páginas inteiras e oitenta faixas. Candidatas e blocos públicos passaram por reversão byte a byte. Uma nota foi ajustada para explicitar a máscara do QR. Nomes/cargos funcionais e códigos documentais visíveis foram preservados; linhas, pontuação e traços sob máscara não foram completados. A folha quase vazia com fragmento nominal não demonstra vínculo autônomo de assinatura. O escritor registrou exibição de bloco externo sanitizado, excluído da prova, e perda do hash temporário inicial do ordinal 01; o novo render não supre esse hash histórico. A revisão expôs indevidamente QR no ordinal 02, corrigiu a máscara e releu cinco vistas. Não se declara execução sem falhas de privacidade. Sem OCR ou camada nativa como autoridade; sem equivalência de diagramação, autenticação, vigência, efeitos ou completude.

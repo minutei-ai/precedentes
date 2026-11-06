@@ -22,117 +22,126 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                                                                 Gabinete da Conselheira
-                                                                                      Waltânia Alvarenga
-                                                                                                      (86) 3215-3866
-    
-    
-       MISSÃO: Exercer o controle externo, mediante orientação, fiscalização e avaliação da gestão dos recursos públicos,
-                                     visando a sua efetiva aplicação em prol da sociedade.
-    
-    
-                                          ACÓRDÃO Nº 623/2021-SPL
-    
-    PROCESSO:     TC/010414/2021
-    ASSUNTO:      CONSULTA
-    OBJETO:       QUESTIONAMENTO SOBRE AS VEDAÇÕES DO ART. 8º,
-                  INCISO II DA LC 173/2020 – CRIAÇÃO DE CARGOS, QUE
-                  NÃO SEJAM REFERENTES À ÁREA DE SAÚDE
-    UNIDADE GESTORA: PREFEITURA MUNICIPAL DE PEDRO II
-    CONSULENTE:   ALVIMAR OLIVEIRA DE ANDRADE – PREFEITO MUNICIPAL
-    RELATORA:     CONS.ª WALTÂNIA MARIA N. DE SOUSA LEAL ALVARENGA
-    RELATOR SUBSTITUTO: CONS. SUBS. JACKSON NOBRE VERAS
-    PROCURADOR: LEANDRO MACIEL DO NASCIMENTO
-    ADVOGADO:     BRUNO FERREIRA CORREIA LIMA – OAB/PI Nº 3.767
-    
-    
-                                      EMENTA: LEI COMPLEMENTAR Nº 173/2020 – ART. 8º, PROGRAMA
-                                      FEDERATIVO DE ENFRENTAMENTO À COVID. VEDAÇÃO DE
-                                      CRIAÇÃO DE CARGOS. EXCEÇÃO: POSSÍVEL A CRIAÇÃO DE
-                                      DESPESAS DE PESSOAL DESDE QUE EXISTA PRÉVIA
-                                      COMPENSAÇÃO FINANCEIRA.
-    
-                                      1.        Fica vedada, em regra, até o dia 31 de dezembro de 2021, a
-                                      criação de cargos, empregos ou funções públicas, promulgada após o
-                                      início de vigência da LC 173/2020 (28/05/2020), gerando aumento de
-                                      despesa.
-    
-                                      2.        Entretanto, continuam permitidas as readequações legais no
-                                      quadro de pessoal que não resultem efetivo acréscimo de gastos
-                                      públicos, ou seja, que não impliquem aumento de despesa, como, por
-                                      exemplo, a transformação de cargos, empregos e funções sem que
-                                      haja majoração das despesas a eles relacionadas.
-    
-                                      SUMÁRIO: Consulta – Prefeitura Municipal de Pedro II.
-                                      CONHECIMENTO. RESPOSTA: O art. 8º da LEI COMPLEMENTAR
-                                      173/2020 veda a criação de cargos que gerem aumento de despesa,
-                                      sendo, entretanto, possível a criação de despesas com pessoal desde
-                                      que exista prévia compensação financeira. Decisão unânime.
-    
-    
-                Vistos, relatados e discutidos os presentes autos, que se referem à
-    Consulta formulada pelo Sr. ALVIMAR OLIVEIRA DE ANDRADE – Prefeito
-    Municipal de Pedro II, exercício 2021, considerando a informação da CRJ (peça nº
-    08), o parecer técnico da Divisão de Apoio ao Jurisdicionado - DAJUR (peça nº 09),
-    o parecer do Ministério Público de Contas (peça nº 11), e o mais que dos autos
-    consta, decidiu o Plenário, à unanimidade, em consonância com o parecer
-    ministerial, pelo conhecimento da Consulta formulada, para respondê-la, conforme
-    e pelos fundamentos expostos no voto do Relator substituto (peça n° 15), nos
-    seguintes termos: Os entes federativos, sujeitos ao art. 8º, da Lei Complementar
-    173/2020, estão impedidos, durante o período de vigência da referida Lei, de criar
-    
-    TC/010414/2021 – CONSULTA – P. M. de Pedro II.                                                                          1
-    
+Gabinete da Conselheira
+Waltânia Alvarenga
+(86) 3215-3866
+
+
+MISSÃO: Exercer o controle externo, mediante orientação, fiscalização e avaliação da gestão dos recursos públicos,
+visando a sua efetiva aplicação em prol da sociedade.
+
+
+**ACÓRDÃO Nº 623/2021-SPL**
+
+**PROCESSO:**     TC/010414/2021
+**ASSUNTO:**      CONSULTA
+**OBJETO:**       QUESTIONAMENTO SOBRE AS VEDAÇÕES DO ART. 8º,
+INCISO II DA LC 173/2020 – CRIAÇÃO DE CARGOS, QUE
+NÃO SEJAM REFERENTES À ÁREA DE SAÚDE
+**UNIDADE GESTORA:** PREFEITURA MUNICIPAL DE PEDRO II
+**CONSULENTE:**   ALVIMAR OLIVEIRA DE ANDRADE – PREFEITO MUNICIPAL
+**RELATORA:**     CONS.ª WALTÂNIA MARIA N. DE SOUSA LEAL ALVARENGA
+**RELATOR SUBSTITUTO:** CONS. SUBS. JACKSON NOBRE VERAS
+**PROCURADOR:** LEANDRO MACIEL DO NASCIMENTO
+**ADVOGADO:** [LACUNA DE PRIVACIDADE: conteúdo após o rótulo integralmente mascarado; não reconstruído.]
+
+
+**EMENTA:** LEI COMPLEMENTAR Nº 173/2020 – ART. 8º, PROGRAMA
+FEDERATIVO DE ENFRENTAMENTO À COVID. VEDAÇÃO DE
+CRIAÇÃO DE CARGOS. EXCEÇÃO: POSSÍVEL A CRIAÇÃO DE
+DESPESAS DE PESSOAL DESDE QUE EXISTA PRÉVIA
+COMPENSAÇÃO FINANCEIRA.
+
+1. Fica vedada, em regra, até o dia 31 de dezembro de 2021, a
+criação de cargos, empregos ou funções públicas, promulgada após o
+início de vigência da LC 173/2020 (28/05/2020), gerando aumento de
+despesa.
+
+2. Entretanto, continuam permitidas as readequações legais no
+quadro de pessoal que não resultem efetivo acréscimo de gastos
+públicos, ou seja, que não impliquem aumento de despesa, como, por
+exemplo, a transformação de cargos, empregos e funções sem que
+haja majoração das despesas a eles relacionadas.
+
+***SUMÁRIO:** Consulta – Prefeitura Municipal de Pedro II.
+CONHECIMENTO. RESPOSTA: O art. 8º da LEI COMPLEMENTAR
+173/2020 veda a criação de cargos que gerem aumento de despesa,
+sendo, entretanto, possível a criação de despesas com pessoal desde
+que exista prévia compensação financeira. Decisão unânime.*
+
+
+Vistos, relatados e discutidos os presentes autos, que se referem à
+Consulta formulada pelo Sr. ALVIMAR OLIVEIRA DE ANDRADE – Prefeito
+Municipal de Pedro II, exercício 2021, considerando a informação da CRJ (peça nº
+08), o parecer técnico da Divisão de Apoio ao Jurisdicionado - DAJUR (peça nº 09),
+o parecer do Ministério Público de Contas (peça nº 11), e o mais que dos autos
+consta, decidiu o Plenário, à unanimidade, em consonância com o parecer
+ministerial, pelo **conhecimento** da Consulta formulada, para respondê-la, conforme
+e pelos fundamentos expostos no voto do Relator substituto (peça n° 15), nos
+seguintes termos: *Os entes federativos, sujeitos ao art. 8º, da Lei Complementar
+173/2020, estão impedidos, durante o período de vigência da referida Lei, de criar*
+
+TC/010414/2021 – CONSULTA – P. M. de Pedro II.                                                                          1
+
+[Logotipo superior esquerdo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Cabeçalho e rodapé em faixas azuis. Sem completar o período que termina em “criar”.]
+
+[Limites do cotejo independente: Cabeçalho/missão, identidade 623/2021-SPL, dois itens, sumário, corpo e rodapé 1 cotejados. ADVOGADO visível, conteúdo oculto não inferido; máscara contígua ao nome do procurador limita certificação de traços. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 2 do PDF oficial
 
-                                                                                           Gabinete da Conselheira
-                                                                                                Waltânia Alvarenga
-                                                                                                                (86) 3215-3866
-    
-    
-                 MISSÃO: Exercer o controle externo, mediante orientação, fiscalização e avaliação da gestão dos recursos públicos,
-                                               visando a sua efetiva aplicação em prol da sociedade.
-    
-    
-            cargos, empregos ou funções públicas que gerem aumento de despesa, sendo
-            possível a criação de despesas com pessoal, desde que exista prévia e comprovada
-            compensação mediante aumento de receita ou redução de despesa e, desde que as
-            medidas de compensação adotadas sejam permanentes.
-    
-                        Presentes os Cons. Lilian de Almeida Veloso Nunes Martins (Presidente),
-            Olavo Rebêlo de Carvalho Filho, Kléber Dantas Eulálio, Jaylson Fabianh Lopes
-            Campelo (Conselheiro em exercício) e os Conselheiros Substitutos Delano Carneiro
-            da Cunha Câmara, em substituição ao Cons. Abelardo Pio Vilanova e Silva (em gozo
-            de férias), Jackson Nobre Veras, em substituição à Cons.ª Waltânia Maria Nogueira
-            de Sousa Leal Alvarenga (em gozo de férias) e Alisson Felipe de Araújo, em
-            substituição ao Cons. Joaquim Kennedy Nogueira Barros (em gozo de férias).
-    
-                      Representante do Ministério Público de Contas presente: Procurador-
-            Geral José Araújo Pinheiro Júnior.
-    
-                           Transcreva-se, publique-se e cumpra-se.
-    
-                           Sessão Plenária Ordinária Virtual nº 025, em Teresina, 22 de julho de
-            2021.
-    
-    
-    
-            (Assinado digitalmente)
-            Cons. Substituto                                Relator Substituto Jackson Nobre Veras
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS - 29/07/2021 07:32:40
-    
-    
-    
-    
-             TC/010414/2021 – CONSULTA – P. M. de Pedro II.                                                                           2
+Gabinete da Conselheira
+Waltânia Alvarenga
+(86) 3215-3866
+
+
+MISSÃO: Exercer o controle externo, mediante orientação, fiscalização e avaliação da gestão dos recursos públicos,
+visando a sua efetiva aplicação em prol da sociedade.
+
+
+*cargos, empregos ou funções públicas que gerem aumento de despesa, sendo
+possível a criação de despesas com pessoal, desde que exista prévia e comprovada
+compensação mediante aumento de receita ou redução de despesa e, desde que as
+medidas de compensação adotadas sejam permanentes.*
+
+**Presentes** os Cons. Lilian de Almeida Veloso Nunes Martins (Presidente),
+Olavo Rebêlo de Carvalho Filho, Kléber Dantas Eulálio, Jaylson Fabianh Lopes
+Campelo (Conselheiro em exercício) e os Conselheiros Substitutos Delano Carneiro
+da Cunha Câmara, em substituição ao Cons. Abelardo Pio Vilanova e Silva (em gozo
+de férias), Jackson Nobre Veras, em substituição à Cons.ª Waltânia Maria Nogueira
+de Sousa Leal Alvarenga (em gozo de férias) e Alisson Felipe de Araújo, em
+substituição ao Cons. Joaquim Kennedy Nogueira Barros (em gozo de férias).
+
+**Representante do Ministério Público de Contas presente:** Procurador-
+Geral José Araújo Pinheiro Júnior.
+
+Transcreva-se, publique-se e cumpra-se.
+
+Sessão Plenária Ordinária Virtual nº 025, em Teresina, 22 de julho de
+2021.
+
+
+
+[LACUNA DE PRIVACIDADE: linha integral suprimida; não reconstruída.]
+**Cons. Substituto**                                **Relator Substituto Jackson Nobre Veras**
+
+
+
+
+[LACUNA DE PRIVACIDADE: linha integral suprimida; não reconstruída.]
+
+
+
+
+TC/010414/2021 – CONSULTA – P. M. de Pedro II.                                                                           2
+
+[Logotipo superior esquerdo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Cabeçalho e rodapé azuis. Lacunas de privacidade: linha acima de Cons. Substituto e linha inferior de autenticação; não reconstruídas.]
+
+[Limites do cotejo independente: Continuação em itálico, presentes/substituições, representante, sessão 025, fecho e rodapé 2 cotejados. Máscara toca alto de Cons. Substituto; não certifica traços interceptados nem vínculo de assinatura. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 ## Ementa
 
 [ACO623](https://www.tce.pi.gov.br/wp-content/uploads/2021/09/ACO623.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next014: este recorte integra vinte físicas e vinte contextos de sete fichas após leitura visual Sol e novo cotejo pessoal Astra das páginas inteiras e oitenta faixas. Candidatas e blocos públicos passaram por reversão byte a byte. Uma nota foi ajustada para explicitar a máscara do QR. Nomes/cargos funcionais e códigos documentais visíveis foram preservados; linhas, pontuação e traços sob máscara não foram completados. A folha quase vazia com fragmento nominal não demonstra vínculo autônomo de assinatura. O escritor registrou exibição de bloco externo sanitizado, excluído da prova, e perda do hash temporário inicial do ordinal 01; o novo render não supre esse hash histórico. A revisão expôs indevidamente QR no ordinal 02, corrigiu a máscara e releu cinco vistas. Não se declara execução sem falhas de privacidade. Sem OCR ou camada nativa como autoridade; sem equivalência de diagramação, autenticação, vigência, efeitos ou completude.

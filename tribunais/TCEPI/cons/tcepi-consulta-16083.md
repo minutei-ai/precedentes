@@ -144,246 +144,262 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                     Estado do Piauí
-                     Tribunal de Contas
-                     Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-    PROCESSO: TC 046134/2012
-    ÓRGÃO/ENTIDADE: Fundação Municipal de Saúde de Sussuapara - PI
-    ASSUNTO: Consulta acerca da forma de ingresso dos profissionais de nível superior para
-    manutenção dos programas NASF e adequação das contratações à LRF e à Lei Eleitoral.
-    CONSULENTE: Maria Lucia da Silva
-    RELATOR: Delano Carneiro da Cunha Câmara
-    PROCURADOR: Márcio André Madeira de Vasconcelos
-    
-    
-    
-    1 RELATÓRIO
-    
-               Os presentes autos referem-se à consulta formulada pela Fundação Municipal
-    de Saúde de Sussuapara - Piauí na pessoa da Sra. Maria Lucia da Silva, acerca da forma
-    de ingresso dos profissionais de nível superior para manutenção dos programas NASF
-    (Núcleo de Apoio à Saúde da Família) e da possibilidade de contratação destes durante o
-    período vedado pela Lei nº 9504/97 de 03 meses antes do pleito eleitoral e durante o
-    período vedado pela LRF nos últimos 180 dias de mandato.
-    
-                Feita análise de admissibilidade constatou que a consulta apresentou os
-    requisitos necessários para admissão da consulta, nos termos do art. 201 do Regimento
-    Interno, conforme fls. 76, considerando que a consulente possui legitimidade e procedeu a
-    instrução exigida. Assim, a referida foi encaminhada à Comissão de Regimento e
-    Jurisprudência para fins de cumprimento do art. 308 do Regimento Interno, às fls. 77.
-    
-             O relator, por sua vez, encaminhou os autos à Consultoria Técnica com nos
-    supedâneo nos art. 338 e 339 do Regimento Interno do Tribunal de Contas do Estado do
-    Piauí.
-    
-               A Consultoria Técnica emitiu o seu parecer às fls. 82/95, seguindo a tramitação
-    normal, os autos foram remetidos ao Ministério Público de Contas o se pronunciou às fls.
-    96/102.
-    
-               È, em síntese, o relatório.
-    
-    2 FUNDAMENTAÇÃO
-    
-    2.1 Do conhecimento
-    
-               A citada consulta foi conhecida por se entender que ela preenchia os requisitos
-    de admissibilidades, considerando que foi formulada por autoridade competente com
-    instrução de parecer jurídico acerca da matéria e o envio de cópia da legislação pertinente
-    ao objeto da consulta. Destarte, atendendo o art. 201 da Resolução TCE/PI nº 13/11, de 26
-    de agosto de 2011.
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Delano C. da Cunha Câmara
+
+
+**PROCESSO:** TC 046134/2012
+**ÓRGÃO/ENTIDADE:** Fundação Municipal de Saúde de Sussuapara - PI
+**ASSUNTO:** Consulta acerca da forma de ingresso dos profissionais de nível superior para
+manutenção dos programas NASF e adequação das contratações à LRF e à Lei Eleitoral.
+**CONSULENTE:** Maria Lucia da Silva
+**RELATOR:** Delano Carneiro da Cunha Câmara
+**PROCURADOR:** Márcio André Madeira de Vasconcelos
+
+
+
+**1 RELATÓRIO**
+
+Os presentes autos referem-se à consulta formulada pela Fundação Municipal
+de Saúde de Sussuapara - Piauí na pessoa da Sra. Maria Lucia da Silva, acerca da forma
+de ingresso dos profissionais de nível superior para manutenção dos programas NASF
+(Núcleo de Apoio à Saúde da Família) e da possibilidade de contratação destes durante o
+período vedado pela Lei nº 9504/97 de 03 meses antes do pleito eleitoral e durante o
+período vedado pela LRF nos últimos 180 dias de mandato.
+
+Feita análise de admissibilidade constatou que a consulta apresentou os
+requisitos necessários para admissão da consulta, nos termos do art. 201 do Regimento
+Interno, conforme fls. 76, considerando que a consulente possui legitimidade e procedeu a
+instrução exigida. Assim, a referida foi encaminhada à Comissão de Regimento e
+Jurisprudência para fins de cumprimento do art. 308 do Regimento Interno, às fls. 77.
+
+O relator, por sua vez, encaminhou os autos à Consultoria Técnica com nos
+supedâneo nos art. 338 e 339 do Regimento Interno do Tribunal de Contas do Estado do
+Piauí.
+
+A Consultoria Técnica emitiu o seu parecer às fls. 82/95, seguindo a tramitação
+normal, os autos foram remetidos ao Ministério Público de Contas o se pronunciou às fls.
+96/102.
+
+È, em síntese, o relatório.
+
+**2 FUNDAMENTAÇÃO**
+
+**2.1 Do conhecimento**
+
+A citada consulta foi conhecida por se entender que ela preenchia os requisitos
+de admissibilidades, considerando que foi formulada por autoridade competente com
+instrução de parecer jurídico acerca da matéria e o envio de cópia da legislação pertinente
+ao objeto da consulta. Destarte, atendendo o art. 201 da Resolução TCE/PI nº 13/11, de 26
+de agosto de 2011.
+
+[Brasão superior esquerdo: ESTADO DO PIAUÍ. Logotipo superior direito: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Sem notas ou rodapé textual visíveis.]
+
+[Limites do cotejo independente: Identidade TC 046134/2012, relatório e conhecimento cotejados. Fonte mantém com nos supedâneo, Contas o se pronunciou e È. Logos e espaços finais examinados; sem fecho visível. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 2 do PDF oficial
 
-                     Estado do Piauí
-                     Tribunal de Contas
-                     Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-    
-    
-    2.2 Do Mérito
-    
-    
-    
-               Na consulta, foram realizados 2 (dois) questionamentos:
-    
-              a) No tocante ao que disciplina a Lei Eleitoral nº 9.504, de 30 de setembro
-    de 1997, que estabelece normas para as eleições, nas disposições referentes às
-    condutas vedadas aos agentes públicos, dentre eles a nomeação, contratação ou
-    admissão de pessoal nos 3 (três) meses que antecedem ao pleito eleitoral, bem como
-    o parágrafo único do art. 21 de Lei de Responsabilidade Fiscal da impossibilidade do
-    município realizar aumento de despesas com pessoal nos últimos 180 dias de
-    mandato.
-    
-               Quanto à primeira parte do questionamento, a qual versa sobre a nomeação,
-    contratação ou admissão de pessoal nos 03 (três) meses que antecedem ao pleito eleitoral,
-    o MPC entendeu que não há pertinência temática com este Tribunal de Contas, visto que
-    versa sobre matéria eleitoral, ressaltando o Parquet que o art. 30, VIII, do Código Eleitoral,
-    dispõe sobre a competência dos Tribunais Regionais Eleitorais para conhecer e responder
-    consultas sobre matéria eleitoral.
-    
-              Compartilha-se deste entendimento, portanto não cabe ao Tribunal de
-    Contas responder tal questão.
-    
-               No que tange ao questionamento sobre a impossibilidade do município
-    realizar aumento de despesas com pessoal nos últimos 180 dias de mandato, trazida
-    pela LRF, o parecer jurídico colacionado pela consulente aduz que tal vedação não
-    se aplicaria ao caso em comento tendo em vista que os recursos para custeio do
-    programa provêm do Governo Federal.
-    
-              Vez que o art. 21, parágrafo único, da LRF, afirma que será nulo o ato
-    efetuado nos cento e oitenta dias anteriores no final do mandato que resulte em
-    aumento da despesa com pessoal.
-    
-               A Consultoria Técnica, em seu parecer de nº 110/2014, quanto a este
-    ponto aduziu, mediante fundamentação doutrinária, que há necessidade de efetuar
-    interpretação do mencionado dispositivo da LRF de modo sistemático e teleológico.
-    
-               Colacionou para tanto entendimento da Professora Maria Sylvia Zanella di
-    Pietro, segundo a qual o objetivo desta norma é impedir assunção de despesas
-    novas de pessoal em final de mandato, evitando o comprometimento da execução
-    financeira e orçamentária do exercício financeiro seguinte.
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Delano C. da Cunha Câmara
+
+
+
+
+**2.2 Do Mérito**
+
+
+
+Na consulta, foram realizados 2 (dois) questionamentos:
+
+***a) No tocante ao que disciplina a Lei Eleitoral nº 9.504, de 30 de setembro
+de 1997, que estabelece normas para as eleições, nas disposições referentes às
+condutas vedadas aos agentes públicos, dentre eles a nomeação, contratação ou
+admissão de pessoal nos 3 (três) meses que antecedem ao pleito eleitoral, bem como
+o parágrafo único do art. 21 de Lei de Responsabilidade Fiscal da impossibilidade do
+município realizar aumento de despesas com pessoal nos últimos 180 dias de
+mandato.***
+
+Quanto à primeira parte do questionamento, a qual versa sobre a nomeação,
+contratação ou admissão de pessoal nos 03 (três) meses que antecedem ao pleito eleitoral,
+o MPC entendeu que não há pertinência temática com este Tribunal de Contas, visto que
+versa sobre matéria eleitoral, ressaltando o Parquet que o art. 30, VIII, do Código Eleitoral,
+dispõe sobre a competência dos Tribunais Regionais Eleitorais para conhecer e responder
+consultas sobre matéria eleitoral.
+
+Compartilha-se deste entendimento, portanto não cabe ao Tribunal de
+Contas responder tal questão.
+
+No que tange ao questionamento sobre a impossibilidade do município
+realizar aumento de despesas com pessoal nos últimos 180 dias de mandato, trazida
+pela LRF, o parecer jurídico colacionado pela consulente aduz que tal vedação não
+se aplicaria ao caso em comento tendo em vista que os recursos para custeio do
+programa provêm do Governo Federal.
+
+Vez que o art. 21, parágrafo único, da LRF, afirma que será nulo o ato
+efetuado nos cento e oitenta dias anteriores no final do mandato que resulte em
+aumento da despesa com pessoal.
+
+A Consultoria Técnica, em seu parecer de nº 110/2014, quanto a este
+ponto aduziu, mediante fundamentação doutrinária, que há necessidade de efetuar
+interpretação do mencionado dispositivo da LRF de modo sistemático e teleológico.
+
+Colacionou para tanto entendimento da Professora Maria Sylvia Zanella di
+Pietro, segundo a qual o objetivo desta norma é impedir assunção de despesas
+novas de pessoal em final de mandato, evitando o comprometimento da execução
+financeira e orçamentária do exercício financeiro seguinte.
+
+[Brasão: ESTADO DO PIAUÍ; logotipo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Sem notas ou rodapé textual visíveis.]
+
+[Limites do cotejo independente: Mérito, quesito a em negrito-itálico e todos os parágrafos cotejados. Mantidas de Lei e anteriores no final; Parquet aqui sem itálico. Sem notas ou fecho visíveis. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 3 do PDF oficial
 
-                    Estado do Piauí
-                    Tribunal de Contas
-                    Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-              De modo sistemático, afirmou a consultoria ser possível aplicar as
-    ressalvas dispostas no art. 73 da Lei nº 9.504/97 ao artigo 21, da LRF, uma vez que
-    a LRF não estabeleceu as exceções permitidas por esse dispositivo. Porém esta
-    aplicação somente será permitida desde que haja orçamento para a despesa.
-    
-               O MPC, por sua vez, ao comentar a questão afirmou que o fato de tratar-
-    se de recursos do Governo Federal não afasta a obrigatoriedade da aplicação da
-    LRF, pois a referida portaria dispôs que contratação e remuneração destes
-    profissionais são de responsabilidade das Secretarias Municipais, sendo despesas
-    de pessoal do município, portanto.
-    
-              Ademais, o “Parquet” entende ser razoável a explanação da Consultoria,
-    entendendo que no âmbito de análise de cada processo de prestação de contas se o
-    colegiado não reprovar as contas em face do descumprimento do disposto no art.
-    21, da LRF, devem ser observados os seguintes requisitos:
-    
-              1) Estimativa do impacto orçamentário-financeiro no exercício em que
-    deva entrar em vigor e nos dois subsequentes (art.16, I, LRF);
-    
-               2) Comprovação de que a despesa criada ou aumentada não afetará as
-    metas de resultados fiscais previstas no Anexo de Metas Fiscais, devendo seus
-    efeitos financeiros, nos períodos seguintes, ser compensados pelo aumento
-    permanente de receita ou pela redução permanente de despesa (art. 17, §2º);
-    
-              3) Que o concurso público, prévio à admissão, seja homologado antes do
-    período vedado;
-    
-                4) que o índice de gastos com despesa de pessoal esteja devidamente
-    cumprido.
-    
-              Contrariamente ao MPC, entende-se que o presente caso, em que os
-    recursos que custeiam as despesas do Programa provêm do Governo Federal, está
-    excluído da aplicação do art. 21, parágrafo único, da LRF, uma vez que não onera a
-    despesa do Ente que efetiva a contratação, qual seja a Secretaria de Saúde.
-    
-              Portanto, a contratação neste caso de recurso provindo do governo
-    federal pode ocorrer sem observância dos 180 dias previstos pelo art. 21, p. único,
-    da LRF.
-    
-              b) O município solicita um posicionamento desta Corte de Contas sobre a
-    forma de ingresso dos profissionais de nível superior na administração pública para
-    manutenção do programa NASF (Núcleo de Apoio a Saúde da Família) de acordo com
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Delano C. da Cunha Câmara
+
+
+De modo sistemático, afirmou a consultoria ser possível aplicar as
+ressalvas dispostas no art. 73 da Lei nº 9.504/97 ao artigo 21, da LRF, uma vez que
+a LRF não estabeleceu as exceções permitidas por esse dispositivo. Porém esta
+aplicação somente será permitida desde que haja orçamento para a despesa.
+
+O MPC, por sua vez, ao comentar a questão afirmou que o fato de tratar-
+se de recursos do Governo Federal não afasta a obrigatoriedade da aplicação da
+LRF, pois a referida portaria dispôs que contratação e remuneração destes
+profissionais são de responsabilidade das Secretarias Municipais, sendo despesas
+de pessoal do município, portanto.
+
+Ademais, o *“Parquet”* entende ser razoável a explanação da Consultoria,
+entendendo que no âmbito de análise de cada processo de prestação de contas se o
+colegiado não reprovar as contas em face do descumprimento do disposto no art.
+21, da LRF, devem ser observados os seguintes requisitos:
+
+1) Estimativa do impacto orçamentário-financeiro no exercício em que
+deva entrar em vigor e nos dois subsequentes (art.16, I, LRF);
+
+2) Comprovação de que a despesa criada ou aumentada não afetará as
+metas de resultados fiscais previstas no Anexo de Metas Fiscais, devendo seus
+efeitos financeiros, nos períodos seguintes, ser compensados pelo aumento
+permanente de receita ou pela redução permanente de despesa (art. 17, §2º);
+
+3) Que o concurso público, prévio à admissão, seja homologado antes do
+período vedado;
+
+4) que o índice de gastos com despesa de pessoal esteja devidamente
+cumprido.
+
+Contrariamente ao MPC, entende-se que o presente caso, em que os
+recursos que custeiam as despesas do Programa provêm do Governo Federal, está
+excluído da aplicação do art. 21, parágrafo único, da LRF, uma vez que não onera a
+despesa do Ente que efetiva a contratação, qual seja a Secretaria de Saúde.
+
+Portanto, a contratação neste caso de recurso provindo do governo
+federal pode ocorrer sem observância dos 180 dias previstos pelo art. 21, p. único,
+da LRF.
+
+***b) O município solicita um posicionamento desta Corte de Contas sobre a
+forma de ingresso dos profissionais de nível superior na administração pública para
+manutenção do programa NASF (Núcleo de Apoio a Saúde da Família) de acordo com***
+
+[Brasão: ESTADO DO PIAUÍ; logotipo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Sem notas ou rodapé textual visíveis. Última frase termina em “de acordo com”, sem completar continuação.]
+
+[Limites do cotejo independente: Todos os parágrafos, quatro requisitos, Parquet em itálico e início de b cotejados. Não completar de acordo com. Mantido a Saúde sem crase no quesito. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 4 do PDF oficial
 
-                     Estado do Piauí
-                     Tribunal de Contas
-                     Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-    as portarias GM/MS nº 2.488/2011 e GM/Ms nº 1.001/2012, tendo em vista que o
-    referido recurso deve ser aplicado continuamente e que a contratação desses
-    profissionais para a execução do programa supra no período que antecedem as
-    eleições pode gerar improbidade administrativa.
-    
-                Analisando a referida Portaria nº 2.488/2011, observou-se que o Ministério da
-    Saúde não determinou qual a forma de contratação dos profissionais de nível superior que
-    trabalham para a manutenção dos programas NASF. Tal Portaria afirma que compete às
-    Secretarias de Saúde dos Municípios e do Distrito Federal selecionar, contratar e remunerar
-    os profissionais conforme disposto na legislação vigente nos municípios e Distrito Federal.
-    
-                Considerando que o NASF é programa federal com caráter permanente, sem
-    termo final definido, o MPC entendeu que a ele se aplica o disposto no art. 37, da CF/88,
-    devendo a contratação ser efetivada mediante concurso público. Por este motivo, o MPC
-    entendeu que a contratação de servidores para manutenção do programa deve ser realizada
-    mediante concurso Público.
-    
-                No entanto, observa-se que este programa apesar de não ter seu termo definido,
-    poderá ter solução de continuidade posteriormente, de forma que se fosse encerrado o
-    programa os servidores contratados mediante concurso público ficariam a disposição do
-    município, onerando a folha de pagamento deste, o que se busca evitar.
-    
-                Assim, entende-se que a contratação dos servidores não deve ser efetuada
-    mediante concurso, deve ser efetuada mediante Processo Seletivo Simplificado por prazo
-    determinado de 06 (seis) meses, prorrogáveis por mais 06 (seis) meses, findos os quais se
-    realizará nova seleção, sempre dotada de critérios objetivos que garantam impessoalidade
-    na contratação, em obediência ao art. 37, IX, da CF/88.
-    
-    3 CONCLUSÃO
-    
-               Em face do exposto,
-    
-    
-               a) Quanto à nomeação, contratação ou admissão de pessoal nos 03 (três)
-    meses que antecedem ao pleito eleitoral, não há pertinência temática com este Tribunal de
-    Contas, visto que versa sobre matéria eleitoral, a competência para conhecer e responder
-    consultas sobre matéria eleitoral, segundo o art. 30, VIII, do Código Eleitoral, é dos Tribunais
-    Regionais Eleitorais.
-    
-               b) Quanto à impossibilidade do município realizar aumento de despesas
-    com pessoal nos últimos 180 dias de mandato, trazida pela LRF, entende-se que
-    nos casos em que os recursos que custeiam as despesas do Programa provêm do
-    Governo Federal, está excluída a aplicação do art. 21, parágrafo único, da LRF, uma
-    vez que não onera a despesa do Ente que efetiva a contratação, qual seja a
-    
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Delano C. da Cunha Câmara
+
+
+***as portarias GM/MS nº 2.488/2011 e GM/Ms nº 1.001/2012, tendo em vista que o
+referido recurso deve ser aplicado continuamente e que a contratação desses
+profissionais para a execução do programa supra no período que antecedem as
+eleições pode gerar improbidade administrativa.***
+
+Analisando a referida Portaria nº 2.488/2011, observou-se que o Ministério da
+Saúde não determinou qual a forma de contratação dos profissionais de nível superior que
+trabalham para a manutenção dos programas NASF. Tal Portaria afirma que compete às
+Secretarias de Saúde dos Municípios e do Distrito Federal selecionar, contratar e remunerar
+os profissionais conforme disposto na legislação vigente nos municípios e Distrito Federal.
+
+Considerando que o NASF é programa federal com caráter permanente, sem
+termo final definido, o MPC entendeu que a ele se aplica o disposto no art. 37, da CF/88,
+devendo a contratação ser efetivada mediante concurso público. Por este motivo, o MPC
+entendeu que a contratação de servidores para manutenção do programa deve ser realizada
+mediante concurso Público.
+
+No entanto, observa-se que este programa apesar de não ter seu termo definido,
+poderá ter solução de continuidade posteriormente, de forma que se fosse encerrado o
+programa os servidores contratados mediante concurso público ficariam a disposição do
+município, onerando a folha de pagamento deste, o que se busca evitar.
+
+Assim, entende-se que a contratação dos servidores não deve ser efetuada
+mediante concurso, deve ser efetuada mediante Processo Seletivo Simplificado por prazo
+determinado de 06 (seis) meses, prorrogáveis por mais 06 (seis) meses, findos os quais se
+realizará nova seleção, sempre dotada de critérios objetivos que garantam impessoalidade
+na contratação, em obediência ao art. 37, IX, da CF/88.
+
+**3 CONCLUSÃO**
+
+Em face do exposto,
+
+
+a) Quanto à nomeação, contratação ou admissão de pessoal nos 03 (três)
+meses que antecedem ao pleito eleitoral, não há pertinência temática com este Tribunal de
+Contas, visto que versa sobre matéria eleitoral, a competência para conhecer e responder
+consultas sobre matéria eleitoral, segundo o art. 30, VIII, do Código Eleitoral, é dos Tribunais
+Regionais Eleitorais.
+
+b) Quanto à impossibilidade do município realizar aumento de despesas
+com pessoal nos últimos 180 dias de mandato, trazida pela LRF, entende-se que
+nos casos em que os recursos que custeiam as despesas do Programa provêm do
+Governo Federal, está excluída a aplicação do art. 21, parágrafo único, da LRF, uma
+vez que não onera a despesa do Ente que efetiva a contratação, qual seja a
+
+[Brasão: ESTADO DO PIAUÍ; logotipo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Sem notas ou rodapé textual visíveis. Termina em “qual seja a”; não completado.]
+
+[Limites do cotejo independente: Continuação em negrito-itálico, fundamentação e conclusão a/b cotejadas; GM/Ms e concurso Público preservados. Limite qual seja a não completado. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 #### Página 5 do PDF oficial
 
-                              Estado do Piauí
-                              Tribunal de Contas
-                              Gab. Cons. Subs. Delano C. da Cunha Câmara
-    
-    
-           Secretaria de Saúde. De forma que a contratação neste caso de recurso provindo do
-           governo federal pode ocorrer sem observância dos 180 dias previstos pelo art. 21, p.
-           único, da LRF.
-    
-                       c) Ao que tange à forma de ingresso dos servidores do NASF entende-se
-           que a contratação deve ser efetuada mediante Processo Seletivo Simplificado por prazo
-           determinado de 06 (seis) meses, prorrogáveis por mais 06 (seis) meses, findos os quais se
-           realizará nova seleção, sempre dotada de critérios objetivos que garantam impessoalidade
-           na contratação, em obediência ao art. 37, IX, da CF/88.
-    
-    
-    
-                                    Teresina(PI), 05 de fevereiro de 2015
-    
-    
-    
-    
-                                    Delano Carneiro da Cunha Câmara
-    
-                                               RELATOR - TCE/PI
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - DELANO CARNEIRO DA CUNHA CAMARA: [identificador e-TCE ocultado] - 20/02/2015 11:34:14
+Estado do Piauí
+Tribunal de Contas
+Gab. Cons. Subs. Delano C. da Cunha Câmara
+
+
+Secretaria de Saúde. De forma que a contratação neste caso de recurso provindo do
+governo federal pode ocorrer sem observância dos 180 dias previstos pelo art. 21, p.
+único, da LRF.
+
+c) Ao que tange à forma de ingresso dos servidores do NASF entende-se
+que a contratação deve ser efetuada mediante Processo Seletivo Simplificado por prazo
+determinado de 06 (seis) meses, prorrogáveis por mais 06 (seis) meses, findos os quais se
+realizará nova seleção, sempre dotada de critérios objetivos que garantam impessoalidade
+na contratação, em obediência ao art. 37, IX, da CF/88.
+
+
+
+Teresina(PI), 05 de fevereiro de 2015
+
+
+
+
+***Delano Carneiro da Cunha Câmara***
+
+**RELATOR - TCE/PI**
+
+
+
+
+[LACUNA DE PRIVACIDADE: linha integral suprimida; não reconstruída.]
+
+[Brasão: ESTADO DO PIAUÍ; logotipo: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ. Linha de autenticação inferior integralmente mascarada, não reconstruída.]
+
+[Limites do cotejo independente: Continuação, quesito c, data de 05/02/2015, nome em negrito-itálico e cargo em negrito cotejados. Linha inferior mascarada não recuperada. Regiões ocultas e traços interceptados não recebem confirmação literal; descrições entre colchetes são editoriais.]
 
 ## Ementa
 
@@ -392,3 +408,5 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 [Voto do Relator](http://www.tce.pi.gov.br/wp-content/uploads/2018/02/voto.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next014: este recorte integra vinte físicas e vinte contextos de sete fichas após leitura visual Sol e novo cotejo pessoal Astra das páginas inteiras e oitenta faixas. Candidatas e blocos públicos passaram por reversão byte a byte. Uma nota foi ajustada para explicitar a máscara do QR. Nomes/cargos funcionais e códigos documentais visíveis foram preservados; linhas, pontuação e traços sob máscara não foram completados. A folha quase vazia com fragmento nominal não demonstra vínculo autônomo de assinatura. O escritor registrou exibição de bloco externo sanitizado, excluído da prova, e perda do hash temporário inicial do ordinal 01; o novo render não supre esse hash histórico. A revisão expôs indevidamente QR no ordinal 02, corrigiu a máscara e releu cinco vistas. Não se declara execução sem falhas de privacidade. Sem OCR ou camada nativa como autoridade; sem equivalência de diagramação, autenticação, vigência, efeitos ou completude.
