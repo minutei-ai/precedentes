@@ -291,53 +291,37 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                                                                   Proc. nº TC- 2438/13     _
-    
-    
-    
-    
-                           Estado do Piauí
-                           Tribunal de Contas
-                           Ministério Público de Contas
-    Proc. TC- nº 2438/13
-    
-    
-    EXMA. SRA. RELATORA CONSELHEIRA LÍLIAN DE ALMEIDA VELOSO NUNES MARTINS
-    
-    
-    
-    
-    Consulta
-    Proc. nº TC- – 2438/13
-    Parecer nº 2013LC0007
-    
-    
-    1 RELATÓRIO
-    
-                    Tratam os autos de Consulta, encaminhada pela Câmara Municipal de Elesbão Veloso,
-    pela qual o consulente solicita ao Tribunal de Contas do Estado do Piauí resposta aos seguintes
-    questionamentos:
-    
-                           1 – possibilidade de a Câmara Municipal incluir as obrigações patronais decorren-
-                              tes do pagamento dos subsídios dos vereadores no limite de 70%, previsto no
-                              art. 29-A, §1º, da CF;
-                           2 – possibilidade de os atuais vereadores modificarem dispositivo legal para ex-
-                              cluir as obrigações patronais do limite imposto pelo art. 29-A, § 1°, da CF,
-                              mantendo, porém, os mesmos valores fixados para os subsídios;
-                           3 – possibilidade de os atuais vereadores contrariarem a Constituição Federal e/ou
-                              legislarem em causa própria em caso de alteração da legislação local.
-    
-    
-                    Após autuação e normal tramitação processual, os autos foram encaminhados à
-    relatoria. Em seguida, à Comissão de Regimento e Jurisprudência para que informe sobre a
-    existência de pré-julgado ou decisão reiterada sobre o tema. Por fim, o processo foi encaminhado à
-    unidade técnica competente para instrução, a qual apresentou manifestação sob a forma do
-    documento “PARTEC – 5/2013”.
-    
-                    Ao final, o processo foi enviado ao Ministério Público de Contas.
-    
-                    Relatado, opina-se.
-    
+*Proc. nº TC- 2438/13* _
+
+Estado do Piauí Tribunal de Contas Ministério Público de Contas
+
+[Insígnia: Ministério Público de Contas — PIAUÍ; legenda em caracteres pequenos não certificada]
+
+*Proc. TC- nº 2438/13*
+
+**EXMA. SRA. RELATORA CONSELHEIRA LÍLIAN DE ALMEIDA VELOSO NUNES MARTINS**
+
+***Consulta
+Proc. nº TC- – 2438/13
+Parecer nº 2013LC0007***
+
+**1 RELATÓRIO**
+
+Tratam os autos de **Consulta**, encaminhada pela Câmara Municipal de Elesbão Veloso, pela qual o consulente solicita ao Tribunal de Contas do Estado do Piauí resposta aos seguintes questionamentos:
+
+1 – possibilidade de a Câmara Municipal incluir as obrigações patronais decorren-
+tes do pagamento dos subsídios dos vereadores no limite de 70%, previsto no art. 29-A, §1º, da CF;
+
+2 – possibilidade de os atuais vereadores modificarem dispositivo legal para ex-
+cluir as obrigações patronais do limite imposto pelo art. 29-A, § 1°, da CF, mantendo, porém, os mesmos valores fixados para os subsídios;
+
+3 – possibilidade de os atuais vereadores contrariarem a Constituição Federal e/ou legislarem em causa própria em caso de alteração da legislação local.
+
+Após autuação e normal tramitação processual, os autos foram encaminhados à relatoria. Em seguida, à Comissão de Regimento e Jurisprudência para que informe sobre a existência de pré-julgado ou decisão reiterada sobre o tema. Por fim, o processo foi encaminhado à unidade técnica competente para instrução, a qual apresentou manifestação sob a forma do documento “PARTEC – 5/2013”.
+
+Ao final, o processo foi enviado ao Ministério Público de Contas.
+
+Relatado, opina-se.
 
 #### Página 2 do PDF oficial
 
@@ -768,3 +752,5 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 [Parecer técnico](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Parecer-t%C3%A9cnico.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next008: transcrição/cotejo visual Sol e revisão independente integral Astra dos recortes indicados. Documento 3, somente página 1 de cinco: Parecer 2013LC0007, TC 2438/13. As outras quatro páginas não foram cotejadas nesta atribuição; não se certificam fecho ou completude do parecer. A apresentação em Markdown não é fac-símile; microinscrições heráldicas, assinatura, QR e autenticidade não foram certificados. Identificadores pessoais ocultos; códigos documentais e nomes funcionais preservados. Os vínculos de contexto do portal não substituem a identidade impressa. Ressalvas anteriores permanecem.

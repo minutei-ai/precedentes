@@ -98,44 +98,35 @@ O PDF contém 1 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                             Estado do Piauí
-                             Tribunal de Contas
-    
-                                                 DESPACHO
-    
-    
-    
-           PROCESSO: TC-007427/2014
-           ASSUNTO: CONSULTA – Utilização de recursos do FUNDEB com base em decreto
-           emergencial para contratação de empresa para reforma de escolas municipais.
-           INTERESSADO: IVANEY MENEZES CAVALCANTE BARROS – Controlador
-           Municipal de Palmeirais
-           RELATOR: JACKSON NOBRE VERAS
-           PROCURADOR: PLÍNIO VALENTE RAMOS NETO
-    
-    
-    
-                        Vistos, etc.
-    
-    
-                       Acolho em sua totalidade o parecer do Ministério Público de Contas e voto
-           no sentido de que seja emitida resposta à consulta formulada nos termos propostos pelo
-           Ministério Público de Contas.
-    
-                                                                   Teresina (PI), 23 de outubro de 2014.
-    
-    
-                                           JACKSON NOBRE VERAS
-                                                 RELATOR
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 27/01/2015 09:11:04
-    
-    
-                                                                                    - - - - PÁGINA 1 DE 1
-    
+Estado do Piauí Tribunal de Contas
+
+[Insígnia: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ]
+
+**DESPACHO**
+
+**PROCESSO:** TC-007427/2014
+
+**ASSUNTO:** CONSULTA – Utilização de recursos do FUNDEB com base em decreto emergencial para contratação de empresa para reforma de escolas municipais.
+
+**INTERESSADO:** IVANEY MENEZES CAVALCANTE BARROS – Controlador Municipal de Palmeirais
+
+**RELATOR:** JACKSON NOBRE VERAS
+
+**PROCURADOR:** PLÍNIO VALENTE RAMOS NETO
+
+Vistos, etc.
+
+Acolho em sua totalidade o parecer do Ministério Público de Contas e voto no sentido de que seja emitida resposta à consulta formulada nos termos propostos pelo Ministério Público de Contas.
+
+Teresina (PI), 23 de outubro de 2014.
+
+**JACKSON NOBRE VERAS**
+
+RELATOR
+
+*Assinado Digitalmente pelo sistema e-TCE* - **JACKSON NOBRE VERAS: [identificador e-TCE ocultado] - 27/01/2015 09:11:04**
+
+**- - - - PÁGINA 1 DE 1**
 
 ### Documento vinculado pela fonte
 
@@ -694,3 +685,5 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 [Relatório técnico](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/relat%C3%B3rio-t%C3%A9cnico-3.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next008: transcrição/cotejo visual Sol e revisão independente integral Astra dos recortes indicados. Documento 2, página 1: despacho com data 23/10/2014 e linha de assinatura com data 27/01/2015 mantidas distintas, sem autenticação. A apresentação em Markdown não é fac-símile; microinscrições heráldicas, assinatura, QR e autenticidade não foram certificados. Identificadores pessoais ocultos; códigos documentais e nomes funcionais preservados. Os vínculos de contexto do portal não substituem a identidade impressa. Ressalvas anteriores permanecem.
