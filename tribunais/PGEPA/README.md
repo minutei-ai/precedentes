@@ -1,6 +1,6 @@
 # PGEPA
 
-Procuradoria-Geral do Estado do Pará. **39 fichas** de Pareceres Referenciais no acervo e inventário parcial de **50 PDFs**. A contagem de fichas não certifica seus corpos. Nesta etapa, o nº 000004/2020 recebeu 17 páginas de transcrição visual integral aprovada por revisão independente.
+Procuradoria-Geral do Estado do Pará. **40 fichas** de Pareceres Referenciais no acervo e inventário parcial de **50 PDFs**. A contagem de fichas não certifica seus corpos. Nesta etapa, o nº 000004/2020 recebeu 17 páginas de transcrição visual integral aprovada por revisão independente.
 
 | Espécie | Fichas no acervo | Inventariados (PDF) |
 | --- | ---: | ---: |
@@ -50,3 +50,5 @@ O lote17 incorporou 27 páginas de 000010/2024 após cotejo independente integra
 [000003/2024 — averbação de tempo de serviço](parecer-referencial/pgepa-parecer-ref-000003-2024.md): 30 páginas cotejadas integralmente por Astra, com complemento de ênfases usando fontes substitutas estáticas. Aplicados 93 ajustes independentes de estilo e três de disposição/nota; 45 incertezas preservadas. Parecer (1–28), ratificação (29) e despacho do Gabinete (30) separados; passagem 20/21 conferida. Mesmo ID. Recortes integrados: 29 PDFs/552 páginas; restam 21 PDFs/871 páginas e lacunas locais. A triagem tipográfica de outras fontes e o aceite global da #261 continuam pendentes.
 
 [000004/2024 — adicional de cursos](parecer-referencial/pgepa-parecer-ref-000004-2024.md): 30 páginas cotejadas integralmente por Astra, com 24 propostas de estrutura/pontuação/ênfase aplicadas e passagem 20/21 conferida. Parecer (1–28), ratificação (29) e despacho do Gabinete (30) separados; datas distintas, gráficos ilegíveis e limites de fontes substitutas preservados. Mesmo ID. Recortes integrados: 30 PDFs/582 páginas; restam 20 PDFs/841 páginas e lacunas locais. Reexame tipográfico de outras fontes e aceite global da #261 pendentes.
+
+[000008/2024 — ressarcimento de valores indevidos](parecer-referencial/pgepa-parecer-ref-000008-2024.md): trinta páginas com leitura visual Sol e revisão independente integral Astra; dezessete ajustes de apresentação aplicados e passagem 20/21 conferida pelo pai. Parecer (1–28), ratificação (29) e despacho do Gabinete (30) separados. Margens, gráficos mascarados, fontes substitutas e incidentes de proveniência preservados como limites. Um novo ID. Recortes integrados: 31 PDFs/612 páginas; restam 19 PDFs/811 páginas e lacunas locais. Reexame tipográfico de outras fontes e aceite global da #261 pendentes.
