@@ -22,14 +22,14 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | ---: | --- | --- | --- |
 | 1 | [pgepr-oa-1](pgepr-oa-1.md) | Substituída pela Orientação n° 068/2022-PGE | Texto publicado; conferir limites da ficha |
 | 2 | [pgepr-oa-2](pgepr-oa-2.md) | Substituída pela Orientação n° 069/2022-PGE | Corpo histórico 002/2016 em três páginas cotejadas |
-| 3 | [pgepr-oa-3](pgepr-oa-3.md) | Substituída pela Orientação n° 070/2022-PGE Substituída pela Orientação n° 071/PGE | Texto publicado; conferir limites da ficha |
+| 3 | [pgepr-oa-3](pgepr-oa-3.md) | Substituída pela Orientação n° 070/2022-PGE Substituída pela Orientação n° 071/PGE | Corpo histórico próprio cotejado por imagem; peças e limites na ficha |
 | 4 | [pgepr-oa-4](pgepr-oa-4.md) | PDF | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 5 | [pgepr-oa-5](pgepr-oa-5.md) | Substituída pela Orientação n° 072/2022-PGE | Texto publicado; conferir limites da ficha |
-| 6 | [pgepr-oa-6](pgepr-oa-6.md) | Substituída pela Orientação n° 073/2022-PGE | Texto publicado; conferir limites da ficha |
-| 7 | [pgepr-oa-7](pgepr-oa-7.md) | Substituída pela Orientação n° 074/2022-PGE | Texto publicado; conferir limites da ficha |
-| 8 | [pgepr-oa-8](pgepr-oa-8.md) | Substituída pela Orientação n° 075/2022-PGE | Texto publicado; conferir limites da ficha |
-| 9 | [pgepr-oa-9](pgepr-oa-9.md) | Substituída pela Orientação n° 067/2022-PGE | Texto publicado; conferir limites da ficha |
-| 10 | [pgepr-oa-10](pgepr-oa-10.md) | Substituída pela Orientação n° 076/2022 - PGE | Texto publicado; conferir limites da ficha |
+| 6 | [pgepr-oa-6](pgepr-oa-6.md) | Substituída pela Orientação n° 073/2022-PGE | Corpo histórico próprio cotejado por imagem; peças e limites na ficha |
+| 7 | [pgepr-oa-7](pgepr-oa-7.md) | Substituída pela Orientação n° 074/2022-PGE | Corpo histórico próprio cotejado por imagem; peças e limites na ficha |
+| 8 | [pgepr-oa-8](pgepr-oa-8.md) | Substituída pela Orientação n° 075/2022-PGE | Corpo histórico próprio cotejado por imagem; peças e limites na ficha |
+| 9 | [pgepr-oa-9](pgepr-oa-9.md) | Substituída pela Orientação n° 067/2022-PGE | Corpo histórico próprio cotejado por imagem; peças e limites na ficha |
+| 10 | [pgepr-oa-10](pgepr-oa-10.md) | Substituída pela Orientação n° 076/2022 - PGE | Corpo histórico próprio cotejado por imagem; peças e limites na ficha |
 | 11 | [pgepr-oa-11](pgepr-oa-11.md) | PDF | Texto publicado; conferir limites da ficha |
 | 12 | [pgepr-oa-12](pgepr-oa-12.md) | PDF (Alterado pela Resolução nº 191/2017-PGE ) | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 13 | [pgepr-oa-13](pgepr-oa-13.md) | PDF | Texto cotejado integralmente por imagem; versões e limites na ficha |
@@ -62,7 +62,7 @@ A revisão integral dos PDFs e das resoluções vinculadas continua sendo requis
 | 40 | [pgepr-oa-40](pgepr-oa-40.md) | PDF (Editado pela Resolução n° 047/2020-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 41 | [pgepr-oa-41](pgepr-oa-41.md) | PDF (Editado Pela Resolução PGE nº  089/ 2020-PGE ) | Texto cotejado integralmente por imagem; versões e limites na ficha |
 | 42 | [pgepr-oa-42](pgepr-oa-42.md) | PDF (Editado pela Resolução nº 183/2020-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
-| 43 | [pgepr-oa-43](pgepr-oa-43.md) | Substituída pela Orientação n° 081/PGE | Texto publicado; conferir limites da ficha |
+| 43 | [pgepr-oa-43](pgepr-oa-43.md) | Substituída pela Orientação n° 081/PGE | Corpo histórico próprio cotejado por imagem; peças e limites na ficha |
 | 44 | [pgepr-oa-44](pgepr-oa-44.md) | PDF (Editado pela Resolução nº 231/2020-PGE ) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 45 | [pgepr-oa-45](pgepr-oa-45.md) | PDF (Editado pela Resolução nº 254/2020-PGE) | Texto cotejado integralmente por imagem; peças e limites na ficha |
 | 46 | [pgepr-oa-46](pgepr-oa-46.md) | PDF (Editado pela Resolução nº 007/2021-PGE ) | Texto cotejado integralmente por imagem; versões e limites na ficha |
@@ -138,3 +138,5 @@ A parte 10 incorporou vinte páginas de seis PDFs, OA 95–97, 99, 101 e 102, ap
 A OA 002/2016 teve seu corpo histórico próprio recuperado em três páginas e cotejado em revisão independente Astra. A minuta DOCX vinculada à OA 16 recebeu transcrição e revisão independente em duas páginas locais, separada da redação atribuída à Resolução 051/2026 e mantendo os campos em branco. Os recortes revistos somam 200 páginas de 89 PDFs distintos, além desse DOCX com duas páginas de renderização local. Fontes históricas recém-capturadas e demais atos/anexos continuam em revisão; não há aceite global da #256 ou novo ID.
 
 Os corpos históricos das OA 23, 33, 34 e 37 foram incorporados do HTML oficial após revisão independente integral Sol. Mantidas notas repetidas, riscados, grafias e ordem de itens; DOEs/anexos não cotejados e PDFs históricos de 33/34 sem comparação nesta etapa. Nenhum novo ID; esses quatro HTML não são somados como páginas PDF. As pendências históricas e de aquisição permanecem na #256.
+
+Vinte páginas dos corpos históricos próprios das OA 3, 6, 7, 8, 9, 10 e 43 foram integradas após revisão independente integral Astra e quinze ajustes de representação. Despachos 367/2016 e 385/2016 e folha ePROTOCOLO permanecem separados. Nenhum ID novo; os recortes revistos alcançam 220 páginas de 96 PDFs distintos, além da minuta DOCX em duas páginas locais e dos HTML já documentados. As OA 1 e 5 seguem sem corpo histórico recuperado nesta cadeia; outros atos/anexos e comparações de versões continuam pendentes na #256.
