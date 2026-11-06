@@ -117,3 +117,5 @@ SSL verify falhou sem `-k` nesta coleta; hashes referem os bytes obtidos com `-k
 Conferidos 42 campos Identificador e os hashes dos 42 PDFs locais vinculados ao inventário preservado de 50 páginas de ato; oito linhas não tinham PDF linkado na captura. Os 42 PDFs somam 653 páginas e foram divididos em 52 intervalos exclusivos de até vinte páginas para novo cotejo visual e revisão independente. Não foram reutilizadas as transcrições reprovadas de 15.722/15.823. Nenhuma página foi certificada visualmente por essa validação estrutural.
 
 Nova tentativa dos cinco caminhos do catálogo com TLS padrão falhou por SSLError; não houve desativação de verificação nesta retomada. As capturas anteriores com -k mantêm seu limite de proveniência e não foram promovidas a autenticadas. O total atual é estrutural; enumeração atual do portal, íntegra, notas e versões continuam pendentes na #259.
+
+[15.823 — exemplar incompleto](agemg-par-ref-15-823.md): nova transcrição de sete páginas cotejada integralmente por Astra, sem reutilização do texto rejeitado. Falta a página impressa 7 de 8; datas distintas e limite TLS preservados. Sem novo ID.
