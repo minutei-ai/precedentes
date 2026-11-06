@@ -93,3 +93,72 @@ Lacunas textuais ou leituras incertas identificadas: nenhuma. QR code não valid
 [Nota editorial da revisão independente:] No preâmbulo, o negrito abrange também o artigo inicial e a vírgula: “A PROCURADORA-GERAL DO ESTADO,”.
 
 [Nota editorial da revisão independente:] No rodapé institucional, “www.pge.pr.gov.br” está em azul e sublinhado.
+
+## Resolução PGE 264 - 21 de Dezembro de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=278821&indice=1&totalRegistros=270&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `ed720f3dc29b8869131989693ec5a0daef675223ee74434a2413b1bf3e8d1ee6`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+As aspas finais do item 1 permanecem.
+
+<h3>Resolução PGE 264 - 21 de Dezembro de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=13386&amp;numero=11325">Diário Oficial nº. 11325</a> de 22 de Dezembro de 2022
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1769202"><strong>Edita a Orientação Administrativa nº 61-PGE</strong></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769206"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987, pela Lei Complementar nº 195, de 28 de abril de 2016 e pela Lei Complementar nº 246, de 20 de maio de 2022 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo n° 19.837.873-9, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769212"><table class="tbato" height="184" width="448">
+<tbody>
+<tr>
+<td style="width: 166px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 267px;">
+<table class="tbato" width="267">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 257.667px; height: 18px;">Direito Administrativo</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 257.667px; height: 18px;">Licitações e Contratos</td>
+</tr>
+<tr style="height: 118.95px;">
+<td style="width: 257.667px; height: 118.95px; text-align: justify;">Identificação do servidor responsável pelas cotações nos processos de licitação, nas contratações diretas e nos convênios e seus congêneres, inclusive nos instrumentos de que trata a Lei Federal n° 13.019, de 31 de julho de 2014.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769214"><div style="text-align: justify;">1. Nos processos de licitação, nas contratações diretas e nos convênios e seus congêneres, inclusive nos instrumentos de que trata a Lei Federal n° 13.019, de 31 de julho de 2014, o servidor ou os servidores responsáveis pela realização das cotações que serviram de base para a estipulação dos valores dos referidos ajustes deverão estar identificados no processo e assinar o termo de responsabilidade pela pesquisa de preços realizada"</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769219"><div style="text-align: justify;">2. Esta Orientação Administrativa substitui o Enunciado de Súmula nº 003-PGE.</div>
+<br/>
+<div style="text-align: justify;"><strong>REFERÊNCIAS</strong>: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022; Lei Federal n° 13.019/2014.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769220"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

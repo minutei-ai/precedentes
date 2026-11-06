@@ -94,3 +94,72 @@ Assinatura Qualificada realizada por: **Leticia Ferreira da Silva** em 21/12/202
 Leitura integral da página e de todas as faixas ampliadas; sem OCR. Camada nativa usada apenas como rascunho, conferida pela imagem. Mantida remissão 05/PGE; endereço impresso usa número 110. Data em cinza; sem faixas coloridas no rodapé desta página.
 
 Marcas visuais: brasão colorido; carimbo circular cinza. A declaração de assinatura tem nomes funcionais, protocolo, URL e código em negrito. Não se atribui autenticidade à declaração. Não foram identificados valores de CPF ou matrícula pessoal nesta página; não houve ocultação necessária.
+
+## Resolução PGE 280 - 21 de Dezembro de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=278960&indice=1&totalRegistros=284&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `3497c5687a2ccc381c0cc699377d5cd3d3e2857cf2e118a5a5b6c91ea39f4c73`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Redação, numeração, referências e dizeres do bloco preservados sem atualização por interpretação externa.
+
+<h3>Resolução PGE 280 - 21 de Dezembro de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=13449&amp;numero=11329">Diário Oficial nº. 11329</a> de 2 de Janeiro de 2023
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1770083"><div style="text-align: justify;"><strong>Edita a Orientação Administrativa nº 72-PGE</strong></div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770084"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987, pela Lei Complementar nº 195, de 28 de abril de 2016 e pela Lei Complementar nº 246, de 20 de maio de 2022 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo n° 19.828.404-1, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770087"><table class="tbato" height="150" style="width: 533px;">
+<tbody>
+<tr>
+<td style="width: 181.5px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 336.5px;">
+<table class="tbato" height="142" width="356">
+<tbody>
+<tr>
+<td style="width: 346.667px;">Licitações e Contratos</td>
+</tr>
+<tr>
+<td style="width: 346.667px;">Lei Federal nº 14.133, de 1º de abril de 2021;<br/>Decreto Estadual nº 10.086, de 17 de janeiro de 2022.</td>
+</tr>
+<tr>
+<td style="width: 346.667px;">Aditivos para Acréscimos e Supressões. Obras e Serviços de Engenharia</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770090"><div style="text-align: justify;">1. Nos aditivos em contratos em que houver necessidade de acréscimo e supressão de serviços devem ser considerados os acréscimos e as supressões de quantitativos de forma isolada, ou seja, o conjunto de reduções e o conjunto de acréscimos devem ser sempre calculados sobre o valor original do contrato, aplicando-se a cada um desses conjuntos, individualmente e sem nenhum tipo de compensação entre eles, os limites de alteração estabelecidos no dispositivo legal.</div>
+<br/>
+<div style="text-align: justify;">2. Esta Orientação Administrativa substitui a Orientação Administrativa nº 05/PGE, de 2016.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770093"><strong>REFERÊNCIAS</strong>: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770095"><strong>PUBLIQUE-SE. ANOTE-SE.</strong>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

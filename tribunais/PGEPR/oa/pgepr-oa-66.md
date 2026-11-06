@@ -94,3 +94,71 @@ Assinatura Qualificada realizada por: **Leticia Ferreira da Silva** em 21/12/202
 Leitura integral da página e de todas as faixas ampliadas; sem OCR. Camada nativa usada apenas como rascunho, conferida pela imagem. Imagem confirma “consideradas. de modo”, “alterações3”, “§§ 22 e 32”, “Decreto n2” e substituição de “Orientação Administrativa nº 008-PGE”; sem correção ou reconstrução de nota inexistente no espaço visível. Faixas azul e verde.
 
 Marcas visuais: brasão colorido; carimbo circular cinza. A declaração de assinatura tem nomes funcionais, protocolo, URL e código em negrito. Não se atribui autenticidade à declaração. Não foram identificados valores de CPF ou matrícula pessoal nesta página; não houve ocultação necessária.
+
+## Resolução PGE 269 - 21 de Dezembro de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=278836&indice=1&totalRegistros=270&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `47df6ece22173c8e5539cba22c03fa84c683d30204ced2dbfc50e1a2f326ecfe`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Mantidos o ponto após “consideradas”, o trecho sobre pagamentos e as referências §§ 22 e 32 e n2, sem corrigir por coerência.
+
+<h3>Resolução PGE 269 - 21 de Dezembro de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=13386&amp;numero=11325">Diário Oficial nº. 11325</a> de 22 de Dezembro de 2022
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1769268"><strong>Edita a Orientação Administrativa nº 66-PGE</strong></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769269"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987, pela Lei Complementar nº 195, de 28 de abril de 2016 e pela Lei Complementar nº 246, de 20 de maio de 2022 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo n° 19.837.873-9, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769270"><table class="tbato" height="148" style="width: 525px;">
+<tbody>
+<tr>
+<td style="width: 165.5px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 344.5px;">
+<table class="tbato" height="141" width="361">
+<tbody>
+<tr>
+<td style="width: 351.667px;">Direito Administrativo.</td>
+</tr>
+<tr>
+<td style="width: 351.667px;">Licitações e Contratos</td>
+</tr>
+<tr>
+<td style="width: 351.667px;">Aditivos com acréscimos e supressões no mesmo<br/>contrato.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769271"><div style="text-align: justify;">1. Nos aditivos de contratos em que houver acréscimo e supressão de quantitativos de serviços, essas alterações devem ser separadamente consideradas. de modo que cada alteração deve ser calculada em relação ao valor original do contrato, aplicando-se a cada uma, individualmente considerada, os limites estabelecidos no art. 112, § 1°, da lei n° 15.608/2007, sem nenhum tipo de compensação entre as alterações. A orientação registrada no item 1 aplica-se apenas aos editais de licitação e termos de dispensa e de inexigibilidade publicados após a entrada em vigor do Decreto Estadual nº 4.505/2016, assegurada a competência do Secretário de Estado da Fazenda para decidir conclusivamente sobre eventuais pagamentos por meio de instituições bancárias diversas, nos termos do art. 22, §§ 22 e 32, do Decreto n2 4.505/2016.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769272"><div style="text-align: justify;">2. Esta Orientação Administrativa substitui a Orientação Administrativa nº 008-PGE.<br/><br/></div>
+<div style="text-align: justify;"><strong>REFERÊNCIAS</strong>: Lei Federal nº 14.133/2021, art. 5º c/c art. 92; Decreto Estadual nº 10.086/2022, art. 35.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1769273"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
