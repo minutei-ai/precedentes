@@ -29,6 +29,6 @@ Históricos reconciliados em 05/11/2026, com textos disponíveis e limites atrib
 Recuperações adicionais, com cotejo independente integral do intervalo:
 
 - [002/2000 — início recuperado e continuidade até o fecho](pgece-par-norm-002-2000.md)
-- [002/2001 — fragmento de 35 linhas; continuação, corpo e fecho não recuperados](pgece-par-norm-002-2001.md)
+- [002/2001 — fragmento inicial e continuação até aprovação cotejados](pgece-par-norm-002-2001.md)
 
-Continuam pendentes a continuação do PN 002/2001, o número de leitura insegura do recorte de 10/03/1992 e a classificação do Parecer 177/87, que não imprime “Normativo”. Estes dois últimos não receberam ID.
+Continuam pendentes o número de leitura insegura do recorte de 10/03/1992 e a classificação do Parecer 177/87, que não imprime “Normativo”. Esses dois últimos não receberam ID.
