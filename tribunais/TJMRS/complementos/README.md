@@ -28,4 +28,6 @@ As duas páginas restantes da faixa, 36/Adm/2018 (próxima vaga de concurso) e 2
 - [Resolução 204/2018: implantação do eproc, duas páginas](resolucao204-2018-eproc.md), distinta do Ato 002.
 - [Classificação de onze registros administrativos da faixa P02](classificacao-p02.md), sem promoção a precedentes e com atos integrais referidos ainda pendentes.
 
-No catálogo de 57 documentos administrativos, 17 páginas estão cotejadas nesta cadeia (uma anterior, cinco de P01 e onze de P02); 40 entradas de gestão permanecem sem cotejo integral. A classificação não encerra o inventário judicial nem a #235.
+No catálogo de 57 ocorrências administrativas, 37 páginas estão cotejadas nesta cadeia (uma anterior, cinco de P01, onze de P02 e vinte de P03); vinte ocorrências de P04 permanecem sem cotejo integral. A classificação não encerra o inventário judicial nem a #235.
+
+- [Classificação das vinte ocorrências de gestão concreta da faixa P03](classificacao-p03.md), sem publicação dos corpos como precedentes.
