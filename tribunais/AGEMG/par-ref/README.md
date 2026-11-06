@@ -119,3 +119,5 @@ Conferidos 42 campos Identificador e os hashes dos 42 PDFs locais vinculados ao 
 Nova tentativa dos cinco caminhos do catálogo com TLS padrão falhou por SSLError; não houve desativação de verificação nesta retomada. As capturas anteriores com -k mantêm seu limite de proveniência e não foram promovidas a autenticadas. O total atual é estrutural; enumeração atual do portal, íntegra, notas e versões continuam pendentes na #259.
 
 [15.823 — exemplar incompleto](agemg-par-ref-15-823.md): nova transcrição de sete páginas cotejada integralmente por Astra, sem reutilização do texto rejeitado. Falta a página impressa 7 de 8; datas distintas e limite TLS preservados. Sem novo ID.
+
+[15.722](agemg-par-ref-15-722.md): nova transcrição visual de 14 páginas cotejada integralmente por Astra; seis qualificações de incerteza nos carimbos aplicadas. Datas, atos separados e dúvida manuscrita mantidos. Limite TLS histórico preservado; sem novo ID.
