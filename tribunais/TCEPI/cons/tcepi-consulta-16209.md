@@ -86,111 +86,102 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                        Estado do Piauí
-                        Tribunal de Contas
-                        Gabinete Cons. Kennedy Barros
-    
-    PROCESSO: TC/019815/2014
-    ASSUNTO: Consulta
-    PROCEDÊNCIA: P. M. de Colônia do Gurguéia
-    INTERESSADO: Lisiane Franco Rocha Araújo (Prefeita Municipal)
-    PROCURADOR: Plínio Valente Ramos Neto
-    RELATOR: Cons. Joaquim Kennedy Nogueira Barros
-    
-    
-    
-    
-    1. RELATÓRIO
-    
-               Tratam os autos de processo de Consulta formulada ao Tribunal de Contas do
-    Estado do Piauí pela Sra. Lisiane Franco Rocha Araújo, Prefeita Municipal de Colônia do
-    Gurguéia, oportunidade em que questiona quanto à aplicabilidade da Lei Municipal nº
-    250/2014, que alterou o Plano de Carreira, Cargos, Vencimentos e Remuneração dos
-    Profissionais da Educação Municipal, bem como sua legalidade, e análise da repercussão
-    financeira de acordo com a Lei de Responsabilidade Fiscal.
-               Atendido ao juízo de admissibilidade, conforme despacho exarado à peça 3, o
-    relator conheceu da presente formulação, e encaminhou os autos à Comissão de Regimento
-    e Jurisprudência – CRJ, que informou a inexistência de prejulgado ou decisão reiterada
-    sobre o tema, conforme determina o art. 328 do RITCE/PI (peça 4), em seguida foi
-    encaminhada para a Diretoria de Fiscalização da Administração Municipal (DFAM), que
-    emitiu parecer técnico acostado à peça 6.
-           Instado a se manifestar o Ministério Público de Contas o fez através de parecer nº
-    2015PC0001 (peça 9), entende que o expediente em questão atende aos requisitos legais
-    previstos no Regimento Interno e opinou pelo conhecimento da consulta e quanto ao
-    mérito, no que tange ao aumento de despesa de pessoal, a Lei Municipal deve seguir os
-    requisitos previstos no art. 169, § 1º da CF/88. Ademais, o ato administrativo que acarreta
-    aumento de despesa de pessoal, deve estar em consonância com o art. 21 da Lei de
-    Responsabilidade Fiscal.
-    
-           É o Relatório.
-    
-    
-    
-    2. FUNDAMENTAÇÃO
-    
-               Preliminarmente, cumpre analisar o cabimento da espécie processual à luz da
-    legislação que rege a matéria.
-    
-    
-    
-    
-                                                                                              1
-    
+[Timbre/brasão: ESTADO DO PIAUÍ; logomarca: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Kennedy Barros
+
+**PROCESSO:** TC/019815/2014
+**ASSUNTO:** Consulta
+**PROCEDÊNCIA:** P. M. de Colônia do Gurguéia
+**INTERESSADO:** Lisiane Franco Rocha Araújo (Prefeita Municipal)
+**PROCURADOR:** Plínio Valente Ramos Neto
+**RELATOR:** Cons. Joaquim Kennedy Nogueira Barros
+
+**1. RELATÓRIO**
+
+Tratam os autos de processo de Consulta formulada ao Tribunal de Contas do
+Estado do Piauí pela **Sra. Lisiane Franco Rocha Araújo**, Prefeita Municipal de Colônia do
+Gurguéia, oportunidade em que questiona quanto à aplicabilidade da Lei Municipal nº
+250/2014, que alterou o Plano de Carreira, Cargos, Vencimentos e Remuneração dos
+Profissionais da Educação Municipal, bem como sua legalidade, e análise da repercussão
+financeira de acordo com a Lei de Responsabilidade Fiscal.
+Atendido ao juízo de admissibilidade, conforme despacho exarado à peça 3, o
+relator conheceu da presente formulação, e encaminhou os autos à Comissão de Regimento
+e Jurisprudência – CRJ, que informou a inexistência de prejulgado ou decisão reiterada
+sobre o tema, conforme determina o art. 328 do RITCE/PI (peça 4), em seguida foi
+encaminhada para a Diretoria de Fiscalização da Administração Municipal (DFAM), que
+emitiu parecer técnico acostado à peça 6.
+Instado a se manifestar o Ministério Público de Contas o fez através de parecer nº
+2015PC0001 (peça 9), entende que o expediente em questão atende aos requisitos legais
+previstos no Regimento Interno e opinou pelo **conhecimento** da consulta e quanto ao
+**mérito,** no que tange ao aumento de despesa de pessoal, a Lei Municipal deve seguir os
+requisitos previstos no art. 169, § 1º da CF/88. Ademais, o ato administrativo que acarreta
+aumento de despesa de pessoal, deve estar em consonância com o art. 21 da Lei de
+Responsabilidade Fiscal.
+
+É o Relatório.
+
+**2. FUNDAMENTAÇÃO**
+
+Preliminarmente, cumpre analisar o cabimento da espécie processual à luz da
+legislação que rege a matéria.
+
+1
 
 #### Página 2 do PDF oficial
 
-                                 Estado do Piauí
-                                 Tribunal de Contas
-                                 Gabinete Cons. Kennedy Barros
-    
-                        Nesse sentido, o juízo de admissibilidade realizado pelo relator, através do
-           despacho exarado às fls. 01 – peça 3, é conclusivo, haja vista a presença dos requisitos de
-           admissibilidade esculpidos no art. 201 e seguintes, da Resolução TCE 13/11 (Regimento
-           Interno TCE/PI).
-    
-                        Portanto, a presente consulta deve ser conhecida.
-    
-                        Com relação ao mérito, a DFAM emitiu parecer quanto ao questionamento da
-           consulente, à peça 6, no sentido de que não houve comprovação de irregularidade de
-           ordem formal no processo de elaboração da Lei nº 250/2014 e, ainda que houvesse
-           qualquer vício formal ou material, o instrumento constitucionalmente previsto não é a
-           Consulta ao Tribunal de Contas do Estado do Piauí, mas sim uma ação de controle abstrato
-           de constitucionalidade. Dessa forma, a princípio, a lei é valida e eficaz, não obstante seja
-           imprecisa sobre a carga horária semanal de trabalho dos professores.
-    
-                   O parecer ministerial entendeu que a Lei Municipal deve observar o que reza o art.
-           169, § 1º da CF/88, bem como o art. 21 e incisos da Lei de Responsabilidade Fiscal, em
-           especial a prévia dotação orçamentária e autorização específica na LDO, sob pena de ser
-           considerada inconstitucional. Assim, considero que os questionamentos propostos pela
-           consulente devem ser respondidos de acordo com os posicionamentos expressos no
-           parecer do Parquet de Contas e no relatório da DFAM, que analisaram detalhadamente
-           cada quesito, respondendo-o, de forma clara e objetiva.
-    
-    
-           3. VOTO
-    
-                        Diante de todo o exposto, voto, concordando com a manifestação do Ministério
-           Público de Contas, pelo conhecimento da presente consulta e, no mérito, pela resposta à
-           consulente nos termos da manifestação da DFAM (peça 06) e Ministério Público de Contas
-           (peça 09).
-    
-                        Voto, ainda, pelo encaminhamento à consulente, Sra. Lisiane Franco Rocha
-           Araújo (Prefeita Municipal de Colônia do Gurguéia), de cópias autênticas dos referidos
-           pareceres e do acórdão do Plenário deste Tribunal de Contas.
-    
-    
-    
-                                                  Teresina, 16 de abril de 2015.
-    
-    Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA BARROS: [identificador e-TCE ocultado] - 24/04/2015 09:37:02
-    
-    
-    
-                                           Cons. JOAQUIM KENNEDY NOGUEIRA BARROS
-                                                            Relator
-    
-                                                                                                              2
-    
+[Timbre/brasão: ESTADO DO PIAUÍ; logomarca: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+Gabinete Cons. Kennedy Barros
+
+Nesse sentido, o juízo de admissibilidade realizado pelo relator, através do
+despacho exarado às fls. 01 – peça 3, é conclusivo, haja vista a presença dos requisitos de
+admissibilidade esculpidos no art. 201 e seguintes, da Resolução TCE 13/11 (Regimento
+Interno TCE/PI).
+
+Portanto, a presente consulta deve ser **conhecida.**
+
+Com relação ao mérito, a DFAM emitiu parecer quanto ao questionamento da
+consulente, à peça 6, no sentido de que não houve comprovação de irregularidade de
+ordem formal no processo de elaboração da Lei nº 250/2014 e, ainda que houvesse
+qualquer vício formal ou material, o instrumento constitucionalmente previsto não é a
+Consulta ao Tribunal de Contas do Estado do Piauí, mas sim uma ação de controle abstrato
+de constitucionalidade. Dessa forma, a princípio, a lei é válida e eficaz, não obstante seja
+imprecisa sobre a carga horária semanal de trabalho dos professores.
+
+O parecer ministerial entendeu que a Lei Municipal deve observar o que reza o art.
+169, § 1º da CF/88, bem como o art. 21 e incisos da Lei de Responsabilidade Fiscal, em
+especial a prévia dotação orçamentária e autorização específica na LDO, sob pena de ser
+considerada inconstitucional. Assim, considero que os questionamentos propostos pela
+consulente devem ser respondidos de acordo com os posicionamentos expressos no
+parecer do *Parquet* de Contas e no relatório da DFAM, que analisaram detalhadamente
+cada quesito, respondendo-o, de forma clara e objetiva.
+
+**3. VOTO**
+
+Diante de todo o exposto, voto, concordando com a manifestação do Ministério
+Público de Contas, **pelo conhecimento** da presente consulta e, no mérito, pela resposta à
+consulente nos termos da manifestação da DFAM (peça 06) e Ministério Público de Contas
+(peça 09).
+
+Voto, ainda, pelo encaminhamento à consulente, Sra. Lisiane Franco Rocha
+Araújo (Prefeita Municipal de Colônia do Gurguéia), de cópias autênticas dos referidos
+pareceres e do acórdão do Plenário deste Tribunal de Contas.
+
+Teresina, 16 de abril de 2015.
+
+Assinado Digitalmente pelo sistema e-TCE - JOAQUIM KENNEDY NOGUEIRA[LACUNA: final do nome, identificador pessoal e pontuação sob máscara; não reconstruídos] - 24/04/2015 09:37:02
+
+Cons. **JOAQUIM KENNEDY NOGUEIRA BARROS**
+Relator
+
+2
+
+[Limite da revisão independente: Número pessoal, final do nome e pontuação contígua cobertos; não reconstruídos.]
 
 ### Documento vinculado pela fonte
 
@@ -521,3 +512,5 @@ pessoal.
 [Relatório DFAM](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Relat%C3%B3rio-DFAM.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next013: vinte físicas/contextos no conjunto, com leitura visual Sol e revisão independente integral Astra. Documento 2, físicas 1–2: parecer e fecho preservados. Linha digital da física 2 é parcial: final do nome, identificador pessoal e pontuação sob máscara não completados pelo nome abaixo ou outra página. Cinquenta e quatro propostas aplicadas como 53 substituições não sobrepostas; duas sobre o mesmo timbre foram compostas. Nomes funcionais foram recuperados apenas de fatias restritas por hash/offset após cotejo visual. No procedimento da revisão, coordenadas de quatro máscaras foram temporariamente persistidas, contrariando a regra de bbox somente em memória; nenhum texto nativo foi salvo segundo o relato e as coordenadas foram removidas. Incidente preservado, sem alegação de execução sem falhas. Geometria, microlendas e regiões obstruídas continuam limitadas. Não se certificam autenticidade, assinatura válida, identidade jurídica, vigência, efeitos ou completude.

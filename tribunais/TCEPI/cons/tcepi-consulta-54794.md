@@ -22,55 +22,57 @@ O PDF contém 3 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                        Gabinete Conselheiro Substituto
-                                              Jaylson Campelo
-    
-    
-                                  ACÓRDÃO Nº. 78/2025-SPL
-    
-    
-    PROCESSO: TC/000281/2025
-    ASSUNTO: CONSULTA ACERCA DA POSSIBILIDADE DO SECRETÁRIO
-    MUNICIPAL OPTAR PELA REMUNERAÇÃO DECORRENTE DO MANDATO DE
-    VEREADOR, BEM COMO SE CABERÁ AO PODER EXECUTIVO OU AO
-    LEGISLATIVO O ÔNUS PELO PAGAMENTO DA REMUNERAÇÃO DO SERVIDOR.
-    CONSULENTE: LUIZ ALBERTO LUSTOSA DA SILVA – PROCURADOR GERAL DO
-    MUNICÍPIO DE OEIRAS/PI.
-    RELATOR: JAYLSON FABIAHN LOPES CAMPELO
-    PROCURADOR: JOSÉ ARAÚJO PINHEIRO JÚNIOR
-    SESSÃO VIRTUAL: 17 A 21/03/2025 – Sessão Plenária
-    
-    
-    
-                                            EMENTA:      CONSULTA.                  CÂMARA
-                                            MUNICIPAL.       OPÇÃO                     PELA
-                                            REMUNERAÇÃO       DO                   MANDATO.
-                                            POSSIBILIDADE.
-    
-                                            1. É possível, tendo em vista que a Lei Orgânica do
-                                            Município de Oeiras estabelece expressamente essa
-                                            possibilidade em seu art. 53, §3º. Ademais, cumpre
-                                            destacar que este dispositivo foi formulado em
-                                            consonância com o Princípio da Simetria
-                                            Constitucional, tendo por base o disposto no art. 56,
-                                            §3º da Constituição Federal e Art. 68, §3º da
-                                            Constituição do Estado do Piauí.
-    
-                                             SUMÁRIO:        CONSULTA.        PREFEITURA
-                                            MUNICIPAL DE OEIRAS/PI. Pelo conhecimento.
-                                            E no mérito, para respondê-la, em conformidade e
-                                            pelos fundamentos expostos no voto do Relator
-                                            (Peça 14). Decisão unânime.
-    
-    
-                Vistos, relatados e discutidos os presentes autos, considerando a solicitação da
-    consulta (peça 01), a informação da Comissão de Regimento e Jurisprudência (peça 07), o
-    relatório de instrução da DAJUR – Divisão de Apoio ao Jurisdicionado (peça 08), o parecer
-    do Ministério Público de Contas (Peça 11), e o mais que dos autos consta, decidiu o Plenário
-    em sessão virtual, unânime, consoante o parecer ministerial, pelo conhecimento da Consulta
-    e, no mérito, por respondê-la, em conformidade e pelos fundamentos expostos no voto do
-    Relator (Peça 14).
-    
+[Logomarca: Tribunal de Contas do Estado do Piauí; brasão à direita.]
+
+**Gabinete Conselheiro Substituto
+Jaylson Campelo**
+
+**ACÓRDÃO Nº. 78/2025-SPL**
+
+**PROCESSO:** TC/000281/2025
+**ASSUNTO:** CONSULTA ACERCA DA POSSIBILIDADE DO SECRETÁRIO
+MUNICIPAL OPTAR PELA REMUNERAÇÃO DECORRENTE DO MANDATO DE
+VEREADOR, BEM COMO SE CABERÁ AO PODER EXECUTIVO OU AO
+LEGISLATIVO O ÔNUS PELO PAGAMENTO DA REMUNERAÇÃO DO SERVIDOR.
+**CONSULENTE:** LUIZ ALBERTO LUSTOSA DA SILVA – PROCURADOR GERAL DO
+MUNICÍPIO DE OEIRAS/PI.
+**RELATOR:** JAYLSON FABIAHN LOPES CAMPELO
+**PROCURADOR:** JOSÉ ARAÚJO PINHEIRO JÚNIOR
+**SESSÃO VIRTUAL:** 17 A 21/03/2025 – Sessão Plenária
+
+**EMENTA:      CONSULTA.                  CÂMARA
+MUNICIPAL.       OPÇÃO                     PELA
+REMUNERAÇÃO       DO                   MANDATO.
+POSSIBILIDADE.**
+
+1. É possível, tendo em vista que a Lei Orgânica do
+Município de Oeiras estabelece expressamente essa
+possibilidade em seu art. 53, §3º. Ademais, cumpre
+destacar que este dispositivo foi formulado em
+consonância com o Princípio da Simetria
+Constitucional, tendo por base o disposto no art. 56,
+§3º da Constituição Federal e Art. 68, §3º da
+Constituição do Estado do Piauí.
+
+***SUMÁRIO:        CONSULTA.        PREFEITURA
+MUNICIPAL DE OEIRAS/PI.*** *Pelo conhecimento.
+E no mérito, para respondê-la, em conformidade e
+pelos fundamentos expostos no voto do Relator
+(Peça 14). Decisão unânime<span style="color:red">.</span>*
+
+Vistos, relatados e discutidos os presentes autos, considerando a solicitação da
+consulta (peça 01), a informação da Comissão de Regimento e Jurisprudência (peça 07), o
+relatório de instrução da DAJUR – Divisão de Apoio ao Jurisdicionado (peça 08), o parecer
+do Ministério Público de Contas (Peça 11), e o mais que dos autos consta, decidiu o Plenário
+em sessão virtual, unânime, consoante o parecer ministerial, pelo conhecimento da Consulta
+e, no mérito, por respondê-la, em conformidade e pelos fundamentos expostos no voto do
+Relator (Peça 14).
+
+Av. Pedro Freitas 2100 | Centro Administrativo | Teresina-PI | CEP: 64018-900
+(86) 3215-3800 | CNPJ: 05.818.935/0001-01
+tce@tce.pi.gov.br
+TCEPIAUI
+[Elementos gráficos: ícones de redes sociais.]
 
 #### Página 2 do PDF oficial
 
@@ -129,3 +131,5 @@ CONSULTA ACERCA DA POSSIBILIDADE DO SECRETÁRIO MUNICIPAL OPTAR PELA REMUNERAÇ�
 [000281-2025](https://www.tcepi.tc.br/wp-content/uploads/2025/04/000281-2025.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next013: vinte físicas/contextos no conjunto, com leitura visual Sol e revisão independente integral Astra. Documento 1, física 1: ponto vermelho da indicação Decisão unânime representado conforme imagem. Somente página 1 do PDF de três páginas foi atribuída ao recorte; não se afirma leitura ou integralidade das páginas 2–3. Cinquenta e quatro propostas aplicadas como 53 substituições não sobrepostas; duas sobre o mesmo timbre foram compostas. Nomes funcionais foram recuperados apenas de fatias restritas por hash/offset após cotejo visual. No procedimento da revisão, coordenadas de quatro máscaras foram temporariamente persistidas, contrariando a regra de bbox somente em memória; nenhum texto nativo foi salvo segundo o relato e as coordenadas foram removidas. Incidente preservado, sem alegação de execução sem falhas. Geometria, microlendas e regiões obstruídas continuam limitadas. Não se certificam autenticidade, assinatura válida, identidade jurídica, vigência, efeitos ou completude.

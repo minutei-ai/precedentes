@@ -371,186 +371,172 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                   Estado do Piauí                            Processo
-                   Tribunal de Contas                        TC-01678/13
-    
-    
-    
-             DIRETORIA DE FISCALIZAÇÃO DA ADMINISTRAÇÃO MUNICIPAL
-    
-    
-    Processo .......... TC-01678/2013
-    Assunto ........... Nomeação de Controlador Interno
-    Interessado ..... Inocêncio Júnior Castelo Branco Lima (Controlador Interno do Município de
-    São Pedro do Piauí)
-    
-    
-    1 RELATÓRIO
-    
-    Trata-se de consulta formulada ao Tribunal de Contas do Estado do Piauí, pela qual o
-    consulente solicita à Corte manifestação acerca da eficácia e retroatividade da Emenda à
-    Constituição do Estado do Piauí n° 38/12 sobre ato jurídico perfeito consistente na
-    nomeação ao cargo de Controlador Interno Municipal realizado antes de sua vigência. O
-    interessado questiona, ainda, sobre possível afronta à cláusula pétrea prevista no art. 5°,
-    XXXVI, da Constituição Federal de 1988, em caso de retroação da referida emenda.
-    
-    
-    2 ANÁLISE TÉCNICA
-    
-    Preliminarmente, quanto ao atendimento dos requisitos regimentais exigidos para a
-    formulação de consultas a esta Corte, informa-se que, além de não instruída com parecer do
-    órgão de assistência técnica ou jurídica da autoridade consulente, a consulta não contém
-    descrição genérica da hipótese.
-    
-    Pelo contrário, o parecer jurídico anexo ao expediente está subscrito por advogado
-    contratado, não integrante da Assessoria Jurídica do Órgão a que pertence o consulente,
-    portanto, e, ao aludir claramente à específica nomeação do consulente ao cargo de
-    Controlador Interno do Município de São Pedro do Piauí, termina por, indiretamente, vincular
-    a consulta à análise de caso concreto, procedimento vedado pelos arts. 202 e 388, da
-    Resolução nº 13/2011. Observe-se, também, que a juntada de documentos referentes à
-    nomeação do consulente reforça o intuito de provocar esta Corte a se manifestar sobre o ato
-    de seu particular interesse.
-    
-    A despeito das impropriedades identificadas acima, as quais, nos termos do art. 202, da
-    Resolução nº 13/2011, autorizam, de per si, o arquivamento liminar da consulta, apresentar-
-    se-á a seguir ORIENTAÇÃO acerca da normatização trazida pela Emenda Constitucional nº
-    38/2012 e das regras veiculadas pela Instrução Normativa nº 02/2013 do TCE-PI.
-    
-    A Emenda Constitucional nº 38/2012 acrescentou ao art. 90, da Constituição Estadual, os
-    §§1º e 2º, que prescrevem o seguinte:
-    
-               §1º Os titulares dos órgãos de controle interno dos Poderes do Estado e municípios serão
-               nomeados dentre os integrantes do quadro efetivo de cada Poder e instituição, nos âmbitos
-               estadual e municipal, com mandato de três anos.
-    
+[Timbre/brasão: ESTADO DO PIAUÍ; logomarca: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+**Estado do Piauí**                            **Processo**
+**Tribunal de Contas**                        **TC-01678/13**
+
+**DIRETORIA DE FISCALIZAÇÃO DA ADMINISTRAÇÃO MUNICIPAL**
+
+Processo .......... TC-01678/2013
+Assunto ........... Nomeação de Controlador Interno
+Interessado ..... Inocêncio Júnior Castelo Branco Lima (Controlador Interno do Município de
+São Pedro do Piauí)
+
+<u><strong>1 RELATÓRIO</strong></u>
+
+Trata-se de consulta formulada ao Tribunal de Contas do Estado do Piauí, pela qual o
+consulente solicita à Corte manifestação acerca da eficácia e retroatividade da Emenda à
+Constituição do Estado do Piauí n° 38/12 sobre ato jurídico perfeito consistente na
+nomeação ao cargo de Controlador Interno Municipal realizado antes de sua vigência. O
+interessado questiona, ainda, sobre possível afronta à cláusula pétrea prevista no art. *5°,*
+XXXVI, da Constituição Federal de 1988, em caso de retroação da referida emenda.
+
+<u><strong>2 ANÁLISE TÉCNICA</strong></u>
+
+Preliminarmente, quanto ao atendimento dos requisitos regimentais exigidos para a
+formulação de consultas a esta Corte, informa-se que, além de não instruída com parecer do
+órgão de assistência técnica ou jurídica da autoridade consulente, a consulta não contém
+descrição genérica da hipótese.
+
+Pelo contrário, o parecer jurídico anexo ao expediente está subscrito por advogado
+contratado, não integrante da Assessoria Jurídica do Órgão a que pertence o consulente,
+portanto, e, ao aludir claramente à específica nomeação do consulente ao cargo de
+Controlador Interno do Município de São Pedro do Piauí, termina por, indiretamente, vincular
+a consulta à análise de caso concreto, procedimento vedado pelos arts. 202 e 388, da
+Resolução nº 13/2011. Observe-se, também, que a juntada de documentos referentes à
+nomeação do consulente reforça o intuito de provocar esta Corte a se manifestar sobre o ato
+de seu particular interesse.
+
+A despeito das impropriedades identificadas acima, as quais, nos termos do art. 202, da
+Resolução nº 13/2011, autorizam, *de per si*, o arquivamento liminar da consulta, apresentar-
+se-á a seguir ORIENTAÇÃO acerca da normatização trazida pela Emenda Constitucional nº
+38/2012 e das regras veiculadas pela Instrução Normativa nº 02/2013 do TCE-PI.
+
+A Emenda Constitucional nº 38/2012 acrescentou ao art. 90, da Constituição Estadual, os
+§§1º e 2º, que prescrevem o seguinte:
+
+§1º Os titulares dos órgãos de controle interno dos Poderes do Estado e municípios serão
+nomeados dentre os integrantes do quadro efetivo de cada Poder e instituição, nos âmbitos
+estadual e municipal, com mandato de três anos.
 
 #### Página 2 do PDF oficial
 
-               §2º A destituição do cargo de Controlador antes do término do mandato previsto no §1º somente
-               se dará através de processo administrativo em que se apure falta grave aos deveres constitucionais
-               e desrespeito à Lei Orgânica do Sistema de Controle Interno a ser regulamentado.
-    
-    Como se observa acima, a emenda, além de impor a nomeação de servidor efetivo ao cargo
-    de controlador interno municipal, determinou a regulamentação local do Sistema de Controle
-    Interno. A alteração condicionou, ainda, a destituição do controlador nomeado segundo a
-    nova regra à prévia formalização de processo administrativo para apuração de falta grave
-    aos deveres constitucionais ou desrespeito à Lei Orgânica do Sistema de Controle Interno.
-    
-    Nesse sentido, o Tribunal de Contas do Estado do Piauí, no uso da atribuição prevista no art.
-    4º, da Lei Estadual nº 5.888/2009, editou a Instrução Normativa nº 02/2013, visando
-    orientar os Chefes dos Poderes Executivo e Legislativo estadual e municipais quanto à
-    implantação do Sistema de Controle Interno a que alude a referida emenda constitucional,
-    tendo por substrato as disposições legais então vigentes.
-    
-    Em seu art. 1º, a IN nº 02/2013 prescreve que “os Poderes Executivo e Legislativo do
-    Estado e municípios implantarão e manterão, de forma integrada, Sistemas de Controle
-    Interno, de conformidade com o mandamento contido no art. 74, I a IV, da Constituição da
-    República Federativa do Brasil, e no art. 90, e respectivos parágrafos, da Constituição do
-    Estado do Piauí”.
-    
-    Após definir as características, atribuições e elementos essenciais à composição do Sistema
-    de Controle Interno, a IN nº 02/2013, em seu art. 21, estipulou o prazo de 180 dias, a
-    contar de sua publicação, para que os entes sob a jurisdição deste Tribunal efetivem,
-    através de lei, a criação de unidades nos órgãos e entidades, estaduais e municipais, às
-    quais será atribuída a responsabilidade pela manutenção do Sistema de Controle Interno do
-    ente da Federação, de conformidade com as regras contidas na Instrução.
-    
-    Verifica-se, então, que, a partir da publicação da Emenda Constitucional nº 38/2012, todos
-    os Poderes do Estado e municípios, passaram a ter a obrigação de organizar formalmente
-    seus Sistemas de Controle Interno, os quais, segundo a nova normatização, deverão ser
-    conduzidos por servidor integrante do quadro efetivo do ente, não se podendo admitir que a
-    implantação do sistema esteja perfeitamente cumprida sem o atendimento do novo requisito
-    constitucional para a nomeação de seu titular.
-    
-    Desta feita, os Poderes municipais e do Estado deverão, no prazo de 180 dias, regulamentar,
-    por meio de lei e nos moldes definidos pela IN nº 02/2013, os respectivos Sistemas de
-    Controle Interno e definir a quem será atribuída a chefia do sistema, o qual, reitere-se,
-    deverá ser servidor efetivo do Poder ou instituição, conforme definido pela EC nº 38/2012.
-    Frise-se que, consoante art. 21, §2º, da IN nº 02/2013, os Poderes cujas unidades de
-    manutenção do Sistema de Controle Interno, criadas por lei, já tenham sido implantadas,
-    deverão encaminhar ao Tribunal de Contas do Estado, no prazo máximo de 30 (trinta) dias
-    contados da publicação da instrução, cópia dos referidos diplomas legais e dos atos que
-    designaram os servidores municipais encarregados de chefiá-las.
-    
-    Cabe observar, ainda, que a forma anterior de provimento do cargo de Controlador Interno,
-    a qual não exigia ser o agente servidor efetivo do órgão/entidade, consistia em ato precário
-    de nomeação para o exercício de cargo comissionado. Como é sabido, os servidores
-    meramente comissionados são demissíveis ad nutum, ou seja, suas exonerações não exigem
-    qualquer formalidade especial, nem mesmo a exposição de justificativa pela autoridade
-    responsável.
-    
+§2º A destituição do cargo de Controlador antes do término do mandato previsto no §1º somente
+se dará através de processo administrativo em que se apure falta grave aos deveres constitucionais
+e desrespeito à Lei Orgânica do Sistema de Controle Interno a ser regulamentado.
+
+Como se observa acima, a emenda, além de impor a nomeação de servidor efetivo ao cargo
+de controlador interno municipal, determinou a regulamentação local do Sistema de Controle
+Interno. A alteração condicionou, ainda, a destituição do controlador nomeado segundo a
+nova regra à prévia formalização de processo administrativo para apuração de falta grave
+aos deveres constitucionais ou desrespeito à Lei Orgânica do Sistema de Controle Interno.
+
+Nesse sentido, o Tribunal de Contas do Estado do Piauí, no uso da atribuição prevista no art.
+4º, da Lei Estadual nº 5.888/2009, editou a Instrução Normativa nº 02/2013, visando
+orientar os Chefes dos Poderes Executivo e Legislativo estadual e municipais quanto à
+implantação do Sistema de Controle Interno a que alude a referida emenda constitucional,
+tendo por substrato as disposições legais então vigentes.
+
+Em seu art. 1º, a IN nº 02/2013 prescreve que “*os Poderes Executivo e Legislativo do
+Estado e municípios implantarão e manterão, de forma integrada, Sistemas de Controle
+Interno, de conformidade com o mandamento contido no art. 74, I a IV, da Constituição da
+República Federativa do Brasil, e no art. 90, e respectivos parágrafos, da Constituição do
+Estado do Piauí*”.
+
+Após definir as características, atribuições e elementos essenciais à composição do Sistema
+de Controle Interno, a IN nº 02/2013, em seu art. 21, estipulou o prazo de 180 dias, a
+contar de sua publicação, para que os entes sob a jurisdição deste Tribunal efetivem,
+através de lei, a criação de unidades nos órgãos e entidades, estaduais e municipais, às
+quais será atribuída a responsabilidade pela manutenção do Sistema de Controle Interno do
+ente da Federação, de conformidade com as regras contidas na Instrução.
+
+Verifica-se, então, que, a partir da publicação da Emenda Constitucional nº 38/2012, todos
+os Poderes do Estado e municípios, passaram a ter a obrigação de organizar formalmente
+seus Sistemas de Controle Interno, os quais, segundo a nova normatização, deverão ser
+conduzidos por servidor integrante do quadro efetivo do ente, não se podendo admitir que a
+implantação do sistema esteja perfeitamente cumprida sem o atendimento do novo requisito
+constitucional para a nomeação de seu titular.
+
+Desta feita, os Poderes municipais e do Estado deverão, no prazo de 180 dias, regulamentar,
+por meio de lei e nos moldes definidos pela IN nº 02/2013, os respectivos Sistemas de
+Controle Interno e definir a quem será atribuída a chefia do sistema, o qual, reitere-se,
+deverá ser servidor efetivo do Poder ou instituição, conforme definido pela EC nº 38/2012.
+Frise-se que, consoante art. 21, §2º, da IN nº 02/2013, os Poderes cujas unidades de
+manutenção do Sistema de Controle Interno, criadas por lei, já tenham sido implantadas,
+deverão encaminhar ao Tribunal de Contas do Estado, no prazo máximo de 30 (trinta) dias
+contados da publicação da instrução, cópia dos referidos diplomas legais e dos atos que
+designaram os servidores municipais encarregados de chefiá-las.
+
+Cabe observar, ainda, que a forma anterior de provimento do cargo de Controlador Interno,
+a qual não exigia ser o agente servidor efetivo do órgão/entidade, consistia em ato precário
+de nomeação para o exercício de cargo comissionado. Como é sabido, os servidores
+meramente comissionados são demissíveis *ad nutum*, ou seja, suas exonerações não exigem
+qualquer formalidade especial, nem mesmo a exposição de justificativa pela autoridade
+responsável.
 
 #### Página 3 do PDF oficial
 
-    Por tal razão, os cargos de provimento comissionado são de livre nomeação e exoneração,
-    sendo sua ocupação transitória, não gerando para os seus ocupantes o direito de
-    estabilidade ou de permanência. Tecnicamente, então, os servidores comissionados não são
-    titulares, mas meros ocupantes de cargos públicos.
-    
-    Assim sendo, na hipótese de nomeação de servidor não integrante do quadro efetivo para o
-    exercício do cargo comissionado de controlador interno não cabe falar em “direito subjetivo”
-    relativo à nomeação ou incorporação da nomeação ao patrimônio do nomeado ou, ainda,
-    “situação jurídica definitivamente instituída”, posto que não há o que possa resguardar o
-    nomeado contra futura exoneração ou, dito de outro modo, não há o que possa impedir a
-    autoridade nomeante de exonerar o servidor comissionado a qualquer tempo.
-    
-    O ato de nomeação de natureza precária, expedido anteriormente à alteração constitucional,
-    não consolida definitivamente qualquer situação jurídica subjetiva de vantagem no
-    patrimônio do titular, visto que o mero ocupante de cargo comissionado não tem direito à
-    permanência ou estabilidade, inexistindo ato que possa garantir a sua manutenção no cargo
-    ou mesmo impor à autoridade nomeante o cumprimento de formalidades previamente à sua
-    exoneração.
-    
-    Percebe-se, então, que o consulente, mediante exposição de sua nomeação, pretendeu
-    obter desta Corte pronunciamento que resguardasse sua situação jurídica, o que, como
-    explanado acima, não é possível, ante a precariedade de sua nomeação para cargo
-    comissionado, do qual é demissível ad nutum.
-    
-    S.M. J., é o parecer.
-    
-    
-    3 CONCLUSÃO
-    
-    Ante o exposto, coloca-se essa Diretoria à disposição da Presidência, para os
-    esclarecimentos que se fizerem necessários.
-    
-    
-    Teresina (PI), 23 de maio de 2013.
-    
-    
-    
-    
-           _______________________________           _______________________________
-           Andrea Freitas Silva                      Vilmar Barros Miranda
-           Assessora Jurídica                        Auditor Fiscal de Controle Externo
-                                                     Chefe da II Divisão Técnica/DFAM
-    
-    
-    
-    
-           VISTO:
-           _________________________________
-           Andréa de Oliveira Paiva
-           Auditora Fiscal de Controle Externo
-           Diretora da DFAM
-    
+Por tal razão, os cargos de provimento comissionado são de livre nomeação e exoneração,
+sendo sua ocupação transitória, não gerando para os seus ocupantes o direito de
+estabilidade ou de permanência. Tecnicamente, então, os servidores comissionados não são
+titulares, mas meros ocupantes de cargos públicos.
+
+Assim sendo, na hipótese de nomeação de servidor não integrante do quadro efetivo para o
+exercício do cargo comissionado de controlador interno não cabe falar em “direito subjetivo”
+relativo à nomeação ou incorporação da nomeação ao patrimônio do nomeado ou, ainda,
+“situação jurídica definitivamente instituída”, posto que não há o que possa resguardar o
+nomeado contra futura exoneração ou, dito de outro modo, não há o que possa impedir a
+autoridade nomeante de exonerar o servidor comissionado a qualquer tempo.
+
+O ato de nomeação de natureza precária, expedido anteriormente à alteração constitucional,
+não consolida definitivamente qualquer situação jurídica subjetiva de vantagem no
+patrimônio do titular, visto que o mero ocupante de cargo comissionado não tem direito à
+permanência ou estabilidade, inexistindo ato que possa garantir a sua manutenção no cargo
+ou mesmo impor à autoridade nomeante o cumprimento de formalidades previamente à sua
+exoneração.
+
+Percebe-se, então, que o consulente, mediante exposição de sua nomeação, pretendeu
+obter desta Corte pronunciamento que resguardasse sua situação jurídica, o que, como
+explanado acima, não é possível, ante a precariedade de sua nomeação para cargo
+comissionado, do qual é demissível *ad nutum*.
+
+S.M. J., é o parecer.
+
+<u><strong>3 CONCLUSÃO</strong></u>
+
+Ante o exposto, coloca-se essa Diretoria à disposição da Presidência, para os
+esclarecimentos que se fizerem necessários.
+
+Teresina (PI), 23 de maio de 2013.
+
+_______________________________           _______________________________
+Andrea Freitas Silva                      Vilmar Barros Miranda
+Assessora Jurídica                        Auditor Fiscal de Controle Externo
+Chefe da II Divisão Técnica/DFAM
+
+**VISTO:**
+_________________________________
+Andréa de Oliveira Paiva
+Auditora Fiscal de Controle Externo
+Diretora da DFAM
+
+[Nota de apresentação: a função Chefe da II Divisão Técnica/DFAM aparece na coluna direita da fonte. Foi linearizada aqui, sem fac-símile do alinhamento.]
 
 #### Página 4 do PDF oficial
 
-    Assinado Digitalmente pelo sistema e-TCE
-    VILMAR BARROS MIRANDA
-    
+*Assinado Digitalmente pelo sistema e-TCE*
+**VILMAR BARROS MIRANDA**
 
 #### Página 5 do PDF oficial
 
-    Assinado Digitalmente pelo sistema e-TCE
-    ANDREA FREITAS SILVA
-    
+*Assinado Digitalmente pelo sistema e-TCE*
+**ANDREA FREITAS SILVA**
 
 #### Página 6 do PDF oficial
 
-    Assinado Digitalmente pelo sistema e-TCE
-    ANDREA DE OLIVEIRA PAIVA
+*Assinado Digitalmente pelo sistema e-TCE*
+**ANDREA DE OLIVEIRA PAIVA**
 
 ## Ementa
 
@@ -563,3 +549,5 @@ O PDF contém 6 página(s). Relatórios, votos e outros atos de contexto permane
 [Parecer DFAM](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Parecer-DFAM-2.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next013: vinte físicas/contextos no conjunto, com leitura visual Sol e revisão independente integral Astra. Documento 4, físicas 1–6: informação da DFAM e folhas de assinatura separadas. Timbre, indicação eletrônica e nomes funcionais recuperados no visível; folhas de assinatura conservam vínculo atribuído ao inventário, sem autonomia processual comprovada. A função em coluna direita foi linearizada com descrição explícita. Cinquenta e quatro propostas aplicadas como 53 substituições não sobrepostas; duas sobre o mesmo timbre foram compostas. Nomes funcionais foram recuperados apenas de fatias restritas por hash/offset após cotejo visual. No procedimento da revisão, coordenadas de quatro máscaras foram temporariamente persistidas, contrariando a regra de bbox somente em memória; nenhum texto nativo foi salvo segundo o relato e as coordenadas foram removidas. Incidente preservado, sem alegação de execução sem falhas. Geometria, microlendas e regiões obstruídas continuam limitadas. Não se certificam autenticidade, assinatura válida, identidade jurídica, vigência, efeitos ou completude.
