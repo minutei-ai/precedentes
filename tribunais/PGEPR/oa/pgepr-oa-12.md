@@ -139,3 +139,234 @@ Procurador-Geral do Estado
 [Nota editorial de cotejo da transcrição:] Continuação impressa, b.2–b.4 com destaques orçamentários, referências, fechamento de aspas, art. 2º, comandos, data e assinatura.
 
 Limites e incertezas locais: Início sem repetir o texto da página anterior; declaração de entrada em vigor é apenas transcrição.
+
+## Resolução no HTML oficial — bloco integral cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=180559&indice=1&totalRegistros=431&anoSpan=2019&anoSelecionado=2017&mesSelecionado=0&isPaginado=false); SHA-256 da captura `6ae8eb91d9e64f7d599d6e8b38ff08d3e694fbe21130ed35d262ffe4b43b001b`.
+
+Bloco integral do cabeçalho ao aviso final do Diário Oficial, lido e cotejado em revisão independente Sol. O HTML nativo não tem paginação física fixa. Links relativos foram tornados absolutos no domínio oficial, com texto e marcações preservados. A transcrição de datas, republicação ou dispositivos de vigência não constitui conclusão própria sobre efeitos jurídicos. Os destinos dos links não foram cotejados nesta revisão.
+
+O HTML reproduz o conjunto da orientação, embora declare alteração de b.3 e b.4; não foi reduzido aos dois subitens.
+
+<h3>Resolução PGE 191 - 05 de Junho de 2017</h3>
+<br/>
+
+Publicado no <a href='https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=7783&numero=9962'>Di&aacute;rio Oficial n&ordm;. 9962</a> de 8 de Junho de 2017
+<br/><br/>
+
+
+
+
+
+<p>
+<b class="labelAto">Súmula:</b>
+
+
+
+<a id='1122504'>Altera a reda&ccedil;&atilde;o dos itens b.3 e b.4 da Orienta&ccedil;&atilde;o Administrativa n&deg; 12.<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122505'>O <strong>PROCURADOR-GERAL DO ESTADO</strong>, no uso das atribui&ccedil;&otilde;es que lhe conferem o inciso VI, do artigo 44, da Lei n&deg; 8.485, de 3 de junho de 1987; a Lei Complementar n&deg; 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n&deg; 40, de 08 de dezembro de 1987; o art. 8&deg; e inciso X do art. 20, ambos do Decreto Estadual n&deg; 2.137, de 12 de agosto de 2015; considerando o que consta no processo n&deg; 14.264.564-5,<br/>
+<br /><strong>RESOLVE:</strong><br/>
+<strong></strong><br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122510'><strong>Art. 1&deg;.</strong> Alterar a reda&ccedil;&atilde;o dos itens b.3 e b.4 da Orienta&ccedil;&atilde;o Administrativa n&deg; 12, conforme transcrita integralmente abaixo:<br/>
+<br/>
+<TABLE class="tbato" cellspacing="0" cellpadding="6" width="569">
+<tbody>
+<tr>
+<td rowspan="3" width="168" height="15" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm 0cm 0cm 0.16cm;"><strong>"TEMA DE INTERESSE</strong></td>
+<td width="375" style="border: 1px solid #000000; padding: 0cm 0.19cm 0cm 0.16cm;">Servidores p&uacute;blicos</td>
+</tr>
+<tr>
+<td width="375" style="border: 1px solid #000000; padding: 0cm 0.19cm 0cm 0.16cm;">Licen&ccedil;a especial n&atilde;o gozada</td>
+</tr>
+<tr>
+<td width="375" style="border: 1px solid #000000; padding: 0cm 0.19cm 0cm 0.16cm;">Direito dos servidores inativos ao recebimento em pec&uacute;nia de licen&ccedil;as especiais n&atilde;o gozadas em atividade</td>
+</tr>
+</tbody>
+</table>
+<br /> <br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122513'><strong>a)</strong> O servidor p&uacute;blico inativo tem direito a ser indenizado mediante convers&atilde;o em pec&uacute;nia da licen&ccedil;a especial n&atilde;o gozada enquanto em atividade, independente de previs&atilde;o legal, sob pena de restar caracterizado o enriquecimento il&iacute;cito do Estado.<br/>
+<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122514'><strong>b)</strong> Em respeito aos princ&iacute;pios da legalidade, impessoalidade, efici&ecirc;ncia e economicidade, a fim de assegurar o respeito &agrave; lei e aos direitos dos servidores e de evitar a incid&ecirc;ncia de juros de mora e outros encargos, com o consequente incremento do passivo judicial do Estado do Paran&aacute;, orienta-se a Administra&ccedil;&atilde;o P&uacute;blica estadual a adotar as seguintes medidas:<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122516'><strong>b. 1)</strong> &Eacute; recomend&aacute;vel que no in&iacute;cio de cada ano as unidades gestoras de recursos humanos da Administra&ccedil;&atilde;o estadual elaborem um planejamento para a concess&atilde;o de licen&ccedil;as especiais aos servidores que ir&atilde;o preencher os requisitos para a aposentadoria volunt&aacute;ria ou compuls&oacute;ria nos 05 (cinco) anos seguintes.<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122518'><strong>b.2)</strong> As unidades gestoras de recursos humanos da Administra&ccedil;&atilde;o estadual dever&atilde;o adotar todas as medidas &agrave; sua disposi&ccedil;&atilde;o, observado o interesse p&uacute;blico e as necessidades do servi&ccedil;o, a fim de assegurar a frui&ccedil;&atilde;o tempestiva das licen&ccedil;as especiais adquiridas pelos servidores p&uacute;blicos.<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122519'><strong>b.3)</strong> Verificada a exist&ecirc;ncia de licen&ccedil;a especial n&atilde;o gozada, a Administra&ccedil;&atilde;o estadual tem a obriga&ccedil;&atilde;o, quando da passagem do servidor titular de cargo p&uacute;blico efetivo para a inatividade, observada a exist&ecirc;ncia de disponibilidade or&ccedil;ament&aacute;ria e financeira, de pagar ao servidor o valor correspondente em pec&uacute;nia, a t&iacute;tulo indenizat&oacute;rio.<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122528'><strong>b.4)</strong> Os &oacute;rg&atilde;os da Administra&ccedil;&atilde;o estadual respons&aacute;veis pelo planejamento e execu&ccedil;&atilde;o or&ccedil;ament&aacute;ria e as unidades gestoras de recursos humanos dever&atilde;o adotar as medidas necess&aacute;rias, observada a disponibilidade or&ccedil;ament&aacute;ria e financeira existente, a que o pagamento mencionado no item b.3 ocorra no mesmo exerc&iacute;cio financeiro em que ocorrer a passagem do servidor para a inatividade.<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122530'><strong>REFER&Ecirc;NCIAS:</strong> Constitui&ccedil;&atilde;o Federal, art. 37; Constitui&ccedil;&atilde;o Estadual, art. 27; Lei Estadual n&deg; 6.174/1970; C&oacute;digo Civil, art. 884; STF, Ag. Reg. no Recurso Extraordin&aacute;rio com Agravo n&deg; 832.331/RS, 1a Turma, Rel. Rosa Weber. j. 04.11.2014; TJPR, AC 1415020-4, Rel.: Salvatore Antonio Astuti, J. 01.03.2016; TJPR, AC 1474120-3, Rel.: Fabio Andre Santos Muniz, J. 23.02.2016; TJPR, ACR 1387632-1, Rel.: Ruy Cunha Sobrinho, J. 16.02.2016; TJPR, ACR 1398770-3, Rel.: Guimar&atilde;es da Costa, J. 23.02.2016; TJPR - 3a Turma Recursal, 0019149-75.2015.8.16.0182/0, Rel.: Daniel Tempski Ferreira da Costa, J. 19.02.2016; TJPR - 3a Turma Recursal, 0010908-15.2015.8.16.0182/0, Rel.: GIANI MARIA MORESCHI, J. 18.02.2016."<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122532'><strong>Art. 2&deg;.</strong> Esta Resolu&ccedil;&atilde;o entrar&aacute; em vigor na data de sua publica&ccedil;&atilde;o.<br/></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1122533'><strong>PUBLIQUE-SE. ANOTE-SE.</strong><br/></a>
+
+
+</p>
+
+
+
+<p>&nbsp;</p>
+
+
+<p><i>Paulo Sérgio Rosso
+<br/>Procurador-Geral do Estado</i></p>
+
+
+
+
+<p>&nbsp;</p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+
+
+<hr/>
+
+<p style="color:red; font-style:italic">Este texto n&atilde;o substitui o publicado no Di&aacute;rio Oficial do Estado</p>

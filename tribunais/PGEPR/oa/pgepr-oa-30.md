@@ -209,3 +209,169 @@ acesse: http://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura.do e informe o 
 ##### Elementos visuais, confronto e incertezas
 
 Continuação da Resolução 025/2019-PGE, sem inserir título não impresso nesta folha. Brasão; carimbo PROTOCOLO / Fls. 19 / INTEGRADO DO ESTADO. Nota 1 integral e chamada sobrescrita no corpo. Negritos no número 2, referências, comando e cargo; URL azul sublinhada. Rodapé eletrônico integral. Sem assinatura manuscrita. Nenhuma lacuna textual identificada.
+
+## Resolução no HTML oficial — bloco integral cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=215013&indice=1&totalRegistros=26&anoSpan=2019&anoSelecionado=2019&mesSelecionado=0&isPaginado=true); SHA-256 da captura `0e82ad2cc2f53a96a850d69b54ce7e7221efafb80dd01ffb6cc8b247dc217f45`.
+
+Bloco integral do cabeçalho ao aviso final do Diário Oficial, lido e cotejado em revisão independente Sol. O HTML nativo não tem paginação física fixa. Links relativos foram tornados absolutos no domínio oficial, com texto e marcações preservados. A transcrição de datas, republicação ou dispositivos de vigência não constitui conclusão própria sobre efeitos jurídicos. Os destinos dos links não foram cotejados nesta revisão.
+
+A chamada ¹ depois de “caso concreto” permanece sem corpo de nota localizado neste bloco. Não foi completada por outra fonte.
+
+<h3>Resolução PGE 025 - 21 de Janeiro de 2019</h3>
+<br/>
+
+Publicado no <a href='https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&idEdicao=9350&numero=10360'>Di&aacute;rio Oficial n&ordm;. 10360</a> de 23 de Janeiro de 2019
+<br/><br/>
+
+
+
+
+
+<p>
+<b class="labelAto">Súmula:</b>
+
+
+
+<a id='1339694'>Edita a Orienta&ccedil;&atilde;o Administrativa n&ordm; 30-PGE.</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339695'>A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribui&ccedil;&otilde;es que lhe conferem o artigo 44, inciso VI, da Lei Estadual n&ordm; 8.485, de 03 de junho de 1987; o artigo 5&ordm;, da Lei Complementar n&ordm; 26, de 30 de dezembro de 1985, alterada pela Lei Complementar n&deg; 40, de 08 de dezembro de 1987; e o artigo 8&deg; e inciso X do artigo 20, ambos do anexo ao Decreto Estadual n&deg; 2.137, de 12 de agosto de 2015, resolve expedir a seguinte Orienta&ccedil;&atilde;o Administrativa a todos os &oacute;rg&atilde;os e entidades da Administra&ccedil;&atilde;o P&uacute;blica Estadual Direta e Aut&aacute;rquica:<br /><br />
+<TABLE class="tbato" height="205" style="width: 677px;">
+<tbody>
+<tr>
+<td rowspan="3" style="width: 109.45px; text-align: center;"><strong>TEMA DE</strong><br /><strong>INTERESSE</strong></td>
+<td style="width: 551.55px;">Art. 21 da lei de introdu&ccedil;&atilde;o &agrave;s normas do direito brasileiro, inserido pela lei n&ordm; 13.655/2018</td>
+</tr>
+<tr>
+<td style="width: 551.55px;">Obrigatoriedade de motiva&ccedil;&atilde;o das decis&otilde;es administrativas de decreta&ccedil;&atilde;o de invalidade de ato, ajuste, processo ou norma administrativa, considerando as consequ&ecirc;ncias jur&iacute;dicas e administrativas desses atos e cujos efeitos pr&aacute;ticos sejam proporcionais, equ&acirc;nimes e sem preju&iacute;zos excessivos aos sujeitos porventura atingidos.</td>
+</tr>
+<tr>
+<td style="width: 551.55px;">No caso de possibilidade de convalida&ccedil;&atilde;o/saneamento de ato, ajuste, processo ou norma administrativa, a obrigatoriedade de indicar expressamente o modo de sua regulariza&ccedil;&atilde;o.</td>
+</tr>
+</tbody>
+</table></a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339696'><strong>1.</strong> A decis&atilde;o que na esfera administrativa decretar a invalidade de ato, contrato, ajuste, processo ou norma administrativa dever&aacute; analisar e indicar de modo expresso as consequ&ecirc;ncias jur&iacute;dicas (plano jur&iacute;dico) e administrativas (plano pr&aacute;tico) deste ato.</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339697'><strong>1.1.</strong> Em havendo a possibilidade de convalida&ccedil;&atilde;o/saneamento, a decis&atilde;o administrativa dever&aacute; indicar expressamente as condi&ccedil;&otilde;es para que o administrado possa regularizar o ato, contrato, ajuste, processo ou norma administrativa, n&atilde;o podendo impor aos sujeitos envolvidos preju&iacute;zos excessivos ou anormais. Para tanto tais condi&ccedil;&otilde;es devem atingir todos os envolvidos de forma proporcional e equ&acirc;nime</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339699'><strong>2.</strong> Assim, para efetivo atendimento do contido no art. 21, da Lei de Introdu&ccedil;&atilde;o &agrave;s Normas do Direito Brasileiro, a decis&atilde;o administrativa:</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339701'><strong>a)</strong> que decretar a invalidade de ato, contrato, ajuste, processo ou norma administrativa deve demonstrar, com base nos elementos trazidos aos autos, que a medida legal adotada &eacute; a mais adequada ao caso concreto&sup1;, considerando as consequ&ecirc;ncias jur&iacute;dicas e pr&aacute;ticas futuras com as quais o administrador e as partes envolvidas ter&atilde;o que suportar;</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339703'><strong>b)</strong> em caso de convalida&ccedil;&atilde;o/saneamento de ato, contrato, ajuste, processo ou norma administrativa, deve indicar as condi&ccedil;&otilde;es e os atos necess&aacute;rios a sua regulariza&ccedil;&atilde;o, sempre com a necess&aacute;ria proporcionalidade e adequa&ccedil;&atilde;o entre a medida adotada e a interven&ccedil;&atilde;o em direitos, de modo a minorar e evitar preju&iacute;zos excessivos ou anormais, em fun&ccedil;&atilde;o das peculiaridades do caso.</a>
+
+
+</p>
+
+
+
+
+
+
+<p>
+<b class="labelAto"></b>
+
+
+
+<a id='1339706' target='_blank' target='_blank' target='_blank' target='_blank'><a id="1339706"></a><a id="1339706"></a><a id="1339706"></a><a id="1339706"></a><strong>REFER&Ecirc;NCIAS</strong>: Art. 21 do <a href="http://www.planalto.gov.br/ccivil_03/decreto-lei/Del4657.htm">Decreto-Lei n&ordm; 4.657/1942</a>, inserido pela <a href="http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13655.htm#art1">Lei n&ordm; 13.655/2018</a>; <a href="http://antonioanastasia.com.br/projetos/PLS349-2015.pdf">Projeto de Lei do Senado n&ordm; 349/2015</a> (com justificativa do autor da proposta); Resposta aos coment&aacute;rios tecidos pela Consultoria Jur&iacute;dica do TCU ao PL n&ordm; 7.448/2017 &ndash; parecer de grupo de juristas dispon&iacute;vel em: &lt;<a href='https://www.conjur.com.br/dl/parecer-juristas-rebatem-criticas.pdf' target='_blank' >https://www.conjur.com.br/dl/parecer-juristas-rebatem-criticas.pdf</a>&gt;</a>
+
+
+</p>
+
+
+
+<p>&nbsp;</p>
+
+
+<p><i>Izabel Cristina Marques
+<br/>Procuradora-Geral do Estado, em exercício.</i></p>
+
+
+
+
+<p>&nbsp;</p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+
+
+<hr/>
+
+<p style="color:red; font-style:italic">Este texto n&atilde;o substitui o publicado no Di&aacute;rio Oficial do Estado</p>
