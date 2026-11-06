@@ -188,3 +188,58 @@ Página inteira e duas faixas sobrepostas (0–53% e 48–100% da altura) lidas,
 Lacunas textuais ou leituras incertas identificadas: nenhuma. QR code não validado; nenhuma conclusão sobre vigência/autenticidade jurídica.
 
 [Nota editorial da revisão independente:] Nos blocos de autenticação, estão em negrito: “05318.801.7382OrientacaoAdministrativa53POSSIBILIDADEDESEUTILIZAROPORTALDATRANSPARENCIADOESTADODOPARANA.pdf”; “Leticia Ferreira da Silva”; “18.801.738-0”; “Viviane Maria de Lara da Silva”; “https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura”; “4d4a46333ba0bc50e5dd1f3f9310d33e”.
+
+## Resolução PGE 081 - 12 de Abril de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=263287&indice=1&totalRegistros=80&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `7579814b95c41612088827613d0d58ec7be5c85ad321cb49eec2bba373b9a6c4`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final do Diário Oficial, lido em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa das tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos foram tornados absolutos e a invariância do texto renderizado e das tabelas foi conferida. Regiões ANEXOS/interface depois do aviso, destinos de links, documentos e edições apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e vigência são texto da fonte, sem autenticação ou conclusão própria sobre efeitos jurídicos.
+
+Mantidas as denominações “Portal Nacional de Compras Públicas” e “Portal Nacional de Contratações públicas” em seus lugares.
+
+<h3>Resolução PGE 081 - 12 de Abril de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=12730&amp;numero=11157">Diário Oficial nº. 11157</a> de 13 de Abril de 2022
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1668456">Edita a Orientação Administrativa n.º 53-PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1668458">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o contido no protocolo n° 18.801.738-0, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1668471"><table class="tbato" height="88" style="width: 722.983px;">
+<tbody>
+<tr>
+<td rowspan="3" style="width: 178px; text-align: center;">TEMA DE INTERESSE</td>
+<td style="width: 526.983px;">Lei Federal nº 14.133, de 1º de abril de 2021; Decreto Estadual nº 10.086, de 17 de janeiro de 2022.</td>
+</tr>
+<tr>
+<td style="width: 526.983px;">Possibilidade de utilização, de modo excepcional e transitório, do Portal da Transparência do Estado do Paraná, em substituição ao Portal Nacional de Compras Públicas, até a sua efetiva integração e adequação, para os mesmos fins.</td>
+</tr>
+<tr>
+<td style="width: 526.983px;">Meios de divulgação dos atos advindos da aplicação da Lei nº 14.133/2021.</td>
+</tr>
+</tbody>
+</table>
+<br/>a) É possível a utilização pelos órgãos e entidades da Administração Pública direta, autárquica e fundacional do Estado do Paraná de outros meios idôneos para a publicação dos atos advindos da Lei nº 14.133/2021, em caráter transitório e excepcional, “até que sejam concluídas as medidas necessárias ao efetivo acesso às funcionalidades do Portal Nacional de Contratações públicas – PNCP”;<br/><br/>b) É recomendável a divulgação no Portal de Transparência do Estado do Paraná; a publicação dos atos citados deverá ser realizada, sem prejuízo da publicação de extrato do edital, a depender da origem dos recursos, no Diário Oficial da União, do Estado, do Distrito Federal ou do Município, ou, no caso de consórcio público, do ente de maior nível entre eles, bem como em jornal diário de grande circulação.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1668472">REFERÊNCIAS: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022; Acórdão nº 2.458/2021 – TCU – Plenário.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1668473"><strong>PUBLIQUE-SE. ANOTE-SE.</strong><br/><br/>Curitiba, <em>datado e assinado digitalmente.</em></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

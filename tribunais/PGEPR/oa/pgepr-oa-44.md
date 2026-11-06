@@ -183,3 +183,58 @@ Inserido ao protocolo 16.815.325-2 por: Miriam Lopes Pinheiro em: 13/10/2020 14:
 Peça de assinatura eProtocolo. Logotipo ePROTOCOLO; carimbo PROTOCOLO INTEGRADO DO ESTADO, Fls. 93a, Mov. 13. Palavra Documento com espaçamento expandido; arquivo em negrito quebrado antes de .pdf.; nomes, protocolo, URL e código em negrito. Moldura e QR code inferior esquerdo, não decodificado. Toda região central vazia inspecionada. Texto cotejado sem leitura textual incerta identificada; logotipo e rótulos de carimbo restituídos nesta nota.
 
 Sem conclusão sobre vigência ou efeito jurídico.
+
+## Resolução PGE 231 - 13 de Outubro de 2020 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=240341&indice=1&totalRegistros=229&anoSpan=2020&anoSelecionado=2020&mesSelecionado=0&isPaginado=true); SHA-256 da captura `8e5abf5d5bbaa3f12e8b4851f3bdfc064d4f8c424ffcb00976fd78bcf34a777e`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final do Diário Oficial, lido em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa das tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos foram tornados absolutos e a invariância do texto renderizado e das tabelas foi conferida. Regiões ANEXOS/interface depois do aviso, destinos de links, documentos e edições apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e vigência são texto da fonte, sem autenticação ou conclusão própria sobre efeitos jurídicos.
+
+Mantidos os oito itens e os dados de julgamento/publicação exibidos, sem validação do precedente apenas citado.
+
+<h3>Resolução PGE 231 - 13 de Outubro de 2020</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=11169&amp;numero=10791">Diário Oficial nº. 10791</a> de 15 de Outubro de 2020
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1498677">Edita Orientação Administrativa n. 44/PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1498681">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo n° 16.815.325-2, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1498683"><table class="tbato" height="128" style="width: 728px;">
+<tbody>
+<tr>
+<td rowspan="3" style="width: 205.2px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 506.8px;">Concurso Público</td>
+</tr>
+<tr>
+<td style="width: 506.8px;">Remarcação de teste de aptidão física para candidatas gestantes</td>
+</tr>
+<tr>
+<td style="width: 506.8px;">STF – Recurso Extraordinário n ° 1058333 (repercussão geral)</td>
+</tr>
+</tbody>
+</table>
+<br/>     <strong> Conforme decidiu o Supremo Tribunal Federal no julgamento do Recurso Extraordinário n° 1058333/PR, em 27.07.2020, com repercussão geral reconhecida, “É constitucional a remarcação do teste de aptidão física de candidata que esteja grávida à época de sua realização, independentemente da previsão expressa em edital do concurso público."</strong><br/><strong>      Diante desse entendimento jurisprudencial consolidado, orienta-se a Administração Pública estadual no sentido de que:<br/><br/>1.</strong> Deve ser assegurada a remarcação de prova de aptidão física, ou equivalente, à candidata que esteja grávida à época de sua realização, em todos os concursos públicos realizados no âmbito do Estado do Paraná.<br/><strong>2.</strong> A Administração deverá proceder à reserva de vagas em quantidade correspondente ao número de candidatas gestantes que tenham requerido a remarcação.<br/><strong>3.</strong> A remarcação não se refere a qualquer etapa do concurso, mas tão somente à prova de aptidão física. No entanto, a postergação desta etapa não impede a participação da candidata gestante nas fases posteriores, nas quais serão aplicadas as mesmas regras a todos os candidatos inscritos no certame.<br/><strong>4.</strong> É possível a aprovação e nomeação dos demais candidatos habilitados, respeitada a ordem de classificação.<br/><strong>5.</strong> O adiamento em razão da gestação se estende pelo período necessário para superação da condição gravídica, cujas condições e prazos devem ser determinados pela Administração Pública, resguardada a discricionariedade do administrador público e o princípio da vinculação às cláusulas editalícias.<br/><strong>6.</strong> Após a realização da prova de aptidão física remarcada, a candidata que for aprovada e classificada poderá ser empossada; caso contrário, será empossado o candidato remanescente na lista de classificação, em posição imediatamente subsequente à do último colocado já empossado.<br/><strong>7.</strong> Nos concursos em andamento nos quais exista a realização de prova desta natureza, deve ser garantido o direito de remarcação, independentemente de previsão editalícia.<br/><strong>8.</strong> Quanto aos concursos futuros, deve-se proceder à adequação dos editais de abertura, com a previsão expressa do procedimento para a operacionalização da remarcação da prova de aptidão física por candidatas gestantes (documentação, prazos, possibilidade de recursos, bem como outros aspectos definidos no âmbito da discricionariedade do administrador público), nos termos do art. 6°, do Decreto Estadual n° 7.116/2013.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1498688"><strong>REFERÊNCIAS:</strong> Constituição Federal, art. 6°; art. 37, I; art. 226, §7°; art. 201, II e art. 203, I. Recurso Extraordinário n° 1058333 (STF, repercussão geral), Decreto Estadual n° 7.116/2013.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1498689"><br/><strong>PUBLIQUE-SE. ANOTE-SE.</strong><br/><br/>Curitiba, 13 de outubro de 2020.</a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

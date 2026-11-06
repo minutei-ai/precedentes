@@ -209,3 +209,58 @@ Página inteira e duas faixas sobrepostas (0–53% e 48–100% da altura) lidas,
 Lacunas textuais ou leituras incertas identificadas: nenhuma. QR code não validado; nenhuma conclusão sobre vigência/autenticidade jurídica.
 
 [Nota editorial da revisão independente:] Nos blocos de autenticação, estão em negrito: “05418.801.7382OrientacaoAdministrativa54POSSIBILIDADEDEADESAOASATASDEREGISTRODEPRECOSDOESTADODOPARANAPORPARTEDOSMUNICIPIOS.pdf”; “Leticia Ferreira da Silva”; “18.801.738-0”; “Viviane Maria de Lara da Silva”; “https://www.eprotocolo.pr.gov.br/spiweb/validarAssinatura”; “6cfc3d4068a70a6492292d58182eb5ae”.
+
+## Resolução PGE 082 - 12 de Abril de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=263290&indice=1&totalRegistros=81&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `63320215cf74952f661858d75cb9191227f81f40c3417aa52365a57fc38bc497`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final do Diário Oficial, lido em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa das tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos foram tornados absolutos e a invariância do texto renderizado e das tabelas foi conferida. Regiões ANEXOS/interface depois do aviso, destinos de links, documentos e edições apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e vigência são texto da fonte, sem autenticação ou conclusão própria sobre efeitos jurídicos.
+
+Mantidas a aspa ao fim da alínea b e “há a exceção para relativa ao limite” na c.
+
+<h3>Resolução PGE 082 - 12 de Abril de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=12730&amp;numero=11157">Diário Oficial nº. 11157</a> de 13 de Abril de 2022
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1668484">Edita a Orientação Administrativa n.º 54-PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1668486">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o contido no protocolo n° 18.801.738-0, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1668488"><table class="tbato" height="97" style="width: 725px;">
+<tbody>
+<tr>
+<td rowspan="3" style="width: 171.883px; text-align: center;">TEMA DE INTERESSE</td>
+<td style="width: 537.117px;">Lei Federal nº 14.133, de 1º de abril de 2021; Decreto Estadual nº 10.086, de 17 de janeiro de 2022.</td>
+</tr>
+<tr>
+<td style="width: 537.117px;">Possibilidade de adesão às Atas de Registro de Preços do Estado do Paraná por parte dos Municípios.</td>
+</tr>
+<tr>
+<td style="width: 537.117px;">Limites para as aquisições ou contratações adicionais; Impossibilidade de adesão pelos órgãos ou entidades da Administração Pública estadual à Ata de Registro de Preços de órgão ou entidade municipal; Possibilidade de exigência de adesão à Ata de registro de Preços de órgão gerenciador da Administração Pública estadual para fins de transferências voluntárias e se destinada à execução descentralizada de programa ou projeto estadual</td>
+</tr>
+</tbody>
+</table>
+<br/>       a) Não há óbice que um ente municipal adira a ata de registro de preços de órgão ou entidade gerenciadora estadual, desde que, sejam respeitados os limites estabelecidos nos §§4º e 5º do art. 86 da Lei nº 14.133/2021, e desde que previsto no edital; <br/><br/>       b) As aquisições ou as contratações adicionais a que se refere o § 2º do art. 86 da Lei nº 14.133/2021 não poderão exceder, por órgão ou entidade, a 50% (cinquenta por cento) dos quantitativos dos itens do instrumento convocatório registrados na ata de registro de preços para o órgão gerenciador e para os órgãos participantes”; <br/><br/>       c) O quantitativo decorrente das adesões à ata de registro de preços a que se refere o § 2º do art. 86 da LLCA não poderá exceder, na totalidade, ao dobro do quantitativo de cada item registrado na ata de registro de preços para o órgão gerenciador e órgãos participantes, independentemente do número de órgãos não participantes que aderirem e, neste caso, há a exceção para relativa ao limite para aquisição emergencial de medicamentos e material de consumo médico-hospitalar por órgãos e entidades da Administração Pública federal, estadual, distrital e municipal, a adesão à ata de registro de preços gerenciada pelo Ministério da Saúde; <br/><br/>       d) Os órgãos e entidades do ente Estado do Paraná, por determinação do Decreto em comento, não poderão aderir à ata de registro de preço de órgão ou entidade municipal; <br/><br/>       e) A adesão à ata de registro de preços de órgão ou entidade gerenciadora do Poder Executivo estadual por órgãos e entidades da Administração municipal poderá ser exigida para fins de transferências voluntárias e se destinada à execução descentralizada de programa ou projeto estadual.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1668491">REFERÊNCIAS: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1668492"><strong>PUBLIQUE-SE. ANOTE-SE.</strong><br/><br/>Curitiba, <em>datado e assinado digitalmente.</em></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

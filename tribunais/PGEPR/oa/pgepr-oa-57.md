@@ -144,3 +144,74 @@ Página inteira e duas faixas sobrepostas (0–53% e 48–100% da altura) lidas,
 Lacunas textuais ou leituras incertas identificadas: nenhuma. QR code não validado; nenhuma conclusão sobre vigência/autenticidade jurídica.
 
 [Nota editorial da revisão independente:] Nos blocos de autenticação, estão em negrito: “Leticia Ferreira da Silva”; “19.271.055-3”; “Daniela Vanzo Duarte”; “https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento”; “68d7ce1e42d7b2d05da1117448934fb2”; “3585583409dc70bfdd6c5a1c3fd5a28c”.
+
+## Resolução PGE 150 - 28 de Julho de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=269325&indice=1&totalRegistros=147&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `e29bfe4eb1759783f5e081ca4df0f44aee2fd150ec2fbea88074acc0aa5d8d12`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final do Diário Oficial, lido em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa das tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos foram tornados absolutos e a invariância do texto renderizado e das tabelas foi conferida. Regiões ANEXOS/interface depois do aviso, destinos de links, documentos e edições apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e vigência são texto da fonte, sem autenticação ou conclusão própria sobre efeitos jurídicos.
+
+Nota de republicação no DOE 11.372 preservada, assim como “ata de implementação”, “Es?tado”, “compatibilizar?se”, “respetivos” e PAC/PCA.
+
+<h3>Resolução PGE 150 - 28 de Julho de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=13055&amp;numero=11229">Diário Oficial nº. 11229</a> de 1 de Agosto de 2022
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1713742"><strong>Edita a Orientação Administrativa n.º 57-PGE</strong></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1713747"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485, de 03 de junho de 1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26, de 30 de dezembro de 1985, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:<br/><br/><br/></div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1713748"><table class="tbato" height="171" style="width: 680px;">
+<tbody>
+<tr>
+<td style="width: 200px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 464px;">
+<table class="tbato" width="468">
+<tbody>
+<tr style="height: 41px;">
+<td style="width: 458px; height: 41px;">Lei Federal nº 14.133, de 1º de abril de 2021; <br/>Decreto Estadual nº 10.086, de 17 de janeiro de 2022.</td>
+</tr>
+<tr style="height: 61px;">
+<td style="width: 458px; height: 61px;">Elaboração do Plano de Contratações Anual dos órgãos e <br/>entidades da Administração Pública Estadual – PAC, e do <br/>Plano de Contratações Anual do Estado – PAC-E.</td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 458px; height: 50px;">ata de implementação na Administração Pública do Es?tado do Paraná do primeiro PAC-E com base nos PAC’s.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1713749"><div style="text-align: justify;">a. Em cumprimento à Seção IV, do Capítulo I do Título I e ao art. 732, ambos do Decreto nº 10.086, de 17 de janeiro de 2022, os órgãos/entidades da Administração Pública estadual estarão obrigados a elaborar os respetivos Planos de Contratações Anual a partir do ano de 2023, para implementação no ano de 2024, em consonância com as orientações emanadas da Secretaria de Estado de Planejamento e Projetos Estruturantes.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1713751"><div style="text-align: justify;">b. Não há impedimento que os órgãos/entidades elaborem seus PCA’s a partir de 2022, porém a obrigatoriedade se dá a partir de 2023.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1713752">c. A partir de 2024 os processos licitatórios deverão, como regra, compatibilizar?se com os Planos de Contratações Anuais vigentes.<br/><br/><strong>REFERÊNCIAS</strong>: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1713755"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE. <br/>REPUBLICADO POR INCORREÇÃO CONFORME RETIFICAÇÃO PUBLICADA NO DIÁRIO OFICIAL N° 11.372 DE 06/03/2023. </strong></div>
+<div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

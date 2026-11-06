@@ -233,3 +233,89 @@ Inserido ao protocolo 17.227.913-9 por: Miriam Lopes Pinheiro em: 11/01/2021 11:
 Peça distinta: comprovante ePROTOCOLO, com nome documental próprio, assinatura, inserção, validação e QR. Não tratado como corpo adicional da OA.
 
 Nenhuma lacuna textual ilegível remanescente identificada nesta leitura.  Brasões/logomarcas registrados pelo texto que exibem; detalhes heráldicos não transcritos.
+
+## Resolução PGE 007 - 11 de Janeiro de 2021 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=244077&indice=2&totalRegistros=56&anoSpan=2021&anoSelecionado=2021&mesSelecionado=0&isPaginado=true); SHA-256 da captura `8b20e31b221d34449fe70e21e2353f15bbde208fa808318cf84a7d7df8463be5`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final do Diário Oficial, lido em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa das tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos foram tornados absolutos e a invariância do texto renderizado e das tabelas foi conferida. Regiões ANEXOS/interface depois do aviso, destinos de links, documentos e edições apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e vigência são texto da fonte, sem autenticação ou conclusão própria sobre efeitos jurídicos.
+
+Mantidas as referências 1.026/1.206, “contrato.;”, “INPC amplo – IPCA” e “Assim:” antes do item 6. A suspensão da OA 41 é texto do ato; os dois elementos com id 1524379 são distintos e não foram eliminados.
+
+<h3>Resolução PGE 007 - 11 de Janeiro de 2021</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=11417&amp;numero=10849">Diário Oficial nº. 10849</a> de 12 de Janeiro de 2021
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1524377">Edita a Orientação Administrativa n.º 046/PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1524378">A PROCURADORA-GERAL DO ESTADO, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º  e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo n° 17.227.913-9, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1524379"><table class="tbato" height="92" style="width: 668px;">
+<tbody>
+<tr>
+<td rowspan="4" style="width: 180.5px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 470.5px;">Medida Provisória nº 1.026, de 6 de janeiro de 2021</td>
+</tr>
+<tr>
+<td style="width: 470.5px;">Contratos Administrativos</td>
+</tr>
+<tr>
+<td style="width: 470.5px;">Medidas excepcionais relativas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia da informação e comunicação, comunicação social e publicitária e treinamentos destinados à vacinação contra a covid-19</td>
+</tr>
+<tr>
+<td style="width: 470.5px;">Suspensão da<a href="https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&amp;codAto=234357&amp;codItemAto=1458646#1458646"> Orientação Administrativa nº 41-PGE</a></td>
+</tr>
+</tbody>
+</table>
+<a><br/>1. A Medida Provisória nº 1.026, de 6 de janeiro de 2021 tem abrangência a todos os entes federativos, de todos os Poderes e órgãos constitucionalmente autônomos, aplica‐se, portanto, à União, Estados, Distrito Federal e Municípios, a todos os Poderes destes entes (executivo, legislativo e judiciário) e aos órgãos constitucionalmente autônomos (ministério público, tribunais de contas e defensorias públicas). <br/><br/>2. A Medida Provisória nº 1.026, de 2021, se aplica aos atos praticados e aos contratos ou instrumentos congêneres firmados até 31 de julho de 2021, independentemente do seu prazo de execução ou de suas prorrogações. <br/><br/>3. A Medida Provisória nº 1.026, de 2021, AUTORIZA a administração pública direta e indireta a celebrar contratos ou outros instrumentos congêneres, com DISPENSA DE LICITAÇÃO exclusivamente para a implementação da vacinação contra a COVID-19, para: <br/></a>
+<div style="padding-left: 30px;">3.1. a aquisição de vacinas e de insumos destinados a vacinação contra a covid-19, inclusive antes do registro sanitário ou da autorização temporária de uso emergencial pela ANVISA;</div>
+<div style="padding-left: 30px;">3.2. a contratação de bens e serviços de logística, tecnologia da informação;</div>
+<div style="padding-left: 30px;">3.3. comunicação social e publicitária, treinamentos e outros bens e serviços. <br/><br/></div>
+<div>4. A Medida Provisória nº 1.026, de 2021, ainda:</div>
+<div style="padding-left: 30px;">4.1. não afasta a necessidade de processo administrativo com os elementos técnicos referentes à escolha da opção de contratação e à justificativa de preços;</div>
+<div style="padding-left: 30px;">4.2. exige transparência ativa a todas as aquisições ou contratações realizadas;</div>
+<div style="padding-left: 30px;">4.3. permite, na situação excepcional de, comprovadamente, haver um único fornecedor do bem ou prestador do serviço de que trata a referida Medida Provisória, a sua contratação, independentemente da existência de sanção de impedimento ou de suspensão de contratar com o Poder Público sendo, neste caso, obrigatória a prestação de garantia nas modalidades previstas em lei, que não poderá exceder dez por cento do valor do contrato.;</div>
+<div style="padding-left: 30px;">4.4. para dispensa de licitação de que trata a Medida Provisória nº 1.026, de 2021, quando se tratar de compra ou de contratação por mais de um órgão ou entidade, poderá ser utilizado o sistema de registro de preços e, neste caso:</div>
+<div style="padding-left: 60px;">4.4.1. o órgão ou entidade gerenciador da compra estabelecerá prazo de dois a oito dias úteis, contado da data de divulgação da intenção de registro de preço, para que outros órgãos e entidades manifestem interesse em participar do sistema de registro de preços;</div>
+<div style="padding-left: 60px;">4.4.2. Nas contratações realizadas a partir de trinta dias da assinatura da ata de registro de preços, a estimativa de preços será refeita, para verificar se os preços registrados permanecem compatíveis com os praticados no âmbito dos órgãos e das entidades da administração pública direta e indireta.</div>
+<div style="padding-left: 30px;">4.5. estabelece a presunção da ocorrência de situação de emergência em saúde pública de importância nacional decorrente do coronavírus (SARS-CoV-2) e a necessidade de seu pronto atendimento;</div>
+<div style="padding-left: 30px;">4.6. desobriga a elaboração de estudos preliminares para aquisições e contratações de bens e serviços comuns para os casos de que trata Medida Provisória nº 1.026, de 2021;</div>
+<div style="padding-left: 30px;">4.7. obriga a previsão de matriz de alocação de riscos entre o contratante e o contratado na hipótese de aquisições e contratos acima de R$200.000.000,00 (duzentos milhões de reais), e nos contratos inferiores a este valor o gerenciamento de riscos da contratação poderá ser exigido somente durante a gestão do contrato;</div>
+<div style="padding-left: 30px;">4.8. admite a apresentação de termo de referência simplificado ou projeto básico simplificado nas aquisições e contratações de que trata a Medida Provisória nº 1.026, de 2021, e elenca o seu conteúdo mínimo, inclusive a forma de obtenção da estimativa de preços, admitindo, de forma excepcional, a dispensa da estimativa de preços e a contratação por valores superiores decorrentes de oscilações ocasionadas pela variação de preços, desde que atendidas condições que elenca;</div>
+<div style="padding-left: 30px;">4.9. excepcionalmente e mediante justificativa, permite a dispensa do cumprimento de um ou mais requisitos de habilitação, ressalvados a exigência de apresentação de prova de regularidade trabalhista e o cumprimento do disposto no inciso XXXIII do caput do art. 7º e do §3º do art. 195 da Constituição;</div>
+<div style="padding-left: 30px;">4.10. reduz pela metade os prazos de licitação na modalidade pregão, eletrônico ou presencial, cujo objeto seja a aquisição ou contratação de que trata a Medida Provisória nº 1.026, de 2021;</div>
+<div style="padding-left: 30px;">4.11. dispensa audiência pública para aquisições e contratações com valores superiores a R$330.000.000,00 (trezentos e trinta milhões de reais) relativas aos objetos de que trata a Medida Provisória nº 1.026, de 2021;</div>
+<div style="padding-left: 30px;">4.12. as licitações realizadas por meio do Sistema de Registro de Preço para as aquisições e contratações de que trata a Medida Provisória nº 1.206, de 2021 serão consideradas compras nacionais;</div>
+<div style="padding-left: 30px;">4.13. para os contratos a que se refere a Medida Provisória nº 1.206, de 2021 poderá se prever que os contratados sejam obrigados a aceitar, nas mesmas condições contratuais, acréscimos ou supressões ao objeto contratado de até cinquenta por cento do valor inicial atualizado do contrato; <br/>4.14. os contratos ou os instrumentos congêneres para aquisição ou fornecimento de vacinas contra a covid-19, firmados antes ou após o registro ou a autorização de uso emergencial concedida pela Agência Nacional de Vigilância Sanitária - Anvisa, poderão estabelecer cláusulas especiais elencadas na Medida provisória nº 1.026, de 2021, tais quais: pagamento antecipado, hipótese de não penalização, outras condições indispensáveis para obter o bem ou assegurar a prestação do serviço;</div>
+<div style="padding-left: 30px;">4.15. aplicam-se às cláusulas contratuais o disposto na Lei estadual nº 15.608, de 2007 e, subsidiariamente, na Lei nº 8.666, de 1993;</div>
+<div style="padding-left: 30px;">4.16. os contratos poderão ter cláusulas de confidencialidade se assim exigir a contratada;</div>
+<div style="padding-left: 30px;">4.17. em caso de pagamento antecipado, esta condição deverá ser prevista em edital e exigida a devolução integral do valor antecipado na hipótese de inexecução do objeto, atualizado monetariamente pelo INPC amplo – IPCA ou índice que venha a substituí-lo, desde a data do pagamento da antecipação até a data da devolução, exceto na hipótese de perda do pagamento antecipado;</div>
+<div style="padding-left: 30px;">4.18. a administração pública deverá prever cautelas aptas a reduzir o risco de inadimplemento contratual na forma prevista na Medida Provisória nº 1.026, de 2021;</div>
+<a><br/>5. Fica suspensa a Orientação Administrativa nº 41/2020-PGE, tendo em vista que o Decreto Legislativo nº 6, de 20 de março de 2020, vigeu até o dia 31 de dezembro de 2020. Assim:<br/><br/>6. Considerando o fim da vigência do Decreto Legislativo nº 6, de 20 de março de 2020:<br/></a>
+<div style="padding-left: 30px;">6.1. é defesa a realização de novas contratações pelos meios previstos na Lei Federal n.º 13.979, de 2020 e Decreto Estadual n.º 4.315, de 2020;</div>
+<div style="padding-left: 30px;">6.2. é defesa a formalização de aditivos de prorrogação de prazo dos contratos firmados com fundamento na Lei Federal n.º 13.979, de 2020;</div>
+<div style="padding-left: 30px;">6.3. os contratos ainda vigentes firmados com fundamento na Lei Federal n.º 13.979, de 2020, terão seus prazos pactuados respeitados e poderão ser executados até o término da vigência estabelecida.</div>
+<a id="1524379"></a><br/>7. Esta Orientação Administrativa não dispensa a leitura atenta da Medida Provisória nº 1026, de 2021, onde se encontram outros detalhes a serem observados.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1524380"><strong>REFERÊNCIAS:</strong> Constituição Federal, artigos 37, inciso XXI; Medida Provisória nº 1026, de 2021; Lei nº 8666, de 1993, Lei Estadual nº. 15.608, de 2007.<strong></strong></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1524401"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
