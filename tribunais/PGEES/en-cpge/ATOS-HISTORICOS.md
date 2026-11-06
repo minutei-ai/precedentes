@@ -296,7 +296,7 @@ Editar os enunciados administrativos da Procuradoria Geral do Estado em vigor ne
 
 **Enunciado CPGE nº 01** – Fica dispensada a apresentação de defesa e a interposição de recurso nos processos em que o objeto do litígio seja a responsabilidade 110 de sócio que, embora não integrasse o quadro social no momento da ocorrência do fato gerador, teve o seu nome incluído na Certidão de Dívida Ativa.
 
-**Enunciado CPGE nº 02** - Fica dispensada a apresentação de defesa e a interposição de recurso nos processos em que o objeto do litígio seja a penhora 115 realizada sobre bem imóvel objeto de compromisso de compra e venda veiculado em instrumento público, ainda que não registrado, ressalvadas as hipóteses de fraude à execução e de fraude contra credores.
+**Enunciado CPGE nº 02** - Fica dispensada a apresentação de defesa e a interposição de recurso nos processos em que o objeto do litígio seja a penhora 115 realizada sobre bem imóvel objeto de compromisso de compra e venda veiculado em instrumento público, ainda que não registrado, ressalvada as hipóteses de fraude à execução e de fraude contra credores.
 
 **Enunciado CPGE nº 03** - Fica dispensada a apresentação de defesa e a interposição de recurso nos processos em que o objeto do litígio seja a cobrança da contribuição previdenciária: / I - de 10% (dez por cento) instituída pela já revogada Lei Complementar Estadual nº 109, de 18 de dezembro de 1997; / II - quando os proventos 125 dos inativos sejam inferiores ao teto estabelecido pela EC 41/2003.
 
@@ -310,10 +310,10 @@ Editar os enunciados administrativos da Procuradoria Geral do Estado em vigor ne
 
 Vitória/ES, em 20 de maio de 2010.
 
-RODRIGO RABELLO VIEIRA
+**RODRIGO RABELLO VIEIRA**
 PROCURADOR GERAL DO ESTADO
 
-Protocolo 29874
+**Protocolo 29874**
 
 
 ## Resolução CPGE 241/2010
@@ -324,37 +324,54 @@ Protocolo 29874
 
 ### Transcrição
 
-GOVERNO DO ESTADO DO ESPÍRITO SANTO
-PROCURADORIA GERAL DO ESTADO
+#### Página física 1
+
+**GOVERNO DO ESTADO DO ESPÍRITO SANTO**
+
+**PROCURADORIA GERAL DO ESTADO**
 
 **Resolução CPGE nº. 241/2010, de 09 de dezembro de 2010.**
 
 Cancela o verbete n.º 06, editado pela Resolução CPGE n.º 235/2010, de modo que todas as decisões condenatórias da Justiça do Trabalho fundadas no item IV da Súmula 331 do TST devem ser impugnadas, inclusive mediante interposição de recurso de revista e recurso extraordinário.
 
-O CONSELHO DA PROCURADORIA GERAL DO ESTADO, com fundamento no artigo 3º, incisos X e XII, da LC nº 88/96
+O **CONSELHO DA PROCURADORIA GERAL DO ESTADO**, com fundamento no artigo 3º, incisos X e XII, da LC nº 88/96
 
-Considerando que lhe compete fixar administrativamente a interpretação da Constituição, das leis, decretos, ajustes, contratos e atos normativos em geral, a ser uniformemente observada pelos órgãos e entidades da Administração Estadual;
+**Considerando** que lhe compete fixar administrativamente a interpretação da Constituição, das leis, decretos, ajustes, contratos e atos normativos em geral, a ser uniformemente observada pelos órgãos e entidades da Administração Estadual;
 
-Considerando que ao apreciar o Recurso Extraordinário n.º 603397, relatado pela Ministra Ellen Gracie, o Supremo Tribunal Federal reconheceu a existência de repercussão geral do tema da responsabilidade subsidiária da Administração Pública por encargos trabalhistas em face do inadimplemento de empresa prestadora de serviço;
+**Considerando** que ao apreciar o Recurso Extraordinário n.º 603397, relatado pela Ministra Ellen Gracie, o Supremo Tribunal Federal reconheceu a existência de repercussão geral do tema da responsabilidade subsidiária da Administração Pública por encargos trabalhistas em face do inadimplemento de empresa prestadora de serviço;
 
-Considerando que o Plenário do Supremo Tribunal Federal julgou procedente a Ação Declaratória de Constitucionalidade - ADC nº 16/DF, na qual se buscava a declaração de constitucionalidade do parágrafo 1º do artigo 71 da Lei nº 8.666/93 (Sessão do dia 24/11/10);
+**Considerando** que o Plenário do Supremo Tribunal Federal julgou procedente a Ação Declaratória de Constitucionalidade - ADC nº 16/DF, na qual se buscava a declaração de constitucionalidade do parágrafo 1º do artigo 71 da Lei nº 8.666/93 (Sessão do dia 24/11/10);
 
-Considerando que há precedentes do Supremo Tribunal Federal sufragando entendimento segundo o qual as decisões proferidas pelo Tribunal Superior do Trabalho, ao afastarem a incidência do art. 71, § 1º, da Lei n.º 8.666/93, com base no item IV da Súmula n.º 331 daquela mesma Corte, sem que tenha sido formalizado anteriormente o incidente de inconstitucionalidade, atraem a incidência do Verbete Vinculante n.º 10 da Súmula do STF;
+**Considerando** que há precedentes do Supremo Tribunal Federal sufragando entendimento segundo o qual as decisões proferidas pelo Tribunal Superior do Trabalho, ao afastarem a incidência do art. 71, § 1º, da Lei n.º 8.666/93, com base no item IV da Súmula n.º 331 daquela mesma Corte, sem que tenha sido formalizado anteriormente o incidente de inconstitucionalidade, atraem a incidência do Verbete Vinculante n.º 10 da Súmula do STF;
 
-Considerando que os enunciados do Conselho da PGE são de observância obrigatória para a Instituição, não podendo os Procuradores do Estado contrariá-los (art. 4.º, *caput*, da Resolução CPGE n.º 234/2010);
+**Considerando** que os enunciados do Conselho da PGE são de observância obrigatória para a Instituição, não podendo os Procuradores do Estado contrariá-los (art. 4.º, *caput*, da Resolução CPGE n.º 234/2010);
 
-Considerando, por fim, as projeções do princípio da indisponibilidade do interesse público sobre o contencioso judicial do Estado;
+**Considerando**, por fim, as projeções do princípio da indisponibilidade do interesse público sobre o contencioso judicial do Estado;
+
+**Procuradoria Geral do Estado do Espírito Santo**
+
+Av. Governador Bley, 236 – 11º andar – Centro – Vitória – ES – Cep: 29010-150
+
+#### Página física 2
+
+**GOVERNO DO ESTADO DO ESPÍRITO SANTO**
+
+**PROCURADORIA GERAL DO ESTADO**
 
 **RESOLVE**
 
-**Art. 1.º** - Cancelar o verbete n.º 06, editado pela Resolução CPGE n.º 235/2010, de modo que todas as decisões condenatórias da Justiça do Trabalho fundadas no item IV da Súmula 331 do TST devem ser impugnadas, inclusive mediante interposição de recurso de revista e recurso extraordinário.
+**Art. 1.º -** Cancelar o verbete n.º 06, editado pela Resolução CPGE n.º 235/2010, de modo que todas as decisões condenatórias da Justiça do Trabalho fundadas no item IV da Súmula 331 do TST devem ser impugnadas, inclusive mediante interposição de recurso de revista e recurso extraordinário.
 
 Cumpra-se.
 
 Vitória, 09 de dezembro de 2010
 
-RODRIGO RABELLO VIEIRA
+**RODRIGO RABELLO VIEIRA**
 PROCURADOR GERAL DO ESTADO
+
+**Procuradoria Geral do Estado do Espírito Santo**
+
+Av. Governador Bley, 236 – 11º andar – Centro – Vitória – ES – Cep: 29010-150
 
 ---
 
