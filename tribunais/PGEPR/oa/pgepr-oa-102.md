@@ -71,3 +71,63 @@ Rua Paula Gomes, 145 - São Francisco - 80510-070 - Curitiba - PR - 41 3281-6300
 www.pge.pr.gov.br
 
 [Rodapé em caixa] Assinatura Simples realizada por: **Lucia Helena Cachoeira ([CPF OCULTO])** em 23/06/2026 18:00 Local: PGE/DG. Inserido ao protocolo **25.847.620-4** por: **Jessica Carvalho Araújo Lessa** em: 12/06/2026 16:21. Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021. A autenticidade deste documento pode ser validada no endereço: **https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento** com o código: **44ef84555e4574286ffc260a06e2f847**
+
+## Resolução PGE 120 - 23 de Junho de 2026 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=399157&codTipoAto=&tipoVisualizacao=alterado); SHA-256 da captura `cc7f7d7bca2e5c5f00335234289a94b5520a0597658ecf48c4b8c6d859af41a5`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Mantida a referência incompleta “Reclamação.”, sem completá-la por outra fonte.
+
+<h3>Resolução PGE 120 - 23 de Junho de 2026</h3>
+<br/>
+
+
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=16965&amp;numero=12179">Diário Oficial nº. 12179</a> de 6 de Julho de 2026
+
+
+
+
+<br/>
+<br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="2548449">Edita Orientação Administrativa nº 102-PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2548466"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, <strong>em exercício</strong>, no uso das atribuições que lhe conferem a Constituição do Estado do Paraná, o art. 1º, II e § 1º da Lei Complementar n° 26, de 30 de dezembro de 1985, e considerando o que consta no protocolado n° 25.847.620-4, resolve expedir a seguinte orientação administrativa de caráter obrigatório a todos os órgãos e entidades da Administração Pública</div>
+Estadual, Direta e Autárquica:<br/><br/>
+<table class="tbato" style="width: 718px;">
+<tbody>
+<tr>
+<td rowspan="4" style="width: 190.75px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 651.25px;">Concurso público.</td>
+</tr>
+<tr>
+<td style="width: 651.25px;">Desconstituição judicial de ato de eliminação de candidato. Nomeação e posse condicionais. Participação em curso de formação ou preparação técnico-profissional.</td>
+</tr>
+<tr>
+<td style="width: 651.25px;">Princípio da eficiência Administrativa</td>
+</tr>
+<tr>
+<td style="width: 651.25px;">Constituição da República, art. 5º, XXXV e art. 37, <em>caput</em>, II e IV.</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: justify;"><br/>1. A desconstituição judicial — ainda que em caráter provisório — de ato administrativo de eliminação de candidato em concurso público de ingresso em órgão da Administração Pública Estadual direta, autárquica ou fundacional, autoriza, por consequência lógica e em homenagem ao princípio da eficiência administrativa (art. 37, caput, da CF), a sua nomeação e posse condicionais, bem como a sua participação em eventual curso de preparação prática e/ou teórica ou de formação técnica-profissional de novos servidores, desde que cumulativamente: <strong>(I)</strong> aprovado em todas as demais etapas eliminatórias; <strong>(II)</strong> observadas a ordem classificatória e a disponibilidade de vagas; <strong>(III)</strong> consignada expressamente, no ato de nomeação e no termo de posse, a natureza precária e condicional dos atos, com cláusula resolutiva vinculada ao resultado final da demanda judicial; <strong>(IV)</strong> inexistente, na ordem judicial, vedação expressa à nomeação e/ou posse ou determinação restrita à mera reserva de vagas. Sobrevindo decisão judicial que reforme, casse ou revogue a medida que</div>
+<div style="text-align: left;">ensejou a admissão condicional, os atos de nomeação e posse serão tornados sem efeito pela autoridade competente, com o conseguinte desligamento do(a) candidato(a).<br/><br/><strong>REFERÊNCIAS:</strong> Constituição da República, art. 5º, XXXV e art. 37, caput, II e IV; Código de Processo Civil, art. 4º; Recurso Extraordinário nº 608.482/RN, Supremo Tribunal Federal; Reclamação.</div></a>
+</p>
+<p>
+<b class="labelAto">Fecho</b>
+<a id="2548478"><strong>PUBLIQUE-SE. ANOTE-SE.</strong><br/><br/>Curitiba, <em>datado e assinado eletronicamente.</em></a>
+</p>
+<p> </p>
+<p><i>Lucia Helena Cachoeira
+<br/>Procuradora-Geral em exercício</i></p>
+<p> </p>
+<p></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
