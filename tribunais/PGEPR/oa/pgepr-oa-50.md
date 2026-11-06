@@ -192,3 +192,58 @@ Inserido ao protocolo 15.687.356-0 por: Viviane Maria de Lara da Silva em: 04/10
 Folha de assinatura eProtocolo; nome de arquivo mantido como documento, não identidade de ato. Logotipo ePROTOCOLO; carimbo PROTOCOLO INTEGRADO DO ESTADO: Fls.157a, Mov.37. Moldura, QR code inferior esquerdo não decodificado e centro vazio integralmente conferidos. Arquivo, nomes, protocolo, URL e código em negrito. Texto integralmente cotejado sem leitura textual incerta identificada.
 
 Sem conclusão sobre vigência ou efeito jurídico.
+
+## Resolução PGE 194 - 04 de Outubro de 2021 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=253800&indice=1&totalRegistros=201&anoSpan=2021&anoSelecionado=2021&mesSelecionado=0&isPaginado=true); SHA-256 da captura `35fa8bd3aa2fe8120699ba8521941cde0c72738ae22f126bdf8a47ce9d37576d`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final do Diário Oficial, lido em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa das tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos foram tornados absolutos e a invariância do texto renderizado e das tabelas foi conferida. Regiões ANEXOS/interface depois do aviso, destinos de links, documentos e edições apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e vigência são texto da fonte, sem autenticação ou conclusão própria sobre efeitos jurídicos.
+
+O bloco não recebeu data de fecho que não esteja nele impressa.
+
+<h3>Resolução PGE 194 - 04 de Outubro de 2021</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=12215&amp;numero=11033">Diário Oficial nº. 11033</a> de 6 de Outubro de 2021
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1595134">Edita a Orientação Administrativa n.º 050-PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1595135">       A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo n° 15.687.356-0, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1595140"><table class="tbato" height="95" style="width: 546px;">
+<tbody>
+<tr>
+<td rowspan="3" style="width: 213px; text-align: center;">TEMA DE INTERESSE</td>
+<td style="width: 317px;">COBRANÇA POR MUNICÍPIO DE TAXA DE COLETA DE LIXO DE IMÓVEL</td>
+</tr>
+<tr>
+<td style="width: 317px;">A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal.</td>
+</tr>
+<tr>
+<td style="width: 317px;">Tese fixada pelo STF por meio da Súmula Vinculante nº 19.</td>
+</tr>
+</tbody>
+</table>
+<br/>       Conforme jurisprudência consolidada pelo Supremo Tribunal Federal através do enunciado da Súmula Vinculante n° 19, <em>“a taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal”.</em> <br/><br/>       Assim, conforme Informação n° 64/2014 – AT/GAB/PGE <em>“enquanto estiver vigente tal enunciado sumular, não pode o Estado do Paraná se opor ao pagamento da taxa de coleta de lixo sob o argumento de que esse serviço municipal não pode ser remunerado por meio de taxa”.</em> <br/><br/>       Diante desses entendimentos jurisprudenciais consolidados, orienta-se a Administração Pública Estadual no sentido de que:<br/><br/><strong>1.</strong> É dever da Administração o devido e tempestivo recolhimento da taxa de coleta de lixo de imóvel estadual, quando notificado o Estado pelo Município e desde que a taxa cobrada possua previsão legal, não haja previsão de sua isenção e a hipótese de incidência descrita na lei municipal efetivamente corresponda à prestação de um serviço de coleta de lixo. <br/><strong>2.</strong> A Administração deve avaliar se os boletos de cobrança de tributos municipais incorporam de maneira indiscriminada outros tributos imobiliários, devendo o gestor solicitar ao ente municipal, sendo o caso, o destaque da cobrança da taxa de coleta de lixo, de modo que o recolhimento se refira exclusivamente à mencionada taxa. <br/><strong>3.</strong> A Administração deve avaliar a conveniência e oportunidade da adesão a eventual programa municipal de pagamento/parcelamento das dívidas já vencidas e ainda exigíveis do tributo, desde que haja condições mais favoráveis que o habitual (com anistia de juros e/ou de multa, a título exemplificativo). <br/><strong>4.</strong> A Administração deve comunicar a Procuradoria-Geral do Estado do Paraná acerca de pagamentos ou de adesões a parcelamentos quanto aos débitos já vencidos e exigidos na via judicial.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1595143"><strong>REFERÊNCIAS:</strong> Constituição Federal, art. 145, II, art. 37, caput. Supremo Tribunal Federal, Súmula Vinculante n° 19. Procuradoria-Geral do Estado do Paraná, Informação n° 64/2014 – AT/GAB/PGE. Protocolo n° 11.727.214-1 e 15.687.356-0.</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1595144"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

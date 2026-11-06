@@ -169,3 +169,104 @@ Lacunas textuais ou leituras incertas identificadas: nenhuma. QR code não valid
 [Nota editorial da revisão independente:] Nos blocos de autenticação, estão em negrito: “Leticia Ferreira da Silva”; “19.743.422-8”; “Viviane Maria de Lara da Silva”; “https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento”; “55e769e4bc63a67e7cd937b51d9f827e”.
 
 [Nota editorial da revisão independente:] No rodapé institucional, “www.pge.pr.gov.br” está em azul e sublinhado.
+
+## Resolução PGE 245 - 25 de Novembro de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=276915&indice=1&totalRegistros=244&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `de6f4da05a7b3b26a0ece6614164630c70e995853d3f0dccdd723b473e194edd`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final do Diário Oficial, lido em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa das tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos foram tornados absolutos e a invariância do texto renderizado e das tabelas foi conferida. Regiões ANEXOS/interface depois do aviso, destinos de links, documentos e edições apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e vigência são texto da fonte, sem autenticação ou conclusão própria sobre efeitos jurídicos.
+
+Oito itens e referências preservados, sem reavaliar juridicamente os requisitos de contratação temporária.
+
+<h3>Resolução PGE 245 - 25 de Novembro de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=13316&amp;numero=11308">Diário Oficial nº. 11308</a> de 29 de Novembro de 2022
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1756177"><strong>Edita a Orientação Administrativa n.º 58-PGE</strong></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756181"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo n° 19.743.422-8, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756183"><table class="tbato" height="76" style="width: 486.9px;">
+<tbody>
+<tr>
+<td style="width: 202px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 268.9px;">
+<table class="tbato" height="330" width="422">
+<tbody>
+<tr style="height: 25.5333px;">
+<td style="width: 412.667px; height: 25.5333px; text-align: justify;">CONTRATAÇÃO TEMPORÁRIA</td>
+</tr>
+<tr style="height: 44px;">
+<td style="width: 412.667px; height: 44px;">Processo Seletivo Simplificado (PSS)</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 412.667px; height: 22px;">A adoção do modelo de contratação por tempo<br/>determinado para atender a necessidade temporária de<br/>excepcional interesse público deve obedecer ao<br/>disposto no art. 37, inciso IX, da Constituição da<br/>República, bem como ao previsto na legislação<br/>estadual de regência.</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 412.667px; height: 22px; text-align: justify;">A contratação temporária em atividades públicas<br/>permanentes é, em regra, vedada, revelando-se<br/>possível apenas na hipótese de atendimento de<br/>demanda eventual ou passageira (RE 658.026 – STF).</td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 412.667px; height: 16px; text-align: justify;">A relação jurídica estabelecida entre a Administração<br/>Pública Estadual e os contratados possui natureza<br/>contratual, aplicando-se o disposto na legislação<br/>estadual de regência.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756186"><div style="text-align: justify;">1. A adoção do modelo de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público deve obedecer ao disposto no art. 37, inciso IX, da Constituição da República, bem como ao previsto na legislação estadual de regência.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756187"><div style="text-align: justify;">2. A premissa maior para a utilização do Processo Seletivo Simplificado – PSS deve advir do comando constitucional no sentido do atendimento a uma necessidade temporária de excepcional interesse público, isto é, o procedimento administrativo, mais do que tudo, deve revelar a transitoriedade e excepcionalidade da medida, sob pena de burla à regra do concurso público e afronta à Constituição da República.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756188"><div style="text-align: justify;">3. A transitoriedade e a excepcionalidade não podem decorrer de omissão ou má-gestão da Administração Pública, hipótese em que a contingência será artificial, não autorizando a contratação por tempo determinado, conforme assentado pelo Supremo Tribunal Federal.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756190"><div style="text-align: justify;">4. Para que se considere válida a contratação temporária é preciso que: a) os casos excepcionais estejam previstos na lei estadual de regência; b) o prazo de contratação seja predeterminado; c) a necessidade seja temporária; d) o interesse público seja excepcional; e) a contratação seja indispensável.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756192"><div style="text-align: justify;">5. Via de regra, é vedada a contratação temporária para o atendimento de demanda proveniente da prestação de serviços ordinários e permanentes que estejam sob o espectro das contingências normais da Administração Pública Estadual. Excepcionalmente, admite-se sua utilização para fazer frente a uma demanda eventual ou passageira.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756193"><div style="text-align: justify;">6. Os requisitos exigidos pela legislação e pela jurisprudência pacífica do Supremo Tribunal Federal para utilização da contratação temporária devem ser observados e demonstrados no respectivo processo administrativo, aplicando-se, no que couber, os preceitos estabelecidos na Lei Estadual de Processo Administrativo (Lei Estadual nº 20.656/2021).</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756197"><div style="text-align: justify;">7. A relação jurídica estabelecida entre a Administração Pública Estadual e os contratados possui natureza contratual, aplicando-se o regime jurídico-administrativo estabelecido na legislação estadual de regência, não havendo que se falar em aplicação suplementar ou subsidiária de estatutos funcionais próprios dos servidores estatutários, nem de dispositivos da Consolidação das Leis do Trabalho - CLT.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756198"><div style="text-align: justify;">8. Os contratados temporários se submetem ao Regime Geral de Previdência Social - RGPS, haja vista se tratar de imposição constitucional, nos termos do art. 40, § 13, da Constituição da República.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756200"><div style="text-align: justify;"><strong>REFERÊNCIAS</strong>: Constituição da República, art. 37; inc. IX, art. 40, § 13; Recurso Extraordinário nº 658.026, sob a sistemática da repercussão geral (tema 612), Supremo Tribunal Federal; Reclamação 5.381/AM, Supremo Tribunal Federal.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1756205"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
