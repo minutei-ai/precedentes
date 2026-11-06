@@ -16,3 +16,9 @@
 ## Fonte e limites
 
 O parágrafo e sua nota de reunião foram cotejados integralmente contra o HTML oficial em revisão independente por GPT-6 Astra. Preservados pontuação, aspas, espaços e destaques. Datas e indicação de aprovação são atribuídas à reprodução; não se certificam vigência atual, ato original ou alterações posteriores. COPEDS não foi fundida com COPEVID, conjunto GNDH 01/2018 ou GNCCRIM. A notícia de outubro/2026 tem afirmações contraditórias sobre aprovação/homologação e não foi usada para atualizar este texto de 2011.
+
+## Testemunho MPPR — integralidade, março de 2012
+
+Na [captura institucional histórica do MPPR](https://site.mppr.mp.br/saude/Pagina/Enunciados-COPEDS-GNDH-CNPG), o bloco “Atuação do Ministério Público em Prol da Integralidade (Março, 2012)” traz o parágrafo abaixo como nº 3. A correspondência com esta ficha é textual; o bloco não traz a nota de reunião reproduzida acima. A captura não comprova estado atual, autenticidade do ato original, vigência ou completude.
+
+<p><strong>Enunciado nº 3</strong>: “Deve o Ministério Público observar, como referência, os protocolos clínicos e as diretrizes terapêuticas, RENASES - Relação Nacional das ações e Serviços de Saúde e a RENAME - Relação Nacional de Medicamentos, atentos à MBE - Medicina Baseada em Evidências, e de que a Lei n. 8080 e o Decreto nº 7508/11 organizam ações e serviços no âmbito do SUS, mas não restringem direitos, segundo a diretriz da integralidade do direito à saúde, estabelecida no art. 198, II da Constituição Federal, cujo conteúdo foi explicado pelo STF na STA nº 17”;</p>
