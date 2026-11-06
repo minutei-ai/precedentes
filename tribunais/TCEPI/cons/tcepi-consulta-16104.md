@@ -172,611 +172,623 @@ O PDF contém 12 página(s). Relatórios, votos e outros atos de contexto perman
 
 #### Página 1 do PDF oficial
 
-                           Estado do Piauí
-                          Tribunal de Contas
-         rar
-                                                    Gabinete Conselheira Waltânia Alvarenga
-                                 PROCESSO Nº TC/002561/2016
-    
-    PROCESSO: TC/Nº 002561/2016
-    ASSUNTO: CONSULTA
-    INTERESSADO: PREFEITURA MUNICIPAL DE LUIS CORREIA
-    RELATOR(A): CONSª WALTÂNIA MARIA NOGUEIRA DE SOUSA L. ALVARENGA
-    PROCURADOR(A): RAÏSSA MARIA REZENDE DE DEUS BARBOSA
-    
-    
-    
-    1.         RELATÓRIO
-            Versam os autos sobre consulta formulada a este Tribunal de Contas pela
-    Sra. Adriane Maria Magalhães Prado, na condição de gestora da Prefeitura
-    Municipal de Luís Correia, na qual apresenta, em tese, questionamentos acerca da
-    contratação de pessoal tendo em conta os limites de gastos impostos pela Lei de
-    Responsabilidade Fiscal. Em síntese, são as seguintes, as dúvidas suscitadas na
-    consulta.
-    
-               1) Caso um Município esteja com o limite legal de despesa com pessoal
-                  ultrapassado e tenha realizado um Termo de Ajustamento de Conduta (TAC)
-                  com o Ministério Público local para a realização de concurso público, com
-                  prazos já previamente estabelecidos, com o fito de contratação de pessoal, é
-                  possível a realização de Concurso Público, mesmo com o limite de pessoal
-                  ultrapassado, de forma a atender o TAC firmado?
-               2) Caso o concurso anterior em um Município esteja com o prazo de validade já
-                  expirado, no entanto, existam diversas demandas judiciais para a nomeação
-                  dos concursados, é possível a realização e nomeação de servidores em um
-                  novo Concurso Público?
-               3) Diante da necessidade urgente de contratação temporária de servidores da
-                  educação, e diante da não finalização do concurso público, em andamento – em
-                  decorrência do lapso temporal para realização das provas, classificação e
-                  posterior homologação – é possível a realização de contratação temporária até
-                  que seja homologado o concurso público?
-               4) Em razão da temporariedade e instabilidade nos programas federais, é possível
-                  a contratação temporária de excepcional interesse público relativo aos
-                  servidores para atendimento dos programas federais no âmbito da saúde?
-               5) Com vistas a impedir o crescimento desmensurado da máquina administrativa,
-                  é possível a contratação de empresas terceirizadas para contratação de
-                  serviços - meios da Administração, como a vigilância e limpeza pública?
-               6) O referido gasto com o pagamento da empresa terceirizada elencado no item
-                  anterior entraria no cômputo do limite de gastos com pessoal?
-           Inicialmente, a relatoria procedeu ao exame de admissibilidade da consulta
-    (Despacho de peça 3), verificando-se o preenchimento dos requisitos previstos no
-                                                                                              1
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+**PROCESSO:** TC/Nº 002561/2016
+**ASSUNTO:** CONSULTA
+**INTERESSADO:** PREFEITURA MUNICIPAL DE LUIS CORREIA
+**RELATOR(A):** CONSª WALTÂNIA MARIA NOGUEIRA DE SOUSA L. ALVARENGA
+**PROCURADOR(A):** RAÏSSA MARIA REZENDE DE DEUS BARBOSA
+
+
+
+**1. RELATÓRIO**
+Versam os autos sobre consulta formulada a este Tribunal de Contas pela
+Sra. Adriane Maria Magalhães Prado, na condição de gestora da Prefeitura
+Municipal de Luís Correia, na qual apresenta, em tese, questionamentos acerca da
+contratação de pessoal tendo em conta os limites de gastos impostos pela Lei de
+Responsabilidade Fiscal. Em síntese, são as seguintes, as dúvidas suscitadas na
+consulta.
+
+1) Caso um Município esteja com o limite legal de despesa com pessoal
+ultrapassado e tenha realizado um Termo de Ajustamento de Conduta (TAC)
+com o Ministério Público local para a realização de concurso público, com
+prazos já previamente estabelecidos, com o fito de contratação de pessoal, é
+possível a realização de Concurso Público, mesmo com o limite de pessoal
+ultrapassado, de forma a atender o TAC firmado?
+2) Caso o concurso anterior em um Município esteja com o prazo de validade já
+expirado, no entanto, existam diversas demandas judiciais para a nomeação
+dos concursados, é possível a realização e nomeação de servidores em um
+novo Concurso Público?
+3) Diante da necessidade urgente de contratação temporária de servidores da
+educação, e diante da não finalização do concurso público, em andamento – em
+decorrência do lapso temporal para realização das provas, classificação e
+posterior homologação – é possível a realização de contratação temporária até
+que seja homologado o concurso público?
+4) Em razão da temporariedade e instabilidade nos programas federais, é possível
+a contratação temporária de excepcional interesse público relativo aos
+servidores para atendimento dos programas federais no âmbito da saúde?
+5) Com vistas a impedir o crescimento desmensurado da máquina administrativa,
+é possível a contratação de empresas terceirizadas para contratação de
+serviços - meios da Administração, como a vigilância e limpeza pública?
+6) O referido gasto com o pagamento da empresa terceirizada elencado no item
+anterior entraria no cômputo do limite de gastos com pessoal?
+Inicialmente, a relatoria procedeu ao exame de admissibilidade da consulta
+(Despacho de peça 3), verificando-se o preenchimento dos requisitos previstos no
+1
 
 #### Página 2 do PDF oficial
 
-                         Estado do Piauí
-                        Tribunal de Contas
-      rar
-                                                   Gabinete Conselheira Waltânia Alvarenga
-                               PROCESSO Nº TC/002561/2016
-    
-    art. 201 do Regimento Interno do TCE, quais sejam: legitimidade do consulente,
-    pertinência temática do caso, bem como presença de parecer jurídico acerca da
-    matéria.
-            Em seguida, os autos foram encaminhados à Comissão de Regimento e
-    Jurisprudência deste Tribunal, que em informação à peça 4, observou a inexistência
-    de prejulgado ou decisão reiterada sobre o tema.
-            A Diretoria de Fiscalização da Administração Municipal – DFAM instruiu a
-    consulta a partir de detalhada análise do caso, anexada à peça 5, concluindo nos
-    seguintes termos:
-                    a) Se já existiam cargos criados antes do limite da despesa com pessoal
-                    ter sido ultrapassado, a realização de concurso público é possível, mas
-                    não é recomendável. Por outro lado, se não existiam cargos criados à
-                    época da ultrapassagem do limite da despesa com pessoal, a realização
-                    de concurso público não é possível.
-    
-                    b) A existência de demandas judiciais nas quais haja a discussão a
-                    respeito do direito subjetivo à nomeação dos candidatos aprovados em
-                    concurso anterior com prazo de validade já expirado não impede, por si só,
-                    a realização de um novo certame público, bem como a nomeação dos
-                    aprovados neste último.
-    
-                    c) É válida a contratação por tempo determinado de profissionais da área
-                    de educação enquanto o concurso público em andamento não restar
-                    finalizado, tudo nos termos do art. 37, inciso IX, da Constituição Federal.
-    
-                    d) Diante da temporariedade e instabilidade dos programas federais, é
-                    possível a contratação por tempo determinado, nos termos do art. 37,
-                    inciso IX, da Constituição Federal, relativos aos servidores para
-                    atendimento dos programas federais no âmbito da saúde.
-    
-                    e) É possível a terceirização, por parte da Administração Pública, de
-                    atividade-meio (súmula 331 do TST), desde que não exista cargo no
-                    quadro de pessoal/plano de cargos e salários do órgão ou entidade.
-    
-                    f) A terceirização, quando efetuada de forma lícita, não entra no cálculo da
-                    despesa com pessoal. A terceirização ilícita, ao revés, em decorrência de
-                    sua irregularidade, deve entrar no cômputo.
-    
-           O Ministério Público de Contas manifestou nos autos, por meio do parecer
-    de peça 8, opinando para que a consulta seja conhecida e respondida de acordo
-    com a análise técnica apresenta pela DFAM.
-            É o relatório.
-    
-                                                                                              2
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+art. 201 do Regimento Interno do TCE, quais sejam: legitimidade do consulente,
+pertinência temática do caso, bem como presença de parecer jurídico acerca da
+matéria.
+Em seguida, os autos foram encaminhados à Comissão de Regimento e
+Jurisprudência deste Tribunal, que em informação à peça 4, observou a inexistência
+de prejulgado ou decisão reiterada sobre o tema.
+A Diretoria de Fiscalização da Administração Municipal – DFAM instruiu a
+consulta a partir de detalhada análise do caso, anexada à peça 5, concluindo nos
+seguintes termos:
+a) Se já existiam cargos criados antes do limite da despesa com pessoal
+ter sido ultrapassado, a realização de concurso público é possível, mas
+não é recomendável. Por outro lado, se não existiam cargos criados à
+época da ultrapassagem do limite da despesa com pessoal, a realização
+de concurso público não é possível.
+
+b) A existência de demandas judiciais nas quais haja a discussão a
+respeito do direito subjetivo à nomeação dos candidatos aprovados em
+concurso anterior com prazo de validade já expirado não impede, por si só,
+a realização de um novo certame público, bem como a nomeação dos
+aprovados neste último.
+
+c) É válida a contratação por tempo determinado de profissionais da área
+de educação enquanto o concurso público em andamento não restar
+finalizado, tudo nos termos do art. 37, inciso IX, da Constituição Federal.
+
+d) Diante da temporariedade e instabilidade dos programas federais, é
+possível a contratação por tempo determinado, nos termos do art. 37,
+inciso IX, da Constituição Federal, relativos aos servidores para
+atendimento dos programas federais no âmbito da saúde.
+
+e) É possível a terceirização, por parte da Administração Pública, de
+atividade-meio (súmula 331 do TST), desde que não exista cargo no
+quadro de pessoal/plano de cargos e salários do órgão ou entidade.
+
+f) A terceirização, quando efetuada de forma lícita, não entra no cálculo da
+despesa com pessoal. A terceirização ilícita, ao revés, em decorrência de
+sua irregularidade, deve entrar no cômputo.
+
+O Ministério Público de Contas manifestou nos autos, por meio do parecer
+de peça 8, opinando para que a consulta seja conhecida e respondida de acordo
+com a análise técnica apresenta pela DFAM.
+É o relatório.
+
+2
 
 #### Página 3 do PDF oficial
 
-                       Estado do Piauí
-                      Tribunal de Contas
-      rar
-                                                Gabinete Conselheira Waltânia Alvarenga
-                             PROCESSO Nº TC/002561/2016
-    
-    2. FUNDAMENTAÇÃO
-    
-    
-            As questões suscitadas na presente Consulta estão relacionadas à
-    contratação de pessoal para suprir as necessidades da Administração Pública
-    Municipal, em face das restrições impostas pela Lei de Responsabilidade Fiscal –
-    LRF, acerca dessa espécie de despesa pública.
-    
-    
-    2.1 Dos limites legais determinados para despesa com pessoal
-            Incialmente, oportuno registrar as determinações contidas na Constituição
-    Federal de 1988 no que concerne à despesa com pessoal no âmbito do serviço
-    público, conforme o disposto no art. 169.
-                   Art. 169. A despesa com pessoal ativo e inativo da União, dos Estados, do
-                   Distrito Federal e dos Municípios não poderá exceder os limites
-                   estabelecidos em lei complementar.
-    
-                   § 1º A concessão de qualquer vantagem ou aumento de remuneração, a
-                   criação de cargos, empregos e funções ou alteração de estrutura de
-                   carreiras, bem como a admissão ou contratação de pessoal, a qualquer
-                   título, pelos órgãos e entidades da administração direta ou indireta,
-                   inclusive fundações instituídas e mantidas pelo poder público, só poderão
-                   ser feitas:
-    
-                   I - se houver prévia dotação orçamentária suficiente para atender às
-                   projeções de despesa de pessoal e aos acréscimos dela decorrentes;
-    
-                   II - se houver autorização específica na lei de diretrizes orçamentárias,
-                   ressalvadas as empresas públicas e as sociedades de economia mista.
-    
-                   § 2º Decorrido o prazo estabelecido na lei complementar referida neste
-                   artigo para a adaptação aos parâmetros ali previstos, serão imediatamente
-                   suspensos todos os repasses de verbas federais ou estaduais aos
-                   Estados, ao Distrito Federal e aos Municípios que não observarem os
-                   referidos limites.
-    
-                   § 3º Para o cumprimento dos limites estabelecidos com base neste artigo,
-                   durante o prazo fixado na lei complementar referida no caput, a União, os
-                   Estados, o Distrito Federal e os Municípios adotarão as seguintes
-                   providências:
-    
-                   I - redução em pelo menos vinte por cento das despesas com cargos em
-                   comissão e funções de confiança;
-    
-                                                                                           3
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+**2. FUNDAMENTAÇÃO**
+
+
+As questões suscitadas na presente Consulta estão relacionadas à
+contratação de pessoal para suprir as necessidades da Administração Pública
+Municipal, em face das restrições impostas pela Lei de Responsabilidade Fiscal –
+LRF, acerca dessa espécie de despesa pública.
+
+
+**2.1 Dos limites legais determinados para despesa com pessoal**
+Incialmente, oportuno registrar as determinações contidas na Constituição
+Federal de 1988 no que concerne à despesa com pessoal no âmbito do serviço
+público, conforme o disposto no art. 169.
+Art. 169. A despesa com pessoal ativo e inativo da União, dos Estados, do
+Distrito Federal e dos Municípios não poderá exceder os limites
+estabelecidos em lei complementar.
+
+§ 1º A concessão de qualquer vantagem ou aumento de remuneração, a
+criação de cargos, empregos e funções ou alteração de estrutura de
+carreiras, bem como a admissão ou contratação de pessoal, a qualquer
+título, pelos órgãos e entidades da administração direta ou indireta,
+inclusive fundações instituídas e mantidas pelo poder público, só poderão
+ser feitas:
+
+I - se houver prévia dotação orçamentária suficiente para atender às
+projeções de despesa de pessoal e aos acréscimos dela decorrentes;
+
+II - se houver autorização específica na lei de diretrizes orçamentárias,
+ressalvadas as empresas públicas e as sociedades de economia mista.
+
+§ 2º Decorrido o prazo estabelecido na lei complementar referida neste
+artigo para a adaptação aos parâmetros ali previstos, serão imediatamente
+suspensos todos os repasses de verbas federais ou estaduais aos
+Estados, ao Distrito Federal e aos Municípios que não observarem os
+referidos limites.
+
+§ 3º Para o cumprimento dos limites estabelecidos com base neste artigo,
+durante o prazo fixado na lei complementar referida no caput, a União, os
+Estados, o Distrito Federal e os Municípios adotarão as seguintes
+providências:
+
+I - redução em pelo menos vinte por cento das despesas com cargos em
+comissão e funções de confiança;
+
+3
 
 #### Página 4 do PDF oficial
 
-                       Estado do Piauí
-                      Tribunal de Contas
-      rar
-                                                  Gabinete Conselheira Waltânia Alvarenga
-                              PROCESSO Nº TC/002561/2016
-    
-                   II - exoneração dos servidores não estáveis.
-    
-                   § 4º Se as medidas adotadas com base no parágrafo anterior não forem
-                   suficientes para assegurar o cumprimento da determinação da lei
-                   complementar referida neste artigo, o servidor estável poderá perder o
-                   cargo, desde que ato normativo motivado de cada um dos Poderes
-                   especifique a atividade funcional, o órgão ou unidade administrativa objeto
-                   da redução de pessoal.
-    
-                   § 5º O servidor que perder o cargo na forma do parágrafo anterior fará jus
-                   a indenização correspondente a um mês de remuneração por ano de
-                   serviço.
-    
-                   § 6º O cargo objeto da redução prevista nos parágrafos anteriores será
-                   considerado extinto, vedada a criação de cargo, emprego ou função com
-                   atribuições iguais ou assemelhadas pelo prazo de quatro anos.
-    
-                   § 7º Lei federal disporá sobre as normas gerais a serem obedecidas na
-                   efetivação do disposto no § 4º.
-    
-          Assim, ficou a cargo de Lei Complementar a fixação dos limites de gasto
-    com pessoal de cada ente da Federação, o que veio ocorrer por meio da Lei de
-    Responsabilidade Fiscal – Lei Complementar nº 101/2000, assim dispondo:
-                   Art. 19. Para os fins do disposto no caput do art. 169 da Constituição, a
-                   despesa total com pessoal, em cada período de apuração e em cada ente
-                   da Federação, não poderá exceder os percentuais da receita corrente
-                   líquida, a seguir discriminados:
-    
-                   I - União: 50% (cinqüenta por cento);
-    
-                   II - Estados: 60% (sessenta por cento);
-    
-                   III - Municípios: 60% (sessenta por cento).
-    
-            O art. 20 da LRF acrescenta que na repartição dos limites globais tratados
-    no art. 19 não poderá exceder, no caso dos municípios, a 54% (cinquenta e quatro
-    por cento) para o Poder Executivo e a 6% (seis por cento) para o Poder Legislativo.
-             Os limites de gastos com pessoal impostos pela Lei de Responsabilidade
-    Fiscal têm como escopo evitar os gastos excessivos por parte dos gestores sem que
-    tenham as receitas necessárias para cobri-los, buscando, assim, o equilíbrio
-    financeiro do ente público.
-    
-    
-    2.1.1 Do limite prudencial
-    
-                                                                                            4
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+II - exoneração dos servidores não estáveis.
+
+§ 4º Se as medidas adotadas com base no parágrafo anterior não forem
+suficientes para assegurar o cumprimento da determinação da lei
+complementar referida neste artigo, o servidor estável poderá perder o
+cargo, desde que ato normativo motivado de cada um dos Poderes
+especifique a atividade funcional, o órgão ou unidade administrativa objeto
+da redução de pessoal.
+
+§ 5º O servidor que perder o cargo na forma do parágrafo anterior fará jus
+a indenização correspondente a um mês de remuneração por ano de
+serviço.
+
+§ 6º O cargo objeto da redução prevista nos parágrafos anteriores será
+considerado extinto, vedada a criação de cargo, emprego ou função com
+atribuições iguais ou assemelhadas pelo prazo de quatro anos.
+
+§ 7º Lei federal disporá sobre as normas gerais a serem obedecidas na
+efetivação do disposto no § 4º.
+
+Assim, ficou a cargo de Lei Complementar a fixação dos limites de gasto
+com pessoal de cada ente da Federação, o que veio ocorrer por meio da Lei de
+Responsabilidade Fiscal – Lei Complementar nº 101/2000, assim dispondo:
+Art. 19. Para os fins do disposto no caput do art. 169 da Constituição, a
+despesa total com pessoal, em cada período de apuração e em cada ente
+da Federação, não poderá exceder os percentuais da receita corrente
+líquida, a seguir discriminados:
+
+I - União: 50% (cinqüenta por cento);
+
+II - Estados: 60% (sessenta por cento);
+
+**III - Municípios: 60% (sessenta por cento).**
+
+O art. 20 da LRF acrescenta que na repartição dos limites globais tratados
+no art. 19 não poderá exceder, no caso dos municípios, a 54% (cinquenta e quatro
+por cento) para o Poder Executivo e a 6% (seis por cento) para o Poder Legislativo.
+Os limites de gastos com pessoal impostos pela Lei de Responsabilidade
+Fiscal têm como escopo evitar os gastos excessivos por parte dos gestores sem que
+tenham as receitas necessárias para cobri-los, buscando, assim, o equilíbrio
+financeiro do ente público.
+
+
+**2.1.1 Do limite prudencial**
+
+4
 
 #### Página 5 do PDF oficial
 
-                        Estado do Piauí
-                       Tribunal de Contas
-      rar
-                                                   Gabinete Conselheira Waltânia Alvarenga
-                              PROCESSO Nº TC/002561/2016
-    
-           A LRF prescreve ainda, que em sendo verificado que o montante da
-    despesa com pessoal exceder a 95% do limite estabelecido no art. 20, ficarão os
-    Poderes ou órgãos que incorrerem no excesso sujeitos a determinadas vedações,
-    como a seguir:
-                   Art. 22. A verificação do cumprimento dos limites estabelecidos nos arts.
-                   19 e 20 será realizada ao final de cada quadrimestre.
-                   Parágrafo único. Se a despesa total com pessoal exceder a 95% (noventa
-                   e cinco por cento) do limite, são vedados ao Poder ou órgão referido no
-                   art. 20 que houver incorrido no excesso:
-                   I - concessão de vantagem, aumento, reajuste ou adequação de
-                   remuneração a qualquer título, salvo os derivados de sentença judicial ou
-                   de determinação legal ou contratual, ressalvada a revisão prevista no
-                   inciso X do art. 37 da Constituição;
-                   II - criação de cargo, emprego ou função;
-                   III - alteração de estrutura de carreira que implique aumento de despesa;
-                   IV - provimento de cargo público, admissão ou contratação de pessoal a
-                   qualquer título, ressalvada a reposição decorrente de aposentadoria ou
-                   falecimento de servidores das áreas de educação, saúde e segurança;
-                   V - contratação de hora extra, salvo no caso do disposto no inciso II do § 6º
-                   do art. 57 da Constituição e as situações previstas na lei de diretrizes
-                   orçamentárias.
-    
-            Por fim, determina o art. 23 da LRF:
-    
-                   Art. 23. Se a despesa total com pessoal, do Poder ou órgão referido no art.
-                   20, ultrapassar os limites definidos no mesmo artigo, sem prejuízo das
-                   medidas previstas no art. 22, o percentual excedente terá de ser eliminado
-                   nos dois quadrimestres seguintes, sendo pelo menos um terço no primeiro,
-                   adotando-se, entre outras, as providências previstas nos §§ 3º e 4º do art.
-                   169 da Constituição.
-    
-             Vê-se, portanto, que o descumprimento do limite de gastos com pessoal
-    obriga o ente da Federação não só a adotar as providências previstas nos §§ 3º e 4º
-    do art. 169 da Constituição Federal, mas também o proíbe de criar cargos, empregos
-    ou funções ou mesmo prover cargos públicos, admitir ou contratar pessoal a
-    qualquer título, ressalvada a reposição decorrente de aposentadoria ou
-    falecimento de servidores das áreas de educação, saúde e segurança.
-             No caso em questão, o consulente indaga sobre quais medidas a serem
-    adotadas no caso da existência de um Termo de Ajustamento de Conduta – TAC,
-    firmado com o Ministério Público no qual o Município se comprometeu a realizar um
-    procedimento de concurso público para contratação de pessoal, muito embora o
-    limite de gastos com pessoal já estivesse ultrapassado.
-    
-                                                                                              5
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+A LRF prescreve ainda, que em sendo verificado que o montante da
+despesa com pessoal exceder a 95% do limite estabelecido no art. 20, ficarão os
+Poderes ou órgãos que incorrerem no excesso sujeitos a determinadas vedações,
+como a seguir:
+Art. 22. A verificação do cumprimento dos limites estabelecidos nos arts.
+19 e 20 será realizada ao final de cada quadrimestre.
+Parágrafo único. Se a despesa total com pessoal exceder a 95% (noventa
+e cinco por cento) do limite, são vedados ao Poder ou órgão referido no
+art. 20 que houver incorrido no excesso:
+I - concessão de vantagem, aumento, reajuste ou adequação de
+remuneração a qualquer título, salvo os derivados de sentença judicial ou
+de determinação legal ou contratual, ressalvada a revisão prevista no
+inciso X do art. 37 da Constituição;
+II - **criação de cargo, emprego ou função;**
+III - alteração de estrutura de carreira que implique aumento de despesa;
+IV - provimento de cargo público, admissão ou contratação de pessoal a
+qualquer título, ressalvada a reposição decorrente de aposentadoria ou
+falecimento de servidores das áreas de educação, saúde e segurança;
+V - contratação de hora extra, salvo no caso do disposto no inciso II do § 6º
+do art. 57 da Constituição e as situações previstas na lei de diretrizes
+orçamentárias.
+
+Por fim, determina o art. 23 da LRF:
+
+Art. 23. Se a despesa total com pessoal, do Poder ou órgão referido no art.
+20, ultrapassar os limites definidos no mesmo artigo, sem prejuízo das
+medidas previstas no art. 22, o percentual excedente terá de ser eliminado
+nos dois quadrimestres seguintes, sendo pelo menos um terço no primeiro,
+adotando-se, entre outras, as providências previstas nos §§ 3º e 4º do art.
+169 da Constituição.
+
+Vê-se, portanto, que o descumprimento do limite de gastos com pessoal
+obriga o ente da Federação não só a adotar as providências previstas nos §§ 3º e 4º
+do art. 169 da Constituição Federal, mas também o proíbe de criar cargos, empregos
+ou funções ou mesmo prover cargos públicos, admitir ou contratar pessoal a
+qualquer título, **ressalvada a reposição decorrente de aposentadoria ou
+falecimento de servidores das áreas de educação, saúde e segurança.**
+No caso em questão, o consulente indaga sobre quais medidas a serem
+adotadas no caso da existência de um Termo de Ajustamento de Conduta – TAC,
+firmado com o Ministério Público no qual o Município se comprometeu a realizar um
+procedimento de concurso público para contratação de pessoal, muito embora o
+limite de gastos com pessoal já estivesse ultrapassado.
+
+5
 
 #### Página 6 do PDF oficial
 
-                       Estado do Piauí
-                      Tribunal de Contas
-      rar
-                                               Gabinete Conselheira Waltânia Alvarenga
-                             PROCESSO Nº TC/002561/2016
-    
-              Tendo em conta que o município firmou TAC com o Ministério Público para
-    provimento de cargos por meio de concurso público, supõe-se que o ente tenha
-    contratado excessivamente funcionários de forma irregular, como é o caso das
-    contratações temporárias fora das situações permitidas pela Constituição Federal,
-    art. 37, inciso IX.
-            Dessa forma, para que seja possível a contratação de servidores por meio
-    de concurso público, na hipótese de o município já haver ultrapassado o limite de
-    gastos com pessoal é necessário que se proceda ao afastamento dos servidores
-    contratados irregularmente.
-          Importante frisar que o art. 23 da LRF, conforme citado, determina que
-    devem ser adotadas as providências previstas nos §§ 3º e 4º do art. 169 da
-    Constituição Federal, dentre as quais:
-          - redução em pelo menos vinte por cento das despesas com cargos
-    em comissão e funções de confiança;
-            - exoneração de servidores não estáveis;
-            Assim sendo, o ideal seria a realização de concurso público apenas depois
-    de adotadas as providências previstas nos §§ 3º e 4º do art. 169 da Constituição
-    Federal. Tais medidas se fazem necessárias em razão dos impeditivos previstos no
-    art. 22 da LRF, quando os Poderes e órgãos excederem a 95% do limite
-    estabelecido no art. 20, quais sejam: criar cargos, emprego ou função e efetuar
-    provimento de cargo público, admissão ou contratação de pessoal a qualquer título.
-             Por fim, convém destacar que a vedação de contratação de pessoal é
-    atenuada pela ressalva constante do inciso IV do art. 22, que possibilita a admissão
-    a título de reposição nas áreas de educação, saúde e segurança, decorrente de
-    aposentadoria ou falecimento de servidores.
-    
-    
-    2.2 Da possibilidade de realização de novo concurso quando existem
-    pendências de nomeação de servidores – por força de decisão judicial -
-    decorrente de concurso público com prazo de validade já expirado
-    
-             Acerca desse questionamento, concordamos com a análise da DFAM no
-    sentido de que a existência de demandas judiciais nas quais haja a discussão a
-    respeito do direito subjetivo à nomeação dos candidatos aprovados em concurso
-    anterior com prazo de validade já expirado não impede, por si só, a realização de um
-    novo certame público, bem como a nomeação dos aprovados neste último. De fato,
-    as decisões proferidas pelo Poder Judiciário só têm o condão de interferir no campo
-    de atuação do Poder Executivo quando ocorrer o trânsito em julgado daquelas. Além
-                                                                                       6
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+Tendo em conta que o município firmou TAC com o Ministério Público para
+provimento de cargos por meio de concurso público, supõe-se que o ente tenha
+contratado excessivamente funcionários de forma irregular, como é o caso das
+contratações temporárias fora das situações permitidas pela Constituição Federal,
+art. 37, inciso IX.
+Dessa forma, para que seja possível a contratação de servidores por meio
+de concurso público, na hipótese de o município já haver ultrapassado o limite de
+gastos com pessoal é necessário que se proceda ao afastamento dos servidores
+contratados irregularmente.
+Importante frisar que o art. 23 da LRF, conforme citado, determina que
+devem ser adotadas as providências previstas nos §§ 3º e 4º do art. 169 da
+Constituição Federal, dentre as quais:
+- redução em pelo menos vinte por cento das despesas com cargos
+em comissão e funções de confiança;
+- exoneração de servidores não estáveis;
+Assim sendo, o ideal seria a realização de concurso público apenas depois
+de adotadas as providências previstas nos §§ 3º e 4º do art. 169 da Constituição
+Federal. Tais medidas se fazem necessárias em razão dos impeditivos previstos no
+art. 22 da LRF, quando os Poderes e órgãos excederem a 95% do limite
+estabelecido no art. 20, quais sejam: criar cargos, emprego ou função e efetuar
+provimento de cargo público, admissão ou contratação de pessoal a qualquer título.
+Por fim, convém destacar que a vedação de contratação de pessoal é
+atenuada pela ressalva constante do inciso IV do art. 22, que possibilita a admissão
+a título de reposição nas áreas de educação, saúde e segurança, decorrente de
+aposentadoria ou falecimento de servidores.
+
+
+**2.2 Da possibilidade de realização de novo concurso quando existem
+pendências de nomeação de servidores – por força de decisão judicial -
+decorrente de concurso público com prazo de validade já expirado**
+
+Acerca desse questionamento, concordamos com a análise da DFAM no
+sentido de que a existência de demandas judiciais nas quais haja a discussão a
+respeito do direito subjetivo à nomeação dos candidatos aprovados em concurso
+anterior com prazo de validade já expirado não impede, por si só, a realização de um
+novo certame público, bem como a nomeação dos aprovados neste último. De fato,
+as decisões proferidas pelo Poder Judiciário só têm o condão de interferir no campo
+de atuação do Poder Executivo quando ocorrer o trânsito em julgado daquelas. Além
+6
 
 #### Página 7 do PDF oficial
 
-                          Estado do Piauí
-                         Tribunal de Contas
-      rar
-                                                     Gabinete Conselheira Waltânia Alvarenga
-                                 PROCESSO Nº TC/002561/2016
-    
-    disso, o art. 37, inciso IV, da Constituição Federal, determina que a prioridade na
-    convocação ocorrerá apenas “durante o prazo improrrogável previsto no edital de
-    convocação”, o que não foi o caso, pois o prazo de validade do concurso anterior já
-    havia expirado.
-    
-    
-    2.3 Da possibilidade de contratação temporária de servidores da área de
-    educação até que sejam concluídas as fases de concurso público em
-    andamento
-            É cediço que a regra geral para admissão de pessoal no serviço público é o
-    concurso público, consoante a norma contida no art. 37, inciso II da Constituição
-    Federal de 1988.
-            Uma das ressalvas previstas no texto constitucional à exigência do concurso
-    público é a contratação por tempo determinado para atender às necessidades
-    temporárias de interesse público, nos termos do disposto no art. 37, inciso IX.
-                      Art. 37. […]
-                      IX - a lei estabelecerá os casos de contratação por tempo determinado
-                      para atender a necessidade temporária de excepcional interesse público;
-    
-            De acordo com a o entendimento doutrinário, para que se aperfeiçoe a
-    contratação temporária, devem-se observar algumas condições. Inicialmente cabe a
-    cada ente federativo, regular, através de lei, os casos de contratação temporária,
-    estabelecendo as hipóteses e situações que poderão ensejar as admissões
-    temporárias, o prazo máximo de contratação, dentre outras.
-           Em síntese, a contratação temporária de pessoal deve atender às seguintes
-    condições:
-              - contratação por prazo determinado;
-              - necessidade temporária;
-              - processo seletivo simplificado, e;
-              - interesse público excepcional.
-              Ao abordar o assunto, o doutrinador Celso Antônio Bandeira de Mello
-    coloca:
-                      A razão do dispositivo constitucional em apreço, obviamente, é contemplar
-                      situações nas quais ou a própria atividade a ser desempenhada, requerida
-                      por razões muitíssimo importantes, é temporária, eventual (não se
-                      justificando a criação de cargo ou emprego, pelo que não haveria cogitar
-                                                                                             7
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+disso, o art. 37, inciso IV, da Constituição Federal, determina que a prioridade na
+convocação ocorrerá apenas “durante o prazo improrrogável previsto no edital de
+convocação”, o que não foi o caso, pois o prazo de validade do concurso anterior já
+havia expirado.
+
+
+**2.3 Da possibilidade de contratação temporária de servidores da área de
+educação até que sejam concluídas as fases de concurso público em
+andamento**
+É cediço que a regra geral para admissão de pessoal no serviço público é o
+concurso público, consoante a norma contida no art. 37, inciso II da Constituição
+Federal de 1988.
+Uma das ressalvas previstas no texto constitucional à exigência do concurso
+público é a contratação por tempo determinado para atender às necessidades
+temporárias de interesse público, nos termos do disposto no art. 37, inciso IX.
+Art. 37. […]
+IX - a lei estabelecerá os casos de contratação por tempo determinado
+para atender a necessidade temporária de excepcional interesse público;
+
+De acordo com a o entendimento doutrinário, para que se aperfeiçoe a
+contratação temporária, devem-se observar algumas condições. Inicialmente cabe a
+cada ente federativo, regular, através de lei, os casos de contratação temporária,
+estabelecendo as hipóteses e situações que poderão ensejar as admissões
+temporárias, o prazo máximo de contratação, dentre outras.
+Em síntese, a contratação temporária de pessoal deve atender às seguintes
+condições:
+- contratação por prazo determinado;
+- necessidade temporária;
+- processo seletivo simplificado, e;
+- interesse público excepcional.
+Ao abordar o assunto, o doutrinador Celso Antônio Bandeira de Mello
+coloca:
+A razão do dispositivo constitucional em apreço, obviamente, é contemplar
+situações nas quais ou a própria atividade a ser desempenhada, requerida
+por razões muitíssimo importantes, é temporária, eventual (não se
+justificando a criação de cargo ou emprego, pelo que não haveria cogitar
+7
 
 #### Página 8 do PDF oficial
 
-                        Estado do Piauí
-                       Tribunal de Contas
-      rar
-                                                 Gabinete Conselheira Waltânia Alvarenga
-                              PROCESSO Nº TC/002561/2016
-    
-                    do concurso público), ou a atividade não é temporária, mas o excepcional
-                    interesse público demanda que se faça imediato suprimento temporário de
-                    uma necessidade (neste sentido, necessidade temporária), por não haver
-                    tempo hábil para realizar concurso, sem que suas delongas deixem
-                    insuprido o interesse incomum que se tem de acobertar. (BANDEIRA DE
-                    MELLO, Celso Antônio. Curso de Direito Administrativo. 18. ed. São Paulo:
-                    Malheiros, 2005, p. 263)
-    
-            Como bem salientou a DFAM, é válida a contratação por tempo determinado
-    de profissionais da área de educação enquanto o concurso público em andamento
-    não restar finalizado, tudo nos termos do art. 37, inciso IX, da Constituição Federal.
-    O STF entende que o art. 37, IX, da CF/88 autoriza que a Administração Pública
-    contrate pessoas, sem concurso público, tanto para o desempenho de atividades de
-    caráter eventual, temporário ou excepcional, como também para o desempenho das
-    funções de caráter regular e permanente, desde que indispensáveis ao atendimento
-    de necessidade temporária de excepcional interesse público (ADI 3068, Rel. p/ Ac.
-    Min. Eros Grau, Tribunal Pleno, julgado em 25/08/2004).
-             Portanto, em relação à questão posta pelo consulente, tem-se que é
-    justificável a contratação temporária em razão da deficiência de pessoal para
-    atendimento de demanda na área de educação, até que concurso público seja
-    concluído.
-    
-    
-    2.4 Da possibilidade de contratação por tempo determinado para atendimento
-    dos programas federais temporários no âmbito da saúde.
-           Da mesma forma como já foi exposto no item anterior, nos casos de
-    execução de atividades relacionadas a programas federais temporários é
-    plenamente justificável a contratação por tempo determinado. Não se apresentaria
-    razoável o provimento de servidor em cargo efetivo, pois com a extinção do
-    programa, esse servidor poderia ficar ocioso, trazendo prejuízos ao erário.
-            Assim, considerando que, no caso em questão, a atividade e a necessidade
-    do servidor é temporária, justifica-se a contratação por tempo determinado.
-            No entanto, conforme assinalou a DFAM, na hipótese em discussão para
-    que as contratações estejam compatíveis com a norma do art. 37, inciso IX, da
-    Constituição Federal, devem respeitar os requisitos da contratação por tempo
-    determinado, quais sejam: previsão legal (a contratação temporária deve estar
-    regulamentada em lei do ente interessado na contratação, diploma legal no qual
-    devem estar estabelecidas as hipóteses e condições em que serão realizadas as
-    admissões temporárias, o prazo máximo de contratação, direitos e deveres dos
-    contratados, dentre outros requisitos), além de processo seletivo simplificado,
-                                                                                           8
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+do concurso público), ou a atividade não é temporária, mas o excepcional
+interesse público demanda que se faça imediato suprimento temporário de
+uma necessidade (neste sentido, necessidade temporária), por não haver
+tempo hábil para realizar concurso, sem que suas delongas deixem
+insuprido o interesse incomum que se tem de acobertar. (BANDEIRA DE
+MELLO, Celso Antônio. Curso de Direito Administrativo. 18. ed. São Paulo:
+Malheiros, 2005, p. 263)
+
+Como bem salientou a DFAM, é válida a contratação por tempo determinado
+de profissionais da área de educação enquanto o concurso público em andamento
+não restar finalizado, tudo nos termos do art. 37, inciso IX, da Constituição Federal.
+O STF entende que o art. 37, IX, da CF/88 autoriza que a Administração Pública
+contrate pessoas, sem concurso público, tanto para o desempenho de atividades de
+caráter eventual, temporário ou excepcional, como também para o desempenho das
+funções de caráter regular e permanente, desde que indispensáveis ao atendimento
+de necessidade temporária de excepcional interesse público (ADI 3068, Rel. p/ Ac.
+Min. Eros Grau, Tribunal Pleno, julgado em 25/08/2004).
+Portanto, em relação à questão posta pelo consulente, tem-se que é
+justificável a contratação temporária em razão da deficiência de pessoal para
+atendimento de demanda na área de educação, até que concurso público seja
+concluído.
+
+
+**2.4 Da possibilidade de contratação por tempo determinado para atendimento
+dos programas federais temporários no âmbito da saúde.**
+Da mesma forma como já foi exposto no item anterior, nos casos de
+execução de atividades relacionadas a programas federais temporários é
+plenamente justificável a contratação por tempo determinado. Não se apresentaria
+razoável o provimento de servidor em cargo efetivo, pois com a extinção do
+programa, esse servidor poderia ficar ocioso, trazendo prejuízos ao erário.
+Assim, considerando que, no caso em questão, a atividade e a necessidade
+do servidor é temporária, justifica-se a contratação por tempo determinado.
+No entanto, conforme assinalou a DFAM, na hipótese em discussão para
+que as contratações estejam compatíveis com a norma do art. 37, inciso IX, da
+Constituição Federal, devem respeitar os requisitos da contratação por tempo
+determinado, quais sejam: previsão legal (a contratação temporária deve estar
+regulamentada em lei do ente interessado na contratação, diploma legal no qual
+devem estar estabelecidas as hipóteses e condições em que serão realizadas as
+admissões temporárias, o prazo máximo de contratação, direitos e deveres dos
+contratados, dentre outros requisitos), além de processo seletivo simplificado,
+8
 
 #### Página 9 do PDF oficial
 
-                           Estado do Piauí
-                          Tribunal de Contas
-      rar
-                                                       Gabinete Conselheira Waltânia Alvarenga
-                                  PROCESSO Nº TC/002561/2016
-    
-    contratação por tempo determinado, necessidade temporária, necessidade de
-    excepcional interesse público e motivação.
-    
-    
-    2.5    Da possibilidade de contratação de empresa terceirizada para execução
-    de serviços-meio da Administração, como de vigilância e de limpeza pública
-           Usualmente se denomina de terceirização a contratação de pessoal fora do
-    quadro próprio de servidores para a execução de atividades complementares da
-    Administração Pública.
-            Esse contrato firmado com a empresa privada para prestação de atividades-
-    meio da Administração está sujeito às regras estabelecidas pela Lei nº 8.666/93 –
-    Lei de Licitações e Contratos Administrativos, podendo contemplar dentre outros, os
-    seguintes serviços: vigilância, conservação, limpeza, segurança, transportes,
-    recepção e manutenção de equipamentos.
-            Segundo entendimento doutrinário, a legalidade da terceirização está sujeita
-    à impossibilidade de terceirizar atividade inerente à categoria funcional abrangida
-    pelo plano de cargos da entidade pública. Sobre a questão, concluiu Ferraz:
-                      Em síntese, é perceptível que para as atividades-fim do órgão ou entidade,
-                      assim consideradas aquelas que corriqueiramente afetam a administração,
-                      atribuídas aos agentes pertencentes ao seu quadro funcional, não se há,
-                      em princípio, cogitar da terceirização, sob pena de cometimento de ato de
-                      improbidade administrativa (...). FERRAZ, Luciano. Função administrativa.
-                      Revista Diálogo Jurídico. Salvador, v. 1, n. 4, p. 10, jul. 2001. Disponível em:
-                      http://www.direitopúblico.com.br.Acesso em 10 abr de 2016).
-    
-            Corroborando tal entendimento, o Acórdão do Tribunal de Contas da União
-    enfatiza que não será considerada de boa-fé a terceirização de serviços que
-    abranjam a contratação de profissionais existentes no Plano de Cargos e salário do
-    órgão ou entidade, por contrariar o art. 37, II da Constituição Federal, e, ainda, poder
-    implicar futuros prejuízos ao Erário. (Fonte: TCU. Processo nº TC nº 008.932/2011-5. Acórdão
-    nº 1333/2012 – Plenário).
-    
-           Também o Tribunal de Contas de Minas Gerais ao apreciar processo de
-    caso semelhante assim entendeu:
-                      (...) concluo não ser possível ao Município a terceirização de todos os seus
-                      serviços, mas apenas a daqueles de natureza auxiliar, ligados à atividade-
-                      meio. Não pode o Município terceirizar serviços que abrangem sua
-                      atividade-fim, traduzindo atribuições típicas de cargos permanentes que só
-                      podem ser preenchidos por concurso público. (Consulta n. 442370, Sessão
-                      do dia 22/04/96. Rel. Conselheiro Moura Castro).
-    
-                                                                                                    9
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+contratação por tempo determinado, necessidade temporária, necessidade de
+excepcional interesse público e motivação.
+
+
+**2.5 Da possibilidade de contratação de empresa terceirizada para execução
+de serviços-meio da Administração, como de vigilância e de limpeza pública**
+Usualmente se denomina de **terceirização** a contratação de pessoal fora do
+quadro próprio de servidores para a execução de atividades complementares da
+Administração Pública.
+Esse contrato firmado com a empresa privada para prestação de atividades-
+meio da Administração está sujeito às regras estabelecidas pela Lei nº 8.666/93 –
+Lei de Licitações e Contratos Administrativos, podendo contemplar dentre outros, os
+seguintes serviços: vigilância, conservação, limpeza, segurança, transportes,
+recepção e manutenção de equipamentos.
+Segundo entendimento doutrinário, a legalidade da terceirização está sujeita
+à impossibilidade de terceirizar atividade inerente à categoria funcional abrangida
+pelo plano de cargos da entidade pública. Sobre a questão, concluiu Ferraz:
+Em síntese, é perceptível que para as atividades-fim do órgão ou entidade,
+assim consideradas aquelas que corriqueiramente afetam a administração,
+atribuídas aos agentes pertencentes ao seu quadro funcional, não se há,
+em princípio, cogitar da terceirização, sob pena de cometimento de ato de
+improbidade administrativa (...). FERRAZ, Luciano. Função administrativa.
+Revista Diálogo Jurídico. Salvador, v. 1, n. 4, p. 10, jul. 2001. Disponível em:
+<u>http://www.direitopúblico.com.br.Acesso</u> em 10 abr de 2016).
+
+Corroborando tal entendimento, o Acórdão do Tribunal de Contas da União
+enfatiza que não será considerada de boa-fé a terceirização de serviços que
+abranjam a contratação de profissionais existentes no Plano de Cargos e salário do
+órgão ou entidade, por contrariar o art. 37, II da Constituição Federal, e, ainda, poder
+implicar futuros prejuízos ao Erário. (Fonte: TCU. Processo nº TC nº 008.932/2011-5. Acórdão
+nº 1333/2012 – Plenário).
+
+Também o Tribunal de Contas de Minas Gerais ao apreciar processo de
+caso semelhante assim entendeu:
+(...) concluo não ser possível ao Município a terceirização de todos os seus
+serviços, mas apenas a daqueles de natureza auxiliar, ligados à atividade-
+meio. Não pode o Município terceirizar serviços que abrangem sua
+atividade-fim, traduzindo atribuições típicas de cargos permanentes que só
+podem ser preenchidos por concurso público. (Consulta n. 442370, Sessão
+do dia 22/04/96. Rel. Conselheiro Moura Castro).
+
+9
 
 #### Página 10 do PDF oficial
 
-                        Estado do Piauí
-                       Tribunal de Contas
-      rar
-                                                 Gabinete Conselheira Waltânia Alvarenga
-                                   PROCESSO Nº TC/002561/2016
-    
-            Dessa forma, entende-se ser possível a Administração Municipal terceirizar
-    os serviços de vigilância e limpeza pública, desde que tais cargos não existam no
-    quadro de pessoal, ou no plano de cargos e salários do órgão ou entidade.
-    
-    
-    2.6 O gasto com os serviços de terceirização e o impacto no cálculo da
-    despesa com pessoal.
-              O art. 18 da Lei de Responsabilidade Fiscal mostra um conceito bastante
-    amplo ao configurar como despesa total com pessoal todas as espécies de gastos
-    que tenham alguma relação com servidores públicos (ativos, inativos e
-    pensionistas), civis e militares, empregados públicos e membros de Poderes,
-    englobando quaisquer espécies remuneratórias.
-              No que respeita à terceirização de serviços, em princípio o gasto não é
-    incluído no cômputo da despesa total com pessoal, para os fins da Lei de
-    Responsabilidade Fiscal. Isso se justifica em face de os funcionários das empresas
-    contratadas não manterem qualquer vínculo jurídico ou funcional com o Poder
-    Público, não podendo, consequentemente, ser considerada a despesa como de
-    pessoal para a Administração Pública.
-               Convém, contudo, que se analise o estipulado no parágrafo primeiro do
-    art. 18 da LFR, in verbis:
-                   Art. 18 (...)
-    
-                   §1º - Os valores dos contratos de terceirização de mão-de-obra que se
-                   referem à substituição de servidores e empregados públicos serão
-                   contabilizados como “Outras Despesas de Pessoal”.
-    
-             Observa-se pelo disposto no mencionado parágrafo primeiro do art. 18
-    que na hipótese de a terceirização envolver a substituição de servidores e
-    empregados do ente estatal, tal despesa será considerada no cálculo de despesa
-    com pessoal.
-              Analisando esse ponto da consulta, a DFAM destacou:
-                   Com efeito, referido dispositivo legal não faz referência a toda e qualquer
-                   terceirização, mas apenas àquela que substitui servidor ou empregado
-                   público, razão pela qual é aconselhável investigar, caso a caso, se o
-                   servidor está empregado na atividade-fim da instituição ou se existe o
-                   respectivo cargo no quadro de pessoal/plano de cargos e salários do órgão
-                   ou entidade (terceirização ilícita).
-    
-    
-                                                                                           10
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+Dessa forma, entende-se ser possível a Administração Municipal terceirizar
+os serviços de vigilância e limpeza pública, desde que tais cargos não existam no
+quadro de pessoal, ou no plano de cargos e salários do órgão ou entidade.
+
+
+**2.6 O gasto com os serviços de terceirização e o impacto no cálculo da
+despesa com pessoal.**
+O art. 18 da Lei de Responsabilidade Fiscal mostra um conceito bastante
+amplo ao configurar como despesa total com pessoal todas as espécies de gastos
+que tenham alguma relação com servidores públicos (ativos, inativos e
+pensionistas), civis e militares, empregados públicos e membros de Poderes,
+englobando quaisquer espécies remuneratórias.
+No que respeita à terceirização de serviços, em princípio o gasto não é
+incluído no cômputo da despesa total com pessoal, para os fins da Lei de
+Responsabilidade Fiscal. Isso se justifica em face de os funcionários das empresas
+contratadas não manterem qualquer vínculo jurídico ou funcional com o Poder
+Público, não podendo, consequentemente, ser considerada a despesa como de
+pessoal para a Administração Pública.
+Convém, contudo, que se analise o estipulado no parágrafo primeiro do
+art. 18 da LFR, *in verbis:*
+Art. 18 (...)
+
+§1º - Os valores dos contratos de terceirização de mão-de-obra que se
+referem à substituição de servidores e empregados públicos serão
+contabilizados como “Outras Despesas de Pessoal”.
+
+Observa-se pelo disposto no mencionado parágrafo primeiro do art. 18
+que na hipótese de a terceirização envolver a substituição de servidores e
+empregados do ente estatal, tal despesa será considerada no cálculo de despesa
+com pessoal.
+Analisando esse ponto da consulta, a DFAM destacou:
+Com efeito, referido dispositivo legal não faz referência a toda e qualquer
+terceirização, mas apenas àquela que substitui servidor ou empregado
+público, razão pela qual é aconselhável investigar, caso a caso, se o
+servidor está empregado na atividade-fim da instituição ou se existe o
+respectivo cargo no quadro de pessoal/plano de cargos e salários do órgão
+ou entidade (terceirização ilícita).
+
+
+10
 
 #### Página 11 do PDF oficial
 
-                       Estado do Piauí
-                      Tribunal de Contas
-      rar
-                                                 Gabinete Conselheira Waltânia Alvarenga
-                              PROCESSO Nº TC/002561/2016
-    
-                   De fato, é importante lembrar que a terceirização só é admissível no
-                   âmbito da Administração Pública para o desempenho de atividade-meio.
-                   Assim sendo, caso reste comprovado que determinado profissional
-                   terceirizado exerce atividade-fim, o gasto com ele despendido deve integrar
-                   o cálculo da despesa com pessoal, haja vista a irregularidade da
-                   contratação.
-    
-    
-               Assim, verifica-se que deverão ser contabilizados como despesa com
-    pessoal, os gastos com a terceirização considerada não lícita, qual seja, aquela que
-    tem por finalidade a substituição da força de trabalho de servidores e empregados
-    públicos.
-    
-    
-    4. CONCLUSÃO
-            Ante o exposto, considerando a análise proferida pela Diretoria de
-    Fiscalização da Administração Municipal e o parecer do Ministério Público de
-    Contas, respondo, em tese, a consulta nos termos seguintes:
-            A) Mesmo que o Município se encontre com o limite de gasto com pessoal
-    ultrapassado, não fica impedido de realizar concurso público para cargos já
-    existentes, mesmo porque a realização de concurso público por si só não gera
-    despesa com pessoal. É recomendável, contudo, que inicialmente o Município adote
-    as providências previstas nos §§ 3º e 4º do art. 169 da Constituição Federal. Tais
-    medidas se fazem necessárias em razão dos impeditivos previstos no art. 22 da
-    LRF, quando os Poderes e órgãos excederem a 95% do limite estabelecido no art.
-    20, quais sejam: criar cargos, emprego ou função e efetuar provimento de cargo
-    público, admissão ou contratação de pessoal a qualquer título.
-            B) A existência de demandas judiciais nas quais haja a discussão a respeito
-    do direito subjetivo à nomeação dos candidatos aprovados em concurso anterior
-    com prazo de validade já expirado não impede, por si só, a realização de um novo
-    certame público, bem como a nomeação dos aprovados neste último.
-            C) É possível a contratação temporária em razão da deficiência de pessoal
-    para atendimento de demanda na área de educação, até que concurso público seja
-    concluído, nos termos do disposto no art. 37, inciso IX da Constituição Federal de
-    1988, devendo, contudo, serem observados determinados requisitos da contratação
-    por tempo determinado, quais sejam: previsão legal (a contratação temporária deve
-    estar regulamentada em lei do ente interessado na contratação, diploma legal no
-    qual devem estar estabelecidas as hipóteses e condições em que serão realizadas
-    as admissões temporárias, o prazo máximo de contratação, direitos e deveres dos
-    
-                                                                                           11
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+De fato, é importante lembrar que a terceirização só é admissível no
+âmbito da Administração Pública para o desempenho de atividade-meio.
+Assim sendo, caso reste comprovado que determinado profissional
+terceirizado exerce atividade-fim, o gasto com ele despendido deve integrar
+o cálculo da despesa com pessoal, haja vista a irregularidade da
+contratação.
+
+
+Assim, verifica-se que deverão ser contabilizados como despesa com
+pessoal, os gastos com a terceirização considerada não lícita, qual seja, aquela que
+tem por finalidade a substituição da força de trabalho de servidores e empregados
+públicos.
+
+
+**4. CONCLUSÃO**
+Ante o exposto, considerando a análise proferida pela Diretoria de
+Fiscalização da Administração Municipal e o parecer do Ministério Público de
+Contas, respondo, em tese, a consulta nos termos seguintes:
+A) Mesmo que o Município se encontre com o limite de gasto com pessoal
+ultrapassado, não fica impedido de realizar concurso público para cargos já
+existentes, mesmo porque a realização de concurso público por si só não gera
+despesa com pessoal. É recomendável, contudo, que inicialmente o Município adote
+as providências previstas nos §§ 3º e 4º do art. 169 da Constituição Federal. Tais
+medidas se fazem necessárias em razão dos impeditivos previstos no art. 22 da
+LRF, quando os Poderes e órgãos excederem a 95% do limite estabelecido no art.
+20, quais sejam: criar cargos, emprego ou função e efetuar provimento de cargo
+público, admissão ou contratação de pessoal a qualquer título.
+B) A existência de demandas judiciais nas quais haja a discussão a respeito
+do direito subjetivo à nomeação dos candidatos aprovados em concurso anterior
+com prazo de validade já expirado não impede, por si só, a realização de um novo
+certame público, bem como a nomeação dos aprovados neste último.
+C) É possível a contratação temporária em razão da deficiência de pessoal
+para atendimento de demanda na área de educação, até que concurso público seja
+concluído, nos termos do disposto no art. 37, inciso IX da Constituição Federal de
+1988, devendo, contudo, serem observados determinados requisitos da contratação
+por tempo determinado, quais sejam: previsão legal (a contratação temporária deve
+estar regulamentada em lei do ente interessado na contratação, diploma legal no
+qual devem estar estabelecidas as hipóteses e condições em que serão realizadas
+as admissões temporárias, o prazo máximo de contratação, direitos e deveres dos
+
+11
 
 #### Página 12 do PDF oficial
 
-                                 Estado do Piauí
-                                Tribunal de Contas
-             rar
-                                                             Gabinete Conselheira Waltânia Alvarenga
-                                         PROCESSO Nº TC/002561/2016
-    
-           contratados, dentre outros requisitos), além de processo seletivo simplificado,
-           necessidade temporária, necessidade de excepcional interesse público e motivação.
-                   D) Diante da temporariedade e instabilidade dos programas federais, é
-           possível a contratação por tempo determinado, nos termos do art. 37, inciso IX, da
-           Constituição Federal, relativos aos servidores para atendimento dos programas
-           federais no âmbito da saúde.
-                   E) É possível a terceirização, por parte da Administração Pública, dos
-           serviços de vigilância e limpeza pública, desde que não exista o cargo no quadro de
-           pessoal ou no plano de cargos e salários do órgão ou entidade.
-                    F) O gasto com a terceirização, em princípio, não compõe a base de cálculo
-           de despesa com pessoal. No entanto, quando a terceirização ocorrer de forma
-           irregular, como a que visa à substituição de servidores, deve integrar o cálculo da
-           despesa com pessoal.
-    
-    
-                                            Teresina (PI), 14 de abril de 2016.
-    
-    
-                                                     (assinado digitalmente)
-                            Conselheira Waltânia Maria Nogueira de Sousa L Alvarenga
-                                                    Relatora
-    
-    
-    
-    
-    Assinado Digitalmente pelo sistema e-TCE - WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador e-TCE ocultado] - 19/04/2016 12
-                                                                                                          12
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/002561/2016**
+
+contratados, dentre outros requisitos), além de processo seletivo simplificado,
+necessidade temporária, necessidade de excepcional interesse público e motivação.
+D) Diante da temporariedade e instabilidade dos programas federais, é
+possível a contratação por tempo determinado, nos termos do art. 37, inciso IX, da
+Constituição Federal, relativos aos servidores para atendimento dos programas
+federais no âmbito da saúde.
+E) É possível a terceirização, por parte da Administração Pública, dos
+serviços de vigilância e limpeza pública, desde que não exista o cargo no quadro de
+pessoal ou no plano de cargos e salários do órgão ou entidade.
+F) O gasto com a terceirização, em princípio, não compõe a base de cálculo
+de despesa com pessoal. No entanto, quando a terceirização ocorrer de forma
+irregular, como a que visa à substituição de servidores, deve integrar o cálculo da
+despesa com pessoal.
+
+
+Teresina (PI), 14 de abril de 2016.
+
+
+*(assinado digitalmente)*
+Conselheira Waltânia Maria Nogueira de Sousa L Alvarenga
+Relatora
+
+
+
+
+*Assinado Digitalmente pelo sistema e-TCE* - **WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA:[identificador pessoal e-TCE ocultado] - 19/04/2016** [horário cortado na borda direita]
+12
 
 ### Links presentes no PDF
 
@@ -1426,3 +1438,5 @@ O PDF contém 8 página(s). Relatórios, votos e outros atos de contexto permane
 [Relatório DFAM](http://www.tce.pi.gov.br/wp-content/uploads/2018/02/DFAM.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next009: vinte recortes no lote, com transcrição/cotejo Sol e revisão independente integral Astra. Documento 2, físicas 1–12: relatório e voto TC/002561/2016. Nomes, grafias e referências divergentes preservados como impressos, sem harmonizar citações. A apresentação não é fac-símile; microinscrições dos emblemas não integralmente legíveis não foram reconstruídas. Nomes funcionais e códigos documentais preservados; nenhum identificador pessoal numérico publicado neste lote. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.

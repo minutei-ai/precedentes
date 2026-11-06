@@ -22,110 +22,109 @@ O PDF contém 2 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-          no ,.
-    
-                   ESTADO DO PIAUI
-                   TRIBUNAL DE CONTAS
-    
-    
-                                      ACÓRDÃO N°1.933/li
-    
-    PROCESSO TC-E N° 2.800/11
-    DECISÃO
-         o
-            N 0 580/11
-    SESSÃO PLENÁRIA ORDINÁRIA N° 32
-    RELATOR: Cons.Substituto Jaylson Fabianh Lopes Campelo
-    INTERESSADO: Gustavo Costa e Silva
-    PROCEDENCIA: Câmara Municipal de Parnaiba
-    
-    
-    
-    
-                                      Consulta formulada ao Tribunal de Contas do
-                                      Estado do Piauí pelo Presidente da Câmara
-                                      Municipal de Parnaíba, Dr. Gustavo Costa e
-                                      Silva. Posicionamento desta Corte de Contas
-                                      sobre a interpretação de dispositivos da Lei
-                                      Complementar Municipal n° 3.74812008,
-                                      especificamente quanto ao parágrafo único do
-                                      art. 34. Decisão Unânime.
-    
-    
-    
-                     O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ, examinando o
-    processo TC-E n° 2.800/11 referente à consulta formulada pelo Presidente da Câmara
-    Municipal de Parnaíba, Dr. Gustavo Costa e Silva, pretendendo obter o
-    posicionamento desta Corte de Contas sobre a possibilidade das receitas provenientes
-    da Contribuição de Intervenção do Domínio Econômico - CIDE - comporem a base de
-    cálculo para efeito de repasse ao Poder Legislativo Municipal.
-    
-    
-                     Vistos, relatados e discutidos os presentes autos, decidiu o Plenário,
-     unânime, de acordo com a manifestação do Ministério Público de Contas, às fis. 14/15,
-     conhecer da presente consulta, para respondê-la, nos termos do parecer do
-     Ministério Público de Contas, como manifestação que materializa o posicionamento
-     desta Corte de Contas em resposta à consulta formulada, no sentido da possibilidade,
-     posto que, ao se fazer uma comparação entre a base de cálculo de repasse à Câmara
-     e o produto de arrecadação da CIDE que cabem ao município, constata-se que parte
-     dos recursos arrecadados a título de Contribuição de Intervenção do Domínio
-     Econômico que incide sobre as atividades de importação ou comercialização de
-     petróleo e seus derivados, gás natural e seus derivados, e álcool combustível são
-     receitas oriundas de transferências que a própria Constituição determina, podendo
-     compor a base de cálculo para o limite de despesa do Poder Legislativo, nos termos
-     do voto do Relator, às fls. 20/22.
-    
+[Brasão do Estado do Piauí.]
+
+[Marcas de digitalização na margem superior; sem texto seguro.]
+
+**ESTADO DO PIAUÍ**
+**TRIBUNAL DE CONTAS**
+
+
+ACÓRDÃO Nº 1.933/11
+
+PROCESSO TC-E N° 2.800/11
+DECISÃO Nº580/11
+SESSÃO PLENÁRIA ORDINÁRIA N° 32
+RELATOR: Cons.Substituto Jaylson Fabianh Lopes Campelo
+INTERESSADO: Gustavo Costa e Silva
+PROCEDÊNCIA: Câmara Municipal de Parnaíba
+
+
+
+
+**Consulta formulada ao Tribunal de Contas do
+Estado do Piauí pelo Presidente da Câmara
+Municipal de Parnaíba, Dr. Gustavo Costa e
+Silva. Posicionamento desta Corte de Contas
+sobre a interpretação de dispositivos da Lei
+Complementar Municipal nº 3.748/2008,
+especificamente quanto ao parágrafo único do
+art. 34. Decisão Unânime.**
+
+
+
+**O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ**, examinando o
+processo TC-E n° 2.800/11 referente à consulta formulada pelo Presidente da Câmara
+Municipal de Parnaíba, Dr. Gustavo Costa e Silva, pretendendo obter o
+posicionamento desta Corte de Contas sobre a possibilidade das receitas provenientes
+da Contribuição de Intervenção do Domínio Econômico – CIDE – comporem a base de
+cálculo para efeito de repasse ao Poder Legislativo Municipal.
+
+
+Vistos, relatados e discutidos os presentes autos, decidiu o Plenário,
+unânime, de acordo com a manifestação do Ministério Público de Contas, às fls. 14/15,
+**conhecer** da presente consulta, para **respondê-la**, nos termos do parecer do
+Ministério Público de Contas, como manifestação que materializa o posicionamento
+desta Corte de Contas em resposta à consulta formulada, no sentido da possibilidade,
+posto que, ao se fazer uma comparação entre a base de cálculo de repasse à Câmara
+e o produto de arrecadação da CIDE que cabem ao município, constata-se que parte
+dos recursos arrecadados a título de Contribuição de Intervenção do Domínio
+Econômico que incide sobre as atividades de importação ou comercialização de
+petróleo e seus derivados, gás natural e seus derivados, e álcool combustível são
+receitas oriundas de transferências que a própria Constituição determina, podendo
+compor a base de cálculo para o limite de despesa do Poder Legislativo, nos termos
+do voto do Relator, às fls. 20/22.
 
 #### Página 2 do PDF oficial
 
-    :
-    
-    
-    
-    
-          \)í.)
-    
-    
-    
-    
-                      ESTADO DO PIAUÍ
-                      TRIBUNAL DE CONTAS
-    
-                                         ACÓRDÃO N° 1.933111
-    
-                         Encaminhar ao Consutente, Presidente da Câmara Municipal de
-        Parnaíba, Dr. Gustavo Costa e Silva, cópias autênticas do referido Parecer do
-        Ministério Público de Contas e do Acórdão desta Corte de Contas.
-    
-                         Presentes os Conselheiros Joaquim Kennedy Nogueira Barros
-        (Presidente),Olavo Rebêlo de Carvalho Filho, e os Conselheiros Substitutos Jaylson
-        Fabianh Lopes Campelo convocado para substituir o Cons. Anfrísio Neto Lobão
-        Castelo Branco (ausente por motivo justificado), Jackson Nobre Veras convocado para
-        substituir a Cons. 8 Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de
-        férias) e Alisson Felipe de Araújo, convocado para substituir o Cons. Abelardo Pio
-        Vilanova e Silva (em gozo de férias).
-    
-                        Representante do MP de Contas presentè: Procurador Leandro
-        Maciel do Nascimento.
-    
-        Publique-se, Cumpra-se e Encaminhe-se.
-    
-        Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina,
-        07 de abril de 2011.
-    
-    
-    
-        Cons. Joaquim Kennedy Nogueira Barros                                    Presidente
-    
-    
-    
-         Cons.Subs.Jaylson Fabianh Lopes Campelo                                     Relator
-    
-    
-         Representante do MPC: Leandro Maciel do Nascimento                      Procurador
+[Brasão do Estado do Piauí.]
+
+[Marcas de digitalização na margem superior; sem texto seguro.]
+
+
+
+
+**ESTADO DO PIAUÍ**
+**TRIBUNAL DE CONTAS**
+
+ACÓRDÃO Nº 1.933/11
+
+Encaminhar ao Consulente, Presidente da Câmara Municipal de
+Parnaíba, Dr. Gustavo Costa e Silva, cópias autênticas do referido Parecer do
+Ministério Público de Contas e do Acórdão desta Corte de Contas.
+
+**Presentes os Conselheiros** Joaquim Kennedy Nogueira Barros
+(Presidente),Olavo Rebêlo de Carvalho Filho, e os Conselheiros Substitutos Jaylson
+Fabianh Lopes Campelo convocado para substituir o Cons. Anfrísio Neto Lobão
+Castelo Branco (ausente por motivo justificado), Jackson Nobre Veras convocado para
+substituir a Cons.ª Waltânia Maria Nogueira de Sousa Leal Alvarenga (em gozo de
+férias) e Alisson Felipe de Araújo, convocado para substituir o Cons. Abelardo Pio
+Vilanova e Silva (em gozo de férias).
+
+**Representante do MP de Contas presente:** Procurador Leandro
+Maciel do Nascimento.
+
+Publique-se, Cumpra-se e Encaminhe-se.
+
+Sala das Sessões do Plenário do Tribunal de Contas do Estado do Piauí, em Teresina,
+07 de abril de 2011.
+
+
+
+**Cons. Joaquim Kennedy Nogueira Barros**                                    Presidente
+
+
+
+**Cons.Subs.Jaylson Fabianh Lopes Campelo**                                     Relator
+
+
+**Representante do MPC: Leandro Maciel do Nascimento**                      Procurador
+
 
 ## Ementa
 
 [Acórdão nº 1.933/11](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Ac%C3%B3rd%C3%A3o-21.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next009: vinte recortes no lote, com transcrição/cotejo Sol e revisão independente integral Astra. Documento 1, físicas 1–2: corpo e fecho cotejados; dois traços longos restituídos na ementa. Não se reconstruíram sinais e inscrições degradadas. A apresentação não é fac-símile; microinscrições dos emblemas não integralmente legíveis não foram reconstruídas. Nomes funcionais e códigos documentais preservados; nenhum identificador pessoal numérico publicado neste lote. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.

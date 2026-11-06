@@ -325,185 +325,185 @@ Relatado, opina-se.
 
 #### Página 2 do PDF oficial
 
-                                                                                         Proc. nº TC- 2438/13        _
-    
-    
-    
-    
-                           Estado do Piauí
-                           Tribunal de Contas
-                           Ministério Público de Contas
-    Proc. TC- nº 2438/13
-    
-    
-    2 FUNDAMENTAÇÃO
-    
-    
-            1. Possibilidade de a Câmara Municipal incluir as obrigações patronais decorrentes do
-                pagamento dos subsídios dos vereadores no limite de 70% (art. 29-A, § 1º, da CF).
-    
-                    Embora fuja ao efetivo controle das despesas com pessoal do poder legislativo
-    municipal, deve-se reconhecer que a Constituição Federal utiliza a expressão “folha de pagamento”,
-    ao tratar do limite previsto no art. 29-A, § 1º, conforme abaixo transcrito:
-    
-                           Art. 29-A (...)
-                           (...)
-                                   o
-                           § 1 A Câmara Municipal não gastará mais de setenta por cento de sua receita com
-                           FOLHA DE PAGAMENTO, incluído o gasto com o subsídio de seus Vereadores.
-    
-    
-                    Quando se refere ao custo total dos agentes que trabalham para o poder legislativo, a
-    Constituição utiliza a expressão “total da despesa com remuneração” (art. 29, VII) ou se refere ao
-    “total da despesa do Poder Legislativo Municipal” (art. 29-A, caput).
-    
-                           Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício
-                           mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a
-                           promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do
-                           respectivo Estado e os seguintes preceitos:
-                           (...)
-                           VII - o TOTAL DA DESPESA COM A REMUNERAÇÃO dos Vereadores não poderá
-                           ultrapassar o montante de cinco por cento da receita do Município;
-    
-    
-                           Art. 29-A. O TOTAL DA DESPESA DO PODER LEGISLATIVO MUNICIPAL, incluídos os
-                           subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar os
-                           seguintes percentuais, relativos ao somatório da receita tributária e das transferências
-                                             o
-                           previstas no § 5 do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício
-                           anterior:
-    
-    
-                    Em suma, sem maiores delongas, conforme já noticiado na manifestação técnica, o
-    Tribunal de Contas do Estado do Piauí, respondendo a consulta anterior, já tem entendimento sobre a
-    matéria, através da Res. nº 1.054/2005, segundo a qual:
-    
-    
-                           “1) para os efeitos do limite estabelecido no art.29-A, §1º da CF/88, com redação dada pela
-                           Emenda Constitucional nº 25/00, não se deve computar na folha de pagamento as
-                           despesas com o pagamento de contribuições previdenciárias patronais; 2) Na folha de
-    
+[Brasão do Estado do Piauí à esquerda; emblema do Ministério Público de Contas do Piauí à direita; legenda miúda do emblema: [leitura insegura].]
+
+*Proc. nº TC- 2438/13* _
+
+
+
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+*Proc. TC- nº 2438/13*
+
+
+**2 FUNDAMENTAÇÃO**
+
+
+**1. Possibilidade de a Câmara Municipal incluir as obrigações patronais decorrentes do
+pagamento dos subsídios dos vereadores no limite de 70% (art. 29-A, § 1º, da CF).**
+
+Embora fuja ao efetivo controle das despesas com pessoal do poder legislativo
+municipal, deve-se reconhecer que a Constituição Federal utiliza a expressão “folha de pagamento”,
+ao tratar do limite previsto no art. 29-A, § 1º, conforme abaixo transcrito:
+
+<em>Art. 29-A (...)
+(...)
+§ 1º A Câmara Municipal não gastará mais de </em><u><strong>setenta por cento</strong></u><em> de sua receita com
+</em><u><strong>FOLHA DE PAGAMENTO</strong></u><em>, incluído o gasto com o subsídio de seus Vereadores.</em>
+
+
+Quando se refere ao custo total dos agentes que trabalham para o poder legislativo, a
+Constituição utiliza a expressão **“total da despesa com remuneração”** (art. 29, VII) ou se refere ao
+**“total da despesa do Poder Legislativo Municipal”** (art. 29-A, caput).
+
+<em>Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício
+mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a
+promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do
+respectivo Estado e os seguintes preceitos:
+(...)
+VII - o </em><u><strong>TOTAL DA DESPESA COM A REMUNERAÇÃO</strong></u><em> dos Vereadores não poderá
+ultrapassar o montante de cinco por cento da receita do Município;</em>
+
+
+*Art. 29-A. O <u>**TOTAL DA DESPESA DO PODER LEGISLATIVO MUNICIPAL**</u>, incluídos os
+subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar os
+seguintes percentuais, relativos ao somatório da receita tributária e das transferências
+previstas no § 5º do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício
+anterior:*
+
+
+Em suma, sem maiores delongas, conforme já noticiado na manifestação técnica, o
+Tribunal de Contas do Estado do Piauí, respondendo a consulta anterior, já tem entendimento sobre a
+matéria, através da Res. nº 1.054/2005, segundo a qual:
+
+
+*“1) para os efeitos do limite estabelecido no art.29-A, §1º da CF/88, com redação dada pela
+Emenda Constitucional nº 25/00, não se deve computar na folha de pagamento as
+despesas com o pagamento de contribuições previdenciárias patronais; 2) Na folha de*
 
 #### Página 3 do PDF oficial
 
-                                                                                         Proc. nº TC- 2438/13        _
-    
-    
-    
-    
-                           Estado do Piauí
-                           Tribunal de Contas
-                           Ministério Público de Contas
-    Proc. TC- nº 2438/13
-    
-    
-                           pagamento estão incluídas as despesas com pessoal, excluídas as despesas com inativos,
-                           pensionistas e encargos sociais patronais (FGTS, previdência e outros); 3) Os conceitos de
-                           “folha de pagamento” de que trata o art. 29 – A, §1º da CF/88 e de “despesa total com
-                           pessoal” de que trata o art. 18 da LRF não são sinônimos. São distintos. A segunda é mais
-                           ampla que a primeira, pois inclui, ainda as contribuições previdenciárias, encargos sociais
-                           patronais e despesas com inativos e pensionistas [...]”.
-    
-                    No entendimento do MP de Contas, tal solução não é a mais eficaz para o controle dos
-    gastos de pessoal do poder legislativo municipal. Explica-se: ao se “jogar” os encargos e tributos
-    incidentes sobre a folha de pagamento nos 30% que restam do duodécimo, inviabiliza-se o
-    cumprimento das demais despesas de custeio e investimento das Câmaras Municipais. Não é à toa
-    que a imensa maioria de municípios e suas respectivas Câmaras estão imersas em débitos
-    impagáveis de custeio e não conseguem investir.
-    
-                    Em verdade, os “encargos patronais” são despesas obrigatórias e inerentes à folha
-    de pagamento (ou seja, não existe folha de pagamento sem a contrapartida do responsável pelo
-    pagamento!) e deveriam fazer parte do seu conceito.
-    
-                    Contudo, como não existem palavras inúteis na Constituição, tem-se a impressão que a
-    Constituição faz essa distinção, pois utiliza conceitos abrangente (“despesa total”) e restrito (“folha de
-    pagamento”) para tratar de tal realidade. Em suma, a inclusão de tais encargos no limite do art. 29-A,
-    § 1º, demandaria (a princípio) alteração por emenda constitucional.
-    
-                    Nesse sentido, mesmo com tais observações, o MP de Contas adere ao precedente do
-    TCE-PI, exposto na Res. 1.054/2005, o qual exclui tais encargos sobre a folha do limite imposto pelo
-    art. 29-A, § 1º, da CF.
-    
-    
-    
-            2. Possibilidade de os atuais vereadores modificarem dispositivo legal para excluir as
-                obrigações patronais do limite imposto pelo art. 29-A, § 1º, da CF, mantendo, porém,
-                os mesmos valores fixados para os subsídios:
-    
-    
-                    A dificuldade de interpretação da Câmara Municipal decorre do fato de a legislação local
-    vincular o limite de 70% às despesas com pessoal, ao invés de fazê-la em relação à folha de
-    pagamento.
-    
-                    Como é sabido, a fixação do limite de gasto com pessoal é feita pela Lei de
-    Responsabilidade Fiscal, não cabendo ao Poder Legislativo Municipal fixar limite diverso, quiçá deixar
-    tal disposição nas mãos do gestor municipal.
-    
+[Brasão do Estado do Piauí à esquerda e emblema do Ministério Público de Contas do Piauí à direita.]
+
+*Proc. nº TC- 2438/13* _
+
+
+
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+*Proc. TC- nº 2438/13*
+
+
+*pagamento estão incluídas as despesas com pessoal, excluídas as despesas com inativos,
+pensionistas e encargos sociais patronais (FGTS, previdência e outros); 3) Os conceitos de
+“folha de pagamento” de que trata o art. 29 – A, §1º da CF/88 e de “despesa total com
+pessoal” de que trata o art. 18 da LRF não são sinônimos. São distintos. A segunda é mais
+ampla que a primeira, pois inclui, ainda as contribuições previdenciárias, encargos sociais
+patronais e despesas com inativos e pensionistas [...]”.*
+
+No entendimento do MP de Contas, tal solução não é a mais eficaz para o controle dos
+gastos de pessoal do poder legislativo municipal. Explica-se: ao se “jogar” os encargos e tributos
+incidentes sobre a folha de pagamento nos 30% que restam do duodécimo, inviabiliza-se o
+cumprimento das demais despesas de custeio e investimento das Câmaras Municipais. Não é à toa
+que a imensa maioria de municípios e suas respectivas Câmaras estão imersas em débitos
+impagáveis de custeio e não conseguem investir.
+
+Em verdade, os “encargos patronais” são **despesas obrigatórias e inerentes à folha
+de pagamento** (ou seja, não existe folha de pagamento sem a contrapartida do responsável pelo
+pagamento!) **e deveriam fazer parte do seu conceito.**
+
+Contudo, como não existem palavras inúteis na Constituição, tem-se a impressão que a
+Constituição faz essa distinção, pois utiliza conceitos abrangente (“despesa total”) e restrito (“folha de
+pagamento”) para tratar de tal realidade. Em suma, a inclusão de tais encargos no limite do art. 29-A,
+§ 1º, demandaria (a princípio) alteração por emenda constitucional.
+
+Nesse sentido, mesmo com tais observações, o MP de Contas adere ao precedente do
+TCE-PI, exposto na Res. 1.054/2005, o qual exclui tais encargos sobre a folha do limite imposto pelo
+art. 29-A, § 1º, da CF.
+
+
+
+**2. Possibilidade de os atuais vereadores modificarem dispositivo legal para excluir as
+obrigações patronais do limite imposto pelo art. 29-A, § 1º, da CF, mantendo, porém,
+os mesmos valores fixados para os subsídios:**
+
+
+A dificuldade de interpretação da Câmara Municipal decorre do fato de a legislação local
+vincular o limite de 70% às despesas com pessoal, ao invés de fazê-la em relação à folha de
+pagamento.
+
+Como é sabido, a fixação do limite de gasto com pessoal é feita pela Lei de
+Responsabilidade Fiscal, não cabendo ao Poder Legislativo Municipal fixar limite diverso, quiçá deixar
+tal disposição nas mãos do gestor municipal.
 
 #### Página 4 do PDF oficial
 
-                                                                                    Proc. nº TC- 2438/13   _
-    
-    
-    
-    
-                           Estado do Piauí
-                           Tribunal de Contas
-                           Ministério Público de Contas
-    Proc. TC- nº 2438/13
-    
-    
-                    Assim, independentemente da fixação pela legislação local sobre a despesa com
-    pessoal, na aferição do percentual gasto com folha de pagamento sempre se terá o teto de 70%
-    como parâmetro.
-    
-    
-    
-    
-            3. Possibilidade de os atuais vereadores contrariarem a Constituição Federal e/ou
-                legislarem em causa própria em caso de alteração da legislação local:
-    
-    
-                    Conforme disposição constitucional, o subsídio dos vereadores deverá ser fixado em
-    cada legislatura para a subseqüente.
-    
-                    Aos vereadores é reservada apenas a possibilidade de edição de norma reajustando o
-    valor de seus subsídios, desde que adotado índice oficial que se limite a compensar a perda
-    decorrente da inflação.
-    
-                    Assim, a fixação e/ou alteração dos subsídios dos vereadores para vigerem na mesma
-    legislatura, além de configurar ato de legislar em causa própria, é flagrantemente inconstitucional, por
-    violar o art. 29, VI, da Constituição da República Federativa do Brasil.
-    
-    
-    
-    
-    3 CONCLUSÃO
-    
-                    Assim, ante o exposto, opina o Ministério Público de Contas no sentido que os
-    questionamentos sejam respondidos conforme os precedentes do Tribunal de Contas do Estado do
-    Piauí sobre a matéria, especialmente a Res. nº 1.054/2005, conforme exposto na manifestação do
-    órgão técnico desta Corte.
-    
-    
-                    É o parecer.
-    
-    
-    
-                                         Teresina, 13 de agosto de 2013.
-    
-    
-    
-    
-                                    LEANDRO MACIEL DO NASCIMENTO
-                                    Procurador do Ministério Público de Contas-PI
-    
+[Brasão do Estado do Piauí à esquerda e emblema do Ministério Público de Contas do Piauí à direita.]
+
+*Proc. nº TC- 2438/13* _
+
+
+
+
+Estado do Piauí
+Tribunal de Contas
+Ministério Público de Contas
+*Proc. TC- nº 2438/13*
+
+
+Assim, independentemente da fixação pela legislação local sobre a despesa com
+pessoal, na aferição do percentual gasto com folha de pagamento sempre se terá o teto de 70%
+como parâmetro.
+
+
+
+
+**3. Possibilidade de os atuais vereadores contrariarem a Constituição Federal e/ou
+legislarem em causa própria em caso de alteração da legislação local:**
+
+
+Conforme disposição constitucional, o subsídio dos vereadores deverá ser fixado em
+cada legislatura para a subseqüente.
+
+Aos vereadores é reservada apenas a possibilidade de edição de norma reajustando o
+valor de seus subsídios, desde que adotado índice oficial que se limite a compensar a perda
+decorrente da inflação.
+
+Assim, a fixação e/ou alteração dos subsídios dos vereadores para vigerem na mesma
+legislatura, além de configurar ato de legislar em causa própria, é flagrantemente inconstitucional, por
+violar o art. 29, VI, da Constituição da República Federativa do Brasil.
+
+
+
+
+**3 CONCLUSÃO**
+
+Assim, ante o exposto, opina o Ministério Público de Contas no sentido que os
+questionamentos sejam respondidos conforme os precedentes do Tribunal de Contas do Estado do
+Piauí sobre a matéria, especialmente a Res. nº 1.054/2005, conforme exposto na manifestação do
+órgão técnico desta Corte.
+
+
+É o parecer.
+
+
+
+Teresina, 13 de agosto de 2013.
+
+
+
+
+**LEANDRO MACIEL DO NASCIMENTO**
+Procurador do Ministério Público de Contas-PI
 
 #### Página 5 do PDF oficial
 
-    Assinado Digitalmente pelo sistema e-TCE
-    LEANDRO MACIEL DO NASCIMENTO
-    
+*Assinado Digitalmente pelo sistema e-TCE*
+**LEANDRO MACIEL DO NASCIMENTO**
 
 ### Documento vinculado pela fonte
 
@@ -754,3 +754,5 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
 
 Cotejo adicional — next008: transcrição/cotejo visual Sol e revisão independente integral Astra dos recortes indicados. Documento 3, somente página 1 de cinco: Parecer 2013LC0007, TC 2438/13. As outras quatro páginas não foram cotejadas nesta atribuição; não se certificam fecho ou completude do parecer. A apresentação em Markdown não é fac-símile; microinscrições heráldicas, assinatura, QR e autenticidade não foram certificados. Identificadores pessoais ocultos; códigos documentais e nomes funcionais preservados. Os vínculos de contexto do portal não substituem a identidade impressa. Ressalvas anteriores permanecem.
+
+Cotejo adicional — next009: vinte recortes no lote, com transcrição/cotejo Sol e revisão independente integral Astra. Documento 3, físicas 2–5: fundamentação e fecho do Parecer 2013LC0007, TC 2438/13, nas físicas 2–4. A física 5 só traz inscrição e-TCE e nome funcional; não tem processo, assunto ou data próprios, e sua pertinência não está comprovada autonomamente. A associação é apenas a do arquivo vinculado pelo portal, sem inferir autenticação ou que valide o parecer. O escopo parcial da nota next008 diz respeito àquela atribuição anterior; este lote completa o cotejo das quatro físicas restantes. A apresentação não é fac-símile; microinscrições dos emblemas não integralmente legíveis não foram reconstruídas. Nomes funcionais e códigos documentais preservados; nenhum identificador pessoal numérico publicado neste lote. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
