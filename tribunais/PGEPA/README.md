@@ -1,10 +1,10 @@
 # PGEPA
 
-Procuradoria-Geral do Estado do Pará. **38 fichas** de Pareceres Referenciais no acervo e inventário parcial de **50 PDFs**. A contagem de fichas não certifica seus corpos. Nesta etapa, o nº 000004/2020 recebeu 17 páginas de transcrição visual integral aprovada por revisão independente.
+Procuradoria-Geral do Estado do Pará. **39 fichas** de Pareceres Referenciais no acervo e inventário parcial de **50 PDFs**. A contagem de fichas não certifica seus corpos. Nesta etapa, o nº 000004/2020 recebeu 17 páginas de transcrição visual integral aprovada por revisão independente.
 
 | Espécie | Fichas no acervo | Inventariados (PDF) |
 | --- | ---: | ---: |
-| [Parecer Referencial](parecer-referencial/) | 38 | 50 |
+| [Parecer Referencial](parecer-referencial/) | 39 | 50 |
 
 Fonte: [Pareceres Referenciais — PGE/PA](https://www.pge.pa.gov.br/publicacoes/pareceres-referenciais). O catálogo traz notas explícitas de superação/revisão (ex.: 13/2024 supera 10/2019 e a cadeia 7/2021–6/2023). Identidades e versões foram preservadas no inventário; a leitura visual integral do inventário permanece pendente, salvo os recortes documentados nas fichas. Não se infere vigência, vinculação ou completude.
 
@@ -44,3 +44,5 @@ O lote17 incorporou 27 páginas de 000010/2024 após cotejo independente integra
 [000012/2024 — Termo de Ajustamento Disciplinar](parecer-referencial/pgepa-parecer-ref-000012-2024.md): 28 páginas cotejadas integralmente por Astra, com parecer (1–26), ratificação (27) e despacho de aprovação (28) separados. Texto herdado substituído pelos candidatos revisados; quadros em duas colunas, variantes e marcas ilegíveis preservados. Sem novo ID. Recortes integrados: 26 PDFs/465 páginas; restam 24 PDFs/958 páginas do inventário e lacunas locais. #261 aberta.
 
 [010/2019 — abandono de cargo](parecer-referencial/pgepa-parecer-ref-000010-2019.md): 28 páginas incorporadas após cotejo integral independente, nove ajustes aplicados e passagem 20/21 conferida. Processo e interessados corrigidos pelo impresso; marca diagonal 000007/2021 preservada sem inferir efeito. Parecer (1–26) e despachos (27–28) separados; nota 6 truncada sem reconstrução. Mesmo ID. Recortes integrados: 27 PDFs/493 páginas; restam 23 PDFs/930 páginas do inventário e lacunas locais. #261 aberta.
+
+[000001/2025 — instrumentos de cooperação](parecer-referencial/pgepa-parecer-ref-000001-2025.md): 29 páginas cotejadas integralmente por Astra, com dois ajustes de sublinhado aplicados e passagem 20/21 conferida. Parecer (1–27), ratificação (28) e despacho do Gabinete (29) separados; marcas ilegíveis preservadas. Um novo ID. Recortes integrados: 28 PDFs/522 páginas; restam 22 PDFs/901 páginas e lacunas locais. #261 aberta.

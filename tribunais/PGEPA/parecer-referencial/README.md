@@ -2,7 +2,7 @@
 
 Inventário do [catálogo oficial de Pareceres Referenciais da PGE/PA](https://www.pge.pa.gov.br/publicacoes/pareceres-referenciais) em 04/11/2026. **50 PDFs** capturados em duplicata com SHA-256 coincidente (HTTP 200). As duas capturas HTML do catálogo são idênticas: 63117 bytes, SHA-256 `077e7c6463675d14b30917e615b6e669980ebda2ccc3e0492e401ba03d9ec9ca`.
 
-**38 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
+**39 fichas no acervo; esta etapa acrescenta o inteiro teor do [000004/2020](pgepa-parecer-ref-000004-2020.md)**, com 17 páginas cotejadas integralmente por imagem e revisão independente. As 1.423 páginas do inventário não estão integralmente transcritas e certificadas. Notas de superação/revisão abaixo reproduzem o rótulo do catálogo HTML e **não** certificam vigência atual.
 
 | Nº (rótulo catálogo) | Arquivo | Páginas | Bytes | SHA-256 | Nota no catálogo |
 | --- | --- | ---: | ---: | --- | --- |
@@ -124,3 +124,5 @@ O lote17 incorporou 27 páginas de 000010/2024 após cotejo independente integra
 [000012/2024 — Termo de Ajustamento Disciplinar](pgepa-parecer-ref-000012-2024.md): 28 páginas cotejadas integralmente por Astra, com parecer (1–26), ratificação (27) e despacho de aprovação (28) separados. Texto herdado substituído pelos candidatos revisados; quadros em duas colunas, variantes e marcas ilegíveis preservados. Sem novo ID. Recortes integrados: 26 PDFs/465 páginas; restam 24 PDFs/958 páginas do inventário e lacunas locais. #261 aberta.
 
 [010/2019 — abandono de cargo](pgepa-parecer-ref-000010-2019.md): 28 páginas incorporadas após cotejo integral independente, nove ajustes aplicados e passagem 20/21 conferida. Processo e interessados corrigidos pelo impresso; marca diagonal 000007/2021 preservada sem inferir efeito. Parecer (1–26) e despachos (27–28) separados; nota 6 truncada sem reconstrução. Mesmo ID. Recortes integrados: 27 PDFs/493 páginas; restam 23 PDFs/930 páginas do inventário e lacunas locais. #261 aberta.
+
+[000001/2025 — instrumentos de cooperação](pgepa-parecer-ref-000001-2025.md): 29 páginas cotejadas integralmente por Astra, com dois ajustes de sublinhado aplicados e passagem 20/21 conferida. Parecer (1–27), ratificação (28) e despacho do Gabinete (29) separados; marcas ilegíveis preservadas. Um novo ID. Recortes integrados: 28 PDFs/522 páginas; restam 22 PDFs/901 páginas e lacunas locais. #261 aberta.
