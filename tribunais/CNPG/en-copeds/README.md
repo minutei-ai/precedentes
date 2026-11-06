@@ -45,3 +45,5 @@ COPEDS é separada de COPEVID, GNDH 01/2018 e GNCCRIM. As demais séries, notas 
 | 25 | [cnpg-en-copeds-25](cnpg-en-copeds-25.md) |
 
 O [testemunho institucional histórico do MPPR](https://site.mppr.mp.br/saude/Pagina/Enunciados-COPEDS-GNDH-CNPG), capturado em 04/11/2026, contém no painel de 2012 o bloco “Atuação do Ministério Público em Prol da Integralidade (Março, 2012)”. Seus números 1–10 correspondem textualmente às fichas 16–25, nas quais os parágrafos foram preservados como testemunho separado, sem criar IDs. O nº 8 traz “abertura” na alínea f; a reprodução EJEF/TJMG do nº 23 traz “cobertura”. Em outro bloco do MPPR, o nº 25 termina em “nos exercícios”, sem continuação capturada. A abertura atual da página retornou 403 na revisão de 06/11/2026; a captura histórica não confirma o conteúdo atual, autenticidade, vigência ou completude.
+
+Os [painéis MPPR de 2022 e 2023](mppr-2022-2023.md) são preservados como apoio documental separado, sem alteração da contagem da série EJEF/TJMG.
