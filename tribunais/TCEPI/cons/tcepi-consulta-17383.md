@@ -255,8 +255,8 @@ Relator
 
 
 
-[Rodapé ocultado preventivamente por conter identificador pessoal; conteúdo não transcrito nem completado pelo contexto.]
-[Número de página sob máscara; página física 3 segundo o mapa.]
+Assinado Digitalmente pelo sistema e-TCE -ABELARDO PIO VILANOVA E SILVA: [identificador pessoal oculto] - 16/02/2018 10:54:55
+3
 
 
 ## Ementa
@@ -267,4 +267,4 @@ Relator
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
 
-Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 2, físicas 1–3: corpo e legendas funcionais conferidos; rodapé da física 3 sob máscara preventiva, sem confirmação literal. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
+Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 2, físicas 1–3: corpo e legendas funcionais conferidos; rodapé da física 3 reconferido posteriormente com máscaras restritas aos dígitos pessoais, incluindo texto funcional, horário e paginação 3. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.

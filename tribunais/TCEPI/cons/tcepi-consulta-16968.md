@@ -110,7 +110,7 @@ Conselheiro Joaquim Kennedy Nogueira Barros                               Relato
 
 
 
-[Rodapé ocultado preventivamente por conter identificador pessoal; conteúdo não transcrito nem completado pelo contexto.]
+Assinado Digitalmente pelo sistema e-TCE -JOAQUIM KENNEDY NOGUEIRA BARROS: [identificador pessoal oculto] - 02/10/2017 12:25:05
 
 
 ## Ementa
@@ -119,4 +119,4 @@ Conselheiro Joaquim Kennedy Nogueira Barros                               Relato
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
 
-Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 1, físicas 1–2: corpo, deliberação e presenças conferidos no visível. O rodapé da física 2 permaneceu mascarado e sem confirmação literal. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
+Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 1, físicas 1–2: corpo, deliberação e presenças conferidos no visível. O rodapé da física 2 foi conferido na rechecagem posterior com máscaras restritas aos dígitos pessoais; texto funcional e horário ficaram legíveis. Nenhum número de paginação foi acrescentado. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.

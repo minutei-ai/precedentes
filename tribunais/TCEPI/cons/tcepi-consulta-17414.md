@@ -464,9 +464,9 @@ Relatora
 
 
 
-[Faixa eletrônica ocultada por máscara preventiva; conteúdo não confirmado nesta revisão.]
+Assinado Digitalmente pelo sistema e-TCE -WALTANIA MARIA NOGUEIRA DE SOUSA LEAL ALVARENGA: [identificador pessoal oculto] - 30/01/2018 0[limite editorial: caractere seguinte cortado pela borda direita; horário integral não confirmado.]
 
-[Paginação parcialmente coberta pela máscara; algarismo integral não confirmado.]
+7
 _________________________________________________________________
 Consulta – Associação dos Municípios do Médio Parnaíba.
 
@@ -481,4 +481,4 @@ Texto reproduzido de fonte oficial. Confira na origem a situação atual e as re
 
 Cotejo adicional — next009: vinte recortes no lote, com transcrição/cotejo Sol e revisão independente integral Astra. Documento 2, físicas 1–2: corpo, cabeçalhos e rodapés cotejados; preservadas as referências impressas da consulta e a delimitação do documento. A apresentação não é fac-símile; microinscrições dos emblemas não integralmente legíveis não foram reconstruídas. Nomes funcionais e códigos documentais preservados; nenhum identificador pessoal numérico publicado neste lote. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
 
-Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 2, físicas 3–7: continuação do voto sobre terceirização. Restaurado “trabalho temporário e à terceirização”. Na física 7, faixa eletrônica e parte da paginação estão cobertas por máscara preventiva e não foram confirmadas nesta revisão; a descrição mantém essa lacuna. As físicas 1–2 foram tratadas no lote next009, separadamente. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
+Cotejo adicional — next010: transcrição/cotejo visual Sol e revisão independente Astra. Documento 2, físicas 3–7: continuação do voto sobre terceirização. Restaurado “trabalho temporário e à terceirização”. Na física 7, a rechecagem posterior com máscaras restritas aos dígitos pessoais confirmou o texto funcional da faixa eletrônica e o número 7. O horário termina cortado após o 0 inicial; o restante não foi reconstruído. As físicas 1–2 foram tratadas no lote next009, separadamente. A confirmação se limita ao visível seguro; regiões mascaradas não foram lidas por camada oculta. Inscrições degradadas, códigos documentais, nomes funcionais e limites de contexto foram preservados. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
