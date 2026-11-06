@@ -122,103 +122,105 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                        Estado do Piauí
-                       Tribunal de Contas
-         rar
-                                                Gabinete Conselheira Waltânia Alvarenga
-                              PROCESSO Nº TC/010081/2017
-    
-    PROCESSO:                 TC/Nº 010081/2017
-    TIPO DE PROCESSO:         CONSULTA
-    INTERESSADO:              ASSOCIAÇÃO DOS MUNICÍPIOS DO MÉDIO PARNAÍBA -
-                              AMPAR
-    PROCURADOR:               JOSÉ ARAÚJO PINHEIRO JÚNIOR
-    RELATOR(A):               CONSª WALTÂNIA MARIA NOGUEIRA DE SOUSA L.
-                              ALVARENGA
-    
-    
-    1.         RELATÓRIO
-    
-              Versam os autos sobre consulta formulada ao Tribunal de Contas pelo Sr.
-    Luiz Gonzaga de Carvalho Júnior, na qualidade de Presidente da Associação dos
-    Municípios da Micro Região do Médio Parnaíba, solicitando posicionamento desta
-    Corte de Contas acerca da possibilidade de terceirização da atividade-fim nos
-    municípios piauienses em face da Lei nº 13.429/17.
-              De modo específico, o consulente indaga a esta Corte de Contas se pode
-    o município terceirizar dentre outras atividades, as de guarda municipal, de médico e
-    de professor.
-               Inicialmente, foi procedida à realização do juízo de admissibilidade pela
-    relatoria conforme dispõe o art. 328 do Regimento Interno, na qual se verificou o
-    preenchimento dos requisitos previstos no art. 201, concluindo-se pela legitimidade
-    da autoridade consulente, pertinência temática da matéria e instrução processual
-    com parecer jurídico e legislação aplicável ao caso (peça 03).
-              À peça nº 04, consta folha de informação da Comissão de Regimento e
-    Jurisprudência informando da inexistência de prejulgado ou decisão reiterada sobre
-    o tema.
-                A Diretoria de Fiscalização da Administração Municipal – DFAM instruiu o
-    processo a partir de análise do questionamento suscitado, admitindo a possibilidade
-    de terceirização de atividade-fim no serviço público, desde que respeitadas algumas
-    ressalvas. Nesse sentido, destaca a unidade técnica que, “conforme orienta a
-    jurisprudência pátria, atividades típicas de Estado não podem ser terceirizadas, salvo
-    quando se tratarem de atos de execução sem qualquer poder decisório” (peça nº
-    05).
-               Acrescenta, ainda, a DFAM, a existência de outras situações em que a
-    terceirização é vedada, quais sejam: as carreiras com assento constitucional em
-    virtude de uma escolha do constituinte originário, e a que se refere ao desempenho
-                                                                                         1
-    _________________________________________________________________
-    Consulta – Associação dos Municípios do Médio Parnaíba.
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/010081/2017**
+
+**PROCESSO:**                 TC/Nº 010081/2017
+**TIPO DE PROCESSO:**         CONSULTA
+**INTERESSADO:**              ASSOCIAÇÃO DOS MUNICÍPIOS DO MÉDIO PARNAÍBA -
+AMPAR
+**PROCURADOR:**               JOSÉ ARAÚJO PINHEIRO JÚNIOR
+**RELATOR(A):**               CONSª WALTÂNIA MARIA NOGUEIRA DE SOUSA L.
+ALVARENGA
+
+
+**1. RELATÓRIO**
+
+Versam os autos sobre consulta formulada ao Tribunal de Contas pelo Sr.
+Luiz Gonzaga de Carvalho Júnior, na qualidade de Presidente da Associação dos
+Municípios da Micro Região do Médio Parnaíba, solicitando posicionamento desta
+Corte de Contas acerca da possibilidade de terceirização da atividade-fim nos
+municípios piauienses em face da Lei nº 13.429/17.
+De modo específico, o consulente indaga a esta Corte de Contas se pode
+o município terceirizar dentre outras atividades, as de guarda municipal, de médico e
+de professor.
+Inicialmente, foi procedida à realização do juízo de admissibilidade pela
+relatoria conforme dispõe o art. 328 do Regimento Interno, na qual se verificou o
+preenchimento dos requisitos previstos no art. 201, concluindo-se pela legitimidade
+da autoridade consulente, pertinência temática da matéria e instrução processual
+com parecer jurídico e legislação aplicável ao caso (peça 03).
+À peça nº 04, consta folha de informação da Comissão de Regimento e
+Jurisprudência informando da inexistência de prejulgado ou decisão reiterada sobre
+o tema.
+A Diretoria de Fiscalização da Administração Municipal – DFAM instruiu o
+processo a partir de análise do questionamento suscitado, admitindo a possibilidade
+de terceirização de atividade-fim no serviço público, desde que respeitadas algumas
+ressalvas. Nesse sentido, destaca a unidade técnica que, “conforme orienta a
+jurisprudência pátria, atividades típicas de Estado não podem ser terceirizadas, salvo
+quando se tratarem de atos de execução sem qualquer poder decisório” (peça nº
+05).
+Acrescenta, ainda, a DFAM, a existência de outras situações em que a
+terceirização é vedada, quais sejam: as carreiras com assento constitucional em
+virtude de uma escolha do constituinte originário, e a que se refere ao desempenho
+1
+_________________________________________________________________
+Consulta – Associação dos Municípios do Médio Parnaíba.
 
 #### Página 2 do PDF oficial
 
-                         Estado do Piauí
-                        Tribunal de Contas
-      rar
-                                                  Gabinete Conselheira Waltânia Alvarenga
-                               PROCESSO Nº TC/010081/2017
-    
-    de atividades exercidas por servidores do quadro efetivo, conforme prevista no Plano
-    de Carreiras, Cargos e Salários.
-                O Ministério Público de Contas manifestou-se nos autos, por meio do
-    parecer de peça nº 08, de lavra do Procurador José Araújo Pinheiro Júnior, com
-    posicionamento divergente, em relação ao parecer jurídico da consulente e à análise
-    apresentada pela Diretoria Técnica. Segundo entendimento ministerial, a Lei nº
-    13.429/2017 tem aplicação limitada ao Direito do Trabalho, cuja legislação, no
-    âmbito da Administração Pública é restrita às Pessoas Jurídicas de Direito Privado
-    por ela criadas. Acrescenta, ainda:
-    
-                     A nosso ver, tanto a empresa tomadora de serviços temporários como a
-                     prestadora de serviços devem ter suas relações com os respectivos
-                     empregados regidos pelo Direito do Trabalho, cuja competência para
-                     legislar é privativa da União (CF, art. 22, I), ao passo que os agentes
-                     públicos são disciplinados por normas de Direito Administrativo, cuja
-                     competência legislativa é comum aos entes federativos.
-               Por fim, o parecer ministerial conclui na forma a seguir:
-    
-                     Em face do exposto, propomos que a consulta seja respondida nos
-                     seguintes termos:
-                     a) A lei 6019/74, com as alterações da lei 13429/17, não se aplica à
-                     Administração Pública, especialmente às Pessoas Jurídicas de Direito
-                     Público;
-                     b) A contratação de empresa prestadora de serviços limita-se à atividade
-                     meio, a exemplo dos serviços de limpeza, manutenção e vigilância;
-                     c) A contratação/nomeação de médicos, professores e guardas municipais,
-                     dentre outros, deve ser feita mediante concurso público;
-                     d) Em caso de necessidade temporária de excepcional interesse público a
-                     própria administração pode contratar diretamente a pessoa física com
-                     suporte em lei do próprio ente federativo.
-    É o relatório.
-    
-    
-    2. VOTO
-               A questão suscitada na presente Consulta está relacionada à
-    possibilidade de terceirização de atividades-fim pelos municípios piauienses em face
-    da Lei nº 13.429/17.
-                                                                                           2
-    _________________________________________________________________
-    Consulta – Associação dos Municípios do Médio Parnaíba.
-    
+[Brasão do Estado do Piauí à esquerda; logomarca com estrela à direita: TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ.]
+
+Estado do Piauí
+Tribunal de Contas
+rar
+**Gabinete Conselheira Waltânia Alvarenga**
+**PROCESSO Nº TC/010081/2017**
+
+de atividades exercidas por servidores do quadro efetivo, conforme prevista no Plano
+de Carreiras, Cargos e Salários.
+O Ministério Público de Contas manifestou-se nos autos, por meio do
+parecer de peça nº 08, de lavra do Procurador José Araújo Pinheiro Júnior, com
+posicionamento divergente, em relação ao parecer jurídico da consulente e à análise
+apresentada pela Diretoria Técnica. Segundo entendimento ministerial, a Lei nº
+13.429/2017 tem aplicação limitada ao Direito do Trabalho, cuja legislação, no
+âmbito da Administração Pública é restrita às Pessoas Jurídicas de Direito Privado
+por ela criadas. Acrescenta, ainda:
+
+*A nosso ver, tanto a empresa tomadora de serviços temporários como a
+prestadora de serviços devem ter suas relações com os respectivos
+empregados regidos pelo Direito do Trabalho, cuja competência para
+legislar é privativa da União (CF, art. 22, I), ao passo que os agentes
+públicos são disciplinados por normas de Direito Administrativo, cuja
+competência legislativa é comum aos entes federativos.*
+Por fim, o parecer ministerial conclui na forma a seguir:
+
+*Em face do exposto, propomos que a consulta seja respondida nos
+seguintes termos:
+a) A lei 6019/74, com as alterações da lei 13429/17, não se aplica à
+Administração Pública, especialmente às Pessoas Jurídicas de Direito
+Público;
+b) A contratação de empresa prestadora de serviços limita-se à atividade
+meio, a exemplo dos serviços de limpeza, manutenção e vigilância;
+c) A contratação/nomeação de médicos, professores e guardas municipais,
+dentre outros, deve ser feita mediante concurso público;
+d) Em caso de necessidade temporária de excepcional interesse público a
+própria administração pode contratar diretamente a pessoa física com
+suporte em lei do próprio ente federativo.*
+É o relatório.
+
+
+**2. VOTO**
+A questão suscitada na presente Consulta está relacionada à
+possibilidade de terceirização de atividades-fim pelos municípios piauienses em face
+da Lei nº 13.429/17.
+2
+_________________________________________________________________
+Consulta – Associação dos Municípios do Médio Parnaíba.
 
 #### Página 3 do PDF oficial
 
@@ -469,3 +471,5 @@ O PDF contém 7 página(s). Relatórios, votos e outros atos de contexto permane
 [Voto da Relatora](http://www.tce.pi.gov.br/wp-content/uploads/2018/03/Voto-da-Relatora-2.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next009: vinte recortes no lote, com transcrição/cotejo Sol e revisão independente integral Astra. Documento 2, físicas 1–2: corpo, cabeçalhos e rodapés cotejados; preservadas as referências impressas da consulta e a delimitação do documento. A apresentação não é fac-símile; microinscrições dos emblemas não integralmente legíveis não foram reconstruídas. Nomes funcionais e códigos documentais preservados; nenhum identificador pessoal numérico publicado neste lote. Não se certificam assinatura, autenticidade, vigência ou efeito jurídico. Ressalvas anteriores permanecem.
