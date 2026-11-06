@@ -95,3 +95,70 @@ A autenticidade deste documento pode ser validada no endereço:
 ---
 
 Notas de transcrição: Leitura da folha inteira e de duas faixas ampliadas sobrepostas. Elementos gráficos descritos entre colchetes; identificadores pessoais ocultos. Sem inferência de autenticidade ou efeito jurídico.
+
+## Resolução PGE 098 - 21 de Maio de 2024 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=326923&indice=1&totalRegistros=104&anoSpan=2024&anoSelecionado=2024&mesSelecionado=0&isPaginado=true); SHA-256 da captura `7f9e0d78894fbadaa0d9b70b0ad79f2a6d45dbe5a860aaf7edbc996787801cf0`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Redação, numeração, referências e dizeres do bloco preservados sem atualização por interpretação externa.
+
+<h3>Resolução PGE 098 - 21 de Maio de 2024</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=14859&amp;numero=11666">Diário Oficial nº. 11666</a> de 23 de Maio de 2024
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="2069693"><div style="text-align: justify;">Edita Orientação Administrativa nº 86-PGE</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2069694"><div style="text-align: justify;">O <strong>PROCURADOR-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual nº 8.485/1987, e o artigo 5º, inciso XXI, da Lei Complementar nº 26/1985, e considerando o que consta no protocolo n° 21.500.246-2, <strong>RESOLVE</strong> expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2069695"><table class="tbato" height="175" style="width: 632px;">
+<tbody>
+<tr>
+<td style="width: 141.633px; text-align: center;"><strong>TEMA DE</strong><br/><strong>INTERESSE</strong></td>
+<td style="width: 472.367px;">
+<table class="tbato" height="159" width="477">
+<tbody>
+<tr>
+<td style="width: 467.667px;">REQUERIMENTO DE DISPENSA DE DIAS TRABALHADOS EM RAZÃO DA PRESTAÇÃO DE SERVIÇOS ELEITORAIS.</td>
+</tr>
+<tr>
+<td style="width: 467.667px;">A efetiva prestação de serviços à Justiça Eleitoral garante o direito à folga, ainda que a convocação tenha se dado por equívoco</td>
+</tr>
+<tr>
+<td style="width: 467.667px;">Jurisprudência pacífica no âmbito do Tribunal Regional Eleitoral do Paraná</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2069697"><div style="text-align: justify;"><strong>1.</strong> A efetiva prestação de serviços à Justiça Eleitoral garante o direito ao usufruto da folga por servidor público, ainda que a convocação tenha se dado por equívoco.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2069698"><div style="text-align: justify;"><strong>REFERÊNCIAS:</strong> Constituição da República, art. 5º, incisos II e XXXVI; Lei nº 9.504/1997, art. 98</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2069699"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Luciano Borges dos Santos
+<br/>Procurador-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

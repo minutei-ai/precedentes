@@ -99,3 +99,77 @@ A autenticidade deste documento pode ser validada no endereço:
 ---
 
 Notas de transcrição: Leitura da folha inteira e de duas faixas ampliadas sobrepostas. Elementos gráficos descritos entre colchetes; identificadores pessoais ocultos. Sem inferência de autenticidade ou efeito jurídico.
+
+## Resolução PGE 059 - 26 de Março de 2024 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=322833&indice=1&totalRegistros=62&anoSpan=2024&anoSelecionado=2024&mesSelecionado=0&isPaginado=true); SHA-256 da captura `165297c477b3a6a13469c85ce2a256b86ef200f18b5564ff3c1ec50a1c1b7135`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Redação, numeração, referências e dizeres do bloco preservados sem atualização por interpretação externa.
+
+<h3>Resolução PGE 059 - 26 de Março de 2024</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=14759&amp;numero=11629">Diário Oficial nº. 11629</a> de 1 de Abril de 2024
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="2044273"><div style="text-align: justify;">Edita Orientação Administrativa nº 85-PGE.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2044287"><div style="text-align: justify;">O <strong>PROCURADOR-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual nº 8.485, de 03 de junho de 1987, e o artigo 5º, inciso XXI, da Lei Complementar nº 26, de 30 de dezembro de 1985, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2044294"><table class="tbato" height="112" style="width: 620.5px;">
+<tbody>
+<tr>
+<td style="width: 171px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 433.5px;">
+<table class="tbato" height="107" style="width: 435.45px;">
+<tbody>
+<tr>
+<td style="width: 425.45px;">Lei Federal nº 14.133, de 1º de abril de 2021.</td>
+</tr>
+<tr>
+<td style="width: 425.45px; text-align: justify;">Contratações de baixo valor. Substituição do instrumento<br/>contratual. Hipóteses de substituição do instrumento<br/>contratual.</td>
+</tr>
+<tr>
+<td style="width: 425.45px; text-align: justify;">Hipóteses de substituição do instrumento contratual (em<br/>sentido estrito) por outros instrumentos hábeis.</td>
+</tr>
+<tr>
+<td style="width: 425.45px; text-align: justify;">Interpretação do art. 95, inciso I, da Lei Federal nº<br/>14.133, de 1º de abril de 2021.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2044298"><div style="text-align: justify;"><strong>1.</strong> Nas contratações decorrentes da Lei nº 14.133/2021, independentemente do objeto, do prazo de vigência, do parcelamento do fornecimento, da existência ou não de obrigações futuras e da forma empregada para selecionar o contratado (processo licitatório, contratação direta por dispensa ou inexigibilidade de licitação), será possível substituir o instrumento de contrato por instrumentos mais simples sempre que o contrato possuir valor inferior aos limites para a dispensa de licitação em razão do valor (art. 75, incisos I e II);</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2044300"><div style="text-align: justify;"><strong>2.</strong> Nos casos em que o instrumento contratual for passível de substituição, o gestor deve levar em consideração ainda a complexidade do objeto e a segurança jurídica em se firmar a relação contratual sem a regulação por meio daquele instrumento.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2044301"><div style="text-align: justify;"><strong>REFERÊNCIAS:</strong> Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2044302"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Luciano Borges dos Santos
+<br/>Procurador-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

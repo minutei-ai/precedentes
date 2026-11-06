@@ -194,3 +194,86 @@ Assinatura Qualificada realizada por: **Leticia Ferreira da Silva** em 21/12/202
 Leitura integral da página e de todas as faixas ampliadas; sem OCR. Camada nativa usada apenas como rascunho, conferida pela imagem. Grande área central em branco; data em cinza; faixas azul e verde.
 
 Marcas visuais: brasão colorido; carimbo circular cinza. A declaração de assinatura tem nomes funcionais, protocolo, URL e código em negrito. Não se atribui autenticidade à declaração. Não foram identificados valores de CPF ou matrícula pessoal nesta página; não houve ocultação necessária.
+
+## Resolução PGE 281 - 21 de Dezembro de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=278962&indice=1&totalRegistros=284&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `3ad26d070e5ff3849bc35cb0b184de8a915982cb5f44f617e43ebf881a2c7541`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Mantidos “5. 1.”, “pode ser valer”, referência 10.086/2021 e a nota de republicação no DOE 11.373.
+
+<h3>Resolução PGE 281 - 21 de Dezembro de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=13449&amp;numero=11329">Diário Oficial nº. 11329</a> de 2 de Janeiro de 2023
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1770102"><div style="text-align: justify;"><strong>Edita a Orientação Administrativa nº 73-PGE</strong></div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770105"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485, de 03 de junho de 1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26, de 30 de dezembro de 1985, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770108"><table class="tbato" height="135" style="width: 538px;">
+<tbody>
+<tr>
+<td style="width: 178.717px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 342.283px;">
+<table class="tbato" height="124" width="357">
+<tbody>
+<tr>
+<td style="width: 347.667px;">Licitações e Contratos</td>
+</tr>
+<tr>
+<td style="width: 347.667px;">Lei Federal nº 14.133, de 1º de abril de 2021;<br/>Decreto Estadual nº 10.086, de 17 de janeiro de 2022.</td>
+</tr>
+<tr>
+<td style="width: 347.667px;">Atribuições do(a) fiscal e do(a) gestor(a) de Contrato e de Convênios</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770114"><div style="text-align: justify;">1. O(a) gestor(a) do contrato é o gerente funcional, designado pela autoridade máxima, ou por quem ela delegar, preferencialmente, servidor(a) ou empregado(a) público(a) efetivo(a) pertencente ao quadro permanente do órgão ou da entidade contratante, com atribuições administrativas e a função de administrar o contrato, desde sua concepção até a finalização com as atribuições previstas no art. 10 do Decreto nº 10.086;</div>
+<br/><div style="text-align: justify;">1.1. Por haver preferência de que o(a) gestor(a) de contratos seja “servidor(a) ou empregado(a) público(a) efetivo(a) pertencente ao quadro permanente do órgão ou entidade contratante”, deverá haver justificativa idônea da autoridade responsável pela governança do órgão ou entidade para que este(a) agente públicos(a) não tenha as características preferenciais;</div>
+<br/><div style="text-align: justify;">1.2. A designação de gestor(a) de contratos servidor(a) ou empregado(a) público(a) efetivo(a) pertencente ao quadro permanente do órgão ou entidade contratante não é facultativa, e sim preferencial;</div>
+<br/><div style="text-align: justify;">2. O(a) fiscal de contrato é, obrigatoriamente, servidor(a) efetivo(a) ou empregado(a) público(a) dos quadros permanentes da Administração Pública designado(a) pela autoridade máxima, ou por quem ela delegar, para acompanhar e fiscalizar a prestação dos serviços com as atribuições previstas no art. 12 do Decreto nº 10.086/2022;</div>
+<br/><div style="text-align: justify;">2.1. Para obras e serviços de engenharia, além de ser servidor(a) ou empregado(a) público(a) efetivo(a) pertencente ao quadro permanente do órgão ou entidade contratante, o(a) fiscal deverá ter formação nas áreas de engenharia ou arquitetura.</div>
+<br/><div style="text-align: justify;">3. O(a) gestor(a) de convênio ou termo de cooperação é o gerente funcional e tem a missão de administrar o convênio ou termo de colaboração, desde sua formalização até o termo de cumprimento dos objetivos.</div>
+<br/><div style="text-align: justify;">3.1. As atribuições do(a) gestor(a) de convênios estão elencadas no art. 700 do decreto nº 10.086/2022;</div>
+<br/><div style="text-align: justify;">4. A execução do convênio deverá ser acompanhada e fiscalizada por 1 (um (a)) ou mais fiscais, representantes da Administração especialmente designados conforme requisitos estabelecidos no art. 7º da Lei Federal n.º 14.133, de 2021;</div>
+<br/><div style="text-align: justify;">4.1. As atribuições do(a) fiscal de convênios estão elencadas no art. 701 do decreto nº 10.086/2021.</div>
+<br/><div style="text-align: justify;">5. 1. O(A) gestor(a) do convênio pode ser valer de um fiscal de convênio que será um longa manus técnico para ser uma ponte a interligar os dois entes federativos.</div>
+<br/><div style="text-align: justify;">6. O(A) fiscal do convênio será o responsável pela verificação in loco se o objeto foi realmente executado, verificar a veracidade das medições e demais detalhes técnicos do acompanhamento da execução do objeto do convênio, no sentido, inclusive, de fornecer elementos para a possível liberação de parcelas de recursos financeiros do convenente ao conveniado;</div>
+<br/><div style="text-align: justify;">7. O órgão ou entidade convenente poderá solicitar apoio de outro órgão ou entidade da Administração Pública estadual direta ou autárquica que possua em seus quadros profissionais de engenharia e arquitetura para fiscalizar o convênio quando se tratar de obras e serviços de engenharia.</div>
+<br/><div style="text-align: justify;">8. Os órgãos e entidades da Administração Pública estadual direta e autárquica não possuem atribuição para licitar, contratar, fiscalizar e receber obra e serviços de engenharia de empreendimentos de municípios;</div>
+<br/><div style="text-align: justify;">9. Cabe aos municípios a licitação, contratação, fiscalização e recebimento de obras e serviços de engenharia de empreendimento construído com recursos financeiros repassados aos mesmos pelo Estado;</div>
+<br/><div style="text-align: justify;">10. A acumulação das funções de gestor(a) e fiscal de contratos, bem como de gestor e fiscal de convênios, fere o Princípio de Segregação de Funções previstos no art. 5º e no §1º do art. 7º, ambos da Lei Federal nº 14.133/2021.</div>
+<br/><div style="text-align: justify;">11. Esta Orientação Administrativa substitui a Orientação Administrativa nº 006-PGE, de 2016.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770118"><div style="text-align: justify;"><strong>REFERÊNCIAS</strong>: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770120"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: justify;"><strong>REPUBLICADO POR INCORREÇÃO CONFORME RETIFICAÇÃO PUBLICADA NO DIÁRIO OFICIAL N° 11.373 DE 07/03/2023.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

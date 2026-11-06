@@ -95,3 +95,73 @@ A autenticidade deste documento pode ser validada no endereço:
 ---
 
 Notas de transcrição: Leitura da folha inteira e de duas faixas ampliadas sobrepostas. Elementos gráficos descritos entre colchetes; identificadores pessoais ocultos. Sem inferência de autenticidade ou efeito jurídico.
+
+## Resolução PGE 156 - 17 de Julho de 2024 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=332671&indice=1&totalRegistros=165&anoSpan=2024&anoSelecionado=2024&mesSelecionado=0&isPaginado=true); SHA-256 da captura `a47983d52471497053f377e400383198424cc52b77c3c8c115aeb7d97d2ff854`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Redação, numeração, referências e dizeres do bloco preservados sem atualização por interpretação externa.
+
+<h3>Resolução PGE 156 - 17 de Julho de 2024</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=15003&amp;numero=11704">Diário Oficial nº. 11704</a> de 18 de Julho de 2024
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="2104012"><div style="text-align: justify;">Edita Orientação Administrativa nº 90-PGE</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2104016"><div style="text-align: justify;">O <strong>PROCURADOR-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485/1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26/1985, e considerando o que consta no protocolo n° 22.442.725-5, <strong>resolve</strong> expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2104018"><table class="tbato" height="182" style="width: 614px;">
+<tbody>
+<tr>
+<td style="width: 134.717px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 463.283px;">
+<table class="tbato" height="174" width="484">
+<tbody>
+<tr>
+<td style="width: 474.667px; text-align: justify;">Lei Federal nº 14.133, de 1º de abril de 2021.</td>
+</tr>
+<tr>
+<td style="width: 474.667px; text-align: justify;">Competência. Advocacia Pública. Atribuições.</td>
+</tr>
+<tr>
+<td style="width: 474.667px; text-align: justify;">Contratação direta.</td>
+</tr>
+<tr>
+<td style="width: 474.667px; text-align: justify;">Apuração da veracidade da documentação comprobatória da condição de exclusividade na hipótese de contratação direta pelo inciso I do art. 74.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2104019"><div style="text-align: justify;"><strong>1.</strong> Não se insere nas atribuições da advocacia pública a apuração da veracidade da documentação comprobatória da condição de exclusividade, para fins de contratação direta, por inexigibilidade, com base no inciso I do caput do art. 74 da Lei Federal nº 14.133/2021.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2104020"><div style="text-align: justify;"><strong>REFERÊNCIAS:</strong> Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2104021"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Luciano Borges dos Santos
+<br/>Procurador-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

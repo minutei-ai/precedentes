@@ -95,3 +95,70 @@ A autenticidade deste documento pode ser validada no endereço:
 ---
 
 Notas de transcrição: Leitura da folha inteira e de duas faixas ampliadas sobrepostas. Elementos gráficos descritos entre colchetes; identificadores pessoais ocultos. Sem inferência de autenticidade ou efeito jurídico.
+
+## Resolução PGE 153 - 17 de Julho de 2024 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=332667&indice=1&totalRegistros=157&anoSpan=2024&anoSelecionado=2024&mesSelecionado=0&isPaginado=true); SHA-256 da captura `2fddad7bae9f5928ab7bc047362c63708326f3c69b58dd6a185e0c5d166b69b8`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Sol. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Redação, numeração, referências e dizeres do bloco preservados sem atualização por interpretação externa.
+
+<h3>Resolução PGE 153 - 17 de Julho de 2024</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=15003&amp;numero=11704">Diário Oficial nº. 11704</a> de 18 de Julho de 2024
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="2103990"><div style="text-align: justify;">Edita Orientação Administrativa nº 87-PGE</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2103991"><div style="text-align: justify;">O <strong>PROCURADOR-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485/1987, e o artigo 5º, inciso XXI, da Lei Complementar n.º 26/1985, e considerando o que consta no protocolo n° 22.442.725-5, <strong>RESOLVE</strong> expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2103992"><table class="tbato" height="189" style="width: 599px;">
+<tbody>
+<tr>
+<td style="width: 174.5px; text-align: center;"><strong>TEMA DE</strong><br/><strong>INTERESSE</strong></td>
+<td style="width: 409.5px;">
+<table class="tbato" height="178" width="426">
+<tbody>
+<tr>
+<td style="width: 416.667px; text-align: justify;">Lei Federal nº 14.133, de 1º de abril de 2021.</td>
+</tr>
+<tr>
+<td style="width: 416.667px; text-align: justify;">Exigência de garantia contratual. Previsão<br/>Editalícia. Impossibilidade de alteração posterior.</td>
+</tr>
+<tr>
+<td style="width: 416.667px; text-align: justify;">Interpretação acerca da impossibilidade de alteração<br/>contratual para dispensar o contratado de<br/>apresentação da garantia quando esta exigência<br/>tiver sido prevista no edital que deu origem ao<br/>contrato.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2103993"><div style="text-align: justify;"><strong>1.</strong> Não pode a Administração Pública, uma vez prevista a exigência de apresentação de garantia contratual no edital, promover alteração contratual com a finalidade de dispensar o contratado de tal ônus, tendo em vista o impacto direto na competitividade do certame, em ofensa aos princípios da isonomia e da vinculação ao instrumento convocatório.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2103994"><div style="text-align: justify;"><strong>REFERÊNCIAS:</strong> Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2103995"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Luciano Borges dos Santos
+<br/>Procurador-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

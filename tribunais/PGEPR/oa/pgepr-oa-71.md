@@ -152,3 +152,77 @@ Assinatura Qualificada realizada por: **Leticia Ferreira da Silva** em 21/12/202
 Leitura integral da página e de todas as faixas ampliadas; sem OCR. Camada nativa usada apenas como rascunho, conferida pela imagem. Mantidos rótulo “08.” e remissão “003-PGE, de 2016”; sem harmonizar com outros documentos. Data em cinza; faixas azul e verde.
 
 Marcas visuais: brasão colorido; carimbo circular cinza. A declaração de assinatura tem nomes funcionais, protocolo, URL e código em negrito. Não se atribui autenticidade à declaração. Não foram identificados valores de CPF ou matrícula pessoal nesta página; não houve ocultação necessária.
+
+## Resolução PGE 279 - 21 de Dezembro de 2022 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=278959&indice=1&totalRegistros=284&anoSpan=2022&anoSelecionado=2022&mesSelecionado=0&isPaginado=true); SHA-256 da captura `7816e54b80128e05416870edafd98ce5d1d945969cbf64d8a92cd7856d242cdb`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Mantidos “08.” e a remissão à OA 003/2016, sem conciliar com outros atos.
+
+<h3>Resolução PGE 279 - 21 de Dezembro de 2022</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=13449&amp;numero=11329">Diário Oficial nº. 11329</a> de 2 de Janeiro de 2023
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="1770071"><div style="text-align: justify;"><strong>Edita a Orientação Administrativa nº 71-PGE</strong></div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770072"><div style="text-align: justify;">A <strong>PROCURADORA-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem os artigos 2º, § 3º, 4º e 14, todos da Lei Estadual n° 19.848, de 3 de maio de 2019, e o artigo 5º, inciso XXI, da Lei Complementar n° 26, de 30 de dezembro de 1985, alterada pela Lei Complementar nº 40, de 08 de dezembro de 1987, pela Lei Complementar nº 195, de 28 de abril de 2016 e pela Lei Complementar nº 246, de 20 de maio de 2022 e inciso X do art. 21 do Decreto Estadual nº 2709, de 10 de setembro de 2019, e considerando o que consta no protocolo n° 19.828.404-1, resolve expedir a seguinte orientação administrativa a todos os órgãos e entidades da Administração Pública Estadual Direta e Autárquica:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770073"><table class="tbato" height="138" style="width: 515px;">
+<tbody>
+<tr>
+<td style="width: 172.283px;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 327.717px;">
+<table class="tbato" height="130" width="335">
+<tbody>
+<tr>
+<td style="width: 325.667px;">Licitações e Contratos</td>
+</tr>
+<tr>
+<td style="width: 325.667px;">Lei Federal nº 14.133, de 1º de abril de 2021;<br/>Decreto Estadual nº 10.086, de 17 de janeiro de 2022.</td>
+</tr>
+<tr>
+<td style="width: 325.667px;">Qualificação Técnica</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770079"><div style="text-align: justify;">1. A exigência de experiência técnica da licitante deverá ser feita em itens que têm relevância <strong>ou</strong> valor significativo em relação ao total da obra. O edital deve fixar, de maneira explícita, as parcelas de maior relevância e/ou valor significativo;</div>
+<br/><div style="text-align: justify;">2. O edital poderá exigir capacidade técnica operacional, capacidade técnica profissional ou ambas;</div>
+<br/><div style="text-align: justify;">3. Ao se inserir exigências de qualificação técnica, deve ser consignado os motivos de tais exigências e se atentar para que sejam indispensáveis à garantia do cumprimento das obrigações;</div>
+<br/><div style="text-align: justify;">4. A lei não proíbe que seja exigida especificação dos quantitativos nos atestados, devendo ser estudada em cada caso, no sentido de se avaliar se é ou não fundamental que a empresa, por exemplo, já tenha executado obra com área semelhante àquela a ser executada, ou se esse argumento não é necessário para qualificá-la;</div>
+<br/><div style="text-align: justify;">5. Os atestados emitidos por pessoas jurídicas de direito público ou privado devem ser acompanhados de Anotação de responsabilidade Técnica – ART ou Registro de Responsabilidade Técnica, - RRT ou, ainda, Certidão de Acervo Técnico – CAT - do Conselho Regional de Engenharia e Agronomia - CREA - ou no Conselho de Arquitetura e Urbanismo - CAU – para a comprovação da realização de obras e/ou serviços de engenharia, mencionando as principais características técnicas das obras;</div>
+<br/><div style="text-align: justify;">6. O profissional de determinada área, não empregado, nem sócio e nem diretor da empresa, mas que detenha uma especial habilitação técnica e que assuma o compromisso de realizar seus serviços relativos apenas àquele contrato da empresa é considerado como pertencente ao quadro permanente da empresa para fins de qualificação profissional;</div>
+<br/><div style="text-align: justify;">7. Será admitida a exigência de atestados com quantidades mínimas de até 50% (cinquenta por cento) das parcelas de maior relevância ou valor significativo do objeto da licitação, vedadas limitações de tempo e de locais específicos relativas aos atestados.</div>
+<br/><div style="text-align: justify;">08. Esta Orientação Administrativa substitui a Orientação Administrativa nº 003-PGE, de 2016.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770081"><div style="text-align: justify;"><strong>REFERÊNCIAS</strong>: Lei Federal nº 14.133/2021; Decreto Estadual nº 10.086/2022.</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="1770082"><div style="text-align: justify;"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></div>
+<br/><div style="text-align: center;">Curitiba, datado e assinado digitalmente.</div></a>
+</p>
+<p> </p>
+<p><i>Leticia Ferreira da Silva
+<br/>Procuradora-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
