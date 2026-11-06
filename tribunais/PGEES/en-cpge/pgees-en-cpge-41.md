@@ -72,6 +72,12 @@ Fones: 3636.5050 – 3636.5091
 
 ### Página 2 do derivado
 
+[Brasão do Estado do Espírito Santo]
+
+**ESTADO DO ESPÍRITO SANTO**
+
+**CONSELHO DA PROCURADORIA GERAL DO ESTADO**
+
 II - É obrigatória a adoção, pelos órgãos e entidades integrantes da Administração Pública Estadual Direta, Autárquica e Fundacional, das minutas padronizadas e aprovadas pela Procuradoria-Geral do Estado, ressalvados os casos de impossibilidade, que deverão ser justificados nos autos pela autoridade competente.
 
 III – Nas hipóteses de dispensa e inexigibilidade de chamamento público para celebração da parceria, previstas nos artigos 29, 30 e 31 da Lei 13.019/2014, o processo deverá ser instruído com todos os documentos necessários a comprovar a ocorrência no caso concreto da hipótese legal e com a justificativa subscrita pela autoridade competente, integralmente responsável pela veracidade das informações prestadas.
@@ -82,7 +88,19 @@ V – A veracidade das informações contidas na lista de checagem deverá ser a
 
 VI - A dispensa da oitiva da Procuradoria-Geral do Estado também fica condicionada à expressa declaração da autoridade competente, de que foram observadas as regras previstas na Lei 13.019/2014, notadamente as vedações contidas nos artigos 39 e 40, bem como os demais atos normativos estaduais e federais pertinentes.
 
+**Conselho da Procuradoria Geral do Estado do Espírito Santo**
+
+Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória – ES – Cep: 29057-550
+
+Fones: 3636.5050 – 3636.5091
+
 ### Página 3 do derivado
+
+[Brasão do Estado do Espírito Santo]
+
+**ESTADO DO ESPÍRITO SANTO**
+
+**CONSELHO DA PROCURADORIA GERAL DO ESTADO**
 
 VII - As alterações nas minutas padronizadas que se fizerem necessárias exclusivamente em virtude da necessidade de adequação do instrumento às peculiaridades do caso concreto, que não apresentem relevância jurídica, não afastam a obrigatoriedade da adoção das minutas padronizadas, nem impedem a dispensa da oitiva prévia da Procuradoria-Geral do Estado.
 
@@ -95,6 +113,12 @@ Vitória, 14 de fevereiro de 2023.
 **JASSON HIBNER AMARAL**
 
 Procurador-Geral do Estado do Espírito Santo
+
+**Conselho da Procuradoria Geral do Estado do Espírito Santo**
+
+Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória – ES – Cep: 29057-550
+
+Fones: 3636.5050 – 3636.5091
 
 ## Conferência e limites
 
