@@ -114,3 +114,64 @@ https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento com o código:
 1e438d69fb1304152f049077fd1fd1a5.
 [QR code não decodificado.]
 ```
+
+## Resolução PGE 206 - 22 de Setembro de 2025 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=371632&indice=1&totalRegistros=225&anoSpan=2025&anoSelecionado=2025&mesSelecionado=0&isPaginado=true); SHA-256 da captura `c276c19c5c6713b60f3bd4e6cff472e99f422d31b5d03cdd766f8e155f1cbb1b`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Cabeçalho, considerandos e quatro diretrizes preservados; atributos duplicados fora do bloco normativo não foram exportados.
+
+<h3>Resolução PGE 206 - 22 de Setembro de 2025</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=16219&amp;numero=11994">Diário Oficial nº. 11994</a> de 25 de Setembro de 2025
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="2349268"><div style="text-align: justify;">Edita Orientação Administrativa nº 098-PGE</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2349269"><div style="text-align: justify;">O <strong>PROCURADOR-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea "c", da Lei Estadual n. 8.485, de 03 de junho de 1987, e o artigo 5º, inciso XXI, da Lei</div>
+<br/><div style="text-align: justify;">Complementar n. 26, de 30 de dezembro de 1985, e considerando o que consta no protocolado n° 24.187.194-0 resolve expedir a seguinte orientação administrativa as Autarquias Estaduais:</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2349270"><br/>
+<table class="tbato" height="96" style="width: 725px;">
+<tbody>
+<tr>
+<td style="width: 337.562px; text-align: center;"><strong>TEMA DE INTERESSE</strong></td>
+<td style="width: 370.438px; text-align: justify;"><strong>CUMPRIMENTO DO REGIME </strong><strong>CONSTITUCIONAL <br/>DE </strong><strong>PRECATÓRIOS - ORIENTAÇÃO </strong><strong>GERAL AUTARQUIAS ESTADUAIS</strong></td>
+</tr>
+</tbody>
+</table>
+<br/><br/>
+<div style="text-align: center;"></div>
+<br/>
+<div style="text-align: justify;">Considerando que o art. 100 da Constituição Federal estabelece regime específico e obrigatório para o pagamento de débitos das Fazendas Públicas determinando observância rigorosa da ordem cronológica de apresentação dos precatórios e realização exclusiva através do sistema administrado pelos Tribunais competentes;<br/><br/></div>
+<div style="text-align: justify;">Considerando que as autarquias estaduais, por serem pessoas jurídicas de direito público integrantes da Administração Pública Indireta, submetem-se ao regime de precatórios.<br/><br/></div>
+<div style="text-align: justify;">Considerando que o descumprimento do regime constitucional de precatórios acarreta violação ao princípio da isonomia entre credores, desrespeito à ordem cronológica constitucional e burla ao sistema de controle judicial dos pagamentos;</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;"><strong>ORIENTA-SE</strong> que todas as autarquias do Estado do Paraná devem observar as seguintes diretrizes:</div>
+<div style="text-align: justify;"><br/><strong>I -</strong> Cumprimento obrigatório do regime de precatórios previsto no art. 100 da Constituição Federal para todos os pagamentos decorrentes de condenações judiciais, excluídos os pagamentos de obrigações definidas em leis como de pequeno valor;</div>
+<div style="text-align: justify;"><br/><strong>II -</strong> Observância da ordem cronológica estabelecida constitucionalmente, mediante apresentação dos precatórios exclusivamente através do sistema administrado pelos Tribunais competentes;<br/><br/><strong>III -</strong> Vedação de pagamentos diretos aos juízos de execução;<br/><br/><strong>IV -</strong> Utilização exclusiva dos procedimentos estabelecidos pelos Tribunais de Justiça e Regional do Trabalho para depósito nas respectivas contas de ordem cronológica administradas pelas Cortes;</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2349271"><strong>REFERÊNCIAS:</strong>
+<br/><div style="text-align: justify;">Constituição Federal, art. 100; Lei Estadual nº 8.485/1987</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2349272"><strong>PUBLIQUE-SE. ANOTE-SE.</strong></a>
+</p>
+<p> </p>
+<p><i>Luciano Borges dos Santos
+<br/>Procurador-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

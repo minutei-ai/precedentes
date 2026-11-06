@@ -107,3 +107,67 @@ Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021.
 A autenticidade deste documento pode ser validada no endereço:\
 **https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento** com o código:\
 **1acc19d31a8892085785cffa805ac0dd**.
+
+## Resolução PGE 134 - 30 de Maio de 2025 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=362357&indice=1&totalRegistros=136&anoSpan=2025&anoSelecionado=2025&mesSelecionado=0&isPaginado=true); SHA-256 da captura `f6ae9b880b38a05a3f68cb97cc3c1ace03236b8794e5d8521c200127e7ef867c`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Mantidos “IEEs”/“IEES” e “devidamentecredenciadas”.
+
+<h3>Resolução PGE 134 - 30 de Maio de 2025</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=15949&amp;numero=11917">Diário Oficial nº. 11917</a> de 5 de Junho de 2025
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="2288125">Edita Orientação Administrativa nº 097-PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2288126"><div style="text-align: justify;">O <strong>PROCURADOR-GERAL DO ESTADO</strong>, no uso das atribuições que lhe conferem a Constituição do Estado do Paraná, o art. 1º, II e § 1º da Lei Complementar n° 26, de 30 de dezembro de 1985, e considerando o que consta no protocolado n° 24.067.270-7, resolve expedir a seguinte orientação administrativa de caráter obrigatório a todos os órgãos e entidades da Administração Pública Estadual, Direta e Autárquica:<br/><br/>
+<table class="tbato">
+<tbody>
+<tr>
+<td rowspan="3" width="283">TEMA DE INTERESSE</td>
+<td width="265">Fundações de apoio</td>
+</tr>
+<tr>
+<td width="265">Lei n. 20.537/2021</td>
+</tr>
+<tr>
+<td width="265">Critérios de escolha de fundações de<br/>apoio para atuação junto a Instituições<br/>Científicas, Tecnológicas e de Inovação (ICTs) em projetos relacionados à área de Ciência, Tecnologia e Inovação – CT&amp;I.</td>
+</tr>
+</tbody>
+</table>
+</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2288495"><div style="text-align: justify;"><strong>1.</strong> Fundações de apoio, no contexto da Lei n. 20.537/2021, são pessoas jurídicas de direito privado que se destinam a apoiar Instituições Públicas de Ensino Superior do Paraná – IEES, Hospitais Universitários – HUs e Instituições Científicas e Tecnológicas públicas – ICTs em ações específicas, por prazo determinado, relacionadas a projetos de ensino, pesquisa, extensão, gestão de hospitais e de saúde pública, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para a gestão administrativa, financeira e de pessoal necessária à execução desses projetos.<br/><br/></div>
+<div style="text-align: justify;"><strong>2.</strong> Desse modo, as Fundações de apoio servem ao propósito de aumentar temporariamente a estrutura logística de IEEs, HUs e ICTs, oferecendo-lhes suporte administrativo e financeiro, para o desempenho de serviços descontínuos específicos.</div>
+<br/>
+<div style="text-align: justify;"><strong>3.</strong> Os critérios ou a forma de seleção de Fundações de Apoio pelas ICTs deve observar a respectiva regulamentação a ser editada por tais instituições, que devem respeitar os princípios inerentes a todas as atividade da Administração Pública, insculpidos no art. 37 da Constituição Federal, bem como os especificamente relacionados ao Marco da Ciência, Tecnologia e Inovação, a respectiva política de inovação que guia a atuação da ICT e as normas de relacionamento com Fundações de Apoio por ela estabelecidas. Não constitui atribuição da Procuradoria-Geral do Estado definir tais critérios, considerando a competência que constitucionalmente lhe é cominada;<br/><br/></div>
+<div style="text-align: justify;"><strong>4.</strong> A preferência por determinada Fundação de Apoio, manifestada pelo financiador privado ou pelo pesquisador, não vincula a ICT, que pode chancelar a respectiva Fundação por eles indicada, desde que: <strong>4.1)</strong> a Fundação de Apoio esteja regularmente credenciada segundo as regras estabelecidas pela ICT; <strong>4.2)</strong> a Fundação de Apoio detenha registro válido junto a SETI; <strong>4.3)</strong> haja conformidade da</div>
+<div style="text-align: justify;">escolha/atuação com a política de inovação estabelecida pela ICT e normas de relacionamento com as Fundações de Apoio; <strong>4.4)</strong> a indicação seja orientada pelo princípio da eficiência, que pode restar evidenciado pela expertise da Fundação de Apoio na gestão de projetos similares;</div>
+<br/>
+<div style="text-align: justify;"><strong>5.</strong> A possibilidade de acatar a eventual indicação de Fundação de Apoio feita pelo financiador privado ou pelo pesquisador não afasta a necessidade de observância as normas que devem balizar a atuação dessas entidades, como a necessidade de transparência em relação aos recursos aplicados no projeto, prazo determinado de execução, observância de parâmetros estabelecidos pela legislação e pela ICT para fixação de bolsas a pesquisadores;</div>
+<br/>
+<div style="text-align: justify;"><strong>6.</strong> É recomendável que a ICT, diante de um rol de Fundações de Apoio devidamentecredenciadas e registradas na SETI, evite a concentração de projetos em determinada Fundação, permitindo a participação das demais seguindo sua política de inovação e normas de relacionamento, o que vai ao encontro da boa aplicação do poder de compra estatal e do desenvolvimento desses atores no MCT&amp;I;<br/><br/></div>
+<div style="text-align: justify;"><strong>7.</strong> A ICT pode estabelecer sistemática de rodízio para escolha de Fundações de Apoio, medida que, no entanto, não é obrigatória e nem a única que preserva o princípio da impessoalidade, que também se pauta na definição de critérios objetivos de escolha, evitando a concentração de projetos em uma Fundação de Apoio;</div>
+<br/>
+<div style="text-align: justify;"><strong>8.</strong> O credenciamento de Fundações de Apoio, por força do princípio da publicidade e impessoalidade, deve ser precedido de edital de chamamento público, sendo que a escolha posterior, para atuação em projetos específicos, não reclama, necessariamente, novo chamamento público. A referida escolha pode se pautar pelos critérios objetivos definidos pela ICT, segundo sua política de inovação e normas de relacionamento, observados os princípios do MCT&amp;I e os que regem as atividades da Administração Pública em geral (art. 37, caput da Constituição Federal).</div></a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2288496"><div style="text-align: justify;">REFERÊNCIAS: Artigos 132 e 218 a 219-B, todos da Constituição Federal; Lei Estadual n. 20.541/2021; Decreto Estadual nº 1.350/2023; Lei Estadual n. 20.537/2021; Decreto n. 8.796/2021; Parecer nº 00001/2021/CPIFES/DEPCONSU/PGF/AGU; Informação nº 622/2024 – AT-GAB/PGE.</div></a>
+</p>
+<p> </p>
+<p><i>Luciano Borges dos Santos
+<br/>Procurador-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>

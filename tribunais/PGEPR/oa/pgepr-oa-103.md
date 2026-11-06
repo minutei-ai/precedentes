@@ -193,3 +193,134 @@ Documento assinado nos termos do Art. 38 do Decreto Estadual nº 7304/2021.
 A autenticidade deste documento pode ser validada no endereço:<br>**https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento** com o código:
 
 [Nota editorial: Campo após “com o código:” sem valor visível nesta página; não completado a partir de outra página.]
+
+## Resolução PGE 219 - 28 de Setembro de 2026 — HTML oficial cotejado
+
+[Fonte oficial](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=407540&indice=1&totalRegistros=223&anoSpan=2026&anoSelecionado=2026&mesSelecionado=0&isPaginado=true); SHA-256 da captura `6958bceb9b704ea46bc17699ef5d3530100e6dae6a0112d9b8fcc75e69b4b6e6`.
+
+Bloco HTML nativo integral do cabeçalho ao aviso final, lido pelo pai e em revisão independente Astra. Serialização DOM normaliza entidades, aspas, caixa de tags, ordem de atributos e espaços de apresentação; não é cópia binária nem fac-símile. Links relativos tornados absolutos, mantendo texto, tabelas e todas as âncoras, inclusive vazias/repetidas. Regiões de interface/anexos posteriores ao aviso, destinos dos links e documentos apenas citados não foram cotejados neste acréscimo. Dizeres de assinatura, substituição e republicação são texto da fonte, sem autenticação ou conclusão sobre vigência ou efeitos.
+
+Mantidos “Análise Jurídica Prévias” e a quebra TCE/P R no tema, os artigos, oito etapas e dizeres de efeitos sem conclusão própria do curador.
+
+<h3>Resolução PGE 219 - 28 de Setembro de 2026</h3>
+<br/>
+
+Publicado no <a href="https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=downloadDioe&amp;idEdicao=17334&amp;numero=12239">Diário Oficial nº. 12239</a> de 30 de Setembro de 2026
+<br/><br/>
+<p>
+<b class="labelAto">Súmula:</b>
+<a id="2613189">Edita Orientação Administrativa nº 103-PGE</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2613243">O <strong>PROCURADOR-GERAL DO ESTADO DO PARANÁ</strong>, no uso das atribuições que lhe conferem o artigo 44, inciso VI, alínea “c”, da Lei Estadual n.º 8.485, de 03 de junho de 1987; a Lei Complementar n.º 26, de 30 de dezembro de 1985 (com suas alterações posteriores); o Regulamento da Procuradoria-Geral do Estado (Anexo I do Decreto Estadual n.º 2.709/2019, alterado pelo Decreto Estadual n.º 4.192/2023); e considerando a necessidade de uniformização da jurisprudência administrativa e dos procedimentos de instrução de parcerias reguladas pelo Marco Regulatório das Organizações da Sociedade Civil (Lei Federal n.º 13.019/2014 e Decreto Estadual n.º 3.513/2016) no âmbito da Administração Pública Estadual Direta e Autárquica, nos termos do aprovado no bojo do Processo n.º 26.402.145-6, <strong>RESOLVE EXPEDIR A SEGUINTE ORIENTAÇÃO ADMINISTRATIVA DE CARÁTER OBRIGATÓRIO A TODOS OS ÓRGÃOS E ENTIDADES DA ADMINISTRAÇÃO PÚBLICA ESTADUAL DIRETA E AUTÁRQUICA</strong>:<br/><br/>
+<table class="tbato" style="width: 819px;">
+<tbody>
+<tr style="height: 219.25px;">
+<td style="vertical-align: top; width: 107.484px; height: 219.25px;">TEMA DE<br/>INTERESSE</td>
+<td style="vertical-align: top; width: 695.516px; height: 219.25px;"><strong>• MARCO REGULATÓRIO DAS  ORGANIZAÇÕES DA SOCIEDADE CIVIL – MROSC (LEI FEDERAL N.º 13.019/2014 E DECRETO ESTADUAL N.º 3.513/2016)</strong><br/><strong>• ACORDO DE COOPERAÇÃO SEM TRANSFERÊNCIA DE RECURSOS FINANCEIROS E SEM COMPARTILHAMENTO PATRIMONIAL</strong><br/><strong>• CHAMAMENTO PÚBLICO DISPENSADO POR FORÇA DE LEI (ART. 29 DA LEI N.º 13.019/2014 E ART. 32 DO DECRETO N.º 3.513/2016)</strong><br/><strong>• EXCEÇÕES: SUBMISSÃO OBRIGATÓRIA AO RITO DO ART. 32 DA LEI N. º 13.019/2014 NOS CASOS DE COMPARTILHAMENTO PATRIMONIAL, ALTA COMPLEXIDADE OU CESSÃO DE SERVIDORES ESTADUAIS</strong><br/><strong>• PUBLICAÇÃO OBRIGATÓRIA DO EXTRATO NO DIOE/PR COM CITAÇÃO EXPRESSA DO ART. 29 </strong><strong>COMO CONDIÇÃO DE EFICÁCIA (ART. 38 DA LEI N.º 13.019/2014 E ART. 19 DO DECRETO N.º 3.513/2016)</strong><br/><strong>• DISPENSA DE CADASTRAMENTO NO SISTEMA INTEGRADO DE TRANSFERÊNCIAS (SIT/TCE-PR) </strong><strong>CONFORME ART. 1.º, § 4.º, DA RESOLUÇÃO N.º 140/2026 – TCE/P</strong>R<br/> </td>
+</tr>
+</tbody>
+</table></a>
+</p>
+<p>
+<b class="labelAto">Art. 1º</b>
+<a id="2613274">Nos Acordos de Cooperação celebrados sob a égide da Lei Federal n.º 13.019/2014 e do Decreto Estadual n.º 3.513/2016 que não envolvam a transferência de recursos financeiros públicos estaduais nem o compartilhamento de bens patrimoniais, o afastamento do processo seletivo decorre diretamente de chamamento público dispensado por força de lei (não incidência / inaplicabilidade legal), com fulcro no art. 29 da Lei Federal n.º 13.019/2014 e no art. 32 do Decreto Estadual n.º 3.513/2016. <br/>
+<div style="padding-left: 30px;"><strong>§ 1.º</strong> É vedada a utilização das terminologias "dispensa de chamamento", adstrita ao regime discricionário do art. 30 da Lei n.º 13.019/2014 e art. 33 do Decreto n.º 3.513/2016, ou "inexigibilidade de chamamento", adstrita à inviabilidade fática de competição do art. 31 da Lei n.º 13.019/2014 e art. 34 do Decreto n.º 3.513/2016, para qualificar a ausência de certame em acordos de cooperação puros.</div>
+<div style="padding-left: 30px;"><strong>§ 2.º</strong> A denominação técnica padronizada que deverá constar da instrução processual, dos atos autorizativos e do preâmbulo do instrumento é "Chamamento Público Dispensado, art. 29 da Lei Federal n.º 13.019/2014 e art. 32 do Decreto Estadual n.º 3.513/2016", ou "Inaplicabilidade de Chamamento Público".</div></a>
+</p>
+<p>
+<b class="labelAto">Art. 2º</b>
+<a id="2613323">A celebração de Acordo de Cooperação puro, não oneroso, independe de publicação prévia de justificativa de afastamento do certame e do cumprimento do prazo de 5 (cinco) dias para impugnação de terceiros, porquanto o rito disciplinado no art. 32 da Lei Federal n.º 13.019/2014 e no art. 35 do Decreto Estadual n.º 3.513/2016 vincula-se precipuamente às hipóteses de dispensa e inexigibilidade.</a>
+</p>
+<p>
+<b class="labelAto">Art. 3º</b>
+<a id="2613327"><strong>SUBMETER-SE-ÃO OBRIGATORIAMENTE ao procedimento formal do artigo 32 da Lei Federal n.º 13.019/2014 e artigo 35 do Decreto Estadual n.º 3.513/2016, com emissão de justificativa fundamentada, publicação prévia de extrato no Diário Oficial do Estado e no sítio eletrônico oficial e observância cogente do prazo de 5 dias para impugnação de terceiros:</strong></a>
+</p>
+<p>
+<b class="labelAto">I –</b>
+<a id="2613328">Os Acordos de Cooperação em que estiverem presentes as exceções da ressalva final do art. 29 da Lei n.º 13.019/2014, tais como a celebração de comodato, doação de bens ou qualquer outra forma de compartilhamento de recurso patrimonial público;</a>
+</p>
+<p>
+<b class="labelAto">II –</b>
+<a id="2613329">Os Acordos de Cooperação considerados de alta complexidade, que envolverem serviços de elevada sensibilidade, risco social ou programas de proteção especial a pessoas;</a>
+</p>
+<p>
+<b class="labelAto">III –</b>
+<a id="2613330">Os Acordos de Cooperação que envolverem a cessão ou disponibilização de servidores públicos estaduais.</a>
+</p>
+<p>
+<b class="labelAto">Art. 4º</b>
+<a id="2613331">Para a produção de regulares efeitos jurídicos e eficácia de qualquer Acordo de Cooperação assinado, é obrigatória a publicação do respectivo extrato no Diário Oficial do Estado (DIOE/PR) e a transparência ativa no sítio eletrônico oficial do órgão estatal, no prazo de até 20 (vinte) dias a contar da assinatura (art. 38 da Lei Federal n.º 13.019/2014 e art. 19 do Decreto Estadual n.º 3.513/2016).</a>
+</p>
+<p>
+<b class="labelAto">Parágrafo único.</b>
+<a id="2613333">No extrato do Acordo de Cooperação a ser publicado no DIOE/PR, deverá constar expressamente a indicação do dispositivo legal que fundamentou o chamamento público dispensado: o artigo 29 da Lei Federal n.º 13.019/2014 e o artigo 32 do Decreto Estadual n.º 3.513/2016.</a>
+</p>
+<p>
+<b class="labelAto">Art. 5º</b>
+<a id="2613338">A ausência de certame concorrencial não exime o gestor público do dever de motivar a escolha da Organização da Sociedade Civil (OSC) parceira. Em observância aos princípios constitucionais da impessoalidade e da moralidade, art. 37, caput, da CF, os autos deverão conter manifestação justificando a convergência entre os objetivos estatutários da entidade e as finalidades de interesse público perseguidas pela Administração.</a>
+</p>
+<p>
+<b class="labelAto">Art. 6º</b>
+<a id="2613343">De acordo com o art. 1.º, § 4.º, da Resolução n.º 140/2026 do Tribunal de Contas do Estado do Paraná (TCE/PR), os acordos de cooperação e instrumentos que não envolvam a transferência de recursos financeiros estão dispensados do cadastramento e do registro de prestação de contas no Sistema Integrado de Transferências (SIT/TCE-PR), mantendo-se hígido o dever do órgão público concedente de acompanhar e fiscalizar a execução física e o cumprimento das metas pactuadas mediante a atuação do Gestor da Parceria e da Comissão de Monitoramento e Avaliação.</a>
+</p>
+<p>
+<b class="labelAto">Art. 7º</b>
+<a id="2613345">A instrução dos processos de Acordo de Cooperação sem repasse de recursos no âmbito da Administração Pública Estadual Direta e Autárquica observará a seguinte marcha procedimental padronizada em 8 (oito) etapas:</a>
+</p>
+<p>
+<b class="labelAto">I.</b>
+<a id="2613354"><strong>Instrução Propositiva</strong>: Proposta da OSC, Estatuto Social, CNPJ e documentos de qualificação dos dirigentes (isento do prazo mínimo de 2 anos de existência, ex vi do § 1. º do art. 33 da Lei n.º 13.019/2014);</a>
+</p>
+<p>
+<b class="labelAto">II.</b>
+<a id="2613355"><strong>Plano de Trabalho:</strong> Elaboração do Plano de Trabalho conjunto contendo metas, cronograma físico e parâmetros de avaliação, atestando-se <strong></strong>expressamente a não onerosidade e a ausência de compartilhamento patrimonial ou cessão de pessoal;</a>
+</p>
+<p>
+<b class="labelAto">III.</b>
+<a id="2613357"><strong>Triagem do Rito:</strong></a>
+</p>
+<p>
+<b class="labelAto">A)</b>
+<a id="2613358">Acordo de Cooperação Puro: Prossegue diretamente sem publicação prévia de justificativa;</a>
+</p>
+<p>
+<b class="labelAto">B)</b>
+<a id="2613386">Acordo com compartilhamento patrimonial, alta complexidade ou cessão de servidores: Elabora-se justificativa formal, publica-se o extrato prévio no DIOE/sítio oficial e aguarda-se o prazo de 5 (cinco) dias para impugnação de terceiros (art. 32 da Lei e art. 35 do Decreto);</a>
+</p>
+<p>
+<b class="labelAto">IV.</b>
+<a id="2613388"><strong>Parecer Técnico Consubstanciado:</strong> Manifestação técnica da área competente atestando o mérito, a exequibilidade e indicando expressamente o Gestor da Parceria e a Comissão de Monitoramento e Avaliação (art. 35, V, da Lei e art. 16, V, do Decreto);</a>
+</p>
+<p>
+<b class="labelAto">V.</b>
+<a id="2613389"><strong>Despacho Autorizativo:</strong> Ato da autoridade máxima do órgão declarando o Chamamento Público Dispensado (art. 29 da Lei n.º 13.019/2014) e motivando a escolha da OSC;</a>
+</p>
+<p>
+<b class="labelAto">VI.</b>
+<a id="2613390"><strong>Análise Jurídica Prévias (PGE):</strong> Encaminhamento à Procuradoria-Geral do Estado para controle prévio de legalidade das minutas, nos termos do Regulamento da PGE (Decreto Estadual n.º 2.709/2019);</a>
+</p>
+<p>
+<b class="labelAto">VII.</b>
+<a id="2613392"><strong>Celebração:</strong> Assinatura do termo pelos representantes legais das partes;</a>
+</p>
+<p>
+<b class="labelAto">VIII.</b>
+<a id="2613398"><strong>Publicação para Eficácia:</strong> Publicação do extrato do termo assinado no DIOE/PR no prazo de 20 dias, mencionando expressamente o fundamento do art. 29 da Lei n.º 13.019/2014, e transparência ativa no sítio eletrônico oficial, registrando-se a dispensa de prestação de contas no SIT/TCE-PR (art. 1.º, § 4.º, da Resolução n.º 140/2026 – TCE/PR).</a>
+</p>
+<p>
+<b class="labelAto"></b>
+<a id="2613555"><strong>REFERÊNCIAS:<br/></strong>• Constituição Federal: art. 37, caput;<br/>• Lei Federal n.º 13.019/2014 (MROSC): arts. 2.º, VIII-A, 29, 30, 31, 32, 33, § 1.º, 35, V, e 38;<br/>• Decreto Estadual n.º 3.513/2016: arts. 11, 16, V, 19, 32, 33, 34 e 35;<br/>• Regulamento da PGE/PR: Anexo I do Decreto Estadual n.º 2.709/2019, alterado pelo Decreto Estadual n.º 4.192/2023 (art. 44, § 1.º, I); • Resolução n.º 140/2026 – TCE/PR: art. 1.º, § 4.º;<br/>• Processo Administrativo n.º 26.402.145-6: Informação n.º 290/2026 – PGE/PCP e Despacho n.º 636/2026 – PGE/CCON.</a>
+</p>
+<p>
+<b class="labelAto">Fecho</b>
+<a id="2613503"><strong>PUBLIQUE-SE. ANOTE-SE.</strong><br/><br/>Curitiba, datado e assinado eletronicamente.</a>
+</p>
+<p> </p>
+<p><i>Luciano Borges dos Santos
+<br/>Procurador-Geral do Estado</i></p>
+<p> </p>
+<p style="font-weight: bold; background-color: #d3d3d3"></p>
+<hr/>
+<p style="color:red; font-style:italic">Este texto não substitui o publicado no Diário Oficial do Estado</p>
