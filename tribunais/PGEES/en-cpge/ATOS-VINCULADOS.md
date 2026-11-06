@@ -1322,7 +1322,11 @@ Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória 
 
 Fones: 3636.5050 – 3636.5091
 
-*[Continuação na página 2 do derivado]*
+*[Continuação na página 2 do derivado; brasão]*
+
+**ESTADO DO ESPÍRITO SANTO**
+
+**CONSELHO DA PROCURADORIA GERAL DO ESTADO**
 
 d) anuência da contratada, formalizada nos autos, para supressão que superar 25% (vinte e cinco por cento) do valor original do contrato atualizado;
 
@@ -1347,3 +1351,11 @@ Vitória, 17 de julho de 2020.
 **RODRIGO FRANCISCO DE PAULA**
 
 Procurador Geral do Estado
+
+*[Rodapé da página 2 do derivado]*
+
+**Conselho da Procuradoria Geral do Estado do Espírito Santo**
+
+Av. Nossa Senhora da Penha, 1590 – 13º andar – Barro Vermelho – Vitória – ES – Cep: 29057-550
+
+Fones: 3636.5050 – 3636.5091
