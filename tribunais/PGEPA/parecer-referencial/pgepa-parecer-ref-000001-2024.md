@@ -31,7 +31,7 @@ O parecer ocupa as páginas 1–12; o checklist não preenchido é o Anexo Únic
 
 | Rótulo | Valor impresso |
 |---|---|
-| Parecer Referencial n. | 000001/2024 |
+| **Parecer Referencial n.** | **000001/2024** |
 | Processo n. | 2023.02.213051 / 2023/1324112 |
 | Procedência | SEDUC - SECRETARIA DE ESTADO DE EDUCAÇÃO |
 | Interessado | SEDUC- Secretaria de Estado de Educação |
@@ -39,9 +39,9 @@ O parecer ocupa as páginas 1–12; o checklist não preenchido é o Anexo Únic
 
 [ementa, recuada à direita, caixa-alta:]
 
-PRESTAÇÃO DE CONTAS. RECURSOS PROVENIENTES DE CONVÊNIOS OU PROGRAMAS ESTADUAIS DA EDUCAÇÃO. REGISTRO DE INADIMPLÊNCIA. ATO DE GESTÃO ANTERIOR. PRINCÍPIO DA INTRANSCENDÊNCIA SUBJETIVA DAS SANÇÕES. DIRETRIZES.
+**PRESTAÇÃO DE CONTAS. RECURSOS PROVENIENTES DE CONVÊNIOS OU PROGRAMAS ESTADUAIS DA EDUCAÇÃO. REGISTRO DE INADIMPLÊNCIA. ATO DE GESTÃO ANTERIOR. PRINCÍPIO DA INTRANSCENDÊNCIA SUBJETIVA DAS SANÇÕES. DIRETRIZES.**
 
-1 RELATÓRIO
+**1 RELATÓRIO**
 
 Trata-se de Parecer Referencial visando sintetizar as orientações jurídicas para os processos administrativos nos quais os municípios solicitam a Secretaria de Estado da Educação a suspensão de registros de inadimplência (SIAFE<sup>1</sup> OU CADIN<sup>2</sup>) ocorridos em razão da ausência ou irregularidades nas prestações de contas de recursos recebidos por meio de convênios celebrados ou participação em programas estaduais relacionados alimentação e transporte escolar em gestões anteriores.
 
@@ -53,7 +53,7 @@ Importante esclarecer que em maio de 2019, o Governo do Estado do Pará criou o 
 <sup>2</sup> Regulamentado pela Instrução Normativa SEFAZ n. 18, de 27 de outrubro de 2023.
 
 [rodapé de página]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PROCURADORIA CONSULTIVA
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PROCURADORIA CONSULTIVA
 Rua dos Tamoios, 1671, bairro Batista Campos, CEP n. 66.033-172, Belém-PA. — Página 1 de 13
 
 [observações locais: "outrubro" conforme impresso; "relacionados alimentação" sem "à", conforme impresso; "SIAFE OU CADIN" com "OU" em caixa-alta, conforme impresso; paginação impressa "1 de 13" difere da contagem do PDF (15 p.)]
@@ -74,16 +74,16 @@ Além disso, além dos fundamentos acima, os municípios também solicitam a ret
 
 Esclarecido o objeto da presente análise, passo ao seu desenvolvimento.
 
-2 ANÁLISE JURÍDICA
+**2 ANÁLISE JURÍDICA**
 
-2.1. Suspensão dos registros de inadimplência em razão de ato imputável a gestão anterior
+**2.1. Suspensão dos registros de inadimplência em razão de ato imputável a gestão anterior**
 
 Quando há transferência voluntária de recursos para municípios, como no objeto de análise deste parecer, o Estado figura como tomador de contas. Nesse sentido, detém a incumbência de analisar as prestações de contas e em caso de irregularidades ou omissões realizar o registro de inadimplência, além de outras providências.
 
 Todavia, em caso de sucessão de gestão do ente municipal, aplica-se o princípio da intranscendência subjetiva das sanções. Ou seja, o sucessor não
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 2 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 2 de 13
 
 [observações locais: espaço duplo em "PETE e  PEAE" visível na imagem; "Além disso, além dos fundamentos" conforme impresso; parágrafo final segue na página seguinte]
 
@@ -114,7 +114,7 @@ Também é nessa linha o entendimento do Superior Tribunal de Justiça:
 > STJ, Súmula 615 “Não pode ocorrer ou permanecer a inscrição do município em cadastros restritivos fundada em irregularidades na gestão anterior quando, na gestão sucessora, são tomadas as providências cabíveis à reparação dos danos eventualmente cometidos.”
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 3 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 3 de 13
 
 [observações locais: "judicias" conforme impresso; item 1) sem ponto final, conforme impresso; "(...)" conforme impresso (supressão no original)]
 
@@ -136,14 +136,14 @@ Em verdade, nesses casos deve ser providenciado o registro do ex-gestor respons�
 
 Dessa forma, explicitado o dever do Estado de proceder com a suspensão do registro de inadimplência do município em caso de ato imputável ao ex-gestor, analisar-se-á a legislação pertinente às transferências de recurso realizadas para o transporte e alimentação escolar.
 
-2.1.1. Recursos provenientes de convênio
+**2.1.1. Recursos provenientes de convênio**
 
 Primeiramente, esclarece-se que antes da instituição do PETE e do PEAE as transferências de recursos aos entes municipais visando cooperação federativa para o atendimento das demandas do transporte e da alimentação escolar ocorria por meio de convênios fundamentos no Decreto Estadual n. 733, de 13 de maio de 2013.
 
 Nessa perspectiva, o entendimento da suspensão do registro de inadimplência em caso de ato do ex-gestor foi expressamente adotado no âmbito da legislação estadual com o Decreto nº 2.249/2018, que estabeleceu
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 4 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 4 de 13
 
 [observações locais: "fundamentos" (por "fundamentados") e "ocorria" conforme impresso; aspas retas na citação, conforme imagem]
 
@@ -177,7 +177,7 @@ Registra-se que o Decreto nº 3.302, de 29 de agosto de 2023, revogou a legisla�
 <sup>3</sup> Art. 60. Este Decreto entra em vigor na data de sua publicação, aplicando-se somente aos convênios celebrados a partir dessa data
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 5 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 5 de 13
 
 [observações locais: "§§ 1º, 2º, 3º 4º" sem vírgula entre 3º e 4º, conforme impresso; "passa vigorar" e "comprovara adoção" conforme impresso; nota 3 sem ponto final, conforme impresso]
 
@@ -187,9 +187,9 @@ PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 5 de 13
 
 ---
 
-Conclusão parcial: A suspensão do registro de inadimplência decorrente de convênio pode ser realizada, quando a irregularidade for imputada ao ex-gestor, acaso cumpridas uma das três ações propostas no § 1º do art. 7º do Decreto n.º 733/2013, quais sejam: 1ª) instauração de tomada de contas especial no âmbito do próprio Município, 2ª) ajuizamento de ação de improbidade e/ou ressarcimento ao Erário e 3ª) comunicação das faltas identificadas ao Ministério Público.
+**Conclusão parcial**: A suspensão do registro de inadimplência decorrente de convênio pode ser realizada, quando a irregularidade for imputada ao ex-gestor, acaso cumpridas uma das três ações propostas no § 1º do art. 7º do Decreto n.º 733/2013, quais sejam: 1ª) instauração de tomada de contas especial no âmbito do próprio Município, 2ª) ajuizamento de ação de improbidade e/ou ressarcimento ao Erário e 3ª) comunicação das faltas identificadas ao Ministério Público.
 
-2.1.2. Recursos provenientes dos Programas Estaduais de Transporte Escolar (PETE) e Alimentação Escolar (PEAE)
+**2.1.2. Recursos provenientes dos Programas Estaduais de Transporte Escolar (PETE) e Alimentação Escolar (PEAE)**
 
 Como relatado, em 2019 o Governo do Estado do Pará criou o Programa PETE e o PEAE. Assim, cumpre salientar as distinções quanto à exclusão do registro de inadimplência em razão de ato do ex-gestor em razão das distinções em sua regulamentação.
 
@@ -204,9 +204,9 @@ Nesse âmbito, o pedido de exclusão dos cadastros restritivos deverá cumprir o
 > I - qualquer documento disponível referente à transferência dos recursos, inclusive extratos da conta corrente específica do programa;
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 6 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 6 de 13
 
-[observações locais: "Conclusão parcial:" sem ênfase tipográfica perceptível na imagem; "Transporte do Escolar" e "as justificativa" conforme impresso; "caput" sem itálico perceptível; citação continua na página seguinte]
+[observações locais: "Conclusão parcial" em negrito na renderização com fontes substitutas controladas; peso do sinal de dois-pontos não decidido; "Transporte do Escolar" e "as justificativa" conforme impresso; "caput" sem itálico perceptível; citação continua na página seguinte]
 
 ### Página física 7 — Parecer
 
@@ -236,7 +236,7 @@ Na pendência de prestação de contas do Programa Estadual de Alimentação, o 
 Da análise dos regramentos acima, com redações idênticas, temos que a legislação dos programas exigiu a apresentação conjunta (diferente do caráter alternativo destacado no tópico anterior), os seguintes documentos: cópia
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 7 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 7 de 13
 
 [observações locais: no § 2º do art. 18 (topo) consta "de que trata o §2º dispensa", conforme impresso, diferente do § 2º do art. 17 ("de que trata o caput dispensam"); "as justificativa" conforme impresso]
 
@@ -248,9 +248,9 @@ PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 7 de 13
 
 autenticada das representações protocolizadas junto ao Ministério Público Estadual, ao Tribunal de Contas do Estado, e ao órgão de controle interno municipal, devidamente instruídas com os requisitos do §1º.
 
-Conclusão parcial: A suspensão do registro de inadimplência, em caso de irregularidade imputado ao ex-gestor,  decorrente dos programas estaduais PETE e PEAE somente pode ser realizada acaso apresentadas, obrigatoriamente e em conjunto, as representações protocolizadas junto ao Ministério Público Estadual, ao Tribunal de Contas do Estado, e ao órgão de controle interno municipal.
+**Conclusão parcial**: A suspensão do registro de inadimplência, em caso de irregularidade imputado ao ex-gestor,  decorrente dos programas estaduais PETE e PEAE somente pode ser realizada acaso apresentadas, obrigatoriamente e em conjunto, as representações protocolizadas junto ao Ministério Público Estadual, ao Tribunal de Contas do Estado, e ao órgão de controle interno municipal.
 
-2.3 Comunicação de decisões do Tribunal de Contas do Estado
+**2.3 Comunicação de decisões do Tribunal de Contas do Estado**
 
 A ausência de prestação de contas ou o uso irregular de verbas repassadas aos municípios por força de convênios e instrumentos congêneres enseja a Tomada de Contas Especial no âmbito do Tribunal de Contas do Estado do Pará<sup>4</sup>.
 
@@ -266,10 +266,10 @@ Sobre o tema, a Resolução nº 18.784 do TCE/PA,, que aprovou a Instrução Nor
 
 [nota de rodapé]
 
-<sup>4</sup>vide Constituição Estadual, art. 116, II; da Lei Complementar nº 81/2012 - Lei Orgânica do TCE/PA, arts. 1º, II, “b”, 50 e 52; e do Regimento Interno do TCE/PA arts. 1º, II, “b” e 149 (Ato nº 63/2012).
+<sup>4</sup>*vide* Constituição Estadual, art. 116, II; da Lei Complementar nº 81/2012 - Lei Orgânica do TCE/PA, arts. 1º, II, “b”, 50 e 52; e do Regimento Interno do TCE/PA arts. 1º, II, “b” e 149 (Ato nº 63/2012).
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 8 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 8 de 13
 
 [observações locais: numeração salta de 2.1.2 para "2.3" (sem 2.2 visível nesta página), conforme impresso; "TCE/PA,," com vírgula dupla e "imputado" conforme impresso; espaço duplo após "ex-gestor," visível; citação continua na página seguinte]
 
@@ -300,7 +300,7 @@ Sobre o tema, ressaltamos que a comunicação das decisões à SEDUC podem ocorr
 <sup>5</sup> Para esse fim, considera-se válido o extrato da decisão publicado em diário oficial, o acórdão ou a decisão monocrática assinados ou a ata da sessão de julgamento.
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 9 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 9 de 13
 
 [observações locais: "intrascedência", "própio", "podem ocorrer", "aptos" conforme impresso; "Parágrafo único" do art. 6º na mesma linha do caput, conforme impresso; "(...)" conforme impresso]
 
@@ -316,9 +316,9 @@ Observa-se que a conclusão do Parecer n.º 504/2020<sup>6</sup> no sentido da n
 
 O entendimento acima está em consonância com a perspectiva de que a retirada da restrição imposta ao município por ato de ex-gestor é verdadeiro dever legal do Estado.
 
-Conclusão parcial: Após a abertura da fase externa da Tomada de Contas Especial, o município pode requerer a suspensão do cadastro de inadimplência em razão de ato de ex-gestor perante a SEDUC ou Tribunal de Contas do Estado. Nesse último caso, a comunicação das decisões pode ocorrer pela própria corte de contas ou pelos municípios interessados, desde que munidos com documento oficial.
+**Conclusão parcial**: Após a abertura da fase externa da Tomada de Contas Especial, o município pode requerer a suspensão do cadastro de inadimplência em razão de ato de ex-gestor perante a SEDUC ou Tribunal de Contas do Estado. Nesse último caso, a comunicação das decisões pode ocorrer pela própria corte de contas ou pelos municípios interessados, desde que munidos com documento oficial.
 
-2.4. Comunicação de decisões judiciais
+**2.4. Comunicação de decisões judiciais**
 
 Nos casos em que o Município tenha ingressado com ação judicial, havendo decisão favorável para determinar a suspensão o registro nos cadastros restritivos, deve-se aguardar a comunicação da Procuradoria-Geral do Estado, salvo intimação pessoal do agente público.
 
@@ -327,7 +327,7 @@ Nos casos em que o Município tenha ingressado com ação judicial, havendo deci
 <sup>6</sup>"a) uma vez concluída a fase interna da prestação de contas ou tomada de contas especial, com a remessa dos autos ao Tribunal de Contas do Estado para julgamento final, é possível a retirada de restrição no SIAFEM, pelo órgão concedente, com base no mero comprovante de protocolo de documentação juntada àquela Corte? Não, na situação dos autos, considerando que o gestor que prestou contas é o mesmo que praticou a irregularidade e que a Tomada de Contas já se encontra em fase externa, é necessário aguardar a decisão final no julgamento de contas a ser realizado pelo TCE."
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 10 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 10 de 13
 
 [observações locais: "precedente.." com ponto duplo e "suspensão o registro" conforme impresso; nota 6 sem espaço após o índice, conforme imagem]
 
@@ -343,9 +343,9 @@ Portanto, as Secretarias de Estado não detém atribuição legal para receber m
 
 Todavia, diferencia-se os processos judiciais nos quais as intimações são direcionadas ao próprio agente público responsável pelo ato (e não ao Estado). Nessas ocasiões, a ordem judicial merece cumprimento independemente de comunicação do órgão de representação judicial.
 
-Conclusão parcial: Tendo o município proposto ação judicial para suspensão do registro de inadimplência, a Secretaria somente deve dar cumprimento à ordem judicial após a devida comunicação da Procuradoria-Geral do Estado, salvo no caso de intimação pessoal do agente público.
+**Conclusão parcial**: Tendo o município proposto ação judicial para suspensão do registro de inadimplência, a Secretaria somente deve dar cumprimento à ordem judicial após a devida comunicação da Procuradoria-Geral do Estado, salvo no caso de intimação pessoal do agente público.
 
-3 CONCLUSÃO
+**3 CONCLUSÃO**
 
 Pelo exposto, conclui-se que:
 
@@ -354,7 +354,7 @@ a) o Estado tem o dever de suspender o registro de inadimplência dos município
 a.i) No caso de recurso repassado por meio convênio, o Município deve apresentar uma das três ações propostas no § 1º do art. 7º do Decreto n.º 733/2013: 1ª) instauração de tomada de contas especial no âmbito do próprio Município, 2ª) ajuizamento de ação de improbidade e/ou ressarcimento ao Erário e 3ª) comunicação das faltas identificadas ao Ministério Público.
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 11 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 11 de 13
 
 [observações locais: "independemente" (conferido em ampliação), "detém", "devem ser recebidas", "diferencia-se os", "por meio convênio" conforme impresso]
 
@@ -381,11 +381,11 @@ Belém, 04 de janeiro de 2024.
 BRUNO MAIA FERREIRA [versaletes]
 Procurador do Estado do Pará
 
-Proposta de indexação:
+**Proposta de indexação**:
 Transferência de recursos. Registro de inadimplência. SIAFE. CADIN. Ex-gestor.
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 12 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 12 de 13
 
 [observações locais: "assinado eletronicamente" em itálico com parênteses em redondo; nenhuma assinatura gráfica, carimbo ou QR visível nesta página; a menção a "lista de conferência anexa" é registrada como texto, sem inferência sobre qual página a contém]
 
@@ -395,19 +395,20 @@ PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 12 de 13
 
 ---
 
-Anexo Único - Lista de conferência
+**Anexo Único - Lista de conferência**
 
-[tabela de 4 colunas com bordas; caixas "( )" todas em branco; coluna FLS. vazia em todas as linhas]
+[tabela de 4 colunas com bordas; caixas "( )" todas em branco; coluna FLS. vazia em todas as linhas; cabeçalhos de coluna regulares na imagem, representados por células HTML sem negrito automático]
 
-| HIPÓTESE | DOCUMENTAÇÃO | OBSERVAÇÕES | FLS. |
-|---|---|---|---|
-| ( ) Convênio<br>(Decreto Estadual n. 733/2013) | ( ) instauração de tomada de contas especial no âmbito do próprio Município<br>( ) ajuizamento de ação de improbidade e/ou ressarcimento ao Erário<br>( ) comunicação das faltas identificadas ao Ministério Público. | O município deve apresentar um dos três documentos | |
-| ( ) PETE ou PEAE | Representações contra o ex-gestor protocolizadas junto:<br>( ) Ministério Público Estadual<br>( ) Tribunal de Contas do Estado<br>( ) Órgão de controle interno municipal | O município deve apresentar conjuntamente as três representações | |
-| ( ) Decisão do Tribunal de Contas do Estado do Pará | ( ) Documento oficial do órgão julgador | Pode-se utilizar o extrato da decisão publicado em diário oficial, o acórdão ou a decisão monocrática assinado ou a ata da sessão de julgamento. | |
-| ( ) Decisão do Poder Judiciário | ( ) Orientação de cumprimento da Procuradoria-Geral do Estado | A orientação é encaminhada por meio de ofício. | |
+<table>
+<tr><td>HIPÓTESE</td><td>DOCUMENTAÇÃO</td><td>OBSERVAÇÕES</td><td>FLS.</td></tr>
+<tr><td>( ) Convênio&lt;br&gt;(Decreto Estadual n. 733/2013)</td><td>( ) instauração de tomada de contas especial no âmbito do próprio Município&lt;br&gt;( ) ajuizamento de ação de improbidade e/ou ressarcimento ao Erário&lt;br&gt;( ) comunicação das faltas identificadas ao Ministério Público.</td><td>O município deve apresentar um dos três documentos</td><td></td></tr>
+<tr><td>( ) PETE ou PEAE</td><td>Representações contra o ex-gestor protocolizadas junto:&lt;br&gt;( ) Ministério Público Estadual&lt;br&gt;( ) Tribunal de Contas do Estado&lt;br&gt;( ) Órgão de controle interno municipal</td><td>O município deve apresentar conjuntamente as três representações</td><td></td></tr>
+<tr><td>( ) Decisão do Tribunal de Contas do Estado do Pará</td><td>( ) Documento oficial do órgão julgador</td><td>Pode-se utilizar o extrato da decisão publicado em diário oficial, o acórdão ou a decisão monocrática assinado ou a ata da sessão de julgamento.</td><td></td></tr>
+<tr><td>( ) Decisão do Poder Judiciário</td><td>( ) Orientação de cumprimento da Procuradoria-Geral do Estado</td><td>A orientação é encaminhada por meio de ofício.</td><td></td></tr>
+</table>
 
 [rodapé de página, versaletes]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 13 de 13
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PCON — Página 13 de 13
 
 [observações locais: "decisão monocrática assinado" (singular) conforme impresso nesta tabela, diferente da nota 5 ("assinados"); "protocolizadas junto:" conforme impresso; última página da numeração impressa "de 13"]
 
@@ -419,9 +420,9 @@ PROCURADORIA-GERAL DO ESTADO DO PARÁ | PCON — Página 13 de 13
 
 ---
 
-Processo nº 2023.02.213051 / 2023/1324112
-Interessado: SEDUC- Secretaria de Estado de Educação
-Assunto: Convênio
+Processo nº **2023.02.213051 / 2023/1324112**
+Interessado: **SEDUC- Secretaria de Estado de Educação**
+Assunto: **Convênio**
 
 Exmo. Sr. Procurador-Geral do Estado,
 
@@ -439,7 +440,7 @@ Procuradora-Chefe Consultiva
 [grande espaço em branco]
 
 [rodapé de página, versaletes na primeira linha]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | PROCURADORIA CONSULTIVA
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | PROCURADORIA CONSULTIVA
 Rua dos Tamoios, 1671, bairro Batista Campos, CEP nº 66.033-172, Belém-PA.
 Página 1 de 1
 
@@ -457,7 +458,7 @@ Página 1 de 1
 
 | Rótulo | Valor impresso |
 |---|---|
-| Processo n. | 2023.02.213051 / 2023/1324112 |
+| **Processo n.** | **2023.02.213051 / 2023/1324112** |
 | Interessado | SEDUC- Secretaria de Estado de Educação |
 | Assunto | Convênio |
 
@@ -479,7 +480,17 @@ GISLENO AUGUSTO COSTA DA CRUZ [versaletes]
 Procurador-Geral Adjunto Administrativo, em exercício
 
 [rodapé de página, versaletes na primeira linha]
-PROCURADORIA-GERAL DO ESTADO DO PARÁ | GABINETE DO PROCURADOR-GERAL DO ESTADO
+**PROCURADORIA-GERAL DO ESTADO DO PARÁ** | GABINETE DO PROCURADOR-GERAL DO ESTADO
 Rua dos Tamoios, 1671, bairro Batista Campos, CEP n. 66.033-172, Belém-PA. — Página 1 de 1
 
 [observações locais: a imagem traz hifenização silábica em fim de linha ("suspen-/são", "ir-/regularidades", "ori-/undos", "Parece-/res"), removida nesta transcrição por reunião de linhas; "Parecer Referencial n. 1/2024" conforme impresso aqui (o cabeçalho da pág. 1 traz "000001/2024"); "assinado eletronicamente" em itálico com parênteses em redondo]
+
+## Reexame de ênfases com fontes controladas — 06/11/2026
+
+Quinze páginas sanitizadas inteiras e 45 faixas foram lidas no reexame Sol e em nova revisão independente Astra. As 38 propostas de apresentação receberam suporte visual local nas duas rodadas; aplicadas com hashes de linha e reversão exata. São 36 ajustes de negrito/itálico e duas atualizações de descrição editorial, sem alteração vocabular do corpo. O checklist foi representado por células HTML regulares, preservando o texto de suas cinco linhas e quatro colunas, para não atribuir à fonte o negrito automático de cabeçalhos Markdown.
+
+O reexame usou fontes estáticas substitutas em configuração por processo. Isso documenta o contraste observado nessa renderização, sem autenticar o desenho original, métricas, espaçamento ou codepoints. Peso isolado de dois-pontos e ponto após SIAFE não decididos; a pontuação anterior permanece. A sugestão incidental de trocar “independemente de comunicação” por “independente de comunicação” foi refutada na segunda revisão e não foi aplicada.
+
+As janelas sanitizadas excluíram cabeçalhos/periferia, gráficos, campos nominais e assinaturas; máscaras conservadoras também cobriram segmentos de corpo nas físicas 4, 5 e 7 e partes das físicas 1, 3, 12, 14 e 15. Nada sob essas máscaras foi recertificado ou reconstruído. Portanto, quinze páginas percorridas não equivalem a nova confirmação integral do vocabulário ou de todas as ênfases do original. Leituras e limites das etapas anteriores permanecem atribuídos a elas.
+
+A primeira rodada relatou exibições nominais antes do ajuste das máscaras; a revisão registrou esse histórico e usou vistas sanitizadas próprias. A nova rodada não apaga a exposição anterior nem certifica ausência universal de dados pessoais. Fonte, PDF e configuração de fontes foram preservados. Não há novo ID, novas páginas documentais, autenticação de assinatura, vigência, efeitos jurídicos ou aceite global.
