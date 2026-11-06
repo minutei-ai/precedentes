@@ -22,180 +22,81 @@ O PDF contém 5 página(s). Relatórios, votos e outros atos de contexto permane
 
 #### Página 1 do PDF oficial
 
-                                          GABINETE DO CONSELHEIRO SUBSTITUTO
-                                          Alisson Felipe de Araújo
-    
-    
-    
-    
-                        ACÓRDÃO N.º 520/2025 - PLENO
-    
-    
-    PROCESSO: TC N.º 011.892/2025
-    ASSUNTO: CONSULTA
-    OBJETO:   POSSIBILIDADE DE A FUNDAÇÃO MUNICIPAL DE SAÚDE FIRMAR
-              CONTRATOS DE GESTÃO (CONTRATOS DE DESEMPENHO) COM
-              SUA PRÓPRIA REDE DE ESTABELECIMENTOS DE SAÚDE
-    UNIDADE GESTORA: FUNDAÇÃO MUNICIPAL DE SAÚDE DE TERESINA
-    EXERCÍCIO FINANCEIRO: 2025
-    CONSULENTE: SR.ª LEOPOLDINA CIPRIANO FEITOSA - PRESIDENTE DA
-                  FUNDAÇÃO MUNICIPAL DE SAÚDE
-    PROCURADOR-CHEFE DA FMS:      DR. MARCELO FANCO DAMASCENO DOS
-                                  SANTOS
-    RELATOR: CONSELHEIRO-SUBSTITUTO ALISSON FELIPE DE ARAÚJO
-    PROCURADOR DO MPC: MÁRCIO ANDRÉ MADEIRA DE VASCONCELOS
-    SESSÃO VIRTUAL DE JULGAMENTO DO PLENO, DE 9 A 15 DE DEZEMBRO DE
-    2025.
-    
-    
-    
-                                                   EMENTA: CONTROLE EXTERNO E DIREITO
-                                                   ADMINISTRATIVO. CONSULTA. CONTRATOS DE
-                                                   GESTÃO. CONHECIMENTO. RESPOSTA NO
-                                                   SENTIDO DA POSSIBILIDADE DA REALIZAÇÃO
-                                                   DE CONTRATOS DE GESTÃO COM SUA PRÓPRIA
-                                                   REDE DE ESTABELECIMENTO DE SAÚDE.
-    
-                                                   I. CASO EM EXAME
-                                                   1. Consulta para dirimir dúvidas acerca da
-                                                       possibilidade da Fundação Municipal de Saúde
-                                                       firmar contratos de gestão (contratos de
-                                                       desempenho) com sua própria rede de
-                                                       estabelecimentos de saúde.
-    
-                                                   II. QUESTÃO EM DISCUSSÃO
-                                                   2. A questão em discussão consiste na viabilidade de a
-                                                       Fundação Municipal de Saúde formalizar
-                                                       instrumentos de gestão com os estabelecimentos de
-                                                       saúde que compõem sua própria estrutura
-                                                       administrativa, com o propósito de pactuar
-                                                       compromissos recíprocos voltados ao atingimento de
-                                                       objetivos de interesse público, expressos por meio
-                                                       de metas de desempenho.
-    
-                                                   III. RAZÕES DE DECIDIR
-    
-    
-                                    ACÓRDÃO n.º 520/2025 – PLENO
-                           Gabinete do Conselheiro Substituto Alisson Araújo
-                                       Processo n.º 011.892/2025
-                                                  1/4
-    
+Tribunal de Contas do Estado do Piauí
+GABINETE DO CONSELHEIRO SUBSTITUTO
+Alisson Felipe de Araújo
+
+**ACÓRDÃO N.º 520/2025 - PLENO**
+
+**PROCESSO: TC N.º 011.892/2025**
+**ASSUNTO:** CONSULTA
+**OBJETO:** POSSIBILIDADE DE A FUNDAÇÃO MUNICIPAL DE SAÚDE FIRMAR CONTRATOS DE GESTÃO (CONTRATOS DE DESEMPENHO) COM SUA PRÓPRIA REDE DE ESTABELECIMENTOS DE SAÚDE
+**UNIDADE GESTORA:** FUNDAÇÃO MUNICIPAL DE SAÚDE DE TERESINA
+**EXERCÍCIO FINANCEIRO: 2025**
+**CONSULENTE:** SR.ª LEOPOLDINA CIPRIANO FEITOSA - PRESIDENTE DA FUNDAÇÃO MUNICIPAL DE SAÚDE
+**PROCURADOR-CHEFE DA FMS:** DR. MARCELO FANCO DAMASCENO DOS SANTOS
+**RELATOR:** CONSELHEIRO-SUBSTITUTO ALISSON FELIPE DE ARAÚJO
+**PROCURADOR DO MPC:** MÁRCIO ANDRÉ MADEIRA DE VASCONCELOS
+**SESSÃO VIRTUAL DE JULGAMENTO DO PLENO, DE 9 A 15 DE DEZEMBRO DE 2025.**
+
+**EMENTA:** CONTROLE EXTERNO E DIREITO ADMINISTRATIVO. CONSULTA. CONTRATOS DE GESTÃO. CONHECIMENTO. RESPOSTA NO SENTIDO DA POSSIBILIDADE DA REALIZAÇÃO DE CONTRATOS DE GESTÃO COM SUA PRÓPRIA REDE DE ESTABELECIMENTO DE SAÚDE.
+
+**I.CASO EM EXAME**
+1. Consulta para dirimir dúvidas acerca da possibilidade da Fundação Municipal de Saúde firmar contratos de gestão (contratos de desempenho) com sua própria rede de estabelecimentos de saúde.
+
+**II. QUESTÃO EM DISCUSSÃO**
+2. A questão em discussão consiste na viabilidade de a Fundação Municipal de Saúde formalizar instrumentos de gestão com os estabelecimentos de saúde que compõem sua própria estrutura administrativa, com o propósito de pactuar compromissos recíprocos voltados ao atingimento de objetivos de interesse público, expressos por meio de metas de desempenho.
+
+**III. RAZÕES DE DECIDIR**
+
+ACÓRDÃO nº 520/2025 – PLENO
+Gabinete do Conselheiro Substituto Alisson Araújo
+Processo n.º 011.892/2025
+1/4
 
 #### Página 2 do PDF oficial
 
-                   GABINETE DO CONSELHEIRO SUBSTITUTO
-                   Alisson Felipe de Araújo
-    
-    
-    
-    
-                            3. A Fundação Municipal de Saúde possui natureza
-                               jurídica de fundação pública autárquica, integrando a
-                               Administração Indireta do Município de Teresina.
-                               Suas unidades, hospitais, UPAs, centros de saúde e
-                               demais estabelecimentos, constituem órgãos
-                               despersonalizados, sem autonomia jurídica para
-                               contrair obrigações perante a própria entidade
-                               instituidora.
-                            4. De acordo com a teoria clássica dos contratos
-                               administrativos, a formação de vínculo contratual
-                               pressupõe a existência de duas pessoas jurídicas
-                               distintas, entre as quais se estabelece relação
-                               bilateral com obrigações recíprocas. No caso em
-                               exame, por se tratar de ajustes celebrados entre a
-                               Fundação e unidades administrativas que integram a
-                               mesma estrutura organizacional, inexiste, portanto,
-                               relação contratual em sentido próprio.
-                            5. Assim, a celebração de contratos de desempenho
-                               entre a FMS e suas unidades deve ser compreendida
-                               como mecanismo de planejamento, organização e
-                               gestão,      voltado     à    descentralização     de
-                               responsabilidades,     definição    de     metas    e
-                               monitoramento de resultados, em conformidade com
-                               os princípios da eficiência e da melhoria da
-                               qualidade dos serviços prestados.
-                            6. Desse modo, embora o Município tenha editado a
-                               Lei Municipal n.º 6.161/2024, que regulamenta o
-                               contrato de desempenho previsto no art. 37, § 8º, da
-                               Constituição Federal, no âmbito da Administração
-                               Direta, Autarquias e Fundações, não é possível
-                               atribuir natureza contratual a ajustes firmados no
-                               interior da mesma pessoa jurídica, sob pena de
-                               violação à lógica jurídico-administrativa, razão pela
-                               qual se recomenda a instrumentalização de tais
-                               ajustes por meio do Termo de Compromisso de
-                               Gestão ou congênere, com natureza de ato
-                               administrativo     interno    de    organização     e
-                               gerenciamento,       voltado    à    eficiência,    à
-                               descentralização e ao alcance de resultados no
-                               âmbito da mesma pessoa jurídica.
-                            7. Isso posto, proponho a resposta da consulta no
-                               sentido de que é possível a Fundação Municipal de
-                               Saúde estabelecer instrumento formal de pactuação
-                               de metas de desempenho com os estabelecimentos
-                               de saúde a ela subordinados, recomendando-se que
-                               seja feito por meio de instrumento interno de gestão,
-                               a exemplo de Termo de Compromisso de Gestão ou
-                               congênere, de natureza eminentemente organizatória
-                               e gerencial.
-             ACÓRDÃO n.º 520/2025 – PLENO
-    Gabinete do Conselheiro Substituto Alisson Araújo
-                Processo n.º 011.892/2025
-                           2/4
-    
+Tribunal de Contas do Estado do Piauí
+GABINETE DO CONSELHEIRO SUBSTITUTO
+Alisson Felipe de Araújo
+
+3. A Fundação Municipal de Saúde possui natureza jurídica de fundação pública autárquica, integrando a Administração Indireta do Município de Teresina. Suas unidades, hospitais, UPAs, centros de saúde e demais estabelecimentos, constituem órgãos despersonalizados, sem autonomia jurídica para contrair obrigações perante a própria entidade instituidora.
+4. De acordo com a teoria clássica dos contratos administrativos, a formação de vínculo contratual pressupõe a existência de duas pessoas jurídicas distintas, entre as quais se estabelece relação bilateral com obrigações recíprocas. No caso em exame, por se tratar de ajustes celebrados entre a Fundação e unidades administrativas que integram a mesma estrutura organizacional, inexiste, portanto, relação contratual em sentido próprio.
+5. Assim, a celebração de contratos de desempenho entre a FMS e suas unidades deve ser compreendida como mecanismo de planejamento, organização e gestão, voltado à descentralização de responsabilidades, definição de metas e monitoramento de resultados, em conformidade com os princípios da eficiência e da melhoria da qualidade dos serviços prestados.
+6. Desse modo, embora o Município tenha editado a Lei Municipal n.º 6.161/2024, que regulamenta o contrato de desempenho previsto no art. 37, § 8º, da Constituição Federal, no âmbito da Administração Direta, Autarquias e Fundações, não é possível atribuir natureza contratual a ajustes firmados no interior da mesma pessoa jurídica, sob pena de violação à lógica jurídico-administrativa, razão pela qual se recomenda a instrumentalização de tais ajustes por meio do Termo de Compromisso de Gestão ou congênere, com natureza de ato administrativo interno de organização e gerenciamento, voltado à eficiência, à descentralização e ao alcance de resultados no âmbito da mesma pessoa jurídica.
+7. Isso posto, proponho a resposta da consulta no sentido de que é possível a Fundação Municipal de Saúde estabelecer instrumento formal de pactuação de metas de desempenho com os estabelecimentos de saúde a ela subordinados, recomendando-se que seja feito por meio de instrumento interno de gestão, a exemplo de Termo de Compromisso de Gestão ou congênere, de natureza eminentemente organizatória e gerencial.
+
+ACÓRDÃO nº 520/2025 – PLENO
+Gabinete do Conselheiro Substituto Alisson Araújo
+Processo n.º 011.892/2025
+2/4
 
 #### Página 3 do PDF oficial
 
-                                               GABINETE DO CONSELHEIRO SUBSTITUTO
-                                               Alisson Felipe de Araújo
-    
-    
-    
-    
-                                                        IV. DISPOSITIVO
-                                                        8. Conhecimento da Consulta. Possibilidade de a
-                                                            Fundação Municipal de Saúde estabelecer
-                                                            instrumento formal de pactuação de metas de
-                                                            desempenho com os estabelecimentos de saúde a ela
-                                                            subordinados.
-                                                        _____________________________
-                                                        Dispositivos relevantes citados: CF/1988, art. 37, § 8º.
-    
-                                                        Sumário. Consulta. Município de Teresina. Fundação
-                                                        Municipal de Saúde. Exercício Financeiro de 2025.
-                                                        Conhecimento da Consulta. Possibilidade de a
-                                                        Fundação Municipal de Saúde estabelecer instrumento
-                                                        formal de pactuação de metas de desempenho com os
-                                                        estabelecimentos de saúde a ela subordinados. Decisão
-                                                        unânime.
-    
-    
-    
-    
-    Vistos, relatados e discutidos os presentes autos, referentes a Consulta interposta pela
-    Sr.ª Leopoldina Cipriano Feitosa - Presidente da Fundação Municipal de Saúde, no
-    exercício financeiro de 2025, considerando a Decisão Monocrática n.º 002/2025 - CS
-    (pç. 12), as informações da Secretaria do Tribunal (relatório da Diretoria de
-    Fiscalização de Licitações e Contratações - DFCONTRATOS 3, pç. 17), o parecer
-    ministerial (pç. 20), a proposta de voto do Relator, Conselheiro Substituto Alisson
-    Felipe de Araújo (pç. 23), e o mais que dos autos consta, acordam os Conselheiros,
-    unânimes, em consonância com o parecer ministerial, em:
-    a) Conhecer a presente Consulta, por preencher os requisitos de admissibilidade
-       previstos em lei;
-    b) no mérito, Respondê-la no sentido de que é possível a Fundação Municipal de
-       Saúde estabelecer instrumento formal de pactuação de metas de desempenho com
-       os estabelecimentos de saúde a ela subordinados, recomendando-se que seja feito
-       por meio de instrumento interno de gestão, a exemplo de Termo de Compromisso
-       de Gestão ou congênere, de natureza eminentemente organizatória e gerencial.
-    
-    
-    Presidente: Conselheiro Joaquim Kennedy Nogueira Barros.
-                                         ACÓRDÃO n.º 520/2025 – PLENO
-                                Gabinete do Conselheiro Substituto Alisson Araújo
-                                            Processo n.º 011.892/2025
-                                                       3/4
-    
+Tribunal de Contas do Estado do Piauí
+GABINETE DO CONSELHEIRO SUBSTITUTO
+Alisson Felipe de Araújo
+
+**IV.DISPOSITIVO**
+8. Conhecimento da Consulta. Possibilidade de a Fundação Municipal de Saúde estabelecer instrumento formal de pactuação de metas de desempenho com os estabelecimentos de saúde a ela subordinados.
+
+*Dispositivos relevantes citados: CF/1988, art. 37, § 8º.*
+
+*Sumário. Consulta. Município de Teresina. Fundação Municipal de Saúde. Exercício Financeiro de 2025. Conhecimento da Consulta. Possibilidade de a Fundação Municipal de Saúde estabelecer instrumento formal de pactuação de metas de desempenho com os estabelecimentos de saúde a ela subordinados. Decisão unânime.*
+
+Vistos, relatados e discutidos os presentes autos, referentes a Consulta interposta pela Sr.ª Leopoldina Cipriano Feitosa - Presidente da Fundação Municipal de Saúde, no exercício financeiro de 2025, considerando a Decisão Monocrática n.º 002/2025 - C<sub>S</sub> (pç. 12), as informações da Secretaria do Tribunal (relatório da Diretoria de Fiscalização de Licitações e Contratações - DFCONTRATOS 3, pç. 17), o parecer ministerial (pç. 20), a proposta de voto do Relator, Conselheiro Substituto Alisson Felipe de Araújo (pç. 23), e o mais que dos autos consta, acordam os Conselheiros, **unânimes**, em consonância com o parecer ministerial, em:
+
+**a) Conhecer** a presente Consulta, por preencher os requisitos de admissibilidade previstos em lei;
+**b)** no mérito, **Respondê-la** no sentido de que é possível a Fundação Municipal de Saúde estabelecer instrumento formal de pactuação de metas de desempenho com os estabelecimentos de saúde a ela subordinados, recomendando-se que seja feito por meio de instrumento interno de gestão, a exemplo de Termo de Compromisso de Gestão ou congênere, de natureza eminentemente organizatória e gerencial.
+
+**Presidente:** Conselheiro Joaquim Kennedy Nogueira Barros.
+
+ACÓRDÃO nº 520/2025 – PLENO
+Gabinete do Conselheiro Substituto Alisson Araújo
+Processo n.º 011.892/2025
+3/4
+
+[Referências pç. 12, 17, 20 e 23 em azul e sublinhadas na imagem; destinos não inferidos. C<sub>S</sub> representa S rebaixado impresso.]
 
 #### Página 4 do PDF oficial
 
@@ -280,3 +181,5 @@ CONTROLE EXTERNO E DIREITO ADMINISTRATIVO. CONSULTA. CONTRATOS DE GESTÃO. CONHE
 [011892-2025](https://www.tcepi.tc.br/wp-content/uploads/2026/01/011892-2025.pdf)
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
+
+Cotejo adicional — next011: vinte físicas/contextos no conjunto, com leitura visual Sol e revisão independente integral Astra. Documento 1, físicas 1–3: corpo e referências cotejados até a continuação fora do escopo. S maiúsculo rebaixado representado por marca sub; destinos das referências não consultados. Logotipos foram descritos textualmente; microlendas ilegíveis, geometria e ênfases não decidíveis não são fac-símile. Vínculos de fonte/contexto continuam atribuídos ao inventário, sem prova autônoma de identidade jurídica. Não se certificam autenticidade, assinatura válida, vigência ou efeitos. Ressalvas anteriores preservadas.
